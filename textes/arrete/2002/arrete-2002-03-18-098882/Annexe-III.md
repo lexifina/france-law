@@ -1,1184 +1,718 @@
 # Article Annexe III
 
-MÉTHODES DE MESURAGE DU BRUIT AÉRIEN
+MÉTHODES DE MESURAGE DU BRUIT AÉRIEN ÉMIS PAR LES MATÉRIELS UTILISÉS À L'EXTÉRIEUR DES BÂTIMENTS
 
-Champ d'application
+Introduction
 
-La présente annexe décrit les méthodes de mesurage du bruit aérien à utiliser pour déterminer les niveaux de puissance acoustique des matériels auxquels le présent arrêté s'applique en vue de la mise en oeuvre des procédures d'évaluation de la conformité.
+La présente annexe décrit les méthodes de mesurage du bruit aérien qui doivent être utilisées pour déterminer les niveaux de puissance acoustique des matériels destinés à être utilisés à l'extérieur des bâtiments.
 
-La partie A de la présente annexe fixe, pour chaque type de matériel visé aux articles 5 et 6 du présent arrêté :
+La partie A de la présente annexe fixe la norme de base sur les émissions sonores et des dispositions générales complétant la norme de base sur les émissions sonores pour le mesurage du niveau de pression acoustique sur une surface de mesurage enveloppant la source ainsi que pour le calcul du niveau de puissance acoustique produit par cette source.
 
-- des normes de base sur les émissions sonores ;
+La partie B de la présente annexe définit le code d'essai acoustique spécifique au matériel, qui est présenté soit en tant que référence à une norme spécifique, soit en tant que description des conditions d'essai et de fonctionnement applicables, comprenant :
 
-- des dispositions générales complétant ces normes de base sur les émissions sonores,
+a) L'environnement d'essai ;
 
-pour le mesurage du niveau de pression acoustique sur une surface de mesurage enveloppant la source ainsi que pour le calcul du niveau de puissance acoustique produit par la source.
+b) La valeur de la correction environnementale (K2A) ;
 
-La partie B de la présente annexe fixe, pour chaque matériel visé aux articles 5 et 6 du présent arrêté :
+c) La forme et les dimensions de la surface de mesurage ;
 
-- une norme de base recommandée sur les émissions sonores comprenant :
+d) Le nombre et la position des microphones à utiliser ;
 
-- une référence à la norme de base sur les émissions sonores parmi celles décrites dans la partie A ;
+e) Des prescriptions relatives au montage et à l'installation du matériel ;
 
-- l'aire d'essai ;
+f) Une méthode de calcul des niveaux de puissance acoustique dans le cas où plusieurs essais sont à effectuer dans des conditions de fonctionnement différentes.
 
-- la valeur de la constante K2A ;
+Lors de l'essai de types de matériels spécifiques, les fabricants ou leurs mandataires dans l'Union doivent utiliser la norme de base sur les émissions sonores et les dispositions générales complémentaires de la partie A de la présente annexe, ainsi que le code d'essai acoustique spécifique au matériel indiqué dans la partie B. Les codes d'essai acoustique de la partie B sont destinés à compléter les spécifications énoncées dans la partie A en tenant compte des caractéristiques des différentes catégories de matériels. Lorsque les codes d'essai acoustique de la partie B prévoient la possibilité de choisir entre différentes solutions techniques alternatives, les fabricants ou leurs mandataires dans l'Union utilisent celles-ci conformément aux spécifications énoncées dans la partie A. En cas de divergence entre la partie A et la partie B, les dispositions de la partie B l'emportent.
 
-- la forme de la surface de mesurage ;
+Au cas où les codes d'essai acoustique définis dans la partie B, ou dans les normes visées dans la partie B, ne seraient pas applicables pour certains modèles d'un matériel inclus dans la catégorie de matériels, les fabricants ou leurs mandataires dans l'Union déterminent le niveau de puissance acoustique garanti conformément à la norme de base sur les émissions sonores et aux dispositions générales complémentaires indiquées dans la partie A.
 
-- le nombre et la position des microphones à utiliser ;
+Pour les matériels énumérés à l'article 5 du présent arrêté, au cas où l'utilisation des méthodes de mesurage du bruit définies dans la présente annexe ou de celles définies dans la version de l'annexe III qui étaient applicable avant le 22 mai 2025, conduirait à deux situations différentes de conformité du produit, à savoir que le niveau de puissance acoustique garanti calculé en utilisant une méthode dépasse le niveau de puissance acoustique admissible prescrit à l'article 5 du présent arrêté mais que ce n'est pas le cas quand l'autre méthode est utilisée, les fabricants ou leurs mandataires dans l'Union déterminent le niveau de puissance acoustique mesuré et le niveau de puissance acoustique garanti conformément aux méthodes définies dans la version de l'annexe III qui était applicable avant le 22 mai 2025 jusqu'à ce que les niveaux de puissance acoustique admissibles de l'article 5 du présent arrêté soient modifiés. Dans cette situation, les organismes notifiés et les autorités de surveillance du marché utilisent également la méthode définie dans la version de l'annexe III qui était applicable avant le 22 mai 2025, pour effectuer les essais de bruit prescrits dans la procédure applicable d'évaluation de la conformité.
 
-- les conditions de fonctionnement comprenant :
+PARTIE A NORME DE BASE SUR LES ÉMISSIONS SONORES
 
-- une référence à une norme, le cas échéant ;
+Les fabricants ou leurs mandataires dans l'Union utilisent la norme de base sur les émissions sonores EN ISO 3744:2010 afin de déterminer le niveau de puissance acoustique LWA, sous réserve des dispositions générales complémentaires figurant dans la partie A. Les fabricants ou leurs mandataires dans l'Union appliquent les prescriptions de la norme EN ISO 3744:2010, sauf disposition contraire dans la présente partie A, ou dans le code d'essai acoustique applicable défini dans la partie B de la présente annexe.
 
-- les prescriptions de montage du matériel ;
+1. Fonctionnement de la source de bruit durant l'essai
 
-- une méthode de calcul des niveaux de puissance acoustique, dans le cas où plusieurs essais sont à effectuer dans des conditions de fonctionnement différentes ;
+1.1. Vitesse du ventilateur
 
-- divers autres points.
+Si le moteur du matériel ou son système hydraulique comporte un ou plusieurs ventilateurs, ceux-ci doivent fonctionner lors de l'essai. Les fabricants ou leurs mandataires dans l'Union règlent la vitesse du ventilateur conformément aux prescriptions énoncées aux points a à d, selon le cas, mentionnent la vitesse du ventilateur dans le rapport d'essai et l'utilisent dans les autres mesures. Les ventilateurs ne doivent pas fonctionner en mode inverse pendant les essais.
 
-D'une manière générale et pour tester un type de matériel particulier, le fabricant ou son mandataire établi dans la Communauté peut choisir une des normes de base sur les émissions sonores parmi celles qui figurent dans la partie A et appliquer les conditions de fonctionnement décrites dans la partie B pour le type de matériel concerné. En cas de litige, toutefois, la norme de base recommandée et indiquée à la partie B doit être utilisée dans les conditions de fonctionnement également précisées à la partie B.
+a) Ventilateur directement entraîné par le moteur ou son système hydraulique :
 
-PARTIE A
-
-NORMES DE BASE SUR LES ÉMISSIONS SONORES
-
-Les normes de base sur les émissions sonores sont les normes NF EN ISO 3744 - novembre 1995 et NF EN ISO 3746 - mai 1996. Elles peuvent en principe être utilisées pour la détermination du niveau de puissance acoustique des matériels concernés, sous réserve des dispositions complémentaires générales suivantes.
-
-1. Incertitude de mesure
-
-Les incertitudes de mesure ne sont pas prises en compte dans le cadre des procédures d'évaluation de la conformité lors de la phase de conception.
-
-2. Fonctionnement de la source durant l'essai
-
-2.1. Vitesse du ventilateur
-
-Si le moteur du matériel ou son système hydraulique comporte un (ou plusieurs) ventilateur(s), celui-ci (ceux-ci) doit (doivent) fonctionner lors de l'essai. La vitesse du ventilateur est déterminée et réglée par le fabricant du matériel en fonction d'une des conditions énoncées ci-après. Elle doit figurer dans le rapport d'essai, car elle est utilisée lors d'essais ultérieurs.
-
-a) Ventilateur directement entraîné par le moteur :
-
-Si le ventilateur est connecté directement au moteur ou au matériel hydraulique (par exemple par une courroie d'entraînement), il doit fonctionner au cours de l'essai.
+Si le ventilateur est connecté directement au moteur ou à son système hydraulique, il doit fonctionner au cours de l'essai.
 
 b) Ventilateur à plusieurs vitesses distinctes :
 
-Si le ventilateur peut fonctionner à des vitesses différentes, l'essai est réalisé :
+Si le ventilateur peut fonctionner à des vitesses distinctes, l'essai est réalisé de l'une des manières suivantes :
 
-- soit à la vitesse maximale de travail ;
+i) soit à la vitesse maximale de travail ;
 
-- soit, lors d'un premier essai, avec le ventilateur à l'arrêt, puis, lors d'un second essai, avec le ventilateur à la vitesse maximale. Le niveau de pression acoustique LpA est alors calculé en combinant les résultats des deux essais selon l'équation :
+ii) soit, lors d'un premier essai, avec le ventilateur à l'arrêt puis, lors d'un second essai, avec le ventilateur à la vitesse maximale.
 
-LpA = 10 lg (0,3 x 100,¹ LpA, 0 % + 0,7 x 100,¹ LpA, ¹00 %)
+Pour les besoins du point ii, le niveau de pression acoustique surfacique pondéré À LpA est calculé en combinant les résultats des deux essais au moyen de l'équation suivante :
 
-où :
+L pA = 10 lg (0,3 × 100,1 LpA,0 % + 0,7 × 100,1 LpA,100 %)
 
-LpA, 0 % est le niveau de pression acoustique déterminé avec le ventilateur à l'arrêt ;
+dans laquelle :
 
-LpA, 100 % est le niveau de pression acoustique déterminé avec le ventilateur à la vitesse maximale.
+- LpA,0 % est le niveau de pression acoustique surfacique pondéré A déterminé avec le ventilateur à l'arrêt ;
+
+- LpA,100 % est le niveau de pression acoustique surfacique pondéré A déterminé avec le ventilateur réglé sur la vitesse maximale.
 
 c) Ventilateur dont la vitesse varie de façon continue :
 
-Si le ventilateur peut fonctionner à une vitesse qui varie de façon continue, l'essai est effectué soit selon la méthode du point 2.1 (b), soit avec la vitesse réglée par le fabricant à au moins 70 % de la vitesse maximale.
+Si le ventilateur peut fonctionner à une vitesse qui varie de façon continue, l'essai est effectué soit selon la méthode du point 1.1 b, soit avec une vitesse réglée par le fabricant à au moins 70 % de la vitesse maximale.
 
-2.2. Essai sans charge des matériels motorisés
+Les ventilateurs visco-statiques, qui sont automatiquement réglés par la température du moteur, sont à considérer comme fonctionnant à une vitesse qui varie de façon continue, quelle que soit l'origine du contrôle.
 
-Aux fins de ces mesures, le moteur ou le système hydraulique du matériel doit être préchauffé comme l'indique la notice d'instructions et les consignes de sécurité doivent être respectées.
+d) Matériels ayant plus d'un ventilateur :
 
-L'essai est réalisé avec le matériel en position stationnaire sans faire fonctionner l'équipement de travail ni le mécanisme de déplacement. Aux fins de l'essai, le moteur fonctionne au ralenti à une vitesse au moins égale à la vitesse nominale correspondant à la puissance nette (cf. note 1) .
+Lorsqu'une machine est équipée de plus d'un ventilateur, tous les ventilateurs doivent fonctionner dans les conditions spécifiées au point a, b ou c, selon le cas.
 
-Si la source d'énergie de la machine est un groupe électrogène ou le secteur, la fréquence du courant d'alimentation, spécifiée par le fabricant, doit être stable à 1 Hz si la machine est équipée d'un moteur à induction et la tension d'alimentation à 1 % de la tension nominale si la machine est équipée d'un moteur à collecteur. La tension d'alimentation est mesurée à la fiche d'un câble ou d'un cordon inamovible, ou à l'entrée de la machine si le câble fourni est amovible. La forme d'onde du courant fourni par le groupe électrogène doit être similaire à celle du courant de secteur.
+1.2. Essai sans charge des matériels motorisés
 
-Si le courant provient de batteries, la batterie doit être à pleine charge.
+Avant de mesurer le bruit émis par un matériel motorisé sans charge, les fabricants ou leurs mandataires dans l'Union doivent préchauffer le moteur et le système hydraulique du matériel conformément aux instructions d'utilisation et observer les prescriptions de sécurité.
 
-La vitesse utilisée et la puissance nette correspondante sont indiquées par le fabricant du matériel et doivent figurer dans le rapport d'essai.
+Les fabricants ou leurs mandataires dans l'Union doivent mesurer le bruit avec le matériel en position stationnaire, sans faire fonctionner l'équipement de travail ni le mécanisme de déplacement. Aux fins du mesurage, le moteur fonctionne au ralenti (1) à une vitesse au moins égale à la vitesse nominale correspondant à la puissance nette (2).
 
-Lorsque le matériel comporte plusieurs moteurs, ceux-ci doivent fonctionner simultanément lors des essais. Si cela n'est pas possible, toutes les combinaisons possibles des moteurs doivent être testées.
+Lorsque la source d'énergie de la machine est un groupe électrogène ou le secteur, la fréquence du courant d'alimentation, spécifiée par le fabricant, doit être stable à ± 1 Hz si la machine est équipée d'un moteur à induction et la tension d'alimentation à ± 1 % de la tension nominale si la machine est équipée d'un moteur à collecteur. La tension d'alimentation est mesurée à la fiche d'un câble ou d'un cordon inamovible, ou à l'entrée de la machine si le câble fourni est amovible. La forme d'onde du courant fourni par le groupe électrogène doit être similaire à celle du courant de secteur.
 
-2.3. Essai en charge des matériels motorisés
+Lorsque plusieurs plages de tension sont étiquetées sur la machine, les fabricants ou leurs mandataires dans l'Union prennent les mesures à la plage de tension la plus élevée indiquée. Si la plage de tension est comprise entre 220 et 240 V, l'essai doit être effectué à 230 V.
 
-Pour ces mesures, le moteur et le système hydraulique du matériel doivent être préchauffés comme l'indique la notice d'instructions et les consignes de sécurité doivent être respectées. Aucun dispositif d'avertissement tel qu'un klaxon ou un avertisseur de recul ne doit être utilisé pendant l'essai.
+Si la machine est alimentée par une ou plusieurs batteries, les batteries doivent être chargées à au moins 70 % de leur capacité.
 
-Le régime ou la vitesse de déplacement du matériel en cours d'essai doit être enregistré et figurer dans le rapport d'essai.
+Le régime nominal utilisé et la puissance nette correspondante sont indiqués dans le rapport d'essai par les fabricants ou leurs mandataires dans l'Union.
 
-Lorsque le matériel comporte plusieurs moteurs et/ou équipements, ceux-ci doivent fonctionner simultanément lors de l'essai. Si cela n'est pas possible, toutes les combinaisons possibles de moteurs et/ou d'équipements doivent être testées.
+Lorsque le matériel comporte plusieurs moteurs, ceux-ci doivent fonctionner simultanément pendant les mesures. Si cela n'est pas possible, les émissions de bruit doivent être mesurées avec chaque combinaison possible de moteurs.
 
-Pour chaque type de matériel testé en charge, il convient de définir les conditions de fonctionnement théoriquement propres à produire des effets et des contraintes semblables aux conditions réelles de travail.
+1.3. Essai en charge des matériels motorisés
 
-2.4. Essai des matériels sans moteur
+Avant de mesurer le bruit émis par un matériel motorisé en charge, les fabricants ou leurs mandataires dans l'Union doivent préchauffer le moteur (organe d'entraînement) et le système hydraulique du matériel conformément aux instructions d'utilisation et observer les prescriptions de sécurité. Les fabricants ou leurs mandataires dans l'Union ne doivent pas utiliser un dispositif de signalisation, tel qu'un avertisseur sonore ou une alarme de marche arrière, pendant la mesure.
 
-Il convient de fixer, pour chaque type de matériel sans moteur, les conditions de fonctionnement conventionnelles propres à produire des effets et contraintes semblables aux conditions réelles d'utilisation.
+Les fabricants ou leurs mandataires dans l'Union doivent enregistrer la vitesse ou vélocité du matériel pendant le mesurage et indiquer cette vitesse ou vélocité dans le rapport d'essai.
 
-3. Calcul du niveau de pression acoustique surfacique
+Lorsque le matériel est équipé de plusieurs moteurs ou agrégats, ces moteurs ou agrégats doivent fonctionner simultanément pendant les mesurages, à moins que cela ne soit pas possible, auquel cas les fabricants doivent mesurer le bruit de chaque combinaison possible de moteurs ou agrégats.
 
-Le niveau de pression acoustique surfacique doit être déterminé à au moins trois reprises. Si au moins deux des valeurs déterminées ne diffèrent pas de plus de 1 dB, il n'est pas nécessaire de procéder à de nouveaux mesurages ; dans le cas contraire, on procède à d'autres mesures jusqu'à obtention de deux valeurs dont l'écart est inférieur ou égal à 1 dB. Le niveau de pression acoustique surfacique pondéré A à utiliser pour le calcul du niveau de puissance acoustique est la moyenne arithmétique des deux valeurs les plus élevées dont l'écart est inférieur ou égal à 1 dB.
+Les constructeurs ou leurs mandataires dans l'Union doivent définir les conditions de fonctionnement spécifiques pour chaque type de matériel en charge. Les conditions de fonctionnement spécifiques doivent, autant que possible, produire des effets et contraintes semblables à ceux rencontrés dans les conditions réelles d'utilisation.
 
-4. Informations à inclure dans le rapport
+1.4. Essai des matériels sans moteur
 
-Le niveau de puissance acoustique pondéré A de la source en essai doit être arrondi à l'entier le plus proche (pour une décimale inférieure à 0,5, arrondir à l'entier inférieur ; pour une décimale égale ou supérieure à 0,5, arrondir à l'entier supérieur).
+Les fabricants ou leurs mandataires dans l'Union doivent fixer des conditions de fonctionnement conventionnelles pour chaque type de matériel sans moteur qui produisent des effets et des contraintes semblables à ceux rencontrés dans les conditions réelles d'utilisation.
 
-Le rapport doit contenir les données techniques nécessaires à l'identification de la source soumise à l'essai ainsi que le code d'essai et les données acoustiques.
+2. Détermination du niveau de pression acoustique surfacique
 
-5. Positions de microphones supplémentaires sur la surface
+Les fabricants ou leurs mandataires dans l'Union doivent déterminer le niveau de pression acoustique surfacique au moins trois fois. Si au moins deux des valeurs déterminées ne diffèrent pas de plus de 1 dB, il n'est pas nécessaire de procéder à de nouveaux mesurages. Si ce n'est pas le cas, les fabricants ou leurs mandataires dans l'Union doivent procéder à d'autres mesures jusqu'à ce qu'ils obtiennent deux valeurs qui ne diffèrent pas de plus de 1 dB. Le niveau de pression acoustique surfacique pondéré A que les fabricants ou leurs mandataires dans l'Union doivent utiliser pour le calcul du niveau de puissance acoustique est la moyenne arithmétique des deux valeurs les plus élevées dont l'écart est inférieur ou égal à 1 dB.
 
-de mesurage hémisphérique (NF EN ISO 3744 - novembre 1995)
+Dans la mesure du possible, les fabricants ou leurs mandataires dans l'Union prennent les mesures de bruit simultanément à toutes les positions de microphones. Cela est particulièrement important pour les essais dynamiques. Lorsque cela n'est pas possible, les fabricants ou leurs mandataires dans l'Union doivent veiller tout particulièrement à assurer des conditions stables dans l'environnement d'essai et à minimiser les risques d'inclure des variations non désirées dans le bruit émis pas la machine ou par d'autres facteurs, notamment le bruit de fond et la vitesse du vent.
 
-En plus des paragraphes 7.2.1 et 7.2.2 de la norme NF EN ISO 3744 - novembre 1995, un ensemble de 12 microphones peut être utilisé sur la surface de mesurage hémisphérique. La répartition des 12 microphones sur la surface d'un hémisphère de rayon r est présentée sous la forme de coordonnées cartésiennes dans le tableau ci-après. Le rayon r de l'hémisphère doit être égal ou supérieur au double de la dimension la plus grande du parallélépipède de référence. Le parallélépipède de référence est défini comme le plus petit parallélépipède rectangle possible pour contenir uniquement le matériel (sans les accessoires) et se terminant sur le plan de réflexion. Le rayon de l'hémisphère est arrondi à la plus proche des valeurs supérieures suivantes : 4, 10, 16 m.
+3. Informations à inclure dans le rapport
 
-Le nombre (12) de microphones peut être réduit à 6, mais ils doivent, en tout état de cause, occuper les positions 2, 4, 6, 8, 10 et 12, conformément aux prescriptions du paragraphe 7.4.2 de la norme NF EN ISO 3744 - novembre 1995.
+Le rapport d'essai, qui doit faire partie de la documentation technique prévue à l'annexe V, point 3, à l'annexe VI, point 3, à l'annexe VII, point 2, et à l'annexe VIII, points 3.1 et 3.3, doit contenir les données techniques nécessaires à l'identification de la source de bruit testée, le code d'essai acoustique et les données acoustiques utilisées et obtenues durant l'essai.
 
-D'une manière générale, il convient d'utiliser la disposition avec 6 positions de microphones sur une surface de mesurage hémisphérique. Si un code d'essai dans la présente annexe prévoit d'autres dispositions pour un matériel spécifique, il convient d'utiliser ces dispositions.
+La valeur à déclarer du niveau de puissance acoustique pondéré A de la source de bruit testée doit être arrondie au nombre entier le plus proche (pour une décimale inférieure à 0,5, arrondir à l'entier inférieur ; pour une décimale égale ou supérieure à 0,5, arrondir à l'entier supérieur).
 
-Tableau : Coordonnées des 12 positions de microphones
+Lorsque, pour les raisons et dans les conditions précisées au dernier paragraphe de l'introduction de la présente annexe, les fabricants ou leurs mandataires dans l'Union utilisent les méthodes décrites dans la version de l'annexe III qui était applicable avant le 22 mai 2025, pour déterminer le niveau de puissance acoustique, les fabricants ou leurs mandataires dans l'Union doivent consigner dans le rapport d'essai les données relatives aux mesures effectuées conformément aux deux méthodes : les méthodes définies dans la version de l'annexe III qui était applicable avant le 22 mai 2025 et les méthodes décrites dans la présente annexe.
 
-Vous pouvez consulter le tableau dans le JO
+Les autorités nationales compétentes et les organes notifiés doivent accepter, pour les modèles de matériels dont le premier article qui a été mis sur le marché ou mis en service avant le 22 mai 2025, les rapports techniques des mesures de bruit effectuées conformément aux méthodes décrites dans la version de l'annexe III qui était applicable avant le 22 mai 2025, pour les besoins de l'évaluation de la conformité au titre des procédures visées à l'article 4 du présent arrêté et pour les besoins des prescriptions concernant la documentation technique pour ces produits prévues à l'annexe V, point 3, à l'annexe VI, point 3, à l'annexe VII, point 2, à l'annexe VIII, points 3.1 et 3.3 du présent arrêté jusqu'au 22 mai 2028.
 
-n°o 103 du 03/05/2002 page 8192 à 8220 :
+4. Correction d'environnement K2A
 
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000777862
+Les fabricants ou leurs mandataires dans l'Union doivent déterminer la correction environnementale K2A conformément à la norme EN ISO 3744:2010, section 4.3.
 
-6. Correction environnementale K2A
+Si K2A ≤ 0,5 dB, elle peut être négligée.
 
-Les matériels doivent être mesurés sur une surface réfléchissante en béton ou en asphalte non poreux, puis la correction environnementale K2A est considérée comme nulle, K2A = 0. Si un code d'essai dans la présente annexe prévoit d'autres dispositions pour un matériel spécifique, il convient d'utiliser ces dispositions.
+Si K2A > 4 dB, l'environnement d'essai ne satisfait pas aux prescriptions de la présente directive et doit être modifié.
 
-Vous pouvez consulter le tableau dans le JO
+Les fabricants ou leurs mandataires dans l'Union doivent utiliser les spécifications pour la correction de l'environnement qui sont indiquées dans le code d'essai acoustique pour le matériel spécifique visé dans la partie B de la présente annexe, lorsque de telles spécifications existent.
 
-n°o 103 du 03/05/2002 page 8192 à 8220 :
-
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000777862
-
-12 Position microphone
-
-Vous pouvez consulter le tableau dans le JO
-
-n°o 103 du 03/05/2002 page 8192 à 8220 :
-
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000777862
-
-PARTIE B
-
-CODES D'ESSAIS ACOUSTIQUES
+PARTIE B CODES D'ESSAIS ACOUSTIQUES POUR DES MATÉRIELS SPÉCIFIQUES
 
 0. Matériel essayé sans charge
 
-Norme de base sur l'émission sonore :
-
-NF EN ISO 3744 - novembre 1995.
-
-Aire d'essai :
+Aire d'essai
 
 Surface réfléchissante en béton ou en asphalte non poreux.
 
-Correction d'environnement K2A : K2A = 0.
+Correction d'environnement K2A
+
+K2A = 0
 
 Surface de mesure/nombre de positions de microphone/distance de mesure :
 
-Lorsque la plus grande dimension du parallélépipède de référence ne dépasse pas 8 m :
+a) Si la plus grande dimension du parallélépipède de référence ne dépasse pas 8 m : hémisphère/six positions de microphones conformément à l'annexe F de la norme EN ISO 3744:2010 ;
 
-- hémisphère/6 positions de microphones conformément à la partie A, point 5/conformément à la partie A, point 5 ;
+b) Si la plus grande dimension du parallélépipède de référence dépasse 8 m : parallélépipède conformément à la norme ISO 3744:2010 avec une distance de mesurage.
 
-Lorsque la plus grande dimension du parallélépipède de référence dépasse 8 m :
+d = 1 m
 
-- parallélépipède/selon la norme NF EN ISO 3744 - novembre 1995 avec une distance de mesure d = 1 m.
+Essai à vide
 
-Conditions de fonctionnement durant l'essai :
+Les essais de bruit sont effectués conformément à la partie A, point 1.2, de la présente annexe.
 
-Essai à vide : les essais sont effectués conformément à la partie A, point 2.2, de la présente annexe.
+Période(s) d'observation/détermination du niveau de puissance acoustique lorsque plusieurs conditions de fonctionnement sont appliquées
 
-Période(s) d'observation/détermination du niveau de puissance acoustique obtenue lorsque plusieurs conditions de fonctionnement sont appliquées :
-
-La période d'observation est d'au moins 15 secondes.
+La période d'observation est d'au moins 15 s ou d'au moins 3 cycles de fonctionnement de la machine.
 
 1. Plates-formes élévatrices à moteur à combustion interne
 
-Essai effectué selon les dispositions du point 0 de la présente annexe.
+EN 280-1:2022, point 4.12.2
 
 2. Débroussailleuses
 
-Norme de base sur l'émission sonore :
-
-NF EN ISO 3744 - novembre 1995.
-
-Aire d'essai :
-
-ISO 10884 : 1995.
-
-Surface de mesure/nombre de positions de microphone/distance de mesure :
-
-ISO 10884 : 1995.
-
-Conditions de fonctionnement durant l'essai :
-
-Essai en charge : ISO 10884 : 1995, point 5.3.
-
-Période(s) d'observation :
-
-ISO 10884 : 1995.
+EN ISO 22868:2021
 
 3. Monte-matériaux
 
-Essai effectué selon les dispositions du point 0 de la présente annexe.
+Voir le point 0.
 
-Le centre géométrique du moteur doit être positionné à la verticale du centre de l'hémisphère ; l'élévateur doit se déplacer sans charge et quitter l'hémisphère (si nécessaire) en direction du point 1.
+Le centre géométrique du moteur doit se trouver au-dessus du centre de l'hémisphère. L'élévateur doit se déplacer sans charge et quitter l'hémisphère (si nécessaire) en direction du point 1.
 
 4. Scies à ruban de chantier
 
-Norme de base sur l'émission sonore :
+EN ISO 19085-16:2021, point 6.2.2.
 
-NF EN ISO 3744 - novembre 1995.
+La méthode de mesure de cette norme basée sur la norme EN ISO 3744:2010 doit être appliquée.
 
-Surface de mesure/nombre de positions de microphone/distance de mesure :
+5. Scies circulaires à table de chantier
 
-NF ISO 7960 - mai 1996, annexe J, d = 1 m.
+Surface de mesure/nombre de positions de microphone/distance de mesure
 
-Conditions de fonctionnement durant l'essai :
+ISO 7960:1995, annexe A, distance de mesure d = 1 m.
 
-Essai en charge correspondant à l'annexe J de la norme NF ISO 7960, mai 1996 (point J 2 b uniquement).
+Essai sous charge
 
-Période d'observation :
+ISO 7960:1995, annexe A [point A2(b) uniquement].
 
-Correspondant à l'annexe J de la norme NF ISO 7960, mai 1996.
+Période d'observation
 
-5. Scies circulaires de chantier
+ISO 7960:1995, annexe A
 
-Norme de base sur l'émission sonore :
+6. Scies à chaîne portables
 
-NF EN ISO 3744 - novembre 1995.
+a) Matériels à moteur à combustion
 
-Surface de mesure/nombre de positions de microphone/distance de mesure :
+EN ISO 22868:2021
 
-NF ISO 7960, mai 1996, annexe A, distance de mesure d = 1 m.
+b) Matériels à moteur électrique
 
-Conditions de fonctionnement durant l'essai :
+EN 62841-4-1:2020, annexe I
 
-Essai en charge selon NF ISO 7960 - mai 1996, annexe A (point A 2 b uniquement).
+7. Véhicules combinés pour le rinçage à haute pression et la vidange par aspiration
 
-Période d'observation :
-
-NF ISO 7960 - mai 1996, annexe A.
-
-6. Scies à chaînes portables
-
-Norme de base sur l'émission sonore :
-
-NF EN ISO 3744 - novembre 1995.
-
-Aire d'essai :
-
-ISO 9207 : 1995.
-
-Surface de mesure/nombre de positions de microphone/distance de mesure :
-
-ISO 9207 : 1995.
-
-Conditions de fonctionnement durant l'essai :
-
-Essai en charge/essai à vide :
-
-Fonctionnement à pleine charge pour le sciage de bois/moteur à une vitesse de rotation maximale à vide :
-
-a) Entraînement par moteur à combustion interne : ISO 9207 : 1995, points 6.3 et 6.4 ;
-
-b) Entraînement par moteur électrique : correspondant à la norme ISO 9207 : 1995, point 6.3, et un essai avec le moteur tournant au maximum sans charge.
-
-Période(s) d'observation/détermination de la puissance acoustique obtenue lorsque plusieurs conditions de fonctionnement sont appliquées :
-
-ISO 9207 : 1995, points 6.3 et 6.4.
-
-Le niveau de puissance acoustique LWA correspondant est calculé selon la formule :
-
-LWA = 10 lg 2 [100,¹LW¹ + 100,¹LW²]
-
-1
-
-LWA = 10 lg
-
-[100,¹LW¹ + 100,¹LW²]
-
-2
-
-où LW1 et LW2 sont les niveaux moyens de puissance acoustique des deux différents modes opératoires définis ci-dessus.
-
-7. Véhicules combinés pour le rinçage à haute pression
-
-et la vidange par aspiration
-
-S'il est possible de faire fonctionner les deux matériels simultanément, il convient de procéder conformément aux points 26 et 52. Dans le cas contraire, on effectue les mesures séparément et on indique les valeurs les plus élevées.
+S'il est possible de faire fonctionner les deux matériels simultanément, il convient de procéder conformément aux points 26 et 52 de la présente partie B. Dans le cas contraire, on effectue les mesures séparément et on indique les valeurs les plus élevées.
 
 8. Engins de compactage
 
-8.1. Compacteurs non vibrants
+a) Plaques vibrantes et pilonneuses vibrantes
 
-Essai effectué selon les dispositions du point 0 de la présente annexe.
+EN 500-4:2011, point 5.10.1
 
-8.2. Compacteurs vibrants à conducteur porté
+b) Rouleaux
 
-Norme de base sur l'émission sonore :
+EN 474-13:2022, point 4.6
 
-NF EN ISO 3744 - novembre 1995.
+9. Compresseurs
 
-Conditions de fonctionnement durant l'essai :
+EN ISO 2151:2008
 
-Montage du matériel : le compacteur vibrant est installé sur un matériau élastique approprié, par exemple un ou plusieurs coussins d'air. Ces coussins d'air sont en matériaux souples (élastomère ou matériau similaire) et sont gonflés à une pression telle que l'engin s'élève d'au moins 5 cm ; il faut éviter les effets de résonance. La dimension du (ou des) coussin(s) doit être suffisante pour assurer la stabilité de la machine en cours d'essai.
+La période d'observation est d'au moins 15 s.
 
-Essai en charge : l'engin est testé en position fixe, le moteur tournant à la vitesse nominale (indiquée par le fabricant) et les mécanismes de déplacement étant déconnectés. Le mécanisme de compactage est actionné à la puissance de compactage maximale correspondant à la combinaison entre la fréquence la plus élevée et la plus grande amplitude possible indiquée par le fabricant pour cette fréquence.
+10. Brise-béton et marteau-piqueur, à main
 
-Période d'observation :
+a) Matériels à moteur à combustion
 
-La période d'observation est d'au moins 15 secondes.
+Surface de mesure/nombre de positions de microphone/distance de mesure
 
-8.3. Plaques vibrantes, pilonneuses vibrantes, pilonneuses
+Hémisphère/six positions de microphone conformément à l'annexe F de la norme EN ISO 3744:2010 et au tableau ci-après, selon la masse du matériel, comme indiqué dans le tableau ci-après :
 
-à explosion et compacteurs vibrants à conducteur à pied
+Masse du matériel m (en kg) |
 
-Norme de base sur l'émission sonore :
+Rayon de l'hémisphère (en m) |
 
-NF EN ISO 3744 - novembre 1995.
+Z pour les positions des microphones 2, 4, 6 et 8 (en m) |
 
-Aire d'essai :
+m<10
 
-EN 500-4 rev. 1 : 1998, annexe C.
+m>10 |
 
-Conditions de fonctionnement durant l'essai :
+2
 
-Essai en charge selon EN 500-4 rev. 1 : 1998, annexe C.
+4 |
 
-Période d'observation :
+0,75
 
-EN 500-4 rev. 1 : 1998, annexe C.
+1,50 |
 
-9. Motocompresseurs
+Montage du matériel
 
-Norme de base sur l'émission sonore :
+Tous les appareils sont essayés en position verticale.
 
-NF EN ISO 3744 - novembre 1995.
+Si l'appareil essayé possède un échappement d'air, son axe doit être équidistant de deux positions de microphone. Le bruit de la source d'énergie ne doit pas influer sur la mesure de l'émission sonore de l'appareil essayé.
 
-Surface de mesure/nombre de positions de microphone/distance de mesure :
+Support de l'appareil
 
-Hémisphère/6 positions de microphones conformément à la partie A, point 5/conformément à la partie A, point 5 ou parallélépipède conformément à la norme NF EN ISO 3744 - novembre 1995 avec une distance de mesurage d = 1 m.
+Aux fins de l'essai, l'appareil fonctionne engagé sur un outil solidaire d'un bloc de béton cubique, lui-même placé dans une fosse de béton aménagée dans le sol.
 
-Conditions de fonctionnement durant l'essai :
+Une pièce intermédiaire en acier peut être insérée entre l'appareil et l'outil-support. Cette pièce intermédiaire doit constituer un assemblage rigide entre l'appareil et l'outil-support. La figure 10.1 tient compte de ces exigences.
 
-Montage du matériel : le motocompresseur est installé sur un plan réfléchissant ; les motocompresseurs sur patins sont placés sur un support d'une hauteur de 0,40 m, sauf instruction contraire dans le manuel d'installation du constructeur.
+Caractéristiques du bloc
 
-Essai en charge :
+Le bloc est un cube de 0,60 m ± 2 mm d'arête, aussi régulier que possible ; il est réalisé en béton armé et vibré par couches de 0,20 m afin d'éviter une sédimentation excessive.
 
-Le motocompresseur à l'essai doit être préalablement mis en chauffe et doit fonctionner dans des conditions stables correspondant à un fonctionnement en continu. Il doit être entretenu et lubrifié selon les indications du fabricant.
+Qualité du béton
 
-Le niveau de puissance acoustique est déterminé à pleine charge ou dans des conditions de fonctionnement qui soient reproductibles et représentatives du fonctionnement le plus bruyant en utilisation typique de la machine à l'essai, la situation à retenir étant la plus bruyante des deux.
+La qualité du béton doit correspondre à la classe C 50/60 de la norme EN 206:2013+A2:2021.
 
-Si la configuration de l'installation complète est telle que certains éléments, par exemple des refroidisseurs intermédiaires, sont montés à distance du motocompresseur, il y a lieu, lors de l'essai acoustique, de veiller à séparer le bruit généré par ces éléments. La séparation des diverses sources de bruit peut exiger un équipement spécial pour l'atténuation du bruit provenant de ces sources durant les mesurages. Les caractéristiques acoustiques et la description des conditions de fonctionnement de ces éléments doivent être indiquées séparément dans le rapport d'essai.
+Le cube est armé de fers de diamètre 8 mm sans ligature, de manière que chaque cerclage soit indépendant. Le schéma de principe est donné à la figure 10.2.
 
-Au cours de l'essai, les gaz dégagés par le motocompresseur doivent être évacués hors de la zone de l'essai. On doit veiller à assurer que le bruit engendré par l'évacuation des gaz est inférieur d'au moins 10 dB au bruit à mesurer à tous les emplacements de mesure (par exemple, en utilisant un silencieux).
+Outil-support
 
-Des mesures doivent être prises pour que l'évacuation de l'air ne soit pas à l'origine d'un bruit supplémentaire en raison de la turbulence à la soupape de décharge.
+L'outil à sceller dans le bloc est constitué d'un fouloir d'un diamètre compris entre 178 et 220 mm et d'un outil d'emmanchement identique à celui utilisé habituellement avec l'appareil testé et conforme à la norme ISO 1180:1983/Add 1:1985, mais de longueur suffisante pour permettre l'exécution de l'essai.
 
-Période d'observation :
+Il faut procéder à un traitement approprié pour intégrer les deux composants. L'outil est fixé dans le bloc de manière que la partie la plus basse du fouloir se trouve à 0,30 m de la partie supérieure du bloc (voir figure 10.2).
 
-La période d'observation doit être d'au moins 15 secondes.
+Le bloc doit conserver toutes ses qualités mécaniques, notamment au niveau de la liaison outil-support/béton. Avant et après chaque essai, il convient de vérifier que l'outil scellé dans le bloc de béton est solidaire de celui-ci.
 
-10. Brise-béton et marteaux-piqueurs à main
+Mise en place du cube
 
-Norme de base sur l'émission sonore :
+Le cube est placé dans une fosse entièrement cimentée recouverte d'une dalle-écran d'au moins 100 kg/m2, comme indiqué à la figure 10.3, de manière que la face supérieure de la dalle-écran affleure le sol. Afin d'éviter tout bruit parasite, le bloc est isolé du fond et des parois de la fosse au moyen de blocs élastiques dont la fréquence de coupure est au plus égale à la moitié de la cadence de frappe de l'appareil testé, exprimée en coups par seconde.
 
-NF EN ISO 3744 - novembre 1995.
+L'orifice de passage de l'outil d'emmanchement aménagé dans la dalle-écran doit être aussi réduit que possible et pourvu d'un joint souple et insonorisant.
 
-Surface de mesure/nombre de positions de microphone/distance de mesure :
+Essai sous charge
 
-Hémisphère/6 positions de microphone conformément à la partie A, point 5, et au tableau ci-après/ selon la masse du matériel, comme dans le tableau ci-après :
+L'appareil testé est relié à l'outil-support.
 
-Vous pouvez consulter le tableau dans le JO
+L'appareil fonctionne dans des conditions stables présentant la même stabilité acoustique qu'en service normal.
 
-n°o 103 du 03/05/2002 page 8192 à 8220 :
+L'appareil fonctionne à sa puissance maximale telle que spécifiée dans la notice fournie à l'acheteur.
 
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000777862
+Période d'observation
 
-Conditions de fonctionnement durant l'essai :
+La période d'observation est d'au moins 15 s.
 
-a) Montage du matériel :
+Figure 10.1. - Schéma de la pièce intermédiaire
 
-Tous les appareils sont essayés en position verticale. Si l'appareil essayé possède un échappement d'air, son axe doit être équidistant de deux positions de microphone. Le bruit de la source d'énergie ne doit pas influer sur la mesure de l'émission sonore de l'appareil essayé.
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible au lien suivant : https://www.legifrance.gouv.fr/download/pdf?id=5IMJe1QpZ132544xDKlFZM-iqmYsnm7jq9JvNFwPQos=
 
-Support de l'appareil : aux fins de l'essai, l'appareil fonctionne engagé sur un outil solidaire d'un bloc de béton cubique, lui-même placé dans une fosse de béton aménagée dans le sol. Une pièce intermédiaire en acier peut être insérée entre l'appareil et l'outil-support. Cette pièce intermédiaire doit constituer un assemblage rigide entre l'appareil et l'outil-support. La figure 10.1 tient compte de ces exigences.
+Figure 10.2. - Bloc d'essai
 
-Caractéristiques du bloc : le bloc est un cube de 0,60 m ± 2 mm d'arête, aussi régulier que possible ; il est réalisé en béton armé et vibré par couches de 0,20 m afin d'éviter une sédimentation excessive.
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible au lien suivant : https://www.legifrance.gouv.fr/download/pdf?id=5IMJe1QpZ132544xDKlFZM-iqmYsnm7jq9JvNFwPQos=
 
-Qualité du béton : la qualité du béton doit correspondre à la classe C 50/60 de la norme ENV 206. Le cube est armé de fers de diamètre 8 mm sans ligature, de manière à ce que chaque cerclage soit indépendant ; le schéma de principe est donné à la figure 10.2.
+Figure 10.3. - Dispositif d'essai
 
-Outil support : l'outil à sceller dans le bloc est constitué d'un fouloir d'un diamètre compris entre 178 et 220 mm et d'un outil d'emmanchement identique à celui utilisé habituellement avec l'appareil testé et conforme à la norme ISO 1180 : 1983, mais de longueur suffisante pour permettre l'exécution de l'essai. Il faut procéder à un traitement approprié pour intégrer les deux composants. L'outil est fixé dans le bloc de manière à ce que la partie la plus basse du fouloir se trouve à 0,30 m de la partie supérieure du bloc (voir figure 10.2). Le bloc doit conserver toutes ses qualités mécaniques, notamment au niveau de la liaison outils-support/béton. Avant et après chaque essai, il convient de vérifier que l'outil scellé dans le bloc de béton est solidaire de celui-ci.
-
-Mise en place du cube : le cube est placé dans une fosse entièrement cimentée recouverte d'une dalle-écran d'au moins 100 kg/m², comme indiqué à la figure 10.3, de manière à ce que la face supérieure de la dalle-écran affleure le sol. Afin d'éviter tout bruit parasite, le bloc est isolé du fond et des parois de la fosse au moyen de blocs élastiques dont la fréquence de coupure est au plus égale à la moitié de la cadence de frappe de l'appareil testé, exprimée en coups par seconde. L'orifice de passage de l'outil d'emmanchement aménagé dans la dalle-écran doit être aussi réduit que possible et pourvu d'un joint souple et insonorisant.
-
-b) Essai en charge :
-
-L'appareil testé est relié à l'outil support. Il fonctionne à sa puissance maximale telle que spécifiée dans la notice fournie à l'acheteur et dans des conditions stables présentant la même stabilité acoustique qu'en service normal.
-
-Période d'observation :
-
-La période d'observation est d'au moins quinze secondes.
-
-Vous pouvez consulter le tableau dans le JO
-
-n°o 103 du 03/05/2002 page 8192 à 8220 :
-
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000777862
-
-Figure 10.1 : Schéma de la pièce intermédiaire
-
-Vous pouvez consulter le tableau dans le JO
-
-n°o 103 du 03/05/2002 page 8192 à 8220 :
-
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000777862
-
-Figure 10.2 : Bloc d'essai
-
-Vous pouvez consulter le tableau dans le JO
-
-n°o 103 du 03/05/2002 page 8192 à 8220 :
-
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000777862
-
-Figure 10.3 : Dispositif d'essai
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible au lien suivant : https://www.legifrance.gouv.fr/download/pdf?id=5IMJe1QpZ132544xDKlFZM-iqmYsnm7jq9JvNFwPQos=
 
 La valeur de A doit être telle que la plaque supérieure reposant sur le joint élastique J soit au ras du sol.
 
-11. Malaxeurs à béton ou à mortier
+b) Matériels à moteur électrique
 
-Norme de base sur l'émission sonore :
+EN IEC 62841-2-6:2020, EN IEC 62841-2-6:2020/A11:2020, annexe I, point I.2
 
-NF EN ISO 3744 - novembre 1995.
+c) Matériels pneumatiques ou hydrauliques
 
-Conditions de fonctionnement durant l'essai :
+Comme pour les matériels à moteur à combustion.
 
-Essai en charge : le dispositif mélangeur (tambour) est rempli à sa capacité nominale avec du sable de granulométrie 0-3 mm et d'une humidité comprise entre 4 et 10 %. Il fonctionne au moins à sa vitesse nominale.
+11. Bétonnières et appareils à gâcher le ciment
 
-Période d'observation :
+Essai sous charge
 
-La période d'observation est d'au moins 15 secondes.
+Le dispositif mélangeur (tambour) est rempli à sa capacité nominale avec du sable de granulométrie 0-3 mm et d'une humidité comprise entre 4 et 10 %.
 
-12. Treuils de chantier
+Le dispositif mélangeur fonctionne au moins à sa vitesse nominale.
 
-Essai effectué selon les dispositions du point 0 de la présente annexe.
+Période d'observation
 
-Le centre géométrique du moteur se trouve au-dessus du centre de l'hémisphère ; le treuil est enclenché mais aucune charge n'est utilisée.
+La période d'observation est d'au moins 15 s.
 
-13. Machines pour le transport
+12. Treuil de chantiers
 
-et la projection de béton et de mortier
+a) Matériels à moteur à combustion
 
-Norme de base sur l'émission sonore :
+Voir le point 0.
 
-NF EN ISO 3744 - novembre 1995.
+Le centre géométrique du moteur doit se trouver au-dessus du centre de l'hémisphère ; le treuil est enclenché, mais aucune charge n'est utilisée.
 
-Conditions de fonctionnement durant l'essai :
+b) Matériels à moteur électrique
 
-Si la machine est équipée d'une flèche, celle-ci est positionnée verticalement et le tuyau est ramené vers l'entonnoir de remplissage. Dans le cas contraire, la machine est munie d'un tuyau horizontal d'une longueur d'au moins 30 m retournant à l'entonnoir de remplissage.
+EN 14492-2:2019, annexe M
 
-Essai en charge :
+13. Machines pour le transport et la projection de béton ou de mortier
 
-a) Pour les machines de transport et de projection de béton : le système de convoyage et le tuyau sont emplis d'une matière similaire au béton, le ciment étant remplacé par un adjuvant tel que des cendres fines. La machine fonctionne à sa puissance maximale, la durée d'un cycle de travail étant inférieure ou égale à 5 secondes (si la durée du cycle est supérieure, on ajoute de l'eau au " béton " afin d'atteindre une durée de 5 secondes) ;
+EN 12001:2012, annexe C
 
-b) Pour les machines de transport et de projection de mortier : le système de convoyage et le tuyau sont emplis d'une matière similaire à du mortier de finition, le ciment étant remplacé par un adjuvant tel que de la méthylcellulose. La machine fonctionne à sa puissance maximale, la durée d'un cycle de travail étant inférieure ou égale à 5 secondes (si la durée du cycle est supérieure, on ajoute de l'eau au " mortier " afin d'atteindre une durée de 5 secondes).
+14. Bandes convoyeuses
 
-Période d'observation :
+Voir le point 0.
 
-La période d'observation est d'au moins 15 secondes.
+Le centre géométrique du moteur doit se trouver au-dessus du centre de l'hémisphère. La bande se déplace sans charge et quitte l'hémisphère, si nécessaire, en direction du point 1.
 
-14. Convoyeurs à bande
+15. Groupe frigorifique embarqué
 
-Essai effectué selon les dispositions du point 0 de la présente annexe.
+Essai sous charge
 
-Le centre géométrique du moteur doit se trouver au-dessus du centre de l'hémisphère ; la bande se déplace sans charge et quitte l'hémisphère, si nécessaire, en direction du point de mesure 1.
+Le groupe frigorifique est installé dans un compartiment à marchandises (réel ou simulé) et le niveau sonore doit être mesuré en position stationnaire, lorsque, conformément aux instructions fournies à l'acheteur, la hauteur du groupe frigorifique est représentative des exigences de l'installation prévue. La source d'alimentation du groupe frigorifique fonctionne à un régime qui fait tourner le compresseur frigorifique ainsi que le ventilateur à la vitesse maximale indiquée dans la notice technique. S'il est prévu que le groupe frigorifique soit alimenté par le moteur du véhicule, on n'utilise pas ce moteur durant la mesure, le groupe frigorifique étant branché sur une source d'alimentation électrique appropriée. Les éléments tracteurs amovibles sont enlevés durant le mesurage.
 
-15. Groupes frigorifiques embarqués
+Lorsque différentes sources d'alimentation sont possibles pour le matériel frigorifique installé dans des unités de réfrigération du compartiment à marchandises, le niveau sonore est mesuré séparément pour chaque source d'alimentation. Les résultats des mesures consignés dans les rapports doivent, au minimum, refléter le mode de fonctionnement qui génère le plus de bruit.
 
-Norme de base sur l'émission sonore :
+Période d'observation
 
-NF EN ISO 3744 - novembre 1995.
-
-Conditions de fonctionnement durant l'essai :
-
-Essai en charge : le groupe frigorifique est installé dans un compartiment à marchandises (réel ou simulé) et essayé en position fixe ; la hauteur du groupe frigorifique doit être représentative des impératifs d'installation futurs, selon la notice d'instructions fournie à l'acheteur. La source d'alimentation du groupe frigorifique fonctionne à un régime qui fait tourner le compresseur frigorifique ainsi que le ventilateur à la vitesse maximale indiquée dans la notice technique. S'il est prévu que le groupe frigorifique soit alimenté par le moteur du véhicule, on n'utilise pas ce moteur durant l'essai, le groupe frigorifique étant branché sur une source d'alimentation électrique appropriée. Les éléments tracteurs amovibles sont enlevés durant l'essai. Lorsque différentes sources d'alimentation sont possibles pour le groupe frigorifique installé dans des unités de réfrigération de compartiment à marchandises, on effectue des essais séparément pour chaque type d'alimentation. Les résultats des essais consignés dans les rapports doivent, au minimum, refléter le mode de fonctionnement qui génère le plus de bruit.
-
-Période d'observation :
-
-La période d'observation doit être d'au moins 15 secondes.
+La période d'observation est d'au moins 15 s.
 
 16. Bouteurs
 
-Norme de base sur l'émission sonore :
-
-NF EN ISO 3744 - novembre 1995.
-
-Aire d'essai :
-
-NF ISO 6395 - décembre 1997.
-
-Surface de mesure/nombre de positions de microphone/distance de mesure :
-
-NF ISO 6395 - décembre 1997.
-
-Conditions de fonctionnement durant l'essai :
-
-Montage du matériel : les bouteurs à chenille sont essayés sur un site d'essai correspondant au point 6.3.3 de la norme NF ISO 6395 - décembre 1997 ;
-
-Essai en charge : NF ISO 6395 - décembre 1997, annexe B.
-
-Période(s) d'observation et prise en considération de différentes conditions de fonctionnement, le cas échéant :
-
-NF ISO 6395 - décembre 1997, annexe B.
+ISO 6395:2008 avec les conditions de fonctionnement définies à l'annexe C de cette norme.
 
 17. Appareils de forage
 
-Norme de base sur l'émission sonore :
+a) Appareils de forage mobiles
 
-NF EN ISO 3744 - novembre 1995.
+EN 16228-2:2014+A1:2021, point 5.12
 
-Conditions de fonctionnement durant l'essai :
+b) Appareils de forage horizontal dirigé
 
-Essai en charge : EN 791 - février 1996, annexe A.
+EN 16228-3:2014+A1:2021, point 5.15
 
-Période d'observation :
+c) Appareils auxiliaires interchangeables pour le forage
 
-La période d'observation est d'au moins 15 secondes.
+EN 16228-7:2014+A1:2021, point 5.3
+
+d) Autres matériels de forage
+
+EN 16228-1:2014+A1:2021, point 5.27.2.2
 
 18. Tombereaux
 
-Norme de base sur l'émission sonore :
+ISO 6395:2008 avec les conditions de fonctionnement définies à l'annexe F de cette norme.
 
-NF EN ISO 3744 - novembre 1995.
+19. Matériels pour le chargement et le déchargement de réservoirs ou de silos sur camion
 
-Aire d'essai :
+Voir le point 9 pour les compresseurs et les pompes à vide.
 
-NF ISO 6395 - décembre 1997.
+Voir le point 56 pour les pompes à liquides.
 
-Surface de mesure/nombre de positions de microphone/distance de mesure :
+20. Pelles mécaniques
 
-NF ISO 6395 - décembre 1997.
-
-Conditions de fonctionnement durant l'essai :
-
-Essai en charge : équivalent à l'annexe C de la norme NF ISO 6395 - décembre 1997, avec la modification suivante : au point 4.3 de l'annexe C de la norme précitée, le deuxième alinéa est remplacé par :
-
-" Le moteur fonctionne à son régime régulé maximal (ralenti maximal). La commande de transmission est placée au point mort. Mettre la benne en position renversée (vidange) à 75 % de la course maximale, et la remettre à trois reprises dans sa position de translation. Cette séquence est considérée comme un cycle unique pour le mode hydraulique fixe. Si le moteur n'est pas utilisé pour renverser la benne, il est mis au ralenti avec la transmission au point mort. La mesure est réalisée sans renverser la benne ; la période d'observation est de 15 secondes. "
-
-Période(s) d'observation/détermination du niveau de la puissance acoustique lorsque plusieurs conditions de fonctionnement sont appliquées ;
-
-NF ISO 6395 - décembre 1997, annexe C.
-
-19. Matériels de chargement et de déchargement
-
-de réservoirs ou de silos sur camion
-
-Norme de base sur l'émission sonore :
-
-NF EN ISO 3744 - novembre 1995.
-
-Conditions de fonctionnement durant l'essai :
-
-Essai en charge : le matériel est essayé avec le camion en position stationnaire. Le moteur d'entraînement du matériel fonctionne à la vitesse assurant la puissance maximale du matériel spécifiée dans la notice fournie à l'acheteur.
-
-Période d'observation :
-
-La période d'observation est d'au moins 15 secondes.
-
-20. Pelles hydrauliques ou à câbles
-
-Norme de base sur l'émission sonore :
-
-NF EN ISO 3744 - novembre 1995.
-
-Aire d'essai :
-
-NF ISO 6395 - décembre 1997.
-
-Surface de mesure/nombre de positions de microphone/distance de mesure :
-
-NF ISO 6395 - décembre 1997.
-
-Conditions de fonctionnement durant l'essai :
-
-Essai en charge : NF ISO 6395 - décembre 1997, annexe A.
-
-Période(s) d'observation/détermination du niveau de puissance acoustique lorsque plusieurs conditions de fonctionnement sont appliquées :
-
-NF ISO 6395 - décembre 1997, annexe A.
+ISO 6395:2008 avec les conditions de fonctionnement définies à l'annexe B de cette norme.
 
 21. Chargeuses-pelleteuses
 
-Norme de base sur l'émission sonore :
-
-NF EN ISO 3744 - novembre 1995.
-
-Aire d'essai :
-
-NF ISO 6395 - décembre 1997.
-
-Surface de mesure/nombre de positions de microphone/distance de mesure :
-
-NF ISO 6395 - décembre 1997.
-
-Conditions de fonctionnement durant l'essai :
-
-Essai en charge : NF ISO 6395 - décembre 1997, annexe D.
-
-Période(s) d'observation/détermination du niveau de puissance acoustique lorsque plusieurs conditions de fonctionnement sont appliquées :
-
-NF ISO 6395 - décembre 1997, annexe D.
+ISO 6395:2008 avec les conditions de fonctionnement définies à l'annexe E de cette norme.
 
 22. Conteneurs à verre
 
-Norme de base sur l'émission sonore :
+Aux fins du code d'essai acoustique, le niveau de pression acoustique intégré dans le temps d'un événement isolé LE, tel que défini dans la norme EN ISO 3744:2010, point 3.4, est utilisé pour mesurer le niveau de pression acoustique aux positions de microphone.
 
-NF EN ISO 3744 - novembre 1995.
+Correction d'environnement K2A
 
-Aux fins du code d'essai acoustique, le niveau de pression acoustique d'un événement isolé Lp1s, tel que défini dans la norme NF EN ISO 3744 - novembre 1995, point 3.2.2, est utilisé pour mesure le niveau de pression acoustique aux positions de microphone.
+Mesure en extérieur
 
-Correction d'environnement K2A :
+K2A = 0
 
-Mesure en extérieur : K2A = 0.
+Mesure en intérieur
 
-Mesure en intérieur : la valeur de la constante K2A, déterminée conformément à l'annexe A de la norme NF EN ISO 3744 - novembre 1995, doit être inférieure ou égale à 2,0 dB, auquel cas cette constante est négligée.
+La valeur de la constante K2A, déterminée conformément à l'annexe A de la norme EN ISO 3744:2010, doit être ≤ 2,0 dB, auquel cas K2A est négligée.
 
-Conditions de fonctionnement durant l'essai :
+Conditions de fonctionnement durant l'essai
 
-La mesure du bruit est effectuée durant un cycle complet commençant par un conteneur vide et se terminant lorsque 120 bouteilles ont été jetées dans le conteneur.
+La mesure du bruit est effectuée durant un cycle complet commençant par un conteneur vide et se terminant lorsque 120 bouteilles en verre ont été jetées dans le conteneur.
 
 Les bouteilles en verre sont définies comme suit :
 
 - capacité : 75 cl ;
 
-- poids : 370 30 g.
+- masse : 370 ± 30 g.
 
-L'opérateur de l'essai tient chaque bouteille par le col, le cul étant dirigé vers l'ouverture du conteneur ; il introduit ensuite la bouteille doucement dans l'ouverture en direction du centre du conteneur, en évitant si possible que la bouteille ne heurte les parois. Une seule ouverture est utilisée pour jeter les bouteilles : c'est celle qui est la plus proche de la position de microphone 12.
+L'opérateur de l'essai tient chaque bouteille par le col, le cul étant dirigé vers l'ouverture du conteneur ; il introduit ensuite la bouteille doucement dans l'ouverture en direction du centre du conteneur, en évitant si possible que la bouteille ne heurte les parois. Une seule ouverture, qui est celle la plus proche de la position de microphone 12, est utilisée pour jeter les bouteilles.
 
-Période(s) d'observation/détermination du niveau de puissance acoustique lorsque plusieurs conditions de fonctionnement sont appliquées :
+Période(s) d'observation/détermination du niveau de puissance acoustique lorsque plusieurs conditions de fonctionnement sont appliquées
 
-Le niveau de pression acoustique pondéré A d'un événement isolé est mesuré de préférence simultanément aux six positions de microphone pour chaque bouteille jetée dans le conteneur.
+Le niveau de pression acoustique intégré dans le temps pondéré A d'un événement isolé est mesuré simultanément aux six positions de microphone pour chaque bouteille jetée dans le conteneur.
 
-Le niveau de pression acoustique pondéré A d'un événement isolé, exprimé en moyenne pour toute la surface de mesure, est calculé selon la norme NF EN ISO 3744 - novembre 1995, point 8.1.
+Le niveau de pression acoustique intégré dans le temps pondéré A d'un événement isolé, exprimé en moyenne pour toute la surface de mesure, est calculé selon la norme EN ISO 3744:2010, point 8.2.2.
 
-Le niveau de puissance acoustique pondéré A d'un événement isolé, exprimé en moyenne pour les 120 jets de bouteille, est calculé comme la moyenne logarithmique des niveaux de pression acoustique pondérés A d'un événement isolé exprimés en moyenne pour toute la surface de mesure.
+Le niveau de puissance acoustique intégré dans le temps pondéré A d'un événement isolé, exprimé en moyenne pour les 120 jets de bouteilles en verre, est calculé comme la moyenne logarithmique des niveaux de pression acoustique intégrés dans le temps pondérés A d'un événement isolé exprimés en moyenne pour toute la surface de mesure.
 
 23. Niveleuses
 
-Norme de base sur l'émission sonore :
-
-NF EN ISO 3744 - novembre 1995.
-
-Aire d'essai :
-
-NF ISO 6395 - décembre 1997.
-
-Surface de mesure/ nombre de positions de microphone/distance de mesure :
-
-NF ISO 6395 - décembre 1997.
-
-Conditions de fonctionnement durant l'essai :
-
-Essai en charge : NF ISO 6395 - décembre 1997, annexe B.
-
-Période(s) d'observation/détermination du niveau de puissance acoustique lorsque plusieurs conditions de fonctionnement sont appliquées :
-
-NF ISO 6395 - décembre 1997, annexe B.
+ISO 6395:2008 avec les conditions de fonctionnement et d'essai définies à l'annexe G de cette norme.
 
 24. Coupe-herbe/coupe-bordures
 
-Essai effectué selon les dispositions du point 2 de la présente annexe.
-
-L'appareil est positionné à l'aide d'un dispositif approprié de manière à ce que l'outil de coupe se trouve au-dessus du centre de l'hémisphère. Pour les coupe-herbe, le centre de l'outil de coupe est maintenu à une distance d'environ 50 mm au-dessus de la surface. Afin de tenir compte des lames, les coupe-bordures doivent être positionnés le plus près possible de la surface d'essai.
+Voir le point 2.
 
 25. Taille-haies
 
-Norme de base sur l'émission sonore :
+a) Matériels à moteur à combustion
 
-NF EN ISO 3744 - novembre 1995.
+EN ISO 22868:2021
 
-Aire d'essai :
+b) Matériels à moteur électrique
 
-ISO 11094 : 1991. En cas de litige, les mesures sont effectuées en extérieur sur la surface artificielle (point 4.1.2 de la norme ISO 11094 : 1991).
+EN IEC 62841-4-2:2019, annexe I, point I.2
 
-Correction d'environnement K2A.
+26. Véhicules de rinçage à haute pression
 
-Mesure en extérieur ; K2A = 0 ;
+Essai sous charge
 
-Mesure en intérieur : la valeur de la constante K2A, déterminée sans surface artificielle et conformément à l'annexe A de la norme NF EN ISO 3744 - novembre 1995, doit être inférieure ou égale à 2,0 dB, auquel cas cette constante est négligée.
+Le véhicule de rinçage à haute pression est essayé en position stationnaire. Le moteur et les unités auxiliaires fonctionnent au régime indiqué par le fabricant. Les pompes haute pression fonctionnent à leurs débit et pression maximaux tels qu'indiqués par le fabricant. On utilise une buse adaptée afin de rester juste au-dessous du seuil de réaction du clapet de détente. Le bruit d'écoulement émis par la buse ne doit pas influencer les résultats des mesurages.
 
-Surface de mesure/nombre de positions de microphone/distance de mesure :
+Période d'observation
 
-ISO 11094 : 1991.
+La période d'observation est d'au moins 30 s.
 
-Conditions de fonctionnement durant l'essai :
+27. Nettoyeurs à haute pression
 
-Montage du matériel : le taille-haie est tenu de la manière naturelle pour une utilisation normale, par une personne ou par un dispositif approprié, de façon telle que son dispositif de coupe se trouve au-dessus du centre de l'hémisphère ;
+a) Matériels fonctionnant à une pression ≤ 35 MPa
 
-Essai en charge : le taille-haie fonctionne à sa vitesse nominale avec l'élément de coupe enclenché.
+EN 60335-2-79:2012, annexe CC
 
-Période d'observation :
+b) Matériels fonctionnant à une pression > 35 MPa
 
-La période d'observation est d'au moins 15 secondes.
+EN 1829-1:2010, point 6.8
 
-26. Véhicule de rinçage à haute pression
+28. Brise-roche hydrauliques
 
-Norme de base sur l'émission sonore :
+Surface de mesure/nombre de positions de microphone/distance de mesure
 
-NF EN ISO 3744 - novembre 1995.
+Hémisphère/six positions de microphone conformément à l'annexe F de la norme EN ISO 3744:2010,/r = 10 m.
 
-Conditions de fonctionnement durant l'essai :
+Montage du matériel
 
-Essai en charge : le véhicule de rinçage à haute pression est essayé en position stationnaire. Le moteur et les unités auxiliaires fonctionnent à la vitesse indiquée par le fabricant pour les dispositifs de travail ; la (ou les) pompe(s) haute pression fonctionne(nt) à son (leur) débit et pression maximaux tels qu'indiqués par le fabricant. On utilise une buse adaptée afin de rester juste au-dessous du seuil de réaction du clapet de détente. Le bruit d'écoulement émis par la buse ne doit pas influencer les résultats des mesurages.
+Pour l'essai, le brise-roche est fixé à un porteur et on utilise un banc d'essai spécial. La figure 28.1 donne les caractéristiques de ce banc, tandis que la figure 28.2 montre la position du porteur.
 
-Période d'observation :
+Transporteur
 
-La période d'observation est d'au moins 30 secondes.
+Le porteur où est fixé le brise-roche utilisé dans les essais doit répondre aux exigences des spécifications techniques du brise-roche d'essai, surtout pour ce qui est de la gamme de poids, de la puissance de sortie hydraulique, du débit d'huile d'alimentation et de la pression du circuit de retour.
 
-27. Nettoyeurs à jet d'eau à haute pression
+Fixation
 
-Norme de base sur l'émission sonore :
+Le montage mécanique et les raccordements (tuyaux, conduites, etc.) doivent correspondre aux spécifications fournies dans la notice technique du brise-roche. Toutes les émissions sonores importantes qui proviennent des conduites et des diverses pièces mécaniques nécessaires à l'installation doivent être éliminées. Toutes les pièces doivent être bien fixées lors de leur raccordement.
 
-NF EN ISO 3744 - novembre 1995.
+Stabilité du brise-roche et force de maintien statique
 
-Surface de mesure/nombre de positions de microphone/distance de mesure :
+Le brise-roche doit être fermement retenu par le porteur afin de présenter la même stabilité que dans des conditions normales de fonctionnement. Le brise-roche doit être actionné en position verticale.
 
-Parallélépipède/selon la norme NF EN ISO 3744 - novembre 1995 avec une distance de mesure d = 1 m.
+Outil
 
-Conditions de fonctionnement durant l'essai :
+Pour les mesures, on utilisera un outil émoussé. La longueur de cet outil doit répondre aux exigences visées à la figure 28.1 (bloc d'essai).
 
-Montage du matériel : le nettoyeur à haute pression est placé sur une surface réfléchissante ; les machines sur patins sont placées sur un support d'une hauteur de 0,40 m, sauf disposition contraire dans la notice d'installation du fabricant ;
+Essai sous charge
 
-Essai en charge : le nettoyeur à haute pression est en régime stabilisé dans la gamme spécifiée par le fabricant. Au cours de l'essai, la buse est couplée au nettoyeur à haute pression qui produit la pression la plus élevée lorsqu'on l'utilise conformément aux instructions du fabricant.
-
-Période d'observation :
-
-La période d'observation est d'au moins 15 secondes.
-
-28. Brise-roches hydrauliques
-
-Norme de base sur l'émission sonore :
-
-NF EN ISO 3744 - novembre 1995.
-
-Surface de mesure/nombre de positions de microphone/distance de mesure :
-
-Hémisphère/6 positions de microphone conformément à la partie A, point 5/r = 10 m.
-
-Conditions de fonctionnement durant l'essai :
-
-a) Montage du matériel :
-
-Pour l'essai, le brise-roche est fixé à un porteur et on utilise un banc d'essai spécial. La figure 28.1 donne les caractéristiques de ce banc tandis que la figure 28.2 montre la position du porteur.
-
-Porteur : le porteur où est fixé le brise-roche utilisé dans les essais doit répondre aux exigences des spécifications techniques du brise-roche d'essai, surtout pour ce qui est de la gamme de poids, de la puissance de sortie hydraulique, du débit d'huile d'alimentation et de la pression du circuit de retour.
-
-Montage : le montage mécanique et les raccordements (tuyaux, conduites, etc.) doivent correspondre aux spécifications fournies dans la notice technique du brise-roche. Toutes les émissions sonores importantes qui proviennent des conduites et des diverses pièces mécaniques nécessaires à l'installation doivent impérativement être éliminées. Toutes les pièces doivent être bien fixées lors de leur raccordement.
-
-Stabilité du brise-roche et force de maintien statique : le brise-roche doit être fermement retenu par le porteur afin de présenter la même stabilité que dans des conditions normales de fonctionnement. Le brise-roche doit être actionné en position verticale.
-
-Outil : pour les mesures, on utilisera un outil émoussé. La longueur de cet outil doit répondre aux exigences fournies à la figure 28.1 (bloc d'essai) ;
-
-b) Essai en charge :
-
-Puissance hydraulique d'entrée et circulation d'huile :
+Puissance hydraulique d'entrée et circulation d'huile
 
 Les conditions de fonctionnement du brise-roche hydraulique doivent être réglées, mesurées et consignées de manière adéquate, à côté des spécifications techniques correspondantes. Durant l'essai, le brise-roche doit être utilisé de manière à atteindre au moins le seuil de 90 % de la puissance hydraulique maximale d'entrée et de la circulation d'huile du brise-roche.
 
-Il convient de veiller à ce que le degré d'incertitude totale des chaînes de mesure de ps et de Q reste toujours de l'ordre de 5 % car cela permet de déterminer la puissance hydraulique d'entrée avec une précision de 10 %. Dans l'hypothèse d'une corrélation linéaire entre la puissance hydraulique d'entrée et le niveau des émissions sonores, on pourrait déterminer le niveau des émissions sonores avec une marge de variation inférieure à 0,4 dB.
+Il convient de veiller à ce que le degré d'incertitude totale des chaînes de mesures de ps et de Q reste toujours de l'ordre de ± 5 % car cela permet de déterminer la puissance hydraulique d'entrée avec une précision de ± 10 %. Dans l'hypothèse d'une corrélation linéaire entre la puissance hydraulique d'entrée et le niveau des émissions sonores, on pourrait déterminer le niveau des émissions sonores avec une marge de variation inférieure à ± 0,4 dB.
 
-Pièces réglables influant sur la puissance du brise-roche :
+Pièces réglables influant sur la puissance du brise-roche
 
 Tous les accumulateurs, les soupapes centrales de sécurité et les autres pièces réglables éventuelles doivent être préréglés d'après les valeurs spécifiées dans les données techniques. Si plus d'une vitesse d'impact fixe est facultative, il convient d'effectuer des mesures à tous les réglages. On présente ensuite les valeurs minimales et maximales.
 
-Quantités à mesurer :
+Quantités à mesurer
 
-Ps La valeur moyenne de la pression de la conduite d'alimentation hydraulique pendant le fonctionnement du brise-roche, comprenant au moins 10 coups ;
+Ps La valeur moyenne de la pression de la conduite d'alimentation hydraulique pendant le fonctionnement du brise-roche, comprenant au moins 10 coups.
 
-Q La valeur moyenne de la circulation d'huile à l'entrée de l'abatteur, mesurée en même temps que la valeur Ps ;
+Q La valeur moyenne de la circulation d'huile à l'entrée de l'abatteur, mesurée en même temps que la valeur ps.
 
-T La température de l'huile doit se situer entre 40 et 60 °C pendant les mesures. La température de la partie centrale de l'abatteur doit être stabilisée à sa température normale de fonctionnement avant le début des mesures ;
+T La température de l'huile doit se situer entre + 40 et + 60 °C pendant les mesures. La température de la partie centrale de l'abatteur doit être stabilisée à sa température normale de fonctionnement avant le début des mesures.
 
-Pa Les pressions du gaz de préremplissage de tous les accumulateurs doivent être mesurées en position statique (l'abatteur étant hors de fonctionnement) à une température ambiante stable entre 15 et 25 °C. La température ambiante mesurée est enregistrée avec la valeur mesurée de la pression du gaz de préremplissage de l'accumulateur.
+Pa Les pressions du gaz de préremplissage de tous les accumulateurs doivent être mesurées en position statique (l'abatteur étant hors de fonctionnement) à une température ambiante stable entre + 15 et + 25 °C. La température ambiante mesurée est enregistrée avec la valeur mesurée de la pression du gaz de préremplissage de l'accumulateur.
 
-Paramètres à évaluer à partir des paramètres de fonctionnement mesurés :
+Paramètres à évaluer à partir des paramètres de fonctionnement mesurés
 
-PIN Puissance hydraulique d'entrée de l'abatteur PIN = ps.Q.
+PIN Puissance hydraulique d'entrée de l'abatteur PIN = ps. Q
 
 Mesurage de la pression de la conduite d'alimentation hydraulique, ps :
 
 - ps doit être mesurée aussi près que possible de l'orifice d'entrée de l'abatteur ;
 
-- ps doit être mesurée à l'aide d'un manomètre (diamètre minimal : 100 mm ; catégorie de précision : 1,0 % FSO).
+- ps doit être mesurée à l'aide d'un manomètre (diamètre minimal : 100 mm ; catégorie de précision : ± 1,0 % FSO).
 
 Circulation d'huile à l'entrée de l'abatteur, Q :
 
 - Q doit être mesurée à partir de la pression de la conduite d'alimentation, le plus près possible de l'orifice d'entrée de l'abatteur ;
 
-- Q doit être mesurée à l'aide d'un débitmètre électrique (catégorie de précision : 2,5 % de la lecture de la vitesse d'écoulement).
+- Q doit être mesurée à l'aide d'un débitmètre électrique (catégorie de précision : ± 2,5 % de la lecture de la vitesse d'écoulement).
 
 Point de mesure de la température de l'huile, T :
 
-- T doit être mesurée dans le réservoir à l'huile du chariot ou à partir de la conduite hydraulique raccordée au brise-roche. Le point de mesure est spécifié dans le rapport ;
+- T doit être mesurée dans le réservoir à huile du chariot ou à partir de la conduite hydraulique raccordée au brise-roche. Le point de mesure est spécifié dans le rapport ;
 
-La tolérance vis-à-vis de l'exactitude de lecture de la température est de 2 °C par rapport à la valeur effective.
+- la tolérance vis-à-vis de l'exactitude de lecture de la température est de ± 2 °C par rapport à la valeur effective.
 
-Période d'observation/détermination de la puissance acoustique résultante :
+Période d'observation/détermination du niveau de puissance acoustique
 
-La période d'observation est d'au moins 15 secondes. Les mesures sont prises à trois reprises, ou plus si nécessaire. Pour calculer le résultat final, on prend la moyenne arithmétique des deux valeurs les plus élevées qui ne diffèrent pas de plus de 1 dB.
+La période d'observation est d'au moins 15 s.
 
-Vous pouvez consulter le tableau dans le JO
+Les mesures sont prises à trois reprises, ou plus si nécessaire. Pour calculer le résultat final, on prend la moyenne arithmétique des deux valeurs les plus élevées qui ne diffèrent pas de plus de 1 dB.
 
-n°o 103 du 03/05/2002 page 8192 à 8220 :
+Figure 28.1
 
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000777862
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible au lien suivant : https://www.legifrance.gouv.fr/download/pdf?id=5IMJe1QpZ132544xDKlFZM-iqmYsnm7jq9JvNFwPQos=
 
-Vous pouvez consulter le tableau dans le JO
+Figure 28.2
 
-n°o 103 du 03/05/2002 page 8192 à 8220 :
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible au lien suivant : https://www.legifrance.gouv.fr/download/pdf?id=5IMJe1QpZ132544xDKlFZM-iqmYsnm7jq9JvNFwPQos=
 
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000777862
-
-Définitions :
+Définitions
 
 d Diamètre de l'outil (mm) ;
 
-d1 Diamètre de l'enclume, 1 200 100 mm ;
+d1 Diamètre de l'enclume, 1 200 ± 100 mm ;
 
-d2 Diamètre d'alésage de la structure de support de l'enclume, 1 800 mm ;
+d2 Diamètre d'alésage de la structure de support de l'enclume, ≤ 1 800 mm ;
 
-d3 Diamètre du plateau du bloc d'essai, 2 200 mm ;
+d3 Diamètre du plateau du bloc d'essai, ≤ 2 200 mm ;
 
-d4 Diamètre de l'ouverture aménagée pour l'outil dans le plateau, 350 mm ;
+d4 Diamètre de l'ouverture aménagée pour l'outil dans le plateau, ≤ 350 mm ;
 
-d5 Diamètre de la plaque écran de l'outil, 1 000 mm ;
+d5 Diamètre de la plaque écran de l'outil, ≤ 1 000 mm ;
 
-h1 Longueur visible de l'outil entre la partie la plus basse du cadre et la surface supérieure de la plaque écran de l'outil (mm) : h1 = d d/2 ;
+h1 Longueur visible de l'outil entre la partie la plus basse du cadre et la surface supérieure de la plaque écran de l'outil (mm)h1 = d ± d/2 ;
 
-h2 Epaisseur de la plaque écran de l'outil dépassant du plateau, 20 mm (si la plaque écran de l'outil se trouve en dessous du plateau, son épaisseur n'est pas limitée ; dans ce cas, il peut être en caoutchouc mousse) ;
+h2 Epaisseur de la plaque-écran de l'outil dépassant du plateau, ≤ 20 mm (si la plaque-écran de l'outil se trouve en dessous du plateau, son épaisseur n'est pas limitée ; dans ce cas, il peut être en caoutchouc mousse) ;
 
-h3 Distance entre la surface supérieure du plateau et la surface supérieure de l'enclume, 250 50 mm ;
+h3 Distance entre la surface supérieure du plateau et la surface supérieure de l'enclume, 250 ± 50 mm ;
 
-h4 Epaisseur du joint du plateau en caoutchouc mousse, 30 mm ;
+h4 Epaisseur du joint du plateau en caoutchouc mousse, ≤ 30 mm ;
 
-h5 Epaisseur de l'enclume, 350 50 mm ;
+h5 Epaisseur de l'enclume, 350 ± 50 mm ;
 
-h6 Pénétration de l'outil, 50 mm.
+h6 Pénétration de l'outil, ≤ 50 mm.
 
 Si on utilise une structure de bloc d'essai de forme quadratique, la longueur maximale égale 0,89 fois le diamètre correspondant.
 
-L'espace vide entre le plateau et l'enclume peut être comblé à l'aide de caoutchouc mousse élastique ou d'un autre matériau d'absorption, d'une densité inférieure à 220 kg/m³.
+L'espace vide entre le plateau et l'enclume peut être comblé à l'aide de caoutchouc mousse élastique ou d'un autre matériau d'absorption, d'une densité inférieure à 220 kg/m3.
 
 29. Groupes hydrauliques
 
-Norme de base sur l'émission sonore :
+Montage du matériel
 
-NF EN ISO 3744 - novembre 1995.
+Le groupe hydraulique est placé sur une surface réfléchissante ; les machines montées sur patins sont placées sur un support d'une hauteur de 0,40 m, sauf indication contraire du fabricant dans la notice d'installation.
 
-Conditions de fonctionnement durant l'essai :
+Essai sous charge
 
-Montage du matériel : le groupe hydraulique est placé sur une surface réfléchissante ; les machines montées sur patins sont placées sur un support d'une hauteur de 0,40 m, sauf indication contraire du fabricant dans la notice d'installation ;
+En cours d'essai, aucun outil n'est couplé au groupe générateur de pression.
 
-Essai en charge : en cours d'essai, aucun outil n'est couplé au groupe générateur de pression. Le groupe hydraulique est mis en régime stabilisé dans la gamme spécifiée par le fabricant. Il fonctionne à sa vitesse et à sa pression nominales. La vitesse et la pression nominales sont celles indiquées dans la notice d'instructions fournie à l'acheteur.
+Le groupe hydraulique est mis en régime stabilisé dans la gamme spécifiée par le fabricant. Il fonctionne à sa vitesse et à sa pression nominales. La vitesse et la pression nominales sont celles indiquées dans la notice d'instructions fournie à l'acheteur.
 
-Période d'observation :
+Période d'observation
 
-La période d'observation est d'au moins 15 secondes.
+La période d'observation est d'au moins 15 s.
 
 30. Découpeurs de joints
 
-Norme de base sur l'émission sonore :
+a) Machines à scier les sols conduites à pied
 
-NF EN ISO 3744 - novembre 1995.
+EN 13862:2021, point 4.10.2
 
-Conditions de fonctionnement durant l'essai :
+b) Matériels à moteur à combustion interne, à main, portables, montés sur un support mobile, destinés à être utilisés comme machines à scier les sols
 
-Essai en charge : le découpeur de joints est équipé de la plus grande lame prévue par le fabricant dans la notice d'instructions fournie à l'acheteur. Le moteur fonctionne à sa vitesse maximale avec la lame déclenchée.
+EN ISO 19432-1:2020, point 4.19.2
 
-Période d'observation :
+c) Autres découpeurs de joints
 
-La période d'observation est d'au moins 15 secondes.
+Essai sous charge
 
-31. Compacteurs de remblais
+Le découpeur de joints est équipé de la plus grande lame possible spécifiée par le fabricant dans la notice d'instructions fournie à l'acheteur. Le moteur fonctionne à sa vitesse maximale avec la lame déclenchée.
 
-et de déchets à godet, de type chargeuse
+Période d'observation
 
-Essai effectué selon les dispositions du point 37 de la présente annexe.
+La période d'observation est d'au moins 15 s.
 
-32. Tondeuse à gazon
+31. Compacteurs de déchets et de remblais
 
-Norme de base sur l'émission sonore :
+ISO 6395:2008 avec les conditions de fonctionnement et d'essai définies à l'annexe H de cette norme.
 
-NF EN ISO 3744 - novembre 1995.
+32. Tondeuses à gazon
 
-Aire d'essai :
+a) Tondeuses à gazon à moteur à combustion à lames rotatives et à cylindre
 
-ISO 11094 : 1991. En cas de litige, les mesures sont effectuées en extérieur, sur la surface artificielle (point 4.1.2 de la norme ISO 11094 : 1991).
+EN ISO 5395-1:2013, EN ISO 5395-1:2013/A1:2018, point 4.3, deuxième tiret.
 
-Correction d'environnement K2A :
+Correction d'environnement K2A
 
-Mesurage en extérieur : K2A = 0 ;
+Si K2A ≤ 0,5 dB, elle peut être négligée.
 
-Mesurage en intérieur : la valeur de la constante K2A, déterminée sans surface artificielle et conformément à l'annexe A de la norme NF EN ISO 3744 - novembre 1995, doit être inférieure ou égale à 2,0 dB, auquel cas cette constante est négligée.
+b) Tondeuses à gazon à moteur électrique, à lames rotatives et à cylindre, montées, auto-porteuses et conduites à pied
 
-Surface de mesurage/nombre de positions de microphone/distance de mesurage :
-
-ISO 11094 : 1991.
-
-Conditions de fonctionnement durant l'essai :
-
-Montage du matériel : si les roues de la tondeuse à gazon sont susceptibles de comprimer la surface artificielle de plus de 1 cm, on les place sur des supports de manière à ce qu'elles soient au niveau de la surface artificielle non comprimée. Si l'organe de coupe ne peut être séparé des roues motrices, la tondeuse est essayée sur des supports, l'organe de coupe fonctionnant à la vitesse maximale spécifiée par le constructeur. Les supports sont réalisés de manière à ne pas influer sur les résultats de mesure.
-
-Essai à vide : ISO 11094 : 1991.
-
-Période d'observation :
-
-ISO 11094 : 1991.
+EN IEC 62841-4-3:2021, EN IEC 62841-4-3:2021/A11:2021, annexe I, point I.2
 
 33. Coupe-gazon/coupe-bordures
 
-Essai effectué selon les dispositions du point 32 de la présente annexe.
-
-L'appareil est placé sur un dispositif approprié de manière à ce que l'organe de coupe se trouve au-dessus du centre de l'hémisphère. Pour les coupe-gazon, le centre de l'outil de coupe est maintenu à une distance d'environ 50 mm au-dessus de la surface. Afin de tenir compte des lames, les coupe-bordures doivent être positionnés le plus près possible de la surface d'essai.
+EN 50636-2-91:2014, annexe CC
 
 34. Souffleurs de feuilles
 
-Norme de base sur l'émission sonore :
+a) Matériels à moteur à combustion
 
-NF EN ISO 3744 - novembre 1995.
+EN ISO 22868:2021
 
-Aire d'essai :
+b) Matériels à moteur électrique
 
-ISO 11094 : 1991. En cas de litige, les mesurages sont effectués en extérieur, sur la surface artificielle (point 4.1.2 de la norme ISO 11094 : 1991).
-
-Correction d'environnement K2A :
-
-Mesure en extérieur : K2A = 0 ;
-
-Mesure en intérieur : la valeur de la constante K2A, déterminée sans surface artificielle et conformément à l'annexe A de la norme NF EN ISO 3744 - novembre 1995, doit être inférieure ou égale à 2,0 dB, auquel cas cette constante n'est pas prise en considération.
-
-Surface de mesure/nombre de positions de microphone/distance de mesure : ISO 11094 : 1991.
-
-Conditions de fonctionnement durant l'essai :
-
-Montage du matériel : le souffleur de feuilles est placé de la manière naturelle pour une utilisation normale, de façon à ce que la sortie de son dispositif de soufflage se trouve 50 25 mm au-dessus du centre de l'hémisphère ; dans le cas d'un souffleur de feuilles portable, il est tenu par une personne ou par un dispositif approprié.
-
-Essai en charge : l'appareil est essayé à sa vitesse nominale et avec le débit d'air nominal spécifié par le fabricant.
-
-Période d'observation :
-
-La période d'observation est d'au moins 15 secondes.
-
-Note. - Si un souffleur de feuilles peut également être utilisé comme aspirateur de feuilles, il doit être essayé dans les deux configurations, auquel cas la valeur retenue sera la plus élevée.
+EN 50636-2-100:2014, annexe CC
 
 35. Aspirateurs de feuilles
 
-Norme de base sur l'émission sonore :
-
-NF EN ISO 3744 - novembre 1995.
-
-Aire d'essai :
-
-ISO 11094 : 1991. En cas de litige, les mesurages sont effectués en extérieur, sur la surface artificielle (point 4.1.2 de la norme ISO 11094 : 1991).
-
-Correction d'environnement K2A :
-
-Mesure en extérieur : K2A = 0 ;
-
-Mesure en intérieur : la valeur de la constante K2A, déterminée sans surface artificielle et conformément à l'annexe A de la norme NF EN ISO 3744 - novembre 1995, doit être inférieure ou égale à 2,0 dB, auquel cas cette constante n'est pas prise en considération.
-
-Surface de mesure/nombre de positions de microphone/distance de mesure :
-
-ISO 11094 : 1991.
-
-Conditions de fonctionnement durant l'essai :
-
-Montage du matériel : l'aspirateur de feuilles est placé de la manière naturelle pour une utilisation normale, de façon à ce que la sortie de son dispositif d'aspiration se trouve 50 25 mm au-dessus du centre de l'hémisphère ; dans le cas d'un aspirateur de feuilles portable, celui-ci est tenu par une personne ou par un dispositif approprié.
-
-Essai en charge : l'appareil est essayé à sa vitesse nominale et avec le débit d'air nominal spécifié par le fabricant.
-
-Période d'observation :
-
-La période d'observation est d'au moins quinze secondes.
-
-Note. - Si un aspirateur de feuilles peut également être utilisé comme souffleur de feuilles, il doit être essayé dans les deux configurations, auquel cas la valeur retenue sera la plus élevée.
+Voir le point 34.
 
 36. Chariots élévateurs
 
-Norme de base sur l'émission sonore :
+EN 12053:2001+A1:2008
 
-NF EN ISO 3744 - novembre 1995.
+37. Chargeurs
 
-Conditions de fonctionnement durant l'essai :
-
-Les exigences de sécurité et les informations fournies par le fabricant doivent être observées.
-
-Levage :
-
-Le chariot étant immobile, la charge (matériau non absorbant, par exemple acier ou béton ; au moins 70 % de la charge utile indiquée dans les instructions du fabricant) doit être levée à la vitesse maximale depuis la position la plus basse jusqu'à la hauteur de levage standardisée applicable à ce type de chariot industriel conformément à la norme européenne pertinente dans la série " Sécurité des chariots industriels ". Si la hauteur de levage maximale réelle est inférieure, elle peut être utilisée dans les mesures individuelles. La hauteur de levage doit être indiquée dans le rapport d'essai.
-
-Pilotage :
-
-Déplacer le chariot sans charge en pleine accélération depuis l'arrêt sur une distance représentant trois fois sa longueur jusqu'à atteindre la ligne A-A (ligne reliant les positions de microphone 4 et 6), continuer à conduire le chariot en pleine accélération jusqu'à la ligne B-B (ligne reliant les positions de microphone 2 et 8). Lorsque l'arrière du chariot a traversé la ligne B-B, l'accélérateur peut être relâché.
-
-Si le chariot est équipé d'une transmission à variation discontinue de la vitesse, sélectionner le rapport qui assure la vitesse la plus élevée possible sur la distance de mesure.
-
-Période(s) d'observation/détermination de la puissance acoustique lorsque plusieurs conditions de fonctionnement sont appliquées :
-
-Les périodes d'observation sont :
-
-- pour le levage : le cycle de levage tout entier ;
-
-- pour le pilotage : la période commençant lorsque le centre du chariot coupe la ligne A-A et se terminant lorsque le centre atteint la ligne B-B.
-
-Pour calculer le niveau de puissance acoustique résultant pour tous les types de chariot élévateur, on utilise toutefois la formule :
-
-LWA = 10 log (0,7 x 100,¹ LWAc + 0,3 x 100,¹ LWAa)
-
-où l'indice " a " se rapporte au " mode de levage " et l'indice " c " se rapporte au " mode de pilotage ".
-
-37. Chargeuses
-
-Norme de base sur l'émission sonore :
-
-NF EN ISO 3744 - novembre 1995
-
-Aire d'essai :
-
-NF ISO 6395 - décembre 1997.
-
-Surface de mesure/nombre de positions de microphone/distance de mesure :
-
-NF ISO 6395 - décembre 1997.
-
-Conditions de fonctionnement durant l'essai :
-
-Montage du matériel :
-
-Les chargeuses à chenilles sont essayées sur un site d'essai correspondant au point 6.3.3 de la norme NF ISO 6395 - décembre 1997.
-
-Essai en charge :
-
-NF ISO 6395 - décembre 1997, annexe C.
-
-Période(s) d'observation/détermination du niveau de puissance acoustique lorsque plusieurs conditions de fonctionnement sont appliquées :
-
-NF ISO 6395 - décembre 1997, annexe C.
+ISO 6395:2008 avec les conditions de fonctionnement et d'essai définies à l'annexe D de cette norme.
 
 38. Grues mobiles
 
-Norme de base sur l'émission sonore :
+EN 13000:2010+A1:2014, point 5.3
 
-NF EN ISO 3744 - novembre 1995.
+39. Conteneur roulant à déchets
 
-Conditions de fonctionnement durant l'essai :
+Aire d'essai
 
-Montage du matériel :
+- surface réfléchissante en béton ou en asphalte non poreux ;
 
-Si la grue est équipée de stabilisateurs, ceux-ci sont en extension totale et la grue est mise à niveau sur ses cales en position médiane de l'éventuelle hauteur de support.
+- salle de laboratoire présentant un champ libre sur une surface réfléchissante.
 
-Essai en charge :
-
-La grue mobile soumise à l'essai doit être présentée dans sa version standard telle que décrite par le fabricant. La puissance du moteur à considérer pour déterminer la limite de bruit est la puissance nominale du moteur utilisée pour le déplacement de la grue. La grue doit être équipée de son contrepoids maximal autorisé sur la structure tournante.
-
-Avant toute mesure, le moteur et le système hydraulique de la grue mobile doivent être portés à leur température normale de fonctionnement selon les instructions du fabricant et toutes les procédures liées à la sécurité qui figurent dans le manuel d'instructions doivent être exécutées.
-
-Si la grue mobile est équipée de plusieurs moteurs, le moteur servant à la fonction de grue doit tourner. Le moteur du système de portée doit être coupé.
-
-Si le moteur de la grue mobile est équipé d'un ventilateur, celui-ci doit tourner durant l'essai. Si le ventilateur peut tourner à des vitesses différentes, l'essai doit être effectué avec le ventilateur tournant à la vitesse maximale.
-
-La grue mobile est mesurée dans les conditions 3(a-c) ou 4(a-d) suivantes :
-
-Les éléments suivants sont applicables dans toutes les conditions de fonctionnement :
-
-- régime du moteur à ³/4 du régime maximal spécifié pour le mode de fonctionnement de la grue avec une tolérance de 2% ;
-
-- accélération et décélération à leurs valeurs maximales sans aucun mouvement dangereux de la charge ou du moufle ;
-
-- mouvements à la vitesse maximale possible telle qu'indiquée dans le manuel d'instructions pour les conditions données.
-
-a) Levage :
-
-La grue mobile doit être chargée d'un poids qui crée 50 % de la force maximale du câble. L'essai consiste à lever la charge et à l'abaisser immédiatement jusqu'à sa position de départ. La longueur de la flèche est choisie de telle sorte que l'essai dans son ensemble dure de quinze à vingt secondes.
-
-b) Pivotement :
-
-La flèche étant placée selon un angle de 40 à 50° par rapport à l'horizontale et sans charge, le chariot supérieur est tourné de 90° vers la gauche pour être ensuite ramené immédiatement vers la position de départ. La flèche doit être à sa longueur minimale. La période d'observation est le temps nécessaire pour effectuer le cycle de travail.
-
-c) Fonctionnement de la potence :
-
-L'essai consiste, dans un premier temps, à lever la flèche courte depuis sa position de travail la plus basse pour la rabaisser immédiatement après jusqu'à sa position de départ. Le mouvement est exécuté sans charge. La durée de l'essai est d'au moins 20 secondes.
-
-d) Télescopage (le cas échéant) :
-
-La flèche étant placée selon un angle de 40 à 50° par rapport à l'horizontale, sans charge et la flèche étant totalement rétractée, le cylindre coulissant de la première section uniquement est étendu en même temps que la première section à sa longueur maximale et immédiatement rétracté en même temps que la première section.
-
-Période(s) d'observation/détermination du niveau de puissance acoustique lorsque plusieurs conditions de fonctionnement sont appliquées :
-
-Le niveau de puissance acoustique qui en résulte est calculé selon les formules suivantes :
-
-a) En cas d'utilisation du télescopage :
-
-LWA = 10 log (0,4 x 100,¹LWAa + 0,25 x 100,¹LWAb + 0,25 x 10°,¹LWAC + 0,1 x 100,¹LWAd) ;
-
-b) si le télescopage n'est pas utilisé :
-
-LWA = 10 log (0,4 x 100,¹LWAa + 0,3 x 100,¹LWAb + 0,3 x 100,¹LWAc)
-
-où
-
-LWAa est le niveau de puissance acoustique du cycle de levage ;
-
-LWAb est le niveau de puissance acoustique du cycle de pivotement ;
-
-LWAc est le niveau de puissance acoustique du cycle de la potence ;
-
-LWAd est le niveau de puissance acoustique du cycle de télescopage.
-
-39. Conteneurs roulants à déchets
-
-Norme de base sur l'émission sonore
-
-NF EN ISO 3744 - novembre 1995.
-
-Aire d'essai :
-
-Surface réfléchissante en béton ou en asphalte non poreux ;
-
-Salle de laboratoire présentant un champ libre sur une surface réfléchissante.
-
-Correction d'environnement K2A :
+Correction d'environnement K2A
 
 Mesure en extérieur :
 
-K2A = 0.
+K2A = 0
 
 Mesure en intérieur :
 
-La valeur de la constante K2A, déterminée conformément à l'annexe A de la norme NF EN ISO 3744 - novembre 1995, est inférieure ou égale à 2,0 dB, auquel cas cette constante est négligée.
+La valeur de la constante K2A, déterminée conformément à l'annexe A de la norme EN ISO 3744:2010, doit être ≤ 2,0 dB, auquel cas K2A est négligée.
 
-Surface de mesure/nombre de positions de microphone/distance de mesure :
+Surface de mesure/nombre de positions de microphone/distance de mesure
 
-Hémisphère/6 positions de microphone conformément à la partie A, point 5/r = 3 m.
+Hémisphère/six positions de microphone conformément à l'annexe F de la norme EN ISO 3744:2010,/r = 3 m.
 
-Conditions de fonctionnement durant l'essai :
+Conditions de fonctionnement durant l'essai
 
 Toutes les mesures sont réalisées conteneur roulant à vide.
 
-Essai n° 1 : fermeture libre du couvercle sur le corps du conteneur.
+Essai n° 1 : fermeture libre du couvercle sur le corps du conteneur
 
 Afin de réduire au minimum son influence sur les mesures, l'opérateur se trouve debout à l'arrière du conteneur (côté charnière). Le couvercle est lâché par le milieu de façon à ne pas le déformer lors de sa chute.
 
-La mesure de bruit est réalisée tandis que l'opérateur effectue 20 fois le cycle suivant :
+La mesure de bruit est réalisée tandis que l'opérateur effectue vingt fois le cycle suivant :
 
 - la position initiale correspond au relevage du couvercle pratiquement à la verticale ;
 
 - libération du couvercle si possible sans impulsion, vers l'avant, l'opérateur restant immobile jusqu'à la fermeture du conteneur, à l'arrière ;
 
-- après fermeture complète, relevage du couvercle à la position initiale.
+- près fermeture complète, relevage du couvercle à la position initiale.
 
 Nota. - Si nécessaire, l'opérateur peut se déplacer le temps de relever le couvercle.
 
-Essai n° 2 : ouverture complète du couvercle.
+Essai n° 2 : ouverture complète du couvercle
 
-Afin de réduire au minimum sont influence sur les mesures, l'opérateur se trouve debout à l'arrière (côté charnière) pour les conteneurs à quatre roues ou sur le côté droit (entre les points de mesure 10 et 12) pour les conteneurs à deux roues. Le couvercle est lâché par le milieu, ou le plus près possible du milieu.
+Afin de réduire au minimum son influence sur les mesures, l'opérateur se trouve debout à l'arrière (côté charnière) pour les conteneurs à quatre roues ou sur le côté droit (entre les points de mesure 10 et 12) pour les conteneurs à deux roues. Le couvercle est lâché par le milieu, ou le plus près possible du milieu.
 
 Pour éviter tout roulement du conteneur, les roues sont bloquées pendant l'essai. Pour les conteneurs à deux roues, et afin d'éviter tout sursaut du conteneur, l'opérateur est autorisé à le maintenir en place en posant la main sur la collerette.
 
@@ -1190,526 +724,202 @@ La mesure de bruit est réalisée tandis que l'opérateur effectue le cycle suiv
 
 - après ouverture complète, et avant rebond éventuel, relevage du couvercle à la position initiale.
 
-Essai n° 3 : roulage du conteneur sur sol irrégulier artificiel.
+Essai n° 3 : roulage du conteneur sur sol irrégulier artificiel
 
-Pour cet essai, on utilise une piste d'essai artificielle, simulant un sol irrégulier. Cette piste d'essai consiste en deux zones de roulement parallèles en acier grillagé (de 6 m de long et 400 mm de large), fixées dans le plan réfléchissant environ tous les 20 cm. La distance entre les deux zones est adaptée en fonction du type de conteneur, afin que les roues puissent rouler sur toute la longueur de la piste.
-
-Au montage, on veille à aménager une surface plane. Si nécessaire, on attache la piste sur le sol à l'aide de systèmes élastiques afin d'éviter l'émission de bruits parasites.
+Pour cet essai, on utilise une piste d'essai artificielle, simulant un sol irrégulier. Cette piste d'essai consiste en deux zones de roulement parallèles en acier grillagé (de 6 m de long et 400 mm de large), fixées dans le plan réfléchissant environ tous les 20 cm. La distance entre les deux zones est adaptée en fonction du type de conteneur, afin que les roues puissent rouler sur toute la longueur de la piste. Au montage, on veille à aménager une surface plane. Si nécessaire, on attache la piste sur le sol à l'aide de systèmes élastiques afin d'éviter l'émission de bruits parasites.
 
 Nota. - Chaque piste de roulement peut être composée de plusieurs éléments de 400 mm de large, assemblés.
 
-Les figures 39.1 et 39.2 donnent un exemple de piste adéquate.
+Les figures 39.1 et 39.2 donnent un exemple de piste adéquate. L'opérateur est situé du côté de la charnière du couvercle.
 
-L'opérateur est situé du côté de la charnière du couvercle.
+La mesure de bruit est réalisée tandis que l'opérateur tire le conteneur à une vitesse constante d'environ 1 m/s sur le sol artificiel, entre les points A et B [séparés de 4,24 m (voir la figure 39.3)], lorsque l'essieu pour un conteneur à deux roues, ou le premier essieu pour un conteneur à quatre roues, atteint le point A ou le point B. Cette procédure est répétée trois fois dans chaque direction.
 
-La mesure de bruit est réalisée tandis que l'opérateur tire le contenueur à une vitesse constante d'environ 1 m/s sur le sol artificiel, entre les points A et B (séparés de 4,24 m - cf. fig. 39.3), lorsque l'essieu pour un conteneur à 2 roues, ou le premier essieu pour un conteneur à 4 roues, atteint le point A ou le point B. Cette procédure est répétée trois fois dans chaque direction.
+Lors de l'essai, le conteneur à deux roues doit présenter un angle d'environ 45° avec le sol. Pour un conteneur à quatre roues, l'opérateur doit veiller au bon contact de l'ensemble des roues lors du déplacement.
 
-Lors de l'essai, le conteneur à 2 roues doit présenter un angle d'environ 45° avec le sol. Pour un conteneur à 4 roues, l'opérateur doit veiller au bon contact de l'ensemble des roues lors du déplacement.
+Périodes d'observation/détermination du niveau de puissance acoustique lorsque plusieurs conditions de fonctionnement sont appliquées
 
-Période(s) d'observation / de détermination du niveau de puissance acoustique résultant en cas d'utilisation de plusieurs modes de fonctionnement :
-
-Essais n°s 1 et 2 : fermeture libre du couvercle sur le corps du conteneur et ouverture complète du couvercle.
+Essais nos 1 et 2 : fermeture libre du couvercle sur le corps du conteneur et ouverture complète du couvercle
 
 Si possible, les mesures sont effectuées simultanément aux six positions de microphones. Dans le cas contraire, les niveaux sonores mesurés à chaque position de microphone sont classés en ordre ascendant et les niveaux de puissance acoustique sont calculés par association des valeurs à chaque position de microphone selon leur rang.
 
-Le niveau de pression acoustique pondéré A d'un événement isolé est mesuré pour chacune des 20 fermetures et des 20 ouvertures du couvercle à chaque point de mesure. Les niveaux de puissance acoustique. LWA fermeture et LWA ouverture sont la moyenne quadratique des cinq valeurs les plus élevées parmi celles qui ont été obtenues.
+Le niveau de pression acoustique intégré dans le temps pondéré A d'un événement isolé est mesuré pour chacune des vingt fermetures et des vingt ouvertures du couvercle à chaque point de mesure. Les niveaux de puissance acoustique LWAfermeture et LWAouverture sont la moyenne quadratique des cinq valeurs les plus élevées parmi celles qui ont été obtenues.
 
-Essai n° 3 : roulage du conteneur sur sol irrégulier artificiel.
+Essai n° 3 : roulage du conteneur sur sol irrégulier artificiel
 
 La période d'observation T est égale à la durée nécessaire pour parcourir la distance entre les points A et B sur la piste.
 
-Le niveau de puissance acoustique LWA roulage est égal à la moyenne de 6 valeurs différant de moins de 2 dB. Si ce critère n'est pas rempli avec 6 mesures, le cycle est répété autant que nécessaire.
+Le niveau de puissance acoustique LWAroulage est égal à la moyenne de six valeurs différant de moins de 2 dB. Si ce critère n'est pas rempli avec six mesures, le cycle est répété autant que nécessaire.
 
 Le niveau de puissance acoustique qui en résulte est calculé selon la formule suivante :
 
-LWA = 10 log 3 (100,¹LWAfermeture + 100,¹LWA°uverture + 100,¹LWAr°ulage).
+LWA = 10 log 1/3 (100,1 LWAfermeture + 100,1 LWAouverture + 100,1 LWAroulage)
 
-1
+Figure 39.1. - Schéma de la piste de roulement
 
-LWA = 10 log
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible au lien suivant : https://www.legifrance.gouv.fr/download/pdf?id=5IMJe1QpZ132544xDKlFZM-iqmYsnm7jq9JvNFwPQos=
 
-(100,¹LWAfermeture + 100,¹LWA°uverture + 100,¹LWAr°ulage).
+Figure 39.2. - Détail de réalisation et montage de la piste de roulement
 
-3
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible au lien suivant : https://www.legifrance.gouv.fr/download/pdf?id=5IMJe1QpZ132544xDKlFZM-iqmYsnm7jq9JvNFwPQos=
 
-Vous pouvez consulter le tableau dans le JO
+Figure 39.3. - Distance de mesure
 
-n°o 103 du 03/05/2002 page 8192 à 8220 :
-
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000777862
-
-Figure 39.3
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible au lien suivant : https://www.legifrance.gouv.fr/download/pdf?id=5IMJe1QpZ132544xDKlFZM-iqmYsnm7jq9JvNFwPQos=
 
 40. Motobineuses
 
-Essai effectué selon les dispositions du point 32 de la présente annexe.
+Voir le point 32.
 
-L'outil n'est pas enclenché lors de la mesure.
+L'outil n'est pas enclenché ou retiré lors de la mesure.
 
 41. Finisseurs
 
-Norme de base sur l'émission sonore :
+EN 500-6:2006+A1:2008, point 5.17
 
-NF EN ISO 3744 - novembre 1995.
+42. Matériel de battage
 
-Conditions de fonctionnement durant l'essai :
+a) Machines de fondation
 
-Essai en charge :
+EN 16228-4:2014+A1:2021, point 5.8
 
-Le moteur de l'engin fonctionne en régime nominal indiqué par le fabricant. Tous les organes sont activés et fonctionnent aux vitesses suivantes :
+b) Appareils auxiliaires interchangeables pour le battage
 
-Système de transport : au moins 10 % de la valeur maximale ;
+EN 16228-7:2014+A1:2021, point 5.3
 
-Système d'épandage : au moins 40 % de la valeur maximale ;
+c) Autres matériels de battage
 
-Donneur (vitesse, fréquence des coups) : au moins 50 % de la valeur maximale ;
-
-Vibreur (vitesse, moment de déséquilibre) : au moins 50 % de la valeur maximale ;
-
-Barres de pression (fréquence, pression) : au moins 50 % de la valeur maximale.
-
-Période d'observation :
-
-La période d'observation est d'au moins 15 secondes.
-
-42. Engins de battage
-
-Norme de base sur l'émission sonore :
-
-NF EN ISO 3744 - novembre 1995.
-
-Aire d'essai :
-
-NF ISO 6395 - décembre 1997.
-
-Conditions de fonctionnement durant l'essai :
-
-Essai en charge :
-
-Le matériel de battage est monté au-dessus d'un élément de fondation qui a un ancrage suffisant dans le sol pour que le matériel fonctionne à une vitesse stable.
-
-Dans le cas de marteaux batteurs, le chapeau doit être pourvu d'une garniture en bois neuve.
-
-La partie supérieure de l'élément de fondation doit être à 0,50 m au-dessus de l'aire d'essai.
-
-Période d'observation :
-
-La période d'observation est d'au moins 15 secondes.
+EN 16228-1:2014+A1:2021, point 5.27.2.2
 
 43. Poseurs de canalisations
 
-Essai effectué selon les dispositions du point 0 de la présente annexe.
+ISO 6393:2008
 
 44. Engins de damage de piste
 
-Essai effectué selon les dispositions du point 0 de la présente annexe.
+ISO 6393:2008, avec les mêmes procédures et conditions de fonctionnement que celles décrites pour les bouteurs. Le site d'essai est le plan réfléchissant dur (point 5.3.2 de la norme ISO 6393:2008).
 
 45. Groupes électrogènes de puissance
 
-Norme de base sur l'émission sonore :
+EN ISO 8528-10:2022
 
-NF EN ISO 3744 - novembre 1995.
-
-Correction d'environnement K2A :
-
-Mesure en extérieur :
-
-K2A = 0.
-
-Mesure en intérieur :
-
-La valeur de la constante K2A, déterminée sans surface artificielle et conformément à l'annexe A de la norme NF EN ISO 3744 - novembre 1995, doit être inférieure ou égale à 2,0 dB, auquel cas cette constante est négligée.
-
-Surface de mesure/nombre de positions de microphone/distance de mesure :
-
-Hémisphère/6 positions de microphone conformément à la partie A, point 5/conformément à la partie A, point 5 ; si l > 2 m, un parallélépipède selon la norme NF EN ISO 3744 - novembre 1995 peut être utilisé avec une distance de mesure d = 1 m.
-
-Conditions de fonctionnement durant l'essai :
-
-Montage du matériel :
-
-Les groupes électrogènes de puissance sont placés sur une surface réfléchissante ; les groupes montés sur patins sont placés sur un support d'une hauteur de 0,40 m, sauf indication contraire du fabricant dans la notice d'installation.
-
-Essai en charge :
-
-NF ISO 8528-10 - octobre 1999, point 9.
-
-Période d'observation :
-
-La période d'observation est d'au moins 15 secondes.
+La méthode de mesure de cette norme basée sur la norme EN ISO 3744:2010 doit être appliquée.
 
 46. Balayeuses
 
-Norme de base sur l'émission sonore :
+a) Balayeuses de chaussées
 
-NF EN ISO 3744 - novembre 1995.
+EN 17106-2:2021, point 4.3
 
-Conditions de fonctionnement durant l'essai :
+b) Autres balayeuses pour utilisation en extérieur
 
-Essai en charge :
-
-La balayeuse est essayée en position stationnaire. Le moteur et les unités auxiliaires fonctionnent à la vitesse prévue par le fabricant ; le balai fonctionne à sa vitesse maximale, sans toucher le sol ; le système d'aspiration fonctionne à sa puissance maximale, la distance entre le sol et la bouche d'aspiration ne dépassant pas 25 mm.
-
-Période d'observation :
-
-La période d'observation est d'au moins 15 secondes.
+EN 60335-2-72:2012, annexe DD
 
 47. Bennes à ordures ménagères
 
-Norme de base sur l'émission sonore :
-
-NF EN ISO 3744 - novembre 1995.
-
-Conditions de fonctionnement durant l'essai :
-
-Essai en charge :
-
-La benne à ordures est testée en position stationnaire pour les conditions de fonctionnement suivantes :
-
-1. Le moteur fonctionne en régime maximal indiqué par le fabricant. L'équipement n'est pas en fonctionnement. Cet essai n'est pas effectué pour les véhicules fonctionnant exclusivement à l'électricité.
-
-2. Le système de compactage est en fonctionnement.
-
-La benne et la trémie de collecte sont vides.
-
-Si le régime du moteur est automatiquement accéléré par le fonctionnement du système de compactage, cette valeur est mesurée. Si la valeur mesurée est inférieure de plus de 5 % au régime indiqué par le fabricant, il convient d'augmenter le régime du moteur à l'aide de l'accélérateur de la cabine afin d'assurer le régime indiqué par le fabricant.
-
-Si le régime du moteur pour le système de compactage n'est pas fourni par le fabricant ou si le véhicule n'est pas équipé d'un accélérateur automatique, le régime du moteur déterminé par l'accélérateur de la cabine doit être de 1 200 tours/min. ;
-
-3. Le dispositif de levage monte et descend sans charge et sans conteneur. Le régime du moteur est obtenu et contrôlé comme pour le système de compactage (point 2 ci-dessus) ;
-
-4. Chute de matières dans la benne.
-
-Les matières sont déversées en vrac à l'aide du dispositif de levage dans la trémie de collecte (initialement vide). Un conteneur à deux roues d'une capacité de 240 litres, répondant à la norme NF EN 840-1 - juillet 1997, est utilisé pour cette opération. Si le dispositif de levage n'est pas capable de lever ce conteneur, un autre conteneur d'une capacité proche de 240 litres est utilisé. Les matières déversées sont constituées de 30 tubes de PVC, chacun d'une masse approximative de 0,4 kg et présentant les dimensions suivantes :
-
-Longueur : 150 mm 0,5 mm ;
-
-Diamètre extérieur nominal : 90 mm + 0,3/- 0 mm ;
-
-Profondeur nominale : 6,7 mm + 0,9/- 0 mm.
-
-Période d'observation/détermination du niveau de puissance acoustique si plus d'une condition de fonctionnement est utilisée :
-
-La période d'observation est selon le cas :
-
-1. Au moins 15 secondes. Le niveau de puissance acoustique qui en résulte est LWA1 ;
-
-2. Au moins trois cycles complets, si le système de compactage fonctionne automatiquement.
-
-Si le système de compactage ne fonctionne pas automatiquement, mais cycle par cycle, les mesures sont effectuées pendant au moins trois cycles. Le niveau de puissance acoustique qui en résulte (LWA2) est la valeur quadratique moyenne des 3 mesures (ou plus) ;
-
-3. Au moins trois cycles de travail complets continus, comprenant la levée et l'abaissement du dispositif de levage. Le niveau de puissance acoustique qui en résulte (LWA3) est la valeur quadratique moyenne des 3 mesures (ou plus) ;
-
-4. Au moins trois cycles de travail complets, chacun comprenant la chute de 30 tubes dans la trémie. Chaque cycle ne peut dépasser une durée de cinq secondes. Pour ces mesures, LpAeq, T est remplacé par LpA1s. Le niveau de puissance acoustique qui en résulte (LWA4) est la valeur quadratique moyenne des 3 mesures (ou plus).
-
-Le niveau de puissance acoustique qui en résulte est calculé selon la formule suivante :
-
-LWA = 10 log (0,06 x 100,¹LWA¹ + 0,53 x 100,¹LWA² + 0,4 x 100,¹LWA³ + 0,01 x 100,¹LWA4)
-
-Nota. - Dans le cas d'une benne à alimentation exclusivement électrique, le coefficient associé à LwA1 est supposé égal à 0.
+EN 1501-4:2023
 
 48. Engins de fraisage de chaussée
 
-Norme de base sur l'émission sonore :
-
-NF EN ISO 3744 - novembre 1995.
-
-Conditions de fonctionnement durant l'essai :
-
-Montage du matériel :
-
-L'axe longitudinal de l'engin de fraisage est parallèle à l'axe y.
-
-Essai en charge :
-
-L'engin de fraisage est mis en régime stabilisé dans la gamme spécifiée dans la notice d'instructions fournie à l'acheteur. Le moteur et tous les accessoires fonctionnent à leurs régimes nominaux respectifs de ralenti.
-
-Période d'observation :
-
-La période d'observation est d'au moins 15 secondes.
+EN 500-2:2006+A1:2008, point 5.17
 
 49. Scarificateurs
 
-Norme de base sur l'émission sonore :
+a) Matériels à moteur à combustion
 
-NF EN ISO 3744 - novembre 1995.
+EN 13684:2018, point 5.16.2
 
-Aire d'essai :
+b) Matériels à moteur électrique
 
-ISO 11094 : 1991.
-
-En cas de litige, les mesures sont effectuées en extérieur sur la surface artificielle (point 4.1.2 de la norme ISO 11094 : 1991).
-
-Correction d'environnement K2A :
-
-Mesure en extérieur :
-
-K2A = 0.
-
-Mesure en intérieur :
-
-La valeur de la constante K2A, déterminée sans surface artificielle et conformément à l'annexe A de la norme NF EN ISO 3744 - novembre 1995, doit être inférieure ou égale à 2.0 dB, auquel cas cette constante est négligée.
-
-Surface de mesure/nombre de positions de microphone/distance de mesure :
-
-ISO 11094 : 1991.
-
-Conditions de fonctionnement durant l'essai :
-
-Essai en charge :
-
-Le scarificateur fonctionne avec son moteur en régime nominal et son organe de travail fonctionnant à vide.
-
-Période d'observation :
-
-La période d'observation est d'au moins 15 secondes.
+EN IEC 62841-4-7:2022, EN IEC 62841-4-7:2022/A11:2022, annexe I, point I.2
 
 50. Broyeurs
 
-Norme de base sur l'émission sonore :
+a) Broyeurs/déchiqueteurs de jardin alimentés à la main
 
-NF EN ISO 3744 - novembre 1995.
+i) Matériels à moteur à combustion
 
-Aire d'essai :
+EN 13683:2003+A2:2011, point 5.10.2
 
-ISO 11094 : 1991.
+EN 13683:2003+A2:2011/AC:2013
 
-Correction d'environnement K2A :
+ii) Matériels à moteur électrique
 
-Mesure en extérieur :
+EN 50434:2014, point 20.107.2
 
-K2A = 0.
+b) Déchiqueteuses de bois alimentées horizontalement à la main employées en foresterie
 
-Mesure en intérieur :
+EN 13525:2020, point 5.5
 
-La valeur de la constante K2A, déterminée sans surface artificielle et conformément à l'annexe A de la norme NF EN ISO 3744 - novembre 1995, doit être inférieure ou égale à 2,0 dB, auquel cas cette constante est négligée.
+c) Déchiqueteuses de bois alimentées verticalement à la main employées en foresterie, déchiqueteuses de bois alimentées mécaniquement (verticalement et horizontalement) employées en foresterie et autres broyeurs/déchiqueteurs
 
-Surface de mesure/nombre de positions de microphone/distance de mesure :
-
-ISO 11094 : 1991.
-
-Conditions de fonctionnement durant l'essai :
-
-Essai en charge :
+Essai sous charge
 
 Le broyeur est essayé avec une ou plusieurs pièces de bois.
 
-Le cycle de travail consiste à déchiqueter une pièce de bois de section circulaire (pin ou contreplaqué sec) d'une longueur minimale de 1,5 m et taillée en pointe à une extrémité, dont le diamètre est approximativement égal au maximum que le broyeur peut normalement admettre et qui est spécifié dans la notice d'instructions fournie à l'acheteur.
+Le cycle de travail consiste à déchiqueter une pièce de bois de section circulaire (pin ou contre-plaqué sec) d'une longueur minimale de 1,5 m et taillée en pointe à une extrémité, dont le diamètre est approximativement égal au maximum que le broyeur peut normalement admettre et qui est spécifié dans la notice d'instructions fournie à l'acheteur.
 
-Période d'observation/détermination du niveau de puissance acoustique :
+Période d'observation/détermination du niveau de puissance acoustique
 
-La période d'observation prend fin lorsque l'aire de déchiquetage est vide, sans dépasser 20 secondes. Si les deux conditions de fonctionnement sont possibles, le niveau de puissance acoustique le plus élevé est indiqué.
+La période d'observation prend fin lorsque l'aire de déchiquetage est vide, sans dépasser 20 s. Si les deux conditions de fonctionnement sont possibles, le niveau de puissance acoustique le plus élevé est retenu.
 
-51. Déneigeuse à outils rotatifs
+51. Déneigeuses à outils rotatifs
 
-Norme de base sur l'émission sonore :
+a) Machines de déneigement des routes
 
-NF EN ISO 3744 - novembre 1995.
+EN 17106-3-1:2021, point 4.2
 
-Conditions de fonctionnement durant l'essai :
+b) Chasse-neige à conducteur à pied et à conducteur porté
 
-Essai en charge :
+i) Matériels à moteur à combustion
 
-L'engin est essayé en position stationnaire. Il fonctionne, conformément aux recommandations du fabricant, au régime maximal de ses organes de travail et avec le régime moteur correspondant.
+EN ISO 8437-4:2021, annexe A
 
-Période d'observation :
+ii) Matériels à moteur électrique
 
-La période d'observation est d'au moins 15 secondes.
+La machine doit fonctionner à la vitesse maximale à vide pendant 10 min avant le début de l'essai. Les collecteurs ou turbines sont lubrifiés conformément aux instructions du constructeur.
+
+Pendant l'essai, le collecteur ou la turbine doit être enclenché et déchargé. L'essai doit être effectué à l'arrêt à la vitesse maximale à vide.
+
+Les machines sont testées en les plaçant sur la surface de manière que la projection du centre géométrique de leurs parties principales (à l'exclusion de la poignée, etc.) coïncide avec l'origine du système de coordonnées des positions de microphone. Si une surface artificielle est utilisée, elle doit être positionnée de telle sorte que son centre géométrique coïncide également avec l'origine du système de coordonnées des positions de microphone. L'axe longitudinal de l'engin de la machine doit être sur l'axe des x. La mesure de bruit est réalisée sans opérateur.
+
+Pendant les mesures, la machine fonctionne dans des conditions stables. Une fois les émissions sonores stabilisées, l'intervalle de temps de mesure doit être d'au moins 15 s. Si les mesures sont effectuées dans des bandes de fréquences d'une octave ou d'un tiers d'octave, la période minimale d'observation est de 30 s pour les bandes de fréquences centrées sur ou au-dessous de 160 Hz, et de 15 s pour les bandes de fréquences centrées sur ou au-dessus de 200 Hz.
 
 52. Véhicules de vidange par aspiration
 
-Norme de base sur l'émission sonore :
+Essai sous charge
 
-NF EN ISO 3744 - novembre 1995.
+Le véhicule est testé en position stationnaire. Le moteur et les unités auxiliaires fonctionnent au régime indiqué par le fabricant. Les pompes à vide fonctionnent à la vitesse maximale indiquée par le fabricant. Le dispositif d'aspiration fonctionne de telle façon que la pression interne est égale à la pression atmosphérique (" 0 % de vide "). Le bruit d'aspiration de la buse ne doit pas influer sur les résultats des mesures.
 
-Conditions de fonctionnement durant l'essai :
+Période d'observation
 
-Essai en charge :
-
-Le véhicule est testé en position stationnaire. Le moteur et les unités auxiliaires fonctionnent au régime indiqué par le fabricant ; la (ou les) pompes(s) à vide fonctionne(nt) à la vitesse maximale indiquée par le fabricant. Le dispositif d'aspiration fonctionne de telle façon que la pression interne est égale à la pression atmosphérique (0 % de vide). Le bruit d'aspiration de la buse ne doit pas influer sur les résultats des mesures.
-
-Période d'observation :
-
-La période d'observation est d'au moins 15 secondes.
+La période d'observation est d'au moins 15 s.
 
 53. Grues à tour
 
-Norme de base sur l'émission sonore :
-
-NF EN ISO 3744 - novembre 1995.
-
-Surface de mesure/nombre de positions de microphone/distance de mesure :
-
-Mesures au niveau du sol :
-
-Hémisphère/6 positions de microphone conformément à la partie A, point 5/conformément à la partie A, point 5.
-
-Mesures au niveau de la flèche :
-
-Lorsque le mécanisme de levage est situé au niveau de la flèche, la surface de mesure est une sphère de 4 m de rayon, dont le centre coïncide avec le centre géométrique du treuil.
-
-Lorsque la mesure est effectuée avec le mécanisme de levage placé sur la contreflèche de la grue, l'aire de la surface de mesure est une sphère ; S est égale à 200 m².
-
-Les positions de microphones sont les suivantes (voir figure 53.1) :
-
-Quatre positions de microphone sur un plan horizontal passant par le centre géométrique du mécanisme (H = h/2) avec L = 2,80 m et d = 2,80 m - l/2.
-
-L = la moitié de la distance entre deux positions de microphones consécutives ; l = longueur du mécanisme (le long de l'axe de la flèche) ; b = largeur du mécanisme ; h = hauteur du mécanisme ; d = distance entre le support de microphone et le mécanisme en direction de la flèche.
-
-Les deux autres positions de microphone se situent aux points d'intersection de la sphère et de la ligne verticale passant par le centre géométrique du mécanisme.
-
-Conditions de fonctionnement durant l'essai :
-
-Montage du matériel ;
-
-Mesurage du mécanisme du levage.
-
-Le mécanisme de levage doit être monté selon l'une des façons suivantes au cours de l'essai.
-
-La position utilisée est précisée dans le rapport d'essai.
-
-a) Mécanisme de levage au niveau du sol :
-
-La grue est placée sur une surface réfléchissante en béton ou en asphalte non poreux.
-
-b) Mécanisme de levage sur la contre-flèche :
-
-Le mécanisme de levage se trouve à une hauteur d'au moins 12 m par rapport au sol.
-
-c) Mécanisme de levage fixé au sol.
-
-Le mécanisme de levage est fixé sur une surface réfléchissante en béton ou en asphalte non poreux.
-
-Mesurage de la source d'énergie :
-
-Lorsque la source d'énergie est fixée à la grue, qu'elle soit ou non reliée au mécanisme de levage, la grue est montée sur une surface réfléchissante en béton ou en asphalte non poreux.
-
-Lorsque le mécanisme de levage est situé sur la contre-flèche, la mesure du bruit peut être effectuée avec le mécanisme monté sur la contre-flèche ou bien fixé au sol.
-
-Lorsque la source d'énergie est indépendante de la grue (courant provenant du secteur ou d'un groupe électrogène, ou bien d'un générateur hydraulique ou pneumatique), seul le niveau de bruit du mécanisme est mesuré.
-
-Lorsque la source d'énergie est fixée à la grue, son niveau de bruit et celui du mécanisme de levage sont mesurés séparément s'ils ne sont pas combinés. Lorsque ces deux dispositifs sont combinés, la mesure se rapporte à l'assemblage groupé.
-
-Au cours de l'essai, le mécanisme de levage et la source d'énergie sont installés et utilisés conformément aux instructions du fabricant.
-
-Essai à vide :
-
-La source d'énergie intégrée à la grue fonctionne à la pleine puissance nominale indiquée par le constructeur.
-
-Le mécanisme de levage fonctionne sans charge, le tambour tournant à la vitesse correspondant à la vitesse maximale de déplacement du crochet, en mode levage et en mode descente. Cette vitesse est indiquée par le fabricant. Le plus grand des deux niveaux de puissance acoustique (montée ou descente) est retenu pour l'expression des résultats.
-
-Essai en charge :
-
-La source d'énergie intégrée à la grue fonctionne à la puissance nominale maximale indiquée par le fabricant. Le mécanisme de levage fonctionne avec une tension du câble au tambour correspondant à la charge maximale (pour la portée minimale) avec la vitesse maximale de déplacement du crochet. Les valeurs de charge et de vitesse sont données par le fabricant. La vitesse est contrôlée en cours d'essai.
-
-Période(s) d'observation/détermination du niveau de puissance acoustique lorsque plusieurs conditions de fonctionnement sont appliquées :
-
-Pour la mesure du niveau de pression acoustique du mécanisme de levage, la période de mesure est de (tr + tf) secondes :
-
-tr est la période en secondes avant l'activation du frein, le mécanisme de levage fonctionnant de la manière décrite plus haut. Aux fins de l'essai, tr = 3 secondes ;
-
-tf est la période en secondes entre le moment où le frein est activé et le moment où le crochet s'arrête complètement.
-
-Si un sonomètre intégrateur est utilisé, la période d'intégration est égale à (tr + tf) secondes.
-
-La moyenne quadratique i à une position de microphone est donnée par la formule :
-
-Lpi = 10 lg [(tr 100,¹Lri + tf 100,¹Lfi) / (tr + tf)],
-
-Lri étant le niveau de pression acoustique à la position de microphone i durant la période tr ;
-
-Lfi étant le niveau de pression acoustique à la position de microphone i au cours de la période de freinage tf.
-
-Vous pouvez consulter le tableau dans le JO
-
-n°o 103 du 03/05/2002 page 8192 à 8220 :
-
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000777862
-
-Figure 53.1
-
-Vous pouvez consulter le tableau dans le JO
-
-n°o 103 du 03/05/2002 page 8192 à 8220 :
-
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000777862
-
-Figure 53.1 suite
+EN 14439:2006+A2:2009, point 6.4.1
 
 54. Trancheuses
 
-Essai effectué selon les dispositions du point 0 de la présente annexe.
+ISO 6393:2008
 
-55. Camion-malaxeur
+55. Camions-malaxeurs
 
-Norme de base sur l'émission sonore :
+EN 12609:2021, annexe B
 
-NF EN ISO 3744 - novembre 1995.
+56. Pompes à eau
 
-Conditions de fonctionnement durant l'essai :
+EN ISO 20361:2019, EN ISO 20361:2019/A11:2020
 
-Essai en charge :
+La méthode de mesure de cette norme basée sur la norme EN ISO 3744:2010 doit être appliquée.
 
-Le malaxeur à béton est essayé en position stationnaire. Le tambour est empli de béton de consistance moyenne (mesure de propagation 42-47 cm) à sa capacité nominale. Le moteur d'entraînement du tambour fonctionne à la vitesse assurant la vitesse maximale de rotation du tambour spécifiée dans la notice fournie à l'acheteur.
-
-Période d'observation :
-
-La période d'observation est d'au moins 15 secondes.
-
-56. Groupes motopompes à eau
-
-Norme de base sur l'émission sonore :
-
-NF EN ISO 3744 - novembre 1995.
-
-Surface de mesure/nombre de positions de microphone/distance de mesure :
-
-Parallélépipède/conformément à la norme NF EN ISO 3744 - novembre 1995 avec distance de mesure d = 1 m.
-
-Conditions de fonctionnement durant l'essai :
-
-Montage du matériel :
-
-Le groupe motopompe est installé sur un plan réfléchissant ; les groupes montés sur patins sont placés sur un support d'une hauteur de 0,40 m, sauf indication contraire dans la notice d'installation fournie par le fabricant.
-
-Essai en charge :
-
-Le moteur doit fonctionner au point de rendement optimal indiqué dans la notice fournie par le fabricant.
-
-Période d'observation :
-
-La période d'observation est d'au moins 15 secondes.
+La période d'observation est d'au moins 15 s.
 
 57. Groupes électrogènes de soudage
 
-Norme de base sur l'émission sonore :
+EN ISO 8528-10:2022
 
-NF EN ISO 3744 - novembre 1995.
+La méthode de mesure de cette norme basée sur la norme EN ISO 3744:2010 doit être appliquée.
 
-Correction d'environnement K2A :
+(1) Le ralenti d'un moteur peut correspondre au régime le plus bas (relâchement complet des gaz) ou au régime le plus bas requis pour accomplir des fonctions de base telles que fournir une pression hydraulique suffisante pour déplacer la machine ou l'un de ses outils, selon la catégorie spécifique de matériels.
 
-Mesure en extérieur :
-
-K2A = 0.
-
-Mesure en intérieur :
-
-La valeur de la constante K2A, déterminée conformément à l'annexe A de la norme NF EN ISO 3744 - novembre 1995, doit être inférieure ou égale à 2,0 dB, auquel cas cette constante est négligée.
-
-Surface de mesure/nombre de positions de microphone/distance de mesure :
-
-Hémisphère/6 positions de microphone conformément à la partie A, point 5/conformément à la partie A, point 5 ; si l > 2 m, un parallélépipède selon la norme NF EN ISO 3744 - novembre 1995 peut être utilisé avec une distance de mesure d = 1 m.
-
-Conditions de fonctionnement durant l'essai :
-
-Montage du matériel :
-
-Le groupe est installé sur une surface réfléchissante ; les groupes montés sur patins sont placés sur un support de 0,40 m de hauteur, sauf indication contraire dans la notice d'utilisation fournie par le fabricant.
-
-Essai en charge :
-
-NF ISO 8528 - 10 octobre 1999, point 9.
-
-Période d'observation :
-
-La période d'observation est d'au moins 15 secondes.
+(2) La puissance nette est la puissance du moteur en " kW " obtenue sur un banc d'essai à l'extrémité du vilebrequin, ou son équivalent, mesurée conformément à la méthode de mesurage de la puissance des moteurs à combustion interne spécifiée dans le règlement n° 120, révision 2, de la Commission économique pour l'Europe des Nations unies (CEE-ONU) - Prescriptions uniformes relatives à l'homologation des moteurs à combustion interne destinés aux tracteurs agricoles et forestiers et aux engins mobiles non routiers, en ce qui concerne la mesure de la puissance nette, du couple net et de la consommation spécifique (JO L 166 du 30 juin 2015, p. 170).
