@@ -36,6 +36,8 @@ d) L'incorporation de matière recyclée.
 
 L’éco-organisme consacre sur la durée de l’agrément au moins 1 M€ au financement des projets de recherche et développement visant à développer la réparabilité des cycles et engins de déplacements personnel motorisés.
 
+Il organise en lien avec les éco-organismes agréés sur la filière de gestion des batteries portables et/ ou des batteries destinées aux moyens de transport légers (batteries MTL) un appel à projets sur les techniques de repérage précoce des batteries et déchets de batteries pouvant être source significative de danger au cours du tri et du traitement des déchets d'équipements électriques et électroniques.
+
 3. Dispositions relatives à la collecte et au traitement des équipements électriques et électroniques
 
 3.1. Objectifs de collecte
@@ -271,6 +273,22 @@ La composition de ce comité est établie dans des conditions transparentes et n
 La composition et le mandat de ce comité sont présentés pour avis au comité des parties prenantes. Ce comité rend compte de ses travaux au comité des parties prenantes au moins une fois par an.
 
 Lorsque plusieurs éco-organismes sont agréés sur la filière des équipements électriques ou électroniques, ces éco-organismes peuvent mutualiser les travaux de ces comités.
+
+La présidence de ce comité est tournante et les opérateurs de gestion de déchets d'équipements électriques et électroniques peuvent ajouter des éléments à l'ordre du jour du comité.
+
+Ce comité participe à l'évaluation des coûts relatifs aux opérations d'extraction préservante des batteries portables et MTL assurées par les opérateurs de gestion de déchets d'équipements électriques et électroniques. L'évaluation des coûts relatifs à ces opérations d'extraction est réalisée par un organisme tiers indépendant.
+
+L'éco-organisme mène dans le cadre du comité une concertation sur le contrat type établi en application des articles L. 541-10-20 et R. 543-200-1 du code de l'environnement, ainsi que sur les conditions d'une mutualisation des audits entre éco-organismes et systèmes individuels agréés.
+
+3.13. Gestion des déchets assurée ou organisée par les producteurs
+
+Les producteurs qui assurent eux-mêmes ou organisent pour leur compte des opérations de gestion des déchets d'équipements électriques et électroniques participant à l'atteinte des objectifs fixés par le présent cahier des charges peuvent bénéficier, à leur demande, de la réfaction prévue à l'article R. 541-120. Le montant de cette réfaction est calculé par l'éco-organisme dans les conditions prévues au même article.
+
+Les opérations de gestion des déchets d'équipements électriques et électroniques bénéficiant de la réfaction mentionnée au précédent alinéa ne peuvent pas bénéficier des soutiens financiers mentionnés à l'article R. 541-104.
+
+3.14. Soutien à l'extraction préservante des batteries portables et MTL assurée par les opérateurs de gestion de DEEE
+
+L'éco-organisme prend en charge les coûts relatifs aux opérations d'extraction préservante des batteries portables et MTL, réalisées sur les sites de traitement en amont de toute opération de broyage ou de déchiquetage, assurées par les opérateurs de gestion de déchets d'équipements électriques et électroniques, selon des modalités précisées par le contrat établi en application du II de l'article R. 543-200-1 du code de l'environnement.
 
 4. Dispositions relatives à la réparation des équipements électriques et électroniques
 
@@ -564,6 +582,8 @@ Dans un délai de 3 mois à compter de l'échéance précitée, l'éco-organisme
 
 L'éco-organisme organise au moins une fois par an des campagnes d'information et de sensibilisation d'envergure nationale et locales construites pour inciter à la collecte séparée, à la réparation et au réemploi d'équipements électriques et électroniques.
 
+L'éco-organisme agréé réalise conjointement avec les éco-organismes agréés pour la gestion des batteries portables et/ ou MTL, des campagnes d'information et de sensibilisation d'envergure nationales et locales afin notamment de sensibiliser le grand public aux risques de départs de feux et d'incendie en centre de gestion de déchets.
+
 L'éco-organisme élabore des supports de communication destinés à sensibiliser le public sur :
 
 -les systèmes de collecte des EEE usagés et des DEEE mis à disposition des utilisateurs et détenteurs d'EEE, en particulier la reprise par les distributeurs des EEE usagés prévue à l'article L. 541-10-8 ;
@@ -571,8 +591,6 @@ L'éco-organisme élabore des supports de communication destinés à sensibilise
 -les possibilités de réparation des EEE dans le cadre du fonds défini à l'article L. 541-10-4 et la promotion des métiers de réparateurs et réparatrices notamment des cycles et engins de déplacement personnel motorisés ;
 
 -les solutions de réemploi et de réutilisation des EEE usagés et des DEEE.
-
--la séparation des piles dans les EEE lors de la mise au rebut.
 
 Lorsqu'il est agréé pour la catégorie 7 mentionnée au II de l'article R. 543-172 (panneaux photovoltaïques), l'éco-organisme organise des campagnes d'information et élabore des supports de communication visant à sensibiliser le public sur l'importance de la collecte des panneaux photovoltaïques usagés et des déchets de panneaux photovoltaïques en privilégiant des canaux de collecte dédiés.
 
@@ -622,4 +640,4 @@ Lorsque le contrat type unique relatif à la prise en charge des DEEE collectés
 
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 10 novembre 2023 (NOR : TREP2310493A), ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément à l'article 2 de l'arrêté du 27 mars 2025 (NOR : TECP2417238A), ces dispositions entrent en vigueur le 18 août 2025.
