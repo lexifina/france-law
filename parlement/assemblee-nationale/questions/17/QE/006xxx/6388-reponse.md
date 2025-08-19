@@ -1,0 +1,9 @@
+# Réponse à la question n° 6388
+
+- Question : [6388](6388.md) — Question n° 6388 — Évolution du statut juridique des animaux dans le droit français
+
+## Réponse
+
+*JO du 2025-08-19, page 7277*
+
+Depuis la loi n° 2015-177 du 16 février 2015 relative à la modernisation et à la simplification du droit et des procédures dans les domaines de la justice et des affaires intérieures, qui s'est notamment appuyée sur le rapport de Madame Suzanne Antoine sur le régime juridique de l'animal, le code civil contient une disposition spécifique dédiée aux animaux qui les désigne comme « des êtres vivants doués de sensibilité » et les soumet au régime des biens (article 515-14). Cette disposition, qui complète la protection des animaux au plan pénal, prévue par les articles 521-1 et 521-2 du code pénal, ainsi que celle organisée par le code rural et de la pêche maritime, à l'article L. 214-1, a conduit à supprimer de l'article 528 du code civil les animaux de la catégorie des meubles par nature. Cette réforme, largement saluée par les associations veillant à la protection des animaux, a donc déjà permis de placer les animaux dans une catégorie spécifique. Plus récemment, la loi n° 2024-536 du 13 juin 2024 a prévu la possibilité pour le juge qui prononce une ordonnance de protection d'attribuer la jouissance de l'animal de compagnie du foyer à la victime ; la loi n° 2024-317 du 8 avril 2024 garantit aux résidents d'EHPAD un droit d'accueillir leurs animaux de compagnie « sous réserve de leur capacité à assurer les besoins physiologiques, comportementaux et médicaux de ces animaux ». Le droit positif actuel ménage ainsi un juste équilibre afin de tenir compte de la nature spécifique de l'animal et sa haute valeur affective, sans remettre en cause la primauté de la personne humaine (article 16 du code civil). Au regard de l'ensemble de ces éléments, il n'est pas envisagé de modifier le statut juridique de l'animal tel que défini à l'article 515-14 du code civil.
