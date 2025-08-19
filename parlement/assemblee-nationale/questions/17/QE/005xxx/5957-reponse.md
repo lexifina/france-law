@@ -1,0 +1,9 @@
+# Réponse à la question n° 5957
+
+- Question : [5957](5957.md) — Question n° 5957 — Situation du Tribunal judiciaire d'Auch
+
+## Réponse
+
+*JO du 2025-08-19, page 7268*
+
+S'agissant des effectifs actuels de magistrats, le tribunal judiciaire d'Auch connaît une vacance de poste au tribunal pour enfants. Au 1er septembre 2025, sous réserve des avis du Conseil supérieur de la magistrature relatifs aux postes choisis par les auditeurs de justice et des prochaines mobilités, un poste de vice-président chargé des fonctions de juge des libertés et de la détention devrait être vacant. Il s'agirait alors d'un des deux uniques postes vacants sur l'ensemble des effectifs de magistrats qui composent la cour d'appel d'Agen. En effet, un auditeur de justice de la promotion 2023 viendra combler la vacance du poste de juge des enfants au tribunal judiciaire d'Auch et trois auditeurs de justice permettront de renforcer les effectifs de juges placés auprès du premier président, qui seront au complet et pourront ainsi soutenir ponctuellement les vacances et absences au sein des tribunaux judiciaires du ressort. Concernant le fonctionnement des outils informatiques, l'applicatif Cassiopée fait l'objet de travaux d'ampleur visant notamment à le mettre à niveau au plan technique pour en garantir la stabilité et améliorer ses performances. Des évolutions substantielles ont été réalisées à cette fin en 2024 (montée de version des composants du socle technique et de la base de données) et le seront à nouveau cette année (travaux de mise en « résilience » afin de garantir la continuité de service de Cassiopée en cas d'incident). Outre cette refonte technique, l'amélioration de la génération des documents et du partage des données constituent des chantiers prioritaires dont la mise en œuvre à compter de la deuxième partie de l'année 2025 facilitera le travail quotidien des utilisateurs.
