@@ -1,0 +1,9 @@
+# Réponse à la question n° 5277
+
+- Question : [5277](5277.md) — Question n° 5277 — Procédure de vérification des comptes annuels de gestion des tuteurs légaux
+
+## Réponse
+
+*JO du 2025-08-19, page 7254*
+
+Le contrôle des comptes de gestion est indispensable pour assurer la protection du patrimoine des adultes vulnérables. L'objectif de ce contrôle est en effet de vérifier que le protecteur accomplit sa mission sans erreur ou détournement, en sollicitant les autorisations nécessaires auprès du juge, et dans l'intérêt de la personne protégée. Dans un objectif de renforcement de la protection des adultes vulnérables, la loi du 23 mars 2019 a fait le choix d'organiser un contrôle des comptes de gestion reposant sur les organes internes de la mesure de protection, et à défaut sur un professionnel qualifié. Elle a également maintenu une faculté pour le juge des tutelles de dispenser la personne en charge de la mesure de protection d'établir les comptes de gestion ou de les soumettre à approbation. Le niveau de contrôle peut donc être ajusté par le juge en fonction des nécessités de la situation. Afin de favoriser la progressivité du coût du contrôle et de réduire les effets de seuil, l'arrêté du 4 juillet 2024 prévoit que le coût du contrôle est fixé en fonction d'un pourcentage des ressources de la personne. A titre d'exemple, une personne protégée qui perçoit des ressources égales au montant de l'AAH paiera environ 36,50 euros par an. Ainsi, le Gouvernement a pris les mesures nécessaires pour que la réforme du 23 mars 2019 ne fasse pas peser une charge financière excessive sur les personnes protégées dans l'intérêt desquelles ce contrôle est effectué tout évitant que, quelque soit les ressources de la personne protégée, cette charge n'incombe systématiquement au contribuable.
