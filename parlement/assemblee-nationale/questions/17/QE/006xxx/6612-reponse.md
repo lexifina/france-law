@@ -1,0 +1,9 @@
+# Réponse à la question n° 6612
+
+- Question : [6612](6612.md) — Question n° 6612 — Annulation des crédits de politique transversale pour les outre-mer
+
+## Réponse
+
+*JO du 2025-08-19, page 7240*
+
+Le Gouvernement mène une action résolue en faveur du développement de nos territoires d'outre-mer et l'accompagnement de nos compatriotes qui y vivent et y travaillent. En outre, il attache une importance particulière à la transparence budgétaire et à la lisibilité de l'effort financier de l'État en faveur des outre-mer. Le document de politique transversale (DPT) « Outre-mer », annexé chaque année au projet de loi de finances, permet ainsi de suivre l'ensemble des crédits destinés aux territoires ultramarins, toutes missions confondues. Il constitue un outil essentiel pour appréhender de manière consolidée les moyens alloués par l'État à ces territoires. S'agissant du décret n° 2025-374 du 25 avril 2025 portant annulation de crédits, il convient de rappeler que ces annulations portent principalement sur des crédits mis en réserve, qui n'avaient pas été engagés en cours d'année et qui, par définition, avaient vocation à être annulés en fin de gestion. Ils n'ont ainsi pas eu de conséquence sur les politiques publiques menées dans ces territoires. La mission « Outre-mer », qui concentre une part significative des crédits spécifiquement fléchés vers les départements et régions d'outre-mer (DROM) et les collectivités d'outre-mer (COM), n'a pas été directement affectée. Ainsi, l'impact réel de cette mesure sur les moyens effectivement mobilisables en faveur des outre-mer demeure limité. Le Gouvernement demeure attentif à la qualité de l'information budgétaire et poursuit ses efforts pour garantir une meilleure lisibilité de l'effort financier de l'État dans les territoires ultramarins.
