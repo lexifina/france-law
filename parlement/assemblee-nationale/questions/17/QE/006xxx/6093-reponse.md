@@ -1,0 +1,9 @@
+# Réponse à la question n° 6093
+
+- Question : [6093](6093.md) — Question n° 6093 — Équité entre les obligés alimentaires lors de la liquidation d'une succession
+
+## Réponse
+
+*JO du 2025-08-19, page 7269*
+
+Il résulte de l'article 205 du code civil que les enfants doivent, au titre de la solidarité familiale fondée sur le lien de filiation, des aliments à leur père et mère ou autres ascendants qui sont dans le besoin. Cette obligation alimentaire, qui permet à son créancier de subvenir à ses besoins, présente un caractère d'ordre public (Cass, 11 janvier 2027, arrêt non publié). En outre, l'article 205 du code civil ne prévoit aucune hiérarchie entre débiteurs d'aliments de sorte que le créancier n'est pas contraint d'agir contre tous les débiteurs d'aliments ou d'agir selon un ordre déterminé (1er civ, 2 janvier 1929, arrêt non publié). L'obligation alimentaire, qui constitue une dette personnelle du débiteur (1ère Civ, 25 avril 2007, n° 06-12.614), n'a donc pas vocation à être récupérée au stade du règlement de la succession et reste due même si le débiteur renonce à la succession du créancier d'aliments (1er civ, 31 mars 2021, pourvoi n° 20-14.107). Toutefois, tout débiteur d'aliments dispose, contre ses coobligés, d'un recours pour ce qu'il a payé (en argent ou en nature) au-delà de sa part contributive (1er civ, 16 mars 2016, pourvoi n° 15-13.403), de sorte que le débiteur pourra en obtenir le remboursement de la part de ses coobligés. Le recours peut être exercé contre chacun des codébiteurs et est recevable même après le décès du créancier d'aliments (1er civ, 21 juin 1989, pourvoi n° 87-15.986). Ainsi, dès lors que le droit positif limite l'obligation alimentaire du débiteur à ses facultés contributives et lui offre le cas échéant des voies de recours évitant qu'il soit lésé dans l'exécution de son obligation alimentaire, il n'y a pas de réforme envisagée.
