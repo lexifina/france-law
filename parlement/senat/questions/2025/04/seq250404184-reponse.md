@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250404184
+
+- Question : [SEQ250404184](seq250404184.md) — Sécurité des personnels pénitentiaires
+
+## Réponse
+
+*Justice, JO du 2025-08-21, page 4624*
+
+Le ministère de la Justice s'attache à répondre avec fermeté aux attaques perpétrées à l'encontre des personnels et des établissements pénitentiaires. La proposition de loi visant à sortir la France du piège du narcotrafic, adoptée définitivement le 29 avril 2025 par le Parlement, représente une évolution significative de l'arsenal législatif. Ce nouveau texte apporte des réponses fortes et rapides au besoin de protection des personnels pénitentiaires. Elle instaure des mesures permettant de lutter contre la criminalité organisée hors et au sein des établissements pénitentiaires, renforçant ainsi leur sécurité. Les personnes détenues dans les quartiers de lutte contre la criminalité organisée (QLCO) parmi les plus dangereuses sont désormais soumises à un régime de détention strict et étanche afin de mettre un terme aux activités criminelles menées par les narcotrafiquants depuis la détention. Le contact entre les personnes détenues est limité, de même que lors des parloirs qui sont dotés d'un hygiaphone. Le texte voté comprend également l'anonymisation des agents pénitentiaires pour faire face aux risques de menaces auxquels ils sont exposés. Ce mécanisme concerne l'ensemble du personnel pénitentiaire, tant dans les actes de procédure pénale que dans la gestion des personnes détenues. Seul le numéro de matricule de l'agent pénitentiaire figurera dans les procès-verbaux. Enfin, l'ensemble des acteurs de la chaîne pénale est mobilisé face aux auteurs des faits commis contre l'administration pénitentiaire et ses agents. Un traitement diligent et empreint de la plus grande fermeté s'agissant des faits de violences, de menaces ou d'intimidations commis à l'égard des agents pénitentiaires ou de leur famille sera assuré.
