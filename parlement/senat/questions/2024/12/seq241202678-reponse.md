@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241202678
+
+- Question : [SEQ241202678](seq241202678.md) — Rectification des changements de prénom et de nom
+
+## Réponse
+
+*Justice, JO du 2025-08-21, page 4600*
+
+L'article 99-1 du code civil permet la rectification des erreurs ou omissions purement matérielles qui entachent les énonciations et mentions apposées en marge des actes de l'état civil, dans les conditions prévues aux articles 1046 et suivants du code de procédure civile. Cette rectification est effectuée par l'officier de l'état civil dépositaire de l'acte de l'état civil, soit d'initiative pour les erreurs ou omissions purement matérielles dont la liste est fixée par l'article 1047 du code de procédure civile, soit sur instructions du procureur de la République pour les erreurs ou omissions purement matérielles qui ne figurent pas dans cette liste. Dans la mesure où la mention de la décision de changement de prénom ou de nom est portée en marge des actes de l'état civil des personnes intéressées, conformément à l'article 61-4 du code civil, afin d'assurer la publicité du changement de prénom ou de nom à l'égard des tiers (circulaire du 17 février 2017, p.15 et circulaire du 15 juin 2023, p.27), une erreur ou une omission purement matérielle qui entache une telle mention peut faire l'objet d'une telle rectification, en application des articles précités. L'officier de l'état civil est amené à procéder à cette rectification soit au moment de l'apposition de la mention en marge de l'acte de naissance (dans ce cas, la mention est rectifiée sur instructions du procureur de la République avant qu'elle ne soit apposée en marge de l'acte - IGREC §273 -3), soit après l'apposition de la mention en marge de l'acte (dans ce cas, une mention de rectification du prénom ou du nom est portée en marge de l'acte).
