@@ -8,7 +8,7 @@ Seuls peuvent être présentés au contrôle technique les véhicules en état d
 
 B. - Conditions de réalisation des contrôles
 
-Les contrôles sont réalisés sans démontage, à l'exception de la dépose d'éléments permettant d'accéder au numéro de frappe à froid, à la prise EOBD, au scellement ou plombage du chronotachygraphe, au fusible associé au circuit électrique d'alimentation du système SCR, au compartiment moteur et au coffre de la batterie de traction ou au réservoir de gaz carburant le cas échéant.
+Les contrôles sont réalisés sans démontage, à l'exception de la dépose d'éléments permettant d'accéder au numéro de frappe à froid, à la prise EOBD, au scellement ou plombage du chronotachygraphe, au marquage “ EX ” des chronotachygraphes sur les véhicules de transport de marchandises dangereuses, au fusible associé au circuit électrique d'alimentation du système SCR, au compartiment moteur et au coffre de la batterie de traction ou au réservoir de gaz carburant le cas échéant.
 
 La vérification des points de contrôle est réalisée conformément aux instructions techniques établies par l'organisme technique central et approuvées par le ministre chargé des transports. Pour chacune des fonctions mentionnées au point C, ces instructions définissent les méthodologies de contrôle applicables aux points de contrôle et les défaillances constatables prévues au point D ci-après, associées à des précisions complémentaires éventuelles, non exhaustives. Elles précisent également, le cas échéant, les définitions, prescriptions, commentaires et informations complémentaires applicables.
 

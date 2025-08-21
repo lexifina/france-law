@@ -34,6 +34,8 @@ Les installations de contrôle comprennent également :
 
 - une cale de 6 cm de côté permettant le contrôle des dispositifs anti-pincement des portes des véhicules de transport en commun de personnes ;
 
+- un outil spécifique permettant la dépose du chronotachygraphe pour la vérification du marquage “ EX ” des véhicules TMD ;
+
 - un équipement permettant l'introduction de la sonde du dispositif de mesure de l'opacité des fumées en présence d'un échappement vertical ;
 
 - des équipements permettant la communication par radio entre le contrôleur et le conducteur.

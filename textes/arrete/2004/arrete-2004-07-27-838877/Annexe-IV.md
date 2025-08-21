@@ -210,15 +210,13 @@ En cas de non-respect de la disposition prévue au point C. 3.1.3 pour une anné
 
 E. - Qualification des exploitants
 
-E. 1. A défaut de la présentation d'un agrément de contrôleur de véhicules lourds en cours de validité, la personne physique assurant l'exploitation du centre de contrôle (exploitant), désignée à cet effet par le titulaire de l'agrément du centre, justifie d'une formation d'une durée minimale de 35 heures dans un délai maximum de 6 mois à compter de sa désignation.
+E. 1. A défaut de la présentation d'un agrément de contrôleur de véhicules lourds en cours de validité, la personne physique assurant l'exploitation du centre de contrôle (exploitant), désignée à cet effet par le titulaire de l'agrément du centre, justifie d'une formation initiale d'une durée minimale de 35 heures dans un délai maximum de 6 mois à compter de sa désignation.
 
-L'exploitant justifie, par ailleurs, d'une formation de maintien de qualification d'une durée minimale de 14 heures tous les cinq ans, qu'il soit contrôleur ou non.
+L'exploitant justifie, par ailleurs, d'une formation de maintien de qualification d'une durée minimale de 14 heures tous les cinq ans, au plus tard avant la fin de la cinquième année qui suit la dernière formation exploitant. Les exploitants ayant bénéficié de l'exemption de formation initiale justifient de cette formation dans un délai de 6 mois après leur désignation.
 
 Pour les exploitants désignés avant le 20 mai 2018, cette formation de maintien de qualification est à réaliser avant le 1er janvier 2022, qu'ils soient ou non contrôleurs.
 
 Les exigences de connaissances et de compétences d'un exploitant de centre de contrôle technique des véhicules lourds ainsi que les modalités d'évaluation théorique sont définies dans le référentiel de formation approuvé par le ministre en charge des transports et disponible sur le site internet de l'OTC.
-
-E. 2. Dans le cas du changement de personne physique assurant l'exploitation du centre de contrôle, cette dernière se conforme aux dispositions du paragraphe E. 1 y compris pour la formation de maintien de qualification dans un délai maximum de 6 mois à compter de sa désignation.
 
 F. - Exigences relatives aux organismes de formation
 

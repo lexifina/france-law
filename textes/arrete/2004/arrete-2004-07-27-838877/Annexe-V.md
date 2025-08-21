@@ -124,7 +124,9 @@ Cet audit porte a minima sur :
 
 7.2. Les installations de contrôle respectent les procédures de déclenchement et de déroulement d'audit définies par les organismes visés aux articles 35-1 et 35-2 du présent arrêté.
 
-7.3. Toute installation de contrôle agréée fait l'objet d'un audit au moins une fois par année civile. Cet audit est réalisé au plus tard au cours du seizième mois suivant le précédent audit annuel. En cas d'audit défavorable, un nouvel audit est réalisé sous quatre mois sans se substituer à l'audit réglementaire annuel. Si deux audits défavorables se succèdent, le responsable de l'installation transmet les deux rapports d'audit sous quinze jours à la direction régionale agissant pour le compte du ministre chargé des transports dont il dépend. Dans le cas d'un premier ou d'un nouvel agrément d'un centre, l'audit est réalisé au plus tard au cours du sixième mois qui suit la date d'agrément.
+7.3. Toute installation de contrôle agréée fait l'objet d'un audit au moins une fois par année civile. Cet audit est réalisé au plus tard au cours du seizième mois suivant le précédent audit annuel. En cas d'audit défavorable, un nouvel audit est réalisé sous quatre mois sans se substituer à l'audit réglementaire annuel. Dans le cas d'un premier ou d'un nouvel agrément d'un centre, l'audit est réalisé au plus tard au cours du sixième mois qui suit la date d'agrément.
+
+En cas d'audit défavorable, le responsable de l'installation ainsi que l'organisme visé aux articles 35-1 et 35-2 du présent arrêté l'ayant réalisé, transmettent le rapport d'audit sous quinze jours à la direction régionale agissant pour le compte du ministre chargé des transports dont l'installation dépend.
 
 7.4. L'audit initial prévu au point 2 du I du chapitre II et au point 6 du I du chapitre III de l'annexe VII est l'examen auquel l'installation et son organisation sont soumises dans le cadre de la demande d'agrément.
 
@@ -152,7 +154,7 @@ Le panneau présente les caractéristiques suivantes :
 
 - le fond du panneau est blanc.
 
-L'impression est de couleur bleu pantone 293, à l'exception des filets supérieurs et inférieurs encadrant la mention "sécurité routière" qui sont noirs.
+L'impression est de couleur bleu pantone 293, à l'exception des filets supérieurs et inférieurs encadrant la mention "sécurité routière" qui sont noirs et des inscriptions “ CENTRE DE CONTRÔLE TECHNIQUE DES VEHICULES LOURDS ” et “ Agrément n° 88888888 ” qui peuvent être noirs.
 
 L'inscription "Centre de contrôle technique des véhicules lourds" est en caractères Univers 65 (hauteur 15 mm).
 
