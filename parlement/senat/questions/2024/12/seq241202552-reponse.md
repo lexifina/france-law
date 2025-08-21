@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241202552
+
+- Question : [SEQ241202552](seq241202552.md) — Exercice du mandat de conseiller des Français de l'étranger en situation de crise
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2025-08-21, page 4582*
+
+Les conseillers des Français de l'étranger sont chargés, au sein du conseil consulaire dont ils sont membres, de formuler des avis sur les questions consulaires ou d'intérêt général, notamment culturel, éducatif, économique et social, concernant les Français établis dans la circonscription. Dans certaines situations de crise, les services consulaires sont gravement perturbés et les réunions du conseil consulaire ne peuvent plus se tenir en présentiel. Si cette impossibilité est temporaire, les membres du conseil consulaire - tant le président du conseil consulaire, le rapporteur général (loi n° 2013-659 du 22 juillet 2013, art. 3, 5ème alinéa) que les membres habilités en fonction de l'ordre du jour (cf. décret n° 2014-144 du 18 février 2014, art. 7) - peuvent participer aux réunions à distance (cf. décret n° 2014-144 du 18 février 2014, art. 12). En cas de fermeture d'un poste consulaire ou diplomatique, l'administration prend toutes les dispositions utiles pour que le suivi des affaires consulaires soit dévolu à un poste voisin, relevant dans la mesure du possible de la même circonscription d'élection, et pour élargir la compétence du conseil consulaire du poste attributaire, qui est alors consulté en lieu et place du conseil consulaire dont l'ambassade ou le consulat a cessé les activités (cf. article 18 al1 du décret précité). Dans cette configuration, chaque conseiller des Français de l'étranger ne siège que pour l'examen des affaires relevant de sa circonscription d'élection (art. 18 al3 du décret n° 2014-144 du 18 février 2014). Dans le cas du Niger, la compétence du conseil consulaire de Lomé a été élargie aux affaires du Niger.
