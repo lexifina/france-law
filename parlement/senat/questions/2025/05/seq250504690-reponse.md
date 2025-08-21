@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250504690
+
+- Question : [SEQ250504690](seq250504690.md) — Droits du conjoint successible
+
+## Réponse
+
+*Justice, JO du 2025-08-21, page 4631*
+
+Dans tous les régimes matrimoniaux, chacun des époux peut, de son vivant, disposer librement de ses biens propres (articles 1428, 1497 et du code civil). Au moment du décès de l'un des époux, si le conjoint survivant peut en principe, sauf disposition testamentaire contraire, recueillir des biens propres de son époux, il existe néanmoins dans le code civil des règles spécifiques, destinées à assurer un équilibre entre les droits du conjoint survivant et ceux de la famille de l'époux décédé. Ainsi, lorsque le défunt n'avait pas d'enfants, ses parents ou ses frères et soeurs peuvent exercer un « droit de retour » pour récupérer certains biens propres du défunt, à savoir ceux qu'il a reçus par succession ou donation de ses ascendants (articles 738-2 et 757-3 du code civil). Par ailleurs, en l'absence d'accord entre les héritiers et le conjoint survivant sur l'attribution des biens, cette attribution a lieu par tirage au sort, de sorte qu'en l'absence de testament le conjoint n'est jamais assuré de récupérer les biens propres de son époux décédé. Enfin, les articles 757 et 1043 du code civil portent sur des questions différentes : le premier concerne les droits du conjoint survivant en présence ou en l'absence d'enfants communs, tandis que le second porte sur la caducité du testament lorsque l'héritier refuse le testament ou est dans l'incapacité de le recueillir. Il n'y a donc pas lieu de rechercher une cohérence particulière entre ces deux articles, qui ont deux objets bien distincts. En l'état de l'analyse, il apparaît que l'ensemble du dispositif ménage un équilibre entre droits du conjoint et droit de la famille du défunt et il n'est pas envisagé de le modifier.
