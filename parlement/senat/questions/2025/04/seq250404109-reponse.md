@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250404109
+
+- Question : [SEQ250404109](seq250404109.md) — Cantonnement et droit successoral
+
+## Réponse
+
+*Justice, JO du 2025-08-21, page 4601*
+
+La loi n° 2006-728 du 23 juin 2006 portant réforme des successions et des libéralités a offert au légataire (article 1002-1 du code civil) et au conjoint survivant gratifié à cause de mort (article 1094-1 alinéa 2 du code civil), sous réserve que le disposant ne s'y est pas opposé, la possibilité de cantonner leur émolument à une partie des biens dont il a été disposé en leur faveur, sans que cette limitation ne soit considérée comme une libéralité faite aux autres successibles. La circulaire du 29 mai 2007 relative à la présentation de la réforme des successions et des libéralités (p. 10) précise que « le cantonnement implique préalablement que la vocation successorale a été acceptée et que cette acceptation est accompagnée ou suivie du choix de n'en profiter qu'en partie, cette partie pouvant être déterminée (en portant sur tel bien compris dans l'émolument), indivise (une quote-part de biens) ou ne porter que sur un droit réel tel l'usufruit ou la nue-propriété ». Cette souplesse dans les modalités du cantonnement est conforme à l'esprit du texte qui est d'offrir un outil permettant d'adapter la transmission en fonction de la casuistique des situations patrimoniales et familiales. Ainsi, si le gratifié a la liberté de renoncer à la pleine propriété d'un bien, il doit pouvoir, a minima, choisir de limiter la portée du leg qui lui a été fait à la seule nue-propriété ou à l'usufruit. En tout état de cause, la pratique notariale peut résoudre la difficulté en prévoyant expressément dans le legs ou l'institution contractuelle entre époux, dès lors que cela est conforme à la volonté du disposant, une clause aux termes de laquelle le légataire ou le conjoint survivant est autorisé à modifier la nature du droit transmis par voie de cantonnement
