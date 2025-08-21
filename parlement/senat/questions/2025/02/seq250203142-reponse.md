@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250203142
+
+- Question : [SEQ250203142](seq250203142.md) — État de délabrement de la prison Bonne nouvelle de Rouen
+
+## Réponse
+
+*Justice, JO du 2025-08-21, page 4605*
+
+Dès la fin de l'année 2023, les services de l'administration pénitentiaire se sont employés à sécuriser les lieux et les personnels de la maison d'arrêt (MA) de Rouen. En urgence, un diagnostic structurel intermédiaire a été réalisé en janvier 2024, après que des mesures conservatoires de sécurisation ont été mises en oeuvre. En raison de l'augmentation constante de la population carcérale au plan national et de l'absence de solution d'affectation à court terme vers un autre établissement pénitentiaire pour les personnes détenues à la MA de Rouen, le choix a été fait de maintenir l'établissement en fonctionnement. A la lumière des diagnostics réalisés et de l'ampleur des désordres constatés, des travaux en plusieurs phases ont été lancés : - La première a consisté à réaliser des travaux d'urgence sur les parties bâtimentaires présentant des risques importants. II a ainsi été procédé au confortement des pignons de plusieurs bâtiments au quartier mineurs et au quartier MA femmes, à la reprise de charpentes et à la mise aux normes incendie ; - La deuxième a consisté à réaliser des travaux relevant de l'urgence ordinaire, tels que reprise de murs, rénovation des espaces sanitaires de plusieurs divisions. Les devis sont encore en cours d'expertise ou d'étude ; - Enfin, sont programmées pour 2025 et 2026 la réparation de certains planchers de bâtiments de détention, la consolidation de coursive, la mise aux normes de la cuisine et la réfection des bâtiment ateliers. Les services de la direction de l'administration pénitentiaire sont particulièrement mobilisés dans le suivi des mesures mises en place pour remédier à la vétusté de la MA de Rouen.
