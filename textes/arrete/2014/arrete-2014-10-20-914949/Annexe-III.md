@@ -12,151 +12,151 @@ Chaque semestre validé donne lieu à l'attribution de 30 crédits ECTS.
 
 Ventilation du volume horaire de la formation
 
-SEMESTRESS1S2S3S4S5S6TOTALCours |
+SEMESTRES |
 
-|
+S1 |
 
-|
+S2 |
 
-|
+S3 |
 
-|
+S4 |
 
-|
+S5 |
 
-|
+S6 |
 
-|
+TOTAL |
 
-magistraux (CM) |
+Cours magistraux (CM) |
 
-3252101501008662933Travaux |
+325 |
 
-|
+210 |
 
-|
+170 |
 
-|
+100 |
 
-|
+86 |
 
-|
+62 |
 
-|
+953 |
 
-dirigés (TD) |
+Travaux dirigés (TD) |
 
-1752351751781551171035Total |
+175 |
 
-|
+235 |
 
-|
+155 |
 
-|
+178 |
 
-|
+155 |
 
-|
+117 |
 
-|
+1015 |
 
-CM + TD5004453252782411791968Stages351052802803503501400Total |
+Total CM + TD |
 
-|
+500 |
 
-|
+445 |
 
-|
+325 |
 
-|
+278 |
 
-|
+241 |
 
-|
+179 |
 
-|
+1968 |
 
-|
+Stages |
 
-|
+35 |
 
-|
+105 |
 
-|
+280 |
 
-|
+280 |
 
-|
+350 |
 
-|
+350 |
 
-|
+1400 |
 
-CM + TD + Stages5355506055585915293368Travail |
+Total CM + TD + Stages |
 
-|
+535 |
 
-|
+550 |
 
-|
+605 |
 
-|
+558 |
 
-|
+591 |
 
-|
+529 |
 
-|
+3368 |
 
-personnel de l'étudiant4203351502051302101450Total |
+Travail personnel de l'étudiant (TPE) |
 
-|
+420 |
 
-|
+335 |
 
-|
+150 |
 
-|
+205 |
 
-|
+130 |
 
-|
+210 |
 
-|
+1450 |
 
-CM + TD + TPE + Stages9558857557637217394818ECTS303030303030180Liste |
+Total CM + TD + TPE + Stages |
 
-|
+955 |
 
-|
+885 |
 
-|
+755 |
 
-|
+763 |
 
-|
+721 |
 
-|
+739 |
 
-|
+4818 |
 
-|
+ECTS |
 
-|
+30 |
 
-|
+30 |
 
-|
+30 |
 
-|
+30 |
 
-|
+30 |
 
-|
+30 |
 
-|
+180 |
 
-des UE du référentiel de formation du certificat de capacité d'orthoptiste :
+Liste des UE du référentiel de formation du certificat de capacité d'orthoptiste :
 
 UE1 Biologie moléculaire et cellulaire, génétique, histologie et anatomie
 
@@ -222,7 +222,7 @@ UE31 Dépistage visuel ; aptitudes visuelles et ergonomie visuelle
 
 UE32 Communication, éducation thérapeutique
 
-UE33 Imagerie et technologies de la communication
+UE 33 Compétences de base en santé numérique
 
 UE34 Exercice de la profession d'orthoptiste : législation, réglementation et gestion
 
@@ -244,127 +244,127 @@ UE41 Gestes et soins d'urgence
 
 Tableau de répartition semestrielle des UE du référentiel de formation Orthoptie
 
-Semestre 1CMTDCM |
+Semestre 1 |
 
-|
+CM |
 
-|
+TD |
 
-+ TDECTSUE1 |
+CM + TD |
 
-|
+ECTS |
 
-Biologie moléculaire et cellulaire, génétique, histologie et anatomie4010503UE2 |
+UE1 Biologie moléculaire et cellulaire, génétique, histologie et anatomie |
 
-|
+40 |
 
-|
+10 |
 
-|
+50 |
 
-|
+3 |
 
-Optique géométrique, optique physiologique3020503UE3 |
+UE2 Optique géométrique, optique physiologique |
 
-|
+30 |
 
-|
+20 |
 
-|
+50 |
 
-|
+3 |
 
-Réfraction3040704UE4 |
+UE3 Réfraction |
 
-|
+30 |
 
-|
+40 |
 
-|
+70 |
 
-|
+4 |
 
-Physiologie du système visuel, physiologie neuro-sensorielle4010503UE5 |
+UE4 Physiologie du système visuel, physiologie neuro sensorielle |
 
-|
+40 |
 
-|
+10 |
 
-|
+50 |
 
-|
+3 |
 
-Vision monoculaire, acuités visuelles et leurs anomalies2525503UE6 |
+UE5 Vision monoculaire, acuités visuelles et leurs anomalies |
 
-|
+25 |
 
-|
+25 |
 
-|
+50 |
 
-|
+3 |
 
-Anglais10101UE7 |
+UE6 Anglais |
 
 |
 
-|
+10 |
 
-|
+10 |
 
-|
+1 |
 
-Anatomie et histologie de l'appareil oculomoteur et de la vision3010402UE8 |
+UE7 Anatomie et histologie de l'appareil oculomoteur et de la vision |
 
-|
+30 |
 
-|
+10 |
 
-|
+40 |
 
-|
+2 |
 
-Physiologie de l'appareil oculomoteur et de la vision binoculaire4010503UE9 |
+UE8 Physiologie de l'appareil oculomoteur et de la vision binoculaire |
 
-|
+40 |
 
-|
+10 |
 
-|
+50 |
 
-|
+3 |
 
-Physiopathologie de l'oculomotricité et de la vision binoculaire4020604UE12 |
+UE9 Physiopathologie de l'oculomotricité et de la vision binoculaire |
 
-|
+40 |
 
-|
+20 |
 
-|
+60 |
 
-|
+4 |
 
-Déontologie et éthique : historique de la profession2010301UE16 |
+UE12 Déontologie et éthique : historique de la profession |
 
-|
+20 |
 
-|
+10 |
 
-|
+30 |
 
-|
+1 |
 
-Pathologies ophtalmologiques et générales3010402Stage |
+UE16 Pathologies ophtalmologiques et générales |
 
-|
+30 |
 
-|
+10 |
 
-|
+40 |
 
-|
+2 |
 
-d'observation (35h) |
+Stage d'observation (35h) |
 
 |
 
@@ -372,219 +372,219 @@ d'observation (35h) |
 
 |
 
-1Total |
+1 |
 
-semestre 132517550030Semestre |
+Total S1 |
 
-|
+325 |
 
-|
+175 |
 
-|
+500 |
 
-|
+30 |
 
-2UE10 |
+Semestre 2 |
 
-|
+CM |
 
-|
+TD |
 
-|
+CM + TD |
 
-|
+ECTS |
 
-Explorations fonctionnelles2030503UE11 |
+UE10 Explorations fonctionnelles |
 
-|
+25 |
 
-|
+38 |
 
-|
+63 |
 
-|
+4 |
 
-Bilan orthoptique3060905UE13 |
+UE11 Bilan orthoptique |
 
-|
+40 |
 
-|
+72 |
 
-|
+112 |
 
-|
+6 |
 
-Hygiène et gestion des risques105151UE14 |
+UE13 Hygiène et gestion des risques |
 
-|
+10 |
 
-|
+5 |
 
-|
+15 |
 
-|
+1 |
 
-Pathologies sensorimotrices3010402UE15 |
+UE14 Pathologies sensorimotrices |
 
-|
+30 |
 
-|
+10 |
 
-|
+40 |
 
-|
+2 |
 
-Prise en charge des pathologies sensorimotrices3060906UE17 |
+UE15 Prise en charge des pathologies sensorimotrices |
 
-|
+30 |
 
-|
+60 |
 
-|
+90 |
 
-|
+6 |
 
-Explorations fonctionnelles des pathologies ophtalmologiques et générales3040704UE18 |
+UE17 Explorations fonctionnelles des pathologies ophtalmologiques et générales |
 
-|
+30 |
 
-|
+40 |
 
-|
+70 |
 
-|
+4 |
 
-Psychologie, psychopathologie, neurophysiologie300302UE19 |
+UE18 Psychologie, psychopathologie, neurophysiologie |
 
-|
+30 |
 
-|
+0 |
 
-|
+30 |
 
-|
+2 |
 
-Pharmacologie et thérapeutique150151UE20 |
+UE19 Pharmacologie et thérapeutique |
 
-|
+15 |
 
-|
+0 |
 
-|
+15 |
 
-|
+1 |
 
-Contactologie1520352UE |
+UE 6 Anglais |
 
-|
+0 |
 
-|
+10 |
 
-|
+10 |
 
-|
+1 |
 
-6 Anglais010101Stage |
+Stage (105h) |
 
-|
+0 |
 
-|
+0 |
 
-|
+0 |
 
-|
+3 |
 
-(105 h) |
+Total Semestre 2 |
 
-0003Total |
+210 |
 
-|
+235 |
 
-|
+445 |
 
-|
+30 |
 
-semestre 221023544530Semestre |
+Semestre 3 |
 
-|
+CM |
 
-|
+TD |
 
-|
+CM + TD |
 
-|
+ECTS |
 
-3CMTDCM |
+UE 20 Contactologie Partie 1 |
 
-|
+20 |
 
-|
+10 |
 
-+ TDECTSUE21 |
+30 |
 
-|
+2 |
 
-Statistiques, épidémiologie, santé publique3030604UE24 |
+UE21 Statistiques, épidémiologie, santé publique |
 
-|
+30 |
 
-|
+30 |
 
-|
+60 |
 
-|
+4 |
 
-Amblyopie fonctionnelle et phénomène de privation visuelle3015453UE25 |
+UE24 Amblyopie fonctionnelle et phénomène de privation visuelle |
 
-|
+30 |
 
-|
+15 |
 
-|
+45 |
 
-|
+3 |
 
-Prise en charge de l'amblyopie fonctionnelle2070906UE26 |
+UE25 Prise en charge de l'amblyopie fonctionnelle |
 
-|
+20 |
 
-|
+40 |
 
-|
+60 |
 
-|
+4 |
 
-Basse vision6030906UE32 |
+UE26 Basse vision |
 
-|
+60 |
 
-|
+30 |
 
-|
+90 |
 
-|
+6 |
 
-Communication, éducation thérapeutique1020302UE6 |
+UE32 Communication, éducation thérapeutique |
 
-|
+10 |
 
-|
+20 |
 
-|
+30 |
 
-|
+2 |
 
-Anglais010101Stage |
+UE6 Anglais |
 
-|
+0 |
 
-|
+10 |
 
-|
+10 |
 
-|
+1 |
 
-(280 h) |
+Stage (280) |
 
 |
 
@@ -592,99 +592,99 @@ Anglais010101Stage |
 
 |
 
-8Total |
+8 |
 
-semestre 315017532530Semestre |
+Total semestre 3 |
 
-|
+170 |
 
-|
+155 |
 
-|
+325 |
 
-|
+30 |
 
-4UE22 |
+Semestre 4 |
 
-|
+CM |
 
-|
+TD |
 
-|
+CM + TD |
 
-|
+ECTS |
 
-Pathologies neuro ophtalmologiques3010403UE23 |
+UE 20 Contactologie Partie 2 |
 
-|
+0 |
 
-|
+14 |
 
-|
+14 |
 
-|
+1 |
 
-Prise en charge orthoptique des pathologies neuro ophtalmologiques3060907UE27 |
+UE22 Pathologies neuro ophtalmologiques |
 
-|
+30 |
 
-|
+10 |
 
-|
+40 |
 
-|
+3 |
 
-Bilan et prise en charge de la basse vision3060907UE28 |
+UE23 Prise en charge orthoptique des pathologies neuro ophtalmologiques |
 
-|
+30 |
 
-|
+60 |
 
-|
+90 |
 
-|
+7 |
 
-Méthodologie, documentation et bibliographie scientifique28101UE37 |
+UE27 Bilan et prise en charge de la basse vision |
 
-|
+30 |
 
-|
+46 |
 
-|
+76 |
 
-|
+6 |
 
-Diagnostic et projet de soins830383UE6 |
+UE28 Méthodologie, documentation et bibliographie scientifique |
 
-|
+2 |
 
-|
+8 |
 
-|
+10 |
 
-|
+1 |
 
-Anglais010101Stage |
+UE37 Diagnostic et projet de soins |
 
-|
+8 |
 
-|
+30 |
 
-|
+38 |
 
-|
+3 |
 
-(280 h) |
+UE6 Anglais |
 
-|
+0 |
 
-|
+10 |
 
-|
+10 |
 
-8Total |
+1 |
 
-semestre 410017827830Semestre |
+Stage (280h) |
 
 |
 
@@ -692,79 +692,79 @@ semestre 410017827830Semestre |
 
 |
 
-|
+8 |
 
-5UE29 |
+Total semestre 4 |
 
-|
+100 |
 
-|
+178 |
 
-|
+278 |
 
-|
+30 |
 
-Vision et troubles d'apprentissages3030605UE30 |
+Semestre 5 |
 
-|
+CM |
 
-|
+TD |
 
-|
+CM + TD |
 
-|
+ECTS |
 
-Troubles neurovisuels, vision et équilibre : bilan et prise en charge2060806UE31 |
+UE29 Vision et troubles d'apprentissages |
 
-|
+30 |
 
-|
+30 |
 
-|
+60 |
 
-|
+5 |
 
-Dépistage visuel ; aptitudes visuelles et ergonomie visuelle2020403UE33 |
+UE30 Troubles neurovisuels, vision et équilibre : bilan et prise en charge |
 
-|
+20 |
 
-|
+60 |
 
-|
+80 |
 
-|
+6 |
 
-Imagerie et technologies de la communication1020302UE41 |
+UE31 Dépistage visuel ; aptitudes visuelles et ergonomie visuelle |
 
-|
+20 |
 
-|
+20 |
 
-|
+40 |
 
-|
+3 |
 
-Geste et soins d'urgence615211Unité |
+UE33 Compétences de base en santé numérique |
 
-|
+10 |
 
-|
+20 |
 
-|
+30 |
 
-|
+2 |
 
-d'enseignement libre2UE6 |
+UE41 Gestes et soins d'urgence |
 
-|
+6 |
 
-|
+15 |
 
-|
+21 |
 
-|
+1 |
 
-Anglais10101Stage |
+Unité d'enseignement libre |
 
 |
 
@@ -772,19 +772,19 @@ Anglais10101Stage |
 
 |
 
-|
+2 |
 
-(350 h) |
+UE6 Anglais |
 
 |
 
-|
+10 |
 
-|
+10 |
 
-10Total |
+1 |
 
-semestre 58615524130Semestre |
+Stage (350 h) |
 
 |
 
@@ -792,89 +792,89 @@ semestre 58615524130Semestre |
 
 |
 
-|
+10 |
 
-6CMTDCM |
+Total semestre 5 |
 
-|
+86 |
 
-|
+155 |
 
-+ TDECTSUE34 |
+241 |
 
-|
+30 |
 
-Exercice de la profession d'orthoptiste : législation, réglementation et gestion155201UE35 |
+Semestre 6 |
 
-|
+CM |
 
-|
+TD |
 
-|
+CM + TD |
 
-|
+ECTS |
 
-Dépistage, prévention et suivi des pathologies ophtalmologiques2040604UE36 |
+UE34 Exercice de la profession d'orthoptiste : législation, réglementation et gestion |
 
-|
+15 |
 
-|
+5 |
 
-|
+20 |
 
-|
+1 |
 
-Bilans orthoptiques pré et postopératoires, principes des techniques chirurgicales1030402UE38 |
+UE35 Dépistage, prévention et suivi des pathologies ophtalmologiques |
 
-|
+20 |
 
-|
+40 |
 
-|
+60 |
 
-|
+4 |
 
-Travail de fin d'études210128UE39 |
+UE36 Bilans orthoptiques pré et postopératoires, principes des techniques chirurgicales |
 
-|
+10 |
 
-|
+30 |
 
-|
+40 |
 
-|
+2 |
 
-Coopération, coordination avec les différents acteurs1010201UE6 |
+UE38 Travail de fin d'études |
 
-|
+2 |
 
-|
+10 |
 
-|
+12 |
 
-|
+8 |
 
-Anglais10101UEL |
+UE39 Coopération, coordination avec les différents acteurs |
 
-|
+10 |
 
-|
+10 |
 
-|
+20 |
 
-|
+1 |
 
-unité d'enseignement libre2UE40 |
+UE6 Anglais |
 
 |
 
-|
+10 |
 
-|
+10 |
 
-|
+1 |
 
-Accompagnement des professionnels et futurs professionnels orthoptistes512171Stage |
+UEL-unité d'enseignement libre |
 
 |
 
@@ -882,19 +882,19 @@ Accompagnement des professionnels et futurs professionnels orthoptistes512171Sta
 
 |
 
-|
+2 |
 
-(350 h) |
+UE40 Accompagnement des professionnels et futurs professionnels orthoptistes |
 
-|
+5 |
 
-|
+12 |
 
-|
+17 |
 
-10Total |
+1 |
 
-semestre 66211717930 |
+Stage (350h) |
 
 |
 
@@ -902,7 +902,17 @@ semestre 66211717930 |
 
 |
 
-|
+10 |
+
+Total semestre 6 |
+
+62 |
+
+117 |
+
+179 |
+
+30 |
 
 DOMAINE DE SAVOIR : SCIENCES BIOLOGIQUES ET MÉDICALES
 
@@ -1568,133 +1578,153 @@ Intervenants : universitaires de la discipline concernée, ophtalmologistes, ort
 
 DOMAINE DE SAVOIR : MÉTHODES, TECHNIQUES, OUTILS D'INTERVENTION DE L'ORTHOPTISTE
 
-UE 10 : EXPLORATIONS FONCTIONNELLESSemestre |
+UE 10 : EXPLORATIONS FONCTIONNELLES |
 
-: 2 Compétence : 2CM |
+Semestre : 2 Compétence : 2 |
 
-: 20TD |
+CM : 25 |
 
-: 30TP |
+TD : 38 |
 
-: 30ECTS |
+TP : 45 |
 
-: 3Prérequis |
+ECTS : 4 |
 
-:
+Pré-requis : |
 
-UE 2, UE 4, UE 5Objectifs |
+UE 2, UE 4, UE 5 |
 
-Connaître, décrire et réaliser les diverses techniques d'examen.
+Objectifs |
 
-Décrire le résultat normal et les anomalies observées. |
+▪ Connaitre, décrire et réaliser les diverses techniques d'examen
 
-Eléments de contenu
+▪ Décrire le résultat normal et les anomalies observées. |
 
-Champ visuel automatisé et manuel.
+Eléments de contenu |
 
-Différentes techniques cinétiques et statiques (confrontation, campimétrie, périmétrie, Goldmann, champ visuel automatisé, bleu-jaune, FDT, FCF).
+-Champ visuel automatisé et manuel
 
-Conditions d'examen, facteurs entrant en jeu pour réalisation du champ visuel, caractéristiques du stimulus, notions de seuil et sensibilité.
+-Différentes techniques cinétiques et statiques (confrontation, campimétrie, périmétrie, Goldmann, champ visuel automatisé, bleu-jaune, FDT, FCF)
 
-Exploration du sens chromatique par différentes techniques.
+-Conditions d'examen, facteurs entrant en jeu pour réalisation du champ visuel, caractéristiques du stimulus, notions de seuil et sensibilité,
 
-Rétinographie non mydriatique.
+-Exploration du sens chromatique par différentes techniques,
 
-Rétinographie mydriatique.
+-Rétinographie non mydriatique,
 
-Etude de la sensibilité aux contrastes de luminance de l'adaptation à l'obscurité et de l'éblouissement, à l'aide de divers appareillages et échelles. |
+-Rétinographie mydriatique,
 
-Recommandations pédagogiques :
+-Etude de la sensibilité aux contrastes de luminance de l'adaptation à l'obscurité et de l'éblouissement, à l'aide de divers appareillages et échelles,
+
+-Biomicroscopie : Examen de la surface oculaire en condition physiologique. |
+
+Recommandations pédagogiques : |
+
+Modalités d'évaluation |
 
 Cet enseignement fait en TD s'appuiera sur des cas cliniques rencontrés lors des stages et permettra à l'étudiant d'apprécier la qualité et la fiabilité de l'examen. |
 
-Modalités d'évaluation
+Epreuve : Orale, écrite et pratique
 
-Epreuve : orale, écrite et pratique.
+Critères d'évaluation :
 
-Critères d'évaluation
-
-L'étudiant doit savoir utiliser les tests adéquats et comprendre leurs objectifs. |
+L'étudiant doit savoir utiliser les tests adéquats et comprendre leurs objectifs |
 
 |
 
 |
 
-Intervenants : universitaires de la discipline concernée, ophtalmologistes, orthoptistes. |
+Intervenants : universitaires de la discipline concernée, ophtalmologistes, orthoptistes |
 
 DOMAINE DE SAVOIR : PRATIQUE ORTHOPTIQUE
 
-UE 11 : BILAN ORTHOPTIQUESemestre |
+UE 11 : BILAN ORTHOPTIQUE |
 
-: 2 Compétence : 1, 2CM |
+Semestre : 2 Compétence : 1,2 |
 
-: 30TD |
+CM : 40 |
 
-: 60TP |
+TD : 72 |
 
-: 50ECTS |
+TP : 65 |
 
-: 5Prérequis |
+ECTS : 6 |
 
-UE 2, UE 3, UE 4, UE 5Objectifs |
+Pré-requis |
 
-Appréhender la réalisation d'un bilan orthoptique.
+UE 2, UE 3, UE 4, UE 5 |
 
-Comprendre les objectifs d'un bilan.
+Objectifs |
 
-Connaître et maîtriser le matériel et les méthodes d'examen utilisés.
+▪ Appréhender la réalisation d'un bilan orthoptique
 
-Faire le lien entre le bilan orthoptique et les données réfractives. |
+▪ Comprendre les objectifs d'un bilan
 
-Eléments de contenu
+▪ Connaître et maîtriser le matériel et les méthodes d'examen utilisés
+
+▪ Identifier les outils à employer dans une démarche de diagnostic orthoptique et nécessaires à l'établissement du projet de soin
+
+▪ Faire le lien entre le bilan orthoptique et les données réfractives |
+
+Eléments de contenu |
 
 Interrogatoire et anamnèse : analyser la demande en prenant en compte les données du dossier médical
 
-Observation du patient.
+Observation du patient
 
-Etude de l'axe moteur :
+Étude de l'axe moteur :
 
-Champ d'action et motilité, motricité conjuguée, orientation du regard, étude et mesure de la déviation des axes oculaires, œil directeur …
+-champ d'action et motilité, motricité conjuguée, orientation du regard, étude et mesure de la déviation des axes oculaires, oeil directeur …
 
-Etude de l'axe sensoriel :
+Étude de l'axe sensoriel :
 
--acuité visuelle, étude objective de la fixation, capacités fusionnelles et accommodatives, correspondance rétino-corticale, vision stéréoscopique, troubles neurosensoriels ;
+-acuité visuelle, étude objective de la fixation, capacités fusionnelles et accommodatives, correspondance rétino-corticale, vision stéréoscopique, troubles neurosensoriels
 
--en cas de nécessité le bilan orthoptique peut-être complété par des examens complémentaires (champ visuel, vision des couleurs, sensibilité aux contrastes de luminance …)
+-En cas de nécessité le bilan orthoptique peut-être complété par des examens complémentaires (champ visuel, vision des couleurs, sensibilité aux contrastes de luminance, les …)
 
-Etude de l'axe fonctionnel : mise en jeu des capacités sensorielles et motrices dans l'activité.
+Étude de l'axe fonctionnel : mise en jeu des capacités sensorielles et motrices dans l'activité.
 
--rôle de la vision dans la pondération sensorielle, l'attention, la perception et la cognition : communication, saisie de l'information, réalisation de tâches ;
+-Rôle de la vision dans la pondération sensorielle, l'attention, la perception et la cognition : communication, saisie de l'information, réalisation de tâches.
 
--notions concernant le rôle de la vision dans les activités de lecture et d'écriture …
+-Notions concernant le rôle de la vision dans les activités de lecture et d'écriture …
+
+-Pratique de l'oculométrie : indications, mesure objective du parcours visuel, dispositifs d'enregistrements des mouvements oculaires.
 
 Définitions de la fonction visuelle et de la vision fonctionnelle.
 
 Applications cliniques :
 
--examen et mesure d'une insuffisance de convergence, d'une déviation latente et patente, d'un déséquilibre binoculaire, d'une déviation de type paralytique, d'un nystagmus ;
+-Examen et mesure d'une insuffisance de convergence, d'une déviation latente et patente, d'un déséquilibre binoculaire, d'une déviation de type paralytique, d'un nystagmus.
 
--maîtrise des tests sensoriels et moteurs, analyse et interprétations des données recueillies dans les domaines sensoriel, moteur, fonctionnel ;
+-Maîtrise des tests sensoriels et moteurs, analyse et interprétations des données recueillies dans les domaines sensoriel, moteur, fonctionnel.
 
--élaboration, argumentation et formalisation du diagnostic orthoptique, du projet de soins et transmission à l'ophtalmologiste ou autre médecin prescripteur et au patient. |
+-Élaboration, argumentation et formalisation du diagnostic orthoptique, du projet de soins et transmission à l'ophtalmologiste ou autre médecin prescripteur et au patient. |
 
-Recommandations pédagogiques :
+Recommandations pédagogiques : |
+
+Modalités d'évaluation |
 
 L'enseignement permet à l'étudiant de comprendre les objectifs du bilan, de l'organiser afin d'évaluer les dysfonctionnements de la vision.
 
 Les enseignements dirigés s'appuient sur des situations cliniques rencontrées en stage. Ils permettent de choisir et d'utiliser les tests pertinents en rapport avec le cas étudié : organiser, planifier, ordonner les tests adéquats et analyser les activités en tâches pertinentes, faire le lien avec la plainte du patient. |
 
-Modalités d'évaluation
+Epreuve Orale et écrite : capacité à utiliser les tests, à décrire leur fonctionnement et le but recherché.
 
-Epreuve orale et écrite : capacité à utiliser les tests, à décrire leur fonctionnement et le but recherché.
-
-Rédaction d'un compte rendu.
+Rédaction d'un compte-rendu.
 
 Critères d'évaluation
 
 Exactitude des connaissances. |
 
-Intervenants : orthoptistes. |
+Intervenants : Orthoptistes |
+
+|
+
+|
+
+|
+
+|
 
 DOMAINE DE SAVOIR : SCIENCES HUMAINES, SOCIALES ET DROIT
 
@@ -2226,45 +2256,59 @@ Intervenants : universitaires de la discipline concernée, pharmaciens, ophtalmo
 
 DOMAINE DE SAVOIR : MÉTHODES, TECHNIQUES, OUTILS D'INTERVENTION DE L'ORTHOPTISTE
 
-UE 20 : CONTACTOLOGIESemestre |
+UE 20 : CONTACTOLOGIE Partie 1 et Partie 2 |
 
-: 2 Compétence : 4CM |
+Semestres : 3 et 4 Compétence : 4 |
 
-: 15TD |
+Partie 1-Semestre 3 |
 
-: 20TP |
+CM : 20 |
 
-: 30ECTS |
+TD : 10 |
 
-: 2Prérequis |
+Partie 2-Semestre 4 |
 
-UE 2, UE 3, UE 5, UE 12Objectifs |
+TD en situation clinique : 14h |
 
-Connaître la réfraction des différentes amétropies.
+|
 
-Connaître toutes les techniques concernant la réfraction subjective et objective.
+ECTS : 3 |
 
-Connaître la correction des différentes amétropies en contactologie.
+Pré-requis |
+
+UE 2, UE 3, UE 5, UE 12 |
+
+Objectifs |
+
+Connaitre la réfraction des différentes amétropies.
+
+Connaitre toutes les techniques concernant la réfraction subjective et objective.
+
+Connaitre la correction des différentes amétropies en contactologie.
 
 Différencier et pratiquer les différents cas d'adaptation en lentilles souples ou rigides.
 
-Connaître les types d'entretien des lentilles de contact.
+Connaître les types d'entretien des lentilles de contact
 
-Savoir informer les patients sur l'adaptation, l'importance des règles d'hygiène. |
+Savoir informer les patients sur l'adaptation, l'importance des règles d'hygiène
 
-Eléments de contenu
+Connaître les règles de prescription par l'orthoptiste et le cadre réglementaire de prescription/ de renouvellement de lentilles de contact
 
-Généralités sur l'adaptation des lentilles et leurs limites.
+Connaître les complications liées au port de lentilles, les situations pathologiques et le parcours de soins |
 
-Pratique des examens de préadaptation : l'interrogatoire, la réfraction, la kératométrie, la topographie, l'examen à la lampe à fente-biomicroscopie.
+Eléments de contenu |
+
+Généralités sur l'adaptation des lentilles et leurs limites
+
+Pratique des examens de pré-adaptation : l'interrogatoire, la réfraction, la kératométrie, la topographie, l'examen à la lampe à fente-biomicroscopie.
 
 Connaissance des matériaux utilisés et des différentes lentilles.
 
-Maîtrise de la correction des diverses amétropies et troubles accommodatifs.
+Maitrise de la correction des diverses amétropies et troubles accommodatifs.
 
 Mise en place de lentilles dans certaines pathologies (kératocône …)
 
-Pratique des adaptations techniques dans des cas de figures différents : chez l'enfant, chez l'adulte.
+Pratique des adaptations techniques dans des cas de figures différents : chez l'enfant, chez l'adulte
 
 Différents types d'adaptation : port permanent, port ponctuel. La lentille thérapeutique, les lentilles de couleur.
 
@@ -2272,21 +2316,31 @@ Conseils de pose, dépose et manipulations.
 
 Conseils d'hygiène et les solutions d'entretien.
 
-Ethique et réglementation : aspects spécifiques. |
+Réglementation encadrant la prescription de lentilles par l'orthoptiste
 
-Recommandations pédagogiques :
+Savoir identifier une complication en lentilles et les urgences du segment antérieur
 
-Les enseignements dirigés s'appuient sur des cas cliniques concernant l'enfant et l'adulte. Ils favorisent l'habilité de la manipulation du matériel. |
+Ethique et réglementation : aspects spécifiques |
 
-Modalités d'évaluation
+Recommandations pédagogiques : |
+
+Modalités d'évaluation |
+
+Les enseignements dirigés s'appuient sur des cas cliniques concernant l'enfant et l'adulte. Ils favorisent l'habilité de la manipulation du matériel.
+
+Les travaux pratiques doivent être réalisés en situation clinique et peuvent être réalisés auprès d'ophtalmologue ou orthoptiste pratiquant la contactologie. |
 
 Epreuve orale et pratique.
 
 Critères d'évaluation
 
-Connaissance des différents types de lentilles et compréhension de leur utilisation et adaptation, en fonction du sujet, de l'âge, de la réfraction, de la pathologie. |
+Connaissance des différents types de lentilles et compréhension de leur utilisation et adaptation, en fonction du sujet, de l'âge, de la réfraction, de la pathologie. Connaissance des règles de prescription et renouvellement de lentilles de contact par l'orthoptiste. Connaissance des pathologies et des urgences du segment antérieur. |
 
-Intervenants : ophtalmologistes, orthoptistes. |
+|
+
+|
+
+Intervenants : Ophtalmologistes, Orthoptistes, Professionnels des disciplines concernées |
 
 DOMAINE DE SAVOIR : SCIENCES HUMAINES, SOCIALES ET DROIT
 
@@ -2540,21 +2594,23 @@ Intervenants : ophtalmologistes. |
 
 DOMAINE DE SAVOIR : MÉTHODES, TECHNIQUES, OUTILS D'INTERVENTION DE L'ORTHOPTISTE
 
-UE 25 : PRISE EN CHARGE DE L'AMBLYOPIE FONCTIONNELLESemestre |
+UE 25 : PRISE EN CHARGE DE L'AMBLYOPIE FONCTIONNELLE |
 
-: 3 Compétences : 2,3,4, 6CM |
+Semestre : 3 Compétences : 2,3,4,6 |
 
-: 20TD |
+CM : 20 |
 
-: 70TP |
+TD : 40 |
 
-: 40ECTS |
+TP : 40 |
 
-: 6Prérequis |
+ECTS : 4 |
 
-UE 3, UE 4, UE 5, UE 8, UE 9, UE 10, UE 11, UE 15. |
+Pré-requis |
 
-Objectifs
+UE 3, UE 4, UE 5, UE 8, UE 9, UE 10, UE 11, UE 15 |
+
+Objectifs |
 
 Connaître et maîtriser les examens et tests nécessaires pour situer le patient par rapport à la nature de l'amblyopie.
 
@@ -2570,49 +2626,49 @@ Informer et impliquer le patient et/ ou l'entourage tout au long de la prise en 
 
 Savoir rediriger le patient vers l'ophtalmologiste en cas de résultat insuffisant. |
 
-Eléments de contenu
+Eléments de contenu |
 
-Bilan
+BILAN
 
-Applications spécifiques et approfondissement des acquis précédents concernant le bilan orthoptique.
+-Applications spécifiques et approfondissement des acquis précédents concernant le bilan orthoptique.
 
-Application des tests spécifiques à l'amblyopie
+-Application des tests spécifiques à l'amblyopie
 
-Mesure précise de l'acuité visuelle en fonction des aptitudes et de l'âge du patient.
+-Mesure précise de l'acuité visuelle en fonction des aptitudes et de l'âge du patient.
 
-Vérification de la fixation, de la réfraction, de la correction optique.
+-Vérification de la fixation, de la réfraction, de la correction optique.
 
-Examens complémentaires contributifs selon la prescription de l'ophtalmologiste.
+-Examens complémentaires contributifs selon la prescription de l'ophtalmologiste.
 
-Diagnostic orthoptique, projet de soins et objectifs.
+-Diagnostic orthoptique, projet de soins et objectifs.
 
-Explication au patient et/ ou à l'entourage des retentissements de cette pathologie, des contraintes et limites de la rééducation.
+-Explication au patient et/ ou à l'entourage des retentissements de cette pathologie, des contraintes et limites de la rééducation.
 
-Compte rendu à l'ophtalmologiste et/ ou au prescripteur et/ ou au patient.
+-Compte rendu à l'ophtalmologiste et/ ou au prescripteur et/ ou au patient.
 
-Rééducation
+REEDUCATION
 
-Importance du consentement et de la motivation du patient et/ ou de l'entourage en particulier rôle des parents.
+-Importance du consentement et de la motivation du patient et/ ou de l'entourage en particulier rôle des parents.
 
-Adaptation de la rééducation selon les caractéristiques de la pathologie, les aptitudes, l'âge du patient et l'étape du traitement.
+-Adaptation de la rééducation selon les caractéristiques de la pathologie, les aptitudes, l'âge du patient et l'étape du traitement.
 
-Inclusion des axes sensoriel, moteur et fonctionnel de la vision dans la rééducation.
+-Inclusion des axes sensoriel, moteur et fonctionnel de la vision dans la rééducation.
 
-Maîtrise des techniques orthoptiques à utiliser : occlusion totale, partielle, intermittente, pénalisation optique, par filtre, médicamenteuse …
+-Maîtrise des techniques orthoptiques à utiliser : occlusion totale, partielle, intermittente, pénalisation optique, par filtre, médicamenteuse …
 
-Bilans orthoptiques intermédiaires nécessaires à l'évaluation de l'efficacité de la rééducation orthoptique.
+-Bilans orthoptiques intermédiaires nécessaires à l'évaluation de l'efficacité de la rééducation orthoptique.
 
-Suivi et consolidation du traitement orthoptique.
+-Suivi et consolidation du traitement orthoptique.
 
-Pertinence de la poursuite de la prise en charge orthoptique, nécessité de renvoi vers un ophtalmologiste. |
+-Pertinence de la poursuite de la prise en charge orthoptique, nécessité de renvoi vers un ophtalmologiste. |
 
-Recommandations pédagogiques :
+Recommandations pédagogiques : |
+
+Modalités d'évaluation |
 
 Les enseignements dirigés s'appuient sur des situations cliniques rencontrées en stage.
 
 Les TD et les stages permettent à l'étudiant de croiser des données recueillies, de hiérarchiser les prises en charge et de développer l'esprit de synthèse. |
-
-Modalités d'évaluation
 
 Epreuve orale et écrite : analyse de situations.
 
@@ -2620,7 +2676,11 @@ Critères d'évaluation
 
 Raisonnement logique et argumentation adaptée. |
 
-Intervenants : orthoptistes. |
+|
+
+|
+
+Intervenants : orthoptistes |
 
 DOMAINE DE SAVOIR : SCIENCES BIOLOGIQUES ET MÉDICALES
 
@@ -2692,35 +2752,37 @@ Intervenants : universitaires des disciplines concernées, orthoptistes. |
 
 DOMAINE DE SAVOIR : MÉTHODES, TECHNIQUES, OUTILS D'INTERVENTION DE L'ORTHOPTISTE
 
-UE 27 : BILAN ET PRISE EN CHARGE DE LA BASSE VISIONSemestre |
+UE 27 : BILAN ET PRISE EN CHARGE DE LA BASSE VISION |
 
-: 4 Compétences : 2,3,4,6, 8CM |
+Semestre : 4 Compétences : 2,3,4,6,8 |
 
-: 30TD |
+CM : 30 |
 
-: 60TP |
+TD : 46 |
 
-: 60ECTS |
+TP : 60 |
 
-: 7Prérequis |
+ECTS : 6 |
 
-UE 10, UE 11, UE17, UE 26. |
+Pré-requis |
 
-Objectifs
+UE 10, UE 11, UE17, UE 26 |
+
+Objectifs |
 
 Identifier les différents modes de prise en charge suivant l'âge et les aptitudes du patient.
 
-Bilan
+BILAN
 
-Savoir conduire un entretien semi-dirigé en vu d'objectiver les besoins spécifiques du patient.
+Savoir conduire un entretien semi dirigé en vu d'objectiver les besoins spécifiques du patient.
 
 Connaître et pratiquer les méthodes d'examen orthoptiques et les explorations fonctionnelles permettant de mettre en exergue les capacités fonctionnelles.
 
 Savoir mettre en adéquation les capacités fonctionnelles disponibles et les attentes du patient.
 
-Rééducation
+REEDUCATION
 
-Déterminer l'intérêt d'une prise en charge réadaptative, en établir les modalités, le programme et son articulation pluri disciplinaire.
+Déterminer l'intérêt d'une prise en charge réadaptative, en établir les modalités, le programme et son articulation pluri disciplinaire
 
 Conduire la rééducation orthoptique selon le projet de soins finalisé lors du bilan.
 
@@ -2728,17 +2790,17 @@ Adapter les méthodes de rééducation et/ ou réadaptation et les modes d'appre
 
 Maitriser les évaluations régulatrices. |
 
-Eléments de contenu
+Eléments de contenu |
 
-Bilan
+BILAN
 
-Anamnèse et entretien semi-dirigé.
+Anamnèse et entretien semi dirigé
 
 Efficience visuelle lors de la réalisation des tâches.
 
 Approche multisensorielle et cognitive.
 
-Relevé des stratégies spontanées et évaluation de leur coût en énergie (fatigabilité, capacités attentionnelles et mnésiques).
+Relevé des stratégies spontanées et évaluation de leur coût en énergie (fatigabilité, capacités attentionnelles et mnésiques)
 
 Etude de l'axe moteur et de la coordination oculomanuelle.
 
@@ -2748,7 +2810,7 @@ Recherche de la localisation de la sensibilité rétinienne optimale en vue de l
 
 Evaluation du besoin de grossissement, essais d'aides optiques et non optiques nécessaires à chaque activité.
 
-Spécificités du bilan à tous les âges de la vie.
+Spécificités du bilan à tous les âges de la vie
 
 Explications au patient et à son l'entourage, des résultats du bilan et des retentissements fonctionnels des déficits.
 
@@ -2758,7 +2820,7 @@ Diagnostic orthoptique, projet de soins.
 
 Compte rendu et transmission interprofessionnelle.
 
-Rééducation-Réadaptation
+REEDUCATION-READAPTATION
 
 Prise en compte de l'environnement de vie du patient, de ses facteurs personnels, de sa compliance.
 
@@ -2766,7 +2828,7 @@ Apprentissage implicite et explicite.
 
 Analyse et hiérarchisation des tâches en vue d'entreprendre ou de reprendre une activité.
 
-Outils et techniques pour la rééducation et la réadaptation.
+Outils et techniques pour la rééducation et la réadaptation
 
 Logiciels de rééducation basse vision
 
@@ -2778,7 +2840,7 @@ Choix et entrainement à l'utilisation des aides optiques et non optiques.
 
 Transfert des acquis dans la vie quotidienne du patient.
 
-Spécificités de l'éducation, la rééducation et la réadaptation à tous les âges de la vie.
+Spécificités de l'éducation, la rééducation et la réadaptation à tous les âges de la vie
 
 Opportunité et réalisation d'évaluations régulatrices,
 
@@ -2786,21 +2848,21 @@ Bilan final.
 
 Arrêt, suspension, suivi de la prise en charge.
 
-Communication, transmission et comptes rendus aux différents professionnels de santé.
+Communication, transmission et comptes rendus aux différents professionnels de santé
 
 Les différentes interventions médicales et paramédicales lors d'une prise en charge, en utilisant une terminologie adaptée. |
 
-Recommandations pédagogiques :
+Recommandations pédagogiques : |
 
-L'enseignement permet à l'étudiant de gérer les interactions plurisensorielles, cognitives et gestuelles et d'adapter la prise en charge en fonction du patient, de ses demandes et de la grande variabilité des conséquences fonctionnelles pour une même pathologie.
+Modalités d'évaluation |
+
+L'enseignement permet à l'étudiant de gérer les interactions pluri sensorielles, cognitives et gestuelles et d'adapter la prise en charge en fonction du patient, de ses demandes et de la grande variabilité des conséquences fonctionnelles pour une même pathologie.
 
 Les enseignements dirigés s'appuient sur des situations cliniques rencontrées en stage et favorisent chez l'étudiant l'acquisition d'un sens critique, l'appréhension de son positionnement professionnel, ainsi que sa capacité à coopérer avec les autres professionnelles. |
 
-Modalités d'évaluation
+Epreuve écrite ou orale
 
-Epreuve écrite ou orale.
-
-Etudes de cas.
+Etudes de cas
 
 Critères d'évaluation
 
@@ -2808,9 +2870,15 @@ Pertinence des informations prises en compte, des actions proposées, examens et
 
 Clarté et précision des comptes rendus (terminologie et expression).
 
-Aptitude à établir un lien entre tâche réalisée et objectif final. |
+Aptitude à établir un lien entre tâche réalisée et objectif final |
 
-Intervenants : orthoptistes. |
+|
+
+|
+
+|
+
+Intervenants : orthoptistes |
 
 DOMAINE DE SAVOIR : MÉTHODES DE TRAVAIL
 
@@ -3774,4 +3842,4 @@ Intervenants : formateurs PSC, formateurs en orthoptie. |
 
 NOTA :
 
-Se reporter aux conditions d'application prévues à l'article 6 de l'arrêté du 10 novembre 2022 (NOR : SPRH2220195A).
+Conformément à l'article 3 de l'arrêté du 1er août 2025 (NOR : MENS2521003A), ces dispositions, dans leur rédaction issue dudit arrêté, sont applicables aux étudiants autorisés à s'inscrire en première année des études conduisant au certificat de capacité d'orthoptiste à compter de la rentrée universitaire 2025-2026.
