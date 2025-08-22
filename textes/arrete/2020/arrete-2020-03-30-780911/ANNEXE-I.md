@@ -22,39 +22,15 @@ ICTPE 1 |
 
 Direction de l'habitat, de l'urbanisme et des paysages |
 
-Chef du bureau des aides personnelles au logement |
-
-ICTPE 2 |
-
-Direction de l'habitat, de l'urbanisme et des paysages |
-
 Chef du bureau des villes et territoires durables |
 
 ICTPE 2 |
 
 Direction de l'habitat, de l'urbanisme et des paysages |
 
-Chef du bureau du développement de l'offre de logement social et intermédiaire |
-
-ICTPE 2 |
-
-Direction de l'habitat, de l'urbanisme et des paysages |
-
-Directeur de la mission d'appui SRU (à/ c du 17/02/2025) |
+Directeur de la mission d'appui SRU |
 
 ICTPE 1 |
-
-Mission de coordination interministérielle du plan de rénovation énergétique des bâtiments |
-
-Chef de projet " rénover le parc locatif privé et les copropriétés " |
-
-ICTPE 2 |
-
-Sous-direction territoires et usagers |
-
-Chef de la mission Aides territoires |
-
-ICTPE 2 |
 
 Direction générale de l'aviation civile |
 
@@ -96,7 +72,7 @@ ICTPE 1 |
 
 Service national d'ingénierie aéroportuaire |
 
-Chef du département programmation environnement aménagement (à/ c du 01/04/2025) |
+Chef du département programmation environnement aménagement |
 
 ICTPE 1 |
 
@@ -126,7 +102,7 @@ ICTPE 2 |
 
 Service national d'ingénierie aéroportuaire |
 
-Adjoint au chef du département programmation, environnement, aménagement |
+Chef mission qualité, méthode, management |
 
 ICTPE 2 |
 
@@ -138,7 +114,7 @@ ICTPE 2 |
 
 Service Technique de l'Aviation Civile |
 
-Chef du département sûreté (à compter du 01/03/2025) |
+Chef du département sûreté |
 
 ICTPE 1 |
 
@@ -160,7 +136,7 @@ Direction générale des affaires maritimes, de la pêche et de l'aquaculture |
 
 Sous-direction de la Transformation numérique |
 
-Chef de bureau de l'Hébergement des systèmes et de l'assistance Informatique |
+Chef de bureau des services d'infrastructure, innovation numérique et DATA (SIID) |
 
 ICTPE 2 |
 
@@ -172,7 +148,7 @@ ICTPE 2 |
 
 Service flottes et marins |
 
-Chef de mission &laquo; contrôle de second niveau-gestion de la sécurité et surveillance des organismes habilités &raquo; |
+Chef de mission " contrôle de second niveau-gestion de la sécurité et surveillance des organismes habilités " |
 
 ICTPE 2 |
 
@@ -211,6 +187,12 @@ ICTPE 2 |
 Direction des mobilités routières |
 
 Inspecteur général des routes, responsable du pôle Nord-Ouest |
+
+ICTPE 1 |
+
+Direction des mobilités routières |
+
+Inspecteur général, responsable du pôle des ouvrages d'art |
 
 ICTPE 1 |
 
@@ -352,7 +334,7 @@ ICTPE 2 |
 
 Direction des affaires financières |
 
-Chargée de mission auprès du sous-directeur (à/ c du 01/02/2025) |
+Chargée de mission auprès du sous-directeur |
 
 ICTPE 2 |
 
@@ -361,6 +343,12 @@ Direction des affaires financières |
 Adjoint au chef du département de l'immobilier opérationnel de l'administration centrale |
 
 ICTPE 1 |
+
+Direction des affaires financières |
+
+Directeur de projets numériques auprès du sous-directeur (à compter du 01/09/2025) |
+
+ICTPE 2 |
 
 Direction des ressources humaines |
 
@@ -400,7 +388,7 @@ ICTPE 2 |
 
 Direction des ressources humaines |
 
-Directeur adjoint du CVRH d'Aix-en-Provence, chargé du pilotage du conseil aux services et de l'innovation |
+Directeur adjoint du CVRH d'Aix-en-Provence |
 
 ICTPE 2 |
 
@@ -418,7 +406,7 @@ ICTPE 2 |
 
 Direction des ressources humaines |
 
-Chargé de mission de corps pour les cadres supérieurs techniques |
+Chargé de mission d'encadrement ITPE second niveau |
 
 ICTPE 1 |
 
@@ -430,7 +418,7 @@ ICTPE 2 |
 
 Direction des ressources humaines |
 
-Chef de projet &laquo; Protection sociale complémentaire &raquo; |
+Chef de projet " Protection sociale complémentaire " |
 
 ICTPE 1 |
 
@@ -482,8 +470,14 @@ Adjoint au chef du département produits numériques des métiers 1-Route et sta
 
 ICTPE 2 |
 
+Direction du numérique |
+
+Chef du groupe infrastructure réseau |
+
+ICTPE 2 |
+
 Service du haut fonctionnaire de défense et de sécurité |
 
-Chef de la mission de veille opérationnelle et d'Alerte-Centre ministériel de veille opérationnelle et d'alerte (à compter du 01/01/2025) |
+Chef de la mission de veille opérationnelle et d'Alerte-Centre ministériel de veille opérationnelle et d'alerte |
 
 ICTPE 1 |
