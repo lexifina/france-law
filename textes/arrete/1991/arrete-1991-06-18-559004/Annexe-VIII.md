@@ -38,7 +38,7 @@ réglementaire
 
 |
 
-Carte blanche
+Autorisation de mise en circulation
 
 |
 
@@ -50,15 +50,15 @@ La première des deux échéances suivantes :
 
 |
 
-Arrêté du 30 septembre 1975 modifié
+Arrêté du 27 juin 2024
 
 |
 
-- 1 an après l'attribution de la carte blanche ;
+1 an après l'attribution de l'autorisation de mise en circulation
 
 |
 
-- échéance de validité du contrôle technique avant attribution de la carte blanche
+- échéance de validité du contrôle technique avant attribution de l'autorisation de mise en circulation
 
 |
 
