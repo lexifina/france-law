@@ -1340,7 +1340,7 @@ Doivent être vérifiés lors des contrôles par contact :
 
 Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
 
-AJ.-Fiche d'opération standardisée BAR-TH-173 &laquo; Système de régulation par programmation horaire pièce par pièce &raquo;
+AJ.-Fiche d'opération standardisée BAR-TH-173 "Système de régulation par programmation horaire pièce par pièce"
 
 Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. En l'absence d'éléments visibles, les vérifications sont faites au moyen de toute pièce disponible. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en non satisfaisant.
 
@@ -1878,9 +1878,9 @@ Les critères suivants doivent conduire à un classement “ non satisfaisant �
 
 L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : η, le rendement du système de stockage (en %) ; C, la capacité maximale de stockage de chaleur du système (en kWh) ; Nc, le nombre annuel de cycles équivalents à 100 % de la capacité maximale du système de stockage, effectués sur une année représentative. Il s'agit des valeurs indiquées dans l'étude de dimensionnement.
 
-AT. Fiche d'opération standardisée TRA-EQ-114 &laquo; Achat ou location d'un véhicule léger électrique neuf ou opération de rétrofit électrique d'un véhicule léger, par une collectivité locale ou une autre personne morale &raquo; concernant les opérations bonifiées :
+AT. Fiche d'opération standardisée TRA-EQ-114 "Achat ou location d'un véhicule léger électrique neuf ou opération de rétrofit électrique d'un véhicule léger, par une collectivité locale ou une autre personne morale" concernant les opérations bonifiées :
 
-AT. I Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de l'opération, les critères suivants doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+AT. I Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de l'opération, les critères suivants doivent conduire à un classement "non satisfaisant" de l'opération pour les contrôles sur le lieu des opérations :
 
 1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ;
 
@@ -1908,7 +1908,7 @@ Aux fins du contrôle, le demandeur de certificats met à disposition de l'organ
 
 L'existence d'au moins un écart concernant au moins un des véhicules conduit à un résultat non satisfaisant du contrôle.
 
-AT. II Sur la base d'un contrôle par examen visuel des véhicules, les critères suivants doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+AT. II Sur la base d'un contrôle par examen visuel des véhicules, les critères suivants doivent conduire à un classement "non satisfaisant" de l'opération pour les contrôles sur le lieu des opérations :
 
 1. Le numéro d'identification du véhicule (VIN) (présent sur le châssis ou sur la plaque réglementaire constructeur) est différent du champ afférent sur le certificat d'immatriculation ;
 
@@ -1924,9 +1924,9 @@ Dans le cas où l'opération concerne l'achat ou la location de plus de 5 véhic
 
 L'existence d'au moins un écart sur les véhicules contrôlés ou l'absence sur site du véhicule choisi pour être soumis à contrôle conduit à un résultat non satisfaisant du contrôle.
 
-AU. Fiche d'opération standardisée TRA-EQ-117 &laquo; Achat ou location d'un véhicule léger électrique neuf ou opération de rétrofit électrique d'un véhicule léger par des particuliers &raquo; concernant les opérations bonifiées :
+AU. Fiche d'opération standardisée TRA-EQ-117 "Achat ou location d'un véhicule léger électrique neuf ou opération de rétrofit électrique d'un véhicule léger par des particuliers" concernant les opérations bonifiées :
 
-AU. I. Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de l'opération, les critères suivants doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+AU. I. Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de l'opération, les critères suivants doivent conduire à un classement "non satisfaisant" de l'opération pour les contrôles sur le lieu des opérations :
 
 1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ;
 
@@ -1952,7 +1952,7 @@ Aux fins du contrôle, le demandeur de certificats met à disposition de l'organ
 
 L'existence d'au moins un écart concernant au moins un des véhicules conduit à un résultat non satisfaisant du contrôle.
 
-AU. II. Sur la base d'un contrôle par examen visuel des véhicules, les critères suivants doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+AU. II. Sur la base d'un contrôle par examen visuel des véhicules, les critères suivants doivent conduire à un classement "non satisfaisant" de l'opération pour les contrôles sur le lieu des opérations :
 
 1. Le numéro d'identification du véhicule (VIN) (présent sur le châssis ou sur la plaque réglementaire constructeur) est différent du champ afférent sur le certificat d'immatriculation ;
 
@@ -1966,9 +1966,9 @@ Les contrôles par examen visuel du véhicule sont réalisés sur un site conven
 
 L'existence d'au moins un écart sur le véhicule contrôlé ou l'absence sur site du véhicule soumis à contrôle conduit à un résultat non satisfaisant du contrôle.
 
-AV. Fiche d'opération standardisée TRA-EQ-128 &laquo; Achat ou location d'un autocar ou d'un autobus électrique neuf ou réalisation d'une opération de rétrofit électrique d'autocar ou d'autobus &raquo; :
+AV. Fiche d'opération standardisée TRA-EQ-128 "Achat ou location d'un autocar ou d'un autobus électrique neuf ou réalisation d'une opération de rétrofit électrique d'autocar ou d'autobus" :
 
-AV. I. Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de l'opération, les critères suivants doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+AV. I. Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de l'opération, les critères suivants doivent conduire à un classement "non satisfaisant" de l'opération pour les contrôles sur le lieu des opérations :
 
 1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ;
 
@@ -1992,7 +1992,7 @@ Aux fins du contrôle, le demandeur de certificats met à disposition de l'organ
 
 L'existence d'au moins un écart concernant au moins un des véhicules conduit à un résultat non satisfaisant du contrôle.
 
-AV. II. Sur la base d'un contrôle par examen visuel des véhicules, les critères suivants doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+AV. II. Sur la base d'un contrôle par examen visuel des véhicules, les critères suivants doivent conduire à un classement "non satisfaisant" de l'opération pour les contrôles sur le lieu des opérations :
 
 1. Le numéro d'identification du véhicule (VIN) (présent sur le châssis ou sur la plaque réglementaire constructeur) est différent du champ afférent sur le certificat d'immatriculation ;
 
@@ -2008,9 +2008,9 @@ Dans le cas où l'opération concerne l'achat ou la location de plus de 5 véhic
 
 L'existence d'au moins un écart sur les véhicules contrôlés ou l'absence sur site du véhicule choisi pour être soumis à contrôle conduit à un résultat non satisfaisant du contrôle.
 
-AW. Fiche d'opération standardisée TRA-EQ-129 &laquo; Achat ou location d'un véhicule lourd électrique neuf de transport de marchandises ou issu d'une opération de rétrofit électrique &raquo; :
+AW. Fiche d'opération standardisée TRA-EQ-129 "Achat ou location d'un véhicule lourd électrique neuf de transport de marchandises ou issu d'une opération de rétrofit électrique" :
 
-AW. I. Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de l'opération, les critères suivants doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+AW. I. Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de l'opération, les critères suivants doivent conduire à un classement "non satisfaisant" de l'opération pour les contrôles sur le lieu des opérations :
 
 1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ;
 
@@ -2034,7 +2034,7 @@ Aux fins du contrôle, le demandeur de certificats met à disposition de l'organ
 
 L'existence d'au moins un écart concernant au moins un des véhicules conduit à un résultat non satisfaisant du contrôle.
 
-AW. II. Sur la base d'un contrôle par examen visuel des véhicules, les critères suivants doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+AW. II. Sur la base d'un contrôle par examen visuel des véhicules, les critères suivants doivent conduire à un classement "non satisfaisant" de l'opération pour les contrôles sur le lieu des opérations :
 
 1. Le numéro d'identification du véhicule (VIN) (présent sur le châssis ou sur la plaque réglementaire constructeur) est différent du champ afférent sur le certificat d'immatriculation ;
 
@@ -2050,9 +2050,9 @@ Dans le cas où l'opération concerne l'achat ou la location de plus de 5 véhic
 
 L'existence d'au moins un écart sur les véhicules contrôlés ou l'absence sur site du véhicule choisi pour être soumis à contrôle conduit à un résultat non satisfaisant du contrôle.
 
-AX. Fiche d'opération standardisée TRA-EQ-130 &laquo; Achat ou location d'un quadricycle neuf &raquo; :
+AX. Fiche d'opération standardisée TRA-EQ-130 "Achat ou location d'un quadricycle neuf" :
 
-AX. I. Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de l'opération, les critères suivants doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+AX. I. Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de l'opération, les critères suivants doivent conduire à un classement "non satisfaisant" de l'opération pour les contrôles sur le lieu des opérations :
 
 1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ;
 
@@ -2066,7 +2066,7 @@ AX. I. Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de
 
 6. La qualité du bénéficiaire (particulier, loueur ou vendeur de véhicules, collectivité locale, Etat, autre personne morale) vérifiée par l'organisme d'inspection au moyen de tout document ne correspond pas à celle fournie par le demandeur de certificats ;
 
-7. L'un au moins des véhicules achetés ou loués par le bénéficiaire ne correspond pas aux informations fournies par le demandeur de certificats (numéro d'immatriculation ; numéro d'identification ; type variante version ; type d'acquisition : achat ou location ; type de véhicule : L6e, L7e) ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation de chaque véhicule ;
+7. L'un au moins des véhicules achetés ou loués par le bénéficiaire ne correspond pas aux informations fournies par le demandeur de certificats (numéro d'immatriculation ; numéro d'identification ; type variante version ; type d'acquisition : achat ou location ; type de véhicule : L6e-B, L7e-C) ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation de chaque véhicule ;
 
 8. Dans le cas d'un véhicule précédemment affecté à la démonstration, la cession ou la prise en location n'intervient pas dans un délai compris entre trois et douze mois suivant sa première immatriculation ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation actuel et une copie du précédent certificat d'immatriculation.
 
@@ -2076,7 +2076,7 @@ Aux fins du contrôle, le demandeur de certificats met à disposition de l'organ
 
 L'existence d'au moins un écart concernant au moins un des véhicules conduit à un résultat non satisfaisant du contrôle.
 
-AX. II. Sur la base d'un contrôle par examen visuel des véhicules, les critères suivants doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+AX. II. Sur la base d'un contrôle par examen visuel des véhicules, les critères suivants doivent conduire à un classement "non satisfaisant" de l'opération pour les contrôles sur le lieu des opérations :
 
 1. Le numéro d'identification du véhicule (VIN) (présent sur le châssis ou sur la plaque réglementaire constructeur) est différent du champ afférent sur le certificat d'immatriculation ;
 
@@ -2094,11 +2094,11 @@ Lorsque le bénéficiaire est une personne physique, les contrôles sur pièce e
 
 L'existence d'au moins un écart sur les véhicules contrôlés ou l'absence sur site du véhicule choisi pour être soumis à contrôle conduit à un résultat non satisfaisant du contrôle.
 
-AY : Fiche d'opération standardisée IND-BA-110 &laquo; Système de déstratification d'air (France métropolitaine) &raquo;
+AY : Fiche d'opération standardisée IND-BA-110 "Système de déstratification d'air (France métropolitaine)"
 
-Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en &laquo; non satisfaisant &raquo;.
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en "non satisfaisant".
 
-Les critères suivants doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+Les critères suivants doivent conduire à un classement "non satisfaisant" de l'opération pour les contrôles sur le lieu des opérations :
 
 1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération, la note de dimensionnement, le calepinage ;
 
@@ -2108,7 +2108,7 @@ Les critères suivants doivent conduire à un classement &laquo; non satisfaisan
 
 4. Le système de déstratification d'air installé permet de chauffer l'air ou est alimenté par un système de chauffage ou par récupération de chaleur fatale ;
 
-5. La note de dimensionnement n'a pas été établie par un professionnel ou un bureau d'études ayant une qualification OPQIBI 1327 intitulée &laquo; Ingénierie de la performance énergétique dans le traitement climatique des bâtiments &raquo; ou 1717 &laquo; Audit énergétiques dans l'industrie &raquo; ou réalisant des études conformément aux référentiels définis par les normes NF X 50-091, NF EN 16247 ou équivalentes ;
+5. La note de dimensionnement n'a pas été établie par un professionnel ou un bureau d'études ayant une qualification OPQIBI 1327 intitulée "Ingénierie de la performance énergétique dans le traitement climatique des bâtiments" ou 1717 "Audit énergétiques dans l'industrie" ou réalisant des études conformément aux référentiels définis par les normes NF X 50-091, NF EN 16247 ou équivalentes ;
 
 6. La note de dimensionnement ne comporte pas de référence ;
 
@@ -2164,23 +2164,23 @@ La note de dimensionnement ne comporte pas également pour ce qui concerne les a
 
 21. La puissance nominale du système de chauffage déclarée par le bénéficiaire n'est pas conforme aux équipements réellement installés.
 
-Les critères complémentaires suivants pour la déstratification verticale en industrie doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+Les critères complémentaires suivants pour la déstratification verticale en industrie doivent conduire à un classement "non satisfaisant" de l'opération pour les contrôles sur le lieu des opérations :
 
 1. L'aspiration de l'air ne s'effectue pas à au plus un cinquième de la hauteur en partant du plafond ou du faîtage ;
 
 2. La documentation technique ne mentionne pas que le flux d'air est orienté vers le sol a une vitesse supérieure à 0,2 m/ s à un mètre du sol.
 
-Les critères complémentaires suivants pour la déstratification horizontale en industrie doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+Les critères complémentaires suivants pour la déstratification horizontale en industrie doivent conduire à un classement "non satisfaisant" de l'opération pour les contrôles sur le lieu des opérations :
 
 1. Les différentes couches d'air ne sont pas aspirées sur toute la hauteur du local ;
 
 2. La documentation technique ne mentionne pas que le flux d'air entre le diffuseur et le collecteur est horizontal et a une vitesse supérieure à 0,2 m/ s, à au moins un mètre du sol.
 
-AZ : Fiche d'opération standardisée BAT-TH-142 &laquo; Système de déstratification d'air (France métropolitaine) &raquo;
+AZ : Fiche d'opération standardisée BAT-TH-142 "Système de déstratification d'air (France métropolitaine)"
 
-Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en &laquo; non satisfaisant &raquo;.
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en "non satisfaisant".
 
-Les critères suivants doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+Les critères suivants doivent conduire à un classement "non satisfaisant" de l'opération pour les contrôles sur le lieu des opérations :
 
 1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération, la note de dimensionnement, le calepinage ;
 
@@ -2190,7 +2190,7 @@ Les critères suivants doivent conduire à un classement &laquo; non satisfaisan
 
 4. Le système de déstratification d'air installé permet de chauffer l'air ou est alimenté par un système de chauffage ou par récupération de chaleur fatale ;
 
-5. La note de dimensionnement n'a pas été établie par un professionnel ou un bureau d'études ayant une qualification OPQIBI 1327 intitulée &laquo; Ingénierie de la performance énergétique dans le traitement climatique des bâtiments &raquo; ou 1905 &laquo; Audit énergétique des bâtiments (tertiaires et/ ou habitations collectives) &raquo; ou réalisant des études conformément aux référentiels définis par les normes NF X 50-091, NF EN 16247 ou équivalentes ;
+5. La note de dimensionnement n'a pas été établie par un professionnel ou un bureau d'études ayant une qualification OPQIBI 1327 intitulée "Ingénierie de la performance énergétique dans le traitement climatique des bâtiments" ou 1905 "Audit énergétique des bâtiments (tertiaires et/ ou habitations collectives)" ou réalisant des études conformément aux référentiels définis par les normes NF X 50-091, NF EN 16247 ou équivalentes ;
 
 6. La note de dimensionnement ne comporte pas de référence ;
 
@@ -2252,14 +2252,44 @@ La note de dimensionnement ne comporte pas également pour ce qui concerne les a
 
 23. La puissance nominale du système de chauffage déclarée par le bénéficiaire n'est pas conforme aux équipements réellement installés.
 
-Les critères complémentaires suivants pour la déstratification verticale en tertiaire doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+Les critères complémentaires suivants pour la déstratification verticale en tertiaire doivent conduire à un classement "non satisfaisant" de l'opération pour les contrôles sur le lieu des opérations :
 
 1. L'aspiration de l'air ne s'effectue pas à au plus un cinquième de la hauteur en partant du plafond ou du faîtage ;
 
 2. La documentation technique ne mentionne pas que le flux d'air est orienté vers le sol a une vitesse supérieure à 0,2 m/ s à un mètre du sol.
 
-Les critères complémentaires suivants pour la déstratification horizontale en tertiaire doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+Les critères complémentaires suivants pour la déstratification horizontale en tertiaire doivent conduire à un classement "non satisfaisant" de l'opération pour les contrôles sur le lieu des opérations :
 
 1. Les différentes couches d'air ne sont pas aspirées sur toute la hauteur du local ;
 
 2. La documentation technique ne mentionne pas que le flux d'air entre le diffuseur et le collecteur est horizontal et a une vitesse supérieure à 0,2 m/ s, à au moins un mètre du sol.
+
+BA. Fiche d'opération standardisée TRA-EQ-131 " Achat ou location longue durée de vélos-cargos à assistance électrique neufs " :
+
+Doivent être vérifiés lors des contrôles par contact :
+
+-la dénomination ou raison sociale de la personne physique ou morale bénéficiaire, sa forme juridique, l'adresse de son siège social ou du lieu d'exercice de son activité, son numéro SIREN ;
+
+-le bénéficiaire dispose d'un numéro de SIREN depuis plus de trois mois ;
+
+-l'acte d'achat ou de location d'un ou plusieurs vélo-cargos neufs ;
+
+-dans le cas d'une location, la durée du contrat de location est supérieure à 24 mois ;
+
+-le nombre de vélos-cargos achetés ou loués est inférieur ou égal à l'effectif déclaré sur le dernier exercice clos ou document équivalent permettant de justifier l'effectif, sur la durée de vie conventionnelle définie dans la présente fiche, ou dans le cas d'une personne morale de droit public ou association ne pouvant produire de liasse fiscale ou document équivalent, le nombre de vélos-cargos achetés ou loués est inférieur ou égal à l'effectif salarié ou bénévole attesté sur l'honneur par le responsable légal, dans la limite de 15 vélos-cargos ;
+
+-les vélos-cargos neufs, loués ou achetés, possèdent un identifiant FNUCI ;
+
+-les vélos-cargos neufs, loués ou achetés, sont équipés d'une caisse ou d'une plateforme et leur cadre est spécifiquement conçu par le fabricant pour permettre le transport de marchandises, fournitures et outils à l'arrière ou à l'avant du conducteur ;
+
+-les vélos-cargos neufs, loués ou achetés, sont utilisés dans le cadre de transport de marchandises, fournitures ou outils ;
+
+-l'absence de non-qualité manifeste détectée par le bénéficiaire.
+
+Si au moins l'un des points vérifiés lors du contrôle révèle un écart sur un des vélos-cargos, le contrôle est jugé non satisfaisant.
+
+Si au moins l'un des identifiants des vélos-cargos n'est pas inscrit au fichier national unique des cycles identifiés (FNUCI) avec un statut " en service " (information disponible sur apic-asso. com), le contrôle est jugé non satisfaisant.
+
+NOTA :
+
+Conformément à l’article 7 de l’arrêté du 18 août 2025 (NOR : ECOR2522127A), ces dispositions, dans leur rédaction résultant de l'article 5 de l'arrêté précité, sont applicables aux opérations engagées à compter du 1er septembre 2025.
