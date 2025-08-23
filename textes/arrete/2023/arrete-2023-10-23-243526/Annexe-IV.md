@@ -14,7 +14,7 @@ Le candidat justifie d’une des qualifications visées ci-dessous :
 
 • un diplôme de niveau 4 du ministère de l’éducation nationale (baccalauréat professionnel maintenance des véhicules ) ou un diplôme équivalent au regard de FRANCE Compétences ;
 
-• un diplôme de niveau 5 du ministère de l’éducation nationale (diplôme d’expert en automobile ou de véhicules de catégories L, ou technicien expert après-vente motocycles) ou un diplôme équivalent au regard de FRANCE Compétences.
+• un diplôme de niveau 5 du ministère de l’éducation nationale (diplôme d'expert automobile ou brevet de technicien supérieur maintenance des véhicules) ou un diplôme équivalent au regard de FRANCE Compétences.
 
 A.2.2. Formation relative au contrôle technique
 
@@ -42,7 +42,7 @@ B. Candidat à un nouvel agrément préfectoral de contrôleur
 
 B.1. Candidat justifiant d’un agrément préfectoral en cours de validité, ou d’un agrément préfectoral ayant été annulé depuis moins de six mois pour le contrôle des véhicules légers ou des véhicules lourds
 
-Le candidat justifie d’une formation spécialisée complémentaire dans le contrôle technique des véhicules de catégorie L d'une durée d'au moins 33 heures comprenant 5 heures de téléformation maximum et 17 heures de pratique, en centre de formation.
+Le candidat justifie d'une formation spécialisée complémentaire dans le contrôle technique des véhicules de catégorie L d'une durée d'au moins 33 heures comprenant 5 heures de téléformation maximum et 17 heures de pratique, en centre de formation.
 
 B.2. Candidat n’ayant plus d’agrément depuis au moins six mois.
 
@@ -92,17 +92,15 @@ Dans le cas où une remise à niveau consistant en une formation initiale telle 
 
 E. Qualification des exploitants
 
-E.1. La personne physique assurant l’exploitation du centre de contrôle (exploitant), désignée à cet effet par le titulaire de l’agrément du centre, justifie d’une formation d’une durée minimale de 35 heures dans un délai maximum de 6 mois à compter de sa désignation. Sont exemptés de cette disposition les cas suivants :
+E. 1. A défaut de la présentation d'un agrément de contrôleur de véhicules de catégorie L en cours de validité, la personne physique assurant l'exploitation du centre de contrôle (exploitant), désignée à cet effet par le titulaire de l'agrément du centre, justifie d'une formation initiale d'une durée minimale de 35 heures dans un délai maximum de 6 mois à compter de sa désignation.
 
-• personne justifiant d'un agrément de contrôleur de véhicules de catégorie L en cours de validité
+Dans le cas où l'exploitant est également exploitant de centre de contrôle de véhicules légers ou de centre de contrôle de véhicules lourds, à jour de ses qualifications, la durée de la formation initiale peut être réduite à 7 heures.
 
-• exploitant de centre de contrôle de véhicules légers ou de centre de contrôle de véhicules lourds à jour de ses qualifications
+L'exploitant justifie, par ailleurs, d'une formation de maintien de qualification d'une durée minimale de 14 heures tous les cinq ans, au plus tard avant la fin de la cinquième année qui suit la dernière formation exploitant. Les exploitants ayant bénéficié de l'exemption de formation initiale justifient de cette formation dans un délai de 6 mois après leur désignation.
 
-L’exploitant justifie, par ailleurs, d’une formation de maintien de qualification d’une durée minimale de 14 heures tous les cinq ans, qu’il soit contrôleur ou non.
+Dans le cas où l'exploitant est également exploitant de centre de contrôle de véhicules légers ou de centre de contrôle de véhicules lourds, à jour de ses qualifications, et qu'il a suivi une formation de maintien de qualification pour la ou les catégories correspondantes depuis moins de 1 mois, la durée de la formation de maintien de qualification peut être réduite à 3 heures.
 
-Les exigences de connaissances et de compétences d’un exploitant de centre de contrôle technique des véhicules de catégorie L ainsi que les modalités d’évaluation théorique sont définies dans le référentiel de formation approuvé par le ministre en charge des transports et disponible sur le site internet de l’OTC.
-
-E.2. Dans le cas du changement de personne physique assurant l’exploitation du centre de contrôle, cette dernière se conforme aux dispositions du paragraphe E.1 (y compris pour la formation de maintien de qualification) dans un délai maximum de 6 mois à compter de sa désignation.
+Les exigences de connaissances et de compétences d'un exploitant de centre de contrôle technique des véhicules de catégorie L ainsi que les modalités d'évaluation théorique sont définies dans le référentiel de formation approuvé par le ministre en charge des transports et disponible sur le site internet de l'OTC.
 
 F. Exigences relatives aux organismes de formation
 

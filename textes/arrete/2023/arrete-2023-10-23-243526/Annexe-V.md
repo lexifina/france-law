@@ -80,7 +80,9 @@ Sans préjudice des vérifications et opérations périodiques imposées par d�
 
 7.2. Les installations de contrôle respectent les procédures de déclenchement et de déroulement d’audit définies par les organismes visés aux articles 28 et 29 du présent arrêté.
 
-7.3. Toute installation de contrôle agréée fait l’objet d’un audit au moins une fois par année civile. Cet audit est réalisé au plus tard au cours du seizième mois suivant le précédent audit annuel. En cas d’audit défavorable, un nouvel audit est réalisé sous quatre mois sans se substituer à l’audit réglementaire annuel. Si deux audits défavorables se succèdent, le responsable de l’installation transmet les deux rapports d’audit sous quinze jours à la direction régionale agissant pour le compte du ministre chargé des transports dont il dépend. Dans le cas d’un premier ou d’un nouvel agrément d’un centre, l’audit est réalisé au plus tard au cours du sixième mois qui suit la date d’agrément.
+7.3. Toute installation de contrôle agréée fait l’objet d’un audit au moins une fois par année civile. Cet audit est réalisé au plus tard au cours du seizième mois suivant le précédent audit annuel. En cas d’audit défavorable, un nouvel audit est réalisé sous quatre mois sans se substituer à l’audit réglementaire annuel. Dans le cas d’un premier ou d’un nouvel agrément d’un centre, l’audit est réalisé au plus tard au cours du sixième mois qui suit la date d’agrément.
+
+En cas d'audit défavorable, le responsable de l'installation ainsi que l'organisme visé aux articles 28 et 29 du présent arrêté l'ayant réalisé, transmettent le rapport d'audit sous quinze jours à la direction régionale agissant pour le compte du ministre chargé des transports dont l'installation dépend.
 
 7.4. L’audit initial prévu au point 4 du I du chapitre II et au point 3 du I du chapitre III de l’annexe VII est l’examen auquel l’installation et son organisation sont soumises dans le cadre de la demande d’agrément.
 
@@ -104,7 +106,7 @@ APPENDICE 1
 
 Panneau distinctif
 
-Le panneau distinctif d’une installation de contrôle agréée doit être conforme au modèle disponible sur le site internet de l’organisme technique central. Ses dimensions sont de 500 x 500 mm. Le fond du panneau doit être blanc. L’impression est de couleur bleu pantone 293, à l’exception des filets supérieurs et inférieurs encadrant la mention &laquo; sécurité routière &raquo; qui doivent être noirs. L’inscription &laquo; CENTRE DE CONTROLE TECHNIQUE DES VEHlCULES DE CATEGORIE L &raquo; doit être en caractères univers 65 (hauteur 15 mm). L’inscription “Agrément n° 88888888” doit être en caractères univers 55 (hauteur 10 mm).
+Le panneau distinctif d’une installation de contrôle agréée doit être conforme au modèle disponible sur le site internet de l’organisme technique central. Ses dimensions sont de 500 x 500 mm. Le fond du panneau doit être blanc. L’impression est de couleur bleu pantone 293, à l’exception des filets supérieurs et inférieurs encadrant la mention " sécurité routière " qui doivent être noirs et des inscriptions " CENTRE DE CONTRÔLE TECHNIQUE DES VEHICULES DE CATÉGORIE L " et " Agrément n° 88888888 " qui peuvent être noirs. L’inscription " CENTRE DE CONTROLE TECHNIQUE DES VEHlCULES DE CATEGORIE L " doit être en caractères univers 65 (hauteur 15 mm). L’inscription " Agrément n° 88888888 " doit être en caractères univers 55 (hauteur 10 mm).
 
 NOTA :
 
