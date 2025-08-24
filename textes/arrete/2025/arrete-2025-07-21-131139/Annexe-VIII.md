@@ -1,0 +1,47 @@
+# Article Annexe VIII
+
+ANNEXE VIII
+
+OBJECTIFS DE FORMATION ET ORGANISATION DES ENSEIGNEMENTS DE LANGUE VIVANTE ÉTRANGÈRE DE LA CLASSE PRÉPARATOIRE SCIENTIFIQUE D'ATS INGÉNIERIE INDUSTRIELLE
+
+L'enseignement de langue vivante en classe préparatoire scientifique d'adaptation de techniciens supérieurs (ATS) constitue un volet essentiel de la formation générale. La raison en est claire : les échanges et relations auxquels sont appelés les ingénieurs, cadres, enseignants et chercheurs ont une dimension internationale et interculturelle.
+
+Objectifs de formation
+
+Le niveau de compétence du cadre européen commun de référence pour les langues (CECRL) ciblé en fin d'année de classe préparatoire ATS est B2 pour l'ensemble des activités langagières. L'enseignement de langue vivante doit permettre aux étudiants qui ont déjà atteint le niveau B2 dans une ou plusieurs activités langagières de viser les niveaux supérieurs dans les autres.
+
+L'étude d'une langue vivante en classe préparatoire scientifique ATS a comme objectifs :
+
+- de consolider et d'approfondir les compétences acquises dans le second degré et les années d'études supérieures préalables à l'admission en classe préparatoire scientifique ATS sur le plan linguistique et culturel ;
+
+- de faire travailler la langue en contexte sur la base de supports variés pour renforcer la compétence linguistique ;
+
+- de faire acquérir aux étudiants un niveau plus élevé de compréhension et d'expression, tant à l'écrit qu'à l'oral ; le développement des compétences orales et oratoires en langue vivante - prise de parole en continu et en interaction - fait l'objet d'une attention particulière et d'un entraînement régulier ;
+
+- d'assurer la mise en place des repères culturels indispensables à la connaissance de la civilisation et de la culture des pays concernés, de façon à éclairer les réalités économiques, sociales, politiques et culturelles du monde contemporain ; les avancées comme les enjeux scientifiques et technologiques font l'objet d'une attention particulière ;
+
+- d'apprendre à utiliser des ouvrages et des outils de référence, d'approfondir les compétences acquises précédemment pour rechercher, sélectionner et exploiter des documents. Les ressources et outils numériques sont utilisés avec profit ;
+
+- d'entraîner à l'activité langagière de médiation afin d'acquérir des compétences essentielles en milieu professionnel (présenter, exposer, expliquer, expliciter, rendre compte, résumer, reformuler, synthétiser, traduire, etc.).
+
+L'enseignement de langue vivante doit également permettre aux étudiants d'obtenir un score correspondant au moins au niveau B2 du CECRL dans les tests standardisés internationaux de maîtrise de la langue, comme le TOEIC, pour l'anglais.
+
+Organisation des enseignements
+
+Dans ce cadre général, la première période de l'année de classe préparatoire ATS a une fonction essentielle : rendre plus homogène le niveau des étudiants en tenant compte de leur parcours antérieur en langue vivante. A cet égard, une utilisation souple des heures d'interrogation orale réglementairement prévues est envisagée pour répondre aux besoins des étudiants en fonction de leurs acquis à l'arrivée en classe préparatoire ATS.
+
+Pour cela, la première période de l'année de classe préparatoire ATS doit être axée sur :
+
+- un travail de la langue et sur la langue en contexte ;
+
+- l'accès progressif à une compréhension fine, à l'écrit comme à l'oral ;
+
+- l'acquisition d'une expression maîtrisée et adéquate ;
+
+- l'acquisition d'une méthode adaptée aux différents savoir-faire visés.
+
+Dans le cadre de la liberté pédagogique, le professeur choisit ses méthodes et sa progression. Il organise son enseignement en suivant deux principes directeurs :
+
+a) Le professeur choisit le contexte, les problématiques et les méthodes qui favorisent les apprentissages et diversifie les modes d'acquisition des savoirs et des compétences. Il explicite pour les élèves les objectifs poursuivis, les méthodes utilisées et les critères d'évaluation ;
+
+b) Le professeur privilégie la mise en activité des étudiants : l'acquisition des connaissances et des capacités est d'autant plus efficace que les étudiants sont acteurs de leur formation. Ils sont amenés à manipuler la langue, les notions et les concepts en exerçant leur esprit critique. La pédagogie mise en œuvre développe la participation, la prise d'initiative et l'autonomie des étudiants.

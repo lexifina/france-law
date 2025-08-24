@@ -1,0 +1,35 @@
+# Article Annexe VII
+
+ANNEXE VII
+
+OBJECTIFS DE FORMATION ET PROGRAMME DE FRANÇAIS ET PHILOSOPHIE DE LA CLASSE PRÉPARATOIRE SCIENTIFIQUE D'ATS INGÉNIERIE INDUSTRIELLE
+
+I. - Objectifs de formation
+
+Commun à toutes les classes préparatoires scientifiques, cet enseignement, qui concerne à part égale les lettres et la philosophie, est partie constituante de la formation générale des étudiants. Sa finalité est de former l'esprit à une réflexion autonome et éclairée par la lecture ample et directe des grands textes et par la pratique de la dissertation, qui apprend à l'étudiant à s'interroger, à conduire une pensée cohérente et à exploiter d'une manière pertinente ses lectures. Il poursuit trois objectifs majeurs :
+
+1. Il vise à développer leur maîtrise de l'expression écrite et orale ainsi que leur aptitude à communiquer, compétences indispensables pour leur future vie professionnelle.
+
+Le travail méthodique sur des textes extraits ou non du programme par l'exercice de la lecture et du résumé, sollicite leurs qualités de compréhension et de reformulation, les conduit à identifier diverses stratégies de communication, à hiérarchiser des informations d'origines variées et à savoir en proposer une présentation structurée, leur apprend à entrer dans un système d'argumentation et à en apprécier la pertinence.
+
+La pratique des interrogations orales leur donne l'occasion de s'exercer à présenter un sujet, d'argumenter avec rigueur, de se mettre à l'écoute d'un interlocuteur et de renforcer leur aptitude au dialogue.
+
+2. Il les entraîne à approfondir leur réflexion personnelle et leur sens critique en sollicitant leurs capacités de comprendre une problématique large ou limitée, d'imaginer des solutions, de mobiliser rapidement leurs connaissances et de savoir choisir avec discernement des arguments convaincants.
+
+3. Il leur permet, par la lecture des œuvres inscrites au programme, d'enrichir leur culture et de mieux comprendre le monde dans lequel ils vivent, grâce à un choix obéissant aux critères suivants :
+
+- qualité d'écriture ;
+
+- richesse, attrait et signification des œuvres ;
+
+- variété des genres ;
+
+- présence d'une œuvre traduite.
+
+Il invite les étudiants à confronter sur un même thème des points de vue diversifiés et à en tirer profit pour leur formation personnelle.
+
+II. - Programme
+
+Durant l'année de préparation, l'enseignement prend appui notamment sur un thème étudié dans deux œuvres littéraires et philosophiques.
+
+Ce thème et les œuvres correspondantes sont fixés pour un an par arrêté.
