@@ -1,0 +1,9 @@
+# Réponse à la question n° 4449
+
+- Question : [4449](4449.md) — Question n° 4449 — Procédure d'alerte des entreprises en difficulté
+
+## Réponse
+
+*JO du 2025-08-26, page 7404*
+
+Dans les entités dans lesquelles il est nommé, le commissaire aux comptes a l'obligation de déclencher l'alerte lorsqu'il relève, à l'occasion de l'exercice de sa mission, des faits de nature à compromettre la continuité de l'exploitation. Cette alerte prend la forme d'un avertissement aux dirigeants sur les risques de défaillance, voire du président du tribunal compétent. Ainsi que le rappelle la question écrite, la loi n'a pas mis à la charge de l'expert-comptable un devoir d'alerte similaire à celui du commissaire aux comptes. Le rapport de juin 2018, sur « L'avenir de la profession des commissaires aux comptes (CAC) », commandé par le Gouvernement faisait état des réserves de l'Ordre des Experts-Comptables (OEC) quant à l'instauration d'un mécanisme d'alerte similaire à celui existant pour les commissaires aux comptes, du fait de la relation contractuelle qui existe entre les experts-comptables et leurs clients. En effet, l'expert-comptable est avant tout en position d'assistance et de conseil dans le cadre d'une relation contractuelle et ses obligations professionnelles le lient à son mandant et non aux tiers. C'est une différence majeure entre le tiers de confiance qu'est l'expert-comptable pour le chef d'entreprise et la notion de tiers de confiance indépendant, comme le commissaire aux comptes. En revanche, le développement de bonnes pratiques comme l'« alerte contractuelle » vis-à-vis du dirigeant pourrait être encouragée, et faire l'objet d'une recommandation par les instances professionnelles. Cette piste d'amélioration s'incrit dans les réflexions du Gouvernement sur l'amélioration de la politique de prévention des défaillances des entreprises.
