@@ -1,0 +1,9 @@
+# Réponse à la question n° 2764
+
+- Question : [2764](2764.md) — Question n° 2764 — Déploiement de brouilleurs de drones dans les centres pénitenciers
+
+## Réponse
+
+*JO du 2025-08-26, page 7380*
+
+La lutte contre les drones malveillants constitue l'une des priorités de la direction de l'administration pénitentiaire (DAP). Depuis 2016, la DAP est associée à des groupes de réflexion sur l'identification de la menace et la neutralisation des drones malveillants initiés par le secrétariat général de la défense et de la sécurité nationale (SGDSN). Ils œuvrent conjointement à : La définition et la circonscription de la menace ; La poursuite de la réflexion relative aux solutions techniques et technologiques pour la lutte anti-drone (LAD) ; L'élaboration du cadre juridique de la LAD ; L'élaboration des règles de neutralisation de la menace. La politique de lutte contre les drones malveillants mise en œuvre par les services de l'administration pénitentiaire a pour objectif de détecter les drones et leurs télépilotes, caractériser et analyser la menace, ainsi qu'empêcher et neutraliser la progression des drones sur le domaine pénitentiaire. Un plan volontariste de déploiement des dispositifs anti-drones est en cours et vise notamment à équiper les établissements pénitentiaires particulièrement exposés à ce problème. A ce titre, grâce aux deux marchés successifs de 2019 et 2021 de lutte anti-drone, une cinquantaine de dispositifs ont été commandés jusqu'à la fin de l'année 2024, pour un montant total cumulé de 22 millions d'euros, incluant la maintenance, et une dizaine seront déployés avant la fin de l'année 2025. Deux équipements supplémentaires ont été commandés en avril 2025. Un nouveau marché est en cours de rédaction afin de pouvoir porter le nombre de sites équipés à 90 sites à partir de 2026.
