@@ -1,0 +1,9 @@
+# Réponse à la question n° 5103
+
+- Question : [5103](5103.md) — Question n° 5103 — Publicité de la dissolution du PACS par mariage
+
+## Réponse
+
+*JO du 2025-08-26, page 7419*
+
+L'article 515-7 du code civil prévoit, d'une part, que le pacte civil de solidarité se dissout par le mariage des partenaires ou de l'un d'eux (alinéa 1er), et, d'autre part, que l'officier de l'état civil du lieu d'enregistrement du pacte civil de solidarité (PACS), informé du mariage par l'officier de l'état civil qui a procédé à la célébration du mariage, enregistre la dissolution et fait procéder aux formalités de publicité. A cette fin, les articles 3 et 6 du décret n° 2006-1806 du 23 décembre 2006 relatif à la déclaration, la modification, la dissolution et la publicité du pacte civil de solidarité prévoient que l'officier de l'état civil du lieu d'enregistrement du pacte civil de solidarité informe les deux partenaires du mariage et avise, sans délai, l'officier de l'état civil détenteur de l'acte de naissance de chaque partenaire afin qu'il soit procédé aux formalités de publicité. Ces dispositions ne distinguent pas selon que le mariage ayant entraîné la dissolution du PACS est celui des deux partenaires entre eux, ou de l'un des deux partenaires avec un tiers. Dans le même sens, la circulaire du 10 mai 2017 de présentation des dispositions en matière de pacte civil de solidarité (p. 20), qui rappelle cette obligation d'information et d'avis en cas de dissolution du PACS par mariage n'opère pas davantage de distinction. Dès lors, il incombe à l'autorité ayant enregistré la dissolution de PACS d'adresser aux partenaires un courrier d'information pour les informer de la dissolution de leur PACS, y compris en cas de mariage des partenaires entre eux. Cette information permet de leur confirmer le bon enregistrement de la dissolution du PACS et, le cas échéant, de leur confirmer qu'il a bien pris fin par le mariage.
