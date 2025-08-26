@@ -1,0 +1,9 @@
+# Réponse à la question n° 4908
+
+- Question : [4908](4908.md) — Question n° 4908 — Obligation alimentaire des petits-enfants dans le cadre de l'ASH
+
+## Réponse
+
+*JO du 2025-08-26, page 7416*
+
+Traduction juridique de la solidarité familiale, les enfants sont tenus à une obligation alimentaire envers leurs parents qui sont dans le besoin ainsi qu'envers leurs autres ascendants, les petits-enfants étant à ce titre des obligés alimentaires envers leurs grands-parents se trouvant dans le besoin (article 205 du code civil). La loi n° 2024-317 du 8 avril 2024 portant mesures pour bâtir la société du bien-vieillir et de l'autonomie n'a pas modifié l'article 205 du code civil, les petits-enfants restent donc débiteurs d'aliments vis-à-vis de leurs ascendants. Le seul aménagement qui a été introduit par cette même loi concerne le financement du logement pour lequel une demande d'aide sociale à l'hébergement (ASH) a été formée pour le compte de l'un de leurs grands-parents. Les petits-enfants ne sont alors pas tenus de contribuer au financement de ce logement (article L. 132-6 du code de l'action sociale et des familles). En revanche, dans cette situation, une obligation alimentaire peut être mise à leur charge pour contribuer aux autres dépenses exposées par le grand-parent bénéficiaire de l'ASH. Cette décharge automatique des petits-enfants, qui résulte tant des travaux préparatoires de la loi n° 2024-317 du 8 avril 2024, que des dispositions claires de l'article L. 132-6 du code de l'action sociale et des familles, a également fait l'objet d'un rappel dans le site officiel d'informations de l'administration Service-Public.fr, afin de garantir son application effective sur l'ensemble du territoire national. Dès lors, tant l'intelligibilité des dispositions en question que la campagne d'information mise en place à la suite de cette réforme, sont de nature à assurer une application effective et uniforme de celle-ci.
