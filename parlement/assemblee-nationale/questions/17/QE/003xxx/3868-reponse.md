@@ -1,0 +1,9 @@
+# Réponse à la question n° 3868
+
+- Question : [3868](3868.md) — Question n° 3868 — Accès aux adresses personnelles de copropriétaires par le conseil syndical
+
+## Réponse
+
+*JO du 2025-08-26, page 7391*
+
+Les noms des copropriétaires, leurs adresses physiques ainsi que leurs adresses dématérialisées sont des données personnelles. En tant que telles, leur traitement doit s'effectuer conformément au règlement général sur la protection des données (RGPD). Pour autant, le RGPD n'interdit pas le traitement de ces données, il l'encadre en l'entourant de conditions et de garanties. Ainsi, pour ce qui concerne la gestion et l'administration de la copropriété par un conseil syndical de copropriété, le syndic comme le conseil syndical doivent s'assurer que les traitements de ces données sont licites. Comme le rappelle la CNIL, dans le cadre de ses fonctions, le syndic doit transmettre au conseil syndical, lorsqu'il le lui demande, tout document relatif à l'administration de la copropriété (article 21 de la loi du 10 juillet 1965). Comme il s'agit d'une obligation légale, le syndic ne peut pas s'y soustraire, en particulier si l'objet de la demande est de convoquer une assemblée générale. Cette communication n'est pas, en elle-même, contraire au règlement général sur la protection des données (RGPD). En outre, lorsque le syndic communique des documents aux membres du conseil syndical, il lui est recommandé de leur rappeler la nécessité de respecter la confidentialité des informations transmises dans le cadre de leurs fonctions. Par conséquent, pour autant que le traitement s'opère dans le cadre des fonctions du conseil syndical, un refus général de communiquer ces données, fondé sur le RGPD, n'apparaît pas justifié dès lors que les droits des personnes concernées sont mis en œuvre, en particulier leur droit d'information et d'opposition au traitement.
