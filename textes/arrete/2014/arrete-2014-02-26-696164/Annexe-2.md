@@ -60,7 +60,7 @@ Tapissier en garniture
 
 1. Garniture à lame de couteau à des dimensions données, sans toile blanche, dossier en reps ou en tissu tapisserie, d'une chaise d'après un modèle choisi (vingt heures).
 
-2. Levé de plan, terre et mural à l'échelle, d'une pièce des immeubles du Mobilier national aux fins de pose d'un tapis moquette, d'une tenture murale et de rideaux de croisée (six heures).
+2. Levé de plan, terre et mural à l'échelle, d'une pièce des immeubles d'un établissement du ministère de la culture aux fins de pose d'un tapis moquette, d'une tenture murale et de rideaux de croisée (six heures).
 
 |
 
