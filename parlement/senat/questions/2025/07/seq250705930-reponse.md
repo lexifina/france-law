@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250705930
+
+- Question : [SEQ250705930](seq250705930.md) — Complétude des déploiements des réseaux en fibre optique
+
+## Réponse
+
+*Industrie et énergie, JO du 2025-08-28, page 4697*
+
+L'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse (Arcep) est une autorité administrative indépendante (AAI). Le statut général des AAI est prévu par la loi n° 2017-55 du 20 janvier 2017. Cette loi prévoit que « dans l'exercice de leur attribution, les membres des autorités administratives indépendantes [...] ne reçoivent ni ne sollicitent d'instruction d'aucune autorité ». La compétence de l'Arcep en matière de régulation des opérateurs communications électroniques et l'indépendance dans l'exercice de celle-ci impliquent que le Gouvernement n'a pas vocation à commenter les décisions prises par l'Autorité. Par ailleurs, l'article L.34-8-3 du code des postes et des communications électroniques, instituant une série d'obligations s'agissant des droits d'accès aux boucles locales optiques, prévoit effectivement qu'« en vue d'assurer la cohérence des déploiements et une couverture homogène des zones desservies, l'autorité peut préciser, de manière objective, transparente, non discriminatoire et proportionnée, les modalités de l'accès prévu au présent article, y compris les niveaux de qualité de service associés à cet accès ». C'est donc en application de cet article que l'Arcep a défini par sa décision n° 2010-1312 la notion de « complétude des déploiements », qu'elle a eu l'occasion de préciser par des recommandations et décisions ultérieures. Ainsi, la complétude et les obligations qui y sont associées relèvent du pouvoir de régulation de l'Arcep, prévu à l'article précité. Ces décisions de l'Arcep n'ont pas vocation à être précisées par acte règlementaire.
