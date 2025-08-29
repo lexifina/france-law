@@ -60,6 +60,6 @@ Pour les candidats ayant choisi d'effectuer ce type d'épreuve, la note maximale
 
 Il s'agit de réaliser un relevé de buste.
 
-La position de départ est d'être allongé sur le dos, mains au contact du sol derrière la tête, jambes fléchies, genoux écartés, plantes de pieds jointes. Le candidat doit, tout en maintenant les pieds joints, toucher le sol devant les pieds avec ses mains ; puis revenir à la position de départ. Il doit effectuer un maximum de répétitions en une minute.
+La position de départ est d'être allongé sur le dos, mains au contact du sol derrière la tête, jambes fléchies, genoux écartés, plantes de pieds jointes. Le candidat doit, tout en maintenant les pieds joints, toucher le sol devant les pieds avec ses mains ; puis revenir à la position de départ. Les pieds et le bassin doivent rester en contact permanent avec le sol. Aucun moyen ne peut être utilisé pour maintenir les pieds joints. Il doit effectuer un maximum de répétitions en une minute.
 
 Tout candidat qui interrompt les épreuves sportives peut être, sur décision du président de la commission des épreuves sportives du concours concerné, autorisé à passer ces épreuves avec une autre session, obligatoirement avant la fin des épreuves d'admission. Il doit alors réaliser la totalité des épreuves sur cette nouvelle série. Il ne conserve pas le bénéfice des épreuves déjà effectuées.
