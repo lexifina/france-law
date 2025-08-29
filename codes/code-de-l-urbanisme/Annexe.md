@@ -84,9 +84,9 @@ d) Réseaux de chaleur et de froid.
 
 Servitudes relatives aux canalisations de transport et de distribution de chaleur et de froid instituées en application des articles L. 721-1 et suivants du code de l'énergie.
 
-B. – Mines et carrières.
+B. – Géothermie, mines et carrières.
 
-Périmètres à l'intérieur desquels sont applicables les dispositions des articles L. 153-3 à L. 153-8, L. 153-14 et L. 153-15 du code minier ;
+Périmètres à l'intérieur desquels sont applicables les dispositions des articles L. 153-3 à L. 153-8, L. 153-14 et L. 153-15 du code minier, y compris en application des articles L. 156-1, L. 322-1 et L. 333-1 de ce même code ;
 
 C. – Canalisations.
 
@@ -221,7 +221,3 @@ Servitudes d'utilité publique relatives à la sécurité et à la prévention d
 Servitudes relatives à la sécurité et à la prévention des risques pour les stockages souterrains de gaz naturel, d'hydrocarbures liquides, liquéfiés ou gazeux, d'hydrogène ou de produits chimiques à destination industrielle ou énergétique instituées en application de l'article L. 264-1 du code minier.
 
 Un arrêté du ministre chargé de l'urbanisme fixe la légende des différentes servitudes d'utilité publique figurant sur cette liste.
-
-NOTA :
-
-Conformément à l’article 7 du décret n° 2024-1022 du 13 novembre 2024 (NOR : TECP2409386D), ces dispositions entrent en vigueur le 1er janvier 2025.
