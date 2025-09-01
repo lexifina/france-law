@@ -40,13 +40,13 @@ Basse-Terre |
 
 Saint-Martin |
 
-1° Sous réserve des 2° et 3°, affaires civiles et pénales de la compétence du tribunal judiciaire à l'exception de celles relevant des fonctions visées au premier alinéa de l'article 28-3 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature ;
+1° Sous réserve des 2°, 3° et 4°, affaires civiles et pénales de la compétence du tribunal judiciaire à l'exception de celles relevant des fonctions visées au premier alinéa de l'article 28-3 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature ;
 
 2° Fonctions relevant de la compétence du juge des enfants et présidence du tribunal pour enfants lorsque cette juridiction tient ses audiences au siège de la chambre de proximité ;
 
-3° Fonctions relevant de la compétence du juge des libertés et de la détention.
+3° Fonctions relevant de la compétence du juge des libertés et de la détention ;
 
-|
+4° Fonctions relevant de la compétence du juge de l'application des peines. |
 
 Besançon |
 
@@ -166,4 +166,4 @@ Guingamp |
 
 NOTA :
 
-Conformément à l’article 2 du décret n° 2021-887 du 2 juillet 2021, ces dispositions sont applicables aux saisines du juge des enfants introduites à compter du 1er septembre 2021.
+Conformément à l’article 2 du décret n° 2025-809 du 13 août 2025, ces dispositions, dans leur rédaction issue de l'article 1er dudit décret, entrent en vigueur à compter du 1er septembre 2025 et sont applicables aux saisines du juge de l'application des peines introduites à compter de cette date, dans les limites du ressort de la chambre de proximité de Saint-Martin.
