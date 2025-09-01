@@ -144,7 +144,7 @@ Ce suivi est réalisé sur la base du tableau de suivi complété, pour l'ensemb
 
 -aux bureaux des ressources humaines des directions générales de tutelle et au service des ressources humaines du ministère de la culture d'assurer un état du traitement des signalements impliquant des agents ;
 
--à la délégation générale à la transmission, aux territoires et à la démocratie culturelle d'assurer un état du traitement des signalements impliquant uniquement des étudiants.
+-à la direction générale de la démocratie culturelle, des enseignements et de la recherche d'assurer un état du traitement des signalements impliquant uniquement des étudiants.
 
 IV. 3.-Une " entrée unique " dédiée au sein du service des ressources humaines pour le suivi du traitement des situations de violences et de harcèlements sexuels et sexistes
 
@@ -157,3 +157,7 @@ Le référent " signalement ", au sein du service des ressources humaines du sec
 (3) Le pouvoir disciplinaire appartient à l'autorité investie du pouvoir de nomination.
 
 Le ministère de la culture (MC) détient par principe le pouvoir disciplinaire sur l'ensemble des agents fonctionnaires et contractuels dont il est l'autorité de nomination. Il est, par délégation de pouvoir, fait exception au principe pour les sanctions disciplinaires du 1er groupe (l'avertissement et le blâme), infligées aux fonctionnaires affectés en services déconcentrés (DRAC), et dans certains établissements publics recrutant des agents en propre assurent directement la gestion de la procédure disciplinaire, dans le respect de la réglementation applicable à la situation de l'agent.
+
+NOTA :
+
+Conformément à l'article 9 du décret n° 2025-858 du 27 août 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 1er septembre 2025.
