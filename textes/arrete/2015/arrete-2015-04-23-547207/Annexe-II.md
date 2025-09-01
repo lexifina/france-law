@@ -160,10 +160,14 @@ Directeur du SID Expertise et production nationale |
 
 P. 144, P. 146, P. 169, P. 178, P. 212 |
 
-Directeur du service Ingénierie Contractuelle et Logistique |
+Directeur du centre d'Ingénierie Contractuelle et Logistique |
 
 P. 144, P. 146, P. 169, P. 178, P. 212 |
 
 Directeur du service des pensions et des risques professionnels |
 
 P. 169, P. 212 |
+
+NOTA :
+
+Conformément à l'article 19 de l'arrêté du 6 août 2025 (NOR : ARMD2520214A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur le 1er septembre 2025.

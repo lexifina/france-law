@@ -2,13 +2,29 @@
 
 ORGANISMES OU AUTORITÉS
 
-dont relèvent les personnes habilitées |
+dont relèvent les personnes habilitées
+
+|
 
 PERSONNES HABILITÉES |
 
 MONTANT MAXIMUM
 
-DES MARCHÉS (1) |
+DES MARCHÉS (1)
+
+|
+
+Organismes relevant directement du ministre de la défense |
+
+Commissariat au numérique de défense |
+
+Directeurs des directions zonales du commissariat au numérique de défense de Toulon et de Brest |
+
+Sans limitation |
+
+Directeur du centre d'ingénierie contractuelle et logistique |
+
+Sans limitation |
 
 Directions et services relevant du chef d'état-major des armées |
 
@@ -23,16 +39,6 @@ Direction centrale de la direction de la maintenance aéronautique |
 Chefs des structures spécialisées d'achat et de mandatement de la direction de la maintenance aéronautique |
 
 MAPA x 50 |
-
-Direction centrale de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense |
-
-Directeurs des directions interarmées des réseaux d'infrastructure et des systèmes d'information de Toulon et de Brest |
-
-Sans limitation |
-
-Directeur du service ingénierie contractuelle et logistique |
-
-Sans limitation |
 
 Direction centrale du service du commissariat des armées |
 
@@ -192,13 +198,7 @@ Directeur de l'agence de l'innovation de défense |
 
 MAPA x 25 |
 
-Direction des opérations, du maintien en condition opérationnelle et du numérique |
-
-Directeur de l'agence du numérique de défense |
-
-Sans limitation
-
-|
+Direction des opérations |
 
 Chef du service des achats d'armement
 
@@ -309,3 +309,7 @@ MAPA × 10 (10) |
 (11) Délégation limitée aux marchés prévus par la convention de mandat entre le ministre de la défense et le commissariat à l'énergie atomique et aux énergies alternatives.
 
 |
+
+NOTA :
+
+Conformément à l'article 19 de l'arrêté du 6 août 2025 (NOR : ARMD2520214A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur le 1er septembre 2025.

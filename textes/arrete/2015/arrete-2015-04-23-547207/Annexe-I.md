@@ -50,8 +50,6 @@ Directeur de l'unité de management Action 3D |
 
 Directeur de l'unité de management Combat infovalorisé, renseignement, cyber, espace et aéronefs de missions |
 
-Directeur de l'agence du numérique de défense |
-
 .
 
 169. - RECONNAISSANCE ET RÉPARATION EN FAVEUR DU MONDE COMBATTANT, MÉMOIRE ET LIENS AVEC LA NATION |
@@ -212,4 +210,4 @@ Directeur du service industriel de l'aéronautique |
 
 NOTA :
 
-Conformément à l'article 18 de l'arrêté du 23 février 2024 (NOR : ARMD2405335A), ces dispositions entrent en vigueur le 1er mars 2024.
+Conformément à l'article 19 de l'arrêté du 6 août 2025 (NOR : ARMD2520214A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur le 1er septembre 2025.
