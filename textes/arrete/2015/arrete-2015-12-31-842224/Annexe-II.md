@@ -16,8 +16,6 @@ Au cycle 3, les bilans périodiques de l'évolution des acquis scolaires de l'é
 
 En classes de CM1 et CM2, le positionnement de l'élève s'effectue au niveau de chaque composante pour l'enseignement de français - langage oral ; lecture et compréhension de l'écrit ; écriture ; étude de la langue (grammaire, orthographe, lexique) - et l'enseignement de mathématiques - nombres et calcul ; grandeurs et mesures ; espace et géométrie.
 
-3. En classe de 6e, une indication des actions réalisées dans le cadre de l'accompagnement personnalisé, ainsi qu'une appréciation de l'implication de l'élève dans celles-ci.
-
 4. Le cas échéant, la mention et l'appréciation des projets mis en œuvre durant la période dans le cadre du parcours d'éducation artistique et culturelle, du parcours citoyen et, en classe de sixième, du parcours Avenir.
 
 5. Le cas échéant, la mention des modalités spécifiques d'accompagnement en cours mises en place, parmi la liste suivante :
@@ -43,3 +41,7 @@ En classes de CM1 et CM2, le positionnement de l'élève s'effectue au niveau de
 - le nombre de demi-journées d'absences justifiées par les responsables légaux ;
 
 - le nombre de demi-journées d'absences non justifiées par les responsables légaux.
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 10 avril 2025 (NOR : MENE2416134A), ces dispositions entrent en vigueur à compter de la rentrée scolaire 2025.
