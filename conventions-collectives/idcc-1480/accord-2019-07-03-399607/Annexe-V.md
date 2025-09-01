@@ -8,25 +8,25 @@ Agences de presse photographiques
 
 Le journaliste pigiste occupant la fonction de reporter photo, qui collabore avec une agence de presse photographique, peut être rémunéré à la demi-journée ou la journée, en respectant les tarifs minima suivants :
 
-– 72,10 euros bruts minimum la demi-journée ;
+– 73,00 euros bruts minimum la demi-journée ;
 
-– 144,20 euros bruts minimum la journée.
+– 146,00 euros bruts minimum la journée.
 
 Agences de presse écrite
 
 Le journaliste pigiste occupant la fonction de rédacteur-reporter, qui collabore avec une agence de presse écrite, peut être rémunéré au feuillet de 1 500 signes, en respectant le tarif minimum suivant :
 
-– 58 euros bruts minimum le feuillet de 1 500 signes.
+– 60,00 euros bruts minimum le feuillet de 1 500 signes.
 
 Agences de presse radio
 
 Le journaliste pigiste occupant la fonction de rédacteur/ reporter/ présentateur, qui collabore avec une agence de presse radio, peut être rémunéré à l'acte ou à la journée, en respectant les tarifs minima suivants :
 
-– 46,35 euros bruts minimum la fourniture d'un son ;
+– 47,00 euros bruts minimum la fourniture d'un son ;
 
-– 51,50 euros bruts minimum la fourniture d'un papier ;
+– 52,00 euros bruts minimum la fourniture d'un papier ;
 
-– 103,00 euros bruts minimum la journée de journaux radio, inférieure ou égale à 6 heures de travail. Ce montant est porté à 118,45 euros bruts minimum si la journée est supérieure à 6 heures de travail.
+– 103,82 euros bruts minimum la journée de journaux radio, inférieure ou égale à 6 heures de travail. Ce montant est porté à 119,40 euros bruts minimum si la journée est supérieure à 6 heures de travail.
 
 Les termes “ son ” et “ papier ” peuvent faire l'objet d'une définition notamment par accord d'entreprise.
 
@@ -34,10 +34,10 @@ Agences de presse audiovisuelle
 
 • Cas n° 1 : le journaliste pigiste occupant la fonction de reporter vidéo ou JRI, qui collabore avec une agence de presse audiovisuelle ayant conclu avec un diffuseur audiovisuel soit un contrat de correspondance locale ou régionale, soit un contrat de fourniture d'éléments audiovisuels d'informations (EAI) relatifs à l'actualité intervenant dans une zone géographique déterminée, peut être rémunéré à la journée, en respectant les tarifs minima suivants :
 
-– 103,00 euros bruts minimum la journée ;
+– 103,82 euros bruts minimum la journée ;
 
-– 118,45 euros bruts minimum la journée, si le JRI assure également le commentaire.
+– 119,40 euros bruts minimum la journée, si le JRI assure également le commentaire.
 
 • Cas n° 2 : le journaliste pigiste occupant la fonction de reporter vidéo ou JRI, qui collabore avec une agence de presse audiovisuelle qui n'entre pas dans le cas n° 1, peut être rémunéré à la journée, en respectant le tarif minimum suivant :
 
-– 133,90 euros bruts minimum la journée.
+– 134,97 euros bruts minimum la journée.
