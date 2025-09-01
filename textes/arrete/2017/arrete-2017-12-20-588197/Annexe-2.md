@@ -1,7 +1,105 @@
 # Article Annexe 2
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 112 du 17 mai 2018 accessible à l'adresse : https://www.legifrance.gouv.fr/download/pdf?id=3ylFHYlHl10hIHiBWYwIIP53f7pdosSa8paD-J0ycps=.
+Service de santé
 
-Voies et délais de recours par le salarié ou par l'employeur :
+au travail en agriculture |
 
-Les éléments de nature médicale justifiant le présent avis peuvent être contestés dans un délai de 15 jours à compter de sa notification auprès de la formation des référés du conseil de prud'hommes territorialement compétent (art. 717-25 du code rural et de la pêche maritime).
+AVIS D'APTITUDE
+
+réservé aux travailleurs bénéficiant
+
+d'un suivi individuel renforcé |
+
+Entreprise |
+
+|
+
+Médecin du travail référent |
+
+|
+
+Salarié (e) ou adhérent volontaire |
+
+Nom de naissance :
+
+Date de naissance :
+
+Sexe :
+
+N° de matricule INS (NIR ou NIA) : |
+
+Prénom (s) de naissance :
+
+Lieu de naissance (code INSEE) : |
+
+|
+
+Poste de travail |
+
+Le travailleur sur ce poste bénéficie de mesures individuelles prévues à l'article L. 4624-3 CT :
+
+Oui, depuis le :
+
+Non
+
+Intitulé du poste de travail : |
+
+OU EMPLOI (S) (travailleurs temporaires, salariés de groupements d'employeurs ou saisonniers) |
+
+1. |
+
+2. |
+
+3. |
+
+|
+
+Type d'Examen |
+
+Examen médical d'aptitude à l'embauche (art. R. 717-16-1, R. 717-26-5, R. 717-26-6 CRPM)
+
+Renouvellement de l'examen médical d'aptitude (art. R. 717-16-2 CRPM) |
+
+|
+
+Date de l'examen médical ou de la visite |
+
+Date : Heure d'arrivée : Heure de départ : |
+
+|
+
+Prochain examen ou visite |
+
+A revoir, au plus tard le : |
+
+|
+
+Commentaires, hors mesures individuelles prévues à l'article L. 4624-3 du CT |
+
+|
+
+Nota.-Tous les articles auxquels il est fait référence dans le présent document relèvent soit du code rural et de la pêche maritime (CRPM) soit du code du travail (CT).
+
+Voies et délais de recours par le travailleur ou par l'employeur :
+
+Les avis reposant sur des éléments de nature médicale émis par le médecin du travail peuvent être contestés dans un délai de 15 jours à compter de leur notification auprès du conseil de prud'hommes territorialement compétent (R. 717-25 du CRPM et R. 4624-45 du code du travail)
+
+DATE :
+
+NOM :
+
+QUALITÉ :
+
+MAIL ET TÉLÉPHONE DU SERVICE :
+
+SIGNATURE DU MÉDECIN |
+
+Avis d'aptitude accompagné d'un document faisant état de proposition de mesures individuelles faites par le médecin du travail après échange avec l'employeur
+
+Je reconnais avoir bien reçu l'avis en date du…
+
+SIGNATURE DU TRAVAILLEUR |
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 5 mai 2025 (NOR : AGRS2419783A), les dispositions de l'arrêté précité entrent en vigueur le 1er septembre 2025.
