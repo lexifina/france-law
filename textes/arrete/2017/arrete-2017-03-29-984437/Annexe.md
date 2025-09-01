@@ -134,7 +134,7 @@ Conseiller missions de police au cabinet du directeur général de la police nat
 
 Adjoint au chef d'état-major de la police nationale.
 
-Chef de la mission outre-mer.
+Commandant des outre-mer.
 
 Directeur territorial de la police nationale de Mayotte.
 
@@ -203,6 +203,8 @@ Chef du service juridique.
 3. Académie de police :
 
 Sous-directeur de la pédagogie.
+
+Sous-directeur du recrutement et des établissements de formation.
 
 4. Inspection générale de la police nationale :
 
@@ -328,4 +330,4 @@ Conseiller technique chargé des affaires de police.
 
 NOTA :
 
-Conformément à l’article 9 de l'arrêté du 17 janvier 2025 (NOR : INTC2428140A), ces dispositions entrent en vigueur à compter du 20 janvier 2025.
+Conformément à l’article 2 de l’arrêté du 14 août 2025 (NOR : INTC2513797A), les dispositions issues de la rédaction de l’arrêté précité entrent en vigueur à compter du 1er septembre 2025.
