@@ -180,7 +180,7 @@ Un officier du grade de colonel de la branche considérée, à défaut, désign�
 
 Cinq officiers supérieurs désignés par le commandant du soutien opérationnel de la gendarmerie nationale.
 
-Un officier supérieur de chaque service comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur (direction de la coopération internationale de sécurité, commandement de la gendarmerie dans le cyberespace, commandement spécialisé pour la sécurité nucléaire, commandement de la gendarmerie pour les réserves et la jeunesse, service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur, commandement pour l'environnement et la santé, agence du numérique des forces de sécurité intérieure, commandement du ministère de l'intérieur dans le cyberespace).
+Un officier supérieur de chaque service comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur (direction de la coopération internationale de sécurité, , commandement spécialisé pour la sécurité nucléaire, commandement de la gendarmerie pour les réserves et la jeunesse, service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur, commandement pour l'environnement et la santé, agence du numérique des forces de sécurité intérieure, commandement du ministère de l'intérieur dans le cyberespace).
 
 Ces membres sont désignés par le directeur des ressources humaines de la gendarmerie nationale. |
 
@@ -216,19 +216,19 @@ L'officier supérieur le plus ancien dans le grade le plus élevé parmi les mem
 
 Les chefs d'état-major, les chefs des forces, les chefs de division ou de centre et le chef du détachement gendarmerie du groupe de sécurité de la présidence de la République. |
 
-Personnel servant au sein du pôle judiciaire de la gendarmerie nationale. |
+Personnel servant au sein de l'unité nationale de police judiciaire de la gendarmerie nationale. |
 
-L'adjoint au commandant du pôle judiciaire de la gendarmerie nationale. |
+L'adjoint au commandant de l'unité nationale de police judiciaire de la gendarmerie nationale. |
 
-L'officier supérieur le plus ancien dans le grade le plus élevé du pôle judiciaire de la gendarmerie nationale (1). |
+L'officier supérieur le plus ancien dans le grade le plus élevé de l'unité nationale de police judiciaire de la gendarmerie nationale (1). |
 
 Le directeur de l'institut de recherche criminelle de la gendarmerie nationale ou le directeur adjoint de l'institut de recherche criminelle de la gendarmerie nationale par suppléance.
 
 Le commandant du service central de renseignement criminel de la gendarmerie nationale ou l'adjoint au commandant du service central de renseignement criminel de la gendarmerie nationale par suppléance.
 
-Un officier supérieur du pôle judiciaire désigné par le commandant du pôle judiciaire de la gendarmerie nationale. |
+Un officier supérieur du pôle judiciaire désigné par le commandant de l'unité nationale de police judiciaire de la gendarmerie nationale. |
 
-(1) Sauf le commandant du pôle judiciaire de la gendarmerie nationale et le commandant en second du pôle judiciaire de la gendarmerie nationale. |
+(1) Sauf le commandant de l'unité nationale de police judiciaire de la gendarmerie nationale et le commandant en second de l'unité nationale de police judiciaire de la gendarmerie nationale. |
 
 4. Spécialités :
 
@@ -238,9 +238,7 @@ PRÉSIDENCEde la commission titulaire
 
 |
 
-PRÉSIDENCEde
-
-la commission suppléante
+PRÉSIDENCEde la commission suppléante
 
 |
 
@@ -275,3 +273,7 @@ Le sous-directeur de la gestion du personnel. |
 L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel. |
 
 Un officier supérieur de la direction générale de la gendarmerie nationale et un ou plusieurs officiers désignés comme conseillers pour la spécialité considérée désignés tous deux par le directeur des ressources humaines de la gendarmerie nationale. |
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 20 août 2025 (NOR : INTJ2523588A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er septembre 2025.
