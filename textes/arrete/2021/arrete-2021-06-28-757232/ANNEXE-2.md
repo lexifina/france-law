@@ -94,7 +94,7 @@ Sous-direction des ressources humaines et des relations sociales |
 
 Chef du bureau des affaires statutaires et de l'organisation du dialogue social |
 
-Chef du bureau de la gestion des personnels |
+Chef du bureau de la gestion des corps communs |
 
 Sous-direction du pilotage et du soutien des services |
 
@@ -113,3 +113,7 @@ Chef du bureau des relations sociales et des statuts |
 Chef du bureau de l'encadrement |
 
 Chef du bureau du recrutement et de la formation |
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 27 août 2025 (NOR : JUST2524056A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er septembre 2025.
