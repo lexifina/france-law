@@ -872,162 +872,6 @@ Conformément à l’article 3 de l’arrêté du 12 juillet 2022 (NOR : ENER221
 
 Conformément à l’article 5 de du 20 octobre 2016 (NOR : DEVR1627593A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 4 dudit arrêté.
 
-Opération n° BAR-TH-141
-
-Climatiseur performant (France d'outre-mer) |
-
-1. Secteur d'application
-
-Bâtiments résidentiels existants en France d'outre-mer.
-
-2. Dénomination
-
-Remplacement d'un climatiseur existant par un climatiseur fixe, de classe d'efficacité énergétique supérieure ou égale à A.
-
-Les climatiseurs à simple ou à double conduit ne sont pas éligibles.
-
-La présente fiche s'applique aux opérations engagées avant le 1er août 2030.
-
-3. Conditions pour la délivrance de certificats
-
-Le climatiseur est de classe A à A+++, selon la classification définie dans le règlement délégué (UE) n° 626/2011 de la Commission Européenne du 4 mai 2011, individuel (monosplit) ou regroupé (multisplit).
-
-La puissance frigorifique installée est limitée à 2,64 kW (9 000 BTU/h).
-
-Le logement où a lieu l'opération est un appartement.
-
-La mise en place est réalisée par un professionnel.
-
-La preuve de réalisation de l'opération mentionne :
-
-1. La dépose de l'ancien climatiseur ;
-
-2. La mise en place d'un climatiseur ;
-
-3. Sa puissance frigorifique et sa classe d'efficacité énergétique ou le SEER (*).
-
-Par dérogation aux points 2 et 3 ci-dessus, la preuve de réalisation de l'opération mentionne la mise en place d'un équipement avec ses marque et référence et elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
-
-Ce document indique que l'équipement de marque et référence mis en place est un climatiseur et précise sa puissance frigorifique et sa classe d'efficacité énergétique ou à défaut le coefficient d'efficacité énergétique saisonnier (SEER) permettant de déterminer la classe d'efficacité énergétique du climatiseur installé.
-
-4. Durée de vie conventionnelle
-
-9 ans.
-
-5. Montant de certificats en kWh cumac
-
-|
-
-|
-
-Montant en kWh cumac |
-
-Type de logement |
-
-Puissance frigorifique
-
-de l'appareil en kW
-
-(ou BTU/h) |
-
-Classe A
-
-(5,1 ≤ SEER < 5,6) |
-
-Classe A+
-
-(5,6 ≤ SEER < 6,1) |
-
-Classe A++
-
-(6,1 ≤ SEER < 8,5) |
-
-Classe A+++
-
-SEER ≥ 8,5 |
-
-Appartement |
-
-2,05 (7000) |
-
-1 300 |
-
-2 500 |
-
-3 400 |
-
-6 300 |
-
-2,64 (9000) |
-
-1 600 |
-
-2 900 |
-
-4 000 |
-
-7 400 |
-
-Dans le cas où le bénéficiaire remplace dans un logement des climatiseurs existants par plusieurs climatiseurs de caractéristiques et classe d'efficacité identiques, le montant des certificats d'économies d'énergie, calculé par climatiseur, est multiplié par le nombre de climatiseurs.
-
-(*) SEER : Seasonal Energy Efficiency Ratio ou coefficient d'efficacité énergétique saisonnier.
-
-Annexe 1 à la fiche d'opération standardisée BAR-TH-141, définissant le contenu de la partie A de l'attestation sur l'honneur
-
-A/ BAR-TH-141 (v. A71.2) : Remplacement d'un climatiseur existant par un climatiseur fixe, de classe d'efficacité énergétique supérieure ou égale à A
-
-* Date d'engagement de l'opération (ex : date d'acceptation du devis) :
-
-Date de preuve de réalisation de l'opération (ex : date de la facture) :
-
-Référence de la facture :
-
-* Pour les personnes morales : nom du site des travaux ou nom de la copropriété :
-
-* Adresse des travaux :
-
-Complément d'adresse :
-
-* Code postal :
-
-* Ville :
-
-* Bâtiment résidentiel en France d'outre-mer, existant depuis plus de deux ans à la date d'engagement de l'opération :
-
-□ OUI □ NON
-
-* Le logement est un appartement : □ OUI □ NON
-
-Le matériel existant a été déposé préalablement à l'installation du nouveau climatiseur.
-
-Caractéristiques du climatiseur installé :
-
-* L'appareil installé est un climatiseur fixe : □ OUI □ NON
-
-* Classe d'efficacité énergétique du climatiseur :
-
-□ A
-
-□ A+
-
-□ A++
-
-□ A+++
-
-* Puissance frigorifique du climatiseur :
-
-□ 2,05 kW (7 000 BTU/h)
-
-□ 2,64 kW (9 000 BTU/h)
-
-Nombre de climatiseurs de caractéristiques et de classe d'efficacité énergétique identiques installés :
-
-A ne remplir que si les marque et référence du climatiseur ne sont pas mentionnées sur la preuve de réalisation de l'opération :
-
-* Marque :
-
-* Référence :
-
 - Système solaire combiné (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-143
 
 Conformément à l’article 1er de l’arrêté du 21 décembre 2022 (NOR : ENER2235115A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er mars 2023.
@@ -1043,8 +887,6 @@ Conformément à l’article 1er de l’arrêté du 27 juin 2023 (NOR : ENER2315
 - Chauffe-eau thermodynamique à accumulation / Fiche d’opération standardisée n°BAR-TH-148
 
 Conformément au 2° de l’article 5 de l’arrêté du 20 mars 2015 (NOR : DEVR1507213A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 6 dudit arrêté.
-
-- Pompe à chaleur collective à absorption de type air/eau ou eau/eau / Fiche d’opération standardisée n°BAR-TH-150
 
 - Ventilation hybride hygroréglable (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-155
 
@@ -1477,8 +1319,6 @@ Conformément au III de l'article 2 de l'arrêté du 19 décembre 2023 (NOR : EN
 - Chaudière biomasse collective / Fiche d’opération standardisée n°BAR-TH-165
 
 - Pompe à chaleur collective de type air/eau ou eau/eau / Fiche d’opération standardisée n°BAR-TH-166
-
-- Chauffe-bain individuel à haut rendement ou à condensation (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-167
 
 - CERTIFICATS D'ÉCONOMIES D'ÉNERGIE
 
@@ -3914,4 +3754,4 @@ https://www.legifrance.gouv.fr/download/pdf?id=5gAfOAZyNgIh7Fm-Ar17lvaib6Ml9xQU-
 
 NOTA :
 
-Conformément à l’article 1 de l’arrêté du 27 juin 2025 (NOR : ECOR2517481A), la fiche d'opération standardisée portant la référence BAR-TH-160 est supprimée des annexes de l'arrêté du 22 décembre 2014 précité, à compter du 1 er août 2025.
+Conformément à l'article 1er de l’arrêté du 18 août 2025, ces dispositions, dans leur rédaction résultant de l’article précité, entrent en vigueur à compter du 1er septembre 2025.

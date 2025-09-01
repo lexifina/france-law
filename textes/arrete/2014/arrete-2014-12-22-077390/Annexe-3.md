@@ -932,14 +932,6 @@ Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRE
 
 Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté.
 
--Pompe à chaleur à absorption de type air/eau ou eau/eau / Fiche d’opération standardisée n° BAT-TH-140
-
-Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
-
--Pompe à chaleur à moteur gaz de type air/eau / Fiche d’opération standardisée n° BAT-TH-141
-
-Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
-
 Opération n° BAT-TH-142
 
 Système de déstratification d'air (France métropolitaine) |
@@ -1708,4 +1700,4 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 NOTA :
 
-Conformément à l’article 1 de l’arrêté du 27 juin 2025 (NOR : ECOR2517481A), les fiches d'opérations standardisées portant les références BAT-EQ-133, BAT-TH-104, BAT-TH-146, BAT-TH-155 sont supprimées des annexes de l'arrêté du 22 décembre 2014 précité, à compter du 1 er août 2025.
+Conformément à l'article 1er de l’arrêté du 18 août 2025, ces dispositions, dans leur rédaction résultant de l’article précité, entrent en vigueur à compter du 1er septembre 2025.
