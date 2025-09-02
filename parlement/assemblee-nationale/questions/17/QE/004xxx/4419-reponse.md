@@ -1,0 +1,9 @@
+# Réponse à la question n° 4419
+
+- Question : [4419](4419.md) — Question n° 4419 — Obligations d'accompagnement pour les liaisons Passerelle
+
+## Réponse
+
+*JO du 2025-09-02, page 7601*
+
+Dans le cadre du service public de la petite enfance, toutes les initiatives visant à favoriser la continuité entre l'offre d'accueil du jeune enfant et l'école maternelle sont encouragées. Les règles relatives à l'encadrement des enfants accueillis au sein des Etablissements d'accueil du jeune enfant (EAJE) sont établies par le code de la santé publique. Elles portent notamment sur la qualification et l'effectif du personnel chargé de l'encadrement des enfants et visent la sécurité à tout instant de ces derniers. Les sorties des enfants hors de l'établissement et de son espace privatif extérieur sont encadrées par l'article R. 2324-43-2 du Code de la santé publique (CSP). Celui-ci prévoit que l'effectif de personnels encadrant permette d'assurer a minima un rapport d'un personnel pour cinq enfants. Par ailleurs, l'effectif ne peut être inférieur à deux personnels encadrants. Enfin, aux termes de l'article R. 2324-30 du CSP, les établissements doivent se doter d'un protocole détaillant les mesures de sécurité à suivre lors des sorties hors de l'établissement ou de son espace extérieur privatif, dans le respect des règles d'encadrement mentionnées ci-dessus. L'organisation de sorties en-dehors de l'établissement intégrant des liaisons avec les établissements scolaires à proximité relève des sorties visées par ces dispositions du CSP. L'anticipation de leur organisation au sein du protocole détaillant les mesures de sécurité à suivre lors des sorties de l'établissement est de nature à permettre leur maintien ou leur organisation dans le respect des conditions de sécurité prévues par la réglementation.
