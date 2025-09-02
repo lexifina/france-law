@@ -1,0 +1,9 @@
+# Réponse à la question n° 8152
+
+- Question : [8152](8152.md) — Question n° 8152 — Publicité virtuelle dans les manifestations sportives
+
+## Réponse
+
+*JO du 2025-09-02, page 7522*
+
+En ses articles 27 et 33, la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication a confié au pouvoir réglementaire le soin de fixer les règles applicables à la publicité et au parrainage télévisés. Pris en application de ces articles, le décret n° 92-280 du 27 mars 1992 est venu préciser le régime juridique applicable à la publicité et au parrainage télévisés. Le régime fixé par ce décret s'inscrit également dans le cadre des règles minimales posées par la directive 2010/13/UE du 10 mars 2010 « services de médias audiovisuels » en matière de communications commerciales audiovisuelles. Conformément à la possibilité offerte par cette directive, le décret fixe des règles plus strictes. C'est sur ce fondement que la publicité virtuelle est aujourd'hui considérée par l'Autorité de régulation de la communication audiovisuelle et numérique comme de la publicité clandestine alors qu'elle peut être autorisée dans d'autres États membres. L'autorisation de la publicité virtuelle nécessiterait une modification du décret du 27 mars 1992. Elle requerrait également un accord préalable entre éditeurs de services de télévision et organisateurs de compétitions sportives sur la question de la maitrise de cette technique publicitaire et la répartition des revenus qui en découlent. Or, cette question n'est jusqu'à présent pas consensuelle. Par le passé, certains éditeurs ont indiqué que cette autorisation ne pouvait être envisagée qu'à leur profit exclusif. Les professionnels concernés (éditeurs, organisateurs de manifestations ou de compétitions sportives) n'ont, à ce stade, pas formulé de demande auprès du ministère de la culture.
