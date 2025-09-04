@@ -1,0 +1,174 @@
+# Délibération n° 2025-075 du 4 septembre 2025 portant avis sur un projet de décret en Conseil d'Etat portant création de la base de données nationale des agréments en vue d'adoption prévue à l'article L. 225-15-1 du code de l'action sociale et des familles et modifiant les dispositions relatives à la procédure d'agrément en vue d'adoption
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2025-075
+- Date : 2025-09-04
+- Publication : 2025-12-23
+- NOR : CNIX2535145V
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000053056915
+
+N° de demande d'avis : 25007061. |
+
+Thématiques : création de la base de données nationale des agréments en vue d'adoption. |
+
+Organisme(s) à l'origine de la saisine : ministère du travail, de la santé, des solidarités et des familles. |
+
+Fondement de la saisine :
+
+article L. 225-15-1 du code de l'action sociale et des familles. |
+
+L'essentiel :
+
+1. La CNIL estime que le traitement relève de la mission d'intérêt public, à savoir l'intérêt supérieur de l'enfant et de manière plus générale la protection de l'enfance, dont est investie l'agence française de l'adoption conformément aux dispositions de l'article 6.1 e du RGPD et non de l'obligation légale. Elle prend note des observations du ministère selon lesquelles le projet d'article sera modifié en ce sens.
+
+2. Dans la mesure où la CNIL considère que le traitement relève de la mission d'intérêt public, elle invite le ministère à modifier le projet de décret afin de préciser que le droit d'opposition sera écarté en application de l'article 23.1 e du RGPD. Elle rappelle qu'il conviendra de s'assurer que l'ensemble des dispositions mentionnées à l'article 23.2 du RGPD figurent au sein du décret.
+
+3. Elle estime que les mesures mises en place par le ministère pour le traitement des données sensibles répondent aux exigences visées par les dispositions de l'article 9.2 g du RGPD. Elle invite néanmoins le ministère à indiquer explicitement au sein du décret que les pièces justificatives, les documents et évaluations sociale et psychologique exigés par les dispositions réglementaires sont susceptibles de révéler de manière directe ou indirecte des données sensibles.
+
+4. Elle appelle par ailleurs l'attention du ministère sur la nécessité de prévoir les mêmes garanties s'agissant du traitement des données relatives aux infractions, condamnations et mesures de sûreté que celles mises en place pour le traitement des données sensibles.
+
+5. Elle s'interroge, en l'absence de justifications complémentaires, sur la nécessité de conserver les données enregistrées au sein du traitement pour des durées aussi longues et invite le ministère à réduire la conservation de celles-ci tant en base active qu'en archivage intermédiaire.
+
+La Commission nationale de l'informatique et des libertés,
+
+Vu le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données ou RGPD) ;
+
+Vu le code de l'action sociale et des familles, notamment son article L. 225-15-1 ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés ("loi informatique et libertés") ;
+
+Sur la proposition de M. Philippe Latombe, commissaire, et après avoir entendu les observations de M. Damien Milic, commissaire du Gouvernement,
+
+Adopte la délibération suivante :
+
+I. - La saisine
+
+A. - Le contexte
+
+En France, tout candidat à l'adoption d'un enfant français ou étranger doit préalablement obtenir un agrément délivré par le président du conseil départemental de son lieu de résidence.
+
+Le déroulement de la procédure d'agrément en vue d'adoption est fixé par les articles L. 225-2 à L. 225-6 et R. 225-1 à R. 225-8 du code de l'action sociale et des familles (CASF) qui définissent les différentes étapes de la procédure.
+
+Dans le cadre de la délivrance de l'agrément, le président du conseil départemental doit s'assurer du respect des conditions d'accueil offertes par le(s) candidat(s) à l'adoption sur les plans familial, éducatif et psychologique. Aussi, des investigations sont menées par les services de l'aide sociale à l'enfance (ASE) pour évaluer, sous tous leurs aspects (social, santé, matériel, éducatif et psychologique), les conditions d'accueil des enfants privés de parents concernés par un projet d'adoption.
+
+Pour recenser et enregistrer les demandes, les délivrances, les retraits ou les refus d'agréments, chaque département dispose aujourd'hui de son propre système d'information (SI IODAS ou SI SOLIS) ou d'un tableau Excel.
+
+L'article 36 de la loi n° 2022-140 du 7 février 2022 relative à la protection des enfants a prévu la création d'une base nationale mise en œuvre par le Groupement d'intérêt Public "France Enfance Protégée" (ci-après "GIP FEP") recensant les demandes d'agrément en vue d'adoption, les agréments délivrés par les présidents des conseils départementaux ainsi que les refus et retraits de ceux-ci.
+
+L'objectif de cette base est de mettre en œuvre un système d'information similaire auprès de l'ensemble des départements afin de faciliter :
+
+- le suivi des différentes étapes de la procédure de délivrance de la demande d'agrément par le président du conseil départemental ;
+
+- l'information selon laquelle un demandeur a déjà déposé une demande d'agrément auprès d'un autre conseil départemental, s'est vu refuser ou retirer son agrément au sein d'un autre département ;
+
+- la recherche de familles au niveau national dans le cadre des procédures d'apparentement.
+
+B. - L'objet de la saisine
+
+L'article L. 225-15-1 du code de l'action sociale et des familles (CASF) créé par l'article 36 de la loi susvisée prévoit qu'un décret en Conseil d'Etat, pris après avis publié et motivé de la CNIL, encadre la mise en œuvre de la base de données nationale des agréments en vue d'adoption (BDNA) et précise notamment les données enregistrées, leur durée de conservation et les conditions de leur mise à jour, les catégories de personnes pouvant y accéder ou en être destinataires ainsi que les modalités d'exercice des droits des personnes concernées.
+
+II. - L'avis de la CNIL
+
+A. - Sur la base légale
+
+Le I du projet d'article R. 225-52 prévoit que "(…) Ce traitement est nécessaire au respect de l'obligation légale prévue à l'article L. 225-15-1, conformément aux dispositions du c du paragraphe 1 de l'article 6 du RGPD (…)".
+
+Les conditions pour fonder valablement un traitement sur une obligation légale ne sont pas toutes remplies dans la mesure où les dispositions de l'article L. 225-15-1 du CASF ne définissent pas les finalités du traitement concerné. La CNIL estime que le traitement relève de la mission d'intérêt public, à savoir l'intérêt supérieur de l'enfant et, de manière plus générale la protection de l'enfance, dont est investie l'agence française de l'adoption.
+
+La CNIL prend note des observations du ministère selon lesquelles le projet d'article sera modifié afin de préciser que le traitement relève de la mission d'intérêt public dont est investie l'agence française de l'adoption conformément aux dispositions de l'article 6.1° e du RGPD.
+
+B. - Sur les données sensibles
+
+Le I du projet d'article R. 225-53 prévoit la collecte de pièces justificatives prévues à l'article R. 225-3 du CASF ainsi que des documents et évaluations sociale et psychologique établis dans le cadre de l'article R. 225-4 du CASF.
+
+La CNIL relève à cet égard que ces pièces, documents et évaluations sont susceptibles de révéler de manière directe ou indirecte des données sensibles relatives :
+
+- à l'orientation sexuelle via le statut marital des candidats à l'adoption figurant au sein du livret de famille et les évaluations réalisées ;
+
+- aux origines raciales ou ethniques par le recoupement d'informations figurant au sein de l'acte de naissance (nom de famille, lieu de naissance, nationalité), dans le cadre des évaluations réalisées ainsi que du projet d'adoption des candidats et de manière générale via les échanges entre le service adoption et les candidats ;
+
+- à la santé des candidats par la collecte du certificat médical ainsi que lors de la réalisation de l'évaluation psychologique des candidats.
+
+Ces données, dont la collecte découle des informations recueillies, en application d'exigences réglementaires, dans le cadre de la procédure d'agrément, sont utilisées à des fins de bonne instruction des dossiers d'adoption par les agents des départements.
+
+A cet égard, la CNIL prend acte des observations du ministère selon lesquelles l'article R. 225-53 (2° b) du projet de décret sera modifié afin d'ajouter la collecte de nouvelles données concernant les mineurs placés en vue d'adoption pour répondre à la finalité relative au suivi de la réalisation de l'accompagnement prévue par les dispositions de l'article L. 225-18 du CASF (pays de naissance ; la date d'arrivée en France pour un mineur étranger ; une case à cocher s'il s'agit d'un enfant à besoin spécifique ; une case à cocher si c'est l'adoption d'un pupille ou d'un enfant venant de l'étranger ; la date du jugement d'adoption ou la décision étrangère).
+
+Par ailleurs, la CNIL relève que certaines de ces informations sont susceptibles d'être traitées dans le cadre de la production de statistiques relatives à l'agrément en vue d'adoption ainsi qu'à l'adoption, nationale et internationale. A cet égard, elle prend acte de ce que ces statistiques ne porteront pas sur des données sensibles, à l'exception des données portant sur l'orientation sexuelle des candidats aux fins de mesurer d'éventuelles discriminations.
+
+Au total, la CNIL estime que le traitement de ces données est nécessaire, au sens des dispositions de l'article 9.2 g du RGPD, pour un motif d'intérêt public important qu'est l'égalité d'accès à l'adoption, la prévention des discriminations et l'intérêt supérieur de l'enfant telles que prévues par les dispositions des articles L. 224-2 et L. 225-1 à L. 225-10 du CASF.
+
+S'agissant des "mesures appropriées et spécifiques pour la sauvegarde des droits fondamentaux et des intérêts de la personne concernée" requises par l'article 9.2 g du RGPD, le ministère a indiqué :
+
+- qu'en cas de réutilisation des données à des fins statistiques, celles-ci seront pseudonymisées de telle sorte que le risque de réidentification des personnes concernées soit réduit au maximum ;
+
+- qu'aucune décision automatisée ne sera prise sur le fondement de ces données dans la mesure où l'évaluation humaine et collégiale par les tuteurs et conseils de famille demeure déterminante ;
+
+- et enfin que des mesures techniques et organisationnelles (chiffrement, accès restreints, traçabilité, etc.) seront mises en œuvre pour assurer la sécurité et la confidentialité de ces données.
+
+La CNIL estime que ces mesures répondent aux exigences visées par les dispositions de l'article 9.2 g du RGPD.
+
+Elle invite néanmoins le ministère à indiquer explicitement au sein du décret que les pièces justificatives, les documents et évaluations sociale et psychologique exigés par les dispositions réglementaires sont susceptibles de révéler de manière directe ou indirecte des données sensibles.
+
+C. - Sur les données relatives aux infractions, condamnations et mesures de sûreté
+
+Le projet d'article R. 133-7-1 prévoit qu'"Au moment de la confirmation de la demande d'agrément prévue à l'article R. 225-3, le président du conseil départemental vérifie que le demandeur a communiqué une attestation datant de moins de six mois."
+
+Cette attestation, qui a vocation à remplacer les anciennes modalités de vérification des antécédents judiciaires par les départements, est délivrée via le système d'information "honorabilité" du ministère du travail, de la santé, des solidarités et des familles et garantit que la personne concernée n'a pas fait l'objet d'une condamnation inscrite sur son bulletin n° 2 du casier judiciaire ou n'est pas répertoriée au sein du fichier automatisé des auteurs d'infractions sexuelles et violentes (FIJAIVS) l'empêchant ainsi d'intervenir auprès de mineurs.
+
+Aussi, le ministère a indiqué que dans l'hypothèse où des mentions seraient inscrites au sein du bulletin n° 2 du casier judiciaire, celui-ci fera l'objet d'une analyse par les agents du conseil départemental spécifiquement habilités afin de vérifier si ces condamnations entrainent une incapacité d'exercer auprès des mineurs au titre des dispositions de l'article L. 133-6 du CASF. Dans le cas contraire, c'est-à-dire si le bulletin n° 2 du casier judiciaire du candidat à l'adoption ne comporte aucune condamnation, les agents du conseil départemental ne seront pas amenés à le consulter.
+
+La CNIL appelle l'attention du ministère sur la nécessité de prévoir des garanties particulières en raison de l'extrême sensibilité de ces données et notamment la mise en place de mesures de sécurité renforcées ainsi qu'une sensibilisation des agents des départements à leur traitement.
+
+D. - Sur les durées de conservation
+
+Les I et II du projet d'article R. 225-55 énumèrent les différentes durées de conservation applicables aux informations enregistrées au sein du BDNA.
+
+Le projet de décret prévoit des durées de conservation en base active et en archivage intermédiaire plus longues que celles prévues par la circulaire AD 98-6 du 6 juillet 1998 relative au traitement des archives produites dans le cadre de l'aide sociale en faveur des mineurs.
+
+Interrogé sur ce point, le ministère a indiqué que "les durées de conservation ont été arrêtées en concertation avec les départements en tenant compte des obligations juridiques de conservation qui incombent aux services départementaux et des besoins d'information nécessaires à leur bon fonctionnement. Ces durées plus larges permettent aux départements d'avoir un accès direct à leurs dossiers en base active et sur demande lorsque le dossier est en archivage intermédiaire. Cela compte tenu du besoin d'information et en cas de litiges ou de contentieux."
+
+La CNIL s'interroge néanmoins, en l'absence de justifications complémentaires, sur la nécessité de conserver ces données pour des durées aussi longues et invite à cet égard le ministère à réduire la conservation des données tant en base active qu'en archivage intermédiaire.
+
+E. - Sur les destinataires
+
+Le I du projet d'article R. 225-54 prévoit que peuvent accéder au BDNA "Les agents des services départementaux en charge de la procédure d'agrément en vue d'adoption spécialement habilités par le président du conseil départemental ou du conseil exécutif de Corse, pour les dossiers d'agrément de leur ressort territorial."
+
+Les droits d'accès des agents des départements seront configurés de manière à ce qu'ils n'aient accès qu'aux seuls dossiers dont ils ont la charge au sein de leur zone géographique et ponctuellement, en lecture seule, à des dossiers partagés spécifiquement avec d'autres agents de leur département.
+
+Interrogé sur le point de savoir de quelle manière les agents des départements pourront alors s'assurer qu'un candidat à l'adoption n'a pas également réalisé une demande d'agrément auprès d'un autre conseil départemental ou fait l'objet d'un refus ou d'un retrait d'agrément, le ministère a indiqué que "l'application BDNA prévoit une alerte automatique précisant le refus d'agrément au sein d'un autre conseil départemental lorsqu'un nouveau département renseigne une demande d'agrément. Cette alerte fonctionne via le renseignement du nom et de la date de naissance au sein du dispositif."
+
+La CNIL estime que cette alerte permet d'atteindre un des objectifs poursuivis par le traitement, en restreignant au strict minimum les informations communiquées.
+
+F. - Sur l'information et les droits des personnes concernées
+
+Les personnes concernées seront informées de l'ensemble des mentions d'information prévues à l'article 13 du RGPD via la remise d'un document par un agent du conseil départemental lors du premier entretien d'adoption prévu à l'article R. 225-2 du CASF.
+
+Le II du projet d'article R. 225-56 prévoit que les droits d'accès et de rectification prévus par les articles 15 et 16 du RGPD s'exercent auprès du service départemental en charge du dossier de demande d'agrément en vue d'adoption compétent ou du GIP FEP.
+
+Le droit d'opposition est écarté, sur le fondement des dispositions du 1 de l'article 21 du RGPD.
+
+Toutefois, dans la mesure où la CNIL estime que le traitement relève de la mission d'intérêt public dont est investie l'agence française pour l'adoption et non de l'obligation légale, elle précise que ce droit ne peut être écarté sur ce fondement. Elle prend note à cet égard des observations du ministère selon lesquelles le droit d'opposition sera écarté en application de l'article 23.1 e du RGPD dans la mesure où l'égalité d'accès à l'adoption, la prévention des discriminations et l'intérêt supérieur de l'enfant constituent un objectif d'intérêt public général dans le domaine de la sécurité sociale.
+
+Aussi, la CNIL invite le ministère à modifier le projet de décret en ce sens et rappelle qu'il conviendra de s'assurer que l'ensemble des dispositions mentionnées à l'article 23.2 du RGPD figurent au sein du décret.
+
+Elle relève par ailleurs que lorsque le président du conseil départemental n'est pas en mesure de présenter un dossier de personne agréée pour un pupille dont l'adoption est proposée par le préfet, ce dernier peut demander au préfet de tout autre département de consulter les dossiers des personnes agréées dans son département, en lui transmettant toutes informations utiles sur la situation du pupille concerné.
+
+Les candidats à l'adoption seront néanmoins en mesure de s'opposer au traitement de leurs données dans le cadre de cette recherche nationale afin que leur candidature ne soit proposée qu'au niveau local.
+
+G. - Sur les mesures de sécurité
+
+L'analyse d'impact relative à la protection des données (AIPD) mentionne que les informations sont recueillies via un formulaire papier que les candidats remplissent eux-mêmes avant qu'elles ne soient saisies de manière informatique par les agents des départements.
+
+Ces dossiers feront l'objet de mesures de sécurité renforcées notamment via leur classement dans des locaux fermés à clef accessibles aux seuls agents spécifiquement habilités et via la mise en place de procédures prévoyant des durées de conservation limitées.
+
+Eu égard à la sensibilité des données mises à disposition sur la plateforme, le ministère prévoit que l'accès par les agents habilités des départements soit authentifié par mot de passe et doublée de l'envoi d'un code à usage unique transmis par messagerie électronique, tout en permettant la mise en place d'autres modalités, telle qu'une double authentification par SMS. Si l'envoi d'un code par messagerie électronique apporte une sécurité supplémentaire face au risque d'accès illégitimes, la CNIL considère qu'elle n'apporte pas le même degré de protection qu'une authentification multi-facteur. Elle invite donc le ministère à inciter les départements à mettre en place dès que possible les moyens permettant une authentification multi-facteur, en se référant à la recommandation correspondante de la CNIL du 20 mars 2025 (délibération n° 2025-019).
+
+Les opérations sur la plateforme feront l'objet d'une journalisation. Elle prend acte du fait que le ministère entend mettre en place, à terme, une centralisation des journaux, ainsi qu'un mécanisme d'analyse en temps réel de ceux-ci. Dans l'attente de la réalisation de ce projet, la CNIL recommande au ministère de mettre en place une analyse périodique des traces a posteriori.
+
+Les autres dispositions du projet de décret n'appellent pas d'observations de la part de la CNIL.
+
+La présidente,
+
+M.-L. Denis
