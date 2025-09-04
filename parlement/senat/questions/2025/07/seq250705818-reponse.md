@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250705818
+
+- Question : [SEQ250705818](seq250705818.md) — Diffusion de la charte des élus consulaires dans le réseau diplomatique et consulaire
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2025-09-04, page 4807*
+
+La Charte des élus, adoptée le 10 mars 2025 lors de la 42e session de l'Assemblée des Français de l'étranger, a été largement diffusée dans le réseau diplomatique et consulaire. Elle a été transmise par note circulaire à l'ensemble des postes diplomatiques et consulaires le 24 mars 2025 et un courriel publiposté le 4 avril 2025 a permis de la diffuser également aux élus. Les chefs de postes consulaires étaient en copie de ce courriel. Par ailleurs, les instructions relatives aux conseils consulaires et aux modalités d'invitation des élus ont été actualisées et adressées aux postes diplomatiques et consulaires par note circulaire le 21 mai 2025. Cette même note donnait instruction aux postes d'organiser une séquence de discussion de la Charte à l'occasion d'un conseil consulaire. Tous les nouveaux ambassadeurs, consuls généraux et chefs de section ou de chancellerie consulaire reçoivent systématiquement copie de la Charte des élus dans le cadre de leurs instructions avant leur prise de poste. Toute difficulté particulière relative à la mise en oeuvre de la Charte des élus doit être signalée à la direction des Français à l'étranger et de l'administration consulaire, afin que le respect des principes fixés par ce document puisse être assuré de manière homogène dans l'ensemble du réseau. Enfin, à l'occasion du prochain renouvellement général des conseillers des Français de l'étranger, la mise en oeuvre de la Charte sera intégrée à la formation initiale des élus comme elle l'est désormais dans la formation des agents chargés de l'appliquer en poste diplomatique ou consulaire.
