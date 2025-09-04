@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250705576
+
+- Question : [SEQ250705576](seq250705576.md) — Inquiétudes des établissements publics des parcs nationaux
+
+## Réponse
+
+*Aménagement du territoire et décentralisation , JO du 2025-09-04, page 4792*
+
+Le Gouvernement attache une grande importance au rôle fondamental des établissements publics des parcs nationaux dans la préservation de la biodiversité, la protection des espaces naturels et le développement durable des territoires. Les parcs nationaux, qui couvrent une part significative du territoire national, constituent un levier essentiel pour atteindre les objectifs ambitieux de protection de l'environnement fixés au niveau national et international. Dans le contexte budgétaire actuel, marqué par la nécessité de maîtriser les dépenses publiques, le Gouvernement étudie l'ensemble des pistes susceptibles d'améliorer l'efficacité et la performance des opérateurs publics. Toutes les options demeurent ainsi ouvertes afin d'optimiser l'organisation de ces établissements, tout en garantissant la continuité des missions qui leur sont confiées et en respectant les spécificités liées à leur gouvernance partagée. Le Gouvernement est particulièrement attentif aux alertes exprimées à travers les motions récemment adoptées par les conseils d'administration des parcs nationaux. Ces positions seront bien entendues prises en considération dans l'examen des mesures à venir afin d'assurer une décision équilibrée qui concilie les enjeux environnementaux et territoriaux avec ceux liés à la nécessaire maîtrise des dépenses publiques. Enfin, il réaffirme son engagement à poursuivre un dialogue constructif avec l'ensemble des parties prenantes, afin de préserver le rôle central des parcs nationaux dans la transition écologique et le développement durable des territoires.
