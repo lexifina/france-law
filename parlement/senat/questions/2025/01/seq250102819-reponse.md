@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250102819
+
+- Question : [SEQ250102819](seq250102819.md) — Coût de la relance de la filière nucléaire
+
+## Réponse
+
+*Industrie et énergie, JO du 2025-09-04, page 4807*
+
+Le 6 février 2022, le Président de la République a notamment annoncé à Belfort le lancement d'un programme nouveau nucléaire France de construction de trois paires de réacteurs de technologie EPR2 (Evolutionary Power Reactor 2). EDF met en oeuvre le programme de conception et de construction de ces 6 nouveaux réacteurs, à raison de deux réacteurs sur le site de Penly, deux sur le site de Gravelines et deux sur le situe de Bugey. La délégation interministérielle au nouveau nucléaire (DINN) a été créée par le décret n° 2022-1411 du 7 novembre 2022 instituant une délégation de programme interministérielle au nouveau nucléaire et est chargée de superviser ce programme notamment via une revue des objectifs en matière de coûts, de qualité et de délais puis une surveillance du respect de ces objectifs, comme des actions de maîtrise des risques mises en oeuvre par les maîtres d'ouvrage. EDF poursuit actuellement ses travaux d'affermissement et d'optimisation du chiffrage. Une fois finalisé, ce chiffrage fera l'objet d'un audit mené par la DINN. La décision finale d'investissement est attendue pour fin 2026. Au-delà de la supervision du programme par la DINN et de l'audit spécifique au chiffrage des coûts, le Gouvernement travaille actuellement avec EDF sur un cadre de financement et de régulation du programme dans le but notamment de protéger les consommateurs d'électricité en leur permettant de bénéficier d'un prix de l'électricité régulé pendant la phase de fonctionnement sous la forme d'un contrat pour différence [1]. Ce soutien est construit pour inciter EDF à maîtriser les coûts de construction. [1] https://www.elysee.fr/emmanuel-macron/2025/03/17/reunion-du-4eme-conseil-de-politique-nucleaire
