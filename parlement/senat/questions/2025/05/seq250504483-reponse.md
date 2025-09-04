@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250504483
+
+- Question : [SEQ250504483](seq250504483.md) — Pollution du canal de Loing
+
+## Réponse
+
+*Transition écologique, biodiversité, forêt, mer et pêche, JO du 2025-09-04, page 4837*
+
+La pollution du canal de Loing a constitué un événement grave pour la biodiversité locale. La ministre de la transition écologique, de la biodiversité, de la forêt, de la mer et de la pêche salue l'action des pêcheurs bénévoles, des salariés de la FDAAPPMA 77, des autres fédérations départementales et des entreprises partenaires de ces associations lors de la pollution du canal de Loing. S'agissant de la demande d'aide pour la gestion de cette pollution formulée par la Fédération de Seine-et-Marne pour la Pêche et la Protection du Milieu Aquatique, le 12ème programme de l'agence de l'eau Seine Normandie adopté à l'automne 2024 ne prévoit pas d'aide en faveur des mesures correctives faisant suite à une pollution des milieux. Or, les agences de l'eau ne peuvent octroyer des aides que dans le cadre fixé par leur programme d'intervention au sein duquel sont définies les priorités et les modalités d'octroi des aides financières. En effet, sur le volet « Restaurer la nature : mieux préserver et valoriser les écosystèmes et la biodiversité associée et prévenir les risques naturels » du 12e programme, les travaux d'urgence finançables concernent la restauration des milieux aquatiques à la suite des dégradations hydromorphologiques causées par des inondations, des submersions marines ou des érosions côtières, sur les communes reconnues par arrêté en état de catastrophe naturelle. Si les agences de l'eau ne peuvent intervenir financièrement en dehors du cadre fixé par leurs programmes d'action, l'État veillera à ce que la responsabilité du ou des pollueurs soit pleinement engagée.
