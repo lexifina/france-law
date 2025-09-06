@@ -104,7 +104,7 @@ Médecins inspecteurs de santé publique. |
 
 Psychologues territoriaux. |
 
-Psychologues des services déconcentrés de la protection judiciaire de la jeunesse. |
+Psychologues du ministère de la justice. |
 
 Sages-femmes territoriales. |
 
@@ -249,7 +249,3 @@ Secrétaires administratifs des administrations de l'Etat (services déconcentr�
 Adjoints territoriaux d'animation. |
 
 Adjoints administratifs des administrations de l'Etat (services déconcentrés). |
-
-NOTA :
-
-Conformément à l'article 21 du décret n° 2022-625 du 22 avril 2022, ces dispositions entrent en vigueur le premier jour du mois qui suit celui de sa publication.

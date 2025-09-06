@@ -8,14 +8,6 @@ FONCTION PUBLIQUE DE L'ÉTAT
 
 Corps équivalents |
 
-Ingénieurs territoriaux. |
-
-Ingénieurs des services techniques du ministère de l'Intérieur (services déconcentrés). |
-
-Techniciens territoriaux. |
-
-Contrôleur des services techniques du ministère de l'Intérieur (services déconcentrés). |
-
 Adjoints techniques territoriaux des établissements d'enseignement. |
 
 Adjoints techniques des établissements d'enseignement agricole publics (services déconcentrés). |
@@ -27,10 +19,6 @@ Educateurs de la protection judiciaire de la jeunesse. |
 Moniteurs-éducateurs et intervenants familiaux territoriaux. |
 
 Infirmières et infirmiers des services médicaux des administrations de l'Etat. |
-
-Psychologues territoriaux. |
-
-Conseillers techniques de service social des administrations de l'Etat (services déconcentrés). |
 
 Sages-femmes territoriales. |
 
@@ -87,15 +75,3 @@ Masseurs-kinésithérapeutes et orthophonistes.
 |
 
 Assistants de service social des administrations de l'Etat (services déconcentrés). |
-
-Directeurs d'établissements territoriaux d'enseignement artistique. |
-
-Attachés d'administration de l'Etat (services déconcentrés). |
-
-Conseillers territoriaux des activités physiques et sportives. |
-
-Conseillers techniques de service social des administrations de l'Etat (services déconcentrés). |
-
-NOTA :
-
-Conformément à l'article 21 du décret n° 2022-625 du 22 avril 2022, ces dispositions entrent en vigueur le premier jour du mois qui suit celui de sa publication.
