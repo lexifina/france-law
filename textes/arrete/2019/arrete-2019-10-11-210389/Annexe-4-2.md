@@ -25,3 +25,9 @@ Des traitements mis en place à partir du traitement automatisé de données à 
 Traitement automatisé de données à caractère personnel Ouiform |
 
 Des traitements mis en place à partir des traitements automatisés de ces collectivités et organismes, en tant que financeurs des dossiers de formation ou de conseillers en évolution professionnelle, permettent la mise en relation avec le traitement automatisé du compte personnel de formation et de mettre en œuvre le partage de données mentionné au deuxième alinéa de l'article L. 6353-10 du code du travail. |
+
+Services dématérialisés de l'apprentissage et des employeurs publics
+
+|
+
+Des traitements mis en place à partir des données de contrats d'apprentissage publics transmises par les employeurs publics permettent la mise œuvre du partage de données mentionné à l'article L. 6353-10 du code du travail. |
