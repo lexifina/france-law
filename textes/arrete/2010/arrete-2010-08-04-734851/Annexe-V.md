@@ -6,11 +6,15 @@ La commission d'avancement mentionnée à l'article 6 se compose des membres dé
 
 PRÉSIDENCE DE LA COMMISSION
 
-titulaire |
+titulaire
+
+|
 
 PRÉSIDENCE DE LA COMMISSION
 
-suppléant |
+suppléant
+
+|
 
 MEMBRES |
 
@@ -22,7 +26,7 @@ L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel. 
 
 Le chef du bureau du personnel sous-officier de gendarmerie et volontaire, ou son représentant. |
 
-Le chef du bureau du recrutement, des concours et des examens. |
+Le chef de la division du recrutement, des concours et des examens. |
 
 Un officier supérieur de l'inspection générale des armées-gendarmerie. |
 

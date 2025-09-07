@@ -38,11 +38,11 @@ L'officier général, membre de la commission, le plus ancien dans le grade, le 
 
 L'inspecteur général des armées-gendarmerie. |
 
-Le chef de l'inspection générale de la gendarmerie nationale. |
+L'officier général de l'inspection générale de la gendarmerie nationale le plus ancien dans le grade, le rang et l'appellation les plus élevés. |
 
 Le major général de la gendarmerie nationale. |
 
-Le général adjoint au major général de la gendarmerie nationale. |
+Le major général adjoint de la gendarmerie nationale. |
 
 Le directeur des ressources humaines de la gendarmerie nationale |
 
