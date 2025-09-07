@@ -10,7 +10,7 @@ Durée de validité du justificatif |
 
 Bénéficiaire du Revenu de solidarité active (RSA) |
 
-Attestation de bénéficiaire du RSA |
+Attestation de bénéficiaire du RSA ou certification du téléservice mentionné à l'article R. 5132-1-19 du code du travail |
 
 Justificatif datant de moins de 3 mois avant la date de délivrance par la plateforme de l'inclusion du récépissé d'enregistrement |
 
@@ -20,13 +20,11 @@ Attestation de bénéficiaire de l'ASS |
 
 Allocataire de l'allocation adulte handicapé (AAH) |
 
-Attestation de bénéficiaire de l'AAH |
+Attestation de bénéficiaire de l'AAH ou certification du téléservice mentionné à l'article R. 5132-1-19 du code du travail |
 
 Demandeurs d'emploi de très longue durée (DETLD) (24 mois et plus) |
 
-Avis de situation PE
-
-ou récapitulatif des périodes d'inscription (en cas de radiation) |
+Avis de situation PE ou récapitulatif des périodes d'inscription (en cas de radiation) |
 
 Critères complémentaires |
 
@@ -56,23 +54,19 @@ Justificatif datant de moins de 12 mois avant la date de délivrance par la plat
 
 Demandeurs d'emploi de longue durée (DELD) (12 mois et plus) |
 
-Avis de situation l'opérateur France Travail
-
-ou récapitulatif des périodes d'inscription (en cas de radiation) |
+Avis de situation l'opérateur France Travail ou récapitulatif des périodes d'inscription (en cas de radiation) |
 
 Justificatif datant de moins de 3 mois avant la date de délivrance par la plateforme de l'inclusion du récépissé d'enregistrement |
 
 Travailleur handicapé |
 
-Notification de décision de la maison départementale des personnes handicapées (MDPH)
-
-ou attestation de demande de renouvellement |
+Notification de décision de la maison départementale des personnes handicapées (MDPH) ou attestation de demande de renouvellement |
 
 Décision valide au moment du recrutement |
 
 Parent isolé |
 
-Attestation Allocation de soutien familial (ASF) |
+Attestation Allocation de soutien familial (ASF) ou certification du téléservice mentionné à l'article R. 5132-1-19 du code du travail |
 
 Justificatif datant de moins de 3 mois avant la date de délivrance par la plateforme de l'inclusion du récépissé d'enregistrement |
 
@@ -84,11 +78,7 @@ Justificatif datant de moins de 3 mois avant la date de délivrance par la plate
 
 Réfugiés statutaires, bénéficiaires d'une protection temporaire, protégés subsidiaires ou demandeurs d'asile |
 
-Titre de séjour valide ou demande de renouvellement du titre de séjour
-
-Pour les demandeurs d'asile : autorisation temporaire de travail
-
-Pour les bénéficiaires d'une protection temporaire : autorisation provisoire de séjour |
+Titre de séjour valide ou demande de renouvellement du titre de séjourPour les demandeurs d'asile : autorisation temporaire de travailPour les bénéficiaires d'une protection temporaire : autorisation provisoire de séjour |
 
 Titre valide au moment de la délivrance par la plateforme de l'inclusion du récépissé d'enregistrement |
 
@@ -104,13 +94,9 @@ Justificatif de domicile (facture eau, électricité, internet, téléphone) |
 
 Justificatif datant de moins 6 mois avant la date de délivrance par la plateforme de l'inclusion du récépissé d'enregistrement |
 
-Sortant de détention
+Sortant de détention ou personne placée sous main de justice |
 
-Ou personne placée sous main de justice |
-
-Billet de sortie
-
-Ou attestation du juge d'application des peines |
+Billet de sortie ou attestation du juge d'application des peines |
 
 Justificatif datant de moins 6 mois avant la date de délivrance par la plateforme de l'inclusion du récépissé d'enregistrement |
 
