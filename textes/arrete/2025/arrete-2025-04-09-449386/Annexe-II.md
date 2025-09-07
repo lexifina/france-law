@@ -44,7 +44,11 @@ Ce rapport hebdomadaire est accompagné d'un fichier sous format tableur récapi
 
 -date de proposition de rendez-vous ;
 
--date de proposition d'un véhicule de courtoisie ;
+-date de rendez-vous ;
+
+-date de proposition d'une solution de mobilité ;
+
+-date de mise à disposition d'une solution de mobilité ;
 
 -date de remplacement du ou des airbags ;
 
