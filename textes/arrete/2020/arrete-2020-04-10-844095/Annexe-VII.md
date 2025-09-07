@@ -2,10 +2,6 @@
 
 ATTESTATION NUMÉRIQUE ANNUELLE
 
-Modèle d'attestation numérique annuelle (Modèle VII-1)
-
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique à l'adresse suivant : https://www.legifrance.gouv.fr/download/pdf?id=tT8Pn_noNUJrtHX0hN35x0kDKsw--9F4cO5LbLBvIoE=
-
 Evaluation de l'émission de gaz à effet de serre (Tableau VII-2)
 
 Facteur de conversion en gaz à effet de serre (équivalent CO2) de l'énergie finale
@@ -29,6 +25,12 @@ Gaz butane |
 Gaz propane |
 
 0,272 |
+
+Gaz Naturel Liquéfié (GNL)
+
+|
+
+0,238 |
 
 Fioul domestique |
 
@@ -90,7 +92,7 @@ Gaz méthane (naturel) issu des réseaux |
 
 1 |
 
-Autres énergies fossiles (Gaz butane, Gaz propane, Fioul domestique, Gazole non routier, Charbon) |
+Autres énergies fossiles (Gaz butane, Gaz propane, Gaz Naturel Liquéfié, Fioul domestique, Gazole non routier, Charbon) |
 
 1 |
 
@@ -135,7 +137,3 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 -3 Feuilles vertes : Le niveau de consommation énergétique annuelle est situé en dessous de l'objectif exprimé en valeur absolue Cabs), le cas échéant modulé.
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Liw289pOQhZyem6XgFjnQJ2zOEMPNS_l_Q0i6YubOeI=
-
-NOTA :
-
-Conformément à l'article 11 de l'arrêté du 28 novembre 2023 (NOR : TREL2307517A), ces dispositions entrent en vigueur au 1er février 2024.
