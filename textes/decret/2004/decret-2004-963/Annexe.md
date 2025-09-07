@@ -56,6 +56,8 @@ Eramet.
 
 Eurenco Holding SAS.
 
+Eutelsat Communications.
+
 Fonds pour le développement d'une politique intermodale des transports dans le massif alpin (FDPITMA).
 
 France Médias Monde.
@@ -99,6 +101,8 @@ La Française des jeux.
 La Monnaie de Paris.
 
 La Poste.
+
+Météore Holding SAS.
 
 Naval Group.
 
@@ -166,12 +170,12 @@ Exxelia International SAS.
 
 KNDS France.
 
+Roxel France SAS.
+
 Safran Ceramics.
 
 Société de financement local (SFIL).
 
 Société Le Nickel S. L. N.
-
-Société nationale maritime Corse Méditerranée (SNCM).
 
 Solinter holding SAS.
