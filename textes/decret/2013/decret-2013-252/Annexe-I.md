@@ -2838,21 +2838,13 @@ C 0016 et C 0017 |
 
 Maison forestière Aubin Saint Vaast |
 
-Huby Saint Leu |
+Huby-Saint-Leu |
 
-B 11 en partie, B 12, B 13 |
+Section B parcelle 934
 
-|
+Section B parcelle 935
 
-Maison forestière de Grosse Borne |
-
-Arques |
-
-Section B parcelle 75
-
-Section B parcelle 77
-
-Section B parcelle 79 |
+Section B parcelle 938 |
 
 Puy-de-Dôme (63)
 
@@ -3733,16 +3725,6 @@ Fontainebleau |
 D 14 en partie,
 
 D 15 en partie |
-
-|
-
-Pavillon extérieur de la Faisanderie
-
-|
-
-Fontainebleau |
-
-AX 79 en partie |
 
 |
 
@@ -4836,8 +4818,6 @@ Maison forestière Erlenmoos |
 
 Sturzelbronn |
 
-Section 16 parcelle 30
-
 Section 16 parcelle 36
 
 Section 16 parcelle 39
@@ -5077,3 +5057,393 @@ Dourdan |
 Section F parcelle 263
 
 Section F parcelle 264 |
+
+LISTE DES IMMEUBLES SATISFAISANT AU I DE L'ARTICLE L. 3211-5-1 DU CODE GÉNÉRAL DE LA PROPRIÉTÉ DES PERSONNES PUBLIQUES
+
+DEPARTEMENT |
+
+DENOMINATION |
+
+LOCALISATION |
+
+RÉFÉRENCES CADASTRALES |
+
+Alpes de Haute-Provence (04) |
+
+Maison forestière de la Clappe |
+
+Chaudon Norante |
+
+Section H parcelle 132 |
+
+Hautes-Alpes (05) |
+
+Maison forestière Bon Secours |
+
+Ventavon |
+
+Section A parcelle 204
+
+Section A parcelle 206 |
+
+Hautes-Alpes (05) |
+
+Maison forestière Durbon |
+
+Saint Julien en Beauchêne |
+
+Section B parcelle 198 |
+
+Aube (10) |
+
+Maison forestière La Forêt |
+
+Ville sous la Ferté |
+
+Section A parcelle 284
+
+Section A parcelle 285
+
+Section A parcelle 286 |
+
+Aube (10) |
+
+Maison forestière Les Charmelles |
+
+Bayel |
+
+Section C parcelle 1
+
+Section C parcelle 11 |
+
+Cher (18) |
+
+Maison forestière Habert |
+
+Morlac |
+
+Section OB parcelle 163
+
+Section OB parcelle 164
+
+Section OB parcelle 165 |
+
+Drôme (26) |
+
+Maison forestière des Officiers |
+
+Bouvante |
+
+Section AI parcelle 147
+
+Section AI parcelle 149 |
+
+Eure-et-Loir (28) |
+
+Maison forestière de Bon Avis |
+
+Abondant |
+
+Section A parcelle 383
+
+Section A parcelle 427 |
+
+Gironde (33) |
+
+Maison forestière Carcans-Maubuisson |
+
+Carcans |
+
+Section CH parcelle 68 |
+
+Îlle-et-Vilaine (35) |
+
+Maison forestière de la Briqueterie |
+
+Montauban de Bretagne |
+
+Section C parcelle 876
+
+Section C parcelle 877 |
+
+Indre (36) |
+
+Maison forestière de la Charbonnière |
+
+Le Poinçonnet |
+
+Section AS parcelle 441
+
+Section B parcelle 3677 |
+
+Isère (38) |
+
+Maison forestière Piquetière |
+
+Saint Laurent du Pont |
+
+Section H parcelle 409
+
+Section H parcelle 410 |
+
+Loiret (45) |
+
+Maison forestière Puy la Laude |
+
+Paucourt |
+
+Section C parcelle 176
+
+Section C parcelle 179
+
+Section C parcelle 181 |
+
+Lozère (48) |
+
+Chalets Forestiers Rieucros |
+
+Mende |
+
+Section 0C parcelle 168 |
+
+Marne (51) |
+
+Maison forestière Reculée Fontaine |
+
+Trois Fontaines L'Abbaye |
+
+Section E parcelle 94
+
+Section E parcelle 95
+
+Section E parcelle 96 |
+
+Moselle (57) |
+
+Maison forestière Eulenkopf |
+
+Baerenthal |
+
+Section 12 parcelle 33
+
+Section 12 parcelle 35
+
+Section 12 parcelle 37
+
+Section 12 parcelle 39
+
+Section 12 parcelle 41 |
+
+Moselle (57) |
+
+Maison forestière Mouterhouse |
+
+Mouterhouse |
+
+Section 18 parcelle 47 |
+
+Moselle (57) |
+
+Maison forestière Rollin |
+
+Saint Hubert |
+
+Section 14 parcelle 93
+
+Section 14 parcelle 95 |
+
+Moselle (57) |
+
+Maison forestière Villers |
+
+Saint Hubert |
+
+Section 14 parcelle 25 |
+
+Nièvre (58) |
+
+Maison forestière Chasnay |
+
+Premery |
+
+Section B2 parcelle 124
+
+Section B2 parcelle 125
+
+Section B2 parcelle 2287 |
+
+Oise (60) |
+
+Maison forestière Vaudrampont |
+
+Morienvial |
+
+Section H parcelle 212 |
+
+Bas-Rhin (67) |
+
+Maison forestière du Haut Donon |
+
+Grandfontaine |
+
+Section 3 parcelle 99 |
+
+Bas-Rhin (67) |
+
+Maison forestière des Minières |
+
+Grandfontaine |
+
+Section 2 parcelle 31 |
+
+Bas-Rhin (67) |
+
+Maison forestière du Vieux Hêtre |
+
+La Petite Pierre |
+
+Section AD parcelle 117
+
+Section AD parcelle 118 |
+
+Bas-Rhin (67) |
+
+Maison forestière de Rothlach |
+
+La Petite Pierre |
+
+Section A parcelle 1096
+
+Section A parcelle 1098
+
+Section A parcelle 1099 |
+
+Bas-Rhin (67) |
+
+Maison forestière Batzenstrich |
+
+Lichtenberg |
+
+Section 11 parcelle 19 |
+
+Bas-Rhin (67) |
+
+Maison forestière de Schliffstein |
+
+Lutzelhouse |
+
+Section 16 parcelle 120
+
+Section 16 parcelle 123 |
+
+Bas-Rhin (67) |
+
+Maison forestière du Champ du Feu |
+
+Waldersbach |
+
+Section 2 parcelle 156 |
+
+Savoie (73) |
+
+Maison forestière de Vercins |
+
+Serrières en Chautagne |
+
+Section AH parcelle 15
+
+Section AH parcelle 46
+
+Section AH parcelle 48 |
+
+Seine-Maritime (76) |
+
+Maison forestière Saint Sylvestre |
+
+Blangy sur Bresle |
+
+Section D parcelle 242 |
+
+Seine-Maritime (76) |
+
+Maison forestière Les Plains Saint Martin |
+
+La Londe |
+
+Section C parcelle 1143 |
+
+Seine-Maritime (76) |
+
+Maison forestière Bellemprise |
+
+Rieux |
+
+Section C parcelle 64 |
+
+Seine-Maritime (76) |
+
+Maison forestière La Porte Saint James |
+
+Feucherolles |
+
+Section B parcelle 16
+
+Section B parcelle 17
+
+Section B parcelle 19 |
+
+|
+
+|
+
+|
+
+|
+
+Vaucluse (84) |
+
+Maison forestière de Chanteperdrix |
+
+Saint Léger du Ventoux |
+
+Section B parcelle 234
+
+Section B parcelle 235
+
+Section B parcelle 236
+
+Section B parcelle 240
+
+Section B parcelle 241
+
+Section B parcelle 242
+
+Section B parcelle 381 |
+
+Vosges (88) |
+
+Maison forestière Benaveau |
+
+Epinal |
+
+Commune d'EPINAL :
+
+Section A parcelle 1143
+
+Section A parcelle 1144
+
+Section A parcelle 2052
+
+Section A parcelle 2053
+
+Commune de CHANTRAINE :
+
+Section AM parcelle 44 |
+
+Vosges (88) |
+
+Maison forestière le Corsaire |
+
+Gérardmer |
+
+Section F parcelle 2655 |
