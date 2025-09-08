@@ -93,3 +93,43 @@ https://www.legifrance.gouv.fr/download/pdf?id=oHBhbHXZXjqh5Sh0WSjAo_z8mzkP58YcL
 Les modèles des signaux nouveaux mentionnés au III de l'article 1 de l’arrêté du 4 avril 2025 (NOR : INTS2510065A) figurent à l’adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=6Y2osWlsboiNpgubsvGQvkmtqoLOiPab_gT-xvWbPuE=.
+
+Conformément au VIII de l'article 1 de l'arrêté du 4 septembre 2025 relatif à la modification de la signalisation routière (NOR : INTS2521311A) :
+
+1° Après le panneau C64d, il est ajouté le panneau C65a qui figure à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=rb8gm4rObqLryfLTFw-FBTj6UFbgHwXsc1xpBHveUmo=
+
+2° Après le panneau C65a, il est ajouté le panneau C65b qui figure à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=rb8gm4rObqLryfLTFw-FBTj6UFbgHwXsc1xpBHveUmo=
+
+3° Après le panneau C65b, il est ajouté le panneau C65c qui figure à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=rb8gm4rObqLryfLTFw-FBTj6UFbgHwXsc1xpBHveUmo=
+
+4° Après le panneau D44, il est ajouté le panneau qui figure à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=rb8gm4rObqLryfLTFw-FBTj6UFbgHwXsc1xpBHveUmo=
+
+5° Après le panneau D45, il est ajouté le panneau qui figure à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=rb8gm4rObqLryfLTFw-FBTj6UFbgHwXsc1xpBHveUmo=
+
+6° Au panneau D47a, il est ajouté l'exemple qui figure à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=rb8gm4rObqLryfLTFw-FBTj6UFbgHwXsc1xpBHveUmo=
+
+7° Après le panneau D47c, il est ajouté le panneau D47d qui figure à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=rb8gm4rObqLryfLTFw-FBTj6UFbgHwXsc1xpBHveUmo=
+
+8° Après le panneau SR50, il est ajouté le panneau SR51 qui figure à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=rb8gm4rObqLryfLTFw-FBTj6UFbgHwXsc1xpBHveUmo=
+
+9° Dans la description du panneau KR43, les mots : &laquo; adjacente indiquée &raquo; sont remplacés par : &laquo; ou les voies laissées libres à la circulation du côté désigné par la flèche. &raquo;
+
+10° La figure représentant le signal &laquo; KR44 &raquo; est remplacée par la figure accessible à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=rb8gm4rObqLryfLTFw-FBTj6UFbgHwXsc1xpBHveUmo=
