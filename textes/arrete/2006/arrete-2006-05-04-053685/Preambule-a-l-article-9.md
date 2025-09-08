@@ -14,7 +14,7 @@ Le transporteur doit :
 
 - baliser son convoi avec des dispositifs adaptés, implantés à une distance suffisante pour garantir la sécurité des usagers en cas de panne ou d'arrêt et dégager ou faire dégager le plus vite possible la chaussée ;
 
-- en cas d'obstacle non prévisible entraînant l'arrêt du convoi, avertir sans délai le service instructeur du département ou pour les convois visés à l'article 17-7, l'échelon opérationnel des transports de l'Institut de radioprotection et de sûreté nucléaire, ainsi que les forces de l'ordre, du point d'arrêt concerné.
+- en cas d'obstacle non prévisible entraînant l'arrêt du convoi, avertir sans délai le service instructeur du département ou pour les convois visés à l'article 17-7, la direction de l'expertise nucléaire de défense et de sécurité , ainsi que les forces de l'ordre, du point d'arrêt concerné.
 
 La circulation d'un train de convois peut être autorisée, dans le cadre d'une autorisation de portée locale ou sur demande du pétitionnaire dans le cadre d'une autorisation individuelle, dans les conditions suivantes :
 

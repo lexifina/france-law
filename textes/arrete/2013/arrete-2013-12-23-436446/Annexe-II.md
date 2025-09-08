@@ -12,7 +12,7 @@ Article 1er
 
 Résultats des contrôles et surveillances
 
-Le rapport mensuel des actions de contrôle et de surveillance visées aux II (b), III et IV de l'article 2 de l'annexe I du présent arrêté, ainsi que les circonstances exceptionnelles telles que citées à l'article 1er de l'annexe I du présent arrêté, signé par l'exploitant est transmis au DSND, avec copie à l'ASN, au plus tard huit semaines après la fin dudit mois.
+Le rapport mensuel des actions de contrôle et de surveillance visées aux II (b), III et IV de l'article 2 de l'annexe I du présent arrêté, ainsi que les circonstances exceptionnelles telles que citées à l'article 1er de l'annexe I du présent arrêté, signé par l'exploitant est transmis au DSND, avec copie à l'Autorité de sûreté nucléaire et de radioprotection, au plus tard huit semaines après la fin dudit mois.
 
 Le contenu et la transmission des résultats sont effectués sous un format proposée par l'exploitant et validée par le DSND.
 
@@ -26,7 +26,7 @@ Tout incident ou anomalie de fonctionnement des installations de l'INBS suscepti
 
 Sans préjudice des mesures que peut prescrire le DSND, l'exploitant prend toutes les dispositions nécessaires pour mettre fin à la cause de l'incident ou de l'anomalie portant atteinte à l'environnement, pour évaluer ses conséquences et y remédier ainsi que pour éviter son renouvellement.
 
-Cette information est transmise également, après accord du DSND, au préfet, à l'ASN, à la DRIEE et/ ou au service chargé de la police de l'eau, selon leur domaine de compétences respectif.
+Cette information est transmise également, après accord du DSND, au préfet, à l'Autorité de sûreté nucléaire et de radioprotection, à la DRIEAT et/ ou au service chargé de la police de l'eau, selon leur domaine de compétences respectif.
 
 L'événement doit être signalé dans le rapport mentionné à l'article 3 de la présente annexe.
 
@@ -56,4 +56,4 @@ Chaque année, l'exploitant établit un rapport, destiné à être rendu public,
 
 ― la présentation des efforts réalisés par l'exploitant en faveur de la protection de l'environnement.
 
-Le rapport annuel est adressé au DSND, à l'ASN, à l'Institut de radioprotection et de sûreté nucléaire, au préfet de l'Essonne, à la DRIEE ainsi qu'aux membres de la commission d'information prévue à l'article R. 1333-38 du code de la défense, au plus tard le 30 juin de l'année qui suit l'année décrite dans ce rapport.
+Le rapport annuel est adressé au DSND, à l'Autorité de sûreté nucléaire et de radioprotection, au préfet de l'Essonne, à la DRIEAT ainsi qu'aux membres de la commission d'information prévue à l'article R. 1333-38 du code de la défense, au plus tard le 30 juin de l'année qui suit l'année décrite dans ce rapport.

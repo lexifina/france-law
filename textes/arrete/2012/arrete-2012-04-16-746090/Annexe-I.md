@@ -72,7 +72,7 @@ III. - Pour les substances chimiques présentes dans les effluents liquides, l'e
 
 IV. - L'exploitant tient à jour un registre des résultats des mesures dans l'environnement prévues par le présent arrêté.
 
-V. - Les registres visés aux alinéas précédents sont conservés par l'exploitant pendant la durée de vie de l'INBS. Ils sont tenus à la disposition du DSND et, pour ce qui les concerne, de l'Autorité de sûreté nucléaire (ASN) ainsi que des agents de la direction régionale de l'environnement, de l'aménagement et du logement (DREAL) et des agents chargés de la police de l'eau. Ils peuvent faire l'objet d'un traitement informatisé, à condition qu'ils puissent être facilement consultés et que ce traitement assure la traçabilité des modifications apportées.
+V. - Les registres visés aux alinéas précédents sont conservés par l'exploitant pendant la durée de vie de l'INBS. Ils sont tenus à la disposition du DSND et, pour ce qui les concerne, de l'Autorité de sûreté nucléaire et de radioprotection ainsi que des agents de la direction régionale de l'environnement, de l'aménagement et du logement (DREAL) et des agents chargés de la police de l'eau. Ils peuvent faire l'objet d'un traitement informatisé, à condition qu'ils puissent être facilement consultés et que ce traitement assure la traçabilité des modifications apportées.
 
 Article 3
 

@@ -56,7 +56,7 @@ III. ― L'exploitant tient à jour les enregistrements des résultats des mesur
 
 IV. ― L'exploitant tient à jour les enregistrements des résultats des mesures dans l'environnement prévues par le présent arrêté.
 
-V. ― Les enregistrements visés aux alinéas précédents sont conservés par l'exploitant pendant la durée de vie de l'INBS. Ils sont tenus à la disposition du DSND et, pour ce qui les concerne, de l'Autorité de sûreté nucléaire (ASN) ainsi que des agents de la direction régionale et interdépartementale de l'environnement, de l'aménagement et des transports (DRIEE) et des agents chargés de la police de l'eau. Ils peuvent faire l'objet d'un traitement informatisé, à condition qu'ils puissent être facilement consultés et que ce traitement assure la traçabilité des modifications apportées.
+V. ― Les enregistrements visés aux alinéas précédents sont conservés par l'exploitant pendant la durée de vie de l'INBS. Ils sont tenus à la disposition du DSND et, pour ce qui les concerne, de l'Autorité de sûreté nucléaire et de radioprotection ainsi que des agents de la direction régionale et interdépartementale de l'environnement, de l'aménagement et des transports (DRIEAT) et des agents chargés de la police de l'eau. Ils peuvent faire l'objet d'un traitement informatisé, à condition qu'ils puissent être facilement consultés et que ce traitement assure la traçabilité des modifications apportées.
 
 Le format de ces enregistrements est laissé au choix de l'exploitant.
 
@@ -68,7 +68,7 @@ I. ― La vérification du respect par l'exploitant des prescriptions fixées pa
 
 ― les agents placés sous la responsabilité du DSND, à savoir les inspecteurs de l'Autorité de sûreté nucléaire de défense (ASND) ;
 
-― la DRIEE et, plus particulièrement, les inspecteurs de l'environnement, conformément à l'article L. 172-1 du code de l'environnement.
+― la DRIEAT et, plus particulièrement, les inspecteurs de l'environnement, conformément à l'article L. 172-1 du code de l'environnement.
 
 II. ― Sans préjudice de sa propre surveillance des rejets et de l'environnement, qu'il réalise en application du présent arrêté, des mesures complémentaires à celles prescrites par la présente annexe peuvent être demandées par le DSND.
 
@@ -128,7 +128,7 @@ L'exploitant tient à la disposition des agents des autorités de contrôle vis�
 
 II. ― L'exploitant entretient constamment en bon état et à ses frais les terrains occupés ainsi que les ouvrages et installations de prélèvements d'eau.
 
-Lorsque des travaux de réfection sont nécessaires, l'exploitant en informe préalablement la DRIEE.
+Lorsque des travaux de réfection sont nécessaires, l'exploitant en informe préalablement la DRIEAT.
 
 Section 3
 
@@ -178,21 +178,15 @@ a) Paramètres radiologiques :
 
 Les seuls rejets gazeux autorisés sont des rejets tritium.
 
-RADIONUCLÉIDES
-
-|
+RADIONUCLÉIDES |
 
 LIMITES ANNUELLES
 
 (TBq) |
 
-Tritium
+Tritium |
 
-|
-
-20
-
-|
+20 |
 
 Ces rejets ne doivent en aucun cas ajouter de radionucléides émetteurs alpha dans les poussières atmosphériques présentes dans l'environnement. A ce titre, l'exploitant réalise un prélèvement continu sur filtre au niveau des émissaires de rejets concernés. Les mesures sont effectuées en différé au laboratoire.
 
@@ -206,53 +200,29 @@ CONCENTRATION MAXIMALE
 
 (mg/ m ³) |
 
-Substances physico-chimiques
+Substances physico-chimiques |
 
-|
+Chaudière gaz naturel |
 
-Chaudière gaz naturel
+Chaudière fioul domestique |
 
-|
+Dioxyde de soufre en équivalent SO2 |
 
-Chaudière fioul domestique
+35 |
 
-|
+170 |
 
-Dioxyde de soufre en équivalent SO2
+Oxydes d'azote en équivalent NO2 |
 
-|
+100 |
 
-35
+150 |
 
-|
+Poussières |
 
-170
+5 |
 
-|
-
-Oxydes d'azote en équivalent NO2
-
-|
-
-100
-
-|
-
-150
-
-|
-
-Poussières
-
-|
-
-5
-
-|
-
-50
-
-|
+50 |
 
 II. ― Les conditions de collecte, de traitement et de rejet des effluents gazeux sont telles qu'elles n'entraînent aucun risque d'inflammation ou d'explosion ni la production, du fait du mélange des effluents, de substances polluantes nouvelles.
 
@@ -322,43 +292,25 @@ concernées |
 
 PÉRIODICITÉ |
 
-Chaudières
+Chaudières |
+
+Oxydes d'azote |
+
+Tous les 3 ans |
+
+Oxygène |
+
+Tous les 3 ans |
+
+Monoxyde de carbone |
+
+Tous les 3 ans |
 
 |
 
-Oxydes d'azote
+Efficacité énergétique |
 
-|
-
-Tous les 3 ans
-
-|
-
-Oxygène
-
-|
-
-Tous les 3 ans
-
-|
-
-Monoxyde de carbone
-
-|
-
-Tous les 3 ans
-
-|
-
-|
-
-Efficacité énergétique
-
-|
-
-Tous les 2 ans
-
-|
+Tous les 2 ans |
 
 I. ― Les rejets gazeux significatifs de polluants non radioactifs font l'objet d'une évaluation annuelle des matières utilisées dans le processus à l'origine des effluents gazeux à rejeter et des conditions de fonctionnement des installations.
 
@@ -392,7 +344,7 @@ Les transports d'effluents par citernes, bâches ou récipients de toute nature 
 
 IV. ― Il est interdit d'établir des liaisons directes entre les réseaux de collecte des effluents devant subir un traitement et le milieu récepteur ou les réseaux d'assainissement extérieurs à l'INBS.
 
-V. ― Des conventions précisant la nature, la quantité ainsi que les conditions de transfert des effluents radioactifs sont passées entre l'INBS et les installations situées hors de son périmètre. Elles sont transmises pour information au DSND et, dans son domaine de compétence, à l'ASN. L'exploitant transmet annuellement au DSND, pour approbation, les prévisions de transferts des effluents externes à l'INBS, en précisant les volumes et les catégories concernées.
+V. ― Des conventions précisant la nature, la quantité ainsi que les conditions de transfert des effluents radioactifs sont passées entre l'INBS et les installations situées hors de son périmètre. Elles sont transmises pour information au DSND et, dans son domaine de compétence, à l'Autorité de sûreté nucléaire et de radioprotection. L'exploitant transmet annuellement au DSND, pour approbation, les prévisions de transferts des effluents externes à l'INBS, en précisant les volumes et les catégories concernées.
 
 Toute augmentation significative (supérieure à 10 % du volume prévisionnel) de ces prévisions au cours de l'année doit être préalablement approuvée par le DSND.
 
@@ -410,29 +362,17 @@ RADIONUCLÉIDES |
 
 LIMITES ANNUELLES |
 
-Tritium
+Tritium |
 
-|
+6 GBq |
 
-6 GBq
+Activité alpha globale |
 
-|
+20 MBq |
 
-Activité alpha globale
+Activité bêta globale (hors tritium) |
 
-|
-
-20 MBq
-
-|
-
-Activité bêta globale (hors tritium)
-
-|
-
-200 MBq
-
-|
+200 MBq |
 
 b) Paramètres chimiques :
 
@@ -440,85 +380,45 @@ SUBSTANCE |
 
 LIMITES ANNUELLES |
 
-Fer
+Fer |
 
-|
+50 kg |
 
-50 kg
+Zinc |
 
-|
+35 kg |
 
-Zinc
+AOX |
 
-|
+50 kg |
 
-35 kg
+Chlorures |
 
-|
+165 t |
 
-AOX
+DCO |
 
-|
+23 t |
 
-50 kg
+DBO5 |
 
-|
+11 t |
 
-Chlorures
+COT |
 
-|
+8 t |
 
-165 t
+Phosphore total |
 
-|
+700 kg |
 
-DCO
+Hydrogénocarbonates |
 
-|
+170 t |
 
-23 t
+Nitrites |
 
-|
-
-DBO5
-
-|
-
-11 t
-
-|
-
-COT
-
-|
-
-8 t
-
-|
-
-Phosphore total
-
-|
-
-700 kg
-
-|
-
-Hydrogénocarbonates
-
-|
-
-170 t
-
-|
-
-Nitrites
-
-|
-
-2 t
-
-|
+2 t |
 
 La quantité mensuelle de chaque substance chimique rejetée ne doit pas dépasser le sixième des limites annuelles correspondantes.
 
@@ -562,37 +462,21 @@ LIMITE EN ACTIVITÉ
 
 ou concentration volumique |
 
-Tritium
+Tritium |
 
-|
+400 Bq/ l |
 
-400 Bq/ l
+Activité alpha globale |
 
-|
+0,2 Bq/ l |
 
-Activité alpha globale
+Activité bêta globale (hors tritium) |
 
-|
+2 Bq/ l |
 
-0,2 Bq/ l
+Zinc |
 
-|
-
-Activité bêta globale (hors tritium)
-
-|
-
-2 Bq/ l
-
-|
-
-Zinc
-
-|
-
-2 mg/ l
-
-|
+2 mg/ l |
 
 d) Ouvrage de sortie générale des eaux de l'INBS :
 
@@ -616,7 +500,7 @@ Les incidents ayant conduit à une pollution accidentelle du ru du Grand Rué ;
 
 Les travaux d'entretien et de curage du ru.
 
-Cet enregistrement est tenu à la disposition du DSND, du préfet de l'Essonne et du DRIEE Ile-de-France. Les données qu'il contient sont conservées au minimum trois ans.
+Cet enregistrement est tenu à la disposition du DSND, du préfet de l'Essonne et du DRIEAT Ile-de-France. Les données qu'il contient sont conservées au minimum trois ans.
 
 f) Contrôle au niveau du point de rejet :
 
@@ -624,7 +508,7 @@ Sont habilités à effectuer les contrôles prévus à l'article R. 211-12 du co
 
 L'accès aux points de mesure ou de prélèvements sur l'ouvrage d'évacuation doit être aménagé, notamment, pour permettre l'amenée du matériel de mesure.
 
-Les résultats de ces contrôles sont communiqués au DSND, au préfet de l'Essonne et au DRIEE Ile-de-France.
+Les résultats de ces contrôles sont communiqués au DSND, au préfet de l'Essonne et au DRIEAT Ile-de-France.
 
 Article 17
 
@@ -642,9 +526,7 @@ POINT DE PRÉLÈVEMENT |
 
 ANALYSES RÉALISÉESChaque |
 
-BAEI (avant rejet)
-
-|
+BAEI (avant rejet) |
 
 Activité alpha globale
 
@@ -652,9 +534,7 @@ Activité bêta globale (hors tritium)
 
 Tritium
 
-Zinc
-
-|
+Zinc |
 
 Lorsque les activités volumiques (cas des paramètres radiologiques) ou la concentration du zinc dépasse les valeurs mentionnées au II (c) de l'article 16 de la présente annexe, les effluents industriels sont considérés comme des effluents radioactifs ou chimiques. Ces effluents sont traités et/ ou évacués par camion-citerne vers les centres de traitement appropriés.
 
@@ -688,13 +568,9 @@ Phosphore total
 
 Hydrogénocarbonates
 
-Nitrites
+Nitrites |
 
-|
-
-(1) La mesure de l'activité bêta imputable au potassium 40 est déduite de la mesure de la concentration pondérale du potassium.
-
-|
+(1) La mesure de l'activité bêta imputable au potassium 40 est déduite de la mesure de la concentration pondérale du potassium. |
 
 Par ailleurs, le pH, la conductivité et la température sont mesurés en continu à l'émissaire de rejets des effluents liquides du site (ouvrage de sortie générale des eaux de l'INBS).
 
@@ -740,9 +616,7 @@ ANALYSES |
 
 NOMBRE DE POINTS
 
-de prélèvements
-
-|
+de prélèvements |
 
 LOCALISATION |
 
@@ -750,175 +624,95 @@ Périodicité |
 
 Paramètres |
 
-Air au niveau du sol
+Air au niveau du sol |
+
+Prélèvement continu de tritium dans l'air ― Activité volumique dans l'air |
+
+Bimensuelle |
+
+Tritium |
+
+2 |
+
+2 directions de vents prépondérantes |
+
+Radioactivité ambiante |
+
+Radioactivité ambiante (1) |
+
+Enregistrement continu |
+
+Débit d'équivalent de dose ambiant gamma H* (10) |
+
+4 |
+
+4 directions de vents à 90 degrés dont 1 sous les vents dominants |
+
+Précipitations atmosphériques |
+
+Prélèvement continu des précipitations dans l'environnement du site |
+
+Bimensuelle |
+
+Tritium |
+
+2 |
+
+2 directions de vents prépondérantes |
+
+Végétaux |
+
+Prélèvement de végétaux |
+
+Trimestrielle |
+
+Tritium (HTO) |
+
+2 |
+
+2 directions de vents prépondérantes |
 
 |
 
-Prélèvement continu de tritium dans l'air ― Activité volumique dans l'air
-
 |
 
-Bimensuelle
+Annuelle |
 
-|
+Tritium total |
 
-Tritium
+2 |
 
-|
+2 directions de vents prépondérantes |
 
-2
+Production agricole |
 
-|
+Prélèvement sur les principales productions agricoles, notamment dans les zones situées sous les vents dominants |
 
-2 directions de vents prépondérantes
-
-|
-
-Radioactivité ambiante
-
-|
-
-Radioactivité ambiante (1)
-
-|
-
-Enregistrement continu
-
-|
-
-Débit d'équivalent de dose ambiant gamma H* (10)
-
-|
-
-4
-
-|
-
-4 directions de vents à 90 degrés dont 1 sous les vents dominants
-
-|
-
-Précipitations atmosphériques
-
-|
-
-Prélèvement continu des précipitations dans l'environnement du site
-
-|
-
-Bimensuelle
-
-|
-
-Tritium
-
-|
-
-2
-
-|
-
-2 directions de vents prépondérantes
-
-|
-
-Végétaux
-
-|
-
-Prélèvement de végétaux
-
-|
-
-Trimestrielle
-
-|
+Annuelle (saisonnier) |
 
 Tritium (HTO)
 
-|
+Tritium total |
 
-2
+1 |
 
-|
+Récolte sous les vents dominants (2) |
 
-2 directions de vents prépondérantes
+Lait |
 
-|
+Prélèvement de lait dans une ferme |
 
-|
+Annuelle |
 
-|
+Tritium |
 
-Annuelle
-
-|
-
-Tritium total
-
-|
-
-2
-
-|
-
-2 directions de vents prépondérantes
-
-|
-
-Production agricole
-
-|
-
-Prélèvement sur les principales productions agricoles, notamment dans les zones situées sous les vents dominants
-
-|
-
-Annuelle (saisonnier)
-
-|
-
-Tritium (HTO)
-
-Tritium total
-
-|
-
-1
-
-|
-
-Récolte sous les vents dominants (2)
-
-|
-
-Lait
-
-|
-
-Prélèvement de lait dans une ferme
-
-|
-
-Annuelle
-
-|
-
-Tritium
-
-|
-
-1
-
-|
+1 |
 
 |
 
 (1) En limite de site, la mesure en continu du débit d'équivalent de dose gamma ambiant peut être remplacée par une mesure du rayonnement gamma par dosimétrie passive à fréquence mensuelle.
 
-(2) En fonction de la disponibilité de la matrice.
-
-|
+(2) En fonction de la disponibilité de la matrice. |
 
 Article 20
 
@@ -946,221 +740,127 @@ Périodicité |
 
 Paramètres |
 
-Eaux de surface
+Eaux de surface |
 
-|
+En amont de la confluence du ru du Grand Rué et de la Rémarde |
 
-En amont de la confluence du ru du Grand Rué et de la Rémarde
-
-|
-
-Hebdomadaire
-
-|
+Hebdomadaire |
 
 Activité alpha globale
 
 Activité bêta globale (hors tritium)
 
-Tritium
+Tritium |
 
-|
+1 |
 
-1
+Rémarde |
 
-|
+Mensuelle |
 
-Rémarde
+Potassium 40 (1) |
 
-|
+Eaux de surface |
 
-Mensuelle
+En aval de la confluence du ru du Grand Rué et de la Rémarde |
 
-|
-
-Potassium 40 (1)
-
-|
-
-Eaux de surface
-
-|
-
-En aval de la confluence du ru du Grand Rué et de la Rémarde
-
-|
-
-Hebdomadaire
-
-|
+Hebdomadaire |
 
 Activité alpha globale
 
 Activité bêta globale (hors tritium)
 
-Tritium
+Tritium |
 
-|
+1 |
 
-1
+Zone de bon mélange |
 
-|
+Mensuelle |
 
-Zone de bon mélange
+Potassium 40 (1) |
 
-|
+Sédiments |
 
-Mensuelle
+En amont de la confluence du ru du Grand Rué et de la Rémarde |
 
-|
-
-Potassium 40 (1)
-
-|
-
-Sédiments
-
-|
-
-En amont de la confluence du ru du Grand Rué et de la Rémarde
-
-|
-
-Annuelle
-
-|
+Annuelle |
 
 Spectrométrie gamma
 
 Tritium (HTO)
 
-Tritium total
+Tritium total |
 
-|
+1 |
 
-1
+Rémarde |
 
-|
+Sédiments |
 
-Rémarde
+En aval de la confluence du ru du Grand Rué et de la Rémarde |
 
-|
-
-Sédiments
-
-|
-
-En aval de la confluence du ru du Grand Rué et de la Rémarde
-
-|
-
-Annuelle
-
-|
+Annuelle |
 
 Spectrométrie gamma
 
 Tritium (HTO)
 
-Tritium total
+Tritium total |
 
-|
+1 |
 
-1
+Zone de bon mélange |
 
-|
+Flore aquatique |
 
-Zone de bon mélange
+En amont de la confluence du ru du Grand Rué et de la Rémarde |
 
-|
-
-Flore aquatique
-
-|
-
-En amont de la confluence du ru du Grand Rué et de la Rémarde
-
-|
-
-Annuelle
-
-|
+Annuelle |
 
 Spectrométrie gamma
 
 Tritium (HTO)
 
-Tritium total
+Tritium total |
 
-|
+1 |
 
-1
+Rémarde |
 
-|
+Flore aquatique |
 
-Rémarde
+En aval de la confluence du ru du Grand Rué et de la Rémarde |
 
-|
-
-Flore aquatique
-
-|
-
-En aval de la confluence du ru du Grand Rué et de la Rémarde
-
-|
-
-Annuelle
-
-|
+Annuelle |
 
 Spectrométrie gamma
 
 Tritium (HTO)
 
-Tritium total
+Tritium total |
 
-|
+1 |
 
-1
+Zone de bon mélange |
 
-|
+Faune aquatique |
 
-Zone de bon mélange
+En aval de la confluence du ru du Grand Rué et de la Rémarde |
 
-|
-
-Faune aquatique
-
-|
-
-En aval de la confluence du ru du Grand Rué et de la Rémarde
-
-|
-
-Annuelle
-
-|
+Annuelle |
 
 Spectrométrie gamma
 
 Tritium (HTO)
 
-Tritium total
+Tritium total |
 
-|
+1 |
 
-1
+Rémarde |
 
-|
-
-Rémarde
-
-|
-
-(1) L'activité bêta imputable au potassium 40 est déduite de la mesure de la concentration pondérale du potassium.
-
-|
+(1) L'activité bêta imputable au potassium 40 est déduite de la mesure de la concentration pondérale du potassium. |
 
 Article 21
 
@@ -1180,9 +880,7 @@ ANALYSES |
 
 NOMBRE DE POINTS
 
-de prélèvements
-
-|
+de prélèvements |
 
 LOCALISATION |
 
@@ -1190,17 +888,11 @@ Périodicité |
 
 Paramètres |
 
-Eaux de surface
+Eaux de surface |
 
-|
+Eaux réceptrices de la Rémarde |
 
-Eaux réceptrices de la Rémarde
-
-|
-
-Semestrielle
-
-|
+Semestrielle |
 
 DCO
 
@@ -1220,25 +912,17 @@ Nitrites
 
 Zinc
 
-Fer
+Fer |
 
-|
+1 |
 
-1
-
-|
-
-Zone de bon mélange
+Zone de bon mélange |
 
 |
 
 |
 
-|
-
-Annuelle
-
-|
+Annuelle |
 
 Conductivité
 
@@ -1284,95 +968,53 @@ Aluminium
 
 Tantale
 
-Manganèse
+Manganèse |
 
-|
+1 |
 
-1
+Zone de bon mélange |
 
-|
+Sédiments |
 
-Zone de bon mélange
+Prélèvements de sédiments, dans le milieu aquatique |
 
-|
-
-Sédiments
-
-|
-
-Prélèvements de sédiments, dans le milieu aquatique
-
-|
-
-Annuelle
-
-|
+Annuelle |
 
 Fer
 
-Zinc
+Zinc |
 
-|
+1 |
 
-1
+Zone de bon mélange |
 
-|
+Faune aquatique |
 
-Zone de bon mélange
+Prélèvements de la faune aquatique dans le milieu aquatique |
 
-|
-
-Faune aquatique
-
-|
-
-Prélèvements de la faune aquatique dans le milieu aquatique
-
-|
-
-Annuelle
-
-|
+Annuelle |
 
 Fer
 
-Zinc
+Zinc |
 
-|
+1 |
 
-1
+Zone de bon mélange |
 
-|
+Flore aquatique |
 
-Zone de bon mélange
+Prélèvements de la flore aquatique dans le milieu aquatique |
 
-|
-
-Flore aquatique
-
-|
-
-Prélèvements de la flore aquatique dans le milieu aquatique
-
-|
-
-Annuelle
-
-|
+Annuelle |
 
 Fer
 
-Zinc
+Zinc |
 
-|
+1 |
 
-1
-
-|
-
-Zone de bon mélange
-
-|
+Zone de bon mélange |
 
 Article 22
 
@@ -1394,42 +1036,24 @@ PARAMÈTRESNOMBRE |
 
 DE POINTS
 
-de prélèvements
-
-|
+de prélèvements |
 
 LOCALISATION |
 
-Eaux souterraines
+Eaux souterraines |
 
-|
+Eaux souterraines |
 
-Eaux souterraines
+2 fois par an |
 
-|
+Tritium |
 
-2 fois par an
+3 |
 
-|
-
-Tritium
-
-|
-
-3
-
-|
-
-1 point en amont hydrogéologique du site et 2 points en aval hydrogéologique du site
-
-|
+1 point en amont hydrogéologique du site et 2 points en aval hydrogéologique du site |
 
 Article 23
 
 Implantation des points de prélèvements
 
 La localisation des différents points de prélèvements et de mesures mentionnée à la présente annexe est précisée sur des cartes déposées auprès du DSND et des autorités administratives concernées.
-
-NOTA :
-
-Conformément à l’article 7 du décret n° 2021-261 du 10 mars 2021, ces dispositions entrent en vigueur le 1er avril 2021.

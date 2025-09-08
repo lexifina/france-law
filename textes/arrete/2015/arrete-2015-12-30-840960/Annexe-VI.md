@@ -24,7 +24,7 @@ Les équipements sous pression nucléaires auxquels les dispositions de la prés
 
 -la vérification que cette mise en œuvre respecte les principes et les règles de radioprotection définis par le code de la santé publique et par le code du travail.
 
-L'organisme habilité remet à l'exploitant une attestation de contrôle de mise en service. L'exploitant adresse une copie de cette attestation à l'Autorité de sûreté nucléaire.
+L'organisme habilité remet à l'exploitant une attestation de contrôle de mise en service. L'exploitant adresse une copie de cette attestation à l'Autorité de sûreté nucléaire et de radioprotection.
 
 Lorsqu'un équipement sous pression nucléaire fait l'objet d'une nouvelle installation, le contrôle de mise en service doit être renouvelé et complété par une inspection réalisée selon les modalités de l'inspection de requalification périodique prévue au 2.4 de la présente annexe.
 
@@ -46,7 +46,7 @@ Les requalifications périodiques sont réalisées par des organismes habilités
 
 2.2. L'intervalle maximal entre deux requalifications périodiques est fixé à :
 
--2 ans pour les équipements sous pression nucléaires en matériaux autres que métalliques. Cet intervalle est porté à 5 ans si des essais de vieillissement des matériaux ont été effectués conformément à un cahier des charges accepté par décision de l'Autorité de sûreté nucléaire ;
+-2 ans pour les équipements sous pression nucléaires en matériaux autres que métalliques. Cet intervalle est porté à 5 ans si des essais de vieillissement des matériaux ont été effectués conformément à un cahier des charges accepté par décision de l'Autorité de sûreté nucléaire et de radioprotection ;
 
 -5 ans pour les équipements sous pression nucléaires contenant un fluide toxique (toxicité aiguë par voie orale : catégories 1 et 2, toxicité aiguë par voie cutanée : catégories 1 et 2, toxicité aiguë par inhalation : catégories 1,2 et 3, ou toxicité spécifique pour certains organes cibles-exposition unique : catégorie 1), ou un fluide corrosif vis-à-vis de ses parois ;
 
@@ -56,7 +56,7 @@ Lorsque l'équipement fait l'objet d'un contrôle de mise en service en applicat
 
 Dans les autres cas, l'échéance de la requalification périodique est calculée à partir de la date de l'épreuve de vérification finale de l'équipement sous pression nucléaire ou de l'ensemble nucléaire dans lequel il est intégré, ou à partir de la date du dernier procès-verbal prévu au point 2.7 de la présente annexe.
 
-2.3. Sauf modalités particulières acceptées par décision de l'Autorité de sûreté nucléaire, la requalification périodique d'un équipement sous pression nucléaire comprend les opérations suivantes :
+2.3. Sauf modalités particulières acceptées par décision de l'Autorité de sûreté nucléaire et de radioprotection, la requalification périodique d'un équipement sous pression nucléaire comprend les opérations suivantes :
 
 -une inspection de requalification périodique de l'équipement sous pression nucléaire et des accessoires sous pression qui lui sont raccordés ;
 
