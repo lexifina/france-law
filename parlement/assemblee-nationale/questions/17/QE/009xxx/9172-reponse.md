@@ -1,0 +1,9 @@
+# Réponse à la question n° 9172
+
+- Question : [9172](9172.md) — Question n° 9172 — Suspension du projet de réouverture de la ligne TER Limoux-Quillan
+
+## Réponse
+
+*JO du 2025-09-09, page 7877*
+
+La ligne ferroviaire entre Carcassonne et Quillan, d'une longueur de 54 km, fait partie des lignes concernées par le protocole d'accord sur l'avenir des lignes de desserte fine du territoire (LDFT) signé entre l'État et la région Occitanie le 22 janvier 2022. Ce protocole prévoit que la régénération de la ligne soit financée à hauteur de 25 % par l'État, 8,5 % par SNCF Réseau et 66,5 % par la région. Cet engagement a été retranscrit dans le volet mobilité du contrat de plan État-région (CPER) jusqu'en 2022. 12 M€, dont 4 M€ de participation de l'État, ont été engagés dans ce cadre entre 2016 et 2022 pour financer les travaux de régénération sur la section Carcassonne-Limoux. L'engagement de l'État au titre du protocole d'accord se matérialise également dans le cadre du volet mobilités 2023-2027 du CPER 2021-2027 pour l'Occitanie. Le volet « petites lignes régionales » prévoit en effet près de 5 M€ pour la poursuite des travaux de régénération sur Carcassonne-Limoux, et 2 M€ pour le financement d'études sur la section Limoux-Quillan, qui doivent permettre de définir les conditions d'une reprise de l'exploitation ferroviaire. Sur cette section de 25 km qui dessert la haute vallée de l'Aude, les circulations ferroviaires sont en effet suspendues depuis 2018 pour des raisons de sécurité liées à la vétusté de la voie. La région Occitanie, en sa qualité d'autorité organisatrice des mobilités ferroviaires régionales, a manifesté son intérêt pour sa réouverture, mais a suspendu le projet pour des raisons budgétaires. L'État a été au rendez-vous des engagements financiers contractualisés avec la région Occitanie sur ce projet, continuera à les tenir et à accompagner la région dans sa démarche.
