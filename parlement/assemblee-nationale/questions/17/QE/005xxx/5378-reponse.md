@@ -1,0 +1,9 @@
+# Réponse à la question n° 5378
+
+- Question : [5378](5378.md) — Question n° 5378 — Reconnaissance de la spécificité du métier d'accompagnateur en montagne
+
+## Réponse
+
+*JO du 2025-09-09, page 7848*
+
+S'agissant de la définition de l'environnement montagnard, il convient de rappeler que l'arrêté du 6 décembre 2016 portant définition de l'environnement montagnard pour la pratique des activités assimilées à l'alpinisme a été annulé par le Conseil d'État en 2018 au motif que le ministère chargé des sports n'était pas habilité à édicter une telle mesure par voie d'arrêté. Si un décret pris en Conseil d'État reste envisageable pour le définir, la circonscription de la notion d'environnement montagnard suppose l'établissement de critères clairs et objectifs à retenir au nom de la sécurité juridique (altitude, météorologie, enneigement, accidentologie, etc.). Le ministère des sports, de la jeunesse et de la vie associative n'envisage aucune évolution réglementaire. Mais, en réponse aux demandes de certains acteurs, il a accepté la constitution d'un groupe de travail permettant aux acteurs de préciser leurs attentes au regard du cadre réglementaire en vigueur et d'envisager d'autres solutions. Ce groupe de travail associant l'école nationale des sports de montagne, les syndicats représentatifs, les fédérations sportives concernées et le ministère chargé des sports pourra formuler des propositions au sujet de l'environnement montagnard. L'objectif du ministère chargé des sports consiste in fine à concilier la protection des pratiquants, enjeu prioritaire des politiques publiques, et un encadrement qui ne soit pas un frein au développement économique de l'activité concernée. Le ministère chargé des sports reste pleinement investi et garde un contact étroit avec les différents acteurs sur cette problématique.
