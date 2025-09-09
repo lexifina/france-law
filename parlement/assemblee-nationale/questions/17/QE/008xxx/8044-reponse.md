@@ -1,0 +1,9 @@
+# Réponse à la question n° 8044
+
+- Question : [8044](8044.md) — Question n° 8044 — Abonnements 360VR
+
+## Réponse
+
+*JO du 2025-09-09, page 7727*
+
+La solution « Internet+ » est une solution de paiement sur facture opérateur qui permet de payer des achats de services ou produits, tels que des vidéos 360° de réalité virtuelle (« 360VR »). Le prix de l'achat ou de l'abonnement est directement prélevé sur la facture émise par l'opérateur de communications électroniques. Les consommateurs sont informés du caractère payant d'un achat « Internet+ » par les opérateurs de communications électroniques, qui les redirigent vers leur propre page de paiement et affichent sur le bouton de validation des mentions comme « confirmer le paiement » ou « confirmer l'achat ». En complément, le consommateur reçoit à la fin de la transaction une confirmation par SMS ou par mail. Par ailleurs, des plafonds de facturation sont prévus par le code monétaire et financier et le consommateur a également la possibilité de désactiver le moyen de paiement « Internet+ » depuis son espace client. Enfin, la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) a mené des actions de communications institutionnelles auprès du grand public sur le thème « Attention aux mauvaises surprises sur ma facture de téléphone », avec France Télévisions en 2023, puis en 2024 sous la forme d'une campagne de prévention à destination des consommateurs sur les réseaux sociaux. Ces campagnes de communication avaient pour but d'appeler le grand public à la vigilance en navigant sur internet avant de cliquer sur un bouton qui abonne à un service payant. Les services de la DGCCRF restent particulièrement vigilants sur les pratiques autour de ces solutions de paiement afin de prévenir le développement de fraudes qui pèsent sur le pouvoir d'achat des consommateurs.
