@@ -1,0 +1,9 @@
+# Réponse à la question n° 5980
+
+- Question : [5980](5980.md) — Question n° 5980 — Publication décrets instaurant une 4ème année d'internat de médecine générale
+
+## Réponse
+
+*JO du 2025-09-09, page 7834*
+
+La mise en place de la quatrième année d'internat pour la médecine générale est une priorité ministérielle. Cette réforme, votée en 2022, dans la loi de financement de la sécurité sociale 2023, est en effet une étape déterminante dans la professionnalisation des futurs médecins généralistes. Cette année de consolidation vise à renforcer leur autonomie en leur offrant une expérience pratique accrue d'une année sous la supervision de maitres de stage universitaires. Par ailleurs, cette réforme constitue une nouvelle étape pour consolider l'organisation des soins primaires et permettra à court terme de renforcer significativement la réponse aux besoins de santé sur l'ensemble du territoire national. Les dispositions réglementaires concernant le statut des docteurs juniors qui exerceront dans la spécialité de médecine générale viennent préciser leurs modalités de rémunération ainsi que leurs conditions de participation, à titre facultatif, à la permanence des soins ambulatoire. Ces dispositions ont fait l'objet de nombreux échanges au sein du comité de suivi de mise en place de la 4ème année du diplôme d'études spécialisées de médecine générale, qui a pour mission de garantir une mise en œuvre efficace et cohérente de cette réforme. Le ministre chargé de la santé et de l'accès aux soins a annoncé le 27 janvier 2025, à l'occasion de son déplacement à la maison de santé pluriprofessionnelle de Chatillon, que les textes d'application de la 4ème année de l'internat de médecine générale seraient prêts pour l'été 2025 et qu'ils seront publiés après les concertations obligatoires. Cet engagement a été tenu avec la publication de ces textes réglementaires au journal officiel du 28 août 2025.
