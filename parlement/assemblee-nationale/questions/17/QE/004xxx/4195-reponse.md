@@ -1,0 +1,9 @@
+# Réponse à la question n° 4195
+
+- Question : [4195](4195.md) — Question n° 4195 — Difficultés de l'allaitement au travail en France
+
+## Réponse
+
+*JO du 2025-09-09, page 7882*
+
+Les dispositions relatives aux locaux d'allaitement sont fixées aux articles L. 1225-32 et R. 1225-7 du code du travail qui prévoient que tout employeur employant plus de 100 salariées peut être mis en demeure d'installer dans son établissement ou à proximité des locaux dédiés à l'allaitement qui doivent répondre aux caractéristiques prévues aux articles R. 4152-13 et suivants de ce même code. Si le code du travail ne prévoit pas explicitement la mise à disposition de prises électriques dans les locaux de travail et leurs locaux annexes, y compris les locaux de restauration ou les locaux d'allaitement, il précise que le local dédié à l'allaitement est équipé de moyens de réchauffer les aliments, induisant la présence de prises électriques dans la pièce (article R. 4152-24). Enfin, il appartient à l'agent de contrôle de l'inspection du travail se rendant au sein de l'entreprise d'apprécier au cas par cas la situation, y compris s'agissant de la proximité du local d'allaitement. Outre la possibilité de mise en demeure, la méconnaissance des articles du code du travail relatifs aux locaux d'allaitement est punie de l'amende prévue pour les contraventions de la cinquième classe, qui est prononcée autant de fois qu'il y a de travailleurs concernés par l'infraction (article R. 4743-2 du code du travail). A titre d'illustration, entre 2021 et 2025, aucune mise en demeure n'a été adressée à un employeur. Seules 9 lettres d'observations portant sur les locaux d'allaitement ont été envoyées et aucune ne portait sur d'éventuelles difficultés rencontrées en raison de l'emplacement du local dédié à l'allaitement ou de l'absence de prises électriques dans les locaux.
