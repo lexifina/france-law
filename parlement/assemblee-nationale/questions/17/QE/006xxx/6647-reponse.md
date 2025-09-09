@@ -1,0 +1,9 @@
+# Réponse à la question n° 6647
+
+- Question : [6647](6647.md) — Question n° 6647 — Engagement associatif validation trimestre retraite
+
+## Réponse
+
+*JO du 2025-09-09, page 7850*
+
+Les chiffres 2025 montrent que le bénévolat régulier progresse. Au terme de l'étude « La France bénévole 2025 » réalisée par Recherches et solidarités, en moyenne 21 % des Français donnent de leur temps à une association tout au long de l'année et, parmi eux, 11 % chaque semaine. Ces données sont supérieures à celles constatées en 2023 et 2024, et bien supérieures à celles d'avant la crise sanitaire (10,1 % en 2019). Le bénévolat ne s'essouffle donc pas. Le bénévolat régulier progresse. Pour favoriser l'engagement des Français, le Gouvernement poursuit une politique volontariste de développement de l'engagement notamment des jeunes qui sont les bénévoles de demain et de valorisation de cet engagement dans la sphère professionnelle notamment au travers du compte personnel de formation. Le Gouvernement a pour l'heure, en accord avec le secteur, fait le choix de ne pas indemniser les bénévoles directement ou par une aide telle qu'un nouveau droit à la retraite considérant que la relation choisie volontairement entre un bénévole et son association n'implique pas une contrepartie prise en charge par la communauté nationale. Il pourrait être discutable de transformer un acte gratuit en le rétribuant par un complément pécunier. Par ailleurs, l'important travail interministériel effectué par le passé par les ministères concernés pour tester la faisabilité de différentes mesures a permis d'évaluer la charge pour les finances publiques à 614 M€ dès la première année, ce qui ajouterait une contrainte budgétaire supplémentaire à l'heure où l'équilibre du système des retraites par répartition est recherché.
