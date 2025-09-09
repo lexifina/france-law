@@ -1,0 +1,9 @@
+# Réponse à la question n° 9187
+
+- Question : [9187](9187.md) — Question n° 9187 — Avenir du dispositif des adultes-relais des quartiers prioritaires de la ville
+
+## Réponse
+
+*JO du 2025-09-09, page 7903*
+
+La ministre chargée de la Ville, Juliette MEADEL, partage pleinement cette anaylse, appuyée en cela par plusieurs rapports d'inspections qui soulignent tant l'efficacité que l'importance dans les quartiers prioritaires de la politique de la ville (QPV) du dispositif des adultes-relais. La loi de finances pour l'année 2025 a prévu que le dispositif des adultes-relais puisse bénéficier de 98 M€, montant identique à ceux votés pour les lois de finances des années 2023 et 2024. Cette mesure a ainsi permis de poursuivre le dispositif, apprécié par les acteurs locaux et les habitants des QPV, malgré les réductions de crédits imposées par les contraintes budgétaires de l'exercice 2024. Comme indiqué, une des ambitions du Comité interministériel des villes (CIV) qui s'est réuni le 6 juin dernier à Montpellier, consistait à renforcer la présence humaine dans les quartiers. Au regard du coût annuel d'un poste, ce montant voté en loi de finances permet d'assurer le financement d'environ 4500 adultes-relais en 2025 (en fonction du taux de vacance frictionnelle des postes), avec un maillage des recrutements sur l'ensemble du territoire national. Compte tenu de l'importance de l'action des adultes-relais, véritables acteurs de la médiation, au sein des QPV, la ministre Juliette MEADEL souhaite soumettre au débat parlementaire, dans le cadre de l'examen de la loi de finances pour 2026, le maintien de l'enveloppe de crédits à la mêrme hauteur, malgré le contexte budgétaire. Enfin, il peut être souligné que dans une logique de subsidiarité, la répartition des postes a été déconcentrée, en confiant aux préfets de région un contingent de postes dont ils assurent la ventilation entre départements au regard des enjeux et priorités identifiés localement.
