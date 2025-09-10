@@ -872,12 +872,6 @@ Conformément à l’article 2 de de l’arrêté du 31 juillet 2019 (NOR : TRER
 
 Conformément à l’article 2 de l’arrêté du 2 juin 2016 (NOR : DEVR1611811A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.
 
--Pompe à chaleur de type air/eau ou eau/eau / Fiche d’opération standardisée n° BAT-TH-113
-
-Conformément au 1° de l’article 6 de l’arrêté du 20 mars 2015 (NOR : DEVR1507213A), l’annexe 1 de la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 6 dudit arrêté.
-
-Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
-
 -Climatiseur performant (France d’outre-mer) / Fiche d’opération standardisée n° BAT-TH-115
 
 Conformément au 1° de l’article 6 de l’arrêté du 20 mars 2015 (NOR : DEVR1507213A), l’annexe 1 de la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 6 dudit arrêté.
@@ -1189,6 +1183,18 @@ Conformément à l'article 4 de l'arrêté du 22 août 2024 (NOR : ECOR2422700A)
 - Maintien en température des groupes électrogènes de secours par pompe à chaleur de type air/eau / Fiche d'opération standardisée n° BAT-TH-161
 
 Conformément à l'article 3 de l'arrêté du 22 août 2024 (NOR : ECOR2422700A), la présente annexe est complétée par la fiche d'opération standardisée figurant à l'annexe F de l'arrêté précité. Vous pouvez consulter l'annexe à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=ZbBEIZBpGcGHOKQbKS9utmtc_Fh71x9KoG_z3damffY=.
+
+Conformément à l'article 2 de l'arrêté du 6 septembre 2025 (NOR : ECOR2524049A), la fiche d'opération standardisée n° BAT-TH-162 et son annexe 1, sont ajoutées à cette annexe. Vous pouvez consulter l'annexe à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=okg8pYdlzqssb9b30Jjqo55GUKX-R6_xjHU0tp5sLCk=
+
+Conformément à l'article 2 de l'arrêté du 6 septembre 2025 (NOR : ECOR2524049A), la fiche d'opération standardisée n° BAT-TH-163 et son annexe 1, sont ajoutées à cette annexe. Vous pouvez consulter l'annexe à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=okg8pYdlzqssb9b30Jjqo55GUKX-R6_xjHU0tp5sLCk=
+
+Conformément à l'article 2 de l'arrêté du 6 septembre 2025 (NOR : ECOR2524049A), la fiche d'opération standardisée n° BAT-TH-164 et son annexe 1, sont ajoutées à cette annexe. Vous pouvez consulter l'annexe à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=okg8pYdlzqssb9b30Jjqo55GUKX-R6_xjHU0tp5sLCk=
 
 -Luminaires à modules LED pour surfaces commerciales / Fiche d’opération standardisée n° BAT-EQ-111 (abrogée à compter du 1er avril 2019)
 
