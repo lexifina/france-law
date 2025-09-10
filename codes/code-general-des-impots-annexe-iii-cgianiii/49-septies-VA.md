@@ -4,7 +4,7 @@ I. - 1. L'agrément des organismes de recherche prévu au B du I de l'article 24
 
 2. Sont joints à la demande d'agrément :
 
-a) Les pièces justificatives attestant que l'organisme de recherche répond à la définition d'organisme de recherche et de diffusion des connaissances donnée par la communication de la Commission européenne n° 2014/C 198/01 relative à l'encadrement des aides d'Etat à la recherche, au développement et à l'innovation ;
+a) Les pièces justificatives attestant que l'organisme de recherche répond à la définition d'organisme de recherche et de diffusion des connaissances donnée par la communication de la Commission européenne n° 2022/ C 414/01 relative à l'encadrement des aides d'Etat à la recherche, au développement et à l'innovation ;
 
 b) L'agrément mentionné au d bis du II de l'article 244 quater B du code général des impôts.
 
@@ -16,10 +16,6 @@ L'instruction de ce formulaire peut être confiée par les services centraux de 
 
 II. - L'agrément prévu au I est accordé pour une durée de trois ans ou pour la durée restant à courir avant la fin de validité de l'agrément mentionné au d bis du II de l'article 244 quater B du code général des impôts si elle est inférieure.
 
-III. - L'agrément prévu au I peut être retiré par le ministère chargé de la recherche si l'organisme de recherche ne remplit plus l'un des critères de qualification d'organisme de recherche et de diffusion des connaissances au sens de la communication de la Commission européenne n° 2014/C 198/01 relative à l'encadrement des aides d'Etat à la recherche, au développement et à l'innovation.
+III. - L'agrément prévu au I peut être retiré par le ministère chargé de la recherche si l'organisme de recherche ne remplit plus l'un des critères de qualification d'organisme de recherche et de diffusion des connaissances au sens de la communication de la Commission européenne n° 2022/ C 414/01 relative à l'encadrement des aides d'Etat à la recherche, au développement et à l'innovation.
 
 IV. - La première demande d'agrément doit être déposée avant le 31 mars lorsqu'elle porte sur l'année en cours.
-
-NOTA :
-
-Conformément à l'article 3 du décret n° 2022-1006 du 15 juillet 2022, par dérogation au IV de l'article 49 septies VA de l'annexe III au code général des impôts, la première demande d'agrément au titre de l'année 2022 doit être déposée avant le 30 septembre 2022.
