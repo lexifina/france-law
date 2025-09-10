@@ -10,6 +10,16 @@ Remarques :
 
 - l'introduction sur le territoire national, la détention, le transport, le colportage, l'utilisation, l'échange, la mise en vente, la vente ou l'achat de tout spécimen vivant des espèces dont le nom est suivi du symbole (*) dans la présente annexe sont interdits, en application du I de l'article L. 411-6 du code de l'environnement. L'introduction sur le territoire national, la détention, le transport, l'utilisation et l'échange de spécimens de ces espèces ne pourront être autorisés par l'autorité administrative que par exception, dans les conditions décrites au II de ce même article. Un régime particulier de détention est également prévu, au bénéfice de l'antériorité, lorsque les conditions fixées par le I de l'article R. 411-39 du code de l'environnement sont satisfaites ; la détention des spécimens concernés est alors dispensée de certificat de capacité et d'autorisation d'ouverture.
 
+- s'agissant des espèces et groupes d'espèces dont le nom est suivi du symbole (**) dans la présente annexe, les indications du tableau s'appliquent sous réserve de la disposition spécifique aux rapaces figurant à l'article 13
+
+Les spécimens “ hybrides ” qui, dans les quatre générations précédentes de leur ascendance, ont un spécimen au moins d'une espèce ou d'une sous-espèce non domestique sont considérés comme non domestiques. En cas de litige sur le caractère domestique ou non d'un animal, la charge de la preuve que l'espèce, la race ou la variété est domestique revient au propriétaire.
+
+Pour l'application des seuils ci-dessous, il est tenu compte :
+
+- des spécimens " hybrides " entre une espèce, race ou variété domestique et une espèce ou sous-espèce non domestique. Pour ces spécimens " hybrides ", le régime de détention qui s'applique est celui du parent d'espèce ou de sous-espèce non domestique.
+
+- des spécimens " hybrides " entre deux espèces ou sous-espèces non domestiques. Pour ces spécimens " hybrides ", le régime de détention qui s'applique est le plus contraignant de ceux des deux parents.
+
 Noms scientifiques (Noms vernaculaires)
 
 |
@@ -98,10 +108,6 @@ Sauf mention contraire expresse dans la suite du présent tableau, espèces prot
 
 - Arrêté du 17 janvier 2018 relatif aux mammifères terrestres protégés à Saint-Martin. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
 
-- Arrêté du 19 novembre 2020 fixant la liste des amphibiens et des reptiles représentés dans le département de la Guyane protégés sur l'ensemble du territoire national et les modalités de leur protection. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
-
--Arrêté du 8 janvier 2021 fixant la liste des amphibiens et des reptiles représentés sur le territoire métropolitain protégés sur l'ensemble du territoire national et les modalités de leur protection. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
-
 -Arrêté du 14 octobre 2019 fixant la liste des amphibiens et des reptiles représentés dans le département de la Guadeloupe protégés sur l'ensemble du territoire national et les modalités de leur protection. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
 
 - Arrêté du 14 octobre 2019 fixant la liste des amphibiens et des reptiles représentés dans le département de la Martinique protégés sur l'ensemble du territoire national et les modalités de leur protection. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
@@ -111,6 +117,10 @@ Sauf mention contraire expresse dans la suite du présent tableau, espèces prot
 - Arrêté du 24 janvier 2020 fixant la liste des insectes représentés dans la collectivité d'outre-mer de Saint-Martin protégés sur l'ensemble du territoire national et les modalités de leur protection. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
 
 - Arrêté du 24 janvier 2020 fixant la liste des insectes représentés dans le département de la Guadeloupe protégés sur l'ensemble du territoire national et les modalités de leur protection Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
+
+- Arrêté du 19 novembre 2020 fixant la liste des amphibiens et des reptiles représentés dans le département de la Guyane protégés sur l'ensemble du territoire national et les modalités de leur protection. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
+
+-Arrêté du 8 janvier 2021 fixant la liste des amphibiens et des reptiles représentés sur le territoire métropolitain protégés sur l'ensemble du territoire national et les modalités de leur protection. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
 
 - Arrêté du 10 novembre 2022 fixant la liste des tortues marines protégées sur le territoire national et les modalités de leur protection. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
 
@@ -566,7 +576,9 @@ s.o.
 
 |
 
-- Callosciurus finlaysonii (Ecureuil de Finlayson) (*) |
+- Callosciurus finlaysonii (Ecureuil de Finlayson) (*)
+
+|
 
 s.o. |
 
@@ -1626,11 +1638,11 @@ s.o.
 
 |
 
-De 1 à 6
+s.o.
 
 |
 
-7 et plus
+1 et plus
 
 |
 
@@ -1756,7 +1768,7 @@ s.o.
 
 |
 
-- Autres espèces de Suidés (Sangliers)
+- Suidés autres que sangliers
 
 |
 
@@ -1910,7 +1922,9 @@ s.o.
 
 |
 
--Axis axis (Cerf axis, Chital) (*) |
+-Axis axis (Cerf axis, Chital) (*)
+
+|
 
 s.o. |
 
@@ -1918,7 +1932,7 @@ s.o. |
 
 1 et plus |
 
-- Autres Cervidés (Cerfs, chevreuils, élans, rennes, etc.)
+- Autres Cervidés (Cerfs, chevreuils, élans, etc.)
 
 |
 
@@ -1998,7 +2012,7 @@ s.o.
 
 |
 
-29° Cetacea (Dauphins, baleines, rorqual)
+29° Cetacea (Dauphins, baleines, rorqual, etc.)
 
 |
 
@@ -3048,7 +3062,7 @@ s.o.
 
 |
 
-- Autres Threskiornithidés, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et protégés en application de l'article L. 411-1 du code de l'environnement
+- Autres Threskiornithidés, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et hors espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
 |
 
@@ -3148,7 +3162,7 @@ s.o.
 
 |
 
-- Spizaetus spp. (Spizaètes) détenus uniquement à des fins personnelles dans le cadre de la pratique de la chasse au vol
+- Spizaetus spp. (Spizaètes) (**)
 
 |
 
@@ -3156,15 +3170,35 @@ s.o.
 
 |
 
-De 1 à 6
+s.o.
 
 |
 
-7 et plus
+1 et plus
 
 |
 
-- Hieraaetus spp. (Aigles) détenus uniquement à des fins personnelles dans le cadre de la pratique de la chasse au vol
+- Nizaetus spp. (**)
+
+|
+
+s. o. |
+
+s. o. |
+
+1 et plus |
+
+-Geranoaetus melanoleucus (Buse aguia) (**)
+
+|
+
+s. o. |
+
+s. o. |
+
+1 et plus |
+
+- Hieraaetus spp. (Aigles) (**)
 
 |
 
@@ -3172,31 +3206,13 @@ s.o.
 
 |
 
-De 1 à 6
+s.o. |
+
+1 et plus
 
 |
 
-7 et plus
-
-|
-
-- Aquila spp. (Aigles) détenus uniquement à des fins personnelles dans le cadre de la pratique de la chasse au vol
-
-|
-
-s.o.
-
-|
-
-De 1 à 6
-
-|
-
-7 et plus
-
-|
-
-- Accipiter spp. (Autours, éperviers) détenus uniquement à des fins personnelles dans le cadre de la pratique de la chasse au vol
+- Aquila spp. (Aigles) (**)
 
 |
 
@@ -3204,15 +3220,15 @@ s.o.
 
 |
 
-De 1 à 6
+s.o.
 
 |
 
-7 et plus
+1 et plus
 
 |
 
-- Buteogallus spp. (Buses) détenus uniquement à des fins personnelles dans le cadre de la pratique de la chasse au vol
+- Accipiter spp. (Autours, éperviers) (**)
 
 |
 
@@ -3220,15 +3236,15 @@ s.o.
 
 |
 
-De 1 à 6
+s.o.
 
 |
 
-7 et plus
+1 et plus
 
 |
 
-- Parabuteo spp. (Buses) détenus uniquement à des fins personnelles dans le cadre de la pratique de la chasse au vol
+- Buteogallus spp. (Buses) (**)
 
 |
 
@@ -3236,15 +3252,15 @@ s.o.
 
 |
 
-De 1 à 6
+s.o.
 
 |
 
-7 et plus
+1 et plus
 
 |
 
-- Buteo spp. (Buses) détenus uniquement à des fins personnelles dans le cadre de la pratique de la chasse au vol
+- Parabuteo spp. (Buses) (**)
 
 |
 
@@ -3252,15 +3268,31 @@ s.o.
 
 |
 
-De 1 à 6
+s.o.
 
 |
 
-7 et plus
+1 et plus
 
 |
 
-- Toutes les autres espèces d'Accipitriformes et autres cas de détention de Spizaetus spp., Hieraaetus spp., Aquila spp., Accipiter spp., Buteogallus spp., Parabuteo spp. et Buteo spp.
+- Buteo spp. (Buses) (**)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Toutes les autres espèces d'Accipitriformes.
 
 |
 
@@ -3742,7 +3774,7 @@ s.o.
 
 |
 
-- Bubo bubo (Grand-duc) détenus uniquement à des fins personnelles dans le cadre de la pratique de la chasse au vol
+- Bubo bubo (Grand-duc) (**)
 
 |
 
@@ -3750,15 +3782,15 @@ s.o.
 
 |
 
-De 1 à 6
+s.o.
 
 |
 
-7 et plus
+1 et plus
 
 |
 
-- Toutes les autres espèces de Strigiformes et autres cas de détention de Bubo bubo
+- Toutes les autres espèces de Strigiformes
 
 |
 
@@ -3838,7 +3870,7 @@ s.o.
 
 |
 
-34° Leptosomatiformes (Courol vouroudriou)
+34° Leptosomiformes (Courol vouroudriou)
 
 |
 
@@ -3986,7 +4018,7 @@ s.o.
 
 |
 
-- Falco spp. (Faucons) détenus uniquement à des fins personnelles dans le cadre de la pratique de la chasse au vol
+- Falco spp. (Faucons) (**)
 
 |
 
@@ -3994,15 +4026,15 @@ s.o.
 
 |
 
-De 1 à 6
+s.o.
 
 |
 
-7 et plus
+1 et plus
 
 |
 
-- Toutes les autres espèces de Falconiformes et autres cas de détention de Falco spp.
+- Toutes les autres espèces de Falconiformes
 
 |
 
@@ -4460,7 +4492,7 @@ s.o.
 
 |
 
-- Aratinga euops (Conure de Cuba)
+- Psittacara euops (Conure de Cuba)
 
 |
 
@@ -4524,7 +4556,7 @@ De 1 à 75
 
 |
 
-- Autres Aratinga spp. (Conures, etc.)
+- Autres Aratinga spp., Eupsittacula spp. et Psittacara spp. (Conures, etc.)
 
 |
 
@@ -4588,7 +4620,7 @@ s.o.
 
 |
 
-- Coracopsis nigra barklyi (Vasa de Praslin)
+- Coracopsis barklyi (Vasa de Praslin)
 
 |
 
@@ -4668,22 +4700,6 @@ s.o.
 
 |
 
-- Psittacula eques (Perruche à collier de Maurice)
-
-|
-
-s.o.
-
-|
-
-s.o.
-
-|
-
-1 et plus
-
-|
-
 - Psittacula krameri (Perruche à collier)
 
 |
@@ -4716,7 +4732,7 @@ s.o.
 
 |
 
-- Psephotus dissimilis (Perruche à capuchon noir)
+- Psephotellus dissimilis (Perruche à capuchon noir)
 
 |
 
@@ -4732,7 +4748,7 @@ s.o.
 
 |
 
-- Psephotus pulcherrimus (Perruche de paradis)
+- Psephotellus pulcherrimus (Perruche de paradis)
 
 |
 
@@ -4748,7 +4764,7 @@ s.o.
 
 |
 
-- Autres Psephotus spp.
+- Autres Psephotellus spp. et Psephotus spp.
 
 |
 
@@ -4828,7 +4844,7 @@ s.o.
 
 |
 
-- Eunymphicus cornutus uvaeensis (Perruche cornue d'Ouvéa)
+- Eunymphicus uvaeensis (Perruche cornue d'Ouvéa)
 
 |
 
@@ -4844,7 +4860,7 @@ s.o.
 
 |
 
-- Cyanoramphus auriceps forbesi (Kakariki à front jaune de Forbes)
+- Cyanoramphus forbesi (Kakariki à front jaune de Forbes)
 
 |
 
@@ -4940,7 +4956,7 @@ s.o.
 
 |
 
-- Autres Neophema spp. (Perruches)
+- Autres Neophema spp. et Neopsephotus spp. (Perruches)
 
 |
 
@@ -5844,7 +5860,7 @@ Sauria :
 
 |
 
-- Uromastyx spp. (Fouette-queues)
+- Uromastyx spp. et Saara spp. (Fouette-queues)
 
 |
 
@@ -5908,7 +5924,7 @@ s.o.
 
 |
 
-- Chamaeleo pardalis (Caméléon-panthère)
+- Furcifer pardalis (Caméléon-panthère)
 
 |
 
@@ -6548,7 +6564,7 @@ s.o.
 
 |
 
-- Autres Varanus, lorsque leur taille adulte est supérieure ou égale à 3 mètres
+- Autres Varanus, lorsque leur taille adulte moyenne est supérieure ou égale à 3 mètres
 
 |
 
@@ -6564,7 +6580,7 @@ s.o.
 
 |
 
-- Autres espèces de Sauria, lorsque leur taille adulte est inférieure ou égale à 1 mètre, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et hors espèces protégées en application de l'article L. 411-1 du code de l'environnement
+- Autres espèces de Sauria, lorsque leur taille adulte moyenne est inférieure ou égale à 1 mètre, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et hors espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
 |
 
@@ -6580,7 +6596,7 @@ s.o.
 
 |
 
-- Autres espèces de Sauria, lorsque leur taille adulte est supérieure à 1 mètre, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et hors espèces protégées en application de l'article L. 411-1 du code de l'environnement
+- Autres espèces de Sauria, lorsque leur taille adulte moyenne est supérieure à 1 mètre, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et hors espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
 |
 
@@ -6766,7 +6782,7 @@ s.o.
 
 |
 
-- Autres Boïdés et Pythonidés (Boas, anacondas, pythons), lorsque leur taille adulte est supérieure ou égale à 3 mètres
+- Autres Boïdés et Pythonidés (Boas, anacondas, pythons), lorsque leur taille adulte moyenne est supérieure ou égale à 3 mètres
 
 |
 
@@ -7414,7 +7430,7 @@ s.o.
 
 |
 
-- Autres espèces de Serpentes, lorsque leur taille adulte est inférieure ou égale à 1,50 mètres, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et hors espèces protégées en application de l'article L. 411-1 du code de l'environnement
+- Autres espèces de Serpentes, lorsque leur taille adulte moyenne est inférieure ou égale à 1,50 mètres, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et hors espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
 |
 
@@ -7430,7 +7446,7 @@ s.o.
 
 |
 
-- Autres espèces de Serpentes, lorsque leur taille adulte est supérieure à 1,50 mètres, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et hors espèces protégées en application de l'article L. 411-1 du code de l'environnement
+- Autres espèces de Serpentes, lorsque leur taille adulte moyenne est supérieure à 1,50 mètres, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et hors espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
 |
 
@@ -8048,7 +8064,7 @@ s.o.
 
 |
 
-- Autres espèces de Testudines, lorsque leur taille adulte est inférieure ou égale à 40 centimètres, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et hors espèces protégées en application de l'article L. 411-1 du code de l'environnement
+- Autres espèces de Testudines, lorsque leur taille adulte moyenne est inférieure ou égale à 40 centimètres, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et hors espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
 |
 
@@ -8064,7 +8080,7 @@ s.o.
 
 |
 
-- Autres espèces de Testudines, lorsque leur taille adulte est supérieure à 40 centimètres, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et hors espèces protégées en application de l'article L. 411-1 du code de l'environnement
+- Autres espèces de Testudines, lorsque leur taille adulte moyenne est supérieure à 40 centimètres, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et hors espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
 |
 
@@ -8100,7 +8116,7 @@ IV. AMPHIBIENS
 
 |
 
-- Allophrynidae (Grenouilles arboricoles des Guyanes)
+- Allophrynidés (Grenouilles arboricoles des Guyanes)
 
 |
 
@@ -8116,7 +8132,7 @@ s.o.
 
 |
 
-- Brachycéphalidae (Crapauds ensellés)
+- Brachycéphalidés (Crapauds ensellés)
 
 |
 
@@ -8132,7 +8148,7 @@ s.o.
 
 |
 
-- Discoglossidae (Discoglosses, crapauds sonneurs)
+- Discoglossidés et Bombinatoridés (Discoglosses, crapauds sonneurs)
 
 |
 
@@ -8148,7 +8164,7 @@ s.o.
 
 |
 
-- Héléophrynidae (Grenouilles spectres)
+- Héléophrynidés (Grenouilles spectres)
 
 |
 
@@ -8164,7 +8180,7 @@ s.o.
 
 |
 
-- Hyla cinerea (Rainette cendrée)
+- Dryophytes cinereus (Rainette cendrée)
 
 |
 
@@ -8212,7 +8228,7 @@ s.o.
 
 |
 
-- Leiopelmatidae (Grenouilles à queue)
+- Leiopelmatidés (Grenouilles à queue)
 
 |
 
@@ -8244,7 +8260,7 @@ s.o.
 
 |
 
-- Pélobatidae (Pélobates, crapauds à couteau)
+- Pélobatidés (Pélobates, crapauds à couteau)
 
 |
 
@@ -8260,7 +8276,7 @@ s.o.
 
 |
 
-- Pélodytidae (Pélodytes, grenouilles persillées)
+- Pélodytidés (Pélodytes, grenouilles persillées)
 
 |
 
@@ -8292,7 +8308,7 @@ s.o.
 
 |
 
-- Pipa spp.
+- Pipa spp. hormis les espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
 |
 
@@ -8308,7 +8324,7 @@ s.o.
 
 |
 
-- Autres espèces de Pipidae (dont Xenopus spp.)
+- Autres espèces de Pipidés (dont Xenopus spp.)
 
 |
 
@@ -8324,7 +8340,9 @@ s.o.
 
 |
 
-- Xenopus laevis (Xénope lisse) (*) |
+- Xenopus laevis (Xénope lisse) (*)
+
+|
 
 s.o. |
 
@@ -8380,7 +8398,7 @@ s.o.
 
 |
 
-- Rhinodermatidae (Grenouilles à nez pointu)
+- Rhinodermatidés (Grenouilles à nez pointu)
 
 |
 
@@ -8396,7 +8414,7 @@ s.o.
 
 |
 
-- Rhinophrynidae (Crapauds fouisseurs du Mexique)
+- Rhynophrynidés (Crapauds fouisseurs du Mexique)
 
 |
 
@@ -8412,7 +8430,7 @@ s.o.
 
 |
 
-- Sooglossidae (Grenouilles des Seychelles)
+- Sooglossidés (Grenouilles des Seychelles)
 
 |
 
@@ -8427,6 +8445,16 @@ s.o.
 1 et plus
 
 |
+
+- Dendrobates tinctorius morphotype azureus
+
+|
+
+De 1 à 40 |
+
+s. o. |
+
+41 et plus |
 
 - Autres Anoures, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et hors espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
@@ -8470,7 +8498,7 @@ s.o.
 
 |
 
-- Cryptobranchidae (Salamandres géantes)
+- Cryptobranchidés (Salamandres géantes)
 
 |
 
@@ -8486,7 +8514,7 @@ s.o.
 
 |
 
-- Dicamptodontidés (Salamandres géantes du Pacifique)
+- Dicamptodon spp. (Salamandres géantes du Pacifique)
 
 |
 
@@ -8502,7 +8530,7 @@ s.o.
 
 |
 
-- Proteidae (Protées et nectures)
+- Proteidés (Protées et nectures)
 
 |
 
@@ -8750,7 +8778,7 @@ OSTEICHTYENS
 
 |
 
-- Scorpaenidae (Poissons-scorpions ou rascasses)
+- Scorpaenidés (Poissons-scorpions ou rascasses)
 
 |
 
@@ -8766,7 +8794,7 @@ s.o.
 
 |
 
-- Synanceiidae (Poissons-pierres)
+- Synanceiidés (Poissons-pierres)
 
 |
 
@@ -8824,7 +8852,9 @@ s.o.
 
 |
 
-- Channa argus (Poisson tête de serpent) (*) |
+- Channa argus (Poisson tête de serpent) (*)
+
+|
 
 s.o. |
 
@@ -8832,7 +8862,9 @@ s.o. |
 
 1 et plus |
 
-- Morone americana (Baret) (*) |
+- Morone americana (Baret) (*)
+
+|
 
 s.o. |
 
@@ -8914,7 +8946,9 @@ s.o.
 
 |
 
-- Fundulus heteroclitus (Choquemort) (*) |
+- Fundulus heteroclitus (Choquemort) (*)
+
+|
 
 s.o. |
 
@@ -8924,7 +8958,9 @@ s.o. |
 
 |
 
-- Gambusia holbrooki (Gambusie) (*) |
+- Gambusia holbrooki (Gambusie) (*)
+
+|
 
 s.o. |
 
@@ -8932,7 +8968,9 @@ s.o. |
 
 1 et plus |
 
-- Gambusia affinis (Gambusie de l'Ouest) (*) |
+- Gambusia affinis (Gambusie de l'Ouest) (*)
+
+|
 
 s.o. |
 
@@ -9078,7 +9116,7 @@ MOLLUSCA (MOLLUSQUES)
 
 |
 
-- Conidae (Escargots marins, cônes)
+- Conidés (Escargots marins, cônes)
 
 |
 
@@ -9134,7 +9172,9 @@ s.o.
 
 |
 
-- Limnoperna fortunei (Moule dorée) (*) |
+- Limnoperna fortunei (Moule dorée) (*)
+
+|
 
 s.o. |
 
@@ -9448,7 +9488,9 @@ Insecta : Hymenoptera (Abeilles, guêpes, fourmis)
 
 |
 
-- Solenopsis geminata (Fourmi de feu) (*) |
+- Solenopsis geminata (Fourmi de feu) (*)
+
+|
 
 s.o. |
 
@@ -9456,7 +9498,9 @@ s.o. |
 
 1 et plus |
 
-- Solenopsis invicta (Fourmi de feu) (*) |
+- Solenopsis invicta (Fourmi de feu) (*)
+
+|
 
 s.o. |
 
@@ -9464,7 +9508,9 @@ s.o. |
 
 1 et plus |
 
-- Solenopsis richteri (*) |
+- Solenopsis richteri (*)
+
+|
 
 s.o. |
 
@@ -9472,7 +9518,9 @@ s.o. |
 
 1 et plus |
 
-- Vespa orientalis (Frelon oriental) (*) |
+- Vespa orientalis (Frelon oriental) (*)
+
+|
 
 s.o. |
 
@@ -9496,7 +9544,39 @@ s.o.
 
 |
 
-- Wasmannia auropunctata (*) |
+- Wasmannia auropunctata (*)
+
+|
+
+s.o. |
+
+s.o. |
+
+1 et plus |
+
+- Paraponera clavata (fourmi balle de fusil)
+
+|
+
+s.o. |
+
+s.o. |
+
+1 et plus |
+
+- Atta spp. (fourmis champignonistes)
+
+|
+
+s.o. |
+
+s.o. |
+
+1 et plus |
+
+- Solenopsis spp. (fourmis de feu)
+
+|
 
 s.o. |
 
@@ -9519,3 +9599,13 @@ s.o.
 s.o.
 
 |
+
+Autres espèces d'invertébrés, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et hors espèces protégées en application de l'article L. 411-1 du code de l'environnement
+
+|
+
+1 et plus |
+
+s. o. |
+
+s. o. |

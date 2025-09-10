@@ -1,3 +1,3 @@
 # Article 17 bis
 
-Les propriétaires d'animaux d'espèces mentionnées au II de l'article 3 qui, à la date du 14 octobre 2018, n'étaient pas marqués procèdent au marquage de ces animaux avant le 31 décembre 2019.
+Les propriétaires d'animaux d'espèces dont le régime de détention mentionné à l'annexe 2 du présent arrêté est modifié par arrêté du ministre chargé de la protection de la nature et du ministre chargé de l'agriculture peuvent continuer à les détenir conformément aux obligations requises par leur précédent régime de détention, et ce, jusqu'au décès de chaque spécimen. En cas de cession de l'animal, l'acquéreur sera tenu de respecter le nouveau régime de détention mentionné à l'annexe 2 du présent arrêté.

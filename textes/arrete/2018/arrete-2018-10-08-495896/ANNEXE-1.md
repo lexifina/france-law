@@ -28,9 +28,9 @@ Les mammifères sont marqués par implantation sous-cutanée ou intramusculaire 
 
 1.2.1. Modalités d'implantation :
 
-L'implantation doit être effectuée au niveau du tiers postérieur de l'encolure du côté gauche ou, chez les petites espèces, en position interscapulaires.
+L'implantation doit être effectuée préférentiellement au niveau du tiers postérieur de l'encolure du côté gauche ou en position interscapulaire dorsale.
 
-Toutefois, lorsqu'en raison des caractéristiques morphologiques de l'espèce, cette localisation n'est pas possible, l'implantation peut être effectuée en un autre emplacement qui doit être impérativement précisé sur la déclaration de marquage prévue à l'article 7 du présent arrêté.
+Toutefois, lorsqu'en raison des caractéristiques morphologiques de l'espèce ou des risques inhérents à la pose du transpondeur, cette localisation n'est pas possible, l'implantation peut être effectuée en un autre emplacement qui doit être impérativement précisé sur la déclaration de marquage prévue à l'article 7 du présent arrêté.
 
 Avant l'implantation, la présence d'un éventuel transpondeur déjà implanté doit être recherchée. Le transpondeur destiné à être implanté doit être lu. Après l'implantation, la lisibilité du transpondeur injecté doit être contrôlée.
 
@@ -108,10 +108,6 @@ Les transpondeurs doivent être agréés dans les conditions prévues par les ar
 
 Les lecteurs doivent être conformes aux normes ISO 11785 et ISO 24631-6.
 
-1.3. Cas des Chiroptères
-
-Aux fins du présent arrêté, les chiroptères peuvent être marqués par des bagues conformes aux modèles définis par le présent arrêté pour les oiseaux.
-
 2. Procédés de marquage des oiseaux
 
 2.1. Procédés de marquage des oiseaux par bague fermée sans soudure
@@ -126,7 +122,7 @@ Aux fins du présent arrêté, les chiroptères peuvent être marqués par des b
 
 2° Les deux derniers chiffres du millésime de l'année d'utilisation ;
 
-3° Le diamètre de la bague en millimètres à partir de 10 mm, en 1/10 de millimètre en deçà de 10 mm ;
+3° Le diamètre de la bague en 1/10 de millimètre ;
 
 4° Le numéro d'ordre de l'oiseau comportant trois ou quatre chiffres ;
 
@@ -146,7 +142,7 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 1° La lettre F initiale de la France ;
 
-2° Le diamètre de la bague en millimètres à partir de 10 mm, en 1/10 de millimètre en deçà de 10 mm ;
+2° Le diamètre de la bague en 1/10 de millimètre ;
 
 3° Le numéro d'ordre de l'oiseau comportant deux lettres et quatre chiffres ;
 
@@ -169,6 +165,10 @@ Avant l'implantation, la présence d'un éventuel transpondeur déjà implanté 
 2.3.1.2. Caractéristiques du matériel utilisé :
 
 Elles sont identiques à celles décrites ci-dessus pour les mammifères.
+
+2.4. Dispositions dérogatoires pour les oiseaux
+
+Dans le cas des oiseaux, lorsque le marquage par transpondeur à radiofréquences ou par bagues ne peut être pratiqué pour une raison liée à leurs caractéristiques biologiques ou morphologiques, dûment justifiée par un vétérinaire qui en établit une attestation, ces derniers sont identifiés par photographies d'ensemble dorsale et ventrale, datées et accompagnées d'une échelle graduée, réalisées au stade juvénile puis au stade adulte. Toute anomalie doit être signalée.
 
 3. Procédés de marquage des reptiles et des amphibiens
 
@@ -208,16 +208,16 @@ Pour les lézards de petite taille : implantation intra-abdominale, face ventral
 
 En sous-cutané : implantation sur la face latérale gauche de la queue.
 
-3.1.1.2. En ce qui concerne les amphibiens, l'implantation des transpondeurs à radiofréquences s'effectue en sous-cutané.
+3.1.1.2. En ce qui concerne les amphibiens, l'implantation des transpondeurs à radiofréquences s'effectue préférentiellement en intra musculaire sur une masse musculaire à gauche, ou en sous-cutané lorsque l'anatomie de l'animal le permet.
 
 3.1.2. Caractéristiques du matériel utilisé :
 
 Elles sont identiques à celles décrites ci-dessus pour les mammifères.
 
-3.2. Dispositions dérogatoires pour les reptiles et amphibiens de petite taille
+3.2. Dispositions dérogatoires pour les reptiles et amphibiens de petite taille :
 
-Dans le cas des reptiles et des amphibiens, lorsque le marquage par transpondeur à radiofréquences ne peut être pratiqué en raison de la très petite taille des spécimens adultes, ces derniers sont identifiés par photographies, datées et accompagnées d'une échelle graduée, réalisées au stade juvénile puis au stade adulte :
+Dans le cas des reptiles et des amphibiens, lorsque le marquage par transpondeur à radiofréquences ne peut être pratiqué pour une raison liée à leurs caractéristiques biologiques ou morphologiques, dûment justifiées par un vétérinaire qui en établit une attestation, ces derniers sont identifiés par photographies, datées et accompagnées d'une échelle graduée, réalisées au stade juvénile puis au stade adulte :
 
-3.2.1. Chez les reptiles, une photographie d'ensemble dorsale et ventrale et une photographie des plaques du dessus de la tête. Toutes les anomalies comme par exemple, les doigts ou orteils manquants et si la queue est régénérée ou entière seront notées.
+3.2.1. Chez les reptiles, une photographie d'ensemble dorsale et ventrale et une photographie des plaques du dessus de la tête. Toutes les anomalies comme par exemple, les doigts ou orteils manquants et si la queue est régénérée ou coupée seront notées.
 
-3.2.2. Chez les amphibiens, une photographie de la tête en vue de profil avec un gros plan sur l'œil ainsi qu'une photographie des faces dorsale et ventrale afin d'identifier le patron du spécimen.
+3.2.2. Chez les amphibiens, une photographie de la tête en vue de profil avec un gros plan sur l'œil ainsi qu'une photographie des faces dorsale et ventrale afin d'identifier le patron du spécimen
