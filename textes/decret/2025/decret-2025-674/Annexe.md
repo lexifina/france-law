@@ -4,1887 +4,1887 @@ ANNEXE
 
 LISTE DES COMMUNES CONCERNÉES PAR LE DISPOSITIF D'AIDE À LA RÉALISATION DES TRAVAUX EN DOMAINE PRIVÉ POUR LE RACCORDEMENT À UN RÉSEAU EN FIBRE OPTIQUE
 
-Code Postal |
+Code INSEE |
 
 Nom de la commune |
 
-01000 |
+01053 |
 
 Bourg-en-Bresse |
 
-01310 |
+01065 |
 
 Buellas |
 
-01310 |
+01140 |
 
 Curtafond |
 
-01370 |
+01241 |
 
 Meillonnas |
 
-01600 |
+01339 |
 
 Saint-Bernard |
 
-02300 |
+02001 |
 
 Abbécourt |
 
-02320 |
+02010 |
 
 Allemant |
 
-02200 |
+02012 |
 
 Ambrief |
 
-02480 |
+02019 |
 
 Annois |
 
-02360 |
+02021 |
 
 Archon |
 
-02300 |
+02041 |
 
 Autreville |
 
-02270 |
+02048 |
 
 Barenton-sur-Serre |
 
-02300 |
+02056 |
 
 Beaumont-en-Beine |
 
-02300 |
+02086 |
 
 Bichancourt |
 
-02880 |
+02118 |
 
 Braye |
 
-02240 |
+02123 |
 
 Brissay-Choigny |
 
-02680 |
+02142 |
 
 Castres |
 
-02300 |
+02145 |
 
 Caumont |
 
-02200 |
+02154 |
 
 Chacrise |
 
-02300 |
+02173 |
 
 Chauny |
 
-02880 |
+02175 |
 
 Chavigny |
 
-02570 |
+02186 |
 
 Chézy-sur-Marne |
 
-02880 |
+02198 |
 
 Clamecy |
 
-02300 |
+02207 |
 
 Commenchon |
 
-02330 |
+02213 |
 
 Connigis |
 
-02680 |
+02214 |
 
 Contescourt |
 
-02330 |
+02223 |
 
 Courboin |
 
-02650 |
+02239 |
 
 Crézancy |
 
-02480 |
+02246 |
 
 Cugny |
 
-02350 |
+02248 |
 
 Cuirieux |
 
-02220 |
+02249 |
 
 Cuiry-Housse |
 
-02360 |
+02251 |
 
 Cuiry-lès-Iviers |
 
-02360 |
+02265 |
 
 Dohis |
 
-02690 |
+02287 |
 
 Essigny-le-Grand |
 
-02000 |
+02294 |
 
 Étouvelles |
 
-02520 |
+02315 |
 
 Flavy-le-Martel |
 
-02650 |
+02328 |
 
 Fossoy |
 
-02700 |
+02336 |
 
 Frières-Faillouël |
 
-02270 |
+02338 |
 
 Froidmont-Cohartille |
 
-02350 |
+02353 |
 
 Grandlup-et-Fay |
 
-02300 |
+02362 |
 
 Guivry |
 
-02480 |
+02397 |
 
 Jussy |
 
-02880 |
+02398 |
 
 Juvigny |
 
-02880 |
+02400 |
 
 Laffaux |
 
-02860 |
+02413 |
 
 Laval-en-Laonnois |
 
-02220 |
+02421 |
 
 Lesges |
 
-02880 |
+02424 |
 
 Leury |
 
-02860 |
+02429 |
 
 Lierval |
 
-02220 |
+02447 |
 
 Maast-et-Violaine |
 
-02300 |
+02456 |
 
 Manicamp |
 
-02540 |
+02458 |
 
 Dhuys et Morin-en-Brie |
 
-02720 |
+02459 |
 
 Marcy |
 
-02880 |
+02464 |
 
 Margival |
 
-02700 |
+02474 |
 
 Mennessis |
 
-02720 |
+02481 |
 
 Mesnil-Saint-Laurent |
 
-02650 |
+02484 |
 
 Mézy-Moulins |
 
-02000 |
+02489 |
 
 Molinchart |
 
-02840 |
+02493 |
 
 Monceau-le-Waast |
 
-02330 |
+02510 |
 
 Monthurel |
 
-02330 |
+02515 |
 
 Montigny-lès-Condé |
 
-02250 |
+02516 |
 
 Montigny-sous-Marle |
 
-02270 |
+02517 |
 
 Montigny-sur-Crécy |
 
-02330 |
+02518 |
 
 Montlevon |
 
-02100 |
+02525 |
 
 Morcourt |
 
-02210 |
+02533 |
 
 Muret-et-Crouttes |
 
-02200 |
+02536 |
 
 Nampteuil-sous-Muret |
 
-02400 |
+02540 |
 
 Nesles-la-Montagne |
 
-02300 |
+02546 |
 
 La Neuville-en-Beine |
 
-02880 |
+02551 |
 
 Neuville-sur-Margival |
 
-02400 |
+02554 |
 
 Nogentel |
 
-02860 |
+02561 |
 
 Nouvion-le-Vineux |
 
-02300 |
+02566 |
 
 Ognes |
 
-02300 |
+02599 |
 
 Pierremande |
 
-02350 |
+02600 |
 
 Pierrepont |
 
-02860 |
+02621 |
 
 Presles-et-Thierny |
 
-02440 |
+02639 |
 
 Remigny |
 
-02240 |
+02640 |
 
 Renansart |
 
-02110 |
+02647 |
 
 Ribeauville |
 
-02240 |
+02648 |
 
 Ribemont |
 
-02330 |
+02677 |
 
 Saint-Eugène |
 
-02300 |
+02686 |
 
 Saint-Paul-aux-Bois |
 
-02100 |
+02691 |
 
 Saint-Quentin |
 
-02300 |
+02719 |
 
 Sinceny |
 
-02240 |
+02732 |
 
 Surfontaine |
 
-02880 |
+02739 |
 
 Terny-Sorny |
 
-02300 |
+02754 |
 
 Ugny-le-Gay |
 
-02110 |
+02760 |
 
 La Vallée-Mulâtre |
 
-02000 |
+02765 |
 
 Vaucelles-et-Beffecourt |
 
-02320 |
+02768 |
 
 Vauxaillon |
 
-02350 |
+02790 |
 
 Vesles-et-Caumont |
 
-02840 |
+02791 |
 
 Veslud |
 
-02210 |
+02799 |
 
 Vierzy |
 
-02300 |
+02807 |
 
 Villequier-Aumont |
 
-02300 |
+02820 |
 
 Viry-Noureuil |
 
-02880 |
+02829 |
 
 Vuillery |
 
-04250 |
+04026 |
 
 Bellaffaire |
 
-04250 |
+04037 |
 
 Le Caire |
 
-04250 |
+04085 |
 
 Faucon-du-Caire |
 
-04250 |
+04093 |
 
 Gigors |
 
-04140 |
+04191 |
 
 Saint-Martin-lès-Seyne |
 
-04140 |
+04203 |
 
 Selonnet |
 
-05190 |
+05022 |
 
 Bréziers |
 
-05190 |
+05121 |
 
 Rochebrune |
 
-05130 |
+05140 |
 
 Saint-Étienne-le-Laus |
 
-05190 |
+05171 |
 
 Théus |
 
-06800 |
+06027 |
 
 Cagnes-sur-Mer |
 
-06320 |
+06032 |
 
 Cap-d'Ail |
 
-06480 |
+06044 |
 
 La Colle-sur-Loup |
 
-06210 |
+06079 |
 
 Mandelieu-la-Napoule |
 
-06570 |
+06128 |
 
 Saint-Paul-de-Vence |
 
-06590 |
+06138 |
 
 Théoule-sur-Mer |
 
-06710 |
+06143 |
 
 Touët-sur-Var |
 
-06140 |
+06148 |
 
 Tourrettes-sur-Loup |
 
-06270 |
+06161 |
 
 Villeneuve-Loubet |
 
-07410 |
+07014 |
 
 Arlebosc |
 
-07410 |
+07039 |
 
 Bozas |
 
-07410 |
+07069 |
 
 Colombier-le-Vieux |
 
-07500 |
+07102 |
 
 Guilherand-Granges |
 
-08130 |
+08006 |
 
 Alland'Huy-et-Sausseuil |
 
-08130 |
+08010 |
 
 Ambly-Fleury |
 
-08400 |
+08018 |
 
 Ardeuil-et-Montfauxelles |
 
-08400 |
+08031 |
 
 Aure |
 
-08400 |
+08045 |
 
 Ballay |
 
-08220 |
+08046 |
 
 Banogne-Recouvrance |
 
-08140 |
+08053 |
 
 Bazeilles |
 
-08240 |
+08057 |
 
 Belleville-et-Châtillon-sur-Bar |
 
-08240 |
+08061 |
 
 La Berlière |
 
-08110 |
+08067 |
 
 Blagny |
 
-08400 |
+08077 |
 
 Bourcq |
 
-08400 |
+08082 |
 
 Brécy-Brières |
 
-08240 |
+08085 |
 
 Brieulles-sur-Bar |
 
-08240 |
+08086 |
 
 Briquenay |
 
-08310 |
+08092 |
 
 Cauroy |
 
-08400 |
+08097 |
 
 Challerange |
 
-08200 |
+08101 |
 
 La Chapelle |
 
-08360 |
+08107 |
 
 Château-Porcien |
 
-08400 |
+08130 |
 
 Contreuve |
 
-08300 |
+08133 |
 
 Coucy |
 
-08400 |
+08135 |
 
 La Croix-aux-Bois |
 
-08110 |
+08138 |
 
 Les Deux-Villes |
 
-08350 |
+08142 |
 
 Donchery |
 
-08310 |
+08147 |
 
 Dricourt |
 
-08300 |
+08150 |
 
 Écly |
 
-08210 |
+08159 |
 
 Euilly-et-Lombut |
 
-08400 |
+08164 |
 
 Falaise |
 
-08270 |
+08165 |
 
 Faux |
 
-08200 |
+08170 |
 
 Fleigneux |
 
-08440 |
+08187 |
 
 Gernelle |
 
-08200 |
+08191 |
 
 Givonne |
 
-08220 |
+08192 |
 
 Givron |
 
-08700 |
+08199 |
 
 La Grandville |
 
-08220 |
+08210 |
 
 Hannogne-Saint-Rémy |
 
-08310 |
+08220 |
 
 Hauviné |
 
-08370 |
+08223 |
 
 Herbeuval |
 
-08360 |
+08225 |
 
 Herpy-l'Arlésienne |
 
-08200 |
+08232 |
 
 Illy |
 
-08440 |
+08235 |
 
 Issancourt-et-Rumel |
 
-08240 |
+08246 |
 
 Landres-et-Saint-Georges |
 
-08310 |
+08250 |
 
 Leffincourt |
 
-08110 |
+08255 |
 
 Linay |
 
-08400 |
+08256 |
 
 Liry |
 
-08400 |
+08259 |
 
 Longwé |
 
-08300 |
+08262 |
 
 Lucquy |
 
-08310 |
+08264 |
 
 Machault |
 
-08370 |
+08269 |
 
 Malandry |
 
-08400 |
+08271 |
 
 Manre |
 
-08370 |
+08275 |
 
 Margny |
 
-08400 |
+08279 |
 
 Mars-sous-Bourcq |
 
-08400 |
+08280 |
 
 Marvaux-Vieux |
 
-08110 |
+08281 |
 
 Matton-et-Clémency |
 
-08430 |
+08283 |
 
 Mazerny |
 
-08110 |
+08289 |
 
 Messincourt |
 
-08250 |
+08296 |
 
 Montcheutin |
 
-08400 |
+08303 |
 
 Monthois |
 
-08130 |
+08306 |
 
 Mont-Laurent |
 
-08220 |
+08307 |
 
 Montmeillant |
 
-08400 |
+08308 |
 
 Mont-Saint-Martin |
 
-08310 |
+08309 |
 
 Mont-Saint-Remy |
 
-08250 |
+08310 |
 
 Mouron |
 
-08400 |
+08325 |
 
 Noirval |
 
-08240 |
+08332 |
 
 Oches |
 
-08250 |
+08333 |
 
 Olizy-Primat |
 
-08110 |
+08336 |
 
 Osnes |
 
-08310 |
+08338 |
 
 Pauvres |
 
-08370 |
+08347 |
 
 Puilly-et-Charbeaux |
 
-08110 |
+08349 |
 
 Pure |
 
-08400 |
+08350 |
 
 Quatre-Champs |
 
-08220 |
+08366 |
 
 Rocquigny |
 
-08220 |
+08369 |
 
 La Romagne |
 
-08110 |
+08375 |
 
 Sachy |
 
-08310 |
+08378 |
 
 Saint-Clément-à-Arnes |
 
-08310 |
+08379 |
 
 Saint-Étienne-à-Arnes |
 
-08360 |
+08380 |
 
 Saint-Fergeux |
 
-08220 |
+08382 |
 
 Saint-Jean-aux-Bois |
 
-08400 |
+08390 |
 
 Sainte-Marie |
 
-08200 |
+08391 |
 
 Saint-Menges |
 
-08400 |
+08392 |
 
 Saint-Morel |
 
-08310 |
+08393 |
 
 Saint-Pierre-à-Arnes |
 
-08240 |
+08394 |
 
 Saint-Pierremont |
 
-08220 |
+08396 |
 
 Saint-Quentin-le-Petit |
 
-08370 |
+08399 |
 
 Sapogne-sur-Marche |
 
-08160 |
+08400 |
 
 Sapogne-et-Feuchères |
 
-08130 |
+08401 |
 
 Saulces-Champenoises |
 
-08400 |
+08406 |
 
 Savigny-sur-Aisne |
 
-08250 |
+08407 |
 
 Séchault |
 
-08400 |
+08410 |
 
 Semide |
 
-08300 |
+08416 |
 
 Seuil |
 
-08220 |
+08418 |
 
 Sévigny-Waleppe |
 
-08430 |
+08422 |
 
 Singly |
 
-08240 |
+08424 |
 
 Sommauthe |
 
-08270 |
+08428 |
 
 Sorcy-Bauthémont |
 
-08400 |
+08431 |
 
 Sugny |
 
-08110 |
+08444 |
 
 Tétaigne |
 
-08240 |
+08446 |
 
 Thénorgues |
 
-08190 |
+08451 |
 
 Le Thour |
 
-08400 |
+08453 |
 
 Toges |
 
-08400 |
+08461 |
 
 Vandy |
 
-08240 |
+08463 |
 
 Vaux-en-Dieulet |
 
-08250 |
+08464 |
 
 Vaux-lès-Mouron |
 
-08430 |
+08478 |
 
 Villers-le-Tilleul |
 
-08370 |
+08485 |
 
 Villy |
 
-08440 |
+08488 |
 
 Vivier-au-Court |
 
-08400 |
+08490 |
 
 Vouziers |
 
-08350 |
+08491 |
 
 Vrigne aux Bois |
 
-08270 |
+08500 |
 
 Wignicourt |
 
-09000 |
+09013 |
 
 Arabaux |
 
-09700 |
+09040 |
 
 La Bastide-de-Lordat |
 
-09000 |
+09044 |
 
 Baulou |
 
-09000 |
+09049 |
 
 Bénac |
 
-09000 |
+09066 |
 
 Brassac |
 
-09700 |
+09067 |
 
 Brie |
 
-09700 |
+09076 |
 
 Canté |
 
-09000 |
+09099 |
 
 Cos |
 
-09120 |
+09103 |
 
 Crampagna |
 
-09120 |
+09104 |
 
 Dalou |
 
-09000 |
+09138 |
 
 L'Herm |
 
-09700 |
+09146 |
 
 Justiniac |
 
-09700 |
+09147 |
 
 Labatut |
 
-09700 |
+09170 |
 
 Lissac |
 
-09000 |
+09174 |
 
 Loubières |
 
-09330 |
+09207 |
 
 Montgailhard |
 
-09000 |
+09210 |
 
 Montoulieu |
 
-09000 |
+09236 |
 
 Prayols |
 
-09120 |
+09245 |
 
 Rieux-de-Pelleport |
 
-09100 |
+09254 |
 
 Saint-Amadou |
 
-09000 |
+09264 |
 
 Saint-Jean-de-Verges |
 
-09000 |
+09273 |
 
 Saint-Pierre-de-Rivière |
 
-09700 |
+09275 |
 
 Saint-Quirc |
 
-09700 |
+09282 |
 
 Saverdun |
 
-09100 |
+09312 |
 
 La Tour-du-Crieu |
 
-09700 |
+09315 |
 
 Trémoulet |
 
-09120 |
+09324 |
 
 Varilhes |
 
-09700 |
+09331 |
 
 Le Vernet |
 
-09340 |
+09332 |
 
 Verniolle |
 
-10200 |
+10002 |
 
 Ailleville |
 
-10340 |
+10009 |
 
 Arrelles |
 
-10220 |
+10019 |
 
 Val-d'Auzon |
 
-10400 |
+10031 |
 
 Barbuise |
 
-10290 |
+10038 |
 
 Bercenay-le-Hayer |
 
-10130 |
+10040 |
 
 Bernon |
 
-10170 |
+10043 |
 
 Bessy |
 
-10200 |
+10102 |
 
 Colombé-la-Fosse |
 
-10200 |
+10103 |
 
 Colombé-le-Sec |
 
-10170 |
+10144 |
 
 Étrelles-sur-Aube |
 
-10290 |
+10145 |
 
 Faux-Villecerf |
 
-10200 |
+10160 |
 
 Fravaux |
 
-10170 |
+10166 |
 
 Les Grandes-Chapelles |
 
-10120 |
+10186 |
 
 Laines-aux-Bois |
 
-10110 |
+10187 |
 
 Landreville |
 
-10170 |
+10207 |
 
 Longueville-sur-Aube |
 
-10400 |
+10208 |
 
 La Louptière-Thénard |
 
-10400 |
+10231 |
 
 Le Mériot |
 
-10290 |
+10301 |
 
 Pouy-sur-Vannes |
 
-10190 |
+10307 |
 
 Prugny |
 
-10160 |
+10319 |
 
 Rigny-le-Ferron |
 
-10100 |
+10323 |
 
 Romilly-sur-Seine |
 
-10220 |
+10328 |
 
 Rouilly-Sacey |
 
-10500 |
+10345 |
 
 Saint-Léger-sous-Brienne |
 
-10160 |
+10350 |
 
 Saint-Mards-en-Othe |
 
-10400 |
+10367 |
 
 La Saulsotte |
 
-10170 |
+10392 |
 
 Vallant-Saint-Georges |
 
-10190 |
+10396 |
 
 Vauchassis |
 
-10290 |
+10410 |
 
 Villadin |
 
-10140 |
+10433 |
 
 Villy-en-Trodes |
 
-10200 |
+10440 |
 
 Voigny |
 
-11600 |
+11011 |
 
 Aragon |
 
-11700 |
+11022 |
 
 Azille |
 
-11800 |
+11023 |
 
 Badens |
 
-11260 |
+11063 |
 
 Campagne-sur-Aude |
 
-11160 |
+11092 |
 
 Citou |
 
-11700 |
+11095 |
 
 Comigne |
 
-11300 |
+11105 |
 
 Cournanel |
 
-11200 |
+11126 |
 
 Escales |
 
-11260 |
+11131 |
 
 Val-du-Faby |
 
-11200 |
+11140 |
 
 Ferrals-les-Corbières |
 
-11800 |
+11146 |
 
 Floure |
 
-11600 |
+11156 |
 
 Fraisse-Cabardès |
 
-11500 |
+11168 |
 
 Granès |
 
-11200 |
+11172 |
 
 Homps |
 
-11480 |
+11188 |
 
 La Palme |
 
-11160 |
+11200 |
 
 Lespinassière |
 
-11200 |
+11203 |
 
 Lézignan-Corbières |
 
-11200 |
+11210 |
 
 Luc-sur-Orbieu |
 
-11800 |
+11220 |
 
 Marseillette |
 
-11220 |
+11251 |
 
 Val-de-Dagne |
 
-11200 |
+11267 |
 
 Ornaisons |
 
-11500 |
+11341 |
 
 Saint-Ferriol |
 
-11360 |
+11345 |
 
 Saint-Jean-de-Barrou |
 
-11300 |
+11355 |
 
 Saint-Martin-de-Villereglan |
 
-11600 |
+11372 |
 
 Salsigne |
 
-11200 |
+11390 |
 
 Thézan-des-Corbières |
 
-11200 |
+11393 |
 
 Tourouzelle |
 
-11160 |
+11396 |
 
 Trausse |
 
-11510 |
+11398 |
 
 Treilles |
 
-11600 |
+11410 |
 
 Villalier |
 
-11600 |
+11425 |
 
 Villegailhenc |
 
-11360 |
+11436 |
 
 Villesèque-des-Corbières |
 
-13260 |
+13022 |
 
 Cassis |
 
-13600 |
+13023 |
 
 Ceyreste |
 
-13790 |
+13025 |
 
 Châteauneuf-le-Rouge |
 
-13600 |
+13028 |
 
 La Ciotat |
 
-13830 |
+13085 |
 
 Roquefort-la-Bédoule |
 
-14280 |
+14030 |
 
 Authie |
 
-14970 |
+14060 |
 
 Bénouville |
 
-14112 |
+14068 |
 
 Biéville-Beuville |
 
-14550 |
+14076 |
 
 Blainville-sur-Orne |
 
-14610 |
+14123 |
 
 Cairon |
 
-14610 |
+14125 |
 
 Cambes-en-Plaine |
 
-14610 |
+14242 |
 
 Épron |
 
-14200 |
+14327 |
 
 Hérouville-Saint-Clair |
 
-14920 |
+14407 |
 
 Mathieu |
 
-14970 |
+14558 |
 
 Saint-Aubin-d'Arquenay |
 
-14280 |
+14566 |
 
 Saint-Contest |
 
-14280 |
+14587 |
 
 Saint-Germain-la-Blanche-Herbe |
 
-14610 |
+14758 |
 
 Villons-les-Buissons |
 
-16110 |
+16003 |
 
 Agris |
 
-16140 |
+16008 |
 
 Ambérac |
 
-16560 |
+16011 |
 
 Anais |
 
-16130 |
+16012 |
 
 Angeac-Champagne |
 
-16120 |
+16013 |
 
 Angeac-Charente |
 
-16460 |
+16023 |
 
 Aunac-sur-Charente |
 
-16560 |
+16024 |
 
 Aussac-Vadalle |
 
-16140 |
+16027 |
 
 Barbezières |
 
-16120 |
+16032 |
 
 Bassac |
 
-16120 |
+16045 |
 
 Birac |
 
-16120 |
+16050 |
 
 Bonneuil |
 
-16120 |
+16057 |
 
 Bouteville |
 
-16100 |
+16058 |
 
 Boutiers-Saint-Trojan |
 
-16110 |
+16067 |
 
 Bunzac |
 
-16260 |
+16068 |
 
 Cellefrouin |
 
-16230 |
+16069 |
 
 Cellettes |
 
-16290 |
+16077 |
 
 Champmillon |
 
-16140 |
+16081 |
 
 La Chapelle |
 
-16140 |
+16083 |
 
 Charmé |
 
-16200 |
+16088 |
 
 Chassors |
 
-16380 |
+16093 |
 
 Chazelles |
 
-16460 |
+16095 |
 
 Chenon |
 
-16370 |
+16097 |
 
 Val-de-Cognac |
 
-16100 |
+16102 |
 
 Cognac |
 
-16560 |
+16107 |
 
 Coulgens |
 
-16330 |
+16108 |
 
 Coulonges |
 
-16200 |
+16109 |
 
 Courbillac |
 
-16290 |
+16121 |
 
 Douzat |
 
-16170 |
+16123 |
 
 Échallat |
 
-16220 |
+16124 |
 
 Écuras |
 
-16220 |
+16135 |
 
 Eymouthiers |
 
-16230 |
+16141 |
 
 Fontenille |
 
-16140 |
+16144 |
 
 Fouqueure |
 
-16200 |
+16145 |
 
 Foussignac |
 
-16130 |
+16151 |
 
 Genté |
 
-16130 |
+16152 |
 
 Gimeux |
 
-16200 |
+16153 |
 
 Mainxe-Gondeville |
 
-16140 |
+16155 |
 
 Les Gours |
 
-16380 |
+16158 |
 
 Grassac |
 
-16290 |
+16163 |
 
 Hiersac |
 
-16200 |
+16165 |
 
 Houlette |
 
-16100 |
+16169 |
 
 Javrezac |
 
-16230 |
+16173 |
 
 Juillé |
 
-16200 |
+16174 |
 
 Julienne |
 
-16140 |
+16185 |
 
 Ligné |
 
-16230 |
+16191 |
 
 Lonnes |
 
-16140 |
+16194 |
 
 Lupsault |
 
-16230 |
+16200 |
 
 Maine-de-Boixe |
 
-16380 |
+16203 |
 
 Mainzac |
 
-16110 |
+16209 |
 
 Marillac-le-Franc |
 
-16100 |
+16217 |
 
 Merpins |
 
-16370 |
+16218 |
 
 Mesnac |
 
-16200 |
+16220 |
 
 Les Métairies |
 
-16140 |
+16221 |
 
 Mons |
 
-16220 |
+16223 |
 
 Montbron |
 
-16120 |
+16233 |
 
 Mosnac-Saint-Simeux |
 
-16230 |
+16241 |
 
 Nanclars |
 
-16200 |
+16243 |
 
 Nercillac |
 
-16140 |
+16248 |
 
 Oradour |
 
-16220 |
+16250 |
 
 Orgedeuil |
 
-16110 |
+16269 |
 
 Pranzac |
 
-16140 |
+16275 |
 
 Ranville-Breuillaud |
 
-16110 |
+16280 |
 
 Rivières |
 
-16110 |
+16282 |
 
 La Rochette |
 
-16310 |
+16293 |
 
 Saint-Adjutory |
 
-16170 |
+16298 |
 
 Saint-Amant-de-Nouère |
 
-16230 |
+16307 |
 
 Saint-Ciers-sur-Bonnieure |
 
-16170 |
+16312 |
 
 Saint-Cybardeaux |
 
-16130 |
+16316 |
 
 Saint-Fort-sur-le-Né |
 
-16460 |
+16318 |
 
 Saint-Front |
 
-16570 |
+16320 |
 
 Saint-Genis-d'Hiersac |
 
-16380 |
+16323 |
 
 Saint-Germain-de-Montbron |
 
-16230 |
+16326 |
 
 Saint-Groux |
 
-16170 |
+16339 |
 
 Val-d'Auge |
 
-16130 |
+16343 |
 
 Saint-Preuil |
 
-16120 |
+16352 |
 
 Saint-Simon |
 
-16130 |
+16359 |
 
 Salles-d'Angles |
 
-16200 |
+16369 |
 
 Sigogne |
 
-16260 |
+16377 |
 
 La Tâche |
 
-16200 |
+16387 |
 
 Triac-Lautrait |
 
-16140 |
+16390 |
 
 Tusson |
 
-16460 |
+16392 |
 
 Valence |
 
-16330 |
+16393 |
 
 Vars |
 
-16170 |
+16395 |
 
 Vaux-Rouillac |
 
-16460 |
+16396 |
 
 Ventouse |
 
-16140 |
+16397 |
 
 Verdille |
 
-16330 |
+16401 |
 
 Vervant |
 
-16120 |
+16402 |
 
 Vibrac |
 
-16220 |
+16406 |
 
 Moulins-sur-Tardoire |
 
-16230 |
+16414 |
 
 Villognon |
 
-16330 |
+16419 |
 
 Vouharte |
 
-16220 |
+16421 |
 
 Vouthon |
 
-16330 |
+16423 |
 
 Xambes |
 
-16110 |
+16425 |
 
 Yvrac-et-Malleyrand |
 
-17400 |
+17013 |
 
 Antezant-la-Chapelle |
 
-17530 |
+17021 |
 
 Arvert |
 
-17400 |
+17022 |
 
 Asnières-la-Giraud |
 
-17770 |
+17023 |
 
 Aujac |
 
-17770 |
+17025 |
 
 Aumagne |
 
-17770 |
+17026 |
 
 Authon-Ébéon |
 
-17800 |
+17027 |
 
 Avy |
 
-17160 |
+17029 |
 
 Bagnizeau |
 
-17160 |
+17031 |
 
 Ballans |
 
-17490 |
+17035 |
 
 Bazauges |
 
-17490 |
+17037 |
 
 Beauvais-sur-Matha |
 
-17770 |
+17042 |
 
 Bercloux |
 
-17160 |
+17048 |
 
 Blanzac-lès-Matha |
 
-17580 |
+17051 |
 
 Le Bois-Plage-en-Ré |
 
-17800 |
+17056 |
 
 Bougneau |
 
-17490 |
+17062 |
 
 Bresdon |
 
-17120 |
+17068 |
 
 Brie-sous-Mortagne |
 
-17160 |
+17071 |
 
 La Brousse |
 
-17770 |
+17072 |
 
 Burie |
 
-17100 |
+17073 |
 
 Bussac-sur-Charente |
 
-17130 |
+17081 |
 
 Chamouillac |
 
-17610 |
+17086 |
 
 Chaniers |
 
-17210 |
+17095 |
 
 Chatenet |
 
-17130 |
+17096 |
 
 Chaunac |
 
-17600 |
+17097 |
 
 Le Chay |
 
-17120 |
+17098 |
 
 Chenac-Saint-Seurin-d'Uzet |
 
-17210 |
+17099 |
 
 Chepniers |
 
-17610 |
+17100 |
 
 Chérac |
 
-17470 |
+17101 |
 
 Cherbonnières |
 
-17460 |
+17102 |
 
 Chermignac |
 
-17520 |
+17106 |
 
 Cierzac |
 
-17330 |
+17114 |
 
 Coivert |
 
-17470 |
+17117 |
 
 Contré |
 
-17600 |
+17119 |
 
 Corme-Écluse |
 
-17670 |
+17121 |
 
 La Couarde-sur-Mer |
 
-17800 |
+17122 |
 
 Coulonges |
 
-17330 |
+17124 |
 
 Courant |
 
-17400 |
+17125 |
 
 Courcelles |
 
-17160 |
+17126 |
 
 Courcerac |
 
-17100 |
+17128 |
 
 Courcoury |
 
-17130 |
+17129 |
 
 Courpignac |
 
@@ -1892,299 +1892,299 @@ Courpignac |
 
 Coux |
 
-17160 |
+17135 |
 
 Cressé |
 
-17330 |
+17137 |
 
 La Croix-Comtesse |
 
-17330 |
+17139 |
 
 Dœuil-sur-le-Mignon |
 
-17800 |
+17145 |
 
 Échebrune |
 
-17770 |
+17147 |
 
 Écoyeux |
 
-17810 |
+17148 |
 
 Écurat |
 
-17400 |
+17150 |
 
 Les Églises-d'Argenteuil |
 
-17600 |
+17151 |
 
 L'Éguille |
 
-17750 |
+17155 |
 
 Étaules |
 
-17100 |
+17164 |
 
 Fontcouverte |
 
-17160 |
+17176 |
 
 Gibourne |
 
-17160 |
+17177 |
 
 Le Gicq |
 
-17160 |
+17188 |
 
 Haimps |
 
-17870 |
+17205 |
 
 Loire-les-Marais |
 
-17111 |
+17207 |
 
 Loix |
 
-17520 |
+17209 |
 
 Lonzac |
 
-17240 |
+17210 |
 
 Lorignac |
 
-17160 |
+17212 |
 
 Louzignac |
 
-17600 |
+17214 |
 
 Luchat |
 
-17490 |
+17217 |
 
 Macqueville |
 
-17490 |
+17223 |
 
 Massac |
 
-17160 |
+17224 |
 
 Matha |
 
-17570 |
+17225 |
 
 Les Mathes |
 
-17330 |
+17234 |
 
 Migré |
 
-17770 |
+17235 |
 
 Migron |
 
-17160 |
+17239 |
 
 Mons |
 
-17380 |
+17254 |
 
 Nachamps |
 
-17770 |
+17256 |
 
 Nantillé |
 
-17490 |
+17261 |
 
 Neuvicq-le-Château |
 
-17150 |
+17263 |
 
 Nieul-le-Virouil |
 
-17470 |
+17268 |
 
 Nuaillé-sur-Boutonne |
 
-17470 |
+17271 |
 
 Paillé |
 
-17810 |
+17275 |
 
 Pessines |
 
-17210 |
+17281 |
 
 Polignac |
 
-17400 |
+17288 |
 
 Poursay-Garnaud |
 
-17460 |
+17289 |
 
 Préguillac |
 
-17160 |
+17290 |
 
 Prignac |
 
-17940 |
+17297 |
 
 Rivedoux-Plage |
 
-17570 |
+17311 |
 
 Saint-Augustin |
 
-17770 |
+17313 |
 
 Saint-Bris-des-Bois |
 
-17590 |
+17318 |
 
 Saint-Clément-des-Baleines |
 
-17210 |
+17319 |
 
 Sainte-Colombe |
 
-17430 |
+17320 |
 
 Saint-Coutant-le-Grand |
 
-17150 |
+17324 |
 
 Saint-Dizant-du-Bois |
 
-17330 |
+17327 |
 
 Saint-Félix |
 
-17240 |
+17328 |
 
 Saint-Fort-sur-Gironde |
 
-17470 |
+17334 |
 
 Saint-Georges-de-Longuepierre |
 
-17770 |
+17344 |
 
 Saint-Hilaire-de-Villefranche |
 
-17500 |
+17345 |
 
 Saint-Hilaire-du-Bois |
 
-17380 |
+17356 |
 
 Saint-Loup |
 
-17740 |
+17360 |
 
 Sainte-Marie-de-Ré |
 
-17330 |
+17361 |
 
 Saint-Martial |
 
-17500 |
+17363 |
 
 Saint-Martial-de-Vitaterne |
 
-17520 |
+17364 |
 
 Saint-Martial-sur-Né |
 
-17400 |
+17367 |
 
 Saint-Martin-de-Juillers |
 
-17770 |
+17374 |
 
 Sainte-Même |
 
-17400 |
+17381 |
 
 Saint-Pardoult |
 
-17400 |
+17383 |
 
 Saint-Pierre-de-Juillers |
 
-17330 |
+17384 |
 
 Saint-Pierre-de-l'Isle |
 
-17330 |
+17401 |
 
 Saint-Séverin-sur-Boutonne |
 
-17500 |
+17403 |
 
 Saint-Simon-de-Bordes |
 
-17200 |
+17409 |
 
 Saint-Sulpice-de-Royan |
 
-17100 |
+17412 |
 
 Saint-Vaize |
 
-17770 |
+17426 |
 
 Le Seure |
 
-17490 |
+17427 |
 
 Siecq |
 
-17160 |
+17428 |
 
 Sonnac |
 
-17130 |
+17432 |
 
 Souméras |
 
-17350 |
+17436 |
 
 Taillebourg |
 
-17120 |
+17437 |
 
 Talmont-sur-Gironde |
 
-17460 |
+17444 |
 
 Thénac |
 
-17160 |
+17446 |
 
 Thors |
 
-17160 |
+17451 |
 
 Les Touches-de-Périgny |
 
-17390 |
+17452 |
 
 La Tremblade |
 
-17400 |
+17459 |
 
 Varaize |
 
@@ -2192,1379 +2192,1379 @@ Varaize |
 
 Varzay |
 
-17640 |
+17461 |
 
 Vaux-sur-Mer |
 
-17300 |
+17463 |
 
 Vergeroux |
 
-17330 |
+17464 |
 
 Vergné |
 
-17770 |
+17470 |
 
 Villars-les-Bois |
 
-17470 |
+17471 |
 
 La Villedieu |
 
-17330 |
+17474 |
 
 Villeneuve-la-Comtesse |
 
-17400 |
+17481 |
 
 Voissay |
 
-17730 |
+17484 |
 
 Port-des-Barques |
 
-18120 |
+18036 |
 
 Brinay |
 
-18120 |
+18044 |
 
 Cerbois |
 
-18190 |
+18058 |
 
 Châteauneuf-sur-Cher |
 
-18290 |
+18066 |
 
 Civray |
 
-18190 |
+18073 |
 
 Corquoy |
 
-18500 |
+18096 |
 
 Foëcy |
 
-18340 |
+18122 |
 
 Lapan |
 
-18340 |
+18126 |
 
 Levet |
 
-18120 |
+18128 |
 
 Limeux |
 
-18400 |
+18133 |
 
 Lunery |
 
-18120 |
+18134 |
 
 Lury-sur-Arnon |
 
-18500 |
+18141 |
 
 Mehun-sur-Yèvre |
 
-18120 |
+18148 |
 
 Méreau |
 
-18330 |
+18159 |
 
 Nançay |
 
-18330 |
+18165 |
 
 Neuvy-sur-Barangeon |
 
-18290 |
+18181 |
 
 Plou |
 
-18120 |
+18186 |
 
 Preuilly |
 
-18400 |
+18188 |
 
 Primelles |
 
-18120 |
+18190 |
 
 Quincy |
 
-18400 |
+18201 |
 
 Saint-Caprais |
 
-18400 |
+18207 |
 
 Saint-Florent-sur-Cher |
 
-18330 |
+18219 |
 
 Saint-Laurent |
 
-18500 |
+18237 |
 
 Sainte-Thorette |
 
-18190 |
+18250 |
 
 Serruelles |
 
-18190 |
+18273 |
 
 Venesmes |
 
-18500 |
+18281 |
 
 Vignoux-sur-Barangeon |
 
-18330 |
+18290 |
 
 Vouzeron |
 
-19260 |
+19001 |
 
 Affieux |
 
-19190 |
+19003 |
 
 Albignac |
 
-19380 |
+19004 |
 
 Albussac |
 
-19120 |
+19007 |
 
 Altillac |
 
-19320 |
+19010 |
 
 Argentat-sur-Dordogne |
 
-19230 |
+19011 |
 
 Arnac-Pompadour |
 
-19120 |
+19012 |
 
 Astaillac |
 
-19190 |
+19013 |
 
 Aubazines |
 
-19220 |
+19014 |
 
 Auriac |
 
-19430 |
+19017 |
 
 Bassignac-le-Bas |
 
-19220 |
+19018 |
 
 Bassignac-le-Haut |
 
-19120 |
+19019 |
 
 Beaulieu-sur-Dordogne |
 
-19510 |
+19022 |
 
 Benayes |
 
-19190 |
+19023 |
 
 Beynat |
 
-19230 |
+19024 |
 
 Beyssac |
 
-19120 |
+19026 |
 
 Bilhac |
 
-19170 |
+19027 |
 
 Bonnefond |
 
-19110 |
+19028 |
 
 Bort-les-Orgues |
 
-19500 |
+19029 |
 
 Branceilles |
 
-19430 |
+19034 |
 
 Camps-Saint-Mathurin-Léobazel |
 
-19370 |
+19036 |
 
 Chamberet |
 
-19120 |
+19044 |
 
 La Chapelle-aux-Saints |
 
-19430 |
+19045 |
 
 La Chapelle-Saint-Géraud |
 
-19500 |
+19050 |
 
 Chauffour-sur-Vell |
 
-19290 |
+19052 |
 
 Chavanac |
 
-19200 |
+19053 |
 
 Chaveroche |
 
-19120 |
+19054 |
 
 Chenailler-Mascheix |
 
-19160 |
+19055 |
 
 Chirac-Bellevue |
 
-19500 |
+19057 |
 
 Collonges-la-Rouge |
 
-19350 |
+19059 |
 
 Concèze |
 
-19140 |
+19060 |
 
 Condat-sur-Ganaveix |
 
-19500 |
+19067 |
 
 Curemonte |
 
-19220 |
+19069 |
 
 Darazac |
 
-19300 |
+19070 |
 
 Darnets |
 
-19300 |
+19073 |
 
 Égletons |
 
-19170 |
+19074 |
 
 L'Église-aux-Bois |
 
-19140 |
+19076 |
 
 Espartignac |
 
-19140 |
+19079 |
 
 Eyburie |
 
-19380 |
+19084 |
 
 Forgès |
 
-19430 |
+19086 |
 
 Goulles |
 
-19170 |
+19087 |
 
 Gourdon-Murat |
 
-19300 |
+19088 |
 
 Grandsaigne |
 
-19400 |
+19091 |
 
 Hautefage |
 
-19170 |
+19095 |
 
 Lacelle |
 
-19320 |
+19097 |
 
 Lafage-sur-Sombre |
 
-19500 |
+19099 |
 
 Lagleygeolle |
 
-19340 |
+19103 |
 
 Lamazière-Haute |
 
-19190 |
+19105 |
 
 Lanteuil |
 
-19550 |
+19106 |
 
 Lapleau |
 
-19550 |
+19111 |
 
 Laval-sur-Luzège |
 
-19170 |
+19112 |
 
 Lestards |
 
-19160 |
+19113 |
 
 Liginiac |
 
-19120 |
+19116 |
 
 Liourdres |
 
-19500 |
+19119 |
 
 Lostanges |
 
-19210 |
+19121 |
 
 Lubersac |
 
-19470 |
+19122 |
 
 Madranges |
 
-19320 |
+19125 |
 
 Marcillac-la-Croisille |
 
-19500 |
+19126 |
 
 Marcillac-la-Croze |
 
-19200 |
+19128 |
 
 Margerides |
 
-19510 |
+19129 |
 
 Masseret |
 
-19250 |
+19130 |
 
 Maussac |
 
-19510 |
+19131 |
 
 Meilhards |
 
-19190 |
+19132 |
 
 Ménoire |
 
-19430 |
+19133 |
 
 Mercœur |
 
-19800 |
+19137 |
 
 Meyrignac-l'Église |
 
-19290 |
+19139 |
 
 Millevaches |
 
-19400 |
+19140 |
 
 Monceaux-sur-Dordogne |
 
-19300 |
+19143 |
 
 Montaignac-sur-Doustre |
 
-19210 |
+19144 |
 
 Montgibaud |
 
-19300 |
+19145 |
 
 Moustier-Ventadour |
 
-19160 |
+19148 |
 
 Neuvic |
 
-19380 |
+19149 |
 
 Neuville |
 
-19500 |
+19150 |
 
 Noailhac |
 
-19120 |
+19152 |
 
 Nonards |
 
-19410 |
+19154 |
 
 Orgnac-sur-Vézère |
 
-19190 |
+19156 |
 
 Palazinges |
 
-19300 |
+19159 |
 
 Péret-Bel-Air |
 
-19170 |
+19160 |
 
 Pérols-sur-Vézère |
 
-19410 |
+19162 |
 
 Perpezac-le-Noir |
 
-19190 |
+19163 |
 
 Le Pescher |
 
-19290 |
+19164 |
 
 Peyrelevade |
 
-19260 |
+19165 |
 
 Peyrissac |
 
-19170 |
+19168 |
 
 Pradines |
 
-19120 |
+19170 |
 
 Queyssac-les-Vignes |
 
-19430 |
+19171 |
 
 Reygade |
 
-19260 |
+19172 |
 
 Rilhac-Treignac |
 
-19220 |
+19173 |
 
 Rilhac-Xaintrie |
 
-19300 |
+19176 |
 
 Rosiers-d'Égletons |
 
-19200 |
+19180 |
 
 Saint-Angel |
 
-19500 |
+19184 |
 
 Saint-Bazile-de-Meyssac |
 
-19380 |
+19186 |
 
 Saint-Bonnet-Elvert |
 
-19430 |
+19189 |
 
 Saint-Bonnet-les-Tours-de-Merle |
 
-19210 |
+19198 |
 
 Saint-Éloy-les-Tuileries |
 
-19200 |
+19199 |
 
 Saint-Étienne-aux-Clos |
 
-19160 |
+19200 |
 
 Saint-Étienne-la-Geneste |
 
-19200 |
+19204 |
 
 Saint-Fréjoux |
 
-19220 |
+19205 |
 
 Saint-Geniez-ô-Merle |
 
-19550 |
+19208 |
 
 Saint-Hilaire-Foissac |
 
-19170 |
+19209 |
 
 Saint-Hilaire-les-Courbes |
 
-19160 |
+19210 |
 
 Saint-Hilaire-Luc |
 
-19400 |
+19212 |
 
 Saint-Hilaire-Taurieux |
 
-19220 |
+19214 |
 
 Saint-Julien-aux-Bois |
 
-19430 |
+19215 |
 
 Saint-Julien-le-Pèlerin |
 
-19500 |
+19217 |
 
 Saint-Julien-Maumont |
 
-19160 |
+19219 |
 
 Sainte-Marie-Lapanouze |
 
-19400 |
+19221 |
 
 Saint-Martial-Entraygues |
 
-19320 |
+19222 |
 
 Saint-Martin-la-Méanne |
 
-19210 |
+19223 |
 
 Saint-Martin-Sepert |
 
-19320 |
+19225 |
 
 Saint-Merd-de-Lapleau |
 
-19170 |
+19226 |
 
 Saint-Merd-les-Oussines |
 
-19160 |
+19228 |
 
 Saint-Pantaléon-de-Lapleau |
 
-19210 |
+19230 |
 
 Saint-Pardoux-Corbier |
 
-19200 |
+19232 |
 
 Saint-Pardoux-le-Neuf |
 
-19220 |
+19237 |
 
 Saint-Privat |
 
-19230 |
+19243 |
 
 Saint-Sornin-Lavolps |
 
-19250 |
+19244 |
 
 Saint-Sulpice-les-Bois |
 
-19380 |
+19245 |
 
 Saint-Sylvain |
 
-19200 |
+19247 |
 
 Saint-Victour |
 
-19140 |
+19248 |
 
 Saint-Ybard |
 
-19300 |
+19249 |
 
 Saint-Yrieix-le-Déjalat |
 
-19510 |
+19250 |
 
 Salon-la-Tour |
 
-19110 |
+19252 |
 
-Sarroux - Saint Julien |
+Sarroux-Saint Julien |
 
-19230 |
+19254 |
 
 Ségur-le-Château |
 
-19160 |
+19256 |
 
 Sérandon |
 
-19190 |
+19257 |
 
 Sérilhac |
 
-19220 |
+19258 |
 
 Servières-le-Château |
 
-19430 |
+19259 |
 
 Sexcles |
 
-19120 |
+19260 |
 
 Sioniac |
 
-19290 |
+19261 |
 
 Sornac |
 
-19370 |
+19262 |
 
 Soudaine-Lavinadière |
 
-19300 |
+19263 |
 
 Soudeilles |
 
-19170 |
+19265 |
 
 Tarnac |
 
-19170 |
+19268 |
 
 Toy-Viam |
 
-19260 |
+19269 |
 
 Treignac |
 
-19230 |
+19270 |
 
 Troche |
 
-19120 |
+19271 |
 
 Tudeils |
 
-19200 |
+19277 |
 
 Valiergues |
 
-19170 |
+19284 |
 
 Viam |
 
-19410 |
+19285 |
 
 Vigeois |
 
-21400 |
+21012 |
 
 Ampilly-le-Sec |
 
-21510 |
+21052 |
 
 Beaulieu |
 
-21510 |
+21055 |
 
 Beaunotte |
 
-21110 |
+21057 |
 
 Beire-le-Fort |
 
-21510 |
+21061 |
 
 Bellenod-sur-Seine |
 
-21520 |
+21077 |
 
 Bissey-la-Côte |
 
-21250 |
+21089 |
 
 Bonnencontre |
 
-21260 |
+21096 |
 
 Boussenois |
 
-21400 |
+21104 |
 
 Brémur-et-Vaurois |
 
-21560 |
+21105 |
 
 Bressey-sur-Tille |
 
-21570 |
+21109 |
 
 Brion-sur-Ource |
 
-21220 |
+21113 |
 
 Broindon |
 
-21510 |
+21117 |
 
 Busseaut |
 
-21220 |
+21132 |
 
 Chambœuf |
 
-21170 |
+21148 |
 
 Charrey-sur-Saône |
 
-21320 |
+21164 |
 
 Chazilly |
 
-21800 |
+21171 |
 
 Chevigny-Saint-Sauveur |
 
-21320 |
+21176 |
 
 Civry-en-Montagne |
 
-21390 |
+21177 |
 
 Clamerey |
 
-21230 |
+21181 |
 
 Clomot |
 
-21110 |
+21183 |
 
 Collonges-et-Premières |
 
-21310 |
+21215 |
 
 Cuiserey |
 
-21500 |
+21248 |
 
 Éringes |
 
-21400 |
+21258 |
 
 Étrochey |
 
-21330 |
+21279 |
 
 Fontaines-les-Sèches |
 
-21540 |
+21306 |
 
 Grenant-lès-Sombernon |
 
-21540 |
+21310 |
 
 Grosbois-en-Montagne |
 
-21310 |
+21323 |
 
 Jancigny |
 
-21150 |
+21358 |
 
 Lucenay-le-Duc |
 
-21320 |
+21362 |
 
 Maconge |
 
-21450 |
+21364 |
 
 Magny-Lambert |
 
-21110 |
+21370 |
 
 Magny-sur-Tille |
 
-21400 |
+21372 |
 
 Maisey-le-Duc |
 
-21330 |
+21378 |
 
 Marcenay |
 
-21350 |
+21381 |
 
 Marcilly-et-Dracy |
 
-21320 |
+21399 |
 
 Meilly-sur-Rouvres |
 
-21400 |
+21444 |
 
 Mosson |
 
-21330 |
+21451 |
 
 Nesle-et-Massoult |
 
-21500 |
+21456 |
 
 Nogent-lès-Montbard |
 
-21910 |
+21458 |
 
 Noiron-sous-Gevrey |
 
-21500 |
+21484 |
 
 Planay |
 
-21610 |
+21503 |
 
 Pouilly-sur-Vingeanne |
 
-21510 |
+21514 |
 
 Quemigny-sur-Seine |
 
-21800 |
+21515 |
 
 Quetigny |
 
-21540 |
+21520 |
 
 Remilly-en-Montagne |
 
-21560 |
+21521 |
 
 Remilly-sur-Tille |
 
-21510 |
+21526 |
 
 Rochefort-sur-Brévon |
 
-21320 |
+21533 |
 
 Rouvres-sous-Meilly |
 
-21350 |
+21537 |
 
 Saffres |
 
-21540 |
+21539 |
 
 Saint-Anthot |
 
-21850 |
+21540 |
 
 Saint-Apollinaire |
 
-21350 |
+21544 |
 
 Sainte-Colombe-en-Auxois |
 
-21510 |
+21549 |
 
 Saint-Germain-le-Rocheux |
 
-21320 |
+21570 |
 
 Sainte-Sabine |
 
-21610 |
+21574 |
 
 Saint-Seine-sur-Vingeanne |
 
-21500 |
+21594 |
 
 Savoisy |
 
-21800 |
+21605 |
 
 Sennecey-lès-Dijon |
 
-21320 |
+21630 |
 
 Thoisy-le-Désert |
 
-21320 |
+21652 |
 
 Vandenesse-en-Auxois |
 
-21400 |
+21653 |
 
 Vannaire |
 
-21400 |
+21655 |
 
 Vanvey |
 
-21350 |
+21662 |
 
 Velogny |
 
-21330 |
+21664 |
 
 Verdonnet |
 
-21260 |
+21665 |
 
 Vernois-lès-Vesvres |
 
-21350 |
+21672 |
 
 Vesvres |
 
-21500 |
+21686 |
 
 Villaines-les-Prévôtes |
 
-21400 |
+21704 |
 
 Villiers-le-Duc |
 
-22160 |
+22052 |
 
 Duault |
 
-22110 |
+22061 |
 
 Glomel |
 
-22110 |
+22087 |
 
 Kergrist-Moëlou |
 
-22340 |
+22157 |
 
 Le Moustoir |
 
-22160 |
+22328 |
 
 Saint-Servais |
 
-23200 |
+23003 |
 
 Alleyrat |
 
-23170 |
+23009 |
 
 Auge |
 
-23210 |
+23010 |
 
 Augères |
 
-23210 |
+23011 |
 
 Aulon |
 
-23700 |
+23013 |
 
 Auzances |
 
-23210 |
+23014 |
 
 Azat-Châtenet |
 
-23260 |
+23017 |
 
 Basville |
 
-23210 |
+23021 |
 
 Bénévent-l'Abbaye |
 
-23270 |
+23022 |
 
 Bétête |
 
-23220 |
+23025 |
 
 Bonnat |
 
-23220 |
+23029 |
 
 Le Bourg-d'Hem |
 
-23000 |
+23033 |
 
 La Brionne |
 
-23700 |
+23037 |
 
 Bussière-Nouvelle |
 
-23600 |
+23038 |
 
 Bussière-Saint-Georges |
 
-23800 |
+23039 |
 
 La Celle-Dunoise |
 
-23210 |
+23042 |
 
 Ceyroux |
 
-23110 |
+23046 |
 
 Chambonchard |
 
-23700 |
+23054 |
 
 Charron |
 
-23700 |
+23055 |
 
 Châtelard |
 
-23130 |
+23058 |
 
 Le Chauchet |
 
-23800 |
+23065 |
 
 Colondannes |
 
-23700 |
+23066 |
 
 Le Compas |
 
-23100 |
+23067 |
 
 La Courtine |
 
-23260 |
+23069 |
 
 Crocq |
 
-23700 |
+23073 |
 
 Dontreix |
 
-23480 |
+23074 |
 
 Le Donzeil |
 
-23800 |
+23075 |
 
 Dun-le-Palestel |
 
-23320 |
+23082 |
 
 Fleurat |
 
-23450 |
+23087 |
 
 Fresselines |
 
-23350 |
+23089 |
 
 Genouillac |
 
-23230 |
+23093 |
 
 Gouzon |
 
-23130 |
+23097 |
 
 Issoudun-Létrieix |
 
-23170 |
+23106 |
 
 Lépaud |
 
-23150 |
+23107 |
 
 Lépinas |
 
-23700 |
+23110 |
 
 Lioux-les-Monges |
 
-23170 |
+23114 |
 
 Lussat |
 
-23150 |
+23118 |
 
 Maisonnisses |
 
-23700 |
+23123 |
 
 Les Mars |
 
-23100 |
+23125 |
 
 Le Mas-d'Artige |
 
-23260 |
+23129 |
 
 La Mazière-aux-Bons-Hommes |
 
-23210 |
+23137 |
 
 Mourioux-Vieilleville |
 
-23800 |
+23141 |
 
 Naillat |
 
-23300 |
+23143 |
 
 Noth |
 
-23600 |
+23146 |
 
 Nouzerines |
 
-23130 |
+23151 |
 
 Peyrat-la-Nonière |
 
-23130 |
+23152 |
 
 Pierrefitte |
 
-23250 |
+23155 |
 
 Pontarion |
 
-23260 |
+23156 |
 
 Pontcharraud |
 
-23130 |
+23159 |
 
 Puy-Malsignat |
 
-23000 |
+23169 |
 
 La Saunière |
 
-23150 |
+23175 |
 
 Sous-Parsat |
 
-23300 |
+23177 |
 
 Saint-Agnant-de-Versillat |
 
-23270 |
+23188 |
 
 Saint-Dizier-les-Domaines |
 
-23500 |
+23196 |
 
 Saint-Frion |
 
-23300 |
+23207 |
 
 Saint-Léger-Bridereix |
 
-23000 |
+23208 |
 
 Saint-Léger-le-Guérétois |
 
-23130 |
+23209 |
 
 Saint-Loup |
 
-23200 |
+23211 |
 
 Saint-Marc-à-Frongier |
 
-23100 |
+23215 |
 
 Saint-Martial-le-Vieux |
 
-23260 |
+23218 |
 
 Saint-Maurice-près-Crocq |
 
-23300 |
+23219 |
 
 Saint-Maurice-la-Souterraine |
 
-23260 |
+23226 |
 
 Saint-Pardoux-d'Arnet |
 
-23600 |
+23233 |
 
 Saint-Pierre-le-Bost |
 
-23300 |
+23235 |
 
 Saint-Priest-la-Feuille |
 
-23800 |
+23244 |
 
 Saint-Sulpice-le-Dunois |
 
-23260 |
+23265 |
 
 La Villeneuve |
 
-25320 |
+25001 |
 
 Abbans-Dessous |
 
-25440 |
+25002 |
 
 Abbans-Dessus |
 
-25330 |
+25015 |
 
 Amancey |
 
-25520 |
+25025 |
 
 Arc-sous-Cicon |
 
-25270 |
+25026 |
 
 Arc-sous-Montenot |
 
-25110 |
+25032 |
 
 Autechaux |
 
-25520 |
+25060 |
 
 Val-d'Usiers |
 
-25210 |
+25062 |
 
 Le Bizot |
 
-25330 |
+25070 |
 
 Bolandoz |
 
-25210 |
+25074 |
 
 Bonnétage |
 
-25210 |
+25077 |
 
 La Bosse |
 
-25150 |
+25082 |
 
 Bourguignon |
 
-25640 |
+25088 |
 
 Breconchaux |
 
-25520 |
+25099 |
 
 Bugny |
 
-25440 |
+25109 |
 
 Cessey |
 
-25360 |
+25116 |
 
 Champlive |
 
-25440 |
+25126 |
 
 Charnay |
 
-25650 |
+25139 |
 
 La Chaux |
 
-25430 |
+25145 |
 
 Chazot |
 
-25330 |
+25155 |
 
 Cléron |
 
-25500 |
+25160 |
 
 Les Combes |
 
-25340 |
+25177 |
 
 Crosey-le-Grand |
 
-25340 |
+25178 |
 
 Crosey-le-Petit |
 
-25110 |
+25189 |
 
 Dammartin-les-Templiers |
 
-25580 |
+25208 |
 
 Durnes |
 
-25640 |
+25215 |
 
 L'Écouvotte |
 
-25170 |
+25217 |
 
 Émagny |
 
-25330 |
+25223 |
 
 Éternoz |
 
-25330 |
+25236 |
 
 Fertans |
 
-25340 |
+25246 |
 
 Fontaine-lès-Clerval |
 
-25210 |
+25248 |
 
 Les Fontenelles |
 
-25110 |
+25249 |
 
 Fontenotte |
 
@@ -3572,9034 +3572,9006 @@ Fontenotte |
 
 Gevresin |
 
-25340 |
+25276 |
 
 Gondenans-Montby |
 
-25200 |
+25284 |
 
 Grand-Charmont |
 
-25110 |
+25298 |
 
 Grosbois |
 
-25580 |
+25300 |
 
 Guyans-Durnes |
 
-25620 |
+25305 |
 
 L'Hôpital-du-Grosbois |
 
-25340 |
+25306 |
 
 L'Hôpital-Saint-Lieffroy |
 
-25110 |
+25313 |
 
 Hyèvre-Paroisse |
 
-25440 |
+25330 |
 
 Lavans-Quingey |
 
-25580 |
+25331 |
 
 Lavans-Vuillafans |
 
-25650 |
+25347 |
 
 La Longeville |
 
-25110 |
+25354 |
 
 Luxiol |
 
-25360 |
+25355 |
 
 Magny-Châtelard |
 
-25210 |
+25373 |
 
 Le Mémont |
 
-25370 |
+25380 |
 
 Métabief |
 
-25270 |
+25404 |
 
 Montmahoux |
 
-25330 |
+25420 |
 
 Nans-sous-Sainte-Anne |
 
-25210 |
+25421 |
 
 Narbief |
 
-25150 |
+25422 |
 
 Neuchâtel-Urtière |
 
-25580 |
+25424 |
 
 Les Premiers Sapins |
 
-25430 |
+25436 |
 
 Orve |
 
-25520 |
+25440 |
 
 Ouhans |
 
-25210 |
+25456 |
 
 Plaimbois-du-Miroir |
 
-25340 |
+25461 |
 
 Pompierre-sur-Doubs |
 
-25640 |
+25474 |
 
 Le Puy |
 
-25440 |
+25475 |
 
 Quingey |
 
-25430 |
+25476 |
 
 Rahon |
 
-25520 |
+25487 |
 
 Renédale |
 
-25520 |
+25517 |
 
 Saint-Gorgon-Main |
 
-25640 |
+25518 |
 
 Saint-Hilaire |
 
-25430 |
+25544 |
 
 Servin |
 
-25110 |
+25546 |
 
 Silley-Bléfond |
 
-25250 |
+25553 |
 
 Soye |
 
-25680 |
+25567 |
 
 Tournans |
 
-25340 |
+25574 |
 
 Uzelle |
 
-25430 |
+25597 |
 
 Vellevans |
 
-25640 |
+25599 |
 
 Vennans |
 
-25110 |
+25602 |
 
 Vergranne |
 
-25110 |
+25604 |
 
 Verne |
 
-25410 |
+25616 |
 
 Villars-Saint-Georges |
 
-25270 |
+25621 |
 
 Villeneuve-d'Amont |
 
-25110 |
+25629 |
 
 Voillans |
 
-25580 |
+25630 |
 
 Voires |
 
-26300 |
+26049 |
 
 Bésayes |
 
-26450 |
+26078 |
 
 Charols |
 
-26450 |
+26095 |
 
 Cléon-d'Andran |
 
-26160 |
+26171 |
 
 Manas |
 
-26450 |
+26258 |
 
 Puy-Saint-Martin |
 
-26160 |
+26268 |
 
 Rochebaudin |
 
-26300 |
+26273 |
 
 Rochefort-Samson |
 
-26450 |
+26287 |
 
 Roynac |
 
-26130 |
+26326 |
 
 Saint-Restitut |
 
-26300 |
+26382 |
 
 Saint-Vincent-la-Commanderie |
 
-27930 |
+27017 |
 
 Angerville-la-Campagne |
 
-27180 |
+27020 |
 
 Arnières-sur-Iton |
 
-27930 |
+27031 |
 
 Aviron |
 
-27180 |
+27044 |
 
 Les Baux-Sainte-Croix |
 
-27120 |
+27081 |
 
 Boncourt |
 
-27930 |
+27099 |
 
 Le Boulay-Morin |
 
-27930 |
+27147 |
 
 La Chapelle-du-Bois-des-Faulx |
 
-27930 |
+27158 |
 
 Cierrey |
 
-27930 |
+27280 |
 
 Gauciel |
 
-27930 |
+27299 |
 
 Gravigny |
 
-27930 |
+27347 |
 
 Huest |
 
-27930 |
+27410 |
 
 Miserey |
 
-27930 |
+27439 |
 
 Normanville |
 
-27930 |
+27489 |
 
 Reuilly |
 
-27930 |
+27546 |
 
 Saint-Germain-des-Angles |
 
-27930 |
+27611 |
 
 Saint-Vigor |
 
-27930 |
+27615 |
 
 Sassey |
 
-27180 |
+27678 |
 
 Les Ventes |
 
-28700 |
+28013 |
 
 Aunay-sous-Auneau |
 
-28700 |
+28015 |
 
 Auneau-Bleury-Saint-Symphorien |
 
-28320 |
+28023 |
 
 Bailleau-Armenonville |
 
-28300 |
+28034 |
 
 Berchères-Saint-Germain |
 
-28130 |
+28052 |
 
 Bouglainval |
 
-28700 |
+28073 |
 
 Champseru |
 
-28700 |
+28074 |
 
 La Chapelle-d'Aunainville |
 
-28130 |
+28084 |
 
 Chartainvilliers |
 
-28300 |
+28104 |
 
 Coltainville |
 
-28210 |
+28113 |
 
 Coulombs |
 
-28230 |
+28135 |
 
 Droue-sur-Drouette |
 
-28320 |
+28137 |
 
 Écrosnes |
 
-28230 |
+28140 |
 
 Épernon |
 
-28320 |
+28168 |
 
 Gallardon |
 
-28320 |
+28172 |
 
 Gas |
 
-28300 |
+28173 |
 
 Gasville-Oisème |
 
-28700 |
+28188 |
 
 Le Gué-de-Longroi |
 
-28130 |
+28191 |
 
 Hanches |
 
-28130 |
+28195 |
 
 Houx |
 
-28300 |
+28201 |
 
 Jouy |
 
-28700 |
+28208 |
 
 Levainville |
 
-28130 |
+28249 |
 
 Mévoisins |
 
-28700 |
+28285 |
 
 Oinville-sous-Auneau |
 
-28300 |
+28301 |
 
 Poisvilliers |
 
-28700 |
+28317 |
 
 Roinville |
 
-28700 |
+28344 |
 
 Saint-Léger-des-Aubées |
 
-28210 |
+28349 |
 
 Saint-Lucien |
 
-28130 |
+28352 |
 
 Saint-Martin-de-Nigelles |
 
-28130 |
+28357 |
 
 Saint-Piat |
 
-28300 |
+28358 |
 
 Saint-Prest |
 
-28210 |
+28372 |
 
 Senantes |
 
-28130 |
+28379 |
 
 Soulaires |
 
-28700 |
+28397 |
 
 Umpeau |
 
-28130 |
+28417 |
 
 Villiers-le-Morhier |
 
-28130 |
+28423 |
 
 Yermenonville |
 
-28320 |
+28425 |
 
 Ymeray |
 
-29820 |
+29011 |
 
 Bohars |
 
-29200 |
+29019 |
 
 Brest |
 
-29270 |
+29024 |
 
 Carhaix-Plouguer |
 
-20167 |
+2A001 |
 
 Afa |
 
-20167 |
+2A004 |
 
 Ajaccio |
 
-20212 |
+2A006 |
 
-Alando |
+Alata |
 
-20212 |
+2A032 |
 
-Alzi |
+Bastelicaccia |
 
-20272 |
-
-Ampriani |
-
-20226 |
-
-Belgodère |
-
-20100 |
+2A038 |
 
 Bilia |
 
-20290 |
+2A115 |
 
-Borgo |
+Foce |
 
-20224 |
-
-Calacuccia |
-
-20213 |
-
-Castellare-di-Casinca |
-
-20236 |
-
-Castirla |
-
-20100 |
+2A127 |
 
 Giuncheto |
 
-20100 |
+2A128 |
 
 Granace |
 
-20226 |
+2A163 |
 
-Novella |
+Monacia-d'Aullène |
 
-20218 |
+2A351 |
 
-Piedigriggio |
+Villanova |
 
-20230 |
+2B015 |
+
+Ampriani |
+
+2B053 |
+
+Campi |
+
+2B057 |
+
+Canale-di-Verde |
+
+2B155 |
+
+Matra |
+
+2B190 |
+
+Olmi-Cappella |
+
+2B210 |
+
+Pero-Casevecchie |
+
+2B213 |
+
+Pianello |
+
+2B224 |
+
+Pietracorbara |
+
+2B225 |
 
 Pietra-di-Verde |
 
-20259 |
+2B242 |
 
-Pioggiola |
+Poggio-Mezzana |
 
-20215 |
-
-Porri |
-
-20213 |
+2B252 |
 
 Pruno |
 
-20230 |
+2B293 |
+
+Sant'Andréa-di-Cotone |
+
+2B302 |
 
 San-Giovanni-di-Moriani |
 
-20250 |
+2B305 |
 
-Santa-Lucia-di-Mercurio |
+San-Martino-di-Lota |
 
-20230 |
+2B309 |
+
+Santa-Maria-di-Lota |
+
+2B317 |
 
 Santa-Reparata-di-Moriani |
 
-20213 |
+2B340 |
 
-Scata |
+Velone-Orneto |
 
-20290 |
-
-Scolca |
-
-20146 |
-
-Sotta |
-
-20230 |
-
-Taglio-Isolaccio |
-
-20215 |
-
-Venzolasca |
-
-20272 |
+2B364 |
 
 Zuani |
 
-30250 |
+30019 |
 
 Aubais |
 
-30250 |
+30023 |
 
 Aujargues |
 
-30200 |
+30028 |
 
 Bagnols-sur-Cèze |
 
-30160 |
+30045 |
 
 Bordezac |
 
-30260 |
+30050 |
 
 Bragassargues |
 
-30420 |
+30062 |
 
 Calvisson |
 
-30130 |
+30070 |
 
 Carsan |
 
-30210 |
+30073 |
 
 Castillon-du-Gard |
 
-30920 |
+30083 |
 
 Codognan |
 
-30111 |
+30091 |
 
 Congénies |
 
-30260 |
+30095 |
 
 Corconne |
 
-30500 |
+30097 |
 
 Courry |
 
-30170 |
+30099 |
 
 Cros |
 
-30390 |
+30103 |
 
 Domazan |
 
-30390 |
+30107 |
 
 Estézargues |
 
-30760 |
+30143 |
 
 Laval-Saint-Roman |
 
-30410 |
+30167 |
 
 Meyrannes |
 
-30150 |
+30178 |
 
 Montfaucon |
 
-30490 |
+30179 |
 
 Montfrin |
 
-30210 |
+30235 |
 
 Saint-Bonnet-du-Gard |
 
-30500 |
+30237 |
 
 Saint-Brès |
 
-30760 |
+30242 |
 
 Saint-Christol-de-Rodières |
 
-30500 |
+30247 |
 
 Saint-Denis |
 
-30200 |
+30251 |
 
 Saint-Étienne-des-Sorts |
 
-30700 |
+30262 |
 
 Saint-Hippolyte-de-Montaigu |
 
-30200 |
+30277 |
 
 Saint-Laurent-de-Carnols |
 
-30126 |
+30278 |
 
 Saint-Laurent-des-Arbres |
 
-30700 |
+30286 |
 
 Saint-Maximin |
 
-30330 |
+30292 |
 
 Saint-Pons-la-Calm |
 
-30500 |
+30303 |
 
 Saint-Victor-de-Malcap |
 
-30250 |
+30324 |
 
 Souvignargues |
 
-30126 |
+30326 |
 
 Tavel |
 
-30390 |
+30328 |
 
 Théziers |
 
-30250 |
+30352 |
 
 Villevieille |
 
-31280 |
+31003 |
 
 Aigrefeuille |
 
-31460 |
+31006 |
 
 Albiac |
 
-31440 |
+31017 |
 
 Arlos |
 
-31460 |
+31026 |
 
 Auriac-sur-Vendinelle |
 
-31190 |
+31027 |
 
 Auribail |
 
-31840 |
+31032 |
 
 Aussonne |
 
-31510 |
+31041 |
 
 Bagiry |
 
-31870 |
+31052 |
 
 Beaumont-sur-Lèze |
 
-31700 |
+31056 |
 
 Beauzelle |
 
-31440 |
+31067 |
 
 Bezins-Garraux |
 
-31340 |
+31073 |
 
 Bondigoux |
 
-31590 |
+31074 |
 
 Bonrepos-Riquet |
 
-31470 |
+31075 |
 
 Bonrepos-sur-Aussonnelle |
 
-31340 |
+31077 |
 
 Le Born |
 
-31580 |
+31078 |
 
 Boudrac |
 
-31570 |
+31082 |
 
 Bourg-Saint-Bernard |
 
-31490 |
+31088 |
 
 Brax |
 
-31480 |
+31096 |
 
 Cabanac-Séguenville |
 
-31460 |
+31097 |
 
 Le Cabanial |
 
-31560 |
+31100 |
 
 Calmont |
 
-31470 |
+31101 |
 
 Cambernard |
 
-31460 |
+31102 |
 
 Cambiac |
 
-31460 |
+31105 |
 
 Caragoudes |
 
-31260 |
+31110 |
 
 Cassagne |
 
-31180 |
+31117 |
 
 Castelmaurou |
 
-31350 |
+31121 |
 
 Castéra-Vignoles |
 
-31110 |
+31125 |
 
 Cathervielle |
 
-31160 |
+31155 |
 
 Couret |
 
-31280 |
+31163 |
 
 Drémil-Lafage |
 
-31460 |
+31179 |
 
 Le Faget |
 
-31460 |
+31194 |
 
 Francarville |
 
-31360 |
+31198 |
 
 Le Fréchet |
 
-31150 |
+31205 |
 
 Gagnac-sur-Garonne |
 
-31380 |
+31212 |
 
 Garidech |
 
-31110 |
+31213 |
 
 Garin |
 
-31590 |
+31215 |
 
 Gauré |
 
-31380 |
+31216 |
 
 Gémil |
 
-31510 |
+31217 |
 
 Génos |
 
-31110 |
+31222 |
 
 Gouaux-de-Luchon |
 
-31190 |
+31233 |
 
 Grépiac |
 
-31160 |
+31236 |
 
 Herran |
 
-31210 |
+31238 |
 
 Huos |
 
-31190 |
+31256 |
 
 Labruyère-Dorsa |
 
-31390 |
+31261 |
 
 Lafitte-Vigordane |
 
-31870 |
+31263 |
 
 Lagardelle-sur-Lèze |
 
-31190 |
+31264 |
 
 Lagrâce-Dieu |
 
-31600 |
+31269 |
 
 Lamasquère |
 
-31180 |
+31273 |
 
 Lapeyrouse-Fossat |
 
-31370 |
+31283 |
 
 Lautignac |
 
-31590 |
+31285 |
 
 Lavalette |
 
-31220 |
+31286 |
 
 Lavelanet-de-Comminges |
 
-31340 |
+31288 |
 
 Layrac-sur-Tarn |
 
-31230 |
+31301 |
 
 Lilhac |
 
-31460 |
+31304 |
 
 Loubens-Lauragais |
 
-31580 |
+31305 |
 
 Loudet |
 
-31510 |
+31306 |
 
 Lourde |
 
-31340 |
+31311 |
 
 La Magdelaine-sur-Tarn |
 
-31220 |
+31318 |
 
 Marignac-Laspeyres |
 
-31390 |
+31320 |
 
 Marquefave |
 
-31460 |
+31325 |
 
 Mascarville |
 
-31290 |
+31328 |
 
 Mauremont |
 
-31460 |
+31331 |
 
 Maureville |
 
-31260 |
+31336 |
 
 Mazères-sur-Salat |
 
-31530 |
+31338 |
 
 Menville |
 
-31190 |
+31345 |
 
 Miremont |
 
-31340 |
+31346 |
 
 Mirepoix-sur-Tarn |
 
-31280 |
+31355 |
 
 Mons |
 
-31380 |
+31358 |
 
 Montastruc-la-Conseillère |
 
-31140 |
+31364 |
 
 Montberon |
 
-31510 |
+31369 |
 
 Mont-de-Galié |
 
-31260 |
+31376 |
 
 Montgaillard-de-Salies |
 
-31380 |
+31383 |
 
 Montjoire |
 
-31380 |
+31388 |
 
 Montpitol |
 
-31460 |
+31392 |
 
 Mourvilles-Basses |
 
-31110 |
+31404 |
 
 Oô |
 
-31380 |
+31407 |
 
 Paulhac |
 
-31510 |
+31408 |
 
 Payssous |
 
-31140 |
+31410 |
 
 Pechbonnieu |
 
-31130 |
+31418 |
 
 Pin-Balma |
 
-31220 |
+31422 |
 
 Plagne |
 
-31370 |
+31423 |
 
 Plagnole |
 
-31110 |
+31432 |
 
 Portet-de-Luchon |
 
-31110 |
+31434 |
 
 Poubeau |
 
-31460 |
+31441 |
 
 Prunet |
 
-31130 |
+31445 |
 
 Quint-Fonsegrives |
 
-31310 |
+31455 |
 
 Rieux-Volvestre |
 
-31380 |
+31459 |
 
 Roquesérière |
 
-31430 |
+31469 |
 
 Saint-Araille |
 
-31180 |
+31484 |
 
 Saint-Geniès-Bellevue |
 
-31140 |
+31497 |
 
 Saint-Loup-Cammas |
 
-31590 |
+31501 |
 
 Saint-Marcel-Paulel |
 
-31220 |
+31505 |
 
 Saint-Michel |
 
-31590 |
+31511 |
 
 Saint-Pierre |
 
-31290 |
+31519 |
 
 Saint-Vincent |
 
-31230 |
+31522 |
 
 Salerm |
 
-31460 |
+31527 |
 
 La Salvetat-Lauragais |
 
-31220 |
+31530 |
 
 Sana |
 
-31110 |
+31549 |
 
 Sode |
 
-31290 |
+31566 |
 
 Vallègue |
 
-31570 |
+31567 |
 
 Vallesvilles |
 
-31810 |
+31572 |
 
 Venerque |
 
-31480 |
+31577 |
 
 Vignaux |
 
-31860 |
+31580 |
 
 Villate |
 
-31340 |
+31583 |
 
 Villematier |
 
-31260 |
+31591 |
 
 Escoulis |
 
-33240 |
+33016 |
 
 Asques |
 
-33230 |
+33034 |
 
 Bayas |
 
-33710 |
+33035 |
 
 Bayon-sur-Gironde |
 
-33340 |
+33055 |
 
 Blaignan-Prignac |
 
-33290 |
+33056 |
 
 Blanquefort |
 
-33370 |
+33061 |
 
 Bonnetan |
 
-33124 |
+33074 |
 
 Brouqueyran |
 
-33240 |
+33082 |
 
 Cadillac-en-Fronsadais |
 
-33190 |
+33087 |
 
 Camiran |
 
-33660 |
+33088 |
 
 Camps-sur-l'Isle |
 
-33550 |
+33093 |
 
 Capian |
 
-33390 |
+33101 |
 
 Cartelègue |
 
-33430 |
+33116 |
 
 Cazats |
 
-33540 |
+33129 |
 
 Cleyrac |
 
-33710 |
+33132 |
 
 Comps |
 
-33340 |
+33134 |
 
 Couquèques |
 
-33430 |
+33144 |
 
 Cudos |
 
-33370 |
+33165 |
 
 Fargues-Saint-Hilaire |
 
-33540 |
+33189 |
 
 Gornac |
 
-33185 |
+33200 |
 
 Le Haillan |
 
-33190 |
+33204 |
 
 Hure |
 
-33640 |
+33206 |
 
 Isle-Saint-Georges |
 
-33124 |
+33216 |
 
 Lados |
 
-33850 |
+33238 |
 
 Léognan |
 
-33190 |
+33250 |
 
 Loubens |
 
-33670 |
+33263 |
 
 Madirac |
 
-33540 |
+33278 |
 
 Mauriac |
 
-33410 |
+33299 |
 
 Mourens |
 
-33190 |
+33306 |
 
 Noaillac |
 
-33340 |
+33309 |
 
 Ordonnac |
 
-33670 |
+33335 |
 
 Le Pout |
 
-33660 |
+33347 |
 
 Puynormand |
 
-33160 |
+33376 |
 
 Saint-Aubin-de-Médoc |
 
-33340 |
+33383 |
 
 Saint-Christoly-Médoc |
 
-33190 |
+33398 |
 
 Saint-Exupéry |
 
-33540 |
+33399 |
 
 Saint-Félix-de-Foncaude |
 
-33580 |
+33404 |
 
 Sainte-Gemme |
 
-33390 |
+33405 |
 
 Saint-Genès-de-Blaye |
 
-33920 |
+33416 |
 
 Saint-Girons-d'Aiguevives |
 
-33390 |
+33441 |
 
 Saint-Martin-Lacaussade |
 
-33540 |
+33443 |
 
 Saint-Martin-de-Lerm |
 
-33490 |
+33463 |
 
 Saint-Pierre-d'Aurillac |
 
-33240 |
+33470 |
 
 Saint-Romain-la-Virvée |
 
-33660 |
+33472 |
 
 Saint-Sauveur-de-Puynormand |
 
-33710 |
+33475 |
 
 Saint-Seurin-de-Bourg |
 
-33540 |
+33482 |
 
 Saint-Sulpice-de-Pommiers |
 
-33920 |
+33502 |
 
 Saugon |
 
-33320 |
+33519 |
 
 Le Taillan-Médoc |
 
-34150 |
+34011 |
 
 Arboras |
 
-34380 |
+34012 |
 
 Argelliers |
 
-34230 |
+34029 |
 
 Bélarga |
 
-34150 |
+34035 |
 
 La Boissière |
 
-34760 |
+34037 |
 
 Boujan-sur-Libron |
 
-34230 |
+34047 |
 
 Campagnan |
 
-34420 |
+34073 |
 
 Cers |
 
-34230 |
+34208 |
 
 Popian |
 
-34230 |
+34215 |
 
 Pouzols |
 
-34230 |
+34241 |
 
 Saint-Bauzille-de-la-Sylve |
 
-34150 |
+34261 |
 
 Saint-Guilhem-le-Désert |
 
-34725 |
+34262 |
 
 Saint-Guiraud |
 
-34150 |
+34267 |
 
 Saint-Jean-de-Fos |
 
-34230 |
+34281 |
 
 Saint-Pargoire |
 
-34725 |
+34287 |
 
 Saint-Saturnin-de-Lucian |
 
-34230 |
+34313 |
 
 Tressan |
 
-34230 |
+34328 |
 
 Vendémian |
 
-35000 |
+35238 |
 
 Rennes |
 
-35000 |
-
-Rennes - Cathédrale |
-
-35000 |
-
-Rennes - Hoche |
-
-35000 |
-
-Rennes - Parlement |
-
-35000 |
-
-Rennes - Parcheminerie Toussaints |
-
-35000 |
-
-Rennes - Liberté - Champ de Mars |
-
-35000 |
-
-Rennes - Saint-Louis |
-
-35000 |
-
-Rennes - Vieux Saint Etienne |
-
-36300 |
+36018 |
 
 Le Blanc |
 
-36500 |
+36031 |
 
 Buzançais |
 
-36700 |
+36045 |
 
 Châtillon-sur-Indre |
 
-36700 |
+36055 |
 
 Clion |
 
-36290 |
+36123 |
 
 Mézières-en-Brenne |
 
-36250 |
+36142 |
 
 Niherne |
 
-36300 |
+36165 |
 
 Pouligny-Saint-Pierre |
 
-36500 |
+36194 |
 
 Saint-Genou |
 
-36500 |
+36232 |
 
 Vendœuvres |
 
-36320 |
+36241 |
 
 Villedieu-sur-Indre |
 
-37510 |
+37025 |
 
 Berthenay |
 
-37130 |
+37038 |
 
 Bréhémont |
 
-37130 |
+37056 |
 
 La Chapelle-aux-Naux |
 
-37420 |
+37118 |
 
 Huismes |
 
-37130 |
+37128 |
 
 Lignières-de-Touraine |
 
-37520 |
+37195 |
 
 La Riche |
 
-37420 |
+37197 |
 
 Rigny-Ussé |
 
-37540 |
+37214 |
 
 Saint-Cyr-sur-Loire |
 
-37510 |
+37219 |
 
 Saint-Genouph |
 
-38600 |
+38169 |
 
 Fontaine |
 
-38120 |
+38170 |
 
 Fontanil-Cornillon |
 
-38120 |
+38382 |
 
 Saint-Égrève |
 
-38360 |
+38474 |
 
 Sassenage |
 
-38170 |
+38485 |
 
 Seyssinet-Pariset |
 
-38180 |
+38486 |
 
 Seyssins |
 
-39120 |
+39034 |
 
 Balaiseaux |
 
-39130 |
+39038 |
 
 Barésia-sur-l'Ain |
 
-39130 |
+39058 |
 
 Blye |
 
-39120 |
+39090 |
 
 Chaînée-des-Coupis |
 
-39130 |
+39109 |
 
 Charézier |
 
-39570 |
+39145 |
 
 Chille |
 
-39570 |
+39146 |
 
 Chilly-le-Vignoble |
 
-39110 |
+39147 |
 
 Chilly-sur-Salins |
 
-39570 |
+39169 |
 
 Courbouzon |
 
-39240 |
+39204 |
 
 Dramelay |
 
-39120 |
+39211 |
 
 Les Essards-Taignevaux |
 
-39570 |
+39217 |
 
 L'Étoile |
 
-39240 |
+39247 |
 
 Genod |
 
-39100 |
+39252 |
 
 Gevry |
 
-39120 |
+39266 |
 
 Les Hays |
 
-39130 |
+39278 |
 
 Largillay-Marsonnay |
 
-39270 |
+39314 |
 
 Marnézia |
 
-39260 |
+39318 |
 
 Martigna |
 
-39270 |
+39324 |
 
 Mérona |
 
-39570 |
+39390 |
 
 Nogna |
 
-39570 |
+39431 |
 
 Poids-de-Fiole |
 
-39570 |
+39480 |
 
 Saint-Didier |
 
-39130 |
+39519 |
 
 Soucia |
 
-39130 |
+39531 |
 
 Thoiria |
 
-39130 |
+39556 |
 
 Vertamboz |
 
-39240 |
+39557 |
 
 Vescles |
 
-39570 |
+39567 |
 
 Villeneuve-sous-Pymont |
 
-40090 |
+40025 |
 
 Bascons |
 
-40280 |
+40037 |
 
 Benquet |
 
-40090 |
+40050 |
 
 Bostens |
 
-40100 |
+40088 |
 
 Dax |
 
-40290 |
+40095 |
 
 Estibeaux |
 
-40180 |
+40106 |
 
 Garrey |
 
-40270 |
+40117 |
 
 Grenade-sur-l'Adour |
 
-40270 |
+40145 |
 
 Larrivière-Saint-Savin |
 
-40250 |
+40147 |
 
 Laurède |
 
-40290 |
+40199 |
 
 Mouscardès |
 
-40180 |
+40202 |
 
 Narrosse |
 
-40290 |
+40214 |
 
 Ossages |
 
-40380 |
+40216 |
 
 Ozourt |
 
-40380 |
+40235 |
 
 Poyanne |
 
-40090 |
+40280 |
 
 Saint-Perdon |
 
-40360 |
+40316 |
 
 Tilh |
 
-40380 |
+40324 |
 
 Vicq-d'Auribat |
 
-40180 |
+40334 |
 
 Yzosse |
 
-41130 |
+41016 |
 
 Billy |
 
-41120 |
+41029 |
 
 Candé-sur-Beuvron |
 
-41120 |
+41032 |
 
 Chailles |
 
-41130 |
+41043 |
 
 Châtillon-sur-Cher |
 
-41260 |
+41047 |
 
 La Chaussée-Saint-Victor |
 
-41130 |
+41097 |
 
 Gièvres |
 
-41500 |
+41134 |
 
 Menars |
 
-41120 |
+41147 |
 
 Les Montils |
 
-41000 |
+41206 |
 
 Saint-Denis-sur-Loire |
 
-41350 |
+41212 |
 
 Saint-Gervais-la-Forêt |
 
-41130 |
+41242 |
 
 Selles-sur-Cher |
 
-42820 |
+42003 |
 
 Ambierle |
 
-42370 |
+42008 |
 
 Arcon |
 
-42130 |
+42009 |
 
 Arthun |
 
-42330 |
+42010 |
 
 Aveizieux |
 
-42510 |
+42011 |
 
 Balbigny |
 
-42600 |
+42012 |
 
 Bard |
 
-42210 |
+42013 |
 
 Bellegarde-en-Forez |
 
-42130 |
+42019 |
 
 Boën-sur-Lignon |
 
-42210 |
+42020 |
 
 Boisset-lès-Montrond |
 
-42560 |
+42021 |
 
 Boisset-Saint-Priest |
 
-42510 |
+42029 |
 
 Bussières |
 
-42260 |
+42030 |
 
 Bussy-Albieux |
 
-42440 |
+42034 |
 
 Cervières |
 
-42130 |
+42035 |
 
 Cezay |
 
-42600 |
+42037 |
 
 Chalain-d'Uzore |
 
-42600 |
+42038 |
 
 Chalain-le-Comtal |
 
-42440 |
+42040 |
 
 La Chamba |
 
-42110 |
+42041 |
 
 Chambéon |
 
-42170 |
+42042 |
 
 Chambles |
 
-42440 |
+42045 |
 
 La Chambonie |
 
-42600 |
+42046 |
 
 Champdieu |
 
-42310 |
+42049 |
 
 Changy |
 
-42380 |
+42050 |
 
 La Chapelle-en-Lafaye |
 
-42940 |
+42054 |
 
 Châtelneuf |
 
-42560 |
+42058 |
 
 Chazelles-sur-Lavieu |
 
-42140 |
+42059 |
 
 Chazelles-sur-Lyon |
 
-42560 |
+42060 |
 
 Chenereilles |
 
-42110 |
+42065 |
 
 Civens |
 
-42110 |
+42066 |
 
 Cleppé |
 
-42840 |
+42068 |
 
 Combre |
 
-42120 |
+42069 |
 
 Commelle-Vernay |
 
-42120 |
+42071 |
 
 Le Coteau |
 
-42360 |
+42073 |
 
 Cottance |
 
-42460 |
+42074 |
 
 Coutouvre |
 
-42210 |
+42075 |
 
 Craintilleux |
 
-42310 |
+42078 |
 
 Le Crozet |
 
-42330 |
+42081 |
 
 Cuzieu |
 
-42130 |
+42084 |
 
 Débats-Rivière-d'Orpra |
 
-42600 |
+42089 |
 
 Essertines-en-Châtelneuf |
 
-42360 |
+42090 |
 
 Essertines-en-Donzy |
 
-42110 |
+42094 |
 
 Feurs |
 
-42560 |
+42107 |
 
 Gumières |
 
-42210 |
+42108 |
 
 L'Hôpital-le-Grand |
 
-42130 |
+42109 |
 
 L'Hôpital-sous-Rochefort |
 
-42110 |
+42113 |
 
 Jas |
 
-42560 |
+42117 |
 
 Lavieu |
 
-42130 |
+42119 |
 
 Leigneux |
 
-42155 |
+42120 |
 
 Lentigny |
 
-42600 |
+42121 |
 
 Lérigneux |
 
-42600 |
+42122 |
 
 Lézigneux |
 
-42380 |
+42126 |
 
 Luriecq |
 
-42600 |
+42130 |
 
 Magneux-Haute-Rive |
 
-42130 |
+42134 |
 
 Marcilly-le-Châtel |
 
-42210 |
+42135 |
 
 Marclopt |
 
-42130 |
+42136 |
 
 Marcoux |
 
-42560 |
+42137 |
 
 Margerie-Chantagret |
 
-42560 |
+42140 |
 
 Marols |
 
-42110 |
+42143 |
 
 Mizérieux |
 
-42840 |
+42145 |
 
 Montagny |
 
-42380 |
+42146 |
 
 Montarcher |
 
-42600 |
+42147 |
 
 Montbrison |
 
-42360 |
+42148 |
 
 Montchal |
 
-42130 |
+42150 |
 
 Montverdun |
 
-42600 |
+42151 |
 
 Mornand-en-Forez |
 
-42510 |
+42154 |
 
 Néronde |
 
-42510 |
+42155 |
 
 Nervieux |
 
-42640 |
+42157 |
 
 Noailly |
 
-42370 |
+42158 |
 
 Les Noës |
 
-42440 |
+42159 |
 
 Noirétable |
 
-42120 |
+42161 |
 
 Notre-Dame-de-Boisset |
 
-42155 |
+42162 |
 
 Ouches |
 
-42310 |
+42163 |
 
 La Pacaudière |
 
-42990 |
+42164 |
 
 Palogneux |
 
-42360 |
+42165 |
 
 Panissières |
 
-42120 |
+42166 |
 
 Parigny |
 
-42380 |
+42169 |
 
 Périgneux |
 
-42120 |
+42170 |
 
 Perreux |
 
-42590 |
+42171 |
 
 Pinay |
 
-42110 |
+42174 |
 
 Poncins |
 
-42110 |
+42175 |
 
 Pouilly-lès-Feurs |
 
-42155 |
+42176 |
 
 Pouilly-les-Nonains |
 
-42600 |
+42179 |
 
 Pralong |
 
-42370 |
+42182 |
 
 Renaison |
 
-42340 |
+42185 |
 
 Rivas |
 
-42600 |
+42188 |
 
 Roche |
 
-42810 |
+42193 |
 
 Rozier-en-Donzy |
 
-42310 |
+42194 |
 
 Sail-les-Bains |
 
-42890 |
+42195 |
 
 Sail-sous-Couzan |
 
-42510 |
+42196 |
 
 Sainte-Agathe-en-Donzy |
 
-42130 |
+42197 |
 
 Sainte-Agathe-la-Bouteresse |
 
-42370 |
+42198 |
 
 Saint-Alban-les-Eaux |
 
-42210 |
+42200 |
 
 Saint-André-le-Puy |
 
-42110 |
+42202 |
 
 Saint-Barthélemy-Lestra |
 
-42310 |
+42203 |
 
 Saint-Bonnet-des-Quarts |
 
-42940 |
+42205 |
 
 Saint-Bonnet-le-Courreau |
 
-42540 |
+42209 |
 
 Sainte-Colombe-sur-Gand |
 
-42160 |
+42211 |
 
 Saint-Cyprien |
 
-42114 |
+42213 |
 
 Saint-Cyr-de-Valorges |
 
-42210 |
+42214 |
 
 Saint-Cyr-les-Vignes |
 
-42111 |
+42217 |
 
 Saint-Didier-sur-Rochefort |
 
-42130 |
+42219 |
 
 Saint-Étienne-le-Molard |
 
-42110 |
+42221 |
 
 Sainte-Foy-Saint-Sulpice |
 
-42990 |
+42227 |
 
 Saint-Georges-en-Couzan |
 
-42610 |
+42228 |
 
 Saint-Georges-Haute-Ville |
 
-42640 |
+42231 |
 
 Saint-Germain-Lespinasse |
 
-42370 |
+42232 |
 
 Saint-Haon-le-Châtel |
 
-42370 |
+42233 |
 
 Saint-Haon-le-Vieux |
 
-42440 |
+42238 |
 
 Saint-Jean-la-Vêtre |
 
-42155 |
+42239 |
 
 Saint-Jean-Saint-Maurice-sur-Loire |
 
-42560 |
+42240 |
 
 Saint-Jean-Soleymieux |
 
-42590 |
+42241 |
 
 Saint-Jodard |
 
-42990 |
+42247 |
 
 Saint-Just-en-Bas |
 
-42210 |
+42251 |
 
 Saint-Laurent-la-Conche |
 
-42130 |
+42252 |
 
 Saint-Laurent-Rochefort |
 
-42155 |
+42253 |
 
 Saint-Léger-sur-Roanne |
 
-42122 |
+42254 |
 
 Saint-Marcel-de-Félines |
 
-42680 |
+42256 |
 
 Saint-Marcellin-en-Forez |
 
-42620 |
+42257 |
 
 Saint-Martin-d'Estréaux |
 
-42110 |
+42261 |
 
 Saint-Martin-Lestra |
 
-42330 |
+42264 |
 
 Saint-Médard-en-Forez |
 
-42600 |
+42269 |
 
 Saint-Paul-d'Uzore |
 
-42370 |
+42281 |
 
 Saint-Rirand |
 
-42640 |
+42284 |
 
 Saint-Romain-la-Motte |
 
-42130 |
+42288 |
 
 Saint-Sixte |
 
-42120 |
+42294 |
 
 Saint-Vincent-de-Boisset |
 
-42110 |
+42296 |
 
 Salt-en-Donzy |
 
-42110 |
+42297 |
 
 Salvizinet |
 
-42560 |
+42301 |
 
 Soleymieux |
 
-42130 |
+42313 |
 
 Trelins |
 
-42210 |
+42315 |
 
 Unias |
 
-42310 |
+42317 |
 
 Urbise |
 
-42550 |
+42318 |
 
 Usson-en-Forez |
 
-42110 |
+42319 |
 
 Valeille |
 
-42111 |
+42321 |
 
 La Valla-sur-Rochefort |
 
-42340 |
+42323 |
 
 Veauche |
 
-42340 |
+42324 |
 
 Veauchette |
 
-42600 |
+42328 |
 
 Verrières-en-Forez |
 
-42155 |
+42331 |
 
 Villemontais |
 
-42310 |
+42337 |
 
 Vivans |
 
-43160 |
+43035 |
 
 Bonneval |
 
-43100 |
+43040 |
 
 Brioude |
 
-43160 |
+43048 |
 
 La Chaise-Dieu |
 
-43250 |
+43099 |
 
 Frugerès-les-Mines |
 
-43100 |
+43105 |
 
 Javaugues |
 
-43500 |
+43108 |
 
 Jullianges |
 
-43250 |
+43185 |
 
 Sainte-Florine |
 
-43100 |
+43207 |
 
 Saint-Laurent-Chabreuges |
 
-43390 |
+43261 |
 
 Vézézoux |
 
-44410 |
+44006 |
 
 Assérac |
 
-44420 |
+44097 |
 
 Mesquer |
 
-44420 |
+44125 |
 
 Piriac-sur-Mer |
 
-44350 |
+44183 |
 
 Saint-Molf |
 
-44420 |
+44211 |
 
 La Turballe |
 
-45400 |
+45072 |
 
 Chanteau |
 
-45450 |
+45126 |
 
 Donnery |
 
-45760 |
+45197 |
 
 Marigny-les-Usages |
 
-45470 |
+45261 |
 
 Rebréchien |
 
-45470 |
+45327 |
 
 Traînou |
 
-45760 |
+45333 |
 
 Vennecy |
 
-46140 |
+46001 |
 
 Albas |
 
-46140 |
+46005 |
 
 Anglars-Juillac |
 
-46090 |
+46010 |
 
 Aujols |
 
-46400 |
+46011 |
 
 Autoire |
 
-46230 |
+46013 |
 
 Bach |
 
-46600 |
+46016 |
 
 Baladou |
 
-46230 |
+46023 |
 
 Belfort-du-Quercy |
 
-46130 |
+46024 |
 
 Belmont-Bretenoux |
 
-46110 |
+46028 |
 
 Bétaille |
 
-46160 |
+46041 |
 
 Cadrieu |
 
-46140 |
+46050 |
 
 Cambayrac |
 
-46100 |
+46052 |
 
 Camboulit |
 
-46240 |
+46054 |
 
 Caniac-du-Causse |
 
-46100 |
+46057 |
 
 Cardaillac |
 
-46110 |
+46058 |
 
 Carennac |
 
-46700 |
+46061 |
 
 Cassagnes |
 
-46140 |
+46062 |
 
 Castelfranc |
 
-46310 |
+46072 |
 
 Concorès |
 
-46260 |
+46073 |
 
 Concots |
 
-46360 |
+46079 |
 
 Cras |
 
-46230 |
+46082 |
 
 Cremps |
 
-46600 |
+46084 |
 
 Creysse |
 
-46600 |
+46086 |
 
 Cuzance |
 
-46230 |
+46091 |
 
 Escamps |
 
-46090 |
+46092 |
 
 Esclauzels |
 
-46130 |
+46097 |
 
 Estal |
 
-46300 |
+46098 |
 
 Fajoles |
 
-46100 |
+46102 |
 
 Figeac |
 
-46090 |
+46105 |
 
 Flaujac-Poujols |
 
-46600 |
+46106 |
 
 Floirac |
 
-46700 |
+46107 |
 
 Floressas |
 
-46310 |
+46113 |
 
 Frayssinet |
 
-46400 |
+46115 |
 
 Frayssinhes |
 
-46250 |
+46120 |
 
 Gindou |
 
-46300 |
+46121 |
 
 Ginouillac |
 
-46130 |
+46122 |
 
 Gintrac |
 
-46130 |
+46123 |
 
 Girac |
 
-46210 |
+46125 |
 
 Gorses |
 
-46250 |
+46126 |
 
 Goujounac |
 
-46700 |
+46130 |
 
 Grézels |
 
-46700 |
+46142 |
 
 Lacapelle-Cabanac |
 
-46200 |
+46144 |
 
 Lacave |
 
-46200 |
+46145 |
 
 Lachapelle-Auzac |
 
-46220 |
+46147 |
 
 Lagardelle |
 
-46200 |
+46153 |
 
 Lanzac |
 
-46210 |
+46161 |
 
 Lauresses |
 
-46100 |
+46175 |
 
 Lissac-et-Mouret |
 
-46260 |
+46179 |
 
 Lugagnac |
 
-46100 |
+46180 |
 
 Lunan |
 
-46160 |
+46183 |
 
 Marcilhac-sur-Célé |
 
-46200 |
+46192 |
 
 Meyronne |
 
-46250 |
+46200 |
 
 Montcléra |
 
-46230 |
+46202 |
 
 Montdoumerc |
 
-46240 |
+46204 |
 
 Montfaucon |
 
-46600 |
+46208 |
 
 Montvalent |
 
-46140 |
+46214 |
 
 Parnac |
 
-46310 |
+46219 |
 
 Peyrilles |
 
-46100 |
+46221 |
 
 Planioles |
 
-46250 |
+46222 |
 
 Pomarède |
 
-46130 |
+46228 |
 
 Prudhomat |
 
-46130 |
+46229 |
 
 Puybrun |
 
-46700 |
+46231 |
 
 Puy-l'Évêque |
 
-46200 |
+46239 |
 
 Le Roc |
 
-46260 |
+46247 |
 
 Saillac |
 
-46360 |
+46252 |
 
 Les Pechs du Vers |
 
-46310 |
+46253 |
 
 Saint-Chamarand |
 
-46310 |
+46267 |
 
 Saint-Germain-du-Bel-Air |
 
-46210 |
+46269 |
 
 Saint-Hilaire |
 
-46260 |
+46270 |
 
 Saint-Jean-de-Laur |
 
-46400 |
+46271 |
 
 Saint-Jean-Lespinasse |
 
-46400 |
+46273 |
 
 Saint-Laurent-les-Tours |
 
-46700 |
+46277 |
 
 Saint-Martin-le-Redon |
 
-46130 |
+46284 |
 
 Saint-Michel-Loubéjou |
 
-46100 |
+46288 |
 
 Saint-Perdoux |
 
-46140 |
+46296 |
 
 Saint-Vincent-Rive-d'Olt |
 
-46360 |
+46303 |
 
 Sénaillac-Lauzès |
 
-46200 |
+46309 |
 
 Souillac |
 
-46240 |
+46310 |
 
 Soulomès |
 
-46130 |
+46313 |
 
 Tauriac |
 
-46110 |
+46330 |
 
 Vayrac |
 
-46260 |
+46333 |
 
 Vidaillac |
 
-46700 |
+46336 |
 
 Vire-sur-Lot |
 
-46200 |
+46337 |
 
 Mayrac |
 
-49360 |
+49058 |
 
 Les Cerqueux |
 
-49340 |
+49070 |
 
 Chanteloup-les-Bois |
 
-49280 |
+49195 |
 
 Mazières-en-Mauges |
 
-49340 |
+49231 |
 
 Nuaillé |
 
-49360 |
+49240 |
 
 La Plaine |
 
-49280 |
+49269 |
 
 Saint-Christophe-du-Bois |
 
-49360 |
+49336 |
 
 Somloire |
 
-49360 |
+49352 |
 
 Toutlemonde |
 
-49340 |
+49371 |
 
 Vezins |
 
-50310 |
+50169 |
 
 Écausseville |
 
-50310 |
+50172 |
 
 Émondeville |
 
-50310 |
+50258 |
 
 Joganville |
 
-50410 |
+50291 |
 
 Margueray |
 
-50410 |
+50338 |
 
 Montbray |
 
-50410 |
+50357 |
 
 Morigny |
 
-50310 |
+50507 |
 
 Saint-Marcouf |
 
-50420 |
+50563 |
 
 Saint-Vigor-des-Monts |
 
-51270 |
+51033 |
 
 Le Baizil |
 
-51270 |
+51034 |
 
 Bannay |
 
-51270 |
+51042 |
 
 Baye |
 
-51330 |
+51047 |
 
 Belval-en-Argonne |
 
-51340 |
+51060 |
 
 Bignicourt-sur-Saulx |
 
-51300 |
+51094 |
 
 Brusson |
 
-51300 |
+51095 |
 
 Le Buisson |
 
-51260 |
+51103 |
 
 La Celle-sous-Chantemerle |
 
-51500 |
+51112 |
 
 Chamery |
 
-51270 |
+51113 |
 
 Champaubert |
 
-51370 |
+51118 |
 
 Champigny |
 
-51700 |
+51121 |
 
 Champvoisy |
 
-51260 |
+51124 |
 
 Chantemerle |
 
-51330 |
+51132 |
 
 Les Charmontois |
 
-51270 |
+51157 |
 
 Coizard-Joches |
 
-51260 |
+51162 |
 
 Conflans-sur-Seine |
 
-51270 |
+51186 |
 
 Courjeonnet |
 
-51260 |
+51234 |
 
 Esclavolles-Lurey |
 
-51230 |
+51241 |
 
 Euvy |
 
-51400 |
+51278 |
 
 Les Grandes-Loges |
 
-51260 |
+51343 |
 
 Marcilly-sur-Seine |
 
-51470 |
+51372 |
 
 Moncetz-Longevas |
 
-51140 |
+51391 |
 
 Muizon |
 
-51300 |
+51433 |
 
 Plichancourt |
 
-51170 |
+51437 |
 
 Poilly |
 
-51300 |
+51441 |
 
 Ponthion |
 
-51300 |
+51455 |
 
 Reims-la-Brûlée |
 
-51500 |
+51461 |
 
 Rilly-la-Montagne |
 
-51170 |
+51466 |
 
 Romigny |
 
-51170 |
+51523 |
 
 Sarcy |
 
-51260 |
+51524 |
 
 Saron-sur-Aube |
 
-51500 |
+51532 |
 
 Sermiers |
 
-51270 |
+51563 |
 
 Talus-Saint-Prix |
 
-51300 |
+51598 |
 
 Vauclerc |
 
-51210 |
+51607 |
 
 Verdon |
 
-51700 |
+51609 |
 
 Verneuil |
 
-51170 |
+51624 |
 
 Ville-en-Tardenois |
 
-51500 |
+51629 |
 
 Villers-Allerand |
 
-51500 |
+51631 |
 
 Villers-aux-Nœuds |
 
-51270 |
+51641 |
 
 Villevenard |
 
-51260 |
+51642 |
 
 Villiers-aux-Corneilles |
 
-51300 |
+51647 |
 
 Vitry-en-Perthois |
 
-52400 |
+52002 |
 
 Aigremont |
 
-52500 |
+52015 |
 
 Arbigny-sous-Varennes |
 
-52360 |
+52037 |
 
 Bannes |
 
-52600 |
+52090 |
 
 Celsoy |
 
-52320 |
+52091 |
 
 Cerisières |
 
-52360 |
+52105 |
 
 Changey |
 
-52400 |
+52135 |
 
 Coiffy-le-Bas |
 
-52400 |
+52136 |
 
 Coiffy-le-Haut |
 
-52000 |
+52141 |
 
 Condes |
 
-52600 |
+52242 |
 
 Haute-Amance |
 
-52400 |
+52264 |
 
 Laneuvelle |
 
-52400 |
+52273 |
 
 Larivière-Arnoncourt |
 
-52000 |
+52276 |
 
 Laville-aux-Bois |
 
-52140 |
+52277 |
 
 Lavilleneuve |
 
-52400 |
+52318 |
 
 Melay |
 
-52100 |
+52327 |
 
 Moëslains |
 
-52400 |
+52350 |
 
 Neuvelle-lès-Voisey |
 
-52140 |
+52416 |
 
 Rangecourt |
 
-52320 |
+52436 |
 
 Rouécourt |
 
-52400 |
+52470 |
 
 Serqueux |
 
-52400 |
+52483 |
 
 Soyers |
 
-52400 |
+52520 |
 
 Vicq |
 
-52000 |
+52535 |
 
 Villiers-le-Sec |
 
-52400 |
+52544 |
 
 Voisey |
 
-53940 |
+53001 |
 
 Ahuillé |
 
-53300 |
+53003 |
 
 Ambrières-les-Vallées |
 
-53240 |
+53005 |
 
 Andouillé |
 
-53210 |
+53007 |
 
 Argentré |
 
-53440 |
+53008 |
 
 Aron |
 
-53170 |
+53009 |
 
 Arquenay |
 
-53230 |
+53011 |
 
 Astillé |
 
-53400 |
+53012 |
 
 Athée |
 
-53700 |
+53013 |
 
 Averton |
 
-53160 |
+53016 |
 
 Bais |
 
-53350 |
+53018 |
 
 Ballots |
 
-53440 |
+53021 |
 
 La Bazoge-Montpinçon |
 
-53170 |
+53022 |
 
 La Bazouge-de-Chemeré |
 
-53440 |
+53028 |
 
 Belgeard |
 
-53170 |
+53030 |
 
 Le Bignon-du-Maine |
 
-53240 |
+53031 |
 
 La Bigottière |
 
-53800 |
+53033 |
 
 La Boissière |
 
-53960 |
+53034 |
 
 Bonchamp-lès-Laval |
 
-53370 |
+53038 |
 
 Boulay-les-Ifs |
 
-53350 |
+53041 |
 
 Brains-sur-les-Marches |
 
-53420 |
+53048 |
 
 Chailland |
 
-53470 |
+53049 |
 
 Châlons-du-Maine |
 
-53640 |
+53051 |
 
 Champéon |
 
-53370 |
+53052 |
 
 Champfrémont |
 
-53160 |
+53053 |
 
 Champgenéteux |
 
-53810 |
+53054 |
 
 Changé |
 
-53300 |
+53055 |
 
 Chantrigné |
 
-53950 |
+53056 |
 
 La Chapelle-Anthenaise |
 
-53440 |
+53057 |
 
 La Chapelle-au-Riboul |
 
-53230 |
+53058 |
 
 La Chapelle-Craonnaise |
 
-53150 |
+53059 |
 
 La Chapelle-Rainsouin |
 
-53250 |
+53061 |
 
 Charchigné |
 
-53400 |
+53068 |
 
 Chérancé |
 
-53250 |
+53069 |
 
 Chevaigné-du-Maine |
 
-53800 |
+53073 |
 
 Congrier |
 
-53230 |
+53075 |
 
 Cosmes |
 
-53230 |
+53077 |
 
 Cossé-le-Vivien |
 
-53250 |
+53080 |
 
 Couptrain |
 
-53700 |
+53083 |
 
 Courcité |
 
-53700 |
+53085 |
 
 Crennes-sur-Fraubée |
 
-53170 |
+53087 |
 
 La Cropte |
 
-53540 |
+53088 |
 
 Cuillé |
 
-53400 |
+53090 |
 
 Denazé |
 
-53260 |
+53094 |
 
 Entrammes |
 
-53350 |
+53098 |
 
 Fontaine-Couverte |
 
-53260 |
+53099 |
 
 Forcé |
 
-53540 |
+53102 |
 
 Gastines |
 
-53370 |
+53106 |
 
 Gesvres |
 
-53440 |
+53109 |
 
 Grazay |
 
-53300 |
+53111 |
 
 La Haie-Traversaine |
 
-53250 |
+53112 |
 
 Le Ham |
 
-53160 |
+53113 |
 
 Hambers |
 
-53640 |
+53114 |
 
 Hardanges |
 
-53640 |
+53116 |
 
 Le Horps |
 
-53110 |
+53118 |
 
 Le Housseau-Brétignolles |
 
-53970 |
+53119 |
 
 L'Huisserie |
 
-53160 |
+53120 |
 
 Izé |
 
-53250 |
+53121 |
 
 Javron-les-Chapelles |
 
-53160 |
+53122 |
 
 Jublains |
 
-53200 |
+53124 |
 
 Prée-d'Anjou |
 
-53110 |
+53127 |
 
 Lassay-les-Châteaux |
 
-53540 |
+53128 |
 
 Laubrières |
 
-53000 |
+53130 |
 
 Laval |
 
-53140 |
+53133 |
 
 Lignières-Orgères |
 
-53400 |
+53135 |
 
 Livré-la-Touche |
 
-53700 |
+53139 |
 
 Loupfougères |
 
-53950 |
+53140 |
 
 Louverné |
 
-53210 |
+53141 |
 
 Louvigné |
 
-53250 |
+53142 |
 
 Madré |
 
-53440 |
+53144 |
 
 Marcillé-la-Ville |
 
-53200 |
+53145 |
 
 Marigné-Peuton |
 
-53400 |
+53148 |
 
 Mée |
 
-53500 |
+53155 |
 
 Montenay |
 
-53240 |
+53156 |
 
 Montflours |
 
-53970 |
+53157 |
 
 Montigné-le-Brillant |
 
-53640 |
+53160 |
 
 Montreuil-Poulay |
 
-53250 |
+53164 |
 
 Neuilly-le-Vendin |
 
-53400 |
+53165 |
 
 Niafles |
 
-53970 |
+53168 |
 
 Nuillé-sur-Vicoin |
 
-53140 |
+53173 |
 
 La Pallu |
 
-53260 |
+53175 |
 
 Parné-sur-Roc |
 
-53360 |
+53178 |
 
 Peuton |
 
-53400 |
+53180 |
 
 Pommerieux |
 
-53140 |
+53185 |
 
 Pré-en-Pail-Saint-Samson |
 
-53360 |
+53186 |
 
 Quelaines-Saint-Gault |
 
-53370 |
+53187 |
 
 Ravigny |
 
-53110 |
+53189 |
 
 Rennes-en-Grenouilles |
 
-53640 |
+53190 |
 
 Le Ribay |
 
-53350 |
+53191 |
 
 La Roë |
 
-53390 |
+53192 |
 
 La Rouaudière |
 
-53170 |
+53193 |
 
 Ruillé-Froid-Fonds |
 
-53470 |
+53195 |
 
 Sacé |
 
-53250 |
+53196 |
 
 Saint-Aignan-de-Couptrain |
 
-53390 |
+53197 |
 
 Saint-Aignan-sur-Roë |
 
-53700 |
+53198 |
 
 Saint-Aubin-du-Désert |
 
-53940 |
+53201 |
 
 Saint-Berthevin |
 
-53140 |
+53204 |
 
 Saint-Calais-du-Désert |
 
-53140 |
+53208 |
 
 Saint-Cyr-en-Pail |
 
-53170 |
+53212 |
 
 Saint-Denis-du-Maine |
 
-53390 |
+53214 |
 
 Saint-Erblon |
 
-53300 |
+53216 |
 
 Saint-Fraimbault-de-Prières |
 
-53700 |
+53223 |
 
 Saint-Germain-de-Coulamer |
 
-53240 |
+53224 |
 
 Saint-Germain-le-Fouilloux |
 
-53240 |
+53225 |
 
 Saint-Germain-le-Guillaume |
 
-53240 |
+53229 |
 
 Saint-Jean-sur-Mayenne |
 
-53110 |
+53230 |
 
 Saint-Julien-du-Terroux |
 
-53480 |
+53232 |
 
 Saint-Léger |
 
-53300 |
+53234 |
 
 Saint-Loup-du-Gast |
 
-53110 |
+53235 |
 
 Sainte-Marie-du-Bois |
 
-53700 |
+53236 |
 
 Saint-Mars-du-Désert |
 
-53800 |
+53240 |
 
 Saint-Martin-du-Limet |
 
-53350 |
+53242 |
 
 Saint-Michel-de-la-Roë |
 
-53370 |
+53246 |
 
 Saint-Pierre-des-Nids |
 
-53540 |
+53250 |
 
 Saint-Poix |
 
-53400 |
+53251 |
 
 Saint-Quentin-les-Anges |
 
-53800 |
+53253 |
 
 Saint-Saturnin-du-Limet |
 
-53160 |
+53256 |
 
 Saint-Thomas-de-Courceriers |
 
-53800 |
+53258 |
 
 La Selle-Craonnaise |
 
-53390 |
+53259 |
 
 Senonnes |
 
-53360 |
+53260 |
 
 Simplé |
 
-53210 |
+53262 |
 
 Soulgé-sur-Ouette |
 
-53110 |
+53263 |
 
 Thubœuf |
 
-53160 |
+53266 |
 
 Trans |
 
-53500 |
+53269 |
 
 Vautorte |
 
-53700 |
+53271 |
 
 Villaines-la-Juhel |
 
-53250 |
+53272 |
 
 Villepail |
 
-54115 |
+54003 |
 
 Aboncourt |
 
-54450 |
+54013 |
 
 Amenoncourt |
 
-54450 |
+54030 |
 
 Autrepierre |
 
-54385 |
+54034 |
 
 Avrainville |
 
-54450 |
+54035 |
 
 Avricourt |
 
-54450 |
+54044 |
 
 Barbas |
 
-54115 |
+54068 |
 
 Beuvezin |
 
-54450 |
+54078 |
 
 Blémerey |
 
-54290 |
+54098 |
 
 Brémoncourt |
 
-54450 |
+54107 |
 
 Buriville |
 
-54450 |
+54124 |
 
 Chazelles-sur-Albe |
 
-54930 |
+54140 |
 
 Courcelles |
 
-54110 |
+54159 |
 
 Dombasle-sur-Meurthe |
 
-54450 |
+54161 |
 
 Domèvre-sur-Vezouze |
 
-54450 |
+54163 |
 
 Domjevin |
 
-54290 |
+54170 |
 
 Domptail-en-l'Air |
 
-54360 |
+54175 |
 
 Einvaux |
 
-54115 |
+54190 |
 
 Fécocourt |
 
-54930 |
+54207 |
 
 Fraisnes-en-Saintois |
 
-54450 |
+54210 |
 
 Fréménil |
 
-54390 |
+54215 |
 
 Frouard |
 
-54450 |
+54230 |
 
 Gogney |
 
-54450 |
+54233 |
 
 Gondrexon |
 
-54115 |
+54237 |
 
 Grimonviller |
 
-54120 |
+54243 |
 
 Hablainville |
 
-54290 |
+54245 |
 
 Haigneville |
 
-54450 |
+54246 |
 
 Halloville |
 
-54450 |
+54251 |
 
 Harbouey |
 
-54180 |
+54257 |
 
 Heillecourt |
 
-54450 |
+54259 |
 
 Herbéviller |
 
-54450 |
+54271 |
 
 Igney |
 
-54740 |
+54299 |
 
 Laneuveville-devant-Bayon |
 
-54290 |
+54324 |
 
 Lorey |
 
-54290 |
+54344 |
 
 Mangonville |
 
-54360 |
+54359 |
 
 Méhoncourt |
 
-54540 |
+54368 |
 
 Mignéville |
 
-54450 |
+54381 |
 
 Montreux |
 
-54450 |
+54401 |
 
 Nonhigny |
 
-54450 |
+54406 |
 
 Ogéviller |
 
-54120 |
+54422 |
 
 Pettonville |
 
-54115 |
+54438 |
 
 Pulney |
 
-54425 |
+54439 |
 
 Pulnoy |
 
-54450 |
+54447 |
 
 Réclonville |
 
-54120 |
+54450 |
 
 Reherrey |
 
-54450 |
+54452 |
 
 Reillon |
 
-54450 |
+54458 |
 
 Repaix |
 
-54360 |
+54461 |
 
 Romain |
 
-54290 |
+54465 |
 
 Roville-devant-Bayon |
 
-54290 |
+54479 |
 
 Saint-Mard |
 
-54450 |
+54480 |
 
 Saint-Martin |
 
-54420 |
+54495 |
 
 Saulxures-lès-Nancy |
 
-54280 |
+54498 |
 
 Seichamps |
 
-54115 |
+54530 |
 
 Tramont-Lassus |
 
-54115 |
+54531 |
 
 Tramont-Saint-André |
 
-54115 |
+54545 |
 
 Vandeléville |
 
-54500 |
+54547 |
 
 Vandœuvre-lès-Nancy |
 
-54120 |
+54555 |
 
 Vaxainville |
 
-54450 |
+54556 |
 
 Vého |
 
-54450 |
+54562 |
 
 Verdenal |
 
-55800 |
+55011 |
 
 Andernay |
 
-55120 |
+55014 |
 
 Aubréville |
 
-55110 |
+55028 |
 
 Bantheville |
 
-55120 |
+55068 |
 
 Brabant-en-Argonne |
 
-55120 |
+55082 |
 
 Brocourt-en-Argonne |
 
-55120 |
+55116 |
 
 Le Claon |
 
-55120 |
+55117 |
 
 Clermont-en-Argonne |
 
-55800 |
+55125 |
 
 Contrisson |
 
-55270 |
+55137 |
 
 Cuisy |
 
-55110 |
+55140 |
 
 Cunel |
 
-55120 |
+55199 |
 
 Froidos |
 
-55120 |
+55202 |
 
 Futeau |
 
-55110 |
+55208 |
 
 Gesnes-en-Argonne |
 
-55120 |
+55260 |
 
 Julvécourt |
 
-55120 |
+55266 |
 
 Lachalade |
 
-55800 |
+55272 |
 
 Laimont |
 
-55270 |
+55346 |
 
 Montfaucon-d'Argonne |
 
-55270 |
+55375 |
 
 Nantillois |
 
-55800 |
+55378 |
 
 Nettancourt |
 
-55120 |
+55379 |
 
 Le Neufour |
 
-55800 |
+55382 |
 
 Neuville-sur-Ornain |
 
-55120 |
+55383 |
 
 Neuvilly-en-Argonne |
 
-55800 |
+55388 |
 
 Noyers-Auzécourt |
 
-55800 |
+55414 |
 
 Rancourt-sur-Ornain |
 
-55120 |
+55416 |
 
 Rarécourt |
 
-55120 |
+55419 |
 
 Récicourt |
 
-55800 |
+55424 |
 
 Remennecourt |
 
-55800 |
+55427 |
 
 Revigny-sur-Ornain |
 
-55110 |
+55438 |
 
 Romagne-sous-Montfaucon |
 
-55270 |
+55484 |
 
 Septsarges |
 
-55800 |
+55531 |
 
 Vassincourt |
 
-55800 |
+55560 |
 
 Villers-aux-Vents |
 
-56610 |
+56003 |
 
 Arradon |
 
-56130 |
+56030 |
 
 Camoël |
 
-56130 |
+56058 |
 
 Férel |
 
-56450 |
+56084 |
 
 Le Hézo |
 
-56780 |
+56087 |
 
 Île-aux-Moines |
 
-56840 |
+56088 |
 
 Île-d'Arz |
 
-56880 |
+56164 |
 
 Ploeren |
 
-56250 |
+56231 |
 
 Saint-Nolff |
 
-56860 |
+56243 |
 
 Séné |
 
-56250 |
+56247 |
 
 Sulniac |
 
-56450 |
+56251 |
 
 Theix-Noyalo |
 
-56250 |
+56255 |
 
 Treffléan |
 
-56190 |
+56259 |
 
 La Trinité-Surzur |
 
-57580 |
+57007 |
 
 Adaincourt |
 
-57170 |
+57018 |
 
 Amelécourt |
 
-57580 |
+57020 |
 
 Ancerville |
 
-57640 |
+57024 |
 
 Antilly |
 
-57380 |
+57027 |
 
 Arraincourt |
 
-57580 |
+57029 |
 
 Arriance |
 
-57590 |
+57045 |
 
 Bacourt |
 
-57220 |
+57048 |
 
 Bannay |
 
-57260 |
+57053 |
 
 Bassing |
 
-57580 |
+57054 |
 
 Baudrecourt |
 
-57530 |
+57055 |
 
 Bazoncourt |
 
-57580 |
+57057 |
 
 Béchy |
 
-57670 |
+57060 |
 
 Bénestroff |
 
-57260 |
+57081 |
 
 Bidestroff |
 
-57220 |
+57085 |
 
 Bionville-sur-Nied |
 
-57930 |
+57086 |
 
 Belles-Forêts |
 
-57260 |
+57090 |
 
 Blanche-Église |
 
-57260 |
+57098 |
 
 Bourgaltroff |
 
-57340 |
+57107 |
 
 Bréhain |
 
-57220 |
+57112 |
 
 Brouck |
 
-57565 |
+57113 |
 
 Brouderdorff |
 
-57340 |
+57115 |
 
 Brulange |
 
-57170 |
+57120 |
 
 Burlioncourt |
 
-57365 |
+57125 |
 
 Chailly-lès-Ennery |
 
-57580 |
+57127 |
 
 Chanville |
 
-57220 |
+57128 |
 
 Charleville-sous-Bois |
 
-57640 |
+57129 |
 
 Charly-Oradour |
 
-57340 |
+57130 |
 
 Château-Bréhain |
 
-57170 |
+57133 |
 
 Château-Voué |
 
-57580 |
+57138 |
 
 Chenois |
 
-57590 |
+57141 |
 
 Chicourt |
 
-57530 |
+57148 |
 
 Colligny-Maizery |
 
-57220 |
+57150 |
 
 Condé-Northen |
 
-57530 |
+57155 |
 
 Courcelles-Chaussy |
 
-57260 |
+57161 |
 
 Cutting |
 
-57340 |
+57166 |
 
 Dalhain |
 
-57220 |
+57172 |
 
 Denting |
 
-57400 |
+57180 |
 
 Dolving |
 
-57260 |
+57181 |
 
 Domnom-lès-Dieuze |
 
-57590 |
+57182 |
 
 Donjeux |
 
-57810 |
+57183 |
 
 Donnelay |
 
-57530 |
+57200 |
 
 Les Étangs |
 
-57580 |
+57220 |
 
 Flocourt |
 
-57590 |
+57225 |
 
 Fonteny |
 
-57670 |
+57232 |
 
 Francaltroff |
 
-57590 |
+57236 |
 
 Frémery |
 
-57260 |
+57246 |
 
 Gelucourt |
 
-57170 |
+57247 |
 
 Gerbécourt |
 
-57480 |
+57259 |
 
 Grindorff-Bizing |
 
-57260 |
+57266 |
 
 Guéblange-lès-Dieuze |
 
-57260 |
+57268 |
 
 Guébling |
 
-57260 |
+57270 |
 
 Val-de-Bride |
 
-57690 |
+57276 |
 
 Guinglange |
 
-57670 |
+57278 |
 
 Guinzeling |
 
-57170 |
+57290 |
 
 Hampont |
 
-57590 |
+57292 |
 
 Hannocourt |
 
-57580 |
+57293 |
 
 Han-sur-Nied |
 
-57630 |
+57295 |
 
 Haraucourt-sur-Seille |
 
-57400 |
+57304 |
 
 Haut-Clocher |
 
-57220 |
+57312 |
 
 Helstroff |
 
-57690 |
+57313 |
 
 Hémilly |
 
-57580 |
+57319 |
 
 Herny |
 
-57400 |
+57321 |
 
 Hesse |
 
-57510 |
+57325 |
 
 Hilsprich |
 
-57220 |
+57326 |
 
 Hinckange |
 
-57380 |
+57328 |
 
 Holacourt |
 
-57510 |
+57330 |
 
 Holving |
 
-57400 |
+57344 |
 
 Imling |
 
-57590 |
+57381 |
 
 Laneuveville-en-Saulnois |
 
-57400 |
+57382 |
 
 Langatte |
 
-57580 |
+57395 |
 
 Lesse |
 
-57340 |
+57401 |
 
 Lidrezing |
 
-57260 |
+57405 |
 
 Lindre-Haute |
 
-57670 |
+57417 |
 
 Lostroff |
 
-57670 |
+57418 |
 
 Loudrefing |
 
-57170 |
+57423 |
 
 Lubécourt |
 
-57590 |
+57424 |
 
 Lucy |
 
-57380 |
+57430 |
 
 Mainvillers |
 
-57530 |
+57431 |
 
 Maizeroy |
 
-57380 |
+57442 |
 
 Many |
 
-57670 |
+57446 |
 
 Marimont-lès-Bénestroff |
 
-57630 |
+57448 |
 
 Marsal |
 
-57530 |
+57449 |
 
 Marsilly |
 
-57670 |
+57470 |
 
 Molring |
 
-57220 |
+57471 |
 
 Momerstroff |
 
-57590 |
+57486 |
 
 Morville-sur-Nied |
 
-57630 |
+57490 |
 
 Moyenvic |
 
-57260 |
+57493 |
 
 Mulcey |
 
-57220 |
+57495 |
 
 Narbéfontaine |
 
-57670 |
+57496 |
 
 Nébing |
 
-57670 |
+57501 |
 
 Neufvillage |
 
-57565 |
+57505 |
 
 Niderviller |
 
-57220 |
+57507 |
 
 Niedervisse |
 
-57220 |
+57519 |
 
 Obervisse |
 
-57170 |
+57520 |
 
 Obreck |
 
-57590 |
+57525 |
 
 Oriocourt |
 
-57590 |
+57528 |
 
 Oron |
 
-57220 |
+57530 |
 
 Ottonville |
 
-57530 |
+57533 |
 
 Pange |
 
-57590 |
+57555 |
 
 Prévocourt |
 
-57170 |
+57558 |
 
 Puttigny |
 
-57510 |
+57571 |
 
 Rémering-lès-Puttelange |
 
-57510 |
+57581 |
 
 Richeling |
 
-57340 |
+57587 |
 
 Rodalbe |
 
-57260 |
+57595 |
 
 Rorbach-lès-Dieuze |
 
-57220 |
+57599 |
 
 Roupeldange |
 
-57580 |
+57609 |
 
 Saint-Epvre |
 
-57510 |
+57615 |
 
 Saint-Jean-Rohrbach |
 
-57260 |
+57621 |
 
 Saint-Médard |
 
-57530 |
+57627 |
 
 Sanry-sur-Nied |
 
-57400 |
+57629 |
 
 Sarraltroff |
 
-57400 |
+57637 |
 
 Schneckenbusch |
 
-57530 |
+57648 |
 
 Servigny-lès-Raville |
 
-57530 |
+57654 |
 
 Silly-sur-Nied |
 
-57170 |
+57657 |
 
 Sotzeling |
 
-57260 |
+57664 |
 
 Tarquimpol |
 
-57380 |
+57670 |
 
 Thicourt |
 
-57580 |
+57671 |
 
 Thimonville |
 
-57590 |
+57674 |
 
 Tincry |
 
-57670 |
+57685 |
 
 Vahl-lès-Bénestroff |
 
-57340 |
+57692 |
 
 Vannecourt |
 
-57220 |
+57695 |
 
 Varize-Vaudoncourt |
 
-57580 |
+57698 |
 
 Vatimont |
 
-57260 |
+57706 |
 
 Vergaville |
 
-57690 |
+57714 |
 
 Haute-Vigneulles |
 
-57530 |
+57718 |
 
 Villers-Stoncourt |
 
-57340 |
+57719 |
 
 Villers-sur-Nied |
 
-57580 |
+57726 |
 
 Vittoncourt |
 
-57590 |
+57727 |
 
 Viviers |
 
-57580 |
+57728 |
 
 Voimhaut |
 
-57170 |
+57753 |
 
 Wuisse |
 
-57260 |
+57763 |
 
 Zommange |
 
-58190 |
+58005 |
 
 Amazy |
 
-58160 |
+58072 |
 
 Chevenon |
 
-58220 |
+58077 |
 
 Ciez |
 
-58190 |
+58116 |
 
 Flez-Cuzy |
 
-58190 |
+58150 |
 
 Lys |
 
-58220 |
+58209 |
 
 Perroy |
 
-58200 |
+58213 |
 
 Pougny |
 
-58190 |
+58237 |
 
 Saint-Didier |
 
-58200 |
+58251 |
 
 Saint-Loup-des-Bois |
 
-58310 |
+58270 |
 
 Saint-Vérain |
 
-59268 |
+59001 |
 
 Abancourt |
 
-59144 |
+59006 |
 
 Amfroipret |
 
-59580 |
+59008 |
 
 Aniche |
 
-59493 |
+59009 |
 
 Villeneuve-d'Ascq |
 
-59151 |
+59015 |
 
 Arleux |
 
-59165 |
+59024 |
 
 Auberchicourt |
 
-59570 |
+59031 |
 
 Audignies |
 
-59129 |
+59037 |
 
 Avesnes-les-Aubert |
 
-59400 |
+59039 |
 
 Awoingt |
 
-59266 |
+59047 |
 
 Banteux |
 
-59554 |
+59048 |
 
 Bantigny |
 
-59570 |
+59053 |
 
 Bavay |
 
-59360 |
+59055 |
 
 Bazuel |
 
-59530 |
+59057 |
 
 Beaudignies |
 
-59540 |
+59059 |
 
 Beaumont-en-Cambrésis |
 
-59730 |
+59060 |
 
 Beaurain |
 
-59550 |
+59061 |
 
 Beaurepaire-sur-Sambre |
 
-59157 |
+59063 |
 
 Beauvois-en-Cambrésis |
 
-59570 |
+59065 |
 
 Bellignies |
 
-59570 |
+59070 |
 
 Bermeries |
 
-59980 |
+59074 |
 
 Bertry |
 
-59540 |
+59075 |
 
 Béthencourt |
 
-59570 |
+59077 |
 
 Bettrechies |
 
-59217 |
+59081 |
 
 Bévillers |
 
-59268 |
+59085 |
 
 Blécourt |
 
-59190 |
+59091 |
 
 Borre |
 
-59111 |
+59092 |
 
 Bouchain |
 
-59222 |
+59099 |
 
 Bousies |
 
-59217 |
+59102 |
 
 Boussières-en-Cambrésis |
 
-59870 |
+59105 |
 
 Bouvignies |
 
-59730 |
+59108 |
 
 Briastre |
 
-59490 |
+59113 |
 
 Bruille-lez-Marchiennes |
 
-59137 |
+59118 |
 
 Busigny |
 
-59213 |
+59127 |
 
 Capelle |
 
-59217 |
+59132 |
 
 Carnières |
 
-59244 |
+59134 |
 
 Cartignies |
 
-59360 |
+59136 |
 
 Le Cateau-Cambrésis |
 
-59360 |
+59137 |
 
 Catillon-sur-Sambre |
 
-59217 |
+59138 |
 
 Cattenières |
 
-59540 |
+59139 |
 
 Caudry |
 
-59191 |
+59140 |
 
 Caullery |
 
-59400 |
+59141 |
 
 Cauroir |
 
-59225 |
+59149 |
 
 Clary |
 
-59258 |
+59161 |
 
 Crèvecœur-sur-l'Escaut |
 
-59222 |
+59164 |
 
 Croix-Caluyau |
 
-59268 |
+59167 |
 
 Cuvillers |
 
-59176 |
+59185 |
 
 Écaillon |
 
-59127 |
+59191 |
 
 Élincourt |
 
-59580 |
+59192 |
 
 Émerchicourt |
 
-59530 |
+59194 |
 
 Englefontaine |
 
-59169 |
+59199 |
 
 Erchin |
 
-59171 |
+59203 |
 
 Erre |
 
-59400 |
+59213 |
 
 Estourmel |
 
-59295 |
+59219 |
 
 Estrun |
 
-59155 |
+59220 |
 
 Faches-Thumesnil |
 
-59550 |
+59223 |
 
 Le Favril |
 
-59179 |
+59227 |
 
 Fenain |
 
-59570 |
+59232 |
 
 La Flamengrie |
 
-59267 |
+59236 |
 
 Flesquières |
 
-59550 |
+59242 |
 
 Fontaine-au-Bois |
 
-59157 |
+59243 |
 
 Fontaine-au-Pire |
 
-59222 |
+59246 |
 
 Forest-en-Cambrésis |
 
-59530 |
+59251 |
 
 Frasnoy |
 
-59268 |
+59255 |
 
 Fressies |
 
-59144 |
+59265 |
 
 Gommegnies |
 
-59360 |
+59274 |
 
 La Groise |
 
-59570 |
+59277 |
 
 Gussignies |
 
-59151 |
+59280 |
 
 Hamel |
 
-59138 |
+59283 |
 
 Hargnies |
 
-59191 |
+59287 |
 
 Haucourt-en-Cambrésis |
 
-59294 |
+59289 |
 
 Haussy |
 
-59190 |
+59295 |
 
 Hazebrouck |
 
-59530 |
+59296 |
 
 Hecq |
 
-59247 |
+59300 |
 
 Hem-Lenglet |
 
-59190 |
+59308 |
 
 Hondeghem |
 
-59570 |
+59310 |
 
 Hon-Hergies |
 
-59980 |
+59311 |
 
 Honnechy |
 
-59266 |
+59312 |
 
 Honnecourt-sur-Escaut |
 
-59111 |
+59313 |
 
 Hordain |
 
-59171 |
+59314 |
 
 Hornaing |
 
-59570 |
+59315 |
 
 Houdain-lez-Bavay |
 
-59540 |
+59321 |
 
 Inchy |
 
-59144 |
+59323 |
 
 Jenlain |
 
-59167 |
+59327 |
 
 Lallaing |
 
-59550 |
+59331 |
 
 Landrecies |
 
-59259 |
+59336 |
 
 Lécluse |
 
-59111 |
+59348 |
 
 Lieu-Saint-Amand |
 
-59191 |
+59349 |
 
 Ligny-en-Cambrésis |
 
-59530 |
+59353 |
 
 Locquignol |
 
-59182 |
+59354 |
 
 Loffre |
 
-59570 |
+59357 |
 
 La Longueville |
 
-59530 |
+59363 |
 
 Louvignies-Quesnoy |
 
-59127 |
+59372 |
 
 Malincourt |
 
-59870 |
+59375 |
 
 Marchiennes |
 
-59159 |
+59377 |
 
 Marcoing |
 
-59238 |
+59382 |
 
 Maretz |
 
-59550 |
+59384 |
 
 Maroilles |
 
-59252 |
+59387 |
 
 Marquette-en-Ostrevant |
 
-59241 |
+59389 |
 
 Masnières |
 
-59176 |
+59390 |
 
 Masny |
 
-59172 |
+59391 |
 
 Mastaing |
 
-59980 |
+59394 |
 
 Maurois |
 
-59360 |
+59395 |
 
 Mazinghien |
 
-59570 |
+59396 |
 
 Mecquignies |
 
-59234 |
+59409 |
 
 Monchecourt |
 
-59370 |
+59410 |
 
 Mons-en-Barœul |
 
-59360 |
+59412 |
 
 Montay |
 
-59225 |
+59413 |
 
 Montigny-en-Cambrésis |
 
-59182 |
+59414 |
 
 Montigny-en-Ostrevent |
 
-59227 |
+59415 |
 
 Montrécourt |
 
-59190 |
+59416 |
 
 Morbecque |
 
-59218 |
+59425 |
 
 Neuville-en-Avesnois |
 
-59293 |
+59429 |
 
 Neuville-sur-Escaut |
 
-59360 |
+59430 |
 
 Neuvilly |
 
-59400 |
+59432 |
 
 Niergnies |
 
-59159 |
+59438 |
 
 Noyelles-sur-Escaut |
 
-59570 |
+59441 |
 
 Obies |
 
-59360 |
+59450 |
 
 Ors |
 
-59162 |
+59452 |
 
 Ostricourt |
 
-59295 |
+59455 |
 
 Paillencourt |
 
-59146 |
+59456 |
 
 Pecquencourt |
 
-59218 |
+59464 |
 
 Poix-du-Nord |
 
-59360 |
+59465 |
 
 Pommereuil |
 
-59190 |
+59469 |
 
 Pradelles |
 
-59288 |
+59472 |
 
 Preux-au-Bois |
 
-59144 |
+59473 |
 
 Preux-au-Sart |
 
-59550 |
+59474 |
 
 Prisches |
 
-59185 |
+59477 |
 
 Provin |
 
-59530 |
+59494 |
 
 Raucourt-au-Bois |
 
-59360 |
+59496 |
 
 Rejet-de-Beaulieu |
 
-59980 |
+59498 |
 
 Reumont |
 
-59159 |
+59500 |
 
 Ribécourt-la-Tour |
 
-59870 |
+59501 |
 
 Rieulay |
 
-59277 |
+59502 |
 
 Rieux-en-Cambrésis |
 
-59550 |
+59503 |
 
 Robersart |
 
-59730 |
+59506 |
 
 Romeries |
 
-59258 |
+59517 |
 
 Les Rues-des-Vignes |
 
-59281 |
+59520 |
 
 Rumilly-en-Cambrésis |
 
-59188 |
+59528 |
 
 Saint-Aubert |
 
-59360 |
+59531 |
 
 Saint-Benin |
 
-59292 |
+59533 |
 
 Saint-Hilaire-lez-Cambrai |
 
-59670 |
+59536 |
 
 Sainte-Marie-Cappel |
 
-59730 |
+59541 |
 
 Saint-Python |
 
-59360 |
+59545 |
 
 Saint-Souplet |
 
-59188 |
+59547 |
 
 Saint-Vaast-en-Cambrésis |
 
-59570 |
+59548 |
 
 Saint-Waast |
 
-59218 |
+59549 |
 
 Salesches |
 
-59227 |
+59558 |
 
 Saulzoir |
 
-59400 |
+59567 |
 
 Séranvillers-Forenville |
 
-59730 |
+59571 |
 
 Solesmes |
 
-59490 |
+59574 |
 
 Somain |
 
-59270 |
+59582 |
 
 Strazeele |
 
-59570 |
+59584 |
 
 Taisnières-sur-Hon |
 
-59141 |
+59593 |
 
 Thun-l'Évêque |
 
-59980 |
+59604 |
 
 Troisvilles |
 
-59218 |
+59607 |
 
 Vendegies-au-Bois |
 
-59730 |
+59612 |
 
 Vertain |
 
-59271 |
+59614 |
 
 Viesly |
 
-59188 |
+59622 |
 
 Villers-en-Cauchies |
 
-59142 |
+59624 |
 
 Villers-Outréaux |
 
-59870 |
+59629 |
 
 Vred |
 
-59127 |
+59631 |
 
 Walincourt-Selvigny |
 
-59190 |
+59634 |
 
 Wallon-Cappel |
 
-59400 |
+59635 |
 
 Wambaix |
 
-59870 |
+59637 |
 
 Wandignies-Hamage |
 
-59144 |
+59640 |
 
 Wargnies-le-Petit |
 
-59870 |
+59642 |
 
 Warlaing |
 
-59252 |
+59645 |
 
 Wasnes-au-Bac |
 
-59139 |
+59648 |
 
 Wattignies |
 
-59111 |
+59652 |
 
 Wavrechain-sous-Faulx |
 
-60170 |
+60119 |
 
 Cambronne-lès-Ribécourt |
 
-60150 |
+60147 |
 
 Chevincourt |
 
-60280 |
+60156 |
 
 Clairoix |
 
-60150 |
+60323 |
 
 Janville |
 
-60150 |
+60368 |
 
 Longueil-Annel |
 
-60150 |
+60373 |
 
 Machemont |
 
-60490 |
+60378 |
 
 Marest-sur-Matz |
 
-60150 |
+60392 |
 
 Mélicocq |
 
-60150 |
+60423 |
 
 Montmacq |
 
-60150 |
+60501 |
 
 Le Plessis-Brion |
 
-60150 |
+60636 |
 
 Thourotte |
 
-60150 |
+60689 |
 
 Villers-sur-Coudun |
 
-61200 |
+61006 |
 
 Argentan |
 
-61200 |
+61014 |
 
 Aunou-le-Faucon |
 
-61300 |
+61092 |
 
 Chandai |
 
-61200 |
+61212 |
 
 Juvigny-sur-Orne |
 
-61300 |
+61214 |
 
 L'Aigle |
 
-61270 |
+61342 |
 
 Rai |
 
-61200 |
+61358 |
 
 Sai |
 
-61570 |
+61375 |
 
 Boischampré |
 
-61300 |
+61423 |
 
 Saint-Martin-d'Écublei |
 
-61300 |
+61432 |
 
 Saint-Michel-Tubœuf |
 
-61300 |
+61440 |
 
 Saint-Ouen-sur-Iton |
 
-61300 |
+61456 |
 
 Saint-Sulpice-sur-Risle |
 
-61200 |
+61462 |
 
 Sarceaux |
 
-61200 |
+61472 |
 
 Sévigny |
 
-61300 |
+61510 |
 
 Vitrai-sous-Laigle |
 
-62143 |
+62032 |
 
 Angres |
 
-62149 |
+62034 |
 
 Annequin |
 
-62138 |
+62051 |
 
 Auchy-les-Mines |
 
-62620 |
+62083 |
 
 Barlin |
 
-62156 |
+62145 |
 
 Boiry-Notre-Dame |
 
-62200 |
+62160 |
 
 Boulogne-sur-Mer |
 
-62149 |
+62200 |
 
 Cambrin |
 
-62149 |
+62262 |
 
 Cuinchy |
 
-62138 |
+62276 |
 
 Douvrin |
 
-62156 |
+62319 |
 
 Éterpigny |
 
-62118 |
+62323 |
 
 Fampoux |
 
-62149 |
+62373 |
 
 Givenchy-lès-la-Bassée |
 
-62128 |
+62392 |
 
 Guémappe |
 
-62138 |
+62401 |
 
 Haisnes |
 
-62156 |
+62414 |
 
 Haucourt |
 
-62182 |
+62424 |
 
 Hendecourt-lès-Cagnicourt |
 
-62620 |
+62456 |
 
 Houchin |
 
-62840 |
+62529 |
 
 Lorgies |
 
-62118 |
+62582 |
 
 Monchy-le-Preux |
 
-62980 |
+62626 |
 
 Noyelles-lès-Vermelles |
 
-62118 |
+62650 |
 
 Pelves |
 
-62480 |
+62667 |
 
 Le Portel |
 
-62156 |
+62703 |
 
 Rémy |
 
-62113 |
+62735 |
 
 Sailly-Labourse |
 
-62980 |
+62846 |
 
 Vermelles |
 
-62138 |
+62863 |
 
 Violaines |
 
-62156 |
+62864 |
 
 Vis-en-Artois |
 
-63220 |
+63010 |
 
 Arlanc |
 
-63970 |
+63026 |
 
 Aydat |
 
-63570 |
+63031 |
 
 Beaulieu |
 
-63570 |
+63050 |
 
 Brassac-les-Mines |
 
-63450 |
+63084 |
 
 Chanonat |
 
-63320 |
+63109 |
 
 Chidrac |
 
-63730 |
+63120 |
 
 Corent |
 
-63450 |
+63126 |
 
 Le Crest |
 
-63980 |
+63162 |
 
 Fournols |
 
-63340 |
+63166 |
 
 Gignat |
 
-63570 |
+63182 |
 
 Jumeaux |
 
-63270 |
+63188 |
 
 Laps |
 
-63940 |
+63211 |
 
 Marsac-en-Livradois |
 
-63730 |
+63227 |
 
 Mirefleurs |
 
-63114 |
+63241 |
 
 Montpeyroux |
 
-63320 |
+63250 |
 
 Neschers |
 
-63670 |
+63262 |
 
 Orcet |
 
-63670 |
+63302 |
 
 La Roche-Blanche |
 
-63630 |
+63353 |
 
 Saint-Germain-l'Herm |
 
-63270 |
+63378 |
 
 Saint-Maurice |
 
-63450 |
+63395 |
 
 Saint-Sandoux |
 
-63450 |
+63425 |
 
 Tallende |
 
-63960 |
+63455 |
 
 Veyre-Monton |
 
-64390 |
+64004 |
 
 Abitain |
 
-64400 |
+64007 |
 
 Agnos |
 
-64220 |
+64011 |
 
 Aincille |
 
-64320 |
+64041 |
 
 Aressy |
 
-64390 |
+64071 |
 
 Athos-Aspis |
 
-64230 |
+64080 |
 
 Aussevielle |
 
-64390 |
+64083 |
 
 Autevielle-Saint-Martin-Bideren |
 
-64190 |
+64099 |
 
 Bastanès |
 
-64270 |
+64113 |
 
 Bergouey-Viellenave |
 
-64800 |
+64119 |
 
 Beuste |
 
-64230 |
+64121 |
 
 Beyrie-en-Béarn |
 
-64140 |
+64129 |
 
 Billère |
 
-64800 |
+64137 |
 
 Bordères |
 
-64230 |
+64142 |
 
 Bougarber |
 
-64230 |
+64198 |
 
 Denguin |
 
-64400 |
+64220 |
 
 Estos |
 
-64120 |
+64265 |
 
 Hosta |
 
-64190 |
+64281 |
 
 Jasses |
 
-64220 |
+64283 |
 
 Jaxu |
 
-64400 |
+64328 |
 
 Ledeuix |
 
-64320 |
+64329 |
 
 Lée |
 
-64230 |
+64335 |
 
 Lescar |
 
-64140 |
+64348 |
 
 Lons |
 
-64300 |
+64367 |
 
 Maslacq |
 
-64121 |
+64399 |
 
 Montardon |
 
-64470 |
+64404 |
 
 Montory |
 
-64450 |
+64415 |
 
 Navailles-Angos |
 
-64120 |
+64429 |
 
 Orsanco |
 
-64800 |
+64444 |
 
 Pardies-Piétat |
 
-64230 |
+64448 |
 
 Poey-de-Lescar |
 
-64400 |
+64460 |
 
 Précilhon |
 
-64800 |
+64469 |
 
 Saint-Abit |
 
-64120 |
+64487 |
 
 Saint-Just-Ibarre |
 
-64300 |
+64505 |
 
 Sarpourenx |
 
-64230 |
+64511 |
 
 Sauvagnon |
 
-64320 |
+64518 |
 
 Sendets |
 
-64230 |
+64525 |
 
 Siros |
 
-64780 |
+64528 |
 
 Suhescun |
 
-64150 |
+64556 |
 
 Vielleségure |
 
-64450 |
+64560 |
 
 Viven |
 
-65400 |
+65004 |
 
 Agos-Vidalos |
 
-65360 |
+65005 |
 
 Allier |
 
-65390 |
+65007 |
 
 Andrest |
 
-65200 |
+65016 |
 
 Antist |
 
-65400 |
+65021 |
 
 Arcizans-Avant |
 
-65200 |
+65042 |
 
 Asté |
 
-65350 |
+65044 |
 
 Aubarède |
 
-65390 |
+65048 |
 
 Aurensan |
 
-65690 |
+65062 |
 
 Barbazan-Debat |
 
-65100 |
+65070 |
 
 Bartrès |
 
-65460 |
+65072 |
 
 Bazet |
 
-65140 |
+65073 |
 
 Bazillac |
 
-65710 |
+65078 |
 
 Beaudéan |
 
-65130 |
+65081 |
 
 Benqué-Molère |
 
-65360 |
+65083 |
 
 Bernac-Debat |
 
-65130 |
+65096 |
 
 Bonnemazon |
 
-65330 |
+65097 |
 
 Bonrepos |
 
-65350 |
+65103 |
 
 Bouilh-Péreuilh |
 
-65460 |
+65108 |
 
 Bours |
 
-65350 |
+65115 |
 
 Cabanac |
 
-65190 |
+65118 |
 
 Caharet |
 
-65330 |
+65128 |
 
 Castelbajac |
 
-65350 |
+65131 |
 
 Castelvieilh |
 
-65350 |
+65133 |
 
 Castéra-Lou |
 
-65350 |
+65142 |
 
 Chelle-Debat |
 
-65200 |
+65147 |
 
 Cieutat |
 
-65350 |
+65151 |
 
 Collongues |
 
-65350 |
+65156 |
 
 Dours |
 
-65330 |
+65183 |
 
 Galan |
 
-65320 |
+65189 |
 
 Gayan |
 
-65150 |
+65194 |
 
 Générest |
 
-65140 |
+65196 |
 
 Gensac |
 
-65380 |
+65220 |
 
 Hibarette |
 
-65310 |
+65223 |
 
 Horgues |
 
-65330 |
+65224 |
 
 Houeydets |
 
-65350 |
+65225 |
 
 Hourc |
 
-65290 |
+65235 |
 
 Juillan |
 
-65700 |
+65243 |
 
 Lafitole |
 
-65320 |
+65244 |
 
 Lagarde |
 
-65700 |
+65248 |
 
 Lahitte-Toupière |
 
-65310 |
+65251 |
 
 Laloubère |
 
-65400 |
+65267 |
 
 Lau-Balagnas |
 
-65350 |
+65276 |
 
 Lizos |
 
-65350 |
+65285 |
 
 Louit |
 
-65100 |
+65291 |
 
 Lugagnan |
 
-65350 |
+65298 |
 
 Marquerie |
 
-65350 |
+65301 |
 
 Marseillan |
 
-65360 |
+65313 |
 
 Momères |
 
-65350 |
+65326 |
 
 Mun |
 
-65500 |
+65330 |
 
 Nouilhan |
 
-65200 |
+65335 |
 
 Ordizan |
 
-65800 |
+65340 |
 
 Orleix |
 
-65490 |
+65350 |
 
 Oursbelille |
 
-65270 |
+65360 |
 
 Peyrouse |
 
-65100 |
+65366 |
 
 Poueyferré |
 
-65350 |
+65369 |
 
 Pouyastruc |
 
-65500 |
+65372 |
 
 Pujo |
 
-65350 |
+65380 |
 
 Sabalos |
 
-65330 |
+65381 |
 
 Sabarros |
 
-65360 |
+65392 |
 
 Saint-Martin |
 
-65500 |
+65403 |
 
 Sanous |
 
-65600 |
+65410 |
 
 Sarrouilles |
 
-65700 |
+65429 |
 
 Sombrun |
 
-65430 |
+65433 |
 
 Soues |
 
-65130 |
+65445 |
 
 Tilhouse |
 
-65150 |
+65455 |
 
 Tuzaguet |
 
-65700 |
+65462 |
 
 Vidouze |
 
-65360 |
+65464 |
 
 Vielle-Adour |
 
-65100 |
+65470 |
 
 Viger |
 
-65150 |
+65482 |
 
 Cantaous |
 
-66820 |
+66043 |
 
 Casteil |
 
-66500 |
+66045 |
 
 Catllar |
 
-66500 |
+66051 |
 
 Clara-Villerach |
 
-66500 |
+66052 |
 
 Codalet |
 
-66820 |
+66057 |
 
 Corneilla-de-Conflent |
 
-66820 |
+66078 |
 
 Fillols |
 
-66600 |
+66138 |
 
 Peyrestortes |
 
-66210 |
+66142 |
 
 Planès |
 
-66720 |
+66143 |
 
 Planèzes |
 
-66450 |
+66144 |
 
 Pollestres |
 
-66240 |
+66172 |
 
 Saint-Estève |
 
-66510 |
+66176 |
 
 Saint-Hippolyte |
 
-66490 |
+66178 |
 
 Saint-Jean-Pla-de-Corts |
 
-66470 |
+66182 |
 
 Sainte-Marie-la-Mer |
 
-66500 |
+66204 |
 
 Taurinya |
 
-66500 |
+66223 |
 
 Villefranche-de-Conflent |
 
-67260 |
+67009 |
 
 Altwiller |
 
-67310 |
+67030 |
 
 Bergbieten |
 
-67800 |
+67043 |
 
 Bischheim |
 
-67260 |
+67047 |
 
 Bissert |
 
-67113 |
+67049 |
 
 Blaesheim |
 
-67160 |
+67074 |
 
 Cleebourg |
 
-67510 |
+67075 |
 
 Climbach |
 
-67770 |
+67082 |
 
 Dalhunden |
 
-67310 |
+67085 |
 
 Dangolsheim |
 
-67201 |
+67118 |
 
 Eckbolsheim |
 
-67550 |
+67119 |
 
 Eckwersheim |
 
-67960 |
+67124 |
 
 Entzheim |
 
-67114 |
+67131 |
 
 Eschau |
 
-67640 |
+67137 |
 
 Fegersheim |
 
-67118 |
+67152 |
 
 Geispolsheim |
 
-67260 |
+67183 |
 
 Harskirchen |
 
-67260 |
+67199 |
 
 Hinsingen |
 
-67800 |
+67204 |
 
 Hœnheim |
 
-67810 |
+67212 |
 
 Holtzheim |
 
-67270 |
+67215 |
 
 Huttendorf |
 
-67400 |
+67218 |
 
 Illkirch-Graffenstaden |
 
-67450 |
+67256 |
 
 Lampertheim |
 
-67630 |
+67261 |
 
 Lauterbourg |
 
-67340 |
+67265 |
 
 Lichtenberg |
 
-67380 |
+67267 |
 
 Lingolsheim |
 
-67640 |
+67268 |
 
 Lipsheim |
 
-67206 |
+67296 |
 
 Mittelhausbergen |
 
-67450 |
+67309 |
 
 Mundolsheim |
 
-67130 |
+67314 |
 
 Natzwiller |
 
-67630 |
+67315 |
 
 Neewiller-près-Lauterbourg |
 
-67130 |
+67321 |
 
 Neuviller-la-Roche |
 
-67207 |
+67326 |
 
 Niederhausbergen |
 
-67630 |
+67327 |
 
 Niederlauterbach |
 
-67510 |
+67334 |
 
 Niedersteinbach |
 
-67205 |
+67343 |
 
 Oberhausbergen |
 
-67160 |
+67346 |
 
 Oberlauterbach |
 
-67330 |
+67347 |
 
 Obermodern-Zutzendorf |
 
-67203 |
+67350 |
 
 Oberschaeffolsheim |
 
-67510 |
+67353 |
 
 Obersteinbach |
 
-67540 |
+67365 |
 
 Ostwald |
 
-67115 |
+67378 |
 
 Plobsheim |
 
-67140 |
+67387 |
 
 Reichsfeld |
 
-67116 |
+67389 |
 
 Reichstett |
 
-67440 |
+67391 |
 
 Reinhardsmunster |
 
-67340 |
+67392 |
 
 Reipertswiller |
 
-67390 |
+67398 |
 
 Richtolsheim |
 
-67290 |
+67413 |
 
 Rosteig |
 
-67160 |
+67416 |
 
 Rott |
 
-67390 |
+67422 |
 
 Saasenheim |
 
-67350 |
+67441 |
 
 Schalkendorf |
 
-67630 |
+67443 |
 
 Scheibenhard |
 
-67300 |
+67447 |
 
 Schiltigheim |
 
-67160 |
+67451 |
 
 Schleithal |
 
-67390 |
+67453 |
 
 Schœnau |
 
-67460 |
+67471 |
 
 Souffelweyersheim |
 
-67220 |
+67477 |
 
 Steige |
 
-67920 |
+67486 |
 
 Sundhouse |
 
-67440 |
+67489 |
 
 Thal-Marmoutier |
 
-67150 |
+67501 |
 
 Uttenheim |
 
-67550 |
+67506 |
 
 Vendenheim |
 
-67610 |
+67519 |
 
 La Wantzenau |
 
-67130 |
+67531 |
 
 Wildersbach |
 
-67290 |
+67535 |
 
 Wimmenau |
 
-67470 |
+67541 |
 
 Wintzenbach |
 
-67820 |
+67547 |
 
 Wittisheim |
 
-67202 |
+67551 |
 
 Wolfisheim |
 
-68600 |
+68001 |
 
 Algolsheim |
 
-68210 |
+68006 |
 
 Bernwiller |
 
-68280 |
+68008 |
 
 Appenwihr |
 
-68320 |
+68019 |
 
 Baltzenheim |
 
-68480 |
+68034 |
 
 Bettlach |
 
-68480 |
+68035 |
 
 Biederthal |
 
-68600 |
+68036 |
 
 Biesheim |
 
-68740 |
+68041 |
 
 Blodelsheim |
 
-68210 |
+68057 |
 
 Buethwiller |
 
-68720 |
+68081 |
 
 Saint-Bernard |
 
-68480 |
+68092 |
 
 Fislis |
 
-68210 |
+68100 |
 
 Fulleren |
 
-68600 |
+68104 |
 
 Geiswasser |
 
-68210 |
+68119 |
 
 Hagenbach |
 
-68740 |
+68140 |
 
 Hirtzfelden |
 
-68480 |
+68165 |
 
 Kiffis |
 
-68480 |
+68169 |
 
 Kœstlach |
 
-68320 |
+68172 |
 
 Kunheim |
 
-68480 |
+68187 |
 
 Linsdorf |
 
-68480 |
+68194 |
 
 Lutter |
 
-68640 |
+68221 |
 
 Muespach |
 
-68740 |
+68225 |
 
 Munchhouse |
 
-68600 |
+68231 |
 
 Neuf-Brisach |
 
-68600 |
+68246 |
 
 Obersaasheim |
 
-68480 |
+68248 |
 
 Oltingue |
 
-68480 |
+68259 |
 
 Raedersdorf |
 
-68740 |
+68281 |
 
 Roggenhouse |
 
-68128 |
+68286 |
 
 Rosenau |
 
-68720 |
+68320 |
 
 Spechbach |
 
-68600 |
+68351 |
 
 Vogelgrun |
 
-68600 |
+68352 |
 
 Volgelsheim |
 
-68600 |
+68360 |
 
 Weckolsheim |
 
-68480 |
+68363 |
 
 Werentzhouse |
 
-68320 |
+68367 |
 
 Widensolen |
 
-68600 |
+68379 |
 
 Wolfgantzen |
 
-68480 |
+68380 |
 
 Wolschwiller |
 
-69400 |
+69013 |
 
 Arnas |
 
-69500 |
+69029 |
 
 Bron |
 
-69220 |
+69065 |
 
 Corcelles-en-Beaujolais |
 
-69220 |
+69108 |
 
 Lancié |
 
-69680 |
+69271 |
 
 Chassieu |
 
-69740 |
+69277 |
 
 Genas |
 
-69003 |
+69383 |
 
 Lyon 3e Arrondissement |
 
-69006 |
+69386 |
 
 Lyon 6e Arrondissement |
 
-70110 |
+70005 |
 
 Aillevans |
 
-70100 |
+70018 |
 
 Ancier |
 
-70000 |
+70019 |
 
 Andelarre |
 
-70000 |
+70020 |
 
 Andelarrot |
 
-70100 |
+70054 |
 
 Battrans |
 
-70190 |
+70084 |
 
 Boulot |
 
-70000 |
+70166 |
 
 Comberjon |
 
-70000 |
+70179 |
 
 Coulevon |
 
-70210 |
+70200 |
 
 Dampvalley-Saint-Pancras |
 
-70800 |
+70238 |
 
 Fleurey-lès-Saint-Loup |
 
-70000 |
+70261 |
 
 Frotey-lès-Vesoul |
 
-70700 |
+70268 |
 
 Gézier-et-Fontenelay |
 
-70110 |
+70307 |
 
 Longevelle |
 
-70000 |
+70358 |
 
 Montcey |
 
-70100 |
+70371 |
 
 Montureux-et-Prantigny |
 
-70150 |
+70410 |
 
 Pin |
 
-70360 |
+70417 |
 
 Pontcey |
 
-70190 |
+70493 |
 
 Sorans-lès-Breurey |
 
-70190 |
+70503 |
 
 Traitiéfontaine |
 
-70000 |
+70513 |
 
 Vaivre-et-Montoille |
 
-70180 |
+70546 |
 
 Vereux |
 
-70000 |
+70559 |
 
 Villeparois |
 
-70150 |
+70578 |
 
 Vregille |
 
-71510 |
+71005 |
 
 Aluze |
 
-71240 |
+71026 |
 
 Beaumont-sur-Grosne |
 
-71350 |
+71043 |
 
 Les Bordes |
 
-71460 |
+71058 |
 
 Bresse-sur-Grosne |
 
-71510 |
+71078 |
 
 Chamilly |
 
-71700 |
+71094 |
 
 La Chapelle-sous-Brancion |
 
-71700 |
+71100 |
 
 Chardonnay |
 
-71350 |
+71104 |
 
 Charnay-lès-Chalon |
 
-71460 |
+71130 |
 
 Chissey-lès-Mâcon |
 
-71800 |
+71160 |
 
 Curbigny |
 
-71360 |
+71188 |
 
 Épertully |
 
-71700 |
+71195 |
 
 Farges-lès-Mâcon |
 
-71240 |
+71219 |
 
 Gigny-sur-Saône |
 
-71700 |
+71226 |
 
 Grevilly |
 
-71250 |
+71264 |
 
 Lournand |
 
-71700 |
+71284 |
 
 Martailly-lès-Brancion |
 
-71250 |
+71287 |
 
 Massilly |
 
-71270 |
+71315 |
 
 Mont-lès-Seurre |
 
-71510 |
+71347 |
 
 Perreuil |
 
-71270 |
+71355 |
 
 Pontoux |
 
-71140 |
+71389 |
 
 Saint-Aubin-sur-Loire |
 
-71490 |
+71409 |
 
 Saint-Émiland |
 
-71260 |
+71416 |
 
 Saint-Gengoux-de-Scissé |
 
-71350 |
+71504 |
 
 Saunières |
 
-71350 |
+71517 |
 
 Sermesse |
 
-71250 |
+71521 |
 
 Sigy-le-Châtel |
 
-71250 |
+71532 |
 
 Taizé |
 
-71350 |
+71544 |
 
 Toutenant |
 
-71270 |
+71578 |
 
 Clux-Villeneuve |
 
-72540 |
+72004 |
 
 Amné |
 
-72540 |
+72017 |
 
 Auvers-sous-Montfaucon |
 
-72350 |
+72019 |
 
 Avessé |
 
-72290 |
+72023 |
 
 Ballon-Saint Mars |
 
-72650 |
+72024 |
 
 La Bazoge |
 
-72550 |
+72045 |
 
 Brains-sur-Gée |
 
-72350 |
+72050 |
 
 Brûlon |
 
-72430 |
+72059 |
 
 Chantenay-Villedieu |
 
-72540 |
+72070 |
 
 Chassillé |
 
-72540 |
+72074 |
 
 Chemiré-en-Charnie |
 
-72350 |
+72083 |
 
 Chevillé |
 
-72550 |
+72096 |
 
 Coulans-sur-Gée |
 
-72290 |
+72099 |
 
 Courcebœufs |
 
-72540 |
+72107 |
 
 Crannes-en-Champagne |
 
-72540 |
+72126 |
 
 Épineu-le-Chevreuil |
 
-72350 |
+72136 |
 
 Fontenay-sur-Vègre |
 
-72380 |
+72147 |
 
 La Guierche |
 
-72540 |
+72149 |
 
 Joué-en-Charnie |
 
-72380 |
+72150 |
 
 Joué-l'Abbé |
 
-72540 |
+72166 |
 
 Longnes |
 
-72540 |
+72168 |
 
 Loué |
 
-72210 |
+72177 |
 
 Maigné |
 
-72540 |
+72184 |
 
 Mareil-en-Champagne |
 
-72380 |
+72205 |
 
 Montbizot |
 
-72190 |
+72217 |
 
 Neuville-sur-Sarthe |
 
-72430 |
+72223 |
 
 Noyen-sur-Sarthe |
 
-72430 |
+72237 |
 
 Pirmil |
 
-72350 |
+72239 |
 
 Poillé-sur-Vègre |
 
-72540 |
+72274 |
 
 Saint-Christophe-en-Champagne |
 
-72350 |
+72278 |
 
 Saint-Denis-d'Orques |
 
-72380 |
+72289 |
 
 Sainte-Jamme-sur-Sarthe |
 
-72380 |
+72290 |
 
 Saint-Jean-d'Assé |
 
-72350 |
+72307 |
 
 Saint-Ouen-en-Champagne |
 
-72190 |
+72310 |
 
 Saint-Pavace |
 
-72430 |
+72312 |
 
 Saint-Pierre-des-Bois |
 
-72380 |
+72338 |
 
 Souillé |
 
-72290 |
+72340 |
 
 Souligné-sous-Ballon |
 
-72430 |
+72347 |
 
 Tassé |
 
-72540 |
+72348 |
 
 Tassillé |
 
-72290 |
+72349 |
 
 Teillé |
 
-72540 |
+72367 |
 
 Vallon-sur-Gée |
 
-72350 |
+72379 |
 
 Viré-en-Champagne |
 
-73000 |
+73031 |
 
 Bassens |
 
-73190 |
+73064 |
 
 Challes-les-Eaux |
 
-73600 |
+73131 |
 
 Hautecour |
 
-73000 |
+73137 |
 
 Jacob-Bellecombette |
 
-74210 |
+74072 |
 
 Chevaline |
 
-74350 |
+74098 |
 
 Cuvat |
 
-76920 |
+76005 |
 
 Amfreville-la-Mi-Voie |
 
-76520 |
+76039 |
 
 Les Authieux-sur-le-Port-Saint-Ouen |
 
-76240 |
+76069 |
 
 Belbeuf |
 
-76240 |
+76103 |
 
 Bonsecours |
 
-76380 |
+76157 |
 
 Canteleu |
 
-76520 |
+76313 |
 
 Gouy |
 
-76113 |
+76350 |
 
 Hautot-sur-Seine |
 
-76240 |
+76429 |
 
 Le Mesnil-Esnard |
 
-76520 |
+76475 |
 
 Franqueville-Saint-Pierre |
 
-76113 |
+76550 |
 
 Sahurs |
 
-76520 |
+76558 |
 
 Saint-Aubin-Celloville |
 
-76800 |
+76575 |
 
 Saint-Étienne-du-Rouvray |
 
-76300 |
+76681 |
 
 Sotteville-lès-Rouen |
 
-76380 |
+76717 |
 
 Val-de-la-Haye |
 
-77910 |
+77023 |
 
 Barcy |
 
-77350 |
+77038 |
 
 Boissettes |
 
-77350 |
+77039 |
 
 Boissise-la-Bertrand |
 
-77310 |
+77040 |
 
 Boissise-le-Roi |
 
-77470 |
+77049 |
 
 Boutigny |
 
-77910 |
+77077 |
 
 Chambry |
 
-77181 |
+77139 |
 
 Courtry |
 
-77124 |
+77143 |
 
 Crégy-lès-Meaux |
 
-77190 |
+77152 |
 
 Dammarie-les-Lys |
 
-77184 |
+77169 |
 
 Émerainville |
 
-77470 |
+77199 |
 
 Fublaines |
 
-77910 |
+77203 |
 
 Germigny-l'Évêque |
 
-77450 |
+77232 |
 
 Isles-lès-Villenoy |
 
-77000 |
+77255 |
 
 Livry-sur-Seine |
 
-77100 |
+77276 |
 
 Mareuil-lès-Meaux |
 
-77100 |
+77284 |
 
 Meaux |
 
-77350 |
+77285 |
 
 Le Mée-sur-Seine |
 
-77000 |
+77288 |
 
 Melun |
 
-77470 |
+77300 |
 
 Montceaux-lès-Meaux |
 
-77100 |
+77330 |
 
 Nanteuil-lès-Meaux |
 
-77124 |
+77335 |
 
 Chauconin-Neufmontiers |
 
-77186 |
+77337 |
 
 Noisiel |
 
-77124 |
+77358 |
 
 Penchard |
 
-77470 |
+77369 |
 
 Poincy |
 
-77340 |
+77373 |
 
 Pontault-Combault |
 
-77860 |
+77382 |
 
 Quincy-Voisins |
 
-77000 |
+77389 |
 
 La Rochette |
 
-77680 |
+77390 |
 
 Roissy-en-Brie |
 
-77950 |
+77394 |
 
 Rubelles |
 
-77470 |
+77408 |
 
 Saint-Fiacre |
 
-77950 |
+77410 |
 
 Saint-Germain-Laxis |
 
-77470 |
+77475 |
 
 Trilport |
 
-77360 |
+77479 |
 
 Vaires-sur-Marne |
 
-77910 |
+77483 |
 
 Varreddes |
 
-77000 |
+77487 |
 
 Vaux-le-Pénil |
 
-77470 |
+77505 |
 
 Villemareuil |
 
-77124 |
+77513 |
 
 Villenoy |
 
-77950 |
+77528 |
 
 Voisenon |
 
-78770 |
+78034 |
 
 Auteuil |
 
-78770 |
+78036 |
 
 Autouillet |
 
-78490 |
+78050 |
 
 Bazoches-sur-Guyonne |
 
-78910 |
+78053 |
 
 Béhoust |
 
-78650 |
+78062 |
 
 Beynes |
 
-78390 |
+78073 |
 
 Bois-d'Arcy |
 
-78490 |
+78084 |
 
 Boissy-sans-Avoir |
 
-78380 |
+78092 |
 
 Bougival |
 
-78170 |
+78126 |
 
 La Celle-Saint-Cloud |
 
-78340 |
+78165 |
 
 Les Clayes-sous-Bois |
 
-78290 |
+78190 |
 
 Croissy-sur-Seine |
 
-78990 |
+78208 |
 
 Élancourt |
 
-78620 |
+78224 |
 
 L'Étang-la-Ville |
 
-78910 |
+78236 |
 
 Flexanville |
 
-78490 |
+78262 |
 
 Galluis |
 
-78950 |
+78263 |
 
 Gambais |
 
-78890 |
+78265 |
 
 Garancières |
 
-78770 |
+78278 |
 
 Goupillières |
 
-78490 |
+78289 |
 
 Grosrouvre |
 
-78280 |
+78297 |
 
 Guyancourt |
 
-78760 |
+78321 |
 
 Jouars-Pontchartrain |
 
-78320 |
+78334 |
 
 Lévis-Saint-Nom |
 
-78430 |
+78350 |
 
 Louveciennes |
 
-78114 |
+78356 |
 
 Magny-les-Hameaux |
 
-78770 |
+78364 |
 
 Marcq |
 
-78490 |
+78366 |
 
 Mareil-le-Guyon |
 
-78750 |
+78367 |
 
 Mareil-Marly |
 
-78160 |
+78372 |
 
 Marly-le-Roi |
 
-78780 |
+78382 |
 
 Maurecourt |
 
-78310 |
+78383 |
 
 Maurepas |
 
-78490 |
+78389 |
 
 Méré |
 
-78320 |
+78397 |
 
 Le Mesnil-Saint-Denis |
 
-78490 |
+78398 |
 
 Les Mesnuls |
 
-78940 |
+78404 |
 
 Millemont |
 
-78360 |
+78418 |
 
 Montesson |
 
-78490 |
+78420 |
 
 Montfort-l'Amaury |
 
-78640 |
+78442 |
 
 Neauphle-le-Château |
 
-78640 |
+78443 |
 
 Neauphle-le-Vieux |
 
-78230 |
+78481 |
 
 Le Pecq |
 
-78370 |
+78490 |
 
 Plaisir |
 
-78560 |
+78502 |
 
 Le Port-Marly |
 
-78940 |
+78513 |
 
 La Queue-les-Yvelines |
 
-78210 |
+78545 |
 
 Saint-Cyr-l'École |
 
-78640 |
+78550 |
 
 Saint-Germain-de-la-Grange |
 
-78690 |
+78576 |
 
 Saint-Rémy-l'Honoré |
 
-78650 |
+78588 |
 
 Saulx-Marchais |
 
-78850 |
+78615 |
 
 Thiverval-Grignon |
 
-78770 |
+78616 |
 
 Thoiry |
 
-78490 |
+78623 |
 
 Le Tremblay-sur-Mauldre |
 
-78110 |
+78650 |
 
 Le Vésinet |
 
-78490 |
+78653 |
 
 Vicq |
 
-78450 |
+78674 |
 
 Villepreux |
 
-78770 |
+78681 |
 
 Villiers-le-Mahieu |
 
-78640 |
+78683 |
 
 Villiers-Saint-Frédéric |
 
-78960 |
+78688 |
 
 Voisins-le-Bretonneux |
 
-79230 |
+79003 |
 
 Aiffres |
 
-79210 |
+79009 |
 
 Amuré |
 
-79210 |
+79010 |
 
 Arçais |
 
-79210 |
+79046 |
 
 Le Bourdet |
 
-79180 |
+79081 |
 
 Chauray |
 
-79510 |
+79100 |
 
 Coulon |
 
-79210 |
+79220 |
 
 Prin-Deyrançon |
 
-79410 |
+79249 |
 
 Saint-Gelais |
 
-79410 |
+79293 |
 
 Saint-Rémy |
 
-79000 |
+79308 |
 
 Sciecq |
 
-79270 |
+79335 |
 
 Vallans |
 
-79160 |
+79351 |
 
 Villiers-en-Plaine |
 
-79230 |
+79355 |
 
 Vouillé |
 
-80130 |
+80018 |
 
 Allenay |
 
-80300 |
+80045 |
 
 Authuille |
 
-80300 |
+80047 |
 
 Aveluy |
 
-80370 |
+80060 |
 
 Béalcourt |
 
-80130 |
+80096 |
 
 Béthencourt-sur-Mer |
 
-80130 |
+80124 |
 
 Bourseville |
 
-80300 |
+80151 |
 
 Buire-sur-l'Ancre |
 
-80500 |
+80174 |
 
 Le Cardonnois |
 
-80480 |
+80225 |
 
 Creuse |
 
-80570 |
+80235 |
 
 Dargnies |
 
-80620 |
+80241 |
 
 Domart-en-Ponthieu |
 
-80580 |
+80268 |
 
 Épagne-Épagnette |
 
-80250 |
+80291 |
 
 Estrées-sur-Noye |
 
-80620 |
+80346 |
 
 Franqueville |
 
-80620 |
+80348 |
 
 Fransu |
 
-80390 |
+80360 |
 
 Fressenneville |
 
-80460 |
+80364 |
 
 Friaucourt |
 
-80130 |
+80368 |
 
 Friville-Escarbotin |
 
-80370 |
+80369 |
 
 Frohen-sur-Authie |
 
-80680 |
+80387 |
 
 Grattepanche |
 
-80300 |
+80429 |
 
 Hénencourt |
 
-80620 |
+80466 |
 
 Lanches-Saint-Hilaire |
 
-80300 |
+80468 |
 
 Laviéville |
 
-80300 |
+80540 |
 
 Mesnil-Martinsart |
 
-80600 |
+80544 |
 
 Mézerolles |
 
-80390 |
+80597 |
 
 Nibas |
 
-80300 |
+80615 |
 
 Ovillers-la-Boisselle |
 
-80540 |
+80626 |
 
 Pissy |
 
-80250 |
+80668 |
 
 Remiencourt |
 
-80620 |
+80671 |
 
 Ribeaucourt |
 
-80470 |
+80730 |
 
 Saveuse |
 
-80620 |
+80742 |
 
 Surcamps |
 
-80130 |
+80770 |
 
 Tully |
 
-80210 |
+80775 |
 
 Valines |
 
-80520 |
+80834 |
 
 Yzengremer |
 
-80132 |
+80836 |
 
 Yonval |
 
-82350 |
+82002 |
 
 Albias |
 
-82120 |
+82004 |
 
 Asques |
 
-82100 |
+82012 |
 
 Les Barthes |
 
-82600 |
+82014 |
 
 Beaupuy |
 
-82800 |
+82018 |
 
 Bioule |
 
-82800 |
+82026 |
 
 Bruniquel |
 
-82100 |
+82030 |
 
 Castelferrus |
 
-82100 |
+82033 |
 
 Castelsarrasin |
 
-82120 |
+82034 |
 
 Castéra-Bouzet |
 
-82440 |
+82039 |
 
 Cayrac |
 
-82170 |
+82048 |
 
 Dieupentale |
 
-82700 |
+82052 |
 
 Escatalens |
 
-82500 |
+82055 |
 
 Esparsac |
 
-82160 |
+82056 |
 
 Espinas |
 
-82140 |
+82061 |
 
 Féneyrols |
 
-82700 |
+82062 |
 
 Finhan |
 
-82330 |
+82069 |
 
 Ginals |
 
-82500 |
+82070 |
 
 Glatens |
 
-82120 |
+82074 |
 
 Gramont |
 
-82370 |
+82079 |
 
 Labastide-Saint-Pierre |
 
-82100 |
+82080 |
 
 Labastide-du-Temple |
 
-82160 |
+82082 |
 
 Lacapelle-Livron |
 
-82120 |
+82083 |
 
 Lachapelle |
 
-82190 |
+82084 |
 
 Lacour |
 
-82500 |
+82091 |
 
 Lamothe-Cumont |
 
-82290 |
+82096 |
 
 La Ville-Dieu-du-Temple |
 
-82230 |
+82098 |
 
 Léojac |
 
-82200 |
+82099 |
 
 Lizac |
 
-82120 |
+82104 |
 
 Marsac |
 
-82500 |
+82106 |
 
 Maubec |
 
-82120 |
+82107 |
 
 Maumusson |
 
-82290 |
+82108 |
 
 Meauzac |
 
-82440 |
+82110 |
 
 Mirabel |
 
-82200 |
+82112 |
 
 Moissac |
 
-82220 |
+82113 |
 
 Molières |
 
-82130 |
+82120 |
 
 Montastruc |
 
-82700 |
+82125 |
 
 Montech |
 
-82270 |
+82128 |
 
 Montfermier |
 
-82270 |
+82131 |
 
 Montpezat-de-Quercy |
 
-82800 |
+82132 |
 
 Montricoux |
 
-82160 |
+82133 |
 
 Mouillac |
 
-82800 |
+82134 |
 
 Nègrepelisse |
 
-82370 |
+82135 |
 
 Nohic |
 
-82170 |
+82142 |
 
 Pompignan |
 
-82800 |
+82145 |
 
 Puygaillard-de-Quercy |
 
-82120 |
+82146 |
 
 Puygaillard-de-Lomagne |
 
-82160 |
+82147 |
 
 Puylagarde |
 
-82240 |
+82148 |
 
 Puylaroque |
 
-82440 |
+82149 |
 
 Réalville |
 
-82100 |
+82152 |
 
 Saint-Aignan |
 
-82110 |
+82154 |
 
 Saint-Amans-de-Pellagal |
 
-82300 |
+82159 |
 
 Saint-Cirq |
 
-82410 |
+82161 |
 
 Saint-Étienne-de-Tulmont |
 
-82240 |
+82162 |
 
 Saint-Georges |
 
-82120 |
+82163 |
 
 Saint-Jean-du-Bouzet |
 
-82110 |
+82164 |
 
 Sainte-Juliette |
 
-82370 |
+82167 |
 
 Saint-Nauphary |
 
-82700 |
+82171 |
 
 Saint-Porquier |
 
-82240 |
+82179 |
 
 Septfonds |
 
-82150 |
+82185 |
 
 Valeilles |
 
-82370 |
+82188 |
 
 Varennes |
 
-82230 |
+82192 |
 
 Verlhac-Tescou |
 
-82500 |
+82193 |
 
 Vigueron |
 
-82370 |
+82194 |
 
 Villebrumier |
 
-82130 |
+82195 |
 
 Villemade |
 
-83840 |
+83010 |
 
 Bargème |
 
-83840 |
+83013 |
 
 La Bastide |
 
-83320 |
+83034 |
 
 Carqueiranne |
 
-83260 |
+83047 |
 
 La Crau |
 
-83210 |
+83054 |
 
 La Farlède |
 
-83250 |
+83071 |
 
 La Londe-les-Maures |
 
-83190 |
+83090 |
 
 Ollioules |
 
-83220 |
+83098 |
 
 Le Pradet |
 
-83110 |
+83123 |
 
 Sanary-sur-Mer |
 
-83690 |
+83128 |
 
 Sillans-la-Cascade |
 
-83170 |
+83151 |
 
 Vins-sur-Caramy |
 
-84500 |
+84019 |
 
 Bollène |
 
-84110 |
+84022 |
 
 Buisson |
 
-84110 |
+84040 |
 
 Crestet |
 
-84410 |
+84041 |
 
 Crillon-le-Brave |
 
-84600 |
+84053 |
 
 Grillon |
 
-84290 |
+84061 |
 
 Lagarde-Paréol |
 
-84840 |
+84063 |
 
 Lamotte-du-Rhône |
 
-84840 |
+84064 |
 
 Lapalud |
 
-84330 |
+84077 |
 
 Modène |
 
-84430 |
+84078 |
 
 Mondragon |
 
-84390 |
+84079 |
 
 Monieux |
 
-84550 |
+84083 |
 
 Mornas |
 
-84420 |
+84091 |
 
 Piolenc |
 
-84110 |
+84096 |
 
 Rasteau |
 
-84600 |
+84097 |
 
 Richerenches |
 
-84110 |
+84098 |
 
 Roaix |
 
-84290 |
+84106 |
 
 Sainte-Cécile-les-Vignes |
 
-84110 |
+84111 |
 
 Saint-Marcellin-lès-Vaison |
 
-84330 |
+84115 |
 
 Saint-Pierre-de-Vassols |
 
-84290 |
+84117 |
 
 Saint-Roman-de-Malegarde |
 
-84390 |
+84123 |
 
 Sault |
 
-84110 |
+84126 |
 
 Séguret |
 
-84830 |
+84127 |
 
 Sérignan-du-Comtat |
 
-84850 |
+84134 |
 
 Travaillan |
 
-84100 |
+84135 |
 
 Uchaux |
 
-84110 |
+84137 |
 
 Vaison-la-Romaine |
 
-84600 |
+84138 |
 
 Valréas |
 
-84110 |
+84146 |
 
 Villedieu |
 
-84150 |
+84149 |
 
 Violès |
 
-84820 |
+84150 |
 
 Visan |
 
-84240 |
+84151 |
 
 Vitrolles-en-Lubéron |
 
-85190 |
+85003 |
 
 Aizenay |
 
-85400 |
+85128 |
 
 Luçon |
 
-85290 |
+85151 |
 
 Mortagne-sur-Sèvre |
 
-85170 |
+85178 |
 
 Le Poiré-sur-Vie |
 
-85700 |
+85182 |
 
 Pouzauges |
 
-86530 |
+86014 |
 
 Availles-en-Châtellerault |
 
-86580 |
+86027 |
 
 Biard |
 
-86180 |
+86041 |
 
 Buxerolles |
 
-86530 |
+86046 |
 
 Cenon-sur-Vienne |
 
-86490 |
+86081 |
 
 Colombiers |
 
-86240 |
+86088 |
 
 Croutelle |
 
-86240 |
+86100 |
 
 Fontaine-le-Comte |
 
-86550 |
+86157 |
 
 Mignaloux-Beauvoir |
 
-86210 |
+86164 |
 
 Monthoiron |
 
-86530 |
+86174 |
 
 Naintré |
 
-87700 |
+87001 |
 
 Aixe-sur-Vienne |
 
-87240 |
+87002 |
 
 Ambazac |
 
-87250 |
+87014 |
 
 Bessines-sur-Gartempe |
 
-87700 |
+87015 |
 
 Beynac |
 
-87340 |
+87016 |
 
 Les Billanges |
 
-87110 |
+87021 |
 
 Bosmie-l'Aiguille |
 
-87400 |
+87042 |
 
 Le Châtenet-en-Dognon |
 
-87310 |
+87046 |
 
 Cognac-la-Forêt |
 
-87400 |
+87062 |
 
 Eybouleuf |
 
-87230 |
+87066 |
 
 Flavignac |
 
-87250 |
+87068 |
 
 Fromental |
 
-87400 |
+87070 |
 
 La Geneytouse |
 
-87380 |
+87072 |
 
 Glanges |
 
-87370 |
+87076 |
 
 Jabreilles-les-Bordes |
 
-87340 |
+87079 |
 
 La Jonchère-Saint-Maurice |
 
-87350 |
+87114 |
 
 Panazol |
 
-87640 |
+87122 |
 
 Razès |
 
-87400 |
+87129 |
 
 Royères |
 
-87310 |
+87141 |
 
 Saint-Cyr |
 
-87400 |
+87142 |
 
 Saint-Denis-des-Murs |
 
-87260 |
+87144 |
 
 Saint-Genest-sur-Roselle |
 
-87380 |
+87146 |
 
 Saint-Germain-les-Belles |
 
-87240 |
+87157 |
 
 Saint-Laurent-les-Églises |
 
-87310 |
+87158 |
 
 Saint-Laurent-sur-Gorre |
 
-87420 |
+87162 |
 
 Sainte-Marie-de-Vaux |
 
-87400 |
+87167 |
 
 Saint-Martin-Terressus |
 
-87260 |
+87174 |
 
 Saint-Paul |
 
-87700 |
+87177 |
 
 Saint-Priest-sous-Aixe |
 
-87240 |
+87183 |
 
 Saint-Sylvestre |
 
-87700 |
+87188 |
 
 Saint-Yrieix-sous-Aixe |
 
-87620 |
+87191 |
 
 Séreilhac |
 
-88330 |
+88027 |
 
 Badménil-aux-Bois |
 
-88500 |
+88043 |
 
 Bazoilles-et-Ménil |
 
-88600 |
+88050 |
 
 Belmont-sur-Buttant |
 
-88450 |
+88055 |
 
 Bettegney-Saint-Brice |
 
-88700 |
+88080 |
 
 Bult |
 
-88270 |
+88103 |
 
 Circourt |
 
-88700 |
+88110 |
 
 Clézentaine |
 
-88140 |
+88119 |
 
 Crainvilliers |
 
-88700 |
+88127 |
 
 Deinvillers |
 
-88270 |
+88129 |
 
 Derbamont |
 
-88330 |
+88143 |
 
 Domèvre-sur-Durbion |
 
-88600 |
+88145 |
 
 Domfaing |
 
-88200 |
+88148 |
 
 Dommartin-lès-Remiremont |
 
-88500 |
+88164 |
 
 Estrennes |
 
-88170 |
+88241 |
 
 Houécourt |
 
-88170 |
+88324 |
 
 La Neuveville-sous-Châtenois |
 
-88800 |
+88325 |
 
 La Neuveville-sous-Montfort |
 
-88700 |
+88340 |
 
 Padoux |
 
-88300 |
+88352 |
 
 Pompierre |
 
-88260 |
+88360 |
 
 Provenchères-lès-Darney |
 
-88270 |
+88370 |
 
 Rancourt |
 
-88450 |
+88378 |
 
 Regney |
 
-88800 |
+88385 |
 
 Remoncourt |
 
-88500 |
+88389 |
 
 Repel |
 
-88170 |
+88431 |
 
 Saint-Paul |
 
-88500 |
+88433 |
 
 Saint-Prancher |
 
-88270 |
+88437 |
 
 Saint-Vallier |
 
-88300 |
+88443 |
 
 Sartes |
 
-88600 |
+88454 |
 
 Sercœur |
 
-88270 |
+88488 |
 
 Valfroicourt |
 
-88600 |
+88502 |
 
 Vervezelle |
 
-88150 |
+88509 |
 
 Villoncourt |
 
-88260 |
+88517 |
 
 Viviers-le-Gras |
 
-89380 |
+89013 |
 
 Appoigny |
 
-89290 |
+89023 |
 
 Augy |
 
-89000 |
+89024 |
 
 Auxerre |
 
-89400 |
+89050 |
 
 Bonnard |
 
-89113 |
+89053 |
 
 Branches |
 
-89400 |
+89056 |
 
 Brion |
 
-89400 |
+89059 |
 
 Bussy-en-Othe |
 
-89770 |
+89069 |
 
 Chailley |
 
-89113 |
+89083 |
 
 Charbuy |
 
-89400 |
+89085 |
 
 Charmoy |
 
-89400 |
+89105 |
 
 Chichery |
 
-89530 |
+89108 |
 
 Chitry |
 
-89400 |
+89152 |
 
 Épineau-les-Voves |
 
-89800 |
+89226 |
 
 Lignorelles |
 
-89240 |
+89228 |
 
 Lindry |
 
-89300 |
+89230 |
 
 Looze |
 
-89470 |
+89263 |
 
 Monéteau |
 
-89400 |
+89282 |
 
 Ormoy |
 
-89210 |
+89288 |
 
 Paroy-en-Othe |
 
-89000 |
+89295 |
 
 Perrigny |
 
-89290 |
+89319 |
 
 Quenne |
 
-89000 |
+89346 |
 
 Saint-Georges-sur-Baulche |
 
-89290 |
+89438 |
 
 Venoy |
 
-89240 |
+89453 |
 
 Villefargeau |
 
-89800 |
+89477 |
 
 Villy |
 
-90150 |
+90002 |
 
 Angeot |
 
-90200 |
+90005 |
 
 Auxelles-Bas |
 
-90200 |
+90006 |
 
 Auxelles-Haut |
 
-90800 |
+90007 |
 
 Banvillars |
 
-90400 |
+90011 |
 
 Bermont |
 
-90100 |
+90014 |
 
 Boron |
 
-90140 |
+90018 |
 
 Brebotte |
 
-90800 |
+90020 |
 
 Buc |
 
-90140 |
+90021 |
 
 Charmois |
 
-90100 |
+90024 |
 
 Chavanatte |
 
-90100 |
+90025 |
 
 Chavannes-les-Grands |
 
-90100 |
+90027 |
 
 Courcelles |
 
-90100 |
+90028 |
 
 Courtelevant |
 
-90100 |
+90030 |
 
 Croix |
 
-90150 |
+90031 |
 
 Cunelières |
 
-90160 |
+90034 |
 
 Denney |
 
-90400 |
+90035 |
 
 Dorans |
 
-90100 |
+90043 |
 
 Faverois |
 
-90110 |
+90044 |
 
 Felon |
 
-90100 |
+90045 |
 
 Fêche-l'Église |
 
-90100 |
+90046 |
 
 Florimont |
 
-90340 |
+90048 |
 
 Fontenelle |
 
-90150 |
+90049 |
 
 Foussemagne |
 
-90100 |
+90055 |
 
 Grosne |
 
-90100 |
+90056 |
 
 Joncherey |
 
-90150 |
+90060 |
 
 Lagrange |
 
-90100 |
+90063 |
 
 Lebetain |
 
-90100 |
+90064 |
 
 Lepuix-Neuf |
 
-90130 |
+90077 |
 
 Petit-Croix |
 
-90150 |
+90080 |
 
 Phaffans |
 
-90370 |
+90081 |
 
 Réchésy |
 
-90140 |
+90082 |
 
 Autrechêne |
 
-90140 |
+90083 |
 
 Recouvrance |
 
-90150 |
+90084 |
 
 Reppe |
 
-90100 |
+90090 |
 
 Saint-Dizier-l'Évêque |
 
-90100 |
+90095 |
 
 Suarce |
 
-90100 |
+90096 |
 
 Thiancourt |
 
-90800 |
+90098 |
 
 Urcerey |
 
-90150 |
+90100 |
 
 Vauthiermont |
 
-90100 |
+90101 |
 
 Vellescot |
 
-90300 |
+90103 |
 
 Vétrigne |
 
-90100 |
+90105 |
 
 Villars-le-Sec |
 
-91150 |
+91001 |
 
 Abbéville-la-Rivière |
 
-91670 |
+91016 |
 
 Angerville |
 
-91690 |
+91022 |
 
 Arrancourt |
 
-91410 |
+91035 |
 
 Authon-la-Plaine |
 
-91150 |
+91067 |
 
 Blandy |
 
-91150 |
+91075 |
 
 Bois-Herpin |
 
-91690 |
+91079 |
 
 Boissy-la-Rivière |
 
-91870 |
+91081 |
 
 Boissy-le-Sec |
 
-91150 |
+91098 |
 
 Boutervilliers |
 
-91880 |
+91100 |
 
 Bouville |
 
-91150 |
+91109 |
 
 Brières-les-Scellés |
 
-91150 |
+91112 |
 
 Brouy |
 
-91440 |
+91122 |
 
 Bures-sur-Yvette |
 
-91740 |
+91131 |
 
 Chalou-Moulineux |
 
-91150 |
+91137 |
 
 Champmotteux |
 
-91410 |
+91145 |
 
 Chatignonville |
 
-91690 |
+91240 |
 
 Fontaine-la-Rivière |
 
-91150 |
+91248 |
 
 La Forêt-Sainte-Croix |
 
-91190 |
+91272 |
 
 Gif-sur-Yvette |
 
-91940 |
+91275 |
 
 Gometz-le-Châtel |
 
-91690 |
+91294 |
 
 Guillerval |
 
-91430 |
+91312 |
 
 Igny |
 
-91150 |
+91374 |
 
 Marolles-en-Beauce |
 
-91780 |
+91393 |
 
 Mérobert |
 
-91150 |
+91399 |
 
 Mespuits |
 
-91930 |
+91414 |
 
 Monnerville |
 
-91150 |
+91433 |
 
 Morigny-Champigny |
 
-91150 |
+91469 |
 
 Ormoy-la-Rivière |
 
-91410 |
+91495 |
 
 Plessis-Saint-Benoist |
 
-91150 |
+91508 |
 
 Puiselet-le-Marais |
 
-91740 |
+91511 |
 
 Pussay |
 
-91150 |
+91526 |
 
 Roinvilliers |
 
-91690 |
+91533 |
 
 Saclas |
 
-91400 |
+91534 |
 
 Saclay |
 
-91190 |
+91538 |
 
 Saint-Aubin |
 
-91690 |
+91544 |
 
 Saint-Cyr-la-Rivière |
 
-91410 |
+91547 |
 
 Saint-Escobille |
 
-91780 |
+91556 |
 
 Saint-Hilaire |
 
-91740 |
+91613 |
 
 Congerville-Thionville |
 
-91720 |
+91629 |
 
 Valpuiseaux |
 
-91430 |
+91635 |
 
 Vauhallan |
 
-91190 |
+91679 |
 
 Villiers-le-Bâcle |
 
-92270 |
+92009 |
 
 Bois-Colombes |
 
-92340 |
+92014 |
 
 Bourg-la-Reine |
 
-92320 |
+92020 |
 
 Châtillon |
 
-92170 |
+92075 |
 
 Vanves |
 
-93190 |
+93046 |
 
 Livry-Gargan |
 
-93250 |
+93077 |
 
 Villemomble |
 
-94220 |
+94018 |
 
 Charenton-le-Pont |
 
-94440 |
+94048 |
 
 Marolles-en-Brie |
 
-94880 |
+94053 |
 
 Noiseau |
 
-94490 |
+94055 |
 
 Ormesson-sur-Marne |
 
-94420 |
+94059 |
 
 Le Plessis-Trévise |
 
-94510 |
+94060 |
 
 La Queue-en-Brie |
 
-94370 |
+94071 |
 
 Sucy-en-Brie |
 
-95450 |
+95002 |
 
 Ableiges |
 
-95510 |
+95008 |
 
 Aincourt |
 
-95420 |
+95011 |
 
 Ambleville |
 
-95510 |
+95012 |
 
 Amenucourt |
 
-95420 |
+95024 |
 
 Arthies |
 
-95450 |
+95040 |
 
 Avernes |
 
-95420 |
+95046 |
 
 Banthelu |
 
-95750 |
+95054 |
 
 Le Bellay-en-Vexin |
 
-95810 |
+95059 |
 
 Berville |
 
-95000 |
+95074 |
 
 Boisemont |
 
-95650 |
+95078 |
 
 Boissy-l'Aillerie |
 
-95710 |
+95101 |
 
 Bray-et-Lû |
 
-95640 |
+95102 |
 
 Bréançon |
 
-95640 |
+95110 |
 
 Brignancourt |
 
-95770 |
+95119 |
 
 Buhy |
 
-95420 |
+95139 |
 
 La Chapelle-en-Vexin |
 
-95420 |
+95141 |
 
 Charmont |
 
-95750 |
+95142 |
 
 Chars |
 
-95710 |
+95150 |
 
 Chaussy |
 
-95510 |
+95157 |
 
 Chérence |
 
-95420 |
+95166 |
 
 Cléry-en-Vexin |
 
-95450 |
+95169 |
 
 Commeny |
 
-95450 |
+95170 |
 
 Condécourt |
 
-95830 |
+95177 |
 
 Cormeilles-en-Vexin |
 
-95650 |
+95181 |
 
 Courcelles-sur-Viosne |
 
-95800 |
+95183 |
 
 Courdimanche |
 
-95610 |
+95218 |
 
 Éragny |
 
-95450 |
+95253 |
 
 Frémainville |
 
-95830 |
+95254 |
 
 Frémécourt |
 
-95420 |
+95270 |
 
 Genainville |
 
-95810 |
+95287 |
 
 Grisy-les-Plâtres |
 
-95450 |
+95295 |
 
 Guiry-en-Vexin |
 
-95640 |
+95298 |
 
 Haravilliers |
 
-95780 |
+95301 |
 
 Haute-Isle |
 
-95640 |
+95303 |
 
 Le Heaulme |
 
-95420 |
+95309 |
 
 Hodent |
 
-95280 |
+95323 |
 
 Jouy-le-Moutier |
 
-95450 |
+95348 |
 
 Longuesse |
 
-95420 |
+95355 |
 
 Magny-en-Vexin |
 
-95640 |
+95370 |
 
 Marines |
 
-95420 |
+95379 |
 
 Maudétour-en-Vexin |
 
-95650 |
+95422 |
 
 Montgeroult |
 
-95770 |
+95429 |
 
 Montreuil-sur-Epte |
 
-95640 |
+95438 |
 
 Moussy |
 
-95640 |
+95447 |
 
 Neuilly-en-Vexin |
 
-95000 |
+95450 |
 
 Neuville-sur-Oise |
 
-95420 |
+95459 |
 
 Nucourt |
 
-95420 |
+95462 |
 
 Omerville |
 
-95520 |
+95476 |
 
 Osny |
 
-95450 |
+95483 |
 
 Le Perchay |
 
-95650 |
+95510 |
 
 Puiseux-Pontoise |
 
-95780 |
+95523 |
 
 La Roche-Guyon |
 
-95450 |
+95535 |
 
 Sagy |
 
-95770 |
+95541 |
 
 Saint-Clair-sur-Epte |
 
-95510 |
+95543 |
 
 Saint-Cyr-en-Arthies |
 
-95420 |
+95554 |
 
 Saint-Gervais |
 
-95310 |
+95572 |
 
 Saint-Ouen-l'Aumône |
 
-95640 |
+95584 |
 
 Santeuil |
 
-95450 |
+95592 |
 
 Seraincourt |
 
-95450 |
+95610 |
 
 Théméricourt |
 
-95810 |
+95611 |
 
 Theuville |
 
-95450 |
+95625 |
 
 Us |
 
-95490 |
+95637 |
 
 Vauréal |
 
-95510 |
+95651 |
 
 Vétheuil |
 
-95510 |
+95656 |
 
 Vienne-en-Arthies |
 
-95450 |
+95658 |
 
 Vigny |
 
-95510 |
+95676 |
 
 Villers-en-Arthies |
 
-95420 |
+95690 |
 
 Wy-dit-Joli-Village |
 
-97100 |
+97105 |
 
 Basse-Terre |
 
-97126 |
+97111 |
 
 Deshaies |
 
-97170 |
+97118 |
 
 Petit-Bourg |
 
-97200 |
+97209 |
 
 Fort-de-France |
 
-97233 |
+97229 |
 
 Schœlcher |
 
-97310 |
+97304 |
 
 Kourou |
 
-97354 |
+97309 |
 
 Remire-Montjoly |
 
-97425 |
+97401 |
 
 Les Avirons |
 
-97414 |
+97403 |
 
 Entre-Deux |
 
-97419 |
+97408 |
 
 La Possession |
 
-97436 |
+97413 |
 
 Saint-Leu |
 
-97442 |
+97417 |
 
 Saint-Philippe |
 
-97439 |
+97419 |
 
 Sainte-Rose |
 
-97441 |
+97420 |
 
 Sainte-Suzanne |
 
-97433 |
+97421 |
 
 Salazie |
 
-97418 |
+97422 |
 
 Le Tampon |
