@@ -88,11 +88,11 @@ Collecte, traitement et enregistrement des documents administratifs uniques (DAU
 
 |
 
-Service national douanier de remboursement et de délivrance de renseignements tarifaires contraignants (SND2R)
+Centre de services mobilité et délivrance des renseignements tarifaires contraignants (CSMR)
 
 |
 
-DI Grand Est
+DI Grand-Est
 
 |
 
@@ -100,9 +100,15 @@ France métropolitaine
 
 |
 
-1. Remboursements partiels de la taxe intérieure de consommation sur les produits énergétiques prévus par les articles 265 septies et 265 octies du code des douanes, à l'exclusion de ceux accordés aux personnes et entreprises établies dans un autre Etat membre de l'Union européenne.
+1. Remboursements partiels :
+
+- jusqu'au 31 décembre 2027, de l'accise sur les énergies pour laquelle l'exigibilité est antérieure au 1 er janvier 2025, en application des articles L. 312-51 (transport collectif routier de personnes) et L. 312-53 (transport routier de marchandises) du code des impositions sur les biens et services, à l'exclusion de ceux accordés aux personnes et entreprises établies dans un autre Etat membre de l'Union européenne ;
+
+- jusqu'au 31 décembre 2029, de l'accise sur les énergies pour laquelle l'exigibilité est antérieure au 1 er janvier 2027, en application des articles L. 312-57-1 (manutention portuaire), L. 312-63 (aménagement et entretien des pistes et routes dans les massifs montagneux) et L. 312-70-1 (extraction de minéraux industriels) du même code.
 
 2. Délivrance de renseignements tarifaires contraignants (RTC) en application des articles 33 et 34 § 4,5,7 et 11 du code des douanes de l'Union européenne et prolongation de la validité de RTC en application de l'article 34 § 9 du même code.
+
+3. Gestion des missions et des frais occasionnés par les déplacements temporaires et les changements de résidence administrative et gestion des frais de voyage au titre des congés bonifiés des agents des douanes à l'exclusion des agents gérés par la direction nationale du renseignement et des enquêtes douanières, la direction nationale du recrutement et de la formation professionnelle, la direction nationale garde-côtes des douanes et le service commun des laboratoires. Pour les missions et les frais occasionnés par les déplacements temporaires, l'exclusion concerne également les agents gérés par les services centraux de la direction générale des douanes et droits indirects.
 
 |
 
@@ -160,4 +166,4 @@ France métropolitaine, Guadeloupe, Guyane, Martinique, La Réunion et Mayotte |
 
 NOTA :
 
-Conformément à l'article 6 du décret n° 2024-223 du 14 mars 2024, ces dispositions entrent en vigueur le 1er avril 2024.
+Conformément à l'article 2 du décret n° 2025-947 du 8 septembre 2025, les dispositions de la présente annexe, dans leur rédaction issue de l'article 1er du décret précité, entrent en vigueur, en ce qui concerne le 3, à une date fixée par arrêté du ministre chargé des douanes, et au plus tard le 31 décembre 2026. Des dates d'entrée en vigueur différentes peuvent être prévues pour les services concernés par le transfert de compétence prévu par ce 3.
