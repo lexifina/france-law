@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250203312
+
+- Question : [SEQ250203312](seq250203312.md) — Montant de l'abattement fiscal prévu sur les transferts d'argent vers l'étranger
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle et numérique, JO du 2025-09-11, page 4978*
+
+Conformément au 2° du II de l'article 156 du code général des impôts (CGI), le débiteur d'une pension alimentaire peut déduire la somme effectivement versée de son revenu imposable, notamment lorsqu'elle relève de l'obligation alimentaire définie aux articles 205 à 211, 367 et 767 du code civil. Corrélativement, la pension alimentaire ainsi versée constitue un revenu imposable entre les mains de son bénéficiaire en application des principes généraux de l'impôt sur le revenu. La circonstance que le bénéficiaire d'une pension alimentaire est domicilié fiscalement hors de France ne fait pas obstacle à cette déduction dès lors que peuvent être produites, à la demande de l'administration fiscale, toutes justifications utiles sur le caractère alimentaire des dépenses, sur leur réalité et sur les besoins du créancier. Il n'est pas envisagé de réserver la déductibilité des pensions alimentaires aux seuls contribuables ayant versé ces pensions à des bénéficiaires résidant fiscalement en France. Une telle mesure encourrait, au demeurant, un risque de censure par le Conseil constitutionnel pour méconnaissance du principe d'égalité devant les charges publiques. En effet, il en résulterait une différence de traitement entre des contribuables placés dans la même situation au regard de leurs obligations alimentaires, au seul motif que le bénéficiaire de la pension serait domicilié fiscalement ou non en France. Enfin, l'administration fiscale ne dispose pas des données sur la répartition par pays des montants des sommes versées à l'étranger au titre de l'obligation alimentaire et bénéficiant de la déductibilité prévue au 2° du II de l'article 156 du CGI.
