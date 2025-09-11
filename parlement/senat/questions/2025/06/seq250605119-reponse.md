@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250605119
+
+- Question : [SEQ250605119](seq250605119.md) — Transfert de compétence à l'établissement public de coopération intercommunale et contribution au fonds national de garantie individuelle des ressources
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle et numérique, JO du 2025-09-11, page 4989*
+
+L'article 78 de la loi de finances pour 2010 a institué un fonds national de garantie individuelle des ressources (FNGIR) chargé de compenser, pour chaque commune et établissement public de coopération intercommunale à fiscalité propre, les conséquences financières de la réforme de la taxe professionnelle. Le calcul des garanties de ressources était une opération à caractère national. À compter de 2014, en vertu de l'article 40 de la loi de finances pour 2012, les montants de prélèvement ou de reversement du FNGIR correspondent aux montants perçus ou versés en 2013. Cependant, la fixité du FNGIR pouvait poser problème aux collectivités contributrices, notamment les communes, ayant connu depuis 2010 une perte sensible de base et de produit de fiscalité économique. Une réunion de travail à laquelle ont participé plusieurs parlementaires s'est tenue le 25 juin 2020 pour réfléchir à cette problématique et aux moyens d'y remédier. Les débats n'ont pas été concluants. C'est donc par voie d'amendement, dans le cadre du débat sur le projet de loi de finances pour 2021, que le Gouvernement a proposé le versement annuel d'une dotation égale à un tiers de la contribution au FNGIR aux communes et aux EPCI à fiscalité propre ayant subi depuis 2012 une perte de bases de CFE supérieure à 70 %. Voté à l'article 79 de la loi de finances pour 2021, ce dispositif a bénéficié en 2024 à 241 communes, majoritairement rurales, pour un montant total s'élevant à plus de 760 000 euros.
