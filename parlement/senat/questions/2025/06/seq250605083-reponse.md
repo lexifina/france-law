@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250605083
+
+- Question : [SEQ250605083](seq250605083.md) — Avenir du Nutri-Score
+
+## Réponse
+
+*Santé et accès aux soins, JO du 2025-09-11, page 5073*
+
+Le nutri-score permet aux consommateurs d'identifier et comparer la qualité nutritionnelle des produits lors de ses achats. Récemment, les pouvoirs publics ont fait évoluer son mode de calcul afin d'optimiser son efficacité. Dans le cadre du Programme national nutrition santé (PNNS), le ministère chargé de la santé promeut le déploiement du logo : ainsi, c'est désormais près de 1 400 entreprises qui sont engagées dans la démarche en France, soit environ 62 % des parts de marché, et un tiers des Français déclaraient spontanément en décembre 2023 l'utiliser pour évaluer la qualité nutritionnelle des produits qu'ils achètent. Afin de promouvoir son usage par les consommateurs, une large campagne de communication est diffusée par santé publique France depuis le 29 juin 2025. En complément des produits préemballés, le PNNS prévoit par ailleurs d'étendre l'usage du nutri-score aux denrées non préemballées et à la restauration hors foyer afin de renforcer l'information nutritionnelle du consommateur. Au niveau européen, le ministère chargé de la santé promeut également le déploiement du nutri-score en collaboration avec les autres pays ayant choisi de l'adopter (i.e. Allemagne, Belgique, Espagne, France, Luxembourg, Pays-Bas, Suisse). Si le nutri-score reste un logo d'usage volontaire recommandé par les pouvoirs publics, la France, comme les autres pays engagés en Europe, soutient le nutri-score avec son algorithme amélioré dans le cas d'un système européen harmonisé. La promotion du nutri-score auprès des opérateurs et des consommateurs pour accroître son déploiement et son usage au niveau national et européen sera un point d'attention majeur pour le ministère chargé de la santé dans le cadre du futur PNNS en cours d'élaboration pour la période 2025-2030.
