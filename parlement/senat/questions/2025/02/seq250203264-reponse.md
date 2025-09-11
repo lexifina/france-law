@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250203264
+
+- Question : [SEQ250203264](seq250203264.md) — Distribution du gaz de pétrole liquéfié dans les territoires ruraux
+
+## Réponse
+
+*Transports, JO du 2025-09-11, page 5089*
+
+Le Gouvernement reconnaît l'importance du gaz de pétrole liquéfié carburant (GPL-c), carburant économique utilisé par 220 000 véhicules en France en 2022. En métropole, environ 1500 stations-service (soit de l'ordre de 14% des stations présentes sur le territoire métropolitain) délivrent du GPL-c. En moyenne, les stations françaises ont délivré 12,5 m3 GPL-c par mois, pour 350 m3 de carburant au total [1]. Les véhicules roulant au GPL-c sont équipés d'une bicarburation, souvent à l'essence, et bénéficient donc également du réseau de stations-service distribuant de l'essence. Le maillage apparaît dès lors suffisant pour l'approvisionnement des véhicules pouvant rouler au GPL, et il n'est pas envisagé d'aides financières pour le renforcer, dans un contexte de baisse de la consommation de produits pétroliers. Plus largement, le maillage de l'approvisionnement des Français en carburants est un enjeu central, et fait l'objet d'une forte attention de l'Etat. Au-delà de la fiscalité existante, le gouvernement souhaite accompagner la transition de la filière GPL-c, dont le niveau d'intensité carbone reste élevé au regard de l'ambition climatique. A l'occasion d'une consultation technique de la direction générale de l'énergie et du climat, il a été proposé d'inclure ce carburant dans le mécanisme qui assura la transposition de la directive sur les énergies renouvelables n° 2023/2413 (RED3) et prendra la suite de la TIRUERT. Les fournisseurs de GPL devraient progressivement incorporer du bioGPL dans leur GPL. Ce dispositif fait l'objet de discussions techniques avec les industriels, et doit permettre de décarboner progressivement cette filière. [1] d'après les données du bulletin mensuel de janvier 2025 du CPDP.
