@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250605194
+
+- Question : [SEQ250605194](seq250605194.md) — Reconnaissance des personnes ayant élevé un enfant sans lien juridiquement établi
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle et numérique, JO du 2025-09-11, page 4989*
+
+Le système du quotient familial a pour objet de proportionner l'impôt sur le revenu aux facultés contributives de chaque contribuable, celles-ci étant principalement appréciées en fonction du nombre de personnes qui vivent du revenu du foyer. Pour cette raison, les personnes célibataires, divorcées ou veuves sans enfant à charge ont, en principe, droit à une part de quotient familial, et les couples mariés à deux parts. Ce principe comporte une exception pour les contribuables célibataires, divorcés, séparés ou veufs vivant seuls et qui ont supporté seuls, à titre exclusif ou principal, la charge d'un enfant pendant au moins cinq années. Ces contribuables bénéficient alors d'une part et demie de quotient familial au lieu d'une part. Compte tenu du caractère très dérogatoire de cet avantage, qui ne correspond pas à une charge effective pour les contribuables bénéficiaires, ni charge de famille, ni charge liée à une invalidité, il n'est pas envisagé d'en étendre le champ d'application. Par ailleurs, le dispositif suggéré compliquerait considérablement la gestion et le contrôle de l'impôt sur le revenu dès lors que, à défaut de filiation reconnue juridiquement, les personnes concernées devraient apporter les justificatifs nécessaires pour bénéficier de la demi-part supplémentaire. Il en résulterait une situation inéquitable, qui irait à l'encontre de la justice fiscale recherchée, pour les personnes qui ne pourraient présenter d'éléments probants pour justifier une charge pouvant être ancienne dont ils revendiqueraient la reconnaissance.
