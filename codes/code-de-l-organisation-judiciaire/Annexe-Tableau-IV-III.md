@@ -24,13 +24,11 @@ Marmande |
 
 1° Matières énumérées au tableau IV-II annexé au présent code ;
 
-2° Matières relevant de l'article L. 213-3 du code de l'organisation judiciaire, à l'exception de celles relevant du 1° et du d du 3° de cet article, et de celles relevant des articles 233,237,242 et 296 du code civil ;
+2° Matières relevant de l'article L. 213-3 du code de l'organisation judiciaire, à l'exception de celles relevant du 1° et du d du 3° de cet article, et de celles relevant des articles 233, 237, 242 et 296 du code civil ;
 
 3° Matières relevant de l'article L. 213-3-1 du code de l'organisation judiciaire ;
 
-4° Délits dont la liste est fixée aux 2° et 3° de l'article 398-1 du code de procédure pénale.
-
-5° Procédures de comparution sur reconnaissance préalable de culpabilité dont l'audience d'homologation est régie par les articles 495-9 et 495-11 à 495-16 du code de procédure pénale.
+4° Délits dont la liste est fixée aux 2° et 3° de l'article 398-1 du code de procédure pénale
 
 |
 
@@ -46,7 +44,9 @@ Saint-Martin |
 
 3° Fonctions relevant de la compétence du juge des libertés et de la détention ;
 
-4° Fonctions relevant de la compétence du juge de l'application des peines. |
+4° Fonctions relevant de la compétence du juge de l'application des peines.
+
+|
 
 Besançon |
 
@@ -140,9 +140,7 @@ Millau |
 
 4° Délits dont la liste est fixée à l'article 398-1 du code de procédure pénale ;
 
-5° Procédures de comparution sur reconnaissance préalable de culpabilité dont l'audience d'homologation est régie par les articles 495-9 et 495-11 à 495-16 du code de procédure pénale ;
-
-6° Contraventions.
+5° Contraventions
 
 |
 
@@ -163,7 +161,3 @@ Guingamp |
 5° Contraventions.
 
 |
-
-NOTA :
-
-Conformément à l’article 2 du décret n° 2025-809 du 13 août 2025, ces dispositions, dans leur rédaction issue de l'article 1er dudit décret, entrent en vigueur à compter du 1er septembre 2025 et sont applicables aux saisines du juge de l'application des peines introduites à compter de cette date, dans les limites du ressort de la chambre de proximité de Saint-Martin.
