@@ -20,13 +20,19 @@ Direction programme |
 
 |
 
-|
+V2 |
 
-|
+26/08/2025 |
 
-|
+Direction programme |
 
-|
+- D2.P1 : Modification de la période durant laquelle la PSSI doit avoir été mise à jour et validée
+
+- D2.02.A : Modification de la période durant laquelle la politique de sauvegarde et de restauration doit avoir été mise à jour et validée
+
+- Modification de la date de fermeture du guichet de paiement.
+
+Précisions sur les cibles / pièces à fournir |
 
 |
 
@@ -48,23 +54,21 @@ Identifiant |
 
 Libellé |
 
-Cible domaine " Stratégie de continuité
+Cible domaine &laquo; Stratégie de continuité
 
-et de reprise d'activité " |
+et de reprise d'activité &raquo; |
 
 Liste des pièces à fournir |
 
-PREREQUIS |
+PRÉREQUIS |
 
 D2.P1 |
 
 Disposer d'une Politique de Sécurité des Systèmes d'Information (PSSI) formalisée et à jour |
 
-Le candidat doit fournir sa politique de sécurité des systèmes d'information (PSSI).
+Le candidat doit fournir sa politique de sécurité des systèmes d'information (PSSI) validée par le représentant légal du candidat et revue entre le 16 juillet 2022 et la date de dépôt du dossier de candidature. |
 
-Ce document doit être validé et revu dans les 36 mois précédant la date de publication de l'arrêté. |
-
-Document présentant la PSSI, validé et revu dans les 36 mois précédant la date de publication de l'arrêté. |
+La PSSI conforme à la cible ou un document présentant sa conformité. |
 
 D2.P2 |
 
@@ -120,15 +124,17 @@ Le candidat doit formaliser un Plan de Continuité et de Reprise d'Activité (PC
 
 Pour les GHT avec plusieurs entités juridiques (FINESS EJ) :
 
-- Les BIA et les PCRA doivent être formalisés pour un nombre d'EJ représentant au moins 66% de l'activité combinée du candidat.
+- Les BIA et les PCRA doivent être formalisés pour un nombre d'EJ représentant au moins 66 % de l'activité combinée du candidat.
 
 Pour les candidats hors GHT ayant plusieurs entités géographiques (FINESS EG) :
 
-- Les BIA et les PCRA doivent être formalisés pour un nombre d'EG représentant au moins 66% de l'activité combinée du candidat. |
+- Les BIA et les PCRA doivent être formalisés pour un nombre d'EG représentant au moins 66 % de l'activité combinée du candidat. |
 
 - Bilans d'impacts sur l'activité - BIA par établissement (Autant de BIA que de périmètres a minima) [si la méthodologie utilisée se base sur ce type d'outils]
 
 - Document énumérant les activités critiques sur les périmètres a minima de chaque établissement.
+
+- Si un ou plusieurs BIA non réalisés : Motif(s) de non-présence du document.
 
 - Plans de Continuité d'Activité/Plans de Reprise d'Activité sur les activités critiques identifiées pour chaque candidat. |
 
@@ -144,17 +150,17 @@ Le candidat doit :
 
 Pour les GHT avec plusieurs entités juridiques (FINESS EJ) :
 
-- Le test de PCA doit être réalisé pour un nombre d'EJ représentant au moins 66% de l'activité combinée du candidat.
+- Le test de PCA doit être réalisé pour un nombre d'EJ représentant au moins 66 % de l'activité combinée du candidat.
 
 Pour les candidats hors GHT ayant plusieurs entités géographiques (FINESS EG) :
 
-- Le test de PCA doit être réalisé pour un nombre d'EG représentant au moins 66% de l'activité combinée du candidat.
+- Le test de PCA doit être réalisé pour un nombre d'EG représentant au moins 66 % de l'activité combinée du candidat.
 
-(*) En fonction de ses priorités et de sa capacité opérationnelle avec a minima un service / périmètre testé.
+(*) En fonction de ses priorités et de sa capacité opérationnelle avec a minima un service/périmètre testé.
 
 (**) Phase opérationnelle : phase comprise entre :
 
-• La publication de l'arrêté relatif à la fonction " Stratégie de continuité et de reprise d'activité "
+• La publication de l'arrêté relatif à la fonction &laquo; Stratégie de continuité et de reprise d'activité &raquo;
 
 • Le dépôt de la déclaration d'atteinte des objectifs par le candidat sur le guichet dédié. |
 
@@ -170,11 +176,11 @@ D2.O2.A |
 
 Définir une politique de sauvegarde et de restauration et la maintenir à jour |
 
-Le candidat doit fournir sa politique de sauvegarde et de restauration validée et mise à jour dans les 36 mois précédant la date de publication de l'arrêté.
+Le candidat doit fournir sa politique de sauvegarde et de restauration validée.
 
-La Politique de sauvegarde et de restauration doit également pouvoir s'appliquer aux prestations externalisées et aux applications gérées en mode SaaS par le biais de clauses contractuelles avec le prestataire. |
+Elle doit pouvoir s'appliquer aux prestations externalisées et aux applications gérées en mode SaaS par le biais de clauses contractuelles avec le prestataire, et doit avoir été mise à jour entre le 16 juillet 2022 et la date de dépôt du dossier d'atteinte des objectifs. |
 
-Politique de sauvegarde et de restauration validée et à jour dans les 36 mois précédant la date de publication de l'arrêté. |
+Politique de sauvegarde et de restauration conforme aux exigences de la cible. |
 
 D2.O2.B |
 
@@ -182,7 +188,7 @@ Formaliser un/des plan(s) de sauvegarde et de restauration et le(s) maintenir à
 
 Le candidat doit fournir les plans de sauvegarde de ses systèmes d'information critiques, tels qu'identifiés dans le sous-objectif D2.O1.C, ainsi que les procédures de leur mise à jour. |
 
-Plan(s) de sauvegarde et la procédure de leur mise à jour pour tous les éléments (*) des SI critiques (tels que identifiés dans le sous-objectif D2.O1.C).
+Plan(s) de sauvegarde et la procédure de leur mise à jour pour tous les éléments* des SI critiques (tels que identifiés dans le sous-objectif D2.O1.C).
 
 (*) Eléments : Bases de données, serveurs, serveurs de fichiers |
 
@@ -222,7 +228,7 @@ D2.O3.B |
 
 S'inscrire dans une trajectoire pour un cloisonnement de son infrastructure de sauvegarde |
 
-Le candidat doit s'inscrire dans une démarche visant à cloisonner les infrastructures de sauvegarde au sein du système d'information et disposer d'une capacité technique d'isolation en cas d'incident (mode " bouton rouge "). |
+Le candidat doit s'inscrire dans une démarche visant à cloisonner les infrastructures de sauvegarde au sein du système d'information et disposer d'une capacité technique d'isolation en cas d'incident (mode &laquo; bouton rouge &raquo;). |
 
 - Schéma technique et fonctionnel d'architecture actuel ou cible détaillant la matrice des flux techniques.
 
@@ -242,7 +248,7 @@ Cette démarche vise à mettre en place une copie immuable de ses sauvegardes ho
 
 - Schéma technique et fonctionnel d'architecture actuel ou cible détaillant la matrice des flux techniques (seuls les flux strictement nécessaires doivent circuler).
 
-- Pour les établissements s'inscrivant dans la démarche, un schéma directeur / trajectoire ou schéma technique et fonctionnel d'architecture cible vers une mise en place du 3-2-1 avec les principaux jalons identifiés. |
+- Pour les établissements s'inscrivant dans la démarche, un schéma directeur/trajectoire ou schéma technique et fonctionnel d'architecture cible vers une mise en place du 3-2-1 avec les principaux jalons identifiés. |
 
 D2.O3.D |
 
@@ -282,4 +288,4 @@ Le candidat doit :
 
 - Identification (non nominative) des référents ou correspondants métiers pour la réalisation des tests sur les applications métiers sur les systèmes critiques (tels que identifiés dans le sous-objectif D2.O1.C). |
 
-Des éléments plus détaillés, tels que les indicateurs et la liste des éléments devant figurer dans les pièces justificatives ainsi que les documents demandés dans un contexte d'externalisation sont définis dans le " guide des prérequis et objectifs " disponible sur la page ANS du Programme CaRE.
+Des éléments plus détaillés, tels que les indicateurs et la liste des éléments devant figurer dans les pièces justificatives ainsi que les documents demandés dans un contexte d'externalisation sont définis dans le &laquo; guide des prérequis et objectifs &raquo; disponible sur la page ANS du Programme CaRE.

@@ -20,53 +20,53 @@ Direction Programme |
 
 |
 
-|
+V2 |
 
-|
+26/08/2025 |
 
-|
+Direction Programme |
 
-|
+Modification du calendrier de l'appel à financement |
 
 Sommaire
 
-1. Définitions et présentation du Domaine " Stratégie de continuité et de reprise d'activité "
+1. Définitions et présentation du Domaine &laquo; Stratégie de continuité et de reprise d'activité &raquo;
 
 1.1. Définitions
 
-1.2. Présentation du Domaine " Stratégie de continuité et de reprise d'activité " du programme CaRE
+1.2. Présentation du Domaine &laquo; Stratégie de continuité et de reprise d'activité &raquo; du programme CaRE
 
 2. Critères d'éligibilité des établissements de santé bénéficiaires des financements
 
 3. Financements du domaine pour l'atteinte d'objectifs définis
 
-4. Calendrier de l'appel à financement du domaine " Stratégie de continuité et de reprise d'activité "
+4. Calendrier de l'appel à financement du domaine &laquo; Stratégie de continuité et de reprise d'activité &raquo;
 
 5. Modalités de mobilisation des financements
 
 5.1. Modalités de dépôt des candidatures au financement
 
-5.1.1. Entités autorisées à déposer une candidature au financement
+Entités autorisées à déposer une candidature au financement
 
-5.1.2. Modalités de dépôt des candidatures au financement
+Modalités de dépôt des candidatures au financement
 
-5.1.3. Instruction des candidatures
+Instruction des candidatures
 
 5.2. Modalités de versement des financements
 
-5.1.4. Déclaration de l'atteinte des objectifs et instruction des demandes
+Déclaration de l'atteinte des objectifs et instruction des demandes
 
 6. Montants des financements attribués
 
 7. Gestion des indus et recouvrement
 
-1. Définitions et présentation du Domaine " Stratégie de continuité et de reprise d'activité "
+1. Définitions et présentation du domaine &laquo; Stratégie de continuité et de reprise d'activité &raquo;
 
 1.1. Définitions
 
 Sauf disposition contraire, les termes et expressions commençant par une majuscule et employés dans le présent document ont la signification qui leur est attribuée ci-après :
 
-Un Etablissement de santé (ES) est une structure de droit public ou privé disposant d'une autorisation à jour " établissement de santé " délivrée par son ARS de rattachement. Les critères d'éligibilités des ES au présent dispositif de financement sont définis dans la section 2 relative aux critères d'éligibilité.
+Un Etablissement de santé (ES) est une structure de droit public ou privé disposant d'une autorisation à jour &laquo; établissement de santé &raquo; délivrée par son ARS de rattachement. Les critères d'éligibilités des ES au présent dispositif de financement sont définis dans la section 2 relative aux critères d'éligibilité.
 
 L'Activité combinée mesure l'activité des établissements de santé fondée sur le nombre de journées et séances. Les différents champs d'activité sont mis en équivalence avec les journées MCO selon la convention suivante :
 
@@ -76,7 +76,7 @@ L'Activité combinée mesure l'activité des établissements de santé fondée s
 
 - 1 journée SMR, 1 journée PSY, 1 journée HAD ou 1 journée USLD équivalent à 0,5 journée MCO ;
 
-- 1 hospitalisation de jour, hors chirurgie ambulatoire, équivaut à 1 journée MCO.​
+- 1 hospitalisation de jour, hors chirurgie ambulatoire, équivaut à 1 journée MCO.
 
 Pour un ES-géographique, l'Activité combinée est celle de l'établissement. Pour un ES-juridique, l'Activité combinée correspond à la somme des ES-géographiques qui le composent. Pour un Groupement Hospitalier de Territoire (GHT), l'Activité combinée correspond à la somme des ES-juridiques qui le composent.
 
@@ -84,15 +84,15 @@ Un GHT est un dispositif conventionnel, obligatoire depuis juillet 2016, entre �
 
 Les Opérations de contrôle désignent l'ensemble des vérifications qui seront réalisées pour valider la bonne atteinte des objectifs par un établissement. Ces vérifications peuvent se faire à travers l'étude de pièces fournies par l'établissement ou en direct avec l'établissement (en visio-conférence ou sur site directement). Une attestation sera délivrée à l'établissement à l'issue de ces Opérations de contrôle.
 
-L'Opérateur de paiement désigne l'organisme en charge du paiement des établissements de santé une fois que les Opérations de contrôle auront validé la bonne atteinte des objectifs de l'appel à financement (annexe 1 " Prérequis, objectifs et preuves d'atteinte des objectifs ").
+L'Opérateur de paiement désigne l'organisme en charge du paiement des établissements de santé une fois que les Opérations de contrôle auront validé la bonne atteinte des objectifs de l'appel à financement (annexe 1 &laquo; Prérequis, objectifs et preuves d'atteinte des objectifs &raquo;).
 
-La Structure bénéficiaire désigne la structure bénéficiaire du soutien financier objet des présentes et qui est conditionné à l'atteinte des objectifs définis dans l'annexe 1 - Prérequis, objectifs et preuves d'atteinte des objectifs. Les structures bénéficiaires sont soumises à des obligations détaillées dans la conventions avec l'Agence du Numérique en Santé.
+La Structure bénéficiaire désigne la structure bénéficiaire du soutien financier objet des présentes et qui est conditionné à l'atteinte des objectifs définis dans l'annexe 1 - Prérequis, objectifs et preuves d'atteinte des objectifs. Les structures bénéficiaires sont soumises à des obligations détaillées dans la conventions avec l'Agence du numérique en santé.
 
 (1) Articles L. 6132-1 à L. 6132-7 du code de la santé publique.
 
 (2) Articles R. 6132-1 à R. 6132-24 du code de la santé publique.
 
-1.2. Présentation du Domaine " Stratégie de continuité et de reprise d'activité " du programme CaRE
+1.2. Présentation du Domaine &laquo; Stratégie de continuité et de reprise d'activité &raquo; du programme CaRE
 
 Cet appel à financement du programme CaRE pour les établissements de santé vise le renforcement de leur capacité à assurer une continuité de leurs activités les plus critiques puis une reprise d'activité en cas d'incident majeur touchant leur système d'information.
 
@@ -118,7 +118,7 @@ Les ES éligibles au présent dispositif de financement sont les structures de d
 
 - possèdent un identifiant FINESS géographique, dont la catégorie FINESS est comprise dans les valeurs suivantes : 101, 355, 292, 131, 106, 109, 362, 122, 128, 129, 365, 156, 161, 366, 412, 415, 425, 430, 444, 127, 141, 146, 114, 115, 697.
 
-Ces dispositions s'appliquent aux départements et régions d'outre-mer, ne s'appliquent pas aux territoires et collectivité d'outre-mer de la Polynésie française, de la Nouvelle Calédonie, de Wallis et Futuna, et de Saint-Pierre-et-Miquelon.
+Ces dispositions s'appliquent aux départements et régions d'outre-mer, ne s'appliquent pas aux territoires et collectivité d'outre-mer de la Polynésie française, de la Nouvelle-Calédonie, de Wallis-et-Futuna, et de Saint-Pierre-et-Miquelon.
 
 Liste des établissements éligibles et montants plafonds
 
@@ -132,7 +132,7 @@ Les établissements éligibles doivent avoir validé deux prérequis pouvoir sol
 
 - décrire l'organisation prévue pour la mise en œuvre du PCRA.
 
-Ces prérequis sont présentés dans l'annexe 1 " Prérequis, objectifs et preuves d'atteinte des objectifs " du domaine " Stratégie de continuité et de reprise d'activité ".
+Ces prérequis sont présentés dans l'annexe 1 &laquo; Prérequis, objectifs et preuves d'atteinte des objectifs &raquo; du domaine &laquo; Stratégie de continuité et de reprise d'activité &raquo;.
 
 Les ES éligibles devront attester qu'ils n'ont pas bénéficié de fonds européens pour financer des opérations d'amélioration de leur cybersécurité en lien avec les objectifs de cet appel à financement sur les mêmes actions.
 
@@ -140,11 +140,11 @@ Les ES éligibles devront attester qu'ils n'ont pas bénéficié de fonds europ�
 
 Les subventions allouées à travers le présent dispositif ont pour objectif de concentrer le soutien financier sur des actions concourant à des objectifs précis favorisant la sécurité des SI des établissements de santé, dont l'atteinte est mesurée par des indicateurs. Les subventions sont intégralement allouées après vérification par l'ANS de l'atteinte de ces indicateurs et des modalités administratives et ne font pas l'objet d'un amorçage.
 
-L'annexe 1 " Prérequis, objectifs et preuves d'atteinte des objectifs " du présent domaine définit pour chaque objectif les valeurs cibles et autres conditions minimales à réunir pour valider l'atteinte des objectifs, ainsi que les textes de référence pouvant s'appliquer.
+L'annexe 1 &laquo; Prérequis, objectifs et preuves d'atteinte des objectifs &raquo; du présent domaine définit pour chaque objectif les valeurs cibles et autres conditions minimales à réunir pour valider l'atteinte des objectifs, ainsi que les textes de référence pouvant s'appliquer.
 
-4. Calendrier de l'appel à financement du domaine " Stratégie de continuité et de reprise d'activité "
+4. Calendrier de l'appel à financement du domaine &laquo; Stratégie de continuité et de reprise d'activité &raquo;
 
-L'appel à financement du domaine " Stratégie de continuité et de reprise d'activité " est mis en œuvre selon le calendrier suivant :
+L'appel à financement du domaine &laquo; Stratégie de continuité et de reprise d'activité &raquo; est mis en œuvre selon le calendrier suivant :
 
 Date |
 
@@ -152,9 +152,9 @@ Description |
 
 T0
 
-Date de parution au JO de l'arrêté ministériel relatif à l'appel à financement du domaine " stratégie de continuité et de reprise d'activité " |
+Date de parution au JO de l'arrêté ministériel relatif à l'appel à financement du domaine &laquo; stratégie de continuité et de reprise d'activité &raquo; |
 
-Date à partir de laquelle les établissements éligibles peuvent engager des travaux permettant d'atteindre les objectifs de l'appel à financement décrits dans l'Annexe 1 " Prérequis, objectifs et preuves d'atteinte des objectifs " du domaine " Stratégie de continuité et de reprise d'activité ". |
+Date à partir de laquelle les établissements éligibles peuvent engager des travaux permettant d'atteindre les objectifs de l'appel à financement décrits dans l'Annexe 1 &laquo; Prérequis, objectifs et preuves d'atteinte des objectifs &raquo; du domaine &laquo; Stratégie de continuité et de reprise d'activité &raquo;. |
 
 2 septembre 2025 |
 
@@ -184,13 +184,13 @@ Ouverture du guichet de paiement. |
 
 Fermeture du portail de dépôt de preuves et de demande des Opérations de contrôle. |
 
-19 juin 2027 |
+15 septembre 2027 |
 
 Fermeture du guichet de paiement. |
 
 5. Modalités de mobilisation des financements
 
-5.1. Modalités de dépôt des candidatures au financement
+5.1 Modalités de dépôt des candidatures au financement
 
 Entités autorisées à déposer une candidature au financement
 
@@ -200,7 +200,7 @@ Les structures autorisées à déposer des candidatures au financement pour le c
 
 - dans le cadre d'un GHT, l'établissement support du GHT candidate pour l'ensemble des EJ du GHT (et pouvant intégrer des EG médico-sociales), dans le respect de la convention constitutive du GHT présentant ses compétences et ses instances décisionnelles, ou le cas échéant, avec une autorisation octroyée lors d'une instance décisionnelle ;
 
-- pour les structures éligibles ne faisant pas partie d'un GHT : la demande de candidature au financement doit être portée par l'entité juridique, sauf exception.
+- pour les structures éligibles ne faisant pas partie d'un GHT : la demande de candidature au financement doit être portée par l'entité juridique, sauf exception ;
 
 - pour les établissements privés (à but non lucratif et lucratif), la demande de candidature au financement doit être portée par l'entité juridique pour l'ensemble de ses établissements géographiques.
 
@@ -208,13 +208,13 @@ Modalités de dépôt des candidatures au financement
 
 Les établissements éligibles autorisés à déposer une candidature au financement doivent déposer leur dossier via le guichet en ligne géré par l'ANS dans les délais définis en section 4 relative au calendrier.
 
-Pour être recevables, les candidatures doivent comporter l'ensemble des éléments administratifs et les pièces justificatives mentionnées dans l'annexe 1 " Prérequis, objectifs et preuves d'atteinte des objectifs ".
+Pour être recevables, les candidatures doivent comporter l'ensemble des éléments administratifs et les pièces justificatives mentionnées dans l'annexe 1 &laquo; Prérequis, objectifs et preuves d'atteinte des objectifs &raquo;.
 
 Instruction des candidatures
 
-Les candidatures au financement sont instruites par les Agences Régionales de Santé dont dépendent les établissements éligibles (ARS de la région d'exercice de l'ES support d'un GHT ou de l'entité juridique du candidat) qui vérifient la complétude des demandes et le respect des critères d'éligibilité définis dans l'annexe 1 " Prérequis, objectifs et preuves d'atteinte des objectifs du domaine ".
+Les candidatures au financement sont instruites par les agences régionales de santé dont dépendent les établissements éligibles (ARS de la région d'exercice de l'ES support d'un GHT ou de l'entité juridique du candidat) qui vérifient la complétude des demandes et le respect des critères d'éligibilité définis dans l'annexe 1 &laquo; Prérequis, objectifs et preuves d'atteinte des objectifs du domaine &raquo;.
 
-Les candidatures validées donnent lieu à une notification aux établissements ayant déposé la demande et à la signature d'une convention avec l'opérateur de paiement (l'Agence du numérique en santé) définissant les engagements mutuels des deux parties.
+Les candidatures validées donnent lieu à une notification aux établissements ayant déposé la demande et à la signature d'une convention avec l'Opérateur de paiement (l'Agence du numérique en santé) définissant les engagements mutuels des deux parties.
 
 5.2. Modalités de versement des financements
 
@@ -232,7 +232,7 @@ Dans le cadre des contrôles de conformité mené par l'ANS, des contrôles supp
 
 Les financements attribués dans le cadre du présent dispositif sont plafonnés et calculés en fonction de l'activité combinée, selon les modalités précisées ci-dessous.
 
-Un tarif de base par point d'activité combinée est fixé, et désigné dans la suite sous le nom " forfait AC ". Le montant du forfait AC est fixé à 0,375 €.
+Un tarif de base par point d'activité combinée est fixé, et désigné dans la suite sous le nom &laquo; forfait AC &raquo;. Le montant du forfait AC est fixé à 0,375 €.
 
 Le montant plafond du financement est calculé en :
 
@@ -246,7 +246,7 @@ Le montant plafond du financement est calculé en :
 
 Le montant des plafonds pour chaque structure bénéficiaire éligible est mis à disposition sur le site de l'ANS (cf. section 2 relative aux critères d'éligibilité).
 
-Le montant des financements qui sera alloué aux structures bénéficiaires sera calculé à partir de la déclaration des coûts réellement engagés à partir de la date de publication au Journal officiel de la République française du présent arrêté jusqu'à la déclaration d'atteinte des objectifs ( période d'éligibilité ). Cette déclaration sera établie sur la base des principes de comptabilité analytique généralement acceptés et mis en œuvre pour le calcul des surcompensations éventuelles. Le détail des dépenses engagées doit être communiqué lors du dépôt de la demande de paiement en utilisant la trame de bilan financier mis à disposition sur le site de l'ANS.
+Le montant des financements qui sera alloué aux structures bénéficiaires sera calculé à partir de la déclaration des coûts réellement engagés à partir de la date de publication au Journal officiel de la République française du présent arrêté jusqu'à la déclaration d'atteinte des objectifs (&laquo; période d'éligibilité &raquo;). Cette déclaration sera établie sur la base des principes de comptabilité analytique généralement acceptés et mis en œuvre pour le calcul des surcompensations éventuelles. Le détail des dépenses engagées doit être communiqué lors du dépôt de la demande de paiement en utilisant la trame de bilan financier mis à disposition sur le site de l'ANS.
 
 Seuls les coûts engagés ainsi déclarés donneront lieu à un financement, lequel ne pourra excéder le montant maximal applicable à l'établissement, tel qu'il est défini ci-dessus. L'établissement tient à disposition de l'ANS, l'ensemble des éléments comptables permettant de vérifier que les coûts engagés qu'il aura déclarés et qui auront donné lieu au versement des financements correspondent effectivement aux coûts occasionnés par l'atteinte des objectifs du présent dispositif.
 
