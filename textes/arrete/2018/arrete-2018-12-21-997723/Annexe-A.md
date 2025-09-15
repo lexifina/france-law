@@ -26,10 +26,6 @@ Directeur du service industriel de l'aéronautique
 
 |
 
-Directeur du service ingénierie contractuelle et logistique
+Directeur du centre d'ingénierie contractuelle et logistique
 
 |
-
-NOTA :
-
-Conformément à l'article 2 de l'arrêté du 16 décembre 2022 (NOR : ECOE2226867A), ces dispositions entrent en vigueur au 1er janvier 2023.
