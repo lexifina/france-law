@@ -1,0 +1,9 @@
+# Réponse à la question n° 9274
+
+- Question : [9274](9274.md) — Question n° 9274 — Crémation des restes mortels
+
+## Réponse
+
+*JO du 2025-09-16, page 8077*
+
+Lorsqu'une concession funéraire n'est pas renouvelée à son échéance (article L. 2223-15 du code général des collectivités territoriales) ou qu'elle fait l'objet d'un défaut manifeste d'entretien (articles L. 2223-17 et L. 2223-18, R. 2223-12 à R. 2223-23 du même code), le maire de la commune concédante dispose de la faculté de la reprendre. En cas de reprise de concession, le maire peut procéder à un transfert des restes mortels dans l'ossuaire communal. Il peut également faire procéder à la crémation des restes exhumés. Il est toutefois à noter que l'article L. 2223-4 du CGCT, qui dispose que « le maire peut également faire procéder à la crémation des restes exhumés en l'absence d'opposition connue ou attestée du défunt » a été partiellement censuré par le Conseil constitutionnel dans sa décision n° 2024-1110 QPC du 31 octobre 2024. En effet, le Conseil a estimé que le défaut d'obligation d'information des proches des défunts, quant à la volonté de ceux-ci à l'égard de la crémation, était contraire au principe constitutionnel de sauvegarde de la dignité humaine, entendu post-mortem. L'abrogation de ces dispositions a été différée au 31 décembre 2025. Dans l'attente de l'entrée en vigueur de nouvelles dispositions, les maires doivent informer par tout moyen utile les tiers susceptibles de faire connaître la volonté du défunt du fait qu'ils envisagent de faire procéder à la crémation des restes exhumés à la suite de la reprise d'une sépulture en terrain commun. Les modifications à apporter, d'ici le 1er janvier 2026, aux dispositions de l'article L. 2223-4 du CGCT, pour répondre à la décision du Conseil constitutionnel, sont en cours d'élaboration par le Gouvernement.
