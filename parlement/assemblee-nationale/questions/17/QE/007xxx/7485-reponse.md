@@ -1,0 +1,9 @@
+# Réponse à la question n° 7485
+
+- Question : [7485](7485.md) — Question n° 7485 — Mesures exceptionnelles pour répondre aux victimes des violents orages de grêle
+
+## Réponse
+
+*JO du 2025-09-16, page 8129*
+
+Les dommages provoqués par les épisodes de grêle font l'objet d'une offre d'assurance privée au titre de la garantie « tempête neige grêle » des contrats d'assurance. Pour protéger les assurés, le législateur a rendu obligatoire cette garantie dans tous les contrats d'assurance de dommages aux biens, conformément aux dispositions de l'article L. 122-7 du code des assurances. La garantie est mise en œuvre par les assureurs sans qu'une reconnaissance préalable de l'État ne soit nécessaire, ce qui réduit souvent les délais de traitement selon les dégâts. Le Gouvernement sera attentif à ce que les assureurs apportent une réponse rapide aux sinistrés touchés par ces évènements, sachant qu'à ce stade, aucune difficulté d'application de la garantie n'a été remontée aux services. Par ailleurs, les frais de relogement et les pertes d'exploitation peuvent être pris en charge par la compagnie d'assurance si l'assuré est couvert, dans les conditions prévues dans le contrat correspondant. S'agissant du secteur agricole, le régime de l'assurance récolte a été réformé en 2022 pour facilite la diffusion de l'assurance « multirisque climatique » auprès des exploitants agricoles, avec un important soutien financier de l'État. Les pertes de récolte occasionnées par un épisode de grêle peuvent ainsi être indemnisées dans le cadre de ce dispositif. Compte tenu de l'ampleur des évènements et au regard des différentes informations recueillies par les services, il n'apparaît pas justifié d'instaurer des mesures exceptionnelles au niveau national. Les collectivités territoriales touchées peuvent mettre en œuvre des dispositifs de soutien ciblé de manière volontaire, si elles le jugent nécessaire.
