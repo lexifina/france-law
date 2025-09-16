@@ -1,0 +1,52 @@
+# Moderniser la gestion du patrimoine immobilier de l'État
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 17
+- Identifiant : DLR5L17N52746
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/17/dossiers/gestion_patrimoine_immobilier_etat_17e
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl25-319.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2025-09-16 : 1er dépôt d'une initiative. (PIONANR5L17B1796)
+  - 2026-01-23 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2025-09-16 : Renvoi en commission au fond
+      - 2025-12-23 : Nomination de rapporteur
+      - 2025-12-23 : Réunion de commission
+      - 2026-01-14 : Réunion de commission
+      - 2026-01-27 : Réunion de commission
+      - 2026-01-14 : Dépôt de rapport (RAPPANR5L17B2345, PIONANR5L17BTC2345)
+  - Discussion en séance publique
+    - 2026-01-28 : Discussion en séance publique
+    - 2026-01-28 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2026-01-28 : Dépôt d'une initiative en navette (PIONSNR5S479B0319)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2026-01-28 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2026-06-03 : Dépôt de rapport (RAPPSNR5S479B0685, PIONSNR5S479BTC0686)
+  - Discussion en séance publique
+    - 2026-06-10 : Décision
+- Commission Mixte Paritaire
+  - 2026-06-11 : Dépôt d'un projet de loi (PIONANR5L17B2917)
+  - 2026-06-25 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2026-07-01 : Nomination de rapporteur
+    - 2026-07-01 : Dépôt du rapport d'une CMP (RAPPANR5L17B3004, PIONANR5L17BTC3004)
+    - 2026-07-01 : Dépôt du rapport d'une CMP (RAPPSNR5S479B0842, PIONSNR5S479BTC0843)
+  - Discussion en séance publique
+    - 2026-07-06 : Discussion en séance publique
+    - 2026-07-06 : Décision
+  - Discussion en séance publique
+    - 2026-07-21 : Discussion en séance publique
+    - 2026-07-21 : Décision
+  - 2026-07-03 : Décision de la CMP
+- Conseil constitutionnel
+  - 2026-07-23 : Saisine du conseil constitutionnel
+  - 2026-08-14 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2026-08-18 : Promulgation d'une loi
