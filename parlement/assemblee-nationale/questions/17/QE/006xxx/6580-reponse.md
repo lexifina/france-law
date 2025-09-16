@@ -1,0 +1,9 @@
+# Réponse à la question n° 6580
+
+- Question : [6580](6580.md) — Question n° 6580 — Suppression de l'agrément et mission des organismes de gestion agréés
+
+## Réponse
+
+*JO du 2025-09-16, page 8116*
+
+L'article 11 de la loi de finances pour 2025 a mis fin au dispositif d'agrément des organismes de gestion agréés (OGA) par l'administration fiscale. Cette mesure s'inscrit dans la continuité de la réforme initiée par la loi de finances pour 2021 qui a mis fin, de façon progressive jusqu'en 2023, au dispositif de la majoration de 25 % des revenus professionnels des entreprises qui n'adhèrent pas à un OGA. La suppression progressive de la majoration, sur trois ans, avait vocation à permettre aux OGA de réorganiser leur modèle économique et de préserver leurs emplois tout en bénéficiant du label et de l'accompagnement de l'administration fiscale. Les OGA ont notamment bénéficié de la possibilité de proposer l'examen de conformité fiscale (ECF) comme nouvelle prestation de sécurisation fiscale ainsi que d'une extension de leurs missions vers le secteur concurrentiel de l'accompagnement des entreprises. À l'issue de cette période transitoire de quatre ans, suffisante pour permettre, dans la concertation, un changement de modèle économique, un mouvement de restructuration du secteur s'est opéré, faisant passer le nombre d'OGA d'environ 200 en 2021 à 145 en 2024. Au surplus, les OGA, constitués sous la forme d'associations de droit commun soumises à la loi de 1901, conservent la possibilité de poursuivre leur activité, sous une forme associative non agréée ou sous une forme commerciale. À la suite de la suppression par la loi de finances pour 2025 de l'agrément et des missions légales des organismes de gestion agréés, l'administration accompagne les OGA et a notamment reçu les fédérations représentatives et publié une foire aux questions sur le site impots.gouv.fr, qui apporte des précisions et répond aux interrogations soulevées par la réforme.
