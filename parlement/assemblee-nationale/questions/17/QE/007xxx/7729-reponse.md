@@ -1,0 +1,9 @@
+# Réponse à la question n° 7729
+
+- Question : [7729](7729.md) — Question n° 7729 — Caméras de surveillance dans les communes
+
+## Réponse
+
+*JO du 2025-09-16, page 8073*
+
+Comme le précise l'instruction du ministre de l'intérieur du 10 juin 2025 relative aux orientations stratégiques pour l'année 2025 des politiques soutenues par le Fonds intérministériel de prévention de la délinquance (FIPD), la prévention de la délinquance vise à mobiliser l'ensemble des acteurs locaux et nationaux pour consolider le pacte républicain, en appui des stratégies de restauration de la sécurité du quotidien. Témoignant de l'engagement du Gouvernement à fournir les moyens nécessaires à l'action des acteurs de la prévention de la délinquance, les crédits alloués au FIPD ont été maintenus en 2025 au même niveau que l'année précédente. Ainsi, une enveloppe dédiée spécifiquement aux projets de vidéoprotection d'un montant de 21,7 millions d'euros a été confiée à la direction des entreprises et des partenariats de sécurité et des armes (DEPSA) pour permettre l'accompagnement financier des projets assurant le développement de la vidéoprotection dans les espaces publics. Les communes souhaitant engager de tels projets peuvent se rapprocher des services de la préfecture. Par ailleurs, la loi autorise la mise en commun entre collectivités des personnels, moyens et installations de vidéoprotection par voie de convention, en application de l'article L. 1311-15 du code général des collectivités territoriales (CGCT), ou par le truchement d'un établissement public de coopération intercommunale ou d'un syndicat mixte dans les conditions prévues par l'article L. 132-14 du code de la sécurité intérieure. Ces dispositifs permettent à des petites communes d'accéder à des dispositifs de vidéoprotection structurés permettant de renforcer la sécurité de leurs administrés.
