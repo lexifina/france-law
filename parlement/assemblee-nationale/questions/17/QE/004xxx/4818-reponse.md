@@ -1,0 +1,9 @@
+# Réponse à la question n° 4818
+
+- Question : [4818](4818.md) — Question n° 4818 — Requalification de la facture d'eau impayée en dette alimentaire
+
+## Réponse
+
+*JO du 2025-09-16, page 8098*
+
+Le Gouvernement est conscient que la classification des dettes dans le cadre d'un dossier de surendettement peut affecter l'ordre de règlement, de réaménagement ou d'effacement des dettes. Il convient de rappeler que sont considérées comme dettes alimentaires, toutes celles relevant de l'obligation alimentaire : les pensions alimentaires, les prestations compensatoires, celles obligeant les enfants à l'égard de leurs parents, etc. Ainsi, l'exclusion des dettes alimentaires de la procédure de surendettement a pour objectif de préserver les intérêts fondamentaux du créancier. En effet, conformément aux dispositions prévues à l'article L. 711-4 du code de la consommation, sauf accord du créancier, les dettes alimentaires sont exclues de toute remise, de tout rééchelonnement ou effacement. Le caractère alimentaire d'une créance est étroitement lié à la personne du créancier et à l'obligation alimentaire définie par le code civil. Une créance perd son caractère alimentaire dès lors que le lien entre le créancier et le fournisseur d'aliment est indirect, comme cela est le cas des dettes de cantine, de garde périscolaire, de frais d'hospitalisation d'un enfant et de frais d'obsèques. La fourniture d'eau ne relevant pas d'une obligation personnelle et directe du distributeur à l'égard de ses clients, une facture d'eau impayée n'est pas considérée comme une dette alimentaire et doit effectivement être traitée dans les mesures de traitement du surendettement (plan, mesures imposées, rétablissement personnel avec ou sans liquidation judiciaire). Le Gouvernement ne prévoit pas de modifier les textes législatifs sur le surendettement en ce qui concerne les dettes qualifiées de dettes alimentaires.
