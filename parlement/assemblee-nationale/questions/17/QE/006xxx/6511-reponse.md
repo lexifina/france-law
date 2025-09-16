@@ -1,0 +1,9 @@
+# Réponse à la question n° 6511
+
+- Question : [6511](6511.md) — Question n° 6511 — Lotissements-Jardins-Aménagement
+
+## Réponse
+
+*JO du 2025-09-16, page 8071*
+
+Les lotissements jardin ont été institués par arrêté préfectoral pour la plupart durant la première moitié du vingtième siècle. Ces lotissements jardin avait une vocation agricole et culturale et ces arrêtés préfectoraux les rendaient inconstructibles. Avant 2007, l'ancien article R.315-52 du code de l'urbanisme prévoyait la possibilité de transformer les lotissements jardin en lotissements à usage d'habitation dans le cas où ils se trouvent à l'intérieur d'une zone affectée à l'habitation par le plan local d'urbanisme ou le document en tenant lieu. Ces dispositions ont été abrogées par la réforme de 2007 qui a procédé à une refonte des dispositions applicables aux lotissements jardin. Afin de favoriser la mutabilité de ces lotissements jardin, le Gouvernement a déposé un amendement au Sénat lors de l'examen de la proposition de loi de simplification de l'urbanisme et au logement. Cet amendement rendra applicables les dispositions de droit commun relatives à la modification des documents des lotissements (caducité au bout de 10 ans des dispositions règlementaires, possibilité de modification à l'initiative des colotis, mise en concordance avec le PLU ou avec mise en compatibilité avec une DUP) aux terrains lotis en vue de la création de jardin. Cet amendement a été adopté au Sénat. Ainsi, sous réserve de son adoption, cette disposition permet aux colotis, lorsque le PLU l'autorise, de rendre « constructible » leur terrain, puisque, d'une part, les règles d'urbanisme du lotissement deviennent caduques au bout de 10 ans si le lotissement est couvert par un PLU, et d'autre part, l'article L.442-10 du code de l'urbanisme prévoit la possibilité pour les colotis de demander à la majorité qualifiée, à l'autorité compétente de modifier les documents du lotissement.
