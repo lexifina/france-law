@@ -1,0 +1,9 @@
+# Réponse à la question n° 3362
+
+- Question : [3362](3362.md) — Question n° 3362 — Salaires du personnel hospitalier du secteur privé à but non lucratif
+
+## Réponse
+
+*JO du 2025-09-16, page 8164*
+
+A la suite des mesures de revalorisation salariale adoptées dans le secteur public, des crédits ont été accordés aux établissements privés à but non lucratif dans le cadre de l'objectif national de dépenses d'assurance maladie sanitaire au titre des mesures en faveur du pouvoir d'achat dites "Guérini" en 2023 et 2024 : 112 millions d'euros pour la revalorisation du point d'indice de la fonction publique en année pleine et 70,1 millions d'euros pour le financement de la prime pouvoir d'achat ont été attribués par les pouvoirs publics. Le secteur privé non lucratif a aussi bénéficié de l'extension de la revalorisation indemnitaire du travail de nuit, les dimanches et jours fériés, soutenu par une enveloppe de 58 millions d'euros allouée par l'Etat. La revalorisation des rémunérations des personnels du secteur privé non lucratif passe également par la convention collective nationale unique étendue qui a vocation à financer ces mesures salariales. Les organisations syndicales de salariés et les employeurs (Fédération des établissements hospitaliers et d'aide à la personne privés solidaires - FEHAP, NEXEM), dans le cadre de la Confédération AXESS des secteurs sociaux, médico-sociaux et sanitaires ont signé un accord le 4 juin 2024 visant à accorder la prime dite « Ségur » revalorisant rétroactivement les salaires au 1er janvier 2024. Cet accord a été étendu à l'ensemble de la branche de l'action sanitaire et sociale par arrêté du 5 août 2024 dans le cadre d'une convention collective unique étendue à la demande de la ministre. L'accord du 4 juin, avec effet rétroactif au 1er janvier 2024, concerne l'ensemble des employeurs appliquant les conventions collectives de 1951 (FEHAP) et de 1966 (NEXEM), ainsi que l'accord d'entreprise de la Croix-Rouge.
