@@ -1,0 +1,9 @@
+# Réponse à la question n° 6697
+
+- Question : [6697](6697.md) — Question n° 6697 — Aides aux films associatifs sur la mémoire locale
+
+## Réponse
+
+*JO du 2025-09-16, page 8153*
+
+Le ministère des armées ne dispose pas d'un dispositif d'aide spécifiquement dédié aux productions audiovisuelles liées à l'histoire locale. Sous l'autorité du ministère des armées, la direction de la mémoire, de la culture et des archives et l'office national des combattants et des victimes de guerre attribuent chaque année des subventions pour la réalisation de projets mémoriels liés aux conflits contemporains auxquels la France a participé. Le soutien attribué est en général limité à 25 % du coût total des projets soutenus, et intervient en complément d'autres financements. Ce financement est retracé à l'action 9 « politique de mémoire » du programme 169 « reconnaissance et réparation en faveur du monde combattant, mémoire et liens avec la Nation » dans la limite des crédits ouverts par la loi de finances. Ces subventions s'adressent aux projets initiés et mis en œuvre par des organismes privés (associations ou fondations) ou publics (collectivités territoriales) qui visent à transmettre la mémoire combattante française ou à soutenir l'enseignement de défense. Ces projets peuvent porter sur des expositions temporaires, la production d'un documentaire historique, la réalisation d'un ouvrage, des actions de formation ou la visite de lieux de mémoire. Pour pouvoir déposer une demande de subvention, l'organisme doit disposer d'un numéro de SIRET et avoir mis à jour les informations déclarées à l'institut national de la statistique et des études économiques. Le dépôt de dossiers de demandes de subventions s'effectue via la plateforme Démarches simplifiées à l'adresse suivante : www.demarches-simplifiees.fr/commencer/subvention-memoire-dmca-onacvg.
