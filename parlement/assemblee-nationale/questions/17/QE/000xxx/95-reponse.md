@@ -1,0 +1,9 @@
+# Réponse à la question n° 95
+
+- Question : [95](95.md) — Question n° 95 — Certification biologique de la spiruline et régime d'équivalence
+
+## Réponse
+
+*JO du 2025-09-16, page 7984*
+
+La production de spiruline est considérée, au niveau européen, comme une production aquacole. Pour la production biologique, elle relève du cahier des charges de l'aquaculture biologique, défini par le règlement (UE) 2018/848. Ce cadre vise à garantir aux consommateurs européens des produits respectueux de l'environnement, de la biodiversité et de la santé humaine. Les substances et intrants autorisés en production biologique, y compris pour la spiruline, sont listés dans le règlement (UE) 2021/1165. Cette liste est régulièrement mise à jour par la Commission européenne, sur la base d'évaluations scientifiques du groupe d'experts EGTOP. Ce groupe d'experts évalue, avant toute autorisation, la compatibilité des substances avec les principes et les règles de l'agriculture biologique, notamment en ce qui concerne leur impact environnemental et sanitaire. Par ailleurs, le règlement 2018/848 relatif à la production biologique et à l'étiquetage des produits biologiques, qui a abrogé le règlement 834/2007 et est rentré en application le 1er janvier 2022, met en place le passage du régime de l'équivalence à celui de la conformité au règlement pour les pays tiers, ce qui renforce les règles applicables aux pays tiers afin de répondre à l'exigence que les produits biologiques importés répondent à des normes aussi strictes que celles de l'Union européenne (UE). Ainsi, depuis le 1er janvier 2025, les produits importés doivent être conformes à la réglementation biologique de l'UE. Toutefois, certains pays tiers peuvent bénéficier d'accords d'équivalence ou d'accords commerciaux reconnaissant des normes de production considérées comme équivalentes. Ces accords sont négociés entre l'UE et les pays tiers.
