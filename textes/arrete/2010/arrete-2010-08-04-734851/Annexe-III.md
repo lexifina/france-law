@@ -180,7 +180,7 @@ Un officier du grade de colonel de la branche considérée, à défaut, désign�
 
 Cinq officiers supérieurs désignés par le commandant du soutien opérationnel de la gendarmerie nationale.
 
-Un officier supérieur de chaque service comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur (direction de la coopération internationale de sécurité, , commandement spécialisé pour la sécurité nucléaire, commandement de la gendarmerie pour les réserves et la jeunesse, service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur, commandement pour l'environnement et la santé, agence du numérique des forces de sécurité intérieure, commandement du ministère de l'intérieur dans le cyberespace).
+Un officier supérieur de chaque service comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur (direction de la coopération internationale de sécurité, commandement de la gendarmerie dans le cyberespace, commandement spécialisé pour la sécurité nucléaire, commandement de la gendarmerie pour les réserves et la jeunesse, service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur, commandement pour l'environnement et la santé, agence du numérique des forces de sécurité intérieure, commandement du ministère de l'intérieur dans le cyberespace).
 
 Ces membres sont désignés par le directeur des ressources humaines de la gendarmerie nationale. |
 
@@ -218,7 +218,7 @@ Les chefs d'état-major, les chefs des forces, les chefs de division ou de centr
 
 Personnel servant au sein de l'unité nationale de police judiciaire de la gendarmerie nationale. |
 
-L'adjoint au commandant de l'unité nationale de police judiciaire de la gendarmerie nationale. |
+Le commandant en second de l'unité nationale de police judiciaire de la gendarmerie nationale. |
 
 L'officier supérieur le plus ancien dans le grade le plus élevé de l'unité nationale de police judiciaire de la gendarmerie nationale (1). |
 
@@ -226,9 +226,15 @@ Le directeur de l'institut de recherche criminelle de la gendarmerie nationale o
 
 Le commandant du service central de renseignement criminel de la gendarmerie nationale ou l'adjoint au commandant du service central de renseignement criminel de la gendarmerie nationale par suppléance.
 
-Un officier supérieur du pôle judiciaire désigné par le commandant de l'unité nationale de police judiciaire de la gendarmerie nationale. |
+Le commandant de l'unité nationale cyber ou le commandant en second de l'unité nationale cyber par suppléance.
 
-(1) Sauf le commandant de l'unité nationale de police judiciaire de la gendarmerie nationale et le commandant en second de l'unité nationale de police judiciaire de la gendarmerie nationale. |
+Le commandant de l'unité nationale d'investigation ou le commandant en second de l'unité nationale d'investigation par suppléance.
+
+Les commandants des offices centraux de lutte contre la délinquance itinérante, le travail illégal, les atteintes à l'environnement et à la santé publique, les crimes contre l'humanité et les crimes de haine, ou par suppléance, les commandants en second de ces offices.
+
+Un officier supérieur de l'unité nationale de police judiciaire désigné par le commandant de l'unité nationale de police judiciaire de la gendarmerie nationale. |
+
+(1) Sauf le commandant de l'unité nationale de police judiciaire de la gendarmerie nationale. |
 
 4. Spécialités :
 
