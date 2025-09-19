@@ -42,31 +42,31 @@ Mensuelle |
 
 INSEE |
 
-Plateforme trimestrielle CAMME sur le &laquo; bien-être &raquo; |
+Plateforme trimestrielle CAMME sur le bien-être |
 
 Trimestrielle |
 
 INSEE |
 
-Plateforme CAMME sur les &laquo; opinions et pratiques environnementales &raquo; |
+Plateforme CAMME sur les opinions et pratiques environnementales |
 
 Ponctuelle |
 
 INSEE |
 
-Enquête annuelle sur les écoles de formation aux professions sanitaires et sociales (Enquête &laquo; Écoles &raquo;) |
+Enquête annuelle sur les écoles de formation aux professions sanitaires et sociales (Enquête Écoles ) |
 
 Annuelle |
 
 DREES |
 
-Enquête &laquo; Statistiques sur les ressources et les conditions de vie (SRCV) &raquo;
+Enquête Statistiques sur les ressources et les conditions de vie (SRCV)
 
 dont modules complémentaires 2025 :
 
-- &laquo; Énergie et environnement &raquo; ;
+- Énergie et environnement ;
 
-- &laquo; Santé &raquo;. |
+- Santé . |
 
 Annuelle
 
@@ -86,7 +86,7 @@ Ponctuelle |
 
 INSEE |
 
-Enquête &laquo; Loyers et charges &raquo; |
+Enquête Loyers et charges |
 
 Trimestrielle |
 
@@ -98,7 +98,7 @@ Annuelle |
 
 SDES |
 
-Enquête pilote &laquo; Voyages professionnels et personnels &raquo; (VPP) |
+Enquête pilote Voyages professionnels et personnels (VPP) |
 
 Ponctuelle |
 
@@ -116,7 +116,7 @@ Ponctuelle |
 
 INSEE |
 
-Enquête &laquo; Voyages professionnels et personnels &raquo; (VPP) |
+Enquête Voyages professionnels et personnels (VPP) |
 
 Mensuelle |
 
@@ -148,7 +148,7 @@ Enquête Emploi - Enquête sur l'emploi, le chômage et l'inactivité
 
 dont module complémentaire 2025 :
 
-- &laquo; Conciliation vie familiale et vie professionnelle &raquo; |
+- Conciliation vie familiale et vie professionnelle |
 
 En continu
 
@@ -158,7 +158,7 @@ INSEE
 
 INSEE |
 
-Enquête &laquo; Conditions de travail - Risques psychosociaux &raquo; (CT-RPS 2024) |
+Enquête Conditions de travail - Risques psychosociaux (CT-RPS 2024) |
 
 Ponctuelle |
 
@@ -238,7 +238,7 @@ Ponctuelle |
 
 DEPP |
 
-Enquête &laquo; Vécu et ressenti en matière de sécurité &raquo; (VRS) |
+Enquête Vécu et ressenti en matière de sécurité (VRS) |
 
 Annuelle |
 
@@ -252,7 +252,7 @@ Périodicité |
 
 Producteur (*) |
 
-Enquête &laquo; Action sociale des collectivités locales &raquo; (ASCO 2025) |
+Enquête Action sociale des collectivités locales (ASCO 2025) |
 
 Ponctuelle |
 
@@ -276,7 +276,7 @@ Ponctuelle |
 
 LEDa |
 
-Enquête auprès des personnes fréquentant des services d'aide, dite &laquo; Sans domicile &raquo; 2025, volet Individus |
+Enquête auprès des personnes fréquentant des services d'aide, dite Sans domicile 2025, volet Individus |
 
 Ponctuelle |
 
@@ -321,6 +321,12 @@ Enquête nationale 2025 de climat scolaire et de vécu professionnel des personn
 Ponctuelle |
 
 DEPP |
+
+Enquête Panel d'observation des pratiques et des conditions d'exercice en médecine générale (vague 1) |
+
+Semestrielle |
+
+DREES |
 
 (*) Voir liste des producteurs.
 
@@ -380,7 +386,11 @@ Ministère des solidarités, de l'autonomie et de l'égalité entre les femmes e
 
 Ministère du travail et de l'emploi
 
-Ministère chargé du budget et des comptes publics |
+Ministère chargé du budget et des comptes publics
+
+Ministère du travail, de la santé, des solidarités et des familles
+
+|
 
 ‍Île-de-France Mobilités |
 
