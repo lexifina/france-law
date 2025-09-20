@@ -574,7 +574,7 @@ Un dictionnaire en langue italienne, indiqué par le jury, est mis à la disposi
 
 Un dictionnaire en langue italienne et un dictionnaire latin-français, indiqués par le jury, sont mis à la disposition du candidat.
 
-4° Explication en langue italienne d'un texte italien moderne ou contemporain, extrait d'une œuvre au programme suivie d'un entretien en français avec le jury (durée de la préparation : une heure et demie ; durée de l'épreuve : quarante-cinq minutes maximum [explication : trente minutes ; entretien : quinze minutes] ; coefficient 4).
+4° Explication en langue italienne d'un texte italien moderne ou contemporain, extrait d'une œuvre au programme suivie d'une version improvisée tirée d'un texte contemporain. (durée de la préparation : une heure et demie ; durée de l'épreuve : quarante-cinq minutes maximum [explication : trente minutes ; version : quinze minutes] ; coefficient 4).
 
 Un dictionnaire en langue italienne, indiqué par le jury, est mis à la disposition du candidat.
 
@@ -850,7 +850,7 @@ B. - Epreuves orales et pratiques d'admission
 
 2° Leçon de chimie (coefficient 3).
 
-3° Montage de physique composé d'expériences illustrant l'enseignement donné à tous les niveaux dans les lycées d'enseignement général et technologique (coefficient 3).
+3° Montage de physique composé d'expériences illustrant l'enseignement donné à tous les niveaux dans les lycées d'enseignement général et technologique (coefficient 3). Le candidat doit choisir l'un des deux montages qui lui sont proposés.
 
 A l'issue de cette épreuve, le jury peut interroger le candidat sur le sujet qu'il a choisi.
 
@@ -876,7 +876,7 @@ B. - Epreuves orales et pratiques d'admission
 
 3° Montage de chimie composé d'expériences illustrant l'enseignement, donné à tous les niveaux, dans les lycées d'enseignement général et technologique (coefficient 3).
 
-Le candidat doit choisir l'un des deux montages qui lui sont proposés. A l'issue de cette épreuve, le jury peut interroger le candidat sur le sujet qu'il a choisi.
+Pendant toute la durée de l'épreuve, le candidat présente les expériences choisies correspondant au sujet en même temps qu'il est interrogé par les membres du jury sur le sujet.
 
 Chacune des épreuves orales et pratiques d'admission a lieu après quatre heures de préparation surveillée.
 
@@ -1562,10 +1562,6 @@ L'épreuve vise à s'assurer de la capacité à se confronter à un problème in
 
 Durée : six heures ; coefficient 1.
 
-3° Epreuve spécifique.
-
-L'épreuve 3° d'admissibilité porte sur les programmes mentionnés ci-dessus auxquels s'ajoute un programme complémentaire spécifique à chacun des sujets au choix (étude de cas informatique ou fondements de l'informatique). Ce programme complémentaire fait également l'objet d'une publication sur le site internet précité.
-
 B. - Epreuves d'admission
 
 1° Leçon d'informatique.
@@ -1574,9 +1570,7 @@ L'épreuve vise à s'assurer de la capacité du candidat à mobiliser et organis
 
 Le candidat dispose pour sa préparation et sa présentation d'un environnement informatique mis à disposition par le jury.
 
-Les leçons s'appuient sur des notions et concepts informatiques issus des programmes et référentiels du lycée et des classes post-baccalauréat des lycées.
-
-Préparation : quatre heures ; durée de l'épreuve : une heure ; coefficient 2.
+Préparation : quatre heures ; durée de l'épreuve : une heure ; coefficient 1. Le programme des épreuves fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
 
 2° Travaux pratiques de programmation.
 

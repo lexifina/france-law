@@ -8,11 +8,11 @@ A. - Epreuves écrites d'admissibilité
 
 1° Composition de philosophie : explication de texte (durée : six heures trente minutes ; coefficient 3).
 
-Le candidat a le choix entre deux textes qui se rapportent à une même notion du programme de philosophie en vigueur dans les classes terminales ou à l'un des thèmes (dans sa dimension philosophique) du programme de spécialité “ humanités, littérature et philosophie ” du cycle terminal de la voie générale du lycée. La notion ou le thème qui constituent le programme de cette épreuve sont fixés chaque année.
+Le candidat a le choix entre deux textes qui se rapportent à une même notion du programme de philosophie en vigueur dans les classes terminales ou à l'un des thèmes (dans sa dimension philosophique) du programme de spécialité " humanités, littérature et philosophie " du cycle terminal de la voie générale du lycée. La notion ou le thème qui constituent le programme de cette épreuve sont fixés chaque année.
 
 2° Composition de philosophie : dissertation (durée : sept heures ; coefficient 3).
 
-Le sujet de la dissertation se rapporte à l'une des notions du programme de philosophie en vigueur dans les classes terminales ou à l'un des thèmes (dans sa dimension philosophique) du programme de spécialité “ humanités, littérature et philosophie ” du cycle terminal de la voie générale du lycée. La notion ou le thème qui constituent le programme de cette épreuve sont fixés chaque année.
+Le sujet de la dissertation se rapporte à l'une des notions du programme de philosophie en vigueur dans les classes terminales ou à l'un des thèmes (dans sa dimension philosophique) du programme de spécialité " humanités, littérature et philosophie " du cycle terminal de la voie générale du lycée. La notion ou le thème qui constituent le programme de cette épreuve sont fixés chaque année.
 
 Le programme de cette épreuve est obligatoirement différent de celui de la première épreuve de philosophie.
 
@@ -20,7 +20,7 @@ Le programme des épreuves écrites fait l'objet d'une publication sur le site i
 
 B. - Epreuves d'admission
 
-1° Leçon de philosophie sur un sujet relatif au programme de philosophie en vigueur dans les classes terminales ou au programme (dans sa dimension philosophique) de l'enseignement de spécialité “ humanités, littérature et philosophie ” du cycle terminal de la voie générale (durée de la préparation : cinq heures ; durée de l'épreuve : quarante minutes ; coefficient 3) :
+1° Leçon de philosophie sur un sujet relatif au programme de philosophie en vigueur dans les classes terminales ou au programme (dans sa dimension philosophique) de l'enseignement de spécialité " humanités, littérature et philosophie " du cycle terminal de la voie générale (durée de la préparation : cinq heures ; durée de l'épreuve : quarante minutes ; coefficient 3) :
 
 Pour la préparation de la leçon, les ouvrages et documents demandés par les candidats seront, dans la mesure du possible, mis à leur disposition. Sont exclues de la consultation les encyclopédies et anthologies thématiques.
 
@@ -580,7 +580,7 @@ L'épreuve est commune à toutes les options. Les candidats composent sur le mê
 
 L'épreuve a pour but de vérifier que le candidat est capable de mobiliser ses connaissances scientifiques et techniques pour conduire une analyse systémique, élaborer et exploiter les modèles de comportement permettant de quantifier les performances globales et détaillées d'un système des points de vue matière, énergie et information afin de valider tout ou partie de la réponse au besoin exprimé par un cahier des charges. Elle permet de vérifier les compétences d'un candidat à synthétiser ses connaissances pour analyser et modéliser le comportement d'un système pluritechnologique.
 
-Elle permet également de vérifier que le candidat est capable d'élaborer tout ou partie de l'organisation d'une séquence pédagogique, relative aux enseignements non spécifiques de la spécialité ingénierie, innovation et développement durable du cycle terminal “ sciences et technologies de l'industrie et du développement durable (STI2D) ” et/ ou de l'enseignement des sciences de l'ingénieur du lycée général, ainsi que les documents techniques et pédagogiques associés (documents professeurs, documents fournis aux élèves, éléments d'évaluation).
+Elle permet également de vérifier que le candidat est capable d'élaborer tout ou partie de l'organisation d'une séquence pédagogique, relative aux enseignements non spécifiques de la spécialité ingénierie, innovation et développement durable du cycle terminal " sciences et technologies de l'industrie et du développement durable (STI2D) " et/ ou de l'enseignement des sciences de l'ingénieur du lycée général, ainsi que les documents techniques et pédagogiques associés (documents professeurs, documents fournis aux élèves, éléments d'évaluation).
 
 Durée de l'épreuve : cinq heures ; coefficient 2.
 
@@ -762,7 +762,7 @@ Section éducation physique et sportive
 
 A. - Epreuves écrites d'admissibilité
 
-1° Dissertation ou commentaire d'un document écrit portant sur l'éducation physique et sportive comme discipline d'enseignement, sur ses références culturelles et sur les déterminants historiques, économiques et sociaux des activités physiques et sportives et artistiques.
+1° Dissertation portant sur l'éducation physique et sportive comme discipline d'enseignement, sur ses références culturelles et sur les déterminants historiques, économiques et sociaux des activités physiques et sportives et artistiques.
 
 Durée : six heures.
 
