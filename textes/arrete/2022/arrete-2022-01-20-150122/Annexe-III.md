@@ -4,13 +4,11 @@ LISTE DES EMPLOIS DU CORPS DE CONCEPTION ET DE DIRECTION DE LA POLICE NATIONALE 
 
 1. Directions interdépartementales et directions départementales de la police nationale : 15 postes
 
-Établissement,
+Etablissement, organisme
 
-organisme ou service
+ou service
 
-et localisation
-
-géographique |
+et localisation géographique |
 
 Emplois |
 
@@ -46,15 +44,15 @@ A + |
 
 1 |
 
-DIPN des Alpes-Maritimes (06) |
+DDPN de l'Aube (10) |
 
-Chef du service local de sécurité publique de Cannes |
+Directeur départemental de la police nationale de l'Aube et chef de la circonscription de police nationale de Troyes |
 
 A + |
 
 3 ans |
 
-8 000 |
+10 000 |
 
 1 |
 
@@ -216,13 +214,11 @@ A + |
 
 2. Direction nationale de la police aux frontières : 1 poste
 
-Établissement,
+Etablissement, organisme
 
-organisme ou service
+ou service
 
-et localisation
-
-géographique |
+et localisation géographique |
 
 Emploi |
 
@@ -258,51 +254,13 @@ A + |
 
 1 |
 
-3. Agence du numérique des forces de sécurité intérieure : 1 poste
+3. Ecole supérieure de police : 3 postes
 
-Établissement, organisme ou service et localisation
+Etablissement, organisme
 
-géographique |
+ou service
 
-Emploi |
-
-Catégorie
-
-statutaire
-
-d'emploi |
-
-Durée
-
-de la période
-
-de référence |
-
-Montant ITM
-
-(en euros) |
-
-Nombre
-
-de postes |
-
-ANFSI (92) |
-
-Chef du département des fichiers nationaux |
-
-A + |
-
-3 ans |
-
-8 000 |
-
-1 |
-
-4. Ecole supérieure de police : 3 postes
-
-Établissement, organisme ou service et localisation
-
-géographique |
+et localisation géographique |
 
 Emploi |
 
@@ -362,8 +320,8 @@ A + |
 
 1 |
 
-5. Direction générale de la sécurité intérieure : 2 postes
+4. Direction générale de la sécurité intérieure : 2 postes
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 15 juillet 2025 (NOR : INTC2520387A), les agents affectés précédemment sur un poste ouvrant droit à l'indemnité temporaire de mobilité conservent ce droit pour l'intégralité de la période de référence initialement prévue.
+Conformément à l'article 2 de l'arrêté du 8 septembre 2025 (NOR : INTC2525587A), les agents affectés précédemment sur un poste ouvrant droit à l'indemnité temporaire de mobilité conservent ce droit pour l'intégralité de la période de référence initialement prévue.
