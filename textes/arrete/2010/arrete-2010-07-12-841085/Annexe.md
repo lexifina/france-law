@@ -2,7 +2,7 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 15 septembre 2025 :
+Jusqu'au 30 avril 2026 :
 
 Dzaoudzi-Moroni (Comores) exploitée exclusivement dans le cadre d'une opération de partage de codes avec une compagnie disposant des autorisations nécessaires ;
 
@@ -24,7 +24,7 @@ Saint-Denis de La Réunion-Tananarive (Madagascar) ;
 
 Saint-Denis de La Réunion-Port Louis (Maurice) ;
 
-Saint-Denis de La Réunion-Moroni (Comores) exploitée exclusivement, au-delà de Dzaoudzi, dans le cadre d'une opération de partage de codes avec une compagnie disposant des autorisations nécessaires ;
+Saint-Denis de La Réunion-Moroni (Comores) ;
 
 Saint-Denis de La Réunion-Rodrigues (Maurice) ;
 
