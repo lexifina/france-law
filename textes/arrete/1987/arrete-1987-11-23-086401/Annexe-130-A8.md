@@ -4,11 +4,9 @@ Modèle d'attestation de conformité aux dispositions de la résolution OMI A.76
 
 ATTESTATION DE CONFORMITÉ AUX DISPOSITIONS PERTINENTES DE LA RÉSOLUTION OMI A.765(18) (1)
 
-AGISSANT CONFORMÉMENT À L'ARTICLE 130.30-1 “ENGINS REMORQUÉS” DE LA DIVISION 130 DU RÈGLEMENT FRANÇAIS ANNEXÉ À L'ARRÊTÉ DU 23 NOVEMBRE 1987, TEL QU'AMENDÉ, RELATIF À LA SÉCURITÉ DES NAVIRES ET DANS L'EXERCICE DES PRÉROGATIVES DE PUISSANCE PUBLIQUE CONFÉRÉES PAR L'ARTICLE 42 DU DÉCRET 84-810 DU 30 AOÛT 1984 TEL QU'AMENDÉ
+AGISSANT CONFORMÉMENT À L'ARTICLE 130.48 DE LA DIVISION 130 DU RÈGLEMENT FRANÇAIS ANNEXÉ À L'ARRÊTÉ DU 23 NOVEMBRE 1987, TEL QU'AMENDÉ, RELATIF À LA SÉCURITÉ DES NAVIRES ET DANS L'EXERCICE DES PRÉROGATIVES DE PUISSANCE PUBLIQUE CONFÉRÉES PAR L'ARTICLE 42 DU DÉCRET 84-810 DU 30 AOÛT 1984 TEL QU'AMENDÉ
 
-Nom du navire
-
-|
+Nom du navire |
 
 Numéro
 
@@ -22,13 +20,9 @@ distinctifs
 
 |
 
-Numéro OMI d'identification du navire
+Numéro OMI d'identification du navire |
 
-|
-
-Port d'immatriculation
-
-|
+Port d'immatriculation |
 
 Longueur
 
@@ -36,9 +30,7 @@ hors-tout
 
 |
 
-Type de navire
-
-|
+Type de navire |
 
 Le soussigné, expert d'une société de classification habilitée, atteste que le navire ci-dessus a fait l'objet d'interventions de la société, à la demande de l'exploitant, pour vérifier les points suivants, qui sont conformes aux dispositions de la résolution A.765(18) :
 
