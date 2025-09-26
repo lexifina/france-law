@@ -1,0 +1,655 @@
+# Article Annexe 3
+
+ANNEXE 3
+
+NATURE, COEFFICIENTS ET COTATION DES ÉPREUVES SPORTIVES
+
+Pour les concours sur épreuves d'admission aux écoles du service de santé des armées et pour les concours sur épreuves de recrutement dans un corps de praticiens des armées, les épreuves sportives se composent de quatre épreuves réalisées successivement :
+
+- première épreuve : course à pied ;
+
+- deuxième épreuve : tractions ou suspension à la barre fixe ;
+
+- troisième épreuve : gainage abdominal ;
+
+- quatrième épreuve : natation.
+
+Les clichés et schémas des épreuves sont consultables sur les sites des écoles du service de santé des armées. Les épreuves sportives font l'objet d'une présentation théorique en salle, puis d'une démonstration initiale par un moniteur d'EPMS avant d'être réalisées par le candidat.
+
+1. Première épreuve : course à pied
+
+1.1. Description et déroulement
+
+Le test « demi-Cooper » est un test de course à pied en continu au cours duquel le candidat doit effectuer la plus grande distance possible sur une durée de 6 min.
+
+Ce test se pratique sur une piste d'athlétisme ou sur une ligne droite étalonnée. Des repères sont placés tous les 50 ou 100 m.
+
+1.2. Règlement
+
+L'épreuve est réalisée après un échauffement de 15 minutes supervisé par un moniteur d'EPMS.
+
+1.3. Barème
+
+Course à pied (en mètres) |
+
+Note |
+
+Homme |
+
+Femme |
+
+20 |
+
+1 700 |
+
+1 500 |
+
+19 |
+
+1 650 |
+
+1 450 |
+
+18 |
+
+1 600 |
+
+1 400 |
+
+17 |
+
+1 550 |
+
+1 350 |
+
+16 |
+
+1 500 |
+
+1 300 |
+
+15 |
+
+1 450 |
+
+1 250 |
+
+14 |
+
+1 400 |
+
+1 200 |
+
+13 |
+
+1 350 |
+
+1 150 |
+
+12 |
+
+1 300 |
+
+1 100 |
+
+11 |
+
+1 275 |
+
+1 050 |
+
+10 |
+
+1 250 |
+
+1 000 |
+
+9 |
+
+1 225 |
+
+975 |
+
+8 |
+
+1 200 |
+
+950 |
+
+7 |
+
+1 175 |
+
+925 |
+
+6 |
+
+1 150 |
+
+900 |
+
+5 |
+
+1 125 |
+
+875 |
+
+4 |
+
+1 100 |
+
+850 |
+
+3 |
+
+1 075 |
+
+825 |
+
+2 |
+
+1 050 |
+
+800 |
+
+1 |
+
+1 025 |
+
+775 |
+
+0 |
+
+1 000 et moins |
+
+750 et moins |
+
+2. Deuxième épreuve : tractions ou suspension à la barre fixe
+
+2.1. Déroulement
+
+Cette épreuve est exécutée à la suite du test « demi-Cooper ». Une phase de récupération active est mise en place, le temps de prendre en compte les performances et la démonstration de l'épreuve suivante. Elle est destinée à tester la force musculaire des membres supérieurs :
+
+- par des tractions à la barre fixe pour les candidats masculins ;
+
+- par une suspension à la barre fixe pour les candidats féminins.
+
+2.2. Description des mouvements
+
+Pour les tractions :
+
+- au départ, les bras sont tendus, le corps en suspension sans appui (épaules et coudes déverrouillés), les mains en pronation (pouce vers l'intérieur) ;
+
+- le candidat tire sur les bras et amène le menton au-dessus de la barre et sans aucun mouvement additionnel des membres inférieurs ;
+
+- puis il retourne en position de départ ;
+
+- le candidat doit faire le maximum de tractions.
+
+Pour la suspension à la barre fixe :
+
+- la candidate se place sous la barre fixe, les bras tendus vers le haut ;
+
+- la prise de barre doit être supérieure ou égale à la largeur des épaules ;
+
+- les mains sont en pronation (pouce vers l'intérieur) ;
+
+- la candidate tire sur les bras pour amener le menton au-dessus de la barre (avec aide) ;
+
+- elle maintient ensuite cette position, seule, le plus longtemps possible, sans que le menton touche la barre ;
+
+- aucun balancement des jambes ou du corps n'est toléré pendant l'épreuve.
+
+2.3. Barème
+
+Note |
+
+1 |
+
+2 |
+
+3 |
+
+4 |
+
+5 |
+
+6 |
+
+7 |
+
+8 |
+
+9 |
+
+10 |
+
+11 |
+
+12 |
+
+13 |
+
+14 |
+
+15 |
+
+16 |
+
+17 |
+
+18 |
+
+19 |
+
+20 |
+
+Tractions (en nombre) |
+
+1 |
+
+/ |
+
+2 |
+
+/ |
+
+3 |
+
+/ |
+
+4 |
+
+5 |
+
+6 |
+
+7 |
+
+8 |
+
+9 |
+
+10 |
+
+11 |
+
+12 |
+
+13 |
+
+14 |
+
+15 |
+
+16 |
+
+17 |
+
+Suspension (en secondes) |
+
+4 |
+
+|
+
+7 |
+
+|
+
+10 |
+
+|
+
+13 |
+
+|
+
+16 |
+
+18 |
+
+20 |
+
+23 |
+
+26 |
+
+29 |
+
+33 |
+
+37 |
+
+42 |
+
+47 |
+
+53 |
+
+59 |
+
+3. Troisième épreuve : gainage abdominal
+
+3.1. Déroulement
+
+Les candidats s'allongent sur le ventre, se mettent en appui sur les avant-bras et sur les pointes des pieds. Ils doivent décoller leur bassin afin d'avoir un alignement des segments « cuisses-bassin-tronc » (bassin en rétroversion afin d'atténuer la cambrure lombaire) puis contracter fortement les abdominaux et les fessiers.
+
+La position est chronométrée et maintenue le plus longtemps possible.
+
+Le test est arrêté lorsque le bassin ou les genoux s'effondrent, ne respectant plus l'alignement des segments « cuisses-bassin-tronc ».
+
+Une tolérance est accordée si le sujet testé perd momentanément l'alignement en abaissant le bassin ou les genoux. Le chronomètre s'arrête dès que survient le troisième affaissement.
+
+3.2. Barème
+
+Gainage abdominal (en minutes) |
+
+Note |
+
+Homme |
+
+Femme |
+
+20 |
+
+> 3' |
+
+> 3' |
+
+19 |
+
+3' |
+
+3' |
+
+18 |
+
+2'45 |
+
+2'45 |
+
+17 |
+
+2'30 |
+
+2'30 |
+
+16 |
+
+2'15 |
+
+2'15 |
+
+15 |
+
+2' |
+
+2' |
+
+14 |
+
+1'50 |
+
+1'50 |
+
+13 |
+
+1'40 |
+
+1'40 |
+
+12 |
+
+1'30 |
+
+1'30 |
+
+11 |
+
+1'25 |
+
+1'25 |
+
+10 |
+
+1'20 |
+
+1'20 |
+
+9 |
+
+1'15 |
+
+1'15 |
+
+8 |
+
+1'10 |
+
+1'10 |
+
+7 |
+
+1'05 |
+
+1'05 |
+
+6 |
+
+1' |
+
+1' |
+
+5 |
+
+0'50 |
+
+0'50 |
+
+4 |
+
+0'40 |
+
+0'40 |
+
+3 |
+
+0'30 |
+
+0'30 |
+
+2 |
+
+0'20 |
+
+0'20 |
+
+1 |
+
+0'10 |
+
+0'10 |
+
+0 |
+
+0' |
+
+0' |
+
+4. Quatrième épreuve : natation
+
+4.1. Déroulement
+
+Cette épreuve consiste à parcourir 100 m sans interruption, en nage libre, puis à entreprendre aussitôt après une apnée en immersion complète sur 10 m.
+
+4.2. Règlement
+
+La natation et l'apnée doivent se faire en continu. Tout candidat marquant une pause supérieure à 5 s avant de débuter son apnée obtient une note correspondant à la performance « 100 m ».
+
+Il est interdit de prendre pied au fond du bassin.
+
+En cas d'arrêt lors de l'épreuve, la distance effectuée sera prise en compte à cet endroit.
+
+Le chronomètre s'arrête au passage de la ligne des 10 m d'apnée.
+
+Les équipements suivants sont autorisés : lunettes, bouchons d'oreilles, pince nez et maillot de bain une pièce (pas de short de bain).
+
+Le bonnet de bain est obligatoire.
+
+4.3. Barème
+
+Note |
+
+Homme |
+
+Femme |
+
+Natation (en secondes) |
+
+20 |
+
+100 |
+
+120 |
+
+19 |
+
+110 |
+
+130 |
+
+18 |
+
+120 |
+
+140 |
+
+17 |
+
+130 |
+
+150 |
+
+16 |
+
+140 |
+
+160 |
+
+15 |
+
+150 |
+
+170 |
+
+14 |
+
+160 |
+
+180 |
+
+13 |
+
+170 |
+
+190 |
+
+12 |
+
+180 |
+
+200 |
+
+11 |
+
+190 |
+
+210 |
+
+Natation (en mètres) |
+
+10 |
+
+100 + 10 (apnée) |
+
+100 + 10 (apnée) |
+
+9 |
+
+/ |
+
+/ |
+
+8 |
+
+100 + 5 (apnée) |
+
+100 + 5 (apnée) |
+
+7 |
+
+/ |
+
+/ |
+
+6 |
+
+100 |
+
+100 |
+
+5 |
+
+75 |
+
+75 |
+
+4 |
+
+50 |
+
+50 |
+
+3 |
+
+25 |
+
+25 |
+
+2 |
+
+0 |
+
+0 |
+
+1 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+5. Notation
+
+Chacune des quatre épreuves sportives est notée de 0 à 20.
+
+Le résultat final des épreuves sportives est noté de 0 à 20. Il correspond à la moyenne des notes des quatre épreuves sportives, arrêtée à la première décimale (un chiffre après la virgule).
+
+Cette note finale est affectée d'un coefficient 2 dans la notation finale des épreuves d'admission.
+
+6. Conditions de réalisation des épreuves sportives
+
+Chaque épreuve s'effectue en tenue de sport adaptée. Les chaussures à pointes sont interdites.
+
+Ces épreuves sportives nécessitent que les candidats :
+
+- se préparent physiquement avant la convocation aux épreuves ;
+
+- s'échauffent avant l'épreuve ;
+
+- reconnaissent les installations et en fassent le tour.
