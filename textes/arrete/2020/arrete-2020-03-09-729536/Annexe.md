@@ -1368,6 +1368,14 @@ Dans la limite de 200 milles nautiques d'un abri.
 
 A l'exclusion des activités dérivées du surf de mer. |
 
+BP JEPS, spécialité " éducateur sportif ", mention " sports de contact et disciplines associées ", délivré jusqu'au 1er juillet 2025.
+
+|
+
+Encadrement, initiation et conduite de cycles d'apprentissage en sports de contact et disciplines associées. |
+
+|
+
 C-4.-Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport et diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport (DE JEPS ET DES JEPS)
 
 INTITULÉ DU DIPLÔME |
@@ -2086,6 +2094,22 @@ Encadrement du longe-côte. |
 
 |
 
+DE JEPS, spécialité " performance sportive ", mention " football américain ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Encadrement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+
+|
+
+DE JEPS spécialité " perfectionnement sportif " mention " canoë-kayak et disciplines associées en eau vive " jusqu'au 1er janvier 2025.
+
+|
+
+Encadrement du longe-côte. |
+
+|
+
 C-5.-Diplôme d'Etat des métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne
 
 INTITULÉ DU DIPLÔME |
@@ -2296,21 +2320,51 @@ CONDITIONS D'EXERCICE |
 
 LIMITES DES CONDITIONS D'EXERCICE |
 
-Moniteur de football, délivré jusqu'au 19 mai 2023. |
+Moniteur de football, délivré jusqu'au 19 mai 2023.
+
+|
 
 Conduite de cycles d'apprentissage et entraînement de la pratique du football. |
 
 |
 
-Entraîneur formateur de football, délivré du 27 mars 2023 au 27 mars 2025. |
+Entraîneur formateur de football, délivré du 27 mars 2023 au 27 mars 2025.
+
+|
 
 Encadrement et entraînement en football dans une structure de préformation ou de formation. |
 
 |
 
-Entraîneur professionnel de football, délivré du 27 mars 2023 au 27 mars 2025. |
+Entraîneur professionnel de football, délivré du 27 mars 2023 au 27 mars 2025.
+
+|
 
 Encadrement et entraînement en football, dans un club professionnel. |
+
+|
+
+Adjoint éducateur sportif opérationnel délivré jusqu'au 17 juillet 2025.
+
+|
+
+Animation des activités physiques ou sportives. |
+
+Sous le contrôle d'un titulaire de diplôme ou titre de niveau 4. |
+
+Educateur sportif opérationnel délivré jusqu'au 16 juin 2025.
+
+|
+
+Animation auprès de tout public des activités physiques ou sportives à des fins d'initiation, de découverte, de loisir, de développement et de maintien des capacités physiques individuelles. |
+
+Toute activité physique ou sportive auprès de tout public, à l'exclusion des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique. |
+
+Chef d'équipe éducateur sportif opérationnel jusqu'au 17 juillet 2025.
+
+|
+
+Conduite de séances et de programmes d'entraînement des activités physiques et sportives |
 
 |
 
@@ -3237,5 +3291,21 @@ Encadrement et conduite de séances d'entraînement d'activités de vol en souff
 CQP " animateur de badminton ", délivré du 25 avril 2022 jusqu'au 25 avril 2025. |
 
 Encadrement de séances collectives en badminton. |
+
+|
+
+CQP animateur d'athlétisme, option " école d'athlé " ou option " athlé forme santé " du 19 juillet 2023 jusqu'au 19 juillet 2025.
+
+|
+
+Animation de séances d'activités de découverte et d'initiation en athlétisme dans l'option concernée. |
+
+Pour l'option " école d'athlé " : pour des publics de moins de seize ans et dans la limite de vingt pratiquants. |
+
+CQP " animateur de mobilité à vélo ", délivré du 20 juillet 2022 jusqu'au 20 juillet 2025.
+
+|
+
+Animation de séances d'éducation à la mobilité à vélo, de l'initiation jusqu'à l'autonomie du pratiquant. |
 
 |
