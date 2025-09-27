@@ -1,7 +1,5 @@
 # Article Annexe
 
-ANNEXE
-
 Corps et Grades |
 
 2023 |
@@ -182,7 +180,7 @@ Maîtres de conférences des écoles d'architecture hors classe |
 
 |
 
-|
+10 % |
 
 Corps des professeurs des écoles nationales d'architecture
 
@@ -202,7 +200,7 @@ Professeur des écoles d'architecture de 1re classe |
 
 |
 
-|
+18 % |
 
 Professeur des écoles d'architecture de classe exceptionnelle 1er échelon |
 
@@ -210,7 +208,7 @@ Professeur des écoles d'architecture de classe exceptionnelle 1er échelon |
 
 |
 
-|
+15 % |
 
 Professeur des écoles d'architecture de classe exceptionnelle 2e échelon |
 
@@ -218,7 +216,7 @@ Professeur des écoles d'architecture de classe exceptionnelle 2e échelon |
 
 |
 
-|
+15 % |
 
 Filières technique et métiers d'art |
 
