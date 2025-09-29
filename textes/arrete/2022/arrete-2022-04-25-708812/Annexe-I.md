@@ -242,15 +242,15 @@ E.-Emplois relevant du groupe 3 :
 
 58° Officier général, directeur de l'audit interne des armées à l'inspection des armées ;
 
-59° Médecin-chef de l'hôpital d'instruction des armées Sainte Anne ;
+59° Médecin-chef de l'hôpital national d'instruction des armées (HNIA) Sainte-Anne ;
 
-60° Médecin-chef de l'hôpital d'instruction des armées Laveran ;
+60° Médecin-chef de l'hôpital national d'instruction des armées (HNIA) Laveran ;
 
-61° Médecin-chef de l'hôpital d'instruction des armées Percy ;
+61° Médecin-chef de l'hôpital national d'instruction des armées (HNIA) Percy ;
 
-62° Médecin-chef de l'hôpital d'instruction des armées Bégin ;
+62° Médecin-chef de l'hôpital national d'instruction des armées (HNIA) Bégin ;
 
-63° Médecin-chef de l'hôpital d'instruction des armées Clermont-Tonnerre ;
+63° Médecin-chef de l'hôpital national d'instruction des armées (HNIA) Clermont-Tonnerre ;
 
 64° Directeur des systèmes d'information et du numérique en santé ;
 
@@ -274,7 +274,7 @@ E.-Emplois relevant du groupe 3 :
 
 74° Directeur central adjoint du service d'infrastructure de la défense ;
 
-75° Directeur central adjoint de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense ;
+75° Chargé des fonctions de chef du service “ gouvernance et stratégie ” de la direction centrale du commissariat au numérique de défense ;
 
 76° Chef de la division “ infrastructure et énergie opérationnelle ” de l'état-major des armées ;
 
@@ -338,7 +338,7 @@ E.-Emplois relevant du groupe 3 :
 
 106° Adjoint au commandant du corps de réaction rapide européen ;
 
-107° Directeur de l'agence du numérique de défense ;
+107° Chargé des fonctions de chef du service “ commandement numérique interarmées ” de la direction centrale du commissariat au numérique de défense ;
 
 108° Chargé de projet “ simplification du fonctionnement de l'armée de terre ” auprès de l'inspecteur de l'armée de terre ;
 
@@ -360,7 +360,7 @@ F.-Emplois relevant du groupe 4 :
 
 3° Délégué adjoint à l'information et à la communication de la défense ;
 
-4° Directeur général adjoint du numérique et des systèmes d'information et de communication ;
+4° (Transféré) ;
 
 5° Directeur de la circulation aérienne militaire à la direction de la sécurité aéronautique d'Etat ;
 
@@ -430,7 +430,7 @@ F.-Emplois relevant du groupe 4 :
 
 38° Directeur adjoint des hôpitaux des armées ;
 
-39° Chef de la division opérations de la direction centrale de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense ;
+39° Chargé des fonctions de chef du service “ ressources humaines, métiers et compétences ” de la direction centrale du commissariat au numérique de défense ;
 
 40° Officier général adjoint “ environnement des opérations/ logistique ” au chef du centre de planification et de conduite des opérations ;
 
@@ -628,11 +628,11 @@ G.-Emplois relevant du groupe 5 :
 
 7° Adjoint au directeur du service de l'énergie opérationnelle ;
 
-8° Officier général chargé des fréquences de la direction générale du numérique et des systèmes d'information et de communication ;
+8° Officier général chargé des fréquences au commissariat au numérique de défense ;
 
 9° Chef de la mission de retour à la vie civile des officiers généraux ;
 
-10° (Transféré) ;
+10° Adjoint au chef du service “ fabrique numérique ” de la direction centrale du commissariat au numérique de défense ;
 
 11° (Transféré) ;
 
@@ -648,7 +648,7 @@ G.-Emplois relevant du groupe 5 :
 
 17° Directeur du centre des hautes études militaires ;
 
-18° Chef de la division " performance " de la direction centrale de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense ;
+18° Adjoint à l'officier général chargé des fonctions de chef du service “ commandement numérique interarmées ” de la direction centrale du commissariat au numérique de défense ;
 
 19° Chargé de mission auprès du directeur central du service du commissariat des armées ;
 
@@ -700,7 +700,7 @@ G.-Emplois relevant du groupe 5 :
 
 43° Commandant de l'école du matériel ou commandant de l'école du train et de la logistique opérationnelle (1) ;
 
-44° Officier général adjoint performance ;
+44° Commandant de la brigade franco-allemande ;
 
 45° Officiel général adjoint soutiens ;
 
@@ -822,7 +822,7 @@ G.-Emplois relevant du groupe 5 :
 
 104° Officier général influence ;
 
-105° Médecin-chef de l'hôpital d'instruction des armées Legouest ;
+105° Médecin-chef de l'hôpital régional d'instruction des armées (HRIA) Legouest ;
 
 106° Chargé de mission auprès du major général des armées ;
 
@@ -862,4 +862,4 @@ G.-Emplois relevant du groupe 5 :
 
 NOTA :
 
-Conformément à l’article 4 de l’arrêté du 1er août 2025 (NOR : ARMH2522684A), ces dispositions, dans leur rédaction issue de l’arrêté précité sont applicables aux rémunérations versées à compter du mois d'août 2025.
+Conformément à l’article 4 de l’arrêté du 19 septembre 2025 (NOR : ARMH2526092A), ces dispositions, dans leur rédaction résultant de l’article 1 dudit arrêté, sont applicables aux rémunérations versées à compter du mois de septembre 2025.
