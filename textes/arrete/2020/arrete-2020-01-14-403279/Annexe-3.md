@@ -32,7 +32,7 @@ Devis détaillé des travaux |
 
 Formulaire CERFA de désignation d'un mandataire de gestion administrative |
 
-A compter du 1er janvier 2026, uniquement pour les travaux et prestations visés du 2 au 12 de l'annexe 1 du décret du 14 janvier 2020 susvisé, hors logements situés en Guadeloupe, en Martinique, à La Réunion ou à Mayotte et hors travaux ou prestations visés aux troisième et quatrième alinéas du V de l'article 1 du décret du 14 janvier 2020 susvisé : diagnostic de performance énergétique ou audit énergétique visés au 3° du I de l'article 4 du présent arrêté |
+A compter du 1er janvier 2027, uniquement pour les travaux et prestations visés du 2 au 12 de l'annexe 1 du décret du 14 janvier 2020 susvisé, hors logements situés en Guadeloupe, en Martinique, à La Réunion ou à Mayotte et hors travaux ou prestations visés aux troisième et quatrième alinéas du V de l'article 1 du décret du 14 janvier 2020 susvisé : diagnostic de performance énergétique ou audit énergétique visés au 3° du I de l'article 4 du présent arrêté, le cas échéant complété par l'attestation associée définie aux articles 3 et 4 de l'arrêté du 13 août 2025 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au diagnostic de performance énergétique |
 
 Uniquement pour les travaux et prestations visés du 2 au 13-2 de l'annexe 1 du décret du 14 janvier 2020 susvisé : cadre de contribution CEE ou MDE, le cas échéant |
 
@@ -42,7 +42,7 @@ Uniquement pour l'ensemble de travaux visé au 15 de l'annexe 1 du décret du 14
 
 -synthèse de grille d'analyse du logement ;
 
--rapport de l'audit énergétique visé au 2° du I de l'article 4 du présent arrêté ;
+-rapport de l'audit énergétique visé au 2° du I de l'article 4 du présent arrêté, le cas échéant complété par l'attestation définie à l'article 4 de l'arrêté du 13 août 2025 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au diagnostic de performance énergétique ;
 
 -attestation de travaux " devis " (modèle en annexe 1 de l'arrêté du 17 novembre 2020 susvisé). |
 
@@ -78,7 +78,7 @@ Uniquement si le demandeur a fourni une promesse synallagmatique de vente lors d
 
 Uniquement pour l'ensemble de travaux visé au 15 de l'annexe 1 du décret du 14 janvier 2020 susvisé :
 
--Rapport de l'audit énergétique visé au 2° du I de l'article 4 du présent arrêté, actualisé le cas échéant
+-Rapport de l'audit énergétique visé au 2° du I de l'article 4 du présent arrêté, actualisé le cas échéant, et complété le cas échéant par l'attestation définie à l'article 4 de l'arrêté du 13 août 2025 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au diagnostic de performance énergétique ;
 
 -Attestation de travaux " factures " (modèle en annexe 1 de l'arrêté du 17 novembre 2020 susvisé) actualisée le cas échéant ;
 
@@ -88,4 +88,4 @@ Uniquement pour l'ensemble de travaux visé au 15 de l'annexe 1 du décret du 14
 
 NOTA :
 
-Conformément à l’article 6 de l’arrêté du 16 juin 2025 (NOR : ATDL2514285A), ces dispositions entrent en vigueur le 1er juillet 2025 et s'appliquent à tous les mandats signés à compter de cette date. Elles sont sans incidence sur les mandats signés avant cette date..
+Conformément au premier alinéa de l'article 6 de l'arrêté du 8 septembre 2025 (NOR : ATDL2523962A), ces dispositions, dans leur rédaction issue de l'article 5 de l'arrêté précité, entrent en vigueur le 30 septembre 2025 et s'appliquent aux demandes de primes déposées à compter de cette même date.

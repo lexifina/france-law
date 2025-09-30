@@ -374,41 +374,25 @@ Tableau 2.-Dépense visée au 15 de l'annexe 1 du décret n° 2020-26 du 14 janv
 
 Plafond de dépense éligible (HT) |
 
-Ménages
-
-aux ressources intermédiaires |
+Ménages aux ressources intermédiaires |
 
 Ménages
 
-aux ressources supérieures |
+aux ressources
+
+supérieures |
 
 Ensemble de travaux associé à un gain de 2 classes au sens du I de l'article 3 du présent arrêté |
 
-40 000 € |
+30 000 € |
 
 45 % de la dépense éligible |
 
 10 % de la dépense éligible |
 
-Ensemble de travaux associé à un gain de 3 classes au sens du I de l'article 3 du présent arrêté |
+Ensemble de travaux associé à un gain de 3 classes ou plus au sens du I de l'article 3 du présent arrêté |
 
-55 000 € |
-
-50 % de la dépense éligible |
-
-15 % de la dépense éligible |
-
-Ensemble de travaux associé à un gain de 4 classes ou plus au sens du I de l'article 3 du présent arrêté |
-
-70 000 € |
-
-20 % de la dépense éligible |
-
-Majoration visée au septième alinéa du I de l'article 3 du décret du 14 janvier 2020 |
-
-+ 10 % de la dépense éligible |
-
-+ 10 % de la dépense éligible |
+40 000 € |
 
 Tableau 3.-Dépense visée au 15 bis de l'annexe 1 du décret n° 2020-26 du 14 janvier 2020 relatif à la prime de transition énergétique
 
@@ -434,6 +418,4 @@ Mission d'accompagnement par un opérateur agréé prévue à l'article L. 232-3
 
 NOTA :
 
-Conformément à l’article 6 de l’arrêté du 4 décembre 2024 (NOR : LRUL2427040A), ces dispositions entrent en vigueur le 1er janvier 2025 et s'appliquent aux demandes de primes déposées à compter de cette même date.
-
-Par décision n° 501151 du 11 mars 2026 du Conseil d’Etat statuant au contentieux, ECLI:FR:CECHR:2026:501151.20260311, le 1° de l’article 4 de l’arrêté du 4 décembre 2024 (NOR : LRUL2427040A) modifiant l'arrêté du 14 janvier 2020 relatif à la prime de transition énergétique est annulé.
+Conformément au premier alinéa de l'article 6 de l'arrêté du 8 septembre 2025 (NOR : ATDL2523962A), ces dispositions, dans leur rédaction issue du 2° de l'article 4 de l'arrêté précité, entrent en vigueur le 30 septembre 2025 et s'appliquent aux demandes de primes déposées à compter de cette même date.
