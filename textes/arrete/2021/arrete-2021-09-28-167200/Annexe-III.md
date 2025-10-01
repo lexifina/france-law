@@ -154,7 +154,7 @@ C. I. A. - Critères directement liés à la fiche d'opération standardisée :
 
 3. La PAC n'assure pas le chauffage des surfaces chauffées ;
 
-4. La PAC ou le régulateur ne correspond pas aux mentions indiquées sur la preuve de la réalisation de l'opération (marque, référence). Le rapport est accompagné d'une photo de la plaque signalétique ;
+4) La PAC ne correspond pas aux mentions indiquées sur la preuve de la réalisation de l'opération (marque, référence). Le rapport est accompagné d'une photo de la plaque signalétique ;
 
 5. L'efficacité énergétique saisonnière (η s) de la PAC selon le règlement (UE) 813/2013 de la Commission du 2 août 2013 est inférieure à l'efficacité énergétique saisonnière exigée par la fiche d'opération standardisée ;
 
@@ -1924,9 +1924,9 @@ Dans le cas où l'opération concerne l'achat ou la location de plus de 5 véhic
 
 L'existence d'au moins un écart sur les véhicules contrôlés ou l'absence sur site du véhicule choisi pour être soumis à contrôle conduit à un résultat non satisfaisant du contrôle.
 
-AU. Fiche d'opération standardisée TRA-EQ-117 "Achat ou location d'un véhicule léger électrique neuf ou opération de rétrofit électrique d'un véhicule léger par des particuliers" concernant les opérations bonifiées :
+AU. Fiche d'opération standardisée TRA-EQ-117 " Achat ou location d'un véhicule léger électrique neuf ou opération de rétrofit électrique d'un véhicule léger par des personnes physiques " concernant les opérations bonifiées :
 
-AU. I. Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de l'opération, les critères suivants doivent conduire à un classement "non satisfaisant" de l'opération pour les contrôles sur le lieu des opérations :
+AU. I. Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de l'opération, les critères suivants doivent conduire à un classement " non satisfaisant " de l'opération pour les contrôles sur le lieu des opérations :
 
 1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ;
 
@@ -1944,7 +1944,9 @@ AU. I. Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de
 
 8. Dans le cas d'une bonification prévue par l'article 4 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, l'adresse de livraison du véhicule ne correspond pas à une zone non interconnectée au réseau métropolitain continental de transport d'électricité.
 
-9. Dans le cas d'une bonification prévue par le VIII de l'article 3-7-3, de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le véhicule ne vérifie pas, au moment de l'achèvement de l'opération, la condition mentionnée au 3° de l'article D. 251-1 du code de l'énergie, un coût d'acquisition inférieur ou égal à 47 000 euros toutes taxes comprises (incluant le cas échéant le coût d'acquisition ou de location de la batterie) et une masse en ordre de marche inférieure à 2 400 kg.
+9. Dans le cas d'une bonification prévue par le 1° du VIII de l'article 3-7-3, de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le véhicule ne vérifie pas, au moment de l'achèvement de l'opération, la condition mentionnée au 3° de l'article D. 251-1 du code de l'énergie, un coût d'acquisition inférieur ou égal à 47 000 euros toutes taxes comprises (incluant le cas échéant le coût d'acquisition ou de location de la batterie) et une masse en ordre de marche inférieure à 2 400 kg.
+
+10. Dans le cas d'une bonification prévue par le 2° du VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le véhicule ne vérifie pas, au moment de l'achèvement de l'opération, l'ensemble des conditions énoncées à l'alinéa précédent ou ne vérifie pas, au moment de l'achèvement de l'opération, la condition relative au site de fabrication du véhicule et au site de production de la batterie du véhicule mentionnée au 2°, complété par le 5°, du VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie.
 
 Les vérifications sont effectuées au lieu, désigné par le bénéficiaire, de disponibilité des pièces nécessaires au contrôle.
 
@@ -2292,4 +2294,4 @@ Si au moins l'un des identifiants des vélos-cargos n'est pas inscrit au fichier
 
 NOTA :
 
-Conformément à l’article 7 de l’arrêté du 18 août 2025 (NOR : ECOR2522127A), ces dispositions, dans leur rédaction résultant de l'article 5 de l'arrêté précité, sont applicables aux opérations engagées à compter du 1er septembre 2025.
+Conformément à l’article 8 de l’arrêté du 8 septembre 2025 septembre 2025 (NOR : ECOR2524330A) et à l'article 4 de l'arrêté du 6 septembre 2025, ces dispositions, dans leur rédaction résultant des arrêtés précités, entrent en vigueur le 1er octobre 2025.
