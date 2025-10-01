@@ -136,7 +136,7 @@ Personnel ouvrier du Conservatoire national des arts et métiers.
 
 |
 
-Décret n° 2582 du 24 août 1942 relatif au personnel ouvrier du Conservatoire national des arts et métiers.
+Décret n° 2582 du 24 août 1942 relatif au personnel ouvrier du Conservatoire national des arts et métiers (abrogé à compter du 1er octobre 2025).
 
 |
 
@@ -144,7 +144,7 @@ Personnel ouvrier du Centre national de la recherche scientifique.
 
 |
 
-Décret n° 47-2097 du 22 octobre 1947 fixant le statut du personnel ouvrier des établissements et services extérieurs du Centre national de la recherche scientifique.
+Décret n° 47-2097 du 22 octobre 1947 fixant le statut du personnel ouvrier des établissements et services extérieurs du Centre national de la recherche scientifique (abrogé à compter du 1er octobre 2025).
 
 |
 
@@ -200,7 +200,7 @@ Personnel ouvrier de la direction générale de l'aviation civile et de Météo-
 
 |
 
-Décret du 8 janvier 1936 modifié fixant le statut du personnel ouvrier des établissements et services extérieurs du ministère de l'air.
+Décret du 8 janvier 1936 modifié fixant le statut du personnel ouvrier des établissements et services extérieurs du ministère de l'air (abrogé à compter du 1er octobre 2025).
 
 |
 
@@ -233,3 +233,7 @@ Ouvriers occupant des emplois permanents dans certains services extérieurs rele
 Décret n° 59-581 du 24 avril 1959 relatif au régime des retraites des ouvriers occupant des emplois permanents dans certains services extérieurs relevant de la direction générale du génie rural et de l'hydraulique agricole.
 
 |
+
+NOTA :
+
+Conformément à l'article 59 du décret n° 2025-694 du 23 juillet 2025, ces dispositions entrent en vigueur à compter du 1er octobre 2025.
