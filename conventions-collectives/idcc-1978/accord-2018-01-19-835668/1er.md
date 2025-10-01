@@ -1,3 +1,0 @@
-# Article 1er
-
-Le présent accord s'applique aux entreprises visées à l'article 1.1 de la convention collective nationale des fleuristes, de la vente et des services des animaux familiers du 21 janvier 1997 étendue, modifié par l'avenant n° 12 du 7 avril 2016 étendu. Le champ d'application du présent accord étant national, il s'applique en Guadeloupe, Guyane, Martinique, Mayotte, La Réunion, Saint-Barthélemy, Saint-Martin, et à Saint-Pierre-et-Miquelon, dans un délai de 6 mois à compter de sa date d'entrée en vigueur.
