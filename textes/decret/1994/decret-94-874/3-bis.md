@@ -1,3 +1,0 @@
-# Article 3 bis
-
-La nomination en qualité de fonctionnaire stagiaire d'une personne ayant satisfait à l'une des procédures de recrutement prévues aux articles L. 325-1 et L. 523-1 du code général de la fonction publique est reportée, à sa demande, lorsqu'elle justifie, sur production d'un certificat médical établi par un médecin agréé et, en cas de contestation de ce certificat par l'intéressé ou par l'autorité compétente, après avis du conseil médical compétent, que son état de santé fait obstacle à sa nomination. Ce report ne peut excéder une année. Toutefois, lorsque le stage se déroule dans un établissement assurant la formation de fonctionnaires, la nomination peut être reportée à la date de l'entrée en formation de la promotion suivante.
