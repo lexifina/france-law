@@ -1,3 +1,0 @@
-# Article 1er
-
-Le présent accord s'applique à l'ensemble des cabinets entrant dans le champ d'application de la convention collective nationale réglant les rapports entre les avocats et leur personnel.

@@ -1,5 +1,0 @@
-# Article 5 bis
-
-Les personnels accédant à la formation qui s'y rapporte dans le cadre d'un contrat de professionnalisation ou d'un contrat d'apprentissage sont classés au niveau 3 de la filière technique, 4e échelon, coefficient 350, de la classification référencée à l'avenant n° 50 à la convention collective nationale du 20 février 1979.
-
-Le titre professionnel de juriste en cabinet d'avocat confère au minimum l'attribution du niveau 2 de la filière technique, 1er échelon, coefficient 385, de la classification référencée à l'avenant n° 50 à la convention collective nationale du 20 février 1979.
