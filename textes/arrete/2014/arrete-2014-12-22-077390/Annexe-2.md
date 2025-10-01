@@ -994,11 +994,15 @@ nominal (DN)
 
 de la canalisation
 
-(mm) |
+(mm)
+
+|
 
 Zone
 
-climatique |
+climatique
+
+|
 
 Montant en kWhcumac
 
@@ -1006,7 +1010,9 @@ par housse isolante
 
 mise en place
 
-50°C ≤ Tfluide ≤ 120°C |
+50°C ≤ Tfluide ≤ 120°C
+
+|
 
 Montant en kWhcumac
 
@@ -1014,7 +1020,9 @@ par housse isolante
 
 mise en place
 
-Tfluide > 120°C |
+Tfluide > 120°C
+
+|
 
 |
 
@@ -1022,7 +1030,9 @@ Nombre
 
 de housses isolantes
 
-mises en place |
+mises en place
+
+|
 
 20 ≤ DN ≤ 65 |
 
@@ -2746,21 +2756,27 @@ Mise en place d'une pompe à chaleur (PAC) de type air/ eau.
 
 Ne donnent pas lieu à la délivrance de certificats d'économies d'énergie au titre de la présente fiche, les PAC associées à un autre système de chauffage et les PAC utilisées uniquement pour le chauffage de l'eau chaude sanitaire.
 
-La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-148 " Chauffe-eau thermodynamique à accumulation " si la PAC installée au titre de la présente fiche est utilisée pour le chauffage et l'eau chaude sanitaire.
+La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-148 Chauffe-eau thermodynamique à accumulation si la PAC installée au titre de la présente fiche est utilisée pour le chauffage et l'eau chaude sanitaire.
 
-La présente fiche s'applique aux opérations engagées jusqu'au 30 juin 2028.
+La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-143 Système solaire combiné (France métropolitaine) .
+
+La présente fiche s'applique aux opérations engagées jusqu'au 31 décembre 2030.
 
 3. Conditions pour la délivrance de certificats
 
 La mise en place est réalisée par un professionnel.
 
-Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôtset du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôtset des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 5° (dans le cas d'une PAC assurant uniquement le chauffage du logement) ou du 5° et du 6° (dans le cas d'une PAC assurant le chauffage du logement et de l'eau chaude sanitaire) du I de l'article 1er du décretprécité.
+Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 5° (dans le cas d'une PAC assurant uniquement le chauffage du logement) ou du 5° et du 6° (dans le cas d'une PAC assurant le chauffage du logement et de l'eau chaude sanitaire) du I de l'article 1 er du décret précité.
 
-L'efficacité énergétique saisonnière pour le chauffage des locaux (η s) de la PAC selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013, déterminée selon l'application de la PAC installée, est supérieure ou égale à :
+L'efficacité énergétique saisonnière pour le chauffage des locaux (η s) de la PAC selon le règlement (EU) n° 813/2013 de la commission du 2 août 2013, déterminée selon l'application de la PAC installée, est supérieure ou égale à :
 
 -126 % pour une application basse température au sens du règlement susmentionné ;
 
 -111 % pour une application moyenne ou haute température.
+
+Pour les émetteurs de type : plancher chauffant, plafond chauffant et mur chauffant, la pompe à chaleur installée est d'application basse température et l'Etas à 35° C est à considérer.
+
+Pour tous les autres types d'émetteurs, y compris les solutions mixtes (ex. : radiateurs et plancher chauffant) ainsi que les radiateurs dits basse température à régime d'eau 45° C, la PAC installée est d'application moyenne ou haute température et l'Etas à 55° C est à considérer.
 
 La PAC est équipée d'un régulateur relevant de l'une des classes IV, V, VI, VII ou VIII telles que définies au paragraphe 6.1 de la communication de la Commission 2014/ C 207/02.
 
@@ -2774,9 +2790,9 @@ La preuve de la réalisation de l'opération mentionne :
 
 -l'usage de la pompe à chaleur (chauffage ; chauffage et eau chaude sanitaire) ; et
 
--l'efficacité énergétique saisonnière (η s) selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013 déterminée selon l'application de la PAC installée ; et
+-l'efficacité énergétique saisonnière (η s) selon le règlement (EU) n° 813/2013 de la commission du 2 août 2013 déterminée selon l'application de la PAC installée ; et
 
--l'installation d'un régulateur ainsi que la classe, la marque et la référence de celui-ci.
+-l'installation d'un régulateur ainsi que la classe de celui-ci.
 
 L'efficacité énergétique saisonnière prise en compte est celle de la pompe à chaleur seule pour les besoins de chauffage des locaux (hors dispositif de régulation).
 
@@ -2790,9 +2806,9 @@ Ce document indique :
 
 -l'usage de la pompe à chaleur (chauffage ; chauffage et eau chaude sanitaire) ; et
 
--l'efficacité énergétique saisonnière (η s) selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013 déterminée selon l'application de la PAC installée ; et
+-l'efficacité énergétique saisonnière (η s) selon le règlement (EU) n° 813/2013 de la commission du 2 août 2013 déterminée selon l'application de la PAC installée ; et
 
--que l'équipement est équipé d'un régulateur, en précisant la classe, la marque et la référence de celui-ci.
+-que l'équipement est équipé d'un régulateur, en précisant la classe de celui-ci.
 
 En cas de mention d'une date de validité, ce document est considéré comme valable jusqu'à un an après sa date de fin de validité.
 
@@ -2810,11 +2826,7 @@ Les documents justificatifs spécifiques à l'opération sont :
 
 Pour un appartement :
 
-Efficacité énergétique
-
-saisonnière (Etas)
-
-|
+Efficacité énergétique saisonnière (Etas) |
 
 Usage |
 
@@ -2824,7 +2836,9 @@ Montant kWhc |
 
 Facteur correctif selon la surface chauffée |
 
-Surface chauffée S en m2 |
+Surface chauffée S en m 2
+
+|
 
 |
 
@@ -2842,13 +2856,9 @@ géographique
 
 111 % ≤ Etas < 140 % |
 
-Chauffage
+Chauffage et ECS |
 
-et ECS
-
-|
-
-26 000 |
+54   000 |
 
 |
 
@@ -2864,7 +2874,7 @@ H1 |
 
 Chauffage |
 
-16 600 |
+38   400 |
 
 |
 
@@ -2880,13 +2890,9 @@ H2 |
 
 140 % ≤ Etas < 170 % |
 
-Chauffage
+Chauffage et ECS |
 
-et ECS
-
-|
-
-42 000 |
+62   300 |
 
 |
 
@@ -2902,7 +2908,7 @@ H3 |
 
 Chauffage |
 
-26 900 |
+44   300 |
 
 X |
 
@@ -2918,13 +2924,9 @@ X |
 
 170 % ≤ Etas < 200 % |
 
-Chauffage
+Chauffage et ECS |
 
-et ECS
-
-|
-
-52 700 |
+67   800 |
 
 |
 
@@ -2940,7 +2942,7 @@ et ECS
 
 Chauffage |
 
-33 700 |
+48   200 |
 
 |
 
@@ -2956,13 +2958,9 @@ Chauffage |
 
 200 % ≤ Etas |
 
-Chauffage
+Chauffage et ECS |
 
-et ECS
-
-|
-
-57 600 |
+70   300 |
 
 |
 
@@ -2978,7 +2976,7 @@ et ECS
 
 Chauffage |
 
-36 800 |
+50   000 |
 
 |
 
@@ -2994,11 +2992,7 @@ Chauffage |
 
 Pour une maison individuelle :
 
-Efficacité énergétique
-
-saisonnière (Etas)
-
-|
+Efficacité énergétique saisonnière (Etas) |
 
 Usage |
 
@@ -3008,13 +3002,13 @@ Montant kWhc |
 
 Facteur correctif selon la surface chauffée |
 
-Surface chauffée S en m2 |
+Surface chauffée S en m 2
 
 |
 
-Facteur correctif
+|
 
-selon la zone
+Facteur correctif selon la zone
 
 géographique
 
@@ -3028,13 +3022,9 @@ géographique
 
 111 % ≤ Etas < 140 % |
 
-Chauffage
+Chauffage et ECS |
 
-et ECS
-
-|
-
-47 800 |
+96   700 |
 
 |
 
@@ -3050,7 +3040,7 @@ H1 |
 
 Chauffage |
 
-37 600 |
+79   500 |
 
 |
 
@@ -3066,13 +3056,9 @@ H2 |
 
 140 % ≤ Etas < 170 % |
 
-Chauffage
+Chauffage et ECS |
 
-et ECS
-
-|
-
-77 300 |
+111   500 |
 
 |
 
@@ -3088,7 +3074,7 @@ H3 |
 
 Chauffage |
 
-60 800 |
+91   600 |
 
 X |
 
@@ -3104,13 +3090,9 @@ X |
 
 170 % ≤ Etas < 200 % |
 
-Chauffage
+Chauffage et ECS |
 
-et ECS
-
-|
-
-97 100 |
+121   400 |
 
 |
 
@@ -3126,7 +3108,7 @@ et ECS
 
 Chauffage |
 
-76 300 |
+99   700 |
 
 |
 
@@ -3142,13 +3124,9 @@ Chauffage |
 
 200 % ≤ Etas |
 
-Chauffage
+Chauffage et ECS |
 
-et ECS
-
-|
-
-106 000 |
+125   800 |
 
 |
 
@@ -3164,7 +3142,7 @@ et ECS
 
 Chauffage |
 
-83 300 |
+103   400 |
 
 |
 
@@ -3178,33 +3156,37 @@ Chauffage |
 
 |
 
-NB : la surface prise en compte est la surface chauffée par la PAC installée.
+Nota.-La surface prise en compte est la surface chauffée par la PAC installée.
 
-Annexe 1 à la fiche d'opération standardisée BAR-TH-171, définissant le contenu de la partie A de l'attestation sur l'honneur
+Annexe 1
 
-A/ BAR-TH-171 (v. A62.2) : Mise en place d'une pompe à chaleur (PAC) de type air/eau.
+A la fiche d'opération standardisée BAR-TH-171, définissant le contenu de la partie A de l'attestation sur l'honneur
 
-*Date d'engagement de l'opération (ex : date d'acceptation du devis) :
+A/ BAR-TH-171 (v. A74.3) : Mise en place d'une pompe à chaleur (PAC) de type air/eau.
+
+* Date d'engagement de l'opération (ex : date d'acceptation du devis) :
 
 Date de preuve de réalisation de l'opération (ex : date de la facture) :
 
 Référence de la facture :
 
-*Pour les personnes morales, nom du site des travaux ou nom de la copropriété :
+* Pour les personnes morales, nom du site des travaux ou nom de la copropriété :
 
-*Adresse des travaux :
+* Adresse des travaux :
 
 Complément d'adresse :
 
-*Code postal :
+* Code postal :
 
-*Ville :
+* Ville :
 
-*Bâtiment résidentiel existant depuis plus de 2 ans à la date d'engagement de l'opération : □ OUI □ NON
+* Bâtiment résidentiel existant depuis plus de 2 ans à la date d'engagement de l'opération : □ OUI □ NON
 
-*Type de logement : □ Maison individuelle □ Appartement
+* Type de logement : □ Maison individuelle □ Appartement
 
-*Surface chauffée par la PAC installée (m2) :
+* Le logement est occupé à titre de résidence principale : □ OUI □ NON
+
+* Surface chauffée par la PAC installée (m2) :
 
 Caractéristiques de la pompe à chaleur (PAC) :
 
@@ -3214,57 +3196,55 @@ Caractéristiques de la pompe à chaleur (PAC) :
 
 □ à moyenne ou haute température
 
-NB : Une application à basse température est une application dans laquelle un dispositif de chauffage des locaux par pompe à chaleur fournit sa puissance calorifique déclarée pour une température de sortie de l'échangeur thermique intérieur de 35 °C.
+NB. - Une application à basse température est une application dans laquelle un dispositif de chauffage des locaux par pompe à chaleur fournit sa puissance calorifique déclarée pour une température de sortie de l'échangeur thermique intérieur de 35 °C.
 
-NB : Une application à moyenne ou haute température est une application dans laquelle un dispositif de chauffage des locaux par pompe à chaleur fournit sa puissance calorifique déclarée pour une température de sortie de l'échangeur thermique intérieur d'au moins 55 °C.
+NB. - Une application à moyenne ou haute température est une application dans laquelle un dispositif de chauffage des locaux par pompe à chaleur fournit sa puissance calorifique déclarée pour une température de sortie de l'échangeur thermique intérieur d'au moins 55 °C.
 
-NB : Une solution mixte de chauffage des locaux associe différents types d'émetteurs de chauffage fonctionnant à basse température pour les uns et à moyenne ou haute température pour les autres ; elle est alors considérée comme une application à moyenne ou haute température.
+NB. - Une solution mixte de chauffage des locaux associe différents types d'émetteurs de chauffage fonctionnant à basse température pour les uns et à moyenne ou haute température pour les autres ; elle est alors considérée comme une application à moyenne ou haute température.
 
-*Classe du régulateur :
+* La PAC est équipée d'un régulateur : □ OUI □ NON
 
-*Efficacité énergétique saisonnière (ηs) (en %) :
+* Classe du régulateur :
 
-L'efficacité énergétique saisonnière (ηs) est calculée selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013.
+* Efficacité énergétique saisonnière (ηs) (en %) :
 
-NB : L'efficacité énergétique saisonnière prise en compte est celle de la pompe à chaleur seule pour les besoins de chauffage des locaux (hors dispositif de régulation).
+L'efficacité énergétique saisonnière (ηs) est calculée selon le règlement (EU) n° 813/2013 de la commission du 2 août 2013.
 
-*Usage couvert par la PAC :
+NB. - L'efficacité énergétique saisonnière prise en compte est celle de la pompe à chaleur seule pour les besoins de chauffage des locaux (hors dispositif de régulation).
+
+* Usage couvert par la PAC :
 
 □ Chauffage
 
 □ Chauffage et eau chaude sanitaire
 
-*Une note de dimensionnement a été remise au bénéficiaire : □ OUI □ NON
+* Une note de dimensionnement a été remise au bénéficiaire : □ OUI □ NON
 
 A ne remplir que si les marque et référence de la pompe à chaleur ne sont pas mentionnées sur la preuve de réalisation de l'opération :
 
-*Marque :
+* Marque :
 
-*Référence :
+* Référence :
 
-A ne remplir que si les marque et référence du régulateur ne sont pas mentionnées sur la preuve de réalisation de l'opération :
+NB. - La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-148 Chauffe-eau thermodynamique à accumulation si la PAC est utilisée pour le chauffage et l'eau chaude sanitaire.
 
-*Marque :
-
-*Référence :
-
-NB : La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-148 " Chauffe-eau thermodynamique à accumulation " si la PAC est utilisée pour le chauffage et l'eau chaude sanitaire.
+La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-143 Système solaire combiné (France métropolitaine) .
 
 Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 5° (dans le cas d'une PAC assurant uniquement le chauffage du logement) ou du 5° et du 6° (dans le cas d'une PAC assurant le chauffage du logement et de l'eau chaude sanitaire) du I de l'article 1er du décret précité.
 
 Identité du professionnel titulaire du signe de qualité ayant réalisé l'opération, s'il n'est pas le signataire de cette attestation (sous-traitant par exemple) :
 
-*Nom
+* Nom
 
-*Prénom
+* Prénom
 
-*Raison sociale :
+* Raison sociale :
 
-*N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
+* N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 Opération n° BAR-TH-172
 
-Pompe à chaleur de type eau/ eau ou sol/ eau |
+Pompe à chaleur de type eau/eau ou sol/eau |
 
 1. Secteur d'application
 
@@ -3272,65 +3252,71 @@ Maisons individuelles existantes.
 
 2. Dénomination
 
-Mise en place d'une pompe à chaleur (PAC) de type eau/ eau ou sol/ eau.
+Mise en place d'une pompe à chaleur (PAC) de type eau/eau ou sol/eau.
 
 Ne donnent pas lieu à la délivrance de certificats d'économies d'énergie au titre de la présente fiche, les PAC associées à un autre système de chauffage et les PAC utilisées uniquement pour le chauffage de l'eau chaude sanitaire.
 
+La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-143 Système solaire combiné (France métropolitaine) .
+
 La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-148 Chauffe-eau thermodynamique à accumulation si la PAC installée au titre de la présente fiche est utilisée pour le chauffage et l'eau chaude sanitaire.
 
-La présente fiche s'applique aux opérations engagées jusqu'au 30 juin 2028.
+La présente fiche s'applique aux opérations engagées jusqu'au 31 décembre 2030.
 
 3. Conditions pour la délivrance de certificats
 
 La mise en place est réalisée par un professionnel.
 
-Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôtset du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôtset des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 5° (dans le cas d'une PAC assurant uniquement le chauffage du logement) ou du 5° et du 6° (dans le cas d'une PAC assurant le chauffage du logement et de l'eau chaude sanitaire) du I de l'article 1er du décretprécité.
+Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 5° (dans le cas d'une PAC assurant uniquement le chauffage du logement) ou du 5° et du 6° (dans le cas d'une PAC assurant le chauffage du logement et de l'eau chaude sanitaire) du I de l'article 1er du décret précité.
 
-L'efficacité énergétique saisonnière pour le chauffage des locaux (η s) de la PAC selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013, déterminée selon l'application de la PAC installée, est supérieure ou égale à :
+L'efficacité énergétique saisonnière pour le chauffage des locaux (ηs) de la PAC selon le règlement (EU) n° 813/2013 de la commission du 2 août 2013, déterminée selon l'application de la PAC installée, est supérieure ou égale à :
 
--126 % pour une application basse température au sens du règlement susmentionné ;
+- 126 % pour une application basse température au sens du règlement susmentionné ;
 
--111 % pour une application moyenne ou haute température.
+- 111 % pour une application moyenne ou haute température.
 
-La PAC est équipée d'un régulateur relevant de l'une des classes IV, V, VI, VII ou VIII telles que définies au paragraphe 6.1 de la communication de la Commission 2014/ C 207/02.
+Pour les émetteurs de type : plancher chauffant, plafond chauffant et mur chauffant, la pompe à chaleur installée est d'application basse température et l'Etas à 35°C est à considérer.
+
+Pour tous les autres types d'émetteurs, y compris les solutions mixtes (ex. : radiateurs et plancher chauffant) ainsi que les radiateurs dits basse température à régime d'eau 45 °C, la PAC installée est d'application moyenne ou haute température et l'Etas à 55 °C est à considérer.
+
+La PAC est équipée d'un régulateur relevant de l'une des classes IV, V, VI, VII ou VIII telles que définies au paragraphe 6.1 de la communication de la Commission 2014/C 207/02.
 
 Le professionnel rédige une note de dimensionnement du générateur par rapport aux déperditions calculées à T = Tbase. Les déperditions concernent les pièces du logement desservies par le réseau de chauffage, sans considération des éventuels autres générateurs présents. Cette note est remise au bénéficiaire à l'achèvement des travaux.
 
 La preuve de la réalisation de l'opération mentionne :
 
--la mise en place d'une pompe à chaleur de type eau/ eau ou sol/ eau ; et
+- la mise en place d'une pompe à chaleur de type eau/eau ou sol/eau ; et
 
--le type d'application choisi pour l'installation de la pompe à chaleur (basse température ; moyenne ou haute température) ; et
+- le type d'application choisi pour l'installation de la pompe à chaleur (basse température ; moyenne ou haute température) ; et
 
--l'usage de la pompe à chaleur (chauffage ; chauffage et eau chaude sanitaire) ; et
+- l'usage de la pompe à chaleur (chauffage ; chauffage et eau chaude sanitaire) ; et
 
--l'efficacité énergétique saisonnière (η s) selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013 déterminée selon l'application de la PAC installée ; et
+- l'efficacité énergétique saisonnière (ηs) selon le règlement (EU) n° 813/2013 de la commission du 2 août 2013 déterminée selon l'application de la PAC installée ; et
 
--l'installation d'un régulateur ainsi que la classe, la marque et la référence de celui-ci.
+- l'installation d'un régulateur ainsi que la classe de celui-ci.
 
 L'efficacité énergétique saisonnière prise en compte est celle de la pompe à chaleur seule pour les besoins de chauffage des locaux (hors dispositif de régulation).
 
-A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'un équipement avec ses marque et référence et elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/ IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'un équipement avec ses marque et référence et elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Ce document indique :
 
--que l'équipement de marque et référence mis en place est une pompe à chaleur de type eau/ eau ou sol/ eau ; et
+- que l'équipement de marque et référence mis en place est une pompe à chaleur de type eau/eau ou sol/eau ; et
 
--le type d'application choisi pour l'installation de la pompe à chaleur (basse température ; moyenne ou haute température) ; et
+- le type d'application choisi pour l'installation de la pompe à chaleur (basse température ; moyenne ou haute température) ; et
 
--l'usage de la pompe à chaleur (chauffage ; chauffage et eau chaude sanitaire) ; et
+- l'usage de la pompe à chaleur (chauffage ; chauffage et eau chaude sanitaire) ; et
 
--l'efficacité énergétique saisonnière (η s) selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013 déterminée selon l'application de la PAC installée ; et
+- l'efficacité énergétique saisonnière (ηs) selon le règlement (EU) n° 813/2013 de la commission du 2 août 2013 déterminée selon l'application de la PAC installée ; et
 
--que l'équipement est équipé d'un régulateur, en précisant la classe, la marque et la référence de celui-ci.
+- que l'équipement est équipé d'un régulateur, en précisant la classe de celui-ci.
 
 En cas de mention d'une date de validité, ce document est considéré comme valable jusqu'à un an après sa date de fin de validité.
 
 Les documents justificatifs spécifiques à l'opération sont :
 
--la note de dimensionnement susmentionnée ;
+- la note de dimensionnement susmentionnée ;
 
--la décision de qualification ou de certification du professionnel délivrée selon les mêmes exigences que celles prévues à l'article 2 du décret susvisé.
+- la décision de qualification ou de certification du professionnel délivrée selon les mêmes exigences que celles prévues à l'article 2 du décret susvisé.
 
 4. Durée de vie conventionnelle
 
@@ -3352,7 +3338,9 @@ en kWhc
 
 Facteur correctif selon la surface chauffée |
 
-Surface chauffée S en m2 |
+Surface chauffée S en m2
+
+|
 
 |
 
@@ -3368,15 +3356,11 @@ géographique
 
 |
 
-111 % ≤ Etas < 140 % |
+111 %≤Etas<140 % |
 
-Chauffage
+Chauffage et ECS |
 
-et ECS
-
-|
-
-53 400 |
+108 100 |
 
 |
 
@@ -3392,7 +3376,7 @@ H1 |
 
 Chauffage |
 
-42 000 |
+88 800 |
 
 |
 
@@ -3406,15 +3390,11 @@ Chauffage |
 
 H2 |
 
-140 % ≤ Etas < 170 % |
+140 %≤Etas<170 % |
 
-Chauffage
+Chauffage et ECS |
 
-et ECS
-
-|
-
-86 400 |
+124 600 |
 
 |
 
@@ -3430,7 +3410,7 @@ H3 |
 
 Chauffage |
 
-67 900 |
+102 300 |
 
 X |
 
@@ -3444,15 +3424,11 @@ X |
 
 |
 
-170 % ≤ Etas < 200 % |
+170 %≤Etas<200 % |
 
-Chauffage
+Chauffage et ECS |
 
-et ECS
-
-|
-
-108 400 |
+135 600 |
 
 |
 
@@ -3468,7 +3444,7 @@ et ECS
 
 Chauffage |
 
-85 200 |
+111 400 |
 
 |
 
@@ -3482,53 +3458,11 @@ Chauffage |
 
 |
 
-200 % ≤ Etas < 230 % |
+200 %≤Etas<230 % |
 
-Chauffage
+Chauffage et ECS |
 
-et ECS
-
-|
-
-124 200 |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Chauffage |
-
-97 600 |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-230 % ≤ Etas |
-
-Chauffage
-
-et ECS
-
-|
-
-131 600 |
+143 500 |
 
 |
 
@@ -3544,7 +3478,7 @@ et ECS
 
 Chauffage |
 
-103 500 |
+117 900 |
 
 |
 
@@ -3558,55 +3492,95 @@ Chauffage |
 
 |
 
-NB : la surface prise en compte est la surface chauffée par la PAC installée.
+230 %≤Etas |
 
-Annexe 1 à la fiche d'opération standardisée BAR-TH-172, définissant le contenu de la partie A de l'attestation sur l'honneur
+Chauffage et ECS |
 
-A/ BAR-TH-172 (v. A62.2) : Mise en place d'une pompe à chaleur (PAC) de type eau/eau ou sol/eau.
+147 200 |
 
-*Date d'engagement de l'opération (ex : date d'acceptation du devis) :
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Chauffage |
+
+120 900 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Nota. - La surface prise en compte est la surface chauffée par la PAC installée.
+
+Annexe 1
+
+A la fiche d'opération standardisée BAR-TH-172, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ BAR-TH-172 (v. A74.3) : Mise en place d'une pompe à chaleur (PAC) de type eau/eau ou sol/eau.
+
+* Date d'engagement de l'opération (ex : date d'acceptation du devis) :
 
 Date de preuve de réalisation de l'opération (ex : date de la facture) :
 
 Référence de la facture :
 
-*Pour les personnes morales, nom du site des travaux ou nom de la copropriété :
+* Pour les personnes morales, nom du site des travaux ou nom de la copropriété :
 
-*Adresse des travaux :
+* Adresse des travaux :
 
 Complément d'adresse :
 
-*Code postal :
+* Code postal :
 
-*Ville :
+* Ville :
 
-*Bâtiment résidentiel existant depuis plus de 2 ans à la date d'engagement de l'opération : □ OUI □ NON
+* Bâtiment résidentiel existant depuis plus de 2 ans à la date d'engagement de l'opération : □ OUI □ NON
 
-*Le logement est une maison individuelle : □ OUI □ NON
+* Le logement est une maison individuelle : □ OUI □ NON
 
-*Surface chauffée par la PAC installée (m2) :
+* Le logement est occupé à titre de résidence principale : □ OUI □ NON
+
+* Surface chauffée par la PAC installée (m2) :
 
 Caractéristiques de la pompe à chaleur (PAC) :
 
-*La pompe à chaleur est de type eau/eau ou sol/eau et est installée pour une application :
+* La pompe à chaleur est de type eau/eau ou sol/eau et est installée pour une application :
 
 □ à basse température
 
 □ à moyenne ou haute température
 
-NB : Une application à basse température est une application dans laquelle un dispositif de chauffage des locaux par pompe à chaleur fournit sa puissance calorifique déclarée pour une température de sortie de l'échangeur thermique intérieur de 35 °C.
+NB. - Une application à basse température est une application dans laquelle un dispositif de chauffage des locaux par pompe à chaleur fournit sa puissance calorifique déclarée pour une température de sortie de l'échangeur thermique intérieur de 35 °C.
 
-NB : Une application à moyenne ou haute température est une application dans laquelle un dispositif de chauffage des locaux par pompe à chaleur fournit sa puissance calorifique déclarée pour une température de sortie de l'échangeur thermique intérieur d'au moins 55 °C.
+NB. - Une application à moyenne ou haute température est une application dans laquelle un dispositif de chauffage des locaux par pompe à chaleur fournit sa puissance calorifique déclarée pour une température de sortie de l'échangeur thermique intérieur d'au moins 55 °C.
 
-NB : Une solution mixte de chauffage des locaux associe différents types d'émetteurs de chauffage fonctionnant à basse température pour les uns et à moyenne ou haute température pour les autres ; elle est alors considérée comme une application à moyenne ou haute température.
+NB. - Une solution mixte de chauffage des locaux associe différents types d'émetteurs de chauffage fonctionnant à basse température pour les uns et à moyenne ou haute température pour les autres ; elle est alors considérée comme une application à moyenne ou haute température.
 
-*Classe du régulateur :
+La PAC est équipée d'un régulateur : □ OUI □ NON
 
-*Efficacité énergétique saisonnière (ηs) (en %) :
+* Classe du régulateur :
 
-L'efficacité énergétique saisonnière (ηs) est calculée selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013.
+* Efficacité énergétique saisonnière (ηs) (en %) :
 
-NB : L'efficacité énergétique saisonnière prise en compte est celle de la pompe à chaleur seule pour les besoins de chauffage des locaux (hors dispositif de régulation).
+L'efficacité énergétique saisonnière (ηs) est calculée selon le règlement (EU) n° 813/2013 de la commission du 2 août 2013.
+
+NB. - L'efficacité énergétique saisonnière prise en compte est celle de la pompe à chaleur seule pour les besoins de chauffage des locaux (hors dispositif de régulation).
 
 *Usage couvert par la PAC :
 
@@ -3614,33 +3588,29 @@ NB : L'efficacité énergétique saisonnière prise en compte est celle de la po
 
 □ Chauffage et eau chaude sanitaire
 
-*Une note de dimensionnement a été remise au bénéficiaire : □ OUI □ NON
+* Une note de dimensionnement a été remise au bénéficiaire : □ OUI □ NON
 
 A ne remplir que si les marque et référence de la pompe à chaleur ne sont pas mentionnées sur la preuve de réalisation de l'opération :
 
-*Marque :
+* Marque :
 
-*Référence :
-
-A ne remplir que si les marque et référence du régulateur ne sont pas mentionnées sur la preuve de réalisation de l'opération :
-
-*Marque :
-
-*Référence :
+* Référence :
 
 NB : La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-148 Chauffe-eau thermodynamique à accumulation si la PAC installée au titre de la présente fiche est utilisée pour le chauffage et l'eau chaude sanitaire.
+
+La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-143 Système solaire combiné (France métropolitaine) .
 
 Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 5° (dans le cas d'une PAC assurant uniquement le chauffage du logement) ou du 5° et du 6° (dans le cas d'une PAC assurant le chauffage du logement et de l'eau chaude sanitaire) du I de l'article 1er du décret précité.
 
 Identité du professionnel titulaire du signe de qualité ayant réalisé l'opération, s'il n'est pas le signataire de cette attestation (sous-traitant par exemple) :
 
-*Nom
+* Nom
 
-*Prénom
+* Prénom
 
-*Raison sociale :
+* Raison sociale :
 
-*N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
+* N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 - Système de régulation par programmation horaire pièce par pièce / Fiche d’opération standardisée BAR-TH-173
 
