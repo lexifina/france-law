@@ -382,7 +382,7 @@ Les sessions de formation continue portent, selon les besoins notamment identifi
 
 2.5. Surveillance des certificats délivrés
 
-Pendant le cycle de certification, l'organisme de certification procède :
+I.- Pendant le cycle de certification, l'organisme de certification procède :
 
 - à trois contrôles documentaires réalisés respectivement au cours de la deuxième, la quatrième et la sixième année du cycle de certification ;
 
@@ -390,9 +390,17 @@ Pendant le cycle de certification, l'organisme de certification procède :
 
 - à deux contrôles sur ouvrage après élaboration du diagnostic réalisés respectivement au cours de la troisième et la cinquième année du cycle de certification.
 
-Chaque contrôle sur ouvrage fait l'objet d'un récépissé de visite de contrôle signé par l'examinateur et le commanditaire du diagnostic concerné ou son représentant.
+II.- Chaque contrôle sur ouvrage fait l'objet d'un récépissé de visite de contrôle signé par l'examinateur et le commanditaire du diagnostic concerné ou son représentant.
 
-Les organismes de certification peuvent déclencher tout type de contrôle en cas de résultats potentiellement anormaux dans les DPE réalisés par un diagnostiqueur.
+L'analyse statistique des activités des diagnostiqueurs au sens de l'article 4 du présent arrêté déclenche le signalement automatique par l'Agence de la transition écologique d'anomalies aux organismes de certification.
+
+Toute nouvelle anomalie est instruite dès signalement par l'organisme de certification.
+
+Pour ces anomalies signalées par l'Agence de la transition écologique, l'organisme de certification diligente les contrôles adaptés, dans un délai d'un mois à compter du signalement. En fonction du niveau d'écarts constaté lors de ces contrôles et en tenant compte des circonstances propres à chaque espèce, notamment le caractère intentionnel ou non des faits reprochés, les organismes de certification évaluent les suites à donner aux opérations de contrôle selon la grille prévue au 2.5.5.
+
+Par dérogation à l'alinéa précèdent, en cas d'anomalie signalée par l'Agence de la transition écologique révélant une non-conformité à l'article 1 er de l'arrêté du 31 mars 2021 par la mise en évidence d'un exercice de l'activité de diagnostiqueur manifestement irréalisable, l'organisme de certification demande des justifications au diagnostiqueur concerné dans un délai d'une semaine à compter du signalement par l'Agence de la transition. En l'absence d'éléments probants fournis dans un délai de deux semaines à compter de la demande de l'organisme de certification, ce dernier suspend la certification pour un délai maximum d'un mois. Au-delà de ce délai et en l'absence d'éléments probants, la certification est retirée. L'organisme de certification en informe les services chargés de la répression des fraudes. Un arrêté du ministre en charge de la construction précise les indicateurs statistiques à considérer et les seuils à partir desquels l'anomalie révèle une non-conformité à l'article 1 er de l'arrêté du 31 mars 2021 susvisé par la mise en évidence d'un exercice manifestement irréalisable de l'activité de diagnostiqueur, et déclenche l'application du présent alinéa.
+
+III. - Les organismes de certification peuvent déclencher tout type de contrôle en cas de résultats potentiellement anormaux dans les DPE réalisés par un diagnostiqueur.
 
 A chaque contrôle, l'organisme de certification vérifie que la personne certifiée se tient à jour des évolutions techniques, législatives et réglementaires, notamment en s'assurant qu'elle a suivi la formation continue et les modules de formation ou d'information supplémentaires imposés le cas échéant par les services du ministre chargé de la construction et que la personne certifiée est dûment assurée au sens du deuxième alinéa de l'article L. 271-6 du code de la construction et de l'habitation. En cas de non-respect de ces exigences, le certifié est suspendu jusqu'à régularisation.
 
