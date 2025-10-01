@@ -1,6 +1,6 @@
 # Article Annexe I
 
-ÉPREUVES DES CONCOURS PRÉVUS AU 1° DE L'ARTICLE 5 DU DÉCRET SUSVISÉ (OUVERT AUX CANDIDATS TITULAIRES DE L'UN DES DIPLÔMES EXIGÉS DES CANDIDATS AU CONCOURS EXTERNE DE L'ÉCOLE NATIONALE D'ADMINISTRATION), AU 2° DE L'ARTICLE 5 DU DÉCRET SUSVISÉ (OUVERT AUX MILITAIRES NON OFFICIERS ET AUX FONCTIONNAIRES DE CATÉGORIE B) ET AU 4° DE L'ARTICLE 5 DU DÉCRET SUSVISÉ (OUVERT AUX CAPITAINES OU OFFICIERS DE GRADE CORRESPONDANT ET AUX FONCTIONNAIRES CIVILS D'UN CORPS DE CATÉGORIE A OU ASSIMILÉ)
+ÉPREUVES DES CONCOURS PRÉVUS AU 1° DE L'ARTICLE 5 DU DÉCRET SUSVISÉ (OUVERT AUX CANDIDATS TITULAIRES DE L'UN DES DIPLÔMES EXIGÉS DES CANDIDATS AU CONCOURS EXTERNE DE L'INSTITUT NATIONAL DU SERVICE PUBLIC), AU 2° DE L'ARTICLE 5 DU DÉCRET SUSVISÉ (OUVERT AUX MILITAIRES NON OFFICIERS ET AUX FONCTIONNAIRES DE CATÉGORIE B) ET AU 4° DE L'ARTICLE 5 DU DÉCRET SUSVISÉ (OUVERT AUX CAPITAINES OU OFFICIERS DE GRADE CORRESPONDANT ET AUX FONCTIONNAIRES CIVILS D'UN CORPS DE CATÉGORIE A OU ASSIMILÉ)
 
 I. - Epreuves d'admissibilité
 
@@ -18,7 +18,7 @@ Pour les concours prévus au 1° et au 4° de l'article 5 du décret susvisé, c
 
 Pour le concours prévu au 2° de l'article 5 du décret susvisé, cette épreuve dure trois heures et porte sur un dossier comprenant entre 20 et 30 pages.
 
-La note de synthèse est construite selon un plan classique : introduction, développement, conclusion. Elle est entièrement rédigée. Seules les grandes parties peuvent éventuellement être précédées d'un titre. Elle doit être objective, dénuée d'appréciation personnelle.
+La note de synthèse est construite selon un plan classique : introduction, développement, conclusion. Elle est entièrement rédigée. Seules les grandes parties peuvent éventuellement être précédées d'un titre court. Elle doit être objective, dénuée d'appréciation personnelle.
 
 Le candidat doit rédiger en 600 mots (tolérance + 10 %) une note de synthèse claire, précise et concise.
 

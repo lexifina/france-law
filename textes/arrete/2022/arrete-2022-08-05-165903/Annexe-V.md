@@ -16,7 +16,7 @@ Les sujets portent sur des idées ou des faits dont la connaissance est indispen
 
 Cette épreuve vise à déterminer l'aptitude des candidats à dégager les idées essentielles d'un dossier comprenant entre trente et quarante pages et portant sur un sujet d'ordre général.
 
-La note de synthèse est construite selon un plan classique : introduction, développement, conclusion. Elle est entièrement rédigée. Seules les grandes parties peuvent éventuellement être précédées d'un titre. Elle doit être objective, dénuée d'appréciation personnelle.
+La note de synthèse est construite selon un plan classique : introduction, développement, conclusion. Elle est entièrement rédigée. Seules les grandes parties peuvent éventuellement être précédées d'un titre court. Elle doit être objective, dénuée d'appréciation personnelle.
 
 Le candidat doit rédiger en 600 mots (tolérance + 10 %) une note de synthèse claire, précise et concise.
 
