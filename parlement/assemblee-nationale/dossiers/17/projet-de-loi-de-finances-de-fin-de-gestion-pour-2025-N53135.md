@@ -1,0 +1,53 @@
+# Projet de loi de finances de fin de gestion pour 2025
+
+- Procédure : Projet de loi de finances rectificative
+- Législature : 17
+- Identifiant : DLR5L17N53135
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_de_loi_de_finances_de_fin_de_gestion_pour_2025
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl25-132.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2025-11-10 : 1er dépôt d'une initiative. (PRJLANR5L17B2068)
+  - 2025-11-10 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2025-11-10 : Renvoi en commission au fond
+      - 2025-10-02 : Nomination de rapporteur
+      - 2025-11-12 : Réunion de commission
+      - 2025-11-13 : Réunion de commission
+      - 2025-11-17 : Réunion de commission
+      - 2025-11-13 : Dépôt de rapport (RAPPANR5L17B2078)
+  - Discussion en séance publique
+    - 2025-11-17 : Discussion en séance publique
+    - 2025-11-18 : Discussion en séance publique
+    - 2025-11-18 : Discussion en séance publique
+    - 2025-11-18 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2025-11-19 : Dépôt d'une initiative en navette (PRJLSNR5S479B0132)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2025-11-19 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2025-11-19 : Dépôt de rapport (RAPPSNR5S479B0136)
+  - Discussion en séance publique
+    - 2025-11-25 : Discussion en séance publique
+    - 2025-11-25 : Décision
+- Commission Mixte Paritaire
+  - 2025-11-26 : Dépôt d'un projet de loi (PRJLANR5L17B2135)
+  - 2025-11-26 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2025-11-25 : Nomination de rapporteur
+    - 2025-11-27 : Dépôt du rapport d'une CMP (RAPPANR5L17B2146, PRJLANR5L17BTC2146)
+    - 2025-11-27 : Dépôt du rapport d'une CMP (RAPPSNR5S479B0164, PRJLSNR5S479BTC0165)
+  - Discussion en séance publique
+    - 2025-12-02 : Discussion en séance publique
+    - 2025-12-02 : Discussion en séance publique
+    - 2025-12-02 : Décision
+  - Discussion en séance publique
+    - 2025-12-03 : Discussion en séance publique
+    - 2025-12-03 : Décision
+  - 2025-11-27 : Décision de la CMP
+- Promulgation de la loi
+  - 2025-12-08 : Promulgation d'une loi
