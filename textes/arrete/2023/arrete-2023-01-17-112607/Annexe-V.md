@@ -150,7 +150,7 @@ L'équipe pédagogique du centre de formation d'apprentis informe les maîtres d
 
 La formation se déroule en milieu professionnel et en centre de formation continue. Ils assurent conjointement l'acquisition des compétences figurant dans le référentiel de certification du diplôme.
 
-La durée de la formation en entreprise, 22 semaines, s'ajoute aux durées de formation dispensées par le centre de formation continue. Lors de son inscription à l'examen, le candidat est tenu de présenter un certificat attestant qu'il a suivi la formation de 22 semaines en entreprise, requise pour se présenter à l'examen.
+La durée de la formation en entreprise, 22 semaines, s'ajoute aux durées de formation dispensées par le centre de formation continue. Le candidat est tenu de présenter un certificat attestant qu'il a suivi la formation de 22 semaines en entreprise, requise pour se présenter à l'examen.
 
 Une attestation sera délivrée. Elle résumera les activités confiées et les compétences évaluées.
 

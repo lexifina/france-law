@@ -282,15 +282,31 @@ IV-2. Règlement d'examen
 
 Baccalauréat professionnel
 
-" Travaux publics " |
+Spécialité Travaux publics |
 
-Candidats de la voie scolaire dans un établissement public ou privé sous-contrat, CFA habilités ou CFA portés par un EPLE, GRETA ou GIP-FCIP assurant toute la formation théorique, formation professionnelle continue dans un établissement public |
+Origine des candidats |
 
-Candidats de la voie scolaire dans un établissement privé hors contrat, CFA ou section d'apprentissage non habilité, formation professionnelle continue en établissements privés ou publics non habilités, enseignement à distance, candidats justifiant de 3 années d'activité professionnelle. |
+- élèves dans un établissement public ou privé sous contrat ;
 
-Candidats de la formation professionnelle continue dans un établissement public habilité |
+- apprentis dans un CFA porté par un EPLE, GRETA ou GIP-FCIP assurant toute la formation ;
 
-Epreuves |
+- apprentis dans un CFA habilité au CCF ;
+
+- stagiaires de la formation professionnelle continue dans un établissement public. |
+
+- élèves dans un établissement privé hors contrat ;
+
+- appentis dans un CFA non habilité au CCF ;
+
+- stagiaires de la formation professionnelle continue en établissement privé ;
+
+- candidats de l'enseignement à distance ;
+
+- candidats justifiant de 3 années d'activités professionnelles. |
+
+Stagiaires de la formation professionnelle continue dans un établissement public habilité au CCF intégral. |
+
+Épreuves |
 
 Unité |
 
@@ -308,7 +324,7 @@ Mode |
 
 Durée |
 
-Epreuve scientifique et technique |
+Épreuve scientifique et technique |
 
 |
 
@@ -334,9 +350,7 @@ U11 |
 
 CCF |
 
-Ponctuel écrit
-
-et pratique |
+Ponctuel écrit et pratique |
 
 1 h |
 
@@ -350,15 +364,13 @@ U12 |
 
 CCF |
 
-Ponctuel écrit
-
-et pratique |
+Ponctuel écrit et pratique |
 
 1 h |
 
 CCF |
 
-E. 2 : Etude et préparation d'une intervention |
+E.2 : Étude et préparation d'une intervention |
 
 U2 |
 
@@ -372,11 +384,11 @@ Ponctuel écrit |
 
 CCF |
 
-E. 3 : Epreuve prenant en compte la formation en milieu professionnelle |
+E.3 : Épreuve prenant en compte la formation en milieu professionnelle |
 
 |
 
-9 |
+11 |
 
 |
 
@@ -412,7 +424,7 @@ U32 |
 
 CCF |
 
-Ponctuel pratique |
+Ponctuel pratique et oral |
 
 3 h |
 
@@ -450,7 +462,7 @@ Ponctuel écrit |
 
 CCF |
 
-E4 : Epreuve de langue vivante |
+E4 : Épreuve de langue vivante |
 
 U4 |
 
@@ -458,15 +470,13 @@ U4 |
 
 CCF |
 
-Ponctuel écrit
-
-et oral |
+Ponctuel écrit et oral |
 
 1 h + 10 mn |
 
 CCF |
 
-E5 : Epreuve de français, histoire et géographie et enseignement moral et civique |
+E5 : Épreuve de français, histoire et géographie et enseignement moral et civique |
 
 |
 
@@ -520,7 +530,7 @@ Ponctuel écrit |
 
 CCF |
 
-E6 : Epreuve d'arts appliqués et cultures artistiques |
+E6 : Épreuve d'arts appliqués et cultures artistiques |
 
 U6 |
 
@@ -534,7 +544,7 @@ Ponctuel écrit |
 
 CCF |
 
-E7 : Epreuve d'éducation physique et sportive |
+E7 : Épreuve d'éducation physique et sportive |
 
 U7 |
 
@@ -546,7 +556,7 @@ Ponctuel pratique |
 
 CCF |
 
-Epreuves facultatives (1)
+Épreuves facultatives (1)
 
 EF1
 
@@ -570,7 +580,7 @@ UF2 |
 
 |
 
-(1) Le candidat peut choisir une ou deux unités facultatives parmi les unités possibles, les conditions sont fixées par la réglementation en vigueur. La langue vivante choisie au titre de l'épreuve facultative est obligatoirement différente de celle choisie au titre de l'épreuve obligatoire. Elle a une durée de 25 min. dont 5 min. de préparation. Seuls les points excédant 10 sont pris en compte pour le calcul de la moyenne générale en vue de l'obtention du diplôme et de l'attribution d'une mention.
+(1) Le candidat peut choisir une ou deux unités facultatives parmi les unités possibles, les conditions sont fixées par la réglementation en vigueur. La langue vivante choisie au titre de l'épreuve facultative est obligatoirement différente de celle choisie au titre de l'épreuve obligatoire. Seuls les points excédant 10 sont pris en compte pour le calcul de la moyenne générale en vue de l'obtention du diplôme et de l'attribution d'une mention.
 
 S'agissant de l'évaluation du projet, présenté uniquement par les candidats scolaires des établissements d'enseignement public et privé (sous ou hors contrat) et les candidats apprentis, sont pris en compte les points d'écart par rapport à 10 sur 20 affectés du coefficient 2. S'ils sont supérieurs, ils abondent le total général des points servant au calcul de la moyenne générale conditionnant l'obtention du diplôme ; s'ils sont inférieurs, ils viennent en déduction de ce total général. Aucun coefficient d'épreuve ou de sous-épreuve du règlement d'examen n'est modifié. Les modalités de l'évaluation du projet au baccalauréat professionnel sont définies par l'arrêté du 20 octobre 2020 définissant les modalités de l'évaluation du projet prévue à l'examen du baccalauréat professionnel. |
 
@@ -638,7 +648,7 @@ Epreuve scientifique et technique
 
 Unité U11-U12
 
-Coefficient 1,5
+Coefficient 3
 
 Cette épreuve comporte deux sous-épreuves :
 
@@ -786,8 +796,6 @@ La note est transmise aux services académiques compétents.
 
 Epreuve E3
 
-Unité U3
-
 Epreuve prenant en compte la formation en milieu professionnelle
 
 Sous-épreuve E31-Réalisation des travaux
@@ -934,7 +942,7 @@ La note est transmise aux services académiques compétents.
 
 Sous-épreuve E32-Réception, contrôle et suivi des travaux
 
-Unité U3
+Unité U32
 
 Coefficient 3
 
