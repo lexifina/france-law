@@ -1,0 +1,13 @@
+# Article 1er
+
+L'article 4.3 de l'accord du 13 janvier 2022 est supprimé et remplacé par les dispositions suivantes :
+
+« Article 4.3
+
+Identification des emplois pour le bénéfice de dispositions spécifiques en matière de protection sociale complémentaire
+
+Pour l'application des dispositions conventionnelles de l'article 2.1 de l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres, sont visés les salariés relevant des niveaux d'emplois allant de C9 à D14.
+
+En parallèle, si les partenaires sociaux n'ont pas entendu identifier d'emplois relevant de la définition de l'article 2.2 de l'accord national interprofessionnel du 17 novembre 2017, ils souhaitent néanmoins, comme prévu par le deuxième alinéa du 1° de l'article R. 242-1-1 du code de la sécurité sociale, permettre l'intégration de salariés non cadres positionnés au niveau TAM 8, à la catégorie des régimes de protection sociale complémentaire des cadres, notamment pour garantir le respect des dispositions de l'article 8.2 de l'accord.
+
+Il est rappelé que les dispositions du présent article ne valent que pour le bénéfice des seules dispositions spécifiques en matière de protection sociale complémentaire. »
