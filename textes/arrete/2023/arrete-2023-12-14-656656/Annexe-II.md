@@ -26,7 +26,7 @@ Matières en suspension (mg/L) |
 
 Conforme à la réglementation des rejets d'eaux usées traitées pour l'exutoire de la station hors période d'utilisation |
 
-Demande biologique en oxygène sur 5 jours (mg/L) |
+Demande biochimique en oxygène sur 5 jours (mg/L) |
 
 ≤ 10 |
 
@@ -42,7 +42,7 @@ Escherichia coli (nombre/100mL) |
 
 ≤ 10 000 |
 
-Turbidité (NTU) |
+Turbidité (NFU) |
 
 ≤ 5 |
 
@@ -52,7 +52,7 @@ Turbidité (NTU) |
 
 - |
 
-Coliphage (bactériophages ARN-F spécifiques et/ou phages somatiques (*) |
+Bactériophages ARN-F spécifiques (nombre/100 mL) et/ ou phages somatiques (nombre/100 mL) (*) |
 
 ≤ 10 |
 
@@ -72,7 +72,7 @@ Clostridium perfringens (**) |
 
 ≤ 10 000 |
 
-Turbidité (NTU) |
+Turbidité (NFU) |
 
 ≤ 5 |
 
@@ -84,23 +84,23 @@ Turbidité (NTU) |
 
 Autres |
 
-Legionella spp. : < 1 000 ufc/l lorsqu'il existe un risque de formation d'aérosols Nématodes intestinaux (œufs d'helminthes) : ≤ 1 œuf/l pour l'irrigation des pâturages ou des fourrages frais |
+Legionella spp. : < 1 000 nombre/l lorsqu'il existe un risque de formation d'aérosols Nématodes intestinaux (œufs d'helminthes) : ≤ 1 œuf/l pour l'irrigation des pâturages ou des fourrages frais |
 
-(*) Les coliphages totaux sont choisis comme étant l'indicateur viral le plus approprié. Cependant, si l'analyse des coliphages totaux est impossible, au moins l'un d'entre eux (les coliphages F-spécifiques ou les coliphages somatiques) doit être analysé.
+(*) L'analyse conjointe des coliphages F-spécifiques et des coliphages somatiques est à privilégier. Cependant, en routine, s'il est impossible d'analyser ces 2 paramètres, il est possible d'analyser uniquement les coliphages somatiques.
 
 (**) Les spores de Clostridium perfringens sont choisies comme étant l'indicateur de protozoaires le plus approprié. Cependant, les bactéries anaérobies sulfito-réductrices et leurs spores offrent une solution de remplacement si la concentration de spores de Clostridium perfringens ne permet pas de valider la réduction log10 requise. |
 
 Les eaux usées traitées sont classées dans le niveau de qualité qui correspond au classement du paramètre le plus défavorable. Les eaux usées traitées sont considérées comme conforme aux exigences énoncées dans le tableau 1 lorsque les mesures satisfont à l'ensemble des critères suivants :
 
-- les valeurs indiquées pour E. coli, Legionella spp. et les nématodes intestinaux sont respectées dans au moins 90 % des échantillons. Aucune des valeurs mesurées sur les échantillons ne dépasse l'écart maximal de 1 unité de log par rapport à la valeur indiquée pour E. coli et Legionella spp. et de 100 % de la valeur indiquée pour les nématodes intestinaux ;
+-les valeurs indiquées pour E. coli, Legionella spp. et les nématodes intestinaux, sont respectées dans au moins 90 % des échantillons à chaque campagne d'analyse dont les fréquences sont définies dans le tableau 5. Aucune des valeurs mesurées sur les échantillons ne dépasse l'écart maximal de 1 unité de log par rapport à la valeur indiquée pour E. coli et Legionella spp. et de 100 % de la valeur indiquée pour les nématodes intestinaux ;
 
-- les valeurs indiquées pour la DBO5, les MES et la turbidité de la catégorie A sont respectées dans au moins 90 % des échantillons. Aucune des valeurs mesurées sur les échantillons ne dépasse l'écart maximal de 100 % de la valeur indiquée.
+-les valeurs indiquées pour la DBO5, les MES et la turbidité de la catégorie A sont respectées dans au moins 90 % des échantillons à chaque campagne d'analyse dont les fréquences sont définies dans le tableau 5. Aucune des valeurs mesurées sur les échantillons ne dépasse l'écart maximal de 100 % de la valeur indiquée à chaque campagne d'analyse dont les fréquences sont définies dans le tableau 5.
 
 Section 1 : Surveillance en routine
 
 La surveillance en routine est réalisée au point de conformité des eaux usées traitées.
 
-Les échantillons à utiliser pour vérifier le respect des paramètres microbiologiques au point de conformité sont prélevés conformément à la norme EN ISO 19458 ou à toute autre norme nationale ou internationale garantissant une qualité équivalente.
+Les échantillons à utiliser pour vérifier le respect des exigences pour les paramètres au point de conformité sont prélevés conformément à la norme NF EN ISO 19458 ou au guide technique d'échantillonnage spécifique pour la recherche de Legionella dans les eaux (norme FD T 90-522), et à la norme NF EN ISO 5667-3 (norme FD T 90-523-2) ou toutes méthodes de prélèvement applicables disponibles au niveau des normes nationales ou internationales garantissant une qualité équivalente.
 
 Les analyses concernent les paramètres mentionnés dans le tableau 5 ci-dessous et sont réalisées pendant chaque période d'utilisation.
 
@@ -124,7 +124,7 @@ C |
 
 D |
 
-Matières en suspension (mg/l) |
+Matières en suspension |
 
 1 par semaine |
 
@@ -132,11 +132,11 @@ Matières en suspension (mg/l) |
 
 1 par mois |
 
-Demande biologique en oxygène sur 5 jours (mg/L) |
+Demande biochimique en oxygène sur 5 jours |
 
 Escherichia coli
 
-(UFC/100ml) |
+|
 
 (1) Selon le tableau 4 |
 
@@ -148,7 +148,7 @@ Les quatre niveaux d'abattement attendus suivants la qualité sanitaire des eaux
 
 Tableau 6
 
-Paramètres et abattement lors de la validation des performances de l'installation
+Paramètres et abattement exprimé en Log lors de la validation des performances de l'installation
 
 PARAMÈTRES |
 
@@ -182,7 +182,7 @@ Spores de Clostridium perfringens/bactéries anaérobies sulfito-réductrices et
 
 Validation des performances de l'installation :
 
-Au moins 90 % des échantillons prélevés pour chaque paramètre doivent atteindre ou dépasser les objectifs de performance. Si un indicateur biologique n'est pas présent en quantité suffisante dans les eaux usées pour parvenir à une réduction log10, les exigences de validation sont satisfaites.
+Au moins 90 % des échantillons prélevés à chaque campagne d'analyse pour chaque paramètre doivent atteindre ou dépasser les objectifs de performance.
 
 Les échantillons à utiliser pour vérifier le respect des paramètres microbiologiques prévues par le tableau 6 au point de conformité sont prélevés conformément à la norme EN ISO 19458 ou à toute autre norme nationale ou internationale garantissant une qualité équivalente.
 
@@ -190,6 +190,6 @@ Pour la validation des performances lors de la mise en service, le suivi analyti
 
 Section 3 : Modalités techniques de surveillance
 
-Les analyses de la qualité des eaux doivent être réalisées par un laboratoire accrédité, pour les paramètres et les différents types d'eaux considérés, selon la norme ISO/ CEI 17025, par le comité français d'accréditation ou par tout autre organisme d'accréditation équivalent européen signataire de l'accord multilatéral pris dans le cadre de la coordination européenne des organismes d'accréditation.
+Les analyses de la qualité des eaux doivent être réalisées par un organisme accrédité, pour les paramètres et les différents types d'eaux considérés, par le comité français d'accréditation ou par tout autre organisme d'accréditation équivalent européen signataire de l'accord multilatéral pris dans le cadre de la coordination européenne des organismes d'accréditation.
 
-Les échantillons à utiliser pour vérifier le respect des paramètres microbiologiques au point de conformité sont prélevés conformément à la norme EN ISO 19458 ou à toute autre norme nationale ou internationale garantissant une qualité équivalente.
+Les échantillons à utiliser pour vérifier le respect des paramètres microbiologiques au point de conformité sont prélevés conformément à la norme EN ISO 19458 ou au guide technique d'échantillonnage spécifique pour la recherche de Legionella dans les eaux (norme FD T 90-522), ou à toute autre norme nationale ou internationale garantissant une qualité équivalente.
