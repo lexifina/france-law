@@ -38,7 +38,7 @@ Avignon-Pujaut |
 
 Gard |
 
-Réservé au vol à voile, au parachutisme et aux avions de servitude. |
+Réservé au vol à voile, au parachutisme, aux ULM de classe 1 basés et aux avions de servitude. |
 
 Avranches-Le Val-Saint-Père |
 
