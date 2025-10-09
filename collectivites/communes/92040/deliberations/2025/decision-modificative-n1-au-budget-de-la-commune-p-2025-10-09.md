@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Décision modificative n°1 au budget de la commune pour l’exercice 2025.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-10-09
+- Matière : FINANCES
+- Objet : Décision modificative n°1 au budget de la commune pour l’exercice 2025.
+- Transmis à la préfecture : 2025-10-16
+- Votants : 46
+- Pour : 39
+- Contre : 3
+- Abstentions : 4
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTg5MjEsInB1ciI6ImJsb2JfaWQifX0=--ec1c98ff0565a51b810af421df09f79f8e8a0d2a/02%20-%20FIN%20-%20D%C3%A9cision%20modificative%20n%C2%B01%20au%20budget%20de%20la%20commune%20pour%20l%E2%80%99exercice%202025_compressed%20(1).pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
