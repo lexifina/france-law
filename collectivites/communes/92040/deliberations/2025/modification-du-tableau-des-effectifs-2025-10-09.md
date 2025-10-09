@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Modification du tableau des effectifs.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-10-09
+- Matière : RESSOURCES HUMAINES
+- Objet : Modification du tableau des effectifs.
+- Transmis à la préfecture : 2025-10-17
+- Votants : 45
+- Pour : 45
+- Contre : 0
+- Abstentions : 0
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTg5NDgsInB1ciI6ImJsb2JfaWQifX0=--a311918ff8f00c3e79669726bb4f99702ffddd76/12%20-%20RH%20-%20Modification%20du%20tableau%20des%20effectifs.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
