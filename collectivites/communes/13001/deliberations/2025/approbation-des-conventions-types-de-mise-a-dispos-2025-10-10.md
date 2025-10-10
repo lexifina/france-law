@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — APPROBATION DES CONVENTIONS TYPES DE MISE A DISPOSITION DES ÉQUIPEMENTS AQUATIQUES DE LA VILLE D'AIX-EN-PROVENCE, AU PROFIT DES ÉTABLISSEMENTS SCOLAIRES, DES ASSOCIATIONS SPORTIVES ET ORGANISMES DIVERS
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2025-10-10
+- Séance : Conseil Municipal 1CA
+- Objet : APPROBATION DES CONVENTIONS TYPES DE MISE A DISPOSITION DES ÉQUIPEMENTS AQUATIQUES DE LA VILLE D'AIX-EN-PROVENCE, AU PROFIT DES ÉTABLISSEMENTS SCOLAIRES, DES ASSOCIATIONS SPORTIVES ET ORGANISMES DIVERS
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-21922-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
