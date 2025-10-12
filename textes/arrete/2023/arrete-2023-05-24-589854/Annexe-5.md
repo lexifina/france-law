@@ -58,11 +58,11 @@ II. - Postes désignés sur proposition du directeur ou du chef du service gesti
 
 3° Unités du service du commissariat des armées :
 
-- groupement de soutien de la base de défense de Grenoble - Annecy - Chambéry ;
+- groupement de soutien commissariat Grenoble ;
 
-- groupement de soutien de la base de défense de Gap ;
+- groupement de soutien commissariat Gap ;
 
-- groupement de soutien de la base de défense de Saint-Christol.
+- groupement de soutien commissariat Saint-Christol.
 
 4° Unités de l'armée de l'air et de l'espace :
 

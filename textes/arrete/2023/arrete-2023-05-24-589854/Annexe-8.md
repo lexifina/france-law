@@ -2,7 +2,7 @@
 
 ANNEXE 8
 
-UNITÉS, ORGANISMES ET EMPLOIS OUVRANT DROIT À LA PRIME DE COMPÉTENCES SPÉCIFIQUE DE COMBATTANT PARACHUTISTE SPÉCIALISÉ
+UNITÉS, ORGANISMES ET EMPLOIS OUVRANT DROIT À LA PRIME DE COMPÉTENCES SPÉCIFIQUES DE COMBATTANT PARACHUTISTE SPÉCIALISÉ
 
 Postes désignés sur proposition du directeur ou du chef du service gestionnaire concerné exigeant la mise en œuvre de la compétence spécifique de combattant parachutiste spécialisé au sein des unités suivantes :
 
@@ -88,23 +88,23 @@ Postes désignés sur proposition du directeur ou du chef du service gestionnair
 
 5° Unités du service du commissariat des armées :
 
--groupement de soutien de la base de défense de Toulouse-Castres-Tarbes ;
+- groupement de soutien commissariat Toulouse ;
 
--groupement de soutien de la base de défense de Carcassonne ;
+- groupement de soutien commissariat Carcassonne ;
 
--groupement de soutien de la base de défense de Pau-Bayonne ;
+- groupement de soutien commissariat Pau ;
 
--direction du commissariat d'outre-mer et groupement de soutien de la base de défense des forces armées de la zone sud de l'océan Indien ;
+- direction du commissariat des forces armées de la zone sud de l'océan Indien ;
 
--groupement de soutien de la base de défense de Calvi ;
+- groupement de soutien commissariat Calvi ;
 
--groupement de soutien de la base de défense de Montauban ;
+- groupement de soutien commissariat Montauban ;
 
--groupement de soutien de la base de défense de Bordeaux-Mérignac-Agen ;
+- groupement de soutien commissariat Bordeaux ;
 
--groupement de soutien de la base de défense de Brest-Lorient ;
+- groupement de soutien commissariat Brest ;
 
--groupement de soutien de la base de défense de Toulon.
+- groupement de soutien commissariat Toulon.
 
 6° Unités du service de santé des armées :
 
