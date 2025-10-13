@@ -1,0 +1,257 @@
+# Article Annexe I
+
+RÉFÉRENTIEL DE L'EXAMEN CIVIQUE
+
+Thématique |
+
+Notions |
+
+Connaissances |
+
+Principes et valeurs de la République |
+
+1. Devise et symboles de la République |
+
+Connaitre et comprendre la République
+
+- un mode d'organisation des pouvoirs ;
+
+- unité et indivisibilité de la République - art. 1er de la Constitution &laquo; La France est une République indivisible, laïque, démocratique et sociale &raquo; ;
+
+- la souveraineté nationale appartient au peuple - art. 3 de la Constitution &laquo; La souveraineté nationale appartient au peuple qui l'exerce par ses représentants et par la voie du référendum &raquo;.
+
+Connaître et comprendre la devise française : liberté
+
+- le sens de la liberté : respecter les autres dans leur intégrité et leur diversité, respecter la diversité des croyances et des convictions ;
+
+- les différents types de libertés individuelles et collectives : liberté de pensée, d'opinion, d'expression, de religion, de travail, de circulation, de réunion et d'association, de choix sexuels et de mariage (interdiction de la polygamie : principe et conséquences) ;
+
+- les différentes formes d'engagement dans la vie associative et locale : droit de créer et d'adhérer à une association, droit syndical.
+
+Connaître et comprendre la devise française : égalité et fraternité
+
+- le sens de l'égalité : égalité des droits et des devoirs, égalité entre les femmes et les hommes, accès aux droits fondamentaux, égalité devant la loi ;
+
+• Respecter les droits d'autrui et accepter les différences : Lutte contre les discriminations, le racisme, l'antisémitisme et la haine anti-LGBT.
+
+- le sens de la fraternité : comprendre la valeur de fraternité comme la capacité à voir en autrui un semblable, malgré les différences. C'est pourquoi la fraternité républicaine est une fraternité civique, et non pas ethnique ou religieuse. Cette solidarité se décline sous différentes formes :
+
+• Collective : le principe de solidarité signifie que la Nation assure aux individus libres et égaux en droit une protection. Remplir ses obligations fiscales est un acte solidaire qui permet de financer les services publics au bénéfice de tous ; le principe de solidarité exige aussi que chaque citoyen doive défendre la Nation en cas de danger ;
+
+• Intergénérationnelle : le principe de solidarité signifie le soutien entre différentes générations (exemple : retraites).
+
+Connaître et comprendre les symboles républicains mentionnés par la Constitution et d'autres symboles coutumiers :
+
+- drapeau ;
+
+- hymne ;
+
+- devise ;
+
+- Marianne ;
+
+- fête nationale (14 juillet) ;
+
+- coq.
+
+Savoir que le français est la langue nationale et officielle : &laquo; Le français est la langue de la République française &raquo; (article 2 de la Constitution). |
+
+2. Laïcité |
+
+Connaître et comprendre le principe de laïcité :
+
+- histoire de la laïcité : la loi de 1905 est la conclusion de siècles de lutte entre les pouvoirs religieux et politiques en France. La laïcité n'est pas la négation des religions, elle organise les relations entre l'Etat et les religions ;
+
+- le principe de liberté de conscience : la laïcité garantit la liberté de conscience et l'égalité de tous les citoyens, quelles que soient leurs croyances ; la neutralité de l'État à l'égard des religions et le libre exercice des cultes (loi de 1905). La liberté de conscience est celle de croire, celle de ne pas croire et celle de ne plus croire, celle aussi de changer de croyance ou de religion (droit à l'apostasie et droit de se convertir). La liberté de conscience inclut le droit au blasphème. L'exercice de cette liberté peut être limité dans le respect des principes constitutionnels (ex. interdiction du prosélytisme abusif) ;
+
+- la place des religions et le rôle de l'Etat : principe de séparation des Eglises et de l'Etat, principe de libre organisation des cultes. Principe de neutralité : l'Etat protège et sécurise les lieux de culte et lutte contre les actes antireligieux. L'Etat est garant de la liberté religieuse y compris dans les lieux de privation de liberté. L'Etat punit la pression forte sur une personne de croire ou de ne pas croire ;
+
+- le principe de laïcité pour l'usager du service public : tous les usagers sont égaux devant le service public. Ils ont le droit d'exprimer leurs convictions religieuses dans la limite du respect de l'ordre public. Les usagers doivent s'abstenir de toute forme de prosélytisme. Le principe de laïcité interdit à quiconque de se prévaloir de ses croyances religieuses pour s'affranchir des règles communes (Voir Charte de la laïcité des usagers des services publics) ;
+
+- le principe de laïcité au travail : chacun a le droit d'avoir ses croyances ou convictions. Dans les institutions publiques, les agents sont soumis au principe de neutralité. Dans le secteur privé, la liberté de manifester sa religion peut toutefois être restreinte pour des impératifs d'hygiène, de sécurité ou si son exercice empêche le bon déroulement de l'activité de l'entreprise ;
+
+- le principe de laïcité à l'école publique : la laïcité impose des règles à tous les membres de la communauté scolaire afin de protéger la liberté de choix de chaque enfant et préserver le fonctionnement de l'école. Il est interdit de choisir les enseignements en fonction de ses croyances religieuses (Voir Charte de la laïcité à l'école). |
+
+Le système institutionnel et politique |
+
+1. Démocratie et droit de vote |
+
+Connaître et comprendre les caractéristiques de notre démocratie :
+
+- le principe d'Etat de droit : système dans lequel la loi est au-dessus de tous : elle s'applique à toutes les personnes y compris les autorités publiques. Cela garantit que les droits et libertés de chacun sont protégés ;
+
+- les trois pouvoirs : législatif, exécutif, autorité judiciaire ;
+
+- le rôle des trois pouvoirs et les principaux acteurs : faire les lois (députés et sénateurs), appliquer les lois (gouvernement), rendre la justice (les juges) ;
+
+- le principe de la séparation des pouvoirs et sa mise en œuvre : principe constitutionnel consacré par l'article 16 de la Déclaration des droits de l'homme et du citoyen qui établit un équilibre entre les pouvoirs : responsabilité du gouvernement devant le Parlement, pouvoirs du président de la République élu au suffrage universel direct, indépendance de la justice.
+
+Connaître et comprendre le droit de vote et les élections :
+
+- les conditions pour voter en France : avoir la nationalité française, être majeur, ne pas avoir été privé de ses droits civils et politiques suite à une condamnation ;
+
+- le principe de pluralité des partis : condition nécessaire de la démocratie. |
+
+2. Organisation de la République française |
+
+Connaître et comprendre le découpage administratif et institutionnel :
+
+- le découpage administratif de la France : identifier l'organisation territoriale de l'Etat : préfectures de régions et préfectures de département ainsi que les niveaux de collectivités locales et leurs missions respectives : commune, département, région. Exemple : école primaire = commune ; lycée = région ;
+
+- les principales institutions politiques de la Ve République :
+
+• pouvoir exécutif : le président de la République, le gouvernement composé du Premier ministre et des ministres ;
+
+• pouvoir législatif : le Parlement composé de l'Assemblée nationale et du Sénat ;
+
+• pouvoir judicaire : les tribunaux (ordres judiciaire et administratif) ;
+
+• autres institutions : Conseil constitutionnel, Défenseur des droits, Banque de France.
+
+Connaître et comprendre le fonctionnement démocratique :
+
+- le rôle des acteurs politiques au niveau national et local : le président de la République, le Premier ministre, le maire ;
+
+- les différents types d'élections : présidentielles, législatives, européennes, locales ;
+
+- la durée des principaux mandats : président, députés, sénateurs, maires. |
+
+3. L'Union européenne et ses institutions |
+
+Connaître et comprendre les fondements de l'Union européenne :
+
+- les principales étapes historiques et le nombre d'Etats membres ;
+
+- le drapeau et l'hymne de l'Union européenne.
+
+Connaitre et comprendre le fonctionnement de l'Union européenne :
+
+- les institutions européennes : Parlement européen, Conseil de l'Union européenne, Commission européenne ;
+
+- les principes essentiels de l'Union européenne : citoyenneté européenne, libre circulation, coopération économique ;
+
+- les conditions de vote et d'éligibilité des étrangers européens. |
+
+Droits et devoirs |
+
+1. Droits fondamentaux |
+
+Connaitre les droits fondamentaux et leurs fondements :
+
+- les droits et libertés individuels : les libertés individuelles permettent aux citoyens d'être maîtres de leurs mouvements, de leurs choix (liberté de circulation, liberté de mariage, liberté de divorce par exemple), de leurs opinions (liberté d'opinion, liberté de conscience, liberté d'expression), et de leurs croyances ;
+
+- les droits sociaux et économiques : les droits qui visent à assurer à chaque individu des conditions de vie dignes et équitables ;
+
+- les principales notions relatives aux droits fondamentaux : dignité humaine, intégrité physique et psychologique, citoyenneté, État de droit, démocratie, respect des droits de l'homme ;
+
+- les principaux textes garants des droits fondamentaux : la Constitution de la Ve République (1958), la Déclaration des droits de l'homme et du citoyen (1789), la Charte de l'environnement (2004). |
+
+2. Obligations et devoirs des personnes résidant en France |
+
+Comprendre les obligations et devoirs des personnes résidant en France :
+
+- des libertés individuelles encadrées : les libertés sont encadrées par la loi et limitées, en premier lieu par les libertés des autres, ensuite par la défense de l'ordre public qui concerne non seulement la sécurité, mais également la tranquillité, la salubrité (qui ne présente pas de danger pour l'hygiène, la santé et l'environnement), le respect de la dignité humaine, qui permettent à chacun de jouir de ses droits et de ses libertés ;
+
+- le respect des lois et les conséquences de leur non-respect : obligation de payer les impôts et les cotisations sociales … ; rôle de la police et de la gendarmerie ; typologie des infractions ;
+
+- une attitude citoyenne favorisant la vie au sein de la collectivité nationale : contribuer au bien collectif, notamment par le travail, et au respect des règles communes, d'autrui et de l'environnement ;
+
+- la participation des citoyens français au fonctionnement des institutions publiques : voter, être juré dans un procès. |
+
+Histoire, géographie et culture |
+
+1. Principales périodes et personnages historiques |
+
+Connaître les repères historiques :
+
+- les principales périodes historiques : la monarchie (jusqu'en 1789), la Révolution française (à partir de 1789, 1re République en 1792), l'empire de Napoléon et la création du Code civil (début du XIXe siècle), la constitution de l'empire colonial français et l'abolition de l'esclavage (1re moitié du XIXe siècle), l'installation de la République avec l'école laïque, gratuite et obligatoire (à partir de 1880) ;
+
+- les grandes étapes du XXe siècle dont les conflits mondiaux : Première Guerre mondiale (1914-1918), Seconde Guerre mondiale (1939-1945) : la Shoah, la Résistance (l'appel du 18 juin 1940 du Général de Gaulle devenu président de la République en 1958), droit de vote des femmes (1944), création de l'ONU (1945), création de la Communauté économique européenne (1957) ;
+
+- les principales étapes de la construction de la Ve République et du système politique actuel ainsi que les présidents de la République : Constitution de la Ve République, instauration du suffrage universel direct pour les élections présidentielles, décolonisation de l'empire colonial français en Asie et en Afrique (1950-1962), l'abolition de la peine de mort par le président François Mitterrand (1981), naissance de l'Union européenne (1992) et de l'euro (2002). |
+
+2. Territoires et géographie |
+
+- Se repérer dans l'espace : connaître les fleuves français ; les principaux massifs montagneux ; nommer et localiser les 10 principales métropoles françaises ; les principaux ports ; les 6 régions les plus peuplées ; connaître les 5 Départements et Régions d'outre-mer-DROM et savoir qu'il existe d'autres territoires ultramarins ;
+
+- Connaître la situation géographique de la France dans le continent européen : connaître les États ayant des frontières avec la France ; connaître les mers et océans qui bordent la France ;
+
+- Savoir établir un lien entre géographie et démographie : savoir que la population française est d'environ 68 millions d'habitants en 2025 et qu'en France 9 personnes sur 10 habitent dans des aires urbaines ; savoir que la France est la 1ère destination touristique au monde et que les principales régions touristiques en France sont dans les grandes villes, sur les côtes (Côte d'Azur, littoral atlantique, Bretagne et Normandie) et dans les montagnes (Alpes et Pyrénées) ;
+
+- Savoir établir un lien entre géographie et économie : savoir que les principales activités économiques se situent à proximité des grandes villes et des axes de communication (autoroutes, voies ferrées). |
+
+3. Patrimoine français |
+
+Connaître les repères culturels de la société française :
+
+- les principaux monuments historiques et lieux emblématiques de la France ;
+
+- les artistes et auteurs français ;
+
+- les principaux plats de la gastronomie française ;
+
+- les principales fêtes célébrées en France et les traditions qui les accompagnent ;
+
+- le rayonnement de la langue française dans le monde : Organisation internationale de la Francophonie, nombre de personnes francophones (321 millions), 5e langue mondiale. |
+
+Vivre dans la société française |
+
+1. S'installer et résider en France |
+
+Connaître les démarches essentielles pour garantir son installation et sa résidence dans le respect de la loi :
+
+- les démarches du quotidien : souscription à une assurance responsabilité civile, échange du permis de conduire, obligation de déclarer ses revenus, obligation d'effectuer un changement d'adresse ;
+
+- les démarches relatives au séjour en France : procédures de demande et renouvellement du titre de séjour ;
+
+- les démarches d'accès à la nationalité française : le principe d'assimilation, les procédures de déclaration ou de demande de naturalisation ;
+
+- les démarches relatives à la situation familiale : déclarer une naissance, un mariage, un divorce, un décès auprès des différentes institutions et organismes, connaître les démarches essentielles pour l'accès aux prestations familiales et sociales ;
+
+- les démarches relatives au logement : savoir identifier les différents acteurs de la recherche de logement, connaître et comprendre les droits et obligations d'un propriétaire, connaitre et comprendre les droits et les obligations d'un locataire. |
+
+2. L'accès aux soins |
+
+Connaître le parcours de santé :
+
+- les différentes offres de soin (hôpitaux, cliniques, urgences, médecin traitant, spécialistes) ;
+
+- la prise en charge (assurance maladie, mutuelle) ;
+
+- les obligations vaccinales ;
+
+- les numéros d'urgence.
+
+Connaître les droits du patient :
+
+- le principe de libre choix du praticien dans le respect du bon fonctionnement du service en cas de prise en charge à l'hôpital ;
+
+- le principe de confidentialité : respect du secret médical ;
+
+- le droit à l'information. |
+
+3. Travailler en France |
+
+Connaître et comprendre les principales notions du droit du travail :
+
+- le cadre général : durée légale de travail, des congés, contrat, conditions de sécurité au travail, règlement intérieur, droit syndical, droits associés (formation, équivalence de diplôme, droit à la formation linguistique) ;
+
+- les démarches et les acteurs pour rechercher un emploi ;
+
+- les démarches et les acteurs pour entreprendre en France. |
+
+4. Autorité parentale et système éducatif |
+
+Connaître et comprendre la notion d'autorité parentale :
+
+- les obligations et responsabilités des parents envers les enfants mineurs ;
+
+- le cadre légal de protection des enfants : droits des enfants au respect de leur intégrité physique et morale.
+
+Connaître et comprendre le système éducatif :
+
+- les grands principes : l'obligation de scolarité, durée de l'instruction obligatoire et l'interdiction de contester les enseignements ;
+
+- l'organisation du système scolaire : écoles maternelle, primaire, collège, lycée et enseignement supérieur ;
+
+- les obligations en tant que parent d'élève : l'obligation d'instruction et de respecter le règlement intérieur de l'école, l'accompagnement à la scolarité. |
