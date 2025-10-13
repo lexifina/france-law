@@ -1,0 +1,1398 @@
+# Soissons : délibération dcm.2026.66-annexe — dcm.2026.66-annexe.pdf
+
+- Collectivité : Soissons
+- SIREN : 210206959
+- Code INSEE : 02722
+- Date : 2025-10-13
+- Objet : dcm.2026.66-annexe.pdf
+- Pages : 8
+- Acte publié : https://static.data.gouv.fr/resources/deliberations-2026-du-conseil-municipal-de-la-ville-de-soissons/20260417-121523/dcm.2026.66-annexe.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6995816237a5bc3c03f3939a
+
+## Texte
+
+Direction Générale des Finances Publiques
+Exercice 2025
+SGC SOISSONS
+10 RUE DE MAYENNE
+02200 SOISSONS
+DEMANDE D'ADMISSION EN NON VALEUR DE CRÉANCES IRRÉCOUVRABLES
+49400 - SOISSONS
+6665440712
+Il demande en conséquence l'admission en non-valeurs de ces titres figurants sur la liste ci jointe.
+ A SOISSONS, le 13 octobre 2025
+FLAMENT Isabelle
+Le Comptable Public
+DÉCISION DE L'ORDONNATEUR
+Compte
+Montants présentés
+Montants admis 
+6541
+6542
+0,00 €
+Total
+A , le 
+( Date, cachet et signature de l'ordonnateur )
+TRAITEMENT COMPTABLE DE LA DÉCISION
+Collectivité :
+N° de la liste : 
+Le comptable soussigné expose qu'il n'a pas pu recouvrer les titres, cotes ou produits portés sur l'état ci-
+après, en raisons des motifs énoncés.
+Vu l'état et les avis d 'autres part :
+Il est accordé décharge au comptable des sommes détaillées au présent état, lesquelles s'élèvent à :
+74 392,06 €
+74 392,06 €
+Le comptable soussigné certifie avoir émargé aux articles respectifs les sommes indiquées sur le présent 
+état, lesquelles n'avaient pas été soldées avant la réception de la décision ci-dessus.
+Copie pour impression
+Réception au contrôle de légalité le 16/04/2026 à 10h08
+Réference de l'AR : 002-210206959-20260413-DCM2026_66-DE
+Publié le 16/04/2026 ; Rendu exécutoire le 16/04/2026
+
+Demande d'admission en non valeur - Edition du 13/10/2025 - Page 1
+EXERCICE
+PIÈCE
+SERVICE
+TOTAL
+MOTIFS DE LA PRÉSENTATION
+NATURE
+IMPUTATION
+MONTANT
+Admis
+Rejet
+2024
+T-3895-1
+AFM COUVERTURE 
+Poursuite sans effet
+6541
+95,00
+2024
+T-1884-1
+AFM COUVERTURE 
+Poursuite sans effet
+6541
+138,65
+Total pour AFM COUVERTURE 
+233,65
+2022
+T-2014-1
+AFONSO MANUEL Leila L
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+15,60
+2022
+T-1750-1
+AFONSO MANUEL Leila L
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+20,80
+2022
+T-1687-1
+AFONSO MANUEL Leila L
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+25,60
+2022
+T-3068-1
+AFONSO MANUEL Leila L
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+31,20
+2022
+T-1831-1
+AFONSO MANUEL Leila L
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+32,40
+Total pour AFONSO MANUEL Leila L
+125,60
+2022
+T-3511-1
+ALI Taifun
+Poursuite sans effet
+6541
+92,74
+Total pour ALI Taifun
+92,74
+2023
+T-202-2
+AMORY Isabelle
+RAR inférieur seuil poursuite
+87-CRECHE GARDERIE
+6541
+9,70
+2023
+T-202-1
+AMORY Isabelle
+RAR inférieur seuil poursuite
+83-CANTINE ENFANTS
+6541
+18,60
+Total pour AMORY Isabelle
+28,30
+2022
+T-181-1
+ARTELIA 
+RAR inférieur seuil poursuite
+6541
+5,00
+2022
+T-4669-1
+ARTELIA 
+RAR inférieur seuil poursuite
+6541
+15,00
+Total pour ARTELIA 
+20,00
+2022
+T-1377-1
+ASENOVA Mariana
+Poursuite sans effet
+6541
+40,00
+2022
+T-1113-1
+ASENOVA Mariana
+Poursuite sans effet
+6541
+40,00
+2022
+T-2201-1
+ASENOVA Mariana
+Poursuite sans effet
+6541
+40,00
+2022
+T-2478-1
+ASENOVA Mariana
+Poursuite sans effet
+6541
+40,00
+2022
+T-1616-1
+ASENOVA Mariana
+Poursuite sans effet
+6541
+40,00
+2022
+T-448-1
+ASENOVA Mariana
+Poursuite sans effet
+6541
+40,00
+2022
+T-1616-2
+ASENOVA Mariana
+Poursuite sans effet
+6541
+282,85
+2022
+T-774-2
+ASENOVA Mariana
+Poursuite sans effet
+6541
+135,00
+2022
+T-1113-2
+ASENOVA Mariana
+Poursuite sans effet
+99-Revenus des immeubles
+6541
+135,00
+2022
+T-1377-2
+ASENOVA Mariana
+Poursuite sans effet
+99-Revenus des immeubles
+6541
+410,00
+2022
+T-448-2
+ASENOVA Mariana
+Poursuite sans effet
+6541
+410,00
+2022
+T-2201-2
+ASENOVA Mariana
+Poursuite sans effet
+99-Revenus des immeubles
+6541
+410,00
+2022
+T-2478-2
+ASENOVA Mariana
+Poursuite sans effet
+6541
+410,00
+2021
+T-2100-1
+ASENOVA Mariana
+Poursuite sans effet
+99-Revenus des immeubles
+6541
+387,28
+2022
+T-9-1
+ASENOVA Mariana
+Poursuite sans effet
+6541
+425,48
+2022
+T-313-1
+ASENOVA Mariana
+Poursuite sans effet
+99-Revenus des immeubles
+6541
+450,00
+Total pour ASENOVA Mariana
+2021
+T-2253-1
+ASL GARAGE AUTO 
+Poursuite sans effet
+6541
+187,44
+Total pour ASL GARAGE AUTO 
+187,44
+Éléments nouveaux
+A compléter OBLIGATOIREMENT en cas de rejet
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+3 695,61
+102-AUTRES PRODUITS GESTION 
+COURANTE
+
+Demande d'admission en non valeur - Edition du 13/10/2025 - Page 2
+EXERCICE
+PIÈCE
+SERVICE
+TOTAL
+MOTIFS DE LA PRÉSENTATION
+NATURE
+IMPUTATION
+MONTANT
+Admis
+Rejet
+Éléments nouveaux
+A compléter OBLIGATOIREMENT en cas de rejet
+2022
+T-3524-1
+AURIBAULT Andre
+Décédé et demande renseignement négative
+6541
+185,47
+Total pour AURIBAULT Andre
+185,47
+2024
+T-1366-1
+AUTO JADOR 
+Poursuite sans effet
+6541
+185,47
+Total pour AUTO JADOR 
+185,47
+2022
+T-3547-1
+AUTO QUALITE 
+Poursuite sans effet
+6541
+92,74
+Total pour AUTO QUALITE 
+92,74
+2022
+T-3518-1
+AUTOS INDUSTRIE 
+Poursuite sans effet
+6541
+92,74
+Total pour AUTOS INDUSTRIE 
+92,74
+2024
+T-1364-1
+AUX PLAISIRS GOURMAND
+Poursuite sans effet
+6541
+185,47
+Total pour AUX PLAISIRS GOURMAND
+185,47
+2022
+T-3526-1
+BADACHE Boudjemaa
+Poursuite sans effet
+6541
+185,47
+Total pour BADACHE Boudjemaa
+185,47
+2020
+T-1686-1
+BAKOUROU Abdenour
+Poursuite sans effet
+6541
+371,98
+Total pour BAKOUROU Abdenour
+371,98
+2022
+T-3034-2
+BALIET Carine
+RAR inférieur seuil poursuite
+87-CRECHE GARDERIE
+6541
+4,80
+2022
+T-3034-1
+BALIET Carine
+RAR inférieur seuil poursuite
+83-CANTINE ENFANTS
+6541
+13,20
+Total pour BALIET Carine
+18,00
+2021
+T-2264-1
+BENAISSA Chamsse Eddi
+Poursuite sans effet
+6541
+313,87
+Total pour BENAISSA Chamsse Eddi
+313,87
+2023
+T-528-1
+BENTEBIBEL MOHAMED Ah
+RAR inférieur seuil poursuite
+87-CRECHE GARDERIE
+6541
+9,60
+Total pour BENTEBIBEL MOHAMED Ah
+9,60
+2022
+T-3514-1
+BERTRAND Jean
+Décédé et demande renseignement négative
+6541
+92,74
+Total pour BERTRAND Jean
+92,74
+2022
+T-3349-1
+BIESMANS Angelique
+Poursuite sans effet
+86-CENTRE AERE
+6541
+37,60
+2022
+T-3076-2
+BIESMANS Angelique
+Poursuite sans effet
+87-CRECHE GARDERIE
+6541
+41,60
+2022
+T-3181-2
+BIESMANS Angelique
+Poursuite sans effet
+87-CRECHE GARDERIE
+6541
+41,60
+2022
+T-3387-1
+BIESMANS Angelique
+Poursuite sans effet
+86-CENTRE AERE
+6541
+60,20
+2022
+T-3076-1
+BIESMANS Angelique
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+78,40
+2022
+T-3181-1
+BIESMANS Angelique
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+81,20
+Total pour BIESMANS Angelique
+340,60
+2021
+T-1415-1
+BIKAMBIDI KOUKA Mauri
+PV carence
+6541
+563,33
+2020
+T-2181-1
+BIKAMBIDI KOUKA Mauri
+PV carence
+6541
+2020
+T-2343-1
+BIKAMBIDI KOUKA Mauri
+PV carence
+6541
+2020
+T-878-1
+BIKAMBIDI KOUKA Mauri
+PV carence
+6541
+2020
+T-2019-1
+BIKAMBIDI KOUKA Mauri
+PV carence
+6541
+2020
+T-216-1
+BIKAMBIDI KOUKA Mauri
+PV carence
+6541
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+1 300,00
+102-AUTRES PRODUITS GESTION 
+COURANTE
+1 300,00
+102-AUTRES PRODUITS GESTION 
+COURANTE
+1 300,00
+102-AUTRES PRODUITS GESTION 
+COURANTE
+1 300,00
+102-AUTRES PRODUITS GESTION 
+COURANTE
+1 300,00
+
+Demande d'admission en non valeur - Edition du 13/10/2025 - Page 3
+EXERCICE
+PIÈCE
+SERVICE
+TOTAL
+MOTIFS DE LA PRÉSENTATION
+NATURE
+IMPUTATION
+MONTANT
+Admis
+Rejet
+Éléments nouveaux
+A compléter OBLIGATOIREMENT en cas de rejet
+2020
+T-834-1
+BIKAMBIDI KOUKA Mauri
+PV carence
+6541
+2020
+T-1770-1
+BIKAMBIDI KOUKA Mauri
+PV carence
+6541
+2020
+T-1639-1
+BIKAMBIDI KOUKA Mauri
+PV carence
+6541
+2021
+T-1-1
+BIKAMBIDI KOUKA Mauri
+PV carence
+6541
+2021
+T-926-1
+BIKAMBIDI KOUKA Mauri
+PV carence
+6541
+2021
+T-925-1
+BIKAMBIDI KOUKA Mauri
+PV carence
+6541
+2021
+T-231-1
+BIKAMBIDI KOUKA Mauri
+PV carence
+6541
+2021
+T-954-1
+BIKAMBIDI KOUKA Mauri
+PV carence
+6541
+2021
+T-49-1
+BIKAMBIDI KOUKA Mauri
+PV carence
+6541
+2021
+T-469-1
+BIKAMBIDI KOUKA Mauri
+PV carence
+6541
+2022
+T-353-1
+BIKAMBIDI KOUKA Mauri
+PV carence
+6541
+2021
+T-38-1
+BIKAMBIDI KOUKA Mauri
+PV carence
+6541
+531,05
+Total pour BIKAMBIDI KOUKA Mauri
+2023
+T-2686-1
+BOUAMARA NEE NASEEM Y
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+22,40
+2023
+T-1333-1
+BOUAMARA NEE NASEEM Y
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+25,60
+Total pour BOUAMARA NEE NASEEM Y
+48,00
+2022
+T-3014-1
+BREMONT DOLORES
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+54,40
+2022
+T-1765-1
+BREMONT DOLORES
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+61,20
+Total pour BREMONT DOLORES
+115,60
+2023
+T-936-1
+BRUMTER Aurelie
+RAR inférieur seuil poursuite
+83-CANTINE ENFANTS
+6541
+13,60
+Total pour BRUMTER Aurelie
+13,60
+2022
+T-24-1
+CASOLA Valentine
+Poursuite sans effet
+6541
+125,56
+Total pour CASOLA Valentine
+125,56
+2021
+T-2272-1
+CELIK Okan
+Poursuite sans effet
+6541
+156,94
+Total pour CELIK Okan
+156,94
+2021
+T-2155-2
+CELIK Yasin
+Poursuite sans effet
+87-CRECHE GARDERIE
+6541
+1,20
+2022
+T-990-2
+CELIK Yasin
+Poursuite sans effet
+87-CRECHE GARDERIE
+6541
+1,20
+2022
+T-1251-2
+CELIK Yasin
+Poursuite sans effet
+87-CRECHE GARDERIE
+6541
+2,20
+2022
+T-3102-2
+CELIK Yasin
+Poursuite sans effet
+87-CRECHE GARDERIE
+6541
+2,20
+2022
+T-3015-2
+CELIK Yasin
+Poursuite sans effet
+87-CRECHE GARDERIE
+6541
+4,40
+2022
+T-1251-1
+CELIK Yasin
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+20,40
+2021
+T-2155-1
+CELIK Yasin
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+46,40
+2022
+T-990-1
+CELIK Yasin
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+69,60
+2022
+T-3102-1
+CELIK Yasin
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+74,80
+2022
+T-3015-1
+CELIK Yasin
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+74,80
+Total pour CELIK Yasin
+297,20
+102-AUTRES PRODUITS GESTION 
+COURANTE
+1 300,00
+102-AUTRES PRODUITS GESTION 
+COURANTE
+1 300,00
+102-AUTRES PRODUITS GESTION 
+COURANTE
+1 300,00
+102-AUTRES PRODUITS GESTION 
+COURANTE
+1 300,00
+102-AUTRES PRODUITS GESTION 
+COURANTE
+1 300,00
+102-AUTRES PRODUITS GESTION 
+COURANTE
+1 300,00
+102-AUTRES PRODUITS GESTION 
+COURANTE
+1 300,00
+102-AUTRES PRODUITS GESTION 
+COURANTE
+1 300,00
+102-AUTRES PRODUITS GESTION 
+COURANTE
+1 300,00
+102-AUTRES PRODUITS GESTION 
+COURANTE
+1 300,00
+102-AUTRES PRODUITS GESTION 
+COURANTE
+1 533,56
+102-AUTRES PRODUITS GESTION 
+COURANTE
+22 127,94
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+
+Demande d'admission en non valeur - Edition du 13/10/2025 - Page 4
+EXERCICE
+PIÈCE
+SERVICE
+TOTAL
+MOTIFS DE LA PRÉSENTATION
+NATURE
+IMPUTATION
+MONTANT
+Admis
+Rejet
+Éléments nouveaux
+A compléter OBLIGATOIREMENT en cas de rejet
+2021
+T-1073-1
+CONSEIL DEPARTEMENTAL
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+46,40
+Total pour CONSEIL DEPARTEMENTAL
+46,40
+2019
+T-2641-1
+DECARSIN Virginie
+Poursuite sans effet
+6541
+47,12
+Total pour DECARSIN Virginie
+47,12
+2021
+T-2166-2
+DERVIN Cyntia
+Poursuite sans effet
+87-CRECHE GARDERIE
+6541
+1,80
+2022
+T-1948-1
+DERVIN Cyntia
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+16,80
+2022
+T-3022-1
+DERVIN Cyntia
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+24,40
+2021
+T-2166-1
+DERVIN Cyntia
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+37,40
+Total pour DERVIN Cyntia
+80,40
+2022
+T-4378-1
+EXTERION MEDIA 
+Certificat irrecouvrabilité
+6541
+899,25
+2022
+T-4377-1
+EXTERION MEDIA 
+Certificat irrecouvrabilité
+6541
+899,25
+2022
+T-4379-1
+EXTERION MEDIA 
+Certificat irrecouvrabilité
+6541
+2022
+T-4380-1
+EXTERION MEDIA 
+Certificat irrecouvrabilité
+6541
+Total pour EXTERION MEDIA 
+2021
+T-229-1
+FADOUL ABAKAR Asma
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+20,80
+2021
+T-464-1
+FADOUL ABAKAR Asma
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+23,40
+2021
+T-159-1
+FADOUL ABAKAR Asma
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+39,00
+Total pour FADOUL ABAKAR Asma
+83,20
+2021
+T-1093-2
+GUETTABY Moncef
+Poursuite sans effet
+87-CRECHE GARDERIE
+6541
+2,60
+2021
+T-1093-1
+GUETTABY Moncef
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+11,20
+2021
+T-664-2
+GUETTABY Moncef
+Poursuite sans effet
+87-CRECHE GARDERIE
+6541
+14,70
+2021
+T-1144-1
+GUETTABY Moncef
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+18,59
+2021
+T-664-1
+GUETTABY Moncef
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+44,80
+Total pour GUETTABY Moncef
+91,89
+2020
+T-323-1
+ILEBO Jordy
+Poursuite sans effet
+87-CRECHE GARDERIE
+6541
+34,00
+2019
+T-2994-1
+ILEBO Jordy
+Poursuite sans effet
+87-CRECHE GARDERIE
+6541
+36,04
+Total pour ILEBO Jordy
+70,04
+2014
+T-1121-1
+INSTITUT NATIONAL REC
+Poursuite sans effet
+300-DIVERS
+6541
+2016
+T-1127-1
+INSTITUT NATIONAL REC
+Poursuite sans effet
+6541
+2016
+T-475-1
+INSTITUT NATIONAL REC
+Poursuite sans effet
+6541
+Total pour INSTITUT NATIONAL REC
+2021
+T-1686-1
+KHATTOU Dahbia
+RAR inférieur seuil poursuite
+6541
+27,80
+Total pour KHATTOU Dahbia
+27,80
+2021
+T-2199-1
+LAKHWINDER Singh
+RAR inférieur seuil poursuite
+83-CANTINE ENFANTS
+6541
+8,40
+Total pour LAKHWINDER Singh
+8,40
+2021
+T-2188-1
+LEGRAND Marjolaine
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+15,20
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+1 798,50
+102-AUTRES PRODUITS GESTION 
+COURANTE
+1 798,50
+5 395,50
+6 360,30
+102-AUTRES PRODUITS GESTION 
+COURANTE
+12 500,00
+102-AUTRES PRODUITS GESTION 
+COURANTE
+12 500,00
+31 360,30
+102-AUTRES PRODUITS GESTION 
+COURANTE
+
+Demande d'admission en non valeur - Edition du 13/10/2025 - Page 5
+EXERCICE
+PIÈCE
+SERVICE
+TOTAL
+MOTIFS DE LA PRÉSENTATION
+NATURE
+IMPUTATION
+MONTANT
+Admis
+Rejet
+Éléments nouveaux
+A compléter OBLIGATOIREMENT en cas de rejet
+2021
+T-1769-1
+LEGRAND Marjolaine
+Poursuite sans effet
+86-CENTRE AERE
+6541
+306,80
+Total pour LEGRAND Marjolaine
+322,00
+2021
+T-1202-1
+LENFANT Clara
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+11,20
+2021
+T-1202-2
+LENFANT Clara
+Poursuite sans effet
+87-CRECHE GARDERIE
+6541
+12,10
+2021
+T-1112-1
+LENFANT Clara
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+14,00
+2021
+T-1112-2
+LENFANT Clara
+Poursuite sans effet
+87-CRECHE GARDERIE
+6541
+21,90
+2021
+T-681-2
+LENFANT Clara
+Poursuite sans effet
+87-CRECHE GARDERIE
+6541
+32,50
+2021
+T-681-1
+LENFANT Clara
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+33,60
+2021
+T-790-1
+LENFANT Clara
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+39,20
+2021
+T-790-2
+LENFANT Clara
+Poursuite sans effet
+87-CRECHE GARDERIE
+6541
+41,60
+Total pour LENFANT Clara
+206,10
+2022
+T-3515-1
+LEONARD Pierre
+Décédé et demande renseignement négative
+6541
+185,47
+Total pour LEONARD Pierre
+185,47
+2022
+T-1378-1
+MASLIEV Ivan
+Poursuite sans effet
+6541
+40,00
+2022
+T-1114-1
+MASLIEV Ivan
+Poursuite sans effet
+6541
+40,00
+2022
+T-2202-1
+MASLIEV Ivan
+Poursuite sans effet
+6541
+40,00
+2022
+T-2479-1
+MASLIEV Ivan
+Poursuite sans effet
+6541
+40,00
+2022
+T-1617-1
+MASLIEV Ivan
+Poursuite sans effet
+6541
+40,00
+2022
+T-775-1
+MASLIEV Ivan
+Poursuite sans effet
+6541
+40,00
+2022
+T-449-1
+MASLIEV Ivan
+Poursuite sans effet
+6541
+40,00
+2022
+T-3199-1
+MASLIEV Ivan
+Poursuite sans effet
+6541
+40,00
+2022
+T-3538-1
+MASLIEV Ivan
+Poursuite sans effet
+6541
+185,47
+2022
+T-1617-2
+MASLIEV Ivan
+Poursuite sans effet
+6541
+410,00
+2022
+T-775-2
+MASLIEV Ivan
+Poursuite sans effet
+6541
+410,00
+2022
+T-1114-2
+MASLIEV Ivan
+Poursuite sans effet
+99-Revenus des immeubles
+6541
+410,00
+2022
+T-1378-2
+MASLIEV Ivan
+Poursuite sans effet
+99-Revenus des immeubles
+6541
+410,00
+2022
+T-3199-2
+MASLIEV Ivan
+Poursuite sans effet
+99-Revenus des immeubles
+6541
+410,00
+2022
+T-449-2
+MASLIEV Ivan
+Poursuite sans effet
+6541
+410,00
+2022
+T-2202-2
+MASLIEV Ivan
+Poursuite sans effet
+99-Revenus des immeubles
+6541
+410,00
+2022
+T-2479-2
+MASLIEV Ivan
+Poursuite sans effet
+6541
+410,00
+2021
+T-2101-1
+MASLIEV Ivan
+Poursuite sans effet
+99-Revenus des immeubles
+6541
+450,00
+2022
+T-10-1
+MASLIEV Ivan
+Poursuite sans effet
+6541
+450,00
+Total pour MASLIEV Ivan
+2021
+T-2246-1
+METET Bryan
+Poursuite sans effet
+6541
+374,87
+Total pour METET Bryan
+374,87
+2021
+T-2262-1
+ON THE MODE 
+Poursuite sans effet
+6541
+374,87
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+4 685,47
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+
+Demande d'admission en non valeur - Edition du 13/10/2025 - Page 6
+EXERCICE
+PIÈCE
+SERVICE
+TOTAL
+MOTIFS DE LA PRÉSENTATION
+NATURE
+IMPUTATION
+MONTANT
+Admis
+Rejet
+Éléments nouveaux
+A compléter OBLIGATOIREMENT en cas de rejet
+Total pour ON THE MODE 
+374,87
+2020
+T-1709-1
+PIERSON Frederic
+Poursuite sans effet
+6541
+342,74
+Total pour PIERSON Frederic
+342,74
+2021
+T-2268-1
+PRUDHOMME Marlene
+Décédé et demande renseignement négative
+6541
+313,87
+Total pour PRUDHOMME Marlene
+313,87
+2020
+T-115-1
+RADKOV Sebaydin
+Poursuite sans effet
+6541
+185,99
+Total pour RADKOV Sebaydin
+185,99
+2020
+T-1690-1
+RADKOV Sebaydin Krasi
+Poursuite sans effet
+6541
+139,79
+Total pour RADKOV Sebaydin Krasi
+139,79
+2021
+T-2277-1
+REZGUI Mohamed
+Poursuite sans effet
+6541
+156,94
+Total pour REZGUI Mohamed
+156,94
+2021
+T-2269-1
+SELMA AUTO 
+Poursuite sans effet
+6541
+156,94
+Total pour SELMA AUTO 
+156,94
+2022
+T-152-1
+SFR 
+RAR inférieur seuil poursuite
+6541
+0,16
+2022
+T-153-1
+SFR 
+RAR inférieur seuil poursuite
+6541
+6,93
+2022
+T-4381-1
+SFR 
+RAR inférieur seuil poursuite
+6541
+7,33
+Total pour SFR 
+14,42
+2021
+T-1698-1
+SIDEM ELECTRICITE 
+Poursuite sans effet
+6541
+97,04
+Total pour SIDEM ELECTRICITE 
+97,04
+2021
+T-226-1
+SOUFFLET Aurelie
+RAR inférieur seuil poursuite
+87-CRECHE GARDERIE
+6541
+15,39
+Total pour SOUFFLET Aurelie
+15,39
+2021
+T-2259-1
+TADEU HOLANDA Alan
+Poursuite sans effet
+6541
+135,70
+Total pour TADEU HOLANDA Alan
+135,70
+2021
+T-1731-1
+TUTIN Baptiste
+Poursuite sans effet
+6541
+87,48
+Total pour TUTIN Baptiste
+87,48
+2020
+T-933-1
+ZOZO MAYITUKA Chaida
+Poursuite sans effet
+83-CANTINE ENFANTS
+6541
+43,60
+Total pour ZOZO MAYITUKA Chaida
+43,60
+TOTAL DE LA LISTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+102-AUTRES PRODUITS GESTION 
+COURANTE
+74 392,06
