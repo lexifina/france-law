@@ -1,0 +1,22 @@
+# Castelmaurou : délibération D-2025-50 Solidarité en faveur des communes sinistrées par l’incendie des Corbières — D-2025-50 Solidarité en faveur des communes sinistrées par l’incendie des Corbières.pdf
+
+- Collectivité : Castelmaurou
+- SIREN : 213101173
+- Code INSEE : 31117
+- Date : 2025-10-15 (date de mise en ligne sur data.gouv.fr ; la date de l'acte n'est pas lisible dans le fichier)
+- Objet : D-2025-50 Solidarité en faveur des communes sinistrées par l’incendie des Corbières.pdf
+- Pages : 2
+- Acte publié : https://static.data.gouv.fr/resources/deliberations-du-conseil-municipal-du-9-octobre-2025/20251015-140226/d-2025-50-solidarite-en-faveur-des-communes-sinistrees-par-lincendie-des-corbieres.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/68efa9569f2c7b423642becf
+
+## Texte
+
+Envoyé en préfecture le 13/10/2025
+Reçu en préfecture le 13/10/2025
+Publié le 13/10/2025
+ID : 031-213101173-20251009-D_2025_50-DE
+
+Envoyé en préfecture le 13/10/2025
+Reçu en préfecture le 13/10/2025
+Publié le 13/10/2025
+ID : 031-213101173-20251009-D_2025_50-DE
