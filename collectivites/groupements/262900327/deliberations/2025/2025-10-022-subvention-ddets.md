@@ -1,0 +1,10 @@
+# CCAS Brest : délibération 2025-10-022 - Subvention DDETS — Subvention de la DDETS pour le financement d un dispositif de mise à l abri dans le cadre du plan grand froid
+
+- Collectivité : CCAS Brest
+- SIRET : 26290032700012
+- Date : 2025-10-16
+- Matière : 8.2 domaines de competences par themes/aide sociale
+- Objet : Subvention de la DDETS pour le financement d un dispositif de mise à l abri dans le cadre du plan grand froid
+- Transmis à la préfecture : 2025-10-16
+- Acte publié : https://echanges.brest-metropole.fr/VIPOD03/actes-ccas/2025/CCAS%20Brest_2025-10-022_Subvention%20DDETS.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/641836dcb17182c9a1ee6fc6
