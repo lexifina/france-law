@@ -1142,7 +1142,7 @@ I. - Fiction :
 
 A. - Dossier administratif :
 
-1° Les justificatifs d'expérience des auteurs (il suffit que l'un d'entre eux soit éligible pour que le dossier le soit) et, le cas échéant, du ou des collaborateurs ;
+1° Les justificatifs d'expérience des auteurs (il suffit que l'un d'entre eux soit éligible pour que le dossier le soit) et, le cas échéant, du consultant en écriture ;
 
 2° Si le scénario est tiré d'une œuvre préexistante, indiquer le titre, l'auteur et l'éditeur et joindre une lettre du détenteur des droits autorisant cette adaptation ;
 
@@ -1162,7 +1162,7 @@ d) Lorsqu'une aide à l'écriture est demandée, des éléments de synopsis (sur
 
 e) Le cas échéant, pour les séries de formats courts, un épisode dialogué ;
 
-f) Lorsqu'une aide à l'écriture est demandée avec un ou plusieurs collaborateurs, une note précisant le cadre et les objectifs de la collaboration ;
+f) Lorsqu'une aide à l'écriture est demandée avec un consultant en écriture, une note précisant le cadre et les objectifs de la collaboration ;
 
 g) Si le projet est tiré d'une œuvre préexistante, une note permettant d'apprécier le travail effectué par rapport à cette œuvre et la teneur du projet d'adaptation ;
 
@@ -1206,7 +1206,7 @@ B. - Aide à l'écriture :
 
 1° Dossier administratif :
 
-a) Les justificatifs d'expérience des auteurs (il suffit que l'un d'entre eux soit éligible pour que le dossier le soit) et, le cas échéant, du ou des collaborateurs ;
+a) Les justificatifs d'expérience des auteurs (il suffit que l'un d'entre eux soit éligible pour que le dossier le soit) et, le cas échéant, du consultant en écriture ;
 
 b) Si le scénario est tiré d'une œuvre préexistante, indiquer le titre, l'auteur et l'éditeur et joindre une lettre du détenteur des droits autorisant cette adaptation ;
 
@@ -1228,7 +1228,7 @@ e) Des éléments graphiques sur les personnages et décors principaux ;
 
 f) Si le projet est tiré d'une œuvre préexistante, une note permettant d'apprécier le travail effectué par rapport à cette œuvre et la teneur du projet d'adaptation ;
 
-g) Lorsqu'une aide à l'écriture est demandée avec un ou plusieurs collaborateurs, une note précisant le cadre et les objectifs de la collaboration.
+g) Lorsqu'une aide à l'écriture est demandée avec un consultant en écriture, une note précisant le cadre et les objectifs de la collaboration.
 
 Pour les unitaires (spéciaux/court métrage) :
 
@@ -1248,7 +1248,7 @@ III. - Série de documentaires de création
 
 A. - Dossier administratif :
 
-1° Les justificatifs de formation et d'expérience du ou des auteurs et, le cas échéant, du ou des collaborateurs ;
+1° Les justificatifs d'expérience du ou des auteurs ;
 
 2° Lorsque le projet de série est tiré d'une œuvre préexistante, l'indication du titre, de l'auteur et, le cas échéant, de l'éditeur, ainsi qu'une lettre du titulaire des droits autorisant le projet d'adaptation audiovisuelle de l'œuvre ;
 
@@ -1258,7 +1258,7 @@ B. - Dossier artistique :
 
 1° Une présentation détaillée du projet de série (point de vue, personnages, format, thème, moteur sériel) ;
 
-2° Un synopsis du premier épisode ou des éléments d'arches narratifs ;
+2° Un synopsis du premier épisode ou des éléments d'arches narratives ;
 
 3° Une présentation des intentions sur la direction artistique de la série ;
 
@@ -1268,7 +1268,7 @@ B. - Dossier artistique :
 
 6° Lorsque le projet de série envisage une dimension internationale, une description des axes de travail prévus à cette fin (pays partenaires, coauteurs internationaux, etc.) ;
 
-7° Lorsqu'une aide à l'écriture est demandée avec un ou plusieurs collaborateurs, une note précisant le cadre et les objectifs de la collaboration.
+7° (Abrogé).
 
 III-3.2. Documents justificatifs à joindre à l'appui d'une demande d'aide à la coécriture de projets de coproductions internationales d'œuvres audiovisuelles de fiction
 
@@ -1340,7 +1340,7 @@ A. - Dossier administratif :
 
 6° Les contrats d'auteurs conclus avec l'entreprise de production (contrats d'option au minimum) ;
 
-7° En cas de demande conjointe, le contrat de coproduction déléguée établi entre les entreprises de production ;
+7° En cas de codéveloppement, le contrat de coproduction déléguée ou de codéveloppement établi entre les entreprises de production ;
 
 8° Tout justificatif de versement de rémunération à l'auteur, signé par ce dernier.
 
@@ -1394,7 +1394,7 @@ A. - Dossier administratif :
 
 6° Les contrats d'auteurs littéraires et graphiques établis avec l'entreprise de production (contrats d'option au minimum) ;
 
-7° En cas de demande conjointe, le contrat de coproduction déléguée établi entre les entreprises de production ;
+7° En cas de codéveloppement, le contrat de coproduction déléguée ou de codéveloppement établi entre les entreprises de production ;
 
 8° Tout justificatif de versement de rémunération à l'auteur, signé par ce dernier.
 
@@ -1452,7 +1452,7 @@ A. - Dossier administratif :
 
 5° Tout justificatif de versement de rémunération à ou aux auteurs, signé par ces derniers ;
 
-6° En cas de coproduction, le contrat signé entre les sociétés ou tout document contractuel préparatoire ;
+6° En cas de codéveloppement, le contrat de coproduction déléguée ou de codéveloppement établi entre les entreprises de production ;
 
 7° La fiche récapitulative reprenant toutes les caractéristiques du projet de l'enregistrement du n°ISAN-IN DEV de l'œuvre.
 
@@ -1462,7 +1462,7 @@ B. - Dossier artistique :
 
 2° Une présentation détaillée du projet de série (point de vue, personnages, format, thème, moteur sériel) ;
 
-3° Un synopsis du premier épisode ou des éléments d'arches narratifs ;
+3° Un synopsis du premier épisode ou des éléments d'arches narratives ;
 
 4° Une présentation des intentions sur la direction artistique de la série et ses pistes de réalisation. Cette note a pour objectif de faire apparaître les réflexions qui animent l'auteur tant sur le fond (sens, axes de recherche) que sur la forme (choix stylistiques, traitement de l'image et du son, etc.) ;
 
