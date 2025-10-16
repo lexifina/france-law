@@ -1,0 +1,9 @@
+# SYNDICAT MIXTE DU PLANETARIUM DE BRETAGNE : délibération MODIF_APCP2025 — APCP modification 2025
+
+- Collectivité : SYNDICAT MIXTE DU PLANETARIUM DE BRETAGNE
+- SIRET : 20000491900011
+- Date : 2025-10-16
+- Matière : 7.1 Finances locales/Decisions budgetaires
+- Objet : APCP modification 2025
+- Transmis à la préfecture : 2025-10-18
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
