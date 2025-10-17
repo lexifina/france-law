@@ -28,17 +28,17 @@ Cabinet du ministre de la défense |
 
 17 |
 
-18 |
+19 |
 
 Etat-major des armées |
 
-859 |
+833 |
 
-2 997 |
+2 959 |
 
-4 920 |
+4 607 |
 
-14 125 |
+13 825 |
 
 Secrétariat général de la défense et de la sécurité nationale |
 
@@ -90,17 +90,15 @@ Direction générale des relations internationales et de la stratégie |
 
 12 |
 
-Direction générale du numérique et des systèmes d'information
+Commissariat au numérique de défense |
 
-et de communication |
+27 |
 
-1 |
+40 |
 
-2 |
+318 |
 
-5 |
-
-9 |
+308 |
 
 Direction générale de la sécurité extérieure |
 
@@ -225,3 +223,7 @@ Bataillon de marins-pompiers de Marseille |
 TOTAL |
 
 270 |
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 13 octobre 2025 (NOR : ARMH2528072A), ces dispositions, dans leur rédaction issue de l'article 1er de l'arrêté précité, sont applicables aux rémunérations versées à compter du mois d'octobre 2025.
