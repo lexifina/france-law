@@ -336,7 +336,7 @@ E.-Emplois relevant du groupe 3 :
 
 105° Chef d'état-major de la direction du renseignement militaire ;
 
-106° Adjoint au commandant du corps de réaction rapide européen ;
+106° (Supprimé) ;
 
 107° Chargé des fonctions de chef du service “ commandement numérique interarmées ” de la direction centrale du commissariat au numérique de défense ;
 
@@ -478,7 +478,7 @@ F.-Emplois relevant du groupe 4 :
 
 62° Commandant des écoles militaires de Bourges ;
 
-63° Inspecteur à l'inspection de l'armée de terre ;
+63° Officier général adjoint engagements à l'officier général de zone de défense et de sécurité de Paris ;
 
 64° Général commandant de la 19e brigade d'artillerie et commandant de la base de défense de Lyon-La Valbonne-Valence ;
 
@@ -618,7 +618,7 @@ G.-Emplois relevant du groupe 5 :
 
 2° Chef du bureau réservé du cabinet du ministre de la défense ;
 
-3° Directeur de cabinet adjoint en charge de la sécurité de la direction générale de la sécurité extérieure ;
+3° Conseiller spécial auprès du directeur général de la sécurité extérieure ;
 
 4° Secrétaire général adjoint au secrétariat général de la mer ;
 
@@ -678,7 +678,7 @@ G.-Emplois relevant du groupe 5 :
 
 32° Officier général adjoint engagements à l'officier général de zone de défense et de sécurité Nord ;
 
-33° Officier général adjoint engagements à l'officier général de zone de défense et de sécurité de Paris ;
+33° Inspecteur à l'inspection de l'armée de terre ;
 
 34° (Transféré) ;
 
@@ -862,4 +862,4 @@ G.-Emplois relevant du groupe 5 :
 
 NOTA :
 
-Conformément à l’article 4 de l’arrêté du 19 septembre 2025 (NOR : ARMH2526092A), ces dispositions, dans leur rédaction résultant de l’article 1 dudit arrêté, sont applicables aux rémunérations versées à compter du mois de septembre 2025.
+Conformément à l’article 3 de l’arrêté du 15 octobre 2025 (NOR : ARMH2528413A), ces dispositions, dans leur rédaction résultant de l’article 1er et 2 dudit arrêté, sont applicables aux rémunérations versées à compter du mois de novembre 2025 à l'exception des dispositions du 1° de l'article 1er et du 1° de l'article 2 qui sont applicables aux rémunérations versées à compter du mois d'octobre 2025.
