@@ -1,3 +1,0 @@
-# Article 1er
-
-La contribution supplémentaire conventionnelle, dénommée « innovation sociale et transition professionnelle », a pour objet de financer toutes actions de conseil et d'accompagnement des salariés portés et des salariés fonctionnels des entreprises de portage salarial appartenant aux 2d et le cas échéant 3e collège instaurés pour les élections professionnelles. Les conditions d'accessibilité des demandeurs d'emploi à ces actions seront décidées par le conseil d'administration de l'association visée aux articles 3 et 4. Elle financera également toute étude et action ayant pour objet les pratiques et évolutions du portage salarial et de procéder à toute évaluation des actions mises en œuvre.
