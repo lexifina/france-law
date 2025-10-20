@@ -304,59 +304,43 @@ A
 
 Direction départementale de l'équipement du Haut-Rhin
 
-FONCTIONS EXERCEES
+Fonction exercée |
 
-|
+Niveau
 
-NIVEAU
+de qualification
 
-de qualification de l'emploi
+de l'emploi |
 
-|
+Nombre
 
-NOMBRE
+d'emplois |
 
-d'emplois
+Nombre de points (IM) par emploi |
 
-|
+Chef du service habitat et bâtiment durables-Service habitat et bâtiment durables |
 
-NOMBRE DE POINTS (IM)
+A |
 
-par emploi
+1 |
 
-|
+35 |
 
-Chef de la cellule politique de la ville
+Adjoint au chef du bureau renouvellement urbain et logement social-Bureau renouvellement urbain et logement social-Service habitat et bâtiment durables |
 
-|
+B |
 
-A
+1 |
 
-|
+25 |
 
-1
+Chargé d'études stratégies territoriales de l'habitat-Référent SRU-Bureau stratégies territoriales de l'habitat-Service habitat et bâtiment durables |
 
-|
+B |
 
-35 points
+1 |
 
-|
-
-Agent référent des porteurs de projets dans les différents dispositifs de la politique de la ville
-
-|
-
-B
-
-|
-
-2
-
-|
-
-25 points
-
-|
+25 |
 
 Direction départementale des territoires du Rhône
 
