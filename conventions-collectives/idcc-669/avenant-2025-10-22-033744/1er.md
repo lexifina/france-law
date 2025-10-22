@@ -1,0 +1,13 @@
+# Article 1er
+
+Les signataires s'engagent à faire respecter l'égalité salariale entre les femmes et les hommes dans les entreprises de la branche. Les parties rappellent le principe d'égalité de rémunération posé par l'article L. 3221-2 du code du travail dans les termes suivants : « Tout employeur assure, pour un même travail ou pour un travail de valeur égale, l'égalité de rémunération entre les femmes et les hommes ».
+
+L'égalité salariale entre les femmes et les hommes constitue l'un des fondements de l'égalité professionnelle. La branche réaffirme sa volonté de voir s'appliquer sans nuance et tout au long du parcours professionnel (comme par exemple à l'embauche...) le principe de l'égalité des rémunérations entre les femmes et les hommes pour un travail et des compétences équivalents.
+
+À cet effet, les entreprises consacrent dans le cadre des négociations salaires un temps suffisant pour analyser les écarts de rémunération entre les femmes et les hommes. Les documents préparatoires à ces négociations seront communiqués suffisamment à l'avance pour permettre aux organisations syndicales de les étudier (15 jours). Si à l'issue de cet examen des écarts injustifiés étaient identifiés, des mesures correctives pour les salariés concernés seront prises à bref délai et au plus tard dans un délai de 3 mois.
+
+Conformément aux dispositions légales, les partenaires sociaux rappellent que les entreprises qui y sont légalement tenues doivent engager des négociations périodiques obligatoires portant notamment sur les mesures visant à supprimer les écarts de rémunération entre les femmes et les hommes.
+
+L'employeur doit également porter une attention particulière aux résultats des indicateurs de l'index de l'égalité professionnelle relatifs aux écarts de rémunération et aux taux d'augmentation et de promotion. Lorsque les résultats obtenus par l'entreprise se situent en-deçà d'un niveau défini par le législateur, les entreprises négocient, si elles sont soumises à l'obligation de négocier sur l'égalité professionnelle, sur les mesures adéquates et pertinentes de correction et, le cas échéant, sur la programmation, annuelle ou pluriannuelle, de mesures financières de rattrapage salarial.
+
+L'employeur doit enfin porter une attention particulière aux informations mises à disposition du comité social et économique dans la base de données économiques, sociales et environnementales en matière d'égalité professionnelle, spécialement, à celles relatives à l'analyse des écarts de salaires et de déroulement de carrière en fonction de l'âge, de la qualification et de l'ancienneté.
