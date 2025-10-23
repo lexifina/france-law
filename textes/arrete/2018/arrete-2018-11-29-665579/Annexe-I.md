@@ -2,7 +2,7 @@
 
 ANNEXE I
 
-LOCALISATION DES EMPLOIS À FORTE RESPONSABILITÉ BÉNÉFICIANT DE LA NOUVELLE BONIFICATION INDICIAIRE ET DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER
+LOCALISATION DES EMPLOIS À FORTE RESPONSABILITE BÉNÉFICIANT DE LA NOUVELLE BONIFICATION INDICIAIRE ET DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER
 
 1° Périmètre administration centrale, établissements publics et services à compétence nationale :
 
@@ -10,17 +10,31 @@ Directions et services |
 
 Fonctions |
 
-Points de NBI |
+Points
 
-Nombre d'emplois à forte
+de NBI |
+
+Nombre d'emplois
+
+à forte
 
 responsabilité (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur et
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
-de l'outre-mer
+et de l'outre-mer
 
 (CAIOM) |
+
+Cabinet du ministre |
+
+Chef du bureau des cabinets |
+
+60 |
+
+|
+
+1 |
 
 Secrétariat général |
 
@@ -42,7 +56,7 @@ Chef de projet réforme de l'administration territoriale de l'Etat, adjoint au c
 
 1 |
 
-Adjoint au chef du bureau des moyens de l'administration territoriale au sein de la sous-direction de l'administration territoriale de l'Etat |
+Adjoint au chef du bureau des moyens de l'administration territoriale de l'Etat au sein de la sous-direction de l'administration territoriale de l'Etat |
 
 30 |
 
@@ -134,7 +148,7 @@ Chef du bureau des sapeurs-pompiers professionnels au sein de la sous-direction 
 
 1 |
 
-Chef des services administratifs et du soutien au sein du groupement des moyens aériens de la sous-direction des moyens nationaux |
+Chef des services administratifs et du soutien du groupement des moyens aériens de la sous-direction des moyens nationaux |
 
 30 |
 
@@ -276,9 +290,7 @@ Chef du bureau des affaires financières et de l'évaluation de la dépense au s
 
 1 |
 
-Chef du bureau du pilotage des
-
-politiques sociales au sein de la sous-direction de l'action sociale et de l'accompagnement du personnel |
+Chef du bureau du pilotage des politiques sociales au sein de la sous-direction de l'action sociale et de l'accompagnement du personnel |
 
 50 |
 
@@ -342,6 +354,8 @@ Adjoint au chef du bureau des parcours professionnels au sein de la sous-directi
 
 1 |
 
+|
+
 Chef de mission des affaires budgétaires et des emplois de la fonction RH ministérielle |
 
 0 |
@@ -384,7 +398,7 @@ Chef du bureau des interventions économiques des collectivités locales au sein
 
 1 |
 
-Chef du bureau de la relation avec les opérateurs et agences |
+Adjoint au responsable du pôle inter-régional d'appui au contrôle de légalité (PIACL) |
 
 30 |
 
@@ -392,7 +406,7 @@ Chef du bureau de la relation avec les opérateurs et agences |
 
 1 |
 
-Direction générale de la police nationale |
+|
 
 Chef du bureau de la coordination budgétaire au sein de la direction centrale des compagnies républicaines de sécurité |
 
@@ -401,6 +415,8 @@ Chef du bureau de la coordination budgétaire au sein de la direction centrale d
 |
 
 1 |
+
+Direction générale de la police nationale |
 
 Chef du bureau des affaires disciplinaires au sein de la sous-direction de la stratégie des ressources humaines de la direction des ressources humaines, des finances et des soutiens de la police nationale |
 
@@ -450,7 +466,7 @@ Chef du bureau des personnels de police scientifique au sein de la sous-directio
 
 1 |
 
-Préfigurateur du bureau des personnels contractuels au sein de la sous-direction des personnels administratifs, techniques, spécialisés et scientifiques de la direction des ressources humaines, des finances et des soutiens de la police nationale |
+Chef du bureau des personnels contractuels au sein de la sous-direction des personnels administratifs, techniques, spécialisés et scientifiques de la direction des ressources humaines, des finances et des soutiens de la police nationale |
 
 30 |
 
@@ -554,7 +570,7 @@ Chef du pôle administratif et technique au sein de la sous-direction de la péd
 
 1 |
 
-Chef de la division de la stratégie et de la prospective à la sous-direction du pilotage et de la performance de la direction nationale de la sécurité publique |
+Chef de la division de la méthode et de la stratégie à la sous-direction du pilotage et de la performance de la direction nationale de la sécurité publique |
 
 20 |
 
@@ -632,7 +648,15 @@ Un poste |
 
 50 |
 
-- |
+1 |
+
+|
+
+Un poste |
+
+0 |
+
+|
 
 1 |
 
@@ -808,7 +832,15 @@ Chef du bureau du personnel civil à la sous-direction de la gestion du personne
 
 60 |
 
+1 |
+
 - |
+
+Adjoint chef de bureau du personnel civil à la SDGP/ DGGN |
+
+0 |
+
+|
 
 1 |
 
@@ -825,6 +857,14 @@ Adjoint au chef du bureau de l'administration à la sous-direction administrativ
 30 |
 
 - |
+
+1 |
+
+Chef de bureau de la reconversion et de la transition professionnelle à la sous-direction de l'accompagnement du personnel |
+
+50 |
+
+|
 
 1 |
 
@@ -855,14 +895,6 @@ Adjoint au chef du bureau de la rémunération et des pensions militaires au sei
 Chef du département de la ressource financière à la sous-direction des supports opérationnels de l'agence du numérique des forces de sécurité intérieure |
 
 30 |
-
-- |
-
-1 |
-
-Chef de bureau de la reconversion et de la transition professionnelle à la sous-direction de l'accompagnement du personnel |
-
-50 |
 
 - |
 
@@ -942,13 +974,15 @@ Directions et services |
 
 Fonctions |
 
-Points de NBI |
+Points
 
-Nombre d'emplois à forte
+de NBI |
 
-responsabilité
+Nombre d'emplois
 
-(EFR) |
+à forte
+
+responsabilité (EFR) |
 
 Nombre d'emplois de conseiller d'administration de l'intérieur
 
@@ -1176,21 +1210,29 @@ Directeur des ressources humaines |
 
 1 |
 
-3° Périmètre préfecture de police de Paris et secrétariat général pour l'administration du ministère de l'intérieur de la zone de défense et de sécurité de Paris ;
+3° Périmètre préfecture de police de Paris et secrétariat général pour l'administration du ministère de l'intérieur de la zone de défense et de sécurité de Paris :
 
 Directions et services |
 
 Fonctions |
 
-Points de NBI |
+Points
 
-Nombre d'emplois à forte
+de NBI |
 
-responsabilité
+Nombre d'emplois
 
-(EFR) |
+à forte
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
+responsabilité (EFR) |
+
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
 
 et de l'outre-mer
 
@@ -1554,15 +1596,23 @@ Directions et services |
 
 Fonctions |
 
-Points de NBI |
+Points
 
-Nombre d'emplois à forte
+de NBI |
 
-responsabilité
+Nombre d'emplois
 
-(EFR) |
+à forte
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
+responsabilité (EFR) |
+
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
 
 et de l'outre-mer
 
@@ -1598,9 +1648,7 @@ Adjoint au chef du département de synthèse, stratégie et soutien |
 
 1 |
 
-30
-
-Académie de police |
+30 Académie de police |
 
 Chef du département des ressources de l'école nationale de police de Nîmes |
 
@@ -1876,15 +1924,19 @@ Directions et services |
 
 Fonctions |
 
-Points de NBI |
+Points
 
-Nombre d'emplois à forte
+de NBI |
 
-responsabilité
+Nombre d'emplois
 
-(EFR) |
+à forte
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
+responsabilité (EFR) |
+
+Nombre d'emplois de conseiller d'administration
+
+de l'intérieur
 
 et de l'outre-mer
 
@@ -2010,7 +2062,7 @@ Chef du département des études et des ressources documentaires |
 
 1 |
 
-80 Région zonale de gendarmerie Hauts de France |
+80 Région zonale de gendarmerie Hauts-de-France |
 
 Chef du bureau des compétences |
 
@@ -2050,7 +2102,7 @@ Adjoint au chef de la division de l'immobilier et du logement (DIL) |
 
 - |
 
-94 Région zonale de gendarmerie d'Ile de France |
+94 Région zonale de gendarmerie d'Ile-de-France |
 
 Chef du bureau des compétences |
 
@@ -2084,7 +2136,7 @@ Chef du bureau soutien finances |
 
 974
 
-Commandement de la gendarmerie nationale de la Réunion |
+Commandement de la gendarmerie nationale de La Réunion |
 
 Chef du bureau des soutien et des finances |
 
@@ -2100,13 +2152,15 @@ Juridiction administrative |
 
 Fonctions |
 
-Points de NBI |
+Points
 
-Nombre d'emplois à forte
+de NBI |
 
-responsabilité
+Nombre d'emplois
 
-(EFR) |
+à forte
+
+responsabilité (EFR) |
 
 Nombre d'emplois de conseiller d'administration de l'intérieur
 
@@ -2312,7 +2366,13 @@ Nombre d'EFR ouvrant droit à la NBI par taux de NBI |
 
 Nombre de postes de CAIOM ouvrant droit à la NBI par taux de NBI |
 
-Total du nombre d'EFR |
+|
+
+Total
+
+du nombre
+
+d'EFR |
 
 60 points |
 
@@ -2322,7 +2382,9 @@ Total du nombre d'EFR |
 
 20 points |
 
-Total du nombre
+Total
+
+du nombre
 
 d'emplois
 
@@ -2336,7 +2398,9 @@ de CAIOM |
 
 20 points |
 
-Sans point de NBI |
+Sans point
+
+de NBI |
 
 01 Ain |
 
@@ -3286,7 +3350,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3294,7 +3358,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3670,7 +3734,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3678,7 +3742,7 @@ Sans point de NBI |
 
 1 |
 
-2 |
+1 |
 
 - |
 
@@ -3742,7 +3806,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3750,7 +3814,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3972,11 +4036,11 @@ Sans point de NBI |
 
 68 Haut-Rhin |
 
-- |
+1 |
 
 - |
 
-- |
+1 |
 
 - |
 
@@ -3986,13 +4050,13 @@ Sans point de NBI |
 
 - |
 
-1 |
+- |
 
 3 |
 
 - |
 
-- |
+1 |
 
 69 Rhône |
 
@@ -4884,13 +4948,21 @@ Sans point de NBI |
 
 8° Périmètre secrétariat général commun départemental :
 
-Localisation des emplois |
+Localisation
+
+des emplois |
 
 Nombre d'EFR ouvrant droit à la NBI par taux de NBI |
 
 Nombre de postes de CAIOM ouvrant droit à la NBI par taux de NBI |
 
-Total du nombre d'EFR |
+|
+
+Total
+
+du nombre
+
+d'EFR |
 
 60 points |
 
@@ -4900,7 +4972,9 @@ Total du nombre d'EFR |
 
 20 points |
 
-Total du nombre
+Total
+
+du nombre
 
 d'emplois
 
@@ -4914,7 +4988,9 @@ de CAIOM |
 
 20 points |
 
-Sans point de NBI |
+Sans point
+
+de NBI |
 
 01 Ain |
 
@@ -5420,7 +5496,7 @@ Sans point de NBI |
 
 1 |
 
-22 Côtes d'Armor |
+22 Côtes-d'Armor |
 
 - |
 
@@ -6356,7 +6432,7 @@ Sans point de NBI |
 
 - |
 
-62 Pas de Calais |
+62 Pas-de-Calais |
 
 - |
 
@@ -6380,7 +6456,7 @@ Sans point de NBI |
 
 - |
 
-63 Puy de Dôme |
+63 Puy-de-Dôme |
 
 - |
 
@@ -7052,7 +7128,7 @@ Sans point de NBI |
 
 1 |
 
-94 Val de Marne |
+94 Val-de-Marne |
 
 - |
 
@@ -7076,7 +7152,7 @@ Sans point de NBI |
 
 - |
 
-95 Val d'Oise |
+95 Val-d'Oise |
 
 |
 

@@ -130,7 +130,7 @@ Val-d'Oise |
 
 Directeur des migrations et de l'intégration |
 
-Secrétariat général commun départemental : |
+Secrétariat général commun départemental |
 
 |
 
