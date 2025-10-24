@@ -1,12 +1,14 @@
 # Article Annexe I
 
-Annexe I - Normes françaises homologuées
+NORMES FRANÇAISES HOMOLOGUÉES
 
 NF U 42-001-1 (octobre 2011). Engrais.-Dénominations et spécifications.-Partie 1 : engrais minéraux.
 
 NF U 42-001-1/ A1 (août 2019). Engrais.-Dénominations et spécifications.-Partie 1 : engrais minéraux.
 
 NF U 42-001-2 (octobre 2020). Engrais.-Dénominations et spécifications.-Partie 2 : engrais organiques.
+
+NF U 42-001-2/ A1 (2022). Engrais.-Dénominations et spécifications.-Partie 2 : engrais organiques
 
 NF U 42-001-3 (novembre 2020). Engrais.-Dénominations et spécifications.-Partie 3 : engrais organo-minéraux.
 
@@ -26,6 +28,8 @@ NF U 42-006 (octobre 1994). Engrais-Produits alcalinisants pour ajustement du pH
 
 NF U 44-001 (août 2017). Amendements minéraux basiques.-Exigences et spécifications techniques.
 
+NF U 44-001/ A1 (2024). Amendements minéraux basiques.-Exigences et spécifications techniques.
+
 NF U 44-003 (juillet 2015). Amendements Basiques contenant des matières d'intérêt agronomiques issues du traitement biologique des eaux.
 
 NF U 44-051 (avril 2006). Amendements organiques.-Dénominations, spécifications et marquage.
@@ -38,7 +42,7 @@ NF U 44-051/ A3 (août 2019). Amendements organiques.-Dénominations, spécifica
 
 NF U 44-095 (mai 2002). Amendements organiques-Composts contenant des matières d'intérêt agronomique, issues du traitement des eaux.
 
-NF U 44-095/ A1 (octobre 2008). Amendements organiques-Composts contenant des matières d'intérêt agronomique, issues du traitement des eaux
+NF U 44-095/ A1 (octobre 2008). Amendements organiques-Composts contenant des matières d'intérêt agronomique, issues du traitement des eaux.
 
 NF U 44-203 (mars 2012). Matière fertilisante ayant des caractéristiques mixtes-Amendements minéraux basiques.-Engrais.-Dénominations et spécifications.
 
@@ -46,7 +50,9 @@ NF U 44-203/ A1 (mars 2020). Matière fertilisante ayant des caractéristiques m
 
 NF U 44-204 (mai 2015). Matière fertilisante avec additif agronomique.-Dénominations et spécifications.
 
-NF U 44-295 (septembre 2017). Matière fertilisante ayant des caractéristiques mixtes-Amendement organique-Engrais-Composts contenant des matières d'intérêt agronomique, issues du traitement des eaux ayant une teneur en P2O5 supérieure ou égale à 3 %.
+NF U 44-204/ A1 (2024). Matière fertilisante avec additif agronomique.-Dénominations et spécifications.
+
+NF U 44-295 (août 2017). Matière fertilisante ayant des caractéristiques mixtes-Amendement organique-Engrais-Composts contenant des matières d'intérêt agronomique, issues du traitement des eaux ayant une teneur en P 2 O 5 supérieure ou égale à 3 %.
 
 NF U 44-551 (mai 2002). Supports de culture.-Dénominations, spécifications, marquage.
 
@@ -55,6 +61,8 @@ NF U 44-551/ A1 (février 2004). Supports de culture.-Dénominations, spécifica
 NF U 44-551/ A3 (janvier 2008). Supports de culture.-Dénominations, spécifications, marquage.
 
 NF U 44-551/ A4 (décembre 2009). Supports de culture.-Dénominations, spécifications, marquage.
+
+Les dates indiquées entre parenthèses correspondent aux dates de prise d'effet de l'homologation des normes par l'AFNOR.
 
 NOTA :
 
