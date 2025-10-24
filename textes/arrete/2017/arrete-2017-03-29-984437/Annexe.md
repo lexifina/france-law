@@ -228,7 +228,7 @@ Chef de l'office anti-stupéfiants.
 
 Adjoint au chef de l'office anti-stupéfiants.
 
-Sous-directeur du soutien opérationnel.
+Chef de l'unité nationale de lutte contre la criminalité organisée.
 
 6. Direction générale de la sécurité intérieure :
 
@@ -246,7 +246,7 @@ Sous-directeur du pilotage et de la performance.
 
 Sous-directeur des frontières.
 
-Directeur de la police aux frontières des aérodromes parisiens et directeur de l'aéroport de Roissy-Charles-de-Gaulle-Le Bourget.
+Directeur de la police aux frontières des aérodromes parisiens et directeur de la police aux frontières de l'aéroport de Roissy-Charles-de-Gaulle-Le Bourget.
 
 Chef de l'office de lutte contre le trafic illicite de migrants.
 
@@ -330,4 +330,4 @@ Conseiller technique chargé des affaires de police.
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 14 août 2025 (NOR : INTC2513797A), les dispositions issues de la rédaction de l’arrêté précité entrent en vigueur à compter du 1er septembre 2025.
+Conformément à l’article 2 de l’arrêté du 16 septembre 2025 (NOR : INTC2523229A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur à compter du 24 octobre 2025.
