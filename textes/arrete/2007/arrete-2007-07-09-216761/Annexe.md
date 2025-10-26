@@ -26,246 +26,246 @@ France métropolitaine-Moldavie.
 
 2. Liaisons internationales extracommunautaires :
 
-Jusqu'au 31 octobre 2025
+Arabie Saoudite :
 
-Nantes-Alger (Algérie) ;
+Lyon-Djeddah ;
 
-Nantes-Oran (Algérie) ;
+Lyon-Médine ;
 
-Nantes-Constantine (Algérie) ;
+Marseille-Djeddah ;
 
-Paris-Sfax (Tunisie).
+Marseille-Médine ;
 
-Jusqu'au 31 mars 2026
+Paris-Djeddah ;
 
-Strasbourg-Alger (Algérie) ;
+Paris-Médine ;
 
-Strasbourg-Constantine (Algérie) ;
+Toulouse-Djeddah.
 
-Bordeaux-Djerba (Tunisie) ;
+Algérie :
 
-Marseille-Djerba (Tunisie) ;
+Lyon-Alger ;
 
-Nice-Djerba (Tunisie) ;
+Lyon-Bejaïa ;
 
-Strasbourg-Djerba (Tunisie) ;
+Lyon-Constantine ;
 
-Toulouse-Djerba (Tunisie) ;
+Lyon-Oran ;
 
-Marseille-Monastir (Tunisie) ;
+Lyon-Tlemcen ;
 
-Nice-Monastir (Tunisie) ;
+Marseille-Alger ;
 
-Bordeaux-Tunis (Tunisie) ;
+Marseille-Annaba ;
 
-Marseille-Tunis (Tunisie) ;
+Marseille-Sétif ;
 
-Nice-Tunis (Tunisie) ;
+Montpellier-Alger ;
 
-Strasbourg-Tunis (Tunisie) ;
+Montpellier-Oran ;
 
-Toulouse-Tunis (Tunisie).
+Nantes-Alger ;
 
-Jusqu'au 30 juin 2026
+Nantes-Constantine ;
 
-Paris-Hammamet (Tunisie).
+Nantes-Oran ;
 
-Jusqu'au 31 juillet 2026
+Nice-Alger ;
 
-Paris-Louqsor (Egypte) ;
+Paris-Alger ;
 
-Paris-Hourghada (Egypte).
+Paris-Bejaïa ;
 
-Jusqu'au 31 octobre 2026
+Paris-Biskra ;
 
-Paris-Sal (Cap Vert) ;
+Paris-Constantine ;
 
-Paris-Boa Vista (Cap Vert).
+Paris-Oran ;
 
-Jusqu'au 30 novembre 2026
+Paris-Sétif ;
 
-Lyon-Sfax (Tunisie).
+Paris-Tlemcen ;
 
-Jusqu'au 31 mars 2027
+Strasbourg-Alger ;
 
-Nantes-Dakar (Sénégal).
+Strasbourg-Constantine ;
 
-Jusqu'au 30 avril 2027 :
+Toulouse-Alger ;
 
-Paris-Tunis (Tunisie) ;
+Toulouse-Oran.
 
-Paris-Djerba (Tunisie) ;
+Cap-Vert :
 
-Paris-Monastir (Tunisie).
+Bordeaux-Boa Vista ;
 
-Jusqu'au 31 octobre 2027 :
+Bordeaux-Sal ;
 
-Paris-Ankara (Turquie) ;
+Lyon-Sal ;
 
-Paris-Bodrum (Turquie) ;
+Lyon-Praia ;
 
-Lyon-Dakar (Sénégal) ;
+Marseille-Sal ;
 
-Lyon-Hurghada (Egypte) ;
+Marseille-Praia ;
 
-Lyon-Istanbul (Turquie) ;
+Nantes-Boa Vista ;
 
-Paris-Biskra (Algérie) ;
+Nantes-Sal ;
 
-Paris-Charm El-Cheikh (Egypte).
+Paris-Boa Vista ;
 
-Jusqu'au 31 mars 2028 :
+Paris-Praia ;
+
+Paris-Sal ;
+
+Paris-Saint-Vincent ;
+
+Toulouse-Boa Vista ;
+
+Toulouse-Sal.
+
+Egypte :
+
+Bordeaux-Hurghada ;
+
+Lyon-Hurghada ;
+
+Lyon-Le Caire, dans la limite de trois (3) fréquences hebdomadaires librement réparties entre les aéroports français hors Paris ;
+
+Marseille-Hurghada ;
+
+Marseille-Le Caire, dans la limite de trois (3) fréquences hebdomadaires librement réparties entre les aéroports français hors Paris ;
+
+Nantes-Hurghada ;
+
+Nantes-Le Caire, dans la limite de trois (3) fréquences hebdomadaires librement réparties entre les aéroports français hors Paris ;
+
+Paris-Charm El-Cheikh ;
+
+Paris-Hurghada ;
+
+Paris-Le Caire, dans la limite de six (6) fréquences hebdomadaires ;
+
+Paris-Louqsor ;
+
+Toulouse-Hurghada.
+
+Emirats Arabes Unis, dans la limite de six (6) fréquences hebdomadaires réparties entre les trois aéroports français :
+
+Lyon-Dubaï ;
+
+Marseille-Dubaï ;
+
+Toulouse-Dubaï.
+
+Liban :
+
+Lyon-Beyrouth, dans la limite de deux (2) fréquences hebdomadaires ;
+
+Marseille-Beyrouth, dans la limite de deux (2) fréquences hebdomadaires ;
+
+Dans la limite d'une fréquence hebdomadaire sur l'une des deux liaisons suivantes :
+
+Montpellier-Beyrouth,
+
+Nice-Beyrouth ;
+
+Paris-Beyrouth, dans la limite de sept (7) fréquences hebdomadaires.
+
+Sénégal :
+
+Bordeaux-Dakar ;
+
+Lille-Dakar ;
+
+Lyon-Dakar ;
+
+Marseille-Dakar ;
+
+Nantes-Dakar ;
+
+Nice-Dakar ;
+
+Toulouse-Dakar.
+
+Tunisie :
+
+Bordeaux-Djerba ;
+
+Bordeaux-Tunis ;
+
+Lyon-Djerba ;
+
+Lyon-Monastir ;
+
+Lyon-Sfax ;
+
+Lyon-Tunis ;
+
+Marseille-Djerba ;
+
+Marseille-Monastir ;
+
+Marseille-Tunis ;
+
+Montpellier-Tunis ;
+
+Nantes-Djerba ;
+
+Nantes-Monastir ;
+
+Nantes-Tunis ;
+
+Nice-Djerba ;
+
+Nice-Monastir ;
+
+Nice-Tunis ;
+
+Paris-Djerba ;
+
+Paris-Hammamet ;
+
+Paris-Monastir ;
+
+Paris-Sfax ;
+
+Paris-Tunis ;
+
+Paris-Tozeur ;
+
+Strasbourg-Djerba ;
+
+Strasbourg-Tunis ;
+
+Toulouse-Djerba ;
+
+Toulouse-Tunis.
+
+Turquie :
+
+Bordeaux-Istanbul ;
+
+Lyon-Antalya ;
+
+Lyon-Istanbul ;
+
+Marseille-Antalya ;
+
+Montpellier-Istanbul ;
+
+Nantes-Antalya ;
+
+Nantes-Istanbul ;
+
+Paris-Ankara ;
+
+Paris-Antalya ;
+
+Paris-Bodrum ;
+
+Paris-Istanbul ;
+
+Paris-Izmir ;
 
 Strasbourg-Istanbul.
-
-Jusqu'au 31 mars 2028 :
-
-Lyon-Djerba (Tunisie) ;
-
-Lyon-Tunis (Tunisie) ;
-
-Lyon-Tlemcen (Algérie) ;
-
-Bordeaux-Dakar (Sénégal) ;
-
-Toulouse-Dakar (Sénégal) ;
-
-Marseille-Dakar (Sénégal) ;
-
-Lyon-Antalya (Turquie) ;
-
-Nantes-Antalya (Turquie) ;
-
-Paris-Izmir (Turquie) ;
-
-Jusqu'au 30 juin 2028 :
-
-Paris-Le Caire (Egypte) dans la limite de six (6) fréquences hebdomadaires ;
-
-Paris-Tozeur (Tunisie) ;
-
-Paris-Praia (Cap-Vert) ;
-
-Paris-Saint-Vincent (Cap-Vert) ;
-
-Jusqu'au 30 juin 2028 et dans la limite de six (6) fréquences hebdomadaires librement réparties entre les deux aéroports français :
-
-Lyon-Dubaï (Emirats Arabes Unis) ;
-
-Marseille-Dubaï (Emirats Arabes Unis) ;
-
-Jusqu'au 30 juin 2028 et dans la limite de trois (3) fréquences hebdomadaires librement réparties entre les trois aéroports français :
-
-Marseille-Le Caire (Egypte) ;
-
-Nantes-Le Caire (Egypte) ;
-
-Lyon-Le Caire (Egypte).
-
-Jusqu'au 31 octobre 2028 :
-
-Nantes-Hurghada (Egypte).
-
-Jusqu'au 31 mars 2029 :
-
-Lyon-Alger (Algérie) ;
-
-Nantes-Tunis (Tunisie).
-
-Marseille-Antalya (Turquie) ;
-
-Montpellier-Istanbul (Turquie).
-
-Marseille-Beyrouth (Liban), dans la limite de deux (2) fréquences hebdomadaires ;
-
-Dans la limite d'une (1) fréquence hebdomadaire sur l'une des deux liaisons suivantes :
-
-Montpellier-Beyrouth (Liban) ;
-
-Nice-Beyrouth (Liban).
-
-Jusqu'au 31 juillet 2029 :
-
-Nice-Alger (Algérie).
-
-Jusqu'au 30 septembre 2029 :
-
-Toulouse-Alger (Algérie) ;
-
-Marseille-Alger (Algérie) ;
-
-Toulouse-Oran (Algérie).
-
-Jusqu'au 31 octobre 2029 :
-
-Lyon-Monastir (Tunisie) ;
-
-Nantes-Djerba (Tunisie) ;
-
-Nantes-Istanbul (Turquie) ;
-
-Nantes-Monastir (Tunisie) ;
-
-Marseille-Hurghada (Egypte) ;
-
-Nice-Dakar (Sénégal) ;
-
-Lille-Dakar (Sénégal) ;
-
-Toulouse-Dubaï (Emirats arabes unis) ;
-
-Bordeaux-Istanbul (Turquie) ;
-
-Paris-Djeddah (Arabie Saoudite) ;
-
-Lyon-Djeddah (Arabie Saoudite) ;
-
-Marseille-Sal (Cap-Vert) ;
-
-Lyon-Sal (Cap-Vert) ;
-
-Jusqu'au 31 janvier 2030 :
-
-Lyon-Bejaïa (Algérie) ;
-
-Lyon-Constantine (Algérie) ;
-
-Lyon-Oran (Algérie) ;
-
-Paris-Alger (Algérie) ;
-
-Paris-Oran (Algérie) ;
-
-Paris-Bejaïa (Algérie) ;
-
-Paris-Constantine (Algérie) ;
-
-Paris-Sétif (Algérie) ;
-
-Paris-Tlemcen (Algérie) ;
-
-Paris-Beyrouth (Liban), dans la limite de sept (7) fréquences hebdomadaires ;
-
-Lyon-Beyrouth (Liban), dans la limite de deux (2) fréquences hebdomadaires.
-
-Jusqu'au 31 janvier 2028 :
-
-Strasbourg-Istanbul (Turquie).
-
-Jusqu'au 31 janvier 2030 :
-
-Marseille-Annaba (Algérie) ;
-
-Marseille-Sétif (Algérie).
-
-Jusqu'au 31 mars 2030 :
-
-Paris-Antalya (Turquie) ;
-
-Paris-Istanbul (Turquie) ;
-
-Montpellier-Alger (Algérie) ;
-
-Montpellier-Oran (Algérie) ;
-
-Montpellier-Tunis (Tunisie).
