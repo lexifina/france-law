@@ -1,0 +1,9 @@
+# Réponse à la question n° 1656
+
+- Question : [1656](1656.md) — Question n° 1656 — Validation des acquis pour les enseignants dans les établissements médicosociaux
+
+## Réponse
+
+*JO du 2025-10-28, page 8720*
+
+Conformément à l'article 1er du décret n° 2017-169 du 10 février 2017 relatif au certificat d'aptitude professionnelle aux pratiques de l'éducation inclusive (CAPPEI) et à la formation professionnelle spécialisée, le CAPPEI est destiné à attester la qualification des professeurs du premier degré et du second degrés appelés à exercer leurs fonctions dans les écoles, les établissements scolaires et les établissements et services accueillant des élèves présentant des besoins éducatifs particuliers liés à une situation de handicap, de grande difficulté scolaire ou à une maladie et à contribuer à la mission de prévention des difficultés d'apprentissage et d'adaptation de l'enseignement. L'article 2 du décret du 10 février 2017 prévoit que peuvent uniquement se présenter à l'examen du CAPPEI les professeurs du premier degré et du second degrés de l'enseignement public, titulaires et contractuels employés par contrat à durée indéterminée, ainsi que les maîtres contractuels, les maîtres agréés et les maîtres délégués employés par contrat à durée indéterminée des établissements d'enseignement privés sous contrat. L'examen du CAPPEI a été récemment rendu plus accessible. Ainsi, depuis 2021, le CAPPEI peut désormais être délivré par la voie de la validation des acquis de l'expérience professionnelle. Il n'est toutefois pas envisagé actuellement de modifier la réglementation afin de permettre aux maîtres en contrat à durée déterminée de se présenter à l'examen. Ce processus de certification s'inscrit dans le cadre d'un engagement de longue durée auprès de la structure d'emploi et ne peut donc être ouvert qu'aux maîtres titulaires ou en contrat à durée indéterminée.
