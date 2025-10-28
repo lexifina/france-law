@@ -1,0 +1,9 @@
+# Réponse à la question n° 5625
+
+- Question : [5625](5625.md) — Question n° 5625 — Santé publique des enfants
+
+## Réponse
+
+*JO du 2025-10-28, page 8808*
+
+Le ministère de l'éducation nationale est engagé pour reconnaître le professionnalisme et le rôle essentiel des infirmières pour la réussite, la santé et le bien-être des élèves. Le nombre de postes ouverts au concours unique a sensiblement augmenté ces dernières années. En 2025, pour la troisième année consécutive, plus de 400 postes ont été ouverts au recrutement. Après de nombreuses années marquées par une diminution du nombre d'infirmières scolaires, les effectifs sont ainsi repartis à la hausse depuis 2022. Cette évolution a été appuyée par des mesures fortes mises en œuvre par le ministère pour l'attractivité de la profession. Outre leur revalorisation indiciaire dans le cadre de la transposition du Ségur de la santé, les personnels infirmiers ont bénéficié en 2021, dans le cadre du Grenelle de l'éducation, d'une revalorisation moyenne de 400 € annuels bruts pour un équivalent temps plein. En 2022 et 2023, deux nouvelles mesures indemnitaires ont permis à l'ensemble des personnels infirmiers, logés et non logés, de bénéficier de revalorisations indemnitaires d'un montant annuel brut moyen de 1 280 € sur les deux années. Au total, entre 2019 et 2023, le montant des primes perçues par les infirmières a augmenté de plus de 50 %. Enfin, en 2024, les infirmières scolaires ont bénéficié d'une mesure pérenne de revalorisation de la grille indiciaire (+ 49 points d'indice majoré par échelon) applicable à compter du mois de mai et d'une prime exceptionnelle de 800 € nets, soit 936 € bruts, au titre des quatre premiers mois de l'année. Le renforcement des moyens humains dédiés à la médecine scolaire et l'accompagnement social des élèves reste un objectif prioritaire du ministère.
