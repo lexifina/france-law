@@ -1,0 +1,9 @@
+# Réponse à la question n° 1661
+
+- Question : [1661](1661.md) — Question n° 1661 — Absences non remplacées de professeurs en collèges
+
+## Réponse
+
+*JO du 2025-10-28, page 8721*
+
+Le remplacement des professeurs absents, constitue une priorité du service public de l'éducation nationale. Son efficacité dans les écoles, les collèges et les lycées répond à des objectifs de continuité pédagogique et de garantie de la qualité du service rendu aux élèves et à leur famille. L'ensemble des services du ministère, administration centrale et services déconcentrés (rectorats et direction des services départementaux de l'éducation nationale) sont pleinement mobilisés pour améliorer le remplacement des enseignants absents, qu'il s'agisse des absences de courte durée (inférieures à 15 jours) ou bien des absences de longue durée (supérieures à 15 jours). Partout, il s'agit d'élaborer une réponse durable au plus près des territoires, en proposant une offre éducative de qualité et de proximité permettant de garantir une continuité des enseignements dans écoles, les collèges et les lycées. Les services de l'académie d'Aix-Marseille suivent la situation de ces établissements, en lien avec la direction des services de l'éducation nationale du département (DSDEN) des Bouches-du-Rhône. L'ensemble des services académiques en charge de la gestion du remplacement mettent tout en œuvre pour répondre aux besoins de remplacement en complément de l'action engagée au sein de l'établissement dans le cadre de remplacements de courte durée, cela dans un contexte où dans certaines disciplines les viviers de personnels remplaçants sont forts contraints parce que très mobilisés. En effet dans le second degré, l'efficacité du remplacement des enseignants absents et plus particulièrement la capacité des services académiques à mobiliser les ressources de remplacement se heurte à une double contrainte géographique et disciplinaire.
