@@ -1,0 +1,9 @@
+# Réponse à la question n° 5551
+
+- Question : [5551](5551.md) — Question n° 5551 — Avenir des écoles élémentaires dites "orphelines"
+
+## Réponse
+
+*JO du 2025-10-28, page 8806*
+
+La politique d'éducation prioritaire mise en place par le ministère chargé de l'éducation nationale privilégie une approche en réseau pour agir tout au long du parcours des élèves, depuis la petite section de la maternelle jusqu'à la fin de la troisième, et pour développer une approche inter-degrés structurée autour d'alliances éducatives fortes. Ainsi, la carte de l'éducation prioritaire reposant sur les secteurs des collèges, certaines écoles, notamment en quartiers prioritaires de la politique de la ville, n'ont pas pu intégrer les réseaux d'éducation prioritaire (REP) à la dernière révision de la carte, en 2014, et ce, malgré des caractéristiques sociales proches de celles de l'éducation prioritaire. Il convient toutefois de rappeler, d'une part, que si la carte des collèges REP et REP+ et des écoles REP+ fait l'objet d'un arrêté ministériel, la labellisation des écoles REP relève quant à elle de la compétence du recteur d'académie et, d'autre part, que des dispositifs d'accompagnement et des moyens spécifiques sont déployés par les services académiques pour soutenir les établissements qui, sans être classés en REP, rencontrent des besoins particuliers. Néanmoins, les évolutions socio-économiques intervenues depuis les arbitrages réalisés en 2014-2015 font que la carte de l'éducation prioritaire nécessite d'être révisée. À cet effet, des réflexions approfondies au niveau national sont engagées pour formuler des propositions de révision de la carte, tout en garantissant une cohérence et une équité sur l'ensemble du territoire national. Cependant, compte tenu des travaux de préparation et de concertation, aucune modification de la carte ne pourra intervenir avant la rentrée scolaire 2026, au plus tôt.
