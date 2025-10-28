@@ -1,0 +1,9 @@
+# Réponse à la question n° 2853
+
+- Question : [2853](2853.md) — Question n° 2853 — Rémunération des chefs d'établissements du 1er degré
+
+## Réponse
+
+*JO du 2025-10-28, page 8723*
+
+En vertu de l'article L. 914-1 du code de l'éducation, les maîtres contractuels et agréés exerçant la fonction de directeur d'un établissement d'enseignement privé du premier degré sous contrat bénéficient de décharges de service dans les mêmes conditions que les directeurs d'écoles publiques mentionnés à l'article R. 914-18 du code de l'éducation. Les directeurs d'enseignement privé, selon l'article L. 442-5 du code de l'éducation, ne sont rémunérés par l'État qu'en leur qualité d'agent public pour leurs fonctions d'enseignement. Les rémunérations complémentaires liées aux fonctions de direction sont à la charge des organismes de gestion de l'enseignement catholique (OGEC). Le cas des multi-employeurs est prévu par l'article L. 242-3 du code de la sécurité sociale qui relève que la part des cotisations incombant à chaque employeur est déterminée au prorata des rémunérations qu'ils ont respectivement versées, dans la limite du plafond de la sécurité sociale, le salarié étant tenu de faire connaître à chaque employeur les rémunérations reçues. Or, en l'absence de partage des informations, les deux employeurs calculent les précomptes sur les rémunérations qu'ils ont versées de leur côté, ce qui induit, pour les directeurs d'établissements privés, des cotisations trop versées, sans création de droits à retraite correspondants. Afin de pallier cette problématique, les services de l'éducation nationale collaborent avec la direction générale des finances publiques, pour mettre en place une procédure commune harmonisée, sur le modèle de ce qui existe déjà dans certaines académies. Cette procédure devrait permettre aux rectorats de connaître les autres rémunérations perçues par les agents et d'ajuster en conséquence le montant des cotisations sociales perçues.
