@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250705790
+
+- Question : [SEQ250705790](seq250705790.md) — Retrait des lettres « grand format » promotionnelles à la suite de l'avis des architectes des bâtiments de France
+
+## Réponse
+
+*Culture, JO du 2025-10-30, page 5431*
+
+L'installation de lettres de grande taille à l'effigie du nom des collectivités territoriales s'est particulièrement développée durant les dernières années, dans un objectif de renforcement de la visibilité des territoires. Souvent implantés dans des lieux emblématiques des villes et villages, ces dispositifs peuvent avoir un impact important sur certaines vues urbaines ou paysagères et porter potentiellement atteinte au patrimoine environnant. En cas d'implantation dans un site protégé pour son intérêt patrimonial tel qu'un site patrimonial remarquable ou dans les abords d'un monument historique, cette installation nécessite la délivrance d'une autorisation de travaux comprenant l'accord de l'architecte des bâtiments de France. Ce dernier s'assure, conformément à l'article L. 632-2 du code du patrimoine, du respect de l'intérêt public attaché au patrimoine, à l'architecture, au paysage naturel ou urbain, à la qualité des installations et à leur insertion harmonieuse dans le milieu environnant. Dès lors, il est conseillé aux collectivités territoriales qui souhaitent mettre en place ce type d'installation de grande dimension au sein de sites patrimoniaux, afin de garantir une conception qualitative ainsi qu'une bonne intégration de ces dispositifs, d'associer l'unité départementale de l'architecture et du patrimoine (UDAP) territorialement compétente, au projet envisagé. Les UDAP, réparties sur l'ensemble du territoire, demeurent à la disposition des demandeurs, notamment des collectivités territoriales, en amont du dépôt d'une demande d'autorisation de travaux afin de les conseiller et de les orienter dans la conception de leur projet.
