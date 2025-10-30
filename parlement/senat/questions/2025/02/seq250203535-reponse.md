@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250203535
+
+- Question : [SEQ250203535](seq250203535.md) — Pénurie de médecins scolaires au sein de l'éducation nationale
+
+## Réponse
+
+*Éducation nationale, JO du 2025-10-30, page 5456*
+
+Le ministère chargé de l'éducation nationale est pleinement conscient des enjeux pour la santé scolaire, dans un contexte de rareté des professionnels de santé, et tout particulièrement des médecins. Parmi les leviers d'attractivité de la profession figure la rémunération. Les mesures de revalorisation indemnitaire mises en oeuvre en 2021, 2022 et 2023 ont permis d'y répondre en partie. Sur cette période, les médecins de l'éducation nationale et les médecins conseillers techniques ont bénéficié respectivement d'une revalorisation indemnitaire moyenne de 7 700 euros et de 8 700 euros annuels. Il a également été demandé aux académies de mener une politique volontariste de recrutement de médecins contractuels pour pourvoir les emplois vacants, parmi les médecins libéraux notamment, en leur proposant une rémunération cohérente avec celle des médecins titulaires et avec le montant des émoluments versés aux internes en médecine. L'amélioration des conditions d'exercice doit aussi permettre de renforcer l'attractivité du métier. Dans cette optique, les académies sont invitées à maintenir, dans les centres médico-scolaires, les compétences liées au secrétariat médical, et à valoriser les personnels y exerçant dans le cadre du plan de requalification de la filière administrative. En outre, le ministère a engagé, en lien avec les médecins conseillers techniques des recteurs, une démarche de revue des missions, qui permette aux médecins scolaires de se concentrer sur les activités de prévention et de protection de la santé des élèves. Cette démarche constitue pour les médecins une garantie supplémentaire que leur activité s'oriente bien vers l'accomplissement de leurs missions premières.
