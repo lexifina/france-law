@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250203491
+
+- Question : [SEQ250203491](seq250203491.md) — Statistiques sur la fréquentation de la restauration scolaire au 1er degré
+
+## Réponse
+
+*Éducation nationale, JO du 2025-10-30, page 5453*
+
+La direction de l'évaluation, de la prospective et de la performance (DEPP), service statistique du ministère de l'éducation nationale, a engagé des travaux pour répondre au besoin de statistiques sur la fréquentation de la restauration scolaire dans le premier degré, en réponse à la deuxième proposition formulée par le haut conseil de la famille, de l'enfance et de l'âge (HCFEA) dans son rapport sur la restauration scolaire du 12 novembre 2024. Deux nouvelles questions ont été intégrées à l'enquête auprès des familles, dont la collecte est prévue au printemps 2025, dans le cadre du dispositif du panel de 35 000 élèves suivis depuis leur entrée en petite section de maternelle à la rentrée 2021. La première question posée aux familles a trait à la fréquence à laquelle l'enfant mange à la cantine ; la seconde question porte sur les raisons pour lesquelles l'enfant ne mange pas à la cantine. Ces données s'ajouteront aux informations riches déjà recueillies dans ce dispositif, au regard notamment de l'environnement familial de l'enfant. Elles permettront donc, en réponse à la proposition du HCFEA, de « mener des études permettant de déterminer les raisons du non-recours à la restauration scolaire ». En parallèle, la DEPP a lancé une action en vue d'« améliorer la qualité de l'information sur l'accès des élèves d'un établissement scolaire à un service de restauration dans le répertoire Ramsese » comme mentionné également dans la recommandation du HCFEA. À l'automne 2024, une réflexion commune a été engagée par la DEPP avec les gestionnaires en charge de l'alimentation du répertoire dans les rectorats, pour parvenir à cette amélioration.
