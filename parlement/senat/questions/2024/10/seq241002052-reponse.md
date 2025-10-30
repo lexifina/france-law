@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241002052
+
+- Question : [SEQ241002052](seq241002052.md) — Reconduction des contrats des enseignantes non-titulaires après un congé maternité
+
+## Réponse
+
+*Éducation nationale, JO du 2025-10-30, page 5435*
+
+Concernant la réintégration et le réemploi d'une maîtresse déléguée ayant bénéficié d'un congé maternité, l'article R. 914-58 du code de l'éducation prévoit que les maîtres délégués sont soumis, pour la détermination de leurs conditions d'exercice et de cessation de fonctions, aux règles applicables aux agents contractuels enseignants de l'enseignement public des premier et second degrés. En application des articles 15 et 17 du décret n° 86-83 du 17 janvier 1986, les agentes non titulaires de l'État bénéficient du droit d'être réintégrées à l'issue du congé maternité, à condition que l'agente soit physiquement apte à reprendre son poste et si les exigences de service le permettent. Si ce n'est pas le cas, elle bénéficiera d'une priorité pour être réintégrée dans un poste ou une fonction similaire offrant une rémunération équivalente. Toutefois, le congé de maternité est accordé aux agentes contractuelles en contrat à durée déterminée dans la limite de la période d'engagement restant à courir. Le renouvellement de l'engagement, si le besoin d'emploi perdure, débutera à la fin de la période légale de congé de maternité. Les maîtres de l'enseignement privé recrutés en contrat à durée déterminée n'ont pas de droit à voir leur engagement systématiquement reconduit, un éventuel renouvellement résultant uniquement du besoin à couvrir. Ces éléments ont été rappelés dans la circulaire du 21 août 2024 relative au cadre de gestion des maîtres délégués des établissements privés sous contrat des premier et second degrés (publiée au BOENJS n° 34 du 12 septembre 2024), afin de garantir une égalité de traitement des agents sur l'ensemble du territoire.
