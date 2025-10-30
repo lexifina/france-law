@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250303824
+
+- Question : [SEQ250303824](seq250303824.md) — Accueil en classe des enfants en situation de handicap suite à une absence pour bénéficier de soins médicaux sur le temps scolaire
+
+## Réponse
+
+*Éducation nationale, JO du 2025-10-30, page 5464*
+
+Lors de la conférence nationale pour le handicap (CNH) du 26 avril 2023, le Président de la République a rappelé que la scolarisation des élèves en situation de handicap est une priorité. L'enjeu est de rendre les savoirs et les apprentissages accessibles à tous les élèves et de les accompagner tout au long de leur parcours scolaire. L'aménagement de l'emploi du temps du projet personnalisé de scolarisation de l'élève en situation de handicap est élaboré en équipe de suivi de scolarisation (ESS) à laquelle les représentants légaux de l'élève, le directeur de l'école ou le chef d'établissement, le ou les professeurs de la classe, le médecin scolaire, l'enseignant référent et les professionnels de santé libéraux ou du secteur médico-social tels que les orthophonistes participent. Dans ce cadre, l'équipe de suivi de scolarisation peut proposer d'aménager le début et la fin des demi-journées scolaires pour la mise en place de séances d'orthophonie, le temps de la pause récréative n'étant pas dédié à cet effet. Les séances d'orthophonie se tenant sur le temps scolaire, le professeur de l'élève tient compte de ces aménagements décidés en ESS et au retour de l'élève en situation de handicap en classe. Il différencie sa pédagogie afin de lui permettre de suivre l'ensemble des apprentissages, comme pour tout autre élève. Enfin, une réflexion est engagée au niveau national pour favoriser l'intervention des professionnels de santé au sein des écoles et des établissements scolaires. Il s'agit de faciliter leur accès pour permettre aux élèves qui en ont besoin de bénéficier des soins qui leur sont essentiels, tout en évitant les ruptures scolaires défavorables à leur réussite.
