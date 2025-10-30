@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250303614
+
+- Question : [SEQ250303614](seq250303614.md) — Moyens en faveur de l'engagement des professeurs des écoles pour l'activité sportive des élèves
+
+## Réponse
+
+*Éducation nationale, JO du 2025-10-30, page 5460*
+
+La pratique du sport et de l'activité physique à l'école constitue une priorité du ministère chargé de l'éducation nationale, à la fois pour les compétences propres qu'elle permet de développer chez les élèves, mais aussi pour les compétences transversales qu'elle porte et pour les habitus favorisant leur santé physique et mentale. Au cours de sa scolarité, l'élève reçoit un enseignement en éducation physique et sportive (EPS) obligatoire inscrit à son emploi du temps. Des dispositifs obligatoires ou facultatifs, en plus de l'EPS, sont proposés tout au long du cursus scolaire de l'élève, tels que les 30 minutes d'activité physique quotidienne (APQ) à l'école. Par ailleurs, le sport scolaire, porté par les associations Union sportive de l'enseignement du premier degré (USEP) dans l'enseignement public et Union générale sportive de l'enseignement libre (UGSEL) dans l'enseignement privé, vient en complément de l'EPS pour les élèves volontaires dans le premier degré. L'affiliation de l'association sportive (AS) des écoles à l'USEP est une démarche volontaire émanant du conseil d'école. L'animation de ces AS est assurée par des enseignants volontaires et bénévoles, accompagnés ou non d'autres membres de la communauté éducative. Avec près de 765 000 élèves licenciés à l'USEP en 2023-2024, le dynamisme des associations scolaires du premier degré, soutenu par les délégués départementaux fait montre d'un engagement remarquable et reconnu des enseignants. Il n'est pas prévu de modifier les obligations réglementaires des professeurs des écoles pour y intégrer des heures obligatoirement consacrées au sport scolaire dans le cadre d'une association sportive affiliée à l'USEP.
