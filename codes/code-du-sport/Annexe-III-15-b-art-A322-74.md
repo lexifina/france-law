@@ -106,9 +106,11 @@ Stagiaire DESJEPS plongée
 
 |
 
-Enseignant niveau 4 (E-1)
+Enseignant niveau 4 (E-4)
 
 |
+
+BEPPA FFESSM
 
 MF2 FFESSM ou FSGT (*)
 
