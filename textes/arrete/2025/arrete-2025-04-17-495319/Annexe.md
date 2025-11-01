@@ -24,7 +24,7 @@ Durée : cinq heures.
 
 Coefficient 2,5.
 
-L'épreuve est notée sur 20. Chaque partie compte pour 10 points. Une note globale égale ou inférieure à 5 est éliminatoire ;
+L'épreuve est notée sur 20. Chaque partie compte pour 10 points. Une note globale égale ou inférieure à 5 est éliminatoire.
 
 2° Seconde épreuve d'admissibilité.
 
@@ -66,7 +66,11 @@ Durée de la préparation : trois heures. Durée de l'épreuve : une heure.
 
 Coefficient 5.
 
-L'épreuve est notée sur 20. La partie principale dans la discipline majeure compte pour 13 points, la partie complémentaire dans la discipline mineure compte pour 7 points. La note 0 est éliminatoire ;
+L'épreuve est notée sur 20.
+
+La partie principale dans la discipline majeure compte pour 13 points, la partie complémentaire dans la discipline mineure compte pour 7 points.
+
+La note 0 est éliminatoire.
 
 2° Seconde épreuve d'admission.
 
@@ -76,7 +80,7 @@ Durée : trente-cinq minutes. Coefficient 3.
 
 SECTION BIOTECHNOLOGIES
 
-Option biochimie-génie biologique Option santé-environnement
+Option biochimie-génie biologique, option santé-environnement
 
 Le programme de l'épreuve d'admissibilité et de la première épreuve d'admission fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
 
@@ -116,7 +120,7 @@ Durée de totale de l'épreuve : cinq heures (préparation : quatre heures ; exp
 
 Coefficient 5.
 
-L'épreuve est notée sur 20. La note 0 est éliminatoire ;
+L'épreuve est notée sur 20. La note 0 est éliminatoire.
 
 2° Seconde épreuve d'admission.
 
@@ -128,7 +132,7 @@ Coefficient 3.
 
 SECTION ÉCONOMIE ET GESTION
 
-Option gestion et administration ; option commerce et vente Option transport et logistique ; option sécurité et prévention
+Option gestion et administration, option commerce et vente, option transport et logistique, option sécurité et prévention
 
 Le programme des épreuves d'admissibilité et de la première épreuve d'admission fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
 
@@ -150,7 +154,7 @@ Durée : quatre heures.
 
 Coefficient : 2.
 
-L'épreuve est notée sur 20. Une note globale égale ou inférieure à 5 est éliminatoire ;
+L'épreuve est notée sur 20. Une note globale égale ou inférieure à 5 est éliminatoire.
 
 2° Seconde épreuve d'admissibilité.
 
@@ -186,7 +190,7 @@ Durée de l'épreuve : une heure (exposé vingt minutes ; échange avec le jury 
 
 Coefficient : 5.
 
-L'épreuve est notée sur 20. La note 0 est éliminatoire ;
+L'épreuve est notée sur 20. La note 0 est éliminatoire.
 
 2° Seconde épreuve d'admission.
 
@@ -216,7 +220,7 @@ Durée : cinq heures.
 
 Coefficient : 2,5.
 
-L'épreuve est notée sur 20. Une note globale égale ou inférieure à 5 est éliminatoire ;
+L'épreuve est notée sur 20. Une note globale égale ou inférieure à 5 est éliminatoire.
 
 2° Seconde épreuve d'admissibilité.
 
@@ -268,13 +272,13 @@ Cette partie de l'épreuve se décline, selon la discipline mineure choisie, de 
 
 - pour la discipline mineure langue vivante : cette partie complémentaire de l'épreuve se déroule entièrement dans la langue vivante étrangère. Le candidat propose une restitution du document audio ou vidéo au regard de la question posée. Cette restitution est suivie d'un échange avec le jury ;
 
-- pour la discipline mineure lettres : le candidat propose une analyse du texte littéraire au regard de la question posée. Cette analyse est suivi d'un échange avec le jury.
+- pour la discipline mineure lettres : le candidat propose une analyse du texte littéraire au regard de la question posée. Cette analyse est suivie d'un échange avec le jury.
 
 Durée de la préparation : trois heures Durée de l'épreuve : une heure.
 
 Coefficient : 5.
 
-L'épreuve est notée sur 20. La partie principale dans la discipline majeure compte pour 13 points, la partie complémentaire dans la discipline mineure compte pour 7 points. La note 0 est éliminatoire ;
+L'épreuve est notée sur 20. La partie principale dans la discipline majeure compte pour 13 points, la partie complémentaire dans la discipline mineure compte pour 7 points. La note 0 est éliminatoire.
 
 2° Seconde épreuve d'admission.
 
@@ -310,7 +314,7 @@ Durée : cinq heures.
 
 Coefficient : 2,5.
 
-L'épreuve est notée sur 20. Une note globale égale ou inférieure à 5 est éliminatoire ;
+L'épreuve est notée sur 20. Une note globale égale ou inférieure à 5 est éliminatoire.
 
 2° Seconde épreuve d'admissibilité.
 
@@ -356,13 +360,13 @@ Partie complémentaire dans la discipline mineure (proposition d'analyse ou de c
 
 Cette partie de l'épreuve se décline, selon la discipline mineure choisie, de la façon suivante :
 
-- pour la discipline mineure lettres : le candidat propose une analyse du texte littéraire au regard de la question posée. Cette analyse est suivi d'un échange avec le jury.
+- pour la discipline mineure lettres : le candidat propose une analyse du texte littéraire au regard de la question posée. Cette analyse est suivie d'un échange avec le jury.
 
 - pour la discipline mineure histoire géographie : le candidat propose un commentaire d'un document, en histoire ou en géographie, au regard de la question posée. Ce commentaire est suivi d'un échange avec le jury.
 
 Durée de la préparation : trois heures Durée de l'épreuve : une heure.
 
-Coefficient : 5. L'épreuve est notée sur 20. La partie principale dans la discipline majeure compte pour 13 points, la partie complémentaire dans la discipline mineure compte pour 7 points. La note 0 est éliminatoire ;
+Coefficient : 5. L'épreuve est notée sur 20. La partie principale dans la discipline majeure compte pour 13 points, la partie complémentaire dans la discipline mineure compte pour 7 points. La note 0 est éliminatoire.
 
 2° Seconde épreuve d'admission.
 
@@ -390,7 +394,7 @@ Durée : trois heures.
 
 Coefficient 2,5.
 
-L'épreuve est notée sur 20. La partie commune compte pour 10 points, la partie spécifique compte pour 10 points. Une note globale égale ou inférieure à 5 est éliminatoire ;
+L'épreuve est notée sur 20. La partie commune compte pour 10 points, la partie spécifique compte pour 10 points. Une note globale égale ou inférieure à 5 est éliminatoire.
 
 2° Seconde épreuve d'admissibilité - Epreuve disciplinaire de physique-chimie.
 
@@ -432,7 +436,7 @@ Durée de la préparation : deux heures trente minutes. Durée de l'épreuve : u
 
 Coefficient 5.
 
-L'épreuve est notée sur 20. La note 0 est éliminatoire ;
+L'épreuve est notée sur 20. La partie principale dans la discipline majeure compte pour 13 points, la partie complémentaire dans la discipline mineure compte pour 7 points. La note 0 est éliminatoire.
 
 2° Seconde épreuve d'admission.
 
@@ -484,7 +488,7 @@ Durée de totale de l'épreuve : cinq heures (préparation : quatre heures ; exp
 
 Coefficient : 5.
 
-L'épreuve est notée sur 20. La note 0 est éliminatoire ;
+L'épreuve est notée sur 20. La note 0 est éliminatoire.
 
 2° Seconde épreuve d'admission.
 
