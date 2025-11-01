@@ -274,6 +274,18 @@ Sédentaire |
 
 Sédentaire |
 
+502. Opérateur RH de bureau de dépôt |
+
+Tableau A
+
+Deuxième partie |
+
+503. Opérateur chargé de la commande de service |
+
+Tableau A
+
+Deuxième partie |
+
 IV) Personnel de maîtrise des ateliers et des services techniques |
 
 41. Chef d'équipe d'ouvriers O1 et O2 |
@@ -453,6 +465,18 @@ Sédentaire |
 501. Responsable de la communication et des fonctions commerciales (relations clients, informations-voyageurs, marketing, billettique et vente) |
 
 Sédentaire |
+
+504. Agent de maîtrise RH de bureau de dépôt |
+
+Tableau A
+
+Deuxième partie |
+
+505. Agent de maîtrise chargé de la commande de service |
+
+Tableau A
+
+Deuxième partie |
 
 VII) Personnel technicien et dessinateurs |
 
