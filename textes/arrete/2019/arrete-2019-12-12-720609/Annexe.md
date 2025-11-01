@@ -8,9 +8,9 @@ MONTANT MAXIMUM
 
 DES MARCHÉS (1) |
 
-Marchés
+Marchés de fournitures
 
-de fournitures et de services |
+et de services |
 
 Marchés
 
@@ -20,66 +20,60 @@ Le commandant du soutien opérationnel de la gendarmerie nationale |
 
 Illimité |
 
-Les commandants de région de gendarmerie située au siège d'une zone de défense et de sécurité (hors zone de Paris) |
+Les commandants de région de gendarmerie, commandant la gendarmerie pour une zone de défense et de sécurité |
 
-MAPA x 180 |
+MAPA × 180 |
 
-MAPA x 10 |
-
-Le commandant de la région de gendarmerie d'Ile-de-France, commandant la gendarmerie pour la zone de défense et de sécurité de Paris |
-
-MAPA x 180 |
-
-MAPA x 10 |
+MAPA × 10 |
 
 Les commandants de région de gendarmerie non-située au siège d'une zone de défense et de sécurité |
 
-MAPA x 7 |
+MAPA × 7 |
 
-MAPA x 10 |
+MAPA × 10 |
 
 Le commandant des écoles de la gendarmerie nationale |
 
-MAPA x 40 |
+MAPA × 40 |
 
-MAPA x 2 |
+MAPA × 2 |
 
 Le commandant de l'Académie militaire de la gendarmerie nationale |
 
-MAPA x 1 |
+MAPA × 1 |
 
 Le commandant de la gendarmerie outre-mer |
 
-MAPA x 10 |
+MAPA × 10 |
 
-MAPA x 1 |
+MAPA × 1 |
 
 Les commandants de gendarmerie outre-mer |
 
-MAPA x 10 |
+MAPA × 10 |
 
-MAPA x 1 |
+MAPA × 1 |
 
-Le commandant du pôle judiciaire de la gendarmerie nationale |
+Le commandant de l'unité nationale de police judiciaire de la gendarmerie nationale |
 
-MAPA x 1 |
+MAPA × 1 |
 
 Le commandant des forces aériennes de la gendarmerie nationale |
 
-MAPA x 1 |
+MAPA × 1 |
 
 Le commandant de la gendarmerie des transports aériens |
 
-MAPA x 1 |
+MAPA × 1 |
 
 Le commandant du groupe d'intervention de la gendarmerie nationale |
 
-MAPA x 10 |
+MAPA × 10 |
 
-MAPA x 1 |
+MAPA × 1 |
 
 Le commandant de la garde républicaine |
 
-MAPA x 1 |
+MAPA × 1 |
 
-(1) L'expression MAPA x s'entend comme suit : marché ou accord-cadre dont le montant est inférieur à n fois le seuil de procédure formalisée tel que défini dans l'avis prévu par les dispositions de l'article R. 2124-1 du code de la commande publique et en dessous duquel les marchés et accords-cadres peuvent être passés selon une procédure adaptée. |
+(1) L'expression " MAPA × " s'entend comme suit : marché ou accord-cadre dont le montant est inférieur à n fois le seuil de procédure formalisée tel que défini dans l'avis prévu par les dispositions de l'article R. 2124-1 du code de la commande publique et en dessous duquel les marchés et accords-cadres peuvent être passés selon une procédure adaptée. |
