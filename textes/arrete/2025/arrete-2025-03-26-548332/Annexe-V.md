@@ -2,7 +2,7 @@
 
 ANNEXE V
 
-Périodes de formation en milieu professionnel Certificat d'aptitude professionnelle spécialité maintenance des véhicules
+Périodes de formation en milieu professionnel " Certificat d'aptitude professionnelle spécialité maintenance des véhicules "
 
 Les périodes de formation en milieu professionnel se déroulent dans une ou plusieurs entreprises définies par le référentiel des activités professionnelles accueillant des professionnels qualifiés.
 
@@ -70,7 +70,7 @@ En cas de situation d'entreprise n'offrant pas tous les aspects de la formation,
 
 La formation se déroule en milieu professionnel et en centre de formation continue. Ces deux lieux assurent conjointement l'acquisition des compétences figurant dans le référentiel du diplôme.
 
-Lors de son inscription à l'examen, le candidat est tenu de présenter soit un certificat attestant qu'il a suivi la formation de 12 semaines en entreprise, requise pour se présenter à l'examen soit un ou plusieurs certificats de travail attestant que l'intéressé a participé à des activités visées par le diplôme en qualité de salarié à temps plein, pendant six mois au cours de l'année précédant l'examen, ou à temps partiel pendant un an au cours des deux années précédant l'examen.
+Le candidat est tenu de présenter soit un certificat attestant qu'il a suivi la formation de 12 semaines en entreprise, requise pour se présenter à l'examen soit un ou plusieurs certificats de travail attestant que l'intéressé a participé à des activités visées par le diplôme en qualité de salarié à temps plein, pendant six mois au cours de l'année précédant l'examen, ou à temps partiel pendant un an au cours des deux années précédant l'examen.
 
 A l'issue de chaque période de formation, l'attestation de présence doit être renseignée et signée par le tuteur ou, le cas échéant, l'employeur. Elle précise la période, la structure et le nombre de semaines effectuées.
 

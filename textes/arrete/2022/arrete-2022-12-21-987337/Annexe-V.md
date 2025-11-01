@@ -158,7 +158,7 @@ Il est important que les diverses activités de la formation soient réalisées 
 
 La formation se déroule en milieu professionnel et en centre de formation continue. Ils assurent conjointement l'acquisition des compétences figurant dans le référentiel de certification du diplôme.
 
-Lors de son inscription à l'examen, le candidat est tenu de présenter un certificat attestant qu'il a suivi la formation de 22 semaines en entreprise, requise pour se présenter à l'examen.
+Le candidat est tenu de présenter un certificat attestant qu'il a suivi la formation de 22 semaines en entreprise, requise pour se présenter à l'examen.
 
 A l'issue de chaque période, l'attestation de présence doit être renseignée et signée par le tuteur. Elle précise la période, la structure et le nombre de semaines effectuées.
 

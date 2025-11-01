@@ -142,7 +142,7 @@ La formation se déroule en milieu professionnel et en centre de formation conti
 
 La durée totale des périodes de formation en milieu professionnel est identique à celle imposée aux candidats de la voie scolaire, soit 20 semaines.
 
-Lors de son inscription à l'examen, le candidat est tenu de présenter soit un certificat attestant qu'il a suivi la formation en entreprise requise pour se présenter à l'examen soit un ou plusieurs certificats de travail attestant que l'intéressé a participé à des activités visées par le diplôme en qualité de salarié à temps plein, pendant six mois au cours de l'année précédant l'examen, ou à temps partiel pendant un an au cours des deux années précédant l'examen.
+Le candidat est tenu de présenter soit un certificat attestant qu'il a suivi la formation en entreprise requise pour se présenter à l'examen soit un ou plusieurs certificats de travail attestant que l'intéressé a participé à des activités visées par le diplôme en qualité de salarié à temps plein, pendant six mois au cours de l'année précédant l'examen, ou à temps partiel pendant un an au cours des deux années précédant l'examen.
 
 A l'issue de chaque période de formation, l'attestation de présence doit être renseignée et signée par le tuteur ou, le cas échéant, l'employeur. Elle précise la période, la structure et le nombre de semaines effectuées.
 

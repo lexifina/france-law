@@ -2,9 +2,9 @@
 
 PÉRIODES DE FORMATION EN MILIEU PROFESSIONNEL
 
-Baccalauréat professionnel spécialité &laquo; Maintenance environnementale et propreté des espaces urbains &raquo;
+Baccalauréat professionnel spécialité " Maintenance environnementale et propreté des espaces urbains "
 
-Les périodes de formation en milieu professionnel se déroulent dans plusieurs entreprises définies par le référentiel des activités professionnelles accueillant des professionnels hautement qualifiés. Ces entreprises d'accueil répondent aux exigences de la formation au baccalauréat professionnel &laquo; Maintenance environnementale et propreté des espaces urbains &raquo;.
+Les périodes de formation en milieu professionnel se déroulent dans plusieurs entreprises définies par le référentiel des activités professionnelles accueillant des professionnels hautement qualifiés. Ces entreprises d'accueil répondent aux exigences de la formation au baccalauréat professionnel " Maintenance environnementale et propreté des espaces urbains ".
 
 Le tuteur ou le maître d'apprentissage contribue à la formation en parfaite collaboration avec l'équipe pédagogique du centre de formation. Il veille à assurer la complémentarité des savoirs et des savoir-faire entre l'organisme de formation et l'entreprise d'accueil.
 
@@ -74,7 +74,7 @@ Il est important que les diverses activités de la formation soient réalisées 
 
 La formation se déroule en milieu professionnel et en centre de formation continue. Ces deux lieux assurent conjointement l'acquisition des compétences figurant dans le référentiel de certification du diplôme.
 
-Lors de son inscription à l'examen, le candidat est tenu de présenter soit un certificat attestant qu'il a suivi la formation de 20 semaines en entreprise, requise pour se présenter à l'examen soit un ou plusieurs certificats de travail attestant que l'intéressé a participé à des activités visées par le diplôme en qualité de salarié à temps plein, pendant six mois au cours de l'année précédant l'examen, ou à temps partiel pendant un an au cours des deux années précédant l'examen.
+Le candidat est tenu de présenter soit un certificat attestant qu'il a suivi la formation de 20 semaines en entreprise, requise pour se présenter à l'examen soit un ou plusieurs certificats de travail attestant que l'intéressé a participé à des activités visées par le diplôme en qualité de salarié à temps plein, pendant six mois au cours de l'année précédant l'examen, ou à temps partiel pendant un an au cours des deux années précédant l'examen.
 
 A l'issue de chaque période de formation, l'attestation de présence doit être renseignée et signée par le tuteur ou, le cas échéant, l'employeur. Elle précise la période, la structure et le nombre de semaines effectuées.
 

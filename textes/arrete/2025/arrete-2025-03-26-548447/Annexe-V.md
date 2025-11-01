@@ -4,9 +4,9 @@ ANNEXE V
 
 PÉRIODES DE FORMATION EN MILIEU PROFESSIONNEL
 
-Baccalauréat professionnel spécialité « maintenance des véhicules »
+Baccalauréat professionnel spécialité " maintenance des véhicules "
 
-Les périodes de formation en milieu professionnel se déroulent dans plusieurs entreprises définies par le référentiel des activités professionnelles accueillant des professionnels hautement qualifiés. Ces entreprises d'accueil répondent aux exigences de la formation au baccalauréat professionnel « maintenance des véhicules ».
+Les périodes de formation en milieu professionnel se déroulent dans plusieurs entreprises définies par le référentiel des activités professionnelles accueillant des professionnels hautement qualifiés. Ces entreprises d'accueil répondent aux exigences de la formation au baccalauréat professionnel " maintenance des véhicules ".
 
 Le tuteur ou le maître d'apprentissage contribue à la formation en parfaite collaboration avec l'équipe pédagogique du centre de formation. Il veille à assurer la complémentarité des savoirs et des savoir-faire entre l'organisme de formation et l'entreprise d'accueil.
 

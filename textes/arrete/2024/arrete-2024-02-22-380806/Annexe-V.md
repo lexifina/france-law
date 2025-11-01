@@ -96,8 +96,6 @@ La décision de positionnement est prise par le recteur après avis de l'équipe
 
 - cinq semaines pour les candidats préparant l'examen du CAP par la voie scolaire, en 1 an ;
 
-- huit semaines pour les candidats admis dans le cycle de trois ans conduisant au baccalauréat professionnel ;
-
 - six semaines pour les candidats de la formation professionnelle continue.
 
 Les entreprises retenues pour les immersions en milieu professionnel doivent permettre au candidat de découvrir les secteurs d'activité ciblés par le référentiel, en adéquation avec le positionnement établi.

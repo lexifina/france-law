@@ -4,9 +4,9 @@ ANNEXE V
 
 PÉRIODES DE FORMATION EN MILIEU PROFESSIONNEL
 
-Baccalauréat professionnel « Maintenance nautique »
+Baccalauréat professionnel " Maintenance nautique "
 
-Les périodes de formation en milieu professionnel se déroulent dans plusieurs entreprises définies par le référentiel des activités professionnelles accueillant des professionnel(le)s hautement qualifié(e)s. Ces entreprises d'accueil répondent aux exigences de la formation au Baccalauréat professionnel « Maintenance nautique ».
+Les périodes de formation en milieu professionnel se déroulent dans plusieurs entreprises définies par le référentiel des activités professionnelles accueillant des professionnel(le)s hautement qualifié(e)s. Ces entreprises d'accueil répondent aux exigences de la formation au Baccalauréat professionnel " Maintenance nautique ".
 
 Le tuteur ou le maître d'apprentissage contribue à la formation en parfaite collaboration avec l'équipe pédagogique du centre de formation. Il veille à assurer la complémentarité des savoirs et des savoir-faire entre l'organisme de formation et l'entreprise d'accueil.
 

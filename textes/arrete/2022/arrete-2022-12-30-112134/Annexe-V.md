@@ -12,7 +12,7 @@ Le tuteur ou le maître d'apprentissage contribue à la formation en parfaite co
 
 Objectifs de formation en milieu professionnel
 
-La formation en milieu professionnel est une phase déterminante menant au diplôme. L ‘ élève, l'apprenti ou le stagiaire de formation continue doit participer aux activités de l'entreprise et réaliser des tâches sous la responsabilité du tuteur ou du maître d'apprentissage.
+La formation en milieu professionnel est une phase déterminante menant au diplôme. L'élève, l'apprenti ou le stagiaire de formation continue doit participer aux activités de l'entreprise et réaliser des tâches sous la responsabilité du tuteur ou du maître d'apprentissage.
 
 L'élève, pendant la période de formation en milieu professionnel (PFMP), l'apprenti ou le stagiaire de formation continue :
 
@@ -85,8 +85,6 @@ Les candidats relèvent, selon leur statut (scolaire, apprenti, formation contin
 La décision de positionnement est prise par le recteur après avis de l'équipe pédagogique. Pour le candidat ayant bénéficié d'une décision de positionnement en application de l'article D. 337-4 du code de l'éducation, la durée de la formation en milieu professionnel ne peut être inférieure à :
 
 -cinq semaines pour les candidats préparant l'examen du CAP par la voie scolaire, en 1 an ;
-
--huit semaines pour les candidats admis dans le cycle de trois ans conduisant au baccalauréat professionnel ;
 
 -huit semaines pour les candidats de la formation professionnelle continue.
 

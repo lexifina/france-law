@@ -2,9 +2,9 @@
 
 ANNEXE V
 
-PÉRIODES DE FORMATION EN MILIEU PROFESSIONNEL BACCALAURÉAT PROFESSIONNEL SPÉCIALITÉ « CARROSSIER PEINTRE AUTOMOBILE »
+PÉRIODES DE FORMATION EN MILIEU PROFESSIONNEL BACCALAURÉAT PROFESSIONNEL SPÉCIALITÉ " CARROSSIER PEINTRE AUTOMOBILE "
 
-Les périodes de formation en milieu professionnel se déroulent dans plusieurs entreprises définies par le référentiel des activités professionnelles accueillant des professionnels hautement qualifiés. Ces entreprises d'accueil répondent aux exigences de la formation au baccalauréat professionnel « carrossier peintre automobile ».
+Les périodes de formation en milieu professionnel se déroulent dans plusieurs entreprises définies par le référentiel des activités professionnelles accueillant des professionnels hautement qualifiés. Ces entreprises d'accueil répondent aux exigences de la formation au baccalauréat professionnel " carrossier peintre automobile ".
 
 Le tuteur ou le maître d'apprentissage contribue à la formation en parfaite collaboration avec l'équipe pédagogique du centre de formation. Il veille à assurer la complémentarité des savoirs et des savoir-faire entre l'organisme de formation et l'entreprise d'accueil.
 
@@ -74,7 +74,7 @@ Il est important que les diverses activités de la formation soient réalisées 
 
 La formation se déroule en milieu professionnel et en centre de formation continue. Ils assurent conjointement l'acquisition des compétences figurant dans le référentiel de certification du diplôme.
 
-Lors de son inscription à l'examen, le candidat est tenu de présenter un certificat attestant qu'il a suivi la formation de 22 semaines en entreprise, requise pour se présenter à l'examen.
+Le candidat est tenu de présenter un certificat attestant qu'il a suivi la formation de 22 semaines en entreprise, requise pour se présenter à l'examen.
 
 A l'issue de chaque période, l'attestation de présence doit être renseignée et signée par le tuteur. Elle précise la période, la structure et le nombre de semaines effectuées.
 
