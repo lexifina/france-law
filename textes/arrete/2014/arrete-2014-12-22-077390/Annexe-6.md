@@ -72,8 +72,6 @@ Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER23
 
 Conformément à l'article 4 de l'arrêté du 8 septembre 2025 (NOR : ECOR2524330A), la fiche d’opération n° TRA-EQ-114, ainsi que son annexe 1, est remplacée à compter du 1er octobre 2025 par la fiche portant la même référence présente à l'annexe de l'arrêté précité. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=okg8pYdlzqssb9b30Jjqo3sandLT26TN9C8duJfQGwQ=
 
-Conformément à l'article 1er de l'arrêté du 19 mai 2025 (NOR : ECOR2511968A), la fiche d'opération n° TRA-EQ-114 figurant en annexe A audit arrêté remplace la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=hcis8G3q3U3HS93S8_fGg50MAYBpOrokJOp3oZQzPBE=.
-
 -Véhicule de transport de marchandises optimisé/ Fiche d’opération n° TRA-EQ-115
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
@@ -82,11 +80,13 @@ Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER23
 
 -Remplacement de véhicules par des véhicules neufs performants pour les particuliers ou les collectivités/ Fiche d’opération n° TRA-EQ-117
 
-Conformément à l'article 4 de l'arrêté du 8 septembre 2025 (NOR : ECOR2524330A), la fiche d’opération n° TRA-EQ-117, ainsi que son annexe 1, est remplacée à compter du 1er octobre 2025 par la fiche portant la même référence présente à l'annexe de l'arrêté précité. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=okg8pYdlzqssb9b30Jjqo3sandLT26TN9C8duJfQGwQ=
+Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : ECOR2435303A), la fiche d’opération n° TRA-EQ-117 est remplacée à compter du 1er janvier 2025 par la fiche portant la même référence présente à l'annexe E de l'arrêté précité. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Jo1UJTY9SbF2fbpIwW8qSVmdwg5k-UdZn955Kn6O8OI=
 
 Conformément à l'article 1er de l'arrêté du 19 mai 2025 (NOR : ECOR2511968A), la fiche d'opération n° TRA-EQ-117 figurant en annexe A audit arrêté remplace la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=hcis8G3q3U3HS93S8_fGg50MAYBpOrokJOp3oZQzPBE=.
 
 Conformément à l'article 5 de l'arrêté du 27 juin 2025 (NOR : ECOR2518213A), la fiche d'opération n° TRA-EQ-117 figurant en annexe B audit arrêté remplace la fiche portant la même référence. Vous pouvez consulter la fiche à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=sH2XRqqlpQD3zstgDsxWJfpkgvuqALFfA-uBENCC3pA=.
+
+Conformément à l'article 4 de l'arrêté du 8 septembre 2025 (NOR : ECOR2524330A), la fiche d’opération n° TRA-EQ-117, ainsi que son annexe 1, est remplacée à compter du 1er octobre 2025 par la fiche portant la même référence présente à l'annexe de l'arrêté précité. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=okg8pYdlzqssb9b30Jjqo3sandLT26TN9C8duJfQGwQ=
 
 -Lubrifiant économiseur d’énergie pour la pêche professionnelle/ Fiche d’opération n° TRA-EQ-118
 
@@ -134,65 +134,129 @@ Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : ECOR24353
 
 Conformément à l'article 1er de l'arrêté du 19 mai 2025 (NOR : ECOR2511968A), la fiche d'opération n° TRA-EQ-128 figurant en annexe A audit arrêté remplace la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=hcis8G3q3U3HS93S8_fGg50MAYBpOrokJOp3oZQzPBE=.
 
--Achat ou location d’un véhicule lourd électrique neuf de transport de marchandises ou issu d’une opération de rétrofit électrique / Fiche d'opération n° TRA-EQ-129
+Opération n° TRA-EQ-129
 
-Conformément à l'article 3 de l'arrêté du 30 décembre 2024 et à son annexe G (NOR : ECOR2435303A), la fiche d’opération n° TRA-EQ-129 est ajoutée à compter du 1er janvier 2025 à la présente annexe. remplacée par la fiche portant la même référence présente à l'annexe H de l'arrêté précité. Vous pouvez consulter la présente fiche au sein de l'annexe G disposnible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Jo1UJTY9SbF2fbpIwW8qSVmdwg5k-UdZn955Kn6O8OI=
-
-Conformément à l'article 1er de l'arrêté du 19 mai 2025 (NOR : ECOR2511968A), la fiche d'opération n° TRA-EQ-129 figurant en annexe A audit arrêté remplace la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=hcis8G3q3U3HS93S8_fGg50MAYBpOrokJOp3oZQzPBE=.
-
-Opération n° TRA-EQ-130
-
-Achat ou location d'un quadricycle électrique neuf |
+Achat ou location d'un véhicule lourd électrique neuf de transport de marchandises ou issu d'une opération de rétrofit électrique |
 
 1. Secteur d'application
 
-Transport de voyageurs ou de marchandises par des véhicules électriques neufs de catégorie L7e-C et L6e-B (au sens de l'article R. 311-1 du code de la route).
+Transport de marchandises par des véhicules lourds électriques neufs ou issus d'une opération de rétrofit électrique, de catégorie N2 et N3 (au sens de l'article R. 311-1 du code de la route), hormis les véhicules de catégories N2 bénéficiant de la dérogation de poids prévue au IV de l'article R. 312-4 du code de la route, d'un poids total autorisé en charge inférieur ou égal à 3,5 tonnes.
 
 2. Dénomination
 
-Achat ou location longue durée de quadricycles électriques neufs par des collectivités territoriales, leurs groupements et leurs établissements publics, par d'autres personnes morales ou des particuliers.
+Achat ou location longue durée de véhicules lourds électriques neufs de transport de marchandises, ou réalisation d'une opération de rétrofit électrique sur des véhicules lourds de transport de marchandises.
+
+La présente fiche n'est pas cumulable avec la fiche d'opération standardisée TRA-EQ-115.
 
 La présente fiche s'applique aux opérations engagées avant le 1er janvier 2030.
 
 3. Conditions pour la délivrance de certificats
 
-La présente fiche concerne :
+La présente opération concerne :
 
-a) L'achat d'un ou plusieurs quadricycles électriques neufs ; ou
+a) L'achat ou la location d'un ou plusieurs véhicules lourds électriques neufs de catégorie N2 ou N3 au sens de l'article R. 311-1 du code de la route ; ou
 
-b) La location d'une durée minimale de vingt-quatre mois, hors reconduction tacite, d'un ou plusieurs quadricycles électriques neufs.
+b) La réalisation d'une opération de rétrofit électrique, c'est-à-dire d'une transformation de véhicule à motorisation thermique en motorisation électrique selon les conditions prévues par l'arrêté du 13 mars 2020 relatif au rétrofit, d'un ou plusieurs véhicules lourds de catégorie N2 ou N3 au sens de l'article R. 311-1 du code de la route.
 
-Un quadricycle électrique neuf au sens de la présente fiche appartient aux catégories L6e-B et L7e-C mentionnées à l'article R. 311-1 du code de la route.
+Sont exclus les véhicules de catégorie N2 bénéficiant de la dérogation de poids, prévue au IV de l'article R. 312-4 du code de la route, d'un poids total autorisé en charge inférieur ou égal à 3,5 tonnes.
 
-Est considéré dans la présente fiche comme étant un véhicule électrique un véhicule qui utilise l'électricité comme source exclusive d'énergie.
+Les véhicules concernés sont destinés au transport de marchandises et peuvent être des camions porteurs, des tracteurs routiers ou des bennes à ordures ménagères.
 
-Le bénéficiaire est une collectivité locale, un groupement de collectivités locales, un de leurs établissements publics, une autre personne morale ou un particulier.
+Est considéré dans la présente fiche comme étant un véhicule électrique ou véhicule issu d'une opération de rétrofit électrique un véhicule qui utilise l'électricité comme source exclusive d'énergie.
 
-Lorsque le bénéficiaire est une personne physique, le nombre de véhicules valorisables au titre de la présente fiche est inférieur ou égal à 2 véhicules, toutes catégories confondues, par personne physique.
+Dans le cas d'une location, la durée du contrat de location est au minimum de soixante mois, hors reconduction tacite.
+
+Le bénéficiaire est une collectivité locale, un groupement de collectivités locales ou un de leurs établissements publics ou une autre personne morale.
 
 Un véhicule précédemment affecté à la démonstration par un concessionnaire ou un agent de marque, au sens de l'arrêté du 9 février 2009 relatif aux modalités d'immatriculation des véhicules, est éligible à la présente fiche si l'achat ou la prise en location intervient dans un délai compris entre trois et douze mois suivant sa première immatriculation.
 
-Le véhicule acquis ne peut être revendu à une personne physique résidant en dehors du territoire national ou une personne morale ayant son activité principale en dehors du territoire national sur la durée de vie conventionnelle définie dans la présente fiche.
+Le véhicule acquis ne peut être revendu à une personne morale ayant son activité principale en dehors du territoire national sur la durée de vie conventionnelle définie dans la présente fiche.
 
-La preuve de la réalisation de l'opération mentionne l'achat ou la location d'un (ou plusieurs) quadricycle(s) électrique(s) neuf(s), ainsi que la catégorie à laquelle appartient chacun des véhicules achetés ou loués (L6e-B ou L7e-C), mentionne le numéro d'immatriculation des véhicules acquis et identifie les véhicules précédemment affectés à la démonstration.
+Ne sont pas éligibles les véhicules dont l'achat ou la location a fait l'objet d'une contractualisation avec l'ADEME dans le cadre du programme E-TRANS ou des appels à projets Ecosystème des véhicules lourds électriques de 2022 et 2023.
 
-Il est également mentionné si ces véhicules sont achetés ou loués par un particulier, l'Etat ou une collectivité locale (ou groupement de collectivités) ou une autre personne morale.
+Les véhicules sont répartis selon les types suivants :
+
+Catégorie de véhicule au sens
+
+de l'article R. 311-1 du code de la route (*) |
+
+Type de véhicule |
+
+N2 |
+
+Camion porteur > 3,5 tonnes et < 4,25 tonnes |
+
+N2 |
+
+Camion porteur ≥ 4,25 tonnes et < 7,5 tonnes |
+
+N2 |
+
+Camion porteur ≥ 7,5 tonnes et ≤ 12 tonnes |
+
+N3 |
+
+Camion porteur > 12 tonnes et < 19 tonnes |
+
+N3 |
+
+Camion porteur ≥ 19 tonnes et < 26 tonnes |
+
+N3 |
+
+Camion porteur ≥ 26 tonnes et tracteur routier |
+
+N2 et N3 |
+
+Benne à ordures ménagères |
+
+(*) Sont exclus les véhicules bénéficiant de la dérogation de poids prévue au IV de l'article R. 312-4 du code de la route
+
+La preuve de la réalisation de l'opération mentionne :
+
+a) Le cas échéant, l'achat ou la location :
+
+- de camions porteurs neufs, leur numéro d'immatriculation et leur nombre par type susmentionné de véhicules ou par poids total autorisé en charge ;
+
+- de tracteurs routiers neufs, leur numéro d'immatriculation et leur nombre par type susmentionné de véhicules ou par poids total autorisé en charge ;
+
+- de bennes à ordures ménagères neufs, leur numéro d'immatriculation et leur nombre ;
+
+b) Le cas échéant, une opération de rétrofit électrique :
+
+- de camions porteurs, leur numéro d'immatriculation et leur nombre par type susmentionné de véhicules ou par poids total autorisé en charge ;
+
+- de tracteurs routiers, leur numéro d'immatriculation et leur nombre par type susmentionné de véhicules ou par poids total autorisé en charge ;
+
+- de bennes à ordures ménagères, leur numéro d'immatriculation et leur nombre.
+
+Elle identifie les véhicules précédemment affectés à la démonstration, le cas échéant.
+
+S'agissant des bennes à ordures ménagères, il est également mentionné si ces véhicules sont destinés à desservir des communes appartenant à une agglomération de plus de 250 000 habitants (ces communes sont mentionnées dans l'annexe I de l'arrêté du 22 décembre 2021 établissant les listes d'agglomérations de plus de 100 000, 150 000 et 250 000 habitants conformément à l'article R. 221-2 du code de l'environnement et à l'article L. 2213-4-1 du code général des collectivités territoriales).
 
 Les documents justificatifs spécifiques à l'opération sont les suivants :
 
-- la copie du certificat provisoire ou définitif d'immatriculation définitive des véhicules achetés ou loués ;
+- la copie du certificat provisoire ou définitif d'immatriculation définitive des véhicules achetés ou loués ou des véhicules ayant fait l'objet d'une opération de rétrofit électrique. Pour les véhicules de catégorie N2, le certificat ne doit pas comporter la mention de la dérogation de poids de l'article R. 312-4 du code de la route et d'un poids total autorisé en charge inférieur ou égal à 3,5 tonnes ;
+
+- pour les véhicules ayant fait l'objet d'une opération de rétrofit électrique, l'attestation de transformation, telle que définie par l'annexe II de l'arrêté du 13 mars 2020, et le certificat d'immatriculation définitive précédant l'opération de rétrofit ;
 
 - pour les véhicules précédemment affectés à la démonstration, le premier certificat d'immatriculation et le récépissé de fin de démonstration ;
 
-- pour un achat groupé : la feuille récapitulative, disponible sur le site internet du ministère chargé de l'énergie, mentionnant les caractéristiques des véhicules achetés ou loués dès lors que plusieurs véhicules sont concernés pour un même bénéficiaire.
+- la feuille récapitulative, disponible sur le site internet du ministère chargé de l'énergie, mentionnant les caractéristiques des véhicules achetés ou loués ou issus d'une opération de rétrofit électrique.
 
 4. Durée de vie conventionnelle
 
-12 ans.
+La durée de vie conventionnelle est de :
+
+- 12 ans pour les véhicules lourds neufs ;
+
+- 9 ans pour les véhicules lourds issus d'une opération de rétrofit électrique.
 
 5. Montant de certificats en kWh cumac
 
-Catégorie du véhicule |
+Pour les opérations d'achat ou de location de véhicules lourds neufs, le montant de certificats d'économie d'énergie s'établit comme suit :
+
+Catégorie de véhicule |
 
 Montant en kWh cumac par véhicule |
 
@@ -200,51 +264,127 @@ Montant en kWh cumac par véhicule |
 
 Nombre de véhicules |
 
-Véhicule acheté ou loué par un particulier, un vendeur ou un loueur de véhicules |
+Camion porteur > 3,5 tonnes et < 4,25 tonnes |
 
-|
-
-N |
-
-L7e-C |
-
-36 400 |
+222 300 |
 
 X |
 
-L6e-B |
+N |
 
-19 000 |
+Camion porteur ≥ 4,25 tonnes et < 7,5 tonnes |
 
-Véhicule acheté ou loué par une collectivité locale ou l'Etat |
+433 100 |
 
-L7e-C |
+Camion porteur ≥ 7,5 tonnes et ≤ 12 tonnes |
 
-86 100 |
+671 500 |
 
-L6e-B |
+Camion porteur > 12 tonnes et < 19 tonnes |
 
-48 800 |
+824 000 |
 
-Véhicule acheté ou loué par une autre personne morale |
+Camion porteur ≥ 19 tonnes et < 26 tonnes |
 
-L7e-C |
+1 015 700 |
 
-72 900 |
+Camion porteur ≥ 26 tonnes et tracteur routier |
 
-L6e-B |
+1 918 500 |
 
-41 300 |
+(*) Pour une agglomération ≤ 250 000 habitants |
 
-Annexe 1 à la fiche d'opération standardisée TRA-EQ-130, définissant le contenu de la partie A de l'attestation sur l'honneur
+Benne à ordures ménagères |
 
-A/ TRA-EQ-130 (v. A73.3) : Achat ou location d'un quadricycle électrique neuf.
+1 572 900 |
 
-* Date d'engagement de l'opération (ex : date d'acception du devis ou de la commande ou du contrat de location) : //
+(**) Pour une agglomération > 250 000 habitants |
+
+Benne à ordures ménagères |
+
+786 500 |
+
+Pour les opérations de rétrofit électrique, le montant de certificats d'économie d'énergie s'établit comme suit :
+
+Catégorie de véhicule |
+
+Montant en kWh cumac par véhicule |
+
+|
+
+Nombre de véhicules |
+
+Camion porteur > 3,5 tonnes et < 4,25 tonnes |
+
+132 100 |
+
+X |
+
+N |
+
+Camion porteur ≥ 4,25 tonnes et < 7,5 tonnes |
+
+257 300 |
+
+Camion porteur ≥ 7,5 tonnes et ≤ 12 tonnes |
+
+425 600 |
+
+Camion porteur > 12 tonnes et < 19 tonnes |
+
+522 200 |
+
+Camion porteur ≥ 19 tonnes et < 26 tonnes |
+
+643 700 |
+
+Camion porteur ≥ 26 tonnes et tracteur routier |
+
+1 216 000 |
+
+(*) Pour une agglomération ≤ 250 000 habitants |
+
+Benne à ordures ménagères |
+
+996 900 |
+
+(**) Pour une agglomération > 250 000 habitants |
+
+Benne à ordures ménagères |
+
+498 500 |
+
+(*) Le montant de certificats indiqué concerne les véhicules spéciaux achetés ou loués ou issus d'une opération de rétrofit électrique pour desservir des communes non mentionnées à l'annexe I de l'arrêté du 22 décembre 2021 établissant les listes d'agglomérations de plus de 100 000, 150 000 et 250 000 habitants conformément à l'article R. 221-2 du code de l'environnement et à l'article L. 2213-4-1 du code général des collectivités territoriales.
+
+(**) Les montants de certificats indiqués concernent les véhicules spéciaux achetés ou loués ou issus d'une opération de rétrofit électrique pour desservir des communes mentionnées à l'annexe I de l'arrêté du 22 décembre 2021 établissant les listes d'agglomérations de plus de 100 000, 150 000 et 250 000 habitants conformément à l'article R. 221-2 du code de l'environnement et à l'article L. 2213-4-1 du code général des collectivités territoriales.
+
+Annexe 1 à la fiche d'opération standardisée TRA-EQ-129, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ TRA-EQ-129 (v. A73.3) : Achat ou location d'un véhicule lourd électrique neuf de transport de marchandises ou issu d'une opération de rétrofit électrique.
+
+* Date d'engagement de l'opération (ex : date d'acception du devis ou de la commande) : //
 
 * Date de la preuve de réalisation de l'opération (ex : date de la facture ou du contrat de location) : //
 
-* Référence de la preuve de réalisation (ex. : facture ou contrat de location) :
+* Référence de la preuve de réalisation (ex. : numéro de facture ou contrat de location) :
+
+* L'opération consiste en (cocher une seule case) :
+
+□ l'achat de véhicules neufs
+
+□ la location de véhicules neufs
+
+□ le rétrofit électrique de véhicules
+
+* Dans le cas d'une location, la durée de celle-ci, hors reconduction tacite, est supérieure ou égale à soixante mois :
+
+□ OUI □ NON
+
+* L'opération comporte l'achat ou la location d'un ou plusieurs véhicules précédemment affectés à la démonstration :
+
+□ OUI □ NON
+
+* L'opération a bénéficié d'aides dans le cadre du programme CEE E-TRANS ou des appels à projets Ecosystème des véhicules lourds électriques de 2022 et 2023 : □ OUI □ NON
 
 Dans le cas de l'achat ou de la location d'un ou plusieurs véhicules précédemment affectés à la démonstration :
 
@@ -252,43 +392,77 @@ Dans le cas de l'achat ou de la location d'un ou plusieurs véhicules précédem
 
 * L'achat ou la prise en location est intervenu dans un délai compris entre trois et douze mois suivant sa première immatriculation : □ OUI □ NON
 
-* Le bénéficiaire est un vendeur ou loueur de véhicules : □ OUI □ NON
+* Si l'opération concerne l'achat ou la location de bennes à ordures ménagères, celles-ci sont destinées à desservir des communes situées dans une agglomération de plus de 250 000 habitants : □ OUI □ NON
 
-* Code NAF du bénéficiaire si le bénéficiaire est une personne morale :
+Nota. - Les communes situées dans une agglomération de plus de 250 000 habitants sont mentionnées dans l'annexe I de l'arrêté du 22 décembre 2021 établissant les listes d'agglomérations de plus de 100 000, 150 000 et 250 000 habitants conformément à l'article R. 221-2 du code de l'environnement et à l'article L. 2213-4-1 du code général des collectivités territoriales.
 
-Dans le cas d'une déclaration par véhicule :
+* Récapitulatif des véhicules achetés ou loués ou issus d'une opération de rétrofit électrique :
 
-* N° d'immatriculation du véhicule acheté ou loué :
+Type de véhicules |
 
-* L'opération consiste en l'achat ou la location d'un véhicule (cocher une seule case) :
+Nombre de véhicules
 
-□ L7e-C pour particulier, vendeur ou loueur □ L7e-C pour Etat/collectivité locale □ L7e-C pour autre personne morale
+achetés ou loués |
 
-□ L6e-B pour particulier, vendeur ou loueur □ L6e-B pour Etat/collectivité locale □ L6e-B pour autre personne morale
+Nombre de véhicules issus d'une opération de rétrofit électrique |
 
-*Dans le cas d'une location, la durée de celle-ci est supérieure ou égale à vingt-quatre mois hors reconduction tacite :
+Camion porteur > 3,5 tonnes et < 4,25 tonnes |
 
-□ OUI □ NON
+|
 
-* N° d'immatriculation du véhicule acquis :
+|
 
-* N° d'identification du véhicule acquis :
+Camion porteur ≥ 4,25 tonnes et < 7,5 tonnes |
 
-* Type Variante Version du véhicule acquis :
+|
 
-Dans le cas d'une déclaration groupée :
+|
 
-L'ensemble des véhicules de la flotte de l'Etat ou collectivité locale ou d'une autre personne morale, objet de la présente opération, est détaillé dans la feuille de calcul jointe à la présente attestation.
+Camion porteur ≥ 7,5 tonnes et ≤ 12 tonnes |
 
-* Le nombre de véhicules achetés ou loués dans le cadre de la présente opération s'élève à :
+|
 
-* L'opération consiste en :
+|
 
-□ l'achat de véhicules neufs □ la location de véhicules neufs
+Camion porteur > 12 tonnes et < 19 tonnes |
 
-* Dans le cas d'une location, la durée de celle-ci est supérieure ou égale à vingt-quatre mois hors reconduction tacite :
+|
 
-□ OUI □ NON
+|
+
+Camion porteur ≥ 19 tonnes et < 26 tonnes |
+
+|
+
+|
+
+Camion porteur ≥ 26 tonnes et tracteur routier |
+
+|
+
+|
+
+(*) Agglomération ≤ 250 000 habitants |
+
+Benne à ordures ménagères |
+
+|
+
+|
+
+(**) Agglomération > 250 000 habitants |
+
+Benne à ordures ménagères |
+
+|
+
+|
+
+-Achat ou location d’un quadricycle électrique neuf / Fiche d'opération n° TRA-EQ-130
+
+Conformément à l'article 3 de l'arrêté du 30 décembre 2024 et à son annexe G (NOR : ECOR2435303A), la fiche d’opération n° TRA-EQ-130 est ajoutée à compter du 1er janvier 2025 à la présente annexe. remplacée par la fiche portant la même référence présente à l'annexe H de l'arrêté précité. Vous pouvez consulter la présente fiche au sein de l'annexe G disposnible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Jo1UJTY9SbF2fbpIwW8qSVmdwg5k-UdZn955Kn6O8OI=
+
+Conformément à l'article 1er de l'arrêté du 19 mai 2025 (NOR : ECOR2511968A), la fiche d'opération n° TRA-EQ-130 figurant en annexe A audit arrêté remplace la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=hcis8G3q3U3HS93S8_fGg50MAYBpOrokJOp3oZQzPBE=.
 
 -Fiche d'opération n° TRA-EQ-131
 
@@ -788,4 +962,4 @@ https :// www. legifrance. gouv. fr/ download/ pdf ? id = FGBMw6bzzOGU6LHfYz6-OO
 
 NOTA :
 
-Conformément à l’article 8 de l’arrêté du 8 septembre 2025 (NOR : ECOR2524330A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur à compter du 1er octobre 2025.
+Conformément à l’article 3 de l’arrêté du 18 août 2025 (NOR : ECOR2522127A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur à compter du 1er novembre 2025.

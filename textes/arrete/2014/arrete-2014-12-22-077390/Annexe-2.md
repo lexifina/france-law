@@ -462,7 +462,7 @@ Un délai minimal de sept jours francs est respecté entre la date d'acceptation
 
 Lorsque le bénéficiaire est une personne physique, le professionnel qui procède à la réalisation de l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application.
 
-Ce signe de qualité correspond à des travaux relevant du 4 du I de l'article 46 AX de l'annexe III du code général des impôts.
+Ce signe de qualité correspond à des travaux relevant du 4 du I de l'article 46 AX de l'annexe III du code général des impôts .
 
 La preuve de la réalisation de l'opération mentionne :
 
@@ -610,7 +610,7 @@ La résistance thermique R de l'isolation installée est supérieure ou égale �
 
 Lorsque le bénéficiaire est une personne physique, le professionnel qui procède à la réalisation de l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application.
 
-Ce signe de qualité correspond à des travaux relevant du 3 du I de l'article 46 AX de l'annexe III du code général des impôts.
+Ce signe de qualité correspond à des travaux relevant du 3 du I de l'article 46 AX de l'annexe III du code général des impôts .
 
 La preuve de la réalisation de l'opération mentionne :
 
@@ -884,9 +884,135 @@ Conformément à l’article 1er de de l’arrêté du 8 octobre 2020 (NOR : TRE
 
 Conformément à l’article 1er de l’arrêté du 27 juin 2023 (NOR : ENER2315086A), les fiches d'opérations standardisées figurant en annexe A dudit arrêté remplacent, à compter du 1er août 2023, les fiches portant les mêmes références figurant en annexe 2 de l'arrêté du 22 décembre 2014 susvisé.
 
-- Chauffe-eau thermodynamique à accumulation / Fiche d’opération standardisée n°BAR-TH-148
+Opération n° BAR-TH-148
 
-Conformément au 2° de l’article 5 de l’arrêté du 20 mars 2015 (NOR : DEVR1507213A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 6 dudit arrêté.
+Chauffe-eau thermodynamique à accumulation |
+
+1. Secteur d'application
+
+Bâtiments résidentiels existants.
+
+2. Dénomination
+
+Mise en place d'un chauffe-eau thermodynamique individuel à accumulation.
+
+La présente fiche s'applique aux opérations engagées avant le 1er novembre 2030.
+
+3. Conditions pour la délivrance de certificats
+
+La mise en place est réalisée par un professionnel.
+
+Le professionnel réalisant l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 6° du I de l'article 1er du décret précité.
+
+L'efficacité énergétique pour le chauffage de l'eau, définie selon le règlement délégué (UE) n° 814/2013 de la Commission du 2 août 2013 portant application de la directive 2009/125/CE du Parlement européen et du Conseil en ce qui concerne les exigences d'écoconception applicables aux chauffe-eau et aux ballons d'eau chaude, correspond à un profil de soutirage déclaré M, L ou XL et est supérieure ou égale à :
+
+Profil de soutirage |
+
+M |
+
+L |
+
+XL |
+
+Efficacité énergétique |
+
+95 % |
+
+100 % |
+
+110 % |
+
+La preuve de réalisation de l'opération mentionne la mise en place d'un chauffe-eau thermodynamique à accumulation et l'efficacité énergétique pour le chauffage de l'eau de l'équipement installé selon le règlement délégué (UE) n° 814/2013 susmentionné pour le profil de soutirage déclaré.
+
+A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'un équipement avec ses marque et référence et elle est complétée par un document issu du fabricant indiquant que l'équipement de marque et référence installé est un chauffe-eau thermodynamique à accumulation. Ce document précise l'efficacité énergétique pour le chauffage de l'eau de l'équipement installé selon le règlement délégué (UE) n° 814/2013 susmentionné pour le profil de soutirage déclaré.
+
+Le document justificatif spécifique à l'opération est la décision de qualification ou de certification du professionnel délivrée selon les mêmes exigences que celles prévues à l'article 2 du décret susvisé.
+
+4. Durée de vie conventionnelle
+
+17 ans.
+
+5. Montant de certificats en kWh cumac
+
+Type de logement |
+
+Montant unitaire en
+
+kWh cumac |
+
+Maison individuelle |
+
+14 700 |
+
+Appartement |
+
+11 800 |
+
+Annexe 1 à la fiche d'opération standardisée BAR-TH-148, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ BAR-TH-148 (v. A73.3) : Mise en place d'un chauffe-eau thermodynamique individuel à accumulation.
+
+* Date d'engagement de l'opération (ex : date d'acceptation du devis) :
+
+* Date de preuve de réalisation de l'opération (ex : date de la facture) :
+
+* Référence de la facture :
+
+* Nom du site des travaux (pour les personnes morales) :
+
+* Adresse des travaux :
+
+Complément d'adresse :
+
+* Code postal :
+
+* Ville :
+
+* Bâtiment résidentiel existant depuis plus de 2 ans à la date d'engagement de l'opération : □ OUI □ NON
+
+* Type de logement : □ Maison individuelle □ Appartement
+
+Caractéristiques du chauffe-eau thermodynamique :
+
+* Profil de soutirage déclaré (M, L, XL) :
+
+* Efficacité énergétique pour le chauffage de l'eau, pour le profil de soutirage déclaré (en %) :
+
+Nota. - L'efficacité énergétique pour le chauffage de l'eau, définie par règlement délégué (UE) n° 814/2013 de la Commission du 2 août 2013 portant application de la directive 2009/125/CE du Parlement européen et du Conseil en ce qui concerne les exigences d'écoconception applicables aux chauffe-eau et aux ballons d'eau chaude, correspond à un profil de soutirage déclaré M, L ou XL et est supérieure ou égale à :
+
+Profil de soutirage |
+
+M |
+
+L |
+
+XL |
+
+Efficacité énergétique |
+
+95 % |
+
+100 % |
+
+110 % |
+
+A ne remplir que si les marque et référence du chauffe-eau thermodynamique ne sont pas mentionnées sur la preuve de réalisation de l'opération :
+
+* Marque :
+
+* Référence :
+
+Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 6° du I de l'article 1er du décret précité.
+
+Identité du professionnel titulaire du signe de qualité ayant réalisé l'opération, s'il n'est pas le signataire de cette attestation (sous-traitance par exemple) :
+
+* Nom :
+
+* Prénom :
+
+* Raison sociale :
+
+* N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 - Ventilation hybride hygroréglable (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-155
 
@@ -896,9 +1022,215 @@ Conformément à l’article 1er de de l’arrêté du 8 octobre 2020 (NOR : TRE
 
 Conformément à l’article 2 de l’arrêté du 17 décembre 2021 (NOR : TRER2137033A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe B dudit arrêté, à compter du 1er avril 2022.
 
-- Emetteur électrique à régulation électronique à fonctions avancées / Fiche d’opération standardisée n°BAR-TH-158
+Opération n° BAR-TH-158
 
-Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.
+Emetteur électrique à régulation électronique à fonctions avancées |
+
+1. Secteur d'application
+
+Bâtiments résidentiels existants.
+
+2. Dénomination
+
+Mise en place d'un émetteur électrique fixe, de type rayonnant ou radiateur, possédant une régulation électronique à fonctions avancées.
+
+La présente fiche n'est pas cumulable avec la fiche d'opération standardisée BAR-TH-173.
+
+La présente fiche s'applique aux opérations engagées jusqu'au 1er novembre 2030.
+
+3. Conditions pour la délivrance de certificats
+
+La mise en place est réalisée par un professionnel.
+
+Le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 7° du I de l'article 1er du décret précité.
+
+L'émetteur électrique à régulation électronique possède les fonctions avancées comportant des moyens de :
+
+- contrôle électronique de la température de la pièce et programmateur hebdomadaire ;
+
+- contrôle de la température de la pièce avec détecteur de fenêtre ouverte ;
+
+- contrôle à distance ;
+
+- contrôle adaptatif de l'activation ;
+
+- fonctionnalité d'auto-apprentissage ;
+
+- indication de surconsommation par information visuelle du consommateur ayant a minima 3 niveaux de consommation basée sur la température de consigne ;
+
+- détection automatique d'absence par réduction d'allure et passage progressif jusqu'à un mode de consommation réduite ;
+
+- qualité de régulation avec une dérive inférieure à 1 K et une amplitude inférieure à 0.3 K ;
+
+- réduction de la variation spatiale en chauffage : la variation spatiale de l'émetteur en mode chauffage est inférieure ou égale à 0,2 K selon la méthode de calcul TH-C-E ex.
+
+Un émetteur électrique possédant une certification NF Electricité-performance catégorie 3* oeil et justifiant d'une efficacité énergétique saisonnière en mode actif à 100 % calculé selon le règlement (EU) n° 2024/1103 de la commission du 18 avril 2024 est réputé satisfaire ces exigences.
+
+La preuve de la réalisation de l'opération mentionne la mise en place d'un ou plusieurs émetteurs électrique(s) fixe(s) à régulation électronique à fonctions avancées, la quantité installée et les caractéristiques des équipements (amplitude et dérive de la régulation, contrôle électronique de la température de la pièce et programmateur hebdomadaire, contrôle de la température de la pièce avec détecteur de fenêtre ouverte, détection automatique d'absence, indication de consommation, option contrôle à distance, adaptatif de l'activation, fonctionnalité d'auto-apprentissage).
+
+A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'un ou plusieurs équipements fixes avec leur marque et référence, et la quantité installée. Elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'espace économique européen et accrédité selon la norme NF EN ISO/CEI 17065 par le comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de la coordination européenne des organismes d'accréditation attestant de ces caractéristiques.
+
+Ce document indique que l'équipement de marque et référence mise en place est un émetteur électrique à régulation électronique à fonctions avancées et précise ses caractéristiques (amplitude et dérive de la régulation, contrôle électronique de la température de la pièce et programmateur hebdomadaire, contrôle de la température de la pièce avec détecteur de fenêtre ouverte, détection automatique d'absence, indication de consommation, option contrôle à distance, adaptatif de l'activation, fonctionnalité d'auto-apprentissage).
+
+En cas de mention d'une date de validité, ce document est considéré comme valable jusqu'à un an après sa date de fin de validité.
+
+Le document justificatif spécifique à l'opération est la décision de qualification ou de certification du professionnel délivrée selon les mêmes exigences que celles prévues à l'article 2 du décret susvisé.
+
+4. Durée de vie conventionnelle
+
+16 ans.
+
+5. Montant de certificats en kWh cumac
+
+Zone climatique |
+
+Montant en kWh cumac par émetteur électrique installé |
+
+|
+
+Nombre d'émetteurs électriques installés |
+
+Type de logement |
+
+Maison individuelle |
+
+Appartement |
+
+H1 |
+
+1 800 |
+
+1 500 |
+
+|
+
+N |
+
+H2 |
+
+1 500 |
+
+1 200 |
+
+X |
+
+H3 |
+
+1 100 |
+
+900 |
+
+|
+
+Annexe 1 à la fiche d'opération standardisée BAR-TH-158, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ BAR-TH-158 (v. A73.3) : Mise en place d'un émetteur électrique fixe, de type rayonnant ou radiateur, possédant une régulation électronique à fonctions avancées
+
+* Date d'engagement de l'opération (ex : date d'acceptation du devis) : //
+
+* Date de preuve de réalisation de l'opération (ex : date de la facture) : //
+
+* Référence de la facture :
+
+* Pour les personnes morales : nom du site des travaux ou nom de la copropriété :
+
+* Adresse des travaux :
+
+Complément d'adresse :
+
+* Code postal :
+
+* Ville :
+
+* Bâtiment résidentiel existant depuis plus de 2 ans à la date d'engagement de l'opération : □ OUI □ NON
+
+* Type de logements :
+
+□ Maison individuelle
+
+□ Appartement
+
+* Nombre d'émetteurs électriques installés :
+
+* L'émetteur électrique à régulation électronique possède les fonctions avancées comportant des moyens de :
+
+- contrôle électronique de la température de la pièce et programmateur hebdomadaire : □ OUI □ NON
+
+- contrôle de la température de la pièce avec détecteur de fenêtre ouverte : □ OUI □ NON
+
+- contrôle à distance : □ OUI □ NON
+
+- contrôle adaptatif de l'activation : □ OUI □ NON
+
+- fonctionnalité d'auto- apprentissage : □ OUI □ NON
+
+- indication de surconsommation par information visuelle du consommateur ayant a minima 3 niveaux de consommation basée sur la température de consigne : □ OUI □ NON
+
+- détection automatique d'absence par réduction d'allure et passage progressif à un mode de consommation réduite : □ OUI □ NON
+
+- qualité de régulation avec une dérive inférieure à 1 K et une amplitude inférieure à 0.3 K : □ OUI □ NON
+
+- réduction de la variation spatiale en chauffage : la variation spatiale de l'émetteur en mode chauffage est inférieure ou égal à 0,2 K selon la méthode de calcul TH-C-E ex : □ OUI □ NON
+
+A ne remplir que si les marque et référence des équipements ne sont pas mentionnées sur la preuve de réalisation de l'opération :
+
+Marque des équipements installés |
+
+Référence
+
+des équipements installés |
+
+Nombre
+
+d'équipements installés |
+
+Puissance unitaire électrique en W |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(Il convient d'ajouter autant de lignes au tableau que d'équipements aux caractéristiques strictement identiques.)
+
+Le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 7° du I de l'article 1er du décret précité.
+
+Identité du professionnel titulaire du signe de qualité ayant réalisé l'opération, s'il n'est pas le signataire de cette attestation (sous-traitant par exemple) :
+
+* Nom :
+
+* Prénom :
+
+* Raison sociale :
+
+* N° SIRET :
 
 - Pompe à chaleur hybride individuelle / Fiche d’opération standardisée n°BAR-TH-159
 
@@ -994,15 +1326,11 @@ nominal (DN)
 
 de la canalisation
 
-(mm)
-
-|
+(mm) |
 
 Zone
 
-climatique
-
-|
+climatique |
 
 Montant en kWhcumac
 
@@ -1010,9 +1338,7 @@ par housse isolante
 
 mise en place
 
-50°C ≤ Tfluide ≤ 120°C
-
-|
+50°C ≤ Tfluide ≤ 120°C |
 
 Montant en kWhcumac
 
@@ -1020,9 +1346,7 @@ par housse isolante
 
 mise en place
 
-Tfluide > 120°C
-
-|
+Tfluide > 120°C |
 
 |
 
@@ -1030,9 +1354,7 @@ Nombre
 
 de housses isolantes
 
-mises en place
-
-|
+mises en place |
 
 20 ≤ DN ≤ 65 |
 
@@ -2380,9 +2702,9 @@ La présente fiche s'applique aux opérations engagées jusqu'au 31 octobre 2029
 
 3. Conditions pour la délivrance de certificats
 
-Pour chaque catégorie de travaux intégrée dans le projet de rénovation globale et mentionnée aux 1° à 16° du I de l'article 1er du décret n° 2014-812 du 16 juillet 2014pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôtset du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts, le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l'article 2 du même décretet dans les textes pris pour son application. Ce signe de qualité correspond à des travaux relevant soit du 17° du I de l'article 1er du décretprécité, soit de l'une des catégories mentionnées aux 1° à 16° du I du même décretcorrespondant aux travaux réalisés.
+Pour chaque catégorie de travaux intégrée dans le projet de rénovation globale et mentionnée aux 1° à 16° du I de l'article 1er du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts , le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l'article 2 du même décret et dans les textes pris pour son application. Ce signe de qualité correspond à des travaux relevant soit du 17° du I de l'article 1er du décret précité, soit de l'une des catégories mentionnées aux 1° à 16° du I du même décret correspondant aux travaux réalisés.
 
-Un audit énergétique est réalisé préalablement aux travaux de rénovation globale du bâtiment. Cet audit énergétique respecte les dispositions de l'article 8 de l'arrêté du 17 novembre 2020relatif aux caractéristiques techniques et modalités de réalisation des travaux et prestations dont les dépenses sont éligibles à la prime de transition énergétique. Il est établi par une personne répondant aux conditions mentionnées au VII de l'article 2 du décret du 14 janvier 2020relatif à la prime de transition énergétique.
+Un audit énergétique est réalisé préalablement aux travaux de rénovation globale du bâtiment. Cet audit énergétique respecte les dispositions de l'article 8 de l'arrêté du 17 novembre 2020 relatif aux caractéristiques techniques et modalités de réalisation des travaux et prestations dont les dépenses sont éligibles à la prime de transition énergétique. Il est établi par une personne répondant aux conditions mentionnées au VII de l'article 2 du décret du 14 janvier 2020 relatif à la prime de transition énergétique.
 
 Les travaux permettent d'atteindre une performance énergétique globale minimale du bâtiment, déterminée par l'audit énergétique, qui satisfait aux deux critères suivants :
 
@@ -2412,7 +2734,7 @@ Les documents justificatifs spécifiques à l'opération sont :
 
 -les attestations déclarations préalables de travaux (DP) déposées par le propriétaire correspondant aux surfaces supplémentaires rendues habitables par un nouvel aménagement intérieur du bâtiment existant (aménagement de cave, de combles ou de tout autre espace, etc.) ou par une extension neuve ;
 
--dans le cas de bâtiments relèvant de la loi n° 65-557 du 10 juillet 1965modifiée fixant le statut de la copropriété des immeubles bâtis, l'accord de la copropriété autorisant les travaux pour les logements de la copropriété.
+-dans le cas de bâtiments relèvant de la loi n° 65-557 du 10 juillet 1965 modifiée fixant le statut de la copropriété des immeubles bâtis, l'accord de la copropriété autorisant les travaux pour les logements de la copropriété.
 
 Lorsque les travaux mis en œuvre diffèrent des travaux préconisés, l'audit énergétique est mis à jour sur la base des travaux effectivement réalisés.
 
@@ -2738,9 +3060,151 @@ Identité du professionnel titulaire du signe de qualité ayant réalisé l'opé
 
 * N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-- Désembouage d'un réseau hydraulique de chauffage collectif en France métropolitaine / Fiche d’opération standardisée n° BAR-SE-109
+Opération n° BAR-SE-109
 
-Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : ECOR2435303A), la fiche d’opération n° BAR-SE-109 est remplacée à compter du 1er avril 2025 par la fiche portant la même référence présente à l'annexe B de l'arrêté précité. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Jo1UJTY9SbF2fbpIwW8qSVmdwg5k-UdZn955Kn6O8OI=
+Désembouage d'un réseau hydraulique de chauffage collectif en France métropolitaine |
+
+1. Secteur d'application
+
+Bâtiments résidentiels collectifs existants en France métropolitaine.
+
+2. Dénomination
+
+Désembouage de l'ensemble du système de distribution par boucle d'eau d'une installation de chauffage collectif alimentée par une chaudière utilisant un combustible fossile ou alimentée par un réseau de chaleur.
+
+La présente fiche s'applique aux opérations engagées avant le 1er novembre 2030.
+
+3. Conditions pour la délivrance de certificats
+
+La mise en place est réalisée par un professionnel.
+
+Le professionnel ayant réalisé l'opération est titulaire d'une qualification ou d'une certification couvrant l'entretien, la maintenance ou l'exploitation d'installations de chauffage hydrauliques ou de réseaux de chaleur délivrée par un organisme accrédité par le Comité français d'accréditation ou disposant d'un agrément tel que défini à l'article R. 125-40 du code de la construction et de l'habitation, ou d'un signe de qualité équivalent. La liste exhaustive des qualifications ou certifications répondant à ces exigences est publiée sur le site du ministère chargé de l'énergie.
+
+Le désembouage comporte les étapes successives suivantes :
+
+a) Injection d'un réactif désembouant et circulation selon le dosage et le temps de contact préconisés, avec l'utilisation d'une pompe de désembouage (général puis réseau par réseau ; dans les deux sens de circulation) ;
+
+b) Rinçage des circuits à l'eau claire (général puis réseau par réseau) ;
+
+c) Vérification du filtre (ou pot à boues) existant et/ou installation d'un ou plusieurs filtre(s) sur le ou les circuits de retour au générateur, ainsi que l'injection d'un réactif inhibiteur au dosage préconisé.
+
+La preuve de la réalisation de l'opération mentionne le désembouage d'un réseau hydraulique de chauffage collectif et le nombre de logements concernés par l'opération et précise si le système de chauffage est alimenté par une chaudière hors condensation, une chaudière à condensation ou un réseau de chaleur. Il mentionne également, le cas échéant, le nombre et l'emplacement des filtres installés.
+
+Les documents justificatifs spécifiques à l'opération sont les suivants :
+
+a) Un document établi, daté et signé par le professionnel réalisant l'opération, mentionnant :
+
+- l'adresse du bâtiment concerné par l'opération ;
+
+- le fait que l'opération concerne le désembouage du système de distribution par boucle d'eau d'une installation collective de chauffage et le nombre de logements concernés ;
+
+- le descriptif des étapes de l'opération de désembouage, conformément à la présente fiche ;
+
+- le type d'installation de chauffage (chaudière hors condensation, chaudière à condensation, réseau de chaleur) et sa puissance nominale ;
+
+- le nombre d'émetteurs désemboués ;
+
+- la nature du réseau (cuivre, acier, multicouche, matériaux de synthèse) ;
+
+- le volume d'eau total du circuit ;
+
+- le réactif désembouant et le réactif inhibiteur utilisés.
+
+b) La décision de qualification ou de certification du professionnel.
+
+4. Durée de vie conventionnelle
+
+12 ans.
+
+5. Montant de certificats en kWh cumac
+
+Zone climatique |
+
+Montant en kWh cumac par logement, pour une installation alimentée par une chaudière hors condensation |
+
+Montant en kWh cumac par logement, pour une installation alimentée par une chaudière à condensation ou un réseau de chaleur |
+
+|
+
+Nombre
+
+de logements |
+
+H1 |
+
+12 600 |
+
+4 200 |
+
+|
+
+N |
+
+H2 |
+
+12 100 |
+
+3 900 |
+
+X |
+
+H3 |
+
+8 900 |
+
+2 800 |
+
+|
+
+Annexe 1 à la fiche d'opération standardisée BAR-SE-109, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ BAR-SE-109 (v. A73.3) : Désembouage de l'ensemble du système de distribution par boucle d'eau d'une installation de chauffage collectif alimentée par une chaudière utilisant un combustible fossile ou alimentée par un réseau de chaleur.
+
+* Date d'engagement de l'opération (ex : date d'acceptation du devis) : //
+
+* Date de preuve de réalisation de l'opération (ex : date de la facture) : //
+
+* Référence de la facture :
+
+* Pour les personnes morales : nom du site des travaux ou nom de la copropriété :
+
+* Adresse des travaux :
+
+Complément d'adresse :
+
+* Code postal :
+
+* Ville :
+
+* Bâtiment existant depuis plus de deux ans à la date d'engagement de l'opération : □ OUI □ NON
+
+* L'opération concerne une installation de chauffage collectif : □ OUI □ NON
+
+* L'installation de chauffage collectif est alimentée par (cocher une seule case) :
+
+□ une chaudière hors condensation □ une chaudière à condensation □ un réseau de chaleur
+
+* Nombre de logements concernés par l'opération :
+
+* Les étapes suivantes ont été réalisées (cocher les cases concernées) :
+
+□ Injection d'un réactif désembouant et circulation selon le dosage et le temps de contact préconisés, avec l'utilisation d'une pompe de désembouage (général puis réseau par réseau ; dans les deux sens de circulation)
+
+□ Rinçage des circuits à l'eau claire (général puis réseau par réseau)
+
+□ Vérification du filtre (ou pot à boues) existant et/ou installation d'un filtre sur le ou les circuits de retour au générateur, ainsi que l'injection d'un réactif inhibiteur au dosage préconisé
+
+Le professionnel ayant réalisé l'opération est titulaire d'une qualification ou d'une certification couvrant l'entretien, la maintenance ou l'exploitation d'installations de chauffage hydrauliques ou de réseaux de chaleur délivrée par un organisme accrédité par le Comité français d'accréditation ou disposant d'un agrément tel que défini à l'article R. 125-40 du code de la construction et de l'habitation, ou d'un signe de qualité équivalent. La liste exhaustive des qualifications ou certifications répondant à ces exigences est publiée sur le site du ministère chargé de l'énergie.
+
+Identité du professionnel titulaire du signe de qualité ayant réalisé l'opération, s'il n'est pas le signataire de cette attestation (sous-traitant par exemple) :
+
+* Nom :
+
+* Prénom :
+
+* Raison sociale :
+
+* N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 Opération n° BAR-TH-171
 
@@ -2756,9 +3220,9 @@ Mise en place d'une pompe à chaleur (PAC) de type air/ eau.
 
 Ne donnent pas lieu à la délivrance de certificats d'économies d'énergie au titre de la présente fiche, les PAC associées à un autre système de chauffage et les PAC utilisées uniquement pour le chauffage de l'eau chaude sanitaire.
 
-La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-148 Chauffe-eau thermodynamique à accumulation si la PAC installée au titre de la présente fiche est utilisée pour le chauffage et l'eau chaude sanitaire.
+La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-148 &laquo; Chauffe-eau thermodynamique à accumulation &raquo; si la PAC installée au titre de la présente fiche est utilisée pour le chauffage et l'eau chaude sanitaire.
 
-La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-143 Système solaire combiné (France métropolitaine) .
+La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-143 &laquo; Système solaire combiné (France métropolitaine) &raquo;.
 
 La présente fiche s'applique aux opérations engagées jusqu'au 31 décembre 2030.
 
@@ -2776,7 +3240,7 @@ L'efficacité énergétique saisonnière pour le chauffage des locaux (η s) de 
 
 Pour les émetteurs de type : plancher chauffant, plafond chauffant et mur chauffant, la pompe à chaleur installée est d'application basse température et l'Etas à 35° C est à considérer.
 
-Pour tous les autres types d'émetteurs, y compris les solutions mixtes (ex. : radiateurs et plancher chauffant) ainsi que les radiateurs dits basse température à régime d'eau 45° C, la PAC installée est d'application moyenne ou haute température et l'Etas à 55° C est à considérer.
+Pour tous les autres types d'émetteurs, y compris les solutions mixtes (ex. : radiateurs et plancher chauffant) ainsi que les radiateurs dits &laquo; basse température &raquo; à régime d'eau 45° C, la PAC installée est d'application moyenne ou haute température et l'Etas à 55° C est à considérer.
 
 La PAC est équipée d'un régulateur relevant de l'une des classes IV, V, VI, VII ou VIII telles que définies au paragraphe 6.1 de la communication de la Commission 2014/ C 207/02.
 
@@ -2844,15 +3308,11 @@ Surface chauffée S en m 2
 
 Facteur correctif selon la zone
 
-géographique
-
-|
+géographique |
 
 Zone
 
-géographique
-
-|
+géographique |
 
 111 % ≤ Etas < 140 % |
 
@@ -3010,15 +3470,11 @@ Surface chauffée S en m 2
 
 Facteur correctif selon la zone
 
-géographique
-
-|
+géographique |
 
 Zone
 
-géographique
-
-|
+géographique |
 
 111 % ≤ Etas < 140 % |
 
@@ -3226,9 +3682,9 @@ A ne remplir que si les marque et référence de la pompe à chaleur ne sont pas
 
 * Référence :
 
-NB. - La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-148 Chauffe-eau thermodynamique à accumulation si la PAC est utilisée pour le chauffage et l'eau chaude sanitaire.
+NB. - La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-148 &laquo; Chauffe-eau thermodynamique à accumulation &raquo; si la PAC est utilisée pour le chauffage et l'eau chaude sanitaire.
 
-La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-143 Système solaire combiné (France métropolitaine) .
+La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-143 &laquo; Système solaire combiné (France métropolitaine) &raquo;.
 
 Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 5° (dans le cas d'une PAC assurant uniquement le chauffage du logement) ou du 5° et du 6° (dans le cas d'une PAC assurant le chauffage du logement et de l'eau chaude sanitaire) du I de l'article 1er du décret précité.
 
@@ -3256,9 +3712,9 @@ Mise en place d'une pompe à chaleur (PAC) de type eau/eau ou sol/eau.
 
 Ne donnent pas lieu à la délivrance de certificats d'économies d'énergie au titre de la présente fiche, les PAC associées à un autre système de chauffage et les PAC utilisées uniquement pour le chauffage de l'eau chaude sanitaire.
 
-La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-143 Système solaire combiné (France métropolitaine) .
+La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-143 &laquo; Système solaire combiné (France métropolitaine) &raquo;.
 
-La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-148 Chauffe-eau thermodynamique à accumulation si la PAC installée au titre de la présente fiche est utilisée pour le chauffage et l'eau chaude sanitaire.
+La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-148 &laquo; Chauffe-eau thermodynamique à accumulation &raquo; si la PAC installée au titre de la présente fiche est utilisée pour le chauffage et l'eau chaude sanitaire.
 
 La présente fiche s'applique aux opérations engagées jusqu'au 31 décembre 2030.
 
@@ -3276,7 +3732,7 @@ L'efficacité énergétique saisonnière pour le chauffage des locaux (ηs) de l
 
 Pour les émetteurs de type : plancher chauffant, plafond chauffant et mur chauffant, la pompe à chaleur installée est d'application basse température et l'Etas à 35°C est à considérer.
 
-Pour tous les autres types d'émetteurs, y compris les solutions mixtes (ex. : radiateurs et plancher chauffant) ainsi que les radiateurs dits basse température à régime d'eau 45 °C, la PAC installée est d'application moyenne ou haute température et l'Etas à 55 °C est à considérer.
+Pour tous les autres types d'émetteurs, y compris les solutions mixtes (ex. : radiateurs et plancher chauffant) ainsi que les radiateurs dits &laquo; basse température &raquo; à régime d'eau 45 °C, la PAC installée est d'application moyenne ou haute température et l'Etas à 55 °C est à considérer.
 
 La PAC est équipée d'un régulateur relevant de l'une des classes IV, V, VI, VII ou VIII telles que définies au paragraphe 6.1 de la communication de la Commission 2014/C 207/02.
 
@@ -3330,9 +3786,7 @@ Usage |
 
 Montant pour une maison individuelle,
 
-en kWhc
-
-|
+en kWhc |
 
 |
 
@@ -3346,15 +3800,11 @@ Surface chauffée S en m2
 
 Facteur correctif selon la zone
 
-géographique
-
-|
+géographique |
 
 Zone
 
-géographique
-
-|
+géographique |
 
 111 %≤Etas<140 % |
 
@@ -3596,9 +4046,9 @@ A ne remplir que si les marque et référence de la pompe à chaleur ne sont pas
 
 * Référence :
 
-NB : La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-148 Chauffe-eau thermodynamique à accumulation si la PAC installée au titre de la présente fiche est utilisée pour le chauffage et l'eau chaude sanitaire.
+NB : La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-148 &laquo; Chauffe-eau thermodynamique à accumulation &raquo; si la PAC installée au titre de la présente fiche est utilisée pour le chauffage et l'eau chaude sanitaire.
 
-La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-143 Système solaire combiné (France métropolitaine) .
+La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-143 &laquo; Système solaire combiné (France métropolitaine) &raquo;.
 
 Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 5° (dans le cas d'une PAC assurant uniquement le chauffage du logement) ou du 5° et du 6° (dans le cas d'une PAC assurant le chauffage du logement et de l'eau chaude sanitaire) du I de l'article 1er du décret précité.
 
