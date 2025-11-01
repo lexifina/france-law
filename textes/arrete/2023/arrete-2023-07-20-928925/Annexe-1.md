@@ -158,11 +158,15 @@ L'examen est constitué d'une sélection de questions vérifiant les exigences c
 
 Nombre de questions pour l'examen
 
-sans mention |
+sans mention
+
+|
 
 Nombre de questions pour l'examen
 
-avec mention |
+avec mention
+
+|
 
 Facile |
 
@@ -344,6 +348,8 @@ Le module relatif à l'extension de périmètre à la certification avec mention
 
 L'examen théorique est réalisé en présence d'un surveillant. Il ne peut pas être réalisé à distance.
 
+L'examen théorique est réalisé par l'organisme de certification accrédité grâce à un outil numérique d'évaluation et de correction automatique.
+
 2.2.3.2. Examen pratique
 
 A titre transitoire jusqu'au 31 décembre 2025, les dispositions du VI de l'article 7 s'appliquent.
@@ -379,6 +385,8 @@ Cette formation continue dure 7 heures par an lors de la deuxième, la troisièm
 Les formations continues sont réalisées en présentiel ou à distance.
 
 Les sessions de formation continue portent, selon les besoins notamment identifiés lors de la réalisation des cas tests de formation continue, sur certaines des exigences des compétences des diagnostiqueurs, selon le type de diagnostic (collectif, individuel, etc.), telles que définies dans les programmes d'examen de l'annexe III du présent arrêté et assurent un rappel des nouveautés législatives, réglementaires ou normatives ainsi que des évolutions techniques et des bonnes pratiques de la profession.
+
+2.5. Surveillance des certificats délivrés
 
 2.5. Surveillance des certificats délivrés
 
@@ -502,19 +510,25 @@ Supérieur ou égal à 5 écarts au total (critiques et non-critiques confondus)
 
 OU
 
-Supérieur ou égal à 2 écarts critiques |
+Supérieur ou égal à 2 écarts critiques
+
+|
 
 1 écart critique et supérieur ou égal à 4 écarts non-critiques
 
 OU
 
-Supérieur ou égal à 2 écarts critiques |
+Supérieur ou égal à 2 écarts critiques
+
+|
 
 1 écart critique et supérieur ou égal à 4 écarts non-critiques
 
 OU
 
-Supérieur ou égal à 2 écarts critiques |
+Supérieur ou égal à 2 écarts critiques
+
+|
 
 En fonction du niveau d'écarts et en tenant compte des circonstances propres à chaque espèce, notamment le caractère intentionnel ou non des faits reprochés, les organismes de certification évaluent les suites à donner aux opérations de contrôle selon la grille suivante. Toute suite à donner est précédée d'une procédure contradictoire entre l'organisme de certification et le diagnostiqueur et vise à éviter la survenue de nouveaux manquements et à garantir la qualité des certifications délivrées.
 
@@ -640,4 +654,4 @@ La décision d'imposer une mesure de compensation est dument justifiée par l'or
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 16 juin 2025 (NOR : ATDL2513472A), ces dispositions entrent en vigueur à compter du 1er juillet 2025.
+Conformément à l'article 2 de l'arrêté du 16 juin 2025 (NOR : ATDL2513472A), ces dispositions entrent en vigueur le 1er novembre 2025.
