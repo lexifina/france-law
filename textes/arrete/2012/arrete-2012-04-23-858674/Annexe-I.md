@@ -454,7 +454,7 @@ Cette épreuve consiste à évaluer chez tout candidat :
 
 Cette évaluation est réalisée par l'expert dans les conditions définies ci-après.
 
-Le temps consacré au candidat, qui est de 36 minutes, comprend :
+Le temps consacré au candidat, qui est de 32 minutes, comprend :
 
 - l'accueil du candidat et la vérification de son identité ;
 
@@ -472,7 +472,7 @@ L'expert devra construire son parcours en tenant compte des paramètres suivants
 
 - quitter un stationnement et s'insérer dans le flot de circulation ;
 
-- suivre un itinéraire ou se rendre vers une destination préalablement établie, en se guidant de manière autonome, pendant une durée globale d'environ 10 minutes ;
+- suivre un itinéraire ou se rendre vers une destination préalablement établie, en se guidant de manière autonome, pendant une durée globale d'environ 5 minutes ;
 
 - appliquer les règles du code de la route et les limitations de vitesse applicables aux élèves conducteurs ;
 
@@ -484,7 +484,7 @@ L'expert devra construire son parcours en tenant compte des paramètres suivants
 
 - Un test de la vue est systématiquement réalisé durant l'épreuve, au moyen de la lecture des panneaux de direction à l'occasion du guidage. Toutefois, si l'expert estime que la lecture des panneaux n'a pas permis de vérifier avec certitude la bonne vision du candidat, la vérification se fera, à la demande de l'expert, par la lecture d'une plaque d'immatriculation située à environ 20 m du candidat. En sont dispensés les candidats qui ont satisfait à une visite médicale préalable en vue de l'obtention du permis de conduire ;
 
-- une phase de conduite effective d'une durée de 26 minutes ;
+- une phase de conduite effective d'une durée de 25 minutes ;
 
 - l'établissement du bilan des compétences.
 
@@ -645,3 +645,7 @@ Les sous-totaux par compétence et le total chiffré du bilan des compétences s
 Par ailleurs, le bilan des compétences n'est renseigné que si l'examen a été mené à son terme.
 
 La transcription a pour but de communiquer au candidat et à son formateur le bilan des compétences dressé à l'issue de l'épreuve pratique et de mettre en évidence les points nécessitant un complément de formation.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 14 octobre 2025 (NOR : INTS2526384A) ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er novembre 2025.
