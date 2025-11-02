@@ -8,9 +8,9 @@ DANGEREUSES PAR VOIES DE NAVIGATION INTÉRIEURES (ADN)
 
 1.1. La présente annexe est composée :
 
-- de l'ADN fait à Genève le 26 mai 2000 et son règlement annexé en vigueur au 1er janvier 2025, tels que visés à la section III. 1 de l'annexe III de la directive 2008/68/CE du Parlement européen et du Conseil modifiée par la directive déléguée (UE) 2025/149. Ces documents sont publiés en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Ils sont aussi disponibles sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante : https://unece.org/about-adr ;
+-de l'ADN fait à Genève le 26 mai 2000 et son règlement annexé en vigueur au 1er janvier 2025, tels que visés à la section III. 1 de l'annexe III de la directive 2008/68/ CE du Parlement européen et du Conseil modifiée par la directive déléguée (UE) 2025/149. Ces documents sont publiés en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Ils sont aussi disponibles sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante : https :// unece. org/ about-adr ;
 
-- des dispositions particulières qui complètent notamment le règlement annexé à l'ADN et en précisent les modalités d'application aux transports nationaux ou internationaux de marchandises dangereuses par voies de navigation intérieures effectués en France.
+-des dispositions particulières qui complètent notamment le règlement annexé à l'ADN et en précisent les modalités d'application aux transports nationaux ou internationaux de marchandises dangereuses par voies de navigation intérieures effectués en France.
 
 1.2. Les dispositions particulières figurent dans le paragraphe 2 de la présente annexe III comme suit :
 
@@ -18,13 +18,13 @@ Dispositions particulières applicables à tous les transports par voies de navi
 
 Ces dispositions précisent les dispositions particulières applicables concernant les points suivants :
 
-- missions respectives des différents intervenants lors des opérations de chargement, de remplissage et de déchargement et avant envoi des bateaux (paragraphe 2. 1) ;
+-missions respectives des différents intervenants lors des opérations de chargement, de remplissage et de déchargement et avant envoi des bateaux (paragraphe 2.1) ;
 
-- chargement, déchargement (paragraphe 2. 2) ;
+-chargement, déchargement (paragraphe 2.2) ;
 
-- transport et stationnement (paragraphe 2. 3) ;
+-transport et stationnement (paragraphe 2.3) ;
 
-- titres de navigation, certificats de visite (paragraphe 2. 4).
+-titres de navigation, certificats de visite (paragraphe 2.4).
 
 1.3. En ce qui concerne les numéros cités dans la présente annexe sans mention explicite du document réglementaire auquel ils se rapportent, ceux-ci visent un chapitre, une section ou une sous-section de l'ADN.
 
@@ -42,11 +42,11 @@ Outre les dispositions prévues au 1.4, les prescriptions ci-après doivent êtr
 
 Il appartient au responsable qui remet la marchandise au transport de s'assurer que les dispositions suivantes sont respectées, pour autant qu'elles sont applicables au transport envisagé :
 
-- le document de transport et la (les) consigne (s) écrite (s) pour le conducteur figurent dans les documents de bord du bateau ;
+-le document de transport et la (les) consigne (s) écrite (s) pour le conducteur figurent dans les documents de bord du bateau ;
 
-- l'expert matières dangereuses est titulaire d'une attestation de formation en cours de validité et adaptée au transport à entreprendre ;
+-l'expert matières dangereuses est titulaire d'une attestation de formation en cours de validité et adaptée au transport à entreprendre ;
 
-- le bateau est muni de son certificat d'agrément en cours de validité et adapté au transport.
+-le bateau est muni de son certificat d'agrément en cours de validité et adapté au transport.
 
 En cas de contrôle négatif d'un des éléments ci-dessus, le transport ne doit pas être effectué.
 
@@ -54,13 +54,13 @@ En cas de contrôle négatif d'un des éléments ci-dessus, le transport ne doit
 
 Il appartient au conducteur de veiller que :
 
-- les cales et les ponts de cargaisons aient été nettoyés ;
+-les cales et les ponts de cargaisons aient été nettoyés ;
 
-- les interdictions de chargement en commun soient respectées (en fonction des marchandises à charger et, le cas échéant, des marchandises déjà à bord) ;
+-les interdictions de chargement en commun soient respectées (en fonction des marchandises à charger et, le cas échéant, des marchandises déjà à bord) ;
 
-- les colis chargés soient correctement calés et arrimés ;
+-les colis chargés soient correctement calés et arrimés ;
 
-- le tonnage des marchandises transportées ne dépasse pas les limites autorisées.
+-le tonnage des marchandises transportées ne dépasse pas les limites autorisées.
 
 Il appartient au destinataire de veiller à ce que les dispositions du présent arrêté relatives au déchargement soient respectées.
 
@@ -68,9 +68,9 @@ Il appartient au destinataire de veiller à ce que les dispositions du présent 
 
 Il appartient au responsable qui remet la marchandise au transport de s'assurer que les dispositions suivantes sont respectées, pour autant qu'elles sont applicables aux transports envisagés :
 
-- le bateau-citerne est autorisé pour le transport du produit à charger ;
+-le bateau-citerne est autorisé pour le transport du produit à charger ;
 
-- le bateau-citerne a été, si besoin est, convenablement nettoyé et/ou dégazé. Dans ce cas, un certificat attestant le nettoyage et/ou le dégazage doit figurer dans les documents de bord du bateau.
+-le bateau-citerne a été, si besoin est, convenablement nettoyé et/ ou dégazé. Dans ce cas, un certificat attestant le nettoyage et/ ou le dégazage doit figurer dans les documents de bord du bateau.
 
 2.1.4. Dispositions applicables aux transferts de conteneurs, conteneurs-citernes et véhicules routiers.
 
@@ -78,9 +78,9 @@ Lors des opérations de transfert sur bateau, les obligations énumérées sous 
 
 Il appartient en outre au conducteur de vérifier :
 
-- le bon état apparent des unités de transport intermodales ;
+-le bon état apparent des unités de transport intermodales ;
 
-- la présence des étiquettes de dangers, de panneaux orange, marques ou signaux de mise en garde, sur les unités de transport intermodales.
+-la présence des étiquettes de dangers, de panneaux orange, marques ou signaux de mise en garde, sur les unités de transport intermodales.
 
 2.2. Chargement, déchargement et transbordement.
 
@@ -106,17 +106,17 @@ En cas de manquement grave à ces dispositions, le lieu peut être retiré de la
 
 Les références au Code européen des voies de navigation intérieures (CEVNI) reprises dans la partie 7 du Règlement ADN doivent être remplacées, pour les voies de navigation intérieures non soumises à ce code, par les dispositions réglementaires correspondantes de la quatrième partie du code des transports et des règlements particuliers de police (RPP) pour les particularités locales.
 
-2.4.Titres de navigation, certificats de visite.
+2.4. Titres de navigation, certificats de visite.
 
 Les prescriptions locales, régionales ou internationales applicables, de façon générale, aux transports de marchandises par voies de navigation intérieures, visées dans l'article 9 de l'Accord ADN et au 1.1.4.6 de son règlement annexé, sont :
 
-- les dispositions de la directive (UE) 2016/1629 du Parlement européen et du Conseil du 14 septembre 2016 établissant les prescriptions techniques applicables aux bateaux de navigation intérieure, modifiant la directive 2009/100/CE et abrogeant la directive 2006/87/CE, et des textes nationaux pris pour sa transposition ;
+-les dispositions de la directive (UE) 2016/1629 du Parlement européen et du Conseil du 14 septembre 2016 établissant les prescriptions techniques applicables aux bateaux de navigation intérieure, modifiant la directive 2009/100/ CE et abrogeant la directive 2006/87/ CE, et des textes nationaux pris pour sa transposition ;
 
-- les dispositions du “Standard européen établissant les prescriptions techniques des bateaux de navigation intérieure (ES-TRIN)” ;
+-les dispositions du “ Standard européen établissant les prescriptions techniques des bateaux de navigation intérieure (ES-TRIN) ” ;
 
-- les dispositions de l'article R.* 4200-1 du code des transports et de l'arrêté du 21 décembre 2007 modifié relatif aux titres de navigation des bâtiments et établissements flottants destinés au transport de marchandises naviguant ou stationnant sur les eaux intérieures ;
+-les dispositions de l'article R. * 4200-1 du code des transports et des dispositions des articles A. 4221-7-1 à A. 4221-33-2 du code des transports ;
 
-- les dispositions du règlement de visite des bateaux du Rhin relatives aux certificats de visites.
+-les dispositions du règlement de visite des bateaux du Rhin relatives aux certificats de visites.
 
 3. Dispositions relatives à la formation.
 
@@ -130,11 +130,11 @@ A partir des prescriptions générales du 8.2.1 et des prescriptions particuliè
 
 Les cours de base initiaux sont les cours visés au 8.2.2.3.1 ; ils comportent 3 variantes :
 
-- transport par bateaux à marchandises sèches ;
+-transport par bateaux à marchandises sèches ;
 
-- transport par bateaux-citernes ;
+-transport par bateaux-citernes ;
 
-- combinaison “Transport par bateaux à marchandises sèches” et “Transport par bateaux-citernes”.
+-combinaison “ Transport par bateaux à marchandises sèches ” et “ Transport par bateaux-citernes ”.
 
 Les cours de recyclage, qui font l'objet du 8.2.2.3.2, comportent les mêmes variantes que les cours de base initiaux, et ne sont accessibles qu'aux candidats titulaires d'une attestation d'expert selon les modalités définies au 8.2.2.3.2.
 
@@ -142,17 +142,17 @@ Les cours de recyclage, qui font l'objet du 8.2.2.3.2, comportent les mêmes var
 
 Les cours de spécialisation sont les cours visés au 8.2.2.3.3 ; ils comportent 2 variantes :
 
-- spécialisation “gaz” (8.2.2.3.3 et 8.2.2.3.3.1) ;
+-spécialisation “ gaz ” (8.2.2.3.3 et 8.2.2.3.3.1) ;
 
-- spécialisation “chimie” (8.2.2.3.3 et 8.2.2.3.3.2).
+-spécialisation “ chimie ” (8.2.2.3.3 et 8.2.2.3.3.2).
 
-Les cours de spécialisation initiaux, qui font l'objet du 8.2.2.3.3, sont accessibles aux candidats préalablement titulaires d'une attestation d'expert “bateaux-citernes” ou combinée “bateaux à marchandises sèches/bateaux-citernes”.
+Les cours de spécialisation initiaux, qui font l'objet du 8.2.2.3.3, sont accessibles aux candidats préalablement titulaires d'une attestation d'expert “ bateaux-citernes ” ou combinée “ bateaux à marchandises sèches/ bateaux-citernes ”.
 
 Les cours de recyclage et de spécialisation, qui font l'objet du 8.2.2.3.4, sont accessibles aux candidats préalablement titulaires :
 
-- pour le recyclage “gaz” d'une attestation d'expert “gaz” et “bateaux-citernes” ou “gaz” et combinée “bateaux à marchandises sèches / bateaux-citernes” ;
+-pour le recyclage “ gaz ” d'une attestation d'expert “ gaz ” et “ bateaux-citernes ” ou “ gaz ” et combinée “ bateaux à marchandises sèches/ bateaux-citernes ” ;
 
-- pour le recyclage “chimie” d'une attestation d'expert “chimie” et “bateaux-citernes” ou “chimie” et combinée “bateaux à marchandises sèches / bateaux-citernes”.
+-pour le recyclage “ chimie ” d'une attestation d'expert “ chimie ” et “ bateaux-citernes ” ou “ chimie ” et combinée “ bateaux à marchandises sèches/ bateaux-citernes ”.
 
 3.3. Durées minimales des formations.
 
