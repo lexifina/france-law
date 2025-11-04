@@ -1,0 +1,9 @@
+# Réponse à la question n° 5924
+
+- Question : [5924](5924.md) — Question n° 5924 — Augmentation de la capacité d'accueil des facultés de médecine
+
+## Réponse
+
+*JO du 2025-11-04, page 8961*
+
+Le nombre d'admis en filières de santé ne cesse de croître depuis la dernière année du numerus clausus (2019-2020). La France forme plus d'étudiants depuis la suppression du numerus clausus (en moyenne + 16,85 % en médecine, + 10,51 % en odontologie et + 11,70 % sur l'ensemble des 4 filières entre 2019-2020 et 2023-2024). Les capacités d'accueil pour l'année 2024-2025 ont encore augmenté pour atteindre 17 701 places (contre 17 104 en 2023-2024) toutes filières confondues, dont 11 245 places (contre 10 986) en médecine, 3 729 places (contre 3 535) en pharmacie, 1 569 places (contre 1 483) en odontologie et 1 158 places (contre 1 100) en maïeutique. Les concertations régionales sont ouvertes pour la période quinquennale de 2026 à 2030 afin de définir les objectifs nationaux pluriannuels en santé. La prochaine conférence nationale se tiendra début 2026. Elle sera chargée de proposer aux ministères chargés de la santé et de l'enseignement supérieur les nouveaux objectifs nationaux pluriannuels relatifs au nombre de professionnels à former pour la période 2026-2030. Ces objectifs seront issus d'une double concertation régionale, sous le pilotage des agences régionales de santé, et nationale, sous le pilotage de l'observatoire national de la démographie des professions de santé. Les concertations débuteront dès le mois de septembre. Il y a également une volonté d'impliquer plus fortement les acteurs territoriaux pour définir les besoins de professionnels à former (Loi n° 2025-580 du 27 juin 2025). Par ailleurs, le Gouvernement a annoncé son souhait de simplifier le dispositif d'accès aux études de santé, afin d'y apporter plus de lisibilité et d'équité entre les différentes universités.
