@@ -1,0 +1,9 @@
+# Réponse à la question n° 5321
+
+- Question : [5321](5321.md) — Question n° 5321 — Situation financièrement critique des universités
+
+## Réponse
+
+*JO du 2025-11-04, page 8958*
+
+Le budget du ministère chargé de l'enseignement supérieur et de la recherche s'élève, en 2025, à 26,8 milliards d'euros, répartis en trois programmes : 15,4 Mds€ pour le programme 150 « Formations supérieures et recherche universitaire » ; 8,2 Mds€ pour le programme 172 « Recherches scientifiques et technologiques pluridisciplinaires » et 3,2 Mds€ pour le programme 231 « Vie étudiante ». En pluriannuel, le budget du ministère a augmenté de 4,3 Mds€ sur la période 2017-2025 et de 2,7 Mds€ depuis le démarrage en 2021 de la loi de programmation de la recherche (LPR). Pour le programme 150, dont relèvent les universités, la loi de finances initiale (LFI) 2025 s'élève à + 247 M€ en crédits de paiement (CP) par rapport à 2024. Au titre de la LPR, ce sont ainsi + 91 M€ par rapport à 2024 qui sont ouverts au titre du programme 150 et + 67 M€ pour le programme 172, soit près de +160 M€ par rapport à 2024. La LFI 2025 entérine ainsi les mesures attractivité des carrières prévues par la LPR, notamment le repyramidage ou la progression indemnitaire. L'augmentation des crédits sur le programme 150 permet également de compenser, de manière pérenne, la hausse du taux de cotisation au compte d'affectation spéciale (CAS) Pensions des établissements d'enseignement supérieur. En ce qui concerne la santé financière des 78 universités (ou assimilées), l'analyse des comptes financiers 2024 révèle que seulement 10 d'entre elles - et non 60 - présentent une situation financière qui nécessite un suivi renforcé. Parmi celles-ci, une seule affiche un niveau de trésorerie inférieur au seuil de 30 jours de fonctionnement, avec un niveau de 29 jours. Ces établissements font l'objet d'un suivi attentif par les services rectoraux et par le ministère.
