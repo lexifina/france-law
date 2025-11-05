@@ -36,10 +36,14 @@ Normes applicables au contrôle, article R. 322-25 du code du sport
 
 |
 
-NF S52-40 Avril 2005 |
+NF S52-400
 
-Équipements de jeux - Points de fixation des matériels sportifs à leurs supports - Exigences fonctionnelles et de sécurité, méthodes d'essai |
+Avril 2005 |
 
-NF S52-49 Février 2024 |
+Équipements de jeux-Points de fixation des matériels sportifs à leurs supports-Exigences fonctionnelles et de sécurité, méthodes d'essai |
 
-Équipements sportifs - Modalités de contrôle des buts sur site |
+NF S52-409
+
+Février 2024 |
+
+Équipements sportifs-Modalités de contrôle des buts sur site |
