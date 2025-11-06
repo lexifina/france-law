@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250404122
+
+- Question : [SEQ250404122](seq250404122.md) — Situation électorale des conseillers aux décideurs locaux
+
+## Réponse
+
+*Intérieur , JO du 2025-11-06, page 5562*
+
+En premier lieu, il convient de rappeler qu'en matière d'inéligibilité fonctionnelle, seul le juge est compétent pour apprécier les dispositions en la matière. En outre, l'interprétation du juge dépend nécessairement de l'élection concernée, ce qui ne rend pas exclusifs les éléments ci-après présentés. En second lieu, l'article L. 231 du code électoral prévoit les cas d'inéligibilité fonctionnelle applicable aux personnes exerçant dans les communes situées dans le ressort où ils exercent ou ont exercé leurs fonctions depuis moins de six mois. Cet article dispose notamment que « (...)Ne peuvent être élus conseillers municipaux dans les communes situées dans le ressort où ils exercent ou ont exercé leurs fonctions depuis moins de six mois : (...) 6° Les comptables des deniers communaux agissant en qualité de fonctionnaire et les entrepreneurs de services municipaux ; ». Les conseillers aux décideurs locaux (CDL), dont le déploiement a été engagé à partir de janvier 2020, sont définis par la direction générale des finances publiques comme des « experts » du conseil, qui ont pour mission de dispenser des conseils notamment budgétaires et comptables aux collectivités territoriales, communes ou établissements publics de coopération intercommunale (EPCI) d'un périmètre territorial donné. Ils sont placés sous l'autorité fonctionnelle des directions départementales des finances publiques. Eu égard à la description des missions d'un CDL, celui-ci ne semble ni procéder à l'encaissement des recettes, ni au paiement des dépenses des collectivités locales dans son périmètre d'action. Aussi, le CDL apparaît éligible dans la commune et dans les communes d'un EPCI où il exerce ses missions.
