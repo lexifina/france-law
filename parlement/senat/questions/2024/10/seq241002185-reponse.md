@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241002185
+
+- Question : [SEQ241002185](seq241002185.md) — Conséquences du report de paiement des loyers des casernes
+
+## Réponse
+
+*Intérieur , JO du 2025-11-06, page 5557*
+
+La gendarmerie est entrée en gestion 2024 dans un contexte budgétaire marqué par une baisse de ses crédits hors-titre 2 inscrits en loi de finances initiale (LFI) par rapport à 2023, avec en outre la perspective d'un engagement hors normes lié à la sécurisation des Jeux Olympiques et Paralympiques de Paris 2024 (JOP). A cette mobilisation exceptionnelle pour les JOP, s'est ajoutée, de manière non prévisible, une crise de très haute intensité en Nouvelle-Calédonie à compter de mai 2024. Cette crise durable a nécessité un engagement massif de forces et de moyens avec un impact budgétaire fort. Conséquence directe de ces engagements, le programme 152 Gendarmerie nationale a été soumis à des contraintes inédites en matière de trésorerie à partir du mois de septembre 2024 conduisant à une suspension temporaire du paiement des loyers à certaines collectivités territoriales et bailleurs en attendant l'ouverture de crédits dans le cadre du schéma de fin de gestion. C'est ainsi que les loyers ont été régularisés à la fin de l'année grâce à l'ouverture de crédits complémentaires en décembre 2024. Dans l'intervalle, la gendarmerie a mis en place un dispositif dédié d'accompagnement aux bailleurs faisant état de difficultés particulières afin de maintenir les paiements pour ne pas générer de préjudice à leur endroit. Pour 2025, la loi de finances initiale avait bien prévu 628 Meuros de crédits de paiement au titre des loyers, soit une hausse de 24,5 Meuros par rapport à la LFI 2024. Ces crédits ont donc été justement calibrés au profit du P152 pour couvrir le besoin au titre des charges de loyers dus aux bailleurs en 2025.
