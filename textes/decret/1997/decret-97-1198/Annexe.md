@@ -338,7 +338,7 @@ Ministre chargé de l'aviation civile |
 
 Certification des validateurs indépendants. |
 
-Code de l'aviation civile Article R. 213-2-2 (II). |
+Code de l'aviation civileArticle R. 213-2-2 (II). |
 
 Ministre chargé de l'aviation civile |
 
@@ -446,7 +446,7 @@ Ministre chargé de l'aviation civile |
 
 Avis conforme sur les décisions de répartition des transporteurs aériens entre les aérodromes d'Aéroports de Paris. |
 
-Annexe I au décret n° 2005-828 du 20 juillet 2005 Article 6 (II et V) |
+Annexe I au décret n° 2005-828 du 20 juillet 2005Article 6 (II et V) |
 
 Ministre chargé de l'aviation civile |
 
@@ -566,6 +566,36 @@ Article L. 229-59 |
 
 Ministre chargé de l'aviation civile |
 
+61 |
+
+Amende administrative infligée aux passagers aériens perturbateurs mentionnée à l'article L. 6432-4 du code des transports |
+
+Code des transports
+
+Article L. 6432-4 |
+
+Ministre chargé de l'aviation civile |
+
+62 |
+
+Interdiction d'embarquement prononcée à l'encontre des passagers aériens perturbateurs mentionnée à l'article L. 6432-9 du code des transports |
+
+Code des transports
+
+Article L. 6432-9 |
+
+Ministre chargé de l'aviation civile |
+
+63 |
+
+Amende administrative infligée aux passagers aériens perturbateurs mentionnée à l'article L. 6432-12 du code des transports |
+
+Code des transports
+
+Article L. 6432-12 |
+
+Ministre chargé de l'aviation civile |
+
 |
 
 Examen au cas par cas des projets |
@@ -682,7 +712,7 @@ Ministre chargé de l'équipement |
 
 Prise de position sur une demande de transfert de propriété de lignes ferroviaires. |
 
-Code général de la propriété des personnes publiques Article R. 3114-5. |
+Code général de la propriété des personnes publiquesArticle R. 3114-5. |
 
 Ministre chargé des transports |
 
@@ -898,7 +928,7 @@ Ministre chargé de la mer |
 
 Mise en demeure de l'armateur ou l'employeur d'un gens de mer de justifier des mesures qu'il entend prendre pour s'acquitter de ses obligations en matière de rapatriement. |
 
-Décret n° 2017-441 du 30 mars 2017 Article 2. |
+Décret n° 2017-441 du 30 mars 2017Article 2. |
 
 Ministre chargé de la mer |
 
@@ -2974,7 +3004,7 @@ Décisions amiables d'indemnisation résultant de la mise en cause de la respons
 
 3 |
 
-Décisions relatives aux personnes morales placées sous la tutelle ou le contrôle de l'État autres que celles mentionnées au 3e de l'annexe au décret n° 97-1206 pris pour l'application à l'ensemble des ministères du premier alinéa de l'article 2 du décret n° 97-34 du 15 janvier 1997 relatif à la déconcentration des décisions administratives individuelles. |
+Décisions relatives aux personnes morales placées sous la tutelle ou le contrôle de l'État autres que celles mentionnées au 3e de l'annexe au décret n° 97-1206 pris pour l'application à l'ensemble des ministères du premier alinéa de l'article 2 du décret n° 97-34 du 15 janvier 1997relatif à la déconcentration des décisions administratives individuelles. |
 
 4 |
 
@@ -3385,3 +3415,7 @@ Décisions amiables d'indemnisation résultant de la mise en cause de la respons
 3 |
 
 Décisions relatives aux personnes morales placées sous la tutelle ou le contrôle de l'Etat autres que celles mentionnées au 3e de l'annexe au décret n° 97-1206 pris pour l'application à l'ensemble des ministères du premier alinéa de l'article 2 du décret n° 97-34 du 15 janvier 1997 relatif à la déconcentration des décisions administratives individuelles. |
+
+NOTA :
+
+Conformément à l’article 3 du décret n°1063 (NOR : TRAA2520316D), ces dispositions, dans leur rédaction résultant de l’article 2 dudit décret, sont applicables dans les îles Wallis et Futuna, en Polynésie française et, sous réserve des compétences dévolues à la collectivité en vertu de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie, en Nouvelle-Calédonie.
