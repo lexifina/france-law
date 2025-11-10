@@ -1,6 +1,6 @@
 # Article Annexe V
 
-Les étudiants en deuxième année d'études supérieures après le baccalauréat s'inscrivant pour la première fois à la voie " CPGE BCPST " du concours commun bénéficient de 25 points supplémentaires à l'admission.
+Les étudiants qui sont pour la première fois en deuxième année d'études supérieures après le baccalauréat et s'inscrivant pour la première fois à la voie " CPGE BCPST " du concours commun bénéficient de 25 points supplémentaires à l'admission.
 
 La voie " CPGE BCPST " du concours comporte les épreuves ci-après, affectées des coefficients suivants :
 

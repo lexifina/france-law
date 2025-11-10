@@ -1,6 +1,6 @@
 # Article Annexe VI
 
-Les étudiants en deuxième année d'études supérieures après le baccalauréat s'inscrivant pour la première fois à la voie " CPGE TB " du concours commun bénéficient de 18 points supplémentaires à l'admission.
+Les étudiants qui sont pour la première fois en deuxième année d'études supérieures après le baccalauréat et s'inscrivant pour la première fois à la voie " CPGE TB " du concours commun bénéficient de 18 points supplémentaires à l'admission.
 
 La voie CPGE TB du concours comporte les épreuves ci-après, affectées des coefficients suivants :
 
