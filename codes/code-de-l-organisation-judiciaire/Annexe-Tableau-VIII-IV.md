@@ -206,11 +206,11 @@ Rouen |
 
 Ressort de la cour d'appel de Rouen |
 
-Cour d'appel de Saint-Denis de La Réunion |
+Cour d'appel de Saint-Denis |
 
 Saint-Pierre |
 
-Ressort de la cour d'appel de Saint-Denis de La Réunion |
+Ressort de la cour d'appel de Saint-Denis |
 
 Cour d'appel de Toulouse |
 
@@ -229,7 +229,3 @@ Tribunal supérieur d'appel de Saint-Pierre-et-Miquelon |
 Saint-Pierre-et-Miquelon |
 
 Ressort du tribunal supérieur d'appel de Saint-Pierre-et-Miquelon |
-
-NOTA :
-
-Conformément à l’article 3 du décret n° 2021-1305 du 7 octobre 2021, la juridiction saisie demeure compétente pour statuer sur les procédures introduites antérieurement à la date d'entrée en vigueur de l'article 2 dudit décret.
