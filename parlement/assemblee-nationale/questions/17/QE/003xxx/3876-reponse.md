@@ -1,0 +1,9 @@
+# Réponse à la question n° 3876
+
+- Question : [3876](3876.md) — Question n° 3876 — Site Boréale
+
+## Réponse
+
+*JO du 2025-11-11, page 9121*
+
+Le Bulletin officiel des armées (BOA) publié par voie électronique est l'organe de diffusion des textes réglementaires du ministère des armées et des anciens combattants. Il répond, d'une part, à la nécessité de mettre à la disposition des utilisateurs une documentation complète et accessible et, d'autre part, aux obligations de l'article L. 312-2 du code des relations entre le public et l'administration (CRPA). Cet article dispose que les instructions, les circulaires ainsi que les notes et les réponses ministérielles comportant une interprétation du droit positif ou une description des procédures administratives doivent faire l'objet d'une publication. La liste des sites internet publics consultables est fixée par l'article D. 312-11 du CRPA. Pour le ministère, il s'agit du site référencé « https://www.defense.gouv.fr/bulletin-officiel » sur lequel sont désormais accessibles toutes les éditions du BOA. La référence du site a été mise à jour par le décret n° 2024-414 du 3 mai 2024. Ce site est également accessible depuis la page du site Légifrance dédiée aux bulletins officiels. Le site Boréale sera donc prochainement rendu inaccessible. Pour la période 2006 à 2019, les instructions, les circulaires et les directives étaient également mises en ligne sur le site « circulaires.legifrance.gouv.fr ». Toutefois, conformément à la circulaire du Gouvernement du 5 juin 2019 relative à la transformation des administrations centrales et aux nouvelles méthodes de travail, les circulaires portant sur l'organisation et le fonctionnement des services n'ont plus vocation à être publiées sur le site Légifrance. Les bulletins officiels antérieurs au 1er janvier 2006 peuvent être consultés, sous format papier, au service historique de la défense (Château de Vincennes, avenue de Paris, 94306 Vincennes cedex).
