@@ -1,0 +1,9 @@
+# Réponse à la question n° 2007
+
+- Question : [2007](2007.md) — Question n° 2007 — Médaille d'outre-mer aux militaires ayant servi en Algérie
+
+## Réponse
+
+*JO du 2025-11-11, page 9117*
+
+Régie par le décret n° 62-660 du 6 juin 1962 modifié relatif à la médaille d'outre-mer, la médaille d'outre-mer est destinée à récompenser les services militaires ou civils rendus aux armées en dehors du territoire européen de la France ou à l'étranger, ce qui ne correspond pas à la situation des militaires ayant servi durant la guerre d'Algérie. Toutefois, leur situation fait l'objet d'une médaille commémorative spécifiquement créée durant la période de la guerre d'Algérie et des combats au Maroc et en Tunisie. En effet, aux termes de l'article 2 du décret n° 58-24 du 11 janvier 1958 portant création d'une médaille commémorative des opérations de sécurité et de maintien de l'ordre, cette décoration est destinée aux anciens combattants de la guerre d'Algérie ou des conflits au Maroc et en Tunisie, justifiant d'avoir participé pendant quatre-vingt-dix jours au moins, dans une formation régulière ou supplétive, aux opérations de sécurité et de maintien de l'ordre. Aucune condition de durée de séjour n'est requise pour les militaires cités avec la croix de la Valeur militaire ou blessés durant les opérations. À ce titre, les opérations menées en Algérie depuis le 31 octobre 1954 ont donné lieu à l'attribution de la médaille jusqu'à la date limite d'attribution prévue à compter du 1er juillet 1964, aux termes de l'arrêté du 5 mai 1958 portant ouverture du droit à la médaille commémorative des opérations de sécurité et de maintien de l'ordre et de l'arrêté du 8 avril 1964 fixant la date limite d'attribution de la médaille commémorative des opérations de sécurité et de maintien de l'ordre. Le dispositif de reconnaissance étant cohérent et complet, aucune modification de la réglementation en vigueur n'est envisagée.
