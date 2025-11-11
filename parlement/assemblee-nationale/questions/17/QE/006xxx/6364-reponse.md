@@ -1,0 +1,9 @@
+# Réponse à la question n° 6364
+
+- Question : [6364](6364.md) — Question n° 6364 — Accueil en préfecture : missions de filtrage des agents de sécurité
+
+## Réponse
+
+*JO du 2025-11-11, page 9167*
+
+Tout d'abord, un parlementaire peut s'il le souhaite informer la préfecture en amont de projets de visite qu'il entend mener dans ses locaux, afin que cela puisse être organisé au mieux, ceci selon les règles afférentes au lieu concerné. S'agissant des conditions d'accueil des usagers en situation de handicap, vous interrogez l'accessibilité de la sous-préfecture de Saint-Denis. Rénové et ouvert au public en 2023, ce bâtiment respecte les normes en la matière. Les travaux ont ainsi fait l'objet d'un avis favorable de la sous-commission départementale pour I'accessibilité des personnes handicapées. Ainsi, comme vous l'avez probablement constaté, des aménagements spécifiques ont été créés, notamment un cheminement dédié aux personnes à mobilité réduite. Enfin, vous remettez en question I'accueil des usagers par des agents de sécurité privée. Partie intégrante du continuum de sécurité aux côtés des services de l'Etat et des collectivités, les agents privés de sécurité jouent un rôle important pour la prévention des atteintes aux personnes et aux biens. Encadrée par le code de la sécurité intérieure, l'activité de ces agents au sein des services préfectoraux est bien prévue par la réglementation en vigueur. Ainsi, ils sont chargés de contrôler l'accès aux bâtiments et de procéder à un contrôle visuel des effets personnels des usagers. Néanmoins, ils n'assurent pas de missions d'accueil et de renseignement, charge assurée par les agents de la préfecture. Le caractère symbolique fort des préfectures comme le maintien au niveau « Urgence Attentat » du plan Vigipirate nécessite des mesures particulières de protection pour les usagers comme pour les agents.
