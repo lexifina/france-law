@@ -1,0 +1,9 @@
+# Réponse à la question n° 5195
+
+- Question : [5195](5195.md) — Question n° 5195 — Pensions de retraite des militaires rejoignant d'autres services de l'État
+
+## Réponse
+
+*JO du 2025-11-11, page 9130*
+
+Un emploi public de catégorie active est un emploi qui présente un risque particulier ou des fatigues exceptionnelles. Par risque particulier ou fatigues exceptionnelles, il faut entendre les risques inhérents à un emploi conduisant à une usure prématurée telle qu'elle justifie un départ anticipé à la retraite. La liste des emplois relevant de la catégorie active est fixée en annexe du décret n° 54-832 du 13 août 1954. Cette notion de catégorie active s'applique aux agents civils et ne concerne pas les militaires dont les services ouvrent droit à une pension militaire de retraite qui répond à une logique et à des règles d'acquisition et de liquidation spécifiques tenant compte des sujétions inhérentes à l'état militaire. Ainsi, un ancien militaire intégrant la fonction publique civile au titre des « emplois réservés » bénéficiera de sa pension militaire de retraite s'il remplit les conditions d'ancienneté de service requises. Selon l'ancienneté de service acquise, il percevra sa pension militaire de retraite dès sa radiation des cadres ou des contrôles ou de façon différée. Il est rappelé que si l'intéressé a été réformé pour infirmités, aucune condition d'ancienneté de service n'est exigée. Par ailleurs, si la pension militaire de retraite se cumule avec une rémunération dans la fonction publique civile, elle peut être plafonnée dans certains cas définis par la loi. Dans la mesure où les services effectués en qualité de militaire ouvrent un droit à pension propre, reposant sur la spécificité de l'état militaire et des conditions exceptionnelles qui y sont attachées, il n'est pas envisageable que ce temps de service soit comptabilisé deux fois, en étant pris en compte dans le calcul du droit ultérieur à une pension civile de retraite.
