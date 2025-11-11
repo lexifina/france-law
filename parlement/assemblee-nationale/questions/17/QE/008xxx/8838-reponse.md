@@ -1,0 +1,9 @@
+# Réponse à la question n° 8838
+
+- Question : [8838](8838.md) — Question n° 8838 — Absence de définition légale d'environnement montagnard spécifique hors neige
+
+## Réponse
+
+*JO du 2025-11-11, page 9186*
+
+En premier lieu, il convient de rappeler que l'arrêté du 6 décembre 2016 portant définition de l'environnement montagnard a été annulé par le Conseil d'État en 2018 au motif que le ministère chargé des sports n'est pas habilité à édicter une telle mesure par la voie d'un arrêté. Si un décret pris en Conseil d'État reste envisageable pour le définir, la circonscription de la notion d'environnement montagnard suppose l'établissement de critères clairs et objectifs (altitude, météorologie, enneigement, accidentologie, etc.) à retenir au nom de la sécurité juridique. En second lieu, le ministère des sports, de la jeunesse et de la vie associative n'envisage aucune évolution réglementaire à ce jour. Ceci étant, en réponse aux demandes de certains acteurs, le ministère a constitué un groupe de travail permettant aux acteurs de préciser leurs attentes au regard du cadre réglementaire en vigueur et d'envisager d'autres solutions. Ce groupe de travail associant l'école nationale des sports de montagne, les syndicats représentatifs, les fédérations sportives concernées et la direction des sports, pourra formuler des propositions sur ce sujet de l'environnement montagnard, étant entendu que l'objectif de la direction des sports consiste in fine à concilier la protection des pratiquants, enjeu prioritaire des politiques publiques, et un encadrement qui ne soit pas un frein au développement économique de l'activité en question. Le Ministère des Sports, de la Jeunesse et de la Vie accosicative reste pleinement investie et garde un contact étroit avec les différents protagonistes sur cette problématique de l'absence de définition légale de l'environnement montagnard spécifique hors neige.
