@@ -2,25 +2,29 @@
 
 FORMAT DES DÉCLARATIONS
 
-Pour faciliter la lecture de la présente annexe, il est précisé que le terme " influenceur " utilisé dans celle-ci renvoie aux bénéficiaires suivant mentionnés au I de l'article L. 1453-1 du code de la santé publique : " 7° bis Les personnes qui, dans les médias ou sur les réseaux sociaux, présentent un ou plusieurs produits de santé, de manière à influencer le public ; ".
+Pour faciliter la lecture de la présente annexe, il est précisé que le terme “ influenceur ” utilisé dans celle-ci renvoie aux bénéficiaires suivants mentionnés au I de l'article L. 1453-1 du code de la santé publique : “ 7° bis Les personnes qui, dans les médias ou sur les réseaux sociaux, présentent un ou plusieurs produits de santé, de manière à influencer le public ” ;
 
 1. Généralités
 
-REGLES LIEES A CHAQUE DECLARATION |
+RÈGLES LIÉES À CHAQUE DÉCLARATION |
 
 Toute déclaration est enregistrée au moyen d'un couple unique composé de :
 
--l'identifiant interne à la base identifiant l'entreprise,
+-l'identifiant interne à la base identifiant l'entreprise ;
 
--et de l'identifiant unique attribué par l'entreprise à chaque ligne déclarée. |
+-et de l'identifiant unique attribué par l'entreprise à chaque ligne déclarée.
+
+|
 
 L'identifiant interne de l'entreprise :
 
 -est automatiquement enregistré par le système lorsque l'utilisateur se rend sur l'écran Déclarer correspondant à l'entreprise pour saisir en ligne dans le tableau ;
 
--doit être renseigné par l'utilisateur entreprise lorsque la déclaration s'effectue par envoi automatique par l'intermédiaire du webservice. |
+-doit être renseigné par l'utilisateur entreprise lorsque la déclaration s'effectue par envoi automatique par l'intermédiaire du webservice.
 
-REGLES LIEES AUX FORMAT |
+|
+
+RÈGLES LIÉES AUX FORMAT |
 
 Un champ obligatoire non rempli génère une erreur (donc la ligne n'est pas transmise et enregistrée en base) |
 
@@ -34,25 +38,15 @@ Une valeur non-renseignée correspond à aucun caractère (et non pas à un cara
 
 Par saisie en ligne ou envoi par webservice :
 
-NOM
+NOM DU CHAMP |
 
-DU CHAMP |
-
-OBLIGATOIRE/
-
-FACULTATIF |
+OBLIGATOIRE/ FACULTATIF |
 
 DESCRIPTION |
 
 FORMAT |
 
-LISTE DE VALEURS
-
-Codes à utiliser pour le Webservice
-
-=
-
-Libellés à utiliser pour la saisie en ligne |
+LISTE DE VALEURS Codes à utiliser pour le Webservice = Libellés à utiliser pour la saisie en ligne |
 
 Action |
 
@@ -60,7 +54,9 @@ Obligatoire |
 
 . Action de déclaration à indiquer.
 
-. Une seule valeur attendue. |
+. Une seule valeur attendue.
+
+|
 
 Liste |
 
@@ -68,7 +64,9 @@ Liste |
 
 -M = Modification
 
--S = Suppression |
+-S = Suppression
+
+|
 
 Déclaration |
 
@@ -76,15 +74,19 @@ Obligatoire |
 
 . Type de déclaration à indiquer.
 
-. Une seule valeur attendue. |
+. Une seule valeur attendue.
+
+|
 
 Liste |
 
 -convention = Convention
 
--remuneration = Rémunération
+-rémunération = Rémunération
 
--avantage = Avantage |
+-avantage = Avantage
+
+|
 
 Identifiant unique |
 
@@ -94,7 +96,9 @@ Obligatoire |
 
 . Cette valeur joue le rôle de clé pour identifier de manière unique la déclaration. Elle est fournie en entrée par l'entreprise pour pouvoir par exemple procéder à une correction ultérieure.
 
-. Format : [0-9] [A-Z], caractères " tiret " et " underscore " autorisés, 128 caractères maximum. |
+. Format : [0-9] [A-Z], caractères “ tiret ” et “ underscore ” autorisés, 128 caractères maximum.
+
+|
 
 Texte |
 
@@ -106,7 +110,9 @@ Obligatoire pour une rémunération |
 
 . Identifiant unique de la convention à laquelle est liée obligatoirement une rémunération.
 
-. Format : [0-9] [A-Z], caractères " tiret " et " underscore " autorisés, 128 caractères maximum. |
+. Format : [0-9] [A-Z], caractères " tiret " et " underscore " autorisés, 128 caractères maximum.
+
+|
 
 Texte |
 
@@ -116,7 +122,11 @@ Facultatif pour un avantage |
 
 . Identifiant unique de la convention à laquelle peut être lié un avantage.
 
-. Format : [0-9] [A-Z], caractères " tiret " et " underscore " autorisés, 128 caractères maximum. |
+. Format : [0-9] [A-Z], caractères " tiret " et " underscore " autorisés, 128 caractères maximum.
+
+|
+
+|
 
 |
 
@@ -126,7 +136,9 @@ Obligatoire pour les conventions et les avantages |
 
 . Objet de la convention/ nature de l'avantage
 
-. Une seule valeur attendue. |
+. Une seule valeur attendue.
+
+|
 
 Liste |
 
@@ -214,7 +226,9 @@ Typologie pour les natures d'avantage :
 
 -PM = Prêt de matériel
 
--PR = Prix de recherche |
+-PR = Prix de recherche
+
+|
 
 Autre |
 
@@ -222,7 +236,9 @@ Obligatoire si la valeur " Autre " a été saisie dans le champ " Objet conventi
 
 . Si la valeur " Autre " a été saisie dans le champ " Objet convention/ nature avantage ", indiquer dans ce champ les compléments nécessaires pour préciser l'objet de la convention ou la nature de l'avantage.
 
-. Format : 255 caractères maximum. |
+. Format : 255 caractères maximum.
+
+|
 
 Texte |
 
@@ -230,9 +246,7 @@ Texte |
 
 Montant |
 
-Obligatoire pour les rémunérations et les avantages.
-
-Facultatif pour les conventions |
+Obligatoire |
 
 . Montant des conventions, des rémunérations et des avantages.
 
@@ -240,13 +254,19 @@ Facultatif pour les conventions |
 
 . Montant en euros.
 
-. Montant supérieur ou égal à 10 € pour les rémunérations et les avantages. |
+. Montant supérieur ou égal à 10 € pour les rémunérations et les avantages.
+
+|
 
 Montant |
 
 |
 
-Date de signature/ versement |
+Date de signature/
+
+versement
+
+|
 
 Obligatoire |
 
@@ -254,7 +274,9 @@ Obligatoire |
 
 . Date de versement des rémunérations et des avantages.
 
-. Format : jj/ mm/ aaaa. |
+. Format : jj/ mm/ aaaa.
+
+|
 
 Date |
 
@@ -266,7 +288,9 @@ Obligatoire pour les conventions |
 
 . Date de début de la convention.
 
-. Format : jj/ mm/ aaaa. |
+. Format : jj/ mm/ aaaa.
+
+|
 
 Date |
 
@@ -280,7 +304,9 @@ Facultative pour les conventions |
 
 . Format : jj/ mm/ aaaa.
 
-. La date de fin doit être supérieure ou égale à la date début. |
+. La date de fin doit être supérieure ou égale à la date début.
+
+|
 
 Date |
 
@@ -292,7 +318,9 @@ Obligatoire |
 
 . Lorsque la convention a pour objet une manifestation, indiquer l'organisateur, le nom, la date et le lieu de la manifestation.
 
-. Format : 255 caractères maximum. |
+. Format : 255 caractères maximum.
+
+|
 
 Texte |
 
@@ -302,7 +330,9 @@ Facultatif |
 
 . Indiquer des précisions sur la convention.
 
-. Format : 255 caractères maximum. |
+. Format : 255 caractères maximum.
+
+|
 
 Catégorie de bénéficiaire |
 
@@ -310,7 +340,9 @@ Obligatoire |
 
 . Catégorie du bénéficiaire.
 
-. Une seule valeur possible. |
+. Une seule valeur possible.
+
+|
 
 Liste |
 
@@ -346,15 +378,23 @@ Personnes morales :
 
 -PRE = Presse et média
 
--VPM = Vétérinaire personne morale |
+-VPM = Vétérinaire personne morale
 
-Type d'identifiant professionnel |
+|
+
+Type d'identifiant
+
+professionnel
+
+|
 
 Obligatoire |
 
 . Type d'identifiant utilisé pour identifier le bénéficiaire.
 
-. Une seule valeur possible. |
+. Une seule valeur possible.
+
+|
 
 Liste |
 
@@ -390,7 +430,13 @@ Pour les personnes morales :
 
 -FINESS
 
--AUTRE |
+-RNA
+
+-AMALIA
+
+-AUTRE
+
+|
 
 Numéro d'identifiant professionnel |
 
@@ -406,9 +452,15 @@ Obligatoire sauf pour la catégorie de bénéficiaire " Influenceur " |
 
 -Si le Type d'identifiant professionnel est FINESS : le numéro finess ;
 
+-Si le Type d'identifiant professionnel est RNA : le numéro rna ;
+
+-Si le Type d'identifiant professionnel est AMALIA : le numéro amalia ;
+
 -Si le Type d'identifiant professionnel est AUTRE : valeur à renseigner. Ne rien mettre si inconnu.
 
-. Format : 255 caractères maximum. |
+. Format : 255 caractères maximum.
+
+|
 
 Texte |
 
@@ -420,17 +472,11 @@ Obligatoire pour la catégorie de bénéficiaire " Professionnel de santé " |
 
 . Qualité/ profession du bénéficiaire.
 
-. Une seule valeur possible. |
+. Une seule valeur possible.
+
+|
 
 Liste |
-
--01 = Préparateur en pharmacie et préparateur en pharmacie hospitalière
-
--02 = Aide-soignant
-
--03 = Auxiliaire de puériculture
-
--04 = Ambulancier
 
 -10 = Médecin
 
@@ -438,19 +484,35 @@ Liste |
 
 -26 = Audioprothésiste
 
--28 = Opticien-lunetier
+-31 = Assistant dentaire
 
--40 = Chirurgien-dentiste
+-32 = Physicien médical
 
--50 = Sage-femme
+-36 = Ambulancier
+
+-37 = Auxiliaire de puériculture
+
+-40 = Chirurgien-Dentiste
+
+-50 = Sage-Femme
 
 -60 = Infirmier
 
--70 = Masseur-kinésithérapeute
+-69 = Infirmier psychiatrique
 
--80 = Pédicure-podologue
+-70 = Masseur-Kinésithérapeute
 
--82 = Prothésiste et orthésistes pour l'appareillage de personnes handicapées
+-80 = Pédicure-Podologue
+
+-81 = Orthoprothésiste
+
+-82 = Podo-Orthésiste
+
+-83 = Orthopédiste-Orthésiste
+
+-84 = Oculariste
+
+-85 = Epithésiste
 
 -86 = Technicien de laboratoire médical
 
@@ -464,27 +526,25 @@ Liste |
 
 -96 = Psychomotricien
 
--98 = Manipulateur d'électroradiologie médicale
+-98 = Manipulateur ERM
 
--99 = Physicien médical
+-313 = Aide-soignant
 
--ADE = Assistant dentaire |
+-316 = Préparateur en pharmacie hospitalière
+
+-317 = Préparateur en pharmacie officine
+
+|
 
 Facultatif pour la catégorie de bénéficiaire " Etudiant " |
 
 . Qualité/ profession du bénéficiaire.
 
-. Une seule valeur possible. |
+. Une seule valeur possible.
+
+|
 
 Liste |
-
--01 = Préparateur en pharmacie et préparateur en pharmacie hospitalière
-
--02 = Aide-soignant
-
--03 = Auxiliaire de puériculture
-
--04 = Ambulancier
 
 -10 = Médecin
 
@@ -492,19 +552,35 @@ Liste |
 
 -26 = Audioprothésiste
 
--28 = Opticien-lunetier
+-31 = Assistant dentaire
 
--40 = Chirurgien-dentiste
+-32 = Physicien médical
 
--50 = Sage-femme
+-36 = Ambulancier
+
+-37 = Auxiliaire de puériculture
+
+-40 = Chirurgien-Dentiste
+
+-50 = Sage-Femme
 
 -60 = Infirmier
 
--70 = Masseur-kinésithérapeute
+-69 = Infirmier psychiatrique
 
--80 = Pédicure-podologue
+-70 = Masseur-Kinésithérapeute
 
--82 = Prothésiste et orthésistes pour l'appareillage de personnes handicapées
+-80 = Pédicure-Podologue
+
+-81 = Orthoprothésiste
+
+-82 = Podo-Orthésiste
+
+-83 = Orthopédiste-Orthésiste
+
+-84 = Oculariste
+
+-85 = Epithésiste
 
 -86 = Technicien de laboratoire médical
 
@@ -518,13 +594,17 @@ Liste |
 
 -96 = Psychomotricien
 
--98 = Manipulateur d'électroradiologie médicale
+-98 = Manipulateur ERM
 
--99 = Physicien médical
+-313 = Aide-soignant
 
--ADE = Assistant dentaire
+-316 = Préparateur en pharmacie hospitalière
 
--VET = Vétérinaire |
+-317 = Préparateur en pharmacie officine
+
+-VET = Vétérinaire
+
+|
 
 Identité/ Nom |
 
@@ -542,7 +622,9 @@ Obligatoire |
 
 -Dénomination sociale d'une entreprise.
 
-. Format : 255 caractères. |
+. Format : 255 caractères.
+
+|
 
 Texte |
 
@@ -554,19 +636,27 @@ Obligatoire sauf pour la catégorie de bénéficiaire " Influenceur " |
 
 . Prénom d'une personne physique hors catégorie professionnelle " Influenceur " : professionnel de santé, vétérinaire ou étudiant.
 
-. Format : 255 caractères. |
+. Format : 255 caractères.
+
+|
 
 Texte |
 
 |
 
-Structure d'exercice/ de rattachement |
+Structure d'exercice/
+
+de rattachement
+
+|
 
 Obligatoire pour la catégorie de bénéficiaire " Etudiant " |
 
 . Nom de l'établissement d'enseignement ou de l'organisme de rattachement.
 
-. Format : 255 caractères maximum. |
+. Format : 255 caractères maximum.
+
+|
 
 Texte |
 
@@ -576,7 +666,9 @@ Facultatif pour les catégories de bénéficiaire " Professionnel de santé " et
 
 . Indiquer des précisions sur la structure d'exercice.
 
-. Format : 255 caractères maximum. |
+. Format : 255 caractères maximum.
+
+|
 
 Texte |
 
@@ -588,7 +680,9 @@ Obligatoire sauf pour la catégorie de bénéficiaire " Influenceur " |
 
 . Pays du bénéficiaire.
 
-. Une seule valeur possible. |
+. Une seule valeur possible.
+
+|
 
 Liste |
 
@@ -610,7 +704,9 @@ Obligatoire sauf pour la catégorie de bénéficiaire " Influenceur " |
 
 -Le code postal d'adresse du siège social de l'entreprise ou de l'association.
 
-. Format : 255 caractères maximum. |
+. Format : 255 caractères maximum.
+
+|
 
 Code postal |
 
@@ -632,7 +728,9 @@ Obligatoire sauf pour la catégorie de bénéficiaire " Influenceur " |
 
 -La ville de l'adresse du siège social de l'entreprise ou de l'association.
 
-. Format : 255 caractères maximum. |
+. Format : 255 caractères maximum.
+
+|
 
 Texte |
 
@@ -654,7 +752,9 @@ Obligatoire sauf pour la catégorie de bénéficiaire " Influenceur " |
 
 -L'adresse du siège social de l'entreprise ou de l'association.
 
-. Format : 255 caractères maximum. |
+. Format : 255 caractères maximum.
+
+|
 
 Texte |
 
@@ -662,13 +762,9 @@ Texte |
 
 Champ supplémentaire pour l'envoi par webservice :
 
-NOM
+NOM DU CHAMP |
 
-DU CHAMP |
-
-OBLIGATOIRE/
-
-FACULTATIF |
+OBLIGATOIRE/ FACULTATIF |
 
 DESCRIPTION |
 
@@ -676,7 +772,11 @@ FORMAT |
 
 LISTE DE VALEUR |
 
-Demande de rectification |
+Demande de
+
+rectification
+
+|
 
 Obligatoire |
 
@@ -684,8 +784,12 @@ Obligatoire |
 
 . Si l'Action sur une déclaration est " Modification " ou " Suppression ", indiquer une seule valeur possible.
 
-. Si la valeur " Oui " est indiquée : l'action une fois enregistrée éteint la demande de rectification sur la déclaration et le marqueur disparaît sur le site grand public. |
+. Si la valeur " Oui " est indiquée : l'action une fois enregistrée éteint la demande de rectification sur la déclaration et le marqueur disparaît sur le site grand public.
+
+|
 
 Liste |
 
 -OUI-NON |
+
+.
