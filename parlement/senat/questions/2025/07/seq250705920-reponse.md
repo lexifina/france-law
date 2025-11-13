@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250705920
+
+- Question : [SEQ250705920](seq250705920.md) — Réglementation concernant l'articulation des temps périscolaires
+
+## Réponse
+
+*Sports, jeunesse et vie associative, JO du 2025-11-13, page 5698*
+
+La réglementation des accueils collectifs de mineurs (ACM) à caractère éducatif mentionnés à l'article L. 227-4 du code de l'action sociale et des familles (CASF) n'interdit pas à un enfant fréquentant un ACM, s'il quitte la structure dans laquelle il est présent, pour réaliser une activité proposée à l'extérieur, de revenir ensuite au sein de la structure qui l'accueille. Cette réglementation fixe les dispositions relatives à la qualification des personnes encadrant les mineurs dans ces accueils. Elle définit également les taux d'encadrement en fonction de l'âge des mineurs et des caractéristiques des accueils. Ces règles visent à assurer la sécurité physique et morale des mineurs accueillis notamment dans les accueils de loisirs. Si le temps de transport aller et retour entre l'accueil de loisirs et le lieu dans lequel se déroule l'activité concernée est inclus dans la déclaration de l'accueil de loisirs, l'encadrement des enfants doit être assuré dans les conditions définies par le CASF, leur sécurité durant les trajets relevant de la responsabilité de l'organisateur de l'accueil. En revanche, si le temps de transport aller et retour n'est pas inclus dans la déclaration de l'accueil de loisirs, les mineurs doivent être remis à leurs parents et il appartient à ces derniers d'accompagner leurs enfants du lieu d'activité à l'accueil de loisirs, puis, à l'issue de celui-ci, de les ramener à l'accueil périscolaire. L'organisateur de l'accueil de loisirs doit impérativement informer très précisément les parents des modalités prévues pour la prise en charge et le trajet des mineurs entre les différents lieux d'activités et d'accueils.
