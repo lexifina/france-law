@@ -2,13 +2,9 @@
 
 LISTE DES EMPLOIS DU CORPS DE CONCEPTION ET DE DIRECTION DE LA POLICE NATIONALE OUVRANT DROIT AU BÉNÉFICE DE L'INDEMNITÉ TEMPORAIRE DE MOBILITÉ
 
-1. Directions interdépartementales et directions départementales de la police nationale : 15 postes
+1. Directions interdépartementales et directions départementales de la police nationale : 14 postes
 
-Etablissement, organisme
-
-ou service
-
-et localisation géographique |
+Etablissement, organisme ou service et localisation géographique |
 
 Emplois |
 
@@ -56,18 +52,6 @@ A + |
 
 1 |
 
-DIPN du Calvados (14) |
-
-Chef du service interdépartemental de la police judiciaire à Caen |
-
-A + |
-
-3 ans |
-
-10 000 |
-
-1 |
-
 DDPN de la Creuse (23) |
 
 Directeur départemental de la police nationale de la Creuse et chef de la circonscription de police nationale de Guéret |
@@ -101,6 +85,18 @@ A + |
 3 ans |
 
 8 000 |
+
+1 |
+
+DIPN de la Haute-Marne (52) |
+
+Directeur départemental de la police nationale de la Haute-Marne et chef de la circonscription de police nationale de Chaumont |
+
+A + |
+
+3 ans |
+
+10 000 |
 
 1 |
 
@@ -164,33 +160,9 @@ A + |
 
 1 |
 
-DIPN des Pyrénées-Atlantiques (64) |
-
-Directeur interdépartemental adjoint de la police nationale des Pyrénées-Atlantiques et chef de la circonscription de police nationale de Pau |
-
-A + |
-
-3 ans |
-
-8 000 |
-
-1 |
-
 DDPN de la Saône-et-Loire (71) |
 
 Directeur départemental adjoint de la police nationale de la Saône-et-Loire et chef de la circonscription de police nationale de Chalon-sur-Saône |
-
-A + |
-
-3 ans |
-
-8 000 |
-
-1 |
-
-DIPN de la Somme (80) |
-
-Directeur interdépartemental adjoint de la police nationale de la Somme et chef de la circonscription de police nationale d'Amiens |
 
 A + |
 
@@ -212,55 +184,21 @@ A + |
 
 1 |
 
-2. Direction nationale de la police aux frontières : 1 poste
+DIPN du Territoire de Belfort (90) |
 
-Etablissement, organisme
-
-ou service
-
-et localisation géographique |
-
-Emploi |
-
-Catégorie
-
-statutaire
-
-d'emploi |
-
-Durée
-
-de la période
-
-de référence |
-
-Montant ITM
-
-(en euros) |
-
-Nombre
-
-de postes |
-
-DNPAF/ Services centraux (75) |
-
-Chef de la division nationale de l'éloignement |
+Directeur départemental de la police nationale du Territoire de Belfort et chef de la circonscription de police nationale de Belfort |
 
 A + |
 
 3 ans |
 
-8 000 |
+10 000 |
 
 1 |
 
-3. Ecole supérieure de police : 3 postes
+2. Ecole supérieure de police : 3 postes
 
-Etablissement, organisme
-
-ou service
-
-et localisation géographique |
+Etablissement, organisme ou service et localisation géographique |
 
 Emploi |
 
@@ -320,8 +258,8 @@ A + |
 
 1 |
 
-4. Direction générale de la sécurité intérieure : 2 postes
+3. Direction générale de la sécurité intérieure : 2 postes.
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 8 septembre 2025 (NOR : INTC2525587A), les agents affectés précédemment sur un poste ouvrant droit à l'indemnité temporaire de mobilité conservent ce droit pour l'intégralité de la période de référence initialement prévue.
+Conformément à l'article 2 de l'arrêté du 3 novembre 2025 (NOR : INTC2530829A), les agents affectés précédemment sur un poste ouvrant droit à l'indemnité temporaire de mobilité conservent ce droit pour l'intégralité de la période de référence initialement prévue.
