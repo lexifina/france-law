@@ -2,7 +2,7 @@
 
 ANNEXE 1
 
-VOLUME HORAIRE DE RÉFÉRENCE (*) CORRESPONDANT À UNE DURÉE DE 80 SEMAINES D'ENSEIGNEMENT, 20 SEMAINES DE PFMP ET 2 SEMAINES D'EXAMEN
+VOLUME HORAIRE DE RÉFÉRENCE (*) CORRESPONDANT À UNE DURÉE DE 82 SEMAINES D'ENSEIGNEMENT, 20 SEMAINES DE PFMP ET 2 SEMAINES D'EXAMEN
 
 |
 
@@ -14,7 +14,9 @@ Première
 
 prof |
 
-Terminale prof |
+Terminale
+
+prof |
 
 Total
 
@@ -26,9 +28,9 @@ ENSEIGNEMENTS PROFESSIONNELS |
 
 420 |
 
-319 |
+348 |
 
-1 189 |
+1 218 |
 
 Enseignement professionnel |
 
@@ -36,9 +38,9 @@ Enseignement professionnel |
 
 294 |
 
-231 |
+252 |
 
-885 |
+906 |
 
 Enseignements professionnels et français en co-intervention (a) |
 
@@ -50,7 +52,9 @@ Enseignements professionnels et français en co-intervention (a) |
 
 29 |
 
-Enseignements professionnels et mathématiques-sciences en co-intervention (a) |
+Enseignements professionnels et mathématiques-sciences
+
+en co-intervention (a) |
 
 15 |
 
@@ -66,9 +70,9 @@ Réalisation d'un projet |
 
 42 |
 
-22 |
+24 |
 
-64 |
+66 |
 
 Prévention-santé-environnement |
 
@@ -76,9 +80,9 @@ Prévention-santé-environnement |
 
 28 |
 
-33 |
+36 |
 
-91 |
+94 |
 
 Economie-gestion ou économie-droit (selon la spécialité) |
 
@@ -86,9 +90,9 @@ Economie-gestion ou économie-droit (selon la spécialité) |
 
 28 |
 
-33 |
+36 |
 
-91 |
+94 |
 
 ENSEIGNEMENTS GÉNÉRAUX |
 
@@ -96,9 +100,9 @@ ENSEIGNEMENTS GÉNÉRAUX |
 
 350 |
 
-330 |
+360 |
 
-1 070 |
+1 100 |
 
 Français, histoire-géographie et enseignement moral et civique (b) |
 
@@ -106,9 +110,9 @@ Français, histoire-géographie et enseignement moral et civique (b) |
 
 98 |
 
-99 |
+108 |
 
-317 |
+326 |
 
 Mathématiques (b) |
 
@@ -116,9 +120,9 @@ Mathématiques (b) |
 
 56 |
 
-55 |
+60 |
 
-171 |
+176 |
 
 Langue vivante A |
 
@@ -126,9 +130,9 @@ Langue vivante A |
 
 56 |
 
-55 |
+60 |
 
-171 |
+176 |
 
 Physique-chimie ou langue vivante B (selon la spécialité) |
 
@@ -136,9 +140,9 @@ Physique-chimie ou langue vivante B (selon la spécialité) |
 
 42 |
 
-33 |
+36 |
 
-120 |
+123 |
 
 Arts appliqués et culture artistique |
 
@@ -146,9 +150,9 @@ Arts appliqués et culture artistique |
 
 28 |
 
-22 |
+24 |
 
-80 |
+82 |
 
 Education physique et sportive |
 
@@ -156,9 +160,9 @@ Education physique et sportive |
 
 70 |
 
-66 |
+72 |
 
-211 |
+217 |
 
 SOUTIEN AU PARCOURS |
 
@@ -166,9 +170,9 @@ SOUTIEN AU PARCOURS |
 
 28 |
 
-33 |
+36 |
 
-91 |
+94 |
 
 TOTAL DES HEURES |
 
@@ -176,9 +180,9 @@ TOTAL DES HEURES |
 
 798 |
 
-682 |
+744 |
 
-2 350 |
+2 412 |
 
 PÉRIODE DE FORMATION EN MILIEU PROFESSIONNEL OBLIGATOIRE POUR L'EXAMEN |
 
@@ -190,27 +194,21 @@ PÉRIODE DE FORMATION EN MILIEU PROFESSIONNEL OBLIGATOIRE POUR L'EXAMEN |
 
 16 à 20 semaines |
 
-PARCOURS DIFFERENCIÉS :
-
--Préparation à l'insertion professionnelle
-
--Préparation à la poursuite d'études |
+PARCOURS DE FIN D'ANNÉE DE TERMINALE POUR LA PRÉPARATION À L'INSERTION PROFESSIONNELLE OU À LA POURSUITE D'ÉTUDES |
 
 |
 
 |
 
--Préparation à l'insertion professionnelle : 6 semaines de période de formation en milieu professionnel complémentaire
+4 semaines |
 
--Préparation à la poursuite d'études : 6 semaines (30 heures par semaine) |
+4 semaines |
 
-6 semaines |
+(*) Volume horaire élève identique quelle que soit la spécialité (2 412h).
 
-(*) Volume horaire élève identique quelle que soit la spécialité (2 350h).
+(a) La dotation horaire professeur est égale au double du volume horaire élève.
 
-a) La dotation horaire professeur est égale au double du volume horaire élève.
-
-b) Les heures de français et de mathématiques en seconde et en première professionnelle font l'objet de groupes à effectifs réduits s'appuyant sur les besoins des élèves pour renforcer l'acquisition des savoirs fondamentaux, sur la base de l'article 6 et de l'annexe 2 du présent arrêté. |
+(b) Les heures de français et de mathématiques en seconde et en première professionnelle font l'objet de groupes à effectifs réduits s'appuyant sur les besoins des élèves pour renforcer l'acquisition des savoirs fondamentaux, sur la base de l'article 6 et de l'annexe 2 du présent arrêté. |
 
 NOTA :
 
