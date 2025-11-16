@@ -2,7 +2,7 @@
 
 LISTE DES DONNÉES À CARACTÈRE PERSONNEL ENREGISTRÉES DANS LE TRAITEMENT " NAVPRO "
 
-1° Concernant le propriétaire, les copropriétaires, l'armateur, l'affréteur, le demandeur d'immatriculation, le demandeur de permis de mise en exploitation :
+1° Concernant le propriétaire, les copropriétaires, l'armateur, l'affréteur, le demandeur d'immatriculation, le demandeur de permis de mise en exploitation ou de permis d'armement :
 
 -les noms, prénom et la date de naissance ;
 
@@ -10,19 +10,19 @@ LISTE DES DONNÉES À CARACTÈRE PERSONNEL ENREGISTRÉES DANS LE TRAITEMENT " NA
 
 -l'adresse ;
 
--les numéros de téléphone fixe et portable, de fax et de télex ;
+-les numéros de téléphone fixe et portable, de fax ;
 
 -l'adresse de messagerie électronique ;
 
 2° Concernant le navire :
 
-a) Pour l'immatriculation :
+a) Pour l'enregistrement :
 
 -le nom du navire ;
 
--le numéro et la date d'immatriculation ;
+-le numéro et la date d'enregistrement ;
 
--le port d'immatriculation ;
+-le port d'enregistrement ;
 
 -l'année de construction ;
 
@@ -32,21 +32,15 @@ a) Pour l'immatriculation :
 
 -le numéro IMO ;
 
-b) Pour la francisation :
-
 -le type de francisation ;
-
--le port d'attache ;
-
--le numéro de francisation ;
 
 -les dates de début et de fin de francisation ;
 
-c) L'existence d'une hypothèque (oui/ non) et, dans l'affirmative, la date prévisionnelle de sortie d'hypothèque ;
+b) L'existence d'une hypothèque, son numéro et montant en principal, sa devise, la date d'inscription ou de renouvellement de l'hypothèque ;
 
-d) Les données techniques ;
+c) Les données techniques ;
 
-e) Les données de sécurité :
+d) Les données de sécurité :
 
 -l'indicatif d'appel radio ;
 
@@ -100,28 +94,4 @@ e) Les données de sécurité :
 
 6° Concernant l'assurance des navires :
 
--la raison sociale de l'assureur ;
-
--l'adresse de l'assureur ;
-
--l'adresse électronique de l'assureur ;
-
--l'attestation d'assurance ;
-
--la date de début de validité de l'assurance ;
-
--la date de création ;
-
--l'état du certificat ;
-
--le nom, le titre et la formule de la convention ;
-
--le type de garantie ;
-
--les dates de début et de fin de garantie ;
-
--le service de délivrance ;
-
--le lieu de délivrance ;
-
--le nom et le titre du signataire.
+La liste des assureurs acceptés aux fins de la délivrance de certificats statutaires d'assurance.
