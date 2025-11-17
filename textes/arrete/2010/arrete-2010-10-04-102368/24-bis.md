@@ -10,6 +10,8 @@ Pour l'application des dispositions de cette section, on entend par :
 
 - à sa capacité réelle diminuée du volume déplacé dans la rétention par les réservoirs ou récipients mobiles autres que le plus grand, lorsque la capacité utile est calculée en fonction de la capacité du plus grand réservoir ou récipient mobile ;
 
+- chai : bâtiment ou partie de bâtiment abritant une ou plusieurs installations de stockage comportant exclusivement des substances ou mélanges relevant de la rubrique 4755 de la nomenclature des installations classées de la protection de l'environnement. Un chai peut être divisé en plusieurs parties ;
+
 - confinement externe : capacité de confinement permettant de collecter les eaux et écoulements à distance des locaux, bâtiments ou stockages associés, par exemple via le réseau d'eau pluviale et bassin ;
 
 - confinement interne : capacité de confinement permettant de collecter les eaux et écoulements in situ, au niveau de chaque local, bâtiment ou stockage, par exemple dispositif de rétention interne à une cellule de stockage ;

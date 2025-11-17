@@ -2,7 +2,7 @@
 
 Bassin de confinement des eaux incendie.
 
-Les mesures sont prises pour recueillir l'ensemble des eaux et écoulements susceptibles d'être pollués lors d'un sinistre, y compris les eaux utilisées lors d'un incendie. Ce confinement peut être réalisé par des dispositifs internes ou externes à l'installation. Les dispositifs internes en bâtiments sont interdits lorsque des matières dangereuses sont stockées dans des quantités supérieures à 2 m3.
+Les mesures sont prises pour recueillir l'ensemble des eaux et écoulements susceptibles d'être pollués lors d'un sinistre, y compris les eaux utilisées lors d'un incendie. Ce confinement peut être réalisé par des dispositifs internes ou externes à l'installation. Les dispositifs internes en bâtiments sont interdits lorsque des matières dangereuses sont stockées dans des quantités supérieures à 2 m3, sauf dérogation prévue à l'article 26 ter.
 
 En cas de confinement interne, les orifices d'écoulement sont en position fermée par défaut.
 
