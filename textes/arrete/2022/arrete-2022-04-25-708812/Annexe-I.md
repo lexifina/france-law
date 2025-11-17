@@ -412,7 +412,7 @@ F.-Emplois relevant du groupe 4 :
 
 29° Adjoint au commandant des opérations spéciales ;
 
-30° Directeur adjoint de la stratégie du service d'infrastructure de la défense ;
+30° Chargé des fonctions de chef de service “stratégie et prospective” du service d'infrastructure de la défense ;
 
 31° Chargé des fonctions de sous-directeur de l'exploitation à la direction du renseignement militaire ;
 
@@ -862,4 +862,4 @@ G.-Emplois relevant du groupe 5 :
 
 NOTA :
 
-Conformément à l’article 3 de l’arrêté du 15 octobre 2025 (NOR : ARMH2528413A), ces dispositions, dans leur rédaction résultant de l’article 1er et 2 dudit arrêté, sont applicables aux rémunérations versées à compter du mois de novembre 2025 à l'exception des dispositions du 1° de l'article 1er et du 1° de l'article 2 qui sont applicables aux rémunérations versées à compter du mois d'octobre 2025.
+Conformément à l’article 3 de l’arrêté du 14 novembre 2025 (NOR : ARMH2531785A), ces dispositions, dans leur rédaction résultant de l’article 2 dudit arrêté, sont applicables aux rémunérations versées à compter du mois de novembre 2025.
