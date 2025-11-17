@@ -1,8 +1,10 @@
 # Article ANNEXE II
 
-INSTALLATIONS HYDRAULIQUES DE SÉCURITÉ RELEVANT DE L'ARTICLE L. 163-11 DU CODE MINIER, GÉRÉES PAR LE DPSM (BRGM) AU 1ER JANVIER 2024
+INSTALLATIONS HYDRAULIQUES DE SÉCURITÉ RELEVANT DE L'ARTICLE L. 163-11 DU CODE MINIER, GÉRÉES PAR LA DPSM (BRGM) AU 1ER JANVIER 2025
 
 Bassin minier Centre Ouest |
+
+Département |
 
 Concession |
 
@@ -10,63 +12,29 @@ Commune |
 
 Site |
 
-Nature de l'installation |
+Nature
+
+de l'installation |
 
 Nom de l'installation |
 
+63-Puy-de-Dôme |
+
 Barbecot |
 
-Bromont Lamothe |
+Bromont-Lamothe |
 
 (vide) |
 
 Canalisations |
 
-puits Ste Barbe |
+Puits Ste Barbe |
 
-La Vernade |
-
-Saint Eloy les Mines |
-
-(vide) |
-
-Canalisations |
-
-Saint Eloy |
-
-La Vernade |
-
-Saint Eloy les Mines |
-
-(vide) |
-
-Emergences minières |
-
-Saint Eloy |
-
-Le Périmètre de l'Aumance |
-
-Buxières les Mines |
-
-(vide) |
-
-Emergences minières |
-
-Les Gauthrins |
-
-Messeix |
-
-Messeix |
-
-(vide) |
-
-Emergences minières |
-
-Les Mouillères |
+14-Calvados |
 
 Barbery |
 
-Saint Germain le Vasson |
+Saint-Germain-le-Vasson |
 
 (vide) |
 
@@ -74,105 +42,7 @@ Emergences minières |
 
 Descenderie du Livet (flanc Sud) |
 
-Soummont |
-
-Soumont Saint Quentin |
-
-(vide) |
-
-Emergences minières |
-
-Galerie de Saint Quentin (flanc Sud) |
-
-Jurques |
-
-Jurques |
-
-(vide) |
-
-Emergences minières |
-
-TB 256 |
-
-Mont-Pinçon |
-
-Le Plessis-Grimoult |
-
-(vide) |
-
-Emergences minières |
-
-TB Anguet |
-
-La Ferrière aux Etangs |
-
-La Ferrière aux Etangs |
-
-(vide) |
-
-Emergences minières |
-
-TB 220 |
-
-Le Périmètre de l'Aumance |
-
-Saint Hilaire |
-
-(vide) |
-
-Piézomètres |
-
-Saint Charles |
-
-Le Périmètre de l'Aumance |
-
-Saint Hilaire |
-
-(vide) |
-
-Piézomètres |
-
-Sainte Marie |
-
-Le Périmètre de l'Aumance |
-
-Saint Hilaire |
-
-(vide) |
-
-Piézomètres |
-
-Saint Hilaire |
-
-Le Périmètre de l'Aumance |
-
-Buxières les Mines |
-
-(vide) |
-
-Stations de traitement des eaux |
-
-Les Gauthrins |
-
-Messeix |
-
-Messeix |
-
-(vide) |
-
-Stations de traitement des eaux |
-
-Les Mouillères |
-
-La Bellière |
-
-Montrevault-sur-Evre |
-
-(vide) |
-
-Stations de traitement des eaux |
-
-La Bellière |
+29-Finistère |
 
 Bodennec |
 
@@ -184,19 +54,71 @@ Stations de traitement des eaux |
 
 IHS de Bodennec |
 
-Lopérec |
+14-Calvados |
 
-Lopérec |
+Jurques |
 
-site de Lopérec |
+Jurques |
 
-Station de traitement des eaux |
+(vide) |
 
-Lopérec |
+Emergences minières |
+
+TB 256 |
+
+49-Maine-et-Loire |
+
+La Bellière |
+
+Montrevault-sur-Evre |
+
+(vide) |
+
+Stations de traitement des eaux |
+
+La Bellière |
+
+61-Orne |
+
+La Ferrière-aux-Étangs |
+
+La Ferrière-aux-Étangs |
+
+(vide) |
+
+Emergences minières |
+
+TB 220 |
+
+63-Puy-de-Dôme |
 
 La Vernade |
 
-Saint Eloy les Mines |
+Saint-Éloy-les-Mines |
+
+(vide) |
+
+Emergences minières |
+
+Saint Eloy |
+
+63-Puy-de-Dôme |
+
+La Vernade |
+
+Saint-Éloy-les-Mines |
+
+(vide) |
+
+Canalisations |
+
+Saint Eloy |
+
+63-Puy-de-Dôme |
+
+La Vernade |
+
+Saint-Éloy-les-Mines |
 
 (vide) |
 
@@ -204,7 +126,153 @@ Forages de décharge |
 
 Forage de décharge de St Eloy |
 
+63-Puy-de-Dôme |
+
+Le Périmètre de l'Aumance |
+
+Buxières-les-Mines |
+
+(vide) |
+
+Emergences minières |
+
+Les Gauthrins |
+
+03-Allier |
+
+Le Périmètre de l'Aumance |
+
+Saint-Hilaire |
+
+(vide) |
+
+Piézomètres |
+
+Saint Charles |
+
+03-Allier |
+
+Le Périmètre de l'Aumance |
+
+Saint-Hilaire |
+
+(vide) |
+
+Piézomètres |
+
+Saint-Hilaire |
+
+03-Allier |
+
+Le Périmètre de l'Aumance |
+
+Saint-Hilaire |
+
+(vide) |
+
+Piézomètres |
+
+Sainte Marie |
+
+63-Puy-de-Dôme |
+
+Le Périmètre de l'Aumance |
+
+Buxières-les-Mines |
+
+(vide) |
+
+Stations de traitement des eaux |
+
+Les Gauthrins |
+
+29-Finistère |
+
+Lopérec |
+
+Lopérec |
+
+Kervern |
+
+Station de traitement des eaux |
+
+IHS de Lopérec |
+
+63-Puy-de-Dôme |
+
+Messeix |
+
+Messeix |
+
+(vide) |
+
+Emergences minières |
+
+Les Mouillères |
+
+63-Puy-de-Dôme |
+
+Messeix |
+
+Messeix |
+
+(vide) |
+
+Stations de traitement des eaux |
+
+Les Mouillères |
+
+14-Calvados |
+
+Mont-Pinçon |
+
+Le Plessis-Grimoult |
+
+(vide) |
+
+Emergences minières |
+
+TB Anguet |
+
+61-Orne |
+
+Saint-Clair-de-Halouze |
+
+Saint-Clair-de-Halouze |
+
+(vide) |
+
+Digue |
+
+Digue bassin |
+
+61-Orne |
+
+Saint-Clair-de-Halouze |
+
+Saint-Clair-de-Halouze |
+
+(vide) |
+
+Emergences minières |
+
+Emergence canalisation |
+
+14-Calvados |
+
+Soumont |
+
+Soumont-Saint-Quentin |
+
+(vide) |
+
+Emergences minières |
+
+Galerie de Saint Quentin (flanc Sud) |
+
 Bassin minier Est |
+
+Département |
 
 Concession |
 
@@ -212,1159 +280,13 @@ Commune |
 
 Site |
 
-Nature de l'installation |
+Nature
+
+de l'installation |
 
 Nom de l'installation |
 
-De Wendel H |
-
-Petite Rosselle |
-
-Bassin Saint Charles |
-
-Canalisations |
-
-Ouvrage de gestion des eaux |
-
-De Wendel H |
-
-Petite Rosselle |
-
-(vide) |
-
-Digues |
-
-Bassin St Charles |
-
-De Wendel H |
-
-Rosbruck |
-
-(vide) |
-
-Digues |
-
-Rosbruck |
-
-Bassompierre 1 |
-
-Fontoy |
-
-(vide) |
-
-Emergences minières |
-
-Galerie de Knutange |
-
-Bois d'Avril |
-
-Avril |
-
-(vide) |
-
-Emergences minières |
-
-Galerie du Bois d'Avril |
-
-Rombas |
-
-Moyeuvre Grande |
-
-(vide) |
-
-Emergences minières |
-
-Ancienne galerie de Moyeuvre |
-
-Rombas |
-
-Moyeuvre Grande |
-
-(vide) |
-
-Emergences minières |
-
-Galerie de Moyeuvre Grande |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-Croix |
-
-Forages de rabattement |
-
-CREU _ CROIX |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-Poste |
-
-Forages de rabattement |
-
-CREU _ POSTE |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Stations de relevage des eaux |
-
-CREU _ Puits _ 3BFontaine |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Stations de relevage des eaux |
-
-CREU _ PUITS _ R _ Gare |
-
-Sarre et Moselle |
-
-Ham sous Varsberg |
-
-(vide) |
-
-Stations de relevage des eaux |
-
-CREU _ PUITS _ R _ Eglise |
-
-Sarre et Moselle |
-
-Varsberg |
-
-(vide) |
-
-Forages de rabattement |
-
-Forage Varsberg |
-
-De Wendel H |
-
-Forbach |
-
-(vide) |
-
-Piézomètres |
-
-FORB ALL 1 |
-
-De Wendel H |
-
-Forbach |
-
-(vide) |
-
-Piézomètres |
-
-FORB ALL 2 |
-
-De Wendel H |
-
-Forbach |
-
-(vide) |
-
-Piézomètres |
-
-FORB GTI 1 |
-
-De Wendel H |
-
-Forbach |
-
-(vide) |
-
-Piézomètres |
-
-Puits Simon 5 |
-
-De Wendel H |
-
-Forbach |
-
-(vide) |
-
-Piézomètres |
-
-SP 2003 06 |
-
-De Wendel H |
-
-Morsbach |
-
-(vide) |
-
-Piézomètres |
-
-IPA 3 |
-
-De Wendel H |
-
-Petite Rosselle |
-
-(vide) |
-
-Piézomètres |
-
-Puits Wendel 3 |
-
-De Wendel H |
-
-Petite Rosselle |
-
-(vide) |
-
-Piézomètres |
-
-SP 2003 04 |
-
-De Wendel H |
-
-Petite Rosselle |
-
-(vide) |
-
-Piézomètres |
-
-Puits St Charles 3 |
-
-De Wendel H |
-
-Rosbruck |
-
-(vide) |
-
-Piézomètres |
-
-ROS ALL1 |
-
-De Wendel H |
-
-Rosbruck |
-
-(vide) |
-
-Piézomètres |
-
-ROS ALL2 |
-
-De Wendel H |
-
-Rosbruck |
-
-(vide) |
-
-Piézomètres |
-
-ROS GTI 1 |
-
-De Wendel H |
-
-Schoeneck |
-
-(vide) |
-
-Piézomètres |
-
-SP 2007 01 |
-
-La Houve |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-LH 2003 01 |
-
-La Houve |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-LH 2003 02 |
-
-La Houve |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-LH 2003 03 |
-
-La Houve |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-LH 2003 04 |
-
-La Houve |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-LH 2003 05 |
-
-La Houve |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-LH 2003 06 |
-
-La Houve |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-Puits 1 |
-
-La Houve |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-Puits 4 |
-
-La Houve |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU F28 |
-
-La Houve |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-PZ SDEC O2 |
-
-La Houve |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-LH 2017 01 |
-
-Sarre et Moselle |
-
-Betting les Saint Avold |
-
-(vide) |
-
-Piézomètres |
-
-BET ALL 1 |
-
-Sarre et Moselle |
-
-Betting les Saint Avold |
-
-(vide) |
-
-Piézomètres |
-
-BET ALL 2 |
-
-Sarre et Moselle |
-
-Betting les Saint Avold |
-
-(vide) |
-
-Piézomètres |
-
-BET ALL 3 |
-
-Sarre et Moselle |
-
-Betting les Saint Avold |
-
-(vide) |
-
-Piézomètres |
-
-BET GTI 1 |
-
-Sarre et Moselle |
-
-Betting les Saint Avold |
-
-(vide) |
-
-Piézomètres |
-
-IPA 2 |
-
-Sarre et Moselle |
-
-Cocheren |
-
-(vide) |
-
-Piézomètres |
-
-COCH ALL 1 |
-
-Sarre et Moselle |
-
-Cocheren |
-
-(vide) |
-
-Piézomètres |
-
-COCH ALL 2 |
-
-Sarre et Moselle |
-
-Cocheren |
-
-(vide) |
-
-Piézomètres |
-
-COCH GTI 1 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-IPA 1 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU _ R _ Gare _ PZ _ 1 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU _ R _ Gare _ PZ _ 2 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU _ R _ Gare _ PZ _ 3 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU _ R _ Gare _ PZ _ 4 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-PZ _ R _ BF _ 2 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-PZ 90 Rue Croix |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-Puits Barrois |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-PZ Gti Barrois |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-PZ GTi Lac Creutzwald |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU-GTi 2 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU-All 1 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètre |
-
-CREU ALL 2 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU-GTi 1 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU-All 9 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU-All 10 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU-GTi 3 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU-GTi 4 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU-GTi 5 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU-GTi 6 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU-All 5 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU-All 6 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU-All 7 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU-All 8 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU-All 12 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU-All 13 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU-All 14 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU-All 15 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU-All 16 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-PZ Digue 1 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU-GTi 7 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU-GTi 8 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU-GTi 9 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU-GTi 10 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU-GTi 11 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU-ALL 4 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-PZ SDEC O4 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-PZ SDEC O5 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU _ ALL3BIS |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU _ GTi12 |
-
-Sarre et Moselle |
-
-Freyming Merlebach |
-
-(vide) |
-
-Piézomètres |
-
-MERL ALL 1 |
-
-Sarre et Moselle |
-
-Freyming Merlebach |
-
-(vide) |
-
-Piézomètres |
-
-MERL ALL 2 |
-
-Sarre et Moselle |
-
-Freyming Merlebach |
-
-(vide) |
-
-Piézomètres |
-
-MERL GTI 1 |
-
-Sarre et Moselle |
-
-Freyming Merlebach |
-
-(vide) |
-
-Piézomètres |
-
-Puits Vouters |
-
-Sarre et Moselle |
-
-Freyming Merlebach |
-
-(vide) |
-
-Piézomètres |
-
-Pz GTi Vouters |
-
-Sarre et Moselle |
-
-Freyming Merlebach |
-
-(vide) |
-
-Piézomètres |
-
-Pz lagune Vouters |
-
-Sarre et Moselle |
-
-Ham sous Varsberg |
-
-(vide) |
-
-Piézomètres |
-
-HAM GTI |
-
-Sarre et Moselle |
-
-Ham sous Varsberg |
-
-(vide) |
-
-Piézomètres |
-
-HAM ALL |
-
-Sarre et Moselle |
-
-Hombourg Haut |
-
-(vide) |
-
-Piézomètres |
-
-HOM ALL 1 |
-
-Sarre et Moselle |
-
-Hombourg Haut |
-
-(vide) |
-
-Piézomètres |
-
-HOM ALL 2 |
-
-Sarre et Moselle |
-
-Hombourg Haut |
-
-(vide) |
-
-Piézomètres |
-
-HOM ALL 3 |
-
-Sarre et Moselle |
-
-Hombourg Haut |
-
-(vide) |
-
-Piézomètres |
-
-HOM GTI 1 |
-
-Sarre et Moselle |
-
-L'Hôpital |
-
-(vide) |
-
-Piézomètres |
-
-Puits 2 |
-
-Sarre et Moselle |
-
-Saint Avold |
-
-(vide) |
-
-Piézomètres |
-
-STAV ALL 2 |
-
-Sarre et Moselle |
-
-Saint Avold |
-
-(vide) |
-
-Piézomètres |
-
-STAV GTI 1 |
-
-Sarre et Moselle |
-
-Varsberg |
-
-(vide) |
-
-Piézomètres |
-
-VARS _ GTi1 |
-
-Sarre et Moselle |
-
-Varsberg |
-
-(vide) |
-
-Piézomètres |
-
-HAM _ All2 |
-
-Sarre et Moselle |
-
-Varsberg |
-
-(vide) |
-
-Piézomètres |
-
-VARS _ All _ 1 |
-
-Sarre et Moselle |
-
-Varsberg |
-
-(vide) |
-
-Piézomètres |
-
-VARS _ All _ 2 |
-
-Sarre et Moselle |
-
-Varsberg |
-
-(vide) |
-
-Piézomètres |
-
-VARS _ GTi _ 2 |
-
-Sarre et Moselle |
-
-Varsberg |
-
-(vide) |
-
-Piézomètres |
-
-VARS _ GTi _ 3 _ INF |
-
-Sarre et Moselle |
-
-Varsberg |
-
-(vide) |
-
-Piézomètres |
-
-VARS _ GTi _ 3 _ SUP |
-
-Sarre et Moselle |
-
-Varsberg |
-
-(vide) |
-
-Piézomètres |
-
-VARS _ GTi _ 4 |
-
-Sarre et Moselle |
-
-Varsberg |
-
-(vide) |
-
-Piézomètres |
-
-VARS _ GTi _ 5 |
-
-De Wendel H |
-
-Forbach |
-
-(vide) |
-
-Stations de pompage |
-
-Puits Simon 5 |
-
-La Houve |
-
-Creutzwald |
-
-(vide) |
-
-Stations de pompage |
-
-Puits 1 |
-
-Sarre et Moselle |
-
-Freyming Merlebach |
-
-(vide) |
-
-Stations de pompage |
-
-Puits Vouters |
-
-Sarre et Moselle |
-
-Freyming Merlebach |
-
-Carrière de Merlebach |
-
-Niveau d'eau |
-
-Fosse Freyming |
-
-Sarre et Moselle |
-
-Freyming Merlebach |
-
-Carrière de Merlebach |
-
-Niveau d'eau |
-
-Bassin de décantation |
-
-De Wendel H |
-
-Schoeneck |
-
-Carrière Simon |
-
-Niveau d'eau |
-
-Zone humide |
+Allemagne |
 
 Amodiation du Warndt-Allemagne |
 
@@ -1376,6 +298,284 @@ Stations de relevage des eaux |
 
 Grande Rosselle |
 
+57-Moselle |
+
+Bassompierre 1 |
+
+Fontoy |
+
+(vide) |
+
+Emergences minières |
+
+Galerie de Knutange |
+
+71-Saône-et-Loire |
+
+Blanzy Montceau |
+
+Montceau-les-Mines |
+
+(vide) |
+
+Surverses de lacs miniers |
+
+Barrat Lucy/ Ruisseau des Marais |
+
+71-Saône-et-Loire |
+
+Blanzy Montceau |
+
+Montceau-les-Mines |
+
+(vide) |
+
+Surverses de lacs miniers |
+
+Saint Louis/ La Bourbince |
+
+71-Saône-et-Loire |
+
+Blanzy Montceau |
+
+Sanvignes-les-Mines |
+
+(vide) |
+
+Surverses de lacs miniers |
+
+Les Fouthiaux/ Ruisseau du Moulin Neuf |
+
+54-Meurthe-et-Moselle |
+
+Bois d'Avril |
+
+Avril |
+
+(vide) |
+
+Emergences minières |
+
+Galerie du Bois d'Avril |
+
+57-Moselle |
+
+De Wendel H |
+
+Petite-Rosselle |
+
+Bassin Saint Charles |
+
+Canalisations |
+
+Ouvrage de gestion des eaux |
+
+57-Moselle |
+
+De Wendel H |
+
+Petite-Rosselle |
+
+(vide) |
+
+Digues |
+
+Bassin St Charles |
+
+57-Moselle |
+
+De Wendel H |
+
+Rosbruck |
+
+(vide) |
+
+Digues |
+
+Rosbruck |
+
+57-Moselle |
+
+De Wendel H |
+
+Schoeneck |
+
+Carrière Simon |
+
+Niveau d'eau |
+
+Zone humide |
+
+57-Moselle |
+
+De Wendel H |
+
+Forbach |
+
+(vide) |
+
+Piézomètres |
+
+FORB ALL 1 |
+
+57-Moselle |
+
+De Wendel H |
+
+Forbach |
+
+(vide) |
+
+Piézomètres |
+
+FORB ALL 2 |
+
+57-Moselle |
+
+De Wendel H |
+
+Forbach |
+
+(vide) |
+
+Piézomètres |
+
+FORB GTI 1 |
+
+57-Moselle |
+
+De Wendel H |
+
+Forbach |
+
+(vide) |
+
+Piézomètres |
+
+Puits Simon 5 |
+
+57-Moselle |
+
+De Wendel H |
+
+Forbach |
+
+(vide) |
+
+Piézomètres |
+
+SP 2003 06 |
+
+57-Moselle |
+
+De Wendel H |
+
+Morsbach |
+
+(vide) |
+
+Piézomètres |
+
+IPA 3 |
+
+57-Moselle |
+
+De Wendel H |
+
+Petite-Rosselle |
+
+(vide) |
+
+Piézomètres |
+
+Puits St Charles 3 |
+
+57-Moselle |
+
+De Wendel H |
+
+Petite-Rosselle |
+
+(vide) |
+
+Piézomètres |
+
+Puits Wendel 3 |
+
+57-Moselle |
+
+De Wendel H |
+
+Petite-Rosselle |
+
+(vide) |
+
+Piézomètres |
+
+SP 2003 04 |
+
+57-Moselle |
+
+De Wendel H |
+
+Rosbruck |
+
+(vide) |
+
+Piézomètres |
+
+ROS ALL1 |
+
+57-Moselle |
+
+De Wendel H |
+
+Rosbruck |
+
+(vide) |
+
+Piézomètres |
+
+ROS ALL2 |
+
+57-Moselle |
+
+De Wendel H |
+
+Rosbruck |
+
+(vide) |
+
+Piézomètres |
+
+ROS GTI 1 |
+
+57-Moselle |
+
+De Wendel H |
+
+Schoeneck |
+
+(vide) |
+
+Piézomètres |
+
+SP 2007 01 |
+
+57-Moselle |
+
+De Wendel H |
+
+Forbach |
+
+(vide) |
+
+Stations de pompage |
+
+Puits Simon 5 |
+
+57-Moselle |
+
 De Wendel H |
 
 Forbach |
@@ -1385,6 +585,8 @@ Forbach |
 Stations de relevage des eaux |
 
 Cadario |
+
+57-Moselle |
 
 De Wendel H |
 
@@ -1396,6 +598,8 @@ Stations de relevage des eaux |
 
 Sortie autoroute |
 
+57-Moselle |
+
 De Wendel H |
 
 Rosbruck |
@@ -1405,6 +609,8 @@ Rosbruck |
 Stations de relevage des eaux |
 
 Poste anticrues |
+
+57-Moselle |
 
 De Wendel H |
 
@@ -1416,6 +622,8 @@ Stations de relevage des eaux |
 
 Weihergraben |
 
+57-Moselle |
+
 De Wendel H |
 
 Forbach |
@@ -1426,6 +634,152 @@ Stations de traitement des eaux |
 
 Simon |
 
+57-Moselle |
+
+La Houve |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU F28 |
+
+57-Moselle |
+
+La Houve |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+LH 2003 01 |
+
+57-Moselle |
+
+La Houve |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+LH 2003 02 |
+
+57-Moselle |
+
+La Houve |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+LH 2003 03 |
+
+57-Moselle |
+
+La Houve |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+LH 2003 04 |
+
+57-Moselle |
+
+La Houve |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+LH 2003 05 |
+
+57-Moselle |
+
+La Houve |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+LH 2003 06 |
+
+57-Moselle |
+
+La Houve |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+LH 2017 01 |
+
+57-Moselle |
+
+La Houve |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+Puits 1 |
+
+57-Moselle |
+
+La Houve |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+Puits 4 |
+
+57-Moselle |
+
+La Houve |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+PZ SDEC O2 |
+
+57-Moselle |
+
+La Houve |
+
+Creutzwald |
+
+(vide) |
+
+Stations de pompage |
+
+Puits 1 |
+
+57-Moselle |
+
 La Houve |
 
 Creutzwald |
@@ -1434,11 +788,1009 @@ Creutzwald |
 
 Stations de traitement des eaux |
 
-La houve |
+La Houve |
+
+57-Moselle |
+
+Rombas |
+
+Moyeuvre-Grande |
+
+(vide) |
+
+Emergences minières |
+
+Ancienne galerie de Moyeuvre |
+
+57-Moselle |
+
+Rombas |
+
+Moyeuvre-Grande |
+
+(vide) |
+
+Emergences minières |
+
+Galerie de Moyeuvre-Grande |
+
+57-Moselle |
 
 Sarre et Moselle |
 
-Freyming Merlebach |
+Creutzwald |
+
+Croix |
+
+Forages de rabattement |
+
+CREU _ CROIX |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+Poste |
+
+Forages de rabattement |
+
+CREU _ POSTE |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Varsberg |
+
+(vide) |
+
+Forages de rabattement |
+
+Forage Varsberg |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Freyming-Merlebach |
+
+Carrière de Merlebach |
+
+Niveau d'eau |
+
+Bassin de décantation |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Freyming-Merlebach |
+
+Carrière de Merlebach |
+
+Niveau d'eau |
+
+Fosse Freyming |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU ALL 2 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Betting les Saint-Avold |
+
+(vide) |
+
+Piézomètres |
+
+BET ALL 1 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Betting les Saint-Avold |
+
+(vide) |
+
+Piézomètres |
+
+BET ALL 2 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Betting les Saint-Avold |
+
+(vide) |
+
+Piézomètres |
+
+BET ALL 3 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Betting les Saint-Avold |
+
+(vide) |
+
+Piézomètres |
+
+BET GTI 1 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Betting les Saint-Avold |
+
+(vide) |
+
+Piézomètres |
+
+IPA 2 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Cocheren |
+
+(vide) |
+
+Piézomètres |
+
+COCH ALL 1 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Cocheren |
+
+(vide) |
+
+Piézomètres |
+
+COCH ALL 2 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Cocheren |
+
+(vide) |
+
+Piézomètres |
+
+COCH GTI 1 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Freyming-Merlebach |
+
+(vide) |
+
+Piézomètres |
+
+MERL ALL 1 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Freyming-Merlebach |
+
+(vide) |
+
+Piézomètres |
+
+MERL ALL 2 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Freyming-Merlebach |
+
+(vide) |
+
+Piézomètres |
+
+MERL GTI 1 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Freyming-Merlebach |
+
+(vide) |
+
+Piézomètres |
+
+Puits Vouters |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Freyming-Merlebach |
+
+(vide) |
+
+Piézomètres |
+
+Pz GTi Vouters |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Freyming-Merlebach |
+
+(vide) |
+
+Piézomètres |
+
+Pz lagune Vouters |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Ham-sous-Varsberg |
+
+(vide) |
+
+Piézomètres |
+
+HAM ALL |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Ham-sous-Varsberg |
+
+(vide) |
+
+Piézomètres |
+
+HAM GTI |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Hombourg-Haut |
+
+(vide) |
+
+Piézomètres |
+
+HOM ALL 1 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Hombourg-Haut |
+
+(vide) |
+
+Piézomètres |
+
+HOM ALL 2 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Hombourg-Haut |
+
+(vide) |
+
+Piézomètres |
+
+HOM ALL 3 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Hombourg-Haut |
+
+(vide) |
+
+Piézomètres |
+
+HOM GTI 1 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+L'Hôpital |
+
+(vide) |
+
+Piézomètres |
+
+Puits 2 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Saint-Avold |
+
+(vide) |
+
+Piézomètres |
+
+STAV ALL 2 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Saint-Avold |
+
+(vide) |
+
+Piézomètres |
+
+STAV GTI 1 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU _ ALL3BIS |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU _ GTi12 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU-All 1 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU-All 10 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU-All 12 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU-All 13 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU-All 14 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU-All 15 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU-All 16 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU-ALL 4 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU-All 5 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU-All 6 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU-All 7 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU-All 8 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU-All 9 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU-GTi 1 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU-GTi 10 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU-GTi 11 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU-GTi 2 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU-GTi 3 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU-GTi 4 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU-GTi 5 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU-GTi 6 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU-GTi 7 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU-GTi 8 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU-GTi 9 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+PZ 90 Rue Croix |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Varsberg |
+
+(vide) |
+
+Piézomètres |
+
+HAM _ All2 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Varsberg |
+
+(vide) |
+
+Piézomètres |
+
+VARS _ All _ 1 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Varsberg |
+
+(vide) |
+
+Piézomètres |
+
+VARS _ All _ 2 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Varsberg |
+
+(vide) |
+
+Piézomètres |
+
+VARS _ GTi _ 2 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Varsberg |
+
+(vide) |
+
+Piézomètres |
+
+VARS _ GTi _ 3 _ INF |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Varsberg |
+
+(vide) |
+
+Piézomètres |
+
+VARS _ GTi _ 3 _ SUP |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Varsberg |
+
+(vide) |
+
+Piézomètres |
+
+VARS _ GTi _ 4 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Varsberg |
+
+(vide) |
+
+Piézomètres |
+
+VARS _ GTi _ 5 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Varsberg |
+
+(vide) |
+
+Piézomètres |
+
+VARS _ GTi1 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU _ R _ Gare _ PZ _ 1 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU _ R _ Gare _ PZ _ 2 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU _ R _ Gare _ PZ _ 3 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU _ R _ Gare _ PZ _ 4 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+IPA 1 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+Puits Barrois |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+PZ Digue 1 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+PZ Gti Barrois |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+PZ GTi Lac Creutzwald |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+PZ SDEC O4 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+PZ SDEC O5 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+PZ _ R _ BF _ 2 |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Freyming-Merlebach |
+
+(vide) |
+
+Stations de pompage |
+
+Puits Vouters |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Ham-sous-Varsberg |
+
+(vide) |
+
+Stations de relevage des eaux |
+
+CREU _ PUITS _ R _ Eglise |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Stations de relevage des eaux |
+
+CREU _ Puits _ 3BFontaine |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Stations de relevage des eaux |
+
+CREU _ PUITS _ R _ Gare |
+
+57-Moselle |
+
+Sarre et Moselle |
+
+Freyming-Merlebach |
 
 (vide) |
 
@@ -1446,37 +1798,9 @@ Stations de traitement des eaux |
 
 Vouters |
 
-Blanzy Montceau |
-
-Montceau les Mines |
-
-(vide) |
-
-Surverses de lacs miniers |
-
-Barrat Lucy/ Ruisseau des Marais |
-
-Blanzy Montceau |
-
-Montceau les Mines |
-
-(vide) |
-
-Surverses de lacs miniers |
-
-Saint Louis/ La Bourbince |
-
-Blanzy Montceau |
-
-Sanvignes les Mines |
-
-(vide) |
-
-Surverses de lacs miniers |
-
-Les Fouthiaux/ Ruisseau du Moulin Neuf |
-
 Bassin minier Nord |
+
+Département |
 
 Concession |
 
@@ -1484,119 +1808,13 @@ Commune |
 
 Site |
 
-Nature de l'installation |
+Nature
+
+de l'installation |
 
 Nom de l'installation |
 
-Bruay |
-
-Bruay la Buissière |
-
-(vide) |
-
-Digues |
-
-Bruay |
-
-Auchy au Bois |
-
-Ligny lès Aire |
-
-(vide) |
-
-Piézomètres |
-
-Puits 2-2 bis |
-
-Auchy au Bois |
-
-Ligny lès Aire |
-
-(vide) |
-
-Piézomètres |
-
-PZC L bis |
-
-Bruille |
-
-Bruille les Saint Amand |
-
-(vide) |
-
-Piézomètres |
-
-PZC B |
-
-Bruille |
-
-Bruille les Saint Amand |
-
-(vide) |
-
-Piézomètres |
-
-PZH B |
-
-Crespin |
-
-Quiévrechain |
-
-(vide) |
-
-Piézomètres |
-
-PZC Q |
-
-Crespin |
-
-Quiévrechain |
-
-(vide) |
-
-Piézomètres |
-
-PZH Q |
-
-Meurchin |
-
-Provin |
-
-(vide) |
-
-Piézomètres |
-
-PZC P |
-
-Meurchin |
-
-Provin |
-
-(vide) |
-
-Piézomètres |
-
-PZH P |
-
-Vimy Fresnoy |
-
-Vimy |
-
-(vide) |
-
-Piézomètres |
-
-Puits 1-1 bis |
-
-Vimy Fresnoy |
-
-Vimy |
-
-(vide) |
-
-Piézomètres |
-
-PZC V |
+59-Nord |
 
 Aniche |
 
@@ -1608,6 +1826,8 @@ Stations de relevage des eaux |
 
 République |
 
+59-Nord |
+
 Aniche |
 
 Douai |
@@ -1617,6 +1837,8 @@ Douai |
 Stations de relevage des eaux |
 
 Frais Marais |
+
+59-Nord |
 
 Aniche |
 
@@ -1628,6 +1850,8 @@ Stations de relevage des eaux |
 
 Solitude |
 
+59-Nord |
+
 Aniche |
 
 Pecquencourt |
@@ -1637,6 +1861,8 @@ Pecquencourt |
 Stations de relevage des eaux |
 
 Ecaillon |
+
+59-Nord |
 
 Aniche |
 
@@ -1648,6 +1874,8 @@ Stations de relevage des eaux |
 
 Lemay Sainte Marie |
 
+59-Nord |
+
 Aniche |
 
 Pecquencourt |
@@ -1657,6 +1885,8 @@ Pecquencourt |
 Stations de relevage des eaux |
 
 Nouvelle cité de Pecquencourt |
+
+59-Nord |
 
 Aniche |
 
@@ -1668,6 +1898,8 @@ Stations de relevage des eaux |
 
 Vred |
 
+59-Nord |
+
 Aniche |
 
 Rieulay |
@@ -1678,9 +1910,11 @@ Stations de relevage des eaux |
 
 Larentis |
 
+59-Nord |
+
 Aniche |
 
-Sin le Noble |
+Sin-le-Noble |
 
 (vide) |
 
@@ -1688,9 +1922,11 @@ Stations de relevage des eaux |
 
 Berg ob Zoom |
 
+59-Nord |
+
 Aniche |
 
-Sin le Noble |
+Sin-le-Noble |
 
 (vide) |
 
@@ -1698,9 +1934,11 @@ Stations de relevage des eaux |
 
 Bois des Retz |
 
+59-Nord |
+
 Aniche |
 
-Sin le Noble |
+Sin-le-Noble |
 
 (vide) |
 
@@ -1708,15 +1946,19 @@ Stations de relevage des eaux |
 
 Godion |
 
+59-Nord |
+
 Aniche |
 
-Sin le Noble |
+Sin-le-Noble |
 
 (vide) |
 
 Stations de relevage des eaux |
 
 Viviers de Sin |
+
+59-Nord |
 
 Aniche |
 
@@ -1728,6 +1970,8 @@ Stations de relevage des eaux |
 
 Boquet |
 
+59-Nord |
+
 Aniche |
 
 Waziers |
@@ -1737,6 +1981,8 @@ Waziers |
 Stations de relevage des eaux |
 
 Cité Dincq |
+
+59-Nord |
 
 Aniche |
 
@@ -1748,6 +1994,8 @@ Stations de relevage des eaux |
 
 GC 35 |
 
+59-Nord |
+
 Anzin |
 
 Fenain |
@@ -1757,6 +2005,8 @@ Fenain |
 Stations de relevage des eaux |
 
 Ramette |
+
+59-Nord |
 
 Anzin |
 
@@ -1768,9 +2018,35 @@ Stations de relevage des eaux |
 
 Route d'Hélesmes |
 
+62-Pas-de-Calais |
+
+Auchy au Bois |
+
+Ligny-lès-Aire |
+
+(vide) |
+
+Piézomètres |
+
+Puits 2-2 bis |
+
+62-Pas-de-Calais |
+
+Auchy au Bois |
+
+Ligny-lès-Aire |
+
+(vide) |
+
+Piézomètres |
+
+PZC L bis |
+
+62-Pas-de-Calais |
+
 Bruay |
 
-Bruay la Buissière |
+Bruay-La Buissière |
 
 (vide) |
 
@@ -1778,9 +2054,11 @@ Stations de relevage des eaux |
 
 Marmottan |
 
+62-Pas-de-Calais |
+
 Bruay |
 
-Bruay la Buissière |
+Bruay-La Buissière |
 
 (vide) |
 
@@ -1788,9 +2066,35 @@ Stations de relevage des eaux |
 
 Rue d'Amont |
 
+59-Nord |
+
+Bruille |
+
+Bruille-lez-Saint-Amand |
+
+(vide) |
+
+Piézomètres |
+
+PZC B |
+
+59-Nord |
+
+Bruille |
+
+Bruille-lez-Saint-Amand |
+
+(vide) |
+
+Piézomètres |
+
+PZH B |
+
+62-Pas-de-Calais |
+
 Courrières |
 
-Loison sous Lens |
+Loison-sous-Lens |
 
 (vide) |
 
@@ -1798,9 +2102,11 @@ Stations de relevage des eaux |
 
 Loison Canal |
 
+62-Pas-de-Calais |
+
 Courrières |
 
-Noyelles sous Lens |
+Noyelles-sous-Lens |
 
 (vide) |
 
@@ -1808,9 +2114,11 @@ Stations de relevage des eaux |
 
 Cimetière |
 
+62-Pas-de-Calais |
+
 Courrières |
 
-Noyelles sous Lens |
+Noyelles-sous-Lens |
 
 (vide) |
 
@@ -1818,9 +2126,11 @@ Stations de relevage des eaux |
 
 Nord Africains |
 
+62-Pas-de-Calais |
+
 Courrières |
 
-Noyelles sous Lens |
+Noyelles-sous-Lens |
 
 (vide) |
 
@@ -1828,9 +2138,35 @@ Stations de relevage des eaux |
 
 Noyelles Pont |
 
+59-Nord |
+
+Crespin |
+
+Quiévrechain |
+
+(vide) |
+
+Piézomètres |
+
+PZC Q |
+
+59-Nord |
+
+Crespin |
+
+Quiévrechain |
+
+(vide) |
+
+Piézomètres |
+
+PZH Q |
+
+59-Nord |
+
 Escautpont |
 
-Fresnes sur Escaut |
+Fresnes-sur-Escaut |
 
 (vide) |
 
@@ -1838,9 +2174,11 @@ Stations de relevage des eaux |
 
 Putemont rive droite |
 
+59-Nord |
+
 Escautpont |
 
-Fresnes sur Escaut |
+Fresnes-sur-Escaut |
 
 (vide) |
 
@@ -1848,7 +2186,9 @@ Stations de relevage des eaux |
 
 Putemont rive gauche |
 
-Flines les Raches |
+59-Nord |
+
+Flines-lez-Raches |
 
 Anhiers |
 
@@ -1858,15 +2198,19 @@ Stations de relevage des eaux |
 
 Belle Inutile |
 
+59-Nord |
+
 Fresnes |
 
-Fresnes sur Escaut |
+Fresnes-sur-Escaut |
 
 (vide) |
 
 Stations de relevage des eaux |
 
 Fort Masys |
+
+59-Nord |
 
 L'Escarpelle |
 
@@ -1878,6 +2222,8 @@ Stations de relevage des eaux |
 
 Eglise |
 
+59-Nord |
+
 L'Escarpelle |
 
 Auby |
@@ -1888,15 +2234,19 @@ Stations de relevage des eaux |
 
 Pasteur |
 
+59-Nord |
+
 L'Escarpelle |
 
-Flers en Escrebieux |
+Flers-en-Escrebieux |
 
 (vide) |
 
 Stations de relevage des eaux |
 
 Marais de Flers |
+
+59-Nord |
 
 L'Escarpelle |
 
@@ -1908,6 +2258,8 @@ Stations de relevage des eaux |
 
 Boussinières |
 
+59-Nord |
+
 L'Escarpelle |
 
 Raimbeaucourt |
@@ -1917,6 +2269,8 @@ Raimbeaucourt |
 Stations de relevage des eaux |
 
 Charlieu |
+
+59-Nord |
 
 L'Escarpelle |
 
@@ -1928,9 +2282,11 @@ Stations de relevage des eaux |
 
 Cornet |
 
+59-Nord |
+
 L'Escarpelle |
 
-Roost Warendin |
+Roost-Warendin |
 
 (vide) |
 
@@ -1938,9 +2294,11 @@ Stations de relevage des eaux |
 
 Bernicourt |
 
+59-Nord |
+
 L'Escarpelle |
 
-Roost Warendin |
+Roost-Warendin |
 
 (vide) |
 
@@ -1948,9 +2306,11 @@ Stations de relevage des eaux |
 
 Chapeau |
 
+59-Nord |
+
 L'Escarpelle |
 
-Roost Warendin |
+Roost-Warendin |
 
 (vide) |
 
@@ -1958,9 +2318,11 @@ Stations de relevage des eaux |
 
 Paturelles |
 
+59-Nord |
+
 L'Escarpelle |
 
-Roost Warendin |
+Roost-Warendin |
 
 (vide) |
 
@@ -1968,9 +2330,11 @@ Stations de relevage des eaux |
 
 Vallée de Scarpe |
 
+62-Pas-de-Calais |
+
 Marles |
 
-Marles les Mines |
+Marles-les-Mines |
 
 (vide) |
 
@@ -1978,15 +2342,43 @@ Stations de relevage des eaux |
 
 Pont de Divion |
 
+62-Pas-de-Calais |
+
 Marles |
 
-Marles les Mines |
+Marles-les-Mines |
 
 (vide) |
 
 Stations de relevage des eaux |
 
 Rue des Ecoles |
+
+62-Pas-de-Calais |
+
+Meurchin |
+
+Provin |
+
+(vide) |
+
+Piézomètres |
+
+PZC P |
+
+62-Pas-de-Calais |
+
+Meurchin |
+
+Provin |
+
+(vide) |
+
+Piézomètres |
+
+PZH P |
+
+62-Pas-de-Calais |
 
 Meurchin |
 
@@ -1998,6 +2390,8 @@ Stations de relevage des eaux |
 
 Chemin du Clair |
 
+62-Pas-de-Calais |
+
 Meurchin |
 
 Wingles |
@@ -2008,6 +2402,8 @@ Stations de relevage des eaux |
 
 Marais des Iles |
 
+59-Nord |
+
 Odomez |
 
 Odomez |
@@ -2017,6 +2413,8 @@ Odomez |
 Stations de relevage des eaux |
 
 Odomez |
+
+59-Nord |
 
 Raismes |
 
@@ -2028,7 +2426,9 @@ Stations de relevage des eaux |
 
 Mare Ansart |
 
-Saint Aybert |
+59-Nord |
+
+Saint-Aybert |
 
 Thivencelle |
 
@@ -2038,7 +2438,9 @@ Stations de relevage des eaux |
 
 Saint Pierre bis |
 
-Saint Saulve |
+59-Nord |
+
+Saint-Saulve |
 
 Onnaing |
 
@@ -2048,7 +2450,9 @@ Stations de relevage des eaux |
 
 Alouettes |
 
-Saint Saulve |
+59-Nord |
+
+Saint-Saulve |
 
 Onnaing |
 
@@ -2058,7 +2462,9 @@ Stations de relevage des eaux |
 
 Petit Diable |
 
-Saint Saulve |
+59-Nord |
+
+Saint-Saulve |
 
 Onnaing |
 
@@ -2068,7 +2474,9 @@ Stations de relevage des eaux |
 
 Pré le Comte |
 
-Saint Saulve |
+59-Nord |
+
+Saint-Saulve |
 
 Vicq |
 
@@ -2078,7 +2486,9 @@ Stations de relevage des eaux |
 
 Gros Charles |
 
-Saint Saulve |
+59-Nord |
+
+Saint-Saulve |
 
 Vicq |
 
@@ -2088,9 +2498,11 @@ Stations de relevage des eaux |
 
 Landimoret |
 
-Vieux Condé |
+59-Nord |
 
-Condé sur l'Escaut |
+Vieux-Condé |
+
+Condé-sur-l'Escaut |
 
 (vide) |
 
@@ -2098,9 +2510,11 @@ Stations de relevage des eaux |
 
 Canarderie |
 
-Vieux Condé |
+59-Nord |
 
-Condé sur l'Escaut |
+Vieux-Condé |
+
+Condé-sur-l'Escaut |
 
 (vide) |
 
@@ -2108,9 +2522,11 @@ Stations de relevage des eaux |
 
 Moulineaux |
 
-Vieux Condé |
+59-Nord |
 
-Vieux Condé |
+Vieux-Condé |
+
+Vieux-Condé |
 
 (vide) |
 
@@ -2118,7 +2534,33 @@ Stations de relevage des eaux |
 
 Amaury rive gauche |
 
+62-Pas-de-Calais |
+
+Vimy-Fresnoy |
+
+Vimy |
+
+(vide) |
+
+Piézomètres |
+
+Puits 1-1 bis |
+
+62-Pas-de-Calais |
+
+Vimy-Fresnoy |
+
+Vimy |
+
+(vide) |
+
+Piézomètres |
+
+PZC V |
+
 Bassin minier Sud |
+
+Département |
 
 Concession |
 
@@ -2126,759 +2568,13 @@ Commune |
 
 Site |
 
-Nature de l'installation |
+Nature
+
+de l'installation |
 
 Nom de l'installation |
 
-La Grand'Combe Ouest |
-
-Laval Pradel |
-
-(vide) |
-
-Canalisations |
-
-Galerie de Lascous |
-
-La Grand'Combe Ouest |
-
-Laval Pradel |
-
-(vide) |
-
-Canalisations |
-
-Plan incliné des Oules |
-
-La Grand'Combe Ouest |
-
-Laval Pradel |
-
-(vide) |
-
-Canalisations |
-
-Fossé des Oules |
-
-C3 |
-
-Fuveau-Gréasque |
-
-(vide) |
-
-Canalisations |
-
-Madame d'André |
-
-Boussagues |
-
-La Tour sur Orb |
-
-(vide) |
-
-Emergences minières |
-
-TB Frangouille |
-
-Cessous Trebiau |
-
-Le Chambon |
-
-(vide) |
-
-Emergences minières |
-
-Galerie de Cornas |
-
-La Grand'Combe Ouest |
-
-La Grand'Combe |
-
-(vide) |
-
-Emergences minières |
-
-Galerie Corniche |
-
-La Grand'Combe Ouest |
-
-La Grand'Combe |
-
-(vide) |
-
-Emergences minières |
-
-Galerie Mas Blanc |
-
-La Grand'Combe Ouest |
-
-La Grand'Combe |
-
-(vide) |
-
-Emergences minières |
-
-Galerie Mine Roux |
-
-La Grand'Combe Ouest |
-
-La Grand'Combe |
-
-(vide) |
-
-Emergences minières |
-
-Galerie Sainte Barbe |
-
-La Grand'Combe Ouest |
-
-La Grand'Combe |
-
-(vide) |
-
-Emergences minières |
-
-Galerie Thérond |
-
-La Grand'Combe Ouest |
-
-La Grand'Combe |
-
-(vide) |
-
-Emergences minières |
-
-Galerie Verrerie |
-
-Le Devois de Graissessac |
-
-Graissessac |
-
-(vide) |
-
-Emergences minières |
-
-TB de Grand Champ |
-
-Portes & Senechas |
-
-La Vernarède |
-
-(vide) |
-
-Emergences minières |
-
-Galerie Burat |
-
-Robiac & Meyrannes |
-
-Bessèges |
-
-(vide) |
-
-Emergences minières |
-
-Galerie Saint François |
-
-Robiac & Meyrannes |
-
-Bessèges |
-
-(vide) |
-
-Emergences minières |
-
-Galerie Sainte Illyde |
-
-Robiac & Meyrannes |
-
-Molières sur Cèze |
-
-(vide) |
-
-Emergences minières |
-
-Galerie Chalmeton |
-
-Robiac & Meyrannes |
-
-Molières sur Cèze |
-
-(vide) |
-
-Emergences minières |
-
-Galerie Silhol |
-
-Rochebelle |
-
-Saint Martin de Valgalgues |
-
-(vide) |
-
-Emergences minières |
-
-Galerie la Royale |
-
-Rochebelle |
-
-Alès |
-
-(vide) |
-
-Emergences minières |
-
-Galerie la Royale 2 |
-
-Rochebelle |
-
-Alès |
-
-(vide) |
-
-Emergences minières |
-
-Galerie Saint Pierre |
-
-Rochebelle |
-
-Alès |
-
-(vide) |
-
-Emergences minières |
-
-Galerie nationale |
-
-Ruffas |
-
-Le Bousquet d'Orb |
-
-(vide) |
-
-Emergences minières |
-
-TB 250 |
-
-Ruffas |
-
-Le Bousquet d'Orb |
-
-(vide) |
-
-Emergences minières |
-
-Surverse du puits Debay |
-
-Trelys & Palmesalade |
-
-Martinet |
-
-(vide) |
-
-Emergences minières |
-
-Galerie des Esteyraings |
-
-Trelys & Palmesalade |
-
-Martinet |
-
-(vide) |
-
-Emergences minières |
-
-Galerie Piqueur |
-
-Trelys & Palmesalade |
-
-Martinet |
-
-(vide) |
-
-Emergences minières |
-
-Galerie Plan |
-
-Trelys & Palmesalade |
-
-Rochessadoule |
-
-(vide) |
-
-Emergences minières |
-
-Galerie Saint Hyppolite |
-
-Combes |
-
-Aubin |
-
-(vide) |
-
-Emergences minières |
-
-Ecoulement Destresse |
-
-Combes |
-
-Aubin |
-
-(vide) |
-
-Emergences minières |
-
-Emergence Combes Feuillantines |
-
-Combes |
-
-Aubin |
-
-(vide) |
-
-Emergences minières |
-
-Emergence de la Bouyssonie 2 |
-
-Cransac |
-
-Cransac |
-
-(vide) |
-
-Emergences minières |
-
-Emergence Augustin |
-
-Cransac |
-
-Cransac |
-
-(vide) |
-
-Emergences minières |
-
-Emergence du Fraysse |
-
-Decazeville Firmi |
-
-Aubin |
-
-(vide) |
-
-Emergences minières |
-
-Emergence du Moulin |
-
-Decazeville Firmi |
-
-Decazeville |
-
-(vide) |
-
-Emergences minières |
-
-Emergence de Fontvernhes |
-
-Lavernhe |
-
-Aubin |
-
-(vide) |
-
-Emergences minières |
-
-Emergence du Gua |
-
-Lavernhe |
-
-Aubin |
-
-(vide) |
-
-Emergences minières |
-
-Emergence du Crol Bas/ Fournol |
-
-Lavernhe |
-
-Cransac |
-
-(vide) |
-
-Emergences minières |
-
-Emergence de Campagnac |
-
-Lavernhe |
-
-Cransac |
-
-(vide) |
-
-Emergences minières |
-
-Emergence du Mas de Mouly |
-
-C11 |
-
-Trets |
-
-(vide) |
-
-Emergences minières |
-
-Galerie Desfarges |
-
-C12 |
-
-La Bouilladisse |
-
-(vide) |
-
-Emergences minières |
-
-Galerie de Pinchinier |
-
-C3 |
-
-Fuveau |
-
-(vide) |
-
-Emergences minières |
-
-Galerie de Fuveau |
-
-C8 |
-
-Peypin |
-
-(vide) |
-
-Emergences minières |
-
-Galerie la Doria |
-
-Hors concession-C4-C5 |
-
-Marseille-Mimet-Simiane |
-
-(vide) |
-
-Emergences minières |
-
-Galerie de la Mer |
-
-Cluzel |
-
-Saint Genest Lerpt |
-
-(vide) |
-
-Emergences minières |
-
-Bas Cluzel |
-
-Cluzel |
-
-Saint Genest Lerpt |
-
-(vide) |
-
-Emergences minières |
-
-Cluzel Haut |
-
-Côte en Velin |
-
-Fourneaux |
-
-Côte en Velin |
-
-Emergences minières |
-
-Côte en Velin |
-
-La Jonche |
-
-Saint Arey |
-
-(vide) |
-
-Emergences minières |
-
-Galerie de Combe Neveuse |
-
-La Jonche |
-
-Saint Arey |
-
-(vide) |
-
-Emergences minières |
-
-Galerie de la Beaume |
-
-La Motte d'Aveillans |
-
-Susville |
-
-(vide) |
-
-Emergences minières |
-
-Galerie du Peychagnard N9 |
-
-La Motte d'Aveillans |
-
-La Motte d'Aveillans |
-
-(vide) |
-
-Emergences minières |
-
-Forage de décharge |
-
-La Motte d'Aveillans |
-
-La Motte d'Aveillans |
-
-(vide) |
-
-Emergences minières |
-
-Galerie N10 bis |
-
-La Motte d'Aveillans |
-
-La Motte d'Aveillans |
-
-(vide) |
-
-Emergences minières |
-
-Galerie N14 |
-
-La Motte d'Aveillans |
-
-La Motte d'Aveillans |
-
-(vide) |
-
-Emergences minières |
-
-Galerie N6 Comberamis |
-
-La Motte d'Aveillans |
-
-La Motte Saint Martin |
-
-(vide) |
-
-Emergences minières |
-
-Galerie de la Faurie |
-
-La Motte d'Aveillans |
-
-La Motte Saint Martin |
-
-(vide) |
-
-Emergences minières |
-
-Galerie N3 sous la Molière |
-
-Mirabel |
-
-Le Fel |
-
-Mirabel-Enguialès |
-
-Emergences minières |
-
-TB 465 |
-
-Montrambert |
-
-La Ricamarie |
-
-(vide) |
-
-Emergences minières |
-
-Fendue Lyon |
-
-Peychagnard Nouvelle |
-
-Prunières |
-
-(vide) |
-
-Emergences minières |
-
-Galerie Badier 1 |
-
-Peychagnard Nouvelle |
-
-Prunières |
-
-(vide) |
-
-Emergences minières |
-
-Galerie Merle |
-
-Peychagnard Nouvelle |
-
-Susville |
-
-(vide) |
-
-Emergences minières |
-
-Galerie du Peychagnard N10 |
-
-Peychagnard Nouvelle |
-
-Susville |
-
-(vide) |
-
-Emergences minières |
-
-Galerie Fontveille 1 |
-
-Roche la Molière & Firminy |
-
-Firminy |
-
-(vide) |
-
-Emergences minières |
-
-Bas Mas |
-
-Roche la Molière & Firminy |
-
-Roche la Molière |
-
-(vide) |
-
-Emergences minières |
-
-Rieux |
-
-Roche la Molière & Firminy |
-
-Roche la Molière |
-
-(vide) |
-
-Emergences minières |
-
-Roare |
-
-Roche la Molière & Firminy |
-
-Villars |
-
-(vide) |
-
-Emergences minières |
-
-Villars |
-
-Terrenoire |
-
-Saint Etienne |
-
-(vide) |
-
-Emergences minières |
-
-La Massardière |
-
-Charmes et Soyons |
-
-Soyons |
-
-(vide) |
-
-Emergences minières |
-
-G8 |
-
-Charmes et Soyons |
-
-Soyons |
-
-(vide) |
-
-Emergences minières |
-
-G10 |
-
-Decazeville Firmi |
-
-Decazeville |
-
-(vide) |
-
-Forages de rabattement |
-
-Vialarels 2/170 |
-
-Peygros-blanquette |
-
-Le Thoronet |
-
-Le Thoronet |
-
-Galerie de drainage |
-
-Galerie du Thoronet |
-
-Rochebelle |
-
-Alès |
-
-(vide) |
-
-Piézomètres |
-
-Rochebelle |
-
-Escaro |
-
-Souanyas |
-
-San Culgat |
-
-Piézomètres |
-
-PZA |
-
-Escaro |
-
-Souanyas |
-
-San Culgat |
-
-Piézomètres |
-
-PZB |
-
-Salsigne |
-
-Salsigne |
-
-MCO |
-
-Piézomètres |
-
-Cheminée Panneau Sud |
+12-Aveyron |
 
 Bouquiès |
 
@@ -2890,135 +2586,67 @@ Piézomètres |
 
 Crucifix |
 
-Cransac |
+34-Hérault |
 
-Cransac |
+Boussagues |
 
-(vide) |
-
-Piézomètres |
-
-Cantaranne 1 |
-
-Cransac |
-
-Cransac |
+La-Tour-sur-Orb |
 
 (vide) |
 
-Piézomètres |
+Emergences minières |
 
-Treille haute 1 |
+TB Frangouille |
 
-Cransac |
+13-Bouches-du-Rhône |
 
-Cransac |
+C 3 |
 
-(vide) |
-
-Piézomètres |
-
-Puits 1 ancien |
-
-C4 |
-
-Gardanne |
+Fuveau-Gréasque |
 
 (vide) |
 
-Piézomètres |
+Canalisations |
 
-Puits Y |
+Madame d'André |
 
-C5 |
+13-Bouches-du-Rhône |
 
-Mimet |
+C11 |
 
-(vide) |
-
-Piézomètres |
-
-Puits Gérard |
-
-Fontsante |
-
-Tanneron/ Callian |
-
-bassin Lenté |
-
-Piézomètres |
-
-PZ1 |
-
-Fontsante |
-
-Tanneron/ Callian |
-
-bassin Lenté |
-
-Piézomètres |
-
-PZ2 |
-
-Fontsante |
-
-Tanneron/ Callian |
-
-bassin Lenté |
-
-Piézomètres |
-
-PZ3 |
-
-Fontsante |
-
-Tanneron/ Callian |
-
-bassin Lenté |
-
-Piézomètres |
-
-PZ4 |
-
-Fontsante |
-
-Tanneron/ Callian |
-
-confluent fossé ruisseau des Charretiers |
-
-Prélèvements d'eaux de surface |
-
-P1 |
-
-Rochebelle |
-
-Saint Martin de Valgalgues |
+Trets |
 
 (vide) |
 
-Stations de pompage |
+Emergences minières |
 
-Puits Fontanes |
+Galerie Desfarges |
 
-Decazeville Firmi |
+13-Bouches-du-Rhône |
 
-Decazeville |
+C12 |
 
-(vide) |
-
-Stations de pompage |
-
-Lac de Lassalle |
-
-C4 |
-
-Mimet |
+La Bouilladisse |
 
 (vide) |
 
-Stations de pompage |
+Emergences minières |
 
-Puits Gérard |
+Galerie de Pinchinier |
+
+13-Bouches-du-Rhône |
+
+C3 |
+
+Fuveau |
+
+(vide) |
+
+Emergences minières |
+
+Galerie de Fuveau |
+
+13-Bouches-du-Rhône |
 
 C3 |
 
@@ -3030,65 +2658,271 @@ Stations de relevage des eaux |
 
 Les Sauvaires |
 
-Rochebelle |
+13-Bouches-du-Rhône |
 
-Saint Martin de Valgalgues |
+C4 |
 
-(vide) |
-
-Stations de traitement des eaux |
-
-Destival |
-
-Hors concession-C4-C5 |
-
-Marseille-Mimet-Simiane |
+Gardanne |
 
 (vide) |
 
-Stations de traitement des eaux |
+Piézomètres |
 
-Galerie de la Mer complétée par 3 sondages en mer |
+Puits Y |
 
-Montrambert |
+13-Bouches-du-Rhône |
 
-Le Chambon Feugerolles |
+C4 |
+
+Mimet |
 
 (vide) |
 
-Stations de traitement des eaux |
+Stations de pompage |
 
-Montrambert |
+Puits Gérard |
 
-La Ronze |
+13-Bouches-du-Rhône |
 
-Chessy-les-Mines |
+C5 |
 
-Chessy |
+Mimet |
 
-Stations de traitement des eaux |
+(vide) |
 
-Chessy |
+Piézomètres |
 
-Largentière |
+Puits Gérard |
 
-Largentière |
+13-Bouches-du-Rhône |
 
-La Prade |
+C8 |
 
-Stations de traitement des eaux |
+Peypin |
 
-Station de traitement de Largentière |
+(vide) |
 
-Saint Julien de la Nef |
+Emergences minières |
 
-Saint Laurent le Minier |
+Galerie la Doria |
 
-Malines |
+30-Gard |
 
-Station de traitement des eaux |
+Cessous Trebiau |
 
-Station de traitement des Malines |
+Le Chambon |
+
+(vide) |
+
+Emergences minières |
+
+Galerie de Cornas |
+
+07-Ardèche |
+
+Charmes et Soyons |
+
+Soyons |
+
+(vide) |
+
+Emergences minières |
+
+G10 |
+
+07-Ardèche |
+
+Charmes et Soyons |
+
+Soyons |
+
+(vide) |
+
+Emergences minières |
+
+G8 |
+
+42-Loire |
+
+Cluzel |
+
+Saint-Genest-Lerpt |
+
+(vide) |
+
+Emergences minières |
+
+Bas Cluzel |
+
+42-Loire |
+
+Cluzel |
+
+Saint-Genest-Lerpt |
+
+(vide) |
+
+Emergences minières |
+
+Cluzel Haut |
+
+12-Aveyron |
+
+Combes |
+
+Aubin |
+
+(vide) |
+
+Emergences minières |
+
+Ecoulement Destresse |
+
+12-Aveyron |
+
+Combes |
+
+Aubin |
+
+(vide) |
+
+Emergences minières |
+
+Emergence Combes Feuillantines |
+
+12-Aveyron |
+
+Combes |
+
+Aubin |
+
+(vide) |
+
+Emergences minières |
+
+Emergence de la Bouyssonie 2 |
+
+73-Savoie |
+
+Côte en Velin |
+
+Fourneaux |
+
+Côte en Velin |
+
+Emergences minières |
+
+Côte en Velin |
+
+12-Aveyron |
+
+Cransac |
+
+Cransac |
+
+(vide) |
+
+Emergences minières |
+
+Emergence Augustin |
+
+12-Aveyron |
+
+Cransac |
+
+Cransac |
+
+(vide) |
+
+Emergences minières |
+
+Emergence du Fraysse |
+
+12-Aveyron |
+
+Cransac |
+
+Cransac |
+
+(vide) |
+
+Piézomètres |
+
+Cantaranne 1 |
+
+12-Aveyron |
+
+Cransac |
+
+Cransac |
+
+(vide) |
+
+Piézomètres |
+
+Puits 1 ancien |
+
+12-Aveyron |
+
+Cransac |
+
+Cransac |
+
+(vide) |
+
+Piézomètres |
+
+Treille haute 1 |
+
+12-Aveyron |
+
+Decazeville Firmi |
+
+Aubin |
+
+(vide) |
+
+Emergences minières |
+
+Emergence du Moulin |
+
+12-Aveyron |
+
+Decazeville Firmi |
+
+Decazeville |
+
+(vide) |
+
+Emergences minières |
+
+Emergence de Fontvernhes |
+
+12-Aveyron |
+
+Decazeville Firmi |
+
+Decazeville |
+
+(vide) |
+
+Forages de rabattement |
+
+Vialarels 2/170 |
+
+12-Aveyron |
+
+Decazeville Firmi |
+
+Decazeville |
+
+(vide) |
+
+Stations de pompage |
+
+Lac de Lassalle |
+
+66-Pyrénées-Orientales |
 
 Escaro |
 
@@ -3096,9 +2930,11 @@ Souanyas |
 
 San Culgat |
 
-Dépôt |
+Canalisations |
 
-San Culgat |
+Buse de pied de verse |
+
+66-Pyrénées-Orientales |
 
 Escaro |
 
@@ -3110,6 +2946,8 @@ Dispositif de mesure des flux |
 
 Pluviomètre/ Débimètre |
 
+66-Pyrénées-Orientales |
+
 Escaro |
 
 Souanyas |
@@ -3118,7 +2956,33 @@ San Culgat |
 
 Fossé de collecte |
 
-FOSSE |
+Fossé de collecte des EP (960 m) |
+
+66-Pyrénées-Orientales |
+
+Escaro |
+
+Souanyas |
+
+San Culgat |
+
+Piézomètres |
+
+PZA |
+
+66-Pyrénées-Orientales |
+
+Escaro |
+
+Souanyas |
+
+San Culgat |
+
+Piézomètres |
+
+PZB |
+
+66-Pyrénées-Orientales |
 
 Escaro |
 
@@ -3128,24 +2992,772 @@ San Culgat |
 
 Seuils hydrauliques |
 
-SEUILS PIED |
+Seuils pied |
 
-Escaro |
+83-Var |
 
-Souanyas |
+Fontsante |
 
-San Culgat |
+Tanneron/ Callian |
 
-Buse de pied de verse |
+bassin Lenté |
 
-BUSE PIED |
+Piézomètres |
 
-Peyrebrune |
+PZ1 |
 
-Montredon-Labessonnié |
+83-Var |
 
-Peyrebrune |
+Fontsante |
 
-IHS |
+Tanneron/ Callian |
 
-Déviation du Lézert |
+bassin Lenté |
+
+Piézomètres |
+
+PZ2 |
+
+83-Var |
+
+Fontsante |
+
+Tanneron/ Callian |
+
+bassin Lenté |
+
+Piézomètres |
+
+PZ3 |
+
+83-Var |
+
+Fontsante |
+
+Tanneron/ Callian |
+
+bassin Lenté |
+
+Piézomètres |
+
+PZ4 |
+
+83-Var |
+
+Fontsante |
+
+Tanneron/ Callian |
+
+confluent fossé ruisseau Charretier |
+
+Prélèvements d'eaux de surface |
+
+P1 |
+
+13-Bouches-du-Rhône |
+
+Hors concession-C4-C5 |
+
+Marseille, Mimet, Simiane |
+
+(vide) |
+
+Emergences minières |
+
+Galerie de la Mer |
+
+13-Bouches-du-Rhône |
+
+Hors concession-C4-C5 |
+
+Marseille, Mimet, Simiane |
+
+(vide) |
+
+Station de traitement des eaux |
+
+Galerie de la Mer complétée par 3 sondages en mer |
+
+30-Gard |
+
+La Grand-Combe Ouest |
+
+Laval Pradel |
+
+(vide) |
+
+Canalisations |
+
+Fossé des Oules |
+
+30-Gard |
+
+La Grand-Combe Ouest |
+
+Laval Pradel |
+
+(vide) |
+
+Canalisations |
+
+Galerie de Lascous |
+
+30-Gard |
+
+La Grand-Combe Ouest |
+
+Laval Pradel |
+
+(vide) |
+
+Canalisations |
+
+Plan incliné des Oules |
+
+30-Gard |
+
+La Grand-Combe Ouest |
+
+La Grand-Combe |
+
+(vide) |
+
+Emergences minières |
+
+Galerie Corniche |
+
+30-Gard |
+
+La Grand-Combe Ouest |
+
+La Grand-Combe |
+
+(vide) |
+
+Emergences minières |
+
+Galerie Mas Blanc |
+
+30-Gard |
+
+La Grand-Combe Ouest |
+
+La Grand-Combe |
+
+(vide) |
+
+Emergences minières |
+
+Galerie Mine Roux |
+
+30-Gard |
+
+La Grand-Combe Ouest |
+
+La Grand-Combe |
+
+(vide) |
+
+Emergences minières |
+
+Galerie Sainte-Barbe |
+
+30-Gard |
+
+La Grand-Combe Ouest |
+
+La Grand-Combe |
+
+(vide) |
+
+Emergences minières |
+
+Galerie Thérond |
+
+30-Gard |
+
+La Grand-Combe Ouest |
+
+La Grand-Combe |
+
+(vide) |
+
+Emergences minières |
+
+Galerie Verrerie |
+
+38-Isère |
+
+La Jonche |
+
+Saint-Arey |
+
+(vide) |
+
+Emergences minières |
+
+Galerie de Combe Neveuse |
+
+38-Isère |
+
+La Jonche |
+
+Saint-Arey |
+
+(vide) |
+
+Emergences minières |
+
+Galerie de la Beaume |
+
+38-Isère |
+
+La Motte-d'Aveillans |
+
+La Motte-d'Aveillans |
+
+(vide) |
+
+Emergences minières |
+
+Forage de décharge |
+
+38-Isère |
+
+La Motte-d'Aveillans |
+
+La Motte-d'Aveillans |
+
+(vide) |
+
+Emergences minières |
+
+Galerie N10 bis |
+
+38-Isère |
+
+La Motte-d'Aveillans |
+
+La Motte-d'Aveillans |
+
+(vide) |
+
+Emergences minières |
+
+Galerie N14 |
+
+38-Isère |
+
+La Motte-d'Aveillans |
+
+La Motte-d'Aveillans |
+
+(vide) |
+
+Emergences minières |
+
+Galerie N6 Comberamis |
+
+38-Isère |
+
+La Motte-d'Aveillans |
+
+La Motte-Saint-Martin |
+
+(vide) |
+
+Emergences minières |
+
+Galerie de la Faurie |
+
+38-Isère |
+
+La Motte-d'Aveillans |
+
+La Motte-Saint-Martin |
+
+(vide) |
+
+Emergences minières |
+
+Galerie N3 sous la Molière |
+
+38-Isère |
+
+La Motte-d'Aveillans |
+
+Susville |
+
+(vide) |
+
+Emergences minières |
+
+Galerie du Peychagnard N9 |
+
+69-Rhône |
+
+La Ronze |
+
+Chessy-les-Mines |
+
+Chessy |
+
+Station de traitement des eaux |
+
+Chessy |
+
+07-Ardèche |
+
+Largentière |
+
+Largentière |
+
+La Prade |
+
+Station de traitement des eaux |
+
+Largentière |
+
+12-Aveyron |
+
+Lavernhe |
+
+Aubin |
+
+(vide) |
+
+Emergences minières |
+
+Emergence du Crol Bas/ Fournol |
+
+12-Aveyron |
+
+Lavernhe |
+
+Aubin |
+
+(vide) |
+
+Emergences minières |
+
+Emergence du Gua |
+
+12-Aveyron |
+
+Lavernhe |
+
+Cransac |
+
+(vide) |
+
+Emergences minières |
+
+Emergence de Campagnac |
+
+12-Aveyron |
+
+Lavernhe |
+
+Cransac |
+
+(vide) |
+
+Emergences minières |
+
+Emergence du Mas de Mouly |
+
+34-Hérault |
+
+Le Devois de Graissessac |
+
+Graissessac |
+
+(vide) |
+
+Emergences minières |
+
+TB de Grand Champ |
+
+12-Aveyron |
+
+Mirabel |
+
+Le Fel |
+
+Mirabel-Enguialès |
+
+Emergences minières |
+
+TB465 |
+
+42-Loire |
+
+Montrambert |
+
+La Ricamarie |
+
+(vide) |
+
+Emergences minières |
+
+Fendue Lyon |
+
+42-Loire |
+
+Montrambert |
+
+Le Chambon-Feugerolles |
+
+(vide) |
+
+Station de traitement des eaux |
+
+Montrambert |
+
+38-Isère |
+
+Peychagnard Nouvelle |
+
+Prunières |
+
+(vide) |
+
+Emergences minières |
+
+Galerie Badier 1 |
+
+38-Isère |
+
+Peychagnard Nouvelle |
+
+Prunières |
+
+(vide) |
+
+Emergences minières |
+
+Galerie Merle |
+
+38-Isère |
+
+Peychagnard Nouvelle |
+
+Susville |
+
+(vide) |
+
+Emergences minières |
+
+Galerie du Peychagnard N10 |
+
+38-Isère |
+
+Peychagnard Nouvelle |
+
+Susville |
+
+(vide) |
+
+Emergences minières |
+
+Galerie Fontveille 1 |
+
+83-Var |
+
+Peygros-blanquette |
+
+Le Thoronet |
+
+Le Thoronet |
+
+Galerie de drainage |
+
+Galerie du Thoronet |
+
+30-Gard |
+
+Portes & Senechas |
+
+La Vernarède |
+
+(vide) |
+
+Emergences minières |
+
+Galerie Burat |
+
+30-Gard |
+
+Robiac & Meyrannes |
+
+Bessèges |
+
+(vide) |
+
+Emergences minières |
+
+Galerie Saint François |
+
+30-Gard |
+
+Robiac & Meyrannes |
+
+Bessèges |
+
+(vide) |
+
+Emergences minières |
+
+Galerie Sainte Illyde |
+
+30-Gard |
+
+Robiac & Meyrannes |
+
+Molières-sur-Cèze |
+
+(vide) |
+
+Emergences minières |
+
+Galerie Chalmeton |
+
+30-Gard |
+
+Robiac & Meyrannes |
+
+Molières-sur-Cèze |
+
+(vide) |
+
+Emergences minières |
+
+Galerie Silhol |
+
+42-Loire |
+
+Roche-la-Molière & Firminy |
+
+Firminy |
+
+(vide) |
+
+Emergences minières |
+
+Bas Mas |
+
+42-Loire |
+
+Roche-la-Molière & Firminy |
+
+Roche-la-Molière |
+
+(vide) |
+
+Emergences minières |
+
+Rieux |
+
+42-Loire |
+
+Roche-la-Molière & Firminy |
+
+Roche-la-Molière |
+
+(vide) |
+
+Emergences minières |
+
+Roare |
+
+42-Loire |
+
+Roche-la-Molière & Firminy |
+
+Villars |
+
+(vide) |
+
+Emergences minières |
+
+Villars |
+
+30-Gard |
+
+Rochebelle |
+
+Alès |
+
+(vide) |
+
+Emergences minières |
+
+Galerie la Royale 2 |
+
+30-Gard |
+
+Rochebelle |
+
+Alès |
+
+(vide) |
+
+Emergences minières |
+
+Galerie nationale |
+
+30-Gard |
+
+Rochebelle |
+
+Alès |
+
+(vide) |
+
+Emergences minières |
+
+Galerie Saint Pierre |
+
+30-Gard |
+
+Rochebelle |
+
+Saint-Martin-de-Valgalgues |
+
+(vide) |
+
+Emergences minières |
+
+Galerie la Royale |
+
+30-Gard |
+
+Rochebelle |
+
+Alès |
+
+(vide) |
+
+Piézomètres |
+
+Rochebelle |
+
+30-Gard |
+
+Rochebelle |
+
+Saint-Martin-de-Valgalgues |
+
+(vide) |
+
+Station de traitement des eaux |
+
+Destival |
+
+30-Gard |
+
+Rochebelle |
+
+Saint-Martin-de-Valgalgues |
+
+(vide) |
+
+Stations de pompage |
+
+Puits Fontanes |
+
+34-Hérault |
+
+Ruffas |
+
+Le Bousquet d'Orb |
+
+(vide) |
+
+Emergences minières |
+
+Surverse du puits Debay |
+
+34-Hérault |
+
+Ruffas |
+
+Le Bousquet d'Orb |
+
+(vide) |
+
+Emergences minières |
+
+TB 250 |
+
+11-Aude |
+
+Salsigne |
+
+Salsigne |
+
+MCO |
+
+Piézomètres |
+
+Cheminée Panneau Sud |
+
+42-Loire |
+
+Terrenoire |
+
+Saint-Etienne |
+
+(vide) |
+
+Emergences minières |
+
+La Massardière |
+
+30-Gard |
+
+Trelys & Palmesalade |
+
+Martinet |
+
+(vide) |
+
+Emergences minières |
+
+Galerie des Esteyraings |
+
+30-Gard |
+
+Trelys & Palmesalade |
+
+Martinet |
+
+(vide) |
+
+Emergences minières |
+
+Galerie Piqueur |
+
+30-Gard |
+
+Trelys & Palmesalade |
+
+Martinet |
+
+(vide) |
+
+Emergences minières |
+
+Galerie Plan |
+
+30-Gard |
+
+Trelys & Palmesalade |
+
+Rochessadoule |
+
+(vide) |
+
+Emergences minières |
+
+Galerie Saint Hyppolite |
