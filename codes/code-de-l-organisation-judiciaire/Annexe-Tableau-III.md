@@ -340,7 +340,7 @@ Meurthe-et-Moselle |
 
 Nancy |
 
-Nancy, Vandœuvre-lès-Nancy, Toul. |
+Nancy, Vandœuvre-lès-Nancy, Toul, Saint-Max. |
 
 Cour d'appel de Nîmes |
 
@@ -392,7 +392,7 @@ Paris |
 
 Paris |
 
-Paris (10ème), Paris (14ème), Paris (17ème). |
+Paris (10ème), Paris (13ème), Paris (14ème), Paris (17ème). |
 
 Seine-et-Marne |
 
