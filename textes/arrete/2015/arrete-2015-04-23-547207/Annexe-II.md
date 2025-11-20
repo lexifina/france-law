@@ -124,7 +124,7 @@ Directeur du service de l'exécution financière, de la gestion logistique des b
 
 P. 144, P. 146, P. 178, P. 191, P. 212 |
 
-Directeur du centre expert des ressources humaines du personnel civil |
+Directeur du centre national de supervision de la paie |
 
 P. 144, P. 169, P. 178, P. 212 |
 
