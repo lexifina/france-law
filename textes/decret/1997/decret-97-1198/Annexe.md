@@ -1012,7 +1012,7 @@ Ministre chargé de la marine marchande |
 
 41 |
 
-Décisions relatives à la francisation et l'immatriculation constituant l'enregistrement des navires du registre international français et des drones maritimes, ainsi que les sorties de flotte et les mutations de propriété de ces navires et drones. |
+Décisions relatives à la francisation et l'immatriculation constituant l'enregistrement des navires du registre international français, des drones maritimes, des îles artificielles, installations et ouvrages flottants, ainsi que les sorties de flotte et les mutations de propriété de ces navires et drones maritimes, îles artificielles, installations et ouvrages flottants. |
 
 Décret n° 2006-142 du 10 février 2006
 
@@ -1238,7 +1238,7 @@ transport maritime |
 
 61 |
 
-L'enregistrement des hypothèques et saisies des navires immatriculés au registre international français et des drones maritimes enregistrés au registre des drones maritimes sous pavillon français et la publicité de ces hypothèques et saisies. |
+L'enregistrement des hypothèques et saisies des navires immatriculés au registre international français des îles artificielles, installations et ouvrages flottants du registre de ces engins sous pavillon français et des drones maritimes enregistrés au registre des drones maritimes sous pavillon français et la publicité de ces hypothèques et saisies. |
 
 Décret n° 2006-142 du 10 février 2006,
 
@@ -1286,7 +1286,7 @@ Ministre chargé de la mer |
 
 65 |
 
-Agrément spécial prévu au 1 de l'article L. 5112-1-3 du code des transports dans le cas des navires immatriculés au registre international français et des drones maritimes enregistrés au registre des drones maritimes sous pavillon français. |
+Agrément spécial prévu au 1 de l'article L. 5112-1-3 du code des transports dans le cas des navires immatriculés au registre international français et des drones maritimes enregistrés au registre des drones maritimes sous pavillon français ainsi que des îles artificielles, installations et ouvrages flottants du registre de ces engins sous pavillon français. |
 
 Code des transports,
 
