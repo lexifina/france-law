@@ -44,16 +44,12 @@ IV. - Un véhicule usagé complet ou complété relevant de la catégorie intern
 
 A ce titre le demandeur transmet, au service en charge des réceptions, une demande d'attestation de vérification des données techniques.
 
-Le service en charge des réceptions vérifie que les données obligatoires visées à l'annexe I point II.5 de la directive 1999/37/CE précitée suivantes : (A), (B), (C.1), (D.1), (D.2), (D.3), (E), (F.1), (G), (H), (I), (P.1), (P.2), (P.3) et (S.1) sont disponibles sur le certificat d'immatriculation définitif et harmonisé CE.
+Le service en charge des réceptions vérifie que les données obligatoires visées à l'annexe I point II.5 de la directive 1999/37/CE précitée suivantes : (A), (B), (C.1), (D.1), (D.2), (D.3), (E), (F.1), (G), (H), (I), (P.1), (P.2), (P.3) et (S.1) sont disponibles dans leur rubrique respective sur le certificat d'immatriculation définitif et harmonisé CE.
 
-Au cours de l'examen du véhicule, le service en charge des réceptions vérifie que les informations figurant aux rubriques suivantes du certificat d'immatriculation harmonisé CE : (E), (F.1), (F.3), (J), (J.2), et (S.1) sont concordantes avec le véhicule présenté.
+Au cours de l'examen du véhicule, le service en charge des réceptions vérifie que les informations figurant aux rubriques suivantes du certificat d'immatriculation harmonisé CE : (E), (F.1), (F.3), (J.2), et (S.1) sont concordantes avec le véhicule présenté.
 
-Enfin, il détermine les données : (F.2), (F.3), (J), (J.3) (P.3) et (P.6) et renseigne les données suivantes : (E), (G), (J.1), (J.2), (V.7), (V.9) et (Z.1) à (Z.4). Ces données seront reportées sur l'attestation de vérification des données techniques.
+Enfin, il détermine les données (si manquantes) : (F.2), (F.3), (J), (J.2) (P.3) et (P.6) et renseigne les données suivantes : (E), (G), (J.1), (J.3), (V.7), (V.9) et (Z.1) à (Z.4). Ces données seront reportées sur l'attestation de vérification des données techniques.
 
 A l'issue de l'examen, le service en charge des réceptions délivre une attestation de vérification des données techniques conforme à l'annexe XIII ter de l'arrêté du 9 février 2009 relatif aux modalités d'immatriculation des véhicules sous réserves des dispositions de l'alinéa suivant.
 
 Si certaines données obligatoires du certificat d'immatriculation définitif et harmonisé CE sont manquantes ou si les données mentionnées sur ce certificat ne correspondent pas audit véhicule, et qu'en conséquence, ce certificat ne permet pas l'identification du véhicule présenté, la demande sera rejetée et le demandeur pourra faire une demande de réception à titre isolé conformément aux dispositions des points I à III ci-dessus.
-
-NOTA :
-
-Conformément à l’article 17 de l’arrêté du 4 août 2023 (NOR : TRER2319435A), ces dispositions entrent en vigueur à compter du 1er septembre 2023.
