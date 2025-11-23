@@ -1,0 +1,407 @@
+# Article 1er
+
+La liste des certifications figurant à l'article 4 de l'accord relatif à la reconversion ou la promotion par l'alternance (Pro-A) du 2 octobre 2019, telle que modifiée par 3 avenants à cet accord, est remplacée par la liste suivante à date d'extension du présent avenant :
+
+Métiers |
+
+Fiche RNCP |
+
+Titre de la certification |
+
+Vente en magasin |
+
+34947 |
+
+CAP équipier polyvalent du commerce |
+
+38399 |
+
+Bac pro – Métiers du commerce et de la vente |
+
+39365 |
+
+CQP concepteur-vendeur de cuisines et/ ou aménagement intérieur |
+
+37098 |
+
+TP – Conseiller de vente |
+
+35233 |
+
+Titre professionnel assistant manager d'unité marchande |
+
+35354 |
+
+BUT – Techniques de commercialisation : marketing digital, e-business |
+
+35355 |
+
+BUT – Techniques de commercialisation : business international, achat et vente |
+
+38362 |
+
+BTS management commercial opérationnel |
+
+38368 |
+
+BTS négociation et digitalisation de la relation client |
+
+35801 |
+
+BTS – Conseil et commercialisation de solutions techniques |
+
+38676 |
+
+TP – Manager d'unité marchande |
+
+36803 |
+
+Titre professionnel employé administratif et d'accueil |
+
+38397 |
+
+Bac pro – Métiers de l'accueil |
+
+30060 |
+
+Licence pro e-commerce et marketing numérique |
+
+36141 |
+
+Titre gestionnaire d'unité commerciale |
+
+36534 |
+
+Titre responsable de distribution omnicanale |
+
+39177 |
+
+TP – Technicien d'après-vente en électroménager et audiovisuel |
+
+35304 |
+
+TP – Conseiller relation client à distance |
+
+38402 |
+
+CS – Assistance, conseil, vente à distance |
+
+34809 |
+
+Chargé de clientèle |
+
+39063 |
+
+TP – Négociateur technico-commercial |
+
+39373 |
+
+Vendeur conseiller commercial en équipements techniques (V2C) |
+
+|
+
+CQP vendeur Conseil en aménagement et Décoration de la Maison |
+
+39366 |
+
+CQP manager commercial cuisines et/ ou aménagement intérieur |
+
+Management/ responsable de magasin |
+
+29740 |
+
+Licence pro commerce et distribution |
+
+30086 |
+
+Licence pro management et gestion des organisations |
+
+38123 |
+
+Responsable du développement commercial |
+
+36609 |
+
+Responsable marketing et communication |
+
+37075 |
+
+Chargé du développement commercial |
+
+34558 |
+
+Titre manager de rayon |
+
+34809 |
+
+Titre charge de clientèle |
+
+36142 |
+
+Manager stratégique et opérationnel d'activité |
+
+38676 |
+
+TP – manager d'unité marchande |
+
+34465 |
+
+Chargé de gestion commercial |
+
+36395 |
+
+Responsable de développement commercial |
+
+37635 |
+
+Manager de commerce et de centre de profit |
+
+35208 |
+
+Manager commercial et marketing |
+
+Vente technique |
+
+37051 |
+
+Vendeur agenceur de cuisine, salle de bains et rangement |
+
+36259 |
+
+Titre solier moquettiste |
+
+34700 |
+
+Solier (ière) |
+
+Logistique |
+
+37894 |
+
+CAP conducteur routier de marchandises |
+
+38302 |
+
+Bac pro logistique |
+
+37672 |
+
+CAP – Opérateur logistique |
+
+38551 |
+
+TP – Agent magasinier |
+
+29992 |
+
+Licence pro management des processus logistiques |
+
+38941 |
+
+Responsable production transport logistique |
+
+37080 |
+
+Titre responsable logistique |
+
+39106 |
+
+Responsable opérationnel de la chaine logistique |
+
+29989 |
+
+Licence pro logistique et systèmes d'information |
+
+29988 |
+
+Licence pro logistique et pilotage des flux |
+
+35896 |
+
+Titre responsable des opérations logistiques |
+
+35390 |
+
+BUT – Management de la logistique et des transports : mobilité et supply chain connectées |
+
+35391 |
+
+BUT – Management de la logistique et des transports : mobilité et supply chain durables |
+
+37277 |
+
+TP – Technicien supérieur en méthodes et exploitation logis-tique |
+
+36237 |
+
+TP – Technicien en logistique d'entreposage |
+
+38365 |
+
+BTS – Gestion des transports et logistique associée |
+
+35106 |
+
+Responsable d'affaires commerciales et du développement à l'international |
+
+36486 |
+
+Manager supply chain-performance achat & responsabilité sociétale |
+
+36240 |
+
+TP – Technicien supérieur en gestion de production |
+
+Numérique
+
+(Ux Designer/ DATA) |
+
+29971 |
+
+Licence pro métiers du numérique : conception rédaction et réalisation web (fiche nationale) |
+
+37409 |
+
+Titre concepteur designer graphique |
+
+29969 |
+
+Licence pro métiers du décisionnel et de la statistique (fiche nationale) |
+
+Merchandising |
+
+37082 |
+
+Visuel merchandiser retail |
+
+37798 |
+
+Responsable visuel merchandiser |
+
+Technique |
+
+38740 |
+
+BP – Peintre applicateur de revêtements |
+
+39036 |
+
+CAP – Peintre applicateur de revêtements |
+
+35505 |
+
+TP peintre applicateur de revêtements |
+
+36257 |
+
+TP peintre en bâtiment |
+
+36598 |
+
+BM peintre en bâtiment |
+
+36084 |
+
+TP peintre en finitions |
+
+38230 |
+
+BP – Carreleur mosaïste |
+
+35509 |
+
+TP carreleur chapiste |
+
+39328 |
+
+CAP – Carreleur Mosaïste |
+
+37120 |
+
+TP – Menuisier installateur |
+
+37265 |
+
+Réparateur conseil d'équipements électriques et électroniques |
+
+39635 |
+
+Technicien intégrateur des infrastructures et équipements connectés |
+
+37055 |
+
+Poseur agenceur de cuisines et salles de bains |
+
+37263 |
+
+Technicien services de l'électroménager connecté |
+
+|
+
+CQP poseur de cuisines et/ ou d'aménagement intérieur |
+
+35974 |
+
+CAP menuisier installateur |
+
+E-Commerce |
+
+36743 |
+
+Chef de projet e-commerce |
+
+36865 |
+
+Vendeur conseil omnicanal |
+
+Restauration |
+
+36428 |
+
+Bac pro – Pilote de ligne de production |
+
+39176 |
+
+TP – Technicien de production industrielle |
+
+38431 |
+
+BP – Arts de la cuisine |
+
+38661 |
+
+TP – Technicien supérieur en production industrielle |
+
+37105 |
+
+MC5 – Vendeur-conseil en alimentation |
+
+30055 |
+
+Licence professionnelle – Commercialisation des produits alimentaires |
+
+RH |
+
+36995 |
+
+Chargé des ressources humaines |
+
+38883 |
+
+Manager des ressources humaines |
+
+Finance |
+
+35375 |
+
+BUT Gestion des entreprises et des administrations : gestion comptable, fiscale et financière |
+
+Décoration/ aménagement intérieur |
+
+39245 |
+
+Décorateur d'intérieur et aménagement |
+
+(1) Les certifications de l'article 1er sont éligibles à la reconversion ou promotion par alternance sous réserve qu'elles soient actives au répertoire national des certifications professionnelles en application de l'article L. 6324-3 du code du travail.
+
+(Arrêté du 7 novembre 2025 - art. 1)
