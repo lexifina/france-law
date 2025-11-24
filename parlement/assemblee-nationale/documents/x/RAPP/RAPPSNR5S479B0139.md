@@ -1,0 +1,10 @@
+# rapport  sur le projet de loi de finances, rejeté, par l'Assemblée nationale, pour 2026 (n°138).
+
+- Type : Rapport
+- Dénomination : Rapport
+- Provenance : Commission
+- Titre court : rapport  sur le projet de loi de finances, rejeté, par l'Assemblée nationale, pour 2026 (n°138).
+- Déposé le : 2025-11-24
+- Dossier : DLR5L17N52428
+- Auteurs : M. Jean-François Husson (rapporteur), M. Jean-Marie Mizzon (rapporteur), Mme Nathalie Goulet (rapporteur), M. Rémi Féraud (rapporteur), Mme Florence Blatrix Contat (rapporteur), M. Christian Klinger (rapporteur), M. Victorin Lurel (rapporteur), M. Michel Canévet (rapporteur), M. Raphaël Daubet (rapporteur), M. Marc Laménie (rapporteur), M. Jean-Baptiste Blanc (rapporteur), M. Bernard Delcros (rapporteur), M. Christian Bilhac (rapporteur), M. Vincent Éblé (rapporteur), M. Didier Rambaud (rapporteur), M. Dominique de Legge (rapporteur), M. Christopher Szczurek (rapporteur), Mme Christine Lavarde (rapporteur), M. Hervé Maurey (rapporteur), M. Vincent Capo-Canellas (rapporteur), M. Thierry Cozic (rapporteur), Mme Frédérique Espagnac (rapporteur), M. Albéric de Montgolfier (rapporteur), M. Olivier Paccaud (rapporteur), M. Claude Nougein (rapporteur), Mme Marie-Carole Ciuntu (rapporteur), M. Laurent Somon (rapporteur), M. Thomas Dossus (rapporteur), M. Antoine Lefèvre (rapporteur), M. Jean-Raymond Hugonet (rapporteur), M. Georges Patient (rapporteur), M. Stéphane Fouassin (rapporteur), M. Claude Raynal (rapporteur), M. Grégory Blanc (rapporteur), Mme Vanina Paoli-Gagin (rapporteur), M. Jean-François Rapin (rapporteur), Mme Sylvie Vermeillet (rapporteur), M. Stéphane Sautarel (rapporteur), Mme Isabelle Briquet (rapporteur), M. Pascal Savoldelli (rapporteur), M. Vincent Delahaye (rapporteur), M. Bruno Belin (rapporteur), M. Jean Pierre Vogel (rapporteur), M. Arnaud Bazin (rapporteur), M. Pierre Barros (rapporteur), M. Éric Jeansannetas (rapporteur), M. Emmanuel Capus (rapporteur), Mme Ghislaine Senée (rapporteur), Commission des finances
+- Identifiant : RAPPSNR5S479B0139
