@@ -430,7 +430,7 @@ A
 
 |
 
-Direction départementale des territoires de Seine-et-Marne (8)
+DIRECTION DÉPARTEMENTALE DES TERRITOIRES DE SEINE-ET-MARNE
 
 Fonction exercée |
 
@@ -442,7 +442,7 @@ d'emplois |
 
 Nombre de points (IM) par emploi |
 
-Chef du service de l'habitat et de la rénovation urbaine |
+Chef de l'Unité Rénovation Urbaine et Parc Social-Service Habitat et Rénovation Urbaine |
 
 A |
 
@@ -450,7 +450,7 @@ A |
 
 20 |
 
-Assistant du service de l'habitat et de la rénovation urbaine |
+Assistante du Service Habitat et Rénovation Urbaine-Service Habitat et Rénovation Urbaine |
 
 C |
 
@@ -798,7 +798,7 @@ d'emplois |
 
 Nombre de points (IM) par emploi |
 
-Responsable de département insertion par le logement - Service &laquo; Accès au logement &raquo; |
+Responsable de département insertion par le logement - Service Accès au logement |
 
 A |
 
@@ -806,7 +806,7 @@ A |
 
 25 |
 
-Animation suivi PDALPD-secrétariat Commission départementale APL - Département &laquo; Insertion par le logement &raquo; - Service &laquo; Accès au logement &raquo; |
+Animation suivi PDALPD-secrétariat Commission départementale APL - Département Insertion par le logement - Service Accès au logement |
 
 B |
 
