@@ -1,0 +1,9 @@
+# Réponse à la question n° 9725
+
+- Question : [9725](9725.md) — Question n° 9725 — Prêt de la tapisserie de Bayeux
+
+## Réponse
+
+*JO du 2025-11-25, page 9517*
+
+L'arrangement administratif signé le 9 juillet 2025 par le ministère de la culture français, le secrétariat d'État à la culture, aux médias et aux sports britannique et le directeur du British Museum prévoit et encadre le prêt de la tapisserie de Bayeux au Royaume-Uni et celui, en contrepartie, du trésor de Sutton Hoo et d'autres œuvres d'art à la République française. Ces prêts mutuels sont soumis à la réalisation de conditions juridiques, scientifiques, techniques, administratives et financières. La Tapisserie sera exposée au British Museum entre septembre 2026 et juillet 2027. Ainsi qu'il est précisé dans l'arrangement administratif, ce calendrier a été défini pour permettre la réinstallation de l'œuvre dans son emplacement définitif, la nouvelle galerie du musée de la Tapisserie à Bayeux, ainsi que sa restauration. La préparation du prêt suppose le lancement, par la direction régionale des affaires culturelles de Normandie, de plusieurs études complémentaires préalables pour effectuer un voyage à blanc, mesurer les vibrations, les analyser pour trouver des moyens techniques de les limiter à moins de 2 millimètres par seconde et fabriquer une caisse de transport adaptée aux longues distances. Des constats d'état seront effectués au départ et à l'arrivée de l'œuvre dans son lieu d'exposition à Londres. De son côté, le British Museum adaptera ses conditions d'accueil et de conservation de l'œuvre, au sein de la galerie d'exposition, conformément aux spécifications techniques de la partie française. La Tapisserie bénéficiera ainsi d'un local d'exposition dédié, comprenant une table de présentation, une vitrine et des conditions climatiques et de sécurité adaptées. Le transport retour de l'œuvre en France sera organisé avec les mêmes précautions.
