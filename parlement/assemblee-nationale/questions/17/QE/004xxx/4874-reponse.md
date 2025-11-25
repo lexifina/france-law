@@ -1,0 +1,9 @@
+# Réponse à la question n° 4874
+
+- Question : [4874](4874.md) — Question n° 4874 — Clause de sauvegarde et mise en oeuvre de l'ISFE pour la police municipale
+
+## Réponse
+
+*JO du 2025-11-25, page 9487*
+
+Le décret n° 2024-614 du 26 juin 2024 a réformé l'architecture du dispositif indemnitaire des policiers municipaux et revalorisé substantiellement ses plafonds. Ce décret a institué une indemnité spéciale de fonction et d'engagement (ISFE) pouvant être appliquée à l'ensemble de ces fonctionnaires. L'ISFE est composée de deux parts : une part « fonction » calculée en appliquant au montant du traitement soumis à retenue pour pension, un pourcentage fixé par l'organe délibérant, et une part variable liée à l'engagement professionnel et à la manière de servir. L'article 7 du décret n° 2024-614 prévoit une clause de sauvegarde afin de garantir à l'ensemble des fonctionnaires bénéficiaires le maintien a minima du montant du régime indemnitaire mensuel antérieur. Plus précisément, cette disposition prévoit, lors de la première application des dispositions du décret, la possibilité pour les fonctionnaires concernés de conserver le montant indemnitaire mensuel perçu au titre du régime indemnitaire antérieur lorsque celui-ci demeure plus avantageux. Le maintien de ce montant indemnitaire mensuel s'effectue au titre de la part variable dans la limite des montants plafonds prévus pour cette dernière à l'article 5 du décret n° 2024-614. Par ailleurs, il convient de préciser que la première application des dispositions du décret correspond au jour où la délibération votée par l'organe délibérant de chaque collectivité territoriale instaure l'ISFE. Dès lors, la clause de sauvegarde n'est applicable qu'aux agents en poste à cette date au sein de la collectivité. En tout état de cause, la mise en œuvre de la clause de sauvegarde n'est liée par aucun délai particulier tant que le montant indemnitaire perçu au titre du régime antérieur demeure plus favorable.
