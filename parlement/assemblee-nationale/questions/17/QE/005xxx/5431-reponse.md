@@ -1,0 +1,9 @@
+# Réponse à la question n° 5431
+
+- Question : [5431](5431.md) — Question n° 5431 — Difficultés liées à l'application de l'obligation légale de débroussaillement
+
+## Réponse
+
+*JO du 2025-11-25, page 9555*
+
+Neuf feux de forêt sur dix sont d'origine humaine. Ils naissent donc préférentiellement à l'interface entre les zones urbanisées, les infrastructures linéaires (routes, voies ferrées, lignes électriques) et les espaces naturels. C'est pourquoi les obligations légales de débroussaillement (OLD) existent et permettent de réduire le risque de départ de feux. Dans les zones à risque d'incendie de forêt, les propriétaires doivent en effet débroussailler jusqu'à cinquante mètres autour de leur habitation. Cette mesure permet également d'assurer la sécurité des résidents. Les retours d'expérience ont montré que 90 % des maisons touchées intérieurement par les incendies de forêt n'étaient pas débroussaillées. Le principe de la loi est de faire reposer sur les propriétaires des constructions, la responsabilité des opérations contribuant à la diminution du risque de mise à feu généré par leur présence mais également à la protection de leurs biens. Lors de l'examen de la loi n° 2023-580 du 10 juillet 2023 visant à renforcer la prévention et la lutte contre l'intensification et l'extension du risque incendie, les parlementaires ont écarté la possibilité de revenir sur ce principe. Ils ont également créé la possibilité pour des opérateurs publics, tels que les collectivités et leurs groupements ou les gestionnaires d'infrastructures publiques par exemple, de réaliser avec l'accord des propriétaires de construction et à leur frais, des opérations groupées de réalisation de ces OLD. Des réflexions peuvent donc être menées dans les territoires pour trouver des structures qui acceptent de porter ces chantiers.
