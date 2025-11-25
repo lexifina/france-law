@@ -1,0 +1,9 @@
+# Réponse à la question n° 6746
+
+- Question : [6746](6746.md) — Question n° 6746 — Remplacement du CAESAr
+
+## Réponse
+
+*JO du 2025-11-25, page 9502*
+
+Le succès du système CAESAR, résultat d'une analyse approfondie de l'évolution des conflits, repose sur un équilibre optimal entre coût et performance, particulièrement adapté dans les situations de haute intensité, ainsi que sur les compétences industrielles décisives de l'industrie française. L'emploi opérationnel de ce système, ainsi que son succès à l'exportation, avec près de 300 exemplaires livrés dans dix pays, témoignent du savoir-faire industriel français en matière de canons motorisés. Conformément à la loi de programmation militaire 2024-2030 qui acte le renouvellement du parc d'artillerie français, la livraison de 109 exemplaires du CAESAR MKII est prévue d'ici 2030. Cette acquisition permet de reporter le besoin opérationnel d'un nouvel armement au-delà de 2040. Par ailleurs, la préparation de la future génération de ce système est déjà engagée. Une étude technico-opérationnelle nationale sur l'artillerie du futur, qui s'appuiera sur les travaux technologiques menés depuis 2021, notamment sur l'augmentation de la portée, est en cours de lancement. En fonction des résultats de cette étude et des ressources allouées dans le cadre de la programmation militaire, les éventualités de coopération pour le développement et la production du futur système seront examinées. La poursuite de la coopération avec l'Allemagne est l'une des options en cours d'instruction, notamment en raison du besoin allemand de remplacement des RCH 155, qui implique une modernisation des châssis PZH 2000, datant des années 1990, et des châssis Boxer, datant des années 2000, ainsi que la prise en compte des retours d'expérience opérationnels concernant la complexité induite par l'automatisation du chargement.
