@@ -1,0 +1,9 @@
+# Réponse à la question n° 1956
+
+- Question : [1956](1956.md) — Question n° 1956 — Metaleurop - demande d'inscription au projet de budget et indemnisations
+
+## Réponse
+
+*JO du 2025-11-25, page 9483*
+
+D'un point de vue juridique, la mise en place d'une compensation individuelle via la dotation globale de fonctionnement (DGF) pour la communauté d'agglomération Hénin-Carvin ou les communes de Courcelles-lès-Lens, de Dourges, d'EvinMalmaison, de Leforest et de Noyelles-Godault n'est pas possible. Les attributions individuelles au titre de la dotation globale de fonctionnement sont en effet calculées selon des critères fixés intégralement par le législateur et qui ne laissent pas de place à l'interprétation du pouvoir réglementaire. La mise en œuvre de la compensation sollicitée par les collectivités nécessiterait alors que, au-delà de majorer le montant global de la DGF, le législateur institue en son sein une part destinée à compenser les pertes de ressources occasionnées par la mise en œuvre de cette exonération. D'autant que cette exonération est facultative, sur délibération de la commune : or, le Gouvernement ne compense que les exonérations obligatoires imposées par le droit. La commune de Noyelles-Godault et la communauté d'agglomération d'Hénin-Carvin ont soutenu devant la justice administrative que le Gouvernement avait commis une faute en s'abstenant de soumettre au Parlement un projet de loi tendant à majorer la DGF dans le but de compenser la perte de recettes fiscales engendrée par l'abattement de la LFR pour 2016. Dans deux arrêts du 16 novembre 2023, la Cour administrative d'appel de Douai a estimé que le législateur ne pouvait lui-même se lier, et qu'une disposition législative comme celle de la LFR pour 2016, posant le principe de l'intervention d'une loi ultérieure ne saurait constituer une promesse dont le non-respect constituerait une faute susceptible d'engager la responsabilité de l'État.
