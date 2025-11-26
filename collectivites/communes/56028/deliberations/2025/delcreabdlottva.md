@@ -1,0 +1,11 @@
+# COMMUNE DE CADEN : délibération DELCREABDLOTTVA — DEL CREATION DE BUDGET LOTISSEMENT ET ASSUJETTISSEMENT A LA TVA
+
+- Collectivité : COMMUNE DE CADEN
+- SIRET : 21560028900015
+- Code INSEE : 56028
+- Date : 2025-11-26
+- Matière : 7.1 Finances locales/Decisions budgetaires
+- Objet : DEL CREATION DE BUDGET LOTISSEMENT ET ASSUJETTISSEMENT A LA TVA
+- Transmis à la préfecture : 2025-11-28
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/215600289/Deliberation/2025/974271/758c59f5454844500d79505704f19c89d8fbf46f74d90f3af0ff467e540a3a13.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
