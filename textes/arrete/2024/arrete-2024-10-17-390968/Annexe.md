@@ -164,6 +164,14 @@ Ponctuelle |
 
 DARES |
 
+Enquête auprès des sortants des listes de demandeurs d'emploi de France Travail |
+
+Annuelle |
+
+DARES
+
+France Travail |
+
 (*) Voir liste des producteurs.
 
 Services publics et services aux publics |
@@ -360,7 +368,7 @@ DARES |
 
 Direction de l'animation de la recherche, des études et des statistiques |
 
-Ministère du travail et de l'emploi |
+Ministère du Travail, de la Santé, des Solidarités et des Familles |
 
 DEPP |
 
@@ -391,6 +399,12 @@ Ministère chargé du budget et des comptes publics
 Ministère du travail, de la santé, des solidarités et des familles
 
 |
+
+France Travail |
+
+|
+
+Ministère du Travail, de la Santé, des Solidarités et des Familles |
 
 ‍Île-de-France Mobilités |
 
