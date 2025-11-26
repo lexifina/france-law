@@ -1,0 +1,35 @@
+# Réponse à la question n° 443
+
+- Question : [443](443.md) — Question n° 443 — Situation CHU de Caen et crise de la psychiatrie dans le Calvados
+
+## Réponse
+
+*JO du 2025-11-26, page 10124*
+
+CENTRE HOSPITALIER DE CAEN
+
+Mme la présidente. La parole est à M. Arthur Delaporte, pour exposer sa question, no 443, relative au centre hospitalier de Caen.
+
+M. Arthur Delaporte. « C’est tellement dur physiquement. Impossible de savoir qu'on est face à des patients qui vont attendre pendant sept heures pour vous voir et qu'on ne peut rien faire. » C'est ce que me disait un médecin. Un syndicaliste, quant à lui, résumait ainsi la situation : « Les équipes sont épuisées et les patients sont en danger. » Voilà ce que j’entends quotidiennement, depuis plusieurs semaines, à propos du CHU – centre hospitalier universitaire – de Caen, de la part de soignants et de malades qui sonnent l'alarme.
+
+Les urgences du CHU de Caen sont en effet dans une situation particulièrement préoccupante. Même la presse nationale s’en est fait l'écho. Le 3 novembre, Le Monde titrait sobrement : « Au CHU de Caen, il n’y aura plus d’internes aux urgences à partir de lundi, faute de “médecins seniors” pour les encadrer ». Comment en sommes-nous arrivés là ? Comment expliquer une décision si grave ? Comment expliquer que la sécurité de la formation des internes ne puisse être pleinement assurée ? Comment expliquer que, malgré le recours à des intérimaires, seule la moitié environ des vingt-trois postes médicaux nécessaires au bon fonctionnement des urgences soit pourvue ?
+
+Aux urgences, ni le turnover ni les trous dans les effectifs ne sont nouveaux. Les CHU manquent d’attractivité et la rémunération n'y est pas juste, compte tenu de la charge de travail, intenable. La pression sur les urgences et la saturation que j’ai décrite ne tiennent pas seulement à l’activité générale. Elles sont aussi liées à l’explosion du nombre de passages pour motif psychiatrique, notamment de jeunes patients.
+
+Cette situation préoccupante est aggravée par la fermeture de nombreux lits de psychiatrie, notamment au sein de l'établissement public de santé mentale de Caen, faute de moyens et du fait d'un manque de personnel, notamment de psychiatres. Dans les étages du CHU aussi, on est à la peine. En conséquence, des patients restent plusieurs jours aux urgences, dans des couloirs déjà saturés et sans prise en charge spécialisée. C’est indigne et insoutenable. La régulation mise en œuvre depuis le début du mois de novembre a un temps apaisé la situation en réduisant le nombre de passages, mais elle n'a pas réglé les problèmes à la racine et a reporté la charge sur un autre point d'un système déjà saturé.
+
+À cela s'ajoute la désorganisation des soins dans la région où, sans coordination, certains établissements privés ferment leurs urgences ou en réduisent la capacité, renforçant encore la charge de l’hôpital public. Seuls, les CHU ne peuvent plus tenir.
+
+J'ai quatre questions à vous poser. Comment le gouvernement va-t-il organiser la participation régulière et durable des équipes de ville et des hôpitaux périphériques à l'offre de soins ? L’aval reste un point d’asphyxie. Sans filières post-urgences solides, tout se bloque. Quelle est la stratégie à ce sujet ? La ministre de la santé a décidé l'envoi de la réserve sanitaire au CHU de Caen, à raison de trois médecins pendant trois fois quinze jours. Quelles sont les perspectives pour ce qui constitue un pansement utile mais insatisfaisant ? Enfin, quelles mesures immédiates le ministère va-t-il prendre pour rouvrir des lits en psychiatrie, en particulier dans l'agglomération caennaise ?
+
+Mme la présidente. La parole est à Mme la ministre déléguée chargée de l’autonomie et des personnes handicapées.
+
+Mme Charlotte Parmentier-Lecocq, ministre déléguée chargée de l’autonomie et des personnes handicapées. Mme la ministre de la santé, qui vous prie d'excuser son absence, m'a chargée de vous faire part de sa réponse à propos du CHU de Caen, dont elle suit attentivement la situation et avec qui les échanges sont réguliers. Elle a pleinement conscience des difficultés que rencontre son service des urgences.
+
+Cette situation est la conséquence du retrait des internes de médecine d'urgence pour le semestre en cours, en raison des difficultés d'encadrement que vous avez rappelées. À la suite de cette décision, un plan d'action a été immédiatement mis en œuvre par le CHU, en lien avec l'ARS – agence régionale de santé – et les équipes du ministère. Plusieurs leviers ont été enclenchés : des vacations aux urgences sont assurées par des praticiens venus d'autres services de l'établissement et, pour encourager la réalisation de gardes supplémentaires, la prime d'engagement collectif a été activée.
+
+En parallèle, l'accès aux urgences est désormais strictement régulé par le Samu, avec un renforcement de l'accueil et une réorientation des patients dont l'état le permet vers les soins programmés en ville. En lien avec l'ARS, nous avons également mobilisé des établissements de la région, notamment dans la Manche, le Calvados et l'Orne, qui se sont engagés à apporter des renforts.
+
+Dans ces circonstances exceptionnelles, la ministre de la santé a également décidé de mobiliser la réserve sanitaire pour que des médecins puissent renforcer le CHU de Caen. Cela concerne actuellement trois généralistes. De plus, douze postes de praticiens à diplôme hors Union européenne (Padhue) ont été ouverts : cinq en médecine d'urgence et sept en médecine générale. L'ensemble de ces mesures permet dès à présent d'assurer une continuité des soins.
+
+La ministre de la santé souhaite reconstruire une dynamique collective autour du service des urgences du CHU de Caen, avec l'objectif d'y rétablir des conditions d'encadrement pérennes permettant d'accueillir à nouveau des internes. Je rappelle aussi la détermination du gouvernement à poursuivre les actions engagées en faveur de l'accès aux soins non programmés, notamment au travers du service d'accès aux soins (SAS). Présent dans 97 % du territoire national, il permet aux professionnels exerçant en ville de prendre en charge davantage de patients et d'éviter ainsi des passages aux urgences. Le déploiement du réseau France Santé contribuera également à renforcer l'offre de soins de premier recours. Enfin, le projet de loi de financement de la sécurité sociale pour 2026 prévoit d'apporter un soutien financier supplémentaire aux établissements de santé sur l'ensemble de leurs activités.
