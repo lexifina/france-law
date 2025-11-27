@@ -82,7 +82,7 @@ EURO
 
 |
 
-164
+240
 
 |
 
@@ -190,7 +190,7 @@ DOLLAR AUSTRALIEN
 
 |
 
-348
+380
 
 |
 
@@ -468,13 +468,17 @@ EURO
 
 |
 
-CANADA ville de TORONTO |
+CANADA ville de TORONTO
+
+|
 
 DOLLAR CANADIEN |
 
 552 |
 
-CANADA ville de VANCOUVER |
+CANADA ville de VANCOUVER
+
+|
 
 DOLLAR CANADIEN |
 
@@ -642,7 +646,7 @@ DOLLAR US
 
 |
 
-169
+270
 
 |
 
@@ -702,7 +706,7 @@ COURONNE DANOISE
 
 |
 
-1 660
+2 160
 
 |
 
@@ -726,7 +730,7 @@ DOLLAR US
 
 |
 
-142
+207
 
 |
 
@@ -810,7 +814,7 @@ EURO
 
 |
 
-129
+171
 
 |
 
@@ -1246,7 +1250,7 @@ DOLLAR US
 
 |
 
-141
+180
 
 |
 
@@ -1314,7 +1318,7 @@ EURO
 
 |
 
-120
+150
 
 |
 
@@ -1458,7 +1462,7 @@ DOLLAR US
 
 |
 
-214
+224
 
 |
 
@@ -1810,7 +1814,7 @@ EURO
 
 |
 
-172
+245
 
 |
 
@@ -2240,7 +2244,7 @@ EURO
 
 |
 
-135
+215
 
 |
 
