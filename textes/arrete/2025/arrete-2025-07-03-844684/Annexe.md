@@ -26,7 +26,7 @@ Elle comprend  :
 
 La formation peut être suivie en présentiel, à distance (visioconférence) ou via l'auto-apprentissage en ligne, dans la limite de 25 heures maximum à distance. Le suivi des modules de formation fait l'objet d'attestations.
 
-Le tronc commun se compose de cinq modules :
+Le tronc commun se compose de quatre modules :
 
 Module 1 : Comprendre le fait associatif : les bases essentielles :
 
@@ -77,16 +77,6 @@ Module 4 : Mobiliser et animer les acteurs de l'association :
 - le service civique, des missions différentes de l'emploi ;
 
 - les procédés simplifiés d'emploi.
-
-Module 5 : Compétence en matière de gestion de projet associatif : être capable de traduire un projet associatif en un projet d'activité ou en événement :
-
-- l'élaboration d'un projet d'activité ou d'événement ;
-
-- la communication autour de ce projet ;
-
-- l'élaboration et le suivi du budget en rapport avec un projet ;
-
-- l'évaluation de ce projet.
 
 Les modules additionnels (deux modules à choisir soit 10 heures) sont les suivants :
 
@@ -175,3 +165,7 @@ Cette formation pratique comprend notamment :
 - des rencontres avec les responsables de l'association pour définir le rôle de responsable associatif ;
 
 - une participation à la conduite d'un projet, à la tenue de réunions statutaires et à la gestion administrative ou financière de l'association.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 3 novembre 2025 (NOR : SPOV2529431A), ces dispositions, dans leur rédaction résultant de l'arrêté de l'arrêté précité, s'appliquent aux demandes de déclaration préalable en cours d'instruction à la date de publication du même arrêté.
