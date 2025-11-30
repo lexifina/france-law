@@ -1,53 +1,37 @@
 # Article Annexe 29
 
-Annexe 29
-
-Certificat de spécialisation agricole option travaux mécanisés de génie écologique
+CERTIFICAT DE SPÉCIALISATION AGRICOLE OPTION TOURISME VERT, ACCUEIL ET ANIMATION EN MILIEU RURAL
 
 Intérêts
 
-S'intéresser à la transition agro-écologique et alimentaires sur les territoires en promouvant une agriculture durable ;
+-participer aux transitions agro-écologiques et alimentaires sur les territoires en promouvant une agriculture durable ;
 
-Manifester de l'intérêt pour le génie écologique (favoriser la résilience des écosystèmes en appliquant les principes de l'ingénierie écologique).
+-manifester de l'intérêt pour l'accueil, l'animation en milieu rural, le tourisme vert.
 
 Compétences et connaissances requises/ aptitudes et attitudes requises
 
-Disposer d'aptitudes physiques en zones escarpées et en milieu aquatique dans le respect des règles de sécurité et de la réglementation en vigueur.
+-disposer d'aptitudes pour créer ou mettre en œuvre des prestations touristiques en prenant en compte les caractéristiques de l'environnement socio-économique du territoire où est implantée l'entreprise ou l'exploitation agricole ;
+
+-avoir le sens du contact et des relations humaines.
 
 Exigences en matière de diplômes
 
 Accessible aux candidats titulaires :
 
--d'un baccalauréat professionnel spécialité "gestion des milieux naturels et de la faune" ;
+-du brevet professionnel "responsable d'exploitation agricole" ;
 
--d'un brevet professionnel option "aménagements paysagers" ;
+-du brevet professionnel "productions horticoles" ;
 
--d'un baccalauréat professionnel spécialité "aménagements paysagers" ;
+-du baccalauréat professionnel "conduite et gestion de l'exploitation agricole" ;
 
--d'un brevet professionnel option "responsable de chantiers forestiers" ;
+-du baccalauréat professionnel "productions horticoles" ;
 
--d'un baccalauréat professionnel spécialité "forêt" ;
+-du brevet de technicien agricole "productions" ;
 
--d'un brevet professionnel option "agroéquipements, conduite et maintenance des matériels" ;
+-du brevet de technicien agricole "commerces et services",
 
--d'un baccalauréat professionnel spécialité "agroéquipements" ;
-
--d'un brevet de technicien supérieur agricole "gestion et protection de la nature" ;
-
--d'un brevet de technicien supérieur agricole "gestion forestière" ;
-
--d'un brevet de technicien supérieur agricole "aménagements paysagers" ;
-
--d'un brevet de technicien supérieur agricole "gestion et maîtrise de l'eau" ;
-
--d'un brevet de technicien supérieur agricole "génie des équipements agricoles".
-
-Les candidats ne justifiant pas d'un de ces diplômes peuvent également être admis sur décision prise par le directeur régional de l'alimentation, de l'agriculture et de la forêt, conformément aux dispositions de l'article D. 811-167-3 du code rural et de la pêche maritime susvisé.
+ou, sur décision du directeur régional de l'alimentation, de l'agriculture et de la forêt, d'un diplôme ou titre homologué de niveau au moins équivalent, de spécialité voisine, ou d'attestation de suivi de formations reconnues dans les conventions collectives.
 
 Spécificités du métier
 
-Travail en extérieur ;
-
-Travail dangereux ;
-
-Être majeur.
+-avoir une excellente présentation.
