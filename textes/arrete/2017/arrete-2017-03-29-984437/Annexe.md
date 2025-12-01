@@ -316,7 +316,7 @@ Directeur territorial adjoint de la sécurité de proximité de la Seine-Saint-D
 
 Préfecture de police-Direction de la police judiciaire :
 
-Sous-directeur chargé des affaires économiques et financières.
+Sous-directeur chargé des affaires Cyber et financières.
 
 Sous-directeur chargé des services territoriaux.
 
@@ -330,4 +330,4 @@ Conseiller technique chargé des affaires de police.
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 16 septembre 2025 (NOR : INTC2523229A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur à compter du 24 octobre 2025.
+Conformément à l’article 2 de l’arrêté du 27 octobre 2025 (NOR : INTC2526462A), ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur à compter du 1er décembre 2025.
