@@ -42,7 +42,7 @@ Direction générale des impôts :
 
 -inspecteurs-élèves des impôts programmeurs de système d'exploitation ;
 
--techniciens- géomètres-cadastreurs des finances publiques.
+-techniciens-géomètres-cadastreurs des finances publiques.
 
 Direction générale de la concurrence, de la consommation et de la répression des fraudes :
 
@@ -60,7 +60,7 @@ Direction générale de la concurrence, de la consommation et de la répression 
 
 Institut national de la statistique et des études économiques :
 
--administrateurs de l'Institut national de la statistique et des études économiques ;
+- ingénieurs de la statistique, de l'économie et de la donnée du 1er grade ;
 
 -attachés statisticiens de l'Institut national de la statistique et des études économiques ;
 
@@ -113,3 +113,7 @@ Etablissement public La Monnaie de Paris :
 -graveurs ;
 
 -ingénieurs d'exploitation.
+
+NOTA :
+
+Conformément à l'article 110 du décret n° 2025-822 du 12 août 2025, ces dispositions, dans leur rédaction issue de l'article 109 dudit décret, entrent en vigueur le 1er décembre 2025.

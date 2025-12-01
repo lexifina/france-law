@@ -70,7 +70,7 @@ Assistants et assistantes de service social.
 
 Ministère de l’économie, des finances et du budget
 
-Administrateurs de l'Institut national de la statistique et des études économiques
+Ingénieurs de la statistique, de l'économie et de la donnée du 1er grade
 
 Inspecteurs des douanes.
 
@@ -125,3 +125,7 @@ Ingénieurs de l’industrie et des mines.
 Ministère de la solidarité, de la santé et de la protection sociale
 
 Médecins inspecteurs de la santé.
+
+NOTA :
+
+Conformément à l'article 110 du décret n° 2025-822 du 12 août 2025, ces dispositions, dans leur rédaction issue de l'article 109 dudit décret, entrent en vigueur le 1er décembre 2025.

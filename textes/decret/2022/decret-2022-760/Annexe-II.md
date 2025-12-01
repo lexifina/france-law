@@ -6,7 +6,7 @@ Corps :
 
 -administrateurs de l'Etat ;
 
--administrateurs de l'Institut national de la statistique et des études économiques ;
+- ingénieurs de la statistique, de l'économie et de la donnée du 1er grade ;
 
 -architectes et urbanistes de l'Etat ;
 
@@ -79,3 +79,7 @@ Emplois :
 -emplois de directeur fonctionnel des services pénitentiaires d'insertion et de probation classés dans le second groupe de la 1re catégorie ;
 
 -emplois de directeur fonctionnel des services de greffe judiciaires du premier groupe.
+
+NOTA :
+
+Conformément à l'article 110 du décret n° 2025-822 du 12 août 2025, ces dispositions, dans leur rédaction issue de l'article 109 dudit décret, entrent en vigueur le 1er décembre 2025.
