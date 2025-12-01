@@ -84,6 +84,8 @@ Préparation aux concours administratifs français de l'Institut d'études polit
 
 Prep'ENA Paris1-ENS de l'université Paris I Panthéon-Sorbonne et de l'Ecole normale supérieure
 
+Parcours Talents mentionnés à l'annexe I de l'arrêté du 5 juillet 2024 fixant la liste des cycles de formation dénommés “ Parcours Talents ” préparant aux concours d'accès des corps techniques mentionnés à l'article 2 de l'ordonnance n° 58-1136 du 28 novembre 1958 et visant à renforcer la mixité sociale et géographique
+
 NOTA :
 
-Conformément à l’article 11 de l‘ordonnance n° 2021-702 du 2 juin 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 2 de l'arrêté du 21 novembre 2025 (NOR : CPPF2532650A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er décembre 2025.
