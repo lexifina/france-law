@@ -1,0 +1,9 @@
+# Réponse à la question n° 5656
+
+- Question : [5656](5656.md) — Question n° 5656 — Transports frigorifiques le week-end
+
+## Réponse
+
+*JO du 2025-12-02, page 9950*
+
+L'interdiction de circulation des poids-lourds de plus de 7,5 tonnes les veilles de dimanches et jours fériés à partir de 22h et ces journées, jusqu'à 22h, répond à des objectifs de sécurité routière, de protection des conducteurs routiers et de limitation des nuisances pour les autres usagers et riverains des routes. Cette interdiction générale connaît toutefois des exceptions justifiées par des enjeux sociaux, sécuritaires ou économiques essentiels à la vie du pays. La réglementation prévoit à cet égard des dérogations très limitées pour le transport de certaines marchandises telles que produits périssables, notamment dans des camions frigorifiques lorsque leur nature l'exige, à condition que leur quantité occupe au moins la moitié du chargement. Les circulations à vide sont également strictement encadrées. Cela répond à la nécessité d'assurer la continuité des chaînes logistiques de ces produits pour le bon approvisionnement de la population, partout en France, en limitant les pertes de marchandises. Ce cadre réglementaire est équilibré et il n'est pas envisagé pas de le modifier sur ce point. Des contrôles sont régulièrement effectués, y compris de manière coordonnée entre contrôleur des transports terrestres et forces de sécurité intérieure ou douane ; tout manquement constaté est puni d'une amende prévue pour les contraventions de la quatrième classe et peut faire l'objet en complément d'une immobilisation du véhicule. Ainsi sur l'année 2023, plus de 2 300 camions ont été verbalisés par les forces en tenue et par les contrôleurs des transports terrestres. La mobilisation des forces de sécurité intérieure, de la douane et des contrôleurs des transport terrestres permettra de poursuivre ces actions et de combattre les pratiques et organisations frauduleuses.
