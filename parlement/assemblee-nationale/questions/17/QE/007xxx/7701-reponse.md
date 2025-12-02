@@ -1,0 +1,9 @@
+# Réponse à la question n° 7701
+
+- Question : [7701](7701.md) — Question n° 7701 — Situation critique des caves coopératives viticoles en Occitanie
+
+## Réponse
+
+*JO du 2025-12-02, page 9768*
+
+Le Gouvernement a pleinement conscience des difficultés de la filière viticole, confrontée à une baisse structurelle de la consommation, en particulier en vin rouge, mais aussi face au changement climatique, aux incertitudes géopolitiques, commerciales, sanitaires. C'est pourquoi il s'est toujours mobilisé pour construire des dispositifs répondant aux difficultés rencontrées par les viticulteurs, en concertation avec leurs représentants et les demandes qu'ils portent. À cet égard, il est ainsi nécessaire de rappeler que le Gouvernement a été aux côtés de la filière face aux grandes difficultés rencontrées depuis 2020, avec plus d'un milliard d'euros de crédits publics dépensés pour la filière, tant pour les mesures conjoncturelles (distillation, stockage privé, fonds d'urgence, exonérations de cotisations sociales et patronales…) que structurelles (mesure d'arrachage). Pour ce qui concerne les caves coopératives, il convient de rappeler que celles-ci ou leurs associés-coopérateurs étaient éligibles à tout ou partie des aides déployées depuis 2020. À la suite des nombreux échanges avec les représentants des caves coopératives, il est aujourd'hui apparu indispensable de missionner les corps d'inspection du ministère chargé de l'agriculture afin que ses experts puissent les accompagner dans l'examen de la situation précise de ses organisations et la formulation des propositions de solutions les plus adaptées. Les experts chargés de cette mission ont d'ailleurs pu être présentés par la ministre lors de l'assemblée générale des caves coopératives le 3 juillet 2025. Le Gouvernement poursuit ainsi son action résolue pour appuyer l'ensemble des filières agricoles face aux difficultés qu'elles rencontrent.
