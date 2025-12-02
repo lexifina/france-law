@@ -1,0 +1,9 @@
+# Réponse à la question n° 7002
+
+- Question : [7002](7002.md) — Question n° 7002 — Situation alarmante au collège Lucie Aubrac de Montévrain (77144)
+
+## Réponse
+
+*JO du 2025-12-02, page 9837*
+
+La situation complexe du collège Lucie Aubrac de Montévrain a été suivie par le rectorat de Créteil qui en a informé le ministère dès le début de l'année 2024. Le rectorat a effectué un point de situation et pris les mesures nécessaires afin d'accompagner les personnels concernés qui ont été reçus à la direction des services départementaux de l'éducation nationale de Seine-et-Marne durant le second semestre de l'année scolaire 2024-2025. Les mesures mises en œuvre ont permis de rétablir un climat serein dans le collège. La cheffe d'établissement a également été reçue par la direction de l'académie et une affectation provisoire à l'année (AFA) lui a été accordée dès la pré-rentrée. Par la suite, une nouvelle cheffe d'établissement a été affectée sans délai au collège. La dizaine d'enseignants qui avaient sollicité des AFA pour la rentrée 2025 ont retiré leur demande et ont réintégré leur poste au collège. Par ailleurs, les services académiques dédiés à l'accompagnement des ressources humaines demeurent disponibles pour répondre aux difficultés que peuvent rencontrer les personnels. Il faut préciser toutefois que le rectorat de Créteil n'a plus été sollicité à ce titre depuis la rentrée scolaire 2025-2026. Conscient de leur investissement et de leur rôle primordial dans la réussite scolaire des élèves, le ministre accorde la plus grande attention à la situation des personnels lorsque des faits engendrant des difficultés interpersonnelles ou de la souffrance sont portés à la connaissance du ministère. L'ensemble des mesures mises en œuvre sont destinées à garantir un climat de travail serein et favorable pour les agents, reposant sur la confiance afin de garantir le bon fonctionnement des établissements et, plus largement, celui de l'éducation nationale.
