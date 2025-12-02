@@ -1,0 +1,9 @@
+# Réponse à la question n° 8965
+
+- Question : [8965](8965.md) — Question n° 8965 — Reconversion de zones agricoles
+
+## Réponse
+
+*JO du 2025-12-02, page 9805*
+
+La mise en œuvre de la mesure d'arrachage déployée depuis 2024 afin de réduire le potentiel viticole sur l'ensemble du territoire n'emporte aucune interdiction d'usages agricoles : les seules contraintes consistent dans la suppression des droits de plantation et replantation en possession du demandeur de l'aide, afin que la mesure atteigne l'effet recherché (à savoir réduire les surfaces plantées en vignes afin de rééquilibrer le marché du vin), laissant ainsi la possibilité de mettre en place d'autres productions agricoles soit par l'exploitant initialement en place soit par un autre exploitant qui accéderait de manière régulière à la maîtrise foncière des parcelles concernées. Au plan du droit de l'urbanisme, les règles de constructibilité sont dépendantes de l'existence ou non d'un document d'urbanisme et des éventuelles prescriptions applicables aux parcelles agricoles. Sous réserves de restrictions apportées par le plan local d'urbanisme exécutoire, la zone agricole peut autoriser en principe l'admission des installations et constructions qui sont nécessaires à une exploitation agricole. Ainsi cette possibilité est effectivement offerte à des pétitionnaires qui démontreraient une nécessité de disposer d'un nouveau bâtiment pour leur exploitation agricole. En raison du potentiel agronomique, biologique ou économique des terres et de leur rareté, les zones agricoles justifient une protection accrue. C'est la raison pour laquelle les possibilités d'y implanter des constructions y compris agricoles sont particulièrement encadrées afin de préserver le potentiel de production de ces espaces et qu'il n'est pas envisagé à ce jour de revoir leur régime applicable.
