@@ -1,0 +1,9 @@
+# Réponse à la question n° 8908
+
+- Question : [8908](8908.md) — Question n° 8908 — Substitution temporaire des mandataires judiciaires à la protection des majeurs
+
+## Réponse
+
+*JO du 2025-12-02, page 9913*
+
+La mesure de protection étant une charge personnelle (article 452 du code civil), la personne en charge de la mesure ne peut pas, en cas d'indisponibilité, faire intervenir un tiers à sa place pour protéger les intérêts de l'adulte vulnérable. Dans ce cas, le juge doit être saisi pour pouvoir procéder au changement de protecteur et ainsi éviter toute rupture de prise en charge. Pour faire suite à la recommandation du rapport de la mission interministérielle sur l'évolution de la protection juridique des personnes, remis à la garde des sceaux en 2018 (proposition n° 81), le Gouvernement a déposé, dans le cadre des travaux parlementaires sur la loi n° 2024-317 du 8 avril 2024 portant mesures pour bâtir la société du bien vieillir et de l'autonomie, un amendement permettant aux mandataires judiciaires à la protection des majeurs, en cas d'indisponibilité temporaire, de se faire substituer par un autre mandataire, à condition d'en avertir le juge. Le Gouvernement avait également déposé d'autres amendements pour mieux protéger les adultes vulnérables et leurs familles, comme l'extension de l'habilitation familiale, la création d'un mandat de protection future aux fins d'assistance, ou encore la possibilité de désigner un curateur ou tuteur de remplacement en cas de décès de la personne initialement désignée. Ces mesures n'ont été adoptées par le Parlement. Les services du ministère de la justice ont retravaillé, en lien avec les organisations représentatives des MJPM, les propositions non retenues dans la loi du 8 avril 2024 qui auront vocation, lorsqu'un vecteur législatif opportun sera identifié, à être de nouveau soumises à la représentation nationale.
