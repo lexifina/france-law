@@ -1,0 +1,9 @@
+# Réponse à la question n° 4433
+
+- Question : [4433](4433.md) — Question n° 4433 — Situation du groupe scolaire privé musulman Al-Kindi
+
+## Réponse
+
+*JO du 2025-12-02, page 9855*
+
+L'Etat reconnaît et respecte la liberté d'enseignement, principe fondamental reconnu par les lois de la République, l'enseignement privé (y compris hors contrat) ayant toute sa place en tant qu'il est complémentaire de l'enseignement public, en permettant notamment, pour ce qui est de l'enseignement privé confessionnel, de répondre au droit des parents de choisir pour leur enfant un enseignement qui intègre la dimension cultuelle qu'ils souhaitent. Cependant, cet enseignement est encadré par la loi et doit notamment être respectueux des principes fondamentaux de la République, en particulier lorsque l'établissement est sous contrat avec l'État, et donc financé par des fonds publics. En ce qui concerne les établissements Al Kindi, la décision de la préfète du Rhône, prise après contradictoire et consultation de la commission de concertation en matière d'enseignement privé de l'académie de Lyon, se fonde d'une part sur des manquements administratifs et financiers, et d'autre part sur des manquements pédagogiques graves et des atteintes aux principes de la République. En tant que ministère garant de la liberté de culte mais aussi chef de file de la lutte contre le séparatisme, une attention particulière est portée à ce dossier. Un recours ayant toutefois été formé par l'établissement, il convient de laisser à la Justice le soin d'en répondre, étant observé que le juge des référés du tribunal administratif de Lyon, statuant en formation collégiale, a d'ores et déjà considéré que les moyens d'annulation invoqués par les requérants n'étaient pas de nature à faire naître un doute sérieux sur la légalité de la décision.
