@@ -1,0 +1,9 @@
+# Réponse à la question n° 7705
+
+- Question : [7705](7705.md) — Question n° 7705 — Méthodes d'abattage rituel et bien-être animal
+
+## Réponse
+
+*JO du 2025-12-02, page 9769*
+
+Le règlement (CE) n° 1099/2009 du Conseil du 24 septembre 2009 sur la protection des animaux au moment de leur mise à mort, impose comme principe de base l'étourdissement des animaux avant leur abattage ou leur mise à mort. Toutefois, lorsque cette pratique n'est pas compatible avec les prescriptions rituelles relevant du libre exercice des cultes, le même règlement prévoit la possibilité de déroger à l'obligation d'étourdissement sous certaines conditions. Par ces dispositions, le Conseil a souhaité maintenir la dérogation à l'étourdissement des animaux préalablement à l'abattage, en laissant toutefois un certain degré de subsidiarité à chaque État membre. Le décret n° 2011-2006 du 28 décembre 2011 encadre les conditions de délivrance des autorisations permettant de déroger à l'obligation d'étourdissement des animaux pour motif religieux. L'abattage sans étourdissement doit notamment être effectué dans un abattoir agréé, après immobilisation de l'animal et en respectant l'ensemble des mesures en matière de bientraitance animale. De plus, en France et bien que non généralisé, certains sacrificateurs acceptent et pratiquent des étourdissements « post-jugulation » dits de soulagement, c'est-à-dire juste après l'égorgement. Le Gouvernement français reste attaché aux droits de tous les citoyens dans le cadre du respect des réglementations européenne et nationale en vigueur. C'est notamment pourquoi Mme la ministre chargée de l'agriculture a rappelé lors du salon de l'agriculture, son engagement pour la bientraitance animale et a indiqué souhaiter ouvrir une discussion avec les représentants des cultes pour évaluer les avancées possibles sur ce sujet.
