@@ -1,0 +1,9 @@
+# Réponse à la question n° 5313
+
+- Question : [5313](5313.md) — Question n° 5313 — Formation des accompagnants d'élèves en situation de handicap
+
+## Réponse
+
+*JO du 2025-12-02, page 9734*
+
+Le ministère chargé de l'agriculture fait de la formation des accompagnants d'élèves en situation de handicap (AESH) une priorité. Ainsi, dans l'enseignement agricole public et privé sous contrat, ces personnes bénéficient, pour celles qui n'ont pas de diplôme en lien avec le service à la personne, d'une formation obligatoire de 60 heures dispensée chaque année par l'école nationale supérieure de formation de l'enseignement agricole. Par ailleurs, dans le cadre de la formation continue des personnels, des formations nationales et régionales leur sont ouvertes. Le réseau national « Inclusion » du ministère est également chargé d'appuyer les autorités académiques et les établissements sur la question, en mettant à leur disposition des ressources relatives aux missions des AESH sur une plateforme dédiée AccessLab, co-construite avec des AESH volontaires. Dans sa forme actuelle, le baccalauréat professionnel spécialité « services aux personnes et animation dans les territoires (SAPAT) », délivré par le ministère chargé de l'agriculture, associe deux valences : une valence « services à la personne » et une valence « animation dans les territoires ». La proposition qui est faite de renforcer la spécialité « AESH » du baccalauréat professionnel SAPAT pourra être étudiée par la commission professionnelle consultative « cohésion sociale et santé », chargée d'examiner les projets de création, de révision ou de suppression de diplômes. La volonté de valoriser ces métiers essentiels et de garantir des parcours professionnels sécurisés est ainsi pleinement soutenue, afin que chaque élève en situation de handicap puisse bénéficier d'un accompagnement adapté, assuré par des professionnels formés et reconnus.
