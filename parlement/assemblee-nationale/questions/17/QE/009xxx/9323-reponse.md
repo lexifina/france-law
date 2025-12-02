@@ -1,0 +1,9 @@
+# Réponse à la question n° 9323
+
+- Question : [9323](9323.md) — Question n° 9323 — Examinateurs du permis de conduire
+
+## Réponse
+
+*JO du 2025-12-02, page 9876*
+
+L'examen du permis de conduire demeure le premier examen de France avec 1,8 million d'épreuves pratiques organisées en 2024 dont 1,6 million pour la catégorie B. Conscient des difficultés d'accès aux places, le Gouvernement a annoncé la création de 80 000 places d'examens supplémentaires d'ici fin 2025 et poursuit les recrutements d'inspecteurs : 88 inspecteurs ont été recrutés en 2024 par concours dont 38 postes supplémentaires et 108 en 2 concours en 2025. 10 postes supplémentaires seront créés dès 2026. Ces mesures visent à réduire les délais, en particulier dans les départements en tension. En augmentant ainsi la capacité d'examen, le Gouvernement entend faciliter l'accès à ce passage crucial dans certains territoires. Dans chaque département où le délai médian dépasse 80 jours, un comité de suivi sera instauré sous l'autorité du préfet, afin d'adapter localement la production de places. Des inspecteurs retraités pourront également être mobilisés pour renforcer ponctuellement les effectifs. Ainsi, votre département, où le délai médian atteint 120 jours, bénéficiera de cette démarche collaborative. Cette instance aura pour mission d'accompagner efficacement les acteurs locaux afin de répondre au mieux aux attentes des usagers. Par ailleurs, les autres indicateurs relatifs au permis de conduire dans le Territoire de Belfort sont dans la moyenne actuelle et sont suivis attentivement. Ainsi, le taux de réussite annualisé pour le mois d'août 2025 s'établit à 60,95 %, soit un niveau supérieur au taux moyen national (58,32 %). Le Gouvernement demeure pleinement mobilisé pour améliorer l'accès à l'examen du permis de conduire et réduire les délais d'attente, en tenant compte des spécificités territoriales.
