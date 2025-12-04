@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250203399
+
+- Question : [SEQ250203399](seq250203399.md) — Renforcement des dispositifs de soutien au financement du développement agricole
+
+## Réponse
+
+*Agriculture, agro-alimentaire et souveraineté alimentaire, JO du 2025-12-04, page 5922*
+
+Le pacte d'orientation pour le renouvellement des générations en agriculture a notamment permis, au travers d'un article en loi de finances initiales (2024), de relancer l'Initiative nationale pour l'agriculture française (INAF), instrument de garantie venant couvrir un portefeuille de prêts (investissement). En effet, forts des excellents résultats d'une première phase qui a permis de construire un portefeuille de 1,1 milliard d'euros (Mdeuros), soit près de 8 600 prêts à plus de 5 000 agriculteurs et de catalyser 2,8 Mdseuros d'investissements au total (cofinancement et autofinancement), le ministère chargé de l'agriculture et le fonds européen d'investissement (FEI) ont décidé d'amplifier leur soutien à l'investissement agricole. Concrètement, la réactivation de ce dispositif se traduit par une amplification des moyens (enveloppe supplémentaire de 2 Mdseuros) en faveur de projets d'investissement visant à favoriser l'installation, sans discrimination d'âge du nouvel installé. Cet instrument financier innovant permet ainsi de garantir des prêts aux exploitations agricoles (quotité de 80 % de l'encours de chaque prêt) afin de faciliter leur octroi par les banques et d'obtenir des conditions plus avantageuses (taux d'intérêt inférieur au taux du marché, gratuité des frais de dossier), tout en sécurisant l'agriculteur en cas de défaillance, en évitant d'hypothéquer les biens personnels ou familiaux. Les grandes orientations stratégiques de l'INAF sont de soutenir de manière ciblée la montée en gamme, la création de valeur ajoutée et la transformation des systèmes de production, le renouvellement des générations constituant un objectif transverse.
