@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250203403
+
+- Question : [SEQ250203403](seq250203403.md) — Reconnaissance d'organisations de producteurs au sein de la filière vitivinicole
+
+## Réponse
+
+*Agriculture, agro-alimentaire et souveraineté alimentaire, JO du 2025-12-04, page 5923*
+
+La structuration des filières agricoles, au moyen de la reconnaissance des organisations de producteurs (OP) ou de leurs associations, est une priorité du Gouvernement. Pour ce qui concerne plus particulièrement la filière viticole, et depuis la modification de l'organisation commune de marché [OCM- règlement (UE) n° 1308/2013] en 2013, il n'existe à ce jour pas de base règlementaire nationale permettant de reconnaître de nouvelles OP dans ce secteur. En effet, les discussions successives engagées depuis cette période, pour établir cette base réglementaire permettant de constituer des critères de reconnaissance des OP du secteur viticole, en conformité avec l'OCM [règlement (UE) n° 1308/2013], n'ont pas pu aboutir faute de consensus entre les acteurs de la filière. Le sujet revêt un caractère relativement complexe pour la filière viticole qui se caractérise par une grande hétérogénéité des modes d'organisation, des circuits de commercialisation et par une diversité des acteurs au sein de la filière, qui rendent plus complexe l'émergence d'un consensus relatif à la structuration en OP. Or l'établissement d'une position commune et concertée au sein de la profession demeure en tout état de cause un préalable indispensable à la publication d'un texte réglementaire définissant les conditions de cette structuration. Par conséquent, ce sujet devra continuer à être travaillé entre les représentants de la filière viticole afin de pouvoir trouver une base commune permettant la reconnaissance d'OP dans ce secteur. La ministre chargée de l'agriculture a dit sa disponibilité pour que ses services et son cabinet organisent une discussion approfondie sur ce point entre les parties.
