@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250605223
+
+- Question : [SEQ250605223](seq250605223.md) — Caractère non lucratif des associations environnementales spécialistes de la haie champêtre
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle, énergétique et numérique, JO du 2025-12-04, page 5948*
+
+En application des dispositions du 1 de l'article 206 du code général des impôts (CGI), les associations ne sont imposables à l'impôt sur les sociétés (IS) que lorsqu'elles se livrent à une exploitation ou à des opérations de caractère lucratif. Les critères généraux d'appréciation du caractère lucratif des activités d'une association sont précisés par la doctrine, dans le Bulletin officiel des finances publiques (BOFIP-Impôts) sous la référence BOI-IS-CHAMP-10-50-10-20. Commune aux trois impôts commerciaux (IS, contribution économique territoriale, TVA), cette doctrine découle des dispositions combinées des articles 206 et 1447 du CGI et du b) du 1° du 7 de l'article 261 du même code et de la jurisprudence du Conseil d'État. Elle suppose une analyse au cas par cas des activités des associations. Cette analyse porte sur le caractère désintéressé ou non de la gestion de l'organisme, sur la situation de l'organisme au regard de la concurrence, notamment les conditions d'exercices de l'activité au regard de la règle dite des « 4 P » (Prix, Produit, Public, Publicité) et sur l'existence de relations privilégiées avec des entreprises. Ainsi, il ne peut être confirmé qu'en toute hypothèse, les activités des associations environnementales spécialistes de la haie champêtre revêtent un caractère non lucratif. Seule une analyse au cas par cas des activités de chacune de ces associations permettra de conclure à son caractère lucratif ou non. Ces associations sont donc invitées à se rapprocher des services de la direction générale des finances publiques si elles souhaitent obtenir un examen de leur situation fiscale.
