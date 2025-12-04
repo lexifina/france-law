@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250605131
+
+- Question : [SEQ250605131](seq250605131.md) — Obligation d'adhésion à la fédération des chasseurs dans le cadre d'un plan de gestion sanglier départemental
+
+## Réponse
+
+*Transition écologique, JO du 2025-12-04, page 5989*
+
+L'article L. 421-8 du code de l'environnement prévoit que la fédération départementale des chasseurs regroupe notamment les personnes physiques ou morales titulaires de droits de chasse sur des terrains situés dans le département et bénéficiaires d'un plan de chasse ou d'un plan de gestion pour tout ou partie de ces terrains. Lorsqu'un plan de gestion cynégétique s'applique uniformément à l'ensemble du territoire départemental, comme c'est le cas en Isère pour le sanglier, une question se pose quant à l'obligation d'adhésion à la fédération pour tous les titulaires de droits de chasse, y compris ceux ne pratiquant pas cette chasse spécifique. À cet égard, il convient de rappeler que la validation du permis de chasser est subordonnée, en application de l'article L. 423-13 du code de l'environnement, à l'adhésion à une fédération départementale des chasseurs et au paiement des cotisations afférentes. La validation annuelle du permis étant requise pour que celui-ci soit valable, toute personne pratiquant effectivement la chasse dans un département est tenue d'adhérer à la fédération, indépendamment du gibier concerné. En revanche, les propriétaires détenteurs d'un droit de chasse ne pratiquant pas la chasse ne sont pas tenus de valider un permis de chasser, ni donc d'adhérer à une fédération. Le caractère généralisé d'un plan de gestion départemental ne saurait suffire, en lui-même, à fonder une obligation d'adhésion pour les titulaires de droits de chasse qui n'exercent pas la chasse. L'adhésion à la fédération départementale des chasseurs ne peut donc être imposée à l'ensemble des titulaires de droits de chasse.
