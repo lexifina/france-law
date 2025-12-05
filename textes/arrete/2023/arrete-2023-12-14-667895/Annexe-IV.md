@@ -66,25 +66,25 @@ II. 2. Dispenses d'unités
 
 U1-Culture générale et expression
 
-Les candidats à l'examen d'une spécialité de brevet de technicien supérieur, titulaires d'un brevet de technicien supérieur d'une autre spécialité, d'un diplôme universitaire de technologie ou d'un diplôme national de niveau 5 ou supérieur sont, à leur demande, dispensés de subir l'unité de &laquo; Culture générale et expression &raquo;.
+Les candidats à l'examen d'une spécialité de brevet de technicien supérieur, titulaires d'un brevet de technicien supérieur d'une autre spécialité, d'un diplôme universitaire de technologie ou d'un diplôme national de niveau 5 ou supérieur sont, à leur demande, dispensés de subir l'unité de Culture générale et expression .
 
-Les bénéficiaires de l'unité de &laquo; Français &raquo;, &laquo; Expression française &raquo; ou de &laquo; Culture générale et expression &raquo; au titre d'une autre spécialité de BTS sont, à leur demande, pendant la durée de validité du bénéfice, dispensés des épreuves correspondant à l'unité U1 &laquo; Culture générale et expression &raquo;.
+Les bénéficiaires de l'unité de Français , Expression française ou de Culture générale et expression au titre d'une autre spécialité de BTS sont, à leur demande, pendant la durée de validité du bénéfice, dispensés des épreuves correspondant à l'unité U1 Culture générale et expression .
 
 U2-Langue vivante étrangère 1 : Anglais
 
-L'unité U2 &laquo; Langue vivante étrangère 1 : Anglais &raquo; du brevet de technicien supérieur Aéronautique et l'unité de &laquo; Langue vivante étrangère 1 &raquo; des brevets de technicien supérieur relevant de l'arrêté du 22 juillet 2008 (BOESR n° 32 du 28 août 2008) modifié sont communes.
+L'unité U2 Langue vivante étrangère 1 : Anglais du brevet de technicien supérieur Aéronautique et l'unité de Langue vivante étrangère 1 des brevets de technicien supérieur relevant de l'arrêté du 22 juillet 2008 (BOESR n° 32 du 28 août 2008) modifié sont communes.
 
-Les bénéficiaires de l'unité &laquo; Langue vivante étrangère 1 &raquo; au titre de l'une des spécialités susmentionnées sont, à leur demande, dispensés de l'unité U2 &laquo; Langue vivante étrangère 1 : Anglais &raquo; sous réserve que les candidats aient choisi l'anglais.
+Les bénéficiaires de l'unité Langue vivante étrangère 1 au titre de l'une des spécialités susmentionnées sont, à leur demande, dispensés de l'unité U2 Langue vivante étrangère 1 : Anglais sous réserve que les candidats aient choisi l'anglais.
 
-D'autre part, les titulaires d'un diplôme national de niveau 5 ou supérieur, ayant été évalués en Anglais pour obtenir ce diplôme, sont, à leur demande, dispensés de subir l'unité U2 : &laquo; Langue vivante étrangère 1 : Anglais &raquo; du brevet de technicien supérieur Aéronautique.
+D'autre part, les titulaires d'un diplôme national de niveau 5 ou supérieur, ayant été évalués en Anglais pour obtenir ce diplôme, sont, à leur demande, dispensés de subir l'unité U2 : Langue vivante étrangère 1 : Anglais du brevet de technicien supérieur Aéronautique.
 
 U3-Mathématiques
 
-L'unité U3 &laquo; Mathématiques &raquo; du brevet de technicien supérieur Aéronautique peut être commune à l'unité de mathématiques d'autres spécialités du brevet de technicien supérieur.
+L'unité U3 Mathématiques du brevet de technicien supérieur Aéronautique peut être commune à l'unité de mathématiques d'autres spécialités du brevet de technicien supérieur.
 
 Les bénéficiaires de l'unité de mathématiques au titre de l'une des spécialités susmentionnées qui souhaitent faire acte de candidature à une autre de ces spécialités sont, à leur demande, pendant la durée de validité du bénéfice, dispensés de subir l'unité de mathématiques.
 
-D'autre part, les titulaires d'un diplôme national scientifique ou technologique de niveau 5 ou supérieur, ayant été évalués en mathématiques pour obtenir ce diplôme, sont, à leur demande, dispensés de subir l'unité U3 &laquo; Mathématiques &raquo; du brevet de technicien supérieur Aéronautique.
+D'autre part, les titulaires d'un diplôme national scientifique ou technologique de niveau 5 ou supérieur, ayant été évalués en mathématiques pour obtenir ce diplôme, sont, à leur demande, dispensés de subir l'unité U3 Mathématiques du brevet de technicien supérieur Aéronautique.
 
 II. 3. Règlement d'examen
 
@@ -438,7 +438,7 @@ Le candidat répond de manière nuancée et argumentée à des questions (entre 
 
 Deuxième partie : essai (partie notée sur 10 points)
 
-Deux sujets d'essai sont proposés aux candidats. Ces sujets sont en rapport avec le thème inscrit au programme de la deuxième année de STS. Les candidats choisissent l'un des deux et le traitent de manière argumentée et nuancée, en s'appuyant notamment sur leurs connaissances personnelles, sur le corpus proposé dans le sujet ainsi que sur les lectures effectuées et les contenus d'enseignement découverts en cours de &laquo; culture générale et expression &raquo;.
+Deux sujets d'essai sont proposés aux candidats. Ces sujets sont en rapport avec le thème inscrit au programme de la deuxième année de STS. Les candidats choisissent l'un des deux et le traitent de manière argumentée et nuancée, en s'appuyant notamment sur leurs connaissances personnelles, sur le corpus proposé dans le sujet ainsi que sur les lectures effectuées et les contenus d'enseignement découverts en cours de culture générale et expression .
 
 Contrôle en cours de formation
 
@@ -624,7 +624,7 @@ Epreuve orale d'une durée de 1 heure et 35 minutes :
 
 - entretien du candidat avec le jury : 20 minutes maximum.
 
-La commission d'évaluation est composée d'un professeur de mathématiques enseignant de préférence en section de techniciens supérieurs &laquo; Aéronautique &raquo;.
+La commission d'évaluation est composée d'un professeur de mathématiques enseignant de préférence en section de techniciens supérieurs Aéronautique .
 
 Les sujets proposés aux candidats doivent être élaborés en amont par les professeurs interrogateurs, sous le contrôle des IA-IPR de mathématiques. Leur résolution peut, sur une ou deux questions, nécessiter ou évoquer une utilisation de logiciels (implantés sur ordinateur ou calculatrice).
 
@@ -730,7 +730,7 @@ Il n'est pas nécessaire d'organiser cette situation d'évaluation dans un labor
 
 Seconde situation d'évaluation : durée 1 h 50
 
-Cette situation d'évaluation est organisée en fin de deuxième semestre de la deuxième année de formation. Elle se déroule dans un laboratoire de physique-chimie. Pour cette situation, la compétence &laquo; Réaliser &raquo; est évaluée dans toutes ses dimensions, y compris dans la dimension expérimentale.
+Cette situation d'évaluation est organisée en fin de deuxième semestre de la deuxième année de formation. Elle se déroule dans un laboratoire de physique-chimie. Pour cette situation, la compétence Réaliser est évaluée dans toutes ses dimensions, y compris dans la dimension expérimentale.
 
 La situation d'évaluation s'appuie sur une ou deux thématiques en lien avec le contexte professionnel du BTS Aéronautique. Le sujet teste notamment la capacité du candidat à élaborer un protocole expérimental approprié à la résolution des questions posées. En cours d'épreuve, des échanges sont prévus avec l'examinateur.
 
@@ -914,7 +914,7 @@ L'organisation de l'épreuve est définie dans la circulaire nationale d'organis
 
 Au cours de l'épreuve orale, le candidat expose durant vingt minutes maximum la démarche d'organisation de l'activité et de lancement qu'il aura proposée ainsi que les améliorations possibles sans être interrompu par la commission d'interrogation. Au terme de cette prestation, la commission d'interrogation conduit un entretien de vingt-cinq minutes maximum avec le candidat afin de préciser ou d'approfondir les points d'études attendus.
 
-Pour les candidats individuels ou issus d'établissements privés hors contrat ou non habilités, l'épreuve a les mêmes objectifs d'évaluation des compétences C21, C22 et C23. Elle s'appuie sur un dossier numérique fourni au candidat huit semaines avant l'épreuve ; cette date est fixée par la circulaire d'organisation de l'examen. L'épreuve se déroule dans un centre d'examen désigné par l'autorité académique.
+Pour les candidats individuels, l'épreuve a les mêmes objectifs d'évaluation des compétences C21, C22 et C23. Elle s'appuie sur un dossier numérique fourni au candidat huit semaines avant l'épreuve ; cette date est fixée par la circulaire d'organisation de l'examen. L'épreuve se déroule dans un centre d'examen désigné par l'autorité académique.
 
 ÉPREUVE E7
 
@@ -1058,13 +1058,13 @@ Epreuve orale, 20 minutes sans préparation.
 
 Objectifs
 
-Cette épreuve vise à identifier les compétences, connaissances et aptitudes acquises par le candidat dans l'exercice des activités mentionnées à l'article L. 611-9 du code de l'éducation et qui relèvent de celles prévues par le référentiel d'évaluation de la spécialité du diplôme de brevet de technicien supérieur pour laquelle le candidat demande sa reconnaissance &laquo; engagement étudiant &raquo;.
+Cette épreuve vise à identifier les compétences, connaissances et aptitudes acquises par le candidat dans l'exercice des activités mentionnées à l'article L. 611-9 du code de l'éducation et qui relèvent de celles prévues par le référentiel d'évaluation de la spécialité du diplôme de brevet de technicien supérieur pour laquelle le candidat demande sa reconnaissance engagement étudiant .
 
 Cela peut concerner :
 
-- l'approfondissement des compétences évaluées à l'épreuve obligatoire E5 &laquo; Industrialisation de la production ou de la maintenance des aéronefs &raquo; ;
+- l'approfondissement des compétences évaluées à l'épreuve obligatoire E5 Industrialisation de la production ou de la maintenance des aéronefs ;
 
-- le développement de compétences spécifiques à un domaine ou à une activité professionnelle particulière en lien avec le référentiel du diplôme et plus particulièrement s'agissant des compétences évaluées dans l'épreuve obligatoire E5 &laquo; Industrialisation de la production ou de la maintenance des aéronefs &raquo;.
+- le développement de compétences spécifiques à un domaine ou à une activité professionnelle particulière en lien avec le référentiel du diplôme et plus particulièrement s'agissant des compétences évaluées dans l'épreuve obligatoire E5 Industrialisation de la production ou de la maintenance des aéronefs .
 
 Cette épreuve est rattachée à l'unité U5 de l'épreuve E5.
 
