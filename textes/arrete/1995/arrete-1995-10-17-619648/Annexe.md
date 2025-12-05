@@ -1,12 +1,14 @@
 # Article Annexe
 
+NOMENCLATURES DES RISQUES MENTIONNÉES AUX ARTICLES D. 242-6-1 ET D. 242-29 DU CODE DE LA SÉCURITÉ SOCIALE
+
+INDUSTRIES DE LA MÉTALLURGIE |
+
 CATÉGORIE DE RISQUE |
 
 CODE RISQUE |
 
 |
-
-INDUSTRIES DE LA MÉTALLURGIE |
 
 Fonderie de fonte, d'acier moulé ou de fonte malléable. Fabrication de fonte, d'acier, d'articles ou tubes en fonte. Fabrication de radiateurs, de chaudières pour le chauffage central, la cuisine. |
 
@@ -198,6 +200,12 @@ Dépannage, remorquage de véhicules automobiles (sans atelier de réparation et
 
 INDUSTRIES DU BÂTIMENT ET DES TRAVAUX PUBLICS |
 
+CATÉGORIE DE RISQUE |
+
+CODE RISQUE |
+
+|
+
 Salariés occupant des fonctions supports de nature administrative dans des entreprises du BTP. |
 
 00. 00A |
@@ -258,6 +266,12 @@ Travaux d'isolation, travaux de finitions (travaux d'aménagements intérieurs).
 
 |
 
+Ateliers des entreprises du bâtiment et des travaux publics relevant du CTN B et rattachées aux numéros de risque 45. 2BE, 45. 2JD, 45. 3AF, 45. 4CE et 45. 4LE. |
+
+45. 4MC |
+
+|
+
 Entretien, réparation, location et montage de matériel pour le bâtiment et les travaux publics. |
 
 45. 5ZB |
@@ -291,6 +305,12 @@ TC |
 (1) Les activités de bâtiment gros œuvre et de travaux publics sont identifiées sous les numéros de risques suivants : 45. 1AA, 45. 2BE, 45. 2CD, 45. 2ED, 45. 2PB |
 
 INDUSTRIES DES TRANSPORTS, DE L'EAU, DU GAZ, DE L'ÉLECTRICITÉ, DU LIVRE ET DE LA COMMUNICATION |
+
+CATÉGORIE DE RISQUE |
+
+CODE RISQUE |
+
+|
 
 Édition, imprimerie. Reprographie et activités connexes (reliure, dorure main, affiches, composition, photocomposition, gravure et photogravure). Routage. |
 
@@ -532,19 +552,25 @@ Attractions foraines avec et sans montage de manèges ou de chapiteaux (5), et a
 
 |
 
-(1) Ce tarif vise l'ensemble du personnel des industries électriques et gazières, y compris le personnel de la Compagnie parisienne de chauffage urbain.
+(1) Ce tarif vise l'ensemble du personnel des industries électriques et gazières, y compris le personnel de la Compagnie parisienne de chauffage urbain. |
 
-(2) La fabrication d'affiches peintes et d'enseignes (pose exclue) relève des industries du livre (risque 22. 2CD) : la pose desdites affiches et enseignes ainsi que la publicité par affiches peintes directement sur les murs relèvent des industries du bâtiment (n° 45. 4LE).
+(2) La fabrication d'affiches peintes et d'enseignes (pose exclue) relève des industries du livre (risque 22. 2CD) : la pose desdites affiches et enseignes ainsi que la publicité par affiches peintes directement sur les murs relèvent des industries du bâtiment (n° 45. 4LE). |
 
-(3) Y compris la décoration sur émail, sur faïence et sur porcelaine (non annexée à une fabrique).
+(3) Y compris la décoration sur émail, sur faïence et sur porcelaine (non annexée à une fabrique). |
 
-(4) Le sportif qui pratique professionnellement plus d'une discipline sportive est classé avec celui des sports exercés qui présente le taux de risque le plus élevé.
+(4) Le sportif qui pratique professionnellement plus d'une discipline sportive est classé avec celui des sports exercés qui présente le taux de risque le plus élevé. |
 
-(5) Sous cette rubrique sont également compris les cirques ambulants, les ménageries et toutes attractions mues par la force motrice, mécanique ou électrique.
+(5) Sous cette rubrique sont également compris les cirques ambulants, les ménageries et toutes attractions mues par la force motrice, mécanique ou électrique. |
 
 (6) Y compris bal, dancing, patinage, curiosités naturelles, spectacles son et lumière, parcs zoologiques, parc d'attractions et de loisirs. |
 
 SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION |
+
+CATÉGORIE DE RISQUE |
+
+CODE RISQUE |
+
+|
 
 Cultures et élevage dans les départements d'outre-mer. |
 
@@ -705,6 +731,12 @@ Chimie expert. Laboratoires de recherches chimiques. |
 |
 
 INDUSTRIES DU BOIS, DE L'AMEUBLEMENT, DU PAPIER-CARTON, DU TEXTILE, DU VÊTEMENT, DES CUIRS ET DES PEAUX ET DES PIERRES ET TERRES À FEU |
+
+CATÉGORIE DE RISQUE |
+
+CODE RISQUE |
+
+|
 
 Extraction et préparation de matériaux issus des carrières de roches meubles ou massives. |
 
@@ -880,11 +912,17 @@ Blanchisserie et teinturerie de détail, y compris laverie automatique. |
 
 |
 
-(1) Cette livraison peut comporter la manutention du béton, au moyen de pompes et canalisations, jusqu'aux coffrages. Les entreprises de préparation et de livraison de béton prêt à l'emploi, avec mise en œuvre de ce béton, relèvent du comité technique national des industries du bâtiment et des travaux publics.
+(1) Cette livraison peut comporter la manutention du béton, au moyen de pompes et canalisations, jusqu'aux coffrages. Les entreprises de préparation et de livraison de béton prêt à l'emploi, avec mise en œuvre de ce béton, relèvent du comité technique national des industries du bâtiment et des travaux publics. |
 
 (2) La location de linge seule relève du comité technique national des commerces non alimentaires. |
 
 COMMERCES NON ALIMENTAIRES |
+
+CATÉGORIE DE RISQUE |
+
+CODE RISQUE |
+
+|
 
 Commerce et location de véhicules automobiles et d'équipements associés, de machines et équipements agricoles. Ecoles de conduite. Exploitation de parkings. |
 
@@ -1010,6 +1048,12 @@ Location de biens de consommation (mobiliers, linges, bâches, sacs, etc.) et d'
 
 ACTIVITÉS DE SERVICES I |
 
+CATÉGORIE DE RISQUE |
+
+CODE RISQUE |
+
+|
+
 Organismes et auxiliaires financiers-Bourse de commerce. |
 
 65. 1AB |
@@ -1052,7 +1096,7 @@ Holdings. Cabinets de conseils en information et documentation. Cabinets d'étud
 
 |
 
-Cabinets d'études techniques : agences de brevets, expertises, expertises en oeuvre d'art.-Expert chargé d'évaluer les dommages (ou les risques). |
+Cabinets d'études techniques : agences de brevets, expertises, expertises en œuvre d'art.-Expert chargé d'évaluer les dommages (ou les risques). |
 
 74. 2CB |
 
@@ -1119,6 +1163,12 @@ Activités des organisations consulaires et patronales, des organisations profes
 TC |
 
 ACTIVITÉS DE SERVICES II |
+
+CATÉGORIE DE RISQUE |
+
+CODE RISQUE |
+
+|
 
 Personnel permanent des entreprises de travail temporaire. (1) |
 
@@ -1292,13 +1342,23 @@ Services personnels divers (y compris cabinets de graphologie, agences matrimoni
 
 Le taux du numéro de risque 74. 5BD est applicable aux établissements occupant, soit uniquement du personnel pour tous autres travaux, soit simultanément du personnel pour tous autres travaux et/ ou du personnel pour travaux de bureau et/ ou du personnel paramédical.
 
-Le taux du numéro de risque 74. 5BE est applicable aux établissements occupant exclusivement du personnel affecté à des travaux de bureau ou paramédical ou ces deux catégories de personnel.
+Le taux du numéro de risque 74. 5BE est applicable aux établissements occupant exclusivement du personnel affecté à des travaux de bureau ou paramédical ou ces deux catégories de personnel. |
 
-(2) Y compris les crèches, garderies, centres aérés et de loisirs … à l'exclusion des structures et colonies de vacances mentionnées à la catégorie de risque 55. 2EC.
+(2) Y compris les crèches, garderies, centres aérés et de loisirs … à l'exclusion des structures et colonies de vacances mentionnées à la catégorie de risque 55. 2EC. |
 
 (3) Y compris les entreprises qui, à titre accessoire, effectuent le travail du bois et du marbre. |
 
-CATÉGORIES DE TRAVAILLEURS MENTIONNÉES AU DERNIER ALINÉA DE L'ARTICLE D 242-6-22 ET AU DERNIER ALINÉA DE L'ARTICLE D. 242-40 DU CODE DE LA SÉCURITÉ SOCIALE |
+CATÉGORIES DE TRAVAILLEURS MENTIONNÉES AU DERNIER ALINÉA DE L'ARTICLE D. 242-6-22
+
+ET AU DERNIER ALINÉA DE L'ARTICLE D. 242-40 DU CODE DE LA SÉCURITÉ SOCIALE
+
+|
+
+CATÉGORIE DE RISQUE |
+
+CODE RISQUE |
+
+|
 
 Voyageurs de commerce, représentants, placier non exclusif (au service de plusieurs employeurs). |
 
@@ -1312,7 +1372,7 @@ Salariés d'un employeur ne comportant pas d'établissement en France, mentionn�
 
 TC |
 
-Vendeurs colporteurs de presse, porteurs de presse mentionnés à l' article L. 311-3 (18°) du code de la sécurité sociale . |
+Vendeurs colporteurs de presse, porteurs de presse mentionnés à l'article L. 311-3 (18°) du code de la sécurité sociale. |
 
 52. 4RB |
 
@@ -1349,6 +1409,12 @@ Toute personne effectuant des travaux de courte durée pour le compte de particu
 TC |
 
 CATÉGORIES DE PERSONNELS MENTIONNÉES AU III DE L'ARTICLE 1ER DU PRÉSENT ARRÊTÉ |
+
+CATÉGORIE DE RISQUE |
+
+CODE RISQUE |
+
+|
 
 Salariés occupant des fonctions supports de nature administrative dans des entreprises relevant de branches professionnelles autres que celles du BTP |
 
