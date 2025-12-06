@@ -10,13 +10,13 @@ BTS MECP option Management
 
 défini par le présent arrêté |
 
-EPREUVES |
+ÉPREUVES |
 
-UNITES |
+UNITÉS |
 
-EPREUVES |
+ÉPREUVES |
 
-UNITES |
+UNITÉS |
 
 E1 Langue vivante étrangère A |
 
@@ -66,10 +66,6 @@ E5 Conseil et expertise scientifiques et technologiques (spécifique option mana
 
 Unité U5-A |
 
-|
-
-|
-
 E6 Soutenance du projet (spécifique option management) |
 
 Unité U6 |
@@ -102,13 +98,13 @@ BTS MECP option Formation-marques
 
 défini par le présent arrêté |
 
-EPREUVES |
+ÉPREUVES |
 
-UNITES |
+UNITÉS |
 
-EPREUVES |
+ÉPREUVES |
 
-UNITES |
+UNITÉS |
 
 E1 Langue vivante étrangère A |
 
@@ -158,10 +154,6 @@ E5 Conseil et expertise scientifiques et technologiques (spécifique option form
 
 Unité U5-B |
 
-|
-
-|
-
 E6 Soutenance du projet (spécifique option formation-marques) |
 
 Unité U6 |
@@ -194,13 +186,13 @@ BTS MECP option Cosmétologie
 
 défini par le présent arrêté |
 
-EPREUVES |
+ÉPREUVES |
 
-UNITES |
+UNITÉS |
 
-EPREUVES |
+ÉPREUVES |
 
-UNITES |
+UNITÉS |
 
 E1 Langue vivante étrangère A |
 
@@ -250,10 +242,6 @@ E5 Conseil et expertise scientifiques et technologiques (spécifique option cosm
 
 Unité U5-C |
 
-|
-
-|
-
 E6 Soutenance du projet (spécifique option management) |
 
 Unité U6 |
@@ -277,3 +265,7 @@ Unité UF2 |
 EF2 Engagement étudiant |
 
 Unité UF2 |
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 21 novembre 2025 (NOR : ESRS2532830A), ces dispositions s'appliquent à compter de la session d'examen 2025.
