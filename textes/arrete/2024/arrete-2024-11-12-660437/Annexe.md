@@ -1,62 +1,60 @@
 # Article Annexe
 
-ANNEXE
-
 LISTES DES 10 MÉTIERS (CLASSÉS PAR ORDRE ALPHABÉTIQUE) QUI CONNAISSENT LES BESOINS LES PLUS IMPORTANTS DE RECRUTEMENT DE LEUR RÉGION EN RAISON D'UN MANQUE DE PERSONNES FORMÉES
 
-Source : " Les tensions sur le marché du travail en 2022, enquête DARES - France Travail, décembre 2023 ".
+Source : " Les tensions sur le marché du travail en 2023, enquête DARES-France Travail, avril 2025 ".
 
 Région : Auvergne-Rhône-Alpes :
 
 1 |
 
-Dessinateurs en bâtiment et en travaux publics |
+Agents de maîtrise et assimilés en fabrication mécanique |
 
 2 |
 
-Dessinateurs en électricité et en électronique |
+Dentistes |
 
 3 |
 
-Dessinateurs en mécanique et travail des métaux |
+Experts et consultants en systèmes d'information |
 
 4 |
 
-Géomètres |
+Médecins |
 
 5 |
 
-Ingénieurs du bâtiment et des travaux publics, chefs de chantier et conducteurs de travaux (cadres) |
+Ouvriers qualifiés en conduite d'équipement d'usinage |
 
 6 |
 
-Ingénieurs et cadres d'étude, recherche et développement en informatique, chefs de projets informatiques |
+Techniciens du dessin industriel |
 
 7 |
 
-Ouvriers qualifiés travaillant par enlèvement de métal |
+Techniciens et agents de maîtrise des services financiers ou comptables |
 
 8 |
 
-Régleurs |
+Techniciens et agents de maîtrise en maintenance électrique, électronique et automatismes |
 
 9 |
 
-Techniciens en électricité et en électronique |
+Techniciens et agents de maîtrise en maintenance générale et mécanique industrielle |
 
 10 |
 
-Techniciens en mécanique et travail des métaux |
+Techniciens, agents de maîtrise et assimilés en électricité et en électronique |
 
 Région : Bourgogne-Franche-Comté :
 
 1 |
 
-Cadres techniques de la maintenance et de l'environnement |
+Agents de maîtrise et assimilés en fabrication mécanique |
 
 2 |
 
-Chefs de chantier, conducteurs de travaux (non cadres) |
+Cadres des études BTP, des études géologiques, du métré de la construction et du contrôle et diagnostic technique du BTP |
 
 3 |
 
@@ -64,241 +62,241 @@ Dessinateurs en bâtiment et en travaux publics |
 
 4 |
 
-Infirmiers |
+Employés et techniciens commerciaux de la banque |
 
 5 |
 
-Ingénieurs du bâtiment et des travaux publics, chefs de chantier et conducteurs de travaux (cadres) |
+Experts et consultants en systèmes d'information |
 
 6 |
 
-Ingénieurs et cadres d'étude, recherche et développement en informatique, chefs de projets informatiques |
+Médecins |
 
 7 |
 
-Régleurs |
+Techniciens et agents de maîtrise des services financiers ou comptables |
 
 8 |
 
-Techniciens des services comptables et financiers |
+Techniciens et agents de maîtrise en installation et maintenance en froid et conditionnement d'air |
 
 9 |
 
-Techniciens en électricité et en électronique |
+Techniciens et agents de maîtrise en maintenance électrique, électronique et automatismes |
 
 10 |
 
-Techniciens en mécanique et travail des métaux |
+Techniciens et agents de maîtrise en maintenance générale et mécanique industrielle |
 
 Région : Bretagne :
 
 1 |
 
-Agents de maîtrise et assimilés des industries de process |
-
-2 |
-
-Chefs de chantier, conducteurs de travaux (non cadres) |
-
-3 |
-
 Couvreurs |
 
-4 |
-
-Géomètres |
-
-5 |
-
-Ingénieurs du bâtiment et des travaux publics, chefs de chantier et conducteurs de travaux (cadres) |
-
-6 |
-
-Ingénieurs et cadres d'étude, recherche et développement en informatique, chefs de projets informatiques |
-
-7 |
-
-Ouvriers qualifiés travaillant par enlèvement de métal |
-
-8 |
-
-Techniciens des services comptables et financiers |
-
-9 |
-
-Techniciens en électricité et en électronique |
-
-10 |
-
-Techniciens et agents de maîtrise de la maintenance et de l'environnement |
-
-Région : Centre-Val de Loire :
-
-1 |
-
-Cadres techniques de la maintenance et de l'environnement |
-
 2 |
 
-Chefs de chantier, conducteurs de travaux (non cadres) |
+Médecins |
 
 3 |
 
-Dessinateurs en bâtiment et en travaux publics |
+Ouvriers qualifiés en conduite d'équipement d'usinage |
 
 4 |
 
-Dessinateurs en mécanique et travail des métaux |
+Techniciens et agents de maîtrise des services financiers ou comptables |
 
 5 |
 
-Infirmiers |
+Techniciens et agents de maîtrise en installation et maintenance en froid et conditionnement d'air |
 
 6 |
 
-Ingénieurs du bâtiment et des travaux publics, chefs de chantier et conducteurs de travaux (cadres) |
+Techniciens et agents de maîtrise en maintenance de véhicules |
 
 7 |
 
-Ingénieurs et cadres d'étude, recherche et développement en informatique, chefs de projets informatiques |
+Techniciens et agents de maîtrise en maintenance électrique, électronique et automatismes |
 
 8 |
 
-Régleurs |
+Techniciens et agents de maîtrise en maintenance générale et mécanique industrielle |
 
 9 |
 
-Techniciens en électricité et en électronique |
-
-10 |
-
-Techniciens en mécanique et travail des métaux |
-
-Région : Corse :
-
-1 |
-
-Autres professionnels para-médicaux |
-
-2 |
-
-Bouchers |
-
-3 |
-
-Carrossiers automobiles |
-
-4 |
-
-Chefs de chantier, conducteurs de travaux (non cadres) |
-
-5 |
-
-Dessinateurs en bâtiment et en travaux publics |
-
-6 |
-
-Infirmiers |
-
-7 |
-
-Ingénieurs du bâtiment et des travaux publics, chefs de chantier et conducteurs de travaux (cadres) |
-
-8 |
-
-Ingénieurs et cadres d'étude, recherche et développement en informatique, chefs de projets informatiques |
-
-9 |
-
-Ouvriers qualifiés de la maintenance en électricité et en électronique |
-
-10 |
-
-Techniciens médicaux et préparateurs |
-
-Région : Grand Est :
-
-1 |
-
-Chefs de chantier, conducteurs de travaux (non cadres) |
-
-2 |
-
-Dessinateurs en bâtiment et en travaux publics |
-
-3 |
-
-Dessinateurs en électricité et en électronique |
-
-4 |
-
-Infirmiers |
-
-5 |
-
-Ingénieurs du bâtiment et des travaux publics, chefs de chantier et conducteurs de travaux (cadres) |
-
-6 |
-
-Régleurs |
-
-7 |
-
-Techniciens des services comptables et financiers |
-
-8 |
-
-Techniciens en électricité et en électronique |
-
-9 |
-
-Techniciens en mécanique et travail des métaux |
+Techniciens experts et chargés d'études du BTP |
 
 10 |
 
 Tuyauteurs |
 
+Région : Centre-Val de Loire :
+
+1 |
+
+Agents de maîtrise et assimilés en fabrication mécanique |
+
+2 |
+
+Infirmiers et sages-femmes |
+
+3 |
+
+Médecins |
+
+4 |
+
+Ouvriers qualifiés en conduite d'équipement d'usinage |
+
+5 |
+
+Pharmaciens |
+
+6 |
+
+Techniciens du dessin industriel |
+
+7 |
+
+Techniciens et agents de maîtrise des services financiers ou comptables |
+
+8 |
+
+Techniciens et agents de maîtrise en installation et maintenance en froid et conditionnement d'air |
+
+9 |
+
+Techniciens et agents de maîtrise en maintenance électrique, électronique et automatismes |
+
+10 |
+
+Techniciens et agents de maîtrise en maintenance générale et mécanique industrielle |
+
+Région : Corse :
+
+1 |
+
+Carrossiers automobiles |
+
+2 |
+
+Infirmiers et sages-femmes |
+
+3 |
+
+Juristes et avocats |
+
+4 |
+
+Ouvriers de la maintenance en électricité et en électronique |
+
+5 |
+
+Plombiers chauffagistes |
+
+6 |
+
+Professionnels de l'action sociale |
+
+7 |
+
+Techniciens et agents de maîtrise en assistance et support technique client et en installation et maintenance télécoms et courants faibles |
+
+8 |
+
+Techniciens et agents de maîtrise en installation et maintenance en froid et conditionnement d'air |
+
+9 |
+
+Techniciens et agents de maîtrise en maintenance électrique, électronique et automatismes |
+
+10 |
+
+Techniciens experts et chargés d'études du BTP |
+
+Région : Grand Est :
+
+1 |
+
+Dentistes |
+
+2 |
+
+Dessinateurs en bâtiment et en travaux publics |
+
+3 |
+
+Experts et consultants en systèmes d'information |
+
+4 |
+
+Médecins |
+
+5 |
+
+Ouvriers qualifiés en conduite d'équipement d'usinage |
+
+6 |
+
+Techniciens et agents de maîtrise des services financiers ou comptables |
+
+7 |
+
+Techniciens et agents de maîtrise en installation et maintenance en froid et conditionnement d'air |
+
+8 |
+
+Techniciens et agents de maîtrise en maintenance électrique, électronique et automatismes |
+
+9 |
+
+Techniciens et agents de maîtrise en maintenance générale et mécanique industrielle |
+
+10 |
+
+Techniciens, agents de maîtrise et assimilés en électricité et en électronique |
+
 Région : Guadeloupe :
 
 1 |
 
-Cadres des magasins |
+Agents et hôtesses d'accompagnement |
 
 2 |
 
-Carrossiers automobiles |
+Autres professionnels para-médicaux |
 
 3 |
 
-Chaudronniers, tôliers, traceurs, serruriers, métalliers, forgerons |
+Bouchers |
 
 4 |
 
-Couvreurs |
+Ouvriers de la maintenance en électricité et en électronique |
 
 5 |
 
-Ingénieurs du bâtiment et des travaux publics, chefs de chantier et conducteurs de travaux (cadres) |
+Ouvriers mécaniciens de véhicules |
 
 6 |
 
-Ingénieurs et cadres des télécommunications |
+Spécialistes de l'appareillage médical |
 
 7 |
 
-Mécaniciens et électroniciens de véhicules |
+Techniciens et agents de maîtrise en assistance et support technique client et en installation et maintenance télécoms et courants faibles |
 
 8 |
 
-Ouvriers qualifiés de la maintenance en électricité et en électronique |
+Techniciens et agents de maîtrise en maintenance de véhicules |
 
 9 |
 
-Psychologues, psychothérapeutes |
+Techniciens et agents de maîtrise en maintenance électrique, électronique et automatismes |
 
 10 |
 
-Spécialistes de l'appareillage médical |
+Techniciens médicaux et préparateurs |
 
 Région : Guyane :
 
@@ -308,125 +306,167 @@ Boulangers, pâtissiers |
 
 2 |
 
-Cadres de la communication |
+Educateurs spécialisés et autres intervenants socio-éducatifs |
 
 3 |
 
-Dessinateurs en bâtiment et en travaux publics |
+Infirmiers et sages-femmes |
 
 4 |
 
-Eleveurs salariés |
+Ingénieurs, cadres techniques de l'agriculture |
 
 5 |
 
-Employés de la banque et des assurances |
+Marins |
 
 6 |
 
-Géomètres |
+Ouvriers en électricité du bâtiment |
 
 7 |
 
-Graphistes, dessinateurs, stylistes, décorateurs et créateurs de supports de communication visuelle |
+Ouvriers en montage réseaux électriques et télécoms |
 
 8 |
 
-Ingénieurs du bâtiment et des travaux publics, chefs de chantier et conducteurs de travaux (cadres) |
+Techniciens et agents de maîtrise des services financiers ou comptables |
 
 9 |
 
-Ingénieurs et cadres d'étude, recherche et développement en informatique, chefs de projets informatiques |
+Techniciens et agents de maîtrise en maintenance de véhicules |
 
 10 |
 
-Juristes |
+Techniciens experts et chargés d'études du BTP |
 
 Région : Hauts-de-France :
 
 1 |
 
-Cadres techniques de la maintenance et de l'environnement |
+Agents de maîtrise et assimilés en fabrication mécanique |
 
 2 |
 
-Charpentiers (bois) |
+Dessinateurs en bâtiment et en travaux publics |
 
 3 |
 
-Dessinateurs en bâtiment et en travaux publics |
+Médecins |
 
 4 |
 
-Dessinateurs en mécanique et travail des métaux |
+Ouvriers qualifiés en conduite d'équipement d'usinage |
 
 5 |
 
-Ingénieurs du bâtiment et des travaux publics, chefs de chantier et conducteurs de travaux (cadres) |
+Techniciens du dessin industriel |
 
 6 |
 
-Ingénieurs et cadres d'étude, recherche et développement en informatique, chefs de projets informatiques |
+Techniciens et agents de maîtrise des services financiers ou comptables |
 
 7 |
 
-Ouvriers qualifiés de la maintenance en mécanique |
+Techniciens et agents de maîtrise en maintenance électrique, électronique et automatismes |
 
 8 |
 
-Régleurs |
+Techniciens et agents de maîtrise en maintenance générale et mécanique industrielle |
 
 9 |
 
-Techniciens des services comptables et financiers |
+Techniciens experts et chargés d'études du BTP |
 
 10 |
 
-Techniciens en mécanique et travail des métaux |
+Techniciens, agents de maîtrise et assimilés en électricité et en électronique |
 
 Région : Ile-de-France :
 
 1 |
 
-Carrossiers automobiles |
+Dentistes |
 
 2 |
 
-Dessinateurs en bâtiment et en travaux publics |
+Ingénieurs en maintenance et support technique client |
 
 3 |
 
-Dessinateurs en électricité et en électronique |
+Médecins |
 
 4 |
 
-Infirmiers |
+Ouvriers qualifiés en conduite d'équipement d'usinage |
 
 5 |
 
-Ingénieurs du bâtiment et des travaux publics, chefs de chantier et conducteurs de travaux (cadres) |
+Techniciens en mécanique et travail des métaux |
 
 6 |
 
-Mainteniciens en biens électrodomestiques |
+Techniciens et agents de maîtrise des services financiers ou comptables |
 
 7 |
 
-Techniciens des services comptables et financiers |
+Techniciens et agents de maîtrise en maintenance électrique, électronique et automatismes |
 
 8 |
 
-Techniciens en électricité et en électronique |
+Techniciens et agents de maîtrise en maintenance générale et mécanique industrielle |
 
 9 |
 
-Techniciens en mécanique et travail des métaux |
+Techniciens experts et chargés d'études du BTP |
 
 10 |
 
-Techniciens et chargés d'études du bâtiment et des travaux publics |
+Techniciens, agents de maîtrise et assimilés en électricité et en électronique |
 
 Région : La Réunion :
+
+1 |
+
+Géomètres |
+
+2 |
+
+Ingénieurs en maintenance et support technique client |
+
+3 |
+
+Juristes et avocats |
+
+4 |
+
+Mainteniciens en biens électrodomestiques |
+
+5 |
+
+Ouvriers qualifiés en conduite d'équipement d'usinage |
+
+6 |
+
+Pharmaciens |
+
+7 |
+
+Techniciens et agents de maîtrise des services financiers ou comptables |
+
+8 |
+
+Techniciens et agents de maîtrise en installation et maintenance en froid et conditionnement d'air |
+
+9 |
+
+Techniciens et agents de maîtrise en maintenance électrique, électronique et automatismes |
+
+10 |
+
+Tuyauteurs |
+
+Région : Martinique :
 
 1 |
 
@@ -434,83 +474,251 @@ Bouchers |
 
 2 |
 
+Cadres des études BTP, des études géologiques, du métré de la construction et du contrôle et diagnostic technique du BTP |
+
+3 |
+
 Carrossiers automobiles |
 
-3 |
-
-Charcutiers, traiteurs |
-
 4 |
 
-Couvreurs |
+Employés et techniciens commerciaux de la banque |
 
 5 |
 
-Dessinateurs en bâtiment et en travaux publics |
+Ouvriers en chaudronnerie et tôlerie |
 
 6 |
 
-Maîtres d'hôtel |
+Professionnels du droit |
 
 7 |
-
-Menuisiers et ouvriers de l'agencement et de l'isolation |
-
-8 |
-
-Ouvriers qualifiés de l'électricité et de l'électronique |
-
-9 |
-
-Techniciens des services comptables et financiers |
-
-10 |
-
-Techniciens en électricité et en électronique |
-
-Région : Martinique :
-
-1 |
-
-Boulangers, pâtissiers |
-
-2 |
-
-Charpentiers (bois) |
-
-3 |
-
-Chaudronniers, tôliers, traceurs, serruriers, métalliers, forgerons |
-
-4 |
-
-Chefs cuisiniers |
-
-5 |
-
-Chefs de chantier, conducteurs de travaux (non cadres) |
-
-6 |
-
-Ingénieurs et cadres d'étude, recherche et développement en informatique, chefs de projets informatiques |
-
-7 |
-
-Ouvriers qualifiés travaillant par enlèvement de métal |
-
-8 |
 
 Spécialistes de l'appareillage médical |
 
+8 |
+
+Techniciens et agents de maîtrise des services financiers ou comptables |
+
 9 |
 
-Techniciens d'étude et de développement en informatique |
+Techniciens et agents de maîtrise en installation et maintenance en froid et conditionnement d'air |
 
 10 |
 
-Techniciens et agents de maîtrise de la maintenance et de l'environnement |
+Techniciens et agents de maîtrise en maintenance générale et mécanique industrielle |
 
 Région : Mayotte (1) :
+
+1 |
+
+Assistants maternels, auxiliaires de puériculture, assistants familiaux et gardes à domicile |
+
+2 |
+
+Attachés commerciaux |
+
+3 |
+
+Boulangers, pâtissiers |
+
+4 |
+
+Cadres commerciaux, acheteurs et cadres de la mercatique |
+
+5 |
+
+Coiffeurs, esthéticiens |
+
+6 |
+
+Cuisiniers |
+
+7 |
+
+Employés de la comptabilité |
+
+8 |
+
+Ouvriers de la maintenance générale et mécanique |
+
+9 |
+
+Professeurs des écoles |
+
+10 |
+
+Secrétaires bureautiques et assimilés |
+
+Région : Normandie :
+
+1 |
+
+Agents de maîtrise et assimilés en fabrication mécanique |
+
+2 |
+
+Médecins |
+
+3 |
+
+Ouvriers qualifiés en conduite d'équipement d'usinage |
+
+4 |
+
+Pharmaciens |
+
+5 |
+
+Techniciens et agents de maîtrise des services financiers ou comptables |
+
+6 |
+
+Techniciens et agents de maîtrise en installation et maintenance en froid et conditionnement d'air |
+
+7 |
+
+Techniciens et agents de maîtrise en maintenance de véhicules |
+
+8 |
+
+Techniciens et agents de maîtrise en maintenance électrique, électronique et automatismes |
+
+9 |
+
+Techniciens et agents de maîtrise en maintenance générale et mécanique industrielle |
+
+10 |
+
+Techniciens experts et chargés d'études du BTP |
+
+Région : Nouvelle-Aquitaine :
+
+1 |
+
+Agents de maîtrise et assimilés en fabrication mécanique |
+
+2 |
+
+Couvreurs |
+
+3 |
+
+Médecins |
+
+4 |
+
+Ouvriers qualifiés en conduite d'équipement d'usinage |
+
+5 |
+
+Techniciens et agents de maîtrise des services financiers ou comptables |
+
+6 |
+
+Techniciens et agents de maîtrise en installation et maintenance en froid et conditionnement d'air |
+
+7 |
+
+Techniciens et agents de maîtrise en maintenance électrique, électronique et automatismes |
+
+8 |
+
+Techniciens et agents de maîtrise en maintenance générale et mécanique industrielle |
+
+9 |
+
+Techniciens, agents de maîtrise et assimilés en électricité et en électronique |
+
+10 |
+
+Tuyauteurs |
+
+Région : Occitanie :
+
+1 |
+
+Agents de maîtrise et assimilés en fabrication mécanique |
+
+2 |
+
+Couvreurs |
+
+3 |
+
+Médecins |
+
+4 |
+
+Ouvriers qualifiés en conduite d'équipement d'usinage |
+
+5 |
+
+Pharmaciens |
+
+6 |
+
+Techniciens du dessin industriel |
+
+7 |
+
+Techniciens et agents de maîtrise des services financiers ou comptables |
+
+8 |
+
+Techniciens et agents de maîtrise en maintenance électrique, électronique et automatismes |
+
+9 |
+
+Techniciens et agents de maîtrise en maintenance générale et mécanique industrielle |
+
+10 |
+
+Tuyauteurs |
+
+Région : Pays de la Loire :
+
+1 |
+
+Agents de maîtrise et assimilés en fabrication mécanique |
+
+2 |
+
+Médecins |
+
+3 |
+
+Ouvriers qualifiés en conduite d'équipement d'usinage |
+
+4 |
+
+Techniciens du dessin industriel |
+
+5 |
+
+Techniciens en mécanique et travail des métaux |
+
+6 |
+
+Techniciens et agents de maîtrise des services financiers ou comptables |
+
+7 |
+
+Techniciens et agents de maîtrise en installation et maintenance en froid et conditionnement d'air |
+
+8 |
+
+Techniciens et agents de maîtrise en maintenance électrique, électronique et automatismes |
+
+9 |
+
+Techniciens et agents de maîtrise en maintenance générale et mécanique industrielle |
+
+10 |
+
+Tuyauteurs |
+
+Région : Provence-Alpes-Côte d'Azur :
 
 1 |
 
@@ -518,250 +726,40 @@ Cadres des études BTP, des études géologiques, du métré de la construction 
 
 2 |
 
-Coiffeurs, esthéticiens |
+Dentistes |
 
 3 |
 
-Employés de la comptabilité |
+Ingénieurs et cadres d'étude, recherche et développement en informatique et télécom |
 
 4 |
 
-Infirmiers et sage-femmes |
+Médecins |
 
 5 |
 
-Juristes et avocats |
+Ouvriers qualifiés en conduite d'équipement d'usinage |
 
 6 |
 
-Maçons qualifiés |
+Pharmaciens |
 
 7 |
 
-Professeurs du secondaire |
+Techniciens du dessin industriel |
 
 8 |
 
-Techniciens de production, d'exploitation, d'installation, et de maintenance, support et services aux utilisateurs en informatique |
+Techniciens et agents de maîtrise des services financiers ou comptables |
 
 9 |
 
-Techniciens et agents d'encadrement d'exploitations agricoles |
+Techniciens et agents de maîtrise en maintenance générale et mécanique industrielle |
 
 10 |
 
-Techniciens et agents de maîtrise de chantiers du BTP |
+Techniciens, agents de maîtrise et assimilés en électricité et en électroniques |
 
-Région : Normandie :
-
-1 |
-
-Agents de maîtrise et assimilés des industries de process |
-
-2 |
-
-Cadres techniques de la maintenance et de l'environnement |
-
-3 |
-
-Dessinateurs en bâtiment et en travaux publics |
-
-4 |
-
-Géomètres |
-
-5 |
-
-Infirmiers |
-
-6 |
-
-Ingénieurs du bâtiment et des travaux publics, chefs de chantier et conducteurs de travaux (cadres) |
-
-7 |
-
-Régleurs |
-
-8 |
-
-Techniciens en électricité et en électronique |
-
-9 |
-
-Techniciens en mécanique et travail des métaux |
-
-10 |
-
-Techniciens et agents de maîtrise de la maintenance et de l'environnement |
-
-Région : Nouvelle-Aquitaine :
-
-1 |
-
-Chefs de chantier, conducteurs de travaux (non cadres) |
-
-2 |
-
-Couvreurs |
-
-3 |
-
-Dessinateurs en électricité et en électronique |
-
-4 |
-
-Dessinateurs en mécanique et travail des métaux |
-
-5 |
-
-Infirmiers |
-
-6 |
-
-Ingénieurs du bâtiment et des travaux publics, chefs de chantier et conducteurs de travaux (cadres) |
-
-7 |
-
-Ingénieurs et cadres d'étude, recherche et développement en informatique, chefs de projets informatiques |
-
-8 |
-
-Régleurs |
-
-9 |
-
-Techniciens en mécanique et travail des métaux |
-
-10 |
-
-Techniciens et agents de maîtrise de la maintenance et de l'environnement |
-
-Région : Occitanie :
-
-1 |
-
-Cadres techniques de la maintenance et de l'environnement |
-
-2 |
-
-Couvreurs |
-
-3 |
-
-Dessinateurs en électricité et en électronique |
-
-4 |
-
-Géomètres |
-
-5 |
-
-Infirmiers |
-
-6 |
-
-Ingénieurs du bâtiment et des travaux publics, chefs de chantier et conducteurs de travaux (cadres) |
-
-7 |
-
-Ingénieurs et cadres d'étude, recherche et développement en informatique, chefs de projets informatiques |
-
-8 |
-
-Techniciens des services comptables et financiers |
-
-9 |
-
-Techniciens en électricité et en électronique |
-
-10 |
-
-Techniciens en mécanique et travail des métaux |
-
-Région : Pays de la Loire :
-
-1 |
-
-Agents de maîtrise et assimilés des industries de process |
-
-2 |
-
-Chefs de chantier, conducteurs de travaux (non cadres) |
-
-3 |
-
-Dessinateurs en mécanique et travail des métaux |
-
-4 |
-
-Ingénieurs du bâtiment et des travaux publics, chefs de chantier et conducteurs de travaux (cadres) |
-
-5 |
-
-Ingénieurs et cadres d'étude, recherche et développement en informatique, chefs de projets informatiques |
-
-6 |
-
-Ouvriers qualifiés travaillant par enlèvement de métal |
-
-7 |
-
-Techniciens des services comptables et financiers |
-
-8 |
-
-Techniciens en électricité et en électronique |
-
-9 |
-
-Techniciens en mécanique et travail des métaux |
-
-10 |
-
-Techniciens et agents de maîtrise de la maintenance et de l'environnement |
-
-Région : Provence-Alpes-Côte d'Azur :
-
-1 |
-
-Couvreurs |
-
-2 |
-
-Dessinateurs en bâtiment et en travaux publics |
-
-3 |
-
-Dessinateurs en électricité et en électronique |
-
-4 |
-
-Dessinateurs en mécanique et travail des métaux |
-
-5 |
-
-Infirmiers |
-
-6 |
-
-Ingénieurs du bâtiment et des travaux publics, chefs de chantier et conducteurs de travaux (cadres) |
-
-7 |
-
-Ingénieurs et cadres d'étude, recherche et développement en informatique, chefs de projets informatiques |
-
-8 |
-
-Techniciens des services comptables et financiers |
-
-9 |
-
-Techniciens en électricité et en électronique |
-
-10 |
-
-Techniciens en mécanique et travail des métaux |
-
-(1) Liste des 10 métiers (classés par ordre alphabétique) pour la région Mayotte qui connaissent les besoins les plus importants de recrutement de leur région en raison d'un manque de personnes formées, source : Les tensions sur le marché du travail en 2022, enquête DARES - France Travail, décembre 2023 et Enquête Besoins en Main-d'Œuvre 2024, enquête France Travail .
+(1) Liste des 10 métiers (classés par ordre alphabétique) pour la région Mayotte qui connaissent les besoins les plus importants de recrutement de leur région en raison d'un manque de personnes formées, source : " Les tensions sur le marché du travail en 2022, enquête DARES-France Travail, décembre 2023 et " Enquête Besoins en Main-d'Œuvre 2024, enquête France Travail ".
 
 La liste régionale n'étant pas publiée pour la région Mayotte, l'exploitation de ces deux enquêtes a permis de dresser la liste des métiers en tension pour cette région.
