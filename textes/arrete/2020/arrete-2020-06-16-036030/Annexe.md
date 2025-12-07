@@ -871,3 +871,73 @@ Services de la direction régionale de Mayotte
 |
 
 Du 1er août 2025 au 28 février 2027 |
+
+Opération :
+
+Transfert de la gestion des frais de déplacement au Centre de services mobilité et délivrance des renseignements tarifaires contraignants (CSMR)
+
+Services concernés :
+
+Pôle logistique et informatique de Nantes
+
+Pôle moyens et ressources de Rouen
+
+Pôle logistique et informatique de Paris-Aéroports
+
+Pôle logistique et informatique de Marseille
+
+Pôle budget opérationnel de programme gestion des ressources humaines de Lille
+
+Pôle ressource humaine d'Ile-de-France : département transports et déplacements (GTD)
+
+Pôle logistique et informatique de Montpellier
+
+Pôle moyens de Lyon
+
+Pôle ressources, logistique et sécurité de la direction nationale des statistiques du commerce extérieur (DNSCE)
+
+Pôle logistique et informatique de Metz
+
+Pôle logistique et informatique de Dijon
+
+Pôle logistique et informatique de Bordeaux
+
+Service BOP-PLI du centre informatique douanier (CID) |
+
+Du 3 novembre 2025 au 31 mars 2027 |
+
+Opération :
+
+Transfert de la mission inspection filtrage en matière de sûreté et fusion de la brigade de surveillance intérieure (BSI) de Lille-Gares et de la brigade de surveillance extérieure (BSE) de Lille-Ferroviaire
+
+Service concerné :
+
+BSI Lille-Gares |
+
+Du 1er janvier 2026 au 31 octobre 2027 |
+
+Opération :
+
+Création d'un nouveau site de la direction nationale du renseignement et des enquêtes douanières (DNRED) dans la région Provence-Alpes-Côte d'Azur
+
+Services concernés :
+
+Division technique de Marseille
+
+Division technique d'Ivry
+
+Département logistique criminel et stupéfiants d'Ivry
+
+Echelon de Marseille |
+
+Du 1er janvier 2026 au 29 février 2028 |
+
+Opération :
+
+Modification de l'organisation des divisions de la direction régionale de Montpellier
+
+Service concerné :
+
+Division surveillance de Montpellier |
+
+Du 1er novembre 2025 au 31 octobre 2026 |
