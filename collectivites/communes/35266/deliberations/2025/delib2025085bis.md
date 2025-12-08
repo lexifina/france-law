@@ -1,0 +1,11 @@
+# COMMUNE DE SAINT ERBLON : délibération DELIB2025085BIS — D - FINANCES - TARIFICATION - TARIFS MUNICIPAUX 2026 (SALLES, CIMETIERE, OCCUPATION DOMAINE PUBLIC, PUBLICITE, DIVERS)
+
+- Collectivité : COMMUNE DE SAINT ERBLON
+- SIRET : 21350266900012
+- Code INSEE : 35266
+- Date : 2025-12-08
+- Matière : 7.10 Finances locales/Divers
+- Objet : D - FINANCES - TARIFICATION - TARIFS MUNICIPAUX 2026 (SALLES, CIMETIERE, OCCUPATION DOMAINE PUBLIC, PUBLICITE, DIVERS)
+- Transmis à la préfecture : 2025-12-18
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213502669/Deliberation/2025/991071/eab82969757d8859764ad3d9a5fa19ee24ba19294863b6488aefead03e0e4111.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
