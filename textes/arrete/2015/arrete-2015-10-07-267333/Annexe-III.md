@@ -280,8 +280,10 @@ Tableau 12.3.1-Contrôle des emprunts
 
 Tableau 12.3.2-Contrôle des subventions
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible depuis ce lien : https://www.legifrance.gouv.fr/download/pdf?id=5tgqCuHi0BtjkmqdjQm3G6BVOO4Ees1U922iCwIn4_8=
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible depuis ce lien :
+
+https :// www. legifrance. gouv. fr/ download/ pdf ? id = JiSEXwsBtxi3u93hLerRwkFqeYXRLJkQNN2o6QYWj74 =
 
 NOTA :
 
-Conformément à l’article 4 de l’arrêté du 5 août 2025 (NOR : ATDL2519386A), les dispositions issues de la rédaction de l’arrêté précité s'appliquent à compter de l'exercice comptable ouvert le 1er janvier 2026.
+Conformément à l’article 3 de l’arrêté du 2 décembre 2025 (NOR : VLOL2531434A), ces dispositions, dans leur rédaction issue de l'arrêté précité, s'appliquent à compter de l'exercice comptable ouvert le 1er janvier 2026.
