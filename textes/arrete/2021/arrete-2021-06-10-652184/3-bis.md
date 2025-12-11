@@ -1,6 +1,6 @@
 # Article 3 bis
 
-La formation au numérique en santé est notamment organisée conformément au référentiel de compétences et de connaissances socles prévu à l'annexe VIII.
+La formation au numérique en santé est organisée conformément au référentiel de compétences et de connaissances socles prévu à l'annexe VIII.
 
 Elle peut être suivie de façon discontinue au cours de la formation.
 
