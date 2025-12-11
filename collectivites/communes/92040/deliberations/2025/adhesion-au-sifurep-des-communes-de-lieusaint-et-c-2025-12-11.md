@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Adhésion au SIFUREP des communes de Lieusaint et Conflans-Sainte-Honorine aux compétences « Service extérieur des pompes funèbres » et « Crématoriums et Sites Cinéraires » et de la commune de Neuilly Plaisance à la compétence « Service extérieur des pompes funèbres ».
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-12-11
+- Matière : AFFAIRES FUNERAIRES
+- Objet : Adhésion au SIFUREP des communes de Lieusaint et Conflans-Sainte-Honorine aux compétences « Service extérieur des pompes funèbres » et « Crématoriums et Sites Cinéraires » et de la commune de Neuilly Plaisance à la compétence « Service extérieur des pompes funèbres ».
+- Transmis à la préfecture : 2025-12-17
+- Votants : 46
+- Pour : 46
+- Contre : 0
+- Abstentions : 0
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTk4MTYsInB1ciI6ImJsb2JfaWQifX0=--9ba3521eb6c3f0d0afca6cb8852ec99e1f864a90/43%20-%20AF%20FUN%20-%20Adhesion%20communes%20SIFUREP.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
