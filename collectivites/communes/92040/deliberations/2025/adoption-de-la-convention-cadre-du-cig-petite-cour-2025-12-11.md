@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Adoption de la convention cadre du CIG Petite Couronne relative aux missions facultatives en matière de prévention, de santé et d’action sociale au travail.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-12-11
+- Matière : RESSOURCES HUMAINES
+- Objet : Adoption de la convention cadre du CIG Petite Couronne relative aux missions facultatives en matière de prévention, de santé et d’action sociale au travail.
+- Transmis à la préfecture : 2025-12-18
+- Votants : 46
+- Pour : 46
+- Contre : 0
+- Abstentions : 0
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTk4MzIsInB1ciI6ImJsb2JfaWQifX0=--95e007ca401e951de157fe0cdb52e4cc38601dbb/23%20-%20RH-%20Approbation%20de%20la%20convention%20cadre%20avec%20le%20CIG%20-Pr%C3%A9vention%20sant%C3%A9%20et%20action%20sociale%20au%20travail.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
