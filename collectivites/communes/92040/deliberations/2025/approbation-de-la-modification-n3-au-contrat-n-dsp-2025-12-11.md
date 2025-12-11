@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation de la modification n°3 au contrat n° DSP1802 de concession de service public pour la gestion et l’exploitation du Palais des Arts et des Congrès d’Issy (PACI) Charles Aznavour.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-12-11
+- Matière : CULTURE
+- Objet : Approbation de la modification n°3 au contrat n° DSP1802 de concession de service public pour la gestion et l’exploitation du Palais des Arts et des Congrès d’Issy (PACI) Charles Aznavour.
+- Transmis à la préfecture : 2025-12-18
+- Votants : 46
+- Pour : 42
+- Contre : 0
+- Abstentions : 4
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTk4MzcsInB1ciI6ImJsb2JfaWQifX0=--3936b26e6964ff3b82668002794fc0c423a64b44/28%20-%20CULT%20-%20DSP1802%20-%20MODIF%203.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
