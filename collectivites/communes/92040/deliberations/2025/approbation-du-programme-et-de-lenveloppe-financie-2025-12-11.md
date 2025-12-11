@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation du programme et de l’enveloppe financière prévisionnelle pour l’opération de végétalisation des cours de l’école maternelle Les Ponceaux.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-12-11
+- Matière : ARCHITECTURE ET BATIMENTS
+- Objet : Approbation du programme et de l’enveloppe financière prévisionnelle pour l’opération de végétalisation des cours de l’école maternelle Les Ponceaux.
+- Transmis à la préfecture : 2025-12-16
+- Votants : 46
+- Pour : 46
+- Contre : 0
+- Abstentions : 0
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTk3ODksInB1ciI6ImJsb2JfaWQifX0=--ca376854fd10faa561ec3aa328e716c13eacd15f/18%20-%20ARC%20BAT%20-%20Programme%20et%20enveloppe%20les%20Ponceaux.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
