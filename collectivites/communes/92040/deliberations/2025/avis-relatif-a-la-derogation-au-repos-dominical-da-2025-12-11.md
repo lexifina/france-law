@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Avis relatif à la dérogation au repos dominical dans les établissements de commerce de détail pour l'année 2026.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-12-11
+- Matière : COMMERCE ET ARTISANAT
+- Objet : Avis relatif à la dérogation au repos dominical dans les établissements de commerce de détail pour l'année 2026.
+- Transmis à la préfecture : 2025-12-17
+- Votants : 46
+- Pour : 45
+- Contre : 0
+- Abstentions : 1
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTk4MTMsInB1ciI6ImJsb2JfaWQifX0=--b437ad4a90ce8af04ea2d52c864e972509a47cee/40%20-%20COM%20ART%20-%20Avis%20relatif%20d%C3%A9rogation%20au%20repos%20dominicales%202026.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
