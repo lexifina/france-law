@@ -1,0 +1,40 @@
+# Délibération n° 2025-119 du 11 décembre 2025 abrogeant la délibération n° 2003-053 du 27 novembre 2003 portant adoption d'une recommandation relative aux traitements de données à caractère personnel mis en œuvre par les registres du cancer
+
+- Nature : Deliberation
+- Type : Recommandation/Lignes directrices
+- Numéro : 2025-119
+- Date : 2025-12-11
+- Publication : 2025-12-23
+- NOR : CNIL2535398X
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000053057598
+
+“contract research organisation” La Commission nationale de l'informatique et des libertés,
+
+Vu le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés, notamment son article 8-I (2° b) ;
+
+Après avoir entendu le rapport de Mme Marie Zins, commissaire, et les observations de M. Damien Milic, commissaire du Gouvernement,
+
+formule les observations suivantes :
+
+La Commission nationale de l'informatique et des libertés a adopté, par la délibération n° 2003-053 du 27 novembre 2003, une recommandation relative aux traitements de données à caractère personnel mis en œuvre par les registres du cancer.
+
+Cette recommandation apparaît aujourd'hui obsolète au regard de l'évolution du cadre juridique, notamment du règlement général sur la protection des données et de la loi n° 2025-596 du 30 juin 2025 visant à mettre en place un registre national des cancers,
+
+Décide :
+
+Article 1
+
+La délibération n° 2003-053 du 27 novembre 2003 portant adoption d'une recommandation relative aux traitements de données à caractère personnel mis en œuvre par les registres du cancer est abrogée.
+
+Article 2
+
+La présente délibération sera publiée au Journal officiel de la République française.
+
+Fait le 11 décembre 2025.
+
+La présidente,
+
+M.-L. Denis
