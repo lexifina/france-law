@@ -1106,8 +1106,6 @@ Cette épreuve est constituée de cinq sous-épreuves :
 
 -Sous-épreuve E35 (unité U35) : prévention-sante ́-environnement.
 
-Nota.-A l'issue des périodes de formation en milieu professionnel seront délivrées des attestations permettant de vérifier le respect de la durée de la formation en entreprise et le secteur d'activités de cette formation. Un candidat qui n'aura pas présenté ces pièces ne pourra pas valider l'épreuve E2 (unité U2), les sous-épreuves E31 (unité U31), E32 (unité U32) et E33 (unité U33) et le diplôme ne pourra pas lui être délivré.
-
 SOUS-ÉPREUVE E31
 
 Implication au sein d'un bureau d'études
