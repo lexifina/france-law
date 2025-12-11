@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’un avenant n°2 à la convention d’occupation temporaire du domaine public au sein du Parc Henri Barbusse avec la Société des Grands Projets et l’Etablissement Public Territorial Grand Paris Seine Ouest.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-12-11
+- Matière : ESPACES PUBLICS
+- Objet : Approbation d’un avenant n°2 à la convention d’occupation temporaire du domaine public au sein du Parc Henri Barbusse avec la Société des Grands Projets et l’Etablissement Public Territorial Grand Paris Seine Ouest.
+- Transmis à la préfecture : 2025-12-16
+- Votants : 46
+- Pour : 46
+- Contre : 0
+- Abstentions : 0
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTk3OTcsInB1ciI6ImJsb2JfaWQifX0=--2da0188e2eb9ed873e7cb50a57d5fb5f60bf6eae/39%20-%20ESP%20PUB%20-%20Avenant%20N.2%20Henri%20Barbusse%20-%20SGP-GPSO.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
