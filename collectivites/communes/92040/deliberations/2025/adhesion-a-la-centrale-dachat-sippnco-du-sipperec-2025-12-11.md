@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Adhésion à la centrale d’achat « SIPP’n’CO » du SIPPEREC.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-12-11
+- Matière : ARCHITECTURE ET BATIMENTS
+- Objet : Adhésion à la centrale d’achat « SIPP’n’CO » du SIPPEREC.
+- Transmis à la préfecture : 2025-12-16
+- Votants : 46
+- Pour : 46
+- Contre : 0
+- Abstentions : 0
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTk3ODgsInB1ciI6ImJsb2JfaWQifX0=--5b0aa7b4fd4fffbfa0e48d75abde8a9b10df4a3b/17%20-%20ARC%20BAT%20-%20Adh%C3%A9sion%20SIPP'n'CO%20du%20SIPPEREC.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
