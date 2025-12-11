@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Modification de la charte du régime indemnitaire pour prendre en compte l’expérience professionnelle.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-12-11
+- Matière : RESSOURCES HUMAINES
+- Objet : Modification de la charte du régime indemnitaire pour prendre en compte l’expérience professionnelle.
+- Transmis à la préfecture : 2025-12-18
+- Votants : 46
+- Pour : 46
+- Contre : 0
+- Abstentions : 0
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTk4MzMsInB1ciI6ImJsb2JfaWQifX0=--559e5104259a0e8a19643e7eb780a0aedfbe8b1a/24%20-%20RH%20-%20Modification%20de%20la%20charte%20du%20r%C3%A9gime%20indemnitaire%20pour%20prendre%20en%20compte%20l'exp%C3%A9rience%20professionnelle.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
