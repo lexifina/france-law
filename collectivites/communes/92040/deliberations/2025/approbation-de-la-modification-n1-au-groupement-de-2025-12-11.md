@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation de la modification n°1 au groupement de commandes entre l’Etablissement Public Territorial Grand Paris Seine Ouest et des communes membres, relative à la passation et l’exécution financière du marché de collecte et de propreté.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-12-11
+- Matière : ESPACES PUBLICS
+- Objet : Approbation de la modification n°1 au groupement de commandes entre l’Etablissement Public Territorial Grand Paris Seine Ouest et des communes membres, relative à la passation et l’exécution financière du marché de collecte et de propreté.
+- Transmis à la préfecture : 2025-12-16
+- Votants : 46
+- Pour : 46
+- Contre : 0
+- Abstentions : 0
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTk3OTYsInB1ciI6ImJsb2JfaWQifX0=--3e049dcf4aa632342917250a7fa96629a6fd74f9/38%20-%20ESP%20PUB%20-%20Modification%20N1%20march%C3%A9%20propret%C3%A9%20et%20collecte.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
