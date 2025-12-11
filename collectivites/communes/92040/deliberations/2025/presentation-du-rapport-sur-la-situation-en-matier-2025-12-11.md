@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Présentation du rapport sur la situation en matière de développement durable à Issy-les-Moulineaux pour l’année 2025.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-12-11
+- Matière : DEVELOPPEMENT DURABLE
+- Objet : Présentation du rapport sur la situation en matière de développement durable à Issy-les-Moulineaux pour l’année 2025.
+- Transmis à la préfecture : 2025-12-16
+- Votants : 46
+- Pour : PRISE D'ACTE
+- Contre : 0
+- Abstentions : 0
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTk3OTEsInB1ciI6ImJsb2JfaWQifX0=--3a894d9297361e24b58f59ef56444da2d571077e/33%20-%20DEV%20DUR%20-%20Rapport%20DD%202025.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
