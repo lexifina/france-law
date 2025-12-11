@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Compte de résultat du budget climat 2024 et débat d’orientation climatique relatif au budget climat 2026.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-12-11
+- Matière : DEVELOPPEMENT DURABLE
+- Objet : Compte de résultat du budget climat 2024 et débat d’orientation climatique relatif au budget climat 2026.
+- Transmis à la préfecture : 2025-12-16
+- Votants : 46
+- Pour : PRISE D'ACTE
+- Contre : 0
+- Abstentions : 0
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTk3OTIsInB1ciI6ImJsb2JfaWQifX0=--6b9a6ac37758a448e260a461fc8802b796e814cd/34%20-%20DEV%20DUR%20-%20D%C3%A9lib%20budget%20climat%20DOC%20d%C3%A9c-2025.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
