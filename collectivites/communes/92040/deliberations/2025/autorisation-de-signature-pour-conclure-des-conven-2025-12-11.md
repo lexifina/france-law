@@ -1,0 +1,14 @@
+# Ville d'Issy-les-Moulineaux : délibération — Autorisation de signature pour conclure des conventions d’objectifs entre la Ville et les associations.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-12-11
+- Matière : FINANCES
+- Objet : Autorisation de signature pour conclure des conventions d’objectifs entre la Ville et les associations.
+- Transmis à la préfecture : 2025-12-17
+- Votants : 46
+- Contre : 0
+- Abstentions : 0
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTk4MDgsInB1ciI6ImJsb2JfaWQifX0=--7f54de54c5ef1a25ad36a0d3ee32c8bc22020d93/09%20-%20FIN%20-%20Signature%20CONVENTIONS%20D'OBJECTIFS%20%20et%20AVENANT.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
