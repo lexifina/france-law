@@ -148,107 +148,125 @@ SID Nord-Ouest (NO) :
 
 Direction d'Infrastructure de la Défense de Djibouti.
 
-4° Unités de la direction interarmées des réseaux d'infrastructure et des systèmes d'information (DIRISI) :
+4° Unités du commissariat au numérique de défense (CND) :
 
-Relevant de la DIRISI de Bordeaux :
+Relevant de la direction d'appui au numérique zonale Sud-Ouest :
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information de Bordeaux-Mérignac ;
+- centre d'appui numérique Bordeaux-Mérignac ;
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information de Mont de Marsan ;
+- centre d'appui numérique Mont-de-Marsan ;
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information de Cognac ;
+- centre d'appui numérique Cognac ;
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information de Pau ;
+- centre d'appui numérique Pau ;
 
-- centre de mise en œuvre des réseaux de desserte (CMO-RD) de Bordeaux.
+- centre de mise en œuvre des réseaux de desserte (CMO RD) Bordeaux.
 
-Relevant de la DIRISI Ile-de-France/8e régiment de transmissions :
+Relevant de la direction d'appui au numérique zonale Ile-de-France 8 e régiment de transmissions :
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information de Villacoublay ;
+- centre d'appui numérique Villacoublay ;
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information de Creil ;
+- centre d'appui numérique Creil ;
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information des Loges ;
+- centre d'appui numérique Les Loges ;
 
-- centre de mise en œuvre des réseaux de desserte (CMO-RD) Ile de France ;
+- centre de mise en œuvre des réseaux de desserte Ile-de-France (CMO RD IDF) ;
 
 - pôle d'appui des réseaux d'infrastructure et des systèmes d'information (PARISI).
 
-Relevant de la DIRISI de Lyon :
+Relevant de la direction d'appui au numérique zonale Sud-Est :
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information de Lyon-Mont Verdun ;
+- centre d'appui numérique Lyon Mont-Verdun ;
 
-- centre de mise en œuvre des réseaux de desserte (CMORD) de Lyon ;
+- centre d'appui numérique Lyon ;
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information de Clermont-Ferrand.
+- centre d'appui numérique Clermont-Ferrand ;
 
-Relevant de la DIRISI de Metz :
+- centre d'appui numérique Varces ;
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information de Besançon ;
+- centre de mise en œuvre des réseaux de desserte (CMO RD) Lyon Mont-Verdun ;
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information de Lille ;
+- station de transmissions Pierre-sur-Haute.
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information de Strasbourg ;
+Relevant de la direction d'appui au numérique zonale Nord-Est :
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information de Nancy ;
+- centre d'appui numérique Besançon ;
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information de Saint Dizier ;
+- centre d'appui numérique Lille ;
 
-- centre de mise en œuvre des réseaux de desserte (CMORD) de Metz ;
+- centre d'appui numérique Strasbourg ;
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information de Montigny Les Metz.
+- centre d'appui numérique Nancy ;
 
-Relevant de la DIRISI de Rennes :
+- centre d'appui numérique Saint-Dizier ;
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information d'Evreux ;
+- centre d'appui numérique Montigny-lès-Metz ;
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information d'Orléans-Bricy ;
+- centre d'appui numérique Champagne ;
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information de Tours Saint-Symphorien ;
+- centre de mise en œuvre des réseaux de desserte (CMO RD) Metz.
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information d'Avord ;
+Relevant de la direction d'appui au numérique zonale Ouest :
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information de Rennes ;
+- centre d'appui numérique Évreux ;
 
-- centre de mise en œuvre des réseaux de desserte (CMORD) de Rennes ;
+- centre d'appui numérique Orléans-Bricy ;
+
+- centre d'appui numérique Tours Saint-Symphorien ;
+
+- centre d'appui numérique Avord ;
+
+- centre d'appui numérique Rennes ;
+
+- centre de mise en œuvre des réseaux de desserte (CMO RD) Rennes ;
 
 - station de transmissions d'Henrichemont.
 
-Relevant de la DIRISI de Brest :
+Relevant de la direction d'appui au numérique zonale Manche-Atlantique :
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information de Brest ;
+- centre d'appui numérique Brest ;
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information de Cherbourg ;
+- centre d'appui numérique Cherbourg ;
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information de Lorient ;
+- centre d'appui numérique Lorient ;
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information de Crozon.
+- centre d'appui numérique Crozon ;
 
-Relevant de la DIRISI de Toulon :
+- centre de mise en œuvre des réseaux de desserte (CMO RD) Brest ;
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information de Draguignan ;
+- station de transmissions du Cranou ;
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information de Marseille ;
+- station de transmissions Pencran ;
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information d'Istres ;
+- station de transmissions Cherbourg.
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information de Solenzara ;
+Relevant de la direction d'appui au numérique zonale Sud :
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information de Toulon ;
+- centre d'appui numérique Draguignan ;
 
-- centre interarmées des réseaux d'infrastructure et systèmes d'information de Toulouse ;
+- centre d'appui numérique Marseille ;
 
-- centre de mise en œuvre des réseaux de desserte (CMORD) de Toulon ;
+- centre d'appui numérique Istres ;
 
-- station de transmissions de Lacaune (STAT LCE).
+- centre d'appui numérique Solenzara ;
 
-- pôle opérationnel réseaux transport et desserte ;
+- centre d'appui numérique Toulon ;
 
-- Centre national de mise en œuvre des réseaux de Maisons-Laffitte (CNMO R MLF) ;
+- centre d'appui numérique Toulouse ;
 
-- pôle opérationnel sécurité et administration ;
+- centre d'appui numérique Nîmes ;
 
-- Centre national de mise en œuvre des intranets de Maisons-Laffitte (CNMO I MLF) et centre national de mise en œuvre des intranets de Rennes (CNMO I RNS).
+- centre de mise en œuvre des réseaux de desserte (CMO RD) Toulon.
+
+Relevant du pôle opérationnel réseaux transport et desserte :
+
+- centre national de mise en œuvre des réseaux de Maisons-Laffitte (CNMO R MLF).
+
+Relevant du pôle opérationnel sécurité et administration :
+
+- centre national de mise en œuvre des intranets de Maisons-Laffitte (CNMO I MLF) ;
+
+- centre national de mise en œuvre des intranets de Rennes (CNMO I RNS).
 
 NOTA :
 

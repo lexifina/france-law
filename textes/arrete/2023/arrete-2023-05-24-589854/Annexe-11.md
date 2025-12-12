@@ -1,7 +1,5 @@
 # Article Annexe 11
 
-ANNEXE 11
-
 UNITÉS, ORGANISMES ET EMPLOIS OUVRANT DROIT À LA PRIME DE COMPÉTENCES SPÉCIFIQUES DE SÉCURITÉ AÉRIENNE
 
 Postes exigeant la mise en œuvre de la compétence spécifique de sécurité aérienne désignés sur proposition du directeur ou du chef du service gestionnaire concerné au sein des unités suivantes :
@@ -206,10 +204,6 @@ c) Direction générale de l'armement (DGA)
 
 - centres de contrôle.
 
-d) Direction interarmées des réseaux d'infrastructure et des systèmes d'information (DIRISI) : Section Système de management de la sécurité (SMS).
+d) Commissariat au numérique de défense (CND) :
 
-NOTA :
-
-Conformément à l'article 2 de l'arrêté du 7 juin 2024 (NOR : ARMH2415574A), les dispositions du c du 5° de l'article 1er dudit arrêté prennent effet le 1er août 2024.
-
-Conformément à l'article 3 de l'arrêté du 28 juin 2024 (NOR : ARMH2418044A), ces dispositions sont applicables aux rémunérations versées à compter du mois de juillet 2024.
+-sous-direction “ gouvernance, emploi et pilotage ” du commandement numérique interarmées : section Système de Management de la Sécurité (SMS).
