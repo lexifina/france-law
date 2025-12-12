@@ -772,6 +772,46 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation du sport |
 
+CQP " Animateur d'athlétisme " option " athlé forme santé "
+
+|
+
+3 |
+
+Conduite de séances de découverte et d'initiation en athlétisme dans l'option considérée |
+
+|
+
+CQP " Animateur d'athlétisme " option " école d'athlé "
+
+|
+
+3 |
+
+Conduite de séances de découverte et d'initiation en athlétisme dans l'option considérée |
+
+|
+
+CQP " Technicien sportif d'athlétisme " option " stade "
+
+|
+
+4 |
+
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en athlétisme dans l'option considérée |
+
+|
+
+CQP " Technicien sportif d'athlétisme " option " demi-fond, marche, running, trail "
+
+|
+
+4 |
+
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en athlétisme dans l'option considérée |
+
+|
+
 ATTELAGES CANINS
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
@@ -1590,6 +1630,16 @@ Encadrement, découverte et initiation des activités équestres. |
 
 Sous l'autorité d'un titulaire d'une certification de niveau 4 ou supérieur dans le domaine des activités équestres. |
 
+Accompagnateur de tourisme équestre |
+
+4 |
+
+Conduite de séances de découverte, d'initiation et d'apprentissage d'activités de tourisme équestre
+
+|
+
+|
+
 Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation des entreprises équestres |
 
 CQP " enseignant activités équestres ", jusqu'au 14 décembre 2027 (**). |
@@ -1597,6 +1647,16 @@ CQP " enseignant activités équestres ", jusqu'au 14 décembre 2027 (**). |
 4 |
 
 Conduite de séances d'initiation et d'apprentissage aux pratiques équestres. |
+
+|
+
+CQP " Organisateur de randonnées équestres "
+
+|
+
+4 |
+
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage d'activités de tourisme équestre et d'équitation |
 
 |
 
@@ -2106,27 +2166,63 @@ Certificats de qualification délivrés par la Commission paritaire nationale em
 
 |
 
-CQP " animateur des activités gymniques ", option " expression " délivré jusqu'au 24 octobre 2025. |
-
-3 |
-
-Conduite de séances de découverte et d'initiation des activités gymniques d'expression. |
+CQP " animateur des activités gymniques ", option " expression "
 
 |
 
-CQP " animateur des activités gymniques ", option " éveil petite enfance " délivré jusqu'au 24 octobre 2025. |
-
 3 |
 
-Conduite de séances de découverte et d'initiation des activités gymniques d'éveil pour la petite enfance. |
+Conduite de séances de découverte et d'initiation des activités gymniques d'expression |
 
 |
 
-CQP " animateur des activités gymniques ", option " acrobatique " délivré jusqu'au 24 octobre 2025. |
+CQP " animateur des activités gymniques ", option " éveil petite enfance "
+
+|
 
 3 |
 
-Conduite de séances de découverte et d'initiation des activités gymniques acrobatiques. |
+Conduite de séances de découverte et d'initiation des activités gymniques d'éveil pour la petite enfance |
+
+|
+
+CQP " animateur des activités gymniques ", option " acrobatique " |
+
+3
+
+|
+
+Conduite de séances de découverte et d'initiation des activités gymniques acrobatiques |
+
+|
+
+CQP " technicien des secteurs acrobatique, rythmique et d'expression ", option " activités gymniques acrobatiques "
+
+|
+
+4 |
+
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage des activités gymniques acrobatiques |
+
+|
+
+CQP " technicien des secteurs acrobatique, rythmique et d'expression ", option " gymnastique rythmique sportive "
+
+|
+
+4 |
+
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en gymnastique rythmique sportive |
+
+|
+
+CQP " technicien des secteurs acrobatique, rythmique et d'expression ", option " twirling bâton "
+
+|
+
+4 |
+
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en twirling bâton |
 
 |
 
@@ -3082,7 +3178,9 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-CS " sauvetage et sécurité en milieu aquatique " associé au DE JEPS, spécialité " perfectionnement sportif ", mention " natation et disciplines associées ", options " natation course-eau libre ", " natation artistique ", " plongeon ", " water-polo " |
+CS " sauvetage et sécurité en milieu aquatique " associé au DE JEPS spécialité " perfectionnement sportif " mention " natation et disciplines associées " options" natation course-eau libre ", " natation artistique ", " plongeon ", " water-polo " ou au DEJEPS spécialité " perfectionnement sportif " mention " triathlon "
+
+|
 
 |
 
