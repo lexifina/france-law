@@ -378,7 +378,7 @@ Objet du contrôle :
 
 Les déchets sont triés en fonction de leur nature et de leur exutoire (mode de valorisation, d'élimination).
 
-Les piles usagées au lithium sont séparées des autres piles et leur entreposage est réalisé dans des fûts ou conteneurs fermés, étanches à l'humidité, résistant à la pression en cas d'échauffement et conformes à la réglementation relative au transport de matières dangereuses.
+Les piles usagées au lithium sont séparées des autres piles et leur entreposage est réalisé dans des fûts ou conteneurs fermés, conçus de manière à empêcher l'entrée d'eau, résistant à la pression en cas d'échauffement et conformes à la réglementation relative au transport de matières dangereuses.
 
 Le compactage ou la réduction de volume des déchets d'activité de soins à risques infectieux et assimilés et de pièces anatomiques est interdit.
 
