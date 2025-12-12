@@ -3309,3 +3309,27 @@ CQP " animateur de mobilité à vélo ", délivré du 20 juillet 2022 jusqu'au 2
 Animation de séances d'éducation à la mobilité à vélo, de l'initiation jusqu'à l'autonomie du pratiquant. |
 
 |
+
+CQP " animateur des activités gymniques ", option " expression " délivré jusqu'au 24 octobre 2025.
+
+|
+
+Conduite de séances de découverte et d'initiation des activités gymniques d'expression. |
+
+|
+
+CQP " animateur des activités gymniques ", option " éveil petite enfance " délivré jusqu'au 24 octobre 2025.
+
+|
+
+Conduite de séances de découverte et d'initiation des activités gymniques d'éveil pour la petite enfance. |
+
+|
+
+CQP " animateur des activités gymniques ", option " acrobatique " délivré jusqu'au 24 octobre 2025.
+
+|
+
+Conduite de séances de découverte et d'initiation des activités gymniques acrobatiques. |
+
+|
