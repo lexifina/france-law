@@ -256,7 +256,7 @@ Atelier MOTONAUTIQUE, Port-la-Forêt, 29940 La Forêt-Fouesnant : depuis 1977 ju
 
 Atelier Priol/SARL Léon, puis SOFIMEC, 86, rue Pierre-Semard, 29760 Saint-Guénolé-Penmarc'h : de 1966 à 1999.
 
-Les ateliers normands, puis SARL Ateliers normands, puis SA Ateliers normands, 56290 Port-Louis, puis lieudit Saint-Goustan, 56400 Auray, puis lieudit Locmalo, 56290 Port-Louis, puis 24, boulevard Jean-Pierre-Calloch, 56100 Lorient : depuis 1930 jusqu’au 31 décembre 2027.
+Les ateliers normands, puis SARL Ateliers normands, puis SA Ateliers normands, 56290 Port-Louis, puis lieudit Saint-Goustan, 56400 Auray, puis lieudit Locmalo, 56290 Port-Louis, puis 24, boulevard Jean-Pierre-Calloch, 56100 Lorient, puis 20, rue Maurice-Le-Léon, 56100 Lorient, de 1930 à 2015, puis PIRIOU NAVAL SERVICES (PNS), rue Ingénieur-Henry-Verrière, Lorient, de 2015 à 2027.
 
 ATLANTIC TECHNOLOGIE - rue Jean-Bart, 56410 Etel : depuis 1979 jusqu’au 31 décembre 2027.
 
