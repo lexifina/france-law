@@ -2476,29 +2476,31 @@ Chirurgien-dentiste chef des services de classe normale |
 
 Général de brigade |
 
-Médecin en chef
+Médecin en chef de 1re classe
 
-Pharmacien en chef
+Pharmacien en chef de 1re classe
 
-Vétérinaire en chef
+Vétérinaire en chef de 1re classe
 
-Chirurgien-dentiste en chef |
+Chirurgien-dentiste en chef de 1re classe
 
-Echelon exceptionnel
+|
 
-4ème et 5e échelon |
+|
 
 Colonel |
 
-Médecin en chef
+Médecin en chef de 2e classe
 
-Pharmacien en chef
+Pharmacien en chef de 2e classe
 
-Vétérinaire en chef
+Vétérinaire en chef de 2e classe
 
-Chirurgien-dentiste en chef |
+Chirurgien-dentiste en chef de 2e classe
 
-1er, 2e et 3e échelon |
+|
+
+|
 
 Lieutenant-colonel |
 
@@ -2950,4 +2952,4 @@ NOTA :
 
 (*) Au lieu de " SOUS-OFFICIERS MARINIERS, il faut lire OFFICIERS MARINIERS ".
 
-Conformément à l'article 1 du décret n°2023-905 du 30 septembre 2023, le tableau 2 du III de cette annexe est applicable à compter du 14 décembre 2022.
+Conformément à l'article 17 du décret n° 2025-997 du 29 octobre 2025, ces dispositions, dans leur rédaction issue du IV de l'article 10 dudit décret, entrent en vigueur le 15 décembre 2025.
