@@ -34,19 +34,19 @@ Chefs d'escadron de gendarmerie |
 
 23,5 |
 
-Officiers subalternes de gendarmerie autres que les élèves admis en formation initiale ou complémentaire à l'Ecole des officiers de la gendarmerie nationale ayant un indice supérieur à l'indice brut 585 |
+Officiers subalternes de gendarmerie autres que les élèves admis en formation initiale ou complémentaire à l'Académie militaire de la gendarmerie nationale ayant un indice supérieur à l'indice brut 585 |
 
 27,5 |
 
-Officiers subalternes de gendarmerie autres que les élèves admis en formation initiale ou complémentaire à l'Ecole des officiers de la gendarmerie nationale ayant un indice inférieur ou égal à l'indice brut 585 |
+Officiers subalternes de gendarmerie autres que les élèves admis en formation initiale ou complémentaire à l'Académie militaire de la gendarmerie nationale ayant un indice inférieur ou égal à l'indice brut 585 |
 
 28,5 |
 
-Elèves admis en formation initiale à l'Ecole des officiers de la gendarmerie nationale |
+Elèves admis en formation initiale à l'Académie militaire de la gendarmerie nationale |
 
 13 |
 
-Elèves admis en formation complémentaire à l'Ecole des officiers de la gendarmerie nationale |
+Elèves admis en formation complémentaire à l'Académie militaire de la gendarmerie nationale |
 
 22,5 |
 
@@ -56,11 +56,11 @@ Militaires non officiers de gendarmerie autres que les élèves gendarmes |
 
 Elèves gendarmes cumulativement :
 
--engagés en cette qualité à compter du 1er janvier 2021 ;
+- engagés en cette qualité à compter du 1er janvier 2021 ;
 
--ayant effectué au moins huit mois de formation initiale ;
+- ayant effectué au moins huit mois de formation initiale ;
 
--placés en formation en unité opérationnelle. |
+- placés en formation en unité opérationnelle. |
 
 28,5 |
 
@@ -71,3 +71,9 @@ Autres élèves gendarmes |
 Observation :
 
 L'indemnité de sujétions spéciales de police est réservée aux seuls militaires des corps d'officiers et de sous-officiers de gendarmerie de carrière ou engagés, en position d'activité. Toutefois, cette indemnité continue d'être versée lorsque les intéressés ont été placés, à la suite d'une blessure reçue au cours d'une opération de police, dans l'une des positions de congés liées à l'état de santé prévues par le statut général des militaires. |
+
+NOTA :
+
+Conformément au I de l'article 17 du décret n° 2025-1045 du 3 novembre 2025, ces dispositions, dans leur rédaction issue de l'article 7 dudit décret, entrent en vigueur le 15 décembre 2025.
+
+Conformément au II de l'article 7 du décret n° 2025-1045 du 3 novembre 2025, ces dispositions peuvent être modifiées dans les formes requises pour leur modification antérieurement à la date d'entrée en vigueur du présent décret.
