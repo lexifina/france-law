@@ -1,0 +1,9 @@
+# Réponse à la question n° 9756
+
+- Question : [9756](9756.md) — Question n° 9756 — Retard de publication du décret sur l'amélioration de la retraite des SPV
+
+## Réponse
+
+*JO du 2025-12-16, page 10361*
+
+Le Gouvernement est pleinement attaché au modèle français de sécurité civile fondé, entre autres, sur la complémentarité des statuts de sapeur-pompier professionnel, militaire, volontaire ou bénévole et qui a, une nouvelle fois, démontré sa résilience et sa solidité durant la saison estivale écoulée. Concernant l'octroi de trimestres supplémentaires de retraite prévu à l'article 24 de la loi n° 2023-270 du 14 avril 2023, le Premier ministre a récemment confirmé que cette mesure de majoration de la durée d'assurance au bénéfice de tous les sapeurs-pompiers volontaires allait pouvoir entrer en vigueur en 2026. Le dispositif retenu permettra à ceux qui auront servi au moins quinze ans en qualité de sapeur-pompier volontaire de bénéficier d'un trimestre supplémentaire, puis d'un trimestre par tranche de cinq ans dans la limite de trois trimestres. Il s'agit d'une réelle avancée dans la reconnaissance due à ces citoyens pleinement investis au service de leurs concitoyens et de la Nation. Le décret, porté par le ministère en charge du travail est actuellement au conseil d'Etat dans sa phase de consultation finale.
