@@ -1,0 +1,9 @@
+# Réponse à la question n° 9664
+
+- Question : [9664](9664.md) — Question n° 9664 — Avenir du statut et de la reconnaissance des sapeurs-pompiers volontaires
+
+## Réponse
+
+*JO du 2025-12-16, page 10356*
+
+Le Gouvernement est pleinement attaché au modèle français de sécurité civile fondé, entre autres, sur la complémentarité des statuts de sapeur-pompier professionnel, militaire, volontaire ou de bénévole et qui a, une nouvelle fois, démontré sa résilience et sa solidité durant la saison estivale écoulée. S'agissant de la nouvelle prestation de fidélisation et de reconnaissance, le Gouvernement ne porte aucun projet de réforme de cette prestation, encore moins de suppression. Cependant, l'augmentation des ressources nécessaires à son financement constitue un point de vigilance pour les services d'incendie et de secours ainsi que pour l'État, financeurs de cette prestation. Il est essentiel de sécuriser le financement de cette prestation pour qu'elle reste un pilier de l'attractivité et de la reconnaissance des sapeurs-pompiers volontaires. Des travaux vont être menés en ce sens. Concernant l'octroi de trimestres supplémentaires de retraite prévu à l'article 24 de la loi n° 2023-270 du 14 avril 2023, le Premier ministre a récemment confirmé que cette mesure de majoration de la durée d'assurance au bénéfice de tous les sapeurs-pompiers volontaires allait pouvoir entrer en vigueur en 2026. Le dispositif retenu permettra à ceux qui auront servi au moins quinze ans en qualité de sapeur-pompier volontaire de bénéficier d'un trimestre supplémentaire, puis d'un trimestre par tranche de cinq ans dans la limite de trois trimestres. Il s'agit d'une réelle avancée dans la reconnaissance due à ces citoyens pleinement investis au service de leurs concitoyens et de la Nation. Le décret, actuellement au conseil d'Etat pour avis, sera prochainement publié.
