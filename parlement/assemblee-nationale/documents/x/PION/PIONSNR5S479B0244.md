@@ -1,0 +1,11 @@
+# proposition de loi constitutionnelle visant à inscrire les conventions citoyennes dans la Constitution
+
+- Type : Proposition de loi
+- Sous-type : constitutionnelle
+- Dénomination : Proposition de loi
+- Provenance : Texte Déposé
+- Titre court : visant à inscrire les conventions citoyennes dans la Constitution
+- Déposé le : 2025-12-18
+- Dossier : DLR5L17N53883
+- Auteurs : M. Yan Chantrel (auteur), Mme Marie-Pierre Monier (auteur), M. Patrick Kanner (auteur), Mme Colombe Brossel (auteur), Mme Karine Daniel (auteur), M. Jean-Jacques Lozach (auteur), Mme Sylvie Robert (auteur), M. David Ros (auteur), M. Adel Ziane (auteur), Mme Viviane Artigalas (auteur), Mme Audrey Bélim (auteur), Mme Florence Blatrix Contat (auteur), Mme Nicole Bonnefoy (auteur), M. Denis Bouad (auteur), M. Hussein Bourgi (auteur), Mme Isabelle Briquet (auteur), Mme Marion Canalès (auteur), M. Rémi Cardon (auteur), Mme Marie-Arlette Carlotti (auteur), M. Christophe Chaillou (auteur), Mme Catherine Conconne (auteur), Mme Hélène Conway-Mouret (auteur), M. Thierry Cozic (auteur), M. Jérôme Darras (auteur), Mme Marie-Pierre de La Gontrie (auteur), M. Gilbert-Luc Devinaz (auteur), M. Vincent Éblé (auteur), Mme Frédérique Espagnac (auteur), M. Sébastien Fagnen (auteur), M. Rémi Féraud (auteur), Mme Corinne Féret (auteur), M. Jean-Luc Fichet (auteur), M. Hervé Gillé (auteur), Mme Laurence Harribey (auteur), M. Olivier Jacquin (auteur), M. Éric Jeansannetas (auteur), M. Patrice Joly (auteur), M. Bernard Jomier (auteur), Mme Gisèle Jourda (auteur), M. Éric Kerrouche (auteur), Mme Annie Le Houerou (auteur), Mme Audrey Linkenheld (auteur), Mme Monique Lubin (auteur), M. Victorin Lurel (auteur), M. Didier Marie (auteur), Mme Paulette Matray (auteur), M. Serge Mérillou (auteur), M. Jean-Jacques Michau (auteur), M. Franck Montaugé (auteur), Mme Corinne Narassiguin (auteur), M. Saïd Omar Oili (auteur), M. Alexandre Ouizille (auteur), M. Sebastien Pla (auteur), Mme Émilienne Poumirol (auteur), M. Claude Raynal (auteur), M. Christian Redon-Sarrazy (auteur), M. Pierre-Alain Roiron (auteur), Mme Laurence Rossignol (auteur), M. Lucien Stanzione (auteur), M. Rachid Temal (auteur), M. Jean-Claude Tissot (auteur), M. Simon Uzenat (auteur), M. Mickaël Vallet (auteur), M. Jean-Marc Vayssouze-Faure (auteur), M. Michaël Weber (auteur)
+- Identifiant : PIONSNR5S479B0244
