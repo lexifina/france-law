@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250705401
+
+- Question : [SEQ250705401](seq250705401.md) — Suivi de la bonne application de la mise aux repos des animaux non domestiques transférés dans des établissements étrangers
+
+## Réponse
+
+*Transition écologique, JO du 2025-12-18, page 6234*
+
+Le Gouvernement accorde une attention toute particulière au bien-être animal dans la mise en oeuvre de la loi n° 2021-1539 du 30 novembre 2021, destinée à lutter contre la maltraitance animale et à renforcer le lien précieux qui unit les animaux et les humains. Dans cet esprit, le décret n° 2025-396 du 30 avril 2025 relatif à l'accompagnement financier des établissements itinérants présentant au public des espèces non domestiques prévoit la création de cinq dispositifs d'aide. Ces mesures visent à soutenir la reconversion des professionnels concernés tout en garantissant les meilleures conditions de vie pour les animaux. Parmi ces dispositifs, la mesure 3 offre un soutien financier aux établissements qui choisissent de mettre leurs animaux au repos en les confiant à un refuge ou à un établissement zoologique fixe. La possibilité de placer les animaux dans des structures situées à l'étranger a également été ouverte, afin de permettre, lorsque cela est pertinent, une prise en charge encore mieux adaptée à leurs besoins. Pour bénéficier de cette mesure, chaque placement doit faire l'objet d'un contrôle par les directions départementales chargées de la protection des populations. Lorsque l'animal est accueilli dans une structure située en France, ce contrôle prend la forme d'une visite permettant de vérifier sa présence effective et ses conditions d'accueil. En cas de placement à l'étranger, les autorités départementales doivent obtenir, avant tout versement de l'aide, la confirmation officielle des autorités compétentes du pays d'accueil, attestant que le placement respecte bien la réglementation locale.
