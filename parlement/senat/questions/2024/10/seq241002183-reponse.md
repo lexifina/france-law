@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241002183
+
+- Question : [SEQ241002183](seq241002183.md) — Réforme des redevances des agences de l'eau
+
+## Réponse
+
+*Transition écologique, biodiversité et négociations internationales sur le climat et la nature, JO du 2025-12-18, page 6238*
+
+Le Gouvernement est pleinement conscient des difficultés rencontrées par des collectivités pour assurer la rénovation et la sécurisation de leurs réseaux d'eau, dans un contexte marqué par le changement climatique et des besoins d'investissements parfois considérables. Les agences de l'eau ont pour mission d'accompagner ces collectivités. Elles mobilisent des aides techniques et financières importantes : subventions pour la rénovation des réseaux, lutte contre les pertes en eau, mise en conformité sanitaire, ou encore appui en ingénierie. Le Plan eau prévoit par ailleurs 180 Meuros supplémentaires chaque année pour renforcer ce soutien, en priorité au bénéfice des territoires les plus exposés. La réforme des redevances, entrée en vigueur le 1 janvier 2025, introduit des redevances de performance fondées sur l'efficacité des réseaux. Elle remplace une partie des anciens dispositifs uniformes par un mécanisme incitatif : il valorise les collectivités exemplaires et encourage la progression de toutes, sans instaurer de pénalités automatiques. Les sanctions réglementaires demeurent limitées et proportionnées, afin de garantir la sécurité sanitaire et la bonne gestion de la ressource. Enfin, les conditions d'éligibilité aux aides visent à garantir la pérennité des projets, tout en prévoyant des dérogations pour les territoires prioritaires ou fragiles. L'action du Gouvernement et des agences de l'eau repose ainsi sur un équilibre entre soutien financier, incitation à la performance et exigences de gestion durable, afin de permettre aux collectivités de moderniser leurs réseaux et d'assurer une distribution d'eau potable sécurisée.
