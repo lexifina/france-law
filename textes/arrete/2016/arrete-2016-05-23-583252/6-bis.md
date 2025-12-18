@@ -1,0 +1,13 @@
+# Article 6 bis
+
+Par dérogation aux articles 3, 4 et 6 du présent arrêté, dans le cas particulier où les CSR sont préparés dans une installation de préparation, puis utilisés sans rupture de charge dans une installation de co-incinération de CSR classée sous la rubrique 2971 située sur le même site que l'installation de préparation, ils n'ont pas l'obligation d'être conditionnés sous forme de lots associés à un numéro unique d'identification.
+
+Dans ce cas, les caractérisations exigées au I de l'article 4 du présent arrêté sont effectuées sur un échantillon homogène et représentatif de CSR prélevé suivant un plan d'échantillonnage approprié et consigné dans le manuel de gestion de la qualité, aux fréquences prévues au II de l'article 4. Lorsque les résultats d'analyses réalisées sur un échantillon sortant ne respectent pas les seuils de l'annexe, l'échantillon n'est pas un CSR admissible dans une installation classée sous la rubrique 2971 et la totalité des CSR sortants de l'installation de préparation postérieurement à l'obtention des résultats d'analyse seront réputés ne pas être des CSR admissibles dans une installation classée sous la rubrique 2971 tant qu'une nouvelle analyse présentant des résultats conformes aux seuils de l'annexe n'est pas produite. Cependant, sur demande de l'exploitant, le préfet peut autoriser la poursuite de l'admission des CSR sortants de l'installation de préparation postérieurement à l'obtention des résultats d'analyse non-conformes, dans l'installation de co-incinération classée sous la rubrique 2971 située sur le même site. A cet effet, l'exploitant transmet au préfet des propositions de mesures compensatoires, ainsi que la justification technique du fait que l'admission de ces CSR dans l'installation classée sous la rubrique 2971 visée n'engendrera pas d'effets nocifs pour l'environnement ou la santé humaine.
+
+Lorsqu'une nouvelle analyse présente des résultats conformes aux seuils de l'annexe I, une seconde analyse conforme aux seuils de l'annexe est requise :
+
+- dans les six semaines qui suivent la première analyse conforme, pour les installations de préparation de capacité inférieure à 50 tonnes journalières ;
+
+- dans les quinze jours qui suivent la première analyse conforme, pour les installations de préparation de capacité supérieure à 50 tonnes journalière.
+
+L'exploitant de l'installation de préparation de CSR tient un registre daté relatif aux CSR envoyés pour combustion dans l'installation de co-incinération située sur le même site, dans lequel il consigne la nature des déchets utilisés et les résultats des caractérisations et analyses réalisées sur les CSR conformément au présent article. L'exploitant archive pendant au minimum trois années le contenu de ce registre.
