@@ -1,0 +1,11 @@
+# COMMUNE DE MONT DOL : délibération 2025_60REMPLACE — BUDGET COMMUNE - AUTORISATION A ENGAGER, LIQUIDER ET MANDATER LES DEPENSES D'INVESTISSEMENT AVANT LE VOTE DU BP 2026
+
+- Collectivité : COMMUNE DE MONT DOL
+- SIRET : 21350186900019
+- Code INSEE : 35186
+- Date : 2025-12-18
+- Matière : 7.10 Finances locales/Divers
+- Objet : BUDGET COMMUNE - AUTORISATION A ENGAGER, LIQUIDER ET MANDATER LES DEPENSES D'INVESTISSEMENT AVANT LE VOTE DU BP 2026
+- Transmis à la préfecture : 2025-12-18
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213501869/Deliberation/2025/992273/8ada0fe5a54df38a3708b3ac7df93705b9e9e571b67ac1dac535fd20dc8847fc.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
