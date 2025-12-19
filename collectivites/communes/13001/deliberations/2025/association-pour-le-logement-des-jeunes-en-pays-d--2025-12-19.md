@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — ASSOCIATION POUR LE LOGEMENT DES JEUNES EN PAYS D'AIX (ALJEPA) - INSTALLATION D'OMBRIÈRES PHOTOVOLTAÏQUES - EMPRUNT TOTAL DE 350 000 EUROS A SOUSCRIRE AUPRÈS DU CRÉDIT AGRICOLE ALPES PROVENCE - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 50 %
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2025-12-19
+- Séance : Conseil Municipal 1CA
+- Objet : ASSOCIATION POUR LE LOGEMENT DES JEUNES EN PAYS D'AIX (ALJEPA) - INSTALLATION D'OMBRIÈRES PHOTOVOLTAÏQUES - EMPRUNT TOTAL DE 350 000 EUROS A SOUSCRIRE AUPRÈS DU CRÉDIT AGRICOLE ALPES PROVENCE - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 50 %
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-22030-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
