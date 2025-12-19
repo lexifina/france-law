@@ -1,7 +1,5 @@
 # Article Annexe 2
 
-ANNEXE 2
-
 RÉPARTITION DES POSTES OFFERTS POUR LE DES DE PHARMACIE HOSPITALIÈRE AU CONCOURS D'INTERNAT À TITRE EUROPÉEN DE PHARMACIE AU TITRE DE L'ANNÉE UNIVERSITAIRE 2026-2027
 
 Région |
@@ -28,9 +26,9 @@ Assistance publique-hôpitaux de Paris |
 
 1 |
 
-Haut-de-France |
+Auvergne-Rhône-Alpes |
 
-Lille |
+Clermont-Ferrand |
 
 1 |
 
