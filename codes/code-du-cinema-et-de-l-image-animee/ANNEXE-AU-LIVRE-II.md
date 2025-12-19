@@ -54,7 +54,7 @@ Lorsque l'agrément des investissements a été délivré :
 
 8° En cas de coproduction, une lettre signée par chacune des entreprises parties au contrat de coproduction indiquant la répartition des sommes représentant les aides financières automatiques auxquelles elles peuvent prétendre pour l'inscription sur leur compte automatique et attestant sur l'honneur que cette répartition ne fait pas et ne fera pas l'objet de stipulations contractuelles de nature à porter atteinte, directement ou indirectement, à la répartition résultant de l'application des articles 211-36 et 211-37 ;
 
-8° bis L'attestation nominative établie par l'opérateur de compétences AFDAS ou toute personne mandatée par lui certifiant que les salariés concernés ont suivi la formation prévue à l'article 122-17-1 ;
+8° bis L'attestation nominative établie par l'opérateur de compétences AFDAS ou toute personne mandatée par lui certifiant que les salariés concernés ont suivi la formation prévue à l'article 122-17-1 ou, le cas échéant, les attestations individuelles de suivi du module en présentiel dans les six mois précédents établies par ce même opérateur ou son mandataire ;
 
 8° ter Le contrat de travail et les bulletins de salaire du responsable des enfants lorsqu'au moins un enfant de moins de seize ans a été engagé pour la production de l'œuvre ;
 
@@ -920,6 +920,6 @@ II-11.1. Documents justificatifs à joindre à l'appui d'une demande d'aide
 
 NOTA :
 
-Conformément à l'article 5 de la délibération n° 2025/CA/13 du 26 juin 2025 (NOR : MICK2520150X), ces dispositions s'appliquent aux œuvres cinématographiques ou audiovisuelles dont les prises de vues débutent à compter du 1er septembre 2025.
+Conformément à l'article 33 de la délibération n° 2025/CA/14 du 26 juin 2025 (NOR : MICK2520155X), ces dispositions, dans leur rédaction résultant de ladite délibération, s'appliquent aux demandes d'aides adressées au Centre national du cinéma et de l'image animée à compter du 1er janvier 2026.
 
-Conformément à l'article 33 de la délibération n° 2025/CA/14 du 26 juin 2025 (NOR : MICK2520155X), ces dispositions s'appliquent aux demandes d'aides adressées au Centre national du cinéma et de l'image animée à compter du 1er janvier 2026.
+Conformément à l'article 6 de la délibération n° 2025/CA/34 du 2 décembre 2025, ces dispositions, dans leur rédaction résultant de ladite délibération, s'appliquent aux œuvres cinématographiques dont les prises de vues débutent à compter du 1er janvier 2026.
