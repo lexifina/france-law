@@ -120,24 +120,6 @@ Chef groupe BRI |
 
 DNPJ/ SDAT/ DNRTIS |
 
-Adjoint au chef d'une brigade DNRTIS |
-
-92 |
-
-DNPJ/ SDAT/ DNRTIS |
-
-Adjoint au chef d'une brigade DNRTIS |
-
-92 |
-
-DNPJ/ SDAT/ DNRTIS |
-
-Adjoint au chef d'une brigade DNRTIS |
-
-92 |
-
-DNPJ/ SDAT/ DNRTIS |
-
 Chef de groupe d'une brigade DNRTIS |
 
 92 |
@@ -332,12 +314,6 @@ DNPJ/ OFAST |
 
 Chef de groupe Roissy |
 
-95 |
-
-DNPJ/ OFAST |
-
-Chef de groupe Roissy |
-
 Direction nationale de la police aux frontières |
 
 12 postes |
@@ -356,9 +332,9 @@ Chef de l'unité de contrôle transfrontière (UCT) |
 
 77 |
 
-DNPAF/ OLTIM/ Pôle pilotage territorial et soutien |
+DNPAF/OLTIM/Pôle opérationnel |
 
-Chef du pôle pilotage territorial et soutien |
+Adjoint au chef du pôle opérationnel |
 
 77 |
 
@@ -704,18 +680,6 @@ Adjoint au commandant de compagnie |
 
 91 |
 
-DZCRS Paris/ CRS 03 Quincy-sous-Sénart |
-
-Officier de compagnie |
-
-91 |
-
-DZCRS Paris/ CRS 03 Quincy-sous-Sénart |
-
-Officier de compagnie |
-
-91 |
-
 DZCRS Paris/ CRS 05 Massy |
 
 Adjoint au commandant de compagnie |
@@ -858,12 +822,6 @@ Officier de compagnie |
 
 59 |
 
-DZCRS Nord/ CRS 11 Lille (Lambersart) |
-
-Officier de compagnie |
-
-59 |
-
 DZCRS Nord/ CRS 12 Lille (Lambersart) |
 
 Adjoint au commandant de compagnie |
@@ -879,12 +837,6 @@ Officier de compagnie |
 DZCRS Nord/ CRS 15 Béthune |
 
 Adjoint au commandant de compagnie |
-
-62 |
-
-DZCRS Nord/ CRS 15 Béthune |
-
-Officier de compagnie |
 
 62 |
 
@@ -919,12 +871,6 @@ SGAMI de Rennes |
 DZCRS Ouest/ CRS 52 Sancerre |
 
 Adjoint au commandant de compagnie |
-
-18 |
-
-DZCRS Ouest/ CRS 52 Sancerre |
-
-Officier de compagnie |
 
 22 |
 
@@ -1051,12 +997,6 @@ Officier de compagnie |
 DZCRS Ouest/ CRS 31 Rouen (Darnetal) |
 
 Adjoint au commandant de compagnie |
-
-76 |
-
-DZCRS Ouest/ CRS 31 Rouen (Darnetal) |
-
-Officier de compagnie |
 
 76 |
 
@@ -1254,12 +1194,6 @@ Adjoint au commandant de compagnie |
 
 13 |
 
-DZCRS Sud/ CRS 54 Marseille |
-
-Officier de compagnie |
-
-13 |
-
 DZCRS Sud/ CRS 55 Marseille |
 
 Adjoint au commandant de compagnie |
@@ -1293,12 +1227,6 @@ Chef de section |
 DZCRS Sud/ CRS 26 Toulouse |
 
 Adjoint au commandant de compagnie |
-
-31 |
-
-DZCRS Sud/ CRS 26 Toulouse |
-
-Officier de compagnie |
 
 31 |
 
@@ -1430,12 +1358,6 @@ DZCRS Sud-est/ CRS 49 Montélimar |
 
 Adjoint au commandant de compagnie |
 
-26 |
-
-DZCRS Sud-est/ CRS 49 Montélimar |
-
-Officier de compagnie |
-
 38 |
 
 DZCRS Sud-est/ CRS Alpes section Grenoble |
@@ -1448,12 +1370,6 @@ DZCRS Sud-est/ CRS 47 Grenoble |
 
 Adjoint au commandant de compagnie |
 
-38 |
-
-DZCRS Sud-est/ CRS 47 Grenoble |
-
-Officier de compagnie |
-
 42 |
 
 DZCRS Sud-est/ CRS 34 Roanne |
@@ -1478,23 +1394,11 @@ DZCRS Sud-est/ CRS 50 Saint-Etienne (La Talaudiere) |
 
 Officier de compagnie |
 
-42 |
-
-DZCRS Sud-est/ CRS autoroutière Rhône Alpes Auvergne détachement St-Etienne |
-
-Chef de détachement |
-
 63 |
 
 DZCRS Sud-est/ CRS 48 Châtelguyon |
 
 Adjoint au commandant de compagnie |
-
-63 |
-
-DZCRS Sud-est/ CRS 48 Châtelguyon |
-
-Officier de compagnie |
 
 69 |
 
@@ -1622,12 +1526,6 @@ Adjoint au commandant de compagnie |
 
 54 |
 
-DZCRS Est/ CRS 39 Nancy (Jarville) |
-
-Officier de compagnie |
-
-54 |
-
 DZCRS Est/ CRS autoroutière Lorraine Alsace détachement Nancy |
 
 Chef de détachement |
@@ -1658,18 +1556,6 @@ Adjoint au commandant de compagnie |
 
 57 |
 
-DZCRS Est/ CRS 30 Châtel-Saint-Germain |
-
-Officier de compagnie |
-
-57 |
-
-DZCRS Est/ CRS 30 Châtel-Saint-Germain |
-
-Officier de compagnie |
-
-57 |
-
 DZCRS Est/ CRS 36 Châtel-Saint-Germain |
 
 Adjoint au commandant de compagnie |
@@ -1685,12 +1571,6 @@ Adjoint au commandant de compagnie |
 DZCRS Est/ CRS 37 Strasbourg |
 
 Adjoint au commandant de compagnie |
-
-67 |
-
-DZCRS Est/ CRS 37 Strasbourg |
-
-Officier de compagnie |
 
 67 |
 
@@ -1727,12 +1607,6 @@ Officier de compagnie |
 DZCRS Est/ CRS 44 Joigny |
 
 Adjoint au commandant de compagnie |
-
-89 |
-
-DZCRS Est/ CRS 44 Joigny |
-
-Officier de compagnie |
 
 Directions zonales de la police nationale (415 postes)
 
@@ -1988,18 +1862,6 @@ Chef SLPJ |
 
 DIPN60/ CPN Creil |
 
-Adjoint chef SLSP |
-
-60 |
-
-DIPN60/ CPN Creil |
-
-Adjoint chef SLPJ |
-
-60 |
-
-DIPN60/ CPN Creil |
-
 Chef SLPJ |
 
 62 |
@@ -2114,12 +1976,6 @@ Adjoint chef CPN & chef SDSP |
 
 DIPN80/ CPN Amiens |
 
-Chef DAJ |
-
-80 |
-
-DIPN80/ CPN Amiens |
-
 Chef UAO |
 
 80 |
@@ -2192,18 +2048,6 @@ Chef SDN |
 
 28 |
 
-DIPN28/ Eure-et-Loir-SDN |
-
-Adjoint chef SDN |
-
-28 |
-
-DIPN28/ CPN Chartres |
-
-Chef SLPJ |
-
-28 |
-
 DIPN28/ CPN Chartres |
 
 Adjoint chef SLPJ |
@@ -2237,12 +2081,6 @@ Adjoint chef CPN |
 DIPN28/ CPN Dreux |
 
 Chef SLSP |
-
-28 |
-
-DIPN28/ CPN Dreux |
-
-Adjoint chef SLSP |
 
 35 |
 
@@ -2308,18 +2146,6 @@ Adjoint chef SDN |
 
 DIPN76/ Seine-Maritime-SDN |
 
-Officier SDN |
-
-76 |
-
-DIPN76/ Seine-Maritime-SDN |
-
-Officier SDN |
-
-76 |
-
-DIPN76/ Seine-Maritime-SDN |
-
 Chef d'antenne SDN-Le Havre |
 
 76 |
@@ -2327,12 +2153,6 @@ Chef d'antenne SDN-Le Havre |
 DIPN76/ Seine-Maritime-SDN |
 
 Adjoint au chef d'antenne SDN-Le Havre |
-
-76 |
-
-DIPN76/ Seine-Maritime-SDN |
-
-Officier SDN-Antenne du Havre |
 
 76 |
 
@@ -2414,7 +2234,7 @@ Adjoint au chef GAJ cyclique |
 
 Renseignement territorial |
 
-3 postes |
+2 postes |
 
 Zone SUD-OUEST (10 postes) :
 
@@ -2491,12 +2311,6 @@ DEPT |
 AFFECTATION |
 
 FONCTIONS |
-
-06 |
-
-DIPN06/ Alpes Maritimes |
-
-Chef CIC |
 
 06 |
 
@@ -2856,12 +2670,6 @@ Chef UPS |
 
 DIPN13/ CPN Marseille-Division Nord |
 
-Adjoint au chef UPS |
-
-13 |
-
-DIPN13/ CPN Marseille-Division Nord |
-
 Chef BAC |
 
 13 |
@@ -2899,12 +2707,6 @@ Adjoint au chef SLPJ |
 DIPN13/ CPN Marseille-Division Nord/ SLPJ |
 
 Chef division d'enquête |
-
-13 |
-
-DIPN13/ CPN Marseille-Division Nord/ SLPJ |
-
-Adjoint chef division d'enquête |
 
 13 |
 
@@ -2952,19 +2754,13 @@ Chef DAJ |
 
 DIPN13/ CPN Marseille-Division Sud/ SLPJ |
 
-Adjoint chef DAJ |
-
-13 |
-
-DIPN13/ CPN Marseille-Division Sud/ SLPJ |
-
 Adjoint chef SLPJ |
 
 13 |
 
-DIPN13/ CPN Marseille-Division Sud/ SLPJ |
+DIPN13/CPN Marseille - Division Sud/SLPJ |
 
-Chef BAB |
+Chef division de l'enquête |
 
 13 |
 
@@ -3079,12 +2875,6 @@ Chef DAJ à Pennes-Mirabeau |
 DIPN2A/ SIPJ/ DCOS |
 
 Chef de groupe de lutte antiterroriste (GLAT) |
-
-2A |
-
-DIPN2A/ SIPJ/ BRI/ Groupe 10 |
-
-Chef de groupe BRI |
 
 2A |
 
@@ -3358,12 +3148,6 @@ Adjoint au chef BRI |
 
 34 |
 
-DIPN34/ SIPJ/ BRI/ Groupe 10 |
-
-Chef de groupe BRI |
-
-34 |
-
 DIPN34/ SIPJ/ BRI/ Groupe 20 |
 
 Chef de groupe BRI |
@@ -3625,12 +3409,6 @@ Adjoint au chef EMD |
 DIPN38/ Isère-SDN |
 
 Adjoint chef SDN |
-
-38 |
-
-DIPN38/ Isère-SDN |
-
-Officier SDN |
 
 38 |
 
@@ -3934,12 +3712,6 @@ Chef EMD |
 
 21 |
 
-DIPN21/ SIPJ |
-
-Adjoint chef BRI |
-
-21 |
-
 DIPN21/ CPN Dijon |
 
 Adjoint chef SDSP |
@@ -4066,12 +3838,6 @@ Officier SDN |
 
 68 |
 
-DIPN68/ Haut-Rhin-SDN |
-
-Officier SDN |
-
-68 |
-
 DIPN68/ SIPJ |
 
 Chef détachement OFAST |
@@ -4117,12 +3883,6 @@ Chef DAJ |
 DIPN68/ CPN Mulhouse |
 
 Chef UOP |
-
-68 |
-
-DIPN68/ CPN Mulhouse |
-
-Chef UPS |
 
 Renseignement territorial |
 
@@ -4228,12 +3988,6 @@ Chef DAJ |
 
 DIPN77/ CPN Melun-val-de-Seine |
 
-Chef BAB |
-
-77 |
-
-DIPN77/ CPN Melun-val-de-Seine |
-
 Chef BAP |
 
 77 |
@@ -4310,12 +4064,6 @@ Adjoint chef SLPJ |
 
 77 |
 
-DIPN77/ CPN Noisiel/ SLPJ |
-
-Chef DAJ |
-
-77 |
-
 DIPN77/ CPN Noisiel |
 
 Chef EM |
@@ -4355,12 +4103,6 @@ Chef brigade des stupéfiants |
 DIPN77/ CPN Villeparisis |
 
 Adjoint chef SLPJ |
-
-77 |
-
-DIPN77/ CPN Villeparisis/ SLPJ |
-
-Chef DAJ |
 
 77 |
 
@@ -4494,12 +4236,6 @@ Adjoint chef SLPJ |
 
 DIPN78/ CPN Conflans-Sainte-Honorine |
 
-Chef DAJ |
-
-78 |
-
-DIPN78/ CPN Conflans-Sainte-Honorine |
-
 Chef UPS |
 
 78 |
@@ -4513,12 +4249,6 @@ Adjoint chef SLPJ |
 DIPN78/ CPN Conflans-Sainte-Honorine |
 
 Chef d'état-major de circonscription |
-
-78 |
-
-DIPN78/ CPN Conflans-Sainte-Honorine |
-
-Chef brigade financière & BPA |
 
 78 |
 
@@ -4662,12 +4392,6 @@ Adjoint chef SLSP |
 
 DIPN78/ CPN Sartrouville |
 
-Chef UPS |
-
-78 |
-
-DIPN78/ CPN Sartrouville |
-
 Adjoint Chef SLPJ |
 
 78 |
@@ -4684,7 +4408,7 @@ Chef division de l'enquête |
 
 Renseignement territorial |
 
-3 postes |
+2 postes |
 
 Essonne |
 
@@ -4752,12 +4476,6 @@ Chef de la brigade des stupéfiants |
 
 91 |
 
-DIPN91/ CPN Evry |
-
-Chef du commissariat de secteur Corbeil Essonne |
-
-91 |
-
 DIPN91/ CPN Juvisy-s/ orge |
 
 Chef division de l'enquête |
@@ -4788,12 +4506,6 @@ Chef brigade des stupéfiants |
 
 91 |
 
-DIPN91/ CPN Juvisy-s/ orge |
-
-Chef du commissariat de secteur Savigny |
-
-91 |
-
 DIPN91/ CPN Massy |
 
 Adjoint chef SLPJ |
@@ -4808,19 +4520,7 @@ Chef DAJ |
 
 DIPN91/ CPN Massy |
 
-Chef UAO |
-
-91 |
-
-DIPN91/ CPN Massy |
-
 Chef BAP |
-
-91 |
-
-DIPN91/ CPN Massy |
-
-Chef brigade des stupéfiants |
 
 91 |
 
@@ -4899,12 +4599,6 @@ Chef UAO |
 DIPN91/ CPN Val d'Yerres/ Val-de-Seine |
 
 Chef BAP |
-
-91 |
-
-DIPN91/ CPN Val d'Yerres/ Val-de-Seine |
-
-Chef brigade stupéfiants |
 
 91 |
 
@@ -5058,12 +4752,6 @@ Chef UPS |
 
 95 |
 
-DIPN95/ CPN Argenteuil |
-
-Chef DAJ |
-
-95 |
-
 DIPN95/ CPN Enghien-les-Bains |
 
 Adjoint chef SLSP |
@@ -5097,12 +4785,6 @@ Chef division de l'enquête |
 DIPN95/ CPN Ermont |
 
 Chef DAJ |
-
-95 |
-
-DIPN95/ CPN Ermont |
-
-Chef UAO |
 
 95 |
 
@@ -5132,12 +4814,6 @@ Chef SLPJ |
 
 DIPN95/ CIPN Gonesse |
 
-Chef DAJ |
-
-95 |
-
-DIPN95/ CIPN Gonesse |
-
 Chef division de l'enquête |
 
 95 |
@@ -5157,12 +4833,6 @@ Chef DAJ |
 DIPN95/ CPN Sarcelles |
 
 Chef division de l'enquête |
-
-95 |
-
-DIPN95/ CPN Sarcelles |
-
-Adjoint chef division de l'enquête |
 
 95 |
 
@@ -5261,12 +4931,6 @@ Chef UAO |
 DTPN/972/ STSP |
 
 Chef UOP |
-
-972 |
-
-DTPN/972/ STSP |
-
-Adjoint chef UOP |
 
 972 |
 
@@ -6038,12 +5702,6 @@ Chef ULII 75 |
 
 DSPAP/ SDLII/ DCO |
 
-Adjoint au Chef de groupe de répression des infractions facilitant la fraude des étrangers (GRIFFE) |
-
-75 |
-
-DSPAP/ SDLII/ DCO |
-
 Chef de groupe de lutte contre les trafics de faux |
 
 75 |
@@ -6170,12 +5828,6 @@ Chef de brigade judiciaire |
 
 DSPAP/ DT92/ D1/ Asnières |
 
-Adjoint chef SSQ |
-
-92 |
-
-DSPAP/ DT92/ D1/ Asnières |
-
 Chef SSQ |
 
 92 |
@@ -6207,12 +5859,6 @@ Chef SSQ |
 DSPAP/ DT92/ D1/ Gennevilliers |
 
 Adjoint CDC |
-
-92 |
-
-DSPAP/ DT92/ D1/ Gennevilliers |
-
-Adjoint chef SSQ |
 
 92 |
 
@@ -6432,12 +6078,6 @@ Adjoint chef SAIP |
 
 93 |
 
-DSPAP/ DT93/ D2/ La Courneuve |
-
-Chef UTTR |
-
-93 |
-
 DSPAP/ DT93/ D2/ Saint-Denis |
 
 Adjoint chef SAIP |
@@ -6609,12 +6249,6 @@ Chef brigade des stups |
 DSPAP/ DT93/ Seine-Saint-Denis-UAO |
 
 Chef BAC |
-
-93 |
-
-DSPAP/ DT93/ Seine-Saint-Denis-UAO |
-
-Chef CGP |
 
 93 |
 
@@ -7100,13 +6734,9 @@ DPJ/ ST/3 e District de Police Judiciaire |
 
 Adjoint au chef de section groupes enquêtes GRB et
 
-vols avec effraction |
+vols avec effraction
 
-75 |
-
-DPJ/ ST/ GIR 75 |
-
-Responsable d'enquêtes |
+|
 
 75 |
 
@@ -7137,12 +6767,6 @@ Adjoint au chef de section enquêtes générales financières et antiterroriste 
 DPJ/ ST/ Service Départemental de Police Judiciaire 92 |
 
 Chef de groupe cités |
-
-93 |
-
-DPJ/ ST/ GIR 93 |
-
-Responsable d'enquêtes |
 
 93 |
 
