@@ -1898,7 +1898,7 @@ AT. I Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de 
 
 8. Au moins l'un des véhicules achetés ou loués par le bénéficiaire ne correspond pas aux informations fournies par le demandeur de certificats (numéro d'immatriculation ; numéro d'identification ; type variante version ; type d'acquisition : achat ou location ; type de véhicule : véhicule utilitaire léger neuf électrique) ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation de chaque véhicule ;
 
-9. Dans le cas d'un véhicule précédemment affecté à la démonstration, la cession ou la prise en location n'intervient pas dans un délai compris entre trois et douze mois suivant sa première immatriculation ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation actuel et une copie du précédent certificat d'immatriculation ;
+9. Dans le cas d'un véhicule précédemment affecté à la démonstration, la cession ou la prise en location n'intervient pas dans un délai compris entre trois et douze mois suivant sa première immatriculation ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation actuel et le demandeur de certificats une copie du précédent certificat d'immatriculation ;
 
 10. Dans le cas d'une bonification prévue par l'article 4 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, l'adresse de livraison du véhicule ne correspond pas à une zone non interconnectée au réseau métropolitain continental de transport d'électricité.
 
@@ -1940,7 +1940,7 @@ AU. I. Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de
 
 6. Le véhicule acheté ou loué par le bénéficiaire ne correspond pas aux informations fournies par le demandeur de certificats (numéro d'immatriculation ; numéro d'identification ; type variante version ; type d'acquisition : achat ou location ; type de véhicule : véhicule léger neuf électrique de catégorie M1 ou N1) ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation du véhicule ;
 
-7. Dans le cas d'un véhicule précédemment affecté à la démonstration, la cession ou la prise en location n'intervient pas dans un délai compris entre trois et douze mois suivant sa première immatriculation ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation actuel et une copie du précédent certificat d'immatriculation ;
+7. Dans le cas d'un véhicule précédemment affecté à la démonstration, la cession ou la prise en location n'intervient pas dans un délai compris entre trois et douze mois suivant sa première immatriculation ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation actuel et le demandeur de certificats une copie du précédent certificat d'immatriculation ;
 
 8. Dans le cas d'une bonification prévue par l'article 4 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, l'adresse de livraison du véhicule ne correspond pas à une zone non interconnectée au réseau métropolitain continental de transport d'électricité.
 
@@ -1986,7 +1986,7 @@ AV. I. Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de
 
 7. Au moins l'un des véhicules achetés ou loués par le bénéficiaire ne correspond pas aux informations fournies par le demandeur de certificats (numéro d'immatriculation ; numéro d'identification ; type variante version ; type d'acquisition : achat ou location ; type de véhicule : Autocar issu d'une opération de rétrofit, Autocar standard, Autocar grande capacité, Autobus issu d'une opération de rétrofit, Autobus standard, Autobus grande capacité) ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation de chaque véhicule et, dans le cas d'une opération de rétrofit, de la facture relative à l'opération de rétrofit et une copie du précédent certificat d'immatriculation ;
 
-8. Dans le cas d'un véhicule précédemment affecté à la démonstration, la cession ou la prise en location n'intervient pas dans un délai compris entre trois et douze mois suivant sa première immatriculation ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation actuel et une copie du précédent certificat d'immatriculation.
+8. Dans le cas d'un véhicule précédemment affecté à la démonstration, la cession ou la prise en location n'intervient pas dans un délai compris entre trois et douze mois suivant sa première immatriculation ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation actuel et le demandeur de certificats une copie du précédent certificat d'immatriculation ;
 
 Les vérifications sont effectuées au lieu, désigné par le bénéficiaire, de disponibilité des pièces nécessaires au contrôle.
 
@@ -2028,7 +2028,7 @@ AW. I. Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de
 
 7. L'un au moins des véhicules achetés ou loués par le bénéficiaire ne correspond pas aux informations fournies par le demandeur de certificats (numéro d'immatriculation ; numéro d'identification ; type variante version ; type d'acquisition : achat ou location ; type de véhicule : Camion porteur > 3,5 tonnes et < 4,25 tonnes, Camion porteur ≥ 4,25 tonnes et < 7,5 tonnes, Camion porteur ≥ 7,5 tonnes et < 12 tonnes, Camion porteur ≥ 12 tonnes et < 19 tonnes, Camion porteur ≥ 19 tonnes et < 26 tonnes, Camion porteur ≥ 26 tonnes et tracteur routier, Benne à ordures ménagères) ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation de chaque véhicule et, dans le cas d'une opération de rétrofit, de la facture relative à l'opération de rétrofit et une copie du précédent certificat d'immatriculation ;
 
-8. Dans le cas d'un véhicule précédemment affecté à la démonstration, la cession ou la prise en location n'intervient pas dans un délai compris entre trois et douze mois suivant sa première immatriculation ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation actuel et une copie du précédent certificat d'immatriculation.
+8. Dans le cas d'un véhicule précédemment affecté à la démonstration, la cession ou la prise en location n'intervient pas dans un délai compris entre trois et douze mois suivant sa première immatriculation ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation actuel et le demandeur de certificats une copie du précédent certificat d'immatriculation ;
 
 Les vérifications sont effectuées au lieu, désigné par le bénéficiaire, de disponibilité des pièces nécessaires au contrôle.
 
@@ -2070,7 +2070,7 @@ AX. I. Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de
 
 7. L'un au moins des véhicules achetés ou loués par le bénéficiaire ne correspond pas aux informations fournies par le demandeur de certificats (numéro d'immatriculation ; numéro d'identification ; type variante version ; type d'acquisition : achat ou location ; type de véhicule : L6e-B, L7e-C) ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation de chaque véhicule ;
 
-8. Dans le cas d'un véhicule précédemment affecté à la démonstration, la cession ou la prise en location n'intervient pas dans un délai compris entre trois et douze mois suivant sa première immatriculation ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation actuel et une copie du précédent certificat d'immatriculation.
+8. Dans le cas d'un véhicule précédemment affecté à la démonstration, la cession ou la prise en location n'intervient pas dans un délai compris entre trois et douze mois suivant sa première immatriculation ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation actuel et le demandeur de certificats une copie du précédent certificat d'immatriculation ;
 
 Les vérifications sont effectuées au lieu, désigné par le bénéficiaire, de disponibilité des pièces nécessaires au contrôle.
 
