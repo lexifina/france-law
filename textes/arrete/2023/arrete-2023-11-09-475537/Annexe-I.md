@@ -20,7 +20,7 @@ LISTE DES FORMATIONS MENTIONNÉES À L'ARTICLE 3 DU PRÉSENT ARRÊTÉ
 
 -la gendarmerie de l'armement ;
 
--le pôle judiciaire de la gendarmerie nationale ;
+-unité nationale de police judiciaire ;
 
 -le commandement du soutien opérationnel de la gendarmerie nationale (3) ;
 
