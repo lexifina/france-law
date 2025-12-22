@@ -228,14 +228,6 @@ Boulogne-sur-Mer |
 
 Calais. |
 
-Cour d'appel de Fort-de-France |
-
-Martinique |
-
-Fort-de-France |
-
-Fort-de-France. |
-
 Cour d'appel de Grenoble |
 
 Drôme |
