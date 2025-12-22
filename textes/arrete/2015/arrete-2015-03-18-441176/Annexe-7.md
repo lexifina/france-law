@@ -2,1697 +2,911 @@
 
 ENGINS UTILISÉS POUR LES DÉCLARATIONS DES PÊCHEURS
 
-7.1. Déclarations sur support papier.
+Type d'engin |
 
-CODE
+Type d'engin (anglais) |
 
-|
+Code engin |
 
-DESCRIPTION
+Maillage (mm
 
-(EN)
+de maille étirée)
 
-|
+O = obligatoire
 
-DESCRIPTION
+F = facultatif |
 
-(FR)
+Dimension 1 |
 
-|
+Dimension 2 |
 
 RÉFÉRENCE
 
-annexe III OCM
+annexe III OCM |
 
-|
-
-|
-
-SURROUNDING NETS
-
-|
-
-FILETS TOURNANTS
-
-|
-
-|
-
-PS
-
-|
-
-Purse seines
-
-|
-
-Senne tournante
-
-|
-
-Filet tournant ou soulevé (Fil TS)
-
-|
-
-|
-
-SEINE NETS
-
-|
-
-SENNES
-
-|
-
-|
-
-SB
-
-|
-
-Beach seines
-
-|
-
-Sennes de plage
-
-|
-
-Senne
-
-|
-
-SDN
-
-|
-
-Danish seines
-
-|
-
-Sennes danoises
-
-|
-
-Senne
-
-|
-
-|
-
-TRAWLS
-
-|
-
-CHALUTS
-
-|
-
-|
-
-|
-
-Bottom trawls
-
-|
-
-Chaluts de fond
-
-|
-
-|
-
-TBB
-
-|
-
-Beam trawls
-
-|
-
-Chaluts à perche
-
-|
-
-Chalut
-
-|
-
-OTB
-
-|
-
-Single boat bottom otter trawls
-
-|
-
-Chaluts de fond à panneaux
-
-|
-
-Chalut
-
-|
-
-PTB
-
-|
-
-Bottom pair trawls
-
-|
-
-Chaluts bœufs de fond
-
-|
-
-Chalut
-
-|
-
-TBS
-
-|
-
-Bottom shrimp trawls
-
-|
-
-Chaluts de fond à crevettes
-
-|
-
-Chalut
-
-|
-
-|
-
-Midwater trawls
-
-|
-
-Chaluts pélagiques
-
-|
-
-|
-
-OTM
-
-|
-
-Single boat midwater otter trawls
-
-|
-
-Chaluts pélagiques à panneaux
-
-|
-
-Chalut
-
-|
-
-PTM
-
-|
-
-Midwater pair trawls
-
-|
-
-Chaluts bœufs pélagiques
-
-|
-
-Chalut
-
-|
-
-OTT
-
-|
-
-Otter twin trawls
-
-|
-
-Chaluts jumeaux à panneaux
-
-|
-
-Chalut
-
-|
-
-TMB
-
-|
-
-Mediterranean beam-trawl
-
-|
-
-Gangui
-
-|
-
-Chalut
-
-|
-
-|
-
-DREDGES
-
-|
-
-DRAGUES
-
-|
-
-|
-
-DRB
-
-|
-
-Towed dredges
-
-|
-
-Dragues remorquées par un bateau
-
-|
-
-Drague
-
-|
-
-DHB
-
-|
-
-Hand dredges operated from the boat
-
-|
-
-Dragues à main manœuvrée à partir du bateau
-
-|
-
-Drague
-
-|
-
-DRH
-
-|
-
-Hand dredges
-
-|
-
-Dragues à main
-
-|
-
-Drague
-
-|
-
-|
-
-LIFT NETS
-
-|
-
-FILETS SOULEVÉS
-
-|
-
-|
-
-LNP
-
-|
-
-Portable lift nets
-
-|
-
-Filets soulevés portatifs
-
-|
-
-Filet tournant ou soulevé (Fil TS)
-
-|
-
-LNB
-
-|
-
-Boat-operated lift nets
-
-|
-
-Filets soulevés manœuvrés par bateau
-
-|
-
-Filet tournant ou soulevé (Fil TS)
-
-|
-
-LNS
-
-|
-
-Shore-operated stationary lift nets
-
-|
-
-Filets soulevés fixes manœuvrés du rivage, carrelets
-
-|
-
-Filet tournant ou soulevé (Fil TS)
-
-|
-
-HES
-
-|
-
-Pushnets, scoopnets
-
-|
-
-Engins portatifs (haveneau, épuisette, salabarde,
-
-salabre, bichette à lames)
-
-|
-
-Filet tournant ou soulevé (Fil TS)
-
-|
-
-GES
-
-|
-
-Glass eel Sieve
-
-|
-
-Tamis à civelles
-
-|
-
-Filet tournant ou soulevé (Fil TS)
-
-|
-
-|
-
-FALLING GEAR
-
-|
-
-ENGINS RETOMBANTS
-
-|
-
-|
-
-FCN
-
-|
-
-Cast nets
-
-|
-
-Éperviers
-
-|
-
-Filet tournant ou soulevé (Fil TS)
-
-|
-
-|
-
-GILLNETS AND ENTANGLING NETS
-
-|
-
-FILETS MAILLANTS ET EMMÊLANTS
-
-|
-
-|
-
-GNS
-
-|
-
-Set gillnets (anchored)
-
-|
-
-Filets maillants calés de fond à une nappe,
-
-filets droits
-
-|
-
-Filet maillant (Fil mail)
-
-|
-
-GND
-
-|
-
-Drift gillnets
-
-|
-
-Filets maillants dérivants
-
-|
-
-Filet maillant (Fil mail)
-
-|
-
-GNC
-
-|
-
-Encircling gillnets
-
-|
-
-Filets maillants encerclants
-
-|
-
-Filet maillant (Fil mail)
-
-|
-
-GTR
-
-|
-
-Trammel nets
-
-|
-
-Trémails
-
-|
-
-Filet maillant (Fil mail)
-
-|
-
-GTN
-
-|
-
-Combined gillnets-trammel nets
-
-|
-
-Trémails et filets maillants combinés
-
-|
-
-Filet maillant (Fil mail)
-
-|
-
-GEN
-
-|
-
-Gillnets and entangling nets (not specified)
-
-|
-
-Autres Filets maillants et filets emmêlants (non spécifiés)
-
-|
-
-Filet maillant (Fil mail)
-
-|
-
-|
-
-TRAPS
-
-|
-
-PIÈGES
-
-|
-
-|
-
-FPO
-
-|
-
-Pots
-
-|
-
-Nasses et casiers, balais, fagots
-
-|
-
-Casier
-
-|
-
-FYK
-
-|
-
-Fyke nets
-
-|
-
-Verveux, tésure, d'sure, désure, cerf-volant (pour la pêche à l'anguille) capéchade
-
-|
-
-Casier
-
-|
-
-FWR
-
-|
-
-Barriers, fences, weirs, etc.
-
-|
-
-Barrages, parcs, bordigues, etc.
-
-|
-
-Casier
-
-|
-
-|
-
-HOOKS AND LINES
-
-|
-
-LIGNES ET HAMEÇONS
-
-|
-
-|
-
-LHP
-
-|
-
-Handlines and hand-operated pole-and-lines
-
-|
-
-Lignes à main ou à canne manœuvrées à la main (mitraillette, palangrotte)
-
-|
-
-Ligne
-
-|
-
-LHM
-
-|
-
-Mechanized lines and pole-and-lines
-
-|
-
-Lignes à main ou à cannes mécanisées
-
-|
-
-Ligne
-
-|
-
-LLS
-
-|
-
-Set longlines
-
-|
-
-Palangre calée fixe
-
-|
-
-Ligne
-
-|
-
-LLD
-
-|
-
-Drifting longlines
-
-|
-
-Palangres dérivantes
-
-|
-
-Ligne
-
-|
-
-LTL
-
-|
-
-Trolling lines
-
-|
-
-Lignes de traîne
-
-|
-
-Ligne
-
-|
-
-LVD
+FILETS TOURNANTS (SURROUNDING NETS) |
 
-|
-
-Vertical drifting longline
-
-|
-
-Palangre verticale dérivante
-
-|
-
-Ligne
-
-|
-
-LVS
-
-|
-
-Vertical bottom set longline
-
-|
+Senne tournante |
 
-Palangre verticale de fond
+Purse seine |
 
-|
-
-Ligne
-
-|
-
-|
-
-MISCELLANEOUS GEARS
-
-|
+PS |
 
-ENGINS DIVERS
+O |
 
-|
+Longueur (m) |
 
-|
+Hauteur (chute) (m) |
 
-HAR
+Filet tournant ou soulevé (Fil TS) |
 
-|
+Senne coulissante manœuvrée par un bateau |
 
-Harpoons
+One boat operated purse seine |
 
-|
+PS1 |
 
-Harpons
+O |
 
-|
+Longueur (m) |
 
-Pêche à pied
+Hauteur (chute) (m) |
 
-|
+Filet tournant ou soulevé (Fil TS) |
 
-HRK
+Senne coulissante manœuvrée par deux bateaux |
 
-|
+Two boats operated purse seine |
 
-Hand implements (Wrenching gear, Clamps, Tongs, Rakes, ears)
+PS2 |
 
-|
+O |
 
-Râteau et assimilé (dont gaffe, raballe, frelotte, main de fer et râteau à coiffe),
+Longueur (m) |
 
-|
+Hauteur (chute) (m) |
 
-Pêche à pied
+Filet tournant ou soulevé (Fil TS) |
 
-|
+Filet tournant sans coulisse (filet lamparo) |
 
-FIE
+Without purse line (lampara) |
 
-|
+LA |
 
-Hand implements (Wrenching gear, Clamps, Tongs, Rakes, ears)
+O |
 
-|
+Longueur (m) |
 
-Couteau et assimilé (dont faux, faucillon à panier, ciseaux, serpette, triangle, détroqueur),
+Hauteur (chute) (m) |
 
-|
+Filet tournant ou soulevé (Fil TS) |
 
-Pêche à pied
+SENNES (SEINE NETS) |
 
-|
+Senne de plage |
 
-FID
+Beach seine |
 
-|
+SB |
 
-Hand implements (Wrenching gear, Clamps, Tongs, Rakes, ears)
+O |
 
-|
+Longueur totale des lignes (m) |
 
-Pelle, fourche et assimilé (dont cuillère, fourchette, binette)
+Hauteur (chute) (m) |
 
-|
+Senne |
 
-Pêche à pied
+Senne danoise (à l'ancre) |
 
-|
+Danish seine |
 
-FIT
+SDN |
 
-|
+O |
 
-Hand implements (Wrenching gear, Clamps, Tongs, Rakes, ears)
+Longueur totale des lignes (m) |
 
-|
+Hauteur (chute) (m) |
 
-Autres outils à main (dont pompe, baleine , piolet, marteau, burin, coupe-gazon, pointe et carrelet)
+Senne |
 
-|
+Senne manœuvrée par deux bateaux/
 
-Pêche à pied
+Senne bœuf écossaise (dragage à la volée) |
 
-|
+Pair seine |
 
-FDV
+SPR |
 
-|
+O |
 
-Free-diving
+Longueur totale des lignes (m) |
 
-|
+Nombre de filets |
 
-Apnée
+Senne |
 
-|
+Senne écossaise (dragage à la volée) |
 
-Plongée
+Scottish seine |
 
-|
+SSC |
 
-SDV
+O |
 
-|
+Longueur totale des lignes (m) |
 
-Scuba-diving
+Nombre de filets |
 
-|
+Senne |
 
-Plongée sous-marine
+Senne halée à bord/ senne de bateau |
 
-|
+Boat or vessel seine |
 
-Plongée
+SV |
 
-|
+O |
 
-|
+Longueur totale des lignes (m) |
 
-HARVESTING MACHINES
+Nombre de filets |
 
-|
+Senne |
 
-ENGINS DE RÉCOLTE
+Senne (non spécifiée) |
 
-|
+Seine net (not specified) |
 
-|
+SX |
 
-HMS
+O |
 
-|
+Longueur totale des lignes (m) |
 
-Kelp (Seaweed) harvest gear
+Nombre de filets |
 
-|
+Senne |
 
-Scoubidou, peigne
+CHALUTS (TRAWLS) |
 
-|
+CHALUTS DE FOND (BOTTOM TRAWLS) |
 
-|
+Chalut à perche |
 
-NO
+Beam trawl |
 
-|
+TBB |
 
-NO GEAR
+O |
 
-|
+Longueur de la perche (m) |
 
-PAS D'ENGINS
+Nombre de perches |
 
-|
+Chalut |
 
-|
+Chalut de fond à panneaux |
 
-7.1 Déclarations sur support électronique (ERS).
+Single boat bottom otter trawl |
 
-CODE
+OTB |
 
-|
+O |
 
-DESCRIPTION
+Corde de dos (périmètre d'ouverture) (m) |
 
-(EN)
+Nombre de filets |
 
-|
+Chalut |
 
-DESCRIPTION
+Chalut de fond à crevettes |
 
-(FR)
+Bottom shrimp trawl |
 
-|
+TBS |
 
-RÉFÉRENCE
+O |
 
-annexe III OCM
+Corde de dos (périmètre d'ouverture) (m) |
 
-|
+Nombre de filets |
 
-|
+Chalut |
 
-SURROUNDING NETS
+Chalut bœuf de fond |
 
-|
+Bottom pair trawl |
 
-FILETS TOURNANTS
+PTB |
 
-|
+O |
 
-|
+Corde de dos (périmètre d'ouverture) (m) |
 
-PS
+Nombre de filets |
 
-|
+Chalut |
 
-Purse seines
+Chalut de fond (non spécifié) |
 
-|
+Bottom trawl (not specified) |
 
-Senne tournante
+TB |
 
-|
+O |
 
-Filet tournant ou soulevé (Fil TS)
+Corde de dos (périmètre d'ouverture) (m) |
 
-|
+Nombre de filets |
 
-PS1
+Chalut |
 
-|
+Chalut de fond à langoustines |
 
-One boat operated purse seines
+Nephrops trawl |
 
-|
+TBN |
 
-Senne coulissante manoeuvrée par un navire
+O |
 
-|
+Corde de dos (périmètre d'ouverture) (m) |
 
-Filet tournant ou soulevé (Fil TS)
+Nombre de filets |
 
-|
+Chalut |
 
-PS2
+CHALUTS PELAGIQUES (MIDWATER TRAWLS) |
 
-|
+Chalut pélagique à panneaux |
 
-Two boats operated purse seines
+Single boat midwater otter trawl |
 
-|
+OTM |
 
-Senne coulissante manoeuvrée par deux navires
+O |
 
-|
+Corde de dos (périmètre d'ouverture) (m) |
 
-Filet tournant ou soulevé (Fil TS)
+Nombre de filets |
 
-|
+Chalut |
 
-LA
+Chalut bœuf pélagique |
 
-|
+Midwater pair trawl |
 
-Without purse lines (lampara)
+PTM |
 
-|
+O |
 
-Sans coulisse (lamparo)
+Corde de dos (périmètre d'ouverture) (m) |
 
-|
+Nombre de filets |
 
-Filet tournant ou soulevé (Fil TS)
+Chalut |
 
-|
+Chaluts jumeaux à panneaux |
 
-|
+Otter twin trawl |
 
-SEINE NETS
+OTT |
 
-|
+O |
 
-SENNES
+Corde de dos (périmètre d'ouverture) (m) |
 
-|
+Nombre de chaluts |
 
-|
+Chalut |
 
-SDN
+Gangui |
 
-|
+Mediterranean beam-trawl |
 
-Danish seines
+TMB |
 
-|
+O |
 
-Sennes danoises
+Corde de dos (périmètre d'ouverture) (m) |
 
 |
 
-Senne
+Chalut |
 
-|
+DRAGUES (DREDGES) |
 
-SV
+Drague remorquée par un bateau |
 
-|
+Towed dredge |
 
-Boat or vessel seines
+DRB |
 
-|
+F |
 
-Senne de bateau
+Largeur de la drague (m) |
 
-|
+Nombre de dragues |
 
-Senne
+Drague |
 
-|
+Drague mécanisée |
 
-SSC
+Mechanized dredge |
 
-|
+DRM (remplace HMD) |
 
-- Scottish seines
+F |
 
-|
+Nombre de dragues |
 
-Senne écossaise (dragage à la volée)
+Largeur de la drague (m) |
 
-|
+Drague |
 
-Senne
+Drague à main manœuvrée à partir du bateau |
 
-|
+Hand dredge operated from the boat |
 
-SPR
+DHB |
 
 |
 
-- pair seines
-
 |
-
-Senne-bœuf écossaise (dragage à la volée)
 
 |
 
-Senne
+Drague |
 
-|
-
-SX
+Drague à main |
 
-|
+Hand dredge |
 
-Seine nets (not specified)
+DRH |
 
 |
-
-Senne (non spécifiée)
 
 |
 
-Senne
-
 |
-
-CODE
 
-|
+Drague |
 
-DESCRIPTION
+FILETS SOULEVES (LIFT NETS) |
 
-(EN)
+Filet soulevé portatif |
 
-|
+Portable lift net |
 
-DESCRIPTION
+LNP |
 
-(FR)
+F |
 
 |
 
-RÉFÉRENCE
-
-annexe III OCM
-
 |
 
-|
+Filet tournant ou soulevé (Fil TS) |
 
-TRAWLS
+Filet soulevé manœuvré par un bateau |
 
-|
+Boat-operated lift net |
 
-CHALUTS
+LNB |
 
-|
+F |
 
 |
 
 |
-
-Bottom trawls
 
-|
+Filet tournant ou soulevé (Fil TS) |
 
-Chaluts de fond
+Filet soulevé fixe manœuvré du rivage, carrelet |
 
-|
+Shore-operated stationary lift net |
 
-|
+LNS |
 
-TBB
+F |
 
 |
-
-Beam trawls
 
 |
 
-Chaluts à perche
-
-|
+Filet tournant ou soulevé (Fil TS) |
 
-Chalut
+Engins portatifs (haveneau, épuisette, salabarde, salabre, …) |
 
-|
+Pushnet, scoopnet |
 
-OTB
+HES |
 
-|
+O |
 
-Single boat bottom otter trawls
+Diamètre (m) |
 
 |
 
-Chaluts de fond à panneaux
-
-|
+Filet tournant ou soulevé (Fil TS) |
 
-Chalut
+Tamis à civelles |
 
-|
+Glass eel Sieve |
 
-PTB
+GES |
 
-|
+F |
 
-Bottom pair trawls
+Diamètre (m) |
 
-|
+Nombre de tamis |
 
-Chaluts bœufs de fond
+Filet tournant ou soulevé (Fil TS) |
 
-|
+ENGINS RETOMBANTS (FALLING GEAR) |
 
-Chalut
+Epervier |
 
-|
+Cast net |
 
-TBS
+FCN |
 
-|
+F |
 
-Bottom shrimp trawls
+Diamètre (m) |
 
 |
 
-Chaluts de fond à crevettes
+Filet tournant ou soulevé (Fil TS) |
 
-|
+FILETS MAILLANTS ET EMMELANTS (GILLNETS AND ENTANGLING NETS) |
 
-Chalut
+Filet maillant ancré (calé) |
 
-|
+Set gillnet (anchored) |
 
-TBN
+GNS |
 
-|
+O |
 
-Nephrops trawls
+Longueur (m) |
 
-|
+Hauteur (m) |
 
-Chalut à langoustines
+Filet maillant (Fil mail) |
 
-|
+Filet maillant (dérivant) |
 
-Chalut
+Drift gillnet |
 
-|
+GND |
 
-TB
+O |
 
-|
+Longueur (m) |
 
-Bottom trawls (not specified)
+Hauteur (m) |
 
-|
+Filet maillant (Fil mail) |
 
-Chalut de fond (non spécifié)
+Filet maillant (encerclant) |
 
-|
+Encircling gillnet |
 
-Chalut
+GNC |
 
-|
+O |
 
-|
+Longueur (m) |
 
-Midwater trawls
+Hauteur (m) |
 
-|
+Filet maillant (Fil mail) |
 
-Chaluts pélagiques
+Trémail et filet maillant combiné |
 
-|
+Combined gillnet-trammel net |
 
-|
+GTN |
 
-OTM
+O |
 
-|
+Longueur (m) |
 
-Single boat midwater otter trawls
+Hauteur (m) |
 
-|
+Filet maillant (Fil mail) |
 
-Chaluts pélagiques à panneaux
+Trémail |
 
-|
+Trammel net |
 
-Chalut
+GTR |
 
-|
+O |
 
-PTM
+Longueur (m) |
 
-|
+Hauteur (m) |
 
-Midwater pair trawls
+Filet maillant (Fil mail) |
 
-|
+Autre filet maillant et filet emmêlant (non spécifié) |
 
-Chaluts bœufs pélagiques
+Gillnets and entangling nets (not specified) |
 
-|
+GEN |
 
-Chalut
+O |
 
-|
+Longueur (m) |
 
-OTT
+Hauteur (m) |
 
-|
+Filet maillant (Fil mail) |
 
-Otter twin trawls
+Autre filet maillant (non spécifié) |
 
-|
+Gillnets (not specified) |
 
-Chaluts jumeaux à panneaux
+GN |
 
-|
+O |
 
-Chalut
+Longueur (m) |
 
-|
+Hauteur (m) |
 
-CODE
+Filet maillant (Fil mail) |
 
-|
+PIEGES (TRAPS) |
 
-DESCRIPTION
+Nasse et casier, balai, fagot |
 
-(EN)
+Pot |
 
-|
+FPO |
 
-DESCRIPTION
+F |
 
-(FR)
+Nombre (de casiers, de nasses etc.) |
 
 |
 
-RÉFÉRENCE
+Casier |
 
-annexe III OCM
-
-|
+Verveux, Tésure, D'sure, Désure, Cerf-volant (pêche à l'anguille) |
 
-|
+Fyke net |
 
-DREDGES
+FYK |
 
-|
+F |
 
-DRAGUES
+Nombre de poches |
 
 |
 
-|
+Casier |
 
-DRB
+Barrages, parcs, bordigues, etc. |
 
-|
+Barrier, fence, weir, etc. |
 
-Towed dredges
+FWR |
 
-|
+F |
 
-Dragues remorquées par un bateau
+Nombre total |
 
 |
 
-Drague
+Casier |
 
-|
+Autre piège (non spécifié) |
 
 |
 
-GILLNETS AND ENTANGLING NETS
+FIX |
 
 |
 
-FILETS MAILLANTS ET EMMÊLANTS
-
-|
+Nombre de pièges |
 
 |
 
-GNS
-
 |
 
-Set gillnets (anchored)
+LIGNES, HAMEÇONS ET AUTRES (HOOKS AND LINES) |
 
-|
+Ligne à main ou à canne (manœuvrée à la main) |
 
-Filets maillants calés de fond à une nappe, filets droits
+Handline and hand-operated
 
-|
+pole-and-line |
 
-Filet maillant (Fil mail)
+LHP |
 
-|
+Taille de l'hameçon |
 
-GND
+Nombre de lignes/ palangres |
 
-|
+Nombre d'hameçons |
 
-Drift gillnets
+Ligne |
 
-|
+Ligne à main ou à canne (mécanisée) |
 
-Filets maillants dérivants
+Mechanized line and pole-and-line |
 
-|
+LHM |
 
-Filet maillant (Fil mail)
+Taille de l'hameçon |
 
-|
+Nombre de lignes/ palangres |
 
-GNC
+Nombre d'hameçons |
 
-|
+Ligne |
 
-Encircling gillnets
+Ligne de traîne |
 
-|
+Trolling line |
 
-Filets maillants encerclants
+LTL |
 
-|
+Taille de l'hameçon |
 
-Filet maillant (Fil mail)
+Nombre de lignes/ palangres |
 
-|
+Nombre d'hameçons |
 
-GTR
+Ligne |
 
-|
+Palangre de fond (fixe) |
 
-Trammel nets
+Set longline |
 
-|
+LLS |
 
-Trémails
+Taille de l'hameçon |
 
-|
+Nombre de lignes/ palangres |
 
-Filet maillant (Fil mail)
+Nombre d'hameçons |
 
-|
+Ligne |
 
-GTN
+Palangre dérivante |
 
-|
+Drifting longline |
 
-Combined gillnets-trammel nets
+LLD |
 
-|
+Taille de l'hameçon |
 
-Trémails et filets maillants combinés
+Nombre de lignes/ palangres |
 
-|
+Nombre d'hameçons |
 
-Filet maillant (Fil mail)
+Ligne |
 
-|
+Palangre verticale dérivante |
 
-GN
+Vertical drifting longline |
 
-|
+LVD |
 
-Gillnets (not specified)
+Taille de l'hameçon |
 
-|
+Nombre de lignes/ palangres |
 
-Filet maillant (non spécifié)
+Nombre d'hameçons |
 
-|
+Ligne |
 
-Filet maillant (Fil mail)
+Palangre verticale de fond |
 
-|
+Vertical bottom set longline |
 
-|
+LVS |
 
-TRAPS
+Taille de l'hameçon |
 
-|
+Nombre de lignes/ palangres |
 
-PIÈGES
+Nombre d'hameçons |
 
-|
+Ligne |
 
-|
+Palangre (non spécifiée) |
 
-FPO
+Longline (not specified) |
 
-|
+LL |
 
-Pots
+Taille de l'hameçon |
 
-|
+Nombre de lignes/ palangres |
 
-Nasses et casiers, balais, fagots
+Nombre d'hameçons |
 
-|
+Ligne |
 
-Casier
+Lignes et hameçons |
 
-|
+Hooks and lines (not specified) |
 
-FIX
+LX |
 
-|
+Taille de l'hameçon |
 
-Traps (not specified)
+Nombre de lignes/ palangres |
 
-|
+Nombre d'hameçons |
 
-Autre piège (non spécifié)
+Ligne |
 
-|
+ENGINS DIVERS (MISCELLANEOUS GEARS) |
 
-Casier
+Harpons |
 
-|
+Harpoons |
 
-CODE
+HAR |
 
 |
 
-DESCRIPTION
+Nombre de pêcheurs |
 
-(EN)
-
 |
-
-DESCRIPTION
 
-(FR)
-
-|
+Pêche à pied |
 
-RÉFÉRENCE
+Râteau et assimilé (dont gaffe, raballe, frelotte, main de fer et râteau à coiffe) |
 
-annexe III OCM
+Hand implements (Wrenching
 
-|
+gear, Clamps, Tongs, Rakes,
 
-|
+ears) |
 
-HOOKS AND LINES
+HRK |
 
 |
 
-LIGNES ET HAMEÇONS
-
 |
 
 |
-
-LHP
 
-|
+Pêche à pied |
 
-Handlines and hand-operated pole-and-lines
+Couteau et assimilé (dont faux, faucillon à panier, ciseaux, serpette, triangle, détroqueur) |
 
-|
+Hand implements (Wrenching
 
-Lignes à main ou à canne manœuvrées à la main (mitraillette, palangrotte)
+gear, Clamps, Tongs, Rakes,
 
-|
+ears) |
 
-Ligne
+FIE |
 
 |
-
-LHM
 
 |
 
-Mechanized lines and pole-and-lines
-
 |
-
-Lignes à main ou à cannes mécanisées
 
-|
+Pêche à pied |
 
-Ligne
+Pelle, fourche et assimilé (dont cuillère, fourchette, binette) |
 
-|
+Hand implements (Wrenching
 
-LLS
+gear, Clamps, Tongs, Rakes,
 
-|
+ears) |
 
-Set longlines
+FID |
 
 |
-
-Palangre calée fixe
 
 |
 
-Ligne
-
 |
 
-LLD
+Pêche à pied |
 
-|
+Autres outils à main (dont pompe,
 
-Drifting longlines
+baleine, piolet, marteau, burin, coupegazon, pointe et carrelet) |
 
-|
+Hand implements (Wrenching
 
-Palangres dérivantes
+gear, Clamps, Tongs, Rakes,
 
-|
+ears) |
 
-Ligne
+FIT |
 
 |
 
-LL
-
 |
-
-Longlines (not specified)
 
 |
 
-Palangre (sans spécification)
+Pêche à pied |
 
-|
-
-Ligne
+Apnée |
 
-|
+Free-diving |
 
-LX
+FDV |
 
 |
 
-Hooks and lines (not specified) 3
+Nombre de plongeurs |
 
 |
-
-Hameçon ou ligne (non spécifiés)
 
-|
+Plongée |
 
-Ligne
+Plongée sous-marine |
 
-|
+Scuba-diving |
 
-LTL
+SDV |
 
 |
 
-Trolling lines
+Nombre de plongeurs |
 
 |
 
-Ligne de traîne
+Plongée |
 
-|
+Engin divers |
 
-Ligne
+Miscellaneous gear |
 
-|
+MIS |
 
 |
 
-HARVESTING MACHINES
-
 |
-
-ENGINS DE RECOLTE
 
 |
 
 |
 
-HMD
-
-|
+ENGINS DE RECOLTE (HARVESTING MACHINES) |
 
-Mechanized dredges
+Scoubidou, peigne |
 
-|
+Kelp (Seaweed) harvest gear |
 
-Drague mécanisée
+HMS |
 
 |
-
-Dragues
 
-|
+Nombre total |
 
 |
-
-MISCELLANEOUS GEARS
 
 |
 
-ENGINS DIVERS
+Pas d'engin |
 
-|
-
-|
+No gear |
 
-MIS
+NO |
 
 |
 
-Miscellaneous gear
-
 |
-
-Engin divers
 
 |
 

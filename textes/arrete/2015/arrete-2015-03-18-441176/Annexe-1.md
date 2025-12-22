@@ -1,7 +1,7 @@
 # Article Annexe 1
 
-FICHE DE PÊCHE NAVIRES DE LONGUEUR INFÉRIEURE À 10 MÈTRES
+FICHE DE PÊCHE NAVIRES DE LONGUEUR HORS TOUT INFÉRIEURE À 10 MÈTRES
 
-Vous pouvez consulter l'image à l'adresse suivante :
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante :
 
-http://legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150404&numTexte=8&pageDebut=06222&pageFin=06232
+https://www.legifrance.gouv.fr/download/pdf?id=WK-Ma0Cd_e_cuX_t2mqvG2zksSs0uPNs9BC9diJyZ1o=

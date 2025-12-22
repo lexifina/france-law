@@ -2,13 +2,15 @@
 
 INFORMATIONS À TRANSMETTRE PAR LE PRODUCTEUR AU RESPONSABLE DE LA PREMIÈRE MISE SUR LE MARCHÉ
 
-INFORMATION À TRANSMETTRE |
+INFORMATION
+
+À TRANSMETTRE |
 
 COMMENTAIRE |
 
-TRANSMISSION PAR
+TRANSMISSION
 
-LE PRODUCTEUR |
+PAR LE PRODUCTEUR |
 
 Identification du navire et du producteur |
 
@@ -40,9 +42,9 @@ A fournir obligatoirement si navire sous pavillon français. Il correspond, soit
 
 -au premier numéro de feuillet du journal de pêche papier ;
 
--au numéro de marée du journal de pêche électronique ou du dispositif de téléprocédures mis en place par FranceAgriMer. |
+-au numéro de marée du journal de pêche électronique ou du dispositif de télédéclaration. |
 
-Conditionnelle |
+Obligatoire |
 
 Date de la première capture de la marée |
 
@@ -112,7 +114,7 @@ Obligatoire |
 
 Méthode de production |
 
-Mention "Pêché" ou "Pêché en eau douce" ou "Elevé" |
+Mention " Pêché " ou " Pêché en eau douce " ou " Elevé |
 
 Obligatoire |
 
