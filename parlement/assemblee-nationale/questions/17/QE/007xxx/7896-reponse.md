@@ -1,0 +1,9 @@
+# Réponse à la question n° 7896
+
+- Question : [7896](7896.md) — Question n° 7896 — Nouvelle redevance sur l'eau potable : danger pour les maraîchers de Camargue
+
+## Réponse
+
+*JO du 2025-12-23, page 10603*
+
+Les redevances des agences de l'eau sont perçues auprès des usagers de l'eau pour financer des actions sur l'ensemble du territoire sur la disponibilité quantitative de l'eau et sa bonne qualité. L'objectif est de garantir l'accès à l'eau pour tous. Le financement de la politique de l'eau repose notamment sur les principes pollueur-payeur et préleveur-payeur. La réforme des redevances de l'eau, entrée en vigueur le 1er janvier 2025, trouve son origine dans la sécheresse exceptionnelle de 2022 qui a entraîné de fortes tensions d'approvisionnement pour plus de 2 000 collectivités. Elle repose sur une assiette harmonisée, correspondant au volume d'eau potable facturé quel que soit l'usage, sans exonération ni plafonnement, afin d'assurer à la fois l'équité entre les usagers et un signal-prix incitant à la sobriété. Le Gouvernement est conscient que cette évolution peut avoir des impacts particuliers pour certains exploitants agricoles qui ne disposent pas d'alternatives à l'irrigation à partir d'eau potable. Cette situation est d'autant plus sensible pour les jeunes agriculteurs en phase d'installation. Des pistes d'accompagnement sont actuellement étudiées, incluant le soutien à des solutions structurelles pour sécuriser l'accès à l'eau. Le Gouvernement reste pleinement mobilisé afin que la mise en œuvre de cette réforme, nécessaire à la préservation de la ressource en eau, ne compromette ni le renouvellement des générations agricoles, ni la souveraineté alimentaire des territoires. Il réaffirme son attachement au maintien et au rôle essentiel des agences de l'eau, acteurs clés de la gestion durable et équilibrée de la ressource en eau sur l'ensemble du territoire.
