@@ -1,0 +1,9 @@
+# Réponse à la question n° 9432
+
+- Question : [9432](9432.md) — Question n° 9432 — Précisions sur les concessions funéraires à perpétuité
+
+## Réponse
+
+*JO du 2025-12-23, page 10523*
+
+L'article L. 2223-14 du code général des collectivités territoriales (CGCT) dispose que « les communes peuvent, sans toutefois être tenues d'instituer l'ensemble des catégories ci-après énumérées, accorder dans leurs cimetières : (…) 4º Des concessions perpétuelles ». Les concessions funéraires ont été qualifiées de contrats administratifs par le juge (CE, 21 octobre 1955, Demoiselle Méline). A cet égard, les mentions portées sur l'acte traduisent d'abord la volonté du titulaire de la concession, qui a la qualité de régulateur du droit à l'inhumation dans cette concession (il est le seul à pouvoir déterminer librement les personnes susceptibles d'être inhumées dans la concession - Cass. 1re civ., 17 déc. 2008, n° 07-17.596), à pouvoir choisir de transformer une concession individuelle ou collective en concession familiale, pour permettre l'inhumation de personnes non prévues au contrat initial. Les mentions portées sur l'acte ont ensuite vocation à décrire précisément le type d'emplacement concédé par la commune, dans le cadre des dispositions législatives et réglementaires en vigueur (situation dans le cimetière, surperficie, durée). Dès lors, une concession funéraire désignée sur l'acte comme étant "à perpétuité"doit être considérée comme une concession"perpétuelle", au sens des dispositions précitées. Aucune disposition du droit en vigueur ne prévoit en effet qu'une concession dite "à perpétuité" traduirait la délivrance d'un bail emphytéotique de 99 ans. Il est à noter que les concessions centenaires comme perpétuelles peuvent en tout état de cause être susceptibles de reprise pour abandon, à l'issue d'une période minimale de trente ans depuis la délivrance de l'acte et de dix ans après la dernière inhumation (article R. 2223-12 du CGCT).
