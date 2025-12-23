@@ -1,0 +1,9 @@
+# Réponse à la question n° 7996
+
+- Question : [7996](7996.md) — Question n° 7996 — Adapter le système scolaire aux différences de chaque élève
+
+## Réponse
+
+*JO du 2025-12-23, page 10547*
+
+Le ministère de l'éducation nationale est résolument engagé pour élever le niveau de tous les élèves, en particulier en français et en mathématiques. C'est dans l'objectif de faire réussir les collégiens, des plus fragiles aux plus avancés, en leur offrant des modalités d'enseignement plus adaptées à leurs besoins, que l'arrêté du 4 avril 2025 a modifié l'arrêté du 19 mai 2015, en ces termes : « pour l'ensemble des classes de sixième et de cinquième, les enseignements communs de français et de mathématiques, sur tout l'horaire, sont organisés en groupes. Les groupes sont constitués en fonction des besoins des élèves identifiés par les professeurs ». Cette disposition s'applique aux établissements publics et privés sous contrat. Il ne s'agit en aucun cas de créer des classes de niveau annuelles : la recherche a montré que ces organisations figées creusent les écarts et réduisent la motivation de nombreux élèves. Le ministère a fait le choix de maintenir l'hétérogénéité des classes pour tenir la promesse républicaine d'égalité de l'école, tout en organisant des groupes de besoins flexibles et évolutifs, qui permettent de travailler des compétences précises et d'accompagner la progression de tous les élèves, y compris les plus avancés. Cette organisation fait l'objet d'un suivi attentif par l'inspection générale de l'éducation, du sport et de la recherche, en lien avec les académies, pour mesurer son impact sur les apprentissages et ajuster les modalités si nécessaire. Des préconisations nationales issues de premières recommandations de l'inspection générale pour la rentrée 2025 rappellent la nécessité de cibler les compétences précises, de veiller à l'équilibre des groupes ainsi que de permettre des groupes évolutifs.
