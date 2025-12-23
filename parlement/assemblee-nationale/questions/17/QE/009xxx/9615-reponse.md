@@ -1,0 +1,9 @@
+# Réponse à la question n° 9615
+
+- Question : [9615](9615.md) — Question n° 9615 — Soutien à la production nationale de gants à usage médical
+
+## Réponse
+
+*JO du 2025-12-23, page 10562*
+
+La souveraineté sanitaire et son pendant industriel constituent une priorité pour le Gouvernement. En ce sens, dès 2020, l'État a mis en place des instruments destinés à renforcer nos capacités de production de contre-mesures face à la crise de la Covid-19 dans le cadre du Plan de Relance. Ce dispositif a notamment permis de soutenir la construction de l'usine de Manikheir dans la Sarthe. Afin de pérenniser cette initiative, la Stratégie d'Accélération Maladies Infectieuses Émergentes et Menaces NRBC (SA MIE) a été lancée en 2021. Celle-ci vise à bâtir une stratégie allant de la recherche fondamentale jusqu'au soutien à l'industrialisation afin de mieux prévenir et préparer notre pays aux futures crises sanitaires. A ce titre, Manikheir a également bénéficié d'un accompagnement pour un projet d'innovation destiné à développer des gants plus respectueux de l'environnement. Parallèlement, le Gouvernement a mis en place des politiques pour soutenir les débouchés pour les entreprises qui relocalisent la production de produits critiques. En particulier sur les gants, l'Instruction n° DGOS/PHARE/2023/40 du 24 mars 2023 relative à la sécurisation du processus d'approvisionnement souverain en fournitures, produits de santé et équipements critiques, incite les acheteurs publics à, d'une part, favoriser les gants de qualité plutôt qu'au plus bas coût possible, en prenant en compte des critères techniques de qualité et de sécurité d'approvisionnement, et d'autre part, privilégier l'allotissement pour favoriser l'accès des PME aux marchés publics. Par ailleurs, l'État demeure particulièrement attentif à la situation des entreprises qui, comme Manikheir, portent des projets ambitieux de relocalisation.
