@@ -1,0 +1,125 @@
+# Article 1er
+
+I. La première section du préambule de l'accord du 14 avril 2022 est modifiée comme suit :
+
+1° les phrases suivantes sont supprimées : « Afin de favoriser l'homogénéisation du dialogue social et l'émergence de synergies entre les problématiques des différents secteurs constituant la branche professionnelle, les organisations signataires conviennent que la conduite du dialogue au sein d'une instance de négociation sans sous-commission doit être un objectif à atteindre avant l'échéance du délai d'harmonisation des conventions et accords des anciennes branches. Pour autant, la survie de ces textes dans l'attente de leur harmonisation et leur coexistence au sein d'une même branche professionnelle doivent être prises en compte. Pour cette raison, il a été jugé préférable de prévoir, jusqu'à l'achèvement des travaux d'harmonisation, que les problématiques propres à chaque ancienne branche seraient traitées par l'ensemble des organisations représentatives de la branche dans des sous-commissions spécifiques où siègeront les interlocuteurs les plus pertinents pour en discuter.
+
+Les organisations signataires soulignent le caractère transitoire de l'architecture ainsi dessinée et leur intention d'aboutir à une disparition progressive de ces sous-commissions au fil de l'harmonisation des stipulations conventionnelles spécifiques à chaque ancienne branche. » ;
+
+2° après la phrase « Le présent accord a donc pour objet de remplacer les CPPNI existantes par une CPPNI commune à l'ensemble de la nouvelle branche professionnelle. » est insérée la phrase « L'existence d'une CPPNI commune ne fait toutefois pas obstacle à l'existence de sous-commissions thématiques permettant à l'ensemble des organisations représentatives de travailler au niveau de la branche sur des thématiques définies par les partenaires sociaux. »
+
+II. L'article 1er est intégralement réécrit comme suit :
+
+« Le présent accord est applicable dans le champ de la convention collective des entreprises au service de la création et de l'événement (IDCC 3252). »
+
+III. À l'article 3, les alinéas 3 et suivants sont remplacés par les alinéas suivants :
+
+« La CPPNI commune peut se réunir dans des formations différentes :
+
+1° La formation “commission plénière” ;
+
+2° La formation “sous-commission mannequins” ;
+
+3° La formation “sous-commission emploi et formation professionnelle” ;
+
+4° La formation “sous-commission travail illégal”. »
+
+IV. L'article 4 est intégralement réécrit comme suit :
+
+« 1) Missions de la CPPNI en formation “commission plénière”
+
+En formation “commission plénière”, la CPPNI exerce, par principe et pour l'ensemble des salariés de la branche sauf mention contraire, l'ensemble des prérogatives prévues à l'article L. 2232-9 du code du travail, notamment :
+
+1° Elle représente l'ensemble des entreprises et des salariés de la branche auprès des tiers, notamment auprès des pouvoirs publics ;
+
+2° Elle négocie la convention et les accords collectifs de branche ainsi que leurs avenants et assure le suivi de leur application ;
+
+3° Elle émet un avis interprétatif sur les conventions et accords qu'elle a négociés ainsi que leurs avenants, lorsqu'elle est saisie dans les conditions prévues à l'article 7 du présent accord ;
+
+4° Elle définit chaque année l'agenda social au regard, notamment, des obligations de négociation prévues aux articles L. 2241-1 et suivants du code du travail ;
+
+5° Elle exerce un rôle de veille sur les conditions de travail et d'emploi des salariés de la branche ;
+
+6° Elle enregistre les accords d'entreprise et d'établissement qui lui sont transmis dans les conditions prévues à l'article 8 du présent accord et exerce un rôle d'observatoire paritaire de la négociation d'entreprise dans le champ de la branche ;
+
+7° Elle établit, conformément aux dispositions du code du travail, un rapport annuel d'activité comprenant notamment un bilan des accords d'entreprise dans la branche, un bilan de l'action de la branche en faveur de l'égalité professionnelle entre les femmes et les hommes et un bilan des outils mis à disposition des entreprises pour prévenir et agir contre les harcèlements et agissements sexistes.
+
+2) Missions de la CPPNI en formation “sous-commission mannequins”
+
+En formation “sous-commission mannequins”, la CPPNI exerce pour les seuls salariés mannequins les prérogatives suivantes :
+
+1° Elle définit chaque année l'agenda social spécifique au dialogue social de branche intéressant les salariés mannequins au regard, notamment, des obligations de négociation prévues aux articles L. 2241-1 et suivants du code du travail ;
+
+2° Elle négocie les accords de branche, leurs avenants ainsi que les avenants à la convention collective des entreprises au service de la création et de l'événement (IDCC 3252) lorsqu'ils couvrent uniquement les salariés mannequins et elle assure le suivi de leur application ;
+
+3° Elle émet un avis interprétatif sur les stipulations de la convention collective, des accords de branche et de leurs avenants qu'elle a négociés lorsqu'elle est saisie dans les conditions prévues à l'article 7 du présent accord ;
+
+4° Elle exerce un rôle de veille sur les conditions de travail et d'emploi des salariés mannequins.
+
+3) Missions de la CPPNI en formation “sous-commission emploi et formation professionnelle”
+
+En formation “sous-commission formation professionnelle”, la CPPNI exerce les missions suivantes, en particulier pour les entreprises et les salariés non couverts par les accords visés aux 1 et 2 du A l'article 10.1.1 de la convention collective des entreprises au service de la création et de l'événement (IDCC 3252) :
+
+1° Elle représente la branche auprès des organismes et institutions en lien avec la formation professionnelle ;
+
+2° En matière d'emploi, elle est chargée :
+
+– d'examiner la situation de l'emploi et son évolution dans les trois secteurs couverts par le présent accord afin d'assurer l'information des partenaires sociaux et préserver les emplois ;
+
+– de définir une politique prospective en matière d'emploi et de qualification dans les différents secteurs constituant la branche professionnelle pour permettre d'avoir une meilleure connaissance des réalités de l'emploi, d'anticiper les évolutions et les accompagner ;
+
+– de prescrire les orientations de l'observatoire prospectif des métiers et des qualifications ;
+
+– d'étudier les possibilités de reclassement et de formation lorsqu'une entreprise de la branche envisage de procéder à un licenciement collectif pour motif économique portant sur au moins dix salariés sur une même période de trente jours. Dans ces conditions, elle est informée dans les 15 jours qui suivent la première réunion du CSE de l'entreprise concernée. L'entreprise adressera au secrétariat de la CPPNI un dossier d'information mentionnant les motifs économiques des suppressions d'emploi projetées, le nombre de salariés concernés, la nature des emplois supprimés, le calendrier des licenciements, les mesures examinées au niveau de l'entreprise pour réduire autant que possible les conséquences sur l'emploi des décisions projetées, l'avis du CSE ou des représentants du personnel. Réunie en urgence, dans le délai d'un mois, la sous-commission peut formuler des propositions relatives aux mesures de reclassement et de formation, notamment en ce qui concerne la mise en œuvre de bilans de compétence et l'organisation d'actions de formation susceptibles d'être financées par l'opérateur de compétences.
+
+3° En matière de formation professionnelle, elle est chargée :
+
+– de définir les priorités tant en matière de formation initiale que de formation continue ;
+
+– de contribuer à la mise en œuvre d'une politique d'insertion professionnelle des jeunes ;
+
+– de rechercher les moyens d'assurer l'optimisation des ressources de formation ;
+
+– de rechercher les moyens d'informer les salariés, sur les dispositifs de formation existants, et notamment sur le contenu du présent accord, et d'assurer le suivi des conditions de leur mise en œuvre ;
+
+– d'examiner les conditions dans lesquelles les petites et moyennes entreprises, et leurs salariés, sont informés de l'ensemble des dispositifs en vigueur en matière de formation professionnelle ;
+
+– d'établir et de réviser, le cas échéant, les priorités de demande de prise en charge des publics et formations dans le cadre des périodes de professionnalisation ;
+
+– de favoriser le développement du dispositif de la VAE au sein de la branche ;
+
+– d'analyser les travaux de l'observatoire des métiers et d'élaborer, à partir de ses résultats, des recommandations en matière de formation professionnelle, en tenant compte notamment de l'objectif d'égalité entre les femmes et les hommes dans leur accès à la formation professionnelle continue ;
+
+– d'élaborer des certificats de qualification professionnelle (CQP) et des certificats de compétences professionnelles (CCP), conformément à l'article L. 6314-2 du code du travail, et leur promotion au sein des entreprises et organismes de formation et d'en assurer le suivi.
+
+Pour les entreprises et les salariés couverts par les accords visés aux 1 et 2 du A de l'article 10.1.1 de la convention collective des entreprises au service de la création et de l'événement (IDCC 3252), ces missions peuvent être exercées en complément de l'action CPNEF existantes, le cas échéant en coordination étroite avec celles-ci.
+
+4) Missions de la CPPNI en formation “sous-commission travail illégal”
+
+En formation “sous-commission travail illégal”, la CPPNI exerce les missions suivantes :
+
+1° Elle organise la concertation de branche sur la prévention et la lutte contre le travail illégal dans la branche, notamment les actions d'information et de sensibilisation à destination des entreprises, des donneurs d'ordres et des salariés de la branche ;
+
+2° Elle constitue le cadre de dialogue et de réflexion entre la branche et les différents acteurs de la lutte contre le travail illégal qu'elle peut inviter à prendre part à ses réunions, notamment l'inspection du travail, les DR(I)EETS, la DGT, les URACTI, les Urssaf, France Travail spectacle, etc. ;
+
+3° Suivre la mise en œuvre des actions de branche en matière de travail illégal et évaluer leur impact. »
+
+V. L'article 5 est modifié comme suit :
+
+1° au premier alinéa, les mots « au sein de la commission commune et ses sous-commissions » sont remplacés par les mots « au sein de la CPPNI, quelle que soit la formation dans laquelle elle se réunit, » ;
+
+2° le deuxième alinéa est supprimé.
+
+VI. Les mots « commission commune » sont remplacés par les mots « commission plénière » :
+
+1° aux troisième, cinquième et septième alinéas, devenus respectivement deuxième, quatrième et sixième alinéas, de l'article 5 ;
+
+2° dans le titre et au premier alinéa de la première section de l'article 6 ;
+
+3° au premier alinéa de l'article 7 ;
+
+4° au premier alinéa de la section 1 et au premier alinéa de la section 2 de l'article 9.
+
+VII. Les alinéas troisième et suivants de la section 2 de l'article 9 sont supprimés.
+
+VIII. Les autres stipulations de l'accord du 14 avril 2022 restent inchangées.
