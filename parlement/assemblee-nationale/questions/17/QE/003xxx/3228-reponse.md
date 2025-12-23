@@ -1,0 +1,9 @@
+# Réponse à la question n° 3228
+
+- Question : [3228](3228.md) — Question n° 3228 — Port d'arme discret des agents de l'OFB
+
+## Réponse
+
+*JO du 2025-12-23, page 10599*
+
+Afin de favoriser le dialogue entre les services de l'Etat et objectiver le déroulement des contrôles, le Gouvernement s'est montré favorable au port d'arme discret et au déploiement progressif de caméras piétons pour les agents de l'Office français de la biodiversité. S'agissant plus spécifiquement du port dit « discret » de l'arme de service, le directeur général de l'Office français de la biodiversité a pris une instruction interne qui en détermine les conditions et les modalités. Ce port s'applique obligatoirement en cas de contrôle programmé dans un corps de ferme d'une exploitation agricole. Il existait déjà pour les opérations réalisées en police judiciaire en tenue civile pour des raisons de discrétion de l'action. Des dispositions ont donc été prises pour qu'il puisse être compatible avec le port de l'uniforme auquel les agents sont astreints pour leurs missions. En particulier, des ceintures adaptées ont été commandées ainsi que des gilets légers pour un port l'été. L'équipement est conçu pour réduire la visibilité des équipements de défense sans compromettre la réactivité de l'agent en cas de légitime défense. Les inspecteurs de l'environnement armés suivent obligatoirement quatre séances de formations sur les techniques d'intervention de police. Le référentiel de formation a d'ores et déjà été adapté pour tenir compte de l'utilisation du port discret en uniforme. Le suivi de la formation constitue un préalable à une opération nécessitant le port discret de l'arme. Ainsi, le Gouvernement reste vigilant à ce que le port dit "discret" de l'arme de service soit compatible avec la sécurité des agents de l'Office français de la biodiversité.
