@@ -1,0 +1,9 @@
+# Réponse à la question n° 7579
+
+- Question : [7579](7579.md) — Question n° 7579 — Face à la crise du logement, déployons les coopératives d'habitants !
+
+## Réponse
+
+*JO du 2025-12-23, page 10614*
+
+La loi n° 2014-366 du 24 mars 2014 pour l'accès au logement et un urbanisme rénové (dite loi ALUR) a doté les sociétés coopératives d'habitants (les SCI et les sociétés d'attribution et d'autopromotion), d'un cadre juridique spécifique, depuis la phase de construction de l'immeuble jusqu'aux modalités de gestion et de durée. Ce dispositif a été précisé par différents décrets d'application. Seules les dispositions de l'article L.201-13 du Code de la construction et de l'habitation, qui prévoit la prise de parts sociales en contrepartie d'un apport travail, n'ont pas encore été prises à ce jour. Cet article permet à un associé d'une coopérative d'habitants d'effectuer un apport en industrie et ainsi de valoriser un travail fourni lors de la construction, de la rénovation et de la réhabilitation de l'immeuble. Or, les travaux relatifs à l'élaboration de ce décret, visant à définir cet apport, ses conditions d'application et le nombre d'heures minimal pouvant constituer un apport travail par un associé, ont soulevé des difficultés de mise en œuvre du texte, nécessitant une évolution législative. En effet, l'article L. 201-13 ne prévoit aucune couverture des associés contre les risques de dommages causés aux biens et aux personnes à l'occasion de leur apport travail de même qu'il ne met pas en place d'assurance responsabilité construction couvrant l'ouvrage. Conscient de ces difficultés de mise en application de l'article L.201-13 du Code de la construction et de l'habitation, le Gouvernement a retenu la nécessité de modifier les dispositions législatives en cause avant d'élaborer le projet de décret.
