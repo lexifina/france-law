@@ -1,0 +1,9 @@
+# Réponse à la question n° 2966
+
+- Question : [2966](2966.md) — Question n° 2966 — Présence préoccupante de tritium dans l'eau du robinet de millions de Français
+
+## Réponse
+
+*JO du 2025-12-23, page 10598*
+
+Les rejets des installations nucléaires sont réglementés et surveillés par le ministère chargé de la sûreté nucléaire, en lien étroit avec l'Autorité de sûreté nucléaire et de radioprotection (ASNR). Chaque réacteur nucléaire fait l'objet de prescriptions de l'ASNR fixant les limites d'activité annuelle rejetée en tritium ainsi que les limites de concentration en agents chimiques rejetés dans l'environnement des effluents liquides et gazeux. Ces prescriptions sont par ailleurs soumises à homologation via un arrêté signé par le ministre chargé de la sûreté nucléaire, conformément à l'article L. 593-10 du code de l'environnement. Les exigences pour la protection de la santé de la population en ce qui concerne les substances radioactives dans les eaux destinées à la consommation humaine (EDCH) sont fixées par la directive 2013/51 Euratom dite « normes de base ». Pour le tritium, cette directive fixe une valeur paramétrique de 100 Bq/L et des fréquences minimales d'analyses dans les EDCH. La directive prévoit que cette valeur peut être actualisée à la lumière des progrès scientifiques et techniques. Au-dessus de cette valeur, le risque sanitaire doit être évalué et des mesures correctives prises afin d'améliorer la qualité de l'eau jusqu'au retour à la conformité. En France, dans le cadre du contrôle sanitaire effectué par les Agences régionales de santé, plus de 10 000 analyses de tritium sont réalisées chaque année au robinet du consommateur. Aucun dépassement de la valeur paramétrique européenne n'est observé. Le Gouvernement reste vigilant quant à la qualité de l'eau distribué.
