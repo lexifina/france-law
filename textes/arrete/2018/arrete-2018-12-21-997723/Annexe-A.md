@@ -16,7 +16,7 @@ Directeur du service de soutien de la flotte à Brest |
 
 Directeur du service des pensions et des risques professionnels |
 
-Directeur du centre expert des ressources humaines du personnel civil |
+Directeur du centre national de supervision de la paie |
 
 Directeur du service de l'exécution financière, de la gestion logistique des biens
 
