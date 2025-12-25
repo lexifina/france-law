@@ -1,0 +1,9 @@
+# Réponse à la question SEQ251106700
+
+- Question : [SEQ251106700](seq251106700.md) — Maintien des objectifs sociaux et d'une approche décentralisée dans la nouvelle programmation européenne 2028-2034
+
+## Réponse
+
+*Europe , JO du 2025-12-25, page 6305*
+
+Les négociations du futur cadre financier pluriannuel ont débuté depuis juillet au niveau européen sur la base des propositions de la Commission européenne. La proposition de la Commission a pour objectif un budget simplifié et modernisé, articulé autour de trois piliers. Le premier pilier regrouperait, au sein de plans de partenariats nationaux et régionaux (PPNR), les financements actuellement dédiés à la politique agricole commune (PAC), à la pêche, à la politique de cohésion ainsi qu à la sécurité intérieure. Ce cadre unifié par un unique plan de partenariat national et régional serait géré selon le principe de la performance. La France accorde une attention particulière à ce que cette nouvelle logique n éclipse pas l importance des politiques historiques et structurantes de l Union, en particulier la PAC et la politique de cohésion à laquelle les citoyens européens demeurent profondément attachés. Cette dernière contribue pleinement au développement socioéconomique harmonieux des régions et favorise l intégration comme le maintien des actifs sur le marché du travail. Le Gouvernement est conscient que les objectifs de lutte contre l exclusion, de préservation de l emploi et de soutien aux personnes en situation de précarité doivent constituer le corollaire d un marché unique compétitif. La proposition de la Commission prévoit par ailleurs déjà une conditionnalité transversale obligeant les États membres à consacrer 14 % de leurs plans nationaux aux objectifs sociaux de l Union. L élaboration du plan français fera l objet d un dialogue étroit avec les régions, les partenaires sociaux et la société civile, de manière à prendre pleinement en compte leurs besoins spécifiques.
