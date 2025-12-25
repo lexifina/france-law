@@ -168,7 +168,7 @@ Un contrat établi entre le demandeur et le bénéficiaire, le cas échéant rep
 
 – la description des opérations d'économies d'énergie qui entrent dans le champ du contrat ; et
 
-– la durée de validité du contrat. Cette durée de validité est au maximum de deux ans lorsque le bénéficiaire est une personne physique et au maximum de quatre ans lorsque le bénéficiaire est une personne morale.
+– la durée de validité du contrat. Cette durée de validité est au maximum de deux ans lorsque le bénéficiaire est une personne physique et au maximum de cinq ans lorsque le bénéficiaire est une personne morale.
 
 Le contrat peut être renouvelé au-delà de cette durée par un avenant, dont la durée est limitée selon les conditions ci-avant, ou par l'adoption d'un nouveau contrat.
 
@@ -307,6 +307,12 @@ La demande comporte une attestation sur l'honneur du bénéficiaire mentionnant 
 – l'opération n'a pas bénéficié d'une aide à l'investissement de la part de l'Agence de l'environnement et de la maîtrise de l'énergie ; ou que
 
 – l'opération a bénéficié d'une aide à l'investissement de la part de l'Agence de l'environnement et de la maîtrise de l'énergie dont le calcul et la décision d'attribution ont pris en compte la délivrance de certificats d'économies d'énergie.
+
+La demande comporte une attestation sur l'honneur du bénéficiaire mentionnant que :
+
+- l'opération n'a pas bénéficié d'une prime de la part de l'Agence nationale de l'habitat ; ou que
+
+- l'opération a bénéficié d'une prime de la part de l'Agence nationale de l'habitat dont le calcul et la décision d'octroi de la prime ont pris en compte la délivrance de certificats d'économies d'énergie.
 
 Les attestations sur l'honneur prévues ci-dessus font partie intégrante de l'attestation définie à l'annexe 7.
 
@@ -461,7 +467,3 @@ f) La durée de la garantie ;
 g) Les pénalités en cas de non-atteinte de la performance garantie par le contrat.
 
 2° La liste des opérations standardisées ou spécifiques réalisées dans le cadre du CPE. Les opérations d'économies d'énergie pouvant être bonifiée dans le cadre du CPE sont engagées au plus tôt à la date de signature de ce contrat. Les travaux concernés sont achevés de manière à ce qu'ils produisent les économies d'énergie attendues a minima sur toute la période de garantie de la performance du contrat.
-
-NOTA :
-
-Se reporter aux conditions d'application prévues à l'article 6 de l'arrêté du 27 juin 2025 (NOR : ECOR2518213A ).
