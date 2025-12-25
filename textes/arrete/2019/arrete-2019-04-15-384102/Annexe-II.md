@@ -36,10 +36,6 @@ Développement de biofilms sur l'ensemble des surfaces de la baignade |
 
 1 avant le début de la saison d'ouverture de la baignade artificielle au public puis fréquence bimensuelle pendant la saison d'ouverture de la baignade artificielle au public* |
 
-Cyanobactéries |
-
-Fréquence d'analyses mensuelle, lorsque le profil de baignade a mis en évidence un risque de prolifération des cyanobactéries |
-
 Température |
 
 1 analyse avant le début de la saison d'ouverture de la baignade artificielle au public puis fréquence d'analyses bimensuelle pendant la saison d'ouverture de la baignade artificielle au public* |

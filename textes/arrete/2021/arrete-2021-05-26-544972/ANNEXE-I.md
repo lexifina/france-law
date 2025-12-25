@@ -84,7 +84,7 @@ Chlore combiné |
 
 mg/L |
 
-|
+Ne concerne pas les bassins alimentés par de l'eau de mer |
 
 Chlore disponible |
 
@@ -92,7 +92,7 @@ Chlore disponible |
 
 mg/L |
 
-Concerne les bassins dont la concentration en acide isocyanurique est supérieure ou égale à 15 mg/L |
+Concerne les bassins dont la concentration en acide isocyanurique est supérieure ou égale à 15 mg/L Ne concerne pas les bassins alimentés par de l'eau de mer |
 
 Chlore libre actif |
 
@@ -100,7 +100,7 @@ Chlore libre actif |
 
 mg/L |
 
-Concerne les bassins dont la concentration en acide isocyanurique est inférieure à 15 mg/L |
+Concerne les bassins dont la concentration en acide isocyanurique est inférieure à 15 mg/L Ne concerne pas les bassins alimentés par de l'eau de mer |
 
 Ozone |
 
@@ -122,7 +122,7 @@ Concerne les bassins d'eau douce traités au chlore |
 
 |
 
-Concerne les bassins d'eau de mer ou d'eau fortement minéralisée traités au chlore (1) |
+Concerne les bassins d'eau de mer ou d'eau fortement minéralisée traités au chlore |
 
 Température |
 
@@ -150,4 +150,4 @@ Applicable à compter du 1er janvier 2025
 
 La valeur la plus faible possible inférieure à cette limite de qualité doit être visée sans pour autant compromettre la désinfection |
 
-(1) Sont considérées comme des eaux fortement minéralisées les eaux incluant les eaux salines dont la concentration en résidu sec à 180 °C est supérieure à 1 500 mg/L
+(1) Sont considérées comme des eaux fortement minéralisées les eaux incluant les eaux salines, dont la concentration en résidu sec à 180 °C est supérieure à 1 500 mg/L.

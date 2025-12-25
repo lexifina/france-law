@@ -12,7 +12,7 @@ Unités |
 
 NOTES |
 
-Entérocoques |
+Entérocoques intestinaux |
 
 1 000 |
 
@@ -68,7 +68,7 @@ mg/L |
 
 |
 
-Cyanure (CN-) |
+Cyanures totaux (CN-) |
 
 50 |
 
@@ -108,7 +108,7 @@ Somme des composés suivants : fluoranthène, bezo[b]fluoranthène, benzo[k]fluo
 
 |
 
-Hydrocarbures dissous ou émulsionnés |
+Indice hydrocarbures |
 
 0,2 |
 

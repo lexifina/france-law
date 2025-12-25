@@ -60,7 +60,7 @@ Chlorures |
 
 mg/L |
 
-Ne concerne pas les bassins alimentés par de l'eau de mer et par les eaux fortement minéralisées (1) |
+Ne concerne pas les bassins alimentés par de l'eau de mer et par des eaux fortement minéralisées (1) |
 
 Température |
 
@@ -92,6 +92,6 @@ Concerne les bains à remous |
 
 Concerne les bassins autres que les bains à remous (2). |
 
-(1) Sont considérées comme des eaux fortement minéralisées les eaux incluant les eaux salines dont la concentration en résidu sec à 180°°C est supérieure à 1 500 mg/L.
+(1) Sont considérées comme des eaux fortement minéralisées les eaux incluant les eaux salines, dont la concentration en résidu sec à 180°°C est supérieure à 1 500 mg/L.
 
 (2) Cette référence de qualité ne s'applique plus à compter du 1er janvier 2025.

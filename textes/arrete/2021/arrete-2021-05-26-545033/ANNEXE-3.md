@@ -10,7 +10,7 @@ Limites de qualité |
 
 Unités |
 
-Entérocoques |
+Entérocoques intestinaux |
 
 0 |
 

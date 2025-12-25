@@ -14,7 +14,7 @@ Biofilm |
 
 Surveillance visuelle |
 
-Macroalgues, microalgues et cyanobactéries |
+Macroalgues, phytoplancton dont cyanobactéries |
 
 Surveillance visuelle |
 

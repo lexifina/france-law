@@ -36,7 +36,7 @@ une fois par an, par circuit hydraulique |
 
 une fois par an, par circuit hydraulique |
 
-Paramètre mesuré uniquement pour les bains à remous |
+Paramètre mesuré uniquement pour les bains à remous, à l'exception de ceux alimentés par de l'eau de mer |
 
 Nombre de microorganismes revivifiables
 
@@ -102,7 +102,7 @@ deux fois par trimestre |
 
 une fois par trimestre |
 
-|
+Paramètre à ne pas rechercher pour les bassins alimentés par de l'eau de mer |
 
 Chlore combiné (1) |
 
@@ -110,7 +110,7 @@ deux fois par trimestre |
 
 une fois par trimestre |
 
-|
+Paramètre à ne pas rechercher pour les bassins alimentés par de l'eau de mer |
 
 Chlore libre (1) |
 
@@ -118,7 +118,11 @@ deux fois par trimestre |
 
 une fois par trimestre |
 
-Paramètre mesuré uniquement pour les bassins dont la concentration en acide isocyanurique est inférieure à 15 mg/L |
+Paramètre mesuré uniquement pour les bassins dont la concentration en acide isocyanurique est inférieure à 15 mg/L
+
+Paramètre à ne pas rechercher pour les bassins alimentés par de l'eau de mer
+
+|
 
 Chlore disponible (1) |
 
@@ -126,7 +130,11 @@ deux fois par trimestre |
 
 une fois par trimestre |
 
-Paramètre mesuré uniquement pour les bassins dont la concentration en acide isocyanurique est supérieure ou égale à 15 mg/L. |
+Paramètre mesuré uniquement pour les bassins dont la concentration en acide isocyanurique est supérieure ou égale à 15 mg/L.
+
+Paramètre à ne pas rechercher pour les bassins alimentés par de l'eau de mer
+
+|
 
 Chlore libre actif (1) |
 
@@ -134,7 +142,11 @@ deux fois par trimestre |
 
 une fois par trimestre |
 
-Paramètre mesuré uniquement pour les bassins dont la concentration en acide isocyanurique est inférieure à 15 mg/L |
+Paramètre mesuré uniquement pour les bassins dont la concentration en acide isocyanurique est inférieure à 15 mg/L
+
+Paramètre à ne pas rechercher pour les bassins alimentés par de l'eau de mer
+
+|
 
 Chlorures (1) |
 
@@ -142,7 +154,7 @@ deux fois par trimestre |
 
 une fois par trimestre |
 
-|
+Paramètre à ne pas rechercher pour les bassins alimentés par de l'eau de mer |
 
 Ozone (1) |
 
@@ -256,7 +268,7 @@ une fois par an, par circuit hydraulique |
 
 une fois par an, par circuit hydraulique |
 
-Paramètre mesuré uniquement pour les bains à remous |
+Paramètre mesuré uniquement pour les bains à remous, à l'exception de ceux alimentés par de l'eau de mer |
 
 Nombre de microorganismes revivifiables à 36 °C (2) |
 
@@ -352,7 +364,7 @@ une fois par jour |
 
 une fois par jour |
 
-|
+Paramètre à ne pas rechercher pour les bassins alimentés par de l'eau de mer |
 
 Chlore combiné (1) |
 
@@ -364,7 +376,7 @@ une fois par jour |
 
 une fois par jour |
 
-|
+Paramètre à ne pas rechercher pour les bassins alimentés par de l'eau de mer |
 
 Chlore libre (1) |
 
@@ -376,7 +388,11 @@ une fois par jour |
 
 une fois par jour |
 
-Paramètre mesuré uniquement pour les bassins dont la concentration en acide isocyanurique est inférieure à 15 mg/L |
+Paramètre mesuré uniquement pour les bassins dont la concentration en acide isocyanurique est inférieure à 15 mg/L
+
+Paramètre à ne pas rechercher pour les bassins alimentés par de l'eau de mer
+
+|
 
 Chlore disponible (1) |
 
@@ -388,7 +404,11 @@ une fois par jour |
 
 une fois par jour |
 
-Paramètre mesuré uniquement pour les bassins dont la concentration en acide isocyanurique est supérieure ou égale à 15 mg/L |
+Paramètre mesuré uniquement pour les bassins dont la concentration en acide isocyanurique est supérieure ou égale à 15 mg/L
+
+Paramètre à ne pas rechercher pour les bassins alimentés par de l'eau de mer
+
+|
 
 Chlore libre actif (1) |
 
@@ -400,7 +420,11 @@ une fois par jour |
 
 une fois par jour |
 
-Paramètre mesuré uniquement pour les bassins dont la concentration en acide isocyanurique est inférieure à 15 mg/L |
+Paramètre mesuré uniquement pour les bassins dont la concentration en acide isocyanurique est inférieure à 15 mg/L
+
+Paramètre à ne pas rechercher pour les bassins alimentés par de l'eau de mer
+
+|
 
 Chlorures (2) |
 
@@ -412,7 +436,7 @@ une fois par an |
 
 une fois par an |
 
-|
+Paramètre à ne pas rechercher pour les bassins alimentés par de l'eau de mer |
 
 Ozone (1) |
 
@@ -498,8 +522,8 @@ Turbidité en sortie de filtre (2) |
 
 Peut être recherché en tant que de besoin |
 
-(1) La fréquence de surveillance peut être réduite d'un facteur 2 au maximum sans être inférieure à une fois par jour, pour les piscines de type A et B, conformément au III de l'article 2 du présent arrêté.
+(1) La fréquence de surveillance peut être réduite d'un facteur 2 au maximum sans être inférieure à une fois par jour, pour les piscines de type A et B, conformément au III de l'article 3 du présent arrêté.
 
-(2) Le prélèvement et l'analyse doivent être réalisés par un laboratoire accrédité par le Comité français d'accréditation (COFRAC) ou par tout autre organisme d'accréditation équivalent européen signataire de l'accord multilatéral pris dans le cadre de la coordination européenne des organismes d'accréditation, pendant la période d'ouverture au public de la piscine.
+(2) Le prélèvement et l'analyse doivent être réalisés par un laboratoire accrédité.
 
 ** Le contrôle n'est pas réalisé lorsque la piscine est ouverte moins de six mois dans l'année.

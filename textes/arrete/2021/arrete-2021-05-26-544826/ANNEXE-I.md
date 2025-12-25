@@ -26,7 +26,7 @@ Piscines des établissements de santé et médico-sociaux et réservées à l'us
 
 B |
 
-Piscines des cabinets de kinésithérapie et réservées à l'usage du personnel et des personnes prises en charge par ces établissements. |
+Piscines des cabinets de kinésithérapie et des autres piscines à usage médical et thérapeutique (2) réservées à l'usage du personnel et des personnes prises en charge par ces établissements. |
 
 B |
 
@@ -54,10 +54,10 @@ D |
 
 - hébergements des villages de vacances au sens de l'article D. 325-1 du même code ;
 
-- meublés de tourisme au sens de l'article L. 324-1-1 du même code ;
-
 - hébergements proposés à la location dans les terrains de camping ou de caravanage mentionnés à l'article D. 331-1-1 du même code ;
 
 - hébergements proposés à la location dans les parcs résidentiels de loisir mentionnés à l'article D. 333-3 du même code.
+
+(2) Au sens du présent arrêté, les autres piscines à usage médical et thérapeutique visées sont notamment celles situées dans certains lieux d'exercice des sage-femmes mentionnés à l'article L. 4111-1 du code de la santé publique et des professions dites réglementées (cabinets d'ostéopathie).
 
 3. En cas de présence d'au moins un bain à remous, les piscines relevant du type C selon les modalités définies aux points 1 et 2 sont considérées comme des piscines de type B.

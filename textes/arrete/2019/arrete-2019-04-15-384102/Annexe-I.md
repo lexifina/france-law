@@ -132,7 +132,7 @@ Absence |
 
 Efflorescence de cyanobactéries |
 
-100 000 |
+|
 
 - |
 
@@ -142,4 +142,4 @@ Absence d'efflorescence |
 
 Absence d'efflorescence |
 
-cellules/ mL |
+|
