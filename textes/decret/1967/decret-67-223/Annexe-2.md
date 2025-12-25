@@ -60,6 +60,8 @@ VI. - Autres prestations |
 
 16° Constitution et suivi du dossier d'emprunt souscrit au nom du syndicat en application des alinéas 1 et 2 de l'article 26-4 de la loi du 10 juillet 1965 ;
 
+16° bis Constitution et suivi du dossier d'emprunt souscrit au nom du syndicat en application du III de l'article 26-4 de la loi du 10 juillet 1965 et gestion de cet emprunt ;
+
 17° Constitution et suivi d'un dossier de subvention au profit du syndicat ;
 
 18° Immatriculation initiale du syndicat ;
@@ -70,4 +72,8 @@ VI. - Autres prestations |
 
 NOTA :
 
-Conformément au IV de l’article 53 du décret n° 2020-834 du 2 juillet 2020, ces dispositions s'appliquent aux contrats de syndic conclus postérieurement au 4 juillet 2020.
+Conformément à l'article 22 du décret n° 2025-1292 du 22 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 21 du décret précité, s'appliquent :
+
+1° Aux contrats de syndic conclus postérieurement à la date d'entrée en vigueur dudit décret ;
+
+2° Aux contrats de syndic en cours sous réserve de la conclusion d'un avenant entre les parties ayant pour objet d'introduire la prestation mentionnée au 16° bis du VI de l'annexe 2.

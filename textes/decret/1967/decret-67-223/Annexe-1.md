@@ -416,6 +416,18 @@ La constitution et le suivi du dossier d'emprunt souscrit au nom du syndicat en 
 
 |
 
+La constitution et le suivi du dossier d'emprunt souscrit au nom du syndicat en application du III de l'article 26-4 de la loi du 10 juillet 1965
+
+|
+
+|
+
+La gestion de l'emprunt souscrit au nom du syndicat en application du III de l'article 26-4 de la loi du 10 juillet 1965
+
+|
+
+|
+
 La constitution et le suivi d'un dossier de subvention accordé au syndicat |
 
 |
@@ -732,4 +744,8 @@ VI-28° contrôle d'activité du personnel du syndicat.
 
 NOTA :
 
-Se reporter aux conditions d'application prévues aux II, III et IV de l'article 53 du décret n° 2020-834 du 2 juillet 2020.
+Conformément à l'article 22 du décret n° 2025-1292 du 22 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 20 du décret précité, s'appliquent :
+
+1° Aux contrats de syndic conclus postérieurement à la date d'entrée en vigueur dudit décret ;
+
+2° Aux contrats de syndic en cours sous réserve de la conclusion d'un avenant entre les parties ayant pour objet d'introduire la prestation mentionnée au 16° bis du VI de l'annexe 2.
