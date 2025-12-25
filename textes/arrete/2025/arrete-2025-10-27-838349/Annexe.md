@@ -70,6 +70,12 @@ Annuelle |
 
 DARES |
 
+Enquêtes sur le coût de la main d'œuvre et la structure des salaires (Ecmoss) |
+
+Annuelle |
+
+INSEE |
+
 (*) Voir liste des producteurs.
 
 Système financier et financement de l'économie |
@@ -89,6 +95,12 @@ Enquête sur l'état des créances et des dettes financières vis-à-vis des non
 Trimestrielle/annuelle |
 
 Banque de France |
+
+Enquête Crédit-bail |
+
+Annuelle |
+
+INSEE |
 
 (*) Voir liste des producteurs.
 
@@ -330,6 +342,24 @@ Ponctuelle |
 
 INSEE |
 
+Enquête Exploitations forestières et scieries (EXF-SRI) |
+
+Annuelle |
+
+SSP |
+
+Enquêtes sur les prix des bois (grumes, trituration, énergie sylvicole) |
+
+Semestrielle/Trimestrielle |
+
+SSP |
+
+Enquête sur la production de données économiques dans le secteur des pêches maritimes |
+
+Annuelle |
+
+SSP/ LEMNA/ IFREMER |
+
 (*) Voir liste des producteurs.
 
 Environnement et développement durable |
@@ -489,3 +519,19 @@ Institut national de l'information géographique et forestière (IGN) |
 Ministère de la transition écologique, de la biodiversité et des négociations internationales sur le climat et la nature
 
 Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire |
+
+LEMNA |
+
+Laboratoire d'économie et de management de l'université de Nantes |
+
+Ministère de l'enseignement supérieur, de la recherche et de l'espace |
+
+IFREMER |
+
+Institut français de recherche pour l'exploitation de la mer |
+
+Ministère de la transition écologique, de la biodiversité et des négociations internationales sur le climat et la nature
+
+Ministère de l'enseignement supérieur, de la recherche et de l'espace
+
+|
