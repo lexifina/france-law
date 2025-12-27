@@ -100,6 +100,24 @@ Mensuelle |
 
 INSEE |
 
+Enquête sur les usages du numérique |
+
+Annuelle |
+
+INSEE |
+
+‍ Enquête sur le prix des terrains et du bâti (EPTB) |
+
+Annuelle |
+
+SDES |
+
+‍ Enquête sur les personnes candidates au concours d'attaché territorial |
+
+Ponctuelle |
+
+SDESSI |
+
 (*) Voir liste des producteurs.
 
 Emploi, qualification et revenus du travail |
@@ -190,6 +208,12 @@ Ponctuelle |
 
 DREES |
 
+Enquête vécu et ressenti en matière de sécurité‍ (VRS) |
+
+Annuelle |
+
+SSMSI |
+
 (*) Voir liste des producteurs.
 
 Territoires |
@@ -235,6 +259,12 @@ Enquête " Panel d'observation des pratiques et des conditions d'exercice en mé
 Semestrielle |
 
 DREES |
+
+Enquête nationale de climat scolaire et de victimation auprès des collégiens |
+
+Ponctuelle |
+
+DEPP |
 
 (*) Voir liste des producteurs.
 
@@ -315,3 +345,17 @@ Ministère de l'enseignement supérieur, de la recherche et de l'espace |
 Santé publique France |
 
 Ministère de la santé, des familles, de l'autonomie et des personnes handicapées |
+
+SDESSI |
+
+Sous-direction des études, des statistiques et des systèmes d'information |
+
+Premier Ministre
+
+Ministère de l'action et des comptes publics |
+
+SSMSI |
+
+Service statistique ministériel de la sécurité intérieure |
+
+Ministère de l'Intérieur |
