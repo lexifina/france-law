@@ -26,7 +26,11 @@ Mission de médiation autour de l'apprentissage |
 
 Conseils régionaux |
 
-Contribution à la mise en œuvre du développement de l'apprentissage et financement des centres de formation d'apprentis en fonctionnement et investissement quand des besoins d'aménagement du territoire et de développement économique le justifient. |
+Contribution à la mise en œuvre du développement de l'apprentissage et financement des centres de formation d'apprentis en fonctionnement et investissement quand des besoins d'aménagement du territoire et de développement économique le justifient.
+
+Versement d'une aide régionale à l'apprentissage
+
+|
 
 Centre national de la fonction publique territoriale (CNFPT) |
 
