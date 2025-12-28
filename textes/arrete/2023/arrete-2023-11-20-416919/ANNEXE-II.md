@@ -12,9 +12,11 @@ Tout producteur en système individuel exerce son agrément pour l'ensemble de s
 
 Le producteur pourvoit ou contribue à la prévention, à la collecte sur le lieu de détention, au transport, à la réception, à l'entreposage, à la dépollution, au démontage, au désassemblage et au traitement, comprenant les opérations réalisées par les broyeurs définis au 9° de l'article R. 543-154, des véhicules hors d'usage (VHU) issus de ses véhicules relevant du 15° de l'article L. 541-10-1 dans les conditions prévues aux articles R. 543-161 à R. 543-161-5.
 
+Tout producteur en système individuel peut se coordonner avec les autres systèmes individuels et les éco-organismes agréés pour réaliser les études prévues par le présent cahier des charges, ainsi que les évaluations mentionnées à l'article R. 541-175, et à condition que les résultats de ces études et évaluations permettent d'apprécier les performances et les obligations de chaque système individuel agréé ayant participé à l'étude ou à l'évaluation.
+
 2. Dispositions relatives à l'écoconception des véhicules
 
-Le producteur réalise une étude relative à l'écoconception de ses véhicules qu'il remet au ministre chargé de l'environnement au plus tard deux ans à compter de la date de son agrément. Cette étude vise notamment à :
+Le producteur réalise une étude relative à l'écoconception de ses véhicules qu'il remet au ministre chargé de l'environnement d'ici le 31 décembre 2027 au plus tard. Cette étude vise notamment à :
 
 - établir un état des lieux du taux d'incorporation de matières recyclées des véhicules, et à identifier les leviers d'actions et les perspectives d'évolution permettant de l'améliorer ;
 
@@ -22,7 +24,9 @@ Le producteur réalise une étude relative à l'écoconception de ses véhicules
 
 - développer les possibilités de réutilisation des pièces issues des opérations de démontage des VHU par un centre VHU ;
 
-- identifier les freins techniques et économiques au recyclage notamment des matériaux non métalliques tels que les plastiques, les textiles ou le verre, ou stratégiques comme les terres rares ainsi que, les leviers d'actions et les perspectives d'évolution du recyclage de ces matériaux ;
+- identifier les freins techniques et économiques au recyclage notamment des matériaux non métalliques tels que les plastiques, les textiles ou le verre et des matériaux métalliques non ferreux, ou stratégiques comme les terres rares ainsi que, les leviers d'actions et les perspectives d'évolution du recyclage de ces matériaux en vue de proposer une trajectoire pluriannuelle d'objectifs de recyclage ;
+
+- élaborer et communiquer aux professionnels de la réparation ou de l'entretien des véhicules et aux centres VHU une liste des pièces contenant des terres rares, afin de faciliter leur démontage et leur collecte séparée en vue du recyclage ;
 
 - développer et optimiser les outils et procédés pour faciliter le démontage des pièces et des matériaux des véhicules.
 
@@ -44,7 +48,7 @@ Les objectifs de réutilisation des pièces ainsi que ceux de récupération des
 
 Le producteur en système individuel réalise les études mentionnées au chapitre 3 du cahier des charges des éco-organismes, selon les mêmes modalités que celles fixées aux éco-organismes.
 
-Le producteur en système individuel peut proposer au ministre chargé de l'environnement la modification des objectifs de réutilisation des pièces, de réutilisation et de recyclage, ainsi que de réutilisation et de valorisation, et de recyclage pour certains flux de matériaux des VHU issus de ses véhicules en tenant compte de l'évaluation des quantités de déchets prévue à l'article R. 541-175 et des résultats de l'étude prévue au paragraphe 10.3.
+Le producteur en système individuel peut proposer au ministre chargé de l'environnement la modification des objectifs de réutilisation des pièces, de réutilisation et de recyclage, ainsi que de réutilisation et de valorisation, en tenant compte de l'évaluation des quantités de déchets prévue à l'article R. 541-175 et des résultats de l'étude prévue au paragraphe 10.3.
 
 4. Dispositions complémentaires relatives à la gestion des VHU
 
@@ -82,6 +86,8 @@ Le contrat-type prévu au II de l'article R. 543-161 précise les modalités de 
 
 Pour l'application de l'article R. 543-165-1, le système individuel transmet à l'autorité administrative l'évaluation réalisée après consultation des collectivités régies par l'article 73 de la Constitution, de la collectivité de Saint-Martin et de celle de Saint-Pierre-et-Miquelon, et de son comité des parties prenantes.
 
+Le système individuel peut réaliser cette évaluation dans le cadre de celle des quantités de déchets prévue à l'article R. 541-175.
+
 5.2. Détermination du taux d'abandon des véhicules
 
 Pour l'application du II de l'article R. 543-165, le producteur transmet à l'autorité administrative pour accord dans un délai de six mois à compter de la date de son agrément, après consultation des collectivités régies par l'article 73 de la Constitution, de la collectivité de Saint-Martin et de celle de Saint-Pierre-et-Miquelon, une évaluation du taux d'abandon des véhicules relevant de son agrément dans chacune de ces collectivités. Cette évaluation précise la méthodologie et les données utilisées pour calculer le taux d'abandon des véhicules relevant de son agrément pour chacune de ces collectivités.
@@ -94,7 +100,7 @@ Pour l'application des dispositions du II de l'article R. 543-165, le producteur
 
 5.4. Rapportage annuel du plan de prévention et de gestion des VHU
 
-Le producteur présente une fois par an aux ministres chargés de l'environnement et de l'outre-mer :
+Le producteur présente d'ici le 30 avril au plus tard de chaque année aux ministres chargés de l'environnement et de l'outre-mer :
 
 - l'évaluation du taux d'abandon de ses véhicules et les données y afférentes utilisées pour chacune des collectivités régies par l'article 73 de la Constitution, Saint-Martin et Saint-Pierre-et-Miquelon ;
 
@@ -154,11 +160,11 @@ Pour la mise en œuvre des actions de communication et de sensibilisation mentio
 
 - les associations impliquées dans la gestion des déchets issus des véhicules présentes dans les collectivités régies par l'article 73 de la Constitution, à Saint-Martin et à Saint-Pierre-et-Miquelon.
 
-Le producteur réalise, en lien avec l'ADEME, au minimum tous les deux ans une enquête de perception sur un panel représentatif de détenteurs de véhicules, couvrant l'ensemble du territoire national, en vue de vérifier l'efficacité des actions d'information et de sensibilisation mises en œuvre, notamment en ce qui concerne le dispositif de reprise sans frais des VHU complets.
+Le producteur réalise, en lien avec l'ADEME, d'ici le 31 décembre 2026 au plus tard une enquête de perception sur un panel représentatif de détenteurs de véhicules, couvrant l'ensemble du territoire national, en vue de vérifier l'efficacité des actions d'information et de sensibilisation mises en œuvre, notamment en ce qui concerne le dispositif de reprise sans frais des VHU complets.
 
 Le cas échéant, ces enquêtes sont accompagnées de propositions de mesures visant à améliorer l'information et la sensibilisation des détenteurs de VHU.
 
-Les résultats des enquêtes ainsi que les propositions de mesures d'amélioration sont transmises pour avis au ministre en charge de l'environnement.
+Les résultats des enquêtes ainsi que les propositions de mesures d'amélioration sont transmises au ministre en charge de l'environnement.
 
 9.2. Guichet unique d'information et de mise en relation
 
@@ -176,23 +182,19 @@ Le producteur en système individuel met en place et assure la gestion de ce ser
 
 10.1. Caractérisation de la présence de retardateurs de flamme bromés
 
-Dans un délai de trois ans à compter de la date de son agrément, le producteur réalise une étude portant sur la caractérisation des flux de déchets issus des véhicules relevant de son agrément qui vise à qualifier et à quantifier la présence de retardateurs de flammes bromés dont les concentrations peuvent dépasser les seuils réglementaires en tant que polluants organiques persistants (POP).
+Le producteur réalise une étude qu'il remet au ministre chargé de l'environnement d'ici le 31 décembre 2027 au plus tard portant sur la caractérisation des flux de déchets issus des véhicules relevant de son agrément qui vise à qualifier et à quantifier la présence de retardateurs de flammes bromés dont les concentrations peuvent dépasser les seuils réglementaires en tant que polluants organiques persistants (POP).
 
-La méthodologie prévue pour l'échantillonnage et la caractérisation des flux de déchets issus des véhicules est transmise pour avis respectivement de l'ADEME et de l'INERIS au moins deux mois au plus tard avant l'engagement de l'étude.
+Il réalise son étude conformément à une méthodologie d'échantillonnage et de caractérisation des flux de déchets issus des véhicules établie par l'ADEME en lien avec l'INERIS.
 
-En ce qui concerne les flux de déchets issus des véhicules mentionnés au a du 1° de l'article R. 543-154, le producteur peut soumettre pour avis de l'INERIS la méthodologie et les résultats des campagnes de caractérisation qu'il a précédemment réalisées sur le même sujet. Le producteur transmet l'avis de l'INERIS pour information au ministre chargé de l'environnement, qui peut décider d'exonérer le producteur en système individuel d'une nouvelle étude à sa demande.
+Pour les flux de déchets issus des véhicules mentionnés au a du 1° de l'article R. 543-154, le système individuel peut demander à être exonéré de la réalisation de cette étude dès lors qu'il a précédemment réalisé une étude sur le même sujet, que cette étude a été transmise au ministère chargé de l'environnement, et sous réserve de son accord.
 
-A partir des résultats de cette étude, et en concertation avec les organisations professionnelles représentatives des opérateurs de la gestion des déchets dangereux, le producteur propose au ministre chargé de l'environnement des modalités de gestion des flux de déchets concernés afin que les éléments qui en contiennent soient triés et traités conformément aux dispositions du 8° de l'article R. 543-154. Il peut proposer au ministre chargé de l'environnement une modification des objectifs de recyclage pour certains flux de matériaux des VHU issus de ses véhicules contribuant à l'atteinte des objectifs fixés au paragraphe 3.
+Dans un délai de deux mois au plus tard à partir des résultats de cette étude, et en concertation avec les organisations professionnelles représentatives des opérateurs de la gestion des déchets dangereux, le producteur propose au ministre chargé de l'environnement des modalités de gestion des flux de déchets concernés afin que les éléments qui en contiennent soient triés et traités conformément aux dispositions du 8° de l'article R. 543-154. Il peut proposer au ministre chargé de l'environnement une modification des objectifs de recyclage pour certains flux de matériaux des VHU issus de ses véhicules contribuant à l'atteinte des objectifs fixés au paragraphe 3.
 
-10.2. Valorisation des VHU
-
-Le producteur réalise une étude, en relation avec les autres opérateurs économiques, sur l'amélioration des techniques de tri post broyage des matières non métalliques issues des VHU en vue de développer des filières de valorisation de ces matières triées.
-
-Il remet au ministre chargé de l'environnement les résultats de cette étude au plus tard deux ans à compter de la date de son agrément.
+10.2. (Abrogé).
 
 10.3. Composition moyenne des VHU
 
-Dans un délai de deux ans à compter de la date de son agrément, le producteur réalise une étude en relation avec l'ADEME relative à la composition moyenne des VHU relevant de son agrément.
+Le producteur réalise une étude d'ici le 30 juin 2027 au plus tard en relation avec l'ADEME relative à la composition moyenne des VHU relevant de son agrément.
 
 La composition moyenne de ces véhicules est exprimée en pourcentage et en masse (en kilogramme par véhicule), sur la base d'une masse moyenne de ces véhicules selon leur source d'énergie (carburants, électricité, hybride).
 
@@ -209,3 +211,11 @@ En application du I de l'article R. 543-165 et de l'article R. 543-165-1, les sy
 - l'élaboration du plan de prévention et de gestion des VHU dans les collectivités régies par l'article 73 de la constitution, à Saint-Martin et à Saint-Pierre-et-Miquelon ;
 
 - les évaluations du nombre de VHU relevant de leur agrément, en distinguant les véhicules mentionnés aux articles L. 541-21-3, L. 541-21-4 et L. 541-21-5.
+
+En application du III de l'article R. 543-165, les systèmes individuels peuvent se coordonner avec les éco-organismes agréés pour élaborer et transmettre d'ici le 30 avril de chaque année au plus tard aux ministres chargés, respectivement, de l'environnement, de l'industrie et des outre-mer, un rapport d'activités détaillé de l'année précédente qui présente pour chacune des collectivités régies par l'article 73 de la Constitution, Saint-Martin et Saint-Pierre-et-Miquelon notamment les informations suivantes :
+
+-le nombre annuel et cumulé depuis le 1er janvier 2018 des véhicules abandonnés repérés ;
+
+-le nombre annuel et cumulé depuis le 1er janvier 2018 des véhicules abandonnés collectés et traités par les centres VHU et les broyeurs au sens des 7° et 9° de l'article 543-154 du code de l'environnement ;
+
+-l'emplacement, l'état et les conditions d'accessibilité des véhicules abandonnés qui ont été collectés.

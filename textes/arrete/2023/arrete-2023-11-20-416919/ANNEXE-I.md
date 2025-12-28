@@ -16,11 +16,13 @@ Lorsque plusieurs éco-organismes sont agréés, les obligations du présent cah
 
 L'éco-organisme assure la continuité de ses missions relatives à la prévention et à la gestion des véhicules hors d'usage (VHU) relevant de son agrément, y compris lorsque les objectifs qui lui sont applicables sont atteints.
 
+L'éco-organisme peut se coordonner avec les autres éco-organismes et les systèmes individuels agréés pour réaliser les études prévues par le présent cahier des charges, ainsi que les évaluations mentionnées à l'article R. 541-175, et à condition que les résultats de ces études et évaluations permettent d'apprécier les performances et les obligations de chaque organisme agréé ayant participé à l'étude ou à l'évaluation.
+
 2. Dispositions relatives à l'écoconception des véhicules
 
 2.1. Etude relative à certains critères de performance environnementale
 
-L'éco-organisme réalise une étude en lien avec l'ADEME qu'il remet au ministre chargé de l'environnement, au plus tard deux ans à compter de la date de son agrément, visant à :
+L'éco-organisme réalise une étude en lien avec l'ADEME qu'il remet au ministre chargé de l'environnement, d'ici le 31 décembre 2027 au plus tard, visant à :
 
 - établir un état des lieux du taux d'incorporation de matières recyclées des véhicules, et à identifier les leviers d'actions et les perspectives d'évolution permettant de l'améliorer ;
 
@@ -28,7 +30,9 @@ L'éco-organisme réalise une étude en lien avec l'ADEME qu'il remet au ministr
 
 - développer les possibilités de réutilisation des pièces issues des opérations de démontage des VHU par un centre VHU ;
 
-- identifier les freins techniques et économiques au recyclage notamment des matériaux non métalliques tels que les plastiques, les textiles ou le verre, ou stratégiques comme les terres rares ainsi que, les leviers d'actions et les perspectives d'évolution du recyclage de ces matériaux ;
+- identifier les freins techniques et économiques au recyclage notamment des matériaux non métalliques tels que les plastiques, les textiles ou le verre et des matériaux métalliques non ferreux, ou stratégiques comme les terres rares ainsi que, les leviers d'actions et les perspectives d'évolution du recyclage de ces matériaux en vue de proposer une trajectoire pluriannuelle d'objectifs de recyclage ;
+
+-élaborer et communiquer aux professionnels de la réparation ou de l'entretien des véhicules et aux centres VHU une liste des pièces contenant des terres rares, afin de faciliter leur démontage et leur collecte séparée en vue du recyclage ;
 
 - développer et optimiser les outils et procédés pour faciliter le démontage des pièces et des matériaux des véhicules.
 
@@ -68,13 +72,13 @@ En alternative à la définition des objectifs indicatifs mentionnés ci-dessus,
 
 3.1.2. S'agissant des VHU issus des véhicules mentionnés au b du 1° de l'article R. 543-154 à l'exclusion des véhicules de catégorie L6e de l'article R. 311-1 du code de la route (véhicules à deux ou trois roues et quadricycles à moteur, à l'exclusion des véhicules sans permis) :
 
-L'éco-organisme réalise une étude en relation avec l'ADEME qu'il remet au ministre chargé de l'environnement au plus tard deux ans à compter de la date de son agrément visant à définir une méthode de calcul d'un taux annuel de collecte pour les VHU issus des véhicules à moteur à deux ou trois roues et quadricycles à moteur à l'exception des véhicules de catégorie L6e. Cette étude précise la méthodologie et les données utilisées pour estimer un taux annuel de collecte pour ces véhicules.
+L'éco-organisme réalise une étude en relation avec l'ADEME qu'il remet au ministre chargé de l'environnement d'ici le 31 décembre 2028 au plus tard visant à définir une méthode de calcul d'un taux annuel de collecte pour les VHU issus des véhicules à moteur à deux ou trois roues et quadricycles à moteur à l'exception des véhicules de catégorie L6e. Cette étude précise la méthodologie et les données utilisées pour estimer un taux annuel de collecte pour ces véhicules.
 
 A partir des résultats de cette étude, l'éco-organisme propose au ministre chargé de l'environnement des objectifs indicatifs de collecte pour cette catégorie de véhicules sur le reste de la durée de l'agrément.
 
 3.1.3. S'agissant des VHU issus des véhicules de catégorie L6e de l'article R. 311-1 du code de la route (voitures sans permis)
 
-L'éco-organisme réalise une étude en relation avec l'ADEME qu'il remet au ministre chargé de l'environnement au plus tard deux ans à compter de la date de son agrément visant à définir une méthode de calcul d'un taux annuel de collecte pour les VHU issus des véhicules de catégorie L6e. Cette étude précise la méthodologie et les données utilisées pour estimer un taux annuel de collecte pour ces véhicules.
+L'éco-organisme réalise une étude en relation avec l'ADEME qu'il remet au ministre chargé de l'environnement d'ici le 31 décembre 2028 au plus tard visant à définir une méthode de calcul d'un taux annuel de collecte pour les VHU issus des véhicules de catégorie L6e. Cette étude précise la méthodologie et les données utilisées pour estimer un taux annuel de collecte pour ces véhicules.
 
 A partir des résultats de cette étude, il propose au ministre chargé de l'environnement des objectifs indicatifs de collecte pour cette catégorie de véhicules sur le reste de la durée de l'agrément.
 
@@ -288,7 +292,7 @@ Quantité moyenne minimale de fluides frigorigènes récupérées sur les systè
 
 100 g |
 
-L'éco-organisme réalise, en lien avec l'ADEME, avant le 31 décembre 2025 une étude relative aux quantités de fluides frigorigènes susceptibles d'être récupérées en vue de proposer, le cas échéant, une révision de la trajectoire d'objectifs prévue dans le tableau ci-dessus.
+L'éco-organisme réalise, en lien avec l'ADEME, avant le 31 mars 2025 une étude relative aux quantités de fluides frigorigènes susceptibles d'être récupérées en vue de proposer, le cas échéant, une révision de la trajectoire d'objectifs prévue dans le tableau ci-dessus.
 
 Cette étude précise la méthodologie et les données utilisées pour l'élaboration de la proposition de révision de la trajectoire pluriannuelle d'objectifs.
 
@@ -322,18 +326,6 @@ Verre |
 
 65% |
 
-L'éco-organisme réalise une étude en relation avec l'ADEME qu'il remet au ministre chargé de l'environnement, au plus tard trois ans à compter de la date de son agrément, visant à proposer des objectifs de recyclage pour les autres flux de matériaux non métalliques : matières plastiques autres que celles indiquées dans le tableau ci-dessus, comme les mousses polyuréthanes (PU), les polyamides (PA), l'acrylonitrile butadiène styrène (ABS), le polychlorure de vinyle (PVC), les textiles, les caoutchoucs (hors déchets de pneumatiques) et les matériaux métalliques non ferreux y compris les terres rares.
-
-3.4.2. Objectifs de recyclage pour certains flux de matériaux des VHU issus des véhicules mentionnés au b du 1° de l'article R. 543-154
-
-L'éco-organisme réalise une étude en relation avec l'ADEME qu'il remet au ministre chargé de l'environnement, au plus tard trois ans à compter de la date son agrément, visant à établir un état des lieux du taux de recyclage des différents flux de matériaux des VHU issus des véhicules, ainsi qu'à identifier les leviers d'actions et les perspectives d'évolution permettant de l'améliorer en ce qui concerne ceux :
-
-- mentionnés au b du 1° de l'article R. 543-154, à l'exclusion des véhicules de catégorie L6e de l'article R. 311-1 du code de la route,
-
-- de catégorie L6e de l'article R. 311-1 du code de la route.
-
-A partir des résultats de cette étude, il propose au ministre chargé de l'environnement des objectifs de recyclage pour certains flux de matériaux pour ces véhicules, notamment les plastiques.
-
 3.5. Composition moyenne des VHU
 
 Dans l'attente des résultats de l'étude mentionnée au paragraphe 11.3, l'éco-organisme calcule les taux de réutilisation et de recyclage, de réutilisation et de valorisation, les taux de réutilisation des pièces et les taux de recyclage pour certains flux de matériaux des VHU de véhicules relevant de son agrément mentionnés aux paragraphes 3.2.1, 3.2.2 et 3.2.3 et 3.4.1 sur la base de la composition moyenne des catégories de véhicule définie par l'ADEME.
@@ -344,7 +336,7 @@ L'éco-organisme peut proposer au ministre chargé de l'environnement la modific
 
 3.7. Plan d'actions visant à développer la réutilisation des pièces
 
-L'éco-organisme élabore un plan d'actions visant à développer la réutilisation des pièces issues des VHU sur l'ensemble du territoire national, y compris dans chacune des collectivités régies par l'article 73 de la Constitution, à Saint-Martin et à Saint-Pierre-et-Miquelon et transmet sa proposition pour accord à l'autorité administrative après consultation de son comité des parties prenantes conformément à l'article D. 541-94 dans un délai de six mois à compter de la date de son agrément.
+L'éco-organisme élabore un plan d'actions visant à développer la réutilisation des pièces issues des VHU sur l'ensemble du territoire national, y compris dans chacune des collectivités régies par l'article 73 de la Constitution, à Saint-Martin et à Saint-Pierre-et-Miquelon et transmet sa proposition pour accord à l'autorité administrative après consultation de son comité des parties prenantes conformément à l'article D. 541-94 d'ici le 31 décembre 2025 au plus tard.
 
 Le plan d'actions précise notamment les pièces à potentiel de réutilisation qui ont été identifiées pour atteindre les objectifs fixés aux paragraphes 3.2.1, 3.2.2 et 3.2.3, ainsi que les modalités de soutien à destination des centres VHU notamment pour que ces derniers puissent répondre à la demande de pièces issues de l'économie circulaire pour les professionnels de l'entretien ou de la réparation en application des dispositions de l'article L. 224-67 du code de la consommation.
 
@@ -380,6 +372,8 @@ Le contrat-type prévu au II de l'article R. 543-160 précise les modalités de 
 
 Pour l'application de l'article R. 543-165-1, l'éco-organisme transmet à l'autorité administrative l'évaluation réalisée après consultation des collectivités régies par l'article 73 de la Constitution, de la collectivité de Saint-Martin et de celle de Saint-Pierre-et-Miquelon, et de son comité des parties prenantes.
 
+L'éco-organisme peut réaliser cette évaluation dans le cadre de celle des quantités de déchets prévue à l'article R. 541-175.
+
 5.2. Détermination du taux d'abandon des véhicules
 
 Pour l'application du II de l'article R. 543-165, l'éco-organisme transmet à l'autorité administrative pour accord dans un délai de six mois à compter de la date de son agrément, après consultation des collectivités régies par l'article 73 de la Constitution, de la collectivité de Saint-Martin et de celle de Saint-Pierre-et-Miquelon, et de son comité des parties prenantes, une évaluation du taux d'abandon des véhicules relevant de son agrément dans chacune de ces collectivités. Cette évaluation précise la méthodologie et les données utilisées pour calculer le taux d'abandon des véhicules relevant de son agrément pour chacune de ces collectivités.
@@ -392,7 +386,7 @@ Pour l'application des dispositions du II de l'article R. 543-165, l'éco-organi
 
 5.4. Rapportage annuel du plan de prévention et de gestion des VHU
 
-En application de l'article D. 541-94, l'éco-organisme présente une fois par an à son comité des parties prenantes, ainsi qu'aux ministres chargés de l'environnement et de l'outre-mer :
+En application de l'article D. 541-94, l'éco-organisme présente d'ici le 30 avril au plus tard de chaque année à son comité des parties prenantes, ainsi qu'aux ministres chargés de l'environnement et de l'outre-mer :
 
 - l'évaluation du taux d'abandon des véhicules et les données y afférentes utilisées pour chacune des collectivités régies par l'article 73 de la Constitution, Saint-Martin et Saint-Pierre-et-Miquelon,
 
@@ -438,7 +432,7 @@ Lorsque plusieurs éco-organismes sont agréés sur la filière des véhicules, 
 
 Dans les conditions prévues à l'article R. 541-118, l'éco-organisme contribue à des projets de recherche et développement publics ou privés visant à développer l'écoconception et la performance environnementale des véhicules (hors les émissions liées à leur utilisation) sur leur cycle de vie.
 
-Il remet au ministre chargé de l'environnement les résultats de ces projets au plus tard deux ans à compter de la date de son agrément.
+Il remet au ministre chargé de l'environnement les résultats de ces projets au 31 décembre 2027 au plus tard.
 
 Lorsque plusieurs éco-organismes sont agréés, ces éco-organismes peuvent mutualiser leurs soutiens à ces projets de recherche et développement dans le respect des secrets protégés par la loi.
 
@@ -468,11 +462,11 @@ Pour la mise en œuvre des actions de communication et de sensibilisation mentio
 
 - les associations impliquées dans la gestion des déchets issus des véhicules présentes dans les collectivités régies par l'article 73 de la Constitution, à Saint-Martin et à Saint-Pierre-et-Miquelon.
 
-L'éco-organisme réalise, en lien avec l'ADEME, au minimum tous les deux ans une enquête de perception sur un panel représentatif de détenteurs de véhicules, couvrant l'ensemble du territoire national, en vue de vérifier l'efficacité des actions d'information et de sensibilisation mises en œuvre, notamment en ce qui concerne le dispositif de reprise sans frais des VHU complets.
+L'éco-organisme réalise, en lien avec l'ADEME, d'ici le 31 décembre 2026 au plus tard une enquête de perception sur un panel représentatif de détenteurs de véhicules, couvrant l'ensemble du territoire national, en vue de vérifier l'efficacité des actions d'information et de sensibilisation mises en œuvre, notamment en ce qui concerne le dispositif de reprise sans frais des VHU complets.
 
 Le cas échéant, ces enquêtes sont accompagnées de propositions de mesures visant à améliorer l'information et la sensibilisation des détenteurs de VHU.
 
-Les résultats des enquêtes ainsi que les propositions de mesures d'amélioration sont transmises pour avis au ministre en charge de l'environnement, après avis du comité des parties prenantes.
+Les résultats des enquêtes ainsi que les propositions de mesures d'amélioration sont transmises au ministre en charge de l'environnement, après avis du comité des parties prenantes.
 
 10.2. Guichet unique d'information et de mise en relation
 
@@ -490,23 +484,19 @@ L'éco-organisme met en place et assure la gestion de ce service de guichet uniq
 
 11.1. Caractérisation de la présence de retardateurs de flamme bromés
 
-Dans un délai de trois ans à compter de la date de son agrément, l'éco-organisme réalise une étude portant sur la caractérisation des flux de déchets issus des véhicules relevant de son agrément qui vise à qualifier et à quantifier la présence de retardateurs de flammes bromés dont les concentrations peuvent dépasser les seuils réglementaires en tant que polluants organiques persistants (POP).
+L'éco-organisme réalise une étude qu'il remet au ministre chargé de l'environnement d'ici le 31 décembre 2027 au plus tard portant sur la caractérisation des flux de déchets issus des véhicules relevant de son agrément qui vise à qualifier et à quantifier la présence de retardateurs de flammes bromés dont les concentrations peuvent dépasser les seuils réglementaires en tant que polluants organiques persistants (POP).
 
-La méthodologie prévue pour l'échantillonnage et la caractérisation des flux de déchets issus des véhicules est transmise pour avis respectivement de l'ADEME et de l'INERIS au moins deux mois au plus tard avant l'engagement de l'étude.
+Il réalise son étude conformément à une méthodologie d'échantillonnage et de caractérisation des flux de déchets issus des véhicules établie par l'ADEME en lien avec l'INERIS.
 
-En ce qui concerne les flux de déchets issus des véhicules mentionnés au a du 1° de l'article R. 543-154, l'éco-organisme peut soumettre pour avis de l'INERIS la méthodologie et les résultats des campagnes de caractérisation que ses adhérents ont précédemment réalisées sur le même sujet. L'éco-organisme transmet l'avis de l'INERIS pour information au ministre chargé de l'environnement, qui peut décider d'exonérer l'éco-organisme d'une nouvelle étude à sa demande.
+Pour les flux de déchets issus des véhicules mentionnés au a du 1° de l'article R. 543-154, l'éco-organisme peut demander à être exonéré de la réalisation de cette étude dès lors que ses adhérents ont précédemment réalisé une étude sur le même sujet, que cette étude a été transmise au ministère chargé de l'environnement, et sous réserve de son accord.
 
-A partir des résultats de cette étude, et en concertation avec les organisations professionnelles représentatives des opérateurs de la gestion des déchets dangereux, l'éco-organisme propose au ministre chargé de l'environnement des modalités de gestion des flux de déchets concernés afin que les éléments qui en contiennent soient triés et traités conformément aux dispositions du 8° de l'article R. 543-154. Il peut proposer au ministre chargé de l'environnement, après avis de son comité des parties prenantes, une modification des objectifs de recyclage pour certains flux de matériaux des VHU issus des véhicules mentionnés au a du 1° de l'article R. 543-154 qui contribuent à l'atteinte des objectifs fixés au paragraphe 3.
+Dans un délai de deux mois au plus tard à partir des résultats de cette étude, et en concertation avec les organisations professionnelles représentatives des opérateurs de la gestion des déchets dangereux, l'éco-organisme propose au ministre chargé de l'environnement des modalités de gestion des flux de déchets concernés afin que les éléments qui en contiennent soient triés et traités conformément aux dispositions du 8° de l'article R. 543-154. Il peut proposer au ministre chargé de l'environnement, après avis de son comité des parties prenantes, une modification des objectifs de recyclage pour certains flux de matériaux des VHU issus des véhicules mentionnés au a du 1° de l'article R. 543-154 qui contribuent à l'atteinte des objectifs fixés au paragraphe 3.
 
-11.2. Valorisation des VHU
-
-L'éco-organisme réalise une étude, en relation avec les autres opérateurs économiques, sur l'amélioration des techniques de tri post broyage des matières non métalliques issues des VHU en vue de développer des filières de valorisation de ces matières triées.
-
-Il remet au ministre chargé de l'environnement les résultats de cette étude au plus tard deux ans à compter de la date de son agrément.
+11.2. (Abrogé).
 
 11.3. Composition moyenne des VHU
 
-Dans un délai de deux ans à compter de la date de son agrément, l'éco-organisme réalise une étude en relation avec l'ADEME relative à la composition moyenne des VHU relevant de son agrément.
+L'éco-organisme réalise une étude d'ici le 30 juin 2027 au plus tard en relation avec l'ADEME relative à la composition moyenne des VHU relevant de son agrément.
 
 La composition moyenne de ces véhicules est exprimée en pourcentage et en masse (en kilogramme par véhicule), sur la base d'une masse moyenne de ces véhicules selon leur source d'énergie (carburants, électricité, hybride).
 
@@ -549,3 +539,11 @@ En application du I de l'article R. 543-165 et de l'article R. 543-165-1, les é
 - l'élaboration du plan de prévention et de gestion des VHU dans les collectivités régies par l'article 73 de la constitution, à Saint-Martin et à Saint-Pierre-et-Miquelon ;
 
 - la réalisation des évaluations relatives au nombre de VHU relevant de leur agrément, en distinguant les véhicules mentionnés aux articles L. 541-21-3, L. 541-21-4 et L. 541-21-5.
+
+En application du III de l'article R. 543-165, les éco-organismes peuvent se coordonner entre eux et avec les systèmes individuels agréés pour élaborer et transmettre d'ici le 30 avril de chaque année au plus tard aux ministres chargés, respectivement, de l'environnement, de l'industrie et des outre-mer, un rapport d'activités détaillé de l'année précédente qui présente pour chacune des collectivités régies par l'article 73 de la Constitution, Saint-Martin et Saint-Pierre-et-Miquelon notamment les informations suivantes :
+
+- le nombre annuel et cumulé depuis le 1er janvier 2018 des véhicules abandonnés repérés ;
+
+- le nombre annuel et cumulé depuis le 1er janvier 2018 des véhicules abandonnés collectés et traités par les centres VHU et les broyeurs au sens des 7° et 9° de l'article 543-154 du code de l'environnement ;
+
+- l'emplacement, l'état et les conditions d'accessibilité des véhicules abandonnés qui ont été collectés.
