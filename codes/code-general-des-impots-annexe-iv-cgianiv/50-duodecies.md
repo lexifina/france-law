@@ -1,6 +1,6 @@
 # Article 50 duodecies
 
-I. – La liste des produits, matériaux de construction, engrais et outillages industriels et agricoles dont l'importation en Guadeloupe, en Martinique et à la Réunion peut avoir lieu en franchise de la taxe sur la valeur ajoutée, est fixée ainsi qu'il suit :
+I. – La liste des produits, matériaux de construction, engrais et outillages industriels et agricoles dont l'importation en Guadeloupe, en Martinique et à La Réunion peut avoir lieu en franchise de la taxe sur la valeur ajoutée, est fixée ainsi qu'il suit :
 
 Codes de la nomenclature combinée
 
@@ -1324,7 +1324,543 @@ Constructions préfabriquées.
 
 II. – La liste des produits cités au I est complétée par le pain (ex 19-05) et le riz (10-06).
 
-III. – A La Réunion, la liste des produits fixée au I est complétée par les matériels informatiques relevant de la position de la nomenclature douanière 84-71-15 à 84-71-70, 84-73, et les téléphones relevant de la position de la nomenclature douanière 85-17-13.
+III. – A La Réunion, la liste des produits fixée au I est complétée par les produits suivants :
+
+Codes
+
+de la nomenclature combinée |
+
+DÉSIGNATION DES PRODUITS |
+
+02-02-30-90 |
+
+Viandes désossées de bovins congelées (à l'exclusion des quartiers avant entiers ou découpés en cinq morceaux au maximum, chaque quartier avant étant présenté en un seul bloc de congélation, ou quartiers compensés présentés en deux blocs de congélation contenant, l'un, le quartier avant entier ou découpé en cinq morceaux au maximum et, l'autre, le quartier arrière (sauf filet, en un seul morceau), ainsi que les découpes de quartiers avant et de poitrines australiennes) |
+
+02-03-29-11 |
+
+Parties avant et morceaux de parties avant de porcins domestiques, congelés |
+
+02-03-29-15 |
+
+Poitrines (entrelardés) et morceaux de poitrines de porcins domestiques, congelés |
+
+02-07-11-10 |
+
+Coqs et poules (des espèces domestiques), présentés plumés, sans boyaux, avec la tête et les pattes, dénommés " poulets 83 % ", frais ou réfrigérés |
+
+02-07-14-10 |
+
+Morceaux désossés de coqs ou de poules (des espèces domestiques), congelés |
+
+02-10-11-11 |
+
+Jambon supérieur découenné |
+
+03-03-89-90 |
+
+Poissons non dénommés ni compris ailleurs, congelés |
+
+03-04-89-90 |
+
+Filets de poissons non dénommés ni compris ailleurs, congelés |
+
+03-05-32-90 |
+
+Filets de poissons des familles Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae et Muraenolepididae, séchés, salés ou en saumure, mais non fumés (à l'exclusion des morues et de l'espèce Boreogadus saida) |
+
+03-06-17-92 |
+
+Crevettes du genre " Penaeus ", même fumées, même décortiquées, congelées, y compris les crevettes non décortiquées, cuites à l'eau ou à la vapeur |
+
+04-01-10-10 |
+
+Lait et crème de lait, non concentrés ni additionnés de sucre ou d'autres édulcorants, d'une teneur en poids de matières n'excédant pas 1 %, en emballages immédiats d'un contenu net n'excédant pas 2 litres |
+
+04-01-20-11 |
+
+Lait et crème de lait, non concentrés ni additionnés de sucre ou d'autres édulcorants, d'une teneur en poids de matières grasses excédant 1 % mais n'excédant pas 3 %, en emballages immédiats d'un contenu net n'excédant pas 2 litres |
+
+04-01-50-31 |
+
+Lait et crème de lait, non concentrés ni additionnés de sucre ou d'autres édulcorants, d'une teneur en poids de matières grasses excédant 21 % mais n'excédant pas 45 %, en emballages immédiats d'un contenu net n'excédant pas 2 litres |
+
+04-03-20-19 |
+
+Yaourts non aromatisés ni additionnés de fruits, de fruits à coque, de cacao, de chocolat, d'épices, de café, de plantes, de céréales ou de produits de la boulangerie, sans addition de sucre ou d'autres édulcorants, d'une teneur en poids de matières grasses excédant 6 % |
+
+04-03-20-99 |
+
+Yaourts aromatisés ou additionnés de fruits, de fruits à coque ou de cacao, même concentrés, édulcorés, d'une teneur en poids de matières grasses provenant du lait excédant 6 % (mais non additionnés de chocolat, épices, café, plantes, céréales ou produits de boulangerie, et sous forme non solide) |
+
+04-05-10-90 |
+
+Beurre d'une teneur en poids de matières grasses excédant 85 % mais n'excédant pas 95 % (sauf beurre déshydraté et ghee) |
+
+04-06-10-50 |
+
+Fromages frais (non affinés), y compris le fromage de lactosérum, et caillebotte, d'une teneur en poids de matières grasses n'excédant pas 40 % (à l'exclusion de la mozzarella) |
+
+04-06-20-00 |
+
+Fromages râpés ou en poudre, de tous types |
+
+04-06-90-23 |
+
+Edam (à l'exclusion des fromages râpés ou en poudre et des fromages destinés à la transformation) |
+
+04-06-90-82 |
+
+Camembert, d'une teneur en poids de matières grasses n'excédant pas 40 % et d'une teneur en poids d'eau dans la matière non grasse excédant 47 % mais n'excédant pas 72 % (à l'exclusion des fromages râpés ou en poudre et des fromages destinés à la transformation) |
+
+04-07-21-00 |
+
+Œufs frais en coquilles de volailles domestiques (à l'exclusion des œufs fertilisés, destinés à l'incubation) |
+
+07-09-99-90 |
+
+Légumes, non dénommés ni compris ailleurs, à l'état frais ou réfrigéré |
+
+07-10-21-00 |
+
+Pois " Pisum sativum " écossés ou non, non cuits ou cuits à l'eau ou à la vapeur, congelés |
+
+07-10-22-00 |
+
+Haricots " Vigna spp ", " Phaseolus spp ", écossés ou non, non cuits ou cuits à l'eau ou à la vapeur, congelés |
+
+07-10-30-00 |
+
+Épinards, tétragones (épinards de Nouvelle-Zélande) et arroches (épinards géants), non cuits ou cuits à l'eau ou à la vapeur, congelés |
+
+07-10-80-95 |
+
+Légumes, non-cuits ou cuits à l'eau ou à la vapeur, congelés (à l'exclusion des pommes de terre, des légumes à cosse, des épinards, des tétragones (épinards de Nouvelle-Zélande), des arroches (épinards géants), du maïs doux, des olives, des piments du genre " Capsicum " ou du genre " Pimenta ", des champignons, des tomates, des artichauts et des asperges) |
+
+07-13-10-90 |
+
+Pois " Pisum Sativum ", secs, écossés, même décortiqués ou cassés (à l'exclusion des pois destinés à l'ensemencement) |
+
+07-13-32-00 |
+
+Haricots " petits rouges " (haricots Adzuki) " Phaseolus ou Vigna angularis ", secs, écossés, même décortiqués ou cassés |
+
+07-13-40-00 |
+
+Lentilles séchées ou écossées, même décortiquées ou cassées |
+
+08-02-12-90 |
+
+Amandes douces, fraîches ou sèches, sans coques |
+
+08-06-20-30 |
+
+Sultanines |
+
+09-01-11-00 |
+
+Café, non torréfié, non décaféiné |
+
+09-01-21-00 |
+
+Café torréfié, non décaféiné |
+
+09-02-30-00 |
+
+Thé noir (fermenté) et thé partiellement fermenté, même aromatisés, présentés en emballages immédiats d'un contenu n'excédant pas 3 kg |
+
+09-04-12-00 |
+
+Poivre du genre " Piper ", broyé ou pulvérisé |
+
+09-10-30-00 |
+
+Curcuma |
+
+09-10-91-90 |
+
+Mélanges d'épices broyées ou pulvérisées |
+
+10-06-30-98 |
+
+Riz blanchi, à grains longs, présentant un rapport longueur sur largeur excédant ou égal à 3 (à l'exclusion du riz étuvé) |
+
+10-08-50-00 |
+
+Quinoa (Chenopodium quinoa) |
+
+11-01-00-15 |
+
+Farines de froment (blé) tendre et d'épeautre |
+
+11-03-13-90 |
+
+Gruaux et semoules de maïs, d'une teneur en matières grasses excédant 1,5 % en poids |
+
+11-08-14-00 |
+
+Fécule de manioc (cassave) |
+
+15-12-19-90 |
+
+Huiles de tournesol ou de carthame et leurs fractions, même raffinées, mais non chimiquement modifiées (à l'exclusion des huiles brutes et des huiles destinées à des usages techniques ou industriels) |
+
+15-17-10-90 |
+
+Margarine d'une teneur en poids de matières grasses provenant du lait n'excédant pas 10 % (à l'exclusion de la margarine liquide) |
+
+16-01-00-99 |
+
+Saucisses, saucissons et produits similaires, de viande, d'abats, de sang ou d'insectes, et préparations alimentaires à base de ces produits (à l'exclusion des saucisses et saucissons de foie ainsi que des saucisses et saucissons non cuits) |
+
+16-02-20-90 |
+
+Préparations à base de foie (à l'exclusion des saucisses, saucissons et produits similaires, des préparations finement homogénéisées, conditionnées pour la vente au détail comme aliments pour enfants ou pour usages diététiques, en récipients d'un contenu n'excédant pas 250 g ainsi que des préparations à base de foie d'oie ou de canard) |
+
+16-02-32-90 |
+
+Préparations et conserves de viande ou d'abats de coqs et de poules des espèces domestiques (à l'exclusion des préparations et conserves contenant en poids une proportion supérieure ou égale à 25 % de viande ou d'abats de volailles, des saucisses, saucissons et produits similaires, des préparations finement homogénéisées, conditionnées pour la vente au détail comme aliments pour enfants ou pour usages diététiques, en récipients d'un contenu n'excédant pas 250 g, des préparations à base de foie et des extraits et jus de viande) |
+
+16-02-41-10 |
+
+Préparations et conserves de jambons et de morceaux de jambons des animaux de l'espèce porcine domestique |
+
+16-02-42-10 |
+
+Préparations et conserves d'épaules et de morceaux d'épaules des animaux de l'espèce porcine domestique |
+
+16-04-13-11 |
+
+Préparations et conserves de sardines entières ou en morceaux, à l'huile d'olive (à l'exclusion des préparations et conserves de sardines hachées) |
+
+16-04-20-50 |
+
+Préparations et conserves de sardines, de bonites, de maquereaux des espèces " Scomber scombrus " et " Scomber japonicus " et de poissons de l'espèce " Orcynopsis unicolor " (à l'exclusion des préparations et conserves de poissons entiers ou en morceaux) |
+
+16-04-20-70 |
+
+Préparations et conserves de thons, de listaos et autres poissons du genre " Euthynnus " (à l'exclusion des préparations et conserves de thons, listaos et autres poissons du genre " Euthynnus ", entiers ou en morceaux) |
+
+16-04-20-90 |
+
+Préparations et conserves de poissons (à l'exclusion des préparations de surimi ainsi que des préparations et conserves de poissons entiers ou en morceaux, de salmonidés, d'anchois, de sardines, de bonites, de maquereaux des espèces " Scomber scombrus " et " Scomber japonicus ", de poissons de l'espèce " Orcynopsis unicolor ", de thons, de listaos et des autres poissons du genre " Euthynnus ") |
+
+18-06-10-30 |
+
+Poudre de cacao, additionnée de sucre ou d'autres édulcorants, d'une teneur en poids de saccharose (y compris le sucre inverti calculé en saccharose) ou d'isoglucose, calculé également en saccharose, excédant ou égale à 65 %, et inférieure à 80 % |
+
+18-06-32-90 |
+
+Chocolat et autres préparations alimentaires contenant du cacao, présentés en tablettes, barres ou bâtons, d'un poids n'excédant pas 2 kg, non fourrés ni additionnés de céréales, de noix ou d'autres fruits |
+
+19-02-19-90 |
+
+Pâtes alimentaires, non cuites ni farcies ni autrement préparées, contenant de la farine ou de la semoule de froment (blé) tendre, mais ne contenant pas d'œufs |
+
+19-02-20-30 |
+
+Pâtes alimentaires, farcies de viande ou d'autres substances, même cuites ou autrement préparées, contenant en poids plus de 20 % de saucisses, saucissons et produits similaires., de viandes et d'abats de toutes espèces, y compris les graisses de toute nature ou origine |
+
+19-02-30-10 |
+
+Pâtes alimentaires séchées (à l'exclusion des pâtes alimentaires farcies) |
+
+19-02-40-10 |
+
+Couscous non préparé |
+
+19-04-10-90 |
+
+Produits à base de céréales obtenus par soufflage ou grillage (à l'exclusion des produits à base de maïs ou de riz) |
+
+19-05-20-10 |
+
+Pain d'épices, même additionné de cacao, d'une teneur en poids de saccharose, y compris le sucre interverti calculé en saccharose, inférieure à 30 % |
+
+19-05-31-19 |
+
+Biscuits additionnés d'édulcorants, même additionnés de cacao, entièrement ou partiellement enrobés ou recouverts de chocolat ou d'autres préparations contenant du cacao, en emballages immédiats d'un contenu net excédant 85 g |
+
+19-05-31-99 |
+
+Biscuits additionnés d'édulcorants, même contenant du cacao, d'une teneur en poids de matières grasses provenant du lait inférieure à 8 % (à l'exclusion des doubles biscuits fourrés ainsi que des produits entièrement ou partiellement enrobés ou recouverts de chocolat ou d'autres préparations contenant du cacao) |
+
+19-05-40-10 |
+
+Biscottes |
+
+19-05-90-30 |
+
+Pain sans addition de miel, d'œufs, de fromage ou de fruits et d'une teneur en sucres et matières grasses, chacune, n'excédant pas 5 % en poids sur matière sèche |
+
+19-05-90-80 |
+
+Pizzas, quiches et produits similaires, contenant une proportion inférieure à 5 % en poids de saccharose, de sucre interverti ou d'isoglucose (à l'exclusion du pain croustillant dit " Knäckebrot ", des biscuits, des gaufres et gaufrettes, des biscottes, du pain grillé et des produits similaires grillés, du pain, des hosties, des cachets vides des types utilisés pour médicaments, des pains à cacheter, des pâtes séchées de farine, d'amidon ou de fécule en feuilles et des produits similaires) |
+
+20-01-10-00 |
+
+Concombres et cornichons, préparés ou conservés au vinaigre ou à l'acide acétique |
+
+20-02-10-19 |
+
+Tomates pelées, entières ou en morceaux, préparées ou conservées autrement qu'au vinaigre ou à l'acide acétique, en emballages immédiats d'un contenu net n'excédant pas 1 kg |
+
+20-03-90-90 |
+
+Champignons du genre " Agaricus ", préparés ou conservés autrement qu'au vinaigre ou à l'acide acétique (à l'exclusion des champignons conservés provisoirement et cuits à cœur) |
+
+20-04-10-99 |
+
+Pommes de terre, préparées ou conservées autrement qu'au vinaigre ou à l'acide acétique, congelées (à l'exclusion des pommes de terre simplement cuites ou des pommes de terre sous forme de farines, semoules ou flocons) |
+
+20-05-20-10 |
+
+Pommes de terre sous forme de farines, semoules ou flocons, non-congelées |
+
+20-05-51-00 |
+
+Haricots (Vigna spp., Phaseolus spp.), en grains, préparés ou conservés autrement qu'au vinaigre ou à l'acide acétique, non congelés |
+
+20-05-80-00 |
+
+Maïs doux (Zea mays var. saccharata), préparé ou conservé autrement qu'au vinaigre ou à l'acide acétique, non congelé |
+
+20-05-99-50 |
+
+Mélanges de légumes, préparés ou conservés autrement qu'au vinaigre ou à l'acide acétique, non congelés |
+
+20-05-99-80 |
+
+Légumes, préparés ou conservés autrement qu'au vinaigre ou à l'acide acétique, non congelés (à l'exclusion des légumes confits au sucre, des légumes homogénéisés du n° 2005.10, et des tomates, des champignons des truffes, des pommes de terre, de la choucroute, des pois (Pisum sativum), des haricots (Vigna spp., Phaseolus spp.), des asperges, des olives, du maïs doux (Zea mays var. Saccharata), des jets de bambou, des fruits du genre " Capisicum " au goût épicé, des câpres, des artichauts et des mélanges de légumes) |
+
+20-07-10-99 |
+
+Confitures, gelées, marmelades, purées et pâtes de fruits, obtenues par cuisson, avec ou sans addition de sucre ou d'autres édulcorants, présentées sous la forme de préparations finement homogénéisées, conditionnées pour la vente au détail comme aliments pour enfants ou pour usages diététiques, en récipients d'un contenu n'excédant pas 250 g (à l'exclusion des produits d'une teneur en sucre 13 % en poids et des produits à base de goyaves, de mangues, de mangoustans, de papayes, de tamarins, de pommes de cajou, de litchis, de fruits du jaquier (pain des singes), de sapotilles, de fruits de la passion, de caramboles et de pitahayas) |
+
+20-07-99-39 |
+
+Confitures, gelées, marmelades, purées et pâtes de fruits, obtenues par cuisson, d'une teneur en sucres excédant 30 % en poids (sauf confitures, gelées, marmelades, purées et pâtes de framboises, de fraises, de cerises ou d'agrumes, purées et pâtes de marrons, préparations homogénéisées du n° 200710 ainsi que purées et pâtes de prunes en emballages immédiats d'un contenu net excédant 100 kg destinées à la transformation industrielle) |
+
+20-07-99-50 |
+
+Confitures, gelées, marmelades, purées et pâtes de fruits, obtenues par cuisson, d'une teneur en sucres excédant 13 % mais n'excédant pas 30 % en poids (à l'exclusion des confitures, gelées, marmelades, des purées et pâtes d'agrumes ainsi que des préparations homogénéisées du n° 200710) |
+
+20-08-11-10 |
+
+Beurre d'arachide |
+
+20-09-41-99 |
+
+Jus d'ananas, non fermentés, sans addition d'alcool, d'une valeur Brix n'excédant pas 20 (à l'exclusion des jus contenant des sucres d'addition) |
+
+20-09-71-20 |
+
+Jus de pomme, non fermentés, sans addition d'alcool, d'une valeur Brix n'excédant pas 20, contenant des sucres d'addition |
+
+21-02-10-31 |
+
+Levures de panification séchées |
+
+21-02-30-00 |
+
+Poudres à lever préparées |
+
+21-03-10-00 |
+
+Sauce de soja |
+
+21-03-20-00 |
+
+Tomato ketchup et autres sauces tomates |
+
+21-03-30-90 |
+
+Moutarde préparée |
+
+21-03-90-90 |
+
+Préparations pour sauces et sauces préparées ; condiments et assaisonnements, composés (à l'exclusion de la sauce de soja, du tomato ketchup et autres sauces tomates, du chutney de mangue liquide ainsi que des amers aromatiques du n° 21-03-90-30) |
+
+21-04-10-00 |
+
+Préparations pour soupes, potages ou bouillons ; soupes, potages ou bouillons préparés |
+
+21-04-20-00 |
+
+Préparations alimentaires composites homogénéisées consistant en un mélange finement homogénéisé de plusieurs substances de base, telles que viande, poisson, légumes, fruits, conditionnées pour la vente au détail comme aliments pour enfants ou pour usages diététiques, en récipients d'un contenu n'excédant pas 250 g |
+
+21-05-00-99 |
+
+Glaces de consommation d'une teneur en poids de matières grasses provenant du lait excédant ou égale à 7 % |
+
+21-06-90-59 |
+
+Sirops de sucre, aromatisés ou additionnés de colorants (à l'exclusion des sirops d'isoglucose, de lactose, de glucose ou de maltodextrine) |
+
+21-06-90-98 |
+
+Préparations alimentaires, non dénommés ni compris ailleurs, contenant en poids 1,5 % de matières grasses provenant du lait, 5 % de saccharose ou d'isoglucose, 5 % de glucose ou d'amidon ou de fécule |
+
+22-01-10-19 |
+
+Eaux minérales naturelles, non additionnées de sucre ou d'autres édulcorants ni aromatisées, avec dioxyde de carbone |
+
+22-02-99-11 |
+
+Boissons à base de soja d'une teneur en poids de protéines excédant ou égale à 2,8 %, ne contenant pas d'alcool, de lait, de produits laitiers ou de matières grasses provenant de ces produits |
+
+22-02-99-19 |
+
+Boissons non alcooliques, ne contenant pas de lait, de produits laitiers ou de matières grasses provenant de ces produits (à l'exclusion des eaux, des jus de fruits ou de légumes, de la bière et des boissons à base de soja ou à base de fruits à coques du chapitre 8, de céréales du chapitre 10 ou de graines du chapitre 12) |
+
+22-09-00-11 |
+
+Vinaigres de vin comestibles, présentés en récipients d'une contenance n'excédant pas 2 litres |
+
+22-09-00-91 |
+
+Vinaigres comestibles et succédanés de vinaigre comestibles obtenus à partir d'acide acétique, présentés en récipients d'une contenance n'excédant pas 2 litres (à l'exclusion des vinaigres de vin) |
+
+25-01-00-91 |
+
+Sel propre à l'alimentation humaine |
+
+28-28-10-00 |
+
+Hypochlorites de calcium, y compris l'hypochlorite de calcium du commerce |
+
+28-36-30-00 |
+
+Hydrogénocarbonate (bicarbonate) de sodium |
+
+33-05-10-00 |
+
+Shampooings |
+
+33-06-10-00 |
+
+Dentifrices, préparés, même des types utilisés par les dentistes |
+
+33-07-20-00 |
+
+Désodorisants corporels et antisudoraux, préparés |
+
+34-01-11-00 |
+
+Savons, produits et préparations organiques tensio-actifs à usage de savon, en barres, en pains, en morceaux ou en sujets frappés, et papier, ouates, feutres et nontissés, imprégnés, enduits ou recouverts de savon ou de détergents, pour la toilette, y compris ceux à usages médicaux |
+
+34-01-20-90 |
+
+Savons liquides ou pâteux |
+
+34-02-50-90 |
+
+Préparations pour lessives, y compris les préparations auxiliaires de lavage, et préparations de nettoyage, conditionnées pour la vente au détail (à l'exclusion des agents de surface organiques, des savons et des préparations tensio-actives ainsi que des produits et préparations destinés au lavage de la peau sous forme de liquide ou de crème) |
+
+34-05-40-00 |
+
+Pâtes, poudres et autres préparations à récurer, même sous forme de papier, ouates, feutres, nontissés, matière plastique ou caoutchouc alvéolaires, imprégnés, enduits ou recouverts de ces préparations |
+
+34-06-00-00 |
+
+Bougies, chandelles, cierges et articles similaires |
+
+36-05-00-00 |
+
+Allumettes (autres que les articles de pyrotechnie du n° 3604) |
+
+38-09-91-00 |
+
+Agents d'apprêt ou de finissage, accélérateurs de teinture ou de fixation de matières colorantes et autres produits et préparations (parements préparés et préparations pour le mordançage, par exemple), des types utilisés dans l'industrie textile ou dans les industries similaires, non dénommés ni compris ailleurs (à l'exclusion des produits à base de matières amylacées) |
+
+38-08-91-10 |
+
+Insecticides à base de pyréthrinoïdes, présentés dans des formes ou emballages de vente au détail ou à l'état de préparations ou sous forme d'articles (à l'exclusion des marchandises des n° 38-0850,38-08-52-00,38-08-5900,38-08-6100,38-08 62-00,38-08 69-00) |
+
+38-08-91-90 |
+
+Insecticides, présentés dans des formes ou emballages de vente au détail ou à l'état de préparations ou sous forme d'articles (à l'exclusion des produits à base de pyréthrinoïdes, d'hydrocarbures chlorés, de carbamates ou d'organo-phosphorés ainsi que des produits des sous-positions 38-08-52-00 à 38-08-69-00) |
+
+39-20-10-24 |
+
+Feuilles étirables en polyéthylène non alvéolaire, non imprimées, d'une épaisseur n'excédant pas 0,125 mm et d'une densité n'excédant pas 0,94 |
+
+39-23-29-90 |
+
+Sacs, sachets, pochettes et cornets, en matières plastiques (autres que les polymères de l'éthylène ou le polychlorure de vinyle) |
+
+39-26-20-00 |
+
+Vêtements et accessoires du vêtement, y compris les gants, mitaines et moufles, obtenus par piqûre ou collage de feuilles de matières plastiques (à l'exclusion des marchandises du n° 9619) |
+
+40-14-10-00 |
+
+Préservatifs en caoutchouc vulcanisé non durci |
+
+48-17-10-00 |
+
+Enveloppes, en papier ou en carton |
+
+48-18-10-90 |
+
+Papier hygiénique, en rouleaux d'une largeur n'excédant pas 36 cm et d'un poids par pli supérieur 25 g/ m 2
+
+|
+
+48-18-20-10 |
+
+Mouchoirs et serviettes à démaquiller, en pâte à papier, papier, ouate de cellulose ou nappes de fibres de cellulose |
+
+48-18-20-91 |
+
+Essuie-mains, en pâte à papier, papier, ouate de cellulose ou nappes de fibres de cellulose, en rouleaux d'une largeur n'excédant pas 36 cm |
+
+63-07-90-93 |
+
+Pièces faciales filtrantes FFP conformément à la norme EN149, et autres masques conformes à une norme similaire pour les masques servant d'appareils de protection respiratoire contre les particules |
+
+63-07-90-98 |
+
+Articles de matières textiles, confectionnés, y compris les patrons de vêtements, non dénombrés ni compris par ailleurs (à l'exclusion de ceux en feutre, en bonneterie, les draps à usage unique, en nontissés, utilisés au cours des procédures chirurgicales, et masques de protection) |
+
+68-05-30-00 |
+
+Abrasifs naturels ou artificiels en poudre ou en grains, appliqués sur un autre fond que des matières textiles seulement ou que du papier ou du carton seulement, même découpés, cousus ou autrement assemblés |
+
+76-07-11-19 |
+
+Feuilles et bandes minces d'aluminium sans support, simplement laminées, d'une épaisseur inférieure à 0,021 mm (sauf feuilles pour le marquage au fer du n° 3212 et sauf feuilles travaillées pour la décoration des sapins de Noël et en rouleaux d'un poids n'excédant pas à 10 kg) |
+
+82-12-10-10 |
+
+Rasoirs de sûreté à lames non remplaçables en métaux communs |
+
+85-06-10-11 |
+
+Piles et batteries de piles électriques, au bioxyde de manganèse, alcalines, en forme de piles cylindriques (sauf hors d'usage) |
+
+85-09-80-00 |
+
+Appareils électromécaniques à moteur électrique incorporé, à usage domestique (à l'exclusion des aspirateurs de poussières, aspirateurs de matières sèches et de matières liquides, broyeurs et mélangeurs pour aliments, presse-fruits et presse-légumes, appareils à épiler) |
+
+96-03-21-00 |
+
+Brosses à dents, y compris les brosses à prothèses dentaires |
+
+96-09-10-90 |
+
+Crayons à gaine (autres qu'avec mine de graphite) |
+
+96-19-00-71 |
+
+Serviettes hygiéniques (sauf en matières textiles) |
+
+96-19-00-75 |
+
+Tampons hygiéniques (sauf en matières textiles) |
+
+96-19-00-81 |
+
+Couches et langes pour bébés (à l'exclusion des couches et langes en matières textiles) |
 
 IV. – En Guadeloupe et en Martinique, la liste des produits fixée au I est complétée des produits suivants :
 
@@ -1581,7 +2117,3 @@ Couches et langes pour bébés (sauf en matières textiles) |
 96-19-00-89 |
 
 Articles hygiéniques, par exemple articles pour l'incontinence (sauf en matières textiles, et des serviettes et tampons hygiéniques ainsi que des couches et langes pour bébés) |
-
-NOTA :
-
-Conformément à l'article 2 de l'arrêté du 27 février 2025 (NOR : ECOE2505510A), ces dispositions entrent en vigueur le 1er mars 2025.
