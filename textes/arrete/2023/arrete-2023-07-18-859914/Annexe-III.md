@@ -32,7 +32,7 @@ Carcassonne, Narbonne.
 
 Bouches-du-Rhône
 
-Aix-en-Provence, Marseille-Saint-Charles, gare routière de l'aéroport Marseille Provence.
+Aix-en-Provence, gare routière du Parking Relais-Krypton, Marseille-Saint-Charles, gare routière de l'aéroport Marseille Provence.
 
 Calvados
 
@@ -256,7 +256,7 @@ Toulon.
 
 Vaucluse
 
-Avignon.
+Avignon, Le Pontet.
 
 Vendée
 
