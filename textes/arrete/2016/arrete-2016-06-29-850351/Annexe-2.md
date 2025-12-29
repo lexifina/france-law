@@ -20,8 +20,6 @@ Emplois d'inspecteur civil du ministère de la défense régis par le décret n�
 
 Emploi de secrétaire général de l'Ecole polytechnique, régi par le décret n° 2015-1176 du 24 septembre 2015 relatif à l'organisation et au régime administratif et financier de l'Ecole polytechnique ;
 
-Emploi de Chef du protocole, introducteur des Ambassadeurs ;
-
 Emploi de secrétaire général de la grande chancellerie de la Légion d'honneur régi par le décret du 8 décembre 2003 relatif à l'emploi de secrétaire général de la grande chancellerie de la Légion d'honneur.
 
 Emploi de directeur d'institut régional d'administration régi par le décret n° 98-1154 du 16 décembre 1998 modifié relatif à l'emploi de directeur d'institut régional d'administration ;
