@@ -1352,6 +1352,26 @@ Code de l'environnement Articles L. 229-18-7 et L. 229-18-8. |
 
 Ministre chargé de la mer |
 
+72 |
+
+Amendes administratives prononcées envers les compagnies maritimes, prévues à l'article 23 du règlement (UE) 2023/1805 du Parlement européen et du Conseil du 13 septembre 2023 relatif à l'utilisation de carburants renouvelables et bas carbone dans le transport maritime et modifiant la directive 2009/16/CE. |
+
+Code de l'environnement
+
+Article R. 229-129 |
+
+Ministre chargé de la mer |
+
+73 |
+
+Décisions d'expulsion, d'immobilisation et de refus d'accès au port d'un navire d'une compagnie maritime, prévues à l'article 25 du règlement (UE) 2023/1805 du Parlement européen et du Conseil du 13 septembre 2023 relatif à l'utilisation de carburants renouvelables et bas carbone dans le transport maritime et modifiant la directive 2009/16/CE. |
+
+Code de l'environnement
+
+Article R. 229-129 |
+
+Ministre chargé de la mer |
+
 |
 
 Prévention des risques |
