@@ -1,0 +1,10 @@
+# CA LANNION-TREGOR COMMUNAUTE : délibération ARRETE_25_217 — DELEGATION PONCTUELLE DE L4EXERCICE DU DROIT DE PREEMPTION URBAIN A LA COMMUNE DE TREBEURDEN
+
+- Collectivité : CA LANNION-TREGOR COMMUNAUTE
+- SIRET : 20006592800018
+- Date : 2025-12-29
+- Matière : 2.3 Urbanisme/Droit de preemption urbain
+- Objet : DELEGATION PONCTUELLE DE L4EXERCICE DU DROIT DE PREEMPTION URBAIN A LA COMMUNE DE TREBEURDEN
+- Transmis à la préfecture : 2026-01-05
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/200065928/Deliberation/2025/1001731/ce14080a9605a1b6d8f6a82267452d50f134f48275d0e0b588fb56f29ddbb535.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
