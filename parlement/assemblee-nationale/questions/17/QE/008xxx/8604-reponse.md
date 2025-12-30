@@ -1,0 +1,9 @@
+# Réponse à la question n° 8604
+
+- Question : [8604](8604.md) — Question n° 8604 — Prix des chambres PMR dans les hôtels
+
+## Réponse
+
+*JO du 2025-12-30, page 10684*
+
+La loi du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées impose aux établissements recevant du public, et notamment aux hôtels, de garantir l'accessibilité de leurs locaux. À ce titre, les hôteliers doivent proposer un nombre minimum de chambres adaptées aux personnes à mobilité réduite (PMR), respectant des normes techniques précises : superficie suffisante pour la circulation, salle d'eau et WC adaptés, portes élargies, ainsi que la mise en place d'aides techniques. Ces obligations constituent un socle incontournable pour assurer l'accueil des personnes en situation de handicap dans des conditions dignes et conformes à la réglementation. Par ailleurs, les écarts tarifaires observés peuvent s'expliquer par les caractéristiques propres de ces chambres : superficie généralement plus importante, salle d'eau et WC adaptés, portes élargies et dispositifs techniques spécifiques. Ces aménagements représentent des coûts supplémentaires pour les hôteliers, tant en investissement initial qu'en entretien. A l'instar de l'ensemble de l'offre hôtelière, les prix peuvent varier, à la hausse ou à la baisse, en fonction de la demande. Ces pratiques relèvent du modèle économique appliqué par les professionnels du secteur. Pour autant, le Gouvernement demeure vigilant à ce que les obligations légales des hôteliers soient pleinement respectées, en particulier s'agissant des droits des personnes en situation de handicap. L'objectif est de garantir une réelle égalité d'accès, en veillant à ce que l'offre de chambres adaptées soit disponible et conforme aux normes, et que les personnes concernées puissent exercer leur droit au séjour dans des conditions équitables.
