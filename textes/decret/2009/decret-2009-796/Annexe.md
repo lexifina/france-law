@@ -450,61 +450,69 @@ III. ― Sur ses services nationaux, France Télévisions doit aller au-delà de
 
 Sur chacun des services, le temps de diffusion consacré aux œuvres audiovisuelles européennes ne pourra pas être inférieur à 60 %, et le temps de diffusion consacré aux œuvres audiovisuelles d'expression originale française ne pourra pas être inférieur à 40 %. S'agissant des services destinés à l'outre-mer, ces proportions pourront être revues et adaptées à l'occasion de l'arrivée de la télévision numérique outre-mer.
 
-Sur chacun de ses services France 2, France 3 et France 5, France Télévisions diffuse annuellement un volume minimum de 120 heures d'œuvres audiovisuelles européennes ou d'expression originale française n'ayant pas été précédemment diffusées sur ces services et dont la diffusion débute entre 20 heures et 21 h 30. Ce volume peut également comporter jusqu'à 15 % de rediffusions.
+Sur chacun de ses services France 2, France 3 et France 5, France Télévisions diffuse annuellement un volume minimum de 120 heures d'œuvres audiovisuelles européennes ou d'expression originale française n'ayant pas été précédemment diffusées sur ces services et dont la diffusion débute entre 20 heures et 21 h 30. En 2025, la part des rediffusions qui peut être incluse dans ce volume est inférieure à 25 %.
 
 La société veille à diversifier sur ses services de télévision les horaires de programmation des œuvres de fiction d'expression originale française, en ne les réservant pas exclusivement aux premières parties de soirées.
 
-IV. ― France Télévisions consacre chaque année au moins 20 % de son chiffre d'affaires annuel net de l'exercice précédent à des dépenses contribuant au développement de la production d'œuvres audiovisuelles européennes ou d'expression originale française.
+IV.-France Télévisions consacre chaque année au moins 20 % de son chiffre d'affaires annuel net de l'exercice précédent à des dépenses contribuant au développement de la production d'œuvres audiovisuelles européennes ou d'expression originale française.
 
 Cette contribution est intégralement réalisée dans des œuvres patrimoniales énumérées à la première phrase du deuxième alinéa du 3° de l'article 27 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
 
-Elle ne peut être inférieure annuellement à 420 millions d'euros, ce montant incluant les dépenses dans les œuvres documentaires ayant fait l'objet d'un contrat avec les antennes régionales de France 3, Via Stella ou les Outre-mer La 1ère.
+En 2025, elle ne peut être inférieure annuellement à 440 millions d'euros, ce montant incluant les dépenses dans les œuvres documentaires ayant fait l'objet d'un contrat avec les antennes régionales de France 3, Via Stella ou les Outre-mer La 1 ère.
 
-Au titre de la diversité des investissements par genre d'œuvres, France Télévisions s'engage à investir au moins les montants suivants :
+En 2025 :
 
--pour le documentaire de création, 101 millions d'euros dont 12,2 millions d'euros dans les œuvres documentaires ayant fait l'objet d'un contrat avec les antennes régionales de France 3, Via Stella ou les Outre-mer La 1ère ;
+-les dépenses mentionnées au 1°, 2° et 4° du I de l'article 5 du décret n° 2021-1926 du 30 décembre 2021 représentent au moins 90 % du montant de la contribution ;
 
--pour le spectacle vivant, 15,75 millions d'euros dont 2 millions d'euros pour des œuvres exploitées exclusivement sur des services de médias audiovisuels à la demande ou des services de communication au public en ligne ;
+-les dépenses contribuant au développement de la production d'œuvres d'expression originale française représentent au moins 90 % du montant de la contribution ;
 
--pour l'animation, 27,2 millions d'euros.
+-les œuvres européennes qui ne sont pas d'expression originale française doivent être éligibles aux aides financières du Centre national du cinéma et de l'image animée.
+
+Au titre de la diversité des investissements par genre d'œuvres, France Télévisions s'engage à investir au moins les montants suivants en 2025 :
+
+-pour le documentaire de création, 105 millions d'euros dont 14 millions d'euros dans les œuvres documentaires ayant fait l'objet d'un contrat avec les antennes régionales de France 3, Via Stella ou les Outre-mer La 1 ère ;
+
+-pour le spectacle vivant, 17 millions d'euros ;
+
+-pour l'animation, 35 millions d'euros, dont au moins 3 millions d'euros consacrés aux œuvres cinématographiques d'animation ;
+
+-pour le court-métrage, 1,5 million d'euros.
 
 Au moins deux tiers de ces montants sont affectés à la production indépendante.
 
-Déduction faite des dépenses mentionnées au troisième alinéa du présent IV, la part minimale de cette contribution consacrée au développement de la production indépendante s'établit à 82,5 %.
+Déduction faite des dépenses mentionnées au troisième alinéa du présent IV, la part minimale de cette contribution consacrée au développement de la production indépendante s'établit en 2025 à 80 %.
 
-La part de cette contribution qui n'est pas consacrée au développement de la production indépendante est réalisée avec les filiales mentionnées à l'article 44-1 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
+La part de cette contribution qui n'est pas consacrée au développement de la production indépendante est réalisée avec les filiales mentionnées à l'article 44-1 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, y compris lorsqu'elles sont associées à des producteurs indépendants.
 
-Les dépenses prises en compte sont celles mentionnées à l'article 5 du décret du 30 décembre 2021 précité. Toutefois, ne sont prises en compte au titre de celles mentionnées au 8° du I de cet article que :
+En 2025, les dépenses prises en compte sont celles mentionnées à l'article 5 du décret du 30 décembre 2021 précité dans les limites suivantes :
 
-1° Les dépenses de financement de festivals dans la limite de 0,1 % du montant de la contribution ;
+1° Les dépenses de doublage et de sous-titrage des œuvres sont prises en compte au titre de la contribution dans la limite de 0,5 % du montant de cette contribution ;
 
-2° Les dépenses externes d'achat d'espaces publicitaires et de campagnes d'affichage consacrées à des œuvres identifiées sur lesquelles porte la contribution, pour la part de ces dépenses supérieures à 500 000 euros ;
+2° Les dépenses de sauvegarde, restauration ou mise en valeur des œuvres du patrimoine audiovisuel d'expression originale française sont prises en compte dans la limite de 0,5 % du montant de la contribution ;
 
-3° Les dépenses de financement de la formation des auteurs dans la limite de 1 % du montant de la contribution.
+3° Les dépenses de financement de la formation des auteurs, de promotion des œuvres prises en compte au titre de la contribution et de financement de festivals sont prises en compte dans la limite de 1 % du montant de la contribution.
 
-La contribution de l'exercice en cours peut prendre en compte les dépenses engagées au titre de l'exercice précédent qui n'ont pas été prises en compte au titre de ce dernier, dans la limite de 2 % de la contribution de l'exercice en cours.
+Les dépenses sont prises en compte, pour le montant total correspondant à chacune des œuvres identifiées dans le contrat, au titre de l'exercice au cours duquel l'éditeur a commencé à exécuter l'engagement financier correspondant, le début de l'exécution de l'engagement financier s'entendant comme la réalisation du fait générateur correspondant à la première échéance contractuelle exigible relative à ladite œuvre. Par dérogation à la phrase précédente, chacun des versements réalisés au titre des dépenses mentionnées au 4° du I de l'article 5 du décret du 30 décembre 2021 précité est pris en compte au titre de l'exercice au cours duquel il a été réalisé.
 
-Elle porte globalement sur le chiffre d'affaires réalisé par les services suivants :
+Conformément au 3° de l'article 25 du décret n° 2021-1926 du 30 décembre 2021, dans la limite de 5 %, la société peut en 2025 :
 
--services de télévision diffusés par voie hertzienne terrestre définis à l'article 3 du présent cahier des charges ;
+-reporter sur l'exercice suivant, la réalisation d'une partie de la contribution ;
+
+-rattacher à l'exercice suivant les dépenses engagées lors de l'exercice qui n'ont pas encore été prises en compte.
+
+La contribution porte globalement sur le chiffre d'affaires réalisé par les services suivants :
+
+-services de télévision diffusés par voie hertzienne terrestre définis à l'article 3 du présent cahier des charges services ;
 
 -services de médias audiovisuels à la demande édités par France Télévisions ou par l'une de ses filiales, au sens du 6° de l'article 3 du présent cahier des charges.
 
 A la condition que France Télévisions en informe l'Autorité de régulation de la communication audiovisuelle et numérique avant le 1er juillet de chaque année, le chiffre d'affaires des autres services de télévision édités par France Télévisions ou par l'une de ses filiales, sur tout réseau de communications électroniques, pourra également être pris en compte.
 
-Pour la part de la contribution consacrée au développement de la production indépendante, la société respecte les dispositions figurant en annexe relatives à l'étendue des droits cédés pour les genres d'œuvres qui y sont mentionnés ainsi que, lorsqu'elle détient des parts de producteur d'une œuvre, les conditions figurant en annexe, prenant en compte l'accord conclu le 24 mai 2016 avec les organisations représentant les producteurs et les distributeurs d'œuvres audiovisuelles, relatives à :
+Pour les dépenses mentionnées aux 1°, 2° et 4° du I de l'article 5 du décret n° 2021-1926 du 30 décembre 2021 prises en compte au titre de la contribution consacrée en 2025 au développement de la production indépendante, la société respecte les dispositions figurant en annexe relatives à l'étendue des droits cédés pour les genres d'œuvres qui y sont mentionnés ainsi que les conditions figurant en annexe relatives à la négociation et l'acquisition des mandats de commercialisation.
 
--la négociation des mandats de commercialisation et des droits secondaires ;
+Pour les dépenses mentionnées au 3° du I de l'article 5 du décret n° 2021-1926 du 30 décembre 2021 prises en compte au titre de la contribution consacrée en 2025 au développement de la production indépendante, la durée des droits n'excède pas quarante-huit mois.
 
--l'acquisition des mandats de commercialisation lorsque le producteur dispose pour cette œuvre d'une capacité de distribution, interne ou par l'intermédiaire d'une filiale, ou d'un accord-cadre conclu avec une entreprise de distribution ;
-
--l'exploitation des droits de diffusion de l'œuvre à l'issue de la période initiale des droits de diffusion qui lui ont été cédés.
-
-En 2023 en outre, s'agissant des œuvres pour lesquelles la société acquiert les droits mentionnés au 1° du I de l'article 5 du décret du 30 décembre 2021 précité, sans détenir de parts de producteur, auprès de producteurs qui ne disposent pas pour les œuvres en cause d'une capacité de distribution, interne ou par l'intermédiaire d'une de leurs filiales ou d'une filiale des sociétés qui les contrôlent au sens du 2° de l'article 41-3 de la loi du 30 septembre 1986 susvisée, ou d'un accord-cadre conclu avec une entreprise de distribution, la société applique les conditions figurant en annexe relatives à la négociation des mandats de commercialisation et des droits secondaires.
-
-France Télévisions peut procéder à une multidiffusion supplémentaire sur ses services régionaux et locaux de télévision diffusés en outre-mer correspondant à un passage sur chacun de ces services.
-
-Pour l'application du 3° du II de l'article 21 du décret n° 2021-1926 du 30 décembre 2021 précité, le pourcentage minimum de financement du devis de production d'une œuvre, quel qu'en soit le genre, est fixé à 60 %. Dans ce cas, le calcul du droit à recettes au profit de France Télévisions respecte les règles de l'accord sur la transparence des comptes et des remontées de recettes en matière de production audiovisuelle du 19 février 2016 ou de tout accord qui lui serait substitué.
+En 2025, pour l'application du 3° du II de l'article 21 du décret n° 2021-1926 du 30 décembre 2021 précité aux documentaires et spectacles vivants, le pourcentage minimum de financement du devis de production d'une œuvre est fixé à 60 %.
 
 Article 9-1
 
@@ -648,7 +656,7 @@ A cette fin, elle s'attache à faire bénéficier le public des nouvelles techni
 
 Elle favorise la relation avec le public par l'utilisation de toutes les techniques de l'interactivité. Elle exploite notamment à ce titre tout service de communication au public par voie électronique permettant de compléter et d'enrichir, y compris au plan régional et local, les émissions qu'elle programme.
 
-Elle participe au développement technologique de la communication audiovisuelle. Elle diffuse en particulier des messages d'information sur la télévision numérique et sur la perspective de l'extinction de la diffusion par voie hertzienne terrestre en mode analogique. Le contrat d'objectifs et de moyens définit les modalités de déploiement de l'offre de services de télévision par voie hertzienne terrestre en mode numérique en haute définition de France Télévisions.
+Elle participe au développement technologique de la communication audiovisuelle.
 
 Les émissions qu'elle diffuse comportent des informations pratiques sur les sujets traités et des références bibliographiques ou des renvois à des documents de toute nature permettant aux téléspectateurs de compléter leurs informations. La société veille à leur qualité et à ce que leur présentation n'ait pas un caractère publicitaire.
 
@@ -1254,7 +1262,7 @@ France Télévisions peut conclure avec l'Etat, des organismes publics et privé
 
 Dans l'exercice de ses missions, la société collabore avec les acteurs institutionnels chargés de l'éducation, de l'enseignement supérieur, de la recherche, du travail, de la formation professionnelle, de l'emploi, de la culture, des affaires sociales, de la santé, de l'agriculture, de l'environnement, de la jeunesse et des sports et l'ensemble des administrations et des établissements publics qui en dépendent, les entreprises, les organisations professionnelles, les collectivités locales et les organismes du monde associatif.
 
-Les modalités de cette collaboration sont fixées en tant que de besoin dans le cadre de conventions avec les ministères concernés, après en avoir informé le conseil d'administration.
+Les modalités de cette collaboration sont fixées en tant que de besoin dans le cadre de conventions avec les ministères concernés.
 
 Disposition finale
 
@@ -1268,288 +1276,508 @@ La société communique à l'Autorité de régulation de la communication audiov
 
 Annexe : Etendue des droits cédés par genre d'œuvre
 
-1) Fiction, documentaire et spectacle vivant
+1. Documentaire
 
-Durée des droits exclusifs (1) |
+DOCUMENTAIRE |
 
-30 mois pour les unitaires et 36 mois pour les séries et collections dans le cadre d'un préachat et/ ou d'une coproduction |
+Financement FTV < 55 %
 
-Nombre de multidiffusions linéaires |
+du devis |
+
+Financement FTV ≥ 55 % ET < 60 %
+
+du devis |
+
+Financement FTV ≥ 60 %
+
+du devis |
+
+Durée des droits d'exploitation (1) |
+
+30 mois |
+
+36 mois |
+
+42 mois |
+
+Exploitation linéaire gratuite (2) |
+
+tous droits linéaires (y compris télévision en ligne [WebTV/ Fast]) exclusifs sur la durée des droits |
+
+Nombre de multidiffusions sur les antennes nationales |
 
 Négociation de gré à gré |
 
-Définition de la multidiffusion |
-
-4 passages pendant une période de 30 jours pouvant être effectués sur l'un ou l'autre des services linéaires de la société |
-
-Terminaison automatique des droits d'exploitation |
-
-30 jours après l'exploitation du dernier passage de la dernière multidiffusion (du dernier épisode pour une série ou collection et ce pour tous les épisodes), sauf pour les séries ou collections commandées auprès d'un même producteur qui ont fait l'objet d'une nouvelle commande avant cette date, étant précisé que cette cessation automatique anticipée ne pourra pas intervenir avant l'échéance de la protection à l'égard des exploitations non-linéaires par abonnement |
-
-Droits d'exploitation non linéaire gratuite |
-
-Durée de la télévision de rattrapage |
-
-A compter du jour de chaque passage de chaque multidiffusion et 7 jours après (2) |
-
-Délai de pré-diffusion |
-
-7 jours avant la première diffusion linéaire (3) |
-
-Exploitation en VàD gratuite |
-
-Exclusivité pendant la durée des droits.
-
-En fonction de la part de l'investissement de l'éditeur dans le coût total de production :
-
-1. Période d'exploitation continue ou discontinue négociée de gré à gré dans la limite de 6 mois lorsque cette part est inférieure à 65 % pour les œuvres de fiction, inférieure à 55 % pour les documentaires, inférieure à 45 % pour le spectacle vivant.
-
-2. Période d'exploitation continue ou discontinue négociée de gré à gré dans la limite de 6 à 9 mois lorsque cette part est supérieure ou égale à 65 % pour les œuvres de fiction, supérieure ou égale à 55 % pour les documentaires, supérieure ou égale à 45 % pour le spectacle vivant.
-
-La période d'exploitation mentionnée au 1) et au 2) ci-dessus est ouverte au sein de la durée de protection à l'égard d'une exploitation non-linéaire par abonnement définie ci-dessous. |
-
-Œuvres destinées exclusivement à une exploitation en VàD gratuite |
-
-36 mois avec protection à l'égard d'une exploitation linéaire et non linéaire par abonnement sur toute la durée des droits |
-
-Protection à l'égard d'une exploitation non-linéaire par abonnement |
-
-En fonction de la part de l'investissement de l'éditeur dans le coût total de production :
-
-1. Période de protection négociée de gré à gré limitée à 12 mois à compter de la date de début des droits lorsque cette part est inférieure à 65 % pour les œuvres de fiction, inférieure à 55 % pour les documentaires, inférieure à 45 % pour le spectacle vivant ;
-
-2. Période de protection négociée de gré à gré de 12 à 24 mois lorsque cette part est supérieure ou égale à 65 % pour les œuvres de fiction, supérieure ou égale à 55 % pour les documentaires, supérieure ou égale à 45 % pour le spectacle vivant. |
-
-Droit à recettes (4) |
-
-Préachat : 50 % de la part de financement de France Télévisions rapportée au coût définitif de l'œuvre, dans les conditions définies par l'accord transparence du 19/02/2016 ou tout accord qui lui serait substitué.
-
-Coproduction : Modalités de calcul définies par l'accord transparence du 19/02/2016 ou tout accord qui lui serait substitué. |
-
-(1) Pour les unitaires et épisodes de collections, date de début des droits à la date d'acceptation du matériel de diffusion (PAD). A titre dérogatoire, elle peut être fixée à la date de la première exploitation, si celle-ci survient avant l'acceptation du PAD. Pour les séries, date de début des droits de l'ensemble des épisodes d'une saison à la date de la première exploitation du premier épisode par l'un des services linéaires ou non-linéaires de France Télévisions et au plus tard à l'acceptation du dernier PAD d'une saison, dans la limite de 12 mois à compter de l'acceptation du premier PAD. Pour les captations de spectacle vivant, date de début des droits à la mise en ligne du direct ou différé dans l'offre non linéaire de France Télévisions. Cependant, si le PAD n'est pas livré dans les trois mois, la durée des droits linéaires pourra être prolongée du délai accordé pour la livraison et l'acceptation du PAD, dans la limite de six mois, et ceci avec l'accord du producteur.
-
-(2) En ce compris la fonctionnalité de reprise au début du programme définie comme la capacité, en cours de diffusion, de revenir au début du programme.
-
-Pour les épisodes d'une série de fiction ou de documentaire ou d'une collection dont les épisodes sont programmés à intervalle rapproché (quotidien ou hebdomadaire), les droits de télévision de rattrapage peuvent être exercés pour l'ensemble des épisodes jusqu'à 7 jours après la diffusion du dernier épisode sur un service de France Télévisions.
-
-(3) 7 jours avant la date de première diffusion pour chaque épisode et un maximum de 7 jours avant la date de première diffusion du premier épisode pour l'ensemble des épisodes d'une série ou d'une collection dont les épisodes sont programmés à intervalle rapproché (quotidien ou hebdomadaire).
-
-(4) Modalités de définition et de répartition des recettes définies par accord professionnel en vigueur. |
-
-2) Animation
-
-Le tableau ci-dessous doit être lu au regard des précisions suivantes qui le complètent :
-
--la date de début des droits d'exploitation est fixée à la date d'acceptation du matériel de diffusion (PAD) pour les unitaires. Pour les séries, la date de début des droits de l'ensemble des épisodes objet d'un contrat est fixée à la date de la première exploitation du premier épisode par l'un des services de télévision ou plateformes numériques gratuites du groupe France Télévisions et au plus tard à l'acceptation du dernier PAD d'une saison, dans la limite de 12 mois à compter de l'acceptation du premier PAD. En cas de non-respect des dates de livraison prévues contractuellement, la date de début des droits d'exploitation des épisodes d'une série concernés par le retard de livraison pourra être renégociée dans le cadre d'un avenant au contrat de préachat. En cas de commande de 39 demi-heures commerciales, la date de début des droits peut être fixée par lot selon des modalités à définir par les parties ;
-
--pendant la durée des droits, sur le territoire français (métropole et Outre-mer), France Télévisions peut exploiter à titre promotionnel sur des services tiers de type hébergeur et/ ou sur des réseaux sociaux, sous la marque Okoo des extraits, des contenus originaux et spécifiques ainsi que 2 épisodes pour les séries dont la durée par épisode est comprise entre 22 et 26 minutes, 4 épisodes pour les séries dont la durée par épisode est comprise entre 11 et 13 minutes et dans la limite de 6 épisodes pour les séries dont la durée par épisode est de 7 minutes ou moins. Ces épisodes peuvent être renouvelés tous les 3 mois. Pour les unitaires, le volume maximum disponible ne pourra excéder 10 % de la durée totale de l'œuvre ;
-
--12 mois après l'ouverture des droits, le producteur peut exploiter la marque dans les mêmes conditions, avec renvoi via un lien vers l'offre Okoo et présence du logo de la marque Okoo. Avant cette date, le producteur peut exploiter la marque uniquement avec des extraits, des contenus originaux et spécifiques ;
-
--pour les œuvres destinées exclusivement à une exploitation non-linéaire, France Télévisions a la possibilité de mettre à disposition sur des services tiers de type hébergeur et sur des réseaux sociaux les œuvres intégrales dans la mesure où celle-ci sont destinées à cette exploitation spécifique.
+Nombre de multidiffusions sur les services Outre-mer la 1ère
 
 |
 
-Financement FTV < 25 %
+1 multidiffusion pour chacun des 9 services Outre-mer la 1ère
 
-ou < 1,75 M € (1)
+|
 
-(< 1,5 M €
+Nombre de multidiffusions télévision en ligne (web TV/ FAST) |
 
-pour les pré-scolaires) |
+Négociation de gré à gré |
 
-Financement FTV ≥ 25 %
+Droits de pré-diffusion " preview " (3) |
 
-et < 30 %
+30 jours avant la date de 1 re diffusion |
 
-ou ≥ 1,75 et < 2 M € (1)
+Droits de télévision de rattrapage (TVR) (4) |
 
-(≥ 1,5 et < 1,65 M €
-
-pour les pré-scolaires) |
-
-Financement FTV ≥ 30 %
-
-et < 35 %
-
-ou ≥ 2 et < 2,3 M € (1)
-
-(≥ 1,65 et < 1,9 M €
-
-pour les pré-scolaires) |
-
-Financement FTV ≥ 35 %
-
-ou ≥ 2,3 M € (1)
-
-(≥ 1,9 M €
-
-pour les pré-scolaires) |
-
-Durée des droits d'exploitation linéaire gratuite et non linéaire gratuite (2) |
-
-30 mois |
-
-36 mois |
-
-42 mois |
-
-48 mois |
-
-Exclusivité linéaire gratuite et non linéaire gratuite |
-
-30 mois |
-
-36 mois |
-
-42 mois |
-
-48 mois |
+30 jours après chaque passage de chaque multidiffusion |
 
 Protection à l'égard d'une exploitation linéaire payante |
 
-De 0 à 6 mois |
+30 mois |
 
-12 mois (3) |
+36 mois |
 
-18 mois (3) |
+42 mois |
 
-48 mois
+Exploitation non linéaire gratuite (2) |
 
-ou avec fenêtre de codiffusion au bénéfice d'un diffuseur tiers démarrant à partir du 13ème mois de FTV (3) |
+tous droits non linéaires (vidéo à la demande gratuite [AVOD/ FVOD]) exclusifs sur la durée des droits |
+
+Protection à l'égard d'une exploitation non-linéaire par abonnement |
+
+30 mois |
+
+36 mois |
+
+42 mois |
+
+Protection à l'égard d'une exploitation non-linéaire payante à l'acte, en vidéo à la demande en téléchargement définitif et en vidéo physique |
+
+Jusqu'à J + 30 jours à compter du dernier passage de la 1re multidiffusion (du dernier épisode pour une série, pour tous les épisodes) |
+
+Droits à recettes |
+
+50 % de la part de financement rapporté au coût définitif de l'œuvre dans les conditions définies par l'accord transparence du 19/02/2016 |
+
+(1) La date de début des droits d'exploitation des œuvres audiovisuelles patrimoniales préachetées ou coproduites est fixée :
+
+-pour les unitaires et épisodes de collections, à la date d'acceptation du matériel de diffusion (PAD). A titre dérogatoire, elle peut être fixée à la date de la première exploitation, si celle-ci survient avant l'acceptation du PAD ;
+
+-pour les séries, à la date de la première exploitation du premier épisode par l'un des services linéaires ou non-linéaires de France Télévisions et au plus tard à l'acceptation du dernier PAD d'une saison, dans la limite de 12 mois à compter de l'acceptation du premier PAD.
+
+(2) Les droits acquis pourront être exploités en intégrale ou par extraits (sous réserve de l'accord du producteur sur le montage dans le cadre du respect du droit moral des auteurs) sur les services édités ou coédités par France Télévisions directement ou indirectement via notamment des accords de distribution, d'hébergement et de référencement, y compris sur les pages éditées ou coéditées par France Télévisions sur tous réseaux sociaux et plateformes, avec ou sans publicité et avec ou sans frais d'accès ou péage de lecture numérique. Ils seront exploités sans reversement additionnel. Ils ne pourront pas être sous-licenciés en dehors des services intégrés au périmètre de l'Accord.
+
+(3) Les droits de pré-diffusion (preview) sont fixés à un maximum de 30 jours avant la date de la première diffusion sur un service linéaire de France Télévisions pour un unitaire ou un épisode de série ou de collection et à un maximum de 30 jours avant la date de première diffusion du premier épisode pour l'ensemble des épisodes d'une série ou d'une collection dont les épisodes sont programmés à intervalle rapproché (quotidien ou hebdomadaire).
+
+(4) Les droits de télévision de rattrapage (TVR) des œuvres audiovisuelles patrimoniales préachetées, coproduites ou achetées dans le cadre de l'obligation d'investissement incluent le jour de chaque passage (en ce compris la fonctionnalité de reprise au début du programme [startover]) et 30 jours après chaque passage de chaque multidiffusion.
+
+Pour les épisodes d'une série de fiction ou de documentaire, ou d'une collection dont les épisodes sont programmés à intervalle rapproché (quotidien ou hebdomadaire) les droits de télévision de rattrapage peuvent être exercés pour l'ensemble des épisodes du jour de la diffusion du 1er épisode sur un service linéaire de France Télévisions jusqu'à 30 jours après la diffusion du dernier épisode sur un service linéaire de France Télévisions (“ full stacking ”).
+
+2. Fiction
+
+FICTION |
+
+Financement FTV < 50 % du devis |
+
+Financement FTV ≥ 50 % du devis |
+
+Durée des droits d'exploitation (1) |
+
+30 mois |
+
+42 mois |
+
+Exploitation linéaire gratuite (2) |
+
+tous droits linéaires (y compris télévision en ligne [WebTV/ Fast]) exclusifs sur la durée des droits |
+
+Nombre de multidiffusions sur les antennes nationales |
+
+Négociation de gré à gré |
+
+Nombre de multidiffusions sur les services Outre-mer la 1ère
+
+|
+
+1 multidiffusion pour chacun des 9 services Outre-mer la 1ère
+
+|
+
+Nombre de multidiffusions télévision en ligne (WebTV/ Fast) |
+
+Négociation de gré à gré |
+
+Droits de pré-diffusion " preview " (3) |
+
+30 jours avant la date de 1re diffusion |
+
+Droits de télévision de rattrapage (TVR) (4) |
+
+30 jours après chaque passage de chaque multidiffusion |
+
+Protection à l'égard d'une exploitation linéaire payante |
+
+30 mois |
+
+42 mois |
+
+Exploitation non linéaire gratuite (2) |
+
+tous droits non linéaires (vidéo à la demande gratuite [AVOD/ FVOD]) exclusifs sur la durée des droits |
+
+Protection à l'égard d'une exploitation non-linéaire par abonnement |
+
+30 mois |
+
+42 mois |
+
+Protection à l'égard d'une exploitation non-linéaire payante à l'acte, en vidéo à la demande en téléchargement définitif et en vidéo physique |
+
+Jusqu'à J + 30 jours à compter du dernier passage de la 1re multidiffusion (du dernier épisode pour une série, pour tous les épisodes) |
+
+Droits à recettes |
+
+50 % de la part de financement rapporté au coût définitif de l'œuvre dans les conditions définies par l'accord transparence du 19/02/2016 |
+
+(1) La date de début des droits d'exploitation des œuvres audiovisuelles patrimoniales préachetées ou coproduites est fixée :
+
+-pour les unitaires et épisodes de collections, à la date d'acceptation du matériel de diffusion (PAD) ;
+
+-pour les séries, à la date de la première exploitation du premier épisode par l'un des services linéaires ou non-linéaires de France Télévisions et au plus tard à l'acceptation du dernier PAD d'une saison, dans la limite de 12 mois à compter de l'acceptation du premier PAD.
+
+(2) Les droits acquis pourront être exploités en intégrale ou par extraits (sous réserve de l'accord du producteur sur le montage dans le cadre du respect du droit moral des auteurs) sur les services édités ou coédités par le France Télévisions directement ou indirectement via notamment des accords de distribution, d'hébergement et de référencement, y compris sur les pages éditées ou coéditées par France Télévisions sur tous réseaux sociaux et plateformes, avec ou sans publicité et avec ou sans frais d'accès ou péage de lecture numérique. Ils seront exploités sans reversement additionnel. Ils ne pourront pas être sous-licenciés en dehors des services intégrés au périmètre de l'Accord.
+
+(3) Les droits de pré-diffusion “ preview ” sont fixés à un maximum de 30 jours avant la date de la première diffusion sur un service linéaire de France Télévisions pour un unitaire ou un épisode de série ou de collection et à un maximum de 30 jours avant la date de première diffusion du premier épisode pour l'ensemble des épisodes d'une série ou d'une collection dont les épisodes sont programmés à intervalle rapproché (quotidien ou hebdomadaire).
+
+(4) Les droits de télévision de rattrapage (TVR) des œuvres audiovisuelles patrimoniales préachetées, coproduites ou achetées dans le cadre de l'obligation d'investissement incluent le jour de chaque passage (en ce compris la fonctionnalité de reprise au début du programme [startover]) et 30 jours après chaque passage de chaque multidiffusion.
+
+Pour les épisodes d'une série de fiction ou de documentaire, ou d'une collection dont les épisodes sont programmés à intervalle rapproché (quotidien ou hebdomadaire) les droits de télévision de rattrapage peuvent être exercés pour l'ensemble des épisodes du jour de la diffusion du 1er épisode sur un service linéaire de France Télévisions jusqu'à 30 jours après la diffusion du dernier épisode sur un service linéaire de France Télévisions (“ full stacking ”).
+
+3. Spectacle vivant
+
+SPECTACLE VIVANT |
+
+Financement FTV < 60 % du devis |
+
+Financement FTV ≥ 60 % du devis |
+
+Durée des droits d'exploitation (1) |
+
+36 mois |
+
+42 mois |
+
+Exploitation linéaire gratuite (2) |
+
+tous droits linéaires (y compris télévision en ligne [WebTV/ Fast]) exclusifs sur la durée des droits |
+
+Nombre de multidiffusions sur les antennes nationales |
+
+Négociation de gré à gré |
+
+Nombre de multidiffusions sur les services Outre-mer la 1ère
+
+|
+
+1 multidiffusion pour chacun des 9 services Outre-mer la 1ère
+
+|
+
+Nombre de multidiffusions télévision en ligne (WebTV/ Fast) |
+
+Négociation de gré à gré |
+
+Droits de pré-diffusion " preview " (3) |
+
+30 jours avant la date de 1re diffusion |
+
+Droits de télévision de rattrapage (TVR) (4) |
+
+30 jours après chaque passage de chaque multidiffusion |
+
+Protection à l'égard d'une exploitation linéaire payante |
+
+36 mois |
+
+42 mois |
+
+Exploitation non linéaire gratuite (2) |
+
+12 mois en continu ou discontinu sur toute la période des droits |
+
+tous droits non linéaires (vidéo à la demande gratuite [AVOD/ FVOD]) exclusifs sur la durée des droits |
+
+Protection à l'égard d'une exploitation non-linéaire par abonnement |
+
+36 mois |
+
+42 mois |
+
+Protection à l'égard d'une exploitation non-linéaire payante à l'acte, en vidéo à la demande en téléchargement définitif et en vidéo physique |
+
+Jusqu'à J + 30 jours à compter du dernier passage de la 1re multidiffusion (du dernier épisode pour une série, pour tous les épisodes) |
+
+Droits à recettes |
+
+50 % de la part de financement rapporté au coût définitif de l'œuvre dans les conditions définies par l'accord transparence du 19/02/2016 |
+
+(1) La date de début des droits d'exploitation des œuvres audiovisuelles patrimoniales préachetées ou coproduites est fixée :
+
+-pour les unitaires et épisodes de collections, à la date d'acceptation du matériel de diffusion (PAD). A titre dérogatoire, elle peut être fixée à la date de la première exploitation, si celle-ci survient avant l'acceptation du PAD ;
+
+-pour les séries, à la date de la première exploitation du premier épisode par l'un des services linéaires ou non-linéaires de France Télévisions et au plus tard à l'acceptation du dernier PAD d'une saison, dans la limite de 12 mois à compter de l'acceptation du premier PAD. Pour les captations de spectacle vivant, la mise en ligne du direct ou différé dans l'offre non linéaire de France Télévisions déclenche l'ouverture des droits de l'œuvre. Cependant, si le PAD n'est pas livré dans les trois mois, la durée des droits linéaires pourra être prolongée du délai accordé pour la livraison et l'acceptation du PAD, dans la limite de six mois, et ceci avec l'accord du producteur.
+
+(2) Les droits acquis pourront être exploités en intégrale ou par extraits (sous réserve de l'accord du producteur sur le montage dans le cadre du respect du droit moral des auteurs) sur les services édités ou coédités par France Télévisions directement ou indirectement via notamment des accords de distribution, d'hébergement et de référencement, y compris sur les pages éditées ou coéditées par France Télévisions sur tous réseaux sociaux et plateformes, avec ou sans publicité et avec ou sans frais d'accès ou péage de lecture numérique. Ils seront exploités sans reversement additionnel. Ils ne pourront pas être sous-licenciés en dehors des services intégrés au périmètre de l'Accord.
+
+(3) Les droits de pré-diffusion " preview " sont fixés à un maximum de 30 jours avant la date de la première diffusion sur un service linéaire de France Télévisions pour un unitaire ou un épisode de série ou de collection et à un maximum de 30 jours avant la date de première diffusion du premier épisode pour l'ensemble des épisodes d'une série ou d'une collection dont les épisodes sont programmés à intervalle rapproché (quotidien ou hebdomadaire).
+
+(4) Les droits de télévision de rattrapage (TVR) des œuvres audiovisuelles patrimoniales préachetées, coproduites ou achetées dans le cadre de l'obligation d'investissement incluent le jour de chaque passage (en ce compris la fonctionnalité de reprise au début du programme [startover]) et 30 jours après chaque passage de chaque multidiffusion.
+
+Pour les épisodes d'une série de fiction ou de documentaire, ou d'une collection dont les épisodes sont programmés à intervalle rapproché (quotidien ou hebdomadaire) les droits de télévision de rattrapage peuvent être exercés pour l'ensemble des épisodes du jour de la diffusion du 1er épisode sur un service linéaire de France Télévisions jusqu'à 30 jours après la diffusion du dernier épisode sur un service linéaire de France Télévisions (" full stacking ").
+
+(5) Dans le cas d'une exploitation exclusivement non-linéaire d'une captation ou recréation de spectacles, France Télévisions disposera de 36 ou 42 mois de droits exclusifs, en fonction du Seuil de référence applicable à l'œuvre concernée.
+
+4. Animation-série
+
+ANIMATION SÉRIE |
+
+Financement FTV < 30 % Et < au seuil de référence (1) |
+
+Financement FTV ≥ 30 % et < 50 % Ou compris entre les seuils de référence (1) |
+
+Financement FTV ≥ 50 % Ou ≥ au seuil de référence (1) |
+
+Enfants & famille : < 2.000 K € pour 572 mn Préscolaires (a) : < 1.700 K € pour 572 mn |
+
+Enfants & famille : ≥ 2.000 K € et < 2.300 K € pour 572 mn Préscolaires (a) : ≥ 1.700 K € et < 1.950 K € pour 572 mn |
+
+Enfants & famille : ≥ 2.300 K € pour 572 mn Préscolaires (a) : ≥ 1.950 K € pour 572 min |
+
+Durée des droits d'exploitation linéaire gratuite et non linéaire gratuite |
+
+36 mois (2) (2 ter) |
+
+42 mois (2) (2 ter) |
+
+48 mois (2 bis) |
+
+Exclusivité linéaire gratuite et non linéaire gratuite |
+
+36 mois |
+
+42 mois |
+
+48 mois |
 
 Nombre de diffusions pour une exploitation linéaire gratuite |
 
-Diffusion illimitée |
+Nombre illimité |
 
-Exploitation non linéaire gratuite |
+Exploitation non linéaire gratuite sur les services édités ou coédités par le groupe FTV |
 
-De 10 % à 50 % du nombre d'épisodes de la série renouvelés tous les 2 à 6 mois
+Séries Enfants & Famille et Préscolaires : Jusqu'à 100 % des épisodes pendant la période de protection, puis jusqu'à 50 % du nombre d'épisodes renouvelables tous les 2 mois pendant le reste de la durée des droits Séries feuilletonnantes et série Jeunes Adultes : exposition négociée de gré à gré (7) |
 
-Unitaires et séries feuilletonnantes : exposition négociée de gré à gré
+Séries Enfants & Famille et Préscolaires : Jusqu'à 100 % des épisodes pendant la période de protection, puis de 50 à 100 % du nombre d'épisodes renouvelables tous les 2 mois pendant le reste de la durée des droits Séries feuilletonnantes et série Jeunes Adultes : 100 % du nombre d'épisodes pendant la durée des droits |
 
-100 % des épisodes pour les œuvres destinées à une exploitation exclusivement non linéaire |
-
-De 50 % à 100 % du nombre d'épisodes de la série renouvelés tous les 2 à 6 mois
-
-Unitaires et séries feuilletonnantes : exposition négociée de gré à gré
-
-100 % des épisodes pour les œuvres destinées à une exploitation exclusivement non linéaire |
+100 % des épisodes pendant la durée des droits |
 
 Pré-diffusion |
 
-Pour les séries : jusqu'à 90 jours avant la 1ère diffusion du 1er épisode
+Pour les séries : jusqu'à 90 jours avant la 1 re diffusion du 1 er épisode |
 
-Pour les unitaires : jusqu'à 7 jours avant la 1ère diffusion
+Télévision de rattrapage |
 
-Sous réserve de la combinaison des exclusivités des différents diffuseurs opérant sur le territoire français |
+7 jours après chaque passage (5) |
 
-Télévision de rattrapage (4) |
+Protection à l'égard d'une exploitation linéaire payante |
 
-7 jours après chaque passage de chaque multidiffusion dans la/ les périodes d'exclusivité de France Télévisions.
+de 0 à 12 mois (2) (2 ter) |
 
-Hors période (s) d'exclusivité de France Télévisions, 7 jours après chaque passage de chaque multidiffusion/ en cas d'exploitation payante ou de requête d'un autre diffuseur figurant au plan de financement, 48 heures en programmation quotidienne et 7 jours en programmation hebdomadaire |
+18 mois (2) (2 ter) |
 
-Protection à l'égard d'une exploitation non-linéaire par abonnement (5) |
+48 mois (2 bis) |
 
-De 0 à 6 mois |
+Protection à l'égard d'une exploitation non-linéaire par abonnement |
 
-12 mois (6) |
+de 0 à 12 mois (2) (2 ter) |
 
-18 mois (6) |
+18 mois (2) (2 ter) |
 
-24 mois (6) |
+48 mois (2 bis) |
 
-Droit à recettes |
+Protection à l'égard d'une exploitation non-linéaire gratuite financée par la publicité (AVOD) |
 
-50 % de la part de financement de FTV rapporté au coût définitif de l'œuvre dans les conditions définies par l'accord transparence du 19/02/2016 ou tout accord qui lui serait substitué |
+Sur la durée des droits pour l'ensemble de la série (hors dispositions 6a) |
 
-(1) Ces seuils exprimés en valeur absolue s'entendent pour la commande de 26 demi-heures commerciales. Ils sont calculés au prorata pour les autres formats.
+Protection à l'égard d'une exploitation non-linéaire payante à l'acte, en vidéo à la demande en téléchargement définitif et en vidéo physique |
 
-(2) Pour les achats, la durée des droits est de 36 mois maximum. Les autres critères sont négociés de gré à gré.
+Jusqu'à J + 30 jours à compter de la 1 re exploitation du dernier épisode pour une série |
 
-(3) Variation possible de la durée des droits de diffusion et concomitamment de la durée d'exclusivité : une augmentation de 1 mois de la durée des droits de diffusion entraîne une réduction de 1 mois de la durée d'exclusivité ou une diminution de 1 mois de la durée des droits de diffusion entraîne une augmentation de 1 mois de la durée d'exclusivité. La durée totale des droits ne pourra excéder 60 mois.
+Droits à recettes |
 
-(4) Les droits de télévision de rattrapage (TVR) incluent le jour de chaque passage (en ce compris la fonctionnalité de reprise au début du programme définie comme la capacité, en cours de diffusion, de revenir au début du programme) et, pour les séries feuilletonnantes, la possibilité de mettre à disposition l'ensemble des épisodes jusqu'à 7 jours après la diffusion du dernier épisode sur un service de télévision édité par France Télévisions.
+50 % de la part de financement rapporté au coût définitif de l'œuvre dans les conditions définies par l'accord transparence du 19/02/2016 |
 
-(5) La protection à l'égard d'une exploitation non-linéaire par abonnement démarre à la date de début des droits d'exploitation, telle que définie par les dispositions qui complètent le tableau. Possibilité d'acquisition de droits d'exploitation non-linéaire par abonnement par contrat séparé avec partage de recettes à définir par accord interprofessionnel.
+(a) Par séries préscolaires, on entend des séries visant un public de 3 à 5 ans, caractérisées notamment par un rythme narratif plus lent, un découpage moins rythmé et un nombre de personnages plus limité que les séries " enfants et famille " (kids et famille). Il est entendu que les séries dites " upper-préschool " (grande section de maternelle) seront qualifiées de " kids " (enfants).
 
-(6) Alignement de la protection à l'égard d'une exploitation non-linéaire par abonnement sur celle à l'égard d'une exploitation en linéaire payante dans la limite de 24 mois. |
+(1) Les seuils exprimés en coût horaire s'entendent pour la commande de 572mn correspondant à 26 × 22 ʹ et ses déclinaisons. Ils sont calculés au prorata pour les autres formats.
 
-Annexe : Conditions d'acquisition des mandats de commercialisation et des droits secondaires d'une œuvre pour laquelle France Télévisions détient des parts de producteur dans la partie indépendante de sa contribution à la production audiovisuelle et conditions d'exploitation des droits de diffusion de cette œuvre à l'issue de la période initiale des droits de diffusion
+(2) Variation possible de la durée des droits de diffusion et concomitamment de la durée d'exclusivité : une augmentation de 1 mois de la durée des droits de diffusion entraîne une réduction de 1 mois de la durée des protections OU une diminution de 1 mois de la durée des droits de diffusion entraîne une augmentation de 1 mois de la durée des protections.
 
-Les conditions précisées ci-dessous prennent en compte les engagements réciproques souscrits par France Télévisions et les organisations représentant les producteurs et les distributeurs d'œuvres audiovisuelles dans le cadre d'un accord conclu le 24 mai 2016.
+(2 bis) Si FTV accepte avant le début de la livraison un 2d financeur sur le marché français : possibilité d'augmenter la durée des droits de 12 mois supplémentaires au maximum.
 
-1. Négociation des mandats de commercialisation et des droits secondaires
+(2 ter) Dans l'hypothèse où FTV accepterait d'être soumis à une période de black-out (gel) au profit d'un tiers sur une partie de ses droits (linéaire ou non linéaire), la période globale de tous les droits de FTV serait prolongée proportionnellement dans la limite de 12 mois supplémentaires.
+
+(3) La date de début des droits d'exploitation est fixée à la date d'acceptation du matériel de diffusion (PAD) pour les unitaires. Pour les séries, la date de début des droits de l'ensemble des épisodes objet d'un contrat est fixée à la date de la première exploitation du premier épisode par l'un des services de télévision ou plateformes numériques gratuites du groupe France Télévisions et au plus tard à l'acceptation du dernier PAD d'une saison, dans la limite de 12 mois à compter de l'acceptation du premier PAD. En cas de non-respect des dates de livraison prévues contractuellement, la date de début des droits d'exploitation des épisodes d'une série concernés par le retard de livraison pourra être renégociée dans le cadre d'un avenant au contrat de préachat.
+
+(4) La protection à l'égard d'une exploitation non-linéaire par abonnement et linéaire payante démarre à la date de début des droits d'exploitation telle que définie en (3).
+
+(5) Les droits de télévision de rattrapage (TVR) des œuvres audiovisuelles patrimoniales préachetées incluent le jour de chaque passage (en ce compris le " start-over " défini comme la capacité, en cours de diffusion, de revenir au début du programme), l'empilement (" stacking ") pour les séries feuilletonnantes.
+
+(6a) Pendant la durée des droits, sur le territoire français (métropole et outre-Mer), France Télévisions peut exploiter à titre promotionnel sur des services tiers de type hébergeur comme YouTube et/ ou sur des réseaux sociaux, sous la marque Okoo, France. tv, Lumni, Slash, des extraits, des contenus originaux et spécifiques ainsi que 2 épisodes pour les séries dont la durée par épisode est comprise entre 22 et 26 minutes, 4 épisodes pour les séries dont la durée par épisode est comprise entre 11 et 13 minutes, et dans la limite de 6 épisodes pour les séries dont la durée par épisode est de 7 minutes ou moins. Ces épisodes peuvent être renouvelés tous les 3 mois. Pour les unitaires, le volume maximum disponible ne pourra excéder 10 % de la durée totale de l'oeuvre.
+
+12 mois après l'ouverture des droits, le producteur peut exploiter la marque dans les mêmes conditions, avec renvoi via un lien vers l'offre Okoo, France. tv, Lumni ou Slash et présence du logo Okoo, France. tv, Lumni ou Slash. Avant cette date, le producteur peut exploiter la marque uniquement avec des extraits, des contenus originaux et spécifiques.
+
+(6b) Pour les œuvres destinées à un public Jeunes Adultes, France Télévisions a la possibilité de mettre à disposition les œuvres intégrales sur des services tiers de type hébergeur comme YouTube et sur des réseaux sociaux (notamment Facebook, X, Instagram, TikTok, Snapchat, Twitch, …) sous réserve du géoblocage au territoire France. En cas d'impossibilité de géoblocage, France Télévisions peut exploiter l'œuvre sous forme d'extraits.
+
+(7) Dans l'hypothèse où FTV serait 2d diffuseur, négociation de gré à gré des droits non-linéaires gratuits (FVOD)
+
+5. Animation-unitaire et mini-série
+
+ANIMATION UNITAIRE & MINI-SÉRIE |
+
+Financement FTV < 25 % Et |
+
+Financement FTV ≥ 25 % Ou |
+
+unitaire : < 345.000 €/ h mini-série (< 4h.) : < 265.000 €/ h |
+
+unitaire : ≥ 345.000 €/ h mini-série (< 4h.) : ≥ 265.000 €/ h |
+
+Durée des droits d'exploitation linéaire gratuite et non linéaire gratuite |
+
+48 mois |
+
+60 mois |
+
+Exclusivité linéaire gratuite et non linéaire gratuite |
+
+48 mois |
+
+60 mois |
+
+Nombre de diffusions pour une exploitation linéaire gratuite |
+
+nombre illimité |
+
+Exploitation non linéaire gratuite sur les services édités ou coédités par le groupe FTV |
+
+mini-série : 100 % des épisodes pendant la durée des droits unitaire : pendant la durée des droits |
+
+Pré-diffusion |
+
+mini-série : jusqu'à 90 jours avant la 1re diffusion du 1er épisode unitaire : jusqu'à 7 jours avant la 1re diffusion |
+
+Télévision de rattrapage |
+
+7 jours après chaque passage (5) |
+
+Protection à l'égard d'une exploitation linéaire payante |
+
+18 mois (2) (2 ter) |
+
+36 mois |
+
+Protection à l'égard d'une exploitation non-linéaire par abonnement |
+
+18 mois (2) (2 ter) |
+
+36 mois |
+
+Protection à l'égard d'une exploitation non-linéaire gratuite financée par la publicité (AVOD) |
+
+Sur la durée des droits pour l'ensemble de la série (hors dispositions 6a) |
+
+Protection à l'égard d'une exploitation non-linéaire payante à l'acte, en vidéo à la demande en téléchargement définitif et en vidéo physique |
+
+Jusqu'à J + 30 jours à compter de la 1re exploitation du dernier épisode pour une série et jusqu'à J + 30 jours à compter de la 1re exploitation pour un unitaire |
+
+Droits à recettes |
+
+50 % de la part de financement rapporté au coût définitif de l'œuvre dans les conditions définies par l'accord transparence du 19/02/2016 |
+
+(2) Variation possible de la durée des droits de diffusion et concomitamment de la durée d'exclusivité : une augmentation de 1 mois de la durée des droits de diffusion entraîne une réduction de 1 mois de la durée des protections OU une diminution de 1 mois de la durée des droits de diffusion entraîne une augmentation de 1 mois de la durée des protections.
+
+(2 ter) Dans l'hypothèse où FTV accepterait d'être soumis à une période de black-out (gel) au profit d'un tiers sur une partie de ses droits (linéaire ou non linéaire), la période globale de tous les droits de FTV serait prolongée proportionnellement dans la limite de 12 mois supplémentaires.
+
+(5) Les droits de télévision de rattrapage (TVR) des œuvres audiovisuelles patrimoniales préachetées incluent le jour de chaque passage (en ce compris le " start-over " défini comme la capacité, en cours de diffusion, de revenir au début du programme), l'empilement (" stacking ") pour les séries feuilletonnantes.
+
+(6a) Pendant la durée des droits, sur le territoire français (métropole et outre-mer), France Télévisions peut exploiter à titre promotionnel sur des services tiers de type hébergeur comme YouTube et/ ou sur des réseaux sociaux, sous la marque Okoo, France. tv, Lumni, Slash, des extraits, des contenus originaux et spécifiques ainsi que 2 épisodes pour les séries dont la durée par épisode est comprise entre 22 et 26 minutes, 4 épisodes pour les séries dont la durée par épisode est comprise entre 11 et 13 minutes, et dans la limite de 6 épisodes pour les séries dont la durée par épisode est de 7 minutes ou moins. Ces épisodes peuvent être renouvelés tous les 3 mois. Pour les unitaires, le volume maximum disponible ne pourra excéder 10 % de la durée totale de l'œuvre.
+
+12 mois après l'ouverture des droits, le producteur peut exploiter la marque dans les mêmes conditions, avec renvoi via un lien vers l'offre Okoo, France. tv, Lumni ou Slash et présence du logo Okoo, France. tv, Lumni ou Slash. Avant cette date, le producteur peut exploiter la marque uniquement avec des extraits, des contenus originaux et spécifiques.
+
+Annexe : Conditions de négociation et d'acquisition des mandats de commercialisation
+
+1. Négociation des mandats de commercialisation
 
 La négociation doit respecter les conditions équitables, transparentes et non discriminatoires suivantes.
 
 1.1. Engagements généraux
 
-L'acquisition des mandats de commercialisation et des droits secondaires fait l'objet d'une négociation et d'un contrat distincts du contrat de coproduction de l'œuvre.
+L'acquisition des mandats de commercialisation fait l'objet d'une négociation et d'un contrat distincts du contrat de préfinancement de l'œuvre. France Télévisions s'engage à ce qu'aucune clause relative à une attribution des mandats de commercialisation à ses filiales ne soit incluse dans les contrats de développement à l'exception du cas de droits d'adaptation apportés par France Télévisions dans les conditions visées au 2.2.5.
 
-France Télévisions s'engage à ce qu'aucune clause relative à une attribution des mandats de commercialisation à ses filiales ne soit incluse dans les contrats de développement ou de coproduction.
+1.2. Négociation des mandats de commercialisation lorsque le producteur délégué ne dispose pas, pour l'œuvre en cause, d'une capacité de distribution ou d'un accord-cadre
 
-1.2. Mécanisme d'attribution des mandats de commercialisation et de cession des droits secondaires
+France Télévisions s'engage à respecter le caractère distinct de cette procédure et des négociations relatives à sa contribution au préfinancement de l'œuvre.
 
-1.2.1. A compter de la réception par France Télévisions de la notification écrite du producteur délégué lui indiquant, ainsi qu'aux distributeurs tiers sollicités, le démarrage de la procédure d'attribution, la filiale de distribution de France Télévisions dispose d'un délai de quinze jours ouvrés pour émettre une offre. L'absence de réponse dans ce délai équivaut à une renonciation à se positionner. Le producteur peut abréger ce délai si tous les distributeurs sollicités, en ce compris la filiale de distribution de France Télévisions, ont remis leur offre avant son terme.
+Dans la mesure où France Télévisions disposerait d'une ou de plusieurs structures d'exploitation ou de commercialisation des droits secondaires (en particulier une société d'édition vidéo France) ou dérivés, son offre commerciale devra distinguer chaque cession ou offre de distribution de droits secondaires ou dérivés du mandat de commercialisation de l'œuvre, dans le cadre d'une offre non liée.
 
-Cette offre devra comporter au minimum les éléments suivants :
+2. Acquisition des mandats de commercialisation lorsque le producteur dispose pour cette œuvre d'une capacité de distribution, interne ou par l'intermédiaire d'une de ses filiales ou d'une filiale de la société qui le contrôle au sens du 2° de l'article 41-3 de la loi du 30 septembre 1986, ou d'un accord-cadre conclu avec une entreprise de distribution
 
-– montant du ou des minima garantis, le cas échéant ;
+2.1. Définitions de la capacité de distribution du producteur délégué et de l'accord-cadre
 
-– périmètre des droits ;
+2.1.1. Capacité de distribution du producteur délégué : le producteur délégué satisfait, au sein d'un département interne ou au travers d'une de ses filiales au sens l'article L. 233-3 du code de commerce ou d'une filiale de la société qui le contrôle au sens du même article, aux deux conditions cumulatives suivantes :
 
-– liste des territoires concernés ;
+-disposer d'équipes spécialisées dans la commercialisation des droits d'exploitation dans le genre audiovisuel concerné et, concernant la fiction, la langue de tournage (EOF/ non EOF) de l'œuvre en cause ;
 
-– durée du contrat ;
+-développer un chiffre d'affaires commercial significatif dans le genre audiovisuel concerné et, concernant la fiction, la langue de tournage (EOF/ non EOF) de l'œuvre en cause.
 
-– taux de commission/ taux de redevance/ frais éventuels.
+Dans le cas où ladite capacité de distribution a été créée par le producteur délégué moins de deux ans avant la conclusion du contrat de coproduction ou de préachat de l'œuvre en cause avec France Télévisions, le critère de chiffre d'affaires n'est pas pris en compte et l'expertise peut être recherchée au travers des ressources (notamment expériences précédentes des équipes).
 
-L'offre peut également comporter des éléments d'information sur la stratégie commerciale envisagée au service de la commercialisation de l'œuvre et sur l'historique de distribution du distributeur.
+Le producteur délégué déclare auprès de la PROCIREP, au minimum trois mois avant la date de signature de la lettre d'engagement de France Télévisions, l'existence de sa capacité de distribution répondant aux critères susvisés et indique chacun des domaines dans lesquels elle est compétente, à savoir au minimum : le genre et, concernant la fiction, la langue de tournage (EOF/ non EOF) et, le cas échéant, le format (unitaire/ série).
 
-1.2.2. Le délai fixé ci-dessus est prorogé d'autant quand il court durant la période allant du 1er août au 15 août et du 24 décembre au 1er janvier suivant.
+Ladite déclaration ne peut avoir plus de deux ans à la date de la signature de la lettre d'engagement de France Télévisions. Compte tenu de ce qui précède, le producteur délégué met à jour sa déclaration en cas de changement impactant sa déclaration. Ces informations sont intégrées à une base de la PROCIREP qui doit être accessible par France Télévisions (ainsi que par les producteurs et distributeurs audiovisuels et par l'ensemble des éditeurs de services concernés) à tout moment.
 
-1.2.3. Le mécanisme tel que décrit ci-dessus s'applique pour la cession des différents droits secondaires de l'œuvre.
+Lorsque le producteur délégué aura valablement déclaré auprès de la PROCIREP disposer d'une capacité de distribution compétente sur l'ensemble des critères susvisés pour l'œuvre en cause, France Télévisions ne pourra pas détenir le mandat de commercialisation de celle-ci.
 
-1.2.4. Dans le cadre du mécanisme d'attribution des mandats de commercialisation, France Télévisions doit disposer, au moment du contrôle par l'Autorité de régulation de la communication audiovisuelle et numérique (ARCOM) de la déclaration relative à ses dépenses au regard de son obligation de contribution au développement de la production audiovisuelle, des notifications démontrant que le producteur a sollicité au moins un distributeur tiers.
+2.1.2. Accord-cadre conclu avec une entreprise de distribution : conclusion par le producteur délégué d'un contrat avec une société de distribution aux termes duquel il s'engage à confier à titre exclusif à ladite société de distribution, en contrepartie le cas échéant du paiement par cette dernière d'une avance, pendant une durée déterminée et en tout état de cause pour une durée minimale d'un an, la commercialisation des droits d'exploitation de l'ensemble de ses productions futures, le cas échéant, dans un genre et/ ou dans un format donné, et dans une zone territoriale déterminée. Aux termes de ce contrat, la société de distribution s'engage à commercialiser les droits d'exploitation de toutes les œuvres du producteur délégué relevant du périmètre ainsi déterminé.
 
-1.2.5. En cas de vente des droits de diffusion de l'œuvre à l'une des chaînes du groupe France Télévisions, la filiale de distribution de celui-ci s'engage à faire valider le prix et les conditions de cession (durée, exclusivité, nombre de multidiffusions, etc.) préalablement par le producteur délégué.
-
-Le producteur délégué dispose d'un délai de 10 jours ouvrés pour répondre, l'absence de réponse pendant ce délai valant acceptation.
-
-En cas de refus de l'offre qui lui a été soumise par le producteur délégué dans ce délai, celui-ci peut prospecter le marché et doit obtenir une offre mieux-disante d'un autre diffuseur télévisuel dans un délai de 30 jours ouvrés suivant la notification du refus. A défaut d'obtenir une offre écrite mieux-disante d'un autre diffuseur télévisuel dans ce délai de 30 jours ouvrés, la filiale de distribution de France Télévisions peut conclure l'offre initiale.
-
-Si le producteur délégué obtient une offre mieux-disante dans le délai de 30 jours ouvrés, France Télévisions peut s'aligner sur cette offre ou, à défaut, la filiale de distribution de France Télévisions peut conclure l'offre mieux-disante avec le diffuseur télévisuel concerné.
-
-La filiale de distribution de France Télévisions ne peut précompter le droit à recettes attaché à la part de coproduction de celui-ci sur les sommes encaissées au titre de son mandat.
-
-2. Acquisition des mandats de commercialisation lorsque le producteur dispose pour cette œuvre d'une capacité de distribution, interne ou par l'intermédiaire d'une filiale, ou d'un accord-cadre conclu avec une entreprise de distribution
-
-2.1. Pour l'application des dispositions du 2.2, on entend par :
-
-2.1.1. Capacité de distribution interne : aptitude et faculté du producteur délégué à exploiter, conformément aux usages de la profession, via des moyens et ressources humaines disponibles au sein de son entreprise (salarié, gérant de société), les mandats de commercialisation ;
-
-2.1.2. Capacité de distribution par l'intermédiaire d'une filiale : aptitude et faculté du producteur délégué à exploiter, conformément aux usages de la profession, via des moyens et ressources humaines disponibles (salarié, gérant de société) au sein de toute société, en charge de la distribution ou de l'édition, contrôlée par le producteur ou par le groupe qui le contrôle, ou bien au sein d'une joint-venture de distribution ou d'édition détenue par le producteur délégué de l'œuvre et par un autre producteur avec lequel il en partage le contrôle, les mandats de commercialisation.
-
-2.1.3. Accord-cadre : contrat préexistant au contrat de coproduction, conclu entre un producteur audiovisuel et un distributeur de programmes audiovisuels, aux termes duquel le producteur s'engage à confier à titre exclusif au distributeur, en contrepartie le cas échéant du paiement par ce dernier d'une avance, pendant une durée déterminée, la commercialisation de l'ensemble de ses productions futures et le cas échéant par genre, par format, etc., dans une zone territoriale déterminée. Le distributeur, pour sa part, s'engage à distribuer toutes les œuvres du producteur relevant du périmètre visé.
+Ne constitue un accord-cadre, ni un accord ponctuel limité à un nombre prédéfini d'œuvres, ni un droit d'option prioritaire de commercialisation relatif à tout ou partie des productions futures du producteur délégué.
 
 Les conditions de commercialisation de chaque œuvre en exécution de l'accord-cadre font l'objet d'un mandat de distribution spécifique.
 
-Ne constitue un accord-cadre, ni un accord ponctuel limité à un nombre prédéterminé d'œuvres, ni un droit d'option prioritaire sur tout ou partie des productions futures du producteur délégué.
+Le producteur délégué justifie pour opposer valablement un tel accord-cadre que la société de distribution :
 
-2.2. Dans le cadre du dispositif défini au 1.2 ci-dessus, France Télévisions peut détenir des mandats de commercialisation lorsque le producteur qui dispose pour cette œuvre d'une capacité de distribution, interne ou par l'intermédiaire d'une filiale, ou d'un accord-cadre conclu avec une entreprise de distribution choisit d'y renoncer dans les hypothèses suivantes :
+-répond aux critères de compétence définis pour la capacité de distribution au 2.1.1 ci-avant ;
 
-– si l'œuvre constitue la suite d'une série ou collection ayant fait l'objet d'un contrat de mandat conclu avec une filiale de France Télévisions avant l'entrée en vigueur du décret n° 2015-483 du 27 avril 2015 ;
+-est déclarée auprès de la PROCIREP par le producteur délégué en tant que société bénéficiant de l'accord-cadre, pour le genre concerné et, s'agissant de la fiction, pour la langue de tournage (EOF/ non EOF) et, le cas échéant, le format (unitaire/ série) de l'œuvre en cause, si cette dernière accepte d'endosser le rôle prévu au 2.1.1, étant précisé que cette déclaration doit avoir été réalisée au moins trois mois avant la date de confirmation écrite de l'engagement de France Télévisions dans le développement et dater de moins de deux ans avant cette même date. Ces informations sont intégrées à la base de la PROCIREP mentionnée au 2.1.1 ci-avant.
 
-– si l'œuvre constitue la suite d'une série ou collection préachetée par France Télévisions entre l'entrée en vigueur du décret n° 2015-483 du 27 avril 2015 et le 24 mai 2016, ayant fait l'objet d'un contrat de mandat conclu avec une filiale de France Télévisions ;
+Au moment de la présentation d'un projet à France Télévisions, le producteur délégué lui transmet copie de tout accord-cadre qu'il souhaite lui rendre opposable en cas de conclusion d'un contrat de préachat ou de coproduction, le cas échéant en masquant toute information confidentielle à son égard et/ ou sans rapport avec l'œuvre concernée, avant la confirmation écrite de l'engagement de France Télévisions dans le développement.
 
-– si l'œuvre constitue la suite d'une série ou collection coproduite conformément au décret n° 2015-483 du 27 avril 2015 ayant fait l'objet d'un contrat de mandat conclu avec une filiale de France Télévisions ;
+Lorsque le producteur délégué justifie auprès de France Télévisions disposer pour l'œuvre en cause d'un accord-cadre répondant à l'ensemble des critères visés au présent 2.1.2, France Télévisions ne pourra pas détenir le mandat de commercialisation de celle-ci.
 
-– pour les œuvres coproduites à compter du 24 mai 2016, la renonciation du producteur délégué ne peut intervenir qu'après réception de la confirmation écrite de l'engagement chiffré de France Télévisions.
+2.2. France Télévisions peut détenir des mandats de commercialisation lorsque le producteur dispose pour cette œuvre d'une capacité de distribution ou d'un accord-cadre conclu avec une entreprise de distribution dans les hypothèses suivantes :
 
-Dans l'hypothèse où le producteur délégué décide de confier des mandats de distribution à la filiale de France Télévisions, cette dernière doit produire auprès de l'ARCOM la renonciation écrite et justifiée du producteur délégué dans le cadre de ses obligations de déclaration annuelle auprès de l'Autorité, en vue de permettre que l'œuvre concernée puisse être considérée comme relevant de la production indépendante.
+2.2.1 Lorsque la capacité de distribution du producteur délégué ou l'accord-cadre qu'il a conclu ne répondent pas aux conditions définies au 2.1.
 
-3. Exploitation des droits de diffusion de l'œuvre à l'issue de la période initiale des droits de diffusion qui lui ont été cédés
+2.2.2. Dans le cas où il y a plusieurs coproducteurs délégués de l'œuvre en cause et qu'un au moins des producteurs délégués dispose d'une capacité de distribution ou d'un accord-cadre pour ladite œuvre, les accords de coproduction conclus entre les coproducteurs délégués au minimum trois mois avant la signature de la lettre d'engagement de France Télévisions peuvent prévoir que ces derniers pourront ne pas avoir recours à leurs capacités de distribution. Dans ce cas, la procédure prévue au 1.2 s'applique.
 
-A l'exception des séries ou collections dont France Télévisions a acquis les droits de diffusion de nouveaux épisodes au plus tard à l'issue de la période initiale des droits de diffusion qui lui ont été cédés, France Télévisions s'engage à exploiter, dans un délai de dix-huit mois à compter de leur acquisition, les droits de diffusion de l'œuvre en France sur un service de télévision qu'il édite, s'il acquiert ces droits à l'issue de la période initiale des droits de diffusion qui lui ont été cédés.
+2.2.3. Le producteur délégué, bien que disposant d'une capacité de distribution telle que définie ci-avant, a expressément renoncé à y avoir recours pour l'œuvre en cause et a souhaité recevoir des offres de tiers sur le mandat de commercialisation.
+
+Dans de telles circonstances, si France Télévisions préfinance plus de 50 % de l'œuvre (en fiction et en animation) ou plus de 60 % de l'œuvre (en documentaire et en spectacle vivant), le producteur délégué devra communiquer à la filiale de distribution de France Télévisions l'offre du distributeur tiers qu'elle souhaite accepter, et notamment le périmètre des droits et les territoires concernés, la durée du mandat, le taux de commission, les frais opposables, le montant du minimum garanti et, le cas échéant, tous les éléments d'information pertinents quant à la stratégie commerciale envisagée au service de la commercialisation de l'œuvre et à l'historique de l'activité de distribution du distributeur tiers, ainsi que l'ensemble des informations qui auront été partagées avec le distributeur tiers.
+
+A compter du jour de la transmission de l'ensemble de ces informations, la filiale de France Télévisions disposera de quinze jours ouvrés (étant précisé que ce délai sera doublé en cas de réception de l'offre entre le 1er juillet et le 31 août) pour se positionner et pour formuler, le cas échéant, une offre au producteur délégué.
+
+2.2.4. Lorsque l'œuvre constitue la suite ou l'adaptation d'une œuvre dont le mandat de commercialisation a été préalablement attribué à une filiale de France Télévisions.
+
+2.2.5 Lorsque France Télévisions apporte au producteur les droits d'adaptation d'une œuvre originale.
+
+NOTA :
+
+Conformément à l'article 7 du décret n° 2025-1422 du 30 décembre 2025, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur immédiatement.
