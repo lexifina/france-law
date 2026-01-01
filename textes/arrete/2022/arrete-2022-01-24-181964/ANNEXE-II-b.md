@@ -816,7 +816,7 @@ T1-4 Remettre en service |
 
 Unité du diplôme |
 
-U51 |
+U5 |
 
 Contexte de formation
 
@@ -1220,7 +1220,7 @@ T2-3 Assurer la communication interne et externe du service maintenance |
 
 Unité du diplôme |
 
-U52 |
+U6 |
 
 Contexte de formation
 
@@ -1608,7 +1608,7 @@ T3-4-Participer à une réunion de progrès |
 
 Unité du diplôme |
 
-U6 |
+U7 |
 
 Contexte de formation
 
@@ -2056,7 +2056,7 @@ T4-2 Préparer et participer à la réception, à l'installation et à la mise e
 
 Unité du diplôme |
 
-U4 |
+U8 |
 
 Contexte de formation
 
@@ -2420,7 +2420,7 @@ T5-3 Définir et/ ou planifier la maintenance |
 
 Unité du diplôme |
 
-U53 |
+U9 |
 
 Contexte de formation
 
@@ -2937,3 +2937,7 @@ Les tableaux 1 à 5 en annexe mettent en parallèle des tâches de la vie profes
 Dans le prolongement du cours d'anglais, poursuivre le travail sur les activités langagières en les appliquant au domaine professionnel spécifique à la section et aux gestes techniques en contexte.
 
 Assurer une veille documentaire par la fréquentation de la presse ou de sites d'informations scientifiques ou généralistes en langue anglaise et placer ainsi le domaine professionnel de la section dans une perspective complémentaire : celle de la culture professionnelle et de la démarche scientifique (parallèle ou concurrente) des pays anglophones.
+
+NOTA :
+
+Conformément à l'article 6 de l'arrêté du 24 juin 2025 (NOR : MENS2514038A), ces dispositions s'appliquent à compter de la session d'examen 2026.

@@ -2,101 +2,17 @@
 
 DÉFINITION DES ÉPREUVES
 
-Brevet de technicien supérieur " maintenance des systèmes "
+Brevet de technicien supérieur &laquo; maintenance des systèmes &raquo;
 
-Épreuve E1-Culture générale et expression
+Epreuve E1 : Culture générale et expression
 
-Coefficient 3-Unité U1 |
+Coefficient 3 - Unité U1
 
-1. Objectif de l'épreuve
+L'unité U1 &laquo; culture générale et expression &raquo; valide les compétences établies par l'arrêté du 13 juillet 2023 relatif aux objectifs et contenus de l'enseignement de culture générale et expression, aux compétences travaillées et à la définition de l'épreuve de culture générale et expression du brevet de technicien supérieur (publié au JORF n° 0177 du 2 août 2023).
 
-L'objectif visé est de certifier l'aptitude des candidats à communiquer avec efficacité dans la vie courante et la vie professionnelle.
+Epreuve E2 : Langue vivante étrangère 1 : Anglais
 
-L'évaluation a donc pour but de vérifier les capacités du candidat à :
-
--tirer parti des documents lus dans l'année et de la réflexion menée en cours ;
-
--rendre compte d'une culture acquise en cours de formation ;
-
--apprécier un message ou une situation ;
-
--communiquer par écrit ou oralement ;
-
--appréhender un message ;
-
--réaliser un message.
-
-(cf. annexe III de l'arrêté du 16 novembre 2006)
-
-2. Modes de l'évaluation
-
-2.1. Forme ponctuelle
-
-Épreuve écrite, durée 4 h
-
-On propose trois à quatre documents de nature différente (textes littéraires, textes non littéraires, documents iconographiques, tableaux statistiques, etc.) choisis en référence à l'un des deux thèmes inscrits au programme de la deuxième année de STS. Chacun d'eux est daté et situé dans son contexte.
-
-Première partie : synthèse (notée sur 40)
-
-Le candidat rédige une synthèse objective en confrontant les documents fournis.
-
-Deuxième partie : écriture personnelle (notée sur 20)
-
-Le candidat répond de façon argumentée à une question relative aux documents proposés. La question posée invite à confronter les documents proposés en synthèse et les études de documents menées dans l'année en cours de " Culture générale et expression ".
-
-La note globale est ramenée à une note sur 20 points.
-
-(cf. annexe III de l'arrêté du 16 novembre 2006)
-
-2.2. Contrôle en cours de formation
-
-L'unité de " Culture générale et expression " est constituée de trois situations d'évaluation. Les deux premières, de poids identiques, sont relatives à l'évaluation de la capacité du candidat à appréhender et à réaliser un message écrit.
-
-Première situation d'évaluation (durée indicative : 2 heures) :
-
-a) Objectif général : Evaluation de la capacité du candidat à appréhender et réaliser un message écrit.
-
-b) Compétences à évaluer :
-
--respecter les contraintes de la langue écrite ;
-
--synthétiser des informations : fidélité à la signification des documents, exactitude et précision dans leur compréhension et leur mise en relation, pertinence des choix opérés en fonction du problème posé et de la problématique, cohérence de la production (classement et enchaînement des éléments, équilibre des parties, densité du propos, efficacité du message).
-
-c) Exemple de situation :
-
-Réalisation d'une synthèse de documents à partir de 2 à 3 documents de nature différente (textes littéraires, textes non littéraires, documents iconographiques, tableaux statistiques, etc.) dont chacun est daté et situé dans son contexte. Ces documents font référence au deuxième thème du programme de la deuxième année de STS.
-
-Deuxième situation d'évaluation (durée indicative : 2 heures) :
-
-a) Objectif général : Evaluation de la capacité du candidat à appréhender et à réaliser un message écrit.
-
-b) Compétences à évaluer :
-
--respecter les contraintes de la langue écrite ;
-
--répondre de façon argumentée à une question posée en relation avec les documents proposés en lecture.
-
-c) Exemple de situation : A partir d'un dossier donné à lire dans les jours qui précèdent la situation d'évaluation et composé de 2 à 3 documents de nature différente (textes littéraires, textes non littéraires, documents iconographiques, tableaux statistiques, etc.), reliés par une problématique explicite en référence à un des deux thèmes inscrits au programme de la deuxième année de STS et dont chaque document est daté et situé dans son contexte, rédaction d'une réponse argumentée à une question portant sur la problématique du dossier.
-
-Troisième situation d'évaluation :
-
-a) Objectif général : Évaluation de la capacité du candidat à communiquer oralement.
-
-b) Compétences à évaluer :
-
--s'adapter à la situation (maîtrise des contraintes de temps, de lieu, d'objectifs et d'adaptation au destinataire, choix des moyens d'expression appropriés, prise en compte de l'attitude et des questions du ou des interlocuteurs) ;
-
--organiser un message oral : respect du sujet, structure interne du message (intelligibilité, précision et pertinence des idées, valeur de l'argumentation, netteté de la conclusion, pertinence des réponses...).
-
-c) Exemple de situation :
-
-La capacité du candidat à communiquer oralement est évaluée au moment de la soutenance du rapport de stage.
-
-Chaque situation est notée sur 20 points. La note globale est ramenée à une note sur 20.
-
-Épreuve E2-Langue vivante étrangère 1 : Anglais
-
-Coefficient 2-Unité U2 |
+Coefficient 2 - Unité U2
 
 ÉPREUVE ORALE
 
@@ -104,41 +20,41 @@ Coefficient 2-Unité U2 |
 
 L'épreuve a pour but d'évaluer au niveau B2 les activités langagières suivantes :
 
--compréhension de l'oral ;
+- compréhension de l'oral ;
 
--production et interaction orales.
+- production et interaction orales.
 
 2. Modes de l'évaluation
 
 2.1. Contrôle en cours de formation : deux situations d'évaluation de poids équivalent
 
-Première situation d'évaluation : évaluation de la compréhension de l'oral-durée 30 minutes maximum sans temps de préparation, au cours du deuxième trimestre de la deuxième année.
+Première situation d'évaluation : évaluation de la compréhension de l'oral - durée 30 minutes maximum sans temps de préparation, au cours du deuxième trimestre de la deuxième année.
 
-Organisation de l'épreuve
+Organisation de l'épreuve :
 
 Les enseignants organisent cette situation d'évaluation au cours du deuxième trimestre, au moment où ils jugent que les étudiants sont prêts et sur des supports qu'ils sélectionnent. Cette situation d'évaluation est organisée formellement pour chaque étudiant ou pour un groupe d'étudiants selon le rythme d'acquisition, en tout état de cause avant la fin du second trimestre. Les notes obtenues ne sont pas communiquées aux étudiants et aucun rattrapage n'est prévu.
 
-Déroulement de l'épreuve
+Déroulement de l'épreuve :
 
 Le titre de l'enregistrement est communiqué au candidat. On veillera à ce qu'il ne présente pas de difficulté particulière. Trois écoutes espacées de 2 minutes d'un document audio ou vidéo dont le candidat rendra compte par écrit ou oralement en français.
 
-Longueur des enregistrements
+Longueur des enregistrements :
 
 La durée de l'enregistrement n'excèdera pas trois minutes maximum. Le recours à des documents authentiques nécessite parfois de sélectionner des extraits un peu plus longs (d'où la limite supérieure fixée à 3 minutes) afin de ne pas procéder à la coupure de certains éléments qui facilitent la compréhension plus qu'ils ne la compliquent. Le professeur peut également choisir d'évaluer les étudiants à partir de deux documents. Dans ce cas, la longueur n'excédera pas 3 minutes pour les deux documents et on veillera à ce qu'ils soient de nature différente : dialogue et monologue.
 
-Nature des supports
+Nature des supports :
 
 Les documents enregistrés, audio ou vidéo, seront de nature à intéresser un étudiant en STS sans toutefois présenter une technicité excessive. On peut citer, à titre d'exemple, les documents relatifs à l'emploi (recherche, recrutement, relations professionnelles, etc.), à la sécurité et à la santé au travail, à la vie en entreprise ; à la formation professionnelle, à la prise en compte par l'industrie des questions relatives à l'environnement, au développement durable etc. Il pourra s'agir de monologues, dialogues, discours, discussions, émissions de radio, extraits de documentaires, de films, de journaux télévisés. Il ne s'agira en aucune façon d'écrit oralisé ni d'enregistrements issus de manuels. On évitera les articles de presse ou tout autre document conçu pour être lu. En effet, ces derniers, parce qu'ils sont rédigés dans une langue écrite, compliquent considérablement la tâche de l'auditeur. De plus, la compréhension d'un article enregistré ne correspond à aucune situation dans la vie professionnelle.
 
-Deuxième situation d'évaluation : évaluation de la production orale en continu et de l'interaction au cours du deuxième et du troisième trimestre de la deuxième année (durée 15 minutes maximum sans temps de préparation) :
+Deuxième situation d'évaluation :évaluation de la production orale en continu et de l'interaction au cours du deuxième et du troisième trimestre de la deuxième année (durée 15 minutes maximum sans temps de préparation) :
 
-a. Expression orale en continu (5 minutes environ) :
+a) Expression orale en continu (5 minutes environ) :
 
 Cette épreuve prend appui sur trois documents en langue anglaise, d'une page chacun, qui illustrent le thème du stage ou de l'activité professionnelle : un document technique et deux extraits de la presse écrite ou de sites d'information scientifique ou généraliste sont fournis par le candidat. Le premier est en lien direct avec le contenu technique ou scientifique du stage (ou de l'activité professionnelle), les deux autres fournissent une perspective complémentaire sur le sujet. Il peut s'agir d'articles de vulgarisation technologique ou scientifique, de commentaires ou témoignages sur le champ d'activité, ou de tout autre texte qui induisent une réflexion sur le domaine professionnel concerné, à partir d'une source ou d'un contexte anglophone. Les documents iconographiques ne représenteront au plus qu'un tiers de la page.
 
 Le candidat fera une présentation structurée des trois documents ; il mettra en évidence le thème et les points de vue qu'ils illustrent, en soulignant les aspects importants et les détails pertinents du dossier (cf. descripteurs du niveau B2 du CECRL pour la production orale en continu).
 
-b. Expression orale en interaction (10 minutes environ)
+b) Expression orale en interaction (10 minutes environ) :
 
 Pendant l'entretien, l'examinateur prendra appui sur le dossier documentaire présenté par le candidat pour l'inviter à développer certains aspects et lui donner éventuellement l'occasion de défendre un point de vue. Il pourra lui demander de préciser certains points et en aborder d'autres qu'il aurait omis.
 
@@ -150,31 +66,29 @@ Les modalités de passation de l'épreuve, la définition de la longueur des enr
 
 Les trois documents sont transmis selon une procédure et à une date fixée dans la circulaire d'organisation de l'examen.
 
-1. Compréhension de l'oral : 30 minutes sans temps de préparation
+1. Compréhension de l'oral : 30 minutes sans temps de préparation.
 
-Modalités : Cf. Première situation d'évaluation du CCF ci-dessus.
+Modalités : cf. Première situation d'évaluation du CCF ci-dessus.
 
 2. Expression orale en continu et en interaction : 15 minutes maximum sans temps de préparation.
 
-Modalités : Cf. Deuxième situation d'évaluation du CCF ci-dessus...
+Modalités : cf. Deuxième situation d'évaluation du CCF ci-dessus.
 
-Épreuve E3 : Mathématiques-Physique et chimie
+Epreuve E3 : Mathématiques
 
-Sous-épreuve : Mathématiques
-
-Coefficient 2-Unité U31 |
+Coefficient 2 - Unité U3
 
 1. Finalités et objectifs
 
-La sous-épreuve de mathématiques a pour objectifs d'évaluer :
+L'épreuve de mathématiques a pour objectifs d'évaluer :
 
--la solidité des connaissances et des compétences des étudiants et leur capacité à les mobiliser dans des situations variées ;
+- la solidité des connaissances et des compétences des étudiants et leur capacité à les mobiliser dans des situations variées ;
 
--leurs capacités d'investigation ou de prise d'initiative, s'appuyant notamment sur l'utilisation de la calculatrice ou de logiciels ;
+- leurs capacités d'investigation ou de prise d'initiative, s'appuyant notamment sur l'utilisation de la calculatrice ou de logiciels ;
 
--leur aptitude au raisonnement et leur capacité à analyser correctement un problème, à justifier les résultats obtenus et à apprécier leur portée ;
+- leur aptitude au raisonnement et leur capacité à analyser correctement un problème, à justifier les résultats obtenus et à apprécier leur portée ;
 
--leurs qualités d'expression écrite et/ ou orale.
+- leurs qualités d'expression écrite et/ou orale.
 
 2. Contenu de l'évaluation
 
@@ -186,63 +100,63 @@ Les sujets portent principalement sur les domaines mathématiques les plus utile
 
 3.1. Contrôle en cours de formation (CCF)
 
-Le contrôle en cours de formation comporte deux situations d'évaluation. Chaque situation d'évaluation, d'une durée de cinquante-cinq minutes, fait l'objet d'une note sur 10 points coefficient 1.
+Le contrôle en cours de formation comporte deux situations d'évaluation. Chaque situation d'évaluation, d'une durée de cinquante-cinq minutes, fait l'objet d'une note sur 10 points, coefficient 1.
 
 Elle se déroule lorsque le candidat est considéré comme prêt à être évalué à partir des capacités du programme. Toutefois, la première situation doit être organisée avant la fin de la première année et la seconde avant la fin de la deuxième année.
 
 Chaque situation d'évaluation comporte un ou deux exercices avec des questions de difficulté progressive. Il s'agit d'évaluer les aptitudes à mobiliser les connaissances et compétences pour résoudre des problèmes, en particulier :
 
--s'informer ;
+- s'informer ;
 
--chercher ;
+- chercher ;
 
--modéliser ;
+- modéliser ;
 
--raisonner, argumenter ;
+- raisonner, argumenter ;
 
--calculer, illustrer, mettre en œuvre une stratégie ;
+- calculer, illustrer, mettre en œuvre une stratégie ;
 
--communiquer.
+- communiquer.
 
-L'un au moins des exercices de chaque situation comporte une ou deux questions dont la résolution nécessite l'utilisation de logiciels (implantés sur ordinateur ou calculatrice). La présentation de la résolution de la (les) question (s) utilisant les outils numériques se fait en présence de l'examinateur. Ce type de question permet d'évaluer les capacités à illustrer, calculer, expérimenter, simuler, programmer, émettre des conjectures ou contrôler leur vraisemblance. Le candidat porte ensuite par écrit sur une fiche à compléter, les résultats obtenus, des observations ou des commentaires.
+L'un au moins des exercices de chaque situation comporte une ou deux questions dont la résolution nécessite l'utilisation de logiciels (implantés sur ordinateur ou calculatrice). La présentation de la résolution de la (les) question(s) utilisant les outils numériques se fait en présence de l'examinateur. Ce type de question permet d'évaluer les capacités à illustrer, calculer, expérimenter, simuler, programmer, émettre des conjectures ou contrôler leur vraisemblance. Le candidat porte ensuite par écrit sur une fiche à compléter, les résultats obtenus, des observations ou des commentaires.
 
 A l'issue de chaque situation d'évaluation, l'équipe pédagogique de l'établissement de formation constitue, pour chaque candidat, un dossier comprenant :
 
--la situation d'évaluation ;
+- la situation d'évaluation ;
 
--les copies rédigées par le candidat à cette occasion ;
+- les copies rédigées par le candidat à cette occasion ;
 
--la grille d'évaluation de la situation, dont le modèle est fourni en annexe ci-après, avec une proposition de note sur 10 points.
+- la grille d'évaluation de la situation, dont le modèle est fourni en annexe ci-après, avec une proposition de note sur 10 points.
 
 3.1.1. Première situation d'évaluation
 
 Elle permet l'évaluation, par sondage, des contenus et des capacités associés aux modules du programme de mathématiques suivants :
 
--Fonctions d'une variable réelle, à l'exception des paragraphes " Approximation locale d'une fonction " et " Courbes paramétrées " ;
+- fonctions d'une variable réelle, à l'exception des paragraphes &laquo; Approximation locale d'une fonction &raquo; et &laquo; Courbes paramétrées &raquo; ;
 
--Calcul intégral, à l'exception du paragraphe " Formule d'intégration par parties " ;
+- calcul intégral, à l'exception du paragraphe &laquo; Formule d'intégration par parties &raquo; ;
 
--Statistique descriptive ;
+- statistique descriptive ;
 
--Probabilités 1 ;
+- probabilités 1 ;
 
--Probabilités 2, à l'exception du paragraphe " Exemples de processus aléatoires ".
+- probabilités 2, à l'exception du paragraphe &laquo; Exemples de processus aléatoires &raquo;.
 
 3.1.2. Deuxième situation d'évaluation
 
 Elle permet l'évaluation, par sondage, des contenus et des capacités associés aux modules du programme de mathématiques suivants :
 
--Equations différentielles ;
+- équations différentielles ;
 
--Statistique inférentielle ;
+- statistique inférentielle ;
 
--Configurations géométriques ;
+- configurations géométriques ;
 
--Calcul vectoriel.
+- calcul vectoriel.
 
 A l'issue de la seconde situation d'évaluation, l'équipe pédagogique adresse au jury la proposition de note sur 20 points, accompagnée des deux grilles d'évaluation. Les dossiers décrits ci-dessus, relatifs aux situations d'évaluation, sont tenus à la disposition du jury et des autorités académiques jusqu'à la session suivante. Le jury peut en exiger la communication et, à la suite d'un examen approfondi, peut formuler toutes remarques et observations qu'il juge utile pour arrêter la note.
 
-3.2. Épreuve ponctuelle
+3.2. Epreuve ponctuelle
 
 Epreuve écrite d'une durée de deux heures.
 
@@ -252,21 +166,19 @@ Il convient d'éviter toute difficulté théorique et toute technicité mathéma
 
 L'usage de la calculatrice est autorisé selon la réglementation en vigueur.
 
-Épreuve E3 : Mathématiques-Physique et chimie
+Epreuve E4 : Physique et chimie
 
-Sous-épreuve : Physique et chimie
-
-Coefficient 2-Unité U32 |
+Coefficient 2 - Unité U4
 
 1. Objectifs de l'épreuve
 
-La sous-épreuve de physique et chimie permet d'évaluer :
+L'épreuve de physique et chimie permet d'évaluer :
 
--le niveau de maîtrise des connaissances et capacités théoriques visées par le programme ;
+- le niveau de maîtrise des connaissances et capacités théoriques visées par le programme ;
 
--la maîtrise des différentes étapes de la démarche expérimentale ;
+- la maîtrise des différentes étapes de la démarche expérimentale ;
 
--l'aptitude à mettre en œuvre cette démarche en autonomie.
+- l'aptitude à mettre en œuvre cette démarche en autonomie.
 
 2. Contenus de l'évaluation
 
@@ -290,7 +202,9 @@ Compétence |
 
 Conditions de mise en œuvre |
 
-Exemples de capacités et d'attitudes (liste non exhaustive) |
+Exemples de capacités et d'attitudes
+
+(liste non exhaustive) |
 
 S'approprier :
 
@@ -300,13 +214,13 @@ La situation d'évaluation est contextualisée, c'est-à-dire fondée sur un sys
 
 Des documentations diverses concernant l'objet de l'étude et le matériel scientifique sont fournies, en volume raisonnable. |
 
-Énoncer une problématique à caractère scientifique ou technologique.
+Enoncer une problématique à caractère scientifique ou technologique.
 
 Définir des objectifs qualitatifs ou quantitatifs.
 
 Rechercher, extraire et organiser l'information en lien avec une situation. |
 
-Analyser/ Raisonner :
+Analyser/Raisonner :
 
 l'étudiant justifie ou propose un protocole, propose un modèle ou justifie sa validité, choisit et justifie les modalités d'acquisition et de traitement des mesures. |
 
@@ -316,7 +230,7 @@ Les documentations techniques sont mises à disposition. |
 
 Formuler une hypothèse.
 
-Évaluer l'ordre de grandeur des grandeurs physico-chimiques impliquées et de leurs variations.
+Evaluer l'ordre de grandeur des grandeurs physico-chimiques impliquées et de leurs variations.
 
 Proposer une stratégie pour répondre à la problématique.
 
@@ -330,7 +244,7 @@ l'étudiant met en œuvre un protocole expérimental en respectant les règles d
 
 La situation d'évaluation doit permettre à l'examinateur d'observer la maîtrise globale de certaines opérations techniques et l'attitude appropriée de l'étudiant dans l'environnement du laboratoire ou du plateau technique. |
 
-Évoluer avec aisance dans l'environnement du laboratoire ou du plateau technique.
+Evoluer avec aisance dans l'environnement du laboratoire ou du plateau technique.
 
 Respecter les règles de sécurité.
 
@@ -360,7 +274,7 @@ l'étudiant explique ses choix et rend compte de ses résultats sous forme écri
 
 L'étudiant explique ses choix et rend compte de ses résultats sous forme écrite ou orale, à des moments identifiés dans le sujet. |
 
-Présenter les mesures de manière adaptée (courbe, tableau …).
+Présenter les mesures de manière adaptée (courbe, tableau…).
 
 Utiliser les notions et le vocabulaire scientifique adaptés.
 
@@ -370,7 +284,7 @@ Présenter, formuler une proposition, une argumentation, une synthèse ou une co
 
 Chaque situation d'évaluation est une tâche complexe qu'un étudiant de niveau moyen doit mener en mobilisant des connaissances, des capacités et des attitudes face à une situation qui nécessite, pour être traitée, l'usage de matériel de laboratoire ou d'un ordinateur.
 
-Tout en restant dans le domaine d'application des notions abordées durant la formation, chaque épreuve du CCF s'appuie sur une situation concrète ou sur une problématique représentative d'une réalité technologique en lien avec le domaine professionnel de la STS. L'énoncé commence par une courte description de celle-ci et propose ou invite à un questionnement. Des informations complémentaires (listes de plusieurs protocoles, résultats expérimentaux …) peuvent être fournies de manière à circonscrire le champ de l'étude ou de l'expérimentation.
+Tout en restant dans le domaine d'application des notions abordées durant la formation, chaque épreuve du CCF s'appuie sur une situation concrète ou sur une problématique représentative d'une réalité technologique en lien avec le domaine professionnel de la STS. L'énoncé commence par une courte description de celle-ci et propose ou invite à un questionnement. Des informations complémentaires (listes de plusieurs protocoles, résultats expérimentaux…) peuvent être fournies de manière à circonscrire le champ de l'étude ou de l'expérimentation.
 
 L'énoncé est constitué de plusieurs parties pouvant être traitées indépendamment les unes des autres.
 
@@ -380,7 +294,7 @@ L'informatique doit fournir aux étudiants les outils nécessaires au traitement
 
 L'évaluation par contrôle en cours de formation, tant dans ses aspects d'organisation, de calendrier, que de vérification des acquis, est de la responsabilité des professeurs, sous contrôle des corps d'inspection.
 
-3.1.2. Première situation d'évaluation : durée 2 heures maximum-coefficient 1
+3.1.2. Première situation d'évaluation : durée 2 heures maximum - coefficient 1
 
 Cette épreuve se déroule dans un laboratoire, au premier semestre de la deuxième année de formation.
 
@@ -388,7 +302,7 @@ Elle porte sur une situation concrète du domaine professionnel et comporte la r
 
 Elle permet l'évaluation des connaissances et capacités relatives aux modules transversaux communs aux quatre options (voir le tableau suivant).
 
-3.1.3. Seconde situation d'évaluation : durée 2 heures maximum-coefficient 1
+3.1.3. Seconde situation d'évaluation : durée 2 heures maximum - coefficient 1
 
 Cette épreuve se déroule sur le plateau technique des enseignements professionnels, au deuxième semestre de la deuxième année de formation.
 
@@ -396,9 +310,9 @@ Elle porte sur une situation concrète et contextualisée sur un système techni
 
 Elle permet l'évaluation des connaissances et capacités relatives à l'ensemble des modules transversaux et spécifiques enseignés dans l'option (voir le tableau suivant).
 
-MODULES DE
+MODULES
 
-PHYSIQUE ET CHIMIE |
+DE PHYSIQUE ET CHIMIE |
 
 Transversal |
 
@@ -410,7 +324,7 @@ Option C |
 
 Option D |
 
-S4. 1 |
+S4.1 |
 
 Énergie |
 
@@ -424,7 +338,7 @@ X |
 
 |
 
-S4. 2 |
+S4.2 |
 
 Distribution de l'énergie électrique |
 
@@ -438,21 +352,21 @@ X |
 
 |
 
-S4. 3 |
+S4.3 |
 
-Électromagnétisme |
-
-|
-
-X |
+Electromagnétisme |
 
 |
 
 X |
 
+|
+
 X |
 
-S4. 4 |
+X |
+
+S4.4 |
 
 Conversion de l'énergie électrique |
 
@@ -466,7 +380,7 @@ X |
 
 X |
 
-S4. 5 |
+S4.5 |
 
 Capteurs et chaîne de mesures |
 
@@ -480,7 +394,7 @@ X |
 
 |
 
-S4. 6 |
+S4.6 |
 
 Vibrations et ondes mécaniques |
 
@@ -494,7 +408,7 @@ X |
 
 |
 
-S4. 7.1 |
+S4.7.1 |
 
 Thermodynamique : fondamentaux |
 
@@ -508,7 +422,7 @@ X |
 
 |
 
-S4. 7.2 |
+S4.7.2 |
 
 Thermodynamique : applications |
 
@@ -522,7 +436,7 @@ X |
 
 |
 
-S4. 8 |
+S4.8 |
 
 Transferts thermiques |
 
@@ -536,7 +450,7 @@ X |
 
 |
 
-S4. 9 |
+S4.9 |
 
 Mécanique des fluides |
 
@@ -550,9 +464,9 @@ X |
 
 |
 
-S4. 10 |
+S4.10 |
 
-États de la matière |
+Etats de la matière |
 
 |
 
@@ -564,7 +478,7 @@ X |
 
 |
 
-S4. 11 |
+S4.11 |
 
 pH-métrie et réactions acido-basiques |
 
@@ -578,7 +492,7 @@ X |
 
 |
 
-S4. 12 |
+S4.12 |
 
 Combustions et oxydoréduction |
 
@@ -592,7 +506,7 @@ X |
 
 |
 
-S4. 13 |
+S4.13 |
 
 Matériaux organiques |
 
@@ -608,7 +522,7 @@ X |
 
 3.2. Forme ponctuelle
 
-Epreuve ponctuelle pratique : durée de 2 heures-coefficient 2
+Epreuve ponctuelle pratique : durée de 2 heures - coefficient 2
 
 L'épreuve ponctuelle correspond à une tâche complexe mobilisant des connaissances, des capacités et des attitudes associées à un ou plusieurs objectifs de la formation dispensée en BTS Maintenance des systèmes, dans l'option choisie. Les objectifs visés par l'épreuve sont identiques à ceux qui prévalent dans les épreuves proposées aux candidats sous statut scolaire lors de la validation en cours de formation, telles que décrites au paragraphe 3.1 ci-dessus.
 
@@ -618,87 +532,13 @@ Le jury est constitué d'un enseignant de physique-chimie en charge de cet ensei
 
 L'épreuve ponctuelle est organisée par un établissement public proposant le BTS Maintenance des systèmes, dans l'option choisie.
 
-Épreuve E4 : Intégration d'un bien
+Epreuve E5 : Maintenance corrective
 
-Coefficient 5-Unité 4 |
-
-1. Objectif
-
-Pour cette épreuve E4 (unité 4) les candidats sont placés en situation de réaliser tout ou partie des tâches de l'activité du pôle 4 " Intégration d'un bien ".
-
-C41 |
-
-Appréhender l'organisation fonctionnelle, structurelle et temporelle d'un bien |
-
-C42 |
-
-Caractériser la chaîne de puissance et d'information |
-
-Les indicateurs d'évaluation correspondant aux compétences évaluées figurent dans la colonne " critères d'évaluation de la compétence " des tableaux décrivant les compétences.
-
-2. Contenu de l'épreuve
-
-Le support technique de l'épreuve est constitué d'un dossier relatif à un système technique.
-
-Ce système est décrit par :
-
--sa mise en situation dans son environnement ;
-
--un extrait du cahier des charges ;
-
--un extrait du dossier technique du constructeur.
-
-Compte tenu de la spécificité de chaque option, le support pourra être :
-
--commun pour les options A, C et D : " systèmes de production ", " systèmes éoliens " et " systèmes ascenseurs et élévateurs " ;
-
--spécifique pour l'option B : " systèmes énergétiques et fluidiques ".
-
-Pour cette épreuve E4, les candidats seront placés en situation de réaliser tout ou partie des tâches :
-
--T4. 1 : Contribuer à la prise en compte des contraintes de maintenance lors de l'intégration d'un bien ;
-
--T4. 2 : Préparer et participer à la réception, à l'installation et à la mise en service du nouveau bien.
-
-3. Modes d'évaluation
-
-3.1. Ponctuelle écrite
-
-Epreuve écrite d'une durée de 4 heures. Une fiche nationale d'évaluation de compétences, mise au point par l'inspection générale de l'Education du sport et de la recherche, est diffusée aux services rectoraux des examens et concours. Seule cette dernière sera systématiquement utilisée pour la correction de cette épreuve.
-
-3.2. Contrôle en cours de formation
-
-Les situations de formation font l'objet d'un suivi des acquis et alimentent un bilan de compétences réalisé pour chaque candidat par l'équipe pédagogique conjointement avec le candidat au travers d'études de cas menées en centre de formation.
-
-Ce bilan indique l'inventaire et l'évaluation des tâches confiées, ainsi que les performances réalisées pour chacune des compétences visées.
-
-L'évaluation s'appuie sur le suivi et le bilan des compétences visées par l'épreuve. Le candidat est positionné, par l'équipe pédagogique, à son niveau de compétences sur la grille nationale d'évaluation de l'épreuve publiée dans la circulaire nationale d'organisation de l'examen. La durée de chacune des dernières situations de formation sur lesquelles, entre autres, s'appuient le positionnement doivent être significatives en durée mais ne peuvent en aucun cas excéder 4 heures.
-
-A l'issue des situations de formations, l'établissement de formation constituera, pour chaque candidat, un dossier comprenant :
-
--le suivi, le bilan de compétences acquises ;
-
--les études de cas réalisées ;
-
--la description sommaire des moyens matériels et des documents mis à disposition ;
-
--les fichiers informatiques et documents créés par le candidat ;
-
--la fiche nationale d'évaluation des compétences complétée au regard du bilan de compétences dressé.
-
-Ce dossier sera tenu à la disposition du jury et de l'autorité rectorale jusqu'à la session suivante. La fiche nationale d'évaluation du travail réalisé par le candidat, rédigée et mise à jour par l'Inspection générale de l'éducation du sport et de la recherche, sera diffusée aux établissements par les services rectoraux des examens et concours. Seule cette fiche sera systématiquement transmise aux membres du jury.
-
-La période choisie pour l'évaluation pouvant être différente pour chacun des candidats ; son choix, l'élaboration de la situation d'évaluation et l'organisation de son déroulement relèvent de la responsabilité de l'équipe pédagogique du centre de formation.
-
-Épreuve E5 : Activités de maintenance et organisation
-
-Sous-épreuve : Maintenance corrective
-
-Coefficient 3-Unité U51 |
+Coefficient 3 - Unité U5
 
 1. Objectif
 
-Pour cette sous-épreuve U51 les candidats sont placés en situation de réaliser tout ou partie des tâches de l'activité du pôle 1 " Maintenance corrective ".
+Pour cette épreuve E5, les candidats sont placés en situation de réaliser tout ou partie des tâches de l'activité du pôle 1 &laquo; Maintenance corrective &raquo;.
 
 Elle permet d'évaluer les compétences liées à ce pôle :
 
@@ -712,11 +552,11 @@ Rétablir la fonction d'un bien |
 
 C13 |
 
-Mettre en service et/ ou à l'arrêt un bien |
+Mettre en service et/ou à l'arrêt un bien |
 
-Les indicateurs d'évaluation correspondant aux compétences évaluées figurent dans la colonne " critères d'évaluation de la compétence " des tableaux décrivant les compétences.
+Les indicateurs d'évaluation correspondant aux compétences évaluées figurent dans la colonne &laquo; critères d'évaluation de la compétence &raquo; des tableaux décrivant les compétences.
 
-2. Contenu de la sous-épreuve
+2. Contenu de l'épreuve
 
 Le candidat est amené à réaliser dans le cadre de la maintenance corrective un diagnostic et une remise en état d'un système pluritechnologique en panne.
 
@@ -724,51 +564,51 @@ Les activités proposées et les supports doivent relever du champ des activité
 
 Il dispose :
 
--d'un système pluritechnologique en panne ;
+- d'un système pluritechnologique en panne ;
 
--d'une demande d'intervention ;
+- d'une demande d'intervention ;
 
--de la documentation technique du système, de composants ;
+- de la documentation technique du système, de composants ;
 
--des équipements de protection individuelle et collective ;
+- des équipements de protection individuelle et collective ;
 
--de l'ensemble des moyens d'intervention nécessaires (appareils de mesure, outillage, console de programmation, etc.) ;
+- de l'ensemble des moyens d'intervention nécessaires (appareils de mesure, outillage, console de programmation, etc.) ;
 
--de composants de rechange ou équivalents.
+- de composants de rechange ou équivalents.
 
 3. Modes d'évaluation
 
 3.1. Forme ponctuelle
 
-La sous-épreuve ponctuelle pratique d'une durée de 6h est constituée :
+L'épreuve ponctuelle pratique d'une durée de 6 heures est constituée :
 
-d'une première partie " diagnostic " (durée indicative de 3 heures) ;
+- d'une première partie &laquo; diagnostic &raquo; (durée indicative de 3 heures) ;
 
-d'une deuxième partie " réparation ou dépannage " suivi d'une " remise en service " (durée indicative : 3 heures).
+- d'une deuxième partie &laquo; réparation ou dépannage &raquo; suivi d'une &laquo; remise en service &raquo; (durée indicative : 3 heures).
 
 Les supports utilisés pour les deux parties peuvent être différents.
 
-L'épreuve se déroule sur le plateau technique du centre d'examen et permet l'évaluation des compétences mobilisées pour la réalisation des activités professionnelles du pôle 1 " Maintenance corrective ".
+L'épreuve se déroule sur le plateau technique du centre d'examen et permet l'évaluation des compétences mobilisées pour la réalisation des activités professionnelles du pôle 1 &laquo; Maintenance corrective &raquo;.
 
 L'évaluation du candidat s'effectue à l'aide de la grille d'évaluation publiée dans la circulaire nationale d'organisation de l'examen.
 
 La commission d'évaluation du candidat est constituée de :
 
--deux professeurs (ou formateurs) de l'enseignement professionnel ;
+- deux professeurs (ou formateurs) de l'enseignement professionnel ;
 
--d'un représentant professionnel.
+- d'un représentant professionnel.
 
 En l'absence du représentant professionnel, la commission d'évaluation peut réglementairement assurer l'évaluation.
 
-A l'issue de cette sous-épreuve ponctuelle, le centre d'examen constitue, pour chaque candidat, un dossier comprenant :
+A l'issue de cette épreuve ponctuelle, le centre d'examen constitue, pour chaque candidat, un dossier comprenant :
 
--la demande d'intervention ;
+- la demande d'intervention ;
 
--la description sommaire des moyens matériels et des documents mis à disposition ;
+- la description sommaire des moyens matériels et des documents mis à disposition ;
 
--les documents rédigés par le candidat ;
+- les documents rédigés par le candidat ;
 
--la fiche nationale d'évaluation des compétences.
+- la fiche nationale d'évaluation des compétences.
 
 Ce dossier est tenu à la disposition du jury et de l'autorité rectorale jusqu'à la session suivante. La fiche nationale d'évaluation du travail réalisé par le candidat, rédigée et mise à jour par l'inspection générale de l'éducation du sport et de la recherche, est diffusée aux établissements par les services rectoraux des examens et concours. Seule cette fiche est systématiquement transmise aux membres du jury.
 
@@ -778,11 +618,11 @@ L'évaluation s'appuie sur des activités pratiques contextualisées réalisées
 
 Les situations de formation font l'objet d'un suivi des acquis et alimentent un bilan de compétences réalisé pour chaque candidat par l'équipe pédagogique conjointement :
 
--avec le tuteur ou maître d'apprentissage et le candidat dans le cas d'activités menées en entreprise ;
+- avec le tuteur ou maître d'apprentissage et le candidat dans le cas d'activités menées en entreprise ;
 
--avec le candidat dans le cas d'activités menées en centre de formation.
+- avec le candidat dans le cas d'activités menées en centre de formation.
 
-Ce bilan indique l'inventaire et l'évaluation des tâches confiées, ainsi que les performances réalisées pour chacune des compétences visées.
+Ce bilan indique l'inventaire et l'évaluation des tâches confiées, ainsi que les performances réalisées pour chacune des compétences visées
 
 L'évaluation s'appuie sur le suivi et le bilan des compétences visées par l'épreuve. Le candidat est positionné, par l'équipe pédagogique, à son niveau de compétences sur la grille nationale d'évaluation de l'épreuve publiée dans la circulaire nationale d'organisation de l'examen. La durée de chacune des dernières situations de formation sur lesquelles, entre autres, s'appuient le positionnement doivent être significatives en durée mais ne peuvent en aucun cas excéder 6 heures.
 
@@ -790,27 +630,25 @@ La période choisie pour l'évaluation pouvant être différente pour chacun des
 
 A l'issue des situations de formations, l'établissement de formation constituera, pour chaque candidat, un dossier comprenant :
 
--le suivi, le bilan de compétences acquises ;
+- le suivi, le bilan de compétences acquises ;
 
--les demandes d'interventions ;
+- les demandes d'interventions ;
 
--la description sommaire des moyens matériels et des documents mis à disposition ;
+- la description sommaire des moyens matériels et des documents mis à disposition ;
 
--les documents rédigés par le candidat ;
+- les documents rédigés par le candidat ;
 
--la fiche nationale d'évaluation des compétences complétée au regard du bilan de compétences dressé.
+- la fiche nationale d'évaluation des compétences complétée au regard du bilan de compétences dressé
 
 Ce dossier sera tenu à la disposition du jury et de l'autorité rectorale jusqu'à la session suivante. La fiche nationale d'évaluation du travail réalisé par le candidat, rédigée et mise à jour par l'inspection générale de l'éducation du sport et de la recherche, sera diffusée aux établissements par les services rectoraux des examens et concours. Seule cette fiche sera systématiquement transmise aux membres du jury.
 
-Épreuve E5 : Activités de maintenance et organisation
+Epreuve E6 : Maintenance préventive
 
-Sous-épreuve : Maintenance préventive
-
-Coefficient 3-Unité U52 |
+Coefficient 3 - Unité U6
 
 1. Objectif
 
-Pour cette sous-épreuve U52 les candidats sont placés en situation de réaliser tout ou partie des tâches de l'activité du pôle 2 " Maintenance préventive ".
+Pour cette épreuve E6, les candidats sont placés en situation de réaliser tout ou partie des tâches de l'activité du pôle 2 &laquo; Maintenance préventive &raquo;.
 
 Elle permet d'évaluer les compétences liées à ce pôle :
 
@@ -830,9 +668,9 @@ C24 |
 
 Communiquer par l'écrit |
 
-Les indicateurs d'évaluation correspondant aux compétences évaluées figurent dans la colonne " critères d'évaluation de la compétence " des tableaux décrivant les compétences.
+Les indicateurs d'évaluation correspondant aux compétences évaluées figurent dans la colonne &laquo; critères d'évaluation de la compétence &raquo; des tableaux décrivant les compétences.
 
-2. Contenu de la sous-épreuve
+2. Contenu de l'épreuve
 
 Le candidat est amené à réaliser dans le cadre de la maintenance préventive tout ou partie des tâches décrites dans le pôle 2.
 
@@ -840,39 +678,39 @@ Les activités proposées et les supports doivent relever du champ des activité
 
 Pour réaliser ces activités pratiques, il dispose :
 
--d'un système pluritechnologique ;
+- d'un système pluritechnologique ;
 
--d'une demande d'intervention de maintenance préventive ;
+- d'une demande d'intervention de maintenance préventive ;
 
--de la documentation technique du système, de composants ;
+- de la documentation technique du système, de composants ;
 
--des équipements de protection individuelle et collective ;
+- des équipements de protection individuelle et collective ;
 
--de l'ensemble des moyens d'intervention nécessaires (appareils de mesure, outillage, console de programmation, etc.) ;
+- de l'ensemble des moyens d'intervention nécessaires (appareils de mesure, outillage, console de programmation, etc.) ;
 
--de composants de rechange ou équivalents.
+- de composants de rechange ou équivalents.
 
-La sous-épreuve prend en compte à la fois :
+L'épreuve prend en compte à la fois :
 
--la réalisation d'activités de maintenance préventive en entreprise et/ ou en centre de formation ;
+- la réalisation d'activités de maintenance préventive en entreprise et/ou en centre de formation ;
 
--la production d'un rapport écrit.
+- la production d'un rapport écrit.
 
 3. Modes d'évaluation
 
 3.1. Forme ponctuelle
 
-La sous-épreuve d'une durée de 3 heures se compose d'une activité pratique d'une durée 2 heures et de la rédaction d'un compte rendu d'analyse de son activité.
+L'épreuve d'une durée de 3 heures se compose d'une activité pratique d'une durée 2 heures et de la rédaction d'un compte rendu d'analyse de son activité.
 
-La sous-épreuve se déroule sur le plateau technique du centre d'examen et permet l'évaluation des compétences mobilisées pour la réalisation des tâches professionnelles du pôle " Maintenance préventive ".
+L'épreuve se déroule sur le plateau technique du centre d'examen et permet l'évaluation des compétences mobilisées pour la réalisation des tâches professionnelles du pôle &laquo; Maintenance préventive &raquo;.
 
 L'évaluation du candidat s'effectue à l'aide de la grille d'évaluation publiée dans la circulaire nationale d'organisation de l'examen.
 
 La commission d'évaluation du candidat est constituée de :
 
--d'un professeur (ou formateur) de l'enseignement professionnel ;
+- d'un professeur (ou formateur) de l'enseignement professionnel ;
 
--d'un représentant professionnel.
+- d'un représentant professionnel.
 
 En l'absence du représentant professionnel, la commission d'évaluation peut réglementairement assurer l'évaluation.
 
@@ -880,25 +718,25 @@ En l'absence du représentant professionnel, la commission d'évaluation peut r�
 
 Les situations de formation font l'objet d'un suivi des acquis et alimentent un bilan de compétences réalisé pour chaque candidat par l'équipe pédagogique conjointement :
 
--avec le tuteur ou maître d'apprentissage et le candidat dans le cas d'activités menées en entreprise ;
+- avec le tuteur ou maître d'apprentissage et le candidat dans le cas d'activités menées en entreprise ;
 
--avec le candidat dans le cas d'activités menées en centre de formation.
+- avec le candidat dans le cas d'activités menées en centre de formation.
 
 Un bilan est construit à partir :
 
--des activités pratiques contextualisées réalisées par le candidat en entreprise et/ ou en centre de formation ;
+- des activités pratiques contextualisées réalisées par le candidat en entreprise et/ou en centre de formation ;
 
--d'un rapport (vingt à vingt-cinq pages, hors annexes techniques) rédigé par le candidat à mesure des activités pratiques réalisées. Ce document permet de restituer les organisations et procédures d'intervention de maintenance préventive mises en œuvre ou observées par le candidat au cours du cycle de formation en entreprise et/ ou en centre de formation.
+- d'un rapport (vingt à vingt-cinq pages, hors annexes techniques) rédigé par le candidat à mesure des activités pratiques réalisées. Ce document permet de restituer les organisations et procédures d'intervention de maintenance préventive mises en œuvre ou observées par le candidat au cours du cycle de formation en entreprise et/ou en centre de formation.
 
 Ce rapport comprend :
 
--la présentation de l'entreprise et du service de maintenance ;
+- la présentation de l'entreprise et du service de maintenance ;
 
--la présentation de la fonction et de la planification de la maintenance ;
+- la présentation de la fonction et de la planification de la maintenance ;
 
--une analyse des risques associée à une situation rencontrée ;
+- une analyse des risques associée à une situation rencontrée ;
 
--la présentation d'au moins deux activités de maintenance, procédures et documentation technique associée, en relation avec le plan prévisionnel de maintenance auxquelles il a participé en entreprise et/ ou en centre de formation.
+- la présentation d'au moins deux activités de maintenance, procédures et documentation technique associée, en relation avec le plan prévisionnel de maintenance auxquelles il a participé en entreprise et/ou en centre de formation.
 
 Ce bilan indique l'inventaire et l'évaluation des tâches confiées, ainsi que les performances réalisées pour chacune des compétences visées.
 
@@ -908,113 +746,25 @@ La période choisie pour l'évaluation pouvant être différente pour chacun des
 
 A l'issue des situations de formation, l'établissement de formation constituera, pour chaque candidat, un dossier comprenant :
 
--le suivi, le bilan de compétences acquises ;
+- le suivi, le bilan de compétences acquises ;
 
--le descriptif des interventions à réaliser ;
+- le descriptif des interventions à réaliser ;
 
--la description sommaire des moyens matériels et des documents mis à disposition ;
+- la description sommaire des moyens matériels et des documents mis à disposition ;
 
--les documents rédigés par le candidat ;
+- les documents rédigés par le candidat ;
 
--la fiche nationale d'évaluation des compétences complétée au regard du bilan de compétences dressé.
-
-Ce dossier sera tenu à la disposition du jury et de l'autorité rectorale jusqu'à la session suivante. La fiche nationale d'évaluation du travail réalisé par le candidat, rédigée et mise à jour par l'inspection générale de l'éducation du sport et de la recherche, sera diffusée aux établissements par les services rectoraux des examens et concours. Seule cette fiche sera systématiquement transmise aux membres du jury.
-
-Épreuve E5 : Activités de maintenance et organisation
-
-Sous-épreuve : Organisation de la maintenance
-
-Coefficient 3-Unité U53 |
-
-1. Objectif
-
-Pour cette sous-épreuve U53 les candidats sont placés en situation de réaliser tout ou partie des tâches de l'activité du pôle 5 " Organisation de la maintenance ".
-
-Elle permet d'évaluer les compétences liées à ce pôle :
-
-C 51 |
-
-Analyser les indicateurs de maintenance |
-
-C 52 |
-
-Définir l'organisation d'une activité |
-
-C 53 |
-
-Organiser l'activité de maintenance |
-
-Les indicateurs d'évaluation correspondant aux compétences évaluées figurent dans la colonne " critères d'évaluation de la compétence " des tableaux décrivant les compétences.
-
-2. Contenu de la sous-épreuve
-
-Au travers d'études de cas relevant du champ des activités correspondant à l'option, le candidat est amené à réaliser dans le cadre de l'organisation de la maintenance tout ou partie des tâches décrites dans le pôle 5.
-
-Il dispose d'un dossier comportant :
-
--la présentation et la mise en situation de la problématique de maintenance ;
-
--les données relatives à la problématique : présentation du support technique ;
-
--les documents techniques ; historique du bien, base de données technico-économiques ;
-
--le questionnement précis qui guide le candidat dans sa démarche de résolution du problème posé.
-
-Le candidat traite par l'écrit la problématique en disposant d'un outil informatique spécifique (GMAO) ou standard (tableur, grapheur, base de données) pour exploiter rationnellement des données technico-économiques relatives à l'étude de cas.
-
-3. Modes d'évaluation
-
-3.1. Forme ponctuelle
-
-La sous-épreuve pratique est d'une durée de 2 heures.
-
-L'évaluation du candidat s'effectue à l'aide de la grille d'évaluation publiée dans la circulaire nationale d'organisation de l'examen.
-
-La commission d'évaluation est constituée d'un professeur (ou formateur) de l'enseignement professionnel.
-
-A l'issue de cette sous-épreuve, le centre d'examen constitue, pour chaque candidat, un dossier comprenant :
-
--l'étude de cas réalisée ;
-
--la description sommaire des moyens matériels et des documents mis à disposition ;
-
--les fichiers informatiques et documents créés par le candidat ;
-
--la fiche nationale d'évaluation des compétences complétée au regard du bilan de compétences dressé.
-
-Ce dossier est tenu à la disposition du jury et de l'autorité rectorale jusqu'à la session suivante. La fiche nationale d'évaluation du travail réalisé par le candidat, rédigée et mise à jour par l'inspection générale de l'éducation du sport et de la recherche, est diffusée aux établissements par les services rectoraux des examens et concours. Seule cette fiche est systématiquement transmise aux membres du jury.
-
-3.2. Contrôle en cours de formation
-
-Les situations de formation font l'objet d'un suivi des acquis et alimentent un bilan de compétences réalisé pour chaque candidat par l'équipe pédagogique conjointement avec le candidat dans le cas d'activités menées en centre de formation.
-
-Ce bilan indique l'inventaire et l'évaluation des tâches confiées, ainsi que les performances réalisées pour chacune des compétences visées.
-
-L'évaluation s'appuie sur le suivi et le bilan des compétences visées par la sous-épreuve. Le candidat est positionné, par l'équipe pédagogique, à son niveau de compétences sur la grille nationale d'évaluation de l'épreuve publiée dans la circulaire nationale d'organisation de l'examen. La durée de chacune des dernières situations de formation sur lesquelles, entre autres, s'appuient le positionnement doivent être significatives en durée mais ne peuvent en aucun cas excéder 2 heures.
-
-A l'issue des situations de formations, l'établissement de formation constituera, pour chaque candidat, un dossier comprenant :
-
--le suivi et le bilan de compétences acquises ;
-
--les études de cas réalisées ;
-
--la description sommaire des moyens matériels et des documents mis à disposition ;
-
--les fichiers informatiques et documents créés par le candidat ;
-
--la fiche nationale d'évaluation des compétences complétée au regard du bilan de compétences dressé.
+- la fiche nationale d'évaluation des compétences complétée au regard du bilan de compétences dressé
 
 Ce dossier sera tenu à la disposition du jury et de l'autorité rectorale jusqu'à la session suivante. La fiche nationale d'évaluation du travail réalisé par le candidat, rédigée et mise à jour par l'inspection générale de l'éducation du sport et de la recherche, sera diffusée aux établissements par les services rectoraux des examens et concours. Seule cette fiche sera systématiquement transmise aux membres du jury.
 
-La période choisie pour l'évaluation pouvant être différente pour chacun des candidats, son choix, son déroulement relèvent de la responsabilité de l'équipe pédagogique du centre de formation.
+Epreuve E7 : Maintenance améliorative
 
-Épreuve E6 : Maintenance améliorative
-
-Coefficient 4-Unité 6 |
+Coefficient 4 - Unité U7
 
 1. Objectif
 
-Pour cette épreuve E6 les candidats sont placés en situation de réaliser tout ou partie des tâches de l'activité du pôle 3 " Amélioration d'un bien ou d'une organisation ".
+Pour cette épreuve E7 les candidats sont placés en situation de réaliser tout ou partie des tâches de l'activité du pôle 3 &laquo; Amélioration d'un bien ou d'une organisation &raquo;.
 
 Elle permet d'évaluer les compétences liées à ce pôle :
 
@@ -1030,31 +780,31 @@ C33 |
 
 Communiquer oralement |
 
-Les indicateurs d'évaluation correspondant aux compétences évaluées figurent dans la colonne " critères d'évaluation de la compétence " des tableaux décrivant les compétences.
+Les indicateurs d'évaluation correspondant aux compétences évaluées figurent dans la colonne &laquo; critères d'évaluation de la compétence &raquo; des tableaux décrivant les compétences.
 
 2. Contenu de l'épreuve
 
-Le candidat effectue une étude d'amélioration d'un bien ou d'une organisation (étude et réalisation) sous la forme d'un projet d'une durée de 80 heures. L'étude peut être menée en centre de formation et/ ou en entreprise sous la responsabilité de l'équipe pédagogique.
+Le candidat effectue une étude d'amélioration d'un bien ou d'une organisation (étude et réalisation) sous la forme d'un projet d'une durée de 80 heures. L'étude peut être menée en centre de formation et/ou en entreprise sous la responsabilité de l'équipe pédagogique.
 
 Le candidat dispose de tout ou partie des éléments ci-dessous :
 
--le cahier des charges de l'amélioration pour le projet à mener (le projet peut être réparti sur plusieurs candidats, le cahier des charges précisera alors la répartition des tâches) ;
+- le cahier des charges de l'amélioration pour le projet à mener (le projet peut être réparti sur plusieurs candidats, le cahier des charges précisera alors la répartition des tâches) ;
 
--des moyens informatiques de conception, données et bibliothèques constructeur et fabricants, base de gestion de la maintenance (GMAO), accès aux normes ;
+- des moyens informatiques de conception, données et bibliothèques constructeur et fabricants, base de gestion de la maintenance (GMAO), accès aux normes ;
 
--l'ensemble des adaptations et des composants pour l'action d'amélioration, les outillages, appareils de mesure et de contrôle nécessaires, les équipements de protection.
+- l'ensemble des adaptations et des composants pour l'action d'amélioration, les outillages, appareils de mesure et de contrôle nécessaires, les équipements de protection.
 
 Le candidat établit un dossier de trente pages maximum hors annexes comprenant :
 
--le cahier des charges du projet servant de support pour la validation académique des projets ;
+- le cahier des charges du projet servant de support pour la validation académique des projets ;
 
--l'étude concernant la justification des solutions ;
+- l'étude concernant la justification des solutions ;
 
--la description de la solution retenue ;
+- la description de la solution retenue ;
 
--le dossier de réalisation ;
+- le dossier de réalisation ;
 
--une synthèse du projet mené avec un volet technico-économique au regard des objectifs initiaux.
+- une synthèse du projet mené avec un volet technico-économique au regard des objectifs initiaux.
 
 3. Mode d'évaluation
 
@@ -1064,29 +814,29 @@ L'épreuve orale se déroule au cours de la deuxième année de formation, d'une
 
 La commission d'évaluation est constituée :
 
--de deux enseignants (ou formateurs) de l'enseignement professionnel ;
+- de deux enseignants (ou formateurs) de l'enseignement professionnel ;
 
--d'un représentant professionnel.
+- d'un représentant professionnel.
 
 En l'absence du représentant professionnel, la commission d'évaluation peut réglementairement assurer l'évaluation.
 
 Déroulement de l'épreuve
 
-Exposé de l'étude menée-Durée : 10 minutes
+Exposé de l'étude menée - Durée : 10 minutes
 
-Le candidat décrit l'étude qu'il a menée en exposant la démarche de travail qu'il a mise en œuvre, les problèmes rencontrés, les solutions proposées, la solution retenue, les contraintes liées à la mise en œuvre...
+Le candidat décrit l'étude qu'il a menée en exposant la démarche de travail qu'il a mise en œuvre, les problèmes rencontrés, les solutions proposées, la solution retenue, les contraintes liées à la mise en œuvre…
 
 Le candidat s'efforce de mettre en évidence les points essentiels de son étude et des travaux réalisés en veillant notamment à justifier les solutions mises en œuvre et à présenter sa réalisation au moyen de photos ou de vidéos. Il effectue le bilan de son projet au regard des objectifs fixés.
 
 Le candidat présente son projet au travers d'un exposé structuré, à l'aide d'un support numérique.
 
-Entretien avec la commission d'évaluation-Durée : 20 minutes
+Entretien avec la commission d'évaluation - Durée : 20 minutes
 
 A l'issue de l'exposé, les membres de la commission d'évaluation, qui ont fait un examen approfondi du dossier, engagent un dialogue avec le candidat afin :
 
--de vérifier que le candidat maîtrise les éléments de son dossier et s'assurer que le travail fourni est bien le résultat d'une réelle autonomie de pensée et d'action ;
+- de vérifier que le candidat maîtrise les éléments de son dossier et s'assurer que le travail fourni est bien le résultat d'une réelle autonomie de pensée et d'action ;
 
--d'apprécier la capacité du candidat à communiquer, argumenter avec rigueur et pertinence les différents éléments du dossier.
+- d'apprécier la capacité du candidat à communiquer, argumenter avec rigueur et pertinence les différents éléments du dossier.
 
 Le candidat est positionné à son niveau de maîtrise des compétences sur la grille nationale d'évaluation de l'épreuve publiée dans la circulaire nationale d'organisation de l'examen.
 
@@ -1094,31 +844,31 @@ L'examen et l'évaluation par la commission d'évaluation du dossier du candidat
 
 Le dossier réalisé par le candidat est transmis selon une organisation mise en place par chaque regroupement interacadémique à une date fixée dans la circulaire d'organisation de l'examen.
 
-En l'absence de dossier le jour de l'interrogation du candidat, la commission interroge le candidat. L'attribution de la note est réservée dans l'attente d'une vérification selon des modalités définies par les autorités académiques. Si, après vérification, le dossier réalisé par le candidat est déclaré non-conforme, la mention " non valide " est portée à l'épreuve. En conséquence, le diplôme ne peut lui être délivré.
+En l'absence de dossier le jour de l'interrogation du candidat, la commission interroge le candidat. L'attribution de la note est réservée dans l'attente d'une vérification selon des modalités définies par les autorités académiques. Si, après vérification, le dossier réalisé par le candidat est déclaré non-conforme, la mention &laquo; non valide &raquo; est portée à l'épreuve. En conséquence, le diplôme ne peut lui être délivré.
 
 La non-conformité du dossier réalisé par le candidat peut être prononcée dès lors qu'une des situations suivantes est constatée :
 
--absence de dépôt du dossier ;
+- absence de dépôt du dossier ;
 
--fraude, plagiat avéré.
+- fraude, plagiat avéré.
 
 4. Approbation des projets d'étude
 
-Les activités d'étude et de réalisation des travaux confiées aux candidats sont arrêtées lors d'une commission de validation des projets, au cours du 1er trimestre de la 2e année de formation. Cette commission est placée sous la responsabilité d'un Inspecteur Pédagogique Régional chargé de l'organisation de la session du BTS Maintenance des Systèmes.
+Les activités d'étude et de réalisation des travaux confiées aux candidats sont arrêtées lors d'une commission de validation des projets, au cours du 1er trimestre de la 2e année de formation. Cette commission est placée sous la responsabilité d'un inspecteur pédagogique régional chargé de l'organisation de la session du BTS Maintenance des systèmes.
 
 Le projet confié au candidat, donne lieu à un cahier des charges décrivant les objectifs, démarches et tâches de maintenance à réaliser. L'établissement des cahiers des charges est de la responsabilité de l'équipe pédagogique. Un projet peut éventuellement être réparti sur plusieurs candidats. Dans ce cas, les cahiers des charges des travaux restent individualisés.
 
 Les cahiers des charges présentés à la commission de validation par les enseignants chargés de la formation STI des candidats, décrivent :
 
--la dénomination du plateau technique de l'établissement visé par le projet ;
+- la dénomination du plateau technique de l'établissement visé par le projet ;
 
--la définition complète du projet prenant en compte les compétences visées par l'épreuve E6 pour l'option du BTS ;
+- la définition complète du projet prenant en compte les compétences visées par l'épreuve E6 pour l'option du BTS ;
 
--le contrat individuel de travail du candidat ;
+- le contrat individuel de travail du candidat ;
 
--les moyens mis à la disposition par l'établissement pour mener le projet ;
+- les moyens mis à la disposition par l'établissement pour mener le projet ;
 
--le calendrier de 80 heures du projet.
+- le calendrier de 80 heures du projet.
 
 Les fiches de description du cahier des charges à valider, rédigées et mises à jour par l'inspection générale de l'éducation du sport et de la recherche, seront diffusées aux établissements par les services rectoraux des examens et concours. Seuls ces documents validés par la commission de validation des projets sont transmis à la commission d'évaluation du candidat.
 
@@ -1126,11 +876,169 @@ Les fiches de description du cahier des charges à valider, rédigées et mises 
 
 Pour l'épreuve E6, les candidats ayant échoué à une session antérieure de l'examen :
 
--élaborent un nouveau projet validé par la commission académique ;
+- élaborent un nouveau projet validé par la commission académique ;
 
--les candidats apprentis doublants peuvent se présenter à la session suivante avec leur contrat d'apprentissage initial prorogé d'un an ou avec un nouveau contrat conclu avec un autre employeur en application des dispositions de l'Article 6222-11 du code du travail.
+- les candidats apprentis doublants peuvent se présenter à la session suivante avec leur contrat d'apprentissage initial prorogé d'un an ou avec un nouveau contrat conclu avec un autre employeur en application des dispositions de l'article 6222-11 du code du travail.
 
-Épreuve facultative EF1-Langue vivante facultative |
+Epreuve E8 : Intégration d'un bien
+
+Coefficient 5 - Unité U8
+
+1. Objectif
+
+Pour cette épreuve E8, les candidats sont placés en situation de réaliser tout ou partie des tâches de l'activité du pôle 4 &laquo; Intégration d'un bien &raquo;.
+
+C41 |
+
+Appréhender l'organisation fonctionnelle, structurelle et temporelle d'un bien |
+
+C42 |
+
+Caractériser la chaîne de puissance et d'information |
+
+Les indicateurs d'évaluation correspondant aux compétences évaluées figurent dans la colonne &laquo; critères d'évaluation de la compétence &raquo; des tableaux décrivant les compétences.
+
+2. Contenu de l'épreuve
+
+Le support technique de l'épreuve est constitué d'un dossier relatif à un système technique.
+
+Ce système est décrit par :
+
+- sa mise en situation dans son environnement ;
+
+- un extrait du cahier des charges ;
+
+- un extrait du dossier technique du constructeur.
+
+Compte tenu de la spécificité de chaque option, le support pourra être :
+
+- commun pour les options A, C et D : &laquo; systèmes de production &raquo;, &laquo; systèmes éoliens &raquo; et &laquo; systèmes ascenseurs et élévateurs &raquo; ;
+
+- spécifique pour l'option B : &laquo; systèmes énergétiques et fluidiques &raquo;.
+
+Pour cette épreuve E5, les candidats seront placés en situation de réaliser tout ou partie des tâches :
+
+- T4.1 : Contribuer à la prise en compte des contraintes de maintenance lors de l'intégration d'un bien ;
+
+- T4.2 : Préparer et participer à la réception, à l'installation et à la mise en service du nouveau bien.
+
+3. Modes d'évaluation
+
+3.1. Ponctuelle écrite
+
+Epreuve écrite d'une durée de 4 heures. Une fiche nationale d'évaluation de compétences, mise au point par l'inspection générale de l'éducation du sport et de la recherche, est diffusée aux services rectoraux des examens et concours. Seule cette dernière sera systématiquement utilisée pour la correction de cette épreuve.
+
+3.2. Contrôle en cours de formation
+
+Les situations de formation font l'objet d'un suivi des acquis et alimentent un bilan de compétences réalisé pour chaque candidat par l'équipe pédagogique conjointement avec le candidat au travers d'études de cas menées en centre de formation.
+
+Ce bilan indique l'inventaire et l'évaluation des tâches confiées, ainsi que les performances réalisées pour chacune des compétences visées.
+
+L'évaluation s'appuie sur le suivi et le bilan des compétences visées par l'épreuve. Le candidat est positionné, par l'équipe pédagogique, à son niveau de compétences sur la grille nationale d'évaluation de l'épreuve publiée dans la circulaire nationale d'organisation de l'examen. La durée de chacune des dernières situations de formation sur lesquelles, entre autres, s'appuient le positionnement doivent être significatives en durée mais ne peuvent en aucun cas excéder 4 heures.
+
+A l'issue des situations de formations, l'établissement de formation constituera, pour chaque candidat, un dossier comprenant :
+
+- le suivi, le bilan de compétences acquises ;
+
+- les études de cas réalisées ;
+
+- la description sommaire des moyens matériels et des documents mis à disposition ;
+
+- les fichiers informatiques et documents créés par le candidat ;
+
+- la fiche nationale d'évaluation des compétences complétée au regard du bilan de compétences dressé
+
+Ce dossier sera tenu à la disposition du jury et de l'autorité rectorale jusqu'à la session suivante. La fiche nationale d'évaluation du travail réalisé par le candidat, rédigée et mise à jour par l'inspection générale de l'éducation du sport et de la recherche, sera diffusée aux établissements par les services rectoraux des examens et concours. Seule cette fiche sera systématiquement transmise aux membres du jury.
+
+La période choisie pour l'évaluation pouvant être différente pour chacun des candidats ; son choix, l'élaboration de la situation d'évaluation et l'organisation de son déroulement relèvent de la responsabilité de l'équipe pédagogique du centre de formation.
+
+Epreuve E9 : Organisation de la maintenance
+
+Coefficient 3 - Unité U9
+
+1. Objectif
+
+Pour cette épreuve E9, les candidats sont placés en situation de réaliser tout ou partie des tâches de l'activité du pôle 5 &laquo; Organisation de la maintenance &raquo;.
+
+Elle permet d'évaluer les compétences liées à ce pôle :
+
+C 51 |
+
+Analyser les indicateurs de maintenance |
+
+C 52 |
+
+Définir l'organisation d'une activité |
+
+C 53 |
+
+Organiser l'activité de maintenance |
+
+Les indicateurs d'évaluation correspondant aux compétences évaluées figurent dans la colonne &laquo; critères d'évaluation de la compétence &raquo; des tableaux décrivant les compétences.
+
+2. Contenu de l'épreuve
+
+Au travers d'études de cas relevant du champ des activités correspondant à l'option, le candidat est amené à réaliser dans le cadre de l'organisation de la maintenance tout ou partie des tâches décrites dans le pôle 5.
+
+Il dispose d'un dossier comportant :
+
+- la présentation et la mise en situation de la problématique de maintenance ;
+
+- les données relatives à la problématique : présentation du support technique ;
+
+- les documents techniques ; historique du bien, base de données technico-économiques ;
+
+- le questionnement précis qui guide le candidat dans sa démarche de résolution du problème posé.
+
+Le candidat traite par l'écrit la problématique en disposant d'un outil informatique spécifique (GMAO) ou standard (tableur, grapheur, base de données) pour exploiter rationnellement des données technico-économiques relatives à l'étude de cas.
+
+3. Modes d'évaluation
+
+3.1. Forme ponctuelle
+
+L'épreuve pratique est d'une durée de 2 heures.
+
+L'évaluation du candidat s'effectue à l'aide de la grille d'évaluation publiée dans la circulaire nationale d'organisation de l'examen.
+
+La commission d'évaluation est constituée d'un professeur (ou formateur) de l'enseignement professionnel.
+
+A l'issue de cette épreuve, le centre d'examen constitue, pour chaque candidat, un dossier comprenant :
+
+- l'étude de cas réalisée ;
+
+- la description sommaire des moyens matériels et des documents mis à disposition ;
+
+- les fichiers informatiques et documents créés par le candidat ;
+
+- la fiche nationale d'évaluation des compétences complétée au regard du bilan de compétences dressé.
+
+Ce dossier est tenu à la disposition du jury et de l'autorité rectorale jusqu'à la session suivante. La fiche nationale d'évaluation du travail réalisé par le candidat, rédigée et mise à jour par l'inspection générale de l'éducation du sport et de la recherche, est diffusée aux établissements par les services rectoraux des examens et concours. Seule cette fiche est systématiquement transmise aux membres du jury.
+
+3.2. Contrôle en cours de formation
+
+Les situations de formation font l'objet d'un suivi des acquis et alimentent un bilan de compétences réalisé pour chaque candidat par l'équipe pédagogique conjointement avec le candidat dans le cas d'activités menées en centre de formation.
+
+Ce bilan indique l'inventaire et l'évaluation des tâches confiées, ainsi que les performances réalisées pour chacune des compétences visées.
+
+L'évaluation s'appuie sur le suivi et le bilan des compétences visées par l'épreuve. Le candidat est positionné, par l'équipe pédagogique, à son niveau de compétences sur la grille nationale d'évaluation de l'épreuve publiée dans la circulaire nationale d'organisation de l'examen. La durée de chacune des dernières situations de formation sur lesquelles, entre autres, s'appuient le positionnement doivent être significatives en durée mais ne peuvent en aucun cas excéder 2 heures.
+
+A l'issue des situations de formations, l'établissement de formation constituera, pour chaque candidat, un dossier comprenant :
+
+- le suivi et le bilan de compétences acquises ;
+
+- les études de cas réalisées ;
+
+- la description sommaire des moyens matériels et des documents mis à disposition ;
+
+- les fichiers informatiques et documents créés par le candidat ;
+
+- la fiche nationale d'évaluation des compétences complétée au regard du bilan de compétences dressé.
+
+Ce dossier sera tenu à la disposition du jury et de l'autorité rectorale jusqu'à la session suivante. La fiche nationale d'évaluation du travail réalisé par le candidat, rédigée et mise à jour par l'inspection générale de l'éducation du sport et de la recherche, sera diffusée aux établissements par les services rectoraux des examens et concours. Seule cette fiche sera systématiquement transmise aux membres du jury.
+
+La période choisie pour l'évaluation pouvant être différente pour chacun des candidats, son choix, son déroulement relèvent de la responsabilité de l'équipe pédagogique du centre de formation.
+
+Epreuve facultative EF1 - Langue vivante facultative
 
 Durée 20 minutes, préparation 20 minutes.
 
@@ -1152,70 +1060,74 @@ Au cours de l'épreuve, la commission conduit un entretien en langue étrangère
 
 Au fil des échanges, le candidat est invité à réagir, décrire, reformuler, développer une argumentation, justifier son propos ou encore apporter des explications.
 
-Épreuve facultative EF2-Engagement étudiant |
+Epreuve facultative EF2 - Engagement étudiant
 
 Epreuve orale, 20 minutes sans préparation.
 
 1. Objectif
 
-Cette épreuve facultative vise à identifier les compétences, connaissances et aptitudes acquises par le candidat dans l'exercice des activités mentionnées à l'article L. 611-9 du code de l'éducation et qui révèlent de celles prévues par le référentiel d'évaluation de la spécialité du diplôme de brevet de technicien supérieur pour laquelle le candidat demande sa reconnaissance " engagement étudiant ".
+Cette épreuve facultative vise à identifier les compétences, connaissances et aptitudes acquises par le candidat dans l'exercice des activités mentionnées à l'article L. 611-9 du code de l'éducation et qui révèlent de celles prévues par le référentiel d'évaluation de la spécialité du diplôme de brevet de technicien supérieur pour laquelle le candidat demande sa reconnaissance &laquo; engagement étudiant &raquo;.
 
 Cela peut concerner :
 
--l'approfondissement des compétences évaluées à l'épreuve obligatoire U6 " Maintenance améliorative " ;
+- l'approfondissement des compétences évaluées à l'épreuve obligatoire E7 &laquo; Maintenance améliorative &raquo; ;
 
--le développement de compétences spécifiques à un domaine ou à une activité professionnelle particulière en lien avec le référentiel du diplôme.
+- le développement de compétences spécifiques à un domaine ou à une activité professionnelle particulière en lien avec le référentiel du diplôme.
 
 2. Critères d'évaluation
 
 Les critères d'évaluation sont :
 
--l'appropriation des compétences liées au domaine professionnel ;
+- l'appropriation des compétences liées au domaine professionnel ;
 
--la capacité à mettre en œuvre les méthodes et les outils ;
+- la capacité à mettre en œuvre les méthodes et les outils ;
 
--la qualité de l'analyse ;
+- la qualité de l'analyse ;
 
--la qualité de la communication.
+- la qualité de la communication.
 
 3. Modes d'évaluation
 
 3.1. Contrôle en cours de formation
 
-Il s'agit d'une situation d'évaluation orale d'une durée de 20 minutes qui prend la forme d'un exposé (10 minutes) puis d'un entretien avec la commission d'évaluation (10 minutes). Elle se situe dans la continuité de l'épreuve U6.
+Il s'agit d'une situation d'évaluation orale d'une durée de 20 minutes qui prend la forme d'un exposé (10 minutes) puis d'un entretien avec la commission d'évaluation (10 minutes). Elle se situe dans la continuité de l'épreuve E7.
 
-Cette épreuve prend appui sur une fiche d'engagement étudiant, servant de support d'évaluation au jury, présentant une ou plusieurs activité (s) conduite (s) par le candidat. En l'absence de cette fiche, l'épreuve ne peut pas se dérouler. Les modalités de mise en œuvre (procédure, calendrier …) seront précisées dans la circulaire nationale d'organisation du BTS.
+Cette épreuve prend appui sur une fiche d'engagement étudiant, servant de support d'évaluation au jury, présentant une ou plusieurs activité(s) conduite(s) par le candidat. En l'absence de cette fiche, l'épreuve ne peut pas se dérouler. Les modalités de mise en œuvre (procédure, calendrier…) seront précisées dans la circulaire nationale d'organisation du BTS.
 
 L'exposé doit intégrer :
 
--la présentation du contexte ;
+- la présentation du contexte ;
 
--la description et l'analyse de (s) activité (s) ;
+- la description et l'analyse de(s) activité(s) ;
 
--la présentation des démarches et des outils ;
+- la présentation des démarches et des outils ;
 
--le bilan de (s) activité (s) ;
+- le bilan de(s) activité(s) ;
 
--le bilan des compétences acquises.
+- le bilan des compétences acquises.
 
-La composition de la commission d'évaluation est la même que celle de l'épreuve U6 " Maintenance améliorative ".
+La composition de la commission d'évaluation est la même que celle de l'épreuve E7 &laquo; Maintenance améliorative &raquo;.
 
 3.2. Forme ponctuelle
 
-Il s'agit d'une situation d'évaluation orale d'une durée de 20 minutes qui prend la forme d'un exposé (10 minutes) puis d'un entretien avec la commission d'évaluation (10 minutes). Elle se situe dans la continuité de l'épreuve U6.
+Il s'agit d'une situation d'évaluation orale d'une durée de 20 minutes qui prend la forme d'un exposé (10 minutes) puis d'un entretien avec la commission d'évaluation (10 minutes). Elle se situe dans la continuité de l'épreuve E7.
 
-Cette épreuve prend appui sur une fiche d'engagement étudiant, servant de support d'évaluation au jury, présentant une ou plusieurs activité (s) conduite (s) par le candidat. En l'absence de cette fiche, l'épreuve ne peut pas se dérouler. Les modalités de mise en œuvre (procédure, calendrier …) seront précisées dans la circulaire nationale d'organisation du BTS.
+Cette épreuve prend appui sur une fiche d'engagement étudiant, servant de support d'évaluation au jury, présentant une ou plusieurs activité(s) conduite(s) par le candidat. En l'absence de cette fiche, l'épreuve ne peut pas se dérouler. Les modalités de mise en œuvre (procédure, calendrier…) seront précisées dans la circulaire nationale d'organisation du BTS.
 
 L'exposé doit intégrer :
 
--la présentation du contexte ;
+- la présentation du contexte ;
 
--la description et l'analyse de (s) activité (s) ;
+- la description et l'analyse de(s) activité(s) ;
 
--la présentation des démarches et des outils ;
+- la présentation des démarches et des outils ;
 
--le bilan de (s) activité (s) ;
+- le bilan de(s) activité(s) ;
 
--le bilan des compétences acquises.
+- le bilan des compétences acquises.
 
-La composition de la commission d'évaluation est la même que celle de l'épreuve U6 " Maintenance améliorative ".
+La composition de la commission d'évaluation est la même que celle de l'épreuve E7 &laquo; Maintenance améliorative &raquo;.
+
+NOTA :
+
+Conformément à l'article 6 de l'arrêté du 24 juin 2025 (NOR : MENS2514038A), ces dispositions s'appliquent à compter de la session d'examen 2026.
