@@ -1,19 +1,21 @@
 # Article GZ 3
 
-Documents à fournir
+Références - Approbation des guides
 
-§ 1. Les documents à fournir en application de l'article GE 2, § 2, comprennent :
+§1. Des guides approuvés par décision du ministère chargé de la sécurité civile publiée au Bulletin officiel du ministère de l'intérieur définissent des solutions techniques adaptées pour la conception, la mise en œuvre et l'entretien des installations de gaz répondant aux objectifs généraux de sécurité. Ils sont libres d'accès.
 
-- les plans de l'installation indiquant l'implantation du stockage éventuel ;
+Ils sont établis par un ou des organismes professionnels compétents et représentatifs reconnus par décision du ministère chargé de la sécurité civile.
 
-- le tracé des conduites de gaz ;
+§2. D'autres guides d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord instituant l'espace économique européen peuvent être soumis à l'approbation du ministre chargé de la sécurité civile si les conditions suivantes sont satisfaites simultanément :
 
-- l'emplacement des organes de détente et de coupure ;
+- ces guides sont rédigés en langue française ;
 
-- les types d'appareils utilisés et leur puissance ;
+- leur contenu poursuit les mêmes objectifs que ceux du présent arrêté et prend en compte les exigences réglementaires fixées par celui-ci ;
 
-- l'emplacement des conduits d'évacuation des produits de combustion et des dispositifs de ventilation et d'aération.
+- ils sont libres d'accès.
 
-§ 2. Les plans correspondant aux installations qui doivent être remises au distributeur de gaz aux termes des textes réglementaires ou de conventions particulières lui imposant d'en assurer l'exploitation et l'entretien doivent être présentés dans tous les cas pour approbation au distributeur par le chef d'établissement ou le maître d'ouvrage avant d'être soumis à la commission de sécurité.
+§3. L'application des solutions techniques définies dans les guides approuvés pour la conception et la mise en œuvre des installations de gaz vaut atteinte des objectifs généraux de sécurité et respect des dispositions du présent chapitre. Les guides en vigueur sont ceux applicables à la date de la délivrance de l'autorisation de travaux visée à l'article L. 122-3 du code de la construction et de l'habitation.
 
-A l'achèvement des travaux et au plus tard avant la date d'ouverture au public, une copie des plans de récolement des installations visées à l'alinéa précédent doit être fournie au distributeur.
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 23 février 2025 (NOR : INTE2314915A), ces dispositions entrent en vigueur le 1er janvier 2026.

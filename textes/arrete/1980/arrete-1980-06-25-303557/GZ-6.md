@@ -1,23 +1,33 @@
 # Article GZ 6
 
-Règles d'implantation des stockages
+Stockage de gaz combustibles - Règles générales
 
-§ 1. En fonction de leur capacité globale (somme des capacités nominales des récipients), les stockages d'hydrocarbures liquéfiés en récipients fixes ou conteneurs doivent être réalisés conformément aux conditions techniques minimales prévues par :
+§1. Le stockage des gaz combustibles est réalisé par des récipients fixes ou transportables. Leur emplacement ne doit pas constituer un risque pour le public ou toute personne présente dans l'établissement.
 
-- l'arrêté du 9 novembre 1972 modifié relatif aux règles d'aménagement et d'exploitation des dépôts d'hydrocarbures liquéfiés lorsque la contenance globale du dépôt est supérieure ou égale à 50 tonnes pour les dépôts en récipients fixes et les conteneurs ;
+§2. Dans les conditions normales d'utilisation, les réservoirs et récipients transportables sont implantés et conçus de manière à :
 
-- l'arrêté-type 211 (nouvelle rubrique 1412) relatif aux dépôts de gaz combustibles liquéfiés, pris en application de la loi relative aux installations classées pour la protection de l'environnement, lorsque la contenance globale du dépôt est supérieure à 6 tonnes et inférieure à 50 tonnes pour les dépôts en récipients fixes et les conteneurs ;
+- ne pas être soumis à des conditions qui pourraient les porter à une température de plus de 50 °C ;
 
-- l'arrêté du 30 juillet 1979 modifié relatif aux règles techniques et de sécurité applicables aux stockages fixes d'hydrocarbures liquéfiés non soumis à la législation des installations classées ou des établissements recevant du public pour les stockages fixes composés de réservoirs ou de conteneurs dont la contenance globale est inférieure ou égale à 6 tonnes.
+- ne pas être à l'origine de fuite pouvant entraîner une accumulation dangereuse de gaz ;
 
-§ 2. La capacité globale du stockage, en bouteilles, doit être limitée, par établissement recevant du public, à la somme des capacités nominales des bouteilles suivante :
+- ne pas être exposés à une source d'énergie susceptible d'initier une inflammation de ces gaz.
 
-- 1 400 kilogrammes pour le propane ;
+§3. La capacité globale du stockage en récipients transportables est limitée par établissement à :
 
-- 520 kilogrammes pour le butane.
+- 1 400 kg pour le propane ;
 
-Il doit être aménagé conformément aux dispositions suivantes :
+- 520 kg pour le butane.
 
-- article GZ 7, lorsqu'il s'agit d'un stockage de bouteilles de propane dont la capacité globale est inférieure ou égale à 1 400 kilogrammes ;
+§4. En application de l'article CO 27 §2, tout local destiné à recevoir des récipients transportables de butane commercial branchés et ne renfermant pas d'appareil d'utilisation est classé à risques moyens au-delà de 4 bouteilles (capacité globale supérieure à 52 kilogrammes).
 
-- article GZ 8, lorsqu'il s'agit d'un stockage de bouteilles de butane dont la capacité globale est inférieure ou égale à 520 kilogrammes.
+§5. En fonction de la quantité totale stockée dans l'ensemble des récipients fixes d'hydrocarbures liquéfiés ceux-ci sont réalisés conformément aux conditions techniques minimales prévues par :
+
+- soit l'arrêté du 30 juillet 1979 modifié relatif aux règles techniques et de sécurité applicables aux stockages fixes d'hydrocarbures liquéfiés non soumis à la législation des installations classées ou des immeubles recevant du public ;
+
+- soit la réglementation des installations classées pour la protection de l'environnement lorsque les seuils sont atteints.
+
+§6. En fonction de la quantité totale stockée d'hydrogène, le stockage est réalisé conformément aux conditions techniques minimales prévues par la réglementation des installations classées pour la protection de l'environnement lorsque les seuils sont atteints. En dessous de ces seuils, le stockage est situé à l'extérieur des bâtiments et est soumis à des règles d'implantation spécifiques.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 23 février 2025 (NOR : INTE2314915A), ces dispositions entrent en vigueur le 1er janvier 2026.

@@ -1,13 +1,19 @@
 # Article GZ 4
 
-Types de stockages
+Documents à fournir
 
-§ 1. Les stockages d'hydrocarbures liquéfiés, destinés à l'établissement, en utilisation ou non, qu'ils soient constitués de récipients fixes ou de récipients mobiles tels que définis au § 2 ci-après, doivent être aménagés conformément aux dispositions de la présente section.
+Les documents à fournir avant travaux en application de l'article GE 2 §2 comprennent :
 
-§ 2. On entend par :
+- les plans de l'installation de gaz indiquant l'implantation du stockage éventuel ;
 
-- récipients mobiles (bouteilles ou conteneurs) : les récipients dont l'emplissage est effectué en dehors de leur emplacement de stockage dans des dépôts spécialisés.
+- le tracé des canalisations de gaz ;
 
-Cette catégorie de récipients comprend, d'une part, les bouteilles, qui peuvent être déplacées manuellement et, d'autre part, les conteneurs qui ne peuvent être déplacés qu'à l'aide d'un engin de manutention ;
+- l'emplacement des organes de détente et de coupure ;
 
-- récipients fixes (réservoirs) : les récipients disposant d'organes de sécurité et dont l'emplissage s'effectue sur le lieu même de leur implantation à partir d'engins ravitailleurs spécialisés.
+- les types d'appareils à gaz utilisés et leur puissance ;
+
+- l'emplacement des systèmes d'évacuation des produits de combustion, des dispositifs de ventilation et d'aération.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 23 février 2025 (NOR : INTE2314915A), ces dispositions entrent en vigueur le 1er janvier 2026.
