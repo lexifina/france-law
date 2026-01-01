@@ -52,32 +52,6 @@ supérieures |
 
 |
 
-Chaudières à alimentation automatique fonctionnant au bois ou autres biomasse, mentionnées au a du 2 de l'annexe 1
-
-|
-
-5 000 € |
-
-3 850 € |
-
-2 100 € |
-
-X |
-
-18 000 € |
-
-Chaudières à alimentation manuelle fonctionnant au bois ou autres biomasse, mentionnées au b du 2 de l'annexe 1 |
-
-3 750 € |
-
-3 150 € |
-
-1 400 € |
-
-X |
-
-16 000 € |
-
 Equipements de chauffage ou de fourniture d'eau chaude sanitaire indépendants fonctionnant au bois ou autres biomasses, mentionnés au c du 2 de l'annexe 1 : |
 
 |
@@ -258,7 +232,9 @@ X |
 
 800 € |
 
-Isolation thermique des parois vitrées, mentionnée au 9 de l'annexe 1 |
+Isolation thermique des parois vitrées, mentionnée au 9 de l'annexe 1
+
+|
 
 100 €/ équipement |
 
@@ -271,42 +247,6 @@ X |
 1 000 €/
 
 équipement |
-
-Isolation des murs en façade ou pignon, mentionnée au 10 de l'annexe 1 : |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Isolation des murs par l'extérieur |
-
-75 €/ m2 |
-
-60 €/ m2 |
-
-40 €/ m2 |
-
-X |
-
-150 €/ m2 |
-
-Isolation des murs par l'intérieur |
-
-25 €/ m2 |
-
-20 €/ m2 |
-
-15 €/ m2 |
-
-X |
-
-70 €/ m2 |
 
 Isolation des rampants de toiture et plafonds de combles, mentionnée au 11 de l'annexe 1 : |
 
@@ -418,4 +358,4 @@ Mission d'accompagnement par un opérateur agréé prévue à l'article L. 232-3
 
 NOTA :
 
-Conformément au premier alinéa de l'article 6 de l'arrêté du 8 septembre 2025 (NOR : ATDL2523962A), ces dispositions, dans leur rédaction issue du 2° de l'article 4 de l'arrêté précité, entrent en vigueur le 30 septembre 2025 et s'appliquent aux demandes de primes déposées à compter de cette même date.
+Conformément au second alinéa de l'article 6 de l'arrêté du 8 septembre 2025 (NOR : ATDL2523962A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur le 1er janvier 2026 et s'appliquent aux demandes de primes déposées à compter de cette même date.
