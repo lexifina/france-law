@@ -8,4 +8,8 @@ Sont notamment considérés comme locaux à risques particuliers les locaux réc
 
 § 2. Les locaux de stockage de butane et de propane commerciaux qui n'ont pas une face ouverte sur l'extérieur sont considérés comme des locaux à risques particuliers.
 
-Ils doivent comporter au moins deux orifices de ventilation donnant directement sur l'extérieur et réalisés conformément aux dispositions de l'article GZ 7 (§ 2).
+Ils doivent comporter au moins deux orifices de ventilation donnant directement sur l'extérieur et réalisés conformément aux dispositions de l'article GZ 6.
+
+NOTA :
+
+Conformément au premier alinéa de l'article 13 de l'arrêté du 1er décembre 2025 (NOR : INTE2529354A), ces dispositions, dans leur rédaction issue de l'article 6 de l'arrêté précité, entrent en vigueur le 1er janvier 2026.

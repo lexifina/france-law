@@ -24,7 +24,7 @@ Toutefois, dans ce cas, lorsque les conditions suivantes sont simultanément res
 
 - d) les maisons d'assistants maternels (MAM) dont les locaux accessibles au public sont strictement limités à un seul étage sur rez-de-chaussée et dont l'effectif ne dépasse pas 16 enfants (1).
 
-§ 3. Sont assujettis aux seules dispositions des articles PE 4 § 2 et 3, PE 24 § 1, PE 26 § 1 et PE 27, s'ils reçoivent au plus 19 personnes constituant le public :
+§ 3. Sont assujettis aux seules dispositions des articles PE 4, PE 10 B, PE 24 § 1, PE 26 § 1 et PE 27, s'ils reçoivent au plus 19 personnes constituant le public :
 
 - les établissements recevant du public de 5e catégorie sans locaux à sommeil ;
 
@@ -319,3 +319,5 @@ Plein air (établissements de) |
 NOTA :
 
 (1) Une MAM est le regroupement d'au moins deux et au plus quatre assistants maternels.
+
+Conformément au premier alinéa de l'article 13 de l'arrêté du 1er décembre 2025 (NOR : INTE2529354A), ces dispositions, dans leur rédaction issue de l'article 2 de l'arrêté précité, entrent en vigueur le 1er janvier 2026.
