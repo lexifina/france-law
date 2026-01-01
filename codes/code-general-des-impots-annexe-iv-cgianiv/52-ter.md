@@ -1,249 +1,245 @@
 # Article 52 ter
 
-Le contingent annuel d'exportation de 153 000 hectolitres d'alcool pur fixé par l'article 362 du code général des impôts est réparti, d'une part, entre rhum traditionnel agricole et rhum traditionnel de sucrerie et, d'autre part, entre les départements d'outre-mer et entre les distilleries, à compter du 1er janvier 2024 conformément au tableau ci-après :
+Le contingent annuel d'exportation de 153 000 hectolitres d'alcool pur fixé par l'article 362 du code général des impôts est réparti, d'une part, entre rhum traditionnel agricole et rhum traditionnel de sucrerie et, d'autre part, entre les départements d'outre-mer et entre les distilleries, à compter du 1er janvier 2026 conformément au tableau ci-après :
 
-|
+Département |
 
-|
+Nom ou raison sociale |
 
 Contingent de rhum
 
 (en hectolitre d'alcool pur) |
 
-Département |
-
-Nom ou raison sociale de la distillerie |
-
 Rhum traditionnel agricole |
 
-Rhum traditionnel de sucrerie |
+Rhum traditionnel
+
+de sucrerie |
 
 Martinique |
 
 |
 
-57211,039 |
+57 666,5040 |
 
-11613,084 |
-
-|
-
-Distillerie Depaz à Saint Pierre |
-
-14020,839 |
+10 975,0914 |
 
 |
 
-|
+Distillerie Dillon SAS |
 
-Distillerie Bellonie et Bourdillon à Rivière-Pilote |
-
-12457,709 |
+13 948,8590 |
 
 |
 
 |
 
-Distillerie des rhums martiniquais St James SA à Sainte-Marie |
+Distillerie Bellonie et Bourdillon Successeurs |
 
-14785,032 |
-
-|
-
-|
-
-Distillerie du Simon à Le François |
-
-9993,539 |
+12 185,9517 |
 
 |
 
 |
 
-Distillerie SCA Héritiers Crassous à Macouba |
+Rhums martiniquais Saint-James |
 
-4746,987 |
-
-|
-
-|
-
-Distillerie Neisson au Carbet |
-
-599,794 |
+14 696,8085 |
 
 |
 
 |
 
-Distillerie La Favorite à Fort-de-France |
+Distillerie du Simon |
 
-517,473 |
-
-|
-
-|
-
-SARL Rex à le François |
-
-89,666 |
+10 717,2254 |
 
 |
 
 |
 
-SAEM du Galion à la Trinité |
+Distillerie SAS Héritiers Crassous de Médeuil |
+
+4 898,9843 |
 
 |
 
-11613,084 |
+|
+
+Domaines Thieubert |
+
+498,5321 |
+
+|
+
+|
+
+Distillerie La Favorite |
+
+612,6617 |
+
+|
+
+|
+
+Rex |
+
+107,4813 |
+
+|
+
+|
+
+SAEM de production sucrière et rhumière de Martinique |
+
+|
+
+10 975,0914 |
 
 Guadeloupe |
 
 |
 
-18575,426 |
+19 653,9676 |
 
-35433,003 |
-
-|
-
-Distillerie Bielle à Grand-Bourg |
-
-793,617 |
+35 339,0110 |
 
 |
 
-|
+SEDB-Distillerie Bielle |
 
-Distillerie Bologne à Basse-Terre |
-
-3037,518 |
+849,3717 |
 
 |
 
 |
 
-Distillerie Bellevue au Moule |
+Société Agricole de Bologne SA |
 
-7235,89 |
-
-|
-
-|
-
-Distillerie Espérance à Capesterre-Belle-Eau |
-
-712,503 |
+3 166,9338 |
 
 |
 
 |
 
-Distillerie Montebello à Petit Bourg |
+Rhum Damoiseau SAS |
 
-1241,075 |
-
-|
-
-|
-
-Distillerie Poisson à Grand Bourg (MG) |
-
-525,599 |
+8 426,3504 |
 
 |
 
 |
 
-Distillerie Bellevue à Sainte-Rose |
+Distillerie Longueteau |
 
-984,802 |
-
-|
-
-|
-
-Distillerie de Bellevue-MG |
-
-4044,422 |
+815,1696 |
 
 |
 
 |
 
-SA des sucreries et rhumeries MG à Grand Bourg |
+Montebello-Distillerie Carrère |
+
+1 078,1303 |
 
 |
 
-7262,997 |
+|
+
+Domaine de Poisson-Distillerie Père Labat |
+
+358,6285 |
 
 |
 
-Sucrerie de Gardel au Moule |
+|
+
+Distillerie Reimonenq |
+
+957,6436 |
 
 |
 
-7706,886 |
+|
+
+RABMG-Distillerie Bellevue de Marie-Galante |
+
+4 001,7397 |
 
 |
 
-Société industrielle de sucrerie à Bonne-mère |
+|
+
+SA des Sucreries et rhumeries de Marie-Galante |
 
 |
 
-20463,12 |
+7 253,0523 |
+
+|
+
+SA Gardel-Sucrerie |
+
+|
+
+7 648,0372 |
+
+|
+
+SIS-Distillerie Bonne-Mère |
+
+|
+
+20 437,9215 |
 
 La Réunion |
 
 |
 
-0 |
+|
 
-29914,972 |
+29 115,7208 |
 
 |
 
-Distillerie Isautier à St Pierre |
+Distillerie Isautier |
 
 |
 
-3205,144 |
+3 097,0738 |
 
 |
 
-Distillerie de Savanna SA à St André |
+Distillerie de Savanna SA |
 
 |
 
-9511,196 |
+9 084,6015 |
 
 |
 
-Distillerie rivière du Mât SA à St Benoit |
+Distillerie Rivière du Mât |
 
 |
 
-17198,632 |
+16 934,0455 |
 
 Guyane |
 
 |
 
-252,476 |
-
-0 |
+249,7051 |
 
 |
 
-SARL Rhums Saint-Maurice à Saint-Laurent-du-Maroni |
-
-252,476
-
 |
+
+Rhumerie Saint Maurice |
+
+249,7051 |
 
 |
 
 NOTA :
 
-Conformément à l’article 3 de l’arrêté du 19 juillet 2023 (NOR : ECOD2313476A), ces dispositions sont applicables à compter du 1er janvier 2024.
+Conformément à l’article 3 de l’arrêté du 16 juin 2025 (NOR : ECOD2514688A), ces dispositions sont applicables à compter du 1er janvier 2026.
