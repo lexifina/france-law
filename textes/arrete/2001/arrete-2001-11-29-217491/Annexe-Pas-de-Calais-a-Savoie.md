@@ -200,107 +200,55 @@ A
 
 Direction départementale des territoires du Bas-Rhin
 
-FONCTIONS EXERCEES
+Fonction exercée |
 
-|
+Niveau de qualification de l'emploi |
 
-NIVEAU
+Nombre
 
-de qualification de l'emploi
+d'emplois |
 
-|
+Nombre de points (IM) par emploi |
 
-NOMBRE
+Chef de pôle Rénovation Urbaine et Parc Social-Service Habitat |
 
-d'emplois
+A |
 
-|
+1 |
 
-NOMBRE DE POINTS (IM)
+30 |
 
-par emploi
+Adjoint au chef du Service Habitat-Service Habitat |
 
-|
+A |
 
-Adjoint au chef de service en charge de la politique de la ville
+1 |
 
-|
+20 |
 
-A
+Responsable de la mise en œuvre des projets de rénovation urbaine-Service Habitat |
 
-|
+A |
 
-1
+1 |
 
-|
+30 |
 
-20 points
+Adjoint au chef de pôle Accessibilité et Qualité du Bâtiment-Service Habitat |
 
-|
+A |
 
-Chef du pôle renouvellement urbain
+1 |
 
-|
+30 |
 
-A
+Adjoint au chef de pôle Programmation du Logement en charge du parc privé-Service Habitat |
 
-|
+A |
 
-1
+1 |
 
-|
-
-30 points
-
-|
-
-Chargé de mission renouvellement urbain
-
-|
-
-A
-
-|
-
-1
-
-|
-
-30 points
-
-|
-
-Chargé d'opération renouvellement urbain
-
-|
-
-A
-
-|
-
-1
-
-|
-
-30 points
-
-|
-
-Chargé de mission loi SRU
-
-|
-
-A
-
-|
-
-1
-
-|
-
-20 points
-
-|
+20 |
 
 Direction départementale de l'équipement du Haut-Rhin
 
