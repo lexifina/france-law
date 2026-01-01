@@ -1,46 +1,40 @@
 # Article ANNEXE I
 
-I-1. Contenu des analyses types à effectuer
-
-sur les échantillons d'eau prélevés
+I-1. Contenu des analyses types à effectuer sur les échantillons d'eau prélevés
 
 Le tableau 1 fixe le contenu des analyses types à effectuer sur les échantillons d'eau prélevés soit :
 
-– au niveau de la ressource (eau brute) ;
+-au niveau de la ressource (eau brute) ;
 
-– au point de mise en distribution : la qualité de l'eau, en ce point, est considérée comme représentative de la qualité de l'eau sur le réseau de distribution d'une zone géographique déterminée, à l'intérieur de laquelle elle peut être considérée comme homogène, que les eaux proviennent d'une ou de plusieurs sources, d'origine souterraine ou superficielle ; ce réseau est alors appelé unité de distribution ;
+-au point de mise en distribution et aux robinets normalement utilisés par le consommateur : la qualité de l'eau, en ce point, est considérée comme représentative de la qualité de l'eau sur l'unité de distribution (à l'exception des paramètres impactés par le réseau intérieur de distribution). On entend par unité de distribution une zone géographique déterminée, à l'intérieur de laquelle la qualité de l'eau peut être considérée comme homogène, que les eaux proviennent d'une ou de plusieurs sources, d'origine souterraine ou superficielle.
 
-– aux robinets normalement utilisés par le consommateur.
+Les analyses sont de type RP, RS, RSadd, A, B ou Badd, avec :
 
-Les analyses sont de type RP, RS, RSadd, P1, P2, D1 ou D2, avec :
+- RP correspondant au programme d'analyses effectué à la ressource, pour les eaux d'origine souterraine ;
 
-– RP correspondant au programme d'analyses effectué à la ressource, pour les eaux d'origine souterraine ;
+- RS correspondant au programme d'analyses effectué à la ressource, pour les eaux d'origine superficielle ;
 
-– RS correspondant au programme d'analyses effectué à la ressource, pour les eaux d'origine superficielle ;
+- RSadd correspondant au programme d'analyses supplémentaire par rapport à RS, effectué à la ressource, pour les eaux d'origine superficielle, dont le débit prélevé est supérieur ou égal à 100 m3/ jour en moyenne ;
 
-– RSadd correspondant au programme d'analyses supplémentaire par rapport à RS, effectué à la ressource, pour les eaux d'origine superficielle, dont le débit prélevé est supérieur ou égal à 100 m ³ / jour en moyenne ;
+- A correspondant au programme d'analyses de routine effectué au point de mise en distribution ou aux robinets normalement utilisés pour la consommation humaine ;
 
-– P1 correspondant au programme d'analyses de routine effectué au point de mise en distribution ;
+- B correspondant au programme d'analyses complémentaire par rapport à A permettant d'obtenir le programme d'analyses complet (A + B) effectué au point de mise en distribution ou aux robinets normalement utilisés pour la consommation humaine ;
 
-– P2 correspondant au programme d'analyses complémentaires de P1 permettant d'obtenir le programme d'analyses complet (P1 + P2) effectué au point de mise en distribution ;
+- Badd correspondant au programme d'analyses supplémentaire par rapport à B, effectué au point de mise en distribution ou aux robinets normalement utilisés pour la consommation humaine, pour les unités de distribution dont le débit distribué est supérieur ou égal à 1 000 m3/ jour en moyenne.
 
-– D1 correspondant au programme d'analyses de routine effectué aux robinets normalement utilisés pour la consommation humaine ;
+TABLEAU 1
 
-– D2 correspondant au programme d'analyses complémentaires de D1 permettant d'obtenir le programme d'analyses complet (D1 + D2) effectué aux robinets normalement utilisés pour la consommation humaine.
-
-Tableau 1
-
-Contenu des analyses types
+CONTENU DES ANALYSES TYPES
 
 RESSOURCE |
 
-POINT DE MISE EN DISTRIBUTION |
+POINT DE MISE EN DISTRIBUTION
+
+OU
 
 DISTRIBUTION AUX ROBINETS
 
-visés à l'article R. 1321-5-1°
-
-|
+visés à l'article R. 1321-5-1° |
 
 RP |
 
@@ -48,13 +42,11 @@ RS |
 
 RSadd |
 
-P1 |
+A |
 
-P2 |
+B |
 
-D1 |
-
-D2 |
+Badd |
 
 PARAMÈTRES MICROBIOLOGIQUES |
 
@@ -68,8 +60,6 @@ Spores de micro-organismes anaérobies sulfito-réducteurs (pour les eaux d'orig
 
 |
 
-Spores de micro-organismes anaérobies sulfito-réducteurs (pour les eaux d'origine superficielle ou influencées par une eau d'origine superficielle) |
-
 |
 
 |
@@ -82,35 +72,21 @@ Bactéries coliformes |
 
 |
 
-Bactéries coliformes |
+|
+
+Entérocoques
+
+intestinaux |
+
+Entérocoques
+
+intestinaux |
 
 |
 
 Entérocoques
 
-intestinaux
-
-|
-
-Entérocoques
-
-intestinaux
-
-|
-
-|
-
-Entérocoques
-
-intestinaux
-
-|
-
-|
-
-Entérocoques
-
-intestinaux
+intestinaux |
 
 |
 
@@ -126,8 +102,6 @@ Escherichia coli |
 
 |
 
-Escherichia coli |
-
 |
 
 |
@@ -136,11 +110,9 @@ Escherichia coli |
 
 |
 
-Dénombrement des micro-organismes revivifiables à 22 °C et 36 °C |
+Numération de germes aérobies revivifiables à 22° C et à 36° C |
 
 |
-
-Dénombrement des micro-organismes revivifiables à 22 °C et 36 °C |
 
 |
 
@@ -150,7 +122,19 @@ PARAMÈTRES CHIMIQUES ET ORGANOLEPTIQUES |
 
 |
 
-Acide perfluorooctanesulfonique (PFOS) (8) |
+|
+
+|
+
+|
+
+17 béta estradiol |
+
+|
+
+|
+
+Acide perfluorooctanesulfonique (PFOS) (6) |
 
 |
 
@@ -166,17 +150,7 @@ Acide perfluorooctanesulfonique (PFOS) (8) |
 
 |
 
-|
-
-Acrylamide (3) |
-
-|
-
-Acrylamide (3) |
-
-|
-
-Agents de surface réagissant au bleu de méthylène (lauryl sulfate de sodium) |
+Acides haloacétiques (par substance individuelle) : acides chloroacétique, dichloroacétique, trichloroacétique, bromoacétique et dibromoacétique (8) |
 
 |
 
@@ -185,6 +159,10 @@ Agents de surface réagissant au bleu de méthylène (lauryl sulfate de sodium) 
 |
 
 |
+
+|
+
+Acrylamide |
 
 |
 
@@ -193,34 +171,26 @@ Agents de surface réagissant au bleu de méthylène (lauryl sulfate de sodium) 
 Aluminium |
 
 |
-
-|
-
-Aluminium |
 
 Aluminium (lorsqu'il est utilisé comme agent de floculation) |
 
-|
-
-Ammonium (NH4+) |
-
-Ammonium (NH4+) |
+Aluminium |
 
 |
 
-Ammonium (NH4+) |
+Ammonium |
+
+Ammonium |
 
 |
 
-Ammonium (NH4+) |
+Ammonium |
+
+|
 
 |
 
 Antimoine |
-
-|
-
-|
 
 |
 
@@ -229,6 +199,8 @@ Antimoine |
 |
 
 Antimoine |
+
+|
 
 Arsenic |
 
@@ -238,29 +210,17 @@ Arsenic |
 
 |
 
-Arsenic (2) |
+Arsenic |
 
 |
 
-|
+Aspect, couleur, |
 
-Aspect, couleur, odeur |
-
-Aspect, couleur, odeur |
+Aspect, couleur, |
 
 |
 
-Aspect, couleur, odeur, saveur |
-
-|
-
-Aspect, couleur, odeur, saveur |
-
-|
-
-|
-
-Azote Kjeldhal (N) |
+Aspect, couleur, saveur |
 
 |
 
@@ -274,15 +234,7 @@ Azote Kjeldhal (N) |
 
 |
 
-Baryum (Ba) |
-
-|
-
-|
-
-Baryum (Ba) |
-
-|
+Baryum |
 
 |
 
@@ -300,6 +252,16 @@ Benzène |
 
 |
 
+|
+
+|
+
+|
+
+Bisphénol A |
+
+|
+
 Bore |
 
 Bore |
@@ -308,7 +270,25 @@ Bore |
 
 |
 
-Bore (2) |
+Bore |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Bromates (8) |
+
+|
+
+Bromures |
+
+Bromures |
 
 |
 
@@ -322,7 +302,7 @@ Bore (2) |
 
 |
 
-Bromates (si l'eau subit un traitement d'ozonation ou un traitement de chloration) |
+Diphényléthers bromés (6) : tétrabromodiphényléther, pentabromodiphényléther, hexabromodiphényléther, heptabromodiphényléther |
 
 |
 
@@ -330,31 +310,17 @@ Bromates (si l'eau subit un traitement d'ozonation ou un traitement de chloratio
 
 |
 
-|
+Cadmium |
 
-Diphényléthers bromés (8) : tétrabromodiphényléther, pentabromodiphényléther, hexabromodiphényléther, heptabromodiphényléther |
+Cadmium |
 
-|
-
-|
+Cadmium |
 
 |
 
-|
-
-Cadmium (Cd) |
-
-Cadmium (Cd) |
-
-Cadmium (Cd) |
+Cadmium |
 
 |
-
-|
-
-|
-
-Cadmium (Cd) |
 
 Carbone organique total |
 
@@ -362,9 +328,7 @@ Carbone organique total |
 
 |
 
-Carbone organique total (6) ou oxydabilité au KMnO4 à chaud en milieu acide |
-
-|
+Carbone organique total (1) ou oxydabilité au KMnO4 à chaud en milieu acide |
 
 |
 
@@ -380,7 +344,29 @@ Chlore libre et total (ou tout autre paramètre représentatif du traitement de 
 
 |
 
-Chlore libre et total (ou tout autre paramètre représentatif du traitement de désinfection) |
+|
+
+Chlorates |
+
+Chlorates |
+
+|
+
+|
+
+Chlorates (8) |
+
+|
+
+Chlorites |
+
+Chlorites |
+
+|
+
+|
+
+Chlorites (8) |
 
 |
 
@@ -388,23 +374,7 @@ Chlore libre et total (ou tout autre paramètre représentatif du traitement de 
 
 |
 
-|
-
-|
-
-|
-
-|
-
-Chlorites (si l'eau subit un traitement au dioxyde de chlore) |
-
-|
-
-|
-
-Chloroalcanes C10 -13 |
-
-|
+Chloroalcanes C10-13 |
 
 |
 
@@ -424,43 +394,33 @@ Chlorure de vinyle |
 
 |
 
-Chlorure de vinyle (3) |
+Chlorures |
 
-Chlorures (Cl-) |
-
-Chlorures (Cl-) |
+Chlorures |
 
 |
 
-Chlorures (Cl-) (1) (8 bis) |
-
-|
+Chlorures |
 
 |
 
 |
 
-|
+Chrome (2) |
 
-Chrome (Cr) |
-
-|
+Chrome (2) |
 
 |
 
 |
 
-|
-
-Chrome (Cr) |
-
-Conductivité |
-
-Conductivité |
+Chrome (2) |
 
 |
 
-Conductivité |
+|
+
+|
 
 |
 
@@ -470,8 +430,6 @@ Conductivité |
 
 |
 
-Cuivre (Cu) |
-
 |
 
 |
@@ -480,7 +438,9 @@ Cuivre (Cu) |
 
 |
 
-Cuivre (Cu) |
+Cuivre |
+
+|
 
 |
 
@@ -490,37 +450,7 @@ Cyanures totaux |
 
 |
 
-Cyanures totaux (2) |
-
-|
-
-|
-
-|
-
-Demande biochimique en oxygène à 5 jours (DBO5) |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Demande chimique en oxygène (DCO) |
-
-|
-
-|
-
-|
-
-|
+Cyanures totaux |
 
 |
 
@@ -530,9 +460,7 @@ Calcium |
 
 |
 
-Dureté (ou Titre hydrotimétrique) (1) |
-
-|
+Dureté (ou Titre hydrotimétrique) |
 
 |
 
@@ -550,15 +478,11 @@ Magnésium |
 
 |
 
-|
-
 1,2-dichloroéthane |
 
 |
 
 1,2-dichloroéthane |
-
-|
 
 |
 
@@ -578,11 +502,9 @@ Dichlorométhane |
 
 |
 
-|
-
 Di-
 
-(2-éthylhexyl) phtalate
+(2-éthylhexyl) phtalate |
 
 |
 
@@ -598,15 +520,9 @@ Di-
 
 |
 
-|
+Epichlorhydrine |
 
 |
-
-Epichlorhydrine (3) |
-
-|
-
-Epichlorhydrine (3) |
 
 Equilibre calcocarbonique |
 
@@ -616,53 +532,45 @@ Equilibre calcocarbonique |
 
 |
 
-Equilibre calcocarbonique (5) |
+Equilibre calcocarbonique (3) |
 
 |
 
 |
 
-Fer dissous (sur échantillon filtré à 0,45 µm) |
-
-Fer dissous (sur échantillon filtré à 0,45 µm) |
-
 |
 
 |
+
+Fer (lorsqu'il est utilisé comme agent de floculation et pour les eaux déferrisées) |
 
 Fer total |
 
-Fer total (lorsqu'il est utilisé comme agent de floculation et pour les eaux déferrisées) |
+|
 
-Fer total |
+Fluorures |
 
-Fluorures (F-) |
-
-Fluorures (F-) |
+Fluorures |
 
 |
 
 |
 
-Fluorures (F-) (2) |
+Fluorures |
 
 |
 
 |
 
-|
+Hydrocarbures aromatiques polycycliques (par substance individuelle) : fluoranthène, benzo [b] fluoranthène, benzo [k] fluoranthène, benzo [a] pyrène, benzo [g, h, i] pérylène et indéno [1,2,3-cd] pyrène |
 
-Hydrocarbures aromatiques polycycliques : somme de fluoranthène, benzo[b]fluoranthène, benzo[k]fluoranthène, benzo[a]pyrène, benzo[g,h,i]pérylène et indéno[1, 2, 3-cd]pyrène |
-
-Hydrocarbures aromatiques polycycliques (par substance individuelle) : anthracène, naphtalène, fluoranthène, benzo[b]fluoranthène, benzo[k]fluoranthène, benzo[a]pyrène, benzo[g,h,i]pérylène et indéno[1, 2, 3-cd]pyrène |
+Hydrocarbures aromatiques polycycliques (par substance individuelle) : anthracène, naphtalène, fluoranthène, benzo [b] fluoranthène, benzo [k] fluoranthène, benzo [a] pyrène, benzo [g, h, i] pérylène et indéno [1,2,3-cd] pyrène |
 
 |
 
-|
+Hydrocarbures aromatiques polycycliques (par substance individuelle) : benzo [a] pyrène, benzo [b] fluoranthène, benzo [k] fluoranthène, benzo [g, h, i] pérylène et indéno [1,2,3-cd] pyrène |
 
 |
-
-Hydrocarbures aromatiques polycycliques : benzo[a]pyrène (substance individuelle) et somme de benzo[b]fluoranthène, benzo[k]fluoranthène, benzo[g,h,i]pérylène et indéno[1, 2, 3-cd]pyrène |
 
 |
 
@@ -676,11 +584,9 @@ Hexachlorobenzène |
 
 |
 
-|
+Indice hydrocarbures |
 
-Hydrocarbures dissous ou émulsionnés |
-
-Hydrocarbures dissous ou émulsionnés |
+Indice hydrocarbures |
 
 |
 
@@ -692,59 +598,37 @@ Hydrocarbures dissous ou émulsionnés |
 
 |
 
-Manganèse |
-
-Manganèse |
+|
 
 |
 
 Manganèse (si traitement de démanganisation) |
 
-Manganèse (2) |
+Manganèse |
 
 |
 
 |
 
-|
+Mercure |
 
-Matières en suspension |
-
-|
-
-|
-
-|
-
-|
-
-|
+Mercure |
 
 |
 
 Mercure (Hg) |
 
-Mercure (Hg) |
-
-|
-
-Mercure (Hg) (2) |
-
 |
 
 |
 
-|
-
-Microcystines (4) |
+Total microcystines (4) |
 
 |
 
 |
 
-Microcystines (4) |
-
-|
+Total microcystines (4) |
 
 |
 
@@ -756,45 +640,29 @@ Nickel |
 
 |
 
-|
-
-|
-
 Nickel |
 
-Nitrates (NO3-) |
+|
 
-Nitrates (NO3-) |
+Nitrates |
+
+Nitrates |
 
 |
 
-Nitrates (NO3-) (8 bis) |
-
-|
-
-Nitrates (NO3-) (si plusieurs ressources en eau au niveau de l'unité de distribution dont une au moins délivre une eau dont la concentration en nitrates est supérieure à 50 mg/L) |
-
-|
-
-Nitrites (NO2-) |
-
-Nitrites (NO2-) |
-
-|
-
-Nitrites (NO2-) |
+Nitrates |
 
 |
 
 |
 
-Nitrites (NO2-) |
+Nitrites |
+
+Nitrites |
 
 |
 
-|
-
-4-nonylphénol |
+Nitrites |
 
 |
 
@@ -804,17 +672,149 @@ Nitrites (NO2-) |
 
 |
 
-|
-
-|
-
-4-(1,1',3,3'-tétraméthylbutyl) -phénol |
+4-nonylphénol (7) |
 
 |
 
 |
 
+Nonylphénol (7) |
+
 |
+
+|
+
+4-(1,1', 3,3'-tétraméthylbutyl)-phénol |
+
+|
+
+|
+
+|
+
+Perfluorés (par substance individuelle) : les substances susceptibles d'être présentes doivent être recherchées en priorité. A minima, les substances suivantes doivent être recherchées : Acide perfluorobutanoïque (PFBA)
+
+-Acide perfluoropentanoïque (PFPeA)
+
+-Acide perfluorohexanoïque (PFHxA)
+
+-Acide perfluoroheptanoïque (PFHpA)
+
+-Acide perfluoroctanoïque (PFOA)
+
+-Acide perfluorononanoïque (PFNA)
+
+-Acide perfluorodécanoïque (PFDA)
+
+-Acide perfluoroundécanoïque (PFUnDA)
+
+-Acide perfluorododécanoïque (PFDoDA)
+
+Acide perfluorotridécanoïque (PFTrDA)
+
+-Acide perfluorobutanesulfonique (PFBS)
+
+-Acide perfluoropentanesulfonique (PFPeS)
+
+-Acide perfluorohexane sulfonique (PFHxS)
+
+-Acide perfluoroheptane sulfonique (PFHpS)
+
+-Acide perfluorooctane sulfonique (PFOS)
+
+-Acide perfluorononane sulfonique (PFNS)
+
+-Acide perfluorodécane sulfonique (PFDS)
+
+-Acide perfluoroundécane sulfonique
+
+-Acide perfluorododécane sulfonique
+
+-Acide perfluorotridécane sulfonique |
+
+Perfluorés (par substance individuelle) : les substances susceptibles d'être présentes doivent être recherchées en priorité. A minima, les substances suivantes doivent être recherchées : Acide perfluorobutanoïque (PFBA)
+
+-Acide perfluoropentanoïque (PFPeA)
+
+-Acide perfluorohexanoïque (PFHxA)
+
+-Acide perfluoroheptanoïque (PFHpA)
+
+-Acide perfluoroctanoïque (PFOA)
+
+-Acide perfluorononanoïque (PFNA)
+
+-Acide perfluorodécanoïque (PFDA)
+
+-Acide perfluoroundécanoïque (PFUnDA)
+
+-Acide perfluorododécanoïque (PFDoDA)
+
+Acide perfluorotridécanoïque (PFTrDA)
+
+-Acide perfluorobutanesulfonique (PFBS)
+
+-Acide perfluoropentanesulfonique (PFPeS)
+
+-Acide perfluorohexane sulfonique (PFHxS)
+
+-Acide perfluoroheptane sulfonique (PFHpS)
+
+-Acide perfluorooctane sulfonique (PFOS)
+
+-Acide perfluorononane sulfonique (PFNS)
+
+-Acide perfluorodécane sulfonique (PFDS)
+
+-Acide perfluoroundécane sulfonique
+
+-Acide perfluorododécane sulfonique
+
+-Acide perfluorotridécane sulfonique |
+
+|
+
+|
+
+Perfluorés (par substance individuelle) : les substances susceptibles d'être présentes doivent être recherchées en priorité. A minima, les substances suivantes doivent être recherchées : Acide perfluorobutanoïque (PFBA)
+
+-Acide perfluoropentanoïque (PFPeA)
+
+-Acide perfluorohexanoïque (PFHxA)
+
+-Acide perfluoroheptanoïque (PFHpA)
+
+-Acide perfluoroctanoïque (PFOA)
+
+-Acide perfluorononanoïque (PFNA)
+
+-Acide perfluorodécanoïque (PFDA)
+
+-Acide perfluoroundécanoïque (PFUnDA)
+
+-Acide perfluorododécanoïque (PFDoDA)
+
+Acide perfluorotridécanoïque (PFTrDA)
+
+-Acide perfluorobutanesulfonique (PFBS)
+
+-Acide perfluoropentanesulfonique (PFPeS)
+
+-Acide perfluorohexane sulfonique (PFHxS)
+
+-Acide perfluoroheptane sulfonique (PFHpS)
+
+-Acide perfluorooctane sulfonique (PFOS)
+
+-Acide perfluorononane sulfonique (PFNS)
+
+-Acide perfluorodécane sulfonique (PFDS)
+
+-Acide perfluoroundécane sulfonique
+
+-Acide perfluorododécane sulfonique
+
+-Acide perfluorotridécane sulfonique |
 
 |
 
@@ -822,21 +822,15 @@ Pesticides (par substance individuelle) |
 
 Pesticides (par substance individuelle) |
 
-Pesticides (par substance individuelle) : alachlore, atrazine, chlorfenvinphos, chlorpyrifos, diuron, endosulfan (somme des isomères alpha– et bêta-), hexachlorobutadiène, hexachlorocyclo-hexane (somme des isomères alpha-, bêta-, delta-, gamma-), isoproturon, pentachlorobenzène, pentachlorophénol, simazine, trifluraline, aclonifène (8), bifénox (8), cybutryne (8), cyperméthrine (8), dichlorvos (8), dicofol (8) heptachlore (8), époxyde d'heptachlore (8), quinoxyfène (8), terbutryne (8) |
+Pesticides (par substance individuelle) : alachlore, atrazine, chlorfenvinphos, chlorpyrifos, diuron, endosulfan (somme des isomères alpha-et bêta-), hexachlorobutadiène, hexachlorocyclo-hexane (somme des isomères alpha-, bêta-, delta-, gamma-), isoproturon, pentachlorobenzène, pentachlorophénol, simazine, trifluraline, aclonifène (6), bifénox (6), cybutryne (6), cyperméthrine (6), dichlorvos (6), dicofol (6) heptachlore (6), époxyde d'heptachlore (6), quinoxyfène (6), terbutryne (6) |
 
 |
 
-Pesticides (2) (par substance individuelle : les substances susceptibles d'être présentes doivent être recherchées en priorité) |
+Pesticides (par substance individuelle : les substances susceptibles d'être présentes doivent être recherchées en priorité) |
 
 |
 
 |
-
-Potentiel hydrogène (pH) |
-
-Potentiel hydrogène
-
-(pH)
 
 |
 
@@ -844,47 +838,7 @@ Potentiel hydrogène
 
 Potentiel hydrogène
 
-(pH)
-
-|
-
-|
-
-Potentiel hydrogène
-
-(pH)
-
-|
-
-|
-
-|
-
-Phénols (indice phénol) |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Phosphore total (P2O5) |
-
-Phosphore total
-
-(P2O5)
-
-|
-
-|
-
-|
-
-|
+(pH) |
 
 |
 
@@ -898,37 +852,19 @@ Plomb |
 
 |
 
-|
-
-|
-
 Plomb |
 
-Sélénium (Se) |
+|
 
-Sélénium (Se) |
+Sélénium |
+
+Sélénium |
 
 |
 
 |
 
-Sélénium (Se) (2) |
-
-|
-
-|
-
-Silice |
-
-Silice |
-
-|
-
-|
-
-|
-
-|
+Sélénium |
 
 |
 
@@ -941,8 +877,6 @@ Sodium |
 |
 
 Sodium |
-
-|
 
 |
 
@@ -952,9 +886,7 @@ Sulfates |
 
 |
 
-Sulfates (8 bis) |
-
-|
+Sulfates |
 
 |
 
@@ -974,17 +906,13 @@ Taux de saturation en oxygène dissous |
 
 |
 
-Température |
-
-Température |
+|
 
 |
 
 Température |
 
 |
-
-Température |
 
 |
 
@@ -1006,15 +934,11 @@ Tétrachloroéthylène et trichloroéthylène |
 
 |
 
-|
+Trihalométhanes (par substance individuelle) : chloroforme, bromoforme, dibromochlorométhane et bromodichlorométhane (si teneur en chlore > 0,5 mg/ L) |
+
+Trihalométhanes (par substance individuelle) : chloroforme, bromoforme, dibromochlorométhane et bromodichlorométhane (si l'eau subit un traitement de chloration ou s'il y a une rechloration ou si teneur en chlore > 0,5 mg/ L) |
 
 |
-
-Trihalométhanes : somme de chloroforme, bromoforme, dibromochlorométhane et bromodichlorométhane (si l'eau subit un traitement de chloration) |
-
-|
-
-Trihalométhanes : somme de chloroforme, bromoforme, dibromochlorométhane et bromodichlorométhane (s'il y a une rechloration ou si teneur en chlore > 0,5 mg/L) |
 
 Carbonates |
 
@@ -1022,9 +946,7 @@ Carbonates |
 
 |
 
-Titre alcalimétrique complet (1) |
-
-|
+Titre alcalimétrique complet |
 
 |
 
@@ -1033,8 +955,6 @@ Titre alcalimétrique complet (1) |
 Hydrogénocarbonates |
 
 Hydrogénocarbonates |
-
-|
 
 |
 
@@ -1056,11 +976,7 @@ Tributylétain-cation |
 
 |
 
-|
-
-Trichlorobenzène : somme des isomères 1,2,4-, 1,2,3– et 1,3,5- |
-
-|
+Trichlorobenzène : somme des isomères 1,2,4-, 1,2,3-et 1,3,5- |
 
 |
 
@@ -1080,8 +996,6 @@ Trichlorométhane (chloroforme) |
 
 |
 
-|
-
 Turbidité |
 
 Turbidité |
@@ -1092,21 +1006,17 @@ Turbidité |
 
 |
 
-Turbidité |
+|
+
+Uranium |
+
+Uranium |
 
 |
 
 |
 
-Zinc (Zn) |
-
-|
-
-|
-
-|
-
-|
+Uranium |
 
 |
 
@@ -1120,7 +1030,7 @@ PARAMÈTRES RADIOLOGIQUES |
 
 |
 
-Activité alpha globale (1, 7) |
+Activité alpha globale (5) |
 
 |
 
@@ -1132,9 +1042,7 @@ Activité alpha globale (1, 7) |
 
 |
 
-|
-
-Activité bêta globale (1, 7) |
+Activité bêta globale (5) |
 
 |
 
@@ -1146,40 +1054,34 @@ Activité bêta globale (1, 7) |
 
 |
 
-|
-
-Tritium (2, 1, 7) |
+Tritium (5) |
 
 |
 
-|
+(1) Ce paramètre doit être mesuré pour les systèmes de production et de distribution desservant au moins 1 000 m3 par jour.
 
-(1) Ces paramètres peuvent être exclus de l'analyse dans les conditions mentionnées à l'article 3-IV du présent arrêté.
+(2) En cas de valeur supérieure à 6 µg/ L, il est procédé à l'analyse du Chrome VI.
 
-(2) Ces paramètres peuvent être exclus de l'analyse dans les conditions mentionnées à l'article 3-V du présent arrêté.
+(3) Les concentrations en calcium, magnésium et potassium doivent être exprimées par le laboratoire d'analyses concomitamment au calcul de l'équilibre calcocarbonique.
 
-(3) La limite de qualité se réfère à la concentration résiduelle en monomères dans l'eau, calculée conformément aux spécifications de la migration maximale du polymère correspondant en contact avec l'eau.
+(4) Seulement nécessaire lorsque les observations visuelles et/ ou analytiques mettent en évidence un risque de prolifération de cyanobactéries.
 
-(4) Seulement nécessaire lorsque les observations visuelles et/ou analytiques mettent en évidence un risque de prolifération de cyanobactéries.
+(5) Afin de déterminer l'activité bêta globale résiduelle, le potassium doit être recherché concomitamment à la mesure des paramètres radiologiques. En cas de valeurs supérieures à 0,1 Bq/ L (activité alpha globale), 1,0 Bq/ L (activité bêta globale résiduelle) ou 100 Bq/ L (tritium), il est procédé à l'analyse des radionucléides spécifiques définis dans l'arrêté du 12 mai 2004 modifié sus visé.
 
-(5) Les concentrations en calcium, magnésium et potassium doivent être exprimées par le laboratoire d'analyses concomitamment au calcul de l'équilibre calcocarbonique.
+(6) La première analyse de ces paramètres doit être réalisée avant le 31 décembre 2018.
 
-(6) Ce paramètre doit être mesuré pour les systèmes de production et de distribution desservant au moins 5 000 habitants.
+(7) Pour le nonylphénol, le numéro CAS est le 84852-15-3.
 
-(7) Afin de déterminer l'activité bêta globale résiduelle, le potassium doit être recherché concomitamment à la mesure des paramètres radiologiques. La mesure du potassium est réalisée lors de la mesure de l'équilibre calco-carbonique. En cas de valeurs supérieures à 0,1 Bq/L (activité alpha globale) ou 1,0 Bq/L (activité bêta globale résiduelle), il est procédé à l'analyse des radionucléides spécifiques définis dans l'arrêté mentionné à l'article R. 1321-20.
+(8) Ce paramètre n'est mesuré que dans le cas où une technique de traitement susceptible de le générer est utilisée. |
 
-(8) La première analyse de ces paramètres doit être réalisée avant le 31 décembre 2018.
-
-(8 bis) Ces paramètres peuvent être exclus de l'analyse dans les conditions mentionnées au VII de l'article 3 du présent arrêté.
-
-|
-
-I-2. Analyses de vérification de la qualité de l'eau à réaliser
-
-préalablement à la mise en service des installations en application de l'article R. 1321-10
+I-2. Analyses de vérification de la qualité de l'eau à réaliser préalablement à la mise en service des installations en application de l'article R. 1321-10
 
 Les analyses de vérification de la qualité de l'eau distribuée à effectuer en application de l'article R. 1321-10 comprennent les paramètres suivants :
 
-– pour les installations de production et de distribution alimentant moins de 500 habitants : une analyse de type P1. Toutefois, si le préfet estime qu'un paramètre ne figurant pas dans l'analyse de type P1 est susceptible d'être présent dans l'eau à une concentration élevée, ce paramètre peut alors être ajouté à l'analyse de type P1 ;
+-Pour les installations de production et de distribution distribuant moins de 100 m3 par jour : une analyse de type A. Toutefois, le directeur général de l'agence régionale de santé peut ajouter à l'analyse de type A tout paramètre qu'il estime pertinent de rechercher en fonction des éléments d'analyse des dangers dont il dispose ;
 
-– pour les installations de production et de distribution alimentant plus de 500 habitants : une analyse complète de type P1 + P2.
+-Pour les installations de production et de distribution distribuant plus de 100 m3 par jour : une analyse complète de type A + B.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 30 décembre 2022 (NOR : SPRP2221017A), ces dispositions entrent en vigueur à compter du 1er janvier 2026.

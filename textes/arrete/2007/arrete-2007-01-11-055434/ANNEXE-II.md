@@ -1,28 +1,22 @@
 # Article ANNEXE II
 
-FRÉQUENCE DES PRÉLÈVEMENTS D'ÉCHANTILLONS
-
-D'EAU ET D'ANALYSES
+FRÉQUENCE DES PRÉLÈVEMENTS D'ÉCHANTILLONS D'EAU ET D'ANALYSES
 
 Les échantillons d'eau doivent être prélevés de manière à être représentatifs (temporellement tout au long de l'année et géographiquement) de la qualité des eaux brutes et des eaux distribuées.
 
-I. - Ressource
+I.-Ressource
 
-Le tableau 1 indique la fréquence des prélèvements d'échantillons d'eau et d'analyses à effectuer chaque année sur la ressource selon le débit journalier de l'eau prélevé pour la production d'eau destinée à la consommation humaine.
+Le tableau 1 indique la fréquence des prélèvements d'échantillons d'eau ainsi que les types d'analyses à effectuer chaque année sur la ressource selon le débit journalier de l'eau (m3/ j) prélevée pour la production d'eau destinée à la consommation humaine.
 
-Tableau 1
+TABLEAU 1
 
-Fréquences des prélèvements d'échantillons d'eau
-
-et d'analyses d'eau prélevée à la ressource
+FRÉQUENCES DES PRÉLÈVEMENTS D'ÉCHANTILLONS D'EAU ET D'ANALYSES D'EAU PRÉLEVÉE À LA RESSOURCE
 
 DÉBIT
 
-(m ³ / jour)
+(m3/ jour) |
 
-|
-
-FRÉQUENCE ANNUELLE |
+FRÉQUENCE MINIMALE ANNUELLE |
 
 |
 
@@ -32,304 +26,150 @@ RS |
 
 RSadd |
 
-Inférieur à 10
+Inférieur à 10 |
 
-|
+0,2 (1) |
 
-0, 2 (9) |
-
-0, 5 (9) |
-
-|
-
-De 10 à 99
-
-|
-
-0, 2 (9) |
-
-1 |
-
-|
-
-De 100 à 1 999
-
-|
-
-0, 5 (9) |
-
-2 |
-
-4 (10) |
-
-De 2 000 à 5 999
-
-|
-
-1 |
-
-3 |
-
-8 (10) |
-
-De 6 000 à 19 999
-
-|
-
-2 |
-
-6 |
-
-12 (10) |
-
-Supérieur ou égal à 20 000
-
-|
-
-4 |
-
-12 |
-
-12 |
-
-(9) 0, 2 et 0, 5 correspondent respectivement à une analyse tous les 5 ans et tous les 2 ans.
-
-(10) Ces fréquences de prélèvements et d'analyses s'appliquent aux paramètres définis dans le tableau 1 de l'annexe I (RSadd). Pour les paramètres cadmium, mercure, nickel, plomb et les hydrocarbures aromatiques polycycliques, également contrôlés dans les analyses de type RS, ces fréquences se substituent à celles des analyses de type RS.
-
-|
-
-Dispositions complémentaires concernant les eaux brutes superficielles :
-
-Outre la recherche des paramètres microbiologiques pour l'analyse de type RS mentionnée dans le tableau 1 de l'annexe I, il est procédé :
-
-a) A une recherche annuelle de salmonelles (dans cinq litres d'eau) ;
-
-b) A une recherche de bactéries coliformes dans les conditions suivantes :
-
-- une fois par an pour un débit inférieur à 6 000 m ³ / jour ;
-
-- deux fois par an pour un débit compris entre 6 000 m ³ / jour et 20 000 m ³ / jour ;
-
-- quatre fois par an pour un débit supérieur à 20 000 m ³ / jour.
-
-II. - Eaux aux points de mise en distribution et d'utilisation
-
-Le tableau 2 indique la fréquence des prélèvements et d'analyses pour l'eau distribuée aux consommateurs selon la population desservie par le réseau et le débit d'eau distribuée.
-
-Lorsqu'un réseau de distribution dessert plusieurs communes, le nombre d'analyses de type D1 à effectuer doit être au moins égal à celui correspondant à la population des communes desservies par le réseau sans être inférieur au nombre des communes desservies.
-
-Tableau 2
-
-Fréquences annuelles des prélèvements d'échantillons d'eau et d'analyses d'eau aux points de mise en distribution et d'utilisation
-
-POPULATION DESSERVIE |
-
-DÉBIT
-
-(m³/jour)
-
-|
-
-FRÉQUENCE ANNUELLE |
-
-P1 |
-
-P2 (11) |
-
-D1 (12) |
-
-D2 (13) |
-
-De 0 à 49 habitants
-
-|
-
-De 0 à 9 |
-
-1 |
-
-Entre 0, 1 et 0, 2 |
-
-Entre 2 et 4 |
-
-Entre 0, 1 et 0, 2 |
-
-De 50 à 499 habitants
+0,5 (1) |
 
 |
 
 De 10 à 99 |
 
+0,2 (1) |
+
+1 |
+
+|
+
+De 100 à 1 999 |
+
+0,5 (1) |
+
 2 |
 
-Entre 0, 2 et 0, 5 |
+4 (2) |
 
-Entre 3 et 4 |
+De 2 000 à 5 999 |
 
-Entre 0, 2 et 0, 5 |
+1 |
 
-De 500 à 1 999 habitants
+3 |
+
+8 (2) |
+
+De 6 000 à 19 999 |
+
+2 |
+
+6 |
+
+12 (2) |
+
+Supérieur ou égal à 20 000 |
+
+4 |
+
+12 |
+
+12 |
+
+(1) 0,2 et 0,5 correspondent respectivement à une analyse tous les 5 ans et tous les 2 ans.
+
+(2) Ces fréquences de prélèvements et d'analyses s'appliquent aux paramètres définis dans le tableau 1 de l'annexe I (RSadd). Pour les paramètres cadmium, mercure, nickel, plomb et les hydrocarbures aromatiques polycycliques, également contrôlés dans les analyses de type RS, ces fréquences se substituent à celles des analyses de type RS. |
+
+II.-Eaux aux points de mise en distribution et aux robinets normalement utilisés par le consommateur
+
+Le tableau 2 indique la fréquence des prélèvements et d'analyses pour l'eau distribuée aux consommateurs selon le débit d'eau distribuée.
+
+Lorsqu'un réseau de distribution dessert plusieurs communes, le nombre annuel d'analyses de type A à effectuer doit être au moins égal à celui correspondant au débit d'eau distribuée par le réseau sans être inférieur au nombre de communes desservies.
+
+TABLEAU 2
+
+FRÉQUENCES ANNUELLES DES PRÉLÈVEMENTS D'ÉCHANTILLONS D'EAU ET D'ANALYSES D'EAU AUX POINTS DE MISE EN DISTRIBUTION ET D'UTILISATION
+
+DÉBIT
+
+(m ³/ jour) |
+
+FRÉQUENCE MINIMALE ANNUELLE |
+
+|
+
+A |
+
+B (6) |
+
+Badd |
+
+De 0 à 9 |
+
+3 |
+
+0,1 (1) |
+
+|
+
+De 10 à 99 |
+
+5 |
+
+0,2 (1) |
 
 |
 
 De 100 à 399 |
 
-2 |
+8 |
 
 1 |
-
-6 |
-
-1 |
-
-De 2 000 à 4 999 habitants
 
 |
 
-De 400 à 999 |
-
-3 |
-
-1 |
-
-9 |
-
-1 |
-
-De 5 000 à 14 999 habitants
-
-|
-
-De 1 000 à 2 999 |
-
-5 |
-
-2 |
+De 400 à 1000 |
 
 12 |
 
+1 |
+
+|
+
+De 1 001 à 10 000 |
+
+17 |
+
+2 (2) |
+
 2 |
 
-De 15 000 à 29 999 habitants
+De 10 001 à 100 000 |
 
-|
+34 (3) |
 
-De 3 000 à 5 999 |
-
-6 |
-
-3 |
-
-25 |
-
-3 |
-
-De 30 000 à 99 999 habitants
-
-|
-
-De 6 000 à 19 999 |
-
-12 |
+4 (4) |
 
 4 |
 
-61 |
+A partir de 100 001 |
+
+304 (3) |
+
+13 (5) |
 
 4 |
 
-De 100 000 à 149 999 habitants
+(1) : 0,1 et 0,2 correspondent respectivement à une analyse tous les 10 ans et une analyse tous les 5 ans.
 
-|
+(2) Pour cette catégorie, une analyse supplémentaire doit être réalisée pour chaque tranche entamée supplémentaire de 4 500 m3/ j du volume total.
 
-De 20 000 à 29 999 |
+(3) Pour cette catégorie, trois analyses supplémentaires doivent être réalisées pour chaque tranche entamée supplémentaire de 1 000 m3/ j du volume total.
 
-24 |
+(4) Pour cette catégorie, une analyse supplémentaire doit être réalisée pour chaque tranche entamée supplémentaire de 10 000 m3/ j du volume total.
 
-5 |
+(5) Pour cette catégorie, une analyse supplémentaire doit être réalisée pour chaque tranche entamée supplémentaire de 25 000 m3/ j du volume total.
 
-150 |
+(6) L'analyse de type B est à réaliser en complément d'une analyse de type A. |
 
-5 |
+NOTA :
 
-De 150 000 à 199 999 habitants
-
-|
-
-De 30 000 à 39 999 |
-
-36 |
-
-6 |
-
-210 |
-
-6 |
-
-De 200 000 à 299 999 habitants
-
-|
-
-De 40 000 à 59 999 |
-
-48 |
-
-8 |
-
-270 |
-
-8 |
-
-De 300 000 à 499 999 habitants
-
-|
-
-De 60 000 à 99 999 |
-
-72 |
-
-12 |
-
-390 |
-
-12 |
-
-De 500 000 à 624 999 habitants
-
-|
-
-De 100 000 à 124 999 |
-
-100 |
-
-12 (14) |
-
-630 |
-
-12 (14) |
-
-Supérieur ou égal à 625 000 habitants
-
-|
-
-Supérieur ou égal à 125 000 |
-
-144 |
-
-12 (14) |
-
-800 (15) |
-
-12 (14) |
-
-(11) L'analyse de type P2 est à réaliser en complément d'une analyse de type P1.
-
-(12) Pour les populations supérieures à 500 habitants, le nombre d'analyses à effectuer est obtenu par interpolation linéaire entre les chiffres fixés dans la colonne D1 (le chiffre étant arrondi à la valeur entière la plus proche). Le chiffre inscrit dans la colonne D1 correspond à la borne inférieure de chaque classe de débit.
-
-(13) L'analyse de type D2 est à réaliser en complément d'une analyse de type D1.
-
-(14) Pour cette catégorie, une analyse supplémentaire doit être réalisée par tranche supplémentaire de 25 000 m³ / j du volume total.
-
-(15) Pour cette catégorie, trois analyses supplémentaires doivent être réalisées par tranche supplémentaire de 1 000 m³ / j du volume total.
-
-|
+Conformément à l'article 2 de l'arrêté du 30 décembre 2022 (NOR : SPRP2221017A), ces dispositions entrent en vigueur à compter du 1er janvier 2026.
