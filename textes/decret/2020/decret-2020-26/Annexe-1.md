@@ -4,13 +4,7 @@ DÉPENSES ÉLIGIBLES À LA PRIME DE TRANSITION ÉNERGÉTIQUE
 
 Les dépenses suivantes, lorsqu'elles répondent aux critères techniques fixés par l'arrêté mentionné au VIII de l'article 2 du présent décret et aux exigences du présent décret, donnent lieu au versement de la prime de transition énergétique :
 
-1. (Abrogé) ;
-
 2. Equipements de chauffage ou de fourniture d'eau chaude sanitaire fonctionnant au bois ou autres biomasses :
-
-a) Chaudières à alimentation automatique fonctionnant au bois ou autres biomasses ;
-
-b) Chaudières à alimentation manuelle fonctionnant au bois ou autres biomasses ;
 
 c) Equipements de chauffage ou de fourniture d'eau chaude sanitaire indépendants fonctionnant au bois ou autres biomasses ;
 
@@ -42,8 +36,6 @@ c) Pompes à chaleur dédiées à la production d'eau chaude sanitaire ;
 
 9. Isolation thermique des parois vitrées, à la condition que les matériaux installés viennent en remplacement de parois en simple vitrage ;
 
-10. Isolation des murs en façade ou pignon ;
-
 11. Isolation des rampants de toiture et plafonds de combles ;
 
 12. Isolation des toitures terrasses ;
@@ -54,12 +46,10 @@ c) Pompes à chaleur dédiées à la production d'eau chaude sanitaire ;
 
 13-2. Bardages ventilés pour les immeubles situés à La Réunion, en Guyane, en Martinique, en Guadeloupe ou à Mayotte ;
 
-14. (Abrogé) ;
-
 15. Ensemble de travaux de rénovation énergétique visant à améliorer la performance globale du logement en France métropolitaine ;
 
 15 bis. Mission d'accompagnement par un opérateur agréé prévue à l'article L. 232-3 du code de l'énergie.
 
 NOTA :
 
-Conformément à l'article 9 du décret n° 2023-1365 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024 et s'appliquent aux demandes de prime déposées à compter de cette même date.
+Conformément à l'article 2 du décret n° 2025-956 du 8 septembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 1er janvier 2026 et s'appliquent aux demandes de primes déposées à compter de cette même date.
