@@ -460,7 +460,7 @@ Attestation de vérification périodique EAD absente ou non conforme |
 
 Majeure |
 
-0.6.9. CARTE BLANCHE BARRÉE BLEU POUR LES VÉHICULES DE DÉPANNAGE
+0.6.9. AUTORISATION DE MISE EN CIRCULATION POUR LES VÉHICULES DE DÉPANNAGE
 
 0.6.9.a.1 |
 
@@ -2441,3 +2441,7 @@ Le système signale une défaillance via l'interface électronique du véhicule 
 |
 
 Majeure |
+
+NOTA :
+
+Conformément à l'article 7 de l'arrêté du 18 août 2025 (NOR : ATDR2519918A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur au 1er janvier 2026.

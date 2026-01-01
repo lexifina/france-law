@@ -30,6 +30,10 @@ Lieu : .......................................
 
 Signature : ..............................
 
-(1) Date attestation + 1 an.
+(1) Date attestation + 1 an -1 jour.
 
 (2) Rayer la mention inutile.
+
+NOTA :
+
+Conformément à l'article 7 de l'arrêté du 18 août 2025 (NOR : ATDR2519918A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur au 1er janvier 2026.

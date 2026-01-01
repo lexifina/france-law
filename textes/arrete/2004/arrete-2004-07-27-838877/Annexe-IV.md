@@ -142,11 +142,15 @@ D. 1. Remise à niveau pour la qualification relative au contrôle technique des
 
 D. 1.1. En l'absence de la formation prévue au C. 1.1.1., le réseau ou la personne physique assurant l'exploitation du centre de contrôle non rattaché s'assure de la remise à niveau, pour le contrôle technique des véhicules lourds, hors transports en commun de personnes et transports de marchandises dangereuses, d'une durée minimale de 35 heures, avant le 31 mars de l'année en cours et avant toute reprise d'activité au-delà de cette échéance.
 
+Cette formation comprend la formation prévue au premier alinéa du C.1.1.1 pour l'année précédente. Dans le cas où une partie de la formation prévue au premier alinéa du C.1.1.1 est réalisée en téléformation, celle-ci est réalisée en présentiel dans le cadre de la remise à niveau.
+
 D. 1.2. En l'absence d'activité depuis plus d'un an, le réseau ou la personne physique assurant l'exploitation du centre de contrôle non rattaché s'assure de la remise à niveau avant toute reprise d'activité.
 
-Cette remise à niveau est composée d'une partie théorique, d'une durée minimale de 35 heures si la durée de l'absence d'activité est inférieure à trois ans (d'une durée minimale de 70 heures dans les autres cas) et d'une partie pratique de 35 heures dans un centre de contrôle. La formation de remise à niveau est adaptée aux évolutions réglementaires intervenues au cours de la période d'absence d'activité.
+Cette remise à niveau est composée d'une partie théorique, d'une durée minimale de 35 heures et d'une partie pratique de 35 heures dans un centre de contrôle. La formation de remise à niveau est adaptée aux évolutions réglementaires intervenues au cours de la période d'absence d'activité.
 
-Si la durée de l'absence d'activité est supérieure à cinq ans, cette remise à niveau consiste en une formation initiale telle que prévue au B. 1.2.2 de la présente annexe.
+Cette formation comprend la formation prévue au premier alinéa du C.1.1.1 pour l'année précédente. Dans le cas où une partie de la formation prévue au premier alinéa du C.1.1.1 est réalisée en téléformation, celle-ci est réalisée en présentiel dans le cadre de la remise à niveau.
+
+Si la durée de l'absence d'activité est supérieure à quatre ans, cette remise à niveau consiste en une formation initiale telle que prévue au B. 1.2.2 de la présente annexe.
 
 D. 1.3. Dans tous les cas, la remise à niveau ne dispense pas des exigences de formation prévues au point C pour l'année civile en cours. Une traçabilité des dispositions mises en œuvre dans le cadre de la remise à niveau est assurée.
 
@@ -168,9 +172,15 @@ D. 2. Remise à niveau pour la qualification relative au contrôle technique des
 
 D. 2.1. En l'absence de la formation prévue au C. 2.1.2, le réseau ou la personne physique assurant l'exploitation du centre de contrôle non rattaché s'assure de la remise à niveau, pour le contrôle technique des véhicules de transports en commun de personnes, d'une durée minimale de 10 heures, avant le 31 mars de l'année en cours et avant toute reprise d'activité au-delà de cette échéance.
 
+Cette formation comprend la formation prévue au premier alinéa du C.2.1.2 pour l'année précédente. Dans le cas où une partie de la formation prévue au premier alinéa du C.2.1.2. est réalisée en téléformation, celle-ci est réalisée en présentiel dans le cadre de la remise à niveau.
+
 D. 2.2. En l'absence d'activité depuis plus d'un an, le réseau ou la personne physique assurant l'exploitation du centre de contrôle non rattaché s'assure de la remise à niveau avant toute reprise d'activité.
 
-Cette remise à niveau est composée d'une partie théorique, d'une durée minimale de 10 heures si la durée de l'absence d'activité est inférieure à trois ans (d'une durée minimale de 13 heures dans les autres cas) et d'une partie pratique de 8 heures dans un centre de contrôle. La formation de remise à niveau est adaptée aux évolutions réglementaires intervenues au cours de la période d'absence d'activité.
+Cette remise à niveau est composée d'une partie théorique, d'une durée minimale de 10 heures et d'une partie pratique de 8 heures dans un centre de contrôle. La formation de remise à niveau est adaptée aux évolutions réglementaires intervenues au cours de la période d'absence d'activité.
+
+Cette formation comprend la formation prévue au C.2.1.2 pour l'année précédente. Dans le cas où une partie de la formation prévue au premier alinéa du C.2.1.2 est réalisée en téléformation, celle-ci est réalisée en présentiel dans le cadre de la remise à niveau.
+
+Si la durée de l'absence d'activité est supérieure à quatre ans, cette remise à niveau consiste en une formation initiale telle que prévue au B.2.1 de la présente annexe.
 
 D. 2.3. Dans tous les cas, la remise à niveau ne dispense pas des exigences de formation prévues au point C pour l'année civile en cours. Une traçabilité des dispositions mises en œuvre dans le cadre de la remise à niveau est assurée.
 
@@ -190,9 +200,15 @@ D. 3. Remise à niveau pour la qualification relative au contrôle technique des
 
 D. 3.1. En l'absence de la formation prévue au C. 3.1.2, le réseau ou la personne physique assurant l'exploitation du centre de contrôle non rattaché s'assure de la remise à niveau, pour le contrôle technique des véhicules de transports marchandises dangereuses, d'une durée minimale de 10 heures, avant le 31 mars de l'année en cours et avant toute reprise d'activité au-delà de cette échéance.
 
+Cette formation comprend la formation prévue au premier alinéa du C.3.1.2 pour l'année précédente. Dans le cas où une partie de la formation prévue au premier alinéa du C.3.1.2 est réalisée en téléformation, celle-ci est réalisée en présentiel dans le cadre de la remise à niveau.
+
 D. 3.2. En l'absence d'activité depuis plus d'un an, le réseau ou la personne physique assurant l'exploitation du centre de contrôle non rattaché s'assure de la remise à niveau avant toute reprise d'activité.
 
-Cette remise à niveau est composée d'une partie théorique, d'une durée minimale de 10 heures si la durée de l'absence d'activité est inférieure à trois ans (d'une durée minimale de 13 heures dans les autres cas) et d'une partie pratique de 8 heures dans un centre de contrôle. La formation de remise à niveau est adaptée aux évolutions réglementaires intervenues au cours de la période d'absence d'activité.
+Cette remise à niveau est composée d'une partie théorique, d'une durée minimale de 10 heures et d'une partie pratique de 8 heures dans un centre de contrôle. La formation de remise à niveau est adaptée aux évolutions réglementaires intervenues au cours de la période d'absence d'activité.
+
+Cette formation comprend la formation prévue au C.3.1.2 pour l'année précédente. Dans le cas où une partie de la formation prévue au premier alinéa du C.3.1.2 est réalisée en téléformation, celle-ci est réalisée en présentiel dans le cadre de la remise à niveau.
+
+Si la durée de l'absence d'activité est supérieure à quatre ans, cette remise à niveau consiste en une formation initiale telle que prévue au B.3.1 de la présente annexe.
 
 D. 3.3. Dans tous les cas, la remise à niveau ne dispense pas des exigences de formation prévues au point C pour l'année civile en cours. Une traçabilité des dispositions mises en œuvre dans le cadre de la remise à niveau est assurée.
 
@@ -245,3 +261,7 @@ G. 1. Qualification des formateurs délivrant des formations pour le contrôle t
 Pour délivrer des formations sur le contrôle technique des véhicules électriques ou hybrides, le formateur dispose d'une attestation de capacité délivrée par l'Union Technique de l'Automobile, du Cycle et du Motocycle (U. T. a. C.), autodrome de Linas-Montlhéry, 91310 Linas-Montlhéry, à l'issue d'une formation théorique et pratique traitant de la sécurité électrique, de la technologie et des modalités de contrôle, d'au minimum 10 heures, ayant donné lieu à une évaluation satisfaisante.
 
 Le formateur est en mesure de présenter son attestation de capacité sur demande des services de l'Etat.
+
+NOTA :
+
+Conformément à l'article 7 de l'arrêté du 18 août 2025 (NOR : ATDR2519918A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur au 1er janvier 2026.
