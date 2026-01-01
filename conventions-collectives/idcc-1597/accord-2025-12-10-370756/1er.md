@@ -1,0 +1,3 @@
+# Article 1er
+
+En application de l'article I-3 des conventions collectives nationales du bâtiment du 8 octobre 1990, étendues concernant d'une part les ouvriers du bâtiment employés dans les entreprises non visées par le décret du 1er mars 1962 (entreprises occupant plus de 10 salariés) et d'autre part les ouvriers du bâtiment employés dans les entreprises visées par le décret du 1er mars 1962 (entreprises occupant jusqu'à 10 salariés), les organisations d'employeurs et de salariés adhérentes aux organisations représentatives au niveau national se sont réunies et ont déterminé les montants des indemnités de petits déplacements des ouvriers du bâtiment des départements de la Drôme et de l'Ardèche.
