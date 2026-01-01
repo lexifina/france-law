@@ -2,7 +2,7 @@
 
 LISTE DES SUBSTANCES CONCERNÉES PAR LA REDEVANCE POUR POLLUTIONS DIFFUSES VISÉE À L'ARTICLE L. 213-10-8 DU CODE DE L'ENVIRONNEMENT
 
-1. Appartenant, en raison de leur cancérogénicité ou de leur mutagénicité sur les cellules germinales ou de leur toxicité pour la reproduction, à une classe de danger prévue par le règlement (CE) n° 1272/2008
+1° Appartenant, en raison de leur cancérogénicité ou de leur mutagénicité sur les cellules germinales ou de leur toxicité pour la reproduction, à une classe de danger prévue par le règlement (CE) n° 1272/2008 :
 
 Nom substance |
 
@@ -11,6 +11,14 @@ n° CAS |
 ä |
 
 Règlement |
+
+2 phenyl-phenol |
+
+90-43-7 |
+
+|
+
+540/2011 |
 
 6-benzyladenine |
 
@@ -100,11 +108,11 @@ amisulbrom |
 
 540/2011 |
 
-aminotriazole |
+amitrole |
 
 61-82-5 |
 
-|
+substitution |
 
 540/2011 |
 
@@ -137,14 +145,6 @@ benthiavalicarbe |
 177406-68-7 |
 
 exclusion |
-
-540/2011 |
-
-betacyfluthrine |
-
-68359-37-5 |
-
-|
 
 540/2011 |
 
@@ -239,14 +239,6 @@ cycloxydime |
 cyflumétofène |
 
 400882-07-7 |
-
-|
-
-540/2011 |
-
-cyfluthrine |
-
-68359-37-5 |
 
 |
 
@@ -409,14 +401,6 @@ flurochloridone |
 61213-25-0 |
 
 exclusion |
-
-540/2011 |
-
-flutriafol |
-
-76674-21-0 |
-
-|
 
 540/2011 |
 
@@ -728,13 +712,21 @@ proquinazid |
 
 189278-12-4 |
 
-|
+exclusion |
 
 540/2011 |
 
 pymetrozine |
 
 123312-89-0 |
+
+|
+
+540/2011 |
+
+pyraclostrobine |
+
+175013-18-0 |
 
 |
 
@@ -775,6 +767,14 @@ quizalofop-p-tefuryl |
 sedaxane |
 
 874967-67-6 |
+
+|
+
+540/2011 |
+
+s-metolachlore |
+
+87392-12-9 |
 
 |
 
@@ -884,7 +884,9 @@ valifenalate |
 
 540/2011 |
 
-2. Appartenant, en raison de leur toxicité aiguë de catégorie 1,2 ou 3 ou en raison de leur toxicité spécifique pour certains organes cibles, de catégorie 1, à la suite d'une exposition unique ou après une exposition répétée, soit en raison de leurs effets sur ou via l'allaitement, à une classe de danger prévue par le règlement (CE) n° 1272/2008
+(*) Substances entrant dans l'assiette de la redevance pour pollutions diffuses au titre du 5° du II de l'article L. 213-10-8 du code de l'environnement pour la mention " exclusion " et au titre du 6° de l'article L. 213-10-8 du code de l'environnement pour la mention " substitution " et soumises aux taux additionnels prévus au III du même article.
+
+2° Appartenant, en raison de leur toxicité aiguë de catégorie 1, 2 ou 3 ou en raison de leur toxicité spécifique pour certains organes cibles, de catégorie 1, à la suite d'une exposition unique ou après une exposition répétée, soit en raison de leurs effets sur ou via l'allaitement, à une classe de danger prévue par le règlement (CE) n° 1272/2008 :
 
 Nom substance |
 
@@ -1118,6 +1120,14 @@ substitution |
 
 540/2011 |
 
+mepiquat-chlorure |
+
+24307-26-4 |
+
+|
+
+540/2011 |
+
 methiocarbe |
 
 2032-65-7 |
@@ -1153,14 +1163,6 @@ phosphure de magnesium |
 phosphure de zinc |
 
 1314-84-7 |
-
-|
-
-540/2011 |
-
-pyraclostrobine |
-
-175013-18-0 |
 
 |
 
@@ -1206,14 +1208,6 @@ trifloxystrobine |
 
 540/2011 |
 
-zetacypermethrine |
-
-52315-07-8 |
-
-|
-
-540/2011 |
-
 zirame |
 
 137-30-4 |
@@ -1222,7 +1216,9 @@ zirame |
 
 540/2011 |
 
-3. Appartenant, en raison de leur toxicité aiguë pour le milieu aquatique de catégorie 1 ou de leur toxicité chronique pour le milieu aquatique de catégorie 1 ou 2, à une classe de danger prévue par le règlement (CE) n° 1272/2008
+(*) Substances entrant dans l'assiette de la redevance pour pollutions diffuses au titre du 5° du II de l'article L. 213-10-8 du code de l'environnement pour la mention " exclusion " et au titre du 6° de l'article L. 213-10-8 du code de l'environnement pour la mention " substitution " et soumises aux taux additionnels prévus au III du même article.
+
+3° Appartenant, en raison de leur toxicité aiguë pour le milieu aquatique de catégorie 1 ou de leur toxicité chronique pour le milieu aquatique de catégorie 1 ou 2, à une classe de danger prévue par le règlement (CE) n° 1272/2008 :
 
 Nom substance |
 
@@ -1267,14 +1263,6 @@ Règlement |
 1-tetradecanol |
 
 112-72-1 |
-
-|
-
-540/2011 |
-
-2 phenyl-phenol |
-
-90-43-7 |
 
 |
 
@@ -1564,7 +1552,7 @@ cyprodinyl |
 
 121552-61-2 |
 
-|
+exclusion |
 
 540/2011 |
 
@@ -1579,6 +1567,14 @@ dazomet |
 decane-1-ol |
 
 112-30-1 |
+
+|
+
+540/2011 |
+
+dicamba |
+
+1918-00-9 |
 
 |
 
@@ -1672,7 +1668,7 @@ substitution |
 
 540/2011 |
 
-pyrèthres naturels |
+extrait de pyrethre vegetal |
 
 8003-34-7 |
 
@@ -1700,7 +1696,7 @@ fenoxaprop-p-ethyl |
 
 71283-80-2 |
 
-|
+exclusion |
 
 540/2011 |
 
@@ -1748,7 +1744,7 @@ fludioxonil |
 
 131341-86-1 |
 
-|
+exclusion |
 
 540/2011 |
 
@@ -1756,7 +1752,7 @@ flufenacet |
 
 142459-58-3 |
 
-|
+exclusion |
 
 540/2011 |
 
@@ -1973,6 +1969,14 @@ methoxyfenozide |
 161050-58-4 |
 
 substitution |
+
+540/2011 |
+
+methyl-2,5-dichlorobenzoate |
+
+2905-69-3 |
+
+|
 
 540/2011 |
 
@@ -2240,14 +2244,6 @@ silthiofam |
 
 540/2011 |
 
-s-metolachlore |
-
-87392-12-9 |
-
-|
-
-540/2011 |
-
 spinosad |
 
 168316-95-8 |
@@ -2408,15 +2404,9 @@ zoxamide |
 
 540/2011 |
 
-zirame |
+(*) Substances entrant dans l'assiette de la redevance pour pollutions diffuses au titre du 5° du II de l'article L. 213-10-8 du code de l'environnement pour la mention " exclusion " et au titre du 6° de l'article L. 213-10-8 du code de l'environnement pour la mention " substitution " et soumises aux taux additionnels prévus au III du même article.
 
-137-30-4 |
-
-|
-
-540/2011 |
-
-4. Appartenant, en raison de leur toxicité chronique pour le milieu aquatique de catégorie 3 ou 4, à une classe de danger prévue par le règlement (CE) n° 1272/2008
+4° Appartenant, en raison de leur toxicité chronique pour le milieu aquatique de catégorie 3 ou 4, à une classe de danger prévue par le règlement (CE) n° 1272/2008 :
 
 Nom substance |
 
@@ -2466,9 +2456,9 @@ clethodime |
 
 540/2011 |
 
-dicamba |
+dicamba (sel de dimethylamine) |
 
-1918-00-9 |
+2300-66-5 |
 
 |
 
@@ -2485,14 +2475,6 @@ fluroxypyr |
 isoxaben |
 
 82558-50-7 |
-
-|
-
-540/2011 |
-
-mepiquat-chlorure |
-
-24307-26-4 |
 
 |
 
@@ -2530,6 +2512,8 @@ triclopyr |
 
 540/2011 |
 
+(*) Substances entrant dans l'assiette de la redevance pour pollutions diffuses au titre du 5° du II de l'article L. 213-10-8 du code de l'environnement pour la mention " exclusion " et au titre du 6° de l'article L. 213-10-8 du code de l'environnement pour la mention " substitution " et soumises aux taux additionnels prévus au III du même article.
+
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 2 décembre 2024 (NOR : TECL2423543A), ces dispositions sont applicables à compter du 1er janvier 2025.
+Conformément à l’article 2 de l’arrêté du 17 décembre 2025 (NOR : TECL2531307A), ces dispositions sont applicables à compter du 1er janvier 2026.
