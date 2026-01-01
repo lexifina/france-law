@@ -60,7 +60,7 @@ Ces vérifications font l'objet d'un rapport de vérifications réglementaires a
 
 -les installations d'appareils de cuisson ou de réchauffage destinés à la restauration dans les conditions fixées à l'article GC 22 du règlement de sécurité des établissements recevant du public ;
 
--les installations de chauffage et de cuisine telles qu'elles sont prévues au paragraphe 2 des articles CH 58 et GZ 30 du règlement de sécurité des établissements recevant du public ;
+-les installations de chauffage et de cuisine telles qu'elles sont prévues au paragraphe 2 des articles CH 58 et GZ 15 du règlement de sécurité des établissements recevant du public ;
 
 3.1.3. Tous les deux ans :
 
@@ -283,3 +283,7 @@ Le rapport comporte au minimum trois parties :
 -les avis relatifs à la conformité prévus au paragraphe 1.2 ci-dessus, adaptés à la réglementation applicable au moment du dépôt de la demande de permis de construire ou d'autorisation de travaux. En l'absence des justificatifs relatifs aux classements du comportement au feu des matériaux et éléments de construction, le vérificateur procède, dans la mesure du possible, à une estimation du comportement au feu de ces matériaux et éléments de construction, et les avis sont alors ceux prévus au paragraphe 2.2 ci-dessus. En cas d'impossibilité d'évaluer la conformité, notamment lorsque cette évaluation nécessiterait des essais destructifs non autorisés par l'exploitant, le vérificateur fait apparaître les motifs de l'impossibilité dans son rapport ;
 
 -le contenu des vérifications réglementaires en exploitation dans les conditions fixées au paragraphe 2.2 ci-dessus.
+
+NOTA :
+
+Conformément à l'article 7 de l'arrêté du 1er septembre 2025 (NOR : INTE2524210A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur le 1er janvier 2026.
