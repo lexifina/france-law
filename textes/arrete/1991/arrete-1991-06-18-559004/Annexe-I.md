@@ -398,6 +398,18 @@ Non-concordance entre le document d'identification complémentaire et le documen
 
 Mineure |
 
+0.7 CAMPAGNE DE RAPPEL
+
+0.7.1. RAPPEL CONSTRUCTEUR GRAVE AVEC DEMANDE DE CESSER DE CONDUIRE LE VÉHICULE
+
+0.7.1. a. 3. |
+
+Véhicule, identifié par le constructeur ou son mandataire comme présentant un risque grave pour la sécurité routière, la santé publique ou l'environnement, dont il a demandé de cesser immédiatement l'utilisation et n'ayant pas été réparé |
+
+|
+
+Critique |
+
 1. ÉQUIPEMENTS DE FREINAGE
 
 1.1. ÉTAT MÉCANIQUE ET FONCTIONNEMENT
@@ -6343,3 +6355,7 @@ L'opacité des fumées en accélération libre, mesurée par leur coefficient d'
 -0,7 m-1 pour les véhicules réceptionnés selon la norme européenne d'émission Euro 6 .
 
 Dans tous les autres cas, lorsque le résultat d'un contrôle technique est défavorable au titre d'un point de contrôle, la contre-visite porte sur l'ensemble de points correspondant.
+
+NOTA :
+
+Conformément à l’article 11 de l’arrêté du 8 décembre 2025 (NOR : TRAR2522322A), ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur le 1er janvier 2026.

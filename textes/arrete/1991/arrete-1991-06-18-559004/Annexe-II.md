@@ -166,9 +166,17 @@ En cas de discordance entre le numéro de frappe à froid relevé sur le châssi
 
 En cas de constat de l'une des défaillances 8.2.12. d. 1,8.2.12. d. 2,8.2.22. c. 1 ou 8.2.22. c. 2, la mention “ Code (s) défaut (s) standard (s) relevé (s) concernant le dispositif antipollution : ” suivie de la liste de l'ensemble des codes défauts standards relevés à l'aide du dispositif de diagnostic des systèmes embarqués de contrôle des émissions polluantes prévu au point 8 du A de l'annexe III du présent arrêté, dès lors que ceux-ci concernent les éléments surveillés du dispositif antipollution du véhicule et les niveaux d'émissions par rapport aux valeurs limites applicables.
 
+En cas de constat de la défaillance du point 0.7.1., la défaillance est suivie de l'indication du code rappel du constructeur et du libellé du rappel.
+
+Pour les véhicules concernés par une campagne de rappel “ graves ” mais sans demande de cesser de circuler par le constructeur ou son mandataire, “ Votre véhicule est concerné par la campagne de rappel [code rappel du constructeur et libellé du rappel]. Veuillez vérifier que votre véhicule a fait l'objet des réparations nécessaires auprès du garagiste/ concessionnaire de la marque de votre véhicule. Si tel est le cas, ne pas tenir compte de ce commentaire. ” Ce commentaire n'est ni saisissable ni supprimable par le contrôleur.
+
+Dans le cas où au moins une donnée de contact est collectée, “ Afin de faciliter les campagnes de rappel " graves ", vos données de contact ont été collectées. Pour exercer vos droits d'accès, rectification ou suppression de vos données, veuillez consulter le site internet www. utacotc. com, rubrique " infos pratiques ". ”. Ce commentaire n'est ni saisissable ni supprimable par le contrôleur. Ce commentaire cesse d'être imprimé lorsque cette mention figure au verso du procès-verbal.
+
 Lorsque le contrôle a été réalisé dans les conditions prévues à l’article 32-4 du présent arrêté, Validité du présent contrôle technique limitée exclusivement au territoire suivant : xxxxxx , xxxxxx correspondant au territoire concerné.
 
 En cas d'absence de liaison du logiciel de contrôle avec le système d'immatriculation des véhicules (SIV) pendant tout ou partie du contrôle, "Contrôle de cohérence du kilométrage avec les kilométrages relevés lors des contrôles techniques précédents non réalisé".
+
+En cas d'absence de liaison du logiciel de contrôle avec le système d'immatriculation des véhicules (SIV) pendant tout ou partie du contrôle, “ Vérification non réalisée du statut du véhicule en lien avec une campagne de rappel " grave ". Pour connaître les informations relatives au statut du véhicule, vous pouvez consulter le site histovec. interieur. gouv. fr ou vous rapprochez du constructeur, de son mandataire ou d'un concessionnaire agréé par celui-ci. ”
 
 En cas de présence de la défaillance 7.11.1.a.1., "Le contrôle de cohérence du kilométrage est réalisé à partir des kilométrages relevés lors des contrôles réalisés depuis le 20 mai 2018".
 
@@ -233,6 +241,10 @@ Le verso du procès-verbal comporte exclusivement les mentions suivantes :
 -“ La contre-visite doit avoir lieu dans un délai maximal de deux mois après le contrôle technique. Passé ce délai, un nouveau contrôle technique est obligatoire. Lorsque la contre-visite est réalisée dans un centre différent de celui où a été réalisé le contrôle technique périodique, le procès-verbal du contrôle technique périodique doit obligatoirement être présenté au contrôleur, faute de quoi un contrôle technique complet est réalisé. Les points ou ensembles de points à contrôler lors de la contre-visite sont définis à l'annexe I de l'arrêté du 18 juin 1991 modifié (véhicules légers) ou de l'arrêté relatif au contrôle technique des véhicules motorisés à deux ou trois roues et quadricycles à moteur ” ;
 
 -“ Vous disposez d'un droit d'accès et de rectification des informations nominatives vous concernant. Vous pouvez exercer ce droit en vous adressant au centre ayant édité le présent procès-verbal ”.
+
+-“ Afin de faciliter les campagnes de rappel " graves ", vos données de contact ont été collectées. Pour exercer vos droits d'accès, rectification ou suppression de vos données, veuillez consulter le site internet www.utac-otc.com, rubrique " infos pratiques ". ”
+
+Cette mention figure au verso du procès-verbal au plus tard le 1er décembre 2026.
 
 -La signalétique prévue à l'article L. 541-9-3 du code de l'environnement.
 
@@ -407,3 +419,7 @@ Le timbre est autocollant et comporte un pré-découpage entraînant son déchir
 Il ne permet également pas, du moins sans sa destruction partielle ou totale, un quelconque effacement des informations variables qui y sont portées.
 
 Sa sécurité peut, en outre, être renforcée par la présence d'un pictogramme latent révélable sur toute photocopie.
+
+NOTA :
+
+Conformément à l'article 11 de l'arrêté du 8 décembre 2025 (NOR : TRAR2522322A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entre en vigueur le 1er janvier 2026.
