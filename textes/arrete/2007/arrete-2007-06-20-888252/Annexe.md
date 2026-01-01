@@ -124,25 +124,235 @@ A N N E X E V
 
 INFORMATIONS RELATIVES À LA QUALITÉ
 
-DE L'EAU CONDITIONNÉE
+DE L'EAU, UTILISÉE POUR PRODUIRE DE L'EAU CONDITIONNÉE
 
-5.1. Eau de source et eau rendue potable par traitement d'origine souterraine :
+5.1. Eau d'origine souterraine utilisée pour produire de l'eau de source ou de l'eau rendue potable par traitement conditionnée :
 
 Deux analyses représentatives de deux situations saisonnières différentes sur le plan quantitatif.
 
-Vous pouvez consulter le tableau dans le JO
+PARAMÈTRES À RECHERCHER À L'ÉMERGENCE |
 
-n° 158 du 10/07/2007 texte numéro 16
+A. - Paramètres microbiologiques
 
-5.2. Eau rendue potable par traitement d'origine superficielle :
+Spores de micro-organismes anaérobies sulfito-réducteurs dans 50 mL
+
+Bactéries coliformes et Escherichia coli dans 250 mL
+
+Cryptosporidium, Giardia dans 100 L
+
+Entérocoques intestinaux dans 250 mL
+
+Legionella sp., Legionella pneumophila dans 1 L
+
+Numération des germes aérobies revivifiables à 22 °C et à 36 °C dans 1 mL
+
+Pseudomonas aeruginosa (analyse à réaliser au moins trois jours après le prélèvement ou le conditionnement) dans 250 mL |
+
+B. - Paramètres physiques et physico-chimiques
+
+Paramètres généraux :
+
+Couleur, odeur, saveur
+
+Carbone organique total
+
+Conductivité mesurée sur place, à la température d'émergence (résultats exprimés en µS/cm à 25 °C)
+
+Dioxyde de carbone (analyse sur place ou après piégeage sur place quand l'eau est gazeuse)
+
+Oxygène dissous (mesure sur place ou après piégeage sur place)
+
+PH (mesure sur place)
+
+Potentiel d'oxydo-réduction (mesure sur place et expression par rapport à l'électrode de référence à l'hydrogène)
+
+Résidu sec à 180 °C
+
+Sulfures totaux (exprimés en mg/l de H2S) (analyse sur place ou après piégeage sur place)
+
+Température (mesure sur place)
+
+Turbidité
+
+Constituants minéraux :
+
+Aluminium
+
+Ammonium
+
+Antimoine
+
+Arsenic
+
+Baryum
+
+Béryllium
+
+Bore
+
+Bromures
+
+Cadmium
+
+Calcium
+
+Chrome
+
+Cuivre
+
+Chlore total (analyse sur place)
+
+Chlorates
+
+Chlorites
+
+Chlorures
+
+Cyanures totaux
+
+Fer
+
+Fluorures
+
+Iodures
+
+Lithium
+
+Magnésium
+
+Manganèse
+
+Mercure
+
+Nickel
+
+Nitrates
+
+Nitrites
+
+Orthophosphates
+
+Plomb
+
+Potassium
+
+Sélénium
+
+Silice soluble (exprimée en SiO2)
+
+Sodium
+
+Strontium
+
+Sulfates
+
+Titre alcalimétrique (TA)
+
+Titre alcalimétrique complet (TAC)
+
+Uranium
+
+Zinc
+
+Constituants organiques :
+
+Agents de surface réagissant au bleu de méthylène
+
+Benzène, toluène, éthylbenzène, xylènes
+
+Trihalométhanes (THM) : chloroforme, bromoforme, dibromochlorométhane, bromodichlorométhane
+
+Chlorure de vinyle
+
+1,2-dichloroéthane
+
+Hydrocarbures aromatiques polycycliques :
+
+- benzo[a]pyrène
+
+- benzo[b]fluoranthène
+
+- benzo[ghi]pérylène
+
+- benzo[k]fluoranthène
+
+- fluoranthène
+
+- indéno[1,2,3-cd]pyrène
+
+Hydrocarbures dissous
+
+Indice phénol
+
+Pesticides (1)
+
+Perfluorés (par substance individuelle) (2)
+
+Analyse de la radioactivité (selon l'arrêté du 12 mai 2004) :
+
+Activité alpha globale (3)
+
+Activité bêta globale (3)
+
+Activité tritium (3)
+
+Autres radionucléides pour le calcul de la dose indicative (DI) (3) |
+
+(1) Par pesticides, on entend les insecticides, herbicides, fongicides, nématocides, acaricides, algicides, rodenticides, produits antimoisissures organiques et produits apparentés notamment les régulateurs de croissance et leurs métabolites, produits de réaction et de dégradation pertinents). Par total des pesticides, on entend la somme de tous les pesticides individualisés détectés et quantifiés.
+
+(2) Les substances susceptibles d'être présentes doivent être recherchées en priorité. A minima, les substances suivantes, qui sont considérées comme préoccupantes pour les EDCH, doivent être recherchées :
+
+- Acide perfluorobutanoïque (PFBA)
+
+- Acide perfluoropentanoïque (PFPeA)
+
+- Acide perfluorohexanoïque (PFHxA)
+
+- Acide perfluoroheptanoïque (PFHpA)
+
+- Acide perfluoroctanoïque (PFOA)
+
+- Acide perfluorononanoïque (PFNA)
+
+- Acide perfluorodécanoïque (PFDA)
+
+- Acide perfluoroundécanoïque (PFUnDA)
+
+- Acide perfluorododécanoïque (PFDoDA)
+
+- Acide perfluorotridécanoïque (PFTrDA)
+
+- Acide perfluorobutanesulfonique (PFBS)
+
+- Acide perfluoropentanesulfonique (PFPeS)
+
+- Acide perfluorohexane sulfonique (PFHxS)
+
+- Acide perfluoroheptane sulfonique (PFHpS)
+
+- Acide perfluorooctane sulfonique (PFOS)
+
+- Acide perfluorononane sulfonique (PFNS)
+
+- Acide perfluorodécane sulfonique (PFDS)
+
+- Acide perfluoroundécane sulfonique
+
+- Acide perfluorododécane sulfonique
+
+- Acide perfluorotridécane sulfonique
+
+(3) En cas de valeurs supérieures à 0,1 Bq/L (activité alpha globale), 1,0 Bq/L (activité bêta globale) ou 100 Bq/L (activité tritium), il est procédé à l'analyse des radionucléides spécifiques définis dans l'arrêté du 12 mai 2004 mentionné à l'article R. 1321-20. |
+
+5.2. Eau d'origine superficielle utilisée pour produire de l'eau de source ou de l'eau rendue potable par traitement conditionnée :
 
 Les deux analyses prévues au point 5.1 sont complétées par la recherche des paramètres suivants :
 
-1° Total microcystine et polyacrylamide ;
+1° Total microcystines (si les observations visuelles et/ou analytiques mettent en évidence un risque de prolifération de cyanobactéries) et polyacrylamide ;
 
 2° Une série de douze analyses mensuelles portant sur les paramètres représentatifs des rejets d'activités s'exerçant à l'amont de la prise d'eau.
 
-5.3. Eau rendue potable par traitement conditionnée à partir du réseau public de distribution :
+5.3. Eau du réseau public de distribution utilisée pour produire de l'eau rendue potable par traitement conditionnée :
 
 Les analyses des paramètres mentionnés au point 5.1, effectuées sur des échantillons prélevés au point d'alimentation des installations, complétées par l'analyse des paramètres suivants :
 
@@ -150,10 +360,8 @@ Les analyses des paramètres mentionnés au point 5.1, effectuées sur des écha
 
 - bromates ;
 
-- chlorates ;
-
 - iodates.
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 30 décembre 2022 (NOR : SPRP2222070A), ces dispositions entrent en vigueur le 1er janvier 2023.
+Conformément à l’article 2 de l’arrêté du 30 décembre 2022 (NOR : SPRP2222070A), ces dispositions entrent en vigueur le 1er janvier 2026.
