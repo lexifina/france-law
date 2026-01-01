@@ -4,7 +4,7 @@ Titre Ier
 
 ÉTABLISSEMENT DES LISTES ÉLECTORALES
 
-I-1. Le directeur de l'Ecole nationale de voile et des sports nautiques établit pour chaque collège la liste des électeurs et des personnes éligibles conformément aux dispositions de la présente annexe et des articles A. 211-39 à A. 211-42.
+I-1. Le directeur de l'Institut national du nautisme établit pour chaque collège la liste des électeurs et des personnes éligibles conformément aux dispositions de la présente annexe et des articles A. 211-39 à A. 211-42.
 
 I-2. Le directeur organise la publicité de ces listes, notamment par voie d'affichage. Toute réclamation doit être adressée par lettre recommandée avec avis de réception, dans les huit jours suivant la date de publicité, au directeur. Celui-ci statue sur le bien-fondé des réclamations et arrête dans le même délai la liste électorale définitive.
 
@@ -36,7 +36,7 @@ Les candidats peuvent accompagner leur candidature d'une profession de foi.
 
 II-2 b. Matériels de vote
 
-La confection des bulletins de vote et des enveloppes destinées au vote, qui doivent être d'un modèle unique, incombe à l'Ecole nationale de voile et des sports nautiques.
+La confection des bulletins de vote et des enveloppes destinées au vote, qui doivent être d'un modèle unique, incombe à l'Institut national du nautisme.
 
 L'école fait parvenir, en temps utile, aux électeurs, sous enveloppe libellée à leur nom :
 
@@ -54,7 +54,7 @@ Les électeurs doivent exclusivement utiliser le matériel de vote fourni par l'
 
 Le vote, sous peine de nullité, doit être exprimé à l'aide d'un seul bulletin de vote ne comportant ni rature, ni signe distinctif, ni surcharge. Ce bulletin est glissé par l'électeur dans une enveloppe qui, également, ne doit comporter aucun signe de reconnaissance.
 
-Le vote sur place a lieu à l'Ecole nationale de voile et des sports nautiques le jour du scrutin.
+Le vote sur place a lieu à l'Institut national du nautisme le jour du scrutin.
 
 Le vote par correspondance est admis pour l'ensemble des électeurs. Tous les votes par correspondance sont adressés à la boîte postale ouverte à cette fin au bureau de poste du siège de l'école.
 
@@ -142,10 +142,14 @@ Le procès-verbal mentionne :
 
 6. Les difficultés et incidents survenus.
 
-La copie de ce procès-verbal est affichée par les soins du directeur de l'Ecole nationale de voile et des sports nautiques.
+La copie de ce procès-verbal est affichée par les soins du directeur de l'Institut national du nautisme.
 
 III-2. Contestations
 
-Les contestations sur la validité des opérations électorales sont portées devant le directeur de l'Ecole nationale de voile et des sports nautiques dans un délai de cinq jours à compter de la proclamation des résultats.
+Les contestations sur la validité des opérations électorales sont portées devant le directeur de l'Institut national du nautisme dans un délai de cinq jours à compter de la proclamation des résultats.
 
 Celui-ci doit statuer dans un délai de huit jours, à l'issue duquel la demande est réputée rejetée.
+
+NOTA :
+
+Conformément à l'article 4 du décret n° 2025-1054, ces dispositions, dans leur rédaction issue de l'article 2 dudit décret, entrent en vigueur le 1er janvier 2026.

@@ -118,7 +118,7 @@ Vote à l'urne à titre exclusif |
 
 CCP |
 
-Institut Supérieur de Mécanique de Paris - ISAE SUPMECA |
+Institut Supérieur de Mécanique de Paris-ISAE SUPMECA |
 
 CSA |
 
@@ -306,7 +306,7 @@ Vote à l'urne à titre exclusif |
 
 CCP |
 
-CROUS de Caen - Normandie |
+CROUS de Caen-Normandie |
 
 CSA |
 
@@ -338,7 +338,7 @@ Vote à l'urne à titre exclusif |
 
 CCP |
 
-CROUS Grenoble - Alpes |
+CROUS Grenoble-Alpes |
 
 CSA |
 
@@ -346,7 +346,7 @@ Vote à l'urne à titre exclusif |
 
 CCP |
 
-CROUS Lille - Nord-Pas-de-Calais |
+CROUS Lille-Nord-Pas-de-Calais |
 
 CSA |
 
@@ -378,7 +378,7 @@ Vote à l'urne à titre exclusif |
 
 CCP |
 
-CROUS Montpellier - Occitanie |
+CROUS Montpellier-Occitanie |
 
 CSA |
 
@@ -386,7 +386,7 @@ Vote à l'urne à titre exclusif |
 
 CCP |
 
-CROUS Nantes - Pays de la Loire |
+CROUS Nantes-Pays de la Loire |
 
 CSA |
 
@@ -394,7 +394,7 @@ Vote à l'urne à titre exclusif |
 
 CCP |
 
-CROUS Nice - Toulon |
+CROUS Nice-Toulon |
 
 CSA |
 
@@ -402,7 +402,7 @@ Vote à l'urne à titre exclusif |
 
 CCP |
 
-CROUS Orléans -Tours |
+CROUS Orléans-Tours |
 
 CSA |
 
@@ -466,7 +466,7 @@ Vote à l'urne à titre exclusif |
 
 CCP |
 
-CROUS Toulouse - Occitanie |
+CROUS Toulouse-Occitanie |
 
 CSA |
 
@@ -486,7 +486,7 @@ Centre national des œuvres universitaires et scolaires (CNOUS)
 
 |
 
-CSA commun CROUS/CNOUS |
+CSA commun CROUS/ CNOUS |
 
 Vote à l'urne et vote par correspondance |
 
@@ -574,7 +574,7 @@ CSA
 
 Vote à l'urne et vote par correspondance |
 
-Ecole nationale de voile et des sports nautiques (ENVSN) |
+Institut national du nautisme (I2N) |
 
 CSA
 
@@ -735,3 +735,9 @@ CSA |
 Vote à l'urne et vote par correspondance |
 
 CCP |
+
+NOTA :
+
+Conformément à l'article 4 du décret n° 2025-1054, ces dispositions, dans leur rédaction issue de l'article 2 dudit décret, entrent en vigueur le 1er janvier 2026.
+
+Conformément au VII de l'article 2 du décret n° 2025-1054, ces dispositions peuvent être modifiées dans les formes requises pour leur modification antérieurement à la date d'entrée en vigueur du présent décret.

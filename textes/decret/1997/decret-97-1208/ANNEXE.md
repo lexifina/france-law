@@ -30,73 +30,55 @@ Code du sport
 
 Décision de nomination du président du conseil d'administration d'un centre de ressources, d'expertise et de performance sportive. |
 
-Art. R. 114-6
-
-|
+Art. R. 114-6 |
 
 2 |
 
 Décision d'agrément d'une fédération sportive. |
 
-Art. L. 131-8
-
-|
+Art. L. 131-8 |
 
 3 |
 
 Octroi d'une délégation à une fédération sportive. |
 
-Art. L. 131-14
-
-|
+Art. L. 131-14 |
 
 4 |
 
-Désignation de trois personnalités qualifiées siégeant au conseil d'administration de l'Ecole nationale de voile et des sports nautiques et décision de nomination du président du conseil d'administration |
+Désignation de trois personnalités qualifiées siégeant au conseil d'administration de l'Institut national du nautisme et décision de nomination du président du conseil d'administration |
 
-Art. D. 211-39 et D. 211-40
-
-|
+Art. D. 211-39 et D. 211-40 |
 
 5 |
 
 Désignation de deux personnalités qualifiées siégeant au conseil d'administration de l'Ecole nationale des sports de montagne et décision de nomination du président du conseil d'administration |
 
-Art. D. 211-55 et D. 211-56
-
-|
+Art. D. 211-55 et D. 211-56 |
 
 6 |
 
 Décision d'admission ou de refus d'équivalence des diplômes étrangers aux diplômes français ouvrant droit à l'exercice des activités mentionnées à l'article L. 212-1 du code du sport. |
 
-Art. R. 212-84
-
-|
+Art. R. 212-84 |
 
 7 |
 
 Inscription sur la liste des sportifs, entraîneurs, arbitres et juges de haut niveau. |
 
-Art. L. 221-2, 1er alinéa
-
-|
+Art. L. 221-2, 1er alinéa |
 
 8 |
 
 Décision de validation des projets de performance fédéraux. |
 
-Art. R. 221-22
-
-|
+Art. R. 221-22 |
 
 9 |
 
 Décision d'inscription sur la liste des pôles France et des pôles Espoirs. |
 
-Art. R. 221-24
-
-|
+Art. R. 221-24 |
 
 Décret n° 69-942 du 14 octobre 1969 relatif aux caractéristiques et aux modalités d'attribution de la médaille de la jeunesse, des sports et de l'engagement associatif
 
@@ -131,3 +113,9 @@ Décisions à caractère financier prises pour l'exécution des décisions de ju
 Décisions amiables d'indemnisation des préjudices résultant de la mise en cause de la responsabilité de l'Etat à l'occasion de l'activité des services du ministère des sports. |
 
 |
+
+NOTA :
+
+Conformément à l'article 4 du décret n° 2025-1054, ces dispositions, dans leur rédaction issue de l'article 2 dudit décret, entrent en vigueur le 1er janvier 2026.
+
+Conformément au VII de l'article 2 du décret n° 2025-1054, ces dispositions peuvent être modifiées dans les formes requises pour leur modification antérieurement à la date d'entrée en vigueur du présent décret.

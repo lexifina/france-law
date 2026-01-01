@@ -110,7 +110,7 @@ Musée national du sport |
 
 48,15 |
 
-Ecole nationale de voile et des sports nautiques |
+Institut national du nautisme |
 
 47 |
 
@@ -133,3 +133,9 @@ Ecole nationale des sports de montagne |
 40,43 |
 
 59,57 |
+
+NOTA :
+
+Conformément à l'article 4 du décret n° 2025-1054, ces dispositions, dans leur rédaction issue de l'article 2 dudit décret, entrent en vigueur le 1er janvier 2026.
+
+Conformément au VII de l'article 2 du décret n° 2025-1054, ces dispositions peuvent être modifiées dans les formes requises pour leur modification antérieurement à la date d'entrée en vigueur du présent décret.

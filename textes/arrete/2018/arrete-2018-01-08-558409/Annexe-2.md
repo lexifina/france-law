@@ -8,21 +8,13 @@ Emplois de vice-recteur mentionnés au décret n° 2016-1413 du 20 octobre 2016 
 
 Emploi de directeur du service interacadémique des examens et concours mentionné aux articles D. 222-4 et D. 222-5 du code de l'éducation |
 
-Emploi de directeur général de l'Office national d'information sur les enseignements et les professions mentionné à l'article R. 313-19 du code de l'éducation
+Emploi de directeur général de l'Office national d'information sur les enseignements et les professions mentionné à l'article R. 313-19 du code de l'éducation |
 
-|
+Emploi de directeur général de France Education international mentionné à l'article R. 314-60 du code de l'éducation |
 
-Emploi de directeur général de France Education international mentionné à l'article R. 314-60 du code de l'éducation
+Emploi de directeur général du Réseau Canopé mentionné à l'article R. 314-81 du code de l'éducation |
 
-|
-
-Emploi de directeur général du Réseau Canopé mentionné à l'article R. 314-81 du code de l'éducation
-
-|
-
-Emploi de président du Centre national des œuvres universitaires et scolaires mentionné à l'article R. 822-4 du code de l'éducation
-
-|
+Emploi de président du Centre national des œuvres universitaires et scolaires mentionné à l'article R. 822-4 du code de l'éducation |
 
 Emplois de directeur général de centre régional des œuvres universitaires et scolaires mentionnés au décret n° 2010-174 du 23 février 2010 modifié relatif à l'emploi de directeur général de centre régional des œuvres universitaires et scolaires |
 
@@ -176,8 +168,14 @@ Emploi de directeur de l'Institut national supérieur de formation et de recherc
 
 Emploi de directeur général de l'Institut national du sport, de l'expertise et de la performance mentionné à l'article R. 211-8 du code du sport |
 
-Emploi de directeur de l'Ecole nationale de voile et des sports nautiques mentionné à l'article D. 211-46 du code du sport |
+Emploi de directeur de l'Institut national du nautisme mentionné à l'article D. 211-46 du code du sport |
 
 Emploi de directeur général de l'Ecole nationale des sports de montagne mentionné à l'article D. 211-61 du code du sport |
 
 Emplois de directeur de centre de ressources, d'expertise et performance sportives mentionnés à l'article R. 114-11 du code du sport |
+
+NOTA :
+
+Conformément à l'article 4 du décret n° 2025-1054, ces dispositions, dans leur rédaction issue de l'article 2 dudit décret, entrent en vigueur le 1er janvier 2026.
+
+Conformément au VII de l'article 2 du décret n° 2025-1054, ces dispositions peuvent être modifiées dans les formes requises pour leur modification antérieurement à la date d'entrée en vigueur du présent décret.

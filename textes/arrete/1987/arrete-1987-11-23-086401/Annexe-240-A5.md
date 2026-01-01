@@ -218,13 +218,13 @@ Chaque pratiquant porte un équipement individuel de flottabilité (EIF) d'au mo
 
 Une VHF est embarquée sur chaque bateau d'encadrement et d'intervention |
 
-ÉCOLE NATIONALE DE VOILE ET DES SPORTS NAUTIQUES (ENVSN)
+INSTITUT NATIONAL DU NAUTISME (I2N)
 
 I.-Exemption accordée pour les voiliers de moins de 250 kg, les planches à voile et les planches aérotractées évoluant en navigation diurne, à moins de 2 milles d'un abri, dans le cadre :
 
 -de pratiques encadrées (le/ les encadrants est/ sont sur l'eau, avec son/ leur groupe) d'enseignement, de découverte, d'entrainement ou de compétition ; et
 
--de pratiques organisées par l'ENVSN.
+-de pratiques organisées par l'I2N.
 
 (PV CCS INF 948/406.03 du 2 septembre 2020)
 
@@ -232,7 +232,7 @@ Ne bénéficie (nt) en aucun cas des exemptions ci-dessous :
 
 -le ou les encadrants, accompagnant le groupe ;
 
--les voiliers de moins de 250 kg, planches à voiles et planches aérotractées évoluant à moins de 2 milles d'un abri en pratique isolée ou non-encadrée par l'ENVSN.
+-les voiliers de moins de 250 kg, planches à voiles et planches aérotractées évoluant à moins de 2 milles d'un abri en pratique isolée ou non-encadrée par l'I2N.
 
 Exemption accordée |
 
@@ -274,13 +274,13 @@ III.-Exemption accordée pour tous les voiliers évoluant en navigation diurne, 
 
 -de pratiques encadrées (le/ les encadrants est/ sont sur l'eau, avec son/ leur groupe) d'enseignement, de formation, de découverte, d'entrainement ou de compétition ; et
 
--de pratiques organisées par l'ENVSN.
+-de pratiques organisées par l'I2N.
 
 Ne bénéficie (nt) en aucun cas des exemptions ci-dessous :
 
 -le ou les encadrants, accompagnant le groupe ;
 
--les voiliers évoluant à moins de 2 milles d'un abri en pratique isolée ou non-encadrée par l'ENVSN.
+-les voiliers évoluant à moins de 2 milles d'un abri en pratique isolée ou non-encadrée par l'I2N.
 
 Exemption accordée |
 
@@ -306,13 +306,13 @@ IV.-Exemption accordée pour les voiliers de moins de 250 kg évoluant en naviga
 
 -de pratiques encadrées (le/ les encadrants est/ sont sur l'eau, avec son/ leur groupe) d'enseignement, de découverte, d'entrainement et de compétition ; et
 
--de pratiques organisées par l'ENVSN.
+-de pratiques organisées par l'I2N.
 
 Ne bénéficie (nt) en aucun cas des exemptions ci-dessous :
 
 -le ou les encadrants, accompagnant le groupe.
 
-Les voiliers de moins de 250 kg évoluant à moins de 6 milles d'un abri en pratique isolée ou non-encadrée par l'ENVSN.
+Les voiliers de moins de 250 kg évoluant à moins de 6 milles d'un abri en pratique isolée ou non-encadrée par l'I2N.
 
 Exemption accordée |
 
@@ -333,3 +333,9 @@ Chaque pratiquant embarque le matériel d'armement et de sécurité basique.
 Chaque pratiquant porte un équipement individuel de flottabilité (EIF) d'au moins 50 de niveau de performance
 
 Une VHF est embarquée sur chaque bateau d'encadrement et d'intervention |
+
+NOTA :
+
+Conformément à l'article 4 du décret n° 2025-1054, ces dispositions, dans leur rédaction issue de l'article 2 dudit décret, entrent en vigueur le 1er janvier 2026.
+
+Conformément au VII de l'article 2 du décret n° 2025-1054, ces dispositions peuvent être modifiées dans les formes requises pour leur modification antérieurement à la date d'entrée en vigueur du présent décret.
