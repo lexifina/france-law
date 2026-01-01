@@ -16,7 +16,7 @@ Commandant de la section d'appui judiciaire :
 
 -commandant en second de la section d'appui judiciaire de la région de gendarmerie d'Ile-de-France.
 
-Commandant en second ou adjoint de l'escadron départemental de sécurité routière jusqu'au 31 août 2025 et commandant en second ou adjoint de l'escadron départemental de contrôle des flux à compter du 1 er septembre 2025 (1 emploi) :
+Commandant en second ou adjoint de l'escadron départemental de contrôle des flux (1 emploi) :
 
 -de l'Ain ;
 
@@ -74,7 +74,7 @@ Commandant en second ou adjoint de l'escadron départemental de sécurité routi
 
 -de l'Hérault ;
 
--de l'Ille-et-Vilaine ;
+-d'Ille-et-Vilaine ;
 
 -de l'Indre ;
 
@@ -104,7 +104,7 @@ Commandant en second ou adjoint de l'escadron départemental de sécurité routi
 
 -de la Marne ;
 
--de la Meurthe-et-Moselle ;
+-de Meurthe-et-Moselle ;
 
 -du Morbihan ;
 
@@ -132,7 +132,7 @@ Commandant en second ou adjoint de l'escadron départemental de sécurité routi
 
 -de la Savoie ;
 
--de la Seine-et-Marne ;
+-de Seine-et-Marne ;
 
 -de Seine-Maritime ;
 
@@ -488,15 +488,17 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -commandant d'une brigade territoriale autonome ;
 
--commandant d'une brigade territoriale mobile rattachée à une compagnie ou un escadron départemental de sécurité routière jusqu'au 31 août 2025 et escadron départemental de contrôle des flux à compter du 1 er septembre 2025 ;
-
--commandant d'un peloton d'autoroute ;
+-commandant d'une brigade territoriale mobile rattachée à une compagnie ou un escadron départemental de contrôle des flux ;
 
 -commandant d'une brigade motorisée ;
 
 -commandant d'un peloton motorisé ;
 
 -commandant d'un peloton de surveillance et d'intervention gendarmerie ;
+
+-commandant d'une brigade numérique (2 emplois) ;
+
+-commandant la communauté de brigades fluviale et nautique de Martigues ;
 
 2° Gendarmerie mobile-Garde républicaine :
 
@@ -538,27 +540,27 @@ Commandant en second d'une compagnie de la gendarmerie des transports aériens :
 
 -commandant en second d'une compagnie de la gendarmerie de l'air et de l'espace.
 
--Commandant de la brigade de gendarmerie des transports aériens de :
+Commandant de la brigade de gendarmerie des transports aériens de :
 
 -Lyon-Saint-Exupéry ;
 
 -Marseille-Provence ;
 
--Nice-Côte-d'Azur ;
+-Nice-Côte d'Azur ;
 
--Paris-Charles-de-Gaulle-Un ;
+-Paris-Charles de-Gaulle-Un ;
 
--Paris-Charles-de-Gaulle-Deux ;
+-Paris-Charles de-Gaulle-deux ;
 
--Paris-Charles-de-Gaulle-Fret ;
+-Paris-Charles de-Gaulle-Fret ;
 
 -Paris-Orly ;
 
 -commandant de la communauté de brigades gendarmerie des transports aériens de Bordeaux.
 
--Commandant du peloton de surveillance et d'intervention gendarmerie des transports aériens de :
+Commandant du peloton de surveillance et d'intervention gendarmerie des transports aériens de :
 
--Paris-Charles-de-Gaulle ;
+-Paris-Charles de-Gaulle ;
 
 -Paris-Orly ;
 
@@ -602,7 +604,7 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -de Saint-Claude (Guadeloupe) ;
 
--de la Trinité ;
+-de La Trinité ;
 
 5° Autres emplois :
 
@@ -656,11 +658,9 @@ Commandant de la section aérienne au commandement des forces aériennes de la g
 
 -adjoint au chef de la trésorerie militaire pour l'activité des forces de la gendarmerie ;
 
--officier de liaison, chef de quart au centre de veille du cabinet du ministère de l'intérieur (1 emploi) ;
+-officier de liaison, chef de quart au centre de veille du cabinet du ministère de l'intérieur (1 emploi).
 
--commandant de la section de recherches de la gendarmerie des voies navigables ;
-
--directeur du cercle mixte de gendarmerie de (25 emplois) :
+Directeur du cercle mixte de gendarmerie de (25 emplois) :
 
 -Beynes ;
 
@@ -678,7 +678,7 @@ Commandant de la section aérienne au commandement des forces aériennes de la g
 
 -Fontainebleau ;
 
--à compter du 1 er septembre 2025, la garde républicaine de Paris ;
+-la garde républicaine de Paris ;
 
 -Issy-Les-Moulineaux ;
 
@@ -710,10 +710,8 @@ Commandant de la section aérienne au commandement des forces aériennes de la g
 
 -Satory ;
 
--jusqu'au 31 août 2025, Tournon ;
-
 -Tulle.
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 29 juillet 2025 (NOR : INTJ2521615A), ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur le 1er août 2025.
+Conformément à l'article 2 de l'arrêté du 19 décembre 2025 (NOR : INTJ2536146A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er janvier 2026.

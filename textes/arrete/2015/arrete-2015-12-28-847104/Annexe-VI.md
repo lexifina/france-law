@@ -6,19 +6,15 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -chargé de fonction au cabinet du directeur général de la gendarmerie nationale (1 emploi) ;
 
--chargé de fonction auprès du commandement de la direction des opérations et de l'emploi (1 emploi) ;
-
--chargé de fonction auprès du commandement de la direction des ressources humaines de la gendarmerie nationale (2 emplois) ;
+-chargé de fonction auprès du commandement de la direction des ressources humaines de la gendarmerie nationale (1 emploi) ;
 
 -chargé de projets au sein d'un bureau de la sous-direction de la police judiciaire (2 emplois) ;
 
 -chargé de projets au service de la transformation (1 emploi) ;
 
--à compter du 1 er septembre 2025, chef du centre national de sécurité des mobilités ;
+-chef du Centre national de sécurité des mobilités ;
 
--chef de section au sein d'une direction de la direction générale de la gendarmerie nationale, à l'exception de l'unité nationale cyber ;
-
--jusqu'au 31 août 2025, commandant de compagnie numérique au sein de la division de la proximité numérique ;
+-chef de section au sein d'une direction de la direction générale de la gendarmerie nationale ;
 
 2° Inspection générale de la gendarmerie nationale :
 
@@ -42,13 +38,15 @@ Chef du bureau de la dépense militaire :
 
 -des Hauts-de-France ;
 
--de l'Ile-de-France ;
+-d'Ile-de-France ;
 
--de la Nouvelle-Aquitaine ;
+-de la Nouvelle-Aquitaine.
 
 -adjoint commandant du groupement de sécurité et d'appui de Beynes ;
 
--commandant de la compagnie de sécurité et d'accueil du camp de Beynes.
+-commandant de la compagnie de sécurité et d'accueil du camp de Beynes ;
+
+-commandant de la compagnie numérique.
 
 Commandant de la section d'appui judiciaire située au chef-lieu des régions de gendarmerie :
 
@@ -70,11 +68,11 @@ Commandant de la section d'appui judiciaire située au chef-lieu des régions de
 
 -de Provence-Alpes-Côte d'Azur ;
 
--officier adjoint sécurité routière du Tarn ;
+-officier adjoint contrôle des flux du Tarn ;
 
--officier adjoint sécurité des mobilités de la Haute-Corse ;
+-officier adjoint contrôle des flux de la Haute-Corse ;
 
--chef du centre régional de sécurité des mobilités en région de gendarmerie Corse.
+-officier adjoint contrôle des flux de la Corse-du-Sud.
 
 Chef du groupe de soutien ressources humaines du groupement de gendarmerie départementale :
 
@@ -610,7 +608,7 @@ Commandant en second de compagnie de la gendarmerie des transports aériens :
 
 6° Outre-mer :
 
--commandant en second de la gendarmerie de Wallis-et-Futuna ;
+-commandant en second de la gendarmerie de Wallis-et Futuna ;
 
 -commandant en second de la gendarmerie de Saint-Pierre-et-Miquelon ;
 
@@ -626,15 +624,15 @@ Commandant en second de compagnie de la gendarmerie des transports aériens :
 
 -officier adjoint commandement du commandement de la gendarmerie de Saint-Barthélemy et Saint-Martin ;
 
--officier adjoint en charge de la police judiciaire au sein du commandement de la gendarmerie de Saint-Barthélemy et Saint-Martin.
+-officier adjoint de police judiciaire et renseignement au sein du commandement de la gendarmerie de Saint-Barthélemy et Saint-Martin.
 
-Officier adjoint sécurité routière au sein du commandement de la gendarmerie de :
+Officier adjoint contrôle des flux au sein du commandement de la gendarmerie de :
 
 -la Nouvelle-Calédonie ;
 
 -la Polynésie française.
 
-Commandant de l'escadron départemental de sécurité routière jusqu'au 31 août 2025 et commandant d'escadron départemental de contrôle des flux à compter du 1 er septembre 2025 :
+Commandant de l'escadron départemental de contrôle des flux :
 
 -de la Guadeloupe ;
 
@@ -682,8 +680,6 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 8° Autres emplois :
 
--commandant en second de la gendarmerie des voies navigables ;
-
 -commandant en second du centre national de soutien logistique ;
 
 -commandant de la compagnie de sécurité du commandement du soutien opérationnel de la gendarmerie nationale au Blanc ;
@@ -696,13 +692,7 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -chef de la section nationale d'appui à la mobilité de Satory ;
 
--jusqu'au 31 août 2025, chef d'un détachement de l'office central de lutte contre la délinquance itinérante (5 emplois) ;
-
--jusqu'au 31 août 2025, chef d'un détachement de l'office central de lutte contre les atteintes à l'environnement et à la santé publique (10 emplois) ;
-
 -chef d'un détachement ou d'une antenne de l'office anti-stupéfiants (5 emplois) ;
-
--jusqu'au 31 août 2025, chef du bureau des ressources humaines du pôle judiciaire de la gendarmerie nationale ;
 
 -chef du bureau des ressources humaines du groupe d'intervention de la gendarmerie nationale ;
 
@@ -710,19 +700,15 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -chef du bureau des ressources humaines du commandement du soutien opérationnel de la gendarmerie nationale ;
 
--jusqu'au 31 août 2025, chef du bureau ressources humaines au commandement du ministère de l'intérieur dans le cyberespace ;
-
--à compter du 1 er septembre 2025, chef de la section ressources humaines au commandement du ministère de l'intérieur dans le cyberespace ;
+-chef de la section ressources humaines au commandement du ministère de l'intérieur dans le cyberespace ;
 
 -chef du bureau des soutiens et des finances du commandement du soutien opérationnel de la gendarmerie nationale ;
 
--jusqu'au 31 août 2025, chef du bureau soutien finances au commandement du ministère de l'intérieur dans le cyberespace ;
+-chef de la section soutien finances au commandement du ministère de l'intérieur dans le cyberespace ;
 
--à compter du 1 er septembre 2025, chef de la section soutien finances au commandement du ministère de l'intérieur dans le cyberespace ;
+-chef du bureau soutiens finances au commandement des forces aériennes de la gendarmerie nationale.
 
--chef du bureau soutiens finances au commandement des forces aériennes de la gendarmerie nationale ;
-
-A compter du 1 er septembre 2025, à l'unité nationale de police judiciaire :
+A l'unité nationale de police judiciaire :
 
 -chef d'un détachement de l'office central de lutte contre la délinquance itinérante (5 emplois) ;
 
@@ -750,10 +736,10 @@ A compter du 1 er septembre 2025, à l'unité nationale de police judiciaire :
 
 -officier de liaison auprès d'une préfecture maritime (3 emplois) ;
 
--officier rapporteur à la commission des recours des militaires (3 emplois) ;
+-officier rapporteur à la commission des recours des militaires (4 emplois) ;
 
 -officier de liaison au département de la sécurité nucléaire au ministère de la transition écologique (2 emplois).
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 29 juillet 2025 (NOR : INTJ2521615A), ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur le 1er août 2025.
+Conformément à l'article 2 de l'arrêté du 19 décembre 2025 (NOR : INTJ2536146A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er janvier 2026.

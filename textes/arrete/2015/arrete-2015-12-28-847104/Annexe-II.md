@@ -16,13 +16,15 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -chef du centre d'analyse et d'exploitation de la direction des opérations et de l'emploi ;
 
--chargé de mission auprès du directeur général de la gendarmerie nationale (5 emplois) ;
+-chargé de mission auprès du directeur général de la gendarmerie nationale (3 emplois) ;
 
--chargé de mission auprès du directeur des ressources humaines de la gendarmerie nationale (5 emplois) ;
+-chargé de mission auprès du directeur des ressources humaines de la gendarmerie nationale (4 emplois) ;
 
 -chargé de mission auprès du directeur des opérations et de l'emploi (10 emplois) ;
 
 -chargé de mission responsable du pôle international auprès du directeur des opérations et de l'emploi (1 emploi) ;
+
+-directeur de programme parcours plainte en ligne ;
 
 -chargé de mission auprès du directeur des soutiens et des finances (6 emplois) ;
 
@@ -34,9 +36,11 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -chargé de la fonction soutiens finances, cabinet du directeur général de la gendarmerie nationale (1 emploi) ;
 
--chef de l'unité de coordination pour la lutte contre l'insécurité routière ;
+-adjoint au chef de la fonction opérations emploi, cabinet du directeur général de la gendarmerie nationale (1 emploi) ;
 
--jusqu'au 31 août 2025, commandant de l'unité nationale cyber en second ;
+-chargé de la fonction numérique, cabinet du directeur général de la gendarmerie nationale (1 emploi) ;
+
+-chef de l'unité de coordination pour la lutte contre l'insécurité routière ;
 
 -chef de division au service de pilotage et de la cohérence capacitaire (2 emplois) ;
 
@@ -46,9 +50,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -chef d'état-major du centre national des opérations au sein de la direction générale de la gendarmerie nationale ;
 
--adjoint au sous-directeur de l'emploi des forces, chef du bureau de la sécurité et de l'ordre publics (1emploi) ;
-
--adjoint au chef de la fonction opérations emploi, cabinet du directeur général de la gendarmerie nationale (1 emploi) ;
+-adjoint au sous-directeur de l'emploi des forces, chef du bureau de la sécurité et de l'ordre publics (1 emploi) ;
 
 -officier adjoint conduite du centre national des opérations au sein de la direction générale de la gendarmerie nationale ;
 
@@ -95,10 +97,6 @@ Chef de l'antenne déconcentrée de l'inspection générale de la gendarmerie na
 3° Gendarmerie départementale :
 
 -officier adjoint en charge de la police judiciaire au sein d'une région zonale de gendarmerie (7 emplois).
-
-Officier adjoint commandement de la région zonale de gendarmerie :
-
--de Nouvelle Aquitaine ;
 
 -chef d'une division zonale opérations emploi (7 emplois) ;
 
@@ -330,7 +328,7 @@ Commandant en second de groupement de gendarmerie mobile de :
 
 -Sathonay-Camp ;
 
--commandant en second du groupement blindé de gendarmerie mobile ;
+-commandant en second du groupement blindé de gendarmerie mobile.
 
 Commandant de groupement de gendarmerie mobile de :
 
@@ -368,13 +366,13 @@ Commandant de groupement de gendarmerie mobile de :
 
 -commandant en second de la gendarmerie prévôtale ;
 
--commandant en second de la gendarmerie pour les missions extérieures ;
+-commandant en second de la gendarmerie pour les missions extérieures.
 
 Commandant en second de la gendarmerie :
 
 -de la Guadeloupe ;
 
--de la Guyane-française ;
+-de la Guyane française ;
 
 -de la Martinique ;
 
@@ -422,21 +420,9 @@ Commandant en second de la gendarmerie :
 
 8° Autres emplois :
 
-Jusqu'au 31 août 2025, commandant en second de l'office central de lutte contre :
-
--la délinquance itinérante ;
-
--le travail illégal ;
-
--les atteintes à l'environnement et à la santé publique ;
-
--les crimes contre l'humanité et les crimes de haine ;
-
 -chef de l'état-major opérationnel du groupe d'intervention de la gendarmerie nationale ;
 
 -chef d'état-major du commandement du soutien opérationnel de la gendarmerie nationale ;
-
--jusqu'au 31 août 2025, directeur de l'enseignement et de recherche au pôle de judiciaire de la gendarmerie nationale ;
 
 -commandant du centre national d'administration de la solde gendarmerie ;
 
@@ -446,11 +432,11 @@ Jusqu'au 31 août 2025, commandant en second de l'office central de lutte contre
 
 -sous-directeur à la direction nationale du renseignement territorial (1 emploi) ;
 
+-sous-directeur auprès du secrétaire général de la défense et de la sécurité nationale (1 emploi) ;
+
 -adjoint au chef de la mission de gouvernance ministérielle des ressources humaines du ministère de l'intérieur (1 emploi) ;
 
 -représentant gendarmerie auprès de l'unité de coordination des forces mobiles (1 emploi) ;
-
--secrétaire général adjoint d'un secrétariat général pour l'administration du ministère de l'intérieur ;
 
 -sous-directeur à la direction des entreprises et partenariats de sécurité et des armes ;
 
@@ -472,13 +458,11 @@ Jusqu'au 31 août 2025, commandant en second de l'office central de lutte contre
 
 -chargé de mission au commandement des forces aériennes de la gendarmerie nationale (1 emploi).
 
-Au commandement du ministère de l'intérieur dans le cyberespace :
+-Au commandement du ministère de l'intérieur dans le cyberespace :
 
 -chargé de mission auprès du commandement du ministère de l'intérieur dans le cyberespace (1 emploi) ;
 
 -chef d'une division du commandement du ministère de l'intérieur dans le cyberespace (2 emplois) ;
-
--jusqu'au 31 août 2025, le chef de la division des enquêtes spécialisées, de la donnée et des investigations techniques du commandement du ministère de l'intérieur dans le cyberespace ;
 
 -chef du centre de formation à la cybersécurité au commandement du ministère de l'intérieur dans le cyberespace.
 
@@ -492,7 +476,7 @@ A l'agence du numérique des forces de sécurité intérieure :
 
 -chargé de mission au pôle pilotage projet-appui méthode.
 
-A compter du 1 er septembre 2025, à l'unité nationale de police judiciaire :
+A l'unité nationale de police judiciaire :
 
 -officier adjoint commandement ;
 
@@ -506,4 +490,4 @@ A compter du 1 er septembre 2025, à l'unité nationale de police judiciaire :
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 29 juillet 2025 (NOR : INTJ2521615A), ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur le 1er août 2025.
+Conformément à l'article 2 de l'arrêté du 19 décembre 2025 (NOR : INTJ2536146A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er janvier 2026.

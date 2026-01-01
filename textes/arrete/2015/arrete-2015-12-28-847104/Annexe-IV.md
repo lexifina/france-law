@@ -4,9 +4,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 1° Administration centrale :
 
--jusqu'au 31 août 2025, adjoint au chef d'une division au sein de l'unité nationale cyber (3 emplois) ;
-
-Au centre national des opérations, le chef du bureau :
+Au Centre national des opérations, le chef du bureau :
 
 -J8 ;
 
@@ -14,9 +12,7 @@ Au centre national des opérations, le chef du bureau :
 
 -chef de bureau à la direction du numérique (2 emplois) ;
 
--chef du centre sécurité économique et protection des entreprises ;
-
--jusqu'au 31 août 2025, chef de département d'appui aux opérations numériques auprès de l'unité nationale cyber.
+-chef du centre sécurité économique et protection des entreprises.
 
 A la direction générale de la gendarmerie nationale, adjoint au chef du bureau (1 emploi) :
 
@@ -78,9 +74,7 @@ A la direction générale de la gendarmerie nationale, adjoint au chef du bureau
 
 -de la sécurité et de l'ordre publics ;
 
--de la sécurité des mobilités, jusqu'au 31 août 2025 ;
-
--contrôle des flux, à compter du 1 er septembre 2025 ;
+-de la sécurité des flux ;
 
 -de la stratégie des compétences ;
 
@@ -90,7 +84,7 @@ A la direction générale de la gendarmerie nationale, adjoint au chef du bureau
 
 -adjoint au chef du pôle des perspectives professionnelles (1 emploi) ;
 
--adjoint au chef du bureau des matériels et des équipements au service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur ;
+-chef du bureau des matériels et des équipements au service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur ;
 
 -responsable central SSSI nationale au service de la transformation ;
 
@@ -126,11 +120,11 @@ A la direction générale de la gendarmerie nationale, adjoint au chef du bureau
 
 -officier adjoint ressources humaines d'une région de gendarmerie non zonale (6 emplois) ;
 
--officier adjoint soutien finances d'une région de gendarmerie non zonale (6 emplois) ;
+-officier adjoint soutien finances d'une région de gendarmerie non zonale (6 emplois).
 
--commandant du groupement de sécurité et d'appui de Beynes.
+-commandant du groupement de sécurité et d'appui de Beynes ;
 
-Chef d'une division régionale des réserves ;
+-chef d'une division régionale des réserves ;
 
 -chef d'un bureau renseignement d'une région zonale (7 emplois) ;
 
@@ -198,6 +192,8 @@ Officier adjoint commandement du groupement de gendarmerie départementale (1 em
 
 -des Ardennes ;
 
+-de l'Ariège ;
+
 -de l'Aube ;
 
 -de l'Aude ;
@@ -260,7 +256,7 @@ Officier adjoint commandement du groupement de gendarmerie départementale (1 em
 
 -de l'Hérault ;
 
--de l'Ille-et-Vilaine ;
+-d'Ille-et-Vilaine ;
 
 -d'Indre ;
 
@@ -380,7 +376,7 @@ Officier adjoint de police judiciaire et renseignement 1 du groupement de gendar
 
 -de Corrèze ;
 
--de la Corse du sud ;
+-de la Corse-du-Sud ;
 
 -des Côtes-d'Armor ;
 
@@ -506,7 +502,7 @@ Officier adjoint de police judiciaire et renseignement 2 du groupement de gendar
 
 -de l'Hérault ;
 
--de l'Ille-et-Vilaine ;
+-d'Ille-et-Vilaine ;
 
 -de l'Isère (2 emplois) ;
 
@@ -520,7 +516,7 @@ Officier adjoint de police judiciaire et renseignement 2 du groupement de gendar
 
 -du Rhône ;
 
--de la Seine-et-Marne ;
+-de Seine-et-Marne ;
 
 -du Var.
 
@@ -530,7 +526,7 @@ Officier adjoint de police judiciaire du groupement de gendarmerie départementa
 
 -du Loiret ;
 
--de la Côte-d'Or ;
+-de la Côte-d'Or.
 
 Chef du bureau renseignements :
 
@@ -656,7 +652,7 @@ Commandant de la compagnie de gendarmerie départementale :
 
 -d'Evry ;
 
--de la Flèche ;
+-de La Flèche ;
 
 -de Fontenay-le-Comte ;
 
@@ -818,7 +814,7 @@ Commandant de la compagnie de gendarmerie départementale :
 
 -de Toulouse-Saint-Michel ;
 
--de la Tour-du-Pin ;
+-de La Tour-du-Pin ;
 
 -de Tournon-sur-Rhône ;
 
@@ -840,7 +836,7 @@ Commandant de la compagnie de gendarmerie départementale :
 
 -de Vitré.
 
-Commandant d'escadron départemental de sécurité routière jusqu'au 31 août 2025 et commandant d'escadron départemental de contrôle des flux à compter du 1 er septembre 2025 :
+Commandant d'escadron départemental de contrôle des flux :
 
 -de l'Isère ;
 
@@ -892,7 +888,7 @@ Commandant en second de groupement de gendarmerie mobile de :
 
 -commandant de la section de recherches en second de la gendarmerie de l'air et de l'espace ;
 
--officier adjoint commandement rattaché à un groupement de gendarmerie de l'air et de l'espace (2 emplois) ;
+-officier adjoint commandement rattaché à un groupement de gendarmerie de l'air et de l'espace (2 emplois).
 
 Commandant de compagnie de gendarmerie des transports aériens :
 
@@ -908,7 +904,7 @@ Commandant de compagnie de gendarmerie des transports aériens :
 
 6° Outre-mer :
 
--commandant en second de la gendarmerie de Saint-Barthélemy et Saint-Martin ;
+-commandant en second de la gendarmerie de Saint-Barthélemy et Saint-Martin.
 
 Officier adjoint de police judiciaire et renseignement 1 au sein du commandement la gendarmerie de :
 
@@ -966,7 +962,7 @@ Commandant de la compagnie de gendarmerie départementale :
 
 -officier adjoint soutien finances du groupe de soutien opérationnel des écoles.
 
-Commandant du centre national de formation :
+Commandant du Centre national de formation :
 
 -du corps de soutien technique et administratif de la gendarmerie nationale ;
 
@@ -974,7 +970,7 @@ Commandant du centre national de formation :
 
 -à la sécurité publique ;
 
--à la sécurité routière ;
+-au contrôle des flux ;
 
 -commandant du centre national d'instruction nautique de la gendarmerie ;
 
@@ -988,11 +984,7 @@ Commandant du centre national de formation :
 
 Adjoint au commandant du centre national de formation :
 
--à la police judiciaire jusqu'au 31 août 2025 ;
-
--au renseignement et à l'investigation à compter du 1 er septembre 2025 ;
-
--au renseignement opérationnel jusqu'au 31 août 2025.
+-au renseignement et à l'investigation ;
 
 Adjoint au commandant du centre national d'instruction :
 
@@ -1002,21 +994,15 @@ Adjoint au commandant du centre national d'instruction :
 
 8° Autres emplois :
 
--jusqu'au 31 août 2025, chef du centre national d'expertise numérique auprès du commandement du ministère de l'intérieur dans le cyberespace ;
-
 -chef du service de soutien à la projection opérationnelle du commandement du soutien opérationnel de la gendarmerie nationale ;
 
 -chef d'état-major soutien finances du groupe d'intervention de la gendarmerie nationale ;
 
 -officier de liaison, chef du pôle national d'analyse migratoire de l'office de lutte contre le trafic illicite de migrants ;
 
--jusqu'au 31 août 2025, chef du bureau des systèmes d'information opérationnels du commandement du soutien opérationnel de la gendarmerie nationale ;
-
 -chef du bureau du système des opérations et du renseignement du commandement du soutien opérationnel de la gendarmerie ;
 
 -chef de bureau des promotions militaires à la sous-direction des cabinets au ministère des armées ;
-
--jusqu'au 31 août 2025, chef du centre des sciences de la donnée au commandement du ministère de l'intérieur dans le cyberespace ;
 
 -adjoint au chef du bureau des affaires immobilières de la gendarmerie nationale à la direction de l'évaluation, de la performance, des affaires financières et immobilières ;
 
@@ -1054,11 +1040,9 @@ Au sein du groupe d'intervention de la gendarmerie nationale, chef de la force :
 
 -chargé de mission auprès du service du haut fonctionnaire de défense du ministère de l'intérieur (1 emploi) ;
 
--conseiller technique et chef de cabinet au secrétariat général du ministère de la transition écologique (1 emploi) ;
+-conseiller technique et chef de cabinet au secrétariat général du ministère de la transition écologique (1 emploi).
 
--jusqu'au 31 août 2025, chef de la section du pilotage et contrôle de la qualité au pôle judiciaire de la gendarmerie nationale.
-
-A compter du 1 er septembre 2025, à l'unité nationale de police judiciaire :
+A l'unité nationale de police judiciaire :
 
 -chef du département de l'information et des opérations ;
 
@@ -1076,11 +1060,11 @@ A compter du 1 er septembre 2025, à l'unité nationale de police judiciaire :
 
 -chef du centre des sciences de la donnée au service central de renseignement criminel de la gendarmerie nationale ;
 
+-chef de l'unité d'investigations et d'identification à l'institut de recherche criminelle de la gendarmerie nationale ;
+
 -adjoint au chef du centre national d'expertise numérique auprès de l'institut de recherches criminelles de la gendarmerie nationale (1 emploi) ;
 
--adjoint au chef d'une division au sein de l'unité nationale cyber (3 emplois) ;
-
---chef du département d'appui aux opérations numériques auprès de l'unité nationale cyber ;
+-adjoint au chef d'une division au sein de l'unité nationale cyber (3 emplois).
 
 Au sein du commandement des forces aériennes de la gendarmerie nationale, le chef :
 
@@ -1090,9 +1074,7 @@ Au sein du commandement du ministère de l'intérieur dans le cyberespace :
 
 -chef du centre d'analyse et de regroupement des cybermenaces au commandement du ministère de l'intérieur dans le cyberespace ;
 
--adjoint au chef d'une division du commandement du ministère de l'intérieur dans le cyberespace (2 emplois) ;
-
--jusqu'au 31 août 2025, l'adjoint au chef de la division des enquêtes spécialisées, de la donnée et des investigations techniques du commandement du ministère de l'intérieur dans le cyberespace ;
+-adjoint au chef d'une division du commandement du ministère de l'intérieur dans le cyberespace (2 emplois).
 
 A l'agence du numérique des forces de sécurité intérieure :
 
@@ -1128,4 +1110,4 @@ A l'agence du numérique des forces de sécurité intérieure :
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 29 juillet 2025 (NOR : INTJ2521615A), ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur le 1er août 2025.
+Conformément à l'article 2 de l'arrêté du 19 décembre 2025 (NOR : INTJ2536146A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er janvier 2026.

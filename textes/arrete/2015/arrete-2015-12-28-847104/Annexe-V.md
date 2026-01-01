@@ -10,23 +10,15 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 Chef du pôle :
 
--des techniques spéciales d'enquêtes, jusqu'au 31 août 2025 ;
-
 -coopération judiciaire internationale ;
 
--prospective pénale et pratiques judiciaires ;
-
--jusqu'au 31 août 2025, adjoint d'une division au service central de renseignement criminel de la gendarmerie nationale (3 emplois) ;
-
--jusqu'au 31 août 2025, adjoint d'une division à l'institut de recherches criminelles de la gendarmerie nationale (4 emplois).
+-prospective pénale et pratiques judiciaires.
 
 Au sein du commandement de la gendarmerie pour les réserves et la jeunesse :
 
 -chef du bureau de l'accompagnement et de la conformité ;
 
--chargé de mission au commandement de la gendarmerie pour les réserves et la jeunesse (2 emplois) ;
-
--chef du bureau des achats immobiliers et prestations au service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur, jusqu'au 1 er octobre 2025 ;
+-chargé de mission au commandement de la gendarmerie pour les réserves et la jeunesse (2 emplois).
 
 -officier au pôle audiences recours médiations auprès de l'inspecteur général des armées-gendarmerie (1 emploi) ;
 
@@ -58,9 +50,9 @@ Officier adjoint commandement du groupement de gendarmerie départementale (1 em
 
 -du Gard ;
 
--du Haut-Rhin ;
+-du Haut-Rhin.
 
-Officier adjoint de police judiciaire et renseignement 2 du groupement de gendarmerie départementale (1 emploi)
+Officier adjoint de police judiciaire et renseignement 2 du groupement de gendarmerie départementale (1 emploi) :
 
 -de l'Aisne ;
 
@@ -156,7 +148,7 @@ Officier adjoint de police judiciaire et renseignement 2 du groupement de gendar
 
 -de la Lozère ;
 
--du Maine-et-Loire ;
+-de Maine-et-Loire ;
 
 -de la Manche ;
 
@@ -234,11 +226,13 @@ Chef du groupe de soutien ressources humaines du groupement de gendarmerie dépa
 
 -du Haut-Rhin ;
 
+-de Haute-Garonne ;
+
 -de la Haute-Savoie ;
 
 -de l'Hérault ;
 
--de l'Ille-et-Vilaine ;
+-d'Ille-et-Vilaine ;
 
 -de l'Isère ;
 
@@ -252,7 +246,7 @@ Chef du groupe de soutien ressources humaines du groupement de gendarmerie dépa
 
 -du Rhône ;
 
--de la Seine et-Marne ;
+-de Seine-et-Marne ;
 
 -du Var.
 
@@ -454,7 +448,7 @@ Commandant de la compagnie de gendarmerie départementale :
 
 -de Limoux ;
 
--de Lisieux ;
+-de Lisieux
 
 -de Loches ;
 
@@ -504,7 +498,7 @@ Commandant de la compagnie de gendarmerie départementale :
 
 -de Nogent-le-Rotrou ;
 
--de Nogent-sur-eine ;
+-de Nogent-sur-Seine ;
 
 -de Nontron ;
 
@@ -666,7 +660,7 @@ Commandant de la compagnie de gendarmerie départementale :
 
 -d'Yvetot.
 
-Commandant d'escadron départemental de sécurité routière jusqu'au 31 août 2025 et commandant d'escadron départemental de contrôle des flux à compter du 1 er septembre 2025 :
+Commandant d'escadron départemental de contrôle des flux :
 
 -de l'Ain ;
 
@@ -802,7 +796,7 @@ Commandant d'escadron départemental de sécurité routière jusqu'au 31 août 2
 
 -de l'Orne ;
 
--du Puy-de-Dôme ;
+-du Puy-de-dôme ;
 
 -des Pyrénées-Atlantiques ;
 
@@ -816,7 +810,7 @@ Commandant d'escadron départemental de sécurité routière jusqu'au 31 août 2
 
 -de la Savoie ;
 
--de la Seine-et-Marne ;
+-de Seine-et-Marne ;
 
 -de Seine-Maritime ;
 
@@ -1040,13 +1034,13 @@ Commandant de la compagnie de gendarmerie départementale :
 
 -chef du cabinet du commandement des écoles de la gendarmerie nationale ;
 
+-chef de la section du contrôle et du conseil budgétaire auprès du commandement des écoles de la gendarmerie nationale ;
+
 -chef du département ressources humaines de l'Académie militaire de la gendarmerie nationale ;
 
 -chef du département soutiens logistique finances de l'Académie militaire de la gendarmerie nationale ;
 
 8° Autres emplois :
-
--jusqu'au 31 août 2025, chef de l'unité d'investigations et d'identification à l'institut de recherche criminelle de la gendarmerie nationale ;
 
 -chef du bureau emploi au sein du commandement spécialisé pour la sécurité nucléaire ;
 
@@ -1106,23 +1100,19 @@ Au sein du commandement des forces aériennes de la gendarmerie nationale :
 
 -chargé de projets auprès du commandement des forces aériennes de la gendarmerie nationale (1 emploi).
 
-A compter du 1 er septembre 2025, à l'unité nationale de police judiciaire :
+A l'unité nationale de police judiciaire :
 
--chef de groupe au sein de l'unité nationale d'investigation (4 emplois) ;
+-chef de division au sein de l'unité nationale d'investigation (3 emplois) ;
 
 -adjoint d'une division au service central de renseignement criminel de la gendarmerie nationale (4 emplois) ;
 
 -adjoint d'une division à l'institut de recherches criminelles de la gendarmerie nationale (3 emplois) ;
 
--chef de l'unité d'investigations et d'identification à l'institut de recherche criminelle de la gendarmerie nationale ;
-
 -chargé de projets auprès du commandant de l'unité nationale de police judiciaire.
 
 A l'agence du numérique des forces de sécurité intérieure :
 
--chargé de projets à la direction des communications tactiques (1 emploi) ;
-
--chargé de projets au sein à la direction de la sécurité et de l'architecture (2 emplois) ;
+-chargé de projets à la direction des communications tactiques (1 emploi) ; chargé de projets au sein à la direction de la sécurité et de l'architecture (2 emplois) ;
 
 -chargé de projets à la direction des applications d'appui au commandement (1 emploi) ;
 
@@ -1146,4 +1136,4 @@ A l'agence du numérique des forces de sécurité intérieure :
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 29 juillet 2025 (NOR : INTJ2521615A), ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur le 1er août 2025.
+Conformément à l'article 2 de l'arrêté du 19 décembre 2025 (NOR : INTJ2536146A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er janvier 2026.
