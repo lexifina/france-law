@@ -1,0 +1,185 @@
+# Article 1er
+
+L'article 8 « Cotisations » de l'accord du 29 août 2023 relatif à la prévoyance complémentaire de la convention collective nationale des métiers du commerce de détail alimentaire spécialisé, est désormais rédigé comme suit :
+
+« Article 8 Cotisations
+
+Article 8.1 Salariés non cadres
+
+Les taux des cotisations sur les salaires bruts (tranches 1 et 2) sont définis et répartis comme suit :
+
+Garantie |
+
+Taux contractuel |
+
+Part employeur |
+
+Part salarié |
+
+Décès/IAD toutes causes |
+
+0,25 % |
+
+– |
+
+Décès/IAD accidentel |
+
+0,03 % |
+
+– |
+
+Longue maladie |
+
+– |
+
+0,20 % |
+
+Invalidité |
+
+0,21 % |
+
+0,19 % |
+
+Rente éducation |
+
+0,04 % |
+
+0,04 % |
+
+Rente handicap |
+
+0,03 % |
+
+– |
+
+Sous-total (1)
+
+|
+
+0,56 %
+
+|
+
+0,43 %
+
+|
+
+Indemnité de départ à la retraite (2) |
+
+0,07 % |
+
+|
+
+Total = 1 + 2
+
+|
+
+0,63 %
+
+|
+
+0,43 %
+
+|
+
+Article 8.2 Salariés cadres
+
+Les taux des cotisations sur les salaires bruts (tranches 1 et 2) sont définis et répartis comme suit :
+
+Garantie |
+
+Taux contractuel |
+
+Part employeur T1 |
+
+Part employeur T2 |
+
+Part salarié
+
+T1 |
+
+Part salarié
+
+T2 |
+
+Garanties décès (décès/IAD toutes causes, décès/IAD accidentel/rente éducation/rente handicap) |
+
+0,76 % |
+
+– |
+
+– |
+
+0,68 % |
+
+Longue maladie |
+
+0,19 % |
+
+– |
+
+– |
+
+0,21 % |
+
+Invalidité |
+
+0,40 % |
+
+– |
+
+– |
+
+0,46 % |
+
+Sous-total (1)
+
+|
+
+1,35 %
+
+|
+
+–
+
+|
+
+–
+
+|
+
+1,35 %
+
+|
+
+Indemnité de départ à la retraite (2) |
+
+0,07 % |
+
+0,07 % |
+
+– |
+
+– |
+
+Total = 1 + 2
+
+|
+
+1,42 %
+
+|
+
+0,07 %
+
+|
+
+–
+
+|
+
+1,35 %
+
+|
+
+En application de l'article L. 2252-1 du code du travail, l'article 1er du 17 novembre 2017 relatif à la prévoyance des cadres n'est pas opposable aux entreprises de la branche. »
