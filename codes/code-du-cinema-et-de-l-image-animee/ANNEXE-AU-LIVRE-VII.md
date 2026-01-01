@@ -2,187 +2,205 @@
 
 VII-1. (Abrogé) ;
 
-VII-2. Aides financières sélectives aux cinémas du monde
+VII-2. Aides financières aux cinémas du monde
 
-VII-2.1. Documents justificatifs à joindre à l'appui d'une demande d'aide complémentaire à une demande d'aide aux cinémas du monde
+VII-2.1. Dépenses de production éligibles (article 712-13)
 
-(Articles 712-2 et suivants)
+I.-Rémunérations versées aux auteurs énumérés à l'article L. 113-7 du code de la propriété intellectuelle, ainsi que les charges sociales afférentes, à savoir :
 
-1° Le contrat de coproduction, sauf s'il a déjà été fourni dans le cadre de la demande d'aide aux cinémas du monde, et dans ce cas, tout avenant intervenu depuis lors ;
+1° L'auteur du scénario ;
 
-2° L'accord entre les parties à la coproduction désignant l'entreprise bénéficiaire de l'aide complémentaire si elle n'est pas désignée dans le contrat de coproduction ;
+2° L'auteur de l'adaptation ;
 
-3° Tout document officiel attestant de l'existence de l'entreprise désignée comme bénéficiaire de l'aide complémentaire ;
+3° L'auteur du texte parlé ;
 
-4° Une note conjointe de l'entreprise désignée comme bénéficiaire de l'aide complémentaire et de l'entreprise établie en France ayant sollicité l'attribution d'une aide aux cinémas du monde justifiant le montant de l'aide complémentaire demandée ;
+4° L'auteur des compositions musicales avec ou sans paroles spécialement réalisées pour l'œuvre ;
 
-5° Les justificatifs des financements acquis sur les territoires de la zone Afrique, Caraïbes et Pacifique.
+5° Le réalisateur.
 
-VII-2.2. Liste des Etats considérés comme situés dans la zone Afrique, Caraïbes et Pacifique pris en compte pour l'attribution des aides complémentaires aux aides aux cinémas du monde
+6° L'auteur de l'œuvre originaire, lorsque l'œuvre est tirée d'un scénario préexistant encore protégé.
 
-(Article 712-3)
+II.-Rémunérations versées aux artistes-interprètes mentionnés à l'article L. 212-4 du code de la propriété intellectuelle et aux artistes de compléments, ainsi que les charges sociales afférentes dans la mesure où elles correspondent à des cotisations sociales obligatoires. Les artistes-interprètes et les artistes de complément comprennent :
 
-1° Afrique :
+a) Les acteurs assurant les rôles principaux et les rôles secondaires des œuvres appartenant au genre de la fiction ainsi que les artistes-interprètes assurant le commentaire ou la postsynchronisation des œuvres appartenant au genre du documentaire et au genre de l'animation. Pour les œuvres appartenant au genre de la fiction, sont considérés comme rôles principaux les rôles pour lesquels la présence à l'écran des artistes-interprètes est requise pour la moitié au moins des scènes de l'œuvre et comme rôles secondaires les rôles d'au moins quatre cachets ;
 
-Afrique du Sud ;
+b) Les artistes musiciens engagés pour l'enregistrement sonore de leur interprétation ou exécution d'œuvres musicales destinées à être incorporées aux œuvres cinématographiques ;
 
-Angola ;
+c) Les artistes du spectacle considérés comme artistes de complément par les usages professionnels, notamment par les conventions et accords collectifs de la production cinématographique ou audiovisuelle, ainsi que les artistes-interprètes assurant des rôles de moins de quatre cachets.
 
-Bénin ;
+III.-Les salaires versés aux personnels de la réalisation et de la production, ainsi que les charges sociales afférentes : les rémunérations et leurs accessoires versés par l'entreprise de production aux techniciens et ouvriers de la production, ainsi que les charges sociales dans la mesure où elles correspondent à des cotisations sociales obligatoires.
 
-Botswana ;
+1° Pour les œuvres cinématographiques de fiction ou de documentaires, les personnels de la réalisation et de la production comprennent :
 
-Burkina Faso ;
+a) Les techniciens de la production qui chargés de la réalisation ; de la préparation et de l'assistance de réalisation ; de la technique et de la qualité artistique des prises de vues ; de la technique et de la qualité artistique des enregistrements sonores ; de la création artistique et de l'exécution des décors ; de la création artistique des costumes, perruques et accessoires vestimentaires ; de la confection des costumes et accessoires vestimentaires ; de l'habillage et de l'entretien des costumes ; du maquillage de composition des acteurs ; de la confection des perruques et postiches et de l'exécution des coiffures ; des accessoires de plateau et de décor ; de l'assemblage artistique et technique des images et des sons ; de la préparation et de la réalisation des effets spéciaux de tournage, y compris les cascades ; de la direction artistique et du développement ;
 
-Burundi ;
+b) Les ouvriers de la production chargés de la machinerie, de l'éclairage, de la construction des décors ;
 
-Cameroun ;
+2° Pour les œuvres cinématographiques d'animation :
 
-Cap Vert ;
+a) Les techniciens de la production chargés de la réalisation, de l'assistance de réalisation, de la direction artistique et de la direction d'écriture de l'œuvre cinématographique, de la direction artistique et du développement ;
 
-Comores ;
+b) Les collaborateurs chargés de la préparation de l'animation chargés : de la création du scénarimage ; de la conception et de la modélisation des personnages ; de la conception et de la modélisation des décors ; des feuilles d'exposition ;
 
-Congo ;
+c) Les collaborateurs chargés de la fabrication de l'animation chargés de la mise en place de l'animation ; de l'exécution de l'animation ; de la mise en place des décors ; de l'exécution des décors ; du traçage-gouachage, de la colorisation, du rendu et de l'éclairage ; de l'assemblage numérique ; des effets spéciaux ; de l'assemblage artistique et technique des images et du son.
 
-Côte d'Ivoire ;
+IV.-Dépenses liées à l'acquisition des droits artistiques et d'archives :
 
-Djibouti ;
+1° Dépenses relatives à l'acquisition de droits littéraires, de recréation ou musicaux ;
 
-Erythrée ;
+2° Dépenses relatives à l'acquisition de droits d'exploitation d'images d'archives ;
 
-Ethiopie ;
+V.-Dépenses liées au recours aux industries techniques et autres prestataires de la création :
 
-Gabon ;
+1° Pour les œuvres cinématographiques de fiction ou de documentaires :
 
-Gambie ;
+a) Les dépenses liées aux prises de vues à savoir : les dépenses de location des plateaux de tournage et annexes, de location de lieux loués spécifiquement pour le tournage à l'exclusion des lieux d'habitation, de construction de décors sur les lieux de tournage, d'éclairage, de préparation et de réalisation des effets spéciaux de tournage, y compris les cascades, de location et de fabrication des costumes, coiffures et de maquillage, les dépenses liées au recours à des animaux pour raisons artistiques tenant au scénario ;
 
-Ghana ;
+b) Les dépenses de matériels techniques de tournage, à savoir : les dépenses de matériels de prises de vues, de machinerie, d'éclairage et de prise de son ;
 
-Guinée ;
+c) Les dépenses de postproduction, y compris les effets spéciaux, à savoir : les dépenses de laboratoire image, de montage des images, d'enregistrement des voix, de bruitage et création sonore, de mixage, de montage du son, d'effets spéciaux numériques et de génériques et bandes-annonces ;
 
-Guinée-Bissau ;
+d) Les dépenses de pellicules et autres supports d'images et les dépenses de laboratoire, à savoir : les dépenses de pellicules négatives image, de pellicules magnétiques son et plus généralement de tous supports analogiques ou numériques d'images et de son, de laboratoires de tournage, de laboratoires de finition, de laboratoire vidéo, de sous-titrage et de doublage ;
 
-Guinée Equatoriale ;
+2° Pour les œuvres cinématographiques d'animation :
 
-Kenya ;
+a) Les dépenses liées au recours à des prestataires spécialisés dans les travaux de préparation et de fabrication de l'animation, à savoir : les dépenses correspondant aux travaux facturés par les entreprises qui effectuent, pour le compte des entreprises de production, la préparation et la fabrication de l'animation ainsi que les dépenses de construction de décors ;
 
-Lesotho ;
+b) Les dépenses de matériels techniques nécessaires à la fabrication des images, à savoir : les dépenses de matériels de prise de vues et d'éclairage ainsi que les dépenses d'équipements, de fournitures, de matériels et logiciels informatiques directement affectés à la mise en place et à la fabrication de l'animation d'une œuvre déterminée. Les logiciels informatiques précités doivent être amortis au cours de la période de réalisation de l'œuvre pour laquelle ils ont été spécialement créés ou acquis ;
 
-Liberia ;
+c) Les dépenses de postproduction, y compris les effets spéciaux, à savoir : les dépenses de laboratoire image, de montage des images, d'enregistrement des voix, de bruitage et création sonore, de mixage, de montage du son, d'effets spéciaux numériques et de génériques et bandes-annonces ;
 
-Madagascar ;
+d) Les dépenses de pellicules et autres supports d'images et des dépenses de laboratoires, à savoir : les dépenses de pellicules négatives image, de pellicules magnétiques son et plus généralement de tous supports analogiques ou numériques d'images et de son, de laboratoires de finition, de laboratoire vidéo, de sous-titrages et de doublage ;
 
-Malawi ;
+VI.-Les dépenses de transport et d'hébergement occasionnées par la production de l'œuvre sur le territoire français :
 
-Mali ;
+1° Les dépenses de transport de biens et de matériels artistiques et techniques, ainsi que les dépenses de transport des équipes artistiques et techniques, strictement nécessaires aux besoins de la production de l'œuvre ;
 
-Maurice ;
+2° Les dépenses d'hébergement ;
 
-Mauritanie ;
+VII.-Dépenses relatives aux assurances et aux prestations juridiques et comptables :
 
-Mozambique ;
+1° Assurances production et matériels techniques et décors ;
 
-Namibie ;
+2° Frais juridiques (frais d'avocat et conseils en financement, frais d'enregistrement et registre public, visa d'exploitation ;
 
-Niger ;
+3° Frais comptables (frais de certification des comptes).
 
-Nigeria ;
+VII-2.2. Documents justificatifs à joindre à l'appui d'une demande d'aide avant réalisation
 
-Ouganda ;
+I.-Décision provisoire :
 
-République centrafricaine ;
+A.-Dossier administratif :
 
-République démocratique du Congo ;
+1° Le formulaire de demande d'aide aux cinémas du monde établi par le Centre national du cinéma et de l'image animée ;
 
-Rwanda ;
+2° Le ou les contrat (s) de coproduction (y compris annexes) avec l'ensemble des partenaires. Toutefois, au moment du dépôt de la demande d'aide, les œuvres peuvent faire l'objet d'un document préparatoire attestant de l'intention de l'entreprise de production de contracter avec la ou les entreprises de production étrangères. Le contrat de coproduction est remis au plus tard au moment de la signature de la convention d'aide. Une traduction sommaire est demandée pour tout contrat rédigé dans une langue autre que le français, l'anglais ou l'espagnol ;
 
-Sao Tome et Principe ;
+3° Le ou les contrat (s) de cession de droits d'auteur (s) ou d'option cosigné (s). Les clauses types prévues par l'article L. 311-5 du code du cinéma et de l'image animée font l'objet d'un surlignage. Une traduction sommaire est demandée pour tout contrat rédigé dans une langue autre que le français, l'anglais ou l'espagnol ;
 
-Sénégal ;
+4° Le ou les contrat (s) conclu avec le (s) réalisateur (s) si le réalisateur n'est pas l'auteur du scénario ou du traitement. Une traduction sommaire est demandée pour tout contrat rédigé dans une langue autre que le français, l'anglais ou l'espagnol ;
 
-Seychelles ;
+5° Un extrait K bis datant de moins de trois mois, pour la société établie en France ;
 
-Sierra Leone ;
+6° Une copie des statuts et, le cas échéant, de tout accord entre associés ou actionnaires ;
 
-Somalie ;
+7° Le plan de financement prévisionnel et le devis détaillé. Toutefois, ces documents peuvent être transmis après la sélection préalable par les comités de lecture pour les projets soumis à la commission des aides aux cinémas du monde compétente ;
 
-Soudan ;
+8° Le formulaire (complété et signé) de déclaration relative aux mesures mises en place au titre des obligations des entreprises en matière de lutte contre le harcèlement sexuel, accompagné d'une attestation de formation ou d'une confirmation d'inscription transmise par le CNC ;
 
-Swaziland ;
+B.-Dossier artistique :
 
-Tanzanie ;
+1° Le scénario ou un traitement détaillé pour les documentaires (en français) ;
 
-Tchad ;
+2° Un synopsis court (300 signes maximum incluant les espaces) (en français) ;
 
-Togo ;
+3° Un synopsis long (2 000 signes maximum incluant les espaces) (en français) ;
 
-Zambie ;
+4° Une note d'intention et de réalisation du réalisateur (en français) ;
 
-Zimbabwe ;
+5° Une note d'intention du producteur français et éventuellement du producteur étranger (en français) ;
 
-2° Caraïbes :
+6° Une note de réécriture dans le cas d'une nouvelle présentation (en français) ;
 
-Antigua et Barbuda ;
+7° Le curriculum vitae du ou des réalisateurs ainsi que du ou des auteurs ;
 
-Bahamas ;
+8° Le curriculum vitae de tous les producteurs ;
 
-Barbade ;
+9° Le cas échéant, les œuvres (s) précédente (s) du réalisateur : un lien internet pour accéder à la page de visionnage ;
 
-Belize ;
+10° Les éléments visuels, le cas échéant ;
 
-Dominique ;
+11° Un calendrier prévisionnel de production.
 
-Grenade ;
+II.-Décision d'attribution à titre définitif :
 
-Guyana ;
+1° La lettre de demande détaillée, signée par le producteur, indiquant l'état d'avancement du projet et justifiant le montant de l'aide demandée, notamment au regard du niveau de dépenses françaises prévisionnel ainsi que des besoins de financement (en français) ;
 
-Haïti ;
+2° Le devis détaillé avec la ventilation des dépenses prévues dans chaque pays et le détail des dépenses prévues en France (utiliser le modèle téléchargeable en ligne) ;
 
-Jamaïque ;
+3° Le plan de financement, en précisant les financements acquis et en cours (utiliser le modèle téléchargeable en ligne) ;
 
-République Dominicaine ;
+4° Les contrats de coproduction, de cession de droits (auteur et réalisateur) ou d'acquisition de droits d'adaptation et d'exploitation d'une œuvre préexistante, s'ils diffèrent de ceux transmis au moment du dépôt de la demande d'aide, ainsi qu'une traduction sommaire pour tout contrat rédigé dans une langue autre que le français, l'anglais ou l'espagnol ;
 
-Saint Kitts et Nevis ;
+5° Les justificatifs du ou des financements de l'œuvre (contrats ou lettres d'intérêt chiffrées) ;
 
-Sainte Lucie ;
+6° Le calendrier de production et de post-production ;
 
-Saint Vincent et les Grenadines ;
+7° La liste de l'équipe technique et artistique (préciser la nationalité et la résidence fiscale) ;
 
-Suriname ;
+8° Pour tous les projets d'un budget supérieur à 2 500 000 € et tous les autres projets sollicitant l'agrément du CNC : la fiche récapitulative du barème du soutien financier complétée (disponible en téléchargement sur le site du CNC) ;
 
-Trinité-et-Tobago ;
+9° Lorsqu'il est requis ou a été obtenu, la notification de l'agrément des investissements ;
 
-3° Pacifique :
+10° Pour les œuvres qui ne donnent pas lieu à la délivrance de l'agrément et dans lesquelles la part française est majoritaire, un bilan prévisionnel détaillé relatif à l'empreinte carbone induite par la part française de la production de l'œuvre.
 
-Fidji ;
+VII-2.3. Documents justificatifs à joindre à l'appui d'une demande d'aide après réalisation
 
-Iles Cook ;
+A.-Dossier administratif :
 
-Iles Marshall ;
+1° Le formulaire de demande d'aide aux cinémas du monde établi par le Centre national du cinéma et de l'image animée ;
 
-Iles Salomon ;
+2° La lettre de demande détaillée, signée par le producteur, indiquant l'état d'avancement du projet et justifiant le montant de l'aide demandée, notamment au regard du niveau de dépenses françaises prévisionnel ainsi que des besoins de financement (en français) ;
 
-Kiribati ;
+3° Le ou les contrat (s) de coproduction avec l'ensemble des partenaires. Une traduction sommaire est demandée pour tout contrat rédigé dans une langue autre que le français, l'anglais ou l'espagnol ;
 
-Micronésie ;
+4° Le ou les contrat (s) de cession de droits d'auteur (s). Les clauses types prévues par l'article L. 311-5 du code du cinéma et de l'image animée font l'objet d'un surlignage. Une traduction sommaire est demandée pour tout contrat rédigé dans une langue autre que le français, l'anglais ou l'espagnol ;
 
-Nauru ;
+5° Le ou les contrat (s) conclu avec le ou les réalisateur (s). Une traduction sommaire est demandée pour tout contrat rédigé dans une langue autre que le français, l'anglais ou l'espagnol ;
 
-Niue ;
+6° Un extrait K bis datant de moins de trois mois, pour la société établie en France ;
 
-Palaos ;
+7° Une copie des statuts et, le cas échéant, de tout accord entre associés ou actionnaires ;
 
-Papouasie-Nouvelle-Guinée ;
+8° Le plan de financement détaillé (indiquant les financements acquis et en cours ainsi que le montant de l'aide aux cinémas du monde demandé) (utiliser le modèle téléchargeable en ligne) ;
 
-Samoa ;
+9° Le devis détaillé avec la ventilation des dépenses effectuées et prévues dans chaque pays et le détail des dépenses effectuées et prévues en France (utiliser le modèle téléchargeable en ligne) ;
 
-Timor-Leste ;
+10° Les justificatifs du ou des financements de l'œuvre-part France uniquement (contrats ou lettres d'intérêt chiffrées, aides à la postproduction obtenues) ;
 
-Tonga ;
+11° Le calendrier de postproduction ;
 
-Tuvalu ;
+12° La liste de l'équipe technique et artistique (préciser la nationalité et la résidence fiscale) ;
 
-Vanuatu.
+13° La liste précise des dépenses de post-production envisagées (indiquer celles prévues en France avec la dénomination des prestataires) (utiliser le modèle téléchargeable en ligne) ;
+
+14° Pour tous les projets d'un budget supérieur à 2 500 000 € et tous les autres projets sollicitant l'agrément du CNC : la notification de l'agrément des investissements ou, dans l'hypothèse où il n'aurait pas encore été obtenu, la fiche récapitulative du barème du soutien financier complétée (disponible en téléchargement sur le site du CNC).
+
+15° Le formulaire (complété et signé) de déclaration relative aux mesures mises en place au titre des obligations des entreprises en matière de lutte contre le harcèlement sexuel, accompagné d'une attestation de formation ou d'une confirmation d'inscription transmise par le CNC ;
+
+16° Pour les œuvres qui ne donnent pas lieu à la délivrance de l'agrément et dans lesquelles la part française est majoritaire, un bilan détaillé relatif à l'empreinte carbone induite par la part française de la production de l'œuvre ;
+
+B.-Dossier artistique :
+
+1° Pour le montage en cours qui doit être sous-titré en français ou en anglais précédé d'un carton indiquant les travaux de postproduction restant à effectuer : transmission d'un lien internet pour accéder à la page de visionnage ;
+
+2° Une note d'intention ou une lettre du producteur signée (indiquant notamment l'état d'avancement du projet et les besoins de financement complémentaires) (en français) ;
+
+3° Une note d'intention du réalisateur (actualisée, et en français) ;
+
+4° Le curriculum vitae du ou des réalisateurs ;
+
+5° Le curriculum vitae de tous les producteurs.
 
 VII-3. Aides financières automatiques à la promotion à l'étranger des œuvres cinématographiques
 
@@ -647,3 +665,7 @@ Turkménistan ;
 Uruguay ;
 
 Venezuela.
+
+NOTA :
+
+Conformément à l'article 4 de la Délibération n° 2025/CA/25 du 29 septembre 2025 (NOR : MICK2528094X), ces dispositions, dans leur rédaction résultant de la délibération précitée, s'appliquent aux demandes d'aides adressées au Centre national du cinéma et de l'image animée à compter du 1er janvier 2026.
