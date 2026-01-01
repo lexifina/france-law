@@ -1648,7 +1648,9 @@ I. - En application du point 11.2.1.3 de l'annexe du règlement d'exécution (UE
 
 2. Suivent les règles d'utilisation de ces modules de compétence, qui sont fixées par le directeur général de l'aviation civile et qui spécifient le contenu théorique et pratique, ainsi que les méthodes et outils pédagogiques à utiliser lors des formations ;
 
-3. Mettent à jour, en cas d'actualisation par le directeur général de l'aviation civile de modules de compétence ou de règles d'utilisation notamment pour prendre en compte les évolutions du droit de l'Union européenne et du droit national ainsi que des menaces, les formations qu'ils délivrent au plus tard un mois après la mise à disposition de la version actualisée de ces modules de compétence ou règles d'utilisation, sauf si ces dernières prévoient un délai différent.
+3. Par dérogation au point I.1 du présent article, conçoivent les formations périodiques relevant des points 11.2.3.6 à 11.2.3.11 de l'annexe du règlement d'exécution (UE) 2015/1998 de la Commission du 5 novembre 2015 mentionné ci-dessus, de manière adaptée aux apprenants et selon les règles d'utilisation mentionnées au point I.2. ;
+
+4. Mettent à jour, en cas d'actualisation par le directeur général de l'aviation civile de modules de compétence ou de règles d'utilisation notamment pour prendre en compte les évolutions du droit de l'Union européenne et du droit national ainsi que des menaces, les formations qu'ils délivrent au plus tard un mois après la mise à disposition de la version actualisée de ces modules de compétence ou règles d'utilisation, sauf si ces dernières prévoient un délai différent.
 
 II. - Lorsque les règles d'utilisation des modules de compétence mentionnées au I l'autorisent, les entreprises, organismes ou instructeurs délivrant une formation initiale ou périodique peuvent recourir à la formation en ligne.
 
@@ -1742,7 +1744,9 @@ T2 |
 
 11.2.3.3. : inspection/filtrage du courrier et du matériel des transporteurs aériens, des approvisionnements de bord et des fournitures d'aéroport, et
 
-11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille. |
+11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille.
+
+|
 
 Typologie n° 3 |
 
@@ -1750,7 +1754,9 @@ T3 |
 
 11.2.3.1. (IFPBC) : inspection/filtrage des personnes, des bagages de cabine, des articles transportés, et
 
-11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille. |
+11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille.
+
+|
 
 Typologie n° 4 |
 
@@ -1766,7 +1772,9 @@ T5 |
 
 11.2.3.3. : inspection/filtrage du courrier et du matériel des transporteurs aériens, des approvisionnements de bord et des fournitures d'aéroport, et
 
-11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille. |
+11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille.
+
+|
 
 Typologie n° 6 |
 
@@ -1778,7 +1786,9 @@ T6 |
 
 11.2.3.4. : inspections des véhicules, et
 
-11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille. |
+11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille.
+
+|
 
 Typologie n° 7 |
 
@@ -1790,7 +1800,9 @@ T7 |
 
 11.2.3.4. : inspections des véhicules, et
 
-11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille. |
+11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille.
+
+|
 
 Typologie n° 8 |
 
@@ -1816,7 +1828,9 @@ T10 |
 
 11.2.3.4. : inspections des véhicules, et
 
-11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille. |
+11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille.
+
+|
 
 Sans préjudice des conditions de certification initiale, fixées par l'article 14 de l'arrêté du 27 juin 2017 portant cahier des charges applicable à la formation initiale aux activités privées de sécurité, en vue de l'obtention d'une carte professionnelle autorisant l'exercice d'une activité " sûreté de l'aviation civile ", chaque typologie, à l'exception de la T8 et de la T9, se décline au choix du candidat avec ou sans analyse d'images, pour l'obtention ou le renouvellement d'une certification.
 
@@ -1932,17 +1946,41 @@ Les informations relatives aux nouvelles menaces et aux nouvelles dispositions l
 
 Section 5 : Qualification des instructeurs
 
-Article 11-5-1 - Qualification des instructeurs des personnes relevant des points 11.2.3.6 à 11.2.3.11, 11.2.4 (supervisant directement les agents visées aux point 11.2.3.6 à 11.2.3.11), 11.2.6.2 et 11.2.7 de l'annexe du règlement (UE) 2015/1998 susvisé
+Article 11-5-1 - Qualification des instructeurs des personnes relevant des points 11.2.2, 11.2.3.6 à 11.2.3.11, 11.2.4 (supervisant directement les agents visées aux point 11.2.3.6 à 11.2.3.11), 11.2.6.2 et 11.2.7 de l'annexe du règlement (UE) 2015/1998 susvisé
 
-L'employeur des agents qui suivent les formations liées aux tâches énumérées aux points 11.2.3.6 à 11.2.3.11, 11.2.4 (des agents qui supervisent directement les agents visés aux points 11.2.3.6 à 11.2.3.11), 11.2.6.2 et 11.2.7 de l'annexe du règlement (UE) 2015/1998 susvisé, s'assure que l'instructeur chargé de dispenser la formation est qualifié, avant de lui confier la réalisation d'une session de formation. Il tient à jour et à la disposition des services compétents de l'Etat la liste des instructeurs qualifiés auxquels il fait appel.
+I.- L'employeur des agents qui suivent les formations liées aux tâches énumérées aux points 11.2.2, 11.2.3.6 à 11.2.3.11, 11.2.4 (des agents qui supervisent directement les agents visés aux points 11.2.3.6 à 11.2.3.11), 11.2.6.2 et 11.2.7 de l'annexe du règlement (UE) 2015/1998 susvisé, s'assure que l'instructeur chargé de dispenser la formation est qualifié, avant de lui confier la réalisation d'une session de formation. Il tient à jour et à la disposition des services compétents de l'Etat la liste des instructeurs qualifiés auxquels il fait appel.
 
-Pour être qualifié, un instructeur doit posséder une expérience de formateur dans le domaine enseigné de la sûreté du transport aérien d'une durée d'au moins un an, ou satisfaire à chacun des 3 critères suivants :
+II. - Pour devenir instructeur qualifié, une personne doit remplir, depuis moins de trois ans, les conditions suivantes :
 
-- attester une expérience pratique d'au moins six mois dans les fonctions d'exécution des domaines enseignés, datant de moins de 5 ans ;
+1. Soit avoir suivi une formation initiale dispensée par l'ENAC ;
 
-- attester une pratique de l'enseignement de plus d'un an ou de la participation à une formation de formateur, datant de moins de 5 ans ;
+2. Soit remplir les conditions cumulatives suivantes :
 
-- attester avoir suivi avec succès la formation définie au point 11.2.2 de l'annexe du règlement (UE) 2015/1998 susvisé, datant de moins de 5 ans.
+a. Avoir suivi avec succès la formation définie au point 11.2.2 de l'annexe du règlement d'exécution (UE) 2015/1998 de la Commission du 5 novembre 2015 mentionné ci-dessus ;
+
+b. Avoir suivi avec succès une formation à la pédagogie ;
+
+c. Détenir une expérience pratique dans les fonctions d'exécution relevant d'au moins un des points 11.2.3.6 à 11.2.3.11 de l'annexe du règlement d'exécution (UE) 2015/1998 de la Commission du 5 novembre 2015 mentionné ci-dessus ; cette expérience est d'une durée minimale de six mois, continus ou discontinus ;
+
+d. Le cas échéant, pour chacune des formations que l'instructeur souhaite dispenser mais pour lesquelles il ne remplit pas la condition d'expérience prévue au précédent alinéa :
+
+i. Avoir lui-même suivi avec succès la formation en présentiel ; et
+
+ii. Avoir réalisé une séance d'observation sur le terrain d'au moins deux heures, sous le tutorat d'une entreprise réalisant les activités concernées ; cette séance d'observation fait l'objet d'une attestation signée par la personne ayant assuré le tutorat ;
+
+e. Avoir préparé et dispensé un cours relevant de l'un des points 11.2.2, 11.2.3.6 à 11.2.3.11, 11.2.4, 11.2.6.2 et 11.2.7 de l'annexe du règlement d'exécution (UE) 2015/1998 de la Commission du 5 novembre 2015 mentionné ci-dessus, sous tutorat d'un instructeur qualifié ou certifié en sûreté de l'aviation civile ; les attestations de formation émises à l'issue de ce cours sont co-signées par l'instructeur sous tutorat et le tuteur ; la préparation et la dispense de ce cours font l'objet d'une attestation du tuteur.
+
+III. - Pour maintenir sa qualification, l'instructeur doit remplir les conditions cumulatives suivantes :
+
+1. Suivre avec succès, a minima tous les trois ans, une formation périodique lui permettant d'actualiser ses compétences pédagogiques ainsi que ses connaissances réglementaires relatives aux points 11.2.3.6 à 11.2.3.11 de l'annexe du règlement d'exécution (UE) 2015/1998 de la Commission du 5 novembre 2015 mentionné ci-dessus ;
+
+2. Dispenser au moins un cours par an relevant de l'un des points 11.2.2, 11.2.3.6 à 11.2.3.11, 11.2.4, 11.2.6.2 et 11.2.7 de l'annexe du règlement d'exécution (UE) 2015/1998 de la Commission du 5 novembre 2015 mentionné ci-dessus ;
+
+3. Réaliser, a minima une fois par an, une séance d'observation sur le terrain d'au moins deux heures sous le tutorat d'une entreprise réalisant les activités relevant de l'un des points 11.2.3.6 à 11.2.3.11 de l'annexe du règlement d'exécution (UE) 2015/1998 de la Commission du 5 novembre 2015 mentionné ci-dessus ; cette séance d'observation fait l'objet d'une attestation de la personne ayant assuré le tutorat ;
+
+4. Assister, a minima tous les trois ans, au colloque des instructeurs organisé par le ministre chargé de l'aviation civile ou à une séance de retour d'expérience et d'actualisation des connaissances organisée par son employeur ou son donneur d'ordres.
+
+IV. - Avant d'exercer, un instructeur qualifié se déclare ou fait l'objet d'une déclaration par son employeur auprès du ministre chargé des transports.
 
 Article 11-5-2 - Formation des instructeurs certifiés
 
@@ -2110,15 +2148,21 @@ Les durées présentées dans le tableau ci-dessous incluent, pour les typologie
 
 Théorie et pratique
 
-hors équipements |
+hors équipements
+
+|
 
 Connaissance
 
-des équipements (théorie) |
+des équipements (théorie)
+
+|
 
 Analyse d'images
 
-sur simulateur |
+sur simulateur
+
+|
 
 Typologie 1 |
 
@@ -2578,11 +2622,15 @@ Note minimale au QCM |
 
 Note minimale à chaque épreuve d'analyse d'images
 
-(le cas échéant) |
+(le cas échéant)
+
+|
 
 Note minimale moyenne
 
-à l'examen de certification |
+à l'examen de certification
+
+|
 
 Antérieure au 1er juillet 2022 |
 
@@ -2594,7 +2642,9 @@ Antérieure au 1er juillet 2022 |
 
 Comprise entre le 1er juillet 2022
 
-et le 31 décembre 2022 |
+et le 31 décembre 2022
+
+|
 
 10/20 |
 
@@ -2626,11 +2676,15 @@ Note minimale au QCM |
 
 Note minimale à chaque épreuve d'analyse d'images
 
-(le cas échéant) |
+(le cas échéant)
+
+|
 
 Note minimale moyenne
 
-à l'examen de certification |
+à l'examen de certification
+
+|
 
 Antérieure au 1er janvier 2023 |
 
@@ -2650,7 +2704,9 @@ Comprise entre le 1er janvier 2023 et le 30 juin 2023 |
 
 Comprise entre le 1er juillet 2023
 
-et le 31 décembre 2023 |
+et le 31 décembre 2023
+
+|
 
 10/20 |
 
@@ -2684,11 +2740,15 @@ Types d'équipement de sûreté |
 
 Soumis à certification
 
-de type |
+de type
+
+|
 
 Soumis à certification
 
-individuelle |
+individuelle
+
+|
 
 Portique de détection de métaux (WTMD) |
 
@@ -2952,7 +3012,9 @@ Compétences requises
 
 du conducteur de chiens
 
-pour l'environnement de travail |
+pour l'environnement de travail
+
+|
 
 1. Inspection/filtrage du fret et courrier |
 
@@ -2982,7 +3044,9 @@ pour l'environnement de travail |
 
 11.2.3.1.
 
-11.2.3.6. |
+11.2.3.6.
+
+|
 
 8. Inspection/filtrage des personnes, des bagages de cabine et des objets transportés |
 
@@ -3072,7 +3136,9 @@ Objectifs pédagogiques spécifiques |
 
 Durée minimale
 
-de formation |
+de formation
+
+|
 
 Acquérir les connaissances théoriques, pratiques et environnementales en matière de cynotechnie. |
 
@@ -3242,7 +3308,9 @@ Date des modifications
 
 Numéro
 
-de la révision |
+de la révision
+
+|
 
 Référence de l'arrêté de révision |
 
@@ -3312,7 +3380,9 @@ A-2 |
 
 Introduction de nouvelles définitions en lien avec le chapitre 12
 
-Modification de la définition de trafic annuel commercial |
+Modification de la définition de trafic annuel commercial
+
+|
 
 |
 
@@ -3330,11 +3400,15 @@ A-2 |
 
 Suppression de la définition de ACEDS
 
-Ajout de la définition de " mode dégradé " |
+Ajout de la définition de " mode dégradé "
+
+|
 
 Mise en cohérence avec réglementation UE
 
-Harmonisation de la terminologie utilisée |
+Harmonisation de la terminologie utilisée
+
+|
 
 5 |
 
@@ -3392,7 +3466,9 @@ Création des articles D-1 et D-2 |
 
 Limitation des durées de toutes les habilitations à 3 ans.
 
-Relation habilitation et alinéa b) du point 11.1.3. de l'annexe du règlement (UE) 185/2010 |
+Relation habilitation et alinéa b) du point 11.1.3. de l'annexe du règlement (UE) 185/2010
+
+|
 
 4 |
 
@@ -3425,3 +3501,7 @@ code de l'aviation civile |
 |
 
 ancien article 12-11-2) |
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 5 juin 2025 (NOR : ATDA2502219A), ces dispositions entrent en vigueur le 1er janvier 2026.
