@@ -1,15 +1,25 @@
 # Article Annexe II
 
-Liste des diplômes permettant de s'inscrire au brevet professionnel Boulanger
+LISTE DES DIPLÔMES ET TITRES HOMOLOGUÉS RÉDUISANT, SELON LA SITUATION DES CANDIDATS, LA DURÉE D'ACTIVITÉ PROFESSIONNELLE EXIGÉE EN APPLICATION DE L'ARTICLE D. 337-102 DU CODE DE L'ÉDUCATION
 
-1) Diplômes de niveau 5 :
+Brevet professionnel spécialité Boulanger
 
-- CAP Boulanger
+1) Diplôme de niveau 3 :
 
-- Mention complémentaire Boulangerie spécialisée
+- certificat d'aptitude professionnelle spécialité Boulanger ;
 
-- Mention complémentaire Pâtisserie boulangère
+- certificat de spécialisation spécialité Boulangerie spécialisée (*) ;
+
+- certificat de spécialisation spécialité Pâtisserie boulangère (*) ;
+
+- certificat de spécialisation spécialité Techniques du tour en boulangerie et en pâtisserie.
+
+(*) Ex-mention complémentaire de niveau 3.
 
 2) Diplôme de niveau 4 :
 
-- Baccalauréat Professionnel Boulanger-pâtissier
+- baccalauréat professionnel spécialité Boulanger-pâtissier.
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 12 mars 2025 (NOR : MENE2506517A), les dispositions de l'arrêté précité entrent en vigueur à compter de la session 2026.
