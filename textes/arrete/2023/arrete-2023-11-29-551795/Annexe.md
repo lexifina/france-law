@@ -20,6 +20,30 @@ de la gendarmerie
 
 de l'outre-mer |
 
+COMGEND GF |
+
+PSIG MATOURY |
+
+commandant de peloton de surveillance et d'intervention de la gendarmerie |
+
+COMGEND GF |
+
+PSIG SAINT-LAURENT-DU-MARONI |
+
+commandant de peloton de surveillance et d'intervention de la gendarmerie |
+
+COMGEND GP |
+
+BR LE MOULE |
+
+commandant de brigade de recherches |
+
+COMGEND GP |
+
+BR POINTE-À-PITRE |
+
+commandant de brigade de recherches |
+
 COMGEND GP |
 
 BTA MORNE-A-L'EAU |
@@ -52,17 +76,9 @@ commandant de brigade territoriale autonome |
 
 COMGEND GP |
 
-BR LE MOULE |
-
-commandant de brigade des recherches |
-
-COMGEND GP |
-
 PSIG POINTE-À-PITRE |
 
-commandant de peloton de surveillance
-
-et d'intervention de la gendarmerie |
+commandant de peloton de surveillance et d'intervention de la gendarmerie |
 
 COMGEND MQ |
 
@@ -70,35 +86,23 @@ BTA SAINT-JOSEPH |
 
 commandant de brigade territoriale autonome |
 
-COMGEND YT |
+COMGEND MQ |
 
-BTA KOUNGOU |
-
-commandant de brigade territoriale autonome |
-
-COMGEND YT |
-
-BTA M-ZOUAZIA |
+BTA SAINTE-MARIE |
 
 commandant de brigade territoriale autonome |
 
-COMGEND YT |
+COMGEND MQ |
 
-BTA MTSAMBORO |
+PSIG LE MARIN |
 
-commandant de brigade territoriale autonome |
+commandant de peloton de surveillance et d'intervention de la gendarmerie |
 
-COMGEND YT |
+COMGEND NC |
 
-BTA SADA |
+AC3N NOUMÉA |
 
-commandant de brigade territoriale autonome |
-
-COMGEND YT |
-
-SOLC SAJ COMGEND YT |
-
-chef de section CYBER |
+chef antenne C3N |
 
 COMGEND NC |
 
@@ -132,11 +136,63 @@ commandant de communauté de brigades |
 
 COMGEND RE |
 
-EDSR SOI |
+EDCF SOI |
 
-commandant d'escadron départemental de sécurité routière adjoint |
+commandant d'escadron de contrôle des flux adjoint |
 
-Région de gendarmerie d'Auvergne-Rhône-Alpes |
+COMGEND YT |
+
+BTA DEMBENI |
+
+commandant de brigade territoriale autonome |
+
+COMGEND YT |
+
+BTA KOUNGOU |
+
+commandant de brigade territoriale autonome |
+
+COMGEND YT |
+
+BTA M-ZOUAZIA |
+
+commandant de brigade territoriale autonome |
+
+COMGEND YT |
+
+BTA MTSAMBORO |
+
+commandant de brigade territoriale autonome |
+
+COMGEND YT |
+
+BTA SADA |
+
+commandant de brigade territoriale autonome |
+
+COMGEND YT |
+
+SOLC SAJ COMGEND YT |
+
+chef de section cybernumérique |
+
+Région
+
+de gendarmerie
+
+d'Auvergne-Rhône-Alpes |
+
+GGD01 |
+
+BR GEX |
+
+commandant de brigade de recherches |
+
+GGD01 |
+
+BR TREVOUX |
+
+commandant de brigade de recherches |
 
 GGD01 |
 
@@ -212,15 +268,15 @@ commandant de communauté de brigades |
 
 GGD01 |
 
-BR TREVOUX |
-
-commandant de brigade des recherches |
-
-GGD01 |
-
 PMO DAGNEUX |
 
 commandant de peloton motorisé |
+
+GGD01 |
+
+PSIG AMBERIEU-EN-BUGEY |
+
+commandant de peloton de surveillance et d'intervention de la gendarmerie |
 
 GGD03 |
 
@@ -248,9 +304,9 @@ commandant de communauté de brigades |
 
 GGD03 |
 
-EDSR 03 |
+EDCF 03 |
 
-commandant d'escadron départemental de sécurité routière adjoint |
+commandant d'escadron de contrôle des flux adjoint |
 
 GGD07 |
 
@@ -266,13 +322,31 @@ commandant de communauté de brigades |
 
 GGD07 |
 
-EDSR 07 |
+EDCF 07 |
 
-commandant d'escadron départemental de sécurité routière adjoint |
+commandant d'escadron de contrôle des flux adjoint |
 
 GGD15 |
 
 COB AURILLAC |
+
+commandant de communauté de brigades |
+
+GGD15 |
+
+COB CHAUDES-AIGUES |
+
+commandant de communauté de brigades |
+
+GGD15 |
+
+COB MURAT |
+
+commandant de communauté de brigades |
+
+GGD15 |
+
+COB SAINT-FLOUR |
 
 commandant de communauté de brigades |
 
@@ -284,9 +358,9 @@ commandant de communauté de brigades |
 
 GGD15 |
 
-EDSR 15 |
+EDCF 15 |
 
-commandant d'escadron départemental de sécurité routière adjoint |
+commandant d'escadron de contrôle des flux adjoint |
 
 GGD26 |
 
@@ -308,9 +382,21 @@ commandant de communauté de brigades |
 
 GGD26 |
 
-COB ROMANS-SUR-ISÈRE |
+COB SAINT-VALLIER |
 
 commandant de communauté de brigades |
+
+GGD38 |
+
+BR MEYLAN |
+
+commandant de brigade de recherches |
+
+GGD38 |
+
+BR VIENNE |
+
+commandant de brigade de recherches |
 
 GGD38 |
 
@@ -350,13 +436,13 @@ commandant de brigade territoriale autonome |
 
 GGD38 |
 
-BTA SASSENAGE |
+BTA SAINT-EGREVE |
 
 commandant de brigade territoriale autonome |
 
 GGD38 |
 
-BTA SAINT-EGREVE |
+BTA SASSENAGE |
 
 commandant de brigade territoriale autonome |
 
@@ -410,7 +496,7 @@ commandant de communauté de brigades |
 
 GGD38 |
 
-COB SAINT-ÉTIENNE-DE-SAINT-GEOIRS |
+COB SAINT-ETIENNE-DE-SAINT-GEOIRS |
 
 commandant de communauté de brigades |
 
@@ -422,15 +508,9 @@ commandant de communauté de brigades |
 
 GGD38 |
 
-BR MEYLAN |
+PMO LE PONT DE CLAIX |
 
-commandant de brigade des recherches |
-
-GGD38 |
-
-BR VIENNE |
-
-commandant de brigade des recherches |
+commandant de peloton motorisé |
 
 GGD42 |
 
@@ -443,6 +523,12 @@ GGD42 |
 BTA SAINT-JUST-SAINT-RAMBERT |
 
 commandant de brigade territoriale autonome |
+
+GGD42 |
+
+COB BALBIGNY |
+
+commandant de communauté de brigades |
 
 GGD42 |
 
@@ -471,6 +557,18 @@ commandant de communauté de brigades |
 GGD43 |
 
 COB SAINT-PAULIEN |
+
+commandant de communauté de brigades |
+
+GGD43 |
+
+COB ST-DIDIER-EN-VELAY |
+
+commandant de communauté de brigades |
+
+GGD43 |
+
+COB YSSENGEAUX |
 
 commandant de communauté de brigades |
 
@@ -506,9 +604,45 @@ commandant de communauté de brigades |
 
 GGD63 |
 
+COB ROCHEFORT-MONTAGNE |
+
+commandant de communauté de brigades |
+
+GGD63 |
+
 COB ROMAGNAT |
 
 commandant de communauté de brigades |
+
+GGD63 |
+
+COB SAINT-ELOY-LES-MINES |
+
+commandant de communauté de brigades |
+
+GGD69 |
+
+BR GIVORS |
+
+commandant de brigade de recherches |
+
+GGD69 |
+
+BR L'ARBRESLE |
+
+commandant de brigade de recherches |
+
+GGD69 |
+
+BR MIONS |
+
+commandant de brigade de recherches |
+
+GGD69 |
+
+BR VILLEFRANCHE-SUR-SAÔNE |
+
+commandant de brigade de recherches |
 
 GGD69 |
 
@@ -519,6 +653,12 @@ commandant de brigade territoriale autonome |
 GGD69 |
 
 BTA BELLEVILLE-EN-BEAUJOLAIS |
+
+commandant de brigade territoriale autonome |
+
+GGD69 |
+
+BTA DARDILLY |
 
 commandant de brigade territoriale autonome |
 
@@ -566,15 +706,21 @@ commandant de communauté de brigades |
 
 GGD69 |
 
-BR GIVORS |
+PSIG VILLEFRANCHE-SUR-SAÔNE |
 
-commandant de brigade des recherches |
+commandant de peloton de surveillance et d'intervention de la gendarmerie |
 
-GGD69 |
+GGD70 |
 
-BR MIONS |
+PSIG GIVORS |
 
-commandant de brigade des recherches |
+commandant de peloton de surveillance et d'intervention de la gendarmerie |
+
+GGD73 |
+
+BR CHAMBÉRY |
+
+commandant de brigade de recherches |
 
 GGD73 |
 
@@ -602,6 +748,12 @@ commandant de brigade territoriale autonome |
 
 GGD73 |
 
+COB AIX-LES-BAINS |
+
+commandant de communauté de brigades |
+
+GGD73 |
+
 COB ALBERTVILLE |
 
 commandant de communauté de brigades |
@@ -617,6 +769,18 @@ GGD73 |
 COB MONTMELIAN |
 
 commandant de communauté de brigades |
+
+GGD73 |
+
+PMO NANCES-CHAMBÉRY |
+
+commandant de peloton motorisé |
+
+GGD74 |
+
+BR ANNECY |
+
+commandant de brigade de recherches |
 
 GGD74 |
 
@@ -656,9 +820,15 @@ commandant de communauté de brigades |
 
 GGD74 |
 
-BR ANNECY |
+COB MEGÈVE |
 
-commandant de brigade des recherches |
+commandant de communauté de brigades |
+
+GGD74 |
+
+PMO ANNECY |
+
+commandant de peloton motorisé |
 
 GGD74 |
 
@@ -666,9 +836,27 @@ PMO BONNEVILLE |
 
 commandant de peloton motorisé |
 
+GGD74 |
+
+PSIG SAINT-JULIEN-EN-GENEVOIS |
+
+commandant de peloton de surveillance et d'intervention de la gendarmerie |
+
+GGMI/5 SATHONAY-CAMP |
+
+PP4 EGM11/5 SATHONAY-CAMP |
+
+commandant de peloton de gendarmerie mobile |
+
 GGMI/5 SATHONAY-CAMP |
 
 PP4 EGM12/5 SATHONAY-CAMP |
+
+commandant de peloton de gendarmerie mobile |
+
+GGMI/5 SATHONAY-CAMP |
+
+PP4 EGM13/5 SATHONAY-CAMP |
 
 commandant de peloton de gendarmerie mobile |
 
@@ -704,11 +892,59 @@ commandant de peloton de gendarmerie mobile |
 
 GGMII/5 CHAMBÉRY |
 
+PP4 EGM21/5 CHAMBÉRY |
+
+commandant de peloton de gendarmerie mobile |
+
+GGMII/5 CHAMBÉRY |
+
+PP4 EGM22/5 ANNECY |
+
+commandant de peloton de gendarmerie mobile |
+
+GGMII/5 CHAMBÉRY |
+
+PP4 EGM23/5 PONTCHARRA |
+
+commandant de peloton de gendarmerie mobile |
+
+GGMII/5 CHAMBÉRY |
+
 PP4 EGM24/5 GRENOBLE |
 
 commandant de peloton de gendarmerie mobile |
 
-Région de gendarmerie de Bourgogne-Franche-Comté |
+GGMII/5 CHAMBÉRY |
+
+PP4 EGM25/5 BOURGOIN-JALLIEU |
+
+commandant de peloton de gendarmerie mobile |
+
+GGMII/5 CHAMBÉRY |
+
+PP4 EGM26/5 BELLEY |
+
+commandant de peloton de gendarmerie mobile |
+
+SR 38 |
+
+AC3N GRENOBLE |
+
+chef antenne C3N |
+
+SR73 |
+
+DAB SR CHAMBÉRY |
+
+adjoint chef de division police judiciaire |
+
+Région
+
+de gendarmerie
+
+de Bourgogne-
+
+Franche-Comté |
 
 GGD21 |
 
@@ -724,7 +960,7 @@ commandant de brigade territoriale autonome |
 
 GGD21 |
 
-COB BEAUNE |
+COB ARNAY-LE-DUC |
 
 commandant de communauté de brigades |
 
@@ -742,9 +978,21 @@ commandant de communauté de brigades |
 
 GGD21 |
 
+COB MIREBEAU-SUR-BÈZE |
+
+commandant de communauté de brigades |
+
+GGD21 |
+
 COB MONTBARD |
 
 commandant de communauté de brigades |
+
+GGD25 |
+
+BR MONTBÉLIARD |
+
+commandant de brigade de recherches |
 
 GGD25 |
 
@@ -760,18 +1008,6 @@ commandant de brigade territoriale autonome |
 
 GGD25 |
 
-COB L'ISLE-SUR-LE-DOUBS |
-
-commandant de communauté de brigades |
-
-GGD25 |
-
-COB LES-HÔPITAUX-NEUFS |
-
-commandant de communauté de brigades |
-
-GGD25 |
-
 COB MAICHE |
 
 commandant de communauté de brigades |
@@ -784,7 +1020,37 @@ commandant de communauté de brigades |
 
 GGD25 |
 
+COB BESANÇON-TARRAGNOZ |
+
+commandant de communauté de brigades |
+
+GGD25 |
+
+COB HERICOURT |
+
+commandant de communauté de brigades |
+
+GGD25 |
+
+COB L'ISLE-SUR-LE-DOUBS |
+
+commandant de communauté de brigades |
+
+GGD25 |
+
+COB LES-HÔPITAUX-NEUFS |
+
+commandant de communauté de brigades |
+
+GGD25 |
+
 COB PONTARLIER |
+
+commandant de communauté de brigades |
+
+GGD39 |
+
+COB BLETTERANS |
 
 commandant de communauté de brigades |
 
@@ -805,6 +1071,18 @@ GGD39 |
 COB POLIGNY |
 
 commandant de communauté de brigades |
+
+GGD39 |
+
+PSIG SAINT-CLAUDE |
+
+commandant de peloton de surveillance et d'intervention de la gendarmerie |
+
+GGD58 |
+
+BR NEVERS |
+
+commandant de brigade de recherches |
 
 GGD58 |
 
@@ -830,6 +1108,18 @@ COB VARENNES-VAUZELLES |
 
 commandant de communauté de brigades |
 
+GGD58 |
+
+SOLC BDRIJ 58 |
+
+chef de section cybernumérique |
+
+GGD70 |
+
+BR LURE |
+
+commandant de brigade de recherches |
+
 GGD70 |
 
 BTA CHAMPAGNEY |
@@ -844,13 +1134,19 @@ commandant de brigade territoriale autonome |
 
 GGD70 |
 
+COB PORT-SUR-SAONE |
+
+commandant de communauté de brigades |
+
+GGD70 |
+
 COB JUSSEY |
 
 commandant de communauté de brigades |
 
 GGD70 |
 
-COB PORT-SUR-SAONE |
+COB MARNAY |
 
 commandant de communauté de brigades |
 
@@ -862,9 +1158,27 @@ commandant de communauté de brigades |
 
 GGD71 |
 
+BTA AUXONNE |
+
+commandant de brigade territoriale autonome |
+
+GGD71 |
+
 BTA SENNECEY-LE-GRAND |
 
 commandant de brigade territoriale autonome |
+
+GGD71 |
+
+COB CHAGNY |
+
+commandant de communauté de brigades |
+
+GGD71 |
+
+COB CUISERY |
+
+commandant de communauté de brigades |
 
 GGD71 |
 
@@ -886,6 +1200,12 @@ commandant de communauté de brigades |
 
 GGD71 |
 
+COB ROULANS |
+
+commandant de communauté de brigades |
+
+GGD71 |
+
 COB TOURNUS |
 
 commandant de communauté de brigades |
@@ -895,6 +1215,12 @@ GGD71 |
 CORG GGD71 |
 
 chef de centre opérationnel et de renseignement de la gendarmerie |
+
+GGD89 |
+
+BR AUXERRE |
+
+commandant de brigade de recherches |
 
 GGD89 |
 
@@ -922,6 +1248,12 @@ commandant de communauté de brigades |
 
 GGD89 |
 
+COB SENS |
+
+commandant de communauté de brigades |
+
+GGD89 |
+
 COB TONNERRE |
 
 commandant de communauté de brigades |
@@ -938,13 +1270,23 @@ COB VILLENEUVE-SUR-YONNE |
 
 commandant de communauté de brigades |
 
-GGD89 |
+Région
 
-BR AUXERRE |
+de gendarmerie
 
-commandant de brigade des recherches |
+de Bretagne |
 
-Région de gendarmerie de Bretagne |
+GGD22 |
+
+BDRIJ GGD22 |
+
+commandant de brigade départementale de renseignement et d'investigation judiciaire |
+
+GGD22 |
+
+BTA MATIGNON |
+
+commandant de brigade territoriale autonome |
 
 GGD22 |
 
@@ -990,6 +1332,12 @@ commandant de communauté de brigades |
 
 GGD22 |
 
+COB MONCONTOUR |
+
+commandant de communauté de brigades |
+
+GGD22 |
+
 COB PLANCOET |
 
 commandant de communauté de brigades |
@@ -1002,9 +1350,21 @@ commandant de communauté de brigades |
 
 GGD22 |
 
-BDRIJ GGD22 |
+PMO GUINGAMP |
 
-commandant de brigade départementale de renseignement et d'investigation judiciaire |
+commandant de peloton motorisé |
+
+GGD22 |
+
+PMO PLÉNÉE-JUGON |
+
+commandant de peloton motorisé |
+
+GGD22 |
+
+PSIG GUINGAMP |
+
+commandant de peloton de surveillance et d'intervention de la gendarmerie |
 
 GGD29 |
 
@@ -1026,6 +1386,24 @@ commandant de brigade territoriale autonome |
 
 GGD29 |
 
+BTA QUIMPERLÉ |
+
+commandant de brigade territoriale autonome |
+
+GGD29 |
+
+COB CHATEAULIN |
+
+commandant de communauté de brigades |
+
+GGD29 |
+
+COB PLOUGASTEL-DAOULAS |
+
+commandant de communauté de brigades |
+
+GGD29 |
+
 COB PLOURIN-LES-MORLAIX |
 
 commandant de communauté de brigades |
@@ -1044,7 +1422,31 @@ commandant de communauté de brigades |
 
 GGD35 |
 
+BR VITRÉ |
+
+commandant de brigade de recherches |
+
+GGD35 |
+
+BTA BETTON |
+
+commandant de brigade territoriale autonome |
+
+GGD35 |
+
 BTA MAEN-ROCH |
+
+commandant de brigade territoriale autonome |
+
+GGD35 |
+
+BTA MORDELLES |
+
+commandant de brigade territoriale autonome |
+
+GGD35 |
+
+BTA SAINT-AUBIN-DU-CORMIER |
 
 commandant de brigade territoriale autonome |
 
@@ -1092,13 +1494,19 @@ chef de centre opérationnel et de renseignement de la gendarmerie |
 
 GGD56 |
 
-COB ALLAIRE |
+BDRIJ GGD56 |
+
+commandant de brigade départementale de renseignement et d'investigation judiciaire |
+
+GGD56 |
+
+COB BAUD |
 
 commandant de communauté de brigades |
 
 GGD56 |
 
-COB BAUD |
+COB ALLAIRE |
 
 commandant de communauté de brigades |
 
@@ -1116,21 +1524,21 @@ commandant de communauté de brigades |
 
 GGD56 |
 
+COB MUZILLAC |
+
+commandant de communauté de brigades |
+
+GGD56 |
+
 COB QUESTEMBERT |
 
 commandant de communauté de brigades |
 
 GGD56 |
 
-BDRIJ GGD56 |
+EDCF 56 |
 
-commandant de brigade départementale de renseignement et d'investigation judiciaire |
-
-GGD56 |
-
-EDSR 56 |
-
-commandant d'escadron départemental de sécurité routière adjoint |
+commandant d'escadron de contrôle des flux adjoint |
 
 GGD56 |
 
@@ -1140,37 +1548,37 @@ commandant de peloton de surveillance et d'intervention de la gendarmerie |
 
 GGM I/3 RENNES |
 
-PP4 EGM 13/3 PONTIVY |
+PP4 EG 16/3 MAMERS |
 
 commandant de peloton de gendarmerie mobile |
 
 GGM I/3 RENNES |
 
-PP4 EGM 15/3 VANNES |
+PP4 EGM13/3 PONTIVY |
 
 commandant de peloton de gendarmerie mobile |
 
 GGM I/3 RENNES |
 
-PP4 EGM 16/3 MAMERS |
+PP4 EGM15/3 VANNES |
 
 commandant de peloton de gendarmerie mobile |
 
 GGM I/3 RENNES |
 
-PP4 EGM 17/3 MAYENNE |
+PP4 EGM17/3 MAYENNE |
 
 commandant de peloton de gendarmerie mobile |
 
 GGM II/3 MONT-SAINT-AIGNAN |
 
-PP4 EGM 23/3 ARGENTAN |
+PP4 EGM23/3 ARGENTAN |
 
 commandant de peloton de gendarmerie mobile |
 
 GGM II/3 MONT-SAINT-AIGNAN |
 
-PP4 EGM 24/3 LES-MONTS-D'AUNAY |
+PP4 EGM24/3 LES-MONTS-D'AUNAY |
 
 commandant de peloton de gendarmerie mobile |
 
@@ -1206,11 +1614,27 @@ commandant de peloton de gendarmerie mobile |
 
 GGM IV/3 ORLÉANS |
 
+PP4 EGM41/3 ORLÉANS |
+
+commandant de peloton de gendarmerie mobile |
+
+GGM IV/3 ORLÉANS |
+
 PP4 EGM44/3 PITHIVIERS |
 
 commandant de peloton de gendarmerie mobile |
 
-Région de gendarmerie de Centre-Val-de-Loire |
+GGM IV/3 ORLÉANS |
+
+PP4 EGM47/3 CHÂTEAUROUX |
+
+commandant de peloton de gendarmerie mobile |
+
+Région
+
+de gendarmerie
+
+de Centre-Val-de-Loire |
 
 GGD18 |
 
@@ -1238,6 +1662,12 @@ commandant de communauté de brigades |
 
 GGD18 |
 
+COB SAINT-MARTIN-D'AUXIGNY |
+
+commandant de communauté de brigades |
+
+GGD18 |
+
 COB SANCERRE |
 
 commandant de communauté de brigades |
@@ -1251,6 +1681,12 @@ commandant de communauté de brigades |
 GGD28 |
 
 BTA ANET |
+
+commandant de brigade territoriale autonome |
+
+GGD28 |
+
+BTA AUNEAU-BLEURY-SAINT-SYMPHORIEN |
 
 commandant de brigade territoriale autonome |
 
@@ -1286,12 +1722,6 @@ commandant de communauté de brigades |
 
 GGD28 |
 
-COB NOGENT-LE-ROTROU |
-
-commandant de communauté de brigades |
-
-GGD28 |
-
 PSIG LUCÉ |
 
 commandant de peloton de surveillance et d'intervention de la gendarmerie |
@@ -1304,9 +1734,27 @@ commandant de communauté de brigades |
 
 GGD36 |
 
+PMO ARGENTON-SUR-CREUSE |
+
+commandant de peloton motorisé |
+
+GGD36 |
+
+PMO CHATEAUROUX |
+
+commandant de peloton motorisé |
+
+GGD36 |
+
 SOLC BDRIJ 36 |
 
-chef de section CYBER |
+chef de section cybernumérique |
+
+GGD37 |
+
+COB BOURGUEIL |
+
+commandant de communauté de brigades |
 
 GGD37 |
 
@@ -1334,13 +1782,31 @@ commandant de peloton de surveillance et d'intervention de la gendarmerie |
 
 GGD41 |
 
+BTA MER |
+
+commandant de brigade territoriale autonome |
+
+GGD41 |
+
 COB COUR-CHEVERNY |
 
 commandant de communauté de brigades |
 
 GGD41 |
 
+COB LAMOTTE-BEUVRON |
+
+commandant de communauté de brigades |
+
+GGD41 |
+
 COB MARCHENOIR |
+
+commandant de communauté de brigades |
+
+GGD41 |
+
+COB MONTOIRE-SUR-LE-LOIR |
 
 commandant de communauté de brigades |
 
@@ -1364,15 +1830,21 @@ commandant de communauté de brigades |
 
 GGD41 |
 
-EDSR 41 |
+EDCF 41 |
 
-commandant d'escadron départemental de sécurité routière adjoint |
+commandant d'escadron de contrôle des flux adjoint |
+
+GGD41 |
+
+PMO LA-CHAUSSEE-ST-VICTOR |
+
+commandant de peloton motorisé |
 
 GGD45 |
 
-BTA CHÂTEAUNEUF-SUR-LOIRE |
+BR ORLÉANS |
 
-commandant de brigade territoriale autonome |
+commandant de brigade de recherches |
 
 GGD45 |
 
@@ -1395,6 +1867,12 @@ commandant de brigade territoriale autonome |
 GGD45 |
 
 COB ARTENAY |
+
+commandant de communauté de brigades |
+
+GGD45 |
+
+COB BEAUNE-LA-ROLANDE |
 
 commandant de communauté de brigades |
 
@@ -1424,6 +1902,12 @@ commandant de communauté de brigades |
 
 GGD45 |
 
+COB MEUNG-SUR-LOIRE |
+
+commandant de brigade territoriale autonome |
+
+GGD45 |
+
 COB NEUVILLE-AUX-BOIS |
 
 commandant de communauté de brigades |
@@ -1434,7 +1918,23 @@ PMO BEAUNE-LA-ROLANDE |
 
 commandant de peloton motorisé |
 
-Région de gendarmerie de Corse |
+SR ORLEANS |
+
+DDEFN SR ORLEANS |
+
+adjoint chef de division police judiciaire |
+
+Région
+
+de gendarmerie
+
+de Corse |
+
+GGD2A |
+
+BR PORTO-VECCHIO |
+
+commandant de brigade de recherches |
 
 GGD2A |
 
@@ -1442,11 +1942,11 @@ COB PROPRIANO |
 
 commandant de communauté de brigades |
 
-GGD2A |
+GGD2B |
 
-BR PORTO-VECCHIO |
+BR BASTIA |
 
-commandant de brigade des recherches |
+commandant de brigade de recherches |
 
 GGD2B |
 
@@ -1468,11 +1968,27 @@ commandant de communauté de brigades |
 
 GGD2B |
 
+COB GHISONACCIA |
+
+commandant de communauté de brigades |
+
+GGD2B |
+
 COB PENTA-DI-CASINCA |
 
 commandant de communauté de brigades |
 
-Région de gendarmerie de Grand-Est |
+Région
+
+de gendarmerie
+
+de Grand-Est |
+
+GGD08 |
+
+BDRIJ GGD08 |
+
+commandant de brigade départementale de renseignement et d'investigation judiciaire |
 
 GGD08 |
 
@@ -1500,15 +2016,33 @@ commandant de communauté de brigades |
 
 GGD08 |
 
+COB RENWEZ |
+
+commandant de communauté de brigades |
+
+GGD08 |
+
 COB ROCROI |
 
 commandant de communauté de brigades |
+
+GGD08 |
+
+EDCF 08 |
+
+commandant d'escadron de contrôle des flux adjoint |
 
 GGD10 |
 
 BTA ARCIS-SUR-AUBE |
 
 commandant de brigade territoriale autonome |
+
+GGD10 |
+
+COB BAR-SUR-AUBE |
+
+commandant de communauté de brigades |
 
 GGD10 |
 
@@ -1521,6 +2055,12 @@ GGD10 |
 COB BRIENNE-LE-CHÂTEAU |
 
 commandant de communauté de brigades |
+
+GGD10 |
+
+EDCF 10 |
+
+commandant d'escadron de contrôle des flux adjoint |
 
 GGD51 |
 
@@ -1544,7 +2084,7 @@ GGD51 |
 
 SOLC BDRIJ 51 |
 
-chef de section CYBER |
+chef de section cybernumérique |
 
 GGD52 |
 
@@ -1560,9 +2100,21 @@ commandant de communauté de brigades |
 
 GGD52 |
 
-EDSR 52 |
+COB WASSY |
 
-commandant d'escadron départemental de sécurité routière adjoint |
+commandant de communauté de brigades |
+
+GGD52 |
+
+EDCF 52 |
+
+commandant d'escadron de contrôle des flux adjoint |
+
+GGD54 |
+
+COB AUDUN-LE-ROMAN |
+
+commandant de communauté de brigades |
 
 GGD54 |
 
@@ -1575,6 +2127,18 @@ GGD54 |
 COB DOMBASLE-SUR-MEURTHE |
 
 commandant de communauté de brigades |
+
+GGD54 |
+
+COB LUNEVILLE |
+
+commandant de communauté de brigades |
+
+GGD55 |
+
+BR COMMERCY |
+
+commandant de brigade de recherches |
 
 GGD55 |
 
@@ -1602,19 +2166,19 @@ commandant de communauté de brigades |
 
 GGD55 |
 
-BR COMMERCY |
+EDCF 55 |
 
-commandant de brigade des recherches |
-
-GGD55 |
-
-EDSR 55 |
-
-commandant d'escadron départemental de sécurité routière adjoint |
+commandant d'escadron de contrôle des flux adjoint |
 
 GGD57 |
 
 BTA ENNERY |
+
+commandant de brigade territoriale autonome |
+
+GGD57 |
+
+BTA FAREBERSVILLER |
 
 commandant de brigade territoriale autonome |
 
@@ -1662,9 +2226,27 @@ commandant de communauté de brigades |
 
 GGD57 |
 
+COB PHALSBOURG |
+
+commandant de communauté de brigades |
+
+GGD57 |
+
 COB VERNY |
 
 commandant de communauté de brigades |
+
+GGD67 |
+
+BDRIJ GGD67 |
+
+commandant de brigade départementale de renseignement et d'investigation judiciaire |
+
+GGD67 |
+
+BR STRASBOURG |
+
+commandant de brigade de recherches |
 
 GGD67 |
 
@@ -1710,6 +2292,12 @@ commandant de brigade territoriale autonome |
 
 GGD67 |
 
+BTA SOULTZ-SOUS-FORÊT |
+
+commandant de brigade territoriale autonome |
+
+GGD67 |
+
 COB MARCKOLSHEIM |
 
 commandant de communauté de brigades |
@@ -1737,6 +2325,24 @@ GGD67 |
 PMO SOUFFLENHEIM |
 
 commandant de peloton motorisé |
+
+GGD68 |
+
+BDRIJ GGD68 |
+
+commandant de brigade départementale de renseignement et d'investigation judiciaire |
+
+GGD68 |
+
+BR MULHOUSE |
+
+commandant de brigade de recherches |
+
+GGD68 |
+
+BTA CERNAY |
+
+commandant de brigade territoriale autonome |
 
 GGD68 |
 
@@ -1785,12 +2391,6 @@ GGD68 |
 COB WINTZENHEIM |
 
 commandant de communauté de brigades |
-
-GGD68 |
-
-BR MULHOUSE |
-
-commandant de brigade des recherches |
 
 GGD68 |
 
@@ -1848,13 +2448,31 @@ commandant de communauté de brigades |
 
 GGD88 |
 
-EDSR 88 |
+EDCF 88 |
 
-commandant d'escadron départemental de sécurité routière adjoint |
+commandant d'escadron de contrôle des flux adjoint |
 
 GGM I/7 METZ |
 
 PP4 EGM11/7 VERDUN |
+
+commandant de peloton de gendarmerie mobile |
+
+GGM I/7 METZ |
+
+PP4 EGM12/7 SAINT-MIHIEL |
+
+commandant de peloton de gendarmerie mobile |
+
+GGM I/7 METZ |
+
+PP4 EGM13/7 THIONVILLE |
+
+commandant de peloton de gendarmerie mobile |
+
+GGM I/7 METZ |
+
+PP4 EGM15/7 SARREGUEMINES |
 
 commandant de peloton de gendarmerie mobile |
 
@@ -1876,9 +2494,57 @@ PP4 EGM23/7 SÉLESTAT |
 
 commandant de peloton de gendarmerie mobile |
 
+GGM II/7 STRASBOURG |
+
+PP4 EGM25/7 SAINT-ETIENNE-LES-REMIREMONT |
+
+commandant de peloton de gendarmerie mobile |
+
+GGM II/7 STRASBOURG |
+
+PP4 EGM26/7 BELFORT |
+
+commandant de peloton de gendarmerie mobile |
+
+GGM II/7 STRASBOURG |
+
+PP4 EGM27/7 LURE |
+
+commandant de peloton de gendarmerie mobile |
+
+GGM III/7 REIMS |
+
+PP4 EGM31/7 REIMS |
+
+commandant de peloton de gendarmerie mobile |
+
+GGM III/7 REIMS |
+
+PP4 EGM32/7 CHAUMONT |
+
+commandant de peloton de gendarmerie mobile |
+
 GGM III/7 REIMS |
 
 PP4 EGM33/7 VOUZIERS |
+
+commandant de peloton de gendarmerie mobile |
+
+GGM III/7 REIMS |
+
+PP4 EGM35/7 REVIGNY-SUR-ORNAIN |
+
+commandant de peloton de gendarmerie mobile |
+
+GGM IV/7 DIJON |
+
+PP4 EGM41/7 DIJON |
+
+commandant de peloton de gendarmerie mobile |
+
+GGM IV/7 DIJON |
+
+PP4 EGM43/7 DECIZE |
 
 commandant de peloton de gendarmerie mobile |
 
@@ -1900,7 +2566,23 @@ PP4 EGM46/7 DOLE |
 
 commandant de peloton de gendarmerie mobile |
 
-Région de gendarmerie des Hauts-de-France |
+GGM IV/7 DIJON |
+
+PP4 EGM47/7 MACON |
+
+commandant de peloton de gendarmerie mobile |
+
+Région
+
+de gendarmerie
+
+des Hauts-de-France |
+
+GGD02 |
+
+BTA SISSONNE |
+
+commandant de brigade territoriale autonome |
 
 GGD02 |
 
@@ -1955,6 +2637,24 @@ GGD02 |
 COB VERVINS |
 
 commandant de communauté de brigades |
+
+GGD59 |
+
+BMO TEMPLEUVE-EN-PEVELE |
+
+commandant de brigade motorisée |
+
+GGD59 |
+
+BR AVESNES-SUR-HELPE |
+
+commandant de brigade de recherches |
+
+GGD59 |
+
+BR DOUAI |
+
+commandant de brigade de recherches |
 
 GGD59 |
 
@@ -2018,6 +2718,12 @@ commandant de brigade territoriale autonome |
 
 GGD59 |
 
+COB AVESNES-LES-AUBERT |
+
+commandant de communauté de brigades |
+
+GGD59 |
+
 COB BOURBOURG |
 
 commandant de communauté de brigades |
@@ -2030,9 +2736,21 @@ commandant de communauté de brigades |
 
 GGD59 |
 
-BR DOUAI |
+PSIG HOYMILLE |
 
-commandant de brigade des recherches |
+commandant de peloton de surveillance et d'intervention de la gendarmerie |
+
+GGD60 |
+
+BR CLERMONT |
+
+commandant de brigade de recherches |
+
+GGD60 |
+
+BR COMPIÉGNE |
+
+commandant de brigade de recherches |
 
 GGD60 |
 
@@ -2061,6 +2779,12 @@ commandant de brigade territoriale autonome |
 GGD60 |
 
 BTA ORRY-LA-VILLE |
+
+commandant de brigade territoriale autonome |
+
+GGD60 |
+
+BTA SAINT-JUST-EN-CHAUSSÉE |
 
 commandant de brigade territoriale autonome |
 
@@ -2102,6 +2826,30 @@ commandant de communauté de brigades |
 
 GGD62 |
 
+BMO ARRAS |
+
+commandant de brigade motorisée |
+
+GGD62 |
+
+BR ARRAS |
+
+commandant de brigade de recherches |
+
+GGD62 |
+
+BR BETHUNE |
+
+commandant de brigade de recherches |
+
+GGD62 |
+
+BTA AIRE-SUR-LA-LYS |
+
+commandant de brigade territoriale autonome |
+
+GGD62 |
+
 BTA BAPAUME |
 
 commandant de brigade territoriale autonome |
@@ -2115,6 +2863,12 @@ commandant de brigade territoriale autonome |
 GGD62 |
 
 BTA MERLIMONT |
+
+commandant de brigade territoriale autonome |
+
+GGD62 |
+
+BTA NEUFCHATEL-HARDELOT |
 
 commandant de brigade territoriale autonome |
 
@@ -2138,15 +2892,15 @@ commandant de communauté de brigades |
 
 GGD62 |
 
-BR ARRAS |
-
-commandant de brigade des recherches |
-
-GGD62 |
-
 PMO BETHUNE |
 
 commandant de peloton motorisé |
+
+GGD62 |
+
+PSIG WIZERNES |
+
+commandant de peloton de surveillance et d'intervention de la gendarmerie |
 
 GGD80 |
 
@@ -2165,6 +2919,12 @@ GGD80 |
 BTA ROYE |
 
 commandant de brigade territoriale autonome |
+
+GGD80 |
+
+COB ABBEVILLE |
+
+commandant de communauté de brigades |
 
 GGD80 |
 
@@ -2196,9 +2956,33 @@ COB RUE |
 
 commandant de communauté de brigades |
 
+GGD80 |
+
+CORG GGD80 |
+
+chef de centre opérationnel et de renseignement de la gendarmerie |
+
 GGM I/9 ARRAS |
 
 PP4 EGM11/9 VILLENEUVE-D'ASCQ |
+
+commandant de peloton de gendarmerie mobile |
+
+GGM I/9 ARRAS |
+
+PP4 EGM12/9 VILLENEUVE D'ASCQ |
+
+commandant de peloton de gendarmerie mobile |
+
+GGM I/9 ARRAS |
+
+PP4 EGM13/9 CALAIS |
+
+commandant de peloton de gendarmerie mobile |
+
+GGM I/9 ARRAS |
+
+PP4 EGM14/9 VALENCIENNES |
 
 commandant de peloton de gendarmerie mobile |
 
@@ -2222,15 +3006,43 @@ commandant de peloton de gendarmerie mobile |
 
 GGM I/9 ARRAS |
 
+PP4 EGM18/9 CHAUNY |
+
+commandant de peloton de gendarmerie mobile |
+
+GGM I/9 ARRAS |
+
 PP4 EGM19/9 NOYON |
 
 commandant de peloton de gendarmerie mobile |
 
-Région de gendarmerie d'Ile-de-France |
+Région
+
+de gendarmerie
+
+d'Ile-de-France |
+
+GGD77 |
+
+BMO MELUN |
+
+commandant de brigade motorisée |
+
+GGD77 |
+
+BR PROVINS |
+
+commandant de brigade de recherches |
 
 GGD77 |
 
 BTA CRÉCY-LA-CHAPELLE |
+
+commandant de brigade territoriale autonome |
+
+GGD77 |
+
+BTA LORREZ-LE-BOCAGE-PRÉAUX |
 
 commandant de brigade territoriale autonome |
 
@@ -2243,6 +3055,12 @@ commandant de brigade territoriale autonome |
 GGD77 |
 
 BTA MORTCERF |
+
+commandant de brigade territoriale autonome |
+
+GGD77 |
+
+BTA NANGIS |
 
 commandant de brigade territoriale autonome |
 
@@ -2262,7 +3080,7 @@ GGD77 |
 
 SOLC BDRIJ 77 |
 
-chef de section CYBER |
+chef de section cybernumérique |
 
 GGD78 |
 
@@ -2287,6 +3105,18 @@ GGD78 |
 CORG GGD78 |
 
 chef de centre opérationnel et de renseignement de la gendarmerie |
+
+GGD78 |
+
+PMO MANTES-LA-JOLIE |
+
+commandant de peloton motorisé |
+
+GGD91 |
+
+BR PALAISEAU |
+
+commandant de brigade de recherches |
 
 GGD91 |
 
@@ -2314,27 +3144,45 @@ commandant de brigade territoriale autonome |
 
 GGD91 |
 
+BTA MAROLLES-EN-HUREPOIX |
+
+commandant de brigade territoriale autonome |
+
+GGD91 |
+
+BTA MILLY-LA-FORÊT |
+
+commandant de brigade territoriale autonome |
+
+GGD91 |
+
+BTA SAINT-CHÉRON |
+
+commandant de brigade territoriale autonome |
+
+GGD91 |
+
 COB ANGERVILLE |
 
 commandant de communauté de brigades |
 
 GGD91 |
 
-BR PALAISEAU |
-
-commandant de brigade des recherches |
-
-GGD91 |
-
-EDSR 91 |
-
-commandant d'escadron départemental de sécurité routière adjoint |
-
-GGD91 |
-
 CORG GGD91 |
 
 chef de centre opérationnel et de renseignement de la gendarmerie |
+
+GGD91 |
+
+EDCF 91 |
+
+commandant d'escadron de contrôle des flux adjoint |
+
+GGD91 |
+
+SOLC BDRIJ 91 |
+
+chef de section cybernumérique |
 
 GGD95 |
 
@@ -2362,25 +3210,61 @@ commandant de brigade territoriale autonome |
 
 GGD95 |
 
+BTA MONTSOULT |
+
+commandant de brigade territoriale autonome |
+
+GGD95 |
+
 BTA ROISSY-EN-FRANCE |
 
 commandant de brigade territoriale autonome |
 
 GGD95 |
 
-EDSR 95 |
+EDCF 95 |
 
-commandant d'escadron départemental de sécurité routière adjoint |
+commandant d'escadron de contrôle des flux adjoint |
 
 GGD95 |
 
 SOLC BDRIJ 95 |
 
-chef de section CYBER |
+chef de section cybernumérique |
+
+GBGM |
+
+PVB4 EGM11/1 SATORY |
+
+commandant de peloton de véhicule blindé de gendarmerie mobile |
+
+GBGM |
+
+PVB4 EGM12/1 SATORY |
+
+commandant de peloton de véhicule blindé de gendarmerie mobile |
+
+GBGM |
+
+PVB4 EGM13/1 SATORY |
+
+commandant de peloton de véhicule blindé de gendarmerie mobile |
+
+GBGM |
+
+PVB4 EGM14/1 SATORY |
+
+commandant de peloton de véhicule blindé de gendarmerie mobile |
 
 GBGM |
 
 PVB4 EGM17/1 SATORY |
+
+commandant de peloton de véhicule blindé de gendarmerie mobile |
+
+GBGM |
+
+PVB4 EGM18/1 SATORY |
 
 commandant de peloton de véhicule blindé de gendarmerie mobile |
 
@@ -2392,7 +3276,25 @@ commandant de peloton de gendarmerie mobile |
 
 GGM II/1 MAISONS-ALFORT |
 
+PP4 EGM21/1 MELUN |
+
+commandant de peloton de gendarmerie mobile |
+
+GGM II/1 MAISONS-ALFORT |
+
+PP4 EGM211/1 MELUN |
+
+commandant de peloton de gendarmerie mobile |
+
+GGM II/1 MAISONS-ALFORT |
+
 PP4 EGM22/1 DUGNY |
+
+commandant de peloton de gendarmerie mobile |
+
+GGM II/1 MAISONS-ALFORT |
+
+PP4 EGM23/1 ROSNY-SOUS-BOIS |
 
 commandant de peloton de gendarmerie mobile |
 
@@ -2404,7 +3306,19 @@ commandant de peloton de gendarmerie mobile |
 
 GGM II/1 MAISONS-ALFORT |
 
+PP4 EGM25/1 MAISONS-ALFORT |
+
+commandant de peloton de gendarmerie mobile |
+
+GGM II/1 MAISONS-ALFORT |
+
 PP4 EGM26/1 MAISONS-ALFORT |
+
+commandant de peloton de gendarmerie mobile |
+
+GGM II/1 MAISONS-ALFORT |
+
+PP4 EGM27/1 DRANCY |
 
 commandant de peloton de gendarmerie mobile |
 
@@ -2420,13 +3334,11 @@ PP4 EGM29/1 DRANCY |
 
 commandant de peloton de gendarmerie mobile |
 
-GGM II/1 MAISONS-ALFORT |
+Région
 
-PP4 EGM211/1 MELUN |
+de gendarmerie
 
-commandant de peloton de gendarmerie mobile |
-
-Région de gendarmerie de Normandie |
+de Normandie |
 
 GGD14 |
 
@@ -2448,7 +3360,25 @@ commandant de communauté de brigades |
 
 GGD14 |
 
+COB ISIGNY-SUR-MER |
+
+commandant de communauté de brigades |
+
+GGD14 |
+
 COB MÉZIDON-VALLÉE-D-AUGE |
+
+commandant de communauté de brigades |
+
+GGD14 |
+
+COB ORBEC |
+
+commandant de communauté de brigades |
+
+GGD14 |
+
+COB PONT-L'ÉVÊQUE |
 
 commandant de communauté de brigades |
 
@@ -2462,7 +3392,7 @@ GGD14 |
 
 COB TROARN |
 
-commandant de communauté de brigades |
+commandant de brigade territoriale autonome |
 
 GGD14 |
 
@@ -2470,11 +3400,17 @@ COB VILLERS-SUR-MER |
 
 commandant de communauté de brigades |
 
+GGD14 |
+
+CORG GGD14 |
+
+chef de centre opérationnel et de renseignement de la gendarmerie |
+
 GGD27 |
 
-BTA CONCHES-EN-OUCHE |
+BR ÉVREUX |
 
-commandant de brigade territoriale autonome |
+commandant de brigade de recherches |
 
 GGD27 |
 
@@ -2493,6 +3429,12 @@ GGD27 |
 BTA PONT-DE-L'ARCHE |
 
 commandant de brigade territoriale autonome |
+
+GGD27 |
+
+COB CONCHES-EN-OUCHE |
+
+commandant de communauté de brigades |
 
 GGD27 |
 
@@ -2523,6 +3465,12 @@ GGD27 |
 COB SAINT-GEORGES-DU-VIÈVRE |
 
 commandant de communauté de brigades |
+
+GGD27 |
+
+PMO COURBÉPINE |
+
+commandant de peloton motorisé |
 
 GGD50 |
 
@@ -2556,9 +3504,27 @@ commandant de communauté de brigades |
 
 GGD50 |
 
+COB SARTILLY-BAIE-BOCAGE |
+
+commandant de communauté de brigades |
+
+GGD50 |
+
 COB VILLEDIEU-LES-POÊLES-ROUFFIGNY |
 
 commandant de communauté de brigades |
+
+GGD50 |
+
+PA AVRANCHES |
+
+commandant de peloton d'autoroute |
+
+GGD61 |
+
+BDRIJ GGD61 |
+
+commandant de brigade départementale de renseignement et d'investigation judiciaire |
 
 GGD61 |
 
@@ -2616,6 +3582,12 @@ commandant de communauté de brigades |
 
 GGD76 |
 
+BDRIJ GGD76 |
+
+commandant de brigade départementale de renseignement et d'investigation judiciaire |
+
+GGD76 |
+
 BTA BOOS |
 
 commandant de brigade territoriale autonome |
@@ -2647,6 +3619,12 @@ commandant de communauté de brigades |
 GGD76 |
 
 COB ENVERMEU |
+
+commandant de communauté de brigades |
+
+GGD76 |
+
+COB GOURNAY-EN-BRAY |
 
 commandant de communauté de brigades |
 
@@ -2688,12 +3666,6 @@ commandant de communauté de brigades |
 
 GGD76 |
 
-BDRIJ GGD76 |
-
-commandant de brigade départementale de renseignement et d'investigation judiciaire |
-
-GGD76 |
-
 PMO NEUFCHÂTEL-EN-BRAY |
 
 commandant de peloton motorisé |
@@ -2706,11 +3678,21 @@ commandant de peloton motorisé |
 
 GGD76 |
 
+PSIG NEUFCHÂTEL-EN-BRAY |
+
+commandant de peloton de surveillance et d'intervention de la gendarmerie |
+
+GGD76 |
+
 PSIG ROUEN |
 
 commandant de peloton de surveillance et d'intervention de la gendarmerie |
 
-Région de gendarmerie de Nouvelle-Aquitaine |
+Région
+
+de gendarmerie
+
+de Nouvelle-Aquitaine |
 
 GGD16 |
 
@@ -2721,6 +3703,12 @@ commandant de brigade territoriale autonome |
 GGD16 |
 
 COB BARBEZIEUX-SAINT-HILAIRE |
+
+commandant de communauté de brigades |
+
+GGD16 |
+
+COB CONFOLENS |
 
 commandant de communauté de brigades |
 
@@ -2751,6 +3739,12 @@ commandant de communauté de brigades |
 GGD17 |
 
 BTA LA TREMBLADE |
+
+commandant de brigade territoriale autonome |
+
+GGD17 |
+
+BTA SAINT-MARTIN-DE-RÉ |
 
 commandant de brigade territoriale autonome |
 
@@ -2790,9 +3784,39 @@ COB MIRAMBEAU |
 
 commandant de communauté de brigades |
 
+GGD17 |
+
+COB ROCHEFORT |
+
+commandant de communauté de brigades |
+
+GGD19 |
+
+COB MEYMAC |
+
+commandant de communauté de brigades |
+
 GGD19 |
 
 COB MIDI CORRÉZIEN |
+
+commandant de communauté de brigades |
+
+GGD19 |
+
+PMO AIX |
+
+commandant de peloton motorisé |
+
+GGD19 |
+
+PMO GIMEL-LES-CASCADES |
+
+commandant de peloton motorisé |
+
+GGD23 |
+
+COB AUZANCES |
 
 commandant de communauté de brigades |
 
@@ -2810,9 +3834,21 @@ commandant de communauté de brigades |
 
 GGD23 |
 
+COB GOUZON |
+
+commandant de communauté de brigades |
+
+GGD23 |
+
 COB SAINTE-FEYRE |
 
 commandant de communauté de brigades |
+
+GGD23 |
+
+SOLC BDRIJ 23 |
+
+chef de section cybernumérique |
 
 GGD24 |
 
@@ -2850,6 +3886,24 @@ COB THIVIERS |
 
 commandant de communauté de brigades |
 
+GGD24 |
+
+CORG GGD24 |
+
+chef de centre opérationnel et de renseignement de la gendarmerie |
+
+GGD33 |
+
+BR BOULIAC |
+
+commandant de brigade de recherches |
+
+GGD33 |
+
+BR MÉRIGNAC |
+
+commandant de brigade de recherches |
+
 GGD33 |
 
 BTA ANDERNOS-LES-BAINS |
@@ -2876,7 +3930,19 @@ commandant de brigade territoriale autonome |
 
 GGD33 |
 
+BTA LACANAU |
+
+commandant de brigade territoriale autonome |
+
+GGD33 |
+
 BTA LÉOGNAN |
+
+commandant de brigade territoriale autonome |
+
+GGD33 |
+
+BTA LESPARRE-MÉDOC |
 
 commandant de brigade territoriale autonome |
 
@@ -2906,6 +3972,12 @@ commandant de communauté de brigades |
 
 GGD33 |
 
+COB LA-RÉOLE |
+
+commandant de communauté de brigades |
+
+GGD33 |
+
 COB PAUILLAC |
 
 commandant de communauté de brigades |
@@ -2924,9 +3996,9 @@ commandant de division PJ |
 
 GGD33 |
 
-BR MÉRIGNAC |
+PSIG BOULIAC |
 
-commandant de brigade des recherches |
+commandant de peloton de surveillance et d'intervention de la gendarmerie |
 
 GGD40 |
 
@@ -2964,9 +4036,27 @@ COB TARTAS |
 
 commandant de communauté de brigades |
 
+GGD40 |
+
+CORG GGD40 |
+
+chef de centre opérationnel et de renseignement de la gendarmerie |
+
+GGD47 |
+
+BTA PONT-DU-CASSE |
+
+commandant de brigade territoriale autonome |
+
 GGD47 |
 
 COB LAPLUME |
+
+commandant de communauté de brigades |
+
+GGD47 |
+
+COB MIRAMONT-DE-GUYENNE |
 
 commandant de communauté de brigades |
 
@@ -2981,6 +4071,12 @@ GGD47 |
 COB SAINTE-BAZEILLE |
 
 commandant de communauté de brigades |
+
+GGD47 |
+
+PMO AGEN |
+
+commandant de peloton motorisé |
 
 GGD64 |
 
@@ -3002,13 +4098,31 @@ commandant de communauté de brigades |
 
 GGD64 |
 
-COB LESCAR |
+BTA SERRES-CASTET |
 
 commandant de communauté de brigades |
 
 GGD64 |
 
 COB NAY |
+
+commandant de communauté de brigades |
+
+GGD64 |
+
+COB THEZE |
+
+commandant de communauté de brigades |
+
+GGD79 |
+
+COB COULONGES-SUR-L'AUTIZE |
+
+commandant de communauté de brigades |
+
+GGD79 |
+
+COB MELLE |
 
 commandant de communauté de brigades |
 
@@ -3020,7 +4134,7 @@ commandant de communauté de brigades |
 
 GGD79 |
 
-COB SAUZÉ-VAUSSAIS |
+COB SAUZÉ-ENTRE-BOIS |
 
 commandant de communauté de brigades |
 
@@ -3039,6 +4153,12 @@ commandant de brigade territoriale autonome |
 GGD86 |
 
 COB CHAUVIGNY |
+
+commandant de communauté de brigades |
+
+GGD86 |
+
+COB CIVRAY |
 
 commandant de communauté de brigades |
 
@@ -3071,6 +4191,12 @@ GGD86 |
 COB NEUVILLE-DE-POITOU |
 
 commandant de communauté de brigades |
+
+GGD87 |
+
+BR LIMOGES |
+
+commandant de brigade de recherches |
 
 GGD87 |
 
@@ -3108,9 +4234,39 @@ COB SOLIGNAC |
 
 commandant de communauté de brigades |
 
+GGD87 |
+
+PMO FEYTIAT |
+
+commandant de peloton motorisé |
+
+GGM II/2 MONT-DE-MARSAN |
+
+PP4 EGM21/2 MONT-DE-MARSAN |
+
+commandant de peloton de gendarmerie mobile |
+
+GGM II/2 MONT-DE-MARSAN |
+
+PP4 EGM22/2 MONT-DE-MARSAN |
+
+commandant de peloton de gendarmerie mobile |
+
+GGM II/2 MONT-DE-MARSAN |
+
+PP4 EGM24/2 BAYONNE |
+
+commandant de peloton de gendarmerie mobile |
+
 GGM II/2 MONT-DE-MARSAN |
 
 PP4 EGM26/2 BOULIAC |
+
+commandant de peloton de gendarmerie mobile |
+
+GGM II/2 MONT-DE-MARSAN |
+
+PP4 EGM28/2 LA RÉOLE |
 
 commandant de peloton de gendarmerie mobile |
 
@@ -3150,7 +4306,35 @@ PP4 EGM47/2 PÉRIGUEUX |
 
 commandant de peloton de gendarmerie mobile |
 
-Région de gendarmerie d'Occitanie |
+Région
+
+de gendarmerie
+
+d'Occitanie |
+
+GGD09 |
+
+BTA LAVELANET |
+
+commandant de brigade territoriale autonome |
+
+GGD09 |
+
+COB LE FOSSAT |
+
+commandant de communauté de brigades |
+
+GGD09 |
+
+COB PAMIERS |
+
+commandant de communauté de brigades |
+
+GGD09 |
+
+COB SAINT GIRONS |
+
+commandant de communauté de brigades |
 
 GGD11 |
 
@@ -3161,6 +4345,24 @@ commandant de communauté de brigades |
 GGD11 |
 
 COB QUILLAN |
+
+commandant de communauté de brigades |
+
+GGD11 |
+
+COB TRÈBES |
+
+commandant de communauté de brigades |
+
+GGD12 |
+
+COB BELMONT-SUR-RANCE |
+
+commandant de communauté de brigades |
+
+GGD12 |
+
+COB ESPALION |
 
 commandant de communauté de brigades |
 
@@ -3190,15 +4392,21 @@ commandant de communauté de brigades |
 
 GGD12 |
 
-EDSR 12 |
+EDCF 12 |
 
-commandant d'escadron départemental de sécurité routière adjoint |
+commandant d'escadron de contrôle des flux adjoint |
 
 GGD12 |
 
 PMO MILLAU |
 
 commandant de peloton motorisé |
+
+GGD30 |
+
+BR ALÈS |
+
+commandant de brigade de recherches |
 
 GGD30 |
 
@@ -3214,7 +4422,25 @@ commandant de communauté de brigades |
 
 GGD30 |
 
+COB QUISSAC |
+
+commandant de communauté de brigades |
+
+GGD30 |
+
+COB SAINT-AMBROIX |
+
+commandant de communauté de brigades |
+
+GGD30 |
+
 COB SAINT-CHAPTES |
+
+commandant de communauté de brigades |
+
+GGD30 |
+
+COB SAINT-JEAN-DU-GARD |
 
 commandant de communauté de brigades |
 
@@ -3232,15 +4458,15 @@ commandant de communauté de brigades |
 
 GGD30 |
 
-BR ALÈS |
+PSIG VAUVERT |
 
-commandant de brigade des recherches |
+commandant de peloton de surveillance et d'intervention de la gendarmerie |
 
 GGD30 |
 
 SOLC BDRIJ30 |
 
-chef de section CYBER |
+chef de section cybernumérique |
 
 GGD31 |
 
@@ -3292,6 +4518,12 @@ commandant de communauté de brigades |
 
 GGD31 |
 
+COB GRENADE |
+
+commandant de communauté de brigades |
+
+GGD31 |
+
 COB SALIÈS-DU-SALAT |
 
 commandant de communauté de brigades |
@@ -3301,6 +4533,12 @@ GGD31 |
 COB VILLEFRANCHE-DE-LAURAGAIS |
 
 commandant de communauté de brigades |
+
+GGD31 |
+
+PSIG ESCALQUENS |
+
+commandant de peloton de surveillance et d'intervention de la gendarmerie |
 
 GGD31 |
 
@@ -3316,6 +4554,12 @@ commandant de communauté de brigades |
 
 GGD32 |
 
+COB EAUZE |
+
+commandant de communauté de brigades |
+
+GGD32 |
+
 COB MIRANDE |
 
 commandant de communauté de brigades |
@@ -3325,6 +4569,18 @@ GGD32 |
 COB RISCLE |
 
 commandant de communauté de brigades |
+
+GGD32 |
+
+EDCF 32 |
+
+commandant d'escadron de contrôle des flux adjoint |
+
+GGD34 |
+
+BR CASTELNAU-LE-LEZ |
+
+commandant de brigade de recherches |
 
 GGD34 |
 
@@ -3382,23 +4638,9 @@ commandant de communauté de brigades |
 
 GGD34 |
 
-BR CASTELNAU-LE-LEZ |
-
-commandant de brigade des recherches |
-
-GGD34 |
-
-BR PÉZENAS |
-
-commandant de brigade des recherches |
-
-GGD34 |
-
 PSIG PÉZENAS |
 
-commandant de peloton de surveillance
-
-et d'intervention de la gendarmerie |
+commandant de peloton de surveillance et d'intervention de la gendarmerie |
 
 GGD46 |
 
@@ -3408,9 +4650,27 @@ commandant de communauté de brigades |
 
 GGD46 |
 
-EDSR 46 |
+COB PUY L'ÉVÊQUE |
 
-commandant d'escadron départemental de sécurité routière adjoint |
+commandant de communauté de brigades |
+
+GGD46 |
+
+EDCF 46 |
+
+commandant d'escadron de contrôle des flux adjoint |
+
+GGD48 |
+
+BR MENDE |
+
+commandant de brigade de recherches |
+
+GGD48 |
+
+COB MEYRUEIS |
+
+commandant de communauté de brigades |
 
 GGD48 |
 
@@ -3420,9 +4680,9 @@ commandant de communauté de brigades |
 
 GGD48 |
 
-EDSR 48 |
+EDCF 48 |
 
-commandant d'escadron départemental de sécurité routière adjoint |
+commandant d'escadron de contrôle des flux adjoint |
 
 GGD48 |
 
@@ -3435,6 +4695,12 @@ GGD65 |
 BTA BAGNERES-DE-BIGORRE |
 
 commandant de brigade territoriale autonome |
+
+GGD66 |
+
+BR PERPIGNAN |
+
+commandant de brigade de recherches |
 
 GGD66 |
 
@@ -3480,15 +4746,21 @@ commandant de brigade territoriale autonome |
 
 GGD66 |
 
+COB FONT-ROMEU-ODEILLO-VIA |
+
+commandant de communauté de brigades |
+
+GGD66 |
+
 COB PRADES |
 
 commandant de communauté de brigades |
 
 GGD66 |
 
-BR PERPIGNAN |
+PSIG RIVESALTES |
 
-commandant de brigade des recherches |
+commandant de peloton de surveillance et d'intervention de la gendarmerie |
 
 GGD81 |
 
@@ -3499,6 +4771,12 @@ commandant de brigade territoriale autonome |
 GGD81 |
 
 COB RABASTENS |
+
+commandant de communauté de brigades |
+
+GGD81 |
+
+COB RÉALMONT |
 
 commandant de communauté de brigades |
 
@@ -3514,7 +4792,23 @@ COB VALENCE |
 
 commandant de communauté de brigades |
 
-Région de gendarmerie Pays-de-la-Loire |
+Région
+
+de gendarmerie
+
+Pays-de-la-Loire |
+
+GGD44 |
+
+BR NANTES |
+
+commandant de brigade de recherches |
+
+GGD44 |
+
+BR SAINT-NAZAIRE |
+
+commandant de brigade de recherches |
 
 GGD44 |
 
@@ -3560,9 +4854,9 @@ commandant de communauté de brigades |
 
 GGD44 |
 
-BR NANTES |
+PMO ANCENIS-SAINT-GÉRÉON |
 
-commandant de brigade des recherches |
+commandant de peloton motorisé |
 
 GGD49 |
 
@@ -3584,7 +4878,19 @@ commandant de brigade territoriale autonome |
 
 GGD49 |
 
+BTA SEVREMOINE |
+
+commandant de brigade territoriale autonome |
+
+GGD49 |
+
 COB BAUGE-EN-ANJOU |
+
+commandant de communauté de brigades |
+
+GGD49 |
+
+COB CHALONNES-SUR-LOIRE |
 
 commandant de communauté de brigades |
 
@@ -3623,6 +4929,12 @@ GGD49 |
 COB TIERCE |
 
 commandant de communauté de brigades |
+
+GGD53 |
+
+BDRIJ GGD53 |
+
+commandant de brigade départementale de renseignement et d'investigation judiciaire |
 
 GGD53 |
 
@@ -3690,13 +5002,47 @@ COB SAVIGNÉ-L-ÉVÊQUE |
 
 commandant de communauté de brigades |
 
+GGD72 |
+
+PA LE MANS |
+
+commandant de peloton d'autoroute |
+
+GGD72 |
+
+PMO JOUÉ-EN-CHARNIE |
+
+commandant de peloton motorisé |
+
+GGD72 |
+
+PSIG LE MANS |
+
+commandant de peloton de surveillance et d'intervention de la gendarmerie |
+
+GGD85 |
+
+BTA LES ACHARDS |
+
+commandant de brigade territoriale autonome |
+
+GGD85 |
+
+BTA MORTAGNE-SUR-SÈVRE |
+
+commandant de brigade territoriale autonome |
+
 GGD85 |
 
 COB LA-ROCHE-SUR-YON |
 
 commandant de communauté de brigades |
 
-Région de gendarmerie de Provence-Alpes-Côte-d'Azur |
+Région
+
+de gendarmerie
+
+de Provence-Alpes-Côte-d'Azur |
 
 GGD04 |
 
@@ -3706,7 +5052,19 @@ commandant de brigade territoriale autonome |
 
 GGD04 |
 
+COB FORCALQUIER |
+
+commandant de communauté de brigades |
+
+GGD04 |
+
 COB LES-MÉES |
+
+commandant de communauté de brigades |
+
+GGD04 |
+
+COB SISTERON |
 
 commandant de communauté de brigades |
 
@@ -3718,9 +5076,13 @@ commandant de communauté de brigades |
 
 GGD05 |
 
-COB SAINT-BONNET-
+COB LA SAULCE |
 
-EN-CHAMPSAUR |
+commandant de communauté de brigades |
+
+GGD05 |
+
+COB SAINT-BONNET-EN-CHAMPSAUR |
 
 commandant de communauté de brigades |
 
@@ -3729,6 +5091,12 @@ GGD05 |
 COB SAINT-CHAFFREY |
 
 commandant de communauté de brigades |
+
+GGD06 |
+
+BR GRASSE |
+
+commandant de brigade de recherches |
 
 GGD06 |
 
@@ -3747,6 +5115,24 @@ GGD06 |
 COB PEYMEINADE |
 
 commandant de communauté de brigades |
+
+GGD06 |
+
+PSIG CANNES |
+
+commandant de peloton de surveillance et d'intervention de la gendarmerie |
+
+GGD06 |
+
+PSIG GRASSE |
+
+commandant de peloton de surveillance et d'intervention de la gendarmerie |
+
+GGD06 |
+
+PSIG NICE |
+
+commandant de peloton de surveillance et d'intervention de la gendarmerie |
 
 GGD13 |
 
@@ -3768,7 +5154,19 @@ commandant de brigade territoriale autonome |
 
 GGD13 |
 
+BTA LANCON-PROVENCE |
+
+commandant de brigade territoriale autonome |
+
+GGD13 |
+
 BTA ORGON |
+
+commandant de brigade territoriale autonome |
+
+GGD13 |
+
+BTA ROUSSET |
 
 commandant de brigade territoriale autonome |
 
@@ -3792,6 +5190,12 @@ commandant de brigade territoriale autonome |
 
 GGD83 |
 
+BR DRAGUIGNAN |
+
+commandant de brigade de recherches |
+
+GGD83 |
+
 BTA FAYENCE |
 
 commandant de brigade territoriale autonome |
@@ -3810,13 +5214,31 @@ commandant de brigade territoriale autonome |
 
 GGD83 |
 
-BR DRAGUIGNAN |
+BTA PUGET-SUR-ARGENS |
 
-commandant de brigade des recherches |
+commandant de brigade territoriale autonome |
+
+GGD83 |
+
+BTA SAINT-CYR-SUR-MER |
+
+commandant de brigade territoriale autonome |
+
+GGD83 |
+
+COB LORGUES |
+
+commandant de communauté de brigades |
 
 GGD84 |
 
 BTA CADENET |
+
+commandant de brigade territoriale autonome |
+
+GGD84 |
+
+BTA VALRÉAS |
 
 commandant de brigade territoriale autonome |
 
@@ -3828,9 +5250,21 @@ commandant de communauté de brigades |
 
 GGD84 |
 
+COB PERNES-LES-FONTAINES |
+
+commandant de communauté de brigades |
+
+GGD84 |
+
 COB VAISON-LA-ROMAINE |
 
 commandant de communauté de brigades |
+
+GGD84 |
+
+PSIG ORANGE |
+
+commandant de peloton de surveillance et d'intervention de la gendarmerie |
 
 GGM I/6 NÎMES |
 
@@ -3858,7 +5292,31 @@ commandant de peloton de gendarmerie mobile |
 
 GGM II/6 HYÈRES |
 
-PP4 EGM25/6 DIGNE-LES-BAINS |
+PP4 EGM22/6 HYÈRES |
+
+commandant de peloton de gendarmerie mobile |
+
+GGM II/6 HYÈRES |
+
+PP4 EGM24/6 ANTIBES |
+
+commandant de peloton de gendarmerie mobile |
+
+GGM II/6 HYÈRES |
+
+PP4 EGM25/6 DIGNES-LES-BAINS |
+
+commandant de peloton de gendarmerie mobile |
+
+GGM II/6 HYÈRES |
+
+PP4 EGM26/6 GAP |
+
+commandant de peloton de gendarmerie mobile |
+
+GGM III/6 TOULOUSE |
+
+PP4 EGM31/6 TOULOUSE |
 
 commandant de peloton de gendarmerie mobile |
 
@@ -3880,13 +5338,27 @@ PP4 EGM34/6 SAINT-GAUDENS |
 
 commandant de peloton de gendarmerie mobile |
 
+GGM III/6 TOULOUSE |
+
+PP4 EGM35/6 TARBES |
+
+commandant de peloton de gendarmerie mobile |
+
+SR13 |
+
+DIS SR CHAMBÉRY |
+
+commandant de division police judiciaire adjoint |
+
 Formation
 
 administrative
 
 ou équivalent |
 
-Unité de rattachement |
+Unité
+
+de rattachement |
 
 Unité |
 
@@ -3948,35 +5420,47 @@ DSIS ANFSI |
 
 chef de groupe SIC |
 
-Commandement du cyber-MI |
+Commandement
+
+du cyber-MI |
 
 DSTRAT COMCYBER-MI |
 
-BCP DSTRAT
-
-COMCYBER-MI |
+BCP DSTRAT COMCYBER-MI |
 
 chef de bureau OE |
 
-Commandement des écoles de la gendarmerie nationale |
+Commandement
+
+des écoles
+
+de la gendarmerie
+
+nationale |
 
 BF CNFSICG |
 
 SFSC BF CNFSICG |
 
-chef de section SIC |
+chef de section numérique |
 
 BF CNFSICG |
 
 SFST BF CNFSICG |
 
-chef de section SIC |
+chef de section numérique |
 
 BP CNFSICG |
 
 SFPE BP CNFSICG |
 
-chef de section SIC |
+chef de section numérique |
+
+CNFRI |
+
+SCR DRO CNFRI |
+
+chef de section école adjoint |
 
 DFO CNICG |
 
@@ -3984,9 +5468,51 @@ GNICG DFO CNICG |
 
 sous-officier maître de chien |
 
+DI EG CHATEAULIN |
+
+CI1 DI EG CHATEAULIN |
+
+commandant de peloton école |
+
+DI EG CHATEAULIN |
+
+CI3 DI EG CHATEAULIN |
+
+commandant de peloton école |
+
+DI EG CHATEAULIN |
+
+CI4 DI EG CHATEAULIN |
+
+commandant de peloton école |
+
+DI EG CHATEAULIN |
+
+CI5 DI EG CHATEAULIN |
+
+commandant de peloton école |
+
+DI EG CHATEAULIN |
+
+CI6 DI EG CHATEAULIN |
+
+commandant de peloton école |
+
 DI EG CHAUMONT |
 
 CI1 DI EG CHAUMONT |
+
+commandant de peloton école |
+
+DI EG CHAUMONT |
+
+CI2 DI EG CHAUMONT |
+
+commandant de peloton école |
+
+DI EG CHAUMONT |
+
+CI4 DI EG CHAUMONT |
 
 commandant de peloton école |
 
@@ -4008,51 +5534,111 @@ CI7 DI EG CHAUMONT |
 
 commandant de peloton école |
 
-DI EG MONTLUÇON |
+DI EG DIJON |
 
-CI2 DI EG
+CI2 DI EG DIJON |
 
-MONTLUÇON |
+commandant de peloton école |
+
+DI EG DIJON |
+
+CI4 DI EG DIJON |
+
+commandant de peloton école |
+
+DI EG DIJON |
+
+CI5 DI EG DIJON |
+
+commandant de peloton école |
+
+DI EG DIJON |
+
+CI8 DI EG DIJON |
+
+commandant de peloton école |
+
+DI EG DIJON |
+
+CI9 DI EG DIJON |
 
 commandant de peloton école |
 
 DI EG MONTLUÇON |
 
-CI3 DI EG
-
-MONTLUÇON |
+CI1 DI EG MONTLUÇON |
 
 commandant de peloton école |
 
 DI EG MONTLUÇON |
 
-CI4 DI EG
-
-MONTLUÇON |
+CI10 DI EG MONTLUÇON |
 
 commandant de peloton école |
 
 DI EG MONTLUÇON |
 
-CI6 DI EG
-
-MONTLUÇON |
+CI11 DI EG MONTLUÇON |
 
 commandant de peloton école |
 
 DI EG MONTLUÇON |
 
-CI8 DI EG
-
-MONTLUÇON |
+CI2 DI EG MONTLUÇON |
 
 commandant de peloton école |
 
 DI EG MONTLUÇON |
 
-CI9 DI EG
+CI3 DI EG MONTLUÇON |
 
-MONTLUÇON |
+commandant de peloton école |
+
+DI EG MONTLUÇON |
+
+CI4 DI EG MONTLUÇON |
+
+commandant de peloton école |
+
+DI EG MONTLUÇON |
+
+CI6 DI EG MONTLUÇON |
+
+commandant de peloton école |
+
+DI EG MONTLUÇON |
+
+CI7 DI EG MONTLUÇON |
+
+commandant de peloton école |
+
+DI EG MONTLUÇON |
+
+CI8 DI EG MONTLUÇON |
+
+commandant de peloton école |
+
+DI EG MONTLUÇON |
+
+CI9 DI EG MONTLUÇON |
+
+commandant de peloton école |
+
+DI EG ROCHEFORT |
+
+CI2 DI EG ROCHEFORT |
+
+commandant de peloton école |
+
+DI EG ROCHEFORT |
+
+CI3 DI EG ROCHEFORT |
+
+commandant de peloton école |
+
+DI EG ROCHEFORT |
+
+CI4 DI EG ROCHEFORT |
 
 commandant de peloton école |
 
@@ -4076,6 +5662,18 @@ commandant de peloton école |
 
 DI EG TULLE |
 
+CI5 DI EG TULLE |
+
+commandant de peloton école |
+
+DI EG TULLE |
+
+CI6 DI EG TULLE |
+
+commandant de peloton école |
+
+DI EG TULLE |
+
 CI7 DI EG TULLE |
 
 commandant de peloton école |
@@ -4092,7 +5690,23 @@ CI9 DI EG TULLE |
 
 commandant de peloton école |
 
-Commandement des forces aériennes de la gendarmerie |
+Commandement
+
+des forces aériennes
+
+de la gendarmerie |
+
+CNAMAG |
+
+DP CNAMAG |
+
+chef de section atelier aéronautique |
+
+COMGEND NC |
+
+SAG VELIZY-VILLACOUBLAY |
+
+chef de piste adjoint |
 
 D NÎMES |
 
@@ -4100,7 +5714,19 @@ SA NÎMES |
 
 sous-officier chef d'équipe |
 
-Commandement du soutien opérationnel de la gendarmerie nationale |
+Commandement
+
+du soutien
+
+opérationnel
+
+de la gendarmerie nationale |
+
+CSS GSA ILM |
+
+2SSDGGN CSS GSA ILM |
+
+chef de section sécurité |
 
 DT SCRTA |
 
@@ -4124,7 +5750,7 @@ GSA ISSY-LES-MOULINEAUX |
 
 CSO GSA ISSY-LES-MOULINEAUX |
 
-commandant de compagnie de soutien |
+commandant de compagnie de soutien adjoint |
 
 STIG |
 
@@ -4146,35 +5772,65 @@ chef de groupe SIC |
 
 Garde républicaine |
 
+CI 1/1 RI1 |
+
+SI 1/3 CI 1/1 RI1 |
+
+commandant de section GR |
+
+CI 1/2 RI2 |
+
+SI 1/2 CI 1/2 RI2 |
+
+commandant de section GR |
+
+CI 1/2 RI2 |
+
+SI 1/3 CI 1/2 RI2 |
+
+commandant de section GR |
+
+CI 2/1 RI1 |
+
+SI 2/3 CI 2/1 RI1 |
+
+commandant de section GR |
+
+CI 2/2 RI2 |
+
+SI 2/3 CI 2/2 RI2 |
+
+commandant de section GR |
+
+CI 3/2 RI2 |
+
+SI 3/3 CI 3/2 RI2 |
+
+commandant de section GR |
+
+CI 4/2 RI2 |
+
+SI 4/2 CI 4/2 RI2 |
+
+commandant de section GR |
+
+CI 4/2 RI2 |
+
+SI 4/3 CI 4/2 RI2 |
+
+commandant de section GR |
+
 CMM GR |
 
 MMCC CMM GR |
 
 commandant de maison militaire |
 
-CSH1/1 RI1 |
+CNIFEG RC |
 
-SSH1/3 CSH1/1 RI1 |
+PFC CNIFEG RC |
 
-commandant de section GR |
-
-CSH3/2 RI2 |
-
-SSH3/3 CHS3/2 RI2 |
-
-commandant de section GR |
-
-CSH4/2 RI2 |
-
-SSH4/3 CSH4/2 RI2 |
-
-commandant de section GR |
-
-CSH5/2 RI2 |
-
-SSH5/2 CSH5/2 RI2 |
-
-commandant de section GR |
+commandant de peloton GR |
 
 EC1 RC |
 
@@ -4188,13 +5844,49 @@ PC2 EC2 RC |
 
 commandant de peloton GR |
 
+EC3 RC |
+
+PC2 EC3 RC |
+
+commandant de peloton GR |
+
 EMOTO RI1 |
 
 PEM3 EMOTO RI1 |
 
 commandant de peloton motocycliste GR |
 
+MMPJP CMM GR |
+
+SPAS 2 MMPJP CMM GR |
+
+commandant de section GR |
+
+MMPJP CMM GR |
+
+SPAS 3 MMPJP CMM GR |
+
+commandant de section GR |
+
 Gendarmerie de l'air et de l'espace |
+
+BGAESI PARIS-BALARD |
+
+GS1 BGAESI PARIS-BALARD |
+
+sous-officier groupe de sécurité |
+
+BGAESI PARIS-BALARD |
+
+GS3 BGAESI PARIS-BALARD |
+
+sous-officier groupe de sécurité |
+
+CGAE ISTRES |
+
+BGAECTF ISTRES |
+
+commandant de brigade de gendarmerie de l'air et de l'espace |
 
 DO GAIR |
 
@@ -4202,19 +5894,21 @@ CRO GAIR |
 
 chef de centre opérationnel et de renseignement de la gendarmerie |
 
-GGAIR NORD |
+GGAEN |
 
-BGAIR ORLÉANS |
+BGAE LUXEUIL-LES-BAINS |
 
-commandant de brigade de gendarmerie de l'air |
+commandant de brigade de gendarmerie de l'air et de l'espace |
 
-GSS PARIS |
+GGAEN |
 
-GS1 BGAIRSI PARIS-BALARD |
+BGAE ORLÉANS |
 
-sous-officier groupe de sécurité |
+commandant de brigade de gendarmerie de l'air et de l'espace |
 
-Gendarmerie de l'armement |
+Gendarmerie
+
+de l'armement |
 
 CGARMN |
 
@@ -4222,7 +5916,61 @@ BGARM ARCUEIL |
 
 commandant de brigade de gendarmerie de l'armement |
 
+CGARMN |
+
+PSP-GARM BOURGES |
+
+commandant de peloton de sûreté et de protection-GARM |
+
+Gendarmerie
+
+maritime |
+
+CNIGMAR GMAR |
+
+SE CNIGMAR GMAR |
+
+officier instructeur spécialisé navigateur |
+
+DO GMAR |
+
+BPCO DO GMAR |
+
+rédacteur OE |
+
+Gendarmerie
+
+de la sécurité
+
+des armements
+
+nucléaires |
+
+GSAN |
+
+CCOG GSAN |
+
+chef de quart |
+
 Gendarmerie des transports aériens |
+
+CGTA BREST |
+
+BGTA NANTES-ATLANTIQUE |
+
+commandant de brigade de gendarmerie des transports aériens |
+
+CGTA PARIS-CDG |
+
+BGTA LE BOURGET |
+
+commandant de brigade de gendarmerie des transports aériens |
+
+CGTA PARIS-ORLY |
+
+BGTA BEAUVAIS-TILLE |
+
+commandant de brigade de gendarmerie des transports aériens |
 
 CGTA TOULOUSE |
 
@@ -4256,48 +6004,120 @@ SFS CNFIS GIGN |
 
 chef de groupe unité spéciale |
 
-Pôle judiciaire de la gendarmerie nationale |
+CNFIS GIGN |
 
-BSII PJGN |
+SFOP CNFIS GIGN |
 
-SIAS BSII PJGN |
+chef de groupe unité spéciale |
 
-chef de section SIC |
+CNFIS GIGN |
 
-DF SCRCGN |
+SFS CNFIS GIGN |
 
-DFAJ DF SCRCGN |
+chef de groupe unité spéciale |
+
+Unité nationale
+
+de police judiciaire
+
+de la gendarmerie nationale |
+
+BSII UNPJ |
+
+SIAS BSII UNPJ |
+
+chef de section cybernumérique |
+
+IRCGN |
+
+DB DCPC IRCGN |
+
+chef de groupe experts IRCGN |
+
+IRCGN |
+
+DDNM CNENUM IRCGN |
+
+chef de groupe experts IRCGN |
+
+OCLAESP |
+
+GRI DRCI OCLAESP |
+
+chef de groupe enquêteur PJ |
+
+OCLAESP |
+
+PRC DRCI OCLAESP |
 
 chef de groupe enquêteurs PJ |
 
-Unité nationale cyber DGGN |
+OCLCH |
 
-CNUM DPNUM DGGN |
+DSCI OCLCH |
 
-BNUM RENNES DGGN |
+chef de groupe cyberenquêteur |
+
+OCLCH |
+
+GEC DLCHGCG OCLCH |
+
+chef de groupe enquêteur PJ |
+
+OCLDI |
+
+GAARC DRC OCLDI |
+
+chef de groupe analystes renseignement |
+
+OCLDI |
+
+GIFB DCO OCLDI |
+
+commandant de groupe en office central |
+
+SCRCGN |
+
+CMI SCRCGN |
+
+chef de groupe enquêteurs PJ |
+
+SCRCGN |
+
+DFAJ DFBC SCRCGN |
+
+chef de département adjoint |
+
+UNCYBER |
+
+BNUM RENNES UNCYBER |
 
 commandant de brigade numérique |
 
-DCO DO DGGN |
+UNCYBER |
 
-GASTAD DCO DGGN |
-
-chef de groupe enquêteurs PJ |
-
-DCO DO DGGN |
-
-GEC DCO DGGN |
+GASTAD DCO UNCYBER |
 
 chef de groupe enquêteurs PJ |
 
-DRII DO DGGN |
+UNCYBER |
 
-GIRSO DRII DGGN |
+GEC DCO UNCYBER |
 
 chef de groupe enquêteurs PJ |
 
-DT UNCYBER DGGN |
+UNCYBER |
 
-SRO GUTI DT DGGN |
+GIRSO DCO UNCYBER |
+
+chef de groupe cyberenquêteur |
+
+UNCYBER |
+
+SRO GUTI-DATE UNCYBER |
 
 chef de section PJ |
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 17 décembre 2025 (NOR : INTJ2531370A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er janvier 2026.
