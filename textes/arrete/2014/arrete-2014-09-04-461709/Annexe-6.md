@@ -38,6 +38,8 @@ Les tableaux récapitulatifs sont complétés en respectant les règles suivante
 
 - pour la référence de la fiche d'opération standardisée : la référence de la fiche d'opération standardisée est celle utilisée dans l'arrêté définissant les opérations standardisées d'économies d'énergie. Dans le cas des opérations spécifiques, la référence de la fiche d'opération standardisée est remplacée par SPE-YYY(Y)-XX. YYY(Y) correspond au secteur d'activité principal de l'opération spécifique : AGRI pour le secteur agricole, BAR pour le secteur résidentiel, BAT pour le secteur tertiaire, IND pour le secteur industriel, RES pour le secteur des réseaux et TRA pour le secteur des transports ;
 
+- pour la date d'engagement des travaux : pour les opérations relevant des fiches d'opérations standardisées BAR-TH-178 et BAT-TH-162, la date d'engagement des travaux correspond à la date de signature du devis du dispositif de captage de l'installation géothermique ;
+
 - pour la date de facture ou la date d'achèvement des travaux : pour les opérations relevant des fiches d'opérations standardisées BAR-TH-174, BAR-TH-175 et BAR-TH-177, la date de facture ou la date d'achèvement des travaux correspond à la date de la dernière facture ou la dernière date d'achèvement des travaux ;
 
 - pour la nature du rôle actif et incitatif : cette colonne comporte l'une des mentions suivantes :
@@ -74,7 +76,7 @@ h) "CRM" pour la bonification prévue à l'article 3-5-1 de l'arrêté du 29 dé
 
 i) "CTH" pour la bonification prévue à l'article 3-6-1 de l'arrêté du 29 décembre 2014 susvisé ;
 
-j) "CDP" pour les bonifications prévues aux articles 3-6, 3-7 et 3-7-1 de l'arrêté du 29 décembre 2014 susvisé ;
+j) “ CDP ” pour les bonifications prévues aux articles 3-6, 3-7, 3-7-1 et au VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 susvisé ;
 
 k) “AUTRE” pour les autres bonifications prévues par l'arrêté du 29 décembre 2014 susvisé.
 
@@ -103,7 +105,3 @@ Pour le cas d'un regroupement :
 - les colonnes relatives à l'identité du demandeur sont renseignées avec les informations relatives au membre du regroupement concerné par l'opération (et non au regroupeur, sauf en tant que membre du regroupement) ;
 
 - la colonne de la référence EMMY du dossier permet d'identifier le regroupeur : cette référence comporte notamment son numéro de compte.
-
-NOTA :
-
-Conformément à l'article 5 de l'arrêté du 10 juin 2025 (NOR : ECOR2513165A), ces dispositions entrent en vigueur le 1er juillet 2025.

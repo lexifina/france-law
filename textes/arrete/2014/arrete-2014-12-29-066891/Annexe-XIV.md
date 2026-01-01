@@ -70,7 +70,7 @@ Dès publication des références de mon offre sur le site internet du ministèr
 
 -utiliser la dénomination " Coup de pouce Véhicules Particuliers Electriques " ;
 
--bénéficier des bonifications prévues au 1° et au 2° du VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, pour les opérations engagées postérieurement à la date de prise d'effet de ma charte et au plus tard le 31 décembre 2025, et achevées au plus tard le 30 juin 2026.
+-bénéficier des bonifications prévues au 1° et au 2° du VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, pour les opérations engagées postérieurement à la date de prise d'effet de ma charte.
 
 Je m'engage à transmettre chaque mois à la DGEC un point d'avancement sur les opérations effectuées dans le cadre de mes offres, selon une trame fournie et comportant notamment les éléments suivants, par type de bonification (1° ou 2° du VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 modifié) :
 
@@ -110,4 +110,4 @@ Le
 
 NOTA :
 
-Conformément à l’article 8 de l’arrêté du 8 septembre 2025 (NOR : ECOR2524330A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur à compter du 1er octobre 2025.
+Conformément à l’article 3 de l’arrêté du 24 décembre 2025 (NOR : ECOR2535257A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur à compter du 1er janvier 2026.
