@@ -1,0 +1,21 @@
+# Article 1er
+
+L'article 2 de l'accord du 27 octobre 2020 est abrogé et remplacé par les dispositions suivantes :
+
+« Article 2
+
+Bénéficiaires
+
+Les entreprises visées à l'article premier sont tenues de couvrir l'ensemble de leurs salariés cadres et non cadres, sans condition d'ancienneté, à hauteur des garanties “incapacité de travail, invalidité, décès et dépendance et maladies redoutées” minimales prévues par le présent avenant.
+
+Par salariés cadres et non cadres, il convient d'entendre en application du présent avenant :
+
+– les salariés cadres relevant des articles 2.1 et 2.2 de l'ANI du 17 novembre 2017 ;
+
+– les salariés non cadres ne relevant pas des articles 2.1 et 2.2 de l'ANI du 17 novembre 2017.
+
+Sous réserve de la décision d'agrément de la commission paritaire rattachée à l'association pour l'emploi des cadres (APEC), les entreprises ont la faculté d'inclure dans la catégorie objective des cadres, les techniciens, agents de maîtrise, et employés tels que définis dans l'accord de branche relatif aux catégories de bénéficiaires du régime de protection sociale complémentaire.
+
+Les entreprises qui mettront en œuvre cette faculté, devront la formaliser au sein de l'acte de droit du travail instituant leur régime de prévoyance complémentaire au sens de l'article L. 911-1 du code de la sécurité sociale (c'est-à-dire, par voie d'accord collectif ou référendaire ou de décision unilatérale de l'employeur remise aux salariés) selon la faculté de choix laissés à l'entreprise par la commission paritaire de l'APEC. »
+
+L'adhésion des salariés au régime de prévoyance mis en place dans l'entreprise est obligatoire.
