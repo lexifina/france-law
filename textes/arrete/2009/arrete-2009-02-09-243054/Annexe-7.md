@@ -23,3 +23,11 @@ Lorsque le numéro d'immatriculation CMD, CD, C ou K sera complété par l'appos
 3. Véhicules de collection
 
 Le numéro d'immatriculation peut être reproduit sur chaque plaque d'immatriculation en caractères blancs sur fond noir.
+
+4. Immatriculation provisoire WW et immatriculation W garage
+
+Le numéro d'immatriculation est reproduit sur chaque plaque d'immatriculation en caractères noirs sur fond rose. La date de fin de validité de l'immatriculation provisoire WW (mm/ aa) est reproduite dans la partie utile de la plaque, à l'extrémité droite de celle-ci et en caractères noirs sur fond rose.
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 21 novembre 2025 (NOR : INTS2532392A), ces dispositions, dans leur rédaction issue de l'article 1er de l'arrêté précité, entrent en vigueur le 1er janvier 2026.

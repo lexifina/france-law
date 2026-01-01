@@ -248,6 +248,28 @@ y |
 
 |
 
+Rose x
+
+y |
+
+0.345
+
+0.155 |
+
+0.500
+
+0.195 |
+
+0.470
+
+0.295 |
+
+0.365
+
+0.280 |
+
+|
+
 De nuit :
 
 Couleur |
@@ -278,9 +300,7 @@ y |
 
 0.450
 
-0.513
-
-|
+0.513 |
 
 Appendice 2 : spécifications photométriques
 
@@ -399,3 +419,7 @@ Bleu
 |
 
 |
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 21 novembre 2025 (NOR : INTS2532392A), ces dispositions, dans leur rédaction issue de l'article 2 de l'arrêté précité, entrent en vigueur le 1er janvier 2026.
