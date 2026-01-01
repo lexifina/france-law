@@ -1,8 +1,6 @@
 # Article Annexe II
 
-EMPLOIS BÉNÉFICIAIRES DE LA NOUVELLE BONIFICATION INDICIAIRE À COMPTER DU 1ER JANVIER 2025
-
-|
+EMPLOIS BÉNÉFICIAIRES DE LA NOUVELLE BONIFICATION INDICIAIRE À COMPTER DU 1ER JANVIER 2026
 
 PREFECTURE DE PARIS |
 
@@ -12,15 +10,7 @@ Libellé |
 
 Catégorie |
 
-|
-
-|
-
 FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE |
-
-|
-
-|
 
 |
 
@@ -28,15 +18,7 @@ AU TITRE DES ACTIONS DE MODERNISATION |
 
 |
 
-|
-
-|
-
-Adjoint (e) au chef du service de la modernisation de l'État |
-
-A |
-
-Chargé (e) de la stratégie immobilière |
+Adjoint au chef du service de la modernisation de l'Etat |
 
 A |
 
@@ -48,99 +30,83 @@ AU TITRE DES ATTRIBUTIONS FINANCIERES, COMPTABLES ET JURIDIQUES |
 
 |
 
-|
+Chef du centre de services partagés régional (CSPR)
 
-|
+Chef de section fonctionnement et immobilier régional
 
-Adjoint au chef du bureau régional des achats |
+Chef du bureau du pilotage budgétaire
 
-A |
+Chef de section emplois et masse salariale régionaux
 
-Chef du centre de services partagés régional (CSPR) |
+Chef du bureau du contentieux et du conseil juridique
 
-A |
+Chef du pôle commande publique et domanialité publique
 
-Chef de section fonctionnement et immobilier régional |
+Chef de la section rémunérations et pilotage des effectifs et de la masse salariale
 
-A |
+Gestionnaire budgétaire des dépenses de fonctionnement du BOP 354 et de l'UO 75
 
-Chef du bureau du pilotage budgétaire |
+Gestionnaire en charge du suivi des effectifs, de la masse salariale et de la paye-référent OPTIMATE
 
-A |
+Gestionnaire en charge du suivi des effectifs, de la masse salariale et de la paye-référent paye
 
-Chef de section emplois et masse salariale régionaux |
+Gestionnaire budgétaire pour le titre 2 du BOP 354
 
-A |
+Gestionnaire budgétaire des dépenses de fonctionnement du BOP 354
 
-Chef du bureau du contentieux et du conseil juridique |
+Chef de section investissement et immobilier
 
-A |
+Gestionnaire entretien du propriétaire et rénovation des cités administratives
 
-Chef du pôle commande publique et domanialité publique |
+Gestionnaire budgétaire des dépenses immobilières régionales et départementales
 
-A |
+Adjoint au chef du bureau des élections, du mécénat et de la réglementation économique, chef de la section mécénat
 
-Chef de la section rémunérations et pilotage des effectifs et de la masse salariale |
+Adjoint au chef du bureau des élections, du mécénat et de la réglementation économique, chef de la section élections et réglementation économique
 
-A |
+Gestionnaire des élections et des affaires générales
 
-Gestionnaire budgétaire |
+Régisseur principal
 
-B |
+Gestionnaire budgétaire de l'exécution des dépenses de la préfecture |
 
-Gestionnaire budgétaire |
+A
 
-B |
+A
 
-Gestionnaire en charge du suivi des effectifs, de la masse salariale et de la paye-référent BGP2 |
+A
 
-B |
+A
 
-Gestionnaire en charge du suivi des effectifs, de la masse salariale et de la paye-référent paye |
+A
 
-B |
+A
 
-Gestionnaire budgétaire pour le titre 2 du BOP 354 |
+A
 
-B |
+B
 
-Gestionnaire budgétaire des dépenses de fonctionnement du BOP 354 |
+B
 
-B |
+B
 
-Chef de la section 2-coordination DRIEETS et DRAC |
+B
 
-B |
+B
 
-Gestionnaire entretien du propriétaire et rénovation des cités administratives |
+B
 
-B |
+B
 
-Gestionnaire entretien du propriétaire et rénovation des cités administratives |
+C
 
-C |
+A
 
-Chargé de la réglementation et de l'analyse financière des structures de mécénat |
+A
 
-B |
+C
 
-Chargé de section élections et affaires générales |
-
-B |
-
-Gestionnaire des élections et des affaires générales |
-
-C |
-
-Régisseur principal |
-
-B |
-
-Gestionnaire budgétaire |
-
-B |
-
-Gestionnaire budgétaire |
+B
 
 B |
 
@@ -148,7 +114,11 @@ B |
 
 |
 
-AU TITTRE DES COMPETENCES TECHNIQUES, UTILISATION DE MATERIELS ET DOCUMENTATIONS |
+|
+
+|
+
+|
 
 |
 
@@ -156,25 +126,57 @@ AU TITTRE DES COMPETENCES TECHNIQUES, UTILISATION DE MATERIELS ET DOCUMENTATIONS
 
 |
 
-Chef du bureau des moyens et de la logistique |
+|
 
-A |
+|
 
-Chargé d'études politiques et comitologie |
+|
 
-B |
+|
 
-Chef de la section des décorations |
+|
 
-B |
+|
 
-Chef de section maintenance et logistique |
+|
 
-B |
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+AU TITRE DES COMPETENCES TECHNIQUES, UTILISATION DE MATERIELS ET DOCUMENTATIONS |
+
+|
+
+Chef du bureau des moyens et de la logistique
+
+Chef de la section des décorations
+
+Chef de section maintenance et logistique
 
 Secrétaire et gestionnaire du pôle droit des sols |
 
+A
+
+B
+
+B
+
 C |
+
+|
+
+|
+
+|
 
 |
 
@@ -184,13 +186,33 @@ FONCTION D'ACCUEIL EXTERNE OU INTERNE |
 
 |
 
+Chef du bureau des relations aux usagers
+
+Adjointe au chef du bureau des relations aux usagers
+
+Chef de la section accueil du public et courrier
+
+Hôtesse d'accueil
+
+Hôtesse d'accueil |
+
+A
+
+A
+
+C
+
+C
+
+C |
+
+|
+
 |
 
 |
 
-Chef du bureau des relations aux usagers |
-
-A |
+|
 
 |
 
@@ -200,69 +222,103 @@ FONCTION D'ENCADREMENT, CONTRAINTES ET RESPONSABILITES PARTICULIERES |
 
 |
 
+Adjoint au chef du bureau des affaires réservées
+
+Chef de bureau des affaires réservées
+
+Chef du service de la représentation de l'Etat
+
+Adjoint au chef du bureau des urgences sociales
+
+Chef du bureau des élections, du mécénat et de la réglementation économique
+
+Chef du bureau de gestion des ressources humaines
+
+Chef du bureau du recrutement, de l'attractivité, et des parcours de carrière
+
+Adjoint au chef du service régional de communication interministérielle
+
+Chef du bureau des urgences sociales
+
+Adjoint au chef du bureau de la coordination départementale et interministérielle
+
+Adjoint au chef du bureau de la coordination des affaires parisiennes
+
+Chef du bureau des décorations et de l'intendance
+
+Adjoint au chef du bureau d'accès aux logements sociaux interministériels réservés aux agents de l'Etat (BALAE)
+
+Chef de la mission d'appui au pilotage local
+
+Chef du bureau du protocole et des déplacements, adjoint au chef du service de la représentation de l'Etat
+
+Chef du bureau d'accès aux logements sociaux interministériels réservés aux agents de l'Etat (BALAE) |
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+B
+
+B
+
+A
+
+A
+
+A |
+
 |
 
 |
 
-Adjoint au chef du bureau des affaires réservées |
+|
 
-A |
+|
 
-Chef de bureau des affaires réservées |
+|
 
-A |
+|
 
-Chef du service de la représentation de l'État |
+|
 
-A |
+|
 
-Adjoint au chef du bureau des urgences sociales |
+|
 
-A |
+|
 
-Chef du bureau des élections, du mécénat et de la réglementation économique |
+|
 
-A |
+|
 
-Chef du bureau de gestion des ressources humaines |
+|
 
-A |
+|
 
-Chef du bureau des parcours professionnels et de l'accompagnement interministériel |
+|
 
-A |
+|
 
-Adjoint au chef du service régional de communication interministérielle |
-
-A |
-
-Chef du bureau des urgences sociales |
-
-A |
-
-Adjoint au chef du service de la représentation de l'État |
-
-A |
-
-Chef du bureau des décorations et de l'intendance |
-
-B |
-
-Adjoint au chef du bureau d'accès aux logements sociaux interministériels réservés aux agents de l'État (BALAE) |
-
-B |
-
-Chef de la mission d'appui au pilotage local |
-
-A |
-
-Chef du bureau du protocole et des déplacements |
-
-A |
-
-Chef du bureau d'accès aux logements sociaux interministériels réservés aux agents de l'État (BALAE) |
-
-A |
+|
 
 |
 
@@ -282,25 +338,19 @@ FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE |
 
 |
 
-|
-
-|
-
 AU TITRE DES ATTRIBUTIONS FINANCIERES, COMPTABLES ET JURIDIQUES |
 
 |
 
-|
-
-|
-
-Chef du bureau des ressources et de la modernisation (CABINET) |
-
-A |
+Chef du bureau des ressources et de la modernisation (CABINET)
 
 Adjoint au chef du département juridique et budgétaire (DIE) |
 
+A
+
 A |
+
+|
 
 |
 
@@ -310,17 +360,15 @@ AU TITRE DES COMPETENCES TECHNIQUES |
 
 |
 
-|
-
-|
-
-Adjoint au secrétaire général (DIE) |
-
-A |
+Adjoint au secrétaire général (DIE)
 
 Secrétaire général du service de la mémoire et des affaires culturelles (SMAC) |
 
+A
+
 A |
+
+|
 
 |
 
@@ -330,45 +378,49 @@ FONCTION NOTAMMENT D'ENCADREMENT ASSORTIE DE CONTRAINTES PARTICULIERES |
 
 |
 
-|
-
-|
-
 EMPLOIS D'ENCADREMENT A CONTRAINTES ET RESPONSABILITES PARTICULIERES DE LA PREFECTURE DE POLICE |
 
 |
 
-|
+Chef de cabinet du préfet délégué à l'immigration
 
-|
+Chef du bureau de l'immatriculation des véhicules (DTPP)
 
-Chef de cabinet du préfet délégué à l'immigration |
+Chef du bureau des rémunérations et des pensions-Administrations parisiennes (DRH)
 
-A |
+Chef du département de la gestion des ressources et des stages (DRH)
 
-Chef du bureau de l'immatriculation des véhicules (DTPP) |
+Chef du bureau des concours, des examens et des recrutements sans concours (DRH)
 
-A |
-
-Chef du bureau des rémunérations et des pensions-Administrations parisiennes (DRH) |
-
-A |
-
-Chef du département de la gestion des ressources et des stages (DRH) |
-
-A |
-
-Chef du bureau des concours, des examens et des recrutements sans concours (DRH) |
-
-A |
-
-Chef du bureau des hôtels et foyers (DTPP) |
-
-A |
+Chef du bureau des hôtels et foyers (DTPP)
 
 Chef du bureau des objets trouvés et scellés (DTPP) |
 
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
 A |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -378,150 +430,214 @@ EMPLOIS D'ENCADREMENT AU BUREAU DES ETRANGERS |
 
 |
 
-|
+Chef de la section affaires générales (cabinet)
 
-|
+Adjoint au chef de la section des affaires générales (cabinet)
 
-Chef de la section affaires générales (cabinet) |
+Chef du bureau du soutien juridique et du contentieux (DRMJ)
 
-A |
+Adjoint au chef du bureau du soutien juridique et du contentieux (DRMJ)
 
-Adjoint au chef de la section des affaires générales (cabinet) |
+Adjoint au chef du bureau du soutien juridique et du contentieux (DRMJ)
 
-A |
+Adjoint au pôle de l'accès à la nationalité (SDSAN)
 
-Chef du bureau du soutien juridique et du contentieux (DRMJ) |
+Adjoint au pôle de l'accès à la nationalité (SDSAN)
 
-A |
+Chef de la section instruction (SDSAN)
 
-Adjoint au chef du bureau du soutien juridique et du contentieux (DRMJ) |
+Chef de la section instruction (SDSAN)
 
-A |
+Chef de section dossiers signalés (SDSAN)
 
-Adjoint au chef du bureau du soutien juridique et du contentieux (DRMJ) |
+Adjoint au chef du pôle de l'instruction des demandes de séjour
 
-A |
+Chef de la division de l'immigration professionnelle et étudiante (SDSAN)
 
-Adjoint au pôle de l'accès à la nationalité (SDSAN) |
+Adjoint au chef de la division de l'immigration professionnelle et étudiante (SDSAN)
 
-A |
+Chef de la division de l'immigration familiale (SDSAN)
 
-Adjoint au pôle de l'accès à la nationalité (SDSAN) |
+Adjoint au chef de la division de l'immigration familiale (SDSAN)
 
-A |
+Chef de la division de l'admission exceptionnelle au séjour et de l'actualisation des situations administratives de voyages (SDSAN)
 
-Chef de la section instruction (SDSAN) |
+Chef de la division de la rédaction et des examens spécialisés
 
-A |
+Adjoint au chef de la division de la rédaction et des examens spécialisés
 
-Chef de la section instruction (SDSAN) |
+Adjoint au chef du pôle de la relation et du service à l'usager
 
-A |
+Chef de la division de l'accompagnement des usagers
 
-Chef de section dossiers signalés (SDSAN) |
+Chef de la division de la réception des usagers
 
-A |
+Adjoint au chef du bureau de la lutte contre l'immigration irrégulière-chef de la division reconduites (DZAE)
 
-Adjoint au chef du pôle de l'instruction des demandes de séjour |
+Adjoint au chef du bureau de la lutte contre l'immigration irrégulière-chef de la division examens (DZAE)
 
-A |
+Adjoint au chef de la division reconduites (DZAE)
 
-Chef de la division de l'immigration professionnelle et étudiante (SDSAN) |
+Adjoint au chef de la division reconduites (DZAE)
 
-A |
+Adjoint au chef de la division reconduites (DZAE)
 
-Adjoint au chef de la division de l'immigration professionnelle et étudiante (SDSAN) |
+Adjoint au chef de la division reconduites (DZAE)
 
-A |
+Adjoint au chef de la division reconduites (DZAE)
 
-Chef de la division de l'immigration familiale (SDSAN) |
+Adjoint au chef de la division examens (DZAE)
 
-A |
+Adjoint au chef de la division examens (DZAE)
 
-Adjoint au chef de la division de l'immigration familiale (SDSAN) |
+Préfigurateur-Chef de la section de l'analyse et de la coordination zonale (DZAE)
 
-A |
+Adjoint au chef du bureau de l'accueil de la demande d'asile (DZAE)
 
-Chef de la division de l'admission exceptionnelle au séjour et de l'actualisation des situations administratives de voyages (SDSAN) |
+Adjoint au chef du bureau de l'accueil de la demande d'asile (DZAE)
 
-A |
-
-Chef de la division de la rédaction et des examens spécialisés |
-
-A |
-
-Adjoint au chef de la division de la rédaction et des examens spécialisés |
-
-A |
-
-Adjoint au chef du pôle de la relation et du service à l'usager |
-
-A |
-
-Chef de la division de l'accompagnement des usagers |
-
-A |
-
-Chef de la division de la réception des usagers |
-
-A |
-
-Adjoint au chef du bureau de la lutte contre l'immigration irrégulière-chef de la division reconduites (DZAE) |
-
-A |
-
-Adjoint au chef du bureau de la lutte contre l'immigration irrégulière-chef de la division examens (DZAE) |
-
-A |
-
-Adjoint au chef de la division reconduites (DZAE) |
-
-A |
-
-Adjoint au chef de la division reconduites (DZAE) |
-
-A |
-
-Adjoint au chef de la division reconduites (DZAE) |
-
-A |
-
-Adjoint au chef de la division reconduites (DZAE) |
-
-A |
-
-Adjoint au chef de la division reconduites (DZAE) |
-
-A |
-
-Adjoint au chef de la division examens (DZAE) |
-
-A |
-
-Adjoint au chef de la division examens (DZAE) |
-
-A |
-
-Préfigurateur-Chef de la section de l'analyse et de la coordination zonale (DZAE) |
-
-A |
-
-Adjoint au chef du bureau de l'accueil de la demande d'asile (DZAE) |
-
-A |
-
-Adjoint au chef du bureau de l'accueil de la demande d'asile (DZAE) |
-
-A |
-
-Chef du pôle Asile (DZAE) |
-
-A |
+Chef du pôle Asile (DZAE)
 
 Chef du pôle interdépartemental Dublin (DZAE) |
 
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
 A |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 NOTA :
 
-Conformément à l'article 1 de l'arrêté du 13 décembre 2024 (NOR : INTA2433646A), ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément à l'article 1 de l'arrêté du 16 décembre 2025 (NOR : INTH2534439A), ces dispositions entrent en vigueur le 1er janvier 2026.
