@@ -8,7 +8,7 @@ La présente annexe établit les exigences à respecter par les aéronefs sans �
 
 -d'une plate-forme destinée à être utilisée par des aéronefs ultralégers motorisés de façon permanente ou pour une activité rémunérée.
 
-Lorsque qu'il existe une zone de contrôle ou une zone à utilisation obligatoire de radio autour de l'aérodrome concerné, les exigences établies par la présente annexe ne s'appliquent pas au-delà des limites de celle-ci, y compris en dehors des horaires d'activité publiés de ces zones.
+Lorsqu'une zone de contrôle ou une zone à utilisation obligatoire de radio est associée à un aérodrome, les exigences établies par la présente annexe pour les infrastructures de ce dernier ne s'appliquent pas au-delà des limites de cette zone, y compris en dehors de ses horaires d'activité publiés.
 
 Les hauteurs de vol mentionnées dans la présente annexe sont à considérer par rapport à l'altitude de référence de l'infrastructure concernée.
 
@@ -91,3 +91,7 @@ Hauteur |
 30 m |
 
 100 m |
+
+NOTA :
+
+Conformément à l'article 11 de l'arrêté du 23 décembre 2025 (NOR : TRAA2529342A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er janvier 2026.
