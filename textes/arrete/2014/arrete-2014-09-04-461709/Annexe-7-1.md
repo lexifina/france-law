@@ -92,6 +92,8 @@ En tant que bénéficiaire de l'opération d'économies d'énergie, j'atteste su
 
 -qu'aucune aide à l'investissement de l'Agence de l'environnement et de la maîtrise de l'énergie (ADEME) n'a été reçue ou ne sera sollicitée pour cette opération ou qu'une aide à l'investissement de l'ADEME a été reçue ou sollicitée et que le calcul et la décision d'attribution de cette aide prennent en compte la délivrance de certificats d'économies d'énergie.
 
+- qu'aucune prime de l'Agence nationale de l'habitat (ANAH) n'a été reçue ou ne sera sollicitée pour cette opération ou qu'une prime de l'ANAH a été reçue ou sollicitée et que le calcul et la décision d'octroi de la prime prennent en compte la délivrance de certificats d'économies d'énergie.
+
 Fait à.
 
 (*) Le _ _/ _ _/ _ _ _ _
@@ -212,13 +214,11 @@ Si mon ménage comporte plusieurs foyers fiscaux et que les pièces justificativ
 
 Tableau A
 
-Nombre de personnes
+Nombre de personnes composant
 
-composant le ménage |
+le ménage |
 
-Plafonds de revenus du ménage
-
-en Ile-de-France (€) |
+Plafonds de revenus du ménage en Ile-de-France (€) |
 
 Plafonds de revenus du ménage
 
@@ -226,49 +226,45 @@ pour les autres régions (€) |
 
 1 |
 
-23 768 |
+24 031 |
 
-17 173 |
+17 363 |
 
 2 |
 
-34 884 |
+35 270 |
 
-25 115 |
+25 393 |
 
 3 |
 
-41 893 |
+42 357 |
 
-30 206 |
+30 540 |
 
 4 |
 
-48 914 |
+49 455 |
 
-35 285 |
+35 676 |
 
 5 |
 
-55 961 |
+56 580 |
 
-40 388 |
+40 835 |
 
 Par personne supplémentaire |
 
-7 038 |
+7 116 |
 
-5 094 |
+5 151 |
 
 Tableau B
 
-Nombre de personnes
+Nombre de personnes composant le ménage |
 
-composant le ménage |
-
-Plafonds de revenus du ménage
-
-en Ile-de-France (€) |
+Plafonds de revenus du ménage en Ile-de-France (€) |
 
 Plafonds de revenus du ménage
 
@@ -276,39 +272,39 @@ pour les autres régions (€) |
 
 1 |
 
-28 933 |
+29 253 |
 
-22 015 |
+22 259 |
 
 2 |
 
-42 463 |
+42 933 |
 
-32 197 |
+32 553 |
 
 3 |
 
-51 000 |
+51 564 |
 
-38 719 |
+39 148 |
 
 4 |
 
-59 549 |
+60 208 |
 
-45 234 |
+45 735 |
 
 5 |
 
-68 123 |
+68 877 |
 
-51 775 |
+52 348 |
 
 Par personne supplémentaire |
 
-8 568 |
+8 663 |
 
-6 525 |
+6 598 |
 
 Fait à.
 
@@ -530,13 +526,11 @@ Nota.-Ne sont comptabilisés que les ménages pour lesquels au moins une pièce 
 
 Tableau A
 
-Nombre de personnes
+Nombre de personnes composant
 
-composant le ménage |
+le ménage |
 
-Plafonds de revenus du ménage
-
-en Ile-de-France (€) |
+Plafonds de revenus du ménage en Ile-de-France (€) |
 
 Plafonds de revenus du ménage
 
@@ -544,49 +538,45 @@ pour les autres régions (€) |
 
 1 |
 
-23 768 |
+24 031 |
 
-17 173 |
+17 363 |
 
 2 |
 
-34 884 |
+35 270 |
 
-25 115 |
+25 393 |
 
 3 |
 
-41 893 |
+42 357 |
 
-30 206 |
+30 540 |
 
 4 |
 
-48 914 |
+49 455 |
 
-35 285 |
+35 676 |
 
 5 |
 
-55 961 |
+56 580 |
 
-40 388 |
+40 835 |
 
 Par personne supplémentaire |
 
-7 038 |
+7 116 |
 
-5 094 |
+5 151 |
 
 Tableau B
 
-Nombre de personnes
+Nombre de personnes composant le ménage |
 
-composant le ménage |
-
-Plafonds de revenus du ménage
-
-en Ile-de-France (€) |
+Plafonds de revenus du ménage en Ile-de-France (€) |
 
 Plafonds de revenus du ménage
 
@@ -594,39 +584,39 @@ pour les autres régions (€) |
 
 1 |
 
-28 933 |
+29 253 |
 
-22 015 |
+22 259 |
 
 2 |
 
-42 463 |
+42 933 |
 
-32 197 |
+32 553 |
 
 3 |
 
-51 000 |
+51 564 |
 
-38 719 |
+39 148 |
 
 4 |
 
-59 549 |
+60 208 |
 
-45 234 |
+45 735 |
 
 5 |
 
-68 123 |
+68 877 |
 
-51 775 |
+52 348 |
 
 Par personne supplémentaire |
 
-8 568 |
+8 663 |
 
-6 525 |
+6 598 |
 
 Liste des ménages bénéficiant de l'opération et dont les revenus sont inférieurs aux plafonds du tableau B ci-dessus (une ligne par ménage) :
 
@@ -772,27 +762,27 @@ Plafonds de revenus du ménage (€) |
 
 1 |
 
-23 768 |
+24 031 |
 
 2 |
 
-34 884 |
+35 270 |
 
 3 |
 
-41 893 |
+42 357 |
 
 4 |
 
-48 914 |
+49 455 |
 
 5 |
 
-55 961 |
+56 580 |
 
 Par personne supplémentaire |
 
-7 038 |
+7 116 |
 
 Tableau B
 
@@ -802,27 +792,27 @@ Plafonds de revenus du ménage (€) |
 
 1 |
 
-28 933 |
+29 253 |
 
 2 |
 
-42 463 |
+42 933 |
 
 3 |
 
-51 000 |
+51 564 |
 
 4 |
 
-59 549 |
+60 208 |
 
 5 |
 
-68 123 |
+68 877 |
 
 Par personne supplémentaire |
 
-8 568 |
+8 663 |
 
 Fait à.
 
@@ -832,4 +822,6 @@ Fait à.
 
 NOTA :
 
-Se reporter aux conditions d'application prévues à l'article 6 de l'arrêté du 27 juin 2025 (NOR : ECOR2518213A ).
+Conformément à l'article 5 de l'arrêté du 15 décembre 2025 (NOR : ECOR2532411A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er janvier 2026 et s'appliquent aux opérations engagées à compter de cette date.
+
+Conformément à l'article 3 de l'arrêté du 22 décembre 2025 (NOR : ECOR2534201A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er janvier 2026 et s'appliquent aux opérations engagées à compter du 1er janvier 2026. Toutefois, les attestations sur l'honneur conformes à la réglementation applicable avant le 1er janvier 2026 peuvent être utilisées pour les opérations engagées avant le 1er juillet 2026.
