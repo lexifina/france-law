@@ -2,84 +2,82 @@
 
 PLAFONDS DE RESSOURCES ANNUELLES (REVENU FISCAL DE RÉFÉRENCE) PRÉVUS AUX ARTICLES L. 441-3, R. 331-12 ET R. 441-1 (1O) DU CODE DE LA CONSTRUCTION ET DE L'HABITATION (CCH) APPLICABLES AUX LOGEMENTS AUTRES QUE CEUX MENTIONNÉS AU II DE L'ARTICLE R. 331-1 DU CCH (NOTAMMENT PLUS)
 
-CATEGORIE
-
-de ménages |
+CATÉGORIE DE MÉNAGES |
 
 PARIS
 
-et communes
+et communes limitrophes
 
-limitrophes (en euros) |
+(en euros) |
 
 ILE-DE-FRANCE
 
-hors Paris et communes
+hors Paris
 
-limitrophes (en euros) |
+et communes limitrophes
 
-AUTRES
+(en euros) |
 
-REGIONS
+AUTRES RÉGIONS
 
 (en euros) |
 
 1 |
 
-26 687 |
+26 920 |
 
-26 687 |
+26 920 |
 
-23 201 |
+23 403 |
 
 2 |
 
-39 885 |
+40 233 |
 
-39 885 |
+40 233 |
 
-30 984 |
+31 254 |
 
 3 |
 
-52 284 |
+52 740 |
 
-47 944 |
+48 362 |
 
-37 259 |
+37 584 |
 
 4 |
 
-62 424 |
+62 968 |
 
-57 429 |
+57 930 |
 
-44 982 |
+45 374 |
 
 5 |
 
-74 271 |
+74 919 |
 
-67 984 |
+68 577 |
 
-52 915 |
+53 376 |
 
 6 |
 
-83 575 |
+84 304 |
 
-76 504 |
+77 171 |
 
-59 636 |
+60 156 |
 
 Par personne supplémentaire |
 
-9 313 |
+9 394 |
 
-8 524 |
+8 598 |
 
-6 652 |
+6 710 |
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 23 décembre 2024 (NOR : ATDL2432625A), ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément à l'article 2 de l'arrêté du 19 décembre 2025 (NOR : VLOL2534266A), ces dispositions, dans leur rédaction résultant de l'article 1er de l'arrêté précité, entrent en vigueur le 1er janvier 2026.

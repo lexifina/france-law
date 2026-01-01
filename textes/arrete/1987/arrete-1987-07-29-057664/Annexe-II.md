@@ -2,84 +2,82 @@
 
 PLAFONDS DE RESSOURCES ANNUELLES IMPOSABLES PRÉVUS À L'ARTICLE R. 331-12 DU CODE DE LA CONSTRUCTION ET DE L'HABITATION (CCH) APPLICABLES AUX LOGEMENTS MENTIONNÉS AU II DE L'ARTICLE R. 331-1 DU CCH (PLA D'INTÉGRATION)
 
-CATÉGORIE
-
-de ménages |
+CATÉGORIE DE MÉNAGES |
 
 PARIS
 
-et communes
+et communes limitrophes
 
-limitrophes (en euros) |
+(en euros) |
 
 ILE-DE-FRANCE
 
-hors Paris et communes
+hors Paris
 
-limitrophes (en euros) |
+et communes limitrophes
 
-AUTRES
+(en euros) |
 
-RÉGIONS
+AUTRES RÉGIONS
 
 (en euros) |
 
 1 |
 
-14 683 |
+14 811 |
 
-14 683 |
+14 811 |
 
-12 759 |
+12 870 |
 
 2 |
 
-23 931 |
+24 140 |
 
-23 931 |
+24 140 |
 
-18 591 |
+18 753 |
 
 3 |
 
-31 369 |
+31 643 |
 
-28 767 |
+29 018 |
 
-22 356 |
+22 551 |
 
 4 |
 
-34 338 |
+34 637 |
 
-31 585 |
+31 860 |
 
-24 875 |
+25 092 |
 
 5 |
 
-40 847 |
+41 203 |
 
-37 393 |
+37 719 |
 
-29 105 |
+29 359 |
 
 6 |
 
-45 968 |
+46 369 |
 
-42 077 |
+42 444 |
 
-32 800 |
+33 086 |
 
 Par personne supplémentaire |
 
-5 121 |
+5 166 |
 
-4 686 |
+4 727 |
 
-3 657 |
+3 689 |
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 23 décembre 2024 (NOR : ATDL2432625A), ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément à l'article 2 de l'arrêté du 19 décembre 2025 (NOR : VLOL2534266A), ces dispositions, dans leur rédaction résultant de l'article 1er de l'arrêté précité, entrent en vigueur le 1er janvier 2026.
