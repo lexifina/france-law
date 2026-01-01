@@ -1,0 +1,19 @@
+# Article 1er
+
+L'article 62 « Cotisations » est supprimé et remplacé comme suit :
+
+« Les cotisations sont établies sur la base de la législation de l'assurance maladie et de la réglementation fiscale en vigueur au moment de la prise d'effet du présent régime.
+
+Les cotisations seront revues sans délai en cas de changement de ces textes.
+
+Les parties signataires pourront également convenir d'une révision des garanties en tout ou partie.
+
+À compter du 1er janvier 2026, la cotisation mensuelle du régime “remboursement complémentaire frais de soins de santé” est fixée à :
+
+• 1,56 % du PMSS pour les salariés relevant du régime général et de 1,01 % du PMSS pour les salariés relevant du régime Alsace-Moselle.
+
+La contribution de l'employeur devra être au minimum de 50 % de la cotisation.
+
+Par dérogation à la répartition de la cotisation définie dans l'entreprise, les employeurs pourront prendre en charge l'intégralité de la cotisation due par les salariés à temps très partiel qui sinon auraient dû acquitter une cotisation au moins égale à 10 % de leur rémunération.
+
+Les cotisations sont dues pour la totalité du mois au cours duquel les garanties sont accordées.»
