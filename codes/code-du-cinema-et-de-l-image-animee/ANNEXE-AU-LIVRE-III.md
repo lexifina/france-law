@@ -1810,6 +1810,16 @@ II. - Dossier artistique :
 
 9° Le cas échéant, tout complément artistique fourni sous format vidéo (lien Vimeo ou équivalent avec son code d'accès).
 
+III-5.3.1. Documents justificatifs à joindre à l'appui d'une demande d'aide à la diffusion en ligne
+
+(Articles 322-24-1 et suivants)
+
+1° Une présentation détaillée du projet éditorial ;
+
+2° Un budget détaillé ;
+
+3° Le cas échéant, un moyen d'accès au service en ligne.
+
 III-5.4. Documents justificatifs à joindre à l'appui d'une demande d'aide aux opérations à caractère collectif
 
 (Articles 322-25 et suivants)
@@ -1831,3 +1841,7 @@ II. - Dossier de présentation de l'opération :
 4° Le planning de l'opération et le plan de communication ;
 
 5° Le curriculum vitae de l'entreprise (rappel historique du développement de l'entreprise, moyens humains, principaux clients).
+
+NOTA :
+
+Conformément à l’article 34 de la délibération n°2025/CA/16 du 26 juin 2025, les dispositions de la délibération précitée s'appliquent aux demandes d'aides adressées au Centre national du cinéma et de l'image animée à compter du 1er janvier 2026.
