@@ -2,7 +2,7 @@
 
 Le régime de retraite de l'IRCANTEC est un régime en points. La valeur d'acquisition, ou salaire de référence, et la valeur de service du point sont révisées chaque année.
 
-Le taux d'appel des cotisations mentionné au V de l'article 7 du décret n° 70-1277 du 23 décembre 1970 modifié est égal à 125 %.
+Le taux d'appel des cotisations mentionné au V de l'article 7 du décret n° 70-1277 du 23 décembre 1970 modifié est égal à 127 %.
 
 Le taux de rendement théorique du régime est égal au quotient de la valeur de service du point par le salaire de référence.
 
@@ -48,4 +48,4 @@ A défaut de ce plan, les règles d'évolution des paramètres prévues au III d
 
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 29 mars 2018, pour l'année 2018, la fixation du salaire de référence et du rendement réel mentionnés au quinzième alinéa de l'article 9 bis prend effet au 1er janvier. La prochaine évolution de la valeur de service mentionnée au même alinéa du même article, réalisée en application du 7° de l'article 1er de l'arrêté susdit, intervient le 1er janvier 2019.
+Conformément à l'article 2 de l'arrêté du 19 décembre 2025 (NOR : TRSS2535584A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er janvier 2026.
