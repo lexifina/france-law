@@ -10,10 +10,14 @@ La commande du dispositif d'arrêt d'urgence de chaque îlot de cuisson est plac
 
 § 2. Le dispositif d'arrêt d'urgence de l'énergie électrique visé au § 1 ne doit pas couper les circuits d'éclairage ni les dispositifs de ventilation contribuant à l'évacuation des fumées en cas d'incendie.
 
-Le dispositif d'arrêt d'urgence de l'alimentation en gaz visé au § 1 peut être réalisé à l'aide d'une électrovanne. Dans ce cas, l'électrovanne est à réarmement manuel et sa commande peut être commune avec celle du dispositif d'arrêt d'urgence de l'énergie électrique visé ci-dessus.
+Le dispositif d'arrêt d'urgence de l'alimentation en gaz visé au § 1 peut être réalisé à l'aide d'une électrovanne répondant aux dispositions de l'article GZ 8. Dans ce cas, l'électrovanne est à réarmement manuel et sa commande peut être commune avec celle du dispositif d'arrêt d'urgence de l'énergie électrique visé ci-dessus.
 
-Si l'alimentation en gaz du local ne dessert que des appareils de cuisson et des appareils de remise en température, le dispositif d'arrêt d'urgence tient lieu d'organe de coupure prévu à l'article GZ 15.
+Si l'alimentation en gaz du local ne dessert que des appareils de cuisson et des appareils de remise en température, le dispositif d'arrêt d'urgence tient lieu d'organe de coupure prévu à l'article GZ 10.
 
 § 3. Les dispositifs d'arrêt d'urgence doivent être facilement accessibles, être correctement identifiés et comporter des consignes précisant les modalités d'action en cas d'incident.
 
 En cas de coupure de l'alimentation en gaz combustible des appareils, toutes précautions doivent être prises avant la réutilisation des brûleurs. Des consignes précises concernant cette réutilisation doivent être affichées près du dispositif d'arrêt d'urgence.
+
+NOTA :
+
+Conformément à l’article 45 de l’arrêté du 1er septembre 2025 (NOR : INTE2524209A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er janvier 2026.

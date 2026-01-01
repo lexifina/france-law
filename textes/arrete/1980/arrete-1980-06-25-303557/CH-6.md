@@ -1,12 +1,12 @@
 # Article CH 6
 
-Installations de puissance utile inférieure ou égale à 70 kW
+Installations de puissance utile totale inférieure ou égale à 70 kW
 
-§ 1. Appareils installés à l'intérieur du bâtiment :
+§ 1. Appareils de production par combustion installés dans un local.
 
-Tout appareil ou groupement d'appareils à combustion, de production de chaud et/ou de froid, doit être installé dans un local.
+Les appareils ou groupement d'appareils doivent être installés :
 
-a) Lorsque la puissance utile est inférieure ou égale à 30 kW, le local doit satisfaire aux conditions de ventilation suivantes :
+a) Lorsque la puissance utile totale est inférieure ou égale à 30 kW, dans un local satisfaisant aux conditions de ventilation suivantes :
 
 - comporter une amenée d'air directe ou indirecte, permettant de fournir aux appareils la quantité d'air nécessaire à leur fonctionnement normal ;
 
@@ -16,56 +16,36 @@ a) Lorsque la puissance utile est inférieure ou égale à 30 kW, le local doit 
 
 - soit par le système de ventilation du local.
 
-Compte tenu de la conception des appareils à circuit étanche de combustion, aucune exigence de ventilation du local n'est imposée pour assurer le fonctionnement normal desdits appareils.
+Compte tenu de la conception des appareils à circuit étanche de combustion, aucune exigence de ventilation du local n'est imposée pour assurer le fonctionnement normal desdits appareils ;
 
-b) Lorsque la puissance utile totale est supérieure à 30 kW, le local doit satisfaire aux conditions suivantes :
+b) Lorsque la puissance utile totale est supérieure à 30 kW :
+
+Lorsqu'un appareil ou groupement d'appareils dont l'un d'entre eux au moins est alimenté en gaz, le local respecte les dispositions du GZ 9.
+
+Dans les autres cas, le local satisfait aux conditions suivantes :
 
 - être non accessible au public ;
 
 - ne pas servir au dépôt de matières combustibles ou de produits toxiques ou corrosifs ;
 
-- être ventilé dans les conditions du point a ci-dessus ;
+- être ventilé dans les conditions du point a) ci-dessus ;
 
-- comporter un plancher haut et des parois construites en matériau classé M0 ou A2-s1, d0 et coupe-feu de degré 1 heure ou EI 60 (REI 60 en cas de fonction portante) ;
+- comporter un plancher haut et des parois construites en matériau A2-s3, d0 et coupe-feu de degré 1 heure ou EI 60 (REI 60 en cas de fonction portante) ;
 
 - comporter une porte :
 
-- coupe-feu de degré 1/2 heure équipée d'un ferme-porte ou EI 30-C si elle ouvre sur un local ou une circulation accessible au public ;
+- coupe-feu de degré 1/2 heure équipée d'un ferme-porte, ou EI 30-C, si elle ouvre sur un local ou une circulation accessible au public ;
 
-- pare-flammes de degré 1/2 heure équipée d'un ferme-porte ou E 30-C dans les autres cas ;
+- pare-flammes de degré 1/2 heure équipée d'un ferme-porte, ou E 30-C, dans les autres cas ;
 
 - s'ouvrant dans le sens de la sortie et pouvant être ouverte, dans tous les cas, de l'intérieur.
 
-§ 2. Appareils installés à l'extérieur du bâtiment :
+§ 2. Appareils de production par combustion installés en dehors d'un local, en terrasse ou au sol à l'extérieur du bâtiment.
 
-Les appareils ou groupements d'appareils à combustion de production de chaud et/ou de froid, formant des ensembles ou sous-ensembles complets préfabriqués, conçus ou adaptés pour fonctionner à l'extérieur des bâtiments, et ce conformément aux conditions d'installation définies dans la notice du fabricant, peuvent être installés à l'extérieur du bâtiment, en dehors de tout local.
+L'installation des appareils respecte les dispositions de l'article GZ 9 lorsqu'ils sont alimentés en gaz combustibles.
 
-Cependant, lorsque leur puissance utile totale est supérieure à 30 kW, ils sont disposés en toiture-terrasse d'un bâtiment ou implantés au sol, sous réserve du respect des conditions suivantes :
+Dans les autres cas, l'installation des appareils respecte la notice du fabricant et les dispositions de l'article GZ 9 en ce qui concerne les règles d'implantation et d'isolement.
 
-a) Les parois constituant l'enveloppe de ces appareils ou groupements d'appareils sont construites en matériau classé M 0. Les dispositifs, tels que les boîtiers de commande, disposés sur l'enveloppe des appareils ne sont pas concernés.
+NOTA :
 
-b) Les appareils ou groupements d'appareils sont implantés à 5 m au moins en distance horizontale de tout bâtiment, de la voie publique et de toute propriété appartenant à un tiers.
-
-Cette distance peut ne pas être respectée dans l'un des cas suivants :
-
-- il est interposé un mur de protection coupe-feu de degré 1 heure, d'une hauteur minimale de 2 m dont la partie supérieure dépasse de 0,5 m la hauteur du ou des appareils. La longueur du mur doit dépasser au minimum de 1 m de part et d'autre les dimensions du ou des appareils ;
-
-- la façade du bâtiment présente les mêmes caractéristiques de surface et de résistance que ce mur de protection.
-
-c) Les appareils ou groupements d'appareils sont implantés dans une zone non accessible au public.
-
-Dans le cas contraire et afin de limiter l'accès aux équipements, la robinetterie et les accessoires sont protégés par un capot verrouillé, ou bien l'appareil, ou groupement d'appareils, est entouré d'un grillage ou d'une clôture.
-
-Des affichages inaltérables doivent rappeler que cette installation :
-
-- est conçue pour fonctionner à l'extérieur ;
-
-- doit rester isolée dans les conditions du présent paragraphe ;
-
-- est interdite d'accès à toute personne non autorisée.
-
-d) Les appareils ou groupement d'appareils implantés en toiture-terrasse doivent de plus être placés :
-
-- soit sur des plots en matériaux classés M 0 dont la hauteur, sans être inférieure à 20 cm, doit permettre d'obtenir une lame d'air ventilée. Dans ce cas, la paroi inférieure de l'appareil doit être coupe-feu de degré 1 heure ;
-
-- soit sur un socle coupe-feu de degré 1 heure et débordant d'au moins 10 cm sur le pourtour de l'appareil.
+Conformément à l’article 45 de l’arrêté du 1er septembre 2025 (NOR : INTE2524209A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er janvier 2026.

@@ -18,4 +18,8 @@ L'emploi de combustibles liquides extrêmement inflammables (F+) de première ca
 
 b) Appareils utilisant un combustible gazeux :
 
-Pour l'application du a du § 1 de l'article GZ 18, un ensemble d'appareils formant un bloc de cuisson peut être considéré comme un unique appareil et, dans ce cas, il peut être admis qu'un seul organe de coupure assure l'arrêt de son alimentation en énergie.
+Pour l'application de l'article GZ 10 § 4, un ensemble d'appareils formant un bloc de cuisson peut être considéré comme un unique appareil et, dans ce cas, il peut être admis qu'un seul organe de coupure assure l'arrêt de son alimentation en énergie.
+
+NOTA :
+
+Conformément à l’article 45 de l’arrêté du 1er septembre 2025 (NOR : INTE2524209A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er janvier 2026.

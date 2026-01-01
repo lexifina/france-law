@@ -2,7 +2,7 @@
 
 Sources énergétiques autorisées
 
-§ 1. Les seuls combustibles liquides autorisés sont les liquides inflammables de catégorie C (point éclair supérieur ou égal à 55 °C et inférieur à 100 °C) et les liquides de catégorie D (fuel et mazout lourds) tels que définis dans la rubrique n° 1430 des installations classées relative aux liquides inflammables .
+§ 1. Les seuls combustibles liquides autorisés sont les liquides inflammables de catégorie C (point éclair supérieur ou égal à 55 °C et inférieur à 100 °C) et les liquides de catégorie D (fuel et mazout lourds) tels que définis dans la rubrique correspondante des installations classées relative aux liquides inflammables .
 
 § 2. Les installations utilisant un combustible gazeux doivent répondre aux dispositions du présent chapitre et à celles du chapitre VI du présent titre.
 
@@ -13,3 +13,7 @@ Sources énergétiques autorisées
 Ils sont issus notamment du bois naturel non traité (bûches, granulés, pellets, plaquettes et briquettes “ densifiées ” ou “ compressées ” produites à partir de sciures et copeaux …) ou du charbon.
 
 Leur utilisation est compatible avec la conception et l'installation des systèmes d'évacuation des produits de combustion visées à l'article CH 9.
+
+NOTA :
+
+Conformément à l’article 45 de l’arrêté du 1er septembre 2025 (NOR : INTE2524209A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er janvier 2026.

@@ -8,9 +8,9 @@ La conformité des appareils aux exigences essentielles d'une directive europée
 
 Il appartient ainsi à l'installateur de s'assurer que l'appareil entrant dans le champ d'application d'une directive dispose du marquage CE.
 
-Les appareils utilisant les combustibles gazeux sont visés par l'article GZ 26.
+Les appareils utilisant les combustibles gazeux sont visés par l'article GZ 8.
 
-Les appareils installés devront par ailleurs respecter les règles du présent chapitre et les dispositions particulières à chaque type d'établissement.
+Les appareils installés respectent les règles du présent chapitre et les dispositions particulières à chaque type d'établissement.
 
 § 2. Règles applicables aux installations.
 
@@ -18,8 +18,12 @@ Pour l'application du présent réglement, la puissance utile totale d'une insta
 
 Les installations définies à l'article précédent doivent satisfaire :
 
-- aux prescriptions de l'arrêté relatif aux installations fixes destinées au chauffage et à l'alimentation en eau chaude sanitaire des bâtiments d'habitation, de bureaux ou recevant du public ;
+- aux dispositions du présent chapitre ;
 
-- aux normes françaises et documents techniques unifiés lorsqu'ils sont expressément visés dans la suite du présent règlement ;
+- aux prescriptions de l'arrêté relatif aux installations fixes destinées au chauffage et à l'alimentation en eau chaude sanitaire des bâtiments d'habitation, de bureaux ou recevant du public lorsqu'il est expressément visé dans la suite du présent règlement ;
 
 - aux conditions techniques minimales imposées aux installations classées lorsqu'elles atteignent le seuil de classement sauf si imposé dans la suite du présent règlement.
+
+NOTA :
+
+Conformément à l’article 45 de l’arrêté du 1er septembre 2025 (NOR : INTE2524209A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er janvier 2026.

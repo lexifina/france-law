@@ -14,8 +14,12 @@ Les ateliers d'entretien et de maintenance du parc ainsi que les locaux techniqu
 
 § 2. Locaux techniques non liés à l'exploitation du parc de stationnement :
 
-Les locaux techniques non liés à l'activité du parc tels que les chaufferies, les locaux réservés aux poubelles, un local groupe électrogène non lié à l'activité du parc, peuvent être installés à l'intérieur du parc. Ils sont isolés par des parois au moins coupe-feu de degré 1 heure, REI 60 si elles assurent une fonction porteuse, ou EI 60. Les dispositifs de communication entre ces locaux et les zones du parc réservées au stationnement sont coupe-feu de degré 1 heure ou EI 60, les portes s'ouvrent vers le parc et sont munies de ferme-porte. Ces locaux ne doivent pas être ventilés sur le parc, ils peuvent l'être sur la rampe d'accès qui donne à l'air libre.
+Les locaux techniques non liés à l'activité du parc tels que les locaux visés aux articles CH 5 et CH 6, les locaux réservés aux poubelles, un local groupe électrogène non lié à l'activité du parc, peuvent être installés à l'intérieur du parc. Ils sont isolés par des parois au moins coupe-feu de degré 1 heure, REI 60 si elles assurent une fonction porteuse, ou EI 60. Les dispositifs de communication entre ces locaux et les zones du parc réservées au stationnement sont coupe-feu de degré 1 heure ou EI 60, les portes s'ouvrent vers le parc et sont munies de ferme-porte. Ces locaux ne doivent pas être ventilés sur le parc, ils peuvent l'être sur la rampe d'accès qui donne à l'air libre.
 
 § 3. Groupement d'établissements :
 
 Lorsque le parc de stationnement constitue une des activités d'un établissement ou d'un groupement d'établissements tel que défini dans les dispositions générales du règlement, les locaux techniques de cet établissement ou de ce groupement d'établissements sont admis dans le parc. Ils sont isolés du parc par des parois coupe-feu de degré 1 heure, REI 60 en cas de fonction porteuse, ou EI 60 avec des blocs portes pare-flammes de degré 1 heure équipés de ferme-portes ou E 60-C. Ces locaux ne doivent pas être ventilés sur le parc, ils peuvent l'être sur la rampe d'accès qui donne à l'air libre.
+
+NOTA :
+
+Conformément à l’article 45 de l’arrêté du 1er septembre 2025 (NOR : INTE2524209A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er janvier 2026.
