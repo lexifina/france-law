@@ -10,7 +10,7 @@ Relèvent du même tarif les réceptions effectuées dans une installation autor
 
 Les réceptions de déchets radioactifs métalliques dans une installation non autorisée à cette fin ou en méconnaissance des prescriptions de l'autorisation sont majorées de 110 € par tonne.
 
-A.-Pour les déchets réceptionnés dans une installation de stockage ou de traitement thermique de déchets non dangereux mentionnée au 1 du I de l'article 266 sexies :
+A.-Pour les déchets réceptionnés dans une installation de stockage ou de traitement thermique de déchets non dangereux mentionnée au 1 du I de l'article 299 :
 
 a) Le tarif pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux ou transférés vers une telle installation située dans un autre Etat est de 65 € par tonne.
 
@@ -52,9 +52,9 @@ b bis) Aux fins d'application de la majoration prévue au second alinéa du a du
 
 2° Dans les autres cas, l'objectif annuel est égal au produit des facteurs suivants :
 
-- la capacité de stockage autorisée pour l'installation, exprimée en tonnes, au titre de l'année d'exigibilité de la taxe ;
+-la capacité de stockage autorisée pour l'installation, exprimée en tonnes, au titre de l'année d'exigibilité de la taxe ;
 
-- un coefficient égal au quotient entre, d'une part, la moitié de la masse de déchets effectivement stockée en 2010 sur le territoire de la région et, d'autre part, la masse de stockage autorisée sur le même territoire au titre de l'année d'exigibilité de la taxe.
+-un coefficient égal au quotient entre, d'une part, la moitié de la masse de déchets effectivement stockée en 2010 sur le territoire de la région et, d'autre part, la masse de stockage autorisée sur le même territoire au titre de l'année d'exigibilité de la taxe.
 
 Pour les transferts hors de France, cet objectif est celui résultant des règles nationales applicables à l'installation de réception des déchets.
 
@@ -66,7 +66,7 @@ d) (Abrogé) ;
 
 e) (Abrogé) ;
 
-f) Le tarif réduit mentionné au C du tableau du b s'applique aux tonnages de déchets réceptionnés à compter de la date de notification au préfet de la date de mise en service effective des équipements assurant la valorisation énergétique des déchets, au sens de la directive 2008/98/CE du Parlement européen et du Conseil du 19 novembre 2008 relative aux déchets et abrogeant certaines directives ;
+f) Le tarif réduit mentionné au C du tableau du b s'applique aux tonnages de déchets réceptionnés à compter de la date de notification au préfet de la date de mise en service effective des équipements assurant la valorisation énergétique des déchets, au sens de la directive 2008/98/ CE du Parlement européen et du Conseil du 19 novembre 2008 relative aux déchets et abrogeant certaines directives ;
 
 g) (Abrogé) ;
 
@@ -76,23 +76,23 @@ Aux fins de l'application du tarif réduit, l'apporteur établit, au plus tard �
 
 Une opération de tri s'entend d'une opération de séparation, au sein d'un même flux de déchets ayant fait l'objet d'une collecte séparée, entre les déchets faisant l'objet d'une valorisation matière et les résidus. L'opération de tri performante s'entend de celle dont l'opérateur démontre qu'elle répond aux conditions suivantes :
 
-- les proportions de déchets identifiés comme des résidus sont inférieures ou égales à des seuils fixés, selon la nature et les caractéristiques des déchets, par l'arrêté mentionné au premier alinéa du présent h ;
+-les proportions de déchets identifiés comme des résidus sont inférieures ou égales à des seuils fixés, selon la nature et les caractéristiques des déchets, par l'arrêté mentionné au premier alinéa du présent h ;
 
-- les proportions de déchets indésirables restant contenus dans les quantités de déchets sélectionnés en vue d'une valorisation matière sont inférieures ou égales à des seuils fixés, selon la nature et les caractéristiques de ces déchets indésirables et de ces déchets sélectionnés, par ledit arrêté ;
+-les proportions de déchets indésirables restant contenus dans les quantités de déchets sélectionnés en vue d'une valorisation matière sont inférieures ou égales à des seuils fixés, selon la nature et les caractéristiques de ces déchets indésirables et de ces déchets sélectionnés, par ledit arrêté ;
 
 i) Sur les territoires des collectivités d'outre-mer relevant de l'article 73 de la Constitution, une réfaction est applicable en fonction des investissements en cours ou engagés en faveur du tri ou de la valorisation matière des déchets :
 
 -jusqu'au 31 décembre 2029 à La Réunion ;
 
-- jusqu'au 31 décembre 2031 en Guadeloupe et en Martinique ;
+-jusqu'au 31 décembre 2031 en Guadeloupe et en Martinique ;
 
-- jusqu'au 31 décembre 2034 en Guyane et à Mayotte.
+-jusqu'au 31 décembre 2034 en Guyane et à Mayotte.
 
 Un arrêté conjoint des ministres chargés du budget, de l'outre-mer et de l'environnement détermine les investissements éligibles et, pour chaque collectivité d'outre-mer relevant de l'article 73 de la Constitution, le taux de réfaction applicable, qui s'établit entre 20 % et 80 %.
 
 j) En Corse, entre le 1er janvier 2025 et le 31 décembre 2029, est appliquée une réfaction de 20 %.
 
-A bis.-Pour les déchets métalliques et les déchets radioactifs métalliques réceptionnés dans une installation mentionnée au c du 1 du I de l'article 266 sexies, les tarifs sont fixés comme suit :
+A bis.-Pour les déchets métalliques et les déchets radioactifs métalliques réceptionnés dans une installation mentionnée au c du 1 du I de l'article 299, les tarifs sont fixés comme suit :
 
 Unité de perception |
 
@@ -133,30 +133,6 @@ UNITÉ DE PERCEPTION
 QUOTITÉ
 
 (en euros)
-
-|
-
-Déchets réceptionnés dans une installation autorisée de traitement thermique de déchets dangereux ou transférés vers une telle installation située dans un autre Etat.
-
-|
-
-Tonne
-
-|
-
-12,78
-
-|
-
-Déchets réceptionnés dans une installation autorisée de stockage de déchets dangereux ou transférés vers une telle installation située dans un autre Etat.
-
-|
-
-Tonne
-
-|
-
-25,57
 
 |
 
@@ -414,13 +390,11 @@ Tonne
 
 |
 
-1 bis. A compter du 1er janvier 2013, les tarifs mentionnés au 1 sont relevés, chaque année, dans une proportion égale au taux de croissance de l'indice des prix à la consommation hors tabac de l'avant-dernière année.
+1 bis. Les tarifs mentionnés au 1 du présent article sont indexés sur l'inflation dans les conditions prévues au chapitre II du titre III du livre Ier du code des impositions sur les biens et services. Le tarif révisé est arrondi au centième d'euro par unité de perception. La révision ultérieure est réalisée à partir du tarif non arrondi.
 
-Toutefois, le premier alinéa du présent 1 bis ne s'applique qu'à compter du 1er janvier 2026 aux tarifs prévus aux a et b du A du 1.
+2. (Abrogé).
 
-2. Le montant minimal annuel de la taxe due par les personnes mentionnées au a du 1 du I de l'article 266 sexies est de 450 € par installation.
-
-3. (Alinéa abrogé).
+3. (Abrogé).
 
 4. (Abrogé).
 
@@ -436,10 +410,4 @@ Toutefois, le premier alinéa du présent 1 bis ne s'applique qu'à compter du 1
 
 NOTA :
 
-Conformément au XVII de l'article 75 de la LOI n° 2025-127 du 14 février 2025, ces dispositions entrent en vigueur le 1er mars 2025.
-
-Conformément au II de l'article 79 de ladite loi, les taux de réfaction applicables dans les territoires des collectivités d'outre-mer relevant de l'article 73 de la Constitution en application du i du A du 1 de l'article 266 nonies du code des douanes dans sa rédaction résultant de la présente loi sont, jusqu'à l'entrée en vigueur de l'arrêté prévu au dernier alinéa du même i, les suivants :
-
-1° 35 % en Guadeloupe, à La Réunion et en Martinique ;
-
-2° 75 % en Guyane et à Mayotte.
+Conformément au B du V de l'article 104 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2026. La première révision du tarif prévue au 1 bis du présent article intervient à cette même date.
