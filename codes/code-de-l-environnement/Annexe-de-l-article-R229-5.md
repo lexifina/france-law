@@ -6,6 +6,8 @@ I.-Les valeurs seuils mentionnées ci-dessous se rapportent soit à des capacit�
 
 Pour les installations classées mentionnées à l'article L. 511-1, à l'exception des équipements et installations mentionnées à l'article L. 593-3, si un exploitant exerce au sein d'une même installation ou sur un même site plusieurs activités relevant de la même ligne du tableau ci-dessous, alors les capacités de ces activités s'additionnent.
 
+Les installations dans lesquelles, au cours de la précédente période de cinq ans mentionnée à l'article R. 229-7, les émissions provenant de la combustion d'une biomasse satisfaisant aux conditions définies dans l'article 38 du règlement d'exécution (UE) 2018/2066 de la Commission du 19 décembre 2018 relatif à la surveillance et à la déclaration des émissions de gaz à effet de serre au titre de la directive 2003/87/ CE du Parlement européen et du Conseil et modifiant le règlement (UE) n° 601/2012 de la Commission ont contribué en moyenne à plus de 95 % des émissions moyennes totales de gaz à effet de serre sont exemptées de l'application du système d'échange de quotas d'émissions de gaz à effet de serre.
+
 Si un même exploitant exerce plusieurs des activités, qui sont répertoriées dans le tableau ci-dessous, au sein d'équipements et installations mentionnés à l'article L. 593-3 et dans le périmètre d'une même installation nucléaire de base, les capacités de ces activités s'additionnent.
 
 II.-Pour déterminer si une installation est soumise aux dispositions de l'article L. 229-5 au titre de l'activité “ combustion de combustibles ”, la puissance thermique totale de combustion est calculée par addition des puissances thermiques de combustion de toutes les unités techniques qui la composent, dans lesquelles des combustibles sont brûlés au sein de l'installation. Parmi ces unités peuvent notamment figurer tous les types de chaudières, brûleurs, turbines, appareils de chauffage, hauts fourneaux, incinérateurs, calcinateurs, fours, étuves, sécheurs, moteurs, piles à combustible, unités de combustion en boucle chimique, torchères ainsi que les unités de postcombustion thermique ou catalytique et les unités techniques de secours. Les unités dont la puissance thermique de combustion est inférieure à 3 MW ne sont pas prises en considération dans ce calcul.
@@ -147,3 +149,7 @@ Dioxyde de carbone |
 Stockage géologique des gaz à effet de serre dans un site de stockage disposant d'un permis en vigueur au titre de la directive 2009/31/ UE |
 
 Dioxyde de carbone |
+
+NOTA :
+
+Conformément à l’article 30 du décret n° 2024-546 du 14 juin 2024, ces dispositions entrent en vigueur le 1er janvier 2026.
