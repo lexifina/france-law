@@ -1,6 +1,6 @@
 # Article 1 bis
 
-La prime de convergence instituée par l'article 5 bis du décret du 9 janvier 2014 précité peut être versée mensuellement aux agents de l'Agence nationale pour l'amélioration des conditions de travail jusqu'au 31 décembre 2025.
+La prime de convergence instituée par l'article 5 bis du décret du 9 janvier 2014 précité peut être versée mensuellement aux agents de l'Agence nationale pour l'amélioration des conditions de travail jusqu'au 31 décembre 2026.
 
 Son montant annuel de référence est fixé à 190 €.
 
@@ -10,4 +10,4 @@ Une délibération du conseil d'administration de l'Agence nationale pour l'amé
 
 NOTA :
 
-Conformément à l’article 3 de l’arrêté du 23 décembre 2022 (NOR : MTRR2232267A), ces dispositions entrent en vigueur le 1er janvier 2023.
+Conformément à l’article 2 de l’arrêté du 23 décembre 2022 (NOR : MTRR2232267A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er janvier 2026.

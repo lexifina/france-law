@@ -10,7 +10,7 @@ III. – Les surfaces de stationnement mentionnées au I s'entendent des locaux 
 
 IV. – Sont exclues du champ de la taxe :
 
-1° Les surfaces de stationnement exonérées en application des 1° à 2° bis et 5° du V de l'article 231 ter ;
+1° Les surfaces de stationnement exonérées en application des 2° à 2° bis et 5° du V de l'article 231 ter ;
 
 2° Les surfaces de stationnement mentionnées au III du présent article d'une superficie inférieure à cinq cents mètres carrés.
 
@@ -52,4 +52,4 @@ IX.-Le produit annuel de la taxe est affectée à la région d'Ile-de-France, re
 
 NOTA :
 
-Modifications effectuées en conséquence de l'article 165-I-B et II de la loi n° 2018-1317 du 28 décembre 2018.
+Conformément au XI de l’article 42 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de ce même article 42, entrent en vigueur le 1er janvier 2026.

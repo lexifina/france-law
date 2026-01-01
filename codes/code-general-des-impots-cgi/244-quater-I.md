@@ -1,6 +1,6 @@
 # Article 244 quater I
 
-I.-Les entreprises industrielles et commerciales imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 octies A, 44 duodecies ou 44 terdecies à 44 septdecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses d'investissement mentionnées au III du présent article, autres que de remplacement, engagées pour leurs activités contribuant à la production de batteries, de panneaux solaires, d'éoliennes ou de pompes à chaleur, sous réserve de remplir les conditions cumulatives suivantes :
+I.-Les entreprises industrielles et commerciales imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 octies A, 44 octies B, 44 duodecies ou 44 terdecies à 44 septdecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses d'investissement mentionnées au III du présent article, autres que de remplacement, engagées pour leurs activités contribuant à la production de batteries, de panneaux solaires, d'éoliennes ou de pompes à chaleur, sous réserve de remplir les conditions cumulatives suivantes :
 
 1° Elles ne sont pas, à la date de clôture du dernier exercice précédant la délivrance de l'agrément mentionné au VIII, des entreprises en difficulté au sens de l'article 2 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;
 
@@ -144,6 +144,4 @@ XI.-Le présent article s'applique aux crédits d'impôt calculés au titre de p
 
 NOTA :
 
-Conformément au III de l’article 35 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux demandes d'agrément déposées à compter du 27 septembre 2023. Le délai d'examen des demandes court, pour celles déposées avant l'entrée en vigueur prévue au IV, à compter de cette entrée en vigueur.
-
-Conformément au IV de l’article 35 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur à une date fixée par décret, postérieure à la réception par le Gouvernement de la réponse de la Commission européenne permettant de le considérer comme conforme au droit de l'Union européenne en matière d'aides d'Etat, et au plus tard trois mois après cette réception. Conformément à l'article 1 du décret n° 2024-212 du 11 mars 2024, ces dispositions entrent en vigueur le lendemain de la publication dudit décret au Journal officiel de la République française, c'est-à-dire le 14 mars 2024.
+Conformément au XI de l’article 42 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de ce même article 42, entrent en vigueur le 1er janvier 2026.

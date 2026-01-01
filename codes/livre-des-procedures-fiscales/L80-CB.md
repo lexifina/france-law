@@ -1,6 +1,6 @@
 # Article L80 CB
 
-Lorsque l'administration a pris formellement position à la suite d'une demande écrite, précise et complète déposée au titre des 1° à 6° ou du 8° de l'article L. 80 B ou de l'article L. 80 C par un redevable de bonne foi, ce dernier peut saisir l'administration, dans un délai de deux mois, pour solliciter un second examen de cette demande, à la condition qu'il n'invoque pas d'éléments nouveaux.
+Lorsque l'administration a pris formellement position à la suite d'une demande écrite, précise et complète déposée au titre des 1° à 6°, du 8° ou du 13° de l'article L. 80 B ou de l'article L. 80 C par un redevable de bonne foi, ce dernier peut saisir l'administration, dans un délai de deux mois, pour solliciter un second examen de cette demande, à la condition qu'il n'invoque pas d'éléments nouveaux.
 
 Ce second examen est également ouvert aux redevables de bonne foi ayant déposé une demande au titre de l'article L. 18 en l'absence d'accord avec l'administration sur une valeur.
 
@@ -12,4 +12,4 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 
 NOTA :
 
-LOI n° 2008-1443 du 30 décembre 2008 de finances rectificative pour 2008 art. 50 II : le présent article s'applique aux demandes présentées à l'administration à compter du 1er juillet 2009.
+Conformément au III de l'article 115 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du 4° du II du même article, s'appliquent à compter du 1er janvier 2026.

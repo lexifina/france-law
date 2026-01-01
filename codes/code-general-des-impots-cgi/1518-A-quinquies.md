@@ -20,7 +20,7 @@ Pour la Ville de Paris, le coefficient de neutralisation applicable pour l'étab
 
 II. – Le I du présent article cesse de s'appliquer l'année de la prise en compte, pour l'établissement des bases, de la révision des valeurs locatives des locaux d'habitation et des locaux servant à l'exercice d'une activité salariée à domicile prévue au B du II de l'article 74 de la loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013.
 
-III. – Pour les impositions dues au titre des années 2017 à 2025 :
+III. – Pour les impositions dues au titre des années 2017 à 2026 :
 
 1. Lorsque la différence entre la valeur locative non révisée au 1er janvier 2017 et la valeur locative résultant du I à cette même date est positive, la valeur locative résultant du même I est majorée d'un montant égal à la moitié de cette différence ;
 
@@ -40,6 +40,8 @@ V. – Le 3 des I et III ne s'applique pas pour l'établissement de la base d'im
 
 NOTA :
 
-Conformément au II de ll'article 63 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, sous réserve des réclamations introduites auprès de l'administration des impôts avant le 10 octobre 2024, sont validées les impositions directes locales et les taxes perçues sur les mêmes bases dues au titre des années 2023 et 2024 en tant que leur légalité serait contestée au motif que la valeur locative des locaux évalués en application du II de l'article 1498 du code général des impôts devant être retenue pour l'application du dispositif de majoration ou de minoration de valeur locative prévue au III de l'article 1518 A quinquies du même code est celle retenue en vue de l'établissement des impositions dues au titre de chacune des années concernées, le cas échéant, corrigée par le coefficient de neutralisation prévu au I du même article 1518 A quinquies, et non la valeur locative retenue pour l'établissement des impositions dues au titre de la seule année 2017.
+Conformément au A du V de l'article 106 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, le I de l'article 1518 ter du code général des impôts ne s'applique pas à l'établissement des bases d'imposition de l'année 2027.
 
-Conformément au B du VII de l'article 110 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité, à l'exception du b du 8°, et les II à VI s'appliquent à compter des impositions établies au titre de l'année 2025.
+Conformément au B du V de l'article 106 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, l'application du III de l'article 1518 ter du même code est suspendue à compter du renouvellement général des conseils municipaux de 2026 jusqu'au renouvellement général des conseils municipaux de 2032.
+
+Conformément au A du VI de l'article 106 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, ces dispositions, dans leur rédaction issue du 2° du E du I dudit article, s'appliquent à compter des impositions établies au titre de l'année 2026.
