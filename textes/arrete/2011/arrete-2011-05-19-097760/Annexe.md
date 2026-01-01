@@ -10,319 +10,429 @@ n° 126 du 31/05/2011 texte numéro 31
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20110531&numTexte=31&pageDebut=&pageFin=
 
-PROGRAMME DE L'ÉPREUVE ÉCRITE DE PRÉADMISSIBILITÉ
+PROGRAMMES DE L'ÉPREUVE ÉCRITE NO 2 D'ADMISSIBILITÉ DU CONCOURS EXTERNE DE CONTRÔLEUR DES FINANCES PUBLIQUES
 
-DU CONCOURS EXTERNE DE CONTRÔLEUR DES FINANCES PUBLIQUES
+1. Programme de la première partie de cette épreuve consistant en un questionnaire à choix multiples (QCM)
 
-I. - Connaissances générales
+I.-Connaissances générales :
 
-Histoire.
+A.-Les grandes dates et faits marquants de l'histoire de France.
 
-Géographie.
+B.-Géographie de la France.
 
-Instruction civique.
+C.-Les institutions françaises :
 
-Actualité.
+La Constitution ;
 
-Arts.
+Le président de la République ;
 
-Sciences.
+Le gouvernement ;
 
-Economie.
+Le Parlement ;
 
-II. - Français
+Le Conseil constitutionnel ;
 
-Littérature.
+Le Conseil d'Etat ;
 
-Grammaire.
+Le Conseil économique, social et environnemental.
 
-Orthographe.
+D.-L'Union européenne :
 
-Vocabulaire.
+Le Parlement européen ;
 
-III. - Mathématiques
+Le Conseil de l'Union européenne ;
 
-A. - Manipulation des nombres
+Le Conseil européen ;
 
-Nombres entiers (naturels, relatifs), rationnels (fractions), racines carrées, le nombre pi.
+La Commission européenne ;
 
-Additions, soustractions, multiplications, divisions. Enchaînements d'opérations, priorités opératoires.
+La Cour de justice de l'Union européenne ;
 
-Multiples et diviseurs d'un entier. Nombres premiers, nombres premiers entre eux, PGCD, PPCM. Division euclidienne. Critères de divisibilité.
+La Banque centrale européenne ;
 
-Valeur décimale, valeur approchée d'une fraction.
+La Cour des comptes européenne ;
 
-Puissances d'exposant entier relatif. Notation scientifique.
+Les grandes étapes de la construction européenne et les différents élargissements (les traités et les Etats membres).
 
-Racine carrée d'un produit, d'un quotient.
+E.-Culture numérique :
 
-Proportionnalité.
+Information et données (mener une recherche et une veille d'information, gérer des données, traiter des données) ;
 
-Moyennes, pourcentages, taux, intérêts simples.
+Communication et collaboration (interagir, partager et publier, collaborer, s'insérer dans le monde numérique) ;
 
-Prix d'achat, de vente, de revient. Bénéfice, perte.
+Créations de contenus (développer des documents textuels, développer des documents multimédias) ;
 
-Calculs de vitesses moyennes. Mouvement uniforme. Calculs et conversion des durées, des vitesses.
+Protection et sécurité (sécuriser l'environnement numérique, protéger les données personnelles et la vie privée, protéger la santé, le bien-être et l'environnement).
 
-Calculs et conversions des masses. Densité, masse volumique.
+II.-Français :
 
-B. - Algèbre
+A.-Grammaire.
 
-Calcul littéral. Identités remarquables. Monômes et polynômes.
+B.-Orthographe.
 
-Factorisation et développement.
+C.-Vocabulaire.
 
-Equations et inéquations du premier degré à une inconnue et coefficients réels.
+III.-Mathématiques :
 
-Systèmes de deux équations à deux inconnues et coefficients réels.
+A.-Manipulation des nombres :
+
+Nombres entiers (naturels, relatifs), rationnels (fractions), racines carrées, le nombre pi Additions, soustractions, multiplications, divisions ;
+
+Enchaînements d'opérations, priorités opératoires ;
+
+Multiples et diviseurs d'un entier ;
+
+Nombres premiers, nombres premiers entre eux, plus grand commun diviseur (PGCD), plus petit commun multiple (PPCM) ;
+
+Division euclidienne ;
+
+Critères de divisibilité ;
+
+Valeur décimale, valeur approchée d'une fraction ;
+
+Puissances d'exposant entier relatif ;
+
+Notation scientifique ;
+
+Racine carrée d'un produit, d'un quotient ;
+
+Proportionnalité ;
+
+Moyennes, pourcentages, taux, intérêts simples ;
+
+Prix d'achat, de vente, de revient ;
+
+Bénéfice, perte ;
+
+Calculs et conversions des masses, densité, masse volumique.
+
+B.-Algèbre :
+
+Calcul littéral ;
+
+Identités remarquables ;
+
+Monômes et polynômes ;
+
+Factorisation et développement ;
+
+Equations et inéquations du premier degré à une inconnue et coefficients réels ;
+
+Systèmes de deux équations à deux inconnues et coefficients réels ;
 
 Problèmes du premier degré à une ou deux inconnues.
 
-C. - Géométrie
-
-Figures planes usuelles : carré, rectangle, triangles et triangles particuliers (rectangle, isocèle, équilatéral), trapèze, parallélogramme, cercle. Périmètres et aires.
-
-Droites remarquables du triangle (médiatrice, hauteur, médiane, bissectrice) et leurs points d'intersection.
-
-Figures usuelles de l'espace : Parallélépipèdes rectangles, prismes droits, pyramides, cylindre, cône de révolution, sphères. Volumes, surfaces.
-
-Calculs et conversions de longueurs, d'aires, de volumes, d'angles.
-
-Se repérer dans le plan et l'espace : échelle d'une carte, coordonnées cartésiennes, longitude, latitude. Calculs de distances.
-
-IV. - Raisonnement logique
+IV.-Raisonnement logique :
 
 Ensemble de questions destinées à évaluer les capacités du candidat à analyser des données et à conduire un raisonnement déductif.
 
-PROGRAMME DES OPTIONS DE L'ÉPREUVE ÉCRITE D'ADMISSIBILITÉ N° 2
+2. Programme de la deuxième partie de cette épreuve consistant en un questionnaire à réponses courtes (QRC) sur l'une des matières suivantes choisies par le candidat
 
-DU CONCOURS EXTERNE DE CONTRÔLEUR DES FINANCES PUBLIQUES
+I.-Sciences économiques et sociales :
 
-1. Mathématiques
+A.-Techniques quantitatives élémentaires :
 
-I. - Algèbre
+Taux de croissance, coefficient multiplicateur, indices, élasticités, propensions, valeur/ volume, nominal/ réel, moyenne, médiane, dispersion, représentations graphiques (diagramme de répartition, représentation de séries chronologiques, pyramide des âges, courbe de Lorenz …), coefficient de Gini.
 
-Résolution d'équations et d'inéquations du premier et second degré.
+B.-Accumulation du capital, organisation du travail et croissance économique :
 
-Résolution de systèmes d'équations linéaires à deux ou trois inconnues. Résolution de systèmes d'inéquations linéaires à deux inconnues.
+1° Croissance, capital et progrès technique :
 
-II. - Fonctions numériques
+Sources et limites de la croissance économique ;
 
-Généralités : continuité, dérivabilité de la somme, de la différence, du produit ou du quotient des fonctions usuelles.
+Accumulation du capital, progrès technique et croissance ;
 
-Limites : opérations, compositions, comparaisons. Croissances comparées. Comportement asymptotique.
+Monnaie et financement de l'économie ;
 
-Composition des fonctions.
+Fluctuations économiques ;
 
-Nombre dérivé d'une fonction en un point. Sens de variation d'une fonction à partir de l'étude de sa dérivée.
+Politiques de régulation économique ;
 
-Intégration, primitives, valeur moyenne d'une fonction sur un intervalle, calculs d'aires. Propriétés de l'intégrale (linéarité, positivité, ordre, relation de Chasles).
+2° Travail et emploi :
 
-Représentations graphiques.
+Organisation du travail et croissance ;
 
-Liste des fonctions usuelles : polynômes, exponentielles, logarithmes, fonctions circulaires, sommes, différences, quotients, produits et composition de ces fonctions.
+Croissance, progrès technique et emploi.
 
-III. - Statistiques et probabilités
+C.-Les enjeux de l'ouverture internationale :
 
-Dénombrement : arrangements, permutations, combinaisons.
+1° Internationalisation des échanges et mondialisation :
 
-Description statistique d'un échantillon ou d'une population. Représentations graphiques.
+Commerce international, croissance et développement ;
 
-Nuage de points associé à une série statistique à deux variables numériques.
+Système monétaire et financier international ;
 
-Ajustement affine par moindres carrés.
+Stratégies internationales des entreprises ;
 
-Calculs de probabilités.
+Mondialisation ;
 
-Conditionnement et indépendance. Formule des probabilités totales.
+2° Intégration européenne et politiques économiques et sociales :
 
-Lois de probabilités discrètes. Cas particuliers : loi de Bernoulli, loi binomiale. Espérance, variance, écart-type.
+Union européenne et dynamique de l'intégration régionale ;
 
-Modélisation d'expériences indépendantes (dés, pièces, urnes...)
+Nouveaux cadres de l'action publique.
 
-IV. - Suites numériques
+II.-Comptabilité et analyse financière :
 
-Suites monotones, majorées, minorées, bornées, convergentes. Limites : opérations.
+A.-Traduire l'activité de l'entreprise :
 
-Suites arithmétiques, suites géométriques. Somme des n premiers termes.
+La partie double, le compte, le journal ;
 
-Suites vérifiant une relation de récurrence du type :
+Le processus achat-vente (factures de doit, factures d'avoir sur retour de biens, règlements au comptant et à crédit) ;
 
-u(n+1) = au(n) + b ou u(n+2) = au(n + 1) + bu(n)
+Le processus d'investissement-financement (acquisition d'une immobilisation, cession d'une immobilisation) ;
 
-V. - Géométrie dans l'espace
+Le mécanisme de la TVA.
 
-Equations cartésiennes de plans ou droites de l'espace.
+B.-Synthétiser fidèlement l'image de l'entreprise :
 
-Calcul vectoriel : somme, produit scalaire, produit vectoriel, relation de Chasles.
+Exercice comptable et inventaire.
 
-Vecteurs colinéaires, vecteurs coplanaires.
+L'évaluation et les traitements à la clôture de l'exercice :
 
-Distance entre deux points.
+1° Evaluer et enregistrer, à la clôture de l'exercice, les stocks de marchandises, d'approvisionnements et de biens finis sur la base du coût moyen pondéré ;
 
-2. Comptabilité privée
+2° Régulariser et enregistrer les charges et les produits revenant à l'exercice (charges à payer, produits à recevoir, charges et produits constatés d'avance) ;
 
-I. - Introduction
+3° Etablir et enregistrer les dotations aux amortissements d'une immobilisation corporelle ;
 
-Règles de base de la comptabilité (notamment structure et problématique comptable, réglementation, obligations générales).
+4° Enregistrer la cession d'une immobilisation corporelle ;
 
-Les besoins en information pour la gestion de l'entreprise.
+5° Déterminer et enregistrer la dépréciation d'un actif (terrain, stock et créances).
 
-La gestion dans l'entreprise : comptabilité et informatique de gestion.
+C.-Une entreprise performante :
 
-II. - Les traitements en comptabilité générale
+Analyse de la profitabilité : excédent brut d'exploitation (EBE), résultat d'exploitation (RE), résultat courant avant impôt (RCAI), capacité d'autofinancement (CAF) ;
 
-Les opérations commerciales (notamment TVA ; réductions ; frais de port ; emballages consignés).
+Analyse de la rentabilité : rentabilité économique, rentabilité financière, effet de levier (sans le calculer) ;
 
-Les opérations de trésorerie.
+Affectation du résultat (réserves obligatoires et facultatives, distribution de bénéfices, report à nouveau).
 
-Les opérations d'acquisition et de cession d'immobilisations corporelles et incorporelles.
+D.-L'équilibre de la structure financière de l'entreprise :
 
-Les opérations financières.
+Calculer différents ratios (ratios du cycle d'exploitation, d'indépendance financière, de capacité de remboursement) à partir de formules données ;
 
-Les rémunérations du personnel.
+Analyser les conséquences de la variation du fonds de roulement (FR) et du besoin en fonds de roulement (BFR) sur le niveau de la trésorerie au regard du type d'activité ;
 
-Les opérations avec l'Etat et organismes divers.
+Formuler des recommandations pour une amélioration de la structure financière (proposition d'actions sur le FR et le BFR).
 
-Les opérations de fin d'exercice (notamment amortissements ; dépréciations et provisions ; régularisation des sorties d'actif ; variations des stocks ; produits à recevoir et constatés d'avance ; charges à payer ou constatées d'avance).
+E.-L'analyse des coûts :
 
-Etablissement des balances (balance avant inventaire, après inventaire avant et après détermination du résultat).
+Seuil de rentabilité ;
 
-Le résultat et l'imposition des bénéfices.
+Point mort.
 
-Les documents de synthèse.
+III.-Droit :
 
-Les opérations postérieures à la clôture de l'exercice (notamment le paiement de l'impôt sur les sociétés et l'affectation des résultats des entreprises).
+A.-Définition du droit :
 
-III. - L'analyse fonctionnelle des documents de synthèse
+Le droit et les fonctions du droit ;
 
-Analyse du compte de résultat :
+La règle de droit ;
 
-― soldes intermédiaires de gestion ;
+Les sources du droit.
 
-― capacité d'autofinancement ;
+B.-Droit et règlement des litiges :
 
-― ratios.
+Le litige ;
 
-Analyse du bilan :
+La preuve ;
 
-― élaboration du bilan fonctionnel ;
+Le recours au juge.
 
-― ratios.
+C.-Faire valoir ses droits :
 
-Tableau de financement.
+La personne juridique-physique et morale ;
 
-IV. - Le calcul et l'analyse des coûts
+La capacité et l'incapacité ;
 
-La diversité des coûts.
+Le patrimoine.
 
-Les coûts complets.
+D.-Les droits reconnus aux personnes :
 
-Les coûts partiels et leur utilisation.
+Les droits extrapatrimoniaux ;
 
-V. - La gestion prévisionnelle
+Le droit de propriété sur les biens corporels et incorporels ;
 
-La diversité des budgets.
+Intelligence artificielle et justice.
 
-Le plan d'investissement et de financement.
+E.-La responsabilité juridique :
 
-Le budget de trésorerie.
+Le dommage réparable ;
 
-Le bilan et le compte de résultats prévisionnels.
+Les moyens d'exonération.
 
-3. Eléments d'économie
+Les différents régimes de responsabilité :
 
-I. - Accumulation du capital, organisation du travail et croissance économique
+1° La responsabilité civile ;
 
-Croissance, capital et progrès technique : sources, limites de la croissance économique ; accumulation du capital, progrès technique et croissance ; monnaie et financement de l'économie ; fluctuations économiques ; politiques de régulation économique.
+2° Les régimes spéciaux ;
 
-Travail et emploi : organisation du travail et croissance ; croissance, progrès technique et emploi.
+3° La responsabilité pénale.
 
-II. - Inégalités, conflits et cohésion sociale : la dynamique sociale
+F.-Le contrat de travail :
 
-Stratification sociale et inégalités : notions et dynamique de la stratification sociale ; professions et catégories socio-professionnelles ; enjeux et déterminants de la mobilité sociale ; idéal démocratique et inégalités.
+Le contrat de travail ;
 
-Conflits et mobilisation sociale : mutations du travail et conflits sociaux ; diversification des objets et formes de l'action collective ; changement social.
+L'exécution du contrat de travail ;
 
-Intégration et solidarité : cohésion sociale et instances d'intégration ; contrôle social ; protection sociale et solidarités collectives.
+Les libertés individuelles et collectives ;
 
-III. - Les enjeux de l'ouverture internationale
+L'échéance du contrat de travail.
 
-Internationalisation des échanges et mondialisation : commerce international, croissance et développement ; système monétaire et financier international ; stratégies internationales des entreprises ; mondialisation, évolutions sociales et culturelles et régulation ;
+IV.-Mathématiques :
 
-Intégration européenne et politiques économiques et sociales : Union européenne et dynamique de l'intégration régionale ; nouveaux cadres de l'action publique.
+A.-Arithmétiques :
 
-IV. - Techniques quantitatives élémentaires
+Les 4 opérations (addition, soustraction, multiplication, division) ;
 
-Taux de croissance, coefficient multiplicateur, indices, coefficient budgétaire, élasticités et propensions, valeur/volume, nominal/réel, moyennes arithmétique et géométrique, dispersion, disparité, concentration (courbe de Lorentz), productivités et coûts de production, représentations graphiques (diagramme circulaire, histogramme, pyramide des âges...) graphiques arithmétiques et semi-logarithmiques.
+Priorités des opérations ;
 
-4. Bases juridiques
+Notions de multiple, de diviseur, de nombre pair, de nombre impair, nombre premier ;
 
-I. - Sources du droit et principes généraux du droit public
+Fractions, valeur décimale d'une fraction, opération sur les fractions, comparaison ;
 
-A. ― La création du droit
+Puissances, opérations sur les puissances, comparaison ;
 
-Le pouvoir d'élaborer la règle de droit.
+Conversion.
 
-La diversité des sources de droit et leur caractère évolutif.
+1° Unité de mesure ;
 
-La hiérarchie des sources de droit et leur complémentarité.
+2° Echelle d'une carte ;
 
-B. ― L'Etat et le droit, notions et principes fondateurs
+3° Passer d'une écriture d'un nombre à une autre (décimale, fractionnaire, scientifique).
 
-L'Etat.
+B.-Algèbre :
 
-La séparation des pouvoirs.
+Les différents ensembles (entiers naturels, entiers relatifs, nombres décimaux et nombres rationnels) ;
 
-La classification des régimes politiques, les institutions publiques (l'organisation constitutionnelle et l'organisation administrative).
+Opérations et comparaison dans ces ensembles ;
 
-La constitution de la Ve République.
+Expression algébrique simple (factoriser, développer, réduire, réaliser des calculs) ;
 
-II. - Droit civil
+Règles de calcul sur les puissances entières relatives, sur les racines carrées ;
 
-A. ― Introduction à l'étude du droit civil
+Identités remarquables : a2-b2 = (a-b) (a + b) ; (a + b) 2 = a2 + 2ab + b2 et (a-b) 2 = a2-2ab + b2 ;
 
-Les personnes (les droits patrimoniaux et extrapatrimoniaux).
+Somme d'inégalités ;
 
-Les incapacités.
+Produit d'une inégalité par un réel positif, négatif, en liaison avec le sens de variation d'une fonction affine ;
 
-Les biens.
+Résolution d'équations et d'inéquations du premier degré ;
 
-La famille.
+Résolution d'une expression factorisée du second degré.
 
-B. - Droit des obligations
+C.-Fonctions numériques :
 
-Les obligations : actes et faits juridiques, contrats.
+Généralités des fonctions usuelles (ensemble de définition, représentation graphique, parité, comportement, variation, tableau de variation et extremum) ;
 
-La responsabilité civile.
+Se repérer sur un repère orthonormé (point, droite, courbe, position relative et caractériser les éléments du plan) ;
 
-III. - Droit des entreprises
+Fonctions dérivées (fonction affine, polynôme de degrés deux et trois, fonction inverse) :
 
-A. - Droit commercial
+1° Dérivabilité de la somme, de la différence, lien de la dérivé et de la tangente (équation de la tangente) ;
 
-Introduction historique.
+2° Sens de variation d'une fonction à partir de l'étude de sa dérivée ;
 
-Le commerçant et son environnement (les actes de commerce, le commerçant, le fonds de commerce).
+Fonctions usuelles (fonction affine, carré, inverse, racine carré, cube, polynôme de degré deux et trois factorisés, exponentielle).
 
-Les sociétés (règles communes, règles spécifiques).
+D.-Statistiques et probabilités :
 
-B. - Les effets de commerce
+Description statistique d'une population ou d'un échantillon (taux d'évolutions, moyenne pondérée, linéarité de la moyenne, nuage de point associé à une série statistique à deux variables numériques) ;
 
-Les instruments de crédit et instruments de paiement.
+Ajustement affine ;
 
-C. - L'entreprise et le marché
+Dénombrement (arrangements, permutations, combinaisons) ;
 
-Le droit de la concurrence (notions générales).
+Modélisation d'expériences indépendantes (dés, pièces, urnes …) ;
 
-Le droit de la consommation et la protection du consommateur.
+Conditionnement et indépendance (tableaux, arbres pondérés, diagramme) ;
 
-D. - La fiscalité et l'entreprise
+Conditionnement par un évènement de probabilité non nulle puis indépendance de deux évènements ;
 
-Principes généraux de la fiscalité.
+Formule des probabilités totales ;
 
-L'imposition des bénéfices (entreprises individuelles et sociétés).
+Lois de probabilités discrètes ;
 
-La taxe sur la valeur ajoutée.
+Cas particuliers : loi de Bernoulli, loi binomiale ;
+
+Espérance.
+
+E.-Suites numériques :
+
+Suites arithmétiques, suites géométriques à terme positif (sens de variation, relation de récurrence) ;
+
+Somme des n premiers termes ;
+
+Expression en fonction de n du rang n ;
+
+Représentation graphique ;
+
+Calculer un terme de rang donnée d'une suite définie explicitement par une relation de récurrence ou par une relation fonctionnelle.
+
+V.-Histoire, géographie et géopolitique :
+
+A.-Histoire contemporaine en France et en Europe (1789-à la fin du XXe siècle) :
+
+1° Révolutions politiques et industrielles :
+
+La Révolution française et l'Empire ;
+
+L'Europe entre révolutions et restaurations ;
+
+Nation et démocratie ;
+
+L'industrialisation ;
+
+Les transformations économiques et sociales ;
+
+2° Les grands bouleversements de la première moitié du XXe siècle :
+
+L'émergence de nouvelles puissances ;
+
+La Première Guerre mondiale ;
+
+La crise de 1929 ;
+
+Régimes totalitaires et démocraties ;
+
+La Seconde Guerre mondiale ;
+
+3° L'après-guerre et la construction européenne :
+
+Une nouvelle donne géopolitique ;
+
+La construction européenne ;
+
+La fin des grands blocs.
+
+B.-Géographie économique et humaine :
+
+1° La France (métropole et outre-mer) :
+
+Peuplement et répartition de la population ;
+
+Des milieux entre nature et société ;
+
+L'espace économique ;
+
+Disparités spatiales et aménagement des territoires ;
+
+Les espaces maritimes français ;
+
+2° Réseaux et flux en Europe et en France :
+
+La métropolisation et les réseaux urbains ;
+
+Les réseaux de communication et les flux des transports ;
+
+La mobilité des hommes, transport, tourisme ;
+
+Population et migration ;
+
+3° La mondialisation :
+
+Les flux mondiaux.
 
 PROGRAMME DES OPTIONS DE L'ÉPREUVE ÉCRITE D'ADMISSIBILITÉ N° 2
 
@@ -949,3 +1059,7 @@ Les directions et services à compétence nationale ou spéciale.
 Rôle et missions des délégués du directeur général.
 
 Organisation du réseau déconcentré de la DGFiP au niveau régional, départemental et infradépartemental.
+
+NOTA :
+
+Conformément à l'article 5 de l'arrêté du 1er juillet 2024 (NOR : ECOE2416020A), ces dispositons entrent en vigueur à la date de publication de l'arrêté d'ouverture du concours externe pour l'accès au grade de contrôleur des finances publiques de 2e classe au titre de l'année 2026.
