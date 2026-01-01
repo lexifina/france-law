@@ -1,6 +1,6 @@
 # Article Annexe I
 
-PRESCRIPTIONS GÉNÉRALES ET FAISANT L'OBJET DU CONTRÔLE PÉRIODIQUE APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À DÉCLARATION SOUS LA RUBRIQUE N° 2791
+PRESCRIPTIONS GÉNÉRALES ET FAISANT L'OBJET DU CONTRÔLE PÉRIODIQUE APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À DÉCLARATION SOUS LA RUBRIQUE No 2791
 
 Définitions :
 
@@ -8,7 +8,7 @@ Bâtiment ouvert : bâtiment muni d'une toiture qui n'est pas fermé sur au moin
 
 Bâtiment fermé : bâtiment muni d'une toiture qui n'est pas un bâtiment ouvert.
 
-Batterie : tout dispositif fournissant de l'énergie électrique obtenue par transformation directe d'énergie chimique, à stockage interne ou externe, et constituée d'un ou plusieurs éléments de batterie rechargeables ou non rechargeables, de modules de batterie ou d'assemblages-batteries, et comprend une batterie qui a fait l'objet d'une préparation en vue d'un réemploi, d'une préparation en vue d'une réaffectation, d'une réaffectation ou d'un remanufacturage.
+Batterie : tout dispositif fournissant de l'énergie électrique obtenue par transformation directe d'énergie chimique, à stockage interne ou externe, et constituée d'un ou plusieurs éléments de batterie rechargeables ou non rechargeables, de modules de batterie ou d'assemblages-batteries, et comprend une batterie qui a fait l'objet d'une préparation en vue d'un réemploi, d'une préparation en vue d'une réaffectation, d'une réaffectation ou d'un remanufacturage. ;
 
 Déchets combustibles : déchets, qui ne sont pas qualifiés d'incombustibles.
 
@@ -130,7 +130,7 @@ L'installation ne surmonte pas et n'est pas surmontée de locaux occupés par de
 
 Les parois extérieures des locaux abritant l'installation sont construites en matériaux A2 s1 d0.
 
-Le sol des aires et locaux de stockage est incombustible (de classe A1 fl ).
+Le sol des aires et locaux de stockage est incombustible (de classe A1fl).
 
 Objet du contrôle :
 
@@ -154,7 +154,7 @@ Objet du contrôle :
 
 2.4.3. Toitures et couvertures de toiture
 
-Les toitures et couvertures de toiture répondent à la classe B ROOF (t3), pour un temps de passage du feu au travers de la toiture supérieure à trente minutes (classe T 30) et pour une durée de la propagation du feu à la surface de la toiture supérieure à trente minutes (indice 1).
+Les toitures et couvertures de toiture répondent à la classe BROOF (t3), pour un temps de passage du feu au travers de la toiture supérieure à trente minutes (classe T 30) et pour une durée de la propagation du feu à la surface de la toiture supérieure à trente minutes (indice 1).
 
 2.4.4. Désenfumage
 
@@ -162,9 +162,9 @@ Les bâtiments abritant les installations doivent être équipés en partie haut
 
 Ces dispositifs doivent être à commandes automatique et manuelle. Leur surface utile d'ouverture ne doit pas être inférieure à :
 
-- 2 % si la superficie à désenfumer est inférieure à 1 600 m 2 ;
+- 2 % si la superficie à désenfumer est inférieure à 1 600 m2 ;
 
-- à déterminer selon la nature des risques si la superficie à désenfumer est supérieure à 1 600 m 2 sans pouvoir être inférieure à 2 % de la superficie des locaux.
+- à déterminer selon la nature des risques si la superficie à désenfumer est supérieure à 1 600 m2 sans pouvoir être inférieure à 2 % de la superficie des locaux.
 
 En exploitation normale, le réarmement (fermeture) doit être possible depuis le sol du local ou depuis la zone de désenfumage ou la cellule à désenfumer dans le cas de local divisé en plusieurs cantons ou cellule.
 
@@ -176,7 +176,7 @@ Tous les dispositifs doivent en référence à la norme NF EN 12 101-2 présente
 
 - fiabilité : classe RE 300 (300 cycles de mise en sécurité). Les exutoires bifonctions sont soumis à 10 000 cycles d'ouverture en position d'aération ;
 
-- la classification de la surcharge neige à l'ouverture est SL 250 (25 daN/m 2 ) pour des altitudes inférieures ou égales à 400 mètres et SL 500 (50 daN/m 2 ) pour des altitudes supérieures à 400 mètres et inférieures ou égales à 800 mètres. La classe SL 0 est utilisable si la région d'implantation n'est pas susceptible d'être enneigée ou si des dispositions constructives empêchent l'accumulation de la neige. Au-dessus de 800 mètres, les exutoires sont de la classe SL 500 et installés avec des dispositions constructives empêchant l'accumulation de la neige;
+- la classification de la surcharge neige à l'ouverture est SL 250 (25 daN/m2) pour des altitudes inférieures ou égales à 400 mètres et SL 500 (50 daN/m2) pour des altitudes supérieures à 400 mètres et inférieures ou égales à 800 mètres. La classe SL 0 est utilisable si la région d'implantation n'est pas susceptible d'être enneigée ou si des dispositions constructives empêchent l'accumulation de la neige. Au-dessus de 800 mètres, les exutoires sont de la classe SL 500 et installés avec des dispositions constructives empêchant l'accumulation de la neige;
 
 - classe de température ambiante T0 (0 °C) ;
 
@@ -187,6 +187,20 @@ Des amenées d'air frais d'une surface libre égale à la surface géométrique 
 Objet du contrôle :
 
 - présence des dispositifs d'évacuation des fumées et gaz de combustion en état de marche.
+
+2.4.5. Petits îlots
+
+A.-Un bâtiment ouvert ou fermé ne peut contenir plus de cinq petits îlots. Chacun de ces petits îlots contient un flux de déchets différents.
+
+B.-Une installation ne peut contenir plus de cinq petits îlots pour l'ensemble des entreposages extérieurs.
+
+C.-Les prescriptions du B peuvent être adaptées par arrêté préfectoral, au vu des circonstances locales et en fonction des caractéristiques de l'installation et de la sensibilité du milieu, lorsqu'elles empêcheraient la réalisation des obligations de tri à la source et de collecte séparée sur l'installation.
+
+A cet effet, le pétitionnaire transmet au préfet :
+
+-la justification technique du nombre de petits îlots supplémentaires demandés ;
+
+-une étude démontrant l'absence d'effets domino.
 
 2.5. Accessibilité
 
@@ -314,7 +328,7 @@ En complément du registre prévu à l'article R. 541-43 du code de l'environnem
 
 Objet du contrôle :
 
-- présence de la comptabilité des stocks à jour.
+-présence de la comptabilité des stocks à jour.
 
 3.6. Consignes d'exploitation
 
@@ -368,8 +382,6 @@ L'installation doit être équipée de moyens de lutte contre l'incendie appropr
 
 - de plans des locaux facilitant l'intervention des services d'incendie et de secours avec une description des dangers pour chaque local ;
 
-- d'un système d'alarme incendie ;
-
 - de matériels de protection adaptés.
 
 Ces matériels doivent être maintenus en bon état et vérifiés au moins une fois par an.
@@ -386,7 +398,7 @@ Objet du contrôle :
 
 4.3. Matériels utilisables en atmosphères explosibles
 
-Dans les parties de l'installation visées au point 4.1 et recensées "atmosphères explosibles", les installations électriques, mécaniques, hydrauliques et pneumatiques doivent être conformes aux dispositions du décret n o 96-1010 du 19 novembre 1996 relatif aux appareils et aux systèmes de protection destinés à être utilisés en atmosphère explosible. Elles sont réduites à ce qui est strictement nécessaire aux besoins de l'exploitation et sont entièrement constituées de matériels utilisables dans les atmosphères explosives.
+Dans les parties de l'installation visées au point 4.1 et recensées "atmosphères explosibles", les installations électriques, mécaniques, hydrauliques et pneumatiques doivent être conformes aux dispositions du décret no 96-1010 du 19 novembre 1996 relatif aux appareils et aux systèmes de protection destinés à être utilisés en atmosphère explosible. Elles sont réduites à ce qui est strictement nécessaire aux besoins de l'exploitation et sont entièrement constituées de matériels utilisables dans les atmosphères explosives.
 
 Les canalisations électriques ne doivent pas être une cause possible d'inflammation et doivent être convenablement protégées contre les chocs, contre la propagation des flammes et contre l'action des produits présents dans la partie de l'installation en cause.
 
@@ -441,6 +453,56 @@ Ces consignes sont conservées dans le dossier "installations classées" prévu 
 Objet du contrôle :
 
 - affichage visible des consignes de sécurité.
+
+4.7. Détection et surveillance
+
+Les zones susceptibles de contenir des déchets combustibles ou inflammables sont équipées d'une détection automatique de départ d'incendie et d'une transmission automatique des alertes à une personne interne ou externe désignée par l'exploitant et formées en vue de déclencher les opérations nécessaires. Cette détection actionne une alarme perceptible en tout point du périmètre concerné et permet d'assurer l'alerte précoce de tout ou partie des personnes présentes sur le site. Lorsqu'il existe un dispositif d'extinction automatique pour la zone considérée, celui-ci peut être utilisé pour la détection sur cette zone, si le dispositif d'extinction automatique est conçu pour cela.
+
+Lorsque personne n'est présent sur le site, l'alerte est retransmise automatiquement à une personne formée et désignée par l'exploitant, pouvant appartenir à une entreprise de télésurveillance. Cette personne dispose des moyens lui permettant de visualiser à distance les différentes zones pour confirmer le départ d'incendie, et d'alerter dans les meilleurs délais l'exploitant et les services d'incendie et de secours.
+
+En cas d'impossibilité technique pour visualiser à distance les différentes zones, une personne arrive au sein l'installation dans un délai maximal de 15 minutes suivant le début de l'alerte afin d'effectuer une levée de doute et ainsi alerter immédiatement l'exploitant et les services d'incendie et de secours en cas de départ de feu avéré.
+
+Les dispositions du présent article ne s'appliquent pas aux petits îlots.
+
+L'exploitant s'assure de la vérification périodique et de la maintenance des matériels de sécurité et de lutte contre l'incendie conformément aux règles en vigueur. Ces vérifications font l'objet d'un rapport annuel de contrôle.
+
+Objet du contrôle :
+
+-présence d'un système de détection automatique et d'alarme incendie pour les zones concernées (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+-présence du rapport de contrôle datant de moins d'un an.
+
+4.8. Rondes
+
+I.-L'exploitant organise des rondes dans les zones contenant des déchets combustibles ou inflammables afin de détecter au plus tôt un départ d'incendie ou un échauffement anormal selon les modalités suivantes :
+
+a) Lorsque personne n'est présent sur le site après sa fermeture, l'exploitant organise une ronde dans l'ensemble de ces zones à la fermeture du site et deux heures après le dernier arrivage de déchets sur le site ;
+
+b) Lorsque l'exploitant organise une présence permanente sur le site, il s'assure que des rondes régulières sont effectuées dans l'ensemble des zones en dehors des périodes où des tris et traitements sont effectués.
+
+II.-L'exploitant détermine les consignes concernant :
+
+-la fréquence et les conditions de réalisation des rondes ;
+
+-le parcours des rondes et les points d'observation ;
+
+-la formation du personnel concerné ;
+
+-le matériel adapté à la détection précoce d'incendie avec lequel les rondes sont effectuées et sa maintenance lorsqu'il n'y a pas de système de détection fixe ;
+
+-les actions à entreprendre selon des critères définis préalablement et visant à éviter tout départ de feu ou à en limiter les conséquences au minimum.
+
+Objet du contrôle :
+
+-présence des consignes conformes.
+
+4.9. Défaut de tri
+
+I. - L'exploitant met en place une procédure pour identifier les éventuels déchets contenants des batteries et résultant d'un défaut de tri en amont de l'installation. Ces déchets sont refusés, ou triés et traités.
+
+II. - L'exploitant met en place une procédure de prévention et d'intervention en cas d'incendie résultant d'un défaut de tri des batteries en amont de l'installation.
+
+III. - Ces procédures sont tenues à disposition de l'inspection des installations classées.
 
 4.10. Plan de défense contre l'incendie
 
@@ -556,7 +618,7 @@ b) Dans le cas de rejet dans un réseau d'assainissement collectif muni d'une st
 
 - DCO : 2 000 mg/l ;
 
-- DBO 5 : 800 mg/l
+- DBO5 : 800 mg/l
 
 Ces valeurs limites ne sont pas applicables lorsque l'autorisation de déversement dans le réseau public prévoit une valeur supérieure.
 
@@ -566,7 +628,7 @@ c) Dans le cas de rejet dans le milieu naturel (ou dans un réseau d'assainissem
 
 - DCO : 300 mg/l ;
 
-- DBO 5 : 100 mg/l.
+- DBO5 : 100 mg/l.
 
 d) Polluants spécifiques : avant rejet dans le milieu naturel ou dans un réseau d'assainissement collectif urbain :
 
@@ -576,7 +638,7 @@ d) Polluants spécifiques : avant rejet dans le milieu naturel ou dans un résea
 
 - cyanures totaux : 0,1 mg/l ;
 
-- AO x : 5 mg/l ;
+- AOx : 5 mg/l ;
 
 - arsenic : 0,1 mg/l ;
 
@@ -586,7 +648,7 @@ d) Polluants spécifiques : avant rejet dans le milieu naturel ou dans un résea
 
 Ces valeurs limites doivent être respectées en moyenne quotidienne. Aucune valeur instantanée ne doit dépasser le double des valeurs limites de concentration.
 
-Une mesure des concentrations des différents polluants susvisés doit être effectuée au moins tous les ans par un organisme agréé par le ministre chargé de l'environnement selon les méthodes de référence précisées dansun avis publié au Journal officiel. Ces mesures sont effectuées sur un échantillon représentatif du fonctionnement sur une journée de l'installation et constitué, soit par un prélèvement continu d'une demi-heure, soit par au moins deux prélèvements instantanés espacés d'une demi-heure. En cas d'impossibilité d'obtenir un tel échantillon, une évaluation des capacités des équipements d'épuration à respecter les valeurs limites est réalisée. Une mesure du débit est également réalisée ou estimée à partir des consommations, si celui-ci est supérieur à 10 m 3 /j.
+Une mesure des concentrations des différents polluants susvisés doit être effectuée au moins tous les ans par un organisme agréé par le ministre chargé de l'environnement selon les méthodes de référence précisées dansun avis publié au Journal officiel. Ces mesures sont effectuées sur un échantillon représentatif du fonctionnement sur une journée de l'installation et constitué, soit par un prélèvement continu d'une demi-heure, soit par au moins deux prélèvements instantanés espacés d'une demi-heure. En cas d'impossibilité d'obtenir un tel échantillon, une évaluation des capacités des équipements d'épuration à respecter les valeurs limites est réalisée. Une mesure du débit est également réalisée ou estimée à partir des consommations, si celui-ci est supérieur à 10 m3/j.
 
 Les polluants visés au point présent qui ne sont pas susceptibles d'être émis par l'installation, ne font pas l'objet des mesures périodiques prévues au présent point. Dans ce cas, l'exploitant tient à la disposition de l'inspection des installations classées les éléments techniques permettant d'attester l'absence d'émission de ces produits par l'installation.
 
@@ -638,15 +700,15 @@ Les valeurs ne dépassent pas les limites suivantes :
 
 a) Poussières :
 
-- si le flux horaire est inférieur à 1 kg/h, les gaz rejetés à l'atmosphère ne contiennent pas plus de 100 mg/Nm 3 de poussières ;
+- si le flux horaire est inférieur à 1 kg/h, les gaz rejetés à l'atmosphère ne contiennent pas plus de 100 mg/Nm3 de poussières ;
 
-- si le fluxhoraire est supérieur à 1 kg/h, les gaz rejetés à l'atmosphère ne contiennent pas plus de 40 mg/Nm 3 de poussières.
+- si le fluxhoraire est supérieur à 1 kg/h, les gaz rejetés à l'atmosphère ne contiennent pas plus de 40 mg/Nm3 de poussières.
 
 b) Composés organiques volatils :
 
-- si le flux horaire est supérieur à 2 kg/h, les gaz rejetés à l'atmosphère ne contiennent pas plus de 110 mg/Nm 3 .
+- si le flux horaire est supérieur à 2 kg/h, les gaz rejetés à l'atmosphère ne contiennent pas plus de 110 mg/Nm3.
 
-Dans le cas de l'utilisation d'une technique d'oxydation pour l'élimination des COV, la valeur limite d'émission en COV exprimée en carbone total est de 50 mg par m 3 si le rendement d'épuration est supérieur à 98 %.
+Dans le cas de l'utilisation d'une technique d'oxydation pour l'élimination des COV, la valeur limite d'émission en COV exprimée en carbone total est de 50 mg par m3 si le rendement d'épuration est supérieur à 98 %.
 
 Objet du contrôle :
 
@@ -832,6 +894,8 @@ ambiant existant dans les zones
 
 (incluant le bruit de l'installation)
 
+|
+
 ÉMERGENCE ADMISSIBLE
 
 pour la période
@@ -839,6 +903,8 @@ pour la période
 allant de 7 heures à 22 heures,
 
 sauf dimanches et jours fériés
+
+|
 
 ÉMERGENCE ADMISSIBLE
 
@@ -850,19 +916,33 @@ ainsi que les dimanches
 
 et jours fériés
 
+|
+
 Supérieur à 35 et inférieur ou égal à
 
 45 dB (A)
 
+|
+
 6 dB (A)
+
+|
 
 4 dB (A)
 
+|
+
 Supérieur à 45 dB (A)
+
+|
 
 5 dB (A)
 
+|
+
 3 dB (A)
+
+|
 
 De plus, le niveau de bruit en limite de propriété de l'installation ne doit pas dépasser, lorsqu'elle est en fonctionnement, 70 dB (A) pour la période de jour et 60 dB (A) pour la période de nuit, sauf si le bruit résiduel pour la période considérée est supérieur à cette limite.
 

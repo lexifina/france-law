@@ -8,13 +8,17 @@ Les dispositions mentionnées ci-dessous sont applicables aux installations exis
 
 1er juillet 2019 |
 
-1er juillet 2024 |
+1er janvier 2026 |
 
 1. Dispositions générales |
 
 3.2 Admissibilité des produits et déchets |
 
-2.9 Petits îlots |
+2.9 Petits îlots
+
+3.8. Zone d'entreposage tampon du processus de tri
+
+|
 
 (*) 2.2 Comportement au feu |
 
@@ -81,3 +85,7 @@ Les dispositions mentionnées ci-dessous sont applicables aux installations exis
 |
 
 |
+
+NOTA :
+
+Conformément à l'article 18 de l'arrêté du 6 mai 2025 (NOR : TECP2431986A), ces dispositions s'appliquent à partir du 1er janvier 2026.

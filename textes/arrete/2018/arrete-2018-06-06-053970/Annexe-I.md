@@ -10,7 +10,7 @@ Bâtiment ouvert : bâtiment muni d'une toiture qui n'est pas fermé sur au moin
 
 Bâtiment fermé : bâtiment muni d'une toiture qui n'est pas un bâtiment ouvert.
 
-Batterie : tout dispositif fournissant de l'énergie électrique obtenue par transformation directe d'énergie chimique, à stockage interne ou externe, et constituée d'un ou plusieurs éléments de batterie rechargeables ou non rechargeables, de modules de batterie ou d'assemblages-batteries, et comprend une batterie qui a fait l'objet d'une préparation en vue d'un réemploi, d'une préparation en vue d'une réaffectation, d'une réaffectation ou d'un remanufacturage. ;
+Batterie : tout dispositif fournissant de l'énergie électrique obtenue par transformation directe d'énergie chimique, à stockage interne ou externe, et constituée d'un ou plusieurs éléments de batterie rechargeables ou non rechargeables, de modules de batterie ou d'assemblages-batteries, et comprend une batterie qui a fait l'objet d'une préparation en vue d'un réemploi, d'une préparation en vue d'une réaffectation, d'une réaffectation ou d'un remanufacturage.
 
 Composé organique volatil (COV) : tout composé organique, à l'exclusion du méthane, ainsi que la fraction de créosote, ayant une pression de vapeur de 0,01 kPa ou plus à une température de 293,15 Kelvin ou ayant une volatilité correspondante dans des conditions d'utilisation particulières.
 
@@ -30,7 +30,7 @@ Petit îlot : zone susceptible de contenir des déchets combustibles ou inflamma
 
 -la zone est séparée des autres zones, bâtiments, îlots, locaux, parking ou tiers par une distance d'au moins cinq mètres ou par un mur coupe-feu de caractéristiques minimales REI 120.
 
-Produits dangereux et matières dangereuses : substance ou mélange classé suivant les " classes et catégories de danger définies à l'annexe I, parties 2, 3 et 4 du règlement (CE) n° 1272/2008 relatif à la classification, l'étiquetage et l'emballage des substances et des mélanges " dit CLP. Ce règlement a pour objectif de classer les substances et mélanges dangereux et de communiquer sur ces dangers via l'étiquetage et les fiches de données de sécurité.
+Produits dangereux et matières dangereuses : substance ou mélange classé suivant les classes et catégories de danger définies à l'annexe I, parties 2, 3 et 4 du règlement (CE) n° 1272/2008 relatif à la classification, l'étiquetage et l'emballage des substances et des mélanges dit CLP. Ce règlement a pour objectif de classer les substances et mélanges dangereux et de communiquer sur ces dangers via l'étiquetage et les fiches de données de sécurité.
 
 Emergence : la différence entre les niveaux de pression continus équivalents pondérés A du bruit ambiant (installation en fonctionnement) et du bruit résiduel (en l'absence du bruit généré par l'installation) ;
 
@@ -44,7 +44,7 @@ Zones à émergence réglementée :
 
 Zone de réception de déchets : zone dans laquelle les déchets sont réceptionnés par l'installation en vue d'une gestion ultérieure. Les zones qui ne sont pas vidées au moins quotidiennement et qui ne sont pas vides en dehors des heures d'exploitation de l'installation ne sont pas des zones de réception de déchets, mais sont des zones susceptibles de contenir des déchets.
 
-Zone susceptible de contenir des déchets : à l'exception des zones d'entreposage en silo ou cuve fermés et fixes et des zones de réception de déchets définies ci-dessus, les zones susceptibles de contenir des déchets sont :
+Zone susceptible de contenir des déchets : à l'exception des zones d'entreposage en silo ou cuve fermés et fixes, des zones d'entreposage tampon définies au point 3.8 et des zones de réception de déchets définies ci-dessus, les zones susceptibles de contenir des déchets sont :
 
 -les zones de dépôt de déchets conditionnés ou en vrac ;
 
@@ -254,6 +254,20 @@ Objet du contrôle :
 
 - présence de la consigne définissant les modalités de mise en œuvre de ces dispositifs.
 
+2.9. Petits îlots
+
+A.-Un bâtiment ouvert ou fermé ne peut contenir plus de cinq petits îlots. Chacun de ces petits îlots contient un flux de déchets différents.
+
+B.-Une installation ne peut contenir plus de cinq petits îlots pour l'ensemble des entreposages extérieurs.
+
+C.-Les prescriptions du B peuvent être adaptées par arrêté préfectoral, au vu des circonstances locales et en fonction des caractéristiques de l'installation et de la sensibilité du milieu, lorsqu'elles empêcheraient la réalisation des obligations de tri à la source et de collecte séparée sur l'installation.
+
+A cet effet, le pétitionnaire transmet au préfet :
+
+-la justification technique du nombre de petits îlots supplémentaires demandés ;
+
+-une étude démontrant l'absence d'effets domino.
+
 3. Exploitation - entretien
 
 3.1. Contrôle de l'accès
@@ -356,7 +370,7 @@ Objet du contrôle :
 
 Les aires de réception, de transit, regroupement et tri des déchets sont distinctes et clairement repérées. Les zones d'entreposage sont distinguées en fonction du type de déchet, de l'opération réalisée (tri effectué ou non par exemple) et du débouché si pertinent (élimination, recyclage par exemple).
 
-En compléments du registre prévu l'article R. 541-43 du code de l'environnement, l'exploitant tient la comptabilité des stocks présents sur l'exploitation. Cette comptabilité des stocks peut être réalisée par différence à partir des bons de pesée établis en entrée et en sortie du site ou par tout autre moyen équivalent défini par l'exploitant. L'état des déchets stockés est mis à jour au moins de manière hebdomadaire et accessible à tout moment, y compris en cas d'incident, accident, pertes d'utilité ou tout autre événement susceptible d'affecter l'installation. Pour les déchets dangereux, cet état est mis à jour, au moins, de manière quotidienne. Un bilan annuel tenu à disposition de l'inspection des installations classées indique nominativement la liste des sites destinataires des déchets.
+En compléments du registre prévu l'article R. 541-43 du code de l'environnement, l'exploitant tient la comptabilité des stocks présents sur l'exploitation. L'état des déchets stockés est mis à jour au moins de manière hebdomadaire et accessible à tout moment, y compris en cas d'incident, accident, pertes d'utilité ou tout autre événement susceptible d'affecter l'installation. Pour les déchets dangereux, cet état est mis à jour, au moins, de manière quotidienne. Un bilan annuel tenu à disposition de l'inspection des installations classées indique nominativement la liste des sites destinataires des déchets. Cette comptabilité des stocks peut être réalisée par différence à partir des bons de pesée établis en entrée et en sortie du site ou par tout autre moyen équivalent défini par l'exploitant.
 
 La hauteur des déchets entreposés n'excède pas trois mètres si le dépôt est à moins de 100 mètres d'un bâtiment à usage d'habitation. Dans tous les cas, la hauteur n'excède pas six mètres.
 
@@ -378,7 +392,9 @@ Objet du contrôle :
 
 Les déchets sont triés en fonction de leur nature et de leur exutoire (mode de valorisation, d'élimination).
 
-Les piles usagées au lithium sont séparées des autres piles et leur entreposage est réalisé dans des fûts ou conteneurs fermés, conçus de manière à empêcher l'entrée d'eau, résistant à la pression en cas d'échauffement et conformes à la réglementation relative au transport de matières dangereuses.
+Les batteries sont entreposées dans des conteneurs ou locaux spécifiques, fermés, étanches, et munis de rétention. Pour les batteries contenant du lithium, ces conteneurs ou locaux présentent une résistance au feu au moins R60.
+
+Les batteries sont collectées à une fréquence proportionnée au regard du volume et du caractère dangereux des batteries. Dans tous les cas, le stockage des batteries sur le site n'excède pas six mois.
 
 Le compactage ou la réduction de volume des déchets d'activité de soins à risques infectieux et assimilés et de pièces anatomiques est interdit.
 
@@ -386,7 +402,7 @@ Lorsqu'ils sont identifiés, les condensateurs, les radiateurs à bain d'huile e
 
 Objet du contrôle :
 
-- vérification d'un entreposage séparé des piles au lithium des autres piles et de la fermeture des conteneurs.
+-vérification de la conformité des stockages des batteries.
 
 3.7. Connaissance et étiquetage des déchets
 
@@ -399,6 +415,34 @@ Objet du contrôle :
 - présence des documents visés ci-dessus ;
 
 - présence et lisibilité des libellés, codes des déchets et symboles de danger sur les fûts, réservoirs et emballages (le non-respect de ce point relève d'une non-conformité majeure).
+
+3.8. Zone d'entreposage tampon du processus de tri
+
+Les zones d'entreposage tampon du processus de tri manuel ou mécanisé se composent de deux types de zones :
+
+-les zones d'entreposage temporaire en amont du tri ;
+
+-les zones d'entreposage temporaire sous cabine de tri.
+
+Toute zone d'entreposage temporaire en amont du tri est d'un volume maximal de 20 m 3 et respecte l'une des deux conditions suivantes :
+
+-elle est vide pendant les périodes de fermeture du site et vidée a minima quotidiennement ;
+
+-elle est munie d'un système d'extinction automatique.
+
+Toute zone d'entreposage temporaire sous cabine de tri est d'un volume maximal de 120 m 3 et respecte l'une des deux conditions suivantes :
+
+-elle est vide pendant les périodes de fermeture du site et vidée a minima quotidiennement ;
+
+-elle est munie d'un système d'extinction automatique.
+
+Les bâtiments ouverts ou fermés dans lesquels sont situées des zones d'entreposage tampon du processus de tri sont munis d'un système de détection automatique et d'alarme incendie.
+
+Objet du contrôle :
+
+-respect des dispositions applicables aux zones d'entreposage tampon du processus de tri ;
+
+-présence d'un système de détection automatique et d'alarme incendie dans les bâtiments dans lesquels sont situés des zones d'entreposage tampon du processus de tri.
 
 4. Risques
 
@@ -416,15 +460,11 @@ Les installations gérant des déchets combustibles ou inflammables sont égalem
 
 - d'un ou plusieurs points d'eau incendie, tels que :
 
-1. Des bouches d'incendie, poteaux, ou prises d'eau, d'un diamètre nominal adapté au débit à fournir, alimentés par un réseau public ou privé, sous des pressions minimale et maximale permettant la mise en œuvre des pompes des engins des services d'incendie et de secours ;
-
-2. Des réserves d'eau, réalimentées ou non, disponibles pour le site et dont les organes de manœuvre sont utilisables en permanence pour les services d'incendie et de secours.
+1. Des bouches d'incendie, poteaux, ou prises d'eau, d'un diamètre nominal adapté au débit à fournir, alimentés par un réseau public ou privé, sous des pressions minimale et maximale permettant la mise en œuvre des pompes des engins des services d'incendie et de secours ;2. Des réserves d'eau, réalimentées ou non, disponibles pour le site et dont les organes de manœuvre sont utilisables en permanence pour les services d'incendie et de secours.
 
 Les prises de raccordement permettent aux services d'incendie et de secours de s'alimenter sur ces points d'eau incendie.
 
 Le ou les points d'eau incendie sont en mesure de fournir un débit global adapté aux risques à défendre, sans être inférieur à 60 m3/h durant deux heures. Le point d'eau incendie le plus proche de l'installation se situe à moins de 100 mètres de cette dernière. Les autres points d'eau incendie, le cas échéant, se situent à moins de 200 mètres de l'installation (les distances sont mesurées par les voies praticables par les moyens des services d'incendie et de secours) ;
-
-- - d'un système de détection automatique et d'alarme incendie pour les bâtiments fermés où sont entreposés des produits ou déchets combustibles ou inflammables ;
 
 - - d'un système de détection de gaz dans les parties de l'installation présentant des risques de dégagement de gaz ou de vapeurs toxiques ;
 
@@ -442,13 +482,53 @@ Objet du contrôle :
 
 - présence de plans des bâtiments, avec descriptions des dangers associés ;
 
-- présence d'un système de détection automatique et d'alarme incendie pour les bâtiments concernés (le non-respect de ce point relève d'une non-conformité majeure) ;
-
 - présence d'un système de détection avec alarme de gaz dans les parties présentant des risques de dégagement de gaz ou de vapeurs toxiques ;
 
 - présence d'une réserve de sable meuble ou matériaux assimilés et des pelles ;
 
 - présence du rapport de contrôle datant de moins d'un an.
+
+4.1.1. Détection et surveillance
+
+Les zones susceptibles de contenir des déchets combustibles ou inflammables sont équipées d'une détection automatique de départ d'incendie et d'une transmission automatique des alertes à une personne interne ou externe désignée par l'exploitant et formées en vue de déclencher les opérations nécessaires. Cette détection actionne une alarme perceptible en tout point du périmètre concerné et permet d'assurer l'alerte précoce de tout ou partie des personnes présentes sur le site. Lorsqu'il existe un dispositif d'extinction automatique pour la zone considérée, celui-ci peut être utilisé pour la détection sur cette zone, si le dispositif d'extinction automatique est conçu pour cela.
+
+Lorsque personne n'est présent sur le site, l'alerte est retransmise automatiquement à une personne formée et désignée par l'exploitant, pouvant appartenir à une entreprise de télésurveillance. Cette personne dispose des moyens lui permettant de visualiser à distance les différentes zones pour confirmer le départ d'incendie, et d'alerter dans les meilleurs délais l'exploitant et les services d'incendie et de secours.
+
+En cas d'impossibilité technique pour visualiser à distance les différentes zones, une personne arrive au sein l'installation dans un délai maximal de 15 minutes suivant le début de l'alerte afin d'effectuer une levée de doute et ainsi alerter immédiatement l'exploitant et les services d'incendie et de secours en cas de départ de feu avéré.
+
+Les dispositions du présent article ne s'appliquent pas aux petits îlots.
+
+L'exploitant s'assure de la vérification périodique et de la maintenance des matériels de sécurité et de lutte contre l'incendie conformément aux règles en vigueur. Ces vérifications font l'objet d'un rapport annuel de contrôle.
+
+Objet du contrôle :
+
+-présence d'un système de détection automatique et d'alarme incendie pour les zones concernées (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+-présence du rapport de contrôle datant de moins d'un an.
+
+4.1.2. Rondes
+
+I.-L'exploitant organise des rondes dans les zones contenant des déchets combustibles ou inflammables afin de détecter au plus tôt un départ d'incendie ou un échauffement anormal selon les modalités suivantes :
+
+a) Lorsque personne n'est présent sur le site après sa fermeture, l'exploitant organise une ronde dans l'ensemble de ces zones à la fermeture du site et deux heures après le dernier arrivage de déchets sur le site ;
+
+b) Lorsque l'exploitant organise une présence permanente sur le site, il s'assure que des rondes régulières sont effectuées dans l'ensemble des zones en dehors des périodes où des tris et traitements sont effectués.
+
+II.-L'exploitant détermine les consignes concernant :
+
+-la fréquence et les conditions de réalisation des rondes ;
+
+-le parcours des rondes et les points d'observation ;
+
+-la formation du personnel concerné ;
+
+-le matériel adapté à la détection précoce d'incendie avec lequel les rondes sont effectuées et sa maintenance lorsqu'il n'y a pas de système de détection fixe ;
+
+-les actions à entreprendre selon des critères définis préalablement et visant à éviter tout départ de feu ou à en limiter les conséquences au minimum.
+
+Objet du contrôle :
+
+-présence des consignes conformes.
 
 4.1.3. Plan de défense contre l'incendie
 
@@ -666,30 +746,22 @@ NIVEAU DE BRUIT AMBIANT EXISTANT
 
 dans les zones à émergence réglementée
 
-(incluant le bruit de l'installation) |
-
-ÉMERGENCE ADMISSIBLE
+(incluant le bruit de l'installation)ÉMERGENCE ADMISSIBLE
 
 pour la période allant de 7 h à 22 h,
 
-sauf dimanches et jours fériés |
-
-ÉMERGENCE ADMISSIBLE
+sauf dimanches et jours fériésÉMERGENCE ADMISSIBLE
 
 pour la période allant de 22 h à 7 h,
 
-ainsi que les dimanches et jours fériés |
+ainsi que les dimanches et jours fériés
 
-Supérieur à 35 et inférieur ou égal à 45 dB (A) |
+Supérieur à 35 et inférieur ou égal à 45 dB (A)6 dB (A)4 dB (A)
 
-6 dB (A) |
-
-4 dB (A) |
-
-Supérieur à 45 dB (A) |
-
-5 dB (A) |
-
-3 dB (A) |
+Supérieur à 45 dB (A)5 dB (A)3 dB (A)
 
 De plus, le niveau de bruit en limite de propriété de l'installation ne dépasse pas, lorsqu'elle est en fonctionnement, 70 dB (A) pour la période de jour et 60 dB (A) pour la période de nuit, sauf si le bruit résiduel pour la période considérée est supérieur à cette limite.
+
+NOTA :
+
+Conformément à l'article 18 de l'arrêté du 6 mai 2025 (NOR : TECP2431986A), ces dispositions s'appliquent à partir du 1er janvier 2026.
