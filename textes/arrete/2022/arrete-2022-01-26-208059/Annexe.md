@@ -72,7 +72,7 @@ Code de l'action sociale et des familles, notamment l'article L. 311-7.
 
 4. Durée
 
-L'expérimentation nationale se déroule jusqu'au 31 décembre 2025.
+L'expérimentation nationale se déroule jusqu'au 31 décembre 2027.
 
 5. Structures concernées
 
