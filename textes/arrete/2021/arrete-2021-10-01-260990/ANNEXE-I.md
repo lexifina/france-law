@@ -22,6 +22,10 @@ L'éco-organisme assure la continuité de ses missions relatives à la préventi
 
 2.1. Elaboration des modulations
 
+A compter du 1er janvier 2026, pour ce qui concerne l'incorporation de matière recyclée plastique, l'éco-organisme accorde une prime aux contenants de produits chimiques incorporant de la matière plastique recyclée dans les conditions fixées à l'arrêté du 5 septembre 2025 fixant les modulations applicables aux contributions financières versées par les producteurs lorsqu'ils incorporent des matières plastiques recyclées sauf pour les produits pyrotechniques relevant du 1° du III de l'article R. 543-228 et les extincteurs et autres appareils à fonction extinctrice relevant du 2° du même article.
+
+Une prime ne peut être accordée à un produit affecté d'une pénalité, à l'exception des primes liées à l'incorporation de matières recyclées.
+
 L'éco-organisme propose au ministre chargé de l'environnement, dans les conditions prévues à l'article R. 541-99, des primes et pénalités associées aux critères de performance environnementale pertinents portant au moins sur les quatre critères suivants, lorsque la nature des produits relevant de son agrément le justifie :
 
 - l'incorporation de matières recyclées ;
@@ -235,3 +239,7 @@ Lorsqu'il est agréé pour ces catégories de produits, l'éco-organisme réalis
 Pour les éco-organismes titulaires d'un agrément au 1er janvier 2020, ces expérimentations sont réalisées d'ici le 1er juillet 2022. Pour les autres éco-organismes, ces expérimentations sont réalisées dans les vingt-quatre mois suivant leur premier agrément.
 
 L'éco-organisme communique au ministre chargé de l'environnement un bilan de ces expérimentations dans les trois mois suivants leur achèvement.
+
+NOTA :
+
+Conformément à l'article 11 de l'arrêté du 5 septembre 2025 (NOR : TECP2506054A), ces dispositions, dans leur rédaction résultant de l'annexe III de l'arrêté précité, entrent en vigueur le 1er janvier 2026.

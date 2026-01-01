@@ -24,11 +24,15 @@ Tout éco-organisme exerce son agrément pour l'ensemble des familles de produit
 
 L'éco-organisme propose au ministre chargé de l'environnement, dans les conditions prévues à l'article R. 541-99, des primes et pénalités associées aux critères de performance environnementale pertinents portant au moins sur le critère de disponibilité des pièces détachées, lorsque la nature des produits le justifie.
 
+Une prime ne peut être accordée à un produit affecté d'une pénalité, à l'exception des primes liées à l'incorporation de matière recyclées.
+
 Dans les conditions prévues à l'article R. 541-99, l'éco-organisme peut également proposer des primes et pénalités associées aux autres critères de performance environnementale qui sont mentionnés à l'article L. 541-10-3.
 
-2.2. Etude relative à l'intégration des matières recyclées dans les jouets
+2.2. Etude et modulations relative à l'intégration des matières recyclées dans les jouets
 
 L'éco-organisme réalise une étude portant sur les possibilités d'incorporation de matières recyclées dans les jouets et la remet au ministre chargé de l'environnement au plus tard trois ans à compter de la date de son agrément. Cette étude est accompagnée de propositions de primes ou pénalités associées à l'incorporation de matières recyclées, lorsque la nature des produits le justifie.
+
+A compter du 1er janvier 2026, pour ce qui concerne l'incorporation de matière recyclée plastique, l'éco-organisme accorde une prime aux jouets incorporant de la matière plastique recyclée dans les conditions fixées à l'arrêté du 5 septembre 2025 fixant les modulations applicables aux contributions financières versées par les producteurs lorsqu'ils incorporent des matières plastiques recyclées.
 
 2.3. Etude relative au recyclage des déchets de jouets
 

@@ -32,6 +32,10 @@ L'éco-organisme propose au ministre chargé de l'environnement, dans les condit
 
 Dans les conditions prévues à l'article R. 541-99, l'éco-organisme peut également proposer des primes et pénalités associées aux autres critères de performance environnementale qui sont mentionnés à l'article L. 541-10-3.
 
+Une prime ne peut être accordée à un produit affecté d'une pénalité, à l'exception des primes liées à l'incorporation de matière recyclées.
+
+A compter du 1er janvier 2026, pour ce qui concerne l'incorporation de matière recyclée plastique, l'éco-organisme accorde une prime aux articles de sport et de loisirs incorporant de la matière plastique recyclée dans les conditions fixées à l'arrêté du 5 septembre 2025 fixant les modulations applicables aux contributions financières versées par les producteurs lorsqu'ils incorporent des matières plastiques recyclées.
+
 2.2. Etude relative à l'intégration des matières recyclées dans les articles de sport et de loisirs
 
 L'éco-organisme réalise une étude portant sur les possibilités d'incorporation de matières recyclées dans les articles de sport et de loisirs et la remet au ministre chargé de l'environnement au plus tard trois ans à compter de la date de son agrément.

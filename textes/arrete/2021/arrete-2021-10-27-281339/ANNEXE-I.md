@@ -4,7 +4,9 @@ CAHIER DES CHARGES DES ÉCO-ORGANISMES
 
 annexé à l'arrêté du 27 octobre 2021 portant cahiers des charges des éco-organismes, des systèmes individuels
 
-et des organismes coordonnateurs de la filière à responsabilité élargie du producteur des équipements électriques et électroniques |
+et des organismes coordonnateurs de la filière à responsabilité élargie du producteur des équipements électriques et électroniques
+
+|
 
 1. Orientations générales
 
@@ -32,11 +34,17 @@ c) La présence de substances dangereuses ;
 
 d) L'incorporation de matière recyclée.
 
+Une prime ne peut être accordée à un produit affecté d'une pénalité, à l'exception des primes liées à l'incorporation de matières recyclées.
+
 2.2 Soutien aux projets de recherche et développement
 
 L’éco-organisme consacre sur la durée de l’agrément au moins 1 M€ au financement des projets de recherche et développement visant à développer la réparabilité des cycles et engins de déplacements personnel motorisés.
 
 Il organise en lien avec les éco-organismes agréés sur la filière de gestion des batteries portables et/ ou des batteries destinées aux moyens de transport légers (batteries MTL) un appel à projets sur les techniques de repérage précoce des batteries et déchets de batteries pouvant être source significative de danger au cours du tri et du traitement des déchets d'équipements électriques et électroniques.
+
+2.3 Incorporation de matières plastiques recyclées
+
+A compter du 1er janvier 2026, pour ce qui concerne l'incorporation de matières plastiques recyclées, l'éco-organisme accorde une prime aux équipements électriques et électroniques incorporant de la matière plastique recyclée dans les conditions fixées à l'arrêté du 5 septembre 2025 fixant les modulations applicables aux contributions financières versées par les producteurs lorsqu'ils incorporent des matières plastiques recyclées.
 
 3. Dispositions relatives à la collecte et au traitement des équipements électriques et électroniques
 
@@ -94,7 +102,9 @@ Catégories mentionnées au II de l'article R. 543-172 : |
 
 Pourcentages minimaux de valorisation des quantités de DEEE
 
-collectés séparément pour chaque catégorie |
+collectés séparément pour chaque catégorie
+
+|
 
 1-Équipements d'échange thermique |
 
@@ -126,7 +136,9 @@ collectés séparément pour chaque catégorie |
 
 Objectifs de recyclage et de préparation en vue de la réutilisation
 
-applicables à compter de l'année 2024 |
+applicables à compter de l'année 2024
+
+|
 
 Catégories mentionnées au II de l'article R. 543-172 : |
 
@@ -134,7 +146,9 @@ Pourcentages minimaux de recyclage et de préparation
 
 en vue de la réutilisation des quantités de DEEE
 
-collectés séparément pour chaque catégorie |
+collectés séparément pour chaque catégorie
+
+|
 
 1-Équipements d'échange thermique |
 
@@ -348,7 +362,9 @@ L’éco-organisme met en œuvre les actions nécessaires pour au moins atteindr
 
 Nombre minimal de sites (*) et de réparateurs itinérants labellisés
 
-dans le cadre du fonds réparation |
+dans le cadre du fonds réparation
+
+|
 
 Au plus tard le 31 décembre 2024 |
 
@@ -640,4 +656,6 @@ Lorsque le contrat type unique relatif à la prise en charge des DEEE collectés
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 27 mars 2025 (NOR : TECP2417238A), ces dispositions entrent en vigueur le 18 août 2025.
+Conformément à l'article 11 de l'arrêté du 5 septembre 2025 (NOR : TECP2506054A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er janvier 2026.
+
+Par la décision n° 509270 du 25 septembre 2026 du Conseil d’Etat statuant au contentieux ECLI:FR:CECHS:2026:509270.20260925, sont annulés les troisième et quatrième alinéas de l’annexe II de l’arrêté de la ministre de la transition écologique, de la biodiversité, de la forêt, de la mer et de la pêche du 5 septembre 2025.

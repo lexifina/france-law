@@ -38,29 +38,19 @@ A défaut d'accord de l'autorité administrative, les contributions financières
 
 2.1.1. Critères généraux
 
-A compter du 1er janvier 2025, les contributions financières versées par les producteurs à l'éco-organisme sont modulées a minima selon des primes et des pénalités dont les critères et les montants sont définis dans le tableau suivant :
+Les contributions financières versées par les producteurs à l'éco-organisme sont modulées a minima selon des primes et des pénalités dont les critères et les montants sont définis dans le tableau suivant :
 
 Critère |
 
-Eléments de preuve témoignant à minima de : |
+Eléments de preuve témoignant
 
-Montant de la prime
+a minima de |
 
-ou de la pénalité
+Montant de la prime ou de la pénalité
 
-(€/kg d'élément d'ameublement) |
+(€/kg d'éléments d'ameublement) |
 
 Emploi de ressources renouvelables gérées durablement |
-
-Elément d'ameublement comportant au minimum :
-
-75 % en masse de bois massifs issu de ressources renouvelables gérées durablement et certifié PEFC ou FSC
-
-ou
-
-50 % en masse de panneaux de particule de bois issu de ressources renouvelables gérées durablement et certifié PEFC ou FSC
-
-ou
 
 50 % en masse de mousse ou de textile provenant de ressources renouvelables, gérées durablement et certifié OEKOTEX Made in Green, CERTIPUR ou EUROLATEX |
 
@@ -68,17 +58,15 @@ Prime
 
 0,05 |
 
-Emploi de ressources renouvelables non gérées durablement |
-
-Elément d'ameublement majoritairement composé de bois non certifié PEFC ou FSC |
+Elément d'ameublement majoritairement composé de bois non certifié PEFC ou FSC ou autre certification équivalente |
 
 Pénalité
 
-0, 15 |
+0,15 |
 
-Durabilité |
+Allongement de la durée d'usage |
 
-Elément d'ameublement de conception évolutive permettant de lui conférer de multiples usages successifs. |
+Elément d'ameublement de conception évolutive ou réparable permettant d'allonger dans la pratique sa durée d'usage |
 
 Prime
 
@@ -86,23 +74,13 @@ Prime
 
 Recyclabilité |
 
-Elément d'ameublement éligible à la mention " Elément d'ameublement entièrement recyclable " en application de l'article R. 541-221 |
+Elément d'ameublement éligible à la mention "Elément d'ameublement entièrement recyclable " en application de l'article R. 541-221 |
 
 Prime
 
-0,1 |
+0,01 |
 
-Présence de substances empêchant l'utilisation des bois issus de DEA dans les installations de combustion |
-
-Eléments physiques ou substances chimiques susceptibles d'empêcher la valorisation du bois issu de DEA en installation de combustion |
-
-Pénalité
-
-0, 15 |
-
-Perturbateur de recyclage |
-
-Eléments physiques ou substances chimiques susceptibles de perturber le tri et le recyclage ou incompatibles avec le recyclage. |
+Eléments physiques ou substances chimiques susceptibles de perturber le tri et le recyclage ou la valorisation dans d'autres modes de valorisation. |
 
 Pénalité
 
@@ -110,7 +88,7 @@ Pénalité
 
 Pour les critères ci-dessus, l'éco-organisme intègre dans son dossier de demande d'agrément une proposition de catégories de produits et les montants des modulations associées. Il peut modifier cette proposition dans les conditions prévues à l'article R. 541-99.
 
-Aucune prime ne peut être accordée à un produit affecté d'une pénalité prévue par le présent cahier des charges ou établie par l'éco-organisme dans les conditions de l'article R. 541-99.
+Une prime ne peut être accordée à un produit affecté d'une pénalité, à l'exception des primes mentionnées au 2.1.2.
 
 Les primes sont cumulables entre elles et les pénalités également.
 
@@ -118,39 +96,19 @@ L'éco-organisme, le cas échéant sous l'égide de l'organisme coordonnateur, e
 
 2.1.2. Critères relatifs à l'incorporation de matières recyclées
 
-A compter du 1er juillet 2024, les contributions financières versées par les producteurs à l'éco-organisme sont modulées selon les primes associées à l'incorporation de matières premières issues du recyclage dont les montants sont définis dans le tableau suivant :
+Les contributions financières versées par les producteurs à l'éco-organisme sont modulées selon les primes associées à l'incorporation de matières premières issues du recyclage dont les montants sont définis dans le tableau suivant :
 
 Matériaux composant le meuble |
 
-Matière recyclée incorporée dans le produit
-
-mis en marché |
+Matière recyclée incorporée dans le produit mis en marché |
 
 Prime en euros par tonne de matière recyclée incorporée dans le produit mis sur le marché |
 
 Pour les matériaux bois |
 
-Bois issus du recyclage en boucle ouverte de déchets de bois post-consommateur, collectés ou soutenus par un éco-organisme agréé |
+Bois issus du recyclage en boucle ouverte de déchets de bois post-consommateur, collectés ou soutenus par un éco-organisme agréé, au-delà d'un seuil de 35 % |
 
 40 |
-
-Pour les matériaux plastiques |
-
-Polyéthylène haute densité (PEHD) issu du recyclage en boucle ouverte de déchets de PEHD post-consommateur, collectés ou soutenus par un éco-organisme agréé |
-
-450 |
-
-Polypropylène (PP) issu du recyclage en boucle ouverte de déchets de PP post-consommateur, collectés ou soutenus par un éco-organisme agréé |
-
-450 |
-
-Polystyrène (PS), y compris polystyrène expansé (PSE) issu du recyclage en boucle ouverte de déchets de PS ou PSE post-consommateur, collectés ou soutenus par un éco-organisme agréé |
-
-550 |
-
-Mousse polyuréthane (PU) issu du recyclage en boucle ouverte de déchets de PU post-consommateur, collectés ou soutenus par un éco-organisme agréé |
-
-450 |
 
 Pour les matériaux textiles |
 
@@ -158,7 +116,9 @@ Matières premières issues du recyclage en boucle ouverte de déchets collecté
 
 500 |
 
-Ces montants sont majorés lorsque les matériaux sont recyclés à moins de 1500 km de leur lieu de collecte. L'éco-organisme transmet pour accord au ministre chargé de l'environnement avant le 1er juillet 2024 les montants de ces majorations.
+Les montants des primes d'intégration sont versés dans la limite d'un recyclage effectif des matériaux dans un produit dans une unité située à moins de 1 500 km de leur lieu de collecte.
+
+A compter du 1er janvier 2026, l'éco-organisme accorde une prime aux éléments d'ameublement incorporant de la matière plastique recyclée dans les conditions fixées à l'arrêté du 5 septembre 2025 fixant les modulations applicables aux contributions financières versées par les producteurs lorsqu'ils incorporent des matières plastiques recyclées.
 
 L'éco-organisme réalise, en lien avec l'ADEME, et en concertation avec les opérateurs de gestion de déchets, une étude portant sur les possibilités d'incorporation de matières recyclées dans les éléments d'ameublement, et la remet au ministre chargé de l'environnement au plus tard le 31 décembre 2024.
 
@@ -450,7 +410,7 @@ Les quantités orientées vers la valorisation énergétique au sein de l'instal
 
 3.4. Maillage
 
-En application de l'article R. 541-103, l'éco-organisme présente avant le 30 janvier de chaque année un bilan, pour chaque région, de l'évolution du réseau de maillage de ses points de collecte, qui précise a minima pour l'année précédente le nombre de points de collecte en service par type de points de collecte et son évolution, en distinguant les points relevant de l'obligation de reprise par les distributeurs, ainsi que les projets de déploiement pour l'année en cours.
+En application de l'article R. 541-103, l'éco-organisme présente avant le 31 mai de chaque année un bilan, pour chaque région, de l'évolution du réseau de maillage de ses points de collecte, qui précise a minima pour l'année précédente le nombre de points de collecte en service par type de points de collecte et son évolution, en distinguant les points relevant de l'obligation de reprise par les distributeurs, ainsi que les projets de déploiement pour l'année en cours.
 
 Le bilan présente également les quantités d'EA usagés collectés par types de points de collecte durant l'année précédente et l'évolution de ces quantités depuis la date de délivrance de son agrément.
 

@@ -4,7 +4,7 @@ CAHIER DES CHARGES DES ÉCO-ORGANISMES
 
 1. Orientations générales
 
-L'éco-organisme contribue à la prévention et à la gestion des déchets d'emballages servant à commercialiser des produits consommés ou utilisés par les ménages (ci-après dénommés &laquo; déchets d'emballages ménagers &raquo;) y compris ceux susceptibles de l'être et ceux consommés hors foyer, des imprimés papiers et des papiers à usage graphique mentionnés au 1° de l'article L. 541-10-1 du code de l'environnement pour le compte des producteurs qui lui ont transféré leur obligation de responsabilité élargie en application du I de l'article L. 541-10.
+L'éco-organisme contribue à la prévention et à la gestion des déchets d'emballages servant à commercialiser des produits consommés ou utilisés par les ménages (ci-après dénommés "déchets d'emballages ménagers") y compris ceux susceptibles de l'être et ceux consommés hors foyer, des imprimés papiers et des papiers à usage graphique mentionnés au 1° de l'article L. 541-10-1 du code de l'environnement pour le compte des producteurs qui lui ont transféré leur obligation de responsabilité élargie en application du I de l'article L. 541-10.
 
 L'éco-organisme exerce son agrément pour l'ensemble des emballages ménagers, imprimés papiers et papiers à usage graphique, mentionnés au 1 de l'article L. 541-10-1 du code de l'environnement. Lorsque plusieurs éco-organismes sont agréés, les obligations du présent cahier des charges sont appréciées pour chacun des éco-organismes au prorata des quantités des produits susmentionnés mis sur le marché l'année précédente par les producteurs qui leur ont transféré l'obligation de responsabilité élargie. Le contrat type d'adhésion à l'éco-organisme est conclu par année civile entière et pour la totalité des emballages ménagers, imprimés papiers et papiers à usage graphique de l'adhérent.
 
@@ -88,69 +88,7 @@ L'éco-organisme propose des primes et pénalités portant au moins sur les crit
 
 2.2.2.4. Primes relatives à l'incorporation de matières plastiques recyclées
 
-L'éco-organisme accorde une prime aux emballages de produits en plastique qui incorporent au moins 10 % de matières plastiques issues du recyclage des emballages ménagers, industriels ou commerciaux.
-
-Le montant de la prime est déterminé en fonction de la quantité en masse de matières issues du recyclage incorporées. L'incorporation de matière issue du recyclage d'emballages ménagers donne lieu à une prime supplémentaire en fonction de la quantité en masse de matières issues du recyclage de certaines catégories d'emballages ménagers incorporées.
-
-A partir de 2025, pour les bouteilles pour boisson en PET clair, cette prime est accordée pour la part d'incorporation de matière recyclée dépassant le taux d'incorporation fixé par l'article D. 543-45-2.
-
-Les montants de ces primes, ainsi que les catégories de produits susmentionnées, sont les suivants :
-
-Type de résine plastique recyclée |
-
-Montant de la prime en € par kg de matière plastique issue du recyclage d'emballages
-
-incorporée |
-
-Montant de la prime supplémentaire en € par kg de matière plastique issue du recyclage
-
-d'emballages ménagers incorporée |
-
-Polytéréphtalate d'éthylène (PET) |
-
-0,05 |
-
-0,35 (*) |
-
-Polyéthylène basse densité (PEBD) |
-
-0,40 |
-
-0,15 |
-
-Polyéthylène haute densité (PEHD) |
-
-0,45 |
-
-- |
-
-Polypropylène (PP) |
-
-0,45 |
-
-- |
-
-Polystyrène (PS) |
-
-0,45 |
-
-- |
-
-(*) La prime supplémentaire est applicable aux barquettes et pots qui incorporent de la matière plastique recyclée en PET issue de barquettes et pots.
-
-La quantité de matière issue du recyclage incorporée est prise en compte par paliers de 5 %.
-
-L'utilisation de chutes de production résultant de la fabrication de ce type d'emballage ne donne pas lieu à une prime.
-
-Ces primes sont financées par les contributions relatives à la mise sur le marché de produits dont le matériau majoritaire de l'emballage est en plastique.
-
-Ces primes sont octroyées sous réserve que :
-
-- la matière est issue du recyclage de déchets soumis au plus tard en 2025 à un dispositif de responsabilité élargie du producteur répondant aux exigences minimales fixées à l'article 8 bis de la directive 2008/98/CE modifiée relative aux déchets ;
-
-- les matériaux sont recyclés à moins de 1 500 km de leur lieu de collecte ; et
-
-- l'ensemble des installations de tri des déchets, de préparation au recyclage et de recyclage respectent les dispositions équivalentes à celles du titre Ier du livre V du code de l'environnement.
+L'éco-organisme accorde une prime aux emballages en plastique incorporant de la matière plastique recyclée dans les conditions fixées à l'arrêté du 5 septembre 2025 fixant les modulations applicables aux contributions financières versées par les producteurs lorsqu'ils incorporent des matières plastiques recyclées.
 
 2.2.3. Primes et pénalités applicables aux imprimés papiers et papiers à usage graphique
 
@@ -214,7 +152,7 @@ L'éco-organisme réalise pour le 30 juin 2025 :
 
 - une étude visant à préciser la notion d'emballages inutiles mentionnée dans le décret relatif aux objectifs de réduction, de réutilisation et de réemploi, et de recyclage des emballages en plastique à usage unique et à établir des recommandations à l'attention de ses adhérents ;
 
-- une étude visant à évaluer les gisements de déchets de plastiques issus de &laquo; récipients pour aliments &raquo; et de &laquo; sachets et emballages en matière souple &raquo; visés par la directive UE 2019/904.
+- une étude visant à évaluer les gisements de déchets de plastiques issus de "récipients pour aliments" et de "sachets et emballages en matière souple" visés par la directive UE 2019/904.
 
 2.6. Cas particuliers des déclarations des metteurs sur le marché d'imprimés papiers et de papiers à usage graphique et des émetteurs de publication de presse
 
@@ -246,43 +184,31 @@ L'éco-organisme mène une concertation avec les parties prenantes pour réviser
 
 Pour l'application du 1° du I de l'article L. 541-1, l'éco-organisme met en œuvre les actions nécessaires pour au moins atteindre l'objectif de réduction de la production de déchets défini dans le tableau suivant. Cet objectif est défini comme étant la différence entre la quantité de déchets (en masse) d'emballages ménagers produite par habitant durant l'année considérée et celle produite en 2010 rapportée à la quantité de déchets (en masse) d'emballages ménagers produite par habitant en 2010.
 
-Objectif global de réduction des déchets d'emballages ménagers |
+Objectif global de réduction des déchets d'emballages ménagers
 
-Année concernée |
+Année concernée2030
 
-2030 |
-
-Pourcentage minimal de réduction |
-
-- 15 % |
+Pourcentage minimal de réduction- 15 %
 
 3.2. Objectif de réduction de la production de déchets des bouteilles pour boissons en plastique à usage unique
 
 Pour application du I de l'article L. 541-10-11, l'éco-organisme met en œuvre les actions nécessaires pour au moins atteindre l'objectif de réduction de la production de déchets de bouteilles pour boissons en plastique à usage unique défini dans le tableau suivant. Cet objectif est défini comme étant la différence entre le nombre de bouteilles pour boissons en plastique à usage unique mises sur le marché durant l'année considérée et le nombre de bouteilles mises sur le marché en 2018, rapportée à la quantité de bouteilles pour boissons en plastique à usage unique produite en 2018.
 
-Objectif de réduction des déchets de bouteilles pour boissons en plastique à usage unique |
+Objectif de réduction des déchets de bouteilles pour boissons en plastique à usage unique
 
-Année concernée |
+Année concernée2030
 
-2030 |
-
-Pourcentage minimal de réduction |
-
-- 50 % |
+Pourcentage minimal de réduction- 50 %
 
 3.3. Objectif de réduction de la production de déchets d'emballages ménagers en plastique à usage unique
 
 Pour l'atteinte des objectifs fixés dans le décret n° 2021-517 relatif aux objectifs de réduction, de réutilisation et de réemploi, et de recyclage des emballages en plastique à usage unique pour la période 2021-2025 en application de l'article L. 541-10-17, l'éco-organisme met en œuvre les actions nécessaires pour au moins atteindre l'objectif de réduction de la production de déchets d'emballages ménagers en plastique à usage unique défini dans le tableau suivant. Cet objectif est défini comme étant la différence entre la quantité de déchets plastiques (en masse) issus d'emballages ménagers en plastique à usage unique produite durant l'année considérée et celle produite en 2018, rapportée à la quantité de déchets plastiques (en masse) issus d'emballages ménagers en plastique à usage unique produite en 2018.
 
-Objectif de réduction des déchets d'emballages ménagers en plastique à usage unique |
+Objectif de réduction des déchets d'emballages ménagers en plastique à usage unique
 
-Année concernée |
+Année concernée2025
 
-2025 |
-
-Pourcentage minimal de réduction |
-
-- 20 % |
+Pourcentage minimal de réduction- 20 %
 
 Les emballages ménagers en plastique à usage unique sont les emballages ménagers relevant du 3° de l'article 1er du décret susmentionné.
 
@@ -298,63 +224,29 @@ L'éco-organisme s'assure annuellement du respect de ces trajectoires. Lorsque l
 
 Pour l'atteinte des objectifs fixés dans le décret n° 2021-517 relatif aux objectifs de réduction, de réutilisation et de réemploi, et de recyclage des emballages en plastique à usage unique pour la période 2021-2025 en application de l'article L. 541-10-17, l'éco-organisme met en œuvre les actions nécessaires pour au moins atteindre l'objectif de réemploi et de réutilisation des emballages ménagers défini dans le tableau suivant. Cet objectif est défini comme étant la quantité (en masse) d'emballages ménagers en plastique à usage unique dont la mise sur le marché a pu être évité en raison d'opérations de réemploi ou d'opérations de préparation en vue de la réutilisation durant l'année considérée, rapportée à la quantité (en masse) de plastique des emballages ménagers mis sur le marché en 2018.
 
-Objectif de réemploi et de réutilisation des emballages ménagers en substitution aux emballages ménagers en plastique à usage unique |
+Objectif de réemploi et de réutilisation des emballages ménagers en substitution aux emballages ménagers en plastique à usage unique
 
-Année concernée |
+Année concernée2025
 
-2025 |
-
-Pourcentage minimal d'emballages ménagers en plastique à usage unique dont la mise sur le marché a pu être évitée en raison d'une opération de réemploi ou une opération de préparation en vue de la réutilisation |
-
-10 % |
+Pourcentage minimal d'emballages ménagers en plastique à usage unique dont la mise sur le marché a pu être évitée en raison d'une opération de réemploi ou une opération de préparation en vue de la réutilisation10 %
 
 4.2. Objectif de mise sur le marché d'emballages ménagers réemployés
 
 Pour l'application du 1° du I et du III de l'article L. 541-1, l'éco-organisme met en œuvre les actions nécessaires pour au moins atteindre les objectifs de mise sur le marché des emballages ménagers réemployés définis dans le tableau suivant dans les conditions prévues aux articles D. 541-350 et suivants.
 
-Objectif de mise sur le marché d'emballages ménagers réemployés |
+Objectif de mise sur le marché d'emballages ménagers réemployés
 
-Année concernée |
+Année concernée2024202520262027
 
-2024 |
+Pourcentage d'emballages ménagers réemployés mis sur le marchéPour les producteurs déclarant un chiffre d'affaires annuel inférieur à 20 M €
 
-2025 |
+5 %10 %
 
-2026 |
+Pour les producteurs déclarant un chiffre d'affaires annuel compris entre 20 et 50 M €
 
-2027 |
+5 %7 %10 %
 
-Pourcentage d'emballages ménagers réemployés mis sur le marché |
-
-Pour les producteurs déclarant un chiffre d'affaires annuel inférieur à 20 M € |
-
-|
-
-|
-
-5 % |
-
-10 % |
-
-Pour les producteurs déclarant un chiffre d'affaires annuel compris entre 20 et 50 M € |
-
-|
-
-5 % |
-
-7 % |
-
-10 % |
-
-Pour les producteurs déclarant un chiffre d'affaires annuel supérieur à 50 M € |
-
-6 % |
-
-7 % |
-
-8 % |
-
-10 % |
+Pour les producteurs déclarant un chiffre d'affaires annuel supérieur à 50 M €6 %7 %8 %10 %
 
 4.3. Etudes relatives aux trajectoires de réemploi et réutilisation des emballages ménagers
 
@@ -432,119 +324,23 @@ L'éco-organisme met en œuvre les actions nécessaires pour atteindre les objec
 
 5.1.1. Objectifs de recyclage en matière d'emballages ménagers
 
-Taux de recyclage |
+Taux de recyclage
 
-Matériau |
+Matériau202420252026202720282029
 
-2024 |
+Aluminium42 %50 %52 %54 %56 %58 %
 
-2025 |
+Acier78 %80 %81 %82 %83 %84 %
 
-2026 |
+Papier / Carton68 %75 %77 %79 %81 %83 %
 
-2027 |
+Papier carton complexé61 %69 %71 %72 %74 %76 %
 
-2028 |
+Plastique40 %50 %51 %52 %53 %54 %
 
-2029 |
+Verre78 %80 %82 %84 %86 %88 %
 
-Aluminium |
-
-42 % |
-
-50 % |
-
-52 % |
-
-54 % |
-
-56 % |
-
-58 % |
-
-Acier |
-
-78 % |
-
-80 % |
-
-81 % |
-
-82 % |
-
-83 % |
-
-84 % |
-
-Papier / Carton |
-
-68 % |
-
-75 % |
-
-77 % |
-
-79 % |
-
-81 % |
-
-83 % |
-
-Papier carton complexé |
-
-61 % |
-
-69 % |
-
-71 % |
-
-72 % |
-
-74 % |
-
-76 % |
-
-Plastique |
-
-40 % |
-
-50 % |
-
-51 % |
-
-52 % |
-
-53 % |
-
-54 % |
-
-Verre |
-
-78 % |
-
-80 % |
-
-82 % |
-
-84 % |
-
-86 % |
-
-88 % |
-
-Tous emballages |
-
-63 % |
-
-65 % |
-
-66 % |
-
-67 % |
-
-68 % |
-
-69 % |
+Tous emballages63 %65 %66 %67 %68 %69 %
 
 Le taux de recyclage ci-dessus est déterminé, conformément aux dispositions de l'article 6 bis de la directive 94/62/CE du 20 décembre 1994 relative aux emballages et aux déchets d'emballages modifiée, comme étant la quantité de déchets (en masse) d'emballages recyclés déterminés selon les dispositions de la décision de la Commission 2005/270/CE modifiée pour l'année considérée, rapportée à la quantité de déchets (en masse) d'emballages mis en marché par ses adhérents durant l'année considérée.
 
@@ -552,53 +348,21 @@ Ce taux de recyclage prend également en compte les tonnages de déchets d'embal
 
 L'éco-organisme prend les mesures nécessaires pour atteindre des objectifs de recyclage équivalents pour les emballages mixtes alimentaires dont il assure ou soutient la collecte, de façon à respecter les objectifs figurant dans le tableau précédent.
 
-Objectif de collecte pour recyclage des bouteilles plastiques pour boisson à usage unique |
+Objectif de collecte pour recyclage des bouteilles plastiques pour boisson à usage unique
 
-Année concernée |
+Année concernée20252029
 
-2025 |
-
-2029 |
-
-Taux de recyclage |
-
-77 % |
-
-90 % |
+Taux de recyclage77 %90 %
 
 Le taux de collecte pour recyclage est calculé conformément à la décision d'exécution (UE) n° 2021/1752 du 1er octobre 2021.
 
 5.1.2. Objectifs de recyclage en matière d'imprimés papiers et papiers à usage graphique
 
-Taux de recyclage |
+Taux de recyclage
 
-Année |
+Année202420252026202720282029
 
-2024 |
-
-2025 |
-
-2026 |
-
-2027 |
-
-2028 |
-
-2029 |
-
-Taux de recyclage |
-
-66 % |
-
-67 % |
-
-68 % |
-
-69 % |
-
-69 % |
-
-70 % |
+Taux de recyclage66 %67 %68 %69 %69 %70 %
 
 Le taux de recyclage est calculé sur les tonnages soutenus uniquement (tonnages recyclés par les collectivités après réfaction des tonnages non-contribuant) en articulation avec le taux d'acquittement défini au 5.2.3 et sur la base du tonnage contribuant.
 
@@ -690,7 +454,7 @@ Dans le cadre des plans outre-mer prévus au VII de l'article L. 541-10 du code 
 
 5.2.2.4. Reprise et recyclage des emballages ménagers
 
-L'éco-organisme propose, à la place de l'option de &laquo; reprise filière &raquo;, une option de reprise et de recyclage spécifique aux territoires ultra-marins, dans laquelle, il propose aux collectivités territoriales avec lesquelles il a conclu un contrat, une garantie de reprise en toutes circonstances de l'ensemble des déchets d'emballages conformes aux standards, et ce pour chaque standard (à l'exception du standard papiers-cartons complexés), à un prix de reprise positif ou nul, départ du centre de tri ou de l'unité de traitement ou de plateforme de regroupement. L'éco-organisme informe la collectivité territoriale des différents coûts qu'il supporte, des prix de vente et de la destination des matériaux triés. Si pour un standard, les prix de vente sont supérieurs à l'ensemble des coûts supportés, l'écart correspondant est versé à la collectivité territoriale.
+L'éco-organisme propose, à la place de l'option de "reprise filière", une option de reprise et de recyclage spécifique aux territoires ultra-marins, dans laquelle, il propose aux collectivités territoriales avec lesquelles il a conclu un contrat, une garantie de reprise en toutes circonstances de l'ensemble des déchets d'emballages conformes aux standards, et ce pour chaque standard (à l'exception du standard papiers-cartons complexés), à un prix de reprise positif ou nul, départ du centre de tri ou de l'unité de traitement ou de plateforme de regroupement. L'éco-organisme informe la collectivité territoriale des différents coûts qu'il supporte, des prix de vente et de la destination des matériaux triés. Si pour un standard, les prix de vente sont supérieurs à l'ensemble des coûts supportés, l'écart correspondant est versé à la collectivité territoriale.
 
 5.2.3. Taux d'acquittement pour le calcul des tonnages soutenus d'imprimés papiers et papiers à usage graphique
 
@@ -722,65 +486,29 @@ L'éco-organisme verse un soutien calculé sur le résultat du produit des tonne
 
 Les déchets d'emballages ménagers issus de la collecte sélective et conformes aux standards sont soutenus sur la base du soutien unitaire par matériau (TUS) suivant :
 
-Matériau : |
+Matériau :AcierAluminiumPapier carton
 
-Acier |
+non complexéPapier carton
 
-Aluminium |
+complexéPCM (*)PlastiqueVerre
 
-Papier carton
+En €/t :734701773521077768
 
-non complexé |
-
-Papier carton
-
-complexé |
-
-PCM (*) |
-
-Plastique |
-
-Verre |
-
-En €/t : |
-
-73 |
-
-470 |
-
-177 |
-
-352 |
-
-107 |
-
-776 |
-
-8 |
-
-(*) Correspond au standard &laquo; papiers-cartons en mélange à trier &raquo; ou &laquo; papiers-cartons mêlés triés &raquo;.
+(*) Correspond au standard "papiers-cartons en mélange à trier" ou "papiers-cartons mêlés triés".
 
 Le barème unitaire applicable aux tonnages de papiers recyclés et varie suivant le type de standard tel que défini dans le tableau suivant :
 
-Type de standards éligibles |
+Type de standards éligiblesBarème applicable en €/t
 
-Barème applicable en €/t |
+Standard bureautique123
 
-Standard bureautique |
-
-123 |
-
-Standard à désencrer |
-
-110 |
+Standard à désencrer110
 
 Standard papier-carton en mélange à trier
 
-Standard papier-carton mêlés triés |
+Standard papier-carton mêlés triés98
 
-98 |
-
-L'éco-organisme peut prévoir des soutiens différents pour des standards &laquo; expérimentaux &raquo;. Les standards papier-carton en mélange à trier et papier-carton mêlés triés se voient par défaut appliquer un taux conventionnel de présence des papiers graphiques de 70 %.
+L'éco-organisme peut prévoir des soutiens différents pour des standards "expérimentaux". Les standards papier-carton en mélange à trier et papier-carton mêlés triés se voient par défaut appliquer un taux conventionnel de présence des papiers graphiques de 70 %.
 
 L'éco organisme mène une concertation annuelle dans le cadre du comité technique du recyclage pour actualiser annuellement cette valeur. Il transmet pour avis une proposition de taux éventuellement révisé au ministère chargé de l'environnement au plus tard au 1er juillet de chaque année, après avis du comité des parties prenantes.
 
@@ -788,65 +516,17 @@ b) Majoration Outre-mer
 
 Pour les collectivités des territoires d'outre-mer concernées par l'application du 4e alinéa de l'article L. 541-10-2, et conformément au 1° de l'article R. 541-131 du code de l'environnement, les barèmes des soutiens mentionnés aux tableaux précédents sont majorés en leur appliquant les facteurs de multiplication (4) suivants :
 
-Territoire |
+TerritoireMartiniqueGuadeloupeSaint-MartinSaint-Pierre-
 
-Martinique |
+et-MiquelonGuyaneLa Réunion
 
-Guadeloupe |
-
-Saint-Martin |
-
-Saint-Pierre-
-
-et-Miquelon |
-
-Guyane |
-
-La Réunion |
-
-Coefficient verre |
-
-2,1 |
-
-2,1 |
-
-1,9 |
-
-1,9 |
-
-2,1 |
-
-1,9 |
+Coefficient verre2,12,11,91,92,11,9
 
 Coefficient
 
-emballages légers |
+emballages légers2,32,23,93,42,12,3
 
-2,3 |
-
-2,2 |
-
-3,9 |
-
-3,4 |
-
-2,1 |
-
-2,3 |
-
-Coefficient papiers |
-
-4,3 |
-
-4,1 |
-
-6,7 |
-
-6,8 |
-
-4 |
-
-4,3 |
+Coefficient papiers4,34,16,76,844,3
 
 c) Soutien à la performance du recyclage des emballages ménagers
 
@@ -876,89 +556,25 @@ Les valeurs du coefficient de majoration à la performance de recyclage en fonct
 
 Les valeurs des seuils bas, intermédiaire et haut évoluent dans le temps, en fonction de la progression attendue du taux moyen de recyclage, selon le tableau ci-dessous :
 
-Année |
+Année202420252026202720282029
 
-2024 |
+Seuil TMR bas51 %52 %53 %54 %55 %56 %
 
-2025 |
+Seuil TMR intermédiaire66 %67%68 %69 %70 %71 %
 
-2026 |
-
-2027 |
-
-2028 |
-
-2029 |
-
-Seuil TMR bas |
-
-51 % |
-
-52 % |
-
-53 % |
-
-54 % |
-
-55 % |
-
-56 % |
-
-Seuil TMR intermédiaire |
-
-66 % |
-
-67% |
-
-68 % |
-
-69 % |
-
-70 % |
-
-71 % |
-
-Seuil TMR haut |
-
-83 % |
-
-85 % |
-
-87 % |
-
-89 % |
-
-91 % |
-
-93 % |
+Seuil TMR haut83 %85 %87 %89 %91 %93 %
 
 d) Soutien au recyclage des métaux récupérés hors collecte sélective
 
 L'éco-organisme soutient les tonnes orientées vers le recyclage des métaux récupérés sur les unités de traitement des ordures ménagères (mâchefers d'incinération, traitement biologique) dans les conditions suivantes :
 
-En €/t : |
+En €/t :Acier de mâcheferAluminium de mâcheferAcier issu de traitement
 
-Acier de mâchefer |
+biologiqueAluminium issu
 
-Aluminium de mâchefer |
+de traitement biologique
 
-Acier issu de traitement
-
-biologique |
-
-Aluminium issu
-
-de traitement biologique |
-
-|
-
-12 |
-
-75 |
-
-62 |
-
-400 |
+127562400
 
 Pour une collectivité donnée, les tonnes prises en compte sont calculées au prorata de ses tonnes d'ordures ménagères entrantes dans une unité de traitement sur la totalité des tonnes entrantes dans l'unité de traitement.
 
@@ -1012,39 +628,15 @@ a) Soutin exceptionnel à l'investissement pour l'année 2024
 
 Dans le cadre des modalités d'accompagnement des collectivités définies au 5.2.1.3, l'éco-organisme verse des soutiens à l'investissement dans le cadre d'appels à projet. L'enveloppe de ces soutiens consacrés annuellement par l'éco-organisme référent pour chaque territoire d'outre-mer est la suivante :
 
-Territoire |
+TerritoireMartiniqueGuadeloupeSaint-MartinSaint-Pierre-
 
-Martinique |
-
-Guadeloupe |
-
-Saint-Martin |
-
-Saint-Pierre-
-
-et-Miquelon |
-
-Guyane |
-
-La Réunion |
+et-MiquelonGuyaneLa Réunion
 
 Montant
 
 des soutiens annuels
 
-(en €/habitant [*]) |
-
-9,9 |
-
-18,2 |
-
-22,2 |
-
-4,3 |
-
-8 |
-
-7,1 |
+(en €/habitant [*])9,918,222,24,387,1
 
 (*) Les territoires en pourvoi ne sont pas considérés pour la détermination des soutiens. Le nombre d'habitants du territoire concerné pris en compte est celui de la dernière estimation de population donnée par l'INSEE.
 
@@ -1082,23 +674,15 @@ Conformément à l'article R. 541-116 du code de l'environnement, l'éco-organis
 
 L'éco-organisme verse un soutien financier selon le barème suivant :
 
-Typologie de milieu de la collectivité |
+Typologie de milieu de la collectivitéMontant
 
-Montant
+(€/habitant/an)
 
-(€/habitant/an) |
+Urbain : commune dont la population est égale ou supérieure à 5 000 habitants permanents3,2
 
-Urbain : commune dont la population est égale ou supérieure à 5 000 habitants permanents |
+Rural : commune dont la population est inférieure à 5 000 habitants permanents0,9
 
-3,2 |
-
-Rural : commune dont la population est inférieure à 5 000 habitants permanents |
-
-0,9 |
-
-Urbain dense : communes dont la population est égale ou supérieure à 50 000 habitants permanents |
-
-4,3 |
+Urbain dense : communes dont la population est égale ou supérieure à 50 000 habitants permanents4,3
 
 Touristique (hors urbain dense) : communes qui remplissent au moins l'un des critères suivants :
 
@@ -1108,9 +692,7 @@ Touristique (hors urbain dense) : communes qui remplissent au moins l'un des cri
 
 - au moins 10 commerces pour 1 000 habitants
 
-|
-
-3,5 |
+3,5
 
 Pour les collectivités des territoires d'outre-mer concernées par l'application du quatrième alinéa de l'article L. 541-10-2 du code de l'environnement relatif à la majoration du barème, les barèmes de soutiens mentionnés au tableau précédant sont majorés en leur appliquant un coefficient multiplicateur de 1,7.
 
@@ -1262,9 +844,9 @@ L'éco-organisme met en œuvre les moyens nécessaires à l'évaluation de l'opp
 
 L'éco-organisme propose à toute collectivité territoriale de choisir, à l'exception des flux mentionnés aux 6.3 à 6.5 dont la reprise et le recyclage sont organisés par l'éco-organisme, des options de reprise et de recyclage présentant un niveau d'engagement et de contraintes variables suivant :
 
-- option 1 (option de &laquo; reprise Filière &raquo; garantie par l'éco-organisme et mise en œuvre par les filières matériaux et emballages) : pour chaque matériau, l'éco-organisme conclut des conventions avec les filières matériaux et emballages, lui permettant de garantir aux collectivités, une reprise, en toutes circonstances, des déchets d'emballages ménagers conformes aux standards selon un prix de reprise unique, public, positif ou nul au départ du centre de tri ou de l'unité de traitement ou de la plateforme de regroupement pour le verre sur l'ensemble du territoire ;
+- option 1 (option de "reprise Filière" garantie par l'éco-organisme et mise en œuvre par les filières matériaux et emballages) : pour chaque matériau, l'éco-organisme conclut des conventions avec les filières matériaux et emballages, lui permettant de garantir aux collectivités, une reprise, en toutes circonstances, des déchets d'emballages ménagers conformes aux standards selon un prix de reprise unique, public, positif ou nul au départ du centre de tri ou de l'unité de traitement ou de la plateforme de regroupement pour le verre sur l'ensemble du territoire ;
 
-- option 2 (option de &laquo; reprise Fédérations &raquo; mise en œuvre par les fédérations professionnelles) : l'éco-organisme conclut des conventions avec des fédérations professionnelles représentant des acteurs en charge de la reprise et du recyclage des déchets d'emballages ménagers garantissant aux collectivités une reprise de ces déchets sur l'ensemble du territoire ;
+- option 2 (option de "reprise Fédérations" mise en œuvre par les fédérations professionnelles) : l'éco-organisme conclut des conventions avec des fédérations professionnelles représentant des acteurs en charge de la reprise et du recyclage des déchets d'emballages ménagers garantissant aux collectivités une reprise de ces déchets sur l'ensemble du territoire ;
 
 - option 3 (option de reprise individuelle) : la collectivité sélectionne elle-même son repreneur et passe directement avec lui les accords nécessaires.
 
@@ -1290,11 +872,9 @@ L'éco-organisme fait réaliser à ses frais, en 2026, sur la base des données 
 
 S'agissant des déchets d'emballages plastiques du flux développement, l'éco-organisme met en œuvre les actions nécessaires pour atteindre l'objectif annuel de recyclage défini dans le tableau suivant. Cet objectif est défini comme étant la quantité (en masse) de déchets d'emballages plastiques triés et conformes au standard flux développement qui sont orientés vers des filières de recyclage l'année considérée, rapportée à la quantité de ces déchets dont la reprise est organisée par l'éco-organisme la même année. A cet effet, l'éco-organisme passe les marchés de surtri et de recyclage ainsi requis.
 
-Objectif annuel de recyclage applicable à compter de l'année 2025 |
+Objectif annuel de recyclage applicable à compter de l'année 2025
 
-Taux de recyclage des déchets d'emballages plastiques du flux développement |
-
-90 % |
+Taux de recyclage des déchets d'emballages plastiques du flux développement90 %
 
 6.4. Modalités de la reprise et du recyclage par l'éco-organisme du standard matériau plastique simplifié
 
@@ -1522,7 +1102,7 @@ Les éco-organismes agréés se coordonnent sous l'égide de l'organisme coordon
 
 Les éco-organismes agréés se coordonnent sous l'égide de l'organisme coordonnateur en vue de soumettre, pour accord auprès du ministre chargé de l'environnement, une proposition conjointe sur les sujets suivants :
 
-- l'étude visant à évaluer les gisements de déchets de plastiques issus de &laquo; récipients pour aliments &raquo; et de &laquo; sachets et emballages en matière souple &raquo; visés par la directive UE 2019/904 prévue au 2.5 ;
+- l'étude visant à évaluer les gisements de déchets de plastiques issus de "récipients pour aliments" et de "sachets et emballages en matière souple" visés par la directive UE 2019/904 prévue au 2.5 ;
 
 - l'étude technique relative à la réduction forfaitaire correspondant à la part nationale de papiers qui ne sont pas collectés et traités par le service public de gestion des déchets mentionnée au 2.6 ;
 
@@ -1571,3 +1151,7 @@ Des objectifs cibles permettant d'apprécier la performance de collecte pour rec
 (4) Ces facteurs de multiplication sont issus de l'actualisation des coûts de référence des services publics de gestion des déchets d'emballages ménagers et des papiers graphiques en outre-mer.
 
 (5) REP emballages ménagers et papiers graphiques - règle de calcul de l'équilibrage.
+
+NOTA :
+
+Conformément à l'article 11 de l'arrêté du 5 septembre 2025 (NOR : TECP2506054A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er janvier 2026.
