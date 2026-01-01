@@ -10,7 +10,7 @@ POINTS |
 
 SGAMI NORD |
 
-Directeur des Systèmes d'Information et de Communication (DSIC) |
+Directeur des systèmes d'information et de communication (DSIC) |
 
 A |
 
@@ -20,7 +20,7 @@ Adjoint au directeur des systèmes d'information et de communication (DSIC) |
 
 A |
 
-25 |
+30 |
 
 Chef département des réseaux fixes (DRF) |
 
@@ -52,17 +52,11 @@ A |
 
 15 |
 
-Adjoint au chef du département des réseaux fixes (DRF) |
+Chef de section sécurité et sûreté (S2S) |
 
 A |
 
-10 |
-
-Adjoint au chef des départements des systèmes d'information et de soutien informatique (DSISI) |
-
-A |
-
-10 |
+15 |
 
 Adjoint au chef du département des réseaux mobiles |
 
@@ -212,25 +206,25 @@ B |
 
 SGAMI OUEST |
 
-Chef du département des systèmes d'information (Rennes) |
+Chef du bureau déploiement, exploitation et maintenance |
 
 A |
 
 20 |
 
-Chef du bureau études et projets |
+Chef du bureau des études et projets |
 
 A |
 
 20 |
 
-Adjoint au chef du bureau-chef de la section études et projets secteur Nord |
+Adjoint au chef du bureau des études et projets-chef de la section études et projets secteur Nord |
 
 A |
 
 15 |
 
-Chef du bureau défense et sécurité des systèmes d'information + DZSN |
+Chef du bureau de la sécurité et de la sûreté + DZSN |
 
 A |
 
@@ -242,13 +236,13 @@ A |
 
 15 |
 
-Adjoint au chef du bureau-chef de la section déploiement exploitation maintenance secteur Nord |
+Adjoint au chef du bureau du déploiement, de l'exploitation et de la maintenance-chef de la section déploiement exploitation maintenance secteur Nord |
 
 A |
 
 15 |
 
-Chef du bureau de l'innovation et développement de logiciel |
+Chef du bureau de l'innovation et du développement logiciel |
 
 A |
 
@@ -320,7 +314,7 @@ B |
 
 10 |
 
-Adjoint DZSN et adjoint au chef du bureau sécurité et sureté |
+Adjoint au chef du bureau de la sécurité et de la sureté-adjoint DZSN |
 
 A/ B |
 
@@ -332,7 +326,7 @@ A/ B |
 
 10 |
 
-Adjoint au chef du bureau-Chef de la section développement de logiciel et support aux applications |
+Adjoint au chef du bureau de l'innovation et du développement logiciel-Chef de la section développement de logiciel et support aux applications |
 
 A/ B |
 
@@ -476,7 +470,7 @@ A |
 
 20 |
 
-Chef du pôle Etudes et Exploitation applicatives (Toulouse) |
+Chef du pôle études et exploitation applicatives (Toulouse) |
 
 A |
 
@@ -494,7 +488,7 @@ A |
 
 20 |
 
-Chef du pôle Défense SSI et Evénements Marseille |
+Chef du pôle défense SSI et événements Marseille |
 
 A |
 
@@ -606,10 +600,10 @@ B |
 
 Adjoint au sous-directeur des technologies |
 
-B |
+A |
 
 12 |
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 21 janvier 2025 (NOR : INTA2502298A), ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément à l'article 2 de l'arrêté du 3 décembre 2025 (NOR : INTH2527689A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er janvier 2026.

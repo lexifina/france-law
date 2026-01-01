@@ -14,7 +14,7 @@ A |
 
 15 |
 
-02. Chef du pôle numérique du SGCD, adjointe à la directrice (SGCD de l'Aisne) |
+02. Chef du pôle numérique du SGCD, adjoint au directeur (SGCD de l'Aisne) |
 
 A/ B |
 
@@ -32,11 +32,17 @@ A/ B |
 
 15 |
 
-05. Chef du Service du Numérique et des SIC des Hautes-Alpes |
+05. Chef du service du numérique et des SIC des Hautes-Alpes |
 
 A/ B |
 
-15 |
+5 |
+
+05. Adjoint au chef du Service du Numérique et des SIC des Hautes-Alpes |
+
+A/ B |
+
+10 |
 
 06. Chef du service SIC du SGC des Alpes-Maritimes |
 
@@ -134,9 +140,7 @@ A/ B |
 
 15 |
 
-17. Adjoint au chef du service interministériel départemental des relations
-
-avec les usagers |
+17. Adjoint au chef du service interministériel départemental des relations avec les usagers |
 
 B |
 
@@ -190,7 +194,7 @@ B/ C |
 
 10 |
 
-22. Chef du Service Numérique (SGCD des Côtes-d'Armor) |
+22. Chef du service numérique (SGCD des Côtes-d'Armor) |
 
 A/ B |
 
@@ -246,7 +250,7 @@ A |
 
 29. Chef du standard régional (SGCD du Finistère) |
 
-A |
+B |
 
 10 |
 
@@ -282,7 +286,7 @@ A |
 
 34. Chef adjoint du SIDSIC (SGCD de l'Hérault) |
 
-B/ C |
+A/ B |
 
 10 |
 
@@ -292,9 +296,7 @@ A/ B |
 
 15 |
 
-35. Responsable de l'accueil général et du standard de la préfecture
-
-et du SGCD d'Ille-et-Vilaine |
+35. Responsable de l'accueil général et du standard de la préfecture et du SGCD d'Ille-et-Vilaine |
 
 B |
 
@@ -366,9 +368,7 @@ A/ B |
 
 15 |
 
-44. Chef du service des systèmes d'information et de communication
-
-de la Loire-Atlantique |
+44. Chef du service des systèmes d'information et de communication de la Loire-Atlantique |
 
 A/ B |
 
@@ -476,9 +476,7 @@ A/ B |
 
 15 |
 
-59. Chef du Service des Systèmes d'informations et de la Transformation Numérique
-
-(SSITN) du Nord (SGCD du Nord) |
+59. Chef du service des systèmes d'informations et de la transformation numérique (SSITN) du Nord (SGCD du Nord) |
 
 A/ B |
 
@@ -556,27 +554,25 @@ A/ B |
 
 15 |
 
-67/68. Préfecture du Bas-Rhin-Personnel du standard téléphonique mutualisé 67/68
-
-Coordonnateur du standard interdépartemental |
+68. Responsable du standard mutualisé de la préfecture du Haut-Rhin |
 
 B/ C |
 
 10 |
 
-68. Chef du SDSIC du Haut-Rhin |
+68. Chef du SIDSIC du Haut-Rhin |
 
 A/ B |
 
 15 |
 
-69. Directeur de l'innovation et de la transformation (SGCD du Rhône) |
+69. Directeur de l'innovation et de la transformation numériques (SGCD du Rhône) |
 
 A |
 
 15 |
 
-69. Responsable du centre opérateur H24 (SGCD du Rhône) |
+69. Chef du pôle " centre opérateurs H24 " (SGCD du Rhône) |
 
 B |
 
@@ -606,9 +602,7 @@ A |
 
 15 |
 
-74. Adjoint au directeur du SGCD de la Haute-Savoie, chef du service des systèmes
-
-d'information et de communication (SSIC) |
+74. Adjoint au directeur du SGCD de la Haute-Savoie, chef du service des systèmes d'information et de communication (SSIC) |
 
 A/ B |
 
@@ -620,9 +614,7 @@ A/ B |
 
 10 |
 
-76. Chef du SIDSIC de la Seine-Maritime-Responsable de la sécurité de système
-
-d'information (RSSI) |
+76. Chef du SIDSIC de la Seine-Maritime-Responsable de la sécurité de système d'information (RSSI) |
 
 A |
 
@@ -634,13 +626,13 @@ B/ C |
 
 10 |
 
-77. Chef du Département Numérique de Seine-et-Marne |
+77. Chef du département numérique de Seine-et-Marne |
 
 A/ B |
 
 15 |
 
-77. Adjoint au chef du Département Numérique de Seine-et-Marne |
+77. Adjoint au chef du département numérique de Seine-et-Marne |
 
 A/ B |
 
@@ -670,15 +662,13 @@ A |
 
 15 |
 
-80. Chef du bureau réseau/ Serveur et RSSI de la Somme |
+80. Chef du bureau réseau/ serveur et RSSI de la Somme |
 
 B/ C |
 
 10 |
 
-81. Chef du Service interministériel des systèmes d'information et de communication
-
-du SGCD du Tarn |
+81. Chef du service interministériel des systèmes d'information et de communication du SGCD du Tarn |
 
 A/ B |
 
@@ -714,7 +704,7 @@ A/ B |
 
 15 |
 
-86. Chef du pôle Systèmes d'information et de communication de la Vienne |
+86. Chef du pôle systèmes d'information et de communication de la Vienne |
 
 A/ B |
 
@@ -762,12 +752,6 @@ B/ C |
 
 10 |
 
-91. Chef du SIDSIC de l'Essonne |
-
-A/ B |
-
-15 |
-
 92. Chef du pôle numérique des Hauts-de-Seine |
 
 A/ B |
@@ -792,13 +776,13 @@ B/ C |
 
 10 |
 
-94. Directeur de la DIDNSIC au SGCD du Val-de-Marne |
+94. Chef du SINUM du Val-de-Marne |
 
 A/ B |
 
 15 |
 
-94. Responsable des systèmes de vidéo-protection et des alarmes du Val-de-Marne |
+94. Adjoint au chef du SINUM du Val-de-Marne |
 
 A/ B |
 
@@ -854,4 +838,4 @@ A/ B |
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 21 janvier 2025 (NOR : INTA2502298A), ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément à l'article 2 de l'arrêté du 3 décembre 2025 (NOR : INTH2527689A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er janvier 2026.
