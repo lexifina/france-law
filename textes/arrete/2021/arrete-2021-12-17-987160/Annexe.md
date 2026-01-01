@@ -1,30 +1,36 @@
 # Article Annexe
 
-ANNEXE
-
 Etat-major, direction ou service employeur |
 
 Emplois
 
-de 1er niveau |
+de 1er niveau
+
+|
 
 Emplois
 
-de 2e niveau |
+de 2e niveau
+
+|
 
 Emplois
 
-de 3e niveau |
+de 3e niveau
+
+|
 
 Emplois
 
-de 4e niveau |
+de 4e niveau
+
+|
 
 Cabinet du ministre de la défense |
 
-9 |
-
 8 |
+
+7 |
 
 17 |
 
@@ -32,13 +38,13 @@ Cabinet du ministre de la défense |
 
 Etat-major des armées |
 
-833 |
+781 |
 
-2 959 |
+2 847 |
 
-4 607 |
+4 228 |
 
-13 825 |
+13 768 |
 
 Secrétariat général de la défense et de la sécurité nationale |
 
@@ -62,9 +68,9 @@ Direction générale de l'armement |
 
 Secrétariat général pour l'administration |
 
-21 |
+20 |
 
-87 |
+83 |
 
 165 |
 
@@ -102,9 +108,9 @@ Commissariat au numérique de défense |
 
 Direction générale de la sécurité extérieure |
 
-14 |
+13 |
 
-62 |
+61 |
 
 144 |
 
@@ -182,48 +188,58 @@ Direction de la protection des installations, moyens et activités de la défens
 
 TOTAL |
 
-952 |
+897 |
 
-3 224 |
+3106 |
 
-5 360 |
+4981 |
 
-14 894 |
+14837 |
 
-Emplois relevant de l'article L. 2513-4
+Emplois relevant de l'article L. 2513-4 du code général
 
-du code général des collectivités territoriales |
+des collectivités territoriales
 
-Emplois
-
-de 1er niveau |
+|
 
 Emplois
 
-de 2e niveau |
+de 1er niveau
+
+|
 
 Emplois
 
-de 3e niveau |
+de 2e niveau
+
+|
 
 Emplois
 
-de 4e niveau |
+de 3e niveau
+
+|
+
+Emplois
+
+de 4e niveau
+
+|
 
 Bataillon de marins-pompiers de Marseille |
 
-2 |
+1 |
 
-25 |
+17 |
 
-40 |
+37 |
 
 203 |
 
 TOTAL |
 
-270 |
+258 |
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 13 octobre 2025 (NOR : ARMH2528072A), ces dispositions, dans leur rédaction issue de l'article 1er de l'arrêté précité, sont applicables aux rémunérations versées à compter du mois d'octobre 2025.
+Conformément à l'article 3 de l'arrêté du 26 décembre 2025 (NOR : ARMH2535106A), ces dispositions, dans leur rédaction résultant de l'article 1er de l'arrêté précité, entrent en vigueur le 1er janvier 2026.
