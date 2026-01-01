@@ -26,19 +26,11 @@ Les analyses sont de type Ress0, Ress1, Ress2, Cdt1, Cdt2, Cdt3, Cdt4, Th1, Th2 
 
 -Th2 qui correspond au programme d'analyses par bassin pour les soins externes collectifs d'un établissement thermal.
 
-Tableau 1.-Contenu des analyses à effectuer sur les échantillons d'eau
+Tableau 1.-Contenu des analyses à effectuer sur les échantillons d'eau prélevés à l'émergence, par captage
 
-prélevés à l'émergence, par captage
+PARAMÈTRES À RECHERCHER (X) OU NON (/) dans l'eau minérale naturelle (EMN), l'eau de source (ES) ou l'eau rendue potable par traitements (ERPT) |
 
-PARAMÈTRES À RECHERCHER (X) OU NON (/)
-
-dans l'eau minérale naturelle (EMN), l'eau de source (ES)
-
-ou l'eau rendue potable par traitements (ERPT) (3) |
-
-TYPE D'ANALYSES
-
-à la ressource |
+TYPE D'ANALYSES à la ressource |
 
 Ress0 |
 
@@ -48,7 +40,7 @@ Ress2 |
 
 A.-Analyses microbiologiques |
 
-Spores de micro-organismes anaérobies sulfito-réducteurs dans 50 ml |
+Spores de micro-organismes anaérobies sulfito-réducteurs dans 50 mL |
 
 x |
 
@@ -56,7 +48,7 @@ x |
 
 / |
 
-Bactéries coliformes dans 250 ml |
+Bactéries coliformes dans 250 mL |
 
 x |
 
@@ -64,7 +56,7 @@ x |
 
 / |
 
-Escherichia coli dans 250 ml |
+Escherichia coli dans 250 mL |
 
 x |
 
@@ -72,7 +64,7 @@ x |
 
 / |
 
-Cryptosporidium dans 100 l |
+Cryptosporidium dans 100 L |
 
 x |
 
@@ -80,7 +72,7 @@ x |
 
 / |
 
-Giardia dans 100 l |
+Giardia dans 100 L |
 
 x |
 
@@ -88,7 +80,7 @@ x |
 
 / |
 
-Entérocoques intestinaux dans 250 ml |
+Entérocoques intestinaux dans 250 mL |
 
 x |
 
@@ -96,15 +88,7 @@ x |
 
 / |
 
-Legionella sp. dans 1 l |
-
-x |
-
-/ |
-
-A |
-
-Legionella pneumophila dans 1 l |
+Legionella sp. dans 1 L |
 
 x |
 
@@ -112,7 +96,15 @@ x |
 
 A |
 
-Numération des germes aérobies revivifiables à 22° C dans 1 ml |
+Legionella pneumophila dans 1 L |
+
+x |
+
+/ |
+
+A |
+
+Numération des germes aérobies revivifiables à 22° C dans 1 mL |
 
 x |
 
@@ -120,7 +112,7 @@ x |
 
 / |
 
-Numération des germes aérobies revivifiables à 36° C dans 1 ml |
+Numération des germes aérobies revivifiables à 36° C dans 1 mL |
 
 x |
 
@@ -128,7 +120,7 @@ x |
 
 / |
 
-Pseudomonas aeruginosa dans 250 ml (l'analyse est à réaliser au moins trois jours après le prélèvement ou le conditionnement, à l'exception des échantillons d'eau minérale naturelle utilisée à des fins thérapeutiques dans un établissement thermal) |
+Pseudomonas aeruginosa dans 250 mL (l'analyse est à réaliser au moins trois jours après le prélèvement ou le conditionnement, à l'exception des échantillons d'eau minérale naturelle utilisée à des fins thérapeutiques dans un établissement thermal) |
 
 x |
 
@@ -228,7 +220,7 @@ x |
 
 C |
 
-Sulfures totaux (exprimés en mg/L de H2S) (analyse sur site ou après piégeage sur site) |
+Sulfures totaux (exprimés en mg/ L de H2S) (analyse sur site ou après piégeage sur site) |
 
 x |
 
@@ -361,6 +353,22 @@ x |
 Chlore total (analyse sur site) |
 
 x |
+
+/ |
+
+/ |
+
+Chlorates |
+
+E |
+
+/ |
+
+/ |
+
+Chlorites |
+
+E |
 
 / |
 
@@ -556,9 +564,9 @@ x |
 
 / |
 
-E |
+F |
 
-Autres oligo-éléments (vanadium, molybdène, cobalt...) présents le cas échéant dans l'eau minérale naturelle |
+Autres oligo-éléments (vanadium, molybdène, cobalt …) présents le cas échéant dans l'eau minérale naturelle |
 
 x |
 
@@ -568,7 +576,7 @@ x |
 
 Paramètres organiques |
 
-Acrylamide (3) |
+Acrylamide |
 
 x |
 
@@ -648,7 +656,7 @@ x |
 
 / |
 
-Chlorure de vinyle monomère |
+Chlorure de vinyle |
 
 x |
 
@@ -656,7 +664,7 @@ x |
 
 / |
 
-1,2/ dichloroéthane |
+1,2 dichloroéthane |
 
 x |
 
@@ -664,7 +672,7 @@ x |
 
 / |
 
-Benzo (b) fluoranthène |
+Benzo [b] fluoranthène |
 
 x |
 
@@ -672,7 +680,7 @@ x |
 
 / |
 
-Benzo (k) fluoranthène |
+Benzo [k] fluoranthène |
 
 x |
 
@@ -680,7 +688,7 @@ x |
 
 / |
 
-Benzo (ghi) pérylène |
+Benzo [ghi] pérylène |
 
 x |
 
@@ -688,7 +696,7 @@ x |
 
 / |
 
-Indéno (1,2,3-cd) pyrène |
+Indéno [1,2,3-cd] pyrène |
 
 x |
 
@@ -704,7 +712,7 @@ x |
 
 / |
 
-Benzo (a) pyrène |
+Benzo [a] pyrène |
 
 x |
 
@@ -728,7 +736,15 @@ x |
 
 / |
 
-Pesticides (1) |
+Perfluorés (par substance individuelle) (2) |
+
+E |
+
+/ |
+
+/ |
+
+Pesticides (3) |
 
 x |
 
@@ -736,7 +752,7 @@ x |
 
 / |
 
-Epichlorhydrine (3) |
+Epichlorhydrine |
 
 x |
 
@@ -760,9 +776,9 @@ x |
 
 / |
 
-Microcystines |
+Total microcystines |
 
-F |
+G |
 
 / |
 
@@ -770,7 +786,7 @@ F |
 
 C.-Radioactivité |
 
-Activité alpha globale (2) |
+Activité alpha globale (4) |
 
 x |
 
@@ -778,19 +794,7 @@ x |
 
 / |
 
-Radon (4) (5)
-
-|
-
-x
-
-|
-
-|
-
-|
-
-Activité bêta globale (2) |
+Radon (5) (6) |
 
 x |
 
@@ -798,7 +802,15 @@ x |
 
 / |
 
-Tritium (2) |
+Activité bêta globale résiduelle (4) |
+
+x |
+
+/ |
+
+/ |
+
+Activité tritium (4) |
 
 x |
 
@@ -820,41 +832,73 @@ B : à rechercher si l'eau est naturellement gazeuse.
 
 C : à rechercher si c'est une EMN.
 
-D : la mesure n'est réalisée que quand l'EMN est sulfurée et alimente un établissement thermal.
+D : la mesure n'est réalisée que quand l'EMN est sulfurée et alimente un établissement thermal. E : paramètre à rechercher si c'est une ES ou une ERPT.
 
-E : paramètre à rechercher si l'EMN ou l'ES fait mention du caractère approprié de l'eau pour l'alimentation du nourrisson.
+F : paramètre à rechercher si l'EMN ou l'ES fait mention du caractère approprié de l'eau pour l'alimentation du nourrisson.
 
-F : la mesure est réalisée uniquement pour les eaux d'origine superficielle rendue potable par traitement. L'analyse est seulement nécessaire lorsque des observations visuelles ou analytiques mettent en évidence un risque de prolifération de cyanobactéries.
+G : la mesure est réalisée uniquement pour les eaux rendues potables par traitement d'origine superficielle. L'analyse est seulement nécessaire lorsque des observations visuelles ou analytiques mettent en évidence un risque de prolifération de cyanobactéries.
 
-(1) Par pesticides, on entend les insecticides, herbicides, fongicides, nématocides, acaricides, algicides, rodenticides, produits antimoisissures organiques et produits apparentés, notamment les régulateurs de croissance et leurs métabolites, produits de réaction et de dégradation pertinents. Par total des pesticides, on entend la somme de tous les pesticides individualisés détectés et quantifiés.
+(1) En cas de valeur supérieure à 6 µg/ L, il est procédé à l'analyse du chrome VI.
+
+(2) Les substances susceptibles d'être présentes doivent être recherchées en priorité. A minima, les substances suivantes, qui sont considérées comme préoccupantes pour les EDCH, doivent être recherchées :
+
+-Acide perfluorobutanoïque (PFBA)
+
+-Acide perfluoropentanoïque (PFPeA)
+
+-Acide perfluorohexanoïque (PFHxA)
+
+-Acide perfluoroheptanoïque (PFHpA)
+
+-Acide perfluoroctanoïque (PFOA)
+
+-Acide perfluorononanoïque (PFNA)
+
+-Acide perfluorodécanoïque (PFDA)
+
+-Acide perfluoroundécanoïque (PFUnDA)
+
+-Acide perfluorododécanoïque (PFDoDA)
+
+-Acide perfluorotridécanoïque (PFTrDA)
+
+-Acide perfluorobutanesulfonique (PFBS)
+
+-Acide perfluoropentanesulfonique (PFPeS)
+
+-Acide perfluorohexane sulfonique (PFHxS)
+
+-Acide perfluoroheptane sulfonique (PFHpS)
+
+-Acide perfluorooctane sulfonique (PFOS)
+
+-Acide perfluorononane sulfonique (PFNS)
+
+-Acide perfluorodécane sulfonique (PFDS)
+
+-Acide perfluoroundécane sulfonique
+
+-Acide perfluorododécane sulfonique
+
+-Acide perfluorotridécane sulfonique
+
+(3) Par pesticides, on entend les insecticides, herbicides, fongicides, nématocides, acaricides, algicides, rodenticides, produits antimoisissures organiques et produits apparentés, notamment les régulateurs de croissance et leurs métabolites, produits de réaction et de dégradation pertinents. Par total des pesticides, on entend la somme de tous les pesticides individualisés détectés et quantifiés.
 
 Les substances susceptibles d'être présentes doivent être recherchées en priorité.
 
-(2) En cas de valeurs de l'activité alpha globale supérieures à 0,1 Bq/ l ou de l'activité bêta globale résiduelle supérieures à 1,0 Bq/L ou du tritium supérieures à 100 Bq/ l, il est procédé à l'analyse des radionucléides spécifiques définie dans l'arrêté mentionné à l'article R. 1321-20 du code de la santé publique.
+(4) En cas de valeurs de l'activité alpha globale supérieures à 0,1 Bq/ l ou de l'activité bêta globale résiduelle supérieures à 1,0 Bq/ L ou de l'activité tritium supérieures à 100 Bq/ l, il est procédé à l'analyse des radionucléides spécifiques définie dans l'arrêté mentionné à l'article R. 1321-20 du code de la santé publique.
 
-Afin de déterminer l'activité bêta globale résiduelle, le potassium doit être recherché concomitamment à la mesure des paramètres radiologiques. La mesure du potassium est réalisée lors de la mesure de l'équilibre calcocarbonique.
+Afin de déterminer l'activité bêta globale résiduelle, le potassium doit être recherché concomitamment à la mesure des paramètres radiologiques.
 
-(3) La limite de qualité se réfère à la concentration résiduelle en monomères dans l'eau calculée conformément aux spécifications de la migration maximale du polymère correspondant en contact avec l'eau.
+(5) S'agissant des modalités de mise en œuvre, se référer à l'arrêté pris en application de l'article R. 1321-15 du code de la santé publique pour la mesure du radon dans le cadre du contrôle sanitaire des eaux.
 
-(4) S'agissant des modalités de mise en œuvre, se référer à l'arrêté pris en application de l'article R. 1321-15 du code de la santé publique pour la mesure du radon dans le cadre du contrôle sanitaire des eaux.
+(6) A rechercher pour les eaux de source et les eaux rendues potables par traitements d'origine souterraine. |
 
-(5) A rechercher pour les eaux de source et les eaux rendues potables par traitements d'origine souterraine.
+Tableau 2.-Contenu des analyses à effectuer sur les échantillons d'eau prélevés aux points où les eaux sont conditionnées, avant ou après soutirage, ou au point de puisage à la buvette publique
 
-|
+PARAMÈTRES À RECHERCHER (X) OU NON (/) dans l'eau minérale naturelle (EMN), l'eau de source (ES) ou l'eau rendue potable par traitements (ERPT) |
 
-Tableau 2.-Contenu des analyses à effectuer sur les échantillons d'eau prélevés aux points
-
-où les eaux sont conditionnées, avant ou après soutirage, ou au point de puisage à la buvette publique
-
-PARAMÈTRES À RECHERCHER (X) OU NON (/)
-
-dans l'eau minérale naturelle (EMN), l'eau de source (ES)
-
-ou l'eau rendue potable par traitements (ERPT) (3) |
-
-TYPE D'ANALYSES À RÉALISER AU POINT
-
-où les eaux sont conditionnées, avant ou après soutirage |
+TYPE D'ANALYSES À RÉALISER AU POINT où les eaux sont conditionnées, avant ou après soutirage |
 
 Cdt1 |
 
@@ -866,7 +910,7 @@ Cdt4 |
 
 A.-Analyses microbiologiques |
 
-Spores de micro-organismes anaérobies sulfito-réducteurs dans 50 ml |
+Spores de micro-organismes anaérobies sulfito-réducteurs dans 50 mL |
 
 A |
 
@@ -876,7 +920,7 @@ A |
 
 / |
 
-Bactéries coliformes dans 250 ml |
+Bactéries coliformes dans 250 mL |
 
 x |
 
@@ -886,7 +930,7 @@ x |
 
 / |
 
-Escherichia coli dans 250 ml |
+Escherichia coli dans 250 mL |
 
 x |
 
@@ -896,7 +940,7 @@ x |
 
 / |
 
-Entérocoques intestinaux dans 250 ml |
+Entérocoques intestinaux dans 250 mL |
 
 x |
 
@@ -906,7 +950,7 @@ x |
 
 / |
 
-Numération des germes aérobies revivifiables à 22° C dans 1 ml |
+Numération des germes aérobies revivifiables à 22° C dans 1 mL |
 
 x |
 
@@ -916,7 +960,7 @@ x |
 
 / |
 
-Numération des germes aérobies revivifiables à 36° C dans 1 ml |
+Numération des germes aérobies revivifiables à 36° C dans 1 mL |
 
 x |
 
@@ -926,7 +970,7 @@ x |
 
 / |
 
-Pseudomonas aeruginosa dans 250 ml (l'analyse est à réaliser au moins trois jours après le prélèvement ou le conditionnement) |
+Pseudomonas aeruginosa dans 250 mL (l'analyse est à réaliser au moins trois jours après le prélèvement ou le conditionnement) |
 
 x |
 
@@ -1132,7 +1176,7 @@ x |
 
 / |
 
-Chrome |
+Chrome (1) |
 
 / |
 
@@ -1362,7 +1406,7 @@ F |
 
 / |
 
-Autres oligo-éléments (lithium, vanadium, molybdène, cobalt...) présents le cas échéant dans l'eau minérale naturelle |
+Autres oligo-éléments (lithium, vanadium, molybdène, cobalt …) présents le cas échéant dans l'eau minérale naturelle |
 
 / |
 
@@ -1374,7 +1418,17 @@ D |
 
 Paramètres organiques |
 
-Acrylamide (3) |
+Acides haloacétiques (2) |
+
+/ |
+
+/ |
+
+G |
+
+/ |
+
+Acrylamide |
 
 / |
 
@@ -1474,7 +1528,7 @@ x |
 
 / |
 
-1,2/ dichloroéthane |
+1,2 dichloroéthane |
 
 / |
 
@@ -1484,7 +1538,7 @@ x |
 
 / |
 
-Benzo (b) fluoranthène |
+Benzo [b] fluoranthène |
 
 / |
 
@@ -1494,7 +1548,7 @@ x |
 
 / |
 
-Benzo (k) fluoranthène |
+Benzo [k] fluoranthène |
 
 / |
 
@@ -1504,7 +1558,7 @@ x |
 
 / |
 
-Benzo (ghi) pérylène |
+Benzo [ghi] pérylène |
 
 / |
 
@@ -1514,7 +1568,7 @@ x |
 
 / |
 
-Indéno (1,2,3-cd) pyrène |
+Indéno [1,2,3-cd] pyrène |
 
 / |
 
@@ -1524,7 +1578,7 @@ x |
 
 / |
 
-Benzo (a) pyrène |
+Benzo [a] pyrène |
 
 / |
 
@@ -1534,7 +1588,7 @@ x |
 
 / |
 
-Pesticides (1) |
+Pesticides (3) |
 
 / |
 
@@ -1544,7 +1598,7 @@ x |
 
 / |
 
-Epichlorhydrine (3) |
+Epichlorhydrine |
 
 / |
 
@@ -1574,9 +1628,39 @@ x |
 
 / |
 
+Bisphénol A |
+
+/ |
+
+/ |
+
+H |
+
+/ |
+
+Total microcystines (4) |
+
+/ |
+
+/ |
+
+I |
+
+/ |
+
+Perfluorés (par substance individuelle) (5) |
+
+/ |
+
+/ |
+
+H |
+
+/ |
+
 C.-Radioactivité |
 
-Activité alpha globale (2) |
+Activité alpha globale (6) |
 
 / |
 
@@ -1584,19 +1668,9 @@ Activité alpha globale (2) |
 
 / |
 
-G, F |
+F, J |
 
-Activité bêta globale (2) |
-
-/ |
-
-/ |
-
-/ |
-
-G, F |
-
-Tritium (2) |
+Activité bêta globale (6) |
 
 / |
 
@@ -1604,9 +1678,19 @@ Tritium (2) |
 
 / |
 
-G, F |
+F, J |
 
-Autres radionucléides pour le calcul de la dose indicative (DI) (2) |
+Actibité tritium (6) |
+
+/ |
+
+/ |
+
+/ |
+
+F, J |
+
+Autres radionucléides pour le calcul de la dose indicative (DI) (6) |
 
 / |
 
@@ -1614,33 +1698,67 @@ Autres radionucléides pour le calcul de la dose indicative (DI) (2) |
 
 / |
 
-G, F |
+F, J |
 
-A : paramètre à rechercher en Cdt1 si c'est une ERPT, sinon en Cdt2 ou Cdt3.
+A : paramètre à rechercher en Cdt1 si c'est une ERPT, sinon en Cdt2 ou Cdt3. B : paramètre à rechercher en Cdt2 si l'eau est gazeuse. C : paramètre à rechercher en Cdt2 si l'eau fait l'objet d'un traitement à l'air enrichi en ozone. D : paramètre à rechercher en Cdt2 si c'est une EMN. E : paramètre à rechercher en Cdt1 si l'eau a fait l'objet d'un traitement à base d'aluminium ou de fer, sinon en Cdt2. F : paramètre à rechercher systématiquement pour les eaux faisant état du caractère approprié pour l'alimentation des nourrissons.
 
-B : paramètre à rechercher en Cdt2 si l'eau est gazeuse.
+G : paramètre à rechercher en Cdt3 si c'est une ERPT qui a fait l'objet d'un traitement de désinfection de l'eau susceptible de générer des acides haloacétiques. H : paramètre à rechercher en Cdt3 si c'est une ES ou une ERPT.
 
-C : paramètre à rechercher en Cdt2 si l'eau fait l'objet d'un traitement à l'air enrichi en ozone.
+I : paramètre à rechercher en Cdt3 si c'est une ERPT, lorsque des observations visuelles ou analytiques mettent en évidence un risque de prolifération de cyanobactéries.
 
-D : paramètre à rechercher en Cdt2 si c'est une EMN.
+J : paramètre à rechercher en Cdt4 si l'eau présente, à la ressource, un dépassement de l'activité alpha globale, ou de l'activité bêta globale résiduelle, ou du tritium par rapport aux références de qualité définies pour les ES/ ERPT et aux limites de qualité définies pour les EMN/ ES faisant mention du caractère approprié de l'eau pour l'alimentation du nourrisson fixées dans l'arrêté du 14 mars 2007 modifié relatif aux critères de qualité des eaux conditionnées, aux traitements et mentions d'étiquetage particuliers des eaux minérales naturelles et de source conditionnées ainsi que de l'eau minérale naturelle distribuée en buvette publique.
 
-E : paramètre à rechercher en Cdt1 si l'eau a fait l'objet d'un traitement à base d'aluminium ou de fer, sinon en Cdt2.
+(1) En cas de valeur supérieure à 6 µg/ L, il est procédé à l'analyse du chrome VI.
 
-F : paramètre à rechercher systématiquement pour les eaux faisant état du caractère approprié pour l'alimentation des nourrissons.
+(2) On entend la somme des 5 paramètres suivants : acide chloroacétique, dichloroacétique et trichloroacétique, et acide bromoacétique et dibromoacétique.
 
-G : paramètre à rechercher en Cdt4 si l'eau présente, à la ressource, un dépassement de l'activité alpha globale, ou de l'activité bêta globale résiduelle, ou du tritium par rapport aux références de qualité définies pour les ES/ ERPT et aux limites de qualité définies pour les EMN/ ES faisant mention du caractère approprié de l'eau pour l'alimentation du nourrisson fixées dans l'arrêté du 14 mars 2007 modifié relatif aux critères de qualité des eaux conditionnées, aux traitements et mentions d'étiquetage particuliers des eaux minérales naturelles et de source conditionnées ainsi que de l'eau minérale naturelle distribuée en buvette publique.
+(3) Par pesticides, on entend les insecticides, herbicides, fongicides, nématocides, acaricides, algicides, rodenticides, produits antimoisissures organiques et produits apparentés, notamment les régulateurs de croissance et leurs métabolites, produits de réaction et de dégradation pertinents. Par total des pesticides, on entend la somme de tous les pesticides individualisés détectés et quantifiés. Les substances susceptibles d'être présentes doivent être recherchées en priorité. (4) Par total microcystines, on entend la somme de toutes les microcystines détectées et quantifiées.
 
-(1) Par pesticides, on entend les insecticides, herbicides, fongicides, nématocides, acaricides, algicides, rodenticides, produits antimoisissures organiques et produits apparentés, notamment les régulateurs de croissance et leurs métabolites, produits de réaction et de dégradation pertinents. Par total des pesticides, on entend la somme de tous les pesticides individualisés détectés et quantifiés.
+(5) Les substances susceptibles d'être présentes doivent être recherchées en priorité. A minima, les substances suivantes, qui sont considérées comme préoccupantes pour les EDCH, doivent être recherchées :
 
-Les substances susceptibles d'être présentes doivent être recherchées en priorité.
+-Acide perfluorobutanoïque (PFBA)
 
-(2) En cas de valeurs de l'activité alpha globale supérieures à 0,1 Bq/ l ou de l'activité bêta globale résiduelle supérieures à 1,0 Bq/L ou du tritium supérieures à 100 Bq/L, il est procédé à l'analyse des radionucléides spécifiques définie dans l'arrêté mentionné à l'article R. 1321-20 du code de la santé publique.
+-Acide perfluoropentanoïque (PFPeA)
 
-Afin de déterminer l'activité bêta globale résiduelle, le potassium doit être recherché concomitamment à la mesure des paramètres radiologiques. La mesure du potassium est réalisée lors de la mesure de l'équilibre calcocarbonique.
+-Acide perfluorohexanoïque (PFHxA)
 
-(3) La limite de qualité se réfère à la concentration résiduelle en monomères dans l'eau calculée conformément aux spécifications de la migration maximale du polymère correspondant en contact avec l'eau.
+-Acide perfluoroheptanoïque (PFHpA)
 
-|
+-Acide perfluoroctanoïque (PFOA)
+
+-Acide perfluorononanoïque (PFNA)
+
+-Acide perfluorodécanoïque (PFDA)
+
+-Acide perfluoroundécanoïque (PFUnDA)
+
+-Acide perfluorododécanoïque (PFDoDA)
+
+-Acide perfluorotridécanoïque (PFTrDA)
+
+-Acide perfluorobutanesulfonique (PFBS)
+
+-Acide perfluoropentanesulfonique (PFPeS)
+
+-Acide perfluorohexane sulfonique (PFHxS)
+
+-Acide perfluoroheptane sulfonique (PFHpS)
+
+-Acide perfluorooctane sulfonique (PFOS)
+
+-Acide perfluorononane sulfonique (PFNS)
+
+-Acide perfluorodécane sulfonique (PFDS)
+
+-Acide perfluoroundécane sulfonique
+
+-Acide perfluorododécane sulfonique
+
+-Acide perfluorotridécane sulfonique
+
+Il s'agit d'un sous-ensemble des substances constituant le Total PFAS qui contiennent un groupement de substances perfluoroalkylées comportant trois atomes de carbone ou plus (à savoir,-CnF2n-, n ≥ 3) ou un groupement de perfluoroalkyléthers comportant deux atomes de carbone ou plus (à savoir,-CnF2nOCmF2m −, n et m ≥ 1).
+
+(6) En cas de valeurs de l'activité alpha globale supérieures à 0,1 Bq/ l ou de l'activité bêta globale résiduelle supérieures à 1,0 Bq/ L ou de l'activité tritium supérieures à 100 Bq/ L, il est procédé à l'analyse des radionucléides spécifiques définie dans l'arrêté mentionné à l'article R. 1321-20 du code de la santé publique. Afin de déterminer l'activité bêta globale résiduelle, le potassium doit être recherché concomitamment à la mesure des paramètres radiologiques. |
 
 Tableau 3.-Contenu des analyses à effectuer sur les échantillons d'eau prélevés aux points d'usages dans l'établissement thermal par catégorie de soins dans chaque bâtiment et réseau (unité de distribution) différenciés pour les soins autres que les soins externes collectifs, dans des conditions normales de fonctionnement de l'établissement, ou par bassin pour les soins externes collectifs
 
@@ -1806,7 +1924,7 @@ B |
 
 / |
 
-Chrome |
+Chrome (1) |
 
 B |
 
@@ -1964,4 +2082,10 @@ E : paramètre à rechercher si l'eau est utilisée en cure de boisson.
 
 F : paramètre à rechercher si l'eau a fait l'objet d'un traitement de chloration.
 
+(1) En cas de valeur supérieure à 6 µg/ L, il est procédé à l'analyse du chrome VI.
+
 |
+
+NOTA :
+
+Conformément à l’article 2 de l’arrêté du 30 décembre 2022 (NOR : SPRP2222074A), ces dispositions entrent en vigueur le 1er janvier 2026.
