@@ -222,16 +222,16 @@ En application du 5° de l'article D. 351-27 du code de l'éducation, les candid
 
 En application du 5° de l'article D. 351-27 du code de l'éducation, les candidats à l'examen du certificat d'aptitude professionnelle présentant tout trouble relevant du handicap tel que défini à l'article L. 114 du code de l'action sociale et des familles et empêchant l'expression ou la compréhension écrite ou orale d'une langue vivante peuvent être dispensés, par décision du recteur d'académie, à leur demande et sur proposition du médecin désigné par la commission des droits et de l'autonomie des personnes handicapées :
 
--soit de l'évaluation de la compréhension de l'oral de l'épreuve obligatoire de langue vivante étrangère ;
+- de l'évaluation de la compréhension de l'oral de l'épreuve obligatoire de langue vivante étrangère ;
 
--soit de l'évaluation de la compréhension de l'écrit de l'épreuve obligatoire de langue vivante étrangère ;
+- de l'évaluation de la compréhension de l'écrit de l'épreuve obligatoire de langue vivante étrangère ;
 
--soit de l'évaluation de l'expression écrite de l'épreuve obligatoire de langue vivante étrangère ;
+- de l'évaluation de l'expression écrite de l'épreuve obligatoire de langue vivante étrangère ;
 
--soit de la totalité de la situation ou de la sous-épreuve d'évaluation de l'expression orale en continu et en interaction de l'épreuve obligatoire de langue vivante étrangère.
+- de la totalité de la situation ou de la sous-épreuve d'évaluation de l'expression orale en continu et en interaction de l'épreuve obligatoire de langue vivante étrangère.
 
 Les demandes de dispense ne peuvent pas porter sur la totalité des quatre évaluations susmentionnées.
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 10 mars 2021 (NOR : MENE2107970A), ces dispositions entrent en vigueur à la session d'examen 2021.
+Conformément à l'article 5 de l'arrêté du 5 mai 2025 (NOR : MENE2510362A), les dispositions de l'arrêté précité entrent en vigueur à compter de la session d'examen 2026.

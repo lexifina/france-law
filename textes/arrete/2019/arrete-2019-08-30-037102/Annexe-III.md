@@ -133,3 +133,9 @@ CA5
 b) - Epreuve ponctuelle (notée sur 20)
 
 L'évaluation s'effectue à partir d'une activité choisie parmi une liste de trois activités nationales. Elle s'appuie sur un référentiel d'évaluation spécifique. La liste des activités et les référentiels sont publiés par voie de circulaire. Le choix de l'activité est opéré par le candidat lors de son inscription.
+
+Les candidats inscrits sur les listes de sportifs de haut niveau, de sportifs “ espoirs ”, de sportifs des collectifs nationaux ou de juges, arbitres et entraîneurs de haut niveau, arrêtées par le ministre chargé des sports, les sportifs ne figurant pas sur les listes ministérielles mais appartenant à des structures d'entraînement reconnues dans le projet de performance fédéral validé par le ministère chargé des sports pour chaque fédération, ainsi que les candidats des centres de formation des clubs professionnels et les sportifs disposant d'un contrat de travail sont évalués sur deux épreuves relevant de deux champs d'apprentissage différents dont l'un d'eux est constitué de leur spécialité sportive. Pour la spécialité sportive, la note de 20 sur 20 est automatiquement attribuée au candidat.
+
+NOTA :
+
+Conformément à l'article 5 de l'arrêté du 5 mai 2025 (NOR : MENE2510362A), les dispositions de l'arrêté précité entrent en vigueur à compter de la session d'examen 2026.
