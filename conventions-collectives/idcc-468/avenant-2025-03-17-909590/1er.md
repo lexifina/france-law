@@ -1,0 +1,15 @@
+# Article 1er
+
+L'article 3 de l'accord du 21 octobre 2019 est modifié comme suit :
+
+« Le financement du dialogue social dans la branche est assuré par une contribution annuelle conventionnelle et obligatoire à la charge des entreprises entrant dans le champ d'application de la convention collective nationale du commerce succursaliste de la chaussure.
+
+Cette contribution forfaitaire annuelle, fixée en fonction de la masse salariale déclarée dans la DSN de l'année précédant celle de l'appel de cotisation, ainsi que d'une contribution forfaitaire, entièrement à la charge de l'employeur, est égale à :
+
+– 0,11 % de la masse salariale, plafonnée à 25 000 euros ;
+
+– une contribution forfaitaire de 550 euros par dossier.
+
+Lorsqu'une entreprise appartient à un groupe, il convient de faire une consolidation des effectifs de l'ensemble des sociétés au niveau du groupe.
+
+Ces montants pourront être révisés par décision de l'association paritaire de gestion en fonction des besoins du dialogue social. »
