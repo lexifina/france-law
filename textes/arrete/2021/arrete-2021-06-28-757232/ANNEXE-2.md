@@ -10,17 +10,23 @@ Intitulé de l'emploi |
 
 Cabinet du garde des sceaux |
 
-Administration centrale |
+Administration centrale
 
-- |
+|
 
-Chef du bureau du cabinet |
+|
 
 Secrétariat général |
 
 Administration centrale |
 
 - |
+
+Délégué à l'encadrement supérieur |
+
+-
+
+|
 
 Chef de cabinet du secrétaire général |
 
@@ -38,7 +44,7 @@ Chef du bureau de la santé, des conditions et de la qualité de vie au travail 
 
 Service des finances, des achats et de la conformité |
 
-Sous-direction du budget et des achats |
+Sous-direction du budget de la justice |
 
 Adjoint au sous-directeur |
 
@@ -92,7 +98,7 @@ Administration centrale |
 
 Sous-direction des ressources humaines et des relations sociales |
 
-Chef du bureau des affaires statutaires et de l'organisation du dialogue social |
+Chef du bureau des affaires statutaires, disciplinaires et de l'organisation du dialogue social |
 
 Chef du bureau de la gestion des corps communs |
 
@@ -106,14 +112,24 @@ Administration centrale |
 
 Sous-direction des ressources humaines et des relations sociales |
 
-Chef du bureau des carrières et du développement professionnel |
+Chef du bureau des carrières et du développement professionnel
 
-Chef du bureau des relations sociales et des statuts |
+|
 
-Chef du bureau de l'encadrement |
+Chef du bureau des relations sociales et des statuts
 
-Chef du bureau du recrutement et de la formation |
+|
+
+Chef du bureau du recrutement et de la formation
+
+|
+
+|
+
+Sous-direction du pilotage et de l'optimisation des moyens |
+
+Chef du bureau de l'immobilier |
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 27 août 2025 (NOR : JUST2524056A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er septembre 2025.
+Conformément à l'article 4 de l'arrêté du 16 décembre 2025 (NOR : JUST2535261A), ces dispositions, dans leur rédaction issue de l'article 1er de l'arrêté précité, entrent en vigueur le 1er janvier 2026.

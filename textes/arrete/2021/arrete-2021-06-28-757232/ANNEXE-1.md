@@ -20,7 +20,7 @@ des évolutions professionnelles |
 
 Chef du bureau de la stratégie et de la gouvernance RH ministérielle |
 
-Chef du bureau de la formation et de l'accompagnement des parcours professionnels |
+Chef du bureau de l'accompagnement professionnel et de la formation |
 
 Sous-direction des politiques
 
@@ -34,19 +34,29 @@ Chef du bureau des politiques statutaire et salariale |
 
 Service des finances, des achats et de la conformité |
 
-Sous-direction du budget et des achats |
+Sous-direction du budget de la justice |
 
-Chef du bureau des emplois, de la masse salariale et des opérateurs |
+Chef du département du pilotage des ressources financières et immobilières |
 
-Chef du bureau de la synthèse budgétaire |
+Chef du département du pilotage des emplois et des crédits du titre 2 |
 
-Chef du bureau des marchés, adjoint au chef du département ministériel des achats |
+Chef du bureau des emplois et de la masse salariale |
+
+Chef du bureau de la stratégie budgétaire
+
+|
 
 Sous-direction de la performance financière et de la conformité |
 
+Chef du département de la transformation financière |
+
 Chef du bureau des prestations financières de l'administration centrale |
 
-Chef du bureau de la règlementation et de l'exécution financières |
+Sous-direction des achats et des opérateurs |
+
+Chef du bureau des marchés, adjoint au chef du département ministériel des achats
+
+|
 
 Service de l'immobilier ministériel |
 
@@ -58,9 +68,9 @@ Chef du bureau de l'immobilier judiciaire parisien et de l'administration centra
 
 Service du pilotage et du soutien de proximité |
 
-Département du pilotage des emplois et des crédits du titre 2 |
+Département de l'exploitation immobilière et du développement durable de l'administration centrale |
 
-Chef du département du pilotage des emplois et des crédits du titre 2 |
+Chef du département de l'exploitation immobilière et du développement durable de l'administration centrale |
 
 Département du pilotage des ressources financières et immobilières |
 
@@ -138,13 +148,17 @@ Chef du bureau de la donnée, de la recherche et de l'évaluation |
 
 Sous-direction des ressources humaines et des relations sociales |
 
-Adjoint au chef du bureau des affaires statutaires et de l'organisation du dialogue social |
+Adjoint au chef du bureau des affaires statutaires, disciplinaires et de l'organisation du dialogue social |
 
 Chef du bureau de la gestion prévisionnelle des effectifs, des emplois et des crédits de personnels |
 
 Chef du bureau de la gestion personnalisée des corps de direction |
 
-Adjoint au chef du bureau de la gestion des personnels |
+Chef du bureau de l'accompagnement managérial et de la gestion personnalisée des corps de direction |
+
+Adjoint au chef du bureau de la gestion des personnels de surveillance et des conseillers pénitentiaires d'insertion et de probation
+
+|
 
 Service déconcentré |
 
@@ -214,9 +228,11 @@ Administration centrale |
 
 Sous-direction du pilotage et de l'optimisation des moyens |
 
-Chef du bureau de l'immobilier |
+|
 
 Chef du bureau de la synthèse |
+
+|
 
 Service déconcentré |
 
@@ -271,3 +287,13 @@ Direction interrégionale de la protection judiciaire de la jeunesse Sud-Ouest |
 Directeur de l'évaluation, de la programmation et des affaires financières |
 
 Directeur des ressources humaines |
+
+Ecole nationale de la protection judiciaire de la jeunesse |
+
+Secrétaire général
+
+|
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 16 décembre 2025 (NOR : JUST2535261A), ces dispositions, dans leur rédaction issue de l'article 1er de l'arrêté précité, entrent en vigueur le 1er janvier 2026.
