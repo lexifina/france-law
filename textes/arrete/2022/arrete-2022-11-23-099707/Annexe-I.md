@@ -42,11 +42,15 @@ Primes - Durabilité |
 
 Pour les cent mille premières pièces par catégorie
 
-de produit mises sur le marché |
+de produit mises sur le marché
+
+|
 
 Au-delà des cent mille premières pièces par catégorie
 
-de produit mises sur le marché |
+de produit mises sur le marché
+
+|
 
 Montant de référence pour le calcul de la prime (€ par unité) |
 
@@ -70,11 +74,15 @@ Primes - Certifications par des labels environnementaux |
 
 Pour les cent mille premières pièces par catégorie
 
-de produit mises sur le marché |
+de produit mises sur le marché
+
+|
 
 Au-delà des cent mille premières pièces par catégorie
 
-de produit mises sur le marché |
+de produit mises sur le marché
+
+|
 
 Montant de référence pour le calcul de la prime (€ par unité) |
 
@@ -138,7 +146,9 @@ Année concernée |
 
 Augmentation minimale des quantités collectées par rapport à l'année de référence 2022)
 
-(en kT) |
+(en kT)
+
+|
 
 + 20 |
 
@@ -252,7 +262,9 @@ Scomp : soutien complémentaire pour les tonnages triés faisant l'objet d'un re
 
 Montant de Scomp (*)
 
-(en euros/tonne) : |
+(en euros/tonne) :
+
+|
 
 2023 |
 
@@ -322,7 +334,9 @@ I.-L'éco-organisme soutient les opérateurs du tri en 2025 à hauteur de 49 mil
 
 Ce soutien se substitue, pour l'année 2025, au soutien usuel prévu par l'application du présent cahier des charges.
 
-II.-Ce soutien exceptionnel aux opérateurs du tri est versé selon le calendrier suivant :
+Le précédent alinéa ne s'applique pas, dans le cas où, pour un opérateur donné, le montant du soutien usuel est supérieur au montant du soutien exceptionnel.
+
+II.-Ce soutien exceptionnel, de 223 € par tonne triée, est versé aux opérateurs de tri selon le calendrier suivant :
 
 -le premier versement a lieu au plus tard une semaine après la publication de l'arrêté du 13 août 2025 modifiant l'arrêté du 23 novembre 2022 portant cahiers des charges des éco-organismes et des systèmes individuels de la filière à responsabilité élargie du producteur des textiles, chaussures et linge de maison (TLC) pour les tonnages triés aux premier et deuxième trimestres 2025 ;
 
@@ -332,13 +346,7 @@ II.-Ce soutien exceptionnel aux opérateurs du tri est versé selon le calendrie
 
 Ces versements tiennent compte des soutiens usuels versés en 2025 en application du cahier des charges en vigueur au 13 août 2025.
 
-III.-Les modalités des premiers versements du soutien exceptionnel prévus au II sont calculées sur la base de 220 kt triées en 2025.
-
-IV.-Pour chaque opérateur le soutien prévu au II est calculé à partir de la déclaration du tonnage trié en 2025, plafonnée à hauteur du tonnage trié en 2024 augmenté de 5,5 %.
-
-Par exception à l'alinéa précédent, pour les opérateurs qui ont fait connaitre un investissement à l'éco-organisme en 2024, permettant d'augmenter la capacité de tri, la déclaration 2025 est plafonnée à hauteur de la somme du tonnage trié en 2024 auquel on ajoute une hausse de 5,5 % avec l'augmentation de capacité annoncée en 2024 (pour l'année 2025).
-
-V.-Le versement prévu en janvier 2026 est conditionné à la production d'un audit financier sur les coûts associés au tri effectué en 2025.
+III.- Pour chaque opérateur le soutien prévu au II est calculé à partir de la déclaration du tonnage trié en 2025, plafonnée à hauteur du tonnage trié en 2024 augmenté de 30 %
 
 3.4.2.5. Soutien exceptionnel au tri en 2026
 
