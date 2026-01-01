@@ -58,7 +58,7 @@ Ministère de la justice
 
 Corps des directeurs d'insertion et de probation de l'administration pénitentiaire.
 
-Corps des directeurs techniques de l'administration pénitentiaire.
+Corps des ingénieurs du ministère de la justice.
 
 Corps des directeurs des services de greffe judiciaires.
 
@@ -83,3 +83,7 @@ Corps des ingénieurs des travaux de la météorologie.
 Corps des délégués au permis de conduire et à la sécurité routière.
 
 Corps des ingénieurs des sciences géographiques et du numérique de l'Institut national de l'information géographique et forestière.
+
+NOTA :
+
+Conformément à l'article 50 du décret n° 2025-1327 du 24 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 1er janvier 2026.

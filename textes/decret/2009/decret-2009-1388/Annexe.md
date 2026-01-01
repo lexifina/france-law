@@ -68,6 +68,8 @@ Techniciens de police technique et scientifique de la police nationale.
 
 Techniciens de recherche du ministère de la culture.
 
+Techniciens du ministère de la justice.
+
 Techniciens des services culturels et des Bâtiments de France
 
 Techniciens supérieurs du ministère chargé de l'agriculture.
@@ -109,3 +111,7 @@ Techniciens de la recherche de l'Institut national de la santé et de la recherc
 Techniciens sanitaires et de sécurité sanitaire.
 
 Techniciens supérieurs forestiers de l'Office national des forêts
+
+NOTA :
+
+Conformément à l'article 50 du décret n° 2025-1327 du 24 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 1er janvier 2026.
