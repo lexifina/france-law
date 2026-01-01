@@ -467,3 +467,7 @@ f) La durée de la garantie ;
 g) Les pénalités en cas de non-atteinte de la performance garantie par le contrat.
 
 2° La liste des opérations standardisées ou spécifiques réalisées dans le cadre du CPE. Les opérations d'économies d'énergie pouvant être bonifiée dans le cadre du CPE sont engagées au plus tôt à la date de signature de ce contrat. Les travaux concernés sont achevés de manière à ce qu'ils produisent les économies d'énergie attendues a minima sur toute la période de garantie de la performance du contrat.
+
+NOTA :
+
+Conformément à l'article 5 de l'arrêté du 15 décembre 2025 (NOR : ECOR2532411A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er janvier 2026 et s'appliquent aux opérations engagées à compter de cette date.
