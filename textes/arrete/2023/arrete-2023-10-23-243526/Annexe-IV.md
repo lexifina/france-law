@@ -78,11 +78,15 @@ D. Remise à niveau
 
 D.1. En l’absence de la formation prévue au 1er alinéa du C.1.1, le réseau ou la personne physique assurant l’exploitation du centre de contrôle non rattaché s’assure de la remise à niveau, d’une durée minimale de 21 heures, avant le 31 mars de l’année en cours et avant toute reprise d’activité au-delà de cette échéance.
 
+Cette formation comprend la formation prévue au premier alinéa du C.1.1 pour l'année précédente. Dans le cas où une partie de la formation prévue au premier alinéa du C.1.1 est réalisée en téléformation, celle-ci est réalisée en présentiel dans le cadre de la remise à niveau.
+
 D.2. En l’absence d’activité depuis plus d’un an, le réseau ou la personne physique assurant l’exploitation du centre de contrôle non rattaché s’assure de la remise à niveau avant toute reprise d’activité.
 
-Cette remise à niveau est composée d’une partie théorique, d’une durée minimale de 21 heures si la durée de l’absence d’activité est inférieure à trois ans et d’une durée minimale de 35 heures dans les autres cas et d’une partie pratique de 14 heures en centre de formation. La formation de remise à niveau est adaptée aux évolutions réglementaires intervenues au cours de la période d’absence d’activité.
+Cette remise à niveau est composée d’une partie théorique, d’une durée minimale de 21 heures et d’une partie pratique de 14 heures en centre de formation. La formation de remise à niveau est adaptée aux évolutions réglementaires intervenues au cours de la période d’absence d’activité.
 
-Si la durée de l'absence d'activité est supérieure à cinq ans, cette remise à niveau consiste en une formation initiale telle que prévue au A. 2.2 de la présente annexe.
+Cette formation comprend la formation prévue au premier alinéa du C.1.1 pour l'année précédente. Dans le cas où une partie de la formation prévue au premier alinéa du C.1.1 est réalisée en téléformation, celle-ci est réalisée en présentiel dans le cadre de la remise à niveau.
+
+Si la durée de l'absence d'activité est supérieure à quatre ans, cette remise à niveau consiste en une formation initiale telle que prévue au A. 2.2 de la présente annexe.
 
 D.3. Dans tous les cas, la remise à niveau ne dispense pas des exigences de formation prévues au point C pour l’année civile en cours. Une traçabilité des dispositions mises en œuvre dans le cadre de la remise à niveau est assurée.
 
@@ -132,4 +136,6 @@ Le formateur est en mesure de présenter son attestation de capacité sur demand
 
 NOTA :
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante : Légifrance - Publications officielles - Journal officiel - JORF n° 0247 du 24/10/2023 (legifrance.gouv.fr).
+Conformément à l'article 9 de l'arrêté du 18 août 2025 (NOR : ATDR2519920A ), ces dispositions, dans leur rédaction issue des 3° à 6° de l'article 7 dudit arrêté, entrent en vigueur au 1er janvier 2026.
+
+Conformément à l’article 11 de l’arrêté du 19 décembre 2025 (NOR : TRAR2534888A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er janvier 2026.

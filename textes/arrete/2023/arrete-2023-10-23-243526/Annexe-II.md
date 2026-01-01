@@ -172,6 +172,8 @@ Le verso du procès-verbal comporte exclusivement les mentions suivantes :
 
 • La signalétique prévue à l'article L. 541-9-3 du code de l'environnement.
 
+Dans le cadre d'un procès-verbal utilisé pour les véhicules légers ou pour les véhicules motorisés à deux ou trois roues et quadricycles à moteur, la mention “Afin de faciliter les campagnes de rappel &laquo; graves &raquo;, vos données de contact ont été collectées. Pour exercer vos droits d'accès, rectification ou suppression de vos données, veuillez consulter le site internet www.utac-otc.com, rubrique &laquo; infos pratiques &raquo;.” concerne les véhicules légers.
+
 1.4. Couleurs d’impression
 
 Les couleurs d’impression des inscriptions fixes sont :
@@ -299,3 +301,7 @@ Le timbre est autocollant et comporte un pré-découpage entraînant son déchir
 Il ne permet également pas, du moins sans sa destruction partielle ou totale, un quelconque effacement des informations variables qui y sont portées.
 
 Sa sécurité peut, en outre, être renforcée par la présence d’un pictogramme latent révélable sur toute photocopie.
+
+NOTA :
+
+Conformément à l’article 11 de l’arrêté du 19 décembre 2025 (NOR : TRAR2534888A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er janvier 2026.

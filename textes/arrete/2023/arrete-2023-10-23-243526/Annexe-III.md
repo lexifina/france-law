@@ -40,7 +40,9 @@ Les installations de contrôle comprennent également :
 
 • un prolongateur d'échappement destiné à être utilisé pour le contrôle des émissions de polluants ;
 
-• un miroir d’inspection ;
+• un miroir d'inspection sous véhicule dont les dimensions minimales sont les suivantes : diamètre de 200 mm en cas de miroir circulaire ou 200 × 100 mm en cas de miroir rectangulaire ;
+
+• un dispositif bloque pédale ;
 
 • un mètre ruban.
 
@@ -68,7 +70,7 @@ Les opérations d’étalonnage, de vérification et de maintenance préventive 
 
 6. En cas de défaut :
 
-a) Les matériels sont remis en état ou remplacés dans les huit jours ouvrables suivant l’apparition du défaut par des personnels qualifiés dépendant d’un organisme habilité ou agréé pour les matériels concernés.
+a) Les matériels sont remis en service ou remplacés dans les huit jours ouvrables suivant l'apparition du défaut par des personnels qualifiés dépendant d'un organisme habilité ou agréé pour les matériels concernés. Ce délai est porté à 14 jours ouvrables pour le matériel prévu au point 4. Cette disposition s'applique également en cas d'indisponibilité d'un matériel nécessitant une vérification périodique hors site.
 
 b) Des méthodes d’essais alternatives, prévues dans les procédures du centre, peuvent être mises en œuvre dans l’attente de la remise en état ou du remplacement du matériel. Ces méthodes sont définies conformément au point 3.2 de l’annexe V du présent arrêté, dans le respect de la notice du matériel. L’utilisation de ces méthodes ne peut excéder huit jours ouvrables. A défaut de telles méthodes, l’activité de l’installation de contrôle est arrêtée immédiatement, à l’exception des contrôles techniques ne nécessitant pas l’usage du matériel défectueux, jusqu’à la remise en état ou le remplacement du matériel.
 
@@ -88,9 +90,9 @@ Les installations de contrôle comprennent également pour les véhicules à deu
 
 - un jeu de béquilles d’atelier avant et arrière à entraxe réglable adapté aux véhicules à deux roues ;
 
-- un bloque roue adapté aux véhicules à deux roues dont les modalités d’installation garantissent la stabilité du véhicule.
+- un bloque roue adapté aux véhicules à deux roues dont les modalités d’installation garantissent la stabilité du véhicule. Ce dispositif ou un dispositif complémentaire garantit l'immobilisation de la roue avant pour le contrôle du point 2.3 Jeu dans la direction.
 
-Les installations de contrôle comprennent également un cric mobile (hors cric &laquo; losange &raquo;) d’une capacité minimale d’une tonne ainsi que des cales de roue.
+Les installations de contrôle comprennent également un cric mobile (hors cric losange ) d’une capacité minimale d’une tonne ainsi que des cales de roue.
 
 Les installations de contrôle peuvent également comprendre une table élévatrice. Dans ce cas, elle doit être d’une capacité minimale de 500 kg et disposer d’un bloque roue.
 
@@ -186,4 +188,8 @@ Les exigences du point E de l’arrêté du 27 juillet 2004 modifié sont applic
 
 NOTA :
 
+Conformément à l'article 9 de l'arrêté du 18 août 2025 (NOR : ATDR2519920A), ces dispositions, dans leur rédaction issue de l'article 6 dudit arrêté, entrent en vigeur au 1er janvier 2026.
+
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante : Légifrance - Publications officielles - Journal officiel - JORF n° 0247 du 24/10/2023 (legifrance.gouv.fr).
+
+Conformément à l’article 11 de l’arrêté du 19 décembre 2025 (NOR : TRAR2534888A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er janvier 2026.
