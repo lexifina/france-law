@@ -414,7 +414,7 @@ UF2 |
 
 Pratique oral |
 
-10mn |
+20mn |
 
 |
 
@@ -759,3 +759,7 @@ L'épreuve facultative de langue vivante est définie par l'arrêté du 30 août
 Épreuve facultative-Mobilité
 
 L'épreuve facultative de mobilité est définie par l'arrêté du 30 août 2019 portant création d'une unité facultative de mobilité et de l'attestation MobilitéPro dans le diplôme du certificat d'aptitude professionnelle (BO n° 35 du 26 septembre 2019)
+
+NOTA :
+
+Conformément à l’article 20 de l’arrêté du 16 décembre 2024 (NOR : MENE2434254A), ces dispositions entrent en vigueur à compter de la session d'examen 2026.

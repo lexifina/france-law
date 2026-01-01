@@ -412,9 +412,9 @@ UF2 |
 
 1 |
 
-Ponctuel oral |
+Pratique oral |
 
-10 min |
+20 min |
 
 |
 
@@ -1051,3 +1051,7 @@ Ce document nominatif avec photographie d'identité a une validité de 10 ans à
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=1God7JfuIFMf-ahaA2v-VTj6UFbgHwXsc1xpBHveUmo=
+
+NOTA :
+
+Conformément à l’article 20 de l’arrêté du 16 décembre 2024 (NOR : MENE2434254A), ces dispositions entrent en vigueur à compter de la session d'examen 2026.

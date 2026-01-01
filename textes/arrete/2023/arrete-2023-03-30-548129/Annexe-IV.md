@@ -4,7 +4,7 @@ ANNEXE IV
 
 RÉFÉRENTIEL D'ÉVALUATION
 
-Baccalauréat professionnel « Maintenance nautique »
+Baccalauréat professionnel &laquo; Maintenance nautique &raquo;
 
 IV.1. Unités constitutives du diplôme
 
@@ -14,7 +14,7 @@ Pour la classe de 2de, le programme sur lequel repose l'unité est défini par l
 
 Pour les classes de 1re et de terminale, le programme sur lequel repose l'unité est défini par l'arrêté du 3 février 2020 fixant le programme d'enseignement de mathématiques des classes de première et terminale préparant au baccalauréat professionnel (BO spécial n° 1 du 6 février 2020).
 
-La spécialité « maintenance nautique » de baccalauréat professionnel est rattachée au groupement B.
+La spécialité &laquo; maintenance nautique &raquo; de baccalauréat professionnel est rattachée au groupement B.
 
 UNITÉ U12 - Physique-chimie
 
@@ -22,11 +22,11 @@ Pour la classe de 2de, le programme sur lequel repose l'unité est défini par l
 
 Pour les classes de 1re et de terminale, le programme sur lequel repose l'unité est défini par l'arrêté du 3 février 2020 fixant le programme d'enseignement de physique-chimie des classes de première et terminale préparant au baccalauréat professionnel (BO spécial n° 1 du 6 février 2020).
 
-La spécialité « maintenance nautique » de baccalauréat professionnel est rattachée au groupement 1.
+La spécialité &laquo; maintenance nautique &raquo; de baccalauréat professionnel est rattachée au groupement 1.
 
 La définition du contenu des unités constitutives professionnelles (U2 - U31- U32) a pour but de préciser pour chacune d'elles, les blocs de compétences visés dans un contexte professionnel donné, il s'agit à la fois :
 
-- de permettre la mise en correspondance des activités professionnelles et des unités dans le cadre du dispositif de « validation des acquis de l'expérience » (VAE) ;
+- de permettre la mise en correspondance des activités professionnelles et des unités dans le cadre du dispositif de &laquo; validation des acquis de l'expérience &raquo; (VAE) ;
 
 - d'établir la liaison entre les unités, correspondant aux épreuves, et le référentiel d'activités professionnelles afin de préciser le cadre de l'évaluation.
 
@@ -34,19 +34,19 @@ UNITÉ U2
 
 Prise en charge ou restitution d'une embarcation ou d'un équipement
 
-Le contenu sur lequel repose l'unité U2 correspond aux compétences du bloc de compétences « Prise en charge ou restitution d'une embarcation ou d'un équipement ». Cette unité certificative est attribuée selon le référentiel de compétences figurant en annexe III.
+Le contenu sur lequel repose l'unité U2 correspond aux compétences du bloc de compétences &laquo; Prise en charge ou restitution d'une embarcation ou d'un équipement &raquo;. Cette unité certificative est attribuée selon le référentiel de compétences figurant en annexe III.
 
 UNITÉ U31
 
 Réalisation du diagnostic d'un sous-ensemble de l'embarcation
 
-Le contenu sur lequel repose l'unité U31 correspond aux compétences du bloc de compétences « Réalisation du diagnostic d'un sous-ensemble de l'embarcation ». Cette unité certificative est attribuée selon le référentiel de compétences figurant en annexe III.
+Le contenu sur lequel repose l'unité U31 correspond aux compétences du bloc de compétences &laquo; Réalisation du diagnostic d'un sous-ensemble de l'embarcation &raquo;. Cette unité certificative est attribuée selon le référentiel de compétences figurant en annexe III.
 
 UNITÉ U32
 
 Intervention sur l'embarcation et ses équipements
 
-Le contenu sur lequel repose l'unité U32 correspond aux compétences du bloc de compétences « Intervention sur l'embarcation et ses équipements ». Cette unité certificative est attribuée selon le référentiel de compétences figurant en annexe III.
+Le contenu sur lequel repose l'unité U32 correspond aux compétences du bloc de compétences &laquo; Intervention sur l'embarcation et ses équipements &raquo;. Cette unité certificative est attribuée selon le référentiel de compétences figurant en annexe III.
 
 UNITÉ U33 - Economie-Gestion
 
@@ -106,7 +106,7 @@ IV.2. Règlement d'examen
 
 BACCALAURÉAT PROFESSIONNEL
 
-« Maintenance nautique » |
+&laquo; Maintenance nautique &raquo; |
 
 Voie scolaire dans un établissement public ou privé sous contrat ; Apprentissage en CFA habilité ou en CFA porté par un EPLE, GRETA ou GIP-FCIP assurant toute la formation théorique ; Formation professionnelle continue dans un établissement public |
 
@@ -396,7 +396,7 @@ UF2 |
 
 Seuls les points excédant 10 sont pris en compte pour le calcul de la moyenne générale en vue de l'obtention du diplôme et de l'attribution d'une mention.
 
-S'agissant de l'évaluation du chef-d'œuvre, présenté uniquement par les candidats scolaires des établissements d'enseignement public et privé (sous ou hors contrat) et les candidats apprentis, sont pris en compte les points d'écart par rapport à 10 sur 20 affectés du coefficient 2. S'ils sont supérieurs, ils abondent le total général des points servant au calcul de la moyenne générale conditionnant l'obtention du diplôme ; s'ils sont inférieurs, ils viennent en déduction de ce total général. Aucun coefficient d'épreuve ou de sous-épreuve du règlement d'examen n'est modifié. Les modalités de l'évaluation du chef d'œuvre au baccalauréat professionnel sont définies par l'arrêté du 20 octobre 2020 définissant les modalités de l'évaluation du chef-d'œuvre prévue à l'examen du baccalauréat professionnel. |
+S'agissant de l'évaluation du projet, présenté uniquement par les candidats scolaires des établissements d'enseignement public et privé (sous ou hors contrat) et les candidats apprentis, sont pris en compte les points d'écart par rapport à 10 sur 20 affectés du coefficient 2. S'ils sont supérieurs, ils abondent le total général des points servant au calcul de la moyenne générale conditionnant l'obtention du diplôme ; s'ils sont inférieurs, ils viennent en déduction de ce total général. Aucun coefficient d'épreuve ou de sous-épreuve du règlement d'examen n'est modifié. Les modalités de l'évaluation du projet au baccalauréat professionnel sont définies par l'arrêté du 20 octobre 2020 définissant les modalités de l'évaluation du projet prévue à l'examen du baccalauréat professionnel. |
 
 IV.3. Définition des épreuves
 
@@ -438,7 +438,7 @@ Coefficient 5
 
 Objectif de l'épreuve :
 
-L'épreuve a pour objectif l'évaluation des compétences associées au bloc de compétences « Prise en charge ou restitution d'une embarcation ou d'équipement » :
+L'épreuve a pour objectif l'évaluation des compétences associées au bloc de compétences &laquo; Prise en charge ou restitution d'une embarcation ou d'équipement &raquo; :
 
 - C1 Collecter les informations nécessaires à la prise en charge ou à la restitution ;
 
@@ -454,7 +454,7 @@ Certaines compétences autres que celles relevant de l'épreuve peuvent être mo
 
 Contenu de l'épreuve :
 
-Les compétences sont évaluées dans un contexte professionnel conforme aux activités et tâches du pôle « Prise en charge et restitution d'une embarcation ou d'un équipement » décrites dans le référentiel des activités professionnelles.
+Les compétences sont évaluées dans un contexte professionnel conforme aux activités et tâches du pôle &laquo; Prise en charge et restitution d'une embarcation ou d'un équipement &raquo; décrites dans le référentiel des activités professionnelles.
 
 Les moyens et ressources associés aux activités professionnelles seront mises à disposition des candidats.
 
@@ -526,7 +526,7 @@ Coefficient 5
 
 Objectif de l'épreuve :
 
-L'épreuve a pour objectif l'évaluation des compétences associées au bloc de compétences « Réalisation du diagnostic d'un sous-ensemble de l'embarcation » :
+L'épreuve a pour objectif l'évaluation des compétences associées au bloc de compétences &laquo; Réalisation du diagnostic d'un sous-ensemble de l'embarcation &raquo; :
 
 - C5 Constater le dysfonctionnement ;
 
@@ -542,7 +542,7 @@ Certaines compétences autres que celles relevant de l'épreuve peuvent être mo
 
 Contenu de l'épreuve :
 
-Les compétences sont évaluées dans un contexte professionnel conforme aux activités et tâches du pôle « Localisation d'une panne ou d'une anomalie sur une embarcation ou un équipement » décrites dans le référentiel des activités professionnelles.
+Les compétences sont évaluées dans un contexte professionnel conforme aux activités et tâches du pôle &laquo; Localisation d'une panne ou d'une anomalie sur une embarcation ou un équipement &raquo; décrites dans le référentiel des activités professionnelles.
 
 Les moyens et ressources associés aux activités professionnelles seront mises à disposition des candidats.
 
@@ -630,7 +630,7 @@ Coefficient 5
 
 Objectif de l'épreuve :
 
-L'épreuve a pour objectif l'évaluation des compétences associées au bloc de compétences « Intervention sur l'embarcation et ses équipements » :
+L'épreuve a pour objectif l'évaluation des compétences associées au bloc de compétences &laquo; Intervention sur l'embarcation et ses équipements &raquo; :
 
 - C9 Préparer l'intervention ;
 
@@ -646,7 +646,7 @@ Certaines compétences autres que celles relevant de l'épreuve peuvent être mo
 
 Contenu de l'épreuve :
 
-Les compétences sont évaluées dans un contexte professionnel conforme aux activités et tâches du pôle « Intervention sur l'embarcation et ses équipements » décrites dans le référentiel des activités professionnelles.
+Les compétences sont évaluées dans un contexte professionnel conforme aux activités et tâches du pôle &laquo; Intervention sur l'embarcation et ses équipements &raquo; décrites dans le référentiel des activités professionnelles.
 
 Les moyens et ressources associés aux activités professionnelles seront mises à disposition des candidats.
 
@@ -827,3 +827,7 @@ L'épreuve actuellement en vigueur qui est attachée à cette unité a pour but 
 Épreuve facultative de mobilité :
 
 L'épreuve facultative de mobilité est définie par l'arrêté du 30 août 2019 portant création d'une unité facultative de mobilité et de l'attestation MobilitéPro dans le diplôme du baccalauréat professionnel, du brevet professionnel et du brevet des métiers d'art (BO n° 35 du 26 septembre 2019).
+
+NOTA :
+
+Conformément à l’article 20 de l’arrêté du 16 décembre 2024 (NOR : MENE2434254A), ces dispositions entrent en vigueur à compter de la session d'examen 2026.

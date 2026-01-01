@@ -204,7 +204,7 @@ Ponctuel écrit |
 
 1 h |
 
-EG5 - Langue vivante étrangère (selon choix du groupe) |
+EG5 - Langue vivante étrangère |
 
 UG 5 |
 
@@ -242,7 +242,7 @@ UFx |
 
 1 |
 
-Ponctuel Oral |
+Pratique oral |
 
 20mn |
 
@@ -581,3 +581,7 @@ L'épreuve facultative d'arts appliqués et cultures artistiques est définie pa
 Epreuve facultative - Mobilité
 
 L'épreuve facultative de mobilité est définie par l'arrêté du 30 août 2019 portant création d'une unité facultative de mobilité et de l'attestation MobilitéPro dans le diplôme du certificat d'aptitude professionnelle (BO n° 35 du 26 septembre 2019)
+
+NOTA :
+
+Conformément à l’article 20 de l’arrêté du 16 décembre 2024 (NOR : MENE2434254A), ces dispositions entrent en vigueur à compter de la session d'examen 2026.
