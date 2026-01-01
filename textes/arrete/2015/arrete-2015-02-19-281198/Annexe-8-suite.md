@@ -1,10 +1,10 @@
 # Article Annexe 8 (suite)
 
-Liste 2
+LISTE 2 : ACTES AUTORISANT LA FACTURATION D'UN SUPPLÉMENT DE SURVEILLANCE CONTINUE
 
-ACTES AUTORISANT LA FACTURATION D'UN SUPPLÉMENT DE SURVEILLANCE CONTINUE
+CODES
 
-CODES ACTES CCAM |
+ACTES CCAM |
 
 EXT. PMSI |
 
@@ -1480,6 +1480,12 @@ DEGA002 |
 
 Ablation d'électrode épicardique définitive, par thoracotomie |
 
+DEGA210 |
+
+|
+
+Ablation d'une sonde définitive rétrosternale de défibrillation cardiaque par abord infraxyphoïdien |
+
 DELA001 |
 
 |
@@ -1497,6 +1503,12 @@ DELA004 |
 |
 
 Implantation souscutanée d'un défibrillateur cardiaque avec pose d'électrode épicardique, par abord direct |
+
+DELA169 |
+
+|
+
+Implantation souscutanée d'un défibrillateur cardiaque avec pose d'une sonde rétrosternale, par abord infraxiphoïdien |
 
 DELF006 |
 
@@ -7134,4 +7146,4 @@ Administration locorégionale d'agent pharmacologique anticancéreux par voie ar
 
 NOTA :
 
-Conformément à l’article 3 de l’arrêté du 26 février 2025 (TSSH2504725A), ces dispositions entrent en vigueur au 1er mars 2025.
+Conformément à l’article 3 de l’arrêté du 29 décembre 2025 (SFHH2535681A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur au 1er janvier 2026.

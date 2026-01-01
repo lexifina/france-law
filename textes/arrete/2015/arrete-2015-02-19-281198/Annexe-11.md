@@ -582,6 +582,26 @@ DEQA001/2 |
 
 Électrocardiographie avec implantation sous cutanée d'un dispositif d'enregistrement continu |
 
+LISTE 8 : LISTE DES ACTES DONNANT LIEU À RÉMUNÉRATION SUR LA BASE D'UN SE8
+
+CODE |
+
+EXT. PMSI |
+
+LIBELLÉ DE L'ACTE CCAM |
+
+QELJ001 |
+
+|
+
+Pose de repère dans le sein, par voie transcutanée avec guidage échographique |
+
+QELH001 |
+
+|
+
+Pose de repère dans le sein, par voie transcutanée avec guidage mammographique |
+
 NOTA :
 
-Conformément à l’article 14 de l’arrêté du 1er mars 2022 (SSAH2207477A), ces dispositions entrent en vigueur au 1er mars 2022.
+Conformément à l’article 3 de l’arrêté du 29 décembre 2025 (SFHH2535681A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur au 1er janvier 2026.
