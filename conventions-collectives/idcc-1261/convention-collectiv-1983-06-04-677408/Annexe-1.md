@@ -1,9 +1,5 @@
 # Article Annexe 1
 
-(Tableaux non reproduits, consultables en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives.)
+(Tableaux non reproduits, consultables en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives, pages 53 à 55.)
 
-https://www.legifrance.gouv.fr/download/file/pdf/boc_20200045_0000_0022.pdf/BOCC
-
-(1) Tableau de garanties étendu sous réserve du respect du cahier des charges des contrats responsables, prévu à l'article R. 871-2 du code de la sécurité sociale, concernant l'application des honoraires limites de facturation.
-
-(Arrêté du 2 avril 2021 - art. 1)
+https :// www. legifrance. gouv. fr/ download/ file/ pdf/ boc _ 20250045 _ 0000 _ 0005. pdf/ BOCC
