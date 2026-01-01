@@ -22,7 +22,7 @@ Postes exigeant la mise en œuvre de la compétence spécifique d'électronicien
 
 - 61e régiment d'artillerie ;
 
-- détachement avions de l'armée de terre ;
+- groupe avions de l'armée de terre (GAAT) ;
 
 - état-major de l'école de l'aviation légère de l'armée de terre ;
 
@@ -270,4 +270,4 @@ Relevant du pôle opérationnel sécurité et administration :
 
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 18 février 2025 (NOR : ARMH2505278A), ces dispositions sont applicables aux rémunérations versées à compter du mois de février 2025.
+Conformément à l'article 2 de l'arrêté du 19 décembre 2025 (NOR : ARMH2536001A), ces dispositions, dans leur rédaction issue de l'article 1er de l'arrêté précité, entrent en vigueur le 1er janvier 2026.

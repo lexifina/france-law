@@ -36,7 +36,7 @@ Postes exigeant la mise en œuvre et la maintenance des aéronefs ou la certific
 
 - école des drones ;
 
-- détachement avions de l'armée de terre (DAAT) ;
+- groupe avions de l'armée de terre (GAAT) ;
 
 - direction des ressources humaines de l'armée de terre (DRHAT) ;
 
@@ -251,3 +251,7 @@ e) Direction de la sécurité aéronautique d'Etat (DSAE) :
 - unités de contrôle de la navigabilité (UCN).
 
 f) Bureau enquête accident pour la sécurité de l'aéronautique d'Etat (BEA-E).
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 19 décembre 2025 (NOR : ARMH2536001A), ces dispositions, dans leur rédaction issue de l'article 1er de l'arrêté précité, entrent en vigueur le 1er janvier 2026.

@@ -88,7 +88,7 @@ Postes exigeant la mise en œuvre de la compétence spécifique de sécurité a�
 
 - groupement aéromobile de la section technique de l'armée de terre (GAM/STAT) ;
 
-- détachement avions de l'armée de terre (DAAT) ;
+-groupe avions de l'armée de terre (GAAT) ;
 
 - état-major du commandement des actions dans la profondeur et du renseignement (CAPR) ;
 
@@ -207,3 +207,7 @@ c) Direction générale de l'armement (DGA)
 d) Commissariat au numérique de défense (CND) :
 
 -sous-direction “ gouvernance, emploi et pilotage ” du commandement numérique interarmées : section Système de Management de la Sécurité (SMS).
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 19 décembre 2025 (NOR : ARMH2536001A), ces dispositions, dans leur rédaction issue de l'article 1er de l'arrêté précité, entrent en vigueur le 1er janvier 2026.
