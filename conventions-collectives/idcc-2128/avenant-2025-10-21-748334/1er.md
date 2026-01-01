@@ -1,0 +1,193 @@
+# Article 1er
+
+Les dispositions de l'annexe V « Cotisations du régime de prévoyance (non-cadres et cadres) », sont modifiées comme suit :
+
+« Les taux de cotisations contractuels servant au financement du régime de prévoyance sont fixés dans les conditions suivantes :
+
+Taux contractuels (en pourcentage) |
+
+Garanties |
+
+T1 |
+
+T2 (max 4 PASS) |
+
+Employeur |
+
+Salarié |
+
+Total |
+
+Employeur |
+
+Salarié |
+
+Total |
+
+Décès (capitaux et rentes) |
+
+0,87 |
+
+0 |
+
+0,87 |
+
+0,87 |
+
+0 |
+
+0,87 |
+
+Incapacité |
+
+0,19 |
+
+0,52 |
+
+0,71 |
+
+0,38 |
+
+1,08 |
+
+1,46 |
+
+Invalidité |
+
+0,97 |
+
+0,25 |
+
+1,22 |
+
+1,88 |
+
+0,50 |
+
+2,38 |
+
+Total
+
+|
+
+2,03
+
+|
+
+0,77
+
+|
+
+2,80
+
+|
+
+3,13
+
+|
+
+1,58
+
+|
+
+4,71
+
+|
+
+À compter du 1er janvier 2026 et jusqu'au 31 décembre 2026, les taux de cotisations appelés sont les suivants :
+
+Taux d'appel (en pourcentage) |
+
+Garanties |
+
+T1 |
+
+T2 (max 4 PASS) |
+
+Employeur |
+
+Salarié |
+
+Total |
+
+Employeur |
+
+Salarié |
+
+Total |
+
+Décès (capitaux et rentes) |
+
+0,80 |
+
+0 |
+
+0,80 |
+
+0,80 |
+
+0 |
+
+0,80 |
+
+Incapacité |
+
+0,18 |
+
+0,48 |
+
+0,66 |
+
+0,36 |
+
+0,99 |
+
+1,35 |
+
+Invalidité |
+
+0,90 |
+
+0,23 |
+
+1,13 |
+
+1,75 |
+
+0,46 |
+
+2,21 |
+
+Total
+
+|
+
+1,88
+
+|
+
+0,71
+
+|
+
+2,59
+
+|
+
+2,90
+
+|
+
+1,46
+
+|
+
+4,36
+
+|
+
+À compter du 1er janvier 2027, les taux contractuels s'appliqueront, sauf modification nécessitée par l'évolution des résultats du régime de prévoyance et décidée par la CPPNI.
+
+T1 : tranche de rémunération comprise entre 0 et 1 fois le plafond annuel de la sécurité sociale (PASS).
+
+T2 : tranche de rémunération comprise entre 1 fois et 4 fois le PASS. »
