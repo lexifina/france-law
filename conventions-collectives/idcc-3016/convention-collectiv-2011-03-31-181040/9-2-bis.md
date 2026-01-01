@@ -1,4 +1,4 @@
-# Article 2 bis
+# Article 9.2 bis
 
 Le régime de prévoyance est applicable à l'ensemble des salariés dans les conditions fixées aux articles 3 et 4 du présent titre.
 
