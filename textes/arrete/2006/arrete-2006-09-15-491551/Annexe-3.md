@@ -122,7 +122,7 @@ Lignite et produits de récupération
 
 Les facteurs de conversion de l'énergie finale (exprimée en PCI) en énergie primaire sont les suivants :
 
-- + 2,3 pour l'électricité ;
+- + 1,9 pour l'électricité ;
 
 - + 1 pour les autres énergies.
 
@@ -372,4 +372,4 @@ Strictement supérieur à 510 |
 
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 31 mars 2021 (NOR : LOGL2107220A), ces dispositions entrent en vigueur le 1er juillet 2021.
+Conformément à l’article 5 de l’arrêté du 13 août 2025 (NOR : ATDL2519132A), ces dispositions, dans leur rédaction issue de l'article 2 dudit arrêté, entrent en vigueur le 1er janvier 2026.

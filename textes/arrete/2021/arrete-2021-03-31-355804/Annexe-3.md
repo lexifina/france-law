@@ -1,11 +1,13 @@
 # Article Annexe 3
 
-Annexe non reproduite.
+FACTEURS DE CONVERSION DES ÉNERGIES FINALES EN ÉNERGIE PRIMAIRE
+
+Les facteurs de conversion de l'énergie finale (exprimée en kilowattheures de pouvoir calorifique inférieur) en énergie primaire sont les suivants :
+
++ 1,9 pour l'électricité ;
+
++ 1 pour les autres énergies.
 
 NOTA :
 
-Vous pouvez consulter la présente annexe à partir de l'extrait du Journal officiel électronique authentifié accessible au lien suivant : https://www.legifrance.gouv.fr/download/pdf?id=doxMrRr0wbfJVvtWjfDP4qE7zNsiFZL-4wqNyqoY-CA=
-
-Conformément au 4° de l’article 1 de l’arrêté du 25 mars 2024 (NOR : TREL2330369A), toutes les occurrences dans la présente annexe des mots : "surface habitable" sont remplacées par : "surface de référence".
-
-Conformément à l’article 5 de l’arrêté du 25 mars 2024 (NOR : TREL2330369A), ces dispositions, dans leur rédaction résultant de l'article 1er dudit arrêté, entrent en vigueur le 1er juillet 2024.
+Conformément à l’article 5 de l’arrêté du 13 août 2025 (NOR : ATDL2519132A), ces dispositions, dans leur rédaction issue de l'article 1 et de l'annexe 1 dudit arrêté, entrent en vigueur le 1er janvier 2026.
