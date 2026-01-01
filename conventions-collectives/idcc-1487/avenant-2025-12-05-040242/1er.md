@@ -1,0 +1,19 @@
+# Article 1er
+
+L'article 3 de l'accord du 16 décembre 2015 est modifié comme suit :
+
+« Bénéficiaires
+
+Les entreprises entrant dans le champ d'application de la convention collective devront obligatoirement affilier l'ensemble de leur personnel.
+
+Sont visés par le présent article les salariés titulaires d'un contrat de travail ainsi que les anciens salariés bénéficiant de la portabilité des droits en application de l'article L. 911-8 du code de la sécurité sociale jusqu'à l'expiration de leurs droits :
+
+– non-cadres : personnel ne relevant pas des articles 2.1 et 2.2 de l'accord national interprofessionnel relatif à la prévoyance des cadres du 17 novembre 2017 ;
+
+– cadres : personnel relevant de l'article 2.1 et 2.2 de l'accord national interprofessionnel relatif à la prévoyance des cadres du 17 novembre 2017.
+
+Conformément à l'accord du 17 mai 2024 relatif à l'extension des garanties de protection sociale complémentaire des cadres mis en conformité les dispositions conventionnelles avec les dispositions du décret n° 2021-1002 du 30 juillet 2021, et à l'agrément rendu par la commission paritaire APEC le 4 septembre 2024 les entreprises de la branche ont également la possibilité d'intégrer ou non à la catégorie des cadres pour le bénéfice des garanties de prévoyance, tout ou partie des salariés dont la classification a été agréée par la commission paritaire de l'APEC.
+
+Les dispositions du régime de prévoyance s'appliquent aux salariés cadres sans condition d'ancienneté.
+
+Toutefois, un an d'ancienneté minimum est requis pour que les salariés non cadres bénéficient de ce régime. La condition d'ancienneté est réputée acquise au 1er jour du mois civil suivant celui au cours duquel le salarié acquiert un an d'ancienneté dans l'entreprise. »
