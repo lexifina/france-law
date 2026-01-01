@@ -462,7 +462,7 @@ Un délai minimal de sept jours francs est respecté entre la date d'acceptation
 
 Lorsque le bénéficiaire est une personne physique, le professionnel qui procède à la réalisation de l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application.
 
-Ce signe de qualité correspond à des travaux relevant du 4 du I de l'article 46 AX de l'annexe III du code général des impôts .
+Ce signe de qualité correspond à des travaux relevant du 4 du I de l'article 46 AX de l'annexe III du code général des impôts.
 
 La preuve de la réalisation de l'opération mentionne :
 
@@ -610,7 +610,7 @@ La résistance thermique R de l'isolation installée est supérieure ou égale �
 
 Lorsque le bénéficiaire est une personne physique, le professionnel qui procède à la réalisation de l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application.
 
-Ce signe de qualité correspond à des travaux relevant du 3 du I de l'article 46 AX de l'annexe III du code général des impôts .
+Ce signe de qualité correspond à des travaux relevant du 3 du I de l'article 46 AX de l'annexe III du code général des impôts.
 
 La preuve de la réalisation de l'opération mentionne :
 
@@ -770,7 +770,233 @@ Conformément à l’article 1er de l’arrêté du 18 décembre 2020 (NOR : TRE
 
 - Chauffe-eau solaire individuel (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-101
 
-Conformément à l’article 2 de l’arrêté du 22 août 2024 (NOR : ECOR2422700A), la fiche d’opération n° BAR-TH-101 remplace, à compter du 1er janvier 2025, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=ZbBEIZBpGcGHOKQbKS9utmtc_Fh71x9KoG_z3damffY=.
+Opération n° BAR-TH-101
+
+Chauffe-eau solaire individuel (France métropolitaine) |
+
+1. Secteur d'application
+
+Bâtiment résidentiel : maisons individuelles existantes en France métropolitaine.
+
+2. Dénomination
+
+Mise en place d'un chauffe-eau solaire individuel (CESI) à circulation forcée, comprenant des capteurs solaires thermiques vitrés, un ballon d'eau chaude solaire et un appoint, l'ensemble permettant de couvrir la totalité du besoin en eau chaude sanitaire du logement.
+
+Les systèmes de type thermosiphon ou auto-stockeur sont exclus.
+
+La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-171 Pompe à chaleur de type air/eau et BAR-TH-172 Pompe à chaleur de type eau/eau ou eau glycolée/eau .
+
+La présente fiche est applicable aux opérations engagées avant le 1er janvier 2031.
+
+3. Conditions pour la délivrance de certificats
+
+Les capteurs hybrides sont exclus.
+
+La mise en place est réalisée par un professionnel. Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 2° du I de l'article 1er du décret précité.
+
+La surface hors-tout totale de capteurs solaires thermiques vitrés installés est supérieure ou égale à 2 m2.
+
+L'efficacité énergétique pour le chauffage de l'eau, définie par le règlement (UE) n° 814/2013 de la Commission du 2 août 2013 portant application de la directive 2009/125/CE du Parlement européen et du Conseil en ce qui concerne les exigences d'écoconception applicables aux chauffe-eau et aux ballons d'eau chaude, correspond à un profil de soutirage déclaré M, L, XL ou XXL et est supérieure ou égale à :
+
+Energie de l'appoint |
+
+Profil de soutirage |
+
+M |
+
+L |
+
+XL |
+
+XXL |
+
+Electrique à effet Joule |
+
+36 % |
+
+37 % |
+
+38 % |
+
+60 % |
+
+Autre |
+
+95 % |
+
+100 % |
+
+110 % |
+
+120 % |
+
+Les capteurs solaires installés sont associés à un ou plusieurs ballons d'eau chaude solaires. Si la capacité de stockage du ou des ballons d'eau chaude solaires est inférieure ou égale à 500 litres, la classe d'efficacité énergétique du ou des ballons d'eau chaude solaires, déterminée conformément à l'annexe II, point 2 du règlement (UE) n° 812/2013 de la Commission du 18 février 2013 complétant la directive 2010/30/UE du Parlement européen et du Conseil en ce qui concerne l'étiquetage énergétique des chauffe-eau, des ballons d'eau chaude et des produits combinés constitués d'un chauffe-eau et d'un dispositif solaire, est, a minima, la classe C.
+
+Les capteurs solaires installés sont des capteurs thermiques vitrés à circulation d'eau ou d'eau glycolée, dans les conditions de pose et d'utilisation de l'équipement, et ont :
+
+- une certification CSTBat ou SolarKeymark fondée sur les normes ISO 9806 et NF EN 12975 ou toute autre méthode équivalente ; ou
+
+- des caractéristiques de performances et de qualité équivalentes, établies par un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/IEC 17025 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+
+La preuve de réalisation de l'opération mentionne :
+
+- la mise en place d'un chauffe-eau solaire individuel (CESI) et la nature de l'appoint (électrique à effet Joule ou autre) ;
+
+- la nature du fluide circulant dans les capteurs solaires, dans les conditions de pose et d'utilisation de l'équipement (eau ou eau glycolée) ;
+
+- la surface hors-tout totale des capteurs solaires thermiques installés (en m2) ;
+
+- l'efficacité énergétique pour le chauffage de l'eau du chauffe-eau selon le règlement (UE) n° 814/2013 susmentionné pour le profil de soutirage déclaré ;
+
+- le nombre de ballons d'eau chaude solaires installés ;
+
+- la capacité de stockage de chaque ballon d'eau chaude solaire installé (en litres) ;
+
+- la classe d'efficacité énergétique des ballons d'eau chaude solaires installés dont la capacité de stockage est inférieure ou égale à 500 litres, selon le règlement (UE) n° 812/2013 susmentionné.
+
+A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'un équipement avec ses marque et référence ainsi que les caractéristiques de l'installation (la surface hors-tout totale, en m2, des capteurs thermiques installés, le nombre et la capacité, en litres, des ballons d'eau chaude solaires installés, la nature du fluide circulant dans les capteurs solaires) et elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de la coordination européenne des organismes d'accréditation.
+
+Ce document indique que l'équipement de marque et référence installé est un chauffe-eau solaire individuel et précise la nature de son appoint. Il indique également la surface hors-tout de chaque capteur solaire thermique installé (en m2), l'efficacité énergétique pour le chauffage de l'eau du chauffe-eau selon le règlement (UE) n° 814/2013 susmentionné pour le profil de soutirage déclaré, la capacité de stockage des ballons d'eau chaude solaires (en litres) et la classe d'efficacité énergétique selon le règlement (UE) n° 812/2013 susmentionné des ballons d'eau chaude solaires dont la capacité de stockage est inférieure ou égale à 500 litres.
+
+Les documents justificatifs spécifiques à l'opération sont :
+
+- la certification CSTBat ou SolarKeymark des capteurs solaires ou les pièces justifiant de son équivalence ;
+
+- la décision de qualification ou de certification du professionnel délivrée selon les mêmes exigences que celles prévues à l'article 2 du décret susmentionné.
+
+4. Durée de vie conventionnelle
+
+20 ans.
+
+5. Montant de certificats en kWh cumac
+
+Zone climatique |
+
+Montant en kWh cumac |
+
+H1 |
+
+18 500 |
+
+H2 |
+
+21 000 |
+
+H3 |
+
+24 200 |
+
+Annexe 1 à la fiche d'opération standardisée BAR-TH-101 définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A. - BAR-TH-101 (v. A78.3) : Mise en place d'un chauffe-eau solaire individuel (CESI) à circulation forcée, comprenant des capteurs solaires thermiques vitrés, un ballon d'eau chaude solaire et un appoint, l'ensemble permettant de couvrir la totalité du besoin en eau chaude sanitaire du logement.
+
+* Date d'engagement de l'opération (ex : date d'acceptation du devis) :
+
+Date de preuve de réalisation de l'opération (ex : date de la facture) :
+
+Référence de la facture :
+
+* Pour les personnes morales : nom du site des travaux ou nom de la copropriété :
+
+* Nom du site des travaux :
+
+* Adresse des travaux :
+
+Complément d'adresse :
+
+* Code postal :
+
+* Ville :
+
+* Maison individuelle existant depuis plus de 2 ans à la date d'engagement de l'opération : □ OUI □ NON
+
+Le chauffe-eau solaire individuel (CESI) installé est à circulation forcée et comprend des capteurs solaires thermiques vitrés, un ballon d'eau chaude solaire et un appoint : □ OUI □ NON
+
+Nota 1. - Les systèmes de type thermosiphon ou auto-stockeur sont exclus.
+
+* Le chauffe-eau solaire installé permet de couvrir la totalité du besoin en eau chaude sanitaire du logement :
+
+□ OUI □ NON
+
+* Les capteurs solaires thermiques vitrés installés sont à circulation d'eau ou d'eau glycolée, dans les conditions de pose et d'utilisation de l'équipement : □ OUI □ NON
+
+* Surface hors-tout totale de capteurs solaires vitrés thermiques installés (m2) :
+
+Nota 2. - La surface hors-tout totale de capteurs solaires thermiques vitrés installés est supérieure ou égale à 2 m2.
+
+* Profil de soutirage déclaré (M, L, XL ou XXL) :
+
+* Efficacité énergétique pour le chauffage de l'eau pour le profil de soutirage déclaré (en %) :
+
+Nota 3. - L'efficacité énergétique pour le chauffage de l'eau, définie par le règlement (UE) n° 814/2013 de la Commission du 2 août 2013 portant application de la directive 2009/125/CE du Parlement européen et du Conseil en ce qui concerne les exigences d'écoconception applicables aux chauffe-eau et aux ballons d'eau chaude, correspond à un profil de soutirage déclaré M, L, XL ou XXL et est supérieure ou égale à :
+
+Energie de l'appoint |
+
+Profil de soutirage |
+
+M |
+
+L |
+
+XL |
+
+XXL |
+
+Electrique à effet Joule |
+
+36 % |
+
+37 % |
+
+38 % |
+
+60 % |
+
+Autre |
+
+95 % |
+
+100 % |
+
+110 % |
+
+120 % |
+
+* Nombre de ballons d'eau chaude solaires installés :
+
+Cartouche à dupliquer pour chaque ballon d'eau chaude solaire installé :
+
+* Capacité de stockage du ballon d'eau chaude solaire (litres) :
+
+* Si la capacité de stockage du ballon d'eau chaude solaire est inférieure ou égale à 500 litres, classe d'efficacité énergétique du ballon d'eau chaude solaire : |
+
+Nota 4. - Si la capacité de stockage du ou des ballons d'eau chaude solaires est inférieure ou égale à 500 litres, la classe d'efficacité énergétique du ou des ballons d'eau chaude solaires, déterminée conformément à l'annexe II, point 2 du règlement (UE) n° 812/2013 de la Commission du 18 février 2013 complétant la directive 2010/30/UE du Parlement européen et du Conseil en ce qui concerne l'étiquetage énergétique des chauffe-eau, des ballons d'eau chaude et des produits combinés constitués d'un chauffe-eau et d'un dispositif solaire, est, a minima, la classe C.
+
+Caractéristiques des capteurs solaires :
+
+* Les capteurs solaires ont une certification CSTBat ou Solar Keymark ou équivalente : □ OUI □ NON
+
+* Les capteurs solaires sont des capteurs non hybrides : □ OUI □ NON
+
+A ne remplir que si les marque et référence de l'équipement ne sont pas mentionnées sur la preuve de réalisation de l'opération :
+
+* Marque :
+
+* Référence :
+
+Nota 5. - La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-171 Pompe à chaleur de type air/eau et BAR-TH-172 Pompe à chaleur de type eau/eau ou eau glycolée/eau .
+
+Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 2° du I de l'article 1er du décret précité.
+
+Identité du professionnel titulaire du signe de qualité ayant réalisé l'opération, s'il n'est pas le signataire de cette attestation (sous traitant par exemple) :
+
+* Nom :
+
+* Prénom :
+
+* Raison sociale :
+
+* N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 - Chauffe-eau solaire collectif (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-102
 
@@ -796,6 +1022,8 @@ Conformément à l’article 1er de l’arrêté du 18 décembre 2020 (NOR : TRE
 
 Conformément à l’article 1 de l’arrêté du 18 février 2022 (NOR : TRER2205456A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe B dudit arrêté, à compter du 1er mai 2022.
 
+Conformément à l’article 1er de l’arrêté du 27 décembre 2025 (NOR : ECOR2535186A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er janvier 2026.
+
 - Isolation d’un réseau hydraulique de chauffage / Fiche d’opération standardisée n°BAR-TH-115 (Abrogée à compter du 1er avril 2018)
 
 Conformément à l’article 1er de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 1 dudit arrêté.
@@ -819,6 +1047,234 @@ Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER23252
 - Chauffe-eau solaire individuel (France d’outre-mer) / Fiche d’opération standardisée n°BAR-TH-124
 
 Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.
+
+Chauffe-eau solaire individuel (France d'outre-mer) |
+
+1. Secteur d'application
+
+Maisons individuelles neuves ou existantes.
+
+Appartements au sein de bâtiments résidentiels neufs ou existants pour lesquels la superficie hors-tout totale de capteurs mise en œuvre pour l'ensemble des logements ne dépasse pas 40 m2.
+
+Les parties nouvelles de logements existants sont considérées comme des logements neufs.
+
+La présente fiche s'applique aux ventes et aux ventes par abonnement de chauffe-eau solaire individuel. La vente par abonnement correspond à la vente d'un service d'eau chaude assuré par un chauffe-eau solaire neuf installé, en début de période contractuelle, par un professionnel et prévoyant, au terme du contrat, la cession du chauffe-eau.
+
+La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-171 Pompe à chaleur de type air/eau et BAR-TH-172 Pompe à chaleur de type eau/eau ou eau glycolée/eau .
+
+La présente fiche est applicable aux opérations engagées avant le 1er janvier 2031.
+
+2. Dénomination
+
+Mise en place (vente ou vente par abonnement) d'un chauffe-eau solaire individuel neuf (CESI).
+
+3. Conditions pour la délivrance de certificats
+
+La mise en place est réalisée par un professionnel.
+
+Le contrat de vente par abonnement a une durée minimale de dix ans. Il comporte une clause de maintien, par le professionnel, du bon état de fonctionnement du CESI pendant toute la durée du contrat d'abonnement.
+
+La superficie hors-tout de capteurs est celle définie dans la norme ISO 9488.
+
+L'efficacité énergétique pour le chauffage de l'eau, définie par le règlement (UE) n° 814/2013 de la Commission du 2 août 2013 portant application de la directive 2009/125/CE du Parlement européen et du Conseil en ce qui concerne les exigences d'écoconception applicables aux chauffe-eau et aux ballons d'eau chaude, est supérieure ou égale à :
+
+Energie de l'appoint |
+
+Profil de soutirage |
+
+M |
+
+L |
+
+XL |
+
+XXL |
+
+Electrique à effet Joule |
+
+36 % |
+
+37 % |
+
+38 % |
+
+60 % |
+
+Autre |
+
+95 % |
+
+100 % |
+
+110 % |
+
+120 % |
+
+Les équipements ont :
+
+- une certification QB dont le domaine d'emploi de l'avis technique couvre explicitement les départements d'outre-mer ; ou
+
+- des caractéristiques de performances et de qualité équivalentes, établies par un organisme localisé dans l'Espace économique européen et accrédité selon la norme NF EN ISO/CEI 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de la coordination européenne des organismes d'accréditation.
+
+Pour justifier de l'équivalence à la certification QB dans le domaine d'emploi considéré, le procédé doit comporter, pour les appareils à circulation forcée, a minima une certification Solar Keymark Capteur ou équivalent et, pour les appareils thermosiphon et les auto-stockeurs, une certification Solar Keymark Système ou équivalent, et les justificatifs suivants :
+
+1/ Pour la résistance à l'arrachement :
+
+- seuil de tenue à l'arrachement du vitrage du (des) capteur(s) supérieur ou égal à 3 000 Pa mesuré selon la norme d'essai ISO 9806, obtenu par un laboratoire accrédité conformément à la norme NF EN ISO/IEC 17065 ;
+
+- note de calcul réalisée selon les Eurocodes par un bureau d'études indépendant, validant la tenue des fixations vis-à-vis des charges mécaniques, climatiques et sismiques spécifiques de la zone d'installation de l'équipement.
+
+2/ Pour la corrosion, un rapport d'étude d'un organisme tiers ISO 9001 validant :
+
+- la tenue à la corrosion des matériaux aux atmosphères extérieures définies dans la norme NF P 24351, soit a minima de type E17 en ce qui concerne le châssis, la visserie et le système de fixation et a minima de type E16 pour le capteur et le ballon de stockage ;
+
+- la compatibilité des matériaux face aux environnements extérieurs spécifiques en outre-mer, par une étude du couple électrochimique induit par l'assemblage de ces matériaux.
+
+Dans les deux cas, la certification porte :
+
+- sur la globalité du système pour les appareils auto-stockeurs et à thermosiphon ;
+
+- sur les capteurs solaires thermiques pour les appareils à circulation forcée.
+
+La preuve de réalisation de l'opération mentionne la mise en place d'un chauffe-eau solaire individuel neuf, la superficie hors-tout totale des capteurs solaires thermiques posés et l'efficacité énergétique pour le chauffage de l'eau du chauffe-eau. Pour les ventes par abonnement, la preuve de réalisation est le contrat de vente par abonnement dûment daté et signé par les parties.
+
+A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'un équipement neuf avec ses marque et référence et la superficie hors tout totale des capteurs solaires thermiques posés, et elle est complétée par un (des) document(s) issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de la coordination européenne des organismes d'accréditation.
+
+Ce document indique que l'équipement de marque et référence mis en place est un chauffe-eau solaire individuel et mentionne l'efficacité énergétique pour le chauffage de l'eau du chauffe-eau. En cas de mention d'une date de validité, ce document est considéré comme valable jusqu'à un an après la date de fin de validité.
+
+Pour les opérations engagées jusqu'au 31 décembre 2020, le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 5 du I de l'article 46 AX de l'annexe III du code général des impôts.
+
+Pour les opérations engagées à compter du 1er janvier 2021, le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 2° du I de l'article 1er du décret précité.
+
+Les documents justificatifs spécifiques à l'opération sont :
+
+- la certification QB susmentionnée ou les pièces justifiant de son équivalence ;
+
+- la décision de qualification ou de certification du professionnel ayant réalisé l'opération.
+
+4. Durée de vie conventionnelle
+
+20 ans.
+
+5. Montant de certificats en kWh cumac
+
+Zone géographique |
+
+Montant en kWh cumac par m2 de capteur solaire posé |
+
+|
+
+Superficie hors tout
+
+de capteurs solaires posés (m2) |
+
+Logement existant |
+
+Logement neuf |
+
+|
+
+|
+
+Guadeloupe/Martinique/Mayotte |
+
+5 300 |
+
+2 600 |
+
+× |
+
+S |
+
+Réunion |
+
+4 300 |
+
+2 100 |
+
+|
+
+Guyane |
+
+5 400 |
+
+3 000 |
+
+|
+
+Annexe 1 à la fiche d'opération standardisée BAR-TH-124 définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A. - BAR-TH-124 (v. A78.4) : Mise en place (vente ou vente par abonnement) d'un chauffe-eau solaire individuel neuf (CESI).
+
+* Date d'engagement de l'opération (ex : date d'acceptation du devis) : //
+
+Date de preuve de réalisation de l'opération (ex : date de la facture) : //
+
+Référence de la facture :
+
+* Pour les personnes morales, nom du site des travaux ou nom de la copropriété :
+
+* Adresse des travaux :
+
+Complément d'adresse :
+
+* Code postal :
+
+* Ville :
+
+* Type de logement :
+
+□ Neuf ;
+
+□ Existant depuis plus de deux ans à la date d'engagement de l'opération.
+
+Nota. - Les parties nouvelles de logements existants sont considérées comme des logements neufs.
+
+* Type de vente (une seule case à cocher) : □ vente □ vente par abonnement
+
+Le contrat de vente par abonnement a d'une durée minimale de dix ans et il comporte une clause de maintien, par le professionnel, du bon état de fonctionnement du CESI pendant toute la durée du contrat d'abonnement : □ OUI □ NON
+
+Caractéristiques du chauffe-eau solaire :
+
+L'équipement a des caractéristiques de performance validées par la marque de certification QB dont le domaine d'emploi de l'avis technique couvre explicitement les départements d'outre-mer, ou équivalente attestant la résistance à l'arrachement et la corrosion ainsi que la compatibilité des matériaux du produit.
+
+La certification porte :
+
+- sur la globalité du système pour les appareils auto-stockeurs et à thermosiphon ;
+
+- sur les capteurs solaires thermiques pour les appareils à circulation forcée.
+
+Nombre d'appareils installés :
+
+* Superficie hors-tout totale de capteurs solaires posés (m2) :
+
+Nota 1. - Si le logement est un appartement, la superficie hors-tout totale de capteurs installés sur le bâtiment pour l'ensemble des logements ne dépasse pas 40 m2.
+
+* Efficacité énergétique pour le chauffage de l'eau exprimée en % :
+
+L'efficacité énergétique pour le chauffage de l'eau est définie par le règlement (UE) n° 814/2013 de la Commission du 2 août 2013 portant application de la directive 2009/125/CE du Parlement européen et du Conseil en ce qui concerne les exigences d'écoconception applicables aux chauffe-eau et aux ballons d'eau chaude.
+
+A ne remplir que si les marque et référence du chauffe-eau installé ne sont pas mentionnées sur la preuve de réalisation de l'opération :
+
+* Marque :
+
+* Référence :
+
+Nota 2. - La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-171 Pompe à chaleur de type air/eau et BAR-TH-172 Pompe à chaleur de type eau/eau ou eau glycolée/eau .
+
+Pour les opérations engagées jusqu'au 31 décembre 2020, le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 5 du I de l'article 46 AX de l'annexe III du code général des impôts.
+
+Pour les opérations engagées à compter du 1er janvier 2021, le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 2° du I de l'article 1er du décret précité.
+
+Identité du professionnel titulaire du signe de qualité ayant réalisé l'opération, s'il n'est pas le signataire de cette attestation (sous-traitant par exemple) :
+
+* Nom :
+
+* Prénom :
+
+* Raison sociale :
+
+* N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 - Système de ventilation double flux autoréglable ou modulé à haute performance (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-125
 
@@ -868,6 +1324,8 @@ Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER202
 
 Conformément à l’article 3 de l’arrêté du 12 juillet 2022 (NOR : ENER2219562A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er septembre 2022.
 
+Conformément à l’article 1er de l’arrêté du 27 décembre 2025 (NOR : ECOR2535186A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er janvier 2026.
+
 - Système de variation électronique de vitesse sur une pompe / Fiche d’opération standardisée n°BAR-TH-139
 
 Conformément à l’article 5 de du 20 octobre 2016 (NOR : DEVR1627593A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 4 dudit arrêté.
@@ -875,6 +1333,8 @@ Conformément à l’article 5 de du 20 octobre 2016 (NOR : DEVR1627593A), la fi
 - Système solaire combiné (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-143
 
 Conformément à l’article 1er de l’arrêté du 21 décembre 2022 (NOR : ENER2235115A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er mars 2023.
+
+Conformément à l’article 1er de l’arrêté du 27 décembre 2025 (NOR : ECOR2535186A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er janvier 2026.
 
 - Rénovation globale d’un bâtiment résidentiel (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-145
 
@@ -896,7 +1356,9 @@ Bâtiments résidentiels existants.
 
 Mise en place d'un chauffe-eau thermodynamique individuel à accumulation.
 
-La présente fiche s'applique aux opérations engagées avant le 1er novembre 2030.
+La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-171 Pompe à chaleur de type air/eau et BAR-TH-172 Pompe à chaleur de type eau/eau ou eau glycolée/eau .
+
+La présente fiche s'applique aux opérations engagées avant le 1er janvier 2031.
 
 3. Conditions pour la délivrance de certificats
 
@@ -936,9 +1398,9 @@ Le document justificatif spécifique à l'opération est la décision de qualifi
 
 Type de logement |
 
-Montant unitaire en
+Montant unitaire
 
-kWh cumac |
+en kWh cumac |
 
 Maison individuelle |
 
@@ -948,15 +1410,15 @@ Appartement |
 
 11 800 |
 
-Annexe 1 à la fiche d'opération standardisée BAR-TH-148, définissant le contenu de la partie A de l'attestation sur l'honneur
+Annexe 1 à la fiche d'opération standardisée BAR-TH-148 définissant le contenu de la partie A de l'attestation sur l'honneur
 
-A/ BAR-TH-148 (v. A73.3) : Mise en place d'un chauffe-eau thermodynamique individuel à accumulation.
+A. - BAR-TH-148 (v. A78.4) : Mise en place d'un chauffe-eau thermodynamique individuel à accumulation.
 
 * Date d'engagement de l'opération (ex : date d'acceptation du devis) :
 
-* Date de preuve de réalisation de l'opération (ex : date de la facture) :
+Date de preuve de réalisation de l'opération (ex : date de la facture) :
 
-* Référence de la facture :
+Référence de la facture :
 
 * Nom du site des travaux (pour les personnes morales) :
 
@@ -978,7 +1440,7 @@ Caractéristiques du chauffe-eau thermodynamique :
 
 * Efficacité énergétique pour le chauffage de l'eau, pour le profil de soutirage déclaré (en %) :
 
-Nota. - L'efficacité énergétique pour le chauffage de l'eau, définie par règlement délégué (UE) n° 814/2013 de la Commission du 2 août 2013 portant application de la directive 2009/125/CE du Parlement européen et du Conseil en ce qui concerne les exigences d'écoconception applicables aux chauffe-eau et aux ballons d'eau chaude, correspond à un profil de soutirage déclaré M, L ou XL et est supérieure ou égale à :
+Nota 1. - L'efficacité énergétique pour le chauffage de l'eau, définie par règlement délégué (UE) n° 814/2013 de la Commission du 2 août 2013 portant application de la directive 2009/125/CE du Parlement européen et du Conseil en ce qui concerne les exigences d'écoconception applicables aux chauffe-eau et aux ballons d'eau chaude, correspond à un profil de soutirage déclaré M, L ou XL et est supérieure ou égale à :
 
 Profil de soutirage |
 
@@ -1002,13 +1464,15 @@ A ne remplir que si les marque et référence du chauffe-eau thermodynamique ne 
 
 * Référence :
 
+Nota 2. - La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-171 Pompe à chaleur de type air/eau et BAR-TH-172 Pompe à chaleur de type eau/eau ou eau glycolée/eau .
+
 Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 6° du I de l'article 1er du décret précité.
 
 Identité du professionnel titulaire du signe de qualité ayant réalisé l'opération, s'il n'est pas le signataire de cette attestation (sous-traitance par exemple) :
 
-* Nom :
+* Nom
 
-* Prénom :
+* Prénom
 
 * Raison sociale :
 
@@ -1650,8 +2114,6 @@ Conformément au III de l'article 2 de l'arrêté du 19 décembre 2023 (NOR : EN
 
 - Chaudière biomasse collective / Fiche d’opération standardisée n°BAR-TH-165
 
-- Pompe à chaleur collective de type air/eau ou eau/eau / Fiche d’opération standardisée n°BAR-TH-166
-
 - CERTIFICATS D'ÉCONOMIES D'ÉNERGIE
 
 Opération n° BAR-TH-168
@@ -1666,7 +2128,9 @@ Bâtiment résidentiel : maisons individuelles existantes en France métropolita
 
 Mise en place d'un dispositif solaire thermique individuel installé sur appoint séparé, neuf ou existant, destiné à la production de chauffage et à la production d'eau chaude sanitaire ou à la production d'eau chaude sanitaire seulement.
 
-La présente fiche s'applique aux opérations engagées avant le 1er avril 2030.
+La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-171 Pompe à chaleur de type air/eau et BAR-TH-172 Pompe à chaleur de type eau/eau ou eau glycolée/eau .
+
+La présente fiche s'applique aux opérations engagées avant le 1er janvier 2031.
 
 3. Conditions pour la délivrance de certificats
 
@@ -1682,11 +2146,11 @@ Les capteurs solaires ont une puissance de sortie disponible supérieure ou éga
 
 Les capteurs solaires installés sont des capteurs thermiques vitrés à circulation d'eau ou d'eau glycolée, dans les conditions de pose et d'utilisation de l'équipement, et ont :
 
-- une certification QB ou SolarKeymark fondée sur les normes ISO 9806 et NF EN 12975 ou toute autre méthode équivalente ;
+- une certification QB ou SolarKeymark fondée sur les normes ISO 9806 et NF EN 12975 ou toute autre méthode équivalente ; ou
 
-- ou des caractéristiques de performances et de qualité équivalentes, établies par un organisme établi dans l'Espace economique européen et accrédité selon la norme NF EN ISO/IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+- des caractéristiques de performances et de qualité équivalentes, établies par un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
-Si la capacité de stockage du ou des ballons d'eau chaude solaires est inférieure ou égale à 500 litres, leur classe d'efficacité énergétique, déterminée conformément à l'annexe II, point 2 du règlement délégué (UE) n° 812/2013 de la Commission du 18 février 2013 complétant la directive 2010/30/UE du Parlement européen et du Conseil en ce qui concerne l'étiquetage énergétique des chauffe-eau, des ballons d'eau chaude et des produits combinés constitués d'un chauffe-eau et d'un dispositif solaire, est a minima la classe C.
+Si la capacité de stockage du ou des ballons d'eau chaude solaires est inférieure ou égale à 500 litres, leur classe d'efficacité énergétique, déterminée conformément à l'annexe II, point 2 du règlement délégué (UE) n° 812/2013 de la Commission du 18 février 2013 complétant la directive 2010/30/UE du Parlement européen et du Conseil en ce qui concerne l'étiquetage énergétique des chauffe-eau, des ballons d'eau chaude et des produits combinés constitués d'un chauffe-eau et d'un dispositif solaire, est, a minima, la classe C.
 
 a) Si le dispositif solaire thermique est installé pour la production de chauffage et la production d'eau chaude sanitaire :
 
@@ -1698,11 +2162,11 @@ de la valorisation de l'énergie solaire.
 
 La surface hors-tout totale de capteurs solaires thermiques vitrés installés est supérieure ou égale à 8 m2.
 
-L'efficacité énergétique saisonnière pour la production de chauffage, définie selon le règlement (UE) n° 813/2013 de la commission du 2 août 2013, est supérieure ou égale à :
+L'efficacité énergétique saisonnière pour la production de chauffage, définie selon le règlement (UE) n° 813/2013 de la Commission du 2 août 2013, est supérieure ou égale à :
 
 - 82 % dans le cas où l'efficacité énergétique saisonnière de l'appoint séparé est inférieure à 82 % ;
 
-- 90 % dans le cas où l'efficacité énergétique saisonnière de l'appoint séparé est supérieure ou égale à 82 % et inférieure à 90 % ;
+- 90 % dans le cas où l'efficacité énergétique saisonnière de l'appoint séparé est supérieure ou égale à 82% et inférieure à 90 % ;
 
 - 98 % dans le cas où l'efficacité énergétique saisonnière de l'appoint séparé est supérieure ou égale à 90 % et inférieure à 98 % ;
 
@@ -1790,7 +2254,9 @@ Les documents justificatifs spécifiques à l'opération sont :
 
 Zone géographique |
 
-Montant en kWh cumac par m2 de capteur |
+Montant en kWh cumac
+
+par m2 de capteur |
 
 |
 
@@ -1800,13 +2266,11 @@ Usage ECS |
 
 Usage ECS
 
-et Chauffage
+et Chauffage |
 
 |
 
 |
-
-S |
 
 H1 |
 
@@ -1815,6 +2279,8 @@ H1 |
 14 000 |
 
 |
+
+S |
 
 H2 |
 
@@ -1834,9 +2300,9 @@ H3 |
 
 ECS signifie : eau chaude sanitaire.
 
-ANNEXE 1 À LA FICHE D'OPÉRATION STANDARDISÉE BAR-TH-168, DÉFINISSANT LE CONTENU DE LA PARTIE A DE L'ATTESTATION SUR L'HONNEUR
+Annexe 1 à la fiche d'opération standardisée BAR-TH-168 définissant le contenu de la partie A de l'attestation sur l'honneur
 
-A/ BAR-TH-168 (v. A67.3) : Mise en place d'un dispositif solaire thermique individuel installé sur appoint séparé, neuf ou existant, destiné à la production de chauffage et à la production d'eau chaude sanitaire ou à la production d'eau chaude sanitaire seulement.
+A. - BAR-TH-168 (v. A78.3) : Mise en place d'un dispositif solaire thermique individuel installé sur appoint séparé, neuf ou existant, destiné à la production de chauffage et à la production d'eau chaude sanitaire ou à la production d'eau chaude sanitaire seulement.
 
 * Date d'engagement de l'opération (ex : date d'acceptation du devis) : //
 
@@ -1858,7 +2324,7 @@ Complément d'adresse :
 
 * Le dispositif solaire thermique est installé pour :
 
-□ la production de chauffage et d'eau chaude sanitaire □ la production d'eau chaude sanitaire seule
+□ la production de chauffage □ la production de chauffage et d'eau chaude sanitaire
 
 * Le dispositif solaire thermique comprend des capteurs solaires thermiques, un ballon de stockage solaire et un régulateur de température qui pilote le circuit solaire et le groupe de sécurité avec le vase d'expansion : □ OUI □ NON
 
@@ -1866,7 +2332,7 @@ Complément d'adresse :
 
 * Energie du système d'appoint séparé, neuf ou existant, accompagnant le dispositif solaire (électrique ou combustible) :
 
-NB1 : Le dispositif solaire thermique installé pour la production de chauffage et la production d'eau chaude sanitaire, n'est pas installé sur un appoint électrique.
+Nota 1. - Le dispositif solaire thermique installé pour la production de chauffage et la production d'eau chaude sanitaire, n'est pas installé sur un appoint électrique.
 
 Caractéristiques des capteurs solaires :
 
@@ -1878,21 +2344,19 @@ Caractéristiques des capteurs solaires :
 
 * Les capteurs solaires thermiques ont une certification QB ou Solarkeymark ou équivalente : □ OUI □ NON
 
-* Les capteurs solaires produisent à la fois électricité et chaleur (capteurs hybrides) : □ OUI □ NON
+* Les capteurs solaires produisent à la fois életricité et chaleur (capteurs hybrides) : □ OUI □ NON
 
-NB2 : Les capteurs solaires ont une puissance de sortie disponible supérieure ou égale à 450 W/m2 de surface hors tout du capteur, mesurée selon la norme ISO 9806 pour une différence entre la température moyenne du fluide caloporteur et la température de l'air ambiant ΔT=50K.
+Nota 2. - Les capteurs solaires ont une puissance de sortie disponible supérieure ou égale à 450 W/m2 de surface hors tout du capteur, mesurée selon la norme ISO 9806 pour une différence entre la température moyenne du fluide caloporteur et la température de l'air ambiant ΔT = 50K.
 
 * Nombre de ballons d'eau chaude installés :
 
 Cartouche à dupliquer pour chaque ballon d'eau chaude solaire installé :
 
-* Capacité de stockage du ballon d'eau chaude solaire (litres) :
+*Capacité de stockage du ballon d'eau chaude solaire (litres) :
 
-* Si la capacité de stockage du ballon d'eau chaude solaire est inférieure ou égale à 500 litres, classe d'efficacité énergétique du ballon d'eau chaude solaire :
+*Si la capacité de stockage du ballon d'eau chaude solaire est inférieure ou égale à 500 litres, classe d'efficacité énergétique du ballon d'eau chaude solaire : |
 
-|
-
-NB3 : Si la capacité de stockage du ou des ballons d'eau chaude solaires est inférieure ou égale à 500 litres, leur classe d'efficacité énergétique, déterminée conformément à l'annexe II, point 2 du règlement délégué (UE) n° 812/2013 de la Commission du 18 février 2013 complétant la directive 2010/30/UE du Parlement européen et du Conseil en ce qui concerne l'étiquetage énergétique des chauffe-eau, des ballons d'eau chaude et des produits combinés constitués d'un chauffe-eau et d'un dispositif solaire, est a minima la classe C.
+Nota 3. - Si la capacité de stockage du ou des ballons d'eau chaude solaires est inférieure ou égale à 500 litres, leur classe d'efficacité énergétique, déterminée conformément à l'annexe II, point 2 du règlement délégué (UE) n° 812/2013 de la Commission du 18 février 2013 complétant la directive 2010/30/UE du Parlement européen et du Conseil en ce qui concerne l'étiquetage énergétique des chauffe-eau, des ballons d'eau chaude et des produits combinés constitués d'un chauffe-eau et d'un dispositif solaire, est, a minima, la classe C.
 
 A remplir uniquement si le dispositif solaire est installé pour la production de chauffage et la production d'eau chaude sanitaire :
 
@@ -1900,7 +2364,7 @@ A remplir uniquement si le dispositif solaire est installé pour la production d
 
 * Efficacité énergétique saisonnière pour la production de chauffage déclaré (en %) :
 
-NB4 : L'efficacité énergétique saisonnière pour la production de chauffage, définie selon le règlement (UE) n° 813/2013 de la commission du 2 août 2013.
+Nota 4. - L'efficacité énergétique saisonnière pour la production de chauffage, définie selon le règlement (UE) n° 813/2013 de la Commission du 2 août 2013.
 
 A remplir uniquement si le dispositif solaire est installé pour la production d'eau chaude sanitaire seule :
 
@@ -1938,7 +2402,7 @@ Autre |
 
 120 % |
 
-* Profil de soutirage déclaré (M, L, XL, XXL) :
+* Profil de soutirage déclaré (M, X, XL, XXL) :
 
 A ne remplir que si les marques et référence de l'équipement ne sont pas mentionnées sur la preuve de réalisation de l'opération :
 
@@ -1948,7 +2412,9 @@ A ne remplir que si les marques et référence de l'équipement ne sont pas ment
 
 Le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 2° du I de l'article 1er du décret précité.
 
-Identité du professionnel titulaire du signe de qualité ayant réalisé l'opération, s'il n'est pas le signataire de cette attestation (sous-traitant, par exemple) :
+Nota 5. - La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-171 Pompe à chaleur de type air/eau et BAR-TH-172 Pompe à chaleur de type eau/eau ou eau glycolée/eau .
+
+Identité du professionnel titulaire du signe de qualité ayant réalisé l'opération, s'il n'est pas le signataire de cette attestation (sous traitant, par exemple) :
 
 * Nom :
 
@@ -1956,7 +2422,7 @@ Identité du professionnel titulaire du signe de qualité ayant réalisé l'opé
 
 * Raison sociale :
 
-* N° SIRET :
+* N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 - Pompe à chaleur collective de type air/eau ou eau/eau pour l'eau chaude sanitaire / Fiche d'opération standardisée n° BAR-TH-169
 
@@ -2702,9 +3168,9 @@ La présente fiche s'applique aux opérations engagées jusqu'au 31 octobre 2029
 
 3. Conditions pour la délivrance de certificats
 
-Pour chaque catégorie de travaux intégrée dans le projet de rénovation globale et mentionnée aux 1° à 16° du I de l'article 1er du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts , le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l'article 2 du même décret et dans les textes pris pour son application. Ce signe de qualité correspond à des travaux relevant soit du 17° du I de l'article 1er du décret précité, soit de l'une des catégories mentionnées aux 1° à 16° du I du même décret correspondant aux travaux réalisés.
+Pour chaque catégorie de travaux intégrée dans le projet de rénovation globale et mentionnée aux 1° à 16° du I de l'article 1er du décret n° 2014-812 du 16 juillet 2014pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôtset du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts, le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l'article 2 du même décretet dans les textes pris pour son application. Ce signe de qualité correspond à des travaux relevant soit du 17° du I de l'article 1er du décretprécité, soit de l'une des catégories mentionnées aux 1° à 16° du I du même décretcorrespondant aux travaux réalisés.
 
-Un audit énergétique est réalisé préalablement aux travaux de rénovation globale du bâtiment. Cet audit énergétique respecte les dispositions de l'article 8 de l'arrêté du 17 novembre 2020 relatif aux caractéristiques techniques et modalités de réalisation des travaux et prestations dont les dépenses sont éligibles à la prime de transition énergétique. Il est établi par une personne répondant aux conditions mentionnées au VII de l'article 2 du décret du 14 janvier 2020 relatif à la prime de transition énergétique.
+Un audit énergétique est réalisé préalablement aux travaux de rénovation globale du bâtiment. Cet audit énergétique respecte les dispositions de l'article 8 de l'arrêté du 17 novembre 2020relatif aux caractéristiques techniques et modalités de réalisation des travaux et prestations dont les dépenses sont éligibles à la prime de transition énergétique. Il est établi par une personne répondant aux conditions mentionnées au VII de l'article 2 du décret du 14 janvier 2020relatif à la prime de transition énergétique.
 
 Les travaux permettent d'atteindre une performance énergétique globale minimale du bâtiment, déterminée par l'audit énergétique, qui satisfait aux deux critères suivants :
 
@@ -2734,7 +3200,7 @@ Les documents justificatifs spécifiques à l'opération sont :
 
 -les attestations déclarations préalables de travaux (DP) déposées par le propriétaire correspondant aux surfaces supplémentaires rendues habitables par un nouvel aménagement intérieur du bâtiment existant (aménagement de cave, de combles ou de tout autre espace, etc.) ou par une extension neuve ;
 
--dans le cas de bâtiments relèvant de la loi n° 65-557 du 10 juillet 1965 modifiée fixant le statut de la copropriété des immeubles bâtis, l'accord de la copropriété autorisant les travaux pour les logements de la copropriété.
+-dans le cas de bâtiments relèvant de la loi n° 65-557 du 10 juillet 1965modifiée fixant le statut de la copropriété des immeubles bâtis, l'accord de la copropriété autorisant les travaux pour les logements de la copropriété.
 
 Lorsque les travaux mis en œuvre diffèrent des travaux préconisés, l'audit énergétique est mis à jour sur la base des travaux effectivement réalisés.
 
@@ -2873,6 +3339,10 @@ Identification du professionnel ayant réalisé les travaux :
 |
 
 La qualification ou certification de l'entreprise est mentionnée dans le cas où cette dernière a réalisé des travaux relevant de l'une au moins des catégories de travaux mentionnées aux 1° à 17° du I de l'article 1er du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application.
+
+Conformément à l'article 2 de l'arrêté du 6 septembre 2025 (NOR : ECOR2524049A), la fiche d'opération standardisée n° BAR-TH-178 et son annexe 1, n° BAR-TH-179 et son annexe 1, n° BAR-TH-180 et son annexe 1, sont ajoutées à cette annexe. Vous pouvez consulter l'annexe à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=okg8pYdlzqssb9b30Jjqo55GUKX-R6_xjHU0tp5sLCk=
 
 - Lampe fluo-compacte de classe A / Fiche d’opération standardisée n° BAR-EQ-101
 
@@ -3208,7 +3678,7 @@ Identité du professionnel titulaire du signe de qualité ayant réalisé l'opé
 
 Opération n° BAR-TH-171
 
-Pompe à chaleur de type air/ eau |
+Pompe à chaleur de type air/eau |
 
 1. Secteur d'application
 
@@ -3216,13 +3686,13 @@ Bâtiments résidentiels existants.
 
 2. Dénomination
 
-Mise en place d'une pompe à chaleur (PAC) de type air/ eau.
+Mise en place d'une pompe à chaleur (PAC) de type air/eau pour le chauffage ou pour le chauffage et la production d'eau chaude sanitaire.
+
+La PAC est installée et mise en service pour s'assurer de son bon fonctionnement. Si l'installation a lieu durant la période de chauffe, la PAC est conservée en fonctionnement durant le reste de la période de chauffe.
 
 Ne donnent pas lieu à la délivrance de certificats d'économies d'énergie au titre de la présente fiche, les PAC associées à un autre système de chauffage et les PAC utilisées uniquement pour le chauffage de l'eau chaude sanitaire.
 
-La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-148 &laquo; Chauffe-eau thermodynamique à accumulation &raquo; si la PAC installée au titre de la présente fiche est utilisée pour le chauffage et l'eau chaude sanitaire.
-
-La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-143 &laquo; Système solaire combiné (France métropolitaine) &raquo;.
+La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-101 Chauffe-eau solaire individuel (France métropolitaine) , BAR-TH-124 Chauffe-eau solaire individuel (Outre-mer) , BAR-TH-143 Système solaire combiné (France métropolitaine) , BAR-TH-148 Chauffe-eau thermodynamique à accumulation et BAR-TH-168 Dispositif solaire thermique (France métropolitaine) .
 
 La présente fiche s'applique aux opérations engagées jusqu'au 31 décembre 2030.
 
@@ -3230,57 +3700,69 @@ La présente fiche s'applique aux opérations engagées jusqu'au 31 décembre 20
 
 La mise en place est réalisée par un professionnel.
 
-Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 5° (dans le cas d'une PAC assurant uniquement le chauffage du logement) ou du 5° et du 6° (dans le cas d'une PAC assurant le chauffage du logement et de l'eau chaude sanitaire) du I de l'article 1 er du décret précité.
+Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 5° (dans le cas d'une PAC assurant uniquement le chauffage du logement) ou du 5° et du 6° (dans le cas d'une PAC assurant le chauffage du logement et de l'eau chaude sanitaire) du I de l'article 1er du décret précité.
 
-L'efficacité énergétique saisonnière pour le chauffage des locaux (η s) de la PAC selon le règlement (EU) n° 813/2013 de la commission du 2 août 2013, déterminée selon l'application de la PAC installée, est supérieure ou égale à :
+L'efficacité énergétique saisonnière pour le chauffage des locaux (Etas) de la PAC selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013 (pour des conditions climatiques moyennes définies par le règlement susmentionné), déterminée selon l'application de la PAC installée, est supérieure ou égale à :
 
--126 % pour une application basse température au sens du règlement susmentionné ;
+- 126 % pour une application basse température au sens du règlement susmentionné ;
 
--111 % pour une application moyenne ou haute température.
-
-Pour les émetteurs de type : plancher chauffant, plafond chauffant et mur chauffant, la pompe à chaleur installée est d'application basse température et l'Etas à 35° C est à considérer.
-
-Pour tous les autres types d'émetteurs, y compris les solutions mixtes (ex. : radiateurs et plancher chauffant) ainsi que les radiateurs dits &laquo; basse température &raquo; à régime d'eau 45° C, la PAC installée est d'application moyenne ou haute température et l'Etas à 55° C est à considérer.
-
-La PAC est équipée d'un régulateur relevant de l'une des classes IV, V, VI, VII ou VIII telles que définies au paragraphe 6.1 de la communication de la Commission 2014/ C 207/02.
-
-Le professionnel rédige une note de dimensionnement du générateur par rapport aux déperditions calculées à T = Tbase. Les déperditions concernent les pièces du logement desservies par le réseau de chauffage, sans considération des éventuels autres générateurs présents. Cette note est remise au bénéficiaire à l'achèvement des travaux.
-
-La preuve de la réalisation de l'opération mentionne :
-
--la mise en place d'une pompe à chaleur de type air/ eau ; et
-
--le type d'application choisi pour l'installation de la pompe à chaleur (basse température ; moyenne ou haute température) ; et
-
--l'usage de la pompe à chaleur (chauffage ; chauffage et eau chaude sanitaire) ; et
-
--l'efficacité énergétique saisonnière (η s) selon le règlement (EU) n° 813/2013 de la commission du 2 août 2013 déterminée selon l'application de la PAC installée ; et
-
--l'installation d'un régulateur ainsi que la classe de celui-ci.
+- 111 % pour une application moyenne ou haute température.
 
 L'efficacité énergétique saisonnière prise en compte est celle de la pompe à chaleur seule pour les besoins de chauffage des locaux (hors dispositif de régulation).
 
-A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'un équipement avec ses marque et référence et elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/ IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+Tout type de systèmes déportés à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, est de même marque que la PAC. Pour ce type de systèmes, seule la PAC consomme de l'énergie pour la production de l'eau chaude sanitaire. Par dérogation, les systèmes déportés intégrant une résistance électrique à des fins de secours ou de cycles anti-légionelle, et pour lesquels la régulation priorise la pompe à chaleur pour la production de l'eau chaude sanitaire, sont éligible à la présente opération.
+
+Pour les PAC assurant uniquement le chauffage :
+
+- pour les émetteurs de type : plancher chauffant, plafond chauffant et mur chauffant et les émetteurs localisés du type ventilo-convecteurs à eau, la pompe à chaleur installée est d'application basse température et l'Etas à 35 °C est à considérer ;
+
+- pour tous les autres types d'émetteurs, y compris les solutions mixtes (ex. : radiateurs et plancher chauffant) ainsi que les radiateurs dits basse température à régime d'eau 45 °C, la PAC installée est d'application moyenne ou haute température et l'Etas à 55 °C est à considérer.
+
+Pour les PAC assurant le chauffage et la production d'eau chaude sanitaire et pour toute association de système déporté à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, la PAC installée est d'application moyenne ou haute température et l'Etas à 55 °C est à considérer.
+
+La PAC est équipée d'un régulateur relevant de l'une des classes IV, V, VI, VII ou VIII telles que définies au paragraphe 6.1 de la communication de la Commission 2014/C 207/02.
+
+Le professionnel rédige une note de dimensionnement du générateur par rapport aux déperditions calculées à T = Tbase. Les déperditions concernent les pièces du logement desservies par le réseau de chauffage, sans considération des éventuels autres générateurs présents La PAC installée est conforme aux préconisations de la note de dimensionnement. Cette note est remise au bénéficiaire à l'engagement de l'opération. Le cas échéant elle est actualisée et remise au bénéficiaire à l'achèvement des travaux.
+
+La preuve de la réalisation de l'opération mentionne :
+
+- la mise en place d'une pompe à chaleur de type air/eau avec ses marque et référence ; et
+
+- le type d'application choisi pour l'installation de la pompe à chaleur (basse température ; moyenne ou haute température) ; et
+
+- l'usage de la pompe à chaleur (chauffage ; chauffage et eau chaude sanitaire) ; et
+
+- l'efficacité énergétique saisonnière (Etas) selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013 (pour des conditions climatiques moyennes) déterminée selon l'application de la PAC installée ; et
+
+- l'installation d'un régulateur ainsi que la classe de celui-ci ; et
+
+- dans le cas d'un système déporté à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, la mise en place du système déporté avec ses marque et référence.
+
+A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'un équipement avec ses marque et référence et elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Ce document indique :
 
--que l'équipement de marque et référence mis en place est une pompe à chaleur de type air/ eau ; et
+- que l'équipement de marque et référence mis en place est une pompe à chaleur de type air/eau ; et
 
--le type d'application choisi pour l'installation de la pompe à chaleur (basse température ; moyenne ou haute température) ; et
+- le type d'application choisi pour l'installation de la pompe à chaleur (basse température ; moyenne ou haute température) ; et
 
--l'usage de la pompe à chaleur (chauffage ; chauffage et eau chaude sanitaire) ; et
+- l'usage de la pompe à chaleur (chauffage ; chauffage et eau chaude sanitaire) ; et
 
--l'efficacité énergétique saisonnière (η s) selon le règlement (EU) n° 813/2013 de la commission du 2 août 2013 déterminée selon l'application de la PAC installée ; et
+- l'efficacité énergétique saisonnière (Etas) selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013 (pour des conditions climatiques moyennes), déterminée selon l'application de la PAC installée ; et
 
--que l'équipement est équipé d'un régulateur, en précisant la classe de celui-ci.
+- que l'équipement est équipé d'un régulateur, en précisant la classe de celui-ci ; et
+
+- dans le cas d'un système déporté à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, la mise en place du système déporté avec ses marque et référence.
 
 En cas de mention d'une date de validité, ce document est considéré comme valable jusqu'à un an après sa date de fin de validité.
 
 Les documents justificatifs spécifiques à l'opération sont :
 
--la note de dimensionnement susmentionnée ;
+- la note de dimensionnement susmentionnée ;
 
--la décision de qualification ou de certification du professionnel délivrée selon les mêmes exigences que celles prévues à l'article 2 du décret susvisé.
+- la décision de qualification ou de certification du professionnel délivrée selon les mêmes exigences que celles prévues à l'article 2 du décret susvisé ;
+
+- la fiche d'information sur le produit de la PAC, mentionnée à l'article 3 du règlement (UE) 2017/1369 établissant un cadre pour l'étiquetage énergétique (dont le texte d'application spécifique au chauffage centralisé est le règlement écoconception 811/2013).
 
 4. Durée de vie conventionnelle
 
@@ -3290,335 +3772,125 @@ Les documents justificatifs spécifiques à l'opération sont :
 
 Pour un appartement :
 
-Efficacité énergétique saisonnière (Etas) |
+Efficacité énergétique
 
-Usage |
+saisonnière (Etas) |
 
 Montant kWhc |
 
-|
+× |
 
 Facteur correctif selon la surface chauffée |
 
-Surface chauffée S en m 2
+Surface chauffée S en m2 par la PAC installée |
 
-|
+× |
 
-|
+Facteur correctif selon
 
-Facteur correctif selon la zone
+la zone géographique |
 
-géographique |
+Zone géographique |
 
-Zone
+111%≤ Etas < 140% |
 
-géographique |
-
-111 % ≤ Etas < 140 % |
-
-Chauffage et ECS |
-
-54   000 |
-
-|
+48 700 |
 
 0,5 |
 
 S < 35 |
 
-|
-
 1,2 |
 
 H1 |
 
-Chauffage |
+140%≤ Etas |
 
-38   400 |
-
-|
+58 900 |
 
 0,7 |
 
 35 ≤ S < 60 |
 
-|
-
 1 |
 
 H2 |
 
-140 % ≤ Etas < 170 % |
-
-Chauffage et ECS |
-
-62   300 |
+|
 
 |
 
 1 |
 
-60 ≤ S < 70 |
-
-|
+60 ≤ S |
 
 0,7 |
 
 H3 |
 
-Chauffage |
-
-44   300 |
-
-X |
-
-1,2 |
-
-70 ≤ S < 90 |
-
-X |
-
-|
-
-|
-
-170 % ≤ Etas < 200 % |
-
-Chauffage et ECS |
-
-67   800 |
-
-|
-
-1,5 |
-
-90 ≤ S < 110 |
-
-|
-
-|
-
-|
-
-Chauffage |
-
-48   200 |
-
-|
-
-1,9 |
-
-110 ≤ S ≤ 130 |
-
-|
-
-|
-
-|
-
-200 % ≤ Etas |
-
-Chauffage et ECS |
-
-70   300 |
-
-|
-
-2,5 |
-
-130 < S |
-
-|
-
-|
-
-|
-
-Chauffage |
-
-50   000 |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
 Pour une maison individuelle :
 
-Efficacité énergétique saisonnière (Etas) |
+Efficacité énergétique
 
-Usage |
+saisonnière (Etas) |
 
 Montant kWhc |
 
-|
+× |
 
 Facteur correctif selon la surface chauffée |
 
-Surface chauffée S en m 2
+Surface chauffée S en m2 par la PAC installée |
 
-|
+× |
 
-|
+Facteur correctif selon
 
-Facteur correctif selon la zone
+la zone géographique |
 
-géographique |
+Zone géographique |
 
-Zone
+111%≤ Etas < 140% |
 
-géographique |
-
-111 % ≤ Etas < 140 % |
-
-Chauffage et ECS |
-
-96   700 |
-
-|
+90 900 |
 
 0,5 |
 
 S < 70 |
 
-|
-
 1,2 |
 
 H1 |
 
-Chauffage |
+140%≤ Etas |
 
-79   500 |
-
-|
+109 200 |
 
 0,7 |
 
 70 ≤ S < 90 |
 
-|
-
 1 |
 
 H2 |
 
-140 % ≤ Etas < 170 % |
-
-Chauffage et ECS |
-
-111   500 |
+|
 
 |
 
 1 |
 
-90 ≤ S < 110 |
-
-|
+90 ≤ S |
 
 0,7 |
 
 H3 |
 
-Chauffage |
+Nota. - La surface chauffée prise en compte est la surface habitable, au sens de l'article R. 156-1 du code de la construction et de l'habitation, chauffée par la PAC installée et correspond aux surfaces des pièces disposant d'un émetteur de chaleur alimenté par la PAC installée.
 
-91   600 |
+Annexe 1 à la fiche d'opération standardisée BAR-TH-171 définissant le contenu de la partie A de l'attestation sur l'honneur
 
-X |
-
-1,1 |
-
-110 ≤ S < 130 |
-
-X |
-
-|
-
-|
-
-170 % ≤ Etas < 200 % |
-
-Chauffage et ECS |
-
-121   400 |
-
-|
-
-1,6 |
-
-130 ≤ S |
-
-|
-
-|
-
-|
-
-Chauffage |
-
-99   700 |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-200 % ≤ Etas |
-
-Chauffage et ECS |
-
-125   800 |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Chauffage |
-
-103   400 |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Nota.-La surface prise en compte est la surface chauffée par la PAC installée.
-
-Annexe 1
-
-A la fiche d'opération standardisée BAR-TH-171, définissant le contenu de la partie A de l'attestation sur l'honneur
-
-A/ BAR-TH-171 (v. A74.3) : Mise en place d'une pompe à chaleur (PAC) de type air/eau.
+A. - BAR-TH-171 (v. A78.4) : Mise en place d'une pompe à chaleur (PAC) de type air/eau.
 
 * Date d'engagement de l'opération (ex : date d'acceptation du devis) :
 
@@ -3646,33 +3918,39 @@ Complément d'adresse :
 
 Caractéristiques de la pompe à chaleur (PAC) :
 
-*La pompe à chaleur est de type air/eau et est installée pour une application :
+* La pompe à chaleur est de type air/eau et est installée pour une application :
 
-□ à basse température
+□ A basse température ;
 
-□ à moyenne ou haute température
+□ A moyenne ou haute température.
 
-NB. - Une application à basse température est une application dans laquelle un dispositif de chauffage des locaux par pompe à chaleur fournit sa puissance calorifique déclarée pour une température de sortie de l'échangeur thermique intérieur de 35 °C.
+Nota 1. - Pour les PAC assurant uniquement le chauffage, une application à basse température est une application dans laquelle un dispositif de chauffage des locaux par pompe à chaleur fournit sa puissance calorifique déclarée pour une température de sortie de l'échangeur thermique intérieur de 35 °C.
 
-NB. - Une application à moyenne ou haute température est une application dans laquelle un dispositif de chauffage des locaux par pompe à chaleur fournit sa puissance calorifique déclarée pour une température de sortie de l'échangeur thermique intérieur d'au moins 55 °C.
+Une application à moyenne ou haute température est une application dans laquelle un dispositif de chauffage des locaux par pompe à chaleur fournit sa puissance calorifique déclarée pour une température de sortie de l'échangeur thermique intérieur d'au moins 55 °C.
 
-NB. - Une solution mixte de chauffage des locaux associe différents types d'émetteurs de chauffage fonctionnant à basse température pour les uns et à moyenne ou haute température pour les autres ; elle est alors considérée comme une application à moyenne ou haute température.
+Une solution mixte de chauffage des locaux associe différents types d'émetteurs de chauffage fonctionnant à basse température pour les uns et à moyenne ou haute température pour les autres ; elle est alors considérée comme une application à moyenne ou haute température.
+
+Nota 2. - Pour les PAC assurant le chauffage et la production de l'eau chaude sanitaire et pour toute association de système déporté à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, la PAC installée est d'application moyenne ou haute température.
 
 * La PAC est équipée d'un régulateur : □ OUI □ NON
 
 * Classe du régulateur :
 
-* Efficacité énergétique saisonnière (ηs) (en %) :
+* Efficacité énergétique saisonnière (Etas) (en %) :
 
-L'efficacité énergétique saisonnière (ηs) est calculée selon le règlement (EU) n° 813/2013 de la commission du 2 août 2013.
+L'efficacité énergétique saisonnière (Etas) est calculée selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013 (pour des conditions climatiques moyennes définies par le règlement susmentionné).
 
-NB. - L'efficacité énergétique saisonnière prise en compte est celle de la pompe à chaleur seule pour les besoins de chauffage des locaux (hors dispositif de régulation).
+Nota 3. - L'efficacité énergétique saisonnière prise en compte est celle de la pompe à chaleur seule pour les besoins de chauffage des locaux (hors dispositif de régulation).
 
 * Usage couvert par la PAC :
 
-□ Chauffage
+□ Chauffage ;
 
-□ Chauffage et eau chaude sanitaire
+□ Chauffage et eau chaude sanitaire.
+
+* La PAC est associée à un système déporté, permettant la production de l'eau chaude sanitaire par celle-ci : □ OUI □ NON
+
+* Dans le cas de systèmes déportés à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, le système déporté consomme de l'énergie pour la production de l'eau chaude sanitaire, hors systèmes déportés intégrant une résistance électrique à des fins de secours ou de cycle anti-légionelle, et pour lesquels la régulation priorise la pompe à chaleur pour la production de l'eau chaude sanitaire : □ OUI □ NON
 
 * Une note de dimensionnement a été remise au bénéficiaire : □ OUI □ NON
 
@@ -3682,9 +3960,13 @@ A ne remplir que si les marque et référence de la pompe à chaleur ne sont pas
 
 * Référence :
 
-NB. - La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-148 &laquo; Chauffe-eau thermodynamique à accumulation &raquo; si la PAC est utilisée pour le chauffage et l'eau chaude sanitaire.
+Dans le cas de systèmes déportés à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, à ne remplir que si les marque et référence du système déporté ne sont pas mentionnées sur la preuve de réalisation de l'opération :
 
-La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-143 &laquo; Système solaire combiné (France métropolitaine) &raquo;.
+* Marque :
+
+* Référence :
+
+Nota 4. - La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-101 Chauffe-eau solaire individuel (France métropolitaine) , BAR-TH-124 Chauffe-eau solaire individuel (Outre-mer) , BAR-TH-143 Système solaire combiné (France métropolitaine) , BAR-TH-148 Chauffe-eau thermodynamique à accumulation et BAR-TH-168 Dispositif solaire thermique (France métropolitaine) .
 
 Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 5° (dans le cas d'une PAC assurant uniquement le chauffage du logement) ou du 5° et du 6° (dans le cas d'une PAC assurant le chauffage du logement et de l'eau chaude sanitaire) du I de l'article 1er du décret précité.
 
@@ -3698,9 +3980,11 @@ Identité du professionnel titulaire du signe de qualité ayant réalisé l'opé
 
 * N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
+* Le numéro du modèle de la PAC, défini à l'article 2 du règlement (UE) 2017/1369 du Parlement européen et du Conseil :
+
 Opération n° BAR-TH-172
 
-Pompe à chaleur de type eau/eau ou sol/eau |
+Pompe à chaleur de type eau/eau ou eau glycolée/eau |
 
 1. Secteur d'application
 
@@ -3708,13 +3992,13 @@ Maisons individuelles existantes.
 
 2. Dénomination
 
-Mise en place d'une pompe à chaleur (PAC) de type eau/eau ou sol/eau.
+Mise en place d'une pompe à chaleur (PAC) de type eau/eau ou eau glycolée/eau pour le chauffage ou pour le chauffage et la production d'eau chaude sanitaire.
+
+La PAC est installée et mise en service pour s'assurer de son bon fonctionnement. Si l'installation a lieu durant la période de chauffe, la PAC est conservée en fonctionnement durant le reste de la période de chauffe.
 
 Ne donnent pas lieu à la délivrance de certificats d'économies d'énergie au titre de la présente fiche, les PAC associées à un autre système de chauffage et les PAC utilisées uniquement pour le chauffage de l'eau chaude sanitaire.
 
-La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-143 &laquo; Système solaire combiné (France métropolitaine) &raquo;.
-
-La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-148 &laquo; Chauffe-eau thermodynamique à accumulation &raquo; si la PAC installée au titre de la présente fiche est utilisée pour le chauffage et l'eau chaude sanitaire.
+La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-101 Chauffe-eau solaire individuel (France métropolitaine) , BAR-TH-124 Chauffe-eau solaire individuel (Outre-mer) , BAR-TH-143 Système solaire combiné (France métropolitaine) , BAR-TH-148 Chauffe-eau thermodynamique à accumulation et BAR-TH-168 Dispositif solaire thermique (France métropolitaine) .
 
 La présente fiche s'applique aux opérations engagées jusqu'au 31 décembre 2030.
 
@@ -3724,47 +4008,65 @@ La mise en place est réalisée par un professionnel.
 
 Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 5° (dans le cas d'une PAC assurant uniquement le chauffage du logement) ou du 5° et du 6° (dans le cas d'une PAC assurant le chauffage du logement et de l'eau chaude sanitaire) du I de l'article 1er du décret précité.
 
-L'efficacité énergétique saisonnière pour le chauffage des locaux (ηs) de la PAC selon le règlement (EU) n° 813/2013 de la commission du 2 août 2013, déterminée selon l'application de la PAC installée, est supérieure ou égale à :
+L'efficacité énergétique saisonnière pour le chauffage des locaux (Etas) de la PAC selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013 (pour des conditions climatiques moyennes définies par le règlement susmentionné), déterminée selon l'application de la PAC installée et selon le type d'eau circulant dans le capteur (eau glycolée ou eau de nappe), est supérieure ou égale à :
 
 - 126 % pour une application basse température au sens du règlement susmentionné ;
 
 - 111 % pour une application moyenne ou haute température.
 
-Pour les émetteurs de type : plancher chauffant, plafond chauffant et mur chauffant, la pompe à chaleur installée est d'application basse température et l'Etas à 35°C est à considérer.
+L'efficacité énergétique saisonnière prise en compte est celle de la pompe à chaleur seule pour les besoins de chauffage des locaux (hors dispositif de régulation).
 
-Pour tous les autres types d'émetteurs, y compris les solutions mixtes (ex. : radiateurs et plancher chauffant) ainsi que les radiateurs dits &laquo; basse température &raquo; à régime d'eau 45 °C, la PAC installée est d'application moyenne ou haute température et l'Etas à 55 °C est à considérer.
+Tout type de systèmes déportés à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, est de même marque que la PAC. Pour ce type de systèmes, seule la PAC consomme de l'énergie pour la production de l'eau chaude sanitaire. Par dérogation, les systèmes déportés intégrant une résistance électrique à des fins de secours ou de cycles anti-légionelle, et pour lesquels la régulation priorise la pompe à chaleur pour la production de l'eau chaude sanitaire, sont éligible à la présente opération.
+
+Pour les PAC assurant uniquement le chauffage :
+
+- pour les émetteurs de type : plancher chauffant, plafond chauffant et mur chauffant et les émetteurs localisés du type ventilo-convecteurs à eau la pompe à chaleur installée est d'application basse température et l'Etas à 35 °C (pour des conditions climatiques moyennes définies par le règlement susmentionné) est à considérer ;
+
+- pour tous les autres types d'émetteurs, y compris les solutions mixtes (ex. : radiateurs et plancher chauffant) ainsi que les radiateurs dits basse température à régime d'eau 45 °C, la PAC installée est d'application moyenne ou haute température et l'Etas à 55 °C (pour des conditions climatiques moyennes définies par le règlement susmentionné) est à considérer.
+
+Pour les PAC assurant le chauffage et la production d'eau chaude sanitaire et pour toute association de système déporté à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, la PAC installée est d'application moyenne ou haute température et l'Etas à 55 °C (pour des conditions climatiques moyennes définies par le règlement susmentionné) est à considérer.
+
+Pour un captage d'énergie sur eau souterraine, la pompe à chaleur installée est d'application eau/eau, et l'Etas à considérer est celui correspondant à une température de source de + 10 °C/+ 7 °C.
+
+Pour les autres types de captage d'énergie, la pompe à chaleur installée est d'application eau glycolée/eau, et l'Etas à considérer est celui correspondant à une température de source de 0 °C/- 3 °C.
 
 La PAC est équipée d'un régulateur relevant de l'une des classes IV, V, VI, VII ou VIII telles que définies au paragraphe 6.1 de la communication de la Commission 2014/C 207/02.
 
-Le professionnel rédige une note de dimensionnement du générateur par rapport aux déperditions calculées à T = Tbase. Les déperditions concernent les pièces du logement desservies par le réseau de chauffage, sans considération des éventuels autres générateurs présents. Cette note est remise au bénéficiaire à l'achèvement des travaux.
+Le professionnel rédige une note de dimensionnement du générateur par rapport aux déperditions calculées à T = Tbase. Les déperditions concernent les pièces du logement desservies par le réseau de chauffage, sans considération des éventuels autres générateurs présents. La PAC est conforme aux préconisations de la note de dimensionnement. Cette note est remise au bénéficiaire à l'engagement de l'opération Le cas échéant elle est actualisée et remise au bénéficiaire à l'achèvement des travaux.
 
 La preuve de la réalisation de l'opération mentionne :
 
-- la mise en place d'une pompe à chaleur de type eau/eau ou sol/eau ; et
+- la mise en place d'une pompe à chaleur de type eau/eau ou eau glycolée/eau avec ses marque et référence ; et
 
 - le type d'application choisi pour l'installation de la pompe à chaleur (basse température ; moyenne ou haute température) ; et
 
-- l'usage de la pompe à chaleur (chauffage ; chauffage et eau chaude sanitaire) ; et
+- le type d'eau circulant dans le capteur (eau glycolée ou eau de nappe) ; et
 
-- l'efficacité énergétique saisonnière (ηs) selon le règlement (EU) n° 813/2013 de la commission du 2 août 2013 déterminée selon l'application de la PAC installée ; et
+- l'usage de la pompe à chaleur (chauffage ; chauffage et eau chaude sanitaire) ;
 
-- l'installation d'un régulateur ainsi que la classe de celui-ci.
+- l'efficacité énergétique saisonnière (Etas) selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013 (pour des conditions climatiques moyennes) déterminée selon l'application de la PAC installée ; et
 
-L'efficacité énergétique saisonnière prise en compte est celle de la pompe à chaleur seule pour les besoins de chauffage des locaux (hors dispositif de régulation).
+- l'installation d'un régulateur ainsi que la classe de celui-ci ; et
+
+- dans le cas d'un système déporté à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, la mise en place du système déporté avec ses marque et référence.
 
 A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'un équipement avec ses marque et référence et elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Ce document indique :
 
-- que l'équipement de marque et référence mis en place est une pompe à chaleur de type eau/eau ou sol/eau ; et
+- que l'équipement de marque et référence mis en place est une pompe à chaleur de type eau/eau ou eau glycolée/eau ; et
 
 - le type d'application choisi pour l'installation de la pompe à chaleur (basse température ; moyenne ou haute température) ; et
 
+- le type d'eau circulant dans le capteur (eau glycolée ou eau de nappe) ; et
+
 - l'usage de la pompe à chaleur (chauffage ; chauffage et eau chaude sanitaire) ; et
 
-- l'efficacité énergétique saisonnière (ηs) selon le règlement (EU) n° 813/2013 de la commission du 2 août 2013 déterminée selon l'application de la PAC installée ; et
+- l'efficacité énergétique saisonnière (Etas) selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013 (pour des conditions climatiques moyennes), déterminée selon l'application de la PAC installée ; et
 
-- que l'équipement est équipé d'un régulateur, en précisant la classe de celui-ci.
+- que l'équipement est équipé d'un régulateur, en précisant la classe de celui-ci ; et
+
+- dans le cas d'un système déporté à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, la mise en place du système déporté avec ses marque et référence.
 
 En cas de mention d'une date de validité, ce document est considéré comme valable jusqu'à un an après sa date de fin de validité.
 
@@ -3772,7 +4074,9 @@ Les documents justificatifs spécifiques à l'opération sont :
 
 - la note de dimensionnement susmentionnée ;
 
-- la décision de qualification ou de certification du professionnel délivrée selon les mêmes exigences que celles prévues à l'article 2 du décret susvisé.
+- la décision de qualification ou de certification du professionnel délivrée selon les mêmes exigences que celles prévues à l'article 2 du décret susvisé ;
+
+- la fiche d'information sur le produit de la PAC, mentionnée à l'article 3 du règlement (UE) 2017/1369 établissant un cadre pour l'étiquetage énergétique (dont le texte d'application spécifique au chauffage centralisé est le règlement écoconception 811/2013).
 
 4. Durée de vie conventionnelle
 
@@ -3780,15 +4084,13 @@ Les documents justificatifs spécifiques à l'opération sont :
 
 5. Montant de certificats en kWh cumac
 
-Efficacité énergétique saisonnière (ns) |
+Efficacité énergétique
 
-Usage |
+saisonnière (Etas) |
 
-Montant pour une maison individuelle,
+Montant kWhc |
 
-en kWhc |
-
-|
+× |
 
 Facteur correctif selon la surface chauffée |
 
@@ -3796,193 +4098,55 @@ Surface chauffée S en m2
 
 |
 
-|
+× |
 
-Facteur correctif selon la zone
+Facteur correctif selon
 
-géographique |
+la zone géographique |
 
-Zone
+Zone géographique |
 
-géographique |
+111%≤ Etas < 170% |
 
-111 %≤Etas<140 % |
-
-Chauffage et ECS |
-
-108 100 |
-
-|
+101 400 |
 
 0,5 |
 
 S < 70 |
 
-|
-
 1,2 |
 
 H1 |
 
-Chauffage |
+170%≤ Etas |
 
-88 800 |
-
-|
+119 400 |
 
 0,7 |
 
 70 ≤ S < 90 |
 
-|
-
 1 |
 
 H2 |
 
-140 %≤Etas<170 % |
-
-Chauffage et ECS |
-
-124 600 |
+|
 
 |
 
 1 |
 
-90 ≤ S < 110 |
-
-|
+90 ≤ S |
 
 0,7 |
 
 H3 |
 
-Chauffage |
+Nota. - La surface chauffée prise en compte est la surface habitable, au sens de l'article R. 156-1 du code de la construction et de l'habitation, chauffée par la PAC installée et correspond aux surfaces des pièces disposant d'un émetteur de chaleur alimenté par la PAC installée.
 
-102 300 |
+Annexe 1 à la fiche d'opération standardisée BAR-TH-172 définissant le contenu de la partie A de l'attestation sur l'honneur
 
-X |
-
-1,1 |
-
-110 ≤ S < 130 |
-
-X |
-
-|
-
-|
-
-170 %≤Etas<200 % |
-
-Chauffage et ECS |
-
-135 600 |
-
-|
-
-1,6 |
-
-130 ≤ S |
-
-|
-
-|
-
-|
-
-Chauffage |
-
-111 400 |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-200 %≤Etas<230 % |
-
-Chauffage et ECS |
-
-143 500 |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Chauffage |
-
-117 900 |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-230 %≤Etas |
-
-Chauffage et ECS |
-
-147 200 |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Chauffage |
-
-120 900 |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Nota. - La surface prise en compte est la surface chauffée par la PAC installée.
-
-Annexe 1
-
-A la fiche d'opération standardisée BAR-TH-172, définissant le contenu de la partie A de l'attestation sur l'honneur
-
-A/ BAR-TH-172 (v. A74.3) : Mise en place d'une pompe à chaleur (PAC) de type eau/eau ou sol/eau.
+A. - BAR-TH-172 (v. A78.4) : Mise en place d'une pompe à chaleur (PAC) de type eau/eau ou eau glycolée/eau.
 
 * Date d'engagement de l'opération (ex : date d'acceptation du devis) :
 
@@ -4010,33 +4174,41 @@ Complément d'adresse :
 
 Caractéristiques de la pompe à chaleur (PAC) :
 
-* La pompe à chaleur est de type eau/eau ou sol/eau et est installée pour une application :
+* La pompe à chaleur est de type eau/eau ou eau glycolée/eau et est installée pour une application :
 
-□ à basse température
+□ A basse température ;
 
-□ à moyenne ou haute température
+□ A moyenne ou haute température.
 
-NB. - Une application à basse température est une application dans laquelle un dispositif de chauffage des locaux par pompe à chaleur fournit sa puissance calorifique déclarée pour une température de sortie de l'échangeur thermique intérieur de 35 °C.
+Nota 1. - Pour les PAC assurant uniquement le chauffage, une application à basse température est une application dans laquelle un dispositif de chauffage des locaux par pompe à chaleur fournit sa puissance calorifique déclarée pour une température de sortie de l'échangeur thermique intérieur de 35 °C.
 
-NB. - Une application à moyenne ou haute température est une application dans laquelle un dispositif de chauffage des locaux par pompe à chaleur fournit sa puissance calorifique déclarée pour une température de sortie de l'échangeur thermique intérieur d'au moins 55 °C.
+Une application à moyenne ou haute température est une application dans laquelle un dispositif de chauffage des locaux par pompe à chaleur fournit sa puissance calorifique déclarée pour une température de sortie de l'échangeur thermique intérieur d'au moins 55 °C.
 
-NB. - Une solution mixte de chauffage des locaux associe différents types d'émetteurs de chauffage fonctionnant à basse température pour les uns et à moyenne ou haute température pour les autres ; elle est alors considérée comme une application à moyenne ou haute température.
+Une solution mixte de chauffage des locaux associe différents types d'émetteurs de chauffage fonctionnant à basse température pour les uns et à moyenne ou haute température pour les autres ; elle est alors considérée comme une application à moyenne ou haute température.
 
-La PAC est équipée d'un régulateur : □ OUI □ NON
+Nota 2. - Pour les PAC assurant le chauffage et la production de l'eau chaude sanitaire et pour toute association de système déporté à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, la PAC installée est d'application moyenne ou haute température.
+
+* Type d'eau circulant dans le capteur : □ eau glycolée □ eau de nappe
+
+* La PAC est équipée d'un régulateur : □ OUI □ NON
 
 * Classe du régulateur :
 
-* Efficacité énergétique saisonnière (ηs) (en %) :
+* Efficacité énergétique saisonnière (Etas) selon le type d'eau circulant dans le capteur (eau glycolée ou eau/de nappe) (en %) :
 
-L'efficacité énergétique saisonnière (ηs) est calculée selon le règlement (EU) n° 813/2013 de la commission du 2 août 2013.
+L'efficacité énergétique saisonnière (Etas) est calculée selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013 (pour des conditions climatiques moyennes définies par le règlement susmentionné).
 
-NB. - L'efficacité énergétique saisonnière prise en compte est celle de la pompe à chaleur seule pour les besoins de chauffage des locaux (hors dispositif de régulation).
+Nota 3. - L'efficacité énergétique saisonnière prise en compte est celle de la pompe à chaleur seule pour les besoins de chauffage des locaux (hors dispositif de régulation).
 
-*Usage couvert par la PAC :
+* Usage couvert par la PAC :
 
-□ Chauffage
+□ Chauffage ;
 
-□ Chauffage et eau chaude sanitaire
+□ Chauffage et eau chaude sanitaire.
+
+* La PAC est associée à un système déporté, permettant la production de l'eau chaude sanitaire par celle-ci : □ OUI □ NON
+
+* Dans le cas de systèmes déportés à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, le système déporté consomme de l'énergie pour la production de l'eau chaude sanitaire, hors systèmes déportés intégrant une résistance électrique à des fins de secours ou de cycle anti-légionelle, et pour lesquels la régulation priorise la pompe à chaleur pour la production de l'eau chaude sanitaire : □ OUI □ NON
 
 * Une note de dimensionnement a été remise au bénéficiaire : □ OUI □ NON
 
@@ -4046,9 +4218,13 @@ A ne remplir que si les marque et référence de la pompe à chaleur ne sont pas
 
 * Référence :
 
-NB : La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-148 &laquo; Chauffe-eau thermodynamique à accumulation &raquo; si la PAC installée au titre de la présente fiche est utilisée pour le chauffage et l'eau chaude sanitaire.
+Dans le cas de systèmes déportés à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, à ne remplir que si les marque et référence du système déporté ne sont pas mentionnées sur la preuve de réalisation de l'opération :
 
-La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-143 &laquo; Système solaire combiné (France métropolitaine) &raquo;.
+* Marque :
+
+* Référence :
+
+Nota 4. - La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-101 Chauffe-eau solaire individuel (France métropolitaine) , BAR-TH-124 Chauffe-eau solaire individuel (Outre-mer) , BAR-TH-143 Système solaire combiné (France métropolitaine) , BAR-TH-148 Chauffe-eau thermodynamique à accumulation et BAR-TH-168 Dispositif solaire thermique (France métropolitaine) .
 
 Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 5° (dans le cas d'une PAC assurant uniquement le chauffage du logement) ou du 5° et du 6° (dans le cas d'une PAC assurant le chauffage du logement et de l'eau chaude sanitaire) du I de l'article 1er du décret précité.
 
@@ -4061,6 +4237,8 @@ Identité du professionnel titulaire du signe de qualité ayant réalisé l'opé
 * Raison sociale :
 
 * N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+* Le numéro du modèle de la PAC, défini à l'article 2 du règlement (UE) 2017/1369 du Parlement européen et du Conseil :
 
 - Système de régulation par programmation horaire pièce par pièce / Fiche d’opération standardisée BAR-TH-173
 
@@ -4174,4 +4352,8 @@ https://www.legifrance.gouv.fr/download/pdf?id=5gAfOAZyNgIh7Fm-Ar17lvaib6Ml9xQU-
 
 NOTA :
 
-Conformément à l'article 1er de l’arrêté du 18 août 2025, ces dispositions, dans leur rédaction résultant de l’article précité, entrent en vigueur à compter du 1er septembre 2025.
+Conformément à l'article 5 de l'arrêté du 15 décembre 2025 (NOR : ECOR2532411A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er janvier 2026 et s'appliquent aux opérations engagées à compter de cette date.
+
+Les dispositions des fiches d'opérations standardisées BAR-TH-171 et BAR-TH-172, dans leur version en vigueur au 1er octobre 2025, s'appliquent aux opérations incluses dans une liste transmise, au plus tard le 15 janvier 2026, par le demandeur de certificats au ministre chargé de l'énergie, suivant un modèle établi par la direction générale de l'énergie et du climat (DGEC) et mis à disposition sur le site internet du ministère.
+
+Conformément à l'article 6 de l'arrêté du 27 décembre 2025 (NOR : ECOR2535186A), ces dispositions, dans leur rédaction résultant de l'article 1 de l'arrêté précité, entrent en vigueur le 1er janvier 2026 et s'appliquent aux opérations engagées à compter de cette date.

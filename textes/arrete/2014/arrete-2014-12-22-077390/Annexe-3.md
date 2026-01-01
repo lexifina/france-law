@@ -914,6 +914,8 @@ Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER202
 
 Conformément à l’article 3 de l’arrêté du 12 juillet 2022 (NOR : ENER2219562A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe B dudit arrêté.
 
+Conformément à l'article 1er de l'arrêté du 27 décembre 2025 (NOR : ECOR2535186A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe B dudit arrêté, à compter du 1er janvier 2026.
+
 -Système de régulation sur un groupe de production de froid permettant d’avoir une haute pression flottante (France métropolitaine) / Fiche d’opération standardisée n° BAT-TH-134
 
 Conformément à l'article 1 de l'arrêté du 20 décembre 2023 (NOR : ENER2333440A), la fiche d'opération standardisée n° BAT-TH-134 est remplacée par la fiche figurant en annexe B audit arrêté, à compter du 1er avril 2024.
@@ -1706,4 +1708,4 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 NOTA :
 
-Conformément à l'article 1er de l’arrêté du 18 août 2025, ces dispositions, dans leur rédaction résultant de l’article précité, entrent en vigueur à compter du 1er septembre 2025.
+Conformément à l'article 6 de l'arrêté du 27 décembre 2025 (NOR : ECOR2535186A), ces dispositions, dans leur rédaction résultant de l'article 1 de l'arrêté précité, entrent en vigueur le 1er janvier 2026 et s'appliquent aux opérations engagées à compter de cette date.

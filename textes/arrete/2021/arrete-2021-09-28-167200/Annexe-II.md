@@ -108,7 +108,7 @@ Sur le lieu des opérations |
 
 A compter du 01/01/2024 |
 
-BAR-TH-171, BAR-TH-172, BAR-TH-113, BAR-TH-159 |
+BAR-TH-113, BAR-TH-159 |
 
 7,5 % |
 
@@ -149,6 +149,72 @@ A compter du 01/01/2025 |
 30 % (en sus des contrôles sur le lieu, ci-dessus) |
 
 Par contact |
+
+BAR-TH-171, BAR-TH-172 |
+
+7,5 % |
+
+Sur le lieu des opérations |
+
+Entre le 01/04/2022 et le 31/12/2022 |
+
+15 % (en sus des contrôles sur le lieu, ci-dessus) |
+
+Par contact |
+
+10 % |
+
+Sur le lieu des opérations |
+
+Entre le 01/01/2023 et le 31/12/2023 |
+
+20 % (en sus des contrôles sur le lieu, ci-dessus) |
+
+Par contact |
+
+12,5 % |
+
+Sur le lieu des opérations |
+
+Entre le 01/01/2024 et le 31/12/2024 |
+
+25 % (en sus des contrôles sur le lieu, ci-dessus) |
+
+Par contact |
+
+15 % |
+
+Sur le lieu des opérations |
+
+Entre le 01/01/2025 et le 31/12/2025 |
+
+30 % (en sus des contrôles sur le lieu, ci-dessus) |
+
+Par contact |
+
+25 % |
+
+Sur le lieu des opérations |
+
+Entre le 01/01/2026 et le 31/12/2026 |
+
+30 % (en sus des contrôles
+
+sur le lieu, ci-dessus) |
+
+Par contact |
+
+50% |
+
+Sur le lieu des opérations |
+
+Entre le 01/01/2027 et le 31/12/2027 |
+
+100% |
+
+Sur le lieu des opérations |
+
+A compter du 01/01/2028 |
 
 BAR-EN-105 |
 
@@ -806,4 +872,24 @@ Par contact |
 
 A compter du 1er septembre 2025 |
 
+BAR-TH-143 |
+
+15 % |
+
+Sur le lieu des opérations |
+
+A compter du 01/03/2026 |
+
+30 % (en sus des contrôles sur le lieu, ci-dessus) |
+
+Par contact |
+
 * Sont incluses les opérations bonifiées en application de l'article 4 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie.
+
+NOTA :
+
+Conformément à l'article 5 de l'arrêté du 15 décembre 2025 (NOR : ECOR2532411A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er janvier 2026 et s'appliquent aux opérations engagées à compter de cette date.
+
+Les dispositions des fiches d'opérations standardisées BAR-TH-171 et BAR-TH-172, dans leur version en vigueur au 1er octobre 2025, s'appliquent aux opérations incluses dans une liste transmise, au plus tard le 15 janvier 2026, par le demandeur de certificats au ministre chargé de l'énergie, suivant un modèle établi par la direction générale de l'énergie et du climat (DGEC) et mis à disposition sur le site internet du ministère.
+
+Conformément à l'article 6 de l'arrêté du 27 décembre 2025 (NOR : ECOR2535186A), ces dispositions, dans leur rédaction résultant de l'article 2 de l'arrêté précité, entrent en vigueur le 1er janvier 2026 et s'appliquent aux opérations engagées à compter de cette date.
