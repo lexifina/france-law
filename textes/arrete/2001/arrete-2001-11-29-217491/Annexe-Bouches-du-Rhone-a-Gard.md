@@ -328,95 +328,51 @@ C |
 
 25 |
 
-Direction départementale de l'équipement et de l'agriculture (1) du Cher
+DIRECTION DÉPARTEMENTALE DES TERRITOIRES DU CHER (16)
 
-FONCTIONS EXERCEES
+Fonction exercée |
 
-|
+Niveau de qualification de l'emploi |
 
-NIVEAU
+Nombre
 
-de qualification
+d'emplois |
 
-de l'emploi
+Nombre de points
 
-|
+(IM) par emploi |
 
-NOMBRE
+Chef du Service Habitat-Service Habitat |
 
-d'emplois
+A |
 
-|
+1 |
 
-NOMBRE DE POINTS (IM)
+20 |
 
-par emploi
+Chef du Bureau Logement-Service Habitat |
 
-|
+A |
 
-Responsable du service urbanisme et habitat
+1 |
 
-|
+20 |
 
-A
+Chargé d'opération ANRU-Bureau Logement-Service Habitat |
 
-|
+B |
 
-1
+1 |
 
-|
+20 |
 
-20 points
+Secrétaire du Service Habitat-Service Habitat |
 
-|
+C |
 
-Responsable de la cellule technique et financement du logement
+1 |
 
-|
-
-A
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Responsable de la cellule ville et politique sociale
-
-|
-
-B
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Comptable de la cellule ville et politique sociale
-
-|
-
-C
-
-|
-
-1
-
-|
-
-20 points
-
-|
+20 |
 
 DIRECTION DÉPARTEMENTALE DES TERRITOIRES DE CORSE-DU-SUD (15)
 
@@ -1111,3 +1067,5 @@ NOTA :
 (14) En application de l'article 1 de l'arrêté du 28 mars 2024 (NOR : TREK2409225A), la présente annexe est remplacée à effet de la date de signature de l'arrêté précité, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires et de la mer des Bouches-du-Rhône.
 
 (15) En application de l'article 1 de l'arrêté du 24 septembre 2024 (NOR : TECK2424985A), la présente annexe est remplacée pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de Corse-du-Sud et de la direction départementale de l'emploi, du travail, des solidarités et de la protection des populations de la Corse-du-Sud, par les dispositions de l'annexe audit arrêté, prenant effet à la date de signature dudit acte.
+
+(16) En application de l'article 1 de l'arrêté du 23 décembre 2025 (NOR : TECK2536496A), la présente annexe est remplacée , pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires du Cher, par les dispositions de l'annexe audit arrêté, prenant effet à la date de signature dudit acte.
