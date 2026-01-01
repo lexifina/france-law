@@ -1,0 +1,19 @@
+# Article 1er
+
+Les dispositions de l'article 12 relatives aux organismes recommandés pour la gestion des garanties de complémentaire santé collective sont supprimées et modifiées comme suit :
+
+« En application des dispositions des articles D. 912-1 et suivants du code de la sécurité sociale, une procédure de mise en concurrence a été organisée au terme de laquelle la commission paritaire permanente de négociation et d'interprétation a procédé à la co-recommandation des deux organismes assureurs suivants :
+
+• APGIS :
+
+Institution de prévoyance agréée par le ministère chargé de la sécurité sociale sous le n° 930, régie par les articles L. 931-1 et suivants du code de la sécurité sociale. SIREN n° 304-217-904.
+
+Siège social : 12, rue Massue, 94684 Vincennes Cedex.
+
+• PRODIGEO :
+
+Société anonyme à directoire et conseil de surveillance, régie par le code des assurances, RCS Paris B482 011 269. Siège social : 7, rue du Regard, 75006 Paris.
+
+Les modalités d'organisation de la co-recommandation seront réexaminées par les partenaires sociaux de la branche, dans le respect des dispositions de l'article L. 912-1 du code de la sécurité sociale, dans un délai maximal de 5 ans à compter de la date d'effet du présent avenant.
+
+À cette fin, les parties signataires se réuniront au plus tard 6 mois avant l'échéance. »
