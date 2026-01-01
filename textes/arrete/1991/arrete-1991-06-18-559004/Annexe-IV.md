@@ -82,13 +82,17 @@ C. Remise à niveau
 
 C. 1. En l’absence de la formation prévue au 1er alinéa du B.1.1, le réseau ou la personne physique assurant l’exploitation du centre de contrôle non rattaché s’assure de la remise à niveau, d’une durée minimale de 35 heures, avant le 31 mars de l’année en cours et avant toute reprise d’activité au-delà de cette échéance.
 
+Cette formation comprend la formation prévue au 1er alinéa du B.1.1 pour l'année précédente. Dans le cas où une partie de la formation prévue au 1er alinéa du B.1.1 est réalisée en téléformation, celle-ci est réalisée en présentiel dans le cadre de la remise à niveau.
+
 En l’absence de la formation prévue au 2ème alinéa du B.1.1, le réseau ou la personne physique assurant l’exploitation du centre de contrôle non rattaché s’assure de la remise à niveau, d’une durée minimale de 2 heures, avant le 31 mars de l’année en cours et avant toute reprise d’activité de contrôles techniques de véhicules pour lesquels le gaz naturel ou le gaz de pétrole liquéfié constitue une des sources d’énergie au-delà de cette échéance.
 
 C. 2. En l'absence d'activité depuis plus d'un an, le réseau ou la personne physique assurant l'exploitation du centre de contrôle non rattaché s'assure de la remise à niveau avant toute reprise d'activité.
 
-Cette remise à niveau est composée d'une partie théorique, d'une durée minimale de 35 heures si la durée de l'absence d'activité est inférieure à trois ans et d'une durée minimale de 70 heures dans les autres cas et d'une partie pratique de 35 heures dans un centre de contrôle. La formation de remise à niveau est adaptée aux évolutions réglementaires intervenues au cours de la période d'absence d'activité.
+Cette remise à niveau est composée d'une partie théorique, d'une durée minimale de 35 heures et d'une partie pratique de 35 heures dans un centre de contrôle. La formation de remise à niveau est adaptée aux évolutions réglementaires intervenues au cours de la période d'absence d'activité.
 
-Si la durée de l'absence d'activité est supérieure à cinq ans, cette remise à niveau consiste en une formation initiale telle que prévue au A. 2.2 de la présente annexe.
+Cette formation comprend la formation prévue au 1er alinéa du B.1.1 pour l'année précédente. Dans le cas où une partie de la formation prévue au 1er alinéa du B.1.1 est réalisée en téléformation, celle-ci est réalisée en présentiel dans le cadre de la remise à niveau.
+
+Si la durée de l'absence d'activité est supérieure à quatre ans, cette remise à niveau consiste en une formation initiale telle que prévue au A. 2.2 de la présente annexe.
 
 C. 3. Dans tous les cas, la remise à niveau ne dispense pas des exigences de formation prévues au point B pour l'année civile en cours. Une traçabilité des dispositions mises en œuvre dans le cadre de la remise à niveau est assurée.
 
@@ -139,3 +143,7 @@ F. 2. Qualification des formateurs délivrant des formations pour le contrôle t
 Pour délivrer des formations sur le contrôle technique des véhicules électriques ou hybrides, le formateur dispose d'une attestation de capacité délivrée par l'Union Technique de l'Automobile, du Cycle et du Motocycle (UTAC.), autodrome de Linas-Montlhéry, 91310 Linas-Montlhéry, à l'issue d'une formation théorique et pratique traitant de la sécurité électrique, de la technologie et des modalités de contrôle, d'au minimum 10 heures, ayant donné lieu à une évaluation satisfaisante.
 
 Le formateur est en mesure de présenter son attestation de capacité sur demande des services de l'Etat.
+
+NOTA :
+
+Conformément à l'article 7 de l'arrêté du 18 août 2025 (NOR : ATDR2519915A), ces dispositions, dans leur rédaction issue de l'article 4 dudit arrêté, entrent en vigueur au 1er janvier 2026.
