@@ -262,9 +262,413 @@ Pour les tuyaux métalliques ou composites recouverts d'une tresse ou d'une hél
 
 APPENDICE IV.2 : LISTE DE CONTRÔLE (Voir 5.3 de l'annexe I du présent arrêté)
 
-Vous pouvez consulter le tableau dans le JO n° 147 du 27/06/2009 texte numéro 11
+1. |
 
-(1) Ne remplir que s'il y a un agent avec une infraction. (2) A mentionner sous remarques pour les opérations de groupage de transports. (3) Contrôle des infractions apparentes.
+Lieu et pays où a lieu le contrôle : |
+
+|
+
+2. Date : |
+
+|
+
+3. Heure : |
+
+|
+
+Données relatives au véhicule/ chargement |
+
+4. |
+
+Marque (s) de nationalité et numéro (s) d'immatriculation du/ des véhicules : |
+
+|
+
+5. |
+
+Entreprise effectuant l'opération de transport/ adresse : |
+
+|
+
+6. |
+
+Nom (s) du/ des conducteurs (s)/ assistant (s) du conducteur/ numéro (s) de leur (s) certificat (s) (1) (ADR 8.2, le cas échéant) : |
+
+|
+
+7. |
+
+Adresse et date du dernier chargement ou déchargement : (1) |
+
+|
+
+8. |
+
+Adresse du prochain chargement ou déchargement : (1) |
+
+|
+
+9. |
+
+Numéro (s) ONU, groupe d'emballage et quantité de marchandises dangereuses, lorsque des infractions sont constatées : (2) |
+
+|
+
+10. |
+
+Exemption applicable et, dans l'affirmative, laquelle ? (3) |
+
+□ non |
+
+□ oui |
+
+Section : |
+
+|
+
+11. |
+
+Moyens de rétention |
+
+□ vrac |
+
+□ citerne |
+
+□ colis |
+
+□ MEMU |
+
+Documents |
+
+Statut du contrôle (4) |
+
+Infraction |
+
+Section de l'ADR + intervenant (s) (6) |
+
+|
+
+|
+
+C |
+
+NC |
+
+s. o |
+
+Catégorie de risque (5) |
+
+|
+
+12. |
+
+Documents de transport (par ex., ADR 8.1.2.1 a), 5.4.1 et 5.4.2) |
+
+□ |
+
+□ |
+
+□ |
+
+|
+
+|
+
+13. |
+
+Consignes écrites (ADR 8.1.2.1 b) et 5.4.3) |
+
+□ |
+
+□ |
+
+□ |
+
+|
+
+|
+
+14. |
+
+Certificat d'agrément des véhicules (ADR 8.1.2.2 a) et 9.1.3) |
+
+□ |
+
+□ |
+
+□ |
+
+|
+
+|
+
+15. |
+
+Certificat de formation du conducteur (ADR 8.1.2.2 b)) et document d'identification (ADR 1.10.1.4 et 8.1.2.1 d)) |
+
+□ |
+
+□ |
+
+□ |
+
+|
+
+|
+
+Opération de transport |
+
+16. |
+
+Marchandise dont le transport est autorisé (ADR 1.1.2.1) |
+
+□ |
+
+□ |
+
+□ |
+
+|
+
+|
+
+17. |
+
+Dispositions relatives aux moyens de rétention (par ex. ADR 4.1 à 4.7) |
+
+□ |
+
+□ |
+
+□ |
+
+|
+
+|
+
+18. |
+
+Dispositions relatives au transport (par ex. ADR 7.1 à 7.4) |
+
+□ |
+
+□ |
+
+□ |
+
+|
+
+|
+
+19. |
+
+Interdiction de chargement en commun et limitation des quantités (par ex. ADR 7.5.2,7.5.4 et 7.5.5) |
+
+□ |
+
+□ |
+
+□ |
+
+|
+
+|
+
+20. |
+
+Manutention et arrimage (par ex. ADR 7.5.7) |
+
+□ |
+
+□ |
+
+□ |
+
+|
+
+|
+
+21. |
+
+Marquage des colis/ citernes/ marchandises en vrac (par ex. ADR partie 6) |
+
+□ |
+
+□ |
+
+□ |
+
+|
+
+|
+
+22. |
+
+Marquage, étiquetage des colis (par ex. ADR 3.3 à 3.5,4.1.4.1,5.1 et 5.2) |
+
+□ |
+
+□ |
+
+□ |
+
+|
+
+|
+
+23. |
+
+Plaques-étiquettes, panneaux orange, marques apposées sur les véhicules/ citernes, etc. (par ex. ADR 3.4.13,5.3,5.5,7.3 et 7.5.11) |
+
+□ |
+
+□ |
+
+□ |
+
+|
+
+|
+
+24 |
+
+Prescriptions relatives aux véhicules (ADR, partie 9) |
+
+□ |
+
+□ |
+
+□ |
+
+|
+
+|
+
+Matériel de bord |
+
+25. |
+
+Equipements généraux et spécifiques (par ex. ADR 8.1.4 et 8.1.5) |
+
+□ |
+
+□ |
+
+□ |
+
+|
+
+|
+
+Autres |
+
+26. |
+
+Accords bilatéraux/ multilatéraux (par ex. ADR 1.5.1), réglementations nationales, agrément de l'autorité compétente (par ex. ADR 8.1.2.2 c)) |
+
+□ |
+
+□ |
+
+□ |
+
+|
+
+|
+
+27. |
+
+Autres infractions |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Résultat |
+
+28. |
+
+Mesures correctives sur place □/ avant la fin du trajet □/ dans les entreprises □ |
+
+Type de mesure : |
+
+Rapport officiel □ Avertissement □ Immobilisation □ |
+
+29. |
+
+Remarques (7) : |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+30. |
+
+Scellés brisés/ placés ? |
+
+Brisés le : |
+
+|
+
+Placés le : |
+
+|
+
+31. |
+
+Autorité/ agent/ représentant effectuant le contrôle |
+
+|
+
+(1) Remplir uniquement s'il y a un rapport avec l'infraction.
+
+(2) A mentionner sous “ Remarques ”.
+
+(3) Fait référence à toute exemption ou dérogation conformément à la directive 2008/68/ CE.
+
+(4) Statut du contrôle : C (contrôlé), NC (impossible à contrôler), s. o (sans objet).
+
+(5) Catégorie de risque de l'infraction constatée conformément au § 5 de l'annexe I du présent arrêté.
+
+(6) A remplir si une ou plusieurs infractions sont constatées. Préciser la catégorie du/ des intervenant (s) éventuel (s) responsable (s), conformément au point 1.4 de l'ADR : Exp. (expéditeur), Tr. (transporteur), Dest. (destinataire), Ch. (chargeur), Emb. (emballeur), Remp. (remplisseur), Exploit. (exploitant d'un conteneur-citerne ou d'une citerne mobile), Déch. (déchargeur). La mention de la catégorie d'intervenant dans la liste de contrôle ne porte en rien atteinte à la présomption d'innocence.
+
+(7) Indiquer ici le (s) numéro (s) ONU, le groupe d'emballage, la quantité de marchandises dangereuses transportées en cas d'infractions constatées, les infractions commises par les équipages, les mesures correctives et autres remarques.
 
 APPENDICE IV.3 : TABLEAU DE RAPPORT STATISTIQUE
 
@@ -3291,7 +3695,3 @@ Conformément aux exigences du 1.4.3.2, les déchèteries sont tenues de procéd
 Elles permettent notamment de s'assurer de la mise en œuvre des dispositions des 4.1.1.6 et 4.1.10 et font l'objet d'un suivi par le conseiller à la sécurité pour le transport de marchandises dangereuses désigné par l'exploitant de la déchèterie.
 
 Ces procédures de tri et de conditionnement sont mises à jour de manière régulière, et sont tenues à disposition de l'autorité compétente.
-
-NOTA :
-
-Conformément à l’article 14 de l’arrêté du 3 décembre 2024 (NOR : TECP2431547A), les dispositions de l'arrêté précité entrent en vigueur le 1er janvier 2025. Toutefois, les dispositions du présent arrêté applicables avant cette date peuvent continuer d'être appliquées jusqu'au 30 juin 2025.

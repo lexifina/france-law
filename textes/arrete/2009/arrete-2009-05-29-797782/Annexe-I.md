@@ -1000,89 +1000,113 @@ Les contrôles ne doivent pas dépasser un temps raisonnable. La durée du contr
 
 Pour l'application des dispositions de l'article 1er bis du décret n° 77-1331 susvisé, les dispositions dont la méconnaissance entraîne une infraction respectivement de catégorie de risque I, II ou III sont définies comme suit :
 
-Catégorie de risque I : risque élevé de décès, de dommages corporels graves ou de dommages environnementaux importants et devant normalement amener à prendre immédiatement des mesures correctives appropriées.
+Catégorie de risque I : risque élevé de décès, de dommages corporels graves ou de dommages environnementaux importants et devant normalement amener à prendre immédiatement des mesures correctives appropriées telles que l'immobilisation du véhicule. Si ces infractions sont constatées lors de contrôles dans les entreprises, ces infractions font normalement l'objet d'autres mesures appropriées.
 
 Relèvent de cette catégorie les faits suivants :
 
 1) Le transport de marchandises dangereuses interdites au transport ;
 
-2) Toute fuite de matières dangereuses ;
+2) Le transport de marchandises dangereuses avec un moyen de rétention interdit ou non approuvé, ce qui représente un danger pour les vies humaines ou l'environnement dans une mesure telle qu'il est décidé d'immobiliser le véhicule ;
 
-3) L'utilisation d'un mode de transport interdit ou d'un moyen de transport inapproprié ;
+3) Le transport de marchandises dangereuses sans qu'il ne soit précisé sur le véhicule qu'il transporte des marchandises dangereuses, ce qui représente un danger pour les vies ou l'environnement dans une mesure telle qu'il est décidé d'immobiliser le véhicule ;
 
-4) Le transport en vrac dans un conteneur qui n'est pas structurellement en bon état ;
+4) Toute fuite de marchandises dangereuses ;
 
-5) Le transport dans un véhicule dépourvu d'un certificat d'agrément ;
+5) L'utilisation d'un mode de transport interdit ;
 
-6) Le fait que le véhicule ne soit plus conforme aux normes d'agrément et présente un danger immédiat (si cette dernière condition n'est pas remplie, on se trouve dans la catégorie de risque II) ;
+6) Le transport en vrac dans un véhicule ou un conteneur qui n'est pas structurellement en bon état ;
 
-7) L'utilisation de colis non agréés ;
+7) Le transport dans un véhicule dépourvu d'un certificat d'agrément ;
 
-8) Le fait que l'emballage ne soit pas conforme à l'instruction d'emballage applicable ;
+8) L'utilisation d'un véhicule qui n'est plus conforme aux normes d'agrément et présente un danger immédiat (si cette dernière condition n'est pas remplie, l'infraction est classée dans la catégorie de risques II) ;
 
-9) Le non-respect des dispositions spéciales relatives à l'emballage en commun ;
+9) L'utilisation de colis, de citernes, de conteneurs ou de véhicules non agréés ;
 
-10) Le non-respect des règles régissant la fixation et l'arrimage du chargement ;
+10) L'utilisation d'un emballage non conforme aux instructions d'emballage applicables ainsi que l'utilisation de citernes, de véhicules et de conteneurs non conformes aux dispositions applicables ;
 
-11) Le non-respect des règles régissant le chargement en commun de colis ;
+11) Le non-respect des dispositions spéciales relatives à l'emballage en commun ;
 
-12) Le non-respect des degrés de remplissage autorisés des citernes ou des colis ;
+12) Le non-respect des règles régissant la fixation et l'arrimage des chargements ;
 
-13) Le non-respect des dispositions limitant les quantités transportées par unité de transport ;
+13) Le non-respect des règles relatives aux denrées alimentaires, aux autres objets de consommation et aux aliments pour animaux ;
 
-14) Le transport de marchandises dangereuses sans indication de leur présence (documents, marquage et étiquetage des colis, placardage et marquage des véhicules, etc.) ;
+14) Le non-respect des règles régissant le chargement en commun de colis ;
 
-15) Le transport sans aucun placardage ou marquage sur le véhicule ;
+15) Le non-respect des dispositions limitant les quantités dont le transport est autorisé par unité de transport, y compris les degrés de remplissage autorisés des citernes ou des colis ;
 
-16) L'absence d'informations relatives à la marchandise transportée permettant de déterminer l'existence d'un risque de la catégorie I (n° ONU, dénomination, groupe d'emballage, etc.) ;
+16) Le transport de marchandises dangereuses sans que les documents nécessaires ne soient disponibles à bord ou dans un format électronique approprié, si cela est autorisé ;
 
-17) Le fait que le conducteur ne détienne pas un certificat de formation professionnelle valide ;
+17) Le transport de marchandises dangereuses dans des colis qui ne sont pas munis du marquage, de l'étiquetage ou des autres signes d'identification nécessaires ;
 
-18) L'utilisation de feu ou d'ampoules à nu ;
+18) Le transport de marchandises dangereuses sans placardage, marquage (y compris la signalisation orange) ou autre signe d'identification sur le véhicule ;
 
-19) Le non-respect de l'interdiction de fumer.
+19) La fourniture d'informations incomplètes ou incorrectes relatives à la substance transportée permettant de déterminer l'existence d'une infraction de la catégorie de risques I (par exemple, numéro ONU, désignation officielle de transport, groupe d'emballage) ;
 
-20) L'absence à bord d'un agent agréé de convoyage ;
+20) Le fait que le conducteur ne détienne pas de certificat de formation professionnelle valide ;
 
-21) La présence de voyageur dans un véhicule transportant des marchandises dangereuses.
+21) L'utilisation de feu ou d'ampoules à nu ;
 
-Catégorie de risque II : risque de dommages corporels ou de dommages environnementaux et devant normalement amener à prendre des mesures correctives appropriées, comme l'obligation de se mettre en ordre sur les lieux mêmes du contrôle dans la mesure du possible ou au plus tard à l'issue de l'opération de transport en cours ;
+22) Le non-respect de l'interdiction de fumer ;
+
+23) L'absence de désignation d'un conseiller à la sécurité pour chaque entreprise, le cas échéant ;
+
+24) Le non-respect du point 1.10 de l'ADR relatif aux dispositions en matière de sécurité, le cas échéant.
+
+Catégorie de risque II : risque de dommages corporels ou de dommages environnementaux et devant normalement amener à prendre des mesures correctives appropriées, comme l'obligation de se mettre en ordre sur les lieux mêmes du contrôle dans la mesure du possible ou au plus tard à l'issue de l'opération de transport en cours. Si ces infractions sont constatées lors de contrôles dans les entreprises, ces infractions font normalement l'objet d'autres mesures appropriées.
 
 Relèvent de cette catégorie les faits suivants :
 
-1) Le fait que l'unité de transport soit composée de plus d'une remorque / semi-remorque ;
+1) L'utilisation d'une unité de transport composée de plus d'une remorque/ semi-remorque ;
 
-2) Le fait que le véhicule ne soit plus conforme aux normes d'agrément sans toutefois présenter un danger immédiat ;
+2) L'utilisation d'un véhicule qui n'est plus conforme aux normes d'agrément sans toutefois présenter un danger immédiat ;
 
-3) Le fait que le véhicule ne transporte pas d'extincteurs d'incendie en état de fonctionner tels que prescrits ; un extincteur peut être jugé en état de fonctionner s'il n'y a que le plomb prescrit et / ou la date d'expiration qui manquent ; cependant, cela ne vaut pas si l'extincteur est visiblement devenu inutilisable, par exemple si le manomètre est à zéro ;
+3) L'absence d'extincteurs d'incendie en état de fonctionner tels que prescrits à bord d'un véhicule, ainsi que le fait que les équipements de lutte contre l'incendie ne soient pas conformes aux dispositions spécifiques ;
 
-4) Le fait que le véhicule ne transporte pas les équipements prescrits dans l'ADR ou dans les consignes écrites ;
+4) L'absence des équipements prescrits conformément à l'ADR ou dans les consignes écrites à bord d'un véhicule ;
 
-5) Le fait que les dates d'essai et d'inspection et les durées d'utilisation des colis, des GRV ou des grands emballages n'aient pas été respectées ;
+5) Le non-respect des dates d'essai et d'inspection et des durées d'utilisation des emballages, des grands récipients pour vrac (GRV), des grands emballages, des citernes, des véhicules ou des conteneurs ;
 
-6) Le fait de transporter des emballages contenant des colis, des GRV et de grands emballages endommagés ou des emballages vides, non nettoyés et endommagés ;
+6) Le transport de colis contenant des emballages, des GRV ou de grands emballages endommagés, ou le transport d'emballages endommagés vides non nettoyés ;
 
-7) Le transport de marchandises en colis dans un conteneur qui n'est pas structurellement en bon état ;
+7) Le transport de marchandises en colis dans un véhicule ou un conteneur qui n'est pas structurellement en bon état ;
 
-8) Le fait que des citernes ou des véhicules-citernes (y compris vides et non nettoyés) n'aient pas été fermés convenablement, sans fuite de matière dangereuse constatée ;
+8) Le fait que des citernes ou des wagons-citernes, des véhicules, des conteneurs ou des colis (y compris vides et non nettoyés) n'aient pas été fermés convenablement ;
 
-9) Le transport d'un emballage combiné avec un emballage extérieur non convenablement fermé ;
+9) Le fait que des colis, des citernes, des véhicules ou un moyen de rétention soient munis d'un étiquetage, d'un marquage (y compris la signalisation orange), d'un placardage ou d'autres signes d'identification incorrects ;
 
-10) Un étiquetage, marquage ou placardage incorrect ;
+10) L'absence de consignes écrites conformes à l'ADR ;
 
-11) L'absence de consignes écrites conformes à l'ADR ou la présence de consignes écrites non pertinentes pour les marchandises transportées ;
+11) Le fait qu'un véhicule ne soit pas convenablement surveillé ou garé ;
 
-12) Le fait que le véhicule ne soit pas convenablement surveillé ou garé.
+12) Le transport de personnes, autres que les membres d'équipage, dans des unités de transport transportant des marchandises dangereuses ;
 
-Catégorie de risque III : faible risque de dommages corporels ou de dommages environnementaux et n'amenant pas à prendre des mesures correctives appropriées sur place, celles-ci pouvant être prises ultérieurement dans l'entreprise.
+13) Le non-respect des dispositions réglementaires prévues au point 7.5.10 de l'ADR concernant les mesures à prendre pour éviter l'accumulation de charges électrostatiques au cours des opérations de remplissage et de vidange ;
 
-Relève de cette catégorie le fait de méconnaître toute disposition réglementaire non mentionnée aux alinéas précédents comme relevant des catégories I ou II. Notamment :
+14) Le non-respect des dispositions réglementaires à l'arrivée sur les lieux de chargement et de déchargement ;
 
-1) Le fait que la taille des panneaux ou des étiquettes, ou des lettres, chiffres ou symboles figurant sur les panneaux ou les étiquettes ne soit pas réglementaire ;
+15) Le non-respect des dispositions réglementaires relatives au rôle, aux tâches et aux certificats du conseiller à la sécurité désigné pour chaque entreprise, le cas échéant ;
 
-2) Le fait que certaines informations, autres que celles visées au point 16 de la catégorie de risque I, ne figurent pas dans les documents de transport ;
+16) Le non-respect des dispositions réglementaires relatives à la période minimale de conservation du document de transport de marchandises dangereuses et des renseignements et de la documentation supplémentaire comme indiqué dans l'ADR ;
 
-3) Le fait que le certificat de formation ne se trouve pas à bord du véhicule mais que d'autres éléments indiquent que le conducteur en est détenteur.
+17) Le non-respect des dispositions réglementaires relatives à la formation des personnes concernées par le transport de marchandises dangereuses ;
+
+18) Le fait de ne pas présenter les documents et/ ou rapports requis aux autorités compétentes.
+
+Catégorie de risque III : faible risque de dommages corporels ou de dommages environnementaux et n'amenant pas à prendre des mesures correctives appropriées sur place, celles-ci pouvant être prises ultérieurement dans l'entreprise. Si ces infractions sont constatées lors de contrôles dans les entreprises, ces infractions font normalement l'objet d'autres mesures appropriées.
+
+Relève de cette catégorie le fait de méconnaître toute disposition réglementaire non mentionnée aux alinéas précédents comme relevant des catégories I ou II, notamment :
+
+1) Le non-respect de la réglementation relative à la taille des plaques-étiquettes ou des étiquettes, ou des lettres, chiffres ou symboles figurant sur les plaques-étiquettes ou étiquettes ;
+
+2) Le fait que certaines informations, à l'exception de celles relevant de la catégorie de risques I, ne figurent pas dans les documents de transport ;
+
+3) Le fait que le certificat de formation ne se trouve pas à bord du véhicule mais que d'autres éléments indiquent que le conducteur en est détenteur ;
+
+4) Le fait que chaque membre de l'équipage du véhicule n'ait pas sur lui un document d'identification portant sa photographie ;
+
+5) Le fait que les plaques-étiquettes et marques (y compris les panneaux orange) ou autres signes d'identification ne soient pas correctement apposés ;
+
+6) La présentation tardive des documents et/ ou rapports requis aux autorités compétentes.
 
 5. 5. Des contrôles sont également effectués dans les entreprises à titre préventif ou lorsque des infractions mettant en danger la sécurité du transport de marchandises dangereuses auront été constatées sur la route.
 
@@ -1103,7 +1127,3 @@ Lorsqu'une ou plusieurs infractions ont été constatées en matière de transpo
 sont transmises par les autorités locales chargées du constat des infractions et de leur sanction au ministère chargé des transports, direction générale des infrastructures, des transports et des mobilités.
 
 Pour chaque année calendaire, un rapport conforme au modèle figurant à l'appendice IV. 3 du présent arrêté est rédigé. Tous les deux ans, les deux derniers rapports sont transmis à la Commission européenne, au plus tard douze mois après la fin de la deuxième année calendaire.
-
-NOTA :
-
-Conformément à l’article 14 de l’arrêté du 3 décembre 2024 (NOR : TECP2431547A), les dispositions de l'arrêté précité entrent en vigueur le 1er janvier 2025. Toutefois, les dispositions du présent arrêté applicables avant cette date peuvent continuer d'être appliquées jusqu'au 30 juin 2025.
