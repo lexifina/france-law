@@ -374,7 +374,7 @@ Certificats d'exemption initiaux (durée de validité supérieure à six mois)
 
 CCS |
 
-SM (1) |
+STEN (1) |
 
 Certificats d'exemption initiaux (durée de validité inférieure à six mois)
 
@@ -390,7 +390,7 @@ Certificats d'exemption initiaux (durée de validité supérieure à six mois)
 
 CRS |
 
-SM (1) |
+STEN (1) |
 
 Certificats d'exemption initiaux (durée de validité inférieure à six mois)
 
@@ -408,7 +408,7 @@ CSN |
 
 CSN (2) |
 
-(1) Sous-direction de la sécurité maritime de la direction des affaires maritimes.
+(1) Sous-direction de la sécurité et de la transition écologique des navires.
 
 (2) Si les conditions de délivrance du certificat initial n'ont pas été modifiées.
 

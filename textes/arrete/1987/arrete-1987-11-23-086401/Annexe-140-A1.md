@@ -16,7 +16,9 @@ Bureau
 
 Veritas
 
-SA |
+SA
+
+|
 
 DNV AS |
 
@@ -24,7 +26,9 @@ RINA
 
 Services
 
-Sp. A |
+Sp. A
+
+|
 
 Lloyd's
 
@@ -32,13 +36,17 @@ Register
 
 Group Ltd.
 
-(LR) |
+(LR)
+
+|
 
 KR (Korean Register) |
 
 ABS
 
-(American Bureau of shipping) |
+(American Bureau of shipping)
+
+|
 
 Permis de navigation |
 
@@ -376,6 +384,34 @@ H |
 
 H |
 
+Visites requises pour le certificat de sécurité pour engin à grande vitesse (HSC 1994)/ Certificat de sécurité pour engin à grande vitesse (HSC 1994) |
+
+H |
+
+H |
+
+H |
+
+H |
+
+H |
+
+H |
+
+Visites requises pour le certificat de sécurité pour engin à grande vitesse (HSC 2000)/ Certificat de sécurité pour engin à grande vitesse (HSC 2000) |
+
+H |
+
+H |
+
+H |
+
+H |
+
+H |
+
+H |
+
 2. Titres et certificats délivrés au nom de l'Etat pour tous les types de navires
 
 H : Habilitation comprenant l'étude, l'approbation des plans et documents, la réalisation des visites à bord, la délivrance, le visa et le renouvellement, le retrait et la suspension des titres et certificats en application des dispositions du décret n° 84-810 modifié du 30 août 1984.
@@ -386,7 +422,9 @@ Bureau
 
 Veritas
 
-SA |
+SA
+
+|
 
 DNV AS |
 
@@ -394,7 +432,9 @@ RINA
 
 Services
 
-Sp. A |
+Sp. A
+
+|
 
 Lloyd's
 
@@ -402,7 +442,9 @@ Register
 
 Group Ltd.
 
-(LR) |
+(LR)
+
+|
 
 KR (Korean Register) |
 
@@ -412,7 +454,9 @@ ABS
 
 Bureau of
 
-Shipping) |
+Shipping)
+
+|
 
 Visites relatives au Certificat international ou national de Franc-Bord/ Certificat de Franc-Bord |
 
@@ -564,7 +608,9 @@ Bureau
 
 Veritas
 
-SA |
+SA
+
+|
 
 DNV AS |
 
@@ -572,7 +618,9 @@ RINA
 
 Services
 
-Sp. A |
+Sp. A
+
+|
 
 Lloyd's
 
@@ -580,7 +628,9 @@ Register
 
 Group Ltd.
 
-(LR) |
+(LR)
+
+|
 
 KR (Korean Register) |
 
@@ -590,7 +640,9 @@ ABS
 
 n Bureau of
 
-Shipping) |
+Shipping)
+
+|
 
 Visites relatives au Certificat international de jaugeage des navires/ Certificat international de jaugeage des navires |
 
@@ -630,7 +682,9 @@ Bureau
 
 Veritas
 
-SA SA (BV) |
+SA SA (BV)
+
+|
 
 DNV AS |
 
@@ -638,7 +692,9 @@ RINA
 
 Services
 
-Sp. A |
+Sp. A
+
+|
 
 Lloyd's
 
@@ -646,7 +702,9 @@ Register
 
 Group Ltd.
 
-(LR) |
+(LR)
+
+|
 
 KR (Korean Register) |
 
@@ -656,7 +714,9 @@ ABS
 
 n Bureau of
 
-Shipping) |
+Shipping)
+
+|
 
 Visites relatives au Certificat de gestion de la sécurité du navire/ Certificat de gestion de la sécurité |
 
