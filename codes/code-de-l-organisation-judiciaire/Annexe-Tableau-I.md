@@ -372,7 +372,7 @@ Comme ci-dessus. |
 
 TRIBUNAUX JUDICIAIRES
 
-Présidents des tribunaux judiciaires, procureurs de la République près lesdits tribunaux, procureur de la République antiterroriste et procureur de la République financier près le tribunal judiciaire de Paris
+Présidents des tribunaux judiciaires, procureurs de la République près lesdits tribunaux, procureur de la République financier, procureur de la République antiterroriste et procureur de la République anti-criminalité organisée près le tribunal judiciaire de Paris
 
 AUDIENCE |
 
@@ -404,7 +404,7 @@ Blanche, plissée. |
 
 Solennelle (et cérémonies publiques). |
 
-Comme ci-dessus, sauf pour les chefs de juridiction des tribunaux judiciaires de Bobigny, Créteil, Nanterre, Paris, le procureur de la République antiterroriste et le procureur de la République financier de Paris : rouge, à grandes manches. |
+Comme ci-dessus, sauf pour les chefs de juridiction des tribunaux judiciaires de Bobigny, Créteil, Nanterre, Paris, le procureur de la République financier, le procureur de la République antiterroriste et le procureur de la République anti-criminalité organisée près le tribunal judiciaire de Paris : rouge, à grandes manches. |
 
 Comme ci-dessus. |
 
@@ -412,7 +412,7 @@ Comme ci-dessus. |
 
 De soie bleu clair, avec franges, sauf dans le ressort des cours d'appel de Paris et de Versailles : de soie noire, avec franges. |
 
-Comme ci-dessus, sauf pour les chefs de juridiction des tribunaux judiciaires de Bobigny, Créteil, Nanterre, Paris, le procureur de la République antiterroriste et le procureur de la République financier de Paris : de velours noir, avec quatre galons d'or. |
+Comme ci-dessus, sauf pour les chefs de juridiction des tribunaux judiciaires de Bobigny, Créteil, Nanterre, Paris, le procureur de la République financier, le procureur de la République antiterroriste et le procureur de la République anti-criminalité organisée près le tribunal judiciaire de Paris : de velours noir, avec quatre galons d'or. |
 
 Comme ci-dessus. |
 
@@ -450,7 +450,7 @@ Blanche, plissée. |
 
 Solennelle (et cérémonies publiques). |
 
-Comme ci-dessus, sauf pour les premiers vice-présidents des tribunaux judiciaires de Bobigny, Créteil, Nanterre, Paris, les procureurs de la République adjoints près lesdits tribunaux et les procureurs de la République financiers et antiterroristes adjoints près le tribunal judiciaire de Paris : rouge, à grandes manches. |
+Comme ci-dessus, sauf pour les premiers vice-présidents des tribunaux judiciaires de Bobigny, Créteil, Nanterre, Paris, les procureurs de la République adjoints près lesdits tribunaux et les procureurs de la République financiers, antiterroristes et anti-criminalité organisée adjoints près le tribunal judiciaire de Paris : rouge, à grandes manches. |
 
 Comme ci-dessus. |
 
@@ -458,7 +458,7 @@ Comme ci-dessus. |
 
 De soie bleu-clair, avec franges, sauf dans le ressort des cours d'appel de Paris et de Versailles : de soie noire, avec franges. |
 
-Comme ci-dessus, sauf pour les premiers vice-présidents des tribunaux judiciaires de Bobigny, Créteil, Nanterre, Paris, les procureurs de la République adjoints près lesdits tribunaux et les procureurs de la République financiers et antiterroristes adjoints près le tribunal judiciaire de Paris : de laine noire, avec un double galon d'argent. |
+Comme ci-dessus, sauf pour les premiers vice-présidents des tribunaux judiciaires de Bobigny, Créteil, Nanterre, Paris, les procureurs de la République adjoints près lesdits tribunaux et les procureurs de la République financiers, antiterroristes et anti-criminalité organisée adjoints près le tribunal judiciaire de Paris : de laine noire, avec un double galon d'argent. |
 
 Comme ci-dessus. |
 
@@ -653,3 +653,7 @@ Robe noire sans simarre ni toque noire. |
 Greffier des services judiciaires |
 
 Robe noire sans simarre ni toque noire. |
+
+NOTA :
+
+Conformément à l'article 3 du décret n° 2025-962 du 9 septembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 5 janvier 2026.
