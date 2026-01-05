@@ -1,6 +1,6 @@
-# Article Annexe à l'article A. 5332-200
+# Article Annexe à l'article A. 5332-201
 
-RÉFÉRENTIEL NATIONAL DE FORMATION EN SÛRETÉ PORTUAIRE - SENSIBILISATION &laquo; PERSONNEL D'UNE INSTALLATION PORTUAIRE NON CHARGÉ DE TÂCHES DE SÛRETÉ &raquo;
+RÉFÉRENTIEL NATIONAL DE FORMATION EN SÛRETÉ PORTUAIRE - SENSIBILISATION " PERSONNEL D'UNE INSTALLATION PORTUAIRE NON CHARGÉ DE TÂCHES DE SÛRETÉ "
 
 Avertissement concernant la durée de la sensibilisation :
 
@@ -48,7 +48,7 @@ Sous-module B2 - Acteurs institutionnels nationaux locaux |
 
 Durée : 5 minutes |
 
-Services de l'Etat territoriaux : préfet de département et référent départemental pour la sûreté portuaire ; préfet maritime et gendarmerie maritime (notamment pelotons de sûreté maritime et portuaire &laquo; PSMP &raquo;) ; forces de sécurité intérieure (police aux frontières, sécurité publique, gendarmerie nationale, douanes). |
+Services de l'Etat territoriaux : préfet de département et référent départemental pour la sûreté portuaire ; préfet maritime et gendarmerie maritime (notamment pelotons de sûreté maritime et portuaire PSMP ) ; forces de sécurité intérieure (police aux frontières, sécurité publique, gendarmerie nationale, douanes). |
 
 Connaissances élémentaires permettant la compréhension de l'environnement professionnel des personnels d'une installation portuaire en articulation avec leurs missions. |
 
@@ -70,13 +70,13 @@ Opérateurs de services portuaires (notamment pilotes maritimes) |
 
 Module C - Concepts |
 
-Durée : 15 à 20 minutes |
+Durée : 40 à 45 minutes |
 
 L'objectif de ce module est l'acquisition de connaissances élémentaires sur les concepts importants de la sûreté portuaire. |
 
 Sous-module C1 - Prévention des actes illicites intentionnels |
 
-Durée : 5 minutes |
+Durée : 10 minutes |
 
 Armes
 
@@ -94,7 +94,7 @@ Connaissances avancées permettant la maîtrise de ces concepts. |
 
 Sous-module C2 - Principales menaces |
 
-Durée : 5 minutes |
+Durée : 15 minutes |
 
 Menace terroriste |
 
@@ -110,7 +110,7 @@ Autres menaces (notamment survol de drones) |
 
 Sous-module C3 - Zonages portuaires |
 
-Durée : 5 minutes |
+Durée : 10 minutes |
 
 Navire |
 
@@ -128,7 +128,7 @@ Limites portuaires de sûreté |
 
 Sous-module C4 - Contrôles de sûreté |
 
-Durée : 5 minutes |
+Durée : 10 minutes |
 
 Supervision des contrôles de sûreté |
 
