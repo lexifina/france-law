@@ -198,7 +198,7 @@ Sous-directeur de l'encadrement supérieur, des commissaires et des officiers.
 
 Sous-directeur des personnels d'encadrement et d'application, des policiers-adjoints et des réserves.
 
-Chef du service juridique.
+Sous-directeur de la prévention, de l'accompagnement et du soutien des personnels.
 
 3. Académie de police :
 
@@ -330,4 +330,4 @@ Conseiller technique chargé des affaires de police.
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 27 octobre 2025 (NOR : INTC2526462A), ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur à compter du 1er décembre 2025.
+Conformément à l’article 2 de l’arrêté du 19 décembre 2025 (NOR : INTC2511136A), ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur à compter du 5 janvier 2026.
