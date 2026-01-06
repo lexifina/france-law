@@ -1,0 +1,9 @@
+# Réponse à la question n° 9073
+
+- Question : [9073](9073.md) — Question n° 9073 — Publication des comptes de l'ANAH
+
+## Réponse
+
+*JO du 2026-01-06, page 52*
+
+En l'état actuel du cadre s'appliquant aux opérateurs de l'Etat dotés de missions de service public, dont l'Agence nationale de l'habitat (Anah), et notamment du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique, le principe d'autonomie budgétaire n'est adjoint d'aucune obligation d'assurer la publicité des comptes. En vertu de ce même décret, le budget de l'opérateur, préparé par l'ordonnateur et adopté par l'organe délibérant fait bien l'objet d'une transmission pour approbation aux autorités de tutelle (article 176). L'obligation de communication aux autorités de tutelles pour validation et contrôle est donc garantie. De même, les rapports d'activité annuels de l'agence sont publiés en libre accès sur son site internet. Par ailleurs, les informations relatives aux éléments budgétaires et financiers de l'Anah sont très largement rendues publiques au travers des annexes au projet de loi de finances (projet annuel de performance du programme « Urbanisme, territoires et amélioration de l'habitat », jaune budgétaire « Effort financier de l'État en faveur de la rénovation énergétique des bâtiment ») et au projet de loi relatif aux résultats de la gestion et portant approbation des comptes (rapport annuel de performance du programme « Urbanisme, territoires et amélioration de l'habitat »). Enfin, les délibérations adoptées en conseil d'administration de l'Anah – dont celles relatives au budget et aux comptes de l'Agence – sont transmissibles à toute personne qui en fait la demande, au regard du cadre régissant l'accès aux documents administratifs. Pour toutes ces raisons, il n'est pas envisagé actuellement de modification législative et réglementaire quant au cadre régissant le fonctionnement de l'Anah.
