@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250605258
+
+- Question : [SEQ250605258](seq250605258.md) — Possibilité pour une commune de se porter caution pour l'un de ses agents
+
+## Réponse
+
+*Ville et Logement, JO du 2026-01-08, page 79*
+
+Des règles spécifiques en matière d'aides s'appliquent aux collectivités territoriales. A ce titre, il est de jurisprudence constante qu'une aide non prévue par la loi est illégale. Les dispositions des articles L 312-3 et R 312-8 à 10 du code de la construction et de l'habitation et L.3231-4 et L 3231-5 du code général des collectivités territoriales, s'agissant des seules communes, prévoient la possibilité pour les collectivités territoriales d'apporter leur aide à une personne privée mais uniquement pour garantir ou cautionner un emprunt. Il apparaît ainsi que la possibilité pour une commune ou toute autre collectivité territoriale, de se porter caution pour le paiement de loyers, qu'il s'agisse de ses agents ou de toute autre personne, n'entre pas dans le cadre légal du code de la construction et de l'habitation ni de celui du code général des collectivités territoriales. Toutefois, en vertu de l'article 6 de la loi n° 90-449 du 31 mai 1990 visant la mise en oeuvre du droit au logement, le Fonds de solidarité pour le logement, créé dans chaque département et dont la gestion lui est confiée, peut accorder dans les conditions définies par son règlement intérieur, des aides financières sous forme de cautionnement, prêts ou avances remboursables, garanties ou subventions à des personnes qui éprouvent des difficultés particulières, en raison notamment de l'inadaptation de leurs ressources ou de leurs conditions d'existence, pour accéder à un logement. Enfin, pour se prémunir d'éventuels impayés, les propriétaires bailleurs ont la possibilité de souscrire la garantie des loyers impayés (GLI) qui est un produit assurantiel.
