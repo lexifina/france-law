@@ -8,7 +8,7 @@ NOMBRE
 
 de jours ouvrés/ an |
 
-CUMUL AUTORISÉ
+CUMUL AUTORISE
 
 en cours de séjour (jours ouvrés) |
 
