@@ -436,7 +436,7 @@ Objectif
 
 Cette sous-épreuve vise à évaluer les compétences du candidat dans le domaine de la conduite de chariots automoteurs de manutention à conducteur porté.
 
-Les candidats déclarés inaptes pour cette évaluation sont dispensés de l'unité U32. Ils sont tenus de subir la partie écrite de la sous-épreuve.
+Les candidats déclarés inaptes à la partie pratique de la sous-épreuve sont dispensés de celle-ci. Ils sont tenus de subir la partie écrite de la sous-épreuve.
 
 Le candidat titulaire des certificats d'aptitude à la conduite des engins en sécurité (Caces), catégories 1,3,5, ou du certificat d'aptitude professionnelle vendeur-magasinier en pièces de rechanges et équipements automobiles, ou du certificat d'aptitude professionnelle agent d'entreposage et de messagerie est dispensé, à sa demande, de l'évaluation de la conduite en sécurité de chariots automoteurs de manutention à conducteur porté.
 
