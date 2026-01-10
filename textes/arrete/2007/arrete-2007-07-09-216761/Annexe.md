@@ -40,7 +40,7 @@ Paris-Djeddah ;
 
 Paris-Médine ;
 
-Toulouse-Djeddah.
+Toulouse-Djeddah ;
 
 Algérie :
 
@@ -57,6 +57,8 @@ Lyon-Tlemcen ;
 Marseille-Alger ;
 
 Marseille-Annaba ;
+
+Marseille-Oran, à compter du 29 mars 2026 et jusqu'au 25 mars 2028 ;
 
 Marseille-Sétif ;
 
@@ -92,7 +94,7 @@ Strasbourg-Constantine ;
 
 Toulouse-Alger ;
 
-Toulouse-Oran.
+Toulouse-Oran ;
 
 Cap-Vert :
 
@@ -122,7 +124,7 @@ Paris-Saint-Vincent ;
 
 Toulouse-Boa Vista ;
 
-Toulouse-Sal.
+Toulouse-Sal ;
 
 Egypte :
 
@@ -144,19 +146,15 @@ Paris-Charm El-Cheikh ;
 
 Paris-Hurghada ;
 
-Paris-Le Caire, dans la limite de six (6) fréquences hebdomadaires ;
-
 Paris-Louqsor ;
 
 Toulouse-Hurghada.
 
-Emirats Arabes Unis, dans la limite de six (6) fréquences hebdomadaires réparties entre les trois aéroports français :
+Dans la limite de six (6) fréquences hebdomadaires sur l'ensemble des deux liaisons suivantes :
 
-Lyon-Dubaï ;
+Paris-Alexandrie ;
 
-Marseille-Dubaï ;
-
-Toulouse-Dubaï.
+Paris-Le Caire.
 
 Liban :
 
@@ -166,11 +164,11 @@ Marseille-Beyrouth, dans la limite de deux (2) fréquences hebdomadaires ;
 
 Dans la limite d'une fréquence hebdomadaire sur l'une des deux liaisons suivantes :
 
-Montpellier-Beyrouth,
+Montpellier-Beyrouth ;
 
 Nice-Beyrouth ;
 
-Paris-Beyrouth, dans la limite de sept (7) fréquences hebdomadaires.
+Paris-Beyrouth, dans la limite de sept (7) fréquences hebdomadaires ;
 
 Sénégal :
 
@@ -186,7 +184,7 @@ Nantes-Dakar ;
 
 Nice-Dakar ;
 
-Toulouse-Dakar.
+Toulouse-Dakar ;
 
 Tunisie :
 
@@ -240,7 +238,7 @@ Strasbourg-Tunis ;
 
 Toulouse-Djerba ;
 
-Toulouse-Tunis.
+Toulouse-Tunis ;
 
 Turquie :
 
