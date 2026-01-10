@@ -158,7 +158,7 @@ Histoire-géographie-enseignement moral et civique
 
 - Epreuve orale de 15 minutes (dont 5 minutes de préparation)
 
-Le candidat présente une liste de huit documents qu'il a choisis, soit un document correspondant à chacun des thèmes des programmes d'histoire, de géographie et d'enseignement moral et civique. Il tire au sort le thème sur lequel il va être interrogé. Il prépare sa présentation pendant 5 minutes.
+Le candidat présente une liste de six documents qu'il a choisis, soit un document correspondant à chacun des thèmes des programmes d'histoire, de géographie et d'enseignement moral et civique. Il tire au sort le thème sur lequel il va être interrogé. Il prépare sa présentation pendant 5 minutes.
 
 En histoire et en géographie, le candidat donne le sens global, dégage l'intérêt et les limites du document en mobilisant des repères, des notions clefs et des connaissances. Il montre qu'il maîtrise et utilise des repères chronologiques et spatiaux.
 
