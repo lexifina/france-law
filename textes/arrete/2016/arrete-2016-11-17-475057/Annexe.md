@@ -1,6 +1,6 @@
 # Article Annexe
 
-Programme définissant le socle commun minimal de connaissances exigées en mathématiques, en physique et en informatique pour les épreuves orales d'admission à l'Ecole polytechnique de candidats français poursuivant leurs études supérieures scientifiques dans des universités françaises ou étrangères (FUF)
+Programme définissant le socle commun minimal de connaissances exigées des candidats de la filière FUF lors des épreuves orales d'admission à l'Ecole polytechnique, en mathématiques, en physique, en informatique, et en sciences de la vie et sciences médicales
 
 MATHÉMATIQUES
 
@@ -109,3 +109,75 @@ L'atome d'hydrogène, les éléments et la classification périodique, la moléc
 INFORMATIQUE
 
 Le socle commun de connaissances attendues en informatique est celui du programme d'informatique commun aux filières MP, PC, PT, PSI tel qu'il figure sous le lien : https://prepas.org/index.php? document = 72 .
+
+SCIENCE DE LA VIE ET SCIENCES MEDICALES
+
+Biologie cellulaire-Biochimie
+
+-Structure de la cellule : noyau, compartiments intracellulaires, cytosquelette, membrane plasmique, jonctions intercellulaires
+
+-ADN : structure, organisation
+
+-ADN : transcription, contrôle de l'expression des gènes, réplication, réparation, recombinaison, mutations de l'ADN et conséquences phénotypiques
+
+-Les ARN
+
+-Protéines : synthèse, transport intracellulaire, tri, apprêtage, sécrétion
+
+-Les enzymes, des catalyseurs biologiques (formalisme enzymatique, enz. Michaelienne vs. allostériques)
+
+-Bioénergétique cellulaire (métabolismes glucidique et lipidique, mitochondries, respiration cellulaire vs. fermentations)
+
+-Signalisation cellulaire (diversité des récepteurs, nature des ligands, exemples de voies de signalisation : MAPK, Jak/ STAT, récepteurs nucléaires …)
+
+-Cycle cellulaire (la mitose et son contrôle)
+
+-La meïose et la production de gamètes
+
+-Cellules souches, processus de différenciation cellulaire, régénération tissulaire
+
+-Morts cellulaires
+
+Physiologie animale
+
+-Composition corporelle et ses déterminants
+
+-Compartiments de l'organisme (effet Gibbs-Donnan, loi de Starling …)
+
+-Potentiel de membrane (Nernst, potentiels electrochimiques, perméabilités, équation de GHK)
+
+-Transports transmembranaires (enthalpie, loi de Carnot, diffusion, transports actifs)
+
+-Physiologie de la synapse
+
+-Système nerveux autonome
+
+-Systèmes tampons et régulation du pH
+
+-Régulation du volume cellulaire
+
+-Couplage excitation-contraction
+
+-Bioénergétique intégrée
+
+-Thermorégulation
+
+-Hormones et régulation hormonale
+
+-Physiologie des systèmes (circulatoire, respiratoire, rénal, etc.)
+
+-Adaptation physiologique à l'altitude/ à l'effort
+
+-Immunités innée et acquise
+
+Microbiologie
+
+-Organisation des génomes bactériens (information chromosomique, extrachromosomique, échanges d'information …)
+
+-Antibiotiques
+
+-Notion de microbiote, écologie bactérienne
+
+-Virus (ex. VIH, COVID, grippe)-Cycles de réplication-stratégies antivirales
+
+-Notion de métagénom
