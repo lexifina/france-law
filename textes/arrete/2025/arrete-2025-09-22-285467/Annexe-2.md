@@ -2,7 +2,7 @@
 
 ANNEXE 2
 
-NATURE, PROGRAMME, DURÉES ET COEFFICIENTS DES ÉPREUVES ÉCRITES D'ADMISSION
+NATURE, PROGRAMME, DURÉES ET COEFFICIENTS DES ÉPREUVES D'ADMISSION
 
 1. Concours mentionné au I du A de l'article 7
 
@@ -16,7 +16,7 @@ A. - Epreuve d'anglais (préparation : 15 min, présentation : 15 min, coefficie
 
 Cette épreuve consiste en la lecture d'un texte médical et/ou militaire rédigé en anglais suivie d'une traduction, puis d'une conversation en anglais avec l'examinateur.
 
-B. - Pour le concours de recrutement d'élèves vétérinaires mentionné au III du B de l'article 8 uniquement, une épreuve écrite constituée d'une analyse d'un dossier scientifique : à partir d'une documentation, il est demandé aux candidats de rédiger une synthèse et de formuler brièvement leur opinion sur le sujet (durée 3 heures, coefficient : 6).
+B. - Pour le concours de recrutement d'élèves vétérinaires mentionné au au III du A de l'article 7 uniquement, une épreuve écrite constituée d'une analyse d'un dossier scientifique : à partir d'une documentation, il est demandé aux candidats de rédiger une synthèse et de formuler brièvement leur opinion sur le sujet (durée 3 heures, coefficient : 6).
 
 C. - Epreuve d'entretien avec le jury (pas de préparation, présentation : 30 min, coefficient 8) :
 
@@ -34,7 +34,7 @@ Les candidats ne peuvent utiliser aucune note ni aucun document personnel.
 
 3.1. Concours mentionné au I du B de l'article précité - Médecine
 
-A. - Epreuve de « diagnostic et thérapeutique » (préparation : 1 heure, présentation : 15 min, entretien : 15 min, coefficient : 4) :
+A. - Epreuve de " diagnostic et thérapeutique " (préparation : 1 heure, présentation : 15 min, entretien : 15 min, coefficient : 4) :
 
 L'épreuve porte sur un thème établi par le jury. Le candidat dispose d'une heure de préparation et restitue par oral sa réponse. Le jury lui pose ensuite des questions sous la forme d'un entretien en liaison avec le sujet traité.
 
@@ -46,7 +46,7 @@ Il porte, en outre, sur des questions ayant trait à la déontologie et à l'ét
 
 3.2. Concours mentionné II du B de l'article précité - Pharmacie
 
-A. - Epreuve de « sciences pharmaceutiques » (préparation : 30 min, présentation : 15 min, coefficient 4) :
+A. - Epreuve de " sciences pharmaceutiques " (préparation : 30 min, présentation : 15 min, coefficient 4) :
 
 Chaque candidat tire trois questions au sort et choisit de répondre à l'une d'entre elles. Il dispose de 30 min de préparation puis de 15 min pour restituer par oral sa réponse.
 
@@ -58,11 +58,11 @@ Il porte, en outre, sur des questions ayant trait à la déontologie et à l'ét
 
 3.3. Concours mentionné III du B de l'article précité - Médecine vétérinaire
 
-A. - Epreuve de « pathologie médico-chirurgicale canine et équine » (préparation : 30 min, présentation : 15 min, coefficient 3) :
+A. - Epreuve de " pathologie médico-chirurgicale canine et équine " (préparation : 30 min, présentation : 15 min, coefficient 3) :
 
 L'épreuve porte sur plusieurs questions établies par le jury. Chaque candidat dispose de 30 min de préparation puis de 15 min pour restituer par oral ses réponses.
 
-B. - Epreuve de « santé publique vétérinaire » (préparation : 30 min, présentation : 15 min, coefficient 3) :
+B. - Epreuve de " santé publique vétérinaire " (préparation : 30 min, présentation : 15 min, coefficient 3) :
 
 L'épreuve porte sur plusieurs questions établies par le jury. Chaque candidat dispose de 30 min de préparation puis de 15 min pour restituer par oral ses réponses.
 
@@ -78,7 +78,7 @@ A. - Epreuve d'odontologie (préparation : 30 min, présentation : 10 min, coeff
 
 L'épreuve porte sur un thème établi par le jury. Chaque candidat dispose de 30 min de préparation puis de 10 min pour restituer par oral sa réponse.
 
-B. - Epreuve « de pathologie bucco-dentaire » (préparation : 30 min, présentation : 10 min, coefficient 3).
+B. - Epreuve " de pathologie bucco-dentaire " (préparation : 30 min, présentation : 10 min, coefficient 3).
 
 L'épreuve porte sur un thème établi par le jury. Chaque candidat dispose de 30 min de préparation puis de 10 min pour restituer par oral sa réponse.
 
