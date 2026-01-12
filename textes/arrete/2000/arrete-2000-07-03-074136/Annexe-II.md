@@ -98,7 +98,9 @@ SA SNPLF/ SA Borden France/ Lambiotte SA/ Enseigne Mydrin Lambiotte/ Bostik SA/ 
 
 SA ZF Masson, 5, rue Henri-Cavallier, 89107 Saint-Denis-les-Sens : de 1948 à 1993 ;
 
-SOFRAF, 25, porte d'Autun, Saint-Forgeot, 71400 Autun : de 1960 à 1995.
+SOFRAF, 25, porte d'Autun, Saint-Forgeot, 71400 Autun : de 1960 à 1995 ;
+
+TREMCO puis PROSYTEC puis TREMCO ILLBRUCK PRODUCTION, cours de Gray, 21850 Saint-Apollinaire ; de 1980 à 1994.
 
 Bretagne
 
@@ -578,7 +580,11 @@ FONDERIES ET ACIERIES DE PARIS SEINE/ FAPS CATERPILLAR/ CATERPILLAR FONDERIE DE 
 
 Occitanie
 
-La Cellulose d'Aquitaine (CDA) SIRET N° 54578061100012, puis Société d'Exploitation de la cellulose d'Aquitaine (SECA) SIRET N° 32085272600027, puis La Cellulose du Rhône et d'Aquitaine (CDRA) SIRET N° 54207272300019 et SIRET N° 54207272300035, puis PyrénéCell (Saint-Gaudens) SIRET N° 39931827800021, puis TEMBEC Saint-Gaudens SA SIRET N° 39931827800021, puis FIBRE EXCELLENCE SIRET N° 39931827800021. Usine de Saint-Gaudens, Rue du Président-Saragat, 31800 SAINT-GAUDENS : De 1958 à 1998
+La Cellulose d'Aquitaine (CDA) SIRET N° 54578061100012, puis Société d'Exploitation de la cellulose d'Aquitaine (SECA) SIRET N° 32085272600027, puis La Cellulose du Rhône et d'Aquitaine (CDRA) SIRET N° 54207272300019 et SIRET N° 54207272300035, puis PyrénéCell (Saint-Gaudens) SIRET N° 39931827800021, puis TEMBEC Saint-Gaudens SA SIRET N° 39931827800021, puis FIBRE EXCELLENCE SIRET N° 39931827800021. Usine de Saint-Gaudens,
+
+Rue du Président-Saragat, 31800 Saint-Gaudens
+
+De 1958 à 2021
 
 Pays de la Loire
 
@@ -600,15 +606,17 @@ Le Joint MARA SA, 86, rue Gutenberg, 44600 Saint-Nazaire : de 1956 à 1998 ;
 
 Moulinex : rue Saint-Léonard, 53100 Mayenne : de 1974 à 1994 ;
 
-Moulinex, rue des Acacias, 53700 Villaines-la-Juhel, de 1975 à 1990, rue Abbé-Lelièvre, 72130 Fresnay-sur-Sarthe, de 1973 à 1992, rue Charles-Granger 72600 Mamers, de 1966 à 1994.
+Moulinex, rue des Acacias, 53700 Villaines-la-Juhel, de 1975 à 1990, rue Abbé-Lelièvre, 72130 Fresnay-sur-Sarthe, de 1973 à 1992, rue Charles-Granger 72600 Mamers, de 1966 à 1994 ;
 
 Motorola Automobile, Valéo-Motorola alternateurs, Valéo alternateurs Angers, Valéo équipements électriques moteurs, 6, rue François-Cévert, BP 1014,49015 Angers Cedex : de 1973 à 1996 ;
 
-SCREG : 44800 Saint-Herblain : depuis sa création jusqu'en 1990.
+PONTICELLI FRERES, ZA des Acacias, rue des Saules, 44260 Savenay ; de 1980 à 1996 ;
 
-Sicof, 85260 La Copechagnière, de 1953 à 1976.
+SCREG : 44800 Saint-Herblain : depuis sa création jusqu'en 1990 ;
 
-SIDES (Société industrielle pour le développement de la sécurité) 182, rue de Trignac 44600 Saint-Nazaire Période d'inscription : de 1986 à 1999.
+Sicof, 85260 La Copechagnière, de 1953 à 1976 ;
+
+SIDES (Société industrielle pour le développement de la sécurité) 182, rue de Trignac 44600 Saint-Nazaire Période d'inscription : de 1986 à 1999 ;
 
 SNIFI/ EFI, agence Savenay, 44260 Donges, de 1974 à 1982, puis agence ZI Bonne-Nouvelle, BP 47,44480 Donges, de 1982 à 1994 ;
 
