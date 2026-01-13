@@ -1,0 +1,9 @@
+# Réponse à la question n° 7645
+
+- Question : [7645](7645.md) — Question n° 7645 — Réforme statutaire des médecins et pharmaciens inspecteurs de santé publique
+
+## Réponse
+
+*JO du 2026-01-13, page 168*
+
+Les textes portant sur la linéarisation des échelons sommitaux des 3ème grades des corps de médecin inspecteur de santé publique et de pharmacien inspecteur de santé publique ont été publiés au Journal officiel du 26 juillet 2025. - Décret n° 2025-697 du 25 juillet 2025 modifiant l'avancement au sein des corps des médecins inspecteurs de santé publique et des pharmaciens inspecteurs de santé publique ; - Décret n° 2025-698 du 25 juillet 2025 modifiant l'échelonnement indiciaire afférent aux corps des médecins inspecteurs de santé publique et des pharmaciens inspecteurs de santé publique ; - Arrêté du 25 juillet 2025 abrogeant l'arrêté du 8 avril 2020 fixant le pourcentage mentionné à l'article 15 du décret n° 92-1432 du 30 décembre 1992 relatif au statut particulier des pharmaciens inspecteurs de santé publique et l'arrêté du 29 avril 2020 fixant le pourcentage mentionné à l'article 13 du décret n° 91-1025 du 7 octobre 1991 relatif au statut particulier des médecins inspecteurs de santé publique ; Cette réforme conduira à un reclassement des fonctionnaires intéressés selon les modalités suivantes : - les médecins généraux et pharmaciens généraux déjà classés à l'échelon spécial au 1er août 2025 seront reclassés au 4e échelon en conservant leur ancienneté ; - les médecins généraux et pharmaciens généraux actuellement au 3ème échelon au 1er août 2025 seront, selon leur ancienneté acquise à cette date, reclassés : - lorsque leur ancienneté acquise est égale ou supérieure à 3 ans, au 4ème échelon sans conservation d'ancienneté ; - lorsque leur ancienneté acquise est inférieure à 3 ans, au 3ème échelon avec conservation de leur ancienneté acquise.
