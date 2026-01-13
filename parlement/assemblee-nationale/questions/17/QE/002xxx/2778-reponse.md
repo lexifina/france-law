@@ -1,0 +1,9 @@
+# Réponse à la question n° 2778
+
+- Question : [2778](2778.md) — Question n° 2778 — Distance entre les éoliennes et les habitations
+
+## Réponse
+
+*JO du 2026-01-13, page 177*
+
+Depuis 2011, les éoliennes terrestres sont soumises à la législation des installations classées pour la protection de l'environnement (ICPE), et l'implantation d'éoliennes de grande hauteur est soumise à une distance d'éloignement minimale de 500 mètres des habitations. Cette distance réglementaire minimale est cependant appréciée au cas par cas, en fonction des conclusions de l'étude d'impact préalable. Cette étude doit prendre en compte l'ensemble des caractéristiques et des impacts sur les personnes et sur l'environnement, propres à chaque projet, en tenant compte du cumul des impacts avec les autres projets existants ou autorisés aux environs du projet. Le préfet peut ainsi imposer une distance d'éloignement supérieure, sur la base d'éléments objectifs figurant dans ladite étude. Augmenter la distance plancher définie par la loi n'apparaît pas justifié au regard des retours d'expérience, y compris pour ce qui concerne les machines plus grandes récemment mises en place. Par ailleurs, les collectivités peuvent encadrer l'implantation des parcs éoliens dans leurs documents d'urbanisme. Ainsi, les orientations d'aménagement et de programmation du plan local d'urbanisme communal (PLU) ou intercommunal (PLUi) peuvent définir des zones d'implantations privilégiées ainsi que des orientations relatives à l'insertion des parcs éoliens, tout en identifiant les structures paysagères les plus sensibles. De même, le règlement du PLU (i), fixé en cohérence avec les orientations précitées, permet de déterminer finement l'insertion des projets, tant s'agissant de leur localisation que de leur impact sur le paysage.
