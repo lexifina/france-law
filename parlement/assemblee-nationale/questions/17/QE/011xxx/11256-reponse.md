@@ -1,0 +1,9 @@
+# Réponse à la question n° 11256
+
+- Question : [11256](11256.md) — Question n° 11256 — Attribution du titre de reconnaissance de la Nation pour les missions en Estonie
+
+## Réponse
+
+*JO du 2026-01-13, page 152*
+
+Le titre de reconnaissance de la Nation (TRN), créé par la loi n° 67-1114 du 21 décembre 1967 portant loi de finances pour 1968, avait comme objectif premier de récompenser les militaires ayant pris part aux opérations en Afrique du Nord. La délivrance du TRN a par la suite été étendue aux conflits et opérations menés par l'armée française depuis le début de la Première Guerre mondiale. L'attribution de la carte du combattant permet de pouvoir prétendre au TRN. Or, à ce jour, les missions en Estonie et en Roumanie ne permettent pas de répondre aux critères juridiquement prévus pour son octroi. En effet, par application de l'article L. 331-1 du code des pensions militaires d'invalidité et victimes de guerre (CPMIVG), le TRN est attribué au titre de conflits, opérations ou missions mentionnés au titre Ier du livre III consacré à la carte du combattant. Les articles L.311-1 à L. 311-6 de ce même code spécifient les conditions pour prétendre à la qualité de combattant, notamment son article L. 311-2. Seuls les conflits, opérations et missions contemporains, tels que reconnus par l'article L. 4123-4 du code de la défense qui prévoit que l'ouverture des droits liés à ces conflits s'effectue par arrêté ministériel, permettent la reconnaissance de la qualité de combattant et, ainsi, l'attribution du TRN. L'attribution de ce titre repose donc sur des conditions opérationnelles définies, touchant notamment à la nature de la mission et au niveau d'intensité et de dangerosité qui y est attaché. Il dépend également de considérations politiques et diplomatiques. L'élargissement du droit à la carte du combattant, et donc au TRN, pour les missions conduites en Estonie et en Roumanie n'est à ce jour pas envisagé.
