@@ -1,0 +1,9 @@
+# Réponse à la question n° 11118
+
+- Question : [11118](11118.md) — Question n° 11118 — Validation de l'intervention du général Mandon par l'Élysée
+
+## Réponse
+
+*JO du 2026-01-13, page 151*
+
+Les propos tenus par le chef d'état-major des armées (CEMA) lors de son intervention au congrès des maires de France, le 19 novembre 2025, ont pu heurter la perception que certains citoyens et élus se font de l'état du monde et des menaces qui pèsent sur la France. Ces menaces évoluent mais ne sont pas nouvelles. Elles ont été clairement identifiées dans la Revue nationale stratégique de 2025 et rappelées par le Président de la République dans son adresse aux armées, à l'Hôtel de Brienne, le 13 juillet dernier. Dans ce contexte, il est légitime que le CEMA expose de manière lucide les risques auxquels la France doit se préparer. Le faire devant les élus locaux, lors du congrès des maires, prend tout son sens, ces derniers étant les premiers relais du lien Armées-Nation et les acteurs clés du réarmement moral de notre pays. La ministre des armées et des anciens combattants a également rappelé à plusieurs reprises l'ambition portée par le ministère d'anticiper les menaces, en conduisant un réarmement progressif des armées. Ce réarmement est à la fois militaire, avec une hausse inédite du budget des armées en 2026 et pour les années à venir, mais aussi civique, à travers un renforcement de nos forces morales. Cet objectif nécessite notamment une meilleure compréhension, par tous les Français, des risques réels auxquels nous faisons face. Notre pays, profondément attaché à la promotion de la paix, ne peut rester indiférent face à la menace d'un affrontement de haute intensité sur notre continent. C'est pourquoi la France est résolument engagée aux côtés de l'Ukraine, afin qu'une paix juste et durable soit établie, pour l'Ukraine mais aussi pour l'Europe entière.
