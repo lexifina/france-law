@@ -382,31 +382,19 @@ Queues de LANGOUSTINES |
 
 4,6 cm |
 
-TOURTEAU au nord du 48e parallèle Nord |
+TOURTEAU
+
+|
 
 Cancer pagurus |
 
 15 cm |
-
-TOURTEAU au sud du 48e parallèle Nord |
-
-Cancer pagurus |
-
-13 cm |
-
-TOURTEAU dans le secteur des accords de la Baie de Granville (**) |
-
-Cancer pagurus |
-
-15 cm (LC) (*) |
 
 (*) LJFL = longueur maxillaire inférieur-fourche.
 
 (*) LT = longueur totale.
 
 (*) LC = longueur céphalothoracique.
-
-(**) = Le secteur des accords de la Baie de Granville est défini dans le décret n° 2004-75 du 15 janvier 2004 portant publication de l'accord relatif à la pêche dans la baie de Granville entre la République française et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord à l'article 1 de l'annexe. (ensemble quatre échanges de notes), signé à Saint-Hélier le 4 juillet 2000 (1).
 
 |
 
