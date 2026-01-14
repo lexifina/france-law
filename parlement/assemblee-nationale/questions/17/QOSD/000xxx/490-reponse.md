@@ -1,0 +1,29 @@
+# Réponse à la question n° 490
+
+- Question : [490](490.md) — Question n° 490 — Persécution croissante des communautés chrétiennes dans le monde
+
+## Réponse
+
+*JO du 2026-01-14, page 232*
+
+PERSÉCUTION DES CHRÉTIENS DANS LE MONDE
+
+Mme la présidente. La parole est à Mme Constance Le Grip, pour exposer sa question, no 490, relative à la persécution des chrétiens dans le monde.
+
+Mme Constance Le Grip. Selon l'index que s'apprête à publier pour 2025 l'ONG Portes ouvertes, plus de 380 millions de chrétiens sont encore et toujours exposés à des persécutions qui vont de discriminations, par exemple, à des mises à mort – il est maintenant avéré que la violence constitue la principale composante de ces persécutions.
+
+Elle est particulièrement marquée en Afrique subsaharienne, où se trouvent sept des dix pays les plus meurtriers pour les chrétiens. Au Nigeria, comme le confirmera dans quelques jours la sortie de ce nouvel index, la situation est extrêmement alarmante : tout récemment encore, entre le 28 décembre et le 3 janvier, plusieurs localités y ont été la cible d'attaques répétées de milices armées extrémistes, proches de l'État islamique et de Boko Haram, qui ont causé la mort d'au moins quarante-neuf personnes. Dans cette région déjà très éprouvée, des enlèvements massifs de collégiens, de lycéens endeuillent régulièrement les villages ; bien que des enfants soient de temps en temps libérés, ces faits révèlent la permanence de l'insécurité, de la persécution. Au Soudan, la guerre civile, ravivant l'influence mortifère de groupes islamistes armés, a également conduit à des attaques ciblées de plus en plus violentes : plus de 100 églises ont été endommagées depuis 2023, des quartiers chrétiens entièrement détruits. Le 5 novembre, le ministre des affaires étrangères a déclaré devant la représentation nationale que « ce qui se passe au Soudan nous rappelle les pires heures de la guerre du Darfour ». N'oublions pas la Syrie, où la situation reste très tendue pour les chrétiens et d'autres minorités.
+
+À ces violences s'ajoute un phénomène plus insidieux : la progressive clandestinisation forcée des Églises chrétiennes en Algérie, en Libye, en Afghanistan, en République populaire de Chine, où les lieux de culte sont fermés, la surveillance accrue, où les mesures d'entrave et de répression administrative à l'encontre des chrétiens se multiplient.
+
+Dans ce contexte de plus en plus angoissant, je souhaiterais savoir, qu'il s'agisse de ses relations bilatérales avec un certain nombre d'États, du niveau européen, du niveau multilatéral, quelles initiatives diplomatiques concrètes la France peut promouvoir afin de défendre, conformément à sa mission historique, la liberté de conscience et de culte, de prévenir autant que faire se peut ces persécutions, d'assurer une protection effective des communautés chrétiennes menacées dans le monde.
+
+Mme la présidente. La parole est à Mme la ministre déléguée auprès du ministre de l'intérieur.
+
+Mme Marie-Pierre Vedrenne, ministre déléguée auprès du ministre de l'intérieur. Vous l'avez rappelé, la France est profondément attachée à la défense de la liberté de religion ou de conviction, droit fondamental garanti par les instruments internationaux de protection des droits de l'homme. Dans cet esprit, elle soutient le travail du rapporteur spécial des Nations unies sur la liberté de religion ou de conviction et veille, en lien avec ses partenaires européens ou affinitaires, à ce que ce sujet soit abordé lors des dialogues bilatéraux relatifs aux droits de l'homme ou des examens périodiques universels au Conseil des droits de l'homme des Nations unies. Elle suit avec la plus grande attention la dégradation de la situation sécuritaire dans plusieurs pays d'Afrique, où les violences perpétrées par des groupes terroristes ou milices armées affectent gravement les populations civiles, en particulier certaines communautés religieuses, dont les chrétiens ; elle condamne avec la plus grande fermeté ces exactions, de même que les attaques contre des lieux de culte, les enlèvements, les déplacements forcés de populations, et rappelle l'obligation pour toutes les parties de respecter le droit international humanitaire.
+
+Au Soudan, au Nigeria et ailleurs, la France appelle les autorités concernées à renforcer la lutte contre l'extrémisme violent, à prévenir les violences intercommunautaires, à promouvoir le dialogue et la cohésion sociale. Sur le plan bilatéral, elle sensibilise ses partenaires africains à la protection effective de la liberté de culte et au respect des droits des minorités religieuses. Elle soutient également des initiatives locales et internationales visant à favoriser le dialogue interreligieux, à lutter contre les discours de haine. Engagée en faveur de la liberté de religion ou de conviction au Proche et Moyen-Orient, ayant avec les chrétiens orientaux des liens séculaires, elle a notamment créé en 2020, à la demande du président de la République, le fonds pour les écoles d'Orient, co-abondé et cogéré avec l'ONG bien connue de L'Œuvre d'Orient. Elle poursuivra son engagement, avec ses partenaires, pour défendre la liberté de conscience et de culte, pour protéger toutes les populations menacées, en Afrique comme dans le reste du monde, en raison de leur religion ou de leurs convictions. Je vous remercie, madame la députée, de votre engagement.
+
+Mme la présidente. La parole est à Mme Constance Le Grip.
+
+Mme Constance Le Grip. Je remercie la ministre de sa réponse, faite au nom du ministère de l'Europe et des affaires étrangères. Encouragée par tant de clarté, de précision, je ne peux qu'inciter la France à rester, dans le tumulte et le fracas du monde, et bien qu'aient émergé d'autres sujets de préoccupation, le fer de lance du combat essentiel en faveur de la liberté religieuse.
