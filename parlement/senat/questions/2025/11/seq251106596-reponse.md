@@ -1,0 +1,9 @@
+# Réponse à la question SEQ251106596
+
+- Question : [SEQ251106596](seq251106596.md) — Obligation faite au maire de rendre compte au conseil municipal des décisions prises dans le cadre de la délégation
+
+## Réponse
+
+*Aménagement du territoire et décentralisation , JO du 2026-01-15, page 166*
+
+L'article L. 2122-23 du code général des collectivités territoriales (CGCT) dispose que "les décisions prises par le maire en vertu de l'article L. 2122-22 sont soumises aux mêmes règles que celles qui sont applicables aux délibérations des conseils municipaux portant sur les mêmes objets. Sauf disposition contraire dans la délibération portant délégation, les décisions prises en application de celle-ci peuvent être signées par un adjoint ou un conseiller municipal agissant par délégation du maire dans les conditions fixées à l'article L. 2122-18. Sauf disposition contraire dans la délibération, les décisions relatives aux matières ayant fait l'objet de la délégation sont prises, en cas d'empêchement du maire, par le conseil municipal. Le maire doit rendre compte à chacune des réunions obligatoires du conseil municipal. Le conseil municipal peut toujours mettre fin à la délégation". Sous réserve de l'appréciation souveraine du juge administratif, l'obligation pour le maire de rendre compte, à chacune des réunions obligatoires du conseil municipal, des décisions relatives aux matières ayant fait l'objet d'une délégation n'a aucune incidence sur la validité de ces décisions. Selon la matière concernée et déléguée par le conseil municipal au maire, il se peut qu'une délibération du conseil soit nécessaire pour en approuver le principe et le financement. Mais il ne saurait en revanche être déduit un principe général impliquant ou, à l'inverse, excluant l'intervention du conseil municipal.
