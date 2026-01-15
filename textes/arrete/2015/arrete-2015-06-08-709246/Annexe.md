@@ -4,15 +4,15 @@ ENCADREMENT DES REJETS AUTORISÉS EN 2025 AU TITRE DES EXEMPTIONS DE MINIMIS
 
 Conformément aux dispositions figurant à l'article 4 du présent arrêté, les limitations ci-après s'appliquent :
 
-I. - Rejets de chinchard
+I.-Rejets de chinchard
 
 Afin de limiter la consommation des exemptions de minimis accordées pour le chinchard par :
 
-- l'article 13.9 du règlement délégué (UE) 2023/2623, dans les pêcheries mixtes démersales, par des navires utilisant des chaluts de fond, des sennes et des chaluts à perche (OTB, OTT, OT, PTB, PT, SSC, SDN, SPR, SX, SV, TBB, TBN, TBS, TB, TX) dans la sous-zone CIEM VI et dans les divisions CIEM VII b à VII k ;
+-l'article 13.9 du règlement délégué (UE) 2023/2623, dans les pêcheries mixtes démersales, par des navires utilisant des chaluts de fond, des sennes et des chaluts à perche (OTB, OTT, OT, PTB, PT, SSC, SDN, SPR, SX, SV, TBB, TBN, TBS, TB, TX) dans la sous-zone CIEM VI et dans les divisions CIEM VII b à VII k ;
 
-- l'article 11.1.n du règlement délégué (UE) 2023/2459, dans la pêcherie démersale mixte, par des navires utilisant des chaluts de fond (OTB, OTT, PTB) d'un maillage de 80 à 99 mm (TR2), dans les divisions CIEM 4 b et 4 c ;
+-l'article 11.1. n du règlement délégué (UE) 2023/2459, dans la pêcherie démersale mixte, par des navires utilisant des chaluts de fond (OTB, OTT, PTB) d'un maillage de 80 à 99 mm (TR2), dans les divisions CIEM 4 b et 4 c ;
 
-- les rejets de chinchard réalisés dans le cadre des exemptions de minimis susvisées sont limités à 100 kg par marée par navire jusqu'au 31 décembre 2025.
+-les rejets de chinchard réalisés dans le cadre des exemptions de minimis susvisées sont limités à 100 kg par marée par navire jusqu'au 31 décembre 2026.
 
 II.-Rejets de maquereau
 
