@@ -100,7 +100,7 @@ Article 9
 
 Montants des loyers maximums et modalités de révision.
 
-Lorsque la superficie est exprimée en surface corrigée ou lorsque l'opération a bénéficié d'un des prêts locatifs aidés ou n'a pas bénéficié d'un de ces prêts, le montant du loyer maximum mentionné à l'article D. 353-16 du code de la construction et de l'habitation est fixé à … € le mètre carré par … (mois ou année selon que la superficie est exprimée en surface utile ou en surface corrigée).
+Lorsque l'opération a bénéficié d'un des prêts locatifs aidés ou n'a pas bénéficié d'un de ces prêts, le montant du loyer maximum mentionné à l'article D. 353-16 du code de la construction et de l'habitation est fixé à … € le mètre carré par … mois.
 
 Lorsque l'opération a bénéficié de plus d'un prêt locatif aidé (PLAi, PLUS, PLS), le loyer maximum déterminé pour chacun des prêts obtenus est renseigné dans le tableau ci-dessous :
 
@@ -194,7 +194,7 @@ Etablissement d'un bail conforme à la convention.
 
 Le bail doit être conforme à la présente convention. Une copie de la convention est tenue en permanence à la disposition des locataires et de leurs associations qui peuvent en prendre connaissance chez le gardien ou, en l'absence d'un gardien, au siège du bailleur. Cette information est mentionnée à chaque locataire ou affichée de façon très apparente dans les parties communes de l'immeuble.
 
-Le bailleur est tenu de remettre à chaque locataire un décompte de surface corrigée ou de surface utile établi d'après le modèle type annexé à l'article D. 353-19 du code de la construction et de l'habitation. Dans l'hypothèse où cette surface serait modifiée, le bailleur est tenu de communiquer au locataire un nouveau décompte dans les deux mois précédant son application.
+Le bailleur est tenu de remettre à chaque locataire un décompte de surface utile établi d'après le modèle type annexé à l'article D. 353-19 du code de la construction et de l'habitation. Dans l'hypothèse où cette surface serait modifiée, le bailleur est tenu de communiquer au locataire un nouveau décompte dans les deux mois précédant son application.
 
 Article 12
 

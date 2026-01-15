@@ -134,7 +134,7 @@ Article 8
 
 Montants des loyers maximums et modalités de révision.
 
-Lorsque la superficie est exprimée en surface corrigée ou lorsque l'opération a bénéficié d'un des prêts locatifs aidés ou n'a pas bénéficié d'un de ces prêts, le montant du loyer maximum mentionné à l'article D. 353-16 du code de la construction et de l'habitation est fixé à … € le mètre carré par... (mois ou année selon que la superficie est exprimée en surface utile ou en surface corrigée).
+Lorsque l'opération a bénéficié d'un des prêts locatifs aidés ou n'a pas bénéficié d'un de ces prêts, le montant du loyer maximum mentionné à l'article D. 353-16 du code de la construction et de l'habitation est fixé à … € le mètre carré par... mois.
 
 Lorsque l'opération a bénéficié de plus d'un prêt locatif aidé (PLAi, PLUS, PLS), le loyer maximum déterminé pour chacun des prêts obtenus est renseigné dans le tableau ci-dessous :
 
@@ -453,122 +453,6 @@ Article 27
 Révision de la convention.
 
 La présente convention pourra être révisée à la demande de l'une ou l'autre des parties par voie d'avenant.
-
-Fait en trois originaux à …, le …
-
-Le bailleur (8),
-
-Le préfet, le président de l'établissement public de coopération intercommunale, du conseil départemental, de la métropole de Lyon ou du conseil exécutif de Corse,
-
-Document prévu par l'article 1er de l'annexe II à l'article D. 353-90 du code de la construction et de l'habitation lorsque le loyer maximum des logements est exprimé en surface corrigée.
-
-Descriptif du programme de … (2)
-
-I-Désignation du ou des immeubles (9) :
-
-II-Nature de l'opération et financement.
-
-III-Composition du programme :
-
-Les éléments ci-après sont décrits par immeuble ou ensemble immobilier :
-
-A-Locaux auxquels s'applique la présente convention :
-
-1) Nombre des logements locatifs par type de logements :
-
-1.1) Nombre de logements à attribuer à des personnes dont les ressources n'excèdent pas 60 % des plafonds de ressources fixés en application de l'article D. 331-12 précité pour l'attribution des logements sociaux (article 7,3° a de la présente convention).
-
--nombre de logements prévus au premier alinéa du a du 3° de l'article 7 de la présente convention.
-
--nombre de logements prévus au deuxième alinéa du a du 3° de l'article 7 de la présente convention.
-
-1.2) Nombre de logements qu'il est possible d'attribuer à des personnes dont les ressources excèdent les plafonds de ressources fixés en application de l'article D. 331-12 précité pour l'attribution des logements sociaux, dans la limite de 120 % de ces plafonds (article 7,3° b de la présente convention).
-
-2) Surface habitable après travaux :
-
-3) Surface corrigée des logements :
-
-4) Dépendances (nombre et surface) :
-
-5) Locaux collectifs résidentiels (nombre et surface) :
-
-6) Garages et parkings affectés à ces logements (nombre et différenciation par type) :
-
-B-Locaux auxquels ne s'applique pas la présente convention :
-
--Locaux commerciaux (nombre) :
-
--Bureaux (nombre) :
-
--Autres : …
-
-IV-Origine des propriétés :
-
-V-Renseignements administratifs :
-
-1° Logements financés dans les conditions prévues à l'article 1,1° de la présente convention :
-
-1-Date d'achèvement des travaux ou certificat de conformité
-
-2-Modalités de financement :
-
-* Financement principal :
-
--date d'octroi du prêt :
-
--numéro du prêt :
-
--durée :
-
--montant :
-
-* Financement complémentaire :
-
-* Subventions éventuelles :
-
-2°-Logements financés dans les conditions prévues à l'article 1,2°, 3° ou 5° de la présente convention :
-
-1-Date d'acquisition :
-
-2-Date prévisible d'achèvement des travaux :
-
-3-Modalités de financement :
-
-* Financement principal :
-
--date d'octroi du prêt :
-
--numéro du prêt :
-
--durée :
-
--montant :
-
-* Financement complémentaire :
-
-* Subventions éventuelles :
-
-3°-Logements financés dans les conditions prévues à l'article 1,4° de la présente convention :
-
-1-Date à laquelle le bailleur s'engage à effectuer les travaux :
-
-2-Date prévisible d'achèvement des travaux :
-
-3-Modalités de financement :
-
-* Financement principal :
-
--date d'octroi du prêt :
-
--numéro du prêt :
-
--durée :
-
--montant :
-
-* Financement complémentaire :
-
-* Date d'octroi de la subvention :
 
 Fait en trois originaux à …, le …
 

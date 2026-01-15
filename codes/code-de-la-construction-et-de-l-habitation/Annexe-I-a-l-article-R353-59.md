@@ -92,7 +92,7 @@ Article 8
 
 Montants des loyers maximums et modalités de révision.
 
-Lorsque la superficie est exprimée en surface corrigée ou lorsque l'opération a bénéficié d'un des prêts locatifs aidés ou n'a pas bénéficié d'un de ces prêts, le montant du loyer maximum mentionné à l'article D. 353-70 du code de la construction et de l'habitation est fixé à … € le mètre carré par … (mois ou année selon que la superficie est exprimée en surface utile ou en surface corrigée).
+Lorsque l'opération a bénéficié d'un des prêts locatifs aidés ou n'a pas bénéficié d'un de ces prêts, le montant du loyer maximum mentionné à l'article D. 353-70 du code de la construction et de l'habitation est fixé à … € le mètre carré par … mois.
 
 Lorsque l'opération a bénéficié de plus d'un prêt locatif aidé (PLAi, PLUS, PLS), le loyer maximum déterminé pour chacun des prêts obtenus est renseigné dans le tableau ci-dessous :
 
@@ -186,7 +186,7 @@ Etablissement d'un bail conforme à la convention.
 
 Le bail doit être conforme à la présente convention. Une copie de la convention est tenue en permanence à la disposition des locataires et de leurs associations qui peuvent en prendre connaissance chez le gardien ou, en l'absence d'un gardien, au siège du bailleur. Cette information est mentionnée à chaque locataire ou affichée de façon très apparente dans les parties communes de l'immeuble.
 
-Le bailleur est tenu de remettre à chaque locataire un décompte de surface corrigée ou de surface utile établi d'après le modèle type annexé à l'article D. 353-19 du code de la construction et de l'habitation. Dans l'hypothèse où cette surface serait modifiée, le bailleur est tenu de communiquer au locataire un nouveau décompte dans les deux mois précédant son application.
+Le bailleur est tenu de remettre à chaque locataire un décompte de surface utile établi d'après le modèle type annexé à l'article D. 353-19 du code de la construction et de l'habitation. Dans l'hypothèse où cette surface serait modifiée, le bailleur est tenu de communiquer au locataire un nouveau décompte dans les deux mois précédant son application.
 
 Article 11
 
@@ -357,80 +357,6 @@ Publication.
 La publication de la convention, de ses éventuels avenants et de sa résiliation au fichier immobilier ou leur inscription au livre foncier incombe au préfet, ou, lorsqu'un établissement public de coopération intercommunale, un département, la métropole de Lyon ou la collectivité de Corse a signé une convention mentionnée aux articles L. 301-5-1, L. 301-5-2, L. 3641-5, L. 5219-1, L. 5218-2 et L. 5217-2 précités, au président de l'établissement public de coopération intercommunale, du conseil départemental, de la métropole de Lyon ou du conseil exécutif de Corse. Les frais de publication sont à la charge du bailleur.
 
 Le préfet, ou, lorsqu'un établissement public de coopération intercommunale, un département, la métropole de Lyon ou la collectivité de Corse a signé une convention mentionnée aux articles L. 301-5-1, L. 301-5-2, L. 3641-5, L. 5219-1, L. 5218-2 et L. 5217-2 précités, le président de l'établissement public de coopération intercommunale, du conseil départemental, de la métropole de Lyon ou du conseil exécutif de Corse transmet aux organismes chargés de la liquidation et du paiement de l'APL une copie de la présente convention, de ses avenants éventuels ainsi que l'état prouvant qu'elle (ou ils) a (ont) bien fait l'objet d'une publication au fichier immobilier (ou d'une inscription au livre foncier).
-
-Fait en trois originaux à …, le...
-
-Le bailleur (7),
-
-Le préfet, le président de l'établissement public de coopération intercommunale, du conseil départemental, de la métropole de Lyon ou du conseil exécutif de Corse,
-
-Document prévu par l'article 1er de l'annexe à l'article D. 353-59 du code de la construction et de l'habitation lorsque le loyer maximum des logements est exprimé en surface corrigée.
-
-Description de l'opération de... (3)
-
-1° Désignation du ou des immeubles (8).
-
-2° Nature de l'opération et financement.
-
-3° Composition de l'opération :
-
-A.-Locaux auxquels s'applique la présente convention.
-
-1. Nombre des logements locatifs par type de logement :
-
-1.1. Nombre de logements à attribuer à des personnes dont les ressources n'excèdent pas 60 % des plafonds de ressources prévus au premier alinéa de l'article D. 331-12 du code de la construction et de l'habitation pour l'attribution des logements sociaux (article 7 de la présente convention) :
-
--nombre de logements prévus au premier alinéa du a du 3° de l'article 7 de la présente convention.
-
--nombre de logements prévus au deuxième alinéa du a du 3° de l'article 7 de la présente convention.
-
-1.2. Nombre de logements qu'il est possible d'attribuer à des personnes dont les ressources excèdent les plafonds de ressources prévus au 1er alinéa de l'article D. 331-12 précité pour l'attribution des logements sociaux, dans la limite de 120 % de ces plafonds (article 7 de la présente convention).
-
-2. Surface habitable :
-
-3. Surface corrigée :
-
-4. Dépendances (nombre et surface) :
-
-5. Locaux collectifs résidentiels (nombre et surface) :
-
-6. Garages et parkings affectés à ces logements (nombre et différenciation par type) :
-
-B.-Locaux auxquels ne s'applique pas la présente convention.
-
-Locaux commerciaux (nombre) :
-
-Bureaux (nombre) :
-
-Autres : …
-
-4° Origine des propriétés :
-
-5° Renseignements administratifs :
-
-5.1. Permis de construire :
-
-5.2. Date prévisible ou effective d'achèvement des travaux de construction ou d'amélioration :
-
-5.3. Date d'achat :
-
-5.4. Modalités de financement.
-
-Financement principal :
-
--date d'octroi du prêt :
-
--date de transfert du prêt :
-
--numéro du prêt :
-
--durée :
-
--montant :
-
-Financement complémentaire :
-
-Date d'achèvement de la construction ou certificat de conformité :
 
 Fait en trois originaux à …, le...
 

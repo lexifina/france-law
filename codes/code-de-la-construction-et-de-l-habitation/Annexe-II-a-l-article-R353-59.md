@@ -18,7 +18,7 @@ A. - Locaux auxquels s'applique la présente convention.
 
 2. Surface habitable :
 
-3. Surface corrigée :
+3. (Abrogé).
 
 4. Dépendances (nombre et surface) :
 
