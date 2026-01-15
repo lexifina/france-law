@@ -1,7 +1,5 @@
 # Article Annexe 3
 
-ANNEXE 3
-
 RAPPORT D'ACTIVITÉ POUR LE SUIVI DE L'EXPÉRIMENTATION
 
 Remarque : le présent rapport d'activité concerne les traitements médicamenteux systémiques du cancer hors TMSC oraux.
@@ -10,21 +8,23 @@ Remarque : le présent rapport d'activité concerne les traitements médicamente
 
 Si l'établissement met en place l'expérimentation sur plusieurs sites autorisés, ces données doivent être renseignées pour chaque site (FINESS géographique).
 
+Pour les candidats retenus par l'arrêté de sélection publié en 2026 : Le rapport annuel est à transmettre à l'agence régionale de santé le 1 er septembre 2027 au plus tard avec des données à remplir pour l'année 2026 et pour l'année 2027.
+
 Pour les candidats retenus par l'arrêté de sélection publié en 2025 : le rapport annuel est à transmettre à l'agence régionale de santé le 1er septembre 2026 au plus tard avec des données à remplir pour le ou les mois de mise en œuvre de l'expérimentation en 2025. Le second rapport annuel est à transmettre à l'agence régionale de santé le 1er septembre 2027 au plus tard avec des données à remplir pour l'année 2026 et pour l'année 2027.
 
 - nombre total de patients pour lesquels un traitement médicamenteux systémique du cancer a été réalisé sur le site :
 
-- nombre de patients orientés vers un titulaire d'autorisation de médecine, chirurgie ou de radiologie interventionnelle, - non autorisé au traitement médicamenteux systémique du cancer mais dit « associé » pour la poursuite du traitement :
+- nombre de patients orientés vers un titulaire d'autorisation de médecine, chirurgie ou de radiologie interventionnelle, - non autorisé au traitement médicamenteux systémique du cancer mais dit "associé" pour la poursuite du traitement :
 
-dont éventuellement NB patients pour lesquels la primo-administration a été réalisée sur le site « associé » :
+dont éventuellement NB patients pour lesquels la primo-administration a été réalisée sur le site "associé" :
 
-- nombre de patients orientés vers une structure HAD « associée » pour la poursuite du traitement :
+- nombre de patients orientés vers une structure HAD "associée" pour la poursuite du traitement :
 
-dont éventuellement NB patients pour lesquels la primo-administration a été réalisée sur le site « associé » :
+dont éventuellement NB patients pour lesquels la primo-administration a été réalisée sur le site "associé" :
 
-- nombre de patients orientés vers une structure de SMR non autorisée à l'activité de soins de traitement du cancer mais « dite associée » pour la poursuite du traitement :
+- nombre de patients orientés vers une structure de SMR non autorisée à l'activité de soins de traitement du cancer mais "dite associée" pour la poursuite du traitement :
 
-dont éventuellement NB patients pour lesquels la primo-administration a été réalisée sur le site « associé » :
+dont éventuellement NB patients pour lesquels la primo-administration a été réalisée sur le site "associé" :
 
 - taux d'occupation de la structure d'hospitalisation à temps partiel délivrant les TSMC en 2024 (10) :
 

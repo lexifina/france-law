@@ -1,7 +1,5 @@
 # Article Annexe 2
 
-ANNEXE 2
-
 RAPPORT INITIAL POUR L'ÉVALUATION DE L'EXPÉRIMENTATION
 
 Informations à transmettre en octobre de l'année d'entrée dans l'expérimentation à l'agence régionale de santé et à la direction générale de l'offre de soins par l'établissement de santé retenu pour participer à l'expérimentation :
@@ -18,6 +16,10 @@ C. - Rapports d'activité à l'entrée dans l'expérimentation :
 
 Pour les candidats retenus, les informations à transmettre correspondant aux années précédant le dépôt du dossier de candidature de l'établissement participant (soit 2023 et 2024), sauf mention contraire dans le dossier de candidature.
 
+Pour les candidats retenus en 2026 lors du second appel à manifestation d'intérêt régional, les informations à transmettre correspondent aux années précédant le dépôt du dossier de candidature de l'établissement participant (soit 2024 et 2025), sauf mention contraire dans le dossier de candidature.
+
+Pour les candidats retenus en 2026 dont la mise en œuvre effective de l'organisation formalisée entre les deux établissements, autorisé et associé, a débuté par de premiers adressages de traitement médicamenteux systémiques du cancer (TMSC) en HAD courant 2025 ou en 2026 avant le lancement du second AMI régional, le rapport d'activité précise le ou les mois concernés en 2025 et en 2026.
+
 Pour les candidats retenus dont la mise en œuvre effective de l'organisation formalisée entre les deux établissements, autorisé et associé, a débuté par de premiers adressages de TMSC en HAD courant 2024 ou en 2025 avant le lancement de l'AMI régional, le rapport d'activité précise le ou les mois concernés en 2024 et/ou en 2025.
 
 Remarque : le présent rapport d'activité concerne les traitements médicamenteux systémiques du cancer (hors TMSC oraux).
@@ -28,17 +30,17 @@ Si l'établissement met en place l'expérimentation sur plusieurs sites autoris�
 
 - nombre total de patients pour lesquels un traitement médicamenteux systémique du cancer a été réalisé sur le site autorisé :
 
-- nombre de patients orientés vers un titulaire d'autorisation de médecine, chirurgie ou de radiologie interventionnelle, - non autorisé au traitement médicamenteux systémique du cancer mais dit « associé » pour la poursuite du traitement :
+- nombre de patients orientés vers un titulaire d'autorisation de médecine, chirurgie ou de radiologie interventionnelle, - non autorisé au traitement médicamenteux systémique du cancer mais dit "associé" pour la poursuite du traitement :
 
-dont éventuellement NB patients pour lesquels la primo-administration a été réalisée sur le site « associé » :
+dont éventuellement NB patients pour lesquels la primo-administration a été réalisée sur le site "associé" :
 
-- nombre de patients orientés vers une structure HAD « associée » pour la poursuite du traitement :
+- nombre de patients orientés vers une structure HAD "associée" pour la poursuite du traitement :
 
-dont éventuellement NB patients pour lesquels la primo-administration a été réalisée sur le site « associé » :
+dont éventuellement NB patients pour lesquels la primo-administration a été réalisée sur le site "associé" :
 
-- nombre de patients orientés vers une structure de SMR non autorisée à l'activité de soins de traitement du cancer mais « dite associée » pour la poursuite du traitement :
+- nombre de patients orientés vers une structure de SMR non autorisée à l'activité de soins de traitement du cancer mais "dite associée" pour la poursuite du traitement :
 
-dont éventuellement NB patients pour lesquels la primo-administration a été réalisée sur le site « associé » :
+dont éventuellement NB patients pour lesquels la primo-administration a été réalisée sur le site "associé" :
 
 - taux d'occupation de la structure d'hospitalisation à temps partiel délivrant les TSMC en 2024 (5) :
 
@@ -74,7 +76,7 @@ Ces informations sont à recueillir auprès de la ou des structures HAD partenai
 
 - dont nombre total de patients pris en charge pour une dispensation (9) d'un traitement médicamenteux systémique du cancer en association avec un titulaire d'autorisation de traitement du cancer (y compris ES candidat) :
 
-dont éventuellement NB patients pour lesquels la primo-administration a été réalisée sur le site « associé » :
+dont éventuellement NB patients pour lesquels la primo-administration a été réalisée sur le site "associé" :
 
 - nombre de titulaires d'autorisation de traitement médicamenteux systémique du cancer avec lesquels la structure d'HAD est en association pour la poursuite de TMSC en HAD (y compris ES candidat) :
 
