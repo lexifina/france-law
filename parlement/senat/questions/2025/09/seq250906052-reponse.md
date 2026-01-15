@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250906052
+
+- Question : [SEQ250906052](seq250906052.md) — Publication du décret d'application relatif à la bonification de trimestres de retraite pour les sapeurs-pompiers volontaires
+
+## Réponse
+
+*Intérieur , JO du 2026-01-15, page 177*
+
+Le Gouvernement est particulièrement attaché au modèle français de sécurité civile, fondé, entre autres, sur la complémentarité des statuts qui le composent : les sapeurs-pompiers professionnels, les sapeurs-pompiers volontaires, les militaires et les bénévoles. La loi de financement rectificative de la sécurité sociale pour 2023 prévoit que les sapeurs-pompiers volontaires ayant accompli plus de dix ans de service puissent bénéficier de trimestres de retraite selon des modalités fixées par décret en Conseil d'État. Concernant le décret d'application, un travail de fond interministériel a été mené pour aboutir à un écrit conforme à l'esprit de la loi, dans l'objectif de renforcer la fidélisation de nos sapeurs-pompiers volontaires et de reconnaître leur engagement. Comme l'a annoncé le Premier Ministre le 10 octobre, tous les sapeurs-pompiers volontaires ayant accompli au moins 15 années de service bénéficieront ainsi d'un trimestre supplémentaire de retraite. Au-delà, un trimestre additionnel sera accordé tous les cinq ans d'engagement supplémentaire, dans la limite de trois trimestres au total. Ces trimestres viendront s'ajouter à ceux acquis dans le cadre de leur activité professionnelle. Cet accord correspond à la fois à l'esprit de la loi, à la volonté du Gouvernement de reconnaître l'engagement indispensable des sapeurs-pompiers volontaires et prend en compte les exigences budgétaires auxquelles doit faire face l'Etat. Le Conseil d'Etat ayant rendu son avis, le décret sera désormais publié dans les meileurs délais.
