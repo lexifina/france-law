@@ -1,10 +1,8 @@
 # Article Annexe
 
-ÉLÉMENTS CONSTITUTIFS DU RAPPORT ANNUEL D'ACTIVITÉ DES ÉTABLISSEMENTS DE SANTÉ PARTICIPANT À L'EXPÉRIMENTATION PERMETTANT LA RÉALISATION DE SOINS DE NÉONATOLOGIE AU DOMICILE DES PATIENTS PAR DES UNITÉS DE NÉONATOLOGIE, PRÉVUE PAR LE DÉCRET N° 2022-524 DU 11 AVRIL 2022
+ÉLÉMENTS CONSTITUTIFS DU RAPPORT ANNUEL D'ACTIVITÉ DES ÉTABLISSEMENTS DE SANTÉ PARTICIPANT À L'EXPÉRIMENTATION PERMETTANT LA RÉALISATION DE SOINS DE NÉONATOLOGIE AU DOMICILE DES PATIENTS PAR DES UNITÉS DE NÉONATOLOGIE PRÉVUE PAR LE DÉCRET NO 2022-524 DU 11 AVRIL 2022
 
-I. - Indicateurs relatifs à l'organisation et au fonctionnement de l'équipe mobile
-
-Pour les points suivants, les éléments seront transmis uniquement lors de l'élaboration du premier rapport sauf modification substantielle des informations contenues dans celui-ci :
+I.-Indicateurs relatifs à l'organisation et au fonctionnement de l'équipe mobile
 
 1. Identité de l'établissement concerné ;
 
@@ -14,35 +12,77 @@ Pour les points suivants, les éléments seront transmis uniquement lors de l'é
 
 4. Date de démarrage de l'activité expérimentale ;
 
-5. Nombre de personnes physiques intervenant dans l'équipe mobile dédiée de néonatologie, par catégorie ;
+5. Nombre maximum de nouveau-nés pris en charge à domicile sur la même période par l'équipe ;
 
-6. Quotité de temps de travail représentée par catégorie ;
+6. Indication de l'existence ou non de l'hospitalisation à domicile sur le territoire ;
 
-7. Type de formation suivie en termes de soins de développement par chaque professionnel ;
+7. Indication de la nature des modalités de travail avec l'hospitalisation à domicile ;
 
-8. Nombre de personnes physiques du service de néonatologie concourant par ailleurs au parcours des nouveau-nés pris en charge à domicile, par catégorie ;
+8. Limite géographique de prise en charge en kilomètre ou en temps ;
 
-9. Quotité de temps de travail représentée par catégorie.
+9. Fréquence minimale de passages hebdomadaires par nouveau-né ;
 
-II. - Indicateurs d'activité de l'équipe mobile
+10. Fréquence maximale de passages hebdomadaires par nouveau-né ;
 
-10. Nombre total de nouveau-nés pris en charge par l'équipe mobile ;
+11. Horaires de fonctionnement de l'équipe ;
 
-11. Dont nombre de nouveau-nés prématurés ;
+12. Amplitude horaire des prises en charge ;
 
-12. Nombre de nouveau-nés pris en charge par motif d'inclusion principal :
+13. Quotité de temps de travail en équivalent temps plein représentée par catégorie (médecin, infirmier puériculteur, infirmier des coordination, auxiliaire de puériculture, psychomotricien, kinésithérapeute, psychologue, assistant social, secrétaire, cadre de santé, autre) ;
 
-a) Sonde naso-gastrique et/ou accompagnement de l'autonomisation alimentaire et/ou difficultés alimentaires ;
+14. Quotité de temps de travail en équivalent temps plein des autres professionnels qui concourent, sans se déplacer au domicile, à la bonne prise en charge du nouveau-né, par catégorie (médecin, psychomotricien, kinésithérapeute, assistant social, cadre de santé, autre).
 
-b) Antibiothérapie parentérale ;
+II.-Indicateurs d'activité de l'équipe mobile
 
-c) Oxygéno-dépendance ;
+15. Nombre total de nouveau-nés pris en charge par l'équipe mobile ;
 
-d) Autres ;
+16. Dont nombre de nouveau-nés prématurés ;
 
-13. Durée moyenne des prises en charge à domicile assurée ;
+17. Dont nombre de nouveau-nés nés avant 28 semaines d'aménorrhée ;
 
-14. Répartition des prises en charge à domicile par l'équipe mobile dédiée selon leur durée :
+18. Dont nombre de nouveau-nés nés entre 28 semaines d'aménorrhée et 31 semaines d'aménorrhée et 6 jours ;
+
+19. Dont nombre de nouveau-nés nés de 32 semaines d'aménorrhée à 36 semaines d'aménorrhée et 6 jours ;
+
+20. Age gestationnel moyen à la naissance des nouveau-nés pris en charge ;
+
+21. Age gestationnel minimal à la naissance des nouveau-nés pris en charge ;
+
+22. Nombre de nouveau-nés pris en charge par motif d'inclusion principal :
+
+a) Sonde naso-gastrique ;
+
+b) Accompagnement de l'autonomisation alimentaire sans sonde naso gastrique ;
+
+c) Antibiothérapie parentérale ;
+
+d) Oxygénothérapie ;
+
+e) Photothérapie dans la prise en charge de l'ictère ;
+
+f) Pansements/ soins de stomie ;
+
+g) Surveillance sous scope ;
+
+h) Surveillance de la prise de poids ;
+
+i) Soutien de la parentalité ;
+
+j) Soutien expert à l'allaitement ;
+
+k) Soins palliatifs ;
+
+l) Autres ;
+
+23. Terme moyen des nouveau-nés à l'entrée de la prise en charge à domicile ;
+
+24. Terme minimal des nouveau-nés à l'entrée de la prise en charge à domicile ;
+
+25. Poids minimal des nouveau-nés à l'entrée de la prise en charge à domicile ;
+
+26. Durée moyenne des prises en charge à domicile ;
+
+27. Répartition des prises en charge à domicile par l'équipe mobile dédiée selon leur durée :
 
 a) Moins de 7 jours ;
 
@@ -50,148 +90,50 @@ b) Entre 7 et 15 jours ;
 
 c) Plus de 15 jours ;
 
-15. Taux de ré-hospitalisation et motifs principaux ;
+28. Taux de ré-hospitalisations non programmées pendant la prise en charge à domicile (nombre d'enfants réadmis rapporté au nombre total d'enfants pris en charge sur la période) ;
 
-16. Durée moyenne de séjour au sein de l'unité de néonatologie préalable à l'expérimentation (pour l'année 2021) ;
+29. Motifs principaux de ré-hospitalisation pendant la prise en charge par l'équipe mobile ;
 
-17. Durée moyenne de séjour au sein de l'unité de néonatologie pour l'année d'évaluation considérée (calculée, pour la première année, à l'issue d'au moins une année de fonctionnement dans le cadre de l'expérimentation) ;
+30. Taux de ré-hospitalisations non programmées dans le mois suivant la sortie de la prise en charge à domicile ;
 
-18. Nombre d'appels lors de l'astreinte et motifs ;
+31. Durée moyenne de séjour au sein de l'unité de néonatologie préalable à l'expérimentation (pour l'année 2022) ;
 
-19. Nombre d'appels au 15 par les familles, si connu ;
+32. Durée moyenne de séjour au sein de l'unité de néonatologie pour l'année d'évaluation écoulée ;
 
-20. Nombre d'évènements indésirables associés aux soins ;
+33. Nombre d'appels lors de l'astreinte ;
 
-21. Nombre moyen d'interventions de personnels de l'unité de néonatologie au bénéfice des nouveau-nés pris en charge à domicile par l'équipe mobile dédiée, autres que les membres de l'équipe mobile ;
+34. Motifs d'appels lors de l'astreinte ;
 
-22. Taux de satisfaction des parents.
+35. Nombre d'appels au 15 par les familles ;
 
-III. - Indicateurs financiers
+36. Taux d'allaitement à l'entrée de la prise en charge par l'équipe mobile ;
 
-23. Sera transmis le compte rendu financier détaillant les charges et recettes correspondant au fonctionnement de l'équipe mobile de néonatologie (à remplir pour l'année concernée et pour les quotités dévolues à l'expérimentation exclusivement).
+37. Taux allaitement à la sortie de la prise en charge par l'équipe mobile ;
 
-CHARGES |
+38. Taux allaitement à un mois de la sortie de la prise en charge par l'équipe mobile, si connu ;
 
-RECETTES |
+39. Taux de ré hospitalisation dans le mois suivant la sortie de la prise en charge par l'équipe mobile, si connu ;
 
-Type de charges |
+40. Nombre d'évènements indésirables graves associés aux soins constatés pendant la prise en charge par l'équipe mobile ;
 
-Montant (milliers d'€) |
+41. Nature des évènements indésirables graves rencontrés ;
 
-Type de recettes |
+42. Nombre moyen d'interventions de personnels de l'unité de néonatologie au bénéfice des nouveau-nés pris en charge à domicile par l'équipe mobile dédiée, autres que les membres de l'équipe mobile ;
 
-Montant (milliers d'€) |
+43. Taux de satisfaction des parents par rapport à la prise en charge assurée par l'équipe mobile ;
 
-I - Charges de personnel |
+44. Nombre de nouveau-nés qui bénéficient d'une prise en charge HAD à l'issue de la prise en charge par l'équipe mobile.
 
-|
+III.-Indicateurs financiers
 
-Montant total FIR perçu |
+45. Sera transmis le compte rendu financier détaillant les charges et recettes correspondant au fonctionnement de l'équipe mobile de néonatologie (à remplir pour l'année concernée et pour les quotités dévolues à l'expérimentation exclusivement).
 
-|
+D'ici à la fin de l'expérimentation, les rapports d'activité sont attendus aux dates et concernant les périodes d'activité suivantes :
 
-Personnel médical |
+-le 1er rapport d'activité est attendu le 1er mars 2026 sur la période d'activité courant du 1er juillet au 31 décembre 2025 ;
 
-|
+-le 2e rapport est attendu le 1er septembre 2026 sur la période d'activité courant du 1er janvier 2026 au 30 juin 2026 ;
 
-Montant FIR dévolu au temps de coordination médicale. |
+-le 3e rapport est attendu le 1er mars 2027 sur la période d'activité courant du 1er juillet au 31 décembre 2026 ;
 
-|
-
-Personnel non médical |
-
-|
-
-Montant FIR dévolu à la mobilisation d'IDE puéricultrice formée et d'assistante sociale.
-
-Autres |
-
-|
-
-II - Charges à caractère médical |
-
-|
-
-|
-
-|
-
-Dépenses pharmaceutiques |
-
-|
-
-|
-
-|
-
-III - Charges à caractère hôtelier |
-
-|
-
-|
-
-|
-
-Matériel hôtelier |
-
-|
-
-|
-
-|
-
-Matériel informatique |
-
-|
-
-|
-
-|
-
-Matériel automobile |
-
-|
-
-|
-
-|
-
-Frais généraux de structure |
-
-|
-
-|
-
-|
-
-IV - Autres charges (amortissements) |
-
-|
-
-|
-
-|
-
-Matériel biomédical |
-
-|
-
-|
-
-|
-
-Matériel hôtelier |
-
-|
-
-|
-
-|
-
-TOTAL CHARGES |
-
-|
-
-|
-
-|
+-le 4e rapport est attendu le 1er septembre 2027 sur la période d'activité courant du 1er janvier 2027 au 30 juin 2027.
