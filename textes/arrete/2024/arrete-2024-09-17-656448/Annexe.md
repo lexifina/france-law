@@ -1,30 +1,48 @@
 # Article Annexe
 
-ANNEXE
-
 LISTE DES COMITÉS DÉPARTEMENTAUX (CD)
 
 CD |
 
-A - Secours aux personnes |
+A-
 
-A - Sauvetage aquatique |
+Secours aux personnes |
 
-B - Soutien et accompagnement des populations victimes
+A-
 
-d'accidents, de sinistres ou de catastrophes |
+Sauvetage aquatique |
 
-C - Encadrement des bénévoles dans le cadre des actions de soutien aux populations |
+B-Soutien
 
-D - Point d'alerte et de premiers secours (PAPS) |
+et accompagnement
 
-D - Dispositif prévisionnel de secours de petite à grande envergure (DPS-PE à GE) |
+des populations
 
-D - PAPS - sécurité de la pratique des activités
+victimes d'accidents,
 
-aquatiques |
+de sinistres
 
-D - DPS - PE à GE - sécurité de la pratique des activités aquatiques |
+ou de catastrophes |
+
+C-Encadrement
+
+des bénévoles
+
+dans le cadre
+
+des actions
+
+de soutien
+
+aux populations |
+
+D-Point d'alerte et de premiers secours (PAPS) |
+
+D-Dispositif prévisionnel de secours de petite à grande envergure (DPS-PE à GE) |
+
+D-PAPS-sécurité de la pratique des activités aquatiques |
+
+D-DPS-PE à GE-sécurité de la pratique des activités aquatiques |
 
 CD 01 |
 
@@ -79,6 +97,24 @@ x |
 |
 
 |
+
+CD 05 |
+
+x |
+
+x |
+
+|
+
+|
+
+x |
+
+x |
+
+x |
+
+x |
 
 CD 06 |
 
@@ -158,7 +194,7 @@ x |
 
 |
 
-|
+x |
 
 x |
 
@@ -200,7 +236,7 @@ CD 24 |
 
 x |
 
-|
+x |
 
 |
 
@@ -444,7 +480,7 @@ CD 45 |
 
 x |
 
-x |
+|
 
 x |
 
@@ -454,13 +490,13 @@ x |
 
 x |
 
-x |
+|
 
-x |
+|
 
 CD 46 |
 
-|
+x |
 
 |
 
@@ -526,9 +562,9 @@ x |
 
 x |
 
-|
+x |
 
-|
+x |
 
 CD 56 |
 
@@ -606,7 +642,7 @@ CD 60 |
 
 x |
 
-|
+x |
 
 x |
 
@@ -659,6 +695,24 @@ x |
 CD 64 |
 
 x |
+
+|
+
+|
+
+|
+
+x |
+
+x |
+
+|
+
+|
+
+CD 65 |
+
+|
 
 |
 
@@ -806,9 +860,9 @@ x |
 
 |
 
-|
+x |
 
-|
+x |
 
 x |
 
