@@ -524,13 +524,9 @@ z) MONTEZ VIA SID (niveau) ;
 
 |
 
-… autorisation d’annuler les restrictions de niveau du profil vertical d’un SID pendant la montée
+… autorisation d'annuler les restrictions de niveau du profil vertical d'un SID pendant la montée |
 
-|
-
-aa) MONTEZ VIA SID (niveau), ANNULEZ RESTRICTIONS DE NIVEAU ;
-
-|
+aa) [MONTEZ VIA SID (niveau)], ANNULEZ RESTRICTIONS DE NIVEAU ; |
 
 ☑
 
@@ -540,13 +536,9 @@ aa) MONTEZ VIA SID (niveau), ANNULEZ RESTRICTIONS DE NIVEAU ;
 
 |
 
-… autorisation d’annuler des restrictions de niveau précises du profil vertical d’un SID pendant la montée
+… autorisation d'annuler des restrictions de niveau précises du profil vertical d'un SID pendant la montée |
 
-|
-
-bb) MONTEZ VIA SID (niveau), ANNULEZ RESTRICTIONS DE NIVEAU À (points) ;
-
-|
+bb) [MONTEZ VIA SID (niveau)], ANNULEZ RESTRICTIONS DE NIVEAU À (points) ; |
 
 ☑
 
@@ -556,13 +548,9 @@ bb) MONTEZ VIA SID (niveau), ANNULEZ RESTRICTIONS DE NIVEAU À (points) ;
 
 |
 
-… autorisation d’annuler les restrictions de vitesse d’un SID pendant la montée
+… autorisation d'annuler les restrictions de vitesse d'un SID pendant la montée |
 
-|
-
-cc) MONTEZ VIA SID (niveau), ANNULEZ RESTRICTIONS DE VITESSE ;
-
-|
+cc) [MONTEZ VIA SID (niveau)], ANNULEZ RESTRICTIONS DE VITESSE ; |
 
 ☑
 
@@ -572,13 +560,9 @@ cc) MONTEZ VIA SID (niveau), ANNULEZ RESTRICTIONS DE VITESSE ;
 
 |
 
-… autorisation d’annuler des restrictions de vitesse précises d’un SID pendant la montée
+… autorisation d'annuler des restrictions de vitesse précises d'un SID pendant la montée |
 
-|
-
-dd) MONTEZ VIA SID (niveau), ANNULEZ RESTRICTIONS DE VITESSE À (points) ;
-
-|
+dd) [MONTEZ VIA SID (niveau)], ANNULEZ RESTRICTIONS DE VITESSE À (points) ; |
 
 ☑
 
@@ -588,13 +572,9 @@ dd) MONTEZ VIA SID (niveau), ANNULEZ RESTRICTIONS DE VITESSE À (points) ;
 
 |
 
-… autorisation de monter et d’annuler les restrictions de vitesse et de niveau d’un SID
+… autorisation de monter et d'annuler les restrictions de vitesse et de niveau d'un SID |
 
-|
-
-ee) MONTEZ SANS RESTRICTION (niveau), ou MONTEZ (niveau), ANNULEZ RESTRICTIONS DE NIVEAU ET DE VITESSE ;
-
-|
+ee) MONTEZ SANS RESTRICTION (niveau), ou MONTEZ (niveau), ANNULEZ RESTRICTIONS DE NIVEAU ET DE VITESSE ; |
 
 ☑
 
@@ -604,13 +584,9 @@ ee) MONTEZ SANS RESTRICTION (niveau), ou MONTEZ (niveau), ANNULEZ RESTRICTIONS D
 
 |
 
-… autorisation de descendre en suivant une STAR comportant des restrictions publiées de niveau et/ ou de vitesse, selon laquelle le pilote doit descendre jusqu’au niveau autorisé, se conformer aux restrictions de niveau publiées, suivre le profil latéral de la STAR et respecter les restrictions de vitesse publiées ou les instructions de vitesse émises par l’ATC
+… autorisation de descendre en suivant une STAR comportant des restrictions publiées de niveau et/ ou de vitesse, selon laquelle le pilote doit descendre jusqu'au niveau autorisé, se conformer aux restrictions de niveau publiées, suivre le profil latéral de la STAR et respecter les restrictions de vitesse publiées ou les instructions de vitesse émises par l'ATC |
 
-|
-
-ff) DESCENDEZ VIA STAR (niveau) ;
-
-|
+ff) DESCENDEZ VIA STAR (niveau) ; |
 
 ☑
 
@@ -620,13 +596,9 @@ ff) DESCENDEZ VIA STAR (niveau) ;
 
 |
 
-… autorisation d’annuler les restrictions de niveau d’une STAR pendant la descente
+… autorisation d'annuler les restrictions de niveau d'une STAR pendant la descente |
 
-|
-
-gg) DESCENDEZ VIA STAR (niveau), ANNULEZ RESTRICTIONS DE NIVEAU ;
-
-|
+gg) [DESCENDEZ VIA STAR (niveau)], ANNULEZ RESTRICTIONS DE NIVEAU ; |
 
 ☑
 
@@ -636,13 +608,9 @@ gg) DESCENDEZ VIA STAR (niveau), ANNULEZ RESTRICTIONS DE NIVEAU ;
 
 |
 
-… autorisation d’annuler les restrictions spécifiques de niveau d’une STAR pendant la descente
+… autorisation d'annuler les restrictions spécifiques de niveau d'une STAR pendant la descente |
 
-|
-
-hh) DESCENDEZ VIA STAR (niveau), ANNULEZ RESTRICTIONS DE NIVEAU À (points) ;
-
-|
+hh) [DESCENDEZ VIA STAR (niveau)], ANNULEZ RESTRICTIONS DE NIVEAU À (points) ; |
 
 ☑
 
@@ -652,13 +620,9 @@ hh) DESCENDEZ VIA STAR (niveau), ANNULEZ RESTRICTIONS DE NIVEAU À (points) ;
 
 |
 
-… autorisation d’annuler les restrictions de vitesse d’une STAR pendant la descente
+… autorisation d'annuler les restrictions de vitesse d'une STAR pendant la descente |
 
-|
-
-ii) DESCENDEZ VIA STAR (niveau), ANNULEZ RESTRICTIONS DE VITESSE ;
-
-|
+ii) [DESCENDEZ VIA STAR (niveau)], ANNULEZ RESTRICTIONS DE VITESSE ; |
 
 ☑
 
@@ -668,13 +632,9 @@ ii) DESCENDEZ VIA STAR (niveau), ANNULEZ RESTRICTIONS DE VITESSE ;
 
 |
 
-… autorisation d’annuler les restrictions de niveau d’une STAR pendant la descente
+… autorisation d'annuler les restrictions de niveau d'une STAR pendant la descente |
 
-|
-
-jj) DESCENDEZ VIA STAR (niveau), ANNULEZ RESTRICTIONS DE VITESSE À (points) ;
-
-|
+jj) [DESCENDEZ VIA STAR (niveau)], ANNULEZ RESTRICTIONS DE VITESSE À (points) ; |
 
 ☑
 
@@ -708,35 +668,25 @@ kk) DESCENDEZ SANS RESTRICTION (niveau), ou DESCENDEZ (niveau), ANNULEZ RESTRICT
 
 |
 
-1.1.3 CARBURANT MINIMAL
+1.1.3 CARBURANT MINIMAL/ ÉNERGIE MINIMALE |
 
-… indication d’une situation de carburant minimal
-
-|
-
-* a) MINIMUM FUEL ;
-
-|
+* a) MINIMUM FUEL ; |
 
 *
 
 |
 
-b) ROGER [PAS DE DÉLAI PRÉVU ou PRÉVOIR (renseignements sur le délai)].
+… indication d'une situation de carburant minimal/ énergie minimale |
+
+b) ROGER [PAS DE DÉLAI PRÉVU ou PRÉVOIR (renseignements sur le délai)]. |
+
+☑ |
+
+☐ |
 
 |
 
-☑
-
-|
-
-☐
-
-|
-
-* Indique une communication du pilote.
-
-|
+* Indique une communication du pilote. |
 
 |
 
@@ -2220,13 +2170,9 @@ g) REJOIGNEZ (spécifier) À (point significatif)
 
 |
 
-1.2.2 INDICATION DE LA ROUTE ET DE LA LIMITE DE CLAIRANCE
+1.2.2 INDICATION DE LA ROUTE ET DE LA LIMITE DE CLAIRANCE |
 
-|
-
-a) DE (lieu) JUSQU’À (lieu) ;
-
-|
+a) DE (lieu) JUSQU'À (lieu) ; |
 
 ☑
 
@@ -2236,9 +2182,7 @@ a) DE (lieu) JUSQU’À (lieu) ;
 
 |
 
-b) JUSQU’À (lieu),
-
-|
+b) JUSQU'À (lieu), |
 
 ☑
 
@@ -2248,17 +2192,13 @@ b) JUSQU’À (lieu),
 
 |
 
-suivi, au besoin, de
+suivi, au besoin, de |
 
 |
 
 |
 
-|
-
-1) DIRECT ;
-
-|
+1) DIRECT ; |
 
 ☑
 
@@ -2268,9 +2208,7 @@ suivi, au besoin, de
 
 |
 
-2) VIA (route et/ ou points significatifs) ;
-
-|
+2) VIA (route et/ ou points significatifs) ; |
 
 ☑
 
@@ -2280,21 +2218,9 @@ suivi, au besoin, de
 
 |
 
-3) ROUTE PLAN DE VOL ;
+Note.-Les conditions associées à l'utilisation de cette expression sont précisés par les dispositions des règles SERA. 8015 d) 3) et ATS. TR. 235 (b) (3) ainsi que du GM1 ATS. TR. 235 (b) (3) (i) du règlement d'exécution (UE) 2017/373. |
 
-|
-
-☑
-
-|
-
-☐
-
-|
-
-4) VIA (distance) ARC DME (direction) DE (nom de la station DME) ;
-
-|
+3) ROUTE PLAN DE VOL ; |
 
 ☑
 
@@ -2304,9 +2230,19 @@ suivi, au besoin, de
 
 |
 
-c) (route) NON DISPONIBLE CAUSE (cause) ROUTE(S) ALTERNATIVE(S) (routes) AVISEZ-MOI.
+|
+
+4) VIA (distance) ARC DME (direction) DE (nom de la station DME) ; |
+
+☑
 
 |
+
+☐
+
+|
+
+c) (route) NON DISPONIBLE CAUSE (cause) ROUTE (S) ALTERNATIVE (S) (routes) AVISEZ-MOI. |
 
 ☑
 
@@ -2740,13 +2676,9 @@ b) CORRECT (ou NÉGATIF) [JE RÉPÈTE (Organisme ATC) AUTORISE (ou DEMANDE) (dé
 
 |
 
-1.3.1 INSTRUCTIONS AU DÉPART
+1.3.1 INSTRUCTIONS AU DÉPART |
 
-|
-
-a) [APRÈS DÉPART] TOURNEZ À DROITE (ou À GAUCHE), CAP (trois chiffres) (ou CONTINUEZ AU CAP DE LA PISTE) (ou RESTEZ DANS L’AXE DE LA PISTE) JUSQU’AU (ou JUSQU’À) (niveau ou point significatif) [(autres instructions, s’il y a lieu)] ;
-
-|
+a) [APRÈS DÉPART] TOURNEZ À DROITE (ou À GAUCHE), CAP (trois chiffres) (ou CONTINUEZ AU CAP DE LA PISTE) (ou RESTEZ DANS L'AXE DE LA PISTE) JUSQU'AU (ou JUSQU'À) (niveau ou point significatif) [(autres instructions, s'il y a lieu)] ; |
 
 ☑
 
@@ -2756,9 +2688,7 @@ a) [APRÈS DÉPART] TOURNEZ À DROITE (ou À GAUCHE), CAP (trois chiffres) (ou C
 
 |
 
-b) APRÈS AVOIR ATTEINT (ou ATTEIGNANT) (ou PASSANT) (niveau ou point significatif) (instructions) ;
-
-|
+b) APRÈS AVOIR ATTEINT (ou ATTEIGNANT) (ou PASSANT) (niveau ou point significatif) (instructions) ; |
 
 ☑
 
@@ -2768,11 +2698,7 @@ b) APRÈS AVOIR ATTEINT (ou ATTEIGNANT) (ou PASSANT) (niveau ou point significat
 
 |
 
-c) TOURNEZ À DROITE (ou À GAUCHE) CAP (trois chiffres)
-
-(niveau) [POUR INTERCEPTER (route, voie aérienne, etc.)] ;
-
-|
+c) TOURNEZ À DROITE (ou À GAUCHE) CAP (trois chiffres) (niveau) [POUR INTERCEPTER (route, voie aérienne, etc.)] ; |
 
 ☑
 
@@ -2782,9 +2708,7 @@ c) TOURNEZ À DROITE (ou À GAUCHE) CAP (trois chiffres)
 
 |
 
-d) DÉPART (nom et numéro du départ normalisé) ;
-
-|
+d) DÉPART (nom et numéro du départ normalisé) ; |
 
 ☑
 
@@ -2794,9 +2718,7 @@ d) DÉPART (nom et numéro du départ normalisé) ;
 
 |
 
-e) ROUTE (trois chiffres) DEGRÉS [MAGNÉTIQUES (ou VRAIS)] VERS (ou À PARTIR DE) (point significatif) JUSQU’À (heure, ou ATTEIGNANT (repère ou point significatif ou niveau)) [AVANT DE CONTINUER SUR LA ROUTE] ;
-
-|
+e) ROUTE (trois chiffres) DEGRÉS [MAGNÉTIQUES (ou VRAIS)] VERS (ou À PARTIR DE) (point significatif) JUSQU'À (heure, ou ATTEIGNANT (repère ou point significatif ou niveau)) [AVANT DE CONTINUER SUR LA ROUTE] ; |
 
 ☑
 
@@ -2806,29 +2728,21 @@ e) ROUTE (trois chiffres) DEGRÉS [MAGNÉTIQUES (ou VRAIS)] VERS (ou À PARTIR D
 
 |
 
-f) AUTORISÉ DÉPART (désignation) ;
+Note.-Les conditions associées à l'utilisation de cette expression sont précisés par les dispositions de la règle SERA. 8015 d) 3), du GM1 SERA. 8015 d) 3) ii), de la règle ATS. TR. 235 (b) (3) ainsi que du GM1 ATS. TR. 235 (b) (3) (i) du règlement d'exécution (UE) 2017/373. |
 
-|
+f) AUTORISÉ DÉPART (désignation) ; |
 
-☑
+☑ |
 
-|
+☐ |
 
-☐
-
-|
-
-… autorisation de parcours direct avec avis préalable d’une instruction future de rejoindre le SID
-
-|
+… autorisation de parcours direct avec avis préalable d'une instruction future de rejoindre le SID |
 
 g) AUTORISÉ DIRECT (point de cheminement) MONTEZ (niveau), PRÉVOYEZ DE REJOINDRE SID [(indicatif du SID)] [(À (point de cheminement)],
 
 puis
 
-REJOIGNEZ SID [(indicatif du SID)] [À (point de cheminement)] ;
-
-|
+REJOIGNEZ SID [(indicatif du SID)] [À (point de cheminement)] ; |
 
 ☑
 
@@ -2842,9 +2756,7 @@ h) AUTORISÉ DIRECT (point de cheminement) MONTEZ (niveau),
 
 puis
 
-REJOIGNEZ SID [(indicatif du SID)] [À (point de cheminement)] ;
-
-|
+REJOIGNEZ SID [(indicatif du SID)] [À (point de cheminement)] ; |
 
 ☑
 
@@ -2854,15 +2766,11 @@ REJOIGNEZ SID [(indicatif du SID)] [À (point de cheminement)] ;
 
 |
 
-1.3.2 INSTRUCTIONS À L’APPROCHE
+1.3.2 INSTRUCTIONS À L'APPROCHE
 
-Note.– L’identification de la procédure d’approche aux instruments sur la carte aéronautique est utilisée pour spécifier le type d’approche. Lorsque l’identification utilise un suffixe entre parenthèses pour inclure des conditions exceptionnelles, par exemple (LNAV/VNAV seulement) ou (AR) , le texte figurant entre les parenthèses ne fait pas partie de l’autorisation du contrôle de la circulation aérienne.
+Note.-Les conditions associées à l'utilisation de cette expression sont précisés par les dispositions de la règle SERA. 8015 d) 3), du GM1 SERA. 8015 d) 3) ii), de la règle ATS. TR. 235 (b) (3) ainsi que du GM1 ATS. TR. 235 (b) (3) (i) du règlement d'exécution (UE) 2017/373. |
 
-|
-
-a) AUTORISÉ ARRIVÉE (désignation) ;
-
-|
+a) AUTORISÉ ARRIVÉE (désignation) ; |
 
 ☑
 
@@ -2872,9 +2780,9 @@ a) AUTORISÉ ARRIVÉE (désignation) ;
 
 |
 
-b) AUTORISÉ JUSQU’À (limite de la clairance) (désignation) ;
-
 |
+
+b) AUTORISÉ JUSQU'À (limite de la clairance) (désignation) ; |
 
 ☑
 
@@ -2884,9 +2792,7 @@ b) AUTORISÉ JUSQU’À (limite de la clairance) (désignation) ;
 
 |
 
-c) AUTORISÉ (ou PROCÉDEZ) (détails de la route à suivre) ;
-
-|
+c) AUTORISÉ (ou PROCÉDEZ) (détails de la route à suivre) ; |
 
 ☑
 
@@ -2896,17 +2802,13 @@ c) AUTORISÉ (ou PROCÉDEZ) (détails de la route à suivre) ;
 
 |
 
-… autorisation de parcours direct avec avis préalable d’émission d’une instruction future de rejoindre la STAR
-
-|
+… autorisation de parcours direct avec avis préalable d'émission d'une instruction future de rejoindre la STAR |
 
 d) AUTORISÉ DIRECT (point de cheminement), DESCENDEZ (niveau), PRÉVOYEZ DE REJOINDRE STAR [(indicatif de la STAR)] À (point de cheminement),
 
 puis
 
-REJOIGNEZ STAR [(indicatif de la STAR)] [A (point de cheminement)] ;
-
-|
+REJOIGNEZ STAR [(indicatif de la STAR)] [A (point de cheminement)] ; |
 
 ☑
 
@@ -2920,9 +2822,7 @@ e) AUTORISÉ DIRECT (point de cheminement), DESCENDEZ (niveau),
 
 puis
 
-REJOIGNEZ STAR [(indicatif de la STAR)] [À (point de cheminement)] ;
-
-|
+REJOIGNEZ STAR [(indicatif de la STAR)] [À (point de cheminement)] ; |
 
 ☑
 
@@ -2932,21 +2832,9 @@ REJOIGNEZ STAR [(indicatif de la STAR)] [À (point de cheminement)] ;
 
 |
 
-f) AUTORISÉ APPROCHE (type d’approche) [PISTE (numéro)] ;
+Note.-L'identification de la procédure d'approche aux instruments sur la carte aéronautique est utilisée pour spécifier le type d'approche. Lorsque l'identification utilise un suffixe entre parenthèses pour inclure des conditions exceptionnelles, par exemple (LNAV/ VNAV seulement) ou (AR), le texte figurant entre les parenthèses ne fait pas partie de l'autorisation du contrôle de la circulation aérienne. |
 
-|
-
-☑
-
-|
-
-☐
-
-|
-
-g) AUTORISÉ (type d’approche) PISTE (numéro) SUIVI D’UNE MANŒUVRE À VUE [POUR LA] PISTE (numéro) ;
-
-|
+f) AUTORISÉ APPROCHE (type d'approche) [PISTE (numéro)] ; |
 
 ☑
 
@@ -2956,9 +2844,7 @@ g) AUTORISÉ (type d’approche) PISTE (numéro) SUIVI D’UNE MANŒUVRE À VUE 
 
 |
 
-h) AUTORISÉ APPROCHE [PISTE (numéro)] ;
-
-|
+g) AUTORISÉ (type d'approche) PISTE (numéro) SUIVI D'UNE MANŒUVRE À VUE [POUR LA] PISTE (numéro) ; |
 
 ☑
 
@@ -2968,9 +2854,15 @@ h) AUTORISÉ APPROCHE [PISTE (numéro)] ;
 
 |
 
-i) COMMENCEZ L’APPROCHE À (heure) ;
+h) AUTORISÉ APPROCHE [PISTE (numéro)] ; |
+
+☑
 
 |
+
+☐ |
+
+i) COMMENCEZ L'APPROCHE À (heure) ; |
 
 ☑
 
@@ -2980,17 +2872,11 @@ i) COMMENCEZ L’APPROCHE À (heure) ;
 
 |
 
-* j) DEMANDE APPROCHE DIRECTE [(type d’approche)] [PISTE (numéro)] ;
+* j) DEMANDE APPROCHE DIRECTE [(type d'approche)] [PISTE (numéro)] ; |
 
-|
+* |
 
-*
-
-|
-
-k) AUTORISÉ APPROCHE DIRECTE [(type d’approche)] [PISTE (numéro)] ;
-
-|
+k) AUTORISÉ APPROCHE DIRECTE [(type d'approche)] [PISTE (numéro)] ; |
 
 ☑
 
@@ -3000,9 +2886,15 @@ k) AUTORISÉ APPROCHE DIRECTE [(type d’approche)] [PISTE (numéro)] ;
 
 |
 
-l) RAPPELEZ EN VUE DU SOL ;
+l) RAPPELEZ EN VUE DU SOL ; |
+
+☑
 
 |
+
+☐ |
+
+m) RAPPELEZ PISTE [ou FEUX DE PISTE] EN VUE ; |
 
 ☑
 
@@ -3012,33 +2904,13 @@ l) RAPPELEZ EN VUE DU SOL ;
 
 |
 
-m) RAPPELEZ PISTE [ou FEUX DE PISTE] EN VUE ;
+… lorsqu'un pilote demande une approche à vue |
 
-|
+* n) DEMANDE APPROCHE À VUE ; |
 
-☑
+* |
 
-|
-
-☐
-
-|
-
-… lorsqu’un pilote demande une approche à vue
-
-|
-
-* n) DEMANDE APPROCHE À VUE ;
-
-|
-
-*
-
-|
-
-o) AUTORISE APPROCHE À VUE PISTE (numéro) ;
-
-|
+o) AUTORISE APPROCHE À VUE PISTE (numéro) ; |
 
 ☑
 
@@ -3048,13 +2920,9 @@ o) AUTORISE APPROCHE À VUE PISTE (numéro) ;
 
 |
 
-… pour demander à un pilote s’il peut accepter une approche à vue
+… pour demander à un pilote s'il peut accepter une approche à vue |
 
-|
-
-p) ACCEPTEZ-VOUS APPROCHE À VUE PISTE (numéro) ;
-
-|
+p) ACCEPTEZ-VOUS APPROCHE À VUE PISTE (numéro) ; |
 
 ☑
 
@@ -3064,13 +2932,9 @@ p) ACCEPTEZ-VOUS APPROCHE À VUE PISTE (numéro) ;
 
 |
 
-… dans le cas d’approches à vue successives, lorsque le pilote d’un aéronef qui suit signale qu’il voit l’aéronef qui le précède
+… dans le cas d'approches à vue successives, lorsque le pilote d'un aéronef qui suit signale qu'il voit l'aéronef qui le précède |
 
-|
-
-q) AUTORISÉ APPROCHE À VUE PISTE (numéro), ASSUREZ VOTRE SÉPARATION AVEC (type d’aéronef et catégorie de turbulence de sillage appropriée) [SITUÉ] DEVANT [ATTENTION TURBULENCE DE SILLAGE] ;
-
-|
+q) AUTORISÉ APPROCHE À VUE PISTE (numéro), ASSUREZ VOTRE SÉPARATION AVEC (type d'aéronef et catégorie de turbulence de sillage appropriée) [SITUÉ] DEVANT [ATTENTION TURBULENCE DE SILLAGE] ; |
 
 ☑
 
@@ -3080,9 +2944,15 @@ q) AUTORISÉ APPROCHE À VUE PISTE (numéro), ASSUREZ VOTRE SÉPARATION AVEC (ty
 
 |
 
-r) RAPPELEZ À (point significatif) ; [EN ÉLOIGNEMENT, ou EN RAPPROCHEMENT] ;
+r) RAPPELEZ À (point significatif) ; [EN ÉLOIGNEMENT, ou EN RAPPROCHEMENT] ; |
+
+☑
 
 |
+
+☐ |
+
+s) RAPPELEZ COMMENÇANT VIRAGE CONVENTIONNEL ; |
 
 ☑
 
@@ -3092,29 +2962,11 @@ r) RAPPELEZ À (point significatif) ; [EN ÉLOIGNEMENT, ou EN RAPPROCHEMENT] ;
 
 |
 
-s) RAPPELEZ COMMENÇANT VIRAGE CONVENTIONNEL ;
+* t) DEMANDE DESCENTE [EN] VMC ; |
 
-|
+* |
 
-☑
-
-|
-
-☐
-
-|
-
-* t) DEMANDE DESCENTE [EN] VMC ;
-
-|
-
-*
-
-|
-
-u) ASSUREZ VOTRE SÉPARATION ;
-
-|
+u) ASSUREZ VOTRE SÉPARATION ; |
 
 ☑
 
@@ -3124,41 +2976,25 @@ u) ASSUREZ VOTRE SÉPARATION ;
 
 |
 
-v) RESTEZ [EN] VMC ;
-
-|
+v) RESTEZ [EN] VMC ; |
 
 ☑
 
 |
 
-☐
+☐ |
 
-|
+w) CONNAISSEZ-VOUS LA PROCÉDURE D'APPROCHE (nom) ? |
 
-w) CONNAISSEZ-VOUS LA PROCÉDURE D’APPROCHE (nom) ?
+☑ |
 
-|
+☐ |
 
-☑
+* x) DEMANDE APPROCHE (type d'approche) [PISTE (numéro)] ; |
 
-|
+* |
 
-☐
-
-|
-
-* x) DEMANDE APPROCHE (type d’approche) [PISTE (numéro)] ;
-
-|
-
-*
-
-|
-
-* Indique une communication du pilote.
-
-|
+* Indique une communication du pilote. |
 
 |
 
@@ -6046,33 +5882,25 @@ j) RÉDUISEZ À LA VITESSE MINIMALE EN LISSE ;
 
 |
 
-k) REPRENEZ VITESSE PUBLIÉE
+… instruction de se conformer à la vitesse publiée sur les cartes d'arrivée et de départ |
+
+k) REPRENEZ VITESSE PUBLIÉE |
+
+☑ |
+
+☐ |
 
 |
 
-☑
+l) VITESSE LIBRE. |
 
-|
+☑ |
 
-☐
-
-|
-
-l) VITESSE LIBRE.
-
-|
-
-☑
-
-|
-
-☐
-
-|
+☐ |
 
 * Indique une communication du pilote.
 
-Note.– Il peut être demandé à un aéronef à l’arrivée de maintenir sa vitesse maximale , vitesse minimale en configuration lisse , vitesse minimum ou une vitesse spécifiée. Vitesse minimale en configuration lisse signifie la vitesse minimale à laquelle un aéronef peut voler dans une configuration lisse, c’est-à-dire sans déploiement des dispositifs d’augmentation de la portance, des aérofreins ou du train d’atterrissage.
+Note.-Il peut être demandé à un aéronef à l'arrivée de maintenir sa vitesse maximale, vitesse minimale en configuration lisse, vitesse minimum ou une vitesse spécifiée. Vitesse minimale en configuration lisse signifie la vitesse minimale à laquelle un aéronef peut voler dans une configuration lisse, c'est-à-dire sans déploiement des dispositifs d'augmentation de la portance, des aérofreins ou du train d'atterrissage.
 
 |
 
@@ -7580,9 +7408,9 @@ ADS-C (ou ADS-CONTRAT) HORS SERVICE (renseignements appropriés selon les besoin
 
 5.1.1 PROCÉDURE DE MISE EN ROUTE
 
-|
+(personnel au sol/ équipage) |
 
-a) [ÊTES-VOUS] PRÊT POUR MISE EN ROUTE ?
+a) [ÊTES-VOUS] PRÊT POUR MISE EN ROUTE ? |
 
 |
 
@@ -7592,11 +7420,9 @@ a) [ÊTES-VOUS] PRÊT POUR MISE EN ROUTE ?
 
 * b) MISE EN ROUTE NUMÉRO (numéro (s) de moteur).
 
-Note 1.– A la suite de cet échange, le personnel au sol devrait ou bien répondre sur l’interphone, ou bien adresser un signal visuel distinctif, pour indiquer que tout est en ordre et que la mise en route peut avoir lieu comme prévu.
+Note 1.-A la suite de cet échange, le personnel au sol devrait ou bien répondre sur l'interphone, ou bien adresser un signal visuel distinctif, pour indiquer que tout est en ordre et que la mise en route peut avoir lieu comme prévu.
 
-Note 2.– Une identification sans équivoque des parties intéressées est indispensable dans toute communication entre le personnel au sol et les pilotes.
-
-|
+Note 2.-Une identification sans équivoque des parties intéressées est indispensable dans toute communication entre le personnel au sol et les pilotes. |
 
 |
 
@@ -7604,11 +7430,7 @@ Note 2.– Une identification sans équivoque des parties intéressées est indi
 
 |
 
-|
-
-* Indique une communication du pilote.
-
-|
+* Indique une communication du pilote. |
 
 |
 
@@ -7719,6 +7541,154 @@ Note.– Cet échange est suivi d’un signal visuel adressé au pilote pour lui
 |
 
 * Indique une communication du pilote.
+
+|
+
+|
+
+|
+
+5.2 OPÉRATIONS DE DÉGIVRAGE/ ANTIGIVRAGE |
+
+|
+
+|
+
+|
+
+5.2.1 AVANT LE DÉGIVRAGE/ ANTIGIVRAGE
+
+(PERSONNEL AU SOL (ICEMAN)/ ÉQUIPAGE DE CONDUITE) |
+
+a) EN ATTENTE POUR DÉGIVRAGE. CONFIRMEZ FREINS SERRÉS ET TRAITEMENT NÉCESSAIRE ; |
+
+|
+
+|
+
+*b) [AFFIRME] FREINS SERRÉS, DEMANDE (type de traitement de dégivrage/ antigivrage) ; |
+
+|
+
+|
+
+… confirmation de la configuration de l'aéronef |
+
+c) MAINTENEZ POSITION ET CONFIRMEZ AÉRONEF CONFIGURÉ ; |
+
+|
+
+|
+
+*d) [AFFIRME] AÉRONEF CONFIGURÉ, PRÊT POUR DÉGIVRAGE ; |
+
+|
+
+|
+
+e) LE DÉGIVRAGE COMMENCE MAINTENANT. |
+
+|
+
+|
+
+* Indique une communication du pilote. |
+
+|
+
+|
+
+5.2.2 À LA FIN DE LA PROCÉDURE DE DÉGIVRAGE/ ANTIGIVRAGE |
+
+|
+
+|
+
+|
+
+… dégivrage |
+
+a) DÉGIVRAGE (zones traitées) TERMINÉ. INDIQUEZ QUAND VOUS ÊTES PRÊT POUR INFORMATION ; |
+
+|
+
+|
+
+b) TYPE DE FLUIDE (p. ex. Type I, II, III, IV) ; |
+
+|
+
+|
+
+c) LE TEMPS D'ATTENTE A COMMENCÉ À (heure) ; |
+
+|
+
+|
+
+d) CODE ANTIGIVRAGE (code antigivrage approprié) ; |
+
+|
+
+|
+
+… dégivrage/ antigivrage en deux étapes |
+
+Note.-Exemple de code antigivrage :
+
+Une procédure de dégivrage/ antigivrage dont la dernière étape est l'utilisation d'un mélange de 75 % d'un fluide de Type II et de 25 % d'eau, commençant à 13h35 heure locale, est enregistrée comme suit :
+
+TYPE II/75 13 : 35 (suivi du nom complet du fluide antigivrage) |
+
+|
+
+|
+
+e) L'ÉTAPE FINALE A COMMENCÉ À (heure) ; |
+
+|
+
+|
+
+… dégivrage/ antigivrage terminé |
+
+f) VÉRIFICATION APRÈS DÉGIVRAGE TERMINÉE ; |
+
+|
+
+|
+
+g) PERSONNEL ET ÉQUIPEMENT ÉLOIGNÉS DE L'AÉRONEF. |
+
+|
+
+|
+
+5.2.3 SITUATIONS ANORMALES |
+
+|
+
+|
+
+|
+
+… activation du capteur de proximité du gicleur |
+
+a) SIGNALONS ACTIVATION CAPTEUR DE PROXIMITÉ DU GICLEUR SUR (point significatif sur l'aéronef) [ZÉRO DOMMAGE VISIBLE ou DOMMAGE (description du dommage) OBSERVÉ] [INDIQUEZ INTENTIONS] ; |
+
+|
+
+|
+
+… autre aéronef en situation d'urgence sur la plate-forme de dégivrage |
+
+b) URGENCE PLATE-FORME DE DÉGIVRAGE (numéro de la plate-forme) [COUPEZ MOTEURS ou ATTENDEZ NOUVELLES INSTRUCTIONS]. |
+
+|
+
+|
+
+|
 
 |
 
@@ -7861,7 +7831,3 @@ g) IMPOSSIBLE D’APPROUVER L’AUTORISATION DE MISE EN ROUTE CAUSE CRÉNEAU (he
 |
 
 .
-
-NOTA :
-
-Conformément à l'article 7 de l'arrêté du 13 mars 2023 (NOR : TREA2227700A), ces dispositions entrent en vigueur le 1er juillet 2023.

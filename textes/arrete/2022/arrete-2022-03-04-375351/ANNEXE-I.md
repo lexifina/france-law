@@ -88,45 +88,7 @@ Lorsqu'un organisme des services de la circulation aérienne équipé d'un syst�
 
 Ce système fonctionne sur la fréquence d'appel de l'organisme publiée par la voie de l'information aéronautique.
 
-3. Interruption des communications air-sol due à une panne de l'équipement de bord
-
-a) Lorsqu'un organisme du contrôle de la circulation aérienne n'est pas en mesure de maintenir des communications bilatérales avec un aéronef évoluant dans un espace aérien contrôlé, il prend les dispositions ci-après ;
-
-b) Dès qu'un organisme du contrôle de la circulation aérienne a connaissance d'une interruption des communications bilatérales, il prend des dispositions en vue de déterminer si l'aéronef peut recevoir ses transmissions en lui demandant d'exécuter une manœuvre spécifiée qui peut être observée par un système de surveillance ATS ou de transmettre, si possible, un signal spécifié qui constitue un accusé de réception ;
-
-c) Si l'aéronef n'indique pas qu'il est en mesure de recevoir les transmissions et d'en accuser réception, les mesures prises pour assurer la séparation entre cet aéronef et les autres sont fondées sur l'hypothèse que l'aéronef suit les procédures d'interruption des communications radio définies à la partie 8 de l'annexe I de l'arrêté du 11 décembre 2014 relatif à la mise en œuvre du règlement d'exécution (UE) n° 923/2012 susvisé ;
-
-d) Les mesures prises pour assurer la séparation cessent d'être fondées sur l'hypothèse mentionnée à l'alinéa c ci-dessus dans les cas suivants :
-
-- s'il est établi que l'aéronef suit une procédure différente de celle mentionnée à l'alinéa c ci-dessus ;
-
-- si, à l'aide d'installations radioélectriques ou autres, les organismes du contrôle de la circulation aérienne établissent que des dispositions différentes de celles mentionnées à l'alinéa c ci-dessus peuvent être prises sans compromettre la sécurité ;
-
-- si les renseignements reçus établissent avec certitude que l'aéronef a atterri ;
-
-e) Dès qu'un organisme du contrôle de la circulation aérienne a connaissance d'une interruption des communications bilatérales, il diffuse sans accusé de réception les renseignements nécessaires sur les dispositions prises ou les instructions justifiées par toute situation d'urgence, à l'intention de l'aéronef intéressé, sur les fréquences disponibles sur lesquelles il est supposé que l'aéronef garde l'écoute et, notamment, sur les fréquences vocales des aides de radionavigation ou des aides d'approche disponibles. Des renseignements sont également communiqués sur :
-
-- les conditions météorologiques favorables à une percée dans les zones où l'encombrement de la circulation peut être évité ;
-
-- les conditions météorologiques sur les aérodromes appropriés ;
-
-f) Des renseignements appropriés sont communiqués aux aéronefs se trouvant au voisinage de la position présumée de l'aéronef subissant une interruption de communications ;
-
-g) Dès qu'un organisme de contrôle de la circulation aérienne apprend qu'un aéronef évoluant dans sa zone de responsabilité est en panne apparente de radiocommunications, il transmet des renseignements sur cette interruption des communications à tous les organismes intéressés des services de la circulation aérienne le long de la route de l'aéronef. Le centre de contrôle régional de la région où se trouve l'aérodrome de destination prend des dispositions afin d'obtenir des renseignements sur les aérodromes de dégagement ainsi que tout autre renseignement utile indiqué au plan de vol déposé ;
-
-h) Lorsqu'un aéronef contrôlé en panne de communications se dirige vers l'un des aérodromes de dégagement indiqués dans le plan de vol déposé, les organismes de contrôle de la circulation aérienne desservant les aérodromes de dégagement et tous les autres organismes de contrôle de la circulation aérienne susceptibles d'être intéressés par un déroutement éventuel sont avisés des conditions dans lesquelles s'est produite l'interruption des communications et s'efforcent d'entrer en communication avec l'aéronef quand ce dernier est susceptible de se trouver à portée des communications. Cette mesure s'applique en particulier lorsque, en vertu d'un accord avec l'exploitant ou avec son représentant désigné, l'aéronef intéressé a reçu l'autorisation, sans accusé de réception, de se rendre à un aérodrome de dégagement, lorsque les conditions météorologiques à l'aérodrome d'atterrissage prévu sont telles qu'un déroutement vers un aérodrome de dégagement est considéré comme probable ;
-
-i) Lorsqu'un organisme de contrôle de la circulation aérienne est avisé qu'un aéronef, après avoir subi une interruption de communications, a pu les rétablir ou a atterri, il informe l'organisme de contrôle de la circulation aérienne dans la zone de responsabilité duquel se trouvait l'aéronef au moment où l'interruption s'est produite, ainsi que les autres organismes des services de la circulation aérienne intéressés sur la route de cet aéronef ; il donne les indications nécessaires dans le cadre du service du contrôle si l'aéronef poursuit son vol ;
-
-j) Si l'aéronef n'a pas rendu compte dans les trente minutes qui ont suivi la plus tardive des heures ci-après :
-
-- heure d'arrivée prévue communiquée par l'aéronef ;
-
-- heure d'arrivée prévue calculée par le centre de contrôle régional ;
-
-- dernière heure d'approche prévue dont il a été accusé réception,
-
-les renseignements nécessaires sur l'aéronef sont communiqués aux exploitants, ou à leur représentant désigné et aux pilotes commandants de bord des aéronefs intéressés, et le contrôle normal est rétabli, s'ils le souhaitent. Il revient alors aux exploitants ou à leur représentant désigné et aux pilotes commandants de bord des aéronefs intéressés de déterminer s'ils reprennent leurs opérations normales ou s'ils prennent d'autres dispositions.
+3. (réservé)
 
 4. Services de surveillance dépendante automatique en mode contrat (ADS-C)
 
