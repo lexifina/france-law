@@ -422,6 +422,8 @@ Les critères suivants doivent conduire à un classement “ non satisfaisant �
 
 6) Un écart est relevé entre les équipements et matériaux mis en place et le scénario retenu de l'audit énergétique ou les factures des travaux en quantité et en qualité (performances thermiques et énergétiques) ;
 
+NB.-L'audit énergétique peut être complété par l'attestation définie à l'article 4 de l'arrêté du 13 août 2025 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au diagnostic de performance énergétique. Dans ce cas, les classes du logement avant et après travaux mentionnées sur l'attestation se substituent à celles de l'audit, pour un même scénario de travaux.
+
 7) Des non-qualités au regard des référentiels de contrôle ou des non-qualités manifestes sont relevées, susceptibles, notamment, de remettre en cause la classe du bâtiment rénové, la pérennité des travaux ou les émissions annuelles de gaz à effet de serre après rénovation, ou susceptibles de remettre en cause la sécurité des installations ou l'usage normal des lieux ; à cette fin, l'organisme d'inspection se fonde, le cas échéant, sur les listes des éléments à contrôler de la présente annexe III correspondant aux travaux réalisés geste par geste, à l'exception des parties A. 1.1, B. 1.1.1, C. I. A, D. I. A et F. I. A.
 
 E ter. Fiche d'opération standardisée BAR-TH-177 " Rénovation globale d'un bâtiment résidentiel collectif (France métropolitaine) " :
@@ -447,6 +449,8 @@ Les critères suivants doivent conduire à un classement " non satisfaisant " de
 5) L'audit énergétique retranche des consommations conventionnelles d'énergies primaire ou finale la production d'électricité autoconsommée ou exportée ;
 
 6) L'audit énergétique prend en compte des installations de chauffage qui ne sont pas fixes.
+
+NB.-L'audit énergétique peut être complété par l'attestation définie à l'article 4 de l'arrêté du 13 août 2025 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au diagnostic de performance énergétique. Dans ce cas, les classes du logement avant et après travaux mentionnées sur l'attestation se substituent à celles de l'audit, pour un même scénario de travaux.
 
 E ter.I.2. Dans le cas où l'opération s'inscrit dans le cadre du Coup de pouce " Rénovation performante de bâtiment résidentiel collectif ", l'organisme d'inspection identifie, dans le rapport d'audit, les scénarios de travaux qui satisfont aux critères du Coup de pouce sur la base des critères suivants, et donne un avis " non satisfaisant " dès lors qu'aucun scénario de travaux ne satisfait à ces critères :
 
@@ -2322,6 +2326,4 @@ Si au moins l'un des identifiants des vélos-cargos n'est pas inscrit au fichier
 
 NOTA :
 
-Conformément à l'article 5 de l'arrêté du 15 décembre 2025 (NOR : ECOR2532411A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er janvier 2026 et s'appliquent aux opérations engagées à compter de cette date.
-
-Les dispositions des fiches d'opérations standardisées BAR-TH-171 et BAR-TH-172, dans leur version en vigueur au 1er octobre 2025, s'appliquent aux opérations incluses dans une liste transmise, au plus tard le 15 janvier 2026, par le demandeur de certificats au ministre chargé de l'énergie, suivant un modèle établi par la direction générale de l'énergie et du climat (DGEC) et mis à disposition sur le site internet du ministère.
+Conformément à l'article 5 de l'arrêté du 6 janvier 2026 (NOR : ECOR2600569A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le lendemain de la date de publication de l'arrêté précité, soit le 17 janvier 2026, et s'appliquent aux opérations engagées à compter de cette date.

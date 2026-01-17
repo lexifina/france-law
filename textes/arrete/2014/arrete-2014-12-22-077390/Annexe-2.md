@@ -2432,6 +2432,8 @@ Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : ECOR24353
 
 CERTIFICATS D'ÉCONOMIES D'ÉNERGIE
 
+CERTIFICATS D'ÉCONOMIES D'ÉNERGIE
+
 Opération n° BAR-TH-174
 
 Rénovation d'ampleur d'une maison individuelle (France métropolitaine) |
@@ -2444,19 +2446,19 @@ Maison individuelle existante en France métropolitaine.
 
 Rénovation thermique d'ampleur d'une maison individuelle existante.
 
-Cette opération n'est pas cumulable avec d'autres opérations relevant d'autres fiches et ayant une date d'engagement égale ou posterieure à la présente opération, pouvant donner lieu à la délivrance de certificats d'économies d'énergie pour des travaux concernant le chauffage ou sa régulation, la production d'eau chaude sanitaire, la ventilation, l'isolation de l'enveloppe de la maison, l'isolation du réseau hydraulique de chauffage ou d'eau chaude sanitaire ou les systèmes d'automatisation et de contrôle du bâtiment dès lors que ces travaux sont valorisés au titre de la présente fiche.
+Cette opération n'est pas cumulable avec d'autres opérations relevant d'autres fiches et ayant une date d'engagement égale ou postérieure à la présente opération, pouvant donner lieu à la délivrance de certificats d'économies d'énergie pour des travaux concernant le chauffage ou sa régulation, la production d'eau chaude sanitaire, la ventilation, l'isolation de l'enveloppe de la maison, l'isolation du réseau hydraulique de chauffage ou d'eau chaude sanitaire ou les systèmes d'automatisation et de contrôle du bâtiment dès lors que ces travaux sont valorisés au titre de la présente fiche.
 
 La présente fiche est cumulable avec elle-même, pour un même logement et un même bénéficiaire, lors d'une seconde étape de travaux, selon les conditions définies ci-dessous.
 
-Le terme classe fait référence aux classes telles qu'elles sont définies à l'article L. 173-1-1 du code de la construction et de l'habitation.
+Le terme " classe " fait référence aux classes telles qu'elles sont définies à l'article L. 173-1-1 du code de la construction et de l'habitation.
 
-La présente fiche est abrogée à compter du 1er janvier 2029.
+La présente fiche s'applique aux opérations engagées jusqu'au 31 décembre 2030.
 
 3. Conditions pour la délivrance de certificats
 
-Pour chaque catégorie de travaux intégrée dans le projet de rénovation d'ampleur et mentionnée aux 1° à 16° du I de l'article 1er du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts, le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l'article 2 du même décret et dans les textes pris pour son application. Ce signe de qualité correspond à des travaux relevant soit du 17° du I de l'article 1er du décret précité, soit de l'une des catégories mentionnées aux 1° à 16° du I du même décret correspondant aux travaux réalisés.
+Pour chaque catégorie de travaux intégrée dans le projet de rénovation d'ampleur et mentionnée aux 1° à 16° du I de l'article 1 er du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts, le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l'article 2 du même décret et dans les textes pris pour son application. Ce signe de qualité correspond à des travaux relevant soit du 17° du I de l'article 1 er du décret précité, soit de l'une des catégories mentionnées aux 1° à 16° du I du même décret correspondant aux travaux réalisés.
 
-Est réalisé préalablement aux travaux un audit énergétique tel que défini à l'article 8 de l'arrêté du 17 novembre 2020 relatif aux caractéristiques techniques et modalités de réalisation des travaux et prestations dont les dépenses sont éligibles à la prime de transition énergétique. Il est établi par une personne répondant aux conditions mentionnées au VII de l'article 2 du décret du 14 janvier 2020 relatif à la prime de transition énergétique.
+Est réalisé préalablement aux travaux un audit énergétique tel que défini à l'article 8 de l'arrêté du 17 novembre 2020 relatif aux caractéristiques techniques et modalités de réalisation des travaux et prestations dont les dépenses sont éligibles à la prime de transition énergétique. Il est établi par une personne répondant aux conditions mentionnées au VII de l'article 2 du décret du 14 janvier 2020 relatif à la prime de transition énergétique. L'audit énergétique peut être complété par l'attestation définie à l'article 4 de l'arrêté du 13 août 2025 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au diagnostic de performance énergétique. Dans ce cas, les classes du logement avant et après travaux mentionnées sur l'attestation se substituent à celles de l'audit, pour un même scénario de travaux.
 
 Par dérogation, pour les dossiers déposés jusqu'au 31 décembre 2025 auprès de l'agence mentionnée à l'article L. 321-1 du code de la construction et de l'habitation, une évaluation énergétique, réalisée dans le cadre des conventions d'opérations programmées d'amélioration de l'habitat au sens de l'article L. 303-1 du code de la construction de l'habitation adoptées par délibération jusqu'au 31 décembre 2023 inclus ou des programmes d'intérêt général d'amélioration de l'habitat au sens de l'article R. 327-1 du même code, avec la méthodologie 3CL-DPE 2021 ou une méthodologie recevable dans le cadre des audits définis à l'article 8 de l'arrêté du 17 novembre 2020, est réputée satisfaire aux exigences susmentionnées relatives au contenu de l'audit énergétique et aux compétences des auditeurs.
 
@@ -2472,17 +2474,17 @@ b) Au moins deux postes de travaux traitant l'enveloppe du bâtiment sont mis en
 
 c) Sauf contrainte technique, architecturale ou patrimoniale justifiée, la résistance thermique de l'isolation installée est supérieure ou égale à :
 
-- 7 m2.K/W en planchers de combles perdus ;
+-7 m 2. K/ W en planchers de combles perdus ;
 
-- 6 m2.K/W en rampant de toiture ;
+-6 m 2. K/ W en rampant de toiture ;
 
-- 6,5 m2.K/W pour les toitures terrasses ;
+-6,5 m 2. K/ W pour les toitures terrasses ;
 
-- 3,7 m2.K/W pour les murs en façade ou en pignon, en cas d'isolation par l'intérieur ;
+-3,7 m 2. K/ W pour les murs en façade ou en pignon, en cas d'isolation par l'intérieur ;
 
-- 4,4 m2.K/W pour les murs en façade ou en pignon, en cas d'isolation par l'extérieur ;
+-4,4 m 2. K/ W pour les murs en façade ou en pignon, en cas d'isolation par l'extérieur ;
 
-- 3 m2.K/W en plancher bas.
+-3 m 2. K/ W en plancher bas.
 
 La résistance thermique est évaluée selon la norme NF EN 12664, la norme NF EN 12667 ou la norme NF EN 12939 pour les isolants non réfléchissants et selon la norme NF EN ISO 22097 pour les isolants réfléchissants. La présente fiche respecte, de plus, les dispositions de l'article 2 bis de l'arrêté du 22 décembre 2014 définissant les opérations standardisées d'économies d'énergie.
 
@@ -2490,33 +2492,37 @@ La résistance thermique des isolants bio-sourcés peut être calculée conform�
 
 d) Sauf contrainte technique, architecturale ou patrimoniale justifiée, le coefficient de transmission surfacique Uw et le facteur solaire Sw des fenêtres ou portes-fenêtres sont :
 
-- pour les fenêtres de toiture : Uw ≤ 1,5 W/m2.K et Sw ≤ 0,36 ;
+-pour les fenêtres de toiture : Uw ≤ 1,5 W/ m 2. K et Sw ≤ 0,36 ;
 
-- pour les autres fenêtres ou portes-fenêtres :
+-pour les autres fenêtres ou portes-fenêtres :
 
-- Uw ≤ 1,3 W/m2.K et Sw ≥ 0,3 ;
+-Uw ≤ 1,3 W/ m 2. K et Sw ≥ 0,3 ; ou
 
-- ou Uw ≤ 1,7 W/m2.K et Sw ≥ 0,36 ;
+-Uw ≤ 1,7 W/ m 2. K et Sw ≥ 0,36 ;
 
-e) L'installation, le cas échéant, d'une double fenêtre consiste en la pose, sur la baie existante, d'une seconde fenêtre à double vitrage renforcé, dont le coefficient de transmission thermique (Uw) est inférieur ou égal à 1,8 W/m2.K et le facteur de transmission solaire (Sw) supérieur ou égal à 0,32.
+e) L'installation, le cas échéant, d'une double fenêtre consiste en la pose, sur la baie existante, d'une seconde fenêtre à double vitrage renforcé, dont le coefficient de transmission thermique (Uw) est inférieur ou égal à 1,8 W/ m 2. K et le facteur de transmission solaire (Sw) supérieur ou égal à 0,32.
 
-e) Quelle que soit l'étape de travaux, les conditions cumulatives suivantes sont respectées :
+Quelle que soit l'étape de travaux, les conditions cumulatives suivantes sont respectées :
 
-f) Les travaux de rénovation n'intègrent pas l'installation d'un système de chauffage ou de production d'eau chaude sanitaire qui inclut au moins un équipement pour lequel le niveau d'émissions de gaz à effet de serre est supérieur à 150 gCO2eq/kWh PCI, et dont le taux de couverture pour le chauffage, défini comme le rapport entre la quantité de chaleur fournie, pour le chauffage du logement, par l'ensemble des équipements dont les émissions sont supérieures à 150 gCO2eq/kWh PCI et les besoins annuels de chaleur, pour le chauffage du logement, couverts par le système est supérieur à 30 % ;
+f) Les travaux de rénovation n'intègrent pas l'installation d'un système de chauffage ou de production d'eau chaude sanitaire qui inclut au moins un équipement pour lequel le niveau d'émissions de gaz à effet de serre est supérieur à 150 gCO 2 eq/ kWh PCI, et dont le taux de couverture pour le chauffage, défini comme le rapport entre la quantité de chaleur fournie, pour le chauffage du logement, par l'ensemble des équipements dont les émissions sont supérieures à 150 gCO 2 eq/ kWh PCI et les besoins annuels de chaleur, pour le chauffage du logement, couverts par le système est supérieur à 30 % ;
 
-g) Il est interdit de conserver un système de chauffage ou de production d'eau chaude sanitaire qui inclut au moins un équipement pour lequel le niveau d'émissions de gaz à effet de serre est supérieur à 300 gCO2eq/kWh PCI, et dont le taux de couverture, défini comme le rapport entre la quantité d'énergie fournie par l'ensemble des équipements dont les émissions sont supérieures à 300 gCO2eq/kWh PCI et les besoins annuels de chaleur couverts par le système est supérieur à 30 % ;
+g) Il est interdit de conserver un système de chauffage ou de production d'eau chaude sanitaire qui inclut au moins un équipement pour lequel le niveau d'émissions de gaz à effet de serre est supérieur à 300 gCO 2 eq/ kWh PCI, et dont le taux de couverture, défini comme le rapport entre la quantité d'énergie fournie par l'ensemble des équipements dont les émissions sont supérieures à 300 gCO 2 eq/ kWh PCI et les besoins annuels de chaleur couverts par le système est supérieur à 30 %.
 
-h) Les émissions annuelles de gaz à effet de serre après rénovation, rapportées à la surface habitable de la maison, sont inférieures ou égales à la valeur initiale de ces émissions avant travaux ;
-
-i) Pour les opérations basées sur un audit réalisé à compter du 1er avril 2024, si l'une des étapes ou le cumul de la première et de la seconde étape conduit à un saut d'au moins quatre classes au sens de l'article L. 173-1-1 du code de la construction et de l'habitation, les travaux de l'étape aboutissant à un saut d'au moins quatre classes respectent le critère relatif aux déperditions thermiques défini par l'article 3 de l'arrêté du 3 octobre 2023 relatif au contenu et aux conditions d'attribution du label prévu à l'article R. 171-7 du code de la construction et de l'habitation.
+Les émissions annuelles de gaz à effet de serre après rénovation, rapportées à la surface habitable de la maison, sont inférieures ou égales à la valeur initiale de ces émissions avant travaux.
 
 Dans le cas de travaux en deux étapes, la seconde étape de travaux permet d'atteindre au moins la classe C pour les logements de classe F ou G avant la première étape de travaux, et au moins la classe B pour les logements de classe E avant la première étape de travaux.
 
 Les travaux en deux étapes ne sont possibles que si la première étape de travaux correspond à un saut d'au plus 3 classes.
 
-Hors l'agence mentionnée à l'article L. 321-1 du code de la construction et de l'habitation, un demandeur de certificats d'économies d'énergie ne peut assurer le rôle actif et incitatif mentionné à l'article R. 221-22 du code de l'énergie que dans les cas où le bénéficiaire et le logement ne vérifient pas les conditions d'éligibilité à la prime au titre de la dépense éligible mentionnée au 15 de l'annexe 1 du décret n° 2020-26 du 14 janvier 2020 relatif à la prime de transition énergétique.
+Hors l'agence mentionnée à l'article L. 321-1 du code de la construction et de l'habitation, un demandeur de certificats d'économies d'énergie ne peut assurer le rôle actif et incitatif mentionné à l'article R. 221-22 du code de l'énergie lorsque le bénéficiaire et le logement vérifient les conditions d'éligibilité :
 
-La date d'engagement de l'opération est, pour les bénéficiaires susmentionnés, la date de notification de la décision d'octroi de l'aide par l'agence.
+-à la prime de transition énergétique au titre de la dépense mentionnée au 15 de l'annexe 1 du décret n° 2020-26 du 14 janvier 2020 relatif à la prime de transition énergétique ; ou
+
+-aux aides à la rénovation énergétique d'ampleur de logements destinées aux bénéficiaires visés aux 1° à 3° du I de l'article R. 321-12 du code de la construction et de l'habitation.
+
+Un demandeur de certificats d'économies d'énergie ne peut assurer le rôle actif et incitatif mentionné à l'article R. 221-22 du code de l'énergie lorsque le bénéficiaire de l'opération est le locataire ou l'occupant à titre gratuit du logement.
+
+Lorsque le demandeur est l'agence mentionnée à l'article L. 321-1 du code de la construction et de l'habitation, la date d'engagement de l'opération est la date de notification de la décision d'octroi de l'aide aux bénéficiaires par l'agence.
 
 Les travaux mis en œuvre correspondent à l'un des scénarios proposés par l'audit énergétique, qui doit notamment prévoir les travaux complémentaires permettant de garantir un renouvellement suffisant de l'air, en application du 1° du IV de l'article 2 de l'arrêté du 4 mai 2022.
 
@@ -2524,35 +2530,37 @@ La preuve de réalisation de l'opération mentionne la liste des travaux réalis
 
 Les documents justificatifs spécifiques à l'opération sont :
 
-- le rapport de synthèse de l'audit énergétique, ainsi que sa mise à jour éventuelle, précisant les données de consommations conventionnelles en énergie primaire et en énergie finale (sans déduction de la production d'électricité autoconsommée ou exportée), avant et après travaux ainsi que les classes du bâtiment avant et après travaux et les quantités annuelles de gaz à effet de serre émis dans l'atmosphère avant et après travaux du fait de la quantité d'énergie consommée, rapportés à la surface de la maison. Ce rapport précise le nom du logiciel de calcul utilisé dans le cadre de l'opération et son numéro de version ;
+-le rapport de synthèse de l'audit énergétique, ainsi que sa mise à jour éventuelle, précisant les données de consommations conventionnelles en énergie primaire et en énergie finale (sans déduction de la production d'électricité autoconsommée ou exportée), avant et après travaux ainsi que les classes du bâtiment avant et après travaux et les quantités annuelles de gaz à effet de serre émis dans l'atmosphère avant et après travaux du fait de la quantité d'énergie consommée, rapportés à la surface de la maison. Ce rapport précise le nom du logiciel de calcul utilisé dans le cadre de l'opération et son numéro de version. L'audit énergétique est complété, le cas échéant, par l'attestation définie à l'article 4 de l'arrêté du 13 août 2025 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au diagnostic de performance énergétique ;
 
-- la liste des travaux préconisés avec leurs niveaux de performance et la correspondance avec la liste des travaux réalisés, datée et signée par le bénéficiaire, le professionnel ayant réalisé l'audit énergétique, permettant d'atteindre les performances énergétiques requises ;
+-la liste des travaux préconisés avec leurs niveaux de performance et la correspondance avec la liste des travaux réalisés, datée et signée par le bénéficiaire, le professionnel ayant réalisé l'audit énergétique, permettant d'atteindre les performances énergétiques requises ;
 
-- la liste des entreprises ayant effectué les travaux de rénovation en indiquant la nature de ces travaux et la référence de leur qualification ou certification lorsque celle-ci est requise.
+-la liste des entreprises ayant effectué les travaux de rénovation en indiquant la nature de ces travaux et la référence de leur qualification ou certification lorsque celle-ci est requise ;
+
+-hors le cas où le demandeur de certificats est l'agence mentionnée à l'article L. 321-1 du code de la construction et de l'habitation, un justificatif de propriété du bénéficiaire de l'opération (taxe foncière, acte de propriété (ou titre de propriété), attestation de propriété immobilière) ou le cas échéant, le compromis de vente signé par le vendeur et l'acquéreur.
 
 Lorsque les travaux mis en œuvre diffèrent des travaux préconisés, l'audit énergétique est mis à jour sur la base des travaux effectivement réalisés.
 
 Le rapport de synthèse de l'audit énergétique, ainsi que sa mise à jour éventuelle, sont datés et signés par le prestataire les ayant réalisés. Ils comportent les mentions des valeurs suivantes :
 
-- la consommation conventionnelle (en kWh/m2.an) du bâtiment (sans déduction de la production d'électricité autoconsommée ou exportée), en précisant les usages considérés :
+-la consommation conventionnelle (en kWh/ m 2. an) du bâtiment (sans déduction de la production d'électricité autoconsommée ou exportée), en précisant les usages considérés :
 
-- d'énergie primaire, avant les travaux de rénovation : Cep initial ;
+-d'énergie primaire, avant les travaux de rénovation : Cep initial ;
 
-- d'énergie primaire, après les travaux de rénovation : Cep projet ;
+-d'énergie primaire, après les travaux de rénovation : Cep projet ;
 
-- d'énergie finale, avant les travaux de rénovation : Cef initial ;
+-d'énergie finale, avant les travaux de rénovation : Cef initial ;
 
-- d'énergie finale, après les travaux de rénovation : Cef projet ;
+-d'énergie finale, après les travaux de rénovation : Cef projet ;
 
-- le rejet de CO2 exprimé en kgeqCO2/m2.an, avant les travaux de rénovation ;
+-le rejet de CO 2 exprimé en kgeqCO 2/ m 2. an, avant les travaux de rénovation ;
 
-- le rejet de CO2 exprimé en kgeqCO2/m2.an, après les travaux de rénovation ;
+-le rejet de CO 2 exprimé en kgeqCO 2/ m 2. an, après les travaux de rénovation ;
 
-- la classe avant les travaux de rénovation ;
+-la classe avant les travaux de rénovation ;
 
-- la classe après les travaux de rénovation ;
+-la classe après les travaux de rénovation ;
 
-- la surface habitable du bâtiment avant les travaux de la première ou l'unique étape de travaux, exprimée en m2 : Shab.
+-la surface habitable du bâtiment avant les travaux de la première ou l'unique étape de travaux, exprimée en m 2 : S hab.
 
 4. Durée de vie conventionnelle
 
@@ -2566,11 +2574,15 @@ Montant unitaire en kWh cumac |
 
 |
 
-Facteur correctif selon la surface habitable Shab
+Facteur correctif
+
+selon la surface habitable S hab
 
 |
 
-Surface habitable Shab en m2
+Surface habitable S hab
+
+en m 2
 
 |
 
@@ -2582,7 +2594,7 @@ Surface habitable Shab en m2
 
 0,4 |
 
-Shab < 35 |
+S hab < 35 |
 
 3 |
 
@@ -2592,7 +2604,7 @@ Shab < 35 |
 
 0,5 |
 
-35 ≤ Shab < 60 |
+35 ≤ S hab < 60 |
 
 4 ou plus |
 
@@ -2602,7 +2614,7 @@ Shab < 35 |
 
 0,8 |
 
-60 ≤ Shab < 90 |
+60 ≤ S hab < 90 |
 
 |
 
@@ -2612,7 +2624,7 @@ Shab < 35 |
 
 1 |
 
-90 ≤ Shab < 110 |
+90 ≤ S hab < 110 |
 
 |
 
@@ -2622,7 +2634,7 @@ Shab < 35 |
 
 1,2 |
 
-110 ≤ Shab ≤ 130 |
+110 ≤ S hab ≤ 130 |
 
 |
 
@@ -2632,7 +2644,7 @@ Shab < 35 |
 
 1,3 |
 
-130 < Shab
+130 < S hab
 
 |
 
@@ -2640,11 +2652,11 @@ Pour la première ou l'unique étape de travaux, le nombre de sauts de classe co
 
 Pour les travaux de la seconde étape, le montant de certificats d'économies d'énergie attribué lors de la seconde étape correspond au montant de certificats d'économies d'énergie correspondant à la somme des sauts de classes des première et seconde étapes auquel est soustrait le montant de certificats d'économies d'énergie correspondant au nombre de sauts de classes de la première étape.
 
-Shab est la surface habitable (exprimée en m2) de la maison avant les travaux de la première ou l'unique étape de travaux.
+S hab est la surface habitable (exprimée en m 2) de la maison avant les travaux de la première ou l'unique étape de travaux.
 
-Annexe 1 à la fiche d'opération standardisée BAR-TH-174, définissant le contenu de la partie A de l'attestation sur l'honneur
+Annexe 1 à la fiche d'opération standardisée BAR-TH-174 définissant le contenu de la partie A de l'attestation sur l'honneur
 
-A/ BAR-TH-174 (v. A70.2) : Rénovation thermique d'ampleur d'une maison individuelle existante
+A/ BAR-TH-174 (v. A80.3) : Rénovation thermique d'ampleur d'une maison individuelle existante
 
 * Date d'engagement de l'opération (ex : acceptation du devis) : //
 
@@ -2662,45 +2674,45 @@ Complément d'adresse :
 
 * Ville :
 
-* Maison individuelle existant depuis plus de 2 ans à la date d'engagement de l'opération : □ OUI □ NON
+* Maison individuelle existant depuis plus de 2 ans à la date d'engagement de l'opération : □ Oui □ Non
 
-* Maison individuelle existante depuis moins de 15 ans à la date d'engagement de l'opération : □ OUI □ NON
+* Maison individuelle existante depuis moins de 15 ans à la date d'engagement de l'opération : □ Oui □ Non
 
-* Le bénéficiaire et le logement vérifient les conditions d'éligibilité à la prime au titre de la dépense éligible mentionnée au 15 de l'annexe 1 du décret n° 2020-26 du 14 janvier 2020 relatif à la prime de transition énergétique : □ OUI □ NON
+* Le bénéficiaire et le logement vérifient les conditions d'éligibilité :
 
-* Les travaux correspondent à la seconde étape de travaux : □ OUI □ NON
+- à la prime de transition énergétique au titre de la dépense mentionnée au 15 de l'annexe 1 du décret n° 2020-26 du 14 janvier 2020 relatif à la prime de transition énergétique : □ Oui □ Non
+
+- aux aides à la rénovation énergétique d'ampleur de logements destinées aux bénéficiaires visés aux 1° à 3° du I de l'article R. 321-12 du code de la construction et de l'habitation : □ Oui □ Non
+
+* Le logement est occupé à titre de résidence principale : □ Oui □ Non
+
+* Le bénéficiaire de l'opération est le locataire ou l'occupant à titre gratuit du logement : □ Oui □ Non
+
+* Les travaux correspondent à la seconde étape de travaux : □ Oui □ Non
 
 * Surface habitable de la maison avant travaux Shab (m2) :
 
-Caractéristiques du bâtiment données par l'audit énergétique :
+Caractéristiques du bâtiment données par l'audit énergétique, ou le cas échéant, par l'attestation définie à l'article 4 de l'arrêté du 13 août 2025 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au diagnostic de performance énergétique :
 
-* Consommation conventionnelle en énergie primaire avant les travaux de rénovation : Cep initial
+* Consommation conventionnelle en énergie primaire avant les travaux de rénovation : Cep initial (kWh/m2.an) :
 
-(kWh/m2.an) :
+* Consommation conventionnelle en énergie primaire après les travaux de rénovation : Cep projet (kWh/m2.an) :
 
-* Consommation conventionnelle en énergie primaire après les travaux de rénovation : Cep projet
+* Consommation conventionnelle en énergie finale avant les travaux de rénovation : Cef initial (kWh/m2.an) :
 
-(kWh/m2.an) :
-
-* Consommation conventionnelle en énergie finale avant les travaux de rénovation : Cef initial
-
-(kWh/m2.an) :
-
-* Consommation conventionnelle en énergie finale après les travaux de rénovation : Cef projet
-
-(kWh/m2.an) :
+* Consommation conventionnelle en énergie finale après les travaux de rénovation : Cef projet (kWh/m2.an) :
 
 * Classe avant les travaux de rénovation :
 
 * Classe après les travaux de rénovation :
 
-* Les travaux mis en œuvre correspondent à l'un des scénarios proposés par l'audit énergétique, qui doit notamment prévoir les travaux complémentaires permettant de garantir un renouvellement suffisant de l'air, en application du 1° du IV de l'article 2 de l'arrêté du 4 mai 2022 : □ OUI □ NON
+* Les travaux mis en œuvre correspondent à l'un des scénarios proposés par l'audit énergétique, qui doit notamment prévoir les travaux complémentaires permettant de garantir un renouvellement suffisant de l'air, en application du 1° du IV de l'article 2 de l'arrêté du 4 mai 2022 : □ Oui □ Non
 
-* Le bâtiment présente une contrainte technique, architecturale ou patrimoniale justifiée : □ OUI □ NON
+* Le bâtiment présente une contrainte technique, architecturale ou patrimoniale justifiée : □ Oui □ Non
 
-* Les travaux de rénovation comprennent au moins deux postes de travaux traitant l'enveloppe du bâtiment sont mis en œuvre parmi les quatre suivants : isolation des murs par l'intérieur ou par l'extérieur, isolation des planchers bas, isolation de la toiture, des planchers de combles perdus ou de la toiture terrasse, remplacement des fenêtres et portes-fenêtres ou pose de doubles fenêtres (au moins 25 % des surfaces du bâtiment concernées par chaque poste de travaux choisis font l'objet de travaux) : □ OUI □ NON
+* Les travaux de rénovation comprennent au moins deux postes de travaux traitant l'enveloppe du bâtiment sont mis en œuvre parmi les quatre suivants : isolation des murs par l'intérieur ou par l'extérieur, isolation des planchers bas, isolation de la toiture, des planchers de combles perdus ou de la toiture terrasse, remplacement des fenêtres et portes-fenêtres ou pose de doubles fenêtres (au moins 25 % des surfaces du bâtiment concernées par chaque poste de travaux choisis font l'objet de travaux) : □ Oui □ Non
 
-* Dans le cas d'isolants bio-sourcés la résistance thermique est calculée conformément aux dispositions prévues dans l'annexe IX de l'arrêté du 26 octobre 2010 relatif aux caractéristiques thermiques et aux exigences de performance énergétique des bâtiments nouveaux et des parties nouvelles de bâtiments : □ OUI □ NON
+* Dans le cas d'isolants bio-sourcés la résistance thermique est calculée conformément aux dispositions prévues dans l'annexe IX de l'arrêté du 26 octobre 2010 relatif aux caractéristiques thermiques et aux exigences de performance énergétique des bâtiments nouveaux et des parties nouvelles de bâtiments : □ Oui □ Non
 
 Résistance thermique (m2.K/W) des isolants posés :
 
@@ -2742,25 +2754,23 @@ Caractéristiques des fenêtres, fenêtres de toiture ou portes-fenêtres compl�
 
 * Facteur solaire Sw :
 
-* Il est installé un système de chauffage ou de production d'eau chaude sanitaire qui inclut au moins un équipement pour lequel le niveau d'émissions de gaz à effet de serre est supérieur à 150 gCO2eq/kWh PCI, et dont le taux de couverture pour le chauffage, défini comme le rapport entre la quantité de chaleur fournie, pour le chauffage du logement, par l'ensemble des équipements dont les émissions sont supérieures à 150 gCO2eq/kWh PCI et les besoins annuels de chaleur, pour le chauffage du logement, couverts par le système est supérieur à 30 % : □ OUI □ NON
+* Il est installé un système de chauffage ou de production d'eau chaude sanitaire qui inclut au moins un équipement pour lequel le niveau d'émissions de gaz à effet de serre est supérieur à 150 gCO2eq/kWh PCI, et dont le taux de couverture pour le chauffage, défini comme le rapport entre la quantité de chaleur fournie, pour le chauffage du logement, par l'ensemble des équipements dont les émissions sont supérieures à 150 gCO2eq/kWh PCI et les besoins annuels de chaleur, pour le chauffage du logement, couverts par le système est supérieur à 30 % : □ Oui □ Non
 
-* Il est conservé un système de chauffage ou de production d'eau chaude sanitaire qui inclut au moins un équipement pour lequel le niveau d'émissions de gaz à effet de serre est supérieur à 300 gCO2eq/kWh PCI, et dont le taux de couverture, défini comme le rapport entre la quantité d'énergie fournie par l'ensemble des équipements dont les émissions sont supérieures à 300 gCO2eq/kWh PCI et les besoins annuels de chaleur couverts par le système est supérieur à 30 % : □ OUI □ NON
+* Il est conservé un système de chauffage ou de production d'eau chaude sanitaire qui inclut au moins un équipement pour lequel le niveau d'émissions de gaz à effet de serre est supérieur à 300 gCO2eq/kWh PCI, et dont le taux de couverture, défini comme le rapport entre la quantité d'énergie fournie par l'ensemble des équipements dont les émissions sont supérieures à 300 gCO2eq/kWh PCI et les besoins annuels de chaleur couverts par le système est supérieur à 30 % : □ Oui □ Non
 
-* Les émissions de gaz à effet de serre après rénovation, exprimées en kgeqCO2/m2.an, sont inférieures ou égales à la valeur initiale de ces émissions avant travaux : □ OUI □ NON
-
-* Pour les opérations basées sur un audit réalisé à compter du 1er avril 2024, si l'une des étapes ou le cumul de la première et de la seconde étape conduit à un saut d'au moins quatre classes au sens de l'article L. 173-1-1 du code de la construction et de l'habitation, les travaux de l'étape aboutissant à un saut d'au moins quatre classes respectent le critère relatif aux déperditions thermiques défini par l'article 3 de l'arrêté du 3 octobre 2023 relatif au contenu et aux conditions d'attribution du label prévu à l'article R. 171-7 du code de la construction et de l'habitation : □ OUI □ NON
+* Les émissions de gaz à effet de serre après rénovation, exprimées en kgeqCO2/m2.an, sont inférieures ou égales à la valeur initiale de ces émissions avant travaux : □ Oui □ Non
 
 Coordonnées de l'entreprise ayant effectué l'audit énergétique de l'opération au regard des exigences de la fiche standardisée :
 
-*Raison sociale :
+* Raison sociale :
 
-*Numéro SIREN :
+* Numéro SIREN :
 
-*Date de l'audit énergétique : //
+* Date de l'audit énergétique : //
 
-*Référence de l'audit énergétique :
+* Référence de l'audit énergétique :
 
-*Numéro de diagnostiqueur (si pertinent) :
+* Numéro de diagnostiqueur (si pertinent) :
 
 Logiciel de calcul utilisé pour réaliser l'audit énergétique :
 
@@ -2768,9 +2778,9 @@ Logiciel de calcul utilisé pour réaliser l'audit énergétique :
 
 * Date et n° de version :
 
-NB1 : Cette opération n'est pas cumulable avec d'autres opérations relevant d'autres fiches et ayant une date d'engagement égale ou posterieure à la présente opération, pouvant donner lieu à la délivrance de certificats d'économies d'énergie pour des travaux concernant le chauffage ou sa régulation, la production d'eau chaude sanitaire, la ventilation, l'isolation de l'enveloppe de la maison, l'isolation du réseau hydraulique de chauffage ou d'eau chaude sanitaire ou les systèmes d'automatisation et de contrôle du bâtiment dès lors que ces travaux sont valorisés au titre de la présente fiche.
+Nota 1. - Cette opération n'est pas cumulable avec d'autres opérations relevant d'autres fiches et ayant une date d'engagement égale ou postérieure à la présente opération, pouvant donner lieu à la délivrance de certificats d'économies d'énergie pour des travaux concernant le chauffage ou sa régulation, la production d'eau chaude sanitaire, la ventilation, l'isolation de l'enveloppe de la maison, l'isolation du réseau hydraulique de chauffage ou d'eau chaude sanitaire ou les systèmes d'automatisation et de contrôle du bâtiment dès lors que ces travaux sont valorisés au titre de la présente fiche.
 
-Qualification ou certification du (ou des) professionnel(s) :
+Qualification ou certification du (ou des) professionnel(s)
 
 En cas d'intervention de plusieurs professionnels, il convient de dupliquer pour chaque professionnel les informations du cartouche suivant en précisant le domaine des travaux qu'il a effectué :
 
@@ -2782,13 +2792,15 @@ Identification du professionnel ayant réalisé les travaux :
 
 * Raison sociale :
 
-* N° SIRET :
+* N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 * Domaine des travaux réalisés :
 
 * Référence de la qualification ou certification : Date : // |
 
 La qualification ou certification de l'entreprise est mentionnée dans le cas où cette dernière a réalisé des travaux relevant de l'une au moins des catégories de travaux mentionnées aux 1° à 17° du I de l'article 1er du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application.
+
+CERTIFICATS D'ÉCONOMIES D'ÉNERGIE
 
 Opération n° BAR-TH-175
 
@@ -2802,19 +2814,19 @@ Bâtiments résidentiels collectifs existants en France métropolitaine.
 
 Rénovation thermique d'ampleur d'un appartement existant.
 
-Cette opération n'est pas cumulable avec d'autres opérations relevant d'autres fiches et ayant une date d'engagement égale ou posterieure à la présente opération, pouvant donner lieu à la délivrance de certificats d'économies d'énergie pour des travaux concernant le chauffage ou sa régulation, la production d'eau chaude sanitaire, la ventilation, l'isolation de l'enveloppe de l'appartement, l'isolation du réseau hydraulique de chauffage ou d'eau chaude sanitaire ou les systèmes d'automatisation et de contrôle de l'appartement dès lors que ces travaux sont valorisés au titre de la présente fiche.
+Cette opération n'est pas cumulable avec d'autres opérations relevant d'autres fiches et ayant une date d'engagement égale ou postérieure à la présente opération, pouvant donner lieu à la délivrance de certificats d'économies d'énergie pour des travaux concernant le chauffage ou sa régulation, la production d'eau chaude sanitaire, la ventilation, l'isolation de l'enveloppe de l'appartement, l'isolation du réseau hydraulique de chauffage ou d'eau chaude sanitaire ou les systèmes d'automatisation et de contrôle de l'appartement dès lors que ces travaux sont valorisés au titre de la présente fiche.
 
 La présente fiche est cumulable avec elle-même, pour un même logement et un même bénéficiaire, lors d'une seconde étape de travaux, selon les conditions définies ci-dessous.
 
-Le terme classe fait référence aux classes telles qu'elles sont définies à l'article L. 173-1-1 du code de la construction et de l'habitation.
+Le terme " classe " fait référence aux classes telles qu'elles sont définies à l'article L. 173-1-1 du code de la construction et de l'habitation.
 
-La présente fiche est abrogée à compter du 1er janvier 2029.
+La présente fiche s'applique aux opérations engagées jusqu'au 31 décembre 2030.
 
 3. Conditions pour la délivrance de certificats
 
 Pour chaque catégorie de travaux intégrée dans le projet de rénovation d'ampleur et mentionnée aux 1° à 16° du I de l'article 1er du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts, le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l'article 2 du même décret et dans les textes pris pour son application. Ce signe de qualité correspond à des travaux relevant soit du 17° du I de l'article 1er du décret précité, soit de l'une des catégories mentionnées aux 1° à 16° du I du même décret correspondant aux travaux réalisés.
 
-Un audit énergétique est réalisé à l'échelle de l'appartement, préalablement aux travaux de rénovation d'ampleur. Cet audit énergétique respecte les dispositions de l'article 8 de l'arrêté du 17 novembre 2020 relatif aux caractéristiques techniques et modalités de réalisation des travaux et prestations dont les dépenses sont éligibles à la prime de transition énergétique. Il est établi par une personne répondant aux conditions mentionnées au VII de l'article 2 du décret du 14 janvier 2020 relatif à la prime de transition énergétique.
+Un audit énergétique est réalisé à l'échelle de l'appartement, préalablement aux travaux de rénovation d'ampleur. Cet audit énergétique respecte les dispositions de l'article 8 de l'arrêté du 17 novembre 2020 relatif aux caractéristiques techniques et modalités de réalisation des travaux et prestations dont les dépenses sont éligibles à la prime de transition énergétique. Il est établi par une personne répondant aux conditions mentionnées au VII de l'article 2 du décret du 14 janvier 2020 relatif à la prime de transition énergétique. L'audit énergétique peut être complété par l'attestation définie à l'article 4 de l'arrêté du 13 août 2025 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au diagnostic de performance énergétique. Dans ce cas, les classes du logement avant et après travaux mentionnées sur l'attestation se substituent à celles de l'audit, pour un même scénario de travaux.
 
 Par dérogation, pour les dossiers déposés jusqu'au 31 décembre 2025 auprès de l'agence mentionnée à l'article L. 321-1 du code de la construction et de l'habitation, une évaluation énergétique réalisée dans le cadre des conventions d'opérations programmées d'amélioration de l'habitat au sens de l'article L. 303-1 du code de la construction de l'habitation adoptées par délibération jusqu'au 31 décembre 2023 inclus ou des programmes d'intérêt général d'amélioration de l'habitat au sens de l'article R. 327-1 du même code, avec la méthodologie 3CL-DPE 2021 ou une méthodologie recevable dans le cadre des audits définis à l'article 8 de l'arrêté du 17 novembre 2020, est réputée satisfaire aux exigences susmentionnées relatives au contenu de l'audit énergétique et aux compétences des auditeurs.
 
@@ -2854,27 +2866,31 @@ d) Sauf contrainte technique, architecturale ou patrimoniale justifiée, le coef
 
 - pour les autres fenêtres ou portes-fenêtres :
 
-- Uw ≤ 1,3 W/m2.K et Sw ≥ 0,3 ;
+- Uw ≤ 1,3 W/m2.K et Sw ≥ 0,3 ; ou
 
-- ou Uw ≤ 1,7 W/m2.K et Sw ≥ 0,36 ;
+- Uw ≤ 1,7 W/m2.K et Sw ≥ 0,36 ;
 
 e) L'installation, le cas échéant, d'une double fenêtre consiste en la pose, sur la baie existante, d'une seconde fenêtre à double vitrage renforcé, dont le coefficient de transmission thermique (Uw) est inférieur ou égal à 1,8 W/m2.K et le facteur de transmission solaire (Sw) supérieur ou égal à 0,32.
 
 Quelle que soit l'étape de travaux, les conditions cumulatives suivantes sont respectées :
 
-f) Les travaux de rénovation n'intègrent pas l'installation d'un système de chauffage ou de production d'eau chaude sanitaire qui inclut au moins un équipement pour lequel le niveau d'émissions de gaz à effet de serre est supérieur à 150 gCO2eq/kWh PCI, et dont le taux de couverture pour le chauffage, défini comme le rapport entre la quantité de chaleur fournie, pour le chauffage du logement, par l'ensemble des équipements dont les émissions sont supérieures à 150 gCO2eq/kWh PCI et les besoins annuels de chaleur, pour le chauffage du logement, couverts par le système est supérieur à 30% ;
+f) Les travaux de rénovation n'intègrent pas l'installation d'un système de chauffage ou de production d'eau chaude sanitaire qui inclut au moins un équipement pour lequel le niveau d'émissions de gaz à effet de serre est supérieur à 150 gCO2eq/kWh PCI, et dont le taux de couverture pour le chauffage, défini comme le rapport entre la quantité de chaleur fournie, pour le chauffage du logement, par l'ensemble des équipements dont les émissions sont supérieures à 150 gCO2eq/kWh PCI et les besoins annuels de chaleur, pour le chauffage du logement, couverts par le système est supérieur à 30 % ;
 
 g) Il est interdit de conserver un système de chauffage ou de production d'eau chaude sanitaire qui inclut au moins un équipement pour lequel le niveau d'émissions de gaz à effet de serre est supérieur à 300 gCO2eq/kWh PCI, et dont le taux de couverture, défini comme le rapport entre la quantité d'énergie fournie par l'ensemble des équipements dont les émissions sont supérieures à 300 gCO2eq/kWh PCI et les besoins annuels de chaleur couverts par le système est supérieur à 30 % ;
 
-h) Les émissions annuelles de gaz à effet de serre après rénovation, rapportées à la surface habitable de l'appartement, sont inférieures ou égales à la valeur initiale de ces émissions avant travaux ;
-
-i) Pour les opérations basées sur un audit réalisé à compter du 1er avril 2024, si l'une des étapes ou le cumul de la première et de la seconde étape conduit à un saut d'au moins quatre classes au sens de l'article L. 173-1-1 du code de la construction et de l'habitation, les travaux de l'étape aboutissant à un saut d'au moins quatre classes respectent le critère relatif aux déperditions thermiques défini par l'article 3 de l'arrêté du 3 octobre 2023 relatif au contenu et aux conditions d'attribution du label prévu à l'article R. 171-7 du code de la construction et de l'habitation.
+h) Les émissions annuelles de gaz à effet de serre après rénovation, rapportées à la surface habitable de l'appartement, sont inférieures ou égales à la valeur initiale de ces émissions avant travaux.
 
 Dans le cas de travaux en deux étapes, la seconde étape de travaux permet d'atteindre au moins la classe C pour les logements de classe F ou G avant la première étape de travaux, et au moins la classe B pour les logements de classe E avant la première étape de travaux.
 
-Hors l'agence mentionnée à l'article L. 321-1 du code de la construction et de l'habitation, un demandeur de certificats d'économies d'énergie ne peut assurer le rôle actif et incitatif mentionné à l'article R. 221-22 du code de l'énergie que dans les cas où le bénéficiaire et le logement ne vérifient pas les conditions d'éligibilité à la prime au titre de la dépense éligible mentionnée au 15 de l'annexe 1 du décret n° 2020-26 du 14 janvier 2020 relatif à la prime de transition énergétique.
+Hors l'agence mentionnée à l'article L. 321-1 du code de la construction et de l'habitation, un demandeur de certificats d'économies d'énergie ne peut assurer le rôle actif et incitatif mentionné à l'article R. 221-22 du code de l'énergie lorsque le bénéficiaire et le logement vérifient les conditions d'éligibilité :
 
-La date d'engagement de l'opération est, pour les bénéficiaires susmentionnés, la date de notification de la décision d'octroi de l'aide par l'agence.
+- à la prime de transition énergétique au titre de la dépense mentionnée au 15 de l'annexe 1 du décret n° 2020-26 du 14 janvier 2020 relatif à la prime de transition énergétique ; ou
+
+- aux aides à la rénovation énergétique d'ampleur de logements destinées aux bénéficiaires visés aux 1° à 3° du I de l'article R. 321-12 du code de la construction et de l'habitation.
+
+Un demandeur de certificats d'économies d'énergie ne peut assurer le rôle actif et incitatif mentionné à l'article R. 221-22 du code de l'énergie lorsque le bénéficiaire de l'opération est le locataire ou l'occupant à titre gratuit du logement.
+
+Lorsque le demandeur est l'agence mentionnée à l'article L. 321-1 du code de la construction et de l'habitation, la date d'engagement de l'opération est la date de notification de la décision d'octroi de l'aide aux bénéficiaires par l'agence.
 
 Les travaux mis en œuvre correspondent à l'un des scénarios proposés par l'audit énergétique, qui doit notamment prévoir les travaux complémentaires permettant de garantir un renouvellement suffisant de l'air, en application du 1° du IV de l'article 2 de l'arrêté du 4 mai 2022.
 
@@ -2882,11 +2898,13 @@ La preuve de réalisation de l'opération mentionne la liste des travaux réalis
 
 Les documents justificatifs spécifiques à l'opération sont :
 
-- le rapport de synthèse de l'audit énergétique, ainsi que sa mise à jour éventuelle, précisant les données de consommations conventionnelles en énergie primaire et en énergie finale (sans déduction de la production d'électricité autoconsommée ou exportée), avant et après travaux ainsi que les classes de l'appartement avant et après travaux et les quantités annuelles de gaz à effet de serre émis dans l'atmosphère avant et après travaux du fait de la quantité d'énergie consommée, rapportés à la surface de l'appartement. Ce rapport précise le nom du logiciel de calcul utilisé dans le cadre de l'opération et son numéro de version ;
+- le rapport de synthèse de l'audit énergétique, ainsi que sa mise à jour éventuelle, précisant les données de consommations conventionnelles en énergie primaire et en énergie finale (sans déduction de la production d'électricité autoconsommée ou exportée), avant et après travaux ainsi que les classes de l'appartement avant et après travaux et les quantités annuelles de gaz à effet de serre émis dans l'atmosphère avant et après travaux du fait de la quantité d'énergie consommée, rapportés à la surface de l'appartement. Ce rapport précise le nom du logiciel de calcul utilisé dans le cadre de l'opération et son numéro de version. L'audit énergétique est complété, le cas échéant, par l'attestation définie à l'article 4 de l'arrêté du 13 août 2025 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au diagnostic de performance énergétique ;
 
 - la liste des travaux préconisés avec leurs niveaux de performance et la correspondance avec la liste des travaux réalisés, datée et signée par le bénéficiaire, le professionnel ayant réalisé l'audit énergétique, permettant d'atteindre les performances énergétiques requises ;
 
-- la liste des entreprises ayant effectué les travaux de rénovation en indiquant la nature de ces travaux et la référence de leur qualification ou certification lorsque celle-ci est requise.
+- la liste des entreprises ayant effectué les travaux de rénovation en indiquant la nature de ces travaux et la référence de leur qualification ou certification lorsque celle-ci est requise ;
+
+- hors le cas où le demandeur de certificats est l'agence mentionnée à l'article L. 321-1 du code de la construction et de l'habitation, un justificatif de propriété du bénéficiaire de l'opération (taxe foncière, acte de propriété (ou titre de propriété), attestation de propriété immobilière) ou le cas échéant, le compromis de vente signé par le vendeur et l'acquéreur.
 
 Lorsque les travaux mis en œuvre diffèrent des travaux préconisés, l'audit énergétique est mis à jour sur la base des travaux effectivement réalisés.
 
@@ -2924,11 +2942,15 @@ Montant unitaire en kWh cumac |
 
 |
 
-Facteur correctif selon la surface habitable Shab
+Facteur correctif
+
+selon la surface habitable Shab
 
 |
 
-Surface habitable Shab en m2
+Surface habitable Shab
+
+en m2
 
 |
 
@@ -3000,9 +3022,9 @@ Pour les travaux de la seconde étape, le montant de certificats d'économies d'
 
 Shab est la surface habitable (exprimée en m2) de l'appartement avant les travaux de la première ou l'unique étape de travaux.
 
-Annexe 1 à la fiche d'opération standardisée BAR-TH-175, définissant le contenu de la partie A de l'attestation sur l'honneur
+Annexe 1 à la fiche d'opération standardisée BAR-TH-175 définissant le contenu de la partie A de l'attestation sur l'honneur
 
-A/ BAR-TH-175 (v. A70.2) : Rénovation thermique d'ampleur d'un appartement existant
+A/ BAR-TH-175 (v. A80.3) : Rénovation thermique d'ampleur d'un appartement existant
 
 * Date d'engagement de l'opération (ex : acceptation du devis) : //
 
@@ -3018,47 +3040,47 @@ Complément d'adresse :
 
 * Code postal :
 
-*Ville :
+* Ville :
 
-* Appartement existant depuis plus de 2 ans à la date d'engagement de l'opération : □ OUI □ NON
+* Appartement existant depuis plus de 2 ans à la date d'engagement de l'opération : □ Oui □ Non
 
-* Appartement existant depuis moins de 15 ans à la date d'engagement de l'opération : □ OUI □ NON
+* Appartement existant depuis moins de 15 ans à la date d'engagement de l'opération : □ Oui □ Non
 
-* Le bénéficiaire et le logement vérifient les conditions d'éligibilité à la prime au titre de la dépense éligible mentionnée au 15 de l'annexe 1 du décret n° 2020-26 du 14 janvier 2020 relatif à la prime de transition énergétique : □ OUI □ NON
+* Le bénéficiaire et le logement vérifient les conditions d'éligibilité :
 
-* Les travaux correspondent à la seconde étape de travaux : □ OUI □ NON
+- à la prime de transition énergétique au titre de la dépense mentionnée au 15 de l'annexe 1 du décret n° 2020-26 du 14 janvier 2020 relatif à la prime de transition énergétique : □ Oui □ Non
+
+- aux aides à la rénovation énergétique d'ampleur de logements destinées aux bénéficiaires visés aux 1° à 3° du I de l'article R. 321-12 du code de la construction et de l'habitation : □ Oui □ Non
+
+* Le logement est occupé à titre de résidence principale : □ Oui □ Non
+
+* Le bénéficiaire de l'opération est le locataire ou l'occupant à titre gratuit du logement : □ Oui □ Non
+
+* Les travaux correspondent à la seconde étape de travaux : □ Oui □ Non
 
 * Surface habitable de la maison avant travaux Shab (m2) :
 
-Caractéristiques du bâtiment données par l'audit énergétique :
+Caractéristiques du bâtiment données par l'audit énergétique, ou le cas échéant, par l'attestation définie à l'article 4 de l'arrêté du 13 août 2025 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au diagnostic de performance énergétique :
 
-* Consommation conventionnelle en énergie primaire avant les travaux de rénovation : Cep initial
+* Consommation conventionnelle en énergie primaire avant les travaux de rénovation : Cep initial (kWh/m2.an) :
 
-(kWh/m2.an) :
+* Consommation conventionnelle en énergie primaire après les travaux de rénovation : Cep projet (kWh/m2.an) :
 
-* Consommation conventionnelle en énergie primaire après les travaux de rénovation : Cep projet
+* Consommation conventionnelle en énergie finale avant les travaux de rénovation : Cef initial (kWh/m2.an) :
 
-(kWh/m2.an) :
-
-* Consommation conventionnelle en énergie finale avant les travaux de rénovation : Cef initial
-
-(kWh/m2.an) :
-
-* Consommation conventionnelle en énergie finale après les travaux de rénovation : Cef projet
-
-(kWh/m2.an) :
+* Consommation conventionnelle en énergie finale après les travaux de rénovation : Cef projet (kWh/m2.an) :
 
 * Classe avant les travaux de rénovation :
 
 * Classe après les travaux de rénovation :
 
-* Les travaux mis en œuvre correspondent à l'un des scénarios proposés par l'audit énergétique, qui doit notamment prévoir les travaux complémentaires permettant de garantir un renouvellement suffisant de l'air, en application du 1° du IV de l'article 2 de l'arrêté du 4 mai 2022 : □ OUI □ NON
+* Les travaux mis en œuvre correspondent à l'un des scénarios proposés par l'audit énergétique, qui doit notamment prévoir les travaux complémentaires permettant de garantir un renouvellement suffisant de l'air, en application du 1° du IV de l'article 2 de l'arrêté du 4 mai 2022 : □ Oui □ Non
 
-* Le logement présente une contrainte technique, architecturale ou patrimoniale justifiée : □ OUI □ NON
+* Le logement présente une contrainte technique, architecturale ou patrimoniale justifiée : □ Oui □ Non
 
-* Les travaux de rénovation comprennent au moins deux postes de travaux traitant l'enveloppe de l'appartement, à condition que les travaux relèvent des parties privatives, sont mis en œuvre parmi les quatre suivants : isolation des murs par l'intérieur ou par l'extérieur, isolation des planchers bas, isolation de la toiture, des planchers de combles perdus ou de la toiture terrasse, remplacement des fenêtres et portes-fenêtres ou pose de doubles fenêtres (au moins 25 % des surfaces du bâtiment concernées par chaques poste de travaux choisis font l'objet de travaux) : □ OUI □ NON
+* Les travaux de rénovation comprennent au moins deux postes de travaux traitant l'enveloppe de l'appartement, à condition que les travaux relèvent des parties privatives, sont mis en œuvre parmi les quatre suivants : isolation des murs par l'intérieur ou par l'extérieur, isolation des planchers bas, isolation de la toiture, des planchers de combles perdus ou de la toiture terrasse, remplacement des fenêtres et portes-fenêtres ou pose de doubles fenêtres (au moins 25 % des surfaces du bâtiment concernées par chaques poste de travaux choisis font l'objet de travaux) : □ Oui □ Non
 
-* Dans le cas d'isolants bio-sourcés la résistance thermique est calculée conformément aux dispositions prévues dans l'annexe IX de l'arrêté du 26 octobre 2010 relatif aux caractéristiques thermiques et aux exigences de performance énergétique des bâtiments nouveaux et des parties nouvelles de bâtiments : □ OUI □ NON
+* Dans le cas d'isolants bio-sourcés la résistance thermique est calculée conformément aux dispositions prévues dans l'annexe IX de l'arrêté du 26 octobre 2010 relatif aux caractéristiques thermiques et aux exigences de performance énergétique des bâtiments nouveaux et des parties nouvelles de bâtiments : □ Oui □ Non
 
 Résistance thermique (m2.K/W) des isolants posés :
 
@@ -3080,7 +3102,7 @@ Surface (m2) des isolants posés :
 
 * Isolation des rampants de toiture :
 
-*Isolation de la toiture terrasse :
+* Isolation de la toiture terrasse :
 
 * Isolation par l'intérieur des murs en façade ou en pignon :
 
@@ -3100,13 +3122,11 @@ Caractéristiques des fenêtres, fenêtres de toiture ou portes-fenêtres compl�
 
 * Facteur solaire Sw :
 
-* Il est installé un système de chauffage ou de production d'eau chaude sanitaire qui inclut au moins un équipement pour lequel le niveau d'émissions de gaz à effet de serre est supérieur à 150 gCO2eq/kWh PCI, et dont le taux de couverture pour le chauffage, défini comme le rapport entre la quantité de chaleur fournie, pour le chauffage du logement, par l'ensemble des équipements dont les émissions sont supérieures à 150 gCO2eq/kWh PCI et les besoins annuels de chaleur, pour le chauffage du logement, couverts par le système est supérieur à 30% : □ OUI □ NON
+* Il est installé un système de chauffage ou de production d'eau chaude sanitaire qui inclut au moins un équipement pour lequel le niveau d'émissions de gaz à effet de serre est supérieur à 150 gCO2eq/kWh PCI, et dont le taux de couverture pour le chauffage, défini comme le rapport entre la quantité de chaleur fournie, pour le chauffage du logement, par l'ensemble des équipements dont les émissions sont supérieures à 150 gCO2eq/kWh PCI et les besoins annuels de chaleur, pour le chauffage du logement, couverts par le système est supérieur à 30 % : □ Oui □ Non
 
-* Il est conservé un système de chauffage ou de production d'eau chaude sanitaire qui inclut au moins un équipement pour lequel le niveau d'émissions de gaz à effet de serre est supérieur à 300 gCO2eq/kWh PCI, et dont le taux de couverture, défini comme le rapport entre la quantité d'énergie fournie par l'ensemble des équipements dont les émissions sont supérieures à 300 gCO2eq/kWh PCI et les besoins annuels de chaleur couverts par le système est supérieur à 30 % : □ OUI □ NON
+* Il est conservé un système de chauffage ou de production d'eau chaude sanitaire qui inclut au moins un équipement pour lequel le niveau d'émissions de gaz à effet de serre est supérieur à 300 gCO2eq/kWh PCI, et dont le taux de couverture, défini comme le rapport entre la quantité d'énergie fournie par l'ensemble des équipements dont les émissions sont supérieures à 300 gCO2eq/kWh PCI et les besoins annuels de chaleur couverts par le système est supérieur à 30 % : □ Oui □ Non
 
-* Les émissions de gaz à effet de serre après rénovation, exprimées en kgeqCO2/m2.an, sont inférieures ou égales à la valeur initiale de ces émissions avant travaux : □ OUI □ NON
-
-* Pour les opérations basées sur un audit réalisé à compter du 1er avril 2024, si l'une des étapes ou le cumul de la première et de la seconde étape conduit à un saut d'au moins quatre classes au sens de l'article L. 173-1-1 du code de la construction et de l'habitation, les travaux de l'étape aboutissant à un saut d'au moins quatre classes respectent le critère relatif aux déperditions thermiques défini par l'article 3 de l'arrêté du 3 octobre 2023 relatif au contenu et aux conditions d'attribution du label prévu à l'article R. 171-7 du code de la construction et de l'habitation : □ OUI □ NON
+* Les émissions de gaz à effet de serre après rénovation, exprimées en kgeqCO2/m2.an, sont inférieures ou égales à la valeur initiale de ces émissions avant travaux : □ Oui □ Non
 
 Coordonnées de l'entreprise ayant effectué l'audit énergétique de l'opération au regard des exigences de la fiche standardisée :
 
@@ -3126,9 +3146,9 @@ Logiciel de calcul utilisé pour réaliser l'audit énergétique :
 
 * Date et n° de version :
 
-NB1 : Cette opération n'est pas cumulable avec d'autres opérations relevant d'autres fiches et ayant une date d'engagement egale ou posterieure à la présente opération, pouvant donner lieu à la délivrance de certificats d'économies d'énergie pour des travaux concernant le chauffage ou sa régulation, la production d'eau chaude sanitaire, la ventilation, l'isolation de l'enveloppe du logement, l'isolation du réseau hydraulique de chauffage ou d'eau chaude sanitaire ou les systèmes d'automatisation et de contrôle du bâtiment dès lors que ces travaux sont valorisés au titre de la présente fiche.
+Nota 1. - Cette opération n'est pas cumulable avec d'autres opérations relevant d'autres fiches et ayant une date d'engagement egale ou posterieure à la présente opération, pouvant donner lieu à la délivrance de certificats d'économies d'énergie pour des travaux concernant le chauffage ou sa régulation, la production d'eau chaude sanitaire, la ventilation, l'isolation de l'enveloppe du logement, l'isolation du réseau hydraulique de chauffage ou d'eau chaude sanitaire ou les systèmes d'automatisation et de contrôle du bâtiment dès lors que ces travaux sont valorisés au titre de la présente fiche.
 
-Qualification ou certification du (ou des) professionnel(s) :
+Qualification ou certification du (ou des) professionnel(s)
 
 En cas d'intervention de plusieurs professionnels, il convient de dupliquer pour chaque professionnel les informations du cartouche suivant en précisant le domaine des travaux qu'il a effectué :
 
@@ -3140,13 +3160,15 @@ Identification du professionnel ayant réalisé les travaux :
 
 * Raison sociale :
 
-* N° SIRET :
+* N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 * Domaine des travaux réalisés :
 
 * Référence de la qualification ou certification : Date : // |
 
 La qualification ou certification de l'entreprise est mentionnée dans le cas où cette dernière a réalisé des travaux relevant de l'une au moins des catégories de travaux mentionnées aux 1° à 17° du I de l'article 1er du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application.
+
+CERTIFICATS D'ÉCONOMIES D'ÉNERGIE
 
 Opération n° BAR-TH-177
 
@@ -3164,19 +3186,19 @@ L'approche globale consiste à déterminer et à mettre en œuvre un bouquet de 
 
 Cette opération n'est pas cumulable avec d'autres opérations relevant d'autres fiches et ayant une date d'engagement égale ou posterieure à la présente opération, pouvant donner lieu à la délivrance de certificats d'économies d'énergie pour des travaux concernant le chauffage ou sa régulation, la production d'eau chaude sanitaire, la ventilation, l'isolation de l'enveloppe du bâtiment, l'isolation du réseau hydraulique de chauffage ou d'eau chaude sanitaire ou les systèmes d'automatisation et de contrôle du bâtiment dès lors que ces travaux sont valorisés au titre de la présente fiche.
 
-La présente fiche s'applique aux opérations engagées jusqu'au 31 octobre 2029.
+La présente fiche s'applique aux opérations engagées jusqu'au 31 décembre 2030.
 
 3. Conditions pour la délivrance de certificats
 
-Pour chaque catégorie de travaux intégrée dans le projet de rénovation globale et mentionnée aux 1° à 16° du I de l'article 1er du décret n° 2014-812 du 16 juillet 2014pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôtset du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts, le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l'article 2 du même décretet dans les textes pris pour son application. Ce signe de qualité correspond à des travaux relevant soit du 17° du I de l'article 1er du décretprécité, soit de l'une des catégories mentionnées aux 1° à 16° du I du même décretcorrespondant aux travaux réalisés.
+Pour chaque catégorie de travaux intégrée dans le projet de rénovation globale et mentionnée aux 1° à 16° du I de l'article 1er du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts, le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l'article 2 du même décret et dans les textes pris pour son application. Ce signe de qualité correspond à des travaux relevant soit du 17° du I de l'article 1er du décret précité, soit de l'une des catégories mentionnées aux 1° à 16° du I du même décret correspondant aux travaux réalisés.
 
-Un audit énergétique est réalisé préalablement aux travaux de rénovation globale du bâtiment. Cet audit énergétique respecte les dispositions de l'article 8 de l'arrêté du 17 novembre 2020relatif aux caractéristiques techniques et modalités de réalisation des travaux et prestations dont les dépenses sont éligibles à la prime de transition énergétique. Il est établi par une personne répondant aux conditions mentionnées au VII de l'article 2 du décret du 14 janvier 2020relatif à la prime de transition énergétique.
+Un audit énergétique est réalisé préalablement aux travaux de rénovation globale du bâtiment. Cet audit énergétique respecte les dispositions de l'article 8 de l'arrêté du 17 novembre 2020 relatif aux caractéristiques techniques et modalités de réalisation des travaux et prestations dont les dépenses sont éligibles à la prime de transition énergétique. Il est établi par une personne répondant aux conditions mentionnées au VII de l'article 2 du décret du 14 janvier 2020 relatif à la prime de transition énergétique. L'audit énergétique peut être complété par l'attestation définie à l'article 4 de l'arrêté du 13 août 2025 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au diagnostic de performance énergétique. Dans ce cas, les classes du logement avant et après travaux mentionnées sur l'attestation se substituent à celles de l'audit, pour un même scénario de travaux.
 
 Les travaux permettent d'atteindre une performance énergétique globale minimale du bâtiment, déterminée par l'audit énergétique, qui satisfait aux deux critères suivants :
 
--consommation conventionnelle annuelle en énergie primaire après travaux, rapportée à la surface de référence des logements, inférieure à 331 kWh/ m2. an pour les usages chauffage, refroidissement, production d'eau chaude sanitaire, éclairage, et les auxiliaires de chauffage, de refroidissement, d'eau chaude sanitaire et de ventilation ;
+- consommation conventionnelle annuelle en énergie primaire après travaux, rapportée à la surface de référence des logements, inférieure à 331 kWh/m2.an pour les usages chauffage, refroidissement, production d'eau chaude sanitaire, éclairage, et les auxiliaires de chauffage, de refroidissement, d'eau chaude sanitaire et de ventilation ;
 
--gain énergétique d'au moins 35 % par rapport à la consommation conventionnelle annuelle en énergie primaire avant travaux pour les usages définis ci-dessus.
+- gain énergétique d'au moins 35 % par rapport à la consommation conventionnelle annuelle en énergie primaire avant travaux pour les usages définis ci-dessus.
 
 Hors raccordement à un réseau de chaleur, les changements d'équipements de chauffage ou de production d'eau chaude sanitaire ne doivent conduire ni à l'installation de chaudières consommant du charbon ou du fioul, ni à l'installation d'un système de chauffage ou de production d'eau chaude sanitaire incluant l'installation d'au moins une chaudière au gaz, dont le taux de couverture défini comme le rapport entre la quantité de chaleur fournie par l'ensemble des chaudières au gaz du système et les besoins annuels de chaleur pour les usages couverts par le système, est supérieur à 30 %.
 
@@ -3188,39 +3210,39 @@ Les bâtiments d'habitation collectifs éligibles à la présente fiche sont ceu
 
 Les documents justificatifs spécifiques à l'opération sont :
 
--le rapport de synthèse de l'audit énergétique, ainsi que sa mise à jour éventuelle, précisant les données de consommations conventionnelles en énergie primaire et en énergie finale (sans déduction de la production d'électricité autoconsommée ou exportée), avant et après travaux ainsi que le gain énergétique apporté par la rénovation du bâtiment et les quantités annuelles de gaz à effet de serre émis dans l'atmosphère avant et après travaux du fait de la quantité d'énergie consommée, rapportés à la surface de référence du bâtiment. Ce rapport précise le nom du logiciel de calcul utilisé dans le cadre de l'opération et son numéro de version ;
+- le rapport de synthèse de l'audit énergétique, ainsi que sa mise à jour éventuelle, précisant les données de consommations conventionnelles en énergie primaire et en énergie finale (sans déduction de la production d'électricité autoconsommée ou exportée), avant et après travaux ainsi que le gain énergétique apporté par la rénovation du bâtiment et les quantités annuelles de gaz à effet de serre émis dans l'atmosphère avant et après travaux du fait de la quantité d'énergie consommée, rapportés à la surface de référence du bâtiment. Ce rapport précise le nom du logiciel de calcul utilisé dans le cadre de l'opération et son numéro de version. L'audit énergétique est complété, le cas échéant, par l'attestation définie à l'article 4 de l'arrêté du 13 août 2025 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au diagnostic de performance énergétique ;
 
--le fichier source de l'audit énergétique (format . xml ou équivalent) retraçant l'ensemble des paramètres utilisés pour la réalisation de l'audit énergétique ;
+- le fichier source de l'audit énergétique (format XML ou équivalent) retraçant l'ensemble des paramètres utilisés pour la réalisation de l'audit énergétique ;
 
--la liste des travaux préconisés avec leurs niveaux de performance et la correspondance avec la liste des travaux réalisés, datée et signée par le bénéficiaire, le professionnel ayant réalisé l'audit énergétique et chaque professionnel mettant en œuvre ou assurant la maîtrise d'œuvre de tout ou partie de l'opération, permettant d'atteindre les performances énergétiques requises ;
+- la liste des travaux préconisés avec leurs niveaux de performance et la correspondance avec la liste des travaux réalisés, datée et signée par le bénéficiaire, le professionnel ayant réalisé l'audit énergétique et chaque professionnel mettant en œuvre ou assurant la maîtrise d'œuvre de tout ou partie de l'opération, permettant d'atteindre les performances énergétiques requises ;
 
--la liste des entreprises ayant effectué les travaux de rénovation en indiquant la nature de ces travaux et la référence de leur qualification ou certification lorsque celle-ci est requise ;
+- la liste des entreprises ayant effectué les travaux de rénovation en indiquant la nature de ces travaux et la référence de leur qualification ou certification lorsque celle-ci est requise ;
 
--les attestations fiscales d'au moins trois foyers fiscaux distincts rattachés à des logements distincts ;
+- les attestations fiscales d'au moins trois foyers fiscaux distincts rattachés à des logements distincts ;
 
--les attestations déclarations préalables de travaux (DP) déposées par le propriétaire correspondant aux surfaces supplémentaires rendues habitables par un nouvel aménagement intérieur du bâtiment existant (aménagement de cave, de combles ou de tout autre espace, etc.) ou par une extension neuve ;
+- les attestations déclarations préalables de travaux (DP) déposées par le propriétaire correspondant aux surfaces supplémentaires rendues habitables par un nouvel aménagement intérieur du bâtiment existant (aménagement de cave, de combles ou de tout autre espace, etc.) ou par une extension neuve ;
 
--dans le cas de bâtiments relèvant de la loi n° 65-557 du 10 juillet 1965modifiée fixant le statut de la copropriété des immeubles bâtis, l'accord de la copropriété autorisant les travaux pour les logements de la copropriété.
+- dans le cas de bâtiments relèvant de la loi n° 65-557 du 10 juillet 1965 modifiée fixant le statut de la copropriété des immeubles bâtis, l'accord de la copropriété autorisant les travaux pour les logements de la copropriété.
 
 Lorsque les travaux mis en œuvre diffèrent des travaux préconisés, l'audit énergétique est mis à jour sur la base des travaux effectivement réalisés.
 
 Le rapport de synthèse de l'audit énergétique, ainsi que sa mise à jour éventuelle, sont datés et signés par le prestataire les ayant réalisés. Ils comportent les mentions des valeurs suivantes :
 
--la consommation conventionnelle (en kWh/ m2. an) du bâtiment (sans déduction de la production d'électricité autoconsommée ou exportée), en précisant les usages considérés :
+- la consommation conventionnelle (en kWh/m2.an) du bâtiment (sans déduction de la production d'électricité autoconsommée ou exportée), en précisant les usages considérés :
 
--d'énergie primaire, avant les travaux de rénovation : Cep initial ;
+- d'énergie primaire, avant les travaux de rénovation : Cep initial ;
 
--d'énergie primaire, après les travaux de rénovation : Cep projet ;
+- d'énergie primaire, après les travaux de rénovation : Cep projet ;
 
--d'énergie finale, avant les travaux de rénovation : Cef initial ;
+- d'énergie finale, avant les travaux de rénovation : Cef initial ;
 
--d'énergie finale, après les travaux de rénovation : Cef projet ;
+- d'énergie finale, après les travaux de rénovation : Cef projet ;
 
--le rejet de CO2 exprimé en kgeqCO2/ m2. an, avant les travaux de rénovation ;
+- le rejet de CO2 exprimé en kgeqCO2/m2.an, avant les travaux de rénovation ;
 
--le rejet de CO2 exprimé en kgeqCO2/ m2. an, après les travaux de rénovation ;
+- le rejet de CO2 exprimé en kgeqCO2/m2.an, après les travaux de rénovation ;
 
--la surface habitable du bâtiment après rénovation, exprimée en m2 : Shab.
+- la surface habitable du bâtiment après rénovation, exprimée en m2 : Shab.
 
 4. Durée de vie conventionnelle
 
@@ -3230,9 +3252,11 @@ Le rapport de synthèse de l'audit énergétique, ainsi que sa mise à jour éve
 
 Le volume de certificats d'économies d'énergie est déterminé comme suit :
 
-Montants en kWh cumac/ m2 |
+Montants en kWh cumac/m2
 
-X |
+|
+
+× |
 
 Surface habitable du bâtiment Shab (m2) |
 
@@ -3240,75 +3264,75 @@ Surface habitable du bâtiment Shab (m2) |
 
 Shab est la surface de habitable (exprimée en m2) du bâtiment après rénovation.
 
-Annexe 1 à la fiche d'opération standardisée BAR-TH-177, définissant le contenu de la partie A de l'attestation sur l'honneur
+Annexe 1 à la fiche d'opération standardisée BAR-TH-177 définissant le contenu de la partie A de l'attestation sur l'honneur
 
-A/ BAR-TH-177 (v. A63.1) : Rénovation thermique globale d'un bâtiment résidentiel collectif existant.
+A/ BAR-TH-177 (v. A80.2) : Rénovation thermique globale d'un bâtiment résidentiel collectif existant.
 
-*Date d'engagement de l'opération (ex : date d'acceptation du devis) : //
+* Date d'engagement de l'opération (ex : date d'acceptation du devis) : //
 
 Date de preuve de réalisation de l'opération (ex : date de la facture) : //
 
 Référence de la facture :
 
-*Pour les personnes morales : nom du site des travaux ou nom de la copropriété :
+* Pour les personnes morales : nom du site des travaux ou nom de la copropriété :
 
-*Adresse des travaux :
+* Adresse des travaux :
 
 Complément d'adresse :
 
-*Code postal :
+* Code postal :
 
-*Ville :
+* Ville :
 
-*Bâtiment résidentiel collectif existant depuis plus de 2 ans à la date d'engagement de l'opération : □ Oui □ Non
+* Bâtiment résidentiel collectif existant depuis plus de 2 ans à la date d'engagement de l'opération : □ Oui □ Non
 
-*Surface de habitable du bâtiment résidentiel Shab (m2) :
+* Surface habitable du bâtiment résidentiel Shab (m2) :
 
-NB1 : Shab est la surface habitable (exprimée en m2) du bâtiment après rénovation.
+Nota 1. - Shab est la surface habitable (exprimée en m2) du bâtiment après rénovation.
 
-*Nombre de logements distincts :
+* Nombre de logements distincts :
 
 * Nombre de foyers fiscaux distincts rattachés à des logements distincts :
 
-*Le bâtiment relève de la loi n° 65-557 du 10 juillet 1965 modifiée fixant le statut de la copropriété des immeubles bâtis :
+* Le bâtiment relève de la loi n° 65-557 du 10 juillet 1965 modifiée fixant le statut de la copropriété des immeubles bâtis : □ Oui □ Non
+
+* Numéro d'immatriculation de la copropriété prévu par les articles L. 711-1 et suivants du code de la construction et de l'habitation :
+
+* Préalablement aux travaux de rénovation thermique, il a été réalisé un audit énergétique respectant les dispositions de l'article 8 de l'arrêté du 17 novembre 2020 relatif aux caractéristiques techniques et modalités de réalisation des travaux et prestations dont les dépenses sont éligibles à la prime de transition énergétique :
 
 □ Oui □ Non
 
-*Numéro d'immatriculation de la copropriété prévu par les articles L. 711-1 et suivants du code de la construction et de l'habitation :
+Caractéristiques du bâtiment données par l'audit énergétique, ou le cas échéant, par l'attestation définie à l'article 4 de l'arrêté du 13 août 2025 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au diagnostic de performance énergétique :
 
-*Préalablement aux travaux de rénovation thermique, il a été réalisé un audit énergétique respectant les dispositions de l'article 8 de l'arrêté du 17 novembre 2020 relatif aux caractéristiques techniques et modalités de réalisation des travaux et prestations dont les dépenses sont éligibles à la prime de transition énergétique : □ Oui □ Non
+* Consommation conventionnelle en énergie primaire avant les travaux de rénovation : Cep initial (kWh/m2.an) :
 
-Caractéristiques du bâtiment données par l'audit énergétique :
+* Consommation conventionnelle en énergie primaire après les travaux de rénovation : Cep projet (kWh/m2.an) :
 
-*Consommation conventionnelle en énergie primaire avant les travaux de rénovation : Cep initial (kWh/m2.an) :
+* Consommation conventionnelle en énergie finale avant les travaux de rénovation : Cef initial (kWh/m2.an) :
 
-*Consommation conventionnelle en énergie primaire après les travaux de rénovation : Cep projet (kWh/m2.an) :
+* Consommation conventionnelle en énergie finale après les travaux de rénovation : Cef projet (kWh/m2.an) :
 
-*Consommation conventionnelle en énergie finale avant les travaux de rénovation : Cef initial (kWh/m2.an) :
+* Gain énergétique du projet par rapport à la consommation conventionnelle en énergie primaire avant travaux : ... %
 
-*Consommation conventionnelle en énergie finale après les travaux de rénovation : Cef projet (kWh/m2.an) :
-
-*Gain énergétique du projet par rapport à la consommation conventionnelle en énergie primaire avant travaux : ... %
-
-NB2 : les consommations conventionnelles (en kWh/m2.an) du bâtiment s'entendent sans déduction de la production d'électricité (autoconsommée ou exportée) et prennent en compte les usages pour le chauffage, le refroidissement, la production d'eau chaude sanitaire, l'éclairage et les auxiliaires de chauffage, de refroidissement, d'eau chaude sanitaire et de ventilation.
+Nota 2. - Les consommations conventionnelles (en kWh/m2.an) du bâtiment s'entendent sans déduction de la production d'électricité (autoconsommée ou exportée) et prennent en compte les usages pour le chauffage, le refroidissement, la production d'eau chaude sanitaire, l'éclairage et les auxiliaires de chauffage, de refroidissement, d'eau chaude sanitaire et de ventilation.
 
 * Hors raccordement à un réseau de chaleur, les changements d'équipements de chauffage ou de production d'eau chaude sanitaire conduisent à l'installation de chaudières consommant du charbon ou du fioul, ou à l'installation d'un système de chauffage ou de production d'eau chaude sanitaire incluant l'installation d'au moins une chaudière au gaz, dont le taux de couverture défini comme le rapport entre la quantité de chaleur fournie par l'ensemble des chaudières au gaz du système et les besoins annuels de chaleur pour les usages couverts par le système, est supérieur à 30 % : □ Oui □ Non
 
-*Type d'équipements de chauffage ou de production d'eau chaude sanitaire avant travaux :
+* Type d'équipements de chauffage ou de production d'eau chaude sanitaire avant travaux :
 
-*Type d'équipements de chauffage ou de production d'eau chaude sanitaire après travaux :
+* Type d'équipements de chauffage ou de production d'eau chaude sanitaire après travaux :
 
-*Les émissions de gaz à effet de serre après rénovation, exprimées en kgeqCO2/m2.an, sont inférieures ou égales à la valeur initiale de ces émissions avant travaux : □ Oui □ Non
+* Les émissions de gaz à effet de serre après rénovation, exprimées en kgeqCO2/m2.an, sont inférieures ou égales à la valeur initiale de ces émissions avant travaux : □ Oui □ Non
 
 Coordonnées de l'entreprise ayant effectué l'audit énergétique de l'opération au regard des exigences de la fiche standardisée :
 
-*Raison sociale :
+* Raison sociale :
 
-*Numéro SIREN :
+* Numéro SIREN :
 
-*Date de l'audit énergétique :
+* Date de l'audit énergétique :
 
-*Référence de l'audit énergétique :
+* Référence de l'audit énergétique :
 
 Logiciel de calcul utilisé pour réaliser l'audit énergétique :
 
@@ -3316,27 +3340,25 @@ Logiciel de calcul utilisé pour réaliser l'audit énergétique :
 
 * Date et n° de version :
 
-NB3 : cette opération n'est pas cumulable avec d'autres opérations relevant d'autres fiches et ayant une date d'engagement égale ou posterieure à la présente opération, pouvant donner lieu à la délivrance de certificats d'économies d'énergie pour des travaux concernant le chauffage ou sa régulation, la production d'eau chaude sanitaire, la ventilation, l'isolation de l'enveloppe du bâtiment, l'isolation du réseau hydraulique de chauffage ou d'eau chaude sanitaire ou les systèmes d'automatisation et de contrôle du bâtiment dès lors que ces travaux sont valorisés au titre de la présente fiche.
+Nota 3. - Cette opération n'est pas cumulable avec d'autres opérations relevant d'autres fiches et ayant une date d'engagement égale ou postérieure à la présente opération, pouvant donner lieu à la délivrance de certificats d'économies d'énergie pour des travaux concernant le chauffage ou sa régulation, la production d'eau chaude sanitaire, la ventilation, l'isolation de l'enveloppe du bâtiment, l'isolation du réseau hydraulique de chauffage ou d'eau chaude sanitaire ou les systèmes d'automatisation et de contrôle du bâtiment dès lors que ces travaux sont valorisés au titre de la présente fiche.
 
-Qualification ou certification du (ou des) professionnel (s)
+Qualification ou certification du (ou des) professionnel(s)
 
 En cas d'intervention de plusieurs professionnels, il convient de dupliquer pour chaque professionnel les informations du cartouche suivant en précisant le domaine des travaux qu'il a effectué :
 
 Identification du professionnel ayant réalisé les travaux :
 
-*Nom du représentant :
+* Nom du représentant :
 
-*Prénom :
+* Prénom :
 
-*Raison sociale :
+* Raison sociale :
 
-*N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
+* N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-*Domaine des travaux réalisés :
+* Domaine des travaux réalisés :
 
-*Référence de la qualification ou certification : Date ://
-
-|
+* Référence de la qualification ou certification : Date : // |
 
 La qualification ou certification de l'entreprise est mentionnée dans le cas où cette dernière a réalisé des travaux relevant de l'une au moins des catégories de travaux mentionnées aux 1° à 17° du I de l'article 1er du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application.
 
@@ -4352,8 +4374,4 @@ https://www.legifrance.gouv.fr/download/pdf?id=5gAfOAZyNgIh7Fm-Ar17lvaib6Ml9xQU-
 
 NOTA :
 
-Conformément à l'article 5 de l'arrêté du 15 décembre 2025 (NOR : ECOR2532411A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er janvier 2026 et s'appliquent aux opérations engagées à compter de cette date.
-
-Les dispositions des fiches d'opérations standardisées BAR-TH-171 et BAR-TH-172, dans leur version en vigueur au 1er octobre 2025, s'appliquent aux opérations incluses dans une liste transmise, au plus tard le 15 janvier 2026, par le demandeur de certificats au ministre chargé de l'énergie, suivant un modèle établi par la direction générale de l'énergie et du climat (DGEC) et mis à disposition sur le site internet du ministère.
-
-Conformément à l'article 6 de l'arrêté du 27 décembre 2025 (NOR : ECOR2535186A), ces dispositions, dans leur rédaction résultant de l'article 1 de l'arrêté précité, entrent en vigueur le 1er janvier 2026 et s'appliquent aux opérations engagées à compter de cette date.
+Conformément à l'article 5 de l'arrêté du 6 janvier 2026 (NOR : ECOR2600569A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le lendemain de la date de publication de l'arrêté précité, soit le 17 janvier 2026, et s'appliquent aux opérations engagées à compter de cette date.
