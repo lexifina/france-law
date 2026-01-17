@@ -54,21 +54,43 @@ Directeur de plongée
 
 |
 
-MF1 (*) FFESSM ou FSGT (*)
-
-|
+MF1 (*) FFESSM ou FSGT (*) |
 
 Moniteur 2 étoiles
 
 |
 
-BEES 1 plongée
+BEES 1 option " plongée subaquatique "
 
-DEJEPS plongée
+DEJEPS spécialité " perfectionnement sportif " mention " plongée subaquatique "
 
-DESJEPS plongée
+DEJEPS spécialité " perfectionnement sportif " mention " activités de plongée subaquatique "
+
+DESJEPS spécialité " performance sportive " mention " plongée subaquatique "
 
 |
+
+Plongées au trimix ou à l'héliox en enseignement
+
+Plongées au trimix ou à l'héliox en exploration
+
+|
+
+Directeur de plongée |
+
+BEPPA FFESSM
+
+MF2 FFESSM ou FSGT (*) |
+
+|
+
+BEES 2 option " plongée subaquatique "
+
+DEJEPS spécialité " perfectionnement sportif " mention " plongée subaquatique "
+
+CC " plongée profonde et tutorat " associé au DEJEPS spécialité " perfectionnement sportif " mention " activités de plongée subaquatique "
+
+DESJEPS spécialité " performance sportive mention plongée subaquatique " |
 
 Plongées au trimix ou à l'héliox en enseignement
 
