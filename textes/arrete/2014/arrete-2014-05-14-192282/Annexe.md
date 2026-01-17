@@ -1,5 +1,7 @@
 # Article Annexe
 
+ANNEXE
+
 INTITULÉS DES POSTES DE DE LA DIRECTION GÉNÉRALE
 
 DES ÉTRANGERS EN FRANCE |
@@ -50,14 +52,6 @@ B ou C |
 
 20 |
 
-Secrétaire (assistant) du chef du service de la performance et des ressources |
-
-B ou C |
-
-1 |
-
-20 |
-
 Secrétaire (assistant) du sous-directeur des visas |
 
 B ou C |
@@ -92,7 +86,7 @@ B ou C |
 
 Fonctions impliquant une technicité particulière (informatique) |
 
-Adjoint au directeur du programme &laquo; administration numérique pour les étrangers en France &raquo; |
+Adjoint au directeur du programme administration numérique pour les étrangers en France |
 
 A |
 
@@ -108,9 +102,9 @@ C |
 
 15 |
 
-Emplois afférents au calcul de délégations de crédits, à la mise à jour des fichiers importants et au suivi de la consommation des crédits
+Emplois afférents au calcul de délégations de crédits, à la mise à jour des fichiers importants et au suivi de la consommation
 
-(fonctions impliquant une technicité particulière au titre des attributions financières, comptables et juridiques) |
+des crédits (fonctions impliquant une technicité particulière au titre des attributions financières, comptables et juridiques) |
 
 Chef de la section pilotage et exécution budgétaire au service de la performance et des ressources |
 
@@ -119,6 +113,16 @@ A |
 1 |
 
 10 |
+
+Emplois à responsabilité |
+
+Chef du département d'application des règlements européens en matière d'asile à la sous-direction de l'accueil, du financement et de l'accès à la procédure de la direction de l'asile |
+
+A |
+
+1 |
+
+20 |
 
 Emplois de responsable de l'établissement des documents budgétaires |
 
@@ -197,3 +201,9 @@ C |
 15 |
 
 Total des points de NBI = 515 |
+
+|
+
+|
+
+|
