@@ -14,11 +14,7 @@ Unité |
 
 Emploi |
 
-Commandement
-
-de la gendarmerie
-
-de l'outre-mer |
+Commandement de la gendarmerie de l'outre-mer |
 
 COMGEND GF |
 
@@ -176,11 +172,7 @@ SOLC SAJ COMGEND YT |
 
 chef de section cybernumérique |
 
-Région
-
-de gendarmerie
-
-d'Auvergne-Rhône-Alpes |
+Région de gendarmerie d'Auvergne-Rhône-Alpes |
 
 GGD01 |
 
@@ -706,13 +698,13 @@ commandant de communauté de brigades |
 
 GGD69 |
 
-PSIG VILLEFRANCHE-SUR-SAÔNE |
+PSIG GIVORS |
 
 commandant de peloton de surveillance et d'intervention de la gendarmerie |
 
-GGD70 |
+GGD69 |
 
-PSIG GIVORS |
+PSIG VILLEFRANCHE-SUR-SAÔNE |
 
 commandant de peloton de surveillance et d'intervention de la gendarmerie |
 
@@ -938,13 +930,13 @@ DAB SR CHAMBÉRY |
 
 adjoint chef de division police judiciaire |
 
-Région
+Région de gendarmerie de Bourgogne-Franche-Comté |
 
-de gendarmerie
+GGD21 |
 
-de Bourgogne-
+BTA AUXONNE |
 
-Franche-Comté |
+commandant de brigade territoriale autonome |
 
 GGD21 |
 
@@ -1026,12 +1018,6 @@ commandant de communauté de brigades |
 
 GGD25 |
 
-COB HERICOURT |
-
-commandant de communauté de brigades |
-
-GGD25 |
-
 COB L'ISLE-SUR-LE-DOUBS |
 
 commandant de communauté de brigades |
@@ -1045,6 +1031,12 @@ commandant de communauté de brigades |
 GGD25 |
 
 COB PONTARLIER |
+
+commandant de communauté de brigades |
+
+GGD25 |
+
+COB ROULANS |
 
 commandant de communauté de brigades |
 
@@ -1134,6 +1126,12 @@ commandant de brigade territoriale autonome |
 
 GGD70 |
 
+COB HERICOURT |
+
+commandant de communauté de brigades |
+
+GGD70 |
+
 COB PORT-SUR-SAONE |
 
 commandant de communauté de brigades |
@@ -1155,12 +1153,6 @@ GGD70 |
 COB SAINT-LOUP-SUR-SEMOUSSE |
 
 commandant de communauté de brigades |
-
-GGD71 |
-
-BTA AUXONNE |
-
-commandant de brigade territoriale autonome |
 
 GGD71 |
 
@@ -1195,12 +1187,6 @@ commandant de communauté de brigades |
 GGD71 |
 
 COB MONTCHANIN |
-
-commandant de communauté de brigades |
-
-GGD71 |
-
-COB ROULANS |
 
 commandant de communauté de brigades |
 
@@ -1270,11 +1256,7 @@ COB VILLENEUVE-SUR-YONNE |
 
 commandant de communauté de brigades |
 
-Région
-
-de gendarmerie
-
-de Bretagne |
+Région de gendarmerie de Bretagne |
 
 GGD22 |
 
@@ -1630,11 +1612,7 @@ PP4 EGM47/3 CHÂTEAUROUX |
 
 commandant de peloton de gendarmerie mobile |
 
-Région
-
-de gendarmerie
-
-de Centre-Val-de-Loire |
+Région de gendarmerie de Centre-Val-de-Loire |
 
 GGD18 |
 
@@ -1924,11 +1902,7 @@ DDEFN SR ORLEANS |
 
 adjoint chef de division police judiciaire |
 
-Région
-
-de gendarmerie
-
-de Corse |
+Région de gendarmerie de Corse |
 
 GGD2A |
 
@@ -1978,11 +1952,7 @@ COB PENTA-DI-CASINCA |
 
 commandant de communauté de brigades |
 
-Région
-
-de gendarmerie
-
-de Grand-Est |
+Région de gendarmerie de Grand-Est |
 
 GGD08 |
 
@@ -2572,11 +2542,7 @@ PP4 EGM47/7 MACON |
 
 commandant de peloton de gendarmerie mobile |
 
-Région
-
-de gendarmerie
-
-des Hauts-de-France |
+Région de gendarmerie des Hauts-de-France |
 
 GGD02 |
 
@@ -3016,11 +2982,7 @@ PP4 EGM19/9 NOYON |
 
 commandant de peloton de gendarmerie mobile |
 
-Région
-
-de gendarmerie
-
-d'Ile-de-France |
+Région de gendarmerie d'Ile-de-France |
 
 GGD77 |
 
@@ -3334,11 +3296,7 @@ PP4 EGM29/1 DRANCY |
 
 commandant de peloton de gendarmerie mobile |
 
-Région
-
-de gendarmerie
-
-de Normandie |
+Région de gendarmerie de Normandie |
 
 GGD14 |
 
@@ -3688,11 +3646,7 @@ PSIG ROUEN |
 
 commandant de peloton de surveillance et d'intervention de la gendarmerie |
 
-Région
-
-de gendarmerie
-
-de Nouvelle-Aquitaine |
+Région de gendarmerie de Nouvelle-Aquitaine |
 
 GGD16 |
 
@@ -4306,11 +4260,7 @@ PP4 EGM47/2 PÉRIGUEUX |
 
 commandant de peloton de gendarmerie mobile |
 
-Région
-
-de gendarmerie
-
-d'Occitanie |
+Région de gendarmerie d'Occitanie |
 
 GGD09 |
 
@@ -4792,11 +4742,7 @@ COB VALENCE |
 
 commandant de communauté de brigades |
 
-Région
-
-de gendarmerie
-
-Pays-de-la-Loire |
+Région de gendarmerie Pays-de-la-Loire |
 
 GGD44 |
 
@@ -5038,11 +4984,7 @@ COB LA-ROCHE-SUR-YON |
 
 commandant de communauté de brigades |
 
-Région
-
-de gendarmerie
-
-de Provence-Alpes-Côte-d'Azur |
+Région de gendarmerie de Provence-Alpes-Côte-d'Azur |
 
 GGD04 |
 
@@ -5118,12 +5060,6 @@ commandant de communauté de brigades |
 
 GGD06 |
 
-PSIG CANNES |
-
-commandant de peloton de surveillance et d'intervention de la gendarmerie |
-
-GGD06 |
-
 PSIG GRASSE |
 
 commandant de peloton de surveillance et d'intervention de la gendarmerie |
@@ -5187,6 +5123,12 @@ GGD13 |
 BTA VELAUX |
 
 commandant de brigade territoriale autonome |
+
+GGD13 |
+
+PSIG ISTRES |
+
+commandant de peloton de surveillance et d'intervention de la gendarmerie |
 
 GGD83 |
 
@@ -5346,7 +5288,7 @@ commandant de peloton de gendarmerie mobile |
 
 SR13 |
 
-DIS SR CHAMBÉRY |
+DIS SR MARSEILLE |
 
 commandant de division police judiciaire adjoint |
 
@@ -5356,9 +5298,7 @@ administrative
 
 ou équivalent |
 
-Unité
-
-de rattachement |
+Unité de rattachement |
 
 Unité |
 
@@ -5420,9 +5360,7 @@ DSIS ANFSI |
 
 chef de groupe SIC |
 
-Commandement
-
-du cyber-MI |
+Commandement du cyber-MI |
 
 DSTRAT COMCYBER-MI |
 
@@ -5430,13 +5368,7 @@ BCP DSTRAT COMCYBER-MI |
 
 chef de bureau OE |
 
-Commandement
-
-des écoles
-
-de la gendarmerie
-
-nationale |
+Commandement des écoles de la gendarmerie nationale |
 
 BF CNFSICG |
 
@@ -5690,11 +5622,7 @@ CI9 DI EG TULLE |
 
 commandant de peloton école |
 
-Commandement
-
-des forces aériennes
-
-de la gendarmerie |
+Commandement des forces aériennes de la gendarmerie |
 
 CNAMAG |
 
@@ -5714,13 +5642,7 @@ SA NÎMES |
 
 sous-officier chef d'équipe |
 
-Commandement
-
-du soutien
-
-opérationnel
-
-de la gendarmerie nationale |
+Commandement du soutien opérationnel de la gendarmerie nationale |
 
 CSS GSA ILM |
 
@@ -5906,9 +5828,7 @@ BGAE ORLÉANS |
 
 commandant de brigade de gendarmerie de l'air et de l'espace |
 
-Gendarmerie
-
-de l'armement |
+Gendarmerie de l'armement |
 
 CGARMN |
 
@@ -5922,9 +5842,7 @@ PSP-GARM BOURGES |
 
 commandant de peloton de sûreté et de protection-GARM |
 
-Gendarmerie
-
-maritime |
+Gendarmerie maritime |
 
 CNIGMAR GMAR |
 
@@ -5938,13 +5856,7 @@ BPCO DO GMAR |
 
 rédacteur OE |
 
-Gendarmerie
-
-de la sécurité
-
-des armements
-
-nucléaires |
+Gendarmerie de la sécurité des armements nucléaires |
 
 GSAN |
 
@@ -6016,11 +5928,7 @@ SFS CNFIS GIGN |
 
 chef de groupe unité spéciale |
 
-Unité nationale
-
-de police judiciaire
-
-de la gendarmerie nationale |
+Unité nationale de police judiciaire de la gendarmerie nationale |
 
 BSII UNPJ |
 
