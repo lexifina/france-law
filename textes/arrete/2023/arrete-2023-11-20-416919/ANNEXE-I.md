@@ -292,7 +292,7 @@ Quantité moyenne minimale de fluides frigorigènes récupérées sur les systè
 
 100 g |
 
-L'éco-organisme réalise, en lien avec l'ADEME, avant le 31 mars 2025 une étude relative aux quantités de fluides frigorigènes susceptibles d'être récupérées en vue de proposer, le cas échéant, une révision de la trajectoire d'objectifs prévue dans le tableau ci-dessus.
+L'éco-organisme réalise, en lien avec l'ADEME, avant le 31 mars 2026 une étude relative aux quantités de fluides frigorigènes susceptibles d'être récupérées en vue de proposer, le cas échéant, une révision de la trajectoire d'objectifs prévue dans le tableau ci-dessus.
 
 Cette étude précise la méthodologie et les données utilisées pour l'élaboration de la proposition de révision de la trajectoire pluriannuelle d'objectifs.
 
