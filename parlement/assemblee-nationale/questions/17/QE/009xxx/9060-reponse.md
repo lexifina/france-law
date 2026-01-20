@@ -1,0 +1,9 @@
+# Réponse à la question n° 9060
+
+- Question : [9060](9060.md) — Question n° 9060 — Revalorisation des contrats en alternance
+
+## Réponse
+
+*JO du 2026-01-20, page 455*
+
+L'apprentissage demeure pour le Gouvernement un levier prioritaire de formation et d'insertion professionnelle, permettant à de nombreux jeunes d'acquérir une expérience concrète et de favoriser leur accès à un emploi durable. Les entreprises bénéficient également de ce dispositif, qui leur offre la possibilité de former des collaborateurs selon leurs besoins. Malgré les contraintes budgétaires et des arbitrages difficiles, le Gouvernement et les parlementaires ont choisi de poursuivre le soutien exceptionnel aux entreprises mis en place en juillet 2020 à la suite de la crise sanitaire. Ce choix montre la volonté politique de favoriser les recrutements d'apprentis dans les entreprises qui peuvent être confrontées à des difficultés de recrutement et recourent massivement à l'apprentissage. Afin de poursuivre cet objectif, les aides à l'embauche d'apprentis ont été réorientées par le décret n° 2025-174 du 22 février 2025 relatif à l'aide unique aux employeurs d'apprentis et à l'aide exceptionnelle aux employeurs d'apprentis. Elles sont désormais modulées en fonction de la taille de l'entreprise : -5 000 € maximum pour les entreprises de moins de 250 salariés ; -2 000 € maximum pour celles de 250 salariés et plus. Elle a par ailleurs été maintenue à hauteur de 6 000 € maximum pour l'embauche d'un apprenti en situation de handicap. Cette évolution nécessaire permet de continuer à soutenir l'apprentissage dans l'ensemble des entreprises et plus particulièrement dans celles de moins de 250 salariés, qui emploient aujourd'hui près de 80 % des apprentis. L'Etat permet ainsi à ces entreprises de bénéficier des compétences indispensables à leur développement. Les débats en cours sur le projet de loi de finances permettront de déterminer l'avenir des aides à l'apprentissage pour 2026.
