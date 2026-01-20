@@ -1,0 +1,9 @@
+# Réponse à la question n° 7612
+
+- Question : [7612](7612.md) — Question n° 7612 — Prise en charge des lames de course pour les bénéficiaires de la PCH
+
+## Réponse
+
+*JO du 2026-01-20, page 320*
+
+Dans le contexte de l'accueil par la France des jeux olympiques et paralympiques de 2024 et de la dynamique du plan « Héritage 2024 » visant à soutenir le développement du para sport, la conférence nationale du handicap d'avril 2023 a acté plusieurs mesures pour favoriser l'accès des personnes handicapées à la pratique sportive. Parmi celles-ci figure l'amélioration du remboursement des lames de course via la Prestation de compensation du handicap (PCH). Depuis 2024, la PCH prend ainsi en charge l'ensemble des composants nécessaires à l'équipement (lame, manchon et emboîture), dès lors que celui-ci répond à une limitation d'activité et contribue à l'autonomie de la personne, en cohérence avec ses besoins et projets. Le financement couvre 75 % du coût d'achat, dans la limite du plafond prévu pour les aides techniques, fixé à 13 200 € sur une période de dix ans. Ce plafond ne s'applique toutefois pas lorsque le tarif PCH dépasse 3 000 €. À ce jour, aucune donnée n'est disponible concernant la mise en œuvre de cette mesure, le système d'information des Maisons départementales des personnes handicapées (MDPH) ne permettant pas un suivi spécifique des financements affectés aux lames de course. Par ailleurs, un relèvement du tarif de prise en charge, commun à de nombreuses aides techniques financées par la PCH et non inscrites sur la liste des produits et prestations remboursables par l'Assurance maladie, n'est pas envisagé à ce stade. Toutefois, les fonds départementaux de compensation du handicap, prévus à l'article L. 146-5 du code de l'action sociale et des familles, peuvent être mobilisés pour aider à couvrir les frais restants à la charge des personnes, une fois les autres aides sollicitées.
