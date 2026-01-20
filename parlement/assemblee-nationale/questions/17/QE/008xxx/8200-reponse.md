@@ -1,0 +1,9 @@
+# Réponse à la question n° 8200
+
+- Question : [8200](8200.md) — Question n° 8200 — Mise en place d'un permis professionnels pour conducteurs routiers
+
+## Réponse
+
+*JO du 2026-01-20, page 362*
+
+Le Gouvernement est pleinement conscient des difficultés rencontrées par le secteur du transport routier, confronté à une pénurie de conducteurs. S'agissant de la proposition d'instaurer un permis professionnel distinct pour les conducteurs routiers, il convient de rappeler que le terme « permis professionnel » ne désigne aucune catégorie de permis de conduire délivrée par l'administration. Il s'agit d'une expression générique renvoyant aux permis et formations permettant d'exercer une activité de conduite à titre professionnel, notamment les permis C, CE, D, accompagnés de formations obligatoires comme la FIMO (formation initiale minimale obligatoire) ou la FCO (formation continue obligatoire) voyageurs et/ou marchandises. La mise en place d'un permis spécifique dédié à un usage professionnel, distinct du permis de conduire personnel, irait à l'encontre des principes fondateurs du permis à points, instauré en juillet 1992 reposant sur le principe de responsabilisation individuelle des conducteurs, quel que soit le cadre (professionnel ou privé) dans lequel s'exerce la conduite. En France, il n'existe qu'un seul permis de conduire, sur lequel peuvent être cumulées différentes catégories de véhicules. Toute infraction engage ainsi la responsabilité du conducteur, y compris dans le cadre professionnel. Par ailleurs, le principe d'un permis professionnel contreviendrait au cadre fixé par la directive 2006/126/CE de l'Union européenne. Les travaux de refonte de cette directive auxquels la France a pris une part active et qui devrait aboutir à la publication d'un nouveau texte, n'ont pas davantage envisagé la création d'un tel permis professionnel.
