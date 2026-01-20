@@ -1,0 +1,9 @@
+# Réponse à la question n° 10858
+
+- Question : [10858](10858.md) — Question n° 10858 — Budgétisation des dotations allouées aux anciens présidents de la République
+
+## Réponse
+
+*JO du 2026-01-20, page 366*
+
+En application de l'article 19 de la loi n° 55-366 du 3 avril 1955 relative au développement des crédits affectés aux dépenses du ministère des finances et des affaires économiques pour l'exercice 1955, il est attribué aux anciens présidents de la République une dotation annuelle d'un montant égal à celui du traitement indiciaire brut d'un conseiller d'Etat en service ordinaire. Cette dotation étant réversible au conjoint, elle présente le caractère d'une pension. Ainsi, deux pensions de retraite sont actuellement versées aux anciens présidents. Pour l'une, le montant annuel de la dotation est de 74 451,57 € sur la base d'un indice HE E2. Compte tenu des revalorisations intervenues depuis, le montant brut mensuel versé en 2025 est de 7 204,65 € soit une base annuelle brute de 86 455,80 €. Pour la seconde, le montant annuel de la dotation est de 73 343 € sur la base d'un indice HE E2. Compte tenu des revalorisations intervenues depuis, le montant brut mensuel versé en 2025 est de 7196,91€ soit une base annuelle brute de 86 362,92 €. L'écart entre les deux pensions s'explique par la valeur du point d'indice qui est celui utilisé à la date de départ. Le net est égal au brut. Le programme sur lequel s'exécute la dépense est le programme 741 « Pensions civiles et militaires de retraite et allocations temporaires d'invalidité ». Ce programme qui comprend l'ensemble des pensions civils et militaires ne précise pas la dotation propre des anciens présidents de la République. Ces crédits relèvent de l'action 1 qui regroupe l'ensemble des pensions civiles des fonctionnaires de l'Etat.
