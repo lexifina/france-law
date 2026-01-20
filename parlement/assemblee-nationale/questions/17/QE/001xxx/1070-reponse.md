@@ -1,0 +1,9 @@
+# Réponse à la question n° 1070
+
+- Question : [1070](1070.md) — Question n° 1070 — Caution douanière pour les exportations de cognac
+
+## Réponse
+
+*JO du 2026-01-20, page 335*
+
+L'enquête ouverte par la Chine contre nos exportations de Cognac et d'Armagnac est infondée en droit et en fait. Depuis son lancement, le Gouvernement conteste avec vigueur toute allégation de pratique déloyale de la part des producteurs français, dans le cadre des différentes procédures mais également des contacts bilatéraux avec les autorités chinoises. Mes services continuent de le faire, aux côtés de la Commission, dont la mobilisation sur ces dossiers est à saluer. Les droits additionnels sont extrêmement préjudiciables aux producteurs français, pour qui la Chine représente en moyenne plus du quart du chiffre d'affaires. Le Gouvernement est pleinement mobilisé pour apporter aux filières concernées un soutien politique et technique, notamment en évoquant ces sujets avec nos homologues chinois à chaque échéance bilatérale. Le dialogue économique et financier de haut niveau (DEFHN), qui s'est tenu à Paris le 15 mai 2025, co-présidé par le ministre de l'économie, des finances et de la souveraineté industrielle et numérique et le vice Premier ministre Chinois, a permis d'évoquer franchement et frontalement le dossier du Cognac. Ici le poids politique et la priorité que nous mettons sur ce sujet sont à saluer. Nous n'avons pas à ce stade obtenu une issue définitive favorable, sur ce sujet qui a été longuement discuté avec les homologues chinois. La partie chinoise a toutefois indiqué être prête à poursuivre le dialogue sur ce sujet. Le Gouvernement mobilise toutes les échéances françaises et européennes des semaines à venir pour parvenir à un retrait des mesures chinoises, particulièrement infondées.
