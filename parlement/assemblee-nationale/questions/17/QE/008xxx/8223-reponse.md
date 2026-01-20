@@ -1,0 +1,9 @@
+# Réponse à la question n° 8223
+
+- Question : [8223](8223.md) — Question n° 8223 — Avenir de l'Académie Fratellini
+
+## Réponse
+
+*JO du 2026-01-20, page 450*
+
+Dans un contexte de forte tension budgétaire, France compétences a lancé une procédure de révision des Niveaux de prise en charge (NPEC) des contrats d'apprentissage qui a abouti, à l'été 2024, au plafonnement à 12 000 euros de ces NPEC pour les certifications de niveaux 6 et 7. Ce plafonnement des niveaux de prise en charge des contrats d'apprentissage pour les plus hauts niveaux de certifications vise à assurer la soutenabilité financière de l'apprentissage, dont le poids sur les finances publiques s'est fortement accru depuis la loi n° 2018-771 du 5 septembre 2018 pour la liberté de choisir son avenir professionnel. Toutefois, le Gouvernement est pleinement conscient que certaines formations peuvent présenter des coûts pédagogiques spécifiques ne pouvant être couverts par un NPEC plafonné à 12 000 euros, notamment dans le domaine de la culture. Le Gouvernement reste mobilisé pour améliorer la qualité des formations et assure son plein soutien aux organismes proposant des formations d'excellence. Pour couvrir des besoins de financement, les centres de formations d'apprentis peuvent toutefois bénéficier d'autres sources de financement que les NPEC. Ainsi, des crédits au titre des enveloppes de fonctionnement et d'investissement à la main des régions sont notamment disponibles. Enfin, le Gouvernement travaille à permettre aux branches professionnelles de valoriser les financements de l'apprentissage vers les certifications ouvertes à l'apprentissage qu'elles jugeront prioritaires et en fonction de leurs besoins en effectifs dans le cadre d'une enveloppe maîtrisée. En fonction des discussions budgétaires au Parlement, le secteur culturel pourrait ainsi moduler des financements à la hausse à compter de l'entrée en vigueur de la mesure prévue pour 2026.
