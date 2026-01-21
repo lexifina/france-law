@@ -3056,19 +3056,23 @@ Ministres chargés du logement et des économie sociale |
 
 3 |
 
-Désignation des organismes notifiés, autorisés à effectuer les tâches d'évaluation et de vérification de la constance des performances des produits de construction. |
+Désignation des organismes notifiés, autorisés à effectuer les tâches l'évaluation et de la vérification des performances, de l'évaluation de la conformité et de la vérification des calculs de durabilité environnementale des produits de construction au titre du règlement (UE) n° 305/2011 ou les tâches relevant de l'évaluation et la vérification des performances, de l'évaluation de la conformité et de la vérification de l'évaluation de la durabilité environnementale des produits de construction au titre du règlement (UE) 2024/3110. |
 
-Décret n° 2012-1489 du 27 décembre 2012 Article 2. |
+Article R. 114-1 du code de la construction et de l'habitation
 
-Ministres chargés de la construction, des transports et de l'équipement |
+|
+
+Ministres chargés de la construction et des transports
+
+|
 
 4 |
 
-Désignation des organismes d'évaluation technique européenne des produits de construction. |
+Désignation des organismes d'évaluation technique européenne des produits de construction |
 
-Décret n° 2012-1489 du 27 décembre 2012 Article 4. |
+Article R. 114-4 du code de la construction et de l'habitation |
 
-Ministres chargés de la construction, des transports et de l'équipement |
+Ministres chargés de la construction et des transports |
 
 5 |
 
@@ -3435,7 +3439,3 @@ Décisions amiables d'indemnisation résultant de la mise en cause de la respons
 3 |
 
 Décisions relatives aux personnes morales placées sous la tutelle ou le contrôle de l'Etat autres que celles mentionnées au 3e de l'annexe au décret n° 97-1206 pris pour l'application à l'ensemble des ministères du premier alinéa de l'article 2 du décret n° 97-34 du 15 janvier 1997 relatif à la déconcentration des décisions administratives individuelles. |
-
-NOTA :
-
-Conformément à l’article 3 du décret n°1063 (NOR : TRAA2520316D), ces dispositions, dans leur rédaction résultant de l’article 2 dudit décret, sont applicables dans les îles Wallis et Futuna, en Polynésie française et, sous réserve des compétences dévolues à la collectivité en vertu de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie, en Nouvelle-Calédonie.
