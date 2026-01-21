@@ -16,7 +16,9 @@ par emploi |
 
 NOMBRE d'emplois concernés |
 
-I.-Administration centrale |
+I.-Administration centrale
+
+|
 
 |
 
@@ -54,7 +56,9 @@ A ou B |
 
 |
 
-Assistant de direction |
+Assistante de direction
+
+|
 
 B ou C |
 
@@ -62,7 +66,7 @@ B ou C |
 
 2 |
 
-Assistant de direction
+Assistante de direction
 
 |
 
@@ -70,9 +74,9 @@ B ou C |
 
 20 |
 
-3 |
+4 |
 
-Assistant de direction DG et DGA
+Assistante de direction DG et DGA
 
 |
 
@@ -136,33 +140,33 @@ Responsable de l'action sociale
 
 |
 
-A |
-
-20 |
-
-1 |
-
-Adjoint au chef du bureau des ressources et de la coordination, chef de la section RH-GPEEC
-
-|
-
 B |
 
 20 |
 
 1 |
 
-Adjoint au chef du bureau chargé de mission emploi et formation
+Adjoint au chef de bureau des ressources et de la coordination, chef de la section RH-GPEEC
 
 |
 
 A |
 
-40 |
+20 |
 
 1 |
 
-Adjoint au chef du bureau du droit privé, du droit des activités économiques et sociales
+Adjoint au chef du bureau de la vie économique, de l'emploi et de la formation
+
+|
+
+A |
+
+20 |
+
+1 |
+
+Adjoint au chef du bureau du droit privé, et du droit des activités économiques et sociales
 
 |
 
@@ -172,7 +176,7 @@ A |
 
 1 |
 
-Adjoint au chef du bureau du droit public et des affaires institutionnelles
+Chef de la mission du droit européen et international
 
 |
 
@@ -312,7 +316,7 @@ A |
 
 1 |
 
-Adjoint au chef du bureau chargé de mission juriste
+Adjoint au chef du bureau chargé de la mission juriste
 
 |
 
