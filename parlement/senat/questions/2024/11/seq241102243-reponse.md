@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241102243
+
+- Question : [SEQ241102243](seq241102243.md) — Conditions de gestion de l'allocation spécifique de solidarité (ASS)
+
+## Réponse
+
+*Travail et solidarités, JO du 2026-01-22, page 326*
+
+L'Allocation de solidarité spécifique (ASS) constitue un revenu de remplacement à destination des travailleurs privés d'emploi ayant épuisé leurs droits au régime d'assurance chômage. Le bénéfice de l'allocation de solidarité est subordonné à une inscription comme demandeur d'emploi et à la justification de cinq ans d'activité salariée dans les dix années précédant la fin du contrat de travail à partir de laquelle a eu lieu la dernière ouverture de droit à l'assurance chômage. Pour bénéficier de l'ASS, il convient également de ne pas dépasser un plafond de ressources déterminé. La gestion de l'ASS est assurée par France Travail, qui garantit l'information, à chaque étape, du demandeur d'emploi ainsi que la régularité des paiements et la bonne articulation entre l'allocation de retour à l'emploi et l'attribution de l'ASS. Le dispositif a également été renforcé dans le cadre de l'automatisation et la dématérialisation de l'ASS. Depuis deux ans, la demande et le renouvellement du bénéfice d'ASS peuvent être entièrement dématérialisés. Afin de faciliter le recours au droit, le renouvellement est désormais automatique et dématérialisé tous les six mois, si les ressources fiscales du demandeur d'emploi sont conformes aux exigences réglementaires. L'information du demandeur d'emploi est en outre assurée à l'issue de l'étude de son dossier via une notification automatique d'admission ou de rejet par voie postale ou sur son espace numérique, ainsi qu'à chaque étape du processus de sa demande. Dans le cadre de la gestion de l'ASS, France Travail poursuit une démarche constante d'amélioration du processus d'information et d'indemnisation des bénéficiaires de l'ASS.
