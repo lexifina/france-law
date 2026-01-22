@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250604966
+
+- Question : [SEQ250604966](seq250604966.md) — Difficultés rencontrées par les collectivités locales pour répondre à la demande croissante de logements sociaux
+
+## Réponse
+
+*Ville et Logement, JO du 2026-01-22, page 352*
+
+Les objectifs fixés par l'article 55 de la loi du 13 décembre 2000 relative à la solidarité et au renouvellement urbains (SRU) visent à rééquilibrer l'offre de logement sociaux sur l'ensemble du territoire afin d'assurer la mixité sociale et la solidarité sur le territoire. La loi SRU constitue un cadre contraignant pour les communes mais elle prévoit plusieurs dispositifs d'adaptation pour soutenir les maires dans la production de logement social, sans bouleverser l'équilibre budgétaire des communes. Depuis la loi dite 3DS du 21 février 2022, la signature d'un contrat de mixité sociale (CMS) permet d'adapter les objectifs de production au territoire et de contractualiser directement avec le représentant de l'Etat sur le territoire concerné. Le CMS constitue un cadre partenarial permettant de déterminer une stratégie foncière sur le moyen terme, afin de ne pas pénaliser les collectivités et leurs contribuables. Aussi, les objectifs triennaux auxquels sont soumises les communes tiennent compte de leur volontarisme dans la production de logement social. En ce sens, les prélèvements associés à la carence des communes peuvent être minorés par la déduction de « dépenses déductibles ». Ces dernières correspondent aux dépenses engagées en faveur du développement de l'offre de logements sociaux sur le territoire communal. Pour les communes qui seraient empêchées de produire du logement social sur leur territoire, des procédures d'exemption fondées sur différents critères permettent de tenir compte des difficultés et particularités locales propres à chaque commune.
