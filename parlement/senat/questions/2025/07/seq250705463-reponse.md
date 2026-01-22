@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250705463
+
+- Question : [SEQ250705463](seq250705463.md) — Avenir du Palais de la découverte à Paris
+
+## Réponse
+
+*Enseignement supérieur, recherche et espace, JO du 2026-01-22, page 290*
+
+Le projet de réouverture du Palais de la Découverte, porté par Universcience en partenariat avec le CNRS et l'ensemble de la communauté scientifique, et soutenu par un mécénat significatif, s'inscrit dans une dynamique de modernisation et d'adaptation aux défis du XXIe siècle, avec pour ambition de faire du Palais un lieu vivant, interactif et résolument tourné vers les grands enjeux contemporains (intelligence artificielle, transition énergétique, changement climatique, santé, etc.). La nomination récente de Sylvie RETAILLEAU à la présidence d'Universcience, effective depuis le 5 janvier 2025, marque une nouvelle étape dans la concrétisation de cette ambition : elle a pour mission de finaliser les discussions avec le Grand Palais RMN pour une réouverture du Palais de la Découverte dans le Palais d'Antin au premier trimestre 2027, tout en définissant un modèle pérenne de gouvernance et de financement. Enfin, le ministère de l'enseignement supérieur, de la recherche et de l'espace, en lien avec les ministères de l'éducation nationale et de la culture, travaille à la définition d'une stratégie interministérielle ambitieuse et mieux coordonnée pour la culture scientifique, technique et industrielle (CSTI). Celle-ci vise à ancrer durablement la diffusion des savoirs, à renforcer l'esprit critique des citoyens - notamment des jeunes -, et à affirmer le rôle essentiel de la science dans l'éducation, la citoyenneté et la lutte contre la désinformation, en s'appuyant sur des lieux phares comme le Palais de la Découverte, au service de la recherche, de l'innovation et de la société.
