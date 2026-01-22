@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250504878
+
+- Question : [SEQ250504878](seq250504878.md) — Extension des critères d'attribution de la médaille d'honneur du travail aux travailleurs indépendants
+
+## Réponse
+
+*Travail et solidarités, JO du 2026-01-22, page 328*
+
+La médaille d'honneur du travail est une distinction honorifique. Elle a pour but de récompenser l'ancienneté de services d'un salarié du secteur privé, la qualité de ses initiatives prises dans l'exercice de sa profession ou ses efforts pour acquérir une meilleure qualification. Cette distinction récompense la longévité et la fidélité dans une même entreprise, ou plus largement, dans une activité professionnelle salariée. Elle est donc historiquement liée au statut de salarié. Or, les travailleurs indépendants, les auto-entrepreneurs, les professions libérales ou les artisans n'ont pas de lien de subordination avec un employeur. Cette médaille valorise la fidélité à une entreprise et la contribution durable dans un cadre salarié. Les travailleurs indépendants ne sont pas rattachés à un employeur ni à une structure patronale de la même manière. Par ailleurs, les travailleurs indépendants peuvent être reconnus par d'autres formes de distinctions ou d'honneurs spécifiques à leur profession ou leur ordre professionnel, à l'image de la médaille de l'artisanat, des médailles et des prix des professions libérales ou des commerçants, de la reconnaissance par les chambres consulaires (diplômes, trophées ou prix pour honorer la longévité, l'innovation ou l'excellence dans la gestion d'une entreprise indépendante), ou encore des décorations nationales (Légion d'honneur, Ordre national du Mérite, médaille du mérite agricole, etc.). Compte tenu de ces éléments relatifs à la spécificité de la médaille d'honneur du travail, il n'est pas envisagé de révision des critères d'attribution visant à permettre aux travailleurs indépendants de bénéficier de la médaille d'honneur du travail.
