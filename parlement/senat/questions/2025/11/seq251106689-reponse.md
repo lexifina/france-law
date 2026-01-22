@@ -1,0 +1,9 @@
+# Réponse à la question SEQ251106689
+
+- Question : [SEQ251106689](seq251106689.md) — Aménagement des routes nationales et sécurité routière à Choisy-le-Roi
+
+## Réponse
+
+*Transports, JO du 2026-01-22, page 320*
+
+Pour ce qui concerne l'entretien du réseau routier de l'État, l'autoroute A86 et la RN6 font l'objet d'un programme d'entretien pluriannuel piloté par la direction interdépartementale des routes d'Île-de-France (DiRIF) afin notamment d'assurer pour les usagers des conditions de circulation en sécurité et tenant compte du niveau de trafic. Dans le secteur de Choisy-Le-Roi dans le Val de Marne, les chaussées de ces deux axes routiers sont relativement récentes. Par ailleurs, des travaux de réfection des chaussées de l'A86 sur 5 km sont programmés par la DiRIF pour l'année 2026 à proximité de Choisy-Le-Roi. Concernant les projets d'aménagement et de modernisation du réseau routier de l'État, la RN6 a fait l'objet, à Villeneuve Saint Georges, du réaménagement du pôle gare et du carrefour de la tête de pont dans le cadre du volet mobilités 2015-2022 du contrat de plan État-région. S'agissant de la RD 138, son entretien et son aménagement relèvent de la compétence du conseil départemental du Val de Marne. Au-delà des projets d'entretien et d'aménagement portés par chacun des gestionnaires routiers, la question plus générale de l'organisation des déplacements au sein du territoire de Choisy-le-Roi relève d'Île de France Mobilités, autorité organisatrice de la mobilité de la région francilienne. A ce titre, la région Île-de-France a adopté le plan des mobilités en Île de France le 24 septembre 2025. Sa déclinaison locale a vocation à se concrétiser dans le cadre d'un plan local de mobilité porté par l'établissement public territorial compétent, Grand Orly Seine Bièvre, conformément à l'article L. 1214-31 du code des transports.
