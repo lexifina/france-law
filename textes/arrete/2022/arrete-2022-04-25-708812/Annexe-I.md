@@ -38,11 +38,11 @@ C.-Emplois relevant du groupe 1
 
 3° Major général de l'armée de l'air et de l'espace ;
 
-4° Sous-chef d'état-major &laquo; opérations &raquo; à l'état-major des armées ;
+4° Sous-chef d'état-major "opérations" à l'état-major des armées ;
 
-5° Sous-chef d'état-major &laquo; plans &raquo; à l'état-major des armées ;
+5° Sous-chef d'état-major "plans" à l'état-major des armées ;
 
-6° Sous-chef d'état-major &laquo; appui-environnement &raquo; à l'état-major des armées ;
+6° Sous-chef d'état-major "appui-environnement" à l'état-major des armées ;
 
 7° Chef du cabinet militaire du Premier ministre ;
 
@@ -80,7 +80,7 @@ D.-Emplois relevant du groupe 2
 
 2° Inspecteur technique de l'infrastructure de la défense ;
 
-3° Officier général &laquo; commandant de la cyber défense &raquo; ;
+3° Officier général "commandant de la cyber défense" ;
 
 4° Officier général de zone de défense et de sécurité Est, gouverneur militaire de Metz, commandant de zone terre Nord-Est et commandant des forces françaises et de l'élément civil stationnés en Allemagne ;
 
@@ -94,7 +94,7 @@ D.-Emplois relevant du groupe 2
 
 9° Adjoint forces au délégué général pour l'armement ;
 
-10° Commandant du quartier général du corps de réaction rapide-France ;
+10° Commandant du quartier général du 1er corps d'armée ;
 
 11° Commandant du combat futur de l'armée de terre ;
 
@@ -110,7 +110,7 @@ D.-Emplois relevant du groupe 2
 
 17° Inspecteur du commissariat des armées ;
 
-18° Chargé de mission auprès du major général des armées ;
+18° Chargé de mission auprès du chef d'état-major des armées ;
 
 19° Officier général auprès du directeur des ressources humaines du ministère de la défense ;
 
@@ -118,7 +118,7 @@ D.-Emplois relevant du groupe 2
 
 21° Directeur du service de l'énergie opérationnelle ;
 
-22° Officier général &laquo; stratégie des ressources humaines &raquo; ;
+22° Officier général "stratégie des ressources humaines" ;
 
 23° Conseiller du Gouvernement pour la défense ;
 
@@ -132,11 +132,11 @@ E.-Emplois relevant du groupe 3
 
 3° Adjoint au directeur technique et de l'innovation de la direction générale de la sécurité extérieure ;
 
-4° Sous-chef d'état-major &laquo; opérations aéroterrestres &raquo; de l'état-major de l'armée de terre ;
+4° Sous-chef d'état-major "opérations aéroterrestres" de l'état-major de l'armée de terre ;
 
-5° Sous-chef d'état-major &laquo; plans et programmes &raquo; de l'état-major de l'armée de terre ;
+5° Sous-chef d'état-major "plans et programmes" de l'état-major de l'armée de terre ;
 
-6° Sous-chef d'état-major &laquo; performance et soutiens &raquo; de l'état-major de l'armée de terre ;
+6° Sous-chef d'état-major "performance et soutiens" de l'état-major de l'armée de terre ;
 
 7° Général commandant de la 1 re division et commandant de la base de défense de Besançon-Belfort ;
 
@@ -146,17 +146,17 @@ E.-Emplois relevant du groupe 3
 
 10° Général commandant de l'aviation légère de l'armée de terre et commandant de la base de défense de Metz-Verdun ;
 
-11° Officier général &laquo; Haut encadrement militaire-terre &raquo; de la direction des ressources humaines de l'armée de terre ;
+11° Officier général "Haut encadrement militaire-terre" de la direction des ressources humaines de l'armée de terre ;
 
 12° Inspecteur adjoint à l'inspection de l'armée de terre ;
 
 13° Général commandant les actions dans la profondeur et du renseignement ;
 
-14° Chef d'état-major du corps de réaction rapide-France ;
+14° Chef d'état-major du 1er corps d'armée ;
 
 15° Chef d'état-major du commandement de la force et des opérations terrestres ;
 
-16° Chef de la division &laquo; cohésion nationale &raquo; de l'état-major des armées ;
+16° Chef de la division "cohésion nationale" de l'état-major des armées ;
 
 17° Général commandant de l'académie militaire de Saint-Cyr Coëtquidan ;
 
@@ -174,11 +174,11 @@ E.-Emplois relevant du groupe 3
 
 24° Général commandant le pôle formation de la direction des ressources humaines de l'armée de terre ;
 
-25° Sous-chef d'état-major &laquo; opérations aéronavales &raquo; de l'état-major de la marine ;
+25° Sous-chef d'état-major "opérations aéronavales" de l'état-major de la marine ;
 
-26° Sous-chef d'état-major &laquo; soutien et finances &raquo; de l'état-major de la marine ;
+26° Sous-chef d'état-major "soutien et finances" de l'état-major de la marine ;
 
-27° Sous-chef d'état-major &laquo; plans et programmes &raquo; de l'état-major de la marine ;
+27° Sous-chef d'état-major "plans et programmes" de l'état-major de la marine ;
 
 28° Commandant de la force de l'aéronautique navale ;
 
@@ -186,11 +186,11 @@ E.-Emplois relevant du groupe 3
 
 30° Chef d'état-major de la force d'action navale ;
 
-31° Officier général &laquo; transformation digitale et donnée &raquo; et autorité de coordination &laquo; numérique &raquo; de l'état-major de la marine ;
+31° Officier général "transformation digitale et donnée" et autorité de coordination "numérique" de l'état-major de la marine ;
 
 32° Commandant de la force des fusiliers-marins et commandos et commandant de la marine à Lorient ;
 
-33° Autorité de coordination &laquo; affaires nucléaires, prévention et protection de l'environnement &raquo; ;
+33° Autorité de coordination "affaires nucléaires, prévention et protection de l'environnement" ;
 
 34° Président de la commission permanente des programmes et des essais des bâtiments de la flotte ;
 
@@ -202,11 +202,11 @@ E.-Emplois relevant du groupe 3
 
 38° Directeur général de l'Ecole navale ;
 
-39° Sous-chef d'état-major &laquo; activité &raquo; de l'état-major de l'armée de l'air et de l'espace ;
+39° Sous-chef d'état-major "activité" de l'état-major de l'armée de l'air et de l'espace ;
 
-40° Sous-chef d'état-major &laquo; plan-programmes &raquo; de l'état-major de l'armée de l'air et de l'espace ;
+40° Sous-chef d'état-major "plan-programmes" de l'état-major de l'armée de l'air et de l'espace ;
 
-41° Sous-chef d'état-major &laquo; performance-synthèse &raquo; de l'état-major de l'armée de l'air et de l'espace ;
+41° Sous-chef d'état-major "performance-synthèse" de l'état-major de l'armée de l'air et de l'espace ;
 
 42° Général commandant en second des forces aériennes stratégiques ;
 
@@ -238,41 +238,41 @@ E.-Emplois relevant du groupe 3
 
 56° Directeur central adjoint du service du commissariat des armées ;
 
-57° Officier général &laquo; directeur de l'emploi et des activités &raquo; de la direction centrale du service du commissariat des armées ;
+57° Officier général "directeur de l'emploi et des activités" de la direction centrale du service du commissariat des armées ;
 
-58° Officier général &laquo; directeur des métiers et des risques &raquo; de la direction centrale du service du commissariat des armées ;
+58° Officier général "directeur des métiers et des risques" de la direction centrale du service du commissariat des armées ;
 
 59° Directeur central adjoint du service d'infrastructure de la défense ;
 
-60° Chargé des fonctions de chef du service &laquo; gouvernance et stratégie &raquo; de la direction centrale du commissariat au numérique de défense ;
+60° Chargé des fonctions de chef du service "gouvernance et stratégie" de la direction centrale du commissariat au numérique de défense ;
 
-61° Chef de la division &laquo; infrastructure et énergie opérationnelle &raquo; de l'état-major des armées ;
+61° Chef de la division "infrastructure et énergie opérationnelle" de l'état-major des armées ;
 
-62° Officier général, directeur de projet &laquo; défense et sécurité &raquo; auprès du sous-chef d'état-major &laquo; opérations &raquo; de l'état-major des armées ;
+62° Officier général, directeur de projet "défense et sécurité" auprès du sous-chef d'état-major "opérations" de l'état-major des armées ;
 
-63° Officier général, directeur des projets &laquo; coopération capacitaire internationale &raquo;, &laquo; cessions &raquo; et &laquo; innovation &raquo; auprès du sous-chef d'état-major &laquo; plans &raquo; de l'état-major des armées ;
+63° Officier général, directeur des projets "coopération capacitaire internationale", "cessions" et "innovation" auprès du sous-chef d'état-major "plans" de l'état-major des armées ;
 
-64° Officier général, directeur de projet &laquo; transformation &raquo; auprès du sous-chef d'état-major &laquo; appui-environnement &raquo; de l'état-major des armées ;
+64° Officier général, directeur de projet "transformation" auprès du sous-chef d'état-major "appui-environnement" de l'état-major des armées ;
 
-65° Officier adjoint du major général des armées et chef de la division &laquo; études, stratégie et management général &raquo; de l'état-major des armées ;
+65° Officier adjoint du major général des armées et chef de la division "études, stratégie et management général" de l'état-major des armées ;
 
-66° Chef de la division &laquo; forces nucléaires &raquo; à l'état-major des armées ;
+66° Chef de la division "forces nucléaires" à l'état-major des armées ;
 
-67° Chef de la division &laquo; plans, programmation et évaluation &raquo; de l'état-major des armées ;
+67° Chef de la division "plans, programmation et évaluation" de l'état-major des armées ;
 
-68° Chef de la division &laquo; cohérence capacitaire &raquo; de l'état-major des armées ;
+68° Chef de la division "cohérence capacitaire" de l'état-major des armées ;
 
-69° Chef de la division &laquo; maîtrise des armements &raquo; de l'état-major des armées ;
+69° Chef de la division "maîtrise des armements" de l'état-major des armées ;
 
-70° Chef de la division &laquo; emplois des forces-protection &raquo; de l'état-major des armées ;
+70° Chef de la division "emplois des forces-protection" de l'état-major des armées ;
 
-71° Chef de la division &laquo; soutien de l'activité &raquo; de l'état-major des armées ;
+71° Chef de la division "soutien de l'activité" de l'état-major des armées ;
 
-72° Chef de la division &laquo; organisation ressources humaines &raquo; de l'état-major des armées ;
+72° Chef de la division "organisation ressources humaines" de l'état-major des armées ;
 
 73° Directeur du service interarmées des munitions ;
 
-74° Officier général &laquo; relations internationales militaires &raquo; de l'état-major des armées ;
+74° Officier général "relations internationales militaires" de l'état-major des armées ;
 
 75° Chef de cabinet du chef d'état-major des armées ;
 
@@ -286,13 +286,13 @@ E.-Emplois relevant du groupe 3
 
 80° Commandant du centre interarmées de coordination du soutien ;
 
-81° Officier général &laquo; directeur des ressources humaines &raquo; de la direction centrale du service du commissariat des armées ;
+81° Officier général "directeur des ressources humaines" de la direction centrale du service du commissariat des armées ;
 
 82° Commandant du centre du soutien des opérations et des acheminements ;
 
-83° Officier général &laquo; numérique &raquo; et chef de la division &laquo; stratégie numérique des armées &raquo; de l'état-major des armées ;
+83° Officier général "numérique" et chef de la division "stratégie numérique des armées" de l'état-major des armées ;
 
-84° Chargé de mission auprès du directeur de l'ingénierie et de l'expertise de la direction générale de l'armement ;
+84° Chargé de mission auprès du chef d'état-major des armées ;
 
 85° Directeur de la protection des installations, moyens et activités de la défense ;
 
@@ -300,17 +300,17 @@ E.-Emplois relevant du groupe 3
 
 87° Officier général, commandant les services des officiers généraux ;
 
-88° Officier général &laquo; directeur du conseil juridique et des droits individuels &raquo; de la direction centrale du service du commissariat des armées ;
+88° Officier général "directeur du conseil juridique et des droits individuels" de la direction centrale du service du commissariat des armées ;
 
-89° Général adjoint &laquo; engagements &raquo; à l'officier général de zone de défense et de sécurité Sud-Ouest et commandant de zone terre Sud-Ouest ;
+89° Général adjoint "engagements" à l'officier général de zone de défense et de sécurité Sud-Ouest et commandant de zone terre Sud-Ouest ;
 
 90° Chef d'état-major de la direction du renseignement militaire ;
 
 91° (Supprimé) ;
 
-92° Chargé des fonctions de chef du service &laquo; commandement numérique interarmées &raquo; de la direction centrale du commissariat au numérique de défense ;
+92° Chargé des fonctions de chef du service "commandement numérique interarmées" de la direction centrale du commissariat au numérique de défense ;
 
-93° Chargé de projet &laquo; simplification du fonctionnement de l'armée de terre &raquo; auprès de l'inspecteur de l'armée de terre ;
+93° Chargé de projet "simplification du fonctionnement de l'armée de terre" auprès de l'inspecteur de l'armée de terre ;
 
 94° Officier général en charge du contrôle et de l'emploi des moyens militaires du service action de la direction générale de la sécurité extérieure ;
 
@@ -320,7 +320,7 @@ E.-Emplois relevant du groupe 3
 
 97° Commandant du centre expert du commandement interarmées ;
 
-98° Officier général, directeur de projet &laquo; stratégie infrastructures &raquo; auprès du sous-chef d'état-major &laquo; appui-environnement &raquo; de l'état-major des armées.
+98° Officier général, directeur de projet "stratégie infrastructures" auprès du sous-chef d'état-major "appui-environnement" de l'état-major des armées.
 
 F.-Emplois relevant du groupe 4
 
@@ -330,7 +330,7 @@ F.-Emplois relevant du groupe 4
 
 3° Délégué adjoint à l'information et à la communication de la défense ;
 
-4° (Transféré) ;
+4° Adjoint au commandant le commandement pour l'Afrique ;
 
 5° Directeur de la circulation aérienne militaire à la direction de la sécurité aéronautique d'Etat ;
 
@@ -350,17 +350,17 @@ F.-Emplois relevant du groupe 4
 
 13° Directeur du service d'infrastructure de la défense Nord-Ouest ;
 
-14° Chargé des fonctions de chef de service &laquo; maintenance et patrimoine &raquo; du service d'infrastructure de la défense ;
+14° Chargé des fonctions de chef de service "maintenance et patrimoine" du service d'infrastructure de la défense ;
 
 15° Adjoint au directeur du renseignement et de la sécurité de défense ;
 
-16° (Transféré) ;
+16° Chargé de mission auprès du major général des armées ;
 
 17° (Transféré) ;
 
-18° Officier général adjoint &laquo; engagements opérationnels/ conduite &raquo; au chef du centre de planification et de conduite des opérations de l'état-major des armées ;
+18° Officier général adjoint "engagements opérationnels/ conduite" au chef du centre de planification et de conduite des opérations de l'état-major des armées ;
 
-19° Officier général adjoint &laquo; effets stratégiques/ plans &raquo; au chef du centre de planification et de conduite des opérations ;
+19° Officier général adjoint "effets stratégiques/ plans" au chef du centre de planification et de conduite des opérations ;
 
 20° Officier général adjoint au commandant de la cyber défense ;
 
@@ -374,19 +374,19 @@ F.-Emplois relevant du groupe 4
 
 25° Commandant supérieur des forces armées en Polynésie française, commandant du centre d'expérimentations du Pacifique, commandant des zones maritimes océan Pacifique et Polynésie française et commandant de la base de défense de Polynésie française ;
 
-26° Chef de la division &laquo; soutien de l'homme &raquo; à l'état-major des armées ;
+26° Chef de la division "soutien de l'homme" à l'état-major des armées ;
 
-27° Conseiller influence et lutte informationnelle et chef du pôle &laquo; Anticipation stratégique et orientation &raquo; ;
+27° Conseiller influence et lutte informationnelle et chef du pôle "Anticipation stratégique et orientation" ;
 
 28° Commandant de la logistique de l'énergie opérationnelle ;
 
 29° Adjoint au commandant des opérations spéciales ;
 
-30° Chargé des fonctions de chef de service &laquo; stratégie et prospective &raquo; du service d'infrastructure de la défense ;
+30° Chargé des fonctions de chef de service "stratégie et prospective" du service d'infrastructure de la défense ;
 
 31° Chargé des fonctions de sous-directeur de l'exploitation à la direction du renseignement militaire ;
 
-32° Chargé des fonctions de sous-directeur &laquo; capacités &raquo; à la direction du renseignement militaire ;
+32° Chargé des fonctions de sous-directeur "capacités" à la direction du renseignement militaire ;
 
 33° Chargé des fonctions de sous-directeur technique de la direction du renseignement militaire ;
 
@@ -400,11 +400,11 @@ F.-Emplois relevant du groupe 4
 
 38° Directeur adjoint des hôpitaux des armées ;
 
-39° Chargé des fonctions de chef du service &laquo; ressources humaines, métiers et compétences &raquo; de la direction centrale du commissariat au numérique de défense ;
+39° Chargé des fonctions de chef du service "ressources humaines, métiers et compétences" de la direction centrale du commissariat au numérique de défense ;
 
-40° Officier général adjoint &laquo; environnement des opérations/ logistique &raquo; au chef du centre de planification et de conduite des opérations ;
+40° Officier général adjoint "environnement des opérations/ logistique" au chef du centre de planification et de conduite des opérations ;
 
-41° Officier général &laquo; Très Haute Altitude &raquo; ;
+41° Officier général "Très Haute Altitude" ;
 
 42° Général commandant l'état-major interarmées du territoire national métropolitain ;
 
@@ -422,7 +422,7 @@ F.-Emplois relevant du groupe 4
 
 49° Général adjoint anticipation auprès du général commandant la force et les opérations terrestres et commandant de la base de défense de Lille ;
 
-50° Adjoint au directeur central de la structure intégrée du maintien en condition opérationnelle des matériels terrestres, chargé des fonctions de sous-directeur &laquo; opérations &raquo; ;
+50° Adjoint au directeur central de la structure intégrée du maintien en condition opérationnelle des matériels terrestres, chargé des fonctions de sous-directeur "opérations" ;
 
 51° Général commandant de la brigade de maintenance ;
 
@@ -454,9 +454,9 @@ F.-Emplois relevant du groupe 4
 
 65° Général commandant des écoles militaires de Draguignan et commandant de la base de défense de Draguignan ;
 
-66° Officier général &laquo; anticipation et synthèse &raquo; de l'état-major de l'armée de terre ;
+66° Officier général "anticipation et synthèse" de l'état-major de l'armée de terre ;
 
-67° Officier général &laquo; relations internationales &raquo; de l'état-major de l'armée de terre ;
+67° Officier général "relations internationales" de l'état-major de l'armée de terre ;
 
 68° Chargé des fonctions de sous-directeur des études et de la politique de la direction des ressources humaines de l'armée de terre et délégué aux réserves de l'armée de terre ;
 
@@ -464,7 +464,7 @@ F.-Emplois relevant du groupe 4
 
 70° Chargé des fonctions de sous-directeur du pôle recrutement jeunesse de la direction des ressources humaines de l'armée de terre et délégué à la jeunesse pour l'armée de terre ;
 
-71° Officier général &laquo; transformation et synthèse &raquo; de l'état-major de la marine ;
+71° Officier général “ transformation, synthèse et organisation des ressources humaines ” de l'état-major de la marine ;
 
 72° Conseiller pour le secrétariat des conseils de défense et de sécurité nationale et occupant les fonctions de conseiller défense et sécurité n° 1 du secrétaire général de la défense et de la sécurité nationale ;
 
@@ -488,11 +488,11 @@ F.-Emplois relevant du groupe 4
 
 82° Commandant du centre d'études stratégiques de la marine, délégué au rayonnement de la marine et commandant de la marine à Paris ;
 
-83° Chargé des fonctions de sous-directeur &laquo; études et politiques des ressources humaines &raquo; de la marine ;
+83° Chargé des fonctions de sous-directeur "études et politiques des ressources humaines" de la marine ;
 
-84° Chargé de projet &laquo; système de combat aérien futur &raquo; ;
+84° Chargé de projet "système de combat aérien futur" ;
 
-85° Officier général &laquo; nucléaire et sécurité &raquo; de l'état-major de l'armée de l'air et de l'espace ;
+85° Officier général "nucléaire et sécurité" de l'état-major de l'armée de l'air et de l'espace ;
 
 86° Commandant de la brigade aérienne de la posture permanente de sûreté aérienne ;
 
@@ -514,39 +514,39 @@ F.-Emplois relevant du groupe 4
 
 95° Adjoint au commandant de l'espace ;
 
-96° Chargé des fonctions de sous-directeur &laquo; études, politique des ressources humaines et haut encadrement militaire &raquo; de la direction des ressources humaines de l'armée de l'air et de l'espace ;
+96° Chargé des fonctions de sous-directeur "études, politique des ressources humaines et haut encadrement militaire" de la direction des ressources humaines de l'armée de l'air et de l'espace ;
 
-97° Chargé des fonctions de sous-directeur &laquo; écoles et formation &raquo; de la direction des ressources humaines de l'armée de l'air et de l'espace ;
+97° Chargé des fonctions de sous-directeur "écoles et formation" de la direction des ressources humaines de l'armée de l'air et de l'espace ;
 
 98° Directeur du centre des études stratégiques aérospatiales ;
 
-99° Chargé des fonctions de sous-directeur &laquo; emploi &raquo; de la direction centrale du service du commissariat des armées ;
+99° Chargé des fonctions de sous-directeur "emploi" de la direction centrale du service du commissariat des armées ;
 
-100° Directeur du centre interarmées du soutien &laquo; solde et administration du personnel &raquo; ;
+100° Directeur du centre interarmées du soutien "solde et administration du personnel" ;
 
-101° Directeur du centre interarmées du soutien &laquo; multiservices &raquo; ;
+101° Directeur du centre interarmées du soutien "multiservices" ;
 
-102° Directeur du centre interarmées du soutien &laquo; équipements commissariat &raquo; ;
+102° Directeur du centre interarmées du soutien "équipements commissariat" ;
 
-103° Directeur du centre interarmées du soutien &laquo; restauration et loisirs &raquo; ;
+103° Directeur du centre interarmées du soutien "restauration et loisirs" ;
 
 104° Commissaire général délégué du service du commissariat des armées et directeur de la plateforme commissariat Sud ;
 
-105° Directeur du centre interarmées du soutien &laquo; métiers et contrôle interne &raquo; ;
+105° Directeur du centre interarmées du soutien "métiers et contrôle interne" ;
 
 106° Commandant du 2 e centre médical des armées d'Ile-de-France ;
 
-107° Chargé des fonctions de sous-directeur &laquo; études et politiques des ressources humaines &raquo; de la direction centrale du service de santé des armées ;
+107° Chargé des fonctions de sous-directeur "études et politiques des ressources humaines" de la direction centrale du service de santé des armées ;
 
 108° Inspecteur à l'inspection du service de santé des armées ;
 
-109° Officier général &laquo; haut encadrement militaire &raquo; de l'état-major des armées ;
+109° Officier général "haut encadrement militaire" de l'état-major des armées ;
 
 110° Officier général commandant le commandement pour l'Afrique ;
 
-111° Autorité de coordination pour les &laquo; relations internationales &raquo; ;
+111° Autorité de coordination pour les "relations internationales" ;
 
-112° Officier général &laquo; relations internationales &raquo; de l'armée de l'air et de l'espace ;
+112° Officier général "relations internationales" de l'armée de l'air et de l'espace ;
 
 113° Chargé de mission auprès du chef d'état-major des armées ;
 
@@ -574,13 +574,13 @@ G.-Emplois relevant du groupe 5
 
 9° Chef de la mission de retour à la vie civile des officiers généraux ;
 
-10° Adjoint au chef du service &laquo; fabrique numérique &raquo; de la direction centrale du commissariat au numérique de défense ;
+10° Adjoint au chef du service "fabrique numérique" de la direction centrale du commissariat au numérique de défense ;
 
 11° (Transféré) ;
 
-12° Chef de la division &laquo; Euratlantique &raquo; à l'état-major des armées ;
+12° Chef de la division "Euratlantique" à l'état-major des armées ;
 
-13° Chef de la division &laquo; coopération bilatérale Sud &raquo; à l'état-major des armées ;
+13° Chef de la division "coopération bilatérale Sud" à l'état-major des armées ;
 
 14° (Transféré) ;
 
@@ -590,7 +590,7 @@ G.-Emplois relevant du groupe 5
 
 17° Directeur du centre des hautes études militaires ;
 
-18° Adjoint à l'officier général chargé des fonctions de chef du service &laquo; commandement numérique interarmées &raquo; de la direction centrale du commissariat au numérique de défense ;
+18° Adjoint à l'officier général chargé des fonctions de chef du service "commandement numérique interarmées" de la direction centrale du commissariat au numérique de défense ;
 
 19° Chargé de mission auprès du directeur central du service du commissariat des armées ;
 
@@ -630,7 +630,7 @@ G.-Emplois relevant du groupe 5
 
 37° (Transféré) ;
 
-38° Adjoint au sous-directeur &laquo; opérations &raquo; de la direction de la maintenance aéronautique et commandant de la marine à Bordeaux ;
+38° Adjoint au sous-directeur "opérations" de la direction de la maintenance aéronautique et commandant de la marine à Bordeaux ;
 
 39° Chargé des fonctions de sous-directeur systèmes et techniques du maintien en condition opérationnelle aéronautique de la direction de la maintenance aéronautique ;
 
@@ -638,7 +638,7 @@ G.-Emplois relevant du groupe 5
 
 41° Chargé de mission auprès du major général de l'armée de l'air et de l'espace ;
 
-42° Chargé de mission auprès du major général des armées ;
+42° (Transféré) ;
 
 43° Commandant de l'école du matériel ou commandant de l'école du train et de la logistique opérationnelle (1) ;
 
@@ -646,7 +646,7 @@ G.-Emplois relevant du groupe 5
 
 45° Officiel général adjoint soutiens ;
 
-46° Officier général &laquo; numérique et cyberdéfense &raquo; de l'état-major de l'armée de terre ;
+46° Officier général "numérique et cyberdéfense" de l'état-major de l'armée de terre ;
 
 47° Général adjoint au commandant terre pour l'Europe et commandant le poste de commandement terre pour les opérations en Europe ;
 
@@ -654,21 +654,21 @@ G.-Emplois relevant du groupe 5
 
 49° Chargé des fonctions de sous-directeur du pôle accompagnement de la direction des ressources humaines de l'armée de terre ;
 
-50° Chef de la division &laquo; renseignement &raquo; de l'état-major du corps de réaction rapide France ;
+50° Chef de la division "renseignement" de l'état-major du 1er corps d'armée ;
 
 51° Général commandant en second de l'aviation légère de l'armée de terre ;
 
-52° Chef de la division &laquo; emploi opérationnel &raquo; de l'état-major du commandement de la force et des opérations terrestres ;
+52° Chef de la division "emploi opérationnel" de l'état-major du commandement de la force et des opérations terrestres ;
 
-53° Chef de la division &laquo; cohérence opérationnelle &raquo; de l'état-major du commandement de la force et des opérations terrestres ;
+53° Chef de la division "cohérence opérationnelle" de l'état-major du commandement de la force et des opérations terrestres ;
 
 54° Inspecteur à l'inspection de l'armée de terre ;
 
-55° Chargé de mission auprès du major général de l'armée de terre ;
+55° Officier général adjoint “ performance ” de l'état-major de l'armée de terre ;
 
 56° Secrétaire général adjoint du secrétaire général de la garde nationale ;
 
-57° Chef de la division &laquo; plans et environnement &raquo; de l'état-major du corps de réaction rapide-France ;
+57° Chef de la division "plans et environnement" de l'état-major du 1er corps d'armée ;
 
 58° Général commandant en second les actions dans la profondeur et du renseignement ;
 
@@ -686,29 +686,29 @@ G.-Emplois relevant du groupe 5
 
 65° Général commandant de l'école d'artillerie ou général commandant de l'école de l'infanterie (2) ;
 
-66° Adjoint au directeur central de la structure intégrée du maintien en condition opérationnelle des matériels terrestres, chargé des fonctions de sous-directeur &laquo; performance-synthèse &raquo; ;
+66° Adjoint au directeur central de la structure intégrée du maintien en condition opérationnelle des matériels terrestres, chargé des fonctions de sous-directeur "performance-synthèse" ;
 
 67° Directeur adjoint du service de la maintenance industrielle terrestre ;
 
-68° Adjoint au commandant le commandement pour l'Afrique ;
+68° (Transféré) ;
 
-69° Adjoint au directeur central de la structure intégrée du maintien en condition opérationnelle des matériels terrestres, chef du pôle &laquo; soutien des opérations &raquo; ;
+69° Adjoint au directeur central de la structure intégrée du maintien en condition opérationnelle des matériels terrestres, chef du pôle "soutien des opérations" ;
 
 70° Commandant en second de l'appui et de la logistique de théâtre ;
 
-71° Chef de la division &laquo; systèmes d'information, communications et cyberdéfense &raquo; de l'état-major du corps de réaction rapide-France ;
+71° Chef de la division "systèmes d'information, communications et cyberdéfense" de l'état-major du 1er corps d'armée ;
 
 72° (Transféré) ;
 
-73° Adjoint au sous-chef d'état-major &laquo; opérations aéronavales &raquo; chargé de la &laquo; maîtrise des fonds sous-marins &raquo; ;
+73° Adjoint au sous-chef d'état-major "opérations aéronavales" chargé de la "maîtrise des fonds sous-marins" ;
 
-74° Adjoint au sous-chef d'état-major &laquo; plans et programmes &raquo; de l'état-major de la marine ;
+74° Officier général conseiller armement et innovation à l'état-major de la marine ;
 
-75° Chef d'état-major de la force de l'aéronautique navale ;
+75° Chef d'état-major des forces sous-marines et de la force océanique stratégique ;
 
 76° Adjoint au commandant de la force d'action navale pour la maîtrise des fonds marins ;
 
-77° Chargé des fonctions de sous-directeur &laquo; gestion et administration du personnel &raquo; de la direction du personnel de la marine ;
+77° Chargé des fonctions de sous-directeur "gestion et administration du personnel" de la direction du personnel de la marine ;
 
 78° Adjoint pour le commandement organique à Toulon au commandement de la force d'action navale ;
 
@@ -716,9 +716,9 @@ G.-Emplois relevant du groupe 5
 
 80° Commandant de l'école des transmissions, du numérique et du cyber ;
 
-81° Chargé des fonctions de sous-directeur &laquo; produits et cas d'usage &raquo; de l'agence ministérielle pour l'IA de défense ;
+81° Chargé des fonctions de sous-directeur "produits et cas d'usage" de l'agence ministérielle pour l'IA de défense ;
 
-82° Chargé de mission auprès du major général des armées ;
+82° Officier général, chef du pôle stratégie innovation et transformation auprès du directeur de la maintenance aéronautique ;
 
 83° Directeur du musée de la marine ;
 
@@ -728,13 +728,13 @@ G.-Emplois relevant du groupe 5
 
 86° Commandant de la brigade aérienne connaissance et anticipation du commandement de la défense aérienne et des opérations aériennes ;
 
-87° Chargé des fonctions de sous-directeur &laquo; recrutement, réserves, jeunesse &raquo; de la direction des ressources humaines de l'armée de l'air et de l'espace ;
+87° Chargé des fonctions de sous-directeur "recrutement, réserves, jeunesse" de la direction des ressources humaines de l'armée de l'air et de l'espace ;
 
-88° Conseiller &laquo; administration générale et soutien commun &raquo; auprès du major général de l'armée de l'air et de l'espace ;
+88° Conseiller "administration générale et soutien commun" auprès du major général de l'armée de l'air et de l'espace ;
 
 89° Commandant de la brigade aérienne technique et logistique ;
 
-90° Général adjoint maintien en condition opérationnelle auprès du sous-chef d'état-major &laquo; activité &raquo; de l'état-major de l'armée de l'air et de l'espace ;
+90° Général adjoint maintien en condition opérationnelle auprès du sous-chef d'état-major "activité" de l'état-major de l'armée de l'air et de l'espace ;
 
 91° Commissaire général délégué du service du commissariat des armées et directeur de la plateforme commissariat Sud-Est ;
 
@@ -748,17 +748,17 @@ G.-Emplois relevant du groupe 5
 
 96° Chargé des fonctions de sous-directeur métiers au sein de la direction centrale du service du commissariat des armées ;
 
-97° Chargé des fonctions de sous-directeur &laquo; employeur &raquo; de la direction centrale du service du commissariat des armées ;
+97° Chargé des fonctions de sous-directeur "employeur" de la direction centrale du service du commissariat des armées ;
 
 98° Directeur de l'Ecole des commissaires des armées ;
 
 99° Commissaire général délégué du service du commissariat des armées et directeur de la plateforme commissariat Est ;
 
-100° Directeur du centre interarmées du soutien &laquo; juridique &raquo; ;
+100° Directeur du centre interarmées du soutien "juridique" ;
 
-101° Directeur du centre interarmées du soutien &laquo; à la mobilité &raquo; ;
+101° Directeur du centre interarmées du soutien "à la mobilité" ;
 
-102° Chargé des fonctions de sous-directeur &laquo; droits individuels et études juridiques &raquo; de la direction centrale du service du commissariat des armées ;
+102° Chargé des fonctions de sous-directeur "droits individuels et études juridiques" de la direction centrale du service du commissariat des armées ;
 
 103° Commissaire général délégué du service du commissariat des armées et directeur de la plateforme commissariat Ouest ;
 
@@ -766,9 +766,9 @@ G.-Emplois relevant du groupe 5
 
 105° Chargé de mission auprès du major général des armées ;
 
-106° Chargé des fonctions de sous-directeur &laquo; gestion des ressources &raquo; de la direction des ressources humaines de l'armée de l'air et de l'espace ;
+106° Chargé des fonctions de sous-directeur "gestion des ressources" de la direction des ressources humaines de l'armée de l'air et de l'espace ;
 
-107° Directeur adjoint à la direction centrale du service de soutien de la flotte ;
+107° Commandant du centre d'instruction naval de Brest ;
 
 108° Adjoint au commandant de la force d'action navale pour le commandement organique à Brest ;
 
@@ -794,4 +794,4 @@ G.-Emplois relevant du groupe 5
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 26 décembre 2025 (NOR : ARMH2535106A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er janvier 2026.
+Conformément à l’article 4 de l’arrêté du 20 janvier 2026 (NOR : ARMH2601852A), ces dispositions, dans leur rédaction résultant de l’arrêté précité, sont applicables aux rémunérations versées à compter du mois de janvier 2026.
