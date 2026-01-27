@@ -1,0 +1,9 @@
+# Réponse à la question n° 9175
+
+- Question : [9175](9175.md) — Question n° 9175 — Détachement de travailleurs français en Allemagne
+
+## Réponse
+
+*JO du 2026-01-27, page 693*
+
+Les règlements européens de coordination des systèmes de sécurité sociale n° 883/2004 et n° 987/2009 prévoient qu'un employeur qui envoie en mission un salarié dans un autre Etat membre en informe préalablement l'institution compétente de l'Etat membre dont la législation de sécurité sociale reste applicable. Sous réserve que les conditions du détachement soient remplies par le salarié et l'employeur, l'institution délivre le formulaire A1 qui atteste du maintien de sa législation. Ces dispositions s'imposent à tous les Etats qui sont chacun responsables des procédures de notification mises en place par leurs institutions compétentes respectives. La France s'est inscrite dans un objectif de simplification pour les entreprises en dématérialisant cette démarche pour les travailleurs salariés et non-salariés relevant du régime général. Elle doit être effectuée via le compte Unions de recouvrement des cotisations de sécurité sociale et d'allocations familiales (URSSAF) de l'entreprise sur la plateforme www.urssaf.fr ; des aides au remplissage sont prévues pour faciliter cette démarche. Lorsqu'aucun contrôle supplémentaire n'est nécessaire, ce qui représente 90 % des demandes de détachement, le formulaire A1 est émis en cinq minutes et est imprimable et sécurisé. Ce service est entièrement gratuit et traduit en plusieurs langues, dont l'allemand. La notification de missions hors de France permet d'informer les employeurs et les travailleurs de la législation de sécurité sociale qui leur est applicable. Aussi, l'adaptation des outils réalisée par l'agence centrale des organismes de sécurité sociale s'inscrit dans l'équilibre recherché entre une simplification des démarches, afin de ne pas entraver inutilement la liberté de circulation, et la préservation des droits sociaux.
