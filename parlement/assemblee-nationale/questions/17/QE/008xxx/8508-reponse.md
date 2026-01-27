@@ -1,0 +1,9 @@
+# Réponse à la question n° 8508
+
+- Question : [8508](8508.md) — Question n° 8508 — Solidarité fiscale entre le cédant et le cessionnaire d'un fonds de commerce
+
+## Réponse
+
+*JO du 2026-01-27, page 620*
+
+L'article 1684 du code général des impôts prévoit trois cas de responsabilité solidaire pour le paiement des impôts directs, à la charge respectivement du cessionnaire d'un fonds de commerce, du cessionnaire d'une entreprise non commerciale et du propriétaire non exploitant de fonds de commerce. S'agissant en particulier de la solidarité entre le cessionnaire et le cédant d'un fonds de commerce, le 1 de l'article 1684 du code général des impôts dispose que « le cessionnaire peut être rendu responsable solidairement avec le cédant du paiement de l'impôt sur le revenu afférent aux bénéfices réalisés par ce dernier pendant l'année ou l'exercice de la cession jusqu'au jour de celle-ci, ainsi qu'aux bénéfices de l'année ou de l'exercice précédent lorsque, la cession étant intervenue dans le délai normal de déclaration, ces bénéfices n'ont pas été déclarés par le cédant avant la date de la cession ». Cette solidarité permet aux comptables de la direction générale des finances publiques, de disposer d'une garantie pour le paiement des impôts directs en remettant le produit de la vente entre les mains du séquestre. Elle constitue également une incitation à l'accomplissement des formalités fiscales déclaratives et de paiement par le cédant. Ce délai de 5 mois et demi peut être réduit dans les conditions prévues au troisième alinéa du 1 de l'article 1684 du code général des impôts. Ainsi, la solidarité fiscale du cédant et du cessionnaire en cas de cession de fonds de commerce sécurise le recouvrement des créances fiscales, le Gouvernement n'est en conséquence pas favorable à une remise en cause de ce régime fiscal.
