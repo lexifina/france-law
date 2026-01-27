@@ -1,0 +1,9 @@
+# Réponse à la question n° 11770
+
+- Question : [11770](11770.md) — Question n° 11770 — Coûts du remplacement des vitraux de Notre-Dame de Paris
+
+## Réponse
+
+*JO du 2026-01-27, page 647*
+
+La commande de nouveaux vitraux pour six chapelles du collatéral sud de la nef de la cathédrale Notre Dame de Paris, en remplacement des vitraux en grisaille conçus au 19e siècle par Lassus et Viollet le-Duc, fait suite à la demande de Monseigneur Laurent Ulrich, archevêque de Paris, à laquelle le Président de la République a donné une réponse favorable. Cette commande est réalisée sous la maîtrise d'ouvrage de l'établissement public chargé de la conservation et de la restauration de la cathédrale Notre-Dame de Paris (EP RNDP). L'opération est cofinancée par le programme 131 (création) pour la commande artistique, la conception, la fabrication et la pose des nouveaux vitraux, et par le programme 175 (patrimoines) pour les dépenses induites en matière de maçonnerie et de serrurerie et, conformément à la demande de la commission nationale du patrimoine et de l'architecture, réunie le 12 juin 2025, pour la restauration des vitraux déposés et de présentation muséographique de ces vitraux au public. Son budget prévisionnel s'élève à près de 7 millions d'euros, hors coût de la présentation muséographique, actuellement en cours de chiffrage. Pour répondre à l'invitation du Grand Palais, l'artiste Claire Tabouret présente, dans son exposition « D'un seul souffle », les maquettes grandeur nature, les esquisses et autres travaux préparatoires des six nouveaux vitraux, alors que ceux-ci sont en cours de fabrication par l'atelier Simon-Marq. Cette exposition est présentée au Grand Palais du 10 décembre 2025 au 15 mars 2026 ; le billet permet également l'accès à l'exposition « Grottesco » d'Éva Jospin, et les coûts de production sont intégralement financés par la billetterie et par du mécénat.
