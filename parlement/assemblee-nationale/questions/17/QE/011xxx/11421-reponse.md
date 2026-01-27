@@ -1,0 +1,9 @@
+# Réponse à la question n° 11421
+
+- Question : [11421](11421.md) — Question n° 11421 — Sécurisation de la D2060 et report des poids lourds vers l'A19
+
+## Réponse
+
+*JO du 2026-01-27, page 692*
+
+L'autoroute A19 est exploitée par la société ARCOUR, choisie au terme d'une procédure d'appel d'offres comme ayant formulé l'offre économiquement la plus avantageuse. Conformément à l'article 25 de son contrat de concession, la société ARCOUR applique, pour l'année 2025, un tarif kilométrique moyen de 48,6 c€ HT / km aux véhicules lourd de la classe 4. À cet égard, les tarifs de l'A19 sont proches des tarifs pratiqués par des concessions de même taille. À titre de comparaison, pour l'année 2025, la tarification kilométrique moyenne du tronçon entre Alençon et Rouen (A28), exploité par la société ALiS, est de l'ordre de 47,93 c€ HT / km pour les véhicules de la même classe. Ces niveaux de tarifs font partie de l'équilibre économique de la concession tels qu'il est issu du processus de mise en concurrence. La modification de ces tarifs supposerait de reporter la perte de chiffre d'affaires correspondant sur d'autres usagers, afin d'assurer au concessionnaire le maintien de l'équilibre économique du contrat. Comme il n'est pas envisageable d'augmenter les tarifs acquittés par les véhicules légers, il n'est pas possible de diminuer les tarifs prévus dans le cadre des contrats de concession en cours. En ce qui concerne le report des poids lourds sur le réseau autoroutier, l'autorité investie du pouvoir de police a la faculté de prendre un arrêté visant à interdire la circulation aux poids lourds au transit à condition que cette interdiction soit justifiée au regard des nuisances engendrées par ces véhicules, notamment des enjeux de sécurité routière ou environnementaux. En l'espèce, et en vertu de l'article L. 3221-4 du code général des collectivités territoriales l'autorité compétente sur la D2060 est le président du conseil départemental du Loiret.
