@@ -1,0 +1,9 @@
+# Réponse à la question n° 7510
+
+- Question : [7510](7510.md) — Question n° 7510 — Contrôle technique des deux-roues de collection
+
+## Réponse
+
+*JO du 2026-01-27, page 690*
+
+La directive européenne 2014/45 demande la mise en place, à partir du 1er janvier 2022, d'un contrôle technique périodique des véhicules à deux ou trois roues et quadricycles à moteur, de cylindrée supérieure à 125 cm3, à moins que les Etats membres puissent démontrer qu'ils ont mis en place des mesures alternatives de sécurité routière, en tenant compte, notamment, des statistiques pertinentes en matière de sécurité routière pour les cinq dernières années. Le Gouvernement a pris acte de la décision du Conseil d'Etat du 31 octobre 2022 et œuvré à l'élaboration des textes réglementaires complétant le cadre juridique du contrôle technique des deux ou trois roues motorisés et quadricycles à moteur. Ces textes, un décret et un arrêté, ont été publiés le 23 octobre 2023. La mise en place du contrôle technique de cette catégorie de véhicules se fait de manière échelonnée, en fonction de l'ancienneté du véhicule. Le contrôle comporte un nombre limité de vérifications de défaillances. Aussi, les véhicules de collection soumis au contrôle technique sont les véhicules mis en circulation après le 1er janvier 1960 et, en application de l'article R 323-27 du code de la route, pour les véhicules de collection, le délai entre deux contrôles techniques est porté à cinq ans à l'exception des cas de mutation. Le Gouvernement souligne que ce contrôle technique se réalise dans de bonnes conditions. 1 113 089 contrôles techniques ont été réalisés au cours de l'année 2025. Le nombre de centres de contrôles techniques opérationnels pour les deux/roues et quadricycles à moteur est actuellement de 3777, facilitant pour les utilisateurs de véhicules sans permis, la réalisation du contrôle technique de leur véhicule.
