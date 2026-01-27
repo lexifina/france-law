@@ -1,0 +1,9 @@
+# Réponse à la question n° 10852
+
+- Question : [10852](10852.md) — Question n° 10852 — Inégalités d'accès à l'instruction dans la ruralité
+
+## Réponse
+
+*JO du 2026-01-27, page 650*
+
+Le souci d'améliorer les réponses apportées aux besoins de remplacement des enseignants absents est constant tant pour les services centraux que pour les services académiques du ministère de l'éducation nationale, avec pour objectifs la continuité pédagogique d'une part, la satisfaction légitime des élèves et de leurs familles d'autre part. C'est ainsi que les moyens dédiés à la suppléance et au remplacement vont croissants ces dernières années, tant dans le premier degré que dans le second degré, par redéploiement des moyens, et sans préjudice des taux d'encadrement des élèves. La loi de finances pour 2025 a permis la création de 4 000 postes d'enseignants, favorisant pour partie une meilleure réponse aux besoins de remplacement dans les territoires. La dynamique engagée en académie, à travers l'utilisation optimisée des moyens de remplacement d'une part, et la mise en œuvre des plans d'action nationaux d'amélioration du remplacement dans les écoles et les établissements publics locaux d'enseignement (collèges, lycées) d'autre part, favorise l'activation de tous les leviers de nature à répondre dans les meilleurs délais aux absences quelle que soit leur durée. Pour ce qui concerne plus particulièrement le collège Claude Debussy situé à Villeneuve-la Guyard, et renseignements pris auprès des autorités académiques compétentes, un enseignant remplaçant de français y est affecté depuis le 14 novembre dernier. Au plan national, les services centraux du ministère de l'éducation nationale et les services académiques consolideront les actions engagées et poursuivront leur accompagnement en direction des écoles, des collèges et lycées pour améliorer l'efficacité du remplacement.
