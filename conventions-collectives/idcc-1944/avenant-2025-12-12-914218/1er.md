@@ -1,0 +1,3 @@
+# Article 1er
+
+Les parties signataires conviennent que le contenu de l'accord, hormis les stipulations déjà prévues dans ce dernier, ne justifie pas de prendre des dispositions spécifiques pour les entreprises de moins de 50 salariés.
