@@ -1,0 +1,31 @@
+# Réponse à la question n° 519
+
+- Question : [519](519.md) — Question n° 519 — Ligne ferroviaire TER Lyon - Ambérieu en Bugey
+
+## Réponse
+
+*JO du 2026-01-28, page 797*
+
+LIGNE FERROVIAIRE ENTRE LYON ET AMBÉRIEU-EN-BUGEY
+
+M. le président. La parole est à M. Romain Daubié, pour exposer sa question, no 519, relative à la ligne ferroviaire entre Lyon et Ambérieu-en-Bugey.
+
+M. Romain Daubié. Monsieur le ministre des transports, les habitants de ma circonscription ont la chance de pouvoir se rendre dans la métropole lyonnaise par la ligne Bourg-en-Bresse-Lyon ou par la ligne Ambérieu-en-Bugey-Lyon. C'est sur les dysfonctionnements de cette dernière que porte ma question.
+
+En France, les trains régionaux relèvent de la compétence de la région, qui est l'autorité organisatrice de la mobilité. À ce titre, elle définit l’offre de transports, les niveaux de service et les moyens alloués à l’exploitant, souvent la SNCF. L’État, pour sa part, intervient principalement par l'intermédiaire de SNCF Réseau, responsable des infrastructures ferroviaires.
+
+Pour les usagers, cette organisation est complexe et peu lisible, mais les dysfonctionnements qui en découlent sont très concrets. Pour ceux de la ligne Ambérieu-Lyon, le recours à l'automobile comme solution alternative est compliqué – embouteillages au Nœud des Îles, stationnement hors de prix à Lyon et parfois, du fait des zones à faibles émissions (ZFE), impossibilité de se rendre à Lyon, dans l'attente du vote définitif du projet de loi de simplification de la vie économique. Vous l'aurez compris : prendre le train n'est pas un confort, mais une nécessité.
+
+Aujourd'hui, on constate des retards fréquents, des suppressions de trains, des rames saturées aux heures de pointe. Bref, le service est imprévisible. En 2025, la situation s’est encore dégradée. Des trains de deux rames sont devenus des trains d'une rame. Le taux de ponctualité de la ligne Ambérieu-Lyon s'élevait à 82,7 % en 2025, ce qui en fait l'une des pires lignes de France. Les conditions de transport sont indignes et les usagers déclarent avoir souvent l'impression de voyager dans une bétaillère. Leurs attentes sont simples : ne plus avoir peur d'arriver en retard au travail – au risque d’être licencié pour retards répétés ; ne pas arriver en retard le soir pour aller chercher ses enfants à l'issue de leurs activités périscolaires – au risque de les récupérer à la mairie ou auprès de la police municipale ; ne pas se réveiller sans savoir si son train arrivera bien – ce matin encore, une personne a témoigné avoir reçu à 5 h 33 un SMS lui indiquant que son train de 5 h 37 serait en retard. Ces difficultés sont connues grâce au travail précieux effectué par l’Adula, l’association de défense des usagers de la ligne Lyon-Ambérieu.
+
+Chacun doit assumer ses responsabilités : la région, SNCF Réseau et l'exploitant. Comment l’État peut-il accompagner plus efficacement la région Auvergne-Rhône-Alpes dans l’exercice de sa compétence relative aux trains régionaux afin d’améliorer la fiabilité de cette ligne ? À votre connaissance, les difficultés actuelles sont-elles principalement liées à un manque d’infrastructures, à des défaillances de l’exploitant ou aux choix d'organisation et d'investissement de la région ? Surtout, quelles perspectives concrètes peuvent être tracées pour les usagers, qui attendent avant tout un service fiable et prévisible ?
+
+M. le président. La parole est à M. le ministre des transports.
+
+M. Philippe Tabarot, ministre des transports. Le gouvernement est très soucieux de la qualité du service proposé aux usagers des trains régionaux et encourage naturellement tous les plans d'action entrepris par les opérateurs pour résoudre les dysfonctionnements qui pénalisent les usagers des trains express régionaux (TER) et améliorer leur capacité à répondre aux besoins de la mobilité au quotidien. Vous avez cité plusieurs exemples, qui n'illustrent pas seulement la situation de la région Auvergne-Rhône-Alpes, mais aussi celle d'autres régions, qu'il s'agisse de problèmes d'infrastructures, de matériels ou d'accidents de personnes – malheureusement, ils se multiplient, perturbent fortement le trafic, en plus de constituer des drames humains, et constituent les différentes causes des difficultés rencontrées sur l'ensemble des lignes de TER dans presque toutes les régions.
+
+Je partage pleinement votre avis quant à la nécessaire fiabilité du service et à la qualité de l'offre – elle relève aussi de la responsabilité des régions –, conditions pour que l'usage des lignes régionales se présente comme une alternative crédible pour les automobilistes et les incite à abandonner leurs véhicules pour avoir recours aux transports en commun, notamment si la circulation est restreinte.
+
+Les TER entre Ambérieu et Lyon sont organisés par la région Auvergne-Rhône-Alpes, qui, en sa qualité d'autorité organisatrice, est la seule compétente pour définir l'offre de transport – horaires, fréquence, composition des trains. Elle le fait en fonction des besoins identifiés et des contraintes d'exploitation qu'elle étudie avec SNCF Voyageurs et SNCF Réseau. L'État, en application du principe de libre administration des collectivités territoriales, n'intervient pas dans ces choix.
+
+S'agissant des infrastructures, il convient de noter que cet axe est l'une des douze branches de l'étoile ferroviaire lyonnaise, qui accueille chaque jour 1 200 trains régionaux, nationaux et internationaux et dont il faut reconnaître que, depuis plusieurs années, elle est proche de la saturation. Dès 2015, l'État et ses partenaires, SNCF Réseau, SNCF Gares et connexions, la région et la métropole de Lyon, ont engagé un plan de mobilisation en finançant trente opérations sur cette étoile, pour un montant total de 300 millions. Ces opérations ont permis d'améliorer certaines régularités malgré l'augmentation du trafic. Sur la ligne Ambérieu-Lyon, un nouveau quai en gare de Montluel a ainsi été créé pour fluidifier les circulations. Nous poursuivons collectivement ces efforts par la création de deux sous-stations électriques à Miribel et à Meximieux-Pérouges. Les travaux sont en cours et permettront d'améliorer significativement la robustesse des circulations.
