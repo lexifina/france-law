@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250705493
+
+- Question : [SEQ250705493](seq250705493.md) — Méthode de calcul des dépenses des collectivités locales
+
+## Réponse
+
+*Action et comptes publics, JO du 2026-01-29, page 443*
+
+Les données produites dans le cadre des comités d'alerte permettent d'établir un constat à date sur le suivi mensuel cumulé de l'exécution comptable des dépenses de l'ensemble des collectivités locales (bloc communal, départements et régions), et d'examiner l'écart à la prévision établie en loi de finances. L'évolution avancée par Intercommunalités de France repose pour sa part sur une estimation fondée sur les budgets d'un échantillon « de quatre-vingts intercommunalités représentant près d'un quart de la population française et un tiers des budgets ». Cette estimation ne permet pas une comparaison objective avec les chiffrages publiés par le Gouvernement, qui s'appuient sur l'exécution comptable de plusieurs dizaines de milliers de collectivités locales. On ne saurait par ailleurs opposer des estimations partielles réalisées à partir de données budgétaires à un chiffrage exhaustif issu d'enregistrements comptables. Au 31 mai 2025, les dépenses réelles de fonctionnement de l'ensemble des collectivités augmentent de + 2,3 % par rapport au 31 mai 2024. Cette évolution reflète l'exécution comptable des cinq premiers mois de l'exercice 2025 par rapport aux cinq premiers mois de l'exercice 2024. Elle peut donc fluctuer au cours de l'exercice en fonction des enregistrements dans la comptabilité des collectivités. À titre d'exemple, la situation mensuelle comptable des collectivités locales (SMCL) au 31 juillet 2025 permet de constater que les dépenses réelles de fonctionnement des collectivités augmentent de +1,7 % par rapport à la situation constatée au 31 juillet 2024.
