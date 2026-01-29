@@ -1,0 +1,9 @@
+# Réponse à la question SEQ251006225
+
+- Question : [SEQ251006225](seq251006225.md) — Dégrèvement de la taxe d'habitation sur les résidences secondaires pour les personnes domiciliées hors de France
+
+## Réponse
+
+*Action et comptes publics, JO du 2026-01-29, page 449*
+
+L'article 1414 A du code général des impôts (CGI) prévoit l'application, sur réclamation, d'un dégrèvement de la taxe d'habitation sur les résidences secondaires au profit des personnes domiciliées hors de France et des agents publics civils et militaires exerçant à l'étranger, pour le logement qui constituait leur résidence principale avant leur départ à l'étranger, au titre de l'année de leur retour en France d'une zone de crise. Le nombre de réclamations contentieuses déposées au titre de cette mesure n'est pas connu. Un suivi spécifique va toutefois être mis en place à compter de la campagne 2026, dont l'administration pourra donner les résultats début 2028, à l'issue de la campagne contentieuse correspondante, qui en l'état du droit doit s'achever le 31 décembre 2027. L'administration fiscale n'a pas effectué d'actions de communication ciblées en l'absence de dispositif d'identification des redevables concernés. Toutefois, la mesure fait l'objet d'une présentation sur le site service-public.gouv.fr (https://www.service-public.gouv.fr/particuliers/vosdroits/F42). Concernant les critères retenus pour définir la liste des zones de crise, ils sont fixés par le premier alinéa de l'article 1414 A du CGI. Il s'agit, comme le prévoit l'article 1414 A du code général des impôts précité, des pays ayant fait l'objet d'un appel à quitter la zone ou d'une opération de retour collectif décidé par le ministre des affaires étrangères ou le chef de la mission diplomatique. La liste des pays concernés pour l'année 2024 a fait l'objet d'un arrêté du 18 mars 2025. Il s'agit des quatre pays suivants : Haïti, Iran, Liban, Vanuatu.
