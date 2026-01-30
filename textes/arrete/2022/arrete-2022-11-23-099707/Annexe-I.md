@@ -346,7 +346,9 @@ II.-Ce soutien exceptionnel, de 223 € par tonne triée, est versé aux opérat
 
 Ces versements tiennent compte des soutiens usuels versés en 2025 en application du cahier des charges en vigueur au 13 août 2025.
 
-III.- Pour chaque opérateur le soutien prévu au II est calculé à partir de la déclaration du tonnage trié en 2025, plafonnée à hauteur du tonnage trié en 2024 augmenté de 30 %
+III.- Pour chaque opérateur le soutien prévu au II est calculé à partir de la déclaration du tonnage trié en 2025, plafonnée à hauteur du tonnage trié en 2024 augmenté de 30 %.
+
+Le plafonnement prévu au précédent alinéa ne s'applique pas dans le cas où l'opérateur a signé un avenant au développement avec ou sans investissement pour 2025 auprès de l'éco-organisme, ou dans le cas où l'opérateur dépasse de moins de 2 000 tonnes en tonnage trié en 2025 le plafonnement mentionné.
 
 3.4.2.5. Soutien exceptionnel au tri en 2026
 
@@ -641,7 +643,3 @@ Conformément à l'article R. 543-218, l'éco-organisme propose un barème de so
 (1) Anciennement dénommé " Soutien à la pérennisation ".
 
 (2) Anciennement dénommé " Soutien au tri matière ".
-
-NOTA :
-
-Conformément à l'article 2 de l'arrêté du 1er mars 2023 (NOR : TREP2302612A), ces dispositions, dans leur rédaction issue de l'article 1er de l'arrêté précité, entrent en vigueur le 1er juillet 2023.
