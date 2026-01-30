@@ -1,18 +1,20 @@
 # Article Annexe 1
 
-ANNEXES
-
-ANNEXE 1
-
 DISPOSITIONS RELATIVES À LA SPÉCIALITÉ DANSE : CYCLE PRÉPARATOIRE AU DIPLÔME NATIONAL (CPDN) ET DIPLÔME NATIONAL D'ÉTUDES DE DANSE (DNED)
+
+Le cycle préparatoire au diplôme national (CPDN) vise à l'acquisition de connaissances et compétences couvrant l'activité chorégraphique dans sa globalité, en vue d'une validation du diplôme national dans deux parcours distincts : " Interprétation chorégraphique " et " Humanités chorégraphiques ".
+
+Tous les élèves du cycle partagent les mêmes enseignements indépendamment de la mention choisie. Le parcours ne témoigne donc pas d'un cursus distinct mais valorise différemment les élèves par le biais des coefficients accordés aux matières lors de leur évaluation continue ou terminale.
+
+Ce cycle de 1 020 heures s'effectue sur une durée comprise entre deux et quatre ans et propose une progression dans les apprentissages.
 
 1. Accès au cycle préparatoire au diplôme national
 
-Lors de son inscription, le candidat indique le ou les choix d'options souhaitées (« humanités chorégraphiques » et/ou « interprétation chorégraphique »).
+Lors de son inscription, le candidat indique le ou les choix d'options souhaitées (" humanités chorégraphiques " et/ ou " interprétation chorégraphique ").
 
 L'accès au cycle préparatoire au diplôme national est soumis à un examen d'entrée composé comme suit :
 
-a) Un cours technique d'une durée d'une heure et quinze minutes dans la discipline principale, suivi de quarante-cinq minutes d'atelier (atelier d'improvisation-composition, et/ou répertoire improvisation et/ou répertoire-composition et/ou répertoire-improvisation-composition). Le cours et l'atelier sont délivrés par un enseignant n'étant jamais intervenu à titre pédagogique auprès des candidats. Celui-ci ne participe pas à l'évaluation des candidats ;
+a) Un cours technique d'une durée d'une heure et quinze minutes dans la discipline principale, suivi de quarante-cinq minutes d'atelier (atelier d'improvisation-composition, et/ ou répertoire improvisation et/ ou répertoire-composition et/ ou répertoire-improvisation-composition). Le cours et l'atelier sont délivrés par un enseignant n'étant jamais intervenu à titre pédagogique auprès des candidats. Celui-ci ne participe pas à l'évaluation des candidats ;
 
 b) Un entretien avec le jury, d'une durée de cinq minutes maximum par candidat.
 
@@ -26,7 +28,7 @@ Le cycle préparatoire au diplôme national fait l'objet d'une évaluation conti
 
 L'ensemble de l'équipe pédagogique, dont les musiciens accompagnateurs, est pleinement associée à l'évaluation continue.
 
-A. - Notation
+A.-Notation
 
 Les évaluations continues sont formalisées en notes et portent sur cinq matières affectées de coefficients pouvant différer selon l'option choisie, conformément au tableau ci-dessous.
 
@@ -38,13 +40,17 @@ Cycle préparatoire au DNED : matières et coefficients de l'évaluation continu
 
 Evaluation continue annuelle |
 
-Option « Interprétation
+Option " Interprétation
 
-chorégraphique » |
+chorégraphique "
 
-Option « Humanités
+|
 
-chorégraphiques » |
+Option " Humanités
+
+chorégraphiques "
+
+|
 
 Progression dans la discipline principale (technique, interprétation et musicalité corporelle) |
 
@@ -70,49 +76,49 @@ Coefficient 2 |
 
 Coefficient 6 |
 
-Savoirs sensibles sur le corps dans le mouvement dansé (anciennement nommés « méthodologies corporelles ») |
+Savoirs sensibles sur le corps dans le mouvement dansé (anciennement nommés " méthodologies corporelles ") |
 
 Coefficient 4 |
 
 Coefficient 4 |
 
-B. - Critères
+B.-Critères
 
 Les critères de l'évaluation continue sont les suivants.
 
 En progression dans chacune des disciplines dansées, évaluation de :
 
-- l'assiduité et l'implication globale ;
+-l'assiduité et l'implication globale ;
 
-- la conscience corporelle ;
+-la conscience corporelle ;
 
-- l'engagement physique ;
+-l'engagement physique ;
 
-- le sens artistique.
+-le sens artistique.
 
 En culture chorégraphique, évaluation de :
 
-- l'assiduité et l'implication globale ;
+-l'assiduité et l'implication globale ;
 
-- la capacité à analyser une œuvre y compris dans sa dimension musicale ;
+-la capacité à analyser une œuvre y compris dans sa dimension musicale ;
 
-- la capacité à tenir un journal d'exploration chorégraphique.
+-la capacité à tenir un journal d'exploration chorégraphique.
 
 En savoirs sensibles sur le corps dans le mouvement dansé, évaluation de :
 
-- l'assiduité et l'implication globale ;
+-l'assiduité et l'implication globale ;
 
-- la maîtrise de notions élémentaires en anatomie fonctionnelle.
+-la maîtrise de notions élémentaires en anatomie fonctionnelle.
 
 En pratiques créatives, évaluation de :
 
-- l'assiduité et l'implication globale ;
+-l'assiduité et l'implication globale ;
 
-- La capacité à produire une improvisation individuelle ;
+-La capacité à produire une improvisation individuelle ;
 
-- la capacité à produire une composition individuelle (option « interprétation chorégraphique » ou collective (option « humanités chorégraphiques »).
+-la capacité à produire une composition individuelle (option “ interprétation chorégraphique ” ou collective (option “ humanités chorégraphiques ”).
 
-C. - Suivi des élèves
+C.-Suivi des élèves
 
 L'établissement constitue pour chaque élève le dossier prévu à l'article 6 de l'arrêté.
 
@@ -128,29 +134,41 @@ Epreuves |
 
 Option
 
-« Interprétation
+" Interprétation chorégraphique "
 
-chorégraphique » |
+|
 
 Option
 
-« Humanités
+" Humanités chorégraphiques "
 
-chorégraphiques » |
+|
 
-Facultatif : présentation(s) collective(s) incluant le ou les candidats, laissée(s) au choix du ou des établissements
+Facultatif : présentation (s) collective (s) incluant le ou les candidats, laissée (s) au choix du ou des établissements
 
-Durée : 2 à 4 minutes |
+Durée : 2 à 4 minutes
 
-Point d'observation non évalué |
+|
 
-Point d'observation non évalué |
+Point d'observation
+
+non évalué
+
+|
+
+Point d'observation
+
+non évalué
+
+|
 
 Variation imposée individuelle dans la discipline
 
 Durée : de 2 à 3 minutes
 
-En danse classique, cette variation est présentée sur pointes. |
+En danse classique, cette variation est présentée sur pointes.
+
+|
 
 Coefficient 8 |
 
@@ -158,7 +176,9 @@ Non évalué |
 
 Composition et interprétation d'une variation individuelle
 
-Durée : de 2 à 3 minutes |
+Durée : de 2 à 3 minutes
+
+|
 
 Coefficient 6 |
 
@@ -166,7 +186,9 @@ Coefficient 4 |
 
 Improvisation individuelle
 
-Durée : de 1 minute 30 à 2 minutes |
+Durée : de 1 minute 30 à 2 minutes
+
+|
 
 Coefficient 4 |
 
@@ -174,7 +196,9 @@ Coefficient 2 |
 
 Composition d'une séquence chorégraphique pour 2 danseurs au moins (dont le candidat, s'il le souhaite)
 
-Durée : de 3 à 6 minutes |
+Durée : de 3 à 6 minutes
+
+|
 
 Non évalué |
 
@@ -182,7 +206,9 @@ Coefficient 6 |
 
 Entretien individuel ou en petit groupe
 
-Durée : 3 à 5 minutes par candidat |
+Durée : 3 à 5 minutes par candidat
+
+|
 
 Coefficient 2 |
 
@@ -190,7 +216,9 @@ Non évalué |
 
 Dossier personnel sur une thématique au choix et soutenance
 
-Durée : 10 minutes de présentation maximum suivies d'un échange avec le jury de 10 minutes |
+Durée : 10 minutes de présentation maximum suivies d'un échange avec le jury de 10 minutes
+
+|
 
 Non évalué |
 
