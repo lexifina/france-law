@@ -1,0 +1,334 @@
+# Conférence des présidents
+
+- Nature : Informations Parlementaires
+- Publication : 2026-01-31
+- JO n° : 0026
+- NOR : INPA2603102X
+- Origine : JORF n°0026 du 31 janvier 2026
+- Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053423588
+
+## Article
+
+Assemblée nationale
+
+Session ordinaire 2025-2026
+
+Convocation de la Conférence des présidents
+
+La Conférence, constituée conformément à l'article 47 du Règlement, est convoquée le lundi 2 février 2026 à 16 h 45, dans les salons de la Présidence, Salon des Jeux, rez-de-chaussée de l'Hôtel de Lassay.
+
+Direction de la séance rectifiée
+
+Ordre du jour de l'Assemblée nationale
+
+(Conférence des présidents du mardi 27 janvier 2026)
+
+DATES |
+
+MATIN |
+
+APRÈS-MIDI |
+
+SOIR |
+
+Semaine
+
+de l'Assemblée
+
+FÉVRIER
+
+LUNDI 2 |
+
+|
+
+À 17 heures : (1)
+
+- Deux motions de censure (art. 49, al. 3, de la Constitution ; lect. déf. Pt finances pour 2026) :
+
+- discussion commune ;
+
+- vote sur la motion de censure déposée par M. Peu, Mme Panot, Mme Chatelain et 110 députés ; (2)
+
+- vote sur la motion de censure déposée par Mme Le Pen, M. Ciotti et 104 députés. (2)
+
+- Pn améliorer la protection des commerçants grâce à l'usage d'outils numériques (1142, 2400).
+
+- Pn étendre la possibilité de préemption de baux commerciaux dans les mairies aux sociétés civiles immobilières (1135, 2396).
+
+- Pn expérimentation pour l'instauration d'un enseignement d'éducation à l'alimentation obligatoire à l'école (2091, 2398). |
+
+À 21 h 30 :
+
+- Suite odj de l'après-midi. |
+
+FÉVRIER
+
+MARDI 3 |
+
+À 9 heures (salle Lamartine) :
+
+- Questions orales sans débat. |
+
+À 15 heures :
+
+- Questions au Gouvernement.
+
+- CMP Pt jeux Olympiques et Paralympiques de 2030.
+
+- Pn résol. europ. financement de la lutte contre le VIH (1113, 1264).
+
+- Pn résol. europ. soutenir le Danemark et le Groenland (1170, 1376 rect., 1490).
+
+- Pn résol. europ. État de droit en Turquie (1258, 1482).
+
+- Pn résol. europ. projet d'accord droits de douane et commerce UE-États-Unis (1763, 1966, 2072).
+
+- Pn résol. europ. réaffirmer l'ambition climatique de la France au niveau européen (2002, 2143).
+
+- Pn relancer les investissements dans le secteur de l'hydroélectricité pour contribuer à la transition énergétique (2334 rect., 2405).
+
+- Pn résol. (art. 34-1 de la Constitution) libération des prisonniers arméniens détenus par l'Azerbaïdjan (2265). |
+
+À 21 h 30 :
+
+- Suite odj de l'après-midi. |
+
+MERCREDI 4 |
+
+|
+
+À 14 heures :
+
+- Questions au Gouvernement.
+
+À 15 heures :
+
+- Suite odj de la veille. |
+
+À 21 h 30 :
+
+- Suite odj de l'après-midi. |
+
+JEUDI 5 |
+
+À 9 heures :
+
+- Suite odj de la veille. |
+
+À 15 heures :
+
+- Suite odj du matin. |
+
+À 21 h 30 :
+
+- Suite odj de l'après-midi. |
+
+Semaine de contrôle
+
+MARDI 10 |
+
+|
+
+À 15 heures :
+
+- Questions au Gouvernement.
+
+- Débat sur le contrôle de l'application des lois. |
+
+À 21 h 30 :
+
+(salle Lamartine) :
+
+- Débat sur le thème : « Limites actuelles et perspectives d'améliorations du système d'orientation post-bac ». (3) |
+
+FÉVRIER
+
+MERCREDI 11 |
+
+|
+
+À 14 heures :
+
+- Questions au Gouvernement.
+
+À 15 heures :
+
+- Débat sur le rapport relatif à la pétition intitulée « Non à la loi Duplomb ».
+
+- Débat sur le thème : « Clarification des compétences : quel bilan des lois de décentralisation, quelles perspectives ? »(salle Lamartine). (4) |
+
+À 21 h 30 :
+
+(salle Lamartine) :
+
+- Suite débat sur le thème : « Clarification des compétences : quel bilan des lois de décentralisation, quelles perspectives ? ».
+
+- Débat avec invités extérieurs sur le thème : « Quelle réforme des bourses sur critères sociaux pour faire face à l'aggravation de la précarité des étudiants ? ». (5) |
+
+FÉVRIER
+
+JEUDI 12 |
+
+À 9 heures : (6)
+
+- Pn protéger l'eau potable (2308).
+
+- Pn permettre aux maires de loger les habitants en mobilisant les logements vacants (2303).
+
+- Pn constit. instaurer un référendum d'initiative citoyenne délibératif (2081).
+
+- Pn protéger l'alimentation des contaminations au cadmium (2301).
+
+- 2e lect. Pn constit. accorder le droit de vote et d'éligibilité aux élections municipales aux étrangers non ressortissants de l'UE (149).
+
+- Pn pour une génération sans sucre (2307).
+
+- Pn empêcher la constitution de monopoles économiques dans les médias (2216).
+
+- Pn améliorer la protection des personnes ciblées par les réseaux de criminalité organisée (2310). (7)
+
+- Pn reconnaître l'éducation au dehors et en contact avec la nature (1631). (7) |
+
+À 15 heures :
+
+- Suite odj du matin. |
+
+À 21 h 30 :
+
+- Suite odj de l'après-midi. |
+
+Semaine
+
+du Gouvernement
+
+FÉVRIER
+
+LUNDI 16 |
+
+|
+
+À 16 heures :
+
+- Pn exercice en France des médecins diplômés au Royaume-Uni avant le Brexit (2112, 2347). (8)
+
+- 2e lect. Pn soins palliatifs et d'accompagnement (2406). (9)
+
+- 2e lect. Pn fin de vie (2401). (9) |
+
+À 21 h 30 :
+
+- Suite odj de l'après-midi. |
+
+MARDI 17 |
+
+À 9 heures (salle Lamartine) :
+
+- Questions orales sans débat. |
+
+À 15 heures :
+
+- Questions au Gouvernement.
+
+- Suite odj de la veille. |
+
+À 21 h 30 :
+
+- Suite odj de l'après-midi. |
+
+MERCREDI 18 |
+
+|
+
+À 14 heures :
+
+- Questions au Gouvernement.
+
+À 15 heures :
+
+- Suite odj de la veille. |
+
+À 21 h 30 :
+
+- Suite odj de l'après-midi. |
+
+JEUDI 19 |
+
+À 9 heures :
+
+- Suite odj de la veille. |
+
+À 15 heures :
+
+- Suite odj du matin. |
+
+À 21 h 30 :
+
+- Suite odj de l'après-midi. |
+
+VENDREDI 20 |
+
+À 9 heures :
+
+- Suite odj de la veille. |
+
+À 15 heures :
+
+- Suite odj du matin. |
+
+À 21 h 30 :
+
+- Suite odj de l'après-midi. |
+
+Semaine
+
+du Gouvernement
+
+LUNDI 23 |
+
+|
+
+À 16 heures :
+
+- Suite 2e lect. Pn soins palliatifs et d'accompagnement.
+
+- Suite 2e lect. Pn fin de vie. |
+
+À 21 h 30 :
+
+- Suite odj de l'après-midi. |
+
+MARDI 24 |
+
+|
+
+À 15 heures :
+
+- Questions au Gouvernement.
+
+- Votes solennels :
+
+- Pn soins palliatifs et d'accompagnement. (10)
+
+- Pn fin de vie. (10) |
+
+|
+
+(1) Sous réserve des décisions de la Conférence des présidents.
+
+(2) Le vote, d'une durée de 20 minutes, aura lieu dans les salons voisins de la salle des séances.
+
+(3) Inscription à la demande du groupe UDR.
+
+(4) Séance thématique proposée par le groupe Dem.
+
+(5) Inscription à la demande du groupe GDR.
+
+(6) Ordre du jour proposé par le groupe EcoS.
+
+(7) Procédure de législation en commission.
+
+(8) Procédure de législation en commission.
+
+(9) Discussion générale commune.
+
+(10) Explications de vote communes.
