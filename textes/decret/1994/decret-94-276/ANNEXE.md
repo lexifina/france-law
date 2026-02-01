@@ -134,7 +134,7 @@ Greffier des services judiciaires.
 
 .
 
-Direction de l'administration pénitentiaire
+Direction générale de l'administration pénitentiaire
 
 CATÉGORIES D'AGENTS
 
@@ -225,3 +225,7 @@ Fonctions d'aide à l'insertion sociale des personnes faisant l'objet d'une mesu
 Conseillers d'insertion et de probation de l'administration pénitentiaire.
 
 |
+
+NOTA :
+
+Conformément à l’article 8 du décret n°2026-30 du 28 janvier 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er février 2026.

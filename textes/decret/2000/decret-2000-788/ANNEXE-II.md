@@ -82,7 +82,7 @@ CORPS DE FONCTIONNAIRES
 
 |
 
-Agents non titulaires du niveau de la catégorie A réemployés ou rattachés à un établissement pénitentiaire ou à un service relevant de la direction de l'administration pénitentiaire du ministère de la justice.
+Agents non titulaires du niveau de la catégorie A réemployés ou rattachés à un établissement pénitentiaire ou à un service relevant de la direction générale de l'administration pénitentiaire du ministère de la justice.
 
 |
 
@@ -415,3 +415,7 @@ Autres fonctions (études, coordination ou expertise).
 Secrétaires des affaires étrangères.
 
 |
+
+NOTA :
+
+Conformément à l’article 8 du décret n°2026-30 du 28 janvier 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er février 2026.

@@ -48,7 +48,7 @@ Agent chargé du secrétariat de la commission nationale d'inscription et Chambr
 
 Agent chargé du suivi des dossiers de négociation en matière pénale, en droit européen et international ;
 
-DIRECTION DE L'ADMINISTRATION PENITENTIAIRE.
+DIRECTION GENERALE DE L'ADMINISTRATION PENITENTIAIRE.
 
 Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire.
 
@@ -378,4 +378,4 @@ B.-Fonctions exercées dans les maisons d'éducation pouvant ouvrir droit au ver
 
 NOTA :
 
-Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
+Conformément à l’article 8 du décret n°2026-30 du 28 janvier 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er février 2026.
