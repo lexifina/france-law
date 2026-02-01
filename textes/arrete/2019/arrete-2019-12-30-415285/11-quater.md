@@ -1,34 +1,22 @@
-# Article 28
+# Article 11 quater
 
-I. - Le service de l'administration :
-
-- met en œuvre la politique de gestion des ressources humaines et anime le dialogue social de l'administration pénitentiaire ;
-
-- assure l'allocation des moyens budgétaires, immobiliers, matériels et technologiques ;
-
-- déploie et met en œuvre une expertise en matière d'organisation du travail, de conseil juridique, de valorisation des données, de recherche, d'évaluation des politiques pénitentiaires, d'innovation technologique et de politique des greffes des établissements pénitentiaires ;
-
-- assure, en lien avec le secrétariat général, la gestion de proximité des ressources humaines et le soutien logistique de la direction.
-
-II. - Le service de l'administration comprend trois sous-directions :
+La direction de l'administration comprend quatre sous-directions :
 
 - la sous-direction des ressources humaines et des relations sociales ;
 
 - la sous-direction du pilotage et du soutien des services ;
 
-- la sous-direction de l'expertise.
+- la sous-direction de l'expertise ;
+
+- la sous-direction du recrutement et de la formation.
 
 1° La sous-direction des ressources humaines et des relations sociales est notamment chargée des questions relatives :
-
-- à la formation initiale et continue des personnels, à l'élaboration des référentiels métiers et à la tutelle de l'Ecole nationale d'administration pénitentiaire dans le domaine de la formation ;
-
-- au recrutement des personnels et à l'organisation des concours et des examens professionnels, sous réserve des compétences du secrétariat général relatives aux corps communs ;
 
 - aux statuts et régimes indemnitaires des personnels, en liaison avec le secrétariat général ;
 
 - aux procédures disciplinaires ;
 
-- aux aspects juridiques en matière de gestion des ressources humaines, au traitement des précontentieux et à la préparation, en lien avec les services du secrétariat général, de la défense des intérêts de l'Etat devant les juridictions administratives.
+- aux aspects juridiques en matière de gestion des ressources humaines, au traitement des précontentieux et à la préparation, en lien avec les services du secrétariat général, de la défense des intérêts de l'Etat devant les juridictions administratives ;
 
 - au dialogue social avec les organisations syndicales de l'administration pénitentiaire ;
 
@@ -40,7 +28,7 @@ II. - Le service de l'administration comprend trois sous-directions :
 
 - à l'égalité, la diversité, la laïcité, la lutte contre les discriminations et les violences sexuelles et sexistes ;
 
--au respect de la qualité de vie au travail et, en lien avec le secrétariat général, à l'action sociale en faveur des personnels pénitentiaires.
+- au respect de la qualité de vie au travail et, en lien avec le secrétariat général, à l'action sociale en faveur des personnels pénitentiaires ;
 
 2° La sous-direction du pilotage et du soutien des services :
 
@@ -66,7 +54,7 @@ II. - Le service de l'administration comprend trois sous-directions :
 
 - est responsable du contrôle de gestion ;
 
-- coordonne le déploiement et le suivi des équipements relevant des référentiels de programmation des établissements pénitentiaires et des matériels connectés aux réseaux, en lien avec le secrétariat général.
+- coordonne le déploiement et le suivi des équipements relevant des référentiels de programmation des établissements pénitentiaires et des matériels connectés aux réseaux, en lien avec le secrétariat général ;
 
 3° La sous-direction de l'expertise est notamment chargée des questions relatives :
 
@@ -78,4 +66,14 @@ II. - Le service de l'administration comprend trois sous-directions :
 
 - à la politique d'innovation et d'expérimentation de l'administration pénitentiaire dans les domaines des sciences humaines, de la technologie et du développement durable, aux bonnes pratiques de l'administration pénitentiaire ;
 
-- à la politique des greffes des établissements pénitentiaires concernant les pratiques professionnelles, la sécurisation des procédures judiciaires ainsi qu'à la valorisation des compétences et des évolutions des métiers des greffes.
+- à la politique des greffes des établissements pénitentiaires concernant les pratiques professionnelles, la sécurisation des procédures judiciaires ainsi qu'à la valorisation des compétences et des évolutions des métiers des greffes ;
+
+4° La sous-direction du recrutement et de la formation est notamment chargée des questions relatives :
+
+- à la formation initiale et continue des personnels, à l'élaboration des référentiels métiers et à la tutelle de l'Ecole nationale d'administration pénitentiaire dans le domaine de la formation ;
+
+- au recrutement des personnels et à l'organisation des concours et des examens professionnels, sous réserve des compétences du secrétariat général relatives aux corps communs.
+
+NOTA :
+
+Conformément à l'article 5 de l'arrêté du 22 décembre 2025 (NOR : JUST2534324A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er février 2026.
