@@ -642,6 +642,12 @@ Secrétaire général |
 
 Economie et finances |
 
+Groupe des instituts du service public |
+
+Directeur |
+
+Fonction publique |
+
 Institut d'enseignement supérieur et de recherche en alimentation, santé animale, sciences agronomiques et de l'environnement (Vet Agro Sup) |
 
 Secrétaire général
