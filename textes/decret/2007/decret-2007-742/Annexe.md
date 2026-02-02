@@ -8,47 +8,83 @@ Le Gouvernement de la République française, représenté par M. François Loos
 
 Le Gouvernement de la République italienne, représenté par M. Pier Luigi Bersani, Ministre du développement économique de la République italienne, d'autre part,
 
-Considérant :
+Vu :
 
-- l'accord de Gênes du 11 juin 2005 sur la coopération dans le domaine de l'énergie ;
+- le Traité instituant la Communauté européenne de l'énergie atomique (EURATOM), fait à Rome le 25 mars 1957, et notamment les articles 86 et 87 du chapitre VIII du titre deuxième relatif au régime de propriété des matières fissiles spéciales ;
 
-- l'appel d'offres pour le traitement des combustibles usés italiens lancé par la SOGIN, Société de gestion des installations nucléaires, en mai 2005 et la remise du dossier d'offres par la Compagnie générale des matières nucléaires, ci-après dénommée AREVA NC, le 16 juillet 2005 proposant un traitement à l'usine de La Hague de ces combustibles ;
+- la Convention commune sur la sûreté de la gestion du combustible usé et sur la sûreté de la gestion des déchets radioactifs, faite à Vienne le 5 septembre 1997 ;
 
-- la lettre d'intention du 13 janvier 2006, souscrite par les membres de la commission de négociation contractuelle, représentants SOGIN et AREVA NC, par laquelle SOGIN annonce son intention de confier à AREVA NC le contrat de traitement de 235 tonnes de combustibles usés, répartis entre 220 tonnes de combustibles à l'oxyde d'uranium et 15 tonnes de combustibles MOX (oxydes mixtes d'uranium et de plutonium) et par laquelle la validité et l'exécution du contrat sont soumises à l'approbation préalable d'un Accord intergouvernemental entre les Autorités française et italienne compétentes ;
+- le protocole d'accord entre le ministre des activités productives de la République italienne et le ministre de l'économie, des finances et de l'industrie de la République française sur la coopération dans le secteur de l'énergie, signé à Gênes le 11 juin 2005 ;
 
-- l'article L. 542-2-1 du code de l'environnement issu de la loi n° 2006-739 du 28 juin 2006 sur la gestion durable des matières et déchets radioactifs qui subordonne toute introduction en France de combustibles usés en provenance de l'étranger à la conclusion d'un Accord entre le gouvernement de la République française et le gouvernement de l'Etat d'origine desdits combustibles ;
+- l'Accord de coopération dans le domaine de l'énergie entre le gouvernement de la République italienne et le gouvernement de la République française, fait à Nice le 30 novembre 2007 ;
 
-- que le même article prévoit que l'Accord précise « les périodes prévisionnelles de réception et de traitement de ces substances », « que les déchets radioactifs issus après traitement de ces substances ne soient pas entreposés en France au-delà d'une date fixée par ces accords » et « s'il y a lieu, les perspectives d'utilisation ultérieures des matières radioactives séparées lors du traitement »,
+- la directive 2011/70/Euratom du Conseil du 19 juillet 2011 établissant un cadre communautaire pour la gestion responsable et sûre du combustible usé et des déchets radioactifs, en particulier son Article 2, paragraphe 4, qui dispose que “La présente directive ne porte pas atteinte au droit d'un État membre ou d'une entreprise de cet État membre de renvoyer les déchets radioactifs, après leur traitement, vers leur pays d'origine si : a) les déchets radioactifs doivent être transférés vers cet État membre ou cette entreprise en vue de leur traitement ; ou b) d'autres substances doivent être transférées vers cet État membre ou cette entreprise dans le but de récupérer les déchets radioactifs. La présente directive ne porte pas atteinte au droit d'un État membre ou d'une entreprise de cet État membre vers lesquels du combustible usé doit être transféré en vue de son traitement ou retraitement de retransférer vers leur pays d'origine les déchets radioactifs récupérés à l'issue de l'opération de traitement ou de retraitement, ou un équivalent dont il a été convenu” ;
+
+- l'article L. 542-2-1 du code de l'environnement français qui subordonne toute introduction en France de combustibles usés en provenance de l'étranger à des fins de traitement à la conclusion d'un Accord entre le gouvernement de la République française et le gouvernement de l'État d'origine desdits combustibles, qui prévoit que l'Accord précise “les périodes prévisionnelles de réception et de traitement ou de retraitement de ces substances et, s'il y a lieu, les perspectives d'utilisation ultérieures des matières radioactives séparées lors du traitement”, et qui dispose que l'introduction de combustibles usés sur le territoire national français à des fins de traitement ne peut être autorisée “qu'à la condition que les déchets radioactifs issus après traitement de ces substances ne soient pas entreposés en France au-delà d'une date fixée par ces accords” ;
+
+- l'article 57 du décret législatif n° 101 du 31 juillet 2020 de la législation italienne qui dispose, entre autres, que les transferts de déchets radioactifs et de combustibles nucléaires usés provenant des États membres de l'Union européenne ou à destination de ceux-ci doivent être préalablement autorisés conformément à la procédure prévue par celui-ci ;
+
+- le contrat de transport et de retraitement conclu entre SOGIN et AREVA NC, dont les droits et obligations ont été repris par Orano Recyclage, signé le 27 avril 2007, qui comprend, entre autres, des dispositions relatives à la mise en œuvre des opérations de transport et de retraitement des combustibles usés, et des opérations de retour en Italie des matières et déchets radioactifs issus du retraitement des combustibles usés, ainsi que des dispositions relatives aux mesures à appliquer en cas de dépassement du délai de retour en Italie des déchets radioactifs issus du retraitement des combustibles usés qui font l'objet du contrat ;
+
+- la lettre d'intention signée par SOGIN et Orano Recyclage le 5 décembre 2025, dans laquelle les deux sociétés sont convenues des conditions générales de révision du contrat de transport et de retraitement susmentionné, y compris les mesures éventuelles à appliquer en cas de dépassement des délais de retour en Italie des déchets radioactifs et des matières issus du retraitement des combustibles usés qui font l'objet du contrat, la validité et l'exécution de ce contrat étant subordonnées à la conclusion du présent Accord.
+
+Considérant ce qui suit :
+
+- à la fin de l'année 2025, à la suite des actions entreprises par le gouvernement de la République italienne et le gouvernement de la République française pour la mise en œuvre du présent Accord, environ 222 tonnes de combustible usé ont été réceptionnées en France, environ 13 tonnes de combustible usé sont encore entreposées en Italie en attente d'expédition vers la France, et les opérations de retour en Italie des matières et des déchets radioactifs issus du retraitement des combustibles usés ne sont pas encore achevées ;
+
+- au 31 décembre 2021, SOGIN et Orano Recyclage n'ont identifié aucune perspective d'utilisation future de l'uranium issu du retraitement des combustibles usés qui font l'objet du contrat de transport et de retraitement susmentionné, pour la partie qui a déjà été expédiée en France ;
 
 Sont convenus de ce qui suit :
 
-1. Le présent Accord se réfère au traitement de 235 tonnes de combustibles usés italiens, telles que décrites dans la lettre d'intention du 13 janvier 2006 et pour lequel AREVA doit se voir attribuer un contrat de traitement. Il est pris sans préjudice de la réglementation relative à la sûreté nucléaire et à la radioprotection. Conformément à l'article L. 542-2-1 du code de l'environnement français, l'entrée sur le territoire français des combustibles italiens est réalisée aux fins de traitement par AREVA NC, et il ne saurait donner lieu à un stockage définitif sur le territoire français.
+1. Le présent Accord se réfère au traitement de 235 tonnes de combustibles usés italiens, telles que décrites dans le contrat de transport et de retraitement du 27 avril 2007 susvisé conclu entre SOGIN et AREVA NC, dont les droits et obligations ont été repris par Orano Recyclage, à mettre à jour sur la base de la lettre d'intention du 5 décembre 2025 susvisée. Il est pris sans préjudice de la réglementation italienne et française relative à la sûreté nucléaire et à la radioprotection. Conformément à l'article L. 542-2-1 du code de l'environnement français, l'entrée sur le territoire français des combustibles italiens est réalisée aux fins de traitement par Orano Recyclage, et les déchets radioactifs qui en résultent ne sont pas entreposés en France au-delà des dates applicables fixées aux points 4. a. et 4. b. du présent Accord.
 
-2. Les livraisons de combustibles usés se feront à partir du 1er janvier 2007 et avant le 31 décembre 2015, sous réserve, pour ce qui concerne les 15 tonnes de combustibles MOX, de l'obtention des autorisations additionnelles nécessaires à leur traitement au titre de la réglementation relative à la sûreté nucléaire.
+2. Il est prévu que les livraisons de combustibles usés débutent à partir du 1er janvier 2007, sous réserve, pour ce qui concerne les 15 tonnes de combustibles MOX, de l'obtention des autorisations additionnelles nécessaires à leur traitement au titre de la réglementation relative à la sûreté nucléaire.
 
-3. Le traitement des combustibles usés est prévu dans une période de six ans suivant chaque livraison de combustibles usés à l'usine de La Hague, tout en respectant les termes définis au point 4 ci-dessous.
+Les expéditions vers la France de la partie des combustibles usés qui font l'objet du contrat de transport et de retraitement susmentionné, à mettre à jour sur la base de la lettre d'intention du 5 décembre 2025, et qui reste entreposée en Italie au 31 décembre 2025, représentant 12,9 tonnes de combustibles usés de type MOX et 0,3 tonne de combustibles usés à base d'oxydes d'uranium, ne peuvent être effectuées qu'à condition que tous les déchets radioactifs mentionnés au point 4. a. du présent accord aient été préalablement renvoyés en Italie et que les dispositions prévues au point 4. a. du présent Accord soient respectées. Dans ce cas seulement, ces expéditions sont effectuées dans un délai d'un an après le retour en Italie de tous les déchets radioactifs mentionnés au point 4. a. du présent Accord et la France s'engage à les recevoir pour traitement.
 
-4. En exécution des obligations et engagements convenus au point 1 du présent Accord, les déchets radioactifs issus du traitement de ces combustibles seront retournés en Italie, qui s'engage à les réceptionner sous forme de colis de déchets conditionnés. Les deux Parties s'engagent à définir avant le 31 décembre 2015 le calendrier prévisionnel et avant le 31 décembre 2018 le calendrier définitif de leur retour, qui devra avoir lieu entre le 1er janvier 2020 et le 31 décembre 2025.
+3. Le traitement des combustibles usés qui font l'objet du contrat de transport et de retraitement susmentionné, à mettre à jour sur la base de la lettre d'intention du 5 décembre 2025, et qui n'ont pas encore été retraités au 31 décembre 2025, est prévu d'ici 2055.
 
-5. Les gouvernements français et italien s'engagent à prendre toutes les dispositions nécessaires et relevant de leurs compétences pour permettre l'exécution du contrat mentionné au point 1.
+4. En exécution des obligations et engagements énoncés au point 1. du présent Accord :
+
+a. les déchets radioactifs issus du traitement des combustibles usés déjà retraités au 31 décembre 2025 sont retournés en Italie avant le 31 décembre 2040 ; l'Italie s'engage à les recevoir à cette date au plus tard ;
+
+b. les déchets radioactifs issus du traitement des combustibles usés qui n'ont pas encore été retraités au 31 décembre 2025 sont retournés en Italie après l'achèvement des opérations de traitement mentionnées au point 3., et avant le 31 décembre 2056 ; l'Italie s'engage à les recevoir à cette date au plus tard.
+
+5. Les gouvernements français et italien s'engagent à prendre toutes les dispositions nécessaires et relevant de leurs compétences pour permettre l'exécution du contrat de transport et de retraitement susmentionné, à mettre à jour sur la base de la lettre d'intention du 5 décembre 2025, mentionné au point 1. dans les conditions prévues par le présent Accord.
 
 Plus particulièrement :
 
 - le gouvernement français s'engage à prendre les dispositions nécessaires et relevant de sa compétence pour permettre une exécution du contrat selon les termes prévus au point 2 ;
 
-- le gouvernement italien s'engage à prendre les dispositions nécessaires et relevant de sa compétence pour mener, selon un calendrier communiqué au gouvernement français, le processus d'autorisation, de construction et de mise en exploitation d'un site de stockage ou d'entreposage apte à accueillir les déchets radioactifs que l'Italie s'engage par le présent Accord à recevoir entre le 1er janvier 2020 et le 31 décembre 2025, et, le cas échéant, les matières valorisables visées au 7 ; l'Italie s'engage à informer annuellement le gouvernement français de l'avancement de ces activités ;
+- Le gouvernement français s'engage à fournir chaque année au gouvernement italien des informations sur l'état d'avancement des activités de traitement des combustibles usés, en particulier en ce qui concerne le combustible MOX et les procédures d'autorisation correspondantes ;
 
-- le gouvernement italien s'engage à assurer le respect des délais prévus par le présent Accord, en ce qui concerne les procédures d'autorisations, permis et licences nécessaires pour l'expédition en Italie des déchets radioactifs dans un centre de stockage ou d'entreposage conforme aux règles de sûreté en vigueur.
+- le gouvernement italien s'engage à prendre les dispositions nécessaires et relevant de sa compétence pour poursuivre, selon un calendrier communiqué au gouvernement français, le processus d'autorisation, de construction et de mise en exploitation d'un site de stockage ou d'entreposage apte à accueillir les déchets radioactifs que l'Italie s'engage par le présent Accord à recevoir dans les conditions fixées par les points 4. a. et 4. b., et, le cas échéant, les matières valorisables mentionnées au point 7. ; l'Italie s'engage à informer annuellement le gouvernement français de l'avancement de ces activités ;
 
-6. Les transports des déchets radioactifs sur les territoires de la République française, de tout Etat de transit et de la République italienne, seront effectués en conformité avec les réglementations en vigueur.
+- le gouvernement italien s'engage à respecter les délais prévus par le présent Accord, en ce qui concerne les procédures d'autorisations, permis et licences nécessaires pour l'expédition en Italie des déchets radioactifs dans un centre de stockage ou d'entreposage conforme aux règles de sûreté en vigueur ;
 
-7. Les matières radioactives séparées lors du traitement (uranium et plutonium) seront mises à disposition de SOGIN. SOGIN et AREVA NC identifieront les modalités de réutilisation, totale ou partielle, des matières comme combustibles électronucléaires, directement ou indirectement en impliquant un tiers. Toute quantité de matières, que la partie française estimera sans perspective d'utilisation au 31 décembre 2021, sera mise à disposition de SOGIN en vue de son retour sur le territoire italien avant le 31 décembre 2025.
+- Le gouvernement italien s'engage également à respecter les délais prévus par le présent Accord relatifs aux dispositions nécessaires relevant de sa compétence en matière d'emballage pour le stockage et le transport des déchets.
 
-8. La mise en oeuvre de cet Accord, et notamment le respect du calendrier de réalisation du centre de stockage ou d'entreposage des déchets radioactifs en Italie, fera l'objet d'un suivi annuel par les ministres ou leurs représentants.
+6. Les transports des déchets radioactifs sur les territoires de la République française, de tout Etat de transit et de la République italienne, s'effectuent en conformité avec les réglementations en vigueur.
 
-9. Ne devront pas être considérés comme des cas de force majeure, pour les besoins du contrat de traitement, les décisions, actions, omissions ou restrictions d'une autorité gouvernementale tout autant que les conséquences pratiques et matérielles en résultant, qui seraient de nature à retarder ou faire obstacle aux obligations de retour des déchets radioactifs visés dans le présent Accord.
+7. a. L'uranium issu du traitement des combustibles usés qui, au 31 décembre 2025, ont déjà été retraités, est mis à la disposition de SOGIN et est retourné en Italie au plus tard le 31 décembre 2040. SOGIN détermine, sur la base de lignes directrices appropriées émises par le gouvernement italien, les modalités de sa réutilisation totale ou partielle éventuelle, directement ou indirectement avec la participation d'un tiers.
 
-10. Le contrat de traitement conclu entre les sociétés AREVA NC et SOGIN est soumis aux stipulations du présent Accord.
+Avant le 31 décembre 2028, SOGIN notifie à Orano Recyclage la décision italienne concernant l'utilisation ultérieure de l'uranium mentionné au paragraphe précédent, conformément aux dispositions contractuelles appropriées qui doivent être conclues avant la même date. Si aucune perspective d'utilisation n'est identifiée, cet uranium sera considéré comme relevant du champ d'application du point 4. a.
+
+b. L'uranium et le plutonium issus du traitement des combustibles usés qui, au 31 décembre 2025, n'ont pas encore été retraités, sont mis à la disposition de SOGIN. SOGIN détermine, sur la base des lignes directrices appropriées émises par le gouvernement italien, les modalités de réutilisation totale ou partielle éventuelle de cet uranium et de ce plutonium, directement ou indirectement avec la participation d'un tiers.
+
+Avant le 31 décembre 2052, SOGIN notifie à Orano Recyclage la décision italienne concernant l'utilisation ultérieure de l'uranium et du plutonium mentionnés au paragraphe précédent, conformément aux dispositions contractuelles appropriées qui doivent être conclues avant la même date. Si aucune perspective d'utilisation n'est identifiée, cet uranium et ce plutonium seront considérés comme relevant du champ d'application du point 4. b.
+
+8. La mise en oeuvre de cet Accord, et notamment le respect du calendrier de réalisation du centre de stockage ou d'entreposage des déchets radioactifs en Italie et de tout autre centre de stockage ou d'entreposage susceptible de recevoir les matières valorisables mentionnées au point 7, ainsi que l'état d'avancement du traitement des combustibles usés, fera l'objet d'un suivi annuel par les ministres ou leurs représentants.
+
+9. Ne devront pas être considérés comme des cas de force majeure, pour les besoins du contrat de traitement, les décisions, actions, omissions ou restrictions d'une autorité gouvernementale tout autant que les conséquences pratiques et matérielles en résultant, qui seraient de nature à retarder ou faire obstacle aux obligations de retour des déchets radioactifs figurant dans le présent Accord.
+
+10. Le contrat de transport et de retraitement susmentionné, à mettre à jour sur la base de la lettre d'intention du 5 décembre 2025, est soumis aux stipulations du présent Accord, ainsi que les dispositions contractuelles supplémentaires qui peuvent être conclues entre les sociétés Orano Recyclage et SOGIN pour la mise en œuvre du présent Accord.
+
+11. Tout litige relatif à l'interprétation ou à l'application du présent Accord est réglé à l'amiable par voie de consultations et de négociations directes entre les Parties.
+
+12. Le présent Accord est mis en œuvre dans le respect de la législation italienne et française, ainsi que du droit international applicable et des obligations découlant de l'appartenance des Parties à l'Union européenne.
+
+13. Les dépenses résultant de la mise en œuvre du présent Accord sont à la charge des parties dans la limite de leurs ressources financières respectives, sans générer de charges supplémentaires pour les budgets ordinaires de la République italienne et de la République française.
 
 Le présent Accord entrera en vigueur deux mois après sa signature.
 
