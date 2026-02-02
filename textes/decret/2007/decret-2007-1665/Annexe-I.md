@@ -60,9 +60,7 @@ DI Hauts-de-France
 
 DR Dunkerque |
 
-Hauts-de-France
-
-|
+Hauts-de-France |
 
 Nord (arrondissement de Dunkerque), Pas-de-Calais (arrondissements de Boulogne-sur-Mer, Calais, Montreuil et Saint-Omer) |
 
@@ -148,7 +146,7 @@ DR Montpellier |
 
 Occitanie |
 
-Gard, Hérault, Lozère |
+Aveyron, Gard, Hérault, Lozère |
 
 DR Perpignan |
 
@@ -156,7 +154,7 @@ Aude, Pyrénées-Orientales |
 
 DR Toulouse |
 
-Ariège, Aveyron, Haute-Garonne, Gers, Lot, Hautes-Pyrénées, Tarn, Tarn-et-Garonne |
+Ariège, Haute-Garonne, Gers, Lot, Hautes-Pyrénées, Tarn, Tarn-et-Garonne |
 
 DI Bretagne, Pays de la Loire
 
@@ -294,4 +292,4 @@ Saint-Pierre-et-Miquelon |
 
 NOTA :
 
-Conformément à l'article 2 du décret n° 2023-1133 du 4 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément à l'article 2 du décret n° 2025-1243 du 17 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 1er du décret précité, entrent en vigueur le 2 février 2026.
