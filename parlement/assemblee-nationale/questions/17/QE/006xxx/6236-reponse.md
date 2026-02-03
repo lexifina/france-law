@@ -1,0 +1,9 @@
+# Réponse à la question n° 6236
+
+- Question : [6236](6236.md) — Question n° 6236 — Définition légale de la notion de soins esthétiques
+
+## Réponse
+
+*JO du 2026-02-03, page 992*
+
+S'agissant spécifiquement du microneedling, l'état actuel de la réglementation, le 6° de l'article 2 de l'arrêté du 6 janvier 1962, réserve la pratique de tels actes à des docteurs en médecine. La jurisprudence de la Cour de cassation confirme d'ailleurs cette interdiction pour les non-médecins, en indiquant que "le fait d'enfoncer dans le derme des aiguilles, même de petite taille, est susceptible de provoquer une fuite de liquide sanguin vers les tissus, la possibilité de saignement dépendant des caractéristiques physiologiques de la peau ainsi que de la profondeur de pénétration des aguilles" et donc que l'exercice de tels actes par des non-médecins constitue un exercice illégal de la médecine (Cour de cassation, criminelle, Chambre criminelle, 31 janvier 2023, 22-83.399). Néanmoins, des travaux sont actuellement menés par le ministère en charge de la santé avec l'ensemble des représentants des médecins pour disposer, à l'avenir, d'un encadrement des pratiques de médecine esthétique. Dans ce contexte, la Haute autorité de santé est mobilisée pour travailler sur le niveau de risques des différents actes, dont le microneedling. Il convient donc d'attendre son analyse pour envisager de modifier la réglementation. En tant qu'interlocuteur privilégié des professionnels de l'esthétique, la direction générale de la concurrence de la consommation et de la répression des fraudes est régulièrement informée de ces travaux et pourra utilement être sollicitée. Enfin, le ministre des Petites et moyennes entreprises, du Commerce, de l'Artisanat, du Tourisme et du Pouvoir d'achat, suit attentivement ces travaux afin de garantir la sécurité et la protection de la profession des artisans esthétiques.
