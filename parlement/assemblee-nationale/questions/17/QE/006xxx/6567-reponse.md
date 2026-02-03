@@ -1,0 +1,9 @@
+# Réponse à la question n° 6567
+
+- Question : [6567](6567.md) — Question n° 6567 — Problématique successorale dans le contexte frontalier franco-suisse
+
+## Réponse
+
+*JO du 2026-02-03, page 985*
+
+Pour qu'un jugement suisse qui ordonne la liquidation d'une succession à laquelle l'ensemble des héritiers ont renoncé, puisse produire des effets en France, il doit être revêtu de l'exequatur à l'issue d'une procédure judiciaire - préalable nécessaire pour que la décision étrangère soit intégrée à l'ordre juridique français et produise les mêmes effets qu'une décision française de même type ; la décision étrangère sera, le cas échéant, exécutée en application des voies d'exécution prévues par le droit français. Il en résulte que pour vendre des biens immobiliers situés en France, les autorités suisses doivent respecter les formalités prévues par le droit français, notamment celles qui concernent la publicité foncière. Ainsi, l'office des faillites suisses, pour vendre un bien situé en France, doit faire publier le jugement d'exequatur de la décision suisse au registre de la publicité foncière. En tout état de cause, l'article 33 du règlement (UE) n° 650/2012 relatif à la compétence, la loi applicable, la reconnaissance et l'exécution des décisions, l'acceptation et l'exécution des actes authentiques en matière de successions et la création d'un certificat successoral européen, concerne la loi applicable et non la reconnaissance des décisions étrangères. Plus précisément, cet article prévoit que, quelle que soit la loi applicable à la succession, un État membre peut appréhender, conformément à son propre droit, les biens situés sur son territoire, dès lors qu'il n'existe aucun héritier ou qu'ils ont tous refusé la succession. Cet article ne peut donc pas faire obstacle à la reconnaissance d'une décision étrangère.
