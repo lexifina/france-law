@@ -1,0 +1,9 @@
+# Réponse à la question n° 8520
+
+- Question : [8520](8520.md) — Question n° 8520 — Difficultés d'accès au carburant
+
+## Réponse
+
+*JO du 2026-02-03, page 961*
+
+Dans un contexte de transition énergétique, le Gouvernement est particulièrement attentif au maillage territorial de la distribution des carburants, en particulier pour assurer un maintien de services dans les zones rurales. Ainsi, l'arrêté du 8 juillet 1988 impose aux stations-service qui distribuent plus de 500 m3 de carburant par an de déclarer les prix pratiqués dans leurs stations sur le site internet « prix-carburants.gouv.fr », qui permet à l'administration d'assurer un suivi du maillage des stations-service. Aujourd'hui en France près d'une station sur 5 propose du gaz de pétrole liquéfié utilisé comme carburant (GPL-c). Cette proportion est en légère augmentation ces dernières années. Dans le même temps, le parc de véhicules particuliers roulant au GPL-c est en croissance depuis 2020, avec une récente hausse de 16% entre janvier 2024 et janvier 2025, pour environ 315 000 véhicules en circulation. Pour autant, les véhicules fonctionnant au GPL-c peuvent également fonctionner avec de l'essence, ce qui atténue le besoin d'un maillage aussi resserré que pour le gazole et l'essence. Cependant, en dépit d'une amélioration en termes d'émissions de polluants atmosphériques par rapport au diesel, qui justifie aujourd'hui son soutien via une classification en Crit'Air 1, ainsi que par un niveau d'accise inférieur à celui des carburants plus conventionnels, le GPL-c demeure un carburant fossile, avec une réduction d'émissions de gaz à effet de serre limitée par rapport à l'électricité ou aux carburants alternatifs. Il n'est donc pas envisagé à ce stade de mesures supplémentaires pour encourager le développement de stations distribuant du GPL
