@@ -1,0 +1,9 @@
+# Réponse à la question n° 8822
+
+- Question : [8822](8822.md) — Question n° 8822 — Les revenus fonciers dans le calcul du taux d'imposition à la source
+
+## Réponse
+
+*JO du 2026-02-03, page 853*
+
+Le 1° de l'article 6 du code général des impôts (CGI) dispose que chaque contribuable est imposable à l'impôt sur le revenu sur l'ensemble des revenus disponibles des membres du foyer fiscal. Ainsi, les revenus fonciers, bien qu'ils proviennent parfois de biens propres, sont intégrés au revenu global du foyer fiscal et imposés dans la déclaration commune. Depuis le 1er janvier 2019, le prélèvement à la source constitue le régime de droit commun du paiement de l'impôt sur le revenu. Le taux du prélèvement à la source est défini à l'article 204 H du CGI. Il est calculé par l'administration fiscale, pour chaque foyer fiscal, sur la base des éléments figurant sur les dernières déclarations d'ensemble des revenus souscrites par les contribuables. A compter du 1er septembre 2025, le taux du prélèvement à la source du foyer fiscal est, sauf option contraire du contribuable, individualisé pour chacun des conjoints mariés ou partenaires liés par un pacte civil de solidarité soumis à imposition commune. Par ailleurs, l'article 204 M du CGI dispose que les revenus pris en compte pour le calcul du taux individualisé sont constitués de la somme de ceux dont il a personnellement disposé et de la moitié des revenus communs, dont font partie les revenus fonciers et à ce titre les revenus locatifs provenant d'un bien appartenant exclusivement à l'un des conjoints. Les revenus fonciers, qui sont dépourvus de collecteurs, font l'objet de prélèvements, sous forme d'acomptes contemporains, réalisés à l'initiative de l'administration fiscale sur le compte bancaire désigné par le foyer fiscal, sur la base du taux de prélèvement propre au foyer fiscal.
