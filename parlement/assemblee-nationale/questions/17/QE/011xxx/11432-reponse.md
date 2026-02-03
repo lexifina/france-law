@@ -1,0 +1,9 @@
+# Réponse à la question n° 11432
+
+- Question : [11432](11432.md) — Question n° 11432 — Appellation d'origine protégée (AOP) "Miel des Vosges"
+
+## Réponse
+
+*JO du 2026-02-03, page 937*
+
+L'appellation d'origine protégée « Miel de sapin des Vosges » (et non « Miel des Vosges ») a été officiellement enregistrée en 1997. Son cahier des charges et le document unique qui l'accompagne sont disponibles sur le site de l'institut national de l'origine et de la qualité (n° UE : PDO-FR-0204-AM04-15/05/2020). Il y est précisé que le miel de sapin des Vosges est un miel provenant de miellats butinés par les abeilles sur les sapins noirs des Vosges (Abies pectinata), et que l'aire géographique est caractérisée par la présence du massif montagneux des Vosges. Dans ce massif fortement boisé, le sapin des Vosges est de loin l'espèce la plus répandue. Le « Miel de sapin des Vosges » est un produit qui possède un lien très fort avec son territoire d'origine puisqu'il est issu d'une chaîne ininterrompue depuis la variété de sapin des Vosges. C'est de cette variété que le puceron extrait la sève qu'il transforme en miellat, que butinent les abeilles pour produire un miel très caractéristique. Cette production est fortement liée à l'implantation des forêts de sapins spécifiques à la région vosgienne et dont les apiculteurs ont su tirer puis conserver toute sa spécificité. En conséquence, il n'est pas autorisé de produire du miel bénéficiant de l'appellation d'origine protégée (AOP) « Miel de sapin des Vosges » en dehors de l'aire géographique définie dans le cahier des charges de cette AOP, et qui se rapporte à la présence du sapin noir, qui donne sa spécificité à cette AOP. Il convient de souligner que la qualité de ce miel et son lien au territoire sont intrinsèquement liés au massif montagneux des Vosges et à la présence de sapin.
