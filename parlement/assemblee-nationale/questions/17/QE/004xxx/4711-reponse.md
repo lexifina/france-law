@@ -1,0 +1,9 @@
+# Réponse à la question n° 4711
+
+- Question : [4711](4711.md) — Question n° 4711 — Plainte de la LDH auprès du parquet de Paris contre Apple
+
+## Réponse
+
+*JO du 2026-02-03, page 980*
+
+La question concerne une affaire en cours, dans le cadre de laquelle une plainte a été déposée ; elle ne peut donc donner lieu à aucun commentaire particulier. D'une manière générale, il convient toutefois de rappeler que le fondement légal du "Privacy Framework" reste toujours valide à ce jour. En effet, par une décision du 10 juillet 2023, la Commission européenne a constaté que les États-Unis assurent un niveau de protection des données personnelles équivalent à celui de l'Union européenne. Ce mécanisme facilite les transferts de données sans nécessiter d'outils complémentaires, tels que les clauses contractuelles-types ; il fait l'objet d'un suivi régulier par la Commission européenne. Lors de sa première revue, la Commission européenne a conclu, dans son rapport du 9 octobre 2024, que les autorités américaines ont mis en place les structures et procédures nécessaires pour garantir le fonctionnement efficace du "Data Privacy Framework". A ce jour, la Commission européenne assure un contrôle constant du respect du cadre juridique, comme l'y oblige le RGPD, et aucune annulation de cette décision n'a été prononcée dans le cadre de contentieux portés devant le juge. Les transferts de données vers les Etats-Unis peuvent donc toujours bénéficier de cet encadrement. En outre, la réglementation européenne en matière de protection des données peut également trouver à s'appliquer directement aux opérateurs étrangers qui offrent leurs services sur le territoire européen, qu'ils y soient établis ou non, en vertu de l'article 3, paragraphe 2 du RGPD. Aussi, le cadre juridique européen assure une protection très large aux résidents européens, et donc aux ressortissants français, y compris en l'absence d'établissement sur le territoire européen.
