@@ -1,0 +1,9 @@
+# Réponse à la question n° 11082
+
+- Question : [11082](11082.md) — Question n° 11082 — Avenir du Plan Ambition Corse
+
+## Réponse
+
+*JO du 2026-02-03, page 931*
+
+Les filières agricoles corses font l'objet, depuis de nombreuses années, d'un soutien spécifique de l'État, déployé via FranceAgriMer, aux côtés de celui apporté par la collectivité territoriale de Corse, via l'office du développement agricole et rural de la Corse. Pour la période 2021-2025, suite à un appel à projets conduit début 2021, le plan « Ambition Corse » a permis de soutenir des actions diversifiées visant à accroître la structuration et à accompagner les transitions des filières de ce territoire. Dans un contexte budgétaire contraint, le ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, en lien avec FranceAgriMer, a décidé de prolonger ce plan pour l'année 2026, avec un budget alloué de 3 millions d'euros (M€). Par ailleurs, l'État poursuit son soutien à hauteur de 400 000 euros en 2026 au déploiement du bolus intraruminal d'identification des bovins, dont la présence devient obligatoire en application de la réglementation sanitaire, à partir du 1er janvier 2026, pour tous les bovins de plus de 12 mois entrant ou sortant d'une exploitation, y compris à destination d'un abattoir. Ainsi, le montant total alloué à une reconduction du plan Corse pour 2026 s'élève à 3,4 M€. Il s'agit d'un effort financier conséquent dans le cadre budgétaire actuel, témoignant de l'attention portée par la ministre aux filières agricoles corses, à l'échéance du plan ambition Corse 2021-2025. Cette prolongation doit permettre d'ici à l'été 2026 de faire le bilan de ce plan, d'identifier des pistes d'évolution et de définir un cadre de soutien rénové, intégrant des réflexions sur les restructurations afférentes nécessaires.
