@@ -1,0 +1,33 @@
+# Réponse à la question n° 579
+
+- Question : [579](579.md) — Question n° 579 — Protection des habitants face à l'augmentation des actes de délinquance à Autun
+
+## Réponse
+
+*JO du 2026-02-04, page 1122*
+
+SÉCURITÉ À AUTUN
+
+Mme la présidente. La parole est à M. Aurélien Dutremble, pour exposer sa question, no 579, relative à la sécurité à Autun.
+
+M. Aurélien Dutremble. Le 20 septembre 2025 : coups de feu dans le quartier de Saint-Pantaléon, à Autun. Le 29 septembre 2025 : fusillade devant le Lidl et chasse à l'homme ; des trafiquants interpellés. Le 14 novembre 2025 : cinq voitures incendiées en pleine nuit. Le 13 janvier 2026 : nouvelle alerte aux coups de feu dans ce même quartier d'Autun. Nous sommes le 3 février 2026 et, depuis quatre mois, rien n'a réellement changé. Quatre dates, quatre violences graves en moins de quatre mois. Voilà le quotidien d'un quartier de cette ville de Saône-et-Loire. Nous ne parlons plus d'une série de faits divers. Nous constatons l'effondrement de l'ordre républicain. À Saint-Pantaléon, il n'est plus question d'incivilités mais de fusillades, de bandes armées, de trafics et de voitures brûlées. Les habitants vivent enfermés chez eux. Certains ne sortent plus du tout à la tombée de la nuit. Les familles ont peur pour leurs enfants, y compris à la sortie des écoles situées dans le quartier où ont eu lieu les fusillades.
+
+Dans une ville moyenne française, faire ses courses est devenu dangereux et sortir le soir est devenu risqué. Pendant ce temps, l'État recule : moins de policiers sur le terrain et plus de délinquants en liberté ; le laxisme pénal nourrit la violence. Votre politique de sécurité, telle que vous la concevez en Macronie, dans sa version « en même temps », n'a pas simplement échoué, elle a laissé prospérer l'insécurité dans des territoires qui, hier encore, étaient paisibles. Autun n'est ni Marseille ni Paris. Si même une ville de 13 000 habitants bascule, alors plus aucun territoire n'est protégé.
+
+Les chiffres confirment cette dérive. En 2025, en Saône-et-Loire, les cambriolages de résidence ont explosé de 36,5 % en zone police et de 24 % en zone gendarmerie ; les violences urbaines se traduisent par 116 véhicules incendiés et 127 poubelles brûlées en un an ; les trafics prospèrent, au point que les démantèlements ont bondi de 40 % en zone gendarmerie, signe d'un enracinement profond des réseaux jusque dans la campagne. Voilà le vrai bilan de l'angélisme de la Macronie, du déni et de la perte d'autorité.
+
+Les habitants ne veulent plus de plans, de discours ni de statistiques. Ils veulent des policiers nombreux et visibles ; des trafiquants neutralisés ; des peines réellement exécutées ; des quartiers repris en main. Combien de fusillades, combien de voitures brûlées, d'agressions, de quartiers abandonnés faudra-t-il encore avant que vous ne rétablissiez enfin l'autorité de l'État à Saint-Pantaléon, dans la ville d'Autun, ainsi que partout en France ?
+
+Mme la présidente. La parole est à Mme la ministre déléguée auprès du ministre de l'intérieur.
+
+Mme Marie-Pierre Vedrenne, ministre déléguée auprès du ministre de l'intérieur. Au cours des six derniers mois, la ville d'Autun a été éprouvée par des règlements de compte en lien avec le narcobanditisme dijonnais, marquant une aggravation inédite d'une situation sécuritaire déjà dégradée, notamment dans le quartier de Saint-Pantaléon. Les quatre-vingt-onze militaires de la compagnie de gendarmerie d'Autun sont quotidiennement investis dans la lutte contre toutes les formes de délinquance. Je salue leur action, composée d'une occupation résolue du terrain et d'investigations destinées à démanteler les réseaux. Ils obtiennent des résultats probants : en 2025, nous avons enregistré une baisse de 3 % des atteintes volontaires à l'intégrité physique et une hausse de 30 % du nombre de personnes mises en cause. En matière de stupéfiants, quarante et un faits d'usage ou de revente ont été constatés, contre une moyenne de quinze par an lors des dix dernières années, tandis que cinq trafics ont été démantelés.
+
+L'effort contre le narcotrafic se poursuit en 2026 : en réponse à l'escalade de violence survenue en septembre 2025, le quartier Saint-Pantaléon a bénéficié en octobre d'un dispositif de sécurisation spécifique, avec le renfort, nuit et jour, de gendarmes mobiles et de réservistes. Un dispositif de recherche opérationnelle armé de 250 militaires, dont des effectifs du Groupe d’intervention de la gendarmerie nationale (GIGN) et de la section de recherche de Dijon ont permis d'interpeller des individus qui préparaient un règlement de comptes.
+
+Des tensions croissantes étant également constatées dans d'autres villes moyennes, la gendarmerie est pleinement mobilisée au niveau national. Son approche globale se décline dans des plans d'action départementaux de restauration de la sécurité du quotidien, des actions de sensibilisation et de prévention. Elle se caractérise aussi par des actions spécifiques des militaires des unités de police judiciaire.
+
+Enfin, la gendarmerie a engagé un travail stratégique sur les violences urbaines. Un nouveau référentiel opérationnel sera fourni courant 2026 aux commandements de compagnie et de groupement de gendarmerie. Soyez assurés que nous voulons préserver la sécurité des villes moyennes dans la durée, à Autun – dont je salue la mobilisation du maire, Vincent Chauvet – comme ailleurs : nous consoliderons les résultats déjà obtenus afin d'empêcher la délinquance et la criminalité organisée de s'y installer.
+
+Mme la présidente. La parole est à M. Aurélien Dutremble.
+
+M. Aurélien Dutremble. Je vous remercie pour votre réponse mais, après le départ des forces de l'ordre du quartier, la vie continue et la peur est toujours là. Les habitants d'Autun vous regardent. Ils ne veulent plus de vos discours. Ils attendent des actes ; que quelqu'un agisse enfin réellement en leur faveur.
