@@ -92,6 +92,8 @@ Des conventions de partenariat peuvent prévoir de déléguer une partie de la g
 
 Les projets de convention de partenariat et leurs avenants sont soumis à l'avis du conseil d'administration de la caisse d'assurance maladie des industries électriques et gazières et de la commission nationale paritaire de suivi prévue au paragraphe 6 du présent article.
 
+La gestion de la dispense d'avance des frais pour les prestations du régime complémentaire peut être déléguée à un organisme prestataire assurant la gestion du tiers payant.
+
 B.-Chaque fédération syndicale représentative au niveau de la branche professionnelle est représentée au conseil d'administration de la caisse d'assurance maladie des industries électriques et gazières.
 
 Le conseil d'administration de la caisse est composé de vingt-cinq représentants des agents statutaires en activité ou en inactivité de service, élus sur des listes présentées par les fédérations syndicales représentatives au niveau de la branche professionnelle ainsi que, le cas échéant, de représentants désignés en application des dispositions du quatrième alinéa du présent B.
