@@ -418,7 +418,7 @@ A
 
 |
 
-b) De 401 à 800 animaux
+b) De 501 à 800 animaux
 
 |
 
@@ -428,7 +428,7 @@ E
 
 |
 
-c) De 50 à 400 animaux
+c) De 50 à 500 animaux
 
 |
 
@@ -458,7 +458,7 @@ A
 
 |
 
-b) De 151 à 400 vaches
+b) De 201 à 400 vaches
 
 |
 
@@ -468,7 +468,7 @@ E
 
 |
 
-c) De 50 à 150 vaches
+c) De 50 à 200 vaches
 
 |
 
@@ -478,7 +478,7 @@ D
 
 |
 
-3. Elevage de vaches allaitantes (c'est-à-dire dont le lait est exclusivement destiné à l'alimentation des veaux) :
+3. Elevage de vaches allaitantes (c'est à dire dont le lait est exclusivement destiné à l'alimentation des veaux) :
 
 |
 
@@ -768,7 +768,7 @@ D |
 
 - |
 
-Nota.-Ne sont pris en compte que les chiens âgés de plus de quatre mois
+Nota.-Sont exclus les chiens âgés de 4 mois ou moins, ainsi que les chiens en action de protection de troupeau détenus par des opérateurs détenant des bovins, ovins, caprins, porcins, équidés, au sens de l'arrêté du 30 juillet 2014 relatif à l'enregistrement des exploitations et des détenteurs.
 
 |
 
