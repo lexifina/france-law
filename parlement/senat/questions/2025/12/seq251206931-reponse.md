@@ -1,0 +1,9 @@
+# Réponse à la question SEQ251206931
+
+- Question : [SEQ251206931](seq251206931.md) — Délais d'instruction d'urbanisme pour les établissements recevant du public
+
+## Réponse
+
+*Aménagement du territoire et décentralisation , JO du 2026-02-05, page 630*
+
+L'instruction des demandes d'autorisation de travaux ou de permis de construire concernant des établissement recevant du public (ERP) implique, conformément aux dispositions du code de la construction et de l'habitation (notamment les articles R. 122-5 à R. 122-21), la consultation de la commission consultative départementale compétente, appelée à se prononcer, selon ses formations spécialisées, sur la sécurité contre l'incendie et la panique, ainsi que sur l'accessibilité aux personnes handicapées. Les avis rendus à ce titre alimentent la décision de l'autorité compétente. Le Gouvernement est attentif aux difficultés rencontrées par certains territoires, en particulier ruraux, lorsque les délais d'instruction des autorisations concernant les établissements recevant du public s'allongent. Les modalités d'organisation locales, notamment la périodicité des réunions et la disponibilité des membres des commissions ne sont toutefois pas liées aux textes réglementaires eux-mêmes. Ceux-ci permettent, sous l'autorité du préfet, d'organiser des réunions conjointes ou distinctes des formations compétentes en matière de sécurité et d'accessibilité, dès lors que les règles de composition et de compétence de chaque formation sont respectées. Le recours accru aux outils de dématérialisation des dossiers et des échanges entre administrations et aux délibérations à distance, la planification anticipée de ces réunions et le renforcement de la coordination entre services instructeurs et commissions constituent des leviers opérationnels pour améliorer les délais d'instruction sans remettre en cause les garanties essentielles offertes au public.
