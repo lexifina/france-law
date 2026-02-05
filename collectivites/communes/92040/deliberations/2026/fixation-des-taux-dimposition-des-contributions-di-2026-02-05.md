@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Fixation des taux d’imposition des contributions directes locales - Année 2026.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2026-02-05
+- Matière : FINANCES
+- Objet : Fixation des taux d’imposition des contributions directes locales - Année 2026.
+- Transmis à la préfecture : 2026-02-13
+- Votants : 47
+- Pour : 43
+- Contre : 4
+- Abstentions : 4
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjA3NjksInB1ciI6ImJsb2JfaWQifX0=--1e0bdb6a414d3375e2665169294bc7beccd8650d/05%20-%20FIN%20-%20Taux%20d'imposition%202026.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
