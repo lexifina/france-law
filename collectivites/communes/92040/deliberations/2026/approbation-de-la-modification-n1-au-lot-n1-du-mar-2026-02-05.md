@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation de la modification n°1 au lot n°1 du marché n°PA25034 relatif à des travaux de végétalisation des cours de l’école Jules Ferry à Issy-les-Moulineaux.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2026-02-05
+- Matière : ARCHITECTURE ET BATIMENTS
+- Objet : Approbation de la modification n°1 au lot n°1 du marché n°PA25034 relatif à des travaux de végétalisation des cours de l’école Jules Ferry à Issy-les-Moulineaux.
+- Transmis à la préfecture : 2026-02-10
+- Votants : 47
+- Pour : 47
+- Contre : 0
+- Abstentions : 0
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjA2OTUsInB1ciI6ImJsb2JfaWQifX0=--f9eb1c8a6ad8172bbc8ea0c62e4ca6e3fe1c6aa5/17%20-%20ARCH%20BAT%20-%20Modif%20N.1%20march%C3%A9%20v%C3%A9g%C3%A9talisation%20cours%20Jules%20Ferry.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
