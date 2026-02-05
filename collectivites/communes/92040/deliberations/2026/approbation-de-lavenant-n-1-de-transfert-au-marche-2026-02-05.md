@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation de l’avenant n° 1 de transfert au marché n° MA25015 relatif à l’acquisition de documents constituant les collections des médiathèques et des bibliothèques centres documentaires des écoles - Lot n° 5 : Achat sur commande de bandes dessinées et mangas pour adultes et jeunesse.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2026-02-05
+- Matière : CULTURE
+- Objet : Approbation de l’avenant n° 1 de transfert au marché n° MA25015 relatif à l’acquisition de documents constituant les collections des médiathèques et des bibliothèques centres documentaires des écoles - Lot n° 5 : Achat sur commande de bandes dessinées et mangas pour adultes et jeunesse.
+- Transmis à la préfecture : 2026-02-10
+- Votants : 47
+- Pour : 47
+- Contre : 0
+- Abstentions : 0
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjA2OTMsInB1ciI6ImJsb2JfaWQifX0=--9f18990cc6ab83c939e6955585cb8691aff04b3f/15%20-%20CULT%20-%20Modif%20N.1%20MA25015-Lot%205%20-%20transfert.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
