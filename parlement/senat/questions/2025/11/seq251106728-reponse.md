@@ -1,0 +1,9 @@
+# Réponse à la question SEQ251106728
+
+- Question : [SEQ251106728](seq251106728.md) — Part des marges brutes des distributeurs dans le prix du carburant depuis 2023
+
+## Réponse
+
+*PME, commerce, artisanat, tourisme et pouvoir d'achat, JO du 2026-02-05, page 705*
+
+Le Ministre des Petites et moyennes entreprises, du Commerce, de l'Artisanat, du Tourisme et du Pouvoir d'achat suit avec une attention particulière l'évolution des prix à la pompe. Grâce au site internet prix-carburants.gouv.fr, les consommateurs ont la possibilité de comparer les prix à la pompe en temps réel et de faire jouer la concurrence au bénéfice du pouvoir d'achat. S'agissant plus spécifiquement de l'évolution de la marge « brute » des distributeurs, il est important de relever que celle-ci inclut les coûts de transport, de distribution, la masse salariale, les coûts relatifs aux certificats d'économies d'énergie (CEE) et enfin, la rémunération du distributeur. L'augmentation de la marge brute constatée ces dernières années peut s'expliquer notamment par la hausse des charges d'exploitation, liée entre autres : à l'inflation des coûts (masse salariale et coûts de transport, notamment) qui a été en moyenne de +2,6 % entre 2019 et 2024 ; à la hausse des surcoûts liés à l'incorporation des biocarburants (passés pour l'essence de 3,5 ceuros/L en 2019 à 4,2 ceuros/L en 2024, soit +20 %, et pour le diesel de 2 ceuros/L en 2019 à 3,6 ceuros/L en 2024, soit +80 %) ; à l'impact des CEE (+3 ceuros/L entre 2019 et 2024). Le Gouvernement maintient une vigilance constante sur les prix à la pompe et le niveau des marges brutes. Les services de la Direction générale de la Concurrence, de la Consommation et de la Répression des fraudes (DGCCRF) réalisent chaque année plusieurs centaines de contrôles sur les stations-services pour vérifier la loyauté de l'information sur les prix.
