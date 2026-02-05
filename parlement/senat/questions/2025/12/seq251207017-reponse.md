@@ -1,0 +1,9 @@
+# Réponse à la question SEQ251207017
+
+- Question : [SEQ251207017](seq251207017.md) — Adhésion de la France au programme américain Global Entry
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2026-02-05, page 684*
+
+Le programme Global Entry, qui permet un passage accéléré aux frontières américaines pour les voyageurs pré-approuvés, suppose la conclusion d'un accord bilatéral avec les Etats-Unis prévoyant l'accès à des fichiers nationaux sensibles (TAJ, FPR, N-SIS). Or, notre cadre juridique actuel ne permet pas un tel partage de données, qui soulève par ailleurs des enjeux opérationnels et politiques majeurs. Cette question s'inscrit dans un contexte plus large, celui des négociations en cours entre l'Union européenne (UE) et les États-Unis en vue de la conclusion d'un accord-cadre sur l'échange réciproque de données biométriques dans le cadre du filtrage et des vérifications d'identité à la frontière. Sur cette base, les Etats membres pourront conclure des accords bilatéraux avec les Etats-Unis autorisant l'accès réciproque à leurs bases de données nationales, dits « partenariats renforcés pour la sécurité des frontières » (Enhanced Border Security Partnerships), dont la conclusion constitue une condition de maintien dans le programme d'exemption de visa (Visa Waiver Programme) des Etats-Unis. Ces négociations sont suivies de près par le ministère de l'Europe et des affaires étrangères et le Ministère de l'intérieur, qui veilleront en particulier à garantir la réciprocité effective des échanges de données ainsi que le respect des exigences juridiques et opérationnelles françaises À ce stade, il n'est pas envisagé d'engager une démarche spécifique pour rejoindre le programme Global. Toute avancée sur ce sujet dépendra des résultats des négociations en cours entre l'UE et les Etats-Unis, puis celles qui seront menées à titre bilatéral.
