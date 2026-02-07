@@ -692,6 +692,14 @@ SERVICES |
 
 Economie-droit/ Langue vivante B |
 
+ORGANISATION ET REALISATION DU GROS ŒUVRE (première session 2029) |
+
+Arrêté du 23 janvier 26 |
+
+PRODUCTION |
+
+Economie-gestion / Physique-chimie |
+
 OUVRAGES DU BÂTIMENT : métallerie |
 
 Arrêté du 9 mai 2006 modifié |
@@ -844,7 +852,7 @@ PRODUCTION |
 
 Economie-gestion/ Physique-chimie |
 
-TECHNICIEN DU BÂTIMENT : ORGANISATION ET RÉALISATION DU GROS ŒUVRE |
+TECHNICIEN DU BÂTIMENT : ORGANISATION ET RÉALISATION DU GROS ŒUVRE (dernière session 2028) |
 
 Arrêté du 20 mars 2007 modifié |
 
