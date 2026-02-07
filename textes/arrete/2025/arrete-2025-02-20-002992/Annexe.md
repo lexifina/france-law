@@ -6,7 +6,13 @@ LISTE DES GROUPES BIOLOGIQUES SIMILAIRES POUVANT DONNER LIEU À LA DÉLIVRANCE P
 
 Dénomination
 
-commune du groupe biologique similaire |
+commune
+
+du groupe
+
+biologique
+
+similaire |
 
 Médicament
 
@@ -14,11 +20,15 @@ biologique
 
 de référence |
 
-Médicament(s) biologique(s) similaire(s) |
+Médicament(s)
 
-Condition(s) spécifiques de substitution et
+biologique(s)
 
-d'information du prescripteur et du patient |
+similaire(s) |
+
+Condition(s) spécifiques de substitution
+
+et d'information du prescripteur et du patient |
 
 Groupe 1 |
 
@@ -28,9 +38,17 @@ NEUPOGEN® |
 
 ACCOFIL®
 
-GRASTOFIL® NIVESTIM®
+GRASTOFIL®
 
-RATIOGRASTIM® TEVAGRASTIM® ZARZIO® |
+NIVESTIM®
+
+RATIOGRASTIM®
+
+TEVAGRASTIM®
+
+ZARZIO®
+
+ZEFYLTI® |
 
 |
 
@@ -40,11 +58,25 @@ Pegfilgrastim |
 
 NEULASTA® |
 
-CEGFILA® FULPHILA®
+CEGFILA®
 
-GRASUSTEK® NYVEPRIA® PELGRAZ® PELMEG®
+DYRUPEG®
 
-STIMUFEND® ZIEXTENZO® |
+FULPHILA®
+
+GRASUSTEK®
+
+NYVEPRIA®
+
+PELGRAZ®
+
+PELMEG®
+
+STIMUFEND®
+
+VIVLIPEG®
+
+ZIEXTENZO® |
 
 |
 
@@ -213,3 +245,29 @@ RETACRIT® |
 - Le patient peut revenir à la spécialité initialement délivrée si nécessaire, en fonction de ses retours,
 
 - Le pharmacien substitue des spécialités de même dosage en substance active. |
+
+Groupe 10 |
+
+Aflibercept |
+
+EYLEA®* |
+
+AFIVEG®
+
+AFQLIR®
+
+AHZANTIVE®
+
+BAIAMA®
+
+EYDENZELT®
+
+MYNZELPI®
+
+PAVBLU®
+
+YESAFILI® |
+
+|
+
+(*) Les spécialités EYLEA 114,3 MG/ML, solution injectable et solution injectable en seringue préremplie n'ont pas de médicament biosimilaire associé.
