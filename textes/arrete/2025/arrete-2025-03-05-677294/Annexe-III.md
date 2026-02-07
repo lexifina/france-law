@@ -1,8 +1,8 @@
 # Article Annexe III
 
-TABLEAU RÉCAPITULATIF DES DISPENSES DES EXIGENCES PRÉALABLES À L'ENTRÉE EN FORMATION (EPEF), DES EXIGENCES PRÉALABLES À LA MISE EN SITUATION PROFESSIONNELLE (EPMSP) ET/OU DES MODALITÉS D'ÉPREUVE CERTIFICATIVE AINSI QUE DES ALLÈGEMENTS ET/OU ÉQUIVALENCES DE BLOC DE COMPÉTENCES (BC) AVEC LE DIPLÔME D'ÉTAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ " PERFECTIONNEMENT SPORTIF "
+TABLEAU RÉCAPITULATIF DES DISPENSES DES EXIGENCES PRÉALABLES À L'ENTRÉE EN FORMATION (EPEF), DES EXIGENCES PRÉALABLES À LA MISE EN SITUATION PROFESSIONNELLE (EPMSP) ET/OU DES MODALITÉS D'ÉPREUVE CERTIFICATIVE AINSI QUE DES ALLÈGEMENTS ET/OU ÉQUIVALENCES DE BLOC DE COMPÉTENCES (BC) AVEC LE DIPLÔME D'ÉTAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ENTRAINEMENT ET PERFECTIONNEMENT SPORTIF”
 
-La personne titulaire de l'une des certifications mentionnées dans le tableau figurant ci-après est dispensée des EPEF, des EPMSP et/ou des modalités d'épreuves certificatives, et/ou obtient les allègements de formation et/ou les BC correspondants du DEJEPS spécialité " perfectionnement sportif " mention " activités de canoë-kayak et disciplines associées en eau vive ", suivants :
+La personne titulaire de l'une des certifications mentionnées dans le tableau figurant ci-après est dispensée des EPEF, des EPMSP et/ou des modalités d'épreuves certificatives, et/ou obtient les allègements de formation et/ou les BC correspondants du DEJEPS spécialité “entraînement et perfectionnement sportif” mention “canoë-kayak et disciplines associées en eau vive”, suivants :
 
 Dispense/Allègement
 
@@ -149,3 +149,7 @@ BP JEPS : brevet professionnel de la jeunesse, de l'éducation populaire et du s
 (**) Les allègements de formation précisés dans le tableau sont obligatoires. Ils sont établis lors du positionnement du candidat et ne présagent pas des allégements supplémentaires qui pourraient être obtenus au titre de son parcours personnel.
 
 Nota. - Les dispenses et modalités d'épreuves certificatives ainsi que les allégements et/ou correspondances avec les blocs de compétences 1 et 2 communs à l'ensemble des mentions du DEJEPS spécialité " perfectionnement sportif " sont précisés dans un arrêté spécifique.
+
+NOTA :
+
+Conformément à l'article 11 de l'arrêté du 23 décembre 2025 (NOR : SPOV2535929A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, s'appliquent aux sessions de formation ouvertes initialement sous l'intitulé DEJEPS spécialité " perfectionnement sportif " mention " activités de canoë-kayak et disciplines associées en eau vive " à compter de la publication dudit arrêté.

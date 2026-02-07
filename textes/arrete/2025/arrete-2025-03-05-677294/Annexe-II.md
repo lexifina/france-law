@@ -1,6 +1,6 @@
 # Article Annexe II
 
-SITUATION D'ÉVALUATION CERTIFICATIVE DES BLOCS DE COMPEÉTENCES DU DIPLÔME D'ÉTAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ " PERFECTIONNEMENT SPORTIF " MENTION " ACTIVITÉS DE CANOË-KAYAK ET DISCIPLINES ASSOCIÉES EN EAU VIVE "
+SITUATION D'ÉVALUATION CERTIFICATIVE DES BLOCS DE COMPÉTENCES DU DIPLÔME D'ÉTAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ENTRAINEMENT ET PERFECTIONNEMENT SPORTIF” MENTION “CANOË-KAYAK ET DISCIPLINES ASSOCIÉES EN EAU VIVE”
 
 Une vigilance particulière est demandée aux évaluateurs en ce qui concerne les actions de prévention et de lutte contre la maltraitance, notamment sur les publics mineurs et/ou en situation de handicap. Ce point sera abordé par les évaluateurs dans le cadre des questions posées pour chaque bloc de compétences.
 
@@ -146,7 +146,7 @@ La situation d'évaluation certificative du bloc de compétences 3 (BC 3) est r�
 
 - Epreuve certificative 1 relative aux compétences C.3.1.1, C.3.1.2, C.3.2.2, C.3.4.1 et C.3.4.2
 
-Au plus tard quinze jours ouvrés avant la date de l'épreuve, le candidat transmet un document écrit personnel de trente pages maximum portant sur la démarche mise en œuvre pour concevoir et évaluer un programme d'entrainement sportif d'une saison sportive permettant d'observer l'évolution d'au moins deux facteurs de la performance en activités de canoë-kayak et disciplines associées en eau vive pour un collectif de sportifs de niveau national et pour les accompagner tout au long du programme. La moitié du programme d'entraînement doit avoir été réalisé au moment de l'évaluation.
+Au plus tard quinze jours ouvrés avant la date de l'épreuve, le candidat transmet un document écrit personnel de trente pages maximum portant sur la démarche mise en œuvre pour concevoir et évaluer un programme d'entrainement sportif d'une saison sportive permettant d'observer l'évolution d'au moins deux facteurs de la performance en canoë-kayak et disciplines associées en eau vive pour un collectif de sportifs de niveau national et pour les accompagner tout au long du programme. La moitié du programme d'entraînement doit avoir été réalisé au moment de l'évaluation.
 
 L'épreuve consiste en un entretien portant sur le document susmentionné. Il est composé d'une soutenance orale du candidat de vingt minutes maximum suivie d'un échange avec les évaluateurs de quarante minutes maximum. Le candidat peut, lors de la soutenance, utiliser un support vidéo ou tout autre support de son choix.
 
@@ -154,9 +154,9 @@ L'épreuve consiste en un entretien portant sur le document susmentionné. Il es
 
 L'épreuve consiste en :
 
-a) Une mise en situation professionnelle au sein de la structure d'alternance pédagogique de conduite d'une séance d'entrainement sportif en activités de canoë-kayak et disciplines associées en eau vive sur un site de classe III au minimum, pour un public de quatre à huit compétiteurs de niveau national et d'une durée d'une heure au maximum. La séance est issue du programme d'entrainement sportif mentionné à l'épreuve certificative 1.
+a) Une mise en situation professionnelle au sein de la structure d'alternance pédagogique de conduite d'une séance d'entrainement sportif en canoë-kayak et disciplines associées en eau vive sur un site de classe III au minimum, pour un public de quatre à huit compétiteurs de niveau national et d'une durée d'une heure au maximum. La séance est issue du programme d'entrainement sportif mentionné à l'épreuve certificative 1.
 
-Le public de pratiquants ne peut pas être constitué de stagiaires en formation conduisant à une certification professionnelle relevant du champ des activités du canoë-kayak et disciplines associées. L'évaluation de la conduite de la séance est réalisée par deux évaluateurs présents, in situ, avec le candidat sur le même lieu et au même moment. Elle ne peut pas être réalisée à distance par des moyens de communication audiovisuels.
+Le public de pratiquants ne peut pas être constitué de stagiaires en formation conduisant à une certification professionnelle relevant du champ canoë-kayak et disciplines associées. L'évaluation de la conduite de la séance est réalisée par deux évaluateurs présents, in situ, avec le candidat sur le même lieu et au même moment. Elle ne peut pas être réalisée à distance par des moyens de communication audiovisuels.
 
 b) Un entretien avec les évaluateurs portant sur l'analyse de la séance d'entrainement susmentionnée, notamment en tenant compte des besoins spécifiques des compétiteurs, d'une heure et dix minutes maximum, dont vingt minutes maximum sur la sécurité en environnement spécifique permettant d'apprécier les capacités du candidat :
 
@@ -164,8 +164,12 @@ b) Un entretien avec les évaluateurs portant sur l'analyse de la séance d'entr
 
 - à réagir face à une situation d'incident en en rivière de classe supérieure à III ;
 
-- à assurer en toutes circonstances le respect de la réglementation en vigueur dans les activités de canoë kayak et disciplines associées en eau vive dont l'obligation de moyens en vue d'assurer la sécurité des pratiquants ;
+- à assurer en toutes circonstances le respect de la réglementation en vigueur dans le canoë kayak et disciplines associées en eau vive dont l'obligation de moyens en vue d'assurer la sécurité des pratiquants ;
 
 - à mesurer les risques et les enjeux associés à la sécurité pour son activité professionnelle.
 
 Le questionnement sur les situations d'incident en rivière de classe supérieure à III est réalisé à partir d'un support vidéo d'une durée de cinq minutes maximum. La durée de la vidéo est comprise dans la durée de l'entretien.
+
+NOTA :
+
+Conformément à l'article 11 de l'arrêté du 23 décembre 2025 (NOR : SPOV2535929A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, s'appliquent aux sessions de formation ouvertes initialement sous l'intitulé DEJEPS spécialité " perfectionnement sportif " mention " activités de canoë-kayak et disciplines associées en eau vive " à compter de la publication dudit arrêté.
