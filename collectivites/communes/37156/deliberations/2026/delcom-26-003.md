@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_26_003 — DELIBERATION 2026-03 ADOPTION AVENANT CONVENTION SUBVENTION FOOTBALL CLUB MONTLOUIS
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2026-02-09
+- Matière : 1.3 Commande Publique/Conventions de Mandat
+- Objet : DELIBERATION 2026-03 ADOPTION AVENANT CONVENTION SUBVENTION FOOTBALL CLUB MONTLOUIS
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2026/71301/76919bcb6704748a812dcff2e407deabf801dc060e4dcad3e7f9f6bf381b7dd4.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
