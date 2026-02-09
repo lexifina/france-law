@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_26_008 — DELIBERATION 2026-08 DENOMINATION COMPLEXE SPORTIF RAYMOND POULIDOR ET SES SALLES INTERIEURES
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2026-02-09
+- Matière : 3.5 Domaine et patrimoine/Autres actes de gestion du domaine public
+- Objet : DELIBERATION 2026-08 DENOMINATION COMPLEXE SPORTIF RAYMOND POULIDOR ET SES SALLES INTERIEURES
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2026/71307/0836817adbfa39e60b739f85ddccc9672c51a831253c78d81edd126054502caa.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
