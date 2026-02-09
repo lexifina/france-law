@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_26_002 — DELIBERATION 2026-02 SUBVENTION ASSOCIATION - ECOLE EMILE GERBAULT
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2026-02-09
+- Matière : 7.5 Finances locales/Subventions
+- Objet : DELIBERATION 2026-02 SUBVENTION ASSOCIATION - ECOLE EMILE GERBAULT
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2026/71300/876f5f0433c7292e5fa4cb5cbf525d398969860abc23287b1f3a258700c32eb5.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
