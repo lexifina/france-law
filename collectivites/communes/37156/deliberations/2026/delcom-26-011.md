@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_26_011 — DELIBERATION 2026-11 DROIT DE PREEMPTION URBAIN DELEGATION AUX COMMUNES
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2026-02-09
+- Matière : 2.3 Urbanisme/Droit de preemption urbain
+- Objet : DELIBERATION 2026-11 DROIT DE PREEMPTION URBAIN DELEGATION AUX COMMUNES
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2026/71315/e2d1d83030be9e0d98f2139d6791fa35544b8bacf3350bcb3b6b894277d67106.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
