@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_26_012 — DELIBERATION 2026-12 REMBOURSEMENT FRAIS D'HUISSIER ADOLPHE BOSSARD
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2026-02-09
+- Matière : 7.10 Finances locales/Divers
+- Objet : DELIBERATION 2026-12 REMBOURSEMENT FRAIS D'HUISSIER ADOLPHE BOSSARD
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2026/71313/9a72229daa36ec6f53f474d5fc725895370c7e15bc7caeb9a3eaa4798e480997.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
