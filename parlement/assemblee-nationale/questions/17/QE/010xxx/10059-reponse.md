@@ -1,0 +1,9 @@
+# Réponse à la question n° 10059
+
+- Question : [10059](10059.md) — Question n° 10059 — Drogue chez les jeunes Drômois
+
+## Réponse
+
+*JO du 2026-02-10, page 1254*
+
+La prévention des conduites addictives est un enjeu de santé publique. L'action du ministère de l'éducation nationale s'inscrit dans la stratégie interministérielle de mobilisation contre les conduites addictives 2023-2027, qui prévoit la mise en place d'actions d'éducation et de prévention dans les établissements scolaires. Il s'agit plus particulièrement de prendre appui sur le levier des compétences psychosociales pour renforcer le pouvoir d'agir des élèves et leur permettre d'adopter durablement des comportements favorables à leur santé. Conformément à l'article L. 312-18 du code de l'éducation, les actions d'information et de sensibilisation mises en place dans les établissements peuvent être proposées par les personnels de santé et sociaux de l'éducation nationale (infirmiers en particulier), mais aussi en lien avec des associations partenaires (c'est le cas par exemple des programmes dits probants soutenus par les agences régionales de santé ou encore des consultations jeunes consommateurs, qui sont des lieux d'écoute ouverts, gratuits et confidentiels, présents dans la quasi-totalité des départements français). Concernant la consommation des nouveaux produits dits Buddha blue ou Pète ton crâne, le ministère a été associé aux travaux engagés en 2025 par le ministère de la santé, des familles, de l'autonomie et des personnes handicapées afin de renforcer la vigilance des adultes (repérage, connaissance des signes d'alerte en vue de mieux protéger les jeunes). La sensibilisation sur les risques liés au vapotage (et notamment de substances illicites) est en cours de renforcement auprès des personnels de l'éducation nationale et en particulier des infirmiers.
