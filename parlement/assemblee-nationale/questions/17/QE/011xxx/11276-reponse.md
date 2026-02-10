@@ -1,0 +1,9 @@
+# Réponse à la question n° 11276
+
+- Question : [11276](11276.md) — Question n° 11276 — Avancement des procédures « CumCum » à l'encontre d'établissements financiers
+
+## Réponse
+
+*JO du 2026-02-10, page 1219*
+
+Des procédures de redressement fiscal ont été notifiées à plusieurs établissements bancaires ayant recouru à des montages frauduleux d'arbitrage de dividendes. Compte tenu de la jurisprudence du Conseil d'Etat (arrêt du 8 décembre 2023, n° 472587, Fédération Bancaire Française), la procédure de l'abus de droit prévue à l'article L. 64 du livre des procédures fiscales (LPF) a été mise en œuvre, assortie de la majoration de 80 % prévue dans ce cadre. Les établissements bancaires ont formulé leurs observations et les procédures suivent actuellement leur cours. Certaines sociétés destinataires des propositions de rectification ont, après mise en recouvrement des impositions supplémentaires, porté le litige devant les juridictions administratives. Aucune précision supplémentaire ne peut être apportée sur ces procédures compte tenu du secret fiscal régi par l'article L. 103 du LPF. En revanche, au regard de son caractère public, il peut être indiqué qu'une nouvelle convention judiciaire d'intérêt public (CJIP) a été conclue, le 6 janvier 2026, entre le Parquet national financier (PNF) et la société HSBC BANK PLC, qui prévoit le versement au Trésor public d'une amende d'intérêt public d'un montant de 267 531 000 euros. Cette convention rappelle que l'administration fiscale avait mis en évidence un montage destiné à éluder la retenue à la source par l'interposition de la succursale française de la société HSBC BANK PLC concernée. La détermination des services de l'État à lutter contre les schémas de fraude à l'arbitrage de dividendes est donc totale, et elle porte ses fruits.
