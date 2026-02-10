@@ -1,0 +1,9 @@
+# Réponse à la question n° 9520
+
+- Question : [9520](9520.md) — Question n° 9520 — Stagnation du budget alloué par l'Éducation nationale au FIPHFP
+
+## Réponse
+
+*JO du 2026-02-10, page 1250*
+
+Le ministère de l'éducation nationale poursuit une politique volontariste en matière de handicap et d'inclusion professionnelle. Le taux d'emploi des personnels en situation de handicap augmente de manière continue depuis trois ans (de 3,3 % en 2022 à 4,69 % en 2025, représentant plus de 9 000 bénéficiaires de l'obligation d'emploi (BOE) supplémentaires présents dans les effectifs). Ces résultats ont été obtenus notamment grâce à un meilleur recensement des agents, à l'augmentation des recrutements de BOE et à la professionnalisation des correspondants handicap. Cette montée du taux d'emploi doit être soutenue avec l'objectif de couvrir les besoins d'aménagements de poste en constante augmentation, notamment en raison de la réforme de la déclaration obligatoire d'emploi des travailleurs handicapés et de l'intégration des agents devenus inaptes dans le périmètre des BOE à déclarer et à accompagner par l'employeur. Un plan pluriannuel Handicap et inclusion professionnelle est en cours de concertation avec les organisations syndicales représentatives. Il vise notamment à augmenter les recrutements d'agents en situation de handicap, favoriser leur maintien dans l'emploi, accompagner l'évolution des parcours professionnels des personnes en situation de handicap et/ou en voie d'inaptitude et à développer une culture partagée de l'inclusion. En outre, ce plan permettra de renforcer les moyens consacrés à cette politique du handicap et d'améliorer le suivi de proximité des agents. Une gouvernance stratégique permettra d'inscrire la politique de handicap et d'inclusion professionnelle au cœur des politiques de ressources humaines.
