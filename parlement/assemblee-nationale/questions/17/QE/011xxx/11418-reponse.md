@@ -1,0 +1,9 @@
+# Réponse à la question n° 11418
+
+- Question : [11418](11418.md) — Question n° 11418 — Application de la convention générale de sécurité sociale franco-algérienne
+
+## Réponse
+
+*JO du 2026-02-10, page 1301*
+
+La France et l'Algérie retiennent une interprétation divergente du champ d'application personnel de la convention générale de sécurité sociale du 1er octobre 1980. L'Algérie considère que ce dernier ne couvre que les travailleurs migrants retournant dans leur Etat d'origine et ce faisant, qu'il ne fait pas obstacle à l'application du principe de territorialité aux prestations sociales prévues par sa législation. Dans le cadre des réunions de la commission mixte instituée par la convention, la France a relayé, à plusieurs reprises, les contestations des ressortissants algériens et binationaux liées à cette difficulté et demandé à l'Algérie de respecter ses engagements conventionnels. En 2019, la France a sollicité la mise en œuvre du mécanisme de règlement des différends figurant à l'article 69 de la convention et l'Algérie avait alors consenti à la tenue d'une discussion intergouvernementale afin de régler ce différend. Du fait de la crise du Covid-19, puis des difficultés qu'a connu la relation bilatérale, ce dialogue de haut niveau n'est pas encore intervenu. Aucune commission mixte ne s'est non plus tenue entre la France et l'Algérie depuis 2018. Concernant le montant que représente l'allocation de solidarité aux personnes âgées (ASPA) versée aux ressortissants algériens sur les dix dernières années, le Gouvernement ne dispose pas de ces données. En effet, conformément au principe de minimisation (article 5.1 c du RGPD), les organismes de sécurité sociale n'ont le droit de collecter et de traiter que les données strictement nécessaires à l'accomplissement des finalités du traitement. Or, la nationalité n'est pas une donnée discriminante pour identifier les bénéficiaires du versement de prestations sociales.
