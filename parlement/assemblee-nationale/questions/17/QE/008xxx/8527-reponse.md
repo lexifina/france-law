@@ -1,0 +1,9 @@
+# Réponse à la question n° 8527
+
+- Question : [8527](8527.md) — Question n° 8527 — Refus systématiques d'instruction en famille
+
+## Réponse
+
+*JO du 2026-02-10, page 1246*
+
+Le Conseil d'État a apporté des précisions concernant le traitement des demandes d'autorisation d'instruction dans la famille, effectuées au titre du motif fondé sur la situation propre à l'enfant motivant le projet éducatif. Le ministère de l'éducation nationale ne prévoit pas d'apporter de précisions supplémentaires par voie réglementaire. L'autorité administrative doit ainsi contrôler que « cette demande expose de manière étayée la situation propre à cet enfant motivant, dans son intérêt, le projet d'instruction dans la famille et qu'il est justifié, d'une part, que le projet éducatif comporte les éléments essentiels de l'enseignement et de la pédagogie adaptés aux capacités et au rythme d'apprentissage de cet enfant, d'autre part, de la capacité des personnes chargées de l'instruction de l'enfant à lui permettre d'acquérir le socle commun de connaissances, de compétences et de culture défini à l'article L. 122-1-1 du code de l'éducation au regard des objectifs de connaissances et de compétences attendues à la fin de chaque cycle d'enseignement de la scolarité obligatoire » (décision CE n° 467550 du 13 décembre 2022). Le ministère accompagne les services académiques afin d'harmoniser le traitement des demandes d'autorisation d'instruction dans la famille, dans l'intérêt supérieur de l'enfant et de ses droits, notamment son droit à l'instruction. Par ailleurs, les éventuelles différences de traitement des demandes d'autorisation d'instruction dans la famille en fonction des départements ont fait l'objet de consignes auprès des recteurs, dont les services exercent leur capacité de traiter chaque situation avec discernement.
