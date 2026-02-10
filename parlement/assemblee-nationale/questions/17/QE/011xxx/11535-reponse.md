@@ -1,0 +1,9 @@
+# Réponse à la question n° 11535
+
+- Question : [11535](11535.md) — Question n° 11535 — French Response
+
+## Réponse
+
+*JO du 2026-02-10, page 1302*
+
+Depuis février 2022, la France est le pays le plus ciblé par les attaques informationnelles russes juste derrière l'Ukraine. Le ministère de l'Europe et des affaires étrangères (MEAE) aux côtés du ministère des Armées et de Viginum sont en première ligne pour y répondre. La France est aujourd'hui dotée d'une stratégie de réponse solide qui s'appuie sur plusieurs volets : l'analyse du champ informationnel, la bataille diplomatique et politique pour une meilleure régulation des plateformes et la riposte. La riposte est avant tout portée par l'ensemble du réseau des ambassades qui sont, dans certaines régions du monde, durement frappées. La France a décidé de répondre, de rétablir les faits, de défendre sa souveraineté en protégeant un espace de dialogue et de débat non faussé. C'est dans ce contexte que s'inscrit la création du compte @FrenchResponse. Après avoir obtenu l'agrément du Service d'Information du Gouvernement (SIG), le compte @FrenchResponse a été lancé le 1er septembre 2025. Le premier post a été publié le 5 septembre 2025. L'alimentation de ce compte est assurée de manière collégiale au sein de la sous-direction de la veille et de la stratégie de la direction de la communication et de la presse du ministère, mais aussi en collaboration avec les autres directions concernées du MEAE. Aucune création en net de poste n'a été nécessaire ; mais des ETP ont été réalloués en interne pour animer ce compte. Aucune enveloppe n'a été consacrée à la visibilité ou à l'alimentation en contenus de ce compte. La création de la réserve diplomatique et de son contingent numérique a également permis de s'adjoindre de nouveaux talents désireux de contribuer au rayonnement de ce compte.
