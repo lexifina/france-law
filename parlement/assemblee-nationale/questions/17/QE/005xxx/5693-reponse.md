@@ -1,0 +1,9 @@
+# Réponse à la question n° 5693
+
+- Question : [5693](5693.md) — Question n° 5693 — Assurance - scieries
+
+## Réponse
+
+*JO du 2026-02-10, page 1241*
+
+L'alerte que vous nous transmettez concernant les difficultés que connaissent en matière d'assurance les entreprises de transformation du bois corrobore d'autres témoignages reçus par les services de l'État. Alors que le développement de la filière bois est indispensable à l'atteinte de nos objectifs environnementaux, le Gouvernement mettra tout en œuvre pour que les problématiques assurantielles n'entravent pas cette dynamique. Le troisième plan national d'adaptation au changement climatique, publié au début de l'année, prévoit notamment d'assurer la résilience de la filière bois, de l'amont à l'aval (mesure 38). Le durcissement des conditions d'assurance s'explique dans la plupart des cas par une hausse de la sinistralité constatée à l'échelle d'une filière ou d'un type d'entreprise. Celle-ci s'explique par une augmentation de la fréquence des sinistres, par une augmentation de la valeur des capitaux assurés, ou par la conjonction de ces deux facteurs. Les services du ministère de l'économie travaillent en concertation avec les organisations professionnelles du bois et les assureurs pour objectiver la hausse présumée de la sinistralité et identifier les moyens qui permettront d'évaluer et de contenir au mieux les risques pour les rendre assurables. La première étape est d'identifier, parmi les nombreuses activités que recouvre la transformation du bois, celles qui connaissent le plus de difficultés à s'assurer. Il conviendra ensuite d'aboutir à un consensus partagé avec les assureurs et les experts sur les mesures de prévention à mettre en place pour limiter les risques, puis de trouver un cadre qui garantisse aux entreprises une visibilité et une assise suffisante pour engager les investissements nécessaires.
