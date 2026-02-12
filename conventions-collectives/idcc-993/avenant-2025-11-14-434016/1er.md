@@ -1,0 +1,5 @@
+# Article 1er
+
+« Quelle que soit la forme juridique de l'entreprise, la présente convention règle les rapports entre employeurs et salariés sur le territoire national et départements d'outre-mer dans les entreprises dont l'activité est notamment identifiée par le numéro NAFA : 3250Y-Q : fabrication de prothèses dentaires.
+
+Cette activité consiste dans le fait d'analyser les cas prothétiques, de concevoir, élaborer, réparer, réaliser la fabrication et mettre sur le marché des dispositifs médicaux sur mesure, prothèses et orthèses dentaires. »
