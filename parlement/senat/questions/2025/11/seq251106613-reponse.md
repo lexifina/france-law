@@ -1,0 +1,9 @@
+# Réponse à la question SEQ251106613
+
+- Question : [SEQ251106613](seq251106613.md) — Obligation d'équipements hivernaux dans certaines zones de montagne et clarification du régime de sanctions pour la période hivernale 2025-2026
+
+## Réponse
+
+*Intérieur , JO du 2026-02-12, page 816*
+
+Depuis la publication du décret n° 2020-1264, certains usagers de la route (automobilistes, conducteurs de véhicules utilitaires, camping-cars, poids-lourds ou autocars) sont tenus d'équiper leur véhicule de pneus hiver, ou de détenir des chaînes ou des chaussettes à neige, dès lors qu'ils circulent sur certaines voiries en zone montagneuses, entre le 1er novembre et le 31 mars. L'objectif de cette réglementation est de réduire les risques spécifiques liés à la conduite en zone potentiellement enneigée ou verglacée, et d'éviter que des véhicules ne se retrouvent bloqués sur les routes. Depuis l'origine, la mesure a été appliquée de manière pédagogique, sans sanction. La mise en place d'une sanction nécessite le recours à un décret. Le Gouvernement a jugé préférable de laisser un délai d'adaptation entre l'entrée en vigueur de l'obligation et celle de la sanction. Ce délai a permis de résoudre des difficultés techniques vis-à-vis de certains pneumatiques spécifiques. Concernant ce dernier point, des discussions entre l'État et les acteurs de la filière ont permis de traiter le sujet des pneus « Professional Off Road », utilisés par de nombreux professionnels tels que les gestionnaires d'infrastructures électriques, ou encore les forces de sécurité intérieure, mais ne correspondant pas à la catégorie des « pneus hiver ». Ce travail a abouti à la publication de l'arrêté du 30 octobre 2025 modifiant l'arrêté du 18 juillet 1985 relatif aux dispositifs antidérapants équipant les pneumatiques. Compte tenu de la publication tardive de l'arrêté susmentionné, le décret appliquant les sanctions liées au non-respect de ce règlement n'a pas pu être publié en 2025.
