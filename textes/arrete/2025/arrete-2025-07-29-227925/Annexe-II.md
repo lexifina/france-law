@@ -14,7 +14,9 @@ Si le candidat est un homme, le test navette " Luc Léger " est validé lorsque 
 
 Règlement du test
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible au lien suivant :
+
+https://www.legifrance.gouv.fr/download/pdf?id=Y9Pd-IqjtVWPkvfP2PAdlwcKpXhaF3HFjDOTHUVVXj4=
 
 Le candidat se place derrière une ligne " A " matérialisée au sol et délimitée par des plots. Au signal de la bande sonore, le candidat se dirige vers la ligne " B " également matérialisée au sol et délimitée par des plots. Une ligne de tolérance, deux mètres avant l'extrémité de la ligne A et de la ligne B, est matérialisée au sol de chaque côté des vingt mètres. Deux évaluateurs se positionnent de part et d'autre des lignes A et B. Le nombre de candidats est limité à dix par binôme d'évaluateurs.
 
@@ -90,9 +92,11 @@ DEVELOPPE COUCHE |
 
 90 % poids du corps |
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible au lien suivant :
 
-- Epreuve 3 : démonstration technique " cours collectif en musique "
+https://www.legifrance.gouv.fr/download/pdf?id=Y9Pd-IqjtVWPkvfP2PAdlwcKpXhaF3HFjDOTHUVVXj4=
+
+- Epreuve 3 : démonstration technique “cours collectif en musique” :
 
 Le candidat réalise une épreuve de démonstration technique d'un cours collectif en musique de quarante minutes comprenant :
 
@@ -100,16 +104,12 @@ Le candidat réalise une épreuve de démonstration technique d'un cours collect
 
 - quinze minutes de renforcement musculaire en musique portant sur les capacités d'endurance musculaire et de placement corporel, à partir des exercices suivants : squat, pompe, fente droite et gauche ;
 
-- quinze minutes de circuit training portant sur les capacités d'endurance cardio-respiratoires et techniques, à partir des exercices suivants : jumping jacks, burpees, run/montées de genoux, planche dynamique, jump ;
+- quinze minutes de circuit training portant sur les capacités d'endurance cardio-respiratoires et techniques, à partir des exercices suivants : jumping jack, burpees, run/montées de genoux, planche dynamique, jump ;
 
 - cinq minutes de retour au calme.
 
 Le cours peut être délivré à partir d'une vidéo pré-enregistrée.
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible au lien suivant :
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
-
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
-
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
+https://www.legifrance.gouv.fr/download/pdf?id=n5SLrBjIMj3967HQK52oKvGZcN9oZszuSVmgK41lk6c=
