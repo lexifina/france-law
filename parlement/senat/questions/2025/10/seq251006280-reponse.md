@@ -1,0 +1,9 @@
+# Réponse à la question SEQ251006280
+
+- Question : [SEQ251006280](seq251006280.md) — Débit de boissons et salles de sport avec accès privé
+
+## Réponse
+
+*Intérieur , JO du 2026-02-12, page 814*
+
+Les articles L. 3335-1 et L. 3335-4 du code de la santé publique fixent le régime dit des « zones protégées » au sein desquelles la vente de boissons alcooliques est strictement encadrée voire interdite. L'article L. 3335-1 prohibe ainsi l'installation de débits de boissons à consommer sur place - c'est-à-dire les établissements dotés d'une licence de 3e ou 4e catégorie - ainsi que les débits temporaires autour de certains établissements ou équipements tels que les hôpitaux, les écoles et universités, les terrains de sport publics ou privés ainsi que les établissements de loisirs de la jeunesse. Cette interdiction porte sur un périmètre fixé par arrêté préfectoral ainsi qu'à l'intérieur de tels équipements. Une salle de sport avec accès privatif contenant un terrain de padel, une salle d'escalade ou un « trampoline park » est susceptible de constituer un terrain de sport au sens des dispositions de l'article L. 3335-1 précité. Il s'agit toutefois d'une appréciation au cas par cas, s'agissant de chaque établissement, de sa configuration et de la nature de l'activité pratiquée (CAA de Lyon, 4e chambre, 21 novembre 2024, 22LY02765). De même, l'article L. 3335-4 du code de la santé publique prohibe la vente de boissons des groupes 3 à 5 définis à l'article L. 3321-1 du même code, c'est-à-dire des boissons alcooliques, dans les salles d'éducation physique, les gymnases et d'une manière générale, dans tous les établissements d'activités physiques et sportives. Les salles de sport que vous citez constituent a priori des salles d'éducation physique et sont donc concernées par cette interdiction.
