@@ -1,0 +1,9 @@
+# Réponse à la question SEQ251006281
+
+- Question : [SEQ251006281](seq251006281.md) — Ouverture d'un chapiteau et attestation de bon montage
+
+## Réponse
+
+*Intérieur , JO du 2026-02-12, page 814*
+
+Comme vous le précisez, l'arrêté du 18 février 2010 portant approbation de diverses dispositions complétant et modifiant le règlement de sécurité contre les risques d'incendie et de panique dans les établissements recevant du public de type Chapiteau, Tentes et Structures (CTS) a été annulé par la décision du Conseil d'État du 22 juin 2011. Aussi, l'arrêté du 23 janvier 1985 s'applique et stipule que l'ouverture au public d'un CTS itinérant n'est pas explicitement subordonnée à l'attestation de bon montage et de liaisonnement, hormis dans les cas où le CTS s'implante pour une durée de plus de six mois (Art. CTS 38) ou pour les CTS itinérants avec une structure en étage (Art. CTS 79). Cependant, au titre de ses pouvoirs de police, le maire peut faire visiter l'établissement par la commission de sécurité (CTS 31 §2) et également demander toute pièce nécessaire permettant de statuer sur l'ouverture au public, notamment concernant la solidité où la commission de sécurité n'a pas de compétence. Cette disposition est d'ailleurs rappelée au point 1.1.1.c de la circulaire du 22 juin 1995 relative aux commissions consultatives départementales de sécurité et d'accessibilité (CCDSA) : « L'exploitant fournit à la commission de sécurité, lorsque l'avis de celle-ci est sollicité par le maire, conformément à l'article C.T.S. 31, une attestation précisant que le montage et le liaisonnement au sol de l'établissement ont été réalisés de manière à assurer la sécurité du public. Par ailleurs, l'autorité de police est la seule à pouvoir prescrire les contrôles préalables qu'elle juge nécessaires et proportionnés au risque ».
