@@ -1,7 +1,5 @@
 # Article Mesures de sûreté
 
-ANNEXE
-
 MESURES DE SÛRETÉ DE L'AVIATION CIVILE
 
 1. Le titre 1er contient les dispositions générales relatives à la sûreté, ne se raccrochant à aucun chapitre particulier de l'annexe du règlement (CE) n° 300/2008 susvisé et du règlement (UE) n° 2015/1998.
@@ -1868,17 +1866,13 @@ La formation initiale avant l'obtention de certification s'achève dans les quat
 
 Si un agent souhaite obtenir une certification pour une nouvelle typologie d'agent de sûreté de l'aviation civile définie à l'article 11-3-1, la formation initiale requise doit couvrir l'ensemble des objectifs pédagogiques non couvert par la ou les typologies d'agent de sûreté de l'aviation civile pour lesquelles il est certifié.
 
-IV. - L'examen de certification pour une typologie d'agent de sûreté de l'aviation civile définie à l'article 11-3-1 est organisé sur ordinateur. Il comporte :
+IV. - L'examen de certification pour une typologie d'agent de sûreté de l'aviation civile définie à l'article 11-3-1 de la présente annexe est organisé sur ordinateur. Il comporte :
 
-- des questions à choix multiples (QCM) portant sur :
+1° Une ou plusieurs épreuves portant sur les connaissances théoriques et les compétences associées aux objectifs pédagogiques de la typologie considérée ; et
 
-- les connaissances règlementaires théoriques et pratiques associées aux objectifs pédagogiques de la typologie d'agent de sûreté de l'aviation civile définie à l'article 11-3-1 (épreuve connaissance réglementaire) ; et
+2° Si le candidat a choisi une typologie avec analyse d'images, une ou plusieurs épreuves d'analyse d'images dans les domaines de l'inspection-filtrage des bagages cabine, des bagages de soute, du fret et du courrier, des approvisionnements de bord et des fournitures d'aéroport.
 
-- les connaissances théoriques relatives aux équipements de sûreté (épreuve connaissance équipements) ; et
-
-- une ou plusieurs épreuves d'analyse d'images (épreuve IFPBC, épreuve IFBS, épreuve fret et courrier, épreuve approvisionnements de bord et fournitures d'aéroport), si le candidat a choisi une typologie avec analyse d'images.
-
-Un candidat obtient sa certification pour une typologie d'agent de sûreté de l'aviation civile définie à l'article 11-3-1 s'il obtient les notes minimales précisées à l'appendice 11E.
+Un candidat obtient sa certification pour une typologie d'agent de sûreté de l'aviation civile définie à l'article 11-3-1 de la présente annexe s'il obtient les notes minimales mentionnées à l'appendice 11E.
 
 V. - Le nombre de présentation à un examen pour l'obtention d'une certification pour une typologie d'agent de sûreté de l'aviation civile définie à l'article 11-3-1 est limité à quatre, quelle que soit la typologie présentée par l'agent.
 
@@ -2612,111 +2606,25 @@ Pour l'employeur de l'agent formé (nom, signature et cachet) |
 
 Appendice 11E
 
-Notes minimales pour l'obtention et le renouvellement de la certification pour une typologie d'agent de sûreté de l'aviation civile définie à l'article 11-3-1
+I. - Un candidat obtient sa certification après une formation initiale ou le renouvellement de sa certification pour une typologie d'agent de sûreté de l'aviation civile définie à l'article 11-3-1 de la présente annexe s'il obtient les notes minimales suivantes :
 
-I - Un candidat obtient sa certification après une formation initiale pour une typologie d'agent de sûreté de l'aviation civile définie à l'article 11-3-1 s'il obtient les notes minimales suivantes :
+Note minimale pour l'évaluation
 
-Date de l'examen de certification |
+des connaissances théoriques |
 
-Note minimale au QCM |
+Note minimale pour l'évaluation des compétences |
 
-Note minimale à chaque épreuve d'analyse d'images
+Note minimale à chaque épreuve
 
-(le cas échéant)
-
-|
+d'analyse d'images (le cas échéant) |
 
 Note minimale moyenne
 
-à l'examen de certification
-
-|
-
-Antérieure au 1er juillet 2022 |
-
-10/20 |
+à l'examen de certification |
 
 10/20 |
 
 12/20 |
-
-Comprise entre le 1er juillet 2022
-
-et le 31 décembre 2022
-
-|
-
-10/20 |
-
-12/20 |
-
-12/20 |
-
-Comprise entre le 1er janvier 2023 et le 30 juin 2023 |
-
-10/20 |
-
-12/20 |
-
-13/20 |
-
-Postérieure au 30 juin 2023 |
-
-10/20 |
-
-12/20 |
-
-14/20 |
-
-II - Un candidat obtient le renouvellement de sa certification pour une typologie d'agent de sûreté de l'aviation civile définie à l'article 11-3-1 s'il obtient les notes minimales suivantes :
-
-Date de l'examen de certification |
-
-Note minimale au QCM |
-
-Note minimale à chaque épreuve d'analyse d'images
-
-(le cas échéant)
-
-|
-
-Note minimale moyenne
-
-à l'examen de certification
-
-|
-
-Antérieure au 1er janvier 2023 |
-
-10/20 |
-
-10/20 |
-
-12/20 |
-
-Comprise entre le 1er janvier 2023 et le 30 juin 2023 |
-
-10/20 |
-
-12/20 |
-
-12/20 |
-
-Comprise entre le 1er juillet 2023
-
-et le 31 décembre 2023
-
-|
-
-10/20 |
-
-12/20 |
-
-13/20 |
-
-Postérieure au 31 décembre 2023 |
-
-10/20 |
 
 12/20 |
 
