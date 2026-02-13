@@ -24,7 +24,7 @@ Entretien avec un psychologue : |
 
 Entretien visant à évaluer les capacités d'adaptation du candidat à l'emploi postulé. Cet entretien, non noté, n'est pas considéré comme une épreuve, il constitue une aide à la décision des examinateurs.
 
-Afin de préparer cet entretien, le candidat est soumis à des tests psychométriques sous forme de questionnaires à choix multiples qui ne sont pas considérés comme des épreuves et pour lesquels aucune préparation n'est nécessaire.
+Afin de préparer cet entretien, le candidat est soumis à un test psychométrique sous forme de questionnaires à choix multiples qui n'est pas considéré comme une épreuve et pour lequel aucune préparation n'est nécessaire.
 
 |
 
@@ -68,7 +68,7 @@ Entretien avec un psychologue : |
 
 Entretien visant à évaluer les capacités d'adaptation du candidat à l'emploi postulé. Cet entretien, non noté, n'est pas considéré comme une épreuve, il constitue une aide à la décision des examinateurs.
 
-Afin de préparer cet entretien, le candidat est soumis à des tests psychométriques sous forme de questionnaires à choix multiples qui ne sont pas considérés comme des épreuves et pour lesquels aucune préparation n'est nécessaire.
+Afin de préparer cet entretien, le candidat est soumis à un test psychométrique sous forme de questionnaires à choix multiples qui n'est pas considéré comme une épreuve et pour lequel aucune préparation n'est nécessaire.
 
 |
 
@@ -83,7 +83,3 @@ Epreuves de sport définies en annexe III du présent arrêté (coefficient 1) :
 |
 
 Pour les spécialités auto-engins blindés et armurerie et pyrotechnie, l'épreuve d'entretien avec un examinateur se déroule à l'issue de l'épreuve pratique.
-
-NOTA :
-
-Conformément à l'article 7 de l'arrêté du 11 juin 2024 (NOR : IOMJ2415820A), ces dispositions sont applicables aux épreuves de sélection organisées à compter du 1er janvier 2025.
