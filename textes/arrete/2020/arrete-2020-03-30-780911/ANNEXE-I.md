@@ -16,7 +16,7 @@ Direction générale de l'aménagement, du logement et de la nature |
 
 Direction de l'habitat, de l'urbanisme et des paysages |
 
-Chargé de mission Outre-Mer |
+Chargé de mission outre-mer |
 
 ICTPE 1 |
 
@@ -106,9 +106,9 @@ Chef mission qualité, méthode, management |
 
 ICTPE 2 |
 
-Service Technique de l'Aviation Civile |
+Service national d'ingénierie aéroportuaire |
 
-Directeur de projet AMO et expertises auprès du chef du département structures et adhérences |
+Chef de la mission grands projets, département territorial sud-est |
 
 ICTPE 2 |
 
@@ -120,25 +120,13 @@ ICTPE 1 |
 
 Direction générale de la prévention des pollutions et des risques |
 
-Sous-direction des aléas et des ouvrages hydrauliques Service des risques naturels |
-
-Chef du bureau des risques naturels terrestres |
-
-ICTPE 2 |
-
 Service santé environnement et économie circulaire |
 
-Adjoint chef de la MBAP-chargé de mission pollution lumineuse et vibrations bâtiments |
+Adjoint chef de la MBAP - chargé de mission pollution lumineuse et vibrations bâtiments |
 
 ICTPE 2 |
 
 Direction générale des affaires maritimes, de la pêche et de l'aquaculture |
-
-Sous-direction de la Transformation numérique |
-
-Chef de bureau des services d'infrastructure, innovation numérique et DATA (SIID) |
-
-ICTPE 2 |
 
 Mission Vie des Services et Ressources Humaines |
 
@@ -148,7 +136,7 @@ ICTPE 2 |
 
 Service flottes et marins |
 
-Chef de mission " contrôle de second niveau-gestion de la sécurité et surveillance des organismes habilités " |
+Chef de mission "contrôle de second niveau - gestion de la sécurité et surveillance des organismes habilités" |
 
 ICTPE 2 |
 
@@ -216,7 +204,7 @@ ICTPE 2 |
 
 Direction des mobilités routières |
 
-Chef du Pôle véhicule automatisé |
+Chef du bureau de la transition numérique |
 
 ICTPE 2 |
 
@@ -234,9 +222,21 @@ ICTPE 2 |
 
 Direction des mobilités routières |
 
-Adjoint au chef du département de la transition des usages et de la digitalisation et responsable du pôle véhicule et infrastructure connectés |
+Chef du bureau de l'exploitation routière, de la sécurité et de l'appui aux services |
 
-ICTPE 1 |
+ICTPE 2 |
+
+Direction des mobilités routières |
+
+Chargé de mission, référent architecture de données |
+
+ICTPE 2 |
+
+Direction des mobilités routières |
+
+Chargé de mission, référent qualité |
+
+ICTPE 2 |
 
 Direction des transports ferroviaires, fluviaux et des ports |
 
@@ -286,24 +286,6 @@ Chef du groupe automatismes et contrôle commande et expert |
 
 ICTPE 2 |
 
-Sous-direction de la multimodalité, de l'innovation, du numérique et des territoires |
-
-Directeur de projet transformation numérique |
-
-ICTPE 2 |
-
-Sous-direction de la multimodalité, de l'innovation, du numérique et des territoires |
-
-Chef du pôle territoires |
-
-ICTPE 1 |
-
-Sous-direction de la multimodalité, de l'innovation, du numérique et des territoires |
-
-Chargé de mission Transports de marchandises et logistique |
-
-ICTPE 2 |
-
 Inspection générale de l'Environnement et du Développement durable |
 
 Secrétariat Général |
@@ -313,12 +295,6 @@ Chef du bureau des systèmes d'information |
 ICTPE 2 |
 
 Secrétariat général |
-
-Direction des affaires européennes et internationales (DAEI) |
-
-Chef de bureau Partenariat, opérateurs et projets |
-
-ICTPE 2 |
 
 Direction des affaires financières |
 
@@ -346,7 +322,7 @@ ICTPE 1 |
 
 Direction des affaires financières |
 
-Directeur de projets numériques auprès du sous-directeur (à compter du 01/09/2025) |
+Directeur de projets numériques auprès du sous-directeur |
 
 ICTPE 2 |
 
@@ -376,7 +352,7 @@ ICTPE 2 |
 
 Direction des ressources humaines |
 
-Adjoint au directeur du CVRH d'Arras-Valenciennes-Site de Valenciennes |
+Adjoint au directeur du CVRH d'Arras-Valenciennes - Site de Valenciennes |
 
 ICTPE 2 |
 
@@ -418,12 +394,6 @@ ICTPE 2 |
 
 Direction des ressources humaines |
 
-Chef de projet " Protection sociale complémentaire " |
-
-ICTPE 1 |
-
-Direction des ressources humaines |
-
 Adjoint au directeur de projet Élections 2026 |
 
 ICTPE 2 |
@@ -460,13 +430,13 @@ ICTPE 2 |
 
 Direction du numérique |
 
-Adjoint au chef du département produits numériques des métiers 3-Fonctions support RH |
+Adjoint au chef du département produits numériques des métiers 3 - Fonctions support RH |
 
 ICTPE 2 |
 
 Direction du numérique |
 
-Adjoint au chef du département produits numériques des métiers 1-Route et statistique |
+Adjoint au chef du département produits numériques des métiers 1 - Route et statistique |
 
 ICTPE 2 |
 
@@ -478,6 +448,6 @@ ICTPE 2 |
 
 Service du haut fonctionnaire de défense et de sécurité |
 
-Chef de la mission de veille opérationnelle et d'Alerte-Centre ministériel de veille opérationnelle et d'alerte |
+Chef du bureau de veille opérationnelle et d'Alerte-Centre ministériel de veille opérationnelle et d'alerte |
 
 ICTPE 1 |
