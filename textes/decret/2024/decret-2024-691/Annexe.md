@@ -78,10 +78,10 @@ Codes îlots regroupés pour l'information statistique (IRIS) concernés par le 
 
 Code îlots regroupés pour l'information statistique (IRIS) 341720503 dont le périmètre est délimité par un axe entre l'avenue du Comté-de-Nice et le rond-point de Guilhem de Poitiers ;
 
-Code îlots regroupés pour l'information statistique (IRIS) 341420501 (complet) ;
+Code îlots regroupés pour l'information statistique (IRIS) 34172 501 (complet) ;
 
-Code îlots regroupés pour l'information statistique (IRIS) 341420502 dont le périmètre est délimité par les rues suivantes : l'avenue Raimbaud-d'Orange (numéros pairs et impairs) ;
+Code îlots regroupés pour l'information statistique (IRIS) 34172 502 dont le périmètre est délimité par les rues suivantes : l'avenue Raimbaud-d'Orange (numéros pairs et impairs) ;
 
 Code îlots regroupés pour l'information statistique (IRIS) 341160102 dont le périmètre est délimité par les rues suivantes : rue de Chambert, rue de la Valsière, rue du Caducée, la limite entre Montpellier et Grabels(l'Arrière), la route de Ganges, le rond-point de la Valsière, rue de la Valsière, la rue Antoine-Jérôme-Balard (numéros pairs et impairs), rue Hilaire-Bernigaud (numéros pairs et impairs), rue Eugène-Belgrand (numéros pairs et impairs), rue Edmond-Frémy (numéros pairs et impairs), déchèterie de Grabels (rond-point du Salinier) ;
 
-Codes îlots regroupés pour l'information statistique (IRIS) concernés par le territoire : 341420501, 341420502, 341720503, 341160102.
+Codes îlots regroupés pour l'information statistique (IRIS) concernés par le territoire : 34172 501, 34172 502, 341720503, 341160102.
