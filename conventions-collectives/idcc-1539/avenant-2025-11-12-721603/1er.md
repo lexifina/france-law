@@ -1,0 +1,17 @@
+# Article 1er
+
+L'article 1.8.3 « Indemnisation des absences des salariés participant aux négociations collectives et des diverses instances paritaires » est modifié comme suit :
+
+« 1.8.3. Indemnisation du temps de préparation et des absences des salariés participant aux négociations collectives et aux diverses instances paritaires (CPPNI – CPNEFP SPP – CA – AG – bureau APGEB)
+
+Les représentants salariés bénéficient d'un droit d'absence de l'entreprise pour participer aux réunions des diverses instances paritaires de la branche visées dans le titre du présent article. Le temps d'absence est rémunéré comme du temps de travail effectif et est sans incidence sur les éléments de rémunération annexes ayant un caractère collectif.
+
+Compte tenu du temps de déplacement des représentants domiciliés en province, leur autorisation d'absence, pour la seule situation visée au paragraphe précédent, est majorée de 1 demi-journée par journée de réunion, que celle-ci comporte une ou plusieurs réunions. Il est convenu que la majoration du temps d'absence ne pourra excéder 1 journée par session de réunions.
+
+Dès réception de la convocation, les salariés concernés sont tenus d'informer leur employeur de leur absence.
+
+En vue d'assurer un fonctionnement des réunions paritaires et de permettre aux représentants de salariés de préparer les différentes commissions et instances statutaires, les négociateurs bénéficient d'heures de préparation sur la base de 4 heures par mois au maximum, correspondant à un forfait annuel de 44 heures.
+
+En complément du nombre d'heures prévu au précédent paragraphe, les négociateurs qui siègent en SPP/CPNEFP de la branche des entreprises du bureau et du numérique pourront participer à une session de formation des administrateurs de l'OPCO de la branche lors de la première année où une prise de fonction au sein des instances paritaires de l'OPCO est envisagée. Pour tenir compte du temps de déplacement des représentants domiciliés en province, leur autorisation d'absence est majorée d'une demi-journée en plus de la durée de la formation.
+
+Les frais de déplacement, d'hébergement et de restauration des représentants pour l'ensemble des situations visées dans le présent article sont pris en charge par leurs organisations respectives conformément aux dispositions de l'accord de la convention collective du 22 février 2006 relatif à la prise en charge des frais consécutifs au fonctionnement de la négociation collective des instances paritaires ».
