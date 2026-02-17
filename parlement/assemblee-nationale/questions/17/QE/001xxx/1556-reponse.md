@@ -1,0 +1,9 @@
+# Réponse à la question n° 1556
+
+- Question : [1556](1556.md) — Question n° 1556 — Effectif de la Caisse d'assurance retraite et de la santé au travail Sud-Est
+
+## Réponse
+
+*JO du 2026-02-17, page 1516*
+
+La Caisse d'assurance retraite et de la santé au travail (CARSAT) Sud-Est est compétente pour l'ensemble des départements de la région Provence-Alpes-Côte d'Azur ainsi que pour la gestion des dossiers de retraite des assurés résidant au Maghreb. Ce périmètre d'intervention confère à cette caisse une activité soutenue et diversifiée, notamment en matière de liquidation des droits à la retraite. Conformément aux dispositions de la Convention d'objectifs et de gestion (COG) conclue entre l'État et la Caisse nationale d'assurance vieillesse (CNAV), cette dernière assure la gouvernance opérationnelle de son réseau et pilote l'activité des CARSAT. À ce titre, elle définit les objectifs de performance, répartit les moyens, et veille à la qualité de service rendue aux assurés. Les effectifs des caisses sont adaptés en fonction des volumes d'activité, dans le respect des orientations nationales. Des ajustements sont régulièrement opérés au sein du réseau, notamment via des mécanismes de mutualisation ou d'appui entre caisses, lorsque des tensions sont identifiées sur certaines chaînes de traitement. La CNAV rend régulièrement compte au Gouvernement de la mise en œuvre de la COG, notamment par le biais d'indicateurs d'activité détaillés et d'un dialogue de gestion structuré. Ces échanges permettent d'assurer un pilotage fin des ressources et de garantir un service équitable sur l'ensemble du territoire. Le Gouvernement veille, aux côtés de la CNAV, à ce que les moyens alloués au réseau soient mobilisés de manière optimale pour garantir un traitement équitable des demandes, dans le respect des engagements fixés par la COG.
