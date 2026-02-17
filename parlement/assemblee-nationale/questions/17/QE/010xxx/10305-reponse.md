@@ -1,0 +1,9 @@
+# Réponse à la question n° 10305
+
+- Question : [10305](10305.md) — Question n° 10305 — Vérification du casier judiciaire par les structures agréées de sécurité civile
+
+## Réponse
+
+*JO du 2026-02-17, page 1489*
+
+La règlementation actuelle ne prévoit effectivement pas que les associations agréées puissent procéder à une vérification du bulletin N°2 du casier judiciaire de leurs salariés et bénévoles. Toutefois, les membres de ces associations, peuvent faire l'objet d'une enquête administrative de sécurité dans le cadre de la participation à un grand évènement encadré par un décret en Conseil d'État, pris après avis de la commission nationale de l'informatique et des libertés. Le code de la sécurité intérieure (CSI) et son article L. 211-11-1 précise à ce sujet que : « sont désignés par décret, les grands évènements et les grands rassemblements de personnes ayant pour objet d'assister à la retransmission d'évènements exposés à un risque d'actes de terrorisme en raison de leur nature et de l'ampleur de leur fréquentation. Ce décret désigne également les établissements et les installations qui les accueillent ainsi que leur organisateur. [Dans ce cadre], l'accès de toute personne, à un autre titre que celui de spectateur, à tout ou partie des établissements et des installations désignées par le décret est soumis, pendant la durée de l'évènement ou du rassemblement et de leur préparation, à une autorisation de l'organisateur délivrée sur avis conforme de l'autorité administrative précitée qui rend son avis sur la base d'enquête administrative qui peut donner lieu à la consultation du bulletin N°2 du casier judiciaire ». Aujourd'hui, aucune évolution réglementaire n'est envisagée. Cependant, les préfets de départements seront sensibilisés sur les attentes des associations agrées de sécurité civile quant à cette problématique.
