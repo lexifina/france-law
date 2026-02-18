@@ -1,0 +1,35 @@
+# Réponse à la question n° 596
+
+- Question : [596](596.md) — Question n° 596 — GIP EPAU
+
+## Réponse
+
+*JO du 2026-02-18, page 1702*
+
+GIP EUROPE DES PROJETS ARCHITECTURAUX ET URBAINS
+
+Mme la présidente. La parole est à Mme Sandra Marsaud, pour exposer sa question, no 596, relative au GIP Europe des projets architecturaux et urbains.
+
+Mme Sandra Marsaud. Je souhaite appeler l'attention de la ministre de l'aménagement du territoire et de la décentralisation sur les conséquences de la réduction des crédits alloués au groupement d'intérêt public Europe des projets architecturaux et urbains (GIP Epau) dans le cadre des arbitrages budgétaires pour 2026.
+
+Le GIP joue un rôle essentiel dans la mise en œuvre des politiques publiques territoriales – urbanisme, environnement, économie. Il constitue un espace partenarial unique, fédérant plusieurs ministères, les principaux opérateurs de l'État, un large réseau de collectivités, de chercheurs ainsi que des acteurs privés. Ses travaux de recherche-action et de prospective accompagnent plus de 220 projets répartis sur l'ensemble du territoire hexagonal et ultramarin, mobilisant près de 900 chercheurs.
+
+Le GIP connaissait déjà une trajectoire financière en baisse de 25 % depuis 2024 et avait dû faire d'importants efforts de rationalisation budgétaire. La diminution des subventions de l'État marque un coup d'arrêt pour ses programmes structurants, tels que Quartiers de demain, Popsu – plateforme d'observation des projets et stratégies urbaines – Transitions, Popsu Territoires ou encore Europan, comme pour les conventions engagées avec les collectivités.
+
+Une interruption de ces démarches risquerait de désorganiser des partenariats engagés au plus haut niveau de l'État, de compromettre la restitution d'expériences innovantes attendues et de priver nombre de communes d'un appui unique en ingénierie et en prospective urbaine. Ce constat est d'ailleurs largement partagé. Plusieurs élus impliqués dans ces programmes ainsi que des chercheurs ont récemment exprimé leur soutien au GIP Epau dans une tribune sur la valeur scientifique et opérationnelle de ses travaux. Aussi souhaiterais-je savoir quelles dispositions le gouvernement entend prendre pour assurer la reprise ou la continuité des programmes et des démarches actuellement menés par le GIP Epau – auquel j'exprime mon plein soutien –, afin d'éviter toute rupture dans l'accompagnement des collectivités et de préserver les acquis scientifiques et partenariaux accumulés.
+
+Mme la présidente. La parole est à M. le ministre délégué chargé de la ruralité.
+
+M. Michel Fournier, ministre délégué chargé de la ruralité. Le GIP Epau a été créé pour conduire, en partenariat avec les collectivités territoriales, les opérateurs de l'État et le monde académique, des démarches d'expérimentation et de prospective utiles aux territoires. Personne ne conteste la qualité scientifique de ses travaux ni l'engagement de ses équipes, mais nous devons regarder lucidement l'organisation de notre ingénierie publique car, depuis plusieurs années, l'État a considérablement renforcé ses outils d'appui aux collectivités – on peut évoquer l'Agence nationale de la cohésion des territoires (ANCT), la Banque des territoires, le Centre d’études et d’expertise sur les risques, l’environnement, la mobilité et l’aménagement (Cerema), sans compter les dispositifs régionaux et intercommunaux. Cette montée en puissance s'est faite par strates successives. Elle a produit de la richesse mais aussi créé, il faut bien le dire, une certaine dispersion, des chevauchements et, surtout, une complexité parfois peu lisible pour les élus, en particulier des plus petites communes.
+
+Dans le contexte de maîtrise de la dépense publique à laquelle je vous sais sensible, notre responsabilité est double : garantir la continuité des projets engagés et rationaliser notre organisation pour éviter les doublons. C'est le sens de la revue engagée en 2026. Cette année sera consacrée à la bonne fin des programmes en cours. Les plateformes d'observation des projets et stratégies urbaines seront mises en extinction progressive ou reprises par des opérateurs existants lorsque ce sera pertinent. La consultation Quartiers de demain, que vous avez évoquée et dont les lauréats ont été annoncés fin 2025, ira à son terme, avec une capitalisation nationale et un passage de relais vers les collectivités, accompagnées par les services déconcentrés de l'État.
+
+Il ne s'agit pas d'abandonner l'ingénierie territoriale mais de la rendre plus efficace, plus lisible et mieux articulée – vous savez qu'elle est parfois critiquée. L'objectif est de concentrer les moyens publics sur l'appui direct aux territoires, en simplifiant les circuits et en renforçant le rôle des opérateurs déjà installés, plutôt que de multiplier les structures. Le gouvernement veillera donc à ce qu'aucune collectivité engagée dans un programme structurant ne soit laissée sans solution d'accompagnement.
+
+Mme la présidente. La parole est à Mme Sandra Marsaud.
+
+Mme Sandra Marsaud. Il se trouve que je connais très bien le GIP et la qualité de ce qu'il a produit depuis des années – j'ai moi-même signé la tribune de soutien qui a réuni des centaines de personnes, alors que ce n'est pas dans mes habitudes. Ce sont le GIP et ses petites mains qui soutiennent le programme Petites Villes de demain, le plan Action cœur de ville et le programme Villages d'avenir. Organisation transversale, ses crédits provenaient d'une certaine manière des queues de budget des ministères dont il dépendait, ce qui ne coûtait pas tant d'argent que ça – je me désole d'en parler déjà au passé !
+
+Vous avez évoqué les petits territoires : on a précisément constaté que l'arrivée du GIP permettait aux acteurs locaux, aux représentants de la DDT – direction départementale des territoires – et aux préfectures de se mobiliser pour activer les politiques de l'État, ce qu'ont parfois du mal à faire les intercommunalités ; d'ailleurs, le GIP s'est parfois associé à ces dernières – c'est le cas chez moi.
+
+Il me semble donc que refuser de faire le bilan des grands opérateurs de l'État – il ne s'agit pas pour moi d'attaquer ici ses derniers – mais s'attaquer aux petites structures est tout à fait incohérent.
