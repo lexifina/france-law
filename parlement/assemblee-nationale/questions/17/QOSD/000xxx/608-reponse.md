@@ -1,0 +1,47 @@
+# Réponse à la question n° 608
+
+- Question : [608](608.md) — Question n° 608 — Chantier France Travail de Condom
+
+## Réponse
+
+*JO du 2026-02-18, page 1682*
+
+CHANTIER DU BÂTIMENT DE FRANCE TRAVAIL À CONDOM
+
+Mme la présidente. La parole est à M. David Taupiac, pour exposer sa question, no 608, relative au chantier du bâtiment de France Travail à Condom.
+
+M. David Taupiac. Je souhaite attirer votre attention sur la situation de plusieurs entreprises locales du bâtiment qui sont intervenues sur le chantier du bâtiment destiné à accueillir les services de France Travail à Condom, dans le Gers, mon département – mais le problème se pose, de façon similaire, dans le Tarn.
+
+À la suite du redressement judiciaire du promoteur Essor, ces entreprises familiales et locales font face à des impayés particulièrement lourds : 55 000 euros pour Bâti C Gers, 50 000 euros pour Dieuzaide TP, 143 000 euros pour Rotgé Bâtiment et 45 000 euros pour Cunha et Castera. De tels montants mettent directement en péril la trésorerie, l'emploi et parfois la survie même de ces entreprises, des PME implantées en territoire rural.
+
+Face à cette situation, plusieurs réunions se sont tenues à mon initiative avec les services de l'État dans le Gers, le ministère du travail, les entreprises concernées, la fédération du BTP du Gers ainsi que les acteurs institutionnels du dossier. J'ai également rencontré le directeur général de France Travail afin d'identifier toutes les solutions juridiquement possibles.
+
+D'après les informations dont je dispose à ce jour, un acquéreur aurait été trouvé pour racheter le bâtiment. Toutefois, rien ne permet d'envisager le recouvrement des impayés dus aux entreprises.
+
+Avant cette évolution, une perspective semblait pourtant possible : une piste juridique fondée sur l'évolution du bail en l'état futur d'achèvement avait été identifiée. Néanmoins, à la suite de l'annonce de cette cession, l'administrateur judiciaire a récemment indiqué que les bâtiments ayant été vendus, aucune solution juridique ne permettait désormais le règlement des entreprises. Cela laisse ces PME sans aucune perspective.
+
+Comment accepter que des entreprises locales, intervenues de bonne foi sur des travaux de bâtiments destinés à accueillir des services publics nationaux, soient aujourd'hui laissées sans solution, dans le Gers comme dans le Tarn ? Quelles mesures concrètes le gouvernement entend-il prendre, d'une part pour accompagner ces entreprises en grande difficulté, d'autre part pour éviter que de telles situations ne se reproduisent à l'avenir dans le cadre de projets liés à l'implantation de services publics ?
+
+Mme la présidente. La parole est à M. le ministre du travail et des solidarités.
+
+M. Jean-Pierre Farandou, ministre du travail et des solidarités. Nous avons discuté de ce dossier complexe et avons tenté, les uns et les autres, de trouver des solutions.
+
+Comme vous l'avez dit, plusieurs entreprises locales du secteur du bâtiment ont participé aux travaux de construction d'un bâtiment destiné à accueillir les services de France Travail à Condom et se retrouvent, à la suite de la faillite du promoteur Essor, confrontées à des impayés.
+
+Tout d'abord, je mesure pleinement la gravité de la situation. Les sommes sont considérables pour de petites entreprises locales – je le regrette profondément. Vous avez discuté avec mon cabinet ainsi qu'avec France Travail dans l'espoir de trouver des solutions.
+
+La situation actuelle est la conséquence de la défaillance du promoteur Essor, qui fait l'objet d'une procédure de redressement judiciaire. Les impayés ont un impact direct – et lourd – sur la trésorerie des PME concernées, qui sont intervenues de bonne foi lors de la réalisation du chantier. Je rappelle au passage que France Travail subit également les conséquences regrettables de la défaillance du promoteur – nous nous retrouvons, nous aussi, du côté des victimes. En effet, le déménagement de l'agence locale ne peut avoir lieu, ce qui crée un certain désordre.
+
+Au-delà de ces dossiers épineux, c'est la politique d'accompagnement des demandeurs d'emploi du territoire qui risque de pâtir de l'absence de locaux adaptés à ses missions.
+
+Dans le cadre des démarches que vous avez accomplies auprès de France Travail, des courriers et plusieurs documents vous ont été adressés, notamment le 2 février. Je pense en particulier à l'analyse de la solvabilité du promoteur réalisée à l'époque – tout semblait alors correct, sans quoi nous n'aurions pas continué à travailler avec lui. Je tiens d'ailleurs à ce que vous disposiez de tous les éléments permettant d'établir que la défaillance dont nous subissons les effets ne résulte pas d'une appréciation erronée, mais bien de facteurs extérieurs. D'autres documents relatifs aux échanges intervenus au stade précontractuel n'ont en revanche pas pu vous être communiqués, étant couverts par le secret des affaires.
+
+En tout état de cause, l'administrateur judiciaire n'a pas pu dégager de solution juridique qui permettrait le règlement des entreprises. Comme vous, je déplore cette situation. Malheureusement, le ministère du travail n'a pas les moyens d'intervenir. Malgré nos recherches, nous n'avons pu élaborer de solution juridiquement solide, comme l'administrateur judiciaire vous l'a confirmé.
+
+Mme la présidente. La parole est à M. David Taupiac.
+
+M. David Taupiac. Merci à votre ministère et à France Travail de m'avoir transmis les documents qui prouvent que la sélection du promoteur s'est faite dans les règles et que sa défaillance n'avait pas été établie à l'époque.
+
+Je continue malgré tout de m'interroger. La situation des entreprises est un sujet de préoccupation vis-à-vis duquel je resterai très vigilant. De petites entreprises, notamment une qui a été reprise récemment, peuvent se trouver confrontées à de grandes difficultés. Je ne voudrais pas que leurs employés aient à s'adresser aux services de France Travail pour chercher du travail – ce serait un très mauvais signal.
+
+Je m'interroge surtout au sujet du montage assez compliqué dont il est question. J'appelle France Travail à la prudence lorsqu'elle monte des opérations immobilières par l'intermédiaire de promoteurs et de propriétaires, ce qui a pour conséquence de diluer les responsabilités. Les entreprises peuvent en souffrir, comme c'est le cas aujourd'hui.
