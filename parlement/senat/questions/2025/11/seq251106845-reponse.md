@@ -1,0 +1,9 @@
+# Réponse à la question SEQ251106845
+
+- Question : [SEQ251106845](seq251106845.md) — État des travaux relatifs à l'article 89 de la loi n° 2023-1250 du 26 décembre 2023 de financement de la sécurité sociale pour 2024 facilitant la lutte contre le non-recours
+
+## Réponse
+
+*Travail et solidarités, JO du 2026-02-19, page 947*
+
+Le Gouvernement est très attaché à garantir l'égal et plein accès des victimes de l'amiante au dispositif d'indemnisation qui leur est consacré par l'intermédiaire du Fonds d'indemnisation des victimes de l'amiante (FIVA). C'est la raison pour laquelle des travaux ont été conduits afin de mettre en oeuvre le dispositif de lutte contre le non-recours au droit à indemnisation des victimes de l'amiante institué par l'article 89 de la loi de financement de la sécurité sociale pour 2024. Cette mesure doit permettre au FIVA d'identifier toutes les personnes susceptibles de bénéficier d'une réparation intégrale de leurs préjudices liés à une exposition à l'amiante, lui conférant ainsi une nouvelle mission, complémentaire à celle, historique, de réparation du préjudice subi par ces victimes. Elle se traduira concrètement par des échanges de données entre le FIVA et certains organismes, dans le respect du Règlement général sur la protection des données personnelles (RGPD). L'administration a engagé des travaux conséquents d'élaboration d'un projet de texte qui a notamment vocation à déterminer les informations et les catégories de données à transmettre au FIVA ainsi que leurs modalités de transmission et de conservation. A la suite de l'avis rendu par la Commission nationale de l'informatique et des libertés (CNIL) à la fin de l'année 2025, ce texte a été soumis aux consultations obligatoires en tout début d'année 2026. A l'issue de son examen par le Conseil d'État, il pourra être signé et publié dans une perspective de mise en oeuvre rapide par le FIVA.
