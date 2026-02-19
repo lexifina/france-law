@@ -2,9 +2,9 @@
 
 ANNEXE I
 
-LOCALISATION DES EMPLOIS À FORTE RESPONSABILITE BÉNÉFICIANT DE LA NOUVELLE BONIFICATION INDICIAIRE ET DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER
+LOCALISATION DES EMPLOIS À FORTE RESPONSABILITÉ BÉNÉFICIANT DE LA NOUVELLE BONIFICATION INDICIAIRE ET DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER
 
-1° Périmètre administration centrale, établissements publics et services à compétence nationale :
+1° Périmètre administration centrale, établissements publics et services à compétence nationale
 
 Directions et services |
 
@@ -16,11 +16,17 @@ de NBI |
 
 Nombre d'emplois
 
-à forte
+à forte responsabilité
 
-responsabilité (EFR) |
+(EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
 
 et de l'outre-mer
 
@@ -98,7 +104,7 @@ Chef de la mission du pilotage et de l'appui juridique aux territoires au sein d
 
 1 |
 
-Adjoint au chef de bureau central des cultes |
+Adjoint opérationnel de la Mission de conseil et de coordination territoriale et interministérielle (MC2CTI) |
 
 30 |
 
@@ -164,7 +170,7 @@ Adjoint au chef du groupement d'intervention du déminage |
 
 1 |
 
-Chef du bureau de l'alerte, de la sensibilisation et de l'éducation des publics au sein de la sous-direction de la préparation à la gestion des crises |
+Chef du bureau de la protection des populations au sein de la sous-direction de la préparation, de l'anticipation et de la gestion des crises |
 
 30 |
 
@@ -172,7 +178,7 @@ Chef du bureau de l'alerte, de la sensibilisation et de l'éducation des publics
 
 1 |
 
-Chef de la mission catastrophes naturelles au sein de la sous-direction de la préparation à la gestion des crises |
+Chef de la mission catastrophes naturelles au sein de la sous-direction de la préparation, à la gestion des crises |
 
 30 |
 
@@ -290,7 +296,9 @@ Chef du bureau des affaires financières et de l'évaluation de la dépense au s
 
 1 |
 
-Chef du bureau du pilotage des politiques sociales au sein de la sous-direction de l'action sociale et de l'accompagnement du personnel |
+Chef du bureau du pilotage des
+
+politiques sociales au sein de la sous-direction de l'action sociale et de l'accompagnement du personnel |
 
 50 |
 
@@ -490,7 +498,7 @@ Chef du service de l'administration générale au sein de la direction des resso
 
 - |
 
-Adjoint au chef de bureau du pilotage du fonctionnement et de l'investissement au sein de la direction des ressources humaines, des finances et des soutiens de la police nationale |
+Adjoint au chef de bureau du pilotage du fonctionnement et de l' investissement au sein de la direction des ressources humaines, des finances et des soutiens de la police nationale |
 
 30 |
 
@@ -498,7 +506,7 @@ Adjoint au chef de bureau du pilotage du fonctionnement et de l'investissement a
 
 1 |
 
-Chef de la division des ressources au Service de la protection/ SDRMM |
+Chef de la division des ressources au Service de la protection/SDRMM |
 
 30 |
 
@@ -522,7 +530,7 @@ Chef de cabinet du directeur général de la police nationale |
 
 1 |
 
-Chef de la division des concours et des examens au sein de la sous-direction du recrutement et des établissements de formation de l'Académie de police |
+Chef de la division des concours et des examens au sein de la sous-direction du recrutement et des établissements de formation de l' Académie de police |
 
 50 |
 
@@ -602,7 +610,7 @@ Chef de la division de la doctrine et de l'évaluation au sein de la direction n
 
 1 |
 
-Intitulé du poste à identifier |
+Directeur de projet transverse et soutien opérationnel , au sein du service de la transformation numérique de la police nationale (STN) |
 
 30 |
 
@@ -702,7 +710,7 @@ Adjoint au chef du bureau du droit public et des affaires institutionnelles à l
 
 1 |
 
-Chef du bureau de la dépense de l'Etat à la sous-direction de l'évaluation, de la prospective et de la dépense de l'état |
+Chef du bureau des finances et de la performance des outre-mer |
 
 30 |
 
@@ -726,7 +734,7 @@ Chef du bureau de la cohésion sociale, de la santé et de l'enseignement |
 
 1 |
 
-Chef du bureau des politiques agricoles rurales et maritimes |
+Adjoint au chef de bureau des politiques agricoles, rurales et maritimes |
 
 0 |
 
@@ -792,7 +800,7 @@ Chargé de mission coordination des services et animation territoriale au cabine
 
 1 |
 
-Adjoint au sous-directeur du droit et de la protection internationale au sein de la direction de l'asile |
+Adjoint au sous-directeur du droit d'asile et de la protection internationale au sein de la direction de l'asile |
 
 30 |
 
@@ -836,7 +844,7 @@ Chef du bureau du personnel civil à la sous-direction de la gestion du personne
 
 - |
 
-Adjoint chef de bureau du personnel civil à la SDGP/ DGGN |
+Adjoint chef de bureau du personnel civil à la SDGP/DGGN |
 
 0 |
 
@@ -968,7 +976,7 @@ Secrétaire général |
 
 1 |
 
-2° Périmètre secrétariats généraux pour l'administration du ministère de l'intérieur :
+2° Périmètre secrétariats généraux pour l'administration du ministère de l'intérieur
 
 Directions et services |
 
@@ -980,11 +988,17 @@ de NBI |
 
 Nombre d'emplois
 
-à forte
+à forte responsabilité
 
-responsabilité (EFR) |
+(EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
 
 et de l'outre-mer
 
@@ -1160,7 +1174,7 @@ Directeur des ressources humaines |
 
 1 |
 
-Chargé de mission auprès du préfet délégué pour la sécurité et de défense |
+Chargé de mission auprès du préfet délégué pour la défense et la sécurité |
 
 60 |
 
@@ -1210,7 +1224,7 @@ Directeur des ressources humaines |
 
 1 |
 
-3° Périmètre préfecture de police de Paris et secrétariat général pour l'administration du ministère de l'intérieur de la zone de défense et de sécurité de Paris :
+3° Périmètre préfecture de police de Paris et secrétariat général pour l'administration du ministère de l'intérieur de la zone de défense et de sécurité de Paris
 
 Directions et services |
 
@@ -1222,9 +1236,9 @@ de NBI |
 
 Nombre d'emplois
 
-à forte
+à forte responsabilité
 
-responsabilité (EFR) |
+(EFR) |
 
 Nombre d'emplois
 
@@ -1570,7 +1584,7 @@ Sous-directeur adjoint du support opérationnel |
 
 1 |
 
-PP/ Secrétariat général de la zone de défense et de sécurité |
+PP/Secrétariat général de la zone de défense et de sécurité |
 
 Adjoint au chef d'État-major de zone, chef du SIDPC de Paris |
 
@@ -1580,7 +1594,7 @@ Adjoint au chef d'État-major de zone, chef du SIDPC de Paris |
 
 1 |
 
-PP/ Secrétariat général de la zone de défense et de sécurité |
+PP/Secrétariat général de la zone de défense et de sécurité |
 
 Secrétaire général chargé du pilotage transversal et de coordination au sein de la mission Paris 2024 |
 
@@ -1590,7 +1604,7 @@ Secrétaire général chargé du pilotage transversal et de coordination au sein
 
 1 |
 
-4° Périmètre services de police nationale :
+4° Périmètre services de police nationale
 
 Directions et services |
 
@@ -1602,9 +1616,9 @@ de NBI |
 
 Nombre d'emplois
 
-à forte
+à forte responsabilité
 
-responsabilité (EFR) |
+(EFR) |
 
 Nombre d'emplois
 
@@ -1648,7 +1662,9 @@ Adjoint au chef du département de synthèse, stratégie et soutien |
 
 1 |
 
-30 Académie de police |
+30
+
+Académie de police |
 
 Chef du département des ressources de l'école nationale de police de Nîmes |
 
@@ -1698,7 +1714,7 @@ Chef du service de soutien opérationnel |
 
 1 |
 
-35 DIPN d'Ille-et-Vilaine- |
+35 DIPN d'Ille-et-Vilaine |
 
 Chef du service de soutien opérationnel |
 
@@ -1908,7 +1924,7 @@ Chef du service de soutien opérationnel |
 
 1 |
 
-95 DNPAF/ DAP/ Direction de la police aux frontières de Roissy et du Bourget |
+95 DNPAF /DAP/Direction de la police aux frontières de Roissy et du Bourget |
 
 Chef du département administration et finances |
 
@@ -1918,7 +1934,7 @@ Chef du département administration et finances |
 
 1 |
 
-5° Périmètre services de gendarmerie nationale :
+5° Périmètre services de gendarmerie nationale
 
 Directions et services |
 
@@ -1930,11 +1946,15 @@ de NBI |
 
 Nombre d'emplois
 
-à forte
+à forte responsabilité
 
-responsabilité (EFR) |
+(EFR) |
 
-Nombre d'emplois de conseiller d'administration
+Nombre d'emplois
+
+de conseiller
+
+d'administration
 
 de l'intérieur
 
@@ -1982,7 +2002,7 @@ Chef du bureau budget et administration de la région de gendarmerie Occitanie |
 
 1 |
 
-33 Région zonale de gendarmerie Nouvelle Aquitaine |
+33 Région zonale de gendarmerie Nouvelle-Aquitaine |
 
 Chef du bureau de l'accompagnement du personnel |
 
@@ -2146,9 +2166,11 @@ Chef du bureau des soutien et des finances |
 
 1 |
 
-6° Périmètre juridictions administratives :
+6° Périmètre juridictions administratives
 
-Juridiction administrative |
+Juridiction
+
+administrative |
 
 Fonctions |
 
@@ -2158,11 +2180,17 @@ de NBI |
 
 Nombre d'emplois
 
-à forte
+à forte responsabilité
 
-responsabilité (EFR) |
+(EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
 
 et de l'outre-mer
 
@@ -2358,9 +2386,11 @@ Greffier en chef |
 
 1 |
 
-7° Périmètre préfectures :
+7° Périmètre préfectures
 
-Localisation des emplois |
+Localisation
+
+des emplois |
 
 Nombre d'EFR ouvrant droit à la NBI par taux de NBI |
 
@@ -3850,7 +3880,7 @@ de NBI |
 
 - |
 
-- |
+|
 
 - |
 
@@ -3864,7 +3894,7 @@ de NBI |
 
 - |
 
-- |
+|
 
 61 Orne |
 
@@ -3916,19 +3946,13 @@ de NBI |
 
 63 Puy-de-Dôme |
 
-- |
+1 |
 
 - |
 
 - |
 
-- |
-
-- |
-
-3 |
-
-- |
+1 |
 
 - |
 
@@ -3938,7 +3962,13 @@ de NBI |
 
 - |
 
-64 Pyrénées Atlantiques |
+2 |
+
+- |
+
+1 |
+
+64 Pyrénées-Atlantiques |
 
 - |
 
@@ -4324,19 +4354,13 @@ de NBI |
 
 80 Somme |
 
-- |
+1 |
 
 - |
 
 - |
 
-- |
-
-- |
-
-3 |
-
-- |
+1 |
 
 - |
 
@@ -4345,6 +4369,12 @@ de NBI |
 - |
 
 - |
+
+2 |
+
+- |
+
+1 |
 
 81 Tarn |
 
@@ -4492,13 +4522,13 @@ de NBI |
 
 87 Haute-Vienne |
 
-0 |
-
 - |
 
 - |
 
-0 |
+- |
+
+- |
 
 - |
 
@@ -4874,7 +4904,7 @@ de NBI |
 
 - |
 
-986 Wallis et Futuna |
+986 Wallis-et-Futuna |
 
 |
 
@@ -4946,23 +4976,15 @@ de NBI |
 
 - |
 
-8° Périmètre secrétariat général commun départemental :
+8° Périmètre secrétariat général commun départemental
 
-Localisation
-
-des emplois |
+Localisation des emplois |
 
 Nombre d'EFR ouvrant droit à la NBI par taux de NBI |
 
 Nombre de postes de CAIOM ouvrant droit à la NBI par taux de NBI |
 
-|
-
-Total
-
-du nombre
-
-d'EFR |
+Total du nombre d'EFR |
 
 60 points |
 
@@ -4976,9 +4998,7 @@ Total
 
 du nombre
 
-d'emplois
-
-de CAIOM |
+d'emplois de CAIOM |
 
 60 points |
 
@@ -4988,9 +5008,7 @@ de CAIOM |
 
 20 points |
 
-Sans point
-
-de NBI |
+Sans point de NBI |
 
 01 Ain |
 
@@ -5400,7 +5418,7 @@ de NBI |
 
 - |
 
-18-Cher |
+18 - Cher |
 
 - |
 
@@ -5712,7 +5730,7 @@ de NBI |
 
 1 |
 
-31 Haute Garonne |
+31 Haute-Garonne |
 
 - |
 
@@ -6504,7 +6522,7 @@ de NBI |
 
 - |
 
-65 Hautes Pyrénées |
+65 Hautes-Pyrénées |
 
 - |
 
@@ -6528,7 +6546,7 @@ de NBI |
 
 - |
 
-66 Pyrénées Orientales |
+66 Pyrénées-Orientales |
 
 - |
 
