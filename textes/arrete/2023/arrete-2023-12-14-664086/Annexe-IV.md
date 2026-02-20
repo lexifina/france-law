@@ -2,7 +2,7 @@
 
 RÉFÉRENTIEL D'ÉVALUATION
 
-Brevet de technicien supérieur &laquo; Photonique : Technologies et Sciences de la Lumière &raquo;
+Brevet de technicien supérieur "Photonique : Technologies et Sciences de la Lumière"
 
 II. 1. Unités constitutives du diplôme
 
@@ -26,25 +26,227 @@ La définition des unités professionnelles constitutives du diplôme a pour but
 
 Unité U4-Conception durable d'un système optique photonique
 
-Le contenu sur lequel repose l'unité correspond aux compétences du bloc &laquo; Conception durable d'un système optique photonique &raquo;
+Le contenu sur lequel repose l'unité correspond aux compétences du bloc "Conception durable d'un système optique photonique"
 
 Cette unité certificative est attribuée selon le référentiel de compétences figurant en annexe III.
 
-Unité U5-Prototypage et industrialisation durable d'un système optique photonique
+ÉPREUVE E5
 
-Le contenu sur lequel repose l'unité correspond aux compétences du bloc &laquo; Prototypage et industrialisation durable d'un système optique photonique &raquo;.
+PROTOTYPAGE ET INDUSTRIALISATION DURABLE D'UN SYSTÈME OPTIQUE PHOTONIQUE
 
-Cette unité certificative est attribuée selon le référentiel de compétences figurant en annexe III.
+Unité U5 - Coefficient 6
+
+Objectif de l'épreuve :
+
+L'épreuve a pour objectif l'évaluation de tout ou partie des compétences suivantes :
+
+- C06 - Travailler en groupe et en équipe ;
+
+- C07 - Extraire, exploiter, produire et synthétiser les informations nécessaires à la réalisation des tâches ;
+
+- C08 - Choisir les procédés de production ;
+
+- C09 - Assembler les composants et régler le système ;
+
+- C10 - Mettre en œuvre les procédés de production.
+
+Les critères d'évaluation sont ceux définis dans le référentiel de compétences. Ils s'appuient sur toutes les dimensions (savoirs, savoir-faire, savoir-être) de la compétence.
+
+Ces compétences professionnelles mobilisent les savoirs et les démarches scientifiques ou technologiques.
+
+D'autres compétences (cf. III.1.2 blocs de compétences ) peuvent être mobilisées mais ne sont pas évaluées dans le cadre de cette épreuve.
+
+Ces compétences professionnelles permettent de travailler étroitement les deux champs disciplinaires que sont la physique-chimie et les sciences et techniques industrielles. Le projet pédagogique permettra de trouver les modalités pertinentes à cette collaboration.
+
+Elles mobilisent également des connaissances, capacités et compétences de la démarche scientifique développées en physique-chimie qui sont évaluées lors des revues de projets.
+
+Contenu de l'épreuve :
+
+Les compétences sont évaluées dans un contexte professionnel conforme aux activités et tâches du pôle Prototypage et industrialisation durable d'un système optique photonique décrites dans le référentiel des activités professionnelles.
+
+Les moyens et ressources associés aux activités professionnelles seront mis à disposition des candidats.
+
+Modalités d'évaluation :
+
+a) Forme ponctuelle
+
+Cette épreuve, composée de deux parties, prend appui sur un projet industriel collaboratif de Prototypage et industrialisation durable d'un système optique photonique encadré par un enseignant de physique-chimie et des enseignants en sciences et techniques industrielles des domaines de l'optique de l'ingénierie mécanique et ingénierie électrique de l'équipe pédagogique de l'établissement considéré. Chaque candidat devra consacrer 120 heures à cette activité de réalisation et mise en service d'un prototype.
+
+L'organisation de l'épreuve est définie dans la circulaire nationale d'organisation de la session d'examen annuelle.
+
+Partie 1 : conduite de projet - coefficient 4
+
+Cette partie se déroule en entreprise (apprentis) ou dans le centre d'examen (établissement dispensant la formation BTS Photonique : Technologies et Sciences de la Lumière )
+
+Sont évaluées dans cette partie, les compétences suivantes :
+
+- C06 - Travailler en groupe et en équipe ;
+
+- C09 - Assembler les composants et régler le système ;
+
+- C10 - Mettre en œuvre les procédés de production,
+
+et une partie de la compétence C07 - Extraire, exploiter, produire et synthétiser les informations nécessaires à la réalisation des tâches, à savoir exploiter et produire .
+
+La commission d'évaluation est composée d'un enseignant de physique-chimie et des enseignants en sciences et techniques industrielles des domaines ingénierie mécanique et ingénierie électrique de l'équipe pédagogique de l'établissement considéré.
+
+La commission d'évaluation observe le travail réalisé par le candidat lors de revues de projet dont l'une se fera en groupe.
+
+La grille d'évaluation complétée sera systématiquement transmise à la commission d'examen à l'issue de l'évaluation de la partie 2.
+
+L'échange avec le ou les candidat(s) permet de mettre en évidence les compétences évaluées.
+
+Lorsque le stage ou l'activité en entreprise (apprentis) participe à l'évaluation de cette partie 1, l'évaluation des compétences mobilisées se fera sous forme d'un entretien tripartite sur la base d'une proposition d'autoévaluation du candidat, extraite du rapport de stage. Dans la mesure du possible, cet entretien d'une durée maximum de 45 minutes se déroulera en entreprise réunissant le stagiaire, le tuteur ou maitre d'apprentissage et l'enseignant responsable.
+
+Ensuite, la commission d'évaluation propose une évaluation des compétences mobilisées prenant en compte les résultats de la situation en stage et du projet en établissement. La commission d'examen tient compte de l'ensemble de ces différentes parties et valide les compétences afférentes à cette unité.
+
+Partie 2 : oral - coefficient 2
+
+L'épreuve orale d'une durée de 40 minutes se déroule dans le centre d'examen (établissement dispensant la formation BTS Photonique : Technologies et Sciences de la Lumière) défini par le service des examens et concours de l'académie en charge de l'organisation des sessions de ce diplôme.
+
+Elle consiste en une soutenance individuelle devant une commission d'examen. L'exposé, de 20 minutes maximum permet au candidat de présenter l'ensemble de l'activité, puis lors d'un entretien de 20 minutes maximum, le candidat répond aux questions des membres de la commission.
+
+Sont évaluées dans cette situation :
+
+- C08 - Choisir les procédés de production ;
+
+- une partie de la compétence C07 - Extraire, exploiter, produire et synthétiser les informations nécessaires à la réalisation des tâches, à savoir extraire et synthétiser .
+
+La commission d'examen est composée :
+
+- d'un enseignant de physique-chimie ;
+
+- de deux enseignants (ou formateurs) de sciences et techniques industrielles des domaines ingénierie mécanique et ingénierie électrique ;
+
+- d'un professionnel.
+
+Ces enseignants en charge de disciplines du BTS seront issus d'un autre établissement.
+
+La commission peut statuer en l'absence du professionnel.
+
+Le candidat présente le résultat de son travail grâce à un dossier comprenant :
+
+- des données extraites du cahier des charges ;
+
+- la planification et la répartition des tâches entre les candidats ;
+
+- des informations correctement synthétisées ;
+
+- les éléments relatifs :
+
+- au dossier de fabrication (machine, procédés, outillage, etc.) ;
+
+- au dossier d'assemblage (procédés, outillage, etc.) ;
+
+- les résultats des procédures de contrôle au regard des exigences du cahier des charges ;
+
+- à l'organisation des postes de travail éventuellement ;
+
+- à la réglementation de sécurité éventuellement.
+
+Ce dossier sera transmis au centre d'examen, au moins quinze jours avant la date de l'épreuve selon les modalités définies par le service des examens et concours de l'académie en charge de l'organisation des sessions de ce diplôme.
+
+Le contrôle de conformité de ce dossier est effectué selon des modalités définies par les autorités académiques avant l'interrogation. La constatation de non-conformité du dossier entraîne l'attribution de la mention non valide à l'épreuve. Le candidat, même présent à la date de l'épreuve, ne peut être interrogé. En conséquence, le diplôme ne peut lui être délivré.
+
+En l'absence le jour de l'interrogation du dossier de projet du candidat, le jury interroge néanmoins le candidat sur son projet.
+
+L'attribution de la note est réservée dans l'attente d'une nouvelle vérification mise en œuvre selon des modalités définies par les autorités académiques. Si, après vérification, le dossier de projet réalisé par le candidat est déclaré non-conforme, la mention non valide est portée à l'épreuve.
+
+La non-conformité du dossier de projet réalisé par le candidat peut être prononcée dès lors qu'une des situations suivantes est constatée :
+
+- absence de dépôt du dossier réalisé par le candidat ;
+
+- dépôt du dossier réalisé par le candidat au-delà de la date fixée par la circulaire d'organisation de l'examen ou de l'autorité organisatrice ;
+
+- durée de stage inférieure à celle requise par la réglementation de l'examen ;
+
+- documents constituant le dossier non visés ou non signés par les personnes habilitées à cet effet.
+
+Candidats individuels
+
+L'épreuve a les mêmes objectifs d'évaluation des compétences :
+
+- C08 - Choisir les procédés de production ;
+
+- une partie de la compétence C07 - Extraire, exploiter, produire et synthétiser les informations nécessaires à la réalisation des tâches, à savoir extraire et synthétiser .
+
+Les dates de l'épreuve sont définies par la circulaire nationale d'organisation de la session d'examen annuelle.
+
+L'épreuve s'appuie sur un projet industriel de Prototypage et industrialisation durable d'un système optique photonique .
+
+Le dossier du candidat peut correspondre :
+
+- soit à des activités répondant aux attendus de l'épreuve que le candidat a effectuées au cours de son activité professionnelle sur un système comportant une partie optique photonique. Il sera validé par une commission présidée par un IA-IPR STI président du jury ;
+
+- soit à un dossier de réalisation remis au candidat, sur sa demande, deux mois avant le début de l'épreuve.
+
+Ce dossier (mémoire technique) sera transmis au centre d'examen, au moins quinze jours avant la date de l'épreuve selon les modalités définies par le service des examens et concours de l'académie en charge de l'organisation des sessions de ce diplôme.
+
+L'épreuve orale d'une durée de 40 minutes se déroule dans le centre d'examen (établissement dispensant la formation BTS Photonique : Technologies et Sciences de la Lumière) défini par le service des examens et concours de l'académie en charge de l'organisation des sessions de ce diplôme.
+
+Elle consiste en une soutenance individuelle devant une commission d'examen. L'exposé, de 20 minutes maximum, permet au candidat de présenter l'étude demandée figurant dans son mémoire technique. Puis lors d'un entretien de 20 minutes maximum, le candidat répond aux questions des membres de la commission.
+
+La commission d'examen est composée :
+
+- d'un enseignant de physique-chimie ;
+
+- de deux enseignants (ou formateurs) de sciences et techniques industrielles des domaines ingénierie mécanique et ingénierie électrique ;
+
+- d'un professionnel.
+
+La commission peut statuer en l'absence du professionnel.
+
+Le candidat présente le résultat de son travail grâce à un dossier (mémoire technique) comprenant :
+
+- des données extraites du cahier des charges ;
+
+- des informations correctement synthétisées ;
+
+- les éléments relatifs :
+
+- au dossier de fabrication (machine, procédés, outillage, etc.) ;
+
+- au dossier d'assemblage (procédés, outillage, etc.) ;
+
+- aux procédures de contrôle au regard des exigences du cahier des charges et, éventuellement, les résultats de ces procédures ;
+
+- à l'organisation des postes de travail éventuellement ;
+
+- à la réglementation de sécurité éventuellement.
+
+Le contrôle de conformité de ce dossier est effectué selon des modalités décrites ci-dessus.
+
+La commission d'évaluation arrête le positionnement de chaque candidat à son niveau de maîtrise des compétences sur une grille nationale d'évaluation spécifique de l'épreuve publiée dans la circulaire nationale d'organisation de l'examen.
+
+b) Contrôle en cours de formation
+
+L'évaluation s'appuie sur plusieurs activités permettant d'établir un suivi et un bilan des compétences visées par l'épreuve. Les activités sont menées en centre de formation et/ou en entreprise.
+
+Le suivi de l'acquisition des compétences, les bilans intermédiaires et le bilan final sont établis :
+
+- par l'équipe pédagogique du domaine professionnel, le tuteur ou maître d'apprentissage et le candidat dans le cas où l'activité est menée conjointement avec une entreprise ;
+
+- par l'équipe pédagogique du domaine professionnel dans le cas où l'activité est menée en centre de formation.
+
+Le suivi d'acquisition des compétences requiert l'utilisation d'un livret de suivi individualisé exploité par les enseignants assurant l'encadrement des candidats au cours de la formation. La fréquence des bilans intermédiaires est à l'initiative de l'équipe pédagogique.
+
+Au cours du dernier semestre de la formation, une commission d'évaluation est réunie sous l'autorité du chef d'établissement. La commission d'évaluation arrête le positionnement de chaque candidat à son niveau de maîtrise des compétences sur la grille nationale d'évaluation de l'épreuve publiée dans la circulaire nationale d'organisation de l'examen qui précise les modalités.
+
+A l'issue du positionnement, l'équipe pédagogique de l'établissement de formation constitue, pour chaque candidat, un dossier comprenant :
+
+- le livret de suivi des compétences avec les bilans intermédiaires ;
+
+- la grille nationale d'évaluation renseignée ayant conduit à la proposition de note.
 
 Unité U6-Contrôle et métrologie d'un système optique photonique
 
-Le contenu sur lequel repose l'unité correspond aux compétences du bloc &laquo; Contrôle et métrologie d'un système optique photonique &raquo;
+Le contenu sur lequel repose l'unité correspond aux compétences du bloc "Contrôle et métrologie d'un système optique photonique"
 
 Cette unité certificative est attribuée selon le référentiel de compétences figurant en annexe III.
 
 Unité U7-Assistance technique et maintenance d'un système optique photonique
 
-Le contenu sur lequel repose l'unité correspond aux compétences du bloc &laquo; Assistance technique et maintenance d'un système optique photonique &raquo;.
+Le contenu sur lequel repose l'unité correspond aux compétences du bloc "Assistance technique et maintenance d'un système optique photonique".
 
 Cette unité certificative est attribuée selon le référentiel de compétences figurant en annexe III.
 
@@ -62,33 +264,35 @@ II. 2. Dispenses d'unités
 
 U1-Culture générale et expression
 
-Les candidats à l'examen d'une spécialité de brevet de technicien supérieur, titulaires d'un brevet de technicien supérieur d'une autre spécialité, d'un diplôme universitaire de technologie ou d'un diplôme national de niveau 5 ou supérieur sont, à leur demande, dispensés de subir l'unité de &laquo; Culture générale et expression &raquo;.
+Les candidats à l'examen d'une spécialité de brevet de technicien supérieur, titulaires d'un brevet de technicien supérieur d'une autre spécialité, d'un diplôme universitaire de technologie ou d'un diplôme national de niveau 5 ou supérieur sont, à leur demande, dispensés de subir l'unité de "Culture générale et expression".
 
-Les bénéficiaires de l'unité de &laquo; Français &raquo;, &laquo; Expression française &raquo; ou de &laquo; Culture générale et expression &raquo; au titre d'une autre spécialité de BTS sont, à leur demande, pendant la durée de validité du bénéfice, dispensés des épreuves correspondant à l'unité U1 &laquo; Culture générale et expression &raquo;.
+Les bénéficiaires de l'unité de "Français", "Expression française" ou de "Culture générale et expression" au titre d'une autre spécialité de BTS sont, à leur demande, pendant la durée de validité du bénéfice, dispensés des épreuves correspondant à l'unité U1 "Culture générale et expression".
 
 U2-Langue vivante étrangère 1 : anglais
 
-L'unité U2 &laquo; Langue vivante étrangère 1 : Anglais &raquo; du brevet de technicien supérieur &laquo; Photonique : Technologies et Sciences de la Lumière &raquo; et l'unité de &laquo; Langue vivante étrangère 1 &raquo; des brevets de technicien supérieur relevant de l'arrêté du 22 juillet 2008 (JORF n° 0184 du 8 août 2008) sont communes.
+L'unité U2 "Langue vivante étrangère 1 : Anglais" du brevet de technicien supérieur "Photonique : Technologies et Sciences de la Lumière" et l'unité de "Langue vivante étrangère 1" des brevets de technicien supérieur relevant de l'arrêté du 22 juillet 2008 (JORF n° 0184 du 8 août 2008) sont communes.
 
-Les bénéficiaires de l'unité &laquo; Langue vivante étrangère 1 &raquo; au titre de l'une des spécialités susmentionnées sont, à leur demande, dispensés de l'unité U2 &laquo; Langue vivante étrangère 1 : Anglais &raquo; sous réserve que les candidats aient choisi l'anglais.
+Les bénéficiaires de l'unité "Langue vivante étrangère 1" au titre de l'une des spécialités susmentionnées sont, à leur demande, dispensés de l'unité U2 "Langue vivante étrangère 1 : Anglais" sous réserve que les candidats aient choisi l'anglais.
 
-Les titulaires de l'une des spécialités susmentionnées qui souhaitent faire acte de candidature à une autre de ces spécialités sont, à leur demande, dispensés de subir l'unité U2 : &laquo; Langue vivante étrangère 1 &raquo;.
+Les titulaires de l'une des spécialités susmentionnées qui souhaitent faire acte de candidature à une autre de ces spécialités sont, à leur demande, dispensés de subir l'unité U2 : "Langue vivante étrangère 1".
 
-D'autre part, les titulaires d'un diplôme national de niveau 5 ou supérieur, ayant été évalués en langue vivante pour obtenir ce diplôme, sont, à leur demande, dispensés de subir l'unité U2 : &laquo; Langue vivante étrangère 1 : Anglais &raquo; du brevet de technicien supérieur &laquo; Photonique : Technologies et Sciences de la Lumière &raquo;.
+D'autre part, les titulaires d'un diplôme national de niveau 5 ou supérieur, ayant été évalués en langue vivante pour obtenir ce diplôme, sont, à leur demande, dispensés de subir l'unité U2 : "Langue vivante étrangère 1 : Anglais" du brevet de technicien supérieur "Photonique : Technologies et Sciences de la Lumière".
 
 U3-Mathématiques
 
-L'unité U3 &laquo; Mathématiques &raquo; du brevet de technicien supérieur &laquo; Photonique : Technologies et Sciences de la Lumière &raquo; peut être commune à l'unité de &laquo; Mathématiques &raquo; d'autres spécialités du brevet de technicien supérieur.
+L'unité U3 "Mathématiques" du brevet de technicien supérieur "Photonique : Technologies et Sciences de la Lumière" peut être commune à l'unité de "Mathématiques" d'autres spécialités du brevet de technicien supérieur.
 
-Les bénéficiaires de l'unité de &laquo; Mathématiques &raquo; au titre de l'une des spécialités susmentionnées qui souhaitent faire acte de candidature à une autre de ces spécialités sont, à leur demande, pendant la durée de validité du bénéfice, dispensés de subir l'unité de Mathématiques.
+Les bénéficiaires de l'unité de "Mathématiques" au titre de l'une des spécialités susmentionnées qui souhaitent faire acte de candidature à une autre de ces spécialités sont, à leur demande, pendant la durée de validité du bénéfice, dispensés de subir l'unité de Mathématiques.
 
-D'autre part, les titulaires d'un diplôme national scientifique ou technologique de niveau 5 ou supérieur, ayant été évalués en &laquo; Mathématiques &raquo; pour obtenir ce diplôme, sont, à leur demande, dispensés de subir l'unité U3 &laquo; Mathématiques &raquo; du brevet de technicien supérieur &laquo; Photonique : Technologies et Sciences de la Lumière &raquo;.
+D'autre part, les titulaires d'un diplôme national scientifique ou technologique de niveau 5 ou supérieur, ayant été évalués en "Mathématiques" pour obtenir ce diplôme, sont, à leur demande, dispensés de subir l'unité U3 "Mathématiques" du brevet de technicien supérieur "Photonique : Technologies et Sciences de la Lumière".
 
 II. 3. Règlement d'examen
 
-BTS &laquo; Photonique : Technologies et Sciences de la Lumière &raquo;
+BTS "Photonique : Technologies et Sciences de la Lumière"
 
-ÉPREUVES |
+ÉPREUVES
+
+|
 
 Scolaires
 
@@ -100,13 +304,17 @@ Apprentis
 
 Formation professionnelle continue
 
-(Etablissements publics habilités) |
+(Etablissements publics habilités)
+
+|
 
 Formation professionnelle continue
 
 (Etablissements publics habilités à pratiquer intégralement le
 
-CCF pour ce BTS) |
+CCF pour ce BTS)
+
+|
 
 Scolaires
 
@@ -122,7 +330,9 @@ Formation professionnelle continue
 
 Au titre de leur expérience professionnelle
 
-Enseignement à distance |
+Enseignement à distance
+
+|
 
 Nature des épreuves |
 
@@ -132,7 +342,9 @@ Coef. |
 
 Crédits
 
-européens |
+européens
+
+|
 
 Forme |
 
@@ -148,7 +360,9 @@ Durée |
 
 Epreuve générale
 
-E1-Culture générale et expression |
+E1-Culture générale et expression
+
+|
 
 U1 |
 
@@ -162,7 +376,9 @@ Ponctuelle écrite |
 
 CCF
 
-2 situations |
+2 situations
+
+|
 
 Ponctuelle écrite |
 
@@ -170,7 +386,9 @@ Ponctuelle écrite |
 
 Epreuve générale
 
-E2-Langue vivante étrangère 1 : Anglais |
+E2-Langue vivante étrangère 1 : Anglais
+
+|
 
 U2 |
 
@@ -180,11 +398,15 @@ U2 |
 
 CCF
 
-2 situations |
+2 situations
+
+|
 
 CCF
 
-2 situations |
+2 situations
+
+|
 
 Ponctuelle orale |
 
@@ -194,11 +416,15 @@ Compréhension :
 
 Expression :
 
-15 minutes sans préparation |
+15 minutes sans préparation
+
+|
 
 Epreuve générale
 
-E3-Mathématiques |
+E3-Mathématiques
+
+|
 
 U3 |
 
@@ -208,11 +434,15 @@ U3 |
 
 CCF
 
-2 situations |
+2 situations
+
+|
 
 CCF
 
-2 situations |
+2 situations
+
+|
 
 Ponctuelle orale |
 
@@ -220,7 +450,9 @@ Ponctuelle orale |
 
 Epreuve professionnelle
 
-E4-Conception durable d'un système optique photonique |
+E4-Conception durable d'un système optique photonique
+
+|
 
 U4 |
 
@@ -242,7 +474,9 @@ Ponctuelle écrite |
 
 Epreuve professionnelle
 
-E5-Prototypage et industrialisation durable d'un système optique photonique |
+E5-Prototypage et industrialisation durable d'un système optique photonique
+
+|
 
 U5 |
 
@@ -376,7 +610,7 @@ Le candidat répond de manière nuancée et argumentée à des questions (entre 
 
 Deuxième partie : essai (partie notée sur 10 points)
 
-Deux sujets d'essai sont proposés aux candidats. Ces sujets sont en rapport avec le thème inscrit au programme de la deuxième année de STS. Les candidats choisissent l'un des deux et le traitent de manière argumentée et nuancée, en s'appuyant notamment sur leurs connaissances personnelles, sur le corpus proposé dans le sujet ainsi que sur les lectures effectuées et les contenus d'enseignement découverts en cours de &laquo; culture générale et expression &raquo;.
+Deux sujets d'essai sont proposés aux candidats. Ces sujets sont en rapport avec le thème inscrit au programme de la deuxième année de STS. Les candidats choisissent l'un des deux et le traitent de manière argumentée et nuancée, en s'appuyant notamment sur leurs connaissances personnelles, sur le corpus proposé dans le sujet ainsi que sur les lectures effectuées et les contenus d'enseignement découverts en cours de "culture générale et expression".
 
 Contrôle en cours de formation
 
@@ -562,7 +796,7 @@ Epreuve orale d'une durée de 1 heure et 35 minutes :
 
 - entretien : 20 minutes maximum.
 
-La commission d'évaluation est composée d'un professeur de mathématiques enseignant de préférence en section de techniciens supérieurs &laquo; Photonique : Technologies et Sciences de la Lumière &raquo;.
+La commission d'évaluation est composée d'un professeur de mathématiques enseignant de préférence en section de techniciens supérieurs "Photonique : Technologies et Sciences de la Lumière".
 
 Les sujets proposés aux candidats doivent être élaborés en amont par les professeurs interrogateurs, sous le contrôle des IA-IPR de mathématiques. Leur résolution peut, sur une ou deux questions, nécessiter ou évoquer une utilisation de logiciels (implantés sur ordinateur ou calculatrice).
 
@@ -590,11 +824,11 @@ Les critères d'évaluation sont ceux définis dans le référentiel de compéte
 
 Ces compétences professionnelles mobilisent les savoirs et les démarches scientifiques ou technologiques.
 
-D'autres compétences (cf. III.1.2 &laquo; blocs de compétences &raquo;) peuvent être mobilisées mais ne sont pas évaluées dans le cadre de cette épreuve.
+D'autres compétences (cf. III.1.2 "blocs de compétences") peuvent être mobilisées mais ne sont pas évaluées dans le cadre de cette épreuve.
 
 Contenu de l'épreuve
 
-Les compétences sont évaluées dans un contexte professionnel conforme aux activités et tâches du pôle &laquo; conception durable d'un système optique photonique &raquo; décrites dans le référentiel des activités professionnelles.
+Les compétences sont évaluées dans un contexte professionnel conforme aux activités et tâches du pôle "conception durable d'un système optique photonique" décrites dans le référentiel des activités professionnelles.
 
 Les moyens et ressources associés aux activités professionnelles seront mises à disposition des candidats.
 
@@ -610,13 +844,13 @@ Partie 1 : pré-étude d'un système optique photonique
 
 La première partie écrite d'une durée de 2 h 30 a pour objectif d'évaluer les compétences C01 à C05 s'appuyant sur les connaissances du domaine physique-chimie. Cette première partie compte pour la moitié de la note de l'épreuve.
 
-La correction des copies est assurée par des enseignants et formateurs de physique-chimie intervenants en STS &laquo; Photonique : Technologies et Sciences de la Lumière &raquo; à partir de la grille nationale d'évaluation, fournie par l'inspection générale de l'éducation, du sport et de la recherche, et diffusée par les services rectoraux des examens et concours.
+La correction des copies est assurée par des enseignants et formateurs de physique-chimie intervenants en STS "Photonique : Technologies et Sciences de la Lumière" à partir de la grille nationale d'évaluation, fournie par l'inspection générale de l'éducation, du sport et de la recherche, et diffusée par les services rectoraux des examens et concours.
 
 Partie 2 : conception durable d'un système optique photonique
 
 La seconde partie écrite d'une durée 3 heures a pour objectif d'évaluer les compétences C01 à C05 s'appuyant sur les connaissances de sciences industrielles de l'ingénieur. Cette seconde partie compte pour la moitié de la note de l'épreuve.
 
-La correction des copies est assurée par des enseignants et formateurs de sciences industrielles de l'ingénieur intervenants en STS &laquo; Photonique : Technologies et Sciences de la Lumière &raquo; à partir de la grille nationale d'évaluation, fournie par l'inspection générale de l'éducation, du sport et de la recherche, et diffusée par les services rectoraux des examens et concours.
+La correction des copies est assurée par des enseignants et formateurs de sciences industrielles de l'ingénieur intervenants en STS "Photonique : Technologies et Sciences de la Lumière" à partir de la grille nationale d'évaluation, fournie par l'inspection générale de l'éducation, du sport et de la recherche, et diffusée par les services rectoraux des examens et concours.
 
 ÉPREUVE E5
 
@@ -642,7 +876,7 @@ Les critères d'évaluation sont ceux définis dans le référentiel de compéte
 
 Ces compétences professionnelles mobilisent les savoirs et les démarches scientifiques ou technologiques.
 
-D'autres compétences (cf. III.1.2 &laquo; blocs de compétences &raquo;) peuvent être mobilisées mais ne sont pas évaluées dans le cadre de cette épreuve.
+D'autres compétences (cf. III.1.2 "blocs de compétences") peuvent être mobilisées mais ne sont pas évaluées dans le cadre de cette épreuve.
 
 Ces compétences professionnelles permettent de travailler étroitement les deux champs disciplinaires que sont la physique-chimie et les sciences et techniques industrielles. Le projet pédagogique permettra de trouver les modalités pertinentes à cette collaboration.
 
@@ -650,7 +884,7 @@ Elles mobilisent également des connaissances, capacités et compétences de la 
 
 Contenu de l'épreuve
 
-Les compétences sont évaluées dans un contexte professionnel conforme aux activités et tâches du pôle &laquo; Prototypage et industrialisation durable d'un système optique photonique &raquo; décrites dans le référentiel des activités professionnelles.
+Les compétences sont évaluées dans un contexte professionnel conforme aux activités et tâches du pôle "Prototypage et industrialisation durable d'un système optique photonique" décrites dans le référentiel des activités professionnelles.
 
 Les moyens et ressources associés aux activités professionnelles seront mis à disposition des candidats.
 
@@ -658,13 +892,13 @@ Modalités d'évaluation
 
 Forme ponctuelle
 
-Cette épreuve, composée de deux parties, prend appui sur un projet industriel collaboratif de &laquo; Prototypage et industrialisation durable d'un système optique photonique &raquo; encadré par un enseignant de physique-chimie et des enseignants en sciences et techniques industrielles des domaines de l'optique de l'ingénierie mécanique et ingénierie électrique de l'équipe pédagogique de l'établissement considéré. Chaque candidat devra consacrer 120 heures à cette activité de réalisation et mise en service d'un prototype.
+Cette épreuve, composée de deux parties, prend appui sur un projet industriel collaboratif de "Prototypage et industrialisation durable d'un système optique photonique" encadré par un enseignant de physique-chimie et des enseignants en sciences et techniques industrielles des domaines de l'optique de l'ingénierie mécanique et ingénierie électrique de l'équipe pédagogique de l'établissement considéré. Chaque candidat devra consacrer 120 heures à cette activité de réalisation et mise en service d'un prototype.
 
 L'organisation de l'épreuve est définie dans la circulaire nationale d'organisation d'examen.
 
 Partie 1 : conduite de projet - coefficient 4
 
-Cette partie se déroule en entreprise (apprentis) ou dans le centre d'examen (établissement dispensant la formation BTS &laquo; Photonique : Technologies et Sciences de la Lumière &raquo;)
+Cette partie se déroule en entreprise (apprentis) ou dans le centre d'examen (établissement dispensant la formation BTS "Photonique : Technologies et Sciences de la Lumière")
 
 Sont évaluées dans cette partie, les compétences suivantes :
 
@@ -674,7 +908,7 @@ Sont évaluées dans cette partie, les compétences suivantes :
 
 - C10 - Mettre en œuvre les procédés de production ;
 
-- et une partie de la compétence C07 - Extraire, exploiter, produire et synthétiser les informations nécessaires à la réalisation des tâches, à savoir &laquo; exploiter et produire &raquo;.
+- et une partie de la compétence C07 - Extraire, exploiter, produire et synthétiser les informations nécessaires à la réalisation des tâches, à savoir "exploiter et produire".
 
 La commission d'évaluation est composée d'un enseignant de physique-chimie et des enseignants en sciences et techniques industrielles des domaines ingénierie mécanique et ingénierie électrique de l'équipe pédagogique de l'établissement considéré.
 
@@ -698,7 +932,7 @@ Sont évaluées dans cette situation :
 
 - C08 - Choisir les procédés de production ;
 
-- une partie de la compétence C07 - Extraire, exploiter, produire et synthétiser les informations nécessaires à la réalisation des tâches, à savoir &laquo; extraire et synthétiser &raquo;.
+- une partie de la compétence C07 - Extraire, exploiter, produire et synthétiser les informations nécessaires à la réalisation des tâches, à savoir "extraire et synthétiser".
 
 La commission d'examen est composée :
 
@@ -734,11 +968,11 @@ Le candidat présente le résultat de son travail grâce à un dossier comprenan
 
 Ce dossier sera transmis au centre d'examen, au moins quinze jours avant la date de l'épreuve selon les modalités définies par le service des examens et concours de l'académie en charge de l'organisation des sessions de ce diplôme.
 
-Le contrôle de conformité de ce dossier est effectué selon des modalités définies par les autorités académiques avant l'interrogation. La constatation de non-conformité du dossier entraîne l'attribution de la mention &laquo; non valide &raquo; à l'épreuve. Le candidat, même présent à la date de l'épreuve, ne peut être interrogé. En conséquence, le diplôme ne peut lui être délivré.
+Le contrôle de conformité de ce dossier est effectué selon des modalités définies par les autorités académiques avant l'interrogation. La constatation de non-conformité du dossier entraîne l'attribution de la mention "non valide" à l'épreuve. Le candidat, même présent à la date de l'épreuve, ne peut être interrogé. En conséquence, le diplôme ne peut lui être délivré.
 
 En l'absence le jour de l'interrogation du dossier de projet du candidat, le jury interroge néanmoins le candidat sur son projet.
 
-L'attribution de la note est réservée dans l'attente d'une nouvelle vérification mise en œuvre selon des modalités définies par les autorités académiques.Si, après vérification, le dossier de projet réalisé par le candidat est déclaré non-conforme, la mention &laquo; non valide &raquo; est portée à l'épreuve.
+L'attribution de la note est réservée dans l'attente d'une nouvelle vérification mise en œuvre selon des modalités définies par les autorités académiques.Si, après vérification, le dossier de projet réalisé par le candidat est déclaré non-conforme, la mention "non valide" est portée à l'épreuve.
 
 La non-conformité du dossier de projet réalisé par le candidat peut être prononcée dès lors qu'une des situations suivantes est constatée :
 
@@ -786,11 +1020,11 @@ Les critères d'évaluation sont ceux définis dans le référentiel de compéte
 
 Ces compétences professionnelles mobilisent des connaissances, capacités et compétences de la démarche scientifique développées en physique-chimie et de la démarche technologique développées en STI y compris dans le cadre d'un co-enseignement.
 
-D'autres compétences (cf. III.1.2 &laquo; blocs de compétences &raquo;) peuvent être mobilisées mais ne sont pas évaluées dans le cadre de cette épreuve.
+D'autres compétences (cf. III.1.2 "blocs de compétences") peuvent être mobilisées mais ne sont pas évaluées dans le cadre de cette épreuve.
 
 Contenu de l'épreuve
 
-Les compétences sont évaluées dans un contexte professionnel conforme aux activités et tâches du pôle &laquo; Contrôle et métrologie d'un système optique photonique &raquo; décrites dans le référentiel des activités professionnelles.
+Les compétences sont évaluées dans un contexte professionnel conforme aux activités et tâches du pôle "Contrôle et métrologie d'un système optique photonique" décrites dans le référentiel des activités professionnelles.
 
 Les moyens et ressources associés aux activités professionnelles seront mis à disposition des candidats.
 
@@ -822,7 +1056,7 @@ Ensuite, la commission d'évaluation propose une évaluation des compétences mo
 
 Forme ponctuelle
 
-L'épreuve orale, d'une durée de 1 heure, se déroule dans le centre d'examen (établissement dispensant la formation STS &laquo; Photonique : Technologies et Sciences de la Lumière &raquo;) ou en centre de formation.
+L'épreuve orale, d'une durée de 1 heure, se déroule dans le centre d'examen (établissement dispensant la formation STS "Photonique : Technologies et Sciences de la Lumière") ou en centre de formation.
 
 1. Préparation de 2 heures, non évaluée, lors de laquelle le candidat, guidé par un questionnement relatif aux compétences visées par l'épreuve, élabore le support de l'oral ;
 
@@ -856,11 +1090,11 @@ L'épreuve a pour objectif l'évaluation de tout ou partie des compétences suiv
 
 Les critères d'évaluation sont ceux définis dans le référentiel de compétences. Ils s'appuient sur toutes les dimensions (savoirs, savoir-faire, savoir-être) de la compétence.
 
-D'autres compétences (cf. III.1.2 &laquo; blocs de compétences &raquo;) peuvent être mobilisées mais ne sont pas évaluées dans le cadre de cette épreuve.
+D'autres compétences (cf. III.1.2 "blocs de compétences") peuvent être mobilisées mais ne sont pas évaluées dans le cadre de cette épreuve.
 
 Contenu de l'épreuve
 
-Les compétences sont évaluées dans un contexte professionnel conforme aux activités et tâches du pôle &laquo; Assistance technique et maintenance d'un système optique photonique &raquo; décrites dans le référentiel des activités professionnelles.
+Les compétences sont évaluées dans un contexte professionnel conforme aux activités et tâches du pôle "Assistance technique et maintenance d'un système optique photonique" décrites dans le référentiel des activités professionnelles.
 
 Les moyens et ressources associés aux activités professionnelles seront mis à disposition des candidats.
 
@@ -892,7 +1126,7 @@ Ensuite, la commission d'évaluation propose une évaluation des compétences mo
 
 Forme ponctuelle
 
-L'épreuve pratique, d'une durée de 3 heures, se déroule dans le centre d'examen (établissement dispensant la formation STS &laquo; Photonique : Technologies et Sciences de la Lumière &raquo;) ou en centre de formation.
+L'épreuve pratique, d'une durée de 3 heures, se déroule dans le centre d'examen (établissement dispensant la formation STS "Photonique : Technologies et Sciences de la Lumière") ou en centre de formation.
 
 Il sera possible au candidat de se rendre dans le centre avant l'épreuve afin de prendre en main le système envisagé.
 
@@ -960,13 +1194,13 @@ Epreuve orale, 20 minutes sans préparation.
 
 Objectifs
 
-Cette épreuve vise à identifier les compétences, connaissances et aptitudes acquises par le candidat dans l'exercice des activités mentionnées à l'article L. 611-9 du code de l'éducation et qui relèvent de celles prévues par le référentiel d'évaluation du BTS &laquo; Photonique : Technologies et Sciences de la Lumière &raquo; pour laquelle le candidat demande sa reconnaissance &laquo; engagement étudiant &raquo;.
+Cette épreuve vise à identifier les compétences, connaissances et aptitudes acquises par le candidat dans l'exercice des activités mentionnées à l'article L. 611-9 du code de l'éducation et qui relèvent de celles prévues par le référentiel d'évaluation du BTS "Photonique : Technologies et Sciences de la Lumière" pour laquelle le candidat demande sa reconnaissance "engagement étudiant".
 
 Cela peut concerner :
 
 - l'approfondissement des compétences évaluées à l'épreuve E5 ;
 
-- le développement de compétences spécifiques à un domaine ou à une activité professionnelle particulière en lien avec le référentiel du BTS &laquo; Photonique : Technologies et Sciences de la Lumière &raquo; et plus particulièrement s'agissant des compétences évaluées dans l'épreuve E5.
+- le développement de compétences spécifiques à un domaine ou à une activité professionnelle particulière en lien avec le référentiel du BTS "Photonique : Technologies et Sciences de la Lumière" et plus particulièrement s'agissant des compétences évaluées dans l'épreuve E5.
 
 Critères d'évaluation
 
@@ -1024,4 +1258,4 @@ La composition de la commission d'évaluation est la même que celle de l'épreu
 
 NOTA :
 
-Conformément à l'article 7 de l'arrêté du 24 juin 2025 (NOR : MENS2514040A), ces dispositions s'appliquent à compter de la session d'examen 2026.
+Conformément à l'article 3 de l'arrêté du 29 janvier 2026 (NOR : ESRS2536010A), ces dispositions s'appliquent à compter de la session d'examen 2026.
