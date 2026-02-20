@@ -941,3 +941,15 @@ Service concerné :
 Division surveillance de Montpellier |
 
 Du 1er novembre 2025 au 31 octobre 2026 |
+
+Opération :
+
+Transfert de l'activité du service de viticulture de Blaye vers le service de viticulture de Libourne et fermeture du service de Blaye.
+
+Service concerné :
+
+Service de viticulture de Blaye.
+
+|
+
+Du 1er février 2026 au 31 janvier 2027 |
