@@ -6,6 +6,8 @@ II.-Les actifs et les passifs d'impôts différés sont pris en compte dans la l
 
 Les variations liées à une correction de la valeur ou à la reconnaissance comptable d'un actif d'impôt différé ne sont pas prises en compte.
 
+Les actifs et les passifs d'impôts différés se rapportant à un régime fiscal agrégé des sociétés étrangères contrôlées ne sont toutefois pas pris en compte pour la détermination du taux effectif d'imposition dans un Etat ou un territoire au titre d'un exercice de transition et des exercices ultérieurs.
+
 III.-A.-Par dérogation au 5° de l'article 223 VU quater, les actifs d'impôts différés relatifs aux crédits d'impôt qui figurent dans les états financiers consolidés de l'entité constitutive à l'ouverture de l'exercice de transition sont pris en compte pour la détermination du taux effectif d'imposition au titre de l'exercice de transition et, le cas échéant, des exercices ultérieurs.
 
 B.-Lorsque le taux d'imposition appliqué pour déterminer les actifs d'impôts différés de l'entité constitutive mentionnés au A du présent III est inférieur au taux minimum d'imposition, le montant des actifs d'impôts différés est égal aux actifs d'impôts différés qui figurent dans les états financiers consolidés de l'entité constitutive.
@@ -21,3 +23,5 @@ IV.-Par dérogation au I, les actifs d'impôts différés afférents à des él�
 NOTA :
 
 Conformément au A du IV de l’article 33 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux exercices ouverts à compter du 31 décembre 2023.
+
+Conformément au A du II de l’article 105 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, ces dispositions, dans leur rédaction issue du J du I dudit article, s'appliquent aux exercices clos à compter du lendemain de la publication de ladite loi.

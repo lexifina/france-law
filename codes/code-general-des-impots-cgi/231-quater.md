@@ -60,7 +60,7 @@ c) Pour les locaux de stockage : 0,22 € ;
 
 d) Pour les surfaces de stationnement : 0,15 €.
 
-Ces tarifs sont actualisés au 1er janvier de chaque année en fonction de la prévision de l'indice des prix à la consommation, hors tabac, retenue dans la loi de finances de l'année. La valeur résultant de cette revalorisation est arrondie, s'il y a lieu, au centime d'euro supérieur.
+Ces tarifs sont actualisés au 1er janvier de chaque année en fonction de la prévision de l'indice des prix à la consommation, hors tabac, retenue dans le projet de loi de finances de l'année. La valeur résultant de cette revalorisation est arrondie, s'il y a lieu, au centime d'euro supérieur.
 
 VII. - Pour l'application des V et VI, les parcs d'exposition et locaux à usage principal de congrès sont assimilés à des locaux de stockage.
 
@@ -71,7 +71,3 @@ Les modalités de dépôt de la déclaration de la taxe sont fixées par arrêt�
 IX. - La taxe est acquittée lors du dépôt de la déclaration. Elle est recouvrée et contrôlée selon les procédures et sous les mêmes sanctions, garanties et privilèges que les taxes sur le chiffre d'affaires. Les réclamations sont présentées, instruites et jugées selon les règles applicables à ces taxes.
 
 X. - Le produit annuel de la taxe est affecté à l'établissement public local “ Société de la Ligne Nouvelle Provence Côte d'Azur ” créé à l'article 1er de l'ordonnance n° 2022-306 du 2 mars 2022 relative à la Société de la Ligne Nouvelle Provence Côte d'Azur et pour le financement de la mission définie au premier alinéa du II du même article 1er.
-
-NOTA :
-
-Conformément au XI de l’article 42 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de ce même article 42, entrent en vigueur le 1er janvier 2026.
