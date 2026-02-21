@@ -2,7 +2,7 @@
 
 ANNEXE 2
 
-Liste et répartition des compétences des établissements et associations affiliées
+LISTE ET RÉPARTITION DES COMPÉTENCES DES ÉTABLISSEMENTS ET ASSOCIATIONS AFFILIÉES
 
 Nom |
 
@@ -72,7 +72,9 @@ X |
 
 X |
 
-France et étranger |
+France
+
+et étranger |
 
 Association des sauveteurs secouristes de la Cotière |
 
@@ -1110,9 +1112,9 @@ Natation sauvetage du Lacydon |
 
 |
 
-|
+X |
 
-|
+X |
 
 |
 
@@ -1780,7 +1782,7 @@ Périgord sauvetage secourisme |
 
 |
 
-X |
+|
 
 X |
 
@@ -3060,11 +3062,11 @@ Suricates secourisme et sauvetage côtier Le Porge |
 
 |
 
-X |
+|
 
-X |
+|
 
-X |
+|
 
 |
 
@@ -3092,11 +3094,11 @@ Us Le Bouscat sauvetage |
 
 |
 
-X |
+|
 
-X |
+|
 
-X |
+|
 
 |
 
@@ -3322,11 +3324,11 @@ X |
 
 X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
 X |
 
@@ -3392,9 +3394,9 @@ Association des secouristes du pays d'Argentré |
 
 |
 
-X |
+|
 
-X |
+|
 
 X |
 
@@ -3424,9 +3426,9 @@ Association de secourisme du pays de Fougères |
 
 |
 
-|
+X |
 
-|
+X |
 
 X |
 
@@ -3450,11 +3452,11 @@ X |
 
 X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
 X |
 
@@ -4076,7 +4078,7 @@ X |
 
 Biscarrosse olympique sauvetage et secourisme |
 
-38 |
+40 |
 
 |
 
@@ -4104,7 +4106,7 @@ X |
 
 X |
 
-38 |
+40 |
 
 Comité départemental des Landes |
 
@@ -5138,7 +5140,11 @@ Comité départemental du Morbihan de la FFSS |
 
 |
 
-|
+X |
+
+X |
+
+X |
 
 X |
 
@@ -5146,11 +5152,7 @@ X |
 
 X |
 
-|
-
-|
-
-|
+X |
 
 X |
 
@@ -5172,21 +5174,21 @@ Guidel sauvetage Secourisme |
 
 |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
 X |
 
@@ -5386,9 +5388,7 @@ X |
 
 59 |
 
-Association Synthoise de Sauvetage
-
-Aquatique |
+Association Synthoise de Sauvetage Aquatique |
 
 59 |
 
@@ -6172,11 +6172,11 @@ X |
 
 X |
 
-X |
+|
 
-X |
+|
 
-X |
+|
 
 X |
 
@@ -6968,9 +6968,9 @@ Centre de formation en prévention et secourisme |
 
 |
 
-X |
+|
 
-X |
+|
 
 |
 
@@ -7094,11 +7094,11 @@ Société de sauvetage de Sciez Anthy Margencel |
 
 |
 
-X |
+|
 
-X |
+|
 
-X |
+|
 
 |
 
@@ -7164,11 +7164,11 @@ X |
 
 X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
 X |
 
@@ -7702,11 +7702,11 @@ Ecole de sauvetage et secourisme de l'ouest |
 
 |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
 |
 
@@ -8372,7 +8372,7 @@ Association de formation au secours aquatique |
 
 |
 
-|
+X |
 
 X |
 
@@ -9324,6 +9324,38 @@ X |
 
 971 |
 
+Association les amis de la natation |
+
+971 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+X |
+
+X |
+
+X |
+
+X |
+
+971 |
+
 Association sauveteur secouriste de la Guadeloupe |
 
 971 |
@@ -9590,11 +9622,11 @@ Association Réunionnaise de la F.F.S.S. |
 
 |
 
-X |
+|
 
-X |
+|
 
-X |
+|
 
 |
 
@@ -9622,11 +9654,11 @@ Association prévention sauvetage et secourisme |
 
 |
 
-X |
+|
 
-X |
+|
 
-X |
+|
 
 |
 
@@ -9654,11 +9686,11 @@ Comité départemental Réunion de la FFSS |
 
 |
 
-X |
+|
 
-X |
+|
 
-X |
+|
 
 |
 
@@ -9686,7 +9718,7 @@ Association run west sauvetage côtier |
 
 |
 
-|
+X |
 
 X |
 
@@ -9752,9 +9784,9 @@ Tama moana sauvetage et secourisme |
 
 |
 
-X |
+|
 
-X |
+|
 
 |
 
@@ -9782,11 +9814,11 @@ Action secours oxygène |
 
 |
 
-X |
+|
 
-X |
+|
 
-X |
+|
 
 |
 
