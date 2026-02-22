@@ -4,6 +4,8 @@ MODALITÉS DE RÉALISATION DES DÉPISTAGES RÉALISÉS DANS LE CADRE DES MISES SO
 
 Les prélèvements officiels réalisés à l'occasion d'investigations épidémiologiques réalisées dans le cadre de la mise sous surveillance ou le contrôle renforcé d'un troupeau sont a minima identiques à ceux décrits ci-dessous.
 
+Les recherches effectuées dans les prélèvements réalisés concernent tous les sérotypes de Salmonella.
+
 1. Troupeaux de reproduction au stade élevage et ponte
 
 Les prélèvements sont constitués pour chaque troupeau à contrôler :
@@ -42,7 +44,7 @@ de matières fécales à prélever dans un point différent du lieu d'hébergeme
 
 260 |
 
-1000 ou plus |
+1 000 ou plus |
 
 300 |
 
@@ -112,7 +114,7 @@ En fonction des informations recueillies auprès de l'exploitant, notamment à p
 
 - de six paires de chaussettes replacées chacune dans leur emballage d'origine et envoyées séparément au laboratoire. Ces paires de chaussettes sont soumises séparément à l'analyse ;
 
-- de deux chiffonnettes destinées à récolter les poussières du tapis à œufs du lieu d'hébergement, et replacées chacune dans le contenant d'origine. Ces chiffonnettes sont soumises séparément à l'analyse ;
+- - de deux chiffonnettes destinées à récolter les poussières du tapis à œufs du lieu d'hébergement, et replacées chacune dans le contenant d'origine. Ces chiffonnettes sont soumises séparément à l'analyse ;
 
 - de deux chiffonnettes destinées à récolter les poussières, frottées sur le maximum de surfaces situées à l'intérieur du lieu d'hébergement, et replacées chacune dans le contenant d'origine. Ces chiffonnettes sont soumises séparément à l'analyse ;
 
