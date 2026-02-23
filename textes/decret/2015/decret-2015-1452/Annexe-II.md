@@ -42,11 +42,11 @@ Article R. 211-21
 
 |
 
-Classement des hébergements touristiques marchands (hôtels, résidences de tourisme, villages résidentiels de tourisme, villages de vacances, terrains de camping, parcs résidentiels de loisirs) (par le groupement d'intérêt économique Atout France, agence de développement touristique de la France mentionné à l'article L. 141-2 du code du tourisme)
+Classement des hébergements touristiques marchands (hôtels auberges collectives, résidences de tourisme, villages résidentiels de tourisme, villages de vacances, terrains de camping, parcs résidentiels de loisirs) (par le groupement d'intérêt économique Atout France, agence de développement touristique de la France mentionné à l'article L. 141-2 du code du tourisme)
 
 |
 
-Articles D. 311-8, D. 321-6, D. 323-7, D. 325-7, D. 332-4 et D. 333-5-3
+Articles D. 311-8 D. 312-6, D. 321-6, D. 323-7, D. 325-7, D. 332-4 et D. 333-5-3
 
 Arrêté du 23 décembre 2009 modifié fixant les normes et la procédure de classement des hébergements touristiques marchands (sauf meublés)
 
