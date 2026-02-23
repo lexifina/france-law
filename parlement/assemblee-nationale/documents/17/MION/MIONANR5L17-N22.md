@@ -1,0 +1,12 @@
+# motion de censure Motion de censure 49.2
+
+- Type : Motion
+- Sous-type : de censure de l'article 49-2 de la Constitution
+- Dénomination : Motion
+- Titre court : Motion de censure 49.2
+- Déposé le : 2026-02-23
+- Publié le : 2026-02-23
+- Dossier : DLR5L17N53821
+- Auteurs : M. Jean-Philippe Tanguy (auteur), Mme Bénédicte Auzanot (cosignataire), M. Guillaume Bigot (cosignataire), M. Bruno Bilde (cosignataire), Mme Sophie Blanc (cosignataire), M. Frédéric Boccaletti (cosignataire), M. Anthony Boulogne (cosignataire), M. Jorys Bovet (cosignataire), M. Bruno Clavet (cosignataire), M. Frédéric Falcon (cosignataire), M. Guillaume Florquin (cosignataire), M. Emmanuel Fouquart (cosignataire), M. Thierry Frappé (cosignataire), M. Julien Gabarron (cosignataire), Mme Stéphanie Galzy (cosignataire), M. Jonathan Gery (cosignataire), M. Frank Giletti (cosignataire), M. Yoann Gillet (cosignataire), M. Christian Girard (cosignataire), M. Antoine Golliot (cosignataire), Mme Géraldine Grangier (cosignataire), Mme Monique Griseti (cosignataire), M. Julien Guibert (cosignataire), M. Michel Guiniot (cosignataire), M. Jordan Guitton (cosignataire), Mme Marine Hamelet (cosignataire), M. Timothée Houssin (cosignataire), M. Laurent Jacobelli (cosignataire), M. Pascal Jenft (cosignataire), M. Alexis Jolly (cosignataire), Mme Sylvie Josserand (cosignataire), Mme Hélène Laporte (cosignataire), Mme Julie Lechanteux (cosignataire), Mme Katiana Levavasseur (cosignataire), M. René Lioret (cosignataire), Mme Christine Loir (cosignataire), M. Aurélien Lopez-Liguori (cosignataire), M. Philippe Lottiaux (cosignataire), M. David Magnier (cosignataire), Mme Claire Marais-Beuil (cosignataire), Mme Alexandra Masson (cosignataire), M. Bryan Masson (cosignataire), M. Kévin Mauvieux (cosignataire), M. Thierry Perez (cosignataire), M. Kévin Pfeffer (cosignataire), Mme Lisette Pollet (cosignataire), M. Stéphane Rambaud (cosignataire), Mme Angélique Ranc (cosignataire), M. Julien Rancoule (cosignataire), M. Matthias Renault (cosignataire), Mme Catherine Rimbert (cosignataire), M. Joseph Rivière (cosignataire), Mme Laurence Robert-Dehault (cosignataire), Mme Béatrice Roullaud (cosignataire), Mme Sophie-Laurence Roy (cosignataire), Mme Anaïs Sabatini (cosignataire), M. Alexandre Sabatou (cosignataire), M. Philippe Schreck (cosignataire), M. Lionel Tivoli (cosignataire), M. Antoine Villedieu (cosignataire)
+- Identifiant : MIONANR5L17-N22
+- Législature : 17
