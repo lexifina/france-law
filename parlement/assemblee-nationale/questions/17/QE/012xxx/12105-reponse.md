@@ -1,0 +1,9 @@
+# Réponse à la question n° 12105
+
+- Question : [12105](12105.md) — Question n° 12105 — Conditions de non-renouvellement des salariés intérimaires
+
+## Réponse
+
+*JO du 2026-02-24, page 1765*
+
+La mise à disposition temporaire d'un salarié par une entreprise de travail temporaire répond à l'exécution d'une mission précise et limitée dans le temps, pour des motifs strictement encadrés par le code du travail (remplacement, accroissement temporaire d'activité, travaux saisonniers). Bien qu'il réponde à un besoin de flexibilité des entreprises, le travail temporaire fait l'objet d'un encadrement juridique strict afin de garantir la sécurité contractuelle des salariés. Le contrat de mission doit, sauf dérogation, fixer un terme précis, sa durée étant plafonnée (18 mois en règle générale, avec des durées réduites ou allongées dans des cas limités). La période d'essai est également strictement encadrée. Le travailleur intérimaire a, en outre, droit à des protections en cas de rupture anticipée du contrat et au versement d'une indemnité de fin de mission égale à 10 % de sa rémunération brute, sauf exceptions prévues par la loi (dite « prime de précarité »). Si le code du travail ne prévoit pas de délai minimal d'information sur les suites données à une mission, les entreprises sont tenues d'organiser leurs pratiques dans le respect de l'exécution de bonne foi du contrat afin de permettre aux salariés d'anticiper la suite de leur parcours professionnel, tout en assurant la continuité de l'activité. L'ensemble de ces règles vise à garantir un équilibre entre la flexibilité nécessaire aux entreprises et la sécurisation des parcours des intérimaires. Fixer un délai impératif d'information général pourrait ainsi engendrer des effets indésirables. C'est pourquoi il est préférable de s'en remettre au dialogue social pour identifier les équilibres les plus appropriés dans chaque entreprise et branche d'activité.
