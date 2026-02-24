@@ -1,0 +1,9 @@
+# Réponse à la question n° 11065
+
+- Question : [11065](11065.md) — Question n° 11065 — Prise en compte des périodes d'arrêt maladie dans le calcul du droit à pension
+
+## Réponse
+
+*JO du 2026-02-24, page 1710*
+
+Le dispositif de validation gratuite de trimestres permet de prendre en compte dans la durée de services des fonctionnaires certaines périodes n'emportant pas l'accomplissement de services effectifs. L'article L. 9 du code des pensions civiles et militaires de retraite (CPCMR) définit ce dispositif. Son dernier alinéa dispose en outre que : « en ce qui concerne les fonctionnaires civils, et hormis les positions prévues aux articles 34 et 45 de la loi n° 84-16 du 11 janvier 1984 précitée, le temps passé dans une position ne comportant pas l'accomplissement de services effectifs n'est compté comme service effectif que dans la limite de cinq ans et sous réserve que les bénéficiaires subissent pendant ce temps, sur leur dernier traitement d'activité, les retenues prescrites par le présent code. […] ». L'article 34 de la loi n° 84-16 du 11 janvier 1984, désormais abrogé et codifié au code général de la fonction publique, concernait différentes périodes de congés, notamment les périodes de congé maladie ordinaire, congé longue maladie et congé de longue durée. Aussi, les congés maladie échappent à la limite de cinq ans et sont pris en compte entièrement dans le calcul du droit à pension des fonctionnaires. En tout état de cause, les congés pour raisons de santé des fonctionnaires sont considérés comme des services effectifs, pris en compte au titre de l'article L. 5 du CPCMR. La modification, à l'article 99 de la loi n° 2025-1403 du 30 décembre 2025 de financement de la sécurité sociale pour 2026, du dernier alinéa de l'article L. 9 précité, vient confirmer l'entière prise en compte des périodes de congés maladie.
