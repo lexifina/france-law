@@ -1,0 +1,9 @@
+# Réponse à la question n° 8298
+
+- Question : [8298](8298.md) — Question n° 8298 — Passeport du civisme
+
+## Réponse
+
+*JO du 2026-02-24, page 1680*
+
+Le ministère de l'éducation nationale n'envisage pas l'extension à tout le territoire national du dispositif porté par l'association « Passeport du civisme ». Si les enseignants disposent d'une liberté pédagogique leur permettant de choisir les supports pédagogiques qu'ils estiment adaptés, l'association ne peut se prévaloir d'aucun soutien du ministère, qui lui a refusé l'agrément en décembre 2024 et lui a demandé de retirer le logo du ministère sur les livrets consultables sur son site internet, qu'elle utilisait sans autorisation. Dans la mesure où les contenus sont librement adaptés par les collectivités territoriales au contexte local, la diversité des supports proposés par l'association ne permet pas au ministère d'apprécier l'ensemble des passeports existants ou à venir. En outre, de nombreuses activités validées en dehors du temps scolaire ne bénéficient pas de l'expertise pédagogique des enseignants. Le passeport du civisme ne s'articule pas avec les programmes d'enseignement moral et civique (EMC), tant dans les contenus d'enseignement que dans les démarches proposées. Les thèmes inscrits au cœur de ces programmes, comme le principe de laïcité, la lutte contre les discriminations (à l'exception du handicap), l'État de droit et le fonctionnement de la justice, sont très rarement abordés et de façon superficielle. Le passeport du civisme ne propose pas d'activités pédagogiques comme l'étude critique de documents permettant d'étudier les notions en profondeur. Il s'inscrit également trop peu dans les dispositifs nationaux d'éducation à la citoyenneté organisés par le ministère (concours scolaires, projets transversaux, etc.).
