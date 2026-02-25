@@ -3372,6 +3372,8 @@ Conformément à l’article 6 de l’arrêté du 26 juillet 2017 (NOR : TRER172
 
 - Luminaire à modules LED avec dispositif de contrôle pour les parties communes / Fiche d’opération standardisée n° BAR-EQ-110
 
+Conformément à l’article 1er de l’arrêté du 23 février 2026 (NOR : ECOR2605173A), la fiche d’opération standardisée BAR-EQ-110 "Luminaire à modules LED avec dispositif de contrôle pour les parties communes", est supprimée.
+
 - Lampe à LED de classe A+ / Fiche d’opération standardisée n° BAR-EQ-111 (Abrogée à compter du 1er avril 2022)
 
 Conformément à l’article 1er de l’arrêté du 4 mars 2016 (NOR : DEVR1606276A), la fiche d’opération standardisée est remplacée par la version figurant en annexe dudit arrêté, à compter du 1er juillet 2016.
@@ -4229,3 +4231,7 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0179 du 04/08/2022, texte n° 35, accessible à l’adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=5gAfOAZyNgIh7Fm-Ar17lvaib6Ml9xQU-us85fgyoEk=
+
+NOTA :
+
+Conformément à l’article 2 de l’arrêté du 23 février 2026 (NOR : ECOR2605173A), les dispositions des fiches d'opérations standardisées BAR-EQ-110 "Luminaire à modules LED avec dispositif de contrôle pour les parties communes", BAT-EQ-127 "Luminaire à modules LED" et IND-BA-116 "Luminaires à modules LED", dans leurs différentes versions, s'appliquent aux opérations incluses dans une liste transmise, dans un délai de dix jours calendaires à compter de la date de publication de l'arrêté précité, par le demandeur de certificats au ministre chargé de l'énergie, suivant les modèles intitulés respectivement "Modèle Tableau de recensement des engagements BAR-EQ-110", "Modèle Tableau de recensement des engagements BAT-EQ-127" et "Modèle Tableau de recensement des engagements IND-BA-116", établis par la direction générale de l'énergie et du climat et mis à disposition sur le site internet du ministère. Toutefois, s'agissant uniquement des opérations dont les bénéficiaires sont l'Etat, les collectivités territoriales, les groupements de collectivités territoriales et leurs établissements publics, les listes relatives à ces opérations peuvent être transmises dans un délai de vingt et un jours calendaires à compter de la date de publication de l'arrêté précité.

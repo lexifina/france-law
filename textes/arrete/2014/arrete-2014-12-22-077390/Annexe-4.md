@@ -240,6 +240,8 @@ Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1
 
 Conformément à l’article 2 de l’arrêté du 17 décembre 2021 (NOR : TRER2137033A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe D dudit arrêté, à compter du 1er avril 2022.
 
+Conformément à l’article 1er de l’arrêté du 23 février 2026 (NOR : ECOR2605173A), la fiche d’opération standardisée IND-BA-116 "Luminaires à modules LED" est supprimée.
+
 - Isolation des murs (France d’outre-mer) / Fiche d’opération standardisée n° IND-EN-101
 
 Opération n° IND-EN-102
@@ -666,4 +668,4 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 NOTA :
 
-Conformément à l'article 3 de l’arrêté du 18 août 2025 (NOR : ECOR2522127A), ces dispositions, dans leur rédaction résultant de l’article précité, entrent en vigueur à compter du 1er novembre 2025.
+Conformément à l’article 2 de l’arrêté du 23 février 2026 (NOR : ECOR2605173A), les dispositions des fiches d'opérations standardisées BAR-EQ-110 "Luminaire à modules LED avec dispositif de contrôle pour les parties communes", BAT-EQ-127 "Luminaire à modules LED" et IND-BA-116 "Luminaires à modules LED", dans leurs différentes versions, s'appliquent aux opérations incluses dans une liste transmise, dans un délai de dix jours calendaires à compter de la date de publication de l'arrêté précité, par le demandeur de certificats au ministre chargé de l'énergie, suivant les modèles intitulés respectivement "Modèle Tableau de recensement des engagements BAR-EQ-110", "Modèle Tableau de recensement des engagements BAT-EQ-127" et "Modèle Tableau de recensement des engagements IND-BA-116", établis par la direction générale de l'énergie et du climat et mis à disposition sur le site internet du ministère. Toutefois, s'agissant uniquement des opérations dont les bénéficiaires sont l'Etat, les collectivités territoriales, les groupements de collectivités territoriales et leurs établissements publics, les listes relatives à ces opérations peuvent être transmises dans un délai de vingt et un jours calendaires à compter de la date de publication de l'arrêté précité.
