@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001766
+
+- Question : [SEQ241001766](seq241001766.md) — Gel des crédits de l'Etat à la réhabilitation du parc social de la métropole européenne de Lille
+
+## Réponse
+
+*Ville et Logement, JO du 2026-02-26, page 1069*
+
+La loi de finances pour 2024 a mobilisé des crédits budgétaires de droit commun du programme 135 sous la forme d'un fonds pour la rénovation énergétique du parc social (FREPS). Ce fonds a été institué pour accompagner les bailleurs sociaux dans la rénovation de leur parc relevant des classes DPE F ou G (passoires thermiques) conformément à la loi Climat et Résilience et dans la continuité des mesures mises en place en 2021 dans le cadre du premier plan de relance de l'économie suite à la crise sanitaire. Une enveloppe de 400 millions d'euros a ainsi été inscrite en loi de finances initiale pour 2024, pour un objectif d'intervention sur 53 000 logements, dont 33 000 faisant l'objet d'une rénovation énergétique et 20 000 d'un changement de vecteur. Toutefois, 200 millions d'euros ont été gelés en juillet 2024 et intégralement reportés en 2025. Délégataire des aides à la pierre, la Métropole Européenne de Lille (MEL) a sollicité au cours de l'année 2024 une enveloppe de crédits de 16 332 945 euros après du Préfet du Nord pour financer un certain nombre de programmes de rénovation énergétique présentés par les bailleurs sociaux. La subdélégation de l'enveloppe de 16 332 945 euros attendue par la MEL n'a pas pu être maintenue sur l'exercice budgétaire 2024. Toutefois, au cours de l'année 2025, cette enveloppe de 16 332 945 euros a pu finalement être subdéléguée par les services de l'Etat à la MEL. La collectivité lilloise a ainsi déposé des crédits nécessaires au financement des programmes de rénovation énergétique présentés par les bailleurs sociaux de son territoire.
