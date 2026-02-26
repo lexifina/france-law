@@ -2,16 +2,24 @@
 
 COMPOSITION DE LA COMMISSION PRÉVUE À L'ARTICLE 3
 
-La commission d'attribution du diplôme de qualification supérieure se compose, pour chaque formation prévue en annexe I, des officiers désignés dans le tableau ci-après :
+La commission d'attribution du diplôme de qualification supérieure mentionnée à l'article 3 se compose des officiers désignés dans le tableau ci-après :
 
-PRÉSIDENCE DE LA COMMISSION - TITULAIRE |
+PRÉSIDENCE
 
-PRÉSIDENCE DE LA COMMISSION - SUPPLÉANT |
+DE LA COMMISSION - TITULAIRE |
+
+PRÉSIDENCE
+
+DE LA COMMISSION - SUPPLÉANT |
 
 MEMBRES |
 
-Le commandant en second de la formation. |
+Le sous-directeur de la gestion du personnel. |
 
-L'officier le plus ancien dans le grade le plus élevé parmi les membres présents. |
+L'adjoint au sous-directeur de la gestion du personnel. |
 
-Trois officiers de la gendarmerie de la formation considérée désignés par le commandant de formation. |
+Le chef du bureau du personnel sous-officier de gendarmerie et volontaire ou son représentant.
+
+Un officier supérieur de l'inspection générale des armées-gendarmerie.
+
+Un officier supérieur de gendarmerie appartenant à la sous-direction de la gestion du personnel. |
