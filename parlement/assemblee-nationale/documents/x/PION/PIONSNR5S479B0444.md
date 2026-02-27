@@ -1,0 +1,11 @@
+# proposition de loi visant à remobiliser le bâti rural
+
+- Type : Proposition de loi
+- Dénomination : Proposition de loi
+- Provenance : Texte Déposé
+- Titre court : visant à remobiliser le bâti rural
+- Déposé le : 2026-02-27
+- Publié le : 2026-06-11
+- Dossier : DLR5L17N53851
+- Auteurs : M. Christian Redon-Sarrazy (auteur), M. Patrick Kanner (auteur), Mme Viviane Artigalas (auteur), Mme Audrey Bélim (auteur), Mme Florence Blatrix Contat (auteur), Mme Nicole Bonnefoy (auteur), M. Denis Bouad (auteur), M. Hussein Bourgi (auteur), Mme Isabelle Briquet (auteur), Mme Colombe Brossel (auteur), Mme Marion Canalès (auteur), M. Rémi Cardon (auteur), Mme Marie-Arlette Carlotti (auteur), M. Christophe Chaillou (auteur), M. Yan Chantrel (auteur), Mme Catherine Conconne (auteur), Mme Hélène Conway-Mouret (auteur), M. Thierry Cozic (auteur), Mme Karine Daniel (auteur), M. Jérôme Darras (auteur), Mme Marie-Pierre de La Gontrie (auteur), M. Gilbert-Luc Devinaz (auteur), M. Vincent Éblé (auteur), Mme Frédérique Espagnac (auteur), M. Sébastien Fagnen (auteur), M. Rémi Féraud (auteur), Mme Corinne Féret (auteur), M. Jean-Luc Fichet (auteur), M. Hervé Gillé (auteur), Mme Laurence Harribey (auteur), M. Olivier Jacquin (auteur), M. Éric Jeansannetas (auteur), M. Patrice Joly (auteur), M. Bernard Jomier (auteur), Mme Gisèle Jourda (auteur), M. Éric Kerrouche (auteur), Mme Annie Le Houerou (auteur), Mme Audrey Linkenheld (auteur), M. Jean-Jacques Lozach (auteur), Mme Monique Lubin (auteur), M. Victorin Lurel (auteur), M. Didier Marie (auteur), Mme Paulette Matray (auteur), M. Serge Mérillou (auteur), M. Jean-Jacques Michau (auteur), Mme Marie-Pierre Monier (auteur), M. Franck Montaugé (auteur), Mme Corinne Narassiguin (auteur), M. Saïd Omar Oili (auteur), M. Alexandre Ouizille (auteur), M. Sebastien Pla (auteur), Mme Émilienne Poumirol (auteur), M. Claude Raynal (auteur), Mme Sylvie Robert (auteur), M. Pierre-Alain Roiron (auteur), M. David Ros (auteur), Mme Laurence Rossignol (auteur), M. Lucien Stanzione (auteur), M. Rachid Temal (auteur), M. Jean-Claude Tissot (auteur), M. Simon Uzenat (auteur), M. Mickaël Vallet (auteur), M. Jean-Marc Vayssouze-Faure (auteur), M. Michaël Weber (auteur), M. Adel Ziane (auteur)
+- Identifiant : PIONSNR5S479B0444
