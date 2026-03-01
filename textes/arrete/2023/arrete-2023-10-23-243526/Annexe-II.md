@@ -136,6 +136,8 @@ En présence d'un compteur kilométrique à moins de 6 chiffres, &laquo; Véhicu
 
 En présence d'un compteur kilométrique en miles, &laquo; Véhicule équipé d'un compteur en miles. La conversion en km n'est pas effectuée &raquo;.
 
+Lorsque le contrôle a été réalisé dans les conditions prévues à l'article 45-1 du présent arrêté, Validité du présent contrôle technique limitée exclusivement au territoire suivant : xxxxxx, xxxxxx correspondant au territoire concerné.
+
 En cas d’impression sur un procès-verbal conforme aux dispositions de l’annexe II de l’arrêté du 18 juin 1991 modifié, en application de l’article 44 du présent arrêté : &laquo; Les références à l’arrêté du 18 juin 1991 modifié présentes au verso de ce procès-verbal sont à remplacer par l’arrêté relatif au contrôle technique des véhicules motorisés à deux ou trois roues et quadricycles à moteur. &raquo;
 
 14. Les mesures réalisées et les valeurs limites correspondantes :
@@ -304,4 +306,4 @@ Sa sécurité peut, en outre, être renforcée par la présence d’un pictogram
 
 NOTA :
 
-Conformément à l’article 11 de l’arrêté du 19 décembre 2025 (NOR : TRAR2534888A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er janvier 2026.
+Conformément à l'article 9 de l'arrêté du 18 août 2025 (NOR : ATDR2519920A), ces dispositions, dans leur rédaction issue de l'article 5 dudit arrêté, entrent en vigeur au 1er mars 2026.
