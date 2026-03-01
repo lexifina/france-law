@@ -2,13 +2,13 @@
 
 Le fait générateur de la taxe prévue à l'article 266 sexies intervient et cette taxe est exigible au moment où se produit :
 
-1. La réception des déchets ou des déchets radioactifs métalliques dans une installation mentionnée au 1 du I de l'article 266 sexies ;
+1. (Abrogé) ;
 
-1 bis. Le transfert des déchets à la date figurant sur le document de suivi adressé aux autorités compétentes du pays d'expédition en application du règlement (CE) n° 1013/2006 du Parlement européen et du Conseil, du 14 juin 2006, concernant les transferts de déchets ou, à défaut de document de suivi, à la date de sortie du territoire ;
+1 bis. (Abrogé) ;
 
 2. L'émission dans l'atmosphère par les installations mentionnées au 2 du I de l'article 266 sexies, d'oxydes de soufre et autres composés soufrés, d'oxydes d'azote et autres composés oxygénés de l'azote, d'acide chlorhydrique, d'hydrocarbures non méthaniques, solvants, de benzène et d'hydrocarbures aromatiques polycycliques et autres composés organiques volatils, d'arsenic, de mercure, de sélénium, de plomb, de zinc, de chrome, de cuivre, de nickel, de cadmium, de vanadium ainsi que de poussières totales en suspension ;
 
-3. (Alinéa abrogé) ;
+3. (Abrogé) ;
 
 4. (Abrogé)
 
@@ -18,10 +18,14 @@ Le fait générateur de la taxe prévue à l'article 266 sexies intervient et ce
 
 b) La première utilisation de ces matériaux ;
 
-7. (Alinéa abrogé) ;
+7. (Abrogé) ;
 
-8. (Alinéas abrogés) ;
+8. (Abrogé) ;
 
-9. (Alinéa abrogé) ;
+9. (Abrogé) ;
 
-10. (Abrogé)
+10. (Abrogé).
+
+NOTA :
+
+Conformément au A du XII de l'article 81 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant de l'article précité, enrtent en vigueur le 1er mars 2026.
