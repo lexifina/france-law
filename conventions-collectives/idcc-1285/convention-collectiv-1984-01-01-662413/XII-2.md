@@ -38,15 +38,29 @@ XII. 2.1.6. c. Exclusions et limitations de garanties
 
 Garanties « remboursement de frais de santé » :
 
-XII. 2.1.7. Bénéficiaires
+XII. 2.1.7. Bénéficiaires du régime collectif et obligatoire santé des salariés permanents
 
-XII. 2.1.8. Cotisations
+XII.2.1.7.a. Bénéficiaires
 
-XII. 2.1.9. Prestations
+XII.2.1.7.b. Régime collectif et obligatoire
 
-XII. 2.1.9. a. Frais médicaux courants effectués dans le cadre du respect du parcours de soins coordonnés
+XII.2.1.8. Les dispenses d'affiliation
 
-XII. 2.1.9. b. Actes de prévention effectués dans le cadre du respect du parcours de soins
+XII.2.1.8.1. Cas de dispenses d'affiliation de droit
+
+XII.2.1.8.2. Cas de dispenses d'affiliation facultatives
+
+XII.2.1.9. Garanties frais de santé
+
+XII.2.1.10. Cotisations
+
+XII.2.1.11. Financement
+
+XII.2.1.12. Maintien de garanties en cas de suspension du contrat de travail indemnisée
+
+XII.2.1.13. Maintien des garanties après rupture du contrat de travail
+
+XII.2.1.14. Commission paritaire nationale de suivi
 
 XII. 2.2. Prévoyance des salariés intermittents
 
@@ -84,9 +98,9 @@ XII. 2.1.2. Salariés permanents cadres : cotisations
 
 Les entreprises acquittent une cotisation, entièrement à la charge de l'employeur, due dès le premier jour d'embauche et égale au 1er janvier 2016 à :
 
--1,50 % de la rémunération limitée à la tranche 1, soit 0,82 % au titre des garanties décès et 0,68 % au titre des garanties incapacité-invalidité ;
+– 1,50 % de la rémunération limitée à la tranche 1, soit 0,82 % au titre des garanties décès et 0,68 % au titre des garanties incapacité-invalidité ;
 
--0,81 % de la rémunération supérieure à la tranche 1 et limitée à la tranche 2 au titre des garanties incapacité-invalidité.
+– 0,81 % de la rémunération supérieure à la tranche 1 et limitée à la tranche 2 au titre des garanties incapacité-invalidité.
 
 Les taux de cotisations, ci-dessus définis, intègrent le coût du maintien des garanties dans le cadre du dispositif de portabilité issu de l'article L. 911-8 du code de la sécurité sociale.
 
@@ -136,17 +150,17 @@ A. ― Incapacité temporaire de travail
 
 Versement d'une indemnité, à compter du 91e jour d'arrêt de travail continu, fixée comme suit, y compris les indemnités versées par la sécurité sociale et salaires éventuels :
 
-― 80 % T1 ;
+– 80 % T1 ;
 
-― et 60 % T2 porté à 90 % T2 si le salarié a 3 enfants et plus à charge au sens de la sécurité sociale.
+– et 60 % T2 porté à 90 % T2 si le salarié a 3 enfants et plus à charge au sens de la sécurité sociale.
 
 B. ― Rente d'invalidité ou d'incapacité permanente
 
 Attribution d'une rente complémentaire d'invalidité à tout salarié bénéficiant d'une pension ou d'une rente d'invalidité de la sécurité sociale, fixée comme suit, y compris celle servie par la sécurité sociale :
 
-― invalidité de 1re catégorie ou taux d'incapacité déterminé par la sécurité sociale égal ou supérieur à 33 % et inférieur à 66 % : 52,50 % T1 et 45 % T2 ;
+– invalidité de 1re catégorie ou taux d'incapacité déterminé par la sécurité sociale égal ou supérieur à 33 % et inférieur à 66 % : 52,50 % T1 et 45 % T2 ;
 
-― invalidité de 2e et 3e catégorie ou taux d'incapacité déterminé par la sécurité sociale égal ou supérieur à 66 % : 80 % T1 et 60 % T2.
+– invalidité de 2e et 3e catégorie ou taux d'incapacité déterminé par la sécurité sociale égal ou supérieur à 66 % : 80 % T1 et 60 % T2.
 
 XII. 2.1.3. c. Exclusions et limitations de garanties
 
@@ -160,7 +174,7 @@ XII. 2.1.5. Salariés permanents non cadres (cotisations)
 
 Les entreprises acquittent une cotisation, entièrement à la charge de l'employeur, due dès le premier jour d'embauche et égale au 1er janvier 2016 à :
 
--0,95 % de la rémunération limitée à la tranche 1,0,44 % au titre des garanties décès et 0,51 % au titre des garanties incapacité-invalidité.
+– 0,95 % de la rémunération limitée à la tranche 1,0,44 % au titre des garanties décès et 0,51 % au titre des garanties incapacité-invalidité.
 
 Les taux de cotisation ci-dessus définis comprennent le coût du maintien des garanties dans le cadre du dispositif de portabilité issu de l'article L. 911-8 du code de la sécurité sociale.
 
@@ -178,9 +192,9 @@ a) Décès toutes causes
 
 En cas de décès d'un salarié, il est versé aux bénéficiaires un capital, exprimé en pourcentage du traitement de base limité à la tranche 1, dont le montant est fixé à :
 
--capital de base : 350 % ;
+– capital de base : 350 % ;
 
--majoration par enfant à charge : 100 %.
+– majoration par enfant à charge : 100 %.
 
 b) Invalidité permanente totale
 
@@ -212,9 +226,9 @@ B. ― Rente d'invalidité ou d'incapacité permanente
 
 Attribution d'une rente complémentaire d'invalidité à tout salarié bénéficiant d'une pension ou d'une rente d'invalidité de la sécurité sociale, fixée comme suit, y compris celle servie par la sécurité sociale :
 
-― invalidité de 1re catégorie ou taux d'incapacité déterminé par la sécurité sociale égal ou supérieur à 33 % et inférieur à 66 % : 52,50 % T1 ;
+– invalidité de 1re catégorie ou taux d'incapacité déterminé par la sécurité sociale égal ou supérieur à 33 % et inférieur à 66 % : 52,50 % T1 ;
 
-― invalidité de 2e et 3e catégorie ou taux d'incapacité déterminé par la sécurité sociale égal ou supérieur à 66 % : 80 % T1.
+– invalidité de 2e et 3e catégorie ou taux d'incapacité déterminé par la sécurité sociale égal ou supérieur à 66 % : 80 % T1.
 
 XII. 2.1.6. c. Exclusions et limitations de garanties
 
@@ -224,71 +238,153 @@ Garanties remboursement de frais de santé
 
 Le présent accord a pour objet, notamment, d'organiser l'adhésion des entreprises relevant du champ d'application de la convention collective des entreprises artistiques et culturelles à un même organisme assureur afin de mettre en oeuvre des garanties de remboursement de frais de santé mutualisées au niveau de la branche professionnelle.
 
-XII. 2.1.7. Bénéficiaires
+XII.2.1.7. Bénéficiaires du régime collectif et obligatoire santé des salariés permanents
 
-Ce régime de remboursement de frais de santé s'applique à l'ensemble des salariés permanents non cadres et cadres sous contrat de travail à durée déterminée ou indéterminée, sans condition d'ancienneté, affiliés en leur nom propre au régime général de sécurité sociale ou au régime local d'Alsace-Moselle de sécurité sociale.
+XII.2.1.7.a. Bénéficiaires
 
-L'adhésion de ces salariés au régime est obligatoire. Toutefois, les entreprises devront laisser aux salariés la faculté de refuser leur affiliation au régime frais de santé, et ce quelle que soit la date d'embauche, s'ils peuvent se prévaloir des cas de dispense d'affiliation suivants :
+Le régime de remboursement de frais de santé s'applique à l'ensemble des salariés permanents non-cadres et cadres sous contrat de travail à durée déterminée ou indéterminée, sans condition d'ancienneté, affiliés en leur nom propre au régime général de sécurité sociale ou au régime local d'Alsace-Moselle de sécurité sociale, à l'exclusion des salariés intermittents du spectacle.
 
-1. Les salariés et apprentis bénéficiaires d'un contrat à durée déterminée d'une durée inférieure à 12 mois ;
+En effet, il est rappelé que l'ensemble des salariés intermittents employés par les entreprises entrant dans le champ d'application de la convention collective, cadres ou non-cadres, artistes ou techniciens, bénéficient du régime de protection sociale complémentaire issu de l'accord interbranches du 20 décembre 2006 “instituant des garanties collectives et obligatoires pour l'ensemble des intermittents du spectacle”.
 
-2. Les salariés et apprentis bénéficiaires d'un contrat à durée déterminée d'une durée au moins égale à 12 mois, dès lors qu'ils produisent tout document justifiant d'une couverture individuelle souscrite par ailleurs pour le même type de garanties ;
+XII.2.1.7.b. Régime collectif et obligatoire
 
-3. Les salariés à temps partiel et apprentis dont l'adhésion au système de garanties les conduirait à s'acquitter d'une cotisation au moins égale à 10 % de leur rémunération brute ;
+Les entreprises doivent tout mettre en œuvre pour que soit respectée pleinement l'exigence d'application intégrale du dispositif conventionnel.
 
-4. Les salariés qui sont bénéficiaires de l'aide à l'acquisition d'une complémentaire santé prévue à l'article L. 863-1 du code de la sécurité sociale ou de la couverture maladie universelle complémentaire prévue à l'article L. 861-3 du code de la sécurité sociale, sous réserve de produire tout document utile.
+L'adhésion au régime est obligatoire pour tous les salariés permanents définis à l'article 3 du présent accord, sous réserve des cas de dispenses de droit visées à l'article 5.1 et des cas de dispenses facultatives visées à l'article 5.2.
 
-Cette dispense peut jouer jusqu'à la date à laquelle les salariés cessent de bénéficier de cette couverture ou de cette aide ;
+Leur adhésion s'impose donc dans les relations individuelles de travail, et les salariés permanents concernés ne pourront s'opposer au précompte de leur quote-part de cotisations, sauf en cas d'application d'un cas de dispenses facultatives visées à l'article 5.2.
 
-5. Les salariés couverts par une assurance individuelle de frais de santé au moment de leur embauche.
+XII.2.1.8. Les dispenses d'affiliation
 
-Cette dispense ne peut jouer que jusqu'à la date d'échéance du contrat individuel ;
+XII.2.1.8.1. Cas de dispenses d'affiliation de droit
 
-6. Les salariés bénéficiant, y compris en qualité d'ayants droit, d'une couverture collective de remboursement de frais médicaux servie :
+À leur initiative, les salariés permanents peuvent se dispenser d'adhérer au contrat collectif s'ils répondent à l'un des cas de dispense dit “de droit”. Ces dispenses s'appliquent obligatoirement même si elles ne sont pas inscrites dans l'acte formalisant le régime au sein de l'entreprise.
 
--dans le cadre d'un dispositif de prévoyance complémentaire remplissant les conditions mentionnées au sixième alinéa de l'article L. 242-1 du code de la sécurité sociale, étant précisé que, pour un salarié ayant droit au titre de la couverture dont bénéficie son conjoint salarié dans une autre entreprise, cette dispense ne joue que si le régime du conjoint prévoit la couverture des ayants droit à titre obligatoire ;
+Conformément aux dispositions des articles L. 911-7 et D. 911-2 du code de la sécurité sociale, les salariés permanents suivants auront la faculté de refuser, à leur initiative, leur adhésion :
 
--par le régime local d'assurance maladie du Haut-Rhin, du Bas-Rhin et de la Moselle, en application des articles D. 325-6 et D. 325-7 du code de la sécurité sociale ;
+a) Les salariés permanents bénéficiaires d'une couverture complémentaire en application de l'article L. 861-3 du code de la sécurité sociale (c'est-à-dire la “couverture santé solidaire” dite CSS). Cette dispense peut jouer jusqu'à la date à laquelle les salariés permanents cessent de bénéficier de cette couverture ;
 
--par le régime complémentaire d'assurance maladie des industries électriques et gazières en application du décret n° 46-1541 du 22 juin 1946 ;
+b) Les salariés permanents couverts par une assurance individuelle de frais de santé à titre principal ou d'ayants droit au moment de leur embauche. Cette dispense ne peut jouer que jusqu'à l'échéance du contrat individuel ;
 
--dans le cadre des dispositions prévues par le décret n° 2007-1373 du 19 septembre 2007 relatif à la participation de l'Etat et de ses établissements publics au financement de la protection sociale complémentaire de leurs personnels ;
+c) Les salariés permanents bénéficiant pour les mêmes risques, y compris en qualité d'ayants droit, de prestations servies au titre d'un autre emploi, en tant que bénéficiaire de l'un ou l'autre des dispositifs suivants :
 
--dans le cadre des dispositions prévues par le décret n° 2011-1474 du 8 novembre 2011 relatif à la participation des collectivités territoriales et de leurs établissements publics au financement de la protection sociale complémentaire de leurs agents ;
+– dispositif collectif et obligatoire des salariés permanents remplissant les conditions mentionnées au 4° du II de l'article L. 242-1 du code de la sécurité sociale ;
 
--dans le cadre des contrats d'assurance de groupe issus de la loi n° 94-126 du 11 février 1994 relative à l'initiative et à l'entreprise individuelle ;
+– dispositif prévu par le décret n° 2007-1373 du 19 septembre 2007 relatif à la participation de l'État et de ses établissements publics au financement de la protection sociale complémentaire de leurs personnels ou par le décret n° 2011-1474 du 8 novembre 2011 relatif à la participation des collectivités territoriales et de leurs établissements publics au financement de la protection sociale complémentaire de leurs agents ;
 
--par le régime spécial de sécurité sociale des gens de mer ;
+– contrat d'assurance groupe issu de la loi n° 94-126 du 11 février 1994 relative à l'initiative et à l'entreprise individuelle dit “contrat Madelin” ;
 
--par la caisse de prévoyance et de retraite des personnels de la SNCF.
+– régime local d'assurance maladie du Haut-Rhin, du Bas-Rhin et de la Moselle, en application des articles D. 325-6 et D. 325-7 du code de la sécurité sociale ;
 
-Ces salariés devront formuler leur refus d'adhérer par écrit et, le cas échéant, produire chaque année tout justificatif attestant de leur couverture par ailleurs. A défaut, ils seront obligatoirement affiliés au régime.
+– régime complémentaire d'assurance maladie des industries électriques et gazières en application du décret n° 46-1541 du 22 juin 1946 ;
 
-Cet écrit est le résultat d'une demande éclairée du salarié, qui doit avoir été informé de ses droits et obligations au titre du présent régime et notamment du fait qu'en refusant d'adhérer au régime collectif et obligatoire frais de santé en vigueur il ne peut bénéficier :
+d) Les salariés permanents en contrat à durée déterminée dont la durée de la couverture collective à adhésion obligatoire dont ils bénéficient en matière de frais de santé est inférieure à trois mois, s'ils justifient bénéficier par ailleurs d'une couverture “responsable” au sens de l'article L. 871-1 du code de la sécurité sociale.
 
--de l'avantage attaché à la cotisation patronale finançant ledit régime et la neutralité fiscale de sa propre cotisation ;
+Les salariés permanents peuvent se dispenser s'ils respectent les conditions prévues à l'article D. 911-2 du code de la sécurité sociale. Ces salariés permanents ne pourront solliciter, par écrit, auprès de leur employeur, leur dispense d'adhésion qu'au moment de leur embauche ou de la prise d'effet des couvertures mentionnées aux a et d ci-dessus. La demande de dispense doit être accompagnée, le cas échéant, de tous justificatifs nécessaires.
 
--du maintien de la couverture dans les conditions définies par l'article L. 911-8 du code de la sécurité sociale, en cas de cessation du contrat de travail, non consécutive à une faute lourde, ouvrant droit à prise en charge par le régime d'assurance chômage.
+À défaut de respecter les prescriptions détaillées ci-dessus, le salarié sera automatiquement affilié au contrat collectif à adhésion obligatoire.
 
-XII. 2.1.8. Cotisations
+XII.2.1.8.2. Cas de dispenses d'affiliation facultatives
 
-Pour les salariés relevant du régime général de la sécurité sociale, les cotisations frais de santé s'élèvent à 0,81 % du plafond mensuel de la sécurité sociale au titre de la couverture du seul salarié.
+En application de l'article R. 242-1-6 du code de la sécurité sociale, les signataires de la présente convention ont négocié les facultés de dispense au bénéfice de certains salariés permanents.
 
-Pour les salariés relevant du régime local d'Alsace-Moselle, le montant de la cotisation frais de santé est fixé à 0,58 % du plafond mensuel de la sécurité sociale au titre de la couverture du seul salarié.
+Ces derniers peuvent, à leur initiative, et quelle que soit leur date d'embauche, refuser d'adhérer au contrat collectif s'ils le souhaitent, à condition que leur employeur l'ait expressément prévu dans l'acte formalisant le régime dans l'entreprise et à condition d'être dans l'une des situations visées ci-après :
 
-Cette cotisation est répartie à raison de 50 % à la charge de l'employeur et 50 % à la charge du salarié.
+a) Les salariés permanents et les apprentis bénéficiaires d'un contrat de travail à durée déterminée d'une durée au moins égale à 12 mois, à condition de justifier par écrit, en produisant tous documents, d'une couverture individuelle souscrite par ailleurs en matière de remboursement de frais médicaux, conformément à l'article R. 242-1-6, 2°, a, du code de la sécurité sociale ;
+
+b) Les salariés permanents et les apprentis bénéficiaires d'un contrat de travail à durée déterminée d'une durée inférieure à 12 mois, même s'ils ne bénéficient pas d'une couverture individuelle souscrite, par ailleurs, conformément à l'article R. 242-1-6, 2°, b, du code de la sécurité sociale ;
+
+c) Les salariés permanents à temps partiel et les apprentis dont l'adhésion au système de garanties les conduirait à s'acquitter d'une cotisation au moins égale à 10 % de leur rémunération brute, conformément à l'article R. 242-1-6, 2°, c, du code de la sécurité sociale ;
+
+d) Les salariés permanents bénéficiant, y compris au titre d'un seul et même emploi ou en qualité d'ayants droit, sous réserve de la justifier chaque année, d'une couverture collective de remboursement de frais de santé servie :
+
+– dans le cadre d'un dispositif de prévoyance complémentaire remplissant les conditions mentionnées au 4° du II de l'article L. 242-1 du code de la sécurité sociale ;
+
+– par le régime local d'assurance maladie du Haut-Rhin, du Bas-Rhin et de la Moselle, en application des articles D. 325-6 et D. 325-7 du code de la sécurité sociale ;
+
+– par le régime complémentaire d'assurance maladie des industries électriques gazières en application du décret n° 46-1541 du 22 juin 1946 ;
+
+– dans le cadre des dispositions prévues par le décret n° 2007-1373 du 19 septembre 2007 relatif à la participation de l'État et de ses établissements publics au financement de la protection sociale complémentaire de leurs personnels ;
+
+– dans le cadre des dispositions prévues par le décret n° 2011-1474 du 8 novembre 2011 relatif à la participation des collectivités territoriales et de leurs établissements publics au financement de la protection sociale complémentaire de leurs agents ;
+
+– dans le cadre des contrats d'assurance de groupe issus de la loi n° 94-126 du 11 février 1994 relative à l'initiative et à l'entreprise individuelle, dits “contrats Madelin” ;
+
+– par le régime spécial de sécurité sociale des gens de mer ;
+
+– par la caisse de prévoyance et de retraite des personnels de la SNCF ;
+
+e) Les salariés permanents embauchés avant la mise en place, par décision unilatérale, d'un dispositif de protection sociale complémentaire collectif et obligatoire, en application du 1° de l'article R. 242-1-6 du code de la sécurité sociale.
+
+Les cas de dispense listés ci-dessus peuvent être invoqués à tout moment par les salariés permanents, dès lors que leur employeur a prévu l'un des cas de dispense précités dans l'acte formalisant le régime, qu'ils en remplissent les conditions et en justifient.
+
+XII.2.1.9. Garanties frais de santé
+
+Le présent accord permet aux salariés permanents, tels que définis par l'article 3, d'accéder à un niveau minimal de garanties de protection sociale complémentaire au sens de l'article L. 911-2 du code de la sécurité sociale, en matière de remboursement de frais de santé.
+
+Les salariés permanents bénéficient du niveau minimal de garanties défini par le présent accord quel que soit l'organisme assureur retenu par leur entreprise, et tel que détaillé au sein de l'annexe 1.
+
+Les entreprises peuvent, si elles le souhaitent, adapter les dispositions du présent accord à condition d'assurer des garanties au moins équivalentes au sens de l'article L. 2253-1 du code du travail.
+
+Elles peuvent aussi améliorer les garanties du niveau minimal si elles le souhaitent. Il est communiqué à titre indicatif au sein de l'annexe 1 des niveaux de garanties supérieurs.
+
+La mise en place d'un régime de protection sociale complémentaire collectif par la voie négociée est alors encouragée. Le comité social et économique est consulté préalablement à la mise en place d'une garantie collective ou à la modification de celle-ci, dans les conditions prévues par la loi.
+
+XII.2.1.10. Cotisations
+
+À compter du 1er juillet 2025
+
+Pour les salariés permanents relevant du régime général de la sécurité sociale, les cotisations frais de santé s'élèvent à 0,74 % du plafond mensuel de la sécurité sociale au titre de la couverture du seul salarié.
+
+Pour les salariés permanents relevant du régime local d'Alsace-Moselle, le montant de la cotisation frais de santé est fixé à 0,53 % du plafond mensuel de la sécurité sociale au titre de la couverture du seul salarié.
+
+À compter du 1er janvier 2026
+
+Pour les salariés permanents relevant du régime général de la sécurité sociale, les cotisations frais de santé s'élèvent à 0,81 % du plafond mensuel de la sécurité sociale au titre de la couverture du seul salarié.
+
+Pour les salariés permanents relevant du régime local d'Alsace-Moselle, le montant de la cotisation frais de santé est fixé à 0,58 % du plafond mensuel de la sécurité sociale au titre de la couverture du seul salarié.
 
 Les parties rappellent que les cotisations des salariés sont déductibles de l'assiette de l'impôt sur le revenu dans les conditions de l'article 83, 1° quater du code général des impôts.
 
-La cotisation comprend le coût du maintien des garanties dans le cadre du dispositif de portabilité issu de l'article L. 911-8 du code de la sécurité sociale.
+XII.2.1.11. Financement
 
-Il est aussi rappelé que les employeurs cotisent pour leurs salariés cadres et non cadres intermittents, au titre des garanties complémentaires de remboursement de frais de santé, dans les conditions prévues par l'accord interbranche du 20 décembre 2006 modifié.
+Toutes les entreprises entrant dans le champ d'application du présent accord ont l'obligation de prendre en charge au moins 50 % du montant de la cotisation brute globale destinée au financement de la garantie “santé socle” pour le salarié.
 
-XII. 2.1.9. Prestations
+Les entreprises peuvent négocier ou mettre en place, à leur initiative, dans le respect des procédures prévues à l'article L. 911-1 du code de la sécurité sociale, une répartition plus favorable aux salariés permanents.
 
-Les remboursements des frais interviennent en complément de ceux effectués par la sécurité sociale et d'éventuels organismes complémentaires et dans la limite des frais réellement engagés.
+XII.2.1.12. Maintien de garanties en cas de suspension du contrat de travail indemnisée
 
-Les partenaires sociaux rappellent aux entreprises qu'elles devront en tout état de cause garantir à leurs salariés le " panier de soins " minimum légal défini à l'article D. 911-1 du code de la sécurité sociale sans condition d'ancienneté.
+Le bénéfice des garanties mises en place par le présent accord est maintenu au profit des salariés permanents dont le contrat de travail est suspendu, pour la période au titre de laquelle ils bénéficient :
+
+– soit d'un maintien total ou partiel de leur rémunération ;
+
+– soit d'indemnités journalières complémentaires financées au moins en partie par l'employeur, qu'elles soient versées directement par celui-ci ou pour son compte par l'intermédiaire d'un tiers ;
+
+– soit d'un revenu de remplacement versé par l'employeur. Ce cas concerne notamment les salariés permanents placés en activité partielle ou en activité partielle de longue durée, dont l'activité est totalement suspendue ou dont les horaires sont réduits, ainsi que toute période de congé rémunéré par l'employeur (reclassement, mobilité…).
+
+Les contributions de l'employeur et des salariés permanents dont la suspension du contrat de travail est indemnisée sont maintenues selon les règles prévues au contrat collectif d'assurance, pendant la totalité des périodes de suspension du contrat de travail indemnisées.
+
+XII.2.1.13. Maintien des garanties après rupture du contrat de travail
+
+En application de l'article L. 911-8 du code de la sécurité sociale, les anciens salariés permanents se voient maintenir dans les mêmes conditions que les salariés permanents en activité, le régime de frais de santé en vigueur dans l'entreprise, en cas de rupture de leur contrat de travail ouvrant droit à une prise en charge par le régime d'assurance chômage (à l'exception du licenciement pour faute lourde).
+
+En cas de modification ou de révision des garanties des salariés permanents en activité, les garanties des anciens salariés permanents bénéficiant du dispositif de portabilité seront modifiées ou révisées dans les mêmes conditions.
+
+Le droit à portabilité est conditionné au respect de l'ensemble des conditions fixées par l'article L. 911-8 du code de la sécurité sociale et sera mis en œuvre dans les conditions déterminées par cet article.
+
+L'employeur signale le maintien des garanties dans le cadre du dispositif de portabilité dans le certificat de travail.
+
+XII.2.1.14. Commission paritaire nationale de suivi
+
+Il est institué une commission paritaire de suivi du régime frais de santé dont les modalités de fonctionnement seront précisées en tant que de besoin dans son règlement intérieur.
+
+Cette commission paritaire de suivi est composée de 8 représentants des organisations d'employeurs et de 8 représentants des fédérations syndicales de salariés représentatives dans la branche.
+
+1. Chaque fédération syndicale de salariés, reconnue représentative, dispose d'un poste de titulaire et d'un poste de suppléant.
+
+Les sièges restants sont répartis au prorata de la représentativité effective, précisée par un arrêté du ministère du travail.
+
+2. Chaque organisation syndicale représentative représentant les employeurs dispose d'un poste de titulaire et d'un poste de suppléant.
 
 XII. 2.2. Prévoyance des salariés intermittents
 
@@ -302,9 +398,9 @@ XII. 2.2.2. Garanties salariés intermittents cadres (cotisations)
 
 Les entreprises acquittent une cotisation, entièrement à la charge de l'employeur, égale à :
 
-― 0,45 % de la rémunération limitée à la tranche 1 ;
+– 0,45 % de la rémunération limitée à la tranche 1 ;
 
-― 0,95 % de la rémunération supérieure à la tranche 1 et limitée à la tranche 2.
+– 0,95 % de la rémunération supérieure à la tranche 1 et limitée à la tranche 2.
 
 XII. 2.2.3. Garanties salariés intermittents cadres (prestations)
 
@@ -338,17 +434,17 @@ A. ― Incapacité temporaire de travail
 
 Versement d'une indemnité, à compter du 91e jour d'arrêt de travail continu, fixée comme suit, y compris les indemnités versées par la sécurité sociale et salaires éventuels :
 
-― 80 % T1 ;
+– 80 % T1 ;
 
-― et 60 % T2 porté à 90 % T2 si le salarié a 3 enfants et plus à charge au sens de la sécurité sociale.
+– et 60 % T2 porté à 90 % T2 si le salarié a 3 enfants et plus à charge au sens de la sécurité sociale.
 
 B. ― Rente d'invalidité ou d'incapacité permanente
 
 Attribution d'une rente complémentaire d'invalidité à tout salarié bénéficiant d'une pension ou d'une rente d'invalidité de la sécurité sociale, fixée comme suit, y compris celle servie par la sécurité sociale :
 
-― invalidité de 1re catégorie ou taux d'incapacité déterminé par la sécurité sociale égal ou supérieur à 33 % et inférieur à 66 % : 52,50 % T1 et 45 % T2.
+– invalidité de 1re catégorie ou taux d'incapacité déterminé par la sécurité sociale égal ou supérieur à 33 % et inférieur à 66 % : 52,50 % T1 et 45 % T2.
 
-― invalidité de 2e et 3e catégorie ou taux d'incapacité déterminé par la sécurité sociale égal ou supérieur à 66 % : 80 % T1 et 60 % T2.
+– invalidité de 2e et 3e catégorie ou taux d'incapacité déterminé par la sécurité sociale égal ou supérieur à 66 % : 80 % T1 et 60 % T2.
 
 XII. 2.2.4. Cotisations salariés intermittents
 
@@ -412,6 +508,6 @@ Le présent accord sera déposé en 2 exemplaires (une version sur support papie
 
 En outre, un exemplaire sera établi pour chaque partie. ”
 
-(1) Le V de CNPCIV figurant à l'avant dernier alinéa de l'accord du 8 janvier 2015 est exclu de l'extension comme étant contraire aux dispositions de l'article L. 2232-22 du code du travail.
+(1) Le V de CNPCIV figurant à l'avant-dernier alinéa de l'accord du 8 janvier 2015 est exclu de l'extension comme étant contraire aux dispositions de l'article L. 2232-22 du code du travail.
 
 (Arrêté du 4 mai 2017 - art. 1)
