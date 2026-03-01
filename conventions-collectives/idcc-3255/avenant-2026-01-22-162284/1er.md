@@ -1,0 +1,199 @@
+# Article 1er
+
+Le présent article modifie l'article 21 de la convention collective nationale des activités industrielles de boulangerie-pâtisserie et des professionnels de l'œuf du 1er octobre 2024 modifiée comme suit :
+
+« À compter du 1er mars 2026 la grille des salaires minima conventionnels mensuels bruts applicables, pour un travail effectif correspondant à la durée conventionnelle du travail en vigueur au jour de la signature, soit 151,67 heures par mois ou 218 jours par an, s'établit comme suit pour les différents niveaux et échelons :
+
+Catégories |
+
+Niveau |
+
+Échelon |
+
+Salaires minima conventionnels
+
+bruts mensuels |
+
+O/E |
+
+A |
+
+1 |
+
+1 826,03 € |
+
+2 [1] |
+
+1 835,74 € |
+
+B |
+
+1 |
+
+1 846,55 € |
+
+2 |
+
+1 861,32 € |
+
+C |
+
+1 |
+
+1 877,42 € |
+
+2 |
+
+1 894,32 € |
+
+3 |
+
+1 915,16 € |
+
+D |
+
+1 |
+
+1 940,35 € |
+
+2 |
+
+1 955,88 € |
+
+3 |
+
+1 977,39 € |
+
+E |
+
+1 |
+
+2 012,29 € |
+
+2 |
+
+2 044,48 € |
+
+3 |
+
+2 098,66 € |
+
+TAM |
+
+F |
+
+1 |
+
+2 227,46 € |
+
+2 |
+
+2 248,61 € |
+
+3 |
+
+2 280,10 € |
+
+G |
+
+1 |
+
+2 326,72 € |
+
+2 |
+
+2 369,76 € |
+
+3 |
+
+2 440,85 € |
+
+H |
+
+1 |
+
+2 574,03 € |
+
+2 |
+
+2 640,95 € |
+
+3 |
+
+2 750,55 € |
+
+I |
+
+2 925,42 € |
+
+Cadre |
+
+J |
+
+1 |
+
+3 107,05 € |
+
+2 |
+
+3 212,69 € |
+
+3 |
+
+3 318,70 € |
+
+K |
+
+1 |
+
+3 502,38 € |
+
+2 |
+
+3 691,50 € |
+
+3 |
+
+3 879,77 € |
+
+L |
+
+1 |
+
+4 067,16 € |
+
+2 |
+
+4 327,46 € |
+
+3 |
+
+4 632,55 € |
+
+M |
+
+5 222,43 € |
+
+[1] Conformément à l'article 12.5.3 de la présente convention, il est rappelé que les salariés embauchés au niveau A/échelon 1 de la catégorie socio-professionnelle des OE passent automatiquement au niveau A/échelon 2 au plus tard au 6e mois de présence effective. |
+
+Il est rappelé que le salaire minima conventionnel brut mensuel, calculé sur une base de 151,67 heures par mois ou 218 jours par an, résultant de la classification comporte tous les éléments de rémunération, quelles que soient leur qualification et leur périodicité, à l'exception :
+
+– des majorations diverses prévues par la loi ou la convention collective en raison de circonstances particulières (heures supplémentaires, heures travaillées un jour férié, un dimanche ou de nuit…) ;
+
+– des sommes qui constituent un remboursement de frais et ne supportent pas de ce fait les cotisations des régimes sociaux ;
+
+– des sommes issues des accords de participation et d'intéressement qui n'ont pas le caractère de salaire.
+
+Les revalorisations des salaires minima conventionnels sont établis par avenant à la présente convention négocié paritairement entre les organisations professionnelles et syndicales représentatives, en référence à la classification conventionnelle.
+
+Les salaires minima conventionnels sont fixés sur la base de la durée légale du travail en vigueur.
+
+De plus, il est rappelé que les employeurs sont tenus d'assurer, pour un même travail ou pour un travail de valeur égale, l'égalité de rémunération entre les femmes et les hommes.
+
+Les grilles de salaires minima conventionnels bruts fixés ci-dessus sont conformes à ce principe et ne peut conduire à des différences de traitement entre les femmes et les hommes.
+
+Il est également rappelé que, outre le respect des salaires minima conventionnels, chaque employeur doit également respecter les principes légaux et jurisprudentiels en application de la règle “à travail égal, salaire égal”.
+
+En conséquence, les employeurs s'attacheront à vérifier qu'il n'existe pas d'écarts de rémunération non justifiés entre les femmes et les hommes.
+
+Si tel n'est pas le cas, ils mettront en œuvre toutes les mesures utiles pour remédier à ces disparités salariales. »
