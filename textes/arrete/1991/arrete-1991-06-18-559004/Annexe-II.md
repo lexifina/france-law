@@ -170,9 +170,11 @@ En cas de constat de la défaillance du point 0.7.1., la défaillance est suivie
 
 Pour les véhicules concernés par une campagne de rappel “ graves ” mais sans demande de cesser de circuler par le constructeur ou son mandataire, “ Votre véhicule est concerné par la campagne de rappel [code rappel du constructeur et libellé du rappel]. Veuillez vérifier que votre véhicule a fait l'objet des réparations nécessaires auprès du garagiste/ concessionnaire de la marque de votre véhicule. Si tel est le cas, ne pas tenir compte de ce commentaire. ” Ce commentaire n'est ni saisissable ni supprimable par le contrôleur.
 
-Dans le cas où au moins une donnée de contact est collectée, “ Afin de faciliter les campagnes de rappel " graves ", vos données de contact ont été collectées. Pour exercer vos droits d'accès, rectification ou suppression de vos données, veuillez consulter le site internet www. utacotc. com, rubrique " infos pratiques ". ”. Ce commentaire n'est ni saisissable ni supprimable par le contrôleur. Ce commentaire cesse d'être imprimé lorsque cette mention figure au verso du procès-verbal.
+Dans le cas où au moins une donnée de contact est collectée, “ Afin de faciliter les campagnes de rappel " graves ", vos données de contact ont été collectées. Pour exercer vos droits d'accès, rectification ou suppression de vos données, veuillez consulter le site internet www.utacotc.com, rubrique " infos pratiques ". ”. Ce commentaire n'est ni saisissable ni supprimable par le contrôleur. Ce commentaire cesse d'être imprimé lorsque cette mention figure au verso du procès-verbal.
 
 Lorsque le contrôle a été réalisé dans les conditions prévues à l’article 32-4 du présent arrêté, Validité du présent contrôle technique limitée exclusivement au territoire suivant : xxxxxx , xxxxxx correspondant au territoire concerné.
+
+Lorsque le contrôle a été réalisé dans les conditions prévues à l'article 32-5 du présent arrêté, Validité du présent contrôle technique limitée exclusivement aux territoires suivants : xxxxxx, xxxxxx correspondant aux territoires concernés.
 
 En cas d'absence de liaison du logiciel de contrôle avec le système d'immatriculation des véhicules (SIV) pendant tout ou partie du contrôle, "Contrôle de cohérence du kilométrage avec les kilométrages relevés lors des contrôles techniques précédents non réalisé".
 
@@ -422,4 +424,4 @@ Sa sécurité peut, en outre, être renforcée par la présence d'un pictogramme
 
 NOTA :
 
-Conformément à l'article 11 de l'arrêté du 8 décembre 2025 (NOR : TRAR2522322A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entre en vigueur le 1er janvier 2026.
+Conformément à l'article 7 de l'arrêté du 18 août 2025 (NOR : ATDR2519915A), ces dispositions, dans leur rédaction résultant de l'article 3 dudit arrêté, entrent en vigueur le 1er mars 2026.
