@@ -1,0 +1,5 @@
+# Article 1er
+
+Les dispositions du présent avenant sont applicables à l'ensemble des entreprises relevant du champ d'application de l'annexe 3 filière de teillage de lin et chanvre de la CCN 7028 à savoir : sur l'ensemble du territoire français (métropole et départements, régions et collectivités d'outre-mer sous réserve de l'application du 3e alinéa de l'article L. 2222-1 du code du travail et, à l'exception de Wallis-et-Futuna et de la Polynésie française, les coopératives agricoles, unions de coopératives agricoles de teillage de lin et chanvre ainsi que leurs filiales visées à l'article L. 722-20 du code rural et de la pêche et les sociétés coopératives d'intérêt collectif agricole (SICA) et ayant le même objet, dans lesquelles ces coopératives agricoles ou unions de coopératives agricoles ont une participation prépondérante.
+
+Cet avenant s'applique également aux entreprises comptant moins de 50 salariés qui ne justifient d'aucune disposition particulière en matière de rémunération minimale.
