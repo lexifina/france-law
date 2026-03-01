@@ -2324,6 +2324,94 @@ Si au moins l'un des points vérifiés lors du contrôle révèle un écart sur 
 
 Si au moins l'un des identifiants des vélos-cargos n'est pas inscrit au fichier national unique des cycles identifiés (FNUCI) avec un statut " en service " (information disponible sur apic-asso. com), le contrôle est jugé non satisfaisant.
 
+BB. FICHE D'OPÉRATION STANDARDISÉES BAR-TH-143 "SYSTÈME SOLAIRE COMBINÉ (FRANCE MÉTROPOLITAINE)"
+
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en "non satisfaisant".
+
+BB.I. Les critères suivants conduisent à un classement "non satisfaisant" de l'opération pour les contrôles sur le lieu des opérations
+
+BB.I.A. Critères directement liés à la fiche d'opération standardisée
+
+1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération, le cadre contribution défini à l'annexe 8 de l'arrêté du 4 septembre 2014 fixant la liste des éléments d'une demande de certificats d'économies d'énergie et les documents à archiver par le demandeur ;
+
+2. La preuve de réalisation de l'opération, ou, à défaut, le document issu du fabricant, ne comporte pas les mentions exigées par la fiche d'opération standardisée ;
+
+3. Le système solaire combiné ne correspond pas aux mentions indiquées sur la preuve de la réalisation de l'opération ou, à défaut, aux mentions indiquées sur le document issu du fabricant, exigées par la fiche d'opération standardisée ;
+
+4. L'équipement installé n'est pas un système solaire combiné destiné au chauffage et à la production d'eau chaude sanitaire ;
+
+5. Le système n'est pas couplé à des émetteurs de chauffage central de type basse température (planchers chauffants, plafonds chauffants, murs chauffants ou radiateurs dits basses températures dimensionnés à un delta de température nominal DTnom ≤ 40 K suivant la norme EN 442) permettant une optimisation de la valorisation de l'énergie solaire ;
+
+6. Les capteurs solaires sont des capteurs hybrides produisant à la fois de l'électricité et de la chaleur ;
+
+7. Les capteurs solaires ont une puissance surfacique strictement inférieure à 600 W/m2, puissance obtenue en multipliant le "rendement optique" du modèle de capteur (0), mesurée en condition ∆T = 0, par 1 000 W/m2 ;
+
+8. La surface hors-tout de capteurs solaires installés estimée est manifestement inférieure à 8 m2 ;
+
+9. Les capteurs solaires installés ne sont pas associés à au moins un ballon d'eau chaude ;
+
+10. La capacité de stockage du ou des ballons d'eau chaude est inférieure ou égale à 400 litres ;
+
+11. Les capteurs solaires ne sont pas certifiés selon les conditions de la fiche d'opération standardisée ;
+
+12. Dans le cadre du Coup de pouce chauffage, la dépose de l'équipement existant n'est pas mentionnée sur la preuve de réalisation de l'opération qui indique l'énergie de chauffage (charbon, fioul ou gaz) et le type d'équipement déposé.
+
+BB.I.B. Autres critères
+
+S'agissant des capteurs solaires :
+
+13. Il est constaté un problème manifeste lié à l'implantation des capteurs solaire en toiture (fixation, étanchéité, etc.).
+
+S'agissant du circuit primaire :
+
+14. Il est constaté la présence d'une fuite visible sur le circuit primaire ;
+
+15. Il est constaté la présence d'un matériau manifestement incompatible avec l'installation d'un système solaire thermique (matériau synthétique, etc.) ;
+
+16. Pour les circuits primaires auto vidangeables sans glycol, il est constaté la présence de contre-pente, de cintrage ou de coude conduisant à une stagnation d'eau et un risque de gel ;
+
+17. Le calorifugeage est incomplet, en mauvais état ou manifestement inadapté aux températures, aux UV ou à des contraintes mécaniques extérieures ;
+
+18. Il est constaté l'absence de soupape de sécurité sur le circuit primaire et l'absence d'un réceptacle pour le fluide en cas d'ouverture de la soupape (sauf dans le cas d'installations auto vidangeables pour lesquelles "la mise" à la pression atmosphérique est constatée) ;
+
+19. Il est constaté un raccordement du circuit primaire au réseau d'assainissement collectif ou individuel ;
+
+20. Il est constaté l'absence de manomètre sur le circuit primaire ;
+
+21. Il est constaté la présence d'un passage du circuit primaire dans un conduit de cheminée.
+
+S'agissant d'un circuit primaire pressurisé :
+
+22. Il est constaté l'absence d'un vase d'expansion placé sur le retour ;
+
+23. Dans le cas de vanne manœuvrable en amont du vase d'expansion, celle-ci est manœuvrable par l'utilisateur.
+
+S'agissant du stockage et du circuit de chauffage et d'eau chaude sanitaire :
+
+24. Si le chauffage d'appoint est séparé, celui-ci n'est pas placé en aval du stockage solaire ;
+
+25. Il est constaté l'absence d'un mitigeur thermostatique sur le circuit sanitaire ;
+
+26. Il est constaté l'absence d'un disconnecteur en cas de raccordement au réseau d'eau potable ;
+
+27. Le (ou les) ballon(s) n'est (ne sont) pas installé(s) en intérieur ou il(s) est (sont) installé(s) dans une construction à très faible inertie thermique (abri de jardin ou cabanon par exemple) ;
+
+28. Il est constaté l'absence de dispositif de régulation de la température de départ du chauffage.
+
+Autres critères :
+
+29. Il est constaté la présence d'un masque solaire manifestement défavorable ;
+
+30. Les capteurs solaires ne sont manifestement pas orientés entre - 90° et + 90° par rapport au sud.
+
+BB.II. Doivent être vérifiés lors des contrôles par contact
+
+- l'existence d'un système solaire combiné (SSC) installé ;
+
+- l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
+
+Si au moins l'un des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
+
 NOTA :
 
-Conformément à l'article 5 de l'arrêté du 6 janvier 2026 (NOR : ECOR2600569A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le lendemain de la date de publication de l'arrêté précité, soit le 17 janvier 2026, et s'appliquent aux opérations engagées à compter de cette date.
+Conformément à l’arrêté rectificatif du 24 février 2026 (NOR : ECOR2604215Z), ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur le 1er mars 2026 et s'appliquent aux opérations engagées à compter de cette date.
