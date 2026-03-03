@@ -1,0 +1,9 @@
+# Réponse à la question n° 11039
+
+- Question : [11039](11039.md) — Question n° 11039 — Enquête administrative concernant les agents de sécurité privée en Guadeloupe
+
+## Réponse
+
+*JO du 2026-03-03, page 1925*
+
+Les conditions d'accès à la profession d'agent privé de sécurité sont définies par le législateur, aux articles L. 612-20, L. 612-9, L. 622-19 et L. 625-2 du code de la sécurité intérieure, lesquels prévoient notamment que nul ne peut exercer ces fonctions « s'il a fait l'objet d'une condamnation […] pour des motifs incompatibles » ou « s'il résulte de l'enquête administrative […] que son comportement ou ses agissements […] sont incompatibles avec [leur] exercice ». Sur ce fondement, le Conseil national des activités privées de sécurité (CNAPS) assure sa mission de police administrative en évaluant quels condamnations et agissements sont incompatibles avec ces fonctions. Une enquête administrative est réalisée à cette fin. À cet égard, le CNAPS apprécie les éléments portés à sa connaissance de manière globale, en tenant compte notamment de la nature, de l'ancienneté et de la répétition éventuelle des faits constatés. Une décision de refus émise par le CNAPS peut être contestée dans les délais de recours de droit commun. Par ailleurs, dans une logique d'accompagnement et de fluidification des échanges entre le CNAPS et les usagers, l'établissement a engagé un travail de modernisation de ses procédures qui permettra notamment de sécuriser et de fiabiliser les notifications. Dans ce cadre, un nouveau système d'information sera déployé dès le début de l'année 2026. Il permettra la dématérialisation des démarches, l'accès direct et immédiat aux décisions ainsi qu'une meilleure traçabilité des échanges. Ces améliorations contribueront à offrir à tous les demandeurs, y compris à ceux domiciliés en Guadeloupe, un niveau d'information clair et une meilleure transparence sur l'instruction de leurs dossiers.
