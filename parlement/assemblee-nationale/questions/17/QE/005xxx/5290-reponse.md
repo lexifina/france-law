@@ -1,0 +1,9 @@
+# Réponse à la question n° 5290
+
+- Question : [5290](5290.md) — Question n° 5290 — Contrôles abusifs des systèmes d'assainissement non collectifs
+
+## Réponse
+
+*JO du 2026-03-03, page 1971*
+
+Le contrôle des installations d'assainissement non collectif est une compétence relevant des communes ou de leurs groupements. Le service public d'assainissement non collectif (SPANC) a pour mission de s'assurer du bon fonctionnement et de l'entretien des installations et de vérifier la bonne exécution des travaux de réalisation et de réhabilitation. Le III de l'article L.2224-8 du code général des collectivités territoriales dispose que les communes fixent la périodicité de ce contrôle, qui peut aller jusqu'à dix ans. La fréquence et le prix des contrôles réalisés par les SPANC sont fixés par délibération des collectivités exerçant la compétence en matière d'assainissement non collectif (ANC). Ceux-ci sont établis sous le contrôle du juge administratif, susceptible d'être saisi par tout requérant ayant intérêt à agir. L'arrêté du 27 avril 2012 relatif aux modalités de l'exécution de la mission de contrôle des installations d'assainissement non collectif prévoit que, lors du contrôle, l'évaluation du SPANC intègre des critères tels que le danger pour la santé des personnes, le risque environnemental avéré ou la localisation dans une zone à enjeux sanitaires. En conséquence, il appartient à la collectivité d'adapter la périodicité des contrôles en fonction de ces risques et les délais impartis à la réalisation des travaux ou modifications des installations présentant un danger ou un risque avéré. La charge financière de ces opérations pouvant, dans certaines situations, être relativement conséquente, les particuliers devant procéder à des travaux de réhabilitation ou de construction d'installations d'ANC peuvent bénéficier, sous certaines conditions propres à chaque dispositif, d'aides de l'Agence Nationale pour l'Amélioration de l'Habitat (ANAH).
