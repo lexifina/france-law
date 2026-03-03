@@ -1,0 +1,9 @@
+# Réponse à la question n° 9193
+
+- Question : [9193](9193.md) — Question n° 9193 — Diffusion du jeu « Questions pour un Champion » restreinte au week-end
+
+## Réponse
+
+*JO du 2026-03-03, page 1882*
+
+France Télévisions a fait le choix de réduire le rythme de diffusion de l'émission « Questions pour un champion ». Cette décision s'inscrit dans la dynamique d'efforts engagée par l'entreprise sur le plan budgétaire, afin d'absorber le retrait de sa dotation en 2025 par rapport à la trajectoire initialement arbitrée, diminution rendue nécessaire par les économies votées en loi de finances pour 2025. L'ensemble des dépenses de l'entreprise est concerné par cet effort, y compris les dépenses liées aux programmes de flux. Comme elle l'a indiqué publiquement, la direction de France Télévisions s'est donné pour objectif de réduire ces dépenses de 5 % à l'issue de renégociations contractuelles. L'allègement du rythme de diffusion de « Questions pour un champion » participe à cet effort. Le choix pris sur ce programme en particulier n'a pas fait l'objet d'une validation préalable du Gouvernement. Une telle décision aurait contrevenu au principe d'indépendance éditoriale dont jouit France Télévisions, en application de la loi no 86-1067 du 30 septembre 1986 relative à la liberté de communication. Il est légitime que le reformatage d'une émission historique du service public suscite des réactions chez les téléspectateurs, quand bien même cette décision contribue à l'effort attendu de la part de France Télévisions pour assurer la soutenabilité des dépenses publiques. France Télévisions continue, par ailleurs, à travailler au renouvellement des formats de divertissement éducatif en France, avec pour objectif de s'adresser également au jeune public, comme en témoigne par exemple le récent succès du jeu « 100 % logique », lancé en septembre 2022, ou le lancement, à la rentrée prochaine, du jeu « Intuition : qui sera le plus proche ? ».
