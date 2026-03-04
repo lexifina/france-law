@@ -438,9 +438,11 @@ Toute autre installation. |
 
 Construction de lignes électriques aériennes de très haute tension (HTB 2 et 3) et d'une longueur égale ou supérieure à 15 km. |
 
-Construction de lignes électriques aériennes en haute tension (HTB 1), et construction de lignes électriques aériennes en très haute tension (HTB 2 et 3) inférieure à 15 km. |
+Construction de lignes électriques aériennes en haute tension (HTB 1), et construction de lignes électriques aériennes en très haute tension (HTB 2 et 3) inférieure à 15 km.
 
-Postes de transformation dont la tension maximale de transformation est égale ou supérieure à 63 kilovolts, à l'exclusion des opérations qui n'entraînent pas d'augmentation de la surface foncière des postes. |
+|
+
+|
 
 33. Lignes électriques sous-marines en haute et très haute tension. |
 
@@ -616,4 +618,4 @@ Toute création ou extension.
 
 NOTA :
 
-Conformément à l'article 4 du décret n° 2024-529 du 10 juin 2024, ces dispositions sont applicables aux projets pour lesquels la première autorité compétente pour autoriser le projet ou l'autorité chargée de l'examen au cas par cas sont saisies à compter de la publication dudit décret.
+Conformément au deuxième alinéa de l'article 9 du décret n° 2026-146 du 2 mars 2026, ces dispositions, dans leur rédaction issue de l'article 2 du décret précité, s'appliquent à compter de l'entrée en vigueur dudit décret, soit le 4 mars 2026.
