@@ -2,7 +2,7 @@
 
 PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS AUPRÈS DES ENTREPRISES ET DES EXPLOITATIONS AGRICOLES POUR L'ANNÉE 2026
 
-L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêtes sont disponibles sur le site du CNIS ( www.cnis.fr) |
+Dès disponibilité, l'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêtes sont disponibles sur le site du CNIS ( www.cnis.fr) |
 
 1. Enquêtes d'intérêt général et obligatoires
 
@@ -68,13 +68,27 @@ DARES |
 
 Annuelle |
 
-DARES |
+DARES
+
+DREES |
 
 Enquêtes sur le coût de la main d'œuvre et la structure des salaires (Ecmoss) |
 
 Annuelle |
 
 INSEE |
+
+Enquête Formation Employeur - annuelle (EFE-a) |
+
+Annuelle |
+
+DARES
+
+CÉREQ
+
+France compétences
+
+|
 
 (*) Voir liste des producteurs.
 
@@ -464,11 +478,9 @@ DREES |
 
 Direction de la recherche, des études, de l'évaluation et des statistiques |
 
-Ministère de la santé, des familles, de l'autonomie et des personnes handicapées
+Ministère de la santé, des familles, de l'autonomie et des personnes handicapées et du ministère de l'action et des comptes publics
 
-Ministère du travail et des solidarités
-
-Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique |
+Ministère du travail et des solidarités |
 
 INSEE |
 
@@ -535,3 +547,17 @@ Ministère de la transition écologique, de la biodiversité et des négociation
 Ministère de l'enseignement supérieur, de la recherche et de l'espace
 
 |
+
+France compétences |
+
+France compétences |
+
+Ministère du travail et des solidarités |
+
+CÉREQ |
+
+Centre d'études et de recherches sur les qualifications |
+
+Ministère de l'éducation nationale
+
+Ministère du travail et des solidarités |
