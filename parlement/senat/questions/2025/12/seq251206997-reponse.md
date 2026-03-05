@@ -1,0 +1,9 @@
+# Réponse à la question SEQ251206997
+
+- Question : [SEQ251206997](seq251206997.md) — Conditions de naturalisation et situation des étudiants étrangers en France
+
+## Réponse
+
+*Intérieur , JO du 2026-03-05, page 1179*
+
+L'accès à la nationalité française par décret de naturalisation, prévu par les dispositions des articles 21-15 et suivants du code civil, est une prérogative souveraine de l'État et relève de la compétence du ministre de l'intérieur. Dans ce cadre, la circulaire du 2 mai 2025 détaille les orientations relatives à l'acquisition de la nationalité française par décision de l'autorité publique et affirme un souci de cohérence avec les principes d'intégration républicaine et de stabilité économique des nouveaux nationaux. À cet effet, elle précise les critères d'appréciation des ressources prises en compte et de l'insertion professionnelle des demandeurs. Dans le cadre de l'appréciation de l'autonomie matérielle du demandeur, elle rappelle notamment que les ressources des candidats doivent être stables, suffisantes et, pour les actifs, reposer sur une insertion professionnelle avérée et durable. Cette appréciation repose sur le principe que la naturalisation doit refléter un ancrage réel et durable dans la société française, y compris sur le plan économique. C'est sur le fondement de ce constat qu'un ajournement à deux ans est généralement notifié aux jeunes de moins de 25 ans en cours d'étude, dès lors qu'ils ne disposent pas de ressources suffisantes susceptibles d'assurer pleinement leur intégration à la société française. Cette période probatoire a pour objet de permettre, dans le cadre d'une nouvelle demande de naturalisation, d'apprécier la volonté et la capacité des postulants à la nationalité française à accéder à l'autonomie matérielle visée par la circulaire du 2 mai 2025.
