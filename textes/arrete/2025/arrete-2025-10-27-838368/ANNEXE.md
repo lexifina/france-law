@@ -118,6 +118,12 @@ Ponctuelle |
 
 SDESSI |
 
+Enquête Baromètre Santé Publique France |
+
+Ponctuelle |
+
+SPF |
+
 (*) Voir liste des producteurs.
 
 Emploi, qualification et revenus du travail |
@@ -246,6 +252,12 @@ Ponctuelle |
 
 SPF |
 
+Enquête nationale en Collèges et en Lycées chez les Adolescents sur la Santé et les Substances (EnCLASS) |
+
+Ponctuelle |
+
+OFDT |
+
 (*) Voir liste des producteurs.
 
 Services publics et services aux publics |
@@ -261,6 +273,12 @@ Semestrielle |
 DREES |
 
 Enquête nationale de climat scolaire et de victimation auprès des collégiens |
+
+Ponctuelle |
+
+DEPP |
+
+Enquête sur les bâtiments scolaires et les conditions d'accueil des élèves et des personnels |
 
 Ponctuelle |
 
@@ -294,7 +312,7 @@ Intitulé du producteur |
 
 Ministère ou ministère de tutelle le cas échéant |
 
-‍DEPP |
+DEPP |
 
 Direction de l'évaluation, de la prospective et de la performance |
 
@@ -359,3 +377,15 @@ SSMSI |
 Service statistique ministériel de la sécurité intérieure |
 
 Ministère de l'Intérieur |
+
+OFDT |
+
+Observatoire français des drogues et des tendances addictives |
+
+|
+
+SFP |
+
+Santé Publique France |
+
+Ministère de la santé, des familles, de l'autonomie et des personnes handicapées |
