@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260207619
+
+- Question : [SEQ260207619](seq260207619.md) — Faciliter le lien entre les préfectures, les élus locaux et les opérateurs des réseaux de télécommunication
+
+## Réponse
+
+*Intelligence artificielle et numérique, JO du 2026-03-05, page 1186*
+
+Le Gouvernement partage pleinement l'impératif de bonne coordination locale entre services déconcentrées de l'Etat, élus et opérateurs, de manière générale pour les opérations courantes de déploiement et de maintenant des réseaux télécoms, et encore plus en cas de situation de crise. A ce titre, l'article R.741-1 du code de la sécurité intérieure impose aux personnes recensées dans le plan ORSEC - dont font partie les opérateurs de communications électroniques au titre du volet Retap-Réseaux - de désigner un correspondant au représentant de l'Etat et de maintenir ces informations à jour. La mise en oeuvre opérationnelle de cette obligation, à travers l'actualisation de coordonnées de ces correspondants, a été engagée par le Gouvernement. D'une part, l'Agence nationale de la cohésion des territoires procède à la constitution d'un annuaire des opérateurs d'infrastructure de réseaux fixes. D'autre part, pour l'ensemble des réseaux, des travaux sont actuellement menés par le ministère de l'intérieur (de mise à jour du guide Orsec dans sa partie Retap-réseaux). Cette actualisation, en collaboration avec le Commissariat aux Communications Electroniques de Défense (CCED), vise notamment à renforcer l'acculturation des services préfectoraux de gestion de crise aux réseaux de communications électroniques et à mettre à jour les points de contacts départementaux des opérateurs dans chaque préfecture. Ces annuaires sont destinés à fluidifier, lors de crises, les contacts entre les personnes chargées de la gestion de crise et les opérateurs. Ils n'ont donc pas vocation à être diffusés à des acteurs qui n'interviennent pas dans la gestion de crise.
