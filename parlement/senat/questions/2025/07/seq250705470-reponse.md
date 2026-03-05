@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250705470
+
+- Question : [SEQ250705470](seq250705470.md) — Dérogation au 12e programme d'intervention de l'Agence de l'eau Rhône Méditerranée pour les territoires en crise hydrique
+
+## Réponse
+
+*Transition écologique, JO du 2026-03-05, page 1214*
+
+La doctrine de l'État en matière de gestion quantitative de la ressource en eau prévoit que le financement des projets d'extension ou de création de stockages hydrauliques à vocation principalement agricole soit subordonné à leur inscription dans une démarche concertée et territorialisée, formalisée par exemple par un Projet de Territoire pour la Gestion de l'Eau (PTGE), notamment dans les zones identifiées en déséquilibre quantitatif ou en équilibre fragile. Ces projets doivent impérativement substituer des prélèvements effectués en période d'étiage par des prélèvements en hautes eaux, sans induire d'impact significatif sur les milieux aquatiques ni sur les autres usages. La gouvernance locale doit garantir une répartition équitable de la ressource, prioritairement allouée aux besoins vitaux. En outre, les porteurs de projet doivent, conjointement au développement ou à l'extension de stockages, s'engager dans une trajectoire de stabilisation voire de réduction des prélèvements (optimisation des pratiques irriguées, conversion vers des systèmes moins consommateurs) et justifier d'une maîtrise d'ouvrage pérenne, tant sur le plan technique que financier, particulièrement pour les ouvrages classés au titre de la réglementation sur les barrages. Telles sont les conditions indispensables au bon emploi des deniers publics et à la préservation, dans la durée, des ressources en eau. Le cadre actuel a montré son efficacité puisqu'il permet d'ores et déjà des financements conséquents (24Meuros engagés en 2024 et 29 Meuros engagés en 2025 dans les Pyrénées-Orientales, soit le double de la moyenne annuelle de la période 2019-2024).
