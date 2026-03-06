@@ -94,6 +94,12 @@ DGPN/ Etat-major/ CIPN |
 
 Adjoint chef de groupe nuit 2 |
 
+75 |
+
+DGPN/DRHFS DIVERS/CAB MIN |
+
+Chargé de mission au pôle police du Cabinet Ministre |
+
 Direction nationale de la police judiciaire |
 
 40 postes |
@@ -452,11 +458,11 @@ DCCRS/ EM |
 
 Chef de la section prévention communication partenariat |
 
-75 |
+13 |
 
-DCCRS/ EM |
+DZCRS Sud/CRS 55 Marseille |
 
-Chef de la section analyse et stratégie |
+Officier de compagnie |
 
 75 |
 
@@ -1270,12 +1276,6 @@ DZCRS Sud/ CRS 29 Lannemezan |
 
 Officier de compagnie |
 
-65 |
-
-DZCRS Sud/ CRS 29 Lannemezan |
-
-Officier de compagnie |
-
 66 |
 
 DZCRS Sud/ CRS 58 Perpignan |
@@ -1369,6 +1369,12 @@ Adjoint au commandant de compagnie-chef de section |
 DZCRS Sud-est/ CRS 47 Grenoble |
 
 Adjoint au commandant de compagnie |
+
+38 |
+
+DZCRS Sud-est/CRS 47 Grenoble |
+
+Officier de compagnie |
 
 42 |
 
@@ -2060,7 +2066,7 @@ Adjoint chef SDSP |
 
 28 |
 
-DIPN28/ CPN Dreux |
+DIPN28/CPN Chartres |
 
 Chef SLPJ |
 
@@ -2068,7 +2074,7 @@ Chef SLPJ |
 
 DIPN28/ CPN Dreux |
 
-Adjoint chef SLPJ |
+Chef SLPJ |
 
 28 |
 
@@ -4548,6 +4554,12 @@ Chef UPS |
 
 91 |
 
+DIPN91/CPN Massy |
+
+Chef brigade des stupéfiants |
+
+91 |
+
 DIPN91/ CPN Sainte-Geneviève-des Bois |
 
 Adjoint chef SLSP |
@@ -6112,11 +6124,11 @@ DSPAP/ DT93/ D2/ Saint-Ouen |
 
 Adjoint CDC |
 
-93 |
+94 |
 
-DSPAP/ DT93/ D2/ Saint-Ouen |
+DSPAP/DT94/D1/Créteil |
 
-Chef SAIP |
+Chef SSQ |
 
 93 |
 
