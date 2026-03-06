@@ -1,0 +1,25 @@
+# Article IX.2
+
+IX.2.1. Frais
+
+Les déplacements de longue durée sont ceux ne permettant pas le retour journalier du salarié à son domicile.
+
+Ils feront l'objet des mêmes remboursements (transport et repas) que ceux fixés ci-dessus, pendant toute la durée du déplacement, jours de repos inclus si ces repos sont pris sur le lieu de déplacement.
+
+Sauf convention particulière préalable, les frais d'hébergement (hôtels ou autres, petits déjeuners, etc.) sont intégralement remboursés au salarié, y compris pour les jours de repos pris sur le lieu du déplacement.
+
+IX.2.2. Prise en compte du temps du travail
+
+L'horaire de travail devra respecter la durée légale hebdomadaire ou celle de l'horaire collectif de l'entreprise, les heures supplémentaires effectuées en cours de déplacement étant rémunérées dans les conditions fixées par la présente convention.
+
+Pour les déplacements de longue durée excédant 15 jours calendaires consécutifs, le salarié bénéficiera indépendamment des conditions définies ci-dessous :
+
+a) pour retourner une fois par mois à son domicile, de 2 jours de repos consécutifs mensuels et du remboursement par l'employeur des frais de voyage aller-retour du lieu de déplacement à son domicile étant à la charge de l'employeur (ces 2 jours s'entendent hors délais de route si la durée du voyage aller-retour excède 4 heures) ;
+
+b) en cas de maladie (certificat médical) et/ou de décès du salarié sur le lieu du déplacement justifiant la présence d'un proche parent, d'un remboursement des frais de voyage aller-retour de ce dernier ;
+
+c) en cas de décès du salarié sur son lieu de déplacement, les frais de rapatriement du corps jusqu'au domicile sont entièrement à la charge de l'employeur ;
+
+d) remboursement des frais de voyage aller-retour dans le cas où le salarié bénéficie d'un congé exceptionnel prévu à l'article VIII.4 de la présente convention.
+
+Dans le cas de déplacements de longue durée hors de la métropole, l'employeur sera tenu d'établir un avenant au contrat de travail tenant compte de la législation en vigueur et des dispositions spécifiques précisées à l'article IX.5 de la présente convention.

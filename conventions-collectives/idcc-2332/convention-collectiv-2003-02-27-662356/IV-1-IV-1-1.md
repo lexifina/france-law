@@ -4,13 +4,13 @@ Le préavis a pour point de départ la date de première présentation de la let
 
 Après la période d'essai et sauf cas de faute grave ou lourde ou de force majeure, pour lequel le préavis n'est pas dû, la durée du préavis réciproque est fixée dans les conditions suivantes :
 
-a) En cas de licenciement :
+a) En cas de licenciement
 
-ANCIENNETE |
+Ancienneté |
 
-NON-CADRE |
+Non-cadre |
 
-CADRE |
+Cadre |
 
 Moins de 6 mois |
 
@@ -18,13 +18,7 @@ Moins de 6 mois |
 
 1 mois |
 
-6 mois à moins de |
-
-|
-
-|
-
-2 ans |
+6 mois à moins de 2 ans |
 
 1 mois |
 
@@ -36,13 +30,13 @@ Moins de 6 mois |
 
 3 mois |
 
-b) En cas de démission :
+b) En cas de démission
 
-ANCIENNETE |
+Ancienneté |
 
-NON-CADRE |
+Non-cadre |
 
-CADRE |
+Cadre |
 
 Moins de 6 mois |
 
@@ -50,13 +44,7 @@ Moins de 6 mois |
 
 2 semaines |
 
-6 mois à moins de |
-
-|
-
-|
-
-2 ans |
+6 mois à moins de 2 ans |
 
 2 semaines |
 
@@ -68,12 +56,14 @@ Moins de 6 mois |
 
 2 mois |
 
-Les salariés handicapés : dispositions conformément au code du travail.
+c) Personnes handicapées
 
-En cas de licenciement ou de démission, les délais ci-dessus pourront être prolongés d'un commun accord entre les parties en fonction des impératifs de l'activité.
+Conformément aux dispositions du code du travail.
+
+d) En cas de licenciement, les délais ci-dessus pourront être prolongés d'un commun accord entre les parties en fonction des impératifs de l'activité
 
 L'employeur peut, en cas de licenciement, dispenser le salarié de l'exécution du préavis.
 
-La dispense par l'employeur de l'exécution du travail pendant le préavis ne doit entraîner jusqu'à l'expiration de ce préavis, aucune diminution de salaire et avantages, y compris l'indemnité de congés payés, que le salarié aurait perçus s'il avait accompli son travail.
+La dispense par l'employeur de l'exécution du travail pendant le préavis ne doit entraîner jusqu'à l'expiration de ce préavis, aucune diminution de salaires et avantages, y compris l'indemnité de congés payés, que le salarié aurait perçus s'il avait accompli son travail.
 
 En cas de licenciement, le salarié pourra occuper un nouvel emploi sans achever son préavis sur justification du nouvel emploi et après négociation et accord de l'employeur.

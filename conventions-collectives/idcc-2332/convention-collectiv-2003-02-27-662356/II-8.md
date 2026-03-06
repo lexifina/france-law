@@ -1,5 +1,5 @@
 # Article II.8
 
-Les délégués syndicaux et représentants du personnel bénéficient de la protection accordée par les dispositions du code du travail.
+Les délégués syndicaux, les représentants de section syndicale, les représentants du personnel et les salariés à qui s'appliquent la présente CCN, mandatés par une organisation syndicale représentative pour l'une des commissions paritaires instituées par la présente CCN, sont des salariés protégés au sens du code du travail.
 
-Le licenciement d'un salarié, investi de mandats syndicaux ou électifs, est soumis à l'autorisation de l'inspection du travail et après avis de la commission paritaire régionale ; celle-ci se prononce dans les 6 semaines suivant sa saisine.
+En outre, le licenciement d'un salarié investi de mandats syndicaux, désignatifs ou électifs ou à l'expiration des délais légaux de protection après terme du mandat, ne peut intervenir qu'après avis de la CPPNI, saisie concomitamment à l'Inspection du travail. La CPPNI se prononce dans le mois suivant la réception de la saisine. La CPPNI, si nécessaire, peut inviter les parties à exposer séparément leur position par tout moyen technique approprié.
