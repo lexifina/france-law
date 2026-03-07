@@ -953,3 +953,33 @@ Service de viticulture de Blaye.
 |
 
 Du 1er février 2026 au 31 janvier 2027 |
+
+Opération :
+
+Déménagement du service d'analyse de risque et de ciblage (SARC) et du pôle de science des données de la douane (PSDD).
+
+Services concernés :
+
+Service d'analyse de risque et de ciblage (SARC) et pôle de science des données de la douane (PSDD). |
+
+Du 1er mars 2026 au 31 août 2027 |
+
+Opération :
+
+Déménagement de la division de Champagne.
+
+Service concerné :
+
+Division de Champagne. |
+
+Du 1er mars 2026 au 28 février 2027 |
+
+‍Opération :
+
+Fermeture de l'antenne judiciaire de Dijon de l'office national anti-fraude (ONAF).
+
+Service concerné :
+
+Antenne judiciaire de l'ONAF de Dijon. |
+
+Du 1er mars 2026 au 28 février 2027 |
