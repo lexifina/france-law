@@ -982,21 +982,31 @@ France |
 
 01.07.2014 |
 
-CAPEL/ OVILOT
+NATERA
 
-267, avenue Pierre Sémard
+Les Balquières, route d'Espalion
 
-46002 Cahors
+12850 Onet-le-Château
 
-Date d'agrément : 01.07.2014 |
+Date d'agrément : 01.07.2014
 
-CAUSSES DU LOT (Caussenard du Lot) |
+|
 
-France |
+CAUSSES DU LOT (Caussenard du Lot)
 
-'' |
+|
 
-01.07.2014 |
+France
+
+|
+
+-
+
+|
+
+01.07.2014
+
+|
 
 RACES OVINES DES MASSIFS-SÉLECTION (ROM-SÉLECTION)
 
@@ -1414,9 +1424,13 @@ France |
 
 04.01.2016 |
 
-Association Organisme de Sélection des Races Ovines Bretonnes (OS-ROB)
+Association Organisme de Sélection des Races Ovines Bretonnes
 
-3, allée des Sapins-Verts, 44880 Sautron
+(OS-ROB)
+
+3, allée des Sapins-Verts
+
+44880 Sautron
 
 Date d'agrément : 18 février 2025
 
@@ -1430,13 +1444,21 @@ France |
 
 18 février 2025 |
 
-Belle-Ile |
+Belle-Île |
 
 France |
 
 3 ; 4 |
 
 18 février 2025 |
+
+Landes de Bretagne |
+
+France |
+
+3 ; 4 |
+
+4 mars 2026 |
 
 III. - Liste des organismes de sélection agréés qui réalisent des programmes de sélection avec des reproducteurs de race pure de l'espèce caprine
 
