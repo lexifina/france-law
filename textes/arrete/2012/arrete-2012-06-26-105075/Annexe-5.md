@@ -1,8 +1,6 @@
 # Article Annexe 5
 
-OBLIGATIONS RELATIVES À L'ORGANISATION DES STAGES
-
-DE SENSIBILISATION À LA SÉCURITÉ ROUTIÈRE
+OBLIGATIONS RELATIVES À L'ORGANISATION DES STAGES DE SENSIBILISATION À LA SÉCURITÉ ROUTIÈRE
 
 Afin de garantir le respect de la réglementation, la qualité de la formation et les intérêts des stagiaires, l'exploitant de l'établissement ou les personnes désignées pour l'accueil et l'encadrement technique et administratif des stages doivent :
 
@@ -14,7 +12,9 @@ Afin de garantir le respect de la réglementation, la qualité de la formation e
 
 - conseiller l'accompagnement, durant le stage, d'un interprète si le stagiaire est non francophone ou d'un médiateur en langue des signes s'il est sourd ou malentendant ou d'une personne facilitant son autonomie s'il est handicapé ;
 
-- remettre au stagiaire le règlement intérieur de l'établissement pour l'activité des stages de sensibilisation à la sécurité routière et une fiche d'inscription ou une convocation comportant notamment les engagements de l'établissement en cas d'annulation d'un stage (modalités de reversement des sommes versées, orientation sur un autre stage, délai, lieu) et les dispositions prises en cas de défection du stagiaire au stage.
+- s'assurer d'avoir l'ensemble des documents permettant l'instruction du dossier du stagiaire ;
+
+- remettre au stagiaire le règlement intérieur de l'établissement pour l'activité des stages de sensibilisation à la sécurité routière et une fiche d'inscription ou une convocation comportant notamment les engagements de l'établissement en cas d'annulation d'un stage (modalités de reversement des sommes versées, orientation sur un autre stage, délai, lieu), les dispositions prises en cas de défection du stagiaire au stage et l'obligation de se munir les jours de stage d'un justificatif d'identité conforme à l'arrêté du 23 décembre 2016 relatif à la justification de l'identité, du domicile, de la résidence normale et de la régularité du séjour pour l'obtention du permis de conduire.
 
 2° Pour l'organisation du stage :
 
@@ -26,9 +26,9 @@ Afin de garantir le respect de la réglementation, la qualité de la formation e
 
 - s'assurer que :
 
-- le nombre de stagiaires présents est compris entre six et vingt ;
+- le nombre de stagiaires présents est compris entre six et vingt. Ce nombre peut être inférieur à six en cas de force majeure dûment justifié ;
 
-- mettre à la disposition des stagiaires les fournitures ainsi que le matériel multimédia et pédagogique nécessaire (stylos ou crayons, tableau ou paper-board, ordinateur, vidéo-projecteur, et documents utiles au bon déroulement du stage en conformité avec le programme du stage...) ;
+- mettre à la disposition des stagiaires et des animateurs les fournitures ainsi que le matériel multimédia et pédagogique nécessaire (stylos ou crayons, chaises, tables ou chaises avec tablette écritoire, tableau ou paper-board, ordinateur, vidéo-projecteur, et documents utiles au bon déroulement du stage en conformité avec le programme du stage…) ;
 
 - informer les stagiaires et les animateurs de la déprogrammation d'un stage, au minimum un mois à l'avance avant la date de son organisation.
 
@@ -40,10 +40,16 @@ Afin de garantir le respect de la réglementation, la qualité de la formation e
 
 En cas de non-information ou de non-production de justificatif, les attestations de stages de sensibilisation à la sécurité routière, mentionnées ci-après, peuvent ne pas être reconnues valides par le préfet.
 
-- vérifier l'identité des stagiaires ;
+- vérifier l'identité des stagiaires à l'appui de leur convocation et de la présentation d'un justificatif d'identité conforme à l'arrêté du 23 décembre relatif à la justification de l'identité, du domicile, de la résidence normale et de la régularité du séjour pour l'obtention du permis de conduire ;
 
 - assurer personnellement l'ouverture du stage, rappeler aux stagiaires le contenu du règlement intérieur et expliquer les règles de fonctionnement du stage. Le règlement intérieur devra prévoir les quatre cas suivants d'exclusion de stage : désintéressement visible pour la formation dispensée, comportement faisant manifestement apparaître la consommation de produits psychoactifs, non-respect des horaires, utilisation répétée de distracteurs technologiques. Pour chaque demi-journée, les stagiaires devront signer la feuille d'émargement conforme au modèle prévu à l'annexe 7 ;
 
 - prendre toute disposition pour être joignable à tout moment et en capacité d'intervenir en personne en cas d'incident ou de litige à régler en cours de stage ;
 
-- assurer en personne la clôture du stage, faire signer et remettre aux stagiaires un exemplaire valablement renseigné de l'attestation de suivi de stage de sensibilisation à la sécurité routière conforme au modèle annexé à l'arrêté du 25 février 2004 relatif aux documents établis à l'occasion du suivi des stages de sensibilisation à la sécurité routière. Cette attestation ne sera pas délivrée aux stagiaires n'ayant pas suivi l'intégralité du stage ;
+- assurer en personne la clôture du stage, faire signer et remettre aux stagiaires un exemplaire valablement renseigné de l'attestation de suivi de stage de sensibilisation à la sécurité routière conforme au modèle annexé à l'arrêté du 25 février 2004 relatif aux documents établis à l'occasion du suivi des stages de sensibilisation à la sécurité routière. Cette attestation ne sera pas délivrée aux stagiaires n'ayant pas suivi l'intégralité du stage.
+
+NOTA :
+
+Conformément à l'article 22 de l'arrêté du 23 février 2026 (NOR : INTS2603338A), les agréments d'exploitation et les autorisations d'animer en cours de validité pour lesquels aucune demande de renouvellement n'a été déposée en préfecture à la date d'entrée en vigueur dudit arrêté sont prorogés d'un an.
+
+Ces dispositions, dans leur rédaction issue dudit arrêté, sont applicables aux demandes initiales et aux demandes de renouvellement d'agrément d'exploitation et d'autorisation d'animer en cours d'instruction à la date d'entrée en vigueur dudit arrêté.

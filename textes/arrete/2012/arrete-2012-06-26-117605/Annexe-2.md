@@ -1,24 +1,18 @@
 # Article Annexe 2
 
-Ministère chargé de la sécurité routière
+ATTESTATION DE FORMATION INITIALE À L'ANIMATION DES STAGES DE SENSIBILISATION À LA SÉCURITÉ ROUTIÈRE DESTINÉS AUX CONDUCTEURS INFRACTIONNISTES
 
-ATTESTATION DE FORMATION INITIALE À L'ANIMATION DES STAGES DE SENSIBILISATION
-
-À LA SÉCURITÉ ROUTIÈRE DESTINÉS AUX CONDUCTEURS INFRACTIONNISTES
-
-(Articles L. 212-2, R. 212-2-II, L. 223-6
-
-et R. 223-5 du code de la route)
+(Articles L. 212-2, R. 212-2-II, L. 223-6 et R. 223-5 du code de la route)
 
 Le ministre de
 
-Certifie que M.
+Certifie que Monsieur/Madame
 
 Nom d'usage (le cas échéant)
 
 Prénom(s)
 
-Né(e) le ..................... / ..................../ ...................... à ............................................. (département) (pays)
+Né(e) le / / à (département) (pays)
 
 Domicilié(e)
 
@@ -30,18 +24,20 @@ Expert en sécurité routière
 
 Psychologue et Expert en sécurité routière
 
-a suivi du .................. au ................... et du ..................... au .......................... à
+a suivi du au et du au à
 
 (ville/département) la formation initiale à l'animation des stages de sensibilisation à la sécurité routière, organisée sous la responsabilité du ministère chargé de la sécurité routière et assurée par l'Institut national de sécurité routière et de recherches (INSERR).
 
-Fait à ..........................., le ..........
+Fait à , le
 
-Nom et signature
+Nom et signature du bénéficiaire de la formation
 
-du bénéficiaire
+Numéro du bénéficiaire de la formation
 
-de la formation
+Cachet et signature de l'autorité administrative
 
-Cachet et signature
+NOTA :
 
-de l'autorité administrative
+Conformément à l'article 22 de l'arrêté du 23 février 2026 (NOR : INTS2603338A), les agréments d'exploitation et les autorisations d'animer en cours de validité pour lesquels aucune demande de renouvellement n'a été déposée en préfecture à la date d'entrée en vigueur dudit arrêté sont prorogés d'un an.
+
+Ces dispositions, dans leur rédaction issue dudit arrêté, sont applicables aux demandes initiales et aux demandes de renouvellement d'agrément d'exploitation et d'autorisation d'animer en cours d'instruction à la date d'entrée en vigueur dudit arrêté.
