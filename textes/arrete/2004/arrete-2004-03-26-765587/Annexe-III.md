@@ -10,56 +10,60 @@ ZONES B2 ET C |
 
 1 |
 
-38 508 |
+38 844 |
 
-38 508 |
+38 844 |
 
-33 479 |
+33 771 |
 
 2 |
 
-57 555 |
+58 057 |
 
-57 555 |
+58 057 |
 
-44 710 |
+45 100 |
 
 3 |
 
-75 447 |
+76 105 |
 
-69 183 |
+69 786 |
 
-53 766 |
+54 235 |
 
 4 |
 
-90 078 |
+90 863 |
 
-82 871 |
+83 594 |
 
-64 910 |
+65 476 |
 
 5 |
 
-107 173 |
+108 107 |
 
-98 101 |
+98 956 |
 
-76 357 |
+77 023 |
 
 6 |
 
-120 598 |
+121 650 |
 
-110 396 |
+111 359 |
 
-86 055 |
+86 805 |
 
 Pers. suppl. |
 
-13 440 |
+13 557 |
 
-12 301 |
+12 408 |
 
-9 599 |
+9 683 |
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 24 février 2026 (NOR : VLOL2535829A), ces dispositions, dans leur rédaction issue de l'arrêté précité, s'appliquent à compter du lendemain de sa publication, et jusqu'au 31 décembre 2026.
