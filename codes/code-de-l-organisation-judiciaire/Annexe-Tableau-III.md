@@ -494,7 +494,7 @@ Haute-Garonne |
 
 Toulouse |
 
-Toulouse (Lalande), Toulouse (La Reynerie), Tournefeuille. |
+Toulouse (Lalande), Toulouse (La Reynerie). |
 
 Tarn |
 
