@@ -1,0 +1,9 @@
+# Réponse à la question n° 10975
+
+- Question : [10975](10975.md) — Question n° 10975 — Rachat des petites rentes prévu par l'arrêté du 17/07/2023 : refus des assureurs
+
+## Réponse
+
+*JO du 2026-03-10, page 2126*
+
+Le plan épargne retraite (PER) créé par la loi pacte de 2019 a remplacé plusieurs produits d'épargne retraite (PERP, Madelin, Article 83) qui privilégiaient des sorties en rente viagère. Le PER est organisé en trois compartiments. Le premier permet d'accueillir des versements volontaires, le second des versements issus de l'épargne salariale et le troisième des versements obligatoires. Ce dernier compartiment, issu des contrats dits « article 83 », conserve des modalités de sortie dérogatoires, notamment l'obligation de sortir en rente. La généralisation de la sortie en capital pour les versements volontaires introduite par la loi Pacte constituait déjà une évolution importante amenant une adaptation de la gestion actif/passif des gestionnaires. Il demeure possible de solliciter auprès de son assureur un versement unique en capital lorsque la rente, issue d'un PER ou d'un ancien produit d'épargne, est inférieure à un certain montant. Ce niveau minimum a été relevé à deux reprises, d'abord à 100 euros en juillet 2021 puis à 110 euros par l'arrêté du 17 juillet 2023 portant soutien au pouvoir d'achat des épargnants. Toutefois, la sortie en capital reste à la discrétion de l'assureur qui doit préserver la mutualisation des assurés. Il est constaté que, d'une part, les entreprises d'assurance accordent souvent ce droit, et que d'autre part, la mobilisation de la médiation de l'assurance permet, dans la plupart des cas les plus complexes, d'engager l'entreprise d'assurance à un dialogue constructif en vue de la réalisation d'une sortie en capital. Pour cette raison, il n'est pas prévu à ce stade de rendre le rachat obligatoire ni d'imposer une obligation de motivation des refus opposés par les assureurs.
