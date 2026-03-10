@@ -1,0 +1,9 @@
+# Réponse à la question n° 7778
+
+- Question : [7778](7778.md) — Question n° 7778 — Hôpital transfrontalier
+
+## Réponse
+
+*JO du 2026-03-10, page 2111*
+
+L'hôpital franco-espagnol de Puigcerda en Cerdagne, créé en 2010 sous la forme d'un Groupement Européen de Coopération Territoriale (GECT), est le seul hôpital binational de l'Union européenne. Il concrétise un projet dont la coopération transfrontalière est facilitée par le cadre juridique offert par les groupements européens de coopération territoriale (règlements CE n° 1082/2006 du 5 juillet 2006 et UE n° 1302/2013 du 17 décembre 2013). Le bon fonctionnement de l'hôpital, au bénéfice des 33 000 habitants du plateau de Cerdagne, fait l'objet d'une attention particulière de la part des autorités françaises et espagnoles et d'échanges bilatéraux réguliers. Ce dispositif binational constitue ainsi un modèle pour d'autres projets similaires. La question soulève les difficultés rencontrées par des salariés de l'hôpital. Les autorités fiscales espagnoles exigeaient en effet qu'ils paient l'impôt sur le revenu des personnes physiques en Espagne et considéraient qu'ils ne pouvaient bénéficier du régime fiscal applicable aux travailleurs frontaliers, prévu par la Convention fiscale franco-espagnole du 10 octobre 1995, qui confère le droit d'imposer à la France. Les échanges entre le service compétent de la Direction générale des finances publiques et les autorités fiscales espagnoles ont récemment permis de résoudre cette situation et d'éliminer la double imposition subie par ces salariés. Cela se traduit par un retour à la situation antérieure, l'Espagne reconnaissant à la France le droit exclusif d'imposer les salariés de l'hôpital résidant dans la zone transfrontalière française, tant pour les années en litige que pour le futur.
