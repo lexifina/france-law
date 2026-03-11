@@ -1,0 +1,251 @@
+# Article 1er
+
+L'annexe 6.1 de la convention collective nationale de la métallurgie du 7 février 2022 est rédigée comme suit :
+
+« Sous réserve, pour le groupe d'emplois F, de la condition particulière d'expérience professionnelle de six années, telle que définie par le second tableau ci-après, le barème unique des salaires minima hiérarchiques à partir de 2026, pour une durée hebdomadaire de travail effectif de 35 heures, sur la base mensualisée de 151,66 heures, est fixé comme suit :
+
+Le barème unique ci-dessous fixant des salaires minima hiérarchiques pour la durée du travail considérée, les valeurs dudit barème seront adaptées en fonction de la durée de travail effectif à laquelle est soumis le salarié.
+
+Conformément à l'article 139 de la présente convention, les montants des salaires minima hiérarchiques des barèmes uniques ci-dessous sont majorés de 15 % ou 30 % pour les salariés soumis à une convention de forfait en heures ou en jours sur l'année.
+
+Groupe d'emplois |
+
+Classe d'emplois |
+
+Base 35 heures |
+
+Majoration de 15 % |
+
+Majoration de 30 % |
+
+A |
+
+1 |
+
+21 980 € |
+
+25 277 € |
+
+28 574 € |
+
+2 |
+
+22 100 € |
+
+25 415 € |
+
+28 730 € |
+
+B |
+
+3 |
+
+22 710 € |
+
+26 117 € |
+
+29 523 € |
+
+4 |
+
+23 620 € |
+
+27 163 € |
+
+30 706 € |
+
+C |
+
+5 |
+
+24 510 € |
+
+28 187 € |
+
+31 863 € |
+
+6 |
+
+25 780 € |
+
+29 647 € |
+
+33 514 € |
+
+D |
+
+7 |
+
+26 680 € |
+
+30 682 € |
+
+34 684 € |
+
+8 |
+
+28 700 € |
+
+33 005 € |
+
+37 310 € |
+
+E |
+
+9 |
+
+30 760 € |
+
+35 374 € |
+
+39 988 € |
+
+10 |
+
+33 970 € |
+
+39 066 € |
+
+44 161 € |
+
+F |
+
+11 |
+
+35 200 € |
+
+40 480 € |
+
+45 760 € |
+
+12 |
+
+37 000 € |
+
+42 550 € |
+
+48 100 € |
+
+G |
+
+13 |
+
+40 350 € |
+
+46 403 € |
+
+52 455 € |
+
+14 |
+
+44 250 € |
+
+50 888 € |
+
+57 525 € |
+
+H |
+
+15 |
+
+47 380 € |
+
+54 487 € |
+
+61 594 € |
+
+16 |
+
+52 370 € |
+
+60 226 € |
+
+68 081 € |
+
+I |
+
+17 |
+
+59 720 € |
+
+68 678 € |
+
+77 636 € |
+
+18 |
+
+68 450 € |
+
+78 718 € |
+
+88 985 € |
+
+À partir de 2026, le barème unique des salaires minima hiérarchiques applicable, durant les six premières années, aux salariés débutants occupant un poste appartenant au groupe d'emplois F, pour une durée hebdomadaire de travail effectif de 35 heures, sur la base mensualisée de 151,66 heures, est fixé comme suit :
+
+Groupe d'emplois |
+
+Classe d'emplois |
+
+Expérience professionnelle |
+
+Base 35 heures |
+
+Majoration de 15 % |
+
+Majoration de 30 % |
+
+F |
+
+11 |
+
+Moins de 2 ans d'expérience professionnelle |
+
+28 430 € |
+
+32 695 € |
+
+36 959 € |
+
+À partir de 2 ans jusqu'à moins de 4 ans d'expérience professionnelle |
+
+29 852 € |
+
+34 329 € |
+
+38 807 € |
+
+À partir de 4 ans jusqu'à 6 ans d'expérience professionnelle |
+
+32 240 € |
+
+37 076 € |
+
+41 912 € |
+
+12 |
+
+Moins de 2 ans d'expérience professionnelle |
+
+29 940 € |
+
+34 431 € |
+
+38 922 € |
+
+À partir de 2 ans jusqu'à moins de 4 ans d'expérience professionnelle |
+
+31 437 € |
+
+36 153 € |
+
+40 868 € |
+
+À partir de 4 ans jusqu'à 6 ans d'expérience professionnelle |
+
+33 952 € |
+
+39 045 € |
+
+44 138 € |
+
+Conformément à l'article 139 de la présente convention, le barème adapté figurant à l'alinéa précédent inclut les majorations de 5 % ou 8 % prévues pour les salariés débutants du groupe d'emplois F justifiant, respectivement, de 2 ans ou 4 ans d'expérience professionnelle. »
