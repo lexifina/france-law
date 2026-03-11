@@ -6,7 +6,7 @@ ANNEXE 1
 
 APPEL À CANDIDATURES À DESTINATION DES ÉTABLISSEMENTS DE SANTÉ MENTIONNÉS AU PREMIER ALINÉA DE L'ARTICLE 4 DU DÉCRET NO 2025-895 DU 4 SEPTEMBRE 2025 RELATIF À L'EXPÉRIMENTATION DU RETRAITEMENT DE CERTAINS DISPOSITIFS MÉDICAUX À USAGE UNIQUE.
 
-Le dossier de candidature complet doit être transmis par l'établissement de santé candidat impérativement avant le 13/02/2026 à l'adresse suivante : DGS-EXP-DMUU@sante.gouv.fr
+Le dossier de candidature complet doit être transmis par l'établissement de santé candidat impérativement avant le 13/03/2026 à l'adresse suivante : DGS-EXP-DMUU@sante.gouv.fr
 
 La direction générale de la santé communique aux candidats sa décision dans un délai de deux mois à compter de la date de fin de l'appel à candidature. En cas de décision défavorable, cette dernière est motivée.
 

@@ -4,7 +4,7 @@ ANNEXE 2
 
 APPEL À CANDIDATURE À DESTINATION DES PERSONNES PHYSIQUES OU MORALES MENTIONNÉES AU SECOND ALINÉA DE L'ARTICLE 4 DU DÉCRET NO 2025-895 DU 4 SEPTEMBRE 2025 RELATIF À L'EXPÉRIMENTATION DU RETRAITEMENT DE CERTAINS DISPOSITIFS MÉDICAUX À USAGE UNIQUE
 
-Le dossier de candidature complet doit être transmis par le candidat impérativement avant le 13/02/2026 à l'adresse suivante : DGS-EXP-DMUU@sante.gouv.fr
+Le dossier de candidature complet doit être transmis par le candidat impérativement avant le 13/03/2026 à l'adresse suivante : DGS-EXP-DMUU@sante.gouv.fr
 
 La direction générale de la santé communique aux demandeurs sa décision dans un délai de deux mois à compter du dépôt de la candidature. En cas de décision défavorable, cette dernière est motivée.
 
