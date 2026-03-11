@@ -6,7 +6,7 @@ Circonscriptions électorales CRC Normandie-Hauts-de-France |
 
 Département du Nord |
 
-Département du Pas de Calais |
+Département du Pas-de-Calais |
 
 Département de la Somme |
 
@@ -14,7 +14,7 @@ Département de la Seine-Maritime |
 
 Courseulles-Arromanches |
 
-Isigny sur Mer |
+Isigny-sur-Mer |
 
 Sainte Marie du Mont |
 
@@ -26,7 +26,7 @@ Côte des Isles |
 
 Pirou |
 
-Blainville sur mer |
+Gouville-sur-mer/Blainville-sur-mer |
 
 Sud de la Sienne |
 
@@ -36,37 +36,35 @@ Les circonscriptions électorales rattachées au comité régional de la conchyl
 
 Circonscriptions électorales CRC Bretagne-Nord |
 
-Saint-Malo-Cancale |
+Saint-Malo - Cancale |
 
-Saint-Brieuc-Arguenon |
+Saint-Brieuc - Arguenon |
 
-Saint-Brieuc-La Fresnaye |
+Saint-Brieuc - La Fresnaye |
 
-Saint-Brieuc eau profonde-Goëlo-Trégor |
+Saint-Brieuc eau profonde - Goëlo - Trégor |
 
-Morlaix-Penzé |
+Morlaix - Penzé |
 
-Brest-Abers |
+Brest - Abers |
 
 Les circonscriptions électorales rattachées au comité régional de la conchyliculture Bretagne-Sud sont les suivantes :
 
-Circonscriptions électorales CRC Bretagne-sud |
+Circonscriptions électorales CRC Bretagne-Sud |
 
-Pays Bigouden |
-
-Aven |
+Pays Bigouden, Fouesnantais et Aven |
 
 Belon |
 
 Ria d'Etel |
 
-Carnac-Plouharnel |
+Carnac - Plouharnel |
 
 Rivières de Crac'h et Saint-Philibert |
 
-Rivière d'Auray-Locmariaquer |
+Rivière d'Auray |
 
-Larmor Baden |
+Larmor Baden-Golfe nord |
 
 Sarzeau |
 
@@ -78,7 +76,7 @@ Pénestin |
 
 Le Croisic |
 
-Mesquer-Pen Bé |
+Mesquer - Pen Bé |
 
 Baie de Quiberon |
 
@@ -100,27 +98,21 @@ Les circonscriptions électorales rattachées au comité régional de la conchyl
 
 Circonscriptions électorales CRC Charente-Maritime |
 
-Île de Ré |
+Ile de Ré |
 
-La Rochelle nord |
+La Rochelle |
 
-La Rochelle sud |
+Ile d'Oléron |
 
-Île d'Oléron |
+La Tremblade - Arvert |
 
-La Tremblade-Arvert |
-
-Etaules-Chaillevette-Mornac-Breuillet-L'Eguille sur Seudre |
+Etaules - Chaillevette - Mornac - Breuillet - L'Eguille sur Seudre |
 
 Bourcefranc le Chapus |
 
-Marennes-Saint-Just-Luzac-Nieulle sur Seudre-Le Gua |
+Marennes - Saint-Just-Luzac - Nieulle sur Seudre - Le Gua |
 
 Port des Barques |
-
-Charente-Maritime |
-
-La Rochelle |
 
 Bassin Marennes-Oléron |
 
@@ -128,46 +120,40 @@ Les circonscriptions électorales rattachées au comité régional de la conchyl
 
 Circonscriptions électorales CRC Arcachon-Aquitaine |
 
-Andernos |
+La Teste de Buch |
 
-Ares |
+Gujan-Mestras |
 
-Cap-Ferret/ Cote Nord-Ouest |
-
-Gujan Mestras |
+Nord Bassin |
 
 Hossegor |
-
-La Teste de Buch/ Arcachon |
-
-Lanton/ Audenge |
 
 Rive gauche de la Gironde |
 
 Les circonscriptions électorales rattachées au comité régional de la conchyliculture Méditerranée sont les suivantes :
 
-Circonscriptions électorales Méditerranée |
-
-Vendres |
+Circonscriptions électorales CRC Méditerranée |
 
 Leucate |
 
 Gruissan |
 
-Sète |
+Vendres |
 
-Frontignan |
+Marseillan |
+
+Mèze |
 
 Loupian |
 
 Bouzigues |
 
-Mèze |
+Sète |
 
-Marseillan |
+Frontignan |
 
 Port Saint-Louis du Rhône |
 
-Toulon |
+La Seyne sur Mer |
 
-Corse |
+Aléria |

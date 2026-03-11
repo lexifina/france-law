@@ -46,7 +46,7 @@ Les eaux territoriales françaises comprises entre la ligne séparative des eaux
 
 - puis à partir du point C allant en direction d'un point de coordonnées 50° 02I 00J N et 05° 40I 00J O. |
 
-39 |
+24 |
 
 2. Bretagne-Nord
 
@@ -56,7 +56,7 @@ L'ensemble des communes sises sur le littoral ou sur un bassin versant de ce lit
 
 Les eaux territoriales françaises comprises entre la limite ouest définie au point 1 et la latitude 48° 17I 40J N partant de la limite séparative des communes de Crozon et de Roscanvel, à l'extérieur de la rade de Brest. |
 
-38 |
+40 |
 
 3. Bretagne-Sud
 
@@ -72,7 +72,7 @@ Les eaux territoriales françaises comprises entre la limite Nord définie au po
 
 - puis partant au droit du point B. |
 
-37 |
+38 |
 
 4. Pays de la Loire
 
@@ -108,7 +108,7 @@ Dans l'estuaire de la Gironde :
 
 - à l'est de la ligne reliant le point B au point C (45° 36I 30 J N ; 01° 04I 00J O). |
 
-59 |
+45 |
 
 6. Arcachon-Aquitaine
 
