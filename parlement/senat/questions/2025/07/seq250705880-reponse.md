@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250705880
+
+- Question : [SEQ250705880](seq250705880.md) — Répartition des charges scolaires dans le cadre d'une garde alternée au sein d'un syndicat intercommunal scolaire
+
+## Réponse
+
+*Éducation nationale, JO du 2026-03-12, page 1318*
+
+Conformément aux articles L. 5212-1 et suivants du code général des collectivités territoriales, le syndicat de communes est un établissement public de coopération intercommunale (EPCI) associant des communes en vue d'oeuvres ou de services d'intérêt intercommunal. Ces oeuvres ou services peuvent comprendre la compétence relative au fonctionnement des écoles. Le syndicat constitué sur le fondement d'un objet scolaire prend alors la dénomination de syndicat intercommunal à vocation scolaire (SIVOS). Le législateur a laissé aux statuts du SIVOS le soin de définir le champ de compétences qu'il peut exercer et les conditions dans lesquelles chaque commune membre lui transfère tout ou partie des compétences que celui-ci est habilité à exercer. Le budget du syndicat de communes pourvoit aux dépenses de création et d'entretien des établissements ou services pour lesquels le syndicat est constitué. Les statuts du SIVOS précisent les recettes du budget du syndicat et comprennent notamment la contribution des communes associées. Il est tout à fait envisageable d'y inscrire des règles de répartition des dépenses pour les situations relevant de la garde alternée, que le temps de garde soit égalitaire ou non. Aussi, le Gouvernement n'envisage pas, par voie réglementaire ou législative, de modifier les modalités de répartition financière entre communes membres d'un SIVOS qui relève du cadre de la libre administration des collectivités, notamment en matière de transfert de compétence scolaire à des EPCI. Concernant la question écrite n° 02136 de la sénatrice Evelyne Didier, la réponse apportée en 2008 n'appelle pas de modifications.
