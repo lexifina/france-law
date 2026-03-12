@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241002031
+
+- Question : [SEQ241002031](seq241002031.md) — Le fonctionnement des éco-délégués dans l'enseignement scolaire
+
+## Réponse
+
+*Éducation nationale, JO du 2026-03-12, page 1316*
+
+Depuis 2020, les éco-délégués élus au collège et au lycée sont accompagnés à différents niveaux pour mener des actions en faveur de la transition écologique, dans le cadre du plan ministériel « L'École, premier lieu de l'engagement pour la transition écologique ». Dans les établissements, les enseignants et les référents EDD soutiennent les élèves dans leurs projets, proposent des formations et coordonnent les actions. Au niveau académique, des inspecteurs pilotent l'EDD, organisent des événements, diffusent des ressources et mobilisent des partenaires locaux. Au niveau national, la DGESCO coordonne l'ensemble du dispositif, produit des guides, met à disposition des ressources sur Éduscol et organise des événements majeurs comme des simulations de COP. Des partenariats sont noués avec de nombreux organismes publics et associatifs, par exemple, l'Agence française de développement (AFD), partenaire des simulations de COP Climat ; le CNED, qui propose des ressources pédagogiques comme Le b.a.-ba du climat et de la biodiversité ou encore l'Office français de la biodiversité (OFB) et l'ADEME (Agence de la transition écologique). Des associations comme La Fondation GoodPlanet, WWF France, Surfrider Foundation Europe, France Nature Environnement ou Les Petits Débrouillards sont également des partenaires. Le prix de l'action éco-déléguée valorise les projets menés, qui sont majoritairement collectifs, solidaires et transformateurs. Enfin, l'éducation à la transition écologique est intégrée aux enseignements tout au long de la scolarité grâce à des programmes et repères pédagogiques visant une progression continue des apprentissages.
