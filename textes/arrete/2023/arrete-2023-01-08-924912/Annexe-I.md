@@ -36,7 +36,7 @@ e) Dans le cas où une offre de services ou d'accompagnement serait mise à disp
 
 8° S'agissant des autorisations spécifiques prévues au cinquième alinéa du III de l'article L. 441-2, les pièces et informations complémentaires à fournir sont les suivantes :
 
-a) Les éléments permettant de justifier de l'existence d'un besoin local et durable en résidences universitaires ou en programme de logements destinés à des jeunes de moins de trente ans ;
+a) Les éléments permettant de justifier de l'existence d'un besoin local et durable en programme de logements destinés à des jeunes de moins de trente ans ;
 
 b) Dans le cas où une offre de services serait mise à disposition des locataires, et à laquelle ils pourront librement avoir accès, sans qu'elle puisse être liée au contrat de bail, les informations relatives à la nature et au coût de cette offre de services et d'accompagnement ;
 
