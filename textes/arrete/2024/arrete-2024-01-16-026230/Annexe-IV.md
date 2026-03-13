@@ -18,6 +18,8 @@ A. - Invitation individuelle
 
 B. - La remise du kit de dépistage et le rôle du professionnel de santé
 
+C. - L'envoi de la relance
+
 IV. - Approvisionnement en kits de dépistage
 
 V. - Analyse du prélèvement et lecture des prélèvements biologiques
@@ -30,7 +32,7 @@ B. - Suivi
 
 VII. - Informations à destination de l'Etat
 
-ANNEXE 1
+Annexe 1
 
 I. - Préambule
 
@@ -114,7 +116,7 @@ Le kit de dépistage, fourni par le prestataire sélectionné à l'issue de la p
 
 - pour le numéro d'identifiant unique national - numéro d'inscription au répertoire de l'INSEE (NIR) de la personne invitée.
 
-Ces numéros sont inscrits en clair et sous forme de code à barres ou data matrix ;
+Ces numéros sont inscrits en clair et sous forme de code à barres ou data matrix.
 
 - les coordonnées du médecin (le plus souvent le médecin traitant) identifié par la personne en tant que destinataire des résultats (ou du centre de santé dans lequel il exerce éventuellement) ;
 
@@ -124,31 +126,31 @@ Cette fiche propose également une étiquette autocollante normée, à renseigne
 
 Dans les kits de dépistage livrés directement par le prestataire aux médecins, les fiches d'identification sont personnalisées : les coordonnées du médecin (ou du centre de santé dans lequel il exerce le cas échéant) sont déjà renseignées suivant les informations recueillies à la commande.
 
-Sur les fiches d'identification personnalisées figurent au minimum les informations suivantes : nom, prénom et numéro d'assurance maladie du médecin, adresse et numéro du centre de santé dans lequel il exerce éventuellement. Pour les besoins d'automatisation des examens de biologie médicale, un code à barres ou un data matrix complète ces informations en clair.
+Sur les fiches d'identification personnalisées figurent au minimum les informations suivantes : nom, prénom et numéro d'assurance maladie du médecin destinataire des résultats, adresse et numéro du centre de santé dans lequel il exerce éventuellement. Pour les besoins d'automatisation des examens de biologie médicale, un code à barres ou un data matrix complète ces informations en clair.
 
 - des emballages permettant le transport et la conservation des flacons dans les conditions de qualité et sécurité requises ;
 
 - un support retour pré-rempli et pré-affranchi permettant l'envoi postal du prélèvement réalisé vers les laboratoires de biologie médicale compétents (le pré-affranchissement de ce pli est à la charge du prestataire).
 
-Les kits de dépistage livrés aux CRCDC et aux pharmacies d'officine sont vierges de toute identification.
+Les kits de dépistage livrés aux CRCDC, aux pharmacies d'officine, ainsi qu'aux infirmiers diplômés d'Etat sont vierges de toute identification.
 
-Le prestataire met en place les éléments de traçabilité permettant d'identifier pour chaque personne la modalité de remise de kit (professionnels de santé - en différenciant médecins et pharmaciens d'officine - et commande en ligne).
+Le prestataire met en place les éléments de traçabilité permettant d'identifier pour chaque personne la modalité de remise de kit (professionnels de santé - en différenciant médecins, pharmaciens d'officine et infirmiers diplômés d'Etat - et commande en ligne).
 
 III. - Modalités d'invitation, de remise des kits de dépistage et de relances
 
-Les personnes éligibles sont personnellement invitées par l'organisme du régime d'assurance maladie auquel elles sont affiliées à réaliser le dépistage, tous les deux ans. Elles sont invitées à retirer le kit de dépistage chez leur médecin lors d'une consultation, dans une pharmacie d'officine ou à commander directement le kit en ligne.
+Les personnes éligibles sont personnellement invitées par l'organisme du régime d'assurance maladie auquel elles sont affiliées à réaliser le dépistage, tous les deux ans. Elles sont invitées à retirer le kit de dépistage chez leur médecin lors d'une consultation, dans une pharmacie d'officine, auprès d'un infirmier diplômé d'Etat ou à commander directement le kit en ligne.
 
-L'identification des personnes éligibles à inviter est effectuée par l'assurance maladie à partir des données individuelles des assurés disponibles dans ses bases de données.
+L'identification des personnes éligibles à inviter est effectuée par l'Assurance maladie à partir des données individuelles des assurés disponibles dans ses bases de données.
 
 Les invitations mentionnent les motifs d'inéligibilité. Les personnes sont invitées à s'adresser à un professionnel de santé en cas de doute sur leur éligibilité ou de besoin de conseil pour leur prise en charge.
 
-La réalisation du dépistage implique différentes étapes :
+La réalisation du dépistage implique différentes étapes.
 
 A. - Invitation individuelle
 
 L'invitation est accompagnée :
 
-- des supports d'information, élaborés par l'INCa, comportant notamment des informations sur les avantages et les inconvénients du dépistage et permettant ainsi une décision éclairée de la personne ;
+- des supports d'information, élaborés par l'INCa, comportant notamment des informations sur les avantages et les inconvénients du dépistage et permettant ainsi une décision éclairée de la personne.
 
 - d'étiquettes autocollantes :
 
@@ -158,25 +160,25 @@ L'invitation est accompagnée :
 
 B. - La remise du kit de dépistage et le rôle du professionnel de santé
 
-1. Modalités de remise du kit de dépistage
+1. Modalités de remise du kit de dépistage :
 
 La remise du kit à une personne âgée de 50 à 74 ans à risque moyen peut être effectuée :
 
-- par un médecin : par son médecin traitant, par un gynécologue, par un hépato-gastroentérologue, par un médecin d'un centre d'examen de santé du régime général de l'assurance maladie. Dans ce dernier cas, cette remise est effectuée en priorité à l'attention des assurés éligibles ne déclarant pas de médecin traitant ;
+- par un médecin : par son médecin traitant, par un gynécologue, par un hépato-gastroentérologue, par un médecin d'un centre d'examen de santé du régime général de l'assurance maladie. Dans ce dernier cas, cette remise est effectuée en priorité à l'attention des assurés éligibles ne déclarant pas de médecin traitant. La remise par un médecin ne donne pas lieu à une consultation spécifique mais est effectuée dans le cadre des consultations classiques ;
 
 - par un pharmacien d'officine ;
+
+- par un infirmier diplômé d'Etat ;
 
 - par envoi postal directement à domicile suite à une commande en ligne ;
 
 - par envoi postal directement à domicile avec l'envoi d'une seconde relance à réaliser le test de dépistage faisant suite à l'invitation. Celle-ci est réalisée pour les personnes ayant participé au moins à l'une des trois précédentes campagnes de dépistage organisé.
 
-Cette remise ne donne pas lieu à une consultation spécifique mais est effectuée dans le cadre des consultations classiques.
-
-2. Rôle du professionnel de santé
+2. Rôle du professionnel de santé :
 
 Le professionnel de santé évalue le niveau de risque et l'éligibilité de la personne en fonction de son histoire personnelle et familiale. Il remet un kit à toute personne de la tranche d'âge cible ne présentant pas de motif d'inéligibilité pour le programme de dépistage organisé.
 
-L'assurance maladie met à disposition des médecins traitants, à partir des données dont elle dispose, l'information des personnes éligibles de leur patientèle qui n'ont pas réalisé leurs dépistages.
+L'Assurance maladie met à disposition des médecins traitants, à partir des données dont elle dispose, l'information des personnes éligibles de leur patientèle qui n'ont pas réalisé leurs dépistages.
 
 Si la démarche est initiée par le professionnel de santé et que la personne ne dispose pas de lettre d'invitation, le professionnel de santé s'assure de l'éligibilité de la personne, notamment par l'évaluation du niveau de risque et selon les recommandations en vigueur.
 
@@ -184,7 +186,7 @@ En cas d'inéligibilité :
 
 - le médecin propose des modalités alternatives de dépistage, de diagnostic ou de surveillance, adaptées selon les recommandations de bonnes pratiques cliniques en vigueur, en orientant par exemple vers un hépato-gastroentérologue ou le cas échéant vers une consultation d'oncogénétique ;
 
-- le pharmacien d'officine oriente la personne vers son médecin traitant ou vers le médecin désigné par celle-ci.
+- le pharmacien d'officine ou l'infirmier diplômé d'Etat oriente la personne vers son médecin traitant ou vers le médecin désigné par celle-ci.
 
 Dans le cas de la commande en ligne, l'éligibilité est déterminée à l'aide d'un auto-questionnaire en ligne, élaboré par l'INCa. En cas d'inéligibilité, il est conseillé à la personne de se rapprocher de son médecin.
 
@@ -200,9 +202,9 @@ Si le professionnel de santé qui remet le kit n'est pas habilité à en recevoi
 
 Lors d'une visite ou consultation ultérieure, le professionnel de santé échange avec la personne sur le dépistage organisé du cancer colorectal. Si la personne n'a pas réalisé le test de dépistage suite à la remise ou à la réception d'un kit de dépistage, le professionnel de santé la sensibilise à nouveau à l'intérêt du dépistage.
 
-C. - L'envoi de relance(s)
+C. - L'envoi de relance ou de relances
 
-Les personnes éligibles de la tranche d'âge cible du dépistage, n'ayant pas réalisé l'examen de dépistage à la suite de l'invitation sont, en l'absence d'opposition de leur part et en l'absence d'information d'une situation d'inéligibilité les concernant, relancées personnellement par l'organisme du régime d'assurance maladie auquel elles sont affiliées. Le contenu de ces relances est élaboré par l'assurance maladie, sur préconisation de l'INCa.
+Les personnes éligibles de la tranche d'âge cible du dépistage, n'ayant pas réalisé l'examen de dépistage à la suite de l'invitation sont, en l'absence d'opposition de leur part et en l'absence d'information d'une situation d'inéligibilité les concernant, relancées personnellement par l'organisme du régime d'assurance maladie auquel elles sont affiliées. Le contenu de ces relances est élaboré par l'Assurance maladie, sur préconisation de l'INCa.
 
 Deux relances sont effectuées, dans un délai maximal de 12 mois. De plus, lorsque la personne a participé au moins à l'une des trois précédentes campagnes de dépistage organisé du cancer colorectal, un kit de dépistage est joint au second courrier de relance.
 
@@ -216,17 +218,17 @@ Trois modes de commande et d'acheminement des kits de dépistage sont prévus :
 
 - les professionnels de santé peuvent commander directement les kits de dépistage à l'aide d'un formulaire en ligne via l'espace professionnel AMELI ;
 
-- les CRCDC peuvent commander les kits de dépistage suivant les modalités prévues entre la CNAM et le prestataire responsable de la livraison des kits. Les CRCDC sont chargés d'approvisionner les professionnels de santé ne recourant pas à la commande directe à l'assurance maladie ou n'y ayant pas accès, ainsi que les professionnels de santé impliqués dans des modalités complémentaires ;
+- les CRCDC peuvent commander les kits de dépistage suivant les modalités prévues entre la CNAM et le prestataire responsable de la livraison des kits. Les CRCDC sont chargés d'approvisionner les professionnels de santé ne recourant pas à la commande directe à l'Assurance maladie ou n'y ayant pas accès, ainsi que les professionnels de santé impliqués dans des modalités complémentaires ;
 
 - la personne éligible peut recevoir le kit directement à son domicile à la suite d'une commande en ligne ou lors de la seconde relance.
 
-Le conditionnement des kits de dépistage est conforme aux exigences de la directive 98/79/CE modifiée transposée en droit français dans les articles R. 5221-1 et suivants du code de la santé publique .
+Le conditionnement des kits de dépistage est conforme aux exigences de la directive 98/79/ CE modifiée transposée en droit français dans les articles R. 5221-1 et suivants du code de la santé publique.
 
 V. - Analyse du prélèvement et lecture des prélèvements biologiques
 
 Pour ce qui concerne les conditions sanitaires de transport vers les laboratoires de biologie médicale, le Haut Conseil de santé publique, en sa séance du 11 décembre 2009, indique que l'avis du 5 juillet 2007 donné sur le transport des kits utilisant le gaïac s'applique de la même façon pour les kits de dépistage du cancer colorectal par un examen de biologie médicale utilisant une méthode immunologique quantitative de recherche de sang dans les selles. Ces flacons contenant de la matière fécale relèvent, pour le transport, de la catégorie B visée dans la réglementation.
 
-Les règles de transport en vigueur de ce type de prélèvement biologique prévoient notamment des types d'emballages certifiés, identifiés par la mention matière biologique, catégorie B.
+Les règles de transport en vigueur de ce type de prélèvement biologique prévoient notamment des types d'emballages certifiés, identifiés par la mention Matière biologique, Catégorie B.
 
 A réception des prélèvements, les laboratoires de biologie médicale vérifient, avant de réaliser la phase analytique, la tranche d'âge d'éligibilité, l'intégrité du prélèvement, la date de péremption du kit de dépistage, la date du prélèvement, l'identification du prélèvement et sa correspondance avec la fiche d'identification.
 
@@ -234,7 +236,7 @@ Ensuite, les laboratoires de biologie médicale réalisent l'analyse et l'interp
 
 VI. - Envoi des résultats et suivi
 
-Les résultats de l'examen sont adressés aux personnes dépistées, au(x) professionnel(s) de santé identifié(s) et aux CRCDC concernés dans le respect des dispositions du RGPD, de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et du code la santé publique.
+Les résultats de l'examen sont adressés aux personnes dépistées, au(x) professionnel(s)de santé identifié(s) et aux CRCDC concernés dans le respect des dispositions du RGPD, de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et du code la santé publique.
 
 A. - Envoi des résultats
 
@@ -282,7 +284,7 @@ Le représentant de l'Etat (directeur général de l'ARS) reçoit annuellement d
 
 Le représentant de l'Etat dans la région (directeur général de l'ARS) et l'INCa, sont également destinataires des informations et des éléments suivants, à savoir :
 
-- les informations agrégées concernant l'année N-1 transmises à l'Agence nationale de santé publique et validées par celle-ci ;
+- les informations agrégées concernant l'année N - 1 transmises à l'Agence nationale de santé publique et validées par celle-ci ;
 
 - le rapport annuel d'activité, dont le modèle est fourni par l'INCa. Celui-ci mentionne en particulier les actions de sensibilisation et d'information réalisées auprès des médecins et de la population ainsi que la formation au dépistage reçue par les praticiens.
 
@@ -297,8 +299,6 @@ I. - Préambule
 Ce cahier des charges définit les conditions que remplit un laboratoire de biologie médicale pour la réalisation d'examen de biologie médicale de recherche de sang dans les selles par méthode immunologique quantitative, en termes de missions, moyens, contrôle de qualité. L'examen de biologie médicale de recherche de sang dans les selles par méthode immunologique quantitative comporte un prélèvement biologique unique, lu par un automate ayant un seuil paramétrable pour la sensibilité (Se) et spécificité (Sp). Sont attendues : une valeur positive prédictive (VPP) d'au moins 8 à 10 % pour les cancers et une VPP ≥ 40 % pour les cancers et les adénomes avancés. Le choix du seuil détermine le pourcentage de résultats positifs et donc le nombre de personnes dépistées devant effectuer une coloscopie. Le pourcentage de résultats positifs se situe entre 3 et 6 %. Le paramétrage du seuil des automates peut évoluer en fonction des résultats et des demandes du ministère chargé de la santé.
 
 II. - Conditions nécessaires pour être laboratoire de biologie médicale
-
-Le nombre de laboratoires de biologie médicale est limité (de deux à cinq) afin d'optimiser l'utilisation des automates.
 
 Dans le cadre du dépistage organisé du cancer colorectal, ne peuvent être laboratoires de biologie médicale pour les examens de biologie médicale de recherche de sang dans les selles fondés sur une méthode immunologique quantitative que les structures autorisées à exercer comme laboratoire de biologie médicale et retenues à l'issue de la procédure de marché public mise en œuvre par la CNAM. Chaque laboratoire de biologie médicale :
 
@@ -370,4 +370,4 @@ Dans le cadre des transferts d'informations du laboratoire de biologie médicale
 
 Le système d'information permet l'intégration des éléments d'identification manuscrits éventuellement portés sur la fiche d'identification comme sur les flacons de prélèvement des kits de dépistage, et les dates de réalisation des prélèvements figurant sur les prélèvements. Afin que les laboratoires de biologie médicale puissent réaliser une lecture automatisée avec reconnaissance optique des caractères, les documents accompagnant les échantillons biologiques pour identifier les personnes dépistées et leur médecin sont calibrés et comportent des repères.
 
-Les comptes rendus d'examen du laboratoire comprennent, au minimum, le numéro de l'automate, la valeur du seuil fixé pour la lecture, le numéro identifiant l'échantillon biologique dans le laboratoire de biologie médicale (préfixé du numéro du laboratoire de biologie médicale, le numéro de lot.), la date de péremption, la date du prélèvement, la date de la lecture, la valeur du résultat en proportion d'hémoglobine par microgramme de selle, le résultat exprimé en positif, négatif ou non analysables, les motifs des non analysables, la date d'envoi du résultat à la personne dépistée et son ou ses médecin(s) en sus de leurs identifiants (personne et médecin).
+Les comptes rendus d'examen du laboratoire comprennent, au minimum, le numéro de l'automate, la valeur du seuil fixé pour la lecture, le numéro identifiant l'échantillon biologique dans le laboratoire de biologie médicale (préfixé du numéro du laboratoire de biologie médicale, le numéro de lot), la date de péremption, la date du prélèvement, la date de la lecture, la valeur du résultat en proportion d'hémoglobine par microgramme de selle, le résultat exprimé en positif, négatif ou non analysables, les motifs des non analysables, la date d'envoi du résultat à la personne dépistée et son ou ses médecin(s) en sus de leurs identifiants (personne et médecin).
