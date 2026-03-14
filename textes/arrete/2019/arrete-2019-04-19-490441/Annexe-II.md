@@ -8,7 +8,9 @@ SPÉCIALITÉS DE CERTIFICAT D'APTITUDE PROFESSIONNELLE |
 
 Durée PFMP |
 
-INTITULÉ DE LA SPÉCIALITÉ |
+INTITULÉ DE LA SPÉCIALITÉ
+
+|
 
 Date de l'arrêté de création |
 
@@ -962,11 +964,25 @@ Arrêté du 25 août 1994 modifié |
 
 12 |
 
-OPERATEUR-OPERATRICE LOGISTIQUE |
+OPERATEUR-OPERATRICE LOGISTIQUE
+
+(dernière session 2027-session supplémentaire 2028)
+
+|
 
 Arrêté du 2 mars 2015 |
 
 14 |
+
+OPÉRATEUR, OPÉRATRICE LOGISTIQUE
+
+(première session 2028)
+
+|
+
+Arrêté du 13/02/26 |
+
+13 |
 
 OPERATEUR/ OPERATRICE DE SERVICE-RELATION CLIENT ET LIVRAISON |
 
