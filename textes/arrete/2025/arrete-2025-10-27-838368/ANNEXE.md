@@ -52,13 +52,13 @@ Trimestrielle |
 
 |
 
-Enquête annuelle sur les écoles de formation aux professions sanitaires et sociales (Enquête " Écoles ") |
+Enquête annuelle sur les écoles de formation aux professions sanitaires et sociales (Enquête"Écoles") |
 
 Annuelle |
 
 DREES |
 
-Enquête " Statistiques sur les ressources et les conditions de vie (SRCV) " |
+Enquête "Statistiques sur les ressources et les conditions de vie (SRCV)" |
 
 Annuelle |
 
@@ -76,7 +76,7 @@ Ponctuelle |
 
 |
 
-Enquête " Loyers et charges " |
+Enquête"Loyers et charges" |
 
 Trimestrielle |
 
@@ -94,7 +94,7 @@ Ponctuelle |
 
 INSEE |
 
-Enquête " Voyages professionnels et personnels " (VPP) |
+Enquête"Voyages professionnels et personnels"(VPP) |
 
 Mensuelle |
 
@@ -106,13 +106,13 @@ Annuelle |
 
 INSEE |
 
-‍ Enquête sur le prix des terrains et du bâti (EPTB) |
+‍Enquête sur le prix des terrains et du bâti (EPTB) |
 
 Annuelle |
 
 SDES |
 
-‍ Enquête sur les personnes candidates au concours d'attaché territorial |
+‍Enquête sur les personnes candidates au concours d'attaché territorial |
 
 Ponctuelle |
 
@@ -123,6 +123,18 @@ Enquête Baromètre Santé Publique France |
 Ponctuelle |
 
 SPF |
+
+Enquête mobilité des personnes (EMP) |
+
+Ponctuelle |
+
+SDES |
+
+‍Enquête sur la participation associative et les dons (PARAD) |
+
+Ponctuelle |
+
+INJEP |
 
 (*) Voir liste des producteurs.
 
@@ -140,7 +152,7 @@ En continu |
 
 INSEE |
 
-- " Conciliation vie familiale et vie professionnelle " |
+-"Conciliation vie familiale et vie professionnelle" |
 
 Ponctuelle |
 
@@ -208,7 +220,7 @@ Annuelle |
 
 SIES |
 
-‍Enquêtes " Santé 2025 " : " Santé et Recours au soin " (ERS), " Santé en Outre-mer " (ESO) et " Santé et Territoires " (EST) |
+‍Enquêtes"Santé 2025":"Santé et Recours au soin"(ERS),"Santé en Outre-mer"(ESO) et"Santé et Territoires"(EST) |
 
 Ponctuelle |
 
@@ -228,7 +240,7 @@ Périodicité |
 
 Producteur (*) |
 
-Enquête " Action sociale des collectivités locales " (ASCO 2025) |
+Enquête"Action sociale des collectivités locales"(ASCO 2025) |
 
 Ponctuelle |
 
@@ -266,7 +278,7 @@ Périodicité |
 
 Producteur (*) |
 
-Enquête " Panel d'observation des pratiques et des conditions d'exercice en médecine générale " (vague 1) |
+Enquête"Panel d'observation des pratiques et des conditions d'exercice en médecine générale"(vague 1) |
 
 Semestrielle |
 
@@ -389,3 +401,25 @@ SFP |
 Santé Publique France |
 
 Ministère de la santé, des familles, de l'autonomie et des personnes handicapées |
+
+‍INJEP |
+
+Institut national de la jeunesse et de l'éducation populaire
+
+|
+
+Ministère des sports, de la jeunesse et de la vie associative |
+
+SDES |
+
+Service des données et études statistiques |
+
+Premier ministre
+
+Ministère de l'aménagement du territoire et de la décentralisation
+
+Ministère de la transition écologique, de la biodiversité et des négociations internationales sur le climat et la nature
+
+Ministère de la ville et du logement
+
+|
