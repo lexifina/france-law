@@ -1,0 +1,9 @@
+# Réponse à la question n° 12718
+
+- Question : [12718](12718.md) — Question n° 12718 — Cours de natation scolaires : quel accompagnement financier de l'État ?
+
+## Réponse
+
+*JO du 2026-03-17, page 2383*
+
+Depuis octobre 2019, la lutte contre les noyades et le développement de l'aisance aquatique sont des axes prioritaires de la politique du Gouvernement. Pour soutenir l'aisance aquatique et l'apprentissage du savoir-nager pour tous les élèves, le Gouvernement a œuvré afin que des conventions locales permettent la mise à disposition des bassins « hôteliers » pour les établissements scolaires des premier et second degrés. La convention interministérielle du 21 avril 2022 « Convention cadre de partenariat pour contribuer au plan de prévention des noyades et de développement de l'aisance aquatique et redynamiser le secteur de l'hébergement touristique collectif » formalise un partenariat avec les professionnels de l'hébergement touristique collectif pour favoriser l'accès à de nouveaux bassins. De plus, l'État, aux côtés des collectivités, s'engage fortement dans la rénovation des équipements sportifs, tout en contribuant au développement de la pratique pour tous les publics. Le plan 5 000 équipements – Génération 2024 prévoit que l'agence nationale du sport répartisse sur l'ensemble des territoires un budget de 300 M€ afin de soutenir la création, la rénovation ou l'aménagement de : - 3 000 équipements sportifs de proximité ; - 1 500 cours d'écoles actives (design) et sportives (petits équipements sportifs, agrès, etc.) ; - 500 équipements structurants avec une priorité donnée à la construction et à la rénovation de piscines. Cette initiative permettra de soutenir la continuité des politiques publiques destinées à développer les activités physiques sportives du public scolaire, notamment le savoir nager.
