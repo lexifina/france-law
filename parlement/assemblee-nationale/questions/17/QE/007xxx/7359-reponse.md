@@ -1,0 +1,9 @@
+# Réponse à la question n° 7359
+
+- Question : [7359](7359.md) — Question n° 7359 — Suspension du NEFLE : inquiétudes et attentes pour les établissements du Lot
+
+## Réponse
+
+*JO du 2026-03-17, page 2368*
+
+Depuis son lancement en 2022, le programme « Notre École, Faisons-la ensemble » (NEFLE), issu du volet éducation du Conseil national de la refondation, a suscité une dynamique inédite dans toutes les académies. Fondé sur la libre initiative des écoles et établissements, et après une concertation de toutes les parties prenantes, ce dispositif a permis de valider plus de 8 600 projets dont 105 pour le département du Lot (dont 66 concernent les collèges et 39 les lycées). Lors de la première année, les académies ont pu disposer d'un budget adapté à leurs besoins pour répondre à cette phase d'impulsion. La période de novembre 2024 à mars 2025 a été marquée par un contexte budgétaire national particulièrement incertain ayant entraîné la suspension des financements NEFLE pour l'ensemble des académies. Avec la volonté de reconnaître l'engagement des équipes enseignantes et l'intérêt des projets les plus significatifs, le ministère de l'éducation nationale a toutefois délégué dans le courant de l'été une nouvelle enveloppe budgétaire aux académies. Elle était destinée au financement des projets priorisés par les recteurs en fonction de l'analyse précise de la situation de leur académie. Une attention toute particulière a été portée aux projets déjà en cours, en particulier ceux intégrant le concours financier d'un tiers. Le ministère de l'éducation nationale reste pleinement mobilisé pour garantir la reconnaissance du travail accompli par les équipes pédagogiques et assurer la valorisation des initiatives les plus innovantes soutenues par le programme NEFLE au service de l'égalité des chances et de la réussite de tous les élèves.
