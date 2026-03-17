@@ -1,0 +1,9 @@
+# Réponse à la question n° 8525
+
+- Question : [8525](8525.md) — Question n° 8525 — Fin du régime dérogatoire IEF et possibilité d'un nouveau régime en 2025
+
+## Réponse
+
+*JO du 2026-03-17, page 2369*
+
+Le ministère de l'éducation nationale ne prévoit pas d'apporter de modification aux dispositions encadrant l'instruction dans la famille. Conformément aux décisions du Conseil d'État du 13 décembre 2022, les demandes d'autorisation d'instruction dans la famille font l'objet d'une instruction individualisée par les services académiques qui doivent rechercher, au vu de la situation de l'enfant, quels sont les avantages et les inconvénients pour lui, d'une part, de son instruction dans un établissement scolaire, d'autre part, de son instruction dans la famille selon les modalités exposées par la demande et, à l'issue de cet examen, retenir la forme d'instruction la plus conforme à son intérêt. Le fait pour un enfant d'avoir été instruit dans la famille depuis plusieurs années n'entraîne pas d'automaticité de la délivrance de l'autorisation alors même que l'enfant a toujours obtenu des résultats suffisants aux contrôles pédagogiques. Toutefois, cette circonstance peut être un élément à l'appui de l'appréciation d'une situation propre à l'enfant (motif 4°) dès lors que la demande d'autorisation d'instruction dans la famille expose qu'il est dans l'intérêt de l'enfant de poursuivre son instruction dans la famille. Dans ce cadre, il incombe à ses responsables légaux de démontrer que le projet éducatif répond à la situation propre de leur enfant. Les données chiffrées relatives à la campagne d'autorisation d'instruction dans la famille au titre de l'année scolaire 2024-2025 font état d'une large majorité d'autorisations : sur 39 974 demandes instruites, 30 644 ont fait l'objet d'une autorisation, soit près de 77 % des demandes (données arrêtées au 1er novembre 2024).
