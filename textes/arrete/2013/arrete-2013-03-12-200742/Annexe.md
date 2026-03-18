@@ -1,10 +1,10 @@
 # Article Annexe
 
-MINISTÈRE DES AFFAIRES SOCIALES ET DE LA SANTÉ
+PROCÈS-VERBAL DE DESTRUCTION DES SUBSTANCES, PRÉPARATIONS OU MÉDICAMENTS CLASSÉS COMME STUPÉFIANTS
 
-Attention établir en double exemplaire : envoyer un exemplaire au directeur général de l'ARS et conserver l'autre pendant dix ans (à scanner en pdf si enregistrement informatique).
+(barrer les mentions inutiles)
 
-Procès-verbal de destruction des substances, préparations ou médicaments classés comme stupéfiants (barrer la mention inutile)
+Attention à établir en double exemplaire : envoyer un exemplaire au directeur général de l'agence régionale de santé (ARS) et conserver l'autre pendant 10 ans (à scanner en pdf si enregistrement informatique).
 
 Date d'information du directeur général de l'ARS :
 
@@ -20,57 +20,43 @@ Nom et prénom du pharmacien gérant de la PUI :
 
 Numéro national d'identification RPPS :
 
-Cocher la case correspondante :
+Renseigner la case correspondante
 
-SUBSTANCE,
+Substance, préparation
 
-préparation ou
+ou médicament
 
-médicament du stock
+du stock |
 
-|
+Substance, préparation
 
-SUBSTANCE,
-
-préparation ou
-
-médicament retourné
+ou médicament retourné
 
 (hors comptabilité
 
-stupéfiants)
+stupéfiants) |
 
-|
+Désignation de la substance,
 
-DÉSIGNATION
-
-de la substance,
-
-de la préparation
-
-ou du médicament
+de la préparation ou du médicament
 
 (nom, forme et dosage)
 
-et conditionnement
+et conditionnement |
 
-|
+Nombre d'unité
 
-NOMBRE D'UNITÉS
+commune de dispensation (UCD)
 
-commune de
+ou quantité en gramme |
 
-dispensation (UCD)
+Numéro de lot
 
-ou quantité en gramme
+(uniquement
 
-|
+pour les substances
 
-NUMÉRO DE LOT
-
-|
-
-DATE DE PÉREMPTION
+et les préparations) |
 
 |
 
@@ -112,17 +98,7 @@ DATE DE PÉREMPTION
 
 |
 
-|
-
-|
-
-|
-
-|
-
-|
-
-Utiliser une ligne par lot et/ou date de péremption différente.
+Utiliser une ligne par lot
 
 Fait à :
 
@@ -130,36 +106,20 @@ Le :
 
 Signatures précédées des noms, prénoms :
 
-PHARMACIEN GÉRANT DÉSIGNÉ PAR LES SECTIONS H OU E
+Pharmacien gérant désigné par les sections H ou E de l'ordre national
 
-de l'ordre national des pharmaciens
+des pharmaciens ou ayant reçu délégation de celui-ci |
 
-|
+Pharmacien gérant de la PUI |
 
-PHARMACIEN GÉRANT DE LA PUI
+Nom : |
 
-|
+Nom : |
 
-Nom :
+Prénom : |
 
-|
+Prénom : |
 
-Nom :
+Signature : |
 
-|
-
-Prénom :
-
-|
-
-Prénom :
-
-|
-
-Signature :
-
-|
-
-Signature :
-
-|
+Signature : |
