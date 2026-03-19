@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250303866
+
+- Question : [SEQ250303866](seq250303866.md) — Nécessité de concilier les enjeux de protection écologique des sites hydrauliques avec la prévention des risques d'inondations
+
+## Réponse
+
+*Transition écologique, JO du 2026-03-19, page 1404*
+
+Le Gouvernement est pleinement conscient de la multiplicité des enjeux autour des cours d'eau et zones humides. Il défend la facilitation des démarches pour les interventions de restauration des fonctionnalités de ces milieux. Elles répondent en effet à plusieurs ambitions : la réduction de la vulnérabilité face au risque inondation, sécheresse et canicule, la résilience des milieux et des territoires face au changement climatique, la préservation de la biodiversité ou encore la restauration d'un cadre de vie supportable pour les habitants. C'est dans l'objectif de faciliter ces interventions que la rubrique 3.3.5.0., sur les travaux ayant pour objet la restauration des fonctionnalités naturelles des milieux aquatiques, a été introduite en 2020 dans la nomenclature dite « loi sur l'eau » annexée à l'article R.214-1 du code de l'environnement. Elle permet de soumettre exclusivement à déclaration tous les travaux de restauration de cours d'eau ou de zones humides. Une feuille de route « espèces protégées » est en cours de validation. Elle prévoit de fixer des critères et seuils permettant d'éviter les impacts « suffisamment caractérisés » sur les espèces protégées, pour les travaux d'entretien et restauration de cours d'eau ou zones humides, comme cela existe déjà pour les obligations légales de débroussaillement. La mise en place de telles dispositions nécessite toutefois des discussions avec la commission européenne. La conciliation des travaux de restauration de milieux naturels avec la réglementation des sites et paysages devra être abordée également dans le contexte de la mise en oeuvre du règlement restauration de la nature.
