@@ -12,7 +12,9 @@ Brucella canis |
 
 Canins |
 
-Diarrhée épizootique porcine hypervirulente |
+Diarrhée épizootique porcine
+
+hypervirulente |
 
 Virus de la DEP hypervirulente |
 
@@ -36,7 +38,9 @@ Prion ou agent de l'encéphalopathie spongiforme bovine |
 
 Bovins, ovins, caprins |
 
-Encéphalopathies spongiformes transmissibles |
+Encéphalopathies spongiformes
+
+transmissibles |
 
 Prions ou agents des encéphalopathies spongiformes transmissibles |
 
@@ -64,7 +68,11 @@ Salmonellose aviaire |
 
 Groupe 1 |
 
-Salmonella Enteritidis, Salmonella Typhimurium Salmonella Kentucky |
+Salmonella Enteritidis,
+
+Salmonella Typhimurium,
+
+Salmonella Kentucky hautement résistante à la ciprofloxacine |
 
 Oiseaux des espèces Gallus gallus et Meleagris gallopavo |
 
@@ -78,7 +86,9 @@ Oiseaux des espèces Gallus gallus uniquement pour les troupeaux reproducteurs e
 
 Groupe 2 |
 
-Salmonella enterica subsp. enterica (tous sérotypes confondus) |
+Salmonella enterica subsp. enterica
+
+(tous sérotypes confondus) |
 
 Oiseaux des espèces Gallus gallus et Meleagris gallopavo |
 
