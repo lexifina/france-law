@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250103062
+
+- Question : [SEQ250103062](seq250103062.md) — Conséquences potentielles de la réforme de la redevance eau sur les industriels agroalimentaires
+
+## Réponse
+
+*Transition écologique, biodiversité et négociations internationales sur le climat et la nature, JO du 2026-03-19, page 1411*
+
+La mise en place de la réforme des redevances de l'eau trouve son origine dans la sécheresse historique de 2022, au cours de laquelle plus de 2000 collectivités ont connu des difficultés d'approvisionnement en eau potable. Afin d'organiser la sobriété d'usage de cette ressource essentielle, une évolution significative de la fiscalité est entrée en vigueur le 1er janvier 2025, instaurant une nouvelle redevance applicable à la consommation d'eau potable. En retenant désormais la même assiette pour tous, correspondant au volume facturé quel que soit l'usage, et en supprimant les exonérations ainsi que le plafonnement, la réforme répond aux deux objectifs d'équité et de signal-prix. Elle a en outre été conçue à volume financier constant. Cette évolution a néanmoins révélé certaines situations particulières, auparavant peu visibles dans la répartition de la fiscalité de l'eau : des usagers jusque-là faiblement concernés se trouvent désormais pleinement intégrés dans le dispositif, ce qui peut entraîner, pour certains, une hausse significative de contribution. Ces cas demeurent marginaux et ne remettent pas en cause la nécessité de cette réforme, indispensable à l'organisation de la sobriété des usages de l'eau dans un contexte de changement climatique. Toutefois, ils appellent des réponses adaptées. Un travail interministériel est actuellement conduit, en lien avec les représentants des secteurs concernés, afin d'identifier les modalités d'un accompagnement ciblé pour les acteurs les plus fortement affectés par la redevance sur la consommation d'eau potable, en particulier certaines filières agroalimentaires.
