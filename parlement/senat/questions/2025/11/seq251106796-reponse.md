@@ -1,0 +1,9 @@
+# Réponse à la question SEQ251106796
+
+- Question : [SEQ251106796](seq251106796.md) — Comptabilisation des projets photovoltaïques au sol dans le cadre du zéro artificialisation nette
+
+## Réponse
+
+*Transition écologique, biodiversité et négociations internationales sur le climat et la nature, JO du 2026-03-19, page 1417*
+
+La loi n° 2021-1104 du 22 août 2021 (dite "Climat et Résilience") fixe, en son article 191, un objectif national ambitieux : atteindre une artificialisation nette des sols nulle d'ici 2050. Cet objectif s'inscrit dans une démarche de préservation des espaces naturels, agricoles et forestiers. La loi a introduit un principe dérogatoire : les installations photovoltaïques implantées sur des espaces agricoles ou naturels peuvent, sous conditions, être exemptées du calcul de la consommation d'espaces naturels, agricoles et forestiers. Cette mesure vise à favoriser la production d'énergie solaire sans aggraver l'artificialisation des sols. Le décret n° 2023-1408 du 29 décembre 2023 encadre la mise en oeuvre de cette dérogation. Il définit les critères d'implantation des projets éligibles et les conditions techniques à respecter pour bénéficier de l'exemption. Ces modalités sont détaillées dans l'arrêté du 29 décembre 2023, qui précise les caractéristiques obligatoires des installations photovoltaïques concernées. L'espacement entre les panneaux et leur hauteur doivent permettre la poursuite de l'activité agricole ou la préservation des habitats naturels existants sur le site, durant toute la durée d'exploitation. Le couvert végétal doit correspondre à la nature originelle du sol (ex. : cultures, prairies, landes). Les voies d'accès à l'installation doivent garantir l'absence d'imperméabilisation du sol. Ces dispositions visent à limiter l'impact environnemental des parcs solaires tout en permettant leur déploiement, dans le respect des équilibres écologiques et des usages du sol.
