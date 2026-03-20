@@ -238,13 +238,9 @@ X |
 
 |
 
-Test d'exigences préalables des EPEF définies par l'arrêté du 26 mai 2010 portant création de la mention " canyonisme " du DEJEPS, délivré jusqu'au 30 septembre 2024 |
+EPEF vérifiées sur la base de l'arrêté du 22 mai 2017 modifiant l'arrêté du 26 mai 2010 modifié portant création de la mention " canyonisme " du DEJEPS spécialité " perfectionnement sportif ", pour les sessions de formations ouvertes jusqu'au 30 septembre 2024 et sous réserve de justifier la réalisation en autonomie et l'analyse de 25 canyons au cours des 5 dernières années (*) |
 
 X
-
-1° et 2° a) TEP
-
-uniquement
 
 |
 
@@ -271,3 +267,5 @@ DEJEPS (*) : diplôme d'Etat de la jeunesse, de l'éducation populaire et du spo
 CQC (*) : certificat de qualification complémentaire.
 
 AQA (*) : attestation de qualification.
+
+Sous réserve de justifier la réalisation en autonomie et l'analyse des 25 canyons réalisés au cours des 5 dernières années (*) : le candidat ne sera dispensé de la totalité des EPEF de l'article 4 que s'il justifie la réalisation en autonomie et l'analyse des 25 canyons au cours des 5 dernières années avant la date butoir d'inscription aux TEP (2° a) de l'article 4. A défaut, il ne sera dispensé que des 1° et 2° b et devra repasser le 2° a.
