@@ -132,15 +132,9 @@ Bordeaux-Hurghada ;
 
 Lyon-Hurghada ;
 
-Lyon-Le Caire, dans la limite de trois (3) fréquences hebdomadaires librement réparties entre les aéroports français hors Paris ;
-
 Marseille-Hurghada ;
 
-Marseille-Le Caire, dans la limite de trois (3) fréquences hebdomadaires librement réparties entre les aéroports français hors Paris ;
-
 Nantes-Hurghada ;
-
-Nantes-Le Caire, dans la limite de trois (3) fréquences hebdomadaires librement réparties entre les aéroports français hors Paris ;
 
 Paris-Charm El-Cheikh ;
 
@@ -155,6 +149,12 @@ Dans la limite de six (6) fréquences hebdomadaires sur l'ensemble des deux liai
 Paris-Alexandrie ;
 
 Paris-Le Caire.
+
+Dans la limite de cinq (5) fréquences hebdomadaires sur l'ensemble des liaisons suivantes :
+
+Tout point en France (hors Paris)-Alexandrie ;
+
+Tout point en France (hors Paris)-Le Caire.
 
 Liban :
 
