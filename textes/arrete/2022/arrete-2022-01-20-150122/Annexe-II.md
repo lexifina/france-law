@@ -226,7 +226,7 @@ A |
 
 1 |
 
-DIPN57/ MOSELLE |
+DIPN57/MOSELLE |
 
 CHEF SDN |
 
@@ -286,13 +286,11 @@ A |
 
 1 |
 
-CPN METZ |
+CPN Thionville |
 
-CHEF DE L'UNITE
+CHEF SLSP |
 
-D'ORDRE PUBLIC |
-
-A |
+C |
 
 3 ANS |
 
@@ -702,19 +700,15 @@ A |
 
 1 |
 
-PP/ DSPAP/ DT75/ D2/ CP 20 |
+PP/DSPAP/DTSP75/D3/13/SAIP/UIRE |
 
-ADJOINT AU CHEF
-
-DU SERVICE DE TRAITEMENT
-
-JUDICIAIRE DE NUIT |
+CHEF UIRE |
 
 A |
 
 3 ANS |
 
-10000 |
+10 000 |
 
 1 |
 
@@ -788,15 +782,19 @@ A |
 
 1 |
 
-PP/ DSPAP/ DT93/ D1/ DRANCY |
+PP/DSPAP/DT93/D2/SAINT OUEN |
 
-CHEF SERVICE DE SECURITE QUOTIDIENNE |
+CHEF SERVICE
+
+DE SECURITE
+
+QUOTIDIENNE |
 
 A |
 
 3 ANS |
 
-8000 |
+8 000 |
 
 1 |
 
@@ -940,22 +938,24 @@ A |
 
 Direction du renseignement de la Préfecture de Police : 1 poste |
 
-7) DIRECTION DE LA SECURITE INTERIEURE : 5 |
+7) DIRECTION GENERALE DE LA SECURITE INTERIEURE : 4 |
 
 8) Académie de police : 1 |
 
-Académie de police/ Centre national de formation motocyclistes de la police nationale |
+DIPN 62/SIPAF/CCO |
 
-Adjoint chef de centre national |
+OFFICIER
 
-A |
+DE COMMANDEMENT- CELLULE
+
+DE COORDINATION
+
+OPERATIONNELLE |
+
+B1 |
 
 3 ans |
 
 8 000 |
 
 1 |
-
-NOTA :
-
-Conformément à l'article 5 de l'arrêté du 30 juillet 2025 (NOR : INTC2522300A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 5 mai 2025.
