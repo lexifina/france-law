@@ -1,0 +1,9 @@
+# Réponse à la question n° 12862
+
+- Question : [12862](12862.md) — Question n° 12862 — Clarification des règles applicables au raccordement à la fibre optique
+
+## Réponse
+
+*JO du 2026-03-24, page 2544*
+
+L'accès des usagers à une connexion internet et téléphonique de qualité via la fibre optique constitue l'une des priorités du gouvernement. L'opérateur commercial, fournisseur d'accès à internet, a la responsabilité du raccordement final à la fibre optique de l'usager, entre le point de branchement optique, mis à disposition par l'opérateur d'infrastructure à la limite du domaine privé, et la terminaison optique dans le logement ou local professionnel de l'usager. Pour effectuer ce raccordement, la logique veut que l'opérateur commercial mobilise en priorité les infrastructures existantes, si elles le permettent. Ainsi les gaines et chambres ayant servi à déployer le réseau cuivre peuvent servir à faire passer le câble de fibre optique lorsqu'elles ne sont pas bouchées ou cassées, que l'espace restant est suffisant et que cela ne détériore pas le câble de cuivre. Si du génie civil en aérien existe à la limite de la propriété privée, c'est cette solution qui peut être privilégiée en cas d'absence d'infrastructures souterraines mobilisables. Si les infrastructures existantes ne sont pas mobilisables, alors des travaux devront être réalisés afin de faire passer la fibre optique. Ces travaux sont à la charge de l'usager. Sous réserve de critères d'éligibilité, ces travaux peuvent être actuellement financés par l'État dans le cadre du dispositif expérimental d'aide aux travaux en cas de raccordement complexes dans le domaine public lancé en septembre 2025. Ce dispositif permet la prise en charge financière de tout ou partie de ces travaux. Plus d'informations sont disponibles sur le site de l'État : www.treshautdebit.gouv.fr
