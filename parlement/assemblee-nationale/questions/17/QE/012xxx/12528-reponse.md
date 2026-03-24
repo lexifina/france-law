@@ -1,0 +1,9 @@
+# Réponse à la question n° 12528
+
+- Question : [12528](12528.md) — Question n° 12528 — Facilitation de la traction de trains voyageurs par les locomotives fret
+
+## Réponse
+
+*JO du 2026-03-24, page 2547*
+
+Afin de garantir une exploitation sûre et la qualité de service pour les voyageurs, une locomotive « fret » doit, pour pouvoir tracter des voitures emportant des passagers, faire l'objet de modifications justifiant la plupart du temps une nouvelle autorisation. En effet, des exigences spécifiques existent pour les locomotives des trains de voyageurs qui répondent à des besoins en phonie (permettre la communication entre les voitures et la locomotive, notamment pour le signal d'alarme et la détection incendie), en alimentation électrique (pour que les voitures puissent être alimentées en courant et donc en lumière et en chauffage à titre d'exemple), et concernant la traction et le freinage si la locomotive n'est pas apte à rouler à 160 km/h. Ces nouvelles demandes d'autorisation sont traitées par l'Établissement public de sécurité ferroviaire (EPSF) et encadrées par des délais réglementaires. L'EPSF est en outre en permanence à l'écoute des entreprises ferroviaires et accompagne volontiers les demandeurs pour faciliter la constitution des dossiers et leur instruction. Concernant les trains de nuit, l'État a engagé le processus de renouvellement de leur matériel roulant en menant la procédure pour le recrutement de loueurs qui mettront à disposition d'une part les voitures et d'autre part les locomotives. Pour ces dernières, il a souhaité qu'elles puissent permettre l'utilisation d'itinéraires alternatifs aux itinéraires commerciaux nominaux afin d'augmenter le nombre de jours de circulation malgré l'organisation des travaux sur l'infrastructure, destinés à assurer la pérennité et la qualité de celle-ci. En menant cette action, l'État montre tout son engagement en faveur des trains de nuit et la desserte des territoires.
