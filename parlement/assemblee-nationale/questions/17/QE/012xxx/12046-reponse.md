@@ -1,0 +1,9 @@
+# Réponse à la question n° 12046
+
+- Question : [12046](12046.md) — Question n° 12046 — Effets du nouveau câble C1 sur le transport dans le Val-de-Marne et la ligne 8
+
+## Réponse
+
+*JO du 2026-03-24, page 2546*
+
+L'organisation des transports collectifs franciliens est une compétence relevant d'Île-de-France Mobilités (IDFM). L'État, au regard du principe de libre administration des collectivités territoriales, n'intervient pas dans les choix des autorités organisatrices de la mobilité (AOM). Toutefois, l'État est attaché à la qualité de service des transports du quotidien et contribue à la modernisation et au développement du réseau de transport public francilien via les contrats de plan État-région (CPER). Ainsi, après avoir investi plus de 2,3 Md€ pour le volet Mobilités – transports collectifs du CPER Île-de-France sur la période 2015-2022, l'État engage plus de 2,6 Md€ d'investissements dans le cadre de la contractualisation actuelle 2023-2027. L'État a ainsi cofinancé – avec l'appui de l'Union européenne – 21 % de l'infrastructure du premier téléphérique urbain d'Île-de-France : le câble C1. Cette nouvelle ligne illustre la mobilité que l'État souhaite encourager : décarbonée, innovante, inclusive et construite avec et pour les territoires. Concernant l'effet de la ligne C1 sur la ligne 8 du métro, IDFM a pu estimer que l'augmentation du flux voyageurs en provenance de la ligne C1 aura un impact très mesuré sur le niveau de saturation de la ligne 8, et indique qu'il pourra être absorbé par le matériel circulant actuellement sur la ligne. IDFM et la RATP rappellent également que deux événements attendus pour 2027 devraient soulager la capacité d'emport de cette ligne : la mise en service de la ligne 15 Sud du Grand Paris Express (reliant Pont de Sèvres à Noisy-Champs) et le transfert de 3 rames MF77 de la ligne 13, dans l'attente du déploiement des nouvelles rames MF19 prévu à partir de 2030.
