@@ -1,0 +1,9 @@
+# Réponse à la question n° 13170
+
+- Question : [13170](13170.md) — Question n° 13170 — Absence de reconnaissance nationale automatisée de la CMI « stationnement »
+
+## Réponse
+
+*JO du 2026-03-24, page 2547*
+
+La compétence en matière de stationnement relève des collectivités territoriales et les dispositifs de contrôle avec lecture automatique de plaque sont mis en œuvre à leur initiative. Afin de garantir aux personnes en situation de handicap leur droit au stationnement gratuit, les collectivités territoriales leur permettent généralement d'enregistrer leur (s) véhicule (s) dans un registre dédié, ou de choisir un ticket « handicap » gratuit avec les horodateurs ou les applications mobiles de paiement. La multiplication des systèmes d'enregistrement à l'échelle communale peut conduire toutefois à de nombreuses démarches administratives, ainsi que vous le soulignez. Tirant parti de la perspective d'un contrôle automatisé des zones à faibles émissions mobilités (ZFEm), la conférence nationale du handicap de 2023 avait prévu de mettre en place un système national de déclaration des véhicules utilisés par les personnes en situation de handicap, appelé « CMI Mobilités », pouvant permettre, par voie de conséquence, d'éviter des démarches multiples pour le stationnement. Cependant, le vote par l'Assemblée nationale de la suppression des ZFEm lors de l'examen du projet de loi de simplification de la vie économique – repris récemment par la commission mixte paritaire – a conduit à suspendre le projet de leur contrôle automatisé et, par voie de conséquence les bénéfices qui étaient escomptés en matière de stationnement des personnes handicapées. Dans ce contexte incertain, les échanges avec les collectivités territoriales n'ont pas permis, pour l'instant, de réunir les conditions, notamment financières, pour une mise en service à court terme d'un service permettant le contrôle du stationnement payant.
