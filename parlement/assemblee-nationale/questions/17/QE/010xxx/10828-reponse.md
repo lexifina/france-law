@@ -1,0 +1,9 @@
+# Réponse à la question n° 10828
+
+- Question : [10828](10828.md) — Question n° 10828 — Assouplissement de la limite d'âge pour les dons familiaux exonérés
+
+## Réponse
+
+*JO du 2026-03-24, page 2525*
+
+Aux termes de l'article 790 G du code général des impôts (CGI), les dons de sommes d'argent consentis en pleine propriété au profit d'un enfant, d'un petit-enfant, d'un arrière petit-enfant ou à défaut d'une telle descendance, d'un neveu ou d'une nièce ou par représentation, d'un petit-neveu ou d'une petite-nièce sont exonérés de droits de mutation à titre gratuit dans la limite de 31 865 euros. Cette exonération, qui est renouvelable tous les quinze ans, s'applique à la double condition que le donateur soit âgé de moins de quatre-vingts ans au jour de la transmission et que le donataire soit âgé de dix-huit ans révolus ou ait fait l'objet d'une mesure d'émancipation au jour de la transmission. En déterminant un âge limite pour le donateur, le législateur a entendu encourager les transmissions anticipées de patrimoine en faveur des jeunes générations. Cet âge a fait l'objet de plusieurs modifications successives. Fixé à soixante-cinq ans lors de la création du dispositif par l'article 8 de la loi n° 2007-1223 du 21 août 2007 pour le travail, l'emploi et le pouvoir d'achat (TEPA), il a été porté à quatre-vingts ans par l'article 35 de la loi n° 2009-1673 de finances pour 2010, sauf en cas de transmission à un enfant ou à un neveu ou une nièce et est, depuis l'article 10 de la loi n° 2011-900 de finances rectificative pour 2011 de quatre-vingts ans pour toutes les situations. Compte tenu de la nécessité de maintenir un âge limite cohérent pour éviter tout effet d'aubaine en faveur de donations tardives qui seraient effectuées dans le seul but d'éviter les droits de succession aux héritiers, il n'est pas envisagé de supprimer ou rehausser cet âge.
