@@ -1,0 +1,33 @@
+# Réponse à la question n° 637
+
+- Question : [637](637.md) — Question n° 637 — Prime de soutien et d'attractivité en zone frontalière avec la Suisse
+
+## Réponse
+
+*JO du 2026-03-25, page 2553*
+
+INDEMNITÉ DE RÉSIDENCE SPÉCIFIQUE POUR LES FONCTIONNAIRES ALSACIENS
+
+Mme la présidente. La parole est à M. Didier Lemaire, pour exposer sa question, no 637, relative à une indemnité de résidence spécifique pour les fonctionnaires alsaciens.
+
+M. Didier Lemaire. Je souhaite appeler l’attention du gouvernement sur les problèmes rencontrés en matière de recrutement et de fidélisation des fonctionnaires hospitaliers, territoriaux et de l'État dans la troisième circonscription du Haut-Rhin, voisine de quatre cantons suisses. Ces problèmes touchent notamment deux établissements : l'hôpital de Saint-Louis et l'hôpital Saint-Morand d'Altkirch.
+
+Compte tenu de l'attractivité des cantons germanophones et du canton francophone du Jura, qui proposent des salaires plus attrayants, les services publics français peinent à recruter pour assurer leurs missions quotidiennes, notamment dans le domaine de la santé. Ce sujet est prégnant, comme sur l'ensemble du territoire national.
+
+L'État a été à l'écoute – et c'est normal – des agents publics et des territoires frontaliers de l'Ain et de la Haute-Savoie puisqu'il a institué pour eux, par le décret no 2023-1168 du 12 décembre 2023, une prime adaptée aux réalités frontalières. Je souhaite connaître les intentions du gouvernement quant à une adaptation de ce décret au territoire alsacien. À défaut, quelles sont les autres mesures envisagées pour soutenir le recrutement d'agents publics dans les zones frontalières sous tension ?
+
+Mme la présidente. La parole est à Mme la ministre déléguée chargée de l'intelligence artificielle et du numérique.
+
+Mme Anne Le Hénanff, ministre déléguée chargée de l'intelligence artificielle et du numérique. Le gouvernement partage pleinement le constat d'une tension particulière en matière de recrutement et de fidélisation des agents publics dans certains territoires frontaliers, notamment lorsqu'ils subissent la concurrence salariale très forte de la Suisse voisine. Cette difficulté, qui concerne les trois versants de la fonction publique, appelle des réponses adaptées, mais aussi efficaces dans la durée.
+
+Vous l'avez rappelé, un dispositif spécifique a été créé par le décret du 12 décembre 2023 pour certaines communes de l'Ain et de la Haute-Savoie situées dans le bassin genevois, sous la forme d'une indemnité de résidence spécifique égale à 3 % du traitement soumis à retenue pour pension. Ce zonage correspond aux communes dans lesquelles le coût immobilier est le plus élevé par comparaison avec d'autres secteurs frontaliers.
+
+Le gouvernement considère qu'une simple extension de ce mécanisme au territoire alsacien ne constituerait pas, à elle seule, une réponse à la hauteur des enjeux d'attractivité. Une majoration uniforme de 3 % du traitement indiciaire aurait un effet limité sur les difficultés structurelles de recrutement. Le gouvernement privilégie une réponse plus ciblée sur le premier facteur de tension concrète pour les agents, à savoir l'accès au logement à proximité de leur emploi.
+
+Dans cette perspective, le gouvernement soutient la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics, dont l'examen en séance publique est inscrit à l'ordre du jour du Sénat le 30 mars. Cette proposition de loi comporte plusieurs leviers concrets. D'abord, elle facilite le recours à des logements liés à la fonction. Ensuite, elle augmente les possibilités pour les employeurs publics de réserver des logements sociaux. Elle étend également les outils de gestion dite en stock, afin que certains logements puissent être identifiés à l'avance pour répondre aux besoins d'agents exerçant des fonctions prioritaires, notamment dans le domaine de la santé. Enfin, elle simplifie la création de logements sur certains terrains publics et ouvre des solutions plus souples de gestion du parc immobilier détenu par les employeurs publics, y compris pour les hôpitaux publics.
+
+Vous le comprenez, le gouvernement est très attentif à la situation des fonctionnaires dans les zones transfrontalières, notamment dans les territoires alsaciens frontaliers de la Suisse.
+
+Mme la présidente. La parole est à M. Didier Lemaire.
+
+M. Didier Lemaire. Merci, madame la ministre, pour votre réponse, notamment sur l'accès au logement à proximité du lieu de travail. Je sais votre attachement au monde rural. Néanmoins, j'ai une pensée particulière pour les personnels de l'hôpital de Saint-Louis et de l'hôpital Saint-Morand d'Altkirch, qui tiennent le système de soins à bras-le-corps, afin de répondre aux difficultés de santé, dont les origines sont multiples. Je continuerai à me tenir à leurs côtés, tant dans ma circonscription qu'ici, à Paris. Pour traiter ces enjeux primordiaux, il nous faudra sans doute aller plus loin, et les collectivités locales de toutes les strates doivent travailler conjointement. Rappelons que le bassin de vie dont je parle compte plus de 130 000 habitants.
