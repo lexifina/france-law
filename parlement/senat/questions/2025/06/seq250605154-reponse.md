@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250605154
+
+- Question : [SEQ250605154](seq250605154.md) — Filière cognac
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle, énergétique et numérique, JO du 2026-03-26, page 1497*
+
+L'enquête antidumping chinoise sur les importations de brandy européen, affectant quasi exclusivement les producteurs français de Cognac et d'Armagnac, s'est conclue le 5 juillet 2025 par la mise en oeuvre de droits antidumping additionnels définitifs de 32,2 %. Le Président de la République, le Gouvernement, ainsi que les administrations compétentes, se sont mobilisés tout au long de l'enquête auprès des entreprises françaises affectées. Ce dossier a occupé une place centrale lors du Dialogue Economique et Financier de Haut Niveau co-présidé le 15 mai 2025 avec le vice Premier-ministre chinois HE Lifeng. Si les efforts diplomatiques constants mis en oeuvre, notamment lors de cette échéance, n'ont pas permis de clore l'enquête sans l'instauration de droits antidumping, ils ont ouvert la voie à la conclusion d'engagements de prix entre certaines entreprises et le ministère chinois du commerce, d'un niveau 60% inférieur aux marges de dumping indûment établies par les autorités chinoises dans leur l'enquête. Depuis, les exportations de Cognac et d'Armagnac vers la Chine ont pu reprendre. Les blocages rencontrés par les exportateurs français dans les zones duty free chinoises, qui représentent une part substantielle de nos exportations vers la Chine, ont par ailleurs été levés. La situation reste cependant dégradée, d'une part car les engagements de prix ne s'appliquent qu'à un certain nombre de maisons, et d'autre part, car l'accusation de dumping est infondée. Le Gouvernement reste pleinement mobilisé pour que les entreprises françaises puissent accéder au marché chinois, sans entrave.
