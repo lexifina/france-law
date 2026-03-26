@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250103041
+
+- Question : [SEQ250103041](seq250103041.md) — Assujettissement des établissements d'hébergement pour personnes âgées dépendantes au versement mobilité
+
+## Réponse
+
+*Action et comptes publics, JO du 2026-03-26, page 1483*
+
+Les employeurs des secteurs public et privé sont assujettis au versement mobilité lorsqu'ils emploient au moins 11 salariés, tous établissements confondus, dans le ressort d'une zone où a été institué le versement mobilité. Cette contribution patronale est destinée au financement des services de mobilité hors Ile-de-France dans les zones où il a été institué (L.2333-64 et D.2333-87 du code général des collectivités territoriales) et en région Ile-de-France (articles L.2531-2 et D.2531-7 CGCT du code général des collectivités territoriales). Elle est prélevée par les unions de recouvrements des cotisations de sécurité sociale et d'allocations familiales (URSSAF) et elle est affectée aux autorités organisatrices de mobilité, créées par les collectivités territoriales qui mettent en place des services de transports collectifs sur leur territoire. Les établissements d'hébergement pour personnes âgées dépendantes (EHPAD) ont bien le statut d'employeur et en tant qu'employeurs, ils embauchent du personnel notamment pour s'occuper des résidents. Comme toute entreprise ou organisation employant plus de onze salariés, ils peuvent donc être soumis au versement mobilité qui est un prélèvement sur la masse salariale. En effet, le versement mobilité est destiné à financer les infrastructures et services de transport public et le personnel de ces établissements est amené à utiliser les transports publics pour se rendre sur leur lieu de travail. C'est la raison pour laquelle les EHPAD doivent être assujettis à cette contribution. Cela s'inscrit dans une logique de solidarité et de financement des infrastructures de mobilité durable.
