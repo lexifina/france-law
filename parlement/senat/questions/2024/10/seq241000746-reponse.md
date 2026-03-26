@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241000746
+
+- Question : [SEQ241000746](seq241000746.md) — Transparence des comptes des sociétés de développement des énergies renouvelables bénéficiant de financements publics indirects
+
+## Réponse
+
+*PME, commerce, artisanat, tourisme et pouvoir d'achat, JO du 2026-03-26, page 1501*
+
+Les enjeux de transparence financière sont en effet décisifs, a fortiori dans les secteurs où de forts investissements sont nécessaires comme celui des énergies renouvelables qui contribuent à la transition de notre mix énergétique. L'article L. 233-25 du Code de commerce permet aux micro-entreprises de ne pas rendre public les comptes qu'elles déposent au greffe du tribunal de commerce, à l'exception des institutions financières, des entités faisant appel à la générosité du public et des sociétés de gestion de titres de participations et de valeurs mobilières. Ces dispositions visent à assurer la proportionnalité des obligations de déclaration pour les plus petites entreprises à laquelle le gouvernement est attaché. Lorsqu'ils sont engagés, les projets de développement d'énergie renouvelable nécessitent d'importants investissements. Par conséquent, les règles actuelles en matière de publicité des comptes, d'obligation de certification et de consolidation permettent d'assurer des garanties de fiabilité des informations financières satisfaisant en assurant leur accessibilité de manière proportionnée dès lors que l'entreprise n'est plus une micro-entreprise. Lorsque l'entreprise est une micro-entreprise contrôlée par une grande entreprise, ses informations financières sont intégrées aux comptes consolidés de la société mère. Enfin, l'absence de publicité des comptes des micro-entreprise n'est pas un obstacle pour l'Etat à l'accès aux informations financières de ces entreprises.
