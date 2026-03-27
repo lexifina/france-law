@@ -424,11 +424,11 @@ Chambéry |
 
 Aix-les-Bains |
 
-Cantons d'Aix-les-Bains-Centre, Aix-les-Bains-Nord-Grésy, Aix-les-Bains-Sud, Albens, Le Châtelard, Ruffieux et Yenne. |
+Communes d'Aillon-le-Jeune, Aillon-le-Vieux, Aix-les-Bains, Arith, Bellecombe-en-Bauges, Billième, Brison-Saint-Innocent, Chanaz, Chindrieux, Conjux, Doucy-en-Bauges, Drumettaz-Clarafond, Ecole, Entrelacs, Grésy-sur-Aix, Jarsy, Jongieux, La Balme, La Biolle, La Chapelle-Saint-Martin, La Compôte, La Motte-en-Bauges, Le Châtelard, Le Noyer, Lescheraines, Loisieux, Lucey, Méry, Meyrieux-Trouet, Montcel, Motz, Mouxy, Ontex, Pugny-Chatenod, Saint-Jean-de-Chevelu, Saint-Offenge, Sainte-Reine, Ruffieux, Saint-François-de-Sales, Saint-Paul-sur-Yenne, Saint-Pierre-d'Alvey, Saint-Ours, Saint-Pierre-de-Curtille, Serrières-en-Chautagne, Traize, Tresserve, Trévignin, Verthemex, Vions, Viviers-du-Lac, Voglans et Yenne. |
 
 Chambéry |
 
-Ressort du tribunal judiciaire de Chambéry, à l'exception des cantons d'Aix-les-Bains-Centre, Aix-les-Bains-Nord-Grésy, Aix-les-Bains-Sud, Albens, Le Châtelard, Ruffieux et Yenne. |
+Ressort du tribunal judiciaire de Chambéry, à l'exception des communes d'Aillon-le-Jeune, Aillon-le-Vieux, Aix-les-Bains, Arith, Bellecombe-en-Bauges, Billième, Brison-Saint-Innocent, Chanaz, Chindrieux, Conjux, Doucy-en-Bauges, Drumettaz-Clarafond, Ecole, Grésy-sur-Aix, Jarsy, Jongieux, La Balme, La Biolle, La Chapelle-Saint-Martin, La Compôte, La Motte-en-Bauges, Le Châtelard, Le Noyer, Lescheraines, Loisieux, Lucey, Méry, Meyrieux-Trouet, Montcel, Motz, Mouxy, Ontex, Pugny-Chatenod, Saint-Jean-de-Chevelu, Saint-Offenge, Sainte-Reine, Ruffieux, Saint-François-de-Sales, Saint-Pierre-d'Alvey, Saint-Ours, Saint-Pierre-de-Curtille, Serrières-en-Chautagne, Traize, Tresserve, Trévignin, Verthemex, Vions, Viviers-du-Lac, Voglans et Yenne. |
 
 Haute-Savoie |
 
@@ -464,11 +464,11 @@ Strasbourg |
 
 Haguenau |
 
-Ressort de la chambre de proximité de Haguenau, à l'exception des cantons de Brumath, Hochfelden (à l'exception de la partie de la commune de Val-de-Moder correspondant à l'ancienne commune de Ringeldorf) et Truchtersheim. |
+Ressort de la chambre de proximité d'Haguenau et commune de Val-de-Moder, à l'exception des communes d'Alteckendorf, Bernolsheim, Berstett, Bietlenheim, Bilwisheim, Bossendorf, Brumath, Dingsheim, Donnenheim, Dossenheim-Kochersberg, Duntzenheim, Durningen, Eckwersheim, Ettendorf, Fessenheim-le-Bas, Friedolsheim, Furdenheim, Gambsheim, Geiswiller, Geudertheim, Grassendorf, Gries, Griesheim-sur-Souffel, Gougenheim, Handschuheim, Hochfelden, Hoerdt, Hohfrankenheim, Hurtigheim, Ingenheim, Issenhausen, Kienheim, Kilstett, Krautwiller, Kriegsheim, Kurtzenhouse, Kuttolsheim, La Wantzenau, Lixhausen, Melsheim, Minversheim, Mittelschaeffolsheim, Mommenheim, Mutzenhouse, Neugartheim-Ittlenheim, Olwisheim, Osthoffen, Pfulgriesheim, Quatzenheim, Ringendorf, Rohr, Rottelsheim, Saessolsheim, Schaffhouse-sur-Zorn, Scherlenheim, Schnersheim, Schwindratzheim, Stutzheim-Offenheim, Truchtersheim, Vendenheim, Waltenheim-sur-Zorn, Weyersheim, Wickersheim-Wilshausen, Willgottheim, Wilwisheim, Wingersheim les Quatre Bans, Wintzenheim-Kochersberg, Wiwersheim et Zoebersdorf. |
 
 Schiltigheim |
 
-Ressort de la chambre de proximité de Schiltigheim et cantons de Brumath, Hochfelden (à l'exception de la partie de la commune de Val-de-Moder correspondant à l'ancienne commune de Ringeldorf) et Truchtersheim. |
+Ressort de la chambre de proximité de Schiltigheim et communes d'Alteckendorf, Bernolsheim, Berstett, Bietlenheim, Bilwisheim, Bossendorf, Brumath, Dingsheim, Donnenheim, Dossenheim-Kochersberg, Duntzenheim, Durningen, Eckwersheim, Ettendorf, Fessenheim-le-Bas, Friedolsheim, Furdenheim, Gambsheim, Geiswiller, Geudertheim, Grassendorf, Gries, Griesheim-sur-Souffel, Gougenheim, Handschuheim, Hochfelden, Hoerdt, Hohfrankenheim, Hurtigheim, Ingenheim, Issenhausen, Kienheim, Kilstett, Krautwiller, Kriegsheim, Kurtzenhouse, Kuttolsheim, La Wantzenau, Lixhausen, Melsheim, Minversheim, Mittelschaeffolsheim, Mommenheim, Mutzenhouse, Neugartheim-Ittlenheim, Olwisheim, Osthoffen, Pfulgriesheim, Quatzenheim, Ringendorf, Rohr, Rottelsheim, Saessolsheim, Schaffhouse-sur-Zorn, Scherlenheim, Schnersheim, Schwindratzheim, Stutzheim-Offenheim, Truchtersheim, Vendenheim, Waltenheim-sur-Zorn, Weyersheim, Wickersheim-Wilshausen, Willgottheim, Wilwisheim, Wingersheim les Quatre Bans, Wintzenheim-Kochersberg, Wiwersheim et Zoebersdorf. |
 
 Strasbourg |
 
@@ -554,13 +554,13 @@ Ressort de la chambre de proximité de Hazebrouck. |
 
 Lille |
 
-Lys-lez-Lannoy |
-
-Cantons de Lannoy, Villeneuve-d'Ascq-Nord et Villeneuve-d'Ascq-Sud. |
-
 Lille |
 
-Ressort du tribunal judiciaire de Lille, à l'exception des ressorts des chambres de proximité de Roubaix et Tourcoing, et des cantons de Lannoy, Villeneuve-d'Ascq-Nord et Villeneuve-d'Ascq-Sud et des communes de Comines et Wervicq-Sud. |
+Ressort du tribunal judiciaire de Lille, à l'exception des ressorts des chambres de proximité de Roubaix et Tourcoing, et des communes d'Anstaing, Baisieux, Chéreng, Comines, Forest-sur-Marque, Gruson, Hem, Lannoy, Leers, Lys-lez-Lannoy, Sailly-lez-Lannoy, Toufflers, Tressin, Villeneuve-d'Ascq, Wervicq-Sud et Willems. |
+
+Lys-lez-Lannoy |
+
+Communes d'Anstaing, Baisieux, Chéreng, Forest-sur-Marque, Gruson, Hem, Lannoy, Leers, Lys-lez-Lannoy, Sailly-lez-Lannoy, Toufflers, Tressin, Villeneuve-d'Ascq et Willems. |
 
 Roubaix |
 
@@ -568,7 +568,7 @@ Ressort de la chambre de proximité de Roubaix. |
 
 Tourcoing |
 
-Ressort de la chambre de proximité de Tourcoing et des communes de Comines et Wervicq-Sud. |
+Ressort de la chambre de proximité de Tourcoing et communes de Comines et Wervicq-Sud. |
 
 Valenciennes |
 
@@ -992,11 +992,11 @@ Créteil |
 
 Créteil |
 
-Ressort des chambres de proximité de Charenton-le-Pont, Ivry-sur-Seine, Nogent-sur-Marne, Saint-Maur-des-Fossés et Villejuif, à l'exception des cantons de Choisy-le-Roi et Orly, et de l'emprise de l'aérodrome de Paris-Orly. |
+Ressort des chambres de proximité de Charenton-le-Pont, Ivry-sur-Seine, Nogent-sur-Marne, Saint-Maur-des-Fossés et Villejuif, à l'exception des communes de Choisy-le-Roi et Orly, et de l'emprise de l'aérodrome de Paris-Orly. |
 
 Villeneuve-Saint-Georges |
 
-Ressort de la chambre de proximité de Sucy-en-Brie, cantons de Choisy-le-Roi et Orly, l'emprise de l'aérodrome de Paris-Orly. |
+Ressort de la chambre de proximité de Sucy-en-Brie, communes de Choisy-le-Roi et Orly et emprise de l'aérodrome de Paris-Orly. |
 
 Yonne |
 
@@ -1136,11 +1136,11 @@ Châlons-en-Champagne |
 
 Châlons-en-Champagne |
 
-Ressort du tribunal judiciaire de Châlons-en-Champagne, à l'exception des cantons d'Anglure, Avize, Dormans, Epernay 1er canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne et à l'exception de la partie de la commune de Blancs-Coteaux correspondant aux anciennes communes de Vertus et de Voipreux. |
+Ressort du tribunal judiciaire de Châlons-en-Champagne, à l'exception des communes d'Allemanche-Launay-et-Soyer, Allemant, Anglure, Angluzelles-et-Courcelles, Avize, Bagneux, Bannay, Bannes, Barbonne-Fayel, Baudement, Baye, Beaunay, Bergères-sous-Montmirail, Bethon, Boissy-le-Repos, Bouchy-Saint-Genest, Boursault, Broussy-le-Grand, Broussy-le-Petit, Broyes, Brugny-Vaudancourt, Chaltrait, Champaubert, Champguyon, Champvoisy, Chantemerle, Charleville, Châtillon-sur-Morin, Chavot-Courcourt, Chichey, Chouilly, Clesles, Coizard-Joches, Conflans-sur-Seine, Congy, Connantray-Vaurefroy, Connantre, Corfélix, Corribert, Corroy, Corrobert, Courcemain, Courgivaux, Courjeonnet, Courthiézy, Cramant, Cuis, Damery, Dormans, Epernay, Escardes, Esclavolles-Lurey, Esternay, Etoges, Euvy, Faux-Fresnay, Fère-Champenoise, Fèrebrianges, Festigny, Flavigny, Fleury-la-Rivière, Fontaine-Denis-Nuisy, Fromentières, Gaye, Gourgançon, Granges-sur-Aube, Grauves, Haussimont, Igny-Comblizy, Janvilliers, Joiselle, La Caure, La Celle-sous-Chantemerle, La Chapelle-Lasson, La Chapelle-sous-Orbais, La Forestière, La Noue, La Ville-sous-Orbais, La Villeneuve-lès-Charleville, Lachy, Le Baizil, Le Breuil, Le Gault-Soigny, Le Meix-Saint-Epoing, Le Mesnil-sur-Oger, Le Thoult-Trosnay, Le Vézier, Lenharrée, Les Essarts-le-Vicomte, Les Essarts-lès-Sézanne, Les Istres-et-Bury, Leuvrigny, Linthelles, Linthes, Mancy, Marcilly-sur-Seine, Mardeuil, Mareuil-en-Brie, Mareuil-le-Port, Margny, Marigny, Marsangis, Mécringes, Moeurs-Verdey, Mondement-Montgivroux, Montépreux, Montgenost, Monthelon, Montmirail, Montmort-Lucy, Morangis, Morsains, Moslins, Moussy, Nesle-la-Reposte, Nesle-le-Repons, Neuvy, Oeuilly, Ognes, Oiry, Orbais-l'Abbaye, Oyes, Péas et Pleurs, Pierry, Plivot, Potangis, Queudes, Reuves, Réveillon, Rieux, Saint-Bon, Saint-Just-Sauvage, Saint-Loup, Saint-Martin-d'Ablois, Saint-Quentin-le-Verger, Saint-Remy-sous-Broyes, Saint-Saturnin, Saron-sur-Aube, Saudoy, Sézanne, Soizy-aux-Bois, Suizy-le-Franc, Talus-Saint-Prix, Thaas, Tréfols, Troissy, Vassimont-et-Chapelaine, Vauchamps, Vauciennes, Verdon, Verneuil, Venteuil, Villeneuve-la-Lionne, Villeneuve-Saint-Vistre-et-Villevotte, Villers-aux-Bois, Villevenard, Villiers-aux-Corneilles, Vinay, Vincelles, Vindey et Vouarces. |
 
 Epernay |
 
-Cantons d'Anglure, Avize, Dormans, Epernay 1er canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne et commune de Blancs-Coteaux. |
+Communes d'Allemanche-Launay-et-Soyer, Allemant, Anglure, Angluzelles-et-Courcelles, Avize, Bagneux, Bannay, Bannes, Barbonne-Fayel, Baudement, Baye, Beaunay, Bergères-sous-Montmirail, Bethon, Blancs-Coteaux, Boissy-le-Repos, Bouchy-Saint-Genest, Boursault, Broussy-le-Grand, Broussy-le-Petit, Broyes, Brugny-Vaudancourt, Chaltrait, Champaubert, Champguyon, Champvoisy, Chantemerle, Charleville, Châtillon-sur-Morin, Chavot-Courcourt, Chichey, Chouilly, Clesles, Coizard-Joches, Conflans-sur-Seine, Congy, Connantray-Vaurefroy, Connantre, Corfélix, Corribert, Corroy, Corrobert, Courcemain, Courgivaux, Courjeonnet, Courthiézy, Cramant, Cuis, Damery, Dormans, Epernay, Escardes, Esclavolles-Lurey, Esternay, Etoges, Euvy, Faux-Fresnay, Fère-Champenoise, Fèrebrianges, Festigny, Flavigny, Fleury-la-Rivière, Fontaine-Denis-Nuisy, Fromentières, Gaye, Gourgançon, Granges-sur-Aube, Grauves, Haussimont, Igny-Comblizy, Janvilliers, Joiselle, La Caure, La Celle-sous-Chantemerle, La Chapelle-Lasson, La Chapelle-sous-Orbais, La Forestière, La Noue, La Ville-sous-Orbais, La Villeneuve-lès-Charleville, Lachy, Le Baizil, Le Breuil, Le Gault-Soigny, Le Meix-Saint-Epoing, Le Mesnil-sur-Oger, Le Thoult-Trosnay, Le Vézier, Lenharrée, Les Essarts-le-Vicomte, Les Essarts-lès-Sézanne, Les Istres-et-Bury, Leuvrigny, Linthelles, Linthes, Mancy, Marcilly-sur-Seine, Mardeuil, Mareuil-en-Brie, Mareuil-le-Port, Margny, Marigny, Marsangis, Mécringes, Moeurs-Verdey, Mondement-Montgivroux, Montépreux, Montgenost, Monthelon, Montmirail, Montmort-Lucy, Morangis, Morsains, Moslins, Moussy, Nesle-la-Reposte, Nesle-le-Repons, Neuvy, Oeuilly, Ognes, Oiry, Orbais-l'Abbaye, Oyes, Péas et Pleurs, Pierry, Plivot, Potangis, Queudes, Reuves, Réveillon, Rieux, Saint-Bon, Saint-Just-Sauvage, Saint-Loup, Saint-Martin-d'Ablois, Saint-Quentin-le-Verger, Saint-Remy-sous-Broyes, Saint-Saturnin, Saron-sur-Aube, Saudoy, Sézanne, Soizy-aux-Bois, Suizy-le-Franc, Talus-Saint-Prix, Thaas, Tréfols, Troissy, Vassimont-et-Chapelaine, Vauchamps, Vauciennes, Verdon, Verneuil, Venteuil, Villeneuve-la-Lionne, Villeneuve-Saint-Vistre-et-Villevotte, Villers-aux-Bois, Villevenard, Villiers-aux-Corneilles, Vinay, Vincelles, Vindey et Vouarces. |
 
 Reims |
 
@@ -1402,11 +1402,11 @@ Chartres |
 
 Chartres |
 
-Ressort du tribunal judiciaire de Chartres, à l'exception du ressort de la chambre de proximité de Dreux et des cantons de Bonneval, Brou, Châteaudun, Cloyes-sur-le-Loir et Orgères-en-Beauce. |
+Ressort du tribunal judiciaire de Chartres, à l'exception du ressort de la chambre de proximité de Dreux et des communes d'Alluyes, Baigneaux, Bazoches-en-Dunois, Bazoches-les-Hautes, Bonneval, Bouville, Brou, Bullainville, Châteaudun, Cloyes-les-Trois-Rivières, Conie-Molitard, Cormainville, Courbehaye, Dampierre-sous-Brou, Dancy, Dambron, Dangeau, Donnemain-Saint-Mamès, Flacey, Fontenay-sur-Conie, Gohory, Guillonville, Jallans, La Chapelle-du-Noyer, Le Gault-Saint-Denis, Logron, Loigny-la-Bataille, Lumeau, Marboué, Meslay-le-Vidame, Moléans, Montboissier, Montharville, Moriers, Mottereau, Neuvy-en-Dunois, Nottonville, Orgères-en-Beauce, Péronville, Pré-Saint-Évroult, Pré-Saint-Martin, Poupry, Saint-Avit-les-Guespières, Saint-Christophe, Saint-Denis-Lanneray, Saint-Maur-sur-le-Loir, Sancheville, Saumeray, Terminiers, Thiville, Tillay-le-Péneux, Trizay-lès-Bonneval, Unverre, Varize, Vald'Yerre, Vieuvicq, Villampuy, Villemaury, Villiers-Saint-Orien, Vitray-en-Beauce et Yèvres. |
 
 Châteaudun |
 
-Cantons de Bonneval, Brou, Châteaudun, Cloyes-sur-le-Loir et Orgères-en-Beauce. |
+Communes d'Alluyes, Baigneaux, Bazoches-en-Dunois, Bazoches-les-Hautes, Bonneval, Bouville, Brou, Bullainville, Châteaudun, Cloyes-les-Trois-Rivières, Conie-Molitard, Cormainville, Courbehaye, Dampierre-sous-Brou, Dancy, Dambron, Dangeau, Donnemain-Saint-Mamès, Flacey, Fontenay-sur-Conie, Gohory, Guillonville, Jallans, La Chapelle-du-Noyer, Le Gault-Saint-Denis, Logron, Loigny-la-Bataille, Lumeau, Marboué, Meslay-le-Vidame, Moléans, Montboissier, Montharville, Moriers, Mottereau, Neuvy-en-Dunois, Nottonville, Orgères-en-Beauce, Péronville, Pré-Saint-Évroult, Pré-Saint-Martin, Poupry, Saint-Avit-les-Guespières, Saint-Christophe, Saint-Denis-Lanneray, Saint-Maur-sur-le-Loir, Sancheville, Saumeray, Terminiers, Thiville, Tillay-le-Péneux, Trizay-lès-Bonneval, Unverre, Vald'Yerre, Varize, Vieuvicq, Villampuy, Villemaury, Villiers-Saint-Orien, Vitray-en-Beauce et Yèvres. |
 
 Dreux |
 
