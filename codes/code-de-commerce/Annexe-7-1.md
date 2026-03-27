@@ -84,7 +84,7 @@ Alpes-de-Haute-Provence
 
 |
 
-Digne-les Bains
+Digne-les-Bains
 
 |
 
@@ -92,9 +92,7 @@ Manosque
 
 |
 
-Ressort du tribunal judiciaire de Digne-les-Bains
-
-|
+Ressort du tribunal judiciaire de Digne-les-Bains. |
 
 Alpes-Maritimes
 
@@ -108,7 +106,7 @@ Nice
 
 |
 
-Ressort du tribunal judiciaire de Nice
+Ressort du tribunal judiciaire de Nice.
 
 |
 
@@ -120,7 +118,7 @@ Grasse
 
 |
 
-Ressort du tribunal judiciaire de Grasse et des cantons de Carros, de Coursegoules et de Vence, à l'exception du ressort de la chambre de proximité d'Antibes, de Cagnes-sur-Mer et de Cannes
+Ressort du tribunal judiciaire de Grasse et communes de Bézaudun-les-Alpes, Bouyon, Carros, Cipières, Conségudes, Coursegoules, Gattières, Gréolières, La Gaude, La Roque-en-Provence, Le Broc, Les Ferres, Saint-Jeannet et de Vence, à l'exception du ressort des chambres de proximité d'Antibes et de Cannes.
 
 |
 
@@ -128,7 +126,7 @@ Antibes
 
 |
 
-Ressort de la chambre de proximité d'Antibes et de la chambre de proximité de Cagnes-sur-Mer à l'exception des cantons de Carros, de Coursegoules et de Vence
+Ressort des chambres de proximité d'Antibes et de Cagnes-sur-Mer, à l'exception des communes de Bézaudun-les-Alpes, Bouyon, Carros, Cipières, Conségudes, Coursegoules, Gattières, Gréolières, La Gaude, La Roque-en-Provence, Le Broc, Les Ferres, Saint-Jeannet et de Vence.
 
 |
 
@@ -136,7 +134,7 @@ Cannes
 
 |
 
-Ressort de la chambre de proximité de Cannes
+Ressort de la chambre de proximité de Cannes.
 
 |
 
@@ -152,7 +150,7 @@ Aix-en-Provence
 
 |
 
-Ressort du tribunal judiciaire d'Aix-en-Provence, à l'exception du ressort de la chambre de proximité de Salon-de-Provence, et des cantons de Berre-l'Etang, Istres-Sud et Istres-Nord et Vitrolles
+Ressort du tribunal judiciaire d'Aix-en-Provence, à l'exception des communes de Berre-l'Étang, Fos-sur-Mer, Istres, Miramas, Rognac, Saint-Chamas, Saint-Mitre-les-Remparts et de Vitrolles.
 
 |
 
@@ -160,7 +158,7 @@ Salon-de-Provence
 
 |
 
-Ressort de la chambre de proximité de Salon-de-Provence et cantons de Berre-l'Etang, Istres-Sud et Istres-Nord et Vitrolles
+Ressort de la chambre de proximité de Salon-de-Provence et communes de Berre-l'Étang, Fos-sur-Mer, Istres, Miramas, Rognac, Saint-Chamas, Saint-Mitre-les-Remparts et de Vitrolles.
 
 |
 
@@ -172,7 +170,7 @@ Marseille
 
 |
 
-Ressort du tribunal judiciaire de Marseille
+Ressort du tribunal judiciaire de Marseille.
 
 |
 
@@ -184,7 +182,7 @@ Tarascon
 
 |
 
-Ressort du tribunal judiciaire de Tarascon
+Ressort du tribunal judiciaire de Tarascon.
 
 |
 
@@ -200,7 +198,7 @@ Draguignan
 
 |
 
-Ressort du tribunal judiciaire de Draguignan, à l'exception du ressort de la chambre de proximité de Fréjus
+Ressort du tribunal judiciaire de Draguignan, à l'exception du ressort de la chambre de proximité de Fréjus.
 
 |
 
@@ -208,7 +206,7 @@ Fréjus
 
 |
 
-Ressort de la chambre de proximité de Fréjus
+Ressort de la chambre de proximité de Fréjus.
 
 |
 
@@ -220,7 +218,7 @@ Toulon
 
 |
 
-Ressort du tribunal judiciaire de Toulon
+Ressort du tribunal judiciaire de Toulon.
 
 |
 
@@ -1716,7 +1714,7 @@ Sedan
 
 |
 
-Ressort du tribunal judiciaire de Charleville-Mézières
+Ressort du tribunal judiciaire de Charleville-Mézières.
 
 |
 
@@ -1732,7 +1730,7 @@ Troyes
 
 |
 
-Ressort du tribunal judiciaire de Troyes
+Ressort du tribunal judiciaire de Troyes.
 
 |
 
@@ -1748,7 +1746,7 @@ Châlons-en-Champagne
 
 |
 
-Ressort du tribunal judiciaire de Châlons-en-Champagne-à l'exception des cantons d'Anglure, Avize, Dormans, Epernay 1er canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne-et commune de Blancs-Coteaux
+Ressort du tribunal judiciaire de Châlons-en-Champagne à l'exception des communes d'Allemanche-Launay-et-Soyer, Allemant, Anglure, Angluzelles-et-Courcelles, Avize, Bagneux, Bannay, Bannes, Barbonne-Fayel, Baudement, Baye, Beaunay, Bergères-sous-Montmirail, Bethon, Boissy-le-Repos, Bouchy-Saint-Genest, Boursault, Broussy-le-Grand, Broussy-le-Petit, Broyes, Brugny-Vaudancourt, Chaltrait, Champaubert, Champguyon, Champvoisy, Chantemerle, Charleville, Châtillon-sur-Morin, Chavot-Courcourt, Chichey, Chouilly, Clesles, Coizart-Joches, Conflans-sur-Seine, Congy, Connantray-Vaurefroy, Connantre, Corfélix, Corribert, Corroy, Corrobert, Courcemain, Courgivaux, Courjeonnet, Courthiézy, Cramant, Cuis, Damery, Dormans, Epernay, Escardes, Esclavolles-Lurey, Esternay, Etoges, Euvy, Faux-Fresnay, Fère-Champenoise, Fèrebrianges, Festigny, Flavigny, Fleury-la-Rivière, Fontaine-Denis-Nuisy, Fromentières, Gaye, Gourgançon, Granges-sur-Aube, Grauves, Haussimont, Igny-Comblizy, Janvilliers, Joiselle, La Caure, La Celle-sous-Chantemerle, La Chapelle-Lasson, La Chapelle-sous-Orbais, La Forestière, La Noue, La Ville-sous-Orbais, La Villeneuve-lès-Charleville, Lachy, Le Baizil, Le Breuil, Le Gault-Soigny, Le Meix-Saint-Epoing, Le Mesnil-sur-Oger, Le Thoult-Trosnay, Le Vézier, Lenharrée, Les Essarts-le-Vicomte, Les Essarts-lès-Sézanne, Les Istres-et-Bury, Leuvrigny, Linthelles, Linthes, Mancy, Marcilly-sur-Seine, Mardeuil, Mareuil-en-Brie, Mareuil-le-Port, Margny, Marigny, Marsangis, Mécringes, Moeurs-Verdey, Mondement-Montgivroux, Montépreux, Montgenost, Monthelon, Montmirail, Montmort-Lucy, Morangis, Morsains, Moslins, Moussy, Nesle-la-Reposte, Nesle-le-Repons, Neuvy, Oeuilly, Ognes, Oiry, Orbais-l'Abbaye, Oyes, Péas et Pleurs, Pierry, Plivot, Potangis, Queudes, Reuves, Réveillon, Rieux, Saint-Bon, Saint-Just-Sauvage, Saint-Loup, Saint-Martin-d'Ablois, Saint-Quentin-le-Verger, Saint-Remy-sous-Broyes, Saint-Saturnin, Saron-sur-Aube, Saudoy, Sézanne, Soizy aux Bois, Suizy-le-Franc, Talus-Saint-Prix, Thaas, Tréfols, Troissy, Vassimont-et-Chapelaine, Vauchamps, Vauciennes, Verdon, Verneuil, Venteuil, Villeneuve-la-Lionne, Villeneuve-Saint-Vistre-et-Villevotte, Villers-aux-Bois, Villevenard, Villiers-aux-Corneilles, Vinay, Vincelles, Vindey et de Vouarces.
 
 |
 
@@ -1760,7 +1758,7 @@ Reims
 
 |
 
-Ressort du tribunal judiciaire de Reims et cantons d'Anglure, Avize (à l'exception de la fraction de commune de Blancs-Coteaux), Dormans, Epernay 1er canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne
+Ressort du tribunal judiciaire de Reims et communes d'Allemanche-Launay-et-Soyer, Allemant, Anglure, Angluzelles-et-Courcelles, Avize, Bagneux, Bannay, Bannes, Barbonne-Fayel, Baudement, Baye, Beaunay, Bergères-sous-Montmirail, Bethon, Boissy-le-Repos, Bouchy-Saint-Genest, Boursault, Broussy-le-Grand, Broussy-le-Petit, Broyes, Brugny-Vaudancourt, Chaltrait, Champaubert, Champguyon, Champvoisy, Chantemerle, Charleville, Châtillon-sur-Morin, Chavot-Courcourt, Chichey, Chouilly, Clesles, Coizart-Joches, Conflans-sur-Seine, Congy, Connantray-Vaurefroy, Connantre, Corfélix, Corribert, Corroy, Corrobert, Courcemain, Courgivaux, Courjeonnet, Courthiézy, Cramant, Cuis, Damery, Dormans, Epernay, Escardes, Esclavolles-Lurey, Esternay, Etoges, Euvy, Faux-Fresnay, Fère-Champenoise, Fèrebrianges, Festigny, Flavigny, Fleury-la-Rivière, Fontaine-Denis-Nuisy, Fromentières, Gaye, Gourgançon, Granges-sur-Aube, Grauves, Haussimont, Igny-Comblizy, Janvilliers, Joiselle, La Caure, La Celle-sous-Chantemerle, La Chapelle-Lasson, La Chapelle-sous-Orbais, La Forestière, La Noue, La Ville-sous-Orbais, La Villeneuve-lès-Charleville, Lachy, Le Baizil, Le Breuil, Le Gault-Soigny, Le Meix-Saint-Epoing, Le Mesnil-sur-Oger, Le Thoult-Trosnay, Le Vézier, Lenharrée, Les Essarts-le-Vicomte, Les Essarts-lès-Sézanne, Les Istres-et-Bury, Leuvrigny, Linthelles, Linthes, Mancy, Marcilly-sur-Seine, Mardeuil, Mareuil-en-Brie, Mareuil-le-Port, Margny, Marigny, Marsangis, Mécringes, Moeurs-Verdey, Mondement-Montgivroux, Montépreux, Montgenost, Monthelon, Montmirail, Montmort-Lucy, Morangis, Morsains, Moslins, Moussy, Nesle-la-Reposte, Nesle-le-Repons, Neuvy, Oeuilly, Ognes, Oiry, Orbais-l'Abbaye, Oyes, Péas et Pleurs, Pierry, Plivot, Potangis, Queudes, Reuves, Réveillon, Rieux, Saint-Bon, Saint-Just-Sauvage, Saint-Loup, Saint-Martin-d'Ablois, Saint-Quentin-le-Verger, Saint-Remy-sous-Broyes, Saint-Saturnin, Saron-sur-Aube, Saudoy, Sézanne, Soizy aux Bois, Suizy-le-Franc, Talus-Saint-Prix, Thaas, Tréfols, Troissy, Vassimont-et-Chapelaine, Vauchamps, Vauciennes, Verdon, Verneuil, Venteuil, Villeneuve-la-Lionne, Villeneuve-Saint-Vistre-et-Villevotte, Villers-aux-Bois, Villevenard, Villiers-aux-Corneilles, Vinay, Vincelles, Vindey et Vouarces.
 
 |
 
