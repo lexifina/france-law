@@ -1,0 +1,53 @@
+# Pour une montagne vivante et souveraine
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 17
+- Identifiant : DLR5L17N54006
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/17/dossiers/montagne_vivante_souveraine_17e
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl25-629.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2026-03-27 : 1er dépôt d'une initiative. (PIONANR5L17B2595)
+  - 2026-05-12 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2026-03-27 : Renvoi en commission au fond
+      - 2026-04-28 : Nomination de rapporteur
+      - 2026-04-28 : Réunion de commission
+      - 2026-05-06 : Réunion de commission
+      - 2026-05-12 : Réunion de commission
+      - 2026-05-06 : Dépôt de rapport (RAPPANR5L17B2755, PIONANR5L17BTC2755)
+  - Discussion en séance publique
+    - 2026-05-13 : Discussion en séance publique
+    - 2026-05-13 : Discussion en séance publique
+    - 2026-05-13 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2026-05-15 : Dépôt d'une initiative en navette (PIONSNR5S479B0629)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2026-05-15 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2026-07-01 : Dépôt de rapport (RAPPSNR5S479B0832, PIONSNR5S479BTC0833)
+  - Discussion en séance publique
+    - 2026-07-06 : Décision
+- Commission Mixte Paritaire
+  - 2026-07-07 : Dépôt d'un projet de loi (PIONANR5L17B3019)
+  - 2026-07-09 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2026-07-16 : Nomination de rapporteur
+    - 2026-07-16 : Dépôt du rapport d'une CMP (RAPPANR5L17B3068, PIONANR5L17BTC3068)
+    - 2026-07-16 : Dépôt du rapport d'une CMP (RAPPSNR5S479B0895, PIONSNR5S479BTC0896)
+  - Discussion en séance publique
+    - 2026-07-20 : Discussion en séance publique
+    - 2026-07-20 : Décision
+  - Discussion en séance publique
+    - 2026-07-21 : Discussion en séance publique
+    - 2026-07-21 : Décision
+  - 2026-07-17 : Décision de la CMP
+- Conseil constitutionnel
+  - 2026-07-23 : Saisine du conseil constitutionnel
+  - 2026-08-14 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2026-08-18 : Promulgation d'une loi
