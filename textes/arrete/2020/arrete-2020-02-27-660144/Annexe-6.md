@@ -86,9 +86,9 @@ Vice-président |
 
 3 600 € |
 
-Haut conseil du commissariat aux comptes |
+Haute autorité de l'audit |
 
-Président de la formation restreinte |
+Président de la commission des sanctions |
 
 25 000 € |
 

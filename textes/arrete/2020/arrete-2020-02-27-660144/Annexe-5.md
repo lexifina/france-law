@@ -36,19 +36,17 @@ Hors Échelle C-Chevron II |
 
 50 000 € |
 
-2° Présidents de formation restreinte :
+2° Présidents de la commission des sanctions :
 
-AAI/ API |
+AAI/API |
 
 Traitement indiciaire |
 
-Montant de l'indemnité
+Montant de l'indemnité de fonction |
 
-de fonction |
+Haute autorité de l'audit |
 
-Haut Conseil du commissariat aux comptes |
-
-Hors Échelle C-Chevron I |
+Hors échelle C - Chevron I |
 
 35 000 € |
 
