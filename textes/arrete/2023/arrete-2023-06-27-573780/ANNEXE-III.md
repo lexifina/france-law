@@ -26,6 +26,8 @@ L'organisme coordonnateur organise les travaux entre les éco-organismes agréé
 
 - l'information précisant les modalités de tri ou d'apport du déchet de pneumatique, prévue au deuxième alinéa de l'article L. 541-9-3.
 
+- le bilan et la révision du montant et des modalités du soutien financier, prévus au point 4.2.2 de l'annexe I.
+
 3. Répartition des obligations de gestion des déchets de pneumatiques
 
 3.1. Déchets de pneumatiques issus des opérations de collecte assurées par les collectivités locales ou leurs groupements
@@ -63,3 +65,15 @@ L'organisme coordonnateur répartit les obligations de collecte des déchets de 
 2° Une répartition géographique des territoires des collectivités régies par l'article 73 de la Constitution, ainsi que de Saint-Martin, et de Saint-Pierre-et-Miquelon, sur lesquels chacun des éco-organismes est tenu d'assurer la prise en charge des coûts de collecte des déchets de pneumatiques supportés par l'ensemble des opérateurs du territoire concerné, ainsi que la reprise des déchets de pneumatiques ainsi collectés par ces opérateurs. Cette répartition est complétée par un équilibrage financier, dans la limite de 5 % des quantités de déchets de pneumatiques collectés, afin de procéder aux ajustements périodiques nécessaires à l'exercice d'équilibrage. La proposition de répartition géographique des territoires des collectivités régies par l'article 73 de la Constitution, ainsi que de Saint-Martin, et de Saint-Pierre-et-Miquelon, est élaborée en concertation avec un comité associant des représentants des collectivités et territoires concernés, puis présenté pour accord à l'autorité administrative. Les ajustements de répartition géographique de ces territoires qui seraient nécessaires, le cas échéant, sont établis pour assurer une continuité du service de prise en charge des déchets de pneumatiques auprès des opérateurs qui les ont collectés et pour limiter autant que possible les perturbations d'ordre technique.
 
 Le choix de l'une des modalités d'équilibrage (1° ou 2°) et la formule de répartition des obligations sont présentées par l'organisme coordonnateur dans le cadre de son dossier de demande d'agrément et peut être révisée sur sa proposition après accord de l'autorité administrative.
+
+3.4. Soutien au rechapage de pneumatiques usagés relevant de la catégorie des véhicules légers
+
+L'organisme coordonnateur suit les quantités de pneumatiques usagés dont les opérations de rechapage ont été soutenues par les éco-organismes conformément aux dispositions du 4.2.2 du cahier des charges des éco-organismes annexé à l'arrêté du 27 juin 2023.
+
+Il apprécie les obligations de soutien de chaque éco-organisme au prorata des quantités de pneumatiques mis sur le marché par les producteurs ayant transféré leurs obligations de responsabilité élargie à chacun des éco-organismes.
+
+L'organisme coordonnateur répartit les obligations de soutien des éco-organismes selon un équilibrage financier, en prenant comme référence le montant du soutien financier prévu au 4.2.2 du cahier des charges des éco-organismes annexé à l'arrêté du 27 juin 2023.
+
+L'organisme coordonnateur propose pour accord aux ministres chargés de l'environnement et de l'économie le résultat provisoire de l'équilibrage. L'accord est réputé acquis en l'absence d'opposition de l'un des deux ministres dans un délai de deux mois suivant la réception de la proposition. En cas de désaccord motivé, l'équilibrage est arrêté par les ministres.
+
+La formule d'équilibrage des obligations est présentée par l'organisme coordonnateur dans le cadre de son dossier de demande d'agrément et peut-être révisée sur sa proposition après accord de l'autorité administrative.

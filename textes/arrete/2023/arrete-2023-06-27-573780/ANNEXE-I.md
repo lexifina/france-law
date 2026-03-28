@@ -276,21 +276,29 @@ Année concernée (à compter de) |
 
 2024 |
 
-2026 |
-
 2028 |
 
 Pourcentage minimal de produits usagés relevant de la catégorie des véhicules légers qui ont fait l'objet d'une opération de rechapage |
 
-4% |
+4 % |
 
-6% |
-
-10% |
+5 % |
 
 Ces objectifs portent sur les quantités de pneumatiques usagés relevant de la catégorie des véhicules légers qui ont fait l'objet d'une opération de rechapage par des opérateurs du rechapage enregistrés auprès de l'éco-organisme.
 
 En application de l'article R. 541-117, lorsque l'éco-organisme passe des marchés pour le rechapage des pneumatiques, la pondération du critère de proximité prévu à l'article L. 541-10-6 est établie en référence à une distance de 1 500 km entre le lieu de collecte des déchets et le lieu des opérations de rechapage.
+
+L'éco-organisme soutient tout opérateur de rechapage qui met sur le marché national des pneumatiques rechapés dès lors que les pneumatiques usagés dont ils sont issus ont été collectés sur le territoire national, et que l'opération de rechapage a été réalisée à moins de 1 500 km de leur lieu de collecte.
+
+Pour les pneumatiques usagés collectés dans les collectivités territoriales régies par l'article 73 de la Constitution, à Saint-Martin et à Saint-Pierre-et-Miquelon, le critère de 1 500 km indiqué ci-dessus peut être déterminé à partir du barycentre géographique du territoire concerné ou du barycentre du territoire hexagonal (46° 29ʹ 38ʺ N, 2° 36ʹ 10ʺ E, calculé par l'IGN).
+
+Les modalités de ce soutien financier sont précisées par un contrat-type établi en application de l'article R. 541-104. Ce contrat-type prévoit que le montant minimal du soutien financier est de 6 € par pneumatique usagé mis sur le marché national ayant fait l'objet d'une opération de rechapage dans les conditions du présent paragraphe.
+
+Lorsque plusieurs éco-organismes sont agréés, les obligations du présent paragraphe sont appréciées pour chacun des éco-organismes au prorata des quantités de pneumatiques mises sur le marché national l'année précédente par les producteurs qui leur ont transféré l'obligation de responsabilité élargie, sous l'égide de l'organisme coordonnateur.
+
+Dans un délai qui ne peut être inférieur à dix-huit mois à compter de la date de mise en œuvre du soutien financier mentionné au troisième alinéa, l'éco-organisme peut formuler une proposition de révision du montant et des modalités d'attribution de ce soutien, après réalisation d'un bilan de mise en œuvre du dispositif de soutien aux opérations de rechapage des pneumatiques usagés relevant de la catégorie des véhicules légers. Ce bilan est réalisé en lien avec l'ADEME. Le bilan et la proposition de révision sont transmis aux ministres chargés de l'environnement et de l'économie, en vue de modifier, le cas échéant, les dispositions du présent cahier des charges.
+
+Lorsque plusieurs éco-organismes sont agréés, le bilan et la proposition de révision des modalités du soutien financier sont réalisés conjointement, sous l'égide de l'organisme coordonnateur agréé, dans les conditions indiquées ci-dessus.
 
 4.2.3. Objectifs de rechapage de pneumatiques usagés relevant de la catégorie des poids lourds
 
