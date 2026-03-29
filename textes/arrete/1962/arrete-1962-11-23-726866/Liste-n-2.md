@@ -36,7 +36,9 @@ Came |
 
 Pyrénées-Atlantiques |
 
-Hélistation |
+Hélistation
+
+|
 
 Castets |
 
@@ -55,12 +57,6 @@ Châlons-sur-Marne |
 Marne |
 
 Hélistation |
-
-Coëtquidan |
-
-Morbihan |
-
-|
 
 Colmar-Meyenheim |
 
