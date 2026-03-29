@@ -356,7 +356,9 @@ I.-L'éco-organisme soutient les opérateurs du tri en 2026 à hauteur de 57 mil
 
 Ce soutien se substitue, pour l'année 2026, au soutien usuel prévu par l'application du présent cahier des charges.
 
-II.-Ce soutien exceptionnel aux opérateurs du tri est versé selon le calendrier suivant :
+Le précédent alinéa ne s'applique pas, dans le cas où, pour un opérateur donné, le montant du soutien usuel est supérieur au montant du soutien exceptionnel.
+
+II.-Ce soutien exceptionnel, de 268 € par tonne triée, est versé aux opérateurs de tri selon le calendrier suivant :
 
 -le premier versement a lieu en avril 2026 pour les tonnages triés au premier trimestre 2026 ;
 
@@ -366,13 +368,13 @@ II.-Ce soutien exceptionnel aux opérateurs du tri est versé selon le calendrie
 
 -le quatrième versement a lieu en janvier 2027 pour les tonnages triés au quatrième trimestre 2026.
 
-III.-Les modalités des premiers versements du soutien exceptionnel prévus au II sont calculées sur la base de 250 kt triées en 2026.
+III. - (Supprimé).
 
-IV.-Pour chaque opérateur le soutien prévu au II est calculé à partir de la déclaration du tonnage trié en 2026, plafonnée à hauteur du tonnage trié en 2024 augmenté de 16,5 %.
+IV.-Pour chaque opérateur le soutien prévu au II est calculé à partir de la déclaration du tonnage trié en 2026, plafonnée à hauteur du tonnage trié en 2025 augmenté de 30 %.
 
-Par exception à l'alinéa précédent, pour les opérateurs qui ont fait connaitre un investissement à l'éco-organisme en 2024, permettant d'augmenter la capacité de tri, la déclaration 2026 est plafonnée à hauteur de la somme du tonnage trié en 2024 auquel on ajoute une hausse de 16,5 % avec l'augmentation de capacité annoncée en 2024 (pour l'année 2026).
+Le plafonnement prévu au précédent alinéa ne s'applique pas dans le cas où l'opérateur a signé un avenant au développement avec ou sans investissement pour 2026 auprès de l'éco-organisme ou dans le cas où l'opérateur dépasse de moins de 2 000 tonnes en tonnage trié en 2026 le plafonnement mentionné.
 
-V.-Le versement prévu en janvier 2027 est conditionné à la production d'un audit financier sur les coûts associés au tri effectués en 2026.
+V. - (Supprimé).
 
 3.5. Pourvoi à la collecte et au traitement des TLC usagés par l'éco-organisme
 
