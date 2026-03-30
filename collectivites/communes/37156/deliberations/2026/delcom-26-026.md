@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_26_026 — DELIBERATION 2026-26 DESIGNATION COMMISSION CONTROLE FINANCIER CONCESSION DES SERVICES PUBLICS
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2026-03-30
+- Matière : 5.3 Institutions et vie politique/Designation de representants
+- Objet : DELIBERATION 2026-26 DESIGNATION COMMISSION CONTROLE FINANCIER CONCESSION DES SERVICES PUBLICS
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2026/76345/c28e85dce2a492ad615f8f7a93d636e0ab4ef9c41a70c921a49fdc58f8beae4a.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
