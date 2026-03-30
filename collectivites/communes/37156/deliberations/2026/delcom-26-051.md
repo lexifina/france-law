@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_26_051 — DELIBERATION 2026-51 REPRESENTANTS COMMISSION EVALUATION CHARGES TRANSFEREES A LA TEV
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2026-03-30
+- Matière : 5.3 Institutions et vie politique/Designation de representants
+- Objet : DELIBERATION 2026-51 REPRESENTANTS COMMISSION EVALUATION CHARGES TRANSFEREES A LA TEV
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2026/76373/9f89559d764055459115cbc66900615e14ffedadb48a4fbeb64b145c85ff5511.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
