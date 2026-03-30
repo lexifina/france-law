@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_26_027 — DELIBERATION 2026-27 DESIGNATION COMMISSION CONSULTATIVE SERVICES PUBLICS LOCAUX
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2026-03-30
+- Matière : 5.3 Institutions et vie politique/Designation de representants
+- Objet : DELIBERATION 2026-27 DESIGNATION COMMISSION CONSULTATIVE SERVICES PUBLICS LOCAUX
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2026/76351/392ea8831d2c835c1419f7bdfe74015023f7c52e749300a73cdfec70e7bc3ce8.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
