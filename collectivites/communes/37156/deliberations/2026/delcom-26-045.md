@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_26_045 — DELIBERATION 2026-45 REPRESENTANTS COMMISSION INTERCOMMUNALE DES IMPOTS DIRECTS
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2026-03-30
+- Matière : 5.3 Institutions et vie politique/Designation de representants
+- Objet : DELIBERATION 2026-45 REPRESENTANTS COMMISSION INTERCOMMUNALE DES IMPOTS DIRECTS
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2026/76370/dee8676676ac17f85614b62e51380b7013cf3ba89581dc141be97070632321e7.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
