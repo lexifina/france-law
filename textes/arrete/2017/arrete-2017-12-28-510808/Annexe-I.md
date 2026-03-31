@@ -1,6 +1,6 @@
 # Article Annexe I
 
-Liste des codes déchets des déchets susceptibles de produire du biogaz mentionnés au B et au C du tableau du a du A du 1 de l'article 266 nonies du code des douanes
+Liste des codes déchets des déchets susceptibles de produire du biogaz mentionnés au B et au C du tableau du a du A du 1 de l'article 299 quater du code général des impôts
 
 CODES DÉCHETS |
 
@@ -276,7 +276,7 @@ boues de dragage autres que celles visées à la rubrique 17 05 05 |
 
 17 09 04 |
 
-déchets de construction et de démolition en mélange autres que ceux visés aux rubriques 17 09 01, 17 09 02 et 17 09 03 |
+déchets de construction et de démolition en mélange autres que ceux visés aux rubriques 17 09 01,17 09 02 et 17 09 03 |
 
 19 05 01 |
 
@@ -334,11 +334,11 @@ boues de décarbonatation |
 
 charbon actif usé |
 
-19°10°04 |
+19° 10° 04 |
 
 fraction légère des résidus de broyage et poussières autres que celles visées à la rubrique 19 10 03 |
 
-19°10°06 |
+19° 10° 06 |
 
 autres fractions autres que celles visées à la rubrique 19 10 05 |
 
@@ -391,3 +391,7 @@ déchets provenant du nettoyage des égouts |
 déchets encombrants |
 
 L'ensemble des codes déchets terminant par 99 et répondant au libellé déchets non spécifiés ailleurs à l'exception des codes 20 01 99 et 20 03 99. |
+
+NOTA :
+
+Conformément au IV de l'article 21 de l'ordonnance n° 2025-1247 du 17 décembre 2025, ces dispositions, dans leur rédaction issue de ladite ordonnance, entrent en vigueur le 31 mars 2026.

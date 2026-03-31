@@ -62,9 +62,9 @@ Mastics de vitrier : ≤ 5 kg
 
 Autres mastics :
 
-- en conditionnement cartouches : ≤ 0,3 l
+-en conditionnement cartouches : ≤ 0,3 l
 
-- autres types de conditionnement : ≤ 5 kg |
+-autres types de conditionnement : ≤ 5 kg |
 
 Colles de bricolage |
 
@@ -74,7 +74,7 @@ Colles en phase solvantée : ≤ 1 kg
 
 Colles réactives : ≤ 500 g |
 
-Colles pour usage scolaire et colles multi-usages / fixation ou petite fixation décorative, sans solvant |
+Colles pour usage scolaire et colles multi-usages/ fixation ou petite fixation décorative, sans solvant |
 
 Quel que soit le poids ≥ 80 g |
 
@@ -84,7 +84,7 @@ Colles murs et sols : ≤ 25 kg
 
 Colles carrelage : ≤ 25 kg |
 
-Résines de type mousses Polyuréthane / mousses expansives quel qu'en soit le mode d'application |
+Résines de type mousses Polyuréthane/ mousses expansives quel qu'en soit le mode d'application |
 
 Aérosols ≤ 1 l |
 
@@ -114,7 +114,7 @@ Pigments, couleurs, teintes et autres additifs pour les peintures et les enduits
 
 ≤ 1,5 kg |
 
-Enduits intérieurs / extérieurs minéraux et organiques pour murs ou sols : enduits décoratifs, enduits de réparation, de rebouchage, de ragréage, de finition, de jointement et de lissage, mortier colle, mortiers divers |
+Enduits intérieurs/ extérieurs minéraux et organiques pour murs ou sols : enduits décoratifs, enduits de réparation, de rebouchage, de ragréage, de finition, de jointement et de lissage, mortier colle, mortiers divers |
 
 Pâte : ≤ 25 kg
 
@@ -166,7 +166,7 @@ Décapants pour appareils de cuisson ménagers |
 
 ≤ 1 l |
 
-Produits imperméabilisants et / ou de protection textiles et / ou cuir et / ou daim |
+Produits imperméabilisants et/ ou de protection textiles et/ ou cuir et/ ou daim |
 
 ≤ 500 ml |
 
@@ -182,7 +182,7 @@ Aérosols : ≤ 1 kg ou 1 l |
 
 7. Produits chimiques usuels |
 
-Produits antirouille non soumis aux 4 (a), 4 (b) et 4 (c) de l'article 266 sexies du code des douanes
+Produits antirouille non soumis aux 4 (a), 4 (b) et 4 (c) de l'article 299 du code des douanes
 
 |
 
@@ -272,7 +272,7 @@ Produits antimousses et produits antimoisissures |
 
 ≤ 25 l |
 
-Produits phytopharmaceutiques, à l'exception des préparations naturelles peu préoccupantes composées exclusivement de substances de base et portant la mention emploi autorisé dans les jardins= |
+Produits phytopharmaceutiques, à l'exception des préparations naturelles peu préoccupantes composées exclusivement de substances de base et portant la mention emploi autorisé dans les jardins = |
 
 Quel que soit le poids ou le volume |
 
@@ -295,3 +295,7 @@ Engrais pour jardin des ménages, à l'exclusion des engrais organiques, des eng
 Liquide : ≤ 5 l
 
 Solide : ≤ 25 kg |
+
+NOTA :
+
+Conformément au IV de l'article 21 de l'ordonnance n° 2025-1247 du 17 décembre 2025, ces dispositions, dans leur rédaction issue de ladite ordonnance, entrent en vigueur le 31 mars 2026.
