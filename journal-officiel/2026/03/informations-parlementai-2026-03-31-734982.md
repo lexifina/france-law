@@ -1,0 +1,110 @@
+# Résolutions
+
+- Nature : Informations Parlementaires
+- Publication : 2026-03-31
+- JO n° : 0077
+- NOR : INPS2608874X
+- Origine : JORF n°0077 du 31 mars 2026
+- Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053734982
+
+## Article
+
+Sénat
+
+Session ordinaire 2025-2026
+
+Résolution adoptée en application de l'article 88-6 de la Constitution
+
+Est devenue résolution du Sénat le 30 mars 2026, conformément à l'article 73 octies du Règlement du Sénat, la proposition de résolution européenne de la commission de l'aménagement du territoire et du développement durable dont la teneur suit :
+
+Résolution européenne portant avis motivé sur la conformité au principe de subsidiarité de la proposition de règlement du Parlement européen et du Conseil suspendant l'application des règles relatives à la désignation d'un mandataire chargé de la responsabilité élargie des producteurs en ce qui concerne les batteries et les déchets de batteries ainsi que les emballages et les déchets d'emballages - COM(2025) 982 final ; la proposition de directive du Parlement européen et du Conseil suspendant l'application des règles relatives à la désignation de mandataires pour le régime de responsabilité élargie des producteurs concernant les déchets, les déchets d'équipements électriques et électroniques et les déchets de plastiques à usage unique - COM(2025) 983 final ; la proposition de règlement du Parlement européen et du Conseil relatif à l'accélération des évaluations environnementales - COM(2025) 984 final ; la proposition de directive du Parlement européen et du Conseil modifiant la directive 2007/2/CE en ce qui concerne la simplification de certaines exigences pour l'établissement de l'infrastructure d'information géographique dans l'Union - COM(2025) 985 final ; la proposition de directive du Parlement européen et du Conseil modifiant les directives 2008/98/CE, 2010/75/UE, (UE) 2015/2193 et (UE) 2024/1785 du Parlement européen et du Conseil en ce qui concerne la simplification de certaines exigences et la réduction de la charge administrative - COM(2025) 986 final
+
+Vu l'article 88-6 de la Constitution ;
+
+Vu l'article 73 octies du Règlement du Sénat ;
+
+Vu la proposition de règlement du Parlement européen et du Conseil suspendant l'application des règles relatives à la désignation d'un mandataire chargé de la responsabilité élargie des producteurs en ce qui concerne les batteries et les déchets de batteries ainsi que les emballages et les déchets d'emballages - COM(2025) 982 final ;
+
+Vu la proposition de directive du Parlement européen et du Conseil suspendant l'application des règles relatives à la désignation de mandataires pour le régime de responsabilité élargie des producteurs concernant les déchets, les déchets d'équipements électriques et électroniques et les déchets de plastiques à usage unique - COM(2025) 983 final ;
+
+Vu la proposition de règlement du Parlement européen et du Conseil relatif à l'accélération des évaluations environnementales - COM(2025) 984 final ;
+
+Vu la proposition de directive du Parlement européen et du Conseil modifiant la directive 2007/2/CE en ce qui concerne la simplification de certaines exigences pour l'établissement de l'infrastructure d'information géographique dans l'Union - COM(2025) 985 final ;
+
+Vu la proposition de directive du Parlement européen et du Conseil modifiant les directives 2008/98/CE, 2010/75/UE, (UE) 2015/2193 et (UE) 2024/1785 du Parlement européen et du Conseil en ce qui concerne la simplification de certaines exigences et la réduction de la charge administrative - COM(2025) 986 final ;
+
+Vu le règlement (CE) n° 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l'enregistrement, l'évaluation et l'autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n° 793/93 du Conseil et le règlement (CE) n° 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission ;
+
+Le Sénat émet les observations suivantes :
+
+L'article 5 du traité sur l'Union européenne (TUE) stipule que l'Union européenne ne peut intervenir, en vertu du principe de subsidiarité, que « si, et dans la mesure où les objectifs de l'action envisagée ne peuvent pas être atteints de manière suffisante par les États membres, mais peuvent l'être mieux, en raison des dimensions ou des effets de l'action envisagée, au niveau de l'Union » ; il précise qu'en application du principe de proportionnalité, « le contenu et la forme de l'action de l'Union n'excèdent pas ce qui est nécessaire pour atteindre les objectifs des traités » ; ceci implique d'examiner, non seulement si l'objectif de l'action envisagée peut être mieux réalisé au niveau communautaire, mais également si l'intensité de l'action entreprise n'excède pas la mesure nécessaire pour atteindre l'objectif que cette action vise à réaliser ;
+
+L'article 5 du protocole n° 2 sur l'application des principes de subsidiarité et de proportionnalité annexé au TUE et au traité sur le fonctionnement de l'Union européenne (TFUE) prévoit que « les raisons permettant de conclure qu'un objectif de l'Union peut être mieux atteint au niveau de celle-ci s'appuient sur des indicateurs qualitatifs et, chaque fois que c'est possible, quantitatifs » ; ceci implique que les projets d'actes législatifs européens soient suffisamment motivés et circonstanciés ;
+
+Dans un contexte marqué par des tensions géopolitiques et des défis urgents à relever notamment en matière de compétitivité, la Commission européenne a présenté, le 10 décembre 2025, son huitième paquet « Omnibus » de simplification ; ce dernier vise à améliorer la réglementation environnementale dans quatre domaines : les évaluations environnementales, les émissions industrielles, l'économie circulaire et les données géospatiales ;
+
+La Commission européenne affirme que cette simplification ne se fera pas au détriment de la protection de l'environnement et de la santé humaine et permettra aux entreprises d'économiser près d'un milliard d'euros par an ;
+
+Concernant la proposition de règlement du Parlement européen et du Conseil relatif à l'accélération des évaluations environnementales - COM(2025) 984 final :
+
+Considérant que les évaluations environnementales constituent un pilier des procédures d'autorisation, la Commission européenne propose de simplifier, de rationaliser et d'accélérer ces procédures, tout en prévoyant une boîte à outils spécifique pour les secteurs ou catégories stratégiques ; cet objectif mérite un plein soutien ;
+
+Pour y parvenir, la Commission européenne envisage de modifier, par le biais d'un règlement, cinq directives : la directive 2001/42/CE du Parlement européen et du Conseil du 27 juin 2001 relative à l'évaluation des incidences de certains plans et programmes sur l'environnement, ou directive relative à l'évaluation environnementale stratégique (EES) ; la directive 2011/92/UE du Parlement européen et du Conseil du 13 décembre 2011 concernant l'évaluation des incidences de certains projets publics et privés sur l'environnement, ou directive concernant l'évaluation des incidences sur l'environnement (EIE) ; la directive 92/43/CEE du Conseil du 21 mai 1992 concernant la conservation des habitats naturels ainsi que de la faune et de la flore sauvages, ou directive « Habitats » ; la directive 2009/147/CE du Parlement européen et du Conseil du 30 novembre 2009 concernant la conservation des oiseaux sauvages, ou directive « Oiseaux » ; la directive 2000/60/CE du Parlement européen et du Conseil du 23 octobre 2000 établissant un cadre pour une politique communautaire dans le domaine de l'eau, ou directive-cadre sur l'eau (DCE) ;
+
+Ce choix de recourir à un règlement prive les États membres de toute marge de manœuvre pour adapter ces règles à leurs spécificités nationales, les règlements étant directement applicables et ne faisant donc pas l'objet d'une transposition, contrairement aux directives ;
+
+Ce choix apparaît insuffisamment justifié au regard de l'atteinte portée aux prérogatives des États membres et, singulièrement, des parlements nationaux ;
+
+Par ailleurs, la multiplication des textes sectoriels en vigueur (directive pour la promotion des énergies renouvelables, règlement pour une industrie « zéro net », règlement sur les matériaux critiques) et en cours de négociation (textes du paquet réseaux, règlement sur l'accélération industrielle, textes de l'omnibus « défense », réglementation sur les médicaments critiques et sur les biotechnologies) fragmente le cadre juridique des procédures d'autorisation ; sans vision d'ensemble de leurs effets, la superposition des réglementations, des exemptions et des délais contraignants conduit à une complexité procédurale qui devient illisible pour les porteurs de projet et les services instructeurs ; cette complexité accroît les risques juridiques, les coûts pour les parties prenantes et allonge les délais de réalisation des projets en contradiction avec les objectifs recherchés ; faute d'une harmonisation suffisante, les mesures proposées par la Commission européenne n'apparaissent dès lors pas conformes au principe de proportionnalité ;
+
+Le Sénat appelle à l'adoption d'une réglementation harmonisée des autorisations, notamment en matière environnementale, qui devrait servir de cadre aux initiatives futures ; il souhaite la fixation de dispositions transversales, laissant une réelle latitude aux États membres pour les mettre en œuvre au regard de leurs structures administratives et de la répartition des compétences entre leurs autorités nationales et locales ;
+
+En outre, les différentes mesures relatives aux points de contact uniques, à la fixation de délais contraignants, à l'obligation de créer de nouveaux outils informatiques ignorent les spécificités nationales ou les répartitions de compétences entre l'État et les collectivités territoriales ; la proposition de la Commission européenne n'apporte pas non plus la preuve que ces mesures prises au niveau de l'Union européenne apporteraient une plus-value par rapport aux actions menées à l'échelon national ;
+
+Enfin, les mécanismes d'autorisations tacites, associés à la fixation de délais contraignants, soulèvent d'importantes réserves ; ils risquent de conduire à autoriser un projet sans avoir fixé au préalable les prescriptions de fonctionnement essentielles (équipements de sécurité, fixation de limitation de rejets, …) ; ils pourraient conduire à une augmentation des refus ou entraîner une augmentation des procédures contentieuses, faute d'avoir pu s'assurer préalablement de la sécurité juridique des projets ; ces mesures pourraient ainsi engendrer des retards supplémentaires à rebours des objectifs recherchés ;
+
+Pour ces différents motifs, la proposition de règlement COM(2025) 984 final précitée n'apparaît pas conforme aux principes de subsidiarité et de proportionnalité ;
+
+Concernant la proposition de règlement du Parlement européen et du Conseil suspendant l'application des règles relatives à la désignation d'un mandataire chargé de la responsabilité élargie des producteurs en ce qui concerne les batteries et les déchets de batteries ainsi que les emballages et les déchets d'emballages - COM(2025) 982 final - et la proposition de directive du Parlement européen et du Conseil suspendant l'application des règles relatives à la désignation de mandataires pour le régime de responsabilité élargie des producteurs concernant les déchets, les déchets d'équipements électriques et électroniques et les déchets de plastiques à usage unique - COM(2025) 983 final :
+
+L'objectif de ces deux propositions d'actes législatifs est de simplifier la réglementation existante relative à la responsabilité élargie des producteurs (REP) pour améliorer la compétitivité des entreprises soumises à ce régime ; elles visent à suspendre, jusqu'au 1er janvier 2035, l'obligation récente de nommer un mandataire pour les producteurs établis dans l'Union européenne qui mettent à disposition leurs produits (textiles, chaussures, équipements électriques et électroniques, plastiques à usage unique, emballages et batteries) dans un autre État membre ;
+
+Si cette suspension ne semble pas porter atteinte au principe de subsidiarité, elle soulève des difficultés s'agissant du principe de proportionnalité ;
+
+En effet, en cherchant à réduire certains coûts pour les entreprises, la proposition de la Commission suspend, jusqu'au 1er janvier 2035 ou jusqu'à l'adoption d'autres mesures de contrôle, et sans proposer d'alternative, le seul système efficace pour lutter contre la fraude en cas de non-conformité des producteurs concernés ;
+
+Sans le mécanisme de mandataire, les États membres perdent une partie de leur capacité à garantir, faire respecter et contrôler l'application des exigences de la REP pour les produits mis sur leur marché par des producteurs établis dans d'autres États membres, et notamment leur capacité de recouvrement direct des impayés dus par un producteur établi dans un autre État membre ;
+
+Les propositions d'actes législatifs présentées par la Commission européenne ne proposent pas de solution alternative pour atteindre le même objectif, soulevant des enjeux de compétitivité et d'équité ;
+
+Dès lors, en l'état, les propositions de règlement COM(2025) 982 final et de directive COM(2025) 983 final précitées apparaissent contraires au principe de proportionnalité ;
+
+Concernant la proposition de directive du Parlement européen et du Conseil modifiant la directive 2007/2/CE en ce qui concerne la simplification de certaines exigences pour l'établissement de l'infrastructure d'information géographique dans l'Union - COM(2025) 985 final :
+
+Cette proposition de directive vise à moderniser et à simplifier la directive 2007/2/CE du Parlement européen et du Conseil du 14 mars 2007 établissant une infrastructure d'information géographique dans la Communauté européenne, ou directive « INSPIRE », en alignant ses exigences techniques sur la législation horizontale de l'Union en matière d'open data et en supprimant ses obligations redondantes et obsolètes ;
+
+Si le processus de simplification doit être encouragé, il apparaît nécessaire de maintenir un niveau minimal d'obligations spécifiques pour préserver l'efficacité du dispositif ;
+
+En effet, la suppression totale des exigences en matière d'interopérabilité, de services en réseau et de partage des données entre administrations risque d'accroître les incohérences entre jeux de données et de limiter l'accès à ces données ;
+
+En l'état, la proposition de directive COM(2025) 985 final précitée est susceptible de porter atteinte au principe de proportionnalité ;
+
+Concernant la proposition de directive du Parlement européen et du Conseil modifiant les directives 2008/98/CE, 2010/75/UE, (UE) 2015/2193 et (UE) 2024/1785 du Parlement européen et du Conseil en ce qui concerne la simplification de certaines exigences et la réduction de la charge administrative - COM(2025) 986 final :
+
+Cette proposition de directive prévoit la simplification et la suppression de plusieurs obligations, comme la suppression de la base de données d'informations sur les substances préoccupantes dans les articles en tant que tels ou dans les objets complexes ou produits (SCIP), peu consultée et faisant doublon avec d'autres obligations d'informations, ou encore l'obligation d'élaborer des plans de transformation indicatifs dans les systèmes de management environnemental (SME) ;
+
+Si ces mesures de simplification méritent d'être encouragées, elles ne doivent pas conduire à une déréglementation ni à la suppression de mesures essentielles pour assurer la protection de l'environnement et de la santé ;
+
+Elles ne doivent pas non plus conduire à remettre en cause les moyens à la disposition des États membres pour exercer leurs prérogatives, faute de quoi elles contreviendraient au principe de proportionnalité ;
+
+Or la proposition de la Commission européenne envisage d'abroger l'obligation d'inclure dans ce SME un inventaire des produits chimiques ; une telle suppression complète mettrait en difficulté les exploitants et les autorités de contrôle pour identifier et assurer le suivi de ces substances à enjeux ;
+
+Un maintien de cette obligation a minima apparaît indispensable pour les substances présentant le plus d'enjeux pour le voisinage et l'environnement (comme les substances per- et polyfluoroalkylées - PFAS, …), d'autres réglementations comme le règlement (CE) n° 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 précité, ou règlement « REACH », ne prévoyant qu'un enregistrement, de façon agrégée au niveau européen, des produits chimiques mis sur le marché et utilisés et ne couvrant ni l'inventaire des substances sur un site donné ni les substances chimiques émises ou fabriquées lors des phases intermédiaires de production ;
+
+Ainsi, en l'état, l'abrogation de cette obligation prévue dans la proposition de directive COM(2025) 986 final précitée n'apparaît pas conforme au principe de proportionnalité ;
+
+En conséquence, pour ces motifs, le Sénat considère que les propositions d'actes législatifs COM(2025) 982 final, COM(2025) 983 final, COM(2025) 984 final, COM(2025) 985 final et COM(2025) 986 final précitées ne sont pas conformes à l'article 5 du TUE et au protocole n° 2 sur l'application des principes de subsidiarité et de proportionnalité annexé au TUE et au TFUE.
+
+Travaux préparatoires :
+
+Sénat. - Proposition de résolution européenne n° 478 (2025-2026). - Est devenue résolution du Sénat le 30 mars 2026 - T.A. n° 74 (2025-2026).
