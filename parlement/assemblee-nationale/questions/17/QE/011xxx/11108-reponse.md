@@ -1,0 +1,9 @@
+# Réponse à la question n° 11108
+
+- Question : [11108](11108.md) — Question n° 11108 — Part des commerces classés comme fragiles dans le Pas-de-Calais
+
+## Réponse
+
+*JO du 2026-03-31, page 2755*
+
+Concernant les informations relatives à la part des commerces « fragiles » dans la commune de Lens et dans l'ensemble de la 3ème circonscription du Pas-de-Calais, en particulier ceux ayant fait l'objet d'une procédure collective au cours des trois dernières années disponibles, les données utilisables proviennent exclusivement de sources publiques, Institut national de la statistiques et des études économiques (INSEE) et Bulletin officiel des annonces civiles et commerciales (BODACC) librement accessibles en ligne. Selon les données de l'INSEE (base Sirene), on dénombre 1 872 entreprises actives à Lens en 2023, tous secteurs confondus (commerce de détail, restauration, services à la personne, etc.). S'agissant des entreprises ayant fait l'objet d'une procédure collective, les publications du BODACC recensent 50 ouvertures de procédures en 2022, 42 en 2023 et 47 en 2024 pour les entreprises domiciliées dans le périmètre concerné. Rapportées au nombre d'entreprises actives, ces procédures représentent un ordre de grandeur compris entre environ 2 % et 3 % du tissu économique selon les années. Les données disponibles ne permettent pas d'estimer de façon fiable le nombre d'emplois concernés, mais l'ordre de grandeur ne devrait pas être significativement différent de celui du nombre d'entreprises. Par ailleurs, le Gouvernement rappelle qu'en cas de difficultés les entreprises ont la possibilité de contacter les conseillers départementaux aux entreprises en difficultés (CDED) dont les mails et numéros de téléphones sont librement accessibles sur le site impot.gouv.fr. Ces professionnels ont pour mission d'accompagner les TPE/PME dans leurs difficultés.
