@@ -1,0 +1,9 @@
+# Réponse à la question n° 9658
+
+- Question : [9658](9658.md) — Question n° 9658 — Réforme des retraites : décrets en attente
+
+## Réponse
+
+*JO du 2026-03-31, page 2786*
+
+Dans le cadre de la fermeture du régime spécial de retraite de la Caisse de retraite et de prévoyance des clercs et employés de notaires (CRPCEN), l'article 15 de la loi n° 2023-1250 du 26 décembre 2023 de financement de la sécurité sociale pour 2024 (LFSS pour 2024) a pour objet de définir les conditions de maintien de l'affiliation au régime en cas de suspension ou de rupture du contrat de travail. La loi a déjà prévu plusieurs situations de maintien d'affiliation au régime de la CRPCEN. En cas de rupture du contrat de travail après le 1er septembre 2023, l'affiliation est maintenue, pour une durée d'un mois à compter de la rupture du contrat en cas de démission ou de rupture conventionnelle du contrat ou pour une durée d'un an en cas de licenciement. L'article 15 de la LFSS pour 2024 donne également la possibilité aux salariés de bénéficier d'un maintien du régime spécial de retraite de la CRPCEN pendant les périodes de congés intervenant après le 1er septembre 2023, dont la liste est fixée par décret. Il est à noter que les congés qui donnent lieu au versement de cotisations ou à la constitution de droit à pension dans le régime spécial permettent le maintien du régime spécial de retraite de la CRPCEN. Le décret n° 2025-799 du 11 août 2025 relatif au régime spécial de retraite des clercs et employés de notaires, pris pour l'application de l'article 15 de la LFSS pour 2024, a ainsi permis de définir les congés ne donnant pas lieu à cotisation ni à constitution de droits à pension et permettant un maintien de l'affiliation à la CRPCEN. Il s'agit des congés pris dans le cadre d'un projet de vie ou d'une situation nécessitant un accompagnement : le congé de présence parentale, le congé de solidarité familiale, le congé de proche aidant ainsi que le congé sabbatique.
