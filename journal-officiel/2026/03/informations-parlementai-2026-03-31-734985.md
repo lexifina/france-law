@@ -1,0 +1,26 @@
+# Office parlementaire d'évaluation des choix scientifiques et technologiques
+
+- Nature : Informations Parlementaires
+- Publication : 2026-03-31
+- JO n° : 0077
+- NOR : INPX2608886X
+- Origine : JORF n°0077 du 31 mars 2026
+- Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053734985
+
+## Article
+
+Offices et délégations
+
+Réunion
+
+Jeudi 2 avril 2026
+
+Office parlementaire d'évaluation des choix scientifiques et technologiques
+
+A 9 h 30, Assemblée nationale (Salle 7040 - 103, rue de l'Université, 2e sous-sol) :
+
+- audition publique sur « Où va l'IA : quels développements pour quels usages ? » ;
+
+- désignation de membres du conseil d'administration de l'Agence nationale pour la gestion des déchets radioactifs (ANDRA) et de membres de la Commission nationale d'évaluation des recherches et études relatives à la gestion des matières et des déchets radioactifs (CNE2) ;
+
+- questions diverses.
