@@ -92,6 +92,8 @@ En tant que bénéficiaire de l'opération d'économies d'énergie, j'atteste su
 
 -qu'aucune aide à l'investissement de l'Agence de l'environnement et de la maîtrise de l'énergie (ADEME) n'a été reçue ou ne sera sollicitée pour cette opération ou qu'une aide à l'investissement de l'ADEME a été reçue ou sollicitée et que le calcul et la décision d'attribution de cette aide prennent en compte la délivrance de certificats d'économies d'énergie.
 
+-que les équipements installés et mis en service dans le cadre de la ou des opérations d'économies d'énergie décrites ci-dessus seront maintenus en fonctionnement, selon les conditions spécifiques à ces équipements et au site concerné, au plus tôt jusqu'à l'expiration d'un délai de six ans à compter de l'achèvement de la ou des opérations ou jusqu'à la fin de la durée de vie conventionnelle mentionnée par la ou les fiches d'opérations standardisées à compter de l'achèvement de l'opération si cette dernière échéance est plus proche, sauf dérogation prévue par lesdites fiches.
+
 - qu'aucune prime de l'Agence nationale de l'habitat (ANAH) n'a été reçue ou ne sera sollicitée pour cette opération ou qu'une prime de l'ANAH a été reçue ou sollicitée et que le calcul et la décision d'octroi de la prime prennent en compte la délivrance de certificats d'économies d'énergie.
 
 Fait à.
@@ -150,7 +152,7 @@ de l'opération d'économies d'énergie, j'atteste sur l'honneur :
 
 -l'exactitude des informations que j'ai communiquées ci-dessus sur les caractéristiques techniques relatives à l'opération d'économies d'énergie et, le cas échéant, sur les qualifications professionnelles requises pour mettre en œuvre cette opération ;
 
--que la ou les opérations d'économies d'énergie décrites ci-dessus ont été intégralement réalisées et que j'ai respecté les conditions de leur réalisation, conformément à ou aux fiches d'opérations standardisées d'économies d'énergie concernées. Je suis informé que je suis susceptible d'être contacté par les services du ministère chargé de l'énergie (ou tout organisme désigné par le ministère chargé de l'énergie) dans le cadre d'un contrôle concernant la nature de l'opération et la réalisation effective de celle-ci.
+-que la ou les opérations d'économies d'énergie décrites ci-dessus ont été intégralement réalisées, que j'ai respecté les conditions de leur réalisation, conformément à ou aux fiches d'opérations standardisées d'économies d'énergie concernées et que les équipements installés, le cas échéant, dans le cadre de la ou des opérations ont été mis en service. Je suis informé que je suis susceptible d'être contacté par les services du ministère chargé de l'énergie (ou tout organisme désigné par le ministère chargé de l'énergie) dans le cadre d'un contrôle concernant la nature de l'opération et la réalisation effective de celle-ci.
 
 Fait à.
 
@@ -822,6 +824,4 @@ Fait à.
 
 NOTA :
 
-Conformément à l'article 5 de l'arrêté du 15 décembre 2025 (NOR : ECOR2532411A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er janvier 2026 et s'appliquent aux opérations engagées à compter de cette date.
-
-Conformément à l'article 3 de l'arrêté du 22 décembre 2025 (NOR : ECOR2534201A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er janvier 2026 et s'appliquent aux opérations engagées à compter du 1er janvier 2026. Toutefois, les attestations sur l'honneur conformes à la réglementation applicable avant le 1er janvier 2026 peuvent être utilisées pour les opérations engagées avant le 1er juillet 2026.
+Conformément au deuxième alinéa de l'article 5 de l'arrêté du 21 décembre 2025 (NOR : ECOR2534164A), ces dispositions, dans leur rédaction issue du IV de l'article 1er de l'arrêté précité, entrent en vigueur à compter du 1er avril 2026 et s'appliquent aux opérations engagées à compter de cette date.
