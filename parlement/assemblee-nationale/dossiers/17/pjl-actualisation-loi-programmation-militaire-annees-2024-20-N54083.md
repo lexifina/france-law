@@ -1,0 +1,96 @@
+# Projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense
+
+- Procédure : Projet de loi ordinaire
+- Législature : 17
+- Identifiant : DLR5L17N54083
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/17/dossiers/PJL_actualisation_loi_programmation_militaire_annees_2024_2030_diverses_dispositions_defense
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl25-635.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2026-04-08 : 1er dépôt d'une initiative. (PRJLANR5L17B2630)
+  - 2026-04-08 : Etude d'impact (ETDIANR5L17B2630)
+  - 2026-04-08 : Avis du Conseil d'Etat (AVCEANR5L17B2630)
+  - 2026-04-08 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2026-04-08 : Renvoi en commission au fond
+      - 2026-04-08 : Nomination de rapporteur
+      - 2026-04-08 : Réunion de commission
+      - 2026-04-08 : Réunion de commission
+      - 2026-04-08 : Réunion de commission
+      - 2026-04-09 : Réunion de commission
+      - 2026-04-09 : Réunion de commission
+      - 2026-04-09 : Réunion de commission
+      - 2026-04-09 : Réunion de commission
+      - 2026-04-13 : Réunion de commission
+      - 2026-04-13 : Réunion de commission
+      - 2026-04-13 : Réunion de commission
+      - 2026-04-14 : Réunion de commission
+      - 2026-04-15 : Réunion de commission
+      - 2026-04-15 : Réunion de commission
+      - 2026-04-15 : Réunion de commission
+      - 2026-04-15 : Réunion de commission
+      - 2026-04-21 : Réunion de commission
+      - 2026-04-21 : Réunion de commission
+      - 2026-04-21 : Réunion de commission
+      - 2026-04-22 : Réunion de commission
+      - 2026-04-22 : Réunion de commission
+      - 2026-05-04 : Réunion de commission
+      - 2026-04-23 : Dépôt de rapport (RAPPANR5L17B2695, PRJLANR5L17BTC2695)
+    - Travaux d'une commission saisie pour avis
+      - 2026-04-08 : Saisine pour avis d'une commission
+      - 2026-04-09 : Nomination de rapporteur
+      - 2026-04-01 : Réunion de commission
+    - Travaux d'une commission saisie pour avis
+      - 2026-04-09 : Saisine pour avis d'une commission
+      - 2026-04-01 : Nomination de rapporteur
+      - 2026-04-01 : Réunion de commission
+      - 2026-04-15 : Réunion de commission
+    - Travaux d'une commission saisie pour avis
+      - 2026-04-09 : Saisine pour avis d'une commission
+      - 2026-04-07 : Nomination de rapporteur
+      - 2026-04-15 : Réunion de commission
+  - Discussion en séance publique
+    - 2026-05-04 : Discussion en séance publique
+    - 2026-05-04 : Discussion en séance publique
+    - 2026-05-05 : Discussion en séance publique
+    - 2026-05-05 : Discussion en séance publique
+    - 2026-05-06 : Discussion en séance publique
+    - 2026-05-06 : Discussion en séance publique
+    - 2026-05-07 : Discussion en séance publique
+    - 2026-05-07 : Discussion en séance publique
+    - 2026-05-07 : Discussion en séance publique
+    - 2026-05-18 : Discussion en séance publique
+    - 2026-05-18 : Discussion en séance publique
+    - 2026-05-19 : Discussion en séance publique
+    - 2026-05-19 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2026-05-19 : Dépôt d'une initiative en navette (PRJLSNR5S479B0635)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2026-05-19 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2026-05-27 : Dépôt de rapport (RAPPSNR5S479B0666, PRJLSNR5S479BTC0667)
+  - Discussion en séance publique
+    - 2026-06-09 : Discussion en séance publique
+    - 2026-06-09 : Décision
+- Commission Mixte Paritaire
+  - 2026-06-11 : Dépôt d'un projet de loi (PRJLANR5L17B2920)
+  - 2026-06-11 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2026-06-23 : Nomination de rapporteur
+    - 2026-06-23 : Dépôt du rapport d'une CMP (RAPPANR5L17B2976, PRJLANR5L17BTC2976)
+    - 2026-06-23 : Dépôt du rapport d'une CMP (RAPPSNR5S479B0777, PRJLSNR5S479BTC0778)
+  - Discussion en séance publique
+    - 2026-06-30 : Décision
+  - Discussion en séance publique
+    - 2026-07-01 : Discussion en séance publique
+    - 2026-07-01 : Décision
+  - 2026-06-24 : Décision de la CMP
+- Conseil constitutionnel
+  - 2026-07-06 : Saisine du conseil constitutionnel
+  - 2026-08-06 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2026-08-16 : Promulgation d'une loi
