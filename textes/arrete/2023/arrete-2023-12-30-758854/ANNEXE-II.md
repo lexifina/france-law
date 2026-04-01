@@ -32,7 +32,7 @@ DNPJ |
 
 DNPJ |
 
-Chef état-major, préfigurateur chef de l'unité nationale de lutte contre la criminalité organisée (UNALCO) |
+Chef de l'unité nationale de lutte contre la criminalité organisée (UNALCO) |
 
 NANTERRE |
 
@@ -55,12 +55,6 @@ DNSP |
 DNSP |
 
 Adjoint au sous-directeur de l'ordre public et des mobilités |
-
-PARIS |
-
-1 |
-
-Adjoint au chef de l'état-major |
 
 PARIS |
 
@@ -139,6 +133,16 @@ SDLP |
 SDLP |
 
 Sous-directeur de la sûreté |
+
+PARIS |
+
+1 |
+
+Académie de police |
+
+Académie de police |
+
+Directeur de l'académie de police |
 
 PARIS |
 
@@ -388,4 +392,4 @@ Les postes de la DGSI éligibles à l'indemnité compensatrice de logement font 
 
 NOTA :
 
-Conformément à l’article 5 de l’arrêté du 16 juin 2025 (NOR : INTC2517161A), ces dispositions entrent en vigueur le 1er juillet 2025.
+Conformément à l’article 6 de l’arrêté du 27 mars 2026 (NOR : INTC2608827A), ces dispositions entrent en vigueur le 1er avril 2026.
