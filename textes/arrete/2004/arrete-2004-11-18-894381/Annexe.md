@@ -410,7 +410,7 @@ Dispositifs électriques de sécurité :
 
 |
 
-Dispositifs de demande de secours
+Dispositifs de moyens d'alerte et de communication avec le service d'intervention
 
 |
 
@@ -525,3 +525,7 @@ Limiteur de pression
 |
 
 Nota. - Pour les lignes non cochées, la fréquence est laissée à l'appréciation des contractants.
+
+NOTA :
+
+Conformément à la première phrase de l'article 3 de l'arrêté du 4 mars 2026 (NOR : VLOL2524719A), ces dispositions, dans leur rédaction issue de l'article 1er de l'arrêté précité, entrent en vigueur au 1er avril 2026.
