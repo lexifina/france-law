@@ -4,19 +4,13 @@ ANNEXE
 
 RÈGLEMENTS EUROPÉENS APPLICABLES
 
-A la date de publication du présent arrêté, les règlements européens mentionnés à l'article premier sont les suivants :
+A la date de publication du présent arrêté, les règlements européens mentionnés à l'article 1er sont les suivants :
 
-- règlement (CE) n° 1032/2006 de la Commission du 6 juillet 2006 modifié établissant les exigences applicables aux systèmes automatiques d'échange de données de vol aux fins de notification, de coordination et de transfert de vols entre unités de contrôle de circulation aérienne ;
+- règlement d'exécution (UE) 2017/373 de la Commission du 1 er mars 2017 établissant des exigences communes relatives aux prestataires de services de gestion du trafic aérien et de services de navigation aérienne ainsi que des autres fonctions de réseau de la gestion du trafic aérien, et à leur supervision ;
 
-- règlement (CE) n° 633/2007 de la Commission du 7 juin 2007 modifié établissant les exigences relatives à l'application d'un protocole de transfert de messages de vol utilisé aux fins de notification, de la coordination et du transfert des vols entre les unités de contrôle de la circulation aérienne ;
+- règlement délégué (UE) 2023/1768 de la Commission du 14 juillet 2023 établissant des règles détaillées relatives à la certification et à la déclaration des systèmes de gestion du trafic aérien et de services de navigation aérienne ainsi que des composants de gestion du trafic aérien et de services de navigation aérienne ;
 
-- règlement (CE) n° 29/2009 de la Commission du 16 janvier 2009 modifié définissant les exigences relatives aux services de liaison de données pour le ciel unique européen ;
-
-- règlement (CE) n° 262/2009 de la Commission du 30 mars 2009 modifié définissant les exigences relatives à l'attribution et l'utilisation coordonnées des codes d'interrogateur mode S pour le ciel unique européen ;
-
-- règlement d'exécution (UE) n° 1207/2011 de la Commission du 22 novembre 2011 modifié fixant les exigences relatives à la performance et à l'interopérabilité des activités de surveillance pour le ciel unique européen ;
-
-- règlement d'exécution (UE) n° 1079/2012 de la Commission du 16 novembre 2012 modifié établissant des spécifications relatives à l'espacement des canaux de communication vocale pour le ciel unique européen.
+- règlement d'exécution (UE) 2023/1770 de la Commission du 12 septembre 2023 établissant des dispositions relatives aux équipements d'aéronef nécessaires pour l'utilisation de l'espace aérien du ciel unique européen, ainsi que des règles d'exploitation relatives à l'utilisation de l'espace aérien du ciel unique européen.
 
 Volume III. - Partie 1
 
@@ -67,3 +61,7 @@ Les normes et les pratiques recommandées des chapitres 2 et 3 concernant le rad
 Les normes de la section 5.2 du chapitre 5 concernant le Squitter long mode S sont applicables.
 
 Les normes et les pratiques recommandées du chapitre 6 concernant les systèmes de multilatération sont applicables.
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 19 janvier 2026 (NOR : TRAA2601086A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le premier jour du troisième mois suivant celui de sa publication au Journal officiel de la République française, soit le 1er avril 2026.
