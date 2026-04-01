@@ -294,7 +294,7 @@ Ministre chargé de l'aviation civile |
 
 Décisions relatives à l'agrément des centres aéromédicaux et des examinateurs aéromédicaux. |
 
-Code de l'aviation civile Article R. 410-12. |
+Code de l'aviation civileArticle R. 410-12. |
 
 Ministre chargé de l'aviation civile |
 
@@ -308,9 +308,9 @@ Conseil médical de l'aviation civile |
 
 34 |
 
-Autorisation d'un régime répartissant le temps de vol et d'arrêt du personnel navigant sur une autre période de temps que celles prévues au code de l'aviation civile . |
+Autorisation d'un régime répartissant le temps de vol et d'arrêt du personnel navigant sur une autre période de temps que celles prévues au code de l'aviation civile. |
 
-Code de l'aviation civile Article D. 422-6. |
+Code de l'aviation civileArticle D. 422-6. |
 
 Ministre chargé de l'aviation civile |
 
@@ -346,7 +346,7 @@ Ministre chargé de l'aviation civile |
 
 Sanction pécuniaire prononcée à l'encontre de l'exploitant de l'aérodrome. |
 
-Code de l'aviation civile Article R. 224-3-6. |
+Code de l'aviation civileArticle R. 224-3-6. |
 
 Ministre chargé de l'aviation civile |
 
@@ -354,7 +354,7 @@ Ministre chargé de l'aviation civile |
 
 Délivrance de la licence de maintenance d'aéronefs. |
 
-Code de l'aviation civile Article R. 133-17. |
+Code de l'aviation civileArticle R. 133-17. |
 
 Ministre chargé de l'aviation civile |
 
@@ -362,7 +362,7 @@ Ministre chargé de l'aviation civile |
 
 Délivrance de la qualification permettant l'exercice des fonctions assurant le service d'information de vol et d'alerte. |
 
-Code de l'aviation civile ,
+Code de l'aviation civile,
 
 Article R. 135-8.
 
@@ -374,7 +374,7 @@ Ministre chargé de l'aviation civile |
 
 Agrément de sûreté des transporteurs aériens. |
 
-Code de l'aviation civile Article R. 213-2-1 (II). |
+Code de l'aviation civileArticle R. 213-2-1 (II). |
 
 Ministre chargé de l'aviation civile |
 
@@ -382,7 +382,7 @@ Ministre chargé de l'aviation civile |
 
 Agrément de sûreté des agents habilités. |
 
-Code de l'aviation civile Article R. 213-2-1 (II). |
+Code de l'aviation civileArticle R. 213-2-1 (II). |
 
 Ministre chargé de l'aviation civile |
 
@@ -390,7 +390,7 @@ Ministre chargé de l'aviation civile |
 
 Agrément de sûreté des chargeurs connus. |
 
-Code de l'aviation civile Article R. 213-2-1 (II). |
+Code de l'aviation civileArticle R. 213-2-1 (II). |
 
 Ministre chargé de l'aviation civile |
 
@@ -398,7 +398,7 @@ Ministre chargé de l'aviation civile |
 
 Agrément de sûreté des fournisseurs habilités. |
 
-Code de l'aviation civile Article R. 213-2-1 (II). |
+Code de l'aviation civileArticle R. 213-2-1 (II). |
 
 Ministre chargé de l'aviation civile |
 
@@ -422,7 +422,7 @@ Ministre chargé de l'aviation civile |
 
 Agrément des organismes participant au processus de certification ou délivrant la certification à ces mêmes personnes et suspension ou retrait de cet agrément. |
 
-Code de l'aviation civile Article R. 213-4-1. |
+Code de l'aviation civileArticle R. 213-4-1. |
 
 Ministre chargé de l'aviation civile |
 
@@ -430,7 +430,7 @@ Ministre chargé de l'aviation civile |
 
 Approbation des cours portant sur la sûreté de l'aviation civile et retrait de cette approbation. |
 
-Code de l'aviation civile Article R. 213-4-4. |
+Code de l'aviation civileArticle R. 213-4-4. |
 
 Ministre chargé de l'aviation civile |
 
@@ -454,7 +454,7 @@ Ministre chargé de l'aviation civile |
 
 Opposition aux cessions, apports ou à la création de sûretés. |
 
-Annexe I au décret n° 2005-828 du 20 juillet 2005 Article 53. |
+Annexe I au décret n° 2005-828 du 20 juillet 2005Article 53. |
 
 Ministre chargé de l'aviation civile |
 
@@ -478,7 +478,7 @@ Ministre chargé de l'aviation civile |
 
 Concessions accordées par l'Etat pour la construction, l'entretien et l'exploitation des aérodromes qui lui appartiennent, lorsque le contrat de concession est conforme au cahier des charges type. |
 
-Code de l'aviation civile Article R. 223-2. |
+Code de l'aviation civileArticle R. 223-2. |
 
 Arrêté interministériel |
 
@@ -568,7 +568,9 @@ Ministre chargé de l'aviation civile |
 
 61 |
 
-Amende administrative infligée aux passagers aériens perturbateurs mentionnée à l'article L. 6432-4 du code des transports |
+Amende administrative infligée aux passagers aériens perturbateurs mentionnée à l'article L. 6432-4 du code des transports
+
+|
 
 Code des transports
 
@@ -578,7 +580,9 @@ Ministre chargé de l'aviation civile |
 
 62 |
 
-Interdiction d'embarquement prononcée à l'encontre des passagers aériens perturbateurs mentionnée à l'article L. 6432-9 du code des transports |
+Interdiction d'embarquement prononcée à l'encontre des passagers aériens perturbateurs mentionnée à l'article L. 6432-9 du code des transports
+
+|
 
 Code des transports
 
@@ -588,7 +592,9 @@ Ministre chargé de l'aviation civile |
 
 63 |
 
-Amende administrative infligée aux passagers aériens perturbateurs mentionnée à l'article L. 6432-12 du code des transports |
+Amende administrative infligée aux passagers aériens perturbateurs mentionnée à l'article L. 6432-12 du code des transports
+
+|
 
 Code des transports
 
@@ -810,9 +816,11 @@ Ministre chargé des transports |
 
 19 |
 
-Agrément de médecins et de psychologues pour les conducteurs et pour les personnels habilités aux tâches essentielles de sécurité ferroviaire autres que la conduite de trains. |
+Agrément de médecins et de psychologues pour la vérification de l'aptitude physique et psychologique des conducteurs de trains |
 
-Décret n° 2017-527 du 12 avril 2017 Articles 3 et 4. |
+Décret n° 2010-708 du 29 juin 2010
+
+Article 4 |
 
 Ministre chargé des transports |
 
@@ -828,7 +836,7 @@ Ministre chargé de la mer |
 
 Délivrance des certificats d'exemption pour les navires dont la délivrance des titres de sécurité, de sûreté et des certificats de prévention de la pollution ne relève pas d'une société de classification habilitée, si sa durée de validité est supérieure ou égale à six mois et si les plans et documents ont été soumis à la commission centrale de sécurité. |
 
-Décret n° 84-810 du 30 août 1984 Article 3-2 (II). |
+Décret n° 84-810 du 30 août 1984Article 3-2 (II). |
 
 Ministre chargé de la mer |
 
@@ -836,7 +844,7 @@ Ministre chargé de la mer |
 
 Délivrance du titre provisoire se rapportant au document de conformité à la gestion de la sécurité pour les compagnies détenant au moins un navire immatriculé au registre international français. |
 
-Décret n° 84-810 du 30 août 1984 Article 10 (II). |
+Décret n° 84-810 du 30 août 1984Article 10 (II). |
 
 Ministre chargé de la mer |
 
@@ -844,7 +852,7 @@ Ministre chargé de la mer |
 
 Approbation de tout document nécessaire aux navires devant être approuvé en application des conventions internationales ou des prescriptions du décret n° 84-810 ou arrêtés pris pour son application pour les navires mentionnés aux 1 du I et 1 du II de l'article 14 du décret. |
 
-Décret n° 84-810 du 30 août 1984 Article 14. |
+Décret n° 84-810 du 30 août 1984Article 14. |
 
 Ministre chargé de la mer |
 
@@ -876,7 +884,7 @@ Ministre chargé de la mer |
 
 Habilitation, retrait et suspension des organismes chargés de délivrer les approbations de structures. |
 
-Décret n° 84-810 du 30 août 1984 Article 42-2 (I et IV). |
+Décret n° 84-810 du 30 août 1984Article 42-2 (I et IV). |
 
 Ministre chargé de la mer |
 
@@ -890,7 +898,7 @@ Ministre chargé de la mer |
 
 29 |
 
-Refus d'accès aux ports et aux mouillages sur l'ensemble du territoire national à tout navire ayant fait l'objet d'une décision d'immobilisation ou d'interdiction d'exploitation dans les cas prévus au I de l'article 41-9 du décret n° 84-810 du 30 août 1984 . |
+Refus d'accès aux ports et aux mouillages sur l'ensemble du territoire national à tout navire ayant fait l'objet d'une décision d'immobilisation ou d'interdiction d'exploitation dans les cas prévus au I de l'article 41-9 du décret n° 84-810 du 30 août 1984. |
 
 Décret n° 84-810 du 30 août 1984
 
@@ -934,9 +942,9 @@ Ministre chargé de la mer |
 
 33 |
 
-Mise en œuvre du rapatriement des gens de mer et du recouvrement des frais avancés auprès de l'armateur et de l'employeur dans les conditions du II de l'article L. 5542-33-1 du code des transports . |
+Mise en œuvre du rapatriement des gens de mer et du recouvrement des frais avancés auprès de l'armateur et de l'employeur dans les conditions du II de l'article L. 5542-33-1 du code des transports. |
 
-Décret n° 2017-441 du 30 mars 2017 Article 2. |
+Décret n° 2017-441 du 30 mars 2017Article 2. |
 
 Ministre chargé de la mer |
 
@@ -998,7 +1006,7 @@ Ministre chargé de la mer |
 
 Délivrance du permis d'armement pour les navires immatriculés au registre international français. |
 
-Code des transports Article R. 5611-1 (I). |
+Code des transportsArticle R. 5611-1 (I). |
 
 Ministre chargé de la marine marchande |
 
@@ -1006,7 +1014,7 @@ Ministre chargé de la marine marchande |
 
 Autorisation pour transport déterminé (ATD) pour la liaison entre ports français (hors Antilles) pour les navires battant pavillon tiers. |
 
-Code des douanes Article 257 (deuxième alinéa) et article 258 (troisième alinéa). |
+Code des douanesArticle 257 (deuxième alinéa) et article 258 (troisième alinéa). |
 
 Ministre chargé de la marine marchande |
 
@@ -1024,9 +1032,9 @@ Ministre chargé de la marine marchande |
 
 42 |
 
-Délivrance des certificats d'assurance ou autre garantie financière des navires immatriculés au registre international français prévus par l'article L. 5123-2 du code des transports , à l'exception de ceux de ces certificats dont la délivrance a été déléguée en application de l'article L. 5123-3 du code des transports . |
+Délivrance des certificats d'assurance ou autre garantie financière des navires immatriculés au registre international français prévus par l'article L. 5123-2 du code des transports, à l'exception de ceux de ces certificats dont la délivrance a été déléguée en application de l'article L. 5123-3 du code des transports. |
 
-Décret n° 2006-142 du 10 février 2006 Article 2 (quatrième alinéa). |
+Décret n° 2006-142 du 10 février 2006Article 2 (quatrième alinéa). |
 
 Ministre chargé de la marine marchande |
 
@@ -1034,7 +1042,7 @@ Ministre chargé de la marine marchande |
 
 Agrément des organismes ayant délégation pour délivrer au nom de l'Etat français les certificats d'assurance ou autre garantie financière des navires. |
 
-Code des transports Article R. 5123-6. |
+Code des transportsArticle R. 5123-6. |
 
 Ministre chargé de la marine marchande |
 
@@ -1090,7 +1098,9 @@ Ministre chargé des transports |
 
 Autorisation du ministre des transports aux chefs d'entreprise de transport public par route pour déroger dans certains cas aux conditions d'exploitation du transport (création de comité hygiène et sécurité). |
 
-Décret n° 81-208 du 3 mars 1981 |
+Décret n° 81-208 du 3 mars 1981
+
+|
 
 Ministre chargé des transports |
 
@@ -1380,7 +1390,7 @@ Prévention des risques |
 
 Interdiction ou restriction de mise sur le marché, de transport ou d'utilisation d'équipements dangereux, ainsi que leur retrait. |
 
-Code de l'environnement Article L. 557-54. |
+Code de l'environnementArticle L. 557-54. |
 
 Ministre chargé des transports terrestres de matières dangereuses ou ministre chargé de la sécurité industrielle |
 
@@ -1388,7 +1398,7 @@ Ministre chargé des transports terrestres de matières dangereuses ou ministre 
 
 Prescription de conditions particulières de construction, de vérification, d'entretien ou d'utilisation d'équipements dangereux. |
 
-Code de l'environnement Article L. 557-56. |
+Code de l'environnementArticle L. 557-56. |
 
 Ministre chargé des transports de matières dangereuses ou ministre chargé de la sécurité industrielle |
 
@@ -1396,7 +1406,7 @@ Ministre chargé des transports de matières dangereuses ou ministre chargé de 
 
 Habilitation des organismes de contrôle ainsi que leur suspension ou retrait. |
 
-Code de l'environnement Article L. 557-31. |
+Code de l'environnementArticle L. 557-31. |
 
 Ministre chargé des transports de matières dangereuses ou ministre chargé de la sécurité industrielle |
 
@@ -1404,7 +1414,7 @@ Ministre chargé des transports de matières dangereuses ou ministre chargé de 
 
 Agrément des organismes effectuant certaines tâches liées à la surveillance des barrages et des digues. |
 
-Code de l'environnement Article R. 214-129. |
+Code de l'environnementArticle R. 214-129. |
 
 Ministres chargé de l'environnement et de l'énergie |
 
@@ -1436,7 +1446,7 @@ Ministres chargés de l'environnement, de l'industrie et des collectivités terr
 
 Approbation des systèmes individuels d'enlèvement et de traitement des déchets d'équipements électriques et électroniques ménagers mis en place par les producteurs. |
 
-Code de l'environnement Article R. 543-191. |
+Code de l'environnementArticle R. 543-191. |
 
 Ministres chargés de l'environnement, de l'industrie et des collectivités locales |
 
@@ -1468,7 +1478,7 @@ Ministres chargés de l'environnement, de l'industrie et des collectivités terr
 
 Agrément, suspension et retrait d'agrément de l'organisme coordonnateur chargé de la prise en charge des coûts liés à la collecte séparée des déchets ménagers issus de produits chimiques pouvant présenter un risque significatif pour la santé et l'environnement supportés par les collectivités territoriales et leurs groupements. |
 
-Code de l'environnement Article R. 543-235. |
+Code de l'environnementArticle R. 543-235. |
 
 Ministres chargés de l'environnement, de l'industrie et des collectivités territoriales |
 
@@ -1504,7 +1514,7 @@ Ministres chargés de l'environnement et de la défense |
 
 Agrément d'organismes chargés de délivrer les certificats au personnel. |
 
-Code de l'environnement Article R. 521-59. |
+Code de l'environnementArticle R. 521-59. |
 
 Ministres chargés de l'environnement et de l'industrie |
 
@@ -1512,7 +1522,7 @@ Ministres chargés de l'environnement et de l'industrie |
 
 Agrément d'organismes chargés de délivrer les certificats aux entreprises. |
 
-Code de l'environnement Article R. 521-60. |
+Code de l'environnementArticle R. 521-60. |
 
 Ministres chargés de l'environnement et de l'industrie |
 
@@ -1528,7 +1538,7 @@ Ministre chargé de l'environnement |
 
 Autorisation de mise à disposition sur le marché, de stockage en vue de mise à disposition sur le marché, d'installation, de mise en service, d'utilisation, d'importation ou de transfert de certains produits et équipements. |
 
-Code de l'environnement Article R. 557-1-3. |
+Code de l'environnementArticle R. 557-1-3. |
 
 Ministre chargé de l'environnement |
 
@@ -1536,7 +1546,7 @@ Ministre chargé de l'environnement |
 
 Délivrance de l'habilitation aux organismes mentionnés à l'article L. 557-31. |
 
-Code de l'environnement Article R. 557-4-1. |
+Code de l'environnementArticle R. 557-4-1. |
 
 Ministre chargé des transports de matières dangereuses ou ministre chargé de la sécurité industrielle |
 
@@ -1544,7 +1554,7 @@ Ministre chargé des transports de matières dangereuses ou ministre chargé de 
 
 Agrément des organismes chargés du contrôle périodique des installations classées prévu à l'article L. 512-11. |
 
-Code de l'environnement Article R. 512-61. |
+Code de l'environnementArticle R. 512-61. |
 
 Ministre chargé de l'environnement |
 
@@ -1552,7 +1562,7 @@ Ministre chargé de l'environnement |
 
 Dérogations au titre de l'article 55 du règlement (UE) n° 528/2012. |
 
-Code de l'environnement Article R. 522-6. |
+Code de l'environnementArticle R. 522-6. |
 
 Ministre chargé de l'environnement |
 
@@ -1612,7 +1622,7 @@ Ministres chargés de l'énergie et/ ou de l'environnement |
 
 Agrément d'organismes de contrôle intervenant dans le domaine de la sécurité industrielle (appareils utilisables en atmosphère explosive). |
 
-Code de l'environnement Article R. 557-1-3. |
+Code de l'environnementArticle R. 557-1-3. |
 
 |
 
@@ -1700,7 +1710,7 @@ Ministre chargé des transports |
 
 Agrément d'un réseau national de contrôle technique des véhicules. |
 
-Code de la route Article R. 323-8. |
+Code de la routeArticle R. 323-8. |
 
 Ministre chargé des transports |
 
@@ -1708,7 +1718,7 @@ Ministre chargé des transports |
 
 Désignation de l'organisme chargé de coordonner les programmes de contrôle organisés par la Commission européenne pour s'assurer de la qualité des mesures réalisées par les organismes chargés de la surveillance de la qualité de l'air. |
 
-Code de l'environnement Article R. 221-13. |
+Code de l'environnementArticle R. 221-13. |
 
 Ministre chargé de l'environnement |
 
@@ -1716,7 +1726,7 @@ Ministre chargé de l'environnement |
 
 Etablissement de la liste des exploitants auxquels sont affectés des quotas d'émission de gaz à effet de serre. |
 
-Code de l'environnement Article R. 229-8. |
+Code de l'environnementArticle R. 229-8. |
 
 Ministre chargé de la politique des marchés carbone |
 
@@ -1748,7 +1758,7 @@ Ministre chargé de la politique des marchés carbone |
 
 Décisions relatives aux versements libératoires et aux pénalités. |
 
-Code de l'énergie Article L. 221-4. |
+Code de l'énergieArticle L. 221-4. |
 
 Ministre chargé de l'énergie |
 
@@ -1756,7 +1766,7 @@ Ministre chargé de l'énergie |
 
 Décisions relatives aux délégations d'obligations d'économies d'énergie. |
 
-Code de l'énergie Article R. 221-6. |
+Code de l'énergieArticle R. 221-6. |
 
 Ministre chargé de l'énergie |
 
@@ -1764,7 +1774,7 @@ Ministre chargé de l'énergie |
 
 Agrément d'un laboratoire ou d'un organisme pour le prélèvement à l'émission ou l'analyse de certaines substances émises dans l'atmosphère par les installations classées. |
 
-Code de l'environnement Article R. 512-71. |
+Code de l'environnementArticle R. 512-71. |
 
 Ministre chargé de l'environnement |
 
@@ -1796,7 +1806,7 @@ Ministre chargé de l'énergie |
 
 Consentement donné à l'importation de transfert de déchets radioactifs ou de combustible nucléaire usé en provenance d'un Etat membre de l'Union européenne. |
 
-Code de l'environnement Article R. 542-41. |
+Code de l'environnementArticle R. 542-41. |
 
 Ministre chargé de l'énergie |
 
@@ -1812,7 +1822,7 @@ Ministre chargé de l'énergie |
 
 Autorisation d'importation de déchets radioactifs ou de combustible nucléaire usé en provenance d'un Etat n'appartenant pas à l'Union européenne. |
 
-Code de l'environnement Article R. 542-50. |
+Code de l'environnementArticle R. 542-50. |
 
 Ministre chargé de l'énergie |
 
@@ -1820,7 +1830,7 @@ Ministre chargé de l'énergie |
 
 Autorisation d'exportation de déchets radioactifs ou de combustible nucléaire usé à destination d'un Etat n'appartenant pas à l'Union européenne. |
 
-Code de l'environnement Article R. 542-54. |
+Code de l'environnementArticle R. 542-54. |
 
 Ministre chargé de l'énergie |
 
@@ -1828,7 +1838,7 @@ Ministre chargé de l'énergie |
 
 Autorisation de transit à l'occasion du transfert de déchets radioactifs ou de combustible nucléaire usé entre Etats membres de l'Union européenne. |
 
-Code de l'environnement Article R. 542-60. |
+Code de l'environnementArticle R. 542-60. |
 
 Ministre chargé de l'énergie |
 
@@ -1836,7 +1846,7 @@ Ministre chargé de l'énergie |
 
 Autorisation de retour sur le territoire national des déchets radioactifs ou du combustible nucléaire usé dont le transfert n'a pu être mené à bien si le transfert avait pour objet l'exportation de ces substances. |
 
-Code de l'environnement Article R. 542-65 (troisième alinéa). |
+Code de l'environnementArticle R. 542-65 (troisième alinéa). |
 
 Ministre chargé de l'énergie |
 
@@ -1852,7 +1862,7 @@ Ministre chargé de l'énergie |
 
 Décision de ne pas mener à bien un transfert autorisé. |
 
-Code de l'environnement Article R. 542-65 (premier alinéa). |
+Code de l'environnementArticle R. 542-65 (premier alinéa). |
 
 Ministre chargé de l'énergie |
 
@@ -1892,7 +1902,7 @@ Ministres chargés de l'énergie, de la sûreté nucléaire, du budget et de l'�
 
 Mises en demeure d'acquérir des certificats d'économies d'énergie. |
 
-Code de l'énergie Article L. 221-3. |
+Code de l'énergieArticle L. 221-3. |
 
 Ministre chargé de l'énergie |
 
@@ -1908,7 +1918,7 @@ Ministre chargé de l'énergie |
 
 Fixation des obligations d'économies d'énergie. |
 
-Code de l'énergie Article R. 221-12. |
+Code de l'énergieArticle R. 221-12. |
 
 Ministre chargé de l'énergie |
 
@@ -1916,7 +1926,7 @@ Ministre chargé de l'énergie |
 
 Annulation des certificats d'économies d'énergie en fin de période. |
 
-Code de l'énergie Article R. 221-13. |
+Code de l'énergieArticle R. 221-13. |
 
 Ministre chargé de l'énergie |
 
@@ -1924,7 +1934,7 @@ Ministre chargé de l'énergie |
 
 Quotas de gaz à effet de serre : hors déclaration d'émissions. |
 
-Code de l'environnement (notamment articles R. 229-5-1) et règlements (UE) n° 2018/2066 et n° 2018/2067. |
+Code de l'environnement(notamment articles R. 229-5-1) et règlements (UE) n° 2018/2066 et n° 2018/2067. |
 
 Ministre chargé de l'environnement |
 
@@ -1948,7 +1958,7 @@ Ministre chargé de l'environnement |
 
 Autorisation d'expérimentation de la circulation de véhicules à délégation partielle ou totale de conduite. |
 
-Code de la route Article R. 322-3. |
+Code de la routeArticle R. 322-3. |
 
 Ministre chargé des transports |
 
@@ -1964,7 +1974,7 @@ Ministre chargé des transports |
 
 Délivrance de certificats d'économies d'énergie. |
 
-Code de l'énergie Article R. 221-22. |
+Code de l'énergieArticle R. 221-22. |
 
 Ministre chargé de l'énergie |
 
@@ -1972,7 +1982,7 @@ Ministre chargé de l'énergie |
 
 Sanctions en raison de manquement aux obligations déclaratives liées aux certificats d'économies d'énergie |
 
-Code de l'énergie Article L. 222-2. |
+Code de l'énergieArticle L. 222-2. |
 
 Ministre chargé de l'énergie |
 
@@ -1980,7 +1990,7 @@ Ministre chargé de l'énergie |
 
 Définition du périmètre d'un contrôle de la régularité de la délivrance des certificats d'économies d'énergie. |
 
-Code de l'énergie Article R. 222-7. |
+Code de l'énergieArticle R. 222-7. |
 
 Ministre chargé de l'énergie |
 
@@ -1988,7 +1998,7 @@ Ministre chargé de l'énergie |
 
 Sélection d'un échantillon d'opérations d'économies d'énergie dans le périmètre du contrôle, mise en demeure. |
 
-Code de l'énergie Article R. 222-7. |
+Code de l'énergieArticle R. 222-7. |
 
 Ministre chargé de l'énergie |
 
@@ -1996,7 +2006,7 @@ Ministre chargé de l'énergie |
 
 Retrait de l'agrément d'un plan d'actions d'économies d'énergie, fixation du montant de la sanction pécuniaire. |
 
-Code de l'énergie Article R. 222-10. |
+Code de l'énergieArticle R. 222-10. |
 
 Ministre chargé de l'énergie |
 
@@ -2004,7 +2014,7 @@ Ministre chargé de l'énergie |
 
 Mise en demeure, suspension de l'agrément d'un plan d'actions d'économies d'énergie. |
 
-Code de l'énergie Article R. 222-10. |
+Code de l'énergieArticle R. 222-10. |
 
 Ministre chargé de l'énergie |
 
@@ -2230,7 +2240,9 @@ Ministre chargé de l'environnement |
 
 [65] |
 
-Mise en demeure et sanctions relatives aux obligations de déclaration sur la plateforme numérique prévue par l'article L. 229-67 du code de l'environnement |
+Mise en demeure et sanctions relatives aux obligations de déclaration sur la plateforme numérique prévue par l'article L. 229-67 du code de l'environnement
+
+|
 
 Code de l'environnement article R. 229-127 |
 
@@ -3062,9 +3074,7 @@ Article R. 114-1 du code de la construction et de l'habitation
 
 |
 
-Ministres chargés de la construction et des transports
-
-|
+Ministres chargés de la construction et des transports |
 
 4 |
 
@@ -3242,7 +3252,9 @@ Ministre chargé du logement et ministre chargé des finances |
 
 23 |
 
-Admission d'une société coopérative d'habitation à loyer modéré au bénéfice des dispositions de l'article L. 431-1 du code de la construction et de l'habitation |
+Admission d'une société coopérative d'habitation à loyer modéré au bénéfice des dispositions de l'article L. 431-1 du code de la construction et de l'habitation
+
+|
 
 Code de la construction et de l'habitation
 
@@ -3439,3 +3451,7 @@ Décisions amiables d'indemnisation résultant de la mise en cause de la respons
 3 |
 
 Décisions relatives aux personnes morales placées sous la tutelle ou le contrôle de l'Etat autres que celles mentionnées au 3e de l'annexe au décret n° 97-1206 pris pour l'application à l'ensemble des ministères du premier alinéa de l'article 2 du décret n° 97-34 du 15 janvier 1997 relatif à la déconcentration des décisions administratives individuelles. |
+
+NOTA :
+
+Conformément à l’article 5 du décret n°2026-210 du 24 mars 2026, ces dispositions, dans leur rédaction résultant dudit décret, entrent en vigueur le 1er avril 2026.
