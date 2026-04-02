@@ -20,9 +20,13 @@ L'association a pour objet de définir et mettre en oeuvre l'ensemble des moyens
 
 Pour réaliser son objet, l'association anime et coordonne le réseau des associations d'information sur le logement (ADIL). Elle favorise la création de nouvelles ADIL dans les territoires qui n'en sont pas pourvus et apporte un soutien technique au renforcement, au développement et à la qualité du réseau.
 
-Elle réalise les outils documentaires et informatiques destinés à l'information des ADIL et à celle du public ; elle diffuse au sein du réseau les expériences menées par les ADIL et leurs résultats ; elle organise des stages de formation des personnels.
+Elle réalise des outils documentaires et numériques destinés à l'information des ADIL et à celle du public. Elle contribue à l'accompagnement des ménages dans leurs parcours résidentiels par la mise en place de dispositifs numériques. Elle diffuse, au sein du réseau, les expériences menées par les ADIL et leurs résultats. Elle organise des stages de formation des personnels.
 
 Elle recueille les informations sur la demande exprimée par le public qui lui sont transmises par les ADIL. Elle procède à leur traitement et restitue les analyses issues de ce traitement à l'ensemble du réseau.
+
+Afin d'informer le public et d'éclairer la conduite des politiques publiques nationales et locales, elle recueille et traite des données permettant une meilleure connaissance des marchés relatifs au secteur du logement, en vue de leur publication.
+
+Elle développe une stratégie de communication et des outils numériques, partagés avec les ADIL, destinés à l'information du public.
 
 L'association a aussi vocation à entreprendre toutes études, recherches, actions de formation et démarches prospectives suscitées par ses interventions et qui lui apparaissent nécessaires à l'intérêt public dans le domaine du logement et de l'habitat. Elle communique à ses membres ses analyses issues de l'activité du réseau des ADIL et les résultats des études réalisées à son initiative. Elle peut faire des propositions de nature à mieux orienter les politiques publiques en matière de logement et d'habitat.
 
@@ -46,7 +50,7 @@ Sont membres adhérents :
 
 - des établissements publics nationaux ou des organismes à vocation nationale intervenant dans le domaine du logement ou de l'habitat.
 
-La qualité de membre de droit peut également être conférée, à sa demande, à toute association nationale d'élus territoriaux, ou à toute instance à laquelle est affiliéADIL un organisme membre des ADIL.
+La qualité de membre de droit peut également être conférée, à sa demande, à toute association nationale d'élus territoriaux, ou à toute instance à laquelle est affilié ADIL un organisme membre des ADIL.
 
 Peuvent être membres adhérents, après décision du conseil d'administration, des personnes morales légalement constituées dont l'action revêt un caractère national ayant manifesté leur intérêt pour l'action de l'association.
 
