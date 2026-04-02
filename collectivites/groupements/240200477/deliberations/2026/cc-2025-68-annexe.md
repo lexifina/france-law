@@ -1,0 +1,100 @@
+# GrandSoissons Agglomération : délibération CC.2025.68-Annexe — CC.2025.68-Annexe.pdf
+
+- Collectivité : GrandSoissons Agglomération
+- SIREN : 240200477
+- Date : 2026-04-02 (date de mise en ligne sur data.gouv.fr ; la date de l'acte n'est pas lisible dans le fichier)
+- Objet : CC.2025.68-Annexe.pdf
+- Pages : 1
+- Acte publié : https://static.data.gouv.fr/resources/deliberations-du-conseil-communautaire-grandsoissons-agglomeration-2025/20260402-142028/cc.2025.68-annexe.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/686e24feb69afdc9cd2977bd
+
+## Texte
+
+LUNDI
+08h00-13h30
+16h30-20h00
+MARDI
+08h00-13h30
+16h30-21h00
+MERCREDI
+08h00-13h00
+15h00-20h00
+JEUDI
+08h00-13h30
+16h30-21h00
+VENDREDI
+08h00-13h30
+16h30-20h00
+SAMEDI
+09h00-13h00
+14h30-18h15
+DIMANCHE + J.FERIES
+09h00-13h00
+14h30-18h15
+LUNDI
+MARDI
+MERCREDI
+JEUDI
+VENDREDI
+SAMEDI
+10h00-13h00
+14h30-18h15
+DIMANCHE + J.FERIES
+10h00-13h00
+14h30-18h15
+LUNDI
+10h00-13h30
+14h30-20h30
+MARDI
+10h00-13h30
+14h30-20h30
+MERCREDI
+10h00-13h30
+14h30-20h30
+JEUDI
+10h00-13h30
+14h30-20h30
+VENDREDI
+10h00-13h30
+14h30-20h30
+SAMEDI
+09h00-13h00
+14h30-18h15
+DIMANCHE + J.FERIES
+09h00-13h00
+14h30-18h15
+LUNDI
+10h00-13h30
+14h30-20h30
+MARDI
+10h00-13h30
+14h30-20h30
+MERCREDI
+10h00-13h30
+14h30-20h30
+JEUDI
+10h00-13h30
+14h30-20h30
+VENDREDI
+10h00-13h30
+14h30-20h30
+SAMEDI
+10h00-13h00
+14h30-18h15
+DIMANCHE + J.FERIES
+10h00-13h00
+14h30-18h15
+PERIODE PETITES ET GRANDES VACANCES BALNEO
+10h00-20h00
+11h00-21h00
+11h00-20h00
+11h00-21h00
+11h00- 20h00
+PERIODE SCOLAIRE BASSINS
+HORAIRES OUVERTURE COMPLEXE AQUATIQUE BDL
+PERIODE PETITES ET GRANDES VACANCES BASSINS
+PERIODE SCOLAIRE BALNEO et FITNESS
+Copie pour impression
+Réception au contrôle de légalité le 08/04/2025 à 13h10
+Réference de l'AR : 002-240200477-20250403-CC2025_68-DE
+Publié le 08/04/2025 ; Rendu exécutoire le 08/04/2025
