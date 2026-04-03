@@ -102,23 +102,21 @@ Outre la présence de l'encadrant, responsable de la baignade, est requise la pr
 
 |
 
-Qualifications requises pour encadrer
-
-|
+Qualifications requises pour encadrer |
 
 Peut encadrer, toute personne majeure membre de l'équipe pédagogique permanente de l'accueil répondant aux conditions de qualifications prévues à l'article A. 322-8 du code du sport ou titulaire soit :
 
-― d'une qualification délivrée dans la discipline concernée par une fédération sportive titulaire de l'agrément prévu à l'article L. 131-8 du code du sport ;
+- d'une qualification délivrée dans la discipline concernée par une fédération sportive titulaire de l'agrément prévu à l'article L. 131-8 du code du sport ;
 
-― de la qualification surveillance de baignade du brevet d'aptitude aux fonctions d'animateur (ou de toute qualification reconnue équivalente par le ministre chargé de la jeunesse et le ministre chargé des sports) ;
+- de la qualification surveillance de baignade du brevet d'aptitude aux fonctions d'animateur (ou de toute qualification reconnue équivalente par le ministre chargé de la jeunesse et le ministre chargé des sports) ;
 
-― du brevet de surveillant de baignade délivré par la Fédération française de sauvetage et de secourisme ;
+- du brevet de surveillant de baignade délivré par la Fédération française de sauvetage et de secourisme ;
 
-― du brevet de surveillance aquatique délivré par la Polynésie française.
+- du brevet de surveillant de baignade en accueil collectif de mineurs délivré par la Fédération nationale des métiers de la natation et du sport ;
 
-Peut encadrer une baignade de mineurs de plus de 14 ans toute personne majeure, membre de l'équipe pédagogique permanente de l'accueil.
+- du brevet de surveillance aquatique délivré par la Polynésie française.
 
-|
+Peut encadrer une baignade de mineurs de plus de 14 ans toute personne majeure, membre de l'équipe pédagogique permanente de l'accueil. |
 
 Conditions d'organisation de la pratique
 
