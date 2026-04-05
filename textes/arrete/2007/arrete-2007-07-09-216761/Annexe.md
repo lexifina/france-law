@@ -22,7 +22,9 @@ France métropolitaine-Géorgie ;
 
 France métropolitaine-Serbie ;
 
-France métropolitaine-Moldavie.
+France métropolitaine-Moldavie ;
+
+France métropolitaine-Bosnie-Herzégovine.
 
 2. Liaisons internationales extracommunautaires :
 
@@ -208,6 +210,8 @@ Marseille-Tunis ;
 
 Montpellier-Tunis ;
 
+Montpellier-Djerba ;
+
 Nantes-Djerba ;
 
 Nantes-Monastir ;
@@ -247,6 +251,8 @@ Bordeaux-Istanbul ;
 Lyon-Antalya ;
 
 Lyon-Istanbul ;
+
+Lyon-Izmir ;
 
 Marseille-Antalya ;
 
