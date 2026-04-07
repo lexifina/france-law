@@ -1,0 +1,9 @@
+# Réponse à la question n° 5584
+
+- Question : [5584](5584.md) — Question n° 5584 — Sous-effectif du personel pénitentiaire à la maison d'arrêt de Grasse
+
+## Réponse
+
+*JO du 2026-04-07, page 2932*
+
+Le ministère de la Justice poursuit son engagement afin d'améliorer les conditions de travail des personnels pénitentiaires, ainsi que les conditions de détention des personnes placées sous main de justice (PPSMJ). S'agissant de la MA de Grasse, la situation de sous-effectif qu'elle connaît fait l'objet d'une vive attention de l'administration pénitentiaire. Consciente que, dans ce contexte, les personnels peuvent rencontrer des difficultés pour exercer pleinement leurs missions et répondre de manière satisfaisante à la prise en charge des personnes détenues, l'administration pénitentiaire est particulièrement vigilante à la régulation des effectifs des établissements, notamment les plus suroccupés. Par ailleurs, l'effectif réel de la population pénale, compte tenu de son caractère fluctuant, n'est pas pris en compte lors de la détermination des organigrammes et effectifs de référence. Ceux-ci sont établis sur la seule base du type de structure prévu, de l'existence de quartiers spécifiques, du type de postes à pourvoir, de considérations architecturales ainsi que de la capacité d'accueil théorique de l'établissement. Ainsi, au 31 janvier 2026, le taux de couverture des personnels de surveillance de la MA de Grasse s'élevait à 92,57 %, soit un manque de 15 équivalents temps plein (ETP) sur les 202 inscrits à l'organigramme de référence. Les postes d'officiers sont occupés à 100 %, de même que pour les personnels relevant de la filière encadrement (hors formateurs). Pour comparaison, le taux de couverture total des établissements du ressort de la direction interrégionale des services pénitentiaires (DISP) de Marseille s'élève à 90,31%. A l'échelle nationale, il est de 89,16%.
