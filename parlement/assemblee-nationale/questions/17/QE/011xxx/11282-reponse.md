@@ -1,0 +1,9 @@
+# Réponse à la question n° 11282
+
+- Question : [11282](11282.md) — Question n° 11282 — Application du nutri-score aux produits laitiers sous appellations AOP et IGP
+
+## Réponse
+
+*JO du 2026-04-07, page 2962*
+
+Le Nutri-Score permet de caractériser la qualité nutritionnelle globale des aliments et son application sur les produits agroalimentaires reste volontaire. Concernant la classification des fromages, ces derniers ont fait l'objet d'une adaptation du calcul avant l'adoption du système par les pouvoirs publics en 2017, ainsi que lors de la révision de l'algorithme du Nutri-Score par le comité scientifique européen en 2022 afin de mieux tenir compte des quantités de protéines, reflet des teneurs en calcium. Ainsi, les fromages sont à ce jour principalement classés sur l'échelle du Nutri-Score entre C et E, selon les teneurs en sel et graisses saturées, conformément aux recommandations alimentaires des autorités de santé. Les produits classés Nutri-Score D ou E peuvent tout à fait être consommés dans le cadre d'une alimentation équilibrée, mais en quantités et fréquences conformes aux recommandations nutritionnelles du programme national nutrition santé. Le Nutri-Score et les signes d'identification de qualité et d'origine, tels que les labels AOP et IGP répondent à des objectifs différents. Si ces labels permettent d'informer le consommateur sur la qualité du produit en termes de savoir-faire, de protection de l'environnement, d'origine et de terroir, le Nutri-Score informe quant à lui sur la qualité nutritionnelle des produits transformés. Ces différents systèmes permettent ainsi d'apporter des informations différentes mais complémentaires sur le produit, en répondant au besoin de transparence de plus en plus fort des consommateurs. Par ailleurs, il n'existe à ce jour aucune mesure de distribution, de restriction publicitaire ou fiscale basée sur le Nutri-Score des produits.
