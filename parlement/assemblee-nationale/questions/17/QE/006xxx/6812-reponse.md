@@ -1,0 +1,9 @@
+# Réponse à la question n° 6812
+
+- Question : [6812](6812.md) — Question n° 6812 — Inégalités persistantes en matière d'accès au droit en France
+
+## Réponse
+
+*JO du 2026-04-07, page 2933*
+
+Les règles de prescription de l'action en contestation de la rupture d'un contrat de travail, codifiées à l'article L. 1471-1 du code du travail, ont été simplifiées et clarifiées par l'ordonnance n° 2017-1387 du 22 septembre 2017 relative à la prévisibilité et la sécurisation des relations de travail. Alors que l'action portant sur la rupture du contrat de travail se prescrivait auparavant par deux ans « à compter du jour où celui qui l'exerçait avait connu ou aurait dû connaître les faits lui permettant d'exercer son droit », l'action se prescrit désormais « par douze mois à compter de la notification de la rupture ». La notification de la rupture correspond, selon la Cour de cassation, à la date de réception de la lettre recommandée avec demande d'avis de réception notifiant la rupture du contrat de travail. Le texte du code du travail ne présente aucune ambiguïté car la notification ne peut s'entendre que du jour où l'information de la rupture a été effectivement portée à la connaissance du salarié. Un délai de recours ne commence, en effet, jamais à courir sans que le titulaire de l'action ait pu être effectivement informé du fait lui permettant de l'exercer. La procédure prud'homale présente, par ailleurs, des garanties permettant un accès au juge au salarié ne se trouvant pas en mesure de bénéficier des services d'un avocat, car elle lui offre la possibilité d'être représenté ou assisté par un défenseur syndical exerçant ses fonctions gratuitement. Enfin, en plus des maisons de justice et du droit, un service d'accueil unique du justiciable est implanté dans tous les tribunaux judiciaires et ses chambres de proximité pour assurer l'information et l'accompagnement des salariés dans leurs démarches, comme pour tout justiciable.
