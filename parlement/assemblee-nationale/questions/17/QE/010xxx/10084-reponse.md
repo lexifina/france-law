@@ -1,0 +1,9 @@
+# Réponse à la question n° 10084
+
+- Question : [10084](10084.md) — Question n° 10084 — Format de l'épreuve de mathématiques du diplôme national du brevet
+
+## Réponse
+
+*JO du 2026-04-07, page 2929*
+
+Le ministère de l'éducation nationale est pleinement mobilisé pour élever le niveau des élèves, notamment en mathématiques. À compter de la session 2026, les modalités d'attribution du diplôme national du brevet évoluent afin de rehausser l'ambition pour tous. Le poids des épreuves terminales est renforcé, le contrôle continu repose sur l'évaluation des disciplines, et la fin des correctifs académiques, accompagnée de la mise en place de commissions d'harmonisation, garantit davantage de transparence et d'équité. S'agissant de l'épreuve terminale de mathématiques, les résultats des évaluations nationales et internationales ont conduit à en renforcer le niveau d'exigence, en cohérence avec le Plan mathématiques au collège. Les exercices conduisent désormais les candidats à mobiliser l'ensemble des compétences mathématiques : chercher, modéliser, représenter, raisonner, calculer et communiquer. L'épreuve comprend une première partie consacrée aux automatismes, sans calculatrice, et une seconde dédiée au raisonnement et à la résolution de problèmes. Ce modèle se retrouve pour l'épreuve anticipée de mathématiques passée en fin de première des voies générale et technologique à compter de juin 2026. La seconde partie peut intégrer des situations issues de la vie courante ou d'autres disciplines. L'évaluation valorise également la clarté, la rigueur des raisonnements et la qualité de la rédaction. Ces évolutions visent à redonner au diplôme national du brevet toute sa valeur, en le rendant plus juste et plus exigeant, afin de mieux accompagner la progression de tous les élèves en mathématiques.
