@@ -1,0 +1,9 @@
+# Réponse à la question n° 11011
+
+- Question : [11011](11011.md) — Question n° 11011 — Menace de fermeture du service de chirurgie opératoire à Apt
+
+## Réponse
+
+*JO du 2026-04-07, page 2961*
+
+Le ministère mesure pleinement l'importance de l'activité chirurgicale au sein d'un hôpital de proximité, et comprend les inquiétudes exprimées quant à son arrêt, notamment en ce qui concerne l'attractivité de l'établissement et la continuité des services d'urgence. La situation actuelle de l'établissement d'Apt est toutefois délicate (résultat déficitaire, déficit lourd, dettes financières importantes, délais de paiement des fournisseurs importants). L'arrêt de l'activité chirurgicale est justifié en raison d'impératifs de sécurité des soins. Un récent audit souligne également des difficultés liées à une faible prise en charge en ambulatoire, l'absence de cellule de programmation et de pilotage du bloc opératoire ou encore la taille des équipes qui ne permet pas de garantir la continuité des soins. Ainsi, le centre hospitalier du Pays d'Apt, le groupement hospitalier de territoire de Vaucluse et l'Agence régionale de santé (ARS) portent un projet de réorganisation de l'établissement impliquant l'arrêt de l'autorisation de chirurgie générale, sans pour autant qu'il s'agisse d'un désengagement. Le parcours chirurgical sera réorganisé. Les consultations avant et après l'opération resteront assurées à Apt, seul l'acte opératoire sera effectué à Cavaillon, par la même équipe. Par ailleurs, l'ARS accompagne, avec un effort d'investissement massif, l'hôpital d'Apt et le centre hospitalier du Pays d'Apt s'est vu accorder, le 1er janvier 2026, la labellisation « hôpital de proximité », ce qui lui garantira un financement plus adapté à ses missions réelles et un rôle central dans les soins de premier recours ainsi que dans les prises en charge de proximité.
