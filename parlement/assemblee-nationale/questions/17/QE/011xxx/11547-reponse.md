@@ -1,0 +1,9 @@
+# Réponse à la question n° 11547
+
+- Question : [11547](11547.md) — Question n° 11547 — Limites du financement des travaux du patrimoine culturel
+
+## Réponse
+
+*JO du 2026-04-07, page 2917*
+
+Le dispositif des bâches publicitaires sur les monuments historiques, instauré en 2007 par l'article L. 621-29-8 du code du patrimoine, constitue un mécanisme vertueux en matière de recherche de financements permettant l'entretien des équipements culturels majeurs. En dérogeant de manière strictement encadrée aux dispositions du code de l'environnement interdisant la publicité sur les immeubles protégés, il permet de compenser une partie des coûts induits par les travaux de restauration tout en contribuant à l'amélioration du cadre de vie de tous. Ce dispositif, soumis à une autorisation préalable du préfet de région, limite la surface publicitaire à 50 % de la bâche et impose l'affectation intégrale des recettes au financement des travaux. Son usage, bien compris par les maîtres d'ouvrage, demeure mesuré et essentiellement concentré à Paris. Ainsi, à ce jour, 198 autorisations d'affichage ont été délivrées, dont 12 pour l'Opéra Garnier. Le Gouvernement est conscient des limites actuelles du cadre juridique, qui ne permet pas à certains équipements culturels majeurs, tels que ceux labellisés « Architecture contemporaine remarquable », de bénéficier de ce levier de financement. L'engagement de Monsieur le Député sur le sujet est souligné, notamment dans le cadre du projet de loi sur les Jeux Olympiques 2030. C'est la raison pour laquelle il envisage de créer, au sein du code du patrimoine, un dispositif comparable pour les immeubles labellisés « Architecture contemporaine remarquable », notamment pour des équipements tels que l'Opéra Bastille. L'élargissement limité de ce dispositif de bâches publicitaires à ce label apparaît comme très positif.
