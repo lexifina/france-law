@@ -1,0 +1,11 @@
+# proposition de loi visant à accélérer le développement de la médecine nucléaire thérapeutique en oncologie
+
+- Type : Proposition de loi
+- Dénomination : Proposition de loi
+- Provenance : Texte Déposé
+- Titre court : visant à accélérer le développement de la médecine nucléaire thérapeutique en oncologie
+- Déposé le : 2026-04-08
+- Publié le : 2026-10-13
+- Dossier : DLR5L17N54152
+- Auteurs : M. Khalifé Khalifé (auteur)
+- Identifiant : PIONSNR5S479B0527
