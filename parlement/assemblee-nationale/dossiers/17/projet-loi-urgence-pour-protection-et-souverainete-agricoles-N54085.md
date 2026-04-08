@@ -1,0 +1,83 @@
+# Projet de loi d’urgence pour la protection et la souveraineté agricoles
+
+- Procédure : Projet de loi ordinaire
+- Législature : 17
+- Identifiant : DLR5L17N54085
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_loi_urgence_pour_protection_et_souverainete_agricoles
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl25-689.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2026-04-08 : 1er dépôt d'une initiative. (PRJLANR5L17B2632)
+  - 2026-04-08 : Etude d'impact (ETDIANR5L17B2632)
+  - 2026-04-08 : Avis du Conseil d'Etat (AVCEANR5L17B2632)
+  - 2026-04-08 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2026-04-08 : Renvoi en commission au fond
+      - 2026-04-14 : Nomination de rapporteur
+      - 2026-05-04 : Réunion de commission
+      - 2026-05-04 : Réunion de commission
+      - 2026-05-19 : Réunion de commission
+      - 2026-05-07 : Dépôt de rapport (RAPPANR5L17B2765, PRJLANR5L17BTC2765)
+    - Travaux d'une commission saisie pour avis
+      - 2026-04-10 : Saisine pour avis d'une commission
+      - 2026-04-15 : Nomination de rapporteur
+      - 2026-04-15 : Réunion de commission
+      - 2026-04-15 : Réunion de commission
+      - 2026-04-28 : Réunion de commission
+      - 2026-04-28 : Réunion de commission
+      - 2026-04-29 : Réunion de commission
+      - 2026-04-29 : Réunion de commission
+      - 2026-04-29 : Réunion de commission
+  - Discussion en séance publique
+    - 2026-05-19 : Discussion en séance publique
+    - 2026-05-19 : Discussion en séance publique
+    - 2026-05-20 : Discussion en séance publique
+    - 2026-05-20 : Discussion en séance publique
+    - 2026-05-21 : Discussion en séance publique
+    - 2026-05-21 : Discussion en séance publique
+    - 2026-05-21 : Discussion en séance publique
+    - 2026-05-22 : Discussion en séance publique
+    - 2026-05-22 : Discussion en séance publique
+    - 2026-05-22 : Discussion en séance publique
+    - 2026-05-26 : Discussion en séance publique
+    - 2026-05-26 : Discussion en séance publique
+    - 2026-05-27 : Discussion en séance publique
+    - 2026-05-27 : Discussion en séance publique
+    - 2026-05-29 : Discussion en séance publique
+    - 2026-05-29 : Discussion en séance publique
+    - 2026-05-29 : Discussion en séance publique
+    - 2026-05-30 : Discussion en séance publique
+    - 2026-06-02 : Discussion en séance publique
+    - 2026-06-02 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2026-06-03 : Dépôt d'une initiative en navette (PRJLSNR5S479B0689)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2026-06-03 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2026-06-17 : Dépôt de rapport (RAPPSNR5S479B0762, PRJLSNR5S479BTC0763)
+  - Discussion en séance publique
+    - 2026-07-02 : Décision
+- Commission Mixte Paritaire
+  - 2026-07-06 : Dépôt d'un projet de loi (PRJLANR5L17B3017)
+  - 2026-07-06 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2026-07-16 : Nomination de rapporteur
+    - 2026-07-16 : Dépôt du rapport d'une CMP (RAPPANR5L17B3067, PRJLANR5L17BTC3067)
+    - 2026-07-16 : Dépôt du rapport d'une CMP (RAPPSNR5S479B0893, PRJLSNR5S479BTC0894)
+  - Discussion en séance publique
+    - 2026-07-20 : Discussion en séance publique
+    - 2026-07-20 : Décision
+  - Discussion en séance publique
+    - 2026-07-21 : Discussion en séance publique
+    - 2026-07-21 : Décision
+  - 2026-07-17 : Décision de la CMP
+- Conseil constitutionnel
+  - 2026-07-24 : Saisine du conseil constitutionnel
+  - 2026-07-24 : Saisine du conseil constitutionnel
+  - 2026-08-14 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2026-08-18 : Promulgation d'une loi
