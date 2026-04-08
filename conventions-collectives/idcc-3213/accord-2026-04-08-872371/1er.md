@@ -1,0 +1,3 @@
+# Article 1er
+
+En cas d'interruption spontanée de grossesse avant la 22e semaine d'aménorrhée, la salariée bénéficie d'une autorisation d'absence exceptionnelle de 3 jours, non déductibles des congés et n'entraînant pas de réduction de salaire. Cette absence peut être accolée à un arrêt de travail pour maladie éventuellement prescrit. La salariée fournit un certificat médical dans les 15 jours suivant l'évènement. Tout salarié, homme ou femme, pourra également bénéficier de ce congé dès lors que son conjoint, partenaire de Pacs ou concubin aura subi le même évènement traumatique. Les salariés ne souhaitant pas bénéficier de ce congé pourront choisir, à la place, des jours de télétravail exceptionnels dans limite de 3 jours.
