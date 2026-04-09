@@ -24,6 +24,8 @@ Conformément aux dispositions des articles 27 et 29 de la loi n° 91-647 du 10 
 
 La provision initiale et les ajustements successifs qui constituent cette dotation annuelle sont versés sur le compte spécial prévu à l'article 29 de la loi du 10 juillet 1991 susvisée.
 
+Conformément aux dispositions de l'article 27-1 de la loi n° 91-647 du 10 juillet 1991, la caisse autonome des règlements pécuniaires des avocats reçoit également le produit de la contribution pour l'aide juridique instaurée par l'article 1635 bis Q du code général des impôts. Les versements sont effectués par l'Union nationale des caisses des règlements pécuniaires des avocats sur le compte spécial, et sont intégralement affectés à la rétribution des avocats pour les missions d'aide juridictionnelle et d'aide à l'intervention de l'avocat dans les procédures non juridictionnelles.
+
 Une dotation complémentaire peut être versée conformément à l'article 88 du décret susmentionné, dans l'hypothèse où le barreau a conclu avec le tribunal judiciaire près duquel il est établi une convention locale relative à l'aide juridique, homologuée par un arrêté du garde des sceaux, ministre de la justice. Dans ce cas, il convient de se référer aux dispositions contenues dans ladite convention (cf. chapitre IV).
 
 Article 2
@@ -42,7 +44,9 @@ c) (s'il y a lieu) Carpa - convention locale relative à l'aide juridique.
 
 Article 3
 
-Les fonds sont versés par l'Union nationale des caisses des règlements pécuniaires des avocats, agissant pour le compte de l'Etat, sur le compte “Carpa - aide juridictionnelle et aide à l'intervention de l'avocat” dont les références lui ont été communiquées.
+Les fonds perçus au titre de l'article 132 du décret n° 2020-1717 du 28 décembre 2020 sont versés par l'Union nationale des caisses des règlements pécuniaires des avocats, agissant pour le compte de l'Etat, sur le compte "CARPA - aide juridictionnelle et aide à l'intervention de l'avocat" dont les références lui ont été communiquées.
+
+Les fonds perçus au titre de l'article 132-1 du décret n° 2020-1717 du 28 décembre 2020 sont versés par l'Union nationale des caisses des règlements pécuniaires des avocats sur ce même compte.
 
 Lorsque les fonds sont placés, ils le sont selon les dispositions prévues par le chapitre II.
 
@@ -321,7 +325,3 @@ En vue de l'indemnisation des frais de déplacement qu'ils ont exposés, les avo
 Article 42
 
 Pour les missions d'aide juridictionnelle et d'aides à l'intervention de l'avocat, le montant de la rétribution n'est dû qu'à l'avocat exerçant sa profession dans les conditions prévues par l'article 7 de la loi du 31 décembre 1971 susvisée.
-
-NOTA :
-
-Conformément à l’article 8 du décret n° 2021-682 du 27 mai 2021, ces dispositions entrent en vigueur à la date fixée par l'article 9 de l'ordonnance n° 2019-950 du 11 septembre 2019, soit le 30 septembre 2021.
