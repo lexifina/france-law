@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Etablissement de la liste des contribuables susceptibles d’être désignés comme membres de la Commission Communale des Impôts Directs (C.C.I.D.).
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2026-04-09
+- Matière : ADMINISTRATION GENERALE
+- Objet : Etablissement de la liste des contribuables susceptibles d’être désignés comme membres de la Commission Communale des Impôts Directs (C.C.I.D.).
+- Transmis à la préfecture : 2026-04-20
+- Votants : 49
+- Pour : 37
+- Contre : 12
+- Abstentions : 0
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjIwODcsInB1ciI6ImJsb2JfaWQifX0=--12d5137647db58a3a59f311617ef8c7fd4df4ff1/23%20-%20ADM%20-%20CCID.doc.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
