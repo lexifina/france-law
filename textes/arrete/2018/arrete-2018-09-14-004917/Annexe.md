@@ -2,7 +2,7 @@
 
 En termes de fréquences :
 
-Les services doivent être exploités sans changement d'appareil entre Strasbourg et Munich à raison, au minimum, d'un aller et retour par jour du lundi au vendredi pendant 230 jours par an, notamment du lundi au vendredi pendant les semaines de session du Parlement européen.
+Les services doivent être exploités sans changement d'appareil entre Strasbourg et Munich à raison, au minimum, d'un aller-retour par jour le lundi et le jeudi pendant 46 semaines par an, notamment pendant les semaines de session du Parlement européen.
 
 En termes de catégories d'appareils utilisés et de capacité offerte :
 
@@ -22,4 +22,8 @@ En termes de continuité de service public :
 
 Sauf cas de force majeure, le nombre de vols annulés pour des raisons directement imputables au transporteur ne doit pas excéder, par an, 3 % du nombre de vols prévus. De plus, les services ne peuvent être interrompus par le transporteur qu'après un préavis minimal de six mois.
 
-Les transporteurs communautaires sont informés qu'une exploitation en méconnaissance des obligations de service public peut entraîner des sanctions administratives et/ou juridictionnelles.
+Les transporteurs communautaires sont informés qu'une exploitation en méconnaissance des obligations de service public peut entraîner des sanctions administratives et/ ou juridictionnelles.
+
+NOTA :
+
+Conformément à l'article 1er de l'arrêté du 23 juillet 2025 (NOR : ATDA2521162A), les présentes dispositions, dans leur rédaction issue de l'annexe de l'arrêté précité, entrent en vigueur à compter du 9 avril 2026.
