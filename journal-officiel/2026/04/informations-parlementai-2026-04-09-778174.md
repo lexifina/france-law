@@ -1,0 +1,98 @@
+# Résolutions
+
+- Nature : Informations Parlementaires
+- Publication : 2026-04-09
+- JO n° : 0084
+- NOR : INPS2609756X
+- Origine : JORF n°0084 du 9 avril 2026
+- Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053778174
+
+## Article
+
+Sénat
+
+Session ordinaire 2025-2026
+
+Résolution adoptée en application de l'article 88-6 de la Constitution
+
+Est devenue résolution du Sénat le 8 avril 2026, conformément à l'article 73 octies du Règlement du Sénat, la proposition de résolution européenne de la commission des affaires économiques dont la teneur suit :
+
+Résolution européenne portant avis motivé sur la conformité au principe de subsidiarité de la proposition de règlement du Parlement européen et du Conseil concernant des orientations pour les infrastructures énergétiques transeuropéennes, modifiant les règlements (UE) 2019/942, (UE) 2019/943 et (UE) 2024/1789 et abrogeant le règlement (UE) 2022/869 - COM(2025) 1006 final et de la proposition de directive du Parlement européen et du Conseil modifiant les directives (UE) 2018/2001, (UE) 2019/944 et (UE) 2024/1788 en ce qui concerne l'accélération des procédures d'octroi de permis - COM(2025) 1007 final
+
+Vu l'article 88-6 de la Constitution,
+
+Vu l'article 73 octies du Règlement du Sénat,
+
+Vu la proposition de règlement du Parlement européen et du Conseil concernant des orientations pour les infrastructures énergétiques transeuropéennes, modifiant les règlements (UE) 2019/942, (UE) 2019/943 et (UE) 2024/1789 et abrogeant le règlement (UE) 2022/869 - COM(2025) 1006 final,
+
+Vu la proposition de directive du Parlement européen et du Conseil modifiant les directives (UE) 2018/2001, (UE) 2019/944 et (UE) 2024/1788 en ce qui concerne l'accélération des procédures d'octroi de permis - COM(2025) 1007 final,
+
+Le Sénat émet les observations suivantes :
+
+L'article 5 du traité sur l'Union européenne (TUE) stipule que l'Union européenne ne peut intervenir, en vertu du principe de subsidiarité, que « si, et dans la mesure où les objectifs de l'action envisagée ne peuvent pas être atteints de manière suffisante par les États membres, mais peuvent l'être mieux, en raison des dimensions ou des effets de l'action envisagée, au niveau de l'Union » ; il précise qu'en application du principe de proportionnalité, « le contenu et la forme de l'action de l'Union n'excèdent pas ce qui est nécessaire pour atteindre les objectifs des traités » ; ceci implique d'examiner, non seulement si l'objectif de l'action envisagée peut être mieux réalisé au niveau européen, mais également si l'intensité de l'action entreprise n'excède pas la mesure nécessaire pour atteindre l'objectif que cette action vise à réaliser ;
+
+L'article 5 du protocole n° 2 sur l'application des principes de subsidiarité et de proportionnalité annexé au TUE et au traité sur le fonctionnement de l'Union européenne (TFUE) prévoit que « les raisons permettant de conclure qu'un objectif de l'Union peut être mieux atteint au niveau de celle-ci s'appuient sur des indicateurs qualitatifs et, chaque fois que c'est possible, quantitatifs » ; ceci implique que les projets d'actes législatifs européens soient suffisamment motivés et circonstanciés ;
+
+Les articles 170 à 172 du TFUE donnent compétence à l'Union européenne pour définir les orientations stratégiques ainsi que les objectifs et les priorités des réseaux transeuropéens et soutenir des projets d'intérêt commun mais laissent aux États membres, conformément au principe de subsidiarité, la responsabilité de la programmation et de la mise en œuvre des projets d'intérêt commun ainsi que la coordination des politiques nationales lorsqu'elles sont susceptibles d'avoir un impact sur la réalisation des réseaux transeuropéens, l'Union européenne venant alors en soutien. À ce titre, les États membres, avec les autorités locales et les opérateurs parties prenantes, restent responsables de la mise en œuvre des orientations et de la gestion des projets ;
+
+L'article 194 du TFUE prévoit que la politique de l'Union européenne dans le domaine de l'énergie vise, dans un « esprit de solidarité entre les États membres », à assurer notamment le fonctionnement du marché de l'énergie et la sécurité de l'approvisionnement énergétique ; toutefois, la politique énergétique relevant des compétences partagées entre l'Union européenne et les États membres, il convient d'examiner si l'objectif de l'action envisagée peut être mieux réalisé au niveau européen et si l'intensité de l'action entreprise n'excède pas les mesures nécessaires à l'atteinte des objectifs que cette action vise à réaliser ; en particulier, ces mesures ne doivent pas affecter le droit d'un État membre de déterminer les conditions d'exploitation de ses ressources énergétiques, son choix entre différentes sources d'énergie et la structure générale de son approvisionnement énergétique ;
+
+Les actes délégués et les actes d'exécution ne sont pas aujourd'hui transmis aux parlements nationaux aux fins de contrôle du respect du principe de subsidiarité, alors qu'ils constituent des compléments des actes législatifs qui, eux, sont soumis à ce contrôle, rendant partiel le contrôle de subsidiarité exercé par les parlements nationaux ;
+
+Dans un contexte marqué par des tensions géopolitiques et des défis urgents à relever notamment en matière sécurité énergétique et de compétitivité, la Commission européenne a présenté, le 10 décembre 2025, un paquet « Réseaux » ; ce dernier vise à renforcer le cadre européen applicable aux infrastructures transeuropéennes ;
+
+Cette initiative s'inscrit dans un environnement marqué par l'augmentation des besoins d'investissement dans les réseaux énergétiques européens afin d'accompagner la transition énergétique, l'électrification de l'économie et l'intégration des volumes croissants d'énergies renouvelables ;
+
+Concernant les mesures permettant la détermination des orientations pour les infrastructures énergétiques transeuropéennes proposées par la Commission européenne :
+
+Le fait de constituer, à l'échelle européenne, un réseau sûr, efficace et prenant en compte la multimodalité et l'interopérabilité du système de transport européen constitue une priorité pour l'Union européenne afin de renforcer sa cohésion économique, sociale et territoriale ; il implique une approche commune et cohérente des différentes planifications nationales ; toutefois, les règles définies à ce titre par la Commission européenne doivent prévoir une certaine flexibilité dans la hiérarchisation des investissements, afin notamment de tenir compte des priorités nationales ;
+
+La planification des infrastructures énergétiques repose aujourd'hui sur un équilibre institutionnel associant étroitement les États membres, leurs autorités de régulation et les gestionnaires de réseaux de transport ;
+
+La proposition de règlement tend à modifier radicalement cette organisation ; elle dispose que la Commission européenne pourra définir, tous les quatre ans, par voie d'acte délégué un scénario énergétique européen central qui servirait de référence pour l'ensemble du processus de planification et de financement des infrastructures ;
+
+L'article 290 du TFUE stipule : « un acte législatif peut déléguer à la Commission le pouvoir d'adopter des actes non législatifs de portée générale qui complètent ou modifient certains éléments non essentiels de l'acte législatif. […] Les éléments essentiels d'un domaine sont réservés à l'acte législatif et ne peuvent donc pas faire l'objet d'une délégation de pouvoir » ;
+
+Compte tenu du rôle structurant que pourrait jouer ce scénario pour l'ensemble du processus de planification des infrastructures énergétiques européennes, de ses conséquences en termes économiques et sociaux, technologiques et industriels, de choix de bouquet énergétique ainsi que d'aménagement du territoire, sa détermination n'est pas une simple définition technique ni mécanique. Il s'agit d'une décision éminemment politique qui nécessite un fort niveau d'association des États membres. Le Sénat considère ainsi que la détermination de ce scénario constitue un élément essentiel de cette proposition de règlement, ce qui interdit le recours envisagé aux actes délégués ;
+
+En outre, l'approche proposée par la Commission européenne comporte plusieurs limites : d'une part, elle repose sur des hypothèses qui peuvent difficilement refléter la diversité des trajectoires énergétiques nationales et les éventuels retards dans leur mise en œuvre ; d'autre part, elle risque de conduire à privilégier certaines infrastructures transfrontières sans prendre pleinement en compte les investissements nécessaires dans les réseaux internes pour les intégrer ;
+
+Une telle situation pourrait conduire à une sous-estimation des coûts réels pour le système énergétique européen, à une désoptimisation globale du système énergétique européen et, in fine, à une augmentation des coûts pour les consommateurs, ce qui est contraire aux objectifs poursuivis ;
+
+Dans un environnement marqué par de fortes incertitudes, notamment sur l'évolution de la demande d'électricité, le rythme de développement des énergies renouvelables ou encore les trajectoires industrielles, la robustesse des décisions d'investissement repose généralement sur l'examen de plusieurs scénarios ; contrairement à l'approche retenue par la Commission européenne, le Sénat appelle à une approche multi-scénarios qui permettrait de mieux prendre en compte les différentes trajectoires possibles de transition énergétique dans différentes hypothèses d'évolution du système énergétique ;
+
+Dans la mesure où les infrastructures énergétiques sont étroitement liées aux choix de bouquet énergétique et aux politiques nationales d'aménagement du territoire, une planification européenne trop prescriptive pourrait conduire, de manière indirecte, à orienter les décisions d'investissement vers certaines infrastructures ou certains corridors énergétiques, sans que les implications pour les systèmes énergétiques nationaux ou pour les réseaux internes soient pleinement prises en compte ; plutôt qu'une centralisation de la planification, le Sénat appelle à un renforcement des mécanismes de coopération régionale, associant étroitement les États membres ;
+
+La proposition de règlement prévoit de renforcer les compétences de l'Agence pour la coopération des régulateurs de l'énergie (ACER) ; elle devrait élaborer et publier une méthode contraignante destinée à encadrer le recensement des besoins en infrastructures énergétiques au niveau européen ; elle devrait intervenir dans l'évaluation des plans nationaux relatifs aux infrastructures énergétiques ;
+
+La planification des infrastructures énergétiques repose aujourd'hui largement sur l'expertise technique des gestionnaires de réseaux de transport et sur les autorités nationales de régulation, qui disposent d'une connaissance fine des contraintes physiques des réseaux, des flux d'électricité et des besoins d'investissement ; confier à l'ACER un rôle accru pourrait réduire la capacité des gestionnaires de réseaux et déplacer une partie de l'évaluation au niveau européen, alors même que les décisions relatives aux infrastructures énergétiques sont étroitement liées aux choix de politique énergétique nationale et aux contraintes d'aménagement du territoire ;
+
+De même, une harmonisation trop standardisée des méthodologies pourrait conduire à sous-évaluer les coûts associés aux renforcements des réseaux internes ou à minimiser certaines contraintes propres aux systèmes énergétiques nationaux ; dans ces conditions, il apparaît important de préserver une certaine flexibilité dans l'application de ces méthodologies afin de permettre une prise en compte adéquate des réalités techniques et économiques propres à chaque système énergétique ;
+
+La proposition de règlement prévoit que, lorsqu'un projet identifié comme prioritaire ne progresse pas ou ne trouve pas de promoteur, la Commission européenne puisse lancer un appel à propositions afin d'identifier un nouveau promoteur chargé de le développer ; il apparaît essentiel que les projets identifiés dans ce cadre soient, a minima, soumis aux processus ordinaires de planification et d'éligibilité, notamment qu'ils soient inclus dans les plans nationaux de développement de réseau et dans la liste des projets d'intérêt commun, ce qui laisserait, in fine, la possibilité juridique aux États membres de s'opposer à ces projets ;
+
+La proposition de règlement propose de fixer un seuil de 10 % pour la participation au processus de répartition des coûts ; la fixation d'un seuil automatique et uniforme pourrait rigidifier ce processus d'appréciation et réduire la capacité des régulateurs nationaux à tenir compte de la diversité des situations nationales alors qu'ils jouent aujourd'hui un rôle central dans les décisions relatives au financement des infrastructures énergétiques transfrontières ;
+
+La proposition de règlement propose enfin d'allouer 25 % des revenus de congestion non-utilisés au financement de projets d'infrastructures. Cette redistribution des revenus pourrait réorienter de façon sous-optimale les fonds vers des projets non prioritaires en termes de réduction des congestions ou conduire à une augmentation des tarifs pour les usagers. La proposition de la Commission européenne devrait, a minima, préciser que cette obligation ne s'appliquerait qu'aux revenus de congestion qui ne sont pas utilisés pour les finalités prévues par le règlement (UE) 2019/943 du Parlement européen et du Conseil du 5 juin 2019 sur le marché intérieur de l'électricité (refonte) et que ces montants devraient en priorité financer des projets situés dans l'État membre où les revenus sont générés ;
+
+Pour ces différents motifs, les dispositions de la proposition de règlement COM(2025) 1006 final précitée n'apparaissent pas conformes aux principes de subsidiarité et de proportionnalité ;
+
+Concernant les mesures relatives à l'accélération des processus d'autorisation contenues dans les deux propositions d'actes législatifs de la Commission européenne :
+
+Considérant que les projets d'infrastructures énergétiques, d'installations d'énergies renouvelables, de stockage d'énergie ou de stations de recharge sont confrontés à des lenteurs excessives et à des goulets d'étranglement, la Commission européenne propose de simplifier et d'accélérer les procédures d'autorisation desdits projets ; cet objectif mérite un plein soutien dans son principe ;
+
+Toutefois, la multiplication des textes sectoriels en vigueur (directive pour la promotion des énergies renouvelables, règlement pour une industrie « zéro net », règlement sur les matériaux critiques) et en cours de négociation (textes de l'omnibus « environnement », règlement sur l'accélération industrielle, propositions d'actes législatifs de l'omnibus « défense », réglementations sur les médicaments critiques et sur les biotechnologies) fragmente le cadre juridique des procédures d'autorisation ; sans vision d'ensemble de leurs effets, la superposition des réglementations, des exemptions et des délais contraignants conduit à une complexité procédurale qui devient illisible pour les porteurs de projet et les services instructeurs ; cette complexité accroît les risques juridiques, les coûts pour les parties prenantes et allonge les délais de réalisation des projets en contradiction avec les objectifs recherchés ; faute d'une harmonisation suffisante, les mesures proposées par la Commission européenne n'apparaissent dès lors pas conformes au principe de proportionnalité ;
+
+Le Sénat appelle à l'adoption d'une règlementation harmonisée des autorisations, notamment en matière environnementale, qui devrait servir de cadre aux initiatives futures. Elle souhaite la fixation de dispositions transversales, laissant une réelle latitude aux États membres pour les mettre en œuvre au regard de leurs structures administratives et de la répartition des compétences entre leurs autorités nationales et locales ;
+
+En outre, les différentes mesures relatives aux points de contact uniques, à la fixation de délais contraignants et à l'obligation de créer de nouveaux outils informatiques ignorent les spécificités nationales ou les répartitions de compétences entre l'État et les collectivités territoriales. La proposition d'actes législatifs de la Commission européenne n'apporte pas non plus la preuve que ces mesures prises au niveau de l'Union européenne apporteraient une plus value par rapport aux actions menées à l'échelon national ;
+
+Enfin, les mécanismes d'autorisations tacites, associés à la fixation de délais contraignants, soulèvent d'importantes réserves. Ils risquent en effet de conduire à une augmentation des refus ou d'entraîner une augmentation des procédures contentieuses, faute d'avoir pu s'assurer préalablement de la sécurité juridique des projets. Ces mesures pourraient ainsi engendrer des retards supplémentaires à rebours des objectifs recherchés ;
+
+Pour ces différents motifs, les dispositions des deux propositions d'actes législatifs relatives à l'accélération des processus d'autorisation des projets d'infrastructures énergétiques, d'installations d'énergies renouvelables, de stockage d'énergie ou de stations de recharge n'apparaissent pas conformes aux principes de subsidiarité et de proportionnalité ;
+
+En conséquence, pour ces motifs, le Sénat considère que les propositions d'actes législatifs COM(2025) 1006 final et COM(2025) 1007 final précitées ne sont pas conformes à l'article 5 du TUE et au protocole n° 2 sur l'application des principes de subsidiarité et de proportionnalité annexé au TUE et au TFUE.
+
+Travaux préparatoires :
+
+Sénat. - Proposition de résolution européenne n° 479 (2025-2026) - Est devenue résolution du Sénat le 8 avril 2026 - T.A. n° 84 (2025-2026).
