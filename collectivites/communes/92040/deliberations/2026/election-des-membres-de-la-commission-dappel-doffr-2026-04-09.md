@@ -1,0 +1,12 @@
+# Ville d'Issy-les-Moulineaux : délibération — Election des membres de la Commission d’Appel d’Offres / Commission de la Commande Publique.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2026-04-09
+- Matière : ADMINISTRATION GENERALE
+- Objet : Election des membres de la Commission d’Appel d’Offres / Commission de la Commande Publique.
+- Transmis à la préfecture : 2026-04-17
+- Votants : 49
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjIwNTAsInB1ciI6ImJsb2JfaWQifX0=--401029cbd9030499ab4d537176ac3825702300c3/5%20-%20ADM%20-%20Election%20membres%20CAO-CCP.doc.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
