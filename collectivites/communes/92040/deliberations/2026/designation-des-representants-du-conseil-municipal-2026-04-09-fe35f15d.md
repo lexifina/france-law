@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Désignation des représentants du Conseil municipal au sein des assemblées de copropriétés, des associations syndicales libres et des associations foncières urbaines libres.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2026-04-09
+- Matière : ADMINISTRATION GENERALE
+- Objet : Désignation des représentants du Conseil municipal au sein des assemblées de copropriétés, des associations syndicales libres et des associations foncières urbaines libres.
+- Transmis à la préfecture : 2026-04-20
+- Votants : 49
+- Pour : 37
+- Contre : 7
+- Abstentions : 5
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjIwNzksInB1ciI6ImJsb2JfaWQifX0=--3dc72e88b52f5c9a33f4cf5b9cc032c91a2793ef/19%20-%20ADM%20-%20Copropri%C3%A9t%C3%A9s.doc.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
