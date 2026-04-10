@@ -18,7 +18,7 @@ Barsac
 
 |
 
-25 |
+30 |
 
 Cadillac
 
@@ -96,7 +96,7 @@ Sauternes
 
 |
 
-25 |
+30 |
 
 Anjou-Coteaux de la Loire
 
