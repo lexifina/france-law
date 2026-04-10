@@ -52,10 +52,6 @@ Haïti |
 
 L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinaire. |
 
-Inde |
-
-L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinaire. |
-
 Mali |
 
 L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinaire. |
