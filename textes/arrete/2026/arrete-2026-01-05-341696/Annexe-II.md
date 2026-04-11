@@ -1,7 +1,5 @@
 # Article Annexe II
 
-ANNEXE 2
-
 LISTE ET RÉPARTITION DES COMPÉTENCES DES ÉTABLISSEMENTS ET ASSOCIATIONS AFFILIÉES
 
 Nom |
@@ -72,9 +70,7 @@ X |
 
 X |
 
-France
-
-et étranger |
+France et étranger |
 
 Association des sauveteurs secouristes de la Cotière |
 
@@ -810,7 +806,7 @@ X |
 
 X |
 
-12/42 |
+12, 48 |
 
 Association des sauveteurs secouristes Séveragais |
 
@@ -842,7 +838,7 @@ X |
 
 X |
 
-12/42 |
+12, 48 |
 
 Comité départemental FFSS de l'Aveyron |
 
@@ -874,7 +870,7 @@ X |
 
 X |
 
-12/42 |
+12, 48 |
 
 Association méditerranéenne de sauvetage aquatique |
 
@@ -9742,7 +9738,7 @@ X |
 
 Association pour le développement du sauvetage et du secourisme |
 
-974 |
+976 |
 
 |
 
@@ -9770,7 +9766,7 @@ X |
 
 X |
 
-974 |
+976 |
 
 Tama moana sauvetage et secourisme |
 
