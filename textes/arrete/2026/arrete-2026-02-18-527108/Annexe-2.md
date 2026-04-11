@@ -1,16 +1,18 @@
 # Article Annexe 2
 
-ANNEXE 2
-
 LISTE ET RÉPARTITION DES COMPÉTENCES DES ÉTABLISSEMENTS ET ASSOCIATIONS AFFILIÉES
 
 Nom |
 
-Département d'implantation |
+Département
+
+d'implantation |
 
 Unités d'enseignement autorisées |
 
-Compétences géographique |
+Compétences
+
+géographique |
 
 CEF |
 
@@ -38,7 +40,7 @@ PSC |
 
 GQS |
 
-Fédération nationale de protection civile |
+Fédération Nationale de Protection Civile |
 
 93 |
 
@@ -70,7 +72,7 @@ X |
 
 National |
 
-Protection civile de l'Ain |
+Protection Civile de l'Ain |
 
 1 |
 
@@ -102,7 +104,7 @@ X |
 
 1 |
 
-Protection civile de l'Aisne |
+Protection Civile de l'Aisne |
 
 2 |
 
@@ -134,7 +136,7 @@ X |
 
 2 |
 
-Protection civile de l'Allier |
+Protection Civile de l'Allier |
 
 3 |
 
@@ -166,7 +168,7 @@ X |
 
 3 |
 
-Protection civile des Alpes-de-Haute-Provence |
+Protection Civile des Alpes de Haute-Provence |
 
 4 |
 
@@ -198,7 +200,7 @@ X |
 
 4 |
 
-Protection civile des Hautes-Alpes |
+Protection Civile des Hautes-Alpes |
 
 5 |
 
@@ -230,7 +232,7 @@ X |
 
 5 |
 
-Protection civile des Alpes-Maritimes |
+Protection Civile des Alpes Maritimes |
 
 6 |
 
@@ -262,7 +264,7 @@ X |
 
 6 |
 
-Protection civile des Ardennes |
+Protection Civile des Ardennes |
 
 8 |
 
@@ -294,7 +296,7 @@ X |
 
 8 |
 
-Protection civile de l'Ariège |
+Protection Civile de l'Ariège |
 
 9 |
 
@@ -326,7 +328,7 @@ X |
 
 9 |
 
-Protection civile de l'Aube |
+Protection Civile de l'Aube |
 
 10 |
 
@@ -358,7 +360,7 @@ X |
 
 10 |
 
-Protection civile de l'Aude |
+Protection Civile de l'Aude |
 
 11 |
 
@@ -390,7 +392,7 @@ X |
 
 11 |
 
-Protection civile de l'Aveyron |
+Protection Civile de l'Aveyron |
 
 12 |
 
@@ -422,7 +424,7 @@ X |
 
 12 |
 
-Protection civile des Bouches-du-Rhône |
+Protection Civile des Bouches-du-Rhône |
 
 13 |
 
@@ -454,7 +456,7 @@ X |
 
 13 |
 
-Protection civile du Calvados |
+Protection Civile du Calvados |
 
 14 |
 
@@ -486,7 +488,7 @@ X |
 
 14 |
 
-Protection civile du Cantal |
+Protection Civile du Cantal |
 
 15 |
 
@@ -518,7 +520,7 @@ X |
 
 15 |
 
-Protection civile de la Charente |
+Protection Civile de Charente |
 
 16 |
 
@@ -550,7 +552,7 @@ X |
 
 16 |
 
-Protection civile de la Charente-Maritime |
+Protection Civile de Charente-Maritime |
 
 17 |
 
@@ -582,7 +584,7 @@ X |
 
 17 |
 
-Protection civile du Cher |
+Protection Civile du Cher |
 
 18 |
 
@@ -614,7 +616,7 @@ X |
 
 18 |
 
-Protection civile de la Corrèze |
+Protection Civile de Corrèze |
 
 19 |
 
@@ -646,7 +648,7 @@ X |
 
 19 |
 
-Protection civile de la Corse |
+Protection Civile de Corse |
 
 20 |
 
@@ -678,7 +680,7 @@ X |
 
 20 |
 
-Protection civile de la Côte-d'Or |
+Protection Civile de Côte-d'Or |
 
 21 |
 
@@ -710,7 +712,7 @@ X |
 
 21 |
 
-Protection civile des Côte-d'Armor |
+Protection Civile des Côtes-d'Armor |
 
 22 |
 
@@ -742,7 +744,7 @@ X |
 
 22 |
 
-Protection civile de la Creuse |
+Protection Civile de la Creuse |
 
 23 |
 
@@ -774,7 +776,7 @@ X |
 
 23 |
 
-Protection civile de la Dordogne |
+Protection Civile de la Dordogne |
 
 24 |
 
@@ -806,7 +808,7 @@ X |
 
 24 |
 
-Protection civile du Doubs |
+Protection Civile du Doubs |
 
 25 |
 
@@ -838,7 +840,7 @@ X |
 
 25 |
 
-Protection civile de la Drôme |
+Protection Civile de la Drôme |
 
 26 |
 
@@ -870,7 +872,7 @@ X |
 
 26 |
 
-Protection civile d'Eure-et-Loir |
+Protection Civile d'Eure-et-Loir |
 
 28 |
 
@@ -902,7 +904,7 @@ X |
 
 28 |
 
-Protection civile du Finistère |
+Protection Civile du Finistère |
 
 29 |
 
@@ -934,7 +936,7 @@ X |
 
 29 |
 
-Protection civile du Gard |
+Protection Civile du Gard |
 
 30 |
 
@@ -966,7 +968,7 @@ X |
 
 30 |
 
-Protection civile de la Haute-Garonne |
+Protection Civile de Haute-Garonne |
 
 31 |
 
@@ -998,7 +1000,7 @@ X |
 
 31 |
 
-Protection civile du Gers |
+Protection Civile du Gers |
 
 32 |
 
@@ -1030,7 +1032,7 @@ X |
 
 32 |
 
-Protection civile de la Gironde |
+Protection Civile de Gironde |
 
 33 |
 
@@ -1062,7 +1064,7 @@ X |
 
 33 |
 
-Protection civile de l'Hérault |
+Protection Civile de l'Hérault |
 
 34 |
 
@@ -1094,7 +1096,7 @@ X |
 
 34 |
 
-Protection civile d'Ille-et-Vilaine |
+Protection Civile d'Ille-et-Vilaine |
 
 35 |
 
@@ -1126,7 +1128,7 @@ X |
 
 35 |
 
-Protection civile de l'Indre |
+Protection Civile de l'Indre |
 
 36 |
 
@@ -1158,7 +1160,7 @@ X |
 
 36 |
 
-Protection civile d'Indre-et-Loire |
+Protection Civile d'Indre-et-Loire |
 
 37 |
 
@@ -1190,7 +1192,7 @@ X |
 
 37 |
 
-Protection civile de l'Isère |
+Protection Civile d'Isère |
 
 38 |
 
@@ -1222,7 +1224,7 @@ X |
 
 38 |
 
-Protection civile du Jura |
+Protection Civile du Jura |
 
 39 |
 
@@ -1254,7 +1256,7 @@ X |
 
 39 |
 
-Protection civile des Landes |
+Protection Civile des Landes |
 
 40 |
 
@@ -1286,7 +1288,7 @@ X |
 
 40 |
 
-Protection civile de Loir-et-Cher |
+Protection Civile du Loir-et-Cher |
 
 41 |
 
@@ -1318,7 +1320,7 @@ X |
 
 41 |
 
-Protection civile de la Loire |
+Protection Civile de la Loire |
 
 42 |
 
@@ -1350,7 +1352,7 @@ X |
 
 42 |
 
-Protection civile de la Loire-Atlantique |
+Protection Civile de Loire-Atlantique |
 
 44 |
 
@@ -1382,7 +1384,7 @@ X |
 
 44 |
 
-Protection civile du Loiret |
+Protection Civile du Loiret |
 
 45 |
 
@@ -1414,7 +1416,7 @@ X |
 
 45 |
 
-Protection civile du Lot |
+Protection Civile du Lot |
 
 46 |
 
@@ -1446,7 +1448,7 @@ X |
 
 46 |
 
-Protection civile de Lot-et-Garonne |
+Protection Civile du Lot-et-Garonne |
 
 47 |
 
@@ -1478,7 +1480,7 @@ X |
 
 47 |
 
-Protection civile de Maine-et-Loire |
+Protection Civile du Maine-et-Loire |
 
 49 |
 
@@ -1510,7 +1512,7 @@ X |
 
 49 |
 
-Protection civile de la Manche |
+Protection Civile de la Manche |
 
 50 |
 
@@ -1542,7 +1544,7 @@ X |
 
 50 |
 
-Protection civile de la Marne |
+Protection Civile de la Marne |
 
 51 |
 
@@ -1574,7 +1576,7 @@ X |
 
 51 |
 
-Protection civile de la Haute-Marne |
+Protection Civile de Haute-Marne |
 
 52 |
 
@@ -1606,7 +1608,7 @@ X |
 
 52 |
 
-Protection civile de la Mayenne |
+Protection Civile de la Mayenne |
 
 53 |
 
@@ -1638,7 +1640,7 @@ X |
 
 53 |
 
-Protection civile de Meurthe-et-Moselle |
+Protection Civile de Meurthe-et-Moselle |
 
 54 |
 
@@ -1670,7 +1672,7 @@ X |
 
 54 |
 
-Protection civile de la Meuse |
+Protection Civile de la Meuse |
 
 55 |
 
@@ -1702,7 +1704,7 @@ X |
 
 55 |
 
-Protection civile du Morbihan |
+Protection Civile du Morbihan |
 
 56 |
 
@@ -1734,7 +1736,7 @@ X |
 
 56 |
 
-Protection civile de la Moselle |
+Protection Civile de la Moselle |
 
 57 |
 
@@ -1766,7 +1768,7 @@ X |
 
 57 |
 
-Protection civile de la Nièvre |
+Protection Civile de la Nièvre |
 
 58 |
 
@@ -1798,7 +1800,7 @@ X |
 
 58 |
 
-Protection civile du Nord |
+Protection Civile du Nord |
 
 59 |
 
@@ -1830,7 +1832,7 @@ X |
 
 59 |
 
-Protection civile de l'Oise |
+Protection Civile de l'Oise |
 
 60 |
 
@@ -1862,7 +1864,7 @@ X |
 
 60 |
 
-Protection civile de l'Orne |
+Protection Civile de l'Orne |
 
 61 |
 
@@ -1894,7 +1896,7 @@ X |
 
 61 |
 
-Protection civile du Pas-de-Calais |
+Protection Civile du Pas-de-Calais |
 
 62 |
 
@@ -1926,7 +1928,7 @@ X |
 
 62 |
 
-Protection civile du Puy-de-Dôme |
+Protection Civile du Puy-de-Dôme |
 
 63 |
 
@@ -1958,7 +1960,7 @@ X |
 
 63 |
 
-Protection civile des Pyrénées-Atlantiques |
+Protection Civile des Pyrénées-Atlantiques |
 
 64 |
 
@@ -1990,7 +1992,7 @@ X |
 
 64 |
 
-Protection civile des Hautes-Pyrénées |
+Protection Civile des Hautes-Pyrénées |
 
 65 |
 
@@ -2022,7 +2024,7 @@ X |
 
 65 |
 
-Protection civile des Pyrénées-Orientales |
+Protection Civile des Pyrénées-Orientales |
 
 66 |
 
@@ -2054,7 +2056,7 @@ X |
 
 66 |
 
-Protection civile du Bas-Rhin |
+Protection Civile du Bas-Rhin |
 
 67 |
 
@@ -2086,7 +2088,7 @@ X |
 
 67 |
 
-Protection civile du Haut-Rhin |
+Protection Civile du Haut-Rhin |
 
 68 |
 
@@ -2118,7 +2120,7 @@ X |
 
 68 |
 
-Protection civile du Rhône |
+Protection Civile du Rhône |
 
 69 |
 
@@ -2150,7 +2152,7 @@ X |
 
 69 |
 
-Protection civile de la Haute-Saône |
+Protection Civile de Haute-Saône |
 
 70 |
 
@@ -2182,7 +2184,7 @@ X |
 
 70 |
 
-Protection civile de Saône-et-Loire |
+Protection Civile de Saône-et-Loire |
 
 71 |
 
@@ -2214,7 +2216,7 @@ X |
 
 71 |
 
-Protection civile de la Sarthe |
+Protection Civile de la Sarthe |
 
 72 |
 
@@ -2246,7 +2248,7 @@ X |
 
 72 |
 
-Protection civile de la Savoie |
+Protection Civile de Savoie |
 
 73 |
 
@@ -2278,7 +2280,7 @@ X |
 
 73 |
 
-Protection civile de la Haute-Savoie |
+Protection Civile de Haute-Savoie |
 
 74 |
 
@@ -2310,7 +2312,7 @@ X |
 
 74 |
 
-Protection civile Paris Seine |
+Protection Civile Paris Seine |
 
 75 |
 
@@ -2342,7 +2344,7 @@ X |
 
 75, 92, 93, 94 |
 
-Protection civile Normandie Seine |
+Protection Civile Normandie Seine |
 
 76 |
 
@@ -2372,41 +2374,41 @@ X |
 
 X |
 
-24, 76 |
+27, 76 |
 
-Protection civile de Seine-et-Marne |
-
-77 |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-X |
-
-|
-
-|
-
-|
-
-X |
-
-X |
-
-X |
-
-X |
+Protection Civile de Seine-et-Marne |
 
 77 |
 
-Protection civile des Yvelines |
+|
+
+|
+
+|
+
+|
+
+|
+
+X |
+
+|
+
+|
+
+|
+
+X |
+
+X |
+
+X |
+
+X |
+
+77 |
+
+Protection Civile des Yvelines |
 
 78 |
 
@@ -2438,7 +2440,7 @@ X |
 
 78 |
 
-Protection civile des Deux-Sèvres |
+Protection Civile des Deux-Sèvres |
 
 79 |
 
@@ -2470,7 +2472,7 @@ X |
 
 79 |
 
-Protection civile de la Somme |
+Protection Civile de la Somme |
 
 80 |
 
@@ -2502,7 +2504,7 @@ X |
 
 80 |
 
-Protection civile du Tarn |
+Protection Civile du Tarn |
 
 81 |
 
@@ -2534,7 +2536,7 @@ X |
 
 81 |
 
-Protection civile de Tarn-et-Garonne |
+Protection Civile du Tarn-et-Garonne |
 
 82 |
 
@@ -2566,7 +2568,7 @@ X |
 
 82 |
 
-Protection civile du Var |
+Protection Civile du Var |
 
 83 |
 
@@ -2598,7 +2600,7 @@ X |
 
 83 |
 
-Protection civile de Vaucluse |
+Protection Civile du Vaucluse |
 
 84 |
 
@@ -2630,7 +2632,7 @@ X |
 
 84 |
 
-Protection civile de la Vendée |
+Protection Civile de Vendée |
 
 85 |
 
@@ -2662,7 +2664,7 @@ X |
 
 85 |
 
-Protection civile de la Vienne |
+Protection Civile de la Vienne |
 
 86 |
 
@@ -2694,7 +2696,7 @@ X |
 
 86 |
 
-Protection civile de la Haute-Vienne |
+Protection Civile de Haute-Vienne |
 
 87 |
 
@@ -2726,7 +2728,7 @@ X |
 
 87 |
 
-Protection civile des Vosges |
+Protection Civile des Vosges |
 
 88 |
 
@@ -2758,7 +2760,7 @@ X |
 
 88 |
 
-Protection civile du Territoire de Belfort |
+Protection Civile du Territoire de Belfort |
 
 90 |
 
@@ -2790,7 +2792,7 @@ X |
 
 90 |
 
-Protection civile de l'Essonne |
+Protection Civile de l'Essonne |
 
 91 |
 
@@ -2822,7 +2824,7 @@ X |
 
 91 |
 
-Protection civile du Val-d'Oise |
+Protection Civile du Val-d'Oise |
 
 95 |
 
@@ -2854,7 +2856,7 @@ X |
 
 95 |
 
-Protection civile de la Guadeloupe |
+Protection Civile de Guadeloupe |
 
 971 |
 
@@ -2886,7 +2888,7 @@ X |
 
 971 |
 
-Protection civile de la Martinique |
+Protection Civile de Martinique |
 
 972 |
 
@@ -2918,7 +2920,7 @@ X |
 
 972 |
 
-Protection civile de La Réunion |
+Protection Civile de la Réunion |
 
 974 |
 
@@ -2950,7 +2952,7 @@ X |
 
 974 |
 
-Fédération polynésienne de protection civile |
+Fédération Polynésienne de Protection Civile |
 
 987 |
 
@@ -2982,7 +2984,7 @@ X |
 
 987 |
 
-Protection civile de Nouvelle-Calédonie |
+Protection Civile de Nouvelle-Calédonie |
 
 988 |
 
@@ -3012,4 +3014,4 @@ X |
 
 X |
 
-986 + 988 |
+986, 988 |
