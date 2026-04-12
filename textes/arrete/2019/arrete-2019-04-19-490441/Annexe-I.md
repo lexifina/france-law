@@ -178,7 +178,7 @@ PRODUCTION |
 
 Economie-gestion/ Physique-chimie |
 
-BOUCHER CHARCUTIER TRAITEUR |
+BOUCHER CHARCUTIER TRAITEUR (dernière session 2029) |
 
 Arrêté du 24 juin 2009 modifié |
 
@@ -186,13 +186,37 @@ PRODUCTION |
 
 Environnement économique, juridique et management (1)/ Sciences appliquées (2) |
 
-BOULANGER-PÂTISSIER |
+BOUCHERIE CHARCUTERIE TRAITEUR
+
+(première session 2030)
+
+|
+
+Arrêté du 09/03/26 |
+
+SERVICES |
+
+Economie-droit / Langue vivante B |
+
+BOULANGER-PÂTISSIER (dernière session 2029) |
 
 Arrêté du 2 juillet 2009 modifié |
 
 PRODUCTION |
 
 Environnement économique, juridique et management (1)/ Sciences appliquées (2) |
+
+BOULANGERIE PÂTISSERIE
+
+(première session 2030)
+
+|
+
+Arrêté du 09/03/26 |
+
+SERVICES |
+
+Economie-droit/ Langue vivante B |
 
 CARROSSIER PEINTRE AUTOMOBILE (première session 2026) |
 
