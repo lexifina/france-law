@@ -26,6 +26,24 @@ Semestrielle |
 
 INSEE |
 
+Enquête sur les technologies de l'information et de la communication et le commerce électronique pour les entreprises ayant moins de 10 personnes occupées (TIC-TPE) |
+
+Ponctuelle |
+
+INSEE |
+
+Enquête sur les consommations d'énergie dans le secteur tertiaire (ECET) |
+
+Ponctuelle |
+
+INSEE |
+
+Enquête sur les matières premières pour la fabrication d'aliments composés pour animaux de ferme en 2025 (MPAA 2025) |
+
+Ponctuelle |
+
+SSP |
+
 (*) Voir liste des producteurs.
 
 Emploi, qualification et revenus du travail |
@@ -87,6 +105,16 @@ DARES
 CÉREQ
 
 France compétences
+
+|
+
+Enquête Gestion des ruptures et analyse des fins de CDI (Grafic) |
+
+Ponctuelle |
+
+DARES
+
+UNÉDIC
 
 |
 
@@ -470,7 +498,7 @@ Ministère ou ministère de tutelle le cas échéant |
 
 DARES |
 
-Direction de l'animation de la recherche, des études et des statistiques |
+Direction de l'animation de la recherche et des études statistiques |
 
 Ministère du travail et des solidarités |
 
@@ -561,3 +589,9 @@ Centre d'études et de recherches sur les qualifications |
 Ministère de l'éducation nationale
 
 Ministère du travail et des solidarités |
+
+UNÉDIC |
+
+Union nationale interprofessionnelle pour l'emploi dans l'industrie et le commerce |
+
+|
