@@ -296,6 +296,12 @@ Ponctuelle |
 
 DEPP |
 
+Enquête "Panel d'observation des pratiques et des conditions d'exercice en médecine générale" (vague 2) |
+
+Semestrielle |
+
+DREES |
+
 (*) Voir liste des producteurs.
 
 2.B. - Enquêtes d'initiative régionale
@@ -334,11 +340,7 @@ DREES |
 
 Direction de la recherche, des études, de l'évaluation et des statistiques |
 
-Ministère de la santé, des familles, de l'autonomie et des personnes handicapées
-
-Ministère du travail et des solidarités
-
-Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique |
+Ministère du travail et des solidarités - Ministère de la santé, des familles, de l'autonomie et des personnes handicapées - Ministère de l'action et des comptes publics |
 
 ‍Île-de-France Mobilités |
 
