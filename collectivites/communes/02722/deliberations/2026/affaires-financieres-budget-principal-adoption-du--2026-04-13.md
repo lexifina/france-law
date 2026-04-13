@@ -1,0 +1,9 @@
+# Soissons : délibération — Affaires Financières – Budget Principal – Adoption du Compte Financier Unique 2025
+
+- Collectivité : Soissons
+- SIREN : 210206959
+- Code INSEE : 02722
+- Date : 2026-04-13
+- Matière : AFFAIRES FINANCIERES
+- Objet : Affaires Financières – Budget Principal – Adoption du Compte Financier Unique 2025
+- Jeu de données : https://www.data.gouv.fr/datasets/6995816237a5bc3c03f3939a
