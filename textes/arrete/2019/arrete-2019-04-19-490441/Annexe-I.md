@@ -772,6 +772,16 @@ PRODUCTION |
 
 Environnement économique, juridique et management (1)/ Sciences appliquées (2) |
 
+POISSONNIER ECAILLER TRAITEUR (première session 2030)
+
+|
+
+Arrêté du 09/03/26 |
+
+SERVICES |
+
+Economie-droit/Langue vivante B |
+
 PROCÉDÉS DE LA CHIMIE, DE L'EAU ET DES PAPIERS-CARTONS |
 
 Arrêté du 13 avril 2012 modifié |
