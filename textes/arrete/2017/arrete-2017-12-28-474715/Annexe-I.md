@@ -54,17 +54,17 @@ Conditions complémentaires à satisfaire par tout titulaire d'un diplôme, d'un
 
 Satisfaire aux conditions fixées aux 1°, 2°, 4° et 5° de l'article 14. |
 
-2. Brevet d'études professionnelles spécialité " marin de commerce " délivré conformément à l'arrêté du 22 décembre 2009 susvisé. |
+2. Brevet d'études professionnelles spécialité "marin de commerce"délivré conformément à l'arrêté du 22 décembre 2009 susvisé. |
 
-3. Brevet d'études professionnelles maritimes "pêche"délivré conformément à l'arrêté du 28 mai 2001 portant création d'un brevet d'études professionnelles " pêche. " |
+3. Brevet d'études professionnelles maritimes "pêche" délivré conformément à l'arrêté du 28 mai 2001 portant création d'un brevet d'études professionnelles "pêche." |
 
-4. Brevet d'études professionnelles maritimes spécialité " pêche " délivré conformément à l'arrêté du 22 décembre 2009 susvisé. |
+4. Brevet d'études professionnelles maritimes spécialité "pêche" délivré conformément à l'arrêté du 22 décembre 2009 susvisé. |
 
-5. Baccalauréat professionnel spécialité " conduite et gestion des entreprises maritimes " délivré conformément à l'arrêté du 5 juin 2012 susvisé. |
+5. Baccalauréat professionnel spécialité "conduite et gestion des entreprises maritimes" délivré conformément à l'arrêté du 5 juin 2012 susvisé. |
 
-6. Baccalauréat professionnel spécialité " conduite et gestion des entreprises maritimes " délivré conformément aux dispositions de l'arrêté du 25 juillet 2005 portant création et fixant les modalités de préparation et de délivrance du baccalauréat professionnel spécialité " conduite et gestion des entreprises maritimes ". |
+6. Baccalauréat professionnel spécialité "conduite et gestion des entreprises maritimes "délivré conformément aux dispositions de l'arrêté du 25 juillet 2005 portant création et fixant les modalités de préparation et de délivrance du baccalauréat professionnel spécialité "conduite et gestion des entreprises maritimes". |
 
-7. Brevet de technicien supérieur maritime spécialité " pêche et gestion de l'environnement marin " délivré conformément aux dispositions de l'arrêté du 30 juin 2014 susvisé. |
+7. Brevet de technicien supérieur maritime spécialité"pêche et gestion de l'environnement marin"délivré conformément aux dispositions de l'arrêté du 30 juin 2014 susvisé. |
 
 8. Diplôme de capitaine 200 délivré conformément aux dispositions en vigueur avant le 1er septembre 2015 ou l'ensemble des attestations de moins de cinq ans mentionnant l'obtention des modules n° 1, n° 2 ou n° 3 dans les conditions fixées par l'arrêté du 25 avril 2005 relatif aux conditions de formation et de délivrance du brevet de capitaine 200. |
 
@@ -109,3 +109,9 @@ Conditions complémentaires à satisfaire par tout titulaire d'un diplôme, d'un
 1. Diplôme de capitaine 200 et attestation d'acquisition du module voile |
 
 Satisfaire aux conditions fixées aux 1°, 2°, 4° et 5° de l'article 20. |
+
+2. Brevet de capitaine 200 voile
+
+|
+
+Satisfaire aux conditions fixées aux 1°, 2°, 4° et 5° de l'article 20 |

@@ -58,29 +58,29 @@ Les modules P1-1, P2-1 et NP-1 sont réputés acquis sous réserve d'avoir obten
 
 Les modules M1-1 et M2-1 sont réputés acquis. |
 
-4. Brevet d'études professionnelles spécialité " marin de commerce " délivré conformément à l'arrêté du 22 décembre 2009 susvisé. |
+4. Brevet d'études professionnelles spécialité"marin de commerce"délivré conformément à l'arrêté du 22 décembre 2009 susvisé. |
 
 Satisfaire aux conditions fixées aux 1° et 3° de l'article 5.
 
 Les modules P1-1, P2-1 et NP-1 sont réputés acquis si les conditions suivantes sont satisfaites :
 
--une note supérieure ou égale à 10/20 à l'épreuve " cartes marines et navigation " et une note supérieure ou égale à 10/20 à l'épreuve " navigation-stabilité-description du navire " de l'épreuve EP1 mentionnées en annexe III de l'arrêté du 22 décembre 2009 susvisé pour les candidats issus d'établissements d'enseignement publics ou d'établissements privés sous contrat ;
+-une note supérieure ou égale à 10/20 à l'épreuve"cartes marines et navigation"et une note supérieure ou égale à 10/20 à l'épreuve"navigation-stabilité-description du navire"de l'épreuve EP1 mentionnées en annexe III de l'arrêté du 22 décembre 2009 susvisé pour les candidats issus d'établissements d'enseignement publics ou d'établissements privés sous contrat ;
 
--une note supérieure ou égale à 10/20 à l'épreuve " cartes marines et navigation " et une note supérieure ou égale à 10/20 à l'épreuve " règles de barre-balisage " de l'épreuve EP2 mentionnées en annexe III de l'arrêté du 22 décembre 2009 susvisé pour les candidats libres ou issus d'établissements privés hors contrat.
+-une note supérieure ou égale à 10/20 à l'épreuve"cartes marines et navigation"et une note supérieure ou égale à 10/20 à l'épreuve"règles de barre-balisage"de l'épreuve EP2 mentionnées en annexe III de l'arrêté du 22 décembre 2009 susvisé pour les candidats libres ou issus d'établissements privés hors contrat.
 
 Les modules M1-1 et M2-1 sont réputés acquis. |
 
-5. Brevet d'études professionnelles maritimes " pêche " délivré conformément à l'arrêté du 28 mai 2001 portant création d'un brevet d'études professionnelles " pêches ". |
+5. Brevet d'études professionnelles maritimes"pêche" délivré conformément à l'arrêté du 28 mai 2001 portant création d'un brevet d'études professionnelles "pêches". |
 
 Satisfaire aux conditions fixées aux 1° et 3° de l'article 5.
 
 Le module P1-1 et NP-1 sont réputés acquis sous réserve d'avoir obtenu les conditions de notes fixées à l'article 5 de l'arrêté du 25 avril 2005 relatif aux conditions de formation et de délivrance du brevet de capitaine 200. |
 
-6. Brevet d'études professionnelles maritimes spécialité " pêche " délivré conformément à l'arrêté du 22 décembre 2009 susvisé. |
+6. Brevet d'études professionnelles maritimes spécialité "pêche" délivré conformément à l'arrêté du 22 décembre 2009 susvisé. |
 
 Satisfaire aux conditions fixées aux 1° et 3° de l'article 5.
 
-Les modules P1-1, P2-1 et NP-1 sont réputés acquis si le titulaire a obtenu une note supérieure ou égale à 10/20 à l'épreuve " cartes marines et navigation " et à l'épreuve " Règles de barre, feux, balisage " de l'épreuve EP1 mentionnées en annexe III de l'arrêté du 22 décembre 2009 susvisé.
+Les modules P1-1, P2-1 et NP-1 sont réputés acquis si le titulaire a obtenu une note supérieure ou égale à 10/20 à l'épreuve"cartes marines et navigation"et à l'épreuve"Règles de barre, feux, balisage"de l'épreuve EP1 mentionnées en annexe III de l'arrêté du 22 décembre 2009 susvisé.
 
 Les modules M1-1 et M2-1 sont réputés acquis. |
 
@@ -112,15 +112,15 @@ du diplôme mentionné en colonne (1)
 
 pour la délivrance du brevet de capitaine 200 (2) |
 
-1. Baccalauréat professionnel spécialité " conduite et gestion des entreprises maritimes " délivré conformément à l'arrêté du 5 juin 2012 susvisé. |
+1. Baccalauréat professionnel spécialité "conduite et gestion des entreprises maritimes" délivré conformément à l'arrêté du 5 juin 2012 susvisé. |
 
 Satisfaire aux conditions fixées aux 1°, 2° et 4° à 7° de l'article 12.
 
 Pour les diplômes délivrés après le 1er septembre 2016, il est nécessaire que le candidat soit également titulaire des attestations mentionnées au 2.2.4 de l'article 4. |
 
-2. Baccalauréat professionnel spécialité " conduite et gestion des entreprises maritimes " délivré conformément aux dispositions de l'arrêté du 25 juillet 2005 portant création et fixant les modalités de préparation et de délivrance du baccalauréat professionnel spécialité " conduite et gestion des entreprises maritimes ". |
+2. Baccalauréat professionnel spécialité "conduite et gestion des entreprises maritimes" délivré conformément aux dispositions de l'arrêté du 25 juillet 2005 portant création et fixant les modalités de préparation et de délivrance du baccalauréat professionnel spécialité"conduite et gestion des entreprises maritimes". |
 
-3. Brevet de technicien supérieur maritime spécialité " pêche et gestion de l'environnement marin " délivré conformément aux dispositions de l'arrêté du 30 juin 2014 susvisé. |
+3. Brevet de technicien supérieur maritime spécialité "pêche et gestion de l'environnement marin" délivré conformément aux dispositions de l'arrêté du 30 juin 2014 susvisé. |
 
 4. Diplôme d'études supérieures de la marine marchande délivré conformément aux dispositions de l'arrêté du 25 mars 2002 relatif à la formation conduisant à la délivrance du diplôme d'études supérieures de la marine marchande ou aux dispositions des arrêtés postérieurs. |
 
@@ -139,3 +139,9 @@ Satisfaire aux conditions fixées aux 1°, 2° et 4° à 7° de l'article 12. |
 |
 
 |
+
+8. Brevet de capitaine 200 voile délivré conformément à l'arrêté du 23 mars 2022 relatif à la délivrance de titres de formation professionnelle maritime aux marins relevant de l'activité de course au large.
+
+|
+
+Satisfaire aux conditions fixées aux 1°, 2° et 4° à 7° de l'article 12 et passer avec succès un examen dont les modalités sont définies par le ministre chargé de la mer et portant sur les compétences figurant dans les modules M1-1 et P2-1 du cursus de formation conduisant à la délivrance du diplôme de capitaine 200 et nécessaires pour la navigation sur les navires de charge ou de transport de passagers. |

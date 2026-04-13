@@ -1,21 +1,113 @@
-# Article Annexe 1
+# Article Annexe
 
-RECEVABILITÉ
+I. - Recevabilité des candidatures
 
-Peut être autorisée à candidater toute personne licenciée répondant aux conditions suivantes :
+Toute personne est autorisée à candidater si elle répond aux conditions suivantes :
 
-1. D'avoir 20 ans au moins le jour du dépôt de sa candidature ;
+1. Etre titulaire de la licence club de la FFVoile en cours de validité ;
 
-2. D'être titulaire de la licence club FFVoile en cours de validité ;
+2. Etre titulaire du certificat de formation à la sécurité conforme aux exigences de World Sailing délivré par la FFVoile en cours de validité ;
 
-3. D'être titulaire d'un certificat d'aptitude médicale à la navigation en cours de validité conformément aux dispositions du décret n° 2015-1575 du 3 décembre 2015, délivré par un médecin des gens de mer ;
+3. Etre titulaire du certificat de formation médicale hauturière (FMH) délivré par la FFVoile en cours de validité ;
 
-4. De justifier de sa participation à au moins une des épreuves de course au large (compétitions et records), étant entendu que seuls les coureurs au large ayant terminés lesdites épreuves peuvent candidater au dispositif. Les courses retenues répondent aux catégories d'épreuves 0, 1 et 2 des Règlementations Spéciales Offshore (RSO) de la Fédération Internationale World Sailing, exclusivement pour les classes ULTIM, IMOCA, Ocean Race, Ocean Fifty, Class 40 et Figaro ;
+4. Etre titulaire du certificat restreint de radiotéléphonie (CRR) ;
 
-5. De justifier d'un certificat restreint de radiotéléphoniste ;
+5. Avoir :
 
-6. De justifier du certificat World Sailing en cours de validité ;
+- participé à des courses, records ou tentatives de records relevant des règlementations spéciales offshore (RSO) de la fédération internationale World Sailing telles que publiées par la Fédération française de voile, classées en RSO 2, RSO 1 ou RSO 0 ;
 
-7. De justifier du certificat PSMer en cours de validité ;
+- sur un ou plusieurs des supports suivants, ou sur tout support reconnu équivalent par la FFVoile : Ultim, IMOCA, Ocean Fifty, Class40, Figaro, Mini 6.50 ;
 
-8. De justifier du certificat à la Formation Médicale Hauturière en cours de validité.
+- en exerçant une ou plusieurs des fonctions suivantes, impliquant une responsabilité directe à bord : skipper, co-skipper, chef de quart ou navigateur embarqué.
+
+Les critères d'évaluation de la recevabilité des candidatures sont les suivants :
+
+- courses ou records classés en RSO 2, RSO 1 ou RSO 0 ;
+
+- participation effective à plus de 50 % du parcours ou des étapes, pour les records ou courses de longue durée à étapes ;
+
+- niveau de performance significatif apprécié par une analyse qualitative de la FFVoile, au regard notamment :
+
+1. Des résultats obtenus (courses terminées, bateau et équipage sécurisés, résultats sportifs significatifs) ;
+
+2. Du volume d'expérience en compétition ;
+
+3. Du rôle exercé (skipper, co-skipper, navigateur, chef de quart) dans la performance collective.
+
+Pour les courses, le résultat pris en compte doit correspondre à un classement situé dans la tranche supérieure du classement général, exprimée en pourcentage du nombre total de concurrents classés dans l'épreuve, selon le support et le format de course (solo, double, équipage). Les seuils de classement exigés pour l'éligibilité sont précisés dans le tableau ci-après.
+
+|
+
+Pourcentage de classement sur les épreuves RSO 0 et RS0 1 |
+
+Pourcentage de classement sur les épreuves RSO 2 |
+
+ULTIM |
+
+100 %
+
+Solo/Double/Equipage |
+
+50 %
+
+Solo/Double |
+
+IMOCA |
+
+100 %
+
+Solo/Double/Equipage |
+
+50 %
+
+Solo/Double |
+
+OCEAN FIFTY |
+
+50 %
+
+Solo/Double |
+
+30 %
+
+Solo/Double |
+
+CLASS 40 |
+
+50 %
+
+Solo/Double |
+
+30 %
+
+Solo/Double |
+
+FIGARO |
+
+50 %
+
+Solo/Double |
+
+30 %
+
+Solo |
+
+MINI 6,50 |
+
+50 %
+
+Solo/Double |
+
+30 %
+
+Solo |
+
+Les coureurs de la classe Mini 6.50 devront justifier par ailleurs d'expériences de navigation complémentaires sur Ultim, IMOCA, OCEAN FIFTY, Class 40, Figaro ou équivalents.
+
+II. - Constitution du dossier
+
+Le candidat doit fournir un dossier comprenant :
+
+- un curriculum vitae maritime et sportif détaillé ;
+
+- les justificatifs permettant d'apprécier : les zones de navigation, les conditions de navigation rencontrées, les temps cumulés de navigation, les fonctions à bord, le niveau d'engagement et d'autonomie ; les résultats sportifs obtenus sur des compétitions et/ou des records.
