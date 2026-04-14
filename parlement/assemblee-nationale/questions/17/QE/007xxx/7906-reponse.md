@@ -1,0 +1,9 @@
+# Réponse à la question n° 7906
+
+- Question : [7906](7906.md) — Question n° 7906 — Divagation des chats errants et financement de campagnes de stérilisation
+
+## Réponse
+
+*JO du 2026-04-14, page 3108*
+
+La gestion des animaux errants est une prérogative des maires, comme le dispose le code rural et de la pêche maritime (CRPM) : « Les maires prennent toutes dispositions propres à empêcher la divagation des chiens et des chats. Ils peuvent ordonner que ces animaux soient tenus en laisse et que les chiens soient muselés. Ils prescrivent que les chiens et les chats errants et tous ceux qui seraient saisis sur le territoire de la commune soient conduits à la fourrière, où ils sont gardés pendant les délais fixés aux articles L. 211-25 et L. 211-26 » (article L. 211-22 du CRPM). La loi de finances pour l'année 2024 prévoyait une enveloppe de trois millions d'euros dédiée à la stérilisation des chats errants et des chats domestiques par les collectivités territoriales. Cette enveloppe a permis d'aider 164 communes lauréates de l'appel à projets qui a été créé pour soutenir financièrement les projets de gestion des chats errants portés par les collectivités territoriales et, par transfert de compétences, les établissements publics de coopération intercommunale (EPCI) volontaires. Ces subventions ont été attribuées dans le cadre de l'expérimentation prévue par l'article 12 de la loi du 30 novembre 2021 visant à lutter contre la maltraitance animale et conforter le lien entre les animaux et les hommes. Cette loi prévoit en effet la mise en place de conventions entre l'État et les maires ou les présidents des collectivités territoriales et EPCI volontaires, afin d'améliorer la gestion et la prise en charge des populations de chats errants ou en divagation et d'articuler les compétences et les moyens de chaque signataire dans cet objectif. Un rapport du Gouvernement au Parlement présentera prochainement les résultats de cette expérimentation.
