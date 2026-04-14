@@ -1,0 +1,9 @@
+# Réponse à la question n° 3375
+
+- Question : [3375](3375.md) — Question n° 3375 — Pensions des salariés à carrière mixte
+
+## Réponse
+
+*JO du 2026-04-14, page 3196*
+
+Le calcul de la pension de vieillesse au régime général repose sur l'application d'un taux de liquidation à un salaire annuel moyen proratisé selon la durée d'assurance requise de l'assuré. Afin de déterminer le salaire annuel moyen à prendre en considération, les vingt-cinq meilleures années de salaire accomplies après le 31 décembre 1947 sont prises en considération (I de l'article R. 173-3-2 du Code de la sécurité sociale (CSS) ). Par ailleurs, le nombre d'années à retenir est fonction de l'année de naissance de l'assuré. Il est de dix années pour les assurés nés avant 1934 et progresse à raison d'une année par génération pour atteindre vingt-cinq années à compter de la génération née à partir du 1er janvier 1948 (article R. 351-29-1 du CSS dans sa version antérieure au décret 2025-09 du 30 décembre 2025). Lorsqu'un assuré ne dispose pas du nombre d'années d'activité requises après 1947, il est nécessaire de prendre en considération les années antérieures à cette date afin de pouvoir calculer un salaire annuel moyen. Ainsi, le troisième alinéa de l'article R. 351-29, dans sa version antérieure au décret 2025-09 du 30 décembre 2025, qui demeure applicable aux assurés dont les pensions n'ont pas pris effet au 1er janvier 2026 alors qu'à cette date ils avaient plus de soixante-quinze ans ou avaient été assurés au titre de périodes antérieures de plus de soixante ans (article R. 751-39), ne vise pas la situation de l'assuré qui ne dispose pas de vingt-cinq années d'activité au régime général mais la situation de l'assuré qui ne dispose pas de vingt-cinq années d'activité après 1947. Cette disposition peut avoir pour conséquence de moduler à la hausse ou à la baisse la pension, selon le niveau de salaire des années antérieures à 1947.
