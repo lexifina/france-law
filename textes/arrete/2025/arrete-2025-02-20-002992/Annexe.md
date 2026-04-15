@@ -4,9 +4,7 @@ LISTE DES GROUPES BIOLOGIQUES SIMILAIRES POUVANT DONNER LIEU À LA DÉLIVRANCE P
 
 |
 
-Dénomination
-
-commune
+Dénomination commune
 
 du groupe
 
@@ -20,11 +18,7 @@ biologique
 
 de référence |
 
-Médicament(s)
-
-biologique(s)
-
-similaire(s) |
+Médicament(s) biologique(s) similaire(s) |
 
 Condition(s) spécifiques de substitution
 
@@ -198,7 +192,11 @@ ENOXAPARINE VENIPHARM®
 
 GHEMAXAN®
 
-INHIXA® |
+INHIXA®
+
+ENOXAPARINE EG®
+
+ENOXAPARINE ZENTIVA® |
 
 - Les laboratoires mettent à disposition des dispositifs d'administration factices auprès des professionnels de santé et des patients,
 
@@ -250,7 +248,7 @@ Groupe 10 |
 
 Aflibercept |
 
-EYLEA®* |
+EYLEA® (*) |
 
 AFIVEG®
 
@@ -270,4 +268,38 @@ YESAFILI® |
 
 |
 
-(*) Les spécialités EYLEA 114,3 MG/ML, solution injectable et solution injectable en seringue préremplie n'ont pas de médicament biosimilaire associé.
+Groupe 11 |
+
+Ustékinumab |
+
+STELARA® |
+
+IMULDOSA®
+
+OTULFI®
+
+PYZCHIVA®
+
+STEQEYMA®
+
+USRENTY®
+
+UZPRUVO®
+
+WEZENLA®
+
+YESINTEK® |
+
+- Le prescripteur peut indiquer sur la prescription le type de dispositif médical d'administration à privilégier pour un patient donné,
+
+- Les laboratoires mettent à disposition des dispositifs d'administration factices auprès des professionnels de santé et des patients,
+
+- A l'officine, le pharmacien accompagne le patient à l'apprentissage du nouveau dispositif le cas échéant,
+
+- Le patient peut revenir à la spécialité initialement délivrée si nécessaire, en fonction de ses retours,
+
+- Le prescripteur et le dispensateur veillent à la continuité du traitement selon les indications thérapeutiques mentionnées dans chaque AMM des spécialités. Un échange entre le pharmacien et le patient peut être nécessaire pour garantir une substitution sécurisée en lien avec sa pathologie,
+
+- Les indications thérapeutiques de l'AMM de STELARA et de ses biosimilaires peuvent différer, notamment pour la maladie de Crohn pédiatrique et pour la rectocolite hémorragique. La substitution n'est possible que dans le périmètre de l'AMM de la spécialité délivrée. |
+
+(*) Les spécialités EYLEA 114,3 MG/ML, solution injectable et solution injectable en seringue préremplie, n'ont pas de médicament biosimilaire associé.
