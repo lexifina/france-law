@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260107201
+
+- Question : [SEQ260107201](seq260107201.md) — Micro entreprises dans le secteur du bâtiment
+
+## Réponse
+
+*PME, commerce, artisanat, tourisme et pouvoir d'achat, JO du 2026-04-16, page 1875*
+
+L'essor du régime de la micro-entreprises dans le secteur artisanal soulève des interrogations de la part des professionnels quant à la pérennité de l'artisanat traditionnel et des valeurs qui lui sont associées : emploi, transmission des savoir-faire, reprises d'entreprises, protection sociale, etc. Afin de répondre à ces interrogations, les services du Gouvernement ont lancé des travaux visant à analyser et à objectiver la situation des micro-entreprises dans l'artisanat et à travailler à la mise en place d'un accompagnement plus important pour celles qui souhaitent et peuvent évoluer vers le régime réel. Dans ce cadre, la direction générale des entreprises (DGE) mène des consultations avec plusieurs organisations professionnelles, dont celles du bâtiment. Concernant l'équité concurrentielle et notamment le seuil de franchise en base de TVA, le gouvernement avait présenté dans le cadre des débats sur le projet de loi de finances pour 2026 une solution équilibrée reflétant les positions très différentes exprimées lors de la concertation avec les parties prenantes afin de répondre de façon appropriée aux difficultés rencontrées par les petites entreprises tout en tenant compte des demandes des acteurs de la construction. Cependant, l'adoption de la proposition de loi visant à garantir un cadre fiscal stable, juste et lisible pour nos micro-entrepreneurs et nos petites entreprises, proposant de revenir aux seuils initiaux, ainsi que les amendements adoptés dans le projet de loi de finances 2026 portant la même demande, n'ont pas permis de répondre à la demande du secteur du bâtiment.
