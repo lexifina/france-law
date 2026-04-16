@@ -42,6 +42,14 @@ Article R.* 141-12 du code rural et de la pêche maritime.
 
 |
 
+Autorisation d'un programme d'application par aéronef circulant sans personne à bord de produits phytopharmaceutiques sur les parcelles ou cultures mentionnées au B du I bis ou au C du I ter de l'article L. 253-8 ou d'un programme d'application par aéronef circulant sans personne à bord de produits phytopharmaceutiques à titre d'essai dans les conditions prévues au B du I ter de l'article L. 253-8
+
+|
+
+Art. R. 253-45-2 (1° et 2°) du code rural et de la pêche maritime
+
+|
+
 Agrément prévu au I de l'article L. 254-1 du code rural et de la pêche maritime pour l'exercice des activités dans le domaine des produits phytopharmaceutiques listées au II de cet article |
 
 Article R. 254-15 du code rural et de la pêche maritime
