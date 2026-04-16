@@ -392,7 +392,7 @@ Paris |
 
 Paris |
 
-Paris (10ème), Paris (13ème), Paris (14ème), Paris (17ème). |
+Paris (10ème), Paris (13ème), Paris (14ème). |
 
 Seine-et-Marne |
 
@@ -535,7 +535,3 @@ Yvelines |
 Versailles |
 
 Les Mureaux, Trappes. |
-
-NOTA :
-
-Conformément à l’article 3 de l’arrêté du 12 janvier 2024 (NOR : JUSB2334842A), ces dispositions entrent en vigueur le 1er février 2024.
