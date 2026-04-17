@@ -28,7 +28,7 @@ Postes exigeant la mise en œuvre de la compétence spécifique de sécurité a�
 
 - commandement de la défense aérienne et des opérations aériennes (CDAOA) ;
 
-- équipe de marque " air command and control system " ;
+- équipe de marque "air command and control system" ;
 
 - escadre aérienne de commandement et de conduite projetable (EA2CP) ;
 
@@ -48,7 +48,7 @@ Postes exigeant la mise en œuvre de la compétence spécifique de sécurité a�
 
 - équipe de marque intelligence surveillance reconnaissance.
 
-- escadron d'hélicoptères 1/67 " Pyrénées ".
+- escadron d'hélicoptères 1/67 "Pyrénées".
 
 2° Unités de l'armée de terre :
 
@@ -68,11 +68,13 @@ Postes exigeant la mise en œuvre de la compétence spécifique de sécurité a�
 
 - état-major de la 3e division ;
 
+- état-major de la 19e brigade d'artillerie ;
+
 - base école-Général Navelet ;
 
 - base école-Général Lejay ;
 
-- corps de réaction rapide - France (CRR-Fr) ;
+- 1er corps d'armée ;
 
 - 61e régiment d'artillerie ;
 
@@ -110,19 +112,19 @@ Postes exigeant la mise en œuvre de la compétence spécifique de sécurité a�
 
 - flottille de perfectionnement du surfacier Toulon ;
 
-- patrouilleur de haute mer " Commandant Blaison " ;
+- patrouilleur de haute mer "Commandant Blaison" ;
 
-- patrouilleur de haute mer " Commandant Bouan " ;
+- patrouilleur de haute mer "Commandant Bouan" ;
 
-- patrouilleur de haute mer " Commandant Birot " ;
+- patrouilleur de haute mer "Commandant Birot" ;
 
-- patrouilleur de haute mer " Commandant Ducuing " ;
+- patrouilleur de haute mer "Commandant Ducuing" ;
 
-- patrouilleur de haute mer " Enseigne de vaisseau Jacoubet " ;
+- patrouilleur de haute mer "Enseigne de vaisseau Jacoubet" ;
 
-- patrouilleur de haute mer " Premier-maître l'Her " ;
+- patrouilleur de haute mer "Premier-maître l'Her" ;
 
-- bâtiment de soutien à la plongée " Alizé ".
+- bâtiment de soutien à la plongée "Alizé".
 
 3.1.2. Force de l'aéronautique navale
 
@@ -152,9 +154,9 @@ Postes exigeant la mise en œuvre de la compétence spécifique de sécurité a�
 
 - état-major de la force d'action navale - Commandement de la force aéromaritime de réaction rapide (COMFRMARFOR) ;
 
-- état-major de la force d'action navale - Division " entraînement " ;
+- état-major de la force d'action navale - Division "entraînement" ;
 
-- état-major de la force d'action navale - Antenne de Brest - Division " entraînement ".
+- état-major de la force d'action navale - Antenne de Brest - Division "entraînement".
 
 3.1.4. Zone maritime Atlantique
 
@@ -206,7 +208,7 @@ c) Direction générale de l'armement (DGA)
 
 d) Commissariat au numérique de défense (CND) :
 
--sous-direction “ gouvernance, emploi et pilotage ” du commandement numérique interarmées : section Système de Management de la Sécurité (SMS).
+-sous-direction “gouvernance, emploi et pilotage” du commandement numérique interarmées : section Système de Management de la Sécurité (SMS).
 
 NOTA :
 

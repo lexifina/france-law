@@ -22,6 +22,8 @@ Postes exigeant la mise en œuvre et la maintenance des aéronefs ou la certific
 
 - état-major du commandement des actions spéciales terre (CAST) ;
 
+- inspection de l'armée de terre (IAT) ;
+
 - 1er régiment d'hélicoptères de combat (RHC) ;
 
 - 3e régiment d'hélicoptères de combat (RHC) ;

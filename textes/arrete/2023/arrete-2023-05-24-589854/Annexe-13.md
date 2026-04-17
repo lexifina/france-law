@@ -24,6 +24,8 @@ Postes exigeant la mise en œuvre de la compétence spécifique d'électronicien
 
 - groupe avions de l'armée de terre (GAAT) ;
 
+- état-major du commandement de l'aviation légère de l'armée de terre (COMALAT) ;
+
 - état-major de l'école de l'aviation légère de l'armée de terre ;
 
 - base école-Général Lejay ;
