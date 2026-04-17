@@ -276,8 +276,6 @@ Par exception, les collections qui ont une valeur globale supérieure à 10 000 
 
 La méthode utilisée pour valoriser les biens doit être précisée : évaluation personnelle, valeur d’acquisition (si elle correspond toujours à la valeur actuelle), valeur d’assurance, expertise…
 
-Les biens qui ne doivent pas être déclarés au titre de l’impôt de solidarité sur la fortune (œuvres d’art, biens professionnels) doivent être mentionnés.
-
 Description du bien
 
 |
@@ -412,7 +410,7 @@ Toutes les dettes existant au jour du fait générateur de la déclaration doive
 
 Ceci comprend notamment le passif fiscal, c’est-à-dire toute somme restant due à l’administration fiscale, à la date du fait générateur de la déclaration, alors que la date normale d’acquittement de l’impôt est passée.
 
-En revanche, contrairement aux règles applicables en matière d’impôt de solidarité sur la fortune, les impôts payables au cours de l’année à venir ne doivent pas être mentionnés.
+En revanche, contrairement aux règles applicables en matière d'impôt sur la fortune immobilière, les impôts payables au cours de l’année à venir ne doivent pas être mentionnés.
 
 Identification et adresse du créancier 26
 
