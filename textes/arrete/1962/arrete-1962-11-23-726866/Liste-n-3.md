@@ -1233,3 +1233,105 @@ Yvetot-Baons-le-Comte |
 Seine-Maritime |
 
 Les conditions d'utilisations sont validées par les services de la direction de la sécurité de l'aviation civile Ouest et portées à la connaissance des navigateurs aériens par insertion dans les publications aéronautiques appropriées. |
+
+CONTENU DU DOSSIER À FOURNIR PAR LES EXPLOITANTS DE TRANSPORT PUBLIC PAR AVION
+
+Le dossier est établi pour un ou plusieurs types ou classes d'avions, identifiés conformément à la liste en vigueur publiée par l'Agence européenne de la sécurité aérienne relative aux qualifications de types et mentions liées aux licences.
+
+Le dossier de demande initiale d'autorisation comprend :
+
+- étude de sécurité au travers de laquelle l'exploitant identifie les dangers spécifiques aux opérations sur Saint-Barthélemy et définit des mesures d'atténuation des risques associés. Les dangers considérés couvrent au minimum les thématiques suivantes :
+
+- densité de trafic (piste, aire de trafic, espace aérien environnant) ;
+
+- aérologie ;
+
+- caractéristiques physiques de la piste ;
+
+- plan de descente, zone de toucher des roues en piste 10 ;
+
+- panne d'un équipement pouvant affecter les performances d'atterrissage et de remise de gaz.
+
+L'exploitant démontre l'intégration, dans ses procédures d'exploitation, dans ses conditions d'utilisation de l'aérodrome et dans les programmes de formation de ses pilotes, des mesures d'atténuation identifiées par l'étude de sécurité.
+
+L'exploitant spécifie la politique d'actualisation de l'étude de sécurité et des mesures de gestion des risques, sur la base de l'expérience acquise et de l'exploitation des données des enregistreurs de paramètres de vol lorsque les avions en sont équipés.
+
+- programme de formation des pilotes et conditions de maintien de leur aptitude.
+
+La formation concerne tous les membres d'équipage de conduite amenés à desservir l'aérodrome. De plus, les commandants de bord ainsi que les pilotes amenés, selon les consignes de l'exploitant, à réaliser un décollage ou un atterrissage aux commandes, justifient d'une aptitude reconnue préalablement à la desserte de l'aérodrome par un instructeur expérimenté sur le type ou la classe d'avion envisagé, sauf si le vol s'inscrit dans le cadre d'une formation pratique en vol en vue de la reconnaissance de cette aptitude.
+
+Le programme déterminé par l'exploitant prend en compte les dangers identifiés au travers de l'étude de sécurité et comprend successivement :
+
+- une formation théorique au sol, délivrée à tous les membres d'équipage de conduite amenés à desservir l'aérodrome, relative aux particularités de l'aérodrome et de son environnement et à la connaissance des performances de l'avion. Une formation de rafraîchissement est délivrée si le pilote n'a pas utilisé l'aérodrome en tant que membre d'équipage de conduite au cours des 12 derniers mois ;
+
+- une formation pratique en vol, délivrée à tous les commandants de bord ainsi qu'à tous les pilotes pouvant être amenés, selon les consignes de l'exploitant, à réaliser un décollage ou un atterrissage aux commandes. Cette formation est réalisée à l'occasion de vols d'entraînement dédiés en présence uniquement de l'équipage technique concerné, sans passager, fret ni courrier à bord. Elle est adaptée à l'expérience et à la compétence des pilotes formés, et comprend au minimum :
+
+- trois approches avec atterrissage complet en piste 10 ;
+
+- une approche interrompue en piste 10 ;
+
+- un atterrissage interrompu (balked landing) en piste 10 ;
+
+- si les conditions de vent le permettent, une approche avec atterrissage complet en piste 28 circuit main gauche ;
+
+- si les conditions de vent le permettent, une approche avec atterrissage complet en piste 28 circuit main droite ;
+
+- deux approches interrompues en piste 28 circuit main gauche ;
+
+- deux approches interrompues en piste 28 circuit main droite.
+
+L'instructeur expérimenté possède les privilèges d'instruire sur le type ou la classe concerné, justifie lui-même d'une aptitude, ainsi que d'une expérience significative de l'aérodrome. L'exploitant spécifie les critères de désignation d'un instructeur expérimenté.
+
+La reconnaissance d'aptitude couvre les opérations de décollage en piste 10 et d'atterrissage en pistes 10 et 28. Elle est apposée par l'instructeur ou par l'exploitant sur le carnet de vol du pilote ou tout autre document papier ou numérique équivalent, avec mention du type ou de la classe d'avion concerné parmi la liste en vigueur publiée par l'Agence européenne de la sécurité aérienne relative aux qualifications de types et mentions liées aux licences.
+
+L'aptitude est maintenue par la réalisation d'un atterrissage et d'un décollage sur l'aérodrome de Saint-Barthélemy comme pilote aux commandes au cours des 6 derniers mois. Ce critère est applicable par type ou classe d'avion.
+
+- extraits du manuel d'exploitation comportant les limitations résultant du calcul de performances au décollage en piste 10 et à l'atterrissage en pistes 10 et 28, complétées des données de performances certifiées correspondantes issues du manuel de vol ou de ses suppléments.
+
+Pour l'atterrissage, le moyen retenu est la démonstration de conformité aux exigences suivantes, en fonction de l'état de surface de la piste :
+
+- lorsque les observations et/ou les prévisions météorologiques pertinentes indiquent qu'à l'heure estimée d'arrivée la piste sera sèche :
+
+- la masse de l'avion à l'atterrissage pour l'heure estimée d'atterrissage sur l'aérodrome de Saint-Barthélemy, permet d'effectuer un atterrissage depuis une hauteur de 50 pieds au-dessus du seuil avec arrêt complet de l'avion dans les 70 % de la distance d'atterrissage utilisable ;
+
+- lors de l'établissement de la masse à l'atterrissage d'un avion à pistons ou à turbopropulseur, de configuration maximale en sièges passagers inférieure ou égale à neuf et de masse maximale au décollage inférieure ou égale à 5 700 kg, l'exploitant prend en compte la pente de la piste dans le sens de l'atterrissage conformément aux informations contenues dans le manuel de vol de l'aéronef ; en l'absence d'information dans le manuel de vol la distance d'atterrissage est augmentée de 5 % par tranche de 1 % de pente descendante ;
+
+- lors de l'établissement de la masse à l'atterrissage, l'exploitant prend en compte au maximum 50 % de la composante de face du vent et au minimum 150 % de la composante arrière du vent ;
+
+- la prise en compte des inverseurs de poussée ou de pas d'hélice pour le calcul des performances est autorisée uniquement si ceux-ci sont certifiés ;
+
+- en piste 28 la distance utilisée pour le calcul de la masse autorisée à l'atterrissage peut être constituée de la distance d'atterrissage utilisable majorée de 90 mètres. L'exploitant spécifie dans le dossier les conditions qu'il a mises en place pour ces opérations avec atterrissage court ;
+
+- lorsque les observations et/ou les prévisions météorologiques pertinentes indiquent qu'à l'heure estimée d'arrivée la piste pourrait être mouillée :
+
+- la distance d'atterrissage utilisable est égale ou supérieure à la distance d'atterrissage requise sur piste sèche multipliée par un facteur de 1,15 ;
+
+- une distance d'atterrissage sur une piste mouillée plus courte que celle prévue au point précédent mais non inférieure à celle requise sur piste sèche, peut être utilisée si le manuel de vol de l'aéronef comporte des informations spécifiques supplémentaires relatives aux distances d'atterrissage sur pistes mouillées ;
+
+- extraits du manuel d'exploitation comportant les procédures et consignes d'utilisation suivantes :
+
+- mesures d'atténuation des risques identifiés au travers de l'étude de sécurité ;
+
+- conditions d'attribution de la fonction PF (pilot flying), tâches du PM (pilot monitoring) durant les différentes phases de vol ;
+
+- procédure de réactualisation en vol des performances à l'atterrissage ;
+
+- tolérances techniques d'utilisation de l'avion avec un équipement inopérant pouvant impacter les performances d'atterrissage ou de remise de gaz, conditions de poursuite du vol en cas de panne en vol d'un de ces équipements ;
+
+- conduite du plan de descente en piste 10 ;
+
+- limites basse et haute de la zone de toucher des roues en piste 10, identification explicite des marquages de piste et/ou repères visuels associés à cette zone, politique de remise de gaz et d'atterrissage interrompu ;
+
+- identification explicite du point de non-retour pour l'atterrissage en piste 28 ;
+
+- procédure d'envoi à la direction de la sécurité de l'aviation civile Antilles-Guyane, pour tout événement lié à la desserte de Saint-Barthélemy et qui a présenté ou aurait pu présenter un risque important pour la sécurité aérienne, d'un compte-rendu dans les 72 heures suivant l'événement, et ultérieurement de l'analyse et des actions correctives qui ont le cas échéant été prises.
+
+CONTENU DU DOSSIER DE RENOUVELLEMENT À FOURNIR PAR LES EXPLOITANTS DE TRANSPORT PUBLIC PAR AVION
+
+Le dossier de demande de renouvellement de l'autorisation comprend :
+
+- un bilan d'activité sur l'aérodrome de Saint-Barthélemy sur la période d'exploitation précédemment autorisée ;
+
+- un bilan, le cas échéant, des incidents, incidents graves et accidents survenus lors de cette période ;
+
+- l'étude de sécurité, et le cas échéant les parties du dossier initial, mises à jour de l'expérience acquise en exploitation.
