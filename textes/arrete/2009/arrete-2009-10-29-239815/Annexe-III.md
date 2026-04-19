@@ -2,128 +2,70 @@
 
 MÉDICAMENTS ANTICANCÉREUX ACCESSIBLES AUX VÉTÉRINAIRES AYANT SOUSCRIT LA DÉCLARATION PRÉVUE PAR LE II DE L'ARTICLE R. 5141-112-3 DU CODE DE LA SANTÉ PUBLIQUE
 
-Remarque : la liste des médicaments comporte le médicament de référence et, le cas échéant, ses génériques autorisés à la date de la publication. Dans l'attente de l'actualisation de l'arrêté, ces dispositions s'appliquent à tout nouveau générique substituable aux médicaments de cette liste figurant au répertoire mentionné à l'article R. 5121-8 du code de la santé publique.
+Remarque : la liste comporte la substance active, son dosage et la forme pharmaceutique administrable de référence. Les spécialités pharmaceutiques à usage humain autorisées contenant ces substances actives au dosage et sous la forme pharmaceutique administrable précisés sont accessibles aux vétérinaires ayant souscrit la déclaration prévue par le II de l'article R. 5141-112-3 du code de la santé publique.
 
-Carboplatine
+Actinomycine D 0,5 mg, sous forme de solution injectable.
 
-CARBOPLATINE ACTAVIS 10 mg/ ml, solution pour perfusion.
+Bevacizumab 25 mg/ml, sous forme de solution injectable.
 
-CARBOPLATINE HOSPIRA 10 mg/ ml, solution injectable pour perfusion.
+Bléomycine 15 mg ou 15 000 UI, sous forme de solution injectable.
 
-CARBOPLATINE MYLAN 10 mg/ ml, solution pour perfusion.
+Carboplatine 10 mg/ml sous forme de solution injectable.
 
-CARBOPLATINE TEVA 10 mg/ ml, solution pour perfusion.
+Chlorambucil 2 mg, sous forme de gélules.
 
-CARBOPLATINE WINTHROP 10 mg/ ml, solution pour perfusion.
+Chlorméthine 160 microgramme/g, sous forme de gel.
 
-CARBOPLATINE ACCORD 10 mg/ ml, solution pour perfusion.
+Cisplatine 1 mg/ml ou 10 mg/10 ml ou 25 mg/25 ml sous forme de solution injectable.
 
-CARBOPLATINE SANDOZ 10 mg/ ml, solution pour perfusion.
+Cyclophosphamide 500 mg/ml, 1 000 mg/2 ml, 2 000 mg/4 ml, sous forme de solution injectable.
 
-Cisplatine
+Cytarabine 20 mg/ml ou 50 mg/ml ou100 mg/ml ou 500 mg ou 1 g ou 2 g sous forme de solution injectable.
 
-CISPLATINE MYLAN 1 mg/1 ml, solution à diluer pour perfusion.
+Dacarbazine 100 mg ou 200 mg ou 500 mg ou 1 000 mg sous forme de solution injectable.
 
-CISPLATINE MYLAN 10 mg/10 ml, solution à diluer pour perfusion.
+Dexrazoxane 500 mg ou 20 mg/ml, sous forme de solution injectable.
 
-CISPLATINE MYLAN 25 mg/25 ml, solution à diluer pour perfusion.
+Docetaxel 10 mg/ml ou 20 mg/ml ou 80 mg/4 ml ou 160 mg/8 ml, sous forme de solution injectable.
 
-CISPLATINE TEVA 1 mg/1 ml, solution pour perfusion.
+Doxorubicine 10 mg ou 50 mg ou 2 mg/ml ou 10 mg/5 ml ou 50 mg/25 ml ou 200 mg/100 ml sous forme de solution injectable.
 
-CISPLATINE ACCORD 1 mg/ ml, solution à diluer pour perfusion.
+Epirubicine 2 mg/ml ou 10 mg ou 50 mg, sous forme de solution injectable.
 
-Cytarabine
+Etoposide 20 mg/ml ou 100 mg/5 ml ou 200 mg/10 ml, sous forme de solution injectable ou 50 mg, sous forme de capsules molles.
 
-ARACYTINE 1 g, lyophilisat pour usage parentéral (IV).
+Fluorouracile 50 mg/ml ou 1 000 mg/20 ml ou 5 000 mg/100 ml sous forme de solution injectable.
 
-ARACYTINE 100 mg, poudre et solvant pour solution injectable.
+Gemcitabine 200 mg ou 1 000 mg ou 10 mg/ml ou 38 mg/ml ou 40 mg/ml ou 100 mg/ml, sous forme de solution injectable.
 
-ARACYTINE 2 g (IV), lyophilisat pour usage parentéral.
+Ifosfamide 1 000 mg ou 2 000 mg, sous forme de solution injectable.
 
-ARACYTINE 500 mg, lyophilisat pour usage parentéral.
+Lapatinib 250 mg, sous forme de comprimés.
 
-CYTARABINE EBEWE 20 mg/ ml, solution injectable.
+L-Asparaginase 10 000 UI sous forme de solution injectable.
 
-CYTARABINE EBEWE 50 mg/ ml, solution injectable.
+Lomustine 40 mg sous forme de gélules.
 
-DEPOCYTE 50 mg, suspension injectable.
+Melphalan 50 mg/10 ml sous forme de solution injectable.
 
-Doxorubicine
+Méthotrexate 2,5 % ou 10 % ou 2,5 mg/ml ou 25 mg/ml 100 mg/ml ou 50 mg/2 ml sous forme de solution injectable.
 
-ADRIBLASTINE 10 mg, lyophilisat pour usage parentéral (perfusion), en flacon.
+Mitomycine 10 mg ou 20 mg ou 40 mg, sous forme de solution injectable.
 
-ADRIBLASTINE 50 mg, lyophilisat pour usage parentéral (perfusion), en flacon.
+Mitoxantrone 2 mg/ml ou 10 mg/5 ml ou 20 mg/10 ml sous forme de solution injectable.
 
-CAELYX 2 mg/ ml, solution à diluer pour perfusion.
+Paclitaxel 5 mg/ml ou 6 mg/ml, sous forme de solution injectable.
 
-DOXORUBICINE ACCORD 2 mg/ ml, solution pour perfusion.
+Sorafenib 200 mg, sous forme de comprimés.
 
-DOXORUBICINE ACTAVIS 2 mg/ ml, poudre pour solution pour perfusion.
+Streptozotocine 1 g, sous forme de solution injectable.
 
-DOXORUBICINE EBEWE 2 mg/ ml, solution pour perfusion.
+Temozolomide 5 mg ou 20 mg ou 100 mg ou 140 mg ou 180 mg ou 250 mg, sous forme de gélules.
 
-DOXORUBICINE TEVA 10 mg/5 ml, solution injectable.
+Trametinib 0,5 mg ou 2 mg, sous forme de comprimés ou 0,05 mg/ml, sous forme de solution injectable.
 
-DOXORUBICINE TEVA 200 mg/100 ml, solution injectable.
+Vemurafenib 240 mg, sous forme de comprimés.
 
-DOXORUBICINE TEVA 50 mg/25 ml, solution injectable.
+Vincristine 1 mg ou 1 mg/ml ou 2 mg/2 ml sous forme de solution injectable.
 
-MYOCET 50 mg, poudre et prémélanges pour solution à diluer pour dispersion liposomale pour perfusion.
-
-Lomustine
-
-BELUSTINE 40 mg, gélules.
-
-Melphalan
-
-ALKERAN 50 mg/10 ml, lyophilisat et solution pour usage parentéral (IV).
-
-Méthotrexate
-
-LEDERTREXATE 50 mg/2 ml, solution injectable.
-
-METHOTREXATE TEVA 10 POUR CENT (1 g/10 ml), solution injectable.
-
-METHOTREXATE TEVA 10 POUR CENT (5 g/50 ml), solution injectable.
-
-METHOTREXATE TEVA 2,5 POUR CENT (50 mg/2 ml), solution injectable
-
-METHOTREXATE TEVA 2,5 POUR CENT (500 mg/20 ml), solution injectable.
-
-METHOTREXATE BIODIM 2,5 mg/ ml, solution injectable.
-
-METHOTREXATE BIODIM 25 mg/ ml, solution injectable.
-
-METHOTREXATE MYLAN 2,5 mg/ ml, solution injectable.
-
-METHOTREXATE MYLAN 25 mg/ ml, solution injectable.
-
-METHOTREXATE MYLAN 50 mg/ ml, solution injectable.
-
-METHOTREXATE MYLAN 100 mg/ ml, solution injectable.
-
-Mitoxantrone
-
-ELSEP 2 mg/ ml, solution à diluer pour perfusion.
-
-NOVANTRONE 10 mg/5 ml, solution à diluer pour perfusion.
-
-NOVANTRONE 20 mg/10 ml, solution à diluer pour perfusion.
-
-MITOXANTRONE EBEWE 2 mg/ ml, solution à diluer pour perfusion.
-
-MITOXANTRONE MYLAN 2 mg/ ml, solution à diluer pour perfusion.
-
-MITOXANTRONE TEVA 10 mg/5 ml, solution à diluer pour perfusion.
-
-MITOXANTRONE TEVA 20 mg/10 ml, solution à diluer pour perfusion.
-
-MITOXANTRONE TEVA 25 mg/12,5 ml, solution à diluer pour perfusion.
-
-Vincristine
-
-ONCOVIN 1 mg, solution injectable.
-
-VINCRISTINE HOSPIRA 2 mg/2 ml, solution injectable.
-
-VINCRISTINE TEVA 1 mg/ ml, solution injectable.
+Vinorelbine 10 mg/1 ml ou 50 mg/5 ml sous forme de solution injectable.
