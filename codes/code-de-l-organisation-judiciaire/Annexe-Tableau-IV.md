@@ -556,13 +556,13 @@ Cayenne |
 
 |
 
-Communes d'Awala-Yalimapo, Camopi, Cayenne, Iracoubo, Kourou, Macouria, Matoury, Montsinéry-Tonnegrande, Ouanary, Régina, Remire-Montjoly, Roura, Saint-Élie, Saint-Georges et Sinnamary. |
+Communes de Camopi, Cayenne, Iracoubo, Kourou, Macouria, Matoury, Montsinéry-Tonnegrande, Ouanary, Régina, Remire-Montjoly, Roura, Saint-Élie, Saint-Georges et Sinnamary. |
 
 |
 
 Saint-Laurent-du-Maroni |
 
-Communes d'Apatou, Grand-Santi, Mana, Maripasoula, Papaichton, Saint-Laurent-du-Maroni et Saül. |
+Communes d'Apatou, Awala-Yalimapo, Grand-Santi, Mana, Maripasoula, Papaichton, Saint-Laurent-du-Maroni et Saül. |
 
 Cour d'appel de Chambéry |
 
