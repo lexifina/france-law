@@ -78,6 +78,10 @@ Mayotte |
 
 Mayotte - Marcel Henry |
 
+Mayotte |
+
+Bouyouni M'tsangamouji |
+
 Liste des aérodromes de catégorie B
 
 (Modifiée par décret du 4 octobre 2018)
