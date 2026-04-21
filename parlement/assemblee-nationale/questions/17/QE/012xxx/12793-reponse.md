@@ -1,0 +1,9 @@
+# Réponse à la question n° 12793
+
+- Question : [12793](12793.md) — Question n° 12793 — Accès aux marchés publics pour les TPE et PME
+
+## Réponse
+
+*JO du 2026-04-21, page 3375*
+
+Le seuil de dispense de publicité et de mise en concurrence préalables a fait l'objet de plusieurs relèvements successifs. Initialement fixé à 15 000 euros hors taxes en 2011, il a été porté en 2016 à 25 000 euros hors taxes pour tous les marchés publics, quel que soit leur objet, puis à 40 000 euros hors taxes en 2018. Par dérogation, les marchés publics de travaux bénéficiaient, jusqu'au 31 décembre 2025, d'une mesure temporaire ayant porté le seuil de dispense de publicité et mise en concurrence les concernant à 100 000 euros hors taxes, afin d'aider les acheteurs et les entreprises de bâtiment et travaux publics (BTP) à faire face aux conséquences économiques de la crise sanitaire et de la flambée des prix de l'énergie et des matières premières. Initialement prévue jusqu'au 31 décembre 2022 par la loi n° 2020-1525 du 7 décembre 2020 d'accélération et de simplification de l'action publique (ASAP), cette mesure avait été prorogée jusqu'au 31 décembre 2024 par le décret n° 2022-1683 du 28 décembre 2022, puis jusqu'au 31 décembre 2025 par le décret 2024-1217 du 28 décembre 2024. La mise en œuvre de ce dispositif temporaire a démontré que le seuil de 100 000 euros hors taxes constituait, pour les marchés publics de travaux, un point d'équilibre de nature à concilier les objectifs de simplification et d'allègement de la charge procédurale pesant sur les acheteurs et les entreprises avec les exigences d'efficacité de la commande publique et d'accès des petites et moyennes entreprises (PME) aux marchés publics. Pour ces raisons, le Gouvernement a décidé de pérenniser le dispositif. Tel est l'objet du décret n° 2025-1386 du 29 décembre 2025 modifiant certains seuils relatifs aux marchés publics qui est entré en vigueur au 1er janvier 2026.
