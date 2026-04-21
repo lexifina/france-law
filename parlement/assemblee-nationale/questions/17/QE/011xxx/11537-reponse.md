@@ -1,0 +1,9 @@
+# Réponse à la question n° 11537
+
+- Question : [11537](11537.md) — Question n° 11537 — Application du MACF dans les régions ultramarines
+
+## Réponse
+
+*JO du 2026-04-21, page 3514*
+
+Le gouvernement est pleinement conscient que les territoires ultramarins sont particulièrement exposés aux effets du mécanisme d'ajustement carbone aux frontières (MACF), compte tenu de leurs spécificités structurelles, et notamment de la part de l'approvisionnement en marchandises en provenance de pays situés en dehors de l'Union européenne. Par ailleurs, certains territoires font face à des besoins de reconstruction spécifiques, notamment Mayotte suite aux dommages causés par le cyclone Chido, nécessitant un approvisionnement en matériaux de construction tels que le ciment et l'acier. Compte tenu de la situation particulière de ces territoires, conformément aux considérants 17 et 65 du règlement MACF et à l'article 349 du Traité sur le fonctionnement de l'Union européenne, la France juge indispensable d'adapter les modalités d'application du MACF dans le cas des régions ultrapériphériques, afin de pouvoir exempter les importations de certaines marchandises, ou de réduire substantiellement le coût associé, tout en préservant l'incitation économique à privilégier l'importation des produits les moins carbonés. Dans le cadre des négociations au niveau européen, la France porte un amendement pour permettre aux États membres de déroger à l'application du MACF pour certaines marchandises destinées à un usage local dans une ou plusieurs régions ultrapériphériques dépendant de leur juridiction, après notification auprès de la Commission européenne. Le Gouvernement est ainsi pleinement mobilisé sur ce sujet et continuera de mettre tous les moyens en œuvre pour obtenir une adaptation du MACF permettant de préserver la cohésion économique et sociale des outre-mer tout en maintenant l'ambition climatique européenne.
