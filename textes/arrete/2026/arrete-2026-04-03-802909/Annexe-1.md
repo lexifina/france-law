@@ -372,7 +372,7 @@ ANTILLES CHU Guadeloupe Guadeloupe Département d'anesthésie |
 
 Type 1 |
 
-ANTILLES CHU Guadeloupe Service de psychiatrie |
+ANTILLES CHU Martinique CH Maurice Despinoy (par convention) |
 
 4903 Psychiatrie d'adultes ; addictologie (2 options) |
 
@@ -648,9 +648,9 @@ BOURGOGNE (DIJON) CHU Dijon Radiologie et imagerie médicale diagnostique et th�
 
 |
 
-0048 |
+0060 |
 
-Type 3 |
+Type 1 |
 
 BOURGOGNE (DIJON) CHU Dijon Microbiologie agents transmisssible |
 
@@ -1156,9 +1156,9 @@ FRANCHE-COMTE (BESANCON) CHU Besançon Franche-Comté Chirurgie Pédiatrique |
 
 Type 1 |
 
-FRANCHE-COMTE (BESANCON) CHU Besançon Franche-Comté Hygiène Hospitalière |
+FRANCHE-COMTÉ (BESANÇON) CHU Besançon Franche-Comté Hygiène Hospitalière |
 
-82 Personnels enseignants et hospitaliers de pharmacie en sciences biologiques, fondamentales et cliniques |
+81 Personnels enseignants et hospitaliers de pharmacie en sciences du médicament et des autres produits de santé |
 
 |
 
@@ -2644,7 +2644,7 @@ PARIS SACLAY Assistance Publique-Hopitaux de Paris Institut Gustave Roussy (par 
 
 4701 Hématologie ; transfusion (2 options) |
 
-|
+4701 Hématologie |
 
 |
 
@@ -3258,9 +3258,9 @@ Type 1 |
 
 SORBONNE PARIS NORD (PARIS XIII) AP-HP Hopitaux universitaires Paris Seine St Denis JEAN VERDIER DMU GYNECOLOGIE PERINATALITE PARIS NORD SCE MEDECINE DE LA REPRODUCTION ET PRESERVATION DE LA FERTILITE |
 
-5403 Gynécologie-obstétrique ; gynécologie médicale (2 options) |
+5405 Biologie et médecine du développement et de la reproduction ; gynécologie médicale (2 options) |
 
-5403 Gynécologie médicale |
+5405 Gynécologie médicale |
 
 |
 
@@ -3836,7 +3836,7 @@ VERSAILLES SAINT-QUENTIN-EN-YVELINES AP-HP université Paris Saclay CHU Raymond 
 
 4803 Pharmacologie fondamentale |
 
-4401 Biochimie et biologie moléculaire |
+|
 
 |
 

@@ -88,13 +88,13 @@ Total général |
 
 4302 Radiologie et imagerie médicale |
 
-10 |
+11 |
 
 |
 
 |
 
-1 |
+|
 
 |
 
@@ -184,7 +184,7 @@ Total général |
 
 4502 Parasitologie et mycologie |
 
-2 |
+1 |
 
 |
 
@@ -192,7 +192,7 @@ Total général |
 
 |
 
-|
+1 |
 
 |
 
@@ -760,7 +760,7 @@ Total général |
 
 5403 Gynécologie-obstétrique ; gynécologie médicale (2 options) |
 
-10 |
+9 |
 
 |
 
@@ -772,7 +772,7 @@ Total général |
 
 |
 
-10 |
+9 |
 
 5404 Endocrinologie, diabète et maladies métaboliques ; gynécologie médicale (2 options) |
 
@@ -792,7 +792,7 @@ Total général |
 
 5405 Biologie et médecine du développement et de la reproduction ; gynécologie médicale (2 options) |
 
-2 |
+3 |
 
 |
 
@@ -804,7 +804,7 @@ Total général |
 
 |
 
-2 |
+3 |
 
 5501 Oto-rhino-laryngologie |
 
@@ -936,7 +936,7 @@ Total général |
 
 81 Personnels enseignants et hospitaliers de pharmacie en sciences du médicament et des autres produits de santé |
 
-10 |
+11 |
 
 |
 
@@ -948,11 +948,11 @@ Total général |
 
 |
 
-10 |
+11 |
 
 82 Personnels enseignants et hospitaliers de pharmacie en sciences biologiques, fondamentales et cliniques |
 
-4 |
+3 |
 
 |
 
@@ -964,7 +964,7 @@ Total général |
 
 1 |
 
-7 |
+6 |
 
 Total général |
 
@@ -974,9 +974,9 @@ Total général |
 
 2 |
 
-12 |
+11 |
 
-5 |
+6 |
 
 1 |
 
