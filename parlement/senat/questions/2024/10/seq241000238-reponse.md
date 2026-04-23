@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241000238
+
+- Question : [SEQ241000238](seq241000238.md) — Revendications des pharmaciens d'officine
+
+## Réponse
+
+*Santé, familles, autonomie et personnes handicapées, JO du 2026-04-23, page 2002*
+
+Le Gouvernement soutient le maillage territorial des pharmacies d'officine comme pilier de l'accès aux soins et aux médicaments et le rôle du pharmacien d'officine comme acteur de santé de proximité. Plusieurs mesures récentes, contribuant à l'élargissement des missions des pharmaciens (vaccination, dépistage, accompagnement des patients chroniques), témoignent de cette volonté de conforter leur rôle au sein du parcours de soins. Si la densité officinale a connu une baisse au cours de la dernière décennie, en particulier dans certains territoires ruraux, il convient de rappeler que la France bénéficie encore d'un maillage officinal parmi les plus denses d'Europe, avec 30 officines pour 100 000 habitants en moyenne. La baisse observée, bien que réelle, doit donc être relativisée au regard de cette densité globale. Toutefois, le Gouvernement reste très attentif aux évolutions du maillage territorial des officines. A ce titre, le dispositif "territoires fragiles" vise à soutenir les officines situées dans des territoires en difficulté en proposant une aide financière conventionnelle de 20 000 euros par an. La LFSS 2026 a permis d'élargir les critères d'attribution de cette aide, qui pourra bénéficier à près de 1000 officines particulièrement essentielles pour l'accès aux soins. Le ministère accompagne également la mise en place d'expérimentations innovantes, telles que les « antennes » de pharmacie, dans les communes de moins de 2 500 habitants dont la dernière officine a fermé faute de repreneur. Ces antennes, rattachées à une officine principale, permettent d'assurer une présence pharmaceutique de proximité, tout en garantissant la sécurité et la qualité de la dispensation des médicaments.
