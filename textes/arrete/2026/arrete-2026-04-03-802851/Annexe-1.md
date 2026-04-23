@@ -510,7 +510,7 @@ Type 1 |
 
 BOURGOGNE (DIJON) CHU Dijon Service de biochimie |
 
-82 Personnels enseignants et hospitaliers de pharmacie en sciences biologiques, fondamentales et cliniques |
+4401 Biochimie et biologie moléculaire |
 
 |
 
@@ -762,11 +762,11 @@ Type 1 |
 
 COTE D'AZUR (NICE) CHU Nice |
 
-81 Personnels enseignants et hospitaliers de pharmacie en sciences du médicament et des autres produits de santé |
+82 Personnels enseignants et hospitaliers de pharmacie en sciences biologiques, fondamentales et cliniques |
 
 |
 
-|
+Virologie |
 
 |
 
@@ -2064,7 +2064,7 @@ Type 1 |
 
 PARIS CITE Assistance Publique -Hôpitaux de Paris Institut Curie (par convention) SCE GENETIQUE |
 
-80 Personnels enseignants et hospitaliers de pharmacie en sciences physico-chimiques et ingénierie appliquée à la santé |
+82 Personnels enseignants et hospitaliers de pharmacie en sciences biologiques, fondamentales et cliniques |
 
 |
 

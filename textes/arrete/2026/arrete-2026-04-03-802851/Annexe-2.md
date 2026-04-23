@@ -10,7 +10,9 @@ Type 1 |
 
 Type 2 |
 
-Total général |
+Total
+
+général |
 
 4201 Anatomie |
 
@@ -46,11 +48,11 @@ Total général |
 
 4401 Biochimie et biologie moléculaire |
 
-2 |
+3 |
 
 |
 
-2 |
+3 |
 
 4402 Physiologie |
 
@@ -438,27 +440,27 @@ Total général |
 
 80 Personnels enseignants et hospitaliers de pharmacie en sciences physico-chimiques et ingénierie appliquée à la santé |
 
-6 |
+5 |
 
 |
 
-6 |
+5 |
 
 81 Personnels enseignants et hospitaliers de pharmacie en sciences du médicament et des autres produits de santé |
 
-9 |
+8 |
 
 |
 
-9 |
+8 |
 
 82 Personnels enseignants et hospitaliers de pharmacie en sciences biologiques, fondamentales et cliniques |
 
-9 |
+10 |
 
 |
 
-9 |
+10 |
 
 Total général |
 
