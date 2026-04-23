@@ -174,7 +174,7 @@ Postes désignés sur proposition du directeur ou du chef du service gestionnair
 
 -structure intégrée du maintien en condition opérationnelle des matériels terrestres ;
 
--antenne du centre national des sports de la défense (Gap) ;
+-antenne de l'académie militaire des sports de la défense (Gap) ;
 
 -section recherche spécialisée du centre interarmées de recherche et de recueil du renseignement humain ;
 

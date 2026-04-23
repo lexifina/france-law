@@ -390,7 +390,7 @@ F.-Emplois relevant du groupe 4
 
 33° Chargé des fonctions de sous-directeur technique de la direction du renseignement militaire ;
 
-34° Commandant du centre national des sports de la défense et commissaire aux sports militaires ;
+34° Commandant de l'académie militaire des sports de la défense et commissaire aux sports militaires ;
 
 35° Adjoint au commandant de l'arrondissement maritime de Brest et commandant de la base de défense de Brest-Lorient ;
 
