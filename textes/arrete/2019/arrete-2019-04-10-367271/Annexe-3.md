@@ -2,9 +2,9 @@
 
 PRÉSENTATION DU CONTENU DE LA PLATEFORME GÉNÉRIQUE DU TABLEAU DE BORD DE LA PERFORMANCE DANS LE SECTEUR MÉDICO-SOCIAL : DONNÉES DE CARACTÉRISATION ET INDICATEURS PAR CATÉGORIE D'ÉTABLISSEMENTS ET DE SERVICES
 
-(La mention Tout ESMS renvoie, sauf indication contraire, aux établissements et services figurant en annexe 1)
+(La mention "Tout ESMS" renvoie, sauf indication contraire, aux établissements et services figurant en annexe 1)
 
-I.-Données de caractérisation
+I. - Données de caractérisation
 
 1. Identification de l'ESMS
 
@@ -52,21 +52,41 @@ Date d'ouverture de la structure |
 
 Tout ESMS |
 
-Autorisation spécifique-UHR/ Unité Spécifique Alzheimer/ PASA/ ESA/ Centre de ressource territorial pour personnes âgées |
+Autorisation spécifique-UHR/Unité Spécifique Alzheimer/PASA/ESA/Centre de ressource territorial pour personnes âgées/Equipes spécifiques autres que MND/HSTH |
 
 EHPAD et SSIAD |
+
+Nombres de personnes accompagnées durant l'année par dispositif spécifique (hors HTSH) |
+
+EHPAD et SSIAD |
+
+Nombre de journées réalisées durant l'année en HTSH |
+
+EHPAD |
 
 Plateforme d'accompagnement et de répit des aidants |
 
 EHPAD, IME, EEAP, ITEP, EAM, SSIAD, SESSAD et SAMSAH |
 
+Nombre d'aidants ayant bénéficié d'au moins une action de soutien au 31/12 |
+
+Tout ESMS |
+
 Dispositifs spécifiques destinés aux enfants et adolescents handicapés |
 
-SESSAD, IME et ITEP |
+SESSAD, IME, ITEP, EEAP, IEM, IDV, IDA, IES et CAMSP |
+
+Nombres de personnes accompagnées durant l'année par dispositif spécifique (hors HTSH) |
+
+SESSAD, IME, ITEP, EEAP, IEM, IDV, IDA, IES et CAMSP |
 
 Dispositifs spécifiques destinés aux adultes handicapés |
 
-Etablissements et services pour adultes handicapés |
+MAS, FAM, EAM, EANM, SAVS, ESAT, CRP, SAMSAH, SSIAD |
+
+Nombres de personnes accompagnées durant l'année par dispositif spécifique (hors HTSH) |
+
+MAS, FAM, EAM, EANM, SAVS, ESAT, CRP, SAMSAH, SSIAD |
 
 2. Contractualisation
 
@@ -126,7 +146,7 @@ Items |
 
 ESMS concernés |
 
-Nombres de personnes en liste d'attente au 31 décembre de l'année N-1 |
+Nombres de personnes en liste d'attente au 31 décembre de l'année N - 1 |
 
 Tout ESMS |
 
@@ -138,43 +158,35 @@ Nombre de lits et places |
 
 |
 
--Nombre de lits et places en accueil ou hébergement permanent autorisés au 31 décembre de l'année N-1 |
+- Nombre de lits et places en accueil ou hébergement permanent autorisés au 31 décembre de l'année N - 1 |
 
 Tout ESMS hors CAMSP et CMPP |
 
--Nombre de lits et places en accueil ou hébergement permanent installés au 31 décembre de l'année N-1 |
+- Nombre de lits et places en accueil ou hébergement permanent installés au 31 décembre de l'année N - 1 |
 
 Tout ESMS hors CAMSP et CMPP |
 
--Nombre de lits et places en accueil/ hébergement temporaire autorisés au 31 décembre de l'année N-1 |
+- Nombre de lits et places en accueil/hébergement temporaire autorisés au 31 décembre de l'année N - 1 |
 
-Tout ESMS hors SSIAD, SESSAD, SAMSAH, SAVS,
+Tout ESMS hors SSIAD, SESSAD, SAMSAH, SAVS, CMPP et CAMSP |
 
-CMPP et CAMSP |
+- Nombre de lits et places en accueil/hébergement temporaire installés au 31 décembre de l'année N - 1 |
 
--Nombre de lits et places en accueil/ hébergement temporaire installés au 31 décembre de l'année N-1 |
+Tout ESMS hors SSIAD, SESSAD, SAMSAH, SAVS, CMPP et CAMSP |
 
-Tout ESMS hors SSIAD, SESSAD, SAMSAH, SAVS,
+- Nombre de places en accueil de jour autorisés au 31 décembre de l'année N - 1 |
 
-CMPP et CAMSP |
+Tout ESMS hors SSIAD, SESSAD, SAMSAH, SAVS, CMPP et CAMSP |
 
--Nombre de places en accueil de jour autorisés au 31 décembre de l'année N-1 |
+- Nombre de places en accueil de jour installées au 31 décembre de l'année N - 1 |
 
-Tout ESMS hors SSIAD, SESSAD, SAMSAH, SAVS,
+Tout ESMS hors SSIAD, SESSAD, SAMSAH, SAVS, CMPP et CAMSP |
 
-CMPP et CAMSP |
-
--Nombre de places en accueil de jour installées au 31 décembre de l'année N-1 |
-
-Tout ESMS hors SSIAD, SESSAD, SAMSAH, SAVS,
-
-CMPP et CAMSP |
-
--Nombre de places habilitées à l'aide sociale départementale à l'hébergement |
+- Nombre de places habilitées à l'aide sociale départementale à l'hébergement |
 
 EHPAD |
 
-Nombre de séances/ actes financés sur l'année |
+Nombre de séances/actes financés sur l'année |
 
 CMPP, CAMSP |
 
@@ -182,7 +194,7 @@ Nombre de jours d'ouverture dans l'année de chacun des différents modes de pri
 
 Tout ESMS |
 
-Nombre de jours d'ouverture dans l'année de l'accueil/ hébergement temporaire (en jours calendaires) |
+Nombre de jours d'ouverture dans l'année de l'accueil/hébergement temporaire (en jours calendaires) |
 
 Tout ESMS |
 
@@ -190,13 +202,11 @@ Nombre de jours d'ouverture dans l'année de l'accueil de jour (en jours calenda
 
 Tout ESMS |
 
-Nombre total de résidents ayant bénéficiés d'un
-
-PASA |
+Nombre total de résidents ayant bénéficiés d'un PASA |
 
 EHPAD |
 
-Modalités d'organisation de l'hébergement temporaire et/ ou de l'accueil de jour |
+Modalités d'organisation de l'hébergement temporaire et/ou de l'accueil de jour |
 
 EAM, CRP, EEAP, EANM, EHPAD |
 
@@ -244,7 +254,7 @@ Si démarche de certification complémentaire, selon quel référentiel ? |
 
 Tout ESMS |
 
-Si démarche de certification, à quelle date a-telle été obtenue ? |
+Si démarche de certification, à quelle date a-t- elle été obtenue ? |
 
 Tout ESMS |
 
@@ -252,19 +262,19 @@ Si démarche de certification, sur quelles fonctions ? |
 
 |
 
--Fonctions administratives et de gestion |
+- Fonctions administratives et de gestion |
 
 Tout ESMS |
 
--Fonctions d'accompagnement et/ ou de Soins |
+- Fonctions d'accompagnement et/ou de soins |
 
 Tout ESMS |
 
--Fonctions logistiques ou support |
+- Fonctions logistiques ou support |
 
-Tout ESMS hors SSIAD |
+Tout ESMS |
 
-(2) Maison départementale des personnes handicapées.
+(1) Maison départementale des personnes handicapées.
 
 4. Prestations directes délivrées par l'ESMS : prestation de soins et d'accompagnement
 
@@ -276,11 +286,11 @@ Prestations de soins, de maintien et de développement des capacités fonctionne
 
 |
 
--Soins somatiques et psychiques |
+- Soins somatiques et psychiques |
 
 Tout ESMS |
 
--Rééducation et réadaptation fonctionnelle |
+- Rééducation et réadaptation fonctionnelle |
 
 Tout ESMS |
 
@@ -288,7 +298,7 @@ Prestations en matière d'autonomie |
 
 |
 
--Prestations en matière d'autonomie |
+- Prestations en matière d'autonomie |
 
 Tout ESMS |
 
@@ -296,23 +306,23 @@ Prestations pour la participation sociale |
 
 |
 
--Accompagnements pour exercer ses droits |
+- Accompagnements pour exercer ses droits |
 
 Tout ESMS |
 
--Accompagnements au logement |
+- Accompagnements au logement |
 
 Tout ESMS |
 
--Accompagnements pour exercer ses rôles sociaux |
+- Accompagnements pour exercer ses rôles sociaux |
 
 Tout ESMS |
 
--Accompagnements pour participer à la vie sociale |
+- Accompagnements pour participer à la vie sociale |
 
 Tout ESMS |
 
--Accompagnement en matière de ressources et d'autogestion |
+- Accompagnements en matière de ressources et d'autogestion |
 
 Tout ESMS |
 
@@ -338,31 +348,31 @@ Fonctions gérer, manager, coopérer |
 
 |
 
--Gestion des ressources humaines |
+- Gestion des ressources humaines |
 
 Tout ESMS |
 
--Gestion administratives, budgétaire, financière et comptable |
+- Gestion administrative, budgétaire, financière et comptable |
 
 Tout ESMS |
 
--Réalisation des achats de la structure |
+- Réalisation des achats de la structure |
 
 Tout ESMS |
 
--Information et communication |
+- Information et communication |
 
 Tout ESMS |
 
--Qualité et sécurité |
+- Qualité et sécurité |
 
 Tout ESMS |
 
--Relations avec le territoire |
+- Relations avec le territoire |
 
 Tout ESMS |
 
--Transports liés à gérer, manager, coopérer |
+- Transports liés à gérer, manager, coopérer |
 
 Tout ESMS |
 
@@ -370,19 +380,19 @@ Fonctions logistiques |
 
 |
 
--Fournir les repas |
+- Fournir les repas |
 
 Tout ESMS |
 
--Entretenir le linge |
+- Entretenir le linge |
 
 Tout ESMS |
 
--Transports liés au projet individuel |
+- Transports liés au projet individuel |
 
 Tout ESMS |
 
--Transports des biens et matériels liés à la restauration et à l'entretien du linge |
+- Transports des biens et matériels liés à la restauration et à l'entretien du linge |
 
 Tout ESMS |
 
@@ -412,7 +422,7 @@ Organisation comprenant un pool de remplacement |
 
 Tout ESMS |
 
-Fonction publique/ convention collective |
+Fonction publique/convention collective |
 
 Tout ESMS |
 
@@ -438,111 +448,103 @@ Accès à un groupe électrogène |
 
 Tout ESMS |
 
-Nature du droit d'occupation du ou des bâtiment (s) |
+Nature du droit d'occupation du ou des bâtiment(s) |
 
 Tout ESMS |
 
-Superficie des locaux en m2 |
+Superficie des locaux en m2
+
+|
 
 Tout ESMS |
 
-Superficie des terrains hors emprise foncière en m2 |
+Superficie des terrains hors emprise foncière en m2
+
+|
 
 Tout ESMS |
 
-Nombre de chambres individuelles au 31 décembre de l'année N-1 |
+Nombre de chambres individuelles au 31 décembre de l'année N - 1 |
 
-IME, ITEP, IEM, IDA, EEAP, IDV,
+IME, ITEP, IEM, IDA, EEAP, IDV, EAM, CRP, EANM, EHPAD |
 
-EAM, CRP, EANM, EHPAD |
+Nombre de chambres doubles au 31 décembre de l'année N - 1 |
 
-Nombre de chambres doubles au 31 décembre de l'année N1 |
+IME, ITEP, IEM, IDA, EEAP, IDV, EAM, CRP, EANM, EHPAD |
 
-IME, ITEP, IEM, IDA, EEAP, IDV,
+Nombre de chambres supérieures à deux lits au 31 décembre de l'année N - 1 |
 
-EAM, CRP, EANM, EHPAD |
-
-Nombre de chambres supérieures à deux lits au 31 décembre de l'année N-1 |
-
-IME, ITEP, IEM, IDA, EEAP, IDV,
-
-EAM, CRP, EANM, EHPAD |
+IME, ITEP, IEM, IDA, EEAP, IDV, EAM, CRP, EANM, EHPAD |
 
 Nombre total de bâtiments de l'établissement |
 
 Tout ESMS |
 
-Nombre total de chambres installées au 31 décembre de l'année N-1 |
+Nombre total de chambres installées au 31 décembre de l'année N - 1 |
 
-IME, ITEP, IEM, IDA, EEAP, IDV,
-
-EAM, CRP, EANM, EHPAD |
+IME, ITEP, IEM, IDA, EEAP, IDV, EAM, CRP, EANM, EHPAD |
 
 Caractéristiques de chaque bâtiment destiné à de l'hébergement permanent (jusqu'à 8 bâtiments) :
 
--Nom du bâtiment
+- Nom du bâtiment
 
--Numéro FINESS du bâtiment
+- Numéro FINESS du bâtiment
 
--Contrainte architecturale
+- Contrainte architecturale
 
--Date de construction
+- Date de construction
 
--Date des derniers gros travaux
+- Date des derniers gros travaux
 
--Date de passage de la dernière commission de sécurité
+- Date de passage de la dernière commission de sécurité
 
--Avis favorable de la commission de sécurité
+- Avis favorable de la commission de sécurité
 
--Présente d'amiante
+- Présence d'amiante
 
--Règlementation énergétique appliquée à la construction
+- Règlementation énergétique appliquée à la construction
 
--Mode de chauffage principal
+- Mode de chauffage principal
 
--Présence d'un système de rafraîchissement des locaux
+- Présence d'un système de rafraîchissement des locaux
 
--Isolation des menuiseries extérieures de pièces de vie
+- Isolation des menuiseries extérieures de pièces de vie
 
--Respect de la réglementation accessibilité
+- Respect de la réglementation accessibilité
 
--Nature du droit d'occupation
+- Nature du droit d'occupation
 
--Superficie des locaux en mètres carré (en surface dans œuvre)
+- Superficie des locaux en mètres carrés (en Surface Dans Œuvre)
 
--Nombre de chambres individuelles
+- Nombre de chambres individuelles
 
--Nombre de chambres doubles
+- Nombre de chambres doubles
 
--Nombre de chambres supérieures à deux lits
+- Nombre de chambres supérieures à deux lits
 
--Nombre total de chambres
+- Nombre total de chambres
 
--Nombre total de lits |
+- Nombre total de lits
 
-IME, ITEP, IEM, IDA, EEAP, IDV,
+- Nombre de chambres avec sanitaires complets (lavabo, douche et toilettes)
 
-EAM, CRP, EANM et EHPAD |
+- Nombre de chambres avec sanitaires partiels (lavabo et toilettes)
 
--Nombre de chambres avec sanitaire complet (lavabo, douche et toilettes)
+- Nombre de chambres sans sanitaires
 
--Nombre de chambres avec sanitaires partiel (lavabo et toilettes)
+- Type d'ERP du bâtiment (J ou U) |
 
--Nombre de chambres sans sanitaire
-
--Type d'ERP du bâtiment (J ou U) |
-
-|
+IME, ITEP, IEM, IDA, EEAP, IDV, EAM, CRP, EANM et EHPAD |
 
 Organisation des transports |
 
 Tout ESMS hors SSIAD |
 
-Nombre de véhicules adaptés au 31 décembre de l'année N1 |
+Nombre de véhicules adaptés au 31 décembre de l'année N - 1 |
 
 Tout ESMS |
 
-Nombre de véhicules (hors adaptés) au 31 décembre de l'année N-1 |
+Nombre de véhicules (hors adaptés) au 31 décembre de l'année N - 1 |
 
 Tout ESMS |
 
@@ -550,7 +552,7 @@ Accessibilité au transport collectif |
 
 Tout ESMS |
 
-Plateau technique/ Equipement en propre |
+Plateau technique/Equipement en propre |
 
 Tout ESMS |
 
@@ -572,9 +574,7 @@ Partenariat avec un réseau de santé |
 
 Tout ESMS |
 
-Partenariat avec un ou des dispositifs d'appui à la coordination des parcours de santé mentionné à l'article L. 6327-1 du code de la santé publique
-
-|
+Partenariat avec un ou des dispositifs d'appui à la coordination des parcours de santé mentionné à l'article L. 6327-1 du code de la santé publique |
 
 Tout ESMS |
 
@@ -602,7 +602,7 @@ Si oui, précisez la nature de ces missions d'appui-ressource |
 
 Tout ESMS |
 
-(3) Hospitalisation à domicile.
+(1) Hospitalisation à domicile.
 
 9. Programmation du cycle des évaluations
 
@@ -612,19 +612,19 @@ ESMS concernés |
 
 Pilotage de la démarche qualité :
 
--Votre établissement s'est-il organisé pour conduire la démarche d'amélioration de la qualité, en vue de la prochaine évaluation programmée par les autorités ?
+- Votre établissement s'est-il organisé pour conduire la démarche d'amélioration de la qualité, en vue de la prochaine évaluation programmée par les autorités ?
 
--Avez-vous engagé une démarche d'autoévaluation dans la perspective de la prochaine évaluation programmée par les autorités ?
+- Avez-vous engagé une démarche d'autoévaluation dans la perspective de la prochaine évaluation programmée par les autorités ?
 
--Date du dernier rapport d'évaluation |
+- Date du dernier rapport d'évaluation |
 
 Tout ESMS |
 
 Formalisation et suivi :
 
--La politique d'amélioration continue de la qualité est-elle formalisée ?
+- La politique d'amélioration continue de la qualité est-elle formalisée ?
 
--Les actions menées dans ce cadre sont-elles retracées chaque année dans le rapport d'activité de l'établissement ? |
+- Les actions menées dans ce cadre sont-elles retracées chaque année dans le rapport d'activité de l'établissement ? |
 
 Tout ESMS |
 
@@ -638,9 +638,11 @@ Commentaires et remarques |
 
 Tout ESMS |
 
-II.-Indicateurs
+II. - Indicateurs
 
-Axe 1 : Prestations de soins et d'accompagnement pour les personnes
+Axe 1
+
+Prestations de soins et d'accompagnement pour les personnes
 
 Items |
 
@@ -662,7 +664,7 @@ Profil des personnes accompagnées : répartition en fonction des types de défi
 
 Tout ESMS hors EHPAD |
 
-Durée moyenne de séjour/ d'accompagnement des personnes sorties définitivement au cours de l'année |
+Durée moyenne de séjour/d'accompagnement des personnes sorties définitivement au cours de l'année |
 
 Tout ESMS |
 
@@ -692,47 +694,33 @@ Tout ESMS |
 
 Taux d'hospitalisation complète |
 
-Tout ESMS hors SSIAD, SESSAD,
-
-SAMSAH, CMPP, CAMSP, SAVS et ESAT |
+Tout ESMS hors SSIAD, SESSAD, SAMSAH, CMPP, CAMSP, SAVS et ESAT |
 
 Taux de réalisation de l'activité |
 
-Tout ESMS hors SSIAD, SESSAD,
-
-SAMSAH, SAVS, CAMSP et CMPP |
+Tout ESMS hors SSIAD, SESSAD, SAMSAH, SAVS, CAMSP et CMPP |
 
 Taux de réalisation de l'activité |
 
 CAMSP et CMPP |
 
-Taux d'occupation des lits ou places autorisés
-
-(accompagnement permanent) |
+Taux d'occupation des lits ou places autorisés (accompagnement permanent) |
 
 Tout ESMS hors CAMSP et CMPP |
 
-Taux d'occupation des lits ou places autorisés
+Taux d'occupation des lits ou places autorisés (hébergement temporaire) |
 
-(hébergement temporaire) |
-
-Tout ESMS hors SSIAD, SESSAD,
-
-SAMSAH, SAVS, CAMSP et CMPP |
+Tout ESMS hors SSIAD, SESSAD, SAMSAH, SAVS, CAMSP et CMPP |
 
 Taux d'occupation des lits ou places autorisés (accueil de jour) |
 
-Tout ESMS hors SSIAD, SESSAD,
-
-SAMSAH, SAVS, CAMSP et CMPP |
+Tout ESMS hors SSIAD, SESSAD, SAMSAH, SAVS, CAMSP et CMPP |
 
 Nombre moyen de journées d'absence de personnes accompagnées sur la période |
 
-Tout ESMS hors SSIAD, SESSAD,
+Tout ESMS hors SSIAD, SESSAD, SAMSAH, SAVS, CAMSP et CMPP |
 
-SAMSAH, SAVS, CAMSP et CMPP |
-
-Part des actes/ séance programmées non réalisés |
+Part des actes/séance programmées non réalisés |
 
 CAMSP, CMPP |
 
@@ -740,21 +728,25 @@ File active des personnes accompagnée sur la période |
 
 Tout ESMS |
 
-Taux d'admission sur les lits/ places |
+Part des enfants en situation de handicap ayant pu changer au moins une fois de modalités d'accueil pendant l'année |
+
+ITEP, IME, IEM, SESSAD, IDA, IDV, EEAP, IES |
+
+Part des situations complexes dans la file active |
+
+Tout ESMS hors EHPAD et SSIAD |
+
+Taux d'admission sur les lits/places |
 
 Tout ESMS hors CAMSP et CMPP |
 
 Taux d'admission sur lits ou places en accueil ou hébergement temporaire |
 
-Tout ESMS hors SSIAD, SESSAD,
-
-SAMSAH, SAVS, CAMSP et CMPP |
+Tout ESMS hors SSIAD, SESSAD, SAMSAH, SAVS, CAMSP et CMPP |
 
 Taux d'admission sur places, en accueil de jour |
 
-Tout ESMS hors SSIAD, SESSAD,
-
-SAMSAH, SAVS, CAMSP et CMPP |
+Tout ESMS hors SSIAD, SESSAD, SAMSAH, SAVS, CAMSP et CMPP |
 
 Taux de rotation des personnes accompagnées |
 
@@ -762,9 +754,7 @@ Tout ESMS hors CAMSP et CMPP |
 
 Taux de rotation des personnes accompagnées en hébergement temporaire |
 
-Tout ESMS hors SSIAD, SESSAD,
-
-SAMSAH, SAVS, CAMSP et CMPP |
+Tout ESMS hors SSIAD, SESSAD, SAMSAH, SAVS, CAMSP et CMPP |
 
 Taux de rotation des personnes accompagnées en accueil de jour |
 
@@ -774,7 +764,7 @@ Part d'interventions simultanées Aide à domicile et soins |
 
 SSIAD |
 
-Taux des usagers avec un passage le weekend |
+Répartition des heures |
 
 SSIAD |
 
@@ -782,7 +772,9 @@ Taux des usagers avec plusieurs passages par jour |
 
 SSIAD |
 
-Axe 2 : Ressources humaines
+Axe 2
+
+Ressources humaines
 
 Items |
 
@@ -820,13 +812,11 @@ Nombre de salariés ayant une qualification conforme au poste occupé |
 
 Tout ESMS |
 
-Présence d'un (e) infirmier (e) de nuit, éventuellement sous la forme d'une astreinte mutualisée entre plusieurs établissements |
+Présence d'un(e) infirmier(e) de nuit, éventuellement sous la forme d'une astreinte mutualisée entre plusieurs établissements |
 
 EHPAD |
 
-Présence effective d'un médecin coordonnateur au sein de l'établissement à hauteur de l'effectif minimal prévu par le code de l'action sociale et des familles
-
-|
+Présence effective d'un médecin coordonnateur au sein de l'établissement à hauteur de l'effectif minimal prévu par le code de l'action sociale et des familles |
 
 EHPAD |
 
@@ -842,11 +832,17 @@ Nombre d'heures de formation par personnel |
 
 Tout ESMS |
 
+Part des professionnels formés à l'autodétermination |
+
+|
+
 Répartition du personnel par diplôme |
 
 Tout ESMS |
 
-Axe 3 : Finances et budget
+Axe 3
+
+Finances et budget
 
 Items |
 
@@ -900,7 +896,9 @@ Structure des dépenses financées par la dotation de soins |
 
 EHPAD |
 
-Axe 4 : Objectifs : le système d'information et le développement durable
+Axe 4
+
+Objectifs : le système d'information et le développement durable
 
 Items |
 
@@ -910,27 +908,27 @@ ESMS concernés |
 
 Tout ESMS |
 
--Socle garantissant le bon fonctionnement du SI : |
+Socle garantissant le bon fonctionnement du SI : |
 
 Tout ESMS |
 
--gouvernance SI ; |
+- gouvernance SI ; |
 
 Tout ESMS |
 
--moyens alloués au SI ; |
+- moyens alloués au SI ; |
 
 Tout ESMS |
 
--équipement SI ; |
+- équipement SI ; |
 
 Tout ESMS |
 
--sécurité SI ; |
+- sécurité SI ; |
 
 Tout ESMS |
 
--capacité d'échange et de partage de l'ESMS. |
+- capacité d'échange et de partage de l'ESMS. |
 
 Tout ESMS |
 
@@ -938,15 +936,15 @@ Usage du SI dans l'ESMS : |
 
 Tout ESMS |
 
--fonction pilotage ; |
+- fonction pilotage ; |
 
 Tout ESMS |
 
--fonctions supports ; |
+- fonctions supports ; |
 
 Tout ESMS |
 
--dossier informatisé de l'usager. |
+- dossier informatisé de l'usager. |
 
 Tout ESMS |
 
@@ -958,7 +956,7 @@ Volet gouvernance : |
 
 Tout ESMS |
 
--intégration des enjeux du développement durable dans les projets majeurs de la structure. |
+- intégration des enjeux du développement durable dans les projets majeurs de la structure. |
 
 Tout ESMS |
 
@@ -966,7 +964,7 @@ Volet social : |
 
 Tout ESMS |
 
--qualité de vie au travail. |
+- qualité de vie au travail. |
 
 Tout ESMS |
 
@@ -974,15 +972,15 @@ Volet environnemental : |
 
 Tout ESMS |
 
--consommation d'énergie au mètre carré ; |
+- consommation d'énergie au mètre carré ; |
 
 Tout ESMS |
 
--politique de gestion des déchets. |
+- politique de gestion des déchets. |
 
 Tout ESMS |
 
--composition de la flotte de véhicules |
+- composition de la flotte de véhicules |
 
 SSIAD, SAMSAH, SAVS et SESSAD |
 
@@ -990,7 +988,7 @@ Volet économique : |
 
 Tout ESMS |
 
--politique d'achat |
+- politique d'achat |
 
 Tout ESMS |
 

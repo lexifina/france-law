@@ -2,7 +2,7 @@
 
 PRÉSENTATION DU CONTENU DE LA PLATEFORME SPÉCIFIQUE AUX SERVICES AUTONOMIE À DOMICILE DU TABLEAU DE BORD DE LA PERFORMANCE DANS LE SECTEUR MÉDICO-SOCIAL : DONNÉES DE CARACTÉRISATION ET INDICATEURS PAR CATÉGORIE D'ÉTABLISSEMENTS ET DE SERVICES
 
-I.-Données de caractérisation
+I. - Données de caractérisation
 
 1. Identification de l'ESMS
 
@@ -11,6 +11,10 @@ Items |
 ESMS concernés |
 
 Sources de financement |
+
+SAA, SAAS |
+
+Habilitation à l'aide sociale |
 
 SAA, SAAS |
 
@@ -26,7 +30,11 @@ Date d'ouverture de la structure |
 
 SAA, SAAS |
 
-Autorisation spécifique (ESA, Centre de ressource territorial pour personnes âgées) |
+Autorisation spécifique (ESA, Centre de ressource territorial pour personnes âgées, équipes spécifiques autres que MND) |
+
+SAA, SAAS |
+
+Nombre de personnes accompagnées par autorisation spécifique |
 
 SAA, SAAS |
 
@@ -76,7 +84,7 @@ Items |
 
 ESMS concernés |
 
-Nombre de personnes accompagnées disposant d'une orientation de la MDPH (2) au 31 décembre de l'année N-1 |
+Nombre de personnes accompagnées disposant d'une orientation de la MDPH (2) au 31 décembre de l'année N - 1 |
 
 SAA, SAAS |
 
@@ -96,7 +104,7 @@ Charte des droits et libertés de la personne accueillie : annexée au livret d'
 
 SAA, SAAS |
 
-Contrat de séjour ou document individuel de prise en charge : date de la dernière actualisation |
+Contrat de séjour ou document individuel de prise en charge : Date de la dernière actualisation |
 
 SAA, SAAS |
 
@@ -104,15 +112,15 @@ Liste des personnes qualifiées : annexée au livret d'accueil |
 
 SAA, SAAS |
 
-Règlement de fonctionnement : date de la dernière actualisation |
+Règlement de fonctionnement : Date de la dernière actualisation |
 
 SAA, SAAS |
 
-Conseil de la vie sociale ou autre forme de participation : date de la dernière réunion |
+Conseil de la vie sociale ou autre forme de participation : Date de la dernière réunion |
 
 SAA, SAAS |
 
-Projet d'établissement ou de service : date de la dernière actualisation |
+Projet de service : Date de la dernière actualisation |
 
 SAA, SAAS |
 
@@ -120,7 +128,7 @@ Qualité et gestion des risques |
 
 |
 
-Critères d'admission : les critères d'admission dans l'établissement ou le service sont formalisés dans le projet d'établissement ou de service |
+Critères d'admission : Les critères d'admission dans l'établissement ou le service sont formalisés dans le projet de service |
 
 SAA, SAAS |
 
@@ -136,19 +144,7 @@ Si démarche de certification complémentaire, selon quel référentiel ? |
 
 SAA, SAAS |
 
-Si démarche de certification, à quelle date a-telle été obtenue ? |
-
-SAA, SAAS |
-
-Si démarche de certification, sur quelles fonctions ? |
-
-|
-
--Fonctions administratives et de gestion |
-
-SAA, SAAS |
-
--Fonctions d'accompagnement et/ ou de soins |
+Si démarche de certification, à quelle date a-t-elle été obtenue ? |
 
 SAA, SAAS |
 
@@ -172,11 +168,11 @@ Prestations de soins, de maintien et de développement des capacités fonctionne
 
 |
 
--Soins somatiques et psychiques |
+- Soins somatiques et psychiques |
 
 SAAS |
 
--Rééducation et réadaptation fonctionnelle |
+- Rééducation et réadaptation fonctionnelle |
 
 SAAS |
 
@@ -184,7 +180,7 @@ Prestations en matière d'autonomie |
 
 |
 
--Prestations en matière d'autonomie |
+- Prestations en matière d'autonomie |
 
 SAA, SAAS |
 
@@ -192,23 +188,23 @@ Prestations pour la participation sociale |
 
 |
 
--Accompagnements pour exercer ses droits |
+- Accompagnements pour exercer ses droits |
 
 SAA, SAAS |
 
--Accompagnements au logement |
+- Accompagnements au logement |
 
 SAA, SAAS |
 
--Accompagnements pour exercer ses rôles sociaux |
+- Accompagnements pour exercer ses rôles sociaux |
 
 SAA, SAAS |
 
--Accompagnements pour participer à la vie sociale |
+- Accompagnements pour participer à la vie sociale |
 
 SAA, SAAS |
 
--Accompagnement en matière de ressources et d'autogestion |
+- Accompagnements en matière de ressources et d'autogestion |
 
 SAA, SAAS |
 
@@ -234,31 +230,23 @@ Fonctions gérer, manager, coopérer |
 
 |
 
--Gestion des ressources humaines |
+- Gestion des ressources humaines |
 
 SAA, SAAS |
 
--Gestion administratives, budgétaire, financière et comptable |
+- Gestion administrative, budgétaire, financière et comptable |
 
 SAA, SAAS |
 
--Réalisation des achats de la structure |
+- Réalisation des achats de la structure |
 
 SAA, SAAS |
 
--Information et communication |
+- Qualité et sécurité |
 
 SAA, SAAS |
 
--Qualité et sécurité |
-
-SAA, SAAS |
-
--Relations avec le territoire |
-
-SAA, SAAS |
-
--Transports liés à gérer, manager, coopérer |
+- Relations avec le territoire |
 
 SAA, SAAS |
 
@@ -284,7 +272,7 @@ Organisation comprenant un pool de remplacement |
 
 SAA, SAAS |
 
-Fonction publique/ convention collective |
+Fonction publique/convention collective |
 
 SAA, SAAS |
 
@@ -306,15 +294,17 @@ Etablissement mono-bâtiment |
 
 SAA, SAAS |
 
-Superficie des locaux en m2 |
+Superficie des locaux en m2
+
+|
 
 SAA, SAAS |
 
-Nombre de véhicules adaptés au 31 décembre de l'année N-1 |
+Nombre de véhicules adaptés au 31 décembre de l'année N - 1 |
 
 SAA, SAAS |
 
-Nombre de véhicules (hors adaptés) au 31 décembre de l'année N-1 |
+Nombre de véhicules (hors adaptés) au 31 décembre de l'année N - 1 |
 
 SAA, SAAS |
 
@@ -328,9 +318,7 @@ Partenariat avec un réseau de santé |
 
 SAA, SAAS |
 
-Partenariat avec un ou des dispositifs d'appui à la coordination des parcours de santé mentionné à l'article L. 6327-1 du code de la santé publique
-
-|
+Partenariat avec un ou des dispositifs d'appui à la coordination des parcours de santé mentionné à l'article L. 6327-1 du code de la santé publique |
 
 SAA, SAAS |
 
@@ -350,7 +338,7 @@ Mission d'appui-ressource sur le territoire et nature de cette mission |
 
 SAA, SAAS |
 
-(2) Hospitalisation à domicile.
+(3) Hospitalisation à domicile.
 
 9. Programmation du cycle des évaluations
 
@@ -360,19 +348,19 @@ ESMS concernés |
 
 Pilotage de la démarche qualité :
 
--Votre établissement s'est-il organisé pour conduire la démarche d'amélioration de la qualité, en vue de la prochaine évaluation programmée par les autorités ?
+- Votre établissement s'est-il organisé pour conduire la démarche d'amélioration de la qualité, en vue de la prochaine évaluation programmée par les autorités ?
 
--Avez-vous engagé une démarche d'autoévaluation dans la perspective de la prochaine évaluation programmée par les autorités ?
+- Avez-vous engagé une démarche d'autoévaluation dans la perspective de la prochaine évaluation programmée par les autorités ?
 
--Date du dernier rapport d'évaluation |
+- Date du dernier rapport d'évaluation |
 
 SAA, SAAS |
 
 Formalisation et suivi :
 
--La politique d'amélioration continue de la qualité est-elle formalisée ?
+- La politique d'amélioration continue de la qualité est-elle formalisée ?
 
--Les actions menées dans ce cadre sont-elles retracées chaque année dans le rapport d'activité de l'établissement ? |
+- Les actions menées dans ce cadre sont-elles retracées chaque année dans le rapport d'activité de l'établissement ? |
 
 SAA, SAAS |
 
@@ -386,9 +374,11 @@ Commentaires et remarques |
 
 SAA, SAAS |
 
-II.-Indicateurs
+II. - Indicateurs
 
-Axe 1 : Prestations de soins et d'accompagnement pour les personnes
+Axe 1
+
+Prestations de soins et d'accompagnement pour les personnes
 
 Items |
 
@@ -422,7 +412,7 @@ Répartition des personnes accompagnées sorties définitivement sur l'année pa
 
 SAA, SAAS |
 
-File active des personnes accompagnée sur la période |
+File active des personnes accompagnées sur la période |
 
 SAA, SAAS |
 
@@ -470,7 +460,9 @@ Pourcentage des usagers bénéficiant d'un plan d'aide OSCAR |
 
 SAA, SAAS |
 
-Axe 2 : Ressources humaines
+Axe 2
+
+Ressources humaines
 
 Items |
 
@@ -484,7 +476,7 @@ Taux de prestations externes sur les prestations directes |
 
 SAA, SAAS |
 
-Taux de prestations externes sur les prestations directes |
+Taux de prestations externes sur les prestations indirectes |
 
 SAA, SAAS |
 
@@ -524,7 +516,9 @@ Taux de modulation du temps de travail |
 
 SAA, SAAS |
 
-Axe 3 : Finances et budget
+Axe 3
+
+Finances et budget
 
 Items |
 
@@ -562,7 +556,9 @@ Taux d'endettement |
 
 SAA, SAAS |
 
-Axe 4 : Objectifs : le système d'information et le développement durable
+Axe 4
+
+Objectifs : le système d'information et le développement durable
 
 Items |
 
@@ -572,27 +568,27 @@ ESMS concernés |
 
 |
 
--Socle garantissant le bon fonctionnement du SI : |
+- Socle garantissant le bon fonctionnement du SI : |
 
 SAA, SAAS |
 
--gouvernance SI ; |
+- gouvernance SI ; |
 
 SAA, SAAS |
 
--moyens alloués au SI ; |
+- moyens alloués au SI ; |
 
 SAA, SAAS |
 
--équipement SI ; |
+- équipement SI ; |
 
 SAA, SAAS |
 
--sécurité SI ; |
+- sécurité SI ; |
 
 SAA, SAAS |
 
--capacité d'échange et de partage de l'ESMS. |
+- capacité d'échange et de partage de l'ESMS. |
 
 SAA, SAAS |
 
@@ -600,15 +596,15 @@ Usage du SI dans l'ESMS : |
 
 SAA, SAAS |
 
--fonction pilotage ; |
+- fonction pilotage ; |
 
 SAA, SAAS |
 
--fonctions supports ; |
+- fonctions supports ; |
 
 SAA, SAAS |
 
--dossier informatisé de l'usager. |
+- dossier informatisé de l'usager. |
 
 SAA, SAAS |
 
@@ -620,7 +616,7 @@ Volet gouvernance : |
 
 SAA, SAAS |
 
--intégration des enjeux du développement durable dans les projets majeurs de la structure. |
+- intégration des enjeux du développement durable dans les projets majeurs de la structure. |
 
 SAA, SAAS |
 
@@ -628,7 +624,7 @@ Volet social : |
 
 SAA, SAAS |
 
--qualité de vie au travail. |
+- qualité de vie au travail. |
 
 SAA, SAAS |
 
@@ -636,15 +632,15 @@ Volet environnemental : |
 
 SAA, SAAS |
 
--consommation d'énergie au mètre carré ; |
+- consommation d'énergie au mètre carré ; |
 
 SAA, SAAS |
 
--politique de gestion des déchets. |
+- politique de gestion des déchets. |
 
 SAA, SAAS |
 
--composition de la flotte de véhicules |
+- composition de la flotte de véhicules |
 
 SAA, SAAS |
 
@@ -652,7 +648,7 @@ Volet économique : |
 
 SAA, SAAS |
 
--politique d'achat |
+- politique d'achat |
 
 SAA, SAAS |
 
