@@ -2,7 +2,9 @@
 
 Corps et grade |
 
-Taux applicable en 2025 |
+Taux applicable
+
+en 2026 |
 
 Filière administrative |
 
@@ -10,7 +12,7 @@ Corps des attachés d'administration hospitalière |
 
 Attaché principal |
 
-7 % |
+8 % |
 
 Attaché d'administration hors classe - échelon spécial |
 
@@ -44,7 +46,7 @@ Adjoint administratif principal de 2e classe |
 
 Adjoint administratif principal de 1re classe |
 
-16,5 % |
+16,50 % |
 
 Corps des permanenciers auxiliaires de régulation médicale |
 
@@ -66,15 +68,13 @@ Ouvrier principal de 2e classe |
 
 Ouvrier principal de 1re classe |
 
-16,5 % |
+16,50 % |
 
 Corps de la maîtrise ouvrière |
 
-|
-
 Agent de maîtrise principal |
 
-16,5 % |
+16,50 % |
 
 Corps des techniciens et techniciens supérieurs hospitaliers |
 
@@ -104,7 +104,7 @@ Corps des psychologues |
 
 Psychologue hors classe |
 
-9 % |
+10 % |
 
 Filière soins |
 
@@ -132,13 +132,11 @@ Aide-soignant de classe supérieure, Auxiliaire de puériculture de classe supé
 
 12 % |
 
-Corps des personnels infirmiers régis par le décret n° 88-1077 du 30 novembre 1988
-
-|
+Corps des personnels infirmiers régis par le décret n° 88-1077 du 30 novembre 1988 |
 
 Infirmier de classe supérieure |
 
-13 % |
+16 % |
 
 Corps des infirmiers en soins généraux et spécialisés |
 
@@ -208,7 +206,7 @@ Corps des préparateurs en pharmacie hospitalière |
 
 Préparateur en pharmacie hospitalière de classe supérieure |
 
-13 % |
+12 % |
 
 Filière socio-éducative |
 
@@ -238,17 +236,17 @@ Educateurs de jeunes enfants de second grade |
 
 Assistant socio-éducatif de second grade |
 
-15 % |
+14 % |
 
 Corps des animateurs |
 
 Animateur principal de 2e classe |
 
-16 % |
+13 % |
 
 Animateur principal de 1re classe |
 
-13 % |
+11 % |
 
 Corps des moniteurs-éducateurs |
 
@@ -258,69 +256,55 @@ Moniteur-éducateur principal |
 
 Filière médicale |
 
-Corps des sage-femmes des hôpitaux |
+Corps des sages-femmes des hôpitaux |
 
 Sage-femme des hôpitaux du second grade |
 
-15 % |
+13 % |
 
 Corps des filières de rééducation et médico-technique de la catégorie B placés en voie d'extinction |
 
-Corps des pédicures-podologues régis par le décret n° 2011-746 du 27 juin 2011
-
-|
+Corps des pédicures-podologues régis par le décret n° 2011-746 du 27 juin 2011 |
 
 Pédicure-podologue de classe supérieure |
 
-13 % |
+30 % |
 
-Corps des masseurs-kinésithérapeutes régis par le décret n° 2011-746 du 27 juin 2011
-
-|
+Corps des masseurs-kinésithérapeutes régis par le décret n° 2011-746 du 27 juin 2011 |
 
 Masseur-kinésithérapeute de classe supérieure |
 
-13 % |
+30 % |
 
-Corps des ergothérapeutes régis par le décret n° 2011-746 du 27 juin 2011
-
-|
+Corps des ergothérapeutes régis par le décret n° 2011-746 du 27 juin 2011 |
 
 Ergothérapeute de classe supérieure |
 
-13 % |
+30 % |
 
-Corps des psychomotriciens régis par le décret n° 2011-746 du 27 juin 2011
-
-|
+Corps des psychomotriciens régis par le décret n° 2011-746 du 27 juin 2011 |
 
 Psychomotricien de classe supérieure |
 
-13 % |
+30 % |
 
-Corps des orthophonistes régis par le décret n° 2011-746 du 27 juin 2011
-
-|
+Corps des orthophonistes régis par le décret n° 2011-746 du 27 juin 2011 |
 
 Orthophoniste de classe supérieure |
 
-13 % |
+30 % |
 
-Corps des orthoptistes régis par le décret n° 2011-746 du 27 juin 2011
-
-|
+Corps des orthoptistes régis par le décret n° 2011-746 du 27 juin 2011 |
 
 Orthoptiste de classe supérieure |
 
-13 % |
+30 % |
 
-Corps des manipulateurs d'électroradiologie médicale régis par le décret n° 2011-748 du 27 juin 2011
-
-|
+Corps des manipulateurs d'électroradiologie médicale régis par le décret n° 2011-748 du 27 juin 2011 |
 
 Manipulateur en électroradiologie de classe supérieure |
 
-13 % |
+20 % |
 
 Corps des auxiliaires médicaux en pratique avancée |
 
