@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260107293
+
+- Question : [SEQ260107293](seq260107293.md) — Accès aux soins palliatifs et création d'un sixième domaine de pratique avancée
+
+## Réponse
+
+*Santé, familles, autonomie et personnes handicapées, JO du 2026-04-23, page 2010*
+
+Deux propositions de loi, l'une relative à l'accompagnement et aux soins palliatifs, l'autre relative au droit à l'aide à mourir ont été adoptées par l'Assemblée nationale. C'est dans ce cadre que doit s'inscrire la réponse aux besoins en matière d'accès aux soins palliatifs et d'accompagnement de fin de vie. Par ailleurs, la stratégie décennale d'accompagnement et de soins palliatifs 2024-2034, qui bénéficiera d'un financement à hauteur de 1,1 milliard d'euros sur la période, doit permettre de renforcer l'offre de soins palliatifs et de poursuivre les actions en faveur du développement des équipes formées, pour une prise en charge sur l'ensemble du territoire des personnes qui le nécessitent. Des actions de renforcement de la formation des professionnels sont également menées pour rendre possible ce développement de l'offre et garantir la qualité des prises en charge. L'étude de la création d'une mention « soins palliatifs » pour la pratique avancée infirmière devra tenir compte de la nécessité de garantir à chacune des mentions une taille critique. Sans s'y substituer mais s'inscrivant dans la volonté de donner plus de marge de manoeuvre aux professionnels spécialisés et de reconnaître l'expertise infirmière, un projet de protocole de coopération national est à l'étude. Le ministère de la santé rendra compte régulièrement de l'avancée des actions conduites et veillera à fournir les résultats des indicateurs objectivant cette meilleure réponse aux besoins, recherchée avec le concours de l'ensemble des parties prenantes, et notamment des agences régionales de santé sous l'égide desquelles se structurent les filières de soins palliatifs sur l'ensemble du territoire.
