@@ -534,25 +534,21 @@ IDEX Energies
 
 |
 
-922
+781 |
+
+760
 
 |
 
-897
+499
 
 |
 
-873
+486
 
 |
 
-849
-
-|
-
-4342
-
-|
+3327 |
 
 FR000000000000025
 
@@ -924,19 +920,19 @@ VSPU Villers-Saint-Paul
 
 |
 
-3038
+3128
 
 |
 
-3038
+1858
 
 |
 
-3038
+600
 
 |
 
-13534
+10006
 
 |
 
@@ -1422,13 +1418,11 @@ EURENCO
 
 |
 
-3246
+2430 |
 
-|
+- |
 
-3156 |
-
-22512
+18540
 
 |
 
@@ -1848,11 +1842,11 @@ OI FRANCE SAS
 
 |
 
-48716
+32157
 
 |
 
-223617
+207058
 
 |
 
@@ -2900,15 +2894,15 @@ EUROSERUM
 
 |
 
-10491
+3477
 
 |
 
-10491
+-
 
 |
 
-60091
+42586
 
 |
 
@@ -3500,11 +3494,11 @@ Laiterie Nouvelle de l'Arguenon
 
 |
 
-14307
+13241
 
 |
 
-67675
+66609
 
 |
 
@@ -3520,7 +3514,7 @@ ENTREMONT ALLIANCE S. A. S
 
 |
 
-11339
+11588
 
 |
 
@@ -3528,19 +3522,15 @@ ENTREMONT ALLIANCE S. A. S
 
 |
 
-11339
-
-|
+11339 |
 
 11073
 
 |
 
-11073
+11073 |
 
-|
-
-56163
+56412
 
 |
 
@@ -3548,11 +3538,11 @@ FR000000000000170
 
 |
 
-SECANIM BRETAGNE
+Etablissement de PLOUVARA
 
 |
 
-SECANIM BRETAGNE
+SECANIM SAS
 
 |
 
@@ -3890,15 +3880,15 @@ ENTREMONT ALLIANCE S.A.S.
 
 |
 
-4278
+175
 
 |
 
-4278
+-
 
 |
 
-20771
+12390
 
 |
 
@@ -3978,7 +3968,7 @@ Chaufferie urbaine du Blosne
 
 |
 
-ENERGIE SUD VILAINE
+ENERSUD - Société de RENNES METROPOLE
 
 |
 
@@ -4562,11 +4552,11 @@ Heidelberg Materials France Ciments
 
 |
 
-558258
+647074
 
 |
 
-2791290
+2880106
 
 |
 
@@ -4756,7 +4746,7 @@ NaTran station de compression de Voisines
 
 |
 
-NaTran-Pôle Rhin Seine
+NaTran
 
 |
 
@@ -5094,15 +5084,15 @@ MFPM Siège des Carmes
 
 |
 
-2099
+1798
 
 |
 
-2040
+1452
 
 |
 
-11333
+10444
 
 |
 
@@ -5328,7 +5318,7 @@ NaTran station de compression de Dierrey-Saint-Julien
 
 |
 
-NaTran-Pôle Rhin Seine
+NaTran
 
 |
 
@@ -5470,25 +5460,25 @@ TotalEnergies Raffinage France
 
 |
 
-1007184
+916941
 
 |
 
-774331
+855039
 
 |
 
-687044
+727582
 
 |
 
-797420 |
+692016 |
 
-879811
+727842
 
 |
 
-2364275
+3919420
 
 |
 
@@ -5556,11 +5546,11 @@ Yara France
 
 |
 
-543493
+450562
 
 |
 
-2555783 |
+2462852 |
 
 FR000000000000258
 
@@ -5578,23 +5568,19 @@ ExxonMobil Chemical France
 
 |
 
-755132
+757707
 
 |
 
-701077
+695668 |
+
+702886 |
+
+531664
 
 |
 
-701077
-
-|
-
-701077
-
-|
-
-3767479
+3597041
 
 |
 
@@ -5602,11 +5588,11 @@ FR000000000000259
 
 |
 
-Esso Raffinage SAS, Raffinerie de Port-Jérôme Gravenchon
+North Atlantic Raffinage
 
 |
 
-Esso Raffinage SAS
+North Atlantic Raffinage
 
 |
 
@@ -5694,11 +5680,11 @@ TOTALENERGIES Raffinage France
 
 |
 
-692016
+727842
 
 |
 
-3883594
+3919420
 
 |
 
@@ -6208,27 +6194,19 @@ ExxonMobil Chemical France-Site LPP-Usine de Lillebonne
 
 |
 
-15101
+15101 |
 
-|
+15101 |
 
-15101
-
-|
-
-15101
-
-|
+15101 |
 
 14108
 
 |
 
-14108
+1748 |
 
-|
-
-73519
+60889
 
 |
 
@@ -6390,21 +6368,17 @@ ESSITY OPERATIONS France-Site de HONDOUVILLE
 
 |
 
-18049
-
-|
+18049 |
 
 17214
 
 |
 
-17214
+16655
 
 |
 
-90576
-
-|
+90017 |
 
 FR000000000000292
 
@@ -6886,11 +6860,11 @@ Chauffage Urbain Besançon Planoise
 
 |
 
-5430
+4419
 
 |
 
-27150
+26139
 
 |
 
@@ -7170,11 +7144,11 @@ SOCCRAM
 
 |
 
-2055
+1476
 
 |
 
-10863
+10284
 
 |
 
@@ -7668,9 +7642,9 @@ KEM ONE
 
 |
 
-19359 |
+19172 |
 
-104159
+103972
 
 |
 
@@ -8886,11 +8860,11 @@ RHODIA OPERATION - SOLVAY SILICA
 
 |
 
-54823
+54517
 
 |
 
-318617
+318311
 
 |
 
@@ -9676,27 +9650,25 @@ PAPETERIES DU LEMAN
 
 |
 
-4614
+10167
 
 |
 
-4778
+11213
 
 |
 
-4778
+10447
 
 |
 
-4778
+4933 |
+
+1262
 
 |
 
-4778
-
-|
-
-23726
+38022
 
 |
 
@@ -11094,19 +11066,19 @@ RAON CIRCULAR REGENERATION
 
 |
 
-3028
+-
 
 |
 
-3028
+-
 
 |
 
-3028
+-
 
 |
 
-13898
+4814
 
 |
 
@@ -11186,7 +11158,7 @@ NaTran station de compression de Morelmaison
 
 |
 
-NaTran-Pôle Rhin Seine
+NaTran
 
 |
 
@@ -11376,15 +11348,15 @@ PAPETERIES DES VOSGES
 
 |
 
-9826
+12090
 
 |
 
-9826
+8128
 
 |
 
-42192
+42758
 
 |
 
@@ -13304,11 +13276,11 @@ NAPHTACHIMIE
 
 870842 |
 
-877646
+692878
 
 |
 
-4399542
+4214774
 
 |
 
@@ -13602,9 +13574,7 @@ ArcelorMittal méditérannée
 
 |
 
-6328307
-
-|
+6328307 |
 
 5251048
 
@@ -13616,11 +13586,11 @@ ArcelorMittal méditérannée
 
 4655357 |
 
-4655357
+3596154
 
 |
 
-26183539
+25124336
 
 |
 
@@ -13652,11 +13622,11 @@ TotalEnergies Raffinage France
 
 |
 
-94945
+95749
 
 |
 
-455632
+456436
 
 |
 
@@ -14866,11 +14836,11 @@ PEUGEOT CITROEN POISSY SNC
 
 |
 
-5604
+5316
 
 |
 
-27398
+27110
 
 |
 
@@ -14932,11 +14902,9 @@ ENERLAY
 
 |
 
-759
+839 |
 
-|
-
-4441
+4521
 
 |
 
@@ -15086,7 +15054,7 @@ FR000000000000705
 
 |
 
-CHAUFFERIE DE LA MAISON D'ARRET DE FLEURY-MEROGIS
+Chaufferie de la maison d'arrêt de Fleury-Mérogis
 
 |
 
@@ -15110,11 +15078,11 @@ SEER
 
 |
 
-1477
+1626
 
 |
 
-6885
+7034
 
 |
 
@@ -16302,13 +16270,9 @@ SCUC (Société de Chauffage Urbain de Créteil)
 
 |
 
-774
+511 |
 
-|
-
-4094
-
-|
+3831 |
 
 FR000000000000762
 
@@ -16952,9 +16916,7 @@ OWENS CORNING FIBERGLAS France SAS
 
 |
 
-31386
-
-|
+31386 |
 
 29084
 
@@ -16964,11 +16926,11 @@ OWENS CORNING FIBERGLAS France SAS
 
 |
 
-28996
+30503
 
 |
 
-149366
+150873
 
 |
 
@@ -17100,15 +17062,15 @@ BEAUNOIR CHRISTOPHE
 
 |
 
-18950
-
-|
-
 17985
 
 |
 
-93785
+17570
+
+|
+
+92405
 
 |
 
@@ -17176,13 +17138,11 @@ GIE Chimie Salindres
 
 |
 
-1395
+1723
 
 |
 
-10205
-
-|
+10533 |
 
 FR000000000000808
 
@@ -17232,7 +17192,7 @@ Société Colmarienne de Chauffage Urbain
 
 |
 
-3536
+2547
 
 |
 
@@ -17240,17 +17200,17 @@ Société Colmarienne de Chauffage Urbain
 
 |
 
-3536
+2942
 
 |
 
-2526 |
+2112 |
 
-2526
+2112
 
 |
 
-15660
+13249
 
 |
 
@@ -17908,11 +17868,11 @@ Tereos Starch Sweeteners Europe
 
 |
 
-105886
+104767
 
 |
 
-535134 |
+534015 |
 
 FR000000000000838
 
@@ -18236,7 +18196,7 @@ CHRU MONTPELLIER LA COLOMBIERE
 
 |
 
-DALKIA
+Société d'Aménagement de Montpellier Méditérranée Métropole (SA3M)
 
 |
 
@@ -18396,13 +18356,11 @@ Papeteries de Saint Girons
 
 |
 
-11294
+8703
 
 |
 
-56470
-
-|
+53879 |
 
 FR000000000000864
 
@@ -18576,11 +18534,9 @@ CENTRE NATIONAL D'ETUDES SPATIALES (CNES)
 
 |
 
-360
+277 |
 
-|
-
-2027
+1944
 
 |
 
@@ -18788,9 +18744,9 @@ Lafarge Ciments
 
 |
 
-368787 |
+352484 |
 
-1597610
+1581307
 
 |
 
@@ -19002,13 +18958,11 @@ BASF Health and Care Products France SAS
 
 |
 
-13752
+11692
 
 |
 
-79799
-
-|
+77739 |
 
 FR000000000000891
 
@@ -19038,7 +18992,7 @@ COGESTAR 2
 
 |
 
-0
+-
 
 |
 
@@ -20662,11 +20616,11 @@ NESTLE PURINA PETCARE France
 
 3796 |
 
-5517
+3585
 
 |
 
-22617
+20685
 
 |
 
@@ -20734,11 +20688,9 @@ Société Industrielle LESAFFRE
 
 |
 
-29285
+29120 |
 
-|
-
-145765
+145600
 
 |
 
@@ -20846,11 +20798,11 @@ FR000000000000986
 
 |
 
-RESONOR - Chaufferie des Beaux Arts
+Il'Energie - Chaufferie des Beaux-Arts
 
 |
 
-RESONOR
+Il'Energie
 
 |
 
@@ -21810,15 +21762,15 @@ PAPETERIE SAINT-MICHEL GROUPE THIOLLET
 
 |
 
-10248
+7750
 
 |
 
-10248
+-
 
 |
 
-64923
+52177
 
 |
 
@@ -22164,11 +22116,11 @@ INTERNATIONAL COOKWARE
 
 |
 
-8132
+7146
 
 |
 
-47847
+46861
 
 |
 
@@ -22404,9 +22356,9 @@ DS Smith Paper Coullons
 
 |
 
-6122 |
+5824 |
 
-33313
+33015
 
 |
 
@@ -22438,11 +22390,11 @@ ESSITY Operations France
 
 |
 
-46038
+35068
 
 |
 
-231066
+220096
 
 |
 
@@ -22470,15 +22422,15 @@ D'Aucy d'Orléans
 
 |
 
-1218
+-
 
 |
 
-1218
+-
 
 |
 
-6090
+3654
 
 |
 
@@ -22558,11 +22510,11 @@ FR000000000001077
 
 |
 
-SOCOS
+ECOME Orléans La Source
 
 |
 
-SOCOS
+ECOME (ECO CHALEUR ORLEANS METROPOLE)-ORLEANS-LA-SOURCE-OLIVET- FLEURY-LES-AUBRAIS
 
 |
 
@@ -22614,11 +22566,9 @@ SODC
 
 |
 
-421
+968 |
 
-|
-
-2078
+2625
 
 |
 
@@ -22626,11 +22576,11 @@ FR000000000001079
 
 |
 
-SOFLEC
+ECOME Orléans Fleury les Aubrais
 
 |
 
-SOCIETE FLEURY CHAUFFAGE
+ECOME (ECO CHALEUR ORLEANS METROPOLE)-ORLEANS-LA-SOURCE-OLIVET- FLEURY-LES-AUBRAIS
 
 |
 
@@ -22686,11 +22636,11 @@ DURALEX SCOP SA
 
 |
 
-15931
+14353
 
 |
 
-88974
+87396
 
 |
 
@@ -22722,11 +22672,11 @@ Société Bléboise de Distribution de Chaleur (SBDC)
 
 |
 
-827
+633
 
 |
 
-4135
+3941
 
 |
 
@@ -23068,11 +23018,9 @@ Albioma Le Moule
 
 |
 
-12719
+11909 |
 
-|
-
-75756
+74946
 
 |
 
@@ -24092,11 +24040,11 @@ FR000000000001149
 
 |
 
-ETF-CENTRALE CYCOFOS
+ENGIE FLEXIBLE GENERATION FRANCE - Centrale CYCOFOS
 
 |
 
-ENGIE FLEXIBLE GENERATION FRANCE
+ENGIE FLEXIBLE GENERATION France
 
 |
 
@@ -24308,11 +24256,11 @@ FR000000000001155
 
 |
 
-VALTRIS ENTERPRISES FRANCE
+Valtris Entreprises France
 
 |
 
-VALTRIS ENTERPRISES FRANCE SAS
+SAIPOL VERDUN
 
 |
 
@@ -24452,7 +24400,7 @@ FR000000000001159
 
 |
 
-ENGIE Thermique France-Centrale de COMBIGOLFE
+ENGIE FLEXIBLE GENERATION France - Centrale de COMBIGOLFE
 
 |
 
@@ -26530,13 +26478,11 @@ ELKEM Silicones France
 
 43376 |
 
-43376
+40934
 
 |
 
-255272
-
-|
+252830 |
 
 FR000000000204944
 
@@ -27134,13 +27080,13 @@ Sociéte de Véhicules Automobiles de Batilly-SOVAB
 
 |
 
-6420 |
+5620 |
 
-4877
+5620
 
 |
 
-4749 |
+5620 |
 
 4625
 
@@ -27150,7 +27096,7 @@ Sociéte de Véhicules Automobiles de Batilly-SOVAB
 
 |
 
-25790
+26604
 
 |
 
@@ -27388,17 +27334,17 @@ ETEX
 
 |
 
-6380
+6453
 
 |
 
-6123
+6195
 
 |
 
 5193 |
 
-29502
+29647
 
 |
 
@@ -28126,11 +28072,11 @@ SOCIETE COOPERATIVE AGRICOLE DE DESHYDRATATION SUNDESHY
 
 |
 
-1570
+2032
 
 |
 
-12561 |
+13023 |
 
 FR000000000205702
 
@@ -28360,11 +28306,11 @@ Spie batignolles Malet
 
 |
 
-546
+1007
 
 |
 
-4315
+4776
 
 |
 
@@ -28396,11 +28342,9 @@ INOVYN France
 
 |
 
-174671
+185681 |
 
-|
-
-910780 |
+921790 |
 
 FR000000000205751
 
@@ -28422,19 +28366,19 @@ SOLVAY France
 
 |
 
-41430
+41909
 
 |
 
-41082
+42473
 
 |
 
-41082
+34829
 
 |
 
-196616
+192233
 
 |
 
@@ -29332,15 +29276,13 @@ NOVAPEX S.A.S. (SEQENS SPS)
 
 |
 
-86585
+87183 |
+
+80977
 
 |
 
-79322
-
-|
-
-472531
+474784
 
 |
 
@@ -30006,11 +29948,11 @@ INEOS Derivatives Lavéra SAS (IDL)
 
 |
 
-140048
+124389
 
 |
 
-739596
+723937
 
 |
 
@@ -30458,11 +30400,11 @@ UCLAB Industrie
 
 |
 
-6898
+6236
 
 |
 
-33777
+33115
 
 |
 
@@ -30634,11 +30576,11 @@ EUROVIA GRANDS PROJETS France
 
 |
 
-1189
+961
 
 |
 
-5727
+5499
 
 |
 
@@ -30804,11 +30746,11 @@ Colas France
 
 1136 |
 
-1136
+624
 
 |
 
-6514
+6002
 
 |
 
@@ -32426,15 +32368,15 @@ EIFFAGE GC INFRA LINEAIRES
 
 |
 
-1226
+1018
 
 |
 
-1226
+-
 
 |
 
-5273
+3839
 
 |
 
@@ -32544,11 +32486,11 @@ FR000000000206981
 
 |
 
-FORGITAL DEMBIRMONT
+Forgital France
 
 |
 
-FORGITAL DEMBIRMONT
+Forgital France
 
 |
 
@@ -33384,9 +33326,9 @@ NGE ROUTES
 
 423 |
 
-423 |
+882 |
 
-2226 |
+2685 |
 
 FR000000000209563
 
@@ -34692,11 +34634,11 @@ ECOSLOPS PROVENCE
 
 |
 
-6627
+-
 
 |
 
-32725
+26098
 
 |
 
@@ -36784,11 +36726,11 @@ FR000000000216860
 
 |
 
-Centrale d'enrobage TRABET
+TRABET - Centrale d'enrobage mobile ERMONT TSX28 - 1004
 
 |
 
-TRABET Brumath
+TRABET
 
 |
 
@@ -37392,27 +37334,27 @@ ALTER SERVICES
 
 |
 
-/
+0
 
 |
 
-/
+0
 
 |
 
-/
+0
 
 |
 
-/
+1721
 
 |
 
-/
+1640
 
 |
 
-/
+3361
 
 |
 
@@ -37512,15 +37454,15 @@ Automotive Cells Compagny FACTORIES EUROPE SA
 
 |
 
-0
+2331
 
 |
 
-0
+2222
 
 |
 
-608
+5161
 
 |
 
@@ -37578,7 +37520,7 @@ GREEN VALLEY ENERGIE |
 
 / |
 
-FR-new-006304426 |
+FR000000000231540 |
 
 NAVAL GROUP Nantes-Indret |
 
@@ -37932,17 +37874,17 @@ CLAUVAE-CHAUFFERIE DES CEZEAUX |
 
 CLAUVAE |
 
-/ |
+0 |
 
-/ |
+0 |
 
-/ |
+0 |
 
-/ |
+350 |
 
-/ |
+0 |
 
-/ |
+350 |
 
 FR000000000222687
 
@@ -38012,19 +37954,19 @@ ETEX Mazan |
 
 ETEX France BUILDING PERFORMANCE |
 
-/ |
+0 |
 
-/ |
+0 |
 
-/ |
+0 |
 
-/ |
+1115 |
 
-/ |
+0 |
 
-/ |
+1115 |
 
-FR-new-100000318
+FR000000000231221
 
 |
 
@@ -38044,7 +37986,7 @@ EASTEAM |
 
 / |
 
-FR-new-003902012
+FR000000000231321
 
 |
 
@@ -38064,7 +38006,7 @@ Air Liquide France Industrie |
 
 / |
 
-FR-new-003802096
+FR000000000232241
 
 |
 
@@ -38146,93 +38088,263 @@ En'RNOV |
 
 FR000000000230600 |
 
+TotalEnergies Saria Sustainable Aviation Fuel (TESSAF)
+
+|
+
 TotalEnergies Saria Sustainable Aviation Fuel (TESSAF) |
 
-TotalEnergies Saria Sustainable Aviation Fuel (TESSAF) |
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR000000000231981 |
+
+Toulouse Energie Durable-Cosmonautes
 
 |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-FR-new-100183362 |
-
-Toulouse Energie Durable-Cosmonautes |
 
 Toulouse Energie Durable |
 
-|
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR000000000231401 |
+
+ENERGIE VERTE DE CAEN LA MER-LE CHEMIN VERT
 
 |
-
-|
-
-|
-
-|
-
-|
-
-FR-new-100049443 |
-
-ENERGIE VERTE DE CAEN LA MER-LE CHEMIN VERT |
 
 ENERGIE VERTE DE CAEN LA MER |
 
-|
+/ |
 
-|
+/ |
 
-|
+/ |
 
-|
+/ |
 
-|
+/ |
 
-|
+/ |
 
 FR-new-100031960 |
 
+DIGITAL MRS5
+
+|
+
 DIGITAL MRS5 |
 
-DIGITAL MRS5 |
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR000000000231760 |
+
+Chaufferie urbaine de Mayenne
 
 |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-FR-new-006305473 |
-
-Chaufferie urbaine de Mayenne |
 
 ALTER SERVICES |
 
-|
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-006109449 |
+
+Site de Roussillon
 
 |
 
-|
+AIR LIQUIDE HYDROGENE |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-006401640 |
+
+DIGITAL MRS6
 
 |
 
-|
+DIGITAL MRS6 |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-006522415 |
+
+GEOMARNE
 
 |
+
+GEOMARNE |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-006402706 |
+
+EURENCO Sorgues
+
+|
+
+EURENCO Sorgues |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-003014491 |
+
+CENTRALE DOMBASLE ENERGIE
+
+|
+
+DOMBASLE ENERGIE |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-100004012 |
+
+Champigny 2
+
+|
+
+Établissement Public Campignois de Géothermie (EPCG) |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-100035857 |
+
+Chaufferie Carré de Soie
+
+|
+
+ELM |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-100285097 |
+
+ELM St Priest
+
+|
+
+ELM |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
 
 ANNEXE 2
 
@@ -39192,11 +39304,11 @@ FR-new-005500440
 
 |
 
-IDEX Environnement bretagne
+DEWEN
 
 |
 
-IDEX Environnement
+DEWEN
 
 |
 
