@@ -698,6 +698,28 @@ II.-Dossier artistique :
 
 6° Le support (DVD et lien VIMEO ou équivalent avec son code d'accès).
 
+IV-5.4-1. Documents justificatifs à joindre pour la distribution d'une œuvre labelisée “Regards d'ici”
+
+(Article 422-27-1)
+
+I. - Dossier administratif :
+
+1° Une brève présentation de l'entreprise ;
+
+2° Les justificatifs de distribution de l'œuvre (visa d'exploitation cinématographique, contrat de distribution, contrat avec l'organisateur d'un festival, tout contrat de cession de droits pour la distribution ainsi que leurs annexes et tout avenant éventuel, etc.) ;
+
+3° Toute pièce justificative d'un financement public ou privé ;
+
+4° Un devis et un plan de financement de distribution mentionnant les différentes aides déjà obtenues et leur part dans le financement global du projet.
+
+II. - Dossier artistique :
+
+1° Une note exposant la stratégie de distribution en salles de l'œuvre, notamment les efforts prévus en termes d'exposition de l'œuvre en salles et le travail de promotion envisagé ;
+
+2° Tout élément artistique complémentaire ;
+
+3° Le cas échéant, le support (DVD et lien VIMEO ou équivalent avec son code d'accès).
+
 IV-5.5. Documents justificatifs à joindre à l'appui d'une demande d'aide à l'édition vidéographique
 
 (Articles 422-29 et suivants)
@@ -929,9 +951,3 @@ IV-8.1. Documents justificatifs à joindre à l'appui d'une demande d'aide au pa
 5° Le cas échéant, des compléments visuels (cinq pages d'illustrations et trois minutes de vidéo maximum) ;
 
 6° Une déclaration sur l'honneur des aides de minimis perçues au cours des trois années précédentes.
-
-NOTA :
-
-Conformément à l'article 5 de la délibération n° 2025/CA/15 du 26 juin 2025 (MICK2520159X), ces dispositions s'appliquent aux demandes d'aides adressées au Centre national du cinéma et de l'image animée à compter de 1er janvier 2026.
-
-Il est mis fin, à compter du 31 décembre 2025, au mandat en cours des membres de la commission des aides à la création et à la diffusion sur les plateformes numériques prévue à l'article 434-1 du règlement général des aides financières susvisé dans sa rédaction antérieure à la présente délibération.
