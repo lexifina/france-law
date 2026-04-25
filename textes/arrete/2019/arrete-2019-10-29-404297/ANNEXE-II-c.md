@@ -20,7 +20,7 @@ Cette épreuve vise à apprécier l'aptitude du candidat à mobiliser ses compé
 
 Objectifs et contenus de l'épreuve
 
-Cette épreuve vise à apprécier les acquis d'apprentissage liés au bloc de compétences 1 « Recevoir et suivre les commandes » et aux savoirs associés.
+Cette épreuve vise à apprécier les acquis d'apprentissage liés au bloc de compétences 1 "Recevoir et suivre les commandes" et aux savoirs associés.
 
 Critères d'évaluation
 
@@ -50,7 +50,7 @@ Présentation de l'épreuve :
 
 L'épreuve comporte une situation d'évaluation.
 
-Le contrôle en cours de formation est conduit à partir des activités professionnelles du candidat réalisées durant le cycle de formation, à la fois dans le cadre des PFMP et de la formation en établissement. Ces activités donneront lieu à des comptes rendus écrits et oraux qui permettront à l'élève d'expliciter la démarche mise en œuvre pour les réaliser. Elles mobilisent les compétences du bloc 1 « Recevoir et suivre les commandes ».
+Le contrôle en cours de formation est conduit à partir des activités professionnelles du candidat réalisées durant le cycle de formation, à la fois dans le cadre des PFMP et de la formation en établissement. Ces activités donneront lieu à des comptes rendus écrits et oraux qui permettront à l'élève d'expliciter la démarche mise en œuvre pour les réaliser. Elles mobilisent les compétences du bloc 1 "Recevoir et suivre les commandes".
 
 La programmation de la situation d'évaluation dépend notamment :
 
@@ -106,13 +106,13 @@ Le portfolio sera joint au dossier qui comportera, par ailleurs, une partie admi
 
 Ou
 
-- Attestation relative à l'activité salariée du candidat dans un domaine professionnel correspondant aux finalités du « CAP Equipier polyvalent du commerce ».
+- Attestation relative à l'activité salariée du candidat dans un domaine professionnel correspondant aux finalités du "CAP Equipier polyvalent du commerce".
 
 Le contrôle de conformité du dossier est effectué par les autorités académiques avant le jour de l'épreuve pour permettre au candidat, le cas échéant, de mettre son dossier en conformité le jour de l'épreuve.
 
 Ce dossier est mis à la disposition de la commission d'interrogation, qui doit disposer du temps nécessaire pour en prendre connaissance avant le début de l'interrogation, selon les modalités fixées par les autorités académiques.
 
-Si le jour de l'épreuve, la partie administrative du dossier demeure incomplète, la mention « non valide » est prononcée et est signifiée au candidat. Le diplôme ne peut pas lui être délivré.
+Si le jour de l'épreuve, la partie administrative du dossier demeure incomplète, la mention "non valide" est prononcée et est signifiée au candidat. Le diplôme ne peut pas lui être délivré.
 
 En l'absence du portfolio, le candidat ne peut pas être interrogé, la note zéro est attribuée à cette épreuve et est signifiée au candidat.
 
@@ -142,7 +142,7 @@ Cette épreuve vise à apprécier l'aptitude du candidat à mobiliser ses compé
 
 Objectifs et contenus de l'épreuve
 
-Cette épreuve vise à apprécier les acquis d'apprentissage liés au bloc de compétences 2 « Mettre en valeur et approvisionner » et aux savoirs-associés.
+Cette épreuve vise à apprécier les acquis d'apprentissage liés au bloc de compétences 2 "Mettre en valeur et approvisionner" et aux savoirs-associés.
 
 Critères d'évaluation
 
@@ -176,7 +176,7 @@ Présentation de l'épreuve
 
 L'épreuve comporte une situation d'évaluation.
 
-Le contrôle en cours de formation est conduit à partir des activités professionnelles du candidat réalisées durant le cycle de formation, à la fois dans le cadre des PFMP et de la formation en établissement. Ces activités donneront lieu à des comptes rendus écrits et oraux qui permettront à l'élève d'expliciter la démarche mise en œuvre pour les réaliser. Elles mobilisent les compétences du bloc 2 « Mettre en valeur et approvisionner ».
+Le contrôle en cours de formation est conduit à partir des activités professionnelles du candidat réalisées durant le cycle de formation, à la fois dans le cadre des PFMP et de la formation en établissement. Ces activités donneront lieu à des comptes rendus écrits et oraux qui permettront à l'élève d'expliciter la démarche mise en œuvre pour les réaliser. Elles mobilisent les compétences du bloc 2 "Mettre en valeur et approvisionner".
 
 La programmation de la situation d'évaluation dépend notamment :
 
@@ -232,13 +232,13 @@ Le portfolio sera joint au dossier qui comportera par ailleurs une partie admini
 
 Ou
 
-- Attestation relative à l'activité salariée du candidat dans un domaine professionnel correspondant aux finalités du « CAP Equipier polyvalent du commerce »..
+- Attestation relative à l'activité salariée du candidat dans un domaine professionnel correspondant aux finalités du "CAP Equipier polyvalent du commerce"..
 
 Le contrôle de conformité du dossier est effectué par les autorités académiques avant le jour de l'épreuve pour permettre au candidat, le cas échéant, de mettre son dossier en conformité le jour de l'épreuve.
 
 Ce dossier est mis à la disposition de la commission d'interrogation, qui doit disposer du temps nécessaire pour en prendre connaissance avant le début de l'interrogation, selon les modalités fixées par les autorités académiques.
 
-Si le jour de l'épreuve, la partie administrative du dossier demeure incomplète, la mention « non valide » est prononcée et est signifiée au candidat. Le diplôme ne peut pas lui être délivré.
+Si le jour de l'épreuve, la partie administrative du dossier demeure incomplète, la mention "non valide" est prononcée et est signifiée au candidat. Le diplôme ne peut pas lui être délivré.
 
 En l'absence du portfolio, le candidat ne peut pas être interrogé, la note zéro est attribuée à cette épreuve et est signifiée au candidat.
 
@@ -272,7 +272,7 @@ Cette épreuve vise à apprécier l'aptitude du candidat à mobiliser ses compé
 
 Objectifs et contenus de l'épreuve
 
-Cette épreuve vise à apprécier les acquis d'apprentissage liés au bloc de compétences 3 « Conseiller et accompagner le client dans son parcours d'achat » et aux savoirs-associés.
+Cette épreuve vise à apprécier les acquis d'apprentissage liés au bloc de compétences 3 "Conseiller et accompagner le client dans son parcours d'achat" et aux savoirs-associés.
 
 Critères d'évaluation
 
@@ -308,7 +308,7 @@ Présentation de l'épreuve
 
 L'épreuve comporte une situation d'évaluation.
 
-Le contrôle en cours de formation est conduit à partir des activités professionnelles du candidat réalisées durant le cycle de formation, à la fois dans le cadre des PFMP et de la formation en établissement. Ces activités donneront lieu à des comptes rendus écrits et oraux qui permettront à l'élève d'expliciter la démarche mise en œuvre pour les réaliser. Elles mobilisent les compétences du bloc 3 « Conseiller et accompagner le client dans son parcours d'achat ».
+Le contrôle en cours de formation est conduit à partir des activités professionnelles du candidat réalisées durant le cycle de formation, à la fois dans le cadre des PFMP et de la formation en établissement. Ces activités donneront lieu à des comptes rendus écrits et oraux qui permettront à l'élève d'expliciter la démarche mise en œuvre pour les réaliser. Elles mobilisent les compétences du bloc 3 "Conseiller et accompagner le client dans son parcours d'achat".
 
 La programmation de la situation d'évaluation dépend notamment :
 
@@ -348,13 +348,11 @@ Un dossier administratif sera constitué permettant de vérifier la conformité 
 
 Ou
 
-- Attestation relative à l'activité salariée du candidat dans un domaine professionnel correspondant aux finalités du « CAP Equipier polyvalent du commerce ».
+- Attestation relative à l'activité salariée du candidat dans un domaine professionnel correspondant aux finalités du "CAP Equipier polyvalent du commerce".
 
 Le contrôle de conformité du dossier est effectué par les autorités académiques avant le jour de l'épreuve pour permettre au candidat, le cas échéant, de mettre son dossier en conformité le jour de l'épreuve.
 
-Si le jour de l'épreuve, la partie administrative du dossier demeure incomplète, la mention « non valide » est prononcée et est signifiée au candidat. Le diplôme ne peut pas lui être délivré.
-
-Le candidat ne peut pas être interrogé, la note zéro est attribuée à cette sous-épreuve et est signifiée au candidat.
+Si le jour de l'épreuve, la partie administrative du dossier demeure incomplète, la mention "non valide" est prononcée et est signifiée au candidat. Le candidat ne peut pas être interrogé, le diplôme ne peut pas lui être délivré.
 
 Déroulement de l'épreuve.
 
