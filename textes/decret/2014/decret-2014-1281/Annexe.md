@@ -48,9 +48,9 @@ Articles L. 324-1 et L. 364-1 |
 
 Modification de la répartition du capital (prise ou augmentation de participation). |
 
-Articles R. 322-11-2 et A. 322-1 |
+Articles R. 322-11-2 |
 
-60 jours ouvrables, avec possibilité d'une suspension qui ne peut excéder 20 jours ouvrables mais peut être portée à 30 jours ouvrables si le candidat acquéreur est établi hors de l'Union européenne ou relève d'une réglementation non communautaire ou si le candidat est une personne qui n'est pas soumise à une surveillance. |
+60 jours ouvrés, avec possibilité, en cas de demande d'information complémentaire, d'une suspension qui ne peut excéder 20 jours ouvrés mais peut être portée à 30 jours ouvrés si le candidat acquéreur est établi hors de l'Union européenne ou relève d'une réglementation qui n'est pas une réglementation de l'Union ou si le candidat est une personne qui n'est pas soumise à une surveillance en vertu des réglementations relatives à l'accès aux activités d'assurance et de réassurance et à leur exercice, aux organismes de placement collectif en valeurs mobilières, aux marchés d'instruments financiers ou à l'accès à l'activité des établissements de crédit et à la surveillance prudentielle des établissements de crédit |
 
 Modification de la répartition du capital (cession de participation). |
 
@@ -338,21 +338,39 @@ Article L. 511-7-II |
 
 Modifications portant sur la forme juridique, la dénomination sociale, le nom commercial, le type d'opérations de banque pour lesquelles un établissement de crédit ou une société de financement a été agréé, la composition du collège des associés dans une société en nom collectif, l'identité du ou des commandités dans une société en commandite. |
 
-Articles L. 511-12-1 et L. 532-3-1 et articles 7,14 et 16 du règlement n° 96-16 du comité de la réglementation bancaire et financière, applicables aux établissements de crédit, aux sociétés de financement et aux entreprises d'investissement |
+Articles L. 511-12-1 et L. 532-3-1, et article 27 de l'arrêté du 4 décembre 2017 relatif à l'agrément, aux modifications de situation et au retrait de l'agrément des établissements de crédit, article 23 de l'arrêté du 4 décembre 2017 relatif à l'agrément, aux modifications de situation, au retrait de l'agrément et à la radiation des entreprises d'investissement et des établissements assimilés et article 23 de l'arrêté relatif à l'agrément, aux modifications de situation, au retrait de l'agrément et à la radiation des sociétés de financement, ainsi qu'aux obligations déclaratives de certains établissements financiers. |
 
 3 mois |
 
 Modification de la répartition du capital (prise ou augmentation de participation). |
 
-Articles L. 511-12-1 et L. 532-3-1 et articles 2.1 et 2.2 de l'article 2 du règlement n° 96-16 du comité de la réglementation bancaire et financière, applicables aux établissements de crédit, aux sociétés de financement et aux entreprises d'investissement |
+Articles L. 511-12-1 et L. 532-3-1, et articles 11 à 14 de l'arrêté du 4 décembre 2017 relatif à l'agrément, aux modifications de situation et au retrait de l'agrément des établissements de crédit, articles 11 à 14 de l'arrêté du 4 décembre 2017 relatif à l'agrément, aux modifications de situation, au retrait de l'agrément et à la radiation des entreprises d'investissement et des établissements assimilés et articles 10 à 13 de l'arrêté relatif à l'agrément, aux modifications de situation, au retrait de l'agrément et à la radiation des sociétés de financement, ainsi qu'aux obligations déclaratives de certains établissements financiers |
 
-60 jours ouvrables, avec possibilité d'une suspension qui ne peut excéder 20 jours ouvrables mais peut être portée à 30 jours ouvrables si le candidat acquéreur est établi hors de l'Union européenne ou relève d'une réglementation non communautaire ou si le candidat est une personne qui n'est pas soumise à une surveillance. |
+60 jours ouvrés, avec possibilité, en cas de demande d'information complémentaire, d'une suspension qui ne peut excéder 20 jours ouvrés, mais peut être portée à 30 jours ouvrés si le candidat acquéreur est établi hors de l'Union européenne ou relève d'une réglementation qui n'est pas une réglementation de l'Union ou si le candidat est une personne qui n'est pas soumise à une surveillance en vertu des réglementations relatives à l'accès à l'activité des établissements de crédit et à la surveillance prudentielle des établissements de crédit, à l'accès aux activités d'assurance et de réassurance et à leur exercice, aux organismes de placement collectif en valeurs mobilières ou aux marchés d'instruments financiers. |
 
-Modification de la répartition du capital (cession de participation). |
+Acquisitions ou cessions de participations importantes |
 
-Articles L. 511-12-1 et L. 532-3-1et article 2.3 de l'article 2 du règlement n° 96-16 du comité de la réglementation bancaire et financière, applicable aux établissements de crédit, aux sociétés de financement et aux entreprises d'investissement |
+Article L. 511-20-1 et articles 24-2 et suivants de l'arrêté du 4 décembre 2017 relatif à l'agrément, aux modifications de situation et au retrait de l'agrément des établissements de crédit. |
 
-60 jours ouvrables |
+60 jours ouvrés, avec possibilité, en cas de demande d'information complémentaire, d'une suspension qui ne peut excéder 20 jours ouvrés, mais peut être portée à 30 jours ouvrés si l'entité qui fait l'objet de l'acquisition est située dans un pays tiers ou est soumise au cadre réglementaire d'un pays tiers ou si un échange d'informations avec les autorités chargées de la surveillance du candidat acquéreur est nécessaire pour effectuer l'évaluation. |
+
+Acquisitions ou cessions de participations importantes |
+
+Articles L. 511-20-1 et 20-2 et suivants de l'arrêté du 4 décembre 2017 relatif à l'agrément, aux modifications de situation, au retrait de l'agrément et à la radiation des sociétés de financement, ainsi qu'aux obligations déclaratives de certains établissements financiers. |
+
+60 jours ouvrés, avec possibilité, en cas de demande d'information complémentaire, d'une suspension qui ne peut excéder 20 jours ouvrés mais peut être portée à 30 jours ouvrés si l'entité qui fait l'objet de l'acquisition est située dans un pays tiers ou est soumise au cadre réglementaire d'un pays tiers ou si un échange d'informations avec les autorités chargées de la surveillance du candidat acquéreur est nécessaire pour effectuer l'évaluation. |
+
+Opération de fusion ou scission intra-groupe |
+
+Article L. 511-20-4 et articles 24-8 à 24-10 de l'arrêté du 4 décembre 2017 relatif à l'agrément, aux modifications de situation et au retrait de l'agrément des établissements de crédit. |
+
+60 jours ouvrés, avec possibilité, en cas de demande d'information complémentaire, d'une suspension qui ne peut excéder 20 jours ouvrés mais peut être portée à 30 jours ouvrés lorsqu'au moins une des parties prenantes financières est située dans un pays tiers ou est soumise au cadre réglementaire d'un pays tiers ou si un échange d'informations avec les autorités chargées de la surveillance des parties prenantes financières est nécessaire pour effectuer l'évaluation. |
+
+Opération de fusion ou scission intra-groupe. |
+
+Article L. 511-20-4 et article 20-8 à 20-10 de l'arrêté du 4 décembre 2017 relatif à l'agrément, aux modifications de situation, au retrait de l'agrément et à la radiation des sociétés de financement, ainsi qu'aux obligations déclaratives de certains établissements financiers. |
+
+60 jours ouvrés, avec possibilité en cas de demande d'information complémentaire, d'une suspension qui ne peut excéder 20 jours ouvrés mais peut être portée à 30 jours ouvrés lorsqu'au moins une des parties prenantes financières est située dans un pays tiers ou est soumise au cadre réglementaire d'un pays tiers ou si un échange d'informations avec les autorités chargées de la surveillance des parties prenantes financières est nécessaire pour effectuer l'évaluation. |
 
 Exemption d'agrément d'établissement de paiement pour les entreprises fournissant des services de paiement dans certaines conditions. |
 

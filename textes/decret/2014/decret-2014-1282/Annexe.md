@@ -320,6 +320,18 @@ Article L. 151-2
 
 - |
 
+Opération de fusion ou scission (hors intra-groupe) |
+
+Article L. 511-20-4 et articles 24-8 à 24-10 de l'arrêté du 4 décembre 2017 relatif à l'agrément, aux modifications de situation et au retrait de l'agrément des établissements de crédit. |
+
+60 jours ouvrés, avec possibilité, en cas de demande d'information complémentaire, d'une suspension qui ne peut excéder 20 jours ouvrés mais peut être portée à 30 jours ouvrés lorsqu'au moins une des parties prenantes financières est située dans un pays tiers ou est soumise au cadre réglementaire d'un pays tiers ou si un échange d'informations avec les autorités chargées de la surveillance des parties prenantes financières est nécessaire pour effectuer l'évaluation. |
+
+Demande d'exclusion du périmètre de consolidation par les compagnies financières holding, les entreprises mères de société de financement et les compagnies financières holding mixtes exemptées d'approbation |
+
+Article L. 517-14 |
+
+- |
+
 Code des postes et des communications électroniques |
 
 Autorisation d'utilisation des assignations de fréquences radioélectriques relatives à un système satellitaire |
