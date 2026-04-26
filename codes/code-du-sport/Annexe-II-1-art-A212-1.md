@@ -436,6 +436,16 @@ Encadrement, initiation et conduite de cycles d'apprentissage des activités de 
 
 |
 
+BP JEPS, spécialité "éducateur sportif", mention "activités physiques et sportives de la forme".
+
+|
+
+4 |
+
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en activités physiques et sportives de la forme. |
+
+|
+
 Certificats de qualification délivrés par la Commission paritaire nationale emploi formation du sport |
 
 CQP instructeur de fitness option " fitness en cours collectifs " délivré jusqu'au 30 avril 2030 |
@@ -864,6 +874,16 @@ Encadrement, animation et conduite de cycles d'apprentissage et de séances d'en
 
 |
 
+BP JEPS, spécialité "éducateur sportif", mention "activités de l'aviron et disciplines associées".
+
+|
+
+4 |
+
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en aviron et disciplines associées. |
+
+|
+
 DE JEPS, spécialité "perfectionnement sportif" mention "aviron et disciplines associées", jusqu'au 1er septembre 2028 (**). |
 
 5 |
@@ -1116,6 +1136,16 @@ Encadrement, initiation et conduite de cycles d'apprentissage en boxe. |
 
 |
 
+BP JEPS, spécialité "éducateur sportif", mention "boxe anglaise".
+
+|
+
+4 |
+
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en boxe anglaise. |
+
+|
+
 DE JEPS, spécialité " perfectionnement sportif " mention " boxe ", délivré jusqu'au 8 novembre 2027. |
 
 5 |
@@ -1347,6 +1377,16 @@ BP JEPS, spécialité " éducateur sportif " mention " char à voile ", délivr�
 4 |
 
 Encadrement et animation d'activités de découverte et d'initiation en char à voile : char à voile en pratique assise et allongée, en pratique debout, en pratique tractée, sur tout lieu de pratique de l'activité aménagé et ouvert. |
+
+|
+
+BP JEPS, spécialité "éducateur sportif ", mention "activités du char à voile".
+
+|
+
+4 |
+
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en char à voile. |
 
 |
 
@@ -1634,7 +1674,7 @@ Accompagnateur de tourisme équestre |
 
 4 |
 
-Conduite de séances de découverte, d'initiation et d'apprentissage d'activités de tourisme équestre
+Conduite de séances de découverte et d'initiation en équitation d'extérieur
 
 |
 
@@ -1650,13 +1690,13 @@ Conduite de séances d'initiation et d'apprentissage aux pratiques équestres. |
 
 |
 
-CQP " Organisateur de randonnées équestres "
+CQP "Organisateur de randonnées équestres"
 
 |
 
 4 |
 
-Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage d'activités de tourisme équestre et d'équitation |
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en équitation d'extérieur |
 
 |
 
@@ -1998,6 +2038,16 @@ GLISSE AÉROTRACTÉE-ENVIRONNEMENT SPECIFIQUE |
 
 Diplômes délivrés par le ministère chargé des sports |
 
+BP JEPS, spécialité "éducateur sportif", mention "activités de glisse aérotractée et disciplines associées".
+
+|
+
+4 |
+
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en glisse aérotractée et disciplines associées. |
+
+|
+
 DE JEPS, spécialité " perfectionnement sportif " mention " glisses aérotractées nautiques ", jusqu'au 29 novembre 2027 (**).
 
 |
@@ -2021,6 +2071,16 @@ BP JEPS spécialité " éducateur sportif " mention " golf ", délivré jusqu'au
 4 |
 
 Encadrement, initiation et conduite de cycle d'apprentissage en golf. |
+
+|
+
+BP JEPS, spécialité "éducateur sportif", mention "activité golf".
+
+|
+
+4 |
+
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en golf. |
 
 |
 
@@ -2622,17 +2682,15 @@ Titre à finalité professionnelle délivré par la Fédération française de k
 
 |
 
-Moniteur professionnel de karaté, wushu et disciplines associées délivré jusqu'au 30 avril 2028
+Moniteur professionnel de karaté, wushu et disciplines associées
 
 |
 
 3 |
 
-Conduite de séances d'initiation et d'apprentissage, de préparation à la compétition ou de passage de grade dans le domaine du karaté, du wushu et des disciplines associées |
+Conduite de séances d'initiation en karaté et disciplines associées |
 
-Préparation de la compétition jusqu'au niveau régional
-
-Préparation au passage de grade 1° dan, duan ou dang délivré par la CSDGE Karaté, Wushu et Disciplines Associées |
+|
 
 KENDO
 
@@ -3030,6 +3088,26 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes délivrés par le ministère chargé des sports |
 
+BP JEPS, spécialité "éducateur sportif", mention "motonautisme et disciplines associées".
+
+|
+
+4 |
+
+Encadrement et animation en motonautisme et disciplines associées des activités de véhicules nautiques à moteur à bras et à selle ; d'engins tractés et d'engins à sustentation hydro propulsés ; de bateau à moteur en initiation et découverte. |
+
+|
+
+BP JEPS, spécialité "éducateur sportif", mention "activités de motonautisme et disciplines associées".
+
+|
+
+4 |
+
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en motonautisme et disciplines associées. |
+
+|
+
 NATATION |
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
@@ -3278,6 +3356,16 @@ Encadrement du saut en tandem. |
 
 Autorisation d'exercer pour une durée d'un an renouvelée à l'issue d'une formation de mise à niveau. |
 
+BP JEPS, spécialité "éducateur sportif", mention "activités du parachutisme".
+
+|
+
+4 |
+
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en parachutisme. |
+
+Autorisation d'exercer pour une durée d'un an renouvelée à l'issue d'une formation de mise à niveau. |
+
 BP JEPS, spécialité " éducateur sportif ", mention " activités du parachutisme ", jusqu'au 1er juin 2030 (**).
 
 |
@@ -3387,6 +3475,16 @@ BP JEPS spécialité " éducateur sportif " mention " pêche de loisirs ", déli
 4 |
 
 Encadrement, animation et initiation d'activités de pêche de loisirs et sportive en eau douce et depuis le bord sur le littoral. |
+
+|
+
+BP JEPS, spécialité "éducateur sportif", mention "pêche de loisirs à pieds et en embarcation".
+
+|
+
+4 |
+
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en pêche de loisirs à pied et en embarcation. |
 
 |
 
@@ -3590,6 +3688,16 @@ Conduite de séances et de cycles d'animation, d'initiation et d'apprentissage e
 
 |
 
+BP JEPS, spécialité "éducateur sportif", mention "activités du rugby à XV".
+
+|
+
+4 |
+
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en rugby à XV. |
+
+|
+
 DE JEPS, spécialité " perfectionnement sportif " mention " rugby à XV ", délivré jusqu'au 2 avril 2027. |
 
 5 |
@@ -3685,6 +3793,16 @@ BP JEPS, spécialité "éducateur sportif", mention "ski nautique-wakeboard, dis
 4 |
 
 Encadrement, enseignement et animation du ski nautique-wakeboard, des disciplines associées et de tous supports de glisse tractés dans l'option. |
+
+|
+
+BP JEPS, spécialité "éducateur sportif", mention "ski nautique et disciplines associées".
+
+|
+
+4 |
+
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en ski nautique et disciplines associées. |
 
 |
 
@@ -4258,6 +4376,16 @@ Encadrement et animation du stand up paddle (SUP). |
 
 A l'exclusion des activités dérivées du surf de mer. |
 
+DE JEPS, spécialité "perfectionnement sportif", mention "activités de canoë-kayak en eau vive".
+
+|
+
+5 |
+
+Encadrement et animation du stand up paddle (SUP). |
+
+A l'exclusion des activités dérivées du surf de mer. |
+
 DES JEPS, spécialité " performance sportive " mention " canoë-kayak et disciplines associées en eau calme ", jusqu'au 30 novembre 2027 (**).
 
 |
@@ -4294,6 +4422,16 @@ Encadrement et animation du stand up paddle (SUP). |
 
 A l'exclusion des activités dérivées du surf de mer. |
 
+CQP "moniteur de canoë-kayak et sports de pagaie en eau calme".
+
+|
+
+4 |
+
+Encadrement et animation du stand up paddle (SUP). |
+
+A l'exclusion des activités dérivées du surf de mer. |
+
 SURF-ENVIRONNEMENT SPECIFIQUE |
 
 Diplômes délivrés par le ministère chargé des sports |
@@ -4303,6 +4441,16 @@ BP JEPS, spécialité " éducateur sportif ", mention " surf et disciplines asso
 4 |
 
 Encadrement et animation d'activités de découverte et d'initiation, conduite de cycles d'apprentissage en surf et disciplines associées. |
+
+|
+
+BP JEPS, spécialité "éducateur sportif", mention "activités de surf et disciplines associées".
+
+|
+
+4 |
+
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en surf et disciplines associées. |
 
 |
 
@@ -4467,6 +4615,16 @@ BP JEPS, spécialité " éducateur sportif ", mention " tennis de table ", déli
 4 |
 
 Encadrement, animation et conduite de cycles d'apprentissage et de séances d'entraînement en tennis de table. |
+
+|
+
+BP JEPS, spécialité "éducateur sportif", mention "activités du tennis de table".
+
+|
+
+4 |
+
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en tennis de table. |
 
 |
 
@@ -4794,14 +4952,6 @@ VOL EN SOUFFLERIE |
 
 Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation du sport |
 
-CQP " moniteur de vol à plat en soufflerie " délivré du 16 décembre 2020 au 16 décembre 2025. |
-
-4 |
-
-Encadrement des activités de vol à plat en soufflerie. |
-
-Dans la limite d'un pratiquant, dans le cas où les pratiquants ne sont pas autonomes. |
-
 VOL LIBRE ENVIRONNEMENT SPÉCIFIQUE (à l'exception de l'activité de cerf-volant acrobatique et de combat) |
 
 DE JEPS, spécialité " perfectionnement sportif " mention " vol libre " option " deltaplane ", délivré jusqu'au 1er mai 2028.
@@ -4945,6 +5095,16 @@ Conduite de séances de découverte et d'initiation des activités d'arts martia
 |
 
 Diplômes délivrés par le ministère chargé des sports |
+
+BP JEPS, spécialité "éducateur sportif", mention "karaté, disciplines associées et arts martiaux chinois".
+
+|
+
+4 |
+
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en karaté, disciplines associées et arts martiaux chinois. |
+
+|
 
 DE JEPS, " perfectionnement sportif " mention " karaté et disciplines associées ", jusqu'au 5 septembre 2029 (**). |
 
