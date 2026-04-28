@@ -1,0 +1,9 @@
+# Réponse à la question n° 9267
+
+- Question : [9267](9267.md) — Question n° 9267 — Prisons surpeuplées : à quand une véritable politique de réinsertion ?
+
+## Réponse
+
+*JO du 2026-04-28, page 3748*
+
+La direction de l'administration pénitentiaire (DAP) est pleinement mobilisée, en collaboration avec ses partenaires, pour œuvrer à la réinsertion des personnes placées sous main de justice (PPSMJ). La maison d'arrêt (MA) d'Amiens connait une situation de surpopulation carcérale élevée, avec un taux d'occupation de 211,2 %, soit 566 personnes détenues écrouées pour une capacité opérationnelle de 268 places au 1er novembre 2025. Parallèlement, le taux de couverture relevé à la fin du mois de novembre 2025 s'élève à 93,41 %, soit 123,3 équivalents temps plein (ETP) réels pour 132 ETP inscrits à l'organigramme de référence. Afin de favoriser la réinsertion et prévenir le risque de récidive, l'offre d'activités proposée aux PPSMJ incarcérées à la MA d'Amiens est diverse. Les activités couvrent des domaines variés, tels que l'enseignement, l'insertion professionnelle, la formation professionnelle, les activités sportives et physiques ainsi qu'éducatives, culturelles et socioculturelles à visée pédagogique. Des postes de travail pénitentiaire sont également offerts à la population pénale. Cette dynamisation des actions proposées repose sur un réseau étoffé de partenaires. S'agissant de l'opération de réhabilitation et de transformation de l'ancien quartier femmes en quartier de semi-liberté (QSL), les locaux communs du 1er étage sont en cours de rénovation. Les cellules du 2e et 3e étage sont également en travaux, avec l'installation de douches en cellules, la mise aux normes des réseaux électriques et de la plomberie, et le remplacement des menuiseries extérieures. Les travaux ont été achevés en décembre 2025. 22 cellules ont été créées, pour un montant global de l'opération s'élevant à 2,8 millions d'euros.
