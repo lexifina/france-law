@@ -1,0 +1,9 @@
+# Réponse à la question n° 352
+
+- Question : [352](352.md) — Question n° 352 — Conséquence de la fixation d'un âge limite de 43 ans pour une PMA
+
+## Réponse
+
+*JO du 2026-04-28, page 3767*
+
+La loi de bioéthique de 2021, en ouvrant l'Assistance médicale à la procréation (AMP) aux femmes seules et aux couples de femmes et en autorisant l'autoconservation des gamètes pour des raisons non médicales, a en effet conduit à fortement solliciter les centres d'AMP et les centres de dons. Elle a également fixé des âges limites pour les procédures d'AMP. Ces bornes ont été retenues parce qu'elles permettent de prendre en compte les risques médicaux liés à la procréation tardive, mais aussi l'intérêt de l'enfant à naître. Enfin, ces limites visent à garantir que l'AMP reste un outil encadré, prudent et respectueux des principes éthiques. L'Agence de la biomédecine (ABM) de concert avec le ministère de la santé agit actuellement pour la fluidification des parcours en AMP, notamment avec tiers donneurs, afin de pouvoir augmenter le nombre de personnes prises en charge ainsi, in fine, réduire les délais d'attente de chacun. Dans ce contexte, la direction générale de la santé a missionné dès 2023 l'ABM pour identifier des pistes d'action pour fluidifier les parcours. Un groupe de travail créé par l'ABM et composé d'une quarantaine de personnes (professionnels, associations de patients, agences régionales de santé) a rendu ses conclusions en juin 2024. Une mission de l'agence nationale de la performance sanitaire et médico-sociale (ANAP) a été lancée récemment afin d'identifier les leviers et construire les outils permettant une meilleure organisation des centres d'AMP notamment dans un contexte d'afflux de demandes. Le Gouvernement est ainsi pleinement mobilisé pour garantir l'accès à l'AMP dans les meilleures conditions possibles et dans des délais raisonnables.
