@@ -1,0 +1,9 @@
+# Réponse à la question n° 12661
+
+- Question : [12661](12661.md) — Question n° 12661 — Coupe du monde de football : la France ne doit pas jouer aux USA
+
+## Réponse
+
+*JO du 2026-04-28, page 3792*
+
+La France a une position constante, alignée sur celles de l'Union européenne et de l'Assemblée générale des Nations unies (résolution A/77/L.28 « Le sport, facteur de développement durable »), qui reconnaît que les grandes manifestations sportives internationales « doivent être organisées dans un esprit de paix » et « qu'il convient de respecter le caractère unificateur et conciliateur de ces manifestations ». Ce faisant, la France respecte le principe d'autonomie du mouvement sportif. Alors que le choix des pays hôtes de compétitions sportives relève des fédérations internationales, le choix de participer à une compétition sportive appartient aux fédérations sportives nationales. Ainsi, la décision concernant la participation de l'équipe de France masculine à la Coupe du Monde de la FIFA qui se déroulera aux États-Unis, au Canada et au Mexique en juin et juillet 2026 relevait de la fédération française de Football (FFF) et son président, M. Philippe Diallo, a signalé dans une interview au quotidien Ouest-France que la fédération n'avait « aucune volonté de boycotter » cette compétition. À ce jour, aucun boycott des équipes de France dans des manifestations sportives n'est envisagé comme l'a rappelé la ministre des sports, de la jeunesse et de la vie associative le 20 janvier 2026. En concertation étroite avec le ministère chargé des affaires étrangères, le réseau diplomatique français sur place et la FFF, le ministère des sports, de la jeunesse et de la vie associative veillera à s'assurer que toutes les mesures nécessaires ont été prises afin d'assurer la sécurité des joueurs, des encadrants, des journalistes et des supporters français.
