@@ -1,0 +1,9 @@
+# Réponse à la question n° 12985
+
+- Question : [12985](12985.md) — Question n° 12985 — Difficultés d'assurance et fermeture au public du château d'Olhain
+
+## Réponse
+
+*JO du 2026-04-28, page 3710*
+
+Le Gouvernement déplore la fermeture du château d'Olhain et partage avec M. le député la volonté de préserver un patrimoine historique aussi accessible au public que possible. Comme le rappelle M. le député, la liberté constitutionnelle de contracter ou ne pas contracter entraîne – hormis dans le cas de quelques assurances obligatoires – l'impossibilité, pour l'État, de contraindre des acteurs privés à couvrir un risque ou souscrire une assurance selon des termes imposés. Cette primauté donnée à la liberté contractuelle est également consacrée par le droit européen et protège notamment la solvabilité des assureurs. Chaque assureur est donc libre de fixer sa politique commerciale et la stratégie selon laquelle il fait évoluer son portefeuille de risques. Par ailleurs, le Gouvernement n'a pas connaissance d'un retrait significatif des assureurs du marché des monuments historiques. Certes, la couverture des risques associés à ces bâtiments singuliers nécessite une expertise que tous les assureurs n'ont pas choisi de développer, mais nombre d'entre eux, tant généralistes que spécialistes, disposent d'une offre sur ce segment de marché. En l'absence de carence de marché avérée, aucun dispositif spécifique, a fortiori mettant en jeu des garanties publiques, n'apparaît donc nécessaire. Au cas d'espèce, et sans préjuger d'éventuelles particularités du dossier, le recours par l'association gestionnaire du château à l'entremise d'un courtier d'assurance, qui sera à même de prendre attache avec les assureurs disposant d'une offre adaptée, paraît constituer la solution la plus appropriée pour conclure un nouveau contrat d'assurance.
