@@ -1,0 +1,9 @@
+# Réponse à la question n° 5884
+
+- Question : [5884](5884.md) — Question n° 5884 — Emission de relevés de carrière erronés n'intégrant pas les périodes de chômage
+
+## Réponse
+
+*JO du 2026-04-28, page 3803*
+
+L'article L. 5421-4 du code du travail impose l'arrêt de l'indemnisation chômage dès lors que l'allocataire a atteint l'âge pour prétendre à une retraite à taux plein. La date du taux plein est connue par la branche vieillesse qui transmet l'information à France Travail afin que l'indemnisation en question puisse prendre fin à la date communiquée. Des difficultés dans le circuit d'échanges d'information sont apparues récemment qui ont conduit France Travail à retenir une date erronée et à prolonger à tort la durée de paiement des prestations chômage. Des travaux ont été menés entre l'union nationale interprofessionnelle pour l'emploi dans l'industrie et le commerce, France Travail et la caisse nationale d'assurance vieillesse afin de mieux prévenir la survenance des indus ainsi générés. En juillet 2024, une nouvelle convention opérationnelle a été signée entre ces trois organismes comportant des axes d'amélioration relatifs à l'information transmise aux allocataires et au développement des échanges de données entre organismes, dans l'objectif de fiabiliser la date prévisionnelle du taux plein et ainsi réduire les risques de trop-perçus. Si des progrès ont été réalisés, ils n'ont pas permis de résoudre totalement les difficultés pour les allocataires. C'est pourquoi une mission a été confiée à l'inspection générale des affaires sociales afin d'analyser en profondeur les causes de ces erreurs et de formuler des propositions pour renforcer la fiabilité des relevés de carrière et limiter les impacts de potentielles erreurs sur les droits des assurés. Les conclusions de la mission et ces éventuelles recommandations feront l'objet d'un suivi attentif de la part du gouvernement.
