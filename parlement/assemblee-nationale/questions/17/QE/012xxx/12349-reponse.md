@@ -1,0 +1,9 @@
+# Réponse à la question n° 12349
+
+- Question : [12349](12349.md) — Question n° 12349 — Accès aux licences de football pour les mineurs non accompagnés
+
+## Réponse
+
+*JO du 2026-04-28, page 3792*
+
+L'enjeu de l'accès à la pratique sportive des mineurs non accompagnés constitue une situation suivie avec attention par le ministère des sports, de la jeunesse et de la vie associative et par la fédération française de football (FFF). Depuis plusieurs mois, la FFF a alerté la FIFA sur les conséquences problématiques du durcissement des règles pour les mineurs migrants non accompagnés (MNA) en particulier pour les pratiquants amateurs souhaitant simplement s'adonner à une activité sportive participant à leur épanouissement et leur intégration sociale. La FFF s'est entretenue avec le Défenseur des droits afin de partager les analyses juridiques quant à l'application du règlement de la FIFA. Une expertise a été réalisée afin d'identifier le risque discriminatoire qu'induit cette réglementation au regard du droit positif français. La fédération française de football a transmis cet avis à la FIFA ainsi que des propositions d'aménagement. Suite à ces échanges, la fédération française de football a donné la consigne à ses ligues régionales de délivrer les licences des joueurs mineurs non accompagnés (MNA) dans des clubs sous statut amateur. Dans ce cadre, la FFF a précisé les conditions permettant l'enregistrement de ces jeunes joueurs, afin de concilier le respect des règles internationales et du dispositif national de protection de l'enfance. Désormais, les ligues régionales sont autorisées à délivrer des licences aux joueurs MNA, sous conditions. Les dossiers initialement transmis seront intégralement repris pour traitement immédiat, si complétude du dossier. Les clubs sont invités à transmettre leurs nouveaux dossiers complets à la ligue pour instruction.
