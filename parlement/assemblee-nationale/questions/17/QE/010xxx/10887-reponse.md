@@ -1,0 +1,9 @@
+# Réponse à la question n° 10887
+
+- Question : [10887](10887.md) — Question n° 10887 — Aides aux entreprises réunionnaises - décret n° 2025-945 du 8 septembre 2025
+
+## Réponse
+
+*JO du 2026-04-28, page 3699*
+
+Le Gouvernement a pris toute la mesure des conséquences du cyclone Chido sur l'activité des entreprises de Mayotte et a institué immédiatement plusieurs mesures d'aide. Dès les premiers jours suivant le cyclone, l'Etat a priorisé le rétablissement des réseaux essentiels (électricité, eau) et la continuité logistique, afin de permettre une reprise progressive de l'activité économique notamment via le transport maritime. Un soutien d'urgence aux populations a été déployé, incluant des distributions de bons alimentaires à grande échelle pour répondre aux besoins immédiats sur le territoire. De plus, des premières aides aux entreprises ont pu être mises en place et ont bénéficié à 4 400 entreprises pour un montant total de 22,4 M€. En février et mars, la situation économique restant très contrastée, un dispositif plus ciblé a été mis en place par le décret n° 2025-945 du 8 septembre 2025. Le guichet de demande d'aide au titre de ce dispositif a ouvert le 15 décembre 2025. Cette aide s'adresse aux entreprises ayant leur siège social à Mayotte et y exerçant une activité économique en propre, les entreprises réunionnaises dont le siège social est situé à La Réunion n'y sont donc pas éligibles. Le gouvernement est conscient des difficultés rencontrées par certaines entreprises réunionnaises et rappelle que des dispositifs de droit commun peuvent être mobilisés tel que l'activité partielle de longue durée. De plus, le conseiller départemental aux entreprises en difficulté de la direction générale des finances publiques à la Réunion (codefi.ccsf974@dgfip.finances.gouv.fr) peut être sollicité, il accompagne et oriente les entreprises en situation de fragilité financière.
