@@ -1,0 +1,9 @@
+# Réponse à la question n° 10169
+
+- Question : [10169](10169.md) — Question n° 10169 — Conséquences de la disparition de la diversité chromatique
+
+## Réponse
+
+*JO du 2026-04-28, page 3781*
+
+La question de l'environnement visuel et de son influence sur le bien-être psychique et cognitif est effectivement un sujet d'intérêt croissant dans les domaines de la santé publique, de la psychologie environnementale et du développement de l'enfant. Plusieurs études scientifiques ont mis en évidence les effets des couleurs sur l'humeur, la concentration, le stress ou encore la stimulation cognitive. Les couleurs vives et variées peuvent notamment favoriser l'éveil sensoriel et le développement psychomoteur chez les jeunes enfants. Toutefois, la prédominance des tons neutres dans les objets commercialisés, les véhicules ou les vêtements relève principalement de choix industriels, marketing et culturels, qui échappent au champ direct de l'action publique en matière de santé. Il convient de noter que ces tendances peuvent également être influencées par des considérations de durabilité, de sobriété ou de sécurité. Le ministère de la santé, des familles, de l'autonomie et des personnes handicapées reste attentif aux travaux scientifiques portant sur les interactions entre environnement visuel et santé. Dans le cadre des politiques de promotion de la santé, notamment en milieu scolaire et dans les structures d'accueil de la petite enfance, une attention particulière est portée à la qualité des espaces, à leur aménagement et à leur capacité à favoriser un développement harmonieux des enfants, y compris par l'usage de couleurs stimulantes et adaptées. Enfin, toute réflexion sur l'impact de la standardisation visuelle dans notre société mérite d'être poursuivie dans une approche interdisciplinaire, associant les secteurs de la santé, de l'éducation, de l'urbanisme et de la culture.
