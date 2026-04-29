@@ -1,0 +1,312 @@
+# GrandSoissons Agglomération : délibération cc.2026.69-annexe-1 — cc.2026.69-annexe-1.pdf
+
+- Collectivité : GrandSoissons Agglomération
+- SIREN : 240200477
+- Date : 2026-04-29 (date de mise en ligne sur data.gouv.fr ; la date de l'acte n'est pas lisible dans le fichier)
+- Objet : cc.2026.69-annexe-1.pdf
+- Pages : 6
+- Acte publié : https://static.data.gouv.fr/resources/deliberations-du-conseil-communautaire-grandsoissons-agglomeration-2026/20260429-085014/cc.2026.69-annexe-1.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/69ae9d8f76ef8ed79c05a866
+
+## Texte
+
+Page 1 sur 6 
+
+CONVENTION DE PARTENARIAT ET DE PRESTATIONS 
+
+Entre : 
+
+- L’association de la Médiation de l’eau dont le siège est au 40 rue des Mathurins à Paris, représentée par 
+son Secrétaire Général Monsieur Anthony BORGES, ci-après nommé la Médiation de l’eau, d’une part, 
+
+- ……………………………… dont le siège est situé à ………………………………, représenté par 
+son Président, Directeur, ………. Monsieur ……, …… sera ci-après nommé le Professionnel, d’autre 
+part, 
+
+Il est convenu ce qui suit : 
+
+Article 1 - Objet de la Convention : 
+
+La présente Convention a pour objet d’établir les engagements réciproques de la Médiation de l’eau et du 
+Professionnel, de définir les modalités de fonctionnement du partenariat afin de permettre aux abonnés du 
+Professionnel de recourir aux services de la Médiation de l’eau et de préciser les conditions dans lesquelles 
+les prestations sont rendues par la Médiation de l’eau. 
+
+La Médiation de l’eau, créée en octobre 2009, est un dispositif de médiation de la consommation qui 
+permet de faciliter le règlement amiable des litiges de consommation se rapportant à l'exécution du service 
+public de distribution d'eau et/ou d'assainissement des eaux usées, opposant un consommateur et son 
+service d’eau ou d’assainissement situé en France Métropolitaine et Outre-Mer. 
+
+Le Médiateur de l’eau satisfait aux exigences de qualité et remplit les conditions prévues à l’article L.613-1 
+du code de la consommation. Il figure sur la liste des Médiateurs notifiés à la Commission Européenne par 
+la Commission d’Evaluation et de Contrôle de la Médiation de la Consommation ce qui garantit au 
+consommateur le respect de certains critères de qualité tels que : diligence, compétence, indépendance, 
+impartialité, transparence, efficacité et équité. 
+
+En passant cette convention avec la Médiation de l’eau, le Professionnel responsable et gestionnaire du 
+service public de l’eau/de l’assainissement sur les communes dont la liste figure dans l’annexe au présent 
+document, garantit à tout consommateur relevant du service le recours à un dispositif de règlement 
+amiable des litiges prévu par le code de la consommation au livre II, à l’article L.211-3 et au livre VI sous 
+réserve de remplir en amont les obligations d’information telles que définies aux articles L.616-1, L.616-2, 
+L.641-1 et R.616-1 du code de la consommation. 
+
+Article 2 - Durée : 
+
+La présente Convention est conclue pour une durée indéterminée. Le professionnel et/ou la Médiation de 
+l’eau peuvent mettre fin à la présente Convention dans les conditions prévues à l’article 8 sous réserve du 
+respect des dispositions de l’article L. 613-1 du code de la consommation. 
+
+Copie pour impression
+Réception au contrôle de légalité le 22/04/2026 à 11h44
+Réference de l'AR : 002-240200477-20260416-CC2026_69-DE
+Publié le 22/04/2026 ; Rendu exécutoire le 22/04/2026
+
+Page 2 sur 6 
+
+Article 3 - Dispositions concernant les modalités générales de collaboration : 
+
+Aux fins d’assurer une collaboration efficace et de simplifier les relations, chaque partie devra désigner : 
+ ̄
+ Un interlocuteur unique responsable de la mise en œuvre administrative de la Convention, ̄
+ S’il est différent, un interlocuteur pour la gestion du traitement des dossiers, 
+
+Dans le but de faciliter le suivi des dossiers en cours à la Médiation de l’eau et pour connaitre leur avancée, 
+le Professionnel bénéficiera de codes d’accès à un espace dédié pour gérer la convention, suivre 
+l’avancement des dossiers concernant son service d’eau et d’assainissement et déposer des pièces. 
+
+Article 4 - Dispositions concernant le champ d’application de la médiation 
+
+Un professionnel est tenu de garantir au consommateur un recours effectif à un dispositif de médiation de 
+la consommation. 
+
+Le code de la consommation dans son article préliminaire définit le consommateur comme suit : « toute 
+personne physique qui agit à des fins qui n'entrent pas dans le cadre de son activité commerciale, 
+industrielle, artisanale, libérale ou agricole ; » 
+
+Certains règlements de service définissent, de manière plus extensive, le consommateur comme un abonné 
+du service, considéré comme « toute personne physique ou morale, titulaire du contrat d’abonnement au 
+service. » 
+
+La Médiation de l’eau étant compétente pour faciliter le règlement amiable des litiges de consommation de 
+l’ensemble des abonnés, le Professionnel doit préciser en cochant la case correspondante ci-dessous s’il 
+souhaite que le champ d’application de la médiation soit étendu ou non à tous les abonnés du service. 
+
+ Tous les abonnés bénéficient du dispositif de la Médiation de l’eau, les frais de traitement et 
+d’instruction relatifs aux dossiers étant intégralement à la charge du professionnel selon le barème de 
+l’association, 
+
+ Les consommateurs, au sens du code de la consommation, bénéficient du dispositif de la Médiation 
+de l’eau, les frais de traitement et d’instruction relatifs aux dossiers étant intégralement à la charge du 
+professionnel selon le barème de l’association, 
+Tous les autres abonnés, bénéficient du dispositif de la Médiation de l’eau, après accord du 
+demandeur d'une part, du professionnel d'autre part sur un partage pour moitié des frais de 
+traitement et d’instruction relatifs aux dossiers selon le barème de l’association, 
+
+ Seuls les consommateurs, au sens du code de la consommation, bénéficient du dispositif de la 
+Médiation de l’eau, les frais de traitement et d’instruction relatifs aux dossiers étant intégralement à la 
+charge du professionnel. 
+
+Copie pour impression
+Réception au contrôle de légalité le 22/04/2026 à 11h44
+Réference de l'AR : 002-240200477-20260416-CC2026_69-DE
+Publié le 22/04/2026 ; Rendu exécutoire le 22/04/2026
+
+Page 3 sur 6 
+
+Article 5 - Dispositions concernant les modalités de fonctionnement, les obligations et 
+engagements des parties à la convention : 
+
+Les parties conviennent de mettre tous les moyens en œuvre en vue d’apporter des solutions permettant la 
+résolution amiable des litiges nés entre le Professionnel et ses abonnés 
+
+Article 5.1 - Dispositions concernant les modalités de saisine du Médiateur de l’eau, médiateur de 
+la consommation : 
+
+En cas de litige entre un abonné et le Professionnel et préalablement à la saisine du Médiateur de l’eau, 
+l’abonné doit : 
+
+- 
+Justifier avoir tenté de résoudre son litige directement auprès du Professionnel par une 
+réclamation écrite selon les modalités prévues, le cas échéant dans le contrat, 
+- 
+Avoir effectué cette réclamation écrite auprès du Professionnel dans un délai inférieur à un an 
+lorsqu’il saisit le Médiateur de l’eau, 
+- 
+Confirmer que le litige n’a pas été précédemment examiné ou est en cours d’examen par un autre 
+médiateur ou un tribunal. 
+
+Article 5.2 - Dispositions concernant les obligations et engagements du Professionnel : 
+
+En concluant la présente convention et au regard notamment des articles L.616-1, L.616-2, L.616-3, 
+R.616-1, R.616-2, et L211-3 du code de la consommation, le Professionnel s’engage à : 
+
+- Inscrire dans les contrats d’abonnements et le règlement de service que l’abonné a la possibilité de 
+recourir à la Médiation de l’eau en cas de litige, 
+- Indiquer dans les contrats d’abonnements et le règlement de service l’adresse à laquelle l’abonné 
+peut faire sa réclamation écrite. Cette adresse doit être la même que celle vers laquelle le 
+Médiateur doit renvoyer les saisines prématurées, 
+- Communiquer sur l’existence de la Médiation de l’eau sur son site internet, et sur une éventuelle 
+lettre d’information destinée aux abonnés, 
+- Communiquer les coordonnées postales et l’adresse internet du Médiateur sur son site internet, 
+sur les conditions générales de vente ou de service, les bons de commande ou tout support 
+adapté. (en aucun cas le numéro de téléphone de la Médiation de l’eau ne doit être transmis aux 
+abonnés) 
+- Informer ses abonnés sur la procédure à suivre en cas de réclamation (identification d’un système 
+de réclamation client), 
+- Informer la Médiation de l’eau des coordonnées vers lesquelles le Médiateur doit renvoyer les 
+saisines prématurées, 
+- Proposer à ses abonnés d’avoir recours à la Médiation de l’eau en leur expliquant les procédures à 
+suivre (saisir la Médiation de l’eau par courrier postal ou par Internet), 
+- Informer le Médiateur de l’eau, dès qu’il a connaissance qu’un dossier a été notifié, pour le cas 
+particulier où il souhaiterait se retirer du processus de médiation, 
+Copie pour impression
+Réception au contrôle de légalité le 22/04/2026 à 11h44
+Réference de l'AR : 002-240200477-20260416-CC2026_69-DE
+Publié le 22/04/2026 ; Rendu exécutoire le 22/04/2026
+
+Page 4 sur 6 
+
+- Coopérer avec la Médiation de l’eau en envoyant la copie de tous les documents demandés par ses 
+services dans les délais impartis, 
+- Indiquer au Médiateur dans le délai d’un mois, à compter de l’envoi de sa proposition de 
+règlement amiable, s’il y a refus ou acceptation de celle-ci. 
+
+Par ailleurs, si le Professionnel propose sur son site internet ou par un autre moyen électronique la vente 
+de biens ou de services, qui entrent dans le champ de la présente convention et peuvent être souscrits sur 
+ces supports, il doit : 
+ ̄
+ Indiquer sur son site internet son adresse électronique, ̄
+ Indiquer sur son site internet un lien électronique vers la plateforme européenne de Règlement 
+des Litiges en Ligne (RLL), ̄
+ Informer les abonnés de l’existence de la plateforme de RLL et la possibilité d’y recourir pour 
+régler leurs litiges, 
+
+Ces informations sont aussi à inscrire dans les conditions générales applicables aux contrats de vente et de 
+service en ligne. 
+
+Article 5.3 - Dispositions concernant les engagements du Médiateur de l’eau : 
+
+Le Médiateur de l’eau s’engage à : 
+
+- Renvoyer l’abonné vers l’instance du Professionnel chargée de répondre aux réclamations écrites 
+des abonnés dès que chaque saisine reçue sera jugée prématurée au sens de l’article L.612-2 du 
+code de la consommation, 
+- Informer l’abonné du rejet de sa demande de médiation dans un délai de trois semaines à compter 
+de la réception de son dossier, 
+- Déclarer comme dossier recevable chaque dossier concernant l’exécution du service public de 
+l’eau ou de l’assainissement ayant fait l’objet d’une tentative de règlement par l’abonné au travers 
+d’une réclamation écrite envoyée aux coordonnées définies par le Professionnel, 
+- Instruire chaque dossier en toute indépendance et impartialité dès lors qu’une notification telle 
+que prévue par l’article R.612-2 du code de la consommation a été faite aux parties, 
+- Transmettre à chaque partie, dans un délai de quatre-vingt-dix (90) jours à compter de la 
+notification, l’avis du Médiateur de l’eau, 
+- Aviser les parties de la prolongation du délai de traitement en cas de litige complexe, 
+- Proposer une solution de règlement amiable en cas de litige avéré qui soit rendu en droit et en 
+équité et qui satisfasse les intérêts des parties, 
+- Informer le Professionnel des questions relatives aux évolutions de la règlementation concernant 
+la médiation dans le secteur de l’eau. 
+
+Copie pour impression
+Réception au contrôle de légalité le 22/04/2026 à 11h44
+Réference de l'AR : 002-240200477-20260416-CC2026_69-DE
+Publié le 22/04/2026 ; Rendu exécutoire le 22/04/2026
+
+Page 5 sur 6 
+
+Article 6 - Abonnement et barème des prestations : 
+
+Le montant de l’abonnement annuel, qui dépend du nombre d’abonnés du service en eau et du nombre 
+d’abonnés du service en assainissement au 1er Janvier de l’année pour lequel il est perçu et le barème 
+appliqué aux prestations rendues sont fixés annuellement par le Conseil d’Administration de la Médiation 
+de l’eau. 
+
+Au 1er janvier 2026 : 
+
+- le nombre total d’abonnés en eau et en assainissement collectif et non collectif du Professionnel 
+étant de ………………………………, le montant de l’abonnement annuel sera de 
+……………………………… €, 
+- le barème des prestations applicable est annexé à la présente Convention. 
+
+Pour les années suivantes, la Médiation de l’eau notifiera au Professionnel au plus tard en décembre de 
+l’année précédente le nouveau barème. 
+
+Par ailleurs, le Professionnel s’engage à fournir annuellement à la Médiation de l’eau le nombre de ses 
+abonnés eau et assainissement à la date du 31 décembre. 
+
+Article 7 - Modalités de règlement : 
+
+Chaque année, la Médiation de l’eau établit : 
+
+- en janvier, une facture comprenant le montant de l’abonnement annuel et le cas échéant, une 
+facture de régularisation des prestations effectuées au cours de l’année précédente, 
+
+- en juillet, une facture des prestations effectuées au cours du 1er semestre, 
+
+Les factures sont payables à 30 jours par virement bancaire. Des pénalités pourront être appliquées en cas 
+de retard de paiement. Conformément à l'article 8 du décret n°2013-269, le taux des intérêts moratoires est 
+égal au taux d'intérêt appliqué par la Banque Centrale Européenne à ses opérations principales de 
+refinancement les plus récentes, en vigueur au premier jour du semestre de l'année civile au cours duquel 
+les intérêts moratoires ont commencé à courir, majoré de huit points de pourcentage. » Les intérêts 
+moratoires courent à compter du jour suivant la date d'échéance prévue sur la facture. 
+
+En outre, le Professionnel sera automatiquement débiteur d’une indemnité forfaitaire pour frais de 
+recouvrement égale à 40 euros. Aucun escompte n’est accordé pour paiement anticipé. 
+
+Article 8 - Résiliation : 
+
+Le Professionnel et/ou la Médiation de l’eau peuvent mettre fin à la présente Convention par l’envoi 
+d’une lettre recommandée avec accusé de réception stipulant cette demande de résiliation, 3 mois avant la 
+date d’échéance annuelle correspondant au 31 décembre de chaque année. 
+
+La Médiation de l’eau s’engage durant ce délai de 3 mois à terminer le traitement des dossiers en cours et 
+le Professionnel s’engage à continuer à transmettre les documents demandés par la Médiation de l’eau 
+
+Copie pour impression
+Réception au contrôle de légalité le 22/04/2026 à 11h44
+Réference de l'AR : 002-240200477-20260416-CC2026_69-DE
+Publié le 22/04/2026 ; Rendu exécutoire le 22/04/2026
+
+Page 6 sur 6 
+
+dans un délai de 2 semaines et à indiquer, suite à l’envoi de l’avis, s’il accepte ou refuse la proposition de 
+règlement amiable du Médiateur de l’eau. 
+
+En cas de nécessité de modifier ou compléter la présente Convention, un avenant sera établi. La 
+Convention et son avenant seront de nouveau conclus pour une durée indéterminée et il pourra y être mis 
+fin comme prévu à l’alinéa 1er de cet article. 
+
+Article 9 - Dématérialisation des factures : 
+
+Afin de procéder au dépôt des factures de la Médiation de l’eau sur le portail Chorus Pro, nous vous 
+prions de nous communiquer les informations suivantes : 
+
+- Numéro de SIRET : ………………………………………………………… 
+- Code service (si nécessaire) : ……………………..…………….……………. 
+- Numéro d’engagement (si nécessaire) : ………………………………..……. 
+- Contact Facturation : 
+o Nom du contact : ……………………………………………..……. 
+o Téléphone : ……………………………………..………………….. 
+o Courriel : ……………………………………..…………………….. 
+Article 10 - Annexes : 
+
+La présente convention comporte une annexe « Fonctionnement administratif », une annexe « Processus 
+de traitement et de facturation » et une annexe « Barème des prestations » qui font partie intégrante de la 
+convention et doivent être complétées et signées par les deux parties. 
+
+Fait à Paris, le ……………………………… 2026 en 2 exemplaires. 
+
+Pour ……………………………… 
+Pour l’Association de la Médiation de 
+l’eau, 
+Lu et approuvé, 
+Lu et approuvé, 
+
+Le Président, Directeur, … 
+Le Secrétaire Général, 
+
+Anthony BORGES 
+
+Copie pour impression
+Réception au contrôle de légalité le 22/04/2026 à 11h44
+Réference de l'AR : 002-240200477-20260416-CC2026_69-DE
+Publié le 22/04/2026 ; Rendu exécutoire le 22/04/2026
