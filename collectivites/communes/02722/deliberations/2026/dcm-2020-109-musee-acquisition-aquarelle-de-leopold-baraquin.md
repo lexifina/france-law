@@ -1,0 +1,20 @@
+# Soissons : délibération dcm.2020.109-musee-acquisition-aquarelle-de-leopold-baraquin- — dcm.2020.109-musee-acquisition-aquarelle-de-leopold-baraquin-.pdf
+
+- Collectivité : Soissons
+- SIREN : 210206959
+- Code INSEE : 02722
+- Date : 2026-04-29 (date de mise en ligne sur data.gouv.fr ; la date de l'acte n'est pas lisible dans le fichier)
+- Objet : dcm.2020.109-musee-acquisition-aquarelle-de-leopold-baraquin-.pdf
+- Pages : 2
+- Acte publié : https://static.data.gouv.fr/resources/deliberations-2020-du-conseil-municipal-de-la-ville-de-soissons/20260429-125714/dcm.2020.109-musee-acquisition-aquarelle-de-leopold-baraquin-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/69f2001b8214076b7be19339
+
+## Texte
+
+Copie pour impression
+Réception au contrôle de légalité le 30/09/2020 à 10h08
+Réference de l'AR : 002-210206959-20200930-DCM2020_109-DE
+
+Copie pour impression
+Réception au contrôle de légalité le 30/09/2020 à 10h08
+Réference de l'AR : 002-210206959-20200930-DCM2020_109-DE
