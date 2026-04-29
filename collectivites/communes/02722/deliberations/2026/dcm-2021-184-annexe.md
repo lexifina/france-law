@@ -1,0 +1,94 @@
+# Soissons : délibération dcm.2021.184-annexe — dcm.2021.184-annexe.pdf
+
+- Collectivité : Soissons
+- SIREN : 210206959
+- Code INSEE : 02722
+- Date : 2026-04-29 (date de mise en ligne sur data.gouv.fr ; la date de l'acte n'est pas lisible dans le fichier)
+- Objet : dcm.2021.184-annexe.pdf
+- Pages : 2
+- Acte publié : https://static.data.gouv.fr/resources/deliberations-2021-du-conseil-municipal-de-la-ville-de-soissons/20260429-120222/dcm.2021.184-annexe.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/69f1f29b9065b11d3e7843ab
+
+## Texte
+
+OUVERTURES DOMINICALES 
+2022 
+
+Commerces de PRODUITS CAPILLAIRES et BEAUTE 
+
+09/01 16/01 13/02 17/04 29/05 19/06 26/06 04/09 27/11 04/12 11/12 18/12 
+Commerces de détail de PRODUITS SURGELES 
+
+09/01 16/01 13/02 17/04 29/05 19/06 26/06 04/09 27/11 04/12 11/12 18/12 
+SUPERMARCHES 
+
+09/01 16/01 13/02 17/04 29/05 19/06 26/06 04/09 27/11 04/12 11/12 18/12 
+MAGASINS POPULAIRES 
+
+09/01 16/01 13/02 17/04 29/05 19/06 26/06 04/09 27/11 04/12 11/12 18/12 
+HYPERMARCHES 
+
+16/01 17/04 29/05 19/06 26/06 27/11 04/12 11/12 18/12 
+
+Commerces de détail de CONFISERIE 
+
+09/01 16/01 13/02 17/04 29/05 19/06 26/06 04/09 27/11 04/12 11/12 18/12 
+Commerces de détail de BOISSONS 
+
+09/01 16/01 13/02 17/04 29/05 19/06 26/06 04/09 27/11 04/12 11/12 18/12 
+Commerces de détail de PARFUMERIES et de PRODUITS DE BEAUTE 
+
+09/01 16/01 13/02 17/04 29/05 19/06 26/06 04/09 27/11 04/12 11/12 18/12 
+Commerces de détail de TEXTILES 
+
+09/01 16/01 13/02 17/04 29/05 19/06 26/06 04/09 27/11 04/12 11/12 18/12 
+Commerces de détail d’HABILLEMENT 
+
+09/01 16/01 13/02 17/04 29/05 19/06 26/06 04/09 27/11 04/12 11/12 18/12 
+Commerces de détail de la CHAUSSURE 
+
+09/01 16/01 13/02 17/04 29/05 19/06 26/06 04/09 27/11 04/12 11/12 18/12 
+Copie pour impression
+Réception au contrôle de légalité le 18/11/2021 à 11h08
+Réference de l'AR : 002-210206959-20211118-DCM2021_184-DE
+
+Commerces de détail de MAROQUINERIE et ARTICLES DE VOYAGE 
+
+09/01 16/01 13/02 17/04 29/05 19/06 26/06 04/09 27/11 04/12 11/12 18/12 
+Commerces de détail de MEUBLES 
+
+09/01 16/01 13/02 17/04 29/05 19/06 26/06 04/09 27/11 04/12 11/12 18/12 
+Commerces de détail d’EQUIPEMENTS DU FOYER 
+
+09/01 16/01 13/02 17/04 29/05 19/06 26/06 04/09 27/11 04/12 11/12 18/12 
+Commerces de détail d’APPAREILS ELECTROMENAGERS, TV et TELEPHONE 
+
+09/01 16/01 13/02 17/04 29/05 19/06 26/06 04/09 27/11 04/12 11/12 18/12 
+Commerces de détail de QUINCAILLERIE 
+
+09/01 16/01 13/02 17/04 29/05 19/06 26/06 04/09 27/11 04/12 11/12 18/12 
+Commerces de détail de LIVRES, JOURNAUX et PAPETERIE 
+
+09/01 16/01 13/02 17/04 29/05 19/06 26/06 04/09 27/11 04/12 11/12 18/12 
+Commerces de détail de REVETEMENTS DE SOLS ET MURS 
+
+09/01 16/01 13/02 17/04 29/05 19/06 26/06 04/09 27/11 04/12 11/12 18/12 
+Commerces de détail d’HORLOGERIE et de BIJOUTERIE 
+
+09/01 16/01 13/02 17/04 29/05 19/06 26/06 04/09 27/11 04/12 11/12 18/12 
+Commerces de détail d’ARTICLES DE SPORT et de LOISIRS 
+
+09/01 16/01 13/02 17/04 29/05 19/06 26/06 04/09 27/11 04/12 11/12 18/12 
+Commerces de détail DIVERS EN MAGASIN SPECIALISE 
+
+09/01 16/01 13/02 17/04 29/05 19/06 26/06 04/09 27/11 04/12 11/12 18/12 
+Commerces de détail EQUIPEMENTS AUTOMOBILES 
+
+26/06 03/07 10/07 17/07 24/07 31/07 07/08 14/08 27/11 04/12 11/12 18/12 
+Commerces JARDINERIE - MONOCULTURE 
+
+20/03 
+
+Concessionnaires AUTOMOBILES 
+
+16/01 13/02 13/03 10/04 15/05 12/06 10/07 18/09 16/10 13/11
