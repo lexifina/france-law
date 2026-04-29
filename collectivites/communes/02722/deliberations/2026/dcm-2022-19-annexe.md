@@ -1,0 +1,752 @@
+# Soissons : délibération dcm.2022.19-annexe — dcm.2022.19-annexe.pdf
+
+- Collectivité : Soissons
+- SIREN : 210206959
+- Code INSEE : 02722
+- Date : 2026-04-29 (date de mise en ligne sur data.gouv.fr ; la date de l'acte n'est pas lisible dans le fichier)
+- Objet : dcm.2022.19-annexe.pdf
+- Pages : 13
+- Acte publié : https://static.data.gouv.fr/resources/deliberations-2022-du-conseil-municipal-de-la-ville-de-soissons/20260429-093210/dcm.2022.19-annexe.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/69f1cbc4494ad86e18b2199e
+
+## Texte
+
+VILLE DE SOISSONS - CAMPING MUNICIPAL - Exercice : 2021
+II - PRESENTATION GENERALE DU COMPTE ADMINISTRATIF
+II
+VUE D'ENSEMBLE
+A1
+EXECUTION DU BUDGET
+DEPENSES
+RECETTES
+SOLDE D'EXECUTION
+REALISATIONS
+Section d'exploitation
+a
+69 609.62
+g
+69 615.19
+5.57
+DE L'EXERCICE
+(mandats et titres)
+Section d'investissement
+b
+h
++
++
+Report en section
+c
+i
+2.80
+REPORTS
+d'exploitation (002)
+(si déficit)
+(si excédent)
+DE L'EXERCICE
+N-1
+Report en section
+d
+j
+3 980.86
+d'investissement (001)
+(si déficit)
+(si excédent)
+=
+=
+DEPENSES
+RECETTES
+SOLDE D'EXECUTION
+TOTAL
+69 609.62
+73 598.85
+3 989.23
+(réalisations + reports)
+=a+b+c+d
+=g+h+i+j
+Section d'exploitation
+e
+k
+RESTES A REALISER
+A REPORTER
+Section d'investissement
+f
+l
+EN N+1
+TOTAL des restes à réaliser
+à reporter en N+1
+=e+f
+=k+l
+DEPENSES
+RECETTES
+SOLDE D'EXECUTION
+Section d'exploitation
+69 609.62
+69 617.99
+8.37
+=a+c+e
+=g+i+k
+RESULTAT
+Section d'investissement
+3 980.86
+3 980.86
+CUMULE
+=b+d+f
+=h+j+l
+TOTAL CUMULE
+69 609.62
+73 598.85
+3 989.23
+=a+b+c+d+e+f
+=g+h+i+j+k+l
+Page 1 
+Copie pour impression
+Réception au contrôle de légalité le 23/03/2022 à 10h29
+Réference de l'AR : 002-210206959-20220323-DCM2022_19-DE
+
+VILLE DE SOISSONS - CAMPING MUNICIPAL - Exercice : 2021
+II - PRESENTATION GENERALE DU COMPTE ADMINISTRATIF
+II
+VUE D'ENSEMBLE
+A1
+DETAIL DES RESTES A REALISER
+Chap/Art.
+Libellé
+Dépenses engagées
+Titres restant
+non mandatées
+à émettre
+Page 2 
+
+VILLE DE SOISSONS - CAMPING MUNICIPAL - Exercice : 2021
+II - PRESENTATION GENERALE DU COMPTE ADMINISTRATIF
+II
+SECTION D'EXPLOITATION
+- CHAPITRES
+A2
+DEPENSES D'EXPLOITATION 
+Chap.
+Libellé
+Crédits ouverts
+Mandats émis
+Charges
+Restes à
+Crédits
+(BP+DM+RAR N-1)
+rattachées
+réaliser
+annulés
+011
+CHARGES A CARACTERE GENERAL
+33 114.00
+15 834.18
+17 279.82
+012
+CHARGES DE PERSONNEL ET FRAIS ASSIMILES
+57 000.00
+53 775.44
+3 224.56
+65
+AUTRES CHARGES DE GESTION COURANTE
+100.00
+100.00
+Total des dépenses de gestion courante
+90 214.00
+69 609.62
+20 604.38
+67
+CHARGES EXCEPTIONNELLES
+100.00
+100.00
+69
+IMPOTS SUR LES BENEFICES ET ASSIMILES
+150.00
+150.00
+Total des dépenses réelles d'exploitation
+90 464.00
+69 609.62
+20 854.38
+Total des dépenses d'ordre d'exploitation
+TOTAL
+90 464.00
+69 609.62
+20 854.38
+Pour information
+D 002 Déficit d'exploitation
+reporté de N-1
+RECETTES D'EXPLOITATION 
+Chap.
+Libellé
+Crédits ouverts
+Titres émis
+Produits
+Restes à
+Crédits
+(BP+DM+RAR N-1)
+rattachés
+réaliser
+annulés
+70
+VENTES DE PRODUITS FABRIQUES,SERVICES,MARCHANDISES
+21 100.00
+32 267.16
+-11 167.16
+Total des recettes de gestion courante
+21 100.00
+32 267.16
+-11 167.16
+77
+PRODUITS EXCEPTIONNELS
+69 362.00
+37 348.03
+32 013.97
+Total des recettes réelles d'exploitation
+90 462.00
+69 615.19
+20 846.81
+Total des recettes d'ordre d'exploitation
+TOTAL
+90 462.00
+69 615.19
+20 846.81
+Pour information
+R 002 Excédent d'exploitation
+reporté de N-1
+2.00
+Page 3 
+
+VILLE DE SOISSONS - CAMPING MUNICIPAL - Exercice : 2021
+II - PRESENTATION GENERALE DU COMPTE ADMINISTRATIF
+II
+SECTION D'INVESTISSEMENT - CHAPITRES
+A3
+DEPENSES D'INVESTISSEMENT 
+Chap.
+Libellé
+Crédits ouverts
+Mandats émis
+Restes à
+Crédits
+(BP+DM+RAR N-1)
+réaliser
+annulés
+21
+IMMOBILISATIONS CORPORELLES
+3 980.00
+3 980.00
+Total des opérations d'équipement
+Total des dépenses d'équipement
+3 980.00
+3 980.00
+Total des dépenses financières
+4581
+Total des opérations pour compte de tiers
+Total des dépenses réelles d'investissement
+3 980.00
+3 980.00
+Total des dépenses d'ordre d'investissement
+TOTAL
+3 980.00
+3 980.00
+Pour information
+D 001 Solde d'exécution négatif reporté de N-1
+RECETTES D'INVESTISSEMENT 
+Chap.
+Libellé
+Crédits ouverts
+Titres émis
+Restes à
+Crédits
+(BP+DM+RAR N-1)
+réaliser
+annulés
+Total des recettes d'ordre d'investissement
+TOTAL
+Pour information
+R 001 Solde d'exécution positif reporté de N-1
+3 980.00
+Page 4 
+
+VILLE DE SOISSONS - CAMPING MUNICIPAL - Exercice : 2021
+II - PRESENTATION GENERALE DU COMPTE ADMINISTRATIF
+II
+BALANCE GENERALE DU BUDGET
+B1
+1 - Mandats émis (y compris sur les restes à réaliser N-1)
+EXPLOITATION
+Opérations
+Opérations
+TOTAL
+Réelles
+d'ordre
+011
+CHARGES A CARACTERE GENERAL
+15 834.18
+15 834.18
+012
+CHARGES DE PERSONNEL ET FRAIS ASSIMILES
+53 775.44
+53 775.44
+65
+AUTRES CHARGES DE GESTION COURANTE
+67
+CHARGES EXCEPTIONNELLES
+69
+IMPOTS SUR LES BENEFICES ET ASSIMILES
+Dépenses d'exploitation
+- Total
+69 609.62
+69 609.62
++
+D 002 Déficit d'exploitation reporté de N-1
+=
+TOTAL DES DEPENSES D'EXPLOITATION CUMULEES
+69 609.62
+INVESTISSEMENT
+Opérations
+Opérations
+TOTAL
+Réelles
+d'ordre
+21
+IMMOBILISATIONS CORPORELLES (hors opérations)
+Dépenses d'investissement - Total
++
+D 001 Solde d'exécution négatif reporté de N-1
+=
+TOTAL DES DEPENSES D'INVESTISSEMENT CUMULEES
+Page 5 
+
+VILLE DE SOISSONS - CAMPING MUNICIPAL - Exercice : 2021
+II - PRESENTATION GENERALE DU COMPTE ADMINISTRATIF
+II
+BALANCE GENERALE DU BUDGET
+B2
+2 - Titres émis
+(y compris sur les restes à réaliser N-1)
+EXPLOITATION
+Opérations
+Opérations
+TOTAL
+Réelles
+d'ordre
+70
+VENTES DE PRODUITS FABRIQUES,SERVICES,MARCHANDISES
+32 267.16
+32 267.16
+77
+PRODUITS EXCEPTIONNELS
+37 348.03
+37 348.03
+Recettes d'exploitation
+- Total
+69 615.19
+69 615.19
++
+R 002 Excédent d'exploitation reporté de N-1
+2.80
+=
+TOTAL DES RECETTES D'EXPLOITATION CUMULEES
+69 617.99
+INVESTISSEMENT
+Opérations
+Opérations
+TOTAL
+Réelles
+d'ordre
+Recettes d'investissement - Total
++
+R 001 Solde d'exécution positif reporté de N-1
+3 980.86
++
+Affectation aux comptes 106
+=
+TOTAL DES RECETTES D'INVESTISSEMENT CUMULEES
+3 980.86
+Page 6 
+
+VILLE DE SOISSONS - CAMPING MUNICIPAL - Exercice : 2021
+SECTION D'EXPLOITATION
+III - VOTE DU COMPTE ADMINISTRATIF
+III
+SECTION D'EXPLOITATION
+- DETAIL DES DEPENSES
+A1
+Chap./Art.
+Libellé
+Crédits ouverts
+Mandats émis
+Charges
+Restes à
+Crédits
+(BP+DM+RAR N-1)
+rattachées
+réaliser
+annulés
+011
+CHARGES A CARACTERE GENERAL
+33 114.00
+15 834.18
+17 279.82
+- 60 -
+ACHATS ET VARIATIONS DES STOCKS
+16 500.00
+9 180.21
+7 319.79
+ACHATS NON STOCKES DE MATIERES & FOURNITURES
+6061
+FOURNITURES NON STOCKABLES (EAU, ENERGIE)
+15 600.00
+8 979.21
+6 620.79
+6063
+FOURNITURES D'ENTRETIEN ET DE PETIT EQUIPEMENT
+300.00
+201.00
+99.00
+6064
+FOURNITURES ADMINISTRATIVES
+150.00
+150.00
+6068
+AUTRES MATIERES ET FOURNITURES
+450.00
+450.00
+- 61 -
+SERVICES EXTERIEURS
+11 664.00
+4 409.88
+7 254.12
+LOCATIONS, DROITS DE PASSAGE ET SERVITUDES DIVERS
+6135
+LOCATIONS MOBILIERES
+464.00
+207.09
+256.91
+ENTRETIEN ET REPARATIONS
+61521
+SUR BIENS IMMOBILIERS
+1 000.00
+79.00
+921.00
+SUR BIENS MOBILIERS
+61551
+MATERIEL ROULANT
+200.00
+200.00
+61558
+AUTRES BIENS MOBILIERS
+4 000.00
+1 168.90
+2 831.10
+6156
+MAINTENANCE
+5 821.00
+2 806.49
+3 014.51
+618
+DIVERS
+179.00
+148.40
+30.60
+- 62 -
+AUTRES SERVICES EXTERIEURS
+4 950.00
+2 244.09
+2 705.91
+PUBLICITE, PUBLICATIONS, RELATIONS PUBLIQUES
+6231
+ANNONCES ET INSERTIONS
+3 000.00
+1 010.00
+1 990.00
+6238
+DIVERS
+500.00
+500.00
+FRAIS POSTAUX ET FRAIS DE TELECOMMUNICATIONS
+6262
+FRAIS DE TELECOMMUNICATIONS
+1 350.00
+1 144.46
+205.54
+627
+SERVICES BANCAIRES ET ASSIMILES
+100.00
+89.63
+10.37
+012
+CHARGES DE PERSONNEL ET FRAIS ASSIMILES
+57 000.00
+53 775.44
+3 224.56
+- 62 -
+AUTRES SERVICES EXTERIEURS
+57 000.00
+53 775.44
+3 224.56
+PERSONNEL EXTERIEUR AU SERVICE
+6215
+PERSONNEL AFFECTE PAR LA COLLECTIVITE DE RATTACH.
+57 000.00
+53 775.44
+3 224.56
+65
+AUTRES CHARGES DE GESTION COURANTE
+100.00
+100.00
+- 65 -
+AUTRES CHARGES DE GESTION COURANTE
+100.00
+100.00
+6541
+CREANCES ADMISES EN NON-VALEUR
+100.00
+100.00
+TOTAL DES DEPENSES DE GESTION DES SERVICES
+90 214.00
+69 609.62
+20 604.38
+(a)=011+012+014+65
+Page 7 
+
+VILLE DE SOISSONS - CAMPING MUNICIPAL - Exercice : 2021
+III - VOTE DU COMPTE ADMINISTRATIF
+III
+SECTION D'EXPLOITATION
+- DETAIL DES DEPENSES
+A1
+Chap./Art.
+Libellé
+Crédits ouverts
+Mandats émis
+Charges
+Restes à
+Crédits
+(BP+DM+RAR N-1)
+rattachées
+réaliser
+annulés
+67
+CHARGES EXCEPTIONNELLES
+100.00
+100.00
+- 67 -
+CHARGES EXCEPTIONNELLES
+100.00
+100.00
+673
+TITRES ANNULES (SUR EXERCICES ANTERIEURS)
+100.00
+100.00
+69
+IMPOTS SUR LES BENEFICES ET ASSIMILES
+150.00
+150.00
+- 69 -
+IMPOTS SUR LES BENEFICES ET ASSIMILES
+150.00
+150.00
+6951
+Impôts sur les bénéfices
+150.00
+150.00
+TOTAL DES DEPENSES REELLES (r)=(a)+66+67+68+69+022
+90 464.00
+69 609.62
+20 854.38
+Page 8 
+
+VILLE DE SOISSONS - CAMPING MUNICIPAL - Exercice : 2021
+III - VOTE DU COMPTE ADMINISTRATIF
+III
+SECTION D'EXPLOITATION
+- DETAIL DES DEPENSES
+A1
+Chap./Art.
+Libellé
+Crédits ouverts
+Mandats émis
+Charges
+Restes à
+Crédits
+(BP+DM+RAR N-1)
+rattachées
+réaliser
+annulés
+TOTAL DES DEPENSES D'ORDRE
+TOTAL DES DEPENSES D'EXPLOITATION DE L'EXERCICE (=total réelles + ordres)
+90 464.00
+69 609.62
+20 854.38
+Pour information : D 002 Déficit d'exploitation
+reporté de N-1
+Détail du calcul des ICNE au compte 66112
+Montant des ICNE de l'exercice
+Montant des ICNE de l'exercice N-1
+= Différence ICNE N - ICNE N-1
+Page 9 
+
+VILLE DE SOISSONS - CAMPING MUNICIPAL - Exercice : 2021
+III - VOTE DU COMPTE ADMINISTRATIF
+III
+SECTION D'EXPLOITATION
+- DETAIL DES RECETTES
+A2
+Chap./Art.
+Libellé
+Crédits ouverts
+Titres émis
+Produits
+Restes à
+Crédits
+(BP+DM+RAR N-1)
+rattachés
+réaliser
+annulés
+70
+VENTES DE PRODUITS FABRIQUES,SERVICES,MARCHANDISES
+21 100.00
+32 267.16
+-11 167.16
+- 70 -
+VENTES PRODUITS FABRIQUES - PRESTATIONS SERVICES
+21 100.00
+32 267.16
+-11 167.16
+706
+PRESTATIONS DE SERVICES
+21 000.00
+32 267.16
+-11 267.16
+707
+VENTES DE MARCHANDISES
+100.00
+100.00
+TOTAL DES RECETTES DE GESTION DES SERVICES
+21 100.00
+32 267.16
+-11 167.16
+(a)=70+73+74+75+013
+77
+PRODUITS EXCEPTIONNELS
+69 362.00
+37 348.03
+32 013.97
+- 77 -
+PRODUITS EXCEPTIONNELS
+69 362.00
+37 348.03
+32 013.97
+773
+MANDATS ANNULES SUR EXERCICES ANTERIEURS
+8.00
+-8.00
+774
+SUBVENTIONS EXCEPTIONNELLES
+69 362.00
+37 340.00
+32 022.00
+778
+AUTRES PRODUITS EXCEPTIONNELS
+0.03
+-0.03
+TOTAL DES RECETTES REELLES (r)=(a)+76+77+78
+90 462.00
+69 615.19
+20 846.81
+TOTAL DES RECETTES D'ORDRE
+TOTAL DES RECETTES D'EXPLOITATION DE L'EXERCICE (=total réelles + ordres)
+90 462.00
+69 615.19
+20 846.81
+Pour information : R 002 Excédent d'exploitation
+reporté de N-1
+2.00
+Détail du calcul des ICNE au compte 7622
+Montant des ICNE de l'exercice
+Montant des ICNE de l'exercice N-1
+= Différence ICNE N - ICNE N-1
+Page 10 
+
+VILLE DE SOISSONS - CAMPING MUNICIPAL - Exercice : 2021
+SECTION D'INVESTISSEMENT
+III - VOTE DU COMPTE ADMINISTRATIF
+III
+SECTION D'INVESTISSEMENT - DETAIL DES DEPENSES
+B1
+Chap./Art.
+Libellé
+Crédits Ouverts
+Mandats émis
+Restes à
+Crédits
+(BP+DM+RAR N-1)
+réaliser
+annulés
+21
+IMMOBILISATIONS CORPORELLES
+3 980.00
+3 980.00
+- 21 -
+IMMOBILISATIONS CORPORELLES
+3 980.00
+3 980.00
+AUTRES IMMOBILISATIONS CORPORELLES
+2188
+AUTRES
+3 980.00
+3 980.00
+TOTAL DES DEPENSES D'EQUIPEMENT
+3 980.00
+3 980.00
+TOTAL DES DEPENSES FINANCIERES
+TOTAL DES DEPENSES D'OPERATIONS POUR COMPTE DE TIERS
+TOTAL DES DEPENSES REELLES
+3 980.00
+3 980.00
+Page 11 
+
+VILLE DE SOISSONS - CAMPING MUNICIPAL - Exercice : 2021
+III - VOTE DU COMPTE ADMINISTRATIF
+III
+SECTION D'INVESTISSEMENT - DETAIL DES DEPENSES
+B1
+Chap./Art.
+Libellé
+Crédits Ouverts
+Mandats émis
+Restes à
+Crédits
+(BP+DM+RAR N-1)
+réaliser
+annulés
+TOTAL DES DEPENSES D'ORDRE
+TOTAL DES DEPENSES D'INVESTISSEMENT DE L'EXERCICE (=total réelles + ordres)
+3 980.00
+3 980.00
+Pour information : D 001 Solde d'exécution négatif reporté de N-1
+Page 12 
+
+VILLE DE SOISSONS - CAMPING MUNICIPAL - Exercice : 2021
+III - VOTE DU COMPTE ADMINISTRATIF
+III
+SECTION D'INVESTISSEMENT - DETAIL DES RECETTES
+B2
+Chap./Art.
+Libellé
+Crédits Ouverts
+Titres émis
+Restes à
+Crédits
+(BP+DM+RAR N-1)
+réaliser
+annulés
+TOTAL DES RECETTES D'EQUIPEMENT
+TOTAL DES RECETTES FINANCIERES
+TOTAL DES RECETTES D'OPERATIONS POUR COMPTE DE TIERS
+TOTAL DES RECETTES REELLES
+TOTAL DES RECETTES D'ORDRE
+TOTAL DES RECETTES D'INVESTISSEMENT DE L'EXERCICE (=total réelles + ordres)
+Pour information : R 001 Solde d'exécution positif reporté de N-1
+3 980.00
+Page 13
