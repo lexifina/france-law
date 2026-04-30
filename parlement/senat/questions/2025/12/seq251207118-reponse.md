@@ -1,0 +1,9 @@
+# Réponse à la question SEQ251207118
+
+- Question : [SEQ251207118](seq251207118.md) — Ouverture du fonds « Bpifrance Défense » aux Français établis hors de France
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle, énergétique et numérique, JO du 2026-04-30, page 2118*
+
+Le fonds « Bpifrance Défense », lancé le 14 octobre 2025, a vocation à permettre aux particuliers de contribuer au financement d'entreprises du secteur de la défense et de la souveraineté technologique. À ce stade, le fonds a été agréé par l'Autorité des marchés financiers pour une commercialisation en France. Conformément à ce périmètre d'agrément, la souscription est actuellement réservée aux personnes physiques résidentes fiscales en France, l'acte de souscription devant par ailleurs être réalisé sur le territoire national. Ces conditions s'inscrivent dans la continuité des exigences réglementaires et de conformité appliquée par Bpifrance aux fonds précédemment ouverts aux particuliers. Elles visent à garantir un cadre de commercialisation homogène, notamment au regard des règles fiscales et prudentielles applicables. Ce fonds bénéficie toutefois du label ELTIF 2, qui permet, en principe, une commercialisation auprès des investisseurs particuliers dans d'autres États membres de l'Union européenne. Une telle extension suppose néanmoins l'accomplissement de démarches spécifiques, notamment des notifications et adaptations requises par les autorités compétentes de chaque État concerné. Ces démarches doivent être conduites pays par pays, conformément au cadre réglementaire européen. Dans ce contexte, Bpifrance a engagé un processus progressif visant à élargir le périmètre de commercialisation du fonds au sein de l'Union européenne, pays par pays. Ces évolutions permettront à un plus grand nombre de concitoyens établis hors de France, selon leur lieu de résidence fiscale, d'accéder à ce type de véhicule d'investissement.
