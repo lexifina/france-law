@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — SOCIÉTÉ PUBLIQUE LOCALE D'AMÉNAGEMENT PAYS D'AIX TERRITOIRES - OPÉRATION ZAC DE LA CONSTANCE - ACQUISITIONS FONCIÈRES - EMPRUNT DE 6 000 000 EUROS A SOUSCRIRE AUPRÈS DE LA LYONNAISE DE BANQUE - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 80 %
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2026-04-30
+- Séance : Conseil Municipal 1CA
+- Objet : SOCIÉTÉ PUBLIQUE LOCALE D'AMÉNAGEMENT PAYS D'AIX TERRITOIRES - OPÉRATION ZAC DE LA CONSTANCE - ACQUISITIONS FONCIÈRES - EMPRUNT DE 6 000 000 EUROS A SOUSCRIRE AUPRÈS DE LA LYONNAISE DE BANQUE - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 80 %
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-22495-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
