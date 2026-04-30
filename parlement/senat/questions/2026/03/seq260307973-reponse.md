@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260307973
+
+- Question : [SEQ260307973](seq260307973.md) — Cession des établissements scolaires de la Mission laïque française en Espagne
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2026-04-30, page 2131*
+
+La situation de ces établissements est suivie de très près par les services du ministère de l'Europe et des affaires étrangères et notre ambassade en Espagne. A l'issue des différents entretiens passés avec la Mission laïque française (Mlf) sur le sujet, les grandes étapes du processus de cession et le calendrier prévisionnel de communication aux communautés scolaires (parents, personnels, élus) ont été arrêtés avec précision et transparence. L'identité du repreneur, qui avait été annoncée pour l'Assemblée générale de la Mlf du 19 février 2025, n'a toujours pas été dévoilée. La Mlf devrait organiser une réunion d'information dédiée, ou une assemblée générale extraordinaire, à cette occasion. Elle est attendue pour ce printemps. A ce stade, la Mlf ne souhaite pas communiquer sur l'identité du repreneur car elle insiste sur la nécessaire confidentialité des échanges qu'elle mène avec les candidats à la reprise, au regard du droit des affaires. En ce qui concerne l'accord de partenariat, la Mlf a indiqué dès le début du processus que l'un des critères de choix du repreneur serait le maintien du partenariat avec la Mlf après la cession. Ces négociations se tiennent entre les potentiels repreneurs et la Mlf. Si ces derniers estiment préférable de signer un partenariat directement avec l'Agence pour l'enseignement français à l'étranger (AEFE), nous y serons évidemment favorables. En l'état actuel et tout au long du processus de cession, le MEAE restera particulièrement vigilant quant au repreneur, sa solidité financière et les garanties qu'il offre en matière d'enseignement.
