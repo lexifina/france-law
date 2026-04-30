@@ -185,3 +185,11 @@ Alkylbétaine 6 : 2 fluorotélomère sulfonamide |
 34455-29-3 |
 
 7991 |
+
+Acide trifluoroacétique |
+
+TFA |
+
+76-05-1 |
+
+8858 |
