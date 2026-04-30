@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — MODERNISATION DES COMMUNICATIONS RADIOPHONIQUES DE LA POLICE MUNICIPALE - ADOPTION DES CONVENTIONS DE SUBVENTIONS D'ÉQUIPEMENT (INFRASTRUCTURES ET MATÉRIELS) AVEC L'ACMOSS POUR LE RÉSEAU RADIO DU FUTUR (RRF)
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2026-04-30
+- Séance : Conseil Municipal 1CA
+- Objet : MODERNISATION DES COMMUNICATIONS RADIOPHONIQUES DE LA POLICE MUNICIPALE - ADOPTION DES CONVENTIONS DE SUBVENTIONS D'ÉQUIPEMENT (INFRASTRUCTURES ET MATÉRIELS) AVEC L'ACMOSS POUR LE RÉSEAU RADIO DU FUTUR (RRF)
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-22549-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
