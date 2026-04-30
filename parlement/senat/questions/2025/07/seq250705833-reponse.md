@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250705833
+
+- Question : [SEQ250705833](seq250705833.md) — Reconnaissance du titre d'architecte intérieur
+
+## Réponse
+
+*Enseignement supérieur, recherche et espace, JO du 2026-04-30, page 2125*
+
+La profession d'architecte, dont le titre et les missions sont définis et protégés par la loi n° 77-2 du 3 janvier 1977 sur l'architecture, constitue une profession réglementée dont le ministère de la culture assure la tutelle. Les étudiants en architecture poursuivent un cursus en 5 ans organisé en deux cycles. Le premier, d'une durée de 3 ans, mène à l'obtention du diplôme d'études en architecture conférant grade de licence. Le seconde cycle, de 2 ans, débouche sur l'obtention du diplôme d'État d'architecte (DEA), conférant le grade de master (ou équivalent). La loi du 3 janvier 1977 sur l'architecture ne permet pas de reconnaître le titre d'architecte d'intérieur, le titre d'architecte étant réservé aux diplômés d'État en architecture titulaires de l'habilitation à la maîtrise d'oeuvre en nom propre et inscrits à l'ordre des architectes. Le ministère de la culture a engagé un travail d'harmonisation des objectifs et des compétences visées par les formations concernant les métiers de l'architecture d'intérieur. Ce travail a permis de définir un référentiel des métiers et un référentiel des compétences. Des démarches complémentaires sont en cours pour permettre l'inscription de ces formations au répertoire national des certifications professionnelles (RNCP). L'harmonisation des compétences constitue une étape préalable à une éventuelle reconnaissance officielle de la profession par un titre dont l'appellation reste à définir. Cette harmonisation doit permettre d'unifier les objectifs pédagogiques et les modalités d'organisation des formations, afin d'éviter des écarts de cursus susceptibles d'être préjudiciables aux diplômés, aux maîtres d'ouvrage et aux clients.
