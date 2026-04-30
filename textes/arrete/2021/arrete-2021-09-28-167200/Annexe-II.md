@@ -884,6 +884,36 @@ A compter du 01/03/2026 |
 
 Par contact |
 
+BAR-TH-178,
+
+BAR-TH-179,
+
+BAR-TH-180,
+
+BAT-TH-162,
+
+BAT-TH-163,
+
+BAT-TH-164 |
+
+50 % |
+
+Sur le lieu des opérations |
+
+Entre le 01/05/2026 et le 31/12/2026 |
+
+75 % |
+
+Sur le lieu des opérations |
+
+Entre le 01/01/2027 et le 31/12/2027 |
+
+100 % |
+
+Sur le lieu des opérations |
+
+A compter du 01/01/2028 |
+
 * Sont incluses les opérations bonifiées en application de l'article 4 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie.
 
 NOTA :

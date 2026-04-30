@@ -2412,6 +2412,18 @@ BB.II. Doivent être vérifiés lors des contrôles par contact
 
 Si au moins l'un des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
 
+BC. Fiches d'opérations standardisées BAR-TH-178 "Système géothermique" et BAT-TH-162 "Système géothermique"
+
+Conformément au II de l'article 2 de l'arrêté du 27 avril 2026 (NOR : ECOR2610165A), il est ajouté une partie BC. Vous pouvez consulter l'annexe à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=7XX36jvDAF4Hu-V8Gan8DNw-0m97ritIE4ihC6z26fY=
+
+BD. Fiches d’opérations standardisées BAR-TH-179 "Pompe à chaleur collective de type air/eau", BAR-TH-180 "Pompe à chaleur collective de type eau/eau ou eau glycolée/eau", BAT-TH-163 "Pompe à chaleur de type air/eau" et BAT-TH-164 "Pompe à chaleur de type eau/eau ou eau glycolée/eau"
+
+Conformément à l'article 2 de l'arrêté du 27 avril 2026 (NOR : ECOR2610165A), il est ajoutéune partie BD. Vous pouvez consulter l'annexe à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=7XX36jvDAF4Hu-V8Gan8DNw-0m97ritIE4ihC6z26fY=
+
 NOTA :
 
 Conformément à l’arrêté rectificatif du 24 février 2026 (NOR : ECOR2604215Z), ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur le 1er mars 2026 et s'appliquent aux opérations engagées à compter de cette date.

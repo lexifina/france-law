@@ -1190,13 +1190,25 @@ Conformément à l'article 2 de l'arrêté du 6 septembre 2025 (NOR : ECOR252404
 
 https://www.legifrance.gouv.fr/download/pdf?id=okg8pYdlzqssb9b30Jjqo55GUKX-R6_xjHU0tp5sLCk=
 
+Conformément à l'article 2 de l'arrêté du 27 avril 2026 (NOR : ECOR2610165A), la fiche d'opération standardisée n° BAT-TH-162 et son annexe 1, sont ajoutées à cette annexe. Vous pouvez consulter l'annexe à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=7XX36jvDAF4Hu-V8Gan8DNw-0m97ritIE4ihC6z26fY=
+
 Conformément à l'article 2 de l'arrêté du 6 septembre 2025 (NOR : ECOR2524049A), la fiche d'opération standardisée n° BAT-TH-163 et son annexe 1, sont ajoutées à cette annexe. Vous pouvez consulter l'annexe à l'adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=okg8pYdlzqssb9b30Jjqo55GUKX-R6_xjHU0tp5sLCk=
 
+Conformément à l'article 2 de l'arrêté du 27 avril 2026 (NOR : ECOR2610165A), la fiche d'opération standardisée n° BAT-TH-163 et son annexe 1, sont ajoutées à cette annexe. Vous pouvez consulter l'annexe à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=7XX36jvDAF4Hu-V8Gan8DNw-0m97ritIE4ihC6z26fY=
+
 Conformément à l'article 2 de l'arrêté du 6 septembre 2025 (NOR : ECOR2524049A), la fiche d'opération standardisée n° BAT-TH-164 et son annexe 1, sont ajoutées à cette annexe. Vous pouvez consulter l'annexe à l'adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=okg8pYdlzqssb9b30Jjqo55GUKX-R6_xjHU0tp5sLCk=
+
+Conformément à l'article 2 de l'arrêté du 27 avril 2026 (NOR : ECOR2610165A), la fiche d'opération standardisée n° BAT-TH-164 et son annexe 1, sont ajoutées à cette annexe. Vous pouvez consulter l'annexe à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=7XX36jvDAF4Hu-V8Gan8DNw-0m97ritIE4ihC6z26fY=
 
 -Luminaires à modules LED pour surfaces commerciales / Fiche d’opération standardisée n° BAT-EQ-111 (abrogée à compter du 1er avril 2019)
 

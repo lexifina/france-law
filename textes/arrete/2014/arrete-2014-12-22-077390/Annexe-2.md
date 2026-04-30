@@ -3366,6 +3366,10 @@ Conformément à l'article 2 de l'arrêté du 6 septembre 2025 (NOR : ECOR252404
 
 https://www.legifrance.gouv.fr/download/pdf?id=okg8pYdlzqssb9b30Jjqo55GUKX-R6_xjHU0tp5sLCk=
 
+Conformément à l'article 2 de l'arrêté du 27 avril 2026 (NOR : ECOR2610165A), la fiche d'opération standardisée n° BAR-TH-178 et son annexe 1, n° BAR-TH-179 et son annexe 1, n° BAR-TH-180 et son annexe 1, sont ajoutées à cette annexe. Vous pouvez consulter l'annexe à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=7XX36jvDAF4Hu-V8Gan8DNw-0m97ritIE4ihC6z26fY=
+
 - Lampe fluo-compacte de classe A / Fiche d’opération standardisée n° BAR-EQ-101
 
 Conformément à l’article 6 de l’arrêté du 26 juillet 2017 (NOR : TRER1720041A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 7 dudit arrêté pour les opérations dont la date de distribution des lampes à l’utilisateur final intervient à compter du 1er octobre 2017.
