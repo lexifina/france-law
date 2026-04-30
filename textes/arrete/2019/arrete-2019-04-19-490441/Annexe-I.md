@@ -226,7 +226,7 @@ PRODUCTION |
 
 Economie-gestion/ Physique-chimie |
 
-COMMERCIALISATION ET SERVICES EN RESTAURATION |
+COMMERCIALISATION ET SERVICES EN RESTAURATION (dernière session 2029) |
 
 Arrêté du 31 mai 2011 modifié |
 
@@ -266,7 +266,7 @@ PRODUCTION |
 
 Economie-gestion/ Physique-chimie |
 
-CUISINE |
+CUISINE (dernière session 2029) |
 
 Arrêté du 31 mai 2011 modifié |
 
@@ -611,6 +611,18 @@ Arrêté du 19 mai 2009 modifié |
 PRODUCTION |
 
 Economie-gestion/ Physique-chimie |
+
+METIERS DE LA RESTAURATION
+
+(première session 2030) |
+
+Arrêté du 9 mars 2026 |
+
+SERVICES |
+
+Economie-Droit/
+
+Langue vivante B |
 
 MÉTIERS DE LA SÉCURITÉ |
 
