@@ -22,7 +22,7 @@ A. - Animaux de l'espèce bovine.
 
 5. Le déficit momentané de production résultant de l'abattage des animaux :
 
-- pour les élevages laitiers, cette indemnité est basée sur la production commercialisée sur la période de l'année précédente correspondant aux trois mois suivant la date de l'expertise, au prix de vente moyen réalisé sur cette période, diminué du coût des concentrés alimentaires ;
+- pour les élevages laitiers, cette indemnité est basée sur la production commercialisée sur la période de l'année précédente correspondant aux trois mois suivant la date de l'expertise, au prix de vente moyen réalisé sur cette période, diminué du coût des concentrés alimentaires. Le préfet peut décider de doubler ce montant pour prendre en compte les spécificités des élevages laitiers en agriculture biologique ainsi que celles d'un assainissement par abattage partiel ;
 
 - pour les élevages allaitants de production de viande, ce déficit sera évalué par différence entre la valeur bouchère attendue au terme de l'engraissement des animaux entretenus pour être abattus pour la boucherie dans un délai maximum d'un an et leur valeur marchande objective à la date de l'expertise, après déduction du coût de leur alimentation.
 

@@ -12,7 +12,7 @@ Tous les élevages bovins |
 
 Corse-du-Sud |
 
-Tous les élevages bovins (à partir de la campagne de prophylaxie 2022-2023) |
+Tous les élevages bovins |
 
 Bouches-du-Rhône |
 
@@ -40,8 +40,32 @@ Tous les élevages avec des bovins destinés aux spectacles taurins ayant le cod
 
 Landes |
 
-Tous les élevages avec des bovins destinés aux spectacles taurins ayant le code racial 37 ou 51 |
+Tous les élevages bovins |
 
 Pyrénées-Atlantiques |
 
-Tous les élevages avec des bovins destinés aux spectacles taurins ayant le code racial 37 ou 51 |
+Tous les élevages bovins |
+
+Dordogne |
+
+Tous les élevages bovins |
+
+Charente |
+
+Tous les élevages bovins |
+
+Charente-Maritime |
+
+Tous les élevages bovins |
+
+Lot-et-Garonne |
+
+Tous les élevages bovins |
+
+Haute-Vienne |
+
+Tous les élevages bovins |
+
+Gironde |
+
+Tous les élevages bovins |
