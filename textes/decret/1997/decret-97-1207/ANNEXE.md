@@ -170,6 +170,32 @@ Décisions entrant dans le champ des compétences de la direction générale des
 
 Code des douanes
 
+1 |
+
+Délivrance, modification, suspension et retrait de l'agrément des opérateurs. |
+
+Articles R. 243-5 à R. 243-8 du code des douanes. |
+
+2 |
+
+Délivrance, modification, suspension et retrait de l'enregistrement des opérateurs. |
+
+Articles R. 243-10 à R. 243-12 du code des douanes. |
+
+3 |
+
+Délivrance, suspension et retrait des autorisations d'exportation des opérateurs. |
+
+Articles R. 243-9, R. 243-13 et R. 243-14 du code des douanes. |
+
+4 |
+
+Délivrance, suspension et retrait des autorisations d'importation des opérateurs. |
+
+Article R. 243-9 du code des douanes. |
+
+Code des douanes
+
 1
 
 |
@@ -740,8 +766,6 @@ Article 8.
 
 |
 
-Décret n° 84-474 du 15 juin 1984 modifié relatif à l'attribution aux agents de l'Etat du congé pour formation syndicale
-
 1
 
 |
@@ -754,12 +778,8 @@ Article 1er.
 
 |
 
-Autres décisions
-
-- Décisions prises pour l'exécution des décisions de justice liées à l'activité de l'administration centrale.
-
-- Décisions prises sur les demandes d'indemnisation amiables des usagers et des tiers au titre des préjudices de toute nature liés à l'activité des services du ministère.
-
 NOTA :
 
-Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020. Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions applicables à la date de leur présentation.
+Conformément à l'article 12 du décret n° 2026-266 du 8 avril 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er mai 2026.
+
+Conformément au IV de l'article 9 du même décret, les demandes de décisions administratives individuelles présentées avant la date d'entrée en vigueur mentionnée audit article 9 soumises aux dispositions applicables à la date de leur présentation.

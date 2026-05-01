@@ -254,32 +254,6 @@ Autorisation d'utilisation des fréquences radioélectriques. |
 
 Article R. 52-3-6. |
 
-Décret n° 2019-917 du 30 août 2019 relatif au contrôle de la fabrication et du commerce des précurseurs de drogues
-
-1 |
-
-Délivrance, modification, suspension et retrait de l'agrément des opérateurs. |
-
-Articles 3, 4, 5 et 6. |
-
-2 |
-
-Délivrance, modification, suspension et retrait de l'enregistrement des opérateurs. |
-
-Articles 9, 11, 13 et 15. |
-
-3 |
-
-Délivrance, suspension et retrait des autorisations d'exportation des opérateurs. |
-
-Articles 7, 12, 16 et 17. |
-
-4 |
-
-Délivrance, suspension et retrait des autorisations d'importation des opérateurs. |
-
-Article 8. |
-
 Décret n° 2001-387 du 3 mai 2001 relatif au contrôle des instruments de mesure
 
 1 |
@@ -331,3 +305,9 @@ Autres décisions
 - Décisions prises pour l'exécution des décisions de justice liées à l'activité de l'administration centrale.
 
 - Décisions sur les demandes d'indemnisation amiables des usagers et des tiers au titre des préjudices de toute nature liés à l'activité des services du ministère.
+
+NOTA :
+
+Conformément à l'article 12 du décret n° 2026-266 du 8 avril 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er mai 2026.
+
+Conformément au IV de l'article 9 du même décret, les demandes de décisions administratives individuelles présentées avant la date d'entrée en vigueur mentionnée audit article 9 soumises aux dispositions applicables à la date de leur présentation.
