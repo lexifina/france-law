@@ -1,0 +1,29 @@
+# Article 1er
+
+Compte tenu des éléments qui précèdent, les dispositions de l'article 12 « La contribution “conventionnelle” au titre du plan de développement des compétences » de l'accord du 14 novembre 2024 relatif à l'accès des salariés à la formation tout au long de la vie professionnelle (2025-2026-2027) de la convention collective de la manutention ferroviaire sont remplacées à la date d'application de cet accord par les dispositions suivantes :
+
+« Article 12
+
+La contribution “conventionnelle” au titre du plan de développement des compétences
+
+Les signataires confirment leur volonté de poursuivre leur politique de développement de la formation auprès de tous les salariés et souhaitent prolonger l'application de la contribution conventionnelle égale à 0,50 % de la masse salariale brute pour les entreprises de 11 salariés et plus, quel que soit leur effectif d'assujettissement fixé légalement.
+
+Cette contribution conventionnelle de 0,50 % de la masse salariale brute de l'exercice concerné est instaurée à compter des salaires versés au 1er janvier 2025 :
+
+– la contribution est calculée à titre estimatif sur la base de la masse salariale de l'année N – 1 ;
+
+– toute entreprise entrant dans le champ d'application de la branche versera cette contribution chaque année à l'organisme habilité à cette collecte selon des modalités convenues entre le conseil des métiers de la branche ou la section paritaire professionnelle et l'OPCO de la branche ;
+
+– le solde définitif est calculé sur la base de la masse salariale réelle de l'année N, si il est positif il fait l'objet d'un versement par l'entreprise à l'OPCO au plus tard avant le 31 mars de l'année N + 1 ; si il est négatif (MS année N < MS année N – 1) il fait l'objet d'un avoir de l'OPCO à l'entreprise au titre de la contribution conventionnelle de l'année N + 1.
+
+Cette contribution fera l'objet d'une section à part entière, affectées aux entreprises de la branche pour le financement de tout type d'actions de formation.
+
+Cette contribution permettra la prise en charge des coûts attachés aux actions de formation (frais pédagogiques, frais annexes, évaluation, suivi, accompagnement, certification, salaires).
+
+Dans l'objectif de mise en œuvre de la priorité de branche visant le développement de la qualification des salariés notamment via l'accès aux compétences clés (ou compétences de base) via les CQP de la branche, via les parcours de formation visant à renforcer notamment les compétences de base nettoyage manutention ferroviaire ou à préparer la certification CléA ou toute autre certification visant les compétences de base, les formations (y compris tests et épreuves) à la langue française pour les salariés allophones, visant à acquérir progressivement (alphabétisation, niveau A1…) le niveau A2 du cadre de référence européen pour l'obtention ou le renouvellement de titres de travail, les parties signataires conviennent :
+
+– d'affecter à ces priorités 20 % de cette contribution conventionnelle à compter de la collecte 2025 ;
+
+– d'ajouter en N + 2 (2027) à cette enveloppe le reliquat issu de la collecte 2025, ce mécanisme étant reconduit pour les collectes de 2026 et 2027.
+
+Les parties signataires délèguent à la CPNE-FP MF le soin de rendre éligibles à cette quote-part “priorités de branche” de la contribution conventionnelle d'autres parcours de formation identifiés par la CPNE-FP comme répondant à des besoins de la branche ».
