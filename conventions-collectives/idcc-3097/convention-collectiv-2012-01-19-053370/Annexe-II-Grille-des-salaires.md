@@ -24,14 +24,6 @@ Montant intéressement |
 
 Salaire de référence |
 
-1er assistant à la distribution des rôles cinéma |
-
-1   082,91 € |
-
-793,16 € |
-
-1   479,49 € |
-
 1er assistant costume cinéma |
 
 1   052,63 € |
@@ -128,7 +120,7 @@ Salaire de référence |
 
 534,74 € |
 
-Accessoiriste de décor cinéma |
+Accessoiriste aux meubles cinéma |
 
 1   006,42 € |
 
@@ -152,6 +144,14 @@ Administrateur adjoint comptable cinéma |
 
 1   070,37 € |
 
+Administrateur de décor cinéma |
+
+1 020,50 € |
+
+580,63 € |
+
+1 310,82 € |
+
 Administrateur de production cinéma |
 
 1   040,39 € |
@@ -167,6 +167,14 @@ Animatronicien cinéma |
 532,68 € |
 
 1   272,76 € |
+
+Assistant accessoiriste de plateau cinéma |
+
+873,26 € |
+
+79,20 € |
+
+912,86 € |
 
 Assistant au chargé de la figuration cinéma |
 
@@ -192,6 +200,54 @@ Assistant comptable de production cinéma |
 
 534,74 € |
 
+Assistant de direction de casting cinéma |
+
+931,54 € |
+
+277,67 € |
+
+1 070,37 € |
+
+Assistant de production cinéma |
+
+931,54 € |
+
+277,67 € |
+
+1 070,37 € |
+
+Assistant de production adjoint cinéma |
+
+534,74 € |
+
+- |
+
+534,74 € |
+
+Assistant dessinateur décoration cinéma |
+
+873, 26 € |
+
+79,20 € |
+
+912,86 € |
+
+Assistant ensemblier cinéma |
+
+873,26 € |
+
+79,20 € |
+
+912,86 € |
+
+Assistant étalonneur cinéma |
+
+950,54 € |
+
+79,20 € |
+
+1 121,74 € |
+
 Assistant maquilleur cinéma |
 
 929,07 € |
@@ -215,6 +271,14 @@ Assistant monteur son |
 342,39 € |
 
 1   121,74 € |
+
+Assistant régisseur d'extérieurs cinéma |
+
+873,26 € |
+
+79,20 € |
+
+912,86 € |
 
 Assistant scripte cinéma |
 
@@ -274,11 +338,11 @@ Cadreur spécialisé cinéma |
 
 Chargé de la figuration cinéma |
 
-931,54 € |
+950,54 € |
 
-277,67 € |
+342,39 € |
 
-1   070,37 € |
+1   121,74 € |
 
 Chef coiffeur cinéma |
 
@@ -360,7 +424,7 @@ Chef maquilleur cinéma |
 
 1   321,21 € |
 
-Chef menuisier de décor cinéma |
+Chef menuisier traceur de décor cinéma |
 
 1   024,65 € |
 
@@ -464,6 +528,14 @@ Coordinateur de post production cinéma |
 
 1   551,31 € |
 
+Coordinateur de production cinéma |
+
+1 040,39 € |
+
+648,35 € |
+
+1 364,56 € |
+
 Costumier cinéma |
 
 929,07 € |
@@ -487,6 +559,14 @@ Créateur de costumes cinéma |
 2   313,51 € |
 
 2   686,12 € |
+
+Directeur de casting cinéma |
+
+1   109,48 € |
+
+883,65 € |
+
+1   551,31 € |
 
 Directeur de la photographie cinéma |
 
@@ -535,6 +615,14 @@ Ensemblier décorateur cinéma |
 1   360,87 € |
 
 1   930,06 € |
+
+Étalonneur cinéma |
+
+1 316,37 € |
+
+1 588,17 € |
+
+2 110,45 € |
 
 Habilleur cinéma |
 
@@ -688,6 +776,14 @@ Régisseur général cinéma |
 
 1   479,49 € |
 
+Repéreur cinéma |
+
+1 082,91 € |
+
+793,16 € |
+
+1 479,49 € |
+
 Répétiteur cinéma |
 
 931,54 € |
@@ -695,6 +791,14 @@ Répétiteur cinéma |
 277,67 € |
 
 1   070,37 € |
+
+Rippeur de meublage et de construction cinéma |
+
+921,86 € |
+
+244,70 € |
+
+1 044,21 € |
 
 Responsable des enfants cinéma |
 
@@ -736,7 +840,7 @@ Serrurier de décor cinéma |
 
 1   145,46 € |
 
-Sous-chef menuisier de décor cinéma |
+Sous-chef menuisier traceur de décor cinéma |
 
 985,67 € |
 
@@ -807,6 +911,14 @@ Superviseur d'effets physiques cinéma |
 1   360,87 € |
 
 1   930,06 € |
+
+Superviseur de décor cinéma |
+
+1 249,62 € |
+
+1 360,87 |
+
+1 930,06 € |
 
 Tapissier de décor cinéma |
 
@@ -976,7 +1088,7 @@ Salaire de référence |
 
 584,87 € |
 
-Accessoiriste de décor cinéma |
+Accessoiriste aux meubles cinéma |
 
 42 |
 
@@ -1012,6 +1124,18 @@ Administrateur de production cinéma |
 
 1   535,13 € |
 
+Assistant accessoiriste de plateau cinéma |
+
+43 |
+
+46 |
+
+982,42 € |
+
+89,10 € |
+
+1 026,97 € |
+
 Assistant au chargé de la figuration cinéma |
 
 43 |
@@ -1024,6 +1148,42 @@ Assistant au chargé de la figuration cinéma |
 
 601,58 € |
 
+Assistant de production |
+
+43 |
+
+46 |
+
+1 047,98 € |
+
+312,37 € |
+
+1 204,17 € |
+
+Assistant de production adjoint |
+
+43 |
+
+46 |
+
+601,58 € |
+
+- |
+
+601,58 € |
+
+Assistant ensemblier cinéma |
+
+43 |
+
+46 |
+
+982,42 € |
+
+89,10 € |
+
+1 026,97 € |
+
 Assistant maquilleur cinéma |
 
 43 |
@@ -1035,6 +1195,18 @@ Assistant maquilleur cinéma |
 302,94 € |
 
 1   196,68 € |
+
+Assistant régisseur d'extérieurs cinéma |
+
+43 |
+
+46 |
+
+982,42 € |
+
+89,10 € |
+
+1 026,97 € |
 
 Assistant scripte cinéma |
 
@@ -1204,6 +1376,18 @@ Conducteur de groupe cinéma |
 
 1   345,75 € |
 
+Coordinateur de production cinéma |
+
+43 |
+
+46 |
+
+1 170,44 € |
+
+729,39 € |
+
+1 535,13 € |
+
 Costumier cinéma |
 
 43 |
@@ -1336,6 +1520,18 @@ Régisseur général cinéma |
 
 1   664,43 € |
 
+Rippeur de meublage et de construction cinéma |
+
+44 |
+
+45 |
+
+1 071,66 € |
+
+284,47 € |
+
+1 213,89 € |
+
 Scripte cinéma |
 
 42 |
@@ -1383,6 +1579,18 @@ Sous-chef machiniste de prise de vues cinéma |
 342,52 € |
 
 1   323,72 € |
+
+Superviseur de décor cinéma |
+
+42 |
+
+45 |
+
+1 366,77 € |
+
+1 488,45 € |
+
+2 111,00 € |
 
 Technicien retour image cinéma |
 
@@ -1508,7 +1716,7 @@ Salaire de référence |
 
 772,03 € |
 
-Accessoiriste de décor cinéma |
+Accessoiriste aux meubles cinéma |
 
 51 |
 
@@ -1544,6 +1752,18 @@ Administrateur de production cinéma |
 
 2   029,78 € |
 
+Assistant accessoiriste de plateau cinéma |
+
+52 |
+
+56 |
+
+1 298,97 € |
+
+117,82 € |
+
+1 357,88 € |
+
 Assistant au chargé de la figuration cinéma |
 
 52 |
@@ -1556,6 +1776,42 @@ Assistant au chargé de la figuration cinéma |
 
 795,42 € |
 
+Assistant de production |
+
+52 |
+
+56 |
+
+1 385,66 € |
+
+413,03 € |
+
+1 592,18 € |
+
+Assistant de production adjoint |
+
+52 |
+
+56 |
+
+795,43 € |
+
+- |
+
+795,43 € |
+
+Assistant ensemblier cinéma |
+
+52 |
+
+56 |
+
+1 298,97 € |
+
+117,82 € |
+
+1 357,88 € |
+
 Assistant maquilleur cinéma |
 
 52 |
@@ -1567,6 +1823,18 @@ Assistant maquilleur cinéma |
 400,55 € |
 
 1   582,28 € |
+
+Assistant régisseur d'extérieurs cinéma |
+
+52 |
+
+56 |
+
+1 298,97 € |
+
+117,82 € |
+
+1 357,88 € |
 
 Assistant scripte cinéma |
 
@@ -1736,6 +2004,18 @@ Conducteur de groupe cinéma |
 
 1   807,93 € |
 
+Coordinateur de production cinéma |
+
+52 |
+
+56 |
+
+1 547,58 € |
+
+964,41 € |
+
+2 029,78 € |
+
 Costumier cinéma |
 
 52 |
@@ -1868,6 +2148,18 @@ Régisseur général cinéma |
 
 2   200,74 € |
 
+Rippeur de meublage et de construction cinéma |
+
+53 |
+
+55 |
+
+1 411,59 € |
+
+466,07 € |
+
+1 644,63 € |
+
 Scripte cinéma |
 
 51 |
@@ -1915,6 +2207,18 @@ Sous-chef machiniste de prise de vues cinéma |
 460,16 € |
 
 1   778,33 € |
+
+Superviseur de décor cinéma |
+
+51 |
+
+55 |
+
+1 804,14 € |
+
+1 964,76 € |
+
+2 786,52 € |
 
 Technicien retour image cinéma |
 
