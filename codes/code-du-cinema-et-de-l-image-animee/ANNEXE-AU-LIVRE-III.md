@@ -220,7 +220,9 @@ A. - Fiction :
 
 12° Le ou les contrats de prestation, les annexes et éventuels avenants s'ils n'ont pas été fournis lors de l'autorisation préalable ou si de nouveaux avenants ont été signés ;
 
-13° Une copie vidéo de l'œuvre incluant les génériques.
+13° Une copie vidéo de l'œuvre incluant les génériques .
+
+14° L'attestation nominative établie par l'opérateur de compétences AFDAS ou toute personne mandatée par lui certifiant que les salariés concernés ont suivi la formation prévue à l'article 122-17-1-1 ou, le cas échéant, les attestations individuelles de suivi du module en présentiel dans les six mois précédents établies par ce même opérateur ou son mandataire.
 
 B. - Animation :
 
@@ -1844,4 +1846,4 @@ II. - Dossier de présentation de l'opération :
 
 NOTA :
 
-Conformément à l’article 34 de la délibération n°2025/CA/16 du 26 juin 2025, les dispositions de la délibération précitée s'appliquent aux demandes d'aides adressées au Centre national du cinéma et de l'image animée à compter du 1er janvier 2026.
+Conformément à l’article 4 de la délibération n°2025/CA/12 du 26 juin 2025 et à l'article 6 de la délibération n° 2025/CA/34 du 2 décembre 2025, ces dispositions, dans leur rédaction résultant des délibérations précitées, s'appliquent aux demandes d'aides adressées au Centre national du cinéma et de l'image animée à compter du 1er mai 2026.
