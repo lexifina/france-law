@@ -32,6 +32,8 @@ XI.-La surface moyenne des logements du bâtiment ou de la partie de bâtiment, 
 
 = Sref/ N L avec N L représentant le nombre de logements du bâtiment ou de la partie de bâtiment et Sref étant la surface de référence.
 
+XII. - La consommation d'énergie primaire renouvelable du bâtiment, calculée pour des conditions de fonctionnement définies, pour le chauffage, le refroidissement, la production d'eau chaude sanitaire, l'éclairage, la mobilité des occupants interne au bâtiment, les auxiliaires de chauffage, de refroidissement, d'eau chaude sanitaire et de ventilation, mentionnée au 8° de l'article R. 172-4, est définie par un indicateur noté Cep, r.
+
 Chapitre II : Expressions des résultats minimaux à atteindre
 
 I.-La valeur maximale Bbio_max du bâtiment est déterminée comme suit :
@@ -102,7 +104,7 @@ Miinfra : coefficient de modulation selon l'impact des fondations, des espaces e
 
 Mivrd : coefficient de modulation selon l'impact de la voirie et des réseaux divers du bâtiment ou de la partie de bâtiment ;
 
-Mipv : coefficient de modulation selon l'impact de l'installation des panneaux photovoltaïques pour un bâtiment ou une partie de bâtiment à usage de bureaux de plus de 1000 m2 d'emprise au sol, au sens de l'article R. 420-1 du code de l'urbanisme ;
+Mipv : coefficient de modulation selon l'impact de l'installation des panneaux photovoltaïques pour un bâtiment ou une partie de bâtiment ;
 
 Mided : coefficient de modulation selon l'impact des données environnementales par défaut et valeurs forfaitaires dans l'évaluation du bâtiment ou de la partie de bâtiment.
 
@@ -134,21 +136,109 @@ Usage de la partie de bâtiment |
 
 Valeur de Bbio_maxmoyen |
 
-Maisons individuelles ou accolées |
+1. Maisons individuelles ou accolées |
 
 63 points |
 
-Logements collectifs |
+2. Logements collectifs |
 
 65 points |
 
-Bureaux |
+3. Bureaux |
 
 95 points |
 
-Enseignement primaire et secondaire |
+4. et 5. Enseignement primaire et secondaire |
 
 68 points |
+
+6. Médiathèques et bibliothèques |
+
+117 points |
+
+7. Bâtiments universitaires d'enseignement et de recherche et bâtiments d'enseignements atypiques |
+
+122 points |
+
+8. Hôtels 0,1 et 2 étoiles (partie nuit) |
+
+76 points |
+
+9. Hôtels 3,4 et 5 étoiles (partie nuit) |
+
+76 points |
+
+10. Hôtels 0,1 et 2 étoiles (partie jour) |
+
+134 points |
+
+11. Hôtels 3,4 et 5 étoiles (partie jour) |
+
+163 points |
+
+12. Etablissements d'accueil de la petite enfance |
+
+139 points |
+
+13. Restaurants-en continu, 18 heures par jour, 7 jours sur 7 |
+
+245 points |
+
+14. Restaurants-1 repas par jour, 5 jours sur 7 |
+
+100 points |
+
+15. Restaurants-2 repas par jour, 7 jours sur 7 |
+
+206 points |
+
+16. Restaurants-2 repas par jour, 6 jours sur 7 |
+
+177 points |
+
+17. Commerces |
+
+170 points |
+
+18. Vestiaires seuls |
+
+225 points |
+
+19. Etablissements sanitaires avec hébergement |
+
+174 points |
+
+20. Etablissements de santé (partie nuit) |
+
+164 points |
+
+21. Etablissements de santé (partie jour) |
+
+133 points |
+
+22. Aérogares |
+
+248 points |
+
+23. Industries ou artisanats 3x8h |
+
+257 points |
+
+24. Industries ou artisanats 8h à 18h |
+
+69 points |
+
+25. et 28. Etablissements sportifs municipaux ou scolaires et établissements sportifs privés |
+
+94 points |
+
+26. Restaurants scolaires-1 repas par jour, 5 jours sur 7 |
+
+76 points |
+
+27. Restaurants scolaires-3 repas par jour, 5 jours sur 7 |
+
+116 points |
 
 1. Coefficients de modulation de l'exigence Bbio_max pour les maisons individuelles ou accolées
 
@@ -920,57 +1010,2619 @@ Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du 
 
 Mbbruit = 0
 
+6. Coefficients de modulation de l'exigence Bbio_max pour les médiathèques et bibliothèques
+
+Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,05 |
+
+0,2 |
+
+0,25 |
+
+-0,1 |
+
+0 |
+
+0 |
+
+0,3 |
+
+0,2 |
+
+400m-800m |
+
+0,2 |
+
+0,3 |
+
+0,3 |
+
+0 |
+
+0,1 |
+
+0 |
+
+0,25 |
+
+0,15 |
+
+> 800m |
+
+0,4 |
+
+0,5 |
+
+0,40 |
+
+0,15 |
+
+0,3 |
+
+0,1 |
+
+0,25 |
+
+0,15 |
+
+;
+
+Le coefficient Mbcombles de modulation du Bbio_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mbcombles = 0 ;
+
+Le coefficient Mbsurf_moy de modulation du Bbio_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment Smoy lgt prend la valeur suivante :
+
+Mbsurf_moy = 0 ;
+
+Le coefficient Mbsurf_tot de modulation du Bbio_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Mbsurf_tot = 0 ;
+
+Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les zones de bruit sont définies au chapitre V) :
+
+Zone de bruit |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+BR1 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+BR2, BR3 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+Catégorie 3 |
+
+0,15 |
+
+0,1 |
+
+0,1 |
+
+0,15 |
+
+0,15 |
+
+0,2 |
+
+0,1 |
+
+0,15 |
+
+;
+
+7. Coefficients de modulation de l'exigence Bbio_max pour les bâtiments universitaires d'enseignement et de recherche et bâtiments d'enseignements atypiques
+
+Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,1 |
+
+0,2 |
+
+0,2 |
+
+-0,05 |
+
+0 |
+
+0 |
+
+0,2 |
+
+0,2 |
+
+400m-800m |
+
+0,3 |
+
+0,35 |
+
+0,35 |
+
+0,1 |
+
+0,2 |
+
+0,05 |
+
+0,25 |
+
+0,15 |
+
+> 800m |
+
+0,5 |
+
+0,6 |
+
+0,5 |
+
+0,3 |
+
+0,4 |
+
+0,2 |
+
+0,25 |
+
+0,15 |
+
+;
+
+Le coefficient Mbcombles de modulation du Bbio_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mbcombles = 0 ;
+
+Le coefficient Mbsurf_moy de modulation du Bbio_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment Smoy lgt prend la valeur suivante :
+
+Mbsurf_moy = 0 ;
+
+Le coefficient Mbsurf_tot de modulation du Bbio_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Mbsurf_tot = 0 ;
+
+Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les zones de bruit sont définies au chapitre V) :
+
+Zone de bruit |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+BR1 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+BR2, BR3 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+Catégorie 3 |
+
+0,1 |
+
+0,05 |
+
+0,1 |
+
+0,1 |
+
+0,15 |
+
+0,2 |
+
+0,1 |
+
+0,15 |
+
+;
+
+8. Coefficients de modulation de l'exigence Bbio_max pour les hôtels 0,1 et 2 étoiles (partie nuit)
+
+Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,15 |
+
+0,2 |
+
+0,2 |
+
+0 |
+
+0 |
+
+-0,1 |
+
+0 |
+
+-0,15 |
+
+400m-800m |
+
+0,45 |
+
+0,45 |
+
+0,4 |
+
+0,25 |
+
+0,3 |
+
+0,15 |
+
+0,15 |
+
+-0,05 |
+
+> 800m |
+
+0,75 |
+
+0,8 |
+
+0,7 |
+
+0,6 |
+
+0,6 |
+
+0,4 |
+
+0,4 |
+
+0,15 |
+
+;
+
+Le coefficient Mbcombles de modulation du Bbio_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mbcombles = 0 ;
+
+Le coefficient Mbsurf_moy de modulation du Bbio_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment Smoy lgt prend la valeur suivante :
+
+Mbsurf_moy = 0 ;
+
+Le coefficient Mbsurf_tot de modulation du Bbio_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Mbsurf_tot = 0 ;
+
+Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les zones de bruit sont définies au chapitre V) :
+
+|
+
+BR1 |
+
+BR2/3 |
+
+Cat 3 |
+
+Mbbruit |
+
+0 |
+
+0 |
+
+0,05 |
+
+;
+
+9. Coefficients de modulation de l'exigence Bbio_max pour les hôtels 3,4 et 5 étoiles (partie nuit)
+
+Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,15 |
+
+0,2 |
+
+0,2 |
+
+0 |
+
+0 |
+
+-0,1 |
+
+0 |
+
+-0,15 |
+
+400m-800m |
+
+0,45 |
+
+0,45 |
+
+0,4 |
+
+0,25 |
+
+0,3 |
+
+0,15 |
+
+0,15 |
+
+-0,05 |
+
+> 800m |
+
+0,75 |
+
+0,75 |
+
+0,65 |
+
+0,6 |
+
+0,6 |
+
+0,4 |
+
+0,4 |
+
+0,15 |
+
+;
+
+Le coefficient Mbcombles de modulation du Bbio_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mbcombles = 0 ;
+
+Le coefficient Mbsurf_moy de modulation du Bbio_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment Smoy lgt prend la valeur suivante :
+
+Mbsurf_moy = 0 ;
+
+Le coefficient Mbsurf_tot de modulation du Bbio_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Mbsurf_tot = 0 ;
+
+Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les zones de bruit sont définies au chapitre V) :
+
+|
+
+BR1 |
+
+BR2/3 |
+
+Cat 3 |
+
+Mbbruit |
+
+0 |
+
+0 |
+
+0,05 |
+
+;
+
+10. Coefficients de modulation de l'exigence Bbio_max pour les hôtels 0,1 et 2 étoiles (partie jour)
+
+Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,1 |
+
+0,15 |
+
+0,25 |
+
+-0,1 |
+
+0 |
+
+0 |
+
+0,35 |
+
+0,25 |
+
+400m-800m |
+
+0,25 |
+
+0,3 |
+
+0,35 |
+
+0,05 |
+
+0,15 |
+
+0,05 |
+
+0,3 |
+
+0,15 |
+
+> 800m |
+
+0,45 |
+
+0,55 |
+
+0,5 |
+
+0,3 |
+
+0,35 |
+
+0,2 |
+
+0,35 |
+
+0,15 |
+
+;
+
+Le coefficient Mbcombles de modulation du Bbio_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mbcombles = 0 ;
+
+Le coefficient Mbsurf_moy de modulation du Bbio_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment Smoy lgt prend la valeur suivante :
+
+Mbsurf_moy = 0 ;
+
+Le coefficient Mbsurf_tot de modulation du Bbio_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Mbsurf_tot = 0 ;
+
+Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les zones de bruit sont définies au chapitre V) :
+
+|
+
+BR1 |
+
+BR2/3 |
+
+Cat 3 |
+
+Mbbruit |
+
+0 |
+
+0 |
+
+0,3 |
+
+;
+
+11. Coefficients de modulation de l'exigence Bbio_max pour les hôtels 3,4 et 5 étoiles (partie jour)
+
+Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,05 |
+
+0,15 |
+
+0,2 |
+
+-0,1 |
+
+0 |
+
+-0,05 |
+
+0,25 |
+
+0,1 |
+
+400m-800m |
+
+0,25 |
+
+0,3 |
+
+0,3 |
+
+0,1 |
+
+0,15 |
+
+0,05 |
+
+0,25 |
+
+0,1 |
+
+> 800m |
+
+0,45 |
+
+0,5 |
+
+0,45 |
+
+0,3 |
+
+0,35 |
+
+0,20 |
+
+0,3 |
+
+0,15 |
+
+;
+
+Le coefficient Mbcombles de modulation du Bbio_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mbcombles = 0 ;
+
+Le coefficient Mbsurf_moy de modulation du Bbio_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment Smoy lgt prend la valeur suivante :
+
+Mbsurf_moy = 0 ;
+
+Le coefficient Mbsurf_tot de modulation du Bbio_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Mbsurf_tot = 0 ;
+
+Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les zones de bruit sont définies au chapitre V) :
+
+|
+
+BR1 |
+
+BR2/3 |
+
+Cat 3 |
+
+Mbbruit |
+
+0 |
+
+0 |
+
+0,3 |
+
+;
+
+12. Coefficients de modulation de l'exigence Bbio_max pour les établissements d'accueil de la petite enfance
+
+Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,1 |
+
+0,15 |
+
+0,1 |
+
+0 |
+
+0, |
+
+-0,1 |
+
+0,1 |
+
+0 |
+
+400m-800m |
+
+0,25 |
+
+0,3 |
+
+0,25 |
+
+0,15 |
+
+0,2 |
+
+0,05 |
+
+0,1 |
+
+0,05 |
+
+> 800m |
+
+0,45 |
+
+0,5 |
+
+0,4 |
+
+0,4 |
+
+0,4 |
+
+0,25 |
+
+0,25 |
+
+0,15 |
+
+;
+
+Le coefficient Mbcombles de modulation du Bbio_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mbcombles = 0 ;
+
+Le coefficient Mbsurf_moy de modulation du Bbio_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment Smoy lgt prend la valeur suivante :
+
+Mbsurf_moy = 0 ;
+
+Le coefficient Mbsurf_tot de modulation du Bbio_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Mbsurf_tot = 0 ;
+
+Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les zones de bruit sont définies au chapitre V) :
+
+Zone de bruit |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+BR1 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+BR2, BR3 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+Catégorie 3 |
+
+0,05 |
+
+0,1 |
+
+0,15 |
+
+0,1 |
+
+0,15 |
+
+0,2 |
+
+0,25 |
+
+0,3 |
+
+;
+
+13. Coefficients de modulation de l'exigence Bbio_max pour les restaurants-en continu, 18 heures par jour, 7 jours sur 7
+
+Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,05 |
+
+0,1 |
+
+0,2 |
+
+-0,05 |
+
+0 |
+
+0,05 |
+
+0,25 |
+
+0,15 |
+
+400m-800m |
+
+0,15 |
+
+0,2 |
+
+0,25 |
+
+0,05 |
+
+0,1 |
+
+0,05 |
+
+0,25 |
+
+0,15 |
+
+> 800m |
+
+0,3 |
+
+0,35 |
+
+0,35 |
+
+0,2 |
+
+0,25 |
+
+0,15 |
+
+0,30 |
+
+0,15 |
+
+;
+
+Le coefficient Mbcombles de modulation du Bbio_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mbcombles = 0 ;
+
+Le coefficient Mbsurf_moy de modulation du Bbio_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment Smoy lgt prend la valeur suivante :
+
+Mbsurf_moy = 0 ;
+
+Le coefficient Mbsurf_tot de modulation du Bbio_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Mbsurf_tot = 0 ;
+
+Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend la valeur suivante (les zones de bruit sont définies au chapitre V) :
+
+Mbbruit = 0 ;
+
+14. Coefficients de modulation de l'exigence Bbio_max pour les restaurants-1 repas par jour, 5 jours sur 7
+
+Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,1 |
+
+0,15 |
+
+0,2 |
+
+0 |
+
+0 |
+
+-0,05 |
+
+0,2 |
+
+0,1 |
+
+400m-800m |
+
+0,3 |
+
+0,35 |
+
+0,3 |
+
+0,2 |
+
+0,2 |
+
+0,05 |
+
+0,2 |
+
+0,15 |
+
+> 800m |
+
+0,55 |
+
+0,55 |
+
+0,5 |
+
+0,45 |
+
+0,45 |
+
+0,25 |
+
+0,3 |
+
+0,2 |
+
+;
+
+Le coefficient Mbcombles de modulation du Bbio_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mbcombles = 0 ;
+
+Le coefficient Mbsurf_moy de modulation du Bbio_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment Smoy lgt prend la valeur suivante :
+
+Mbsurf_moy = 0 ;
+
+Le coefficient Mbsurf_tot de modulation du Bbio_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Mbsurf_tot = 0 ;
+
+Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les zones de bruit sont définies au chapitre V) :
+
+Mbbruit = 0 ;
+
+15. Coefficients de modulation de l'exigence Bbio_max pour les restaurants-2 repas par jour, 7 jours sur 7
+
+Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,05 |
+
+0,1 |
+
+0,15 |
+
+-0,05 |
+
+0 |
+
+0 |
+
+0,15 |
+
+0,1 |
+
+400m-800m |
+
+0,20 |
+
+0,25 |
+
+0,25 |
+
+0,1 |
+
+0,15 |
+
+0,05 |
+
+0,2 |
+
+0,1 |
+
+> 800m |
+
+0,35 |
+
+0,4 |
+
+0,35 |
+
+0,25 |
+
+0,3 |
+
+0,15 |
+
+0,25 |
+
+0,15 |
+
+;
+
+Le coefficient Mbcombles de modulation du Bbio_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mbcombles = 0 ;
+
+Le coefficient Mbsurf_moy de modulation du Bbio_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment Smoy lgt prend la valeur suivante :
+
+Mbsurf_moy = 0 ;
+
+Le coefficient Mbsurf_tot de modulation du Bbio_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Mbsurf_tot = 0 ;
+
+Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend la valeur suivante (les zones de bruit sont définies au chapitre V) :
+
+Mbbruit = 0 ;
+
+16. Coefficients de modulation de l'exigence Bbio_max pour les restaurants-2 repas par jour, 6 jours sur 7
+
+Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,05 |
+
+0,15 |
+
+0,15 |
+
+-0,05 |
+
+0 |
+
+0 |
+
+0,2 |
+
+0,1 |
+
+400m-800m |
+
+0,2 |
+
+0,25 |
+
+0,25 |
+
+0,05 |
+
+0,15 |
+
+0,05 |
+
+0,2 |
+
+0,15 |
+
+> 800m |
+
+0,35 |
+
+0,4 |
+
+0,35 |
+
+0,25 |
+
+0,3 |
+
+0,15 |
+
+0,3 |
+
+0,2 |
+
+;
+
+Le coefficient Mbcombles de modulation du Bbio_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mbcombles = 0 ;
+
+Le coefficient Mbsurf_moy de modulation du Bbio_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment Smoy lgt prend la valeur suivante :
+
+Mbsurf_moy = 0 ;
+
+Le coefficient Mbsurf_tot de modulation du Bbio_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Mbsurf_tot = 0 ;
+
+Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend la valeur suivante (les zones de bruit sont définies au chapitre V) :
+
+Mbbruit = 0 ;
+
+17. Coefficients de modulation de l'exigence Bbio_max pour les commerces
+
+Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,05 |
+
+0,1 |
+
+0,15 |
+
+-0,05 |
+
+0 |
+
+0,05 |
+
+0,3 |
+
+0,25 |
+
+400m-800m |
+
+0,1 |
+
+0,2 |
+
+0,2 |
+
+0 |
+
+0,1 |
+
+0 |
+
+0,25 |
+
+0,2 |
+
+> 800m |
+
+0,2 |
+
+0,3 |
+
+0,25 |
+
+0,15 |
+
+0,2 |
+
+0,1 |
+
+0,25 |
+
+0,2 |
+
+;
+
+Le coefficient Mbcombles de modulation du Bbio_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mbcombles = 0 ;
+
+Le coefficient Mbsurf_moy de modulation du Bbio_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment Smoy lgt prend la valeur suivante :
+
+Mbsurf_moy = 0 ;
+
+Le coefficient Mbsurf_tot de modulation du Bbio_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0014 du 17 janvier 2026 accessible à partir du lien suivant :
+
+https://www.legifrance.gouv.fr/download/pdf?id=0pVbtERhE02Jt6os-u1uglVbqlB-xT1BMnui4USyxY4=
+
+;
+
+Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les zones de bruit sont définies au chapitre V) :
+
+|
+
+BR1 |
+
+BR2/3 |
+
+Cat 3 |
+
+Mbbruit |
+
+0 |
+
+0 |
+
+0,2 |
+
+;
+
+18. Coefficients de modulation de l'exigence Bbio_max pour les vestiaires seuls
+
+Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,05 |
+
+0,1 |
+
+0,1 |
+
+-0,05 |
+
+0 |
+
+-0,1 |
+
+0 |
+
+-0,1 |
+
+400m-800m |
+
+0,3 |
+
+0,3 |
+
+0,25 |
+
+0,2 |
+
+0,25 |
+
+0,05 |
+
+0,1 |
+
+0 |
+
+> 800m |
+
+0,55 |
+
+0,55 |
+
+0,5 |
+
+0,45 |
+
+0,5 |
+
+0,3 |
+
+0,25 |
+
+0,15 |
+
+;
+
+Le coefficient Mbcombles de modulation du Bbio_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mbcombles = 0 ;
+
+Le coefficient Mbsurf_moy de modulation du Bbio_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment Smoy lgt prend la valeur suivante :
+
+Mbsurf_moy = 0 ;
+
+Le coefficient Mbsurf_tot de modulation du Bbio_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Mbsurf_tot = 0 ;
+
+Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les zones de bruit sont définies au chapitre V) :
+
+Mbbruit = 0 ;
+
+19. Coefficients de modulation de l'exigence Bbio_max pour les établissements sanitaires avec hébergement
+
+Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,1 |
+
+0,15 |
+
+0,15 |
+
+-0,05 |
+
+0 |
+
+-0,05 |
+
+0,05 |
+
+-0,05 |
+
+400m-800m |
+
+0,25 |
+
+0,3 |
+
+0,25 |
+
+0,15 |
+
+0,15 |
+
+0,1 |
+
+0,1 |
+
+-0,05 |
+
+> 800m |
+
+0,45 |
+
+0,5 |
+
+0,45 |
+
+0,3 |
+
+0,35 |
+
+0,25 |
+
+0,2 |
+
+0,05 |
+
+;
+
+Le coefficient Mbcombles de modulation du Bbio_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mbcombles = 0 ;
+
+Le coefficient Mbsurf_moy de modulation du Bbio_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment Smoy lgt prend la valeur suivante :
+
+Mbsurf_moy = 0 ;
+
+Le coefficient Mbsurf_tot de modulation du Bbio_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Mbsurf_tot = 0 ;
+
+Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les zones de bruit sont définies au chapitre V) :
+
+Mbbruit = 0 ;
+
+20. Coefficients de modulation de l'exigence Bbio_max pour les établissements de santé (partie nuit)
+
+Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,05 |
+
+0,15 |
+
+0,2 |
+
+-0,05 |
+
+0 |
+
+0 |
+
+0,2 |
+
+0,1 |
+
+400m-800m |
+
+0,25 |
+
+0,3 |
+
+0,3 |
+
+0,15 |
+
+0,2 |
+
+0,1 |
+
+0,25 |
+
+0,1 |
+
+> 800m |
+
+0,45 |
+
+0,5 |
+
+0,45 |
+
+0,35 |
+
+0,4 |
+
+0,25 |
+
+0,35 |
+
+0,2 |
+
+;
+
+Le coefficient Mbcombles de modulation du Bbio_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mbcombles = 0 ;
+
+Le coefficient Mbsurf_moy de modulation du Bbio_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment Smoy lgt prend la valeur suivante :
+
+Mbsurf_moy = 0 ;
+
+Le coefficient Mbsurf_tot de modulation du Bbio_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Mbsurf_tot = 0 ;
+
+Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les zones de bruit sont définies au chapitre V) :
+
+Mbbruit = 0 ;
+
+21. Coefficients de modulation de l'exigence Bbio_max pour les établissements de santé (partie jour)
+
+Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,05 |
+
+0,15 |
+
+0,2 |
+
+-0,05 |
+
+0 |
+
+0 |
+
+0,25 |
+
+0,2 |
+
+400m-800m |
+
+0,15 |
+
+0,2 |
+
+0,2 |
+
+0,05 |
+
+0,05 |
+
+0 |
+
+0,2 |
+
+0,1 |
+
+> 800m |
+
+0,25 |
+
+0,3 |
+
+0,25 |
+
+0,15 |
+
+0,2 |
+
+0,1 |
+
+0,15 |
+
+0,1 |
+
+;
+
+Le coefficient Mbcombles de modulation du Bbio_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mbcombles = 0 ;
+
+Le coefficient Mbsurf_moy de modulation du Bbio_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment Smoy lgt prend la valeur suivante :
+
+Mbsurf_moy = 0 ;
+
+Le coefficient Mbsurf_tot de modulation du Bbio_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0014 du 17 janvier 2026 accessible à partir du lien suivant :
+
+https://www.legifrance.gouv.fr/download/pdf?id=0pVbtERhE02Jt6os-u1uglVbqlB-xT1BMnui4USyxY4=
+
+;
+
+Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les zones de bruit sont définies au chapitre V) :
+
+Mbbruit = 0 ;
+
+22. Coefficients de modulation de l'exigence Bbio_max pour les aérogares
+
+Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,05 |
+
+0,1 |
+
+0,15 |
+
+-0,05 |
+
+0 |
+
+0,05 |
+
+0,2 |
+
+0,2 |
+
+400m-800m |
+
+0,1 |
+
+0,15 |
+
+0,2 |
+
+0 |
+
+0,1 |
+
+0,05 |
+
+0,2 |
+
+0,15 |
+
+> 800m |
+
+0,05 |
+
+0,15 |
+
+-0,05 |
+
+0 |
+
+0,1 |
+
+0,25 |
+
+0,25 |
+
+0,05 |
+
+;
+
+Le coefficient Mbcombles de modulation du Bbio_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mbcombles = 0 ;
+
+Le coefficient Mbsurf_moy de modulation du Bbio_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment Smoy lgt prend la valeur suivante :
+
+Mbsurf_moy = 0 ;
+
+Le coefficient Mbsurf_tot de modulation du Bbio_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Mbsurf_tot = 0 ;
+
+Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les zones de bruit sont définies au chapitre V) :
+
+Mbbruit = 0 ;
+
+23. Coefficients de modulation de l'exigence Bbio_max pour les bâtiments à usages industriel ou artisanat 3x8h
+
+Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,05 |
+
+0,05 |
+
+0,1 |
+
+-0,05 |
+
+0 |
+
+0,05 |
+
+0,25 |
+
+0,25 |
+
+400m-800m |
+
+0,05 |
+
+0,1 |
+
+0,1 |
+
+0 |
+
+0,05 |
+
+0,05 |
+
+0,2 |
+
+0,15 |
+
+> 800m |
+
+0,1 |
+
+0,15 |
+
+0,15 |
+
+0,05 |
+
+0,1 |
+
+0,05 |
+
+0,2 |
+
+0,1 |
+
+;
+
+Le coefficient Mbcombles de modulation du Bbio_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mbcombles = 0 ;
+
+Le coefficient Mbsurf_moy de modulation du Bbio_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment Smoy lgt prend la valeur suivante :
+
+Mbsurf_moy = 0 ;
+
+Le coefficient Mbsurf_tot de modulation du Bbio_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0014 du 17 janvier 2026 accessible à partir du lien suivant :
+
+https://www.legifrance.gouv.fr/download/pdf?id=0pVbtERhE02Jt6os-u1uglVbqlB-xT1BMnui4USyxY4=
+
+;
+
+Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les zones de bruit sont définies au chapitre V) :
+
+Mbbruit = 0 ;
+
+24. Coefficients de modulation de l'exigence Bbio_max pour les bâtiments à usages industriel ou artisanat 8 heures à 18 heures
+
+Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,1 |
+
+0,15 |
+
+0,25 |
+
+-0,05 |
+
+0 |
+
+0,05 |
+
+0,4 |
+
+0,35 |
+
+400m-800m |
+
+0,2 |
+
+0,25 |
+
+0,3 |
+
+0,05 |
+
+0,1 |
+
+0,05 |
+
+0,4 |
+
+0,3 |
+
+> 800m |
+
+0,35 |
+
+0,4 |
+
+0,45 |
+
+0,2 |
+
+0,25 |
+
+0,15 |
+
+0,35 |
+
+0,25 |
+
+;
+
+Le coefficient Mbcombles de modulation du Bbio_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mbcombles = 0 ;
+
+Le coefficient Mbsurf_moy de modulation du Bbio_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment Smoy lgt prend la valeur suivante :
+
+Mbsurf_moy = 0 ;
+
+Le coefficient Mbsurf_tot de modulation du Bbio_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0014 du 17 janvier 2026 accessible à partir du lien suivant :
+
+https://www.legifrance.gouv.fr/download/pdf?id=0pVbtERhE02Jt6os-u1uglVbqlB-xT1BMnui4USyxY4=
+
+;
+
+Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les zones de bruit sont définies au chapitre V) :
+
+Mbbruit = 0 ;
+
+25. et 28. Coefficients de modulation de l'exigence Bbio_max pour les établissements sportifs municipaux ou scolaires et pour les établissements sportifs privés
+
+Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0 |
+
+0,1 |
+
+0,25 |
+
+-0,15 |
+
+0 |
+
+0,1 |
+
+0,55 |
+
+0,55 |
+
+400m-800m |
+
+0 |
+
+0,05 |
+
+0,15 |
+
+-0,15 |
+
+-0,05 |
+
+-0,05 |
+
+0,4 |
+
+0,3 |
+
+> 800m |
+
+0,05 |
+
+0,1 |
+
+0,15 |
+
+-0,05 |
+
+0 |
+
+-0,05 |
+
+0,25 |
+
+0,15 |
+
+;
+
+Le coefficient Mbcombles de modulation du Bbio_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mbcombles = 0 ;
+
+Le coefficient Mbsurf_moy de modulation du Bbio_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment Smoy lgt prend la valeur suivante :
+
+Mbsurf_moy = 0 ;
+
+Le coefficient Mbsurf_tot de modulation du Bbio_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Mbsurf_tot = 0 ;
+
+Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les zones de bruit sont définies au chapitre V) :
+
+Mbbruit = 0 ;
+
+26. Coefficients de modulation de l'exigence Bbio_max pour les restaurants scolaires-1 repas par jour, 5 jours sur 7
+
+Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,15 |
+
+0,2 |
+
+0,15 |
+
+-0,05 |
+
+0 |
+
+-0,05 |
+
+0,1 |
+
+0,1 |
+
+400m-800m |
+
+0,35 |
+
+0,4 |
+
+0,35 |
+
+0,2 |
+
+0,25 |
+
+0,1 |
+
+0,2 |
+
+0,1 |
+
+> 800m |
+
+0,65 |
+
+0,65 |
+
+0,6 |
+
+0,5 |
+
+0,55 |
+
+0,35 |
+
+0,35 |
+
+0,25 |
+
+;
+
+Le coefficient Mbcombles de modulation du Bbio_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mbcombles = 0 ;
+
+Le coefficient Mbsurf_moy de modulation du Bbio_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment Smoy lgt prend la valeur suivante :
+
+Mbsurf_moy = 0 ;
+
+Le coefficient Mbsurf_tot de modulation du Bbio_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Mbsurf_tot = 0 ;
+
+Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend la valeur suivante (les zones de bruit sont définies au chapitre V) :
+
+Mbbruit = 0 ;
+
+27. Coefficients de modulation de l'exigence Bbio_max pour les restaurants scolaires-3 repas par jour, 5 jours sur 7
+
+Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,1 |
+
+0,15 |
+
+0,15 |
+
+-0,05 |
+
+0 |
+
+-0,05 |
+
+0,1 |
+
+0,1 |
+
+400m-800m |
+
+0,3 |
+
+0,35 |
+
+0,3 |
+
+0,15 |
+
+0,2 |
+
+0,1 |
+
+0,2 |
+
+0,1 |
+
+> 800m |
+
+0,55 |
+
+0,55 |
+
+0,5 |
+
+0,45 |
+
+0,45 |
+
+0,3 |
+
+0,35 |
+
+0,2 |
+
+;
+
+Le coefficient Mbcombles de modulation du Bbio_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mbcombles = 0 ;
+
+Le coefficient Mbsurf_moy de modulation du Bbio_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment Smoy lgt prend la valeur suivante :
+
+Mbsurf_moy = 0 ;
+
+Le coefficient Mbsurf_tot de modulation du Bbio_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Mbsurf_tot = 0 ;
+
+Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les zones de bruit sont définies au chapitre V) :
+
+Mbbruit = 0 ;
+
 II.-Valeurs de Cep, nr_maxmoyen, Cep_maxmoyen et Icénergie_maxmoyen et coefficients de modulation associés à la fixation des exigences sur Cep, nr_max, Cep_max et Icénergie_max
 
 Les coefficients Cep, nr_maxmoyen et Cep_maxmoyen prennent les valeurs suivantes, en fonction de l'usage de la partie de bâtiment :
 
-Usage de la partie de bâtiment
+Usage de la partie de bâtiment |
 
-|
+Valeur de Cep, nr_maxmoyen |
 
-Valeur de Cep, nr_maxmoyen
+Valeur de Cep_maxmoyen |
 
-|
+1. Maisons individuelles ou accolées |
 
-Valeur de Cep_maxmoyen
+55 kWhep/ (m2. an) |
 
-|
+75 kWhep/ (m2. an) |
 
-Maisons individuelles ou accolées |
+2. Logements collectifs |
 
-55 kWhep/ (m 2. an) |
+70 kWhep/ (m2. an) |
 
-75 kWhep/ (m 2. an) |
+85 kWhep/ (m2. an) |
 
-Logements collectifs |
+3. Bureaux |
 
-70 kWhep/ (m 2. an) |
+75 kWhep/ (m2. an) |
 
-85 kWhep/ (m 2. an) |
+85 kWhep/ (m2. an) |
 
-Bureaux |
+4. Enseignement primaire |
 
-75 kWhep/ (m 2. an) |
+65 kWhep/ (m2. an) |
 
-85 kWhep/ (m 2. an) |
+72 kWhep/ (m2. an) |
 
-Enseignement primaire |
+5. Enseignement secondaire |
 
-65 kWhep/ (m 2. an) |
+63 kWhep/ (m2. an) |
 
-72 kWhep/ (m 2. an) |
+72 kWhep/ (m2. an) |
 
-Enseignement secondaire |
+6. Médiathèques et bibliothèques |
 
-63 kWhep/ (m 2. an) |
+93 kWhep/ (m2. an) |
 
-72 kWhep/ (m 2. an) |
+105 kWhep/ (m2. an) |
+
+7. Bâtiments universitaires d'enseignement et de recherche et bâtiments d'enseignements atypiques |
+
+102 kWhep/ (m2. an) |
+
+112 kWhep/ (m2. an) |
+
+8. Hôtels 0,1 et 2 étoiles (partie nuit) |
+
+121 kWhep/ (m2. an) |
+
+144 kWhep/ (m2. an) |
+
+9. Hôtels 3,4 et 5 étoiles (partie nuit) |
+
+118 kWhep/ (m2. an) |
+
+138 kWhep/ (m2. an) |
+
+10. Hôtels 0,1 et 2 étoiles (partie jour) |
+
+235 kWhep/ (m2. an) |
+
+252 kWhep/ (m2. an) |
+
+11. Hôtels 3,4 et 5 étoiles (partie jour) |
+
+234 kWhep/ (m2. an) |
+
+281 kWhep/ (m2. an) |
+
+12. Etablissements d'accueil de la petite enfance |
+
+150 kWhep/ (m2. an) |
+
+182 kWhep/ (m2. an) |
+
+13. Restaurants-en continu, 18 heures par jour, 7 jours sur 7 |
+
+282 kWhep/ (m2. an) |
+
+578 kWhep/ (m2. an) |
+
+14. Restaurants-1 repas par jour, 5 jours sur 7 |
+
+132 kWhep/ (m2. an) |
+
+275 kWhep/ (m2. an) |
+
+15. Restaurants-2 repas par jour, 7 jours sur 7 |
+
+219 kWhep/ (m2. an) |
+
+446 kWhep/ (m2. an) |
+
+16. Restaurants-2 repas par jour, 6 jours sur 7 |
+
+214 kWhep/ (m2. an) |
+
+412 kWhep/ (m2. an) |
+
+17. Commerces |
+
+163 kWhep/ (m2. an) |
+
+182 kWhep/ (m2. an) |
+
+18. Vestiaires seuls |
+
+242 kWhep/ (m2. an) |
+
+306 kWhep/ (m2. an) |
+
+19. Etablissements sanitaires avec hébergement |
+
+190 kWhep/ (m2. an) |
+
+252 kWhep/ (m2. an) |
+
+20. Etablissements de santé (partie nuit) |
+
+274 kWhep/ (m2. an) |
+
+302 kWhep/ (m2. an) |
+
+21. Etablissements de santé (partie jour) |
+
+165 kWhep/ (m2. an) |
+
+180 kWhep/ (m2. an) |
+
+22. Aérogares |
+
+191 kWhep/ (m2. an) |
+
+253 kWhep/ (m2. an) |
+
+23. Industries ou artisanats 3x8h |
+
+290 kWhep/ (m2. an) |
+
+365 kWhep/ (m2. an) |
+
+24. Industries ou artisanats 8h à 18h |
+
+94 kWhep/ (m2. an) |
+
+116 kWhep/ (m2. an) |
+
+25. Etablissements sportifs municipaux ou scolaires |
+
+94 kWhep/ (m2. an) |
+
+116 kWhep/ (m2. an) |
+
+26. Restaurants scolaires-1 repas par jour, 5 jours sur 7 |
+
+119 kWhep/ (m2. an) |
+
+251kWhep/ (m2. an) |
+
+27. Restaurants scolaires-3 repas par jour, 5 jours sur 7 |
+
+153 kWhep/ (m2. an) |
+
+329 kWhep/ (m2. an) |
+
+28. Etablissements sportifs privés |
+
+112 kWhep/ (m2. an) |
+
+148 kWhep/ (m2. an) |
 
 Le coefficient Icénergie_maxmoyen prend les valeurs suivantes, en fonction de l'usage de la partie de bâtiment, de l'année à laquelle la demande de permis de construire correspondante est déposée, et de son raccordement ou non à un réseau de chaleur urbain :
 
 |
 
-Valeur de Icénergie_maxmoyen |
+Valeur de Ic énergie_maxmoyen |
 
 Usage de la partie de bâtiment et énergie utilisée |
 
@@ -980,111 +3632,681 @@ Années 2025 à 2027 |
 
 A partir de l'année 2028 |
 
-Maisons individuelles ou accolées raccordées à un réseau de chaleur urbain |
+1. Maisons individuelles ou accolées raccordées à un réseau de chaleur urbain |
 
-200 kq éq. CO2/m2
-
-|
-
-200 kq éq. CO2/m2
+200 kg éq. CO2/ m2
 
 |
 
-160 kq éq. CO2/m2
+200 kg éq. CO2/ m2
 
 |
 
-Maisons individuelles ou accolées-autres cas |
-
-160 kq éq. CO2/m2
+160 kg éq. CO2/ m2
 
 |
 
-160 kq éq. CO2/m2
+1. Maisons individuelles ou accolées-autres cas |
+
+160 kg éq. CO2/ m2
 
 |
 
-160 kq éq. CO2/m2
+160 kg éq. CO2/ m2
 
 |
 
-Logements collectifs raccordés à un réseau de chaleur urbain |
-
-560 kq éq. CO2/m2
+160 kg éq. CO2/ m2
 
 |
 
-320 kq éq. CO2/m |
+2. Logements collectifs raccordés à un réseau de chaleur urbain |
 
-260 kq éq. CO2/m2
-
-|
-
-Logements collectifs-autres cas |
-
-560 kq éq. CO2/m2
+560 kg éq. CO2/ m2
 
 |
 
-260 kq éq. CO2/m2
+320 kg éq. CO2/ m2
 
 |
 
-260 kq éq. CO2/m2
+260 kg éq. CO2/ m2
 
 |
 
-Bureaux raccordés à un réseau de chaleur urbain |
+2. Logements collectifs-autres cas |
 
-280 kg éq. CO2/m2
-
-|
-
-200 kg éq. CO2/m2
+560 kg éq. CO2/ m2
 
 |
 
-200 kg éq. CO2/m2
+260 kg éq. CO2/ m2
 
 |
 
-Bureaux-autres cas |
-
-200 kg éq. CO2/m2
+260 kg éq. CO2/ m2
 
 |
 
-200 kg éq. CO2/m2
+3. Bureaux raccordés à un réseau de chaleur urbain |
+
+280 kg éq. CO2/ m2
 
 |
 
-200 kg éq. CO2/m2
+200 kg éq. CO2/ m2
 
 |
 
-Enseignement primaire ou secondaire raccordés à un réseau de chaleur urbain |
-
-240 kg éq. CO2/m2
+200 kg éq. CO2/ m2
 
 |
 
-200 kg éq. CO2/m |
+3. Bureaux-autres cas |
 
-140 kg éq. CO2/m2
-
-|
-
-Enseignement primaire ou secondaire-autres cas |
-
-240 kg éq. CO2/m2
+200 kg éq. CO2/ m2
 
 |
 
-140 kg éq. CO2/m2
+200 kg éq. CO2/ m2
 
 |
 
-140 kg éq. CO2/m2
+200 kg éq. CO2/ m2
+
+|
+
+4. et 5. Enseignement primaire ou secondaire raccordés à un réseau de chaleur urbain |
+
+240 kg éq. CO2/ m2
+
+|
+
+200 kg éq. CO2/ m2
+
+|
+
+140 kg éq. CO2/ m2
+
+|
+
+4. et 5. Enseignement primaire ou secondaire-autres cas |
+
+240 kg éq. CO2/ m2
+
+|
+
+140 kg éq. CO2/ m2
+
+|
+
+140 kg éq. CO2/ m2
+
+|
+
+6. Médiathèques et bibliothèques raccordés à un réseau de chaleur urbain |
+
+360 kg éq. CO2/ m2
+
+|
+
+285 kg éq. CO2/ m2
+
+|
+
+285 kg éq. CO2/ m2
+
+|
+
+6. Médiathèques et bibliothèques-autres cas |
+
+- |
+
+285 kg éq. CO2/ m2
+
+|
+
+285 kg éq. CO2/ m2
+
+|
+
+7. Bâtiments universitaires d'enseignement et de recherche et bâtiments d'enseignements atypiques raccordés à un réseau de chaleur urbain |
+
+225 kg éq. CO2/ m2
+
+|
+
+190 kg éq. CO2/ m2
+
+|
+
+190 kg éq. CO2/ m2
+
+|
+
+7. Bâtiments universitaires d'enseignement et de recherche et bâtiments d'enseignements atypiques-autres cas |
+
+- |
+
+190 kg éq. CO2/ m2
+
+|
+
+190 kg éq. CO2/ m2
+
+|
+
+8. Hôtels 0,1 et 2 étoiles (partie nuit) raccordés à un réseau de chaleur urbain |
+
+490 kg éq. CO2/ m2
+
+|
+
+390 kg éq. CO2/ m2
+
+|
+
+390 kg éq. CO2/ m2
+
+|
+
+8. Hôtels 0,1 et 2 étoiles (partie nuit)-autres cas |
+
+- |
+
+390 kg éq. CO2/ m2
+
+|
+
+390 kg éq. CO2/ m2
+
+|
+
+9. Hôtels 3,4 et 5 étoiles (partie nuit) raccordés à un réseau de chaleur urbain |
+
+485 kg éq. CO2/ m2
+
+|
+
+350 kg éq. CO2/ m2
+
+|
+
+350 kg éq. CO2/ m2
+
+|
+
+9. Hôtels 3,4 et 5 étoiles (partie nuit)-autres cas |
+
+- |
+
+350 kg éq. CO2/ m2
+
+|
+
+350 kg éq. CO2/ m2
+
+|
+
+10. Hôtels 0,1 et 2 étoiles (partie jour) raccordés à un réseau de chaleur urbain |
+
+595 kg éq. CO2/ m2
+
+|
+
+495 kg éq. CO2/ m2
+
+|
+
+495 kg éq. CO2/ m2
+
+|
+
+10. Hôtels 0,1 et 2 étoiles (partie jour)-autres cas |
+
+- |
+
+495 kg éq. CO2/ m2
+
+|
+
+495 kg éq. CO2/ m2
+
+|
+
+11. Hôtels 3,4 et 5 étoiles (partie jour) raccordés à un réseau de chaleur urbain |
+
+630 kg éq. CO2/ m2
+
+|
+
+520 kg éq. CO2/ m2
+
+|
+
+520 kg éq. CO2/ m2
+
+|
+
+11. Hôtels 3,4 et 5 étoiles (partie jour)-autres cas |
+
+- |
+
+520 kg éq. CO2/ m2
+
+|
+
+520 kg éq. CO2/ m2
+
+|
+
+12. Etablissements d'accueil de la petite enfance raccordés à un réseau de chaleur urbain |
+
+895 kg éq. CO2/ m2
+
+|
+
+680 kg éq. CO2/ m2
+
+|
+
+680 kg éq. CO2/ m2
+
+|
+
+12. Etablissements d'accueil de la petite enfance-autres cas |
+
+- |
+
+680 kg éq. CO2/ m2
+
+|
+
+680 kg éq. CO2/ m2
+
+|
+
+13. Restaurants-en continu, 18 heures par jour, 7 jours sur 7 raccordés à un réseau de chaleur urbain |
+
+670 kg éq. CO2/ m2
+
+|
+
+570 kg éq. CO2/ m2
+
+|
+
+570 kg éq. CO2/ m2
+
+|
+
+13. Restaurants-en continu, 18 heures par jour, 7 jours sur 7-autres cas |
+
+- |
+
+570 kg éq. CO2/ m2
+
+|
+
+570 kg éq. CO2/ m2
+
+|
+
+14. Restaurants-1 repas par jour, 5 jours sur 7 raccordés à un réseau de chaleur urbain |
+
+605 kg éq. CO2/ m2
+
+|
+
+470 kg éq. CO2/ m2
+
+|
+
+470 kg éq. CO2/ m2
+
+|
+
+14. Restaurants-1 repas par jour, 5 jours sur 7-autres cas |
+
+- |
+
+470 kg éq. CO2/ m2
+
+|
+
+470 kg éq. CO2/ m2
+
+|
+
+15. Restaurants-2 repas par jour, 7 jours sur 7 raccordés à un réseau de chaleur urbain |
+
+705 kg éq. CO2/ m2
+
+|
+
+570 kg éq. CO2/ m |
+
+570 kg éq. CO2/ m2
+
+|
+
+15. Restaurants-2 repas par jour, 7 jours sur 7-autres cas |
+
+- |
+
+570 kg éq. CO2/ m |
+
+570 kg éq. CO2/ m2
+
+|
+
+16. Restaurants-2 repas par jour, 6 jours sur 7 raccordés à un réseau de chaleur urbain |
+
+675 kg éq. CO2/ m2
+
+|
+
+545 kg éq. CO2/ m2
+
+|
+
+545 kg éq. CO2/ m2
+
+|
+
+16. Restaurants-2 repas par jour, 6 jours sur 7-autres cas |
+
+- |
+
+545 kg éq. CO2/ m2
+
+|
+
+545 kg éq. CO2/ m2
+
+|
+
+17. Commerces raccordés à un réseau de chaleur urbain |
+
+315 kg éq. CO2/ m2
+
+|
+
+315 kg éq. CO2/ m2
+
+|
+
+315 kg éq. CO2/ m2
+
+|
+
+17. Commerces-autres cas |
+
+|
+
+315 kg éq. CO2/ m2
+
+|
+
+315 kg éq. CO2/ m2
+
+|
+
+18. Vestiaires seuls-raccordés à un réseau de chaleur urbain |
+
+1460 kg éq. CO2/ m2
+
+|
+
+1120 kg éq. CO2/ m2
+
+|
+
+1120 kg éq. CO2/ m2
+
+|
+
+18. Vestiaires seuls-autres cas |
+
+- |
+
+585 kg éq. CO2/ m2
+
+|
+
+585 kg éq. CO2/ m2
+
+|
+
+19. Etablissements sanitaires avec hébergement-raccordés à un réseau de chaleur urbain |
+
+1155 kg éq. CO2/ m2
+
+|
+
+890 kg éq. CO2/ m2
+
+|
+
+890 kg éq. CO2/ m2
+
+|
+
+19. Etablissements sanitaires avec hébergement-autres cas |
+
+- |
+
+330 kg éq. CO2/ m2
+
+|
+
+330 kg éq. CO2/ m2
+
+|
+
+20. Etablissements de santé (partie nuit)-raccordés à un réseau de chaleur urbain |
+
+575 kg éq. CO2/ m2
+
+|
+
+490 kg éq. CO2/ m2
+
+|
+
+490 kg éq. CO2/ m2
+
+|
+
+20. Etablissements de santé (partie nuit)-autres cas |
+
+- |
+
+320 kg éq. CO2/ m2
+
+|
+
+320 kg éq. CO2/ m2
+
+|
+
+21. Etablissements de santé (partie jour)-raccordés à un réseau de chaleur urbain |
+
+615 kg éq. CO2/ m2
+
+|
+
+365 kg éq. CO2/ m2
+
+|
+
+365 kg éq. CO2/ m2
+
+|
+
+21. Etablissements de santé (partie jour)-autres cas |
+
+- |
+
+230 kg éq. CO2/ m2
+
+|
+
+230 kg éq. CO2/ m2
+
+|
+
+22. Aérogares raccordés à un réseau de chaleur urbain |
+
+290 kg éq. CO2/ m2
+
+|
+
+260 kg éq. CO2/ m2
+
+|
+
+260 kg éq. CO2/ m2
+
+|
+
+22. Aérogares-autres cas |
+
+- |
+
+260 kg éq. CO2/ m2
+
+|
+
+260 kg éq. CO2/ m2
+
+|
+
+23. Industries ou artisanats 3x8h |
+
+- |
+
+315 kg éq. CO2/ m2
+
+|
+
+315 kg éq. CO2/ m2
+
+|
+
+24. Industries ou artisanats 8h à 18h |
+
+- |
+
+110 kg éq. CO2/ m2
+
+|
+
+110 kg éq. CO2/ m2
+
+|
+
+25. Etablissements sportifs municipaux ou scolaires raccordés à un réseau de chaleur urbain |
+
+330 kg éq. CO2/ m2
+
+|
+
+265 kg éq. CO2/ m2
+
+|
+
+265 kg éq. CO2/ m2
+
+|
+
+25. Etablissements sportifs municipaux ou scolaires-autres cas |
+
+- |
+
+150 kg éq. CO2/ m2
+
+|
+
+150 kg éq. CO2/ m2
+
+|
+
+26. Restaurants scolaires-1 repas par jour, 5 jours sur 7 raccordés à un réseau de chaleur urbain |
+
+570 kg éq. CO2/ m2
+
+|
+
+445 kg éq. CO2/ m2
+
+|
+
+445 kg éq. CO2/ m2
+
+|
+
+26. Restaurants scolaires-1 repas par jour, 5 jours sur 7-autres cas |
+
+- |
+
+445 kg éq. CO2/ m2
+
+|
+
+445 kg éq. CO2/ m2
+
+|
+
+27. Restaurants scolaires-3 repas par jour, 5 jours sur 7 raccordés à un réseau de chaleur urbain |
+
+615 kg éq. CO2/ m2
+
+|
+
+485 kg éq. CO2/ m2
+
+|
+
+485 kg éq. CO2/ m2
+
+|
+
+27. Restaurants scolaires-3 repas par jour, 5 jours sur 7-autres cas |
+
+- |
+
+485 kg éq. CO2/ m2
+
+|
+
+485 kg éq. CO2/ m2
+
+|
+
+28. Etablissements sportifs privés raccordés à un réseau de chaleur urbain |
+
+535 kg éq. CO2/ m2
+
+|
+
+420 kg éq. CO2/ m2
+
+|
+
+420 kg éq. CO2/ m2
+
+|
+
+28. Etablissements sportifs privés-autres cas |
+
+- |
+
+190 kg éq. CO2/ m2
+
+|
+
+190 kg éq. CO2/ m2
 
 |
 
@@ -1778,107 +5000,2741 @@ Mccat |
 
 0,05 |
 
+6. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les médiathèques et bibliothèques
+
+Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,1 |
+
+0,15 |
+
+0,1 |
+
+-0,05 |
+
+0 |
+
+-0,05 |
+
+0,15 |
+
+0,05 |
+
+400m-800m |
+
+0,25 |
+
+0,3 |
+
+0,2 |
+
+0,1 |
+
+0,15 |
+
+0,05 |
+
+0,1 |
+
+0 |
+
+> 800m |
+
+0,5 |
+
+0,45 |
+
+0,4 |
+
+0,35 |
+
+0,35 |
+
+0,2 |
+
+0,2 |
+
+0,05 |
+
+;
+
+Le coefficient Mccombles de modulation du Cep, nr_max, Cep_max et Ic énergie_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mccombles = 0 ;
+
+Le coefficient Mcsurf_moy de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Mcsurf_moy = 0 ;
+
+Le coefficient Mcsurf_tot de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface de référence du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Mcsurf_tot = 0 ;
+
+Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les catégories de contraintes extérieures sont définies au chapitre V) :
+
+Catégorie
+
+de contraintes extérieures |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+Catégorie 1 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+Catégorie 2 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+Catégorie 3 |
+
+0,05 |
+
+0,05 |
+
+0,05 |
+
+0,05 |
+
+0,05 |
+
+0,1 |
+
+0,2 |
+
+0,3 |
+
+;
+
+7. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Ic énergie_max pour les bâtiments universitaires d'enseignement et de recherche et bâtiments d'enseignements atypiques
+
+Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,05 |
+
+0,10 |
+
+0,10 |
+
+-0,05 |
+
+0 |
+
+0 |
+
+0,2 |
+
+0,15 |
+
+400m-800m |
+
+0,1 |
+
+0,15 |
+
+0,15 |
+
+0 |
+
+0,05 |
+
+0 |
+
+0,1 |
+
+0,05 |
+
+> 800m |
+
+0,2 |
+
+0,2 |
+
+0,2 |
+
+0,1 |
+
+0,1 |
+
+0,1 |
+
+0,1 |
+
+0 |
+
+;
+
+Le coefficient Mccombles de modulation du Cep, nr_max, Cep_max et Ic énergie_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mccombles = 0 ;
+
+Le coefficient Mcsurf_moy de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Mcsurf_moy = 0 ;
+
+Le coefficient Mcsurf_tot de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface de référence du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Mcsurf_tot = 0 ;
+
+Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les catégories de contraintes extérieures sont définies au chapitre V) :
+
+Catégorie
+
+de contraintes extérieures |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+Catégorie 1 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+Catégorie 2 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+Catégorie 3 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0,05 |
+
+0,05 |
+
+;
+
+8. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les hôtels 0,1 et 2 étoiles (partie nuit)
+
+Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,1 |
+
+0,1 |
+
+0,1 |
+
+0 |
+
+0 |
+
+0 |
+
+0,05 |
+
+0 |
+
+400m-800m |
+
+0,2 |
+
+0,25 |
+
+0,2 |
+
+0,1 |
+
+0,15 |
+
+0,1 |
+
+0,15 |
+
+0,05 |
+
+> 800m |
+
+0,35 |
+
+0,35 |
+
+0,35 |
+
+0,25 |
+
+0,25 |
+
+0,2 |
+
+0,25 |
+
+0,1 |
+
+;
+
+Le coefficient Mccombles de modulation du Cep, nr_max, Cep_max et Ic énergie_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mccombles = 0 ;
+
+Le coefficient Mcsurf_moy de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Mcsurf_moy = 0 ;
+
+Le coefficient Mcsurf_tot de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface de référence du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Mcsurf_tot = 0 ;
+
+Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les catégories de contraintes extérieures sont définies au chapitre V) :
+
+Mccat = 0 ;
+
+9. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les hôtels 3,4 et 5 étoiles (partie nuit)
+
+Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,1 |
+
+0,1 |
+
+0,1 |
+
+0 |
+
+0 |
+
+0 |
+
+0,05 |
+
+0 |
+
+400m-800m |
+
+0,2 |
+
+0,25 |
+
+0,2 |
+
+0,1 |
+
+0,15 |
+
+0,1 |
+
+0,15 |
+
+0,05 |
+
+> 800m |
+
+0,35 |
+
+0,35 |
+
+0,35 |
+
+0,25 |
+
+0,25 |
+
+0,2 |
+
+0,25 |
+
+0,1 |
+
+;
+
+Le coefficient Mccombles de modulation du Cep, nr_max, Cep_max et Ic énergie_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mccombles = 0 ;
+
+Le coefficient Mcsurf_moy de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Mcsurf_moy = 0 ;
+
+Le coefficient Mcsurf_tot de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface de référence du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0014 du 17 janvier 2026 accessible à partir du lien suivant :
+
+https://www.legifrance.gouv.fr/download/pdf?id=0pVbtERhE02Jt6os-u1uglVbqlB-xT1BMnui4USyxY4=
+
+;
+
+Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les catégories de contraintes extérieures sont définies au chapitre V) :
+
+Mccat = 0 ;
+
+10. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Ic énergie_max pour les hôtels 0,1 et 2 étoiles (partie jour)
+
+Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,05 |
+
+0,1 |
+
+0,1 |
+
+-0,05 |
+
+0 |
+
+0,05 |
+
+0,15 |
+
+0,1 |
+
+400m-800m |
+
+0,1 |
+
+0,15 |
+
+0,15 |
+
+0 |
+
+0,05 |
+
+0,05 |
+
+0,15 |
+
+0,1 |
+
+> 800m |
+
+0,2 |
+
+0,2 |
+
+0,2 |
+
+0,1 |
+
+0,15 |
+
+0,1 |
+
+0,15 |
+
+0,05 |
+
+;
+
+Le coefficient Mccombles de modulation du Cep, nr_max, Cep_max et Ic énergie_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mccombles = 0 ;
+
+Le coefficient Mcsurf_moy de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Mcsurf_moy = 0 ;
+
+Le coefficient Mcsurf_tot de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface de référence du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Mcsurf_tot = 0 ;
+
+Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend la valeur suivante (les catégories de contraintes extérieures sont définies au chapitre V) :
+
+Mccat = 0 ;
+
+11. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Ic énergie_max pour les hôtels 3,4 et 5 étoiles (partie jour)
+
+Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,05 |
+
+0,1 |
+
+0,1 |
+
+0 |
+
+0 |
+
+0 |
+
+0,1 |
+
+0,1 |
+
+400m-800m |
+
+0,1 |
+
+0,15 |
+
+0,15 |
+
+0,05 |
+
+0,05 |
+
+0,05 |
+
+0,1 |
+
+0,05 |
+
+> 800m |
+
+0,2 |
+
+0,25 |
+
+0,2 |
+
+0,15 |
+
+0,15 |
+
+0,1 |
+
+0,15 |
+
+0,05 |
+
+;
+
+Le coefficient Mccombles de modulation du Cep, nr_max, Cep_max et Ic énergie_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mccombles = 0 ;
+
+Le coefficient Mcsurf_moy de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Mcsurf_moy = 0 ;
+
+Le coefficient Mcsurf_tot de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface de référence du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Mcsurf_tot = 0 ;
+
+Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les catégories de contraintes extérieures sont définies au chapitre V) :
+
+Mccat = 0 ;
+
+12. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les établissements d'accueil de la petite enfance
+
+Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,1 |
+
+0,1 |
+
+0,1 |
+
+0 |
+
+0 |
+
+-0,05 |
+
+0,05 |
+
+-0,05 |
+
+400m-800m |
+
+0,25 |
+
+0,25 |
+
+0,25 |
+
+0,2 |
+
+0,20 |
+
+0,1 |
+
+0,1 |
+
+0 |
+
+> 800m |
+
+0,45 |
+
+0,4 |
+
+0,4 |
+
+0,35 |
+
+0,35 |
+
+0,25 |
+
+0,25 |
+
+0,15 |
+
+;
+
+Le coefficient Mccombles de modulation du Cep, nr_max, Cep_max et Ic énergie_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mccombles = 0 ;
+
+Le coefficient Mcsurf_moy de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Mcsurf_moy = 0 ;
+
+Le coefficient Mcsurf_tot de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface de référence du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Mcsurf_tot = 0 ;
+
+Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les catégories de contraintes extérieures sont définies au chapitre V) :
+
+Catégorie
+
+de contraintes extérieures |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+Catégorie 1 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+Catégorie 2 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+Catégorie 3 |
+
+0 |
+
+0,05 |
+
+0,05 |
+
+0 |
+
+0,05 |
+
+0,05 |
+
+0,2 |
+
+0,25 |
+
+;
+
+13. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les restaurants-en continu, 18 heures par jour, 7 jours sur 7
+
+Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0 |
+
+0,05 |
+
+0,1 |
+
+-0,05 |
+
+0 |
+
+0,05 |
+
+0,2 |
+
+0,15 |
+
+400m-800m |
+
+0,1 |
+
+0,1 |
+
+0,1 |
+
+0 |
+
+0,05 |
+
+0,05 |
+
+0,15 |
+
+0,05 |
+
+> 800m |
+
+0,2 |
+
+0,2 |
+
+0,15 |
+
+0,10 |
+
+0,15 |
+
+0,10 |
+
+0,15 |
+
+0,05 |
+
+;
+
+Le coefficient Mccombles de modulation du Cep, nr_max, Cep_max et Ic énergie_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mccombles = 0 ;
+
+Le coefficient Mcsurf_moy de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Mcsurf_moy = 0 ;
+
+Le coefficient Mcsurf_tot de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface de référence du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Mcsurf_tot = 0 ;
+
+Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend la valeur suivante (les catégories de contraintes extérieures sont définies au chapitre V) :
+
+Mccat = 0 ;
+
+14. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Ic énergie_max pour les restaurants-1 repas par jour, 5 jours sur 7
+
+Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,1 |
+
+0,1 |
+
+0,05 |
+
+0 |
+
+0 |
+
+-0,05 |
+
+0,05 |
+
+-0,05 |
+
+400m-800m |
+
+0,25 |
+
+0,25 |
+
+0,2 |
+
+0,15 |
+
+0,2 |
+
+0,05 |
+
+0,1 |
+
+0 |
+
+> 800m |
+
+0,4 |
+
+0,4 |
+
+0,35 |
+
+0,35 |
+
+0,35 |
+
+0,2 |
+
+0,2 |
+
+0,05 |
+
+;
+
+Le coefficient Mccombles de modulation du Cep, nr_max, Cep_max et Ic énergie_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mccombles = 0 ;
+
+Le coefficient Mcsurf_moy de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Mcsurf_moy = 0 ;
+
+Le coefficient Mcsurf_tot de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface de référence du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Mcsurf_tot = 0 ;
+
+Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend la valeur suivante (les catégories de contraintes extérieures sont définies au chapitre V) :
+
+Mccat = 0 ;
+
+15. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les restaurants-2 repas par jour, 7 jours sur 7
+
+Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,05 |
+
+0,1 |
+
+0,05 |
+
+-0,05 |
+
+0 |
+
+0 |
+
+0,15 |
+
+0,1 |
+
+400m-800m |
+
+0,1 |
+
+0,1 |
+
+0,1 |
+
+0,05 |
+
+0,05 |
+
+0,05 |
+
+0,1 |
+
+0,05 |
+
+> 800m |
+
+0,15 |
+
+0,2 |
+
+0,15 |
+
+0,1 |
+
+0,15 |
+
+0,05 |
+
+0,1 |
+
+0,05 |
+
+;
+
+Le coefficient Mccombles de modulation du Cep, nr_max, Cep_max et Ic énergie_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mccombles = 0 ;
+
+Le coefficient Mcsurf_moy de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Mcsurf_moy = 0 ;
+
+Le coefficient Mcsurf_tot de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface de référence du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Mcsurf_tot = 0 ;
+
+Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend la valeur suivante (les catégories de contraintes extérieures sont définies au chapitre V) :
+
+Mccat = 0 ;
+
+16. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Ic énergie_max pour les restaurants-2 repas par jour, 6 jours sur 7
+
+Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,05 |
+
+0,1 |
+
+0,1 |
+
+-0,05 |
+
+0 |
+
+0 |
+
+0,1 |
+
+0,05 |
+
+400m-800m |
+
+0,15 |
+
+0,2 |
+
+0,15 |
+
+0,1 |
+
+0,1 |
+
+0,05 |
+
+0,1 |
+
+0 |
+
+> 800m |
+
+0,3 |
+
+0,3 |
+
+0,25 |
+
+0,2 |
+
+0,25 |
+
+0,15 |
+
+0,15 |
+
+0,05 |
+
+;
+
+Le coefficient Mccombles de modulation du Cep, nr_max, Cep_max et Ic énergie_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mccombles = 0 ;
+
+Le coefficient Mcsurf_moy de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Mcsurf_moy = 0 ;
+
+Le coefficient Mcsurf_tot de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface de référence du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Mcsurf_tot = 0 ;
+
+Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend la valeur suivante (les catégories de contraintes extérieures sont définies au chapitre V) :
+
+Mccat = 0 ;
+
+17. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Ic énergie_max pour les commerces
+
+Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0 |
+
+0,05 |
+
+0,1 |
+
+-0,05 |
+
+0 |
+
+0,05 |
+
+0,2 |
+
+0,2 |
+
+400m-800m |
+
+0 |
+
+0,1 |
+
+0,1 |
+
+-0,05 |
+
+0,05 |
+
+0,05 |
+
+0,15 |
+
+0,15 |
+
+> 800m |
+
+0,05 |
+
+0,1 |
+
+0,1 |
+
+0 |
+
+0,05 |
+
+0,05 |
+
+0,1 |
+
+0,1 |
+
+;
+
+Le coefficient Mccombles de modulation du Cep, nr_max, Cep_max et Ic énergie_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mccombles = 0 ;
+
+Le coefficient Mcsurf_moy de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Mcsurf_moy = 0 ;
+
+Le coefficient Mcsurf_tot de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface de référence du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0014 du 17 janvier 2026 accessible à partir du lien suivant :
+
+https://www.legifrance.gouv.fr/download/pdf?id=0pVbtERhE02Jt6os-u1uglVbqlB-xT1BMnui4USyxY4=
+
+;
+
+Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les catégories de contraintes extérieures sont définies au chapitre V) :
+
+|
+
+BR1 |
+
+BR2/ BR3 |
+
+Cat 3 |
+
+Mccat |
+
+0 |
+
+0 |
+
+0,05 |
+
+;
+
+18. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les vestiaires seuls
+
+Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,05 |
+
+0,1 |
+
+0,05 |
+
+0 |
+
+0 |
+
+-0,05 |
+
+0 |
+
+-0,05 |
+
+400m-800m |
+
+0,15 |
+
+0,15 |
+
+0,15 |
+
+0,1 |
+
+0,15 |
+
+0,05 |
+
+0,05 |
+
+-0,05 |
+
+> 800m |
+
+0,3 |
+
+0,3 |
+
+0,3 |
+
+0,25 |
+
+0,25 |
+
+0,15 |
+
+0,15 |
+
+0,05 |
+
+;
+
+Le coefficient Mccombles de modulation du Cep, nr_max, Cep_max et Ic énergie_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mccombles = 0 ;
+
+Le coefficient Mcsurf_moy de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Mcsurf_moy = 0 ;
+
+Le coefficient Mcsurf_tot de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface de référence du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Mcsurf_tot = 0 ;
+
+Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les catégories de contraintes extérieures sont définies au chapitre V) :
+
+Mccat = 0 ;
+
+19. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les établissements sanitaires avec hébergement
+
+Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,1 |
+
+0,1 |
+
+0,05 |
+
+0 |
+
+0 |
+
+-0,05 |
+
+0 |
+
+-0,05 |
+
+400m-800m |
+
+0,25 |
+
+0,25 |
+
+0,2 |
+
+0,15 |
+
+0,15 |
+
+0,1 |
+
+0,1 |
+
+-0,05 |
+
+> 800m |
+
+0,4 |
+
+0,4 |
+
+0,35 |
+
+0,3 |
+
+0,35 |
+
+0,2 |
+
+0,25 |
+
+0,1 |
+
+;
+
+Le coefficient Mccombles de modulation du Cep, nr_max, Cep_max et Ic énergie_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mccombles = 0 ;
+
+Le coefficient Mcsurf_moy de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Mcsurf_moy = 0 ;
+
+Le coefficient Mcsurf_tot de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface de référence du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Mcsurf_tot = 0 ;
+
+Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les catégories de contraintes extérieures sont définies au chapitre V) :
+
+Mccat = 0 ;
+
+20. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les établissements de santé (partie nuit)
+
+Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,05 |
+
+0,05 |
+
+0,1 |
+
+0 |
+
+0 |
+
+0,05 |
+
+0,1 |
+
+0,1 |
+
+400m-800m |
+
+0,05 |
+
+0,1 |
+
+0,1 |
+
+0,05 |
+
+0,05 |
+
+0,05 |
+
+0,1 |
+
+0,05 |
+
+> 800m |
+
+0,1 |
+
+0,15 |
+
+0,15 |
+
+0,1 |
+
+0,1 |
+
+0,1 |
+
+0,1 |
+
+0,05 |
+
+;
+
+Le coefficient Mccombles de modulation du Cep, nr_max, Cep_max et Ic énergie_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mccombles = 0 ;
+
+Le coefficient Mcsurf_moy de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Mcsurf_moy = 0 ;
+
+Le coefficient Mcsurf_tot de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface de référence du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Mcsurf_tot = 0 ;
+
+Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les catégories de contraintes extérieures sont définies au chapitre V) :
+
+Mccat = 0 ;
+
+21. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les établissements de santé (partie jour)
+
+Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,05 |
+
+0,1 |
+
+0,1 |
+
+-0,05 |
+
+0 |
+
+-0,05 |
+
+0,1 |
+
+0,1 |
+
+400m-800m |
+
+0,15 |
+
+0,15 |
+
+0,15 |
+
+0,1 |
+
+0,1 |
+
+0,05 |
+
+0,15 |
+
+0,1 |
+
+> 800m |
+
+0,3 |
+
+0,35 |
+
+0,3 |
+
+0,25 |
+
+0,25 |
+
+0,15 |
+
+0,2 |
+
+0,2 |
+
+;
+
+Le coefficient Mccombles de modulation du Cep, nr_max, Cep_max et Ic énergie_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mccombles = 0 ;
+
+Le coefficient Mcsurf_moy de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Mcsurf_moy = 0 ;
+
+Le coefficient Mcsurf_tot de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface de référence du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0014 du 17 janvier 2026 accessible à partir du lien suivant :
+
+https://www.legifrance.gouv.fr/download/pdf?id=0pVbtERhE02Jt6os-u1uglVbqlB-xT1BMnui4USyxY4=
+
+;
+
+Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les catégories de contraintes extérieures sont définies au chapitre V) :
+
+Mccat = 0 ;
+
+22. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les aérogares
+
+Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+-0,05 |
+
+0 |
+
+0,05 |
+
+-0,05 |
+
+0 |
+
+0 |
+
+0,1 |
+
+0,1 |
+
+400m-800m |
+
+-0,05 |
+
+0 |
+
+0,05 |
+
+-0,1 |
+
+0,1 |
+
+0,2 |
+
+0,25 |
+
+0 |
+
+> 800m |
+
+0,05 |
+
+0,1 |
+
+-0,05 |
+
+0 |
+
+0,05 |
+
+0,15 |
+
+0,15 |
+
+0 |
+
+;
+
+Le coefficient Mccombles de modulation du Cep, nr_max, Cep_max et Ic énergie_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mccombles = 0 ;
+
+Le coefficient Mcsurf_moy de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Mcsurf_moy = 0 ;
+
+Le coefficient Mcsurf_tot de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface de référence du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Mcsurf_tot = 0 ;
+
+Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les catégories de contraintes extérieures sont définies au chapitre V) :
+
+Mccat = 0 ;
+
+23. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les bâtiments à usage industriel et artisanat 3 × 8h
+
+Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,05 |
+
+0,05 |
+
+0,1 |
+
+-0,05 |
+
+0 |
+
+0,05 |
+
+0,15 |
+
+0,15 |
+
+400m-800m |
+
+0,05 |
+
+0,05 |
+
+0,1 |
+
+0 |
+
+0,05 |
+
+0,05 |
+
+0,1 |
+
+0,1 |
+
+> 800m |
+
+0,1 |
+
+0,15 |
+
+0,15 |
+
+0,05 |
+
+0,1 |
+
+0,05 |
+
+0,1 |
+
+0,05 |
+
+;
+
+Le coefficient Mccombles de modulation du Cep, nr_max, Cep_max et Ic énergie_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mccombles = 0 ;
+
+Le coefficient Mcsurf_moy de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Mcsurf_moy = 0 ;
+
+Le coefficient Mcsurf_tot de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface de référence du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0014 du 17 janvier 2026 accessible à partir du lien suivant :
+
+https://www.legifrance.gouv.fr/download/pdf?id=0pVbtERhE02Jt6os-u1uglVbqlB-xT1BMnui4USyxY4=
+
+;
+
+Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les catégories de contraintes extérieures sont définies au chapitre V) :
+
+Mccat = 0 ;
+
+24. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les bâtiments à usage industriel et artisanat 8 heures à 18 heures
+
+Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,05 |
+
+0,1 |
+
+0,1 |
+
+-0,05 |
+
+0 |
+
+0 |
+
+0,2 |
+
+0,15 |
+
+400m-800m |
+
+0,15 |
+
+0,15 |
+
+0,2 |
+
+0,05 |
+
+0,1 |
+
+0,05 |
+
+0,15 |
+
+0,1 |
+
+> 800m |
+
+0,25 |
+
+0,3 |
+
+0,3 |
+
+0,2 |
+
+0,2 |
+
+0,1 |
+
+0,2 |
+
+0,1 |
+
+;
+
+Le coefficient Mccombles de modulation du Cep, nr_max, Cep_max et Ic énergie_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mccombles = 0 ;
+
+Le coefficient Mcsurf_moy de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Mcsurf_moy = 0 ;
+
+Le coefficient Mcsurf_tot de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface de référence du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes, en fonction de l'année à laquelle la demande de permis de construire correspondante est déposée, de son raccordement ou non à un réseau de chaleur urbain et du classement ou non du réseau de chaleur urbain en application de l'article L. 712-1 du code de l'énergie :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0014 du 17 janvier 2026 accessible à partir du lien suivant :
+
+https://www.legifrance.gouv.fr/download/pdf?id=0pVbtERhE02Jt6os-u1uglVbqlB-xT1BMnui4USyxY4=
+
+;
+
+Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les catégories de contraintes extérieures sont définies au chapitre V) :
+
+Mccat = 0 ;
+
+25. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les établissements sportifs municipaux ou scolaires
+
+Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0 |
+
+0,1 |
+
+0,1 |
+
+-0,1 |
+
+0 |
+
+0 |
+
+0,4 |
+
+0,25 |
+
+400m-800m |
+
+0,05 |
+
+0,1 |
+
+0,05 |
+
+-0,05 |
+
+0 |
+
+-0,05 |
+
+0,2 |
+
+0,05 |
+
+> 800m |
+
+0,1 |
+
+0,15 |
+
+0,1 |
+
+0,05 |
+
+0,1 |
+
+0 |
+
+0,1 |
+
+0 |
+
+;
+
+Le coefficient Mccombles de modulation du Cep, nr_max, Cep_max et Ic énergie_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mccombles = 0 ;
+
+Le coefficient Mcsurf_moy de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Mcsurf_moy = 0 ;
+
+Le coefficient Mcsurf_tot de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface de référence du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Mcsurf_tot = 0 ;
+
+Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les catégories de contraintes extérieures sont définies au chapitre V) :
+
+Mccat = 0 ;
+
+26. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les restaurants scolaires-1 repas par jour, 5 jours sur 7
+
+Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,1 |
+
+0,1 |
+
+0,05 |
+
+0 |
+
+0 |
+
+-0,05 |
+
+-0,05 |
+
+-0,15 |
+
+400m-800m |
+
+0,25 |
+
+0,25 |
+
+0,2 |
+
+0,2 |
+
+0,2 |
+
+0,1 |
+
+0,05 |
+
+-0,05 |
+
+> 800m |
+
+0,45 |
+
+0,45 |
+
+0,4 |
+
+0,35 |
+
+0,4 |
+
+0,25 |
+
+0,20 |
+
+0,1 |
+
+;
+
+Le coefficient Mccombles de modulation du Cep, nr_max, Cep_max et Ic énergie_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mccombles = 0 ;
+
+Le coefficient Mcsurf_moy de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Mcsurf_moy = 0 ;
+
+Le coefficient Mcsurf_tot de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface de référence du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Mcsurf_tot = 0 ;
+
+Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend la valeur suivante (les catégories de contraintes extérieures sont définies au chapitre V) :
+
+Mccat = 0 ;
+
+27. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Ic énergie_max pour les restaurants scolaires-3 repas par jour, 5 jours sur 7
+
+Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0,05 |
+
+0,1 |
+
+0,05 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+-0,05 |
+
+400m-800m |
+
+0,2 |
+
+0,2 |
+
+0,15 |
+
+0,1 |
+
+0,15 |
+
+0,05 |
+
+0,05 |
+
+0 |
+
+> 800m |
+
+0,3 |
+
+0,35 |
+
+0,3 |
+
+0,25 |
+
+0,25 |
+
+0,2 |
+
+0,15 |
+
+0,1 |
+
+;
+
+Le coefficient Mccombles de modulation du Cep, nr_max, Cep_max et Ic énergie_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mccombles = 0 ;
+
+Le coefficient Mcsurf_moy de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Mcsurf_moy = 0 ;
+
+Le coefficient Mcsurf_tot de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface de référence du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Mcsurf_tot = 0 ;
+
+Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend la valeur suivante (les catégories de contraintes extérieures sont définies au chapitre V) :
+
+Mccat = 0 ;
+
+28. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les établissements sportifs privés
+
+Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0 |
+
+0,1 |
+
+0,05 |
+
+-0,1 |
+
+0 |
+
+0,05 |
+
+0,35 |
+
+0,25 |
+
+400m-800m |
+
+0 |
+
+0,05 |
+
+0,05 |
+
+-0,05 |
+
+0 |
+
+-0,05 |
+
+0,15 |
+
+0,05 |
+
+> 800m |
+
+0,05 |
+
+0,1 |
+
+0,05 |
+
+0 |
+
+0,05 |
+
+0 |
+
+0,1 |
+
+-0,05 |
+
+;
+
+Le coefficient Mccombles de modulation du Cep, nr_max, Cep_max et Ic énergie_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Mccombles = 0 ;
+
+Le coefficient Mcsurf_moy de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Mcsurf_moy = 0 ;
+
+Le coefficient Mcsurf_tot de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la surface de référence du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Mcsurf_tot = 0 ;
+
+Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les catégories de contraintes extérieures sont définies au chapitre V) :
+
+Mccat = 0 ;
+
 III.-Valeurs de Icconstruction_maxmoyen et coefficients de modulation associés à la fixation de l'exigence sur Icconstruction_max
 
 Le coefficient Icconstruction_maxmoyen prend les valeurs suivantes, en fonction de l'usage de la partie de bâtiment et de l'année à laquelle la demande de permis de construire correspondante est déposée :
 
-Usage de la partie de bâtiment
+|
+
+Valeur de Ic construction_maxmoyen |
+
+Usage de la partie de bâtiment |
+
+Années 2022 à 2024 |
+
+Années 2025 à 2027 |
+
+Années 2028 à 2030 |
+
+A partir de l'année 2031 |
+
+1. Maisons individuelles ou accolées |
+
+640 kg éq. CO2/ m2
 
 |
 
-Valeur de Icconstruction_maxmoyen
+530 kg éq. CO2/ m2
 
 |
 
-Années 2022 à 2024
+475 kg éq. CO2/ m2
 
 |
 
-Années 2025 à 2027
+415 kg éq. CO2/ m2
 
 |
 
-Années 2028 à 2030
+2. Logements collectifs |
+
+740 kg éq. CO2/ m2
 
 |
 
-À partir de l'année 2031
+650 kg éq. CO2/ m2
 
 |
 
-Maisons individuelles ou accolées
+580 kg éq. CO2/ m2
 
 |
 
-640 kq éq. CO2/m2
+490 kg éq. CO2/ m2
 
 |
 
-530 kq éq. CO2/m2
+3. Bureaux |
+
+980 kg éq. CO2/ m2
 
 |
 
-475 kq éq. CO2/m2
+810 kg éq. CO2/ m2
 
 |
 
-415 kq éq. CO2/m2
+710 kg éq. CO2/ m2
 
 |
 
-Logements collectifs
+600 kg éq. CO2/ m2
 
 |
 
-740 kq éq. CO2/m2
+4. et 5. Enseignement primaire ou secondaire |
+
+900 kg éq. CO2/ m2
 
 |
 
-650 kq éq. CO2/m2
+770 kg éq. CO2/ m2
 
 |
 
-580 kq éq. CO2/m2
+680 kg éq. CO2/ m2
 
 |
 
-490 kq éq. CO2/m2
+590 kg éq. CO2/ m2
 
 |
 
-Bureaux |
+6. Médiathèques et bibliothèques |
 
-980 kg éq. CO2/m2
+- |
 
-|
-
-810 kg éq. CO2/m2
+940 kg éq. CO2/ m2
 
 |
 
-710 kg éq. CO2/m2
+785 kg éq. CO2/ m2
 
 |
 
-600 kg éq. CO2/m2
+630 kg éq. CO2/ m2
 
 |
 
-Enseignement primaire ou secondaire |
+7. Bâtiments universitaires d'enseignement et de recherche et bâtiments d'enseignements atypiques. |
 
-900 kg éq. CO2/m2
+- |
 
-|
-
-770 kg éq. CO2/m2
+940 kg éq. CO2/ m2
 
 |
 
-680 kg éq. CO2/m2
+790 kg éq. CO2/ m2
 
 |
 
-590 kg éq. CO2/m2
+640 kg éq. CO2/ m2
+
+|
+
+8. à 11. Hôtels 0,1 et 2 étoiles (partie nuit), hôtels 3,4 et 5 étoiles (partie nuit), hôtels 0,1 et 2 étoiles (partie jour) et hôtels 3,4 et 5 étoiles (partie jour) |
+
+- |
+
+820 kg éq. CO2/ m2
+
+|
+
+680 kg éq. CO2/ m2
+
+|
+
+540 kg éq. CO2/ m2
+
+|
+
+12. Etablissements d'accueil de la petite enfance |
+
+- |
+
+950 kg éq. CO2/ m2
+
+|
+
+780 kg éq. CO2/ m2
+
+|
+
+630 kg éq. CO2/ m2
+
+|
+
+13. à 16., 26. et 27. Restaurants-en continu, 18 heures par jour, 7 jours sur 7, restaurants-1 repas par jour, 5 jours sur 7, restaurants-2 repas par jour, 7 jours sur 7, restaurants-2 repas par jour, 6 jours sur 7, restaurants scolaires-1 repas par jour, 5 jours sur 7 et restaurants scolaires-3 repas par jour, 5 jours sur 7 |
+
+- |
+
+800 kg éq. CO2/ m2
+
+|
+
+670 kg éq. CO2/ m2
+
+|
+
+540 kg éq. CO2/ m2
+
+|
+
+17. Commerces |
+
+- |
+
+800 kg éq. CO2/ m2
+
+|
+
+670 kg éq. CO2/ m2
+
+|
+
+540 kg éq. CO2/ m2
+
+|
+
+18. Vestiaires seuls |
+
+|
+
+1050 kg éq. CO2/ m2
+
+|
+
+900 kg éq. CO2/ m2
+
+|
+
+750 kg éq. CO2/ m2
+
+|
+
+19. à 21. Etablissements sanitaires avec hébergement, établissements de santé (partie nuit) et établissements de santé (partie jour) |
+
+|
+
+880 kg éq. CO2/ m2
+
+|
+
+760 kg éq. CO2/ m2
+
+|
+
+620 kg éq. CO2/ m2
+
+|
+
+22. Aérogares |
+
+|
+
+1120 kg éq. CO2/ m2
+
+|
+
+950 kg éq. CO2/ m2
+
+|
+
+780 kg éq. CO2/ m2
+
+|
+
+23. et 24. Industries ou artisanats 3x8h et industries ou artisanats 8h à 18h |
+
+|
+
+840 kg éq. CO2/ m2
+
+|
+
+695 kg éq. CO2/ m2
+
+|
+
+550 kg éq. CO2/ m2
+
+|
+
+25. et 28. Etablissements sportifs municipaux ou scolaires et établissements sportifs privés |
+
+|
+
+900 kg éq. CO2/ m2
+
+|
+
+760 kg éq. CO2/ m2
+
+|
+
+620 kg éq. CO2/ m2
 
 |
 
@@ -2292,7 +8148,7 @@ Iclot2-40 |
 
 Où Iclot2
 
-représente l'impact sur le changement climatique du lot 2 du bâtiment ou de la partie de bâtiment. Le lot 2 intitulé &laquo; fondations et infrastructure &raquo; se compose des fondations, des murs et structures enterrées et des parcs de stationnement en superstructure à l'exception des garages des maisons individuelles ou accolées.
+représente l'impact sur le changement climatique du lot 2 du bâtiment ou de la partie de bâtiment. Le lot 2 intitulé fondations et infrastructure se compose des fondations, des murs et structures enterrées et des parcs de stationnement en superstructure à l'exception des garages des maisons individuelles ou accolées.
 
 Le coefficient Mivrd de modulation du Icconstruction_max selon l'impact de la voirie et des réseaux divers du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
 
@@ -2316,7 +8172,7 @@ Iclot1-10 |
 
 Où Iclot1
 
-représente l'impact sur le changement climatique du lot 1 du bâtiment ou de la partie de bâtiment. Le lot 1 intitulé &laquo; VRD-Voiries et réseaux divers &raquo; se composent des réseaux extérieurs jusqu'au domaine public (gaz, électricité, eau, télécommunication …), du stockage (système d'assainissement autonome, éléments pour le pompage d'eau) et des aires de stationnement extérieures.
+représente l'impact sur le changement climatique du lot 1 du bâtiment ou de la partie de bâtiment. Le lot 1 intitulé VRD-Voiries et réseaux divers se composent des réseaux extérieurs jusqu'au domaine public (gaz, électricité, eau, télécommunication …), du stockage (système d'assainissement autonome, éléments pour le pompage d'eau) et des aires de stationnement extérieures.
 
 Le coefficient Mipv de modulation de Icconstruction_max selon l'impact de l'installation de panneaux photovoltaïques pour un bâtiment ou une partie de bâtiment, prend la valeur suivante :
 
@@ -2624,6 +8480,1582 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 Où Icded représente l'impact sur le changement climatique de l'ensemble des composants associés à des données environnementales par défaut ou à des valeurs forfaitaires dans l'évaluation de l'indicateur Icconstruction du bâtiment ou de la partie de bâtiment, à l'exception des composants des lots 1,2 et 13 tels que définis précédemment.
 
+6. Valeurs des coefficients de modulation de l'exigence Ic construction_max pour les médiathèques et bibliothèques
+
+Le coefficient Micombles de modulation de Ic construction_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Micombles = 0 ;
+
+Le coefficient Misurf_moyen de modulation de Ic construction_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Misurf_moyen = 0 ;
+
+Le coefficient Misurf_tot de modulation de Ic construction_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Misurf_tot = 0 ;
+
+Le coefficient Migéo de modulation de Ic construction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+30 kg éq. CO2/ m2
+
+|
+
+30 kg éq. CO2/ m2
+
+|
+
+≥ 400m |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+;
+
+Le coefficient Miinfra de modulation de Ic construction_max selon l'impact des fondations, des espaces en sous-sol et des parcs de stationnement couverts du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Valeur de Ic lot2
+
+|
+
+Miinfra |
+
+Si Ic lot2 ≤ 60 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot2 > 60 kg éq. CO2/ m2
+
+|
+
+Ic lot2-60 |
+
+;
+
+Où Ic lot2 représente l'impact sur le changement climatique du lot 2 du bâtiment ou de la partie de bâtiment. Le lot 2 intitulé “ fondations et infrastructure ” se compose des fondations, des murs et structures enterrées et des parcs de stationnement en superstructure à l'exception des garages des maisons individuelles ou accolées.
+
+Le coefficient Mivrd de modulation du Ic construction_max selon l'impact de la voirie et des réseaux divers du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Valeur de Ic lot1
+
+|
+
+Mivrd |
+
+Si Ic lot1 ≤ 20 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot1 > 20 kg éq. CO2/ m2
+
+|
+
+Ic lot1-20 |
+
+;
+
+Où Ic lot1 représente l'impact sur le changement climatique du lot 1 du bâtiment ou de la partie de bâtiment. Le lot 1, intitulé “ VRD-Voiries et réseaux divers ”, se compose des réseaux extérieurs jusqu'au domaine public (gaz, électricité, eau, télécommunication …), du stockage (système d'assainissement autonome, éléments pour le pompage d'eau) et des aires de stationnement extérieures.
+
+Le coefficient Mipv de modulation de Ic construction_max selon l'impact de l'installation de panneaux photovoltaïques pour un bâtiment ou une partie de bâtiment, prend les valeurs suivantes :
+
+Valeur de Ic lot13
+
+|
+
+Mipv |
+
+Si Ic lot13 ≤ 20 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot13 > 20 kg éq. CO2/ m2
+
+|
+
+Ic lot13-20 |
+
+;
+
+Où Ic lot13 représente l'impact sur le changement climatique du lot 13 du bâtiment ou de la partie de bâtiment. Le lot 13 intitulé “ Équipement de production locale d'électricité ” se compose des installations associées au bâtiment, dédiées à la production d'électricité (panneaux, onduleurs, étanchéité …).
+
+Le coefficient Mided de modulation de Ic construction_max selon l'impact des données environnementales par défaut et valeurs forfaitaires (Ic ded) dans l'évaluation du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Valeur deIc ded
+
+|
+
+Mided |
+
+Année à laquelle la demande de permis de construire ou la déclaration préalable est déposée : |
+
+Années 2025 à 2027 |
+
+A partir de l'année 2028 |
+
+Si Ic ded ≤ 440 kg éq. CO2/ m2
+
+|
+
+0 |
+
+0 |
+
+Si Ic ded > 440 kg éq. CO2/ m2
+
+|
+
+0 |
+
+-0,3 × (Ic ded-440) |
+
+;
+
+Où Ic ded représente l'impact sur le changement climatique de l'ensemble des composants associés à des données environnementales par défaut ou à des valeurs forfaitaires dans l'évaluation de l'indicateur Ic construction du bâtiment ou de la partie de bâtiment, à l'exception des composants des lots 1,2 et 13 tels que définis précédemment ;
+
+7. Valeurs des coefficients de modulation de l'exigence Ic construction_max pour les bâtiments universitaires d'enseignement et de recherche et bâtiments d'enseignements atypiques
+
+Le coefficient Micombles de modulation de Ic construction_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Micombles = 0 ;
+
+Le coefficient Misurf_moyen de modulation de Ic construction_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Misurf_moyen = 0 ;
+
+Le coefficient Misurf_tot de modulation de Ic construction_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Misurf_tot = 0 ;
+
+Le coefficient Migéo de modulation de Ic construction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend la valeur suivante (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+30 kg éq. CO2/ m2
+
+|
+
+30 kg éq. CO2/ m2
+
+|
+
+≥ 400m |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+;
+
+Le coefficient Miinfra de modulation de Ic construction_max selon l'impact des fondations, des espaces en sous-sol et des parcs de stationnement couverts du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Valeur de Ic lot2
+
+|
+
+Miinfra |
+
+Si Ic lot2 ≤ 60 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot2 > 60 kg éq. CO2/ m2
+
+|
+
+Ic lot2-60 |
+
+;
+
+Où Ic lot2 représente l'impact sur le changement climatique du lot 2 du bâtiment ou de la partie de bâtiment. Le lot 2 intitulé “ fondations et infrastructure ” se compose des fondations, des murs et structures enterrées et des parcs de stationnement en superstructure à l'exception des garages des maisons individuelles ou accolées.
+
+Le coefficient Mivrd de modulation du Ic construction_max selon l'impact de la voirie et des réseaux divers du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Valeur de Ic lot1
+
+|
+
+Mivrd |
+
+Si Ic lot1 ≤ 20 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot1 > 20 kg éq. CO2/ m2
+
+|
+
+Ic lot1-20 |
+
+;
+
+Où Ic lot1 représente l'impact sur le changement climatique du lot 1 du bâtiment ou de la partie de bâtiment. Le lot 1, intitulé “ VRD-Voiries et réseaux divers ”, se compose des réseaux extérieurs jusqu'au domaine public (gaz, électricité, eau, télécommunication …), du stockage (système d'assainissement autonome, éléments pour le pompage d'eau) et des aires de stationnement extérieures.
+
+Le coefficient Mipv de modulation de Ic construction_max selon l'impact de l'installation de panneaux photovoltaïques pour un bâtiment ou une partie de bâtiment, prend les valeurs suivantes :
+
+Valeur de Ic lot13
+
+|
+
+Mipv |
+
+Si Ic lot13 ≤ 20 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot13 > 20 kg éq. CO2/ m2
+
+|
+
+Ic lot13-20 |
+
+;
+
+Où Ic lot13 représente l'impact sur le changement climatique du lot 13 du bâtiment ou de la partie de bâtiment. Le lot 13 intitulé “ Equipement de production locale d'électricité ” se compose des installations associées au bâtiment, dédiées à la production d'électricité (panneaux, onduleurs, étanchéité …).
+
+Le coefficient Mided de modulation de Ic construction_max selon l'impact des données environnementales par défaut et valeurs forfaitaires (Ic ded) dans l'évaluation du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Valeur de Ic ded
+
+|
+
+Mided |
+
+Année à laquelle la demande de permis de construire ou la déclaration préalable est déposée : |
+
+Années 2025 à 2027 |
+
+A partir de l'année 2028 |
+
+Si Ic ded ≤ 320 kg éq. CO2/ m2
+
+|
+
+0 |
+
+0 |
+
+Si Ic ded > 320 kg éq. CO2/ m2
+
+|
+
+0 |
+
+-0,3 × (Ic ded-320) |
+
+;
+
+Où Ic ded représente l'impact sur le changement climatique de l'ensemble des composants associés à des données environnementales par défaut ou à des valeurs forfaitaires dans l'évaluation de l'indicateur Ic construction du bâtiment ou de la partie de bâtiment, à l'exception des composants des lots 1,2 et 13 tels que définis précédemment.
+
+8. à 11. Valeurs des coefficients de modulation de l'exigence Ic construction_max pour les hôtels 0,1 et 2 étoiles (partie nuit), pour les hôtels 3,4 et 5 étoiles (partie nuit), pour les hôtels 0,1 et 2 étoiles (partie jour) et pour les hôtels 3,4 et 5 étoiles (partie jour)
+
+Le coefficient Micombles de modulation de Ic construction_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Micombles = 0 ;
+
+Le coefficient Misurf_moyen de modulation de Ic construction_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Misurf_moyen = 0 ;
+
+Le coefficient Misurf_tot de modulation de Ic construction_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Misurf_tot = 0 ;
+
+Le coefficient Migéo de modulation de Ic construction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
+
+Altitude |
+
+Zone climatique |
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+< 400m |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+20 kg éq. CO2/ m2
+
+|
+
+20 kg éq. CO2/ m2
+
+|
+
+≥ 400m |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+;
+
+Le coefficient Miinfra de modulation de Ic construction_max selon l'impact des fondations, des espaces en sous-sol et des parcs de stationnement couverts du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Valeur de Ic lot2
+
+|
+
+Miinfra |
+
+Si Ic lot2 ≤ 40 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot2 > 40 kg éq. CO2/ m2
+
+|
+
+Ic lot2-40 |
+
+;
+
+Où Ic lot2 représente l'impact sur le changement climatique du lot 2 du bâtiment ou de la partie de bâtiment. Le lot 2 intitulé “ fondations et infrastructure ” se compose des fondations, des murs et structures enterrées et des parcs de stationnement en superstructure à l'exception des garages des maisons individuelles ou accolées.
+
+Le coefficient Mivrd de modulation du Ic construction_max selon l'impact de la voirie et des réseaux divers du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Valeur de Ic lot1
+
+|
+
+Mivrd |
+
+Si Ic lot1 ≤ 10 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot1 > 10 kg éq. CO2/ m2
+
+|
+
+Ic lot1-10 |
+
+;
+
+Où Ic lot1 représente l'impact sur le changement climatique du lot 1 du bâtiment ou de la partie de bâtiment. Le lot 1, intitulé “ VRD-Voiries et réseaux divers ”, se compose des réseaux extérieurs jusqu'au domaine public (gaz, électricité, eau, télécommunication …), du stockage (système d'assainissement autonome, éléments pour le pompage d'eau) et des aires de stationnement extérieures.
+
+Le coefficient Mipv de modulation de Ic construction_max selon l'impact de l'installation de panneaux photovoltaïques pour un bâtiment ou une partie de bâtiment, prend les valeurs suivantes :
+
+Valeur de Ic lot13
+
+|
+
+Mipv |
+
+Si Ic lot13 ≤ 20 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot13 > 20 kg éq. CO2/ m2
+
+|
+
+Ic lot13-20 |
+
+;
+
+Où Ic lot13 représente l'impact sur le changement climatique du lot 13 du bâtiment ou de la partie de bâtiment. Le lot 13 intitulé “ Equipement de production locale d'électricité ” se compose des installations associées au bâtiment, dédiées à la production d'électricité (panneaux, onduleurs, étanchéité …).
+
+Le coefficient Mided de modulation de Ic construction_max selon l'impact des données environnementales par défaut et valeurs forfaitaires (Ic ded) dans l'évaluation du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Valeur de Ic ded
+
+|
+
+Mided |
+
+Année à laquelle la demande de permis de construire ou la déclaration préalable est déposée : |
+
+Années 2025 à 2027 |
+
+A partir de l'année 2028 |
+
+Si Ic ded ≤ 300 kg éq. CO2/ m2
+
+|
+
+0 |
+
+0 |
+
+Si Ic ded > 300 kg éq. CO2/ m2
+
+|
+
+0 |
+
+-0,3 × (Ic ded-300) |
+
+;
+
+Où Ic ded représente l'impact sur le changement climatique de l'ensemble des composants associés à des données environnementales par défaut ou à des valeurs forfaitaires dans l'évaluation de l'indicateur Ic construction du bâtiment ou de la partie de bâtiment, à l'exception des composants des lots 1,2 et 13 tels que définis précédemment ;
+
+12. Valeurs des coefficients de modulation de l'exigence Ic construction_max pour les établissements d'accueil de la petite enfance
+
+Le coefficient Micombles de modulation de Ic construction_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Micombles = 0 ;
+
+Le coefficient Misurf_moyen de modulation de Ic construction_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Misurf_moyen = 0 ;
+
+Le coefficient Misurf_tot de modulation de Ic construction_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Misurf_tot = 0 ;
+
+Le coefficient Migéo de modulation de Ic construction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend la valeur suivante (les zones climatiques sont définies au chapitre IV) :
+
+Migéo = 0 ;
+
+Le coefficient Miinfra de modulation de Ic construction_max selon l'impact des fondations, des espaces en sous-sol et des parcs de stationnement couverts du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Valeur de Ic lot2
+
+|
+
+Miinfra |
+
+Si Ic lot2 ≤ 60 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot2 > 60 kg éq. CO2/ m2
+
+|
+
+Ic lot2-60 |
+
+;
+
+Où Ic lot2 représente l'impact sur le changement climatique du lot 2 du bâtiment ou de la partie de bâtiment. Le lot 2 intitulé “ fondations et infrastructure ” se compose des fondations, des murs et structures enterrées et des parcs de stationnement en superstructure à l'exception des garages des maisons individuelles ou accolées.
+
+Le coefficient Mivrd de modulation du Ic construction_max selon l'impact de la voirie et des réseaux divers du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Valeur de Ic lot1
+
+|
+
+Mivrd |
+
+Si Ic lot1 ≤ 20 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot1 > 20 kg éq. CO2/ m2
+
+|
+
+Ic lot1-20 |
+
+;
+
+Où Ic lot1 représente l'impact sur le changement climatique du lot 1 du bâtiment ou de la partie de bâtiment. Le lot 1, intitulé “ VRD-Voiries et réseaux divers ”, se compose des réseaux extérieurs jusqu'au domaine public (gaz, électricité, eau, télécommunication …), du stockage (système d'assainissement autonome, éléments pour le pompage d'eau) et des aires de stationnement extérieures.
+
+Le coefficient Mipv de modulation de Ic construction_max selon l'impact de l'installation de panneaux photovoltaïques pour un bâtiment ou une partie de bâtiment, prend les valeurs suivantes :
+
+Valeur de Ic lot13
+
+|
+
+Mipv |
+
+Si Ic lot13 ≤ 20 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot13 > 20 kg éq. CO2/ m2
+
+|
+
+Ic lot13-20 |
+
+;
+
+Où Ic lot13 représente l'impact sur le changement climatique du lot 13 du bâtiment ou de la partie de bâtiment. Le lot 13 intitulé “ Equipement de production locale d'électricité ” se compose des installations associées au bâtiment, dédiées à la production d'électricité (panneaux, onduleurs, étanchéité …).
+
+Le coefficient Mided de modulation de Ic construction_max selon l'impact des données environnementales par défaut et valeurs forfaitaires (Ic ded) dans l'évaluation du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Valeur de Ic ded
+
+|
+
+Mided |
+
+Année à laquelle la demande de permis de construire ou la déclaration préalable est déposée : |
+
+Années 2025 à 2027 |
+
+A partir de l'année 2028 |
+
+Si Ic ded ≤ 530 kg éq. CO2/ m2
+
+|
+
+0 |
+
+0 |
+
+Si Ic ded > 530 kg éq. CO2/ m2
+
+|
+
+0 |
+
+-0,3 × (Ic ded-530) |
+
+;
+
+Où Ic ded représente l'impact sur le changement climatique de l'ensemble des composants associés à des données environnementales par défaut ou à des valeurs forfaitaires dans l'évaluation de l'indicateur Ic construction du bâtiment ou de la partie de bâtiment, à l'exception des composants des lots 1,2 et 13 tels que définis précédemment ;
+
+13. à 16., 26. et 27. Valeurs des coefficients de modulation de l'exigence Ic construction_max pour les restaurants-en continu, 18 heures par jour, 7 jours sur 7, pour les restaurants-1 repas par jour, 5 jours sur 7, pour les restaurants-2 repas par jour, 7 jours sur 7, pour les restaurants-2 repas par jour, 6 jours sur 7, pour les restaurants scolaires-1 repas par jour, 5 jours sur 7 et pour les restaurants scolaires-3 repas par jour, 5 jours sur 7
+
+Le coefficient Micombles de modulation de Ic construction_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Micombles = 0 ;
+
+Le coefficient Misurf_moyen de modulation de Ic construction_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Misurf_moyen = 0 ;
+
+Le coefficient Misurf_tot de modulation de Ic construction_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Misurf_tot = 0 ;
+
+Le coefficient Migéo de modulation de Ic construction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend la valeur suivante (les zones climatiques sont définies au chapitre IV) :
+
+Migéo = 0 ;
+
+Le coefficient Miinfra de modulation de Ic construction_max selon l'impact des fondations, des espaces en sous-sol et des parcs de stationnement couverts du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Valeur de Ic lot2
+
+|
+
+Miinfra |
+
+Si Ic lot2 ≤ 40 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot2 > 40 kg éq. CO2/ m2
+
+|
+
+Ic lot2-40 |
+
+;
+
+Où Ic lot2 représente l'impact sur le changement climatique du lot 2 du bâtiment ou de la partie de bâtiment. Le lot 2 intitulé “ fondations et infrastructure ” se compose des fondations, des murs et structures enterrées et des parcs de stationnement en superstructure à l'exception des garages des maisons individuelles ou accolées.
+
+Le coefficient Mivrd de modulation du Ic construction_max selon l'impact de la voirie et des réseaux divers du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Valeur de Ic lot1
+
+|
+
+Mivrd |
+
+Si Ic lot1 ≤ 10 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot1 > 10 kg éq. CO2/ m2
+
+|
+
+Ic lot1-10 |
+
+;
+
+Où Ic lot1 représente l'impact sur le changement climatique du lot 1 du bâtiment ou de la partie de bâtiment. Le lot 1, intitulé “ VRD-Voiries et réseaux divers ”, se compose des réseaux extérieurs jusqu'au domaine public (gaz, électricité, eau, télécommunication …), du stockage (système d'assainissement autonome, éléments pour le pompage d'eau) et des aires de stationnement extérieures.
+
+Le coefficient Mipv de modulation de Ic construction_max selon l'impact de l'installation de panneaux photovoltaïques pour un bâtiment ou une partie de bâtiment, prend les valeurs suivantes :
+
+Valeur de Ic lot13
+
+|
+
+Mipv |
+
+Si Ic lot13 ≤ 20 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot13 > 20 kg éq. CO2/ m2
+
+|
+
+Ic lot13-20 |
+
+;
+
+Où Ic lot13 représente l'impact sur le changement climatique du lot 13 du bâtiment ou de la partie de bâtiment. Le lot 13 intitulé “ Equipement de production locale d'électricité ” se compose des installations associées au bâtiment, dédiées à la production d'électricité (panneaux, onduleurs, étanchéité …).
+
+Le coefficient Mided de modulation de Ic construction_max selon l'impact des données environnementales par défaut et valeurs forfaitaires (Ic ded) dans l'évaluation du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Valeur de Ic ded
+
+|
+
+Mided |
+
+Année à laquelle la demande de permis de construire ou la déclaration préalable est déposée : |
+
+Années 2025 à 2027 |
+
+A partir de l'année 2028 |
+
+Si Ic ded ≤ 480 kg éq. CO2/ m2
+
+|
+
+0 |
+
+0 |
+
+Si Ic ded > 480 kg éq. CO2/ m2
+
+|
+
+0 |
+
+-0,3 × (Ic ded-480) |
+
+;
+
+Où Ic ded représente l'impact sur le changement climatique de l'ensemble des composants associés à des données environnementales par défaut ou à des valeurs forfaitaires dans l'évaluation de l'indicateur Ic construction du bâtiment ou de la partie de bâtiment, à l'exception des composants des lots 1,2 et 13 tels que définis précédemment ;
+
+17. Valeurs des coefficients de modulation de l'exigence Ic construction_max pour les commerces
+
+Le coefficient Micombles de modulation de Ic construction_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Micombles = 0 ;
+
+Le coefficient Misurf_moyen de modulation de Ic construction_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Misurf_moyen = 0 ;
+
+Le coefficient Misurf_tot de modulation de Ic construction_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Misurf_tot = 0 ;
+
+Le coefficient Migéo de modulation de Ic construction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend la valeur suivante (les zones climatiques sont définies au chapitre IV) :
+
+Migéo = 0 ;
+
+Le coefficient Miinfra de modulation de Ic construction_max selon l'impact des fondations, des espaces en sous-sol et des parcs de stationnement couverts du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Valeur de Ic lot2
+
+|
+
+Miinfra |
+
+Si Ic lot2 ≤ 40 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot2 > 40 kg éq. CO2/ m2
+
+|
+
+Ic lot2-40 |
+
+;
+
+Où Ic lot2 représente l'impact sur le changement climatique du lot 2 du bâtiment ou de la partie de bâtiment. Le lot 2 intitulé “ fondations et infrastructure ” se compose des fondations, des murs et structures enterrées et des parcs de stationnement en superstructure à l'exception des garages des maisons individuelles ou accolées.
+
+Le coefficient Mivrd de modulation du Ic construction_max selon l'impact de la voirie et des réseaux divers du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Valeur de Ic lot1
+
+|
+
+Mivrd |
+
+Si Ic lot1 ≤ 10 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot1 > 10 kg éq. CO2/ m2
+
+|
+
+Ic lot1-10 |
+
+;
+
+Où Ic lot1 représente l'impact sur le changement climatique du lot 1 du bâtiment ou de la partie de bâtiment. Le lot 1, intitulé “ VRD-Voiries et réseaux divers ”, se compose des réseaux extérieurs jusqu'au domaine public (gaz, électricité, eau, télécommunication …), du stockage (système d'assainissement autonome, éléments pour le pompage d'eau) et des aires de stationnement extérieures.
+
+Le coefficient Mipv de modulation de Ic construction_max selon l'impact de l'installation de panneaux photovoltaïques pour un bâtiment ou une partie de bâtiment, prend les valeurs suivantes :
+
+Valeur de Ic lot13
+
+|
+
+Mipv |
+
+Si Ic lot13 ≤ 20 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot13 > 20 kg éq. CO2/ m2
+
+|
+
+Ic lot13-20 |
+
+;
+
+Où Ic lot13 représente l'impact sur le changement climatique du lot 13 du bâtiment ou de la partie de bâtiment. Le lot 13 intitulé “ Equipement de production locale d'électricité ” se compose des installations associées au bâtiment, dédiées à la production d'électricité (panneaux, onduleurs, étanchéité …).
+
+Le coefficient Mided de modulation de Ic construction_max selon l'impact des données environnementales par défaut et valeurs forfaitaires (Ic ded) dans l'évaluation du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Valeur de Ic ded
+
+|
+
+Mided |
+
+Année à laquelle la demande de permis de construire ou la déclaration préalable est déposée : |
+
+Années 2025 à 2027 |
+
+A partir de l'année 2028 |
+
+Si Ic ded ≤ 280 kg éq. CO2/ m2
+
+|
+
+0 |
+
+0 |
+
+Si Ic ded > 280 kg éq. CO2/ m2
+
+|
+
+0 |
+
+-0,3 × (Ic ded-280) |
+
+;
+
+Où Ic ded représente l'impact sur le changement climatique de l'ensemble des composants associés à des données environnementales par défaut ou à des valeurs forfaitaires dans l'évaluation de l'indicateur Ic construction du bâtiment ou de la partie de bâtiment, à l'exception des composants des lots 1,2 et 13 tels que définis précédemment ;
+
+18. Valeurs des coefficients de modulation de l'exigence Ic construction_max pour les vestiaires seuls
+
+Le coefficient Micombles de modulation de Ic construction_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Micombles = 0 ;
+
+Le coefficient Misurf_moyen de modulation de Ic construction_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Misurf_moyen = 0 ;
+
+Le coefficient Misurf_tot de modulation de Ic construction_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Misurf_tot = 0 ;
+
+Le coefficient Migéo de modulation de Ic construction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend la valeur suivante (les zones climatiques sont définies au chapitre IV) :
+
+Migéo = 0 ;
+
+Le coefficient Miinfra de modulation de Ic construction_max selon l'impact des fondations, des espaces en sous-sol et des parcs de stationnement couverts du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Valeur de Ic lot2
+
+|
+
+Miinfra |
+
+Si Ic lot2 ≤ 40 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot2 > 40 kg éq. CO2/ m2
+
+|
+
+Ic lot2-40 |
+
+;
+
+Où Ic lot2 représente l'impact sur le changement climatique du lot 2 du bâtiment ou de la partie de bâtiment. Le lot 2 intitulé “ fondations et infrastructure ” se compose des fondations, des murs et structures enterrées et des parcs de stationnement en superstructure à l'exception des garages des maisons individuelles ou accolées.
+
+Le coefficient Mivrd de modulation du Ic construction_max selon l'impact de la voirie et des réseaux divers du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Valeur de Ic lot1
+
+|
+
+Mivrd |
+
+Si Ic lot1 ≤ 10 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot1 > 10 kg éq. CO2/ m2
+
+|
+
+Ic lot1-10 |
+
+;
+
+Où Ic lot1 représente l'impact sur le changement climatique du lot 1 du bâtiment ou de la partie de bâtiment. Le lot 1, intitulé “ VRD-Voiries et réseaux divers ”, se compose des réseaux extérieurs jusqu'au domaine public (gaz, électricité, eau, télécommunication …), du stockage (système d'assainissement autonome, éléments pour le pompage d'eau) et des aires de stationnement extérieures.
+
+Le coefficient Mipv de modulation de Ic construction_max selon l'impact de l'installation de panneaux photovoltaïques pour un bâtiment ou une partie de bâtiment, prend les valeurs suivantes :
+
+Valeur de Ic lot13
+
+|
+
+Mipv |
+
+Si Ic lot13 ≤ 20 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot13 > 20 kg éq. CO2/ m2
+
+|
+
+Ic lot13-20 |
+
+;
+
+Où Ic lot13 représente l'impact sur le changement climatique du lot 13 du bâtiment ou de la partie de bâtiment. Le lot 13 intitulé “ Equipement de production locale d'électricité ” se compose des installations associées au bâtiment, dédiées à la production d'électricité (panneaux, onduleurs, étanchéité …).
+
+Le coefficient Mided de modulation de Ic construction_max selon l'impact des données environnementales par défaut et valeurs forfaitaires (Ic ded) dans l'évaluation du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Valeur de Ic ded
+
+|
+
+Mided |
+
+Année à laquelle la demande de permis de construire ou la déclaration préalable est déposée : |
+
+Années 2025 à 2027 |
+
+A partir de l'année 2028 |
+
+Si Ic ded ≤ 480 kg éq. CO2/ m2
+
+|
+
+0 |
+
+0 |
+
+Si Ic ded > 480 kg éq. CO2/ m2
+
+|
+
+0 |
+
+-0,3 × (Ic ded-480) |
+
+;
+
+Où Ic ded représente l'impact sur le changement climatique de l'ensemble des composants associés à des données environnementales par défaut ou à des valeurs forfaitaires dans l'évaluation de l'indicateur Ic construction du bâtiment ou de la partie de bâtiment, à l'exception des composants des lots 1,2 et 13 tels que définis précédemment ;
+
+19. à 21. Valeurs des coefficients de modulation de l'exigence Ic construction_max pour les établissements sanitaires avec hébergement, pour les établissements de santé (partie nuit) et pour les établissements de santé (partie jour)
+
+Le coefficient Micombles de modulation de Ic construction_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Micombles = 0 ;
+
+Le coefficient Misurf_moyen de modulation de Ic construction_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Misurf_moyen = 0 ;
+
+Le coefficient Misurf_tot de modulation de Ic construction_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Misurf_tot = 0 ;
+
+Le coefficient Migéo de modulation de Ic construction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend la valeur suivante (les zones climatiques sont définies au chapitre IV) :
+
+Migéo = 0 ;
+
+Le coefficient Miinfra de modulation de Ic construction_max selon l'impact des fondations, des espaces en sous-sol et des parcs de stationnement couverts du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Valeur de Ic lot2
+
+|
+
+Miinfra |
+
+Si Ic lot2 ≤ 40 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot2 > 40 kg éq. CO2/ m2
+
+|
+
+Ic lot2-40 |
+
+;
+
+Où Ic lot2 représente l'impact sur le changement climatique du lot 2 du bâtiment ou de la partie de bâtiment. Le lot 2 intitulé “ fondations et infrastructure ” se compose des fondations, des murs et structures enterrées et des parcs de stationnement en superstructure à l'exception des garages des maisons individuelles ou accolées.
+
+Le coefficient Mivrd de modulation du Ic construction_max selon l'impact de la voirie et des réseaux divers du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Valeur de Ic lot1
+
+|
+
+Mivrd |
+
+Si Ic lot1 ≤ 10 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot1 > 10 kg éq. CO2/ m2
+
+|
+
+Ic lot1-10 |
+
+;
+
+Où Ic lot1 représente l'impact sur le changement climatique du lot 1 du bâtiment ou de la partie de bâtiment. Le lot 1, intitulé “ VRD-Voiries et réseaux divers ”, se compose des réseaux extérieurs jusqu'au domaine public (gaz, électricité, eau, télécommunication …), du stockage (système d'assainissement autonome, éléments pour le pompage d'eau) et des aires de stationnement extérieures.
+
+Le coefficient Mipv de modulation de Ic construction_max selon l'impact de l'installation de panneaux photovoltaïques pour un bâtiment ou une partie de bâtiment, prend les valeurs suivantes :
+
+Valeur de Ic lot13
+
+|
+
+Mipv |
+
+Si Ic lot13 ≤ 20 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot13 > 20 kg éq. CO2/ m2
+
+|
+
+Ic lot13-20 |
+
+;
+
+Où Ic lot13 représente l'impact sur le changement climatique du lot 13 du bâtiment ou de la partie de bâtiment. Le lot 13 intitulé “ Equipement de production locale d'électricité ” se compose des installations associées au bâtiment, dédiées à la production d'électricité (panneaux, onduleurs, étanchéité …).
+
+Le coefficient Mided de modulation de Ic construction_max selon l'impact des données environnementales par défaut et valeurs forfaitaires (Ic ded) dans l'évaluation du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Valeur de Ic ded
+
+|
+
+Mided |
+
+Année à laquelle la demande de permis de construire ou la déclaration préalable est déposée : |
+
+Années 2025 à 2027 |
+
+A partir de l'année 2028 |
+
+Si Ic ded ≤ 580 kg éq. CO2/ m2
+
+|
+
+0 |
+
+0 |
+
+Si Ic ded > 580 kg éq. CO2/ m2
+
+|
+
+0 |
+
+-0,3 × (Ic ded-580) |
+
+;
+
+Où Ic ded représente l'impact sur le changement climatique de l'ensemble des composants associés à des données environnementales par défaut ou à des valeurs forfaitaires dans l'évaluation de l'indicateur Ic construction du bâtiment ou de la partie de bâtiment, à l'exception des composants des lots 1,2 et 13 tels que définis précédemment ;
+
+22. Valeurs des coefficients de modulation de l'exigence Ic construction_max pour les aérogares
+
+Le coefficient Micombles de modulation de Ic construction_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Micombles = 0 ;
+
+Le coefficient Misurf_moyen de modulation de Ic construction_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Misurf_moyen = 0 ;
+
+Le coefficient Misurf_tot de modulation de Ic construction_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Misurf_tot = 0 ;
+
+Le coefficient Migéo de modulation de Ic construction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend la valeur suivante (les zones climatiques sont définies au chapitre IV) :
+
+Migéo = 0 ;
+
+Le coefficient Miinfra de modulation de Ic construction_max selon l'impact des fondations, des espaces en sous-sol et des parcs de stationnement couverts du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Valeur de Ic lot2
+
+|
+
+Miinfra |
+
+Si Ic lot2 ≤ 100 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot2 > 100 kg éq. CO2/ m2
+
+|
+
+Ic lot2-100 |
+
+;
+
+Où Ic lot2 représente l'impact sur le changement climatique du lot 2 du bâtiment ou de la partie de bâtiment. Le lot 2 intitulé “ fondations et infrastructure ” se compose des fondations, des murs et structures enterrées et des parcs de stationnement en superstructure à l'exception des garages des maisons individuelles ou accolées.
+
+Le coefficient Mivrd de modulation du Ic construction_max selon l'impact de la voirie et des réseaux divers du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Valeur de Ic lot1
+
+|
+
+Mivrd |
+
+Si Ic lot1 ≤ 10 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot1 > 10 kg éq. CO2/ m2
+
+|
+
+Ic lot1-10 |
+
+;
+
+Où Ic lot1 représente l'impact sur le changement climatique du lot 1 du bâtiment ou de la partie de bâtiment. Le lot 1, intitulé “ VRD-Voiries et réseaux divers ”, se compose des réseaux extérieurs jusqu'au domaine public (gaz, électricité, eau, télécommunication …), du stockage (système d'assainissement autonome, éléments pour le pompage d'eau) et des aires de stationnement extérieures.
+
+Le coefficient Mipv de modulation de Ic construction_max selon l'impact de l'installation de panneaux photovoltaïques pour un bâtiment ou une partie de bâtiment, prend les valeurs suivantes :
+
+Valeur de Ic lot13
+
+|
+
+Mipv |
+
+Si Ic lot13 ≤ 20 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot13 > 20 kg éq. CO2/ m2
+
+|
+
+Ic lot13-20 |
+
+;
+
+Où Ic lot13 représente l'impact sur le changement climatique du lot 13 du bâtiment ou de la partie de bâtiment. Le lot 13 intitulé “ Equipement de production locale d'électricité ” se compose des installations associées au bâtiment, dédiées à la production d'électricité (panneaux, onduleurs, étanchéité …).
+
+Le coefficient Mided de modulation de Ic construction_max selon l'impact des données environnementales par défaut et valeurs forfaitaires (Ic ded) dans l'évaluation du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Valeur de Ic ded
+
+|
+
+Mided |
+
+Année à laquelle la demande de permis de construire ou la déclaration préalable est déposée : |
+
+Années 2025 à 2027 |
+
+A partir de l'année 2028 |
+
+Si Ic ded ≤ 665 kg éq. CO2/ m2
+
+|
+
+0 |
+
+0 |
+
+Si Ic ded > 665 kg éq. CO2/ m2
+
+|
+
+0 |
+
+-0,3 × (Ic ded-665) |
+
+;
+
+Où Ic ded représente l'impact sur le changement climatique de l'ensemble des composants associés à des données environnementales par défaut ou à des valeurs forfaitaires dans l'évaluation de l'indicateur Ic construction du bâtiment ou de la partie de bâtiment, à l'exception des composants des lots 1,2 et 13 tels que définis précédemment ;
+
+23. et 24. Valeurs des coefficients de modulation de l'exigence Ic construction_max pour les bâtiments à usages industriel ou artisanat 3x8h et pour les bâtiments à usages industriel ou artisanat 8h à 18h
+
+Le coefficient Micombles de modulation de Ic construction_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Micombles = 0 ;
+
+Le coefficient Misurf_moyen de modulation de Ic construction_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Misurf_moyen = 0 ;
+
+Le coefficient Misurf_tot de modulation de Ic construction_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Surface du bâtiment |
+
+Misurf_tot |
+
+Sref ≤ 5000 m2
+
+|
+
+0,035-0,00007 * Sref |
+
+Sref > 5000 m2
+
+|
+
+-0,315 |
+
+;
+
+Le coefficient Migéo de modulation de Ic construction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend la valeur suivante (les zones climatiques sont définies au chapitre IV) :
+
+Migéo = 0 ;
+
+Le coefficient Miinfra de modulation de Ic construction_max selon l'impact des fondations, des espaces en sous-sol et des parcs de stationnement couverts du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Valeur de Ic lot2
+
+|
+
+Miinfra |
+
+Si Ic lot2 ≤ 40 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot2 > 40 kg éq. CO2/ m2
+
+|
+
+Ic lot2-40 |
+
+;
+
+Où Ic lot2 représente l'impact sur le changement climatique du lot 2 du bâtiment ou de la partie de bâtiment. Le lot 2 intitulé “ fondations et infrastructure ” se compose des fondations, des murs et structures enterrées et des parcs de stationnement en superstructure à l'exception des garages des maisons individuelles ou accolées.
+
+Le coefficient Mivrd de modulation du Ic construction_max selon l'impact de la voirie et des réseaux divers du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Valeur de Ic lot1
+
+|
+
+Mivrd |
+
+Si Ic lot1 ≤ 10 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot1 > 10 kg éq. CO2/ m2
+
+|
+
+Ic lot1-10 |
+
+;
+
+Où Ic lot1 représente l'impact sur le changement climatique du lot 1 du bâtiment ou de la partie de bâtiment. Le lot 1, intitulé “ VRD-Voiries et réseaux divers ”, se compose des réseaux extérieurs jusqu'au domaine public (gaz, électricité, eau, télécommunication …), du stockage (système d'assainissement autonome, éléments pour le pompage d'eau) et des aires de stationnement extérieures.
+
+Le coefficient Mipv de modulation de Ic construction_max selon l'impact de l'installation de panneaux photovoltaïques pour un bâtiment ou une partie de bâtiment, prend les valeurs suivantes :
+
+Valeur de Ic lot13
+
+|
+
+Mipv |
+
+Si Ic lot13 ≤ 20 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot13 > 20 kg éq. CO2/ m2
+
+|
+
+Ic lot13-20 |
+
+;
+
+Où Ic lot13 représente l'impact sur le changement climatique du lot 13 du bâtiment ou de la partie de bâtiment. Le lot 13 intitulé “ Equipement de production locale d'électricité ” se compose des installations associées au bâtiment, dédiées à la production d'électricité (panneaux, onduleurs, étanchéité …).
+
+Le coefficient Mided de modulation de Ic construction_max selon l'impact des données environnementales par défaut et valeurs forfaitaires (Ic ded) dans l'évaluation du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Valeur de Ic ded
+
+|
+
+Mided |
+
+Année à laquelle la demande de permis de construire ou la déclaration préalable est déposée : |
+
+Années 2025 à 2027 |
+
+A partir de l'année 2028 |
+
+Si Ic ded ≤ 500 kg éq. CO2/ m2
+
+|
+
+0 |
+
+0 |
+
+Si Ic ded > 500 kg éq. CO2/ m2
+
+|
+
+0 |
+
+-0,3 × (Ic ded-500) |
+
+;
+
+Où Ic ded représente l'impact sur le changement climatique de l'ensemble des composants associés à des données environnementales par défaut ou à des valeurs forfaitaires dans l'évaluation de l'indicateur Ic construction du bâtiment ou de la partie de bâtiment, à l'exception des composants des lots 1,2 et 13 tels que définis précédemment ;
+
+25. et 28. Valeurs des coefficients de modulation de l'exigence Ic construction_max pour les établissements sportifs municipaux ou scolaires et pour les établissements sportifs privés
+
+Le coefficient Micombles de modulation de Ic construction_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :
+
+Micombles = 0 ;
+
+Le coefficient Misurf_moyen de modulation de Ic construction_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Misurf_moyen = 0 ;
+
+Le coefficient Misurf_tot de modulation de Ic construction_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+Surface du bâtiment |
+
+Misurf_tot |
+
+Sref ≤ 2000 m2
+
+|
+
+0,3-0,00015 * Sref |
+
+Sref > 2000 m2
+
+|
+
+0 |
+
+;
+
+Le coefficient Migéo de modulation de Ic construction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend la valeur suivante (les zones climatiques sont définies au chapitre IV) :
+
+Migéo = 0 ;
+
+Le coefficient Miinfra de modulation de Ic construction_max selon l'impact des fondations, des espaces en sous-sol et des parcs de stationnement couverts du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :
+
+Valeur de Ic lot2
+
+|
+
+Miinfra |
+
+Si Ic lot2 ≤ 60 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot2 > 60 kg éq. CO2/ m2
+
+|
+
+Ic lot2-60 |
+
+;
+
+Où Ic lot2 représente l'impact sur le changement climatique du lot 2 du bâtiment ou de la partie de bâtiment. Le lot 2 intitulé “ fondations et infrastructure ” se compose des fondations, des murs et structures enterrées et des parcs de stationnement en superstructure à l'exception des garages des maisons individuelles ou accolées.
+
+Le coefficient Mivrd de modulation du Ic construction_max selon l'impact de la voirie et des réseaux divers du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Valeur de Ic lot1
+
+|
+
+Mivrd |
+
+Si Ic lot1 ≤ 20 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot1 > 20 kg éq. CO2/ m2
+
+|
+
+Ic lot1-20 |
+
+;
+
+Où Ic lot1 représente l'impact sur le changement climatique du lot 1 du bâtiment ou de la partie de bâtiment. Le lot 1, intitulé “ VRD-Voiries et réseaux divers ”, se compose des réseaux extérieurs jusqu'au domaine public (gaz, électricité, eau, télécommunication …), du stockage (système d'assainissement autonome, éléments pour le pompage d'eau) et des aires de stationnement extérieures.
+
+Le coefficient Mipv de modulation de Ic construction_max selon l'impact de l'installation de panneaux photovoltaïques pour un bâtiment ou une partie de bâtiment, prend les valeurs suivantes :
+
+Valeur de Ic lot13
+
+|
+
+Mipv |
+
+Si Ic lot13 ≤ 20 kg éq. CO2/ m2
+
+|
+
+0 |
+
+Si Ic lot13 > 20 kg éq. CO2/ m2
+
+|
+
+Ic lot13-20 |
+
+;
+
+Où Ic lot13 représente l'impact sur le changement climatique du lot 13 du bâtiment ou de la partie de bâtiment. Le lot 13 intitulé “ Equipement de production locale d'électricité ” se compose des installations associées au bâtiment, dédiées à la production d'électricité (panneaux, onduleurs, étanchéité …).
+
+Le coefficient Mided de modulation de Ic construction_max selon l'impact des données environnementales par défaut et valeurs forfaitaires (Ic ded) dans l'évaluation du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Valeur de Ic ded
+
+|
+
+Mided |
+
+Année à laquelle la demande de permis de construire ou la déclaration préalable est déposée : |
+
+Années 2025 à 2027 |
+
+A partir de l'année 2028 |
+
+Si Ic ded ≤ 480 kg éq. CO2/ m2
+
+|
+
+0 |
+
+0 |
+
+Si Ic ded > 480 kg éq. CO2/ m2
+
+|
+
+0 |
+
+-0,3 × (Ic ded-480) |
+
+;
+
+Où Ic ded représente l'impact sur le changement climatique de l'ensemble des composants associés à des données environnementales par défaut ou à des valeurs forfaitaires dans l'évaluation de l'indicateur Ic construction du bâtiment ou de la partie de bâtiment, à l'exception des composants des lots 1,2 et 13 tels que définis précédemment.
+
 IV.-Valeurs de DH_maxcat
 
 1. Maisons individuelles ou accolées
@@ -2767,6 +10199,522 @@ DH_maxcat |
 1800 |
 
 2200 |
+
+6. Médiathèques et bibliothèques
+
+La valeur DH_maxcat prend les valeurs suivantes, en fonction de la catégorie de contraintes extérieures, de la zone climatique et du caractère climatisé ou non de la partie de bâtiment :
+
+|
+
+Catégorie 1, sauf parties de bâtiments climatisées en zones H2d et H3 |
+
+Catégorie 1 climatisé, en zone H2d et H3 |
+
+Catégorie 2 |
+
+Catégorie 3 |
+
+DH_maxcat |
+
+900 |
+
+2200 |
+
+2400 |
+
+Pas de seuil |
+
+;
+
+7. Bâtiments universitaires d'enseignement et de recherche et bâtiments d'enseignements atypiques
+
+La valeur DH_maxcat prend les valeurs suivantes, en fonction de la catégorie de contraintes extérieures, de la zone climatique et du caractère climatisé ou non de la partie de bâtiment :
+
+|
+
+Catégorie 1, sauf parties de bâtiments climatisées en zones H2d et H3 |
+
+Catégorie 1 climatisé, en zone H2d et H3 |
+
+Catégorie 2 |
+
+Catégorie 3 |
+
+DH_maxcat |
+
+900 |
+
+2200 |
+
+2400 |
+
+Pas de seuil |
+
+;
+
+8. et 9. Hôtels 0,1 et 2 étoiles (partie nuit) et hôtels 3,4 et 5 étoiles (partie nuit)
+
+La valeur DH_maxcat prend les valeurs suivantes, en fonction de la catégorie de contraintes extérieures, de la zone climatique et du caractère climatisé ou non de la partie de bâtiment :
+
+|
+
+Catégorie 1, sauf parties de bâtiments climatisées en zones H2d et H3 |
+
+Catégorie 1 climatisé, en zone H2d et H3 |
+
+Catégorie 2 |
+
+Catégorie 3 |
+
+DH_maxcat |
+
+300 |
+
+700 |
+
+1000 |
+
+Pas de seuil |
+
+;
+
+10. et 11. Hôtels 0,1 et 2 étoiles (partie jour) et hôtels 3,4 et 5 étoiles (partie jour)
+
+La valeur DH_maxcat prend les valeurs suivantes, en fonction de la catégorie de contraintes extérieures, de la zone climatique et du caractère climatisé ou non de la partie de bâtiment :
+
+|
+
+Catégorie 1, sauf parties de bâtiments climatisées en zones H2d et H3 |
+
+Catégorie 1 climatisé, en zone H2d et H3 |
+
+Catégorie 2 |
+
+Catégorie 3 |
+
+DH_maxcat |
+
+1300 |
+
+3300 |
+
+3400 |
+
+Pas de seuil |
+
+;
+
+12. Etablissements d'accueil de la petite enfance
+
+La valeur DH_maxcat prend les valeurs suivantes, en fonction de la catégorie de contraintes extérieures, de la zone climatique et du caractère climatisé ou non de la partie de bâtiment :
+
+|
+
+Catégorie 1, sauf parties de bâtiments climatisées en zones H2d et H3 |
+
+Catégorie 1 climatisé, en zone H2d et H3 |
+
+Catégorie 2 |
+
+Catégorie 3 |
+
+DH_maxcat |
+
+550 |
+
+1600 |
+
+1600 |
+
+Pas de seuil |
+
+;
+
+13. Restaurants-en continu, 18 heures par jour, 7 jours sur 7
+
+La valeur DH_maxcat prend les valeurs suivantes, en fonction de la catégorie de contraintes extérieures, de la zone climatique et du caractère climatisé ou non de la partie de bâtiment :
+
+|
+
+Catégorie 1, sauf parties de bâtiments climatisées en zones H2d et H3 |
+
+Catégorie 1 climatisé, en zone H2d et H3 |
+
+Catégorie 2 |
+
+Catégorie 3 |
+
+DH_maxcat |
+
+2500 |
+
+5000 |
+
+5000 |
+
+Pas de seuil |
+
+;
+
+14. Restaurants-1 repas par jour, 5 jours sur 7
+
+La valeur DH_maxcat prend les valeurs suivantes, en fonction de la catégorie de contraintes extérieures, de la zone climatique et du caractère climatisé ou non de la partie de bâtiment :
+
+|
+
+Catégorie 1, sauf parties de bâtiments climatisées en zones H2d et H3 |
+
+Catégorie 1 climatisé, en zone H2d et H3 |
+
+Catégorie 2 |
+
+Catégorie 3 |
+
+DH_maxcat |
+
+250 |
+
+650 |
+
+650 |
+
+Pas de seuil |
+
+;
+
+15. Restaurants-2 repas par jour, 7 jours sur 7
+
+La valeur DH_maxcat prend les valeurs suivantes, en fonction de la catégorie de contraintes extérieures, de la zone climatique et du caractère climatisé ou non de la partie de bâtiment :
+
+|
+
+Catégorie 1, sauf parties de bâtiments climatisées en zones H2d et H3 |
+
+Catégorie 1 climatisé, en zone H2d et H3 |
+
+Catégorie 2 |
+
+Catégorie 3 |
+
+DH_maxcat |
+
+1600 |
+
+3500 |
+
+3500 |
+
+Pas de seuil |
+
+;
+
+16. Restaurants-2 repas par jour, 6 jours sur 7
+
+La valeur DH_maxcat prend les valeurs suivantes, en fonction de la catégorie de contraintes extérieures, de la zone climatique et du caractère climatisé ou non de la partie de bâtiment :
+
+|
+
+Catégorie 1, sauf parties de bâtiments climatisées en zones H2d et H3 |
+
+Catégorie 1 climatisé, en zone H2d et H3 |
+
+Catégorie 2 |
+
+Catégorie 3 |
+
+DH_maxcat |
+
+1250 |
+
+2500 |
+
+2500 |
+
+Pas de seuil |
+
+;
+
+17. Commerces
+
+La valeur DH_maxcat prend les valeurs suivantes, en fonction de la catégorie de contraintes extérieures, de la zone climatique et du caractère climatisé ou non de la partie de bâtiment :
+
+|
+
+Catégorie 1, sauf parties de bâtiments climatisées en zones H2d et H3 |
+
+Catégorie 1 climatisé, en zone H2d et H3 |
+
+Catégorie 2 |
+
+Catégorie 3 |
+
+DH_maxcat |
+
+3300 |
+
+8000 |
+
+9500 |
+
+Pas de seuil |
+
+;
+
+18. Vestiaires seuls
+
+La valeur DH_maxcat prend les valeurs suivantes, en fonction de la catégorie de contraintes extérieures, de la zone climatique et du caractère climatisé ou non de la partie de bâtiment :
+
+|
+
+Catégorie 1, sauf parties de bâtiments climatisées en zones H2d et H3 |
+
+Catégorie 1 climatisé, en zone H2d et H3 |
+
+Catégorie 2 |
+
+DH_maxcat |
+
+1000 |
+
+2200 |
+
+2200 |
+
+;
+
+19. Etablissements sanitaires avec hébergement
+
+La valeur DH_maxcat prend les valeurs suivantes, en fonction de la catégorie de contraintes extérieures, de la zone climatique et du caractère climatisé ou non de la partie de bâtiment :
+
+|
+
+Catégorie 1, sauf parties de bâtiments climatisées en zones H2d et H3 |
+
+Catégorie 1 climatisé, en zone H2d et H3 |
+
+Catégorie 2 |
+
+DH_maxcat |
+
+900 |
+
+2400 |
+
+2600 |
+
+;
+
+20. Etablissements de santé (partie nuit)
+
+La valeur DH_maxcat prend les valeurs suivantes, en fonction de la catégorie de contraintes extérieures, de la zone climatique et du caractère climatisé ou non de la partie de bâtiment :
+
+|
+
+Catégorie 1, sauf parties de bâtiments climatisées en zones H2d et H3 |
+
+Catégorie 1 climatisé, en zone H2d et H3 |
+
+Catégorie 2 |
+
+DH_maxcat |
+
+900 |
+
+2400 |
+
+2600 |
+
+;
+
+21. Etablissements de santé (partie jour)
+
+La valeur DH_maxcat prend les valeurs suivantes, en fonction de la catégorie de contraintes extérieures, de la zone climatique et du caractère climatisé ou non de la partie de bâtiment :
+
+|
+
+Catégorie 1, sauf parties de bâtiments climatisées en zones H2d et H3 |
+
+Catégorie 1 climatisé, en zone H2d et H3 |
+
+Catégorie 2 |
+
+Catégorie 3 |
+
+DH_maxcat |
+
+1250 |
+
+3000 |
+
+3300 |
+
+Pas de seuil |
+
+;
+
+22. Aérogares
+
+La valeur DH_maxcat prend les valeurs suivantes, en fonction de la catégorie de contraintes extérieures, de la zone climatique et du caractère climatisé ou non de la partie de bâtiment :
+
+|
+
+Catégorie 1, sauf parties de bâtiments climatisées en zones H2d et H3 |
+
+Catégorie 1 climatisé, en zone H2d et H3 |
+
+Catégorie 2 |
+
+Catégorie 3 |
+
+DH_maxcat |
+
+12 100 |
+
+21 500 |
+
+21 500 |
+
+Pas de seuil |
+
+;
+
+23. Industries ou artisanats 3x8h
+
+La valeur DH_maxcat prend les valeurs suivantes, en fonction de la catégorie de contraintes extérieures, de la zone climatique et du caractère climatisé ou non de la partie de bâtiment :
+
+|
+
+Catégorie 1, sauf parties de bâtiments climatisées en zones H2d et H3 |
+
+Catégorie 1 climatisé, en zone H2d et H3 |
+
+Catégorie 2 |
+
+DH_maxcat |
+
+3200 |
+
+8000 |
+
+8000 |
+
+;
+
+24. Industries ou artisanats 8 heures à 18 heures
+
+La valeur DH_maxcat prend les valeurs suivantes, en fonction de la catégorie de contraintes extérieures, de la zone climatique et du caractère climatisé ou non de la partie de bâtiment :
+
+|
+
+Catégorie 1, sauf parties de bâtiments climatisées en zones H2d et H3 |
+
+Catégorie 1 climatisé, en zone H2d et H3 |
+
+Catégorie 2 |
+
+DH_maxcat |
+
+900 |
+
+2200 |
+
+2200 |
+
+;
+
+25. Etablissements sportifs municipaux ou scolaires
+
+La valeur DH_maxcat prend les valeurs suivantes, en fonction de la catégorie de contraintes extérieures, de la zone climatique et du caractère climatisé ou non de la partie de bâtiment :
+
+|
+
+Catégorie 1, sauf parties de bâtiments climatisées en zones H2d et H3 |
+
+Catégorie 1 climatisé, en zone H2d et H3 |
+
+Catégorie 2 |
+
+DH_maxcat |
+
+2000 |
+
+4600 |
+
+5000 |
+
+;
+
+26. Restaurants scolaires-1 repas par jour, 5 jours sur 7
+
+La valeur DH_maxcat prend les valeurs suivantes, en fonction de la catégorie de contraintes extérieures, de la zone climatique et du caractère climatisé ou non de la partie de bâtiment :
+
+|
+
+Catégorie 1, sauf parties de bâtiments climatisées en zones H2d et H3 |
+
+Catégorie 1 climatisé, en zone H2d et H3 |
+
+Catégorie 2 |
+
+Catégorie 3 |
+
+DH_maxcat |
+
+40 |
+
+170 |
+
+170 |
+
+Pas de seuil |
+
+;
+
+27. Restaurants scolaires-3 repas par jour, 5 jours sur 7
+
+La valeur DH_maxcat prend les valeurs suivantes, en fonction de la catégorie de contraintes extérieures, de la zone climatique et du caractère climatisé ou non de la partie de bâtiment :
+
+|
+
+Catégorie 1, sauf parties de bâtiments climatisées en zones H2d et H3 |
+
+Catégorie 1 climatisé, en zone H2d et H3 |
+
+Catégorie 2 |
+
+Catégorie 3 |
+
+DH_maxcat |
+
+260 |
+
+650 |
+
+650 |
+
+Pas de seuil |
+
+;
+
+28. Etablissements sportifs privés
+
+La valeur DH_maxcat prend les valeurs suivantes, en fonction de la catégorie de contraintes extérieures, de la zone climatique et du caractère climatisé ou non de la partie de bâtiment :
+
+|
+
+Catégorie 1, sauf parties de bâtiments climatisées en zones H2d et H3 |
+
+Catégorie 1 climatisé, en zone H2d et H3 |
+
+Catégorie 2 |
+
+DH_maxcat |
+
+2000 |
+
+4600 |
+
+5000 |
 
 Chapitre IV : Définition des zones climatiques
 
@@ -3562,9 +11510,9 @@ La détermination des classes d'exposition au bruit (BR1, BR2, BR3) s'effectue e
 
 La détermination des classes d'exposition au bruit s'effectue baie par baie selon les modalités et conventions suivantes définies au 3 ci-après. La détermination de la classe d'exposition au bruit d'une partie de bâtiment est réalisée, à partir des classes d'exposition au bruit de ses baies, selon les modalités définies au 4 ci-après.
 
-1. Définition d'un obstacle &laquo; très protecteur &raquo; et &laquo; peu protecteur &raquo; à l'exposition au bruit
+1. Définition d'un obstacle très protecteur et peu protecteur à l'exposition au bruit
 
-Un obstacle à l'exposition est un masque à la propagation du bruit (bâtiment, écran acoustique, butte de terre …). Un obstacle est &laquo; très protecteur &raquo; s'il est situé à une altitude supérieure ou égale à celle de l'étage exposé considéré. Un obstacle est &laquo; peu protecteur &raquo; s'il est situé à une altitude inférieure à celle de l'étage considéré tout en constituant un masque visuel de l'infrastructure.
+Un obstacle à l'exposition est un masque à la propagation du bruit (bâtiment, écran acoustique, butte de terre …). Un obstacle est très protecteur s'il est situé à une altitude supérieure ou égale à celle de l'étage exposé considéré. Un obstacle est peu protecteur s'il est situé à une altitude inférieure à celle de l'étage considéré tout en constituant un masque visuel de l'infrastructure.
 
 Lorsque l'obstacle est à plus de 250 mètres de la baie considérée et pour tenir compte de l'effet de courbure de la propagation du bruit (inversion thermique nocturne), on ajoute 10 mètres à l'altitude minimale nécessaire à la prise en compte de l'obstacle pour les locaux à usage d'habitation.
 
@@ -3576,7 +11524,7 @@ La vue de l'infrastructure depuis une baie est définie comme suit :
 
 -une vue partielle s'entend pour une vue horizontale de l'infrastructure inférieure à 90 degrés, après déduction des obstacles très protecteurs à l'exposition ;
 
--il y a une vue masquée de l'infrastructure lorsque l'infrastructure ne peut pas être vue, en tenant compte des obstacles à l'exposition, depuis la baie. Ces obstacles peuvent être &laquo; très protecteurs &raquo; ou &laquo; peu protecteurs &raquo; au sens de la définition donnée d'un obstacle &laquo; très protecteur &raquo; et &laquo; peu protecteur &raquo; à l'exposition ;
+-il y a une vue masquée de l'infrastructure lorsque l'infrastructure ne peut pas être vue, en tenant compte des obstacles à l'exposition, depuis la baie. Ces obstacles peuvent être très protecteurs ou peu protecteurs au sens de la définition donnée d'un obstacle très protecteur et peu protecteur à l'exposition ;
 
 -une vue arrière s'entend pour la façade arrière du bâtiment par rapport à l'infrastructure.
 
@@ -4052,9 +12000,9 @@ Elle est de catégorie 1 dans les autres cas.
 
 Un local est de catégorie 3 si :
 
--cumulativement, il est muni d'un système de climatisation, il est situé dans une zone à usage de bureaux et les règles d'hygiène et de sécurité interdisent l'ouverture de toutes les baies du local donnant sur l'extérieur ;
+- cumulativement, il est muni d'un système de climatisation, il est situé dans une zone à usage de bureaux ou hôtels ou restaurants ou commerces ou établissements d'accueil de la petite enfance ou bâtiments universitaires d'enseignement et de recherche ou médiathèques et bibliothèques ou bâtiments d'enseignements atypiques ou établissement de santé (partie jour) et les règles d'hygiène et de sécurité interdisent l'ouverture de toutes les baies du local donnant sur l'extérieur ;
 
--ou si, cumulativement, il est muni d'un système de climatisation, il est situé dans une zone à usage de bureaux et il est situé dans un immeuble de grande hauteur, au sens de l'article R. 146-3 du code de la construction et de l'habitation.
+- ou si, cumulativement, il est muni d'un système de climatisation, il est situé dans une zone à usage de bureaux ou hôtels ou restaurants ou commerces ou établissements d'accueil de la petite enfance ou bâtiments universitaires d'enseignement et de recherche ou médiathèques et bibliothèques ou bâtiments d'enseignements atypiques, et il est situé dans un immeuble de grande hauteur, au sens de l'article R. 146-3 du code de la construction et de l'habitation.
 
 Un local est de catégorie 2 s'il n'est pas de catégorie 3 et si, cumulativement :
 
@@ -4069,3 +12017,7 @@ Un local est de catégorie 1 dans les autres cas.
 Chapitre VI : Définition des composants
 
 Pour l'application du 4° de l'article R. 172-4, le mot : “ composants ” regroupe les “ produits de construction ”, “ produits de décoration ” et “ équipements électriques, électroniques et de génie climatique ”, au sens de l'article R. 171-15.
+
+NOTA :
+
+Conformément à l'article 6 du décret n° 2026-16 du 15 janvier 2026, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 1er mai 2026.
