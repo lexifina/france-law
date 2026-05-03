@@ -4,21 +4,17 @@ DÉSIGNATION DE L'EMPLOI |
 
 NIVEAU
 
-de responsabilité
-
-exercé |
+de responsabilité exercé |
 
 NOMBRE
 
-de points
+de points par emploi |
 
-par emploi |
+NOMBRE
 
-NOMBRE d'emplois concernés |
+d'emplois concernés |
 
-I.-Administration centrale
-
-|
+I. - Administration centrale |
 
 |
 
@@ -26,7 +22,7 @@ I.-Administration centrale
 
 |
 
-1. Emploi lié à l'informatique et aux nouvelles technologies
+1. Emploi lié à l'informatique et aux nouvelles technologies |
 
 |
 
@@ -34,11 +30,7 @@ I.-Administration centrale
 
 |
 
-|
-
-Chargé de communication interne et institutionnelle
-
-|
+Chargé de communication interne et institutionnelle |
 
 A ou B |
 
@@ -46,7 +38,7 @@ A ou B |
 
 1 |
 
-2. Secrétariat comportant des contraintes particulières en matière d'horaires
+2. Secrétariat comportant des contraintes particulières en matière d'horaires |
 
 |
 
@@ -54,11 +46,7 @@ A ou B |
 
 |
 
-|
-
-Assistante de direction
-
-|
+Assistante de direction |
 
 B ou C |
 
@@ -66,9 +54,7 @@ B ou C |
 
 2 |
 
-Assistante de direction
-
-|
+Assistante de direction |
 
 B ou C |
 
@@ -76,9 +62,7 @@ B ou C |
 
 4 |
 
-Assistante de direction DG et DGA
-
-|
+Assistante de direction DG et DGA |
 
 B ou C |
 
@@ -86,9 +70,7 @@ B ou C |
 
 2 |
 
-Secrétaire assistant
-
-|
+Secrétaire assistant |
 
 B ou C |
 
@@ -96,7 +78,7 @@ B ou C |
 
 2 |
 
-3. Responsabilité d'encadrement
+3. Responsabilité d'encadrement |
 
 |
 
@@ -104,11 +86,7 @@ B ou C |
 
 |
 
-|
-
-Adjoint au chef du bureau du cabinet
-
-|
+Adjoint au directeur de cabinet |
 
 A |
 
@@ -116,9 +94,7 @@ A |
 
 1 |
 
-Adjoint au directeur de cabinet
-
-|
+Chef du bureau du cabinet ministériel |
 
 A |
 
@@ -126,19 +102,7 @@ A |
 
 1 |
 
-Chef du bureau du cabinet
-
-|
-
-A |
-
-20 |
-
-1 |
-
-Responsable de l'action sociale
-
-|
+Responsable de l'action sociale |
 
 B |
 
@@ -146,9 +110,7 @@ B |
 
 1 |
 
-Adjoint au chef de bureau des ressources et de la coordination, chef de la section RH-GPEEC
-
-|
+Adjoint au chef de bureau des ressources et de la coordination, chef de la section RH-GPEEC |
 
 A |
 
@@ -156,9 +118,7 @@ A |
 
 1 |
 
-Adjoint au chef du bureau de la vie économique, de l'emploi et de la formation
-
-|
+Adjoint au chef du bureau de la vie économique, de l'emploi et de la formation |
 
 A |
 
@@ -166,9 +126,7 @@ A |
 
 1 |
 
-Adjoint au chef du bureau du droit privé, et du droit des activités économiques et sociales
-
-|
+Adjoint au chef du bureau du droit privé, et du droit des activités économiques et sociales |
 
 A |
 
@@ -176,9 +134,7 @@ A |
 
 1 |
 
-Chef de la mission du droit européen et international
-
-|
+Chef de la mission du droit européen et international |
 
 A |
 
@@ -186,7 +142,7 @@ A |
 
 1 |
 
-4. Emploi impliquant une technicité particulière ou une responsabilité particulière
+4. Emploi impliquant une technicité particulière ou une responsabilité particulière |
 
 |
 
@@ -194,11 +150,7 @@ A |
 
 |
 
-|
-
-Chef de la section logistique, déplacements, finances
-
-|
+Chef de la section logistique, déplacements, finances du cabinet ministériel |
 
 A |
 
@@ -206,19 +158,23 @@ A |
 
 1 |
 
-Chef de la section des ressources humaines, responsable référent unique AEL
-
-|
+Chef de la section des ressources humaines, responsable référent unique AEL du cabinet ministériel |
 
 A |
+
+20 |
+
+1 |
+
+Adjoint au chef de la section des ressources humaines, responsable référent unique AEL du cabinet ministériel |
+
+A ou B |
 
 10 |
 
 1 |
 
-Agent responsable de la section solde
-
-|
+Agent responsable de la section solde |
 
 B |
 
@@ -226,9 +182,7 @@ B |
 
 1 |
 
-Gestionnaire de la mission outre-mer
-
-|
+Gestionnaire de la mission outre-mer |
 
 B ou C |
 
@@ -236,9 +190,7 @@ B ou C |
 
 2 |
 
-Gestionnaire des ressources budgétaires et logistiques
-
-|
+Gestionnaire des ressources budgétaires et logistiques |
 
 B |
 
@@ -246,9 +198,7 @@ B |
 
 1 |
 
-Gestionnaire des ressources budgétaires
-
-|
+Gestionnaire des ressources budgétaires |
 
 B ou C |
 
@@ -256,9 +206,7 @@ B ou C |
 
 1 |
 
-Secrétaire assistant
-
-|
+Secrétaire assistant |
 
 C |
 
@@ -266,9 +214,7 @@ C |
 
 1 |
 
-Assistant de gestion au bureau de la cohésion sociale, de la santé et de l'enseignement
-
-|
+Assistant de gestion au bureau de la cohésion sociale, de la santé et de l'enseignement |
 
 B |
 
@@ -276,9 +222,7 @@ B |
 
 1 |
 
-Chargé de mission sécurité civile
-
-|
+Chargé de mission sécurité civile |
 
 A |
 
@@ -286,9 +230,7 @@ A |
 
 1 |
 
-Gestionnaire ressources humaines
-
-|
+Gestionnaire ressources humaines |
 
 B ou C |
 
@@ -296,9 +238,7 @@ B ou C |
 
 1 |
 
-Chef de la section du budget et de la logistique
-
-|
+Chef de la section du budget et de la logistique |
 
 A |
 
@@ -306,9 +246,7 @@ A |
 
 1 |
 
-Adjoint au chef du bureau de la dépense de l'Etat, chef de la section budgétaire
-
-|
+Adjoint au chef du bureau des finances et de la performance des outre-mer |
 
 A |
 
@@ -316,9 +254,7 @@ A |
 
 1 |
 
-Adjoint au chef du bureau chargé de la mission juriste
-
-|
+Adjoint au chef du bureau chargé de la mission juriste |
 
 A |
 
@@ -326,9 +262,7 @@ A |
 
 1 |
 
-Assistant de gestion défiscalisation
-
-|
+Assistant de gestion défiscalisation |
 
 C |
 
@@ -336,9 +270,7 @@ C |
 
 1 |
 
-Assistant de gestion politique régionale
-
-|
+Assistant de gestion politique régionale |
 
 C |
 
@@ -346,7 +278,7 @@ C |
 
 1 |
 
-II.-Services déconcentrés |
+II.-Services déconcentrés
 
 |
 
@@ -354,7 +286,11 @@ II.-Services déconcentrés |
 
 |
 
-1. Polynésie française |
+|
+
+1. Polynésie française
+
+|
 
 |
 
@@ -364,133 +300,157 @@ II.-Services déconcentrés |
 
 Adjoint au directeur de cabinet du haut-commissaire, chef du bureau du cabinet
 
-Adjoint au chef de la subdivision administrative des Iles Marquises
+|
 
-Directeur de la réglementation et des affaires juridiques
+A |
 
-Directeur des interventions de l'Etat
-
-Directeur de l'ingénierie publique
-
-Chef du bureau de la communication interministérielle
-
-Chef du bureau des ressources humaines et des traitements
-
-Responsable du pôle des relations avec les usagers
-
-Chef de la mission de la stratégie et de l'évaluation
-
-Chef du centre de services partagés interministériel Chorus
-
-Chef du bureau de l'aide à la mobilité et à l'insertion
-
-Adjoint au chef du bureau de l'aide à la mobilité et à l'insertion
-
-Responsable de la section protocole, expulsions et chancellerie
-
-Secrétaire général des subdivisions administratives des îles du Vent et des îles sous-le-Vent
-
-Adjoint à la subdivision administrative des îles Tuamotu-Gambier
-
-Adjoint à la subdivision administrative des îles Australes |
-
-A
-
-A
-
-A
-
-A
-
-A
-
-A
-
-A
-
-B
-
-A
-
-A
-
-A
-
-B
-
-B
-
-A
-
-B
-
-B |
-
-20
-
-10
-
-30
-
-30
-
-30
-
-20
-
-20
-
-10
-
-20
-
-10
-
-10
-
-10
-
-20
-
-20
-
-10
-
-10 |
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
+20 |
 
 1 |
 
-2. Nouvelle-Calédonie |
+Adjoint au chef de la subdivision administrative des Iles Marquises
+
+|
+
+A |
+
+10 |
+
+1 |
+
+Directeur de la réglementation et des affaires juridiques
+
+|
+
+A |
+
+20 |
+
+1 |
+
+Directeur des interventions de l'Etat
+
+|
+
+A |
+
+10 |
+
+1 |
+
+Directeur de l'ingénierie publique
+
+|
+
+A |
+
+30 |
+
+1 |
+
+Chef du bureau des ressources humaines et des traitements
+
+|
+
+A |
+
+30 |
+
+1 |
+
+Responsable du pôle des relations avec les usagers
+
+|
+
+A |
+
+20 |
+
+1 |
+
+Chef de la mission de la stratégie et de l'évaluation
+
+|
+
+A |
+
+20 |
+
+1 |
+
+Chef du centre de services partagés interministériel Chorus
+
+|
+
+B |
+
+10 |
+
+1 |
+
+Chef du bureau de l'aide à la mobilité et à l'insertion
+
+|
+
+A |
+
+20 |
+
+1 |
+
+Adjoint au chef du bureau de l'aide à la mobilité et à l'insertion
+
+|
+
+A |
+
+10 |
+
+1 |
+
+Responsable de la section protocole, expulsions et chancellerie
+
+|
+
+A |
+
+10 |
+
+1 |
+
+Secrétaire général des subdivisions administratives des îles du Vent et des îles sous-le-Vent
+
+|
+
+B |
+
+10 |
+
+1 |
+
+Adjoint à la subdivision administrative des îles Tuamotu-Gambier
+
+|
+
+B |
+
+20 |
+
+1 |
+
+Adjoint à la subdivision administrative des îles Australes
+
+|
+
+B |
+
+10 |
+
+1 |
+
+2. Nouvelle-Calédonie
+
+|
 
 |
 
@@ -618,7 +578,9 @@ B |
 
 1 |
 
-3. Wallis et Futuna |
+3. Wallis et Futuna
+
+|
 
 |
 
@@ -628,29 +590,37 @@ B |
 
 Délégué de Futuna
 
-Technicien SIC, adjoint au chef du SIC
-
-Adjoint au délégué de la circonscription d'Uvéa |
-
-A
-
-B
+|
 
 A |
 
-20
-
-10
-
 20 |
-
-1
-
-1
 
 1 |
 
-4. Terres australes et antarctiques françaises |
+Technicien SIC, adjoint au chef du SIC
+
+|
+
+B |
+
+10 |
+
+1 |
+
+Adjoint au délégué de la circonscription d'Uvéa
+
+|
+
+A |
+
+20 |
+
+1 |
+
+4. Terres australes et antarctiques françaises
+
+|
 
 |
 
@@ -660,16 +630,20 @@ A |
 
 Directeur des pêches et des questions maritimes
 
-Directeur des affaires administratives et financières |
-
-A
+|
 
 A |
 
-20
-
 20 |
 
-1
+1 |
+
+Directeur des affaires administratives et financières
+
+|
+
+A |
+
+20 |
 
 1 |
