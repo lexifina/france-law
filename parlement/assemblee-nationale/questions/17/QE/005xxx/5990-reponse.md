@@ -1,0 +1,9 @@
+# Réponse à la question n° 5990
+
+- Question : [5990](5990.md) — Question n° 5990 — Distributeurs de pizza
+
+## Réponse
+
+*JO du 2026-05-05, page 3960*
+
+Le phénomène d'évolution croissante du nombre de distributeurs automatiques en France ainsi que sur son fréquent corollaire, à savoir les nuisances sonores liées, est bien identifié par les services de l'État. Concernant les règles qui régissent l'implantation de ces distributeurs, en vertu de l'article L. 2122-21 du code général des collectivités territoriales (CGCT), le maire détient la compétence exclusive pour délivrer une autorisation d'occupation temporaire du domaine public. La jurisprudence du Conseil d'État (CE, 21 décembre 2023, commune de Clomot, n° 471189) renforce cette position en précisant que le maire est seul compétent pour délivrer, retirer ou abroger ces autorisations. Toutefois, la majorité des distributeurs automatiques de denrées alimentaires n'est effectivement pas soumise au dépôt d'un permis de construire ou d'une demande d'occupation temporaire du domaine public auprès des mairies concernées, du fait d'une surface de plancher inférieure à 5 m2, sauf si la zone est protégée, classée (Bâtiment de France) et si elle s'effectue dans une zone non destinée au commerce telle que définie dans le plan local d'urbanisme (PLU). Un certain nombre de municipalités ont pris des arrêtés interdisant ou limitant ces équipements autonomes sur leurs territoires mais les premières décisions du tribunal administratif ont donné lieu à la suspension de ces arrêtés au motif d'une atteinte à la liberté du commerce et de l'industrie. Enfin, il relève de la compétence du maire d'encadrer la tranquillité publique si des nuisances venaient à être caractérisées (bruits, trouble du voisinage, stationnement) (Article L 2212-2 du CGCT).
