@@ -1,0 +1,9 @@
+# Réponse à la question n° 10684
+
+- Question : [10684](10684.md) — Question n° 10684 — Financement et continuité des missions du réseau des CCI
+
+## Réponse
+
+*JO du 2026-05-05, page 3966*
+
+Afin de préserver la capacité d'intervention des chambres de commerce et d'industrie (CCI), le Gouvernement a donné un avis favorable en nouvelle lecture en application de l'article 49, alinéa 3, de la constitution à une baisse de 20 millions d'euros du plafond de taxes affectées au profit du réseau des chambres de commerce, contre 175 millions d'euros dans le texte initial du projet de loi de finances pour 2026. Cette baisse de 20 millions d'euros se substitue aux 20 millions d'euros, de prélèvement exceptionnel sur fonds de roulement, initialement amendé à la fois par les parlementaires et le Gouvernement avant l'engagement par le Gouvernement de l'article 49, alinéa 3, de la constitution. Jusqu'à maintenant, afin de préserver la capacité d'intervention des chambres de commerce et d'industrie, les lois de finances pour 2024 et 2025 avaient maintenu à hauteur de 525 millions d'euros le plafond de la taxe pour frais de chambres affecté à CCI France. Les baisses de financement prévues par le Gouvernement dans les projets de loi de finances 2024 et 2025 ont été remplacées, par les parlementaires, par des prélèvements exceptionnels sur fonds de roulement, respectivement de 40 millions d'euros et de 20 millions d'euros. Ces prélèvements ont été répartis par CCI France en fonction de la situation financière des CCI et de leur capacité contributrice. Par ailleurs, en contrepartie du maintien du montant de sa ressource fiscale en 2024, 2025 et du non prélèvement exceptionnel sur fonds de roulement en Loi de Finances initial 2026, le réseau des CCI s'est engagé à poursuivre sa réorganisation interne et à renforcer sa mobilisation dans l'accompagnement des entreprises, selon les axes prioritaires fixés par le Gouvernement.
