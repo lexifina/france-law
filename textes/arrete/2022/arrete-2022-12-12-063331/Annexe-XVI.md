@@ -86,7 +86,13 @@ S'agissant des informations mentionnées au 3° de l'article L. 541-10-15 :
 
 -le public autorisé : professionnels et/ ou particuliers.
 
-III. - Informations complémentaires relatives aux emballages mis sur le marché à transmettre à l'Agence
+III. - Informations complémentaires relatives aux données financières
+
+a) Le montant des contributions ventilées par catégorie et famille de PMCB ;
+
+b) Le montant des soutiens et dépenses ventilées par catégorie et famille de PMCB.
+
+IV. - Informations complémentaires relatives aux emballages mis sur le marché à transmettre à l'Agence
 
 Pour les produits relevant de la famille 2c, la quantité d'emballages mise sur le marché, exprimée en UV d'une part et en tonne par matériau d'autre part, en distinguant :
 

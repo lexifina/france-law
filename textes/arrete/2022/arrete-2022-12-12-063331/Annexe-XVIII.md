@@ -116,6 +116,10 @@ Avion, hélicoptère, autre hors catégories de pneumatiques définies ci-dessus
 
 -autre (circuit de motocross …).
 
+“Granulat” : particules de caoutchouc dérivées de pneus usagés non réutilisables (PUNR) typiquement de taille comprise entre 0,8 mm et 20 mm, obtenues par un procédé de granulation.
+
+“Procédé de granulation” : opérations successives de broyage, d'écrasement, de fragmentation, de tri et de tamisage des pneus usagés non réutilisables (PUNR) ayant pour but de séparer les renforts textiles et métalliques de la matrice en caoutchouc ;
+
 I.-Informations complémentaires par producteur relatives aux produits mis sur le marché à transmettre à l'Agence
 
 a) La quantité de pneumatiques (hors pneumatiques pleins) mis sur le marché, exprimée en tonne et en unité, ventilée par catégorie, en précisant le statut de producteur ;
@@ -134,15 +138,17 @@ a) Les données relatives à la collecte et à la gestion des déchets
 
 (ii) La quantité des pneumatiques usagés relevant de la catégorie PL ayant fait l'objet d'une opération de rechapage, exprimée en tonne, en distinguant la quantité de ces pneumatiques, exprimée en tonne, ayant été rechapés dans le cadre d'une opération dite nominative ou d'échange standard.
 
+(iii) Pour les pneumatiques usagés traités par des installations de granulation, une estimation de la quote-part des granulats de caoutchouc utilisés dans le remplissage des terrains de sport synthétiques.
+
 La première période de transmission des informations relatives à la collecte et à la gestion des pneumatiques pleins intervient en 2026 et concerne les informations relatives à l'année civile 2025 ;
 
 b) Autres données (à transmettre uniquement à l'Agence)
 
-(i) La liste des opérateurs de gestion des déchets enregistrés en application du I de l'article R. 543-139 du code de l'environnement , en distinguant les opérateurs de la réutilisation et ceux du rechapage selon les catégories de pneumatiques.
+(i) La liste des opérateurs de gestion des déchets enregistrés en application du I de l'article R. 543-139 du code de l'environnement, en distinguant les opérateurs de la réutilisation et ceux du rechapage selon les catégories de pneumatiques.
 
 Et, en précisant, pour chacun des opérateurs de gestion des déchets, leur raison sociale et leur numéro de SIRET.
 
-(ii) Le nombre de mandats passés entre l'éco-organisme et une personne morale située dans chacune des collectivités territoriales régies par l'article 73 de la Constitution, à Saint-Martin et à Saint-Pierre-et-Miquelon, en application de l'article R. 543-145 du code de l'environnement .
+(ii) Le nombre de mandats passés entre l'éco-organisme et une personne morale située dans chacune des collectivités territoriales régies par l'article 73 de la Constitution, à Saint-Martin et à Saint-Pierre-et-Miquelon, en application de l'article R. 543-145 du code de l'environnement.
 
 2. Les pneumatiques issus d'opérations d'ensilage
 

@@ -52,9 +52,11 @@ La quantité d'équipements électriques et électroniques mis sur le marché, e
 
 La quantité d'équipements électriques et électroniques mis sur le marché, exprimée en tonne et en unité, par référence aux positions à quatre chiffres du système harmonisé de désignation et de codification des marchandises (code SH4) de la décision n° 87/369/CEE du Conseil du 7 avril 1987 concernant la conclusion de la convention internationale sur le système harmonisé de désignation et de codification des marchandises, ainsi que son protocole d'amendement.
 
+Pour les équipements électriques et électroniques importés préchargés en fluides frigorigènes fluorés, la quantité et la désignation industrielle des fluides couverts par le règlement (UE) 2024/573 du Parlement européen et du Conseil du 7 février 2024 et suivant le format défini par l'autorité administrative.
+
 2. Données relatives à la collecte des déchets à transmettre uniquement à l'Agence
 
-a) La quantité de déchets de piles et accumulateurs portables issus du démantèlement des déchets d'équipements électriques et électroniques, exprimée en tonne, et la quantité de ceux de ces déchets ayant été remis aux éco-organismes de la filière REP des piles et accumulateurs portables ;
+a) La quantité de déchets de batteries portables, de batteries MTL, de batteries SLI et de batteries industrielles issues du démantèlement des déchets d'équipements électriques et électroniques, exprimée en tonne, et la quantité de ceux de ces déchets ayant été remis aux éco-organismes de la filière REP des batteries ;
 
 b) La quantité de téléphones portables collectés par an, exprimée en tonne et unité.
 

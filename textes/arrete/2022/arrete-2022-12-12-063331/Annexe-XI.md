@@ -22,12 +22,6 @@ Pour l'application de l'arrêté et de la présente annexe, les champs applicabl
 
 -Déchèterie
 
--Collecte séparée hors zone de réemploi
-
--Collecte en mélange pour valorisation avec d'autres déchets
-
--Zone de réemploi
-
 -Collecte mobile assurée par le SPGD
 
 -Collecte organisée par ou pour le compte de l'éco-organisme (proximité, évènementiels, autres)

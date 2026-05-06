@@ -50,7 +50,9 @@ a) La quantité de bateaux de plaisance ou de sport usagés traités, exprimée 
 
 -Autre (Etat, etc.)
 
-Et en précisant s'ils sont issus d'une collecte individuelle ou groupée évènementielle et, le cas échéant, s'il s'agit d'un bateau abandonné.
+Et en précisant s'ils sont issus d'une collecte individuelle ou groupée évènementielle et, le cas échéant, s'il s'agit d'un bateau abandonné ou issu de catastrophe naturelle ou accidentelle ;
+
+- si le ou les bateaux ont fait l'objet d'un apport en centre de déconstruction ou s'ils ont été collectés directement sur leur lieu de détention.
 
 b) La quantité de déchets et matières suivants issus du traitement des bateaux de plaisance ou de sport usagés, exprimée en tonne, en précisant le type de traitement pour chacun d'entre eux :
 
@@ -70,10 +72,16 @@ ii) Les déchets d'équipements électriques et électroniques inclus dans le ch
 
 iii) Les déchets d'équipements électrique et électroniques relevant de la filière REP des déchets d'équipements électriques et électroniques
 
-iv) Les déchets de piles et accumulateurs relevant de la filière REP des déchets de piles et accumulateurs ;
+iv) Les déchets de batteries relevant de la filière REP des déchets de piles et accumulateurs ;
 
 v) Les déchets d'articles de sport et de loisirs relevant de la filière REP des déchets d'articles de sport et de loisirs ;
 
 vi) Les déchets de produits pyrotechniques relevant de la catégorie des produits pyrotechniques de la filière REP des déchets des contenus et contenants des produits chimiques pouvant présenter un risque significatif pour la santé et l'environnement ;
 
 vii) Les autres matières ou déchets.
+
+En indiquant pour chaque installation de traitement et jusqu'à l'étape de traitement finale, la raison sociale, le numéro SIRET et le département pour une installation située en France ou le numéro d'identifiant et le pays pour une installation située hors France ainsi que les quantités de déchets traitées par l'installation.
+
+III. - Informations complémentaires par éco-organisme et par système individuel relatives aux données financières :
+
+- le coût total de la collecte et les montants versés au titre de la prise en charge des coûts de transport des déchets de bateaux de plaisance ou de sport, ventilés selon les catégories prévues par le barème de prise en charge en vigueur.

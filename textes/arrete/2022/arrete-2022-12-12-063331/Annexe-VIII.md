@@ -22,14 +22,6 @@ Pour l'application de l'arrêté et de la présente annexe, les champs applicabl
 
 - déchèterie :
 
-- collecte séparée des éléments d'ameublement hors zone de réemploi ;
-
-- collecte conjointe des éléments d'ameublement par matériau, pour traitement, avec d'autres déchets d'éléments, de produits ou de matériaux soumis à REP dans le cadre de l'expérimentation définie au point 3.9 du cahier des charges d'agrément des éco-organismes annexé à l'arrêté du 12 octobre 2023 du portant cahiers des charges d'agrément des éco-organismes, des systèmes individuels et des organismes coordonnateurs de la filière à responsabilité élargie du producteur des éléments d'ameublement ;
-
-- collecte non séparée des éléments d'ameublement, pour valorisation, en mélange avec d'autres déchets non soumis à REP ;
-
-- zone de réemploi ;
-
 - encombrants assurée par le SPGD (collecte en porte-à-porte) ;
 
 - auprès des distributeurs dans le cadre de leur reprise des produits usagés ;
@@ -41,6 +33,8 @@ Pour l'application de l'arrêté et de la présente annexe, les champs applicabl
 - point d'apport volontaire destiné aux détenteurs professionnels ;
 
 - dépôts sauvages ;
+
+- catastrophes naturelles ou accidentelles ;
 
 - autre.
 
