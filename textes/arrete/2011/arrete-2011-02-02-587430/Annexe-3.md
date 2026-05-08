@@ -1,5 +1,7 @@
 # Article Annexe 3
 
+ANNEXE 3
+
 LISTE DES SOCIÉTÉS INSTALLATRICES HABILITÉES POUR L'INSTALLATION ET LE CONTRÔLE DE FONCTIONNEMENT DES APPAREILS RADAR ET DES INDICATEURS DE VITESSE DE GIRATION
 
 |
@@ -8,15 +10,17 @@ SOCIÉTÉ |
 
 ADRESSE |
 
-APPAREILS AGRÉÉS POUR LESQUELS
+APPAREILS AGRÉÉS
 
-LA SOCIÉTÉ REÇOIT L'HABILITATION |
+pour lesquels la société reçoit l'habilitation |
 
 1 |
 
 AEMI |
 
-8, rue des Compagnons, 14000 Caen |
+8, rue des Compagnons
+
+14000 Caen |
 
 Appareils radar :
 
@@ -30,7 +34,9 @@ Simrad |
 
 ALPHATRON MARINE FRANCE |
 
-1710, chemin de la Plaine, 06250 Mougins |
+1710, Chemin de la Plaine
+
+06250 Mougins |
 
 Appareils radar :
 
@@ -66,7 +72,9 @@ Titan 1000 90°/min 300°/min + S300 (e-01-083) |
 
 E-NAUTIC |
 
-12, quai du capitaine-Allègre, 33120 Arcachon |
+12, quai du capitaine Allègre
+
+33120 Arcachon |
 
 Appareils radar :
 
@@ -90,7 +98,9 @@ AlphaTurn (River) MFM / MFL 90°/min, 300°/min + EBF01a (e-01-086) |
 
 ENTCO |
 
-1, impasse des Peupliers, 91160 Saulx-les-Chartreux |
+1, impasse des Peupliers
+
+91160 Saulx-les-Chartreux |
 
 Appareils radar :
 
@@ -116,13 +126,21 @@ EBF 01a/Basicturn (R-4-094) ;
 
 EBF Kombipilot/Alphatron-Basictriple (R-4-095) ;
 
-AlphaTurn (River) MFM / MFL 90°/min, 300°/min + EBF01a (e-01-086) |
+AlphaTurn (River) MFM / MFL 90°/min, 300°/min + EBF01a (e-01-086)
+
+NEXO D-70 (e-04-102)
+
+NEXO D-100 (e-04-103)
+
+NEXO D-57 (e-04-104) |
 
 5 |
 
 HEXA MARINE |
 
-46 Kerolivier, 44410 Saint-Lyphard |
+46 Kerolivier
+
+44410 Saint-Lyphard |
 
 Appareils radar :
 
@@ -142,7 +160,9 @@ AlphaTurn (River) MFM / MFL 90°/min, 300°/min + EBF01a (e-01-086) |
 
 MAP Marine |
 
-1, quai de la Grande-Bigue, bâtiment B, 13002 Marseille |
+1, quai de la Grande Bigue - bât. B
+
+13002 Marseille |
 
 Appareils radar :
 
@@ -156,7 +176,9 @@ Radio Zeeland |
 
 PROMAT SÉCURITÉ |
 
-68, boulevard Jules-Durand, 76056 Le Havre |
+68, boulevard Jules Durand
+
+76056 Le Havre |
 
 Appareils radar :
 
@@ -174,7 +196,9 @@ AlphaTurn (River) MFM / MFL 90°/min 300°/min + EBF01a (e-01-086) |
 
 RADIO HOLLAND FRANCE |
 
-21, rue Paul-Verlaine, 76700 Harfleur |
+21, rue Paul Verlaine
+
+76700 Harfleur |
 
 Appareils radar :
 
@@ -216,7 +240,9 @@ Titan 1000 90°/min 300°/min + S300 (e-01-083) |
 
 SIECMI |
 
-3, quai Est, 29900 Concarneau |
+3, quai Est
+
+29900 Concarneau |
 
 Appareils radar :
 
@@ -230,7 +256,11 @@ Radio Holland ; Radio Zeeland ; Alphatron |
 
 THEMYS |
 
-Quartier de la Chaume, CD 45, pont de l'Etoile, 13360 Roquevaire |
+Quartier de la chaume
+
+CD 45 - pont de l'Etoile
+
+13360 Roquevaire |
 
 Appareils radar :
 
