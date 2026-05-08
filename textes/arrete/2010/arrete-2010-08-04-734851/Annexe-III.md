@@ -192,7 +192,7 @@ L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel. 
 
 Trois officiers supérieurs appartenant respectivement à la direction des opérations et de l'emploi, à la direction des ressources humaines de la gendarmerie nationale et à la direction des soutiens et des finances.
 
-Un officier supérieur de chaque service comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur (cabinet du directeur général de la gendarmerie nationale, service d'information et de relations publiques des armées-gendarmerie, service de la transformation).
+Un officier supérieur de chaque service comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur (cabinet du directeur général de la gendarmerie nationale, service d'information et de relations publiques des armées-gendarmerie, service de la transformation, secrétariat général du conseil de la fonction militaire de la gendarmerie).
 
 Le chef du bureau du personnel sous-officier de gendarmerie et volontaire.
 
@@ -240,25 +240,25 @@ Un officier supérieur de l'unité nationale de police judiciaire désigné par 
 
 BRANCHES |
 
-PRÉSIDENCEde la commission titulaire
+PRÉSIDENCE
 
-|
+de la commission titulaire |
 
-PRÉSIDENCEde la commission suppléante
+PRÉSIDENCE
 
-|
+de la commission suppléante |
 
 MEMBRES |
 
 Aéronautique,
 
-pilotesAéronautique, mécaniciens cellules et moteurs.
+pilotes.
+
+Aéronautique, mécaniciens cellules et moteurs.
 
 Aéronautique, mécaniciens avionique.
 
-Aéronautique, opérateurs aérosurveillance et avitailleurs.
-
-|
+Aéronautique, opérateurs aérosurveillance et avitailleurs. |
 
 Le commandant des forces aériennes de la gendarmerie nationale. |
 
@@ -270,16 +270,10 @@ Affaires immobilières.
 
 Montagne.
 
-Cyber-numérique
-
-|
+Cyber-numérique. |
 
 Le sous-directeur de la gestion du personnel. |
 
 L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel. |
 
 Un officier supérieur de la direction générale de la gendarmerie nationale et un ou plusieurs officiers désignés comme conseillers pour la spécialité considérée désignés tous deux par le directeur des ressources humaines de la gendarmerie nationale. |
-
-NOTA :
-
-Conformément à l'article 4 de l'arrêté du 20 août 2025 (NOR : INTJ2523588A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er septembre 2025.
