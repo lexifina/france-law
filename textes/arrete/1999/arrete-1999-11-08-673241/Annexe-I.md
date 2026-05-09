@@ -1,151 +1,311 @@
-# Article Annexe
+# Article Annexe I
 
-Programme indicatif des épreuves n° 1 et 3 des concours externe et interne, portant notamment sur les sciences de l'information :
+PROGRAMME COMMUN AUX TROIS OPTIONS POUR L'ENSEMBLE DES ÉPREUVES
 
-Histoire moderne et contemporaine depuis 1789 ;
+1. L'organisation de l'Etat, du ministère de la culture et du ministère de l'éducation nationale
 
-Grands faits de société contemporains ;
+L'organisation administrative de la France, compétences respectives de l'Etat et des collectivités territoriales ; organisation administrative des services de l'Etat.
 
-Développement des modes de transmission de l'information. Son rôle dans les sociétés d'aujourd'hui ;
+Les missions et organisation du ministère de la culture et du ministère de l'éducation nationale.
 
-Histoire, principes de déontologie et évolution de la conservation-restauration en France ;
+Le rôle de l'Etat et des collectivités territoriales dans le domaine de la culture et du patrimoine (public et privé).
 
-Le droit de l'information ;
+Les missions et les politiques publiques concernant la filière documentation (documentation, archives, bibliothèques, musées…).
 
-Les droits de la propriété intellectuelle ;
+Le management.
 
-Le droit du patrimoine culturel ;
+2. Culture et patrimoine
 
-Législation en matière de circulation des oeuvres d'art sur le plan international ;
+Histoire du patrimoine.
 
-Les grands champs de compétence des ministères chargés de la culture et de l'éducation nationale.
+Histoire, principes de déontologie et évolution de la conservation-restauration en France.
 
-Programme limitatif de l'épreuve de préadmissibilité du concours externe et des épreuves nos 2 et 4 des concours externe et interne portant sur les techniques documentaires et d'archivistique :
+Les grands principes de la conservation préventive.
 
-1. Notions générales :
+3. La législation culturelle
 
-Le rôle de la documentation et des archives dans le monde d'aujourd'hui ;
+Droit de l'information.
 
-L'organisation documentaire et celle des archives : étude des besoins, choix des objectifs. Problèmes de structure. Etudes des coûts ;
+Droit de la propriété intellectuelle et droit d'auteur.
 
-Réseaux de documentation et des services d'archives ;
+Le règlement général sur la protection des données.
 
-Documentation, archives et information dans les services de l'enseignement et de la culture : définitions, fonctions, caractères principaux, conditions d'exercice ;
+Droits d'accès aux documents administratifs.
 
-Les grands principes de la conservation préventive : identification des acteurs, mise en oeuvre et contrôle des normes internationales de conservation ;
+Droit du patrimoine culturel.
+
+Législation de la circulation des œuvres d'art au national et à l'international.
+
+4. Informations et nouvelles technologies
+
+Développement des modes de transmission de l'information.
+
+Le rôle de l'information dans les sociétés d'aujourd'hui.
 
 Les nouvelles technologies de l'information.
 
-2. Les types de documents :
+Le numérique : normes, gestion des bases de données.
 
-Le document par rapport au support : documents graphiques, documents audiovisuels, photographies, documents objets, supports de substitution aux originaux (microfilm, numérisation) ;
+L'intelligence artificielle.
 
-Le document en tant que support de l'information. Documents primaires (ex. : un article), secondaires (ex. : une synthèse bibliographique) ;
+PROGRAMMES SPÉCIFIQUES AUX OPTIONS
 
-Les ressources documentaires comme supports de gestion : inventaires papier, informatisé ;
+Option documentation
 
-Les appareils et les matériels nécessaires à la mise en oeuvre des documents.
+1. La documentation
 
-3. La recherche des documents :
+A. - Les différents types de document
 
-Recherche en amont et recherche en aval , ou rétrospective ;
+Documents primaires, secondaires.
 
-Méthode de recherche : les sources d'information, les ressources documentaires, les instruments de la recherche documentaire ;
+Texte, iconographique, cartographique, géographique.
 
-La collecte des documents : choix et sélection, acquisition ;
+Différents supports.
 
-La recherche documentaire et la culture : définition du champ documentaire de la culture et de ses grandes orientations ;
+B. - La recherche documentaire
 
-La recherche du documentaire pédagogique.
+Analyse des besoins.
 
-4. Le traitement et la conservation de documents :
+Méthode de recherche, stratégie de recherche documentaire.
 
-Le repérage, le signalement, la description, l'indexation et l'analyse des documents ;
+Sources, repérage, outils.
 
-Classement et classification. Application des principes à la mise en ordre des objets et des idées, rôle de l'inventaire et le marquage des oeuvres ;
+2. Conservation et exploitation de documents
 
-Systèmes de classification ;
+A. - Traitement et conservation de documents
 
-Notation et indexation ;
+Signalement, description, indexation.
 
-Le catalogue : documents graphiques, documents audiovisuels. Normes et formats ;
+Catalogage, bulletinage.
 
-La normalisation ;
+Rangement, classification.
 
-Elaboration des fiches ;
+Dématérialisation des documents.
 
-Tri, classement, description et indexation des archives, notions sur les cadres de classement réglementaires des services d'archives publics ;
+Langage documentaire.
 
-Protection et rangement des oeuvres : les solutions de protection de proximité des oeuvres et typologie des rangements à prévoir ;
+Gestion électronique des documents (GED).
 
-Les types de collections et leur sensibilité : les matériaux et leur dégradation, évaluation des collections, planification des mesures de conservation matérielle ;
+Le système de gestion de bibliothèque (SGB).
 
-L'environnement des collections : définition et maîtrise des principaux paramètres environnementaux ;
+Les bases de données documentaires.
 
-Normes et techniques de stockage : les matériaux de conservation.
+B. - Exploitation des documents
 
-5. Techniques de sélection en vue de la recherche rétrospective :
+Bibliographie.
 
-Sélection manuelle et sélection automatisée ;
+Catalogue.
 
-Le dépouillement, les résumés ;
+Liste.
 
-L'analyse. Les langages documentaires ;
+Dossier documentaire.
 
-Ordinateur et documentation ;
+3. Valorisation et circulation de documents
 
-Gestion des mouvements d'oeuvres : méthode d'analyse des demandes de prêts.
+A. - Les organismes de documentation
 
-6. Exploitation des documents :
+Organisation et gestion des centres et services de documentation.
 
-Bibliographies. Listes de documents ;
+Organismes de documentation et d'information culturels et scientifiques : archives, bibliothèques, musées, instituts, centres et services de documentation du ministère de la culture.
 
-Catalogues et répertoires ;
+Gestion financière et administrative.
 
-Dossiers de documentation ;
+Evaluation de l'efficacité d'un système documentaire.
 
-Monographies. Etudes ;
+B. - Diffusion des documents
 
-Différents types d'instrument de recherche archivistique ;
+Consultation et communication des documents.
 
-Méthodes et mise en oeuvre du recensement des oeuvres.
+Reproduction de document.
 
-7. La diffusion des documents :
+Prêt de document.
 
-La législation en vigueur : droit de l'information et droit de la propriété intellectuelle ;
+Les différents modes d'acquisition.
 
-Consultation et communication des documents ;
+C. Valorisation - communication.
 
-Prêt des documents ;
+Création de produits documentaires.
 
-Les conditions de prêts aux expositions : analyse, tri et sélection en vue de constituer un dossier de prêt ;
+Outils de communication (réseaux sociaux, newsletter et autre).
 
-Le transport des oeuvres : réduction des risques et conditionnement des oeuvres en mouvement ;
+Evaluation des outils mis en œuvre.
 
-Le colisage : élaboration d'un référentiel documentaire pour permettre le repérage des oeuvres transportées ;
+Option archivistique
 
-Reproduction des documents graphiques, des documents audiovisuels : problèmes techniques, problèmes juridiques (le droit d'auteur) ;
+1. L'écosystème des archives
 
-Elaboration des publications, des expositions ;
+A. - Réglementation
 
-L'utilisation des nouvelles technologies de l'information pour la diffusion de l'information ;
+Le code du patrimoine.
 
-Les accrochages et les mises en place : technique et procédé de présentation et de mise en valeur des collections.
+Le code de la santé, le code des relations entre le public et l'administration, le règlement général sur la protection des données.
 
-8. Les organismes de documentation et les services d'archives :
+B. - Le réseau des archives publiques
 
-Organisation et gestion des centres et services de documentation ; locaux et équipement ;
+Organisation et gestion des services d'archives.
 
-Organisation et gestion des services d'archives ;
+Le réseau du ministère de la culture : organisation et cadre réglementaire.
 
-Organisation d'un service de régie : rôle et fonction d'un régisseur d'oeuvre au sein d'un établissement culturel ;
+2. Collecte, classement et description
 
-Les organismes de documentation et d'information culturels et scientifiques : archives, bibliothèques, musées, instituts, centres et services de documentation ;
+A. - Collecte publique, collecte privée
 
-Gestion financière et administrative ;
+Les différents statuts d'entrée dans les collections publiques.
 
-Evaluation de l'efficacité d'un système documentaire ou d'un système d'archivage.
+Les tableaux de gestion.
 
-9. Les actions d'information :
+Les éliminations réglementaires.
 
-Notions sommaires sur leurs techniques et leurs moyens (oraux, graphiques, audiovisuels).
+B. - Classement
+
+Les principes fondamentaux du classement.
+
+L'élaboration d'un plan de classement.
+
+La cotation.
+
+La reprise d'un vrac.
+
+C. - Instruments de recherche
+
+Les différents types.
+
+Les normes de description.
+
+La mise en ligne.
+
+D. - Indexation
+
+Rôles et finalités de l'indexation.
+
+Les normes.
+
+3. Conservation et pérennisation
+
+A. - Conservation préventive
+
+Bâtiment et climat : normes et mises en œuvre, les enjeux environnementaux de la conservation.
+
+Matériel, dont support spécifique (sceaux, photos, et autre).
+
+B. - Problématiques et enjeux de la pérennisation
+
+Archives nativement électroniques.
+
+Les supports issus de la dématérialisation (microfilms, microformes, numérisation).
+
+4. Communication et valorisation
+
+A. - Communication
+
+Les dispositifs réglementaires.
+
+Le fonctionnement des salles de lecture.
+
+L'accueil et l'orientation des chercheurs et des usagers.
+
+B. - Valorisation
+
+Les actions éducatives et médiations.
+
+Les expositions (physique et en ligne).
+
+Les partenariats : institutions culturelles, de la recherche, de l'enseignement supérieur, etc.
+
+La communication institutionnelle (matérielle et en ligne).
+
+Option régie d'œuvres
+
+1. Gestion et mouvements des collections
+
+A. - Les typologies et statuts de collections
+
+Les collections Beaux-Arts.
+
+Les collections archéologiques.
+
+Militaria et naturalia.
+
+Le patrimoine industriel, technique et scientifique.
+
+Le patrimoine ethnographique.
+
+B. - La gestion des collections
+
+L'inventaire.
+
+Le marquage.
+
+L'acquisition.
+
+Les prêts.
+
+Les dépôts.
+
+Les constats d'état.
+
+Le récolement.
+
+La(es) documentation(s) de la régie des collections.
+
+Les bases de données documentaires.
+
+Les typologies d'assurances.
+
+C. - Les mouvements et la logistique des collections
+
+La circulation des biens culturels.
+
+Le transport et l'emballage (manutention, emballage, transport).
+
+Le convoiement.
+
+2. Conservation matérielle des collections
+
+A. - Conservation préventive
+
+Les matériaux constitutifs des œuvres.
+
+Les matériaux de conservation et d'emballage.
+
+Le climat.
+
+La lumière.
+
+Les polluants.
+
+Les risques mécaniques, biologiques (insectes, rongeurs, pigeons…) et microbiologiques (moisissures…) et les altérations induites.
+
+Manipulation et manutention des collections.
+
+L'installation des œuvres : les dispositifs d'accrochage, de soclage et d'équipements.
+
+La gestion raisonnée : environnement, développement durable, éco-responsabilité.
+
+B. - Sûreté et sécurité
+
+L'évaluation des risques.
+
+Notions de sûreté.
+
+Risque incendie, crues, Seveso.
+
+Plans d'urgence.
+
+C. - Les espaces de conservation des collections
+
+L'exposition permanente.
+
+Les expositions temporaires.
+
+Les réserves.
+
+D. - Les outils et les acteurs de la gestion
+
+Pilotage des équipes et prestataires.
+
+Budgets.
+
+Marchés publics.
+
+Prestataires.
