@@ -1,0 +1,7 @@
+# Article ANNEXE I
+
+PRODUITS DONT L'APPLICATION PAR AÉRONEF EST AUTORISÉE
+
+BOUILLIE BORDELAISE RSR DISPERSS (AMM n° 9500452).
+
+Distance minimale de sécurité afférente à ce produit : 50 m.

@@ -1,0 +1,11 @@
+# Article ANNEXE IV
+
+CONTENU DE L'INFORMATION DES MAIRES
+
+Pour chaque application :
+
+- la date du traitement ;
+
+- le type d'aéronef utilisé ;
+
+- un plan présentant un niveau de précision au moins équivalent à l'échelle 1/25 000 faisant apparaître les zones à traiter, les points de ravitaillement de l'aéronef et les lieux mentionnés à l'article 3.
