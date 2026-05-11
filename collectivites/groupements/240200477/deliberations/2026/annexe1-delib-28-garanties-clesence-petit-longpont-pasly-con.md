@@ -1,0 +1,10 @@
+# GrandSoissons Agglomération : délibération annexe1_delib 28_garanties_clesence_petit_longpont_pasly_contrat_pret_cdc_clesence.PDF — annexe1_delib 28_garanties_clesence_petit_longpont_pasly_contrat_pret_cdc_clesence.PDF.pdf
+
+- Collectivité : GrandSoissons Agglomération
+- SIREN : 240200477
+- Date : 2026-05-11 (date de mise en ligne sur data.gouv.fr ; la date de l'acte n'est pas lisible dans le fichier)
+- Objet : annexe1_delib 28_garanties_clesence_petit_longpont_pasly_contrat_pret_cdc_clesence.PDF.pdf
+- Pages : 88
+- Acte publié : https://static.data.gouv.fr/resources/deliberations-du-conseil-communautaire-grandsoissons-agglomeration-2023/20260511-115614/annexe1-delib-28-garanties-clesence-petit-longpont-pasly-contrat-pret-cdc-clesence.pdf.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6a01c13ee9db052348655e83
+- Texte : document numérisé sans couche texte (non reproduit ; voir l'acte publié)
