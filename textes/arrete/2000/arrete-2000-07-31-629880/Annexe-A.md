@@ -42,6 +42,8 @@ Pratylenchus goodeyi (nématode du bananier) ;
 
 Ralstonia solanacearum race II (maladie de Moko) ;
 
+Rhizoctonia theobromae (maladie du balai de sorcière du manioc) ;
+
 Spiroplasma citri (stubborn des agrumes) ;
 
 Sugarcane fidji virus (maladie de Fidji de la canne à sucre) ;
@@ -157,6 +159,8 @@ Quadraspidiotus perniciosus (pou de San José) ;
 Ralstonia solanacearum race II (maladie de Moko sur musacées et zingiberacées) ;
 
 Recilia mica (cicadelle responsable du blast des palmiers) ;
+
+Rhizoctonia theobromae (maladie du balai de sorcière du manioc) ;
 
 Rice grassy stunt virus (rabougrissement herbacé du riz) ;
 
