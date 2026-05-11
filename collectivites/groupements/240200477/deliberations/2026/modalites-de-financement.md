@@ -1,0 +1,466 @@
+# GrandSoissons Agglomération : délibération modalités de financement — modalités de financement.pdf
+
+- Collectivité : GrandSoissons Agglomération
+- SIREN : 240200477
+- Date : 2026-05-11 (date de mise en ligne sur data.gouv.fr ; la date de l'acte n'est pas lisible dans le fichier)
+- Objet : modalités de financement.pdf
+- Pages : 1
+- Acte publié : https://static.data.gouv.fr/resources/deliberations-du-conseil-communautaire-grandsoissons-agglomeration-2023/20260511-114542/modalites-de-financement.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6a01c13ee9db052348655e83
+
+## Texte
+
+BILAN EN K EUROS H.T.
+02-oct-23
+Bilan concession
+Bilan CRACL 2021 
+BILAN CRACL 2022
+Cumul au 31/12/2021
+2022
+Cumul au 31/12/2022
+2023
+2024
+2025
+2026
+Au-delà
+1094
+1159
+1160
+278
+72
+350
+810
+TOTAL FONCIER
+1 094
+1 159
+1 160
+278
+72
+350
+0
+0
+0
+0
+810
+Travaux 
+Travaux VRD
+6 536
+7 552
+7 650
+0
+341
+341
+200
+1 500
+259
+300
+5 050
+Travaux de construction 
+Logements indiv et intermédiaires
+13 304
+19 321
+12 240
+0
+0
+0
+0
+1 500
+750
+9 990
+Travaux de construction des logements (VEFA)
+13 304
+19 321
+12 240
+0
+0
+0
+0
+0
+1 500
+750
+9 990
+TOTAL TRAVAUX 
+19 840
+26 873
+19 890
+0
+341
+341
+200
+1 500
+1 759
+1 050
+15 040
+Etudes,Honoraires & frais divers
+Tous Frais VRD
+749
+819
+900
+203
+44
+247
+70
+50
+30
+30
+473
+Etudes et honoraires VRD
+749
+819
+900
+203
+44
+247
+70
+50
+30
+30
+473
+Construction
+Tous frais de construction 
+2 803
+4 629
+2 184
+100
+152
+252
+80
+0
+225
+113
+1 515
+Etudes et honoraires construction
+2 803
+4 629
+2 184
+100
+152
+252
+80
+0
+225
+113
+1 515
+TOTAL ETUDES
+3 552
+5 448
+3 084
+303
+196
+499
+150
+50
+255
+143
+1 988
+Aléas, révision et actualisation de prix sur travaux (5%)
+1 218
+869
+995
+0
+0
+0
+0
+100
+100
+50
+744
+Frais financiers : 1,80% porté à 3% à compter de 2022
+224
+224
+375
+4
+8
+12
+15
+33
+45
+18
+252
+1 197
+1 451
+1 308
+72
+22
+94
+14
+73
+111
+76
+940
+Forfait 
+50
+50
+50
+50
+0
+50
+Proportionnel (4 % des dépenses hors foncier et hono de comm VEFA et charges foncières)
+912
+1 180
+959
+22
+22
+44
+14
+66
+85
+50
+701
+Frais de commercialisation des TAB + charges foncières (hors VEFA) (4% recettes H.T.)
+185
+171
+249
+0
+0
+0
+0
+7
+27
+27
+189
+Rémunération de clôture
+50
+50
+50
+0
+0
+0
+50
+TOTAL Dépenses K€ H.T.
+27 126
+36 025
+26 811
+657
+639
+1 296
+379
+1 756
+2 270
+1 337
+19 774
+Bilan concession
+Bilan CRACL 2021
+CRACL 2022
+Cumul au 31/12/2021
+2022
+Cumul au 31/12/2022
+2023
+2024
+2025
+2026
+Au-delà
+3 502
+2 646
+4 545
+0
+0
+0
+0
+0
+498
+498
+3 549
+Prix par m² € :
+83 €
+83 €
+83 €
+83 €
+83 €
+83 €
+83 €
+83 €
+83 €
+Nbre de m² :
+46 490
+46 490
+54 755
+0
+0
+0
+0
+0
+6 000
+6 000
+42 755
+1 119
+1 628
+1 680
+0
+0
+0
+0
+166
+166
+166
+1 182
+Prix par m² € :
+83 €
+83 €
+83 €
+83 €
+83 €
+83 €
+83 €
+83 €
+83 €
+Nbre de m² :
+18 484
+18 484
+20 245
+0
+0
+0
+0
+2 000
+2 000
+2 000
+14 245
+18 710
+27 036
+15 920
+0
+0
+0
+0
+0
+1 393
+1 393
+13 134
+Prix par logement €HT
+140
+215
+199
+199
+199
+199
+199
+199
+199
+199
+199
+Nbre de logements 
+134
+126
+80
+0
+0
+0
+0
+0
+7
+7
+66
+Subventions
+500
+500
+0
+0
+0
+0
+250
+250
+Minoration foncière EPFLO
+500
+250
+0
+0
+0
+0
+250
+Optimisation cession logements VEFA
+780
+700
+Participations Communauté d'Agglomération 
+3 014
+3 014
+3 914
+0
+572
+572
+500
+500
+500
+500
+1 342
+Participation en nature (apport des terrains)
+72
+72
+72
+0
+72
+72
+0
+Financement aux équipements publics
+2 942
+2 942
+2 942
+0
+500
+500
+500
+500
+400
+500
+542
+Financement aux équipements publics (espaces verts)
+900
+0
+0
+0
+0
+100
+800
+TOTAL Recettes H.T.
+27 126
+36 025
+26 809
+0
+572
+572
+500
+916
+2 557
+2 557
+19 707
+Bilan concession
+Bilan CRACL 2021
+CRACL 2022
+Cumul au 31/12/2021
+2022
+Cumul au 31/12/2022
+2023
+2024
+2025
+2026
+Au-delà
+Solde annuel HT (récettes - dépenses)
+0
+-0
+-2
+-657
+-67
+-724
+121
+-840
+287
+1 220
+-67
+DEPENSES
+Foncier (114 234m²)
+VRD
+RAPPEL DES DERNIERS BILANS
+CONCESSION D'AMENAGEMENT ZAC "Sous-Clémencins" à Crouy
+Version Hors Maillard (concession)
+Modalités prévisionnelles de financement
+CRACL 2022
+MOYENS DE FINANCEMENT
+Honoraires du concessionnaire :
+RECETTES PREVISIONNELLES
+Cession TAB individuels
+Cession TAB Collectifs
+Cession VEFA construction
+Accusé de réception en préfecture
+002-240200477-20231130-23_03781-DE
+Date de télétransmission : 05/12/2023
+Date de réception préfecture : 05/12/2023
