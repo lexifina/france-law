@@ -1,0 +1,9 @@
+# Réponse à la question n° 11901
+
+- Question : [11901](11901.md) — Question n° 11901 — Sabotage à bas coût de l'électronique militaire : quelle résilience ?
+
+## Réponse
+
+*JO du 2026-05-12, page 4131*
+
+Le ministère des armées et des anciens combattants est conscient des vulnérabilités pouvant entraîner la compromission d'équipements électroniques, qu'il s'agisse de systèmes de navigation, de contrôle ou de maintenance, et provoquer des dysfonctionnements simultanés et une désorganisation ponctuelle mais critique des forces engagées. Le ministère est particulièrement sensible à la protection des entités participant aux programmes d'armement. Plusieurs dispositifs sont mis en œuvre afin de protéger ces entités des risques de sabotage physique ou numérique. Ils portent notamment sur la sécurité des activités d'importance vitale et la protection du secret de la défense nationale et concernent les grands maîtres d'œuvre, l'industrie de façon plus générale ainsi que les sociétés détenant des informations et des supports classifiés. Une attention spécifique est portée sur les PME et ETI, qui peuvent bénéficier du dispositif subventionné Diag Cybersécurité mis en place par BPIFrance avec le soutien de la direction générale de l'armement : en 2025, 80 contrats de diagnostic ont été signés. En particulier, les systèmes d'information employés pour l'exécution des marchés d'armement sont soumis à une démarche d'homologation. Celle-ci repose sur une analyse globale des risques, prenant en compte tous les éléments essentiels au fonctionnement et à la sécurité du système. Afin de mieux sécuriser le tissu industriel, composé entre autres de petites et moyennes entreprises, sur lequel reposent les chaînes de sous-traitance des programmes d'armement, la direction générale de l'armement produit un référentiel de maturité cyber et un référentiel de sûreté physique.
