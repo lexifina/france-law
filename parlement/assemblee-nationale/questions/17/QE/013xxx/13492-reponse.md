@@ -1,0 +1,9 @@
+# Réponse à la question n° 13492
+
+- Question : [13492](13492.md) — Question n° 13492 — Aide au logement et majoration pour la vie autonome
+
+## Réponse
+
+*JO du 2026-05-12, page 4285*
+
+L'article L. 822-3 du code de la construction et de l'habitation (CCH) dispose que les aides personnelles au logement ne sont pas dues lorsque le logement est loué par l'un des ascendants ou descendants du bénéficiaire, ou de ceux de son conjoint, partenaire de PACS ou concubin. Cette disposition traduit la volonté du législateur d'attribuer les aides personnelles au logement en priorité aux personnes et aux ménages les plus modestes qui ne peuvent bénéficier d'une aide familiale par le biais de la mise à disposition d'un logement. La majoration pour la vie autonome (MVA) est un complément de l'allocation aux adultes handicapés (AAH) visant à soutenir l'autonomie dans un logement des personnes en situation de handicap qui sont confrontées à des charges et des dépenses supplémentaires spécifiques. Son octroi est strictement conditionné à la perception d'une aide personnelle au logement, afin de soutenir les personnes aux ressources les plus faibles et pour lesquelles les charges de logement sont importantes et qui ne bénéficient pas, à ce titre, d'aide intra-familiale. Toutefois, des solutions sont prévues pour assurer une conciliation entre solidarité intra-familiale et soutien public, notamment la possibilité de versement des aides personnelles au logement si la part de propriété ou d'usufruit détenue par la famille dans le logement est inférieure à 20 %. Si le Gouvernement est particulièrement attentif à l'autonomie des personnes en situation de handicap, une dérogation aux règles de proximité familiale pour les aides au logement risquerait de créer une rupture d'égalité entre les allocataires et fragiliserait l'équilibre du dispositif. Par conséquent, il n'est pas envisagé de modifier ces règles de ciblage des aides publiques.
