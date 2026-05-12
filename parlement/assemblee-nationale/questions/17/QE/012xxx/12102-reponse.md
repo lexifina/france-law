@@ -1,0 +1,9 @@
+# Réponse à la question n° 12102
+
+- Question : [12102](12102.md) — Question n° 12102 — Retraite progressive dans la fonction publique
+
+## Réponse
+
+*JO du 2026-05-12, page 4114*
+
+L'article L. 89 bis du code des pensions civiles et militaires de retraite dispose, en son premier alinéa, que : « Par dérogation à l'article L. 26, une pension partielle est servie, à sa demande, au fonctionnaire qui exerce à titre exclusif son activité à temps partiel dans les conditions prévues au chapitre II du titre Ier du livre VI du code général de la fonction publique ». Il résulte de ces dispositions que le dispositif de la retraite progressive n'est ouvert que si l'agent exerce son activité principale à titre exclusif. Dès lors, hormis le seul cas des activités bénévoles au profit de personnes publiques ou privées sans but lucratif qui, selon le dernier alinéa de l'article R. 123-7 du code général de la fonction publique (CGFP), sont exercées librement, il n'est pas possible pour un agent de cumuler son activité principale à temps partiel dans le cadre d'une retraite progressive avec une autre activité accessoire. L'activité d'assesseur en tribunal pour enfants donnant lieu au versement d'une indemnité les jours d'audience dans les conditions fixées par l'article R. 251-13 du code de l'organisation judiciaire, elle ne peut être considérée comme une activité bénévole et ne peut, de ce fait, entrer dans la catégorie des activités libres qu'un agent bénéficiant d'une retraite progressive pourrait accomplir. La retraite progressive est en effet un dispositif visant à permettre aux agents de réduire leur activité et de faciliter ainsi la transition entre l'emploi et la retraite. C'est en ce sens que l'âge d'accès à ce dispositif a été abaissé à 60 ans en juillet 2025, afin de favoriser son recours. Il n'est donc pas prévu de faire évoluer la condition d'activité exercée à titre exclusif.
