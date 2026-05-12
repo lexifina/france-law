@@ -1,0 +1,9 @@
+# Réponse à la question n° 12599
+
+- Question : [12599](12599.md) — Question n° 12599 — Disparités au titre du congé de formation entre secteur public et privé
+
+## Réponse
+
+*JO du 2026-05-12, page 4118*
+
+Dans le secteur privé, l'article L. 2145-7 du code du travail prévoit que les salariés appelés à exercer des fonctions de formateur dans le cadre de la formation syndicale peuvent bénéficier, à ce titre, d'un congé d'une durée maximale de 18 jours par an. Dans la fonction publique, l'article L. 215-1 du code général de la fonction publique (CGFP) fixe le plafond du congé pour formation syndicale à 12 jours ouvrables par an. Ce dispositif s'inscrit dans un cadre statutaire propre à la fonction publique, qui repose sur un ensemble plus large de facilités accordées aux organisations syndicales et à leurs représentants sous forme de crédits de temps syndical (article R. 214-7 du CGFP), tels que les décharges d'activité de service totales ou partielles et les autorisations d'absences, régies par les articles R. 214-8 à R. 214-52 du CGFP. Dès lors, la situation des formateurs syndicaux dans la fonction publique ne saurait être appréciée au seul regard du plafond du congé pour formation syndicale, celui-ci devant être articulé avec les autres facilités existantes. Une comparaison strictement quantitative avec le secteur privé ne saurait, à elle seule, caractériser une différence de traitement, les régimes juridiques applicables étant distincts et organisés selon des équilibres propres. Aussi, le Gouvernement n'envisage pas de modification du plafond prévu par le code général de la fonction publique. Il demeure toutefois attentif aux conditions d'exercice du dialogue social dans la fonction publique, dans le respect des principes qui régissent l'organisation et la continuité du service public.
