@@ -1,0 +1,9 @@
+# Réponse à la question n° 10443
+
+- Question : [10443](10443.md) — Question n° 10443 — Pénurie d'ambulanciers dans l'Est-Var
+
+## Réponse
+
+*JO du 2026-05-12, page 4242*
+
+Le cadre d'autorisation des véhicules de transport sanitaire est fixé par l'arrêté du 5 octobre 1995 relatif à l'autorisation de mise en service des véhicules affectés aux transports sanitaires terrestres. Ainsi, le nombre de véhicules pouvant bénéficier d'une autorisation de mise en service dans chaque département est déterminé par le directeur général de l'Agence régionale de santé (ARS) sur la base d'un indice national de besoins, exprimé en nombre de véhicules par habitant. Sur cette base, le quota applicable au secteur du Golfe de Saint-Tropez est fixé à 21 véhicules. L'ARS Provence-Alpes-Côte d'Azur (ARS PACA) assure un suivi continu de l'adéquation entre ce quota, l'offre disponible et les besoins constatés sur le terrain. Dans ce cadre, sur proposition de la direction départementale du Var de l'ARS PACA, les membres du comité départemental de l'aide médicale urgente, de la permanence des soins et des transports sanitaires du Var ont rendu un avis favorable, le 28 mars 2024, à l'attribution de quatre nouvelles autorisations de mise en service sur le secteur du Golfe de Saint-Tropez, comprenant une ambulance et trois véhicules sanitaires légers. De nouveaux véhicules ont été mis en service en février 2025, renforçant ainsi les capacités locales de transport sanitaire. À ce jour, le secteur du Golfe de Saint-Tropez compte six entreprises de transport sanitaire agréées, représentant 18 ambulances et 7 véhicules sanitaires légers, soit 4 véhicules de plus que le quota fixé sur ce secteur. En complément, le territoire bénéficie également de la présence de taxis conventionnés avec l'Assurance maladie, habilités à assurer certains transports prescrits.
