@@ -1,0 +1,9 @@
+# Réponse à la question n° 11143
+
+- Question : [11143](11143.md) — Question n° 11143 — Pérennisation du dispositif de rupture conventionnelle pour les enseignants
+
+## Réponse
+
+*JO du 2026-05-12, page 4107*
+
+À l'issue d'une expérimentation conduite du 1er janvier 2020 au 31 décembre 2025 en application de l'article 72 de la loi n° 2019-828 du 6 août 2019 de transformation de la fonction publique et sur la base d'une évaluation remise en mars 2025 au Parlement faisant état d'un bilan positif, le dispositif de rupture conventionnelle pour les fonctionnaires des trois versants de la fonction publique a été pérennisé à l'article 173 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026. Ce dispositif s'inscrit dans l'objectif du Gouvernement de favoriser la fluidité des carrières entre les secteurs public et privé, en permettant à un agent public et à son employeur de convenir d'un commun accord de la fin de leur relation de travail. Ainsi les fonctionnaires qui ont un projet professionnel peuvent quitter la fonction publique, entraînant leur radiation des cadres, pour le mettre en œuvre, de façon amiable et dans de bonnes conditions d'accompagnement, notamment financier. Entré en vigueur le 21 février 2026 à la suite de la promulgation de la loi de finances pour 2026, le dispositif de rupture conventionnelle pour les fonctionnaires est désormais inscrit aux articles L. 552-1 à L. 552-4 du code général de la fonction publique (CGFP). Il était d'ores et déjà pérenne depuis le 1er janvier 2020 pour les agents contractuels recrutés sur un contrat à durée indéterminée, en application de l'article L. 552-1 du même code, devenu article L. 552-5. Les textes réglementaires fixant les modalités de mise en œuvre de ce dispositif seront prochainement mis à jour. Ce dispositif d'accompagnement des projets de reconversion professionnelle s'applique pleinement aux enseignants, comme à tout agent de la fonction publique.
