@@ -1,0 +1,9 @@
+# Réponse à la question n° 1747
+
+- Question : [1747](1747.md) — Question n° 1747 — Application des mesures législatives pour les infirmiers en pratique avancée
+
+## Réponse
+
+*JO du 2026-05-12, page 4200*
+
+Les services du ministère sont pleinement mobilisés pour mettre en œuvre des textes de loi et mesurent l'importance de ces textes pour faciliter l'accès aux soins de la population. La majorité des textes réglementaires d'application de loi n° 2023-379 du 19 mai 2023, visant à améliorer l'accès aux soins grâce à la confiance accordée aux professionnels de santé, dite « loi Rist 2 », relatifs aux Infirmiers en pratique avancée (IPA) ont été publiés. En effet, d'une part, le décret n° 2025-55 relatif aux conditions d'accès direct aux infirmiers en pratique avancée a été publié le 20 janvier 2025. Il autorise notamment, dans certaines conditions, les IPA à recevoir en accès direct les patients et à prescrire des produits de santé ou des prestations soumis ou non à prescription médicale obligatoire. D'autre part, l'arrêté modifiant l'arrêté du 18 juillet 2018 fixant les listes permettant l'exercice infirmier en pratique avancée en application de l'article R. 4301-3 du code de la santé publique a été publié le 25 avril 2025. Il rend ainsi pleinement opérationnel le décret du 20 janvier 2025. Ces deux textes constituent une avancée majeure pour l'exercice de ces professionnels. Concernant la prise en charge des plaies, l'extension des compétences des infirmiers sur la prise en charge des plaies est incluse dans les travaux de réforme de la profession. Une réforme en profondeur de la profession d'infirmière a été actée via la promulgation de la loi n° 2025-581 du 27 juin 2025 sur la profession d'infirmier et le décret d'application du 24 décembre 2025 prévoit notamment l'accès direct à la prise en charge des plaies et de la cicatrisation, en situations aiguës comme chroniques.
