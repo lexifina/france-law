@@ -1,0 +1,9 @@
+# Réponse à la question n° 8193
+
+- Question : [8193](8193.md) — Question n° 8193 — Soutien fiscal aux travailleurs indépendants engagés dans une activité syndicale
+
+## Réponse
+
+*JO du 2026-05-12, page 4099*
+
+Aux termes de l'article 199 sexdecies du code général des impôts, les sommes versées par un contribuable domicilié en France au titre de l'emploi direct d'un salarié ou du recours à une association, une entreprise ou un organisme agréés pour les services à la personne définis aux articles L. 7231-1 et D. 7231-1 du code du travail et rendus à la résidence du contribuable ouvrent droit, sous certaines limites et conditions, à un crédit d'impôt sur le revenu. L'avantage fiscal est égal à 50 % des dépenses effectivement supportées, retenues dans une limite annuelle de 12 000 €, majorée de 1 500 € par enfant à charge ou pour tout autre membre du foyer fiscal âgé de plus de 65 ans, sans pouvoir excéder 15 000 €. Ces limites sont portées à 15 000 € et à 18 000 € la première année d'imposition au titre de laquelle le contribuable demande à bénéficier de l'avantage fiscal. Enfin, le plafond est de 20 000 € pour les foyers dont l'un des membres remplit certaines conditions d'invalidité ou ayant à leur charge un enfant donnant droit au complément d'allocation d'éducation de l'enfant handicapé. Porter le taux du crédit d'impôt de 50 % à 80 % pour les seules personnes titulaires d'un mandat syndical reviendrait à faire subventionner par l'État, dans leur quasi-totalité, les dépenses supportées par les foyers fiscaux auxquels appartiennent ces personnes, ce qui serait excessif. En outre, différencier le taux de ce crédit d'impôt en fonction de la détention ou non, par le contribuable, d'un mandat syndical ne serait pas cohérent et même inconstitutionnel au regard de l'objet de ce dispositif, qui est notamment de favoriser l'emploi dans le secteur des services à la personne et de lutter contre le travail dissimulé.
