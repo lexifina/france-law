@@ -1,0 +1,9 @@
+# Réponse à la question n° 4941
+
+- Question : [4941](4941.md) — Question n° 4941 — Encadrement des pratiques non médicales en rééducation de l'écriture
+
+## Réponse
+
+*JO du 2026-05-12, page 4211*
+
+Aucune reconnaissance des professions de graphothérapeute, orthographothérapeute et grapho-pédagogue n'est prévue ou souhaitée, en l'absence de données scientifiques démontrant une efficacité de ces pratiques sur les troubles visés. La rééducation des pathologies liées à l'écriture est strictement réservée aux professionnels de santé formés. En conséquence, ces pratiques constituent un exercice illégal des professions paramédicales susmentionnées, sanctionné pénalement aux termes des articles L. 4334-1 et L. 4344-4 du code de la santé publique. Elles peuvent en outre s'apparenter à des pratiques trompeuses, susceptibles d'être également sanctionnées pénalement. Par ailleurs, l'essor exponentiel de l'offre en pratiques d'accompagnement et de bien-être génère une confusion chez le public, qui peine à différencier les professionnels de santé des autres praticiens. Il en découle la nécessité de communiquer auprès du grand public sur la place de ces pratiques dans les parcours de soins et sur les risques associés. A cette fin, un outil d'information est en cours de finalisation par les services du ministère chargé de la santé. Il visera, d'une part, à orienter les consommateurs sur les attitudes à adopter en cas de dérive thérapeutique ou sectaire identifiée et, d'autre part, à soutenir les professionnels de santé dans le dialogue avec les patients qui pourraient avoir recours à ces pratiques ou en exprimer le souhait. La sortie de cet outil sera accompagnée d'éléments de communication rappelant le rôle central des professionnels de santé dans les parcours de soins et dans quelle mesure ces professionnels, parce qu'ils ont reçu une formation spécifique, doivent être les interlocuteurs à privilégier dans le domaine de la santé.
