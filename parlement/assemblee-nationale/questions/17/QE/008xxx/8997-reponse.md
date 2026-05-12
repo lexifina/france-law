@@ -1,0 +1,9 @@
+# Réponse à la question n° 8997
+
+- Question : [8997](8997.md) — Question n° 8997 — Licenciement pour cumul d'activités et encadrement des revenus patrimoniaux
+
+## Réponse
+
+*JO du 2026-05-12, page 4279*
+
+S'il n'appartient pas au Gouvernement de se prononcer sur une affaire en cours, les juges ont déjà été amenés à se prononcer sur l'articulation entre vie professionnelle et vie personnelle. Ainsi, un motif tiré de la vie personnelle du salarié ne peut justifier, en principe, un licenciement disciplinaire, sauf s'il constitue un manquement de l'intéressé à une obligation découlant de son contrat de travail. Un trouble objectif dans le fonctionnement de l'entreprise résultant d'un fait tiré de la vie personnelle d'un salarié ne permet pas en lui-même de prononcer une sanction disciplinaire à l'encontre de celui par lequel il est survenu. Il peut cependant constituer une cause réelle et sérieuse de licenciement dans des conditions strictement encadrées par la jurisprudence. En particulier le trouble doit s'apprécier au niveau de l'entreprise et faire obstacle au maintien du salarié dans celle-ci. Enfin, l'article L. 1121-1 du code du travail interdit de porter aux droits des personnes et aux libertés individuelles et collectives des restrictions qui ne seraient pas justifiées par la nature de la tâche à accomplir ni proportionnées au but recherché. Ainsi l'employeur doit être en mesure de justifier toute mesure ayant pour objet ou pour effet de limiter le droit au respect de la vie personnelle, et plus encore privée, des travailleurs. Il convient néanmoins de préciser que les salariés des caisses primaires d'assurance maladie, comme les agents publics sont soumis à des règles particulières justifiées par l'exercice d'une mission de service public, notamment prévues par les articles L. 121-3 du code général de la fonction publique et L. 123-2-2 du code de la sécurité sociale.
