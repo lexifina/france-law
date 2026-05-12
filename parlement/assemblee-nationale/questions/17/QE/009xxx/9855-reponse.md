@@ -1,0 +1,9 @@
+# Réponse à la question n° 9855
+
+- Question : [9855](9855.md) — Question n° 9855 — Désertification médicale dans les Bouches-du-Rhône
+
+## Réponse
+
+*JO du 2026-05-12, page 4235*
+
+Les communes de Marignane et de Vitrolles sont classées en Zone d'action complémentaire (ZAC) selon le dernier arrêté de zonage des médecins libéraux de 2022. Ces deux communes sont effectivement confrontées à la problématique du vieillissement des professionnels de santé qui y exercent. Toutefois, il convient de relativiser cette situation au regard du nombre de professionnels. En 2024, la commune de Marignane dispose de 46 médecins généralistes dont 8 ont plus de 60 ans (sur ces 8 professionnels, 3 sont âgés de plus de 65 ans). Cette commune comporte également 52 spécialistes libéraux, 80 Infirmiers diplômés d'Etat (IDE), 43 masseurs-kinésithérapeutes libéraux, 11 pharmacies et 5 laboratoires. En 2024, la commune de Vitrolles dispose elle de 41 médecins généralistes dont 13 ont plus de 60 ans (sur ces 13 professionnels, 6 ont plus de 65 ans). Elle dispose de 31 spécialistes libéraux, 61 IDE, 46 masseurs-kinésithérapeutes libéraux, 13 pharmacies et 5 laboratoires. Deux maisons de santé pluriprofessionnelles sont installées sur chacune des deux communes, permettant aux patients une continuité de soins tout au long de l'année et aux professionnels un exercice coordonné et en équipe (forme d'organisation très plébiscitée par les jeunes praticiens). Parmi les perspectives, les deux communes, en tant que ZAC, sont intégrées comme zones prioritaires pour la mise en œuvre de la 4ème année d'internat de médecine générale. Un médecin généraliste serait volontaire pour être maître de stage et accueillir un docteur junior à compter de novembre 2026. A terme, ce dispositif doit permettre d'inciter certains professionnels à s'installer sur ces communes.
