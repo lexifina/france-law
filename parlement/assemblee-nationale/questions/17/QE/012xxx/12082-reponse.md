@@ -1,0 +1,9 @@
+# Réponse à la question n° 12082
+
+- Question : [12082](12082.md) — Question n° 12082 — Inégalités de déroulement de carrière dans la fonction publique territoriale
+
+## Réponse
+
+*JO du 2026-05-12, page 4113*
+
+Les conditions dans lesquelles un fonctionnaire est classé dans son nouveau grade après réussite à un concours interne sont communes aux trois versants de la fonction publique. Elles résultent de tableaux de classement tenant compte du grade de départ et du grade dans lequel l'agent est nommé. Dans l'exemple cité d'un fonctionnaire de catégorie C promu en catégorie B, ces règles conduisent le plus souvent à un gain d'une quinzaine de points. Il peut toutefois arriver, dans de rares cas, que le gain soit moins élevé, notamment lorsque le fonctionnaire relève, avant sa promotion, du grade le plus élevé de la catégorie C, qui est proche du premier grade de la catégorie B où il est promu. On peut toutefois noter que si le gain indiciaire est faible lors du classement, le fonctionnaire peut par la suite prétendre à une meilleure carrière en catégorie B, notamment dans la perspective d'un avancement de grade. De plus, l'agent devient éligible à un plafond indemnitaire plus élevé dans la nouvelle catégorie hiérarchique. Le Gouvernement est toutefois conscient de la nécessité de mieux valoriser la réussite aux concours, tant pour les fonctionnaires que pour les contractuels. Il a donc engagé une réflexion pour bonifier le gain indiciaire lorsqu'un fonctionnaire réussit un concours. Ce projet devrait également s'accompagner d'une réflexion plus globale sur l'évolution des rémunérations dans l'ensemble de la fonction publique. Un groupe de travail associant représentants des personnels et employeurs a été lancé le 13 avril 2026 sur le sujet des rémunérations dans la fonction publique.
