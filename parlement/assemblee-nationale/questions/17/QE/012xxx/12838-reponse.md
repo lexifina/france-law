@@ -1,0 +1,9 @@
+# Réponse à la question n° 12838
+
+- Question : [12838](12838.md) — Question n° 12838 — Conditions de paiement des traducteurs et interprètes de justice
+
+## Réponse
+
+*JO du 2026-05-12, page 4183*
+
+Les traducteurs et interprètes judiciaires interviennent en qualité de collaborateurs occasionnels du service public, dans un cadre juridictionnel régi par le code de procédure pénale. À ce titre, leur rémunération repose sur le dépôt d'un mémoire de frais, qui constitue l'acte de liquidation d'une dépense publique et non une facture au sens du droit commercial. Cette spécificité juridique explique que les règles issues du code de commerce relatives aux délais de paiement et aux pénalités de retard ne trouvent pas à s'appliquer en l'espèce. Le régime des frais de justice répond à des impératifs propres, liés notamment au contrôle de la dépense publique et à la nature juridictionnelle des missions réalisées. S'agissant du cadre européen, les directives relatives aux délais de paiement dans les transactions commerciales ne s'appliquent pas aux relations relevant de l'exercice de prérogatives de puissance publique, telles que les frais de justice. Le ministère de la Justice est néanmoins pleinement conscient des difficultés rencontrées par ces professionnels. Dans un contexte d'augmentation continue de la dépense d'interprétariat et de traduction judiciaire au cours des dernières années, des efforts importants sont engagés pour améliorer les délais de traitement et de paiement. Des travaux sont actuellement conduits afin de renforcer la lisibilité du cadre applicable et de sécuriser les circuits de paiement, tout en respectant la nature particulière de ces dépenses. L'objectif poursuivi est d'améliorer concrètement la situation des professionnels, sans remettre en cause les fondements juridiques du régime des frais de justice.
