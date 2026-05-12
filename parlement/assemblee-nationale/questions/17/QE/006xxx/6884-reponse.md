@@ -1,0 +1,9 @@
+# Réponse à la question n° 6884
+
+- Question : [6884](6884.md) — Question n° 6884 — Encadrement de la pratique de l'orthodontie par des non-spécialistes diplômés
+
+## Réponse
+
+*JO du 2026-05-12, page 4218*
+
+Le Gouvernement est pleinement conscient des risques et des conséquences possibles d'une mauvaise pratique de l'orthodontie et reste soucieux de la qualité des soins prodigués et de la sécurité des patients. L'accès aux soins orthodontiques est un enjeu pour la santé buccodentaire de nos jeunes citoyens mais également pour la santé générale de ces adultes en devenir. Les orthodontistes constituent la part la plus importante des chirurgiens-dentistes spécialisés, cependant, ces derniers ne représentent que 5,2 % de l'ensemble des praticiens, soit 2 552 orthodontistes parmi les 48 872 chirurgiens-dentistes (données de l'ordre des chirurgiens-dentistes, 1er septembre 2025). En ce sens, le Gouvernement a procédé à une hausse du nombre de postes ouverts au sein du Diplôme d'études supérieures (DES) d'Orthopédie dento-faciale (ODF) afin de répondre aux besoins de la population à hauteur de 23 % entre l'année 2023 et l'année 2024 (de 52 places à 64 places). L'exclusivité de l'orthodontie aux seuls titulaires du DES en ODF ne ferait qu'accentuer les difficultés d'accès à ces soins dentaires notamment dans les départements insuffisamment dotés d'orthodontistes. Pour autant, le Gouvernement est soucieux de maintenir une offre suffisante de soins généraux en matière de santé bucco-dentaire et ne souhaite pas que les chirurgiens-dentistes non titulaires du DES ODF pratiquent exclusivement de l'orthodontie. Enfin, il convient de rappeler que le code de déontologie de la profession précise que le chirurgien-dentiste « ne doit pas effectuer des actes, donner des soins ou formuler des prescriptions dans les domaines qui dépassent sa compétence professionnelle ou les possibilités matérielles dont il dispose ».
