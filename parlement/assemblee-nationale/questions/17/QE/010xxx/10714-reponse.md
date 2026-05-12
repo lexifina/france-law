@@ -1,0 +1,9 @@
+# Réponse à la question n° 10714
+
+- Question : [10714](10714.md) — Question n° 10714 — Situation financière de l'hôpital Ducuing
+
+## Réponse
+
+*JO du 2026-05-12, page 4245*
+
+Les difficultés récurrentes de l'Hôpital Joseph Ducuing font l'objet d'un suivi attentif par l'agence régionale de santé afin d'assurer la pérennité de l'établissement dans son environnement et garantir l'offre de soins aux usagers et plus particulièrement aux plus précaires et aux plus vulnérables. Des mesures de nature à conforter l'offre médicale et à structurer une stratégie pérenne sont en cours de mise en œuvre afin d'assurer la poursuite de l'ensemble des activités. Le projet médical de l'établissement tend à garantir une offre de soins au plus près des besoins de santé tout en garantissant l'ancrage territorial de l'établissement. Cette dynamique d'activité en cours doit amener l'établissement à retrouver une trajectoire financière à même de restaurer une capacité d'autofinancement. Des dialogues de gestion sont en place en coordination avec la gouvernance actuelle, afin d'accompagner l'établissement à atteindre une situation vertueuse et efficiente. Des aides exceptionnelles en trésorerie ont été versées en 2023, en 2024 et dernièrement en 2025 afin de pallier les difficultés financières de l'établissement. En lien avec l'environnement concurrentiel de la métropole toulousaine, la mise en œuvre du schéma directeur immobilier amènera à consolider l'attractivité de l'établissement en termes de prise en charge ainsi que la qualité de vie au travail des professionnels de santé. La réhabilitation de l'établissement doit faire appel à différentes sources de financement à travers la sollicitation de l'ensemble des acteurs institutionnels ainsi que de l'optimisation du patrimoine immobilier actuel afin de limiter le reste à charge de l'établissement.
