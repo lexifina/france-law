@@ -1,0 +1,9 @@
+# Réponse à la question n° 13513
+
+- Question : [13513](13513.md) — Question n° 13513 — Projet d'instauration d'un délai de paiement pouvant atteindre 180 jours
+
+## Réponse
+
+*JO du 2026-05-12, page 4190*
+
+Le ministère de la Justice est pleinement conscient du rôle essentiel joué par les experts judiciaires dans le bon fonctionnement de l'institution judiciaire. Leur contribution, déterminante pour l'établissement de la vérité et la qualité des décisions rendues, appelle à une vigilance particulière quant à leurs conditions d'intervention et de rémunération. À cet égard, il convient de rappeler que les dépenses d'expertise judiciaire relèvent du régime spécifique des frais de justice, qui ne s'inscrit pas dans une logique contractuelle classique mais dans un cadre procédural fixé par le code de procédure pénale. Cette spécificité explique que les modalités de liquidation et de paiement obéissent à des règles propres, distinctes de celles applicables en matière de commande publique. S'agissant des délais de paiement, les données disponibles montrent que le délai moyen observé est significativement inférieur au plafond évoqué de 180 jours. Ce dernier, envisagé dans certains travaux parlementaires, ne constitue pas un objectif opérationnel mais un cadre maximal, destiné à sécuriser juridiquement les procédures de paiement dans des situations complexes. Le Gouvernement demeure particulièrement attentif à la soutenabilité économique des missions d'expertise judiciaire. Des travaux sont engagés afin d'améliorer la lisibilité et la fluidité des circuits de paiement, tout en préservant les garanties attachées à la bonne gestion des deniers publics. Dans ce cadre, aucune mesure n'est envisagée qui conduirait à dégrader les conditions économiques d'exercice des experts judiciaires ou à porter atteinte à leur indépendance.
