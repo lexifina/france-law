@@ -1,0 +1,9 @@
+# Réponse à la question n° 12399
+
+- Question : [12399](12399.md) — Question n° 12399 — Reconversion des cadres dirigeants militaires
+
+## Réponse
+
+*JO du 2026-05-12, page 4132*
+
+Le ministère des armées et des anciens combattants, par le biais de sa délégation à l'encadrement supérieur et aux cadres dirigeants, met en œuvre depuis 2023 une politique engagée en faveur d'une intégration accrue de profils militaires dans les viviers interministériels et poursuit ses efforts en faveur de parcours croisés et de mobilités extérieures stratégiques pour les hauts potentiels militaires, en lien avec la délégation interministérielle à l'encadrement supérieur de l'État (DIESE) et les autres départements ministériels. Cette stratégie repose essentiellement sur une action en amont de la reconversion, dont les effets sur les officiers généraux ne seront véritablement mesurables que dans quelques années. Pour autant, la mission de retour à la vie civile des officiers généraux participe à la stratégie d'influence du ministère en proposant régulièrement des officiers généraux en deuxième section pour occuper des postes à responsabilités dans l'encadrement supérieur de l'État ou de ses grands opérateurs. À ce titre, elle travaille en liaison avec la DIESE en se fondant sur le 17e rapport du haut comité d'évaluation de la condition militaire, qui a été suivi d'une lettre du Président de la République à la Première ministre, en date du 24 juillet 2023, visant à favoriser l'accès des officiers, et notamment des officiers généraux, à ces postes. Il ne s'agit naturellement pas d'imposer le placement d'un officier général mais d'identifier de façon pragmatique, à partir d'un vivier préconstitué d'officiers généraux volontaires, des profils pertinents, porteurs de plus-value pour les employeurs. Complexe et exigeant, ce parcours nécessite la collaboration de tous les acteurs étatiques concernés.
