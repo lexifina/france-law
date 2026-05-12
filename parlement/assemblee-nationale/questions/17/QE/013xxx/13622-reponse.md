@@ -1,0 +1,9 @@
+# Réponse à la question n° 13622
+
+- Question : [13622](13622.md) — Question n° 13622 — Fermeture de la Fonderie Atlantique Industrie
+
+## Réponse
+
+*JO du 2026-05-12, page 4143*
+
+La décision de fermeture de Fonderie AtIantique Industrie (FAI), prise par le groupe Le Bronze Industries (LBI), s'inscrit dans une logique de continuité des activités, avec un transfert interne au sein du groupe. Les activités de la fonderie seront reprises par la filiale Inoxyda, implantée en Normandie. Ce projet, mené depuis plusieurs années, a fait l'objet d'un suivi par le ministère des armées et des anciens combattants et Naval Group, dans le cadre d'une montée en compétences du site normand pour la réalisation de pales de haute performance. Cette évolution s'accompagne de plusieurs changements technologiques, tels que la fabrication additive métallique et le développement de pales et rotors multiblocs. Il convient par ailleurs de souligner que FAI était en sous-charge depuis un certain temps. Les dernières "rechanges de grande prévoyance" ont été produites en 2024 et 2025. De plus, le contrat avec Arcelor pour la fonte de lingots sur le marché civil est arrivé à son terme. FAI, spécialisée dans la fabrication d'hélices monoblocs, a cessé ses activités en mars 2026. Inoxyda développera ses compétences afin de produire des hélices à pales rapportées de haute performance, marquant ainsi une évolution stratégique pour le groupe LBI. Grâce au suivi attentif du ministère depuis plusieurs années, la fermeture du site de Nantes, décidée par le groupe LBI, ne pénalise pas la filière d'approvisionnement pour Naval Group et la souveraineté française, dans la mesure où les activités restent situées en France. Au contraire, l'émergence de nouvelles compétences et l'augmentation des performances des pales des hélices permettra à la France d'assurer son avance technologique dans le domaine.
