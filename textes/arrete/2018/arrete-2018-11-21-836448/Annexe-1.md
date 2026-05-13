@@ -2,25 +2,17 @@
 
 ANNEXE 1
 
-VOLUME HORAIRE DE RÉFÉRENCE (*) CORRESPONDANT À UNE DURÉE DE 82 SEMAINES D'ENSEIGNEMENT, 20 SEMAINES DE PFMP ET 2 SEMAINES D'EXAMEN
+VOLUME HORAIRE DE RÉFÉRENCE (*) CORRESPONDANT À UNE DURÉE DE 84 SEMAINES D'ENSEIGNEMENT, 20 SEMAINES DE PFMP, 2 SEMAINES D'EXAMEN ET 2 SEMAINES EN TERMINALE POUR LA PRÉPARATION À L'INSERTION PROFESSIONNELLE OU À LA POURSUITE D'ÉTUDES
 
 |
 
-Seconde
+Seconde prof |
 
-prof |
+Première prof |
 
-Première
+Terminale prof |
 
-prof |
-
-Terminale
-
-prof |
-
-Total
-
-sur 3 ans |
+Total sur 3 ans |
 
 ENSEIGNEMENTS PROFESSIONNELS |
 
@@ -28,9 +20,9 @@ ENSEIGNEMENTS PROFESSIONNELS |
 
 420 |
 
-348 |
+377 |
 
-1 218 |
+1247 |
 
 Enseignement professionnel |
 
@@ -38,9 +30,9 @@ Enseignement professionnel |
 
 294 |
 
-252 |
+273 |
 
-906 |
+927 |
 
 Enseignements professionnels et français en co-intervention (a) |
 
@@ -52,9 +44,7 @@ Enseignements professionnels et français en co-intervention (a) |
 
 29 |
 
-Enseignements professionnels et mathématiques-sciences
-
-en co-intervention (a) |
+Enseignements professionnels et mathématiques-sciences en co-intervention (a) |
 
 15 |
 
@@ -70,9 +60,9 @@ Réalisation d'un projet |
 
 42 |
 
-24 |
+26 |
 
-66 |
+68 |
 
 Prévention-santé-environnement |
 
@@ -80,9 +70,9 @@ Prévention-santé-environnement |
 
 28 |
 
-36 |
+39 |
 
-94 |
+97 |
 
 Economie-gestion ou économie-droit (selon la spécialité) |
 
@@ -90,9 +80,9 @@ Economie-gestion ou économie-droit (selon la spécialité) |
 
 28 |
 
-36 |
+39 |
 
-94 |
+97 |
 
 ENSEIGNEMENTS GÉNÉRAUX |
 
@@ -100,9 +90,9 @@ ENSEIGNEMENTS GÉNÉRAUX |
 
 350 |
 
-360 |
+390 |
 
-1 100 |
+1 130 |
 
 Français, histoire-géographie et enseignement moral et civique (b) |
 
@@ -110,9 +100,9 @@ Français, histoire-géographie et enseignement moral et civique (b) |
 
 98 |
 
-108 |
+117 |
 
-326 |
+335 |
 
 Mathématiques (b) |
 
@@ -120,9 +110,9 @@ Mathématiques (b) |
 
 56 |
 
-60 |
+65 |
 
-176 |
+181 |
 
 Langue vivante A |
 
@@ -130,9 +120,9 @@ Langue vivante A |
 
 56 |
 
-60 |
+65 |
 
-176 |
+181 |
 
 Physique-chimie ou langue vivante B (selon la spécialité) |
 
@@ -140,9 +130,9 @@ Physique-chimie ou langue vivante B (selon la spécialité) |
 
 42 |
 
-36 |
+39 |
 
-123 |
+126 |
 
 Arts appliqués et culture artistique |
 
@@ -150,9 +140,9 @@ Arts appliqués et culture artistique |
 
 28 |
 
-24 |
+26 |
 
-82 |
+84 |
 
 Education physique et sportive |
 
@@ -160,9 +150,9 @@ Education physique et sportive |
 
 70 |
 
-72 |
+78 |
 
-217 |
+223 |
 
 SOUTIEN AU PARCOURS |
 
@@ -170,9 +160,9 @@ SOUTIEN AU PARCOURS |
 
 28 |
 
-36 |
+39 |
 
-94 |
+97 |
 
 TOTAL DES HEURES |
 
@@ -180,9 +170,9 @@ TOTAL DES HEURES |
 
 798 |
 
-744 |
+806 |
 
-2 412 |
+2 474 |
 
 PÉRIODE DE FORMATION EN MILIEU PROFESSIONNEL OBLIGATOIRE POUR L'EXAMEN |
 
@@ -194,17 +184,17 @@ PÉRIODE DE FORMATION EN MILIEU PROFESSIONNEL OBLIGATOIRE POUR L'EXAMEN |
 
 16 à 20 semaines |
 
-PARCOURS DE FIN D'ANNÉE DE TERMINALE POUR LA PRÉPARATION À L'INSERTION PROFESSIONNELLE OU À LA POURSUITE D'ÉTUDES |
+Deux semaines dédiées à la préparation d'une insertion professionnelle avec PFMP ou à la préparation d'une poursuite d'études, pour lesquelles l'organisation, la répartition et la planification relèvent de l'autonomie des établissements |
 
 |
 
 |
 
-4 semaines |
+2 semaines |
 
-4 semaines |
+2 semaines |
 
-(*) Volume horaire élève identique quelle que soit la spécialité (2 412h).
+(*) Volume horaire élève identique quelle que soit la spécialité (2 474 h).
 
 (a) La dotation horaire professeur est égale au double du volume horaire élève.
 
@@ -212,4 +202,4 @@ PARCOURS DE FIN D'ANNÉE DE TERMINALE POUR LA PRÉPARATION À L'INSERTION PROFES
 
 NOTA :
 
-Conformément à l'article 9 de l'arrêté du 22 janvier 2024 (NOR : MENE2401956A), ces dispositions sont applicables à compter de la rentrée scolaire 2024 pour tous les effectifs entrant en seconde, entrant en première et entrant en terminale professionnelle.
+Conformément à l'article 4 de l'arrêté du 22 avril 2026 (NOR : MENE2609636A), ces dispositions, dans leur rédaction issue de l'arrêté précité, sont applicables, à compter de la rentrée scolaire 2026, pour tous les effectifs entrant en terminale professionnelle.
