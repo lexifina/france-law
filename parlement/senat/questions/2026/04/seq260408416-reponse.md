@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260408416
+
+- Question : [SEQ260408416](seq260408416.md) — Publication du décret d'application de l'article 95 de la loi de finances pour 2026 relatif aux plafonds de ressources pour l'accession sociale en quartiers prioritaires de la politique de la ville
+
+## Réponse
+
+*Ville et Logement, JO du 2026-05-14, page 2418*
+
+Afin d'encourager l'accession sociale à la propriété, l'article 95 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026 a harmonisé les plafonds de ressources des différents dispositifs d'accession sociale bénéficiant d'une taxe sur la valeur ajoutée (TVA) au taux réduit de 5,5 %. Les plafonds et le zonage retenus pour l'application du dispositif de taux réduit de TVA dans les quartiers ciblés par la politique de la ville sont de la sorte désormais totalement alignés avec ceux du prêt social de location-accession (PSLA) et du bail réel solidaire (BRS). Après la revalorisation des plafonds de ressources des ménages éligibles du BRS et du PSLA depuis 2024, cette mesure parachève l'harmonisation de plafonds de ressources des différents dispositifs d'accession sociale à la propriété bénéficiant d'un taux réduit de TVA de 5,5 %. Cette simplification est directement applicable sans nécessiter de textes réglementaires d'application et permet à davantage de ménages de pouvoir accéder à la propriété à des prix maîtrisés selon la localisation du bien dans les communes classées en fonction du zonage dit « ABC ». Elle vient compléter les outils déjà déployés en 2025 et auparavant pour soutenir le logement privé, notamment la primo-accession, avec la réouverture du Prêt à taux zéro (PTZ) à l'ensemble du territoire depuis 2025 et s'inscrit pleinement dans le cadre des mesures du Gouvernement du Plan « Relance logement » pour l'accession à la propriété, pour le marché locatif et pour le logement social.
