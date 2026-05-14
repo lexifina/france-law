@@ -1,0 +1,9 @@
+# Réponse à la question SEQ251106594
+
+- Question : [SEQ251106594](seq251106594.md) — Légalité d'une délibération prise en application de l'article L. 2122-22 du code général des collectivités territoriales lorsqu'elle ne fixe aucune limite de montant, de durée ou de condition
+
+## Réponse
+
+*Aménagement du territoire et décentralisation , JO du 2026-05-14, page 2387*
+
+L'article L. 2122-22 du code général des collectivités territoriales précise les attributions pouvant être déléguées au maire par le conseil municipal. Parmi celles-ci figure pour le maire celle de "procéder, dans les limites fixées par le conseil municipal, à la réalisation des emprunts destinés au financement des investissements prévus par le budget, et aux opérations financières utiles à la gestion des emprunts, y compris les opérations de couvertures des risques de taux et de change ainsi que de prendre les décisions mentionnées au III de l'article L. 1618-2 et au a de l'article L. 2221-5-1, sous réserve des dispositions du c de ce même article, et de passer à cet effet les actes nécessaires". Dès lors, la loi exige que la délibération qui délègue au maire une telle attribution l'encadre. L'acte de délégation doit en effet définir les limites de la délégation avec une précision suffisante (CE 12 mars 1975, Commune de Loges-Margueron). Le juge administratif a par conséquent annulé une délibération de délégation au motif qu'elle ne précisait pas « les limites fixées par le conseil municipal pour procéder à la réalisation des emprunts et aux opérations financières utiles à la gestion des emprunts » (TA de Lille, 23 août 2010, n° 1004883). La délégation octroyée au maire s'exerce par ailleurs dans les limites du montant prévu au budget. Une délibération qui n'encadre pas la délégation au maire est donc susceptible d'être entachée d'illégalité.
