@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260207871
+
+- Question : [SEQ260207871](seq260207871.md) — Couverture universelle de la télévision numérique terrestre
+
+## Réponse
+
+*Culture, JO du 2026-05-14, page 2400*
+
+Mode de diffusion souverain, la télévision numérique terrestre (TNT) garantit un accès simple, universel et gratuit à une offre audiovisuelle diversifiée, en particulier pour les foyers ruraux non raccordés au haut débit ou ne souhaitant pas y recourir. La TNT est encore utilisée par environ 35 % des foyers équipés d'un téléviseur, dont près d'un sur sept en dépend exclusivement. Toutefois, son usage diminue de manière continue depuis plus de dix ans, tandis que les coûts de diffusion, globalement stables, ont entraîné une hausse d'environ un tiers du coût par utilisateur. Cette tendance devrait s'accentuer sous l'effet de la hausse des prix de l'énergie, de l'inflation et de l'arrêt, en juin 2025, de l'offre payante de Canal+, qui conduit à répartir les coûts d'infrastructures mutualisées sur les services restants. Dans ce contexte, le modèle économique des services de la TNT est fragilisé, avec l'érosion de l'audience et la rigidité des coûts fixes. Cette situation a conduit l'Autorité de régulation de la communication audiovisuelle et numérique (ARCOM) à geler pendant deux ans les fréquences libérées après l'arrêt de Canal+. Il n en demeure pas moins que le cadre législatif relatif à la TNT doit être préservé. Il garantit l'accès gratuit aux services nationaux en clair pour 100 % de la population, avec une obligation de couverture hertzienne d'au moins 95 %. Le réseau TNT, composé de 1 626 émetteurs, couvre aujourd'hui environ 97 % de la population, en complément d'initiatives locales et d'offres satellitaires gratuites. En outre, l'article 96-1 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication donne compétence à l'ARCOM pour fixer une couverture minimale de la population de chaque département.
