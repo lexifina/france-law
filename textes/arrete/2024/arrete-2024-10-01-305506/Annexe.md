@@ -32,7 +32,7 @@ Nice-Hurghada (Egypte) ;
 
 Lyon-Sharm-El-Sheikh (Egypte).
 
-Dans la limite de deux (2) fréquences hebdomadaires : Paris-Le Caire (Egypte)
+Dans la limite de deux (2) fréquences hebdomadaires : Paris-Le Caire (Egypte).
 
 Jusqu'au 31 mars 2031 :
 
@@ -41,3 +41,9 @@ Dans la limite de deux (2) fréquences hebdomadaires sur l'ensemble des liaisons
 Tout point en France (hors Paris)-Alexandrie ;
 
 Tout point en France (hors Paris)-Le Caire.
+
+Jusqu'au 30 avril 2031 :
+
+Nice - Oran (Algérie) ;
+
+Strasbourg - Oran (Algérie).
