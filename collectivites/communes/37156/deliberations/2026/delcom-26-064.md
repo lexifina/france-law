@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_26_064 — DELIBERATION 2026-64 APPROBATION DU REGLEMENT BUDGETAIRE ET FINANCIER
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2026-05-18
+- Matière : 7.10 Finances locales/Divers
+- Objet : DELIBERATION 2026-64 APPROBATION DU REGLEMENT BUDGETAIRE ET FINANCIER
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2026/81714/8c51cfc1cf504554e608bbc060cd2deaee9d3a5ad0856abbd642df8d6264b17e.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
