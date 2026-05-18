@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_26_090 — DELIBERATION 2026-90 VENTE DES PARCELLES BN 289-290 12 AVENUE APPENWEIER A LA TEV
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2026-05-18
+- Matière : 3.2 Domaine et patrimoine/Alienations
+- Objet : DELIBERATION 2026-90 VENTE DES PARCELLES BN 289-290 12 AVENUE APPENWEIER A LA TEV
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2026/81797/8be1e1865f3ffa60af60f760648d3b76d65fd145dbaf17e05148402a616aadd9.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
