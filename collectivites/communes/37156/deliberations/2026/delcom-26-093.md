@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_26_093 — DELIBERATION 2026-93 ADOPTION AVENANT 1 MARCHE PUBLIC GLOBAL DE PERFORMANCE CPE
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2026-05-18
+- Matière : 1.1 Commande Publique/Marches publics
+- Objet : DELIBERATION 2026-93 ADOPTION AVENANT 1 MARCHE PUBLIC GLOBAL DE PERFORMANCE CPE
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2026/81802/43bc67da87a815994a3cb4698d2a8ee38a48103ca0f2e8e8cda16dc9a79945d3.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
