@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_26_082 — DELIBERATION 2026-82 PARTICIPATION DES COMMUNES DE RESIDENCE AUX FRAIS DE SCOLARITE
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2026-05-18
+- Matière : 8.1 Domaines de competences par themes/Enseignement
+- Objet : DELIBERATION 2026-82 PARTICIPATION DES COMMUNES DE RESIDENCE AUX FRAIS DE SCOLARITE
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2026/81782/9e5498f546ae80b329038e638cc04d58f10f1c7fca5dc580216afd0d0cbeb26e.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
