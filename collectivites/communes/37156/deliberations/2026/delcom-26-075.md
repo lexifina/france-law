@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_26_075 — DELIBERATION 2026-75 DEPENSES IMPUTEES AU COMPTE 6232 FETES ET CEREMONIES
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2026-05-18
+- Matière : 7.10 Finances locales/Divers
+- Objet : DELIBERATION 2026-75 DEPENSES IMPUTEES AU COMPTE 6232 FETES ET CEREMONIES
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2026/81742/0fbf4fdf8cf4ef621c57455cadb77dab80694da24adfffa1832d4dd35818d502.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
