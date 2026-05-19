@@ -1,0 +1,9 @@
+# Réponse à la question n° 5538
+
+- Question : [5538](5538.md) — Question n° 5538 — Moratoire sur les installations d'éoliennes dans l'Yonne
+
+## Réponse
+
+*JO du 2026-05-19, page 4433*
+
+Afin de sortir des énergies fossiles, la France a besoin de soutenir le développement de l'ensemble des vecteurs énergétiques décarbonés : nucléaire et renouvelable. Le développement des parcs éoliens terrestres est encadré par une réglementation stricte et précise. Les projets autorisés respectent les prescriptions du droit de l'environnement et sont analysés au titre des installations classées pour la protection de l'environnement (ICPE). En particulier, la construction d'une éolienne de plus de 50 mètres de hauteur est soumise à autorisation environnementale. L'objectif de cette autorisation est de s'assurer que le projet ne créera pas d'impacts ou de risques importants pour le confort des populations, leur santé et leur sécurité, mais aussi pour la nature et l'environnement. Les impacts sur le voisinage, le paysage et la biodiversité sont ainsi analysés dans le cadre d'une étude d'impact. L'analyse de tous ces enjeux fonde la décision de l'autorité administrative d'autoriser ou non le parc éolien terrestre. Enfin, il convient de rappeler que les installations éoliennes génèrent différents revenus fiscaux, au titre des taxes foncières, de la cotisation foncière des entreprises, et surtout de l'Imposition Forfaitaire sur les entreprises de Réseaux (IFER). Pour toutes ces raisons, le Gouvernement entend continuer à encadrer le développement des parcs éoliens terrestres. Conformément à la PPE, le renouvellement des parcs sera privilégié. Une circulaire a ainsi été transmise aux Préfets afin de leur demander de porter une attention particulière aux projets de renouvellement sur leur territoire. Une telle consigne s'appliquera notamment dans l'Yonne.
