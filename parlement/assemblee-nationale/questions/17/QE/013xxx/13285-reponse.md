@@ -1,0 +1,9 @@
+# Réponse à la question n° 13285
+
+- Question : [13285](13285.md) — Question n° 13285 — Revalorisation des indemnités maximales des maires et des adjoints
+
+## Réponse
+
+*JO du 2026-05-19, page 4417*
+
+Les articles 1er et 3 de la loi n° 2025-1249 du 22 décembre 2025 portant création d'un statut de l'élu local ont revalorisé le montant maximal des indemnités de fonction que les maires et adjoints au maire des communes de moins de 20 000 habitants sont susceptibles de percevoir. Ainsi, les nouveaux barèmes fixés aux articles L. 2123-23 du CGCT s'appliquent aux maires dès lors que leur indemnité de fonction résulte de l'application du barème prévu par le CGCT, sans nécessité de délibération du conseil municipal. En revanche, quand l'indemnité de fonction du maire a déjà été déterminée par délibération du conseil municipal, celle-ci demeure au niveau ainsi fixé dans la mesure où cette délibération reste en vigueur. Si les maires concernés par cette hypothèse souhaitent bénéficier immédiatement d'une indemnité plus élevée, ils doivent en conséquence faire procéder au vote d'une nouvelle délibération du conseil municipal, en application des articles L. 2123-23 et L. 2123-24 du CGCT. Par ailleurs, à l'issue du renouvellement général, les conseils municipaux nouvellement élus doivent obligatoirement délibérer sur le niveau des indemnités de fonction de leurs membres dans les trois mois qui suivent leur installation, en application de l'article L. 2123-20-1 du CGCT. Seule la fixation de l'indemnité du maire sera exclue de cette obligation. Le conseil municipal ne pourra délibérer que si le maire en formule la demande afin d'en réduire le montant. En l'absence d'une telle demande, le maire percevra automatiquement le montant tel qu'il résulte du barème fixé par l'article L. 2123-23 du CGCT, quel qu'ait été le niveau de l'indemnité du maire au cours du mandat précédent.
