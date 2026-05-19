@@ -1,0 +1,9 @@
+# Réponse à la question n° 3666
+
+- Question : [3666](3666.md) — Question n° 3666 — Mesures de soutien afin de compenser les coûts d'exploitation de l'électrolyse
+
+## Réponse
+
+*JO du 2026-05-19, page 4432*
+
+L'hydrogène représente un atout majeur pour la décarbonation des segments de l'industrie et des transports pour lesquels il n'y a pas d'alternative. L'hydrogène s'inscrit pleinement dans les priorités du Gouvernement, comme en témoigne la nouvelle version de la stratégie nationale de l'hydrogène décarboné publiée en avril 2025. Cette stratégie actualisée réaffirme et renforce les ambitions en matière de structuration de la filière hydrogène à l'horizon 2030 et 2035, en mettant l'accent sur le déploiement de capacités industrielles, le soutien à l'innovation, le développement de hubs territoriaux, et la structuration de filières intégrées sur l'ensemble de la chaîne de valeur. Elle vise à contribuer à la souveraineté énergétique et industrielle de la France, en stimulant une production nationale compétitive d'hydrogène décarboné, en particulier par électrolyse de l'eau, avec un objectif ambitieux jusqu'à 4,5 GW de capacité installée d'ici 2030 et qui pourrait atteindre une capacité installée de 8 GW à horizon 2035. Le décret n° 2019-570 fixe les conditions de mise en œuvre de la TIRUERT. Conformément aux attentes exprimées par la filière et en cohérence avec la stratégie nationale hydrogène, ce décret a été modifié afin de rendre éligible, dans un premier temps, l'hydrogène renouvelable à partir de fin 2023, puis, dans un second temps, l'hydrogène bas-carbone à compter du 13 mars 2025. Le Gouvernement continue à accompagner le développement de l'hydrogène bas carbone, avec un cadre lisible et incitatif aux industriels, pour accélérer l'innovation et les investissements.
