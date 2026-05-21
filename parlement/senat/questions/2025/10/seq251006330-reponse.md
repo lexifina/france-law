@@ -1,0 +1,9 @@
+# Réponse à la question SEQ251006330
+
+- Question : [SEQ251006330](seq251006330.md) — Précarisation des agents contractuels de la fonction publique
+
+## Réponse
+
+*Action et comptes publics, JO du 2026-05-21, page 2470*
+
+Le décret n° 2025-564 du 21 juin 2025 relatif aux régimes dérogatoires de report et d'indemnisation des droits à congé annuel dans la fonction publique s'inscrit dans un cadre juridique contraint. Il vise à assurer la conformité du droit national avec les exigences du droit de l'Union européenne, notamment l'article 7 de la directive 2003/88/CE sur certains aspects de l'aménagement du temps de travail et l'article 10 de la directive (UE) 2019/1158 relative à l'équilibre entre vie professionnelle et vie privée. Le décret ouvre désormais la possibilité aux agents, quel que soit le motif de la fin de la relation de travail, de reporter et d'obtenir l'indemnisation des congés annuels non pris lorsqu'ils n'ont pas été en mesure de les prendre. Cette évolution étend et corrige l'accès à un droit auparavant limité à certaines situations spécifiques, telles qu'un congé pour raison de santé ou lié à des responsabilités parentales ou familiales, et garantit ainsi l'effectivité du droit à congé pour l'ensemble des fonctionnaires et des contractuels. À cet égard, il convient de rappeler que la prise effective de ses congés par un agent demeure le principe, les droits à congés non utilisés donnant lieu seulement par exception à une indemnité compensatrice, lorsque l'agent n'a pas été en mesure d'exercer son droit au repos avant la cessation de ses fonctions. Le texte, qui a fait l'objet au cours de l'année 2025 de consultations avec les différents employeurs et les organisations représentatives du personnel de la fonction publique, harmonise les modalités de calcul de cette indemnité, jusqu'alors complexes et susceptibles de générer d'importantes disparités.
