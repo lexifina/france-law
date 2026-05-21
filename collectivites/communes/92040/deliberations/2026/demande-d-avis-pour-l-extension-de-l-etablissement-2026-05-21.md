@@ -1,0 +1,14 @@
+# Ville d'Issy-les-Moulineaux : délibération — Demande d'avis pour l'extension de l'établissement d'accueil du jeune enfant sis 7 rue de la Gare et géré par la société La Maison Bleue.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2026-05-21
+- Matière : PETITE ENFANCE
+- Objet : Demande d'avis pour l'extension de l'établissement d'accueil du jeune enfant sis 7 rue de la Gare et géré par la société La Maison Bleue.
+- Transmis à la préfecture : 2026-05-27
+- Votants : 48
+- Pour : 41
+- Contre : 7
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjI2NTcsInB1ciI6ImJsb2JfaWQifX0=--6971bccc2a6d4e0cc11c09c94e4d2b263dfb5581/24%20-%20PENF%20-%20AO%20Avis%20extension%20Pistache%20La%20Maison%20Bleue%20MAI%202026%20OK%20KS.docx.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
