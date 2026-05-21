@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001233
+
+- Question : [SEQ241001233](seq241001233.md) — Modalités de taxation suite au renouvellement de parcs éoliens à Rézentières
+
+## Réponse
+
+*Porte-parole du Gouvernement et Énergie, JO du 2026-05-21, page 2492*
+
+L'imposition forfaitaire sur les entreprises de réseaux, IFER, est un impôt qui existe sur dix catégories de composantes différentes, des secteurs de l'énergie, du transport et des télécommunications, dont les éoliennes. Les bénéficiaires sont les communes, départements et EPCI. Il permet aux collectivités de bénéficier de recettes supplémentaires sur leur budget par l'implantation d'installations sur leur territoire. La répartition de l'IFER pour un parc éolien donné dépend de la date d'installation du parc et, pour les parcs installés avant le 1er janvier 2019, de la catégorie de l'EPCI sur lequel le parc éolien est implanté. L'article 1519D du code général des impôts détermine le tarif de l'IFER pour l'année en cours pour les parcs éoliens d'une puissance installée supérieure ou égale à 100kWc. Afin de rendre attractif le renouvellement des parcs éolien pour les communes, l'article 169 de la loi de finances pour 2026 permet d'appliquer, aux parcs renouvelés à partir du 1er janvier 2026 qui augmentent leur puissance, la répartition de l'IFER applicable aux nouveaux parcs mis en service depuis le 1er janvier 2019. Celle-ci prévoit 50% pour les EPCI, 30% pour les départements et 20% pour les communes, au lieu de 70% EPCI et 30% département selon l'ancienne répartition. Cela permet effectivement d'inciter les communes accueillant déjà des parcs éoliens à être motrices pour leur renouvellement en cohérence avec les objectifs affichés par la programmation pluriannuelle de l'énergie (PPE3).
