@@ -1,0 +1,9 @@
+# Réponse à la question SEQ251206959
+
+- Question : [SEQ251206959](seq251206959.md) — Pré-requis à l'ouverture d'un compte au registre national des certificats d'économies d'énergie
+
+## Réponse
+
+*Porte-parole du Gouvernement et Énergie, JO du 2026-05-21, page 2497*
+
+Le projet de décret relatif à la sixième période du dispositif des certificats d'économies d'énergie (CEE) initialement transmis au Conseil d'Etat comportait effectivement un projet d'article R. 221-26 du code de l'énergie visant à fixer les conditions préalables à l'ouverture d'un compte sur le registre national des CEE. Cependant, cet article n'a finalement pas été retenu dans la version finale du fait que ces dispositions relèvent d'un décret simple et non d'un décret en Conseil d'Etat. Un projet de décret simple est en cours de préparation, a été examiné au Conseil supérieur de l'énergie le 16 avril et sera publié d'ici l'été 2026. Ces dispositions participeront à l'amélioration du contrôle de l'accès au registre national des CEE et, par conséquent, à sa sécurisation. Elles permettront également de mieux contrôler l'accès au marché secondaire des CEE puisque seules les personnes disposant d'un compte dans le registre peuvent acheter et vendre des CEE. S'agissant plus largement des dispositions relatives à la lutte contre la fraude, le Gouvernement a transmis au Parlement le 31 juillet 2025 le rapport requis au titre de l'article L. 221-1-2 du code de l'énergie [1]. Ce dernier détaille les actions de contrôles, sanctions et lutte contre la fraude mises en oeuvres. De plus, la publication de la loi n° 2025-594 du 30 juin 2025 contre toutes les fraudes aux aides publiques vient renforcer les outils à la disposition du Gouvernement, notamment la possibilité de sanctionner les auteurs d'opérations non-conformes avant la délivrance des CEE ou encore le name and shame. [1]https://www.ecologie.gouv.fr/sites/default/files/documents/Rapport%20au%20Parlement%20-%20Dispositif%20CEE.pdf
