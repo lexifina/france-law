@@ -554,11 +554,15 @@ Navires armés à la pêche côtière ou à la pêche au large et :
 
 ou
 
-2. D'une longueur de référence ≥ à 24 mètres et < à 45 mètres et allant au plus à 100 milles des côtes |
+2. D'une longueur de référence ≥ à 24 mètres et < à 45 mètres et allant au plus à 100 milles des côtes
+
+|
 
 Navires armés à la pêche côtière
 
-ou à la pêche au large |
+ou à la pêche au large
+
+|
 
 Navires armés à la grande pêche |
 
@@ -764,25 +768,33 @@ NAVIRES D'UNE PUISSANCE
 
 PROPULSIVE INFÉRIEURE
 
-À 250 KW (3) |
+À 250 KW (3)
+
+|
 
 NAVIRES D'UNE PUISSANCE
 
 PROPULSIVE INFÉRIEURE
 
-À 750 KW |
+À 750 KW
+
+|
 
 NAVIRES D'UNE PUISSANCE
 
 PROPULSIVE INFÉRIEURE
 
-À 3 000 KW |
+À 3 000 KW
+
+|
 
 NAVIRES D'UNE PUISSANCE
 
 PROPULSIVE INFÉRIEURE
 
-À 8 000 KW |
+À 8 000 KW
+
+|
 
 NAVIRES D'UNE PUISSANCE
 
@@ -790,7 +802,9 @@ PROPULSIVE ÉGALE OU
 
 SUPÉRIEURE
 
-À 8 000 KW |
+À 8 000 KW
+
+|
 
 Fonctions |
 
@@ -800,7 +814,9 @@ Second mécanicien |
 
 Chef
 
-mécanicien |
+mécanicien
+
+|
 
 Officier chargé du quart à la machine |
 
@@ -808,7 +824,9 @@ Second mécanicien |
 
 Chef
 
-mécanicien |
+mécanicien
+
+|
 
 Officier chargé du quart à la machine |
 
@@ -816,7 +834,9 @@ Second mécanicien |
 
 Chef
 
-mécanicien |
+mécanicien
+
+|
 
 Officier chargé du quart à la machine |
 
@@ -824,7 +844,9 @@ Second mécanicien |
 
 Chef
 
-mécanicien |
+mécanicien
+
+|
 
 Officier chargé du quart à la machine |
 
@@ -832,7 +854,9 @@ Second mécanicien |
 
 Chef
 
-mécanicien |
+mécanicien
+
+|
 
 Titres |
 
@@ -1358,7 +1382,7 @@ X |
 
 (5) Les titulaires du brevet de mécanicien 750 kW peuvent exercer des fonctions définies dans le présent tableau à bord des navires armés au commerce exerçant des activités de transport de passagers effectuant dans les eaux territoriales un service en mer de moins de douze heures, équipés de deux moteurs d'une puissance propulsive inférieure à 750 kW chacun et permettant d'assurer la vitesse de sécurité du navire.
 
-(6) Les titulaires du brevet de mécanicien 250 kW, du brevet de capitaine 200 et du brevet capitaine 200 pêche peuvent également exercer les fonctions définies dans le présent tableau à bord des navires de moins de 400 kW armés à la petite pêche. Les titulaires de ces mêmes brevets peuvent également exercer les fonctions définies dans le présent tableau à bord des navires de moins de 400 kW armés à la pêche côtière et autorisés à prendre la mer en 3e, 4e ou 5e catégorie de navigation.
+(6) Les titulaires du brevet de mécanicien 250 kW, du brevet de capitaine 200 et du brevet capitaine 200 pêche peuvent également exercer les fonctions définies dans le présent tableau à bord des navires de moins de 400 kW armés à la petite pêche. Les titulaires de ces mêmes brevets peuvent également exercer les fonctions définies dans le présent tableau à bord des navires de moins de 400 kW armés à la pêche côtière et autorisés à prendre la mer en 3e catégorie, y compris ceux autorisés à naviguer sans s'éloigner de plus de 40 milles de la terre la plus proche, en 4e catégorie bis, en 4e catégorie ou en 5e catégorie de navigation.
 
 (7) Les titulaires du brevet de mécanicien 750 kW peuvent exercer des fonctions définies dans le présent tableau à bord des navires de maintenance en mer lorsque ces navires pratiquent le cabotage national ou la navigation côtière, sont dotés de deux moteurs de propulsion d'une puissance totale de moins de 3 000 kW, ont une jauge inférieure ou égale à 200, ne s'éloignent pas à plus de 60 milles des côtes et pour la seule navigation dans les eaux sous juridiction française permettant d'assurer l'exploitation du navire en toute sécurité.
 
@@ -1416,13 +1440,17 @@ Opérateur des radiocommunications exploitées dans le cadre du SMDSM dans toute
 
 -des navires de pêche neufs d'une longueur de référence inférieure à 24 mètres et existants d'une longueur de référence inférieure à 45 mètres. |
 
-Certificat restreint d'opérateur (CRO) |
+Certificat restreint d'opérateur (CRO)
+
+|
 
 Opérateur des radiocommunications. |
 
-Opérateur des radiocommunications à bord d'un navire exploité dans le cadre du SMDSM dans la zone océanique A 1 définie par le règlement annexé à l'arrêté du 23 novembre 1987 modifié. |
+Opérateur des radiocommunications à bord d'un navire exploité dans le cadre du SMDSM dans la zone océanique A 1 définie par le règlement annexé à l'arrêté du 23 novembre 1987 modifié relatif à la sécurité des navires et à la prévention de la pollution. (1) |
 
-Certificat général d'opérateur (CGO) |
+Certificat général d'opérateur (CGO)
+
+|
 
 Opérateur des radiocommunications. |
 
@@ -1433,6 +1461,8 @@ Certificat de radioélectronicien de 1re classe du service mobile maritime et du
 Opérateur des radiocommunications responsable de l'entretien des installations SMDSM. |
 
 Opérateur des radiocommunications responsable de l'entretien des installations SMDSM dans toutes les zones océaniques. |
+
+(1) Les titulaires du certificat restreint d'opérateur peuvent exercer les fonctions d'opérateur des radiocommunications à bord des navires armés à la pêche en 3e catégorie de navigation autorisés à naviguer sans s'éloigner de plus de 40 milles de la terre la plus proche.
 
 Tableau VII.-Titres permettant d'exercer les fonctions d'appui à bord des navires armés au commerce, à la plaisance et à la pêche
 
@@ -1718,13 +1748,13 @@ X |
 
 (1) Les titulaires du certificat d'aptitude au commandement à la petite pêche peuvent exercer des fonctions de matelot à bord des navires armés aux cultures marines et des fonctions de patron à bord des navires de moins de 9 mètres armés aux cultures marines en 4e ou 5e catégorie de navigation sauf pour l'outre-mer où la limite est portée à 12 milles des côtes.
 
-Tableau IX.-Titres permettant l'exercice de prérogatives à bord de certains navires armés au commerce et à la plaisance
+Tableau IX. - Titres permettant l'exercice de prérogatives à bord de certains navires armés au commerce et à la plaisance
 
-Titres/ Prérogatives |
+Titres/Prérogatives |
 
-Capitaine ou matelot de navires à moteur de longueur inférieure à 12 mètres effectuant une navigation à moins de 2 milles du point de départ ne transportant aucun passager-Puissance propulsive strictement inférieure à 160 kW |
+Capitaine ou matelot de navires à moteur de longueur inférieure à 12 mètres effectuant une navigation à moins de 2 milles du point de départ ne transportant aucun passager-Puissance propulsive strictement inférieure à 250 kW |
 
-Capitaine ou matelot de navires à moteur de longueur inférieure à 12 mètres effectuant une navigation cumulativement à moins de 6 milles du point de départ et moins de 2 milles d'un abri, et transportant au plus 12 passagers-Puissance propulsive strictement inférieure à 160 kW |
+Capitaine ou matelot de navires à moteur de longueur inférieure à 12 mètres effectuant une navigation cumulativement à moins de 6 milles du point de départ et moins de 2 milles d'un abri, et transportant au plus 12 passagers-Puissance propulsive strictement inférieure à 250 kW |
 
 Capitaine ou matelot de navires à voile de longueur inférieure à 12 mètres effectuant une navigation diurne à moins de 6 milles d'un abri et transportant au plus 12 passagers |
 
@@ -1748,12 +1778,14 @@ Brevet d'aptitude à la conduite de petits navires à voile |
 
 × |
 
-× |
+× (2) |
 
 × |
 
-(1) Pour l'exercice des activités définies à l'article D. 921-67 et au 5e alinéa de l'article D. 922-30 du code rural et de la pêche maritime, les titulaires du brevet restreint d'aptitude à la conduite de petits navires exercent leurs prérogatives à bord de navires de longueur inférieure à 12 mètres effectuant une navigation à moins de 6 milles du point de départ et de puissance propulsive strictement inférieure à 250 kW.
+(1) Pour l'exercice des activités définies à l'article D. 921-67 et au 5e alinéa de l'article D. 922-30 du code rural et de la pêche maritime, les titulaires du brevet restreint d'aptitude à la conduite de petits navires exercent leurs prérogatives à bord de navires de longueur inférieure à 12 mètres effectuant une navigation à moins de 6 milles du point de départ.
+
+(2) Lors des départs et arrivées de compétitions de voile organisées par une structure affiliée à la Fédération française de voile (FFV), inscrites au calendrier FFV et déclarées sous la forme d'une manifestation nautique auprès des autorités compétentes, la navigation peut s'effectuer jusqu'à 6 milles d'un abri uniquement pour les personnes accréditées par la structure organisatrice.
 
 NOTA :
 
-Conformément à l'article 2 du décret n° 2024- du 3 décembre 2024 (NOR : PTDM2426838D), ces dispositions sont applicables en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.
+Conformément à l'article 4 du décret n° 2026-392 du 22 mai 2026, ces dispositions, dans leur rédaction issue du décret précité, sont applicables en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.
