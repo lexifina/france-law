@@ -48,27 +48,45 @@ Pour l'année 2020
 
 17 |
 
-Pour les années 2021 et 2022 |
-
-18 |
-
-Pour l'année 2023 |
-
-21 |
-
-Pour l'année 2024 |
-
-22 |
-
-Pour l'année 2025 |
-
-23 |
-
-Professeur des écoles de classe exceptionnelle |
+Pour les années 2021 et 2022
 
 |
 
-Pour les années 2024, 2025, 2026 |
+18 |
+
+Pour l'année 2023
+
+|
+
+21 |
+
+Pour l'année 2024
+
+|
+
+22 |
+
+Pour l'année 2025
+
+|
+
+23 |
+
+Pour l'année 2026
+
+|
+
+23 |
+
+Professeur des écoles de classe exceptionnelle
+
+|
+
+|
+
+Pour les années 2024, 2025, 2026
+
+|
 
 29 |
 
@@ -94,31 +112,51 @@ Professeur agrégé hors classe
 
 |
 
-Pour les années 2018, 2019 et 2020 |
-
-17 |
-
-Pour les années 2021 et 2022 |
-
-18 |
-
-Pour l'année 2023 |
-
-21 |
-
-Pour l'année 2024 |
-
-22 |
-
-Pour l'année 2025 |
-
-23 |
-
-Professeur agrégé de classe exceptionnelle |
+Pour les années 2018, 2019 et 2020
 
 |
 
-Pour les années 2024, 2025, 2026 |
+17 |
+
+Pour les années 2021 et 2022
+
+|
+
+18 |
+
+Pour l'année 2023
+
+|
+
+21 |
+
+Pour l'année 2024
+
+|
+
+22 |
+
+Pour l'année 2025
+
+|
+
+23 |
+
+Pour l'année 2026
+
+|
+
+23 |
+
+Professeur agrégé de classe exceptionnelle
+
+|
+
+|
+
+Pour les années 2024, 2025, 2026
+
+|
 
 13,5 |
 
@@ -138,35 +176,57 @@ Professeur certifié hors classe
 
 |
 
-Pour les années 2018, 2019 et 2020 |
-
-17 |
-
-Pour les années 2021 et 2022 |
-
-18 |
-
-Pour l'année 2023 |
-
-21 |
-
-Pour l'année 2024 |
-
-22 |
-
-Pour l'année 2025 |
-
-23 |
-
-Professeur certifié de classe exceptionnelle |
+Pour les années 2018, 2019 et 2020
 
 |
 
-Pour les années 2024 et 2025 |
+17 |
+
+Pour les années 2021 et 2022
+
+|
+
+18 |
+
+Pour l'année 2023
+
+|
+
+21 |
+
+Pour l'année 2024
+
+|
+
+22 |
+
+Pour l'année 2025
+
+|
+
+23 |
+
+Pour l'année 2026
+
+|
+
+23 |
+
+Professeur certifié de classe exceptionnelle
+
+|
+
+|
+
+Pour les années 2024 et 2025
+
+|
 
 9 |
 
-Pour l'année 2026 |
+Pour l'année 2026
+
+|
 
 9,5 |
 
@@ -186,35 +246,57 @@ Professeur d'éducation physique et sportive hors classe
 
 |
 
-Pour les années 2018, 2019 et 2020 |
-
-17 |
-
-Pour les années 2021 et 2022 |
-
-18 |
-
-Pour l'année 2023 |
-
-21 |
-
-Pour l'année 2024 |
-
-22 |
-
-Pour l'année 2025 |
-
-23 |
-
-Professeur d'éducation physique et sportive de classe exceptionnelle |
+Pour les années 2018, 2019 et 2020
 
 |
 
-Pour les années 2024 et 2025 |
+17 |
+
+Pour les années 2021 et 2022
+
+|
+
+18 |
+
+Pour l'année 2023
+
+|
+
+21 |
+
+Pour l'année 2024
+
+|
+
+22 |
+
+Pour l'année 2025
+
+|
+
+23 |
+
+Pour l'année 2026
+
+|
+
+23 |
+
+Professeur d'éducation physique et sportive de classe exceptionnelle
+
+|
+
+|
+
+Pour les années 2024 et 2025
+
+|
 
 10,5 |
 
-Pour l'année 2026 |
+Pour l'année 2026
+
+|
 
 9,5 |
 
@@ -234,35 +316,57 @@ Professeur de lycée professionnel hors classe
 
 |
 
-Pour les années 2018, 2019 et 2020 |
-
-17 |
-
-Pour les années 2021 et 2022 |
-
-18 |
-
-Pour l'année 2023 |
-
-21 |
-
-Pour l'année 2024 |
-
-22 |
-
-Pour l'année 2025 |
-
-23 |
-
-Professeur de lycée professionnel de classe exceptionnelle |
+Pour les années 2018, 2019 et 2020
 
 |
 
-Pour les années 2024 et 2025 |
+17 |
+
+Pour les années 2021 et 2022
+
+|
+
+18 |
+
+Pour l'année 2023
+
+|
+
+21 |
+
+Pour l'année 2024
+
+|
+
+22 |
+
+Pour l'année 2025
+
+|
+
+23 |
+
+Pour l'année 2026
+
+|
+
+23 |
+
+Professeur de lycée professionnel de classe exceptionnelle
+
+|
+
+|
+
+Pour les années 2024 et 2025
+
+|
 
 9 |
 
-Pour l'année 2026 |
+Pour l'année 2026
+
+|
 
 9,5 |
 
@@ -334,35 +438,57 @@ Conseiller principal d'éducation hors classe
 
 |
 
-Pour les années 2018, 2019 et 2020 |
-
-17 |
-
-Pour les années 2021 et 2022 |
-
-18 |
-
-Pour l'année 2023 |
-
-21 |
-
-Pour l'année 2024 |
-
-22 |
-
-Pour l'année 2025 |
-
-23 |
-
-Conseiller principal d'éducation de classe exceptionnelle |
+Pour les années 2018, 2019 et 2020
 
 |
 
-Pour les années 2024 et 2025 |
+17 |
+
+Pour les années 2021 et 2022
+
+|
+
+18 |
+
+Pour l'année 2023
+
+|
+
+21 |
+
+Pour l'année 2024
+
+|
+
+22 |
+
+Pour l'année 2025
+
+|
+
+23 |
+
+Pour l'année 2026
+
+|
+
+23 |
+
+Conseiller principal d'éducation de classe exceptionnelle
+
+|
+
+|
+
+Pour les années 2024 et 2025
+
+|
 
 10,5 |
 
-Pour l'année 2026 |
+Pour l'année 2026
+
+|
 
 9,5 |
 
@@ -380,35 +506,57 @@ Psychologue de l'éducation nationale hors classe
 
 |
 
-Pour les années 2018, 2019 et 2020 |
-
-17 |
-
-Pour les années 2021 et 2022 |
-
-18 |
-
-Pour l'année 2023 |
-
-21 |
-
-Pour l'année 2024 |
-
-22 |
-
-Pour l'année 2025 |
-
-23 |
-
-Psychologue de l'éducation nationale de classe exceptionnelle |
+Pour les années 2018, 2019 et 2020
 
 |
 
-Pour les années 2024 et 2025 |
+17 |
+
+Pour les années 2021 et 2022
+
+|
+
+18 |
+
+Pour l'année 2023
+
+|
+
+21 |
+
+Pour l'année 2024
+
+|
+
+22 |
+
+Pour l'année 2025
+
+|
+
+23 |
+
+Pour l'année 2026
+
+|
+
+23 |
+
+Psychologue de l'éducation nationale de classe exceptionnelle
+
+|
+
+|
+
+Pour les années 2024 et 2025
+
+|
 
 7,5 |
 
-Pour l'année 2026 |
+Pour l'année 2026
+
+|
 
 9,5 |
 
