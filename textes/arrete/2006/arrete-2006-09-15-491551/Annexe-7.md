@@ -1,40 +1,34 @@
 # Article Annexe 7
 
-DONNÉES DES RÉSEAUX DE CHALEUR ET DE FROID (ANNÉES D'EXPLOITATION 2021-2022-2023)
+DONNÉES DES RÉSEAUX DE CHALEUR ET DE FROID (ANNÉES D'EXPLOITATION 2022-2023-2024)
 
 Pour l'utilisation du tableau ci-dessous :
 
-I.-Les réseaux de chaleur sont les réseaux pour lesquels l'identifiant réseau, défini à la première colonne du tableau ci-dessous, se termine par la lettre &laquo; C &raquo;. Les réseaux de froid sont les réseaux pour lesquels l'identifiant réseau, défini à la première colonne du tableau ci-dessous, se termine par la lettre &laquo; F &raquo;.
+I. - Les réseaux de chaleur sont les réseaux pour lesquels l'identifiant réseau, défini à la première colonne du tableau ci-dessous, se termine par la lettre "C". Les réseaux de froid sont les réseaux pour lesquels l'identifiant réseau, défini à la première colonne du tableau ci-dessous, se termine par la lettre "F".
 
-II.-Les facteurs d'émission des réseaux de chaleur ou de froid définis par la quatrième colonne du tableau ci-dessous, sont les facteurs d'émission utilisés pour l'application de l'arrêté du 26 octobre 2010 relatif aux caractéristiques thermiques et aux exigences de performance énergétique des bâtiments nouveaux et des parties nouvelles de bâtiments, conformément à son annexe VIII, et de l'arrêté du 28 décembre 2012 relatif aux caractéristiques thermiques et aux exigences de performance énergétique des bâtiments nouveaux et des parties nouvelles de bâtiments autres que ceux concernés par l'article 2 du décret du 26 octobre 2010 relatif aux caractéristiques thermiques et à la performance énergétique des constructions, conformément à son annexe VIII.
+II. - Les facteurs d'émission des réseaux de chaleur ou de froid définis par la quatrième colonne du tableau ci-dessous, sont les facteurs d'émission utilisés pour l'application de l'arrêté du 26 octobre 2010 relatif aux caractéristiques thermiques et aux exigences de performance énergétique des bâtiments nouveaux et des parties nouvelles de bâtiments, conformément à son annexe VIII, et de l'arrêté du 28 décembre 2012 relatif aux caractéristiques thermiques et aux exigences de performance énergétique des bâtiments nouveaux et des parties nouvelles de bâtiments autres que ceux concernés par l'article 2 du décret du 26 octobre 2010 relatif aux caractéristiques thermiques et à la performance énergétique des constructions, conformément à son annexe VIII.
 
-III.-Les facteurs d'émission des réseaux de chaleur ou de froid définis par la cinquième colonne du tableau ci-dessous, sont les facteurs d'émission utilisés pour l'application de l'arrêté du 15 septembre 2006 relatif au diagnostic de performance énergétique pour les bâtiments ou parties de bâtiment autres que d'habitation existants proposés à la vente en France métropolitaine, de l'arrêté du 10 avril 2020 relatif aux obligations d'actions de réduction des consommations d'énergie finale dans des bâtiments à usage tertiaire, et de l'arrêté du 4 août 2021 relatif aux exigences de performance énergétique et environnementale des constructions de bâtiments en France métropolitaine et portant approbation de la méthode de calcul prévue à l'article R. 172-6 du code de la construction et de l'habitation, conformément à son article 10.
+III. - Les facteurs d'émission des réseaux de chaleur ou de froid définis par la cinquième colonne du tableau ci-dessous, sont les facteurs d'émission utilisés pour l'application de l'arrêté du 15 septembre 2006 relatif au diagnostic de performance énergétique pour les bâtiments ou parties de bâtiment autres que d'habitation existants proposés à la vente en France métropolitaine, de l'arrêté du 10 avril 2020 relatif aux obligations d'actions de réduction des consommations d'énergie finale dans des bâtiments à usage tertiaire, et de l'arrêté du 4 août 2021 relatif aux exigences de performance énergétique et environnementale des constructions de bâtiments en France métropolitaine et portant approbation de la méthode de calcul prévue à l'article R. 172-6 du code de la construction et de l'habitation, conformément à son article 10.
 
-IV.-Les ratios d'énergie renouvelable et de récupération des réseaux de chaleur définis par la sixième colonne du tableau ci-dessous, sont les ratios d'énergie renouvelable et de récupération utilisés pour l'application de l'arrêté du 10 avril 2020 susmentionné, de l'arrêté du 31 mars 2021 relatif au diagnostic de performance énergétique pour les bâtiments ou parties de bâtiments à usage d'habitation en France métropolitaine, et de l'arrêté du 4 août 2021 susmentionné, conformément à son article 9. Quel que soit le réseau de chaleur ou de froid, les valeurs des lignes &laquo; autres réseaux de chaleur &raquo; et &laquo; Autres réseaux de froid &raquo; du tableau ci-dessous peuvent être utilisées ; le cas échéant, seules les valeurs de ces lignes sont utilisées.
+IV. - Les ratios d'énergie renouvelable et de récupération des réseaux de chaleur définis par la sixième colonne du tableau ci-dessous, sont les ratios d'énergie renouvelable et de récupération utilisés pour l'application de l'arrêté du 10 avril 2020 susmentionné, de l'arrêté du 31 mars 2021 relatif au diagnostic de performance énergétique pour les bâtiments ou parties de bâtiments à usage d'habitation en France métropolitaine, et de l'arrêté du 4 août 2021 susmentionné, conformément à son article 9. Quel que soit le réseau de chaleur ou de froid, les valeurs des lignes autres réseaux de chaleur et Autres réseaux de froid du tableau ci-dessous peuvent être utilisées ; le cas échéant, seules les valeurs de ces lignes sont utilisées.
 
-V.-Dans le cas où un réseau de chaleur ou de froid fait l'objet d'un agrément du ministre chargé de la construction et de l'habitation et du ministre chargé de l'énergie conformément aux dispositions du titre V de l'arrêté du 26 octobre 2010 susmentionné et du titre V de l'arrêté du 28 décembre 2012 susmentionné, les valeurs définies dans ledit agrément peuvent être utilisées pour l'application des deux arrêtés précédemment mentionnés.
+V.- Dans le cas où un réseau de chaleur ou de froid fait l'objet d'un agrément du ministre chargé de la construction et de l'habitation et du ministre chargé de l'énergie conformément aux dispositions du titre V de l'arrêté du 26 octobre 2010 susmentionné et du titre V de l'arrêté du 28 décembre 2012 susmentionné, les valeurs définies dans ledit agrément peuvent être utilisées pour l'application des deux arrêtés précédemment mentionnés.
 
-VI.-Dans le cas où un réseau de chaleur ou de froid fait l'objet d'une approbation du ministre chargé de la construction et du ministre chargé de l'énergie conformément aux dispositions du titre V de l'arrêté du 4 août 2021 susmentionné, les valeurs définies dans ledit agrément peuvent être utilisées pour l'application de l'arrêté précédemment mentionné.
+VI. - Dans le cas où un réseau de chaleur ou de froid fait l'objet d'une approbation du ministre chargé de la construction et du ministre chargé de l'énergie conformément aux dispositions du titre V de l'arrêté du 4 août 2021 susmentionné, les valeurs définies dans ledit agrément peuvent être utilisées pour l'application de l'arrêté précédemment mentionné.
 
 Identifiant réseau |
 
-NOM DU RÉSEAU |
+NOM DU RESEAU |
 
 LOCALISATION |
 
-Contenu CO2 [kgCO2/ kWh] |
+Contenu CO₂ [kgCO2/kWh] |
 
-Contenu CO2 ACV [kgCO2/ kWh] |
+Contenu CO2 ACV [kgCO2/kWh] |
 
-Taux EnR & R [%] |
+Taux EnR&R [%] |
 
-Année
-
-de référence
-
-du taux [2023 ou Moyenne 2021-2022-2023]
-
-|
+Année de référence du taux [2024 ou Moyenne 2022-2023-2024] |
 
 0102C |
 
@@ -42,11 +36,11 @@ RÉSEAU DE CHALEUR D'HAUTEVILLE LOMPNES |
 
 PLATEAU D'HAUTEVILLE |
 
-0,077 |
+0,175 |
 
-0,109 |
+0,211 |
 
-78,7 % |
+51,1% |
 
 Moyenne |
 
@@ -56,13 +50,13 @@ OYONNAX BIOCHALEUR |
 
 OYONNAX |
 
-0,043 |
+0,039 |
 
-0,066 |
+0,062 |
 
-84,8 % |
+85,7% |
 
-2023 |
+Moyenne |
 
 0105C |
 
@@ -70,13 +64,13 @@ RÉSEAU DE SAINT-DENIS-LES-BOURG |
 
 SAINT-DENIS-LES-BOURG |
 
-0,021 |
+0,029 |
 
-0,049 |
+0,057 |
 
-93,3 % |
+90,7% |
 
-2023 |
+Moyenne |
 
 0106C |
 
@@ -86,39 +80,39 @@ BELLEY |
 
 0,016 |
 
-0,040 |
+0,041 |
 
-94,1 % |
+94,0% |
 
-2023 |
+Moyenne |
 
 0107C |
 
 SECTEUR VERGER DU MOULIN |
 
-TREFFORT-VAL-REVERMONT |
+TREFFORT - VAL-REVERMONT |
 
-0,024 |
+0,079 |
 
-0,047 |
+0,111 |
 
-92,5 % |
+77,5% |
 
 Moyenne |
 
 0108C |
 
-BOURG-EN-BRESSE-LA VINAIGRERIE |
+BOURG-EN-BRESSE - LA VINAIGRERIE |
 
 BOURG-EN-BRESSE |
 
 0,057 |
 
-0,081 |
+0,083 |
 
-77,9 % |
+80,4% |
 
-2023 |
+2024 |
 
 0109C |
 
@@ -126,13 +120,13 @@ RÉSEAU CHAUFFAGE DORTAN |
 
 DORTAN |
 
-0,184 |
+0,093 |
 
-0,231 |
+0,133 |
 
-46,4 % |
+78,0% |
 
-Moyenne |
+2024 |
 
 0110C |
 
@@ -140,13 +134,13 @@ RÉSEAU DE CHALEUR ASSURC À BOURG-EN-BRESSE |
 
 BOURG-EN-BRESSE |
 
-0,064 |
+0,061 |
 
-0,089 |
+0,086 |
 
-75,4 % |
+77,1% |
 
-2023 |
+2024 |
 
 0111C |
 
@@ -154,11 +148,11 @@ CORMARANCHE |
 
 PLATEAU D'HAUTEVILLE |
 
-0,091 |
+0,177 |
 
-0,136 |
+0,221 |
 
-82,1 % |
+54,3% |
 
 Moyenne |
 
@@ -168,13 +162,13 @@ ZUP DU QUARTIER EUROPE |
 
 SAINT-QUENTIN |
 
-0,074 |
+0,069 |
 
-0,114 |
+0,106 |
 
-59,1 % |
+63,2% |
 
-Moyenne |
+2024 |
 
 0202C |
 
@@ -182,13 +176,13 @@ ZUP DE PRESLES |
 
 SOISSONS |
 
-0,061 |
+0,087 |
 
-0,083 |
+0,110 |
 
-72,5 % |
+62,3% |
 
-2023 |
+Moyenne |
 
 0204C |
 
@@ -196,11 +190,11 @@ RÉSEAU D'URCEL |
 
 URCEL |
 
-0,144 |
+0,247 |
 
-0,178 |
+0,286 |
 
-57,4 % |
+28,1% |
 
 Moyenne |
 
@@ -210,13 +204,13 @@ RÉSEAU DE CHÂTEAU THIERRY |
 
 CHATEAU-THIERRY |
 
-0,012 |
+0,011 |
 
-0,034 |
+0,033 |
 
-96,0 % |
+96,4% |
 
-2023 |
+Moyenne |
 
 0301C |
 
@@ -224,13 +218,13 @@ SDC MOULINS CHAMPINS |
 
 MOULINS |
 
-0,042 |
+0,045 |
 
 0,077 |
 
-73,0 % |
+73,5% |
 
-2023 |
+2024 |
 
 0302C |
 
@@ -240,9 +234,9 @@ MONTLUCON |
 
 0,089 |
 
-0,123 |
+0,127 |
 
-59,1 % |
+56,4% |
 
 Moyenne |
 
@@ -256,9 +250,9 @@ CERILLY |
 
 0,019 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 0304C |
 
@@ -268,11 +262,11 @@ MEAULNE |
 
 0,000 |
 
-0,074 |
+0,060 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 0305C |
 
@@ -280,17 +274,17 @@ RÉSEAU DU MAYET-DE-MONTAGNE |
 
 LE MAYET-DE-MONTAGNE |
 
-0,019 |
+0,025 |
 
-0,048 |
+0,054 |
 
-96,6 % |
+98,1% |
 
-Moyenne |
+2024 |
 
 0306C |
 
-RÉSEAU-BELLENAVES |
+RÉSEAU - BELLENAVES |
 
 BELLENAVES |
 
@@ -298,9 +292,9 @@ BELLENAVES |
 
 0,019 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 0307C |
 
@@ -308,13 +302,13 @@ RÉSEAU DE COMMENTRY |
 
 COMMENTRY |
 
-0,034 |
+0,029 |
 
-0,058 |
+0,053 |
 
-87,0 % |
+89,0% |
 
-2023 |
+2024 |
 
 0308C |
 
@@ -322,13 +316,13 @@ RÉSEAU DE CHALEUR D'EBREUIL |
 
 EBREUIL |
 
-0,020 |
+0,029 |
 
-0,042 |
+0,054 |
 
-93,0 % |
+90,2% |
 
-2023 |
+Moyenne |
 
 0309C |
 
@@ -336,13 +330,13 @@ SDC MOULINS VILLE |
 
 MOULINS |
 
-0,048 |
+0,050 |
 
 0,091 |
 
-73,0 % |
+73,5% |
 
-2023 |
+2024 |
 
 0310C |
 
@@ -350,13 +344,13 @@ RÉSEAU DE CHALEUR DE CUSSET |
 
 CUSSET |
 
-0,011 |
+0,015 |
 
-0,032 |
+0,037 |
 
-95,7 % |
+93,9% |
 
-2023 |
+Moyenne |
 
 0401C |
 
@@ -364,13 +358,13 @@ RÉSEAU DE MANOSQUE ZAC CHANTEPRUNIER |
 
 MANOSQUE |
 
-0,058 |
+0,045 |
 
-0,082 |
+0,070 |
 
-77,1 % |
+82,6% |
 
-Moyenne |
+2024 |
 
 0402C |
 
@@ -378,11 +372,11 @@ RÉSEAU DE LA CHAUFFERIE LA TOMIE |
 
 FORCALQUIER |
 
-0,017 |
+0,125 |
 
-0,040 |
+0,155 |
 
-92,4 % |
+61,7% |
 
 Moyenne |
 
@@ -394,11 +388,11 @@ FORCALQUIER |
 
 0,000 |
 
-0,023 |
+0,026 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 0404C |
 
@@ -406,11 +400,11 @@ RÉSEAU COMMUNAL D'ALLOS |
 
 ALLOS |
 
-0,018 |
+0,028 |
 
-0,044 |
+0,052 |
 
-93,9 % |
+90,7% |
 
 Moyenne |
 
@@ -420,13 +414,13 @@ RÉSEAU COMMUNAL DE CASTELLANE |
 
 CASTELLANE |
 
-0,114 |
+0,000 |
 
-0,140 |
+0,019 |
 
-66,7 % |
+100,0% |
 
-Moyenne |
+2024 |
 
 0406C |
 
@@ -434,13 +428,13 @@ RÉSEAU COMMUNAL DE BARCELONNETTE |
 
 BARCELONNETTE |
 
-0,132 |
+0,116 |
 
-0,177 |
+0,159 |
 
-68,0 % |
+69,3% |
 
-2023 |
+Moyenne |
 
 0501C |
 
@@ -448,11 +442,11 @@ RÉSEAU DE CHALEUR BOIS D'EMBRUN |
 
 EMBRUN |
 
-0,017 |
+0,019 |
 
-0,042 |
+0,044 |
 
-95,2 % |
+94,7% |
 
 Moyenne |
 
@@ -462,13 +456,13 @@ RÉSEAU DE L'ASSOCIATION LA CHRYSALIDE |
 
 TALLARD |
 
-0,064 |
+0,043 |
 
-0,086 |
+0,065 |
 
-73,7 % |
+81,4% |
 
-2023 |
+2024 |
 
 0505C |
 
@@ -476,13 +470,13 @@ RÉSEAU DE VEYNES |
 
 VEYNES |
 
-0,086 |
+0,242 |
 
-0,117 |
+0,286 |
 
-66,5 % |
+26,1% |
 
-2023 |
+Moyenne |
 
 0506C |
 
@@ -490,13 +484,13 @@ RÉSEAU DE BRIANÇON |
 
 BRIANCON |
 
-0,012 |
+0,017 |
 
-0,035 |
+0,041 |
 
-96,2 % |
+94,6% |
 
-2023 |
+Moyenne |
 
 0508C |
 
@@ -504,13 +498,13 @@ RÉSEAU DE CHALEUR BOIS ÉNERGIE |
 
 LE DÉVOLUY |
 
-0,114 |
+0,000 |
 
-0,143 |
+0,019 |
 
-66,7 % |
+100,0% |
 
-Moyenne |
+2024 |
 
 0509C |
 
@@ -518,13 +512,13 @@ RÉSEAU DE CHALEUR DE GUILLESTRE |
 
 GUILLESTRE |
 
-0,019 |
+0,011 |
 
-0,040 |
+0,034 |
 
-94,1 % |
+96,8% |
 
-2023 |
+2024 |
 
 0510C |
 
@@ -534,11 +528,81 @@ ORCIÈRES |
 
 0,000 |
 
-0,024 |
+0,025 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
+
+0511C |
+
+RISTOLAS |
+
+ABRIES RISTOLAS |
+
+0,000 |
+
+0,022 |
+
+100,0% |
+
+2024 |
+
+0512C |
+
+MOLINES EN QUEYRAS |
+
+MOLINES EN QUEYRAS |
+
+0,014 |
+
+0,038 |
+
+96,1% |
+
+2024 |
+
+0513C |
+
+VILLE VIEILLE |
+
+VILLE VIEILLE |
+
+0,000 |
+
+0,028 |
+
+100,0% |
+
+2024 |
+
+0514C |
+
+ARVIEUX |
+
+ARVIEUX |
+
+0,000 |
+
+0,036 |
+
+100,0% |
+
+2024 |
+
+0515C |
+
+RÉSEAU DE CHALEUR DE SAINT JEAN SAINT NICOLAS |
+
+SAINT JEAN SAINT NICOLAS |
+
+0,000 |
+
+0,023 |
+
+100,0% |
+
+2024 |
 
 0602C |
 
@@ -546,13 +610,13 @@ RÉSEAU NICE EST |
 
 NICE |
 
-0,216 |
+0,206 |
 
-0,244 |
+0,232 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 0603C |
 
@@ -560,13 +624,13 @@ RANGUIN |
 
 CANNES |
 
-0,060 |
+0,056 |
 
-0,083 |
+0,079 |
 
-74,6 % |
+76,3% |
 
-2023 |
+2024 |
 
 0604C |
 
@@ -574,11 +638,11 @@ RÉSEAU COMMUNAL DE PUGET THÉNIERS |
 
 PUGET-THENIERS |
 
-0,041 |
+0,072 |
 
-0,066 |
+0,101 |
 
-86,1 % |
+75,7% |
 
 Moyenne |
 
@@ -588,11 +652,11 @@ RÉSEAU CHALEUR ET FROID CHAINE DE VIE 06 |
 
 LEVENS |
 
-0,043 |
+0,058 |
 
-0,069 |
+0,087 |
 
-86,1 % |
+81,7% |
 
 Moyenne |
 
@@ -602,13 +666,27 @@ MSE RÉSEAU CHAUD |
 
 NICE |
 
-0,074 |
+0,067 |
 
-0,037 |
+0,033 |
 
-0,0 % |
+66,8% |
 
-2023 |
+2024 |
+
+0606F |
+
+MSE RÉSEAU FROID |
+
+NICE |
+
+0,010 |
+
+0,020 |
+
+- |
+
+2024 |
 
 0608C |
 
@@ -616,13 +694,27 @@ BET CAP AZUR CHAUD |
 
 ROQUEBRUNE |
 
-0,099 |
+0,152 |
 
-0,049 |
+0,071 |
 
-66,2 % |
+66,9% |
 
-Moyenne |
+2024 |
+
+0608F |
+
+BET CAP AZUR FROID |
+
+ROQUEBRUNE |
+
+0,013 |
+
+0,025 |
+
+- |
+
+2024 |
 
 0609C |
 
@@ -630,13 +722,69 @@ E2N |
 
 NICE |
 
-0,001 |
+0,003 |
 
-0,005 |
+0,007 |
 
-99,6 % |
+99,1% |
 
-2023 |
+Moyenne |
+
+0611C |
+
+BET GRAND ARENAS |
+
+NICE |
+
+0,323 |
+
+0,241 |
+
+0,0% |
+
+2024 |
+
+0611F |
+
+BET GRAND ARENAS |
+
+NICE |
+
+0,021 |
+
+0,038 |
+
+- |
+
+2024 |
+
+0612C |
+
+BET MARENDA |
+
+ANTIBES |
+
+0,070 |
+
+0,035 |
+
+84,3% |
+
+2024 |
+
+0612F |
+
+BET MARENDA |
+
+ANTIBES |
+
+0,016 |
+
+0,029 |
+
+- |
+
+2024 |
 
 0701C |
 
@@ -644,13 +792,13 @@ RÉSEAU D'AUBENAS |
 
 AUBENAS |
 
-0,017 |
+0,012 |
 
-0,041 |
+0,036 |
 
-94,1 % |
+95,7% |
 
-2023 |
+2024 |
 
 0702C |
 
@@ -658,13 +806,13 @@ RÉSEAU DU CHEYLARD |
 
 LE CHEYLARD |
 
-0,024 |
+0,026 |
 
-0,049 |
+0,051 |
 
-94,2 % |
+94,3% |
 
-Moyenne |
+2024 |
 
 0703C |
 
@@ -674,11 +822,11 @@ VALGORGE |
 
 0,000 |
 
-0,020 |
+0,022 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 0704C |
 
@@ -690,9 +838,9 @@ BANNE |
 
 0,022 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 0705C |
 
@@ -700,13 +848,13 @@ RÉSEAU DE CHALEUR COMMUNAL DE BURZET |
 
 BURZET |
 
-0,000 |
+0,001 |
 
-0,030 |
+0,033 |
 
-100,0 % |
+99,8% |
 
-2023 |
+Moyenne |
 
 0706C |
 
@@ -716,11 +864,11 @@ CHALENCON |
 
 0,000 |
 
-0,022 |
+0,019 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 0707C |
 
@@ -728,13 +876,13 @@ RÉSEAU DE LA CHAUFFERIE BOIS |
 
 MONTPEZAT-SOUS-BAUZON |
 
-0,000 |
+0,114 |
 
-0,028 |
+0,147 |
 
-100,0 % |
+66,7% |
 
-2023 |
+Moyenne |
 
 0709C |
 
@@ -744,11 +892,11 @@ BEAUVENE |
 
 0,000 |
 
-0,022 |
+0,017 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 0801C |
 
@@ -758,11 +906,11 @@ ECORDAL |
 
 0,000 |
 
-0,021 |
+0,018 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 0802C |
 
@@ -770,13 +918,13 @@ LA CITADELLE |
 
 CHARLEVILLE-MEZIERES |
 
-0,123 |
+0,144 |
 
-0,141 |
+0,165 |
 
-46,2 % |
+41,6% |
 
-2023 |
+Moyenne |
 
 0803C |
 
@@ -784,13 +932,13 @@ ZUP DE SEDAN |
 
 SEDAN |
 
-0,053 |
+0,047 |
 
-0,079 |
+0,072 |
 
-79,6 % |
+82,2% |
 
-2023 |
+2024 |
 
 0804C |
 
@@ -798,13 +946,13 @@ RÉSEAU DE CHALEUR BOIS DE MACHAULT |
 
 MACHAULT |
 
-0,142 |
+0,019 |
 
-0,189 |
+0,051 |
 
-68,4 % |
+96,2% |
 
-Moyenne |
+2024 |
 
 0805C |
 
@@ -814,11 +962,11 @@ CLAVY-WARBY |
 
 0,000 |
 
-0,023 |
+0,024 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 0806C |
 
@@ -826,11 +974,11 @@ RONDE COUTURE |
 
 CHARLEVILLE-MEZIERES |
 
-0,096 |
+0,111 |
 
-0,120 |
+0,138 |
 
-64,5 % |
+59,5% |
 
 Moyenne |
 
@@ -840,13 +988,13 @@ RÉSEAU DE CHALEUR DE ROCROI |
 
 ROCROI |
 
-0,056 |
+0,071 |
 
-0,088 |
+0,101 |
 
-82,7 % |
+77,4% |
 
-2023 |
+Moyenne |
 
 0809C |
 
@@ -856,11 +1004,11 @@ LALOBBE |
 
 0,000 |
 
-0,026 |
+0,024 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 0810C |
 
@@ -870,11 +1018,11 @@ POIX-TERRON |
 
 0,000 |
 
-0,033 |
+0,025 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 0811C |
 
@@ -884,11 +1032,11 @@ VILLERS-LE-TOURNEUR |
 
 0,000 |
 
-0,030 |
+0,028 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 0812C |
 
@@ -898,11 +1046,11 @@ SAINT-LOUP-TERRIER |
 
 0,000 |
 
-0,022 |
+0,017 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 0813C |
 
@@ -914,9 +1062,9 @@ MONTCORNET |
 
 0,022 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 0814C |
 
@@ -926,11 +1074,11 @@ THIN-LE-MOUTIER |
 
 0,000 |
 
-0,035 |
+0,031 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 0817C |
 
@@ -938,11 +1086,11 @@ RÉSEAU DE CHALEUR DE REVIN |
 
 REVIN |
 
-0,030 |
+0,043 |
 
-0,054 |
+0,070 |
 
-88,6 % |
+85,1% |
 
 Moyenne |
 
@@ -952,13 +1100,13 @@ ZUP DE LA CHAPELLE SAINT-LUC |
 
 LES NOES-PRES-TROYES |
 
-0,056 |
+0,050 |
 
-0,066 |
+0,064 |
 
-76,6 % |
+74,1% |
 
-2023 |
+2024 |
 
 1002C |
 
@@ -966,13 +1114,13 @@ LES CHARTREUX |
 
 TROYES |
 
-0,105 |
+0,067 |
 
-0,126 |
+0,079 |
 
-57,9 % |
+71,2% |
 
-Moyenne |
+2024 |
 
 1003C |
 
@@ -980,13 +1128,13 @@ BIOMASSE DE PINEY |
 
 PINEY |
 
-0,089 |
+0,084 |
 
-0,122 |
+0,118 |
 
-70,5 % |
+74,5% |
 
-2023 |
+2024 |
 
 1101C |
 
@@ -994,13 +1142,27 @@ ZAC SAINT JEAN ET & SAINT PIERRE |
 
 NARBONNE |
 
-0,142 |
+0,083 |
 
-0,174 |
+0,112 |
 
-56,0 % |
+71,7% |
 
-Moyenne |
+2024 |
+
+1102C |
+
+CEF - MCO |
+
+CARCASSONNE |
+
+0,136 |
+
+0,160 |
+
+41,2% |
+
+2024 |
 
 1103C |
 
@@ -1012,9 +1174,9 @@ LIMOUX |
 
 0,019 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 1201C |
 
@@ -1022,13 +1184,13 @@ RÉSEAU DE DECAZEVILLE |
 
 DECAZEVILLE |
 
-0,038 |
+0,082 |
 
-0,063 |
+0,109 |
 
-86,7 % |
+70,0% |
 
-2023 |
+Moyenne |
 
 1202C |
 
@@ -1036,13 +1198,13 @@ RÉSEAU DE CRANSAC |
 
 CRANSAC |
 
-0,039 |
+0,087 |
 
-0,065 |
+0,120 |
 
-87,5 % |
+89,7% |
 
-Moyenne |
+2024 |
 
 1203C |
 
@@ -1050,13 +1212,13 @@ RÉSEAU SARRUS |
 
 RODEZ |
 
-0,044 |
+0,040 |
 
-0,065 |
+0,062 |
 
-81,0 % |
+83,8% |
 
-2023 |
+2024 |
 
 1204C |
 
@@ -1064,13 +1226,13 @@ RÉSEAU DE CANTAGRELH |
 
 ONET-LE-CHATEAU |
 
-0,098 |
+0,100 |
 
-0,124 |
+0,126 |
 
-64,6 % |
+61,4% |
 
-2023 |
+Moyenne |
 
 1206C |
 
@@ -1078,11 +1240,11 @@ RESEAU DE CAPDENAC-GARE |
 
 CAPDENAC-GARE |
 
-0,015 |
+0,024 |
 
-0,039 |
+0,048 |
 
-94,7 % |
+91,5% |
 
 Moyenne |
 
@@ -1092,13 +1254,41 @@ RÉSEAU DE SAINT AFFRIQUE |
 
 SAINT AFFRIQUE |
 
-0,020 |
+0,017 |
 
-0,043 |
+0,039 |
 
-92,8 % |
+93,7% |
 
-2023 |
+2024 |
+
+1208C |
+
+RÉSEAU D'ESPALION |
+
+ESPALION |
+
+0,143 |
+
+0,173 |
+
+50,0% |
+
+2024 |
+
+1301F |
+
+RÉSEAU DE FROID THASSALIA MARSEILLE |
+
+MARSEILLE |
+
+0,011 |
+
+0,054 |
+
+- |
+
+Moyenne CO₂ |
 
 1302C |
 
@@ -1106,13 +1296,13 @@ RÉSEAU CASTELLANE BRICARDE |
 
 MARSEILLE |
 
-0,118 |
+0,181 |
 
-0,201 |
+0,222 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 1303C |
 
@@ -1120,13 +1310,13 @@ RÉSEAU DE SALON DE PROVENCE |
 
 SALON-DE-PROVENCE |
 
-0,268 |
+0,279 |
 
-0,300 |
+0,316 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 1306C |
 
@@ -1134,27 +1324,27 @@ LUMINY |
 
 MARSEILLE |
 
-0,220 |
+0,121 |
 
-0,250 |
+0,147 |
 
-14,1 % |
+51,7% |
 
-2023 |
+2024 |
 
 1310C |
 
-ZAC PARADIS-SAINT ROCH |
+MARTIGUES ENERGIE VERTE |
 
 MARTIGUES |
 
-0,318 |
+0,275 |
 
-0,312 |
+0,308 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 1311C |
 
@@ -1162,27 +1352,13 @@ ZAC CANTO PERDRIX |
 
 MARTIGUES |
 
-0,071 |
+0,075 |
 
-0,098 |
+0,103 |
 
-71,6 % |
+68,8% |
 
-2023 |
-
-1315C |
-
-CENTRE URBAIN-ZAC DES PINS |
-
-VITROLLES |
-
-0,444 |
-
-0,509 |
-
-0,0 % |
-
-2023 |
+Moyenne |
 
 1317C |
 
@@ -1190,11 +1366,11 @@ AIX-EN-PROVENCE |
 
 AIX-EN-PROVENCE |
 
-0,098 |
+0,142 |
 
-0,122 |
+0,168 |
 
-59,0 % |
+42,3% |
 
 Moyenne |
 
@@ -1204,13 +1380,13 @@ LA BAYANNE |
 
 ISTRES |
 
-0,135 |
+0,072 |
 
-0,161 |
+0,095 |
 
-44,5 % |
+69,9% |
 
-2023 |
+2024 |
 
 1319C |
 
@@ -1218,13 +1394,13 @@ RÉSEAU DE CHALEUR THASSALIA MARSEILLE |
 
 MARSEILLE |
 
-0,049 |
+0,043 |
 
-0,026 |
+0,023 |
 
-75,8 % |
+80,8% |
 
-Moyenne |
+2024 |
 
 1320C |
 
@@ -1232,27 +1408,41 @@ RCB COUDOUX |
 
 COUDOUX |
 
-0,099 |
+0,132 |
 
-0,126 |
+0,160 |
 
-63,6 % |
+53,1% |
 
 Moyenne |
 
 1321C |
 
-RÉSEAU DU PÔLE YVON MORANDAT |
+BET RÉSEAU DU PÔLE YVON MORANDAT |
 
 GARDANNE |
 
-0,064 |
+0,040 |
 
-0,038 |
+0,025 |
 
-65,2 % |
+65,7% |
 
-Moyenne |
+2024 |
+
+1321F |
+
+BET RÉSEAU DU PÔLE YVON MORANDAT |
+
+GARDANNE |
+
+0,009 |
+
+0,018 |
+
+- |
+
+2024 |
 
 1322C |
 
@@ -1260,13 +1450,41 @@ BET MASSILEO CHAUD |
 
 MARSEILLE |
 
-0,058 |
+0,056 |
 
-0,048 |
+0,047 |
 
-85,9 % |
+84,2% |
 
 Moyenne |
+
+1322F |
+
+BET MASSILEO FROID |
+
+MARSEILLE |
+
+0,014 |
+
+0,026 |
+
+- |
+
+2024 |
+
+1323C |
+
+RÉSEAU DE CHALEUR URBAIN TERRE DE GARANCE |
+
+AUBAGNE |
+
+0,104 |
+
+0,152 |
+
+81,7% |
+
+2024 |
 
 1401C |
 
@@ -1274,11 +1492,11 @@ RÉSEAU DE CHALEUR URBAIN NORD CAEN LA MER |
 
 HÉROUVILLE-SAINT-CLAIR |
 
-0,028 |
+0,034 |
 
-0,035 |
+0,042 |
 
-89,6 % |
+88,0% |
 
 Moyenne |
 
@@ -1288,13 +1506,13 @@ ZUP DE HAUTEVILLE |
 
 LISIEUX |
 
-0,084 |
+0,087 |
 
-0,108 |
+0,112 |
 
-65,1 % |
+65,8% |
 
-Moyenne |
+2024 |
 
 1403C |
 
@@ -1302,13 +1520,13 @@ ZAC DE FALAISE |
 
 FALAISE |
 
-0,136 |
+0,120 |
 
-0,165 |
+0,147 |
 
-49,5 % |
+51,9% |
 
-Moyenne |
+2024 |
 
 1405C |
 
@@ -1316,13 +1534,13 @@ RÉSEAU DE BOIS I |
 
 BAYEUX |
 
-0,064 |
+0,044 |
 
-0,090 |
+0,074 |
 
-75,4 % |
+83,9% |
 
-Moyenne |
+2024 |
 
 1406C |
 
@@ -1330,13 +1548,13 @@ RÉSEAU BOIS VALLÉE DES PRÈS (BAYEUX 2) |
 
 BAYEUX |
 
-0,057 |
+0,039 |
 
-0,081 |
+0,063 |
 
-78,3 % |
+85,2% |
 
-2023 |
+2024 |
 
 1409C |
 
@@ -1344,13 +1562,13 @@ RCU D'AUNAY-SUR-ODON |
 
 AUNAY-SUR-ODON |
 
-0,034 |
+0,029 |
 
-0,061 |
+0,060 |
 
-87,4 % |
+92,2% |
 
-Moyenne |
+2024 |
 
 1410C |
 
@@ -1358,11 +1576,11 @@ RCU DE VIRE |
 
 VIRE |
 
-0,050 |
+0,069 |
 
-0,074 |
+0,095 |
 
-85,1 % |
+77,8% |
 
 Moyenne |
 
@@ -1372,25 +1590,25 @@ RCU DE VAL-ÈS-DUNES |
 
 ARGENCES |
 
-0,059 |
+0,075 |
 
-0,081 |
+0,099 |
 
-75,5 % |
+68,6% |
 
 Moyenne |
 
 1412C |
 
-RÉSEAU DE CHALEUR-CHAUFFERIE BOIS |
+RÉSEAU DE CHALEUR - CHAUFFERIE BOIS |
 
 BLAINVILLE-SUR-ORNE |
 
-0,091 |
+0,101 |
 
-0,118 |
+0,129 |
 
-68,5 % |
+65,0% |
 
 Moyenne |
 
@@ -1400,13 +1618,13 @@ RÉSEAU DE CHALEUR CAEN SUD |
 
 CAEN |
 
-0,082 |
+0,064 |
 
-0,108 |
+0,090 |
 
-67,1 % |
+75,7% |
 
-2023 |
+2024 |
 
 1414C |
 
@@ -1418,23 +1636,23 @@ COLOMBELLES |
 
 0,004 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 1501C |
 
-CENTRE HOSPITALIER HENRI MONDOR-AURILLAC |
+CENTRE HOSPITALIER HENRI MONDOR - AURILLAC |
 
 AURILLAC CEDEX |
 
-0,001 |
+0,004 |
 
-0,023 |
+0,027 |
 
-99,8 % |
+98,3% |
 
-2023 |
+Moyenne |
 
 1502C |
 
@@ -1442,11 +1660,11 @@ RÉSEAU DE CHALEUR BOIS DU CROZATIER |
 
 SAINT-GEORGES |
 
-0,004 |
+0,016 |
 
-0,035 |
+0,050 |
 
-99,3 % |
+97,0% |
 
 Moyenne |
 
@@ -1456,11 +1674,11 @@ RÉSEAU DE CHALEUR BOIS DU VOLZAC |
 
 SAINT-FLOUR |
 
-0,005 |
+0,006 |
 
-0,027 |
+0,029 |
 
-98,6 % |
+98,2% |
 
 Moyenne |
 
@@ -1470,13 +1688,13 @@ RÉSEAU DE RIOM-ES-MONTAGNES |
 
 RIOM-ES-MONTAGNES |
 
-0,009 |
+0,006 |
 
-0,036 |
+0,031 |
 
-97,7 % |
+98,5% |
 
-2023 |
+2024 |
 
 1505C |
 
@@ -1488,9 +1706,9 @@ VEBRET |
 
 0,022 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 1506C |
 
@@ -1498,13 +1716,13 @@ RÉSEAU DE L'OP HLM DU CANTAL |
 
 ARPAJON-SUR-CERE |
 
-0,015 |
+0,000 |
 
-0,037 |
+0,019 |
 
-94,8 % |
+100,0% |
 
-Moyenne |
+2024 |
 
 1507C |
 
@@ -1512,13 +1730,13 @@ RÉSEAU CHALEUR BOIS DE MURAT |
 
 MURAT |
 
-0,003 |
+0,002 |
 
 0,026 |
 
-99,1 % |
+99,4% |
 
-2023 |
+2024 |
 
 1511C |
 
@@ -1526,13 +1744,13 @@ RÉSEAU DE CHALEUR D'AURILLAC |
 
 AURILLAC |
 
-0,035 |
+0,026 |
 
-0,058 |
+0,048 |
 
-87,4 % |
+90,5% |
 
-2023 |
+2024 |
 
 1512C |
 
@@ -1540,13 +1758,13 @@ RÉSEAU DE CHALEUR DE BESSERETTE |
 
 SAINT FLOUR |
 
-0,005 |
+0,003 |
 
-0,027 |
+0,025 |
 
-98,5 % |
+99,2% |
 
-Moyenne |
+2024 |
 
 1513C |
 
@@ -1558,9 +1776,23 @@ VIC SUR CÈRE |
 
 0,021 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
+
+1514C |
+
+RESEAU CHALEUR POLMINHAC (RCP) |
+
+POLMINHAC |
+
+0,000 |
+
+0,018 |
+
+100,0% |
+
+2024 |
 
 1601C |
 
@@ -1570,11 +1802,11 @@ SAINT-BONNET |
 
 0,000 |
 
-0,043 |
+0,053 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 1602C |
 
@@ -1584,11 +1816,11 @@ BAIGNES |
 
 0,000 |
 
-0,028 |
+0,026 |
 
-100,0 % |
+100,0% |
 
-2023 |
+Moyenne |
 
 1603C |
 
@@ -1596,13 +1828,13 @@ RÉSEAU DE BROSSAC |
 
 BROSSAC |
 
-0,000 |
+0,114 |
 
-0,031 |
+0,149 |
 
-100,0 % |
+66,7% |
 
-2023 |
+Moyenne |
 
 1604C |
 
@@ -1612,25 +1844,25 @@ CHAMPAGNE-MOUTON |
 
 0,000 |
 
-0,021 |
+0,024 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 1605C |
 
-RÉSEAU " CHAMP DE MANŒUVRE " |
+RÉSEAU CHAMP DE MANŒUVRE |
 
 SOYAUX |
 
-0,222 |
+0,196 |
 
-0,251 |
+0,225 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 1606C |
 
@@ -1642,9 +1874,9 @@ MONTEMBOEUF |
 
 0,025 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 1607C |
 
@@ -1652,13 +1884,13 @@ RÉSEAU DE CHALEUR DE CHÂTEAUBERNARD |
 
 CHATEAUBERNARD |
 
-0,127 |
+0,080 |
 
-0,153 |
+0,104 |
 
-59,9 % |
+66,6% |
 
-Moyenne |
+2024 |
 
 1608C |
 
@@ -1666,11 +1898,11 @@ RÉSEAU DE CHALEUR DE BASSEAU |
 
 ANGOULEME |
 
-0,145 |
+0,164 |
 
-0,171 |
+0,192 |
 
-36,7 % |
+31,9% |
 
 Moyenne |
 
@@ -1680,11 +1912,11 @@ RÉSEAU DE CHALEUR DE SEGONZAC |
 
 SEGONZAC |
 
-0,120 |
+0,232 |
 
-0,154 |
+0,273 |
 
-65,0 % |
+32,6% |
 
 Moyenne |
 
@@ -1694,13 +1926,13 @@ RÉSEAU DES VAUZELLES |
 
 CHATEAUBERNARD |
 
-0,024 |
+0,010 |
 
-0,046 |
+0,030 |
 
-90,3 % |
+95,9% |
 
-2023 |
+2024 |
 
 1611C |
 
@@ -1708,13 +1940,13 @@ CHATEAUBERNARD |
 
 ANGOULÊME |
 
-0,201 |
+0,313 |
 
-0,229 |
+0,355 |
 
-17,6 % |
+16,7% |
 
-Moyenne |
+2024 |
 
 1612C |
 
@@ -1722,13 +1954,13 @@ DOMAINE DE LA COMBE |
 
 ST YRIEIX SUR CHARENTE |
 
-0,084 |
+0,112 |
 
-0,111 |
+0,141 |
 
-69,2 % |
+63,1% |
 
-2023 |
+Moyenne |
 
 1613C |
 
@@ -1738,11 +1970,11 @@ LE LINDOIS |
 
 0,000 |
 
-0,025 |
+0,030 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 1701C |
 
@@ -1750,13 +1982,13 @@ VILLENEUVE LES SALINES |
 
 LA ROCHELLE |
 
-0,040 |
+0,049 |
 
-0,074 |
+0,084 |
 
-75,6 % |
+73,5% |
 
-2023 |
+Moyenne |
 
 1702C |
 
@@ -1764,11 +1996,11 @@ RÉSEAU DE JONZAC |
 
 JONZAC |
 
-0,048 |
+0,154 |
 
-0,083 |
+0,194 |
 
-91,0 % |
+59,1% |
 
 Moyenne |
 
@@ -1778,27 +2010,27 @@ RÉSEAU DE AYTRE |
 
 AYTRE |
 
-0,027 |
+0,041 |
 
-0,050 |
+0,064 |
 
-88,4 % |
+83,5% |
 
-2023 |
+Moyenne |
 
 1704C |
 
-PORT NEUF MIREUIL ENERGIE |
+PONT NEUF MIREUIL ENERGIE |
 
 LA ROCHELLE |
 
-0,019 |
+0,014 |
 
-0,025 |
+0,020 |
 
-94,1 % |
+96,3% |
 
-2023 |
+2024 |
 
 1705C |
 
@@ -1806,13 +2038,13 @@ RÉSEAU DE CHALEUR URBAIN DE PONS |
 
 PONS |
 
-0,035 |
+0,048 |
 
-0,060 |
+0,076 |
 
-90,4 % |
+84,3% |
 
-2023 |
+Moyenne |
 
 1706C |
 
@@ -1820,13 +2052,13 @@ RÉSEAU DE CHALEUR TONNAY-BOUTONNE |
 
 TONNAY-BOUTONNE |
 
-0,010 |
+0,120 |
 
-0,034 |
+0,148 |
 
-96,3 % |
+64,5% |
 
-2023 |
+Moyenne |
 
 1707C |
 
@@ -1834,13 +2066,13 @@ RÉSEAU DE LA CHAUFFERIE BOIS |
 
 GEMOZAC |
 
-0,036 |
+0,067 |
 
-0,061 |
+0,097 |
 
-90,2 % |
+83,4% |
 
-2023 |
+Moyenne |
 
 1708C |
 
@@ -1852,41 +2084,55 @@ ECHILLAIS |
 
 0,004 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
+
+1709C |
+
+RÉSEAU DES FOURRIERS |
+
+ROCHEFORT |
+
+0,011 |
+
+0,038 |
+
+96,6% |
+
+2024 |
 
 1801C |
 
-CHANCELLERIE GIBJONCS-ZUP DE BOURGES |
+CHANCELLERIE GIBJONCS - ZUP DE BOURGES |
 
 BOURGES |
 
-0,019 |
+0,013 |
 
-0,041 |
+0,036 |
 
-91,4 % |
+95,2% |
 
-Moyenne |
+2024 |
 
 1803C |
 
-CLOS DU ROY/ TUNNEL CHATEAU |
+CLOS DU ROY / TUNNEL CHATEAU |
 
 VIERZON |
 
-0,319 |
+0,462 |
 
-0,390 |
+0,521 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 1901C |
 
-UNITÉ DE VALORISATION ENERGÉTIQUE |
+UNITÉ DE VALORISATION ENERGÉTIQUE - BLÉDINA |
 
 SAINT-PANTALEON-DE-LARCHE |
 
@@ -1894,9 +2140,9 @@ SAINT-PANTALEON-DE-LARCHE |
 
 0,004 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 1902C |
 
@@ -1904,11 +2150,11 @@ EGLETONS BOIS ENERGIE |
 
 EGLETONS |
 
-0,014 |
+0,030 |
 
-0,027 |
+0,044 |
 
-95,3 % |
+90,1% |
 
 Moyenne |
 
@@ -1918,13 +2164,13 @@ RÉSEAU DE SORNAC |
 
 SORNAC |
 
-0,039 |
+0,065 |
 
-0,070 |
+0,098 |
 
-89,2 % |
+83,2% |
 
-2023 |
+Moyenne |
 
 1904C |
 
@@ -1936,9 +2182,9 @@ SERVIERES-LE-CHATEAU |
 
 0,022 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 1906C |
 
@@ -1946,13 +2192,13 @@ ENGIE SOLUTIONS AGENCE ATLANTIQUE LIMOUSIN, |
 
 EYREIN |
 
-0,378 |
+0,253 |
 
-0,433 |
+0,284 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 1907C |
 
@@ -1960,13 +2206,13 @@ RÉSEAU DE BRIVE-LA-GAILLARDE |
 
 BRIVE-LA-GAILLARDE |
 
-0,020 |
+0,014 |
 
-0,033 |
+0,027 |
 
-93,0 % |
+95,2% |
 
-2023 |
+2024 |
 
 1908C |
 
@@ -1978,9 +2224,9 @@ ROSIERS D'EGLETONS |
 
 0,004 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 1909C |
 
@@ -1988,13 +2234,13 @@ RÉSEAU D'OBJAT |
 
 OBJAT |
 
-0,054 |
+0,043 |
 
-0,077 |
+0,066 |
 
-79,2 % |
+84,3% |
 
-2023 |
+2024 |
 
 2001C |
 
@@ -2004,11 +2250,11 @@ CORTE |
 
 0,000 |
 
-0,026 |
+0,025 |
 
-100,0 % |
+99,9% |
 
-2023 |
+2024 |
 
 2102C |
 
@@ -2016,11 +2262,11 @@ RÉSEAU DU GRAND DIJON OUEST |
 
 DIJON |
 
-0,081 |
+0,084 |
 
-0,107 |
+0,111 |
 
-61,1 % |
+60,2% |
 
 Moyenne |
 
@@ -2030,13 +2276,13 @@ RÉSEAU DES GRESILLES |
 
 DIJON |
 
-0,053 |
+0,082 |
 
-0,080 |
+0,112 |
 
-72,9 % |
+71,4% |
 
-2023 |
+2024 |
 
 2106C |
 
@@ -2044,13 +2290,13 @@ DIJON ÉNERGIES |
 
 DIJON |
 
-0,050 |
+0,042 |
 
-0,069 |
+0,060 |
 
-77,9 % |
+80,7% |
 
-Moyenne |
+2024 |
 
 2107C |
 
@@ -2058,13 +2304,13 @@ MAIRIE |
 
 BELLENEUVE |
 
-0,027 |
+0,030 |
 
-0,059 |
+0,058 |
 
-94,5 % |
+99,9% |
 
-2023 |
+2024 |
 
 2108C |
 
@@ -2072,13 +2318,55 @@ RÉSEAU DE LA COMMUNE DE NUITS SAINT GEORGES |
 
 NUITS-SAINT-GEORGES |
 
-0,114 |
+0,000 |
 
-0,142 |
+0,028 |
 
-66,7 % |
+100,0% |
 
-Moyenne |
+2024 |
+
+2111C |
+
+RÉSEAU DE CHALEUR DE BLIGNY-SUR-OUCHE |
+
+BLIGNY-SUR-OUCHE |
+
+0,025 |
+
+0,063 |
+
+94,1% |
+
+2024 |
+
+2112C |
+
+RÉSEAU DE CHALEUR - PLAINE DES SPORTS DE SAULIEU |
+
+SAULIEU |
+
+0,020 |
+
+0,056 |
+
+94,7% |
+
+2024 |
+
+2113C |
+
+RÉSEAU DE CHALEUR DE FONTAINE-FRANÇAISE |
+
+FONTAINE-FRANÇAISE |
+
+0,028 |
+
+0,062 |
+
+91,9% |
+
+2024 |
 
 2202C |
 
@@ -2086,13 +2374,13 @@ RESEAU DE CHALEUR CHAUFFERIE 1 |
 
 PLOUARET |
 
-0,000 |
+0,114 |
 
-0,029 |
+0,147 |
 
-100,0 % |
+66,7% |
 
-2023 |
+Moyenne |
 
 2203C |
 
@@ -2104,9 +2392,9 @@ PLOUARET |
 
 0,022 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 2204C |
 
@@ -2118,9 +2406,9 @@ PLUZUNET |
 
 0,004 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 2205C |
 
@@ -2128,13 +2416,13 @@ RÉSEAU DE CHALEUR DE COLLINÉE |
 
 COLLINEE |
 
-0,014 |
+0,017 |
 
-0,038 |
+0,043 |
 
-95,2 % |
+94,5% |
 
-Moyenne |
+2024 |
 
 2206C |
 
@@ -2142,13 +2430,13 @@ RÉSEAU DE CHALEUR DE PESSALA |
 
 PLESSALA |
 
-0,078 |
+0,064 |
 
-0,114 |
+0,103 |
 
-80,6 % |
+83,9% |
 
-2023 |
+Moyenne |
 
 2207C |
 
@@ -2156,13 +2444,13 @@ RÉSEAU DE CHALEUR DU GOURAY |
 
 LE GOURAY |
 
-0,000 |
+0,014 |
 
-0,023 |
+0,048 |
 
-100,0 % |
+97,7% |
 
-2023 |
+Moyenne |
 
 2208C |
 
@@ -2170,13 +2458,13 @@ RÉSEAU DE CHALEUR DE BRÉZILLET |
 
 PLOUFRAGAN |
 
-0,035 |
+0,044 |
 
-0,060 |
+0,068 |
 
-87,8 % |
+83,0% |
 
-2023 |
+2024 |
 
 2209C |
 
@@ -2186,11 +2474,11 @@ LOUDEAC |
 
 0,000 |
 
-0,022 |
+0,020 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 2210C |
 
@@ -2198,13 +2486,13 @@ HOPITAL RIVE GAUCHE |
 
 LANNION |
 
-0,065 |
+0,057 |
 
-0,090 |
+0,083 |
 
-77,2 % |
+81,1% |
 
-Moyenne |
+2024 |
 
 2211C |
 
@@ -2214,11 +2502,11 @@ PLOUMILLIAU |
 
 0,000 |
 
-0,022 |
+0,023 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 2212C |
 
@@ -2226,13 +2514,13 @@ MONGE BRANLY |
 
 LANNION |
 
-0,043 |
+0,008 |
 
-0,067 |
+0,028 |
 
-84,3 % |
+96,8% |
 
-2023 |
+2024 |
 
 2213C |
 
@@ -2240,13 +2528,13 @@ CHAUF BOIS ET RÉSEAU DE CHALEUR PLESTIN LES GRÈVES |
 
 PLESTIN LES GRÈVES |
 
-0,000 |
+0,114 |
 
-0,022 |
+0,145 |
 
-100,0 % |
+66,5% |
 
-2023 |
+Moyenne |
 
 2214C |
 
@@ -2256,11 +2544,11 @@ LA ROCHE-JAUDY |
 
 0,000 |
 
-0,024 |
+0,022 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 2215C |
 
@@ -2272,9 +2560,23 @@ LOGUIVY-PLOUGRAS |
 
 0,022 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
+
+2216C |
+
+TRESTEL |
+
+TRÉVOU-TRÉGUIGNEC |
+
+0,015 |
+
+0,035 |
+
+93,7% |
+
+2024 |
 
 2217C |
 
@@ -2282,13 +2584,13 @@ RÉSEAU DE CHALEUR DE SAINT-JACUT |
 
 LE MENÉ |
 
-0,026 |
+0,056 |
 
-0,067 |
+0,128 |
 
-96,1 % |
+94,5% |
 
-2023 |
+Moyenne |
 
 2218C |
 
@@ -2296,11 +2598,11 @@ RÉSEAU DE CHALEUR DESAINT-GOUÉNO |
 
 LE MENÉ |
 
-0,064 |
+0,068 |
 
-0,111 |
+0,112 |
 
-84,5 % |
+84,1% |
 
 Moyenne |
 
@@ -2310,13 +2612,13 @@ RÉSEAU DE BOURGANEUF |
 
 BOURGANEUF |
 
-0,015 |
+0,019 |
 
-0,040 |
+0,045 |
 
-95,6 % |
+94,8% |
 
-2023 |
+Moyenne |
 
 2302C |
 
@@ -2324,13 +2626,13 @@ RÉSEAU DE FELLETIN |
 
 FELLETIN |
 
-0,045 |
+0,018 |
 
-0,071 |
+0,043 |
 
-84,8 % |
+93,3% |
 
-2023 |
+2024 |
 
 2304C |
 
@@ -2340,11 +2642,11 @@ GENTIOUX-PIGEROLLES |
 
 0,000 |
 
-0,034 |
+0,032 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 2305C |
 
@@ -2352,13 +2654,13 @@ RÉSEAU DE GUÉRET |
 
 GUERET |
 
-0,035 |
+0,033 |
 
-0,058 |
+0,057 |
 
-85,5 % |
+87,8% |
 
-2023 |
+2024 |
 
 2401C |
 
@@ -2366,13 +2668,13 @@ RÉSEAU DE CHALEUR DE SAINT-ASTIER |
 
 SAINT ASTIER |
 
-0,095 |
+0,063 |
 
-0,123 |
+0,090 |
 
-68,4 % |
+79,1% |
 
-2023 |
+2024 |
 
 2402C |
 
@@ -2384,9 +2686,9 @@ PERIGUEUX |
 
 0,086 |
 
-82,4 % |
+81,2% |
 
-2023 |
+Moyenne |
 
 2403C |
 
@@ -2394,13 +2696,13 @@ CHAUFFERIE BOIS DE CADOUIN |
 
 LE BUISSON-DE-CADOUIN |
 
-0,023 |
+0,042 |
 
-0,055 |
+0,080 |
 
-94,2 % |
+91,2% |
 
-2023 |
+Moyenne |
 
 2404C |
 
@@ -2412,9 +2714,9 @@ DOUVILLE |
 
 0,019 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 2406C |
 
@@ -2422,13 +2724,13 @@ RÉSEAU DE COULOUNIEIX CHAMIERS |
 
 COULOUNIEIX-CHAMIERS |
 
-0,025 |
+0,029 |
 
-0,047 |
+0,051 |
 
-90,8 % |
+89,9% |
 
-2023 |
+2024 |
 
 2407C |
 
@@ -2436,27 +2738,27 @@ RÉSEAU DE CHALEUR DES DEUX RIVES PÉRIGUEUX |
 
 PERIGUEUX |
 
-0,050 |
+0,077 |
 
-0,073 |
+0,103 |
 
-80,6 % |
+71,1% |
 
-2023 |
+Moyenne |
 
 2501C |
 
-BESANÇON-PLANOISE |
+BESANÇON - PLANOISE |
 
 BESANCON |
 
+0,056 |
+
 0,070 |
 
-0,088 |
+77,7% |
 
-72,6 % |
-
-Moyenne |
+2024 |
 
 2502C |
 
@@ -2464,11 +2766,11 @@ RÉSEAU DE MONTBÉLIARD |
 
 MONTBELIARD |
 
-0,074 |
+0,113 |
 
-0,086 |
+0,129 |
 
-69,1 % |
+54,7% |
 
 Moyenne |
 
@@ -2478,13 +2780,13 @@ CHAMPVALON |
 
 BETHONCOURT |
 
-0,071 |
+0,089 |
 
-0,098 |
+0,117 |
 
-77,4 % |
+62,9% |
 
-2023 |
+Moyenne |
 
 2504C |
 
@@ -2492,13 +2794,13 @@ CHAUFFERIE BOIS DU RUSSEY |
 
 LE RUSSEY |
 
-0,046 |
+0,043 |
 
-0,080 |
+0,074 |
 
-88,0 % |
+89,0% |
 
-Moyenne |
+2024 |
 
 2505C |
 
@@ -2506,13 +2808,13 @@ CHAMPS MONTANTS |
 
 AUDINCOURT |
 
-0,246 |
+0,247 |
 
-0,284 |
+0,282 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 2506C |
 
@@ -2520,13 +2822,13 @@ DOMAINE UNIVERSITAIRE DE LA BOULOIE |
 
 BESANCON |
 
-0,041 |
+0,040 |
 
-0,068 |
+0,066 |
 
-87,1 % |
+85,9% |
 
-2023 |
+Moyenne |
 
 2507C |
 
@@ -2534,13 +2836,13 @@ RÉSEAU DE CHALEUR DE MOUTHE |
 
 MOUTHE |
 
-0,000 |
+0,006 |
 
-0,019 |
+0,027 |
 
-100,0 % |
+98,2% |
 
-2023 |
+Moyenne |
 
 2509C |
 
@@ -2550,11 +2852,11 @@ MYON |
 
 0,000 |
 
-0,019 |
+0,020 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 2510C |
 
@@ -2562,13 +2864,13 @@ CHAUFFERIE DU LYCÉE E FAURE |
 
 MORTEAU |
 
-0,204 |
+0,266 |
 
-0,235 |
+0,299 |
 
-33,3 % |
+0,0% |
 
-Moyenne |
+2024 |
 
 2511C |
 
@@ -2576,13 +2878,13 @@ RESEAU DE CHALEUR |
 
 PONTARLIER |
 
-0,026 |
+0,027 |
 
-0,033 |
+0,034 |
 
-90,5 % |
+90,5% |
 
-Moyenne |
+2024 |
 
 2512C |
 
@@ -2592,11 +2894,11 @@ NANCRAY |
 
 0,000 |
 
-0,022 |
+0,020 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 2513C |
 
@@ -2606,11 +2908,11 @@ VILLARS-SOUS-ECOT |
 
 0,000 |
 
-0,022 |
+0,023 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 2514C |
 
@@ -2618,13 +2920,13 @@ RÉSEAU DE CHALEUR DE FRASNE |
 
 FRASNE |
 
-0,027 |
+0,012 |
 
-0,055 |
+0,039 |
 
-93,4 % |
+97,2% |
 
-Moyenne |
+2024 |
 
 2515C |
 
@@ -2636,9 +2938,9 @@ GOUX-LES-USIERS |
 
 0,020 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 2516C |
 
@@ -2646,13 +2948,13 @@ RÉSEAU DE AMANCEY LOUE LISON |
 
 AMANCEY |
 
-0,147 |
+0,143 |
 
-0,181 |
+0,187 |
 
-57,7 % |
+60,9% |
 
-Moyenne |
+2024 |
 
 2518C |
 
@@ -2660,13 +2962,13 @@ RCU DE NOVILLARS |
 
 NOVILLARS |
 
-0,005 |
+0,004 |
 
-0,010 |
+0,009 |
 
-97,8 % |
+98,3% |
 
-2023 |
+2024 |
 
 2520C |
 
@@ -2676,11 +2978,11 @@ CHAPELLE DES BOIS |
 
 0,000 |
 
-0,025 |
+0,027 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 2601C |
 
@@ -2688,13 +2990,13 @@ RÉSEAU DE VALENCE |
 
 VALENCE |
 
-0,105 |
+0,109 |
 
-0,126 |
+0,134 |
 
-61,3 % |
+58,7% |
 
-2023 |
+2024 |
 
 2602C |
 
@@ -2702,27 +3004,27 @@ RÉSEAU DE CHALEUR DE VASSIEUX EN VERCORS |
 
 VASSIEUX-EN-VERCORS |
 
-0,017 |
+0,041 |
 
-0,050 |
+0,077 |
 
-96,5 % |
+90,7% |
 
-2023 |
+Moyenne |
 
 2603C |
 
-RÉSEAU DE PIERRELATTE-DES |
+RÉSEAU DE PIERRELATTE - DES |
 
 PIERRELATTE |
 
 0,000 |
 
-0,132 |
+0,129 |
 
-67,4 % |
+66,8% |
 
-2023 |
+Moyenne |
 
 2604C |
 
@@ -2730,13 +3032,13 @@ RÉSEAU DE PRACOMPTAL |
 
 MONTELIMAR |
 
-0,232 |
+0,244 |
 
 0,270 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 2605C |
 
@@ -2744,13 +3046,13 @@ RÉSEAU DE CHALEUR DU QUARTIER DE LA MONNAIE |
 
 ROMANS-SUR-ISERE |
 
-0,173 |
+0,165 |
 
-0,226 |
+0,214 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 2606C |
 
@@ -2758,13 +3060,13 @@ SAINT JEAN EN ROYANS (ARRET EN 2024) |
 
 SAINT JEAN EN ROYANS |
 
-0,748 |
+0,343 |
 
-0,902 |
+0,383 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 2607C |
 
@@ -2772,13 +3074,13 @@ RÉSEAU DU CH DE VALENCE |
 
 VALENCE |
 
-0,258 |
+0,132 |
 
-0,302 |
+0,182 |
 
-28,1 % |
+30,5% |
 
-2023 |
+2024 |
 
 2701C |
 
@@ -2786,13 +3088,13 @@ THERMEVRA |
 
 EVREUX |
 
-0,068 |
+0,062 |
 
-0,079 |
+0,072 |
 
-71,9 % |
+74,1% |
 
-2023 |
+2024 |
 
 2702C |
 
@@ -2800,13 +3102,13 @@ LOUVIERS ENERGIE |
 
 LOUVIERS |
 
-0,067 |
+0,048 |
 
-0,092 |
+0,072 |
 
-74,0 % |
+80,6% |
 
-2023 |
+2024 |
 
 2703C |
 
@@ -2814,13 +3116,13 @@ QUARTIER DE L'EUROPE |
 
 PONT-AUDEMER |
 
-0,245 |
+0,342 |
 
-0,275 |
+0,385 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 2705C |
 
@@ -2828,13 +3130,13 @@ ZUP LES VALMEUX |
 
 VERNON |
 
-0,201 |
+0,220 |
 
-0,227 |
+0,247 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 2706C |
 
@@ -2842,27 +3144,27 @@ RÉSEAU DE CHALEUR DE CONCHES-EN-OUCHE |
 
 CONCHES-EN-OUCHE |
 
-0,017 |
+0,014 |
 
-0,041 |
+0,039 |
 
-93,7 % |
+95,3% |
 
-Moyenne |
+2024 |
 
 2707C |
 
-RÉSEAU-CANAPPEVILLE |
+RÉSEAU - CANAPPEVILLE |
 
 CANAPPEVILLE |
 
-0,000 |
+0,114 |
 
-0,022 |
+0,143 |
 
-100,0 % |
+66,7% |
 
-2023 |
+Moyenne |
 
 2709C |
 
@@ -2870,13 +3172,13 @@ RÉSEAU DE BERNAY BOURG LE COMTE |
 
 BERNAY |
 
-0,258 |
+0,069 |
 
-0,293 |
+0,092 |
 
-16,9 % |
+72,0% |
 
-2023 |
+2024 |
 
 2802C |
 
@@ -2886,11 +3188,11 @@ NOGENT-LE-ROTROU |
 
 0,297 |
 
-0,335 |
+0,333 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 2803C |
 
@@ -2898,13 +3200,13 @@ DUNES |
 
 CHATEAUDUN |
 
-0,068 |
+0,081 |
 
-0,094 |
+0,107 |
 
-75,9 % |
+72,6% |
 
-2023 |
+Moyenne |
 
 2806C |
 
@@ -2912,13 +3214,13 @@ RÉSEAU DE CHALEUR DE VOVES |
 
 VOVES |
 
-0,057 |
+0,147 |
 
-0,081 |
+0,174 |
 
-78,4 % |
+41,5% |
 
-2023 |
+Moyenne |
 
 2807C |
 
@@ -2928,11 +3230,11 @@ CHARTRES |
 
 0,000 |
 
-0,068 |
+0,054 |
 
-83,7 % |
+88,9% |
 
-2023 |
+2024 |
 
 2808C |
 
@@ -2940,13 +3242,13 @@ UVEA |
 
 OUARVILLE |
 
-0,000 |
+0,171 |
 
-0,004 |
+0,195 |
 
-100,0 % |
+50,0% |
 
-2023 |
+Moyenne |
 
 2901C |
 
@@ -2954,27 +3256,27 @@ ECO CHALEUR DE BREST |
 
 BREST |
 
-0,037 |
+0,025 |
 
-0,048 |
+0,035 |
 
-85,7 % |
+89,2% |
 
-Moyenne |
+2024 |
 
 2902C |
 
-PLOUGASTEL-DAOULAS |
+RÉSEAU DE PLOUGASTEL DAOULAS |
 
 PLOUGASTEL-DAOULAS |
 
-0,060 |
+0,042 |
 
-0,086 |
+0,067 |
 
-79,9 % |
+85,2% |
 
-Moyenne |
+2024 |
 
 2903C |
 
@@ -2986,9 +3288,9 @@ BRIEC |
 
 0,004 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 2905C |
 
@@ -3000,9 +3302,9 @@ PLOUGASTEL-DAOULAS |
 
 0,021 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 2906C |
 
@@ -3014,9 +3316,9 @@ CARHAIX-PLOUGER |
 
 0,004 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 2907C |
 
@@ -3024,13 +3326,13 @@ RÉSEAU DE CHALEUR LANDERNEAU |
 
 LANDERNEAU |
 
-0,049 |
+0,000 |
 
-0,075 |
+0,021 |
 
-82,8 % |
+100,0% |
 
-2023 |
+2024 |
 
 2908C |
 
@@ -3038,27 +3340,41 @@ PLAINE DES SPORTS |
 
 DOUARNENEZ |
 
-0,000 |
+0,023 |
 
-0,022 |
+0,046 |
 
-100,0 % |
+91,6% |
 
-2023 |
+Moyenne |
 
 2910C |
 
-RÉSEAU CMBO |
+RESEAU CMBO |
 
 QUIMPER |
 
-0,217 |
+0,000 |
 
-0,234 |
+0,178 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
+
+2911C |
+
+CENTRE-BOURG - ARZANO |
+
+ARZANO |
+
+0,010 |
+
+0,032 |
+
+96,2% |
+
+2024 |
 
 3001C |
 
@@ -3066,13 +3382,13 @@ QUARTIER OUEST |
 
 NIMES |
 
-0,090 |
+0,085 |
 
-0,114 |
+0,106 |
 
-59,2 % |
+65,8% |
 
-2023 |
+2024 |
 
 3002C |
 
@@ -3080,13 +3396,13 @@ DALAE |
 
 ALES |
 
-0,112 |
+0,051 |
 
-0,142 |
+0,078 |
 
-66,8 % |
+75,8% |
 
-Moyenne |
+2024 |
 
 3003C |
 
@@ -3098,9 +3414,9 @@ LAMELOUZE |
 
 0,022 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 3101C |
 
@@ -3108,13 +3424,27 @@ RÉSEAU DE TOULOUSE MIRAIL |
 
 TOULOUSE |
 
-0,007 |
+0,009 |
 
-0,012 |
+0,014 |
 
-97,8 % |
+97,1% |
 
 Moyenne |
+
+3101F |
+
+CANCEROPOLE |
+
+TOULOUSE |
+
+0,013 |
+
+0,024 |
+
+- |
+
+Moyenne CO₂ |
 
 3102C |
 
@@ -3122,13 +3452,27 @@ Moyenne |
 
 BALMA |
 
-0,112 |
+0,129 |
 
-0,139 |
+0,158 |
 
-56,7 % |
+53,1% |
 
 Moyenne |
+
+3102F |
+
+RÉSEAU DE TOULOUSE MIRAIL |
+
+TOULOUSE |
+
+0,000 |
+
+0,025 |
+
+- |
+
+2024 |
 
 3103C |
 
@@ -3136,13 +3480,13 @@ ZAC DU RITOURET |
 
 BLAGNAC |
 
-0,062 |
+0,063 |
 
-0,055 |
+0,054 |
 
-73,3 % |
+73,1% |
 
-2023 |
+Moyenne |
 
 3104C |
 
@@ -3152,23 +3496,23 @@ TOULOUSE |
 
 0,060 |
 
-0,071 |
+0,069 |
 
-80,9 % |
+76,5% |
 
-2023 |
+Moyenne |
 
 3106C |
 
-RÉSEAU " SAINT EXUPÉRY " |
+RÉSEAU SAINT EXUPÉRY |
 
 TOULOUSE |
 
-0,080 |
+0,084 |
 
-0,097 |
+0,102 |
 
-79,6 % |
+78,1% |
 
 Moyenne |
 
@@ -3178,13 +3522,13 @@ ENSEMBLE UNIVERSITAIRE TOULOUSE RANGUEIL |
 
 TOULOUSE |
 
-0,057 |
+0,045 |
 
-0,080 |
+0,066 |
 
-82,0 % |
+81,0% |
 
-2023 |
+2024 |
 
 3108C |
 
@@ -3192,11 +3536,11 @@ EN TURET |
 
 AYGUESVIVES |
 
-0,169 |
+0,203 |
 
-0,204 |
+0,236 |
 
-52,6 % |
+33,6% |
 
 Moyenne |
 
@@ -3206,11 +3550,11 @@ CAMUS |
 
 CASTANET-TOLOSAN |
 
-0,187 |
+0,215 |
 
-0,219 |
+0,247 |
 
-40,3 % |
+24,5% |
 
 Moyenne |
 
@@ -3220,13 +3564,27 @@ TOULOUSE ENERGIE DURABLE (TED) CHAUD |
 
 TOULOUSE |
 
-0,069 |
+0,071 |
 
-0,080 |
+0,083 |
 
-79,6 % |
+78,1% |
 
 Moyenne |
+
+3112F |
+
+TOULOUSE ENERGIE DURABLE (TED) FROID |
+
+TOULOUSE |
+
+0,027 |
+
+0,047 |
+
+- |
+
+Moyenne CO₂ |
 
 3113C |
 
@@ -3234,13 +3592,13 @@ RÉSEAU ÉCOQUARTIER MARAGON FLORALIES |
 
 RAMONVILLE SAINT-AGNE |
 
-0,058 |
+0,046 |
 
-0,080 |
+0,068 |
 
-75,5 % |
+80,2% |
 
-2023 |
+2024 |
 
 3114C |
 
@@ -3248,13 +3606,13 @@ ZAC GUILLAUMET |
 
 TOULOUSE |
 
-0,309 |
+0,216 |
 
-0,347 |
+0,246 |
 
-1,4 % |
+9,4% |
 
-2023 |
+2024 |
 
 3115C |
 
@@ -3266,9 +3624,9 @@ BESSIERES |
 
 0,004 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 3116C |
 
@@ -3278,11 +3636,25 @@ ARBAS |
 
 0,000 |
 
-0,036 |
+0,035 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
+
+3301F |
+
+LASERIS |
+
+LE BARP |
+
+0,017 |
+
+0,031 |
+
+- |
+
+2024 |
 
 3302C |
 
@@ -3290,13 +3662,27 @@ GRAND PARC ENERGIES |
 
 BORDEAUX |
 
-0,209 |
-
 0,248 |
 
-0,0 % |
+0,271 |
 
-2023 |
+0,0% |
+
+2024 |
+
+3302F |
+
+BASSINS A FLOT - FROID |
+
+BORDEAUX |
+
+0,010 |
+
+0,020 |
+
+- |
+
+Moyenne CO₂ |
 
 3303C |
 
@@ -3308,9 +3694,9 @@ BORDEAUX |
 
 0,015 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 3304C |
 
@@ -3318,13 +3704,13 @@ PARC DE MÉRIGNAC VILLE STEMER |
 
 MERIGNAC |
 
-0,227 |
+0,242 |
 
-0,263 |
+0,277 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 3305C |
 
@@ -3332,13 +3718,13 @@ LASERIS |
 
 LE BARP |
 
-0,089 |
+0,135 |
 
-0,055 |
+0,087 |
 
-59,0 % |
+38,6% |
 
-2023 |
+Moyenne |
 
 3310C |
 
@@ -3346,13 +3732,13 @@ RÉSEAU DE CHALEUR DE GIRONDE SUR DROPT |
 
 GIRONDE-SUR-DROPT |
 
-0,005 |
+0,003 |
 
-0,041 |
+0,034 |
 
-98,9 % |
+99,2% |
 
-2023 |
+2024 |
 
 3311C |
 
@@ -3360,13 +3746,13 @@ RÉSEAU DE CHALEUR DE PELLEGRUE |
 
 PELLEGRUE |
 
-0,023 |
+0,016 |
 
-0,056 |
+0,053 |
 
-95,3 % |
+97,3% |
 
-2023 |
+2024 |
 
 3312C |
 
@@ -3374,13 +3760,13 @@ RÉSEAU DE CHALEUR DE SAINT PIERRE D'AURILLAC |
 
 SAINT-PIERRE-D'AURILLAC |
 
-0,000 |
+0,021 |
 
-0,026 |
+0,049 |
 
-100,0 % |
+94,5% |
 
-2023 |
+Moyenne |
 
 3313C |
 
@@ -3388,13 +3774,13 @@ RÉSEAU DE LA RÉOLE |
 
 LA REOLE |
 
-0,005 |
+0,007 |
 
-0,032 |
+0,034 |
 
-98,5 % |
+97,6% |
 
-2023 |
+Moyenne |
 
 3315C |
 
@@ -3402,13 +3788,13 @@ RÉSEAU DE TERRES NEUVES |
 
 BEGLES |
 
-0,061 |
+0,068 |
 
-0,087 |
+0,094 |
 
-77,5 % |
+74,0% |
 
-2023 |
+Moyenne |
 
 3316C |
 
@@ -3418,11 +3804,11 @@ BORDEAUX |
 
 0,090 |
 
-0,116 |
+0,113 |
 
-62,0 % |
+62,5% |
 
-Moyenne |
+2024 |
 
 3317C |
 
@@ -3430,13 +3816,13 @@ SAIGE-FORMANOIR |
 
 PESSAC |
 
+0,077 |
+
 0,069 |
 
-0,061 |
+59,1% |
 
-65,9 % |
-
-2023 |
+2024 |
 
 3318C |
 
@@ -3444,13 +3830,13 @@ BASSINS À FLOT |
 
 BORDEAUX |
 
-0,088 |
+0,079 |
 
-0,097 |
+0,092 |
 
-61,5 % |
+68,0% |
 
-2023 |
+2024 |
 
 3319C |
 
@@ -3462,9 +3848,9 @@ BORDEAUX |
 
 0,011 |
 
-97,4 % |
+97,6% |
 
-Moyenne |
+2024 |
 
 3320C |
 
@@ -3472,11 +3858,11 @@ RÉSEAU DE LA CLINIQUE LESPARRE |
 
 LESPARRE-MEDOC |
 
-0,078 |
+0,103 |
 
-0,111 |
+0,139 |
 
-78,3 % |
+70,9% |
 
 Moyenne |
 
@@ -3486,13 +3872,13 @@ RÉSEAU PORTES DU PYLA |
 
 LA TESTE DE BUCH |
 
-0,109 |
+0,102 |
 
-0,125 |
+0,117 |
 
-54,3 % |
+56,2% |
 
-2023 |
+Moyenne |
 
 3324C |
 
@@ -3500,13 +3886,13 @@ RÉSEAU DE CHALEUR DES HAUTS DE GARONNE |
 
 CENON |
 
-0,025 |
+0,019 |
 
-0,034 |
+0,026 |
 
-89,9 % |
+92,6% |
 
-2023 |
+2024 |
 
 3325C |
 
@@ -3514,13 +3900,13 @@ RÉSEAU PLAINE DE GARONNE ENERGIES |
 
 BORDEAUX |
 
-0,090 |
+0,088 |
 
-0,069 |
+0,075 |
 
-61,9 % |
+61,6% |
 
-2023 |
+2024 |
 
 3326C |
 
@@ -3528,13 +3914,13 @@ RÉSEAU D'AUBIERS |
 
 BORDEAUX |
 
-0,088 |
+0,060 |
 
-0,112 |
+0,082 |
 
-65,8 % |
+76,3% |
 
-Moyenne |
+2024 |
 
 3327C |
 
@@ -3542,13 +3928,13 @@ BURCK |
 
 PESSAC |
 
-0,214 |
+0,226 |
 
-0,241 |
+0,254 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 3328C |
 
@@ -3556,11 +3942,11 @@ CHAUFFERIE BOIS SAINT MÉDARD |
 
 SAINT MEDARD |
 
-0,094 |
+0,103 |
 
-0,120 |
+0,130 |
 
-64,5 % |
+63,4% |
 
 Moyenne |
 
@@ -3570,11 +3956,11 @@ RÉSEAU DE PINSAN |
 
 EYSINES |
 
-0,029 |
+0,027 |
 
-0,054 |
+0,052 |
 
-89,7 % |
+89,3% |
 
 Moyenne |
 
@@ -3586,11 +3972,11 @@ BARIE |
 
 0,000 |
 
-0,022 |
+0,021 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 3334C |
 
@@ -3598,13 +3984,27 @@ NEWTON |
 
 BEGLES |
 
-0,104 |
+0,116 |
 
-0,105 |
+0,086 |
 
-53,7 % |
+26,9% |
 
-2023 |
+Moyenne |
+
+3335C |
+
+MERIGNAC CENTRE ENERGIES |
+
+MERIGNAC |
+
+0,082 |
+
+0,106 |
+
+72,3% |
+
+2024 |
 
 3401C |
 
@@ -3612,27 +4012,83 @@ RMCF |
 
 MONTPELLIER |
 
-0,076 |
+0,065 |
 
-0,108 |
+0,089 |
 
-64,7 % |
+71,5% |
 
-2023 |
+2024 |
+
+3401F |
+
+POLYGONE ANTIGONE |
+
+MONTPELLIER |
+
+0,080 |
+
+0,098 |
+
+- |
+
+Moyenne CO₂ |
+
+3402F |
+
+ERNEST GRANIER |
+
+MONTPELLIER |
+
+0,013 |
+
+0,057 |
+
+- |
+
+Moyenne CO₂ |
+
+3403F |
+
+PORT MARIANNE/ODYSSEUM |
+
+MONTPELLIER |
+
+0,012 |
+
+0,056 |
+
+- |
+
+Moyenne CO₂ |
 
 3404C |
 
-RÉSEAU DE FRAÏSSE-AGOUT |
+RÉSEAU DE FRAÏSSE - AGOUT |
 
 FRAISSE-SUR-AGOUT |
 
 0,000 |
 
-0,023 |
+0,021 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
+
+3406F |
+
+RÉSEAU ARCHE JACQUES COEUR |
+
+MONTPELLIER |
+
+0,014 |
+
+0,058 |
+
+- |
+
+Moyenne CO₂ |
 
 3409C |
 
@@ -3640,13 +4096,13 @@ ZAC DES CONSTELLATIONS |
 
 JUVIGNAC |
 
-0,064 |
+0,067 |
 
-0,089 |
+0,093 |
 
-79,7 % |
+75,5% |
 
-2023 |
+2024 |
 
 3410C |
 
@@ -3654,13 +4110,13 @@ ECO-QUARTIER LE MAS DE ROCHET |
 
 CASTELNAU-LE-LEZ |
 
-0,074 |
+0,094 |
 
-0,105 |
+0,121 |
 
-75,9 % |
+62,4% |
 
-2023 |
+Moyenne |
 
 3411C |
 
@@ -3672,9 +4128,23 @@ MONTPELLIER |
 
 0,004 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
+
+3411F |
+
+MUSE |
+
+MONTPELLIER |
+
+0,014 |
+
+0,027 |
+
+- |
+
+Moyenne CO₂ |
 
 3412C |
 
@@ -3686,9 +4156,23 @@ LATTES |
 
 0,023 |
 
-78,9 % |
+75,4% |
 
 Moyenne |
+
+3412F |
+
+BET BOIRARGUES FROID |
+
+LATTES |
+
+0,008 |
+
+0,017 |
+
+- |
+
+2024 |
 
 3413C |
 
@@ -3696,13 +4180,13 @@ BET ODE CHAUD |
 
 PEROLS |
 
-0,063 |
+0,065 |
 
-0,038 |
+0,043 |
 
-64,9 % |
+63,6% |
 
-Moyenne |
+2024 |
 
 3414C |
 
@@ -3710,13 +4194,41 @@ BET EUREKA CHAUD |
 
 CASTELNAU-LE-LEZ |
 
-0,064 |
+0,061 |
 
-0,032 |
+0,031 |
 
-67,0 % |
+68,4% |
 
-2023 |
+2024 |
+
+3414F |
+
+BET EUREKA FROID |
+
+CASTELNAU-LE-LEZ |
+
+0,014 |
+
+0,026 |
+
+- |
+
+2024 |
+
+3424F |
+
+BEAUSOLEIL |
+
+MONTPELLIER |
+
+0,015 |
+
+0,059 |
+
+- |
+
+Moyenne CO₂ |
 
 3425C |
 
@@ -3724,13 +4236,55 @@ PRADO CONCORDE |
 
 CASTELNAU LE LEZ |
 
-0,082 |
+0,146 |
 
-0,068 |
+0,103 |
 
-63,6 % |
+40,6% |
 
-2023 |
+Moyenne |
+
+3426F |
+
+PRADO CONCORDE |
+
+CASTELNAU LE LEZ |
+
+0,014 |
+
+0,058 |
+
+- |
+
+Moyenne CO₂ |
+
+3427F |
+
+NOUVEAU SAINT ROCH |
+
+MONTPELLIER |
+
+0,011 |
+
+0,021 |
+
+- |
+
+2024 |
+
+3430C |
+
+CAYLUS |
+
+CASTELNAU LE LEZ |
+
+0,145 |
+
+0,175 |
+
+52,2% |
+
+2024 |
 
 3504C |
 
@@ -3738,13 +4292,13 @@ SARAH BERNHARDT |
 
 RENNES |
 
-0,292 |
+0,109 |
 
-0,333 |
+0,143 |
 
-5,0 % |
+53,4% |
 
-2023 |
+2024 |
 
 3505C |
 
@@ -3752,13 +4306,13 @@ CAMPUS SCIENTIFIQUE DE BEAULIEU |
 
 RENNES |
 
-0,201 |
+0,204 |
 
-0,234 |
+0,237 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 3506C |
 
@@ -3766,13 +4320,13 @@ RENNES SUD |
 
 RENNES |
 
-0,090 |
+0,086 |
 
-0,118 |
+0,115 |
 
-58,6 % |
+59,4% |
 
-2023 |
+2024 |
 
 3507C |
 
@@ -3780,11 +4334,11 @@ RÉSEAU DE RENNES NORD & EST |
 
 RENNES |
 
-0,147 |
+0,192 |
 
-0,168 |
+0,219 |
 
-40,5 % |
+19,3% |
 
 Moyenne |
 
@@ -3794,13 +4348,13 @@ RÉSEAU DE CHALEUR BRETAGNE ROMANTIQUE À COMBOURG |
 
 COMBOURG |
 
-0,012 |
+0,009 |
 
-0,035 |
+0,034 |
 
-95,2 % |
+96,9% |
 
-2023 |
+2024 |
 
 3510C |
 
@@ -3808,27 +4362,27 @@ REVERTEC |
 
 VITRE |
 
-0,159 |
+0,049 |
 
-0,180 |
+0,059 |
 
-47,4 % |
+80,2% |
 
-Moyenne |
+2024 |
 
 3511C |
 
-SILVA--RÉSEAU DE JANZE |
+SILVA -- RÉSEAU DE JANZE |
 
 JANZE |
 
-0,082 |
+0,035 |
 
-0,107 |
+0,059 |
 
-69,5 % |
+86,8% |
 
-Moyenne |
+2024 |
 
 3512C |
 
@@ -3836,13 +4390,13 @@ RÉSEAU DE VEZIN LE COQUET |
 
 VEZIN-LE-COQUET |
 
-0,051 |
+0,058 |
 
-0,080 |
+0,086 |
 
-80,5 % |
+78,9% |
 
-2023 |
+2024 |
 
 3514C |
 
@@ -3852,11 +4406,11 @@ CHARTRES-DE-BRETAGNE |
 
 0,069 |
 
-0,096 |
+0,093 |
 
-76,1 % |
+74,0% |
 
-2023 |
+2024 |
 
 3515C |
 
@@ -3864,13 +4418,13 @@ RCU DE RETIERS, MARTIGNE-FERCHAUD, COESMES |
 
 RETIERS, MARTIGNÉ-FERCHAUD, COËSMES |
 
-0,018 |
+0,016 |
 
-0,045 |
+0,044 |
 
-95,3 % |
+96,5% |
 
-Moyenne |
+2024 |
 
 3516C |
 
@@ -3882,23 +4436,51 @@ CORNILLÉ |
 
 0,004 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
+
+3518C |
+
+RÉSEAU DE CHALEUR DE LIFFRÉ |
+
+LIFFRÉ |
+
+0,029 |
+
+0,052 |
+
+88,0% |
+
+2024 |
+
+3519C |
+
+RÉSEAU REVERTEC - LACTALIS - KERVALIS |
+
+VITRE |
+
+0,000 |
+
+0,004 |
+
+100,0% |
+
+2024 |
 
 3601C |
 
-CITÉ SAINT JEAN |
+SDCC |
 
 CHATEAUROUX |
 
-0,183 |
+0,044 |
 
-0,168 |
+0,023 |
 
-47,8 % |
+66,3% |
 
-2023 |
+2024 |
 
 3602C |
 
@@ -3906,11 +4488,11 @@ RÉSEAU DE CHALEUR DE LA CITÉ DE BEAULIEU |
 
 CHATEAUROUX |
 
-0,036 |
+0,037 |
 
-0,056 |
+0,058 |
 
-82,9 % |
+83,6% |
 
 Moyenne |
 
@@ -3920,13 +4502,13 @@ RÉSEAU DE CHALEUR ARGENTON SUR CREUSE |
 
 ARGENTON-SUR-CREUSE |
 
-0,008 |
+0,009 |
 
-0,031 |
+0,030 |
 
-96,8 % |
+96,3% |
 
-2023 |
+Moyenne |
 
 3604C |
 
@@ -3934,13 +4516,13 @@ RÉSEAU COMMUNAL NEUVY SAINT SEPULCHRE |
 
 NEUVY-SAINT-SEPULCHRE |
 
-0,163 |
+0,014 |
 
-0,208 |
+0,038 |
 
-56,5 % |
+96,4% |
 
-Moyenne |
+2024 |
 
 3605C |
 
@@ -3948,13 +4530,13 @@ RÉSEAU DE CHALEUR D'ISSOUDUN |
 
 ISSOUDUN |
 
-0,049 |
+0,056 |
 
-0,074 |
+0,080 |
 
-79,5 % |
+75,1% |
 
-2023 |
+Moyenne |
 
 3606C |
 
@@ -3962,13 +4544,13 @@ CENTRE DÉPARTEMENTAL GÉRIATRIQUE DE L'INDRE (CDGI) |
 
 CHATEAUROUX |
 
-0,041 |
+0,046 |
 
-0,065 |
+0,071 |
 
-81,9 % |
+82,9% |
 
-2023 |
+2024 |
 
 3607C |
 
@@ -3976,27 +4558,27 @@ GROUPE SCOLAIRE DE MÉZIÈRES EN BRENNE |
 
 MÉZIÈRES EN BRENNE |
 
-0,053 |
+0,198 |
 
-0,027 |
+0,206 |
 
-75,4 % |
+37,7% |
 
-2023 |
+Moyenne |
 
 3701C |
 
-MORIER ET RABIÈRE |
+RCU JOUE LES TOURS |
 
 JOUE-LES-TOURS |
 
-0,097 |
+0,087 |
 
-0,121 |
+0,110 |
 
-63,7 % |
+67,3% |
 
-2023 |
+2024 |
 
 3702C |
 
@@ -4004,13 +4586,13 @@ ZUP DES BORDS DE CHER ET SANITAS |
 
 TOURS |
 
-0,060 |
+0,044 |
 
-0,082 |
+0,064 |
 
-74,1 % |
+81,1% |
 
-2023 |
+2024 |
 
 3704C |
 
@@ -4018,13 +4600,13 @@ QUARTIER CHATEAUBRIAND |
 
 TOURS |
 
-0,194 |
+0,209 |
 
-0,243 |
+0,266 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 3705C |
 
@@ -4032,13 +4614,13 @@ RÉSEAU DE LA VILLE DE SAINT PIERRE DES CORPS |
 
 SAINT-PIERRE-DES-CORPS |
 
-0,068 |
+0,081 |
 
-0,091 |
+0,106 |
 
-72,3 % |
+67,0% |
 
-2023 |
+2024 |
 
 3707C |
 
@@ -4050,23 +4632,23 @@ SAINT-BENOIT-LA-FORET |
 
 0,004 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 3708C |
 
-RÉSEAU DE CHAUFFAGE URBAIN DE LA RICHE-QUARTIER |
+RÉSEAU DE CHAUFFAGE URBAIN DE LA RICHE - QUARTIER |
 
 LA RICHE |
 
-0,253 |
+0,238 |
 
-0,284 |
+0,268 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 3709C |
 
@@ -4076,11 +4658,11 @@ TOURS |
 
 0,000 |
 
-0,019 |
+0,018 |
 
-99,8 % |
+100,0% |
 
-2023 |
+2024 |
 
 3710C |
 
@@ -4092,9 +4674,9 @@ TOURS |
 
 0,256 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 3711C |
 
@@ -4102,13 +4684,13 @@ CFA JOUÉ LES TOURS |
 
 JOUE LES TOURS |
 
-0,127 |
+0,120 |
 
-0,153 |
+0,144 |
 
-50,8 % |
+51,6% |
 
-Moyenne |
+2024 |
 
 3712C |
 
@@ -4116,13 +4698,13 @@ RÉSEAU DE CHALEUR TM-ED |
 
 TOURS ET LA RICHE |
 
-0,050 |
+0,047 |
 
-0,075 |
+0,071 |
 
-77,6 % |
+78,9% |
 
-2023 |
+2024 |
 
 3713C |
 
@@ -4130,13 +4712,27 @@ ILOTS EST |
 
 TOURS |
 
-0,205 |
+0,179 |
 
-0,257 |
+0,210 |
 
-0,0 % |
+27,3% |
 
-2023 |
+2024 |
+
+3714C |
+
+ILOT OUEST |
+
+TOURS |
+
+0,158 |
+
+0,196 |
+
+21,3% |
+
+2024 |
 
 3801C |
 
@@ -4144,11 +4740,11 @@ CHAUFFERIE BOIS BÂTIMENTS COMMUNAUX |
 
 NOYAREY |
 
-0,018 |
+0,029 |
 
-0,050 |
+0,051 |
 
-92,7 % |
+88,9% |
 
 Moyenne |
 
@@ -4158,13 +4754,27 @@ RÉSEAU PRINCIPAL DE GRENOBLE-ALPES MÉTROPOLE |
 
 GRENOBLE |
 
-0,045 |
+0,049 |
 
-0,091 |
+0,093 |
 
-82,0 % |
+80,9% |
 
-2023 |
+2024 |
+
+3802F |
+
+RÉSEAU FROID CCIAG GRENOBLE |
+
+GRENOBLE |
+
+0,017 |
+
+0,061 |
+
+- |
+
+Moyenne CO₂ |
 
 3803C |
 
@@ -4172,13 +4782,13 @@ BERJALIA |
 
 BOURGOIN-JALLIEU |
 
-0,046 |
+0,048 |
 
-0,054 |
+0,058 |
 
-82,1 % |
+82,1% |
 
-Moyenne |
+2024 |
 
 3804C |
 
@@ -4186,13 +4796,13 @@ RÉSEAU DE CHALEUR DE VINAY |
 
 VINAY |
 
-0,072 |
+0,069 |
 
-0,110 |
+0,105 |
 
-82,3 % |
+84,3% |
 
-Moyenne |
+2024 |
 
 3805C |
 
@@ -4200,13 +4810,13 @@ RÉSEAU DE SAINT MARCELLIN |
 
 SAINT-MARCELLIN |
 
-0,024 |
+0,023 |
 
-0,054 |
+0,051 |
 
-93,0 % |
+93,4% |
 
-2023 |
+Moyenne |
 
 3806C |
 
@@ -4214,13 +4824,13 @@ RÉSEAU D'ALLEVARD |
 
 ALLEVARD |
 
-0,018 |
+0,019 |
 
-0,049 |
+0,050 |
 
-94,2 % |
+94,1% |
 
-2023 |
+Moyenne |
 
 3807C |
 
@@ -4228,11 +4838,11 @@ LES LAICHES |
 
 VILLARD-DE-LANS |
 
-0,050 |
+0,062 |
 
-0,083 |
+0,097 |
 
-88,6 % |
+85,5% |
 
 Moyenne |
 
@@ -4244,11 +4854,11 @@ LANS-EN-VERCORS |
 
 0,022 |
 
-0,052 |
+0,050 |
 
-95,1 % |
+94,5% |
 
-2023 |
+2024 |
 
 3809C |
 
@@ -4256,13 +4866,13 @@ RÉSEAU DE MONESTIER-DE-CLERMONT |
 
 MONESTIER-DE-CLERMONT |
 
-0,045 |
+0,023 |
 
-0,075 |
+0,051 |
 
-88,1 % |
+94,8% |
 
-Moyenne |
+2024 |
 
 3810C |
 
@@ -4270,13 +4880,13 @@ RÉSEAU DE MENS |
 
 MENS |
 
-0,163 |
+0,000 |
 
-0,199 |
+0,019 |
 
-52,1 % |
+100,0% |
 
-Moyenne |
+2024 |
 
 3811C |
 
@@ -4284,27 +4894,27 @@ RÉSEAU DE CHALEUR BOIS PONTCHARRA RCBP |
 
 PONTCHARRA |
 
-0,039 |
+0,038 |
 
 0,064 |
 
-88,1 % |
+86,7% |
 
-2023 |
+2024 |
 
 3813C |
 
-RÉSEAU DE CHALEUR DE VOREPPE |
+RÉSEAU DE CHALEUR DE VOREPPE CENTRE |
 
 VOREPPE |
 
-0,055 |
+0,153 |
 
-0,081 |
+0,185 |
 
-81,0 % |
+53,5% |
 
-2023 |
+Moyenne |
 
 3814C |
 
@@ -4312,11 +4922,11 @@ RÉSEAU DE COUBLEVIE |
 
 COUBLEVIE |
 
-0,048 |
+0,150 |
 
-0,070 |
+0,179 |
 
-79,0 % |
+51,2% |
 
 Moyenne |
 
@@ -4326,13 +4936,13 @@ RÉSEAU DE CHALEUR DE VILLARD-DE-LANS |
 
 VILLARD-DE-LANS |
 
-0,022 |
+0,016 |
 
-0,048 |
+0,041 |
 
-94,1 % |
+96,0% |
 
-2023 |
+2024 |
 
 3819C |
 
@@ -4340,11 +4950,11 @@ RÉSEAU YOPLAIT VIENNE |
 
 VIENNE |
 
-0,018 |
+0,036 |
 
-0,024 |
+0,044 |
 
-92,1 % |
+84,0% |
 
 Moyenne |
 
@@ -4354,13 +4964,13 @@ RÉSEAU DE CHALEUR DE GIÈRES CENTRE |
 
 GIÈRES |
 
-0,063 |
+0,034 |
 
-0,089 |
+0,060 |
 
-76,2 % |
+85,3% |
 
-Moyenne |
+2024 |
 
 3821C |
 
@@ -4368,13 +4978,13 @@ RÉSEAU DE CHALEUR DE FONTAINE ZAC BASTILLE |
 
 FONTAINE |
 
-0,041 |
+0,043 |
 
-0,064 |
+0,068 |
 
-82,4 % |
+81,4% |
 
-2023 |
+2024 |
 
 3822C |
 
@@ -4382,13 +4992,13 @@ FORESTENER NOTRE DAME DE L'OSIER |
 
 NOTRE DAME DE L'OSIER |
 
-0,020 |
+0,013 |
 
-0,050 |
+0,041 |
 
-95,6 % |
+99,9% |
 
-2023 |
+2024 |
 
 3823C |
 
@@ -4396,11 +5006,11 @@ OSIRIS |
 
 ST MAURICE L'EXIL |
 
-0,013 |
+0,028 |
 
-0,020 |
+0,037 |
 
-92,9 % |
+85,3% |
 
 Moyenne |
 
@@ -4410,13 +5020,13 @@ RÉSEAU DE MOIRANS |
 
 VILLE DE MOIRANS |
 
-0,014 |
+0,012 |
 
 0,036 |
 
-94,9 % |
+95,9% |
 
-2023 |
+2024 |
 
 3826C |
 
@@ -4424,11 +5034,11 @@ RÉSEAU DE CHALEUR DES BANNETTES |
 
 VOREPPE |
 
-0,197 |
+0,245 |
 
-0,230 |
+0,281 |
 
-40,0 % |
+26,6% |
 
 Moyenne |
 
@@ -4438,13 +5048,13 @@ RÉSEAU GRENOBLE ALPES CHALEUR MEYLAN |
 
 MEYLAN |
 
-0,352 |
+0,295 |
 
-0,394 |
+0,330 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 3828C |
 
@@ -4452,13 +5062,13 @@ RÉSEAU DE VOIRON |
 
 VOIRON |
 
-0,047 |
+0,045 |
 
-0,075 |
+0,070 |
 
-82,0 % |
+83,5% |
 
-2023 |
+2024 |
 
 3829C |
 
@@ -4466,13 +5076,13 @@ RÉSEAU DE CHALEUR DE PONT-DE-CLAIX CABOISSE |
 
 LE PONT DE CLAIX |
 
-0,142 |
+0,032 |
 
-0,171 |
+0,056 |
 
-44,4 % |
+87,2% |
 
-2023 |
+2024 |
 
 3901C |
 
@@ -4480,13 +5090,13 @@ RÉSEAU DE DOLE |
 
 DOLE |
 
-0,106 |
+0,011 |
 
-0,131 |
+0,033 |
 
-58,5 % |
+96,1% |
 
-2023 |
+2024 |
 
 3902C |
 
@@ -4494,13 +5104,13 @@ LA MARJORIE |
 
 LONS-LE-SAUNIER |
 
-0,025 |
-
 0,036 |
 
-91,0 % |
+0,049 |
 
-2023 |
+87,4% |
+
+2024 |
 
 3903C |
 
@@ -4508,13 +5118,13 @@ RÉSEAU DE CHAMPVANS |
 
 CHAMPVANS |
 
-0,114 |
+0,000 |
 
-0,145 |
+0,044 |
 
-66,7 % |
+100,0% |
 
-Moyenne |
+2024 |
 
 3904C |
 
@@ -4522,13 +5132,13 @@ RÉSEAU DE CHALEUR DE MOIRANS EN MONTAGNE |
 
 MOIRANS-EN-MONTAGNE |
 
-0,041 |
+0,100 |
 
-0,071 |
+0,137 |
 
-89,4 % |
+73,2% |
 
-2023 |
+Moyenne |
 
 3905C |
 
@@ -4538,25 +5148,25 @@ ARINTHOD |
 
 0,000 |
 
-0,020 |
+0,022 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 3906C |
 
-RÉSEAU DE MOREZ-LE PUIT |
+RÉSEAU DE MOREZ - LE PUIT |
 
 HAUTS DE BIENNE |
 
-0,006 |
+0,119 |
 
-0,027 |
+0,148 |
 
-97,8 % |
+64,8% |
 
-2023 |
+Moyenne |
 
 3907C |
 
@@ -4564,13 +5174,13 @@ RÉSEAU DE CHISSEY SUR LOUE |
 
 CHISSEY-SUR-LOUE |
 
-0,000 |
+0,114 |
 
-0,022 |
+0,143 |
 
-100,0 % |
+66,7% |
 
-2023 |
+Moyenne |
 
 3908C |
 
@@ -4580,11 +5190,11 @@ AVIGNON-LES-SAINT-CLAUDE |
 
 0,000 |
 
-0,024 |
+0,023 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 4003C |
 
@@ -4596,9 +5206,9 @@ MONT-DE-MARSAN |
 
 0,025 |
 
-87,5 % |
+87,3% |
 
-Moyenne |
+2024 |
 
 4005C |
 
@@ -4606,11 +5216,11 @@ RÉSEAU DE CHALEUR PEYROUAT |
 
 MONT-DE-MARSAN |
 
-0,213 |
+0,251 |
 
-0,192 |
+0,229 |
 
-44,5 % |
+41,0% |
 
 Moyenne |
 
@@ -4622,11 +5232,25 @@ MONT-DE-MARSAN |
 
 0,000 |
 
-0,016 |
+0,014 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
+
+4007C |
+
+RÉSEAU SERRES PONTENX |
+
+PONTENX LES FORGES |
+
+0,000 |
+
+0,004 |
+
+100,0% |
+
+2024 |
 
 4101C |
 
@@ -4634,13 +5258,13 @@ QUARTIER BÉGON ET CHEVALIER |
 
 BLOIS |
 
-0,014 |
+0,020 |
 
-0,023 |
+0,030 |
 
-93,9 % |
+91,9% |
 
-2023 |
+Moyenne |
 
 4102C |
 
@@ -4648,13 +5272,13 @@ ZAC DES PARADIS |
 
 VINEUIL |
 
-0,314 |
+0,177 |
 
-0,375 |
+0,226 |
 
-48,4 % |
+67,8% |
 
-2023 |
+2024 |
 
 4103C |
 
@@ -4662,13 +5286,13 @@ RÉSEAU DE MONDOUBLEAU |
 
 MONDOUBLEAU |
 
+0,051 |
+
 0,078 |
 
-0,105 |
+84,5% |
 
-72,8 % |
-
-Moyenne |
+2024 |
 
 4104C |
 
@@ -4680,9 +5304,9 @@ NEUNG-SUR-BEUVRON |
 
 0,022 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 4105C |
 
@@ -4694,9 +5318,9 @@ VILLENY |
 
 0,021 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 4106C |
 
@@ -4704,13 +5328,13 @@ ECO CHALEUR DE BLOIS |
 
 BLOIS |
 
-0,013 |
-
 0,018 |
 
-95,0 % |
+0,024 |
 
-2023 |
+93,0% |
+
+Moyenne |
 
 4202C |
 
@@ -4718,13 +5342,13 @@ QUARTIER LA COTONNE |
 
 SAINT-ETIENNE |
 
-0,202 |
+0,238 |
 
-0,237 |
+0,268 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 4203C |
 
@@ -4732,13 +5356,13 @@ QUARTIER DE LA MÉTARE |
 
 SAINT-ETIENNE |
 
-0,211 |
+0,222 |
 
-0,245 |
+0,250 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 4204C |
 
@@ -4746,13 +5370,13 @@ HLM BEAULIEU MONTCHOVET IV |
 
 SAINT-ETIENNE |
 
-0,248 |
+0,240 |
 
-0,277 |
+0,270 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 4206C |
 
@@ -4760,13 +5384,13 @@ RÉSEAU DE FIRMINY |
 
 FIRMINY |
 
-0,097 |
+0,111 |
 
-0,120 |
+0,135 |
 
-59,2 % |
+58,0% |
 
-2023 |
+Moyenne |
 
 4207C |
 
@@ -4774,27 +5398,13 @@ ROANNE ÉNERGIES |
 
 ROANNE |
 
-0,056 |
+0,057 |
 
-0,079 |
+0,080 |
 
-77,2 % |
+75,8% |
 
-2023 |
-
-4208C |
-
-QUARTIER PARC DES SPORTS |
-
-ROANNE |
-
-0,301 |
-
-0,337 |
-
-0,0 % |
-
-2023 |
+Moyenne |
 
 4210C |
 
@@ -4802,13 +5412,13 @@ QUARTIER MONTREYNAUD |
 
 SAINT-ETIENNE |
 
-0,072 |
+0,070 |
 
-0,097 |
+0,094 |
 
-71,8 % |
+72,7% |
 
-2023 |
+Moyenne |
 
 4211C |
 
@@ -4816,13 +5426,13 @@ RÉSEAU D'ANDRÉZIEUX-BOUTHÉON |
 
 ANDREZIEUX-BOUTHEON |
 
-0,046 |
+0,026 |
 
-0,069 |
+0,048 |
 
-82,5 % |
+90,0% |
 
-2023 |
+2024 |
 
 4212C |
 
@@ -4830,13 +5440,13 @@ RÉSEAU DE MONTROND-LES-BAINS |
 
 MONTROND-LES-BAINS |
 
-0,009 |
+0,006 |
 
-0,034 |
+0,031 |
 
-96,9 % |
+98,2% |
 
-2023 |
+2024 |
 
 4213C |
 
@@ -4844,13 +5454,27 @@ RÉSEAU DE CHALEUR VIACONFORT |
 
 SAINT-ETIENNE |
 
-0,077 |
+0,082 |
 
-0,101 |
+0,107 |
 
-68,7 % |
+67,8% |
 
 Moyenne |
+
+4213F |
+
+RÉSEAUX DE FROID VIACONFORT |
+
+SAINT-ETIENNE |
+
+0,020 |
+
+0,036 |
+
+- |
+
+Moyenne CO₂ |
 
 4214C |
 
@@ -4858,11 +5482,11 @@ SCEVIA QUARTIER DE FONSALA |
 
 SAINT-CHAMOND |
 
-0,096 |
+0,103 |
 
-0,126 |
+0,134 |
 
-59,9 % |
+58,0% |
 
 Moyenne |
 
@@ -4872,13 +5496,13 @@ USSON EN FOREZ |
 
 USSON-EN-FOREZ |
 
-0,029 |
+0,041 |
 
-0,054 |
+0,071 |
 
-90,8 % |
+88,8% |
 
-2023 |
+Moyenne |
 
 4216C |
 
@@ -4886,13 +5510,13 @@ LOIRE FOREZ AGGLOMERATION ESPACE DÉCHELETTE |
 
 SAINT-BONNET-LE-CHATEAU |
 
-0,026 |
+0,081 |
 
-0,058 |
+0,121 |
 
-93,0 % |
+88,8% |
 
-2023 |
+Moyenne |
 
 4217C |
 
@@ -4900,11 +5524,11 @@ JONZIEUX |
 
 JONZIEUX |
 
-0,062 |
+0,067 |
 
-0,098 |
+0,105 |
 
-86,1 % |
+82,8% |
 
 Moyenne |
 
@@ -4914,41 +5538,41 @@ ROISEY |
 
 ROISEY |
 
-0,000 |
+0,004 |
 
-0,033 |
+0,039 |
 
-99,9 % |
+99,1% |
 
-2023 |
+2024 |
 
 4219C |
 
-PLANFOY 2-ZAC DES LUCIOLES |
+PLANFOY 2 - ZAC DES LUCIOLES |
 
 PLANFOY |
 
-0,000 |
+0,030 |
 
-0,026 |
+0,059 |
 
-100,0 % |
+91,6% |
 
-2023 |
+Moyenne |
 
 4220C |
 
-LE BESSAT 1-ECOLE |
+LE BESSAT 1 - ECOLE |
 
 LE BESSAT |
 
 0,000 |
 
-0,019 |
+0,022 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 4221C |
 
@@ -4958,11 +5582,11 @@ SAINT-BONNET-LE-COURREAU |
 
 0,000 |
 
-0,029 |
+0,030 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 4222C |
 
@@ -4972,11 +5596,11 @@ LA TERRASSE-SUR-DORLAY |
 
 0,000 |
 
-0,022 |
+0,023 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 4223C |
 
@@ -4984,27 +5608,27 @@ SAINT RÉGIS DU COIN |
 
 SAINT-REGIS-DU-COIN |
 
-0,001 |
+0,000 |
 
 0,032 |
 
-99,9 % |
+100,0% |
 
-2023 |
+2024 |
 
 4224C |
 
-ST DIDIER SUR ROCHEFORT |
+ST COTE ST DIDIER |
 
 SAINT-DIDIER-SUR-ROCHEFORT |
 
-0,010 |
+0,003 |
 
-0,039 |
+0,025 |
 
-97,7 % |
+99,1% |
 
-Moyenne |
+2024 |
 
 4225C |
 
@@ -5012,27 +5636,27 @@ NEULISE |
 
 NEULISE |
 
-0,028 |
+0,044 |
 
-0,061 |
+0,077 |
 
-93,0 % |
+91,0% |
 
-2023 |
+Moyenne |
 
 4226C |
 
-PÉLUSSIN-QUARTIER NOTRE DAME |
+PÉLUSSIN - QUARTIER NOTRE DAME |
 
 PELUSSIN |
 
-0,002 |
+0,011 |
 
-0,043 |
+0,047 |
 
-99,6 % |
+97,6% |
 
-2023 |
+Moyenne |
 
 4227C |
 
@@ -5042,11 +5666,11 @@ SAINT-CHRISTO-EN-JAREZ |
 
 0,000 |
 
-0,025 |
+0,018 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 4228C |
 
@@ -5054,13 +5678,13 @@ SAINT MARTIN LA SAUVETÉ |
 
 SAINT-MARTIN-LA-SAUVETE |
 
-0,060 |
+0,070 |
 
-0,106 |
+0,111 |
 
-87,1 % |
+86,8% |
 
-Moyenne |
+2024 |
 
 4229C |
 
@@ -5068,27 +5692,27 @@ SAINT SYMPHORIEN DE LAY |
 
 SAINT-SYMPHORIEN-DE-LAY |
 
-0,000 |
+0,010 |
 
-0,025 |
+0,039 |
 
-100,0 % |
+97,5% |
 
-2023 |
+Moyenne |
 
 4230C |
 
-MARLHES-INTERCONNEXION |
+MARLHES - INTERCONNEXION |
 
 MARLHES |
 
-0,068 |
+0,059 |
 
-0,100 |
+0,091 |
 
-83,3 % |
+82,2% |
 
-2023 |
+Moyenne |
 
 4231C |
 
@@ -5096,13 +5720,13 @@ SAINT HAON LE CHÂTEL |
 
 SAINT-HAON-LE-CHATEL |
 
-0,022 |
+0,066 |
 
-0,045 |
+0,095 |
 
-91,3 % |
+80,9% |
 
-2023 |
+Moyenne |
 
 4232C |
 
@@ -5110,13 +5734,13 @@ SAINT JOSEPH |
 
 SAINT-JOSEPH |
 
-0,082 |
+0,073 |
 
-0,129 |
+0,126 |
 
-76,5 % |
+90,5% |
 
-2023 |
+2024 |
 
 4233C |
 
@@ -5126,25 +5750,25 @@ SAINT-CYR-DE-FAVIERES |
 
 0,000 |
 
-0,019 |
+0,022 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 4234C |
 
-ROANNE-QUARTIER DE MÂTEL |
+ROANNE - QUARTIER DE MÂTEL |
 
 ROANNE |
 
-0,032 |
+0,161 |
 
-0,055 |
+0,191 |
 
-87,8 % |
+46,2% |
 
-2023 |
+Moyenne |
 
 4235C |
 
@@ -5152,41 +5776,41 @@ ROCHE EN FOREZ |
 
 ROCHE |
 
-0,047 |
+0,033 |
 
-0,078 |
+0,059 |
 
-85,8 % |
+90,4% |
 
-Moyenne |
+2024 |
 
 4236C |
 
-PÉLUSSIN 2-QUARTIER DES CROIX |
+PÉLUSSIN 2 - QUARTIER DES CROIX |
 
 PELUSSIN |
 
-0,014 |
+0,017 |
 
-0,044 |
+0,043 |
 
-94,4 % |
+94,5% |
 
-2023 |
+2024 |
 
 4237C |
 
-ROANNE-QUARTIER ARSENAL |
+ROANNE - QUARTIER ARSENAL |
 
 ROANNE |
 
-0,063 |
+0,018 |
 
-0,095 |
+0,049 |
 
-79,5 % |
+92,8% |
 
-2023 |
+2024 |
 
 4238C |
 
@@ -5194,25 +5818,25 @@ SAINT MAURICE EN GOURGOIS |
 
 SAINT-MAURICE-EN-GOURGOIS |
 
-0,040 |
+0,056 |
 
-0,076 |
+0,091 |
 
-90,1 % |
+85,3% |
 
-2023 |
+Moyenne |
 
 4239C |
 
-PÉLUSSIN-SIÈGE CCPR |
+PÉLUSSIN - SIÈGE CCPR |
 
 PELUSSIN |
 
-0,019 |
+0,037 |
 
-0,052 |
+0,072 |
 
-96,4 % |
+91,2% |
 
 Moyenne |
 
@@ -5222,13 +5846,13 @@ COLOMBIER |
 
 COLOMBIER |
 
-0,077 |
+0,021 |
 
-0,126 |
+0,046 |
 
-95,6 % |
+94,5% |
 
-2023 |
+2024 |
 
 4241C |
 
@@ -5236,13 +5860,13 @@ FARNAY |
 
 FARNAY |
 
-0,026 |
+0,025 |
 
-0,063 |
+0,050 |
 
-93,0 % |
+93,1% |
 
-2023 |
+2024 |
 
 4243C |
 
@@ -5250,13 +5874,13 @@ LA TUILIÈRE |
 
 LA TUILIERE |
 
-0,003 |
+0,005 |
 
 0,027 |
 
-99,1 % |
+99,3% |
 
-2023 |
+Moyenne |
 
 4244C |
 
@@ -5268,9 +5892,9 @@ LURIECQ |
 
 0,022 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 4245C |
 
@@ -5280,11 +5904,11 @@ LA VALLA EN GIER |
 
 0,000 |
 
-0,020 |
+0,018 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 4246C |
 
@@ -5292,11 +5916,11 @@ RÉSEAU D'UNIEUX |
 
 UNIEUX |
 
-0,044 |
+0,047 |
 
-0,070 |
+0,075 |
 
-84,6 % |
+84,8% |
 
 Moyenne |
 
@@ -5306,13 +5930,13 @@ RÉSEAU DE SAINT HÉAND |
 
 SAINT HÉAND |
 
-0,002 |
+0,003 |
 
-0,026 |
+0,027 |
 
-99,4 % |
+98,7% |
 
-2023 |
+Moyenne |
 
 4248C |
 
@@ -5320,13 +5944,13 @@ ST MARTIN D'ESTREAUX |
 
 ST MARTIN D'ESTREAUX |
 
-0,009 |
+0,007 |
 
-0,036 |
+0,037 |
 
-98,0 % |
+99,1% |
 
-Moyenne |
+2024 |
 
 4249C |
 
@@ -5334,13 +5958,13 @@ CHAUFFERIE BELMONT DE LA LOIRE |
 
 BELMONT DE LA LOIRE |
 
-0,039 |
+0,034 |
 
-0,064 |
+0,060 |
 
-84,9 % |
+87,2% |
 
-Moyenne |
+2024 |
 
 4250C |
 
@@ -5348,13 +5972,13 @@ CDC VAL D'AIX ET ISABLE |
 
 ST GERMAIN LAVAL |
 
-0,000 |
+0,016 |
 
-0,021 |
+0,040 |
 
-99,9 % |
+97,0% |
 
-2023 |
+Moyenne |
 
 4251C |
 
@@ -5362,13 +5986,13 @@ GUMIERES |
 
 GUMIERES |
 
-0,008 |
+0,010 |
 
-0,038 |
+0,036 |
 
-98,0 % |
+96,6% |
 
-2023 |
+Moyenne |
 
 4252C |
 
@@ -5376,13 +6000,27 @@ ST ROMAIN LA MOTTE |
 
 ST ROMAIN LA MOTTE |
 
-0,008 |
+0,061 |
 
-0,031 |
+0,115 |
 
-98,8 % |
+98,1% |
 
-2023 |
+2024 |
+
+4253C |
+
+CONSEIL DÉPARTEMENTAL - MAISON D'ENFANTS |
+
+SAINT JUST EN CHEVALET |
+
+0,000 |
+
+0,024 |
+
+100,0% |
+
+2024 |
 
 4301C |
 
@@ -5390,13 +6028,13 @@ RÉSEAU DE TENCE |
 
 TENCE |
 
-0,019 |
+0,000 |
 
-0,052 |
+0,024 |
 
-96,4 % |
+100,0% |
 
-Moyenne |
+2024 |
 
 4302C |
 
@@ -5404,11 +6042,11 @@ MAIRIE DE LANGEAC |
 
 LANGEAC |
 
-0,114 |
+0,228 |
 
-0,144 |
+0,264 |
 
-66,7 % |
+33,3% |
 
 Moyenne |
 
@@ -5418,13 +6056,13 @@ RÉSEAU DU PUY EN VELAY VERT VEINE |
 
 LE PUY-EN-VELAY |
 
-0,018 |
+0,011 |
 
-0,042 |
+0,031 |
 
-93,1 % |
+95,2% |
 
-Moyenne |
+2024 |
 
 4304C |
 
@@ -5432,13 +6070,13 @@ CHAUFFERIE DE LA MAIRIE |
 
 DUNIERES |
 
-0,114 |
+0,000 |
 
-0,141 |
+0,018 |
 
-66,7 % |
+100,0% |
 
-Moyenne |
+2024 |
 
 4305C |
 
@@ -5448,11 +6086,11 @@ ALLEGRE |
 
 0,000 |
 
-0,022 |
+0,028 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 4306C |
 
@@ -5460,13 +6098,13 @@ CHAUFFERIE DE LA PISCINE |
 
 DUNIERES |
 
-0,114 |
+0,000 |
 
-0,141 |
+0,022 |
 
-66,7 % |
+100,0% |
 
-Moyenne |
+2024 |
 
 4307C |
 
@@ -5474,13 +6112,13 @@ RÉSEAUX DE CHALEUR YES |
 
 YSSINGEAUX |
 
-0,024 |
+0,023 |
 
-0,048 |
+0,046 |
 
-91,9 % |
+92,0% |
 
-2023 |
+Moyenne |
 
 4308C |
 
@@ -5488,13 +6126,13 @@ PRADELLES |
 
 PRADELLES |
 
-0,120 |
+0,006 |
 
-0,149 |
+0,026 |
 
-65,1 % |
+98,0% |
 
-Moyenne |
+2024 |
 
 4309C |
 
@@ -5504,11 +6142,11 @@ MAZET-SAINT-VOY |
 
 0,000 |
 
-0,028 |
+0,023 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 4310C |
 
@@ -5520,9 +6158,9 @@ SAINT-BONNET-LE-FROID |
 
 0,020 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 4314C |
 
@@ -5532,11 +6170,11 @@ MAZET-SAINT-VOY |
 
 0,000 |
 
-0,019 |
+0,021 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 4315C |
 
@@ -5548,9 +6186,65 @@ SAUGUES |
 
 0,028 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
+
+4316C |
+
+SAINT-ROMAIN-LACHALM |
+
+SAINT-ROMAIN-LACHALM |
+
+0,000 |
+
+0,032 |
+
+100,0% |
+
+2024 |
+
+4317C |
+
+MAISON DE LOUISE |
+
+MONISTROL-SUR-LOIRE |
+
+0,000 |
+
+0,022 |
+
+100,0% |
+
+2024 |
+
+4318C |
+
+CENTRE DU CROS |
+
+RETOURNAC |
+
+0,000 |
+
+0,027 |
+
+100,0% |
+
+2024 |
+
+4319C |
+
+MONASTIER-SUR-GAZEILLE - DSP |
+
+MONASTIER-SUR-GAZEILLE |
+
+0,000 |
+
+0,018 |
+
+100,0% |
+
+2024 |
 
 4401C |
 
@@ -5558,11 +6252,11 @@ RÉSEAU DE NANTES |
 
 NANTES |
 
-0,038 |
+0,042 |
 
-0,056 |
+0,062 |
 
-81,0 % |
+79,1% |
 
 Moyenne |
 
@@ -5572,13 +6266,13 @@ CHATEAUBRIANT |
 
 CHATEAUBRIANT |
 
-0,087 |
+0,077 |
 
-0,121 |
+0,109 |
 
-61,0 % |
+67,6% |
 
-2023 |
+2024 |
 
 4403C |
 
@@ -5586,27 +6280,27 @@ NANTES CHANTRERIE |
 
 NANTES |
 
-0,081 |
+0,095 |
 
-0,106 |
+0,120 |
 
-68,9 % |
+63,1% |
 
-2023 |
+Moyenne |
 
 4405C |
 
-CLEA |
+ZUP DE BELLEVUE SAINT HERBLAIN |
 
 NANTES |
 
-0,112 |
+0,095 |
 
-0,141 |
+0,120 |
 
-55,3 % |
+64,1% |
 
-2023 |
+2024 |
 
 4406C |
 
@@ -5614,13 +6308,13 @@ AFUL REZÉ-CHÂTEAU |
 
 REZE |
 
-0,095 |
+0,099 |
 
-0,123 |
+0,126 |
 
-68,7 % |
+65,2% |
 
-2023 |
+Moyenne |
 
 4407C |
 
@@ -5628,13 +6322,13 @@ RÉSEAU DE SAINT-JEAN-DE-BOISEAU |
 
 SAINT-JEAN-DE-BOISEAU |
 
-0,400 |
+0,442 |
 
-0,454 |
+0,503 |
 
-20,4 % |
+23,3% |
 
-2023 |
+2024 |
 
 4408C |
 
@@ -5642,25 +6336,25 @@ RÉSEAU ZAC DE LA MINAIS |
 
 SAINTE-LUCE-SUR-LOIRE |
 
-0,079 |
+0,104 |
 
-0,112 |
+0,138 |
 
-68,0 % |
+57,9% |
 
 Moyenne |
 
 4409C |
 
-SAINT JULIEN DE CONCELLES-CHAUFFERIE BOIS |
+SAINT JULIEN DE CONCELLES - CHAUFFERIE BOIS |
 
 SAINT-JULIEN-DE-CONCELLES |
 
-0,055 |
+0,116 |
 
-0,079 |
+0,141 |
 
-72,0 % |
+40,4% |
 
 Moyenne |
 
@@ -5670,13 +6364,13 @@ RÉSEAU DE NANTES NORD CHÉZINE |
 
 NANTES |
 
-0,067 |
+0,069 |
 
 0,081 |
 
-74,2 % |
+71,8% |
 
-2023 |
+2024 |
 
 4411C |
 
@@ -5684,13 +6378,27 @@ RÉSIDENCE LA BEAUJOIRE |
 
 NANTES |
 
-0,216 |
+0,214 |
 
-0,241 |
+0,242 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
+
+4412C |
+
+RC DONGES |
+
+DONGES |
+
+0,119 |
+
+0,149 |
+
+58,7% |
+
+2024 |
 
 4501C |
 
@@ -5698,13 +6406,13 @@ SOCOS SOURCE |
 
 ORLEANS |
 
+0,015 |
+
 0,080 |
 
-0,104 |
+79,0% |
 
-68,6 % |
-
-2023 |
+2024 |
 
 4503C |
 
@@ -5712,11 +6420,11 @@ QUARTIER CENTRE VILLE ET NORD |
 
 ORLEANS |
 
-0,000 |
+0,006 |
 
-0,058 |
+0,083 |
 
-88,6 % |
+81,8% |
 
 Moyenne |
 
@@ -5726,13 +6434,13 @@ ZUP DU GRAND CLOS |
 
 MONTARGIS |
 
-0,033 |
+0,039 |
 
-0,046 |
+0,052 |
 
-87,6 % |
+84,9% |
 
-2023 |
+Moyenne |
 
 4505C |
 
@@ -5740,27 +6448,13 @@ RÉSEAU DE FLEURY LES AUBRAIS |
 
 FLEURY-LES-AUBRAIS |
 
-0,082 |
+0,093 |
 
-0,113 |
+0,119 |
 
-63,9 % |
+63,8% |
 
-2023 |
-
-4506C |
-
-RÉSEAU D'EAU CHAUDE MALTERIES PITHIVIERS |
-
-PITHIVIERS |
-
-0,000 |
-
-0,004 |
-
-100,0 % |
-
-2023 |
+2024 |
 
 4507C |
 
@@ -5768,13 +6462,13 @@ RÉSEAU DE AMILLY |
 
 AMILLY |
 
-0,012 |
+0,020 |
 
-0,018 |
+0,026 |
 
-93,0 % |
+90,1% |
 
-2023 |
+2024 |
 
 4508C |
 
@@ -5784,11 +6478,39 @@ SAINT GONDON |
 
 0,000 |
 
-0,024 |
+0,023 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
+
+4509C |
+
+RÉSEAU ESSITY |
+
+ARRABLOY |
+
+0,000 |
+
+0,004 |
+
+100,0% |
+
+2024 |
+
+4510C |
+
+RÉSEAU D'EAU CHAUDE MALTERIES PITHIVIERS |
+
+PITHIVIERS |
+
+0,000 |
+
+0,004 |
+
+100,0% |
+
+2024 |
 
 4601C |
 
@@ -5796,11 +6518,11 @@ RÉSEAU DE NUZÉJOULS |
 
 NUZEJOULS |
 
-0,100 |
+0,221 |
 
-0,144 |
+0,286 |
 
-80,1 % |
+62,3% |
 
 Moyenne |
 
@@ -5810,13 +6532,13 @@ RÉSEAU DE GRAMAT |
 
 GRAMAT |
 
-0,023 |
+0,000 |
 
-0,045 |
+0,019 |
 
-91,2 % |
+100,0% |
 
-Moyenne |
+2024 |
 
 4604C |
 
@@ -5824,11 +6546,11 @@ RÉSEAU DE BIARS SUR CERE |
 
 BIARS-SUR-CERE |
 
-0,008 |
+0,010 |
 
-0,037 |
+0,039 |
 
-98,2 % |
+97,8% |
 
 Moyenne |
 
@@ -5838,13 +6560,13 @@ RÉSEAU DE CAJARC |
 
 CAJARC |
 
-0,015 |
+0,013 |
 
-0,041 |
+0,040 |
 
-96,3 % |
+97,0% |
 
-2023 |
+2024 |
 
 4607C |
 
@@ -5852,13 +6574,13 @@ RÉSEAU DE CATUS |
 
 CATUS |
 
-0,017 |
+0,005 |
 
-0,044 |
+0,033 |
 
-95,8 % |
+98,9% |
 
-Moyenne |
+2024 |
 
 4608C |
 
@@ -5866,13 +6588,13 @@ RÉSEAU DE CAILLAC |
 
 CAILLAC |
 
-0,085 |
+0,068 |
 
-0,127 |
+0,107 |
 
-82,7 % |
+86,4% |
 
-Moyenne |
+2024 |
 
 4609C |
 
@@ -5880,13 +6602,13 @@ RÉSEAU DE ST GERMAIN DU BEL AIR |
 
 SAINT-GERMAIN-DU-BEL-AIR |
 
-0,008 |
+0,022 |
 
-0,036 |
+0,051 |
 
-98,3 % |
+95,0% |
 
-2023 |
+Moyenne |
 
 4610C |
 
@@ -5894,13 +6616,13 @@ RÉSEAU DES 4 ROUTES DU LOT |
 
 LES QUATRE-ROUTES-DU-LOT |
 
-0,007 |
+0,030 |
 
-0,035 |
+0,063 |
 
-98,5 % |
+94,3% |
 
-2023 |
+Moyenne |
 
 4611C |
 
@@ -5908,11 +6630,11 @@ RÉSEAU DE SOUSCEYRAC |
 
 SOUSCEYRAC |
 
-0,015 |
+0,024 |
 
-0,041 |
+0,053 |
 
-96,2 % |
+94,6% |
 
 Moyenne |
 
@@ -5922,13 +6644,13 @@ RÉSEAU DE FIGEAC |
 
 FIGEAC |
 
-0,007 |
+0,005 |
 
-0,033 |
+0,032 |
 
-98,2 % |
+98,9% |
 
-2023 |
+2024 |
 
 4613C |
 
@@ -5936,13 +6658,13 @@ RÉSEAU DE LIVERNON |
 
 LIVERNON |
 
-0,014 |
+0,037 |
 
-0,041 |
+0,070 |
 
-96,8 % |
+92,1% |
 
-2023 |
+Moyenne |
 
 4614C |
 
@@ -5950,13 +6672,13 @@ RÉSEAU DE CAHORS |
 
 CAHORS |
 
-0,022 |
+0,021 |
 
-0,044 |
+0,045 |
 
-91,9 % |
+92,8% |
 
-Moyenne |
+2024 |
 
 4615C |
 
@@ -5964,13 +6686,13 @@ RÉSEAU DE THEGRA |
 
 THEGRA |
 
-0,027 |
+0,028 |
 
-0,058 |
+0,063 |
 
-93,9 % |
+94,6% |
 
-Moyenne |
+2024 |
 
 4616C |
 
@@ -5978,11 +6700,11 @@ RÉSEAU DE LACAPELLE MARIVAL |
 
 LACAPELLE-MARIVAL |
 
-0,013 |
+0,020 |
 
-0,039 |
+0,048 |
 
-96,9 % |
+95,4% |
 
 Moyenne |
 
@@ -5992,13 +6714,13 @@ RÉSEAU DE GOURDON |
 
 GOURDON |
 
-0,009 |
+0,008 |
 
-0,031 |
+0,032 |
 
-97,2 % |
+97,8% |
 
-Moyenne |
+2024 |
 
 4701C |
 
@@ -6010,9 +6732,9 @@ LE PASSAGE |
 
 0,004 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 4802C |
 
@@ -6020,13 +6742,13 @@ MENDE |
 
 MENDE |
 
-0,000 |
+0,001 |
 
 0,022 |
 
-100,0 % |
+99,9% |
 
-2023 |
+Moyenne |
 
 4803C |
 
@@ -6034,13 +6756,13 @@ SCABE SAINT CHELY D'APCHER BOIS ENERGIE |
 
 SAINT-CHELY-D'APCHER |
 
-0,003 |
+0,005 |
 
-0,021 |
+0,024 |
 
-99,3 % |
+98,7% |
 
-2023 |
+Moyenne |
 
 4901C |
 
@@ -6048,13 +6770,13 @@ RÉSEAU D'ANGERS LA ROSERAIE |
 
 ANGERS |
 
-0,025 |
+0,031 |
 
-0,032 |
+0,039 |
 
-90,6 % |
+88,0% |
 
-2023 |
+Moyenne |
 
 4902C |
 
@@ -6062,13 +6784,13 @@ RESEAU DES DEUX CROIX (NOZAY-UPJM) |
 
 ANGERS |
 
-0,112 |
+0,139 |
 
-0,143 |
+0,168 |
 
-55,1 % |
+54,8% |
 
-2023 |
+2024 |
 
 4903C |
 
@@ -6080,9 +6802,9 @@ ANGERS |
 
 0,043 |
 
-89,6 % |
+89,7% |
 
-2023 |
+2024 |
 
 4904C |
 
@@ -6090,13 +6812,13 @@ RÉSEAU DE CHALEUR D'ANDREZÉ |
 
 ANDREZE |
 
-0,112 |
+0,018 |
 
-0,148 |
+0,042 |
 
-73,2 % |
+93,8% |
 
-2023 |
+2024 |
 
 4905C |
 
@@ -6104,13 +6826,13 @@ CHEMIN VERT |
 
 SAUMUR |
 
-0,086 |
+0,070 |
 
-0,114 |
+0,095 |
 
-70,2 % |
+74,1% |
 
-Moyenne |
+2024 |
 
 4907C |
 
@@ -6118,11 +6840,11 @@ RÉSEAU D'ORGEMONT |
 
 ANGERS |
 
-0,043 |
+0,068 |
 
-0,086 |
+0,103 |
 
-71,0 % |
+64,0% |
 
 Moyenne |
 
@@ -6132,41 +6854,27 @@ RÉSEAU DE CHALEUR D'ECOUFLANT |
 
 ECOUFLANT |
 
-0,035 |
+0,046 |
 
-0,058 |
+0,074 |
 
-86,6 % |
+86,5% |
 
-2023 |
+2024 |
 
 4910C |
 
-HAUTS DE SAINT AUBIN |
+RÉSEAU DE CHALEUR ANGERS RIVE DROITE |
 
 ANGERS |
 
-0,141 |
+0,142 |
 
-0,172 |
+0,173 |
 
-53,9 % |
+54,3% |
 
 Moyenne |
-
-4911C |
-
-RÉSEAU DE BELLE BEILLE |
-
-ANGERS |
-
-0,049 |
-
-0,072 |
-
-81,0 % |
-
-2023 |
 
 4912C |
 
@@ -6174,13 +6882,13 @@ RÉSEAU DE CHALEUR DE LA HERSE |
 
 MONTREUIL-BELLAY |
 
-0,000 |
+0,120 |
 
-0,022 |
+0,149 |
 
-100,0 % |
+65,4% |
 
-2023 |
+Moyenne |
 
 4913C |
 
@@ -6188,13 +6896,13 @@ RÉSEAU LES MAUGES |
 
 CHOLET |
 
-0,101 |
+0,109 |
 
-0,127 |
+0,135 |
 
-59,6 % |
+59,4% |
 
-2023 |
+2024 |
 
 4914C |
 
@@ -6204,11 +6912,11 @@ OMBRÉE D'ANJOU |
 
 0,000 |
 
-0,022 |
+0,021 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 4915C |
 
@@ -6216,27 +6924,41 @@ RÉSEAU DE CHALEUR DE MONPLAISIR |
 
 ANGERS |
 
-0,177 |
+0,067 |
 
-0,207 |
+0,093 |
 
-33,4 % |
+75,8% |
 
-2023 |
+2024 |
 
 4916C |
 
-LES PLAINES-TRELAZE |
+LES PLAINES - TRELAZE |
 
 TRELAZE |
 
-0,257 |
+0,220 |
 
-0,266 |
+0,255 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
+
+4917C |
+
+RCU BEAUPREAU - CHAUFFERIE BOIS BEAUPREAU |
+
+BEAUPREAU EN MAUGES |
+
+0,000 |
+
+0,020 |
+
+100,0% |
+
+2024 |
 
 5001C |
 
@@ -6244,11 +6966,11 @@ PROVINCES ENERGIES |
 
 CHERBOURG-OCTEVILLE |
 
-0,025 |
+0,037 |
 
-0,052 |
+0,065 |
 
-92,4 % |
+89,6% |
 
 Moyenne |
 
@@ -6258,13 +6980,13 @@ ILOT DIVETTE |
 
 CHERBOURG-OCTEVILLE |
 
-0,183 |
+0,167 |
 
-0,184 |
+0,164 |
 
-0,0 % |
+32,2% |
 
-2023 |
+2024 |
 
 5003C |
 
@@ -6272,13 +6994,13 @@ RÉGIE DE CHAUFFAGE DU TEILLEUL |
 
 LE TEILLEUL |
 
-0,128 |
+0,067 |
 
-0,172 |
+0,099 |
 
-70,3 % |
+81,9% |
 
-2023 |
+2024 |
 
 5004C |
 
@@ -6286,13 +7008,13 @@ CENTRE HOSPITALIER DE L'ESTRAN |
 
 PONTORSON |
 
+0,246 |
+
 0,276 |
 
-0,310 |
+0,0% |
 
-0,0 % |
-
-2023 |
+2024 |
 
 5005C |
 
@@ -6302,11 +7024,11 @@ LA LUCERNE-D'OUTREMER |
 
 0,000 |
 
-0,037 |
+0,021 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 5006C |
 
@@ -6314,13 +7036,13 @@ CHAUFFAGE URBAIN BIOMASSE D'AVRANCHES |
 
 AVRANCHES |
 
-0,011 |
+0,012 |
 
 0,032 |
 
-95,5 % |
+95,2% |
 
-2023 |
+2024 |
 
 5007C |
 
@@ -6332,9 +7054,9 @@ BUAIS LES MONTS |
 
 0,021 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 5008C |
 
@@ -6342,13 +7064,13 @@ RÉSEAU DE HAMBYE |
 
 HAMBYE |
 
-0,012 |
+0,020 |
 
-0,035 |
+0,043 |
 
-95,2 % |
+92,4% |
 
-2023 |
+Moyenne |
 
 5009C |
 
@@ -6356,13 +7078,13 @@ RÉSEAU DE LESSAY |
 
 LESSAY |
 
-0,036 |
+0,037 |
 
-0,060 |
+0,061 |
 
-85,7 % |
+85,5% |
 
-2023 |
+Moyenne |
 
 5010C |
 
@@ -6370,13 +7092,13 @@ RÉSEAU DE TESSY-BOCAGE |
 
 TESSY-BOCAGE |
 
-0,033 |
+0,047 |
 
-0,055 |
+0,069 |
 
-85,8 % |
+79,8% |
 
-2023 |
+Moyenne |
 
 5011C |
 
@@ -6384,13 +7106,27 @@ RÉSEAU DE SAINT GERMAIN SUR AY |
 
 SAINT GERMAIN SUR AY |
 
-0,028 |
+0,022 |
 
-0,054 |
+0,045 |
 
-90,2 % |
+91,3% |
 
-2023 |
+2024 |
+
+5012C |
+
+RÉSEAU DE JUVIGNY LES VALLEES |
+
+JUVIGNY LES VALLEES |
+
+0,038 |
+
+0,063 |
+
+86,1% |
+
+2024 |
 
 5013C |
 
@@ -6398,27 +7134,13 @@ COUTANCES |
 
 COUTANCES |
 
-0,021 |
+0,023 |
 
-0,043 |
+0,044 |
 
-90,2 % |
+89,7% |
 
-2023 |
-
-5014C |
-
-JUVIGNY-LES-VALLÉES |
-
-JUVIGNY-LES-VALLÉES |
-
-0,053 |
-
-0,081 |
-
-79,9 % |
-
-2023 |
+Moyenne |
 
 5101C |
 
@@ -6426,13 +7148,13 @@ ZUP DE LAON NEUFCHATEL |
 
 REIMS |
 
-0,231 |
+0,069 |
 
-0,260 |
+0,092 |
 
-0,0 % |
+71,4% |
 
-2023 |
+2024 |
 
 5103C |
 
@@ -6440,27 +7162,27 @@ VY'ENERGIE |
 
 VITRY-LE-FRANCOIS |
 
-0,013 |
+0,012 |
 
-0,034 |
+0,032 |
 
-94,6 % |
+94,9% |
 
-2023 |
+2024 |
 
 5104C |
 
-QUARTIER BERNON |
+EPERNAY - QUARTIER BERNON |
 
 EPERNAY |
 
-0,223 |
+0,191 |
 
-0,260 |
+0,287 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 5106C |
 
@@ -6468,13 +7190,13 @@ CROIX ROUGE |
 
 REIMS |
 
-0,075 |
+0,052 |
 
-0,092 |
+0,069 |
 
-71,1 % |
+80,1% |
 
-2023 |
+2024 |
 
 5107C |
 
@@ -6482,11 +7204,11 @@ LA RENAISSANCE IMMOBILIÈRE CHALONNAISE |
 
 CHALONS-EN-CHAMPAGNE |
 
-0,082 |
+0,088 |
 
-0,109 |
+0,117 |
 
-62,6 % |
+59,1% |
 
 Moyenne |
 
@@ -6496,13 +7218,13 @@ ST RÉMI |
 
 REIMS |
 
-0,075 |
+0,098 |
 
-0,087 |
+0,112 |
 
-70,9 % |
+62,2% |
 
-2023 |
+2024 |
 
 5109C |
 
@@ -6510,27 +7232,27 @@ DSP SAINTE MENEHOULD |
 
 REIMS |
 
-0,015 |
+0,028 |
 
-0,041 |
+0,054 |
 
-94,9 % |
+90,5% |
 
-2023 |
+2024 |
 
 5110C |
 
-RÉSEAU CLOE-CHALONS-EN-CHAMPAGNE |
+RÉSEAU CLOE - CHALONS-EN-CHAMPAGNE |
 
 CHALONS-EN-CHAMPAGNE |
 
-0,160 |
+0,065 |
 
-0,182 |
+0,076 |
 
-34,7 % |
+73,8% |
 
-2023 |
+2024 |
 
 5202C |
 
@@ -6542,7 +7264,7 @@ SAINT-DIZIER |
 
 0,098 |
 
-70,7 % |
+71,1% |
 
 Moyenne |
 
@@ -6552,13 +7274,13 @@ RÉSEAU DE CHALEUR DU SUD DE LA VILLE DE CHAUMONT |
 
 CHAUMONT |
 
-0,039 |
+0,043 |
 
-0,050 |
+0,055 |
 
-84,8 % |
+84,2% |
 
-2023 |
+2024 |
 
 5205C |
 
@@ -6568,25 +7290,11 @@ MARAC |
 
 0,000 |
 
-0,020 |
+0,019 |
 
-100,0 % |
+100,0% |
 
-2023 |
-
-5206C |
-
-RÉSEAU DE CHALEUR DE L'EHPAD ST AUGUSTIN |
-
-LONGEAU-PERCEY |
-
-0,114 |
-
-0,140 |
-
-66,7 % |
-
-Moyenne |
+2024 |
 
 5207C |
 
@@ -6596,11 +7304,11 @@ WASSY |
 
 0,000 |
 
-0,023 |
+0,017 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 5208C |
 
@@ -6610,11 +7318,11 @@ BOURMONT |
 
 0,000 |
 
-0,024 |
+0,022 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 5209C |
 
@@ -6622,11 +7330,11 @@ RÉSEAU DE LANGRES |
 
 LANGRES |
 
-0,094 |
+0,099 |
 
-0,117 |
+0,123 |
 
-59,2 % |
+57,3% |
 
 Moyenne |
 
@@ -6636,13 +7344,13 @@ RESEAU DE FAYL BILLOT |
 
 FAYL-BILLOT |
 
-0,025 |
+0,024 |
 
-0,048 |
+0,047 |
 
-91,1 % |
+91,3% |
 
-Moyenne |
+2024 |
 
 5214C |
 
@@ -6650,27 +7358,27 @@ RÉSEAU DE SAINT BLIN |
 
 SAINT-BLIN |
 
-0,000 |
+0,032 |
 
-0,023 |
+0,060 |
 
-100,0 % |
+93,1% |
 
-2023 |
+Moyenne |
 
 5302C |
 
-RÉSEAU DE LAVAL-ZUP SAINT NICOLAS |
+RÉSEAU DE LAVAL - ZUP SAINT NICOLAS |
 
 LAVAL |
 
-0,035 |
+0,038 |
 
-0,042 |
+0,046 |
 
-87,7 % |
+86,2% |
 
-2023 |
+Moyenne |
 
 5303C |
 
@@ -6678,13 +7386,13 @@ RCU CHÂTEAU-GONTIER (PISCINE ET SALLES OMNISPORTS) |
 
 CHATEAU-GONTIER |
 
-0,069 |
+0,068 |
 
 0,093 |
 
-74,1 % |
+74,6% |
 
-2023 |
+Moyenne |
 
 5304C |
 
@@ -6696,9 +7404,9 @@ PONTMAIN |
 
 0,004 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 5305C |
 
@@ -6706,17 +7414,31 @@ RCU D'EVRON |
 
 EVRON |
 
-0,053 |
+0,048 |
 
-0,077 |
+0,072 |
 
-79,3 % |
+82,6% |
 
-Moyenne |
+2024 |
+
+5306C |
+
+RÉSEAU DE CHALEUR - MAYENNE |
+
+MAYENNE |
+
+0,104 |
+
+0,130 |
+
+59,6% |
+
+2024 |
 
 5401C |
 
-ESTIA-SAINT JULIEN KENNEDY |
+ESTIA - SAINT JULIEN KENNEDY |
 
 NANCY |
 
@@ -6724,35 +7446,35 @@ NANCY |
 
 0,131 |
 
-61,6 % |
+60,9% |
 
 Moyenne |
 
 5403C |
 
-S. E. E. V-VILLE DE VANDOEUVRE |
+S.E.E.V - VILLE DE VANDOEUVRE |
 
 VANDOEUVRE-LES-NANCY |
 
-0,050 |
+0,053 |
 
-0,062 |
+0,066 |
 
-78,9 % |
+77,2% |
 
 Moyenne |
 
 5407C |
 
-ESTIA-PLATEAU DE HAYE |
+ESTIA - PLATEAU DE HAYE |
 
 NANCY |
 
-0,101 |
+0,107 |
 
-0,138 |
+0,144 |
 
-55,6 % |
+54,0% |
 
 Moyenne |
 
@@ -6762,55 +7484,55 @@ RÉSEAU D'ECROUVES |
 
 ECROUVES |
 
-0,093 |
+0,115 |
 
-0,119 |
+0,142 |
 
-61,6 % |
+53,9% |
 
 Moyenne |
 
 5409C |
 
-RÉSEAU CHAUFFERIE BOIS-BARBONVILLE |
+RÉSEAU CHAUFFERIE BOIS - BARBONVILLE |
 
 BARBONVILLE |
 
 0,000 |
 
-0,024 |
+0,022 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 5410C |
 
-S. E. E. V-PLATEAU DE BRABOIS |
+S.E.E.V - PLATEAU DE BRABOIS |
 
 VANDOEUVRE-LES-NANCY |
 
-0,083 |
+0,059 |
 
-0,106 |
+0,108 |
 
-64,0 % |
+62,6% |
 
 Moyenne |
 
 5411C |
 
-ESTIA-BLANDAN MEDREVILLE |
+ESTIA - BLANDAN MEDREVILLE |
 
 NANCY |
 
-0,074 |
+0,071 |
 
-0,092 |
+0,090 |
 
-70,4 % |
+70,9% |
 
-2023 |
+2024 |
 
 5412C |
 
@@ -6818,25 +7540,25 @@ RÉSEAU DE PONT À MOUSSON |
 
 PONT-A-MOUSSON |
 
-0,027 |
+0,030 |
 
-0,087 |
+0,077 |
 
-90,8 % |
+89,4% |
 
-2023 |
+Moyenne |
 
 5413C |
 
-ESTIA-LAXOU-VILLERS |
+ESTIA - LAXOU-VILLERS |
 
 LAXOU |
 
-0,089 |
+0,094 |
 
-0,115 |
+0,121 |
 
-57,9 % |
+56,3% |
 
 Moyenne |
 
@@ -6846,13 +7568,13 @@ RÉSEAU DE CHALEUR BRIEY |
 
 BRIEY |
 
-0,055 |
+0,049 |
 
-0,078 |
+0,072 |
 
-78,7 % |
+79,8% |
 
-2023 |
+2024 |
 
 5415C |
 
@@ -6862,11 +7584,25 @@ AMENONCOURT |
 
 0,000 |
 
-0,104 |
+0,139 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
+
+5417C |
+
+L'ENERGIE LUNEVILLE |
+
+LUNEVILLE |
+
+0,041 |
+
+0,067 |
+
+85,9% |
+
+2024 |
 
 5501C |
 
@@ -6874,13 +7610,13 @@ CÔTE SAINTE CATHERINE |
 
 BAR LE DUC |
 
-0,099 |
+0,100 |
 
 0,125 |
 
-61,8 % |
+60,7% |
 
-2023 |
+Moyenne |
 
 5502C |
 
@@ -6890,11 +7626,11 @@ VERDUN |
 
 0,246 |
 
-0,277 |
+0,276 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 5503C |
 
@@ -6902,13 +7638,13 @@ LIGNY EN BARROIS |
 
 LIGNY-EN-BARROIS |
 
-0,070 |
+0,057 |
 
-0,096 |
+0,083 |
 
-75,8 % |
+80,7% |
 
-2023 |
+2024 |
 
 5504C |
 
@@ -6918,11 +7654,11 @@ BAALON |
 
 0,000 |
 
-0,022 |
+0,029 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 5601C |
 
@@ -6930,13 +7666,13 @@ RÉSEAU DE LANESTER |
 
 LANESTER |
 
-0,098 |
+0,092 |
 
-0,129 |
+0,121 |
 
-73,3 % |
+71,1% |
 
-2023 |
+Moyenne |
 
 5602C |
 
@@ -6948,9 +7684,9 @@ HENNEBONT |
 
 0,023 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 5603C |
 
@@ -6958,13 +7694,13 @@ RÉSEAU DE CHALEUR DU GUMENEN |
 
 AURAY |
 
-0,066 |
+0,072 |
 
-0,092 |
+0,099 |
 
-74,5 % |
+76,9% |
 
-2023 |
+2024 |
 
 5604C |
 
@@ -6974,11 +7710,11 @@ LOCMINE |
 
 0,000 |
 
-0,069 |
+0,048 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 5605C |
 
@@ -6988,11 +7724,11 @@ GUER |
 
 0,000 |
 
-0,025 |
+0,022 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 5607C |
 
@@ -7000,13 +7736,13 @@ RÉSEAU DE SERENT |
 
 SERENT |
 
-0,045 |
+0,039 |
 
-0,073 |
+0,065 |
 
-86,0 % |
+87,7% |
 
-Moyenne |
+2024 |
 
 5608C |
 
@@ -7016,15 +7752,15 @@ LOCMIQUELIC |
 
 0,002 |
 
-0,023 |
+0,022 |
 
-99,1 % |
+99,4% |
 
-2023 |
+2024 |
 
 5609C |
 
-CENTRE-VILLE-PLOUAY |
+CENTRE-VILLE - PLOUAY |
 
 PLOUAY |
 
@@ -7032,79 +7768,107 @@ PLOUAY |
 
 0,020 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 5611C |
 
-MANEHOUARN-PLOUAY |
+MANEHOUARN - PLOUAY |
 
 PLOUAY |
 
-0,005 |
+0,003 |
 
-0,028 |
+0,025 |
 
-98,0 % |
+98,9% |
 
-2023 |
+2024 |
 
 5612C |
 
-LANVEUR-KERJULAUDE-LORIENT |
+LANVEUR - KERJULAUDE - LORIENT |
 
 LORIENT |
 
-0,011 |
+0,014 |
 
-0,033 |
+0,035 |
 
-95,7 % |
+94,6% |
 
-2023 |
+Moyenne |
 
-5614C |
+5613C |
 
-KERDROUAL-PLOEMEUR |
+BODÉLIO - LORIENT |
 
-PLOEMEUR |
+LORIENT |
 
 0,006 |
 
+0,029 |
+
+98,1% |
+
+2024 |
+
+5614C |
+
+KERDROUAL - PLOEMEUR |
+
+PLOEMEUR |
+
+0,007 |
+
 0,031 |
 
-97,9 % |
+97,5% |
 
-2023 |
+Moyenne |
 
 5615C |
 
-CENTRE-BOURG-BUBRY |
+CENTRE-BOURG - BUBRY |
 
 BUBRY |
 
 0,000 |
 
-0,023 |
+0,021 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 5616C |
 
-RÉSEAU CH CENTRE BRETAGNE-POLYCLINIQUE KERIO |
+RÉSEAU CH CENTRE BRETAGNE - POLYCLINIQUE KERIO |
 
 NOYAL-PONTIVY |
 
-0,058 |
+0,095 |
 
-0,080 |
+0,119 |
 
-74,7 % |
+59,9% |
 
-2023 |
+Moyenne |
+
+5617C |
+
+RÉSEAU LACTALIS - AKIOLIS |
+
+PONTIVY |
+
+0,000 |
+
+0,004 |
+
+100,0% |
+
+2024 |
 
 5701C |
 
@@ -7112,13 +7876,13 @@ RÉSEAU DE METZ |
 
 METZ |
 
-0,035 |
+0,040 |
 
-0,094 |
+0,098 |
 
-72,0 % |
+72,7% |
 
-2023 |
+2024 |
 
 5702C |
 
@@ -7126,13 +7890,13 @@ RÉSEAU DE LA VILLE DE YUTZ |
 
 YUTZ |
 
-0,034 |
+0,044 |
 
-0,058 |
+0,068 |
 
-87,0 % |
+82,3% |
 
-2023 |
+2024 |
 
 5703C |
 
@@ -7140,11 +7904,11 @@ RÉSEAU DE CHALEUR DE FARÉBERSVILLER |
 
 FAREBERSVILLER |
 
-0,148 |
+0,133 |
 
-0,187 |
+0,174 |
 
-58,5 % |
+61,5% |
 
 Moyenne |
 
@@ -7154,13 +7918,13 @@ WENHECK |
 
 SAINT-AVOLD |
 
-0,283 |
+0,241 |
 
-0,334 |
+0,359 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 5706C |
 
@@ -7168,11 +7932,11 @@ RÉSEAU DE FREYMING MERLEBACH |
 
 FREYMING-MERLEBACH |
 
-0,093 |
+0,102 |
 
-0,126 |
+0,136 |
 
-62,2 % |
+59,3% |
 
 Moyenne |
 
@@ -7182,13 +7946,13 @@ RÉSEAU DE SARREGUEMINES |
 
 SARREGUEMINES |
 
-0,080 |
+0,081 |
 
-0,121 |
+0,113 |
 
-65,6 % |
+72,1% |
 
-2023 |
+2024 |
 
 5708C |
 
@@ -7198,11 +7962,11 @@ BEHREN-LES-FORBACH |
 
 0,000 |
 
-0,051 |
+0,063 |
 
-91,1 % |
+85,1% |
 
-2023 |
+Moyenne |
 
 5709C |
 
@@ -7210,13 +7974,13 @@ CARRIÈRE |
 
 SAINT-AVOLD |
 
-0,194 |
+0,085 |
 
-0,224 |
+0,111 |
 
-28,7 % |
+73,1% |
 
-2023 |
+2024 |
 
 5710C |
 
@@ -7224,13 +7988,13 @@ CÔTE DE LA JUSTICE |
 
 SAINT-AVOLD |
 
-0,033 |
+0,026 |
 
-0,056 |
+0,049 |
 
-88,7 % |
+92,8% |
 
-2023 |
+2024 |
 
 5711C |
 
@@ -7238,13 +8002,13 @@ HUCHET |
 
 SAINT-AVOLD |
 
-0,165 |
+0,036 |
 
-0,191 |
+0,058 |
 
-25,0 % |
+84,5% |
 
-2023 |
+2024 |
 
 5712C |
 
@@ -7254,11 +8018,11 @@ STIRING-WENDEL |
 
 0,000 |
 
-0,068 |
+0,004 |
 
-91,1 % |
+100,0% |
 
-2023 |
+2024 |
 
 5713C |
 
@@ -7266,11 +8030,11 @@ RÉSEAU DE CHAUFFAGE URBAIN DE CREUTZWALD |
 
 CREUTZWALD |
 
-0,212 |
+0,206 |
 
-0,262 |
+0,260 |
 
-13,0 % |
+11,7% |
 
 Moyenne |
 
@@ -7280,13 +8044,27 @@ RÉSEAU DE SARREBOURG |
 
 SARREBOURG |
 
-0,072 |
+0,094 |
 
-0,096 |
+0,119 |
 
-71,2 % |
+63,2% |
 
-2023 |
+Moyenne |
+
+5714F |
+
+RÉSEAU ZAC AMPHITHÉÂTRE |
+
+METZ |
+
+0,008 |
+
+0,017 |
+
+- |
+
+2024 |
 
 5716C |
 
@@ -7294,13 +8072,13 @@ RÉSEAU CITÉ BELLE-ROCHE |
 
 COCHEREN |
 
-0,274 |
+0,282 |
 
-0,308 |
+0,316 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 5717C |
 
@@ -7308,13 +8086,13 @@ RÉSEAU CITÉ PASTEUR |
 
 ROUHLING |
 
-0,274 |
+0,277 |
 
-0,308 |
+0,311 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 5719C |
 
@@ -7322,13 +8100,13 @@ RESEAU DE CATTENOM |
 
 CATTENOM |
 
-0,002 |
+0,017 |
 
-0,028 |
+0,046 |
 
-99,5 % |
+96,3% |
 
-2023 |
+Moyenne |
 
 5720C |
 
@@ -7336,13 +8114,13 @@ RÉSEAU DE CHALEUR D'AMNÉVILLE |
 
 AMNÉVILLE |
 
-0,017 |
+0,025 |
 
-0,040 |
+0,049 |
 
-91,9 % |
+89,0% |
 
-2023 |
+Moyenne |
 
 5721C |
 
@@ -7350,13 +8128,13 @@ RÉSEAU DE CHALEUR DE ROMBAS |
 
 ROMBAS |
 
-0,043 |
+0,047 |
 
-0,067 |
+0,070 |
 
-81,9 % |
+80,1% |
 
-2023 |
+Moyenne |
 
 5722C |
 
@@ -7364,13 +8142,13 @@ POLESTAR |
 
 SAINT-AVOLD |
 
-0,193 |
+0,205 |
 
-0,242 |
+0,225 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 5802C |
 
@@ -7378,13 +8156,13 @@ RESEAU DE CHALEUR DU BANLAY |
 
 NEVERS |
 
-0,064 |
+0,070 |
 
-0,092 |
+0,097 |
 
-67,9 % |
+68,4% |
 
-Moyenne |
+2024 |
 
 5803C |
 
@@ -7392,13 +8170,13 @@ RÉSEAU DE DECIZE |
 
 DECIZE |
 
-0,069 |
+0,068 |
 
-0,097 |
+0,098 |
 
-77,4 % |
+79,2% |
 
-2023 |
+Moyenne |
 
 5804C |
 
@@ -7406,13 +8184,13 @@ RÉSEAU DE CHALEUR DE LA MAISON DU PARC DU MORVAN |
 
 SAINT-BRISSON |
 
-0,000 |
+0,114 |
 
-0,022 |
+0,143 |
 
-100,0 % |
+66,7% |
 
-2023 |
+Moyenne |
 
 5805C |
 
@@ -7420,13 +8198,13 @@ RÉSEAU DE CHALEUR D'ARLEUF |
 
 ARLEUF |
 
-0,034 |
+0,007 |
 
-0,066 |
+0,032 |
 
-92,5 % |
+98,4% |
 
-Moyenne |
+2024 |
 
 5806C |
 
@@ -7436,11 +8214,11 @@ BAZOLLES |
 
 0,000 |
 
-0,020 |
+0,021 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 5807C |
 
@@ -7448,13 +8226,13 @@ RÉSEAU DE CHALEUR DE CORBIGNY |
 
 CORBIGNY |
 
-0,034 |
+0,000 |
 
-0,062 |
+0,019 |
 
-91,3 % |
+100,0% |
 
-2023 |
+2024 |
 
 5808C |
 
@@ -7462,13 +8240,13 @@ RÉSEAU DE CHALEUR DE LORMES |
 
 LORMES |
 
-0,003 |
+0,017 |
 
-0,024 |
+0,041 |
 
-99,3 % |
+95,7% |
 
-2023 |
+Moyenne |
 
 5809C |
 
@@ -7476,13 +8254,13 @@ RÉSEAU DE CHALEUR DE MONTIGNY EN MORVAN |
 
 MONTIGNY-EN-MORVAN |
 
-0,030 |
+0,014 |
 
-0,059 |
+0,040 |
 
-92,0 % |
+95,8% |
 
-Moyenne |
+2024 |
 
 5810C |
 
@@ -7492,11 +8270,11 @@ OUROUX-EN-MORVAN |
 
 0,000 |
 
-0,021 |
+0,023 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 5811C |
 
@@ -7504,13 +8282,13 @@ RÉSEAU DE CHALEUR DE PLANCHEZ |
 
 PLANCHEZ |
 
-0,000 |
+0,002 |
 
-0,030 |
+0,029 |
 
-100,0 % |
+99,5% |
 
-2023 |
+Moyenne |
 
 5812C |
 
@@ -7518,13 +8296,13 @@ RÉSEAU DE CHALEUR DE SAINT AMAND EN PUISAYE |
 
 SAINT-AMAND-EN-PUISAYE |
 
-0,040 |
+0,013 |
 
-0,067 |
+0,042 |
 
-87,2 % |
+96,5% |
 
-2023 |
+2024 |
 
 5813C |
 
@@ -7534,11 +8312,11 @@ VARZY |
 
 0,000 |
 
-0,021 |
+0,020 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 5814C |
 
@@ -7548,11 +8326,11 @@ CORANCY |
 
 0,000 |
 
-0,021 |
+0,020 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 5815C |
 
@@ -7560,13 +8338,13 @@ RÉSEAU DE CHALEUR DE SAINT SAULGE |
 
 SAINT-SAULGE |
 
-0,014 |
-
 0,039 |
 
-96,7 % |
+0,066 |
 
-2023 |
+92,2% |
+
+Moyenne |
 
 5816C |
 
@@ -7576,11 +8354,11 @@ BILLY-SUR-OISY |
 
 0,000 |
 
-0,018 |
+0,024 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 5817C |
 
@@ -7588,13 +8366,13 @@ RÉSEAU DE CHALEUR DE BRASSY |
 
 BRASSY |
 
-0,026 |
+0,077 |
 
-0,055 |
+0,116 |
 
-99,6 % |
+79,0% |
 
-2023 |
+2024 |
 
 5818C |
 
@@ -7604,11 +8382,11 @@ CHATEAU-CHINON (VILLE) |
 
 0,000 |
 
-0,020 |
+0,022 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 5819C |
 
@@ -7616,13 +8394,13 @@ RÉSEAU DE CHALEUR DE COSNE-COURS-SUR-LOIRE |
 
 COSNE-COURS-SUR-LOIRE |
 
-0,036 |
+0,042 |
 
-0,058 |
+0,066 |
 
-85,9 % |
+84,5% |
 
-Moyenne |
+2024 |
 
 5820C |
 
@@ -7630,13 +8408,13 @@ CHÂTEAU CHINON EIAT |
 
 CHATEAU-CHINON (VILLE) |
 
-0,146 |
+0,088 |
 
-0,189 |
+0,122 |
 
-59,2 % |
+76,3% |
 
-2023 |
+2024 |
 
 5821C |
 
@@ -7644,13 +8422,13 @@ CHALLUY |
 
 CHALLUY |
 
-0,028 |
+0,020 |
 
-0,049 |
+0,043 |
 
-86,9 % |
+90,8% |
 
-2023 |
+2024 |
 
 5822C |
 
@@ -7658,13 +8436,13 @@ MOUX EN MORVAN |
 
 MOUX-EN-MORVAN |
 
-0,037 |
+0,015 |
 
-0,065 |
+0,040 |
 
-91,1 % |
+97,5% |
 
-2023 |
+2024 |
 
 5823C |
 
@@ -7672,13 +8450,13 @@ LA CHARITÉ SUR LOIRE |
 
 LA CHARITE-SUR-LOIRE |
 
-0,028 |
+0,000 |
 
-0,052 |
+0,021 |
 
-91,8 % |
+100,0% |
 
-2023 |
+2024 |
 
 5824C |
 
@@ -7686,13 +8464,13 @@ RÉSEAU DE LUZY |
 
 LUZY |
 
-0,000 |
+0,007 |
 
-0,019 |
+0,028 |
 
-100,0 % |
+97,3% |
 
-2023 |
+Moyenne |
 
 5825C |
 
@@ -7702,11 +8480,11 @@ OUROUX EN MORVAN |
 
 0,000 |
 
-0,021 |
+0,023 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 5826C |
 
@@ -7716,11 +8494,11 @@ VAUX D'AMOGNES |
 
 0,000 |
 
-0,020 |
+0,019 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 5827C |
 
@@ -7728,13 +8506,13 @@ MONTSAUCHE LES SETTONS |
 
 MONTSAUCHE LES SETTONS |
 
-0,031 |
+0,030 |
 
-0,056 |
+0,054 |
 
-90,9 % |
+90,6% |
 
-2023 |
+2024 |
 
 5828C |
 
@@ -7742,13 +8520,69 @@ URZY |
 
 URZY |
 
-0,014 |
+0,005 |
 
-0,037 |
+0,029 |
 
-94,6 % |
+98,5% |
 
-2023 |
+2024 |
+
+5829C |
+
+COSSAYE |
+
+COSSAYE |
+
+0,047 |
+
+0,074 |
+
+81,6% |
+
+2024 |
+
+5830C |
+
+ENTRAINS-SUR-NOHAIN |
+
+ENTRAINS-SUR-NOHAIN |
+
+0,000 |
+
+0,036 |
+
+100,0% |
+
+2024 |
+
+5831C |
+
+COULANGES-LÈS-NEVERS - ESPACE DES SAULES |
+
+COULANGES-LÈS-NEVERS |
+
+0,021 |
+
+0,040 |
+
+90,2% |
+
+2024 |
+
+5832C |
+
+COULANGES-LÈS-NEVERS - GS MALRAUX |
+
+COULANGES-LÈS-NEVERS |
+
+0,018 |
+
+0,043 |
+
+92,4% |
+
+2024 |
 
 5901C |
 
@@ -7756,13 +8590,13 @@ RÉSEAU DE ROUBAIX |
 
 ROUBAIX |
 
-0,061 |
+0,049 |
 
-0,085 |
+0,070 |
 
-70,9 % |
+77,2% |
 
-Moyenne |
+2024 |
 
 5902C |
 
@@ -7770,13 +8604,13 @@ LES CANONNIERS |
 
 VALENCIENNES |
 
-0,220 |
+0,251 |
 
-0,247 |
+0,282 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 5904C |
 
@@ -7784,13 +8618,13 @@ QUARTIER PONT DE BOIS |
 
 VILLENEUVE-D'ASCQ |
 
-0,107 |
+0,105 |
 
-0,129 |
+0,128 |
 
-62,6 % |
+61,2% |
 
-2023 |
+Moyenne |
 
 5905C |
 
@@ -7798,13 +8632,13 @@ DOMAINE UNIVERSITAIRE ET SCIENTIFIQUE |
 
 VILLENEUVE-D'ASCQ |
 
-0,230 |
+0,242 |
 
-0,259 |
+0,272 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 5906C |
 
@@ -7812,11 +8646,11 @@ RÉSEAUX DE WATTIGNIES |
 
 WATTIGNIES |
 
-0,143 |
+0,158 |
 
-0,170 |
+0,186 |
 
-42,9 % |
+38,9% |
 
 Moyenne |
 
@@ -7826,13 +8660,13 @@ RÉSEAU DE WATTRELOS |
 
 WATTRELOS |
 
-0,112 |
+0,109 |
 
-0,140 |
+0,136 |
 
-54,8 % |
+57,0% |
 
-2023 |
+2024 |
 
 5908C |
 
@@ -7840,13 +8674,13 @@ RÉSEAU DE CHALEUR DE SIN LE NOBLE |
 
 SIN-LE-NOBLE |
 
-0,099 |
+0,100 |
 
-0,120 |
+0,118 |
 
-60,9 % |
+65,6% |
 
-Moyenne |
+2024 |
 
 5909C |
 
@@ -7854,13 +8688,13 @@ RÉSEAU DE MONS-EN-BAROEUL |
 
 MONS-EN-BAROEUL |
 
-0,092 |
+0,071 |
 
-0,125 |
+0,103 |
 
-57,6 % |
+64,9% |
 
-2023 |
+2024 |
 
 5910C |
 
@@ -7868,13 +8702,13 @@ RÉSEAU DE LILLE |
 
 LILLE |
 
-0,085 |
+0,086 |
 
-0,098 |
+0,100 |
 
-66,9 % |
+65,8% |
 
-2023 |
+Moyenne |
 
 5911C |
 
@@ -7882,13 +8716,13 @@ RÉSEAU DE LAMBERSART |
 
 LAMBERSART |
 
-0,126 |
+0,132 |
 
-0,169 |
+0,164 |
 
-48,4 % |
+62,0% |
 
-Moyenne |
+2024 |
 
 5912C |
 
@@ -7896,13 +8730,13 @@ MAUBEUGE ENERGIE RENOUVELABLE |
 
 MAUBEUGE |
 
-0,046 |
+0,051 |
 
-0,055 |
+0,061 |
 
-82,5 % |
+79,9% |
 
-2023 |
+2024 |
 
 5913C |
 
@@ -7910,27 +8744,27 @@ GÉOTHERMIE DES RIVES CRÉATIVES |
 
 ANZIN |
 
-0,075 |
+0,180 |
 
-0,037 |
+0,083 |
 
-69,6 % |
+23,2% |
 
-2023 |
+Moyenne |
 
 5914C |
 
-ENERGIE GRAND LITTORAL-DUNKERQUE |
+ENERGIE GRAND LITTORAL - DUNKERQUE |
 
 DUNKERQUE |
 
-0,127 |
+0,109 |
 
-0,150 |
+0,129 |
 
-52,4 % |
+59,9% |
 
-2023 |
+2024 |
 
 5915C |
 
@@ -7938,13 +8772,13 @@ RÉSEAU DE CHALEUR DE DOUCHY |
 
 DOUCHY-LES-MINES |
 
-0,046 |
+0,057 |
 
-0,056 |
+0,073 |
 
-84,3 % |
+75,9% |
 
-2023 |
+Moyenne |
 
 5916C |
 
@@ -7952,13 +8786,13 @@ RÉSEAU DE CHALEUR D'HAZEBROUCK |
 
 HAZEBROUCK |
 
-0,086 |
+0,091 |
 
-0,119 |
+0,123 |
 
-66,2 % |
+64,4% |
 
-2023 |
+Moyenne |
 
 5917C |
 
@@ -7966,13 +8800,13 @@ QUARTIER TOURNEBRIDE LOMME-CAPINGHEM |
 
 LILLE |
 
-0,098 |
+0,107 |
 
-0,124 |
+0,133 |
 
-59,3 % |
+57,4% |
 
-2023 |
+Moyenne |
 
 5918C |
 
@@ -7984,9 +8818,9 @@ BAISIEUX |
 
 0,385 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 5919C |
 
@@ -7994,13 +8828,13 @@ RÉSEAU DU PARC ST MAUR |
 
 LILLE |
 
-0,206 |
+0,241 |
 
-0,258 |
+0,239 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 5920C |
 
@@ -8008,11 +8842,11 @@ RÉSEAU ARSYEL |
 
 GRANDE-SYNTHE |
 
-0,037 |
+0,050 |
 
-0,048 |
+0,063 |
 
-89,6 % |
+85,8% |
 
 Moyenne |
 
@@ -8022,13 +8856,13 @@ RÉSEAU DE DENAIN |
 
 DENAIN |
 
-0,015 |
+0,059 |
 
-0,020 |
+0,069 |
 
-94,1 % |
+76,2% |
 
-2023 |
+2024 |
 
 5923C |
 
@@ -8036,13 +8870,13 @@ RCU FOURMIES |
 
 FOURMIES |
 
-0,159 |
+0,000 |
 
-0,191 |
+0,017 |
 
-47,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 5924C |
 
@@ -8050,69 +8884,69 @@ RCU WORMHOUT |
 
 WORMHOUT |
 
-0,016 |
+0,030 |
 
-0,038 |
+0,055 |
 
-93,9 % |
+89,2% |
 
-2023 |
+Moyenne |
 
 5925C |
 
-LYS LEZ LANNOY (59)-RESEAU LONGCHAMP |
+LYS LEZ LANNOY (59) - RESEAU LONGCHAMP |
 
 LYS LEZ LANNOY |
 
-0,203 |
+0,200 |
 
-0,257 |
+0,252 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 5926C |
 
-SECLIN (59)-RESEAU LA MOUCHONNIERE |
+SECLIN (59) - RESEAU LA MOUCHONNIERE |
 
 SECLIN |
 
-0,112 |
+0,119 |
 
-0,137 |
+0,146 |
 
-52,8 % |
+53,1% |
 
-2023 |
+2024 |
 
 5927C |
 
-RONCHIN (59)-RESEAU CDS COMTESSE DE SEGUR |
+RONCHIN (59) - RESEAU CDS COMTESSE DE SEGUR |
 
 RONCHIN |
 
-0,210 |
+0,229 |
 
-0,240 |
+0,254 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 5928C |
 
-VILLENEUVE D'ASCQ (59)-RESEAU LA RESIDENCE |
+VILLENEUVE D'ASCQ (59) - RESEAU LA RESIDENCE |
 
 VILLENEUVE D'ASCQ |
 
-0,178 |
+0,190 |
 
-0,238 |
+0,243 |
 
-1,0 % |
+0,8% |
 
-2023 |
+Moyenne |
 
 6001C |
 
@@ -8120,13 +8954,13 @@ RÉSEAU DE COMPIÈGNE |
 
 COMPIEGNE |
 
-0,081 |
+0,091 |
 
-0,106 |
+0,118 |
 
-70,1 % |
+68,5% |
 
-2023 |
+2024 |
 
 6002C |
 
@@ -8134,13 +8968,13 @@ LA CAVÉE ET LES HIRONVALLES |
 
 CREIL |
 
-0,119 |
+0,105 |
 
-0,144 |
+0,131 |
 
-51,5 % |
+56,7% |
 
-2023 |
+2024 |
 
 6003C |
 
@@ -8148,13 +8982,13 @@ QUARTIER DES OBIERS |
 
 NOGENT-SUR-OISE |
 
-0,092 |
+0,074 |
 
-0,116 |
+0,086 |
 
-58,4 % |
+73,3% |
 
-Moyenne |
+2024 |
 
 6004C |
 
@@ -8162,13 +8996,13 @@ LES MARTINETS |
 
 MONTATAIRE |
 
-0,134 |
+0,029 |
 
-0,178 |
+0,038 |
 
-28,1 % |
+88,0% |
 
-2023 |
+2024 |
 
 6005C |
 
@@ -8176,11 +9010,11 @@ RÉSEAU DU QUARTIER SAINT JEAN |
 
 BEAUVAIS |
 
-0,021 |
+0,017 |
 
-0,043 |
+0,040 |
 
-92,2 % |
+93,8% |
 
 Moyenne |
 
@@ -8190,11 +9024,11 @@ RÉSEAU DE BRETEUIL-SUR-NOYE |
 
 BRETEUIL |
 
-0,020 |
+0,023 |
 
-0,045 |
+0,049 |
 
-93,2 % |
+92,2% |
 
 Moyenne |
 
@@ -8204,13 +9038,13 @@ VSPU VILLERS SAINT PAUL UTILITÉS |
 
 VILLERS-SAINT-PAUL |
 
-0,038 |
+0,051 |
 
-0,046 |
+0,060 |
 
-90,5 % |
+87,4% |
 
-2023 |
+2024 |
 
 6008C |
 
@@ -8222,9 +9056,9 @@ GRANDVILLIERS |
 
 0,004 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 6101C |
 
@@ -8232,13 +9066,13 @@ PERSEIGNE |
 
 ALENCON |
 
-0,038 |
+0,042 |
 
-0,061 |
+0,065 |
 
-85,6 % |
+83,2% |
 
-2023 |
+Moyenne |
 
 6102C |
 
@@ -8246,27 +9080,27 @@ QUARTIER SAINT SAUVEUR |
 
 FLERS |
 
-0,055 |
+0,063 |
 
-0,079 |
+0,088 |
 
-79,8 % |
+75,5% |
 
 Moyenne |
 
 6103C |
 
-QUARTIER NORD-ROUTE DE LA FALAISE |
+QUARTIER NORD - ROUTE DE LA FALAISE |
 
 ARGENTAN |
 
-0,101 |
+0,099 |
 
-0,126 |
+0,125 |
 
-59,3 % |
+59,6% |
 
-Moyenne |
+2024 |
 
 6104C |
 
@@ -8274,13 +9108,13 @@ RÉSEAU DE LA FERTÉ MACE |
 
 LA FERTE-MACE |
 
-0,058 |
+0,032 |
 
-0,082 |
+0,056 |
 
-76,9 % |
+88,2% |
 
-Moyenne |
+2024 |
 
 6105C |
 
@@ -8288,13 +9122,13 @@ RECBIA |
 
 L'AIGLE |
 
-0,006 |
+0,019 |
 
-0,029 |
+0,042 |
 
-97,7 % |
+93,2% |
 
-2023 |
+2024 |
 
 6109C |
 
@@ -8302,27 +9136,27 @@ ALENCON ENERGIE BOIS |
 
 ALENCON |
 
-0,114 |
+0,083 |
 
-0,138 |
+0,108 |
 
-52,0 % |
+64,6% |
 
-Moyenne |
+2024 |
 
 6201C |
 
-ZUP DU QUARTIER RÉPUBLIQUE-AVION |
+ZUP DU QUARTIER RÉPUBLIQUE - AVION |
 
 AVION |
 
-0,195 |
+0,204 |
 
-0,244 |
+0,258 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 6202C |
 
@@ -8330,13 +9164,13 @@ RÉSEAU DE ARQUES |
 
 ARQUES |
 
-0,116 |
+0,066 |
 
-0,144 |
+0,094 |
 
-60,4 % |
+78,6% |
 
-Moyenne |
+2024 |
 
 6203C |
 
@@ -8344,13 +9178,13 @@ RÉSEAU DE CHALEUR DE LENS |
 
 LENS |
 
-0,010 |
+0,021 |
 
-0,037 |
+0,045 |
 
-95,0 % |
+91,6% |
 
-2023 |
+Moyenne |
 
 6204C |
 
@@ -8358,13 +9192,13 @@ RÉSEAU DE CHALEUR DE BÉTHUNE |
 
 BETHUNE |
 
-0,077 |
+0,075 |
 
-0,106 |
+0,107 |
 
-67,4 % |
+67,7% |
 
-2023 |
+2024 |
 
 6205C |
 
@@ -8372,13 +9206,13 @@ LE PORTEL-OUTREAU |
 
 OUTREAU |
 
-0,278 |
+0,172 |
 
-0,291 |
+0,194 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 6206C |
 
@@ -8386,13 +9220,13 @@ RÉSEAU DE CHALEUR DE LIÉVIN |
 
 LIEVIN |
 
-0,104 |
+0,086 |
 
-0,110 |
+0,099 |
 
-64,3 % |
+67,3% |
 
-2023 |
+2024 |
 
 6207C |
 
@@ -8400,13 +9234,13 @@ RÉSEAU DE CALAIS |
 
 CALAIS |
 
-0,113 |
+0,081 |
 
-0,136 |
+0,107 |
 
-61,7 % |
+71,5% |
 
-2023 |
+2024 |
 
 6209C |
 
@@ -8414,13 +9248,13 @@ RÉSEAU DE CHALEUR D'ACHICOURT |
 
 ACHICOURT |
 
-0,081 |
+0,088 |
 
-0,098 |
+0,105 |
 
-65,8 % |
+62,7% |
 
-2023 |
+Moyenne |
 
 6210C |
 
@@ -8428,13 +9262,13 @@ RÉSEAU DE CHALEUR D'ARRAS |
 
 ARRAS |
 
-0,125 |
+0,093 |
 
-0,152 |
+0,118 |
 
-49,5 % |
+62,1% |
 
-2023 |
+2024 |
 
 6211C |
 
@@ -8444,11 +9278,11 @@ BOULOGNE-SUR-MER |
 
 0,145 |
 
-0,166 |
+0,169 |
 
-36,3 % |
+41,2% |
 
-2023 |
+2024 |
 
 6212C |
 
@@ -8456,13 +9290,13 @@ RÉSEAU DE CHALEUR LE PORTEL-OUTREAU |
 
 OUTREAU |
 
-0,127 |
+0,176 |
 
-0,157 |
+0,208 |
 
-55,3 % |
+40,5% |
 
-2023 |
+2024 |
 
 6213C |
 
@@ -8470,11 +9304,11 @@ CHAUFFERIE BOIS D'ANVIN |
 
 ANVIN |
 
-0,114 |
+0,228 |
 
-0,232 |
+0,264 |
 
-66,7 % |
+33,3% |
 
 Moyenne |
 
@@ -8484,13 +9318,13 @@ RÉSEAU CVE FLAMOVAL |
 
 WARDRECQUES |
 
-0,000 |
+0,114 |
 
-0,004 |
+0,131 |
 
-100,0 % |
+66,7% |
 
-2023 |
+2024 |
 
 6301C |
 
@@ -8498,13 +9332,13 @@ RÉSEAU DE RIOM RCBE |
 
 RIOM |
 
-0,021 |
+0,022 |
 
-0,045 |
+0,046 |
 
-92,6 % |
+92,1% |
 
-2023 |
+Moyenne |
 
 6303C |
 
@@ -8512,13 +9346,13 @@ HLM SAINT JACQUES |
 
 CLERMONT-FERRAND |
 
-0,229 |
+0,266 |
 
-0,243 |
+0,248 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 6305C |
 
@@ -8526,13 +9360,13 @@ RÉSEAU DE ROCHEFORT-MONTAGNE |
 
 ROCHEFORT-MONTAGNE |
 
-0,013 |
+0,015 |
 
-0,044 |
+0,048 |
 
-97,2 % |
+97,0% |
 
-Moyenne |
+2024 |
 
 6306C |
 
@@ -8540,13 +9374,13 @@ LA GAUTHIÈRE |
 
 CLERMONT-FERRAND |
 
-0,090 |
+0,070 |
 
-0,118 |
+0,098 |
 
-66,0 % |
+70,7% |
 
-2023 |
+2024 |
 
 6307C |
 
@@ -8554,27 +9388,27 @@ RÉSEAU DE ROYAT |
 
 ROYAT |
 
-0,234 |
+0,240 |
 
-0,263 |
+0,269 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 6308C |
 
-CROIX-DE-NEYRAT/ CHAMPRATEL/ LES VERGNES |
+CROIX-DE-NEYRAT / CHAMPRATEL / LES VERGNES |
 
 CLERMONT-FERRAND |
 
-0,036 |
+0,041 |
 
-0,059 |
+0,063 |
 
-85,3 % |
+83,8% |
 
-Moyenne |
+2024 |
 
 6309C |
 
@@ -8582,13 +9416,13 @@ RÉSEAU DE CHALEUR BOIS DE PONTAUMUR |
 
 PONTAUMUR |
 
-0,077 |
+0,033 |
 
-0,113 |
+0,064 |
 
-79,4 % |
+92,5% |
 
-Moyenne |
+2024 |
 
 6310C |
 
@@ -8596,13 +9430,13 @@ CORAL |
 
 AMBERT |
 
-0,000 |
+0,114 |
 
-0,025 |
+0,144 |
 
-100,0 % |
+66,7% |
 
-2023 |
+Moyenne |
 
 6311C |
 
@@ -8610,11 +9444,11 @@ RÉSEAU DE CHALEUR DE ST-GERMAIN-L'HERM |
 
 SAINT-GERMAIN-L'HERM |
 
-0,014 |
+0,029 |
 
-0,045 |
+0,059 |
 
-97,2 % |
+93,0% |
 
 Moyenne |
 
@@ -8626,11 +9460,11 @@ ARDES |
 
 0,000 |
 
-0,028 |
+0,030 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 6313C |
 
@@ -8638,13 +9472,13 @@ RÉSEAU DE ST CLÉMENT DE RÉGNAT |
 
 SAINT-CLEMENT-DE-REGNAT |
 
-0,000 |
+0,159 |
 
-0,022 |
+0,193 |
 
-100,0 % |
+66,7% |
 
-2023 |
+Moyenne |
 
 6314C |
 
@@ -8652,13 +9486,13 @@ RÉSEAU DE CHALEUR DU BRUGERON |
 
 LE BRUGERON |
 
-0,000 |
+0,114 |
 
-0,026 |
+0,146 |
 
-100,0 % |
+66,7% |
 
-2023 |
+2024 |
 
 6315C |
 
@@ -8670,9 +9504,37 @@ ANZAT-LE-LUGUET |
 
 0,027 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
+
+6316C |
+
+RÉSEAU DE CHALEUR DU LUGUET |
+
+ANZAT-LE-LUGUET |
+
+0,000 |
+
+0,025 |
+
+100,0% |
+
+2024 |
+
+6317C |
+
+RÉSEAU DE CHALEUR SAINT-JACQUES |
+
+CLERMONT-FERRAND |
+
+0,056 |
+
+0,066 |
+
+79,9% |
+
+2024 |
 
 6318C |
 
@@ -8682,25 +9544,25 @@ ARLANC |
 
 0,000 |
 
-0,030 |
+0,026 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 6319C |
 
-RÉSEAU D'ISSOIRE-ENERG'ISS |
+RÉSEAU D'ISSOIRE - ENERG'ISS |
 
 ISSOIRE |
 
-0,050 |
+0,036 |
 
-0,065 |
+0,053 |
 
-79,8 % |
+86,1% |
 
-2023 |
+2024 |
 
 6401C |
 
@@ -8708,13 +9570,13 @@ RÉSEAU DE CHALEUR DU HAMEAU |
 
 PAU |
 
-0,017 |
+0,026 |
 
-0,041 |
+0,049 |
 
-93,3 % |
+89,6% |
 
-2023 |
+Moyenne |
 
 6402C |
 
@@ -8722,27 +9584,41 @@ EGURRETIK |
 
 BAYONNE |
 
-0,043 |
+0,045 |
 
-0,068 |
+0,069 |
 
-84,2 % |
+83,1% |
 
-2023 |
+Moyenne |
 
 6403C |
 
-PAU-BÉARN-PYRÉNÉES-ENERGIES-SERVICES |
+RCU DE PAU |
 
 PAU |
 
-0,056 |
+0,051 |
 
-0,070 |
+0,063 |
 
-78,8 % |
+80,8% |
 
-Moyenne |
+2024 |
+
+6404C |
+
+RÉSEAU CHEM'PÔLE 64 |
+
+MOURENX |
+
+0,000 |
+
+0,004 |
+
+100,0% |
+
+2024 |
 
 6501C |
 
@@ -8750,13 +9626,13 @@ RÉSEAU DE VIC-EN-BIGORRE |
 
 VIC-EN-BIGORRE |
 
-0,017 |
+0,032 |
 
-0,045 |
+0,059 |
 
-94,3 % |
+89,1% |
 
-2023 |
+2024 |
 
 6601C |
 
@@ -8764,27 +9640,27 @@ RÉSEAU COMMUNAL DE BOLQUERE |
 
 BOLQUERE |
 
-0,114 |
+0,228 |
 
-0,143 |
+0,264 |
 
-66,7 % |
+33,3% |
 
 Moyenne |
 
 6604C |
 
-RESEAU DE PERPIGNAN |
+RÉSEAU DE CHALEUR DE PERPIGNAN |
 
 PERPIGNAN |
 
-0,006 |
+0,118 |
 
-0,010 |
+0,135 |
 
-97,7 % |
+65,3% |
 
-2023 |
+Moyenne |
 
 6702C |
 
@@ -8792,13 +9668,13 @@ HAUTEPIERRE |
 
 STRASBOURG |
 
-0,232 |
+0,238 |
 
-0,263 |
+0,268 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 6703C |
 
@@ -8806,13 +9682,13 @@ STRASBOURG CENTRE ENERGIES |
 
 STRASBOURG |
 
-0,083 |
+0,076 |
 
-0,105 |
+0,096 |
 
-68,8 % |
+72,0% |
 
-Moyenne |
+2024 |
 
 6704C |
 
@@ -8820,13 +9696,13 @@ ECO-QUARTIER BRASSERIE CRONENBOURG |
 
 STRASBOURG |
 
-0,058 |
+0,060 |
 
-0,030 |
+0,031 |
 
-69,9 % |
+69,1% |
 
-2023 |
+Moyenne |
 
 6705C |
 
@@ -8834,13 +9710,13 @@ RÉSEAU DE HOCHFELDEN |
 
 STRASBOURG |
 
-0,214 |
+0,159 |
 
-0,204 |
+0,166 |
 
-38,0 % |
+14,9% |
 
-2023 |
+Moyenne |
 
 6708C |
 
@@ -8848,11 +9724,11 @@ CITÉ DE L'ILL |
 
 STRASBOURG |
 
-0,062 |
+0,057 |
 
-0,083 |
+0,079 |
 
-70,9 % |
+75,1% |
 
 Moyenne |
 
@@ -8862,27 +9738,27 @@ LE RIED |
 
 SCHILTIGHEIM |
 
-0,223 |
+0,228 |
 
-0,285 |
+0,292 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 6710C |
 
-RÉSEAU DE HAGUENAU |
+HAGUENAU |
 
 HAGUENAU |
 
-0,054 |
+0,036 |
 
-0,076 |
+0,057 |
 
-78,0 % |
+82,7% |
 
-2023 |
+2024 |
 
 6711C |
 
@@ -8890,11 +9766,11 @@ RÉSEAU DE LA COMMUNAUTÉ DE COMMUNES SAUER-PECHELBR |
 
 MORSBRONN-LES-BAINS |
 
-0,069 |
+0,104 |
 
-0,097 |
+0,133 |
 
-75,4 % |
+61,9% |
 
 Moyenne |
 
@@ -8906,25 +9782,25 @@ SAALES |
 
 0,000 |
 
-0,026 |
+0,020 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 6713C |
 
-RÉSEAU DES TANNERIES-BOHRIE-WIHREL |
+RÉSEAU DES TANNERIES - BOHRIE - WIHREL |
 
 LINGOLSHEIM |
 
-0,078 |
+0,109 |
 
-0,100 |
+0,134 |
 
-66,9 % |
+57,7% |
 
-2023 |
+Moyenne |
 
 6714C |
 
@@ -8936,9 +9812,9 @@ HAGUENAU |
 
 0,004 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 6715C |
 
@@ -8946,13 +9822,13 @@ NIEDERBRONN |
 
 NIEDERBRONN-LES-BAINS |
 
-0,069 |
+0,031 |
 
-0,094 |
+0,057 |
 
-71,4 % |
+84,8% |
 
-Moyenne |
+2024 |
 
 6716C |
 
@@ -8960,13 +9836,13 @@ RÉSEAU DE CHALEUR D'ALLENWILLER |
 
 ALLENWILLER |
 
-0,114 |
+0,000 |
 
-0,148 |
+0,029 |
 
-66,7 % |
+100,0% |
 
-Moyenne |
+2024 |
 
 6717C |
 
@@ -8976,11 +9852,11 @@ LA PETITE-PIERRE |
 
 0,000 |
 
-0,022 |
+0,021 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 6721C |
 
@@ -8988,13 +9864,13 @@ RÉSEAU DE VILLÉ-BASSEMBERG |
 
 VILLE |
 
-0,129 |
+0,022 |
 
-0,158 |
+0,044 |
 
-60,3 % |
+90,5% |
 
-Moyenne |
+2024 |
 
 6722C |
 
@@ -9002,13 +9878,13 @@ COLMAR VOSGES |
 
 STRASBOURG |
 
-0,166 |
+0,109 |
 
-0,196 |
+0,145 |
 
-44,2 % |
+73,1% |
 
-Moyenne |
+2024 |
 
 6723C |
 
@@ -9020,9 +9896,9 @@ RITTERSHOFFEN |
 
 0,015 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 6724C |
 
@@ -9030,11 +9906,11 @@ SÉLESTAT |
 
 SELESTAT |
 
-0,038 |
+0,048 |
 
-0,059 |
+0,070 |
 
-85,1 % |
+80,8% |
 
 Moyenne |
 
@@ -9044,13 +9920,13 @@ RÉSEAU DE CHALEUR ECO2WACKEN |
 
 STRASBOURG |
 
-0,023 |
+0,040 |
 
-0,037 |
+0,057 |
 
-89,9 % |
+84,1% |
 
-2023 |
+Moyenne |
 
 6726C |
 
@@ -9058,13 +9934,13 @@ RÉSEAU DE CHALEUR QUARTIER DU LAC |
 
 LINGOLSHEIM |
 
-0,248 |
+0,247 |
 
 0,278 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 6727C |
 
@@ -9072,13 +9948,13 @@ RÉSEAU DE CHALEUR QUARTIER DES HIRONDELLES |
 
 ESCHAU |
 
-0,195 |
+0,234 |
 
-0,208 |
+0,245 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 6728C |
 
@@ -9086,11 +9962,11 @@ RÉSEAU DE CHALEUR QUARTIER SOLAIRE SCHILTIGHEIM |
 
 SCHILTIGHEIM |
 
-0,098 |
+0,141 |
 
-0,077 |
+0,133 |
 
-56,8 % |
+39,6% |
 
 Moyenne |
 
@@ -9100,11 +9976,11 @@ ILOT ZD5 DE LA ZAC ETOILE |
 
 STRASBOURG |
 
-0,094 |
+0,100 |
 
-0,080 |
+0,085 |
 
-53,7 % |
+51,3% |
 
 Moyenne |
 
@@ -9114,11 +9990,11 @@ QUARTIER DES ECRIVAINS |
 
 SCHILTIGHEIM |
 
-0,139 |
+0,156 |
 
-0,145 |
+0,167 |
 
-36,1 % |
+24,9% |
 
 Moyenne |
 
@@ -9128,27 +10004,27 @@ RÉSEAU DE CHALEUR COGÉNÉRATION SARRE-UNION |
 
 SARRE UNION |
 
-0,157 |
+0,184 |
 
-0,215 |
+0,225 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 6733C |
 
-RÉSEAU DE CHALEUR SPL-QPR-RCUA |
+RÉSEAU DE CHALEUR SPL - QPR - RCUA |
 
 STRASBOURG |
 
-0,033 |
+0,010 |
 
-0,035 |
+0,018 |
 
-87,8 % |
+95,5% |
 
-2023 |
+2024 |
 
 6735C |
 
@@ -9160,27 +10036,27 @@ STRASBOURG |
 
 0,018 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 6736C |
 
-SCHWEIGHOUSE-CENPA |
+SCHWEIGHOUSE - CENPA |
 
-SCHWEIGHOUSE-SUR-MODER |
+SCHWEIGHOUSE - SUR - MODER |
 
 0,000 |
 
 0,004 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 6737C |
 
-SCHWEIGHOUSE-SCHAEFFLER |
+SCHWEIGHOUSE - SCHAEFFLER |
 
 SCHWEIGHOUSE-SUR-MODER |
 
@@ -9188,9 +10064,9 @@ SCHWEIGHOUSE-SUR-MODER |
 
 0,004 |
 
-100,0 % |
+100,0% |
 
-2023 |
+Moyenne |
 
 6738C |
 
@@ -9198,13 +10074,13 @@ RÉSEAU DE CHALEUR DU PORT AUTONOME DE STRASBOURG |
 
 STRASBOURG |
 
-0,014 |
+0,006 |
 
-0,021 |
+0,009 |
 
-93,4 % |
+96,9% |
 
-Moyenne |
+2024 |
 
 6739C |
 
@@ -9212,13 +10088,13 @@ RÉSEAU DE CHALEUR LES PRAIRIES DU CANAL |
 
 ILLKIRCH |
 
-0,238 |
+0,231 |
 
-0,267 |
+0,259 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 6741C |
 
@@ -9226,13 +10102,27 @@ RÉSEAU DE CHALEUR ZAC DES VERGERS |
 
 REISCHTETT |
 
-0,231 |
+0,198 |
 
-0,260 |
+0,230 |
 
-0,0 % |
+36,0% |
 
-2023 |
+2024 |
+
+6742C |
+
+BISCHWILLER |
+
+BISCHWILLER |
+
+0,011 |
+
+0,034 |
+
+96,0% |
+
+2024 |
 
 6801C |
 
@@ -9240,13 +10130,13 @@ RÉSEAU DE COLMAR |
 
 COLMAR |
 
-0,032 |
+0,035 |
 
-0,042 |
+0,045 |
 
-88,3 % |
+87,4% |
 
-2023 |
+2024 |
 
 6802C |
 
@@ -9254,13 +10144,13 @@ L'ILLBERG |
 
 BRUNSTATT-DIDENHEIM |
 
-0,083 |
+0,084 |
 
-0,110 |
+0,112 |
 
-57,8 % |
+57,8% |
 
-2023 |
+2024 |
 
 6803C |
 
@@ -9268,13 +10158,13 @@ PORTE DE BÂLE |
 
 MULHOUSE |
 
-0,212 |
+0,207 |
 
-0,239 |
+0,234 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 6804C |
 
@@ -9284,11 +10174,11 @@ SAINT-LOUIS |
 
 0,000 |
 
-0,048 |
+0,057 |
 
-94,0 % |
+90,1% |
 
-2023 |
+Moyenne |
 
 6806C |
 
@@ -9296,13 +10186,13 @@ RÉSEAU DE CERNAY |
 
 CERNAY |
 
-0,088 |
+0,064 |
 
-0,116 |
+0,091 |
 
-69,4 % |
+81,3% |
 
-Moyenne |
+2024 |
 
 6809C |
 
@@ -9312,11 +10202,11 @@ HEIMERSDORF |
 
 0,000 |
 
-0,024 |
+0,025 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 6810C |
 
@@ -9324,13 +10214,13 @@ RÉSEAU DE CHALEUR BIOMASSE DE L'AÉRODROME |
 
 RIXHEIM |
 
-0,027 |
+0,047 |
 
-0,051 |
+0,073 |
 
-90,8 % |
+83,8% |
 
-2023 |
+Moyenne |
 
 6812C |
 
@@ -9342,9 +10232,9 @@ BERNWILLER |
 
 0,004 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 6813C |
 
@@ -9352,11 +10242,11 @@ RÉSEAU DE CHALEUR DE FELDBACH |
 
 FELDBACH |
 
-0,140 |
+0,213 |
 
-0,180 |
+0,259 |
 
-53,3 % |
+32,8% |
 
 Moyenne |
 
@@ -9366,13 +10256,13 @@ RÉSEAU DE CHALEUR DE KAYSERSBERG |
 
 KAYSERSBERG VIGNOBLE |
 
-0,067 |
+0,074 |
 
-0,093 |
+0,101 |
 
-77,1 % |
+75,1% |
 
-2023 |
+2024 |
 
 6815C |
 
@@ -9384,9 +10274,9 @@ AMMERZWILLER |
 
 0,004 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 6816C |
 
@@ -9394,13 +10284,13 @@ RÉSEAU DE CHALEUR DE THANN |
 
 THANN |
 
-0,014 |
+0,020 |
 
-0,035 |
+0,040 |
 
-94,6 % |
+92,0% |
 
-Moyenne |
+2024 |
 
 6817C |
 
@@ -9412,9 +10302,9 @@ FRIESEN |
 
 0,022 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 6818C |
 
@@ -9426,9 +10316,9 @@ LAPOUTROIE |
 
 0,023 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 6819C |
 
@@ -9436,13 +10326,13 @@ RÉSEAU VAL D'ARGENT |
 
 SAINTE-MARIE-AUX-MINES |
 
-0,151 |
+0,114 |
 
-0,180 |
+0,148 |
 
-52,4 % |
+70,6% |
 
-Moyenne |
+2024 |
 
 6820C |
 
@@ -9454,9 +10344,9 @@ FRELAND |
 
 0,022 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 6821C |
 
@@ -9468,9 +10358,9 @@ ILLZACH |
 
 0,004 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 6822C |
 
@@ -9478,13 +10368,13 @@ RÉSEAU DE CHALEUR DE LA HARDT |
 
 RIXHEIM |
 
-0,026 |
+0,030 |
 
-0,032 |
+0,038 |
 
-90,5 % |
+89,1% |
 
-2023 |
+2024 |
 
 6901C |
 
@@ -9492,13 +10382,13 @@ VÉNISSIEUX ÉNERGIES |
 
 VENISSIEUX |
 
-0,107 |
+0,118 |
 
-0,134 |
+0,138 |
 
-55,4 % |
+52,6% |
 
-2023 |
+Moyenne |
 
 6904C |
 
@@ -9506,13 +10396,13 @@ QUARTIER LA DUCHÈRE ET LYON 9E |
 
 CHAMPAGNE-AU-MONT-D'OR |
 
-0,138 |
+0,073 |
 
-0,163 |
+0,097 |
 
-41,8 % |
+71,2% |
 
-Moyenne |
+2024 |
 
 6905C |
 
@@ -9520,13 +10410,27 @@ RÉSEAU DE LYON |
 
 LYON |
 
-0,095 |
+0,094 |
 
-0,111 |
+0,112 |
 
-62,4 % |
+62,6% |
 
-2023 |
+2024 |
+
+6905F |
+
+RÉSEAU DE LYON |
+
+LYON |
+
+0,008 |
+
+0,016 |
+
+- |
+
+2024 |
 
 6906C |
 
@@ -9534,13 +10438,13 @@ RÉSEAU DE VAULX EN VELIN |
 
 VAULX-EN-VELIN |
 
-0,073 |
+0,072 |
 
-0,100 |
+0,095 |
 
-69,4 % |
+70,7% |
 
-2023 |
+2024 |
 
 6912C |
 
@@ -9548,27 +10452,27 @@ RÉSEAU DE GIVORS |
 
 GIVORS |
 
-0,043 |
+0,061 |
 
-0,062 |
+0,082 |
 
-81,9 % |
+75,1% |
 
-2023 |
+Moyenne |
 
 6913C |
 
-UIOM VILLEFRANCHE |
+RÉSEAU SYTRAIVAL |
 
-VILLEFRANCHE-SUR-SAONE |
+VILLEFRANCHE SUR SAONE |
 
-0,016 |
+0,018 |
 
-0,024 |
+0,026 |
 
-95,0 % |
+93,6% |
 
-2023 |
+Moyenne |
 
 6914C |
 
@@ -9576,13 +10480,13 @@ PLATEAU DE MONTMEIN |
 
 OULLINS |
 
-0,244 |
+0,311 |
 
-0,247 |
+0,324 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 6915C |
 
@@ -9590,27 +10494,13 @@ ZH CHAMPVERT |
 
 LYON |
 
-0,209 |
+0,207 |
 
-0,235 |
+0,233 |
 
-0,0 % |
+0,0% |
 
-2023 |
-
-6918C |
-
-QUARTIER BELLEROCHE OUEST |
-
-GLEIZE |
-
-0,078 |
-
-0,095 |
-
-69,9 % |
-
-2023 |
+2024 |
 
 6921C |
 
@@ -9618,13 +10508,13 @@ QUARTIER DE LA ROUE |
 
 RILLIEUX-LA-PAPE |
 
-0,228 |
+0,342 |
 
-0,244 |
+0,385 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 6923C |
 
@@ -9632,13 +10522,13 @@ RÉSEAU DE CHALEUR DE LA TOUR-DE-SALVAGNY |
 
 LA TOUR-DE-SALVAGNY |
 
-0,201 |
+0,071 |
 
-0,233 |
+0,098 |
 
-30,5 % |
+75,7% |
 
-2023 |
+2024 |
 
 6924C |
 
@@ -9646,13 +10536,13 @@ LES COMBES |
 
 YZERON |
 
-0,051 |
+0,002 |
 
-0,079 |
+0,021 |
 
-85,6 % |
+99,3% |
 
-2023 |
+2024 |
 
 6925C |
 
@@ -9660,13 +10550,13 @@ LE BOURG |
 
 YZERON |
 
-0,042 |
+0,060 |
 
-0,070 |
+0,088 |
 
-87,9 % |
+80,2% |
 
-2023 |
+2024 |
 
 6928C |
 
@@ -9674,13 +10564,13 @@ RÉSEAU CHAUFFAGE CENTRE HOSPITALIER VILLEFRANCHE |
 
 GLEIZE |
 
-0,084 |
+0,053 |
 
-0,110 |
+0,076 |
 
-76,4 % |
+80,2% |
 
-Moyenne |
+2024 |
 
 6929C |
 
@@ -9692,9 +10582,9 @@ CHEVIGNY SAINT SAUVEUR |
 
 0,266 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 6930C |
 
@@ -9702,27 +10592,13 @@ PLATEAU NORD |
 
 METROPOLE DE LYON |
 
-0,021 |
+0,027 |
 
-0,030 |
+0,037 |
 
-92,2 % |
+89,8% |
 
-2023 |
-
-6931C |
-
-RÉSEAU SYTRAIVAL |
-
-VILLEFRANCHE SUR SAONE |
-
-0,015 |
-
-0,023 |
-
-94,8 % |
-
-2023 |
+Moyenne |
 
 6932C |
 
@@ -9730,13 +10606,13 @@ RÉSEAU CHALEUR BOIS DE THIZY-LES-BOURGS |
 
 THIZY-LES-BOURGS |
 
-0,026 |
+0,013 |
 
-0,049 |
+0,036 |
 
-90,9 % |
+95,3% |
 
-2023 |
+2024 |
 
 6933C |
 
@@ -9744,11 +10620,11 @@ RÉSEAU DE CHALEUR BOIS COURS-LA-VILLE |
 
 COURS LA VILLE |
 
-0,035 |
+0,040 |
 
-0,057 |
+0,062 |
 
-86,5 % |
+84,1% |
 
 Moyenne |
 
@@ -9758,11 +10634,11 @@ LONGES |
 
 LONGES |
 
-0,009 |
+0,010 |
 
-0,031 |
+0,033 |
 
-97,6 % |
+97,4% |
 
 Moyenne |
 
@@ -9774,11 +10650,11 @@ LARAJASSE |
 
 0,000 |
 
-0,020 |
+0,023 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 6936C |
 
@@ -9786,13 +10662,13 @@ MONSOLS |
 
 MONSOLS |
 
-0,039 |
+0,045 |
 
-0,068 |
+0,076 |
 
-89,0 % |
+88,0% |
 
-2023 |
+Moyenne |
 
 6937C |
 
@@ -9800,11 +10676,11 @@ RONNO |
 
 RONNO |
 
-0,013 |
-
 0,039 |
 
-96,5 % |
+0,068 |
+
+87,1% |
 
 Moyenne |
 
@@ -9814,13 +10690,13 @@ SAINT MARTIN EN HAUT |
 
 SAINT MARTIN EN HAUT |
 
-0,061 |
+0,051 |
 
-0,086 |
+0,075 |
 
-77,8 % |
+81,4% |
 
-Moyenne |
+2024 |
 
 6939C |
 
@@ -9828,13 +10704,13 @@ LONGESSAIGNE |
 
 LONGESSAIGNE |
 
-0,039 |
+0,026 |
 
-0,067 |
+0,062 |
 
-89,4 % |
+95,6% |
 
-2023 |
+2024 |
 
 6940C |
 
@@ -9844,11 +10720,11 @@ CHÉNAS |
 
 0,000 |
 
-0,018 |
+0,023 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 6941C |
 
@@ -9856,13 +10732,13 @@ RONTALON |
 
 RONTALON |
 
-0,030 |
+0,000 |
 
-0,056 |
+0,021 |
 
-91,3 % |
+100,0% |
 
-2023 |
+2024 |
 
 6942C |
 
@@ -9870,13 +10746,27 @@ COLOMBIER SAUGNIEU |
 
 COLOMBIER SAUGNIEU |
 
-0,112 |
+0,057 |
 
-0,148 |
+0,086 |
 
-62,9 % |
+82,0% |
 
-2023 |
+2024 |
+
+6943C |
+
+RÉSEAU DE MONTROTTIER |
+
+MONTROTTIER |
+
+0,038 |
+
+0,075 |
+
+92,2% |
+
+2024 |
 
 7001C |
 
@@ -9884,11 +10774,11 @@ ZUP DES CAPUCINS |
 
 GRAY |
 
-0,099 |
+0,109 |
 
-0,126 |
+0,137 |
 
-66,1 % |
+59,8% |
 
 Moyenne |
 
@@ -9898,11 +10788,11 @@ RÉSEAU DE SAULNOT |
 
 SAULNOT |
 
-0,044 |
+0,087 |
 
-0,074 |
+0,124 |
 
-88,2 % |
+78,5% |
 
 Moyenne |
 
@@ -9914,11 +10804,11 @@ BREUREY-LES-FAVERNEY |
 
 0,000 |
 
-0,021 |
+0,027 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 7004C |
 
@@ -9926,13 +10816,13 @@ RÉSEAU DE DAMPIERRE SUR LINOTTE |
 
 DAMPIERRE-SUR-LINOTTE |
 
-0,000 |
+0,188 |
 
-0,035 |
+0,237 |
 
-100,0 % |
+53,7% |
 
-2023 |
+Moyenne |
 
 7006C |
 
@@ -9942,25 +10832,25 @@ CHAMPEY |
 
 0,000 |
 
-0,029 |
+0,020 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 7007C |
 
-CHAUFFERIE DE SCEY/ SAONE |
+CHAUFFERIE DE SCEY/SAONE |
 
 SCEY-SUR-SAONE-ET-SAINT-ALBIN |
 
-0,066 |
+0,274 |
 
-0,103 |
+0,341 |
 
-85,4 % |
+37,1% |
 
-2023 |
+Moyenne |
 
 7008C |
 
@@ -9968,11 +10858,11 @@ CHAUFFERIE DE MARNAY |
 
 MARNAY |
 
-0,104 |
+0,103 |
 
 0,145 |
 
-78,8 % |
+76,8% |
 
 Moyenne |
 
@@ -9982,27 +10872,27 @@ CHAUFFERIE DE GY |
 
 GY |
 
-0,000 |
+0,013 |
 
-0,020 |
+0,036 |
 
-100,0 % |
+98,3% |
 
-2023 |
+Moyenne |
 
 7011C |
 
-RÉSEAU D'HERICOURT-QUARTIER MAUNOURY |
+RÉSEAU D'HERICOURT - QUARTIER MAUNOURY |
 
 HERICOURT |
 
-0,045 |
+0,048 |
 
-0,072 |
+0,078 |
 
-87,5 % |
+86,0% |
 
-2023 |
+Moyenne |
 
 7101C |
 
@@ -10010,13 +10900,13 @@ RÉSEAU DE CHALON |
 
 CHALON-SUR-SAONE |
 
-0,067 |
+0,069 |
 
-0,092 |
+0,094 |
 
-73,7 % |
+70,4% |
 
-2023 |
+2024 |
 
 7102C |
 
@@ -10024,13 +10914,13 @@ RÉSEAU DE MONTCEAU LES MINES |
 
 MONTCEAU-LES-MINES |
 
-0,085 |
+0,082 |
 
-0,124 |
+0,117 |
 
-60,6 % |
+61,6% |
 
-2023 |
+2024 |
 
 7104C |
 
@@ -10038,13 +10928,13 @@ RÉSEAU D'AUTUN |
 
 AUTUN |
 
-0,111 |
+0,112 |
 
-0,150 |
+0,152 |
 
-51,8 % |
+49,7% |
 
-Moyenne |
+2024 |
 
 7105C |
 
@@ -10052,11 +10942,11 @@ RÉSEAU DE CHALEUR DE TRAMAYES |
 
 TRAMAYES |
 
-0,018 |
+0,025 |
 
-0,043 |
+0,052 |
 
-95,3 % |
+93,8% |
 
 Moyenne |
 
@@ -10066,11 +10956,11 @@ MACON ENERGIES SERVICES |
 
 MÂCON |
 
-0,077 |
+0,079 |
 
-0,116 |
+0,119 |
 
-61,2 % |
+61,9% |
 
 Moyenne |
 
@@ -10080,13 +10970,13 @@ RÉSEAU DE MATOUR |
 
 MATOUR |
 
-0,054 |
+0,068 |
 
-0,086 |
+0,105 |
 
-86,5 % |
+85,4% |
 
-Moyenne |
+2024 |
 
 7109C |
 
@@ -10096,11 +10986,11 @@ SAINT GENGOUX DE SCISSE |
 
 0,000 |
 
-0,021 |
+0,024 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 7202C |
 
@@ -10108,27 +10998,27 @@ PERCÉE CENTRALE |
 
 LE MANS |
 
-0,218 |
+0,261 |
 
-0,250 |
+0,297 |
 
-12,3 % |
+4,1% |
 
-2023 |
+Moyenne |
 
 7203C |
 
-SYNER'GIE (ALLONNES-BDH) |
+SYNER'GIE (ALLONNES- BDH) |
 
 ALLONNES |
 
-0,029 |
+0,034 |
 
-0,036 |
+0,041 |
 
-89,3 % |
+87,7% |
 
-2023 |
+Moyenne |
 
 7204C |
 
@@ -10136,13 +11026,13 @@ BELLEVUE |
 
 COULAINES |
 
-0,251 |
+0,260 |
 
-0,290 |
+0,288 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 7205C |
 
@@ -10150,11 +11040,11 @@ RÉSEAU DE LA COMMUNE DE TUFFE |
 
 TUFFE |
 
-0,022 |
+0,047 |
 
-0,043 |
+0,070 |
 
-92,5 % |
+83,3% |
 
 Moyenne |
 
@@ -10164,13 +11054,13 @@ RCU DU GRAND LUCE |
 
 GRAND-LUCÉ |
 
-0,026 |
+0,017 |
 
-0,052 |
+0,042 |
 
-91,4 % |
+94,1% |
 
-Moyenne |
+2024 |
 
 7301C |
 
@@ -10178,13 +11068,13 @@ BISSY ET CROIX ROUGE |
 
 CHAMBERY |
 
-0,083 |
+0,088 |
 
-0,103 |
+0,107 |
 
-68,2 % |
+69,3% |
 
-Moyenne |
+2024 |
 
 7304C |
 
@@ -10192,13 +11082,13 @@ LA PLAGNE |
 
 MACOT-LA-PLAGNE |
 
-0,067 |
+0,058 |
 
-0,098 |
+0,087 |
 
-80,5 % |
+82,7% |
 
-2023 |
+2024 |
 
 7305C |
 
@@ -10206,13 +11096,13 @@ LES ARCS |
 
 BOURG-SAINT-MAURICE |
 
-0,031 |
+0,026 |
 
-0,057 |
+0,051 |
 
-91,5 % |
+92,9% |
 
-2023 |
+2024 |
 
 7306C |
 
@@ -10220,11 +11110,11 @@ RÉSEAU DE NOTRE DAME DES MILLIÈRES |
 
 NOTRE-DAME-DES-MILLIERES |
 
-0,118 |
+0,230 |
 
-0,149 |
+0,267 |
 
-65,5 % |
+32,8% |
 
 Moyenne |
 
@@ -10234,13 +11124,13 @@ RÉSEAU DE SAINT ETIENNE DE CUINES |
 
 SAINT-ETIENNE-DE-CUINES |
 
-0,046 |
+0,058 |
 
-0,073 |
+0,087 |
 
-82,2 % |
+79,6% |
 
-2023 |
+2024 |
 
 7308C |
 
@@ -10248,11 +11138,11 @@ RÉSEAU DE BEAUFORT |
 
 BEAUFORT |
 
-0,022 |
+0,027 |
 
-0,047 |
+0,053 |
 
-93,9 % |
+92,6% |
 
 Moyenne |
 
@@ -10264,11 +11154,11 @@ CHANAZ |
 
 0,000 |
 
-0,022 |
+0,042 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 7311C |
 
@@ -10276,13 +11166,13 @@ GILLY-SUR-ISÈRE |
 
 GILLY-SUR-ISERE |
 
-0,093 |
+0,103 |
 
-0,124 |
+0,134 |
 
-73,6 % |
+68,5% |
 
-2023 |
+Moyenne |
 
 7312C |
 
@@ -10290,13 +11180,13 @@ YENNE |
 
 YENNE |
 
-0,000 |
+0,168 |
 
-0,024 |
+0,206 |
 
-100,0 % |
+66,7% |
 
-2023 |
+Moyenne |
 
 7313C |
 
@@ -10304,13 +11194,13 @@ ILOTS |
 
 CHANAZ |
 
-0,000 |
+0,114 |
 
-0,022 |
+0,143 |
 
-100,0 % |
+66,7% |
 
-2023 |
+Moyenne |
 
 7314C |
 
@@ -10320,11 +11210,11 @@ LA BAUCHE |
 
 0,000 |
 
-0,030 |
+0,041 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 7315C |
 
@@ -10332,13 +11222,13 @@ AIX ENERGIES NOUVELLES |
 
 AIX-LES-BAINS |
 
-0,087 |
+0,053 |
 
-0,112 |
+0,077 |
 
-65,8 % |
+82,5% |
 
-Moyenne |
+2024 |
 
 7316C |
 
@@ -10346,13 +11236,13 @@ RÉSEAU DE ST JEAN D'ARVEY |
 
 SAINT-JEAN-D'ARVEY |
 
-0,022 |
+0,151 |
 
-0,057 |
+0,192 |
 
-94,6 % |
+59,3% |
 
-2023 |
+Moyenne |
 
 7318C |
 
@@ -10360,13 +11250,13 @@ RÉSEAU D'UGINE |
 
 UGINE |
 
-0,066 |
+0,069 |
 
-0,089 |
+0,093 |
 
-76,5 % |
+76,1% |
 
-2023 |
+Moyenne |
 
 7319C |
 
@@ -10374,13 +11264,13 @@ RÉSEAU D'ALBERTVILLE |
 
 ALBERTVILLE |
 
-0,005 |
+0,012 |
 
-0,029 |
+0,036 |
 
-98,4 % |
+95,6% |
 
-2023 |
+Moyenne |
 
 7320C |
 
@@ -10388,13 +11278,13 @@ RÉSEAU DE CHALEUR DE BARBY |
 
 BARBY |
 
-0,040 |
+0,014 |
 
-0,063 |
+0,035 |
 
-84,5 % |
+94,3% |
 
-2023 |
+2024 |
 
 7321C |
 
@@ -10402,13 +11292,13 @@ CROUZE |
 
 TIGNES |
 
-0,058 |
+0,027 |
 
-0,089 |
+0,052 |
 
-83,4 % |
+92,3% |
 
-2023 |
+2024 |
 
 7402C |
 
@@ -10416,13 +11306,13 @@ QUARTIER DE CHAMP FLEURY |
 
 SEYNOD |
 
-0,056 |
+0,025 |
 
-0,066 |
+0,031 |
 
-77,6 % |
+90,4% |
 
-2023 |
+2024 |
 
 7403C |
 
@@ -10430,13 +11320,13 @@ BOIS ENERGIES ANNEMASSE |
 
 ANNEMASSE |
 
-0,024 |
+0,035 |
 
-0,047 |
+0,058 |
 
-90,1 % |
+86,3% |
 
-2023 |
+Moyenne |
 
 7407C |
 
@@ -10444,13 +11334,13 @@ QUARTIER DE LA RÉNOVATION |
 
 THONON-LES-BAINS |
 
-0,233 |
+0,231 |
 
-0,262 |
+0,260 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 7408C |
 
@@ -10458,13 +11348,13 @@ QUARTIER LES EWUES |
 
 CLUSES |
 
-0,037 |
+0,035 |
 
-0,045 |
+0,043 |
 
-87,5 % |
+88,0% |
 
-2023 |
+2024 |
 
 7409C |
 
@@ -10472,13 +11362,13 @@ ECHM FLAINE |
 
 ARACHES-LA-FRASSE |
 
-0,251 |
+0,238 |
 
-0,295 |
+0,275 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 7410C |
 
@@ -10486,13 +11376,13 @@ QUARTIER LA CUDRAY |
 
 FAVERGES |
 
-0,011 |
+0,023 |
 
-0,034 |
+0,049 |
 
-95,6 % |
+91,4% |
 
-2023 |
+Moyenne |
 
 7411C |
 
@@ -10500,13 +11390,13 @@ QUARTIER DU CROZETS |
 
 SCIONZIER |
 
-0,198 |
+0,041 |
 
-0,193 |
+0,054 |
 
-26,3 % |
+87,5% |
 
-2023 |
+2024 |
 
 7412C |
 
@@ -10514,13 +11404,13 @@ RÉSEAU D'AVORIAZ |
 
 MORZINE |
 
-0,081 |
+0,097 |
 
-0,061 |
+0,068 |
 
-67,2 % |
+59,7% |
 
-2023 |
+Moyenne |
 
 7413C |
 
@@ -10528,11 +11418,11 @@ RÉSEAU DE CLARAFOND LA PRESLE |
 
 CLARAFOND-ARCINE |
 
-0,200 |
+0,295 |
 
-0,262 |
+0,364 |
 
-53,2 % |
+30,3% |
 
 Moyenne |
 
@@ -10542,13 +11432,13 @@ RÉSEAU DE VIRY |
 
 VIRY |
 
-0,005 |
+0,009 |
 
-0,031 |
+0,035 |
 
-99,2 % |
+98,1% |
 
-2023 |
+Moyenne |
 
 7417C |
 
@@ -10556,17 +11446,17 @@ RÉSEAU DE CHALEUR DE VALLORCINE |
 
 VALLORCINE |
 
-0,075 |
+0,025 |
 
-0,107 |
+0,049 |
 
-78,1 % |
+92,1% |
 
-Moyenne |
+2024 |
 
 7418C |
 
-RÉSEAU UVE DU STOC |
+Réseau UVE du STOC |
 
 THONON-LES-BAINS |
 
@@ -10574,9 +11464,9 @@ THONON-LES-BAINS |
 
 0,004 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 7419C |
 
@@ -10588,9 +11478,9 @@ THONON-LES-BAINS |
 
 0,004 |
 
-100,0 % |
+100,0% |
 
-2023 |
+Moyenne |
 
 7421C |
 
@@ -10598,11 +11488,11 @@ ANNECY BIO CHALEUR |
 
 ANNECY |
 
-0,049 |
+0,050 |
 
-0,072 |
+0,073 |
 
-78,5 % |
+77,8% |
 
 Moyenne |
 
@@ -10612,13 +11502,13 @@ THORENS GLIÈRES |
 
 THORENS-GLIERES |
 
-0,070 |
+0,067 |
 
-0,108 |
+0,106 |
 
-83,9 % |
+80,7% |
 
-2023 |
+2024 |
 
 7423C |
 
@@ -10626,27 +11516,27 @@ RÉSEAU DE REIGNIER |
 
 REIGNIER |
 
-0,030 |
+0,048 |
 
-0,052 |
+0,072 |
 
-88,6 % |
+82,2% |
 
 Moyenne |
 
 7424C |
 
-CRAN GEVRIER-LES PASSERELLES |
+CRAN GEVRIER - LES PASSERELLES |
 
 CRAN-GEVRIER |
 
-0,060 |
+0,117 |
 
-0,087 |
+0,146 |
 
-80,0 % |
+55,5% |
 
-2023 |
+Moyenne |
 
 7426C |
 
@@ -10654,13 +11544,13 @@ RÉSEAU BOIS ÉNERGIE ET CITOYEN DE LUCINGES |
 
 LUCINGES |
 
-0,012 |
+0,007 |
 
-0,038 |
+0,031 |
 
-96,8 % |
+98,0% |
 
-Moyenne |
+2024 |
 
 7427C |
 
@@ -10668,11 +11558,11 @@ RÉSEAU DE CHALEUR DU CENTRE BOURG DE CUSY |
 
 COMMUNE DE CUSY |
 
-0,127 |
+0,241 |
 
-0,162 |
+0,281 |
 
-64,1 % |
+30,8% |
 
 Moyenne |
 
@@ -10682,13 +11572,13 @@ RÉSEAU SAINT-JEOIRE EN FAUCIGNY |
 
 SAINT-JEOIRE EN FAUCIGNY |
 
-0,035 |
+0,059 |
 
-0,061 |
+0,089 |
 
-89,3 % |
+83,3% |
 
-2023 |
+Moyenne |
 
 7429C |
 
@@ -10696,13 +11586,27 @@ RÉSEAU DE CHALEUR D'AMBILLY VILLE-LA-GRAND |
 
 AMBILLY |
 
-0,105 |
+0,060 |
 
-0,133 |
+0,084 |
 
-60,5 % |
+74,8% |
 
-2023 |
+2024 |
+
+7433C |
+
+LES HAUTS D'EVIAN |
+
+EVIAN |
+
+0,060 |
+
+0,086 |
+
+76,8% |
+
+2024 |
 
 7434C |
 
@@ -10712,11 +11616,11 @@ HABERE POCHE |
 
 0,000 |
 
-0,022 |
+0,024 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 7475C |
 
@@ -10724,13 +11628,13 @@ RÉSEAU D'ANNEMASSE LE LIVRON |
 
 ANNEMASSE |
 
-0,219 |
+0,200 |
 
-0,259 |
+0,233 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 7476C |
 
@@ -10738,13 +11642,41 @@ RÉSEAU D'ANNEMASSE PERRIER |
 
 ANNEMASSE |
 
-0,222 |
+0,186 |
 
-0,268 |
+0,233 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
+
+7477C |
+
+ANNECY - ZAC DES TRÉSUMS |
+
+ANNECY |
+
+0,072 |
+
+0,039 |
+
+72,5% |
+
+2024 |
+
+7477F |
+
+ANNECY - ZAC DES TRÉSUMS |
+
+ANNECY |
+
+0,053 |
+
+0,088 |
+
+- |
+
+2024 |
 
 7501C |
 
@@ -10752,13 +11684,27 @@ PARIS ET COMMUNES LIMITROPHES |
 
 PARIS |
 
-0,157 |
+0,149 |
 
-0,182 |
+0,171 |
 
-48,8 % |
+50,3% |
 
-Moyenne |
+2024 |
+
+7503F |
+
+FRAÎCHEUR DE PARIS |
+
+PARIS |
+
+0,007 |
+
+0,015 |
+
+- |
+
+2024 |
 
 7504C |
 
@@ -10766,13 +11712,13 @@ RUE LEGENDRE |
 
 PARIS |
 
-0,155 |
+0,150 |
 
-0,183 |
+0,176 |
 
-49,6 % |
+50,3% |
 
-Moyenne |
+2024 |
 
 7601C |
 
@@ -10780,13 +11726,13 @@ RÉSEAU PETITE BOUVERIE |
 
 ROUEN |
 
-0,093 |
+0,087 |
 
-0,127 |
+0,117 |
 
-55,4 % |
+60,0% |
 
-2023 |
+2024 |
 
 7602C |
 
@@ -10794,13 +11740,13 @@ ZAC DU MONT GAILLARD |
 
 LE HAVRE |
 
-0,114 |
+0,133 |
 
-0,148 |
+0,172 |
 
-45,2 % |
+40,9% |
 
-Moyenne |
+2024 |
 
 7603C |
 
@@ -10808,13 +11754,13 @@ RESOCÉANE |
 
 LE HAVRE |
 
-0,295 |
+0,212 |
 
-0,289 |
+0,234 |
 
-0,0 % |
+14,0% |
 
-2023 |
+2024 |
 
 7605C |
 
@@ -10822,13 +11768,13 @@ RÉSEAU DE MONT-SAINT-AIGNAN |
 
 MONT-SAINT-AIGNAN |
 
-0,053 |
+0,066 |
 
-0,073 |
+0,088 |
 
-79,3 % |
+74,8% |
 
-2023 |
+Moyenne |
 
 7606C |
 
@@ -10836,13 +11782,13 @@ CANTELEU ENERGIE |
 
 CANTELEU |
 
-0,059 |
+0,034 |
 
-0,083 |
+0,057 |
 
-75,7 % |
+86,8% |
 
-Moyenne |
+2024 |
 
 7607C |
 
@@ -10850,13 +11796,13 @@ ZAC NOBEL BOZEL |
 
 LE PETIT-QUEVILLY |
 
-0,066 |
+0,065 |
 
-0,090 |
+0,086 |
 
-68,9 % |
+70,3% |
 
-Moyenne |
+2024 |
 
 7608C |
 
@@ -10864,13 +11810,13 @@ CHÂTEAU BLANC |
 
 SAINT ETIENNE DU ROUVRAY |
 
-0,008 |
+0,011 |
 
-0,030 |
+0,034 |
 
-97,3 % |
+95,6% |
 
-2023 |
+Moyenne |
 
 7609C |
 
@@ -10878,13 +11824,13 @@ SODINEUF |
 
 DIEPPE |
 
-0,219 |
+0,223 |
 
-0,247 |
+0,250 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 7610C |
 
@@ -10892,13 +11838,13 @@ SECGO |
 
 GONFREVILLE-L'ORCHER |
 
-0,015 |
+0,019 |
 
-0,039 |
+0,043 |
 
-95,3 % |
+94,2% |
 
-2023 |
+Moyenne |
 
 7612C |
 
@@ -10906,13 +11852,13 @@ RESEAU ROUEN MARTAINVILLE |
 
 ROUEN |
 
-0,098 |
+0,094 |
 
-0,138 |
+0,130 |
 
-55,4 % |
+60,0% |
 
-2023 |
+2024 |
 
 7613C |
 
@@ -10920,13 +11866,13 @@ LA CÔTE BRULÉE |
 
 LE HAVRE |
 
-0,230 |
+0,236 |
 
-0,259 |
+0,265 |
 
-0,0 % |
+13,5% |
 
-2023 |
+2024 |
 
 7614C |
 
@@ -10934,13 +11880,13 @@ CHAUFFERIE BOIS GRAMMONT |
 
 ROUEN |
 
-0,013 |
+0,015 |
 
-0,034 |
+0,036 |
 
-94,5 % |
+93,7% |
 
-2023 |
+Moyenne |
 
 7615C |
 
@@ -10948,13 +11894,13 @@ RÉSEAU DE MAROMME |
 
 MAROMME |
 
-0,021 |
+0,027 |
 
-0,044 |
+0,050 |
 
-93,2 % |
+90,5% |
 
-2023 |
+Moyenne |
 
 7616C |
 
@@ -10962,11 +11908,11 @@ SRGB |
 
 NOTRE-DAME-DE-GRAVENCHON |
 
-0,030 |
+0,034 |
 
-0,056 |
+0,062 |
 
-90,6 % |
+89,8% |
 
 Moyenne |
 
@@ -10976,11 +11922,11 @@ RCU DE NEUFCHATEL-EN-BRAY |
 
 NEUFCHATEL-EN-BRAY |
 
-0,073 |
+0,087 |
 
-0,100 |
+0,115 |
 
-75,3 % |
+71,1% |
 
 Moyenne |
 
@@ -10994,23 +11940,37 @@ SANDOUVILLE |
 
 0,004 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 7619C |
 
-BET ZAC LUCILINE CHAUD |
+ZAC LUCILINE CHAUD |
 
 ROUEN |
 
-0,100 |
+0,111 |
 
-0,093 |
+0,102 |
 
-57,4 % |
+51,6% |
 
-2023 |
+Moyenne |
+
+7619F |
+
+ZAC LUCILINE FROID |
+
+ROUEN |
+
+0,223 |
+
+0,360 |
+
+- |
+
+Moyenne CO₂ |
 
 7620C |
 
@@ -11022,9 +11982,9 @@ LE GRAND-QUEVILLY |
 
 0,004 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 7621C |
 
@@ -11036,9 +11996,23 @@ SAINT-JEAN-DE-FOLLEVILLE |
 
 0,004 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
+
+7623C |
+
+DISTRIBUTION DE CHALEUR DE LA DES GRANDES VENTES |
+
+LES GRANDES VENTES |
+
+0,116 |
+
+0,154 |
+
+67,7% |
+
+2024 |
 
 7701C |
 
@@ -11046,27 +12020,27 @@ RÉSEAUX DE MEAUX |
 
 MEAUX |
 
-0,084 |
+0,081 |
 
-0,103 |
+0,098 |
 
-67,8 % |
+68,5% |
 
-2023 |
+2024 |
 
 7703C |
 
-ALMONT-MONTAIGU |
+ALMONT - MONTAIGU |
 
 MELUN |
 
-0,048 |
+0,050 |
 
-0,062 |
+0,064 |
 
-79,1 % |
+78,1% |
 
-2023 |
+Moyenne |
 
 7704C |
 
@@ -11074,13 +12048,13 @@ RÉSEAU CDC HABITAT ANCIENNEMENT OSICA |
 
 OZOIR-LA-FERRIERE |
 
-0,214 |
+0,134 |
 
-0,244 |
+0,156 |
 
-15,4 % |
+29,7% |
 
-Moyenne |
+2024 |
 
 7705C |
 
@@ -11088,11 +12062,11 @@ ZUP DU MONT SAINT MARTIN |
 
 NEMOURS |
 
-0,094 |
+0,103 |
 
-0,120 |
+0,130 |
 
-65,4 % |
+62,1% |
 
 Moyenne |
 
@@ -11102,13 +12076,13 @@ RÉSEAU DE DAMMARIE LES LYS |
 
 DAMMARIE-LES-LYS |
 
-0,016 |
+0,011 |
 
-0,032 |
+0,027 |
 
-92,1 % |
+93,9% |
 
-2023 |
+2024 |
 
 7707C |
 
@@ -11116,13 +12090,13 @@ CENTRALE DE LA BUTTE MONCEAU |
 
 AVON |
 
-0,233 |
+0,228 |
 
-0,262 |
+0,256 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 7708C |
 
@@ -11130,13 +12104,13 @@ RÉSEAU DU MEE SUR SEINE |
 
 LE MEE-SUR-SEINE |
 
-0,075 |
+0,077 |
 
-0,098 |
+0,097 |
 
-75,6 % |
+70,1% |
 
-2023 |
+Moyenne |
 
 7710C |
 
@@ -11144,13 +12118,13 @@ RÉSEAU DE VAUX LE PENIL |
 
 VAUX-LE-PENIL |
 
-0,069 |
+0,083 |
 
-0,092 |
+0,110 |
 
-77,6 % |
+75,8% |
 
-2023 |
+Moyenne |
 
 7711C |
 
@@ -11158,27 +12132,27 @@ RÉSEAU DE COULOMMIERS |
 
 COULOMMIERS |
 
-0,012 |
+0,015 |
 
-0,028 |
+0,031 |
 
-95,4 % |
+94,0% |
 
-2023 |
+Moyenne |
 
 7715C |
 
-RÉSEAU DE MONTEREAU-ZUP DE SURVILLE |
+RÉSEAU DE MONTEREAU - ZUP DE SURVILLE |
 
 MONTEREAU-FAULT-YONNE |
 
-0,012 |
+0,010 |
 
-0,025 |
+0,022 |
 
-95,3 % |
+96,2% |
 
-2023 |
+2024 |
 
 7716C |
 
@@ -11186,13 +12160,13 @@ RÉSEAU DE MARNE LA VALLÉE |
 
 TORCY |
 
-0,033 |
+0,039 |
 
-0,050 |
+0,056 |
 
-88,6 % |
+85,4% |
 
-2023 |
+Moyenne |
 
 7717C |
 
@@ -11202,9 +12176,9 @@ CHELLES |
 
 0,102 |
 
-0,128 |
+0,129 |
 
-55,4 % |
+55,3% |
 
 Moyenne |
 
@@ -11214,13 +12188,13 @@ LA RENARDIÈRE |
 
 ROISSY-EN-BRIE |
 
-0,093 |
+0,081 |
 
-0,117 |
+0,105 |
 
-63,2 % |
+69,5% |
 
-Moyenne |
+2024 |
 
 7721C |
 
@@ -11228,11 +12202,11 @@ RÉSEAU DE BAILLY ROMAINVILLIERS |
 
 BAILLY-ROMAINVILLIERS |
 
-0,051 |
+0,078 |
 
-0,060 |
+0,091 |
 
-84,8 % |
+78,4% |
 
 Moyenne |
 
@@ -11242,13 +12216,13 @@ RÉSEAU DE VILLAGE NATURE |
 
 VILLENEUVE-SAINT-DENIS |
 
-0,019 |
+0,000 |
 
-0,036 |
+0,016 |
 
-92,7 % |
+99,9% |
 
-Moyenne |
+2024 |
 
 7723C |
 
@@ -11256,13 +12230,13 @@ RÉSEAU DE VAL D'EUROPE |
 
 CHESSY |
 
-0,208 |
+0,168 |
 
-0,247 |
+0,194 |
 
-33,7 % |
+33,7% |
 
-Moyenne |
+2024 |
 
 7724C |
 
@@ -11270,27 +12244,13 @@ BUSSYCOMORE |
 
 BUSSY-SAINT-GEORGES |
 
-0,077 |
+0,070 |
 
-0,101 |
+0,091 |
 
-69,3 % |
+74,0% |
 
-2023 |
-
-7725C |
-
-RÉSEAU EURODISNEY |
-
-CHESSY |
-
-0,186 |
-
-0,212 |
-
-25,3 % |
-
-Moyenne |
+2024 |
 
 7726C |
 
@@ -11298,13 +12258,13 @@ RCU LIZY-SUR-OURCQ |
 
 LIZY-SUR-OURCQ |
 
-0,084 |
+0,050 |
 
-0,107 |
+0,072 |
 
-63,3 % |
+76,3% |
 
-2023 |
+2024 |
 
 7727C |
 
@@ -11312,13 +12272,27 @@ CHAMPS SUR MARNE |
 
 CHAMPS SUR MARNE |
 
-0,029 |
+0,035 |
 
-0,041 |
+0,046 |
 
-86,7 % |
+85,0% |
 
-2023 |
+Moyenne |
+
+7729C |
+
+COUPVRAY - ZAC TROIS ORMES |
+
+COUPVRAY |
+
+0,000 |
+
+0,019 |
+
+100,0% |
+
+2024 |
 
 7801C |
 
@@ -11326,13 +12300,13 @@ LES NOUVEAUX HORIZONS |
 
 ELANCOURT |
 
-0,215 |
+0,195 |
 
-0,242 |
+0,220 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 7802C |
 
@@ -11340,11 +12314,11 @@ LE VAL FOURRÉ |
 
 MANTES-LA-JOLIE |
 
-0,103 |
+0,104 |
 
-0,135 |
+0,137 |
 
-53,9 % |
+53,1% |
 
 Moyenne |
 
@@ -11354,13 +12328,13 @@ RÉSEAU DE VERSAILLES |
 
 VERSAILLES |
 
-0,248 |
+0,255 |
 
-0,295 |
+0,310 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 7804C |
 
@@ -11368,13 +12342,13 @@ PARLY II |
 
 LE CHESNAY |
 
-0,231 |
+0,235 |
 
-0,257 |
+0,259 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 7805C |
 
@@ -11382,27 +12356,27 @@ RÉSEAU DE SAINT GERMAIN EN LAYE |
 
 SAINT-GERMAIN-EN-LAYE |
 
-0,106 |
+0,092 |
 
-0,138 |
+0,122 |
 
-59,3 % |
+60,2% |
 
-2023 |
+Moyenne |
 
 7806C |
 
-DOMNIS ACHERES |
+DOMNIS ACHERES CHAMPS VILLARS |
 
 ACHERES |
 
-0,201 |
+0,092 |
 
-0,235 |
+0,113 |
 
-35,5 % |
+52,0% |
 
-Moyenne |
+2024 |
 
 7807C |
 
@@ -11410,13 +12384,13 @@ ZAC DE LA NOE |
 
 CHANTELOUP-LES-VIGNES |
 
-0,209 |
+0,427 |
 
-0,254 |
+0,419 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 7808C |
 
@@ -11424,13 +12398,13 @@ RÉSEAU DES MUREAUX |
 
 LES MUREAUX |
 
-0,106 |
+0,096 |
 
-0,134 |
+0,124 |
 
-59,6 % |
+64,6% |
 
-2023 |
+2024 |
 
 7809C |
 
@@ -11438,41 +12412,41 @@ RÉSEAU DE VÉLIZY |
 
 VELIZY-VILLACOUBLAY |
 
-0,113 |
+0,101 |
 
-0,125 |
+0,110 |
 
-46,3 % |
+52,4% |
 
-2023 |
+2024 |
 
 7811C |
 
-RÉSEAU DE CARRIÈRES-CHATOU |
+RÉSEAU DE CARRIÈRES - CHATOU |
 
 CARRIERES-SUR-SEINE |
 
-0,014 |
+0,013 |
 
 0,019 |
 
-94,2 % |
+94,6% |
 
 Moyenne |
 
 7812C |
 
-RÉSEAU DE PLAISIR-RESOP |
+RÉSEAU DE PLAISIR - RESOP |
 
 PLAISIR |
 
-0,049 |
+0,037 |
 
-0,059 |
+0,046 |
 
-79,9 % |
+85,5% |
 
-2023 |
+2024 |
 
 7813C |
 
@@ -11484,9 +12458,9 @@ LA BOISSIERE-ECOLE |
 
 0,022 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 7816C |
 
@@ -11494,27 +12468,13 @@ CARRIÈRE SOUS POISSY |
 
 CARRIERES-SOUS-POISSY |
 
-0,167 |
+0,187 |
 
-0,193 |
+0,214 |
 
-29,5 % |
+19,7% |
 
 Moyenne |
-
-7818C |
-
-FLOWERGY ASNIÈRES-RCU PARC D'AFFAIRES |
-
-VELIZY-VILLACOUBLAY |
-
-0,118 |
-
-0,104 |
-
-51,5 % |
-
-2023 |
 
 7820C |
 
@@ -11522,13 +12482,27 @@ VELIGEO |
 
 VELIZY VILLACOUBLAY |
 
-0,033 |
+0,029 |
 
-0,019 |
+0,017 |
 
-81,8 % |
+84,3% |
 
-2023 |
+2024 |
+
+7821C |
+
+DOMNIS ACHÈRES PLANTES D'HENNEMONT |
+
+ACHÈRES |
+
+0,117 |
+
+0,142 |
+
+52,6% |
+
+2024 |
 
 7901C |
 
@@ -11536,13 +12510,13 @@ LE CLOU BOUCHET |
 
 NIORT |
 
-0,302 |
+0,277 |
 
-0,341 |
+0,309 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 7903C |
 
@@ -11550,13 +12524,13 @@ RÉSEAU DE ROMANS |
 
 ROMANS |
 
-0,000 |
+0,114 |
 
-0,022 |
+0,142 |
 
-100,0 % |
+66,7% |
 
-2023 |
+Moyenne |
 
 7904C |
 
@@ -11566,11 +12540,11 @@ L'ABSIE |
 
 0,000 |
 
-0,025 |
+0,018 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 7905C |
 
@@ -11578,13 +12552,13 @@ QUARTIER LES BRIZEAUX |
 
 NIORT |
 
-0,043 |
+0,053 |
 
-0,082 |
+0,081 |
 
-92,7 % |
+83,8% |
 
-2023 |
+2024 |
 
 7906C |
 
@@ -11592,13 +12566,13 @@ RÉSEAU DE CHALEUR CC MELLOIS EN POITOU |
 
 LEZAY |
 
-0,000 |
+0,048 |
 
-0,039 |
+0,093 |
 
-100,0 % |
+93,1% |
 
-2023 |
+Moyenne |
 
 7907C |
 
@@ -11606,13 +12580,13 @@ LA NORMANDE |
 
 THOUARS |
 
+0,000 |
+
 0,017 |
 
-0,037 |
+100,0% |
 
-92,4 % |
-
-2023 |
+2024 |
 
 8001C |
 
@@ -11620,13 +12594,27 @@ ETOUVIE |
 
 AMIENS |
 
-0,065 |
+0,051 |
 
-0,092 |
+0,073 |
 
-73,0 % |
+74,6% |
 
-2023 |
+2024 |
+
+8001F |
+
+RÉSEAU DE LA VILLE D'AMIENS - FROID |
+
+AMIENS |
+
+0,052 |
+
+0,098 |
+
+- |
+
+Moyenne CO₂ |
 
 8002C |
 
@@ -11634,13 +12622,13 @@ RÉSEAU DE LA VILLE D'AMIENS |
 
 AMIENS |
 
-0,094 |
+0,101 |
 
-0,112 |
+0,124 |
 
-57,7 % |
+53,4% |
 
-2023 |
+Moyenne |
 
 8004C |
 
@@ -11648,27 +12636,27 @@ RODOLPHE BRAL |
 
 MONTDIDIER |
 
-0,000 |
+0,114 |
 
-0,022 |
+0,144 |
 
-100,0 % |
+66,7% |
 
-2023 |
+Moyenne |
 
 8005C |
 
-RÉSEAU D'ABBEVILLE |
+ABBEVILLE ENERGIE |
 
 ABBEVILLE |
 
-0,113 |
+0,100 |
 
-0,140 |
+0,128 |
 
-55,7 % |
+61,6% |
 
-Moyenne |
+2024 |
 
 8006C |
 
@@ -11676,11 +12664,11 @@ RÉSEAU DE CHALEUR DE CORBIE |
 
 CORBIE |
 
-0,008 |
+0,014 |
 
-0,030 |
+0,037 |
 
-96,9 % |
+94,2% |
 
 Moyenne |
 
@@ -11690,13 +12678,13 @@ EPSM |
 
 AMIENS |
 
-0,059 |
+0,058 |
 
-0,086 |
+0,088 |
 
-79,9 % |
+80,0% |
 
-2023 |
+2024 |
 
 8013C |
 
@@ -11704,13 +12692,13 @@ RÉSEAU DE CHALEUR DE ROYE |
 
 ROYE |
 
-0,097 |
+0,094 |
 
-0,123 |
+0,121 |
 
-65,9 % |
+65,3% |
 
-2023 |
+Moyenne |
 
 8101C |
 
@@ -11718,13 +12706,13 @@ RESEAU DE CARMAUX |
 
 CARMAUX |
 
-0,171 |
+0,184 |
 
-0,228 |
+0,252 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 8102C |
 
@@ -11732,13 +12720,13 @@ CHAUFFAGE URBAIN DE MAZAMET |
 
 MAZAMET |
 
-0,035 |
+0,045 |
 
-0,058 |
+0,069 |
 
-87,8 % |
+84,5% |
 
-2023 |
+2024 |
 
 8103C |
 
@@ -11746,27 +12734,27 @@ RÉSEAU DE CHAUFFAGE URBAIN CASTRES LAMEILHÉ |
 
 CASTRES |
 
-0,022 |
+0,011 |
 
-0,045 |
+0,035 |
 
-91,8 % |
+96,1% |
 
-Moyenne |
+2024 |
 
 8104C |
 
-GAILLAC-ZAC DE POUILLE |
+GAILLAC - ZAC DE POUILLE |
 
 GAILLAC |
 
-0,032 |
+0,057 |
 
-0,053 |
+0,080 |
 
-86,4 % |
+77,5% |
 
-2023 |
+Moyenne |
 
 8105C |
 
@@ -11774,13 +12762,13 @@ RESEAU DE CHALEUR DE GRAULHET |
 
 GRAULHET |
 
-0,013 |
+0,026 |
 
-0,033 |
+0,048 |
 
-94,4 % |
+89,7% |
 
-2023 |
+Moyenne |
 
 8106C |
 
@@ -11788,13 +12776,13 @@ RÉSEAU DE CHALEUR D'ALBAN |
 
 ALBAN |
 
-0,005 |
+0,014 |
 
-0,025 |
+0,038 |
 
-98,6 % |
+96,3% |
 
-2023 |
+2024 |
 
 8112C |
 
@@ -11802,11 +12790,11 @@ RÉSEAU DE CHALEUR DE LACAUNE |
 
 LACAUNE |
 
-0,006 |
+0,012 |
 
-0,027 |
+0,034 |
 
-98,4 % |
+96,4% |
 
 Moyenne |
 
@@ -11816,11 +12804,11 @@ RÉSEAU DE CHALEUR DE SAINT-PIERRE-DE-TRIVISY |
 
 SAINT-PIERRE-DE-TRIVISY |
 
-0,021 |
+0,022 |
 
-0,049 |
+0,051 |
 
-95,4 % |
+95,1% |
 
 Moyenne |
 
@@ -11830,11 +12818,11 @@ RESEAUX SUD OUEST ENERGIES SERVICES |
 
 MONTAUBAN |
 
-0,038 |
+0,054 |
 
-0,046 |
+0,064 |
 
-86,4 % |
+81,5% |
 
 Moyenne |
 
@@ -11846,11 +12834,11 @@ CAYLUS |
 
 0,000 |
 
-0,024 |
+0,020 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 8204C |
 
@@ -11862,9 +12850,37 @@ VILLEBRUMIER |
 
 0,023 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
+
+8205C |
+
+RÉSEAU DE CHALEUR DE NÈGREPELISSE |
+
+NEGREPELISSE |
+
+0,009 |
+
+0,034 |
+
+97,8% |
+
+2024 |
+
+8206C |
+
+RÉSEAU DE CHALEUR DE LAFRANCAISE |
+
+LAFRANCAISE |
+
+0,000 |
+
+0,019 |
+
+100,0% |
+
+2024 |
 
 8301C |
 
@@ -11876,9 +12892,9 @@ TOULON |
 
 0,004 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 8304C |
 
@@ -11886,11 +12902,11 @@ BERTHE |
 
 LA SEYNE-SUR-MER |
 
-0,002 |
+0,007 |
 
-0,006 |
+0,012 |
 
-99,3 % |
+97,5% |
 
 Moyenne |
 
@@ -11902,11 +12918,11 @@ COGOLIN |
 
 0,000 |
 
-0,022 |
+0,017 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 8306C |
 
@@ -11914,13 +12930,13 @@ RÉSEAU COMMUNAL DE PUGET VILLE (BOIS ET CHALEUR) |
 
 PUGET-VILLE |
 
-0,362 |
+0,342 |
 
-0,439 |
+0,385 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 8307C |
 
@@ -11928,13 +12944,27 @@ RESEAU THALASSO THERMIE LA SEYNE |
 
 SEYNE |
 
-0,170 |
+0,074 |
 
-0,157 |
+0,048 |
 
-34,2 % |
+55,5% |
 
-Moyenne |
+2024 |
+
+8307F |
+
+BET RESEAU THALASSO THERMIE LA SEYNE |
+
+SEYNE |
+
+0,015 |
+
+0,028 |
+
+- |
+
+2024 |
 
 8401C |
 
@@ -11942,13 +12972,13 @@ LE TRIENNAL |
 
 AVIGNON |
 
-0,305 |
+0,206 |
 
-0,321 |
+0,238 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 8404C |
 
@@ -11960,9 +12990,9 @@ LE PONTET |
 
 0,004 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 8405C |
 
@@ -11974,9 +13004,9 @@ VEDÈNE |
 
 0,004 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 8501C |
 
@@ -11984,13 +13014,13 @@ ZAD NORD-EST |
 
 LA ROCHE-SUR-YON |
 
-0,342 |
+0,205 |
 
-0,385 |
+0,231 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 8502C |
 
@@ -12000,11 +13030,11 @@ LES HERBIERS |
 
 0,078 |
 
-0,110 |
+0,111 |
 
-76,0 % |
+76,2% |
 
-Moyenne |
+2024 |
 
 8503C |
 
@@ -12016,23 +13046,37 @@ SAINT-PIERRE-DU-CHEMIN |
 
 0,022 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 8601C |
 
-ZUP DES COURONNERIES |
+GRAND POITIERS CHAUFFAGE URBAIN - POITIERS SAINT B |
 
 POITIERS |
 
-0,085 |
+0,070 |
 
-0,109 |
+0,092 |
 
-66,0 % |
+73,2% |
 
-2023 |
+2024 |
+
+8601F |
+
+RÉSEAU DE FROID FUTUROSCOPE 2 |
+
+CHASSEUNEUIL DU POITOU |
+
+0,028 |
+
+0,049 |
+
+- |
+
+Moyenne CO₂ |
 
 8605C |
 
@@ -12040,13 +13084,13 @@ RÉSEAU LUSIGNAN |
 
 LUSIGNAN |
 
-0,010 |
+0,008 |
 
-0,034 |
+0,031 |
 
-97,4 % |
+97,8% |
 
-2023 |
+2024 |
 
 8606C |
 
@@ -12054,13 +13098,13 @@ RÉSEAU DE CHALEUR OZON SUD |
 
 CHATELLERAULT |
 
-0,232 |
+0,329 |
 
-0,261 |
+0,369 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 8607C |
 
@@ -12068,13 +13112,13 @@ RÉSEAU DE CIVAUX |
 
 CIVAUX |
 
-0,188 |
+0,228 |
 
-0,205 |
+0,234 |
 
-38,3 % |
+12,8% |
 
-2023 |
+Moyenne |
 
 8608C |
 
@@ -12082,13 +13126,13 @@ RÉSEAU DE BEL AIR |
 
 POITIERS |
 
-0,203 |
+0,246 |
 
-0,220 |
+0,259 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 8610C |
 
@@ -12096,13 +13140,13 @@ RÉSEAU CHALEUR UNIVERSITÉ DE POITIERS |
 
 POITIERS |
 
-0,022 |
+0,030 |
 
-0,045 |
+0,052 |
 
-91,6 % |
+88,0% |
 
-2023 |
+2024 |
 
 8611C |
 
@@ -12110,13 +13154,13 @@ RÉSEAU DE CHALEUR PARC DU FUTUROSCOPE |
 
 CHASSENEUIL DU POITOU |
 
-0,231 |
+0,160 |
 
-0,258 |
+0,135 |
 
-0,0 % |
+20,6% |
 
-2023 |
+2024 |
 
 8701C |
 
@@ -12124,13 +13168,13 @@ ZUP VAL DE L'AURENCE |
 
 LIMOGES |
 
-0,000 |
+0,034 |
 
-0,079 |
+0,089 |
 
-78,2 % |
+73,8% |
 
-2023 |
+Moyenne |
 
 8702C |
 
@@ -12138,13 +13182,13 @@ ZAC DE BEAUBREUIL |
 
 LIMOGES |
 
-0,001 |
+0,027 |
 
-0,005 |
+0,035 |
 
-99,6 % |
+90,8% |
 
-2023 |
+Moyenne |
 
 8703C |
 
@@ -12152,13 +13196,13 @@ RÉSEAU DE BELLAC |
 
 BELLAC |
 
-0,428 |
+0,284 |
 
-0,485 |
+0,318 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 8704C |
 
@@ -12166,13 +13210,13 @@ LIMOGES CENTRE |
 
 LIMOGES |
 
-0,240 |
+0,363 |
 
-0,270 |
+0,406 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 8705C |
 
@@ -12182,11 +13226,11 @@ CHAMBORET |
 
 0,000 |
 
-0,020 |
+0,017 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 8707C |
 
@@ -12194,13 +13238,27 @@ RÉSEAU DE CHALEUR SAINT YRIEIX LA PERCHE |
 
 SAINT YRIEIX LA PERCHE |
 
-0,020 |
+0,034 |
 
-0,044 |
+0,058 |
 
-92,4 % |
+88,4% |
 
-2023 |
+2024 |
+
+8708C |
+
+SSLF RESEAU DE CHALEUR ET PRODUCTION D'EAU CHAUDE |
+
+ST SULPICE LES FEUILLES |
+
+0,000 |
+
+0,022 |
+
+100,0% |
+
+2024 |
 
 8801C |
 
@@ -12210,11 +13268,11 @@ EPINAL |
 
 0,000 |
 
-0,055 |
+0,062 |
 
-89,8 % |
+87,8% |
 
-2023 |
+Moyenne |
 
 8802C |
 
@@ -12222,11 +13280,11 @@ QUARTIER KELLERMAN |
 
 SAINT-DIE-DES-VOSGES |
 
-0,080 |
+0,101 |
 
-0,116 |
+0,140 |
 
-61,2 % |
+52,8% |
 
 Moyenne |
 
@@ -12236,13 +13294,13 @@ RÉSEAU DE FRESSE SUR MOSELLE |
 
 FRESSE-SUR-MOSELLE |
 
-0,005 |
+0,015 |
 
-0,029 |
+0,048 |
 
-98,3 % |
+96,5% |
 
-2023 |
+Moyenne |
 
 8806C |
 
@@ -12250,13 +13308,13 @@ RÉSEAU DE MONTHUREUX-SUR-SAÔNE |
 
 MONTHUREUX-SUR-SAONE |
 
-0,000 |
+0,037 |
 
-0,023 |
+0,063 |
 
-100,0 % |
+88,2% |
 
-2023 |
+Moyenne |
 
 8807C |
 
@@ -12264,13 +13322,13 @@ CHAUFFAGE URBAIN FRAIZE |
 
 FRAIZE |
 
-0,111 |
+0,088 |
 
-0,142 |
+0,120 |
 
-64,6 % |
+73,3% |
 
-2023 |
+2024 |
 
 8808C |
 
@@ -12278,11 +13336,11 @@ RÉSEAU DE LA BRESSE 1 |
 
 LA BRESSE |
 
-0,077 |
+0,127 |
 
-0,110 |
+0,171 |
 
-78,1 % |
+70,2% |
 
 Moyenne |
 
@@ -12292,13 +13350,13 @@ RÉSEAU DE LA BRESSE 2 |
 
 LA BRESSE |
 
-0,052 |
+0,077 |
 
-0,080 |
+0,111 |
 
-84,6 % |
+78,9% |
 
-2023 |
+Moyenne |
 
 8811C |
 
@@ -12308,11 +13366,11 @@ FREMIFONTAINE |
 
 0,000 |
 
-0,019 |
+0,017 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 8812C |
 
@@ -12322,11 +13380,11 @@ VENTRON |
 
 0,000 |
 
-0,022 |
+0,020 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 8814C |
 
@@ -12334,13 +13392,13 @@ VITTEL |
 
 VITTEL |
 
-0,085 |
+0,094 |
 
-0,120 |
+0,128 |
 
-65,5 % |
+64,6% |
 
-2023 |
+Moyenne |
 
 8815C |
 
@@ -12348,13 +13406,13 @@ RÉSEAU DE LA VILLE DE VAGNEY |
 
 VAGNEY |
 
-0,034 |
+0,035 |
 
-0,060 |
+0,062 |
 
-87,5 % |
+87,4% |
 
-2023 |
+Moyenne |
 
 8816C |
 
@@ -12362,13 +13420,13 @@ RÉSEAU BAN DE SAPT |
 
 BAN-DE-SAPT |
 
-0,000 |
+0,114 |
 
-0,020 |
+0,146 |
 
-100,0 % |
+66,7% |
 
-2023 |
+Moyenne |
 
 8817C |
 
@@ -12376,13 +13434,13 @@ RÉSEAU DE HURBACHE |
 
 HURBACHE |
 
-0,114 |
+0,000 |
 
-0,142 |
+0,018 |
 
-66,7 % |
+100,0% |
 
-Moyenne |
+2024 |
 
 8818C |
 
@@ -12392,11 +13450,11 @@ SAINT-JEAN-D'ORMONT |
 
 0,000 |
 
-0,037 |
+0,018 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 8819C |
 
@@ -12406,11 +13464,11 @@ DENIPAIRE |
 
 0,000 |
 
-0,033 |
+0,032 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 8820C |
 
@@ -12418,13 +13476,13 @@ RÉSEAU DE RAMBERVILLIERS |
 
 RAMBERVILLIERS |
 
-0,014 |
+0,015 |
 
-0,019 |
+0,020 |
 
-95,7 % |
+95,2% |
 
-Moyenne |
+2024 |
 
 8821C |
 
@@ -12432,13 +13490,27 @@ CHAUFFERIE BOIS DE SAULXURES SUR MOSELOTTE |
 
 SAULXURES SUR MOSELOTTE |
 
-0,063 |
+0,054 |
 
-0,095 |
+0,090 |
 
-85,8 % |
+88,5% |
 
-Moyenne |
+2024 |
+
+8822C |
+
+RÉSEAU DE CHAUFFAGE URBAIN DE SAINT-NABORD |
+
+SAINT-NABORD |
+
+0,009 |
+
+0,030 |
+
+96,6% |
+
+2024 |
 
 8901C |
 
@@ -12446,27 +13518,27 @@ ZUP DES GRAHUCHES |
 
 SENS |
 
-0,024 |
+0,032 |
 
-0,037 |
+0,045 |
 
-91,0 % |
+88,1% |
 
-2023 |
+Moyenne |
 
 8902C |
 
-RÉSEAU D'AUXERRE-ZUP DE SAINTE GENEVIÈVE |
+RÉSEAU D'AUXERRE - ZUP DE SAINTE GENEVIÈVE |
 
 AUXERRE |
 
-0,047 |
+0,045 |
 
-0,071 |
+0,072 |
 
-80,1 % |
+78,7% |
 
-2023 |
+2024 |
 
 8904C |
 
@@ -12474,13 +13546,13 @@ RÉSEAU DE QUARRÉ-LES-TOMBES |
 
 QUARRE-LES-TOMBES |
 
-0,000 |
+0,114 |
 
-0,022 |
+0,142 |
 
-100,0 % |
+66,7% |
 
-2023 |
+Moyenne |
 
 9002C |
 
@@ -12488,13 +13560,13 @@ ZUP DES GLACIS |
 
 BELFORT |
 
-0,119 |
+0,124 |
 
-0,147 |
+0,151 |
 
-56,7 % |
+51,9% |
 
-2023 |
+2024 |
 
 9003C |
 
@@ -12502,27 +13574,41 @@ RÉSEAU DE CHALEUR DE DELLE |
 
 DELLE |
 
-0,242 |
+0,036 |
 
-0,277 |
+0,056 |
 
-24,4 % |
+84,6% |
 
-Moyenne |
+2024 |
 
 9101C |
 
-RÉSEAU DE MASSY-ANTONY |
+RÉSEAU DE MASSY - ANTONY |
 
 MASSY |
 
-0,060 |
+0,068 |
 
-0,078 |
+0,085 |
 
-83,8 % |
+80,6% |
 
-2023 |
+Moyenne |
+
+9101F |
+
+BET PARIS SACLAY |
+
+SACLAY |
+
+0,031 |
+
+0,054 |
+
+- |
+
+2024 |
 
 9102C |
 
@@ -12530,11 +13616,11 @@ RÉSEAU DES ULIS |
 
 LES ULIS |
 
-0,069 |
+0,048 |
 
-0,092 |
+0,064 |
 
-66,1 % |
+63,8% |
 
 Moyenne |
 
@@ -12544,13 +13630,13 @@ RÉSEAU D'EVRY |
 
 EVRY |
 
-0,087 |
+0,062 |
 
-0,101 |
+0,072 |
 
-63,4 % |
+75,5% |
 
-2023 |
+2024 |
 
 9104C |
 
@@ -12558,13 +13644,13 @@ DOMAINE DU BOIS DES ROCHES |
 
 SAINT-MICHEL-SUR-ORGE |
 
-0,342 |
+0,204 |
 
-0,385 |
+0,224 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 9105C |
 
@@ -12572,27 +13658,27 @@ RÉSEAU DE GRIGNY |
 
 GRIGNY |
 
-0,150 |
+0,202 |
 
-0,169 |
+0,226 |
 
-22,6 % |
+19,5% |
 
-2023 |
+2024 |
 
 9106C |
 
-OROBIA-RÉSEAU DE BRÉTIGNY-SUR-ORGE |
+OROBIA - RÉSEAU DE BRÉTIGNY-SUR-ORGE |
 
 BRETIGNY-SUR-ORGE |
 
-0,040 |
+0,057 |
 
-0,062 |
+0,081 |
 
-83,1 % |
+77,5% |
 
-2023 |
+Moyenne |
 
 9107C |
 
@@ -12600,13 +13686,13 @@ RÉSEAU DE DOURDAN |
 
 DOURDAN |
 
-0,271 |
+0,261 |
 
-0,319 |
+0,299 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 9108C |
 
@@ -12614,27 +13700,27 @@ CEA DIF |
 
 BRUYERES-LE-CHATEL |
 
-0,095 |
+0,069 |
 
-0,084 |
+0,060 |
 
-54,5 % |
+66,9% |
 
-2023 |
+2024 |
 
 9109C |
 
-DSP-VIGNEUX-CONCORDE |
+DSP - VIGNEUX - CONCORDE |
 
 VIGNEUX SUR SEINE |
 
-0,030 |
+0,039 |
 
-0,047 |
+0,057 |
 
-87,8 % |
+84,3% |
 
-2023 |
+Moyenne |
 
 9114C |
 
@@ -12642,13 +13728,13 @@ RÉSEAU D'ÉPINAY-SOUS-SÉNART |
 
 ÉPINAY-SOUS-SENART |
 
-0,050 |
+0,061 |
 
-0,068 |
+0,080 |
 
-78,6 % |
+74,3% |
 
-2023 |
+Moyenne |
 
 9115C |
 
@@ -12656,13 +13742,13 @@ RÉSEAU DE RIS-ORANGIS |
 
 RIS-ORANGIS |
 
-0,046 |
+0,050 |
 
-0,069 |
+0,073 |
 
-76,8 % |
+73,9% |
 
-Moyenne |
+2024 |
 
 9118C |
 
@@ -12670,11 +13756,11 @@ RÉSEAU SEER GRIGNY-VIRY |
 
 GRIGNY |
 
-0,074 |
+0,086 |
 
-0,096 |
+0,109 |
 
-67,0 % |
+61,0% |
 
 Moyenne |
 
@@ -12688,9 +13774,9 @@ VILLEJUST |
 
 0,004 |
 
-100,0 % |
+100,0% |
 
-2023 |
+2024 |
 
 9120C |
 
@@ -12698,13 +13784,13 @@ RÉSEAU DE VIRY CHATILLON |
 
 VIRY-CHATILLON |
 
-0,238 |
+0,210 |
 
-0,314 |
+0,248 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 9121C |
 
@@ -12712,13 +13798,13 @@ RÉSEAU DE CHALEUR DE L'ÉCOQUARTIER CAMILLE CLAUDEL |
 
 PALAISEAU |
 
-0,054 |
+0,064 |
 
-0,074 |
+0,088 |
 
-75,6 % |
+74,2% |
 
-2023 |
+2024 |
 
 9122C |
 
@@ -12726,11 +13812,11 @@ RÉSEAU DU QUARTIER DU GRAND PARC DE BONDOUFLE |
 
 BONDOUFLE |
 
-0,055 |
+0,053 |
 
-0,078 |
+0,076 |
 
-77,9 % |
+79,0% |
 
 Moyenne |
 
@@ -12740,13 +13826,13 @@ BET PARIS SACLAY |
 
 SACLAY |
 
-0,200 |
+0,145 |
 
-0,204 |
+0,133 |
 
-34,4 % |
+55,4% |
 
-Moyenne |
+2024 |
 
 9125C |
 
@@ -12754,13 +13840,55 @@ RIS-ORANGIS DOCK ET GARE |
 
 RIS ORANGIS |
 
-0,109 |
+0,119 |
 
-0,108 |
+0,122 |
 
-60,3 % |
+56,7% |
 
-2023 |
+2024 |
+
+9127C |
+
+RÉSEAU CHAUD DE L'ÉCOLE POLYTECHNIQUE |
+
+PALAISEAU |
+
+0,210 |
+
+0,236 |
+
+0,0% |
+
+2024 |
+
+9127F |
+
+RÉSEAU FROID DE L'ÉCOLE POLYTECHNIQUE |
+
+PALAISEAU |
+
+0,011 |
+
+0,021 |
+
+- |
+
+2024 |
+
+9128C |
+
+LIAISON CHAUFFAGE ORME |
+
+SACLAY |
+
+0,198 |
+
+0,223 |
+
+0,0% |
+
+2024 |
 
 9201C |
 
@@ -12768,13 +13896,13 @@ RÉSEAU DE MEUDON |
 
 MEUDON |
 
-0,242 |
+0,250 |
 
-0,279 |
+0,284 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 9202C |
 
@@ -12782,13 +13910,13 @@ LES FOSSES JEAN NORD |
 
 COLOMBES |
 
-0,263 |
+0,241 |
 
-0,295 |
+0,270 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 9204C |
 
@@ -12796,13 +13924,13 @@ ZAC SAINTE GENEVIÈVE |
 
 NANTERRE |
 
-0,151 |
+0,162 |
 
-0,140 |
+0,161 |
 
-12,2 % |
+33,1% |
 
-Moyenne |
+2024 |
 
 9205C |
 
@@ -12810,13 +13938,13 @@ RÉSEAU GENNEVILLIERS |
 
 GENNEVILLIERS |
 
-0,084 |
+0,092 |
 
-0,110 |
+0,120 |
 
-65,6 % |
+62,3% |
 
-2023 |
+Moyenne |
 
 9209C |
 
@@ -12824,13 +13952,13 @@ RÉSEAU DE CHAVILLE |
 
 CHAVILLE |
 
-0,196 |
+0,198 |
 
-0,274 |
+0,249 |
 
-0,0 % |
+0,0% |
 
-2023 |
+2024 |
 
 9211C |
 
@@ -12838,27 +13966,27 @@ RÉSEAU DE CHALEUR DE LEVALLOIS |
 
 LEVALLOIS PERRET |
 
-0,178 |
+0,169 |
 
-0,209 |
+0,198 |
 
-48,8 % |
+50,3% |
 
-Moyenne |
+2024 |
 
 9217C |
 
-RÉSEAU DU PLESSIS-ROBINSON (HLM)-TECNI |
+RÉSEAU DU PLESSIS-ROBINSON (HLM) - TECNI |
 
 LE PLESSIS-ROBINSON |
 
-0,156 |
+0,165 |
 
-0,168 |
+0,178 |
 
-31,2 % |
+27,3% |
 
-2023 |
+2024 |
 
 9219C |
 
@@ -12866,1455 +13994,13 @@ RÉSEAU CHAUD SEGUIN RIVES DE SEINE |
 
 BOULOGNE-BILLANCOURT |
 
-0,129 |
+0,122 |
 
-0,142 |
+0,130 |
 
-55,3 % |
+56,6% |
 
-Moyenne |
-
-9222C |
-
-RÉSEAU DE SURESNES |
-
-SURESNES |
-
-0,197 |
-
-0,218 |
-
-12,8 % |
-
-2023 |
-
-9224C |
-
-RÉSEAU SEINERGIE |
-
-COURBEVOIE |
-
-0,194 |
-
-0,207 |
-
-18,8 % |
-
-Moyenne |
-
-9225C |
-
-RÉSEAU DE LA DÉFENSE |
-
-COURBEVOIE |
-
-0,136 |
-
-0,176 |
-
-42,2 % |
-
-2023 |
-
-9226C |
-
-RÉSIDENCE VILLENEUVE |
-
-VILLENEUVE-LA-GARENNE |
-
-0,213 |
-
-0,240 |
-
-0,0 % |
-
-2023 |
-
-9230C |
-
-RÉSEAU CICEO |
-
-PUTEAUX |
-
-0,242 |
-
-0,272 |
-
-0,0 % |
-
-2023 |
-
-9232C |
-
-RESEAU QUARTIER HOCHE |
-
-NANTERRE |
-
-0,087 |
-
-0,113 |
-
-64,4 % |
-
-Moyenne |
-
-9233C |
-
-RÉSEAU DE LA ZAC DE LA MARINE |
-
-COLOMBES |
-
-0,120 |
-
-0,146 |
-
-49,9 % |
-
-Moyenne |
-
-9234C |
-
-RÉSEAU DU FORT D'ISSY |
-
-ISSY-LES-MOULINEAUX |
-
-0,166 |
-
-0,162 |
-
-49,9 % |
-
-2023 |
-
-9235C |
-
-RÉSEAU DE CLICHY |
-
-CLICHY |
-
-0,207 |
-
-0,241 |
-
-39,5 % |
-
-2023 |
-
-9236C |
-
-RÉSEAU DE BAGNEUX-CHATILLON |
-
-BAGNEUX |
-
-0,095 |
-
-0,106 |
-
-58,4 % |
-
-2023 |
-
-9237C |
-
-BET NANTERRE CHAUD |
-
-NANTERRE |
-
-0,108 |
-
-0,127 |
-
-57,9 % |
-
-2023 |
-
-9240C |
-
-RUEIL ENERGIE |
-
-RUEIL-MALMAISON |
-
-0,149 |
-
-0,151 |
-
-33,4 % |
-
-2023 |
-
-9242C |
-
-RCU CLAMART PLAINE SUD |
-
-CLAMART |
-
-0,096 |
-
-0,120 |
-
-57,0 % |
-
-Moyenne |
-
-9301C |
-
-RÉSEAU DE SAINT DENIS |
-
-SAINT-DENIS |
-
-0,091 |
-
-0,116 |
-
-66,6 % |
-
-2023 |
-
-9302C |
-
-RÉSEAU DE BAGNOLET |
-
-BAGNOLET |
-
-0,076 |
-
-0,100 |
-
-70,1 % |
-
-2023 |
-
-9303C |
-
-ZUP DE BOBIGNY |
-
-BOBIGNY |
-
-0,116 |
-
-0,116 |
-
-51,4 % |
-
-2023 |
-
-9304C |
-
-ZAC DE SEVRAN |
-
-SEVRAN |
-
-0,065 |
-
-0,093 |
-
-70,1 % |
-
-2023 |
-
-9305C |
-
-ZUP DES FAUVETTES |
-
-NEUILLY SUR MARNE |
-
-0,070 |
-
-0,080 |
-
-72,6 % |
-
-Moyenne |
-
-9306C |
-
-RÉSEAU DE VILLEPINTE |
-
-VILLEPINTE |
-
-0,059 |
-
-0,078 |
-
-75,8 % |
-
-2023 |
-
-9307C |
-
-PARIFERIC |
-
-AUBERVILLIERS |
-
-0,214 |
-
-0,241 |
-
-0,0 % |
-
-2023 |
-
-9309C |
-
-SEBIO |
-
-SEVRAN |
-
-0,099 |
-
-0,138 |
-
-56,5 % |
-
-2023 |
-
-9310C |
-
-RÉSEAU CHAUD ADP LE BOURGET |
-
-LE BOURGET |
-
-0,264 |
-
-0,296 |
-
-0,0 % |
-
-2023 |
-
-9311C |
-
-LE CHÊNE POINTU |
-
-CLICHY-SOUS-BOIS |
-
-0,228 |
-
-0,256 |
-
-0,0 % |
-
-2023 |
-
-9312C |
-
-RÉSEAU D'AULNAY-SOUS-BOIS-LE GROS SAULE |
-
-AULNAY-SOUS-BOIS |
-
-0,181 |
-
-0,231 |
-
-0,0 % |
-
-2023 |
-
-9313C |
-
-RÉSEAU DE LA COURNEUVE |
-
-LA COURNEUVE |
-
-0,082 |
-
-0,085 |
-
-61,6 % |
-
-2023 |
-
-9314C |
-
-RÉSEAU DE TREMBLAY EN FRANCE |
-
-TREMBLAY EN FRANCE |
-
-0,037 |
-
-0,054 |
-
-86,1 % |
-
-2023 |
-
-9315C |
-
-RÉSEAU DU BLANC MESNIL |
-
-LE BLANC-MESNIL |
-
-0,099 |
-
-0,119 |
-
-52,0 % |
-
-Moyenne |
-
-9316C |
-
-RESEAU DE BONDY |
-
-BONDY |
-
-0,119 |
-
-0,148 |
-
-48,6 % |
-
-Moyenne |
-
-9317C |
-
-GARONOR |
-
-AULNAY-SOUS-BOIS |
-
-0,432 |
-
-0,434 |
-
-0,0 % |
-
-2023 |
-
-9321C |
-
-AULNAY 3000-ROSE DES VENTS |
-
-AULNAY-SOUS-BOIS |
-
-0,197 |
-
-0,253 |
-
-0,0 % |
-
-2023 |
-
-9324C |
-
-RÉSEAU DE ROSNY-SOUS-BOIS/ NOISY-LE-SEC/ MONTREUI |
-
-ROSNY-SOUS-BOIS |
-
-0,049 |
-
-0,049 |
-
-83,3 % |
-
-Moyenne |
-
-9326C |
-
-RÉSEAU DE CHALEUR DE LA ZAC DES DOCKS SAINT-OUEN |
-
-SAINT-OUEN-SUR-SEINE |
-
-0,105 |
-
-0,125 |
-
-68,6 % |
-
-Moyenne |
-
-9327C |
-
-OPH DE DRANCY |
-
-DRANCY |
-
-0,152 |
-
-0,180 |
-
-51,0 % |
-
-Moyenne |
-
-9328C |
-
-RESEAU DE NOISY LE GRAND |
-
-NOISY LE GRAND |
-
-0,082 |
-
-0,097 |
-
-72,7 % |
-
-Moyenne |
-
-9329C |
-
-RÉSEAU DE DUGNY-LE BOURGET |
-
-DUGNY |
-
-0,441 |
-
-0,492 |
-
-0,0 % |
-
-2023 |
-
-9401C |
-
-RÉSEAU DE LIMEIL-BRÉVANNES |
-
-LIMEIL-BREVANNES |
-
-0,088 |
-
-0,111 |
-
-67,7 % |
-
-Moyenne |
-
-9402C |
-
-RÉSEAUX DE CRÉTEIL-SCUC |
-
-CRETEIL |
-
-0,073 |
-
-0,085 |
-
-69,4 % |
-
-Moyenne |
-
-9403C |
-
-RÉSEAU DE CHOISY-VITRY |
-
-VITRY-SUR-SEINE |
-
-0,151 |
-
-0,171 |
-
-59,0 % |
-
-Moyenne |
-
-9404C |
-
-RÉSEAU DE FONTENAY SOUS BOIS |
-
-FONTENAY-SOUS-BOIS |
-
-0,166 |
-
-0,201 |
-
-25,3 % |
-
-Moyenne |
-
-9406C |
-
-RÉSEAU DE IVRY PORT |
-
-IVRY-SUR-SEINE |
-
-0,075 |
-
-0,096 |
-
-75,8 % |
-
-Moyenne |
-
-9408C |
-
-MARCHÉ INTERNATIONAL DE RUNGIS |
-
-RUNGIS |
-
-0,009 |
-
-0,015 |
-
-97,0 % |
-
-Moyenne |
-
-9409C |
-
-RÉSEAU DE SUCY EN BRIE |
-
-SUCY-EN-BRIE |
-
-0,008 |
-
-0,024 |
-
-96,9 % |
-
-2023 |
-
-9410C |
-
-RÉSEAU DE CACHAN |
-
-CACHAN |
-
-0,050 |
-
-0,068 |
-
-77,4 % |
-
-2023 |
-
-9411C |
-
-RÉSEAU DE CHAMPIGNY SUR MARNE |
-
-CHAMPIGNY-SUR-MARNE |
-
-0,053 |
-
-0,076 |
-
-73,8 % |
-
-2023 |
-
-9412C |
-
-RÉSEAU DE MAISONS-ALFORT |
-
-MAISONS-ALFORT |
-
-0,106 |
-
-0,125 |
-
-57,6 % |
-
-2023 |
-
-9413C |
-
-RÉSEAU DE THIAIS |
-
-THIAIS |
-
-0,011 |
-
-0,026 |
-
-95,5 % |
-
-2023 |
-
-9414C |
-
-BONNEUIL-RESEAU CHALEUR |
-
-BONNEUIL-SUR-MARNE |
-
-0,006 |
-
-0,022 |
-
-97,6 % |
-
-Moyenne |
-
-9415C |
-
-RÉSEAU DE CHEVILLY-LARUE L'HAŸ-LES-ROSES VILLEJUIF |
-
-CHEVILLY-LARUE |
-
-0,050 |
-
-0,062 |
-
-77,2 % |
-
-2023 |
-
-9419C |
-
-RÉSEAU DE FRESNES |
-
-FRESNES |
-
-0,074 |
-
-0,096 |
-
-63,0 % |
-
-2023 |
-
-9420C |
-
-RÉSEAU D'ORLY |
-
-ORLY |
-
-0,035 |
-
-0,053 |
-
-85,9 % |
-
-2023 |
-
-9421C |
-
-RÉSEAU D'ALFORTVILLE |
-
-ALFORTVILLE |
-
-0,024 |
-
-0,040 |
-
-89,4 % |
-
-2023 |
-
-9422C |
-
-ARCUEIL-GENTILLY |
-
-ARCUEIL |
-
-0,050 |
-
-0,056 |
-
-78,3 % |
-
-2023 |
-
-9423C |
-
-RÉSEAU D'IVRY CENTRE VILLE |
-
-IVRY-SUR-SEINE |
-
-0,076 |
-
-0,101 |
-
-75,5 % |
-
-Moyenne |
-
-9424C |
-
-RÉSEAU DE VILLENEUVE SAINT GEORGES-SCVG |
-
-VILLENEUVE-SAINT-GEORGES |
-
-0,085 |
-
-0,101 |
-
-66,3 % |
-
-2023 |
-
-9425C |
-
-RÉSEAU CHAUD ADP ORLY |
-
-ORLY |
-
-0,100 |
-
-0,116 |
-
-58,9 % |
-
-Moyenne |
-
-9429C |
-
-MAISON ALFORT |
-
-ALFORTVILLE |
-
-0,220 |
-
-0,248 |
-
-0,0 % |
-
-2023 |
-
-9430C |
-
-RÉSEAU ENERUNGIS |
-
-RUNGIS |
-
-0,016 |
-
-0,017 |
-
-96,9 % |
-
-Moyenne |
-
-9501C |
-
-IDEX CROIX ROUGE GEOTHERMIE |
-
-TAVERNY |
-
-0,246 |
-
-0,277 |
-
-0,0 % |
-
-2023 |
-
-9502C |
-
-GRAND ENSEMBLE SARCELLES-LOCHERES |
-
-SARCELLES |
-
-0,069 |
-
-0,083 |
-
-71,0 % |
-
-Moyenne |
-
-9503C |
-
-RÉSEAU DE CERGY-PONTOISE |
-
-CERGY |
-
-0,087 |
-
-0,104 |
-
-67,3 % |
-
-2023 |
-
-9505C |
-
-VAN GOGH |
-
-GARGES-LES-GONESSE |
-
-0,236 |
-
-0,255 |
-
-0,0 % |
-
-2023 |
-
-9507C |
-
-ZUP DE SANNOIS-ERMONT-FRANCONVILLE |
-
-FRANCONVILLE |
-
-0,063 |
-
-0,089 |
-
-72,4 % |
-
-2023 |
-
-9509C |
-
-RÉSEAU D'ARGENTEUIL |
-
-ARGENTEUIL |
-
-0,032 |
-
-0,040 |
-
-87,1 % |
-
-2023 |
-
-9510C |
-
-RÉSEAUX CHAUD ADP ROISSY |
-
-ROISSY-EN-FRANCE |
-
-0,181 |
-
-0,208 |
-
-27,2 % |
-
-2023 |
-
-9511C |
-
-ZUP DE L'EPINE GUYON |
-
-FRANCONVILLE |
-
-0,218 |
-
-0,251 |
-
-0,0 % |
-
-2023 |
-
-9514C |
-
-RÉSEAU DE VILLIERS LE BEL-GONESSE |
-
-VILLIERS-LE-BEL |
-
-0,093 |
-
-0,116 |
-
-54,1 % |
-
-2023 |
-
-9515C |
-
-RÉSEAU DE PONTOISE |
-
-PONTOISE |
-
-0,209 |
-
-0,256 |
-
-0,0 % |
-
-2023 |
-
-9516C |
-
-ZAC DE MONTEDOUR |
-
-FRANCONVILLE |
-
-0,223 |
-
-0,251 |
-
-0,0 % |
-
-2023 |
-
-9518C |
-
-RÉSEAU DE GOUSSAINVILLE |
-
-GOUSSAINVILLE |
-
-0,025 |
-
-0,032 |
-
-90,6 % |
-
-2023 |
-
-9519C |
-
-" PLACO " |
-
-ARGENTEUIL |
-
-0,000 |
-
-0,004 |
-
-100,0 % |
-
-2023 |
-
-9520C |
-
-RESEAU DE VEMARS |
-
-VEMARS |
-
-0,292 |
-
-0,327 |
-
-0,0 % |
-
-2023 |
-
-9521C |
-
-LES CHENES |
-
-ERMONT |
-
-0,226 |
-
-0,254 |
-
-0,0 % |
-
-2023 |
-
-9522C |
-
-RÉSEAU DE GARGES-LES-GONESSE |
-
-GARGES-LES-GONESSE |
-
-0,295 |
-
-0,331 |
-
-0,0 % |
-
-2023 |
-
-0606F |
-
-MSE RÉSEAU FROID |
-
-NICE |
-
-0,015 |
-
-0,029 |
-
-ND |
-
-2023 |
-
-0608F |
-
-BET CAP AZUR FROID |
-
-ROQUEBRUNE |
-
-0,014 |
-
-0,026 |
-
-ND |
-
-2023 |
-
-1301F |
-
-RÉSEAU DE FROID THASSALIA MARSEILLE |
-
-MARSEILLE |
-
-0,011 |
-
-0,021 |
-
-ND |
-
-Moyenne CO₂ |
-
-1302F |
-
-RÉSEAU DU PÔLE YVON MORANDAT |
-
-GARDANNE |
-
-0,014 |
-
-0,031 |
-
-ND |
-
-Moyenne CO₂ |
-
-1322F |
-
-BET MASSILEO FROID |
-
-MARSEILLE |
-
-0,016 |
-
-0,030 |
-
-ND |
-
-2023 |
-
-3101F |
-
-CANCEROPOLE |
-
-TOULOUSE |
-
-0,011 |
-
-0,022 |
-
-ND |
-
-Moyenne CO₂ |
-
-3102F |
-
-RÉSEAU DE TOULOUSE MIRAIL |
-
-TOULOUSE |
-
-0,018 |
-
-0,030 |
-
-ND |
-
-2023 |
-
-3112F |
-
-TOULOUSE ENERGIE DURABLE (TED) FROID |
-
-TOULOUSE |
-
-0,018 |
-
-0,034 |
-
-ND |
-
-Moyenne CO₂ |
-
-3301F |
-
-LASERIS |
-
-LE BARP |
-
-0,018 |
-
-0,033 |
-
-ND |
-
-2023 |
-
-3302F |
-
-BASSINS A FLOT-FROID |
-
-BORDEAUX |
-
-0,008 |
-
-0,018 |
-
-ND |
-
-Moyenne CO₂ |
-
-3401F |
-
-POLYGONE ANTIGONE |
-
-MONTPELLIER |
-
-0,080 |
-
-0,098 |
-
-ND |
-
-Moyenne CO₂ |
-
-3402F |
-
-ERNEST GRANIER |
-
-MONTPELLIER |
-
-0,013 |
-
-0,025 |
-
-ND |
-
-Moyenne CO₂ |
-
-3403F |
-
-PORT MARIANNE/ ODYSSEUM |
-
-MONTPELLIER |
-
-0,011 |
-
-0,022 |
-
-ND |
-
-2023 |
-
-3406F |
-
-RÉSEAU ARCHE JACQUES COEUR |
-
-MONTPELLIER |
-
-0,013 |
-
-0,025 |
-
-ND |
-
-Moyenne CO₂ |
-
-3411F |
-
-MUSE |
-
-MONTPELLIER |
-
-0,013 |
-
-0,024 |
-
-ND |
-
-Moyenne CO₂ |
-
-3412F |
-
-BET BOIRARGUES FROID |
-
-LATTES |
-
-0,010 |
-
-0,020 |
-
-ND |
-
-2023 |
-
-3414F |
-
-BET EUREKA FROID |
-
-CASTELNAU-LE-LEZ |
-
-0,014 |
-
-0,026 |
-
-ND |
-
-2023 |
-
-3424F |
-
-BEAUSOLEIL |
-
-MONTPELLIER |
-
-0,015 |
-
-0,029 |
-
-ND |
-
-Moyenne CO₂ |
-
-3426F |
-
-PRADO CONCORDE |
-
-CASTELNAU LE LEZ |
-
-0,013 |
-
-0,025 |
-
-ND |
-
-2023 |
-
-3427F |
-
-NOUVEAU SAINT ROCH |
-
-MONTPELLIER |
-
-0,011 |
-
-0,023 |
-
-ND |
-
-Moyenne CO₂ |
-
-3802F |
-
-RÉSEAU FROID CCIAG GRENOBLE |
-
-GRENOBLE |
-
-0,016 |
-
-0,030 |
-
-ND |
-
-Moyenne CO₂ |
-
-4213F |
-
-RÉSEAUX DE FROID VIACONFORT |
-
-SAINT-ETIENNE |
-
-0,017 |
-
-0,030 |
-
-ND |
-
-Moyenne CO₂ |
-
-5714F |
-
-RÉSEAU ZAC AMPHITHÉÂTRE |
-
-METZ |
-
-0,008 |
-
-0,017 |
-
-ND |
-
-2023 |
-
-6905F |
-
-RÉSEAU DE LYON |
-
-LYON |
-
-0,007 |
-
-0,015 |
-
-ND |
-
-2023 |
-
-7503F |
-
-FRAÎCHEUR DE PARIS |
-
-PARIS |
-
-0,008 |
-
-0,016 |
-
-ND |
-
-Moyenne CO₂ |
-
-7619F |
-
-BET ZAC LUCILINE FROID |
-
-ROUEN |
-
-0,178 |
-
-0,289 |
-
-ND |
-
-Moyenne CO₂ |
-
-8001F |
-
-RÉSEAU DE LA VILLE D'AMIENS-FROID |
-
-AMIENS |
-
-0,052 |
-
-0,088 |
-
-ND |
-
-Moyenne CO₂ |
-
-8307F |
-
-RESEAU THALASSO THERMIE LA SEYNE |
-
-LA-SEYNE-SUR-MER |
-
-0,013 |
-
-0,025 |
-
-ND |
-
-Moyenne CO₂ |
-
-8601F |
-
-RÉSEAU DE FROID FUTUROSCOPE 2 |
-
-CHASSEUNEUIL DU POITOU |
-
-0,016 |
-
-0,030 |
-
-ND |
-
-2023 |
-
-9101F |
-
-BET PARIS SACLAY |
-
-SACLAY |
-
-0,033 |
-
-0,057 |
-
-ND |
-
-2023 |
+2024 |
 
 9219F |
 
@@ -14324,11 +14010,53 @@ BOULOGNE-BILLANCOURT |
 
 0,012 |
 
-0,023 |
+0,024 |
 
-ND |
+- |
 
-2023 |
+2024 |
+
+9222C |
+
+RÉSEAU DE SURESNES |
+
+SURESNES |
+
+0,200 |
+
+0,221 |
+
+12,4% |
+
+Moyenne |
+
+9224C |
+
+RÉSEAU SEINERGIE |
+
+COURBEVOIE |
+
+0,189 |
+
+0,201 |
+
+18,9% |
+
+Moyenne |
+
+9225C |
+
+RÉSEAU DE LA DÉFENSE |
+
+COURBEVOIE |
+
+0,144 |
+
+0,187 |
+
+40,2% |
+
+Moyenne |
 
 9225F |
 
@@ -14336,27 +14064,97 @@ RÉSEAU DE LA DÉFENSE |
 
 COURBEVOIE |
 
-0,014 |
+0,015 |
 
-0,026 |
+0,028 |
 
-ND |
+- |
 
 Moyenne CO₂ |
 
+9226C |
+
+RÉSIDENCE VILLENEUVE |
+
+VILLENEUVE-LA-GARENNE |
+
+0,292 |
+
+0,327 |
+
+0,0% |
+
+2024 |
+
+9230C |
+
+RÉSEAU ENEBIO |
+
+PUTEAUX |
+
+0,216 |
+
+0,244 |
+
+0,0% |
+
+2024 |
+
 9231F |
 
-RÉSEAU SUC-SOCIÉTÉ URBAINE DE CLIMATISATION |
+RÉSEAU SUC - SOCIÉTÉ URBAINE DE CLIMATISATION |
 
 COURBEVOIE |
 
-0,010 |
+0,009 |
 
-0,020 |
+0,019 |
 
-ND |
+- |
 
-2023 |
+2024 |
+
+9232C |
+
+RESEAU QUARTIER HOCHE |
+
+NANTERRE |
+
+0,095 |
+
+0,119 |
+
+61,2% |
+
+2024 |
+
+9233C |
+
+RÉSEAU DE LA ZAC DE LA MARINE |
+
+COLOMBES |
+
+0,121 |
+
+0,146 |
+
+48,8% |
+
+Moyenne |
+
+9234C |
+
+RÉSEAU DU FORT D'ISSY |
+
+ISSY-LES-MOULINEAUX |
+
+0,169 |
+
+0,148 |
+
+41,1% |
+
+Moyenne |
 
 9234F |
 
@@ -14366,25 +14164,67 @@ LEVALLOIS-PERRET |
 
 0,013 |
 
-0,024 |
+0,025 |
 
-ND |
+- |
 
-2023 |
+Moyenne CO₂ |
+
+9235C |
+
+RÉSEAU DE CLICHY |
+
+CLICHY |
+
+0,190 |
+
+0,221 |
+
+39,3% |
+
+Moyenne |
 
 9235F |
 
-RÉSEAU DE FROID DE SURESNES-ICEIS |
+RÉSEAU DE FROID DE SURESNES - ICEIS |
 
 SURESNES |
 
-0,024 |
+0,017 |
 
-0,043 |
+0,032 |
 
-ND |
+- |
 
-Moyenne CO₂ |
+2024 |
+
+9236C |
+
+RÉSEAU DE BAGNEUX-CHATILLON |
+
+BAGNEUX |
+
+0,096 |
+
+0,106 |
+
+59,0% |
+
+2024 |
+
+9237C |
+
+BET NANTERRE CHAUD |
+
+NANTERRE |
+
+0,116 |
+
+0,136 |
+
+54,8% |
+
+Moyenne |
 
 9237F |
 
@@ -14392,13 +14232,27 @@ BET NANTERRE FROID |
 
 NANTERRE |
 
-0,011 |
+0,012 |
 
-0,022 |
+0,023 |
 
-ND |
+- |
 
 Moyenne CO₂ |
+
+9240C |
+
+RUEIL ENERGIE |
+
+RUEIL-MALMAISON |
+
+0,134 |
+
+0,140 |
+
+43,9% |
+
+2024 |
 
 9240F |
 
@@ -14406,13 +14260,27 @@ RÉSEAU SEINERGIE FROID |
 
 COURBEVOIE |
 
-0,010 |
+0,009 |
 
-0,024 |
+0,023 |
 
-ND |
+- |
 
-2023 |
+2024 |
+
+9242C |
+
+RCU CLAMART PLAINE SUD |
+
+CLAMART |
+
+0,098 |
+
+0,121 |
+
+55,0% |
+
+Moyenne |
 
 9242F |
 
@@ -14420,13 +14288,181 @@ RÉSEAU ENEBIO FROID |
 
 PUTEAUX |
 
-0,010 |
+0,009 |
 
-0,024 |
+0,023 |
 
-ND |
+- |
 
-2023 |
+2024 |
+
+9244C |
+
+FLOWERGY ASNIÈRES - RCU PARC D'AFFAIRES |
+
+ASNIÈRE-SUR-SEINE |
+
+0,131 |
+
+0,131 |
+
+36,4% |
+
+2024 |
+
+9245C |
+
+RCU DU QUARTIER ISSY CŒUR DE VILLE |
+
+ISSY-LES-MOULINEAUX |
+
+0,121 |
+
+0,083 |
+
+57,9% |
+
+2024 |
+
+9245F |
+
+RFU DU QUARTIER ISSY CŒUR DE VILLE |
+
+ISSY-LES-MOULINEAUX |
+
+0,033 |
+
+0,057 |
+
+- |
+
+2024 |
+
+9301C |
+
+RÉSEAU DE SAINT DENIS |
+
+SAINT-DENIS |
+
+0,094 |
+
+0,120 |
+
+65,1% |
+
+Moyenne |
+
+9302C |
+
+RÉSEAU DE BAGNOLET |
+
+BAGNOLET |
+
+0,095 |
+
+0,120 |
+
+62,5% |
+
+Moyenne |
+
+9303C |
+
+ZUP DE BOBIGNY - GENYO |
+
+BOBIGNY |
+
+0,122 |
+
+0,126 |
+
+48,0% |
+
+2024 |
+
+9304C |
+
+ZAC DE SEVRAN |
+
+SEVRAN |
+
+0,093 |
+
+0,114 |
+
+65,5% |
+
+2024 |
+
+9305C |
+
+ZUP DES FAUVETTES |
+
+NEUILLY SUR MARNE |
+
+0,059 |
+
+0,067 |
+
+73,4% |
+
+2024 |
+
+9306C |
+
+RÉSEAU DE VILLEPINTE |
+
+VILLEPINTE |
+
+0,079 |
+
+0,100 |
+
+69,9% |
+
+2024 |
+
+9307C |
+
+PARIFERIC |
+
+AUBERVILLIERS |
+
+0,245 |
+
+0,276 |
+
+0,0% |
+
+2024 |
+
+9309C |
+
+SEBIO |
+
+SEVRAN |
+
+0,136 |
+
+0,170 |
+
+65,5% |
+
+2024 |
+
+9310C |
+
+RÉSEAU CHAUD ADP LE BOURGET |
+
+LE BOURGET |
+
+0,272 |
+
+0,304 |
+
+3,5% |
+
+2024 |
 
 9310F |
 
@@ -14434,13 +14470,125 @@ RÉSEAU FROID ADP LE BOURGET |
 
 LE BOURGET |
 
-0,014 |
+0,021 |
 
-0,026 |
+0,038 |
 
-ND |
+- |
 
-2023 |
+2024 |
+
+9311C |
+
+LE CHÊNE POINTU |
+
+CLICHY-SOUS-BOIS |
+
+0,212 |
+
+0,239 |
+
+0,0% |
+
+2024 |
+
+9312C |
+
+RÉSEAU D'AULNAY-SOUS-BOIS - LE GROS SAULE |
+
+AULNAY-SOUS-BOIS |
+
+0,187 |
+
+0,236 |
+
+0,0% |
+
+2024 |
+
+9313C |
+
+RÉSEAU DE LA COURNEUVE |
+
+LA COURNEUVE |
+
+0,078 |
+
+0,079 |
+
+64,4% |
+
+2024 |
+
+9314C |
+
+RÉSEAU DE TREMBLAY EN FRANCE |
+
+TREMBLAY EN FRANCE |
+
+0,034 |
+
+0,052 |
+
+87,2% |
+
+2024 |
+
+9315C |
+
+RÉSEAU DU BLANC MESNIL |
+
+LE BLANC-MESNIL |
+
+0,088 |
+
+0,112 |
+
+52,2% |
+
+2024 |
+
+9316C |
+
+RESEAU DE BONDY |
+
+BONDY |
+
+0,124 |
+
+0,155 |
+
+47,0% |
+
+2024 |
+
+9317C |
+
+GARONOR |
+
+AULNAY-SOUS-BOIS |
+
+0,482 |
+
+0,521 |
+
+0,0% |
+
+2024 |
+
+9321C |
+
+AULNAY 3000 - ROSE DES VENTS |
+
+AULNAY-SOUS-BOIS |
+
+0,201 |
+
+0,241 |
+
+0,0% |
+
+2024 |
 
 9322F |
 
@@ -14448,13 +14596,363 @@ STADE ENERGIES SAS |
 
 SAINT-DENIS |
 
-0,007 |
+0,008 |
 
-0,014 |
+0,016 |
 
-ND |
+- |
 
 Moyenne CO₂ |
+
+9324C |
+
+RÉSEAU DE ROSNY-SOUS-BOIS /NOISY-LE-SEC / MONTREUI |
+
+ROSNY-SOUS-BOIS |
+
+0,045 |
+
+0,043 |
+
+79,6% |
+
+2024 |
+
+9326C |
+
+RÉSEAU DE CHALEUR DE LA ZAC DES DOCKS SAINT-OUEN |
+
+SAINT-OUEN-SUR-SEINE |
+
+0,064 |
+
+0,077 |
+
+80,3% |
+
+2024 |
+
+9327C |
+
+OPH DE DRANCY |
+
+DRANCY |
+
+0,100 |
+
+0,123 |
+
+54,9% |
+
+2024 |
+
+9328C |
+
+RESEAU DE NOISY LE GRAND |
+
+NOISY LE GRAND |
+
+0,072 |
+
+0,086 |
+
+73,4% |
+
+2024 |
+
+9329C |
+
+RÉSEAU DE DUGNY - LE BOURGET |
+
+DUGNY |
+
+0,249 |
+
+0,280 |
+
+0,0% |
+
+2024 |
+
+9401C |
+
+RÉSEAU DE LIMEIL-BRÉVANNES |
+
+LIMEIL-BREVANNES |
+
+0,102 |
+
+0,125 |
+
+61,8% |
+
+Moyenne |
+
+9402C |
+
+RÉSEAUX DE CRÉTEIL - SCUC |
+
+CRETEIL |
+
+0,076 |
+
+0,087 |
+
+68,3% |
+
+Moyenne |
+
+9403C |
+
+RÉSEAU DE CHOISY-VITRY |
+
+VITRY-SUR-SEINE |
+
+0,127 |
+
+0,150 |
+
+65,0% |
+
+2024 |
+
+9404C |
+
+RÉSEAU DE FONTENAY SOUS BOIS |
+
+FONTENAY-SOUS-BOIS |
+
+0,167 |
+
+0,203 |
+
+25,7% |
+
+2024 |
+
+9406C |
+
+RÉSEAU DE IVRY PORT |
+
+IVRY-SUR-SEINE |
+
+0,064 |
+
+0,084 |
+
+79,1% |
+
+2024 |
+
+9408C |
+
+MARCHÉ INTERNATIONAL DE RUNGIS |
+
+RUNGIS |
+
+0,005 |
+
+0,010 |
+
+97,8% |
+
+2024 |
+
+9409C |
+
+RÉSEAU DE SUCY EN BRIE |
+
+SUCY-EN-BRIE |
+
+0,006 |
+
+0,022 |
+
+97,4% |
+
+2024 |
+
+9410C |
+
+RÉSEAU DE CACHAN |
+
+CACHAN |
+
+0,065 |
+
+0,084 |
+
+71,6% |
+
+Moyenne |
+
+9411C |
+
+RÉSEAU DE CHAMPIGNY SUR MARNE |
+
+CHAMPIGNY-SUR-MARNE |
+
+0,064 |
+
+0,087 |
+
+72,6% |
+
+Moyenne |
+
+9412C |
+
+RÉSEAU DE MAISONS-ALFORT |
+
+MAISONS-ALFORT |
+
+0,101 |
+
+0,122 |
+
+57,6% |
+
+2024 |
+
+9413C |
+
+RÉSEAU DE THIAIS |
+
+THIAIS |
+
+0,023 |
+
+0,040 |
+
+90,8% |
+
+2024 |
+
+9414C |
+
+BONNEUIL-RESEAU CHALEUR |
+
+BONNEUIL-SUR-MARNE |
+
+0,011 |
+
+0,027 |
+
+95,7% |
+
+Moyenne |
+
+9415C |
+
+RÉSEAU DE CHEVILLY-LARUE L'HAŸ-LES-ROSES VILLEJUIF |
+
+CHEVILLY-LARUE |
+
+0,045 |
+
+0,055 |
+
+80,0% |
+
+2024 |
+
+9419C |
+
+RÉSEAU DE FRESNES |
+
+FRESNES |
+
+0,079 |
+
+0,096 |
+
+65,4% |
+
+2024 |
+
+9420C |
+
+RÉSEAU D'ORLY |
+
+ORLY |
+
+0,037 |
+
+0,054 |
+
+85,1% |
+
+2024 |
+
+9421C |
+
+RÉSEAU D'ALFORTVILLE |
+
+ALFORTVILLE |
+
+0,021 |
+
+0,037 |
+
+91,0% |
+
+2024 |
+
+9422C |
+
+ARCUEIL-GENTILLY |
+
+ARCUEIL |
+
+0,048 |
+
+0,053 |
+
+79,2% |
+
+Moyenne |
+
+9423C |
+
+RÉSEAU D'IVRY CENTRE VILLE (OBSERVATION POUR 2026) |
+
+IVRY-SUR-SEINE |
+
+0,065 |
+
+0,089 |
+
+78,7% |
+
+2024 |
+
+9424C |
+
+RÉSEAU DE VILLENEUVE SAINT GEORGES - SCVG |
+
+VILLENEUVE-SAINT-GEORGES |
+
+0,105 |
+
+0,125 |
+
+56,0% |
+
+Moyenne |
+
+9425C |
+
+RÉSEAU CHAUD ADP ORLY |
+
+ORLY |
+
+0,053 |
+
+0,068 |
+
+81,3% |
+
+2024 |
 
 9425F |
 
@@ -14466,9 +14964,121 @@ ORLY |
 
 0,018 |
 
-ND |
+- |
 
-2023 |
+2024 |
+
+9429C |
+
+MAISON ALFORT |
+
+ALFORTVILLE |
+
+0,215 |
+
+0,242 |
+
+0,0% |
+
+2024 |
+
+9430C |
+
+RÉSEAU ENERUNGIS |
+
+RUNGIS |
+
+0,007 |
+
+0,016 |
+
+97,6% |
+
+2024 |
+
+9501C |
+
+IDEX CROIX ROUGE GEOTHERMIE |
+
+TAVERNY |
+
+0,236 |
+
+0,266 |
+
+0,0% |
+
+2024 |
+
+9502C |
+
+GRAND ENSEMBLE SARCELLES-LOCHERES |
+
+SARCELLES |
+
+0,077 |
+
+0,092 |
+
+67,6% |
+
+Moyenne |
+
+9503C |
+
+RÉSEAU DE CERGY - PONTOISE |
+
+CERGY |
+
+0,086 |
+
+0,103 |
+
+69,4% |
+
+2024 |
+
+9507C |
+
+ZUP DE SANNOIS - ERMONT - FRANCONVILLE |
+
+FRANCONVILLE |
+
+0,099 |
+
+0,125 |
+
+72,1% |
+
+2024 |
+
+9509C |
+
+RÉSEAU D'ARGENTEUILRÉSEAU D'ARGENTEUIL - ARGEVAL |
+
+ARGENTEUIL |
+
+0,045 |
+
+0,055 |
+
+80,8% |
+
+2024 |
+
+9510C |
+
+RÉSEAUX CHAUD ADP ROISSY |
+
+ROISSY-EN-FRANCE |
+
+0,177 |
+
+0,203 |
+
+24,0% |
+
+Moyenne |
 
 9510F |
 
@@ -14480,9 +15090,149 @@ ROISSY-EN-FRANCE |
 
 0,019 |
 
-ND |
+- |
 
-2023 |
+2024 |
+
+9511C |
+
+ZUP DE L'EPINE GUYON |
+
+FRANCONVILLE |
+
+0,218 |
+
+0,255 |
+
+0,0% |
+
+2024 |
+
+9514C |
+
+RÉSEAU DE VILLIERS LE BEL - GONESSE |
+
+VILLIERS-LE-BEL |
+
+0,092 |
+
+0,120 |
+
+56,7% |
+
+2024 |
+
+9515C |
+
+RÉSEAU DE PONTOISE |
+
+PONTOISE |
+
+0,204 |
+
+0,245 |
+
+0,0% |
+
+2024 |
+
+9516C |
+
+ZAC DE MONTEDOUR |
+
+FRANCONVILLE |
+
+0,212 |
+
+0,238 |
+
+0,0% |
+
+2024 |
+
+9518C |
+
+RÉSEAU DE GOUSSAINVILLE |
+
+GOUSSAINVILLE |
+
+0,023 |
+
+0,030 |
+
+90,0% |
+
+Moyenne |
+
+9519C |
+
+PLACO |
+
+ARGENTEUIL |
+
+0,000 |
+
+0,004 |
+
+100,0% |
+
+2024 |
+
+9520C |
+
+RESEAU DE VEMARS |
+
+VEMARS |
+
+0,287 |
+
+0,321 |
+
+0,0% |
+
+2024 |
+
+9521C |
+
+LES CHENES |
+
+ERMONT |
+
+0,232 |
+
+0,261 |
+
+0,0% |
+
+2024 |
+
+9522C |
+
+RÉSEAU DE GARGES-LES-GONESSE |
+
+GARGES-LES-GONESSE |
+
+0,272 |
+
+0,305 |
+
+0,0% |
+
+2024 |
+
+9523C |
+
+AGRIVALSEINE ENERGIE |
+
+BEZONS |
+
+0,057 |
+
+0,074 |
+
+80,8% |
+
+2024 |
 
 AUTRES RESEAUX DE CHALEUR |
 
@@ -14506,4 +15256,4 @@ AUTRES RÉSEAUX DE FROID |
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 11 avril 2025 (NOR : ECOR2506297A), ces dispositions entrent en vigueur un mois après la publication dudit arrêté, soit le 26 mai 2025.
+Conformément à l'article 2 de l'arrêté du 30 mars 2026 (NOR : ECOR2605189A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur un mois après sa publication, soit le 25 mai 2026.
