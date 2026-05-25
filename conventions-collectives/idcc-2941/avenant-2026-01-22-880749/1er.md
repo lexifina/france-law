@@ -1,0 +1,181 @@
+# Article 1er
+
+L'article 2 du titre III de la convention collective est remplacé par les dispositions suivantes :
+
+« Article 2
+
+Positionnement des emplois par filière et par catégorie
+
+Cet article liste les métiers les plus courants au sein de la branche et les positionne au sein des emplois génériques de la branche. La liste des métiers énumérés ci-dessous n'est pas exhaustive :
+
+|
+
+Filière intervention |
+
+Filière support |
+
+Catégorie |
+
+Catégorie |
+
+Employé |
+
+Technicien
+
+Agent de maîtrise |
+
+Cadre |
+
+Employé |
+
+Technicien
+
+Agent de maîtrise |
+
+Cadre |
+
+Les emplois |
+
+Degré 1 :
+
+– aide à domicile
+
+– agent polyvalent
+
+– livreur de repas
+
+– garde d'enfant
+
+– animateur petite enfance |
+
+Degré 1 :
+
+– aide-soignant
+
+– technicien de l'intervention sociale et familiale
+
+– moniteur - éducateur |
+
+Degré 1 :
+
+– psychologue |
+
+Degré 1 :
+
+– agent employé de bureau
+
+– agent employé d'entretien |
+
+Degré 1 :
+
+– secrétaire de direction
+
+– assistant technique (RH, communication, qualité…)
+
+– secrétaire médical
+
+– assistant responsable de secteur |
+
+Degré 1 :
+
+– cadre administratif ou technique (RH, communication, qualité…)
+
+– cadre de secteur ou de proximité
+
+– infirmier coordinateur
+
+– responsable de service
+
+– responsable d'entité
+
+– responsable qualité
+
+– chef de service
+
+– responsable de la coordination aide et soin |
+
+Les emplois |
+
+Degré 2 :
+
+– auxiliaire de vie sociale
+
+– aide médico-psychologique
+
+– accompagnant éducatif et social
+
+– auxiliaire de puériculture |
+
+Degré 2 :
+
+– infirmier
+
+– chargé d'évaluation
+
+– éducateur de jeunes enfants
+
+– ergothérapeute
+
+– délégué à la tutelle
+
+– médiateur familial
+
+– pédicure-podologue
+
+– diététicien
+
+– psychomotricien
+
+– éducateur spécialisé
+
+– kinésithérapeute |
+
+Degré 2 :
+
+– médecin
+
+– sage-femme |
+
+Degré 2 :
+
+– secrétaire
+
+– aide comptable
+
+– hôte d'accueil
+
+– technicien téléalarme |
+
+Degré 2 :
+
+– assistant de direction
+
+– chargé de développement
+
+– comptable
+
+– formateur
+
+– responsable de secteur
+
+– accompagnant de proximité
+
+– conseiller technique (RH, communication, qualité…)
+
+– maîtresse de maison
+
+– qualiticien
+
+– coordonnateur aide et soin |
+
+Degré 2 :
+
+– directeur de fédération départementale
+
+– directeur d'entité
+
+– directeur de service
+
+– directeur général d'entité
+
+– médecin coordinateur |
