@@ -1,0 +1,9 @@
+# Réponse à la question n° 12944
+
+- Question : [12944](12944.md) — Question n° 12944 — Saturation des sessions d'attestation de sécurité routière (ASR)
+
+## Réponse
+
+*JO du 2026-05-26, page 4617*
+
+L'éducation à la sécurité routière est un aspect essentiel de l'éducation à la citoyenneté et s'inscrit dans le cadre d'un continuum éducatif tout au long de la vie notamment au sein des établissements scolaires. L'article R. 211-1 du code de la route définit les conditions d'organisation et de délivrance des attestations scolaires de sécurité routière de premier et de second niveau (ASSR 1 et 2) et de l'attestation de sécurité routière (ASR). Cette dernière concerne les personnes qui ne sont pas scolarisées ou en contrat d'apprentissage. L'organisation du contrôle des connaissances en vue de la délivrance de l'ASR a été confiée aux groupements d'établissements publics locaux d'enseignements (GRETA) sous la responsabilité des recteurs d'académie et du ministère de l'éducation nationale. Le ministère de l'intérieur prend, quant à lui, à sa charge le financement de l'organisation de l'épreuve dans le cadre du programme 207 « Sécurité et éducation routières ». Les difficultés évoquées sont récurrentes sur certains territoires. De ce fait, dès 2018, le Gouvernement avait décidé de dispenser les conducteurs de plus de 21 ans de la preuve de l'obtention de l'ASSR ou de l'ASR à l'appui de leur demande de permis de conduire, limitant de fait la charge pesant sur les GRETA. Dans le même état d'esprit, la convention-cadre qui définit les conditions d'organisation de l'ASR ne prévoit aucune limitation du nombre des places pouvant être ouvertes par les GRETA. Toutefois, les mesures prises précédemment n'ont pas permis de lever totalement les freins liés à l'obtention des ASSR ou de l'ASR. En lien avec ce constat et fort des signalements qui lui ont été remontés, le ministère de l'intérieur travaille à des nouvelles solutions.
