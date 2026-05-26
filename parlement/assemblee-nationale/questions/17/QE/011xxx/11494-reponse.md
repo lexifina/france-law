@@ -1,0 +1,9 @@
+# Réponse à la question n° 11494
+
+- Question : [11494](11494.md) — Question n° 11494 — Evolution du volet médical du certificat de décès et sédation
+
+## Réponse
+
+*JO du 2026-05-26, page 4673*
+
+A l'automne 2025, des travaux ont été lancés par le ministère de la santé et l'Institut national de la santé et de la recherche médicale (INSERM) pour actualiser le volet médical du certificat de décès afin, d'une part, de l'aligner sur le modèle international, et, d'autre part, de permettre le suivi de nouvelles données. Il est apparu que la révision de ce certificat était une opportunité pour mieux suivre le nombre de Sédation profonde et continue maintenue jusqu'au décès (SPCMJDC) pratiquées en France alors que les rapports et débats récents sur l'application de la loi Claeys-Leonetti ont mis en évidence le manque de données concernant cette pratique médicale. Cette révision pourrait prendre la forme de l'ajout d'une nouvelle rubrique permettant au professionnel remplissant le certificat d'indiquer si le décès a été précédé ou non de la mise en place d'une SPCMJDC. Cette nouvelle rubrique ne se substituerait pas aux rubriques permettant d'indiquer les causes du décès et les circonstances apparentes du décès (mort naturelle, accident, suicide, atteinte volontaire à la vie d'autrui, complication de soins médicaux, …). Catégoriser à part la SPCMJDC au sein du certificat de décès ne saurait avoir pour conséquence une quelconque modification du statut juridique de cette pratique qui relève de l'acte médical comme le prévoit très clairement le code de la santé publique. D'ailleurs, le certificat de décès prévoit également une rubrique spécifique pour identifier si une intervention chirurgicale a été pratiquée au cours des quatre dernières semaines. En outre, afin que cette nouvelle rubrique soit bien comprise et bien remplie par les professionnels, elle s'accompagnera d'explications détaillées dans la notice du certificat de décès.
