@@ -1,0 +1,10 @@
+# Tours Mairie - Production : arrêté 2 — ARRETE DE DEPORT - MONSIEUR PIERRE JOUAN - APF FRANCE HANDICAP
+
+- Collectivité : Tours Mairie - Production
+- SIREN : 213702616
+- Code INSEE : 37261
+- Date : 2026-05-27
+- Matière : 5.6 Exercice des mandats locaux
+- Objet : ARRETE DE DEPORT - MONSIEUR PIERRE JOUAN - APF FRANCE HANDICAP
+- Acte publié : https://data.tours-metropole.fr/api/explore/v2.1/catalog/datasets/arretes-et-decisions-tours/files/f7df69a0df1ca3aab6118045244631d7
+- Jeu de données : https://www.data.gouv.fr/datasets/661dc5f8d73c53b03a00c511
