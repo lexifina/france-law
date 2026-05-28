@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260207627
+
+- Question : [SEQ260207627](seq260207627.md) — Prise en compte du biométhane 2G par pyro-gazéification dans la trajectoire post-2028 des certificats de production de biogaz
+
+## Réponse
+
+*Porte-parole du Gouvernement et Énergie, JO du 2026-05-28, page 2611*
+
+Le dispositif des certificats de production de biogaz (CPB), défini aux articles L. 446-31 et suivants du code de l'énergie, vise à favoriser la production de biométhane injecté dans les réseaux de gaz naturel et ainsi à contribuer à l'atteinte des objectifs de la programmation pluriannuelle de l'énergie (PPE). A ce stade, le dispositif des CPB repose principalement sur la filière de production de biométhane par méthanisation, qui dispose d'un niveau de maturité industrielle suffisant permettant son intégration dans un mécanisme de marché. Le Gouvernement suit néanmoins avec attention le développement d'autres filières de gaz renouvelables et bas-carbone, notamment celles reposant sur des procédés thermochimiques tels que la pyro-gazéificiation, ou la gazéification en phase aqueuse supercritique parfois appelée gazéification hydrothermale. Ces méthodes de productions sont susceptibles à terme de contribuer à la diversification des moyens de production de biométhane. Le projet Bio-Méthane Provence à Gardanne que vous visez dans votre question est un exemple de projet utilisant la technologie de pyro-gazéification. Le Gouvernement a engagé une réflexion sur l'opportunité d'ouvrir les certificats de production de biogaz à tout ou partie de ces technologies innovantes de production. Une proposition de trajectoire pour les certificats de production de biogaz pour la période 2029-2035 a été mise en consultation en avril. Un éventuel élargissement du dispositif des CPB à de nouvelles technologies de production de biogaz pourra être envisagé suivant les retours des acteurs dans le cadre de cette consultation.
