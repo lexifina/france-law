@@ -1,28 +1,22 @@
 # Article Annexe I
 
-ANNEXES
+Répartition des quotas
 
-ANNEXE 1
+Libellé du quota |
 
-RÉPARTITION DES QUOTAS
+Zone de référence du Conseil international pour l'exploration
 
-Libellé
-
-du quota |
-
-Zone de référence du Conseil international pour l'exploration de la mer (CIEM) |
+de la mer (CIEM) |
 
 Code stock |
 
 |
 
-Navires non adhérant à
+Navires non adhérant à une organisation de producteurs |
 
-une organisation de producteurs |
+Navires adhérant à l'organisation de producteurs
 
-Navires adhérant à l'organisation
-
-de producteurs Les pêcheurs d'Aquitaine |
+Les pêcheurs d'Aquitaine |
 
 Navires adhérant à l'organisation de producteurs
 
@@ -32,13 +26,13 @@ Navires adhérant à l'organisation de producteurs
 
 Coopérative Bretagne-Nord (COBRENORD) |
 
-Navires adhérant à l'organisation de producteurs Fonds régional
+Navires adhérant à l'organisation de producteurs
 
-d'organisation du marché du poisson du Nord-Normandie (FROM Nord) |
+Fonds régional d'organisation du marché du poisson du Nord-Normandie (FROM Nord) |
 
-Navires adhérant à l'organisation de producteurs Fonds régional
+Navires adhérant à l'organisation de producteurs
 
-d'organisation du marché du poisson du Sud-Ouest (FROM Sud-Ouest) |
+Fonds régional d'organisation du marché du poisson du Sud-Ouest (FROM Sud-Ouest) |
 
 Navires adhérant à l'organisation de producteurs
 
@@ -48,27 +42,21 @@ Navires adhérant à l'organisation de producteurs
 
 Marins-Pêcheurs Normands (OPN) |
 
-Navires adhérant à l'organisation de producteurs Organisation de
+Navires adhérant à l'organisation de producteurs
 
-producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN) |
+Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN) |
 
-Navires adhérant à l'organisation
+Navires adhérant à l'organisation de producteurs
 
-de producteurs Les pêcheurs de Bretagne |
+Les pêcheurs de Bretagne |
 
-Navires adhérant
+Navires adhérant à l'organisation de producteurs VENDEE |
 
-à l'organisation de producteurs VENDEE |
-
-Navires adhérant
-
-à l'organisation de producteurs ORTHONGEL |
+Navires adhérant à l'organisation de producteurs ORTHONGEL |
 
 Total |
 
-Aiguillat
-
-Squalus acanthias |
+Aiguillat |
 
 VI, VII et VIII ; eaux du RU et internationales de la zone V, eaux internationales des zones I, XII, XIV |
 
@@ -102,11 +90,9 @@ Sous-quota (tonnes) |
 
 1 943 |
 
-Anchois
+Squalus acanthias |
 
-Engraulis
-
-encrasicolus |
+Anchois |
 
 VIII |
 
@@ -140,13 +126,11 @@ Sous-quota (tonnes) |
 
 2 938 |
 
+Engraulis encrasicolus |
+
 Autres espèces |
 
-Eaux
-
-norvégiennes
-
-de la zone IV |
+Eaux norvégiennes de la zone IV |
 
 OTH/04-N. |
 
@@ -178,9 +162,7 @@ Sous-quota (tonnes) |
 
 52 |
 
-Baudroie
-
-Lophiidae |
+Baudroie |
 
 VII |
 
@@ -214,9 +196,9 @@ Sous-quota (tonnes) |
 
 23 756 |
 
-Baudroie
-
 Lophiidae |
+
+Baudroie |
 
 VI ; eaux du Royaume-Uni et eaux internationales de la zone V b ; eaux internationales des zones XII et XIV |
 
@@ -250,9 +232,9 @@ Sous-quota (tonnes) |
 
 3 472 |
 
-Baudroie
-
 Lophiidae |
+
+Baudroie |
 
 VIII a, b, d, e |
 
@@ -286,9 +268,9 @@ Sous-quota (tonnes) |
 
 9 145 |
 
-Brosme
+Lophiidae |
 
-Brosme brosme |
+Brosme |
 
 Eaux du Royaume-Uni et eaux UE de la zone IV |
 
@@ -322,9 +304,9 @@ Sous-quota (tonnes) |
 
 29 |
 
-Brosme
-
 Brosme brosme |
+
+Brosme |
 
 Eaux du Royaume-Uni et eaux internationales des zones I, II et XIV |
 
@@ -358,9 +340,9 @@ Sous-quota (tonnes) |
 
 5 |
 
-Brosme
-
 Brosme brosme |
+
+Brosme |
 
 Eaux du Royaume-Uni et eaux internationales des zones V, VI et VII |
 
@@ -394,9 +376,9 @@ Sous-quota (tonnes) |
 
 2 876 |
 
-Cabillaud
+Brosme brosme |
 
-Gadus morhua |
+Cabillaud |
 
 VII a |
 
@@ -430,9 +412,9 @@ Sous-quota (tonnes) |
 
 0 |
 
-Cabillaud
-
 Gadus morhua |
+
+Cabillaud |
 
 VII d |
 
@@ -466,9 +448,9 @@ Sous-quota (tonnes) |
 
 520 |
 
-Cabillaud
-
 Gadus morhua |
+
+Cabillaud |
 
 Eaux internationales des zones I et II b (1) |
 
@@ -484,7 +466,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-388 |
+643 |
 
 0 |
 
@@ -500,15 +482,13 @@ Sous-quota (tonnes) |
 
 0 |
 
-388 |
-
-Cabillaud
+643 |
 
 Gadus morhua |
 
-Eaux
+Cabillaud |
 
-norvégiennes |
+Eaux norvégiennes |
 
 COD/1N2AB. |
 
@@ -540,9 +520,9 @@ Sous-quota (tonnes) |
 
 1 920 |
 
-Cabillaud
-
 Gadus morhua |
+
+Cabillaud |
 
 IV ; eaux du Royaume-Uni de la zones II a ; partie de la zone III a non comprise dans le Skagerrak ni dans le Kattegat |
 
@@ -576,9 +556,9 @@ Sous-quota (tonnes) |
 
 320 |
 
-Cabillaud
-
 Gadus morhua |
+
+Cabillaud |
 
 VIa ; eaux du Royaume-Uni et eaux internationales de la zone Vb à l'est de 12° 00 O |
 
@@ -612,9 +592,9 @@ Sous-quota (tonnes) |
 
 66 |
 
-Cabillaud
-
 Gadus morhua |
+
+Cabillaud |
 
 VIb ; eaux du Royaume-Uni et eaux internationales de la zone Vb à l'ouest de 12° 00 O et des zones XII et XIV |
 
@@ -648,9 +628,9 @@ Sous-quota (tonnes) |
 
 10 |
 
-Cabillaud
-
 Gadus morhua |
+
+Cabillaud |
 
 VII b, c,e-k, VIII, IX et X ; eaux UE de la zone COPACE 34.1.1 |
 
@@ -684,9 +664,9 @@ Sous-quota (tonnes) |
 
 122 |
 
-Cardine
+Gadus morhua |
 
-Lepidorhombus spp. |
+Cardine |
 
 Eaux du Royaume-Uni et eaux UE de la zone IV ; eaux du Royaume-Uni de la zone IIa |
 
@@ -720,9 +700,9 @@ Sous-quota (tonnes) |
 
 50 |
 
-Cardine
-
 Lepidorhombus spp. |
+
+Cardine |
 
 VII |
 
@@ -756,9 +736,9 @@ Sous-quota (tonnes) |
 
 4864 |
 
-Cardine
-
 Lepidorhombus spp. |
+
+Cardine |
 
 VI ; eaux du Royaume-Uni et eaux internationales de la zone Vb ; eaux internationales des zones XII et XIV |
 
@@ -792,9 +772,9 @@ Sous-quota (tonnes) |
 
 1 874 |
 
-Cardine
-
 Lepidorhombus spp. |
+
+Cardine |
 
 VIII a, b,d, e |
 
@@ -828,9 +808,9 @@ Sous-quota (tonnes) |
 
 637 |
 
-Chinchard
+Lepidorhombus spp. |
 
-Trachurus spp. |
+Chinchard |
 
 Eaux du Royaume-Uni des zones II a, IV a ; VI, VII a-c, VII e-k, VIII a, VIII b, VIII d et VIII e ; eaux du Royaume-Uni et eaux internationales de la zone V b ; eaux internationales des zones XII et XIV |
 
@@ -864,9 +844,9 @@ Sous-quota (tonnes) |
 
 2 463 |
 
-Chinchard
-
 Trachurus spp. |
+
+Chinchard |
 
 Eaux du Royaume-Uni et aux UE des zones IV b, IV c et VII d |
 
@@ -900,9 +880,9 @@ Sous-quota (tonnes) |
 
 22 |
 
-Dorade rose
+Trachurus spp. |
 
-Pagellus bogaraveo |
+Dorade rose |
 
 VI, VII et VIII |
 
@@ -936,9 +916,9 @@ Sous-quota (tonnes) |
 
 4 |
 
-Eglefin
+Pagellus bogaraveo |
 
-Melanogrammus aeglefinus |
+Eglefin |
 
 VII a |
 
@@ -972,15 +952,11 @@ Sous-quota (tonnes) |
 
 35 |
 
-Eglefin
-
 Melanogrammus aeglefinus |
 
-Eaux
+Eglefin |
 
-norvégiennes
-
-des zones I et II |
+Eaux norvégiennes des zones I et II |
 
 HAD/1N2AB. |
 
@@ -1012,15 +988,11 @@ Sous-quota (tonnes) |
 
 188 |
 
-Eglefin
-
 Melanogrammus aeglefinus |
 
-IV ; eaux
+Eglefin |
 
-du Royaume-Uni
-
-de la zone II |
+IV ; eaux du Royaume-Uni de la zone II |
 
 HAD/2AC4. |
 
@@ -1052,9 +1024,9 @@ Sous-quota (tonnes) |
 
 4 037 |
 
-Eglefin
-
 Melanogrammus aeglefinus |
+
+Eglefin |
 
 VII b-k, VIII, IX et X ; eaux UE de la zone COPACE 34.1.1 |
 
@@ -1088,11 +1060,9 @@ Sous-quota (tonnes) |
 
 945 |
 
-Flétan noir
+Melanogrammus aeglefinus |
 
-Reinhardtius
-
-hippoglossoides |
+Flétan noir |
 
 VI ; eaux du Royaume-Uni et eaux UE de la zone IV ; eaux du Royaume-Uni de la zone IIa ; eaux du Royaume-Uni et eaux internationales de la zone Vb |
 
@@ -1126,9 +1096,9 @@ Sous-quota (tonnes) |
 
 371 |
 
-Germon
+Reinhardtius hippoglossoides |
 
-Thunnus alalunga |
+Germon |
 
 Océan Atlantique au nord de 5° nord |
 
@@ -1136,31 +1106,33 @@ ALB/AN05N |
 
 Sous-quota (tonnes) |
 
-58 |
+75 |
 
-1155 |
+1497 |
 
-133 |
+173 |
 
-43 |
+56 |
 
-152 |
+197 |
 
-954 |
+1237 |
 
-254 |
-
-0 |
-
-288 |
-
-2235 |
-
-1510 |
+329 |
 
 0 |
 
-6 782 |
+373 |
+
+2897 |
+
+1957 |
+
+0 |
+
+8 791 |
+
+Thunnus alalunga |
 
 Dont prises accessoires |
 
@@ -1190,9 +1162,7 @@ Dont prises accessoires |
 
 3 |
 
-Germon
-
-Thunnus alalunga |
+Germon |
 
 Océan Atlantique au sud de 5° nord |
 
@@ -1222,13 +1192,13 @@ Sous-quota (tonnes) |
 
 0 |
 
-284 |
+357 |
 
-284 |
+357 |
 
-Grande argentine
+Thunnus alalunga |
 
-Argentina silus |
+Grande argentine |
 
 VI et VII ; eaux du Royaume-Uni et eaux internationales de la zone V |
 
@@ -1262,9 +1232,9 @@ Sous-quota (tonnes) |
 
 14 |
 
-Grenadiers
+Argentina silus |
 
-Macrourus spp. |
+Grenadiers |
 
 VI et VII ; eaux du Royaume-Uni et eaux internationales de la zone Vb |
 
@@ -1298,9 +1268,9 @@ Sous-quota (tonnes) |
 
 1 030 |
 
-Grenadiers
-
 Macrourus spp. |
+
+Grenadiers |
 
 Eaux UE et eaux internationales des zones VIII, IX, X, XII et XIV |
 
@@ -1334,9 +1304,9 @@ Sous-quota (tonnes) |
 
 55 |
 
-Hareng
+Macrourus spp. |
 
-Clupea harengus |
+Hareng |
 
 Eaux du Royaume-Uni, eaux des Îles Féroé, eaux norvégiennes et eaux internationales des zones I et II |
 
@@ -1370,9 +1340,9 @@ Sous-quota (tonnes) |
 
 461 |
 
-Hareng
-
 Clupea harengus |
+
+Hareng |
 
 Eaux UE, eaux du Royaume-Uni et eaux norvégiennes de la zone IV au nord de 53° 30′ N |
 
@@ -1406,9 +1376,9 @@ Sous-quota (tonnes) |
 
 15 874 |
 
-Hareng
-
 Clupea harengus |
+
+Hareng |
 
 IV c, VII d |
 
@@ -1442,9 +1412,9 @@ Sous-quota (tonnes) |
 
 7 553 |
 
-Hareng
-
 Clupea harengus |
+
+Hareng |
 
 VI b et VI a N ; eaux du Royaume-Uni et eaux internationales des zones V b |
 
@@ -1478,9 +1448,9 @@ Sous-quota (tonnes) |
 
 27 |
 
-Hareng
-
 Clupea harengus |
+
+Hareng |
 
 VII g, h, j, k |
 
@@ -1514,9 +1484,9 @@ Sous-quota (tonnes) |
 
 77 |
 
-Hareng
-
 Clupea harengus |
+
+Hareng |
 
 VII e, f |
 
@@ -1550,9 +1520,9 @@ Sous-quota (tonnes) |
 
 54 |
 
-Langoustine
+Clupea harengus |
 
-Nephrops norvegicus |
+Langoustine |
 
 VII |
 
@@ -1586,9 +1556,9 @@ Sous-quota (tonnes) |
 
 2 205 |
 
-Langoustine
-
 Nephrops norvegicus |
+
+Langoustine |
 
 dont au maximum peuvent être pêchés dans le banc de Porcupine (unité 16) |
 
@@ -1622,9 +1592,9 @@ Sous-quota (tonnes) |
 
 410 |
 
-Langoustine
-
 Nephrops norvegicus |
+
+Langoustine |
 
 VIII a, b, d, e |
 
@@ -1658,9 +1628,9 @@ Sous-quota (tonnes) |
 
 2 953 |
 
-Lieu jaune
+Nephrops norvegicus |
 
-Pollachius pollachius |
+Lieu jaune |
 
 VII |
 
@@ -1694,9 +1664,9 @@ Sous-quota (tonnes) |
 
 1 396 |
 
-Lieu jaune
-
 Pollachius pollachius |
+
+Lieu jaune |
 
 VIII a, b, d, e |
 
@@ -1730,15 +1700,11 @@ Sous-quota (tonnes) |
 
 663 |
 
-Lieu noir
+Pollachius pollachius |
 
-Pollachius virens |
+Lieu noir |
 
-Eaux
-
-norvégiennes
-
-des zones I et II |
+Eaux norvégiennes des zones I et II |
 
 POK/1N2AB. |
 
@@ -1770,15 +1736,11 @@ Sous-quota (tonnes) |
 
 55 |
 
-Lieu noir
-
 Pollachius virens |
 
-III a et IV ; eaux
+Lieu noir |
 
-du Royaume-Uni
-
-de la zone IIa |
+III a et IV ; eaux du Royaume-Uni de la zone IIa |
 
 POK/2C3A4 |
 
@@ -1810,9 +1772,9 @@ Sous-quota (tonnes) |
 
 10 883 |
 
-Lieu noir
-
 Pollachius virens |
+
+Lieu noir |
 
 VI ; eaux du Royaume-Uni et eaux internationales des zones V b, XII et XIV |
 
@@ -1846,23 +1808,11 @@ Sous-quota (tonnes) |
 
 2 286 |
 
-Limande sole
+Pollachius virens |
 
-et plie grise
+Limande sole et plie grise |
 
-Microstomus kitt
-
-& Glytocephalus
-
-cynoglossus |
-
-Eaux
-
-du Royaume-Uni
-
-et eaux UE
-
-des zones II a et IV |
+Eaux du Royaume-Uni et eaux UE des zones II a et IV |
 
 L/W/2AC4-C |
 
@@ -1894,17 +1844,13 @@ Sous-quota (tonnes) |
 
 71 |
 
+Microstomus kitt & Glytocephalus cynoglossus |
+
 Limande sole
 
 Microstomus kitt |
 
-Eaux
-
-du Royaume-Uni
-
-et eaux UE
-
-des zones II a et IV |
+Eaux du Royaume-Uni et eaux UE des zones II a et IV |
 
 LEM/2AC4-C |
 
@@ -1936,19 +1882,9 @@ Sous-quota (tonnes) |
 
 31 |
 
-Plie grise
+Plie grise Glytocephalus cynoglossus |
 
-Glytocephalus
-
-cynoglossus |
-
-Eaux
-
-du Royaume-Uni
-
-et eaux UE
-
-des zones II a et IV |
+Eaux du Royaume-Uni et eaux UE des zones II a et IV |
 
 WIT/2AC4-C |
 
@@ -1980,9 +1916,7 @@ Sous-quota (tonnes) |
 
 36 |
 
-Lingue bleue
-
-Molva dypterigia |
+Lingue bleue Molva dypterigia |
 
 Eaux du Royaume-Uni et eaux internationales de la zone II ; eaux du Royaume-Uni et eaux UE de la zone IV |
 
@@ -2016,9 +1950,7 @@ Sous-quota (tonnes) |
 
 5 |
 
-Lingue bleue
-
-Molva dypterigia |
+Lingue bleue |
 
 VI et VII ; eaux du Royaume-Uni et eaux internationales des zones Vb |
 
@@ -2052,17 +1984,11 @@ Sous-quota (tonnes) |
 
 7 423 |
 
-Lingue
+Molva dypterigia |
 
-et lingue bleue
+Lingue et lingue bleue |
 
-Molva molva & Molva dypterigia |
-
-Eaux
-
-des îles Féroé
-
-de la zone V b |
+Eaux des îles Féroé de la zone V b |
 
 B/L/05B-F. |
 
@@ -2094,17 +2020,11 @@ Sous-quota (tonnes) |
 
 0 |
 
-Lingue franche
+Molva molva & Molva dypterigia |
 
-Molva molva |
+Lingue franche |
 
-Eaux
-
-du Royaume-Uni
-
-et eaux UE
-
-de la zone IV |
+Eaux du Royaume-Uni et eaux UE de la zone IV |
 
 LIN/04-C. |
 
@@ -2136,15 +2056,11 @@ Sous-quota (tonnes) |
 
 73 |
 
-Lingue franche
-
 Molva molva |
 
-Eaux
+Lingue franche |
 
-norvégiennes
-
-de la zone IV |
+Eaux norvégiennes de la zone IV |
 
 LIN/04-N. |
 
@@ -2176,19 +2092,11 @@ Sous-quota (tonnes) |
 
 5 |
 
-Lingue franche
-
 Molva molva |
 
-Eaux
+Lingue franche |
 
-du Royaume-Uni
-
-et eaux
-
-internationales
-
-de la zone V |
+Eaux du Royaume-Uni et eaux internationales de la zone V |
 
 LIN/05EI. |
 
@@ -2220,19 +2128,11 @@ Sous-quota (tonnes) |
 
 1 |
 
-Lingue franche
-
 Molva molva |
 
-Eaux
+Lingue franche |
 
-du Royaume-Uni
-
-et eaux
-
-internationales
-
-des zones I et II |
+Eaux du Royaume-Uni et eaux internationales des zones I et II |
 
 LIN/1/2. |
 
@@ -2264,9 +2164,9 @@ Sous-quota (tonnes) |
 
 5 |
 
-Lingue franche
-
 Molva molva |
+
+Lingue franche |
 
 VI, VII, VIII, IX et X ; eaux du Royaume-Uni et eaux internationales des zones XII ; XIV |
 
@@ -2300,13 +2200,11 @@ Sous-quota (tonnes) |
 
 1799 |
 
+Molva molva |
+
 Scomber scombrus |
 
-Merlan
-
-Merlangius
-
-merlangus |
+Merlan |
 
 VII a |
 
@@ -2340,11 +2238,9 @@ Sous-quota (tonnes) |
 
 33 |
 
-Merlan
+Merlangius merlangus |
 
-Merlangius
-
-merlangus |
+Merlan |
 
 VIII |
 
@@ -2378,17 +2274,11 @@ Sous-quota (tonnes) |
 
 569 |
 
-Merlan
+Merlangius merlangus |
 
-Merlangius
+Merlan |
 
-merlangus |
-
-IV ; eaux
-
-du Royaume-Uni
-
-de la zone II a |
+IV ; eaux du Royaume-Uni de la zone II a |
 
 WHG/2AC4. |
 
@@ -2420,11 +2310,9 @@ Sous-quota (tonnes) |
 
 15 571 |
 
-Merlan
+Merlangius merlangus |
 
-Merlangius
-
-merlangus |
+Merlan |
 
 VI ; eaux du Royaume-Uni et eaux internationales de la zone V b ; eaux internationales des zones XII et XIV |
 
@@ -2458,11 +2346,9 @@ Sous-quota (tonnes) |
 
 466 |
 
-Merlan
+Merlangius merlangus |
 
-Merlangius
-
-merlangus |
+Merlan |
 
 VII b à k |
 
@@ -2496,11 +2382,9 @@ Sous-quota (tonnes) |
 
 23 222 |
 
-Merlan
+Merlangius merlangus |
 
-Merlangius
-
-merlangus |
+Merlan Merlangius merlangus |
 
 VII b-c ,e-k |
 
@@ -2534,11 +2418,7 @@ Sous-quota (tonnes) |
 
 1 291 |
 
-Merlan
-
-Merlangius
-
-merlangus |
+Merlan Merlangius merlangus |
 
 VII d |
 
@@ -2572,11 +2452,7 @@ Sous-quota (tonnes) |
 
 21931 |
 
-Merlan bleu
-
-Micromesistius
-
-poutassou |
+Merlan bleu |
 
 Eaux du Royaume-Uni et eaux internationales des zones I, II, III, IV, V, VI, VII, VIII a, b, d, e, XII et XIV |
 
@@ -2610,11 +2486,9 @@ Sous-quota (tonnes) |
 
 27 129 |
 
-Merlu
+Micromesistius poutassou |
 
-Merluccius
-
-merluccius |
+Merlu |
 
 Eaux du Royaume-Uni et eaux UE de la zone IV ; eaux du Royaume-Uni de la zone IIa |
 
@@ -2648,17 +2522,11 @@ Sous-quota (tonnes) |
 
 137 |
 
-Merlu
+Merluccius merluccius |
 
-Merluccius
+Merlu |
 
-merluccius |
-
-Eaux
-
-norvégiennes
-
-de la zone IV |
+Eaux norvégiennes de la zone IV |
 
 HKE/04-N |
 
@@ -2690,11 +2558,9 @@ Sous-quota (tonnes) |
 
 51 |
 
-Merlu
+Merluccius merluccius |
 
-Merluccius
-
-merluccius |
+Merlu |
 
 VI et VII ; eaux du Royaume-Uni et eaux internationales de la zone V b et eaux internationales des zones XII et XIV |
 
@@ -2728,11 +2594,9 @@ Sous-quota (tonnes) |
 
 13 077 |
 
-Merlu
+Merluccius merluccius |
 
-Merluccius
-
-merluccius |
+Merlu |
 
 VIII a, b, d, e |
 
@@ -2766,11 +2630,9 @@ Sous-quota (tonnes) |
 
 13294 |
 
-Merlu
+Merluccius merluccius |
 
-Merluccius
-
-merluccius |
+Merlu |
 
 VIII c, IX et X ; eaux UE de la zone COPACE 34.1.1 |
 
@@ -2804,11 +2666,9 @@ Sous-quota (tonnes) |
 
 749 |
 
-Plie
+Merluccius merluccius |
 
-Pleuronectes
-
-platessa |
+Plie |
 
 IV ; eaux du Royaume-Uni de la zone II a, partie de la zone III a non comprise dans le Skagerrak ni dans le Kattegat |
 
@@ -2842,11 +2702,9 @@ Sous-quota (tonnes) |
 
 775 |
 
-Plie
+Pleuronectes platessa |
 
-Pleuronectes
-
-platessa |
+Plie |
 
 VII d, e |
 
@@ -2880,11 +2738,11 @@ Sous-quota (tonnes) |
 
 911 |
 
+Pleuronectes platessa |
+
 Plie
 
-Pleuronectes
-
-platessa |
+Pleuronectes platessa |
 
 VII d |
 
@@ -2920,9 +2778,7 @@ Sous-quota (tonnes) |
 
 Plie
 
-Pleuronectes
-
-platessa |
+Pleuronectes platessa |
 
 VII e |
 
@@ -2956,11 +2812,7 @@ Sous-quota (tonnes) |
 
 155 |
 
-Plie
-
-Pleuronectes
-
-platessa |
+Pleuronectes platessa |
 
 VII f, g |
 
@@ -2994,11 +2846,7 @@ Sous-quota (tonnes) |
 
 46 |
 
-Plie
-
-Pleuronectes
-
-platessa |
+Plie |
 
 VII h, j, k |
 
@@ -3032,11 +2880,9 @@ Sous-quota (tonnes) |
 
 13,0 |
 
-Plie
+Pleuronectes platessa |
 
-Pleuronectes
-
-platessa |
+Plie |
 
 VIII, IX et X ; eaux UE de la zone COPACE 34.1.1 |
 
@@ -3070,13 +2916,11 @@ Sous-quota (tonnes) |
 
 62 |
 
-Raies
+Pleuronectes platessa |
 
-Rajidae |
+Raies |
 
-Eaux UE
-
-de la zone VII d |
+Eaux UE de la zone VII d |
 
 SRX/07D. |
 
@@ -3108,9 +2952,9 @@ Sous-quota (tonnes) |
 
 2 390 |
 
-Raies
-
 Rajidae |
+
+Raies |
 
 Eaux UE et eaux du Royaume-Uni de la zone IV ; eaux du Royaume-Uni de la zone IIa |
 
@@ -3144,9 +2988,9 @@ Sous-quota (tonnes) |
 
 90 |
 
-Raies
-
 Rajidae |
+
+Raies |
 
 Eaux du Royaume-Uni et eaux UE des zones VI a, VI b, VII a-c et VII e-k |
 
@@ -3180,13 +3024,11 @@ Sous-quota (tonnes) |
 
 3 354 |
 
-Raies
-
 Rajidae |
 
-Eaux UE
+Raies |
 
-des zones VIII et IX |
+Eaux UE des zones VIII et IX |
 
 SRX/89-C. |
 
@@ -3218,13 +3060,11 @@ Sous-quota (tonnes) |
 
 2 054 |
 
-dont Raie brunette
+Rajidae |
 
-Raja undulata |
+dont Raie brunette |
 
-Eaux UE
-
-de la zone VIII |
+Eaux UE de la zone VIII |
 
 RJU/8-C. |
 
@@ -3256,9 +3096,9 @@ Sous-quota (tonnes) |
 
 12,0 |
 
-Raie brunette
-
 Raja undulata |
+
+Raie brunette |
 
 VII d, e |
 
@@ -3292,9 +3132,9 @@ Sous-quota (tonnes) |
 
 1 390 |
 
-Sabre noir
+Raja undulata |
 
-Aphanopus carbo |
+Sabre noir |
 
 VI et VII ; eaux du Royaume-Uni et eaux internationales des zones V ; eaux internationales de la zone XII |
 
@@ -3328,15 +3168,11 @@ Sous-quota (tonnes) |
 
 458 |
 
-Sébaste
+Aphanopus carbo |
 
-Sebastes spp. |
+Sébaste |
 
-Eaux
-
-norvégiennes
-
-des zones I et II |
+Eaux norvégiennes des zones I et II |
 
 RED/1N2AB. |
 
@@ -3368,9 +3204,9 @@ Sous-quota (tonnes) |
 
 94 |
 
-Sole
+Sebastes spp. |
 
-Solea solea |
+Sole |
 
 VII d |
 
@@ -3404,9 +3240,9 @@ Sous-quota (tonnes) |
 
 622 |
 
-Sole
-
 Solea solea |
+
+Sole |
 
 VII e |
 
@@ -3440,9 +3276,9 @@ Sous-quota (tonnes) |
 
 398 |
 
-Sole
-
 Solea solea |
+
+Sole |
 
 Eaux du Royaume-Uni et eaux UE de la zone IV ; eaux du Royaume-Uni de la zone IIa |
 
@@ -3476,9 +3312,9 @@ Sous-quota (tonnes) |
 
 12 |
 
-Sole
-
 Solea solea |
+
+Sole |
 
 VII f, g |
 
@@ -3512,9 +3348,9 @@ Sous-quota (tonnes) |
 
 45 |
 
-Sole
-
 Solea solea |
+
+Sole |
 
 VII h, j, k |
 
@@ -3548,9 +3384,9 @@ Sous-quota (tonnes) |
 
 27 |
 
-Sole
-
 Solea solea |
+
+Sole |
 
 VIII a, b |
 
@@ -3584,41 +3420,49 @@ Sous-quota (tonnes) |
 
 2101 |
 
+Solea solea |
+
 (1) Pour les navires autorisés à pêcher l'anchois au chalut pélagique de manière ciblée ou occasionnelle en zone CIEM VIII, les captures sont limitées à 300 t sur la période du 1er mars au 30 avril 2026.
 
-Libellé
+Libellé du quota |
 
-du quota |
+Zone de référence
 
-Zone de référence du Conseil international pour l'exploration de la mer (CIEM) |
+du Conseil
 
-Code
+international
 
-stock |
+pour l'exploration
+
+de la mer (CIEM) |
+
+Code stock |
 
 |
 
-Navires pratiquant le métier de la senne et adhérents à l'organisation de producteurs ORTHONGEL |
+Navires pratiquant
+
+le métier de la senne et adhérents à l'organisation de producteurs
+
+ORTHONGEL |
 
 Autres navires |
 
 Total |
 
-Dont navires immatriculés
+Dont navires
+
+immatriculés
 
 à La Réunion |
 
-Dont
-
-navires
+Dont navires
 
 immatriculés
 
 à Mayotte |
 
-Albacore
-
-Thunnus albacares |
+Albacore |
 
 Zone de compétence CTOI |
 
@@ -3634,41 +3478,49 @@ Sous-quota (tonnes) |
 
 27 710 |
 
+Thunnus albacares |
+
 (1) Un transfert annuel à hauteur de 174 tonnes est réalisé du sous-quota senneurs vers le sous-quota autres navires.
 
-Libellé
+Libellé du quota |
 
-du quota |
+Zone de référence
 
-Zone de référence du Conseil international pour l'exploration de la mer (CIEM) |
+du Conseil
 
-Code
+international
 
-stock |
+pour l'exploration
+
+de la mer (CIEM) |
+
+Code stock |
 
 |
 
-Navires pratiquant le métier de la senne et adhérents à l'organisation de producteurs ORTHONGEL |
+Navires pratiquant
+
+le métier de la senne et adhérents à l'organisation de producteurs
+
+ORTHONGEL |
 
 Autres navires |
 
 Total |
 
-Dont navires immatriculés
+Dont navires
+
+immatriculés
 
 à La Réunion |
 
-Dont
-
-navires
+Dont navires
 
 immatriculés
 
 à Mayotte |
 
-Thon obèse
-
-Thunnus obesus |
+Thon obèse |
 
 Zone de compétence CTOI |
 
@@ -3684,23 +3536,115 @@ Sous-quota (tonnes) |
 
 4 255 |
 
-Libellé
+Thunnus obesus |
 
-du quota |
+Libellé du quota |
 
-Zone de référence du Conseil international pour l'exploration de la mer (CIEM) |
+Zone de référence
+
+du Conseil
+
+international
+
+pour l'exploration
+
+de la mer (CIEM) |
 
 Code stock |
 
 |
 
-Navires titulaires d'une AEP "thons tropicaux en zone ICCAT" pratiquant le métier de la senne et adhérents à l'organisation de producteurs ORTHONGEL |
+Navires pratiquant
 
-Navires titulaires d'une AEP "thons tropicaux en zone ICCAT" et pratiquant le métier de la canne ou de la ligne |
+le métier de la senne et adhérents à l'organisation de producteurs
 
-Autres navires titulaires d'une AEP "thons tropicaux en zone ICCAT" |
+ORTHONGEL |
 
-Navires non titulaires d'une AEP "thons tropicaux en zone ICCAT" (1) |
+Autres navires |
+
+Total |
+
+Dont navires
+
+immatriculés
+
+à La Réunion |
+
+Dont navires
+
+immatriculés
+
+à Mayotte |
+
+Thon listao |
+
+Zone de compétence CTOI |
+
+SKJ/IOTC |
+
+Sous-quota (tonnes) |
+
+36 613,5 (1) |
+
+44,6 (1) |
+
+186,9 (1) |
+
+36 845 |
+
+Katsuwonus pelamis |
+
+(1) Un transfert annuel à hauteur de 100 tonnes est réalisé du sous-quota senneurs vers le sous-quota autres navires.
+
+Libellé du quota |
+
+Zone de référence du Conseil
+
+international
+
+pour l'exploration
+
+de la mer (CIEM) |
+
+Code stock |
+
+|
+
+Navires titulaires d'une AEP "thons tropicaux en zone ICCAT" pratiquant le métier de la senne et adhérents
+
+à l'organisation
+
+de producteurs ORTHONGEL |
+
+Navires titulaires d'une AEP
+
+"thons tropicaux
+
+en zone ICCAT"
+
+et pratiquant
+
+le métier
+
+de la canne
+
+ou de la ligne |
+
+Autres navires titulaires d'une AEP thons
+
+tropicaux
+
+en zone ICCAT" |
+
+Navires non titulaires
+
+d'une AEP "thons
+
+tropicaux
+
+en zone
+
+ICCAT" (1) |
 
 Total |
 
@@ -3714,31 +3658,27 @@ BET/ATLANT |
 
 Sous-quota (tonnes) |
 
-2 907 |
+3 254 |
 
-128 |
+143 |
 
-96 |
+107 |
 
-64 |
+72 |
 
-3 195 |
+3 576 |
 
 (1) Pour les navires titulaires de l'AEP thon blanc (Thunnus alalunga) avec l'engin chalut pélagique dans l'océan Atlantique au nord de 5°N, les captures sont autorisées dans la limite de 3 tonnes par navire et par marée.
 
 Libellé du quota |
 
-Zone de référence du Conseil international pour l'exploration
-
-de la mer (CIEM) |
+Zone de référence du Conseil international pour l'exploration de la mer (CIEM) |
 
 Code stock |
 
 |
 
-Navires non adhérant à
-
-une organisation de producteurs |
+Navires non adhérant à une organisation de producteurs |
 
 Navires adhérant à l'organisation de producteurs
 
@@ -3762,9 +3702,7 @@ SRG 1, 2, 5, 6 et 7 |
 
 HKE/GF8-11 |
 
-Sous-quota
-
-(tonnes) |
+Sous-quota (tonnes) |
 
 29 |
 
