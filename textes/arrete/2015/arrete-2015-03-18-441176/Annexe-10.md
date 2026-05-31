@@ -4,15 +4,13 @@ PHASAGE POUR LE PASSAGE OBLIGATOIRE À LA DÉCLARATION ÉLECTRONIQUE POUR LES NA
 
 Flottille cible |
 
-Estimation
+Estimation du nombre
 
-du nombre de navires concernés |
+de navires concernés |
 
-Date butoir
+Date butoir de passage
 
-de passage à la déclaration
-
-électronique |
+à la déclaration électronique |
 
 Détenteurs d'une AEP thon rouge |
 
@@ -56,13 +54,13 @@ Navires débarquant de la raie brunette capturée en zone CIEM 8 (2) |
 
 1er juillet 2026 |
 
-Détenteurs d'une AEP d'espèces soumises à plan pluriannuel |
+Détenteurs d'une autorisation pour la mise en œuvre des plans pluriannuels (3) |
 
-|
+700 navires |
 
 1er juillet 2026 |
 
-Fileyeurs en GSA 7 et GSA 8 (3) |
+Fileyeurs en GSA 7 et GSA 8 (4) |
 
 560 navires |
 
@@ -74,7 +72,7 @@ Détenteurs d'une autorisation corail rouge |
 
 1 er juillet 2026 |
 
-Navires pêchant du thon obèse pêchant en zone CTOI (4) |
+Navires pêchant du thon obèse pêchant en zone CTOI (5) |
 
 30 navires |
 
@@ -118,6 +116,8 @@ Navires immatriculés à Mayotte |
 
 (2) Est compris dans cette flottille tout navire ayant débarqué dès 100 kg, cumulé pour une année, de raie brunette (RJU) capturée en zone CIEM 27.8, depuis le 1er janvier 2023.
 
-(3) Est compris dans cette flottille tout navire ayant effectué des activités de pêche à l'aide d'un filet (codes GEN, GN, GNC, GND, GNS, GTN, GTR, LNP ou LNS) dans les zones CGPM 37.7 et 37.8 depuis le 1er janvier 2024.
+(3) Est compris dans cette flottille tout navire détenteur d'au moins une autorisation (européenne ou nationale) de pêche pour la mise en œuvre des plans pluriannuels prévus par le règlement (UE) 2019/472 susvisé. Conformément à l'arrêté du 27 mai 2016 susvisé, les autorisations concernées sont les suivantes : AEP Manche Est démersaux, ANP cabillaud - mer Celtique, ANP baudroie zone VII, ANP sole Manche Est, AEP Manche Ouest, ANP sole du golfe de Gascogne, ANP anchois, ANP langoustine, ANP sud du golfe de Gascogne et mer Cantabrique pour le merlu austral et la langoustine, AEP thon blanc.
 
-(4) Est compris dans cette flottille tout navire ayant capturé du thon obèse (BET) en zone FAO 51 depuis le 1er janvier 2024.
+(4) Est compris dans cette flottille tout navire ayant effectué des activités de pêche à l'aide d'un filet (codes GEN, GN, GNC, GND, GNS, GTN, GTR, LNP ou LNS) dans les zones CGPM 37.7 et 37.8 depuis le 1er janvier 2024.
+
+(5) Est compris dans cette flottille tout navire ayant capturé du thon obèse (BET) en zone FAO 51 depuis le 1er janvier 2024.
