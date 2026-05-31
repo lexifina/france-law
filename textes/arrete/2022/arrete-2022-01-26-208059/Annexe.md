@@ -22,9 +22,19 @@ Les résultats finaux de l'évaluation des deux salles existantes, restitués au
 
 L'accès à ces structures permet ainsi d'améliorer la santé des personnes usagères de drogues (baisse des infections VIH et VHC, des complications cutanées dues aux injections et des overdoses non fatales) et de diminuer les passages aux urgences. Des coûts médicaux importants sont ainsi évités (en projection sur 10 ans, elle évalue les coûts médicaux évités à 11 millions d'euros pour les deux salles (respectivement 6,0 et 5,1 millions d'euros pour Paris et Strasbourg). Les injections et les déchets associés (seringues) dans l'espace public diminuent. L'évaluation n'a en outre pas mis en évidence de détérioration de la tranquillité publique liée à l'implantation des salles.
 
-Le rapport d'évaluation a également proposé des voies d'amélioration du dispositif en faveur de la réinsertion des usagers dans un parcours de soins (traitement des dépendances et conduites addictives, dépistages, etc.). Pour tenir compte de ces propositions, la loi n° 2021-1754 de financement de la sécurité sociale du 23 décembre 2021 prolonge l'expérimentation, et renomme les SCMR en " haltes “ soins addictions ” " (HSA), dans le but de renforcer la dimension d'accès à un parcours de santé de ces dispositifs.
+Deux autres évaluations ont permis de compléter celles de l'INSERM. Le rapport conjoint de l'Inspection générale de l'administration et de l'Inspection générale des affaires sociales établit que les HSA répondent à leur mission, en particulier dans les quartiers où la consommation de stupéfiants présente des enjeux significatifs de sécurité et de santé publiques. Elles bénéficient à un public très fortement précarisé et constituent un point d'entrée vers l'accès aux droits et les parcours de soins. Elles améliorent la tranquillité publique et ne génèrent pas de délinquance additionnelle. L'étude qualitative des Hospices civils de Lyon a, quant à elle, montré que l'expérimentation des HSA permet de structurer une offre médico-sociale spécifique à destination de publics en grande précarité. Les HSA sont identifiées comme des relais par d'autres acteurs qui peuvent y orienter les usagers à haut risque. Cette capacité d'adaptation des outils aux réalités de vie des usagers permet de construire des réponses individualisées et durables. Grâce à leur ancrage dans un tissu local des services de santé, les HSA peuvent aider des usagers précaires et désinsérés à accéder à des parcours de soins dont ils ne bénéficiaient pas jusque-là, dans un objectif de réinsertion. Elles jouent également un rôle dans le dispositif de veille, en détectant de nouvelles tendances ou substances afin d'adapter la réponse publique.
 
-Cette même loi autorise également la mise en place de HSA mobiles dont le cahier des charges sera intégré par un arrêté ultérieur.
+Les évaluations successives ont également mis en lumières des pistes de renforcement des HSA, portant notamment sur :
+
+- l'amélioration de l'articulation des HSA avec les soins primaires et les acteurs territoriaux ;
+
+- le développement du suivi des parcours et la coordination avec les dispositifs de droit commun par le déploiement d'indicateurs de suivi ;
+
+- l'expérimentation de nouvelles formes d'organisation tels que des dispositifs mobiles, des guichets "santé" ou des places d'hébergement ;
+
+- la mise en œuvre de l'analyse des produits et l'intégration aux réseaux de veille sanitaire de l'Observatoire français des drogues et des tendances addictives (OFDT).
+
+Pour tenir compte de ces propositions, l'expérimentation a été prolongée jusqu'au 31 décembre 2027.
 
 1. Objectifs généraux
 
@@ -88,6 +98,8 @@ Le projet d'une HSA tient compte des réalités et des besoins spécifiques de s
 
 Le choix du lieu d'implantation doit dépendre de données locales spécifiques relatives au nombre d'usagers actifs, aux produits, aux modes et à la fréquence de consommation ainsi qu'aux habitudes des usagers, en tenant compte de l'environnement social dans lequel la HSA a vocation à s'intégrer. Il conviendrait ainsi de le situer à proximité des lieux de consommation afin d'être proches des usagers et de réduire les nuisances publiques là où elles sont les plus tangibles.
 
+Afin de faciliter la prise en charge sanitaire des usagers, les locaux de la HSA sont implantés sur le site géographique d'un établissement de santé.
+
 Le projet adapte en conséquence les programmes d'intervention, les actions et les outils de réduction des risques à ces besoins spécifiques.
 
 8. Financement
@@ -108,15 +120,9 @@ Des cofinancements peuvent provenir des collectivités territoriales (notamment 
 
 Un comité de pilotage national est placé sous la responsabilité de la MILDECA. Il est composé de représentants des différents ministères concernés (santé, justice, intérieur).
 
-Il a pour mission de coordonner le déploiement de l'expérimentation et son évaluation dans l'objectif d'adapter au mieux l'évolution du projet au public concerné, aux besoins nationaux et locaux identifiés, aux possibilités locales.
+Le Comité national assure le suivi de la mise en œuvre de l'expérimentation des HSA dans toutes ses composantes. Il se réunit au moins une fois par an pour établir un bilan annuel.
 
-Le comité national assure un suivi régulier de la mise en place des projets de nouvelles HSA dans toutes leurs composantes. Il facilitera les liens entre le consortium de recherche chargé de l'évaluation scientifique et les comités de pilotage locaux.
-
-Le porteur de la HSA doit adresser chaque année, un rapport d'activité à la MILDECA au plus tard le 31 mai de l'année suivante.
-
-10. Evaluation scientifique de l'expérimentation
-
-La mise en place et le financement d'une évaluation indépendante de cette nouvelle phase de l'expérimentation sont sous la responsabilité de la MILDECA. Les structures expérimentant une HSA seront amenées à participer à cette évaluation.
+Le porteur de la HSA adresse chaque année un rapport d'activité à la MILDECA et à la DGS, fondé sur des données couvrant une période d'au moins douze mois, au plus tard le 31 mai de l'année suivante.
 
 II.-Déclinaison locale du cahier des charges
 
@@ -192,11 +198,13 @@ Le matériel de prévention et de réduction des risques et des dommages mis à 
 
 Les usagers ont l'obligation d'utiliser le matériel stérile et/ ou à usage unique et personnel fourni par la HSA et de déposer le matériel usagé dans des collecteurs spécifiques.
 
-b. Matériel médical :
+b. Matériel médical et produits de santé :
 
-Sous la responsabilité du médecin, un chariot d'urgence, contrôlé à échéances régulières, doit être mis en place. Il comprend obligatoirement de la naloxone pour les cas de surdose d'opiacés.
+Sous la responsabilité du médecin ou du pharmacien, un chariot d'urgence, contrôlé à échéances régulières, doit être mis en place. Il comprend obligatoirement de la naloxone pour les cas de surdose d'opiacés.
 
 La commande des médicaments se fait directement auprès de fabricants, de distributeurs ou de grossistes répartiteurs, qui sont autorisés à fournir les CAARUD et les CSAPA disposant d'une HSA, en effectuant un suivi individualisé des lots et, s'il y a lieu, leur retrait.
+
+La prescription, la délivrance, l'approvisionnement, le stockage et la gestion des médicaments au sein d'une HSA portée par un CSAPA sont effectués conformément aux articles D. 3411-9 et D. 3411-10 du code de la santé publique. Au sein d'une HSA portées par un CAARUD, ils sont effectués conformément aux articles D. 3121-33-4 et suivants du même code.
 
 4. Fonctionnement
 
@@ -262,9 +270,11 @@ Conformément à l'article L. 311-7 du code de l'action sociale et des familles,
 
 Le règlement de fonctionnement est établi après consultation du conseil de la vie sociale ou, le cas échéant, après mise en œuvre d'une autre forme de participation.
 
-Destiné à l'usager, le règlement de fonctionnement définit les règles devant être respectées respectivement par les professionnels et les usagers pour garantir le bon fonctionnement de la HSA.
+Destiné à l'usager, le règlement de fonctionnement définit les règles devant être respectées respectivement par les professionnels et les usagers pour garantir le bon fonctionnement de la HSA. Le contenu de ce règlement est expliqué lors de l'entretien d'accueil.
 
 Le règlement de fonctionnement peut comporter, en complément de ces dispositions communes de mises en œuvre, des modalités plus spécifiques, adaptées aux situations locales du lieu d'implantation de la HSA.
+
+Le règlement de fonctionnement est intégré au livret d'accueil et affiché dans l'espace d'accueil.
 
 a. Conditions, modalités d'admission, principes, droits et obligations :
 
@@ -350,8 +360,6 @@ Une circulation des informations est organisée et précisée : elle inclut nota
 
 La HSA est intégrée aux différents dispositifs d'observation dont les dispositifs de l'Observatoire français des drogues et des toxicomanies (OFDT), que sont les réseaux " Tendances récentes et nouvelles drogues " (TREND) et le " Système national d'identification des toxiques et substances " (SINTES).
 
-Le personnel de la HSA ne peut pas réaliser d'analyse de produits sur place pour le compte de l'usager avant sa consommation.
-
 8. Composition de l'équipe
 
 Une HSA s'appuie sur une équipe pluridisciplinaire. Le personnel répond aux qualifications professionnelles du secteur médico-social.
@@ -362,7 +370,7 @@ Un poste spécifique d'agent de sécurité et de médiation doit être créé po
 
 Des vacations médicales doivent être organisées au moins une journée par semaine, ce qui équivaut à un minimum de 0,2 ETP.
 
-Des médiateurs pairs, formés à la réduction des risques, peuvent assister le professionnel de santé ou du secteur médico-social, dans tous les espaces autres que l'espace de consommation. Ils ne sont pas autorisés à participer à la mission de supervision. Le porteur de projet peut s'appuyer sur le référentiel de compétences, de formation et de bonnes pratiques de la médiation en santé de la Haute Autorité de santé pour préciser leur cadre d'intervention.
+Des médiateurs pairs, formés à la réduction des risques et à la prise en charges des urgences liés à l'usage des drogues, peuvent assister le professionnel de santé ou du secteur médico-social, dans tous les espaces. Ils ne sont pas autorisés à participer à la mission de supervision. Le porteur de projet s'appuie sur le référentiel de compétences, de formation et de bonnes pratiques de la médiation en santé de la Haute Autorité de santé pour préciser leur cadre d'intervention.
 
 Le porteur de projet précise les compétences et qualifications requises (formations), les quotités de temps et le taux d'encadrement qui doivent garantir la qualité de l'accueil, des prestations et la sécurité (cf. annexe 1 : proposition de tableau des emplois simplifié).
 
@@ -384,15 +392,17 @@ Des interventions régulières de proximité visant à assurer une bonne intégr
 
 10. Comité de pilotage local de la HSA
 
-Préalablement à la mise en place d'une HSA, un comité de pilotage local est créé pour toute la durée de l'expérimentation. Son rôle est :
+Préalablement à la mise en place d'une HSA, un comité de pilotage local est créé pour toute la durée de l'expérimentation. Son rôle, pendant la durée du projet, est :
 
--de vérifier la conformité du projet de HSA au contenu du présent cahier des charges ;
+- de vérifier la conformité du projet de HSA au contenu du présent cahier des charges ;
 
--de partager les éléments du diagnostic local, notamment sur le choix du lieu d'implantation ;
+- de partager les éléments du diagnostic local, incluant notamment des éléments portant sur l'ordre public et sur le choix du lieu d'implantation ;
 
--d'accompagner l'adaptation du projet aux réalités locales ;
+- d'accompagner l'adaptation du projet aux réalités locales ;
 
--de faciliter le lien avec le comité de pilotage national.
+- de faciliter le lien avec le comité de pilotage national.
+
+Il adresse un bilan annuel au copil national avant le 30 mars de chaque année.
 
 Le maire de la commune où est implantée la HSA, le directeur général de l'ARS, le préfet de département territorialement compétent et le procureur de la République assurent la co-présidence du comité de pilotage et décident conjointement de l'engagement, des évolutions attendues ou, le cas échéant, de la fin d'un projet de HSA, proposé au ministre chargé de la santé en application de l'article 83 de la loi de financement de la sécurité sociale pour 2022.
 
@@ -439,6 +449,8 @@ Ce rapport d'activité annuelle détaille notamment :
 -le nombre de réunions avec les différents partenaires ;
 
 -les articulations avec les réseaux environnants : hôpital, médecine de ville, social, médico-social, etc.
+
+Le rapport d'activité permet en outre de décrire la manière dont la HSA répond aux objectifs généraux décrits dans la partie I.1 du présent cahier des charges, et de qualifier, de manière quantitative, les parcours des usagers (santé, accès aux droits, aux services sociaux et à l'hébergement et au logement) et de fournir une appréciation qualitative des parcours.
 
 ANNEXES (articles Annexe 1 à Annexe 2)
 
