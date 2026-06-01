@@ -1,10 +1,18 @@
 # Article Annexe
 
-1. A compter du 1er juin 2014, les obligations de service public imposées sur les services aériens réguliers entre l'aéroport de Tarbes (Lourdes-Pyrénées) et celui de Paris (Orly) sont les suivantes :
+1. A compter du 1 er juin 2026, les obligations de service public imposées sur les services aériens réguliers entre l'aéroport de Tarbes (Lourdes-Pyrénées) et celui de Paris (Orly) sont les suivantes :
 
-En termes de fréquences
+En termes de fréquences minimales
 
 Les services doivent être exploités, au minimum, à raison de deux allers et retours par jour, le matin et le soir, tous les jours de la semaine.
+
+Les services peuvent être délestés dans les conditions suivantes :
+
+Avec un préavis minimum d'un mois, le transporteur peut ne pas réaliser au plus un aller et un retour par jour :
+
+- 20 samedis et 20 dimanches par période de 12 mois consécutifs ;
+
+- pendant une période continue de quatre semaines durant les vacances d'été.
 
 Les services doivent être exploités sans escale intermédiaire entre Tarbes (Lourdes-Pyrénées) et Paris (Orly).
 
@@ -12,11 +20,11 @@ En termes de catégories d'appareils utilisés et de capacité offerte
 
 Les services doivent être assurés au moyen d'un appareil pressurisé.
 
-La capacité annuelle minimale devant être offerte est de 131 000 sièges.
+Une capacité minimale de 120 000 sièges doit être proposée et opérée sur l'année.
 
 En termes d'horaires
 
-Les horaires doivent permettre en semaine d'effectuer un aller et retour dans la journée avec une amplitude d'au moins sept heures à destination, tant à Paris (Orly) qu'à Tarbes (Lourdes-Pyrénées).
+Les horaires doivent permettre en semaine d'effectuer un aller et retour dans la journée avec une amplitude d'au moins sept heures à destination, tant à Paris qu'à Tarbes.
 
 En termes de politique commerciale
 
@@ -28,10 +36,6 @@ Sauf cas de force majeure, le nombre de vols annulés pour des raisons directeme
 
 De plus, les services ne peuvent être interrompus par le transporteur qu'après un préavis de six mois.
 
-2. Il est signalé que des créneaux sont réservés sur l'aéroport de Paris (Orly) à la desserte de la liaison régulière de Tarbes (Lourdes-Pyrénées) en application de l'article 9 du règlement (CEE) n° 95/93 du Conseil du 18 janvier 1993 fixant des règles communes en ce qui concerne l'attribution des créneaux horaires dans les aéroports de la Communauté (1).
+2. Il est signalé que des créneaux sont réservés sur l'aéroport de Paris à la desserte de la liaison régulière de Tarbes (Lourdes-Pyrénées) en application de l'article 9 du règlement (CEE) n° 95/93 du Conseil du 18 janvier 1993 fixant des règles communes en ce qui concerne l'attribution des créneaux horaires dans les aéroports de la Communauté. Les transporteurs aériens intéressés par cette liaison peuvent obtenir auprès du coordonnateur des aéroports parisiens toute information concernant ces créneaux horaires.
 
-Les transporteurs aériens intéressés par cette liaison peuvent obtenir auprès du coordonnateur des aéroports parisiens toute information concernant ces créneaux horaires.
-
-Les transporteurs communautaires sont informés qu'une exploitation en méconnaissance des obligations de service public peut entraîner des sanctions administratives et/ou juridictionnelles.
-
-(1) JOUE n° L 14 du 22 janvier 1993, p. 1. Règlement modifié en dernier lieu par le règlement (CE) n° 545/2009 du Parlement européen et du Conseil du 18 juin 2009 (JOUE n° L 167 du 29 juin 2009, p. 24).
+Les transporteurs communautaires sont informés qu'une exploitation en méconnaissance des obligations de service public peut entraîner des sanctions administratives et/ ou juridictionnelles.
