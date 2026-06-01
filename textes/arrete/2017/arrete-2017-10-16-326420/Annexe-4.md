@@ -2,15 +2,21 @@
 
 SERVICE DE PRÉVENTION
 
-ET DE SANTÉ AU TRAVAIL |
+ET DE SANTÉ AU TRAVAIL
+
+|
 
 Proposition de mesures individuelles d'aménagement, d'adaptation ou de transformation du poste de travail ou de mesures d'aménagement du temps de travail
 
-(art. L. 4624-3 du code du travail ) |
+(art. L. 4624-3 du code du travail )
+
+|
 
 Entreprise
 
-Médecin du travail référent |
+Médecin du travail référent
+
+|
 
 SALARIÉ (E) |
 
@@ -28,9 +34,7 @@ Date de naissance :
 
 Sexe :
 
-N° de matricule INS (NIR ou NIA) :
-
-Datamatrix INS : |
+|
 
 Lieu de naissance (code INSEE) : |
 
@@ -110,7 +114,9 @@ QUALITÉ :
 
 MAIL ET TÉLÉPHONE PROFESSIONNELS :
 
-SIGNATURE DU MÉDECIN |
+SIGNATURE DU MÉDECIN
+
+|
 
 Document délivré :
 
@@ -122,8 +128,10 @@ Echange avec l'employeur en date du :
 
 □ Je reconnais avoir bien reçu la proposition du …
 
-SIGNATURE DU SALARIÉ |
+SIGNATURE DU SALARIÉ
+
+|
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 3 mars 2025 (NOR : TSST2505247A), ces dispositions entrent en vigueur le 1er juillet 2025.
+Conformément à l'article 4 de l'arrêté du 6 mai 2026 (NOR : TRST2611602A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur le 1er juin 2026.

@@ -2,7 +2,9 @@
 
 Service de santé
 
-au travail en agriculture |
+au travail en agriculture
+
+|
 
 AVIS D'INAPTITUDE
 
@@ -10,7 +12,9 @@ AVIS D'INAPTITUDE
 
 et R. 717-24 et R. 717-27-1 du code rural
 
-et de la pêche maritime) |
+et de la pêche maritime)
+
+|
 
 Entreprise |
 
@@ -28,11 +32,13 @@ Date de naissance :
 
 Sexe :
 
-N° de matricule INS (NIR ou NIA) |
+|
 
 Prénom (s) de naissance :
 
-Lieu de naissance (code INSEE) : |
+Lieu de naissance (code INSEE) :
+
+|
 
 |
 
@@ -50,7 +56,9 @@ Oui, depuis le :
 
 Non
 
-Intitulé du poste de travail : |
+Intitulé du poste de travail :
+
+|
 
 Ou Emploi (s) (travailleurs temporaires, salariés de groupements d'employeurs ou saisonniers) |
 
@@ -80,13 +88,17 @@ périodique (art. R. 717-14 CRPM)
 
 Visite de reprise (art. R. 717-17-1 CRPM)
 
-Visite à la demande (art. R. 717-18 CRPM) |
+Visite à la demande (art. R. 717-18 CRPM)
+
+|
 
 |
 
 Déclaration d'inaptitude
 
-Mentions obligatoires en application de l'art. R. 717-24 CRPM |
+Mentions obligatoires en application de l'art. R. 717-24 CRPM
+
+|
 
 Date de la 1re visite : Heure d'arrivée : Heure de départ : |
 
@@ -96,7 +108,9 @@ Etude des conditions de travail en date du :
 
 Echange avec l'employeur en date du :
 
-Date de la dernière actualisation de la fiche d'entreprise : |
+Date de la dernière actualisation de la fiche d'entreprise :
+
+|
 
 Le cas échéant : date de la 2nde visite : Heure d'arrivée : Heure de départ : |
 
@@ -116,13 +130,17 @@ Le CAS ECHEANT,
 
 Cas de dispense de l'obligation de reclassement (articles L. 1226-2-1, L. 1226-12 et L. 1226-20 du code du travail)
 
-Cas exceptionnel privant le salarié de son droit à reclassement par l'employeur et actant son licenciement sans consultation du CSE sur les propositions de reclassement. |
+Cas exceptionnel privant le salarié de son droit à reclassement par l'employeur et actant son licenciement sans consultation du CSE sur les propositions de reclassement.
 
-&laquo; Tout maintien du travailleur dans un emploi serait gravement préjudiciable à sa santé &raquo;
+|
+
+"Tout maintien du travailleur dans un emploi serait gravement préjudiciable à sa santé"
 
 ou
 
-&laquo; L'état de santé du travailleur fait obstacle à tout reclassement dans un emploi &raquo; |
+"L'état de santé du travailleur fait obstacle à tout reclassement dans un emploi"
+
+|
 
 DATE :
 
@@ -132,12 +150,16 @@ QUALITÉ :
 
 MAIL ET TÉLÉPHONE DU SERVICE
 
-SIGNATURE DU MÉDECIN |
+SIGNATURE DU MÉDECIN
+
+|
 
 Je reconnais avoir bien reçu l'avis en date du …
 
-SIGNATURE DU TRAVAILLEUR |
+SIGNATURE DU TRAVAILLEUR
+
+|
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 5 mai 2025 (NOR : AGRS2419783A), les dispositions de l'arrêté précité entrent en vigueur le 1er septembre 2025.
+Conformément à l'article 4 de l'arrêté du 6 mai 2026 (NOR : TRST2611602A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur le 1er juin 2026.

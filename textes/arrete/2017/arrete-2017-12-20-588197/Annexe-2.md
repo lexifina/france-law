@@ -24,9 +24,7 @@ Nom de naissance :
 
 Date de naissance :
 
-Sexe :
-
-N° de matricule INS (NIR ou NIA) : |
+Sexe : |
 
 Prénom (s) de naissance :
 
@@ -102,4 +100,4 @@ SIGNATURE DU TRAVAILLEUR |
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 5 mai 2025 (NOR : AGRS2419783A), les dispositions de l'arrêté précité entrent en vigueur le 1er septembre 2025.
+Conformément à l'article 4 de l'arrêté du 6 mai 2026 (NOR : TRST2611602A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur le 1er juin 2026.

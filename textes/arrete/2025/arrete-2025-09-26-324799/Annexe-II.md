@@ -20,7 +20,7 @@ Date de naissance :
 
 Sexe :
 
-N° de sécurité sociale : |
+|
 
 Lieu de naissance (code INSEE) : |
 
@@ -35,3 +35,7 @@ Fait le :
 NOM :
 
 Signature et cachet du médecin du travail
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 6 mai 2026 (NOR : TRST2611602A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur le 1er juin 2026.

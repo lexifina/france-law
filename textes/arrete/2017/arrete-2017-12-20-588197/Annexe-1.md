@@ -2,7 +2,9 @@
 
 Service de santé
 
-au travail en agriculture |
+au travail en agriculture
+
+|
 
 ATTESTATION DE SUIVI
 
@@ -10,7 +12,9 @@ individuel de l'état de santé
 
 (art. L. 4624-1 du code du travail
 
-et R. 717-27-1 du code rural et de la pêche maritime) |
+et R. 717-27-1 du code rural et de la pêche maritime)
+
+|
 
 Entreprise |
 
@@ -28,11 +32,13 @@ Date de naissance :
 
 Sexe :
 
-N° de matricule INS (NIR ou NIA) : |
+|
 
 Prénom (s) de naissance :
 
-Lieu de naissance (code INSEE) : |
+Lieu de naissance (code INSEE) :
+
+|
 
 |
 
@@ -52,7 +58,9 @@ Oui, depuis le :
 
 Non
 
-Intitulé du poste de travail : |
+Intitulé du poste de travail :
+
+|
 
 OU EMPLOI (S) (travailleurs temporaires, salariés de groupements d'employeurs ou saisonniers …) |
 
@@ -90,7 +98,9 @@ Visite de mi-carrière (art. L. 4624-2-2)
 
 Visite intermédiaire effectuée dans le cadre du suivi individuel renforcé (art R. 717-16-2 CRPM)
 
-(*) Si le médecin du travail constate une inaptitude, utiliser l'avis d'inaptitude. |
+(*) Si le médecin du travail constate une inaptitude, utiliser l'avis d'inaptitude.
+
+|
 
 |
 
@@ -114,10 +124,12 @@ QUALITÉ :
 
 MAIL ET TÉLÉPHONE DU SERVICE :
 
-SIGNATURE DU PROFESSIONNEL DE SANTÉ |
+SIGNATURE DU PROFESSIONNEL DE SANTÉ
+
+|
 
 Attestation de suivi accompagnée d'un document faisant état de proposition de mesures individuelles faites par le médecin du travail après échange avec l'employeur |
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 5 mai 2025 (NOR : AGRS2419783A), les dispositions de l'arrêté précité entrent en vigueur le 1er septembre 2025.
+Conformément à l'article 4 de l'arrêté du 6 mai 2026 (NOR : TRST2611602A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur le 1er juin 2026.

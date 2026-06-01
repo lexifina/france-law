@@ -2,17 +2,23 @@
 
 SERVICE DE PRÉVENTION
 
-ET DE SANTÉ AU TRAVAIL |
+ET DE SANTÉ AU TRAVAIL
+
+|
 
 AVIS D'APTITUDE
 
 réservé aux travailleurs bénéficiant
 
-d'un suivi individuel renforcé |
+d'un suivi individuel renforcé
+
+|
 
 ENTREPRISE
 
-Médecin du travail référent |
+Médecin du travail référent
+
+|
 
 |
 
@@ -36,9 +42,7 @@ Date de naissance :
 
 Sexe :
 
-N° de matricule INS (NIR ou NIA) :
-
-Datamatrix INS : |
+|
 
 Lieu de naissance (code INSEE) : |
 
@@ -136,14 +140,18 @@ QUALITÉ :
 
 MAIL ET TÉLÉPHONE PROFESSIONNELS :
 
-SIGNATURE DU MÉDECIN |
+SIGNATURE DU MÉDECIN
+
+|
 
 □ Avis d'aptitude accompagné d'un document faisant état de proposition de mesures individuelles faites par le médecin du travail après échange avec l'employeur
 
 □ Je reconnais avoir bien reçu l'avis du …
 
-SIGNATURE DU SALARIÉ |
+SIGNATURE DU SALARIÉ
+
+|
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 3 mars 2025 (NOR : TSST2505247A), ces dispositions entrent en vigueur le 1er juillet 2025.
+Conformément à l'article 4 de l'arrêté du 6 mai 2026 (NOR : TRST2611602A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur le 1er juin 2026.
