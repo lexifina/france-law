@@ -1,0 +1,211 @@
+# Article 1er
+
+L'article 14 du titre V de la CCN est modifié comme suit :
+
+« Article 14
+
+Les déplacements
+
+Les déplacements des personnels d'intervention, pour se rendre d'un lieu d'exécution du contrat de travail vers un autre lieu d'exécution du contrat, font partie intégrante de leur exercice professionnel. Le temps et les frais de déplacement sont pris en charge sur la base des dispositions suivantes :
+
+Article 14.1
+
+Les temps de déplacements
+
+Les temps de déplacement nécessaires entre deux séquences successives de travail effectif au cours d'une même demi-journée sont considérés comme du temps de travail effectif et rémunérés comme tel, dès lors qu'elles sont consécutives.
+
+Une demi-journée est constituée soit :
+
+– de la matinée qui débute lors de la première intervention et s'achève lors de la pause repas ;
+
+– de l'après-midi/soirée qui débute lors de la première intervention après la pause repas et s'achève à la fin de la dernière intervention.
+
+Lorsque les séquences successives de travail effectif au cours d'une même demi-journée ne sont pas consécutives, le temps de déplacement entre ces deux séquences est reconstitué et considéré comme du temps de travail effectif et rémunéré comme tel.
+
+L'employeur peut utiliser des outils facilitant la comptabilisation et le contrôle de ces temps de déplacement. Cependant ces outils ne doivent pas empêcher la vérification des temps sur la base du réel effectué.
+
+Les mêmes règles s'appliquent pour les salariés qui interviennent la nuit.
+
+Article 14.2
+
+Les frais de déplacement
+
+Article 14.2.1
+
+Modalités de déplacement
+
+Les salariés d'intervention de la branche effectuent de nombreux déplacements dans l'exercice de leurs fonctions puisque, en grande majorité, ils interviennent aux domiciles de plusieurs personnes aidées au cours d'une même journée.
+
+Différentes modalités de déplacement des professionnels sont envisageables :
+
+– en priorité, la mise à disposition de véhicules de service ou de fonction.
+
+Dans une perspective d'amélioration de la qualité de vie et des conditions de travail, levier d'attractivité et de fidélisation des salariés, les employeurs sont incités à déployer une flotte de véhicules pour la réalisation des déplacements professionnels.
+
+Les employeurs veilleront, lorsque cela est possible, à ce que cette flotte soit constituée en priorité de véhicules à faible, voire très faible, niveau d'émission de gaz à effet de serre.
+
+– l'utilisation des moyens de transport en commun ;
+
+– à défaut, l'utilisation par le salarié de son véhicule personnel.
+
+La prise en charge de ces temps et frais de déplacement revêt une importance majeure et constitue une priorité pour les partenaires sociaux de la branche.
+
+Article 14.2.2
+
+Indemnisation des frais de déplacement
+
+Les frais de déplacement exposés par les salariés entre deux séquences successives de travail effectif au cours d'une même demi-journée sont pris en charge dans les conditions exposées ci-après, dès lors qu'elles sont consécutives.
+
+Une demi-journée est constituée soit :
+
+– de la matinée qui débute lors de la première intervention et s'achève lors de la pause repas ;
+
+– de l'après-midi/soirée qui débute lors de la première intervention après la pause repas et s'achève à la fin de la dernière intervention.
+
+Lorsque les séquences successives de travail effectif au cours d'une même demi-journée ne sont pas consécutives, les frais de déplacement entre ces deux séquences sont reconstitués et pris en charge dans les conditions exposées ci-après.
+
+L'employeur peut utiliser des outils facilitant la comptabilisation et le contrôle de ces frais de déplacement. Cependant ces outils ne doivent pas empêcher la vérification des kilomètres sur la base du réel effectué.
+
+Les mêmes règles s'appliquent pour les salariés qui interviennent la nuit.
+
+a) Utilisation d'un moyen de transport en commun, ou d'un service public de location de vélos conformément aux dispositions réglementaires
+
+Pour les salariés d'intervention dont la durée du travail est supérieure ou égale à un mi-temps qui utilisent, à titre professionnel, les transports en commun ou qui recourt à un service public de location de vélos, l'employeur prend en charge 100 % du coût d'un abonnement hebdomadaire, mensuel ou annuel valable dans le secteur de travail sur présentation de l'abonnement susvisé.
+
+Pour les salariés d'intervention dont la durée du travail est inférieure à la moitié de la durée légale du travail, l'employeur devra rembourser le titre de transport ou la location du vélo, à l'unité soit, si cela est moins coûteux, 100 % de l'abonnement du salarié.
+
+b) Utilisation par le salarié de sa voiture personnelle
+
+Les salariés amenés à faire usage de leur voiture personnelle, au sens de la doctrine fiscale, pour les besoins du service perçoivent une indemnité de 0,40 euros par kilomètre parcouru.
+
+La décomposition du montant de cette indemnité kilométrique est la suivante pour un véhicule thermique :
+
+Décomposition |
+
+Pourcentage |
+
+Montant en euros |
+
+Amortissement |
+
+30,00 % |
+
+0,12 |
+
+Erosion prix d'achat |
+
+2,50 % |
+
+0,01 |
+
+Assurances (trajet professionnel sans transport de personne) |
+
+17,50 % |
+
+0,07 |
+
+Garage (entretien) |
+
+10,00 % |
+
+0,04 |
+
+Carburant |
+
+35,00 % |
+
+0,14 |
+
+Entretien (lavage) |
+
+2,50 % |
+
+0,01 |
+
+Garage (local) |
+
+2,50 % |
+
+0,01 |
+
+Total |
+
+100,00 % |
+
+0,40 |
+
+La décomposition du montant de cette indemnité kilométrique est la suivante pour un véhicule électrique :
+
+Décomposition |
+
+Pourcentage |
+
+Montant en euros |
+
+Amortissement |
+
+42,50 % |
+
+0,17 |
+
+Erosion prix d'achat |
+
+5,00 % |
+
+0,02 |
+
+Assurances (trajet professionnel sans transport de personne) |
+
+20,00 % |
+
+0,08 |
+
+Garage (entretien) |
+
+7,50 % |
+
+0,03 |
+
+Recharge électrique |
+
+17,50 % |
+
+0,07 |
+
+Entretien (lavage) |
+
+2,50 % |
+
+0,01 |
+
+Garage (local) + ligne borne |
+
+5,00 % |
+
+0,02 |
+
+Total |
+
+100,00 % |
+
+0,40 € |
+
+c) Utilisation d'un deux-roues à moteur (cyclomoteurs, vélomoteurs et motocyclettes) : 0,16 €/km.
+
+d) Utilisation d'un quadricycle léger à moteur (voiturette ou véhicule sans permis) : 0,16 €/km.
+
+Cette indemnité kilométrique a la même décomposition que pour les véhicules thermiques ou électriques.
+
+e) Utilisation d'un vélo ou d'une trottinette électrique : 0,10 €/km.
+
+Dans les cas visés aux b, c, d et e les salariés doivent justifier avoir souscrit une police d'assurance couvrant le risque d'utilisation professionnelle de leur véhicule ou deux-roues et ne peuvent prétendre à une indemnité de l'employeur ou son représentant pour tout dommage subi ou responsabilité encourue à ce titre.
+
+Article 14.3
+
+Assurance des trajets et/ou déplacements professionnels
+
+Le salarié peut également être amené, à la demande de l'employeur, à utiliser son véhicule personnel pour la réalisation de missions spécifiques telles que le transport accompagné ou les courses.
+
+Si la couverture de ces missions spécifiques entraîne un surcoût de la prime d'assurance professionnelle pour le salarié, ce coût supplémentaire est pris en charge par l'employeur sur présentation d'un justificatif ce qui n'est pas le cas si l'employeur souscrit une assurance collective pour ces missions.
+
+Les frais d'assurance occasionnés par les trajets et/ou déplacements professionnels sont quant à eux pris en charge dans le montant des indemnités kilométriques conformément aux dispositions de l'article V.14.3. »
