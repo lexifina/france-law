@@ -70,7 +70,397 @@ Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER23
 
 -Remplacement de véhicules par des véhicules neufs performants dans une flotte professionnelle/ Fiche d’opération n° TRA-EQ-114
 
-Conformément à l'article 4 de l'arrêté du 8 septembre 2025 (NOR : ECOR2524330A), la fiche d’opération n° TRA-EQ-114, ainsi que son annexe 1, est remplacée à compter du 1er octobre 2025 par la fiche portant la même référence présente à l'annexe de l'arrêté précité. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=okg8pYdlzqssb9b30Jjqo3sandLT26TN9C8duJfQGwQ=
+Achat ou location d'un véhicule léger électrique neuf ou opération de rétrofit électrique d'un véhicule léger,
+
+par une collectivité locale ou une autre personne morale |
+
+1. Secteur d'application
+
+Transport de voyageurs et de marchandises par des véhicules électriques neufs ou issus d'une opération de rétrofit électrique, de catégorie (au sens de l'article R. 311-1 du code de la route) M1, N1 et N2 bénéficiant de la dérogation de poids, prévue au IV de l'article R. 312-4 du code de la route, d'un poids total autorisé en charge inférieur ou égal à 3,5 tonnes.
+
+2. Dénomination
+
+Achat ou location longue durée de véhicules légers électriques neufs, ou réalisation d'une opération de rétrofit électrique sur des véhicules légers, par des collectivités territoriales, leurs groupements et leurs établissements publics ou par d'autres personnes morales.
+
+La présente fiche s'applique aux opérations engagées avant le 1er janvier 2030.
+
+3. Conditions pour la délivrance de certificats
+
+La présente opération concerne :
+
+a) L'achat ou la location, par une collectivité locale, un groupement de collectivités locales ou un de leurs établissements publics ou par une autre personne morale, d'un ou plusieurs véhicules légers de catégorie M1, ou de véhicules utilitaires de catégorie N1 (ou N2 bénéficiant de la dérogation de poids, prévue au IV de l'article R. 312-4 du code de la route) électriques neufs ; ou
+
+b) La réalisation d'une opération de rétrofit électrique, c'est-à-dire d'une transformation de véhicule à motorisation thermique en motorisation électrique selon les conditions prévues par l'arrêté du 13 mars 2020 relatif au rétrofit, d'un ou plusieurs véhicules légers de catégorie M1 ou véhicules utilitaires de catégorie N1 (ou N2 bénéficiant de la dérogation de poids prévue au IV de l'article R. 312-4 du code de la route) par une collectivité locale, un groupement de collectivités locales ou un de leurs établissements publics, ou par une autre personne morale.
+
+Est considéré dans la présente fiche comme étant un véhicule électrique ou véhicule issu d'une opération de rétrofit électrique un véhicule qui utilise l'électricité comme source exclusive d'énergie.
+
+Dans le cas d'une location, la durée du contrat de location est au minimum de vingt-quatre mois, hors reconduction tacite. Dans le cas d'un achat, le bénéficiaire conserve le véhicule acquis pour une durée minimale de vingt-quatre mois.
+
+Le bénéficiaire est une collectivité locale, un groupement de collectivités locales ou un de leurs établissements publics ou une autre personne morale.
+
+Un véhicule précédemment affecté à la démonstration par un concessionnaire ou un agent de marque, au sens de l'arrêté du 9 février 2009 relatif aux modalités d'immatriculation des véhicules, est éligible à la présente fiche si l'achat ou la prise en location intervient dans un délai compris entre trois et douze mois suivant sa première immatriculation.
+
+La preuve de la réalisation de l'opération mentionne l'achat ou la location de véhicules légers électriques neufs de catégorie M1, ou de véhicules utilitaires de catégorie N1 (ou N2 bénéficiant de la dérogation de poids, prévue au IV de l'article R. 312-4 du code de la route) ou le rétrofit électrique de véhicules légers de catégorie M1, ou de véhicules utilitaires de catégorie N1 (ou N2 bénéficiant de la dérogation de poids, prévue au IV de l'article R. 312-4 du code de la route), mentionne le numéro d'immatriculation des véhicules achetés ou loués ou des véhicules ayant fait l'objet d'une opération de rétrofit électrique, et identifie les véhicules précédemment affectés à la démonstration. Dans le cas d'un véhicule bénéficiant de la bonification prévue par le III de l'article 3-7-3 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, elle indique en sus que le site de fabrication du véhicule, tel que défini au 1° du IX de l'arrêté du 29 décembre 2014 susmentionné, est localisé au sein de l'Espace économique européen.
+
+Les documents justificatifs spécifiques à l'opération sont les suivants :
+
+- la copie du certificat provisoire ou définitif d'immatriculation définitive des véhicules achetés ou loués ou des véhicules ayant fait l'objet d'une opération de rétrofit électrique ;
+
+- pour les véhicules ayant fait l'objet d'une opération de rétrofit électrique, l'attestation de transformation, telle que définie par l'annexe II de l'arrêté du 13 mars 2020, et le certificat d'immatriculation définitive précédant l'opération de rétrofit ;
+
+- pour les véhicules précédemment affectés à la démonstration, le premier certificat d'immatriculation et le récépissé de fin de démonstration ;
+
+- la feuille récapitulative, disponible sur le site internet du ministère chargé de l'énergie, mentionnant les caractéristiques des véhicules achetés, loués ou issus d'une opération de rétrofit électrique.
+
+4. Durée de vie conventionnelle
+
+La durée de vie conventionnelle est de :
+
+- 16 ans pour les véhicules légers électriques neufs achetés ou loués ;
+
+- 12 ans pour les véhicules légers ayant fait l'objet d'une opération de rétrofit électrique.
+
+5. Montant de certificats en kWh cumac
+
+Catégorie de véhicule au sens de l'article R. 311-1 du code de la route |
+
+Montant en kWh cumac par véhicule |
+
+|
+
+Nombre de véhicules |
+
+Véhicule léger neuf M1 |
+
+74 200 |
+
+X |
+
+N |
+
+Véhicule utilitaire léger neuf N1 ou N2 bénéficiant de la dérogation de poids de Masse en ordre de marche (*) ≤ 1,55 tonne |
+
+116 000 |
+
+Véhicule utilitaire léger neuf N1 ou N2 bénéficiant de la dérogation de poids de Masse en ordre de marche (*) > 1,55 tonne et ≤ 2 tonnes |
+
+125 400 |
+
+Véhicule utilitaire léger neuf N1 ou N2 bénéficiant de la dérogation de poids de Masse en ordre de marche (*) > 2 tonnes |
+
+172 600 |
+
+Véhicule léger M1 issu d'une opération de rétrofit |
+
+59 800 |
+
+Véhicule utilitaire léger N1 ou N2 bénéficiant de la dérogation de poids issu d'une opération de rétrofit de Masse en ordre de marche (*) ≤ 1,55 tonne |
+
+93 400 |
+
+Véhicule utilitaire léger N1 ou N2 bénéficiant de la dérogation de poids issu d'une opération de rétrofit de Masse en ordre de marche (*) > 1,55 tonne et ≤ 2 tonnes |
+
+101 000 |
+
+Véhicule utilitaire léger N1 ou N2 bénéficiant de la dérogation de poids issu d'une opération de rétrofit de Masse en ordre de marche (*) > 2 tonnes |
+
+139 000 |
+
+(*) Désigne la masse du véhicule en service avec carrosserie et dispositif d'attelage en cas de véhicule tracteur de catégorie autre que M1 (en kg), telle que définie par l'arrêté du 9 février 2009 relatif aux modalités d'immatriculation des véhicules.
+
+Annexe 1 à la fiche d'opération standardisée TRA-EQ-114, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ TRA-EQ-114 (v. A83.5) : Achat ou location d'un véhicule léger électrique neuf ou opération de rétrofit électrique d'un véhicule léger, par une collectivité locale ou une autre personne morale.
+
+(*) Date d'engagement de l'opération (ex : date d'acception du devis ou de la commande ou du contrat de location) : //
+
+(*) Date de la preuve de réalisation de l'opération (ex : date de la facture ou du contrat de location) : //
+
+Référence de la preuve de réalisation (ex. : facture ou contrat de location) :
+
+(*) L'opération consiste en (cocher une seule case) :
+
+□ l'achat d'un ou plusieurs véhicules légers électriques neufs de catégorie M1
+
+□ l'achat d'un ou plusieurs véhicules utilitaires légers neufs de catégorie N1 ou N2 bénéficiant de la dérogation de poids
+
+□ la location d'un ou plusieurs véhicules légers électriques neufs de catégorie M1
+
+□ la location d'un ou plusieurs véhicules légers électriques neufs de catégorie N1 ou N2 bénéficiant de la dérogation de poids
+
+□ le rétrofit électrique d'un ou plusieurs véhicules légers de catégorie M1
+
+□ le rétrofit électrique d'un ou plusieurs véhicules légers de catégorie N1 ou N2 bénéficiant de la dérogation de poids
+
+(*) Dans le cas d'une location, la durée de celle-ci est supérieure ou égale à vingt-quatre mois : □ OUI □ NON
+
+(*) Dans le cas d'un achat, je m'engage à conserver le véhicule pour au moins vingt-quatre mois : □ OUI □ NON
+
+(*) L'opération comporte l'achat ou la location d'un ou plusieurs véhicules précédemment affectés à la démonstration :
+
+□ OUI □ NON
+
+Dans le cas de l'achat ou de la location d'un ou plusieurs véhicules précédemment affectés à la démonstration :
+
+(*) Le ou les véhicules étaient affectés à la démonstration par un concessionnaire ou un agent de marque :
+
+□ OUI □ NON
+
+(*) L'achat ou la prise en location est intervenu dans un délai compris entre trois et douze mois suivant sa première immatriculation : □ OUI □ NON
+
+Dans le cas de la déclaration d'un unique véhicule :
+
+(*) N° d'immatriculation du véhicule acquis :
+
+(*) N° d'identification du véhicule acquis :
+
+(*) Type Variante Version du véhicule acquis :
+
+Dans le cas d'une déclaration groupée :
+
+*Récapitulatif des véhicules achetés ou loués ou issus d'une opération de rétrofit électrique :
+
+Catégorie du véhicule au sens de l'article R. 311-1 du code de la route |
+
+Nombre de véhicules |
+
+Véhicule léger neuf M1 |
+
+|
+
+Véhicule utilitaire léger neuf N1 ou N2 bénéficiant de la dérogation de poids de Masse en ordre de marche (*) ≤ 1,55 tonne |
+
+|
+
+Véhicule utilitaire léger neuf N1 ou N2 bénéficiant de la dérogation de poids de Masse en ordre de marche (*) > 1,55 tonne et ≤ 2 tonnes |
+
+|
+
+Véhicule utilitaire léger neuf N1 ou N2 bénéficiant de la dérogation de poids de Masse en ordre de marche (*) > 2 tonnes |
+
+|
+
+Véhicule léger M1 issu d'une opération de rétrofit |
+
+|
+
+Véhicule utilitaire léger N1 ou N2 bénéficiant de la dérogation de poids issu d'une opération de rétrofit de Masse en ordre de marche (*) ≤ 1,55 tonne |
+
+|
+
+Véhicule utilitaire léger N1 ou N2 bénéficiant de la dérogation de poids issu d'une opération de rétrofit de Masse en ordre de marche (*) > 1,55 tonne et ≤ 2 tonnes |
+
+|
+
+Véhicule utilitaire léger N1 ou N2 bénéficiant de la dérogation de poids issu d'une opération de rétrofit de Masse en ordre de marche (*) > 2 tonnes |
+
+|
+
+(*) Désigne la masse du véhicule en service avec carrosserie et dispositif d'attelage en cas de véhicule tracteur de catégorie autre que M1 (en kg), telle que définie par l'arrêté du 9 février 2009 relatif aux modalités d'immatriculation des véhicules.
+
+Annexe 2 à la fiche d'opération standardisée TRA-EQ-114, définissant le modèle de tableau récapitulatif des opérations d'économies d'énergie
+
+PERSONNES MORALES
+
+RAISON
+
+sociale
+
+du demandeur |
+
+SIREN
+
+du demandeur |
+
+RÉFÉRENCE
+
+EMMY
+
+de la demande |
+
+RÉFÉRENCE
+
+interne
+
+de l'opération |
+
+Code NAF du bénéficiaire de l'opération |
+
+ADRESSE
+
+de l'opération |
+
+CODE
+
+postal sans Cedex |
+
+VILLE |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+RAISON
+
+sociale
+
+du bénéficiaire de l'opération |
+
+SIREN |
+
+ADRESSE du siège social du bénéficiaire de l'opération |
+
+CODE
+
+postal sans Cedex |
+
+VILLE |
+
+VOLUME CEE
+
+"hors précarité énergétique"
+
+(kWh cumac) |
+
+VOLUME CEE
+
+"précarité énergétique"
+
+(kWh cumac) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+RÉFÉRENCE
+
+de la fiche
+
+d'opération standardisée |
+
+DATE
+
+d'engagement
+
+de l'opération |
+
+DATE
+
+d'achèvement
+
+de l'opération |
+
+NATURE
+
+de la bonification |
+
+SIREN
+
+du professionnel |
+
+RAISON sociale
+
+du professionnel |
+
+SIREN
+
+du sous-traitant |
+
+RAISON sociale du sous-traitant |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+NATURE du rôle actif et incitatif |
+
+SIREN de l'organisme de contrôle |
+
+RAISON sociale de l'organisme de contrôle |
+
+SIRET de l'entreprise ayant réalisé l'opération |
+
+Numéro de téléphone du bénéficiaire |
+
+Adresse de courriel du bénéficiaire |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite et fin du tableau
+
+Montant du rôle actif et incitatif (€) |
+
+Commentaires |
+
+Raison sociale du mandataire assurant le rôle actif et incitatif |
+
+Numéro SIREN du mandataire assurant le rôle actif et incitatif |
+
+Numéro d'identification du véhicule |
+
+Numéro d'immatriculation du véhicule |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 -Véhicule de transport de marchandises optimisé/ Fiche d’opération n° TRA-EQ-115
 
@@ -80,13 +470,319 @@ Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER23
 
 -Remplacement de véhicules par des véhicules neufs performants pour les particuliers ou les collectivités/ Fiche d’opération n° TRA-EQ-117
 
-Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : ECOR2435303A), la fiche d’opération n° TRA-EQ-117 est remplacée à compter du 1er janvier 2025 par la fiche portant la même référence présente à l'annexe E de l'arrêté précité. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Jo1UJTY9SbF2fbpIwW8qSVmdwg5k-UdZn955Kn6O8OI=
+Opération n° TRA-EQ-117
 
-Conformément à l'article 1er de l'arrêté du 19 mai 2025 (NOR : ECOR2511968A), la fiche d'opération n° TRA-EQ-117 figurant en annexe A audit arrêté remplace la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=hcis8G3q3U3HS93S8_fGg50MAYBpOrokJOp3oZQzPBE=.
+Achat ou location d'un véhicule léger électrique neuf ou opération de rétrofit électrique d'un véhicule léger par des personnes physiques |
 
-Conformément à l'article 5 de l'arrêté du 27 juin 2025 (NOR : ECOR2518213A), la fiche d'opération n° TRA-EQ-117 figurant en annexe B audit arrêté remplace la fiche portant la même référence. Vous pouvez consulter la fiche à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=sH2XRqqlpQD3zstgDsxWJfpkgvuqALFfA-uBENCC3pA=.
+1. Secteur d'application
 
-Conformément à l'article 4 de l'arrêté du 8 septembre 2025 (NOR : ECOR2524330A), la fiche d’opération n° TRA-EQ-117, ainsi que son annexe 1, est remplacée à compter du 1er octobre 2025 par la fiche portant la même référence présente à l'annexe de l'arrêté précité. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=okg8pYdlzqssb9b30Jjqo3sandLT26TN9C8duJfQGwQ=
+Transport de voyageurs et de marchandises par des véhicules électriques neufs ou issus d'une opération de rétrofit électrique, de catégorie (au sens de l'article R. 311-1 du code de la route) M1, N1 et N2 bénéficiant de la dérogation de poids, prévue au IV de l'article R. 312-4 du code de la route, d'un poids total autorisé en charge inférieur ou égal à 3,5 tonnes.
+
+2. Dénomination
+
+Achat ou location longue durée de véhicules légers électriques neufs, ou réalisation d'une opération de rétrofit électrique sur des véhicules légers, par des personnes physiques.
+
+La présente fiche s'applique aux opérations engagées avant le 1er janvier 2030.
+
+3. Conditions pour la délivrance de certificats
+
+La présente opération concerne :
+
+a) L'achat ou la location, par une personne physique, d'un ou plusieurs véhicules légers (de catégorie M1) ou de véhicules utilitaires (de catégorie N1, ou N2 bénéficiant de la dérogation de poids, prévue au IV de l'article R. 312-4 du code de la route) électriques neufs ; ou
+
+b) La réalisation d'une opération de rétrofit électrique, c'est-à-dire d'une transformation de véhicule à motorisation thermique en motorisation électrique selon les conditions prévues par l'arrêté du 13 mars 2020 relatif au rétrofit, d'un ou plusieurs véhicules légers (de catégorie M1) ou véhicules utilitaires (de catégorie N1, ou N2 bénéficiant de la dérogation de poids prévue au IV de l'article R. 312-4 du code de la route) par une personne physique.
+
+Est considéré dans la présente fiche comme étant un véhicule électrique ou véhicule issu d'une opération de rétrofit électrique un véhicule qui utilise l'électricité comme source exclusive d'énergie.
+
+Dans le cas d'une location, la durée du contrat de location est au minimum de vingt-quatre mois, hors reconduction tacite. Dans le cas d'un achat, le bénéficiaire conserve le véhicule acquis pour une durée minimale de vingt-quatre mois.
+
+Le bénéficiaire est une personne physique. Le nombre de véhicules valorisables au titre de la présente fiche est inférieur ou égal à 5 véhicules, toutes catégories confondues, par personne physique.
+
+Un véhicule précédemment affecté à la démonstration par un concessionnaire ou un agent de marque, au sens de l'arrêté du 9 février 2009 relatif aux modalités d'immatriculation des véhicules, est éligible à la présente fiche si l'achat ou la prise en location intervient dans un délai compris entre trois et douze mois suivant sa première immatriculation.
+
+La preuve de la réalisation de l'opération mentionne l'achat ou la location de véhicules légers électriques neufs de catégorie M1, ou de véhicules utilitaires de catégorie N1 (ou N2 bénéficiant de la dérogation de poids, prévue au IV de l'article R. 312-4 du code de la route) ou le rétrofit électrique de véhicules légers de catégorie M1, ou de véhicules utilitaires de catégorie N1 (ou N2 bénéficiant de la dérogation de poids, prévue au IV de l'article R. 312-4 du code de la route), mentionne le numéro d'immatriculation des véhicules achetés ou loués ou des véhicules ayant fait l'objet d'une opération de rétrofit électrique, et identifie les véhicules précédemment affectés à la démonstration. Dans le cas d'un véhicule bénéficiant de la bonification prévue par le 1° ou le 2° du VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, elle indique également que le véhicule vérifie la condition mentionnée au 3° de l'article D. 251-1 du code de l'énergie, un coût d'acquisition inférieur ou égal à 47 000 euros toutes taxes comprises (incluant le cas échéant le coût d'acquisition ou de location de la batterie) et une masse en ordre de marche inférieure à 2 400 kg. Dans le cas d'un véhicule bénéficiant de la bonification prévue par le 2° du VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 susmentionné, elle indique en sus que le site de fabrication du véhicule et le site de production de la batterie du véhicule, tels que définis à l'article 2 de l'arrêté du 7 octobre 2023 susvisé, sont localisés au sein de l'Espace économique européen. Dans le cas d'un véhicule bénéficiant de la bonification prévue par le IV de l'article 3-7-3 de l'arrêté du 29 décembre 2014 susmentionné, elle indique en sus que le site de fabrication du véhicule, tel que défini au 1° du IX de l'arrêté du 29 décembre 2014 susmentionné, est localisé au sein de l'Espace économique européen.
+
+Lorsque le véhicule est pris en location, la preuve de réalisation de l'opération est constituée par le contrat de location ou la facture du premier loyer.
+
+Les documents justificatifs spécifiques à l'opération sont les suivants :
+
+- la copie du certificat provisoire ou définitif d'immatriculation définitive des véhicules achetés ou loués ou des véhicules ayant fait l'objet d'une opération de rétrofit électrique ;
+
+- pour les véhicules ayant fait l'objet d'une opération de rétrofit électrique, l'attestation de transformation et le certificat d'immatriculation définitive précédant l'opération de rétrofit ;
+
+- pour les véhicules précédemment affectés à la démonstration, le premier certificat d'immatriculation et le récépissé de fin de démonstration.
+
+4. Durée de vie conventionnelle
+
+La durée de vie conventionnelle est de :
+
+- 16 ans pour les véhicules légers électriques neufs achetés ou loués ;
+
+- 12 ans pour les véhicules légers ayant fait l'objet d'une opération de rétrofit électrique.
+
+5. Montant de certificats en kWh cumac
+
+Catégorie du véhicule au sens de l'article R. 311-1 du code de la route |
+
+Montant en kWh cumac
+
+par véhicule |
+
+Véhicule léger neuf M1 |
+
+49 100 |
+
+Véhicule utilitaire léger neuf N1 ou N2 bénéficiant de la dérogation de poids de Masse en ordre de marche (*) ≤ 1,55 tonne |
+
+70 200 |
+
+Véhicule utilitaire léger neuf N1 ou N2 bénéficiant de la dérogation de poids de Masse en ordre de marche (*) > 1,55 tonne et ≤ 2 tonnes |
+
+75 800 |
+
+Véhicule utilitaire léger neuf N1 ou N2 bénéficiant de la dérogation de poids de Masse en ordre de marche (*) > 2 tonnes |
+
+104 400 |
+
+Véhicule léger M1 issu d'une opération de rétrofit |
+
+39 500 |
+
+Véhicule utilitaire léger N1 ou N2 bénéficiant de la dérogation de poids issu d'une opération de rétrofit de Masse en ordre de marche (*) ≤ 1,55 tonne |
+
+56 500 |
+
+Véhicule utilitaire léger N1 ou N2 bénéficiant de la dérogation de poids issu d'une opération de rétrofit de Masse en ordre de marche (*) > 1,55 tonne et ≤ 2 tonnes |
+
+61 100 |
+
+Véhicule utilitaire léger N1 ou N2 bénéficiant de la dérogation de poids issu d'une opération de rétrofit de Masse en ordre de marche (*) > 2 tonnes |
+
+84 100 |
+
+(*) Désigne la masse du véhicule en service avec carrosserie et dispositif d'attelage en cas de véhicule tracteur de catégorie autre que M1 (en kg), telle que définie par l'arrêté du 9 février 2009 relatif aux modalités d'immatriculation des véhicules.
+
+Annexe 1 à la fiche d'opération standardisée TRA-EQ-117, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ TRA-EQ-117 (v. A83.6) : Achat ou location d'un véhicule léger électrique neuf ou opération de rétrofit électrique d'un véhicule léger par des personnes physiques
+
+(*) Date d'engagement de l'opération (ex : date d'acception du devis ou de la commande ou du contrat de location) : //
+
+(*) Date de la preuve de réalisation de l'opération (ex : date de la facture ou du contrat de location) : //
+
+Référence de la preuve de réalisation (ex. : facture ou contrat de location) :
+
+(*) L'opération consiste en (cocher une seule case) :
+
+□ l'achat d'un ou plusieurs véhicules légers électriques neufs de catégorie M1
+
+□ l'achat d'un ou plusieurs véhicules utilitaires légers neufs de catégorie N1 ou N2 bénéficiant de la dérogation de poids
+
+□ la location d'un ou plusieurs véhicules légers électriques neufs de catégorie M1
+
+□ la location d'un ou plusieurs véhicules légers électriques neufs de catégorie N1 ou N2 bénéficiant de la dérogation de poids
+
+□ le rétrofit électrique d'un ou plusieurs véhicules légers de catégorie M1
+
+□ le rétrofit électrique d'un ou plusieurs véhicules légers de catégorie N1 ou N2 bénéficiant de la dérogation de poids
+
+(*) Dans le cas d'une location, la durée de celle-ci est supérieure ou égale à vingt-quatre mois : □ OUI □ NON
+
+(*) Dans le cas d'un achat, je m'engage à conserver le véhicule pour au moins vingt-quatre mois : □ OUI □ NON
+
+(*) L'opération comporte l'achat ou la location d'un véhicule précédemment affecté à la démonstration :
+
+□ OUI □ NON
+
+(*) J'atteste ne pas avoir bénéficié plus de 5 fois d'une prime CEE pour l'achat d'un véhicule léger électrique éligible à cette opération ou à une version précédente de cette opération :
+
+□ OUI □ NON
+
+Dans le cas de l'achat ou de la location d'un véhicule précédemment affecté à la démonstration :
+
+(*) Le véhicule était affecté à la démonstration par un concessionnaire ou un agent de marque : □ OUI □ NON
+
+(*) L'achat ou la prise en location est intervenu dans un délai compris entre trois et douze mois suivant sa première immatriculation : □ OUI □ NON
+
+(*) Dans le cas d'un véhicule bénéficiant de la bonification prévue par le VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le véhicule acquis n'a pas bénéficié du bonus écologique mentionné à l'article D. 251-1 du code de l'énergie dans sa version en vigueur au 1er janvier 2025 ou une autre incitation mise en place dans le cadre du dispositif des certificats d'économies d'énergie, et notamment les programmes CEE de "Location sociale de voitures électriques" :
+
+□ OUI □ NON
+
+(*) Numéro d'immatriculation du véhicule acquis :
+
+(*) N° d'identification du véhicule acquis :
+
+(*) Type Variante Version du véhicule acquis :
+
+Annexe 2 à la fiche d'opération standardisée TRA-EQ-117 définissant le modèle de tableau récapitulatif des opérations d'économies d'énergie
+
+PERSONNES PHYSIQUES
+
+RAISON
+
+sociale du demandeur |
+
+SIREN
+
+du demandeur |
+
+RÉFÉRENCE EMMY
+
+de la demande |
+
+RÉFÉRENCE interne de l'opération |
+
+NOM
+
+du bénéficiaire de l'opération |
+
+PRÉNOM
+
+du bénéficiaire de l'opération |
+
+ADRESSE de l'opération |
+
+CODE postal sans Cedex |
+
+VILLE |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+VOLUME CEE
+
+"hors précarité énergétique"
+
+(kWh cumac) |
+
+VOLUME CEE
+
+"précarité énergétique"
+
+(kWh cumac) |
+
+RÉFÉRENCE
+
+de la fiche
+
+d'opération standardisée |
+
+DATE
+
+d'engagement
+
+de l'opération |
+
+DATE
+
+de la facture |
+
+NATURE
+
+de la bonification |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+SIREN du professionnel |
+
+RAISON sociale du professionnel |
+
+SIREN
+
+du sous-traitant |
+
+RAISON sociale
+
+du sous-traitant |
+
+NATURE du rôle actif et incitatif |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+SIREN de l'organisme de contrôle |
+
+RAISON sociale de l'organisme de contrôle |
+
+SIRET de l'entreprise ayant réalisé l'opération |
+
+Numéro de téléphone du bénéficiaire |
+
+Adresse de courriel du bénéficiaire |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite et fin du tableau
+
+Montant du rôle actif et incitatif (€) |
+
+Commentaires |
+
+Raison sociale du mandataire assurant le rôle actif et incitatif |
+
+Numéro SIREN du mandataire assurant le rôle actif et incitatif |
+
+Numéro d'identification du véhicule |
+
+Numéro d'immatriculation du véhicule |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 -Lubrifiant économiseur d’énergie pour la pêche professionnelle/ Fiche d’opération n° TRA-EQ-118
 
@@ -130,9 +826,449 @@ Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER23
 
 -Achat ou location d'un autocar ou d'un autobus électrique neuf ou réalisation d'une opération de rétrofit électrique d'autocar ou d'autobus/ Fiche d’opération n° TRA-EQ-128
 
-Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : ECOR2435303A), la fiche d’opération n° TRA-EQ-128 est remplacée à compter du 1er janvier 2025 par la fiche portant la même référence présente à l'annexe E de l'arrêté précité. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Jo1UJTY9SbF2fbpIwW8qSVmdwg5k-UdZn955Kn6O8OI=
+Opération n° TRA-EQ-128
 
-Conformément à l'article 1er de l'arrêté du 19 mai 2025 (NOR : ECOR2511968A), la fiche d'opération n° TRA-EQ-128 figurant en annexe A audit arrêté remplace la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=hcis8G3q3U3HS93S8_fGg50MAYBpOrokJOp3oZQzPBE=.
+Achat ou location d'un autocar ou d'un autobus électrique neuf ou réalisation d'une opération de rétrofit électrique d'autocar ou d'autobus |
+
+1. Secteur d'application
+
+Transport de voyageurs par des autobus ou autocars électriques neufs ou issus d'une opération de rétrofit électrique, de catégorie M2 et M3 (au sens de l'article R. 311-1 du code de la route).
+
+2. Dénomination
+
+Achat ou location longue durée d'autocars ou autobus électriques neufs, ou réalisation d'une opération de rétrofit électrique sur des autocars ou autobus.
+
+La présente fiche s'applique aux opérations engagées avant le 1er janvier 2030.
+
+3. Conditions pour la délivrance de certificats
+
+La présente opération concerne :
+
+a) L'achat ou la location d'un ou plusieurs autocars électriques neufs ou d'un ou plusieurs autobus électriques neufs ; ou
+
+b) La réalisation d'une opération de rétrofit électrique, c'est-à-dire d'une transformation de véhicule à motorisation thermique en motorisation électrique selon les conditions prévues par l'arrêté du 13 mars 2020 relatif au rétrofit, d'un ou plusieurs autocars ou autobus.
+
+Est considéré dans la présente fiche comme étant un véhicule électrique ou véhicule issu d'une opération de rétrofit électrique un véhicule qui utilise l'électricité comme source exclusive d'énergie.
+
+Un autocar électrique neuf ou un autobus électrique neuf appartient, par défaut, à la catégorie "standard".
+
+Un autocar ou autobus électrique neuf, équipé d'un pantographe ou qui satisfait aux critères de capacité de batterie définis dans le tableau ci-dessous, appartient à la catégorie "grande capacité".
+
+Capacité de batterie pour un véhicule
+
+de 12 à 16 mètres inclus |
+
+Capacité de batterie pour un véhicule
+
+de 16 à 24 mètres inclus |
+
+Capacité de batterie pour un véhicule
+
+de plus de 24 mètres |
+
+≥ 390 kWh |
+
+≥ 540 kWh |
+
+≥ 690 kWh |
+
+Dans le cas d'une location, la durée du contrat de location est au minimum de soixante mois, hors reconduction tacite. Dans le cas d'un achat, le bénéficiaire conserve le véhicule acquis pour une durée minimale de soixante mois.
+
+Le bénéficiaire est une collectivité locale, un groupement de collectivités locales ou un de leurs établissements publics ou une autre personne morale.
+
+Ne sont pas éligibles les autobus et autocars dont l'achat ou la location a fait l'objet d'une contractualisation avec l'ADEME dans le cadre du programme E-TRANS ou des appels à projets "Ecosystème des véhicules lourds électriques" de 2022 et 2023.
+
+La preuve de la réalisation de l'opération mentionne l'achat ou la location d'un (d') autocar(s) électrique(s) neuf(s), d'un (d') autobus électrique(s) neuf(s), ou le rétrofit électrique d'un (d') autocar(s) ou d'un (d') autobus, ainsi que la catégorie à laquelle appartient chacun des véhicules achetés ou loués hors rétrofit (standard ou grande capacité) et le numéro d'immatriculation de chaque véhicule. S'agissant des autobus, il est également mentionné si ces véhicules sont destinés à desservir des communes appartenant à une agglomération de plus de 250 000 habitants (ces communes sont mentionnées dans l'annexe I de l'arrêté du 22 décembre 2021 établissant les listes d'agglomérations de plus de 100 000, 150 000 et 250 000 habitants conformément à l'article R. 221-2 du code de l'environnement et à l'article L. 2213-4-1 du code général des collectivités territoriales).
+
+Les documents justificatifs spécifiques à l'opération sont les suivants :
+
+- la copie du certificat provisoire ou définitif d'immatriculation définitive des véhicules achetés ou loués ou des véhicules ayant fait l'objet d'une opération de rétrofit électrique- pour les véhicules ayant fait l'objet d'une opération de rétrofit électrique, l'attestation de transformation, telle que définie par l'annexe II de l'arrêté du 13 mars 2020, et le certificat d'immatriculation définitive précédant l'opération de rétrofit ;
+
+- la feuille récapitulative, disponible sur le site internet de la direction générale de l'énergie et du climat du ministère chargé de l'énergie, mentionnant les caractéristiques des véhicules achetés ou loués ou issus d'une opération de rétrofit électrique.
+
+4. Durée de vie conventionnelle
+
+La durée de vie conventionnelle est de :
+
+- 20 ans pour les autocars et autobus électriques neufs ;
+
+- 15 ans pour les autocars et autobus issus d'une opération de rétrofit électrique.
+
+5. Montant de certificats en kWh cumac
+
+Catégorie du véhicule |
+
+Montant en kWh cumac par véhicule |
+
+|
+
+Nombre de véhicules |
+
+Autocar issu d'une opération de rétrofit |
+
+1 049 900 |
+
+|
+
+N |
+
+Autocar standard |
+
+1 602 800 |
+
+|
+
+Autocar grande capacité |
+
+2 564 500 |
+
+|
+
+(*)Pour une agglomération ≤ 250 000 habitants |
+
+|
+
+Autobus issu d'une opération de rétrofit |
+
+1 538 500 |
+
+|
+
+Autobus standard |
+
+2 350 700 |
+
+X |
+
+Autobus grande capacité |
+
+3 291 000 |
+
+|
+
+(**) Pour une agglomération > 250 000 habitants |
+
+|
+
+Autobus issu d'une opération de rétrofit |
+
+769 200 |
+
+|
+
+Autobus standard |
+
+1 175 300 |
+
+|
+
+Autobus grande capacité |
+
+1 645 500 |
+
+|
+
+(*) Les montants de certificats indiqués concernent les autobus achetés ou loués ou issus d'une opération de rétrofit pour desservir des communes non mentionnées à l'annexe I de l'arrêté du 22 décembre 2021 établissant les listes d'agglomérations de plus de 100 000, 150 000 et 250 000 habitants conformément à l'article R. 221-2 du code de l'environnement et à l'article L. 2213-4-1 du code général des collectivités territoriales.
+
+(**) Les montants de certificats indiqués concernent les autobus achetés ou loués ou issus d'une opération de rétrofit pour desservir des communes mentionnées à l'annexe I de l'arrêté du 22 décembre 2021 établissant les listes d'agglomérations de plus de 100 000, 150 000 et 250 000 habitants conformément à l'article R. 221-2 du code de l'environnement et à l'article L. 2213-4-1 du code général des collectivités territoriales.
+
+Annexe 1 à la fiche d'opération standardisée TRA-EQ-128, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ TRA-EQ-128 (v. A83.4) : Achat ou location d'un autocar ou autobus électrique neuf ou réalisation d'une opération de rétrofit électrique d'autocar ou d'autobus.
+
+Date d'engagement de l'opération (ex : date d'acception du devis ou de la commande ou du contrat de location) : //
+
+Date de la preuve de réalisation de l'opération (ex : date de la facture ou du contrat de location) : //
+
+Référence de la preuve de réalisation (ex. : facture ou contrat de location) :
+
+(*) L'opération consiste en (cocher une seule case) :
+
+□ l'achat d'autobus standards électriques neufs
+
+□ l'achat d'autobus grande capacité électriques neufs
+
+□ l'achat d'autocar standards électriques neufs
+
+□ l'achat d'autocar grande capacité électriques neufs
+
+□ la location d'autobus standards électriques neufs
+
+□ la location d'autobus grande capacité électriques neufs
+
+□ la location d'autocar standards électriques neufs
+
+□ la location d'autocar grande capacité électriques neufs
+
+□ le rétrofit électrique d'autocars
+
+□ le rétrofit électrique d'autobus
+
+(*) Dans le cas d'une location, la durée de celle-ci est supérieure ou égale à soixante mois : □ OUI □ NON
+
+(*) Dans le cas d'un achat, je m'engage à conserver le véhicule pour au moins soixante mois : □ OUI □ NON
+
+(*) L'opération a bénéficié d'aides dans le cadre du programme CEE E-TRANS ou des appels à projets "Ecosystème des véhicules lourds électriques" de 2022 et 2023 : □ OUI □ NON
+
+(*) Si l'opération concerne l'achat ou la location d'autobus ou le rétrofit électrique d'autobus, ceux-ci sont destinés à desservir des communes situées dans une agglomération de plus de 250 000 habitants : □ OUI □ NON
+
+NB. - Les communes situées dans une agglomération de plus de 250 000 habitants sont mentionnées dans l'annexe I de l'arrêté du 22 décembre 2021 établissant les listes d'agglomérations de plus de 100 000, 150 000 et 250 000 habitants conformément à l'article R. 221-2 du code de l'environnement et à l'article L. 2213-4-1 du code général des collectivités territoriales.
+
+(*) Récapitulatif des véhicules achetés ou loués ou issus d'une opération de rétrofit électrique :
+
+Catégorie des véhicules |
+
+Nombre de véhicules |
+
+Autocar issu d'une opération de rétrofit |
+
+|
+
+Autocar standard |
+
+|
+
+Autocar grande capacité |
+
+|
+
+(*) Pour une agglomération ≤ 250 000 habitants |
+
+Autobus issu d'une opération de rétrofit |
+
+|
+
+Autobus standard |
+
+|
+
+Autobus grande capacité |
+
+|
+
+(**) Pour une agglomération > 250 000 habitants |
+
+Autobus issu d'une opération de rétrofit |
+
+|
+
+Autobus standard |
+
+|
+
+Autobus grande capacité |
+
+|
+
+(*) Le nombre de véhicules à indiquer concerne les autobus achetés ou loués ou issus d'une opération de rétrofit pour desservir des communes non mentionnées à l'annexe I de l'arrêté du 22 décembre 2021 établissant les listes d'agglomérations de plus de 100 000, 150 000 et 250 000 habitants conformément à l'article R. 221-2 du code de l'environnement et à l'article L. 2213-4-1 du code général des collectivités territoriales.
+
+(**) Le nombre de véhicules à indiquer concerne les autobus achetés ou loués ou issus d'une opération de rétrofit pour desservir des communes mentionnées à l'annexe I de l'arrêté du 22 décembre 2021 établissant les listes d'agglomérations de plus de 100 000, 150 000 et 250 000 habitants conformément à l'article R. 221-2 du code de l'environnement et à l'article L. 2213-4-1 du code général des collectivités territoriales.
+
+Annexe 2 à la fiche d'opération standardisée TRA-EQ-128, définissant le modèle de tableau récapitulatif des opérations d'économies d'énergie
+
+PERSONNES MORALES
+
+RAISON
+
+sociale
+
+du demandeur |
+
+SIREN
+
+du demandeur |
+
+RÉFÉRENCE
+
+EMMY
+
+de la demande |
+
+RÉFÉRENCE
+
+interne
+
+de l'opération |
+
+NOM
+
+du site bénéficiaire de l'opération |
+
+ADRESSE
+
+de l'opération |
+
+CODE
+
+postal sans Cedex |
+
+VILLE |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+RAISON
+
+sociale
+
+du bénéficiaire de l'opération |
+
+SIREN |
+
+ADRESSE du siège social du bénéficiaire de l'opération |
+
+CODE
+
+postal sans Cedex |
+
+VILLE |
+
+VOLUME CEE
+
+"hors précarité énergétique"
+
+(kWh cumac) |
+
+VOLUME CEE
+
+"précarité énergétique"
+
+(kWh cumac) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+RÉFÉRENCE
+
+de la fiche
+
+d'opération standardisée |
+
+DATE
+
+d'engagement
+
+de l'opération |
+
+DATE
+
+d'achèvement
+
+de l'opération |
+
+NATURE
+
+de la bonification |
+
+SIREN
+
+du professionnel |
+
+RAISON sociale
+
+du professionnel |
+
+SIREN
+
+du sous-traitant |
+
+RAISON sociale du sous-traitant |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+NATURE du rôle actif et incitatif |
+
+SIREN de l'organisme de contrôle |
+
+RAISON sociale de l'organisme de contrôle |
+
+SIRET de l'entreprise ayant réalisé l'opération |
+
+Numéro de téléphone du bénéficiaire |
+
+Adresse de courriel du bénéficiaire |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite et fin du tableau
+
+Montant du rôle actif et incitatif (€) |
+
+Commentaires |
+
+Raison sociale du mandataire assurant le rôle actif et incitatif |
+
+Numéro SIREN du mandataire assurant le rôle actif et incitatif |
+
+Numéro d'identification du véhicule |
+
+Numéro d'immatriculation du véhicule |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 Opération n° TRA-EQ-129
 
@@ -140,7 +1276,7 @@ Achat ou location d'un véhicule lourd électrique neuf de transport de marchand
 
 1. Secteur d'application
 
-Transport de marchandises par des véhicules lourds électriques neufs ou issus d'une opération de rétrofit électrique, de catégorie N2 et N3 (au sens de l'article R. 311-1 du code de la route), hormis les véhicules de catégories N2 bénéficiant de la dérogation de poids prévue au IV de l'article R. 312-4 du code de la route, d'un poids total autorisé en charge inférieur ou égal à 3,5 tonnes.
+Transport de marchandises par des véhicules lourds électriques neufs ou issus d'une opération de rétrofit électrique, de catégorie N2 et N3 (au sens de l'article R. 311-1 du code de la route), hormis les véhicules de catégorie N2 bénéficiant de la dérogation de poids prévue au IV de l'article R. 312-4 du code de la route, d'un poids total autorisé en charge inférieur ou égal à 3,5 tonnes.
 
 2. Dénomination
 
@@ -164,15 +1300,13 @@ Les véhicules concernés sont destinés au transport de marchandises et peuvent
 
 Est considéré dans la présente fiche comme étant un véhicule électrique ou véhicule issu d'une opération de rétrofit électrique un véhicule qui utilise l'électricité comme source exclusive d'énergie.
 
-Dans le cas d'une location, la durée du contrat de location est au minimum de soixante mois, hors reconduction tacite.
+Dans le cas d'une location, la durée du contrat de location est au minimum de soixante mois, hors reconduction tacite. Dans le cas d'un achat, le bénéficiaire conserve le véhicule acquis pour une durée minimale de soixante mois.
 
 Le bénéficiaire est une collectivité locale, un groupement de collectivités locales ou un de leurs établissements publics ou une autre personne morale.
 
 Un véhicule précédemment affecté à la démonstration par un concessionnaire ou un agent de marque, au sens de l'arrêté du 9 février 2009 relatif aux modalités d'immatriculation des véhicules, est éligible à la présente fiche si l'achat ou la prise en location intervient dans un délai compris entre trois et douze mois suivant sa première immatriculation.
 
-Le véhicule acquis ne peut être revendu à une personne morale ayant son activité principale en dehors du territoire national sur la durée de vie conventionnelle définie dans la présente fiche.
-
-Ne sont pas éligibles les véhicules dont l'achat ou la location a fait l'objet d'une contractualisation avec l'ADEME dans le cadre du programme E-TRANS ou des appels à projets Ecosystème des véhicules lourds électriques de 2022 et 2023.
+Ne sont pas éligibles les véhicules dont l'achat ou la location a fait l'objet d'une contractualisation avec l'ADEME dans le cadre du programme E-TRANS ou des appels à projets "Ecosystème des véhicules lourds électriques" de 2022 et 2023.
 
 Les véhicules sont répartis selon les types suivants :
 
@@ -210,7 +1344,7 @@ N2 et N3 |
 
 Benne à ordures ménagères |
 
-(*) Sont exclus les véhicules bénéficiant de la dérogation de poids prévue au IV de l'article R. 312-4 du code de la route
+(*) Sont exclus les véhicules de catégorie N2 bénéficiant de la dérogation de poids prévue au IV de l'article R. 312-4 du code de la route, d'un poids total autorisé en charge inférieur ou égal à 3,5 tonnes.
 
 La preuve de la réalisation de l'opération mentionne :
 
@@ -231,6 +1365,8 @@ b) Le cas échéant, une opération de rétrofit électrique :
 - de bennes à ordures ménagères, leur numéro d'immatriculation et leur nombre.
 
 Elle identifie les véhicules précédemment affectés à la démonstration, le cas échéant.
+
+Dans le cas d'un véhicule bénéficiant de la bonification prévue par le VI de l'article 3-7-3 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, elle indique en sus que le site de fabrication du véhicule, tel que défini au 2° du IX de l'arrêté du 29 décembre 2014 susmentionné, est localisé au sein de l'Espace économique européen.
 
 S'agissant des bennes à ordures ménagères, il est également mentionné si ces véhicules sont destinés à desservir des communes appartenant à une agglomération de plus de 250 000 habitants (ces communes sont mentionnées dans l'annexe I de l'arrêté du 22 décembre 2021 établissant les listes d'agglomérations de plus de 100 000, 150 000 et 250 000 habitants conformément à l'article R. 221-2 du code de l'environnement et à l'article L. 2213-4-1 du code général des collectivités territoriales).
 
@@ -360,15 +1496,15 @@ Benne à ordures ménagères |
 
 Annexe 1 à la fiche d'opération standardisée TRA-EQ-129, définissant le contenu de la partie A de l'attestation sur l'honneur
 
-A/ TRA-EQ-129 (v. A73.3) : Achat ou location d'un véhicule lourd électrique neuf de transport de marchandises ou issu d'une opération de rétrofit électrique.
+A/ TRA-EQ-129 (v. A83.4) : Achat ou location d'un véhicule lourd électrique neuf de transport de marchandises ou issu d'une opération de rétrofit électrique.
 
-* Date d'engagement de l'opération (ex : date d'acception du devis ou de la commande) : //
+(*) Date d'engagement de l'opération (ex : date d'acception du devis ou de la commande) : //
 
-* Date de la preuve de réalisation de l'opération (ex : date de la facture ou du contrat de location) : //
+(*) Date de la preuve de réalisation de l'opération (ex : date de la facture ou du contrat de location) : //
 
-* Référence de la preuve de réalisation (ex. : numéro de facture ou contrat de location) :
+(*) Référence de la preuve de réalisation (ex. : numéro de facture ou contrat de location) :
 
-* L'opération consiste en (cocher une seule case) :
+(*) L'opération consiste en (cocher une seule case) :
 
 □ l'achat de véhicules neufs
 
@@ -376,27 +1512,31 @@ A/ TRA-EQ-129 (v. A73.3) : Achat ou location d'un véhicule lourd électrique ne
 
 □ le rétrofit électrique de véhicules
 
-* Dans le cas d'une location, la durée de celle-ci, hors reconduction tacite, est supérieure ou égale à soixante mois :
+(*) Dans le cas d'une location, la durée de celle-ci, hors reconduction tacite, est supérieure ou égale à soixante mois :
 
 □ OUI □ NON
 
-* L'opération comporte l'achat ou la location d'un ou plusieurs véhicules précédemment affectés à la démonstration :
+(*) Dans le cas d'un achat, je m'engage à conserver le véhicule pour au moins soixante mois : □ OUI □ NON
+
+(*) L'opération comporte l'achat ou la location d'un ou plusieurs véhicules précédemment affectés à la démonstration :
 
 □ OUI □ NON
 
-* L'opération a bénéficié d'aides dans le cadre du programme CEE E-TRANS ou des appels à projets Ecosystème des véhicules lourds électriques de 2022 et 2023 : □ OUI □ NON
+(*) L'opération a bénéficié d'aides dans le cadre du programme CEE E-TRANS ou des appels à projets "Ecosystème des véhicules lourds électriques" de 2022 et 2023 : □ OUI □ NON
 
 Dans le cas de l'achat ou de la location d'un ou plusieurs véhicules précédemment affectés à la démonstration :
 
-* Le ou les véhicules étaient affectés à la démonstration par un concessionnaire ou un agent de marque : □ OUI □ NON
+(*) Le ou les véhicules étaient affectés à la démonstration par un concessionnaire ou un agent de marque :
 
-* L'achat ou la prise en location est intervenu dans un délai compris entre trois et douze mois suivant sa première immatriculation : □ OUI □ NON
+□ OUI □ NON
 
-* Si l'opération concerne l'achat ou la location de bennes à ordures ménagères, celles-ci sont destinées à desservir des communes situées dans une agglomération de plus de 250 000 habitants : □ OUI □ NON
+(*) L'achat ou la prise en location est intervenu dans un délai compris entre trois et douze mois suivant sa première immatriculation : □ OUI □ NON
 
-Nota. - Les communes situées dans une agglomération de plus de 250 000 habitants sont mentionnées dans l'annexe I de l'arrêté du 22 décembre 2021 établissant les listes d'agglomérations de plus de 100 000, 150 000 et 250 000 habitants conformément à l'article R. 221-2 du code de l'environnement et à l'article L. 2213-4-1 du code général des collectivités territoriales.
+(*) Si l'opération concerne l'achat ou la location de bennes à ordures ménagères, celles-ci sont destinées à desservir des communes situées dans une agglomération de plus de 250 000 habitants : □ OUI □ NON
 
-* Récapitulatif des véhicules achetés ou loués ou issus d'une opération de rétrofit électrique :
+NB. - Les communes situées dans une agglomération de plus de 250 000 habitants sont mentionnées dans l'annexe I de l'arrêté du 22 décembre 2021 établissant les listes d'agglomérations de plus de 100 000, 150 000 et 250 000 habitants conformément à l'article R. 221-2 du code de l'environnement et à l'article L. 2213-4-1 du code général des collectivités territoriales.
+
+*Récapitulatif des véhicules achetés ou loués ou issus d'une opération de rétrofit électrique :
 
 Type de véhicules |
 
@@ -453,6 +1593,212 @@ Benne à ordures ménagères |
 (**) Agglomération > 250 000 habitants |
 
 Benne à ordures ménagères |
+
+|
+
+|
+
+Annexe 2 à la fiche d'opération standardisée TRA-EQ-129, définissant le modèle de tableau récapitulatif des opérations d'économies d'énergie
+
+PERSONNES MORALES
+
+RAISON
+
+sociale
+
+du demandeur |
+
+SIREN
+
+du demandeur |
+
+RÉFÉRENCE
+
+EMMY
+
+de la demande |
+
+RÉFÉRENCE
+
+interne
+
+de l'opération |
+
+NOM
+
+du site bénéficiaire de l'opération |
+
+ADRESSE
+
+de l'opération |
+
+CODE
+
+postal sans Cedex |
+
+VILLE |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+RAISON
+
+sociale
+
+du bénéficiaire de l'opération |
+
+SIREN |
+
+ADRESSE du siège social du bénéficiaire de l'opération |
+
+CODE
+
+postal sans Cedex |
+
+VILLE |
+
+VOLUME CEE
+
+"hors précarité énergétique"
+
+(kWh cumac) |
+
+VOLUME CEE
+
+"précarité énergétique"
+
+(kWh cumac) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+RÉFÉRENCE
+
+de la fiche
+
+d'opération standardisée |
+
+DATE
+
+d'engagement
+
+de l'opération |
+
+DATE
+
+d'achèvement
+
+de l'opération |
+
+NATURE
+
+de la bonification |
+
+SIREN
+
+du professionnel |
+
+RAISON sociale
+
+du professionnel |
+
+SIREN
+
+du sous-traitant |
+
+RAISON sociale du sous-traitant |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+NATURE du rôle actif et incitatif |
+
+SIREN de l'organisme de contrôle |
+
+RAISON sociale de l'organisme de contrôle |
+
+SIRET de l'entreprise ayant réalisé l'opération |
+
+Numéro de téléphone du bénéficiaire |
+
+Adresse de courriel du bénéficiaire |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite et fin du tableau
+
+Montant du rôle actif et incitatif (€) |
+
+Commentaires |
+
+Raison sociale du mandataire assurant le rôle actif et incitatif |
+
+Numéro SIREN du mandataire assurant le rôle actif et incitatif |
+
+Numéro d'identification du véhicule |
+
+Numéro d'immatriculation du véhicule |
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -962,4 +2308,6 @@ https :// www. legifrance. gouv. fr/ download/ pdf ? id = FGBMw6bzzOGU6LHfYz6-OO
 
 NOTA :
 
-Conformément à l’article 3 de l’arrêté du 18 août 2025 (NOR : ECOR2522127A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur à compter du 1er novembre 2025.
+Conformément à l’article 4 de l’arrêté du 18 mai 2026 (NOR : ECOR2611173A), les dispositions mentionnées aux III, IV et VI relatif aux modalités d'application du dispositif des certificats d'économies d'énergie dans ses différentes versions antérieures au 1er juin 2026 s'appliquent aux opérations incluses dans une liste transmise, dans un délai de quinze jours après l'entrée en vigueur du présent arrêté, par le demandeur de certificats au ministre chargé de l'énergie, suivant le modèle intitulé "Modèle Tableau de recensement des engagements véhicules électriques" établi par la direction générale de l'énergie et du climat et mis à disposition sur le site internet du ministère de la transition écologique.
+
+Conformément à l’article 5 de l’arrêté du 18 mai 2026 (NOR : ECOR2611173A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur à compter du 1er juin 2026 et s'appliquent aux opérations engagées à compter de cette date. Aux fins d'établissement de la première liste mentionnée au 3° du IX de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie dans sa rédaction issue du présent arrêté, les constructeurs souhaitant l'inscription de leurs types-variantes sur cette liste transmettent à l'agence de l'environnement et de la maîtrise de l'énergie les informations exigées au 3° du IX de l'article 3-7-3 susmentionné avant le 20 mai 2026 à 12 heures, heure de Paris.

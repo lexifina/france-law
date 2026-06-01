@@ -1718,87 +1718,77 @@ L'organisme d'inspection effectue les vérifications nécessaires sur au moins 1
 
 L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : nombre de luminaires neufs ou rééquipés installés dans le cas d'un fonctionnement avec gradation seule ; nombre de luminaires neufs ou rééquipés installés dans le cas d'un fonctionnement avec gradation et détection de présence.
 
-AQ. FICHE D'OPÉRATION STANDARDISÉE IND-UT-137 "SYSTÈME DE POMPE(S) À CHALEUR EN REHAUSSE DE TEMPÉRATURE DE CHALEUR FATALE RÉCUPÉRÉE"
+AQ. Fiche d'opération standardisée IND-UT-137 “ Mise en place d'un système de pompe (s) à chaleur en rehausse de température de chaleur fatale récupérée ” :
 
-Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en "non satisfaisant".
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en “ non satisfaisant ”.
 
-Les critères suivants doivent conduire à un classement "non satisfaisant" de l'opération pour les contrôles sur le lieu des opérations :
+Les critères suivants doivent conduire à un classement “ non satisfaisant ” de l'opération pour les contrôles sur le lieu des opérations :
 
-1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération, l'étude préalable de dimensionnement ;
+1) Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération, l'étude préalable de dimensionnement ;
 
-2. La preuve de la réalisation de l'opération ne comporte pas les mentions prévues par la fiche d'opération standardisée ou, le cas échéant, n'est pas accompagnée du document issu du fabricant indiquant les caractéristiques de l'équipement ;
+2) La preuve de la réalisation de l'opération ne comporte pas les mentions prévues par la fiche d'opération standardisée ou, le cas échéant, n'est pas accompagnée du document issu du fabricant indiquant les caractéristiques de l'équipement ;
 
-3. L'adresse du chantier indiquée dans l'étude de dimensionnement ne correspond pas à celle indiquée pour le contrôle ;
+3) L'adresse du chantier indiquée dans l'étude de dimensionnement ne correspond pas à celle indiquée pour le contrôle ;
 
-4. L'équipement installé n'est pas un système de pompe(s) à chaleur (PAC) à compression de vapeur entrainée par un moteur électrique ;
+4) L'équipement installé n'est pas un système de pompe (s) à chaleur (PAC) de type air/ air, air/ eau ou eau/ eau à compression de vapeur entrainée par un moteur électrique ;
 
-5. Le fluide entrant dans le système installé n'est pas de la chaleur fatale (i.e. chaleur générée par une installation qui n'en constitue pas une des finalités premières, et qui n'est pas récupérée) récupérée ;
+5) Le fluide entrant dans le système installé n'est pas de la chaleur fatale (i. e. chaleur générée par une installation qui n'en constitue pas une des finalités premières, et qui n'est pas récupérée) récupérée ;
 
-6. La température de la chaleur fatale est supérieure à 25 °C moins de 90 jours par an ;
+6) La température en continu sur l'année de la chaleur fatale est inférieure à 25° C ;
 
-7. La température moyenne annuelle de la chaleur fatale est strictement inférieure à 18 °C ;
+7) La chaleur fatale n'est pas générée par le site industriel concerné par l'opération ;
 
-8. La chaleur fatale n'est pas générée par le site industriel concerné par l'opération ;
+8) La chaleur fatale récupérée ne couvre pas un besoin de chaleur (procédé, chauffage des locaux ou eau chaude sanitaire) sur le site ;
 
-9. L'opération concerne la récupération de chaleur provenant de sources telles que la géothermie sur nappe, sur sondes, sur eaux superficielles, sur réservoirs d'eau, l'aérothermie, le solaire thermique, la cogénération ou les chaussées thermoactives ;
+9) Le besoin de chaleur sur le site a une puissance thermique “ chaud ” supérieure à 2 MW (le contrôle pourra être réalisé sur une base documentaire) ;
 
-10. L'opération concerne la récupération de chaleur issue du refroidissement d'un process en circuit fermé côté évaporateur d'un groupe frigorifique ;
+10) Le système installé utilise un ou des fluide (s) frigorigène (s) dont le PRG (potentiel de réchauffement global) est supérieur ou égal à 150 ;
 
-11. L'opération concerne la récupération de chaleur émise par les effluents d'un équipement de secours ;
+11) Le calcul du COP annuel moyen, selon la formule COP = Q/ Eélec, est erroné dans l'étude de dimensionnement ;
 
-12. La chaleur fatale récupérée ne couvre pas un besoin de chaleur (procédé, chauffage des locaux ou eau chaude sanitaire) sur le site ;
+12) Le système installé a un coefficient de performance (COP) annuel moyen, tel que COP annuel moyen = Q/ Eélec, inférieur au COP annuel moyen minimal défini conformément au tableau de la fiche d'opération standardisée en fonction de la rehausse en température et de la température de l'eau en sortie du condenseur ;
 
-13. La somme de toutes les fractions de chaleur fatale est supérieure à la source de chaleur fatale ;
+13) Dans le cas où la récupération de chaleur nécessite l'installation d'un système comportant plusieurs PAC, le système installé ne comporte pas l'ensemble des PAC nécessaires ;
 
-14. Le besoin de chaleur sur le site a une puissance thermique "chaud" supérieure à 5 MW (le contrôle pourra être réalisé sur une base documentaire) ;
+14) Le montage des PAC ne correspond ni à un montage en série, ni à un montage en parallèle, tels que définis par la fiche d'opération standardisée ;
 
-15. Le système installé utilise un ou des fluide(s) frigorigène(s) dont le PRG (potentiel de réchauffement global) est supérieur ou égal à 150 ;
+15) Les instruments de mesure ne sont pas installés ou ne sont pas complets en termes de paramètres mesurés ;
 
-16. Le calcul du COP annuel moyen, selon la formule COP = Q/Eélec, est erroné dans l'étude de dimensionnement ;
+16) Les mesures n'ont pas été conservées ;
 
-17. Le système installé a un coefficient de performance (COP) annuel moyen, tel que COP annuel moyen = Q/Eélec, inférieur au COP annuel moyen minimal défini conformément au tableau de la fiche d'opération standardisée en fonction de la rehausse en température et de la température de l'eau en sortie du condenseur ;
+17) L'étude de dimensionnement ne comporte pas les éléments décrits aux points I et II de la partie 3 de la fiche d'opération standardisée ;
 
-18. Dans le cas où la récupération de chaleur nécessite l'installation d'un système comportant plusieurs PAC, le système installé ne comporte pas l'ensemble des PAC nécessaires ;
+18) La température de la chaleur fatale récupérée indiquée au b du II. 3 de l'étude de dimensionnement n'est manifestement pas cohérente avec le fonctionnement du site, notamment au vu des mesures enregistrées (sous réserve que la période de mesure soit suffisamment représentative) ;
 
-19. Le montage des PAC ne correspond ni à un montage en série, ni à un montage en parallèle, tels que définis par la fiche d'opération standardisée ;
+19) La quantité de chaleur nécessaire pour couvrir les besoins identifiés du site évaluée au II. 2 de l'étude de dimensionnement est manifestement surévaluée par rapport aux besoins du site ou est manifestement supérieure à la chaleur fatale produite par le site, notamment au vu des mesures enregistrées (sous réserve que la période de mesure soit suffisamment représentative) ;
 
-20. Les instruments de mesure ne sont pas installés ou ne sont pas complets en termes de paramètres mesurés ;
+20) L'énergie électrique annuelle absorbée par le système indiquée dans l'étude de dimensionnement est manifestement sous-évaluée, notamment au vu des mesures enregistrées (sous réserve que la période de mesure soit suffisamment représentative) ;
 
-21. Les mesures n'ont pas été conservées au moins 6 ans ;
+21) La puissance disponible n'est manifestement pas adaptée à la puissance nécessaire au besoin ;
 
-22. L'étude de dimensionnement ne comporte pas les éléments décrits aux points I et II de la partie 3 de la fiche d'opération standardisée ;
+22) L'énergie thermique annuelle fournie par le système installé est inférieure à celle calculée au d du II. 3 de l'étude de dimensionnement ;
 
-23. La température de la chaleur fatale récupérée indiquée au b du II.3 de l'étude de dimensionnement n'est manifestement pas cohérente avec le fonctionnement du site, notamment au vu des mesures enregistrées (sous réserve que la période de mesure soit suffisamment représentative) ;
+23) L'énergie électrique annuelle absorbée par le système installé est supérieure à celle calculée au e du II. 3 de l'étude de dimensionnement ;
 
-24. La quantité de chaleur nécessaire pour couvrir les besoins identifiés du site évaluée au II.2 de l'étude de dimensionnement est manifestement surévaluée par rapport aux besoins du site ou est manifestement supérieure à la chaleur fatale produite par le site, notamment au vu des mesures enregistrées (sous réserve que la période de mesure soit suffisamment représentative) ;
+24) Dans le cas d'un site existant, la période représentative ne respecte pas les conditions du II de la partie 3 de la fiche d'opération standardisée ;
 
-25. L'énergie électrique annuelle absorbée par le système indiquée dans l'étude de dimensionnement est manifestement sous-évaluée, notamment au vu des mesures enregistrées (sous réserve que la période de mesure soit suffisamment représentative) ;
+25) Dans le cas d'un site neuf, il n'est pas fait usage d'une simulation thermique ;
 
-26. La puissance thermique du système disponible n'est manifestement pas adaptée à la puissance nécessaire au besoin ;
+26) Pour l'évaluation de la quantité de chaleur fatale récupérée par l'opération, la chaleur fatale le cas échéant déjà récupérée avant l'opération n'a pas été soustraite ;
 
-27. L'énergie thermique annuelle fournie par le système installé est inférieure à celle calculée au d du II.3 de l'étude de dimensionnement ;
+27) La période utilisée pour évaluer les économies d'énergie attendues n'est manifestement pas représentative du fonctionnement du site ;
 
-28. L'énergie électrique annuelle absorbée par le système installé est supérieure à celle calculée au e du II.3 de l'étude de dimensionnement ;
+28) La durée prévisionnelle de fonctionnement du système indiquée dans l'étude de dimensionnement est manifestement surestimée ;
 
-29. Dans le cas d'un site existant, la période représentative ne respecte pas les conditions du II de la partie 3 de la fiche d'opération standardisée ;
+29) L'équipement installé ne correspond pas au schéma simplifié de l'installation décrit dans l'étude de dimensionnement ;
 
-30. Dans le cas d'un site neuf, d'une extension ou de la valorisation d'un nouveau besoin de chaleurs, il n'est pas fait usage d'une simulation thermique ;
+30) L'équipement installé ne correspond pas à celui mentionné dans la preuve de la réalisation de l'opération ;
 
-31. Pour l'évaluation de la quantité de chaleur fatale récupérée par l'opération, la chaleur fatale le cas échéant déjà récupérée avant l'opération n'a pas été soustraite ;
+31) La nature des besoins de chaleur à couvrir mentionnée dans l'étude de dimensionnement ne correspond pas à l'utilisation constatée lors du contrôle ;
 
-32. Certaines grandeurs mentionnées dans l'étude de dimensionnement ne correspondent manifestement pas à une année représentative du fonctionnement du site ;
+32) La température d'entrée du condenseur, côté besoin, lorsque le système de PAC est en fonctionnement, n'est manifestement pas en permanence supérieure à la moyenne des températures de chaleur fatale disponible, au vu des mesures enregistrées (sous réserve que la période de mesure soit suffisamment représentative).
 
-33. La durée prévisionnelle de fonctionnement du système indiquée dans l'étude de dimensionnement est manifestement surestimée ;
-
-34. L'équipement installé ne correspond pas au schéma simplifié de l'installation décrit dans l'étude de dimensionnement ;
-
-35. L'équipement installé ne correspond pas à celui mentionné dans la preuve de la réalisation de l'opération ;
-
-36. La nature des besoins de chaleur à couvrir mentionnée dans l'étude de dimensionnement ne correspond pas à l'utilisation constatée lors du contrôle ;
-
-37. La température d'entrée du condenseur, côté besoin, lorsque le système de PAC est en fonctionnement nominal, n'est manifestement pas supérieure à la moyenne des températures de chaleur fatale disponible, au vu des mesures enregistrées (sous réserve que la période de mesure soit suffisamment représentative).
-
-L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : Q, l'énergie thermique annuelle fournie sous forme de chaleur en sortie du système (en kWh/an) ; Eélec, l'énergie électrique annuelle absorbée par le système. Il s'agit des valeurs indiquées dans l'étude de dimensionnement.
+L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : Q, l'énergie thermique annuelle fournie sous forme de chaleur en sortie du système (en kWh/ an) ; Eélec, l'énergie électrique annuelle absorbée par le système. Il s'agit des valeurs indiquées dans l'étude de dimensionnement.
 
 AR. Fiche d'opération standardisée IND-UT-138 “ Conversion de chaleur fatale en électricité ou en air comprimé ” :
 
@@ -1942,7 +1932,9 @@ AT. I Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de 
 
 9. Dans le cas d'un véhicule précédemment affecté à la démonstration, la cession ou la prise en location n'intervient pas dans un délai compris entre trois et douze mois suivant sa première immatriculation ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation actuel et le demandeur de certificats une copie du précédent certificat d'immatriculation ;
 
-10. Dans le cas d'une bonification prévue par l'article 4 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, l'adresse de livraison du véhicule ne correspond pas à une zone non interconnectée au réseau métropolitain continental de transport d'électricité.
+10. Dans le cas d'une bonification prévue par l'article 4 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, l'adresse de livraison du véhicule ne correspond pas à une zone non interconnectée au réseau métropolitain continental de transport d'électricité ;
+
+11. Dans le cas d'une bonification prévue par le III de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le véhicule ne vérifie pas, au moment de l'achèvement de l'opération, la condition relative au site de fabrication du véhicule mentionnée au III et complétée par le IX.
 
 Les vérifications sont effectuées au lieu, désigné par le bénéficiaire, de disponibilité des pièces nécessaires au contrôle.
 
@@ -1984,11 +1976,13 @@ AU. I. Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de
 
 7. Dans le cas d'un véhicule précédemment affecté à la démonstration, la cession ou la prise en location n'intervient pas dans un délai compris entre trois et douze mois suivant sa première immatriculation ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation actuel et le demandeur de certificats une copie du précédent certificat d'immatriculation ;
 
-8. Dans le cas d'une bonification prévue par l'article 4 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, l'adresse de livraison du véhicule ne correspond pas à une zone non interconnectée au réseau métropolitain continental de transport d'électricité.
+8. Dans le cas d'une bonification prévue par l'article 4 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, l'adresse de livraison du véhicule ne correspond pas à une zone non interconnectée au réseau métropolitain continental de transport d'électricité ;
 
-9. Dans le cas d'une bonification prévue par le 1° du VIII de l'article 3-7-3, de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le véhicule ne vérifie pas, au moment de l'achèvement de l'opération, la condition mentionnée au 3° de l'article D. 251-1 du code de l'énergie, un coût d'acquisition inférieur ou égal à 47 000 euros toutes taxes comprises (incluant le cas échéant le coût d'acquisition ou de location de la batterie) et une masse en ordre de marche inférieure à 2 400 kg.
+9. Dans le cas d'une bonification prévue par le 1° du VIII de l'article 3-7-3, de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le véhicule ne vérifie pas, au moment de l'achèvement de l'opération, la condition mentionnée au 3° de l'article D. 251-1 du code de l'énergie, un coût d'acquisition inférieur ou égal à 47 000 euros toutes taxes comprises (incluant le cas échéant le coût d'acquisition ou de location de la batterie) et une masse en ordre de marche inférieure à 2 400 kg ;
 
-10. Dans le cas d'une bonification prévue par le 2° du VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le véhicule ne vérifie pas, au moment de l'achèvement de l'opération, l'ensemble des conditions énoncées à l'alinéa précédent ou ne vérifie pas, au moment de l'achèvement de l'opération, la condition relative au site de fabrication du véhicule et au site de production de la batterie du véhicule mentionnée au 2°, complété par le 5°, du VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie.
+10. Dans le cas d'une bonification prévue par le 2° du VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le véhicule ne vérifie pas, au moment de l'achèvement de l'opération, l'ensemble des conditions énoncées à l'alinéa précédent ou ne vérifie pas, au moment de l'achèvement de l'opération, la condition relative au site de fabrication du véhicule et au site de production de la batterie du véhicule mentionnée au 2°, complété par le 5°, du VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie ;
+
+11. Dans le cas d'une bonification prévue par le IV de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le véhicule ne vérifie pas, au moment de l'achèvement de l'opération, la condition relative au site de fabrication du véhicule mentionnée au IV et complétée par le IX.
 
 Les vérifications sont effectuées au lieu, désigné par le bénéficiaire, de disponibilité des pièces nécessaires au contrôle.
 
@@ -2071,6 +2065,8 @@ AW. I. Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de
 7. L'un au moins des véhicules achetés ou loués par le bénéficiaire ne correspond pas aux informations fournies par le demandeur de certificats (numéro d'immatriculation ; numéro d'identification ; type variante version ; type d'acquisition : achat ou location ; type de véhicule : Camion porteur > 3,5 tonnes et < 4,25 tonnes, Camion porteur ≥ 4,25 tonnes et < 7,5 tonnes, Camion porteur ≥ 7,5 tonnes et < 12 tonnes, Camion porteur ≥ 12 tonnes et < 19 tonnes, Camion porteur ≥ 19 tonnes et < 26 tonnes, Camion porteur ≥ 26 tonnes et tracteur routier, Benne à ordures ménagères) ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation de chaque véhicule et, dans le cas d'une opération de rétrofit, de la facture relative à l'opération de rétrofit et une copie du précédent certificat d'immatriculation ;
 
 8. Dans le cas d'un véhicule précédemment affecté à la démonstration, la cession ou la prise en location n'intervient pas dans un délai compris entre trois et douze mois suivant sa première immatriculation ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation actuel et le demandeur de certificats une copie du précédent certificat d'immatriculation ;
+
+9. Dans le cas d'une bonification prévue par le VI de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le véhicule ne vérifie pas, au moment de l'achèvement de l'opération, la condition relative au site de fabrication du véhicule mentionnée au VI et complétée par le IX.
 
 Les vérifications sont effectuées au lieu, désigné par le bénéficiaire, de disponibilité des pièces nécessaires au contrôle.
 
@@ -2430,6 +2426,12 @@ https://www.legifrance.gouv.fr/download/pdf?id=7XX36jvDAF4Hu-V8Gan8DNw-0m97ritIE
 
 BD. Fiches d’opérations standardisées BAR-TH-179 "Pompe à chaleur collective de type air/eau", BAR-TH-180 "Pompe à chaleur collective de type eau/eau ou eau glycolée/eau", BAT-TH-163 "Pompe à chaleur de type air/eau" et BAT-TH-164 "Pompe à chaleur de type eau/eau ou eau glycolée/eau"
 
-Conformément à l'article 2 de l'arrêté du 27 avril 2026 (NOR : ECOR2610165A), il est ajouté une partie BD. Vous pouvez consulter l'annexe à l'adresse suivante :
+Conformément à l'article 2 de l'arrêté du 27 avril 2026 (NOR : ECOR2610165A), il est ajoutéune partie BD. Vous pouvez consulter l'annexe à l'adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=7XX36jvDAF4Hu-V8Gan8DNw-0m97ritIE4ihC6z26fY=
+
+NOTA :
+
+Conformément à l’article 4 de l’arrêté du 18 mai 2026 (NOR : ECOR2611173A), les dispositions mentionnées aux III, IV et VI relatif aux modalités d'application du dispositif des certificats d'économies d'énergie dans ses différentes versions antérieures au 1er juin 2026 s'appliquent aux opérations incluses dans une liste transmise, dans un délai de quinze jours après l'entrée en vigueur du présent arrêté, par le demandeur de certificats au ministre chargé de l'énergie, suivant le modèle intitulé "Modèle Tableau de recensement des engagements véhicules électriques" établi par la direction générale de l'énergie et du climat et mis à disposition sur le site internet du ministère de la transition écologique.
+
+Conformément à l’article 5 de l’arrêté du 18 mai 2026 (NOR : ECOR2611173A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur à compter du 1er juin 2026 et s'appliquent aux opérations engagées à compter de cette date. Aux fins d'établissement de la première liste mentionnée au 3° du IX de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie dans sa rédaction issue du présent arrêté, les constructeurs souhaitant l'inscription de leurs types-variantes sur cette liste transmettent à l'agence de l'environnement et de la maîtrise de l'énergie les informations exigées au 3° du IX de l'article 3-7-3 susmentionné avant le 20 mai 2026 à 12 heures, heure de Paris.
