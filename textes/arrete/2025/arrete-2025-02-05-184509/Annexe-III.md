@@ -2,7 +2,7 @@
 
 ANNEXE III
 
-SITUATION D'ÉVALUATION CERTIFICATIVE DES BLOCS DE COMPÉTENCES DU BREVET PROFESSIONNEL DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ « ÉDUCATEUR SPORTIF » MENTION « ACTIVITÉS DE JUDO-JUJITSU »
+SITUATION D'ÉVALUATION CERTIFICATIVE DES BLOCS DE COMPÉTENCES DU BREVET PROFESSIONNEL DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ÉDUCATEUR SPORTIF” MENTION “ACTIVITÉS DE JUDO-JUJITSU”
 
 Situation d'évaluation certificative du bloc de compétences 1 (BC 1)
 
@@ -40,17 +40,17 @@ Peut se présenter à la situation d'évaluation certificative du BC3, le candid
 
 a) Démonstrations Kata :
 
-- deux séries tirées au sort du Nage No Kata (une parmi les trois premières séries/ une parmi les quatrième et cinquième séries) ;
+- deux séries tirées au sort du Nage No Kata (une parmi les trois premières séries/une parmi les quatrième et cinquième séries) ;
 
 - une série tirée au sort du Katame No Kata ;
 
-- une série tirée au sort du Kodokan Goshin Jitsu.
+- une série tirée au sort du Kodokan Goshin Jitsu ;
 
 b) Prestations techniques :
 
 - une démonstration imposée et commentée, en statique et en dynamique, organisée autour de trois techniques en Tachi Waza et trois techniques en Ne Waza ;
 
-- une démonstration libre d'un système d'attaque en Tachi Waza s'appuyant sur trois techniques de familles différentes et en utilisant les procédés d'entraînement (Uchi Komi/Nage Komi/KumiKata/opportunité, défense, contre, enchainement, LDS), d'une durée de trois à quatre minutes ;
+- une démonstration libre d'un système d'attaque en Tachi Waza s'appuyant sur trois techniques de familles différentes et en utilisant les procédés d'entraînement (Uchi Komi/Nage "Komi/KumiKata/opportunité, défense, contre, enchainement, LDS), d'une durée de trois à quatre minutes ;
 
 - une démonstration libre d'une durée de trois à quatre minutes d'un système d'attaque en Ne Waza en s'appuyant sur deux techniques de familles différentes, à partir de situation d'étude tirée au sort parmi cinq situations : uke en position quadrupédique ou à plat ventre et tori en position supérieure ; tori sur le dos ou assis et uke entre les jambes ; uke sur le dos ou assis et tori entre les jambes ; dégagement de jambes : en tant que Tori avec une jambe de prise ; liaison debout-sol (LDS) ;
 
@@ -68,25 +68,27 @@ L'attestation est valable pour la session de formation en cours. Dans les condit
 
 La situation d'évaluation certificative du BC3 est réalisée au moyen de :
 
-- Epreuve certificative 1 relative aux compétences C.3.1.1., C.3.1.2., C.3.1.3., C.3.1.4. et C.3.3.2.
+- Epreuve certificative 1 relative aux compétences C.3.1.1, C.3.1.2, C.3.1.3, C.3.2.5 et C.3.3.2.
 
 Au plus tard quinze jours ouvrés avant la date de l'épreuve, le candidat transmet à l'organisme de formation un document écrit personnel relatif à la conception de :
 
-- un cycle d'éveil ou d'initiation du judo-jujitsu réalisé dans la structure d'alternance pédagogique composé d'au moins six séances ; et
+- un cycle d'éveil ou d'initiation du judo-jujitsu réalisé dans la structure d'alternance pédagogique composé d'au moins six séances ;
 
-- un cycle d'apprentissage du judo-jujitsu réalisé dans la structure d'alternance pédagogique composé d'au moins six séances.
+- un cycle d'apprentissage du judo-jujitsu réalisé dans la structure d'alternance pédagogique composé d'au moins six séances ;
+
+- un cycle de préparation au passage de dan et de grades (du 1er au 4e dan) en judo-jujitsu, réalisé dans la structure d'alternance pédagogique composé d'au moins six séances.
 
 L'épreuve consiste en un entretien de quarante-cinq minutes maximum à partir du document susmentionné, composé :
 
 - d'une présentation orale du candidat d'une durée de quinze minutes maximum portant sur l'analyse des cycles proposés et leur évaluation ;
 
-- d'un échange avec les évaluateurs dans la limite des quarante-cinq minutes maximum d'entretien permettant au candidat de justifier sa démarche de conception d'un cycle de séances d'éveil ou d'initiation et d'un cycle de séances d'apprentissage du judo-jujitsu, notamment au regard des aspects sécuritaires.
+- d'un échange avec les évaluateurs dans la limite des quarante-cinq minutes maximum d'entretien permettant au candidat de justifier sa démarche de conception d'un cycle de séances d'éveil ou d'initiation, d'un cycle de séances d'apprentissage et d'un cycle de préparation au passage de dan et de grades (du 1er au 4e dan) en judo-jujitsu, notamment au regard des aspects sécuritaires.
 
-- Epreuve certificative 2 relative aux compétences C.3.2.1., C.3.2.2., C.3.2.3., C.3.2.4. et C.3.3.2.
+- Epreuve certificative 2 relative aux compétences C.3.2.1, C.3.2.2, C.3.2.3, C.3.2.4 et C.3.3.1.
 
 L'épreuve consiste en une mise en situation professionnelle de conduite d'une séance d'apprentissage technique du judo-jujitsu.
 
-Le jour de l'épreuve le candidat conduit la séance d'apprentissage issue du cycle susmentionnée choisie par les évaluateurs, pendant une durée de quarante-cinq minutes minimum à une heure trente maximum, pour un public de six pratiquants minimum.
+Le jour de l'épreuve le candidat conduit une séance issue du cycle d'apprentissage ou du cycle de préparation au passage de dan et de grades susmentionnés choisie par les évaluateurs, pendant une durée de quarante-cinq minutes minimum à une heure trente maximum, pour un public de six pratiquants minimum.
 
 Le public de pratiquants ne peut pas être constitué de stagiaires en formation conduisant à une certification professionnelle relevant du champ des activités de judo-jujitsu.
 
