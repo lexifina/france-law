@@ -42,7 +42,7 @@ B. Candidat à un nouvel agrément préfectoral de contrôleur
 
 B.1. Candidat justifiant d’un agrément préfectoral en cours de validité, ou d’un agrément préfectoral ayant été annulé depuis moins de six mois pour le contrôle des véhicules légers ou des véhicules lourds
 
-Le candidat justifie d'une formation spécialisée complémentaire dans le contrôle technique des véhicules de catégorie L d'une durée d'au moins 33 heures comprenant 5 heures de téléformation maximum et 17 heures de pratique, en centre de formation.
+Le candidat justifie d'une formation spécialisée complémentaire dans le contrôle technique des véhicules de catégorie L d'une durée d'au moins 70 heures comprenant 5 heures de téléformation maximum et 28 heures de pratique, en centre de formation.
 
 B.2. Candidat n’ayant plus d’agrément depuis au moins six mois.
 
@@ -136,6 +136,4 @@ Le formateur est en mesure de présenter son attestation de capacité sur demand
 
 NOTA :
 
-Conformément à l'article 9 de l'arrêté du 18 août 2025 (NOR : ATDR2519920A ), ces dispositions, dans leur rédaction issue des 3° à 6° de l'article 7 dudit arrêté, entrent en vigueur au 1er janvier 2026.
-
-Conformément à l’article 11 de l’arrêté du 19 décembre 2025 (NOR : TRAR2534888A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er janvier 2026.
+Conformément à l'article 9 de l'arrêté du 18 août 2025 (NOR : ATDR2519920A), ces dispositions, dans leur rédaction issue du 2° de l'article 7 dudit arrêté, entrent en vigueur au 1er juin 2026.
