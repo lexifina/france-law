@@ -1,21 +1,11 @@
 # Article Annexe 5
 
-ANNEXE 5
-
 BLOC ADDITIONNEL SPÉCIFIQUE APPLICABLE AUX TRAVAILLEURS INDÉPENDANTS MENTIONNÉS À L'ARTICLE L. 611-1 DU CODE DE LA SÉCURITÉ SOCIALE AYANT PERÇUS DES REVENUS NON SALARIÉS HORS DE FRANCE
 
 Catégorie de la donnée |
 
 Nature de la donnée |
 
-Revenus étrangers imposables mais exonérés de cotisations sociales et de CSG/CRDS |
+Revenus d'activité indépendante hors de France soumis à cotisations sociales |
 
-Bénéfice ou déficit. |
-
-Revenus étrangers imposables soumis à cotisations sociales et exonérés de CSG/CRDS |
-
-Bénéfice ou déficit. |
-
-Revenus étrangers non imposables soumis à cotisations sociales |
-
-Bénéfice ou déficit si des conventions internationales de sécurité sociale prévoient l'intégration de ces revenus dans l'assiette sociale. |
+Bénéfice ou déficit d'une activité non indépendant exercé hors de France, quel que soit le lieu de résidence fiscale de l'activité et que le revenu soit imposable ou non en France. Ce bénéfice ou déficit correspond au revenu net de charges, avant la déduction des exonérations fiscales. |
