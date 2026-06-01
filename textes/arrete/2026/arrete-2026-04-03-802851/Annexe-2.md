@@ -48,11 +48,11 @@ général |
 
 4401 Biochimie et biologie moléculaire |
 
-3 |
+2 |
 
 |
 
-3 |
+2 |
 
 4402 Physiologie |
 
@@ -456,11 +456,11 @@ général |
 
 82 Personnels enseignants et hospitaliers de pharmacie en sciences biologiques, fondamentales et cliniques |
 
-10 |
+11 |
 
 |
 
-10 |
+11 |
 
 Total général |
 

@@ -510,7 +510,7 @@ Type 1 |
 
 BOURGOGNE (DIJON) CHU Dijon Service de biochimie |
 
-4401 Biochimie et biologie moléculaire |
+82 Personnels enseignants et hospitaliers de pharmacie en sciences biologiques, fondamentales et cliniques |
 
 |
 
