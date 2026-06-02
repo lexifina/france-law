@@ -1,0 +1,9 @@
+# Réponse à la question n° 12845
+
+- Question : [12845](12845.md) — Question n° 12845 — Portée réelle de la majoration retraite aux sapeurs-pompiers volontaires
+
+## Réponse
+
+*JO du 2026-06-02, page 4892*
+
+Le Gouvernement est pleinement attaché au modèle français de sécurité civile fondé, entre autres, sur la complémentarité des statuts de sapeur-pompier professionnel, militaire ou volontaire et qui a, une nouvelle fois, démontré sa résilience et sa solidité cet été notamment. Cet engagement des sapeurs-pompiers volontaires appelle des manifestations de reconnaissance, à la hauteur des efforts importants, voire des sacrifices, consentis par ces derniers dans leur vie professionnelle et privée, et de nature à les fidéliser dans leur engagement. Le décret n° 2026-18 du 20 janvier 2026 portant diverses mesures relatives aux sapeurs-pompiers volontaires et aux sapeurs-pompiers professionnels précise les modalités d'application de la majoration de durée d'assurance votée par le législateur en 2023. Ainsi à compter du 1er juillet 2026, le dispositif permettra à ceux qui auront servi au moins dix ans en qualité de sapeur-pompier volontaire de bénéficier d'un trimestre de majoration, puis d'un trimestre supplémentaire à compter de vingt ans et enfin un dernier trimestre pour vingt-cinq années d'engagement. Ce nouveau dispositif vient en complément des autres outils de fidélisation tels que la nouvelle prestation de fidélisation et de reconnaissance (NPFR) ou l'abondement du compte d'engagement citoyen (CEC). Sans se limiter à des situations de décote ou de proratisation liées à des carrières incomplètes, il permet à des SPV ayant dépassé l'âge légal mais n'ayant pas tous leurs trimestres de partir jusqu'à 9 mois plus tôt. Toutefois, le système des retraites répondant à des logiques très individualisées, il n'est pas possible à ce stade d'évaluer le nombre de bénéficiaires de cette mesure.
