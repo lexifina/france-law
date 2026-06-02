@@ -1,0 +1,9 @@
+# Réponse à la question n° 6433
+
+- Question : [6433](6433.md) — Question n° 6433 — Soutien au développement de l'énergie marémotrice
+
+## Réponse
+
+*JO du 2026-06-02, page 4917*
+
+Le Gouvernement porte une grande attention à l'énergie d'origine hydraulique et aux énergies marines renouvelables. Comme vous le rappelez, avec l'usine marémotrice de La Rance qui constitua pendant plusieurs décennies la plus grande centrale marémotrice du monde, la France fut pionnière dans le développement de l'exploitation de cette source d'énergie. Au-delà de la production d'une énergie bas carbone et prévisible plusieurs années à l'avance, cette centrale permet également de faciliter les mobilités dans l'estuaire, de protéger l'estuaire face aux tempêtes et constitue un patrimoine industriel majeur, ainsi qu'une source d'emplois et de retombées fiscales locales. Pour autant, le développement supplémentaire de l'énergie marémotrice fait face à de nombreux défis, notamment car la localisation des sites avec un potentiel énergétique significatif est très contrainte et limitée à des estuaires avec des marnages importants. Les enjeux environnementaux et de conciliation des enjeux, notamment touristiques ou patrimoniaux, de la construction de tels ouvrages sont en outre très importants et, à la connaissance du Gouvernement, les coûts élevés. A titre d'illustration, le marémoteur représente actuellement une puissance estimée à environ 520 MW à l'échelle mondiale, dont l'usine de la Rance mise en service en 1966 représente quasiment la moitié avec 238 MW. Ainsi, la Programmation Pluriannuelle de l'Energie (PPE) publiée début 2026 ne prévoit pas d'objectifs de développement chiffrés pour le développement de l'énergie marémotrice. Au-delà des objectifs pour l'éolien en mer et l'hydrolien, la PPE prévoit néanmoins que le Gouvernement continuera à suivre le potentiel, le coût et la faisabilité des autres énergies renouvelables marines, dont l'énergie marémotrice.
