@@ -1,0 +1,9 @@
+# Réponse à la question n° 9992
+
+- Question : [9992](9992.md) — Question n° 9992 — Enjeux de santé-environnement
+
+## Réponse
+
+*JO du 2026-06-02, page 4960*
+
+L'étude PestiRiv a permis pour la première fois d'évaluer l'exposition aux pesticides des personnes vivant près de vignes, ouvrant la voie à l'identification de leviers d'actions pour réduire les expositions. La protection des riverains de zones d'épandage de pesticides est une priorité majeure des pouvoirs publics qui agissent pour encadrer l'usage de ces substances et limiter les risques. A travers la Stratégie Ecophyto 2030, l'Etat agit afin de réduire de 50 % l'usage et les risques des produits phytopharmaceutiques d'ici 2030, en renforçant la prévention, la formation, le conseil aux agriculteurs et la recherche d'alternatives. Cette stratégie s'inscrit pleinement dans cette approche systémique « une seule santé » par l'accompagnement financé des filières agricoles vers des alternatives aux pesticides de synthèse et la mise en œuvre du plan d'anticipation du potentiel retrait européen de substances actives et de développement de techniques alternatives pour la protection des cultures (PARSADA). Ce sont ainsi 146 millions d'euros qui ont été engagés en 2024 dans la mise en place des plans d'action filière. Par ailleurs, le Gouvernement reste pleinement mobilisé sur les enjeux de santé environnementale. Sous l'égide du 4ème Plan national santé environnement (PNSE4), les différents plans thématiques de santé environnementale permettent la mise en œuvre d'actions adaptées aux enjeux thématiques. A titre d'exemple, un nouveau plan sur les perturbateurs endocriniens devrait prochainement être publié. Poursuivant la dynamique impulsée par le PNSE4, l'annonce du Président de la République lors de la journée internationale « une seule santé » du 3 novembre 2025, d'organiser un sommet One health international le 7 avril 2026 à Lyon, réaffirme l'engagement français en la matière.
