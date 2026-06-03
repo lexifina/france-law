@@ -1,0 +1,11 @@
+# Article Annexe I
+
+PART DES HOMMES ET DES FEMMES QUI COMPOSENT L'EFFECTIF AU 1ER JANVIER 2026 DES AGENTS CONTRACTUELS
+
+Part des femmes |
+
+Part des hommes |
+
+56,42 % |
+
+43,58 % |
