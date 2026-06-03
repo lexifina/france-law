@@ -1,0 +1,10 @@
+# rapport sur la proposition de loi de Mmes Micheline Jacques, Marie-Do Aeschlimann, Viviane Artigalas, Audrey Bélim, MM. Olivier Bitz, Frédéric Buval, Christian Cambon, Guillaume Chevrollier, Mme Evelyne Corbière Naminzo, MM. Mathieu Darnaud, Stéphane Demilly, Mme Jacqueline Eustache-Brinio, MM. Philippe Folliot, Stéphane Fouassin, Mme Jocelyne Guidez, MM. Éric Jeansannetas, Mikaele Kulimoetoke, Antoine Lefèvre, Mme Vivette Lopez, M. Victorin Lurel, Mme Viviane Malet, MM. Akli Mellouli, Alain Milon, Mme Solanges Nadille, MM. Georges Naturel, Saïd Omar Oili, Georges Patient, Jean-Gérard Paumier, Mmes Évelyne Perrot, Annick Petrus, Marie-Laure Phinera-Horth, MM. Teva Rohfritsch, Laurent Somon, Rachid Temal, Mme Lana Tetuanui, MM. Dominique Théophile, Pierre-Jean Verzelen et Robert Wienie Xowie portant diverses dispositions d'adaptation du droit des outre-mer (172).
+
+- Type : Rapport
+- Dénomination : Rapport
+- Provenance : Commission
+- Titre court : rapport sur la proposition de loi de Mmes Micheline Jacques, Marie-Do Aeschlimann, Viviane Artigalas, Audrey Bélim, MM. Olivier Bitz, Frédéric Buval, Christian Cambon, Guillaume Chevrollier, Mme Evelyne Corbière Naminzo, MM. Mathieu Darnaud, Stéphane Demilly, Mme Jacqueline Eustache-Brinio, MM. Philippe Folliot, Stéphane Fouassin, Mme Jocelyne Guidez, MM. Éric Jeansannetas, Mikaele Kulimoetoke, Antoine Lefèvre, Mme Vivette Lopez, M. Victorin Lurel, Mme Viviane Malet, MM. Akli Mellouli, Alain Milon, Mme Solanges Nadille, MM. Georges Naturel, Saïd Omar Oili, Georges Patient, Jean-Gérard Paumier, Mmes Évelyne Perrot, Annick Petrus, Marie-Laure Phinera-Horth, MM. Teva Rohfritsch, Laurent Somon, Rachid Temal, Mme Lana Tetuanui, MM. Dominique Théophile, Pierre-Jean Verzelen et Robert Wienie Xowie portant diverses dispositions d'adaptation du droit des outre-mer (172).
+- Déposé le : 2026-06-03
+- Dossier : DLR5L17N50970
+- Auteurs : Mme Évelyne Renaud-Garabedian (rapporteur), Commission des affaires économiques
+- Identifiant : RAPPSNR5S479B0690
