@@ -1,0 +1,9 @@
+# Réponse à la question SEQ251106833
+
+- Question : [SEQ251106833](seq251106833.md) — Dysfonctionnements graves liés à l'utilisation massive d'algorithmes dans le traitement des indemnités chômage à France Travail
+
+## Réponse
+
+*Travail et solidarités, JO du 2026-06-04, page 2804*
+
+Le Gouvernement rappelle que l'utilisation d'outils algorithmiques par France Travail vise à améliorer le traitement des demandes d'indemnisation chômage, à sécuriser les procédures et à garantir l'égalité de traitement entre les usagers. Leur mise en oeuvre s'inscrit dans un cadre juridique strict et ne peut conduire à des décisions reposant exclusivement sur un traitement automatisé sans garanties appropriées. France Travail demeure pleinement responsable des décisions prises et assure l'intervention d'un agent habilité lorsque la situation d'un demandeur d'emploi le nécessite, notamment en cas de difficulté, de contestation ou de situation complexe. Le Gouvernement souligne également que les erreurs ou anomalies constatées peuvent être liées à des données déclaratives incomplètes ou inexactes, issues soit des informations renseignées lors de l'actualisation par les demandeurs d'emploi, soit des données transmises par les employeurs via la déclaration sociale nominative. La fiabilité de ces données constitue un élément essentiel pour garantir un calcul juste des allocations et prévenir les situations de retard, d'erreur ou de trop-perçu. Dans ce cadre, France Travail veille à accompagner les demandeurs d'emploi tout au long de leur parcours d'indemnisation, en portant une attention particulière à la qualité du traitement des dossiers, à la clarté de l'information délivrée et au suivi des étapes clés du parcours, afin de permettre aux allocataires de comprendre et d'anticiper les évolutions de leur situation et de sécuriser leurs droits.
