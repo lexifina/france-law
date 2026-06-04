@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260408516
+
+- Question : [SEQ260408516](seq260408516.md) — Maintien des pompes à chaleur hybrides dans les solutions pour sortir de parc résidentieldes énergies fossiles
+
+## Réponse
+
+*Porte-parole du Gouvernement et Énergie, JO du 2026-06-04, page 2784*
+
+Le Gouvernement partage l'objectif de garantir une transition énergétique conciliant décarbonation, sécurité d'approvisionnement et soutenabilité économique pour les ménages comme pour les filières industrielles. Le Gouvernement a mis en place un plan d'électrification, car l'électricité est une énergie produite en France, avec de l'emploi et de la valeur ajoutée en France, qu'elle est abondante (surplus de 90 TWh), peu chère (prix à terme moyen de 60euros/MWh en 2025, contre 87 en Allemagne, 90 au Royaume-Uni et 107 en Italie), et décarbonée à 95%. En revanche, le gaz est quasiment intégralement importé (3% de biogaz dans le réseau), son prix est directement lié au contexte géopolitique (doublement depuis le début de la crise), et il participe directement au réchauffement climatique en émettant du CO2 lors de sa combustion. La sortie du gaz doit être progressive, maîtrisée et planifiée. Toute chaudière à gaz installée, automne ou liée à une pompe à chaleur hybride, crée une dépendance qui ralentit la transition énergétique, notamment en vue de la réduction de la taille du réseau de gaz. Le Gouvernement privilégie ainsi les pompes à chaleur 100% électrique. Il rappelle qu'ainsi démontré par l'étude "100 PAC" de l'Ademe, les pompes à chaleur offrent des niveau de performance excellents même dans des conditions climatiques et de bâti dégradées. Le biogaz constitue en revanche une opportunité essentielle pour décarboner la consommation de gaz résiduelle (logements où l'électrification est difficile à court-terme, artisanat, industrie).
