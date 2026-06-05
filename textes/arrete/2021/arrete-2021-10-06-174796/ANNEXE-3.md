@@ -1,10 +1,12 @@
 # Article ANNEXE 3
 
+ANNEXE 3
+
 RÈGLES POUR ÉTABLIR LES CONTOURS DES SITES D'IMPLANTATION
 
 En général, deux installations distantes de moins de cent (100) mètres sont considérées comme implantées sur un même site.
 
-Une installation répartie sur plusieurs bâtiments, éventuellement détenus par des propriétaires différents, est éligible au présent arrêté. Pour le calcul de la puissance Q, définie au 5. de l'annexe 1, et de la prime à l'intégration paysagère, les différents bâtiments accueillant cette installation unique sont considérés comme un bâtiment unique.
+Une installation répartie sur plusieurs bâtiments, éventuellement détenus par des propriétaires différents, est éligible au présent arrêté. Pour le calcul de la puissance Q, définie à l'annexe 1, les différents bâtiments accueillant cette installation unique sont considérés comme un bâtiment unique.
 
 Par exception aux alinéas précédents, deux installations photovoltaïques peuvent être considérées comme implantées sur des sites distincts :
 
@@ -16,10 +18,4 @@ Pour les personnes physiques, deux personnes distinctes sont réputées indépen
 
 Par exception au premier alinéa, deux bâtiments exclusivement destinés à l'usage d'habitation au sens de l'article R. 111-1 du code de la construction et de l'habitation et distants de moins de cent (100) mètres sont considérés comme des sites distincts dès lors que le demandeur présente un document émanant d'un architecte qui atteste que l'un et l'autre de ces bâtiments pourrait assurer ses fonctions en l'absence du deuxième bâtiment. Dans ce cas, le tarif auquel l'installation est éligible au sens de l'article 8 du présent arrêté est diminué de dix pourcents.
 
-L'usage d'habitation s'apprécie à la date de la demande complète de raccordement ou à la date d'achèvement pour les bâtiments à construire.
-
-NOTA :
-
-Conformément à l’article 18 de l’arrêté du 22 décembre 2023 (NOR : ENER2328400A), ces dispositions s'appliquent aux installations dont la demande complète de raccordement est postérieure au 22 décembre 2023. Pour les installations dont la demande complète de raccordement est antérieure au 22 décembre 2023, ce sont les dispositions de l'arrêté du 6 octobre 2021 dans sa version antérieure qui s'appliquent.
-
-Les installations pour lesquelles une demande complète de raccordement a été déposée entre le 1er août 2023 et la veille de l'entrée en vigueur dudit arrêté bénéficient des conditions d'achat découlant des modalités de l'article 9 de cet arrêté.
+L'usage d'habitation s'apprécie à la date de la demande complète de contrat ou à la date d'achèvement pour les bâtiments à construire.
