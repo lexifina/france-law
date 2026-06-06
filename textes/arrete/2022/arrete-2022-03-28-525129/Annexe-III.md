@@ -4,6 +4,38 @@ Appendice A
 
 PROTECTION EN CAS DE RENVERSEMENT DES TRACTEURS DE CATÉGORIE T4.1/C4.1
 
+Les tracteurs de catégorie T4.1 ou C4.1 (dits “enjambeurs”) satisfont les exigences de stabilité et de non-retournement continu et sont équipés d'une structure de protection contre le renversement, conformément à la norme NF U02-052-1 : 2024.
+
+Appendice B
+
+BOUCLIERS PROTECTEURS DES PRISES DE FORCES
+
+1. Essai de choc aux températures de gel pour les boucliers protecteurs en plastique.
+
+1.1. Maintenir le protecteur à - 35 °C pendant au moins une heure avant de démarrer l'essai.
+
+Prendre des mesures pour garantir que la température du protecteur ne remonte pas au-dessus de - 35 °C au moment de l'essai.
+
+1.2. Le protecteur étant à - 35 °C, frapper un coup centré au droit de l'extrémité de l'arbre de prise de force avec une énergie de choc de 98 J au moyen d'un mouton-pendule, comme représenté à la figure 9. La face de contact doit être plane et avoir un diamètre de 50 mm, et le rayon de l'arête de la face de contact doit être conforme à la figure 9.
+
+Figure 8. - Dispositif d'essai de choc
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0130 du 05/06/2026.
+
+On considère que le bouclier protecteur de l'arbre de prise de force passe l'essai avec succès s'il ne présente aucun trou ou déformation laissant l'arbre sans protection et s'il ne présente aucune fracture, fissure ou séparation de ses éléments constitutifs. Les entailles causées par l'arête du mouton-pendule sont admissibles.
+
+2. Disposition de la prise de force : si la hauteur de l'arbre de prise de force par rapport au sol est supérieure à 1 300 mm, un moyen d'accès conforme aux prescriptions du chapitre 4 de l'annexe XV du règlement n° 1322/2014 doit être prévu. Cette prescription ne concerne pas les prises de force destinées à entraîner des équipements dont le montage et le démontage nécessitent des moyens spécifiques tels que moyens de levage ou d'accès extérieurs au tracteur.
+
+Appendice C
+
+MANUEL D'UTILISATION DES TRACTEURS DE CATÉGORIE T4.1/C4.1
+
+Le manuel d'utilisation des tracteurs de catégorie T4.1 ou C4.1 doit comporter en sus des spécifications de l'annexe XXII du règlement n° 1322/2014, l'ensemble des informations requises par la norme NF U02-052-2 : 2024.
+
+Appendice A
+
+PROTECTION EN CAS DE RENVERSEMENT DES TRACTEURS DE CATÉGORIE T4.1/C4.1
+
 Tout tracteur enjambeur doit être conçu, construit ou équipé d'un dispositif de protection de telle sorte qu'en cas de renversement, il subsiste un espace libre suffisamment grand pour protéger le conducteur, il doit en outre satisfaire à des exigences de stabilité et de non retournement continu.
 
 1.1. Stabilité
@@ -46,9 +78,7 @@ Prendre des mesures pour garantir que la température du protecteur ne remonte p
 
 Figure 8 : dispositif d'essai de choc
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante :
-
-https://www.legifrance.gouv.fr/download/pdf?id=Y0XrYyefDQT2kwar6bukgjai6_tq8olP6_JOS_feGps=
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0130 du 05/06/2026.
 
 On considère que le bouclier protecteur de l'arbre de prise de force passe l'essai avec succès s'il ne présente aucun trou ou déformation laissant l'arbre sans protection et s'il ne présente aucune fracture, fissure ou séparation de ses éléments constitutifs. Les entailles causées par l'arête du mouton-pendule sont admissibles.
 

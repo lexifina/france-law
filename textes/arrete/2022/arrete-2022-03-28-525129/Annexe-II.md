@@ -1,12 +1,14 @@
 # Article Annexe II
 
-A - CRITÈRES D'ÉVALUATION DE LA CONFORMITÉ HOMOLOGATION NATIONALE PAR TYPE
+A. - CRITÈRES D'ÉVALUATION DE LA CONFORMITÉ HOMOLOGATION NATIONALE PAR TYPE
 
 La numérotation des items correspond à l'annexe II du décret n° 2005-1236 modifié et à titre d'information est indiquée la correspondance avec ceux de l'annexe I du règlement (UE) n° 167/2013 susvisé.
 
 Annexe II du décret |
 
-Annexe I du règlement |
+Annexe I
+
+du règlement |
 
 Exigences |
 
@@ -290,7 +292,7 @@ A |
 
 9 |
 
-Freinage** |
+Freinage (**) |
 
 3 |
 
@@ -322,7 +324,7 @@ A |
 
 |
 
-Appendice D de l'annexe III |
+Appendice C de l'annexe III |
 
 A |
 
@@ -396,11 +398,15 @@ A |
 
 A |
 
-B - CRITÈRES D'ÉVALUATION DE LA CONFORMITÉ HOMOLOGATION À TITRE INDIVIDUEL
+B. - CRITÈRES D'ÉVALUATION DE LA CONFORMITÉ HOMOLOGATION À TITRE INDIVIDUEL
 
-Annexe II du décret |
+Annexe II
 
-Annexe I du règlement |
+du décret |
+
+Annexe I
+
+du règlement |
 
 Exigences |
 
@@ -430,7 +436,7 @@ Protection en cas de renversement |
 
 Règlement n° 1322/2014 annexe VI |
 
-B* |
+B (*) |
 
 NA |
 
@@ -438,9 +444,9 @@ NA |
 
 NA |
 
-B* |
+B (*) |
 
-B* |
+B (*) |
 
 NA |
 
@@ -464,13 +470,13 @@ NA |
 
 NA |
 
-B* |
+B (*) |
 
 37 |
 
 Règlement n° 1322/2014 annexe VIII |
 
-B* |
+B(*) |
 
 NA |
 
@@ -478,13 +484,13 @@ NA |
 
 NA |
 
-B* |
+B (*) |
 
-B* |
+B (*) |
 
 NA |
 
-B* |
+B (*) |
 
 38 |
 
@@ -492,15 +498,15 @@ Règlement n° 1322/2014 annexe IX |
 
 NA |
 
-B* |
+B(*) |
 
-B* |
-
-NA |
+B(*) |
 
 NA |
 
-B* |
+NA |
+
+B (*) |
 
 NA |
 
@@ -512,15 +518,15 @@ Règlement n° 1322/2014 annexe X |
 
 NA |
 
-B* |
+B(*) |
 
-B* |
-
-NA |
+B(*) |
 
 NA |
 
-B* |
+NA |
+
+B (*) |
 
 NA |
 
@@ -592,21 +598,21 @@ X |
 
 Règlement n° 1322/2014 annexe XIV (installation) |
 
-B* |
+B (*) |
 
-B* |
+B (*) |
 
-B* |
+B (*) |
 
-B* |
+B (*) |
 
-B* |
+B (*) |
 
-B* |
+B (*) |
 
-B* |
+B (*) |
 
-B* |
+B (*) |
 
 47 |
 
@@ -932,7 +938,7 @@ B |
 
 9 |
 
-Freinage** |
+Freinage (**) |
 
 3 |
 
@@ -980,7 +986,7 @@ A |
 
 |
 
-Appendice D de l'annexe III |
+Appendice C de l'annexe III |
 
 NA |
 
@@ -1136,15 +1142,15 @@ I |
 
 Identique à T en fonction de la catégorie. |
 
-* |
+(*) |
 
 La fiche de réception UE des composants et entités techniques distinctes est délivrée lorsqu'elle est prévue par le règlement (UE) 2015/504. La conformité de production est assurée. |
 
-** |
+(**) |
 
 Les exigences de l'arrêté du 19 décembre 2016 modifié ont un effet équivalent. |
 
-En alternative possible pour les tracteurs dont la vitesse maximale est inférieure ou égale à 25 km/h, l'application de l'arrêté du 18 août 1955 modifié ou de l'appendice C de l'annexe III donne conformité. |
+En alternative possible pour les tracteurs dont la vitesse maximale est inférieure ou égale à 25 km/h, l'application de l'arrêté du 18 août 1955 modifié donne conformité. |
 
 NA |
 
