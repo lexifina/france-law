@@ -1,0 +1,85 @@
+# Article 1er
+
+L'article 1er de l'avenant 93 n° avait inséré un nouvel article 4.2 après l'article 4.1 de la convention collective.
+
+Le présent avenant substitue à l'article 1er de l'avenant n° 93 qui est supprimé la rédaction suivante :
+
+L'article 4.1 « Égalité professionnelle entre les hommes et les femmes » de la convention collective nationale est remplacé par les stipulations suivantes :
+
+« 4.1. Égalité femme homme
+
+4.1.1. Le principe
+
+Les entreprises s'engagent à respecter les dispositions législatives relatives à l'égalité professionnelle entre les hommes et les femmes et s'interdisent en conséquence de prendre des décisions concernant les relations du travail, notamment l'emploi, la rémunération, l'exécution du contrat de travail d'un(e) salarié(e), fondées sur son appartenance à l'un ou l'autre sexe.
+
+En particulier, toute entreprise est tenue d'assurer pour un même travail ou un travail de valeur égale, l'égalité des rémunérations entre les hommes et les femmes et ce, conformément aux dispositions de l'article L. 3221-2 du code du travail.
+
+Par ailleurs, conformément aux dispositions de l'article L. 1142-7 du code du travail les employeurs de la branche doivent prendre en compte un objectif de suppression des écarts de rémunération entre les femmes et les hommes si ces écarts existent.
+
+4.1.2. Les mesures mises en place en faveur de l'égalité femme homme
+
+Conformément aux dispositions de l'article D. 2241-2 du code du travail, les partenaires sociaux de la branche s'engagent à mettre en place un rapport sur les situations comparées des hommes et des femmes à travers les modalités fixées ci-dessous :
+
+• Produire tous les 3 ans, par l'intermédiaire de l'observatoire des métiers du sport, un rapport comprenant les éléments suivants :
+
+– répartition des effectifs par sexe et tranche d'âge ;
+
+– répartition des effectifs par sexe et tranche d'ancienneté dans l'entreprise et dans l'emploi ;
+
+– répartition des effectifs par sexe et taille d'entreprise ;
+
+– répartition des effectifs par sexe et nature du contrat de travail (CDI à temps plein et à temps partiel, CDI intermittent, CDD à temps plein et à temps partiel et motifs de recours au CDD, CDD prévu à l'article L. 222-2-3 du code du sport, contrats aidés à temps plein et à temps partiel, alternants) ;
+
+– répartition des effectifs par sexe et temps de travail (par tranches de moins de 10 heures hebdomadaires, de 10 heures à 24 heures hebdomadaires, de plus de 24 heures hebdomadaires, de 17 h 30 hebdomadaires pour les sportifs professionnels et leurs entraîneurs ou de 9 heures hebdomadaires pour les sportifs en formation)/emploi ;
+
+– répartition des effectifs par sexe/niveau de classification/statut cadre, non-cadre ;
+
+– comparaison des rémunérations : rémunération annuelle brute moyenne par sexe, tranche d'âge et niveau de classification ;
+
+– mouvement du personnel : embauches, changements de niveau de classification, départs (ruptures de CDI et CDD) par sexe ;
+
+– accès aux différentes actions de formation : nombre d'heures par sexe/niveau de classification/catégorie d'actions de formation (adaptation au poste, développement des compétences) ;
+
+– nombre de réunions exceptionnelles ;
+
+– intégrer dans les travaux et études menées par l'observatoire la dimension de l'égalité professionnelle en s'attachant aux filières et emplois comportant des déséquilibres entre les sexes.
+
+Afin de garantir l'égalité de traitement entre les hommes et les femmes au sein de la branche, les partenaires sociaux s'engagent à mettre en place un diagnostic sur les écarts de rémunération.
+
+Particulièrement, les partenaires sociaux s'engagent à agir sur les thèmes ci-dessous :
+
+– la sensibilisation et la mobilisation des acteurs de la branche ;
+
+– le recrutement ;
+
+– la mixité dans l'emploi ;
+
+– la gestion des parcours d'évolution professionnelle (formation, promotion) ;
+
+– l'égalité salariale ;
+
+– la conciliation entre vie professionnelle et vie personnelle, les congés liés à la parentalité ;
+
+– les conditions.
+
+Afin de résorber les écarts de rémunération, il est prévu dans les entreprises où sont constituées une ou plusieurs sections syndicales d'organisations représentatives, et dans lesquelles un délégué syndical est désigné, que l'employeur est tenu chaque année d'engager des négociations sur les objectifs en matière d'égalité professionnelle entre les femmes et les hommes ainsi que les mesures permettant de les atteindre. À défaut d'accord, l'employeur est tenu de mettre en place chaque année un plan d'action sur l'égalité professionnelle hommes-femmes (articles L. 2242-1, L. 2242-8, L. 2242-9 et L. 2242-10 du code du travail).
+
+Les mêmes entreprises sont également tenues de négocier chaque année sur la suppression des écarts de rémunération entre les femmes et les hommes (articles L. 2242-5, L. 2242-7 et L. 2242-8 du code du travail).
+
+Dans les entreprises comptant au moins 50 salariés équivalents temps plein, non dotées de représentants du personnel, l'employeur est tenu de mettre en place chaque année un plan d'action pour l'égalité professionnelle hommes-femmes (articles L. 2242-8 et L. 2242-9 du code du travail) ;
+
+L'employeur a l'obligation d'afficher dans les lieux de travail et dans les locaux où se fait le recrutement le texte des articles L. 1142-1 à L. 1144-3 du code du travail relatifs à l'égalité professionnelle et les articles L. 3221-1 à L. 3221-7 relatifs à l'égalité de rémunération ainsi que leurs textes d'application. Les salariés doivent être informés par tout moyen (notamment par affichage) du contenu des articles 225-1 à 225-4 du code pénal.
+
+Les infractions au principe d'égalité professionnelle ou de rémunération femmes-hommes sont notamment pénalement sanctionnées au titre de l'article L. 1146-1 du code du travail. Une pénalité financière est également prévue pour les entreprises comptant au moins 50 salariés équivalents temps plein non couvertes par un accord d'entreprise ou, à défaut, par un plan d'action (articles L. 2242-8 et L. 2242-9 du code du travail). »
+
+L'article « Conclusion du contrat de travail » reste bien sous la numérotation 4.2 et la numérotation ci-dessous reste également inchangée :
+
+Suspension du contrat de travail (art. 4.3).
+
+Rupture du contrat de travail (art. 4.4).
+
+Les documents remis par l'employeur le jour du départ (art. 4.5).
+
+Travailleurs handicapés (art. 4.6).
+
+Salariés sous contrat à durée déterminée, saisonniers et travailleurs temporaires (art. 4.7).
