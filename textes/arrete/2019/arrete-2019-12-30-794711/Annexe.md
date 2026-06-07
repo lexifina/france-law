@@ -2,332 +2,310 @@
 
 Organismes |
 
-Années au titre desquelles
+Années au titre desquelles l'habilitation
 
-l'habilitation sur la liste nationale
+sur la liste nationale est accordée |
 
-est accordée |
+100 CHANCES 100 EMPLOIS |
 
-100 % handinamique-Ex Fédération Etudiante pour une Dynamique Etudes et Emploi avec un Handicap |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+100% handinamique pour la réussite des jeunes handicapés (100% HANDINAMIQUE) |
 
-Association 100 000 entrepreneurs |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+A DEUX MAINS |
 
-Association 2ARAMI |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+Airemploi Espace Orientation |
 
-Association Accompagner la Réalisation des Projets d'Etudes de Jeunes Elèves et Etudiants Handicapés (ARPEJEH) |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+Article 1 |
 
-Association Actions 3PF (Peintres et peintures pour la France) |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+Association Accompagner la Réalisation des Projets d'Etudes de Jeunes Elèves et Etudiants Handicapés |
 
-Association Airemploi Espace Orientation |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+Association Actions 3PF |
 
-Association Article 1 |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+Association Fédération nationale des Ecoles de Production |
 
-Association Chemins d'avenirs |
+2026, 2027, 2028 |
 
-2025,2026,2027 |
+Association fondation étudiante pour la ville |
 
-Association Course en cours |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+Association Française pour le Développement de l'Enseignement Technique |
 
-Association Crée ton avenir-France |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+Association HANVOL |
 
-Association de l'or dans les mains |
+2024, 2025, 2026 |
 
-2024,2025,2026 |
+Association Ingénieurs pour l'école |
 
-Association de la fondation étudiante pour la ville (AFEV) |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+Association Jeunesse Entreprises |
 
-Association des Nouvelles Technologies pour l'Education et la Communication (ANTEC) |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+Association la Chance, pour la diversité dans les médias |
 
-Association des Syndicats de la Distribution et de la Maintenance des matériels agricoles, de travaux publics, de manutention et de parcs et jardins (ASDM) |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+Association LE MONDE DU TRANSPORT REUNI |
 
-Association Duo for a job |
+2025, 2026, 2027 |
 
-2024,2025,2026 |
+Association les entreprises pour la cité |
 
-Association Elles bougent |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+Association Métiers-Avenir |
 
-Association ENACTUS |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+Association Nationale des Apprentis de France (ANAF) |
 
-Association entourage |
+2025, 2026, 2027 |
 
-2023,2024,2025 |
+ASSOCIATION NATIONALE LES ENTREPRENEURIALES |
 
-Association Entreprendre pour apprendre (EPA) |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+Association ouvrière des Compagnons du Devoir et du Tour de France |
 
-Association Euro App Mobility |
+2026, 2027, 2028 |
 
-2025,2026,2027 |
+Association pour la promotion des métiers et des formations en égroéquipement |
 
-Association française pour le développement de l'enseignement technique (AFDET) |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+Association pour le développement des relations éducation entreprise (ADREE) |
 
-Association France 2025 rugby |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+Association sport dans la ville |
 
-Association Hanvol |
+2026, 2027, 2028 |
 
-2024,2025,2026 |
+ASSOCIATION WALT |
 
-Association Ingénieurs pour l'école (IPE) |
+2024, 2025, 2026 |
 
-2023,2024,2025 |
+Campus Mozaïk |
 
-Association InitiaDROIT |
+2025, 2026, 2027 |
 
-2023,2024,2025 |
+CAPITAL FILLES |
 
-Association Institut Break Poverty (IBP) |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+Centre Information Document Jeunesse |
 
-Association Jeunesse Entreprise (AJE) |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+Comité d'organisation des expositions du travail et du concours "un des meilleurs ouvriers de France" |
 
-Association La chance, pour la diversité dans les médias |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+Course en cours |
 
-Association le monde du transport réuni |
+2026, 2027, 2028 |
 
-2025,2026,2027 |
+Crée ton avenir France |
 
-Association Les Entrepreneuriales (ANLE) |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+DE L'OR DANS LES MAINS |
 
-Association Les entreprises pour la cité |
+2024, 2025, 2026 |
 
-2023,2024,2025 |
+DUO FOR A JOB |
 
-Association les Rencontres Entreprises Enseignants (R2coE) |
+2024, 2025, 2026 |
 
-2023,2024,2025 |
+ELLES BOUGENT |
 
-Association Métiers-Avenir (AMA)- |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+ENACTUS France |
 
-Association Moteur ! |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+Entraide scolaire amicale |
 
-Association Mozaïk |
+2025, 2026, 2027 |
 
-2025,2026,2027 |
+Entreprendre pour apprendre 6 France |
 
-Association nationale des apprentis de France (ANAF) |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+Euro App Mobility |
 
-Association ouvrière des compagnons du devoir du tour de France (AOCTDF) |
+2025, 2026, 2027 |
 
-2023,2024,2025 |
+Euro-France Association |
 
-Association pour la promotion des métiers et des formations en agroéquipement (APRODEMA) |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+Fédération nationale des associations régionales des directeurs de centres de formation d'apprentis (FNADIR) |
 
-Association pour le développement des relations Education Entreprises (ADREE) |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+Fondation Agir Contre l'Exclusion |
 
-Association Proxité |
+2026, 2027, 2028 |
 
-2024,2025,2026 |
+Fondation CGENIAL POUR LA CULTURE SCIENTIFIQUE ET TECHNIQUE |
 
-Association Société nationale des Meilleurs ouvriers de France |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+FONDATION INRIA |
 
-Association Sport dans la ville |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+GROUPE SOS Jeunesse |
 
-Association Talents du numérique (ex-Pascaline) |
+2025, 2026, 2027 |
 
-2023,2024,2025 |
+Groupe SOS solidarité |
 
-Association Ticket for change |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+IM'PACTES |
 
-Association Viens voir mon Taf |
+2026, 2027, 2028 |
 
-2023,2024,2025 |
+Ingénieurs et Scientifiques de France |
 
-Association Walt |
+2025, 2026, 2027 |
 
-2024,2025,2026 |
+Institut Break Poverty |
 
-Association Zup de co |
-
-2025,2026,2027 |
-
-Capital Filles |
-
-2023,2024,2025 |
-
-Centre d'Information et de Documentation Jeunesse (CIDJ) |
-
-2023,2024,2025 |
-
-Centre d'orientation Interprofessions (COIP) |
-
-2023,2024,2025 |
-
-Cgénial |
-
-2023,2024,2025 |
-
-Comité d'organisation du concours Un des Meilleurs Ouvriers de France et des Expositions du Travail (COET-MOF) |
-
-2023,2024,2025 |
-
-Energie Jeunes |
-
-2023,2024,2025 |
-
-Entraide scolaire amicale (ESA) |
-
-2025,2026,2027 |
-
-Euro France Association |
-
-2023,2024,2025 |
-
-Fédération nationale des directeurs de centres de formation d'apprentis (FNADIR) |
-
-2023,2024,2025 |
-
-Fédération nationale des écoles de Production (FNEP) |
-
-2023,2024,2025 |
-
-FICME (Club Seimat) |
-
-2023,2024,2025 |
-
-Fondation FACE-Agir Contre l'Exclusion |
-
-2023,2024,2025 |
-
-Fondation Un Avenir Ensemble |
-
-2023,2024,2025 |
-
-Groupe SOS Jeunesse |
-
-2025,2026,2027 |
-
-Ingénieurs Scientifiques de France |
-
-2025,2026,2027 |
+2026, 2027, 2028 |
 
 Institut de l'Engagement |
 
-2023,2024,2025 |
+2026, 2027, 2028 |
 
-Institut Français du Tourisme (IFT) |
+Institut Français du Tourisme |
 
-2023,2024,2025 |
+2026, 2027, 2028 |
 
-Institut Télémaque |
+Job in real life |
 
-2023,2024,2025 |
-
-Job in real life-JobIRL |
-
-2023,2024,2025 |
-
-L'union des Associations L'Outil En Main |
-
-2023,2024,2025 |
-
-L'Union des professeurs de Sciences et Techniques Industrielles (UPSTI) |
-
-2023,2024,2025 |
+2026, 2027, 2028 |
 
 La Cravate Solidaire |
 
-2023,2024,2025 |
+2026, 2027, 2028 |
 
-La ligue de l'enseignement |
+LA LIGUE DE L'ENSEIGNEMENT |
 
-2024,2025,2026 |
+2024, 2025, 2026 |
 
-Le Comité français des olympiades des métiers (COFOM-Worldskills) |
+Les Rencontres Entreprises Enseignants |
 
-2023,2024,2025 |
+2026, 2027, 2028 |
 
-Nos quartiers ont du talent (NQT) |
+L'UNION DES ASSOCIATIONS L'OUTIL EN MAIN |
 
-2023,2024,2025 |
+2026, 2027, 2028 |
 
-ONISEP |
+Moteur ! |
 
-2023,2024,2025 |
+2026, 2027, 2028 |
 
-Prologin |
+NQT - Nos quartiers ont du talent |
 
-2024,2025,2026 |
+2026, 2027, 2028 |
 
-RENASUP |
+Office national d'information sur les enseignements et les professions |
 
-2023,2024,2025 |
+2026, 2027, 2028 |
 
-Réseau des entrepreneurs citoyens (REC) |
+PASS'SPORT(S) POUR L'EMPLOI FORMATION |
 
-2024,2025,2026 |
+2026, 2027, 2028 |
 
-Réseau national pour la promotion de l'apprentissage adapté aux personnes handicapées (2APH) |
+PROLOGIN |
 
-2025,2026,2027 |
+2024, 2025, 2026 |
 
-Robotique First |
+Proxité |
 
-2025,2026,2027 |
+2024, 2025, 2026 |
 
-Social Builders |
+RESEAU DES ENTREPRENEURS CITOYENS |
 
-2024,2025,2026 |
+2024, 2025, 2026 |
 
-Talents séniors bénévoles |
+Réseau national pour la Promotion de l'Apprentissage Adapté aux Personnes Handicapées |
 
-2025,2026,2027 |
+2025, 2026, 2027 |
 
-Un stage et après (USEA) |
+ROBOTIQUE FIRST FRANCE |
 
-2023,2024,2025 |
+2025, 2026, 2027 |
+
+Rura |
+
+2025, 2026, 2027 |
+
+SOCIAL BUILDER |
+
+2024, 2025, 2026 |
+
+Société nationale des meilleurs ouvriers de France |
+
+2026, 2027, 2028 |
+
+TALENTS DU NUMERIQUE- ASSOCIATION POUR LA PROMOTION DES FORMATIONS SUPERIEURES ET DES METIERS DU NUMERIQUE |
+
+2026, 2027, 2028 |
+
+TALENTS SENIORS BENEVOLES |
+
+2025, 2026, 2027 |
+
+TECH PIONNIERES |
+
+2026, 2027, 2028 |
+
+Télémaque |
+
+2026, 2027, 2028 |
+
+Un Avenir Ensemble |
+
+2026, 2027, 2028 |
+
+Un stage, et après ? |
+
+2026, 2027, 2028 |
+
+Union des Professeurs de Sciences et Techniques Industrielles |
+
+2026, 2027, 2028 |
+
+Viens voir mon Taf |
+
+2026, 2027, 2028 |
+
+WORLDSKILLS FRANCE |
+
+2026, 2027, 2028 |
+
+Zup de co |
+
+2025, 2026, 2027 |
