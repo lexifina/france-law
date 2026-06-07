@@ -1,40 +1,52 @@
-# Article Annexe 241-A 1
+# Article Annexe 241-A.1
 
 RAPPORT DE VÉRIFICATION SPÉCIALE DES NAVIRES DE PLAISANCE A UTILISATION COMMERCIALE DONT LA DURÉE DE VALIDITÉ DU PERMIS DE NAVIGATION EST SUPÉRIEURE A 1 AN
 
-Les navires de plaisance à utilisation commerciale dont la durée de validité du permis de navigation est, en application de l'article 130.9.2 de la division 130 du règlement annexé à l'arrêté du 23 novembre 1987 (modifié) relatif à la sécurité des navires, supérieure à 1 an, sont soumis à une vérification spéciale annuelle. A l'issue de celle-ci, l'armateur, responsable de l'entretien du navire, renseigne et vise un rapport inséré dans le registre de vérification spéciale du navire.
+RAPPORT DE VÉRIFICATION SPÉCIALE |
 
-Ce document guide l'armateur dans la vérification régulière de l'entretien du navire et le suivi de son matériel de sécurité. La vérification engage sa responsabilité.
+I. RENSEIGNEMENTS GÉNÉRAUX |
 
-Tous les travaux effectués entre deux visites périodiques du centre de sécurité des navires sont renseignés dans ce rapport.
+1. Nom du navire :
 
-Le capitaine doit avoir pris connaissance de ce document avant de prendre la mer.
+2. Immatriculation du navire :
 
-Ce document doit pouvoir être présenté, en mer, à tout moment aux agents de contrôle.
+3. Armateur du navire :
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante :
+4. Catégorie de navigation : 1 □ 2 □ 3 □ 4 □ 5 □
 
-https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000034631261
+5. Matériel d'armement et de sécurité : Côtier □ Semi-hauturier □ Hauturier □
 
-I.-Matériel de sécurité
-
-VÉRIFICATIONS |
-
-DATES DES TESTS
-
-ou vérifications des validités |
-
-NOTER LES DATES LIMITES MATÉRIELS
-
-(capsules de gaz, dispositifs lumineux, pyrotechnie) : |
-
-OBSERVATIONS |
-
-Equipements individuels de flottabilité |
+6. Date d'établissement du rapport :
 
 |
 
-Date : |
+II. MATÉRIEL D'ARMEMENT ET DE SÉCURITÉ
+
+CONTRÔLES |
+
+Vérifications |
+
+Dates des tests ou des
+
+vérifications des validités |
+
+Dates limites
+
+(capsules de gaz,
+
+dispositifs lumineux,
+
+pyrotechnie) |
+
+Observations |
+
+Equipement individuel de flottabilité
+
+(nombre, flottabilité en Newton, état général) |
+
+|
+
+|
 
 |
 
@@ -46,7 +58,7 @@ Combinaisons d'immersion |
 
 |
 
-Harnais |
+Harnais et leurs longes |
 
 |
 
@@ -62,6 +74,16 @@ Dispositif de remontée à bord |
 
 |
 
+Essai du dispositif de
+
+récupération d'une personne tombée à l'eau |
+
+|
+
+|
+
+|
+
 Essai du dispositif d'arrêt automatique |
 
 |
@@ -70,11 +92,29 @@ Essai du dispositif d'arrêt automatique |
 
 |
 
-Dispositif lumineux |
+Dispositifs lumineux individuels / collectifs |
 
 |
 
-Date : |
+|
+
+|
+
+Dispositif de repérage et d'assistance pour personne
+
+tombée à l'eau |
+
+|
+
+|
+
+|
+
+Feux rouges à main |
+
+|
+
+|
 
 |
 
@@ -86,11 +126,11 @@ Dispositif d'assèchement |
 
 |
 
-Moyen (s) lutte incendie |
+Moyen(s) de lutte contre l'incendie |
 
 |
 
-Date (s) de péremption : |
+|
 
 |
 
@@ -102,7 +142,7 @@ Dispositif de remorquage |
 
 |
 
-Essai dispositif de remontée d'une personne tombée à l'eau |
+Sondeur |
 
 |
 
@@ -110,31 +150,7 @@ Essai dispositif de remontée d'une personne tombée à l'eau |
 
 |
 
-Feux à main |
-
-|
-
-Date : |
-
-|
-
-Fusées parachute |
-
-|
-
-Date : |
-
-|
-
-Fumigènes |
-
-|
-
-Date : |
-
-|
-
-VHF fixe |
+Compas magnétique et relevé de déviation |
 
 |
 
@@ -142,7 +158,7 @@ VHF fixe |
 
 |
 
-VHF portable |
+Emetteur récepteur VHF fixe |
 
 |
 
@@ -150,7 +166,7 @@ VHF portable |
 
 |
 
-Système de positionnement par satellite |
+Emetteur récepteur VHF portatif |
 
 |
 
@@ -158,7 +174,7 @@ Système de positionnement par satellite |
 
 |
 
-Compas magnétique |
+Balise EPIRB |
 
 |
 
@@ -166,7 +182,7 @@ Compas magnétique |
 
 |
 
-Trousse de secours |
+Transpondeur SART |
 
 |
 
@@ -174,23 +190,83 @@ Trousse de secours |
 
 |
 
-Journal de bord |
-
-Date de mise en service : |
+Emetteur-récepteur SMDSM |
 
 |
 
 |
 
-Radiobalise de localisation des sinistres |
+|
+
+Réflecteur radar ou moyen équivalent |
 
 |
 
-Date : |
+|
 
 |
 
-Sondeur électronique |
+Récepteur GPS ou système équivalent |
+
+|
+
+|
+
+|
+
+Loch totalisateur |
+
+|
+
+|
+
+|
+
+Anémomètre |
+
+|
+
+|
+
+|
+
+Moyens de connaître les heures
+
+et coefficients de marée du jour |
+
+|
+
+|
+
+|
+
+Cartes marines ou leurs extraits |
+
+|
+
+|
+
+|
+
+RIPAM ou résumé textuel ou
+
+graphique |
+
+|
+
+|
+
+|
+
+Document décrivant le système de balisage de la zone fréquentée |
+
+|
+
+|
+
+|
+
+Dotation médicale |
 
 |
 
@@ -206,7 +282,11 @@ Plan affichant la localisation du matériel de sécurité |
 
 |
 
-Instructions en cas d'incendie, envahissement et abandon |
+Instructions en cas d'incendie,
+
+Envahissement, abandon et
+
+récupération d'homme à la mer |
 
 |
 
@@ -214,123 +294,25 @@ Instructions en cas d'incendie, envahissement et abandon |
 
 |
 
-Engins collectifs de sauvetage |
-
-Radeau ; Type et N° |
-
-Dates des tests ou contrôle des validités |
-
-Noter les dates limites : |
-
-|
-
-Observations et visa de l'autorité maritime (en cas de contrôle) |
-
-|
-
-II.-Le navire
-
-COQUE ET CONSTRUCTION |
-
-Vérifications |
-
-Date |
-
-Observations |
-
-Inspection visuelle extérieure
-
-coque & pont |
-
-|
-
-|
-
-Inspection visuelle intérieure
-
-structure |
-
-|
-
-|
-
-Fonctionnement panneau (x) &
-
-hublot (s) |
-
-|
-
-|
-
-Intégrité liaison coque/ pont |
-
-|
-
-|
-
-Etat davier (s) de mouillage |
-
-|
-
-|
-
-Etat taquets d'amarrage |
-
-|
-
-|
-
-Lisibilité plaque du constructeur |
-
-|
-
-|
-
-Fonctionnement passe-coque (s) |
-
-|
-
-|
-
-Fonctionnement vannes (s) |
-
-|
-
-|
-
-Autres points vérifiés : |
+Radeau de survie ; Type et N°
 
 |
 
 |
 
 |
+
+|
+
+ACTIONS |
 
 Actions |
 
-Date |
+Dates |
 
-Détail de l'intervention |
+Détail de l'intervention et
 
-Carénage |
-
-|
-
-|
-
-Changement anode (s) |
-
-|
-
-|
-
-Changement passe-coque |
-
-|
-
-|
-
-Autres actions : |
+date de déclaration au CSN |
 
 |
 
@@ -348,17 +330,437 @@ Autres actions : |
 
 |
 
-Observations et visa de l'autorité maritime (en cas de contrôle) |
-
 |
 
-APPAREIL A GOUVERNER |
+Observations et visa de l'autorité maritime en cas de contrôle |
+
+III. PRÉVENTION DES ACCIDENTS
+
+CONTRÔLES |
 
 Vérifications |
 
-Date |
+Dates |
 
 Observations |
+
+Apparaux de mouillage |
+
+|
+
+|
+
+Équipements de sécurité pour le travail dans le gréement |
+
+|
+
+|
+
+Embarcation annexe |
+
+|
+
+|
+
+Planchon, passerelle, échelle de
+
+coupée |
+
+|
+
+|
+
+Éclairage |
+
+|
+
+|
+
+Outils et matériels de rechange |
+
+|
+
+|
+
+Equipements de protection
+
+individuelle |
+
+|
+
+|
+
+ACTIONS |
+
+Actions |
+
+Dates |
+
+Détail de l'intervention et
+
+date de déclaration au CSN |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Observations et visa de l'autorité maritime en cas de contrôle |
+
+IV. ENCADREMENT DE LA SÉCURITÉ
+
+CONTRÔLES |
+
+Vérifications |
+
+Dates |
+
+Observations |
+
+Enregistrement du registre des personnes embarquées |
+
+|
+
+|
+
+Consignes de sécurité :
+
+- Utilisation des équipements et matériels
+
+- Evacuation
+
+- Abandon
+
+- Incendie
+
+- Voie d'eau |
+
+|
+
+|
+
+Consignes aux passagers |
+
+|
+
+|
+
+Journal de bord |
+
+|
+
+|
+
+Journal machine |
+
+|
+
+|
+
+Système de communication sur le navire |
+
+|
+
+|
+
+ACTIONS |
+
+Actions |
+
+Dates |
+
+Détail de l'intervention et
+
+date de déclaration au CSN |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Observations et visa de l'autorité maritime en cas de contrôle |
+
+V. SUIVI TECHNIQUE DU NAVIRE
+
+CONTRÔLES DU FLOTTEUR |
+
+Vérifications |
+
+Dates |
+
+Observations |
+
+Vérification de la face externe de la
+
+carène |
+
+|
+
+|
+
+Accessoires des moyens d'évacuation de l'eau accumulée sur le pont |
+
+|
+
+|
+
+Moyens de fermeture |
+
+|
+
+|
+
+Hublots et sabords |
+
+|
+
+|
+
+Orifices de ventilation |
+
+|
+
+|
+
+Écoutilles |
+
+|
+
+|
+
+Trappes d'évacuation |
+
+|
+
+|
+
+Dégagements d'air |
+
+|
+
+|
+
+Vannes des prises d'eau et décharges |
+
+|
+
+|
+
+Dérives mobiles |
+
+|
+
+|
+
+Parties mobiles des appendices de
+
+coque |
+
+|
+
+|
+
+Arbre(s) d'hélice |
+
+|
+
+|
+
+Hélice(s) |
+
+|
+
+|
+
+Anodes (masse sacrificielle) |
+
+|
+
+|
+
+Joints tournants d'étanchéité de
+
+passage d'arbre |
+
+|
+
+|
+
+ACTIONS |
+
+Actions |
+
+Dates |
+
+Détail de l'intervention et
+
+date de déclaration au CSN |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Observations et visa de l'autorité maritime en cas de contrôle |
+
+V. SUIVI TECHNIQUE DU NAVIRE
+
+VÉRIFICATION DU GRÉEMENT |
+
+Vérifications |
+
+Dates |
+
+Observations |
+
+Espars, étais, haubans, et moyens de fixation |
+
+|
+
+|
+
+Ridoirs |
+
+|
+
+|
+
+Sertissages des haubans et étais |
+
+|
+
+|
+
+Commettage des câbles |
+
+|
+
+|
+
+Drisses et écoutes textiles |
+
+|
+
+|
+
+Réas |
+
+|
+
+|
+
+Câbles électriques dans les espars |
+
+|
+
+|
+
+Ferrures de fixation, platines,
+
+boulonnerie du gréement dormant |
+
+|
+
+|
+
+Etat et tension filière(s ) et
+
+chandeliers |
+
+|
+
+|
+
+ACTIONS |
+
+Actions |
+
+Dates |
+
+Détail de l'intervention et
+
+date de déclaration au CSN |
+
+Entretien ligne(s) de vie |
+
+|
+
+|
+
+Entretien filière(s) |
+
+|
+
+|
+
+Entretien haubanage(s) |
+
+|
+
+|
+
+Entretien accastillage de pont |
+
+|
+
+|
+
+Observations et visa de l'autorité maritime en cas de contrôle |
+
+V. SUIVI TECHNIQUE DU NAVIRE
+
+CONTRÔLES DE L'APPAREIL A GOUVERNER |
+
+Vérifications |
+
+Dates |
+
+Observations |
+
+Appareil à gouverner de secours |
+
+|
+
+|
 
 Absence de points durs |
 
@@ -372,7 +774,29 @@ Absence de jeu excessif |
 
 |
 
-Autres points vérifiés : |
+ACTIONS |
+
+Actions |
+
+Dates |
+
+Détail de l'intervention et
+
+date de déclaration au CSN |
+
+Entretien, réparation ou changement du safran |
+
+|
+
+|
+
+Entretien, réparation ou changement de la mèche du gouvernail |
+
+|
+
+|
+
+Entretien, réparation ou changement de l'ensemble électrohydraulique ou ses parties (moteur, pompe hydraulique, vérin) |
 
 |
 
@@ -386,23 +810,35 @@ Autres points vérifiés : |
 
 |
 
-Observations et visa de l'autorité maritime (en cas de contrôle) |
+|
 
-PROPULSION |
+|
+
+|
+
+|
+
+|
+
+Observations et visa de l'autorité maritime en cas de contrôle |
+
+V. SUIVI TECHNIQUE DU NAVIRE
+
+CONTRÔLE DE LA PROPULSION |
 
 Vérifications |
 
-Date |
+Dates |
 
 Observations |
 
-Essais mise en marche/ arrêt |
+Essais mise en marche/arrêt |
 
 |
 
 |
 
-Niveau (x) des fluides |
+Niveau(x) des fluides |
 
 |
 
@@ -420,43 +856,55 @@ Contrôle du circuit de refroidissement |
 
 |
 
-Etat hélices (s) & tuyère (s)/ anodes |
+Etat hélices(s) & tuyère(s ) /anodes |
 
 |
 
 |
 
-Entretien crépine (s) |
+Entretien crépine(s) |
 
 |
 
 |
 
-Autres points vérifiés : |
+ACTIONS |
 
-Observations et visa de l'autorité maritime (en cas de contrôle) |
+Actions |
 
-MOUILLAGE |
+Dates |
+
+Détail de l'intervention et
+
+date de déclaration au CSN |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Observations et visa de l'autorité maritime en cas de contrôle |
+
+V. SUIVI TECHNIQUE DU NAVIRE
+
+CONTRÔLES DES FEUX DE NAVIGATION |
 
 Vérifications |
 
-Date |
-
-Observations |
-
-Contrôle général de la ligne de mouillage, de l'ancre à l'étalingure |
-
-|
-
-|
-
-Observations et visa de l'autorité maritime (en cas de contrôle) |
-
-FEUX DE SIGNALISATION |
-
-Vérifications |
-
-Date |
+Dates |
 
 Observations |
 
@@ -466,15 +914,45 @@ Essai des feux réglementaires de route et mouillage |
 
 |
 
-Autres points vérifiés : |
+ACTIONS |
 
-ASSÈCHEMENT |
+Actions |
 
-Vérifications |
+Dates |
 
-Date |
+Détail de l'intervention et
 
-Observations |
+date de déclaration au CSN |
+
+Remplacement des feux de navigation |
+
+|
+
+|
+
+Modification de l'emplacement des feux de navigation |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Observations et visa de l'autorité maritime en cas de contrôle |
+
+V. SUIVI TECHNIQUE DU NAVIRE
+
+CONTRÔLE DE L'ASSÉCHEMENT |
 
 Essai des pompes et moyens d'assèchement |
 
@@ -482,97 +960,27 @@ Essai des pompes et moyens d'assèchement |
 
 |
 
-Etat & fixation des aspirations |
+Etat et fixation des aspirations |
 
 |
 
 |
 
-Etat tuyautage (s) |
+Etat du/des tuyautage(s) |
 
 |
 
 |
 
-Autres points vérifiés : |
-
-Observations et visa de l'autorité maritime (en cas de contrôle) |
-
-GRÉEMENTS DORMANTS ET DISPOSITIF DE PRÉVENTION DE CHUTE PAR-DESSUS BORD |
-
-Vérifications |
-
-Date |
-
-Observations |
-
-Inspection du gréement |
-
-|
-
-|
-
-Fixation des moyens de secours (Radeaux bouées), portique (s) & superstructure (s) |
-
-|
-
-|
-
-Contrôle de l'accastillage installé, et vérifications visuelles de tout les textiles et ou câbles |
-
-|
-
-|
-
-Etat et tension filière (s) et chandeliers |
-
-|
-
-|
-
-Recherche visuelle des fractures usures Sur : Mat (s), bôme (s), tangons, filières et lignes de vie. Vérification de l'accastillage des textiles et câbles |
-
-|
-
-|
-
-|
-
-|
-
-|
+ACTIONS |
 
 Actions |
 
-Date |
+Dates |
 
-Détail de l'intervention |
+Détail de l'intervention et
 
-Entretien ligne (s) de vie |
-
-|
-
-|
-
-Entretien filière (s) |
-
-|
-
-|
-
-Entretien haubanage (s) |
-
-|
-
-|
-
-Entretien accastillage de pont |
-
-|
-
-|
-
-Autres actions : |
+date de déclaration au CSN |
 
 |
 
@@ -586,23 +994,35 @@ Autres actions : |
 
 |
 
-Observations et visa de l'autorité maritime (en cas de contrôle) |
+|
 
 |
 
-GAZ ET ÉLECTRICITÉ |
+|
+
+Observations et visa de l'autorité maritime en cas de contrôle |
+
+V. SUIVI TECHNIQUE DU NAVIRE
+
+CONTRÔLE DES INSTALLATIONS DE GAZ ET ÉLECTRICITÉ |
 
 Vérifications |
 
-Date |
+Dates |
 
 Observations |
 
-Circuit Gaz |
+Circuit Gaz (dispositifs de sécurité) |
 
 |
 
-Dates des pièces nécessitants un renouvellement régulier recommandé ; Péremption flexibles. |
+|
+
+Circuit gaz (dates des pièces nécessitants un renouvellement) |
+
+|
+
+|
 
 Contrôle des fixations batteries |
 
@@ -610,10 +1030,38 @@ Contrôle des fixations batteries |
 
 |
 
-Observations et visa de l'autorité maritime (en cas de contrôle |
+Contrôle des ventilations du compartiment batteries |
+
+|
+
+|
+
+ACTIONS |
+
+Actions |
+
+Dates |
+
+Détail de l'intervention et
+
+date de déclaration au CSN |
 
 |
 
 |
 
 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Observations et visa de l'autorité maritime en cas de contrôle |

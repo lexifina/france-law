@@ -28,39 +28,55 @@ Mesures compensatrices |
 
 Exemption conditionnelle
 
-La ou les cartes marines, ou encore leurs extraits, officiels, élaborés à partir des informations d'un service hydrographique national |
+La ou les cartes marines, ou encore leurs extraits, officiels, élaborés à partir des informations d'un service hydrographique national
+
+|
 
 Art.
 
-240-2.10 |
+240-2.10
+
+|
 
 Information par l'encadrant avant la sortie, via l'affichage obligatoire de la carte dans le club et sur le site de pratique lorsque celui-ci n'est pas le site habituel de navigation
 
 L'encadrant garde la possibilité d'imposer à son groupe d'embarquer une carte marine (ou leurs extraits officiels) par embarcation
 
-Un extrait de la carte du parcours réalisé est fixé sur chaque canoé kayak, afin que le pratiquant puisse se repérer |
+Un extrait de la carte du parcours réalisé est fixé sur chaque canoé kayak, afin que le pratiquant puisse se repérer
+
+|
 
 Exemption totale
 
-Règlement international pour prévenir les abordages en mer (RIPAM), ou un résumé textuel et graphique, éventuellement sous forme de plaquettes autocollantes ou sur support électronique et son appareil de lecture |
+Règlement international pour prévenir les abordages en mer (RIPAM), ou un résumé textuel et graphique, éventuellement sous forme de plaquettes autocollantes ou sur support électronique et son appareil de lecture
+
+|
 
 Art.
 
-240-2.10 |
+240-2.10
+
+|
 
 Information par l'encadrant avant la sortie,
 
 via l'affichage du RIPAM dans le club.
 
-L'encadrant garde la possibilité d'imposer à son groupe d'embarquer un RIPAM (ou un résumé textuel et graphique) par embarcation |
+L'encadrant garde la possibilité d'imposer à son groupe d'embarquer un RIPAM (ou un résumé textuel et graphique) par embarcation
+
+|
 
 Exemption conditionnelle
 
-Document décrivant le système de balisage de la zone fréquentée, éventuellement sous forme de plaquettes autocollantes ou sur support électronique et son appareil de lecture |
+Document décrivant le système de balisage de la zone fréquentée, éventuellement sous forme de plaquettes autocollantes ou sur support électronique et son appareil de lecture
+
+|
 
 Art.
 
-240-2.10 |
+240-2.10
+
+|
 
 Information par l'encadrant avant la sortie,
 
@@ -68,27 +84,39 @@ via l'affichage du document décrivant le système de balisage de la zone fréqu
 
 L'encadrant garde la possibilité d'imposer à son groupe d'embarquer un document (ou un résumé) par embarcation
 
-Le balisage placé sur la parcours de la sortie est indiqué sur l'extrait de la carte du parcours fixée sur l'embarcation. |
+Le balisage placé sur la parcours de la sortie est indiqué sur l'extrait de la carte du parcours fixée sur l'embarcation.
+
+|
 
 Exemption partielle
 
-Trois feux rouges à main conformes aux dispositions de la division 311 du règlement |
+Trois feux rouges à main conformes aux dispositions de la division 311 du règlement
+
+|
 
 Art.
 
-240-2.10 |
+240-2.10
+
+|
 
 Chaque embarcation dispose d'un (1) feu rouge à main.
 
-L'encadrant garde la possibilité d'imposer à son groupe d'embarquer les 3 feux rouges réglementaires par embarcation |
+L'encadrant garde la possibilité d'imposer à son groupe d'embarquer les 3 feux rouges réglementaires par embarcation
+
+|
 
 Exemption conditionnelle
 
-Compas magnétique étanche conforme aux normes ISO pertinentes ou un système de positionnement satellitaire étanche faisant fonction de compas |
+Compas magnétique étanche conforme aux normes ISO pertinentes ou un système de positionnement satellitaire étanche faisant fonction de compas
+
+|
 
 Art.
 
-240-2.10 |
+240-2.10
+
+|
 
 Chaque embarcation dispose d'un moyen alternatif de navigation adapté à la zone de navigation (GPS-GSM, compas portatif de relèvement)
 
@@ -96,7 +124,9 @@ L'encadrant dispose d'un compas magnétique réglementaire.
 
 L'encadrant garde la possibilité d'imposer à son groupe d'embarquer un compas magnétique étanche réglementaire
 
-Lorsque le GSM est utilisé comme moyen alternatif, l'encadrant doit s'assurer qu'il peut être protégé des intempéries et de la mer en étant placé par exemple dans une poche étanche, et que chaque GSM embarqué est chargé pour pouvoir disposer d'une autonomie suffisante pendant toute la sortie. |
+Lorsque le GSM est utilisé comme moyen alternatif, l'encadrant doit s'assurer qu'il peut être protégé des intempéries et de la mer en étant placé par exemple dans une poche étanche, et que chaque GSM embarqué est chargé pour pouvoir disposer d'une autonomie suffisante pendant toute la sortie.
+
+|
 
 FÉDÉRATION FRANÇAISE DE VOILE (FFV)
 
@@ -122,11 +152,15 @@ Mesures compensatrices |
 
 Exemption conditionnelle
 
-Dispositif lumineux |
+Dispositif lumineux
+
+|
 
 Art.
 
-240-2.03 |
+240-2.03
+
+|
 
 Une VHF est embarquée sur le bateau d'encadrement et d'intervention |
 
@@ -142,11 +176,15 @@ Mesures compensatrices |
 
 Exemption totale
 
-Pavillon national |
+Pavillon national
+
+|
 
 Art.
 
-240-2.04 |
+240-2.04
+
+|
 
 Trigramme FRA dans la grand-voile pour les navires identifiés conformément à la World Sailing identification régulation |
 
@@ -172,7 +210,9 @@ Mesures compensatrices |
 
 Exemption totale
 
-Sifflet associé au vêtement à flottabilité intégrée |
+Sifflet associé au vêtement à flottabilité intégrée
+
+|
 
 Art.
 
@@ -180,7 +220,9 @@ Art.
 
 Art.
 
-240-2.16 |
+240-2.16
+
+|
 
 Une VHF est embarquée sur le bateau d'encadrement et d'intervention |
 
@@ -206,17 +248,23 @@ Mesures compensatrices |
 
 Exemption conditionnelle
 
-Matériel d'armement et de sécurité côtier |
+Matériel d'armement et de sécurité côtier
+
+|
 
 Art.
 
-240-2.04 |
+240-2.04
+
+|
 
 Chaque pratiquant embarque le matériel d'armement et de sécurité basique
 
 Chaque pratiquant porte un équipement individuel de flottabilité (EIF) d'au moins 50 de niveau de performance
 
-Une VHF est embarquée sur chaque bateau d'encadrement et d'intervention |
+Une VHF est embarquée sur chaque bateau d'encadrement et d'intervention
+
+|
 
 INSTITUT NATIONAL DU NAUTISME (I2N)
 
@@ -242,11 +290,15 @@ Mesures compensatrices |
 
 Exemption conditionnelle
 
-Dispositif lumineux |
+Dispositif lumineux
+
+|
 
 Art.
 
-240-2.03 |
+240-2.03
+
+|
 
 Une VHF est embarquée sur chaque bateau d'encadrement et d'intervention |
 
@@ -262,11 +314,15 @@ Mesures compensatrices |
 
 Exemption totale
 
-Pavillon national |
+Pavillon national
+
+|
 
 Art.
 
-240-2.04 |
+240-2.04
+
+|
 
 Trigramme FRA dans la grand-voile pour les navires identifiés conformément à la World Sailing identification régulation |
 
@@ -275,6 +331,8 @@ III.-Exemption accordée pour tous les voiliers évoluant en navigation diurne, 
 -de pratiques encadrées (le/ les encadrants est/ sont sur l'eau, avec son/ leur groupe) d'enseignement, de formation, de découverte, d'entrainement ou de compétition ; et
 
 -de pratiques organisées par l'I2N.
+
+(PV CCS INF 948/406.03 du 2 septembre 2020)
 
 Ne bénéficie (nt) en aucun cas des exemptions ci-dessous :
 
@@ -290,7 +348,9 @@ Mesures compensatrices |
 
 Exemption totale
 
-Sifflet associé au vêtement à flottabilité intégrée |
+Sifflet associé au vêtement à flottabilité intégrée
+
+|
 
 Art.
 
@@ -298,7 +358,9 @@ Art.
 
 Art.
 
-240-2.16 |
+240-2.16
+
+|
 
 Une VHF est embarquée sur chaque bateau d'encadrement et d'intervention |
 
@@ -307,6 +369,8 @@ IV.-Exemption accordée pour les voiliers de moins de 250 kg évoluant en naviga
 -de pratiques encadrées (le/ les encadrants est/ sont sur l'eau, avec son/ leur groupe) d'enseignement, de découverte, d'entrainement et de compétition ; et
 
 -de pratiques organisées par l'I2N.
+
+(PV CCS INF 948/406.03 du 2 septembre 2020)
 
 Ne bénéficie (nt) en aucun cas des exemptions ci-dessous :
 
@@ -322,17 +386,73 @@ Mesures compensatrices |
 
 Exemption conditionnelle
 
-Matériel d'armement et de sécurité côtier |
+Matériel d'armement et de sécurité côtier
+
+|
 
 Art.
 
-240-2.04 |
+240-2.04
+
+|
 
 Chaque pratiquant embarque le matériel d'armement et de sécurité basique.
 
 Chaque pratiquant porte un équipement individuel de flottabilité (EIF) d'au moins 50 de niveau de performance
 
-Une VHF est embarquée sur chaque bateau d'encadrement et d'intervention |
+Une VHF est embarquée sur chaque bateau d'encadrement et d'intervention
+
+|
+
+Fédération française motonautique (FFM)
+
+Exemptions accordées pour les véhicules nautiques à moteur des pratiquants évoluant dans le cadre des activités d'initiation ou de randonnées encadrées, en application de l'Arrêté du 1er avril 2008 relatif à l'initiation et à la randonnée encadrées en véhicule nautique à moteur.
+
+(PV CCS INF 990/447.CONS.01 du 5 juin 2024)
+
+L'encadrant accompagnant le groupe ne bénéficie en aucun cas des exemptions ci-dessous :
+
+Cette exemption est accordée pour les véhicules nautiques à moteur d'initiation ou encadrés, naviguant entre 2 et 6 milles d'un abri.
+
+Exemption accordée |
+
+Référence article |
+
+Mesures compensatrices |
+
+Exemption totale
+
+La ou les cartes marines, ou encore leurs extraits, officiels, élaborés à partir des informations d'un service hydrographique national. Elles couvrent les zones de navigation fréquentées, sont placées sur support papier ou sur support électronique et son appareil de lecture, et sont tenues à jour |
+
+Art.
+
+240-2.12 |
+
+Néant |
+
+Exemption totale
+
+Trois feux rouges à main conformes aux dispositions de la division 311 du règlement |
+
+Art.
+
+240-2.12 |
+
+Néant |
+
+L'encadrant accompagnant le groupe ne bénéficie en aucun cas des exemptions ci-dessous :
+
+Cette exemption est accordée pour tous les véhicules nautiques à moteur d'initiation ou encadrés.
+
+Exemption conditionnelle
+
+Un moyen de connaitre les heures et coefficients de marée du jour et de la zone considérée ou leur connaissance |
+
+Art.
+
+240-2.12 |
+
+L'annuaire des marées est affiché dans les locaux de la base de location ou dans le club. |
 
 NOTA :
 

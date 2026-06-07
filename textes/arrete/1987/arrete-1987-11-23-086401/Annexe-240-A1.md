@@ -222,7 +222,7 @@ x |
 
 x |
 
-Trousse de secours conforme à l'article 240-2.16 |
+Trousse de secours conforme à l'article 240-2.19 |
 
 |
 

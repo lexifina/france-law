@@ -178,14 +178,6 @@ Date : |
 
 |
 
-Fumigènes |
-
-|
-
-Date : |
-
-|
-
 VHF fixe |
 
 |
@@ -268,9 +260,7 @@ Instructions en cas d'incendie, envahissement et abandon |
 
 Engins collectifs de sauvetage |
 
-Radeau (x) ; Type (s) et N°
-
-|
+Radeau (x) ; Type (s) et N° |
 
 Dates des tests ou contrôle des validités |
 
