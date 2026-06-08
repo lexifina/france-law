@@ -2296,6 +2296,12 @@ Animation et enseignement de l'équitation western. |
 
 |
 
+Animateur d'équitation, délivré du 27 mars 2023 au 27 mars 2026 |
+
+Encadrement, découverte et initiation des activités équestres. |
+
+Sous l'autorité d'un titulaire d'une certification de niveau 4 ou supérieur dans le domaine des activités équestres. |
+
 D-3. Titre à finalité professionnelle délivré par la société Waterform :
 
 INTITULÉ
@@ -3341,3 +3347,43 @@ CQP "moniteur de vol à plat en soufflerie " délivré du 16 décembre 2020 au 1
 Encadrement des activités de vol à plat en soufflerie. |
 
 Dans la limite d'un pratiquant, dans le cas où les pratiquants ne sont pas autonomes. |
+
+CQP "accompagnateur de raft et nage en eau vive", du 24 avril 2023 au 24 avril 2026 (**). |
+
+Conduite de séance d'animation en nage en eau vive ou en raft à des fins de découverte ou d'initiation. |
+
+Pour les sites de pratique en milieu artificiel, sous la responsabilité d'un titulaire présent sur le site :
+
+- soit d'un diplôme mention "canoë-kayak et disciplines associées"
+
+- soit d'une certification professionnelle de niveau 4 minimum ouvrant des prérogatives d'encadrement en raft et nage en eau vive.
+
+Pour les sites de pratique en milieu naturel, en convoi et sous la responsabilité d'un titulaire :
+
+- soit d'un diplôme mention "canoë-kayak et disciplines associées"
+
+- soit d'une certification professionnelle de niveau 4 minimum ouvrant des prérogatives d'encadrement en raft et nage en eau vive. |
+
+CQP "initiateur en motocyclisme", du 24 avril 2023 au 24 avril 2026 (**). |
+
+Conduite de séances de découverte, d'initiation, d'apprentissage et accompagnement de randonnées dans les activités du motocyclisme, jusqu'à la maîtrise complète d'un véhicule terrestre motorisé à guidon (2, 3, 4 roues ou chenille) et conformément à l'article R. 221-1 du code de la route. |
+
+A l'exclusion des pratiques compétitives. |
+
+CQP "moniteur de parachutisme ascensionnel nautique", du 24 avril 2023 au 24 avril 2026 (**). |
+
+Conduite de séance de découverte et d'initiation au parachutisme ascensionnel nautique |
+
+|
+
+CQP "moniteur de roller", du 24 avril 2023 au 24 avril 2026 (**). |
+
+Conduite de séance de découverte, d'initiation et d'apprentissage aux activités du roller. |
+
+Dans la limite de 20 pratiquants sur une même séance et un même lieu. |
+
+CQP "moniteur de tir sportif", du 24 avril 2023 au 24 avril 2026 (**). |
+
+Conduite de séance de découverte et d'initiation au tir sportif |
+
+Pour l'activité découverte : dans la limite de 6 pratiquants sur le même pas de tir. Pour l'activité d'initiation : dans la limite de 10 pratiquants sur le même pas de tir. |
