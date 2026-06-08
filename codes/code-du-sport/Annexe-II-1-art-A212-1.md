@@ -108,6 +108,24 @@ Encadrement et animation des activités physiques ou sportives. |
 
 A l'exclusion des pratiques compétitives. |
 
+Diplômes délivrés par le ministère chargé des armées |
+
+Educateur sportif opérationnel |
+
+4 |
+
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en activités physiques ou sportives |
+
+A l'exclusion des pratiques compétitives |
+
+Chef d'équipe éducateur sportif opérationnel |
+
+5 |
+
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en activités physiques ou sportives |
+
+A l'exclusion des pratiques compétitives |
+
 Diplôme délivré par le ministère chargé des sports |
 
 BP JEPS, spécialité " éducateur sportif " mention " activités physiques pour tous ", délivré jusqu'au 1er mars 2028. |
@@ -118,15 +136,15 @@ Encadrement et animation des activités physiques ou sportives. |
 
 A l'exclusion des pratiques compétitives. |
 
-BP JEPS, spécialité " éducateur sportif ", mention " multi activités physiques ou sportives pour tous ", délivré jusqu'au 1er décembre 2029.
+BP JEPS, spécialité "éducateur sportif", mention "multi activités physiques ou sportives pour tous"
 
 |
 
 4 |
 
-Encadrement et animation des activités physiques ou sportives. |
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en activités physiques ou sportives |
 
-A l'exclusion des pratiques compétitives. |
+A l'exclusion des pratiques compétitives |
 
 DE JEPS, spécialité " perfectionnement sportif ", mention " activités physiques et sportives adaptées ", jusqu'au 1er février 2028. |
 
@@ -874,13 +892,13 @@ Encadrement, animation et conduite de cycles d'apprentissage et de séances d'en
 
 |
 
-BP JEPS, spécialité "éducateur sportif", mention "activités de l'aviron et disciplines associées".
+BP JEPS, spécialité "éducateur sportif", mention "activités de l'aviron"
 
 |
 
 4 |
 
-Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en aviron et disciplines associées. |
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en aviron. |
 
 |
 
@@ -1242,26 +1260,6 @@ Encadrement du kayak de mer et des disciplines associées et entraînement des p
 
 Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation du sport |
 
-CQP " accompagnateur de raft et nage en eau vive ", du 24 avril 2023 au 24 avril 2026 (**). |
-
-3 |
-
-Conduite de séance d'animation en nage en eau vive ou en raft à des fins de découverte ou d'initiation. |
-
-Pour les sites de pratique en milieu artificiel, sous la responsabilité d'un titulaire présent sur le site :
-
--soit d'un diplôme mention " canoë-kayak et disciplines associées "
-
--soit d'une certification professionnelle de niveau 4 minimum ouvrant des prérogatives d'encadrement en raft et nage en eau vive.
-
-Pour les sites de pratique en milieu naturel, en convoi et sous la responsabilité d'un titulaire :
-
--soit d'un diplôme mention " canoë-kayak et disciplines associées "
-
--soit d'une certification professionnelle de niveau 4 minimum ouvrant des prérogatives d'encadrement en raft et nage en eau vive.
-
-|
-
 CQP moniteur de canoë-kayak et sports de pagaie en eau calme, du 27 mars 2024 au 27 mars 2027 (**). |
 
 4 |
@@ -1320,13 +1318,13 @@ Conduite de séances et de cycles de séances de découverte, d'initiation et d'
 
 |
 
-DE JEPS, spécialité perfectionnement sportif mention activités de canoë-kayak et disciplines associées en eau vive, délivré jusqu'au 30 mars 2029.
+DE JEPS, spécialité "entraînement et perfectionnement sportif" mention "canoë-kayak et disciplines associées en eau vive"
 
 |
 
 5 |
 
-Conduite de séances et de cycles de séances d'apprentissage, d'entraînement et/ ou perfectionnement sportif en activités de canoë-kayak et disciplines associées en eau vive. |
+Conduite de séances et de cycles de séances d'apprentissage, d'entraînement et/ou perfectionnement sportif en canoë-kayak et disciplines associées en eau vive. |
 
 |
 
@@ -1661,14 +1659,6 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 |
 
 Titres à finalité professionnelle délivrés par la fédération française d'équitation |
-
-Animateur d'équitation, délivré du 27 mars 2023 au 27 mars 2026. |
-
-3 |
-
-Encadrement, découverte et initiation des activités équestres. |
-
-Sous l'autorité d'un titulaire d'une certification de niveau 4 ou supérieur dans le domaine des activités équestres. |
 
 Accompagnateur de tourisme équestre |
 
@@ -2510,6 +2500,14 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
+DE JEPS, spécialité "entraînement et perfectionnement sportif" mention "hockey sur glace" |
+
+5 |
+
+Conduite de séances et de cycles de séances d'entraînement et de perfectionnement sportif en hockey sur glace. |
+
+|
+
 DES JEPS, spécialité " performance sportive " mention " hockey sur glace ", délivré jusqu'au 1er octobre 2026. |
 
 6 |
@@ -2840,13 +2838,13 @@ Encadrement du longe-côte. |
 
 |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " activités de canoë-kayak et disciplines associées en eau vive ", jusqu'au 30 mars 2029
+DE JEPS, spécialité "entraînement et perfectionnement sportif" mention "canoë-kayak et disciplines associées en eau vive"
 
 |
 
 5 |
 
-Encadrement du longe-côte. |
+Encadrement du longe-côte |
 
 |
 
@@ -3071,14 +3069,6 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 Certificat de qualification professionnelle délivré par l'organisme certificateur de la branche du sport (OC sport)
 
 |
-
-CQP "initiateur en motocyclisme", du 24 avril 2023 au 24 avril 2026 (**). |
-
-4 |
-
-Conduite de séances de découverte, d'initiation, d'apprentissage et accompagnement de randonnées dans les activités du motocyclisme, jusqu'à la maîtrise complète d'un véhicule terrestre motorisé à guidon (2,3,4 roues ou chenille) et conformément à l'article R. 221-1 du code de la route. |
-
-A l'exclusion des pratiques compétitives. |
 
 MOTONAUTISME
 
@@ -3366,16 +3356,6 @@ Conduite de séances et de cycles de séances de découverte, d'initiation et d'
 
 Autorisation d'exercer pour une durée d'un an renouvelée à l'issue d'une formation de mise à niveau. |
 
-BP JEPS, spécialité " éducateur sportif ", mention " activités du parachutisme ", jusqu'au 1er juin 2030 (**).
-
-|
-
-4 |
-
-Conduite de séances et de cycles de séances d'initiation et d'apprentissage des activités du parachutisme. |
-
-A l'exclusion des activités de saut en tandem, de progression accompagnée en chute et méthode traditionnelle. |
-
 CC " encadrer le saut en tandem, en parachutisme " associé au :
 
 -BPJEPS spécialité " parachutisme " ;
@@ -3452,13 +3432,13 @@ Certificat de qualification professionnelle délivré par l'organisme certificat
 
 |
 
-CQP "moniteur de parachutisme ascensionnel nautique", du 24 avril 2023 au 24 avril 2026 (**).
+CQP "moniteur de parachutisme ascensionnel nautique"
 
 |
 
 3 |
 
-Conduite de séance de découverte et d'initiation au parachutisme ascensionnel nautique |
+Conduite de séances d'initiation en parachutisme ascensionnel nautique |
 
 |
 
@@ -4206,17 +4186,17 @@ Certificat de qualification professionnelle délivré par l'organisme certificat
 
 |
 
-CQP " moniteur de roller ", du 24 avril 2023 au 24 avril 2026 (**).
+CQP "initiateur en sport à roulettes"
 
 |
 
-3 |
+4 |
 
-Conduite de séance de découverte, d'initiation et d'apprentissage aux activités du roller.
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en sports à roulettes
 
 |
 
-Dans la limite de 20 pratiquants sur une même séance et un même lieu. |
+|
 
 CQP " moniteur de sports à roulettes " option " roller ", du 20 septembre 2023 au 20 septembre 2026 (**).
 
@@ -4376,7 +4356,7 @@ Encadrement et animation du stand up paddle (SUP). |
 
 A l'exclusion des activités dérivées du surf de mer. |
 
-DE JEPS, spécialité "perfectionnement sportif", mention "activités de canoë-kayak en eau vive".
+DE JEPS, spécialité "entraînement et perfectionnement sportif" mention "canoë-kayak et disciplines associées en eau vive"
 
 |
 
@@ -4507,6 +4487,14 @@ DE JEPS, spécialité " perfectionnement sportif " mention " taekwondo et discip
 5 |
 
 Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+
+|
+
+DE JEPS, spécialité "entraînement et perfectionnement sportif" mention "taekwondo et disciplines associées" |
+
+5 |
+
+Conduite de séances et de cycles de séances d'entraînement et de perfectionnement sportif en taekwondo et disciplines associées. |
 
 |
 
@@ -4744,15 +4732,15 @@ Certificat de qualification professionnelle délivré par l'organisme certificat
 
 |
 
-CQP "moniteur de tir sportif", du 24 avril 2023 au 24 avril 2026 (**).
+CQP "moniteur de tir sportif"
 
 |
 
-3 |
+4 |
 
-Conduite de séance de découverte et d'initiation au tir sportif |
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en tir sportif |
 
-Pour l'activité découverte : dans la limite de 6 pratiquants sur le même pas de tir. Pour l'activité d'initiation : dans la limite de 10 pratiquants sur le même pas de tir. |
+|
 
 TRIATHLON
 
@@ -4951,6 +4939,14 @@ Diplôme délivré par le ministre chargé des sports |
 VOL EN SOUFFLERIE |
 
 Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation du sport |
+
+CQP "moniteur de vol à plat en soufflerie" |
+
+4 |
+
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en vol à plat en soufflerie |
+
+|
 
 VOL LIBRE ENVIRONNEMENT SPÉCIFIQUE (à l'exception de l'activité de cerf-volant acrobatique et de combat) |
 
