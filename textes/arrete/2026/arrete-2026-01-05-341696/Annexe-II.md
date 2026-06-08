@@ -12,7 +12,7 @@ Unités d'enseignement autorisées |
 
 Compétences
 
-géographique |
+géographiques |
 
 CEF |
 
@@ -70,7 +70,9 @@ X |
 
 X |
 
-France et étranger |
+France
+
+et étranger |
 
 Association des sauveteurs secouristes de la Cotière |
 
@@ -120,11 +122,11 @@ X |
 
 X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
 X |
 
@@ -184,11 +186,11 @@ X |
 
 X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
 X |
 
@@ -376,11 +378,11 @@ X |
 
 X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
 X |
 
@@ -624,7 +626,7 @@ Comité départemental de l'Aude de la FFSS |
 
 |
 
-|
+X |
 
 X |
 
@@ -1008,7 +1010,11 @@ Comité départemental des Bouches-du-Rhône FFSS |
 
 |
 
-|
+X |
+
+X |
+
+X |
 
 X |
 
@@ -1016,11 +1022,7 @@ X |
 
 X |
 
-|
-
-|
-
-|
+X |
 
 X |
 
@@ -1106,7 +1108,7 @@ Natation sauvetage du Lacydon |
 
 |
 
-|
+X |
 
 X |
 
@@ -1618,17 +1620,17 @@ Comité des Côtes-d'Armor de la FFSS |
 
 |
 
+|
+
 X |
 
 X |
 
 X |
 
-|
+X |
 
-|
-
-|
+X |
 
 X |
 
@@ -1744,7 +1746,11 @@ Comité départemental de la Dordogne FFSS |
 
 |
 
-|
+X |
+
+X |
+
+X |
 
 X |
 
@@ -1752,11 +1758,7 @@ X |
 
 X |
 
-|
-
-|
-
-|
+X |
 
 X |
 
@@ -1808,7 +1810,11 @@ Sauvetage aquatique et secourisme en Bergeracois |
 
 |
 
-|
+X |
+
+X |
+
+X |
 
 X |
 
@@ -1816,11 +1822,7 @@ X |
 
 X |
 
-|
-
-|
-
-|
+X |
 
 X |
 
@@ -2182,7 +2184,7 @@ X |
 
 X |
 
-28 |
+28,45 |
 
 Association de sauvetage et secourisme Bro-Kemperle |
 
@@ -2470,7 +2472,7 @@ X |
 
 X |
 
-30 |
+07, 30, 48 |
 
 Comité départemental du Gard de la FFSS |
 
@@ -2502,7 +2504,7 @@ X |
 
 X |
 
-30 |
+07, 30, 48 |
 
 Association alize aventure |
 
@@ -3600,8 +3602,6 @@ Association des sauveteurs secouristes de Chateauroux |
 
 |
 
-|
-
 X |
 
 X |
@@ -3622,7 +3622,9 @@ X |
 
 X |
 
-36 |
+X |
+
+18, 36, 87 |
 
 Aqua life saving |
 
@@ -3768,11 +3770,11 @@ X |
 
 X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
 X |
 
@@ -4422,7 +4424,7 @@ X |
 
 X |
 
-41 |
+18, 41, 45 |
 
 Comité départemental du Loir-et-Cher FFSS |
 
@@ -4454,7 +4456,7 @@ X |
 
 X |
 
-41 |
+18, 41, 45 |
 
 Comité départemental de la Loire FFSS |
 
@@ -4592,7 +4594,11 @@ Comité départemental de la Loire-Atlantique FFSS |
 
 |
 
-|
+X |
+
+X |
+
+X |
 
 X |
 
@@ -4600,11 +4606,7 @@ X |
 
 X |
 
-|
-
-|
-
-|
+X |
 
 X |
 
@@ -4710,7 +4712,7 @@ X |
 
 X |
 
-45 |
+18, 28, 41,45 |
 
 Secouristes du Loiret |
 
@@ -4742,7 +4744,7 @@ X |
 
 X |
 
-45 |
+18, 28, 41,45 |
 
 Sps coteaux et landes de Gascogne |
 
@@ -6168,11 +6170,11 @@ X |
 
 X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
 X |
 
@@ -6648,11 +6650,11 @@ X |
 
 X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
 X |
 
@@ -6904,11 +6906,11 @@ X |
 
 X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
 X |
 
@@ -7064,11 +7066,11 @@ X |
 
 X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
 X |
 
@@ -7512,11 +7514,11 @@ X |
 
 X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
 X |
 
@@ -7696,7 +7698,11 @@ Ecole de sauvetage et secourisme de l'ouest |
 
 |
 
-|
+X |
+
+X |
+
+X |
 
 X |
 
@@ -7704,11 +7710,7 @@ X |
 
 X |
 
-|
-
-|
-
-|
+X |
 
 X |
 
@@ -9618,11 +9620,11 @@ Association Réunionnaise de la F.F.S.S. |
 
 |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
 |
 
