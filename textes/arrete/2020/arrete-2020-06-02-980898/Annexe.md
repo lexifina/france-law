@@ -86,7 +86,9 @@ DNPJ/ OFAST |
 
 Adjoint au chef de la division judiciaire,
 
-chef BPA Roissy et détachement Orly |
+chef BPA Roissy et détachement Orly
+
+|
 
 Direction nationale de la sécurité publique |
 
@@ -174,7 +176,7 @@ Chef du bureau temps de travail |
 
 DRHFS/ SDESCO/ BOP |
 
-Chef de la section avancements |
+Chef de la section pilotage, stratégie et prospective |
 
 75 |
 
@@ -3628,11 +3630,11 @@ DSPAP/ DT93/ D1/ Bobigny |
 
 Chef SAIP |
 
-93 |
+75 |
 
-DSPAP/ DT93/ D1/ Les Lilas |
+DSPAP/Cabinet du directeur |
 
-Chef SAIP |
+Chef des services du cabinet |
 
 93 |
 
@@ -4054,4 +4056,4 @@ TOTAL : 770 postes.
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 7 novembre 2025 (NOR : INTC2531630A), ces dispositions entrent en vigueur au premier jour du mois suivant la publication du même arrêté au Journal officiel de la République française, soit le 1er décembre 2025.
+Conformément à l’article 3 de l’arrêté du 20 juillet 2026 (NOR : INTC2619998A), ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur le 8 juin 2026.
