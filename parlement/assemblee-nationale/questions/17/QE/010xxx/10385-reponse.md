@@ -1,0 +1,9 @@
+# Réponse à la question n° 10385
+
+- Question : [10385](10385.md) — Question n° 10385 — Hachette et Driout : demande d'audit financier de la gestion d'ACI Groupe
+
+## Réponse
+
+*JO du 2026-06-09, page 5171*
+
+La holding de tête du groupe ACI, fournisseur de premier rang sur plusieurs filières stratégiques telles que l'énergie, la défense et l'aéronautique a été placée en redressement judiciaire le jeudi 25 septembre 2025 par le tribunal des activités économiques de Lyon. Par la suite, les filiales du groupe ont progressivement été placées en procédure collective et le cas échéant cédées ou placées en liquidation judiciaire.Durant ce processus, les services de l'État ont notamment été vigilants à ce que les entités du groupe opérant dans des secteurs considérés comme critiques (TCEM, Lorentz, MDV, AS MECA, MCA, LBY MECA, Hachette&Driout etc.) puissent trouver un repreneur et poursuivre leur activité, ce qui a effectivement été le cas pour chacune de ces entités. Au terme de ce processus, la holding ACI a été liquidée le 10 mars 2026 et le groupe ACI n'existe donc plus. Concernant spécifiquement la société Hachette&Driout (Haute-Marne), active dans la fonderie et la chaudronnerie et critique pour le secteur de l'énergie, celle-ci a été reprise le 24 février 2026 par le groupe britannique Paralloy. De même, la société Enerflux (Loir-et-Cher), active dans le secteur automobile, a aussi été reprise par la société SIRIUS active dans le secteur spatial à l'issue d'une audience tenue le 5 mai 2026. Ces deux exemples illustrent l'attention portée par les services de l'Etat au maintien de la continuité des activités du groupe ACI dans des secteurs souverains. Durant ce processus, les services de l'État ont aussi été attentifs à ce que l'emploi industriel soit préservé au maximum. Au total, près de 770 emplois ont ainsi pu être maintenus dans le cadre de la reprise de sociétés du groupe.
