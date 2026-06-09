@@ -1,0 +1,9 @@
+# Réponse à la question n° 14743
+
+- Question : [14743](14743.md) — Question n° 14743 — Retrait de sa Légion d'honneur au dirigeant fasciste Franco
+
+## Réponse
+
+*JO du 2026-06-09, page 5165*
+
+La France et l'Espagne sont unies par des liens humains et historiques particulièrement étroits, dont la mémoire de la Guerre civile espagnole constitue une dimension essentielle. La France n'oublie pas les centaines de milliers d'Espagnols qui se sont réfugiés en France à l'issue de la Guerre civile et est profondément reconnaissante de l'engagement de nombre d'entre eux au sein de la Légion étrangère, de la Résistance française et des Forces françaises libres pendant la Seconde Guerre mondiale. Le Président de la République a tenu à rendre un hommage particulier aux combattants espagnols engagés dans la Nueve, la 9e compagnie du régiment de marche du Tchad, intégrée à la 2e division blindée Leclerc, lors des célébrations du 80e anniversaire de la Libération de Paris le 25 août 2024. Le code de la Légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite, à l'article R97 pour les Français et à l'article R135-6 pour les étrangers, ne permet pas d'engager des poursuites disciplinaires contre une personne décédée. L'interdiction de poursuivre pénalement ou disciplinairement une personne décédée constitue en effet un principe fondamental de notre droit que le Gouvernement n'envisage pas de modifier. Le Traité d'amitié et de coopération entre la France et l'Espagne signé le 19 janvier 2023 à Barcelone rappelle la "densité et la profondeur des liens humains qui les unissent, et qui résonnent dans la mémoire personnelle des descendants d'Espagnols, dont les réfugiés et combattants de la liberté lors de l'exil républicain, qui ont fait de la France leur foyer". Ce travail de mémoire est au coeur du renforcement de notre coopération avec l'Espagne.
