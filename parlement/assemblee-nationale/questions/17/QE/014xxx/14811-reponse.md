@@ -1,0 +1,9 @@
+# Réponse à la question n° 14811
+
+- Question : [14811](14811.md) — Question n° 14811 — Crise énergétique secteur bâtiment et travaux publics
+
+## Réponse
+
+*JO du 2026-06-09, page 5228*
+
+Suite à la hausse des prix du carburant, une aide visant à réduire le coût du gazole a été mise en place par le décret n° 2026-356 du 8 mai 2026 instituant une aide aux entreprises du secteur du bâtiment et des travaux publics utilisant du gazole non routier. Elle concerne les entreprises du secteur du bâtiment et des travaux publics ne dépassant pas les 20 salariés. Le chiffre d'affaires annuel doit être inférieur à 50 millions d'euros et le total de bilan ne doit pas excéder 43 millions d'euros pour ces entreprises. Elles ne doivent pas non plus avoir de dettes fiscales impayées supérieures à 1500 €. Cette subvention est d'un montant de 20 centimes d'euros par litre de gazole non routier. Celui-ci doit avoir été facturé entre le 1er mai et le 31 mai 2026 inclus. Cette aide restera limitée à 4000 € par entreprise. Cette aide sera prolongée de 3 mois et son périmètre élargi. Afin de pouvoir en bénéficier, les entreprises doivent réaliser une demande par formulaire sur le site impots.gouv.fr entre le 8 juin et le 3 juillet 2026 inclus. S'agissant des perspectives de plus long terme, un plan massif d'électrification, dans la continuité de la PPE3, est actuellement porté par le Gouvernement et permettra d'accompagner durablement les Français, nos entreprises et nos industries. Le Gouvernement a déclaré entre autres la reconduction du leasing social, un dispositif d'aide à l'achat des poids lourds électriques pour les PME, ou encore l'aide à l'acquisition de véhicules électriques pour les « gros rouleurs ». Des mesures complémentaires ont été annoncées le 21 mai 2026. Le Gouvernement invite tous les parlementaires à relayer la nécessité d'électrifier les usages et à faire connaître les dispositifs existants auprès des concitoyens et des entreprises.
