@@ -1,0 +1,9 @@
+# Réponse à la question n° 12681
+
+- Question : [12681](12681.md) — Question n° 12681 — Lutte contre la prolifération de la fourmi électrique
+
+## Réponse
+
+*JO du 2026-06-09, page 5272*
+
+La problématique de la fourmi électrique est bien identifiée au niveau des services de l'Etat. La ministre a participé récemment à un comité de pilotage organisé par le préfet du Var où le sujet de la fourmi électrique figurait à l'ordre du jour. Ce sont désormais trois foyers qui sont présents dans le Var (Toulon, la Croix-Valmer, Cavalaire), démontrant les capacités d'extension de l'espèce. La méthodologie de traitement (utilisation d'appâts avec présence d'une substance active) n'ayant pas donné les résultats escomptés, un nouveau protocole est mis en place via le saupoudrage de molécules actives ayant montré leur efficacité dans d'autres situations analogues (Australie, Etats-Unis) : seront utilisés les produits biocides « Campaign® Ant Bait » et « Antixx ». Ils ont été autorisés par arrêté daté du 25 mars 2026 (https://www.legifrance.gouv.fr/loda/id/JORFTEXT000053723113/2026-04-23) pour une période de 180 jours et des protocoles spécifiques figurant en annexes de cet arrêté (protocoles en stations d'appâts et en saupoudrage dans des espaces extérieurs). Il restera à démontrer, par suivi scientifique, l'efficacité de ces méthodes de traitement : en effet, la réussite de ces derniers n'est pas systématique, ni reproductible d'un site à un autre, au regard de leur configuration et du comportement des fourmis. Plus globalement, la gestion de cette espèce relève de la politique de gestion des espèces exotiques envahissantes, pour laquelle une ligne budgétaire de 1,3 millions d'euros a été affectée en 2026. Ce budget permet de financer des opérations de gestion dans l'hexagone et en outre-mer, sur des espèces dont les impacts environnementaux (mais aussi sur les aspects de santé humaine, activités économiques, …) sont avérés.
