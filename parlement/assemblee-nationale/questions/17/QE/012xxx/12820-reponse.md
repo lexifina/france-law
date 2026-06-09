@@ -1,0 +1,9 @@
+# Réponse à la question n° 12820
+
+- Question : [12820](12820.md) — Question n° 12820 — Pénurie de médicaments
+
+## Réponse
+
+*JO du 2026-06-09, page 5255*
+
+Les médicaments composés de Fébuxostat dosés à 80 mg (Adenuric et ses génériques), ont fait l'objet de fortes tensions d'approvisionnement depuis le 4 décembre 2025, liées à des difficultés de production des laboratoires. Ces médicaments sont indiqués chez l'adulte dans le traitement de l'hyperuricémie chronique dans les cas où un dépôt d'urate s'est déjà produit. Par ailleurs, le dosage 120 mg dispose en plus de l'indication en prévention et dans le traitement de l'hyperuricémie chez les patients traités par chimiothérapie pour des hémopathies malignes et à risque intermédiaire ou à haut risque de syndrome de lyse tumorale. Pour mettre fin à ces tensions d'approvisionnement, l'Agence nationale de sécurité du médicament et des produits de santé (ANSM) a mis en place plusieurs mesures permettant de limiter l'impact de cette tension pour les patients, et notamment un contingentement quantitatif en ville et à l'hôpital, mais également la mise à disposition d'un stock de dépannage d'urgence. En outre, elle a publié le 30 janvier 2026 et mis à jour le 2 avril 2026 sur son site internet des recommandations (Actualité - Fébuxostat 80 mg (Adenuric et génériques) : recommandations pour l'ajustement des traitements - ANSM) invitant les prescripteurs à limiter et différer autant que possible les initiations de traitement en Fébuxostat 80 mg et rappelant que l'allopurinol est le médicament à initier en première intention dans le traitement de l'hyperuricémie chronique. Le Fébuxostat 80 mg est de nouveau disponible en quantité suffisante tout au long de la chaîne d'approvisionnement depuis mi-mars 2026, même si quelques laboratoires peuvent connaître ponctuellement des difficultés résiduelles. Les médecins peuvent donc reprendre les initiations de traitement de cette spécialité.
