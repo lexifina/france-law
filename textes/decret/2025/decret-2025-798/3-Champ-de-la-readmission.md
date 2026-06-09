@@ -6,4 +6,6 @@ a. une personne qui présente une demande de protection internationale après so
 
 b. une personne appréhendée par les autorités du Royaume-Uni en lien avec un franchissement non autorisé de la frontière du Royaume-Uni suite à une traversée périlleuse sur une embarcation légère depuis le territoire de la France ;
 
-c. une personne qui débarque sur le territoire du Royaume-Uni après une opération de recherche et de sauvetage en mer, suite à une traversée périlleuse sur une embarcation légère depuis le territoire de la France.
+c. une personne qui débarque sur le territoire du Royaume-Uni après une opération de recherche et de sauvetage en mer, suite à une traversée périlleuse sur une embarcation légère depuis le territoire de la France ;
+
+d. une personne en situation de réitération

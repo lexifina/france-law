@@ -2,17 +2,19 @@
 
 1. Aux fins du présent accord et de son annexe :
 
-a. l'expression &laquo; autorité compétente &raquo; désigne toute autorité nationale de la France ou du Royaume-Uni chargée de mettre en œuvre le présent accord désignée par la Partie concernée et notifiée à l'autre Partie ;
+a. l'expression "autorité compétente" désigne toute autorité nationale de la France ou du Royaume-Uni chargée de mettre en œuvre le présent accord désignée par la Partie concernée et notifiée à l'autre Partie ;
 
-b. le terme &laquo; Accord &raquo; désigne le présent accord et son annexe ;
+b. le terme "Accord" désigne le présent accord et son annexe ;
 
-c. le terme &laquo; Parties &raquo; désigne la France et le Royaume-Uni pris ensemble, et le terme &laquo; Partie &raquo; chacun d'eux pris séparément ;
+c. le terme "Parties" désigne la France et le Royaume-Uni pris ensemble, et le terme "Partie" chacun d'eux pris séparément ;
 
-d. l'expression &laquo; données à caractère personnel &raquo; désigne toute information relative à une personne physique identifiée ou identifiable, étant entendu qu'une personne physique identifiable désigne une personne susceptible d'être identifiée directement ou indirectement, notamment en se référant à un identifiant tel qu'un nom, un numéro d'identification, des données de localisation ou un identifiant numérique, ou encore à un ou plusieurs éléments constitutifs de l'identité de cette personne sur le plan physique, physiologique, génétique, mental, économique, culturel ou social ;
+d. l'expression "données à caractère personnel" désigne toute information relative à une personne physique identifiée ou identifiable, étant entendu qu'une personne physique identifiable désigne une personne susceptible d'être identifiée directement ou indirectement, notamment en se référant à un identifiant tel qu'un nom, un numéro d'identification, des données de localisation ou un identifiant numérique, ou encore à un ou plusieurs éléments constitutifs de l'identité de cette personne sur le plan physique, physiologique, génétique, mental, économique, culturel ou social ;
 
-e. l'expression &laquo; ressortissant d'un pays tiers &raquo; désigne une personne qui n'est pas un ressortissant du Royaume-Uni ni un ressortissant d'un État membre de l'Espace économique européen ;
+e. l'expression "ressortissant d'un pays tiers" désigne une personne qui n'est pas un ressortissant du Royaume-Uni ni un ressortissant d'un État membre de l'Espace économique européen ;
 
-f. l'expression &laquo; embarcation légère &raquo; désigne un navire privé utilisé par une personne qui requiert un visa, une autorisation d'entrée, une autorisation de voyage électronique ou toute autre permission d'entrée, et qui traverse la Manche dans le but d'arriver ou d'entrer au Royaume-Uni sans visa ni autorisation d'entrée ni autorisation de voyage électronique ni permission d'entrée, en accostant directement au Royaume-Uni ou en ayant été interceptée ou secourue en mer par les autorités et amenée à terre.
+f. l'expression "embarcation légère" désigne un navire privé utilisé par une personne qui requiert un visa, une autorisation d'entrée, une autorisation de voyage électronique ou toute autre permission d'entrée, et qui traverse la Manche dans le but d'arriver ou d'entrer au Royaume-Uni sans visa ni autorisation d'entrée ni autorisation de voyage électronique ni permission d'entrée, en accostant directement au Royaume-Uni ou en ayant été interceptée ou secourue en mer par les autorités et amenée à terre ;
+
+g. l'expression "situation de réitération" désigne le cas d'une personne qui a déjà été éloignée du Royaume-Uni vers la France conformément au chapitre II du présent accord, et se trouve à nouveau sur le territoire du Royaume-Uni après y être revenue par un moyen clandestin (autre qu'à bord d'une embarcation légère ou un moyen de transport aérien).
 
 2. Les mots au singulier comprennent le pluriel et inversement.
 

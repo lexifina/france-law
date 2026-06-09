@@ -1,6 +1,6 @@
 # Article 1er : Objectif
 
-1. Le présent accord contient des dispositions relatives au retour et à la réadmission en France, de manière aussi efficace que possible, de personnes arrivant au Royaume-Uni suite à une traversée périlleuse sur une embarcation légère, lorsque ces personnes ne remplissent pas ou plus les conditions d'entrée, de présence ou de séjour sur le territoire du Royaume-Uni. Les Parties sont convenues d'œuvrer à la mise en place d'une procédure complète d'une durée maximale de 3 mois, entre l'arrivée des personnes concernées sur le territoire du Royaume-Uni et leur transfert conformément au présent accord.
+1. Le présent accord contient des dispositions relatives au retour et à la réadmission en France, de manière aussi efficace que possible, de personnes arrivant au Royaume-Uni (i) suite à une traversée périlleuse sur une embarcation légère ou (ii) en situation de réitération, lorsque ces personnes, à leur arrivée, ne remplissent pas ou plus les conditions d'entrée, de présence ou de séjour sur le territoire du Royaume-Uni. Les Parties sont convenues d'œuvrer à la mise en place d'une procédure complète d'une durée maximale de 3 mois, entre l'arrivée des personnes concernées sur le territoire du Royaume-Uni et leur transfert conformément au présent accord.
 
 2. Le présent accord contient également des dispositions relatives à l'admission réciproque au Royaume-Uni de personnes éligibles sur une base volontaire, conformément à la réglementation du Royaume-Uni en matière d'immigration.
 

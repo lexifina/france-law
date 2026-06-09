@@ -1,6 +1,6 @@
 # Article 4 : Obligations des Parties en vertu du présent chapitre
 
-1. La France réadmet, à la demande du Royaume-Uni et sans autre formalité à accomplir par celui-ci que celles prévues par le présent accord, les ressortissants d'un pays tiers concernés qui, à leur arrivée suite à une traversée périlleuse ne remplissent pas ou plus les conditions d'entrée, de présence ou de séjour sur le territoire du Royaume-Uni, sous réserve que les critères suivants soient réunis :
+1. La France réadmet, à la demande du Royaume-Uni et sans autre formalité à accomplir par celui-ci que celles prévues par le présent accord, les ressortissants d'un pays tiers concernés qui, à leur arrivée suite à une traversée périlleuse (et qui, pour éviter toute ambiguïté, comprend les situations de réitération) ne remplissent pas ou plus les conditions d'entrée, de présence ou de séjour sur le territoire du Royaume-Uni, sous réserve que les critères suivants soient réunis :
 
 a. le Royaume-Uni apporte la preuve, conformément à l'article 7, que le ressortissant d'un pays tiers est une personne à qui s'applique l'un des critères énoncés à l'article 3 ;
 
