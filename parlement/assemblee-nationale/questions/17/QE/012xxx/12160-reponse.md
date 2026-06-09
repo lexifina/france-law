@@ -1,0 +1,9 @@
+# Réponse à la question n° 12160
+
+- Question : [12160](12160.md) — Question n° 12160 — Situation et avenir de la centrale de Cordemais
+
+## Réponse
+
+*JO du 2026-06-09, page 5207*
+
+Conformément à l'article 4 de la loi n° 2025-336 du 14 avril 2025, les entreprises dont l'État est actionnaire à plus de 50 % et qui exploitent des centrales à charbon doivent présenter un plan de conversion de ces installations vers des combustibles moins émetteurs en CO2. Ainsi, cet article n'impose pas le maintien en activité de centrales dont la conversion s'avère non soutenable mais garantit que toute décision de fermeture soit précédée d'un examen sérieux et documenté des solutions de conversion. Concernant la centrale de Cordemais, Électricité de France (EDF) a bien présenté au Gouvernement une étude approfondie des possibilités de conversion de la centrale, sous les angles économique, technique, logistique et environnemental. Plusieurs pistes ont été envisagées : conversion totale ou partielle à la biomasse solide ou conversion au gaz méthane. Cette étude permet d'objectiver les coûts impliqués par chacun des scénarios. La conversion à la biomasse solide était l'option privilégiée, via la mise en œuvre du projet Ecocombust. L'approvisionnement en pellets étant trop coûteux et les projections de prix de l'électricité n'étant pas favorables à la réalisation du contrat, le projet Ecocombust ne pouvait être réalisé dans des conditions technico-économiques acceptables pour EDF. De ce fait, EDF a indiqué en mai 2025 ne pas poursuivre le projet de conversion et fermer la centrale thermique de Cordemais à compter du 31 mars 2027. Le site de Cordemais devrait être reconverti en site industriel dans les prochaines années. Nous suivons avec attention l'accompagnement des salariés pour cela, en lien avec EDF.
