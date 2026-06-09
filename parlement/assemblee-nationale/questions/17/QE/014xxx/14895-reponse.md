@@ -1,0 +1,9 @@
+# Réponse à la question n° 14895
+
+- Question : [14895](14895.md) — Question n° 14895 — Matériaux isolants
+
+## Réponse
+
+*JO du 2026-06-09, page 5307*
+
+La rénovation énergétique des logements constitue une priorité du Gouvernement, compte tenu du poids du secteur du bâtiment dans la consommation d'énergie et dans les émissions de gaz à effet de serre. Dans ce cadre, le développement de solutions d'isolation adaptées aux contraintes du bâti existant, notamment lorsque la surface disponible est limitée, représente un enjeu important. Les matériaux isolants de faible épaisseur peuvent, dans certaines situations telles que les appartements de très petites surfaces, contribuer à faciliter la réalisation de travaux. Les dispositifs de soutien à l'innovation de BpiFrance et les appels à projets des opérateurs de l'Etat peuvent être mobilisés par les acteurs économiques pour accompagner le développement et la mise sur le marché de solutions innovantes dans le secteur du bâtiment. Par ailleurs, les aides à la rénovation énergétique, telles que MaPrimeRénov'et les certificats d'économies d'énergie (CEE), sont ouvertes à l'ensemble des solutions techniques permettant d'atteindre les niveaux de performances requis. Cette performance est évaluée sur la base de la résistance du matériau isolant et non son épaisseur. Les aides permettent ainsi de soutenir la diffusion de solutions innovantes, dès lors que leur efficacité est démontrée. Le Gouvernement est attentif aux démarches entreprises par les acteurs de la filière en lien avec le Centre scientifique et technique du bâtiment. Dans ce contexte, la création de dispositifs spécifiques dédiés à une catégorie de matériaux n'apparaît pas nécessaire. Une approche fondée sur des exigences de performance permet d'assurer un traitement équitable des différentes solutions techniques, tout en garantissant un niveau élevé d'exigence en matière de performance énergétique.
