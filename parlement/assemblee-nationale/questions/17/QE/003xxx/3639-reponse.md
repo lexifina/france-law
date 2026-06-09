@@ -1,0 +1,9 @@
+# Réponse à la question n° 3639
+
+- Question : [3639](3639.md) — Question n° 3639 — Réduction du délai de prescription des indus
+
+## Réponse
+
+*JO du 2026-06-09, page 5238*
+
+Le Gouvernement est attaché à la sécurisation des opérations de contrôle des caisses primaires ainsi qu'à l'équité du recouvrement des indus. Aujourd'hui fixé à trois ans, le délai de prescription permet de garantir à l'Assurance maladie un équilibre entre la vérification du bien-fondé des actes facturés et la préservation des droits des professionnels de santé. Ce délai repose sur un cadre législatif éprouvé, qui bénéficie à l'ensemble des parties concernées. La proposition de le ramener à deux ans de fait ne concourt pas aux orientations qui sont prises dans le cadre de l'action gouvernementale de lutte contre la fraude qui est un enjeu prioritaire pour l'équilibre des finances publiques et la préservation de notre modèle social. Parallèlement, la Caisse nationale d'assurance maladie (CPAM) s'engage déjà à simplifier la vie des professionnels de santé en dématérialisant la transmission des pièces justificatives. De nombreux services en ligne ont été déployés via amelipro, ainsi que des démarches simplifiées sur des plateformes dédiées. Le déploiement en cours de l'ordonnance numérique pour l'ensemble des prescripteurs et des prescrits s'inscrit également dans cet objectif. Ces dispositifs visent à faciliter la conservation des pièces, à fluidifier les échanges et à sécuriser la relation entre professionnels de santé et CPAM. Le Gouvernement reste attentif à l'évolution de ces dispositifs ainsi qu'aux contraintes spécifiques des professionnels. Le dialogue avec les professionnels de santé ainsi qu'avec l'Assurance maladie pour trouver le juste équilibre entre simplification, contrôle et sécurisation des comptes sociaux est à ce titre un engagement du Gouvernement.
