@@ -40,19 +40,19 @@ Admission en tant qu'élève officier en 1er et 2e cycle des études |
 
 0/1 |
 
-Tout candidat à un engagement au sein de l'armée active, au titre du service de santé des armées, doit également détenir :
+Tout candidat à un engagement, dans l'armée active, dans le service de santé des armées doit également détenir :
 
--l'aptitude aux OPEX ;
+- l'aptitude aux OPEX ;
 
--l'aptitude aux MCD hors métropole.
+- l'aptitude aux MCD hors métropole.
 
 Tout candidat à cet engagement doit également présenter les dispositions suivantes :
 
--coefficient de mastication au moins égal à 30 p. 100, calculé compte tenu de la présence éventuelle de prothèses ;
+- coefficient de mastication au moins égal à 30 p. 100, calculé compte tenu de la présence éventuelle de prothèses ;
 
--absence de contre-indication aux vaccinations légales et réglementaires figurant au calendrier vaccinal défini par le service de santé des armées. En particulier, les candidats doivent satisfaire aux obligations légales en matière de vaccination contre l'hépatite B pour l'inscription dans les écoles ou filières préparant aux professions médicales ou paramédicales ;
+- absence de contre-indication aux vaccinations légales et réglementaires figurant au calendrier vaccinal défini par le service de santé des armées. En particulier, les candidats doivent satisfaire aux obligations légales en matière de vaccination contre l'hépatite B pour l'inscription dans les écoles ou filières préparant aux professions médicales ou paramédicales ;
 
--absence de contre-indications à l'EPMS. |
+- absence de contre-indications à l'EPMS. |
 
 Admission en tant qu'élève non officier |
 
@@ -70,7 +70,7 @@ Admission en tant qu'élève non officier |
 
 0/1 |
 
-Autres recrutements à l'exception des militaires réservistes qui exercent une activité au titre d'un engagement à servir dans la réserve opérationnelle |
+Autres recrutements |
 
 3 (3) |
 
@@ -122,6 +122,24 @@ Militaires commissionnés (admission et maintien) |
 
 Les militaires commissionnés sont recrutés au titre de l'article L. 4132-10 du code de la défense en vue d'exercer des fonctions déterminées à caractère scientifique, technique ou pédagogique correspondant aux diplômes qu'ils détiennent ou à leur expérience professionnelle. |
 
+Militaires du rang du SSA |
+
+2 |
+
+2 |
+
+2 |
+
+4 |
+
+4 |
+
+3 |
+
+0/1 |
+
+|
+
 APTITUDES À LA PROJECTION |
 
 OPEX |
@@ -142,15 +160,15 @@ OPEX |
 
 1. Le personnel doit répondre aux exigences suivantes pour être déclaré apte à la projection :
 
--absence de pathologie évolutive ou chronique susceptible de compromettre la santé du personnel ou la disponibilité opérationnelle lors de la projection OPEX ou MCD (du fait de cette évaluation, le médecin des armées peut déclarer un personnel inapte OPEX mais apte MCD) ;
+- absence de pathologie évolutive ou chronique susceptible de compromettre la santé du personnel ou la disponibilité opérationnelle lors de la projection OPEX ou MCD (du fait de cette évaluation, le médecin des armées peut déclarer un personnel inapte OPEX mais apte MCD) ;
 
--absence de nécessité de soins dentaires ;
+- absence de nécessité de soins dentaires ;
 
--statut vaccinal en conformité avec le calendrier vaccinal défini par le service de santé des armées ;
+- statut vaccinal en conformité avec le calendrier vaccinal défini par le service de santé des armées ;
 
--absence de conduites addictives ;
+- absence de conduites addictives ;
 
--stabilité psychologique.
+- stabilité psychologique.
 
 Toute non-conformité dans ces domaines avec les textes réglementaires doit conduire à une décision d'inaptitude temporaire ou définitive au service en OPEX, MCD, affectation OM ou en PPE.
 
@@ -206,7 +224,7 @@ La norme médicale relative à l'aptitude médicale au séjour dans les territoi
 
 (2) P = 0 possible uniquement pendant la période probatoire.
 
-(3) Pour le personnel médical et paramédical, S = 3 toléré sous réserve de l'intégrité fonctionnelle de la main et du poignet.
+(3) Pour le personnel médical et paramédical, S=3 toléré sous réserve de l'intégrité fonctionnelle de la main et du poignet.
 
 (4) Pour les candidats à l'admission en tant que militaire commissionné, l'évaluation du classement O applique les dispositions prévues en cours de carrière par l'arrêté du 29 mars 2021 susvisé avec exploration par audiométrie vocale si l'exploration par audiométrie tonale conduit à un classement O > 3.
 
