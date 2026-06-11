@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260207850
+
+- Question : [SEQ260207850](seq260207850.md) — Respect de la trajectoire négociée entre l'État et le réseau des chambres de métiers et de l'artisanat
+
+## Réponse
+
+*PME, commerce, artisanat, tourisme et pouvoir d'achat, JO du 2026-06-11, page 2919*
+
+Conformément à l'article 46 de la loi de finances pour 2012 (loi n° 2011-1977 du 28 décembre 2011), la taxe pour frais de chambres (TFC) allouée aux chambres de métiers et de l'artisanat (CMA) est plafonnée. Ce montant est demeuré stable à 203,149 Meuros jusqu'en 2022. La régionalisation du réseau, prévue par l'article 42 de la loi « PACTE », a entraîné la disparition des échelons départementaux et interdépartementaux au profit d'une personnalité morale unique au niveau régional. Cette restructuration avait pour corollaire un recentrage des missions financées par la TFC. Depuis 2022, le réseau des CMA bénéficie d'un lissage pluriannuel de la baisse de ce plafond. Après des diminutions de 7 Meuros en 2023, puis de 13,25 Meuros en 2024 et 2025, la réduction prévue pour 2026 s'élève à 19,25 Meuros. Cette trajectoire budgétaire accompagne les gains d'efficience générés par la réforme : la mutualisation accrue des services supports et la compression des charges d'exploitation (optimisation des marchés publics et maîtrise de la masse salariale). L'ensemble de ces mesures, destinées à adapter et moderniser les conditions d'intervention du réseau consulaire en faveur des entreprises artisanales, a pour effet de diminuer progressivement les besoins de financement du réseau et de permettre un abaissement du plafond de la TFC, tout en garantissant l'accompagnement des entreprises artisanales, conformément aux axes stratégiques définis par le contrat d'objectifs et de performance national, décliné dans des conventions d'objectifs et de moyens dans chaque territoire.
