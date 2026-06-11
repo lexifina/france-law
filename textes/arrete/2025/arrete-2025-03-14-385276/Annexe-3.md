@@ -8,9 +8,9 @@ Remarque : le présent rapport d'activité concerne les traitements médicamente
 
 Si l'établissement met en place l'expérimentation sur plusieurs sites autorisés, ces données doivent être renseignées pour chaque site (FINESS géographique).
 
-Pour les candidats retenus par l'arrêté de sélection publié en 2026 : Le rapport annuel est à transmettre à l'agence régionale de santé le 1 er septembre 2027 au plus tard avec des données à remplir pour l'année 2026 et pour l'année 2027.
+Pour les candidats retenus par l'arrêté de sélection publié en 2026 : le rapport annuel est à transmettre à l'agence régionale de santé le 31 décembre 2026 au plus tard avec des données à remplir pour le ou les mois de mise en œuvre de l'expérimentation en 2026. Le second rapport annuel est à transmettre à l'agence régionale de santé le 31 décembre 2027 au plus tard avec des données à remplir pour l'année 2027.
 
-Pour les candidats retenus par l'arrêté de sélection publié en 2025 : le rapport annuel est à transmettre à l'agence régionale de santé le 1er septembre 2026 au plus tard avec des données à remplir pour le ou les mois de mise en œuvre de l'expérimentation en 2025. Le second rapport annuel est à transmettre à l'agence régionale de santé le 1er septembre 2027 au plus tard avec des données à remplir pour l'année 2026 et pour l'année 2027.
+Pour les candidats retenus par l'arrêté de sélection publié en 2025 : le rapport annuel est à transmettre à l'agence régionale de santé le 31 décembre 2026 au plus tard avec des données à remplir pour le ou les mois de mise en œuvre de l'expérimentation en 2025 et pour l'année 2026. Le second rapport annuel est à transmettre à l'agence régionale de santé le 31 décembre 2027 au plus tard avec des données à remplir pour l'année 2027.
 
 - nombre total de patients pour lesquels un traitement médicamenteux systémique du cancer a été réalisé sur le site :
 
@@ -38,6 +38,136 @@ dont éventuellement NB patients pour lesquels la primo-administration du TMSC a
 
 Commentaire sur cette durée :
 
+Le cas échéant, nombre moyen d'actions par patient orienté et par professionnels de l'équipe de l'établissement expérimentateur à visée d'appui ou de mise à disposition d'expertises auprès de la structure HAD partenaire :
+
+Lors du premier mois de l'orientation du patient :
+
+|
+
+Médecins |
+
+Infirmiers |
+
+Pharmaciens |
+
+Autres,
+
+précisez : |
+
+Appels/mails |
+
+|
+
+|
+
+|
+
+|
+
+Conseils/avis |
+
+|
+
+|
+
+|
+
+|
+
+Révision du traitement |
+
+|
+
+|
+
+|
+
+|
+
+Appui circuit du médicament |
+
+|
+
+|
+
+|
+
+|
+
+Autre |
+
+|
+
+|
+
+|
+
+|
+
+En moyenne pour un mois s'agissant des autres mois du co-suivi du patient :
+
+|
+
+Médecins |
+
+Infirmiers |
+
+Pharmaciens |
+
+Autres,
+
+précisez : |
+
+Appels/mails |
+
+|
+
+|
+
+|
+
+|
+
+Conseils/avis |
+
+|
+
+|
+
+|
+
+|
+
+Révision du traitement |
+
+|
+
+|
+
+|
+
+|
+
+Appui au circuit du médicament |
+
+|
+
+|
+
+|
+
+|
+
+Autre |
+
+|
+
+|
+
+|
+
+|
+
 - proportion de patients, en fonction du type de TMSC qui ont été concernées par les orientations de patients vers la structure d'HAD pour la poursuite de leur TMSC :
 
 - proportion en pourcentage pour les patients orientés en HAD
@@ -59,6 +189,18 @@ TMSC immunothérapie pour tumeurs solides :
 - remarques générales éventuelles de l'expérimentateur sur le profil des patients orientés et/ou sur les typologies de TMSC concernées :
 
 - description de l'organisation mise en place pour accompagner la structure d'hospitalisation à domicile dans la prise en charge des patients que l'établissement lui adresse et augmenter le nombre de patients adressés en hospitalisation à domicile :
+
+Appui et mise à disposition d'expertises concernés :
+
+- OK chimiothérapie ? Oui/Non ;
+
+- Appui autour de la continuité des soins ? Oui/Non ;
+
+- Appui autour du circuit du médicament ? Oui/Non ;
+
+- Contribution à la montée en compétence de d'équipe médicale HAD en TMSC (exemple formation) ? Oui/Non ;
+
+- Autre ? Précisez
 
 - cible de développement fixée au moment de la candidature à l'expérimentation par an pour les trois années à venir :
 
@@ -86,9 +228,17 @@ Le nombre de patients orientés par l'établissement partenaire a-t-il pu être 
 
 A-t-il nécessité des investissements spécifiques ?
 
-Précisez (exemple : achat de voitures ; recrutement ; coordination supplémentaire… )
+Précisez (exemple : achat de voitures ; coordination supplémentaire… )
+
+Le nombre de patients orientés a-t-il nécessité des recrutements pour accompagner l'accroissement de l'activité ? Oui/Non ;
+
+Si oui, Précisez
 
 - Y-a-t-il un impact sur le profil de patients ou la typologie des prises en charge réalisées dans la structure d'HAD associée ? Oui/Non
+
+Le volume de patients pris en charge hors TMSC a-t-il évolué depuis le début de l'expérimentation ? Oui/Non
+
+Si oui, précisez
 
 (10) Préciser le périmètre et la formule de calcul retenue.
 

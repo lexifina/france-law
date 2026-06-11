@@ -2,6 +2,8 @@
 
 RAPPORT INITIAL POUR L'ÉVALUATION DE L'EXPÉRIMENTATION
 
+Pour les candidats retenus en 2026 à la suite du second appel à manifestation d'intérêt régional, les informations pour le rapport initial pour l'évaluation de l'expérimentation sont à transmettre le 31 décembre 2026 au plus tard.
+
 Informations à transmettre en octobre de l'année d'entrée dans l'expérimentation à l'agence régionale de santé et à la direction générale de l'offre de soins par l'établissement de santé retenu pour participer à l'expérimentation :
 
 A. - Rappel de l'engagement présenté dans le dossier de candidature pour l'expérimentation et, le cas échéant, actualisation :
