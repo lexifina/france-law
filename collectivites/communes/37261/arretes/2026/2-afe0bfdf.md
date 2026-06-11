@@ -1,0 +1,10 @@
+# Tours Mairie - Production : arrêté 2 — DEMANDE DE SUBVENTION 2026 AUPRES DE L ETAT (DDETS 37) POUR LE PLAN LOGEMENT D ABORD?
+
+- Collectivité : Tours Mairie - Production
+- SIREN : 213702616
+- Code INSEE : 37261
+- Date : 2026-06-11
+- Matière : 7.5 Subventions
+- Objet : DEMANDE DE SUBVENTION 2026 AUPRES DE L ETAT (DDETS 37) POUR LE PLAN LOGEMENT D ABORD?
+- Acte publié : https://data.tours-metropole.fr/api/explore/v2.1/catalog/datasets/arretes-et-decisions-tours/files/bad4b76cc3555737b1b2c761b30b7414
+- Jeu de données : https://www.data.gouv.fr/datasets/661dc5f8d73c53b03a00c511
