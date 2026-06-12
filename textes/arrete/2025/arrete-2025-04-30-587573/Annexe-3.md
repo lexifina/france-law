@@ -4,4 +4,4 @@ Annexe non reproduite.
 
 NOTA :
 
-Les annexes 1 à 3 au présent arrêté sont consultables sur le site internet de l'Agence du numérique en santé, à l'adresse suivante : https://industriels.esante.gouv.fr/segur-numerique-sante/vague-2/dispositif-lgc-couloir-medecin-ville
+Les annexes 1 à 3 au présent arrêté, dans leur rédaction résultant de l'arrêté du 8 juin 2026 (NOR : SFHL2615406A), sont consultables sur le site internet de l'Agence du numérique en santé, à l'adresse suivante : https://industriels.esante.gouv.fr/segur-numerique-sante/vague-2/dispositif-lgc-couloir-medecin-ville
