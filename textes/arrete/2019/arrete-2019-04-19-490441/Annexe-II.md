@@ -20,6 +20,8 @@ Arrêté du 26 août 1993 modifié |
 
 12 |
 
+f
+
 ACCOMPAGNANT EDUCATIF PETITE ENFANCE |
 
 Arrêté du 30 novembre 2020 modifié |
@@ -200,7 +202,7 @@ Arrêté du 3 mai 2021 |
 
 12 |
 
-ASSISTANT TECHNIQUE EN INSTRUMENTS DE MUSIQUE OPTION ACCORDEON |
+ASSISTANT TECHNIQUE EN INSTRUMENTS DE MUSIQUE OPTION ACCORDEON (dernière session 2027 - session supplémentaire 2028) |
 
 Arrêté du 27 octobre 2004 modifié |
 
@@ -212,13 +214,13 @@ Arrêté du 27 octobre 2004 modifié |
 
 12 |
 
-ASSISTANT TECHNIQUE EN INSTRUMENTS DE MUSIQUE-option instruments à vent |
+ASSISTANT TECHNIQUE EN INSTRUMENTS DE MUSIQUE-option instruments à vent (dernière session 2027 - session supplémentaire 2028) |
 
 Arrêté du 27 octobre 2004 modifié |
 
 12 |
 
-ASSISTANT TECHNIQUE EN INSTRUMENTS DE MUSIQUE-option piano |
+ASSISTANT TECHNIQUE EN INSTRUMENTS DE MUSIQUE-option piano (dernière session 2027 - session supplémentaire 2028) |
 
 Arrêté du 27 octobre 2004 modifié |
 
@@ -579,6 +581,28 @@ Arrêté du 29 août 2022 |
 FABRICATION INDUSTRIELLE DES CERAMIQUES (dernière session 2024-session supplémentaire 2025) |
 
 Arrêté du 6 août 1991 modifié |
+
+12 |
+
+FACTURE D'ACCORDÉONS (première session 2028) |
+
+Arrêté du 20/05/2026 |
+
+12 |
+
+FACTURE DE PIANOS (première session 2028)
+
+|
+
+Arrêté du 20/05/2026 |
+
+12 |
+
+FACTURE D'INSTRUMENTS A VENT (première session 2028)
+
+|
+
+Arrêté du 20/05/2026 |
 
 12 |
 
