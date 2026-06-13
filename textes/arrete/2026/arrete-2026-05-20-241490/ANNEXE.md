@@ -1,0 +1,29 @@
+# Article ANNEXE
+
+CERTIFICAT D'APTITUDE PROFESSIONNELLE
+
+FACTURE D'INSTRUMENTS À VENT
+
+Sommaire
+
+ANNEXE I. - Présentation synthétique du référentiel du diplôme
+
+ANNEXE II. - Référentiel des activités professionnelles
+
+ANNEXE III. - Référentiel de compétences
+
+Compétences
+
+Savoirs associés
+
+ANNEXE III bis. - Lexique
+
+ANNEXE IV. - Référentiel d'évaluation
+
+IV a. - Unités constitutives du diplôme
+
+IV b. - Règlement d'examen
+
+IV c. - Définition des épreuves
+
+ANNEXE V. - Périodes de formation en milieu professionnel
