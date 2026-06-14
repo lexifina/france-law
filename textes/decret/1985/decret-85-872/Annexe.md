@@ -6,15 +6,15 @@ I. - Définitions
 
 La quantité de pulpe et/ou purée utilisée pour la fabrication de 1 000 grammes de produit fini n'est pas inférieure à :
 
-350 grammes en général ;
+450 grammes en général ;
 
-250 grammes dans le cas des groseilles, sorbes, fruits de l'argousier, cassis, cynorhodons et coings ;
+350 grammes dans le cas des groseilles, sorbes, fruits de l'argousier, cassis, cynorhodons et coings ;
 
-150 grammes dans le cas du gingembre ;
+180 grammes dans le cas du gingembre ;
 
-160 grammes dans le cas des anacardes ;
+230 grammes dans le cas des anacardes ;
 
-60 grammes dans le cas des fruits de la passion.
+80 grammes dans le cas des fruits de la passion.
 
 2. La confiture extra est le mélange, porté à la consistance gélifiée appropriée, de sucres, de pulpe non concentrée d'une ou de plusieurs espèces de fruits et d'eau. Toutefois, la confiture extra de cynorhodons et la confiture extra sans pépins de framboises, de mûres, de cassis, de myrtilles et de groseilles peuvent être obtenues entièrement ou partiellement à partir de purée non concentrée de ces fruits. La confiture d'agrumes extra peut être obtenue à partir du fruit entier, coupé en lamelles et/ou en tranches.
 
@@ -22,15 +22,15 @@ Les fruits suivants ne peuvent être utilisés en mélange avec d'autres fruits 
 
 La quantité de pulpe utilisée pour la fabrication de 1 000 grammes de produit fini n'est pas inférieure à :
 
-450 grammes en général ;
+500 grammes en général ;
 
-350 grammes dans le cas de groseilles, sorbes, fruit de l'argousier, cassis, cynorhodons et coings ;
+450 grammes dans le cas de groseilles, sorbes, fruit de l'argousier, cassis, cynorhodons et coings ;
 
-250 grammes dans le cas du gingembre ;
+280 grammes dans le cas du gingembre ;
 
-230 grammes dans le cas des anacardes ;
+290 grammes dans le cas des anacardes ;
 
-80 grammes dans le cas des fruits de la passion.
+100 grammes dans le cas des fruits de la passion.
 
 3. La gelée est le mélange, suffisamment gélifié, de sucres et du jus et/ou d'extrait aqueux d'une ou de plusieurs espèces de fruits.
 
@@ -40,11 +40,11 @@ La quantité de jus et/ou d'extrait aqueux utilisée pour la fabrication de 1 00
 
 pommes, poires, prunes à noyau adhérent, melons, pastèques, raisins, citrouilles, concombres et tomates.
 
-5. La marmelade est le mélange, porté à la consistance gélifiée appropriée, d'eau, de sucres et d'un ou de plusieurs des produits suivants, obtenus à partir d'agrumes : pulpe, purée, jus, extrait aqueux et écorces.
+5. La marmelade d'agrumes est le mélange, porté à la consistance gélifiée appropriée, d'eau, de sucres et d'un ou de plusieurs des produits suivants, obtenus à partir d'agrumes : pulpe, purée, jus, extrait aqueux et écorces. Dans la dénomination “marmelade d'agrumes”, le terme “agrumes” peut être remplacé par le nom de l'agrume utilisé.
 
 La quantité d'agrumes utilisés pour la fabrication de 1 000 grammes de produit fini n'est pas inférieure à 200 grammes, dont au moins 75 grammes proviennent de l'endocarpe.
 
-6. La dénomination marmelade-gelée désigne le produit exempt de la totalité des matières insolubles, à l'exclusion d'éventuelles faibles quantités d'écorce finement coupée.
+6. La dénomination marmelade-gelée désigne le produit défini comme “marmelade d'agrumes” exempt de la totalité des matières insolubles, à l'exclusion d'éventuelles faibles quantités d'écorce finement coupée.
 
 7. La crème de marrons et crème d'autres fruits à coque est le mélange, porté à la consistance appropriée, d'eau, de sucres et de la purée de marrons ou autres fruits à coque, au sens de la crème d'autres fruits à coque.
 
@@ -65,3 +65,7 @@ La quantité de fruits confits utilisée pour la fabrication de 1 000 grammes de
 La quantité de fruits ou jus de fruits utilisée pour la fabrication de 1 000 grammes de produit fini doit être supérieure ou égale à 450 grammes, dont 250 grammes au moins de raisins ou jus de raisin.
 
 II. - En cas de mélange, les teneurs minimales fixées à la partie I pour les différentes espèces de fruits sont réduites proportionnellement aux pourcentages utilisés.
+
+NOTA :
+
+Conformément à l'article 5 du décret n° 2026-312 du 24 avril 2026, ces dispositions, dans leur rédaction issue du décret précité, s'appliquent aux produits mis sur le marché à compter du 14 juin 2026. Les produits mis sur le marché ou étiquetés avant le 14 juin 2026, conformément aux décrets n° 85-872, n° 2003-587, n° 2003-838 et n° 2003-1148 dans leur rédaction antérieure au présent décret, peuvent continuer à être commercialisés jusqu'à épuisement des stocks.

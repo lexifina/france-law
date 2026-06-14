@@ -192,7 +192,7 @@ Airelles rouges
 
 |
 
-Coings
+Coings (Cydonia oblonga L.)
 
 |
 
@@ -394,10 +394,10 @@ Autres fruits appartenant à cette catégorie
 
 |
 
-50
+5
 
 |
 
 NOTA :
 
-Décret n° 2013-1049 du 21 novembre 2013 article 2 : Les produits mis sur le marché de l'Union européenne ou étiquetés avant la date d'entrée en vigueur du présent décret et qui sont conformes aux dispositions du décret du 1er septembre 2003 susvisé dans sa rédaction antérieure à la même date peuvent être commercialisés jusqu'au 28 avril 2015.
+Conformément à l'article 5 du décret n° 2026-312 du 24 avril 2026, ces dispositions, dans leur rédaction issue du décret précité, s'appliquent aux produits mis sur le marché à compter du 14 juin 2026. Les produits mis sur le marché ou étiquetés avant le 14 juin 2026, conformément aux décrets n° 85-872, n° 2003-587, n° 2003-838 et n° 2003-1148 dans leur rédaction antérieure au présent décret, peuvent continuer à être commercialisés jusqu'à épuisement des stocks.

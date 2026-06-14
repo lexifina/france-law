@@ -18,7 +18,7 @@ Le mélange de jus de fruits et de purée de fruits est autorisé dans la produc
 
 b) Jus de fruits à base de concentré :
 
-Le produit obtenu par reconstitution du jus de fruits concentré défini au point 2, avec de l'eau potable répondant aux critères établis par la directive 98/83/CE du Conseil du 3 novembre 1998 relative à la qualité des eaux destinées à la consommation humaine.
+Le produit obtenu par reconstitution du jus de fruits concentré défini au point 2, avec de l'eau potable répondant aux critères établis par la directive (UE) 2020/2184 du Parlement européen et du Conseil du 16 décembre 2020 relative à la qualité des eaux destinées à la consommation humaine.
 
 La teneur en matière sèche soluble du produit fini correspond à la valeur Brix minimale du jus reconstitué, spécifiée à l'annexe V.
 
@@ -60,6 +60,22 @@ Sans préjudice du règlement (CE) n° 1924/2006 du Parlement européen et du Co
 
 Les arômes, les pulpes et les cellules obtenus par des moyens physiques appropriés à partir de fruits de la même espèce peuvent être restitués au nectar de fruits.
 
+6. a) Jus de fruits à teneur réduite en sucres :
+
+Le produit obtenu à partir de jus de fruits tel qu'il est défini au point 1 a, dont la quantité de sucres naturellement présents a été réduite d'au moins 30 % par un procédé autorisé dans les conditions prévues dans la partie II, point 3, qui préserve toutes les autres caractéristiques physiques, chimiques, organoleptiques et nutritionnelles essentielles d'un type moyen de jus des fruits dont il provient.
+
+Le jus de fruits à teneur réduite en sucres peut être obtenu en mélangeant du jus de fruits à teneur réduite en sucres avec du jus de fruits, de la purée de fruits ou les deux.
+
+b) Jus de fruits à base de concentré à teneur réduite en sucres :
+
+Le produit obtenu à partir de jus de fruits à base de concentré tel qu'il est défini au point 1 b, dont la quantité de sucres naturellement présents a été réduite d'au moins 30 % par un procédé autorisé dans les conditions prévues à la partie II, point 3, qui préserve toutes les autres caractéristiques physiques, chimiques, organoleptiques et nutritionnelles essentielles d'un type moyen de jus des fruits dont il provient, ou le produit obtenu par reconstitution de jus de fruits concentré à teneur réduite en sucres tel qu'il est défini au point 7 avec de l'eau potable répondant aux critères énoncés dans la directive (UE) 2020/2184.
+
+Le jus de fruits à base de concentré à teneur réduite en sucres peut être obtenu en mélangeant du jus de fruits à base de concentré à teneur réduite en sucres avec un ou plusieurs des produits suivants : jus de fruits, jus de fruits à base de concentré, jus de fruits à teneur réduite en sucres, purée de fruits à base de concentré et purée de fruits.
+
+7. Jus de fruits concentré à teneur réduite en sucres :
+
+Le produit obtenu à partir de jus de fruits à base de concentré tel qu'il est défini au point 2, dont la quantité de sucres naturellement présents a été réduite d'au moins 30 % par un procédé autorisé dans les conditions prévues dans la partie II, point 3, qui préserve toutes les autres caractéristiques physiques, chimiques, organoleptiques et nutritionnelles essentielles d'un type moyen de produit ou un produit obtenu à partir de jus de fruits à teneur réduite en sucres tel qu'il est défini au point 6 a par l'élimination physique d'une partie déterminée de l'eau de constitution. Lorsque le produit est destiné à la consommation directe, l'élimination est d'au moins 50 % de l'eau de constitution.
+
 II. - Ingrédients, traitements et substances autorisés
 
 1. Composition :
@@ -76,23 +92,25 @@ Seuls les ingrédients suivants peuvent être ajoutés aux produits visés à la
 
 - les vitamines et les minéraux autorisés par le règlement (CE) n° 1925/2006 du Parlement européen et du Conseil du 20 décembre 2006 concernant l'adjonction de vitamines, de minéraux et de certaines autres substances aux denrées alimentaires ;
 
-- les additifs alimentaires autorisés en vertu du règlement (CE) n° 1333/2008 ;
+- les additifs alimentaires autorisés en vertu du règlement (CE) n° 1333/2008, toutefois, les édulcorants ne sont pas autorisés dans la fabrication des produits énumérés dans la partie I, à l'exception des nectars de fruits ;
 
 et en outre :
 
-- pour les jus de fruits, jus de fruits à base de concentré et jus de fruits concentrés : les arômes, les pulpes et les cellules restitués ;
+- pour les jus de fruits, jus de fruits à base de concentré, jus de fruits concentrés, jus de fruits à teneur réduite en sucres, jus de fruits à base de concentré à teneur réduite en sucres et jus de fruits concentrés à teneur réduite en sucres : les arômes, les pulpes et les cellules restitués ;
 
 - dans le cas du jus de raisin : les sels d'acides tartriques restitués ;
 
-- pour les nectars de fruits : les arômes, les pulpes et les cellules restitués ; les sucres et/ou le miel jusqu'à 20 % du poids total des produits finis ; et/ou les édulcorants.
+- pour les nectars de fruits : les arômes, les pulpes et les cellules restitués ; les sucres et/ou le miel jusqu'à 20 % du poids total des produits finis mentionnés à l'annexe IV, partie I, 15 % du poids total des produits finis mentionnés à l'annexe IV, partie II, et 10 % du poids total des produits finis mentionnés à l'annexe IV, partie III ; et/ou les édulcorants.
 
-- Une allégation selon laquelle il n'a pas été ajouté de sucres à un nectar de fruits, ou toute autre allégation susceptible d'avoir le même sens pour le consommateur, ne peut être faite que si le produit ne contient pas de monosaccharides ou disaccharides ajoutés ou toute autre denrée alimentaire utilisée pour ses propriétés édulcorantes, y compris les édulcorants au sens du règlement (CE) n° 1333/2008. Si les sucres sont naturellement présents dans le nectar de fruits, l'indication suivante devrait également figurer sur l'étiquette : contient des sucres naturellement présents ;
+- Une allégation selon laquelle il n'a pas été ajouté de sucres à un nectar de fruits, ou toute autre allégation susceptible d'avoir le même sens pour le consommateur, est autorisée si le produit ne contient pas de monosaccharides ou disaccharides ajoutés ou toute autre denrée alimentaire utilisée pour ses propriétés édulcorantes, y compris les édulcorants au sens du règlement (CE) n° 1333/2008. Lorsqu'une telle allégation est faite, l'indication suivante figure également sur l'étiquette : “contient des sucres naturellement présents” ;
 
 - pour les produits figurant à l'annexe III, point a, point b, premier tiret, point c, point e, deuxième tiret, et point h : les sucres et/ou le miel ;
 
-- pour les produits définis à la partie I, points 1 à 5, dans le but de corriger le goût acide : le jus de citron et/ou le jus de limette et/ou le jus concentré de citron et/ou le jus concentré de limette jusqu'à 3 grammes par litre de jus, exprimé en acide citrique anhydre ;
+- pour les produits définis à la partie I, points 1 à 7, dans le but de corriger le goût acide : le jus de citron et/ou le jus de limette et/ou le jus concentré de citron et/ou le jus concentré de limette jusqu'à 3 grammes par litre de jus, exprimé en acide citrique anhydre ;
 
-- pour le jus de tomate et le jus de tomate à base de concentré : le sel, les épices et les herbes aromatiques.
+- pour le jus de tomate et le jus de tomate à base de concentré : le sel, les épices et les herbes aromatiques ;
+
+- pour les jus de fruits à teneur réduite en sucres et les jus de fruits à base de concentré à teneur réduite en sucres : de l'eau, dans la mesure strictement nécessaire pour restaurer l'eau perdue en raison du procédé de réduction du sucre.
 
 3. Traitements et substances autorisés :
 
@@ -120,10 +138,12 @@ Seuls les traitements suivants peuvent être appliqués et seules les substances
 
 - adjuvants de filtration et adjuvants de précipitation chimiquement inertes (y compris perlites, diatomite lavée, cellulose, polyamide insoluble, polyvinylpyrrolidone, polystyrène) conformes au règlement (CE) n° 1935/2004 du Parlement européen et du Conseil du 27 octobre 2004 concernant les matériaux et objets destinés à entrer en contact avec des denrées alimentaires ;
 
-- adjuvants d'adsorption chimiquement inertes conformes au règlement (CE) n° 1935/2004 et utilisés pour réduire les teneurs en naringine et en limonoïdes des jus d'agrumes sans modifier sensiblement les teneurs en glucosides limonoïdes, en acides, en sucres (y compris les oligosaccharides) ou en minéraux.
+- adjuvants d'adsorption chimiquement inertes conformes au règlement (CE) n° 1935/2004 et utilisés pour réduire les teneurs en naringine et en limonoïdes des jus d'agrumes sans modifier sensiblement les teneurs en glucosides limonoïdes, en acides, en sucres (y compris les oligosaccharides) ou en minéraux ;
+
+- protéines végétales provenant du blé, de pois, de pommes de terre ou de graines de tournesol pour la clarification ;
+
+- uniquement pour les jus de fruits à teneur réduite en sucres, les jus de fruits à base de concentré à teneur réduite en sucres et les jus de fruits concentrés à teneur réduite en sucres : les procédés de réduction de la quantité de sucres naturellement présents, dans la mesure où ils conservent toutes les autres caractéristiques physiques, chimiques, organoleptiques et nutritionnelles essentielles d'un type moyen de jus des fruits dont il provient, à savoir la filtration sur membrane et la fermentation à la levure.
 
 NOTA :
 
-Décret n° 2013-1049 du 21 novembre 2013 article 3 : La mention "à partir du 28 avril 2015, aucun jus de fruits ne contient de sucres ajoutés" peut figurer sur l'étiquetage, dans le même champ visuel que la dénomination des produits mentionnés à l'annexe I, partie I, points 1 à 4, jusqu'au 28 octobre 2016.
-
-Décret n° 2013-1049 du 21 novembre 2013 article 2 : Les produits mis sur le marché de l'Union européenne ou étiquetés avant la date d'entrée en vigueur du présent décret et qui sont conformes aux dispositions du décret du 1er septembre 2003 susvisé dans sa rédaction antérieure à la même date peuvent être commercialisés jusqu'au 28 avril 2015.
+Conformément à l'article 5 du décret n° 2026-312 du 24 avril 2026, ces dispositions, dans leur rédaction issue du décret précité, s'appliquent aux produits mis sur le marché à compter du 14 juin 2026. Les produits mis sur le marché ou étiquetés avant le 14 juin 2026, conformément aux décrets n° 85-872, n° 2003-587, n° 2003-838 et n° 2003-1148 dans leur rédaction antérieure au présent décret, peuvent continuer à être commercialisés jusqu'à épuisement des stocks.

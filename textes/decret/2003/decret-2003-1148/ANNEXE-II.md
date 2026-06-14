@@ -1,6 +1,6 @@
 # Article ANNEXE II
 
-a) En langue anglaise, "evaporated milk" désigne le produit défini à l'annexe I, point 1 b, contenant, en poids, au moins 9 % de matières grasses et 31 % d'extrait sec total provenant du lait.
+a) En langue anglaise, "evaporated milk" désigne le produit défini à l'annexe I, point 1 b.
 
 b) En langue française, "lait demi-écrémé concentré" et "lait demi-écrémé concentré non sucré", en langue espagnole, "leche evaporada semidesnatada", en langue néerlandaise, "geëvaporeerde halfvolle melk" et "halfvolle koffiemelk" et, en langue anglaise, "evaporated semi-skimmed milk" désignent le produit défini à l'annexe I, point 1 c, contenant, en poids, entre 4 % et 4,5 % de matières grasses et au moins 24 % d'extrait sec total.
 
@@ -47,3 +47,7 @@ v) En langue tchèque "zahustené slazené polotucné mléko" désigne le produi
 w) En langue tchèque "susená smetana" désigne le produit défini à l'annexe I, point 2 a.
 
 x) En langue tchèque "zahustené slazené polotucné mléko" désigne le produit défini à l'annexe I, point 2 c, contenant, en poids, entre 14 % et 16 % de matière grasse.
+
+NOTA :
+
+Conformément à l'article 5 du décret n° 2026-312 du 24 avril 2026, ces dispositions, dans leur rédaction issue du décret précité, s'appliquent aux produits mis sur le marché à compter du 14 juin 2026. Les produits mis sur le marché ou étiquetés avant le 14 juin 2026, conformément aux décrets n° 85-872, n° 2003-587, n° 2003-838 et n° 2003-1148 dans leur rédaction antérieure au présent décret, peuvent continuer à être commercialisés jusqu'à épuisement des stocks.
