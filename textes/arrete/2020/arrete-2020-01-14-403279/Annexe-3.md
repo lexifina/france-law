@@ -14,7 +14,9 @@ Justificatif de propriété pour tous les propriétaires bailleurs et le cas éc
 
 Pour les titulaires de droit réel immobilier, une copie de l'acte notarié (ou une attestation notariée de même nature) instituant le droit réel conférant l'usage du logement subventionné et indiquant le titulaire de ce droit
 
-Uniquement dans le cas où le logement fait l'objet d'une acquisition en cours à la date du dépôt de la demande, la promesse synallagmatique de vente |
+Uniquement dans le cas où le logement fait l'objet d'une acquisition en cours à la date du dépôt de la demande, la promesse synallagmatique de vente
+
+|
 
 Pour les propriétaires en indivision, une attestation de l'indivisaire demandeur précisant qu'il est dûment mandaté par les autres indivisaires |
 
@@ -26,7 +28,9 @@ Pour les propriétaires bailleurs :
 
 -engagement sur l'honneur de location ;
 
--engagement sur l'honneur à informer le locataire de la réalisation de travaux financés par la prime et de la déduction du montant de la prime dans le cas d'une éventuelle réévaluation du loyer (modèle en annexe 5 du présent arrêté). |
+-engagement sur l'honneur à informer le locataire de la réalisation de travaux financés par la prime et de la déduction du montant de la prime dans le cas d'une éventuelle réévaluation du loyer (modèle en annexe 5 du présent arrêté).
+
+|
 
 Devis détaillé des travaux |
 
@@ -38,13 +42,17 @@ Uniquement pour les travaux et prestations visés du 2 au 13-2 de l'annexe 1 du 
 
 Uniquement pour l'ensemble de travaux visé au 15 de l'annexe 1 du décret du 14 janvier 2020 susvisé :
 
--contrat ou convention d'accompagnement mentionné au 4° de l'article 2 de l'arrêté du 21 décembre 2022 relatif à la mission d'accompagnement du service public de la performance énergétique de l'habitat ;
+- attestation de contact avec un guichet d'information, de conseil et d'accompagnement mentionné à l'article L. 232-2 du code de l'énergie compétent, préalable au dépôt de la demande de prime dans le cadre de l'accompagnement visé à l'article 2 du décret du 14 janvier 2020 susvisé ;
 
--synthèse de grille d'analyse du logement ;
+- contrat ou convention d'accompagnement mentionné au 4° de l'article 2 de l'arrêté du 21 décembre 2022 relatif à la mission d'accompagnement du service public de la performance énergétique de l'habitat ;
 
--rapport de l'audit énergétique visé au 2° du I de l'article 4 du présent arrêté, le cas échéant complété par l'attestation définie à l'article 4 de l'arrêté du 13 août 2025 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au diagnostic de performance énergétique ;
+- synthèse de grille d'analyse du logement ;
 
--attestation de travaux " devis " (modèle en annexe 1 de l'arrêté du 17 novembre 2020 susvisé). |
+- rapport de l'audit énergétique visé au 2° du I de l'article 4 du présent arrêté, le cas échéant complété par l'attestation définie à l'article 4 de l'arrêté du 13 août 2025 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au diagnostic de performance énergétique ;
+
+- attestation de travaux " devis " (modèle en annexe 1 de l'arrêté du 17 novembre 2020 susvisé).
+
+|
 
 Demande d'avance de prime |
 
@@ -84,8 +92,10 @@ Uniquement pour l'ensemble de travaux visé au 15 de l'annexe 1 du décret du 14
 
 -rapport d'accompagnement mentionné au 4° de l'article 2 de l'arrêté du 21 décembre 2022 relatif à la mission d'accompagnement du service public de la performance énergétique de l'habitat ;
 
--attestation de valorisation des CEE par l'ANAH. |
+-attestation de valorisation des CEE par l'ANAH.
+
+|
 
 NOTA :
 
-Conformément au premier alinéa de l'article 6 de l'arrêté du 8 septembre 2025 (NOR : ATDL2523962A), ces dispositions, dans leur rédaction issue de l'article 5 de l'arrêté précité, entrent en vigueur le 30 septembre 2025 et s'appliquent aux demandes de primes déposées à compter de cette même date.
+Conformément à l'article 3 de l'arrêté du 11 juin 2026 (NOR : VLOL2609236A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, s'appliquent aux demandes de primes déposées à compter du 1er janvier 2026.
