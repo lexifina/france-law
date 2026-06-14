@@ -2,7 +2,7 @@
 
 Le présent arrêté et ses annexes seront consultables au Bulletin officiel de l'éducation nationale en date du 9 juillet 2020 sur le site http://www.education.gouv.fr
 
-Conformément à l'arrêté du 1er juin 2021 (NOR : MENE2116917A), les compétences à évaluer figurant en annexe 2 dudit arrêté, pour chacun des baccalauréats suivants, sont ajoutées, pour chacun de ces diplômes, à l'annexe 2 du présente arrêté :
+Conformément à l'arrêté du 1er juin 2021 (NOR : MENE2116917A), les compétences à évaluer figurant en annexe 2 dudit arrêté, pour chacun des baccalauréats suivants, sont ajoutées, pour chacun de ces diplômes, à l'annexe 2 du présent arrêté :
 
 - ANIMATION - ENFANCE ET PERSONNES ÂGÉES ;
 
@@ -2664,6 +2664,566 @@ Communiquer conformément à la réglementation avec son environnement en utilis
 
 Participer à la gestion commerciale, financière et du personnel |
 
-NOTA :
+Conformément à l'article 1er de l'arrêté du 6 mai 2026 (NOR : MENE2610425A), les neufs nouveaux baccalauréats professionnels mis en œuvre en classe de première à compter de la rentrée scolaire 2026 et en classe de terminale à compter de la rentrée scolaire 2027 ainsi que les compétences à évaluer figurant en annexe dudit arrêté sont ajoutées à l'annexe 2 de l'arrêté du 17 juin 2020 susvisé :
 
-Conformément à l'article 1er de l'arrêté du 29 avril 2025 (NOR : MENE2510855A), les quatre nouveaux baccalauréats professionnels sont mis en œuvre en classe de première à compter de l'année scolaire 2025-2026.
+- maintenance environnementale et propreté des espaces urbains ;
+
+- hygiène, propreté, stérilisation ;
+
+- fonderie ;
+
+- technicien en transport et distribution des gaz ;
+
+- métiers de la logistique ;
+
+- maintenance des véhicules option véhicules légers ;
+
+- maintenance des véhicules option véhicules de transport routier ;
+
+- maintenance des véhicules option motocycles ;
+
+- conducteur routier de marchandises.
+
+Conformément à l'article 2 de l'arrêté du 6 mai 2026 (NOR : MENE2610425A), la liste des compétences à évaluer du baccalauréat professionnel : Production en industries pharmaceutiques, alimentaires et cosmétiques, figurant en annexe dudit arrêté vient remplacer la liste des compétences précédemment publiée par l'arrêté du 17 avril 2024 susvisé, pour une mise en œuvre à compter de la rentrée scolaire 2026 pour les classes de première et de terminale.
+
+Définition par baccalauréat professionnel des compétences évaluées en enseignement de spécialité |
+
+Spécialités et options concernées par la mise en œuvre en cours : |
+
+Titre du bac
+
+professionnel |
+
+ordre |
+
+LIBELLE (150 caractères maximum) pour LSL |
+
+MAINTENANCE
+
+ENVIRONNEMENTALE
+
+ET PROPRETÉ
+
+DES ESPACES
+
+URBAINS |
+
+1 |
+
+Organiser son poste de travail |
+
+2 |
+
+Réaliser des techniques d'assainissement, de maintenance industrielle et de dépollution de site |
+
+3 |
+
+Contrôler et inspecter les réseaux et les ouvrages |
+
+4 |
+
+Intervenir en hygiène immobilière et en dératisation, désinsectisation et désinfection (3D) |
+
+5 |
+
+Coordonner les activités en tenant compte de la démarche de prévention des risques professionnels et de la politique RSE |
+
+6 |
+
+Conduire le nettoiement du mobilier urbain, des espaces publics et particuliers |
+
+7 |
+
+Gérer les dépôts et les décharges sauvages |
+
+8 |
+
+Communiquer en situation professionnelle |
+
+9 |
+
+Mettre en œuvre des techniques de collecte et de réception des déchets |
+
+10 |
+
+Conduire des techniques de tri, de conditionnement, de valorisation ou de stockage |
+
+11 |
+
+Animer des actions de sensibilisation |
+
+HYGIÈNE, PROPRETÉ,
+
+STÉRILISATION |
+
+1 |
+
+Mettre en œuvre des activités de nettoyage et de remise en état des surfaces |
+
+2 |
+
+Mettre en œuvre des activités de bionettoyage des surfaces |
+
+3 |
+
+Coordonner des activités de nettoyage, bionettoyage et de remise en état des surfaces |
+
+4 |
+
+Mettre en œuvre les opérations de retraitement des dispositifs médicaux à stériliser, en assurant la traçabilité |
+
+5 |
+
+Contribuer à la démarche de prévention des risques professionnels |
+
+6 |
+
+Contrôler ses activités et celles d'une équipe dans le cadre de la démarche qualité |
+
+7 |
+
+Participer, dans la limite de son niveau de responsabilité, au développement des compétences professionnelles des membres d'une équipe |
+
+8 |
+
+Communiquer en situation professionnelle |
+
+9 |
+
+Animer une équipe de nettoyage et de bionettoyage |
+
+FONDERIE |
+
+1 |
+
+Rechercher une information dans une documentation technique, en local ou à distance |
+
+2 |
+
+Communiquer, formuler et transmettre des informations à l'écrit, à l'oral |
+
+3 |
+
+S'impliquer dans un environnement professionnel |
+
+4 |
+
+Recenser, interpréter et vérifier des informations, des données |
+
+5 |
+
+Réaliser une étude de moulage |
+
+6 |
+
+Organiser, configurer, régler les postes de travail |
+
+7 |
+
+Mettre en œuvre une production |
+
+8 |
+
+Ajuster la production |
+
+9 |
+
+Contrôler et suivre la conformité des pièces de fonderie produites |
+
+10 |
+
+Réaliser la maintenance de premier niveau des moyens de production et des outillages |
+
+11 |
+
+Appliquer des procédures (qualité, hygiène, sécurité, environnement, énergies) |
+
+12 |
+
+Déterminer les approvisionnements et définir l'organisation du poste de travail |
+
+TECHNICIEN EN
+
+TRANSPORT ET
+
+DISTRIBUTION
+
+DES GAZ |
+
+1 |
+
+Identifier et maîtriser les risques |
+
+2 |
+
+Identifier et appliquer les procédures, les réglementations en vigueur |
+
+3 |
+
+Préparer une intervention |
+
+4 |
+
+Participer à l'exploitation des ouvrages |
+
+5 |
+
+Réaliser la maintenance des ouvrages |
+
+6 |
+
+Communiquer, rendre compte |
+
+MÉTIERS DE
+
+LA LOGISTIQUE |
+
+1 |
+
+Positionner des activités logistiques dans la supply chain |
+
+2 |
+
+Mettre en œuvre les règles de sécurité dans le cadre de la prévention des risques et des dangers |
+
+3 |
+
+Préparer l'action de réception et traiter les opérations liées selon les procédures |
+
+4 |
+
+Mettre en stock les produits et gérer le suivi du stock |
+
+5 |
+
+Répondre à la demande des clients internes et/ou externes |
+
+6 |
+
+Optimiser les préparations de commandes en fonction des demandes des clients internes et/ou externes |
+
+7 |
+
+Contribuer au processus de logistique industrielle |
+
+8 |
+
+Organiser une tournée de livraison |
+
+9 |
+
+Traiter les retours des supports de charge et/ou des contenants |
+
+10 |
+
+Confier l'expédition à un prestataire de transport externe |
+
+11 |
+
+Adapter le processus logistique selon le type de produit ou de flux et mettre en oeuvre le processus de traçabilité dans la chaîne logistique |
+
+12 |
+
+Proposer des axes d'amélioration de l'activité logistique dans le cadre d'une démarche de responsabilité sociétale des entreprises (RSE) |
+
+13 |
+
+Coordonner une petite équipe logistique |
+
+14 |
+
+Mettre en service, en sécurité, un engin de manutention adapté à la situation professionnelle |
+
+15 |
+
+Conduire et manœuvrer un engin de manutention |
+
+16 |
+
+Effectuer les opérations de fin de poste |
+
+MAINTENANCE DES
+
+VÉHICULES OPTION VÉHICULES LÉGERS |
+
+1 |
+
+Organiser un entretien périodique |
+
+2 |
+
+Identifier les anomalies dans le cadre d'un entretien périodique |
+
+3 |
+
+Réaliser les opérations de remplacement, d'ajustement dans le cadre de l'entretien périodique |
+
+4 |
+
+Apporter des conseils techniques à la clientèle sur l'entretien du véhicule |
+
+5 |
+
+Préparer une intervention corrective |
+
+6 |
+
+Réaliser le remplacement ou la réparation des composants |
+
+7 |
+
+Réaliser le réglage ou le paramétrage des systèmes |
+
+8 |
+
+Réaliser le contrôle qualité d'une intervention corrective |
+
+9 |
+
+Constater un dysfonctionnement |
+
+10 |
+
+Hiérarchiser les hypothèses |
+
+11 |
+
+Mettre en œuvre un protocole d'intervention existant ou à définir |
+
+12 |
+
+Identifier les solutions correctives |
+
+MAINTENANCE DES
+
+VÉHICULES OPTION
+
+VÉHICULES DE
+
+TRANSPORT
+
+ROUTIER |
+
+1 |
+
+Organiser un entretien périodique |
+
+2 |
+
+Identifier les anomalies dans le cadre d'un entretien périodique |
+
+3 |
+
+Réaliser les opérations de remplacement, d'ajustement dans le cadre de l'entretien périodique |
+
+4 |
+
+Apporter des conseils techniques à la clientèle sur l'entretien du véhicule |
+
+5 |
+
+Préparer une intervention corrective |
+
+6 |
+
+Réaliser le remplacement ou la réparation des composants |
+
+7 |
+
+Réaliser le réglage ou le paramétrage des systèmes |
+
+8 |
+
+Réaliser le contrôle qualité d'une intervention corrective |
+
+9 |
+
+Constater un dysfonctionnement |
+
+10 |
+
+Hiérarchiser les hypothèses |
+
+11 |
+
+Mettre en œuvre un protocole d'intervention existant ou à définir |
+
+12 |
+
+Identifier les solutions correctives |
+
+MAINTENANCE DES
+
+VÉHICULES OPTION
+
+MOTOCYCLES |
+
+1 |
+
+Organiser un entretien périodique |
+
+2 |
+
+Identifier les anomalies dans le cadre d'un entretien périodique |
+
+3 |
+
+Réaliser les opérations de remplacement, d'ajustement dans le cadre de l'entretien périodique |
+
+4 |
+
+Apporter des conseils techniques à la clientèle sur l'entretien du véhicule |
+
+5 |
+
+Préparer une intervention corrective |
+
+6 |
+
+Réaliser le remplacement ou la réparation des composants |
+
+7 |
+
+Réaliser le réglage ou le paramétrage des systèmes |
+
+8 |
+
+Réaliser le contrôle qualité d'une intervention corrective |
+
+9 |
+
+Constater un dysfonctionnement |
+
+10 |
+
+Hiérarchiser les hypothèses |
+
+11 |
+
+Mettre en œuvre un protocole d'intervention existant ou à définir |
+
+12 |
+
+Identifier les solutions correctives |
+
+CONDUCTEUR
+
+ROUTIER
+
+DE MARCHANDISES |
+
+1 |
+
+Collecter des informations |
+
+2 |
+
+Préparer la mission de transport routier |
+
+3 |
+
+Clôturer la mission de transport routier |
+
+4 |
+
+Planifier ses activités |
+
+5 |
+
+Prendre en charge et manœuvrer le véhicule |
+
+6 |
+
+Conduire un véhicule de manière rationnelle et en toute sécurité |
+
+7 |
+
+Prendre en charge et mettre à disposition la marchandise |
+
+8 |
+
+Utiliser l'instrumentation de bord |
+
+9 |
+
+Traiter les incidents, accidents, anomalies, litiges |
+
+10 |
+
+Communiquer en situation professionnelle à l'oral et à l'écrit |
+
+11 |
+
+Appliquer les procédures relatives à la sûreté et au respect de l'environnement |
+
+12 |
+
+S'impliquer dans un environnement professionnel |
+
+PRODUCTION EN INDUSTRIES
+
+PHARAMACEUTIQUES,
+
+ALIMENTAIRES ET
+
+COSMETIQUES |
+
+1 |
+
+Analyser l'information documentaire nécessaire à la conduite des opérations de production |
+
+2 |
+
+Organiser son activité en gérant les flux de composants dans le respect des procédures |
+
+3 |
+
+Réaliser les opérations de maintenance de premier niveau ou de changement de format |
+
+4 |
+
+Conduire une installation dans le respect des procédures et rendre compte des actions menées |
+
+5 |
+
+Analyser une situation professionnelle de bio production |
+
+6 |
+
+Adopter une attitude professionnelle en zone de production |
+
+7 |
+
+Contribuer à la mise en œuvre de la démarche qualité |
+
+8 |
+
+Contribuer au respect de l'environnement naturel |
+
+9 |
+
+Analyser les risques pour participer à la mise en œuvre de mesures de prévention |
+
+10 |
+
+Maîtriser les opérations de bionettoyage en fonction de la zone de production |
+
+11 |
+
+Communiquer à l'oral, à l'écrit, à l'aide d'un système numérique professionnel |
+
+12 |
+
+Réaliser un prélèvement de matières premières, de produits finis et d'environnement destiné au laboratoire de contrôle qualité |
+
+13 |
+
+Réaliser un auto-contrôle en cours de production |
+
+14 |
+
+Réaliser l'analyse de l'échantillon au laboratoire de contrôle qualité |
+
+15 |
+
+Exploiter et communiquer le résultat d'un contrôle qualité effectué en laboratoire |
