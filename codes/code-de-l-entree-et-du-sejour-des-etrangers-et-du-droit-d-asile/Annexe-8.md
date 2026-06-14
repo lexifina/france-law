@@ -12,17 +12,23 @@ COMPOSITION FAMILIALE |
 
 Montant
 
-de l'allocation journalière |
+de l'allocation journalière
+
+|
 
 Montant
 
-de l'allocation financière |
+de l'allocation financière
+
+|
 
 MONTANT
 
 JOURNALIER
 
-TOTAL |
+TOTAL
+
+|
 
 1 personne |
 
@@ -110,7 +116,9 @@ Tableau 2. - Barème en cas de retrait de l'allocation journalière et de limita
 
 COMPOSITION
 
-FAMILIALE |
+FAMILIALE
+
+|
 
 MONTANT JOURNALIER |
 
@@ -356,7 +364,7 @@ Nombre de personnes du foyer concernées par la minoration |
 
 16,44 € |
 
-II. - Barème applicable en Guyane
+II. - Barème applicable en Guyane et à Saint-Martin
 
 Le tableau ci-après présente, pour chaque composition familiale, le montant de l'allocation journalière ainsi que le montant de l'allocation financière et le montant journalier total.
 
@@ -366,17 +374,23 @@ COMPOSITION FAMILIALE |
 
 Montant
 
-de l'allocation journalière |
+de l'allocation journalière
+
+|
 
 Montant
 
-de l'allocation financière |
+de l'allocation financière
+
+|
 
 MONTANT
 
 JOURNALIER
 
-TOTAL |
+TOTAL
+
+|
 
 1 personne |
 
@@ -464,7 +478,9 @@ Tableau 4. - Barème en cas de retrait de l'allocation journalière et de limita
 
 COMPOSITION
 
-FAMILIALE |
+FAMILIALE
+
+|
 
 MONTANT JOURNALIER |
 
