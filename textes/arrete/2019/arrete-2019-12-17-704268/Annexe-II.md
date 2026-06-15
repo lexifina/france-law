@@ -124,7 +124,13 @@ RISQUE CIBLÉ |
 
 SITUATIONS À RISQUE |
 
-CONDUITE À TENIR (CAT) ET CONTRE INDICATIONS (CI) EN FONCTION DES RÉPONSES ET DE LA SITUATION À RISQUE |
+CONDUITE À TENIR (CAT)
+
+ET CONTRE INDICATIONS (CI)
+
+EN FONCTION DES REPONSES
+
+ET DE LA SITUATION À RISQUE |
 
 Transmission de tératogènes au receveur |
 
@@ -138,9 +144,9 @@ Prise de médicaments inhibiteurs des fonctions plaquettaires |
 
 CI à la préparation d'un concentré plaquettaire (CPA ou MCP) :
 
-- Anti-inflammatoires non stéroïdiens : CI d'un jour après arrêt du traitement
+- Anti-inflammatoires non stéroïdiens : CI d'un jour après arrêt du traitement ;
 
-- Acide acétyl salicylique : CI de cinq jours après arrêt du traitement |
+- Acide acétyl salicylique : CI de cinq jours après arrêt du traitement. |
 
 Transmission d'un agent pathogène |
 
@@ -164,13 +170,13 @@ Contact avec un sujet infectieux |
 
 La personne habilitée à procéder à l'entretien pré-don apprécie la possibilité d'un don en fonction :
 
-- de la transmissibilité de l'agent pathogène par voie sanguine
+- de la transmissibilité de l'agent pathogène par voie sanguine ;
 
-- de la durée d'incubation de l'infection
+- de la durée d'incubation de l'infection ;
 
-- du délai passé depuis l'exposition |
+- du délai passé depuis l'exposition. |
 
-Infection et/ou fièvre > 38° C |
+Infection et/ou fièvre > 38 °C |
 
 CI de deux semaines après la disparition des symptômes |
 
@@ -178,9 +184,9 @@ Intervention chirurgicale |
 
 La personne habilitée à procéder à l'entretien pré-don apprécie le caractère majeur ou mineur de l'intervention chirurgicale :
 
-- CI d'une semaine au minimum en cas d'intervention chirurgicale mineure
+- CI d'une semaine au minimum en cas d'intervention chirurgicale mineure ;
 
-- CI de 4 mois en cas d'intervention chirurgicale majeure |
+- CI de 4 mois en cas d'intervention chirurgicale majeure. |
 
 Corticothérapie par voie générale |
 
@@ -190,7 +196,13 @@ Infection biologiquement avérée par le VIH, VHC, HTLV |
 
 CI permanente |
 
-Prophylaxie pré-exposition (PrEP) et prophylaxie post-exposition (PEP) au VIH |
+Prophylaxie pré-exposition (PrEP) au VIH |
+
+CI de 4 mois après la dernière prise du traitement par voie orale
+
+CI de 24 mois après la dernière injection en cas de traitement par voie injectable |
+
+Prophylaxie post-exposition (PEP) au VIH |
 
 CI de 4 mois après la dernière prise du traitement |
 
@@ -210,7 +222,7 @@ CI d'un an après guérison |
 
 Transmission d'un agent infectieux |
 
-Infection par le Virus West Nile * |
+Infection par le Virus West Nile (*) |
 
 CI de 120 jours après la fin des symptômes.
 
@@ -256,9 +268,7 @@ Rapport(s) sexuels(s) en échange d'argent ou de drogue |
 
 CI de douze mois après la fin de la situation considérée |
 
-Transmission d'un agent
-
-Infectieux par voie sexuelle
+Transmission d'un agent Infectieux par voie sexuelle
 
 Partenaire |
 
@@ -318,7 +328,7 @@ Endoscopie avec instrument flexible |
 
 CI de deux mois |
 
-Transmission du paludisme à partir d'une zone à risque (La zone à risque est définie comme non exempte de paludisme endémique, c'est-à-dire tout pays ou région du pays pour lequel une autre mention que &laquo; Absence de transmission du paludisme &raquo; figure dans la liste établie par le Haut Conseil de santé Publique (*) |
+Transmission du paludisme à partir d'une zone à risque (La zone à risque est définie comme non exempte de paludisme endémique, c'est-à-dire tout pays ou région du pays pour lequel une autre mention que Absence de transmission du paludisme figure dans la liste établie par le Haut Conseil de santé Publique (*) |
 
 Antécédent de paludisme avéré ou de sérologie positive connue |
 
@@ -428,4 +438,4 @@ Pas de CI en cas d'utilisation de substituts osseux en implantologie dentaire |
 
 NOTA :
 
-Conformément à l’article 3 de l’arrêté du 10 avril 2025 (NOR : TSSP2511285A), ces dispositions entrent en vigueur le 1er septembre 2025.
+Conformément à l’article 3 de l’arrêté du 20 mars 2026 (NOR : SFHP2608053A), ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur le 15 juin 2026.

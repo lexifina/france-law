@@ -2,7 +2,7 @@
 
 DISPOSITIONS RELATIVES AU COMITÉ DE SUIVI
 
-Le comité de suivi est présidé par le Directeur général de la santé. Il comprend :
+Le comité de suivi est présidé par le directeur général de la santé. Il comprend :
 
 1. Des représentants des opérateurs et agences et instances consultatives de l'Etat concernés par le domaine du sang et des produits sanguins :
 
@@ -10,7 +10,7 @@ Le comité de suivi est présidé par le Directeur général de la santé. Il co
 
 - Agence nationale de santé publique-ANSP ;
 
-- Agence nationale de sécurité des médicaments et des produits de santé-ANSM ;
+- Agence nationale de sécurité du médicament et des produits de santé-ANSM ;
 
 - Centre de transfusion sanguine des armées-CTSA ;
 
@@ -52,4 +52,8 @@ Le comité de suivi est présidé par le Directeur général de la santé. Il co
 
 Le président du comité de suivi peut inviter toute personne utile aux travaux du groupe de suivi.
 
-Le comité de suivi se réunit au moins une fois par an, sur convocation de son président qui fixe l'ordre du jour. La convocation et l'inscription à l'ordre du jour sont de droit lorsqu'elles sont demandées par le ministre chargé de la santé ou le tiers de ses membres.
+Le comité de suivi se réunit tous les deux ans ou à chaque fois qu'une modification du présent arrêté est envisagée, sur convocation de son président qui fixe l'ordre du jour. La convocation et l'inscription à l'ordre du jour sont de droit lorsqu'elles sont demandées par le ministre chargé de la santé ou le tiers de ses membres.
+
+NOTA :
+
+Conformément à l’article 3 de l’arrêté du 20 mars 2026 (NOR : SFHP2608053A), ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur le 15 juin 2026.
