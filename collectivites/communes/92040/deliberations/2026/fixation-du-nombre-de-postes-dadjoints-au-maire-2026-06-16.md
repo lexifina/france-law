@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Fixation du nombre de postes d’Adjoints au Maire.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2026-06-16
+- Matière : ADMINISTRATION GENERALE
+- Objet : Fixation du nombre de postes d’Adjoints au Maire.
+- Transmis à la préfecture : 2026-06-22
+- Votants : 49
+- Pour : 36
+- Contre : 12
+- Abstentions : 1
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQ5MzUsInB1ciI6ImJsb2JfaWQifX0=--54eccc720b92bd0397812054ecf4664e67ddaea1/2%20-%20ADM%20-%20fixation%20nombre%20adjoints.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
