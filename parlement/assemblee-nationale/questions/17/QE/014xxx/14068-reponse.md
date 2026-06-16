@@ -1,0 +1,9 @@
+# Réponse à la question n° 14068
+
+- Question : [14068](14068.md) — Question n° 14068 — Revalorisation des indemnités kilométriques des bénévoles
+
+## Réponse
+
+*JO du 2026-06-16, page 5508*
+
+Le gouvernement est attentif aux conditions d'exercice des services de transport d'utilité sociale, assurés exclusivement par des associations de bénévoles, qui facilitent le quotidien de leurs bénéficiaires en leur permettant de se rendre à des rendez-vous médicaux ou d'accomplir des démarches administratives. Ils s'adressent aux personnes dont l'accès aux transports, qu'ils soient collectifs ou individuels, est limité en raison de leurs ressources financières et de leur situation géographique. Véritable levier de solidarité locale, le transport d'utilité sociale contribue à renforcer les liens sociaux et ne relève pas d'une activité professionnelle. Conformément à l'article R. 3133-3 du code des transports, la participation aux frais engagés par les chauffeurs bénévoles ne peut dépasser un plafond fixé par l'arrêté du 17 octobre 2019 relatif aux services de transport d'utilité sociale à hauteur de 0,32 euro par kilomètre. Ce plafond a été fixé en 2019, à l'issue d'une concertation réunissant les professionnels du transport public particulier de personnes et les représentants du monde associatif. Il correspondait alors à 60% du barème kilométrique applicable aux frais professionnels. Compte tenu de la hausse de ce barème intervenue depuis et conformément à l'engagement pris lors du comité interministériel à la ruralité de juin 2025, une revalorisation technique du plafond de participation aux frais applicable au transport d'utilité sociale est intervenue pour articuler ce plafond à l'évolution du barème kilométrique. Ainsi, le nouvel arrêté conduit à un plafond à 0,38 euro par kilomètre, soit 60% du barème kilométrique 2026.
