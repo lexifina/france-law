@@ -1,0 +1,9 @@
+# Réponse à la question n° 9221
+
+- Question : [9221](9221.md) — Question n° 9221 — Application de l'amende forfaitaire délictuelle
+
+## Réponse
+
+*JO du 2026-06-16, page 5479*
+
+L'article 495-17 du code de procédure pénale prévoit que la procédure de l'amende forfaitaire délictuelle (AFD) n'est pas applicable si le délit a été commis par un mineur. Une telle exclusion trouve sa justification, en premier lieu, dans le principe fondamental reconnu par les lois de la République en matière de justice des mineurs qui nécessite de rechercher le relèvement éducatif et moral du mineur (Décision n° 2002-460 DC du 22 août 2002, Loi d'orientation et de programmation sur la sécurité intérieure). Cette exigence est incompatible avec la procédure de l'AFD, sanction qui n'est pas prononcée par une juridiction spécialisée et pour laquelle l'excuse de minorité ne peut être appliquée. En deuxième lieu, l'AFD, dispositif de simplification de la procédure pénale, reposant sur la reconnaissance des faits et le consentement libre et éclairé de la personne quant aux conséquences de sa verbalisation, est inadaptée aux spécificités liées à la minorité de la personne concernée qui ne permet pas, par nature, le recueil d'un consentement éclairé. Si l'AFD ne peut constituer une réponse pénale pour les mineurs faisant usage de stupéfiants, une réponse doit évidemment être apportée, tant dans le cadre des alternatives aux poursuites que dans le cadre de poursuites judiciaires, que ce soit pour sensibiliser aux dangers de l'usage des stupéfiants, notamment par le prononcé de stages, ou pour apporter des soins psychologiques et/ou en addictologie. En outre, dans les situations les plus complexes révélant une toxicodépendance associée à une situation familiale et sociale complexe, le juge des enfants peut être saisi dans le cadre de l'assistance éducative.
