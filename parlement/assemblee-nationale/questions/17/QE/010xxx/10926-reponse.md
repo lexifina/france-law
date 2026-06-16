@@ -1,0 +1,9 @@
+# Réponse à la question n° 10926
+
+- Question : [10926](10926.md) — Question n° 10926 — Comptabilisation des trimestres de retraite des professions libérales
+
+## Réponse
+
+*JO du 2026-06-16, page 5512*
+
+Les professions libérales réglementées sont affiliées, pour le risque vieillesse, au régime de retraite de base des professions libérales, piloté par la Caisse nationale d'assurance vieillesse des professions libérales (CNAVPL) et aux régimes de retraite complémentaire pilotés par chaque section professionnelle. Les avocats, quant à eux, sont affiliés aux régimes de retraite de base et complémentaire de la Caisse nationale des barreaux français (CNBF). Les autres travailleurs indépendants (hors non-salariés agricoles) sont affiliés au régime général. L'article R. 611-3 du code de la sécurité sociale dispose que la date d'effet de l'affiliation des travailleurs indépendants à la sécurité sociale est le jour du début de l'activité professionnelle. Par dérogation, l'article R. 643-1 du même code dispose que pour le régime de retraite de base des professions libérales, l'affiliation commence le premier jour du trimestre civil suivant le début de l'activité professionnelle. Cependant, les règles de comptabilisation des trimestres dans le régime de retraite de base des professions libérales se basent sur l'assiette annuelle de cotisations des professionnels libéraux. L'article D. 643-3 du code de la sécurité sociale dispose que les professionnels libéraux acquièrent un trimestre lorsque leur assiette de cotisation atteint 150 fois le SMIC horaire brut au 1er janvier de l'année considérée, dans la limite de 4 trimestres (soit 600 SMIC horaire brut). Ainsi, un professionnel libéral commençant son activité le 2 janvier d'une année pourra quand même acquérir 4 trimestres au titre de cette même année si son assiette de cotisation annuelle est supérieure à 600 fois le SMIC horaire brut.
