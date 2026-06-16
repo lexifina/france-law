@@ -1,0 +1,9 @@
+# Réponse à la question n° 12323
+
+- Question : [12323](12323.md) — Question n° 12323 — Menace d'ingérences états-uniennes en Europe
+
+## Réponse
+
+*JO du 2026-06-16, page 5463*
+
+Le Gouvernement a pris acte de la publication de la nouvelle stratégie de sécurité nationale américaine (NSS). L'appel à « cultiver la résistance » au sein même des États européens, face à un prétendu « effacement civilisationnel » porte le risque d'une ingérence directe au sein des débats démocratiques dans les pays européens. La publication de ce texte américain est aussi un moment de clarification et de vérité qui invite à tenir le cap et à accélérer. Au fond, c'est la démonstration éclatante que la France avait raison, depuis 2017, d'appeler l'Europe à l'autonomie stratégique et qu'elle a eu raison, depuis huit ans, de faire changer l'Europe. L'Europe a repris le contrôle de ses frontières avec le Pacte sur l'immigration et l'asile, elle s'est donné les moyens de se défendre contre la concurrence déloyale et a posé des règles aux géants du numérique. Les peuples européens savent bien que la garantie de l'exercice de leur souveraineté passe aussi par l'Europe à condition que l'Europe soit plus forte, qu'elle soit plus sûre et qu'elle soit plus compétitive. Les peuples européens refusent les capitulations dans les guerres d'invasion comme dans les guerres commerciales, ils refusent que l'Europe devienne un continent vassalisé et vieillissant. Ils veulent au contraire que l'Europe devienne une puissance démocratique qui ne laisse personne décider à sa place. La stratégie de sécurité nationale américaine conforte l'agenda d'autonomie stratégique européenne. Elle doit également encourager à renforcer le pilier européen de l'OTAN, afin qu'il soit plus robuste face à la Russie qui restera durablement la principale menace pesant sur l'Alliance et qui continuera à la tester.
