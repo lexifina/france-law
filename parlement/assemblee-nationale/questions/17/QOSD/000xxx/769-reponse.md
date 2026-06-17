@@ -1,0 +1,27 @@
+# Réponse à la question n° 769
+
+- Question : [769](769.md) — Question n° 769 — Territorialité de la production pharmaceutique
+
+## Réponse
+
+*JO du 2026-06-17, page 6001*
+
+PRODUCTION PHARMACEUTIQUE
+
+Mme la présidente. La parole est à M. Jean-François Rousset, pour exposer sa question, no 769, relative à la production pharmaceutique.
+
+M. Jean-François Rousset. Les médicaments matures constituent le socle invisible, mais indispensable, de notre système de soins. Analgésiques, antibiotiques, traitements cardiovasculaires et du diabète : ces spécialités utilisées quotidiennement par des millions de Français sont au cœur de notre souveraineté sanitaire. Pourtant, leur production reste fragile en France, exposée à des risques de pénurie et à une compétitivité insuffisante face aux productions étrangères. Renforcer leur ancrage industriel dans notre territoire, c'est garantir à nos concitoyens un accès sûr et pérenne aux traitements essentiels.
+
+Le Parlement a récemment adopté, dans la loi de financement de la sécurité sociale pour 2026, plusieurs dispositions importantes visant à soutenir les médicaments matures et à renforcer la production pharmaceutique en France dans un objectif de souveraineté sanitaire et industrielle. Premièrement, la réforme de la fiscalité sectorielle à partir de 2027 prévoit une exonération de la contribution qui viendra se substituer à la clause de sauvegarde pour les médicaments matures, notamment les spécialités de référence dont le prix est inférieur à un seuil fixé par décret. L'effectivité de cette avancée dépend de la publication rapide des textes d'application.Deuxièmement, le législateur a introduit un critère d'empreinte territoriale dans la répartition de la clause de sauvegarde, qui constitue aujourd'hui le principal outil de fiscalité sectorielle du médicament. Cette évolution vise à mieux prendre en compte l'ancrage industriel local et à valoriser concrètement la production en France. Conformément à la volonté du législateur et à la rédaction des textes, cette mesure a vocation à s'appliquer dès l'exercice fiscal 2025, payable en 2026.
+
+Toutefois, l'absence d'application de certaines réformes récentes fait aujourd'hui peser une incertitude réelle sur les effets de ces dispositions, au détriment des industriels qui ont fait le choix de produire en France et des patients qui en dépendent. Madame la ministre de la santé, pouvez-vous nous confirmer que le décret nécessaire à la mise en œuvre de la réforme de la fiscalité sectorielle, notamment pour l'exonération des spécialités de référence à bas prix, sera publié dans des délais permettant une application effective de la mesure ? Si oui, quel sera le seuil de prix retenu ? Pouvez-vous nous confirmer par ailleurs que le critère de territorialité dans la clause de sauvegarde sera bien appliqué dès l'exercice fiscal 2025, payable en 2026 ?
+
+Mme la présidente. La parole est à Mme la ministre de la santé, des familles, de l’autonomie et des personnes handicapées.
+
+Mme Stéphanie Rist, ministre de la santé, des familles, de l’autonomie et des personnes handicapées. Vous m'interrogez sur la localisation des chaînes de production de médicaments et sur leur prise en compte dans notre tarification des produits de santé remboursés par la sécurité sociale. Je partage votre constat : l'éclatement international des chaînes de production fragilise notre souveraineté sanitaire et limite notre capacité à répondre rapidement aux crises sanitaires. Vous le savez, le gouvernement agit résolument, notamment depuis la crise du covid. Nous avons engagé la relocalisation ou le renforcement de la production d'une quarantaine de médicaments essentiels et, comme vous le soulignez, nous avons inscrit la prise en compte de la localisation dans la tarification des produits innovants de santé. Rappelons que ce critère industriel est déjà opérationnel pour les médicaments innovants, et ce depuis quelques années. Nous travaillons actuellement à son extension aux médicaments matures.
+
+Concernant la régulation macroéconomique du secteur, les précédentes lois de financement de la sécurité sociale ont acté la prise en compte de la localisation dans la clause de sauvegarde et la contribution supplémentaire introduite en loi de financement de la sécurité sociale pour 2026. J'ai eu l'occasion de le rappeler lors de nos débats, les enjeux opérationnels sont importants et mes services travaillent à la concrétisation des dispositions en question. Soyez assuré de la détermination du gouvernement à avancer.
+
+Mme la présidente. La parole est à M. Jean-François Rousset.
+
+M. Jean-François Rousset. Je vous remercie, madame la ministre.
