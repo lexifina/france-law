@@ -47,3 +47,9 @@ Jusqu'au 30 avril 2031 :
 Nice - Oran (Algérie) ;
 
 Strasbourg - Oran (Algérie).
+
+Jusqu'au 30 juin 2031 :
+
+Lyon-Louxor (Egypte) ;
+
+Nantes-Louxor (Egypte).
