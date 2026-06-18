@@ -52,4 +52,4 @@ c) Pompes à chaleur dédiées à la production d'eau chaude sanitaire ;
 
 NOTA :
 
-Conformément à l'article 2 du décret n° 2025-956 du 8 septembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 1er janvier 2026 et s'appliquent aux demandes de primes déposées à compter de cette même date.
+Conformément au second alinéa de l'article 3 du décret n° 2026-516 du 12 juin 2026, ces dispositions, dans leur rédaction issue du 4° de l'article 2 dudit décret, s'appliquent aux demandes de primes déposées à compter du 1er janvier 2026.
