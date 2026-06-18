@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260408435
+
+- Question : [SEQ260408435](seq260408435.md) — Règles applicables aux communes concernant le nombre d'emplacements d'affichage libre
+
+## Réponse
+
+*Intérieur , JO du 2026-06-18, page 3049*
+
+Les dispositions prévues à l'article L. 581-13 du code de l'environnement offrent à toute personne la faculté de bénéficier d'espaces destinés à l'affichage d'opinion ainsi qu'à la publicité relative aux activités des associations sans but lucratif. L'article R. 581-2 du même code définit les surfaces minimales que la commune doit mettre à disposition, calculées en fonction du nombre d'habitants : 4 mètres carrés pour les communes de moins de 2 000 habitants ; 4 mètres carrés plus 2 mètres carrés par tranche de 2 000 habitants au-delà de 2 000 habitants, pour les communes de 2 000 à 10 000 habitants ; 12 mètres carrés plus 5 mètres carrés par tranche de 10 000 habitants au-delà de 10 000 habitants, pour les autres communes. L'article R. 581-3 du même code définit les inter-distances entre panneaux à respecter. Ceux-ci doivent être disposés de telle sorte que tout point situé en agglomération se trouve à moins d'un kilomètre de l'un au moins d'entre eux. Par conséquent, chaque commune est tenue de mettre à disposition une surface définie en fonction du nombre d'habitants ainsi que la distance entre chaque emplacement afférent. Si le maire n'a pas pris l'arrêté prévu à l'article L. 581-13 du code de l'environnement, le préfet, après une mise en demeure restée sans effet durant trois mois, se substitue à lui et détermine le ou les emplacements nécessaires. Le maire ne peut instaurer un régime d'autorisation en matière des affiches pouvant être apposées sur ces emplacements. Les emplacements d'affichage libre font l'objet d'un recensement accessible par commune sur le site internet data.gouv.fr.
