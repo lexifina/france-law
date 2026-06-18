@@ -88,7 +88,7 @@ Uniquement pour l'ensemble de travaux visé au 15 de l'annexe 1 du décret du 14
 
 -Rapport de l'audit énergétique visé au 2° du I de l'article 4 du présent arrêté, actualisé le cas échéant, et complété le cas échéant par l'attestation définie à l'article 4 de l'arrêté du 13 août 2025 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au diagnostic de performance énergétique ;
 
--Attestation de travaux " factures " (modèle en annexe 1 de l'arrêté du 17 novembre 2020 susvisé) actualisée le cas échéant ;
+-Attestation de travaux "factures" (modèle en annexe 1 de l'arrêté du 17 novembre 2020 susvisé) actualisée le cas échéant ;
 
 -rapport d'accompagnement mentionné au 4° de l'article 2 de l'arrêté du 21 décembre 2022 relatif à la mission d'accompagnement du service public de la performance énergétique de l'habitat ;
 
@@ -98,4 +98,4 @@ Uniquement pour l'ensemble de travaux visé au 15 de l'annexe 1 du décret du 14
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 11 juin 2026 (NOR : VLOL2609236A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, s'appliquent aux demandes de primes déposées à compter du 1er janvier 2026.
+Conformément à l'article 3 de l'arrêté du 12 juin 2026 (NOR : VLOL2607514A), ces dispositions, dans leur rédaction issue dudit arrêté, en vigueur le 1er septembre 2026. Elles s'appliquent aux demandes de primes déposées à compter de cette même date, à l'exception des dispositions issues du b du 2° de l'article 5 qui s'appliquent aux dossiers dont la demande de solde est déposée à compter de cette même date.

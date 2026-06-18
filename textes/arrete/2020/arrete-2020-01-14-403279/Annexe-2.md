@@ -706,4 +706,6 @@ Mission d'accompagnement par un opérateur agréé prévue à l'article L. 232-3
 
 NOTA :
 
-Conformément à l'article de l'arrêté du 10 juin 2026 (NOR : VLOL2609232A), ces dispositions, dans leur rédaction résultant dudit arrêté, s'appliquent aux demandes de primes déposées entre le 1er janvier 2025 et le 31 décembre 2025.
+Conformément à l'article 3 de l'arrêté du 12 juin 2026 (NOR : VLOL2607514A), ces dispositions, dans leur rédaction résultant dudit arrêté, s'appliquent aux demandes de primes déposées à compter du 30 septembre 2025.
+
+Les dispositions du tableau 1 applicable aux demandes de primes déposées à compter du 1er janvier 2026, dans leur rédaction résultant du a du 4° de l'article 2 de l'arrêté précité, s'appliquent aux demandes de primes déposées à compter du 1er janvier 2026.
