@@ -36,7 +36,7 @@ e) S'il s'agit d'un contrat portant sur la livraison régulière de biens pendan
 
 (2) Insérez votre nom, votre adresse géographique, votre numéro de téléphone et votre adresse électronique.
 
-(3) Si vous donnez au consommateur la faculté de remplir et de transmettre électroniquement les informations sur sa rétractation du contrat sur votre site internet, insérez le texte suivant : " Vous pouvez également remplir et transmettre le modèle de formulaire de rétractation ou toute autre déclaration dénuée d'ambiguïté sur notre site internet [insérer l'adresse du site internet]. Si vous utilisez cette option, nous vous enverrons sans délai un accusé de réception de la rétractation sur un support durable (par exemple, par courriel). "
+(3) Si vous êtes tenu de prévoir une fonctionnalité permettant au consommateur de se rétracter du contrat conclu en ligne, insérez le texte suivant : “Vous pouvez également exercer votre droit de rétractation en ligne sur [insérer l'adresse du site internet ou une autre référence adéquate indiquant où se trouve la fonctionnalité de rétractation]. Si vous utilisez cette fonctionnalité en ligne, nous vous enverrons, dans les meilleurs délais, un accusé de réception de la rétractation sur un support durable (par exemple, par courriel), y compris son contenu ainsi que la date et l'heure de sa soumission.”. Si vous offrez au consommateur la faculté de remplir et de transmettre électroniquement sa rétractation du contrat sur votre site internet, insérez le texte suivant : “Vous pouvez également remplir et transmettre le modèle de formulaire de rétractation ou toute autre déclaration dénuée d'ambiguïté sur notre site internet [insérer l'adresse du site internet]. Si vous utilisez cette option, nous vous enverrons dans les meilleurs délais un accusé de réception de la rétractation sur un support durable (par exemple, par courriel).”
 
 (4) S'il s'agit d'un contrat de vente dans le cadre duquel vous n'avez pas proposé de récupérer le bien en cas de rétractation, insérez le texte suivant : " Nous pouvons différer le remboursement jusqu'à ce que nous ayons reçu le bien ou jusqu'à ce que vous ayez fourni une preuve d'expédition du bien, la date retenue étant celle du premier de ces faits. "
 
@@ -64,4 +64,6 @@ c) Insérez : " Votre responsabilité n'est engagée qu'à l'égard de la dépr�
 
 NOTA :
 
-Conformément à l’article 2 du décret n° 2022-424 du 25 mars 2022, ces dispositions entrent en vigueur le 28 mai 2022.
+Conformément au I de l'article 20 du décret n° 2026-3 du 5 janvier 2026, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 19 juin 2026.
+
+Conformément au II du même article, les contrats en cours au 19 juin 2026 restent régis par les dispositions pertinentes du code des assurances, du code de la consommation, du code monétaire et financier, du code de la mutualité et du code de la sécurité sociale, dans leur rédaction antérieure à l'entrée en vigueur du présent décret.
