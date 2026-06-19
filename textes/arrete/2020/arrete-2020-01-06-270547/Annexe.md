@@ -990,18 +990,6 @@ Angiospermes
 
 |
 
-Dianthus gyspergerae Rouy, 1903
-
-|
-
-Oeillet fourchu de Gysperger, Oeillet de Madame Gysperger
-
-|
-
-Angiospermes
-
-|
-
 Draba incana L., 1753
 
 |
@@ -1661,18 +1649,6 @@ Lathyrus palustris L., 1753
 |
 
 Gesse des marais
-
-|
-
-Angiospermes
-
-|
-
-Leucanthemum corsicum subsp. fenzlii Gamisans, 1972
-
-|
-
-Marguerite de Fenzl, Leucanthème de Fenzl
 
 |
 
@@ -2647,18 +2623,6 @@ Scutellaria hastifolia L., 1753
 |
 
 Scutellaire à feuilles hastées, Scutellaire hastée
-
-|
-
-Angiospermes
-
-|
-
-Senecio rosinae Gamisans, 1977
-
-|
-
-Séneçon de Rosine
 
 |
 
