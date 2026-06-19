@@ -208,7 +208,7 @@ Arrêté du 27 octobre 2004 modifié |
 
 12 |
 
-ASSISTANT TECHNIQUE EN INSTRUMENTS DE MUSIQUE-option guitare |
+ASSISTANT TECHNIQUE EN INSTRUMENTS DE MUSIQUE-option guitare (dernière session 2027 avec une session supplémentaire en 2028) |
 
 Arrêté du 27 octobre 2004 modifié |
 
@@ -691,6 +691,14 @@ Arrêté du 20 septembre 1974 modifié |
 LAPIDAIRE-option b-pierres de couleur |
 
 Arrêté du 20 septembre 1974 modifié |
+
+12 |
+
+LUTHERIE GUITARE (première session 2028)
+
+|
+
+Arrêté du 20 mai 2026 |
 
 12 |
 
