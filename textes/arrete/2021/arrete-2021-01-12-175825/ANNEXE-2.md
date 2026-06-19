@@ -122,7 +122,9 @@ En continu |
 
 Normes EN génériques |
 
-NH3 |
+NH3
+
+|
 
 En continu (2) |
 
@@ -132,9 +134,7 @@ N2O |
 
 Une fois par an (3) |
 
-EN 21258
-
-XP X 43-305 |
+EN 21258XP X 43-305 |
 
 CO |
 
@@ -142,7 +142,9 @@ En continu |
 
 Normes EN génériques |
 
-SO2 |
+SO2
+
+|
 
 En continu |
 
@@ -186,15 +188,13 @@ Normes EN génériques |
 
 PCDD/PCDF |
 
-En semi-continu |
+Une fois toutes les quatre semaines pour l'échantillonnage à long terme (surveillance en semi-continu) |
 
-Pas de norme EN pour l'échantillonnage à long terme
+Pas de norme EN pour l'échantillonnage à long termeCEN-TS 1948-5EN 1948-2, EN 1948-3GA X 43-139 |
 
-CEN-TS 1948-5
+Une fois tous les six mois pour l'échantillonnage à court terme |
 
-EN 1948-2, EN 1948-3
-
-GA X 43-139 |
+EN 1948-1, EN 1948-2, EN 1948-3 |
 
 PBDD/PBDF (7) |
 
@@ -216,27 +216,25 @@ Benzo[a]pyrène |
 
 Une fois par an |
 
-Pas de norme EN
+Pas de norme ENNorme NF X 43-329 |
 
-Norme NF X 43-329 |
+(1) Les normes EN génériques pour les mesures en continu sont EN 15267-1, EN 15267-2, EN 15267-3 et EN 14181.
 
-(1) Les normes EN génériques pour les mesures en continu sont EN 15267-1, EN 15267-2, EN 15267-3 et EN 14181
+(2) Mesuré dans les installations ayant recours à la SNCR ou à la SCR.
 
-(2) Mesuré dans les installations ayant recours à la SNCR ou à la SCR
+(3) Mesuré dans les installations utilisant un four à lit fluidisé et les installations qui ont recours à la SNCR par injection d'urée.
 
-(3) Mesuré dans les installations utilisant un four à lit fluidisé et les installations qui ont recours à la SNCR par injection d'urée
-
-(4) La mesure en continu du fluroure d'hydrogène (HF) peut être remplacée par des mesures périodiques, à une fréquence minimale d'une fois tous les six mois si l'on applique au chlorure d'hydrogène (HCl) des traitements garantissant que la valeur limite d'émission fixée n'est pas dépassée et s'il est établi que le niveau des émissions de HCl est suffisamment stable. Il n'existe pas de norme EN applicable à la mesure périodique de HF.
+(4) La mesure en continu du fluorure d'hydrogène (HF) peut être remplacée par des mesures périodiques, à une fréquence minimale d'une fois tous les six mois si l'on applique au chlorure d'hydrogène (HCl) des traitements garantissant que la valeur limite d'émission fixée n'est pas dépassée et s'il est établi que le niveau des émissions de HCl est suffisamment stable. La stabilité des émissions est évaluée sur la base d'un guide reconnu par le ministre chargé de l'environnement. Il n'existe pas de norme EN applicable à la mesure périodique de HF.
 
 (5) Le temps cumulé d'indisponibilité du dispositif de mesure en continu ne peut excéder cinq cents heures cumulées sur une année.
 
-(6) Dans le cas d'un monoflux de déchets dont la composition est régulièrement contrôlée, comme pour certains combustibles solides de récupération, et s'il est démontré durant 2 années consécutives à l'aide de cette analyse des déchets entrants qu'ils ont une teneur faible et stable en mercure, la surveillance continue des émissions peut-être remplacée par un échantillonnage à long-terme [pas de norme EN applicable], ou par des mesures périodiques, à une fréquence minimale d'une fois tous les six mois. Dans ce dernier cas, la norme applicable est la norme EN 13211.
+(6) Dans le cas d'un monoflux de déchets dont la composition est régulièrement contrôlée, comme pour certains combustibles solides de récupération, et s'il est démontré, durant deux années consécutives à l'aide de cette analyse des déchets entrants, qu'ils ont une teneur faible et stable en mercure, la surveillance continue des émissions peut-être remplacée par un échantillonnage à long-terme [pas de norme EN applicable], ou par des mesures périodiques, à une fréquence minimale d'une fois tous les six mois. Dans ce dernier cas, la norme applicable est la norme EN 13211.
 
 (7) La surveillance s'applique uniquement à l'incinération des déchets contenant des retardateurs de flamme bromés ou aux unités appliquant l'ajout du brome dans la chaudière (annexe 5, 5.2.5.d) avec injection de brome en continu. Les analyses sont réalisées dans les mêmes conditions et selon les mêmes normes utilisées pour la surveillance et l'analyse des PCDD/F.
 
-(8) Réduite à une fois tous les deux ans avec un échantillonnage à court terme, s'il est au préalable démontré durant 2 années consécutives à l'aide d'une surveillance mensuelle avec échantillonnage à long terme que les niveaux d'émissions de PCB de type dioxines sont inférieures à 0,01 ng OMS- lTEQ/Nm3.
+(8) Réduite à une fois tous les deux ans avec un échantillonnage à court terme, s'il est au préalable démontré, durant deux années consécutives à l'aide d'une surveillance mensuelle avec échantillonnage à long terme, que les niveaux d'émissions de PCB de type dioxines sont inférieures à 0,01 ng OMS-TEQ/Nm3.
 
-(9) A démontrer au préalable durant 2 années consécutives à l'aide d'une surveillance mensuelle avec échantillonnage à long terme. |
+(9) A démontrer au préalable durant deux années consécutives à l'aide d'une surveillance mensuelle avec échantillonnage à long terme. |
 
 b) Les installations de traitement de mâchefers avec émissions atmosphériques canalisées :
 
@@ -322,31 +320,33 @@ Fréquence |
 
 Norme(s) ou équivalent |
 
-Carbone organique total (COT) |
+Carbone organique total (COT) (1) |
 
 Une fois par mois |
 
 EN 1484 |
 
-Matières en suspension totales (MEST) |
+Matières en suspension totales (MEST) (1) |
 
 Une fois par mois |
 
 EN 872 |
 
-Pb |
+Pb (1) |
 
 Plusieurs normes EN (par exemple EN ISO 11885, EN ISO 15586, EN ISO 17294-2) |
 
-Azote ammoniacal (NH4-N) |
+Azote ammoniacal (NH4-N) (1) |
 
 Plusieurs normes EN (par exemple, EN ISO 11732 ou EN ISO 14911) |
 
-Chlorures (Cl-) |
+Chlorures (Cl-) (1) |
 
 Plusieurs normes EN (par exemple, EN ISO 10304-1, EN ISO 15682) |
 
-Sulfates (SO42-) |
+Sulfates (SO4
+
+2-) (1) |
 
 EN ISO 10304-1 |
 
@@ -369,6 +369,8 @@ EN ISO 10523 |
 Conductivité |
 
 EN 27888 |
+
+(1) La fréquence de surveillance peut être ramenée à une fois tous les six mois s'il est démontré que les niveaux d'émission sont suffisamment stables. La stabilité des émissions est évaluée sur la base d'un guide reconnu par le ministre chargé de l'environnement.
 
 2.2.4. Surveillance des teneurs en substances imbrûlées des scories et mâchefers de l'unité d'incinération
 

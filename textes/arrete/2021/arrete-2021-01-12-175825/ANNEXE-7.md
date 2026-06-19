@@ -102,15 +102,21 @@ Hg (7) |
 
 moyenne journalière ou moyenne sur la période d'échantillonnage |
 
-PCDD/PCDF
+PCDD/PCDF (ng I-TEQ/Nm3)
 
-(ng I-TEQ/Nm3) |
+|
 
 0,08 |
 
 0,06 |
 
 moyenne sur la période d'échantillonnage (8) à long terme |
+
+0,06 |
+
+0,04 |
+
+moyenne sur la période d'échantillonnage à court terme |
 
 (1) Pour les installations d'incinération de déchets dangereux pour lesquelles un filtre à manches n'est pas applicable, la valeur est de 7 mg/Nm3.
 
