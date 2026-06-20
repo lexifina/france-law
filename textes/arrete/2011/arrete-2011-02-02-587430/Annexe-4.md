@@ -64,11 +64,11 @@ ZI du Moros -
 
 5 |
 
-CEGELEC SDEM |
+BARILLEC SAS |
 
 Cours Bourbon -
 
-BP 87 76370 Martin-Église |
+76370 Martin-Église |
 
 - FA 150 AIS Transponder (R-4-206) (*)
 
@@ -140,7 +140,7 @@ FLUVIAL ELEC |
 
 - Em-track A 100 Combined Class A
 
-- / Inland AIS Transceiver (R-4-308)
+/ Inland AIS Transceiver (R-4-308)
 
 - A200 Combined Class A / inland AIS Transceiver (R-4-316) |
 
@@ -264,7 +264,11 @@ RADIO HOLLAND FRANCE |
 
 - OceanSat Combined Class A / Inland AIS Transceiver (R-4-209) (*)
 
-- VDL 6000 AIS Class A / Inland AIS Transponder (R-4-219) (*) |
+- VDL 6000 AIS Class A / Inland AIS Transponder (R-4-219) (*)
+
+- A200 Combined Class A / Inland AIS Transceiver (R-4-316)
+
+- Tron AIS TR-8000 MkII Class A / Inland AIS Transceiver (e-1-400/R-1-400) |
 
 21 |
 
@@ -332,4 +336,4 @@ CD 45 - Pont de l'Etoile -
 
 - Sailor 6280/6281 AIS System Class A/Inland AIS (R-4-302) |
 
-(*) Certains types d'appareils n'ont pas reçu d'agrément conformément au Règlement de visite des bateaux du Rhin. Le montage des appareils AIS intérieur dont la réception par type est basée sur l'édition 1.0 et 1.01 du Standard d'essai de la CCNR n'est plus autorisé à compter du 1er novembre 2015. L'utilisation et la réparation de ces appareils demeurent autorisées au-delà de cette date.
+(*) Certains types d'appareils n'ont pas reçu d'agrément conformément au règlement de visite des bateaux du Rhin. Le montage des appareils AIS intérieur dont la réception par type est basée sur l'édition 1.0 et 1.01 du Standard d'essai de la CCNR n'est plus autorisé à compter du 1er novembre 2015. L'utilisation et la réparation de ces appareils demeurent autorisées au-delà de cette date.

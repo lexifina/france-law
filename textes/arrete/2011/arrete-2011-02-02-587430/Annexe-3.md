@@ -18,9 +18,7 @@ pour lesquels la société reçoit l'habilitation |
 
 AEMI |
 
-8, rue des Compagnons
-
-14000 Caen |
+8, rue des Compagnons - 14000 Caen |
 
 Appareils radar :
 
@@ -34,7 +32,7 @@ Simrad |
 
 ALPHATRON MARINE FRANCE |
 
-1710, Chemin de la Plaine
+1710, Chemin de la Plaine -
 
 06250 Mougins |
 
@@ -72,7 +70,7 @@ Titan 1000 90°/min 300°/min + S300 (e-01-083) |
 
 E-NAUTIC |
 
-12, quai du capitaine Allègre
+12, quai du capitaine Allègre -
 
 33120 Arcachon |
 
@@ -98,7 +96,7 @@ AlphaTurn (River) MFM / MFL 90°/min, 300°/min + EBF01a (e-01-086) |
 
 ENTCO |
 
-1, impasse des Peupliers
+1, impasse des Peupliers -
 
 91160 Saulx-les-Chartreux |
 
@@ -138,7 +136,7 @@ NEXO D-57 (e-04-104) |
 
 HEXA MARINE |
 
-46 Kerolivier
+46 Kerolivier -
 
 44410 Saint-Lyphard |
 
@@ -160,9 +158,7 @@ AlphaTurn (River) MFM / MFL 90°/min, 300°/min + EBF01a (e-01-086) |
 
 MAP Marine |
 
-1, quai de la Grande Bigue - bât. B
-
-13002 Marseille |
+1, quai de la Grande Bigue - bât. B - 13002 Marseille |
 
 Appareils radar :
 
@@ -176,7 +172,7 @@ Radio Zeeland |
 
 PROMAT SÉCURITÉ |
 
-68, boulevard Jules Durand
+68, boulevard Jules Durand -
 
 76056 Le Havre |
 
@@ -196,7 +192,7 @@ AlphaTurn (River) MFM / MFL 90°/min 300°/min + EBF01a (e-01-086) |
 
 RADIO HOLLAND FRANCE |
 
-21, rue Paul Verlaine
+21, rue Paul Verlaine -
 
 76700 Harfleur |
 
@@ -215,6 +211,8 @@ Furuno RHRS-2005 RC (R-4-008) ;
 JMA-609 /7, /9 (R-4-011) ;
 
 Sperry Decca MK 6217 RT / 6219 (R-4-009) ;
+
+Furuno RHRS-2024 (e-01-025)
 
 Indicateurs de vitesse de giration :
 
@@ -240,7 +238,7 @@ Titan 1000 90°/min 300°/min + S300 (e-01-083) |
 
 SIECMI |
 
-3, quai Est
+3, quai Est -
 
 29900 Concarneau |
 
@@ -256,9 +254,9 @@ Radio Holland ; Radio Zeeland ; Alphatron |
 
 THEMYS |
 
-Quartier de la chaume
+Quartier de la chaume -
 
-CD 45 - pont de l'Etoile
+CD 45 - pont de l'Etoile -
 
 13360 Roquevaire |
 
