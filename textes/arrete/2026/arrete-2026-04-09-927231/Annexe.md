@@ -1,12 +1,12 @@
 # Article Annexe
 
-ANNEXE
-
 Les pièces justificatives sont à déposer sur l'espace personnel du candidat ouvert sur l'outil Cyclades géré par le SIEC et accessible via le lien suivant : https://cyclades.education.gouv.fr/cyccandidat/portal/login
 
 Toute pièce envoyée par courriel ou voie postale ne sera pas traitée, et par conséquent ne sera pas intégrée au dossier qui restera incomplet.
 
-Les pièces justificatives nécessaires à la complétude du dossier d'inscription devront être exclusivement déposées au format PDF par les candidats. La présente annexe détaille la nature et le contenu attendu de ces pièces. Le respect de ces prescriptions est impératif sous peine de rejet du dossier d'inscription.
+Les pièces justificatives nécessaires à la complétude du dossier d'inscription devront être exclusivement déposées au format PDF par les candidats. La présente annexe détaille la nature et le contenu attendu de ces pièces.
+
+Le respect de ces prescriptions est impératif sous peine de rejet du dossier d'inscription.
 
 1. Une copie du justificatif d'identité
 
@@ -28,7 +28,7 @@ Ce justificatif d'identité peut être :
 
 Le justificatif d'identité doit être déposé sous forme d'un fichier unique, regroupant l'ensemble des vues attendues du justificatif.
 
-Le justificatif d'identité numérique attesté « France identité » n'est pas accepté au titre des pièces requises pour la constitution du dossier d'inscription.
+Le justificatif d'identité numérique attesté France identité n'est pas accepté au titre des pièces requises pour la constitution du dossier d'inscription.
 
 2. Un justificatif d'adresse
 
@@ -50,9 +50,9 @@ Le justificatif de domicile doit être déposé sous forme d'un fichier unique, 
 
 3. Un document justifiant sa situation au regard des obligations du service national pour la personne de nationalité française
 
-Ce document est exigé par l'article L. 114-6 du code du service national pour l'inscription des personnes de moins de 25 ans « aux examens et concours soumis au contrôle de l'autorité publique ». Les personnes de plus de 25 ans ne sont pas concernées par le dépôt de cette pièce.
+Ce document est exigé par l'article L. 114-6 du code du service national pour l'inscription des personnes de moins de 25 ans aux examens et concours soumis au contrôle de l'autorité publique . Les personnes de plus de 25 ans ne sont pas concernées par le dépôt de cette pièce.
 
-4. Une copie du récépissé d'attestation du paiement de la redevance réglée au titre de l'inscription à la session d'examen 2025
+4. Une copie du récépissé d'attestation du paiement de la redevance réglée au titre de l'inscription à la session d'examen 2026
 
 Ce récépissé est remis lors du paiement de la redevance dans les dates d'ouverture des inscriptions aux examens du 5 mai au 26 juin 2026. Aucun paiement de la redevance n'est possible en dehors de ces dates.
 
