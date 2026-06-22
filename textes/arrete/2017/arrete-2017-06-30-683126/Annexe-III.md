@@ -1,7 +1,5 @@
 # Article Annexe III
 
-ANNEXE III
-
 ELÉMENTS COMPLÉMENTAIRES DES DOSSIERS DE DEMANDES RELATIVES À UNE AUTORISATION DE MISE SUR LE MARCHÉ SOUMISES À ÉVALUATION SCIENTIFIQUE AU SENS DE L'ARTICLE R. 253-13 DU CODE RURAL ET DE LA PÊCHE MARITIME
 
 A. - PRODUITS PHYTOPHARMACEUTIQUES
@@ -24,9 +22,9 @@ Le dossier est établi en application du règlement (UE) n° 284/2013 susvisé �
 
 - du projet d'étiquette ;
 
-- d'un échantillon ou de la description de l'emballage, du conditionnement en cas de demande d'autorisation pour la gamme d'usages « amateur » ;
+- d'un échantillon ou de la description de l'emballage, du conditionnement en cas de demande d'autorisation pour la gamme d'usages " amateur " ;
 
-- des fiches de données de sécurité du produit, des coformulants et des substances actives, prévues par l'article 31 du règlement (CE) n° 1907/2006 susvisé ;
+- des fiches de données de sécurité du produit, des coformulants et des substances actives, prévues par l' article 31 du règlement (CE) n° 1907/2006 susvisé ;
 
 - de la liste des études pour la protection des données en France conformément à l'article 59 du règlement (CE) n° 1107/2009 susvisé ;
 
@@ -58,9 +56,9 @@ Le dossier est établi en application du règlement (UE) n° 284/2013 susvisé e
 
 - du projet d'étiquette ;
 
-- d'un échantillon ou de la description de l'emballage, du conditionnement en cas de demande d'autorisation pour la gamme d'usages « amateur » ;
+- d'un échantillon ou de la description de l'emballage, du conditionnement en cas de demande d'autorisation pour la gamme d'usages " amateur " ;
 
-- des fiches de données de sécurité du produit, des coformulants et des substances actives, prévues par l'article 31 du règlement (CE) n° 1907/2006 susvisé ;
+- des fiches de données de sécurité du produit, des coformulants et des substances actives, prévues par l' article 31 du règlement (CE) n° 1907/2006 susvisé ;
 
 - de la traduction en français de la décision d'autorisation de mise sur le marché délivrée par l'Etat membre ;
 
@@ -76,9 +74,11 @@ Le dossier est établi en application du règlement (UE) n° 284/2013 susvisé e
 
 - d'une justification de la mise à disposition, sur le site extranet dédié de la Commission européenne, du rapport d'évaluation établi par l'Etat membre ayant délivré l'autorisation de mise sur le marché, ou une copie de ce rapport ;
 
-- des rapports d'études soumis à l'Etat membre ayant évalué la demande.
+- des rapports d'études soumis à l'Etat membre ayant évalué la demande ;
 
-3. Demande de renouvellement de l'autorisation de mise sur le marché suite au renouvellement de l'approbation d'une substance active en application de l'article 43 du règlement (CE) n° 1107/2009 susvisé
+- ainsi que, à l'initiative du demandeur ou à la demande de l'Anses, des informations tenant aux circonstances agronomiques, phytosanitaires et environnementales prévalant sur le territoire national, notamment les données relatives à l'évaluation des résidus de pesticides, qui n'ont pas été prises en compte dans l'évaluation effectuée par cet Etat membre.
+
+3. Demande de renouvellement de l'autorisation de mise sur le marché suite au renouvellement de l'approbation d'une substance active en application de l' article 43 du règlement (CE) n° 1107/2009 susvisé
 
 Le dossier est établi en application du règlement (UE) n° 284/2013 susvisé et comporte les éléments complémentaires suivants :
 
@@ -96,13 +96,13 @@ Le dossier est établi en application du règlement (UE) n° 284/2013 susvisé e
 
 - le projet d'étiquette ;
 
-- un échantillon ou la description de l'emballage, du conditionnement en cas de demande d'autorisation pour la gamme d'usages « amateur » ;
+- un échantillon ou la description de l'emballage, du conditionnement en cas de demande d'autorisation pour la gamme d'usages " amateur " ;
 
-- les fiches de données de sécurité du produit, des coformulants et des substances actives, prévue par l'article 31 du règlement (CE) n° 1907/2006 susvisé ;
+- les fiches de données de sécurité du produit, des coformulants et des substances actives, prévue par l' article 31 du règlement (CE) n° 1907/2006 susvisé ;
 
 - la liste des études pour la protection des données en France conformément à l'article 59 du règlement (CE) n° 1107/2009 susvisé ;
 
-- le formulaire européen de complétude publié sur le site internet de l'Anses, dans la rubrique « Documents d'information pour la constitution de dossiers pour les produits phytopharmaceutiques » ;
+- le formulaire européen de complétude publié sur le site internet de l'Anses, dans la rubrique " Documents d'information pour la constitution de dossiers pour les produits phytopharmaceutiques " ;
 
 - la liste des usages demandés avec les conditions d'emploi conformes aux bonnes pratiques agricoles (BPA/GAP demandées dans la zone) ;
 
@@ -140,7 +140,7 @@ Le dossier est établi conformément au règlement (UE) n° 284/2013 susvisé et
 
 - du projet d'étiquette ;
 
-- de la liste des études pour la protection des données en France conformément à l'article 59 du règlement (CE) n° 1107/2009 susvisé ;
+- de la liste des études pour la protection des données en France conformément à l' article 59 du règlement (CE) n° 1107/2009 susvisé ;
 
 - un dossier technique constitué :
 
@@ -172,7 +172,7 @@ Le dossier est établi conformément au règlement (UE) n° 284/2013 susvisé et
 
 - de la copie de la décision d'autorisation délivrée par l'Etat membre de référence ;
 
-- de la liste des études pour la protection des données en France conformément à l'article 59 du règlement (CE) n° 1107/2009 susvisé ;
+- de la liste des études pour la protection des données en France conformément à l' article 59 du règlement (CE) n° 1107/2009 susvisé ;
 
 - un dossier technique constitué :
 
@@ -184,7 +184,9 @@ Le dossier est établi conformément au règlement (UE) n° 284/2013 susvisé et
 
 - d'une justification de la mise à disposition, sur le site extranet dédié de la Commission européenne, du rapport d'évaluation établi par l'Etat membre ayant autorisé l'usage, ou une copie de ce rapport ;
 
-- des rapports d'études.
+- des rapports d'études soumis à l'Etat membre ayant évalué la demande ;
+
+- ainsi que, à l'initiative du demandeur ou à la demande de l'Anses, des informations tenant aux circonstances agronomiques, phytosanitaires et environnementales prévalant sur le territoire national, notamment les données relatives à l'évaluation des résidus de pesticides, qui n'ont pas été prises en compte dans l'évaluation effectuée par cet Etat membre.
 
 B. - ADJUVANTS
 
@@ -202,7 +204,7 @@ Le dossier comporte les éléments complémentaires suivants :
 
 - du projet d'étiquette ;
 
-- des fiches de données de sécurité de l'adjuvant et des coformulants prévues par l'article 31 du règlement (CE) n° 1907/2006 susvisé ;
+- des fiches de données de sécurité de l'adjuvant et des coformulants prévues par l' article 31 du règlement (CE) n° 1907/2006 susvisé ;
 
 - de la liste des études pour la protection des données en France conformément à l'article 59 du règlement (CE) n° 1107/2009 susvisé ;
 
@@ -230,7 +232,7 @@ Le dossier comporte les éléments complémentaires suivants :
 
 - du projet d'étiquette ;
 
-- des fiches de données de sécurité de l'adjuvant et des coformulants prévue par l'article 31 du règlement (CE) n° 1907/2006 susvisé ;
+- des fiches de données de sécurité de l'adjuvant et des coformulants prévue par l' article 31 du règlement (CE) n° 1907/2006 susvisé ;
 
 - de la traduction en français de la décision d'autorisation délivrée par l'Etat membre de référence ;
 
@@ -262,7 +264,7 @@ Le dossier comporte les éléments complémentaires suivants :
 
 - du projet d'étiquette ;
 
-- des fiches de données de sécurité de l'adjuvant et des coformulants prévue par l'article 31 du règlement (CE) n° 1907/2006 susvisé ;
+- des fiches de données de sécurité de l'adjuvant et des coformulants prévue par l' article 31 du règlement (CE) n° 1907/2006 susvisé ;
 
 - de la liste des études pour la protection des données en France conformément à l'article 59 du règlement (CE) n° 1107/2009 susvisé ;
 
@@ -284,7 +286,7 @@ Le dossier comporte les éléments complémentaires suivants :
 
 - du projet d'étiquette ;
 
-- de la liste des études pour la protection des données en France conformément à l'article 59 du règlement (CE) n° 1107/2009 susvisé ;
+- de la liste des études pour la protection des données en France conformément à l' article 59 du règlement (CE) n° 1107/2009 susvisé ;
 
 - un dossier technique constitué :
 
