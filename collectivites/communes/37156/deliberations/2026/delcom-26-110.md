@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_26_110 — DELIBERATION 2026-110 VENTE DES PARCELLES CADASTREES ZN 54-55 « LES BONNAISSES » A LA TEV
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2026-06-22
+- Matière : 3.2 Domaine et patrimoine/Alienations
+- Objet : DELIBERATION 2026-110 VENTE DES PARCELLES CADASTREES ZN 54-55 « LES BONNAISSES » A LA TEV
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2026/85082/e6d4b7b05a28d33338d9dfae1818c00756a735e85888c432f224d0d888b2257d.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
