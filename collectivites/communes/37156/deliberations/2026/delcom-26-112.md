@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_26_112 — DELIBERATION 2026-112 APPROBATION DU RAPPORT DES ADMINISTRATEURS DE LA SET AMENAGEMENT 2025
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2026-06-22
+- Matière : 8.4 Domaines de competences par themes/Amenagement du territoire
+- Objet : DELIBERATION 2026-112 APPROBATION DU RAPPORT DES ADMINISTRATEURS DE LA SET AMENAGEMENT 2025
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2026/85081/982ec46afb474f8bf5bea9632bf198f210e9b16360a30ae0fb2ee6750dc6a739.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
