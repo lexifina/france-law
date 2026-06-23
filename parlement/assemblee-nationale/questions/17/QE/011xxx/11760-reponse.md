@@ -1,0 +1,9 @@
+# Réponse à la question n° 11760
+
+- Question : [11760](11760.md) — Question n° 11760 — Utilisation de l'ENT et place du numérique dans les établissements scolaires
+
+## Réponse
+
+*JO du 2026-06-23, page 5701*
+
+La circulaire du 10 juillet 2025 pour un numérique raisonné à l'École définit une stratégie globale d'apaisement numérique articulée autour de quatre axes : l'éducation au numérique, le droit à la déconnexion, l'interdiction du téléphone portable au collège (dispositif « Portable en pause ») et l'accompagnement des familles. Elle répond à des enjeux éducatifs, de santé et d'équilibre des temps de vie. Dans ce cadre, les mises à jour des espaces numériques de travail (ENT) et des logiciels de vie scolaire sont suspendues le soir et le week-end, conformément aux recommandations de la commission « enfants et écrans » et de l'inspection générale de l'éducation, du sport et de la recherche. Cette exigence est désormais juridiquement opposable grâce au décret n° 2025-1165 du 5 décembre 2025, qui engage la responsabilité des chefs d'établissement et des éditeurs de services numériques dans le respect effectif du droit à la déconnexion des élèves et des familles. Concrètement, la doctrine technique publiée en septembre 2025 impose un paramétrage par défaut suspendant notifications et sollicitations entre 20 h et 7 h en semaine ainsi que le week-end, tout en maintenant l'accès aux services en consultation. Chaque établissement conserve la possibilité d'ajuster ces règles selon ses besoins spécifiques ou en cas d'urgence. Un délai de mise en conformité a été accordé aux éditeurs : plusieurs solutions proposent déjà des fonctionnalités conformes depuis la rentrée 2025, et l'ensemble devra l'être à la rentrée 2026. Enfin, la stratégie du numérique pour l'éducation 2023-2027, actualisée en décembre 2025, prévoit une évaluation systématique des services numériques éducatifs, notamment par la recherche.
