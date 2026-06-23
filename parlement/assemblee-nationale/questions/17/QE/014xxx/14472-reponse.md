@@ -1,0 +1,9 @@
+# Réponse à la question n° 14472
+
+- Question : [14472](14472.md) — Question n° 14472 — Conditions de présentation des épreuves anticipées et terminales du baccalauréat
+
+## Réponse
+
+*JO du 2026-06-23, page 5711*
+
+La possibilité pour les candidats de passer toutes les épreuves du baccalauréat en un an, qu'ils soient scolaires ou individuels, est prévue à l'article 3 de l'arrêté du 16 juillet 2018 relatif aux épreuves anticipées du baccalauréat général et du baccalauréat technologique. Les différents cas autorisant de présenter toutes les épreuves en un an sont au nombre de onze : être âgé d'au moins 20 ans au 31 décembre de l'année de l'examen (il est possible d'avoir 19 ans au moment des épreuves) ; avoir un enfant à charge au moment de l'inscription ; être de retour en formation initiale ; n'avoir pas pu passer les épreuves anticipées l'année précédente pour une raison justifiée ; résider à l'étranger au moment de la classe de première ; résider à l'étranger trop loin d'un centre d'examen ; après un échec au baccalauréat ; avoir passé les épreuves anticipées et ne pas s'être inscrit au baccalauréat l'année suivante ; être déjà titulaire d'un baccalauréat ; être titulaire d'un diplôme étranger d'un niveau comparable au baccalauréat ; avoir changé de voie ou de série au niveau de la classe terminale. Toutes ces configurations couvrent l'ensemble des occurrences où le passage des épreuves sur deux années successives pourrait être pénalisant. Dans le cas d'un candidat très jeune non scolarisé, il lui faudrait en effet prendre en compte que son inscription aux épreuves sera étalée sur deux années, sachant qu'aucune contrainte ne pèse sur l'âge de l'année de présentation des épreuves anticipées. De ce fait, il n'y a guère d'autres cas dans lesquels il pourrait être possible et pertinent de prévoir une exemption à la règle qui répartit les épreuves terminales sur deux années.
