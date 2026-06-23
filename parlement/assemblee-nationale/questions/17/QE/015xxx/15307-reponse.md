@@ -1,0 +1,9 @@
+# Réponse à la question n° 15307
+
+- Question : [15307](15307.md) — Question n° 15307 — PLF 2026 - Conséquences pour les ETA du crédit d'impôt accordé aux CUMA
+
+## Réponse
+
+*JO du 2026-06-23, page 5695*
+
+Les entreprises de travaux agricoles (ETA) contribuent pleinement à la vitalité de l'écosystème agricole. Ainsi, les modalités d'organisation définies par le projet de loi de finances (PLF) pour 2026 n'ont pas vocation à nier le rôle des ETA auprès des exploitants agricoles du pays. À cet égard, depuis 1979, les exploitants agricoles bénéficient d'une exonération des plus-values réalisées lors de la cession de matériels agricoles. Dans ce contexte, l'objectif de l'amendement déposé par le Gouvernement et répondant à des demandes formulées par plusieurs parlementaires est de mettre en place un dispositif incitatif similaire pour les coopératives d'utilisation de matériel agricole (CUMA), qui correspondait aux avantages fiscaux d'ores et déjà existants, afin d'encourager le recours commun aux machines agricoles par les exploitations. De fait, l'instauration de ce crédit d'impôt constitue une contrepartie, voire une généralisation, du dispositif fiscal susmentionné et qui existe déjà pour les exploitations agricoles individuelles. Cette mesure répond également à un enjeu écologique en limitant le recours excessif aux machines agricoles et en privilégiant leur mise en commun. En outre, la différence de statut entre les CUMA et les ETA est aussi à prendre en compte : les CUMA étant des coopératives, il existe un retour plus direct au bénéfice des agriculteurs associés coopérateurs. Cependant, les services du ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire ont reçu les représentants de la profession afin d'évoquer l'intégration des ETA à ce dispositif et qu'il soit étudié dans le cadre de la préparation du PLF pour 2027.
