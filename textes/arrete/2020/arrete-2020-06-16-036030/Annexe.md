@@ -1,7 +1,5 @@
 # Article Annexe
 
-ANNEXE
-
 LISTE DES OPÉRATIONS DE RESTRUCTURATION ET MODALITÉS DE MISES EN ŒUVRE
 
 Désignation de l'opération |
@@ -983,3 +981,31 @@ Service concerné :
 Antenne judiciaire de l'ONAF de Dijon. |
 
 Du 1er mars 2026 au 28 février 2027 |
+
+Opération :
+
+Transformation de la brigade hors rang (BHR) de la direction Paris-aéroports en service courrier-accueil.
+
+Service concerné :
+
+Paris-aéroports BHR.
+
+Agents concernés :
+
+Les agents de la branche surveillance de la BHR Paris-aéroports.
+
+|
+
+Du 1er juillet 2026 au 31 août 2027 |
+
+Opération :
+
+Fermeture de l'antenne de Koné et redéploiement des effectifs vers la BSE de Tontouta.
+
+Service concerné :
+
+Antenne de Koné.
+
+|
+
+Du 1er juillet 2026 au 31 août 2027 |
