@@ -1,0 +1,9 @@
+# CC VIERZON-SOLOGNE-BERRY : délibération ANNEXESDEL26203 — DELIBERATION DEL26/203 DU 25/06/2026 PARTICIPATION MINORITAIRE AU CAPITAL DE LA SOCIETE CAS DES MAUBLOTTIES ANNEXES 1 ET 2
+
+- Collectivité : CC VIERZON-SOLOGNE-BERRY
+- SIREN : 200090561
+- Date : 2026-06-25
+- Matière : 9.1 Autres domaines de competences/Autres domaines de competences des communes
+- Objet : DELIBERATION DEL26/203 DU 25/06/2026 PARTICIPATION MINORITAIRE AU CAPITAL DE LA SOCIETE CAS DES MAUBLOTTIES ANNEXES 1 ET 2
+- Acte publié : https://publication-actes.fr/OpenData/200090561/Deliberation/2026/90649/a1370502e143c1fb31003aee919d2579bebde73300aea31eeef4c903c113cfbc.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
