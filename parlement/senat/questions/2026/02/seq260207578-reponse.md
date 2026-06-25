@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260207578
+
+- Question : [SEQ260207578](seq260207578.md) — Avenir des plans locaux pour l'insertion et l'emploi et gestion territorialisée des fonds européens d'insertion
+
+## Réponse
+
+*Travail et solidarités, JO du 2026-06-25, page 3190*
+
+Le ministère du travail et des solidarités est conscient du rôle déterminant et reconnu des Plans locaux pour l'insertion et l'emploi (PLIE) dans les territoires, notamment dans l'accompagnement des publics les plus éloignés du marché du travail à travers la mise en oeuvre du Fonds social européen plus (FSE+). La programmation 2021-2027 du FSE+ et du Fonds de transition juste (FTJ) repose sur des enveloppes fermées attribuées à la France, réparties entre chaque autorité de gestion et services déconcentrés dès le début de la période. C'est dans ce contexte de cadre financier contraint que les services déconcentrés, dont ceux des Hauts-de-France, ont organisé la délégation de crédits aux Organismes intermédiaires (OI) tels que les PLIE. S'agissant du FTJ, l'Etat a initialement fait le choix, dans un souci de simplification, d'une délégation de crédits limités aux conseils départementaux du Nord et du Pas-de-Calais. Les PLIE des territoires concernés ont toutefois pu bénéficier de crédits FTJ dès le lancement de la programmation via des appels à projets qui leur étaient réservés. En 2026, compte tenu de l'avancement de la programmation et des besoins exprimés, une évolution a été actée avec la délégation directe de crédits FTJ à trois OI PLIE. Par ailleurs, concernant l'avenir de la politique de cohésion après 2027, la France est attachée à garantir le rôle des territoires dans la mise en oeuvre d'une partie des fonds. Cette approche, favorisant une meilleure adéquation des projets aux spécificités et aux besoins de chaque territoire, est défendue dans le cadre des négociations européennes en cours.
