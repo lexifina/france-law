@@ -1,0 +1,9 @@
+# Réponse à la question SEQ251207006
+
+- Question : [SEQ251207006](seq251207006.md) — Rallyes automobiles sur route
+
+## Réponse
+
+*Intérieur , JO du 2026-06-25, page 3170*
+
+Depuis sa création, il y a quarante-six ans, aucune victime n'a jamais été à déplorer lors du rallye du Pays de l'Avallonnais, même lors de l'édition 2024 marquée par une sortie de route de l'un des participants en raison d'essence déversée de manière malveillante sur le parcours de l'une des spéciales. Le ministre de l'intérieur n'entend pas se prononcer sur l'organisation des éditions 2024 et 2025, dès lors que les recours formés devant le tribunal administratif de Dijon sont toujours pendants. En tout état de cause, cette manifestation sportive fait l'objet chaque année d'une attention toute particulière de la part de la sous-préfecture d'Avallon et son organisation respecte strictement les dispositions des articles R. 331-20 et R. 331-26 du code du sport. En ce qui concerne l'édition 2026, celle-ci a été autorisée par le préfet après avis favorable de l'unanimité des membres de la commission départementale de sécurité routière qui s'est réunie le 10 février 2026 et qui a vérifié notamment que le circuit répondait aux caractéristiques minimales imposées par les règles techniques et de sécurité. En outre, le compte rendu de cette instance identifie précisément les six zones « publics » rubalisées, seules zones accessibles aux spectateurs ainsi que les mesures requises qui ont été mises en oeuvre pour assurer la sécurité de ces zones. Enfin, il est précisé que les organisateurs des rallyes qui ne respecteraient pas les prescriptions figurant dans l'autorisation administrative qui leur a été délivrée seraient passibles de la contravention de la cinquième classe prévue à l'article R. 331-45 du code du sport. Dans ces conditions, il n'apparaît pas nécessaire de faire évoluer la réglementation en la matière.
