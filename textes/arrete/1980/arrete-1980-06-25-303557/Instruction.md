@@ -6,7 +6,7 @@ d'installations particulières
 
 Le règlement de sécurité contre les risques d'incendie et de panique dans les établissements recevant du public et le règlement de sécurité pour la construction des immeubles de grande hauteur et leur protection contre les risques d'incendie et de panique prévoient, chacun en ce qui le concerne, que dans certains cas de figure, la mise en place d'installations techniques particulières soit soumise au respect de règles spécifiques.
 
-La présente instruction technique, qui abroge les notes d'informations techniques n° 236 du 31 août 1979, n° 244 du 18 mai 1981 et n° 251 du 27 février 1987, a pour objet de définir les règles minimales liées à ces installations techniques particulières et aux machines à effets utilisées aux fins de créer des effets ou des ambiances spéciales en présence du public.
+La présente instruction technique, qui abroge les notes d'informations techniques n° 236 du 31 août 1979Vous pouvez consulter le tableau dans le JO n° 39 du 16 / 02 / 2010 texte numéro 9, n° 244 du 18 mai 1981 et n° 251 du 27 février 1987, a pour objet de définir les règles minimales liées à ces installations techniques particulières et aux machines à effets utilisées aux fins de créer des effets ou des ambiances spéciales en présence du public.
 
 Toute autre machine à effets mise en place dans un établissement recevant du public pouvant engendrer un risque pour le public fait l'objet d'une demande d'autorisation conformément à l'article GN 6 du règlement de sécurité.
 
@@ -44,11 +44,15 @@ Chapitre 4 :
 
 Définition des mesures relatives aux machines à effets dites " lasers ".
 
-4. 1. Dispositions concernant les caractéristiques de la machine à effets dite " laser ".
+4.1. Définitions.
 
-4. 2. Dispositions visant l'installation, l'utilisation et les mesures à prendre par les exploitants de lasers.
+4.2. Dispositions concernant les caractéristiques des appareils à laser.
 
-4. 3. Dispositions complémentaires visant l'installation, l'utilisation et les mesures à prendre par les exploitants de lasers en extérieur.
+4.3. Installation et utilisation des appareils à lasers.
+
+4.4. Mesures à prendre par les organisateurs.
+
+4.5. Dispositions complémentaires visant les lasers en plein air.
 
 Chapitre 1er
 
@@ -202,107 +206,83 @@ Le générateur de fumée est sous la surveillance d'un opérateur notamment cha
 
 Si l'établissement est équipé d'un système de détection automatique d'incendie, les détecteurs automatiques d'incendie sont insensibles aux effets de la machine ou adaptés aux conditions particulières d'exploitation.
 
-Chapitre 4
+Chapitre IV
 
-Définition des mesures
+Définition des mesures relatives aux machines à effets dites “lasers”
 
-relatives aux machines à effets dites " lasers "
+En complément du décret n° 2007-665 du 2 mai 2007 modifié relatif à la sécurité des appareils à laser sortant et en application du décret n° 2015-1083 du 27 août 2015 relatif à la mise à disposition sur le marché du matériel électrique destiné à être employé dans certaines limites de tension, les dispositions suivantes sont prises.
 
-En complément du décret n° 2007-665 du 2 mai 2007 relatif à la sécurité des appareils à laser sortant, les dispositions suivantes sont prises.
-
-Généralités :
-
-Le laser (Amplification de lumière par émission stimulée de rayonnement) est un dispositif susceptible de produire ou d'amplifier des rayonnements électromagnétiques de longueur d'onde correspondant aux rayonnements optiques, essentiellement par le procédé de l'émission stimulée contrôlée.
+Le laser (amplification de lumière par émission stimulée de rayonnement) est un dispositif susceptible de produire ou d'amplifier des rayonnements électromagnétiques de longueur d'onde correspondant aux rayonnements optiques, essentiellement par le procédé de l'émission stimulée contrôlée.
 
 Outre les effets secondaires qui sont dus aux conditions de fonctionnement et les risques d'incendie et de brûlures, le danger essentiel causé par ces dispositifs provient de l'illumination. Les effets sur l'œil sont fonction des caractéristiques du laser, de la distance de ce dernier à l'œil et de facteurs liés aux propriétés des différents milieux de l'œil. Ce danger est considérablement accru si le rayonnement est concentré sur une toute petite surface, c'est pourquoi les effets sur l'œil constituent les risques les plus importants liés aux utilisations des lasers.
 
-Dans la suite du présent chapitre, conformément à l'article 2 du décret susnommé on entend par " appareil à laser " tout appareil ou toute combinaison de composants qui constitue, incorpore ou est destiné à incorporer un laser ou un système à laser.
+Les dispositions de la présente instruction visent à prévenir et limiter les risques liés à l'utilisation de lasers dans les établissements recevant du public, qu'il s'agisse de protéger les personnes présentes dans l'établissement contre les effets directs du faisceau ou de limiter les risques indirects pour les personnes situées à l'extérieur. Dans le dernier cas, il s'agit par exemple de risque de chute ou d'accident suite à un éblouissement. Sont ainsi notamment concernées les personnes circulant aux abords de l'établissement (piétons, cyclistes, conducteurs, etc.), les riverains et occupants d'immeubles avoisinants, les travailleurs en hauteur ou encore le trafic aérien.
 
-Le rayonnement d'un laser est dit fixe lorsque le faisceau émis est rectiligne et statique ; il est alors appelé " tir laser " dans le présent chapitre.
+4.1. Définitions
 
-Le rayonnement d'un laser est dit par balayage lorsque le faisceau émis est en permanence en mouvement.
+Appareil à laser : conformément à l'article 2 du décret susnommé, le terme “appareil à laser” utilisé dans le présent chapitre désigne tout appareil ou toute combinaison de composants qui constitue, incorpore ou est destiné à incorporer un laser ou un système à laser.
 
-4. 1. Dispositions concernant les caractéristiques de l'appareil à laser.
+Tir laser : le rayonnement d'un laser est dit fixe lorsque le faisceau émis est rectiligne et statique ; il est alors appelé “tir laser” dans le présent chapitre.
 
-Seul l'appareil à laser émettant uniquement dans le domaine spectral visible (400 à 700 nanomètres) peut être utilisé pour créer des effets lumineux dans les locaux accessibles au public et en présence de ce dernier.
+Rayonnement laser par balayage : dans le présent chapitre, le rayonnement d'un laser est dit par balayage lorsque le faisceau émis est en permanence en mouvement.
 
-En raison de l'étendue des valeurs possibles pour la longueur d'onde, l'énergie et les caractéristiques d'impulsion d'un faisceau laser, les risques causés par leur utilisation sont très variables.
+Exposition maximale permise (EMP) : l'EMP est définie comme étant le niveau du rayonnement laser auquel des personnes peuvent être exposées dans les conditions normales sans subir d'effets nuisibles.
 
-Les lasers sont classés par niveau de risque croissant de 1 à 4 selon la norme CEI 60825-1 (2007).
+Distance nominale de risque oculaire (DNRO) : la DNRO est une caractéristique du faisceau laser qu'il est nécessaire de connaître pour procéder à une évaluation fine du risque que présente une installation. Cette grandeur correspond à la distance, dans la zone d'émission du laser, à partir de laquelle le niveau du rayonnement laser est égal à l'EMP.
 
-Les classes 1 et 2 qui sont sans danger dans les conditions normales d'utilisation.
+4.2. Dispositions concernant les caractéristiques des appareils à laser
 
-La classe 3 susceptible d'être dangereuse dans certaines conditions.
+Seul l'appareil à laser émettant uniquement dans le domaine spectral visible (400 à 700 nanomètres) peut être utilisé pour créer des effets lumineux dans les locaux accessibles au public et en présence de ce dernier. En raison de l'étendue des valeurs possibles pour la longueur d'onde, l'énergie et les caractéristiques d'impulsion d'un faisceau laser, les risques causés par leur utilisation sont très variables.
 
-La classe 4 dont l'utilisation requiert des précautions rigoureuses.
+Les lasers conformes aux normes NF EN 60825-1 : 2014 et NF EN 60825-1/A11 : 2021 qui sont présumés satisfaire aux objectifs de sécurité mentionnés à l'article 3 du décret n° 2015-1083 du 27 août 2015 relatif à la mise à disposition sur le marché du matériel électrique destiné à être employé dans certaines limites de tension, sont classés par niveau de risque croissant de 1 à 4 :
+
+- les classes 1, 1M, 1C, 2 et 2M qui sont sans danger dans les conditions normales d'utilisation lors de spectacles. Des dangers oculaires sont possibles pour d'autres utilisations notamment de certains instruments optiques. Des éblouissements sont possibles pour les classes 2 et 2M avec un risque pour les conducteurs en particulier lors d'un faible niveau d'éclairage ambiant ;
+
+- la classe 3R avec des rayonnements pouvant dépasser l'EMP pour une vision directe dans le faisceau, mais le risque de lésion dans la plupart des cas est relativement faible ;
+
+- la classe 3B avec des rayonnements dangereux lorsque l'exposition oculaire dans le faisceau se produit (à l'intérieur de la DNRO), y compris une exposition de courte durée accidentelle. La vision de réflexions diffuses est normalement sans danger ;
+
+- la classe 4, appareils à laser pour lesquels la vision dans le faisceau est dangereuse, et pour lesquels la vision de réflexions diffuses peut également être dangereuse.
 
 Cette classe figure très clairement sur l'appareil avec notamment le chiffre et le pictogramme correspondant à cette dernière.
 
-Les appareils à lasers sont conformes à la norme NF EN 60825-1 (janvier 2008) ou tout autre système équivalent permettant de satisfaire aux mêmes exigences.
+Les appareils à laser sont conçus et fabriqués de façon à prévenir tout risque pour la santé et la sécurité des personnes résultant de l'exposition aux rayonnements optiques. Les appareils conformes aux normes NF EN 60825-1 : 2014 et NF EN 60825-1/A11 : 2021 sont présumés satisfaire à ces exigences.
 
-4. 2. Dispositions visant l'installation, l'utilisation et les mesures à prendre par les exploitants d'appareils à lasers.
+Les lasers de classe 3B et 4 disposent d'un connecteur de verrouillage à distance.
 
-Les appareils à lasers de classe 3 et 4, utilisables exclusivement en plein air, sont mis en œuvre par un technicien compétent et formé aux risques spécifiques des lasers et accompagnés d'une notice conformément à l'article 4 du décret susmentionné.
+Tout appareil à laser comportant un système de balayage est équipé d'un dispositif de sécurité intrinsèque permettant l'interruption immédiate de l'émission du faisceau en cas de défaillance, notamment en cas de perte de signal de commande, d'arrêt du système de balayage ou de coupure d'alimentation électricité.
 
-4. 2. 1. Installation.
+4.3. Installation et utilisation des appareils à lasers
 
-A l'intérieur de la zone réservée au public, aucun " tir laser " n'est admis en direction du public, quelle que soit la classe du laser, sauf si un périmètre d'exclusion du public de 5 mètres de rayon, matérialisé, est mis en place.
+Les lasers de classes 1, 1M, 1C, 2, 2M et 3R peuvent être mis en œuvre dans des zones occupées par le public. L'organisateur du spectacle s'assure que le public n'est pas soumis à un niveau de rayonnement supérieur à l'EMP. L'absence de personne (public, personnel non formé ou toute personne tiers) dans la zone délimitée par la DNRO permet de répondre à cette exigence.
 
-La zone dite " zone réservée au public " est définie par l'espace situé jusqu'à 3 mètres au-dessus de la surface occupée par le public et sur une bande de 2, 5 mètres autour de cette dernière. La zone réservée au public est matérialisée au sol.
+Les artistes sont, par défaut, assimilés à du personnel non formé. Leur présence dans la zone délimitée par la DNRO ne peut être autorisée que s'ils ont bénéficié d'une formation spécifique, adaptée aux risques auxquels ils sont exposés. En outre, une attention particulière est portée sur leurs tenues et leurs accessoires afin d'éviter tout risque de réflexion accidentelle des faisceaux laser.
 
-Dans la zone réservée au public, seul est admis un rayonnement par balayage effectué dans les conditions fixées par le rapport technique international sur la sécurité des appareils à laser CEI / TR 60825-3 (mars 2008).
+Les lasers de classes 3B et 4 peuvent être mis en œuvre dans des zones occupées par du public dans les conditions suivantes :
 
-4. 2. 2. Utilisation.
+a) L'installation et les réglages sont réalisés de manière à prévenir toute exposition dangereuse du public aux rayonnements laser. La mise en œuvre conforme au rapport technique international IEC TR 60825-3 : 2022 est réputée satisfaire à ces exigences ;
 
-L'appareil à laser est hors de portée du public et au minimum :
+b) Aucun “tir laser” n'est admis en direction des personnes, qu'il s'agisse du public ou du personnel ;
 
-- à 3 mètres au-dessus du sol accessible au public ; ou
+c) Le “tir laser” est effectué à l'extérieur d'une zone dite “zone réservée au public”, définie par l'espace situé à plus de 3 mètres au-dessus de la surface occupée par le public et sur une bande de 2,5 mètres autour de cette dernière ;
+
+d) Toutes dispositions sont prises pour éviter les réflexions parasites, par exemple par l'emploi de matériaux mats, et non réfléchissants aux longueurs d'onde considérées ;
+
+e) Lorsque des personnes (public ou personnel) peuvent être présentes dans une sphère centrée sur l'appareil à laser et de rayon égal à sa DNRO, l'appareil à laser est hors de portée du public et du personnel non formé, et au minimum :
+
+- à 3 mètres au-dessus du sol accessible au public ou au personnel non formé ; ou
 
 - protégé par un périmètre de sécurité de 5 mètres de rayon.
 
 L'appareil à laser et son dispositif de déviation optique éventuel sont contenus dans un boîtier clos posé de telle manière qu'il ne puisse pas être déplacé sous l'effet de perturbations telles que des mouvements de foule, des vibrations ou des rafales de vent. Le faisceau ne peut sortir de ce boîtier qu'à travers des orifices dont la forme et la position limiteront rigoureusement l'excursion du faisceau à l'espace qu'il est autorisé à balayer.
 
-Toutes dispositions sont prises pour éviter les réflexions parasites, par exemple par l'emploi de matériaux mats, et non réfléchissants aux longueurs d'onde considérées.
+4.4. Mesures à prendre par les organisateurs
 
-L'installation et les réglages respectent les dispositions fixées par le rapport technique international sur la sécurité des appareils à laser CEI / TR 60825-3 (mars 2008).
+L'organisateur peut, sous sa seule responsabilité, mettre en œuvre un appareil à laser de classe 1, 1M, 1C, 2, 2M ou 3R.
 
-4. 2. 3. Mesures à prendre par les exploitants.
+Les lasers de classes 3B et 4 font l'objet d'un dossier d'autorisation soumis à l'avis conforme de la commission de sécurité compétente, démontrant que le spectacle laser est conforme aux dispositions de la présente instruction technique. Le dossier de demande d'autorisation, déposé au titre de l'article GN 6 du règlement de sécurité contre l'incendie relatif aux établissements recevant du public, comprend :
 
-L'exploitant peut, sous sa seule responsabilité, mettre en œuvre un appareil à laser de classe 1 ou 2.
-
-L'exploitant s'assure qu'un appareil à laser de classe 3 et 4 est mis en œuvre par un technicien compétent et formé aux risques spécifiques des lasers, qui est présent pendant toute la durée de l'animation et est en mesure de l'arrêter immédiatement.
-
-Aucune réparation d'un appareil à laser, nouveau réglage ou correction de faisceau n'est effectuée pendant la présence du public.
-
-Si l'établissement est équipé d'un système de détection automatique d'incendie, les détecteurs automatiques d'incendie sont insensibles aux effets de la machine ou adaptés aux conditions particulières d'exploitation.
-
-4. 3. Dispositions complémentaires visant l'installation, l'utilisation et les mesures à prendre par les exploitants d'appareils à laser en extérieur.
-
-4. 3. 1. installation.
-
-Les dispositions du paragraphe 4. 2 sont applicables quel que soit le mode de rayonnement utilisé et pour les lasers de la classe 3 et 4.
-
-De plus, pour les tirs laser en extérieur, ces dispositions sont complétées par les points suivants :
-
-- les tirs laser doivent être effectués dans un cône vertical de demi-angle au sommet égal à 30° (fig. 1) ;
-
-- les tirs lasers doivent être dirigés sur une cible fixe, opaque, en matériaux A1 et non réfléchissante, pour tout rayon formant un angle supérieur à 30° par rapport à la verticale (fig. 2). Si le rayon est dévié, il doit être contenu dans un cône dont l'axe est le rayon au repos et de demi-angle au sommet égal à 15° (fig. 3) ;
-
-- dans les autres cas, les tirs lasers doivent faire l'objet d'une demande d'autorisation avec fourniture d'un dossier définissant les conditions d'utilisation du dispositif.
-
-Vous pouvez consulter le tableau dans le JO n° 39 du 16 / 02 / 2010 texte numéro 9
-
-(Fig. 1 : tirs omnidirectionnels libres dans le cône vertical de demi-angle au sommet égal à 30° ; S = source du laser).
-
-Vous pouvez consulter le tableau dans le JO n° 39 du 16 / 02 / 2010 texte numéro 9
-
-(Fig. 2 : tirs sur cible matérielle fixe opaque et non réfléchissante pour tout rayon formant un angle (supérieure à 30° ; S = source du laser ; C1, C2, C3 = cibles fixes opaque et non réfléchissantes).
-
-Vous pouvez consulter le tableau dans le JO n° 39 du 16 / 02 / 2010 texte numéro 9
-
-(Fig 3 : tirs sur cible matérielle fixe opaque et non réfléchissante avec déviation du rayon ; S = source du laser ; C1, C2, C3 = cibles fixes opaques et non réfléchissantes)
-
-Ce dossier, déposé quinze jours au moins avant la manifestation ou l'activité auprès de la préfecture compétente doit comporter les rubriques suivantes :
+a) Les informations générales relatives à la manifestation ou de l'activité :
 
 - lieu et nature de la manifestation ou de l'activité ;
 
@@ -312,10 +292,54 @@ Ce dossier, déposé quinze jours au moins avant la manifestation ou l'activité
 
 - lieu et heures d'utilisation des appareils à laser ;
 
-- classification des appareils à laser utilisés ;
+b) Une notice explicative ;
 
-- plan du site avec indication de la zone réservée au public et de toutes les distances de sécurité et décrivant le tir laser avec sa direction ;
+c) Le nom et les coordonnées du responsable de sécurité laser (personne possédant les connaissances nécessaires pour évaluer et contrôler les dangers présentés par les lasers et qui est responsable de la supervision du contrôle de ces dangers) ;
 
-- nom et coordonnées de la personne responsable sur les lieux de la manifestation ou de l'activité.
+d) Une notice technique indiquant les classes des lasers et leur DNRO et les éventuelles mesures de protection intrinsèques du matériel ;
 
-Selon le lieu géographique choisi pour réaliser des tirs libres, le préfet ayant reçu la demande d'autorisation sollicite l'avis des autorités aéronautiques et / ou maritimes (délégué territorial de l'aviation civile, préfet maritime) pour les tirs susceptibles de traverser l'espace aérien et / ou maritime navigable.
+e) Les mesures mises en œuvre permettant de garantir que personne n'est soumis à un niveau de rayonnement supérieur à l'EMP ;
+
+f) Un jeu de plans et de coupes côtés, adaptés à l'usage et faisant apparaitre la zone d'émission des lasers ;
+
+g) La position des différentes personnes.
+
+L'organisateur s'assure qu'un appareil à laser de classe 3B et 4 est mis en œuvre par un technicien compétent et formé aux risques spécifiques des lasers utilisés, qui est présent pendant toute la durée de l'animation et est en mesure de l'arrêter immédiatement.
+
+L'exploitation des lasers et les effets associés doivent être compatibles avec l'ensemble des installations techniques et de sécurité de l'établissement, de manière à ne pas altérer leur fonctionnement ni compromettre leur efficacité.
+
+4.5. Dispositions complémentaires visant les lasers en plein air
+
+L'organisateur du spectacle s'assure qu'aucune cible extérieure au spectacle (personne, immeuble, etc.) n'est soumis à un niveau de rayonnement supérieur à l'EMP. L'absence de toute cible tiers dans la zone délimitée par la DNRO permet de répondre à cette exigence.
+
+En complément des dispositions des paragraphes 4.3 et 4.4, les tirs laser en extérieur respectent les dispositions suivantes :
+
+a) Les tirs laser sont effectués dans un cône vertical de demi-angle au sommet égal à 30° (fig. 1) ;
+
+b) Les tirs lasers sont dirigés sur une cible fixe, opaque, en matériaux A1 et non réfléchissante, pour tout rayon formant un angle supérieur à 30° par rapport à la verticale (fig. 2). Si le rayon est dévié, il est contenu dans un cône dont l'axe est le rayon au repos et de demi-angle au sommet égal à 15° (fig. 3).
+
+En outre, le dossier de demande d'autorisation comporte les éléments nécessaires à l'évaluation des risques pour la navigation aérienne. A ce titre, il comprend :
+
+a) La valeur de zone d'exposition dangereuse (SZED) des lasers utilisés, définie comme étant le volume de l'espace dans lequel l'exposition au rayonnement laser est susceptible de dépasser l'EMP ;
+
+b) Les coordonnées géographiques (GPS) du point d'émission ou, en cas de pluralité de sources, des points extrêmes d'émission ;
+
+c) L'altitude du ou des points d'émission par rapport au niveau moyen de la mer ;
+
+d) Pour chaque faisceau, l'azimut des limites latérales des émissions, ainsi que l'angle maximal d'émission dans le plan vertical par rapport au plan horizontal ;
+
+e) Le cas échéant, la description des mouvements des faisceaux, en précisant les enveloppes angulaires correspondantes.
+
+Selon le lieu géographique choisi pour réaliser des tirs libres, le préfet ayant reçu la demande d'autorisation mentionnée au paragraphe 4.4 sollicite l'avis des autorités aéronautiques et/ou maritimes (direction de la sécurité de l'aviation civile interrégionale, préfet maritime) pour les tirs susceptibles de traverser l'espace aérien et/ou maritime navigable.
+
+Vous pouvez consulter le tableau dans le JO n° 39 du 16 / 02 / 2010 texte numéro 9
+
+(Fig. 1 : tirs omnidirectionnels libres dans le cône vertical de demi-angle au sommet égal à 30° ; S = source du laser).
+
+Vous pouvez consulter le tableau dans le JO n° 39 du 16 / 02 / 2010 texte numéro 9
+
+(Fig. 2 : tirs sur cible matérielle fixe opaque et non réfléchissante pour tout rayon formant un angle (θ) supérieure à 30°; S = source du laser ; C1, C2, C3 = cibles fixes opaque et non réfléchissantes).
+
+Vous pouvez consulter le tableau dans le JO n° 39 du 16 / 02 / 2010 texte numéro 9
+
+(Fig 3 : tirs sur cible matérielle fixe opaque et non réfléchissante avec déviation du rayon ; S = source du laser ; C1, C2, C3=cibles fixes opaques et non réfléchissantes).
