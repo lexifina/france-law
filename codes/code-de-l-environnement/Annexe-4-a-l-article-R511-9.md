@@ -2746,7 +2746,7 @@ D
 
 |
 
-Combustion à l'exclusion des activités visées par les rubriques 2770,2771,2971 ou 2931 et des installations classées au titre de la rubrique 3110 ou au titre d'autres rubriques de la nomenclature pour lesquelles la combustion participe à la fusion, la cuisson ou au traitement, en mélange avec les gaz de combustion, des matières entrantes
+Combustion à l'exclusion des activités visées par les rubriques 2770, 2771, 2971 ou 2931 et des installations classées au titre de la rubrique 3110 ou au titre d'autres rubriques de la nomenclature pour lesquelles la combustion participe à la fusion, la cuisson ou au traitement, en mélange avec les gaz de combustion, des matières entrantes
 
 |
 
@@ -2754,7 +2754,7 @@ Combustion à l'exclusion des activités visées par les rubriques 2770,2771,297
 
 |
 
-A. Lorsque sont consommés exclusivement, seuls ou en mélange, du gaz naturel, des gaz de pétrole liquéfiés, du biométhane, du fioul domestique, du charbon, des fiouls lourds, de la biomasse telle que définie au a) ou au b) i) ou au b) iv) de la définition de la biomasse, des produits connexes de scierie et des chutes du travail mécanique de bois brut relevant du b) v) de la définition de la biomasse, de la biomasse issue de déchets au sens de l'article L. 541-4-3 du code de l'environnement, ou du biogaz provenant d'installations classées sous la rubrique 2781-1, si la puissance thermique nominale totale de l'installation de combustion (*) est :
+A. Lorsque sont consommés exclusivement, seuls ou en mélange, du gaz naturel, des gaz de pétrole liquéfiés, du biométhane, du fioul domestique, du charbon, des fiouls lourds, de la biomasse telle que définie au a) ou au b) i) ou au b) iv) de la définition de la biomasse, des produits connexes de scierie et des chutes du travail mécanique de bois brut relevant du b) v) de la définition de la biomasse, de la biomasse issue de déchets au sens de l'article L. 541-4-3 du code de l'environnement, du biogaz provenant d'installations classées sous la rubrique 2781-1, des esters méthyliques d'acides gras fabriqués à partir d'huiles végétales, ou des alcanes obtenus par hydrotraitement d'huiles végétales, d'huiles alimentaires usagées ou de graisses animales, si la puissance thermique nominale totale de l'installation de combustion (*) est :
 
 |
 
@@ -2784,7 +2784,7 @@ DC
 
 |
 
-B. Lorsque sont consommés seuls ou en mélange des produits différents de ceux visés en A, ou de la biomasse telle que définie au b) ii) ou au b) iii) ou au b) v) de la définition de la biomasse :
+B. Lorsque sont consommés seuls ou en mélange des produits différents de ceux visés en A, ou de la biomasse telle que définie au b ii) ou au b iii) ou au b v) de la définition de la biomasse :
 
 |
 
@@ -2792,7 +2792,7 @@ B. Lorsque sont consommés seuls ou en mélange des produits différents de ceux
 
 |
 
-1. Uniquement de la biomasse telle que définie au b) ii) ou au b) iii) ou au b) v) de la définition de la biomasse, le biogaz autre que celui visé en 2910-A, ou un produit autre que la biomasse issu de déchets au sens de l'article L. 541-4-3 du code de l'environnement, avec une puissance thermique nominale supérieure ou égale à 1 MW, mais inférieure à 50 MW
+1. Uniquement de la biomasse telle que définie au b ii) ou au b iii) ou au bv) de la définition de la biomasse, le biogaz autre que celui visé en 2910-A, ou un produit autre que la biomasse issu de déchets au sens de l'article L. 541-4-3 du code de l'environnement, avec une puissance thermique nominale totale de l'installation de combustion supérieure ou égale à 1 MW, mais inférieure à 50 MW
 
 |
 
@@ -2804,7 +2804,7 @@ E
 
 |
 
-2. Des combustibles différents de ceux visés au point 1 ci-dessus, avec une puissance thermique nominale supérieure ou égale à 0,1 MW, mais inférieure à 50 MW |
+2. Des combustibles différents de ceux visés au point 1 ci-dessus, avec une puissance thermique nominale totale de l'installation de combustion supérieure ou égale à 0,1 MW, mais inférieure à 50 MW |
 
 A |
 
@@ -2818,7 +2818,7 @@ La puissance thermique nominale totale correspond à la somme des puissances the
 
 |
 
-On entend par " biomasse ", au sens de la rubrique 2910 :
+On entend par "biomasse", au sens de la rubrique 2910 :
 
 |
 
