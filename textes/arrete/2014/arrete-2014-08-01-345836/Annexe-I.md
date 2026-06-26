@@ -694,6 +694,14 @@ Villemomble |
 
 94 |
 
+Alfortville
+
+|
+
+94002 |
+
+94 |
+
 Arcueil |
 
 94003 |
@@ -5385,12 +5393,6 @@ Villetaneuse |
 Ablon-sur-Seine |
 
 94001 |
-
-94 |
-
-Alfortville |
-
-94002 |
 
 94 |
 
