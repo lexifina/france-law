@@ -8,6 +8,8 @@ Au sens du présent arrêté, on entend par :
 
 " Appareil de combustion " : tout dispositif technique unitaire visé par la rubrique 2910-A de la nomenclature des installations classées dans lequel des combustibles sont oxydés en vue d'utiliser la chaleur ainsi produite à l'exclusion des torchères et des panneaux radiants ;
 
+“Alcanes obtenus par hydrotraitement d'huiles végétales, d'huiles alimentaires usagées ou de graisses animales” : combustible liquide composé uniquement d'alcanes (chaine linéaire ou ramifiée de carbone et hydrogène) obtenu par hydrotraitement à partir d'huiles végétales, d'huiles alimentaires usagées ou de graisses animales ;
+
 " Biomasse " : les produits suivants :
 
 a) Les produits composés d'une matière végétale agricole ou forestière susceptible d'être employée comme combustible en vue d'utiliser son contenu énergétique ;
@@ -30,9 +32,13 @@ b) Les déchets ci-après :
 
 " Cheminée " : une structure contenant une ou plusieurs conduites destinées à rejeter les gaz résiduaires dans l'atmosphère ;
 
+“Combustibles liquides d'origine biologique” : combustible liquide produit à partir de la transformation de matériaux organiques non fossiles ;
+
 “ Dispositif antipollution secondaire ” ou “ dispositif secondaire de réduction des émissions ” : tout dispositif, ou ensemble de dispositifs, permettant de réduire la pollution en agissant sur les gaz résiduaires ;
 
 " Emission " : le rejet dans l'atmosphère ou dans l'eau de substances provenant d'une installation de combustion ;
+
+“Esters méthyliques d'acides gras obtenus à partir d'huiles végétales” : combustible liquide obtenu par réaction de transestérification à partir d'huiles végétales ;
 
 " Fioul domestique " :
 
@@ -81,6 +87,8 @@ b) Tout combustible liquide dérivé du pétrole, autre que le fioul domestique 
 Les acronymes, formules chimiques et notations ci-dessous ont, dans le cadre du présent arrêté, la signification suivante :
 
 " DCO " : demande chimique en oxygène ;
+
+"EMAG" : esters méthyliques d'acides gras ;
 
 " MES " : matières en suspension ;
 
@@ -772,9 +780,7 @@ Objet du contrôle :
 
 - vérification que le réseau de collecte est de type séparatif ;
 
-- présentation des fiches de suivi du nettoyage des équipements ;
-
-- si solution alternative appliquée aux eaux pluviales non polluées : justification de la compatibilité avec les objectifs du SDAGE (du SAGE s'il existe).
+- présentation des fiches de suivi du nettoyage des équipements.
 
 5.5. Mesure des volumes rejetés
 

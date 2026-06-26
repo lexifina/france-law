@@ -306,7 +306,7 @@ Combustibles solides |
 
 16 m (24 m) |
 
-Fioul domestique |
+Fioul domestique, combustibles liquides d'origine biologique |
 
 5 m
 
@@ -428,7 +428,7 @@ Lorsque les émissions sont évacuées par une chaudière de récupération, les
 
 B. - Pour les autres appareils de combustion, la vitesse d'éjection des gaz de combustion en marche continue maximale est au moins égale à :
 
-- 5 m/s pour les combustibles gazeux et le fioul domestique ;
+- 5 m/s pour les combustibles gazeux, le fioul domestique et les combustibles liquides d'origine biologique ;
 
 - 6 m/s pour les combustibles solides et la biomasse ;
 
@@ -460,7 +460,7 @@ I. a) - Les valeurs limites d'émission suivantes s'appliquent sous réserve des
 
 - aux installations de combustion de puissance thermique nominale totale supérieure à 2 MW et fonctionnant moins de 500 heures par an, à compter de l'entrée en vigueur du présent arrêté ;
 
-- aux installations de combustion de puissance thermique nominale totale supérieure ou égale à 1 MW et inférieure à 2 MW et fonctionnant moins de 500 heures par an, à compter du 1er janvier 2030.
+- aux installations de combustion de puissance thermique nominale totale supérieure ou égale à 1 MW et inférieure ou égale à 2 MW et fonctionnant moins de 500 heures par an, à compter du 1er janvier 2030.
 
 Combustibles |
 
@@ -509,6 +509,14 @@ Fioul Lourd |
 450 (1) (4) (9) |
 
 50 (11) |
+
+Combustibles liquides d'origine biologique |
+
+850 |
+
+150 (8) (12) |
+
+50 |
 
 Autres combustibles liquides |
 
@@ -700,6 +708,28 @@ P < 5 |
 
 10 ≤ P |
 
+Combustibles liquides d'origine biologique
+
+|
+
+P < 5 |
+
+350 |
+
+150 |
+
+50 |
+
+100 |
+
+5 ≤ P < 10 |
+
+10 ≤ P |
+
+20 (1)
+
+|
+
 Autres combustibles liquides |
 
 P < 5 |
@@ -867,6 +897,34 @@ P < 5 |
 5 ≤ P < 10 |
 
 10 ≤ P |
+
+Combustibles liquides d'origine biologique
+
+|
+
+P < 5
+
+|
+
+350 |
+
+150 (3) |
+
+50 |
+
+100 |
+
+5 ≤ P < 10
+
+|
+
+10 ≤ P
+
+|
+
+50
+
+|
 
 Autres combustibles liquides |
 
@@ -1075,6 +1133,28 @@ P < 5 |
 5 ≤ P < 10 |
 
 10 ≤ P |
+
+Combustibles liquides d'origine biologique
+
+|
+
+P < 5 |
+
+120 |
+
+75 (1) (2) |
+
+20 |
+
+100 |
+
+5 ≤ P < 10 |
+
+10 ≤ P |
+
+10 (3)
+
+|
 
 Autres combustibles liquides |
 
@@ -1287,6 +1367,30 @@ P < 5 |
 190 (1) (2) (3) (6) |
 
 10 ≤ P |
+
+Combustibles liquides d'origine biologique
+
+|
+
+P < 5 |
+
+120 |
+
+190 (1) (2) (3) (4) (5) (6) |
+
+20 |
+
+250 |
+
+5 ≤ P < 10 |
+
+10 ≤ P |
+
+190 (1) (2) (3) (6)
+
+|
+
+10 (8) |
 
 Autres combustibles liquides |
 
@@ -1591,6 +1695,8 @@ I. - L'exploitant fait effectuer au moins tous les trois ans pour les installati
 Les modalités d'échantillonnage sont définies de façon à garantir la représentativité des échantillons prélevés. Les modalités de prélèvements et de réalisation des analyses sont définies de façon à assurer la justesse et la traçabilité des résultats.
 
 II. - La mesure des poussières n'est pas exigée lorsque les combustibles consommés sont exclusivement des combustibles gazeux ou du fioul domestique. La mesure des oxydes de soufre n'est pas exigée si le combustible est du gaz naturel, du biométhane, fioul domestique ou de la biomasse exclusivement ligneuse faisant partie de la biomasse telle que définie au a) de la définition de biomasse.
+
+Si le combustible utilisé est un combustible liquide d'origine biologique, au lieu de la mesure de SO2 prévue au I, une estimation des rejets basée sur la connaissance de la teneur en soufre des combustibles et des paramètres de fonctionnement de l'installation peut être utilisée.
 
 III. - Pour les appareils de combustion fonctionnant moins de 500 h par an, des mesures périodiques sont réalisées a minima toutes les 1 500 heures d'exploitation. La fréquence des mesures périodiques n'est, en tout état de cause, pas inférieure à une fois tous les cinq ans.
 
