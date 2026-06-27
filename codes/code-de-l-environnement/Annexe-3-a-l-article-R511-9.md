@@ -2204,7 +2204,7 @@ A
 
 |
 
-|
+2. Sans objet
 
 |
 
@@ -2212,25 +2212,7 @@ A
 
 |
 
-|
-
-|
-
-|
-
-|
-
-|
-
-2. sans objet
-
-|
-
-|
-
-|
-
-3. Affouillements du sol (à l'exception des affouillements rendus nécessaires pour l'implantation des constructions bénéficiant d'un permis de construire et des affouillements réalisés sur l'emprise des voies de circulation), lorsque les matériaux prélevés sont utilisés à des fins autres que la réalisation de l'ouvrage sur l'emprise duquel ils ont été extraits et lorsque la superficie d'affouillement est supérieure à 1 000 m 2 ou lorsque la quantité de matériaux à extraire est supérieure à 2 000 t
+3. Affouillements du sol (à l'exception des affouillements rendus nécessaires pour l'implantation des constructions bénéficiant d'un permis de construire et des affouillements réalisés sur l'emprise des voies de circulation), lorsque les matériaux prélevés sont utilisés à des fins autres que la réalisation de l'ouvrage sur l'emprise duquel ils ont été extraits et lorsque la superficie d'affouillement est supérieure à 1 000 m2 ou lorsque la quantité de matériaux à extraire est supérieure à 2 000 t
 
 |
 
@@ -2242,25 +2224,7 @@ A
 
 |
 
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-4. Exploitation, en vue de leur utilisation, des masses constituées par des haldes et terrils de mines et par les déchets d'exploitation de carrières (à l'exception des cas visés à l'article 1er du décret n° 79-1109 du 20 décembre 1979 pris pour l'application de l'article 130 du code minier), lorsque la superficie d'exploitation est supérieure à 1 000 m ² ou lorsque la quantité de matériaux à extraire est supérieure à 2 000 t par an
+4. Exploitation, en vue de leur utilisation, des déchets résultant de la prospection, de l'extraction, du traitement et du stockage de ressources minérales, des masses constituées par les haldes et terrils de mines, y compris les déchets d'exploitation de carrières (à l'exception des cas mentionnés à l'article 1er du décret n° 79-1109 du 20 décembre 1979 pris pour l'application de l'article 130 du code minier), lorsque la superficie d'exploitation est supérieure à 1 000 m2 ou lorsque la quantité de matériaux à extraire est supérieure à 2 000 t par an
 
 |
 
@@ -2272,25 +2236,7 @@ A
 
 |
 
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-5. Carrières de marne, de craie et de tout matériau destiné au marnage des sols ou d'arène granitique, à ciel ouvert, sans but commercial, distantes d'au moins 500 m d'une carrière soumise à autorisation ou à déclaration, lorsque la superficie d'extraction est inférieure à 500 m 2 et lorsque la quantité de matériaux à extraire est inférieure à 250 t par an et que la quantité totale d'extraction n'excède pas 1 000 t, lesdites carrières étant exploitées soit par l'exploitant agricole dans ses propres champs, soit par la commune, le groupement de communes ou le syndicat intercommunal dans un intérêt public
+5. Carrières de marne, de craie et de tout matériau destiné au marnage des sols ou d'arène granitique, à ciel ouvert, sans but commercial, distantes d'au moins 500 m d'une carrière soumise à autorisation ou à déclaration, lorsque la superficie d'extraction est inférieure à 500 m2 et lorsque la quantité de matériaux à extraire est inférieure à 250 t par an et que la quantité totale d'extraction n'excède pas 1 000 t, lesdites carrières étant exploitées soit par l'exploitant agricole dans ses propres champs, soit par la commune, le groupement de communes ou le syndicat intercommunal dans un intérêt public
 
 |
 
@@ -2300,7 +2246,15 @@ D
 
 |
 
-6. Carrières de pierre, de sable et d'argile destinées :
+6. Carrières de pierre, de sable et d'argile, lorsqu'elles sont distantes de plus de 500 mètres d'une exploitation de carrière soumise à autorisation ou à déclaration et lorsque la quantité de matériaux à extraire est inférieure à 100 m³ par an et que la quantité totale d'extraction n'excède pas 500 m³, destinées :
+
+|
+
+DC |
+
+|
+
+- à la restauration des monuments historiques classés ou inscrits ou des immeubles situés dans le périmètre d'un site patrimonial remarquable.
 
 |
 
@@ -2308,7 +2262,7 @@ D
 
 |
 
--à la restauration des monuments historiques classés ou inscrits ou des immeubles situés dans le périmètre d'un site patrimonial remarquable.
+- ou à la restauration des bâtiments anciens dont l'intérêt patrimonial ou architectural justifie que celle-ci soit effectuée avec leurs matériaux d'origine.
 
 |
 
@@ -2316,26 +2270,8 @@ D
 
 |
 
--ou à la restauration des bâtiments anciens dont l'intérêt patrimonial ou architectural justifie que celle-ci soit effectuée avec leurs matériaux d'origine.
+(1) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement.
 
-|
-
-|
-
-|
-
-lorsqu'elles sont distantes de plus de 500 mètres d'une exploitation de carrière soumise à autorisation ou à déclaration et lorsque la quantité de matériaux à extraire est inférieure à 100 m ³ par an et que la quantité totale d'extraction n'excède pas 500 m ³
-
-|
-
-DC
-
-|
-
-|
-
-(1) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement
-
-(2) Rayon d'affichage en kilomètres
+(2) Rayon d'affichage en kilomètres.
 
 |
