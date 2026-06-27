@@ -824,7 +824,9 @@ Décisions relatives à l'inscription au registre prévu au II de l'article L. 5
 
 Article L. 5546-1-1 du code des transports
 
-Article 2,5,6,8,9 et 17 du décret n° 2017-1119 modifié par le décret n° 2021-1477 du 10 novembre 2021 |
+Articles R. 5546-2, R. 5546-2-3, R. 5546-2-4, R. 5546-2-6, R. 5546-2-8 et R. 5546-2-14
+
+|
 
 |
 

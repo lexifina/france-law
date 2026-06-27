@@ -574,7 +574,9 @@ Amende administrative infligée aux passagers aériens perturbateurs mentionnée
 
 Code des transports
 
-Article L. 6432-4 |
+Article L. 6432-4
+
+|
 
 Ministre chargé de l'aviation civile |
 
@@ -586,7 +588,9 @@ Interdiction d'embarquement prononcée à l'encontre des passagers aériens pert
 
 Code des transports
 
-Article L. 6432-9 |
+Article L. 6432-9
+
+|
 
 Ministre chargé de l'aviation civile |
 
@@ -598,7 +602,9 @@ Amende administrative infligée aux passagers aériens perturbateurs mentionnée
 
 Code des transports
 
-Article L. 6432-12 |
+Article L. 6432-12
+
+|
 
 Ministre chargé de l'aviation civile |
 
@@ -820,7 +826,9 @@ Agrément de médecins et de psychologues pour la vérification de l'aptitude ph
 
 Décret n° 2010-708 du 29 juin 2010
 
-Article 4 |
+Article 4
+
+|
 
 Ministre chargé des transports |
 
@@ -960,9 +968,11 @@ Ministre chargé de la mer |
 
 Décisions relatives à l'inscription au registre prévu au II de l'article L. 5546-1-1 du code des transports des services privés de recrutement et de placement situés dans un département non littoral. |
 
-Décret n° 2017-1119 modifié par le décret n° 2021-1477 du 10 novembre 2021
+Code des transports
 
-Articles 2 (II), 5,6,8,9 et 17 ; |
+Articles R. 5546-2 (II), R. 5546-2-3, R. 5546-2-4, R. 5546-2-6, R. 5546-2-8 et R. 5546-2-14
+
+|
 
 Ministre chargé de la mer |
 
@@ -2514,7 +2524,9 @@ Octroi d'une concession portant sur des granulats marins |
 
 Décret n° 2025-854 du 27 août 2025 relatif à la recherche et à l'exploitation de granulats marins dans les fonds marins du domaine public, de la zone économique exclusive et dans le sol et le sous-sol du plateau continental :
 
-Article 40 |
+Article 40
+
+|
 
 Décret |
 
@@ -2524,7 +2536,9 @@ Prolongation d'une concession portant sur des granulats marins |
 
 Décret n° 2025-854 du 27 août 2025 relatif à la recherche et à l'exploitation de granulats marins dans les fonds marins du domaine public, de la zone économique exclusive et dans le sol et le sous-sol du plateau continental :
 
-Article 54 |
+Article 54
+
+|
 
 Décret |
 
@@ -2532,11 +2546,15 @@ Décret |
 
 Extension d'une concession portant sur des granulats marins :
 
-octroi |
+octroi
+
+|
 
 Décret n° 2025-854 du 27 août 2025 relatif à la recherche et à l'exploitation de granulats marins dans les fonds marins du domaine public, de la zone économique exclusive et dans le sol et le sous-sol du plateau continental :
 
-Article 57 |
+Article 57
+
+|
 
 Décret |
 
@@ -2548,11 +2566,15 @@ Décisions relatives aux permis exclusifs de recherche portant sur des granulats
 
 octroi, octroi avec réduction, rejet, réduction en cours de validité,
 
-prolongation, extension, mutation, fusion et renonciation |
+prolongation, extension, mutation, fusion et renonciation
+
+|
 
 Décret n° 2025-854 du 27 août 2025 relatif à la recherche et à l'exploitation de granulats marins dans les fonds marins du domaine public, de la zone économique exclusive et dans le sol et le sous-sol du plateau continental :
 
-Articles 33,34,37,47,59,60 et 65 |
+Articles 33,34,37,47,59,60 et 65
+
+|
 
 Ministre chargé des mines en mer |
 
@@ -2562,7 +2584,9 @@ Rejet de la demande d'octroi, de prolongation ou d'extension d'une concession po
 
 Décret n° 2025-854 du 27 août 2025 relatif à la recherche et à l'exploitation de granulats marins dans les fonds marins du domaine public, de la zone économique exclusive et dans le sol et le sous-sol du plateau continental :
 
-Articles 41,54 et 57 |
+Articles 41,54 et 57
+
+|
 
 Ministre chargé des mines en mer |
 
@@ -2572,7 +2596,9 @@ Acceptation ou rejet d'une demande de mutation, d'amodiation, de renonciation ou
 
 Décret n° 2025-854 du 27 août 2025 relatif à la recherche et à l'exploitation de granulats marins dans les fonds marins du domaine public, de la zone économique exclusive et dans le sol et le sous-sol du plateau continental :
 
-Articles 57,58,59 et 65 |
+Articles 57,58,59 et 65
+
+|
 
 Ministre chargé des mines en mer |
 
@@ -2582,7 +2608,9 @@ Retrait d'un titre minier sur le fondement de l'article L. 173-5 du code minier 
 
 Décret n° 2025-854 du 27 août 2025 relatif à la recherche et à l'exploitation de granulats marins dans les fonds marins du domaine public, de la zone économique exclusive et dans le sol et le sous-sol du plateau continental :
 
-Article 66 |
+Article 66
+
+|
 
 Ministre chargé des mines en mer |
 
@@ -2592,7 +2620,9 @@ Délivrance ou refus d'une autorisation de prospections préalables |
 
 Décret n° 2025-854 du 27 août 2025 relatif à la recherche et à l'exploitation de granulats marins dans les fonds marins du domaine public, de la zone économique exclusive et dans le sol et le sous-sol du plateau continental :
 
-Articles 74 et 78 |
+Articles 74 et 78
+
+|
 
 Ministre chargé des mines en mer |
 
@@ -2606,11 +2636,15 @@ Octroi d'une concession de mines " M " et " H " ou d'une concession de stockage 
 
 Octroi avec réduction des substances, du périmètre et de la durée demandés
 
-Octroi d'une concession pour l'exploitation de substances de mines par l'Etat |
+Octroi d'une concession pour l'exploitation de substances de mines par l'Etat
+
+|
 
 Décret n° 2025-851 du 27 août 2025 relatif aux titres miniers et aux titres de stockage souterrain :
 
-Articles 43 et 72 |
+Articles 43 et 72
+
+|
 
 Décret |
 
@@ -2620,11 +2654,15 @@ Prolongation d'une concession de mines " M " et " H " ou de stockage souterrain 
 
 Octroi
 
-Prolongation d'une concession pour l'exploitation de substances de mines par l'Etat |
+Prolongation d'une concession pour l'exploitation de substances de mines par l'Etat
+
+|
 
 Décret n° 2025-851 du 27 août 2025 relatif aux titres miniers et aux titres de stockage souterrain :
 
-Articles 53 et 72 |
+Articles 53 et 72
+
+|
 
 Décret |
 
@@ -2632,11 +2670,15 @@ Décret |
 
 Extension d'une concession de mines " M " et " H " ou de stockage souterrain :
 
-Octroi |
+Octroi
+
+|
 
 Décret n° 2025-851 du 27 août 2025 relatif aux titres miniers et aux titres de stockage souterrain :
 
-Article 60 |
+Article 60
+
+|
 
 Décret |
 
@@ -2646,7 +2688,9 @@ Retrait d'une concession pris sur le fondement de l'article L. 173-5 du code min
 
 Décret n° 2025-851 du 27 août 2025 relatif aux titres miniers et aux titres de stockage souterrain :
 
-Article 70 |
+Article 70
+
+|
 
 Décret |
 
@@ -2656,11 +2700,15 @@ Décisions relatives aux mines et aux stockages souterrains prises par le minist
 
 Permis exclusif de recherches de mines " M " et " H " ou de stockage souterrain :
 
-Octroi, rejet de la demande, octroi avec réduction de la superficie demandée, rejet pris sur le fondement de l'article L. 114-3 du code minier |
+Octroi, rejet de la demande, octroi avec réduction de la superficie demandée, rejet pris sur le fondement de l'article L. 114-3 du code minier
+
+|
 
 Décret n° 2025-851 du 27 août 2025 relatif aux titres miniers et aux titres de stockage souterrain :
 
-Articles 26 et 27 |
+Articles 26 et 27
+
+|
 
 Ministre chargé des mines et de l'énergie |
 
@@ -2670,7 +2718,9 @@ Réduction d'un permis exclusif de recherches de mines " M " et " H " et de stoc
 
 Décret n° 2025-851 du 27 août 2025 relatif aux titres miniers et aux titres de stockage souterrain :
 
-Article 30 |
+Article 30
+
+|
 
 Ministre chargé des mines et de l'énergie |
 
@@ -2678,11 +2728,15 @@ Ministre chargé des mines et de l'énergie |
 
 Prolongation d'un permis exclusif de recherches de substances de mines " M " et " H " ou de stockage souterrain :
 
-Octroi, octroi avec réduction de la durée demandée, rejet |
+Octroi, octroi avec réduction de la durée demandée, rejet
+
+|
 
 Décret n° 2025-851 du 27 août 2025 relatif aux titres miniers et aux titres de stockage souterrain :
 
-Article 57 |
+Article 57
+
+|
 
 Ministre chargé des mines et de l'énergie |
 
@@ -2692,7 +2746,9 @@ Autorisation de mise en œuvre d'une phase de développement |
 
 Décret n° 2025-851 du 27 août 2025 relatif aux titres miniers et aux titres de stockage souterrain :
 
-Article 32 |
+Article 32
+
+|
 
 Ministre chargé des mines et de l'énergie |
 
@@ -2704,11 +2760,15 @@ Rejet, rejet pris sur le fondement de l'article L. 114-3 du code minier.
 
 Concession en vue d'une exploitation de substances de mines par l'Etat :
 
-Rejet |
+Rejet
+
+|
 
 Décret n° 2025-851 du 27 août 2025 relatif aux titres miniers et aux titres de stockage souterrain :
 
-Articles 43 et 72 |
+Articles 43 et 72
+
+|
 
 Ministre chargé des mines et de l'énergie |
 
@@ -2720,11 +2780,15 @@ Rejet
 
 Extension d'un permis exclusif de recherches de mines " M " et " H " et de stockage souterrain
 
-Rejet |
+Rejet
+
+|
 
 Décret n° 2025-851 du 27 août 2025 relatif aux titres miniers et aux titres de stockage souterrain :
 
-Article 60 |
+Article 60
+
+|
 
 Ministre chargé des mines et de l'énergie |
 
@@ -2736,13 +2800,17 @@ Octroi et rejet
 
 Autorisation de mutation, d'amodiation et de résiliation anticipée de l'amodiation d'une concession de mines " M " et " H " ou de stockage souterrain :
 
-Octroi et rejet |
+Octroi et rejet
+
+|
 
 Décret n° 2025-851 du 27 août 2025 relatif aux titres miniers et aux titres de stockage souterrain
 
 Article 63
 
-Article 63 |
+Article 63
+
+|
 
 Ministre chargé des mines et de l'énergie |
 
@@ -2752,11 +2820,15 @@ Autorisation de fusion de permis exclusifs de recherches de mines " M " et " H "
 
 Autorisation de fusion de concessions de mines " M " et " H " ou de stockage souterrain :
 
-Octroi et rejet |
+Octroi et rejet
+
+|
 
 Décret n° 2025-851 du 27 août 2025 relatif aux titres miniers et aux titres de stockage souterrain :
 
-Article 67 |
+Article 67
+
+|
 
 Ministre chargé des mines et de l'énergie |
 
@@ -2766,7 +2838,9 @@ Ouverture aux recherches d'une mine inexploitée par l'Etat |
 
 Décret n° 2025-851 du 27 août 2025 relatif aux titres miniers et aux titres de stockage souterrain :
 
-Article 74 |
+Article 74
+
+|
 
 Ministre chargé des mines et de l'énergie |
 
@@ -2776,7 +2850,9 @@ Acceptation d'une demande de renonciation à un permis exclusif de recherches ou
 
 Décret n° 2025-851 du 27 août 2025 relatif aux titres miniers et aux titres de stockage souterrain :
 
-Article 71 |
+Article 71
+
+|
 
 Ministre chargé des mines et de l'énergie |
 
@@ -2786,7 +2862,9 @@ Retrait d'un permis exclusif de recherches pris sur le fondement de l'article L.
 
 Décret n° 2025-851 du 27 août 2025 relatif aux titres miniers et aux titres de stockage souterrain :
 
-Article 70 |
+Article 70
+
+|
 
 Ministre chargé des mines et de l'énergie |
 
@@ -2798,11 +2876,15 @@ Décisions relatives à la géothermie prises par décret
 
 Octroi d'une concession de gîtes géothermiques et
 
-Octroi avec réduction de la durée demandée |
+Octroi avec réduction de la durée demandée
+
+|
 
 Décret n° 2025-852 du 27 août 2025 relatif aux activités de recherche et d'exploitation de géothermie :
 
-Article 38 |
+Article 38
+
+|
 
 Décret |
 
@@ -2810,11 +2892,15 @@ Décret |
 
 Octroi d'une concession de gîtes géothermiques déposée simultanément avec une concession de substances de mines contenues dans les fluides caloporteurs
 
-Octroi avec réduction de la durée demandée |
+Octroi avec réduction de la durée demandée
+
+|
 
 Décret n° 2025-852 du 27 août 2025 relatif aux activités de recherche et d'exploitation de géothermie :
 
-Article 39 |
+Article 39
+
+|
 
 Décret |
 
@@ -2824,7 +2910,9 @@ Prolongation d'une concession de gîtes géothermiques |
 
 Décret n° 2025-852 du 27 août 2025 relatif aux activités de recherche et d'exploitation de géothermie :
 
-Article 49 |
+Article 49
+
+|
 
 Décret |
 
@@ -2834,7 +2922,9 @@ Extension d'une concession de gîtes géothermiques |
 
 Décret n° 2025-852 du 27 août 2025 relatif aux activités de recherche et d'exploitation de géothermie :
 
-Article 51 |
+Article 51
+
+|
 
 Décret |
 
@@ -2844,7 +2934,9 @@ Retrait d'une concession de gîtes géothermiques sur le fondement de l'article 
 
 Décret n° 2025-852 du 27 août 2025 relatif aux activités de recherche et d'exploitation de géothermie :
 
-Article 58 |
+Article 58
+
+|
 
 Décret |
 
@@ -2856,7 +2948,9 @@ Désignation du préfet chargé de coordonner l'instruction des demandes relativ
 
 Décret n° 2025-852 du 27 août 2025 relatif aux activités de recherche et d'exploitation de géothermie :
 
-Article 2 |
+Article 2
+
+|
 
 Ministre chargé des mines |
 
@@ -2864,11 +2958,15 @@ Ministre chargé des mines |
 
 Permis exclusif de recherche de gîtes géothermiques :
 
-Octroi, rejet de la demande, octroi avec réduction de la superficie demandée |
+Octroi, rejet de la demande, octroi avec réduction de la superficie demandée
+
+|
 
 Décret n° 2025-852 du 27 août 2025 relatif aux activités de recherche et d'exploitation de géothermie :
 
-Article 38 |
+Article 38
+
+|
 
 Ministre chargé des mines |
 
@@ -2878,7 +2976,9 @@ Décisions prises sur une demande de permis exclusif de recherches portant sur d
 
 Décret n° 2025-852 du 27 août 2025 relatif aux activités de recherche et d'exploitation de géothermie :
 
-Article 39 |
+Article 39
+
+|
 
 Ministre chargé des mines |
 
@@ -2888,7 +2988,9 @@ Réduction de la superficie d'un permis exclusif de recherches de gîtes géothe
 
 Décret n° 2025-852 du 27 août 2025 relatif aux activités de recherche et d'exploitation de géothermie :
 
-Article 40 |
+Article 40
+
+|
 
 Ministre chargé des mines |
 
@@ -2896,11 +2998,15 @@ Ministre chargé des mines |
 
 Prolongation d'un permis exclusif de recherches de gîtes géothermiques :
 
-Rejet de la demande et octroi avec une réduction de la durée demandée |
+Rejet de la demande et octroi avec une réduction de la durée demandée
+
+|
 
 Décret n° 2025-852 du 27 août 2025 relatif aux activités de recherche et d'exploitation de géothermie :
 
-Article 42 |
+Article 42
+
+|
 
 Ministre chargé des mines |
 
@@ -2910,7 +3016,9 @@ Accord sur une demande de mise en œuvre d'une phase de développement |
 
 Décret n° 2025-852 du 27 août 2025 relatif aux activités de recherche et d'exploitation de géothermie :
 
-Article 44 |
+Article 44
+
+|
 
 Ministre chargé des mines |
 
@@ -2920,7 +3028,9 @@ Autorisation de fusion de permis exclusifs de recherches de gîtes géothermique
 
 Décret n° 2025-852 du 27 août 2025 relatif aux activités de recherche et d'exploitation de géothermie :
 
-Article 50 |
+Article 50
+
+|
 
 Ministre chargé des mines |
 
@@ -2930,7 +3040,9 @@ Autorisation de mutation d'un permis exclusif de recherches de gîtes géothermi
 
 Décret n° 2025-852 du 27 août 2025 relatif aux activités de recherche et d'exploitation de géothermie :
 
-Article 52 |
+Article 52
+
+|
 
 Ministre chargé des mines |
 
@@ -2940,7 +3052,9 @@ Rejet d'une demande de concession de gîtes géothermiques |
 
 Décret n° 2025-852 du 27 août 2025 relatif aux activités de recherche et d'exploitation de géothermie :
 
-Article 38 |
+Article 38
+
+|
 
 Ministre chargé des mines |
 
@@ -2950,7 +3064,9 @@ Rejet d'une demande simultanée de concession de gîtes géothermiques et de con
 
 Décret n° 2025-852 du 27 août 2025 relatif aux activités de recherche et d'exploitation de géothermie :
 
-Article 39 |
+Article 39
+
+|
 
 Ministre chargé des mines |
 
@@ -2960,7 +3076,9 @@ Rejet d'une demande de prolongation de concession de gîtes géothermiques |
 
 Décret n° 2025-852 du 27 août 2025 relatif aux activités de recherche et d'exploitation de géothermie :
 
-Article 46 |
+Article 46
+
+|
 
 Ministre chargé des mines et de l'énergie |
 
@@ -2970,7 +3088,9 @@ Rejet d'une demande d'extension d'une concession de gîtes géothermiques |
 
 Décret n° 2025-852 du 27 août 2025 relatif aux activités de recherche et d'exploitation de géothermie :
 
-Article 51 |
+Article 51
+
+|
 
 Ministre chargé des mines |
 
@@ -2980,7 +3100,9 @@ Autorisation de mutation d'une concession de gîtes géothermiques |
 
 Décret n° 2025-852 du 27 août 2025 relatif aux activités de recherche et d'exploitation de géothermie :
 
-Article 52 |
+Article 52
+
+|
 
 Ministre chargé des mines |
 
@@ -2990,7 +3112,9 @@ Autorisation d'amodiation et de résiliation d'amodiation d'une concession de g�
 
 Décret n° 2025-852 du 27 août 2025 relatif aux activités de recherche et d'exploitation de géothermie :
 
-Article 53 |
+Article 53
+
+|
 
 Ministre chargé des mines |
 
@@ -3000,7 +3124,9 @@ Acceptation d'une demande de renonciation à un permis exclusif de recherches ou
 
 Décret n° 2025-852 du 27 août 2025 relatif aux activités de recherche et d'exploitation de géothermie :
 
-Article 57 |
+Article 57
+
+|
 
 Ministre chargé des mines |
 
@@ -3010,7 +3136,9 @@ Retrait d'un permis exclusif de recherches de gîtes géothermiques sur le fonde
 
 Décret n° 2025-852 du 27 août 2025 relatif aux activités de recherche et d'exploitation de géothermie :
 
-Article 58 |
+Article 58
+
+|
 
 Ministre chargé des mines |
 
@@ -3020,7 +3148,9 @@ En Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte toute déc
 
 Décret n° 2025-852 du 27 août 2025 relatif aux activités de recherche et d'exploitation de géothermie :
 
-Article 66 |
+Article 66
+
+|
 
 Décret ou ministre chargé des mines uniquement en ce qui concerne la partie à terre de ce titre |
 
