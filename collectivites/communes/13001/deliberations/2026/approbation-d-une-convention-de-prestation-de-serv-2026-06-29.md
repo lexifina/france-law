@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — APPROBATION D'UNE CONVENTION DE PRESTATION DE SERVICES ENTRE LA COMMUNE D'AIX-EN-PROVENCE ET LA MÉTROPOLE AIX-MARSEILLE-PROVENCE POUR LA PRISE EN CHARGE DU TRANSPORT SCOLAIRE DANS LE CADRE DU DISPOSITIF "SAVOIR NAGER" - ANNÉE SCOLAIRE 2026-2027 - Décision du Conseil
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2026-06-29
+- Séance : Conseil Municipal 1CA
+- Objet : APPROBATION D'UNE CONVENTION DE PRESTATION DE SERVICES ENTRE LA COMMUNE D'AIX-EN-PROVENCE ET LA MÉTROPOLE AIX-MARSEILLE-PROVENCE POUR LA PRISE EN CHARGE DU TRANSPORT SCOLAIRE DANS LE CADRE DU DISPOSITIF "SAVOIR NAGER" - ANNÉE SCOLAIRE 2026-2027 - Décision du Conseil
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-23074-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
