@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — ACCORD CADRE MONO-ATTRIBUTAIRE A BONS DE COMMANDE RELATIF AU LOT 2 : ENTREPOSAGE, POSE, DÉPOSE ET ENTRETIEN DU MARCHE D'ILLUMINATION TEMPORAIRE POUR LA VILLE D'AIX-EN-PROVENCE- AUTORISATION DE SIGNATURE DE L'ACCORD-CADRE.
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2026-06-29
+- Séance : Conseil Municipal 1CA
+- Objet : ACCORD CADRE MONO-ATTRIBUTAIRE A BONS DE COMMANDE RELATIF AU LOT 2 : ENTREPOSAGE, POSE, DÉPOSE ET ENTRETIEN DU MARCHE D'ILLUMINATION TEMPORAIRE POUR LA VILLE D'AIX-EN-PROVENCE- AUTORISATION DE SIGNATURE DE L'ACCORD-CADRE.
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-22864-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
