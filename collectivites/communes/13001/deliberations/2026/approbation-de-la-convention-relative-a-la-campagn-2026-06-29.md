@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — APPROBATION DE LA CONVENTION RELATIVE À LA CAMPAGNE DE VACCINATION CONTRE LES INFECTIONS À PAPILLOMAVIRUS HUMAINS (HPV) ET INFECTIONS INVASIVES À MÉNINGOCOQUE ACWY DANS LES COLLÈGES AVEC LA CPAM DES BOUCHES-DU-RHÔNE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2026-06-29
+- Séance : Conseil Municipal 1CA
+- Objet : APPROBATION DE LA CONVENTION RELATIVE À LA CAMPAGNE DE VACCINATION CONTRE LES INFECTIONS À PAPILLOMAVIRUS HUMAINS (HPV) ET INFECTIONS INVASIVES À MÉNINGOCOQUE ACWY DANS LES COLLÈGES AVEC LA CPAM DES BOUCHES-DU-RHÔNE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-23032-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
