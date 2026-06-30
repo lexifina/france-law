@@ -1,0 +1,9 @@
+# Réponse à la question n° 15460
+
+- Question : [15460](15460.md) — Question n° 15460 — Prisonniers politiques birmans et action de l'Union européenne
+
+## Réponse
+
+*JO du 2026-06-30, page 5972*
+
+La position de la France est demeurée claire et invariable depuis le 1er février 2021 : nous ne reconnaissons pas le régime issu du coup d'Etat. Cette position, qui correspond à celle de l'Union européenne (UE), n'a pas varié depuis le simulacre d'élections organisées par la junte. Nous condamnons les attaques indiscriminées touchant les populations civiles, et appelons à la libération immédiate de tous les prisonniers politiques, y compris la conseillère de l'Etat Daw Aung San Suu Kyi, dont le ministre de l'Europe et des affaires étrangères a reçu le fils, Kim Aris, le 4 mai dernier. La libération récente et sous conditions du président U Win Myint est un geste dans la bonne direction, mais ne doit constituer qu'une première étape. En l'absence de progrès substantiels, la France a soutenu le renouvellement pour un an, le 27 avril 2026, du régime autonome de sanctions de l'UE, qui cible les responsables de violations graves des droits de l'Homme et d'activités compromettant la démocratie et l'Etat de droit en Birmanie. L'UE a également suspendu tout soutien budgétaire aux programmes gouvernementaux birmans, mais cherche à préserver autant que possible la population en maintenant son aide humanitaire à destination d'organisations de la société civile. La situation en Birmanie a été abordée de manière approfondie dans le cadre de la réunion ministérielle entre les Etats membres de l'UE et de l'Association des nations de l'Asie du Sud-Est (ASEAN) des 27 et 28 avril. La France et l'UE soutiennent les efforts de l'Association pour une issue à la crise, au travers de la mise en œuvre pleine et entière du Consensus en cinq points adopté en 2021.
