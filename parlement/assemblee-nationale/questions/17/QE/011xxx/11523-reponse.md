@@ -1,0 +1,9 @@
+# Réponse à la question n° 11523
+
+- Question : [11523](11523.md) — Question n° 11523 — Protection et anonymat des surveillants pénitentiaires
+
+## Réponse
+
+*JO du 2026-06-30, page 6013*
+
+La protection des personnels pénitentiaires constitue une priorité de la direction générale de l'administration pénitentiaire (DGAP). Un traitement diligent et empreint de la plus grande fermeté s'agissant des faits de violences ou d'intimidations commis à l'égard des agents pénitentiaires ou de leur famille est assuré. La proposition de loi visant à sortir la France du piège du narcotrafic, adoptée définitivement le 29 avril 2025 par le Parlement a permis d'apporter des réponses fortes et rapides au besoin de protection des personnels pénitentiaires. Le texte voté comprend notamment le principe d'anonymisation des agents pénitentiaires pour faire face aux risques de menaces auxquels ils sont exposés. Ce mécanisme concerne l'ensemble du personnel pénitentiaire, tant dans les actes de procédure pénale que dans la gestion des personnes détenues. Ainsi, l'article L113-3-1 du code pénitentiaire prévoit qu'un agent pénitentiaire peut faire la demande à son chef d'établissement de ne pas être identifié par son nom et prénom dans l'exercice de ses fonctions, si cette révélation est susceptible de mettre en danger sa vie ou son intégrité physique ou celles de ses proches. Ce mécanisme peut concerner l'ensemble du personnel pénitentiaire, tant dans les actes de procédure pénale que dans la gestion des personnes détenues. Seul le numéro de matricule de l'agent pénitentiaire figurera dans les procès-verbaux. L'article R113-9-1 de ce même code vient préciser les conditions d'applications de cet article. Une circulaire est également en cours de rédaction par les services de la DGAP. En vertu de l'article R224-26 de ce code, cette anonymisation est automatique pour les agents pénitentiaires affectés dans les quartiers de lutte contre la criminalité organisée.
