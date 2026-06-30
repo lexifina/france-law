@@ -1,0 +1,9 @@
+# Réponse à la question n° 12842
+
+- Question : [12842](12842.md) — Question n° 12842 — Absence de droits nouveaux à retraite, cumul emploi-retraite
+
+## Réponse
+
+*JO du 2026-06-30, page 6081*
+
+Depuis la loi n° 2014-40 du 20 janvier 2014, le cumul emploi-retraite a fait l'objet de plusieurs réformes. A cet égard, la loi n° 2023-270 du 14 avril 2023 de financement rectificative de la sécurité sociale pour 2023 a institué le principe de la constitution de nouveaux droits à retraite au titre des régimes de base, lorsque les assurés remplissent les conditions leur permettant de cumuler intégralement leur pension de retraite avec les revenus tirés d'une activité professionnelle (art. L. 161-22-1-1). Il était donc nécessaire d'avoir soit atteint l'âge du taux plein, soit l'âge d'annulation de la décote pour se constituer de nouveaux droits à pensions. Désormais, l'article 102 de la Loi de financement de la sécurité sociale (LFSS) pour 2026 prévoit, pour la première pension liquidée à compter du 1er janvier 2027, un dispositif en trois étages en fonction de l'âge de l'assuré. D'une part, avant l'âge légal, un écrêtement des pensions à hauteur de 100 % des revenus professionnels et de remplacement cumulés. D'autre part, entre l'âge légal et l'âge d'annulation de la décote (67 ans), un cumul libre dans la limite d'un plafond de 7 000 euros par an et un écrêtement des pensions à hauteur de 50 % des revenus professionnels et de remplacement cumulés dépassant ce plafond. Enfin, au-delà de 67 ans, il est prévu un cumul intégral permettant la constitution de nouveaux droits à retraite. Le dispositif a donc été clarifié : il vise donc plutôt à favoriser la poursuite d'activité pour bénéficier de la surcote, ou la retraite progressive avant 67 ans, mais maintient la constitution de nouveaux droits à pensions pour le cumul emploi-retraite effectué à compter de 67 ans.
