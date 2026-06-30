@@ -1,0 +1,9 @@
+# Réponse à la question n° 15617
+
+- Question : [15617](15617.md) — Question n° 15617 — Parcours d'engagement citoyen
+
+## Réponse
+
+*JO du 2026-06-30, page 6066*
+
+25 % des jeunes âgés de 15-17 ans s'engagent régulièrement dans une association, au moins une fois par mois. 15 % d'entre eux participent ponctuellement au cours de l'année à une activité associative. Afin de favoriser et structurer un véritable parcours d'engagement tout au long de la vie dans une logique de continuum, le Gouvernement entend renforcer les opportunités d'engagement collectif et individuel des jeunes, en facilitant l'accès aux dispositifs existants, en créant des passerelles entre les dispositifs et en valorisant les compétences acquises par les jeunes tout au long de leur parcours. Dans cette perspective, un comité interministériel de l'engagement, mis en place depuis juin 2024, permet d'établir des synergies entre les différents départements ministériels. Des référents engagement ont été nommés dans les différentes régions académiques et départements, afin de développer une approche territoriale de l'engagement. Une nouvelle offre d'engagement destinée à renforcer l'engagement citoyen des 16 -18 ans a été lancée en avril 2026 pour faciliter l'accès des mineurs à des missions d'engagement sur l'ensemble du territoire. Elle s'appuie sur la plateforme publique JeVeuxAider.gouv.fr opérée par la réserve civique. Plus de 35 000 missions sont désormais spécifiquement proposées aux 16-18 ans, dans des domaines variés tels que le sport, l'environnement, l'aide alimentaire ou encore la lutte contre l'isolement. Le parcours d'engagement prend appui sur une multitude de dispositifs qui peuvent, le cas échéant, comporter des actions de sensibilisation à l'éthique et au respect des animaux de compagnie mais, à l'instar du service national universel, un module spécifique et commun à l'ensemble des dispositifs d'engagement n'est pas envisagé.
