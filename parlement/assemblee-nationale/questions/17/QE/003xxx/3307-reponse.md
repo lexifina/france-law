@@ -1,0 +1,9 @@
+# Réponse à la question n° 3307
+
+- Question : [3307](3307.md) — Question n° 3307 — Bâtiment du centre de détention de Villenauxe-la-Grande
+
+## Réponse
+
+*JO du 2026-06-30, page 5996*
+
+Le ministère de la Justice poursuit son engagement en faveur de l'amélioration des conditions de travail des personnels pénitentiaires et des conditions de détentions des personnes placées sous main de Justice. Mis en service le 15 mars 1991, le centre de détention (CD) de Villenauxe-la-Grande présentait initialement une capacité opérationnelle de 400 places réparties sur deux bâtiments de détention. Un troisième bâtiment a été construit en 2009, ce qui a permis d'accroitre le nombre de place disponibles. Entre 2018 et 2019, des travaux de réfection d'ampleur ont été effectué sur le bâtiment C de la structure afin de pallier l'état de vétusté avancé de la structure. Le bâtiment A, également fermé pour cause de vétusté, a fait l'objet d'une opération de rénovation complète. Achevés le 20 octobre 2025, les travaux ont permis la réouverture des 192 places de détention. Un renfort de 50 postes de surveillants a été accordé dans le cadre de cette réouverture. Le 3 novembre 2025, le garde des Sceaux a inauguré le nouveau bâtiment. Au 1er avril 2026, le taux d'occupation du CD de Villenauxe-la-Grande est de 97,4 %, soit 569 personnes détenues incarcérées pour une capacité opérationnelle de places nettes. S'agissant des effectifs, au 30 avril 2026, le taux de couverture du CD de Villenauxe-la-Grande s'élève à 99,29 %. Six équivalents temps plein (ETP) d'officiers sont vacants sur les 16 prévus à l'organigramme de référence. Pour pallier cette vacance, deux postes sont proposés à la mobilité des officiers pour une prise de poste au 1er septembre 2026. Par ailleurs, il convient de souligner que les postes d'encadrant sont actuellement tous pourvus, et que les postes de la filière expertise sont couverts à hauteur de 103,38 %.
