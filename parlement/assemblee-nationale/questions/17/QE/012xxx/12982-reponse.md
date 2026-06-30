@@ -1,0 +1,9 @@
+# Réponse à la question n° 12982
+
+- Question : [12982](12982.md) — Question n° 12982 — Route de désenclavement du Mont-Dore
+
+## Réponse
+
+*JO du 2026-06-30, page 6046*
+
+La RP1 et plus particulièrement le tronçon Boulari-La Coulée est depuis plusieurs années le théâtre de blocages et d'actes de délinquance. Pendant les émeutes, ils ont conduit à l'isolement de nombreux habitants pendant plusieurs mois (entre mai 2024 et février 2025). Malgré une situation aujourd'hui stabilisée, la crainte de nouveaux blocages demeure chez les habitants du Mont-Dore Sud et de Yaté et pèse sur le quotidien de la population. L'actuelle RP1 est par ailleurs soumise à des risques de submersions sur le tronçon de la route de la Coulée, notamment en saison cyclonique (risques de crues) qui peuvent la rendre impraticable. La Province Sud, propriétaire et gestionnaire de l'infrastructure, a engagé des études afin d'examiner l'opportunité et les modalités de construction d'une route alternative. Elle bénéficie pour cela du soutien de l'État à hauteur de 60 M FCP dans le cadre du contrat de développement 2024-2027. Ce financement doit lui permettre de réaliser une série d'analyses au cours de l'année 2026, nécessaires au lancement de l'opération. Sans attendre le résultat de ces études, il est indispensable de proposer une solution concrète face aux difficultés que connaissent les habitants du Mont-Dore Sud et de Yaté. A cet égard, la réflexion sur le confortement d'une liaison maritime pérenne comme alternative transitoire et/ou complémentaire au projet de nouvelle liaison routière doit être encouragée. L'État sera particulièrement attentif aux projets d'investissement qui pourraient lui être présentés par les acteurs locaux pour accompagner de ce type de desserte, notamment dans le cadre du plan de relance en cours de déploiement sur le territoire.
