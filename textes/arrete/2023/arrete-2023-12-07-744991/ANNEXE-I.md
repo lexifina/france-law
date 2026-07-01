@@ -4,15 +4,17 @@ CAHIER DES CHARGES DES ÉCO-ORGANISMES
 
 1. Orientations générales
 
-L'éco-organisme contribue à la prévention et à la gestion des déchets d'emballages servant à commercialiser des produits consommés ou utilisés par les ménages (ci-après dénommés "déchets d'emballages ménagers") y compris ceux susceptibles de l'être et ceux consommés hors foyer, des imprimés papiers et des papiers à usage graphique mentionnés au 1° de l'article L. 541-10-1 du code de l'environnement pour le compte des producteurs qui lui ont transféré leur obligation de responsabilité élargie en application du I de l'article L. 541-10.
+L'éco-organisme contribue à la prévention et à la gestion des déchets d'emballages servant à commercialiser des produits consommés ou utilisés par les ménages (ci-après dénommés "déchets d'emballages ménagers") y compris ceux susceptibles de l'être, ceux consommés hors foyer et ceux consommés ou utilisés par des professionnels, des imprimés papiers et des papiers à usage graphique mentionnés au 1° de l'article L. 541-10-1 du code de l'environnement pour le compte des producteurs qui lui ont transféré leur obligation de responsabilité élargie en application du I de l'article L. 541-10.
 
 L'éco-organisme exerce son agrément pour l'ensemble des emballages ménagers, imprimés papiers et papiers à usage graphique, mentionnés au 1 de l'article L. 541-10-1 du code de l'environnement. Lorsque plusieurs éco-organismes sont agréés, les obligations du présent cahier des charges sont appréciées pour chacun des éco-organismes au prorata des quantités des produits susmentionnés mis sur le marché l'année précédente par les producteurs qui leur ont transféré l'obligation de responsabilité élargie. Le contrat type d'adhésion à l'éco-organisme est conclu par année civile entière et pour la totalité des emballages ménagers, imprimés papiers et papiers à usage graphique de l'adhérent.
 
-L'éco-organisme contribue à la réduction des déchets d'emballages ménagers, d'imprimés papiers et de papiers à usage graphique et soutient financièrement le réemploi et la réutilisation des emballages ménagers, dans les conditions prévues aux paragraphes 3 et 4 du présent cahier des charges.
+L'éco-organisme contribue à la réduction des déchets d'emballages ménagers, d'imprimés papiers et de papiers à usage graphique et soutient financièrement le réemploi et la réutilisation des emballages ménagers, dans les conditions prévues aux paragraphes 3 et 4 du présent cahier des charges. Pour les emballages ménagers collectés auprès des professionnels en vue de leur réemploi, il prend en charge les coûts supportés par les éco-organismes agréés pour la gestion des emballages des professionnels.
 
-En outre, il pourvoit ou contribue financièrement à la gestion des déchets des emballages ménagers et mixtes alimentaires définis à l'article R. 543-43 du code de l'environnement ainsi qu'aux imprimés papiers et papiers à usage graphique définis au R. 543-207 dans les conditions prévues aux paragraphes 5 et 6 du présent cahier des charges.
+En outre, il pourvoit ou contribue financièrement à la gestion des déchets des emballages ménagers définis à l'article R. 543-43 du code de l'environnement y compris pour les emballages ménagers collectés auprès des professionnels, ainsi qu'aux imprimés papiers et papiers à usage graphique définis au R. 543-207 dans les conditions prévues aux paragraphes 5 et 6 du présent cahier des charges.
 
-Le niveau de contribution financière fixé par l'éco-organisme lui permet de s'assurer des produits suffisants pour faire face aux exigences du présent cahier des charges afférentes aux obligations transférées par ses adhérents dont les soutiens pour la gestion des emballages mixtes alimentaires collectés par les éco-organismes agréés pour la gestion des emballages des professionnels ayant une activité de restauration.
+Il est responsable de l'atteinte des objectifs définis dans le présent cahier des charges, pour l'ensemble des emballages ménagers, qu'ils soient collectés par le service public de gestion des déchets ou par des opérateurs privés.
+
+Le niveau de contribution financière fixé par l'éco-organisme lui permet de s'assurer des produits suffisants pour faire face aux exigences du présent cahier des charges afférentes aux obligations transférées par ses adhérents dont les soutiens pour la gestion des emballages ménagers collectés par les éco-organismes agréés pour la gestion des emballages des professionnels.
 
 Les études prescrites par le présent cahier des charges ou en application de dispositions réglementaire de la section 8 du chapitre Ier du titre IV du livre V de la partie réglementaire du code de l'environnement, ainsi que les documents afférents (projets de spécifications, projets de rapports intermédiaires…), sont transmis à l'ADEME avant leur adoption par l'éco-organisme. En l'absence d'un avis de l'ADEME dans un délai d'un mois, ces études et documents sont réputés validés par l'agence.
 
@@ -284,7 +286,7 @@ L'éco-organisme réalise un bilan annuel des actions en faveur du réemploi men
 
 4.6.1. Prise en charge des coûts des opérations de reprise des emballages réemployables par les distributeurs et les points de reprise
 
-L'éco-organisme contribue à la prise en charge des coûts des opérations de reprise des emballages réemployables usagés et de transport jusqu'à un centre de massification auprès des distributeurs ainsi que toute personne qui assure auprès des professionnels ayant une activité de restauration la reprise sans frais des emballages réemployables usagés, lorsque ceux-ci en font la demande, selon des modalités précisées par le contrat type établi en application de l'article R. 541-104.
+L'éco-organisme contribue à la prise en charge des coûts des personnes qui assurent auprès des distributeurs et des professionnels la reprise des emballages ménagers destinés au réemploi lorsque ceux-ci en font la demande, selon des modalités précisées par le contrat type établi en application de l'article R. 541-104. Les coûts pris en charge correspondent aux opérations de collecte et de transport jusqu'à un centre de massification.
 
 Dans les cas où, pour une catégorie d'emballages réemployables donnée, une gamme standard d'emballages réemployables a été définie par l'éco-organisme conformément à l'article 65 de la loi anti-gaspillage, la prise en charge des coûts n'excède pas la fourniture de services de gestion présentant un bon rapport coût-efficacité pour des emballages réemployables standardisés de même catégorie.
 
@@ -302,11 +304,11 @@ Conformément à l'article L. 541-10-27, la prise en charge de ces coûts tient 
 
 Lorsque que cela est nécessaire pour atteindre les objectifs du présent cahier des charges, l'éco-organisme contribue à la prise en charge des coûts des opérations de lavage des emballages réemployables concernés par les dispositions prévues aux 4.6.1 et 4.6.2 auprès des personnes qui ont supporté ces coûts, lorsque celles-ci en en font la demande, selon des modalités précisées par le contrat type établi en application de l'article R. 541-104.
 
-4.6.4. Compensation des coûts résultant de la prise en charge des emballages mixtes alimentaires destinés au réemploi auprès des professionnels de la restauration
+4.6.4. Compensation des coûts résultant de la prise en charge des emballages ménagers destinés au réemploi auprès des professionnels de la restauration
 
-L'éco-organisme établit une convention avec tout éco-organisme agréé pour la catégorie de produits mentionnée au 2° de l'article L. 541-10-1 pour compenser le coût que celui-ci supporte pour la prise en charge des coûts des personnes qui assurent, telle que prévue à l'article R. 543-66 du code de l'environnement, la reprise sans frais des emballages mixtes alimentaires destinés au réemploi auprès des professionnels ayant une activité de restauration.
+L'éco-organisme établit une convention avec tout éco-organisme agréé pour la catégorie de produits mentionnée au 2° de l'article L. 541-10-1 pour compenser le coût que celui-ci supporte pour la prise en charge des coûts des personnes qui assurent, telle que prévue à l'article R. 543-66 du code de l'environnement, la gestion des emballages ménagers destinés au réemploi auprès des professionnels.
 
-Cette compensation financière est égale au coût annuel supporté par l'éco-organisme agréé pour la catégorie de produits mentionnée au 2° de l'article L. 541-10-1 pour la prise en charge des emballages mixtes alimentaires destinés au réemploi auprès des professionnels de la restauration. Lorsque plusieurs éco-organismes sont agréés pour la catégorie de produits mentionnée au 1° de l'article L. 541-10-1, la compensation financière est répartie au prorata des quantités (en masse ou unités) d'emballages ménagers mis sur le marché par les producteurs ayant transféré leurs obligations de responsabilité élargie à chacun des éco-organismes.
+Cette compensation financière est égale au coût annuel supporté par l'éco-organisme agréé pour la catégorie de produits mentionnée au 2° de l'article L. 541-10-1 pour la prise en charge des emballages ménagers destinés au réemploi auprès des professionnels. Ce coût annuel est calculé sur la base du montant du barème de soutien pour la gestion de ces emballages définis par l'éco-organisme agréé pour la catégorie de produits mentionnée au 1° de l'article L. 541-10-1 ou l'organisme coordonnateur lorsque plusieurs éco-organismes sont agréés. Lorsque plusieurs éco-organismes sont agréés pour la catégorie de produits mentionnée au 1° de l'article L. 541-10-1, la compensation financière est répartie au prorata des quantités (en masse ou unités) d'emballages ménagers mis sur le marché par les producteurs ayant transféré leurs obligations de responsabilité élargie à chacun des éco-organismes.
 
 La compensation financière intervient chaque année avec le versement d'acomptes trimestriels en année N et le versement d'un solde annuel au plus tard au 30 juin de l'année N + 1 pour les déchets collectés en année N.
 
@@ -344,9 +346,9 @@ Tous emballages63 %65 %66 %67 %68 %69 %
 
 Le taux de recyclage ci-dessus est déterminé, conformément aux dispositions de l'article 6 bis de la directive 94/62/CE du 20 décembre 1994 relative aux emballages et aux déchets d'emballages modifiée, comme étant la quantité de déchets (en masse) d'emballages recyclés déterminés selon les dispositions de la décision de la Commission 2005/270/CE modifiée pour l'année considérée, rapportée à la quantité de déchets (en masse) d'emballages mis en marché par ses adhérents durant l'année considérée.
 
-Ce taux de recyclage prend également en compte les tonnages de déchets d'emballages mixtes alimentaires définis à l'article R. 543-43, dont la collecte et le recyclage sont assurés ou soutenus par tout éco-organisme agréé pour la gestion des déchets d'emballages mentionnés au 2° de l'article L. 541-10-1 du code de l'environnement, dès lors que l'éco-organisme a contribué à leur prise en charge financière conformément aux dispositions de l'article R. 543-55 et du présent cahier des charges.
+Ce taux de recyclage prend également en compte les tonnages de déchets d'emballages ménager, dont la collecte et le recyclage sont assurés ou soutenus par tout éco-organisme agréé pour la gestion des déchets d'emballages mentionnés au 2° de l'article L. 541-10-1 du code de l'environnement, dès lors que l'éco-organisme a contribué à leur prise en charge financière conformément aux dispositions de l'article R. 543-55 et du présent cahier des charges.
 
-L'éco-organisme prend les mesures nécessaires pour atteindre des objectifs de recyclage équivalents pour les emballages mixtes alimentaires dont il assure ou soutient la collecte, de façon à respecter les objectifs figurant dans le tableau précédent.
+L'éco-organisme prend les mesures nécessaires pour atteindre des objectifs de recyclage équivalents pour les emballages professionnels dont il soutient la collecte, de façon à respecter les objectifs figurant dans le tableau précédent.
 
 Objectif de collecte pour recyclage des bouteilles plastiques pour boisson à usage unique
 
@@ -390,7 +392,7 @@ Le comité de pilotage de cette étude associe l'ADEME, de représentants des pr
 
 En application de l'article L. 541-10-2 du code de l'environnement, l'éco-organisme contribue à la prise en charge des coûts des opérations de collecte et de tri relatifs à la collecte sélective auprès des collectivités et leurs groupements compétents ayant supporté ces coûts, selon des modalités précisées par un contrat type établi en application de l'article R. 541-104. Ce contrat fixe d'une part les modalités du soutien technique et financier apporté par l'éco-organisme en vue d'aider les collectivités à contribuer à l'atteinte des objectifs fixés au 5.1 (objectifs de recyclage) et d'autre part les modalités de pourvoi assuré par l'éco-organisme pour la gestion des flux visés aux 6.3 à 6.6 dans le respect du principe de libre administration des collectivités territoriales.
 
-Le contrat type porte sur l'ensemble des matériaux d'emballages ménagers et les imprimés papiers et papiers à usage graphique. Il prévoit un engagement systématique des collectivités de réaliser cette extension. Ce contrat type est communiqué par l'éco-organisme avant toute application, et au plus tard dans les trente jours suivant son agrément.
+Le contrat type porte sur les emballages ménagers, les imprimés papiers et papiers à usage graphique, ainsi que sur les emballages professionnels en carton. Il prévoit un engagement systématique des collectivités de réaliser cette extension. Ce contrat type est communiqué par l'éco-organisme avant toute application, et au plus tard dans les trente jours suivant son agrément.
 
 Dans le cadre de ce contrat type, l'éco-organisme verse aux collectivités territoriales et leurs groupements des soutiens financiers relevant du fonctionnement tels que précisés au 5.2.4 (soutiens au fonctionnement : barème aval).
 
@@ -440,7 +442,7 @@ Les collectivités territoriales compétentes en matière de collecte et/ou de t
 
 5.2.2.2. Possibilité de prise en charge de la gestion des emballages ménagers d'imprimés papiers et de papiers à usage graphique
 
-Dans les collectivités des territoires concernés, en application de l'article R. 541-132, l'éco-organisme est tenu de pourvoir à la gestion des déchets d'emballages ménagers, d'imprimés papiers et papiers à usage graphique relevant de son agrément lorsqu'une collectivité territoriale compétente pour la gestion de ces déchets lui en fait la demande.
+Dans les collectivités des territoires concernés, en application de l'article R. 541-132, l'éco-organisme est tenu de pourvoir à la gestion des déchets d'emballages ménagers, d'imprimés papiers et papiers à usage graphique relevant de son agrément ainsi qu'à la gestion des déchets d'emballages professionnels en carton lorsqu'une collectivité territoriale compétente pour la gestion de ces déchets lui en fait la demande.
 
 L'éco-organisme ayant fait l'objet d'une telle demande conclut une convention avec la collectivité territoriale concernée qui précise les points de collecte que l'éco-organisme met en place et exploite pour assurer une couverture géographique appropriée du territoire concerné, une gestion efficace des déchets conformément à l'article R. 541-103 et l'atteinte des objectifs définis dans le présent cahier des charges.
 
@@ -478,7 +480,7 @@ S'agissant des territoires d'outre-mer concernés par l'application du quatrièm
 
 5.2.4.1. Soutiens financiers au titre du recyclage
 
-Tous les déchets d'emballages ménagers, imprimés papiers et papiers à usage graphiques conformes aux standards prévus au 6.1.1 peuvent bénéficier des soutiens financiers sous réserve du respect des dispositions du 6.7 pour les flux dont la reprise et le recyclage ne sont pas organisés par l'éco-organisme.
+Tous les déchets d'emballages ménagers, imprimés papiers et papiers à usage graphiques conformes aux standards prévus au 6.1.1 ainsi que les déchets d'emballages professionnels en carton collectés par les collectivités territoriales peuvent bénéficier des soutiens financiers sous réserve du respect des dispositions du 6.7 pour les flux dont la reprise et le recyclage ne sont pas organisés par l'éco-organisme.
 
 a) Tarif unitaire de soutien à la collecte sélective et au tri
 
@@ -704,7 +706,7 @@ S'agissant des personnes publiques autres que les collectivités chargées d'ass
 
 5.4. Reprise sans frais des déchets d'emballages ménagers, imprimés papiers et papiers à usage graphique issus de la consommation nomade hors périmètre des collectivités
 
-L'éco-organisme assure la reprise sans frais des déchets d'emballages ménagers et de papiers issus de la consommation hors foyer qui ne sont ni collectés par le service public ni pris en charge par l'éco-organisme agréé au titre de la filière à responsabilité élargie des producteurs d'emballages servant à commercialiser des produits consommés ou utilisés par des professionnels ayant une activité de restauration.
+L'éco-organisme assure la reprise sans frais des déchets d'emballages ménagers et de papiers issus de la consommation nomade hors foyer qui ne sont pas collectés par le service public.
 
 A cette fin, il pourvoit à la gestion de ces déchets dans les lieux accueillant du public qui en font la demande dès lors qu'est établie l'absence de prise en charge de ces déchets par les collectivités territoriales mentionnées à l'article L. 2224-13 du code général des collectivités territoriales. Il peut également couvrir les coûts des personnes qui assurent la reprise sans frais de ces mêmes déchets.
 
@@ -716,7 +718,7 @@ Afin de bénéficier de cette reprise sans frais :
 
 Les modalités de cette reprise sans frais sont précisées, selon le cas, par le contrat-type établi en application de l'article R. 541-104 ou R. 541-105.
 
-Les espaces accueillant du public concernés sont notamment les aires d'autoroutes, les gares et stations de métro, les aéroports, les parcs des expositions, les musées et monuments, les cinémas, les centres commerciaux, les parcs de loisirs, les festivals, les évènements sportifs, les bureaux, etc.).
+Les espaces accueillant du public concernés sont notamment les aires d'autoroutes, les gares et stations de métro, les aéroports, les parcs des expositions, les musées et monuments, les cinémas, les centres commerciaux, les parcs de loisirs, les festivals, les évènements sportifs, les bureaux, etc.). Il actualise ce plan d'action en concertation avec l'éco-organisme agréé pour la gestion des emballages visés au 2° de l'article L. 541-10-1, ou avec l'organisme coordonnateur lorsque plusieurs éco-organismes sont agréés, dans les trois mois suivant la date d'agrément de ces derniers.
 
 L'éco-organisme propose dans son dossier de demande d'agrément un plan d'actions qui précise les actions à mettre en œuvre pour que l'ensemble des espaces accueillant du public mentionnés ci-dessus soit couvert par cette reprise sans frais dans un délai de trois ans à compter de son agrément. L'éco-organisme peut par ailleurs accompagner les gestionnaires de ces espaces qui le souhaitent en tenant à leur disposition des supports de communication ou en les aidant techniquement à la mise en place d'actions facilitant la collecte de ces déchets d'emballages ménagers.
 
@@ -724,15 +726,29 @@ L'éco-organisme met en place un suivi de la performance de la collecte de ces d
 
 Lorsque plusieurs éco-organismes sont candidats à l'agrément, les éco-organismes peuvent se coordonner dès l'élaboration de leur demande d'agrément si aucun n'est encore agréé, et en tout état de cause si une première demande d'agrément est encore en cours d'instruction, afin de formuler une proposition conjointe de plan d'action.
 
-5.5. Compensation des coûts résultant de la gestion des emballages mixtes alimentaires collectés auprès des professionnels de la restauration
+5.5. Compensation des coûts résultant de la gestion des emballages ménagers et professionnels
 
-Pour l'application de l'article R. 543-55, l'éco-organisme établit une convention avec tout éco-organisme agréé pour les emballages de la restauration mentionnés au 2° de l'article L. 541-10-1 pour compenser les coûts que celui-ci supporte pour la collecte et le traitement des déchets des emballages mixtes alimentaires définis à l'article R. 543-43.
+a) Compensation des coûts résultant de la gestion des emballages ménagers collectés auprès des professionnels
 
-Cette compensation financière est égale au produit de la quantité annuelle (en masse) de déchets d'emballages mixtes alimentaires collectés auprès des professionnels de la restauration par le coût forfaitaire de collecte et de traitement de ces déchets. Lorsque plusieurs éco-organismes sont agréés pour la catégorie de produits mentionnée au 1° de l'article L. 541-10-1, la compensation financière est répartie au prorata des quantités (en masse ou unités) d'emballages ménagers mis sur le marché par les producteurs ayant transféré leurs obligations de responsabilité élargie à chacun des éco-organismes.
+Pour l'application de l'article R. 543-55, l'éco-organisme établit une convention avec tout éco-organisme agréé pour les emballages professionnels mentionnés au 2° de l'article L. 541-10-1 pour compenser les coûts que celui-ci supporte pour la collecte et le traitement des déchets des emballages mixtes alimentaires définis à l'article R. 543-43.
 
-La méthode de caractérisation de la proportion déchets d'emballages mixtes alimentaires parmi les déchets d'emballages collectés auprès des professionnels ayant une activité de restauration est définie en concertation avec l'éco-organisme agréé pour les emballages de la restauration, dans les six mois à compter de la date d'agrément de ce dernier. La proposition de méthode de caractérisation est transmise pour avis à l'ADEME puis pour accord au ministre de l'environnement, ainsi qu'un coût forfaitaire de collecte et de traitement de ces déchets.
+Cette compensation financière est égale au produit de la quantité annuelle (en masse) de déchets d'emballages ménagers collectés auprès des professionnels par le coût forfaitaire de collecte et de traitement de ces déchets. Lorsque plusieurs éco-organismes sont agréés pour la catégorie de produits mentionnée au 1° de l'article L. 541-10-1, la compensation financière est répartie au prorata des quantités (en masse ou unités) d'emballages ménagers mis sur le marché par les producteurs ayant transféré leurs obligations de responsabilité élargie à chacun des éco-organismes.
 
-L'éco-organisme compense l'éco-organisme agréé pour les emballages de restauration chaque année avec le versement d'acomptes trimestriels en année N et le versement d'un solde annuel au plus tard au 30 juin de l'année N + 1 pour les déchets collectés en année N.
+La méthode de caractérisation de la proportion déchets d'emballages ménagers parmi les déchets d'emballages collectés auprès des professionnels est définie en concertation avec le ou les éco-organismes agréés pour les emballages professionnels, dans les six mois à compter de la date du premier agrément. La proposition de méthode de caractérisation est transmise pour avis à l'ADEME puis pour accord au ministre de l'environnement, ainsi qu'un coût forfaitaire de collecte et de traitement de ces déchets.
+
+L'éco-organisme compense les coûts supportés par le ou les éco-organismes agréés pour les emballages professionnels chaque année avec le versement d'acomptes trimestriels en année N et le versement d'un solde annuel au plus tard au 30 juin de l'année N + 1 pour les déchets collectés en année N. Par dérogation aux dispositions précédentes, pour l'année 2026, aucun acompte n'est versé en année n et le solde annuel est versé au plus tard le 30 juin 2027.
+
+b) Compensation des coûts résultants de la gestion des emballages professionnels en carton collectés par les collectivités locales en charge du service public de gestion des déchets
+
+Pour l'application de l'article R. 543-55, l'éco-organisme établit une convention avec tout éco-organisme agréé pour la catégorie de produits mentionnée au 2° de l'article L. 541-10-1 pour être compensé des coûts qu'il supporte pour la collecte et le traitement des déchets des emballages professionnels définis à l'article R. 543-43.
+
+Cette compensation financière est égale au produit de la quantité (en masse) de déchets d'emballages professionnels en carton collectés par les collectivités locales dans le cadre de la filière à responsabilité élargie du producteur des emballages ménagers par le montant du tarif unitaire de soutien à la collecte et au tri défini au 5.2.4.1. Lorsque plusieurs éco-organismes sont agréés pour la catégorie de produits mentionnée au 2° de l'article L. 541-10-1, la compensation financière est répartie au prorata des quantités (en masse) d'emballages professionnels en carton mis sur le marché par les producteurs ayant transféré leurs obligations de responsabilité élargie à chacun des éco-organismes.
+
+La méthode de caractérisation de la proportion déchets d'emballages professionnels en carton parmi les déchets d'emballages professionnels collectés par les collectivités locales dans le cadre de la filière à responsabilité élargie du producteur des emballages ménagers est définie en lien avec l'ADEME et en concertation avec le ou les éco-organismes agréés pour les emballages professionnels, dans les six mois à compter de la date du premier agrément. La proposition de méthode de caractérisation est transmise pour accord au ministre de l'environnement, ainsi qu'un coût forfaitaire de collecte et de traitement de ces déchets.
+
+Lorsque plusieurs éco-organismes sont agréés pour la prise en charge des déchets d'emballages ménagers, ils formulent une proposition conjointe sous l'égide de l'organisme coordonnateur.
+
+L'éco-organisme met en œuvre les moyens nécessaires pour assurer la caractérisation annuelle de la quantité de déchets d'emballages ménagers pour lesquels il couvre les coûts de reprise. La compensation financière intervient chaque année avec le versement d'acomptes trimestriels en année n et le versement d'un solde annuel au plus tard au 30 juin de l'année n + 1 pour les déchets collectés en année n.
 
 5.6. Gestion des déchets assurée ou organisée par les producteurs
 
@@ -1090,8 +1106,6 @@ Les éco-organismes agréés se coordonnent sous l'égide de l'organisme coordon
 
 - l'étude visant à préciser la notion d'emballages inutiles mentionnée dans le décret relatif aux objectifs de réduction, de réutilisation et de réemploi, et de recyclage des emballages en plastique à usage unique et à établir des recommandations à l'attention de ses adhérents prévue au 2.5 ;
 
-- les conditions de la prise en charge des coûts des opérations de reprise des emballages réemployables mentionnés aux 4.6.1 à 4.6.3 ;
-
 - les propositions de standards prévus du 6.1.1.1 au 6.1.1.3 et standards expérimentaux prévues au 6.1.1.4 ;
 
 - les campagnes d'information et de communication réalisées ou soutenues par les éco-organismes prévues au 7 ;
@@ -1130,6 +1144,10 @@ Lorsque le contrat type unique résultant de la coordination est différent de c
 
 Les éco-organismes mettent en œuvre le contrat-type figurant dans leur dossier de demande d'agrément jusqu'à l'entrée en vigueur du contrat-type unique, et au plus tard jusqu'au 1er janvier de l'année suivant l'agrément de l'organisme coordonnateur.
 
+- les conditions de la prise en charge des coûts des opérations de reprise des emballages réemployables mentionnés aux 4.6.1 à 4.6.3 et les soutiens financiers associés ;
+
+- la méthode de caractérisation de la proportion des déchets d'emballages professionnels en carton parmi les déchets d'emballages collectés par les collectivités locales dans le cadre de la filière à responsabilité élargie du producteur des emballages ménagers prévue au point b du 5.5.
+
 9.2.3. Dispositions relatives à la répartition des obligations de soutien ou de collecte des déchets d'emballages ménagers, imprimés et papiers à usage graphique
 
 L'équilibrage est arrêté par le ministre chargé de l'environnement chaque année, sur la base des données transmises par les éco-organismes à l'ADEME, qui réalise le calcul d'équilibrage selon la formule proposée par l'organisme coordonnateur dans son dossier de demande d'agrément.
@@ -1154,4 +1172,4 @@ Des objectifs cibles permettant d'apprécier la performance de collecte pour rec
 
 NOTA :
 
-Conformément à l'article 11 de l'arrêté du 5 septembre 2025 (NOR : TECP2506054A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er janvier 2026.
+Conformément à l'article 4 de l'arrêté du 2 décembre 2025 (NOR : TECP2524644A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur au 1er juillet 2026.

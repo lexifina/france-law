@@ -178,15 +178,23 @@ Conformément aux dispositions des articles R. 541-113 à R. 541-115, l'éco-org
 
 3.5. Prise en charge des coûts résultant d'une collecte dans les déchets d'emballages
 
-Pour l'application de l'article L. 541-10-25, l'éco-organisme agréé pour les catégories 3° à 10° de l'article R. 543-228 propose une convention à tout éco-organisme agréé pour la catégorie de produits mentionné au 1° ou au 3° de l'article L. 541-10-1 qui lui en fait la demande afin de lui reverser une compensation financière correspondant aux coûts de collecte et de traitement des déchets de contenants issus des produits relevant des catégories 3° à 10° de l'article R. 543-228 qui sont mis au rebut avec les déchets d'emballages destinés au recyclage. Cette convention prévoit que ces compensations sont ensuite reversées intégralement aux collectivités et leurs groupements qui ont supporté les coûts de gestion de ces déchets.
+3.5.1 Prise en charge des coûts résultant d'une collecte dans les déchets d'emballages ménagers
 
-Cette compensation financière est égale au produit de la quantité (en masse) de DDS que les collectivités territoriales et leurs groupements ont déclaré avoir collectées aux éco-organismes agréés pour la catégorie de produits mentionnée au 1° ou 3° de l'article L. 541-10-1 par le coût forfaitaire de collecte et de traitement de ces DDS. Les frais de gestion correspondants qui sont supportés par ces éco-organismes peuvent s'ajouter à cette compensation.
+Pour l'application de l'article L. 541-10-25, l'éco-organisme agréé pour les catégories 3° à 10° de l'article R. 543-228 propose une convention à tout éco-organisme agréé pour la catégorie de produits mentionné au 1° de l'article L. 541-10-1 qui lui en fait la demande afin de lui reverser une compensation financière correspondant aux coûts de collecte et de traitement des déchets de contenants issus des produits relevant des catégories 3° à 10° de l'article R. 543-228 qui sont mis au rebut avec les déchets d'emballages destinés au recyclage. Cette convention prévoit que ces compensations sont ensuite reversées intégralement aux collectivités et leurs groupements qui ont supporté les coûts de gestion de ces déchets.
+
+Cette compensation financière est égale au produit de la quantité (en masse) de DDS que les collectivités territoriales et leurs groupements ont déclaré avoir collectées aux éco-organismes agréés pour la catégorie de produits mentionnée 1° de l'article L. 541-10-1 par le coût forfaitaire de collecte et de traitement de ces DDS. Les frais de gestion correspondants qui sont supportés par ces éco-organismes peuvent s'ajouter à cette compensation.
 
 Ce coût forfaitaire de collecte et de traitement est égal à la somme :
 
 - d'un soutien financier forfaitaire à la collecte sélective et au tri égal à 522 €/t ;
 
 - du coût supporté par l'éco-organisme pour les opérations de transport et de traitement de DDS auxquelles il pourvoit.
+
+3.5.2 Prise en charge des coûts résultant d'une collecte dans les déchets d'emballages professionnels
+
+Pour l'application de l'article R. 543-231, l'éco-organisme agréé pour les catégories 3° à 10° de l'article R. 543-228 propose une convention à tout éco-organisme agréé pour la catégorie de produits mentionné au 2° de l'article L. 541-10-1 qui lui en fait la demande afin de lui reverser une compensation financière correspondant aux coûts de gestion des déchets de contenants issus des produits relevant des catégories 3° à 10° de l'article R. 543-228.
+
+Cette compensation financière est égale au produit de la quantité (en masse) de contenants de produits chimiques dont la gestion a été soutenue par les éco-organismes agréés pour la catégorie de produits mentionnée au 2° de l'article L. 541-10-1 par les soutiens définis par le cahier des charges des éco-organismes, des systèmes individuels et des organismes coordonnateurs de la filière à responsabilité élargie des producteurs d'emballages servant à commercialiser des produits consommés ou utilisés par des professionnels. Les frais de gestion correspondants qui sont supportés par ces éco-organismes peuvent s'ajouter à cette compensation.
 
 3.6. Contenants permettant une collecte conjointe des déchets diffus spécifiques avec d'autres déchets
 
@@ -242,4 +250,4 @@ L'éco-organisme communique au ministre chargé de l'environnement un bilan de c
 
 NOTA :
 
-Conformément à l'article 11 de l'arrêté du 5 septembre 2025 (NOR : TECP2506054A), ces dispositions, dans leur rédaction résultant de l'annexe III de l'arrêté précité, entrent en vigueur le 1er janvier 2026.
+Conformément à l'article 4 de l'arrêté du 2 décembre 2025 (NOR : TECP2524644A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur au 1er juillet 2026.

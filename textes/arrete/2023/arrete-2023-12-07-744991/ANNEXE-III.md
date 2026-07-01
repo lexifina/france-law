@@ -22,8 +22,6 @@ L'organisme coordonnateur organise les travaux communs entre les éco-organismes
 
 - l'étude visant à préciser la notion d'emballages inutiles mentionnée dans le décret relatif aux objectifs de réduction, de réutilisation et de réemploi, et de recyclage des emballages en plastique à usage unique et à établir des recommandations à l'attention de ses adhérents prévue au 2.5 ;
 
-- les conditions de la prise en charge des coûts des opérations de reprise des emballages réemployables mentionnés aux 4.6.1 à 4.6.3 ;
-
 - les propositions de standards expérimentaux prévues au 6.1.1.4 ;
 
 - les campagnes d'information et de communication réalisées ou soutenues par les éco-organismes prévues au 7 ;
@@ -50,7 +48,11 @@ L'organisme coordonnateur organise les travaux entre les éco-organismes agréé
 
 - les propositions de standards des déchets d'emballages ménagers et de papiers prévues au 6.1 ;
 
-- les dispositifs et/ou organisations, élaborés en lien avec les acteurs de la reprise, permettant d'organiser, de fluidifier et de sécuriser la chaine de la reprise jusqu'au recyclage des papiers collectés par les collectivités territoriales prévus au 6.2.2.
+- les dispositifs et/ou organisations, élaborés en lien avec les acteurs de la reprise, permettant d'organiser, de fluidifier et de sécuriser la chaine de la reprise jusqu'au recyclage des papiers collectés par les collectivités territoriales prévus au 6.2.2 ;
+
+- les conditions de la prise en charge des coûts des opérations de reprise des emballages réemployables mentionnés aux 4.6.1 à 4.6.3 et les soutiens financiers associés ;
+
+- la méthode de caractérisation de la proportion des déchets d'emballages professionnels en carton parmi les déchets d'emballages collectés par les collectivités locales dans le cadre de la filière à responsabilité élargie du producteur des emballages ménagers prévue au point b du 5.5 du cahier des charges des éco-organismes de la filière à responsabilité élargie du producteur d'emballages ménagers, des imprimés papiers et des papiers à usage graphique.
 
 3. Dispositions relatives à la répartition des obligations de soutien ou de collecte des déchets d'emballages ménagers, imprimés papiers et papiers à usage graphique
 
@@ -64,7 +66,7 @@ Il apprécie par ailleurs les obligations réglementaires de chaque éco-organis
 
 L'organisme coordonnateur met en place :
 
-- un mécanisme d'équilibrage financier entre les éco-organismes, qui permet que soit assurée une juste répartition des recettes et des dépenses des différents éco-organismes au regard de leurs obligations, suivant les dispositions réglementaires en vigueur. Ce mécanisme garantit notamment que chacun des éco-organismes contribue équitablement aux coûts liés à la collecte, au tri et au traitement des déchets encourus par les collectivités territoriales, à la prise en charge des déchets abandonnés, à la compensation des coûts résultant de la gestion des emballages mixtes alimentaires collectés auprès des professionnels de la restauration et des montants alloués dans le cadre de la généralisation de la collecte des déchets d'emballages ménagers issus de la consommation hors foyer et collectés par le service de propreté de la gestion des déchets (SPGD) ou par le service propreté des collectivités territoriales et assure à cet égard le respect du principe d'équité dans le traitement des metteurs sur marché et des différentes catégories d'emballages. Le mécanisme d'équilibrage financier permet de répartir les coûts sur la base des parts de marché amont et aval des éco-organismes ;
+- un mécanisme d'équilibrage financier entre les éco-organismes, qui permet que soit assurée une juste répartition des recettes et des dépenses des différents éco-organismes au regard de leurs obligations, suivant les dispositions réglementaires en vigueur. Ce mécanisme garantit notamment que chacun des éco-organismes contribue équitablement aux coûts liés à la collecte, au tri et au traitement des déchets encourus par les collectivités territoriales, à la prise en charge des déchets abandonnés, à la compensation des coûts résultant de la gestion des emballages ménagers collectés auprès des professionnels de la restauration et des montants alloués dans le cadre de la généralisation de la collecte des déchets d'emballages ménagers issus de la consommation hors foyer et collectés par le service de propreté de la gestion des déchets (SPGD) ou par le service propreté des collectivités territoriales et assure à cet égard le respect du principe d'équité dans le traitement des metteurs sur marché et des différentes catégories d'emballages. Le mécanisme d'équilibrage financier permet de répartir les coûts sur la base des parts de marché amont et aval des éco-organismes ;
 
 - un mécanisme spécifique d'équilibrage pour que soit assurée une juste répartition entre les éco-organismes entre eux des obligations relatives à l'organisation de la reprise en vue du recyclage des flux mentionnés au 6.3 et 6.4. L'obligation d'organisation de la reprise en vue du recyclage de ces flux est déterminée pour chaque titulaire en fonction de ses parts de marchés amont relatives à ces flux.
 
@@ -75,3 +77,7 @@ L'équilibrage est arrêté par le ministre chargé de l'environnement chaque an
 L'organisme coordonnateur réalise le bilan des exercices d'équilibrage réalisés et formule, le cas échéant, une proposition d'évolution de la formule d'équilibrage financier ou de nouvelles modalités de calcul pour la mise en œuvre de cet équilibrage. Ces propositions sont transmises à l'autorité administrative pour accord avant leur mise en œuvre.
 
 En l'absence de proposition de formule d'équilibrage ou à défaut d'accord relatif à la méthode de calcul de l'équilibrage, celui-ci est réalisé selon une formule et une méthodologie établies par l'ADEME.
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 2 décembre 2025 (NOR : TECP2524644A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur au 1er juillet 2026.
