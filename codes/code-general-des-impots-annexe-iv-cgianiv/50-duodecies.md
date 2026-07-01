@@ -1010,7 +1010,7 @@ Tous produits de cette position.
 
 |
 
-Tous produits de ces positions.
+Tous produits de cette position.
 
 |
 
@@ -1828,7 +1828,7 @@ Abrasifs naturels ou artificiels en poudre ou en grains, appliqués sur un autre
 
 76-07-11-19 |
 
-Feuilles et bandes minces d'aluminium sans support, simplement laminées, d'une épaisseur inférieure à 0,021 mm (sauf feuilles pour le marquage au fer du n° 3212 et sauf feuilles travaillées pour la décoration des sapins de Noël et en rouleaux d'un poids n'excédant pas à 10 kg) |
+Feuilles et bandes minces d'aluminium sans support, simplement laminées, d'une épaisseur inférieure à 0,021 mm (sauf feuilles pour le marquage au fer du n° 3212 et sauf feuilles travaillées pour la décoration des sapins de Noël et en rouleaux d'un poids n'excédant pas 10 kg) |
 
 82-12-10-10 |
 
@@ -2010,7 +2010,7 @@ Préparations et conserves de thons, entiers ou en morceaux, à l'huile végéta
 
 16-04-14-48 |
 
-Préparations et conserves de thons, entiers ou en morceaux (à l'exclusion des thons hachés, à l'huile végétale, listaos, bonites à ventre rayé et thons à nageoires jaunes (Thunnus albacares) et des filets dénommés " longes)) |
+Préparations et conserves de thons, entiers ou en morceaux (à l'exclusion des thons hachés, à l'huile végétale, listaos, bonites à ventre rayé et thons à nageoires jaunes (Thunnus albacares) et des filets dénommés "longes") |
 
 19-02-11 à 19-02-19 |
 
