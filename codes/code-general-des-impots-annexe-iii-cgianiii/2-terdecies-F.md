@@ -1,80 +1,70 @@
 # Article 2 terdecies F
 
-I. – Les plafonds de loyer et de ressources du locataire mentionnés au 2° du XII de l'article 199 novovicies du code général des impôts sont fixés comme suit :
+I. - Les plafonds de loyer et de ressources du locataire mentionnés au 2° du XII de l'article 199 novovicies du code général des impôts sont fixés comme suit :
 
-1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont, pour les baux conclus en 2025, fixés à 12,02 € en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte ainsi qu'à Saint-Martin et à Saint-Pierre-et-Miquelon, et à 14,28 € en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont, pour les baux conclus en 2026, fixés à 12,21 € en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte ainsi qu'à Saint-Martin et à Saint-Pierre-et-Miquelon, et à 14,46 € en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
 
 Aux plafonds de loyer définis à l'alinéa précédent, il est fait application du coefficient multiplicateur défini au 1 du I de l'article 2 terdecies D.
 
 Pour l'application du présent 1, la surface à prendre en compte s'entend de celle prévue au III de l'article 46 AG terdecies.
 
-2. Les plafonds annuels de ressources des locataires sont, pour les baux conclus en 2025, les suivants :
+2. Les plafonds annuels de ressources des locataires sont, pour les baux conclus en 2026, les suivants :
 
 Composition du foyer locataire |
 
 Lieu de situation du logement |
 
-Guadeloupe, Guyane, Martinique,
+Guadeloupe, Guyane, Martinique, La Réunion, Mayotte, Saint-Martin ou Saint-Pierre-et-Miquelon (en €) |
 
-La Réunion, Mayotte, Saint-Martin
-
-ou Saint-Pierre-et-Miquelon
-
-(en €) |
-
-Nouvelle-Calédonie,
-
-Polynésie française, îles Wallis-et-Futuna
-
-(en €) |
+Nouvelle-Calédonie, Polynésie française, îles Wallis-et-Futuna (en €) |
 
 Personne seule |
 
-32 602 |
+33 105 |
 
-34 607 |
+35 049 |
 
 Couple |
 
-43 539 |
+44 211 |
 
-46 213 |
+46 803 |
 
 Personne seule ou couple ayant une personne à charge |
 
-52 358 |
+53 165 |
 
-55 573 |
+56 283 |
 
 Personne seule ou couple ayant deux personnes à charge |
 
-63 207 |
+64 182 |
 
-67 090 |
+67 947 |
 
 Personne seule ou couple ayant trois personnes à charge |
 
-74 354 |
+75 500 |
 
-78 921 |
+79 929 |
 
 Personne seule ou couple ayant quatre personnes à charge |
 
-83 795 |
+85 087 |
 
-88 943 |
+90 079 |
 
 Majoration par personne à charge supplémentaire à partir de la cinquième |
 
-+ 9 354 |
++ 9 499 |
 
-+ 9 928 |
++ 10 055 |
 
 Pour l'application du présent 2, les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle de la signature du contrat de location et les personnes à charge s'entendent des personnes mentionnées aux articles 196 à 196 B du même code.
 
-II. – Les plafonds de loyer mentionnés au premier alinéa du 1 du I et les plafonds de ressources mentionnés au 2 du même I sont révisés au 1er janvier de chaque année selon les modalités définies aux 1° des 1 et 1 bis de l'article 46 AG duodecies pour les départements de la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte ainsi que pour Saint-Martin et Saint-Pierre-et-Miquelon, et selon celles définies au 2° du 1 et aux 2° et 3° du 1 bis du même article pour la Polynésie française, la Nouvelle-Calédonie et les îles Wallis et Futuna.
+II. - Les plafonds de loyer mentionnés au premier alinéa du 1 du I et les plafonds de ressources mentionnés au 2 du même I sont révisés au 1er janvier de chaque année selon les modalités définies aux 1° des 1 et 1 bis de l'article 46 AG duodecies pour les départements de la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte ainsi que pour Saint-Martin et Saint-Pierre-et-Miquelon, et selon celles définies au 2° du 1 et aux 2° et 3° du 1 bis du même article pour la Polynésie française, la Nouvelle-Calédonie et les îles Wallis et Futuna.
 
-III. – La réduction des plafonds de loyer définis au premier alinéa du 1 du I s'applique en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte dans les mêmes conditions et selon les mêmes modalités que celles prévues au III de l'article 2 terdecies D, sous réserve des dispositions suivantes :
+III. - La réduction des plafonds de loyer définis au premier alinéa du 1 du I s'applique en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte dans les mêmes conditions et selon les mêmes modalités que celles prévues au III de l'article 2 terdecies D, sous réserve des dispositions suivantes :
 
 1° Les plafonds de loyer réduits sont révisés au 1er janvier de chaque année dans les conditions prévues au II du présent article ;
 

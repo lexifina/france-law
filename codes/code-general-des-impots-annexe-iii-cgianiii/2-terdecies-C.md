@@ -4,15 +4,15 @@ Pour l'application du l du 1° du I de l'article 31 du code général des impôt
 
 a. Les plafonds de loyer mensuel, charges non comprises, sont fixés aux quatre cinquièmes, arrondis au centime d'euro le plus proche, de ceux mentionnés au :
 
-- a de l'article 2 terdecies B, pour les baux conclus en 2025, s'agissant de logements autres que ceux visés au b de ce même article ;
+- a de l'article 2 terdecies B, pour les baux conclus en 2026, s'agissant de logements autres que ceux visés au b de ce même article ;
 
-- b de l'article 2 terdecies B, pour les baux conclus en 2025, s'agissant de logements visés au b de ce même article.
+- b de l'article 2 terdecies B, pour les baux conclus en 2026, s'agissant de logements visés au b de ce même article.
 
-Pour les baux conclus en 2025, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux, par mètre carré de surface habitable, à 12,52 € dans les départements d'outre-mer, à Saint-Barthélemy et Saint-Martin et à 15,79 € en Polynésie française, en Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna. Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies.
+Pour les baux conclus en 2026, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux, par mètre carré de surface habitable, à 12,71 € dans les départements d'outre-mer, à Saint-Barthélemy et Saint-Martin et à 15,99 € en Polynésie française, en Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna. Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies.
 
 b. Les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle de la signature du contrat de location.
 
-Pour les baux conclus en 2025, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus en 2026, les plafonds annuels de ressources sont les suivants :
 
 Composition du foyer locataire |
 
@@ -36,77 +36,77 @@ Zone C
 
 Personne seule |
 
-55 647 |
+56 142 |
 
-41 336 |
+41 704 |
 
-37 890 |
+38 227 |
 
-37 632 |
+37 967 |
 
 Couple |
 
-83 166 |
+83 906 |
 
-60 700 |
+61 240 |
 
-55 642 |
+56 137 |
 
-50 581 |
+51 031 |
 
 Personne seule ou couple ayant une personne à charge |
 
-99 969 |
+100 859 |
 
-72 666 |
+73 313 |
 
-66 613 |
+67 206 |
 
-60 556 |
+61 095 |
 
 Personne seule ou couple ayant deux personnes à charge |
 
-119 746 |
+120 812 |
 
-87 941 |
+88 724 |
 
-80 616 |
+81 333 |
 
-73 287 |
+73 939 |
 
 Personne seule ou couple ayant trois personnes à charge |
 
-141 759 |
+143 021 |
 
-103 217 |
+104 136 |
 
-94 618 |
+95 460 |
 
-86 013 |
+86 779 |
 
 Personne seule ou couple ayant quatre personnes à charge |
 
-159 516 |
+160 936 |
 
-116 431 |
+117 467 |
 
-106 728 |
+107 678 |
 
-97 025 |
+97 889 |
 
 Majoration par personne à charge supplémentaire à partir de la cinquième |
 
-+ 17 780 |
++ 17 938 |
 
-+ 13 225 |
++ 13 343 |
 
-+ 12 124 |
++ 12 232 |
 
-+ 11 021 |
++ 11 119 |
 
 Ces plafonds sont révisés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de ressources prévus à l'article 2 duodecies.
 
-Pour les baux conclus en 2025, les ressources des locataires de logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont les suivants :
+Pour les baux conclus en 2026, les ressources des locataires de logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont les suivants :
 
 Composition du foyer locataire |
 
@@ -116,45 +116,45 @@ Polynésie française, Nouvelle-Calédonie, Saint-Pierre-et-Miquelon, îles Wall
 
 Personne seule |
 
-33 713 |
+34 233 |
 
-28 264 |
+28 625 |
 
 Couple |
 
-45 018 |
+45 712 |
 
-52 267 |
+52 935 |
 
 Personne seule ou couple ayant une personne à charge |
 
-54 137 |
+54 972 |
 
-55 287 |
+55 993 |
 
 Personne seule ou couple ayant deux personnes à charge |
 
-65 347 |
+66 355 |
 
-58 310 |
+59 055 |
 
 Personne seule ou couple ayant trois personnes à charge |
 
-76 877 |
+78 062 |
 
-62 350 |
+63 146 |
 
 Personne seule ou couple ayant quatre personnes à charge |
 
-86 638 |
+87 974 |
 
-66 392 |
+67 240 |
 
 Majoration par personne à charge supplémentaire à partir de la cinquième |
 
-+ 9 672 |
++ 9 822 |
 
-+ 4 247 |
++ 4 302 |
 
 Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies.
 

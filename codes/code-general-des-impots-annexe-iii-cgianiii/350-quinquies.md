@@ -6,7 +6,7 @@ La direction générale des douanes et droits indirects reçoit :
 
 2° (Dispositions devenues sans objet) ;
 
-3° Les déclarations prévues aux articles 312,327 et 329 du code général des impôts dans sa rédaction en vigueur au 30 juin 2025 ;
+3° Les déclarations prévues aux articles 312 et 329 du code général des impôts dans sa rédaction en vigueur au 30 juin 2025 ;
 
 4° (Dispositions devenues sans objet) ;
 
@@ -26,4 +26,4 @@ La direction générale des douanes et droits indirects reçoit :
 
 NOTA :
 
-Conformément à l'article 4 du décret n° 2025-591 du 26 juin 2025, ces dispositions entrent en vigueur le 1er juillet 2025.Modifications effectuées en conséquence de l'article 4-1° de l'ordonnance n° 2015-1247 du 7 octobre 2015.
+Modifications effectuées en conséquence de l'article 25-4° de l'ordonnance n° 2023-1210 du 20 décembre 2023.

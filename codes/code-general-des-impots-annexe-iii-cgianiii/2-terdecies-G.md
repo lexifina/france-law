@@ -8,7 +8,7 @@ a) Pour les logements donnés en location dans le cadre d'une convention mention
 
 Pour l'application du premier alinéa, les plafonds de loyer applicables pour les logements situés dans la zone C sont égaux à ceux fixés au premier alinéa pour les logements situés dans la zone B2 du 1 du I de l'article 2 terdecies D. La zone C mentionnée au présent alinéa est celle définie à l'article D. 304-1 du code de la construction et de l'habitation ;
 
-b) Pour les logements donnés en location dans le cadre d'une convention mentionnée à l'article L. 321-8 du code de la construction et de l'habitation, les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2025, à :
+b) Pour les logements donnés en location dans le cadre d'une convention mentionnée à l'article L. 321-8 du code de la construction et de l'habitation, les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2026, à :
 
 |
 
@@ -34,27 +34,27 @@ Zone C
 
 Loyer social |
 
-13,64 |
+13,78 |
 
-10,49 |
+10,60 |
 
-9,04 |
+9,13 |
 
-8,67 |
+8,76 |
 
-8,05 |
+8,13 |
 
 Loyer très social |
 
-10,63 |
+10,74 |
 
-8,18 |
+8,27 |
 
-7,04 |
+7,11 |
 
-6,74 |
+6,81 |
 
-6,25 |
+6,32 |
 
 Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies.
 

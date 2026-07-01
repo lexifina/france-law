@@ -20,7 +20,7 @@ b) Le nom ou la dénomination, l'adresse postale et électronique et le numéro 
 
 c) Pour chaque assujetti mentionné au b, une copie du mandat mentionné au 3° du II de l'article 289 A bis du code général des impôts ;
 
-d) Une attestation sur l'honneur qu'il remplit les conditions, mentionnées aux 2° et 4° du II de l'article 289 A bis du code général impôts, pour être désigné mandataire ;
+d) Une attestation sur l'honneur qu'il remplit les conditions, mentionnées aux 2° et 4° du II de l'article 289 A bis du code généraldes impôts, pour être désigné mandataire ;
 
 3° Lorsqu'il entend assurer ses missions au profit de nouveaux mandants, il communique à l'administration les informations et documents mentionnés aux b et c du 2° du présent II les concernant avant le dépôt de la première déclaration mentionnée à l'article 287 du code général des impôts reprenant les opérations réalisées par ceux-ci.
 

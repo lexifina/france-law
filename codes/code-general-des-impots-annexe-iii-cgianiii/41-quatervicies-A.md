@@ -6,7 +6,7 @@ a) La nature et la date de l'événement ayant affecté les titres qui lui ont �
 
 b) Le nombre de titres affectés par cet événement ainsi que, le cas échéant, leur prix de cession à la date de l'événement ;
 
-c) Le cas échéant, l'engagement de réinvestir, dans les conditions prévues au 2° du I de l'article 150-0 B ter précité, le produit de la cession des titres concernés, au plus tard à l'expiration d'un délai de deux ans à compter de la date de la cession ou, le cas échéant, à compter de la date de perception d'un complément de prix afférent à cette cession.
+c) Le cas échéant, l'engagement de réinvestir, dans les conditions prévues au 2° du I de l'article 150-0 B ter précité, le produit de la cession des titres concernés, au plus tard à l'expiration d'un délai de trois ans à compter de la date de la cession ou, le cas échéant, à compter de la date de perception d'un complément de prix afférent à cette cession.
 
 2. a) Lorsque la société qui s'est engagée à réinvestir le produit de la cession dans les conditions prévues au 2° du I de l'article 150-0 B ter précité satisfait à cet engagement, elle joint à sa déclaration de résultat de chaque exercice au cours duquel un réinvestissement est effectué une attestation mentionnant les informations suivantes :
 
@@ -22,10 +22,14 @@ b) Lorsque le produit de la cession des titres est réinvesti en application du 
 
 2° Elle joint, le cas échéant, à sa déclaration de résultat de chaque exercice au cours duquel elle a signé un bulletin de souscription en application des deuxième et troisième phrases du d du 2° du I de l'article 150-0 B ter précité, une copie de ce bulletin de souscription.
 
-3. a) La société qui a satisfait à l'engagement de réinvestissement dans les conditions prévues au 2° du I de l'article 150-0 B ter du code général des impôts joint à sa déclaration de résultat de l'exercice au cours duquel les délais de conservation prévus au septième alinéa du même 2° expirent, une attestation du fonds, de la société ou de l'organisme bénéficiaire du réinvestissement certifiant que l'obligation de conservation des biens ou titres ainsi acquis ou souscrits a été satisfaite.
+3. a) La société qui a satisfait à l'engagement de réinvestissement dans les conditions prévues au 2° du I de l'article 150-0 B ter du code général des impôts joint à sa déclaration de résultat de l'exercice au cours duquel le délai de conservation prévu au onzième alinéa du même 2° expire, une attestation du fonds, de la société ou de l'organisme bénéficiaire du réinvestissement certifiant que l'obligation de conservation des biens ou titres ainsi acquis ou souscrits a été satisfaite.
 
 b) La société qui a satisfait à l'engagement de réinvestissement dans les conditions prévues au d du 2° du I de l'article 150-0 B ter du code général des impôts joint à sa déclaration de résultat de l'exercice au cours duquel le délai de cinq ans prévu au même d expire, une attestation mentionnant les sommes effectivement versées au fonds, à la société ou à l'organisme bénéficiaire du réinvestissement.
 
 4. Lorsque la société ne prend pas l'engagement mentionné au c du 1 ou lorsque le réinvestissement effectué ne répond pas aux conditions prévues au 2° du I de l'article 150-0 B ter précité, elle joint à la déclaration de résultat de l'exercice de cession des titres apportés sans engagement de réinvestissement, ou de l'exercice au cours duquel l'une des conditions de réinvestissement n'est pas respectée, une attestation précisant que le produit de la cession des titres apportés n'est pas réinvesti conformément aux dispositions du 2° du I de l'article 150-0 B ter précité.
 
 5. Une copie des attestations mentionnées aux 1 à 4 est transmise par la société concernée au contribuable ayant réalisé l'apport des titres grevés d'une plus-value en report d'imposition ou, le cas échéant, au donataire desdits titres.
+
+NOTA :
+
+Modifications effectuées en conséquence de l'article 106 de la loi n° 2019-1479 du 28 décembre 2019, de l'article 24-I-2° de la loi n° 2023-1322 du 29 décembre 2023 et de l'article 11-I A 1° a et 6° de la loi n° 2026-103 du 19 février 2026.
