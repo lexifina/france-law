@@ -1,9 +1,0 @@
-# Article 1er
-
-Le présent accord est applicable à l'ensemble des entreprises exerçant sur le territoire français, y compris dans les DROM, et relevant du champ d'application de la présente convention collective.
-
-Il ne pourra y être dérogé par accord d'entreprises. (1)
-
-(1) Alinéa étendu sous réserve du respect des dispositions de l'article L. 2253-1 du code du travail.
-
-(Arrêté du 31 mars 2023 - art. 1)
