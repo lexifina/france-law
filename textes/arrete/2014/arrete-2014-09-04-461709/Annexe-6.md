@@ -100,8 +100,24 @@ Lorsque plusieurs sigles concernent une même opération, ils sont concaténés 
 
 - pour les commentaires : toute information nécessaire à la compréhension du dossier de demande par le Pôle national des certificats d'économies d'énergie (PNCEE), notamment concernant le respect des dispositions du troisième alinéa de l'article R. 221-15 du code de l'énergie. Dans le cas des opérations relevant des fiches d'opérations standardisées BAR-TH-174, BAR-TH-175 et BAR-TH-177, il s'agit d'indiquer la liste des références des fiches d'opérations standardisées correspondant aux différents postes de travaux. Dans le cas d'une opération relevant d'une fiche d'opération standardisée pour laquelle il est exigé le renseignement d'un tableau de recensement des engagements, il convient d'indiquer le numéro de l'opération correspondante de ce tableau. Dans le cas des opérations relevant de la fiche d'opération standardisée BAR-TH-173, il convient d'indiquer le numéro du PDL (Point de Livraison), du PRM (Point de Référence et Mesure) ou du PCE (Point de Comptage et d'Estimation) du logement.
 
+-SIRET du bénéficiaire : il convient d'indiquer le numéro SIRET du siège social du bénéficiaire. Les personnes morales qui ne disposeraient pas de numéro SIRET sont identifiées dans le tableau par quatorze étoiles successives (* ** ** ** ** *****) ;
+
+-SIRET du site bénéficiaire de l'opération : il convient d'indiquer le numéro SIRET de l'établissement du bénéficiaire où se situe l'opération. Les personnes morales qui ne disposeraient pas de numéro SIRET sont identifiées dans le tableau par quatorze étoiles successives (* ** ** ** ** *****) ;
+
+-coût de l'opération : il convient d'indiquer le coût de l'opération, tel que déclaré dans l'attestation sur l'honneur, en euros hors taxes (€ HT) et en euros toutes taxes comprises (€ TTC). Le coût de l'opération s'entend, selon la nature de l'opération, comme le coût de l'investissement ou du service lié à la mise en œuvre de l'opération, incluant le cas échéant les coûts d'installation. Lorsqu'il s'agit d'un service, il est indiqué, selon le cas, le coût annuel du service ou le coût ponctuel du service. Toutefois, lorsque l'opération consiste en la location d'un équipement ou d'un véhicule, il convient d'indiquer le coût mensuel de la location. Seuls les coûts éligibles au dispositif des certificats d'économies d'énergie sont comptabilisés quand ils sont disponibles ou, à défaut, le coût total facturé ;
+
+-montant des aides financières hors CEE : il convient d'indiquer le montant total, en euros, de l'ensemble des aides financières, hors incitation financière du dispositif des certificats d'économies d'énergie, octroyées par des organismes publics au titre de l'opération, tel que déclaré dans l'attestation sur l'honneur ;
+
+-nombre de logements : il convient d'indiquer, s'agissant des fiches d'opérations standardisées du secteur résidentiel, le nombre de logements concernés par l'opération ;
+
+-location d'équipement ou de véhicule : lorsque l'opération consiste en la location d'un ou de plusieurs équipements ou véhicules, il convient d'indiquer : “ oui ”, et sinon : “ non ”.
+
 Pour le cas d'un regroupement :
 
 - les colonnes relatives à l'identité du demandeur sont renseignées avec les informations relatives au membre du regroupement concerné par l'opération (et non au regroupeur, sauf en tant que membre du regroupement) ;
 
 - la colonne de la référence EMMY du dossier permet d'identifier le regroupeur : cette référence comporte notamment son numéro de compte.
+
+NOTA :
+
+Conformément au premier alinéa de l'article 5 de l'arrêté du 21 décembre 2025 (NOR : ECOR2534164A), ces dispositions, dans leur rédaction issue du II de l'article 1er de l'arrêté précité, entrent en vigueur à compter du 1er juillet 2026 et s'appliquent aux opérations engagées à compter de cette date.

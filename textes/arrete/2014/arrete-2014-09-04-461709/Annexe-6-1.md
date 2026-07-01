@@ -4,9 +4,7 @@ MODÈLE DE TABLEAU RÉCAPITULATIF DES OPÉRATIONS D'ÉCONOMIES D'ÉNERGIE LORSQU
 
 RAISON
 
-sociale
-
-du demandeur |
+sociale du demandeur |
 
 SIREN
 
@@ -24,7 +22,11 @@ de l'opération |
 
 NOM
 
-du bénéficiaire de l'opération |
+du
+
+bénéficiaire
+
+de l'opération |
 
 PRÉNOM
 
@@ -34,7 +36,13 @@ ADRESSE
 
 de l'opération |
 
-CODE postal sans Cedex |
+CODE
+
+postal
+
+sans
+
+Cedex |
 
 VILLE |
 
@@ -60,17 +68,17 @@ Suite du tableau
 
 VOLUME CEE
 
-&laquo; hors précarité
+" hors précarité
 
-énergétique &raquo;
+énergétique "
 
 (kWh cumac) |
 
 VOLUME CEE
 
-&laquo; précarité
+" précarité
 
-énergétique &raquo;
+énergétique "
 
 (kWh cumac) |
 
@@ -142,21 +150,43 @@ SIREN de l'organisme
 
 de contrôle |
 
-RAISON sociale de l'organisme de contrôle |
+RAISON sociale de l'organisme
 
-SIRET de l'entreprise
+de contrôle |
 
-ayant réalisé l'opération |
+SIRET de l'entreprise ayant réalisé l'opération |
 
-Numéro de téléphone
+Numéro
 
-du bénéficiaire |
-
-Adresse de courriel
+de téléphone
 
 du bénéficiaire |
+
+Adresse de courriel du bénéficiaire |
 
 |
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+Montant du rôle actif et incitatif (€) |
+
+Commentaires |
+
+Raison sociale du mandataire
+
+assurant le rôle actif et incitatif |
+
+Numéro SIREN du mandataire
+
+assurant le rôle actif et incitatif |
 
 |
 
@@ -168,17 +198,17 @@ du bénéficiaire |
 
 Suite et fin du tableau
 
-Montant du rôle actif
+Coût de l'opération (€ HT) |
 
-et incitatif (€) |
+Coût de l'opération (€ TTC) |
 
-Commentaires |
+Montant des aides financières hors CEE (€) |
 
-Raison sociale du mandataire assurant le rôle actif et incitatif |
+Nombre de logements |
 
-Numéro SIREN du mandataire assurant
+Location d'équipement ou de véhicule (oui/ non) |
 
-le rôle actif et incitatif |
+|
 
 |
 
@@ -190,4 +220,4 @@ le rôle actif et incitatif |
 
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 7 avril 2025 (NOR : ECOR2506217A), les dispositions de l'article 1er de l'arrêté précité s'appliquent aux opérations engagées à compter du 1er juillet 2025.
+Conformément au premier alinéa de l'article 5 de l'arrêté du 21 décembre 2025 (NOR : ECOR2534164A), ces dispositions, dans leur rédaction issue du III de l'article 1er de l'arrêté précité, entrent en vigueur à compter du 1er juillet 2026 et s'appliquent aux opérations engagées à compter de cette date.

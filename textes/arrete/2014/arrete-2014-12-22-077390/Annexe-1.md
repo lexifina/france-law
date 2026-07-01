@@ -62,7 +62,7 @@ Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER23
 
 - Stockage d'eau pour une serre bioclimatique / Fiche d'opération n° AGRI-EQ-108
 
-(supprimé)
+Conformément à l'article 1 de l'arrêté du 20 décembre 2023 (NOR : ENER2333440A), la fiche d'opération standardisée n° AGRI-EQ-108 est remplacée par la fiche figurant en annexe A audit arrêté, à compter du 1er février 2024.
 
 - Couverture performante de serre / fiche d'opération n° AGRI-EQ-109
 
@@ -76,7 +76,109 @@ Conformément à l'article 3 de l'arrêté du 22 août 2024 (NOR : ECOR2422700A)
 
 Opération n° AGRI-EQ-112
 
-(supprimé)
+Double paroi gonflable sur serres maraîchères ou horticoles |
+
+1. Secteur d'application
+
+Agriculture : serres maraîchères et horticoles, neuves ou existantes.
+
+2. Dénomination
+
+Mise en place, au-dessus des cultures ainsi que, le cas échéant, sur les parois verticales d'une serre chauffée, d'une couverture multicouche en plastique neuve avec un système de gonflage.
+
+Une serre est considérée comme chauffée lorsque sa température de consigne minimale pour le chauffage est supérieure à 12 °C sur la période de culture.
+
+L'installation d'une double paroi gonflable réalisée uniquement sur les parois verticales de la serre est exclue.
+
+La présente fiche n'est pas cumulable avec la fiche d'opération standardisée AGRI-EQ-108.
+
+La présente fiche s'applique aux opérations engagées avant le 1er septembre 2030.
+
+3. Conditions pour la délivrance de certificats
+
+La mise en place est réalisée par un professionnel.
+
+Le dispositif est piloté automatiquement.
+
+La preuve de la réalisation de l'opération mentionne la mise en place d'une couverture multicouche en plastique neuve avec un système de gonflage.
+
+A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'un équipement avec ses marque et référence et elle est complétée par un document issu du fabricant indiquant que l'équipement de marque et référence installé est une couverture multicouche en plastique neuve avec un système de gonflage.
+
+4. Durée de vie conventionnelle
+
+5 ans.
+
+5. Montant de certificats en kWh cumac
+
+Le volume de certificats d'économies d'énergie est déterminé comme suit :
+
+Type de serres |
+
+Montant en kWh cumac par m2 de serre équipée |
+
+|
+
+Surface de la serre équipée (m2) |
+
+Serres maraîchères |
+
+410 |
+
+X |
+
+S |
+
+Serres horticoles |
+
+290 |
+
+Annexe 1 à la fiche d'opération standardisée AGRI-EQ-112, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ AGRI-EQ-112 (v. A73.3) : Mise en place, au-dessus des cultures ainsi que, le cas échéant, sur les parois verticales d'une serre chauffée, d'une couverture multicouche en plastique neuve avec un système de gonflage.
+
+* Date d'engagement de l'opération (ex : date d'acceptation du devis) :
+
+* Date de preuve de réalisation de l'opération (ex : date de la facture) :
+
+* Référence de la facture :
+
+* Nom du site des travaux :
+
+* Adresse des travaux :
+
+Complément d'adresse :
+
+* Code postal :
+
+* Ville :
+
+* Type de serres chauffées équipées :
+
+□ serres maraîchères
+
+□ serres horticoles
+
+* La température de consigne minimale pour le chauffage est supérieure à 12 °C sur la période de culture : □ Oui □ Non
+
+* Le dispositif est installé au-dessus des cultures ainsi que, le cas échéant, sur les parois verticales d'une serre chauffée :
+
+□ Oui □ Non
+
+Surface équipée de serres chauffées :
+
+* Surface de serres maraîchères équipée (m2) :
+
+* Surface de serres horticoles équipée (m2) :
+
+* Le dispositif est piloté automatiquement : □ Oui □ Non
+
+Caractéristiques de la couverture multicouche en plastique avec un système de gonflage :
+
+A ne remplir que si les marque et référence de la couverture ne sont pas mentionnées sur la preuve de réalisation de l'opération :
+
+* Marque :
+
+* Référence :
 
 - Moto-variateur synchrone à aimants permanents / Fiche d'opération n° AGRI-UT-101
 
@@ -162,6 +264,18 @@ Vous pouvez consulter les fiches dans le fac-similé du JO nº 0294 du 24/12/201
 
 https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
 
+Conformément à l'article 2 de l'arrêté du 21 décembre 2025 (NOR : ECOR2534164A) :
+
+" * Le coût de l'opération lié à la présente partie A s'élève à : € HT et € TTC.
+
+Nota.-Le coût de l'opération s'entend, selon la nature de l'opération, comme le coût de l'investissement ou du service lié à la mise en œuvre de l'opération, incluant, le cas échéant, les coûts d'installation. Lorsqu'il s'agit d'un service, il est indiqué, selon le cas, le coût annuel du service ou le coût ponctuel du service. Toutefois, lorsque l'opération consiste en la location d'un équipement ou d'un véhicule, il convient d'indiquer le coût mensuel de la location. Seuls les coûts éligibles au dispositif des certificats d'économies d'énergie sont comptabilisés quand ils sont disponibles ou, à défaut, le coût total facturé.
+
+* L'ensemble des aides financières, hors incitation financière du dispositif des certificats d'économies d'énergie, octroyées par des organismes publics au titre de l'opération liée à la présente partie A, est, à la date de la présente attestation sur l'honneur, d'un montant prévisionnel total de : €. ;
+
+2° Pour les fiches d'opérations standardisées disposant d'une annexe 2, les colonnes suivantes sont ajoutées aux modèles de tableaux récapitulatifs de l'annexe 2 :
+
+."
+
 NOTA :
 
-Conformément à l'article 2 de l'arêté du 29 mai 2026 (NOR : ECOR2613371A), les dispositions des fiches d'opérations standardisées AGRI-TH-117 " Système de déshumidification thermodynamique fixe pour serres chauffées " et AGRI-TH-119 " Système de déshumidification avec air extérieur ", dans leurs différentes versions, s'appliquent aux opérations incluses dans une liste transmise dans un délai de 10 jours calendaires à compter de la date de publication du présent arrêté, par le demandeur de certificats au ministre chargé de l'énergie, suivant le modèle intitulé " Tableau de recensement des engagements AGRI-TH-117 et AGRI-TH-119 " établi par la direction générale de l'énergie et du climat et mis à disposition sur le site internet du ministère.
+Conformément au premier alinéa de l'article 5 de l'arrêté du 21 décembre 2025 (NOR : ECOR2534164A), ces dispositions, dans leur rédaction issue du II de l'article 2 de l'arrêté précité, entrent en vigueur à compter du 1er juillet 2026 et s'appliquent aux opérations engagées à compter de cette date.
