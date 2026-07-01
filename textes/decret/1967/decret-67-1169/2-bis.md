@@ -1,3 +1,7 @@
 # Article 2 bis
 
-La cotisation du conjoint collaborateur est égale au quart ou à la moitié de celle du professionnel libéral. Le choix retenu pour le calcul de la cotisation est effectué par le conjoint collaborateur par écrit au plus tard soixante jours suivant l'envoi de l'avis de l'affiliation et avant tout versement de cotisations. Si aucun choix n'est effectué, la cotisation est égale au quart de celle du professionnel libéral.
+La cotisation du conjoint collaborateur est égale au quart ou à la moitié de celle du professionnel libéral. Le choix retenu pour le calcul de la cotisation est effectué par le conjoint collaborateur dans les conditions prévues au premier alinéa de l'article R. 662-1 du code de la sécurité sociale. Si aucun choix n'est effectué, la cotisation est égale au quart de celle du professionnel libéral.
+
+NOTA :
+
+Conformément à l'article 30 du décret n° 2026-418 du 29 mai 2026, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 1er juillet 2026.
