@@ -12,7 +12,7 @@ Corps équivalents |
 
 Administrateurs territoriaux. |
 
-Administrateurs civils. |
+Administrateurs de l'Etat. |
 
 Attachés territoriaux. |
 
@@ -249,3 +249,7 @@ Secrétaires administratifs des administrations de l'Etat (services déconcentr�
 Adjoints territoriaux d'animation. |
 
 Adjoints administratifs des administrations de l'Etat (services déconcentrés). |
+
+NOTA :
+
+Conformément à l'article 5 du décret n° 2026-487 du 10 juin 2026, ces dispositions, dans leur rédaction résultant dudit décret, entrent en vigueur le 1er juillet 2026.
