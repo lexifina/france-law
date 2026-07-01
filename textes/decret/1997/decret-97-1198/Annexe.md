@@ -782,7 +782,7 @@ Habilitation des organismes de sûreté. |
 
 Code des transports
 
-Article R. 5332-10.
+Article R. 5332-80.
 
 |
 
@@ -794,7 +794,7 @@ Retrait et suspension de l'habilitation des organismes de sûreté. |
 
 Code des transports
 
-Article R. 5332-12.
+Article R. 5332-82.
 
 |
 
@@ -968,11 +968,9 @@ Ministre chargé de la mer |
 
 Décisions relatives à l'inscription au registre prévu au II de l'article L. 5546-1-1 du code des transports des services privés de recrutement et de placement situés dans un département non littoral. |
 
-Code des transports
+Décret n° 2017-1119 modifié par le décret n° 2021-1477 du 10 novembre 2021
 
-Articles R. 5546-2 (II), R. 5546-2-3, R. 5546-2-4, R. 5546-2-6, R. 5546-2-8 et R. 5546-2-14
-
-|
+Articles 2 (II), 5,6,8,9 et 17 ; |
 
 Ministre chargé de la mer |
 
@@ -1134,7 +1132,7 @@ Agrément des organismes de formation en sûreté portuaire.
 
 Code des transports
 
-Article R. 5332-50
+Article R. 5332-72
 
 |
 
@@ -1148,7 +1146,7 @@ Suspension et retrait de l'agrément d'un organisme de formation en sûreté por
 
 Code des transports
 
-Article R. 5332-53
+Article R. 5332-75
 
 |
 
@@ -3584,4 +3582,4 @@ Décisions relatives aux personnes morales placées sous la tutelle ou le contr�
 
 NOTA :
 
-Conformément à l’article 5 du décret n°2026-210 du 24 mars 2026, ces dispositions, dans leur rédaction résultant dudit décret, entrent en vigueur le 1er avril 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.

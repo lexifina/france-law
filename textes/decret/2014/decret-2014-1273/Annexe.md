@@ -464,22 +464,6 @@ Articles R. 2125-1 à R. 2125-13 |
 
 |
 
-Code des ports maritimes
-
-|
-
-Habilitations préalables à la délivrance des titres de circulation dans les zones d'accès restreint (ZAR) |
-
-Articles R. * 321-34 à R. * 321-40 |
-
-|
-
-Approbation de documents de sûreté d'installations portuaires ou de ports |
-
-Articles R. * 321-18, R. * 321-19, R. * 321-25 et R. * 321-26 |
-
-|
-
 Code de la route
 
 |
@@ -824,9 +808,7 @@ Décisions relatives à l'inscription au registre prévu au II de l'article L. 5
 
 Article L. 5546-1-1 du code des transports
 
-Articles R. 5546-2, R. 5546-2-3, R. 5546-2-4, R. 5546-2-6, R. 5546-2-8 et R. 5546-2-14
-
-|
+Article 2,5,6,8,9 et 17 du décret n° 2017-1119 modifié par le décret n° 2021-1477 du 10 novembre 2021 |
 
 |
 
@@ -1489,3 +1471,7 @@ Agrément des feux de balisage d'obstacles installés sur les éoliennes |
 Article 3.1 de l'annexe |
 
 |
+
+NOTA :
+
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur au 1er juillet 2026.
