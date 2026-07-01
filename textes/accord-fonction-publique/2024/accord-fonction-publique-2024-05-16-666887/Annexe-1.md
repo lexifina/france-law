@@ -4,6 +4,8 @@ PERIMÈTRE DE L'ACCORD
 
 Le périmètre de l'accord PSC concerne les agents du ministère de l'intérieur et des outre-mer ainsi que ceux des établissements publics et autorité administrative indépendante ci-après qui ont donné leur mandat à cet effet.
 
+Agence de l'outre-mer pour la mobilité (LADOM)
+
 Etablissements publics (EP) :
 
 Agence des communications mobiles opérationnelles de sécurité et de secours (ACMOSS).
