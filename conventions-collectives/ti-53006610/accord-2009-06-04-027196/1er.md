@@ -2,7 +2,7 @@
 
 1. Entreprises concernées par l'accord collectif de prévoyance
 
-Sont concernées par le présent accord toutes les exploitations agricoles de polyculture, d'élevage, de cultures spécialisées, d'élevages spécialisés, de viticulture, les coopératives d'utilisation de matériel agricole et les entreprises de travaux agricoles et forestiers de Charente-Maritime.
+Sont concernées par le présent accord toutes les exploitations agricoles de polyculture, d'élevage, de cultures spécialisées, d'élevages spécialisés, de viticulture et les coopératives d'utilisation de matériel agricole de Charente-Maritime.
 
 Elles seront ci-après désignées “ entreprise ”.
 
@@ -16,4 +16,4 @@ Les dispositions de l'accord collectif de prévoyance du 4 juin 2009 s'appliquen
 
 (1) Alinéa étendu sous réserve du respect des dispositions de l'article 6.1.2 de l'accord du 10 juin 2008 étendu par l'arrêté du 3 décembre 2008 susvisé.
 
-(Arrêté du 19 février 2018-art. 1)
+(Arrêté du 19 février 2018 - art. 1)
