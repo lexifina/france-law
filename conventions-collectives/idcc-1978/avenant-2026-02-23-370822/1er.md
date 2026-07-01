@@ -1,0 +1,125 @@
+# Article 1er
+
+L'article 4.2.6 de l'accord du 13 mai 2016 relatif à la prévoyance dans la branche des fleuristes, de la vente et des services des animaux familiers est complété comme suit :
+
+« A. Maintien de salaire. Indemnités quotidiennes
+
+Définition
+
+Cette garantie prévoit la prise en charge des prestations des dispositions relatives au maintien de salaire pour tout salarié ayant une ancienneté de 1 an dans l'entreprise (quelle que soit son ancienneté dans la branche) ou 2 ans dans la branche professionnelle (et moins de 1 an dans l'entreprise) à la date de l'arrêt de travail. L'ancienneté dans l'entreprise est calculée selon les modalités définies à l'article 4.5 de la convention collective nationale des fleuristes, de la vente et des services des animaux familiers.
+
+L'ancienneté dans la branche professionnelle, entendue comme étant l'ensemble des entreprises entrant dans le champ d'application de ladite convention collective nationale fleuristes, vente et services des animaux familiers, s'apprécie de façon continue ou non. La garantie maintien de salaire est versée après une franchise de 3 jours. L'interruption doit être totale et continue. Cette franchise ne s'applique pas en cas de maladie professionnelle ou d'accident du travail.
+
+Montant
+
+Le montant des prestations est fixé selon l'ancienneté dans la branche de façon continue ou non et l'ancienneté dans l'entreprise. Il faut avoir au minimum soit 2 ans dans la branche, soit 1 an dans l'entreprise. L'indemnisation se calcule comme suit (sous déduction des prestations de la sécurité sociale) :
+
+Garantie maintien de salaire |
+
+Ancienneté dans l'entreprise |
+
+Indemnisation à 90 % |
+
+Indemnisation à 70 % |
+
+De 1 à 5 ans inclus |
+
+30 jours |
+
+30 jours |
+
+De 6 à 10 ans inclus |
+
+40 jours |
+
+40 jours |
+
+De 11 à 15 ans inclus |
+
+50 jours |
+
+50 jours |
+
+De 16 à 20 ans inclus |
+
+60 jours |
+
+60 jours |
+
+De 21 à 24 ans inclus |
+
+70 jours |
+
+70 jours |
+
+De 25 à 29 ans inclus |
+
+80 jours |
+
+80 jours |
+
+Plus de 30 ans |
+
+90 jours |
+
+90 jours |
+
+-----
+
+Garantie maintien de salaire |
+
+Ancienneté dans la branche |
+
+Indemnisation à 90 % |
+
+Indemnisation à 70 % |
+
+De 2 à 5 ans inclus |
+
+30 jours |
+
+30 jours |
+
+De 6 à 10 ans inclus |
+
+40 jours |
+
+40 jours |
+
+De 11 à 15 ans inclus |
+
+50 jours |
+
+50 jours |
+
+De 16 à 20 ans inclus |
+
+60 jours |
+
+60 jours |
+
+De 21 à 24 ans inclus |
+
+70 jours |
+
+70 jours |
+
+De 25 à 29 ans inclus |
+
+80 jours |
+
+80 jours |
+
+Plus de 30 ans |
+
+90 jours |
+
+90 jours |
+
+B. Maternité. Adoption
+
+À compter du 1er avril 2026, les salariées ayant au moins 6 mois d'ancienneté dans l'entreprise au jour de l'arrêt de travail pour maternité bénéficieront de leur traitement intégral pendant la durée de leur absence sous déduction des indemnités versées par la sécurité sociale.
+
+Ces dispositions s'appliquent également en cas d'adoption, sous réserve que la sécurité sociale ait admis l'assuré au bénéfice des prestations correspondantes.
+
+L'indemnité est versée pendant la durée du congé légal de maternité ou d'adoption et pour toute la durée d'attribution des prestations par la sécurité sociale. »
