@@ -1,0 +1,45 @@
+# Réponse à la question n° 813
+
+- Question : [813](813.md) — Question n° 813 — Politique pénale de lutte contre les crimes racistes
+
+## Réponse
+
+*JO du 2026-07-01, page 6857*
+
+LUTTE CONTRE LES CRIMES RACISTES
+
+Mme la présidente. La parole est à Mme Mathilde Feld, pour exposer sa question, no 813, relative à la lutte contre les crimes racistes.
+
+Mme Mathilde Feld. Ma question s'adresse au ministre de la justice, dont je regrette l'absence étant donné la gravité de la question. Nous sommes le 31 août 2024, à Cappelle-la-Grande, dans le département du Nord. Djamel Bendjaballah, éducateur spécialisé de 43 ans, vient d'être écrasé à trois reprises par les roues d'une berline, sous les yeux de sa fille âgée de 10 ans. L'auteur de ce meurtre abject, Jérôme Décofour, est l'ex-conjoint de la compagne de la victime, mais il est surtout responsable régional de la Brigade française patriote, un groupuscule paramilitaire d'extrême droite qui s'entraîne à la guérilla urbaine, composé en grande partie d'anciens militaires et, sans surprise, idéologiquement proche du Rassemblement national.
+
+Ce meurtre est un meurtre raciste. Ce meurtre, monsieur le ministre, aurait pu être évité. En effet, entre décembre 2022 et août 2024, Djamel Bendjaballah avait déposé trois plaintes, toutes restées sans suite. Son agresseur lui envoyait des saucissons estampillés « halal » et proférait à son encontre des insultes telles que « sale bougnoule » ou « sarrasin ». Ce meurtre est l'aboutissement de mois de harcèlement raciste, de menaces et d'intimidations islamophobes, sans qu'aucune mesure ait été prise. Vingt-deux armes ont été retrouvées au domicile de M. Décofour après qu'il eut commis le meurtre, sans que cela déclenche la moindre enquête.
+
+Le traitement de cette affaire a donné lieu à de graves manquements des services de police et de justice. Toute la lumière doit être faite sur les circonstances de cet assassinat, mais aussi sur le classement sans suite des plaintes déposées par Djamel Bendjaballah de son vivant.
+
+Alors que la Brigade française patriote poursuit ses activités en toute impunité, la famille de Djamel, empêchée de faire son deuil, mène un combat qu'elle n'aurait jamais dû avoir à mener, celui de faire reconnaître le caractère raciste de ce meurtre. Comment le gouvernement évalue-t-il le traitement judiciaire de cette affaire ? Considère-t-il comme acceptable que plusieurs plaintes déposées par la victime avant son assassinat, dénonçant des faits à caractère raciste, aient été classées sans suite ?
+
+De façon plus large, je souhaite vous interroger sur la politique pénale menée en matière de lutte contre les crimes racistes à l'aune de cette affaire. Quelles mesures comptez-vous mettre en œuvre pour garantir un traitement effectif des affaires faisant apparaître un mobile raciste ? Quels sont les moyens alloués aux magistrats pour identifier, qualifier et poursuivre les crimes de haine ? La réponse judiciaire apportée aux violences commises par des militants et des organisations d'extrême droite vous semble-t-elle satisfaisante ?
+
+Un dernier point, très grave, appelle également une réponse. Selon une enquête de Blast publiée en avril 2026, Jérôme Décofour entretiendrait des liens troublants avec la police. Il aurait reçu trois appels du commissariat de Lille vers 21 heures, juste après son crime. Son ex-compagne affirme qu'il évoquait une seconde activité liée aux services de sécurité intérieure pour lesquels il dit lui-même avoir travaillé. Est-il possible, selon vous, que le refus de reconnaître le caractère raciste du meurtre soit lié à la volonté de ménager les renseignements territoriaux et de taire une éventuelle tentative d'infiltration de la Brigade française patriote ?
+
+Monsieur le ministre, sachez que la famille de Djamel Bendjaballah est avec nous ce matin. Sa sœur et ses cousins, que je salue, vous regardent et vous écoutent depuis les tribunes de l'Assemblée nationale. Ils attendent des actes du garde des sceaux après ce crime effroyable qui a bouleversé leur vie. Ils attendent aussi que le gouvernement reconnaisse enfin que le meurtre de Djamel Bendjaballah, comme les défaillances de son traitement judiciaire, aurait dû constituer un signal d'alarme de plus face à la montée des crimes racistes dans notre pays.
+
+Mme la présidente. La parole est à M. le ministre délégué chargé des relations avec le Parlement.
+
+M. Laurent Panifous, ministre délégué chargé des relations avec le Parlement. Je tiens tout d'abord à souligner que votre question est d’une particulière gravité. Le racisme est un poison pour notre société et la lutte contre toutes les formes qu'il peut prendre appelle l’engagement total du gouvernement et des législateurs, députés comme sénateurs. C’est le combat d’une société.
+
+Je vais maintenant vous donner lecture de la réponse du garde des sceaux.
+
+Le garde des sceaux et le ministère de la justice ne peuvent donner quelque instruction que ce soit dans le cadre d'affaires individuelles, en application de l'article 30 du code de procédure pénale, ni interférer dans les procédures judiciaires, en raison du principe de séparation des pouvoirs prévu à l'article 16 de la Déclaration des droits de l'homme et du citoyen et du principe d'indépendance de l'autorité judiciaire garantie par l'article 64 de la Constitution.
+
+La lutte contre les actes et propos racistes, antisémites et discriminatoires est bien sûr une priorité de la politique pénale. Les circulaires de politique pénale générale du garde des sceaux des 27 janvier 2025 et 16 octobre 2025 ont rappelé la nécessité d'apporter une réponse rapide et ferme aux actes racistes et antisémites et, plus largement, aux violences faites aux personnes.
+
+Le 16 juin dernier a été diffusée une dépêche de la DACG – direction des affaires criminelles et des grâces – relative à la journée nationale d'action en matière de lutte contre les crimes de haine.
+
+Une documentation juridique et pratique est mise à la disposition des juridictions sur l'application de la circonstance aggravante générale et sur les infractions du droit de la presse et leur régime procédural.
+
+Des bonnes pratiques sont mises en exergue, telles que celles de la cour d'appel de Pau, avec la signature de protocoles entre les parquets du ressort sur le signalement et le traitement des infractions de violence, de haine et de discrimination anti-LGBTI.
+
+Les parquets comptent des référents lutte contre les discriminations, réunis par la DACG sur diverses thématiques : présentation du pôle national haine en ligne du parquet de Paris, de la plateforme Pharos – plateforme d'harmonisation, d'analyse, de regroupement et d'orientation des signalements – et du plan Prado – plan national de lutte contre le racisme, l'antisémitisme et les discriminations liées à l'origine. Une réunion s’est tenue fin 2025 sur les nouvelles formes d'antisémitisme et de haine et sur le phénomène masculiniste.
+
+Les procureurs généraux et les procureurs de la République doivent en outre assurer un suivi auprès des administrations à l'origine de signalements réalisés en application de l'article 40 du code de procédure pénale, en les informant notamment des suites procédurales données à ces derniers.
