@@ -1,18 +1,26 @@
 # Article Annexe I-3
 
-Compte tenu des spécificités du métier de gardien de troupeau en estive liés aux conditions d'estive et au temps de familiarisation nécessaire par le gardien de troupeau en estive et le chien de troupeau avec l'estive et le troupeau notamment, il est accordé une prime de fidélité spécifique au gardien de troupeau d'estive.
+Compte tenu des spécificités du métier de gardien de troupeau en estive liées aux conditions d'estive et au temps de familiarisation nécessaire par le gardien de troupeau en estive et le chien de troupeau avec l'estive et le troupeau notamment, il est accordé une prime de fidélité spécifique au gardien de troupeau d'estive.
 
 Cette prime est attribuée au gardien de troupeau d'estive qui accepte de revenir travailler chez le même employeur en saisons successives complètes.
 
-Cette prime est calculée en pourcentage du salaire brut de base fixé par la grille de salaire de la convention collective nationale applicable et de la manière suivante :
+Cette prime est calculée en pourcentage du salaire brut de base du salarié fixé a minima par la grille de salaire de la convention collective nationale applicable et de la manière suivante :
 
-Nombre de saisons successives complètes |
+Nombre de saison
 
-Taux horaire brut de base |
+successives complètes |
 
-Nombre de saisons successives complètes |
+Taux horaire
 
-Taux horaire brut de base |
+brut de base |
+
+Nombre de saisons
+
+successives complètes |
+
+Taux horaire
+
+brut de base |
 
 2 |
 
