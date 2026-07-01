@@ -2,78 +2,104 @@
 
 RÈGLEMENT DES ÉPREUVES SPORTIVES
 
-I.-Conditions générales
+I. - Conditions générales
 
-Tout candidat doit être en possession d'un certificat médical d'aptitude délivré par un médecin de son choix, ou à défaut, signer une décharge personnelle qui lui sera fournie par le service organisateur au moment des épreuves.
+Tout candidat doit signer une décharge personnelle qui lui sera fournie par le service organisateur au moment des épreuves ou fournir un certificat médical d'aptitude délivré par un médecin de son choix.
 
 La chronologie de réalisation des tests est la suivante :
 
--épreuve n° 1 : test de résistance musculaire en isométrie ;
+- épreuve n° 1 : tests de résistance musculaire en isométrie ;
 
--épreuve n° 2 : test d'endurance cardio-respiratoire
+- épreuve n° 2 : test de cardio-motricité.
 
-Tout échec à un seul des deux tests est éliminatoire.
+Tout échec à l'un des tests est éliminatoire.
 
-Avant le commencement du premier test, le responsable en activités physiques et professionnelles en charge de la réalisation des épreuves, dirige des exercices visant exclusivement l'échauffement musculaire et articulaire des candidats, les échauffements à dominante cardio-respiratoire sont à proscrire, étant de nature à compromettre la bonne réalisation du second test.
+Avant le commencement des premiers tests, un formateur aux techniques et à la sécurité en intervention en charge de la réalisation des épreuves, dirige des exercices visant l'échauffement des candidats.
 
 Chaque test doit être démontré et expliqué par l'évaluateur préalablement à sa réalisation.
 
-Quinze minutes de récupération passive minimum doivent impérativement être observées entre la fin du premier test et le commencement du second.
+Les trois tests doivent être enchaînés successivement, avec un temps de récupération de trente secondes entre chacun d'eux.
 
-II.-Epreuve n° 1 : test de résistance musculaire
+II. - Epreuve n° 1 : les tests de résistance musculaire en isométrie
 
-Le test consiste à conserver la position dite de "gainage" (appui facial sur les avant-bras) pendant un temps déterminé.
+a. Le premier test consiste à conserver la position dite de “chaise”, également appelé test de Killy (dos plaqué contre un mur, jambes fléchies) pendant un temps déterminé.
 
-Vous pouvez consulter l'image dans le fac-similé du JO nº 0292 du 17/12/2015, texte nº 1, à l'adresse suivante :
-
-http://legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000031633026
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=G_loyA80fE-aZgrncgqwQ-N7Pce5JP_lubW2AuKlCjU=
 
 Les critères à respecter sont les suivants :
 
--les coudes, à l'aplomb des épaules, forment un angle droit entre les bras et les avant-bras posés au sol ;
+- le dos et la tête doivent rester entièrement plaqués contre le mur ;
 
--les pieds sont joints ;
+- les cuisses sont parallèles au sol, formant un angle droit entre les cuisses et les tibias (90°) ;
 
--le candidat doit prendre et maintenir la rectitude de l'axe tête-tronc-jambes, jambes tendues.
+- les pieds sont espacés de la largeur des hanches et restent à plat au sol ;
+
+- les bras sont pendant le long du corps, sans jamais prendre appui sur les cuisses ni le mur.
 
 Au signal du formateur, le candidat prend la position décrite ci-dessus. La prise de position est corrigée si nécessaire par le formateur avant le déclenchement du compte à rebours.
 
-Barèmes du test de résistance musculaire :
+Barèmes du premier test de résistance musculaire en isométrie :
+
+Femmes :
+
+Le maintien de la position pendant une durée de 1 minute valide la réussite au test.
+
+Le non-respect des consignes, observé et signalé à deux reprises, ou l'arrêt volontaire avant la fin du compte à rebours de 1 minute est éliminatoire.
+
+Hommes :
+
+Le maintien de la position pendant une durée de 1 minute et 30 secondes valide la réussite au test.
+
+Le non-respect des consignes, observé et signalé à deux reprises, ou l'arrêt volontaire avant la fin du compte à rebours de 1 minute et 30 secondes est éliminatoire.
+
+b. Le second test consiste à conserver la position dite de “gainage” (appui facial sur les avant-bras) pendant un temps déterminé.
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=G_loyA80fE-aZgrncgqwQ-N7Pce5JP_lubW2AuKlCjU=
+
+Les critères à respecter sont les suivants :
+
+- les coudes, à l'aplomb des épaules, forment un angle droit entre les bras et les avant-bras posés au sol ;
+
+- les pieds sont joints ;
+
+- le candidat doit prendre et maintenir la rectitude de l'axe tête-tronc-jambes, jambes tendues.
+
+Au signal du formateur, le candidat prend la position décrite ci-dessus. La prise de position est corrigée si nécessaire par le formateur avant le déclenchement du compte à rebours.
+
+Barèmes du second test de résistance musculaire en isométrie :
 
 Femmes :
 
 Le maintien de la position pendant une durée de 1 minute et 15 secondes valide la réussite au test.
 
-L'arrêt volontaire ou le non-respect des consignes, observé et signalé à deux reprises, avant la fin du compte à rebours de 1 minute et 15 secondes est éliminatoire.
+Le non-respect des consignes, observé et signalé à deux reprises, ou l'arrêt volontaire avant la fin du compte à rebours de 1 minute et 15 secondes est éliminatoire.
 
 Hommes :
 
 Le maintien de la position pendant une durée de 1 minute et 45 secondes valide la réussite au test.
 
-L'arrêt volontaire ou le non-respect des consignes, observé et signalé à deux reprises, avant la fin du compte à rebours de 1 minute et 45 secondes est éliminatoire.
+Le non-respect des consignes, observé et signalé à deux reprises, ou l'arrêt volontaire avant la fin du compte à rebours de 1 minute et 45 secondes est éliminatoire.
 
-III.-Epreuve n° 2 : test d'endurance cardio-respiratoire
+III. - Epreuve n° 2 : test de cardio-motricité
 
-Le test consiste à accomplir des allers et retours sur une distance de 20 mètres, à une vitesse progressivement accélérée.
+Le test consiste à effectuer des sauts à pieds joints de part et d'autre d'un obstacle central pendant 3 minutes, en respectant le rythme imposé par le signal sonore.
 
-Une bande sonore règle la vitesse en émettant des sons à intervalles réguliers et annonce la progression du candidat en termes de paliers et de fractions de paliers exprimées en temps (ex. : palier 4, palier 7-45 secondes).
+Au signal de départ, les candidats se positionnent du même côté de l'obstacle, selon les indications de l'évaluateur. A chaque signal sonore, émis toutes les deux secondes, le candidat doit sauter à pieds joints pour franchir l'obstacle et se trouver du côté opposé, prêts à enchaîner le saut suivant. Il dispose de 10 secondes pour caler son mouvement sur le rythme donné. A chaque signal sonore, il doit effectuer le saut pour atteindre l'autre côté de l'obstacle.
 
-L'épreuve commence lentement, à 8 km/ h, puis le rythme augmente progressivement toutes les minutes.
+Les critères à respecter sont les suivants :
 
-Au départ, le candidat dispose de deux minutes pour calquer sa vitesse de course sur les signaux sonores. A chaque signal sonore, il doit ajuster sa course pour se retrouver à une des extrémités du tracé des 20 mètres.
+- l'obstacle central doit être franchi sans aucun contact ni appui ;
 
-A chaque extrémité, il doit bloquer un de ses pieds immédiatement derrière la ligne pour amorcer son retour. Les virages en courbe ne sont pas admis.
+- le candidat doit maintenir une posture stable ;
 
-Deux mètres maximum de retard sont admis à la condition de pouvoir soit maintenir le retard, soit le combler lors des intervalles suivants. Si le retard s'accroît et devient peu à peu égal ou supérieur à deux mètres sans possibilité de le combler, le candidat arrête l'épreuve.
+- le franchissement doit s'effectuer uniquement par saut, sans contournement de l'obstacle ;
 
-Nota.-Le candidat qui glisse ou tombe pendant le test est autorisé à le poursuivre, mais l'incident n'entraîne pas l'interruption de la bande sonore.
+- le candidat doit être correctement positionné du côté attendu au moment de chaque signal sonore.
 
-Barèmes du test d'endurance cardio-respiratoire :
+L'obstacle se situe à une hauteur de 7 cm pour les femmes et de 14 cm pour les hommes.
 
-Femmes :
+L'arrêt volontaire ou le contact avec l'obstacle entraîne une élimination immédiate. Le non-respect du rythme imposé est signalé une première fois ; un second manquement constaté avant la fin du compte à rebours de 3 minutes est éliminatoire.
 
-La candidate qui atteint le palier 4 - vitesse de 10 km/h atteinte après trois minutes de course - valide la réussite à l'épreuve.
+NOTA :
 
-Hommes :
-
-Le candidat qui atteint le palier 6-15" - vitesse de 11,1 km/h atteinte après 5 minutes et 15 secondes de course - valide la réussite à l'épreuve.
+Conformément à l'article 4 de l'arrêté du 10 juin 2026 (NOR : INTC2609969A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur le 1er juillet 2026.
