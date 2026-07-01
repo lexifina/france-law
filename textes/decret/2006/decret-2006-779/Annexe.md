@@ -6,7 +6,7 @@ DESIGNATION DES FONCTIONS ELIGIBLES |
 
 BONIFICATION
 
-(en points d ’ indice majoré)
+(en points d’ indice majoré)
 
 Nombre de points attribués |
 
@@ -142,7 +142,9 @@ Dans un service d'incendie et de secours classé en catégorie A : 30
 
 Dans un service d'incendie et de secours classé en catégorie B : 25
 
-Dans un service d'incendie et de secours classé en catégorie C : 20 |
+Dans un service d'incendie et de secours classé en catégorie C : 20
+
+|
 
 2. FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE
 
@@ -252,17 +254,13 @@ Nombre de points attribués |
 
 30 |
 
-37. Direction des établissements publics locaux ne figurant pas sur la liste prévue au deuxième alinéa de l'article 53 de la loi du 26 janvier 1984 modifiée susvisée et assimilables à une commune de plus de 2000 habitants (selon les critères prévus par le décret n° 88-546 du 6 mai 1988 relatif aux
-
-emplois fonctionnels dans les établissements publics). |
+37. Direction des établissements publics locaux ne figurant pas sur la liste prévue au deuxième alinéa de l'article 53 de la loi du 26 janvier 1984 modifiée susvisée et assimilables à une commune de plus de 2000 habitants (selon les critères prévus par le décret n° 2026-484 du 10 juin 2026 portant dispositions statutaires applicables aux emplois fonctionnels administratifs de direction des collectivités territoriales et des établissements publics locaux assimilés |
 
 30 |
 
-38. Direction à titre exclusif d'un établissement public local ne figurant pas sur la liste prévue au
+38. Direction à titre exclusif d'un établissement public local ne figurant pas sur la liste prévue au deuxième alinéa de l'article 53 de la loi du 26 janvier 1984 modifiée susvisée et assimilable à une
 
-deuxième alinéa de l'article 53 de la loi du 26 janvier 1984 modifiée susvisée et assimilable à une
-
-commune de moins de 2000 habitants selon les critères du décret n° 88-546 du 6 mai 1988 relatif aux emplois fonctionnels dans les établissements publics. |
+commune de moins de 2000 habitants selon les critères du décret n° 2026-484 du 10 juin 2026 portant dispositions statutaires applicables aux emplois fonctionnels administratifs de direction des collectivités territoriales et des établissements publics locaux assimilés |
 
 15 |
 
@@ -274,15 +272,9 @@ De 3001 à 5000 logements : 35
 
 |
 
-40. Chef d'établissement d'une bibliothèque contrôlée dans les communes de plus de 20 000
+40. Chef d'établissement d'une bibliothèque contrôlée dans les communes de plus de 20 000 habitants ou dans les établissements publics locaux assimilables à une commune de plus de 20 000
 
-habitants ou dans les établissements publics locaux assimilables à une commune de plus de 20 000
-
-habitants, selon les critères prévus par le décret n° 88-546 du 6 mai 1988 relatif aux emplois
-
-fonctionnels dans les établissements publics locaux, et disposant de plus de 30 000 ouvrages ou
-
-assurant plus de 40 000 prêts par an. |
+habitants, selon les critères prévus par le décret n° 2026-484 du 10 juin 2026 portant dispositions statutaires applicables aux emplois fonctionnels administratifs de direction des collectivités territoriales et des établissements publics locaux assimilés, et disposant de plus de 30 000 ouvrages ou assurant plus de 40 000 prêts par an. |
 
 30 |
 
@@ -303,3 +295,7 @@ par le décret n° 2000-954 du 22 septembre 2000 relatif aux emplois fonctionnel
 critères précisés par le décret n° 2000-954 du 22 septembre 2000 relatif aux emplois fonctionnels dans les établissements publics). |
 
 10 |
+
+NOTA :
+
+Conformément à l'article 24 du décret n° 2026-484 du 10 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1er juillet 2026.
