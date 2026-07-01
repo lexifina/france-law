@@ -1,0 +1,17 @@
+# Article 1er
+
+Le chapitre 10 est ainsi complété :
+
+« Article 10.4
+
+Congés endométriose
+
+L'endométriose constitue un enjeu global de santé au travail, dont les manifestations et les impacts varient selon les personnes.
+
+Le présent article a pour objet de permettre aux salariées souffrant d'endométriose de bénéficier d'un aménagement spécifique sous forme de jours d'absence rémunérés, tout en garantissant un accompagnement médical et organisationnel adapté.
+
+Ainsi, chaque salariée concernée peut bénéficier, sur production d'un certificat médical, renouvelé annuellement, attestant de sa pathologie, d'un jour d'absence par mois au titre de l'endométriose. Ces jours sont cumulables sur une période maximale d'un trimestre civil, soit 3 jours consécutifs ou non durant le trimestre concerné. L'absence est rémunérée.
+
+La salariée informe son employeur de son absence.
+
+Il est rappelé que le médecin du travail est un acteur central dans la prévention des risques professionnels liés à l'endométriose et la salariée peut solliciter une visite médicale à son initiative pour discuter de sa situation. »
