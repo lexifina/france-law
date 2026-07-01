@@ -1,0 +1,29 @@
+# Réponse à la question n° 796
+
+- Question : [796](796.md) — Question n° 796 — Extension de la compensation des coûts indirects carbone au secteur verrier
+
+## Réponse
+
+*JO du 2026-07-01, page 6843*
+
+MÉCANISME DE COMPENSATION DES COÛTS INDIRECTS CARBONE
+
+Mme la présidente. La parole est à M. Thibault Bazin, pour exposer sa question, no 796, relative au mécanisme de compensation des coûts indirects carbone.
+
+M. Thibault Bazin. Monsieur le ministre des petites et moyennes entreprises, du commerce, de l’artisanat, du tourisme et du pouvoir d’achat, je souhaite vous alerter sur un risque économique majeur pour l'avenir de l'industrie française. Fin 2025, la Commission européenne a décidé d'élargir la liste des secteurs industriels éligibles au mécanisme de compensation des coûts indirects carbone, qui inclut désormais l'industrie verrière. C'est une excellente nouvelle, car ce secteur est particulièrement consommateur d'électricité en raison du fonctionnement continu de fours à très haute température. Plusieurs États membres comme l'Espagne, l'Allemagne et l'Italie ont déjà engagé la transposition de cette extension, contrairement à la France. Pourquoi, alors que des milliers d'emplois sont en jeu ? L'absence d'application rapide de ce mécanisme en France dans l'industrie verrière pourrait créer un différentiel de compétitivité au sein du marché européen, ce qui fragiliserait des sites industriels implantés sur le territoire national et les emplois qui y sont liés.
+
+Si vous ne transposez pas rapidement l'élargissement du mécanisme de compensation des coûts indirects carbone, les manufactures de ma région pourraient être pénalisées. Je pense en particulier à la manufacture de Baccarat, qui incarne l'excellence artistique et industrielle française. Rendez-vous compte : il s'agit du premier employeur privé de ma circonscription ! L'inaction du gouvernement fragiliserait particulièrement le secteur du cristal, engagé dans une transformation industrielle profonde vers le cristal sans plomb. Cette transformation nécessite des investissements considérables dans les fours à très haute température, indispensables pour la qualité du cristal. Il est donc urgent de transposer en droit français l'extension du mécanisme de compensation des coûts indirects carbone au secteur verrier. Dans quel délai vous engagez-vous à le faire ?
+
+Mme la présidente. La parole est à M. le ministre des petites et moyennes entreprises, du commerce, de l’artisanat, du tourisme et du pouvoir d’achat.
+
+M. Serge Papin, ministre des petites et moyennes entreprises, du commerce, de l’artisanat, du tourisme et du pouvoir d’achat. Le gouvernement est pleinement conscient des enjeux de compétitivité auxquels est confrontée la filière verrière française, exposée à la fois aux coûts de l'énergie et au risque de fuite de carbone. Grâce à l'initiative de la France, une révision des lignes directrices européennes a été obtenue en décembre 2025. Cette révision élargit la liste des secteurs éligibles au mécanisme de compensation des coûts indirects du carbone (CCO2) à vingt nouveaux secteurs, parmi lesquels figure la fabrication de verre plat, de verre creux et de fibres de verre. Le gouvernement est conscient que l'extension de la CCO2 au secteur verrier n'a pas encore été traduite en droit national. Il mesure le risque de différentiel de compétitivité que cette situation est susceptible de créer au sein du marché européen, au regard notamment des décisions prises ou envisagées par l'Espagne, l'Allemagne et l'Italie. Cette dynamique est d'autant plus préoccupante que la part des importations a atteint 40 % sur le marché de l'emballage alimentaire. Face à cette situation, le gouvernement examine activement les voies et moyens permettant d'assurer la transposition de cette extension dans les meilleurs délais, notamment l'opportunité d'intégrer la modification de l'article L. 122-8 du code de l'énergie dans le prochain projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne (Ddadue).
+
+Mme la présidente. La parole est à M. Thibault Bazin.
+
+M. Thibault Bazin. Je me félicite que le gouvernement soit conscient des enjeux. J'ai déjà échangé avec lui à plusieurs reprises sur le sujet et je le remercie pour l'action entreprise l'année dernière, qui a abouti à cette avancée importante au niveau européen. Outre l'inscription de nouveaux crédits au prochain budget, la transposition de l'extension du mécanisme au niveau législatif est attendue. Vous avez mentionné l'article L. 122-8 du code de l'énergie. Un projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne est en cours d'examen au Parlement – il a été adopté au Sénat –, mais il ne contient pas la disposition, que vous renvoyez donc à un prochain projet de loi Ddadue.
+
+Je le répète, il y va de l'avenir de l'industrie verrière française. Des sites historiques sont menacés. Or Baccarat, Lalique et Saint-Louis contribuent à l'emploi local, au dynamisme des territoires et au rayonnement international de savoir-faire d'excellence français. Avec mes collègues parlementaires de l'ensemble des territoires concernés, nous avons alerté le gouvernement à plusieurs reprises. Ma question est donc simple : dans quel délai allez-vous transposer en droit français l'extension du mécanisme de compensation des coûts indirects carbone au secteur verrier ? Il y a urgence ! Si nous voulons éviter de prendre du retard par rapport aux autres pays européens, il faut avancer avant la fin de l'année. Nous sommes mobilisés pour soutenir notre industrie et nous ne lâcherons rien. Au gouvernement d'agir pour inscrire à l'ordre du jour du Parlement un futur projet de loi Ddadue !
+
+Mme la présidente. La parole est à M. le ministre.
+
+M. Serge Papin, ministre. Je vous entends, monsieur Bazin, et je ne manquerai pas de relayer votre message auprès du ministre délégué chargé de l'industrie, Sébastien Martin.
