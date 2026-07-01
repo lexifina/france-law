@@ -1,0 +1,39 @@
+# Réponse à la question n° 815
+
+- Question : [815](815.md) — Question n° 815 — Conséquence des permis de recherches minières en Bretagne
+
+## Réponse
+
+*JO du 2026-07-01, page 6861*
+
+PROJETS MINIERS EN BRETAGNE
+
+Mme la présidente. La parole est à M. Paul Molac, pour exposer sa question, no 815, relative aux projets miniers en Bretagne.
+
+M. Paul Molac. Ma question porte sur les projets miniers Taranis, Epona et Bélénos et sur leurs conséquences potentielles en Bretagne. Le 3 décembre 2025, l'État a délivré ces trois permis exclusifs de recherches minières à Breizh Ressources, filiale de la multinationale canadienne Aurania Ressources, basée à Toronto mais fiscalement domiciliée aux Bermudes. Ces projets d'extraction suscitent une opposition ferme de la part des élus locaux, d'une grande partie de la population et des associations en raison de leurs impacts environnementaux – notamment sur la ressource en eau et sur la biodiversité – et de leur impact sur les activités économiques existantes telles que l'agriculture.
+
+Ainsi, pour le projet Taranis, pas moins de dix-huit maires sur les vingt communes concernées se sont prononcés contre les forages et ont interdit à l'entreprise de pénétrer sur les terrains communaux.
+
+De nombreux habitants ont également interdit à l'entreprise de procéder à des forages sur les terrains dont ils sont propriétaires. La contestation est générale. Chacun a dans l'idée qu'un permis exclusif peut conduire à l'ouverture d'une mine et chacun mesure les difficultés liées à l'extraction des minerais, ainsi que les pollutions que peut entraîner le broyage, notamment la pollution de l'air, mais également la contamination de l'eau du fait du lessivage pour éliminer les scories.
+
+Étant donné la population très importante, de l'ordre de quatre-vingts habitants au kilomètre carré, et le fait que la production agricole occupe quasiment tous les terrains, l'exploitation minière aurait nécessairement des effets sur la population. En février 2026, lors de son assemblée plénière, le conseil régional de Bretagne a adopté un vœu à l’unanimité pour demander à l’État d’assurer une réelle concertation autour des créations ou agrandissements des projets miniers en Bretagne. Les élus bretons ont exprimé leur opposition à l'agrandissement ou à l'ouverture de nouvelles mines dans des aires d'alimentation de captage d'eau potable – c'est le cas pour Taranis – et dans les sites naturels protégés. Ils soutiennent le retrait immédiat des permis exclusifs de recherche de mines accordés par l’État.
+
+Dans ce contexte, le gouvernement est-il prêt à retirer ces permis de recherche. À défaut, pourriez-vous nous indiquer les engagements pris par le porteur du projet en matière de transparence et de concertation publique ainsi que les garanties dont disposeront les collectivités locales et les habitants pour être pleinement associés aux décisions relatives à ce projet ?
+
+Enfin, quelles dispositions le gouvernement entend-il prendre afin de concilier les objectifs de souveraineté en matières premières stratégiques avec les exigences de protection de l'environnement et d'acceptabilité des projets miniers par les populations concernées ?
+
+Mme la présidente. La parole est à M. le ministre délégué chargé de la transition écologique.
+
+M. Mathieu Lefèvre, ministre délégué chargé de la transition écologique. Trois permis ont en effet ont en effet été octroyés à la société Breizh Ressources en décembre dernier. Ils portent sur une zone de faille géologique naturellement enrichie en métaux, zone qui a connu par le passé une activité minière, ce qui constitue un contexte plutôt favorable pour découvrir de nouveaux gisements.
+
+Il faut cependant distinguer les étapes et ne pas entretenir de confusion. Ces permis ne sont pas des autorisations d'exploitation. Ils confèrent à leur titulaire l'exclusivité du droit de mener des recherches sur un territoire donné afin d'approfondir la connaissance géologique du secteur et d'identifier d'éventuelles ressources en matériaux stratégiques. Cette procédure ne débouche pas sur un droit d'exploiter un gisement mais consiste uniquement dans l'exclusivité du droit à prospecter sur ce territoire.
+
+Toute ouverture éventuelle de mine sera conditionnée à l'obtention d'une concession minière et d'une autorisation environnementale pour la réalisation de travaux d'exploitation. J'ajoute que les travaux miniers sont strictement encadrés par la loi et placés sous le contrôle permanent des services de l'État. Les premiers travaux d'exploration seront peu invasifs. Il s'agit, entre autres, de prélèvements d'échantillons de sol. Si des forages sont ensuite nécessaires, le porteur de projet devra solliciter les autorisations qui seront délivrées après une évaluation environnementale.
+
+L'instruction des permis exclusifs de recherche a été menée au niveau local. Des réunions d'information avec les élus locaux ont eu lieu au cours de la phase d'instruction avec l'ensemble des élus concernés par les demandes. Des consultations du public ont été menées en 2024 et en 2025. Après un examen approfondi du dossier, il a été relevé que les permis exclusifs de recherche demandés pouvaient être octroyés sous réserve de certaines prescriptions énoncées à l'article 3 du cahier des charges. Ces prescriptions concernent notamment la protection de la ressource en eau. Vous avez raison de nous interpeller à ce sujet, monsieur le député, et le gouvernement y sera très vigilant.
+
+Cependant, j'appelle aussi votre attention sur le fait que, dans un contexte de transition énergétique et de compétition mondiale pour les métaux critiques et stratégiques, il serait au fond peu responsable de renoncer à explorer notre territoire national. Ce serait accepter une dépendance accrue à l'égard de pays tiers pour des matériaux indispensables à notre industrie, à notre défense et à notre souveraineté.
+
+Mme la présidente. La parole est à M. Paul Molac.
+
+M. Paul Molac. Je vous remercie pour vos explications. Sachez que les populations et leurs élus, le conseil régional et les différents maires se sont prononcés démocratiquement contre ces projets. Il faut parvenir à une harmonisation car on ne peut pas laisser les gens dans l'incertitude.
