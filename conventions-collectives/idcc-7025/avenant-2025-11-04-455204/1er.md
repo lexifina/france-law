@@ -1,0 +1,17 @@
+# Article 1er
+
+L'article 1.5 de l'accord est modifié comme suit :
+
+« Article 1.5
+
+Révision de l'accord collectif
+
+La révision de la présente convention peut intervenir sur demande de l'une des organisations représentatives, à tout moment.
+
+Cette révision est de la compétence de la commission de négociation instituée par l'article 1.3 ci-dessus.
+
+Toute demande en révision doit être présentée par tout moyen écrit au président de la commission et aux autres organisations signataires. La commission mixte ou paritaire interdépartementale se réunit alors dans les conditions prévues à l'article L. 2261-20 du code du travail. »
+
+(1) L'article 1er de l'avenant est étendu sous réserve du respect des dispositions de l'article L. 2261-7 du code du travail qui fixe les règles de révision des accords collectifs.
+
+(Arrêté du 12 juin 2026 - art. 1)
