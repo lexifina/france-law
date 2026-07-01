@@ -2,31 +2,31 @@
 
 Chapitre Ier : Définitions
 
-I.-Le besoin en énergie du bâtiment pour le chauffage, le refroidissement et l'éclairage artificiel, mentionné au 1° de l'article R. 172-4 est défini, par un indicateur noté Bbio. Le besoin maximal est noté Bbio max.
+I. - Le besoin en énergie du bâtiment pour le chauffage, le refroidissement et l'éclairage artificiel, mentionné au 1° de l'article R. 172-4 est défini, par un indicateur noté Bbio. Le besoin maximal est noté Bbio max.
 
-II.-La consommation d'énergie primaire du bâtiment, calculée pour des conditions de fonctionnement définies, pour le chauffage, le refroidissement, la production d'eau chaude sanitaire, l'éclairage, la mobilité des occupants interne au bâtiment, les auxiliaires de chauffage, de refroidissement, d'eau chaude sanitaire et de ventilation, mentionnée au 2° de l'article R. 172-4, est définie par un indicateur noté Cep. Cet indicateur ne comptabilise pas, en tant que consommations d'énergie primaire, les énergies renouvelables captées sur la parcelle du bâtiment, pour l'usage du bâtiment. La consommation en énergie primaire maximale est notée Cep_max.
+II. - La consommation d'énergie primaire du bâtiment, calculée pour des conditions de fonctionnement définies, pour le chauffage, le refroidissement, la production d'eau chaude sanitaire, l'éclairage, la mobilité des occupants interne au bâtiment, les auxiliaires de chauffage, de refroidissement, d'eau chaude sanitaire et de ventilation, mentionnée au 2° de l'article R. 172-4, est définie par un indicateur noté Cep. Cet indicateur ne comptabilise pas, en tant que consommations d'énergie primaire, les énergies renouvelables captées sur la parcelle du bâtiment, pour l'usage du bâtiment. La consommation en énergie primaire maximale est notée Cep_max.
 
-III.-La consommation d'énergie primaire non renouvelable du bâtiment, calculée pour des conditions de fonctionnement définies, pour le chauffage, le refroidissement, la production d'eau chaude sanitaire, l'éclairage, la mobilité des occupants interne au bâtiment, les auxiliaires de chauffage, de refroidissement, d'eau chaude sanitaire et de ventilation, mentionnée au 2° de l'article R. 172-4, est définie par un indicateur noté Cep, nr. La consommation en énergie primaire non renouvelable maximale est notée Cep, nr_max.
+III. - La consommation d'énergie primaire non renouvelable du bâtiment, calculée pour des conditions de fonctionnement définies, pour le chauffage, le refroidissement, la production d'eau chaude sanitaire, l'éclairage, la mobilité des occupants interne au bâtiment, les auxiliaires de chauffage, de refroidissement, d'eau chaude sanitaire et de ventilation, mentionnée au 2° de l'article R. 172-4, est définie par un indicateur noté Cep, nr. La consommation en énergie primaire non renouvelable maximale est notée Cep, nr_max.
 
-IV.-L'impact sur le changement climatique de la consommation d'énergie primaire, mentionné au 3° de l'article R. 172-4, est défini par un indicateur exprimé en kg équivalent CO2/m2, est défini par un indicateur noté Icénergie. L'impact maximal sur le changement climatique de la consommation d'énergie primaire est noté Icénergie_max.
+IV. - L'impact sur le changement climatique de la consommation d'énergie primaire, mentionné au 3° de l'article R. 172-4, est défini par un indicateur exprimé en kg équivalent CO2/m2, est défini par un indicateur noté Icénergie. L'impact maximal sur le changement climatique de la consommation d'énergie primaire est noté Icénergie_max.
 
-V.-L'impact sur le changement climatique de la construction, lié à la production des composants du bâtiment, à leur transport, leur installation et l'ensemble du chantier de construction, leur utilisation à l'exclusion des besoins en énergie et en eau de la phase d'exploitation du bâtiment, leur maintenance, leur réparation, leur remplacement et leur fin de vie, évalué sur l'ensemble du cycle de vie du bâtiment, mentionné au 4° de l'article R. 172-4, est défini par un indicateur noté Icconstruction. L'évaluation de cet impact prend en compte les charges et bénéfices liés à la valorisation des composants en fin de vie. L'impact maximal sur le changement climatique de la construction est noté Icconstruction_max.
+V. - L'impact sur le changement climatique de la construction, lié à la production des composants du bâtiment, à leur transport, leur installation et l'ensemble du chantier de construction, leur utilisation à l'exclusion des besoins en énergie et en eau de la phase d'exploitation du bâtiment, leur maintenance, leur réparation, leur remplacement et leur fin de vie, évalué sur l'ensemble du cycle de vie du bâtiment, mentionné au 4° de l'article R. 172-4, est défini par un indicateur noté Icconstruction. L'évaluation de cet impact prend en compte les charges et bénéfices liés à la valorisation des composants en fin de vie. L'impact maximal sur le changement climatique de la construction est noté Icconstruction_max.
 
-VI.-Le nombre de degrés-heures d'inconfort estival, mentionné au 5° de l'article R. 172-4 est évalué pour chaque partie de bâtiment thermiquement homogène, et est défini par un indicateur noté DH. Il exprime la durée et l'intensité des périodes d'inconfort dans le bâtiment sur une année, lorsque la température intérieure est supposée engendrer de l'inconfort. L'inconfort estival maximal est noté DHmax.
+VI. - Le nombre de degrés-heures d'inconfort estival, mentionné au 5° de l'article R. 172-4 est évalué pour chaque partie de bâtiment thermiquement homogène, et est défini par un indicateur noté DH. Il exprime la durée et l'intensité des périodes d'inconfort dans le bâtiment sur une année, lorsque la température intérieure est supposée engendrer de l'inconfort. L'inconfort estival maximal est noté DHmax.
 
-VII.-L'impact sur le changement climatique associé au bâtiment, évalué sur l'ensemble de son cycle de vie, tenant compte du stockage, pendant la vie du bâtiment, de carbone issu de l'atmosphère, mentionné au 6° de l'article R. 172-4, est défini par un indicateur noté Icbâtiment. Il correspond à la somme de l'impact sur le changement climatique des composants Icconstruction et des consommations d'énergies Icénergie ainsi que de l'impact sur le changement climatique des consommations et rejets d'eau pendant l'exploitation du bâtiment.
+VII. - L'impact sur le changement climatique associé au bâtiment, évalué sur l'ensemble de son cycle de vie, tenant compte du stockage, pendant la vie du bâtiment, de carbone issu de l'atmosphère, mentionné au 6° de l'article R. 172-4, est défini par un indicateur noté Icbâtiment. Il correspond à la somme de l'impact sur le changement climatique des composants Icconstruction et des consommations d'énergies Icénergie ainsi que de l'impact sur le changement climatique des consommations et rejets d'eau pendant l'exploitation du bâtiment.
 
-VIII.-La quantité de carbone issu de l'atmosphère et stocké dans le bâtiment, est définie par un indicateur noté StockC.
+VIII. - La quantité de carbone issu de l'atmosphère et stocké dans le bâtiment, est définie par un indicateur noté StockC.
 
-IX.-L'impact sur le changement climatique associé à des données environnementales par défaut et à des valeurs forfaitaires dans le calcul de l'indicateur Icconstruction est défini par un indicateur exprimé en kg équivalent CO2/m2 et noté Icded.
+IX. - L'impact sur le changement climatique associé à des données environnementales par défaut et à des valeurs forfaitaires dans le calcul de l'indicateur Icconstruction est défini par un indicateur exprimé en kg équivalent CO2/m2 et noté Icded.
 
-X.-La surface de référence d'un bâtiment ou d'une partie de bâtiment, noté Sref est :
+X. - La surface de référence d'un bâtiment ou d'une partie de bâtiment, noté Sref est :
 
 -Pour un bâtiment ou une partie de bâtiment à usage d'habitation, la surface habitable du bâtiment ou de la partie de bâtiment ;
 
 -Pour les autres cas, la surface utile du bâtiment ou de la partie de bâtiment.
 
-XI.-La surface moyenne des logements du bâtiment ou de la partie de bâtiment, notée Smoylgt
+XI. - La surface moyenne des logements du bâtiment ou de la partie de bâtiment, notée Smoylgt
 
 , est calculée de la manière suivante : Smoylgt
 
@@ -34,11 +34,15 @@ XI.-La surface moyenne des logements du bâtiment ou de la partie de bâtiment, 
 
 XII. - La consommation d'énergie primaire renouvelable du bâtiment, calculée pour des conditions de fonctionnement définies, pour le chauffage, le refroidissement, la production d'eau chaude sanitaire, l'éclairage, la mobilité des occupants interne au bâtiment, les auxiliaires de chauffage, de refroidissement, d'eau chaude sanitaire et de ventilation, mentionnée au 8° de l'article R. 172-4, est définie par un indicateur noté Cep, r.
 
+XII. - La surface d'agrément extérieur, pour les logements collectifs, notée Sagrément_ext, est la surface cumulée des balcons, des loggias et des terrasses en épannelage du bâtiment ou partie de bâtiment. Les toitures terrasses, terrasses de rez-de-chaussée, de rez-de-jardin, de plain-pied et coursives d'accès extérieur ne sont pas incluses dans cette surface.
+
+XIII. - La hauteur sous plafond moyenne, du bâtiment ou de la partie de bâtiment, à usage d'habitation, notée HSPmoy, est la moyenne des hauteurs sous plafond des locaux à usage d'habitation inclus dans la surface de référence pondérée par la surface de référence de ces locaux.
+
 Chapitre II : Expressions des résultats minimaux à atteindre
 
-I.-La valeur maximale Bbio_max du bâtiment est déterminée comme suit :
+I. - La valeur maximale Bbio_max du bâtiment est déterminée comme suit :
 
-Bbiomax = Bbio_maxmoyen × (1 + Mbgéo + Mbcombles + Mbsurf_moy + Mbsurf_tot + Mbbruit)
+Bbiomax = Bbio_maxmoyen × (1 + Mbgéo + Mbcombles + Mbsurf_moy + Mbsurf_tot + Mbbruit + MbHSP)
 
 Avec :
 
@@ -52,19 +56,21 @@ Mbsurf_moy : coefficient de modulation selon la surface moyenne des logements du
 
 Mbsurf_tot : coefficient de modulation selon la surface de référence du bâtiment ou de la partie de bâtiment ;
 
-Mbbruit : coefficient de modulation selon l'exposition du bâtiment ou de la partie de bâtiment au bruit des infrastructures de transport à proximité du bâtiment.
+Mbbruit : coefficient de modulation selon l'exposition du bâtiment ou de la partie de bâtiment au bruit des infrastructures de transport à proximité du bâtiment ;
+
+MbHSP : coefficient de modulation selon la hauteur sous plafond moyenne des étages.
 
 La modulation Mbsurf_tot est déterminée, pour chaque usage de bâtiment, en fonction de la somme des surfaces des parties de bâtiment de l'usage considéré.
 
 Les valeurs de Bbio_maxmoyen et des coefficients de modulation sont définies au chapitre III de la présente annexe.
 
-II.-Les valeurs maximales Cep, nr_max, Cep_max et Icénergie_max du bâtiment sont déterminées comme suit :
+II. - Les valeurs maximales Cep, nr_max, Cep_max et Icénergie_max du bâtiment sont déterminées comme suit :
 
-Cep, nr_max = Cep, nr_maxmoyen × (1 + Mcgéo + Mccombles + Mcsurf_moy + Mcsurf_tot + Mccat)
+Cep, nr_max = Cep, nr_maxmoyen × (1 + Mcgéo + Mccombles + Mcsurf_moy + Mcsurf_tot + Mccat + McHSP)
 
-Cep_max = Cep_maxmoyen × (1 + Mcgéo + Mccombles + Mcsurf_moy + Mcsurf_tot + Mccat)
+Cep_max = Cep_maxmoyen × (1 + Mcgéo + Mccombles + Mcsurf_moy + Mcsurf_tot + Mccat + McHSP)
 
-Icénergie_max = Icénergie_maxmoyen × (1 + Mcgéo + Mccombles + Mcsurf_moy + Mcsurf_tot + Mccat)
+Icénergie_max = Icénergie_maxmoyen × (1 + Mcgéo + Mccombles + Mcsurf_moy + Mcsurf_tot + Mccat + McHSP)
 
 Avec :
 
@@ -78,15 +84,17 @@ Mcsurf_moy : coefficient de modulation selon la surface moyenne des logements du
 
 Mcsurf_tot : coefficient de modulation selon la surface de référence du bâtiment ou de la partie de bâtiment ;
 
-Mccat : coefficient de modulation selon la catégorie de contraintes extérieures du bâtiment.
+Mccat : coefficient de modulation selon la catégorie de contraintes extérieures du bâtiment ;
+
+McHSP : coefficient de modulation selon la hauteur sous plafond moyenne des étages.
 
 La modulation Mcsurf_tot est déterminée, pour chaque usage de bâtiment, en fonction de la somme des surfaces des parties de bâtiment de l'usage considéré.
 
 Les valeurs de Cep, nr_maxmoyen, Cep_maxmoyen, Icénergie_maxmoyen et des coefficients de modulation sont définies au chapitre III de la présente annexe.
 
-III.-La valeur maximale Icconstruction_max du bâtiment est déterminée comme suit :
+III. - La valeur maximale Icconstruction_max du bâtiment est déterminée comme suit :
 
-Icconstruction_max = Icconstruction_maxmoyen × (1 + Micombles + Misurf_moy + Misurf_tot) + Migéo + Miinfra + Mivrd + Mipv + Mided
+Icconstruction_max = Icconstruction_maxmoyen × (1 + Micombles + Misurf_moy + Misurf_tot) + Migéo + Miinfra + Mivrd + Mipv + Mided + Miagrément_ext + Mi_HSP + Miclim_RCU
 
 Avec :
 
@@ -108,11 +116,15 @@ Mipv : coefficient de modulation selon l'impact de l'installation des panneaux p
 
 Mided : coefficient de modulation selon l'impact des données environnementales par défaut et valeurs forfaitaires dans l'évaluation du bâtiment ou de la partie de bâtiment.
 
-La modulation Misurf est déterminée, pour chaque usage de bâtiment, en fonction de la somme des surfaces des parties de bâtiment de l'usage considéré.
+- Miagrément_ext : coefficient de modulation selon la surface d'agrément extérieur (balcons, loggias) du bâtiment ou de la partie de bâtiment, pour les logements collectifs ;
+
+- Mi_HSP : coefficient de modulation selon la hauteur sous plafond moyenne des étages ;
+
+- Miclim_RCU : coefficient de modulation selon la présence ou non d'un système de climatisation, pour les bâtiments raccordés à un réseau de chaleur urbain classé ;
 
 Les valeurs de Icconstruction_maxmoyen et des coefficients de modulation sont définies au chapitre III de la présente annexe.
 
-IV.-La valeur maximale DH_max de chaque partie de bâtiment thermiquement homogène est déterminée comme suit :
+IV. - La valeur maximale DH_max de chaque partie de bâtiment thermiquement homogène est déterminée comme suit :
 
 DH_max = DH_maxcat
 
@@ -122,13 +134,13 @@ DH_maxcat : valeur de l'exigence DH_max définie par catégories de contraintes 
 
 Les valeurs de DH_maxcat sont définies au chapitre III de la présente annexe.
 
-V.-Pour les bâtiments comportant plusieurs zones, définies par leur usage, les valeurs Bbio_max, Cep, nr_max, Cep_max, Icénergie_max et Icconstruction_max du bâtiment sont calculées au prorata des surfaces de référence Sref de chaque zone, respectivement à partir des valeurs Bbio_max, Cep, nr_max, Cep_max, Iccénergie_max et Icconstruction_max des différentes zones.
+V. - Pour les bâtiments comportant plusieurs zones, définies par leur usage, les valeurs Bbio_max, Cep, nr_max, Cep_max, Icénergie_max et Icconstruction_max du bâtiment sont calculées au prorata des surfaces de référence Sref de chaque zone, respectivement à partir des valeurs Bbio_max, Cep, nr_max, Cep_max, Iccénergie_max et Icconstruction_max des différentes zones.
 
 Dans le cas où une partie de bâtiment représente une surface minoritaire du bâtiment les conditions dans lesquelles cette partie de bâtiment peut être assimilée à l'usage principal du bâtiment peuvent être précisées.
 
 Chapitre III : Valeurs des exigences et coefficients de modulation associés
 
-I.-Valeurs de Bbio_maxmoy et coefficients de modulation associés à la fixation de l'exigence Bbio_max
+I. - Valeurs de Bbio_maxmoy et coefficients de modulation associés à la fixation de l'exigence Bbio_max
 
 Le coefficient Bbio_maxmoyen prend les valeurs suivantes, en fonction de l'usage de la partie de bâtiment :
 
@@ -524,6 +536,10 @@ BR2, BR3
 
 |
 
+Le coefficient MbHSP de modulation du Bbio_max prend les valeurs suivantes :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 68 du 20 mars 2026 (texte n° 26), accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=sU0n50Dh45nzbdszOcqAUKFvGs9WK7QfWI-0Yygfd_k=.
+
 2. Coefficients de modulation de l'exigence Bbio_max pour les logements collectifs
 
 Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -804,6 +820,10 @@ BR2, BR3
 
 |
 
+Le coefficient de modulation MbHSP de modulation du Bbio_max prend les valeurs suivantes :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 68 du 20 mars 2026 (texte n° 26), accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=sU0n50Dh45nzbdszOcqAUKFvGs9WK7QfWI-0Yygfd_k=.
+
 3. Coefficients de modulation de l'exigence Bbio_max pour les bureaux
 
 Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -914,6 +934,10 @@ Mbbruit |
 
 0,4 |
 
+Le coefficient de modulation MbHSP de modulation du Bbio_max prend la valeur suivante :
+
+MbHSP = 0
+
 4. Coefficients de modulation de l'exigence Bbio_max pour l'enseignement primaire ou secondaire
 
 Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -1009,6 +1033,10 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend la valeur suivante :
 
 Mbbruit = 0
+
+Le coefficient de modulation MbHSP de modulation du Bbio_max prend la valeur suivante :
+
+MbHSP = 0
 
 6. Coefficients de modulation de l'exigence Bbio_max pour les médiathèques et bibliothèques
 
@@ -1180,6 +1208,10 @@ Catégorie 3 |
 
 ;
 
+Le coefficient de modulation MbHSP de modulation du Bbio_max prend la valeur suivante :
+
+MbHSP = 0
+
 7. Coefficients de modulation de l'exigence Bbio_max pour les bâtiments universitaires d'enseignement et de recherche et bâtiments d'enseignements atypiques
 
 Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -1350,6 +1382,10 @@ Catégorie 3 |
 
 ;
 
+Le coefficient de modulation MbHSP de modulation du Bbio_max prend la valeur suivante :
+
+MbHSP = 0
+
 8. Coefficients de modulation de l'exigence Bbio_max pour les hôtels 0,1 et 2 étoiles (partie nuit)
 
 Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -1461,6 +1497,10 @@ Mbbruit |
 0,05 |
 
 ;
+
+Le coefficient de modulation MbHSP de modulation du Bbio_max prend la valeur suivante :
+
+MbHSP = 0
 
 9. Coefficients de modulation de l'exigence Bbio_max pour les hôtels 3,4 et 5 étoiles (partie nuit)
 
@@ -1574,6 +1614,10 @@ Mbbruit |
 
 ;
 
+Le coefficient de modulation MbHSP de modulation du Bbio_max prend la valeur suivante :
+
+MbHSP = 0
+
 10. Coefficients de modulation de l'exigence Bbio_max pour les hôtels 0,1 et 2 étoiles (partie jour)
 
 Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -1686,6 +1730,10 @@ Mbbruit |
 
 ;
 
+Le coefficient de modulation MbHSP de modulation du Bbio_max prend la valeur suivante :
+
+MbHSP = 0
+
 11. Coefficients de modulation de l'exigence Bbio_max pour les hôtels 3,4 et 5 étoiles (partie jour)
 
 Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -1797,6 +1845,10 @@ Mbbruit |
 0,3 |
 
 ;
+
+Le coefficient de modulation MbHSP de modulation du Bbio_max prend la valeur suivante :
+
+MbHSP = 0
 
 12. Coefficients de modulation de l'exigence Bbio_max pour les établissements d'accueil de la petite enfance
 
@@ -1968,6 +2020,10 @@ Catégorie 3 |
 
 ;
 
+Le coefficient de modulation MbHSP de modulation du Bbio_max prend la valeur suivante :
+
+MbHSP = 0
+
 13. Coefficients de modulation de l'exigence Bbio_max pour les restaurants-en continu, 18 heures par jour, 7 jours sur 7
 
 Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -2063,6 +2119,10 @@ Mbsurf_tot = 0 ;
 Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend la valeur suivante (les zones de bruit sont définies au chapitre V) :
 
 Mbbruit = 0 ;
+
+Le coefficient de modulation MbHSP de modulation du Bbio_max prend la valeur suivante :
+
+MbHSP = 0
 
 14. Coefficients de modulation de l'exigence Bbio_max pour les restaurants-1 repas par jour, 5 jours sur 7
 
@@ -2160,6 +2220,10 @@ Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du 
 
 Mbbruit = 0 ;
 
+Le coefficient de modulation MbHSP de modulation du Bbio_max prend la valeur suivante :
+
+MbHSP = 0
+
 15. Coefficients de modulation de l'exigence Bbio_max pour les restaurants-2 repas par jour, 7 jours sur 7
 
 Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -2256,6 +2320,10 @@ Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du 
 
 Mbbruit = 0 ;
 
+Le coefficient de modulation MbHSP de modulation du Bbio_max prend la valeur suivante :
+
+MbHSP = 0
+
 16. Coefficients de modulation de l'exigence Bbio_max pour les restaurants-2 repas par jour, 6 jours sur 7
 
 Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -2351,6 +2419,10 @@ Mbsurf_tot = 0 ;
 Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend la valeur suivante (les zones de bruit sont définies au chapitre V) :
 
 Mbbruit = 0 ;
+
+Le coefficient de modulation MbHSP de modulation du Bbio_max prend la valeur suivante :
+
+MbHSP = 0
 
 17. Coefficients de modulation de l'exigence Bbio_max pour les commerces
 
@@ -2468,6 +2540,10 @@ Mbbruit |
 
 ;
 
+Le coefficient de modulation MbHSP de modulation du Bbio_max prend la valeur suivante :
+
+MbHSP = 0
+
 18. Coefficients de modulation de l'exigence Bbio_max pour les vestiaires seuls
 
 Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -2563,6 +2639,10 @@ Mbsurf_tot = 0 ;
 Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les zones de bruit sont définies au chapitre V) :
 
 Mbbruit = 0 ;
+
+Le coefficient de modulation MbHSP de modulation du Bbio_max prend la valeur suivante :
+
+MbHSP = 0
 
 19. Coefficients de modulation de l'exigence Bbio_max pour les établissements sanitaires avec hébergement
 
@@ -2660,6 +2740,10 @@ Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du 
 
 Mbbruit = 0 ;
 
+Le coefficient de modulation MbHSP de modulation du Bbio_max prend la valeur suivante :
+
+MbHSP = 0
+
 20. Coefficients de modulation de l'exigence Bbio_max pour les établissements de santé (partie nuit)
 
 Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -2755,6 +2839,10 @@ Mbsurf_tot = 0 ;
 Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les zones de bruit sont définies au chapitre V) :
 
 Mbbruit = 0 ;
+
+Le coefficient de modulation MbHSP de modulation du Bbio_max prend la valeur suivante :
+
+MbHSP = 0
 
 21. Coefficients de modulation de l'exigence Bbio_max pour les établissements de santé (partie jour)
 
@@ -2856,6 +2944,10 @@ Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du 
 
 Mbbruit = 0 ;
 
+Le coefficient de modulation MbHSP de modulation du Bbio_max prend la valeur suivante :
+
+MbHSP = 0
+
 22. Coefficients de modulation de l'exigence Bbio_max pour les aérogares
 
 Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -2951,6 +3043,10 @@ Mbsurf_tot = 0 ;
 Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les zones de bruit sont définies au chapitre V) :
 
 Mbbruit = 0 ;
+
+Le coefficient de modulation MbHSP de modulation du Bbio_max prend la valeur suivante :
+
+MbHSP = 0
 
 23. Coefficients de modulation de l'exigence Bbio_max pour les bâtiments à usages industriel ou artisanat 3x8h
 
@@ -3052,6 +3148,10 @@ Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du 
 
 Mbbruit = 0 ;
 
+Le coefficient de modulation MbHSP de modulation du Bbio_max prend la valeur suivante :
+
+MbHSP = 0
+
 24. Coefficients de modulation de l'exigence Bbio_max pour les bâtiments à usages industriel ou artisanat 8 heures à 18 heures
 
 Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -3152,6 +3252,10 @@ Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du 
 
 Mbbruit = 0 ;
 
+Le coefficient de modulation MbHSP de modulation du Bbio_max prend la valeur suivante :
+
+MbHSP = 0
+
 25. et 28. Coefficients de modulation de l'exigence Bbio_max pour les établissements sportifs municipaux ou scolaires et pour les établissements sportifs privés
 
 Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -3247,6 +3351,10 @@ Mbsurf_tot = 0 ;
 Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les zones de bruit sont définies au chapitre V) :
 
 Mbbruit = 0 ;
+
+Le coefficient de modulation MbHSP de modulation du Bbio_max prend la valeur suivante :
+
+MbHSP = 0
 
 26. Coefficients de modulation de l'exigence Bbio_max pour les restaurants scolaires-1 repas par jour, 5 jours sur 7
 
@@ -3344,6 +3452,10 @@ Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du 
 
 Mbbruit = 0 ;
 
+Le coefficient de modulation MbHSP de modulation du Bbio_max prend la valeur suivante :
+
+MbHSP = 0
+
 27. Coefficients de modulation de l'exigence Bbio_max pour les restaurants scolaires-3 repas par jour, 5 jours sur 7
 
 Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -3440,7 +3552,11 @@ Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du 
 
 Mbbruit = 0 ;
 
-II.-Valeurs de Cep, nr_maxmoyen, Cep_maxmoyen et Icénergie_maxmoyen et coefficients de modulation associés à la fixation des exigences sur Cep, nr_max, Cep_max et Icénergie_max
+Le coefficient de modulation MbHSP de modulation du Bbio_max prend la valeur suivante :
+
+MbHSP = 0
+
+II. - Valeurs de Cep, nr_maxmoyen, Cep_maxmoyen et Icénergie_maxmoyen et coefficients de modulation associés à la fixation des exigences sur Cep, nr_max, Cep_max et Icénergie_max
 
 Les coefficients Cep, nr_maxmoyen et Cep_maxmoyen prennent les valeurs suivantes, en fonction de l'usage de la partie de bâtiment :
 
@@ -4524,6 +4640,10 @@ Catégorie 2
 
 |
 
+Le coefficient McHSP de modulation de Cep, nr_max, Cep_max et Icénergie_max prend les valeurs suivantes :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 68 du 20 mars 2026 (texte n° 26), accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=sU0n50Dh45nzbdszOcqAUKFvGs9WK7QfWI-0Yygfd_k=.
+
 2. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les logements collectifs
 
 Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Icénergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -4802,6 +4922,10 @@ Catégorie 2
 
 |
 
+Le coefficient McHSP de modulation de Cep, nr_max, Cep_max et Icénergie_max prend les valeurs suivantes :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 68 du 20 mars 2026 (texte n° 26), accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=sU0n50Dh45nzbdszOcqAUKFvGs9WK7QfWI-0Yygfd_k=.
+
 3. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les bureaux
 
 Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Icénergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -4895,6 +5019,10 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Icénergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend la valeur suivante :
 
 Mccat = 0
+
+Le coefficient de modulation McHSP de modulation de Cep, nr_max, Cep_max et Icénergie_max prend la valeur suivante :
+
+McHSP = 0
 
 4. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour l'enseignement primaire ou secondaire
 
@@ -4999,6 +5127,10 @@ Mccat |
 0 |
 
 0,05 |
+
+Le coefficient de modulation McHSP de modulation de Cep, nr_max, Cep_max et Icénergie_max prend la valeur suivante :
+
+McHSP = 0
 
 6. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les médiathèques et bibliothèques
 
@@ -5172,6 +5304,10 @@ Catégorie 3 |
 
 ;
 
+Le coefficient de modulation McHSP de modulation de Cep, nr_max, Cep_max et Icénergie_max prend la valeur suivante :
+
+McHSP = 0
+
 7. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Ic énergie_max pour les bâtiments universitaires d'enseignement et de recherche et bâtiments d'enseignements atypiques
 
 Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -5344,6 +5480,10 @@ Catégorie 3 |
 
 ;
 
+Le coefficient de modulation McHSP de modulation de Cep, nr_max, Cep_max et Icénergie_max prend la valeur suivante :
+
+McHSP = 0
+
 8. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les hôtels 0,1 et 2 étoiles (partie nuit)
 
 Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -5439,6 +5579,10 @@ Mcsurf_tot = 0 ;
 Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les catégories de contraintes extérieures sont définies au chapitre V) :
 
 Mccat = 0 ;
+
+Le coefficient de modulation McHSP de modulation de Cep, nr_max, Cep_max et Icénergie_max prend la valeur suivante :
+
+McHSP = 0
 
 9. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les hôtels 3,4 et 5 étoiles (partie nuit)
 
@@ -5540,6 +5684,10 @@ Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max se
 
 Mccat = 0 ;
 
+Le coefficient de modulation McHSP de modulation de Cep, nr_max, Cep_max et Icénergie_max prend la valeur suivante :
+
+McHSP = 0
+
 10. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Ic énergie_max pour les hôtels 0,1 et 2 étoiles (partie jour)
 
 Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -5636,6 +5784,10 @@ Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max se
 
 Mccat = 0 ;
 
+Le coefficient de modulation McHSP de modulation de Cep, nr_max, Cep_max et Icénergie_max prend la valeur suivante :
+
+McHSP = 0
+
 11. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Ic énergie_max pour les hôtels 3,4 et 5 étoiles (partie jour)
 
 Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -5731,6 +5883,10 @@ Mcsurf_tot = 0 ;
 Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les catégories de contraintes extérieures sont définies au chapitre V) :
 
 Mccat = 0 ;
+
+Le coefficient de modulation McHSP de modulation de Cep, nr_max, Cep_max et Icénergie_max prend la valeur suivante :
+
+McHSP = 0
 
 12. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les établissements d'accueil de la petite enfance
 
@@ -5904,6 +6060,10 @@ Catégorie 3 |
 
 ;
 
+Le coefficient de modulation McHSP de modulation de Cep, nr_max, Cep_max et Icénergie_max prend la valeur suivante :
+
+McHSP = 0
+
 13. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les restaurants-en continu, 18 heures par jour, 7 jours sur 7
 
 Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -5999,6 +6159,10 @@ Mcsurf_tot = 0 ;
 Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend la valeur suivante (les catégories de contraintes extérieures sont définies au chapitre V) :
 
 Mccat = 0 ;
+
+Le coefficient de modulation McHSP de modulation de Cep, nr_max, Cep_max et Icénergie_max prend la valeur suivante :
+
+McHSP = 0
 
 14. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Ic énergie_max pour les restaurants-1 repas par jour, 5 jours sur 7
 
@@ -6096,6 +6260,10 @@ Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max se
 
 Mccat = 0 ;
 
+Le coefficient de modulation McHSP de modulation de Cep, nr_max, Cep_max et Icénergie_max prend la valeur suivante :
+
+McHSP = 0
+
 15. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les restaurants-2 repas par jour, 7 jours sur 7
 
 Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -6192,6 +6360,10 @@ Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max se
 
 Mccat = 0 ;
 
+Le coefficient de modulation McHSP de modulation de Cep, nr_max, Cep_max et Icénergie_max prend la valeur suivante :
+
+McHSP = 0
+
 16. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Ic énergie_max pour les restaurants-2 repas par jour, 6 jours sur 7
 
 Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -6287,6 +6459,10 @@ Mcsurf_tot = 0 ;
 Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend la valeur suivante (les catégories de contraintes extérieures sont définies au chapitre V) :
 
 Mccat = 0 ;
+
+Le coefficient de modulation McHSP de modulation de Cep, nr_max, Cep_max et Icénergie_max prend la valeur suivante :
+
+McHSP = 0
 
 17. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Ic énergie_max pour les commerces
 
@@ -6404,6 +6580,10 @@ Mccat |
 
 ;
 
+Le coefficient de modulation McHSP de modulation de Cep, nr_max, Cep_max et Icénergie_max prend la valeur suivante :
+
+McHSP = 0
+
 18. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les vestiaires seuls
 
 Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -6499,6 +6679,10 @@ Mcsurf_tot = 0 ;
 Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les catégories de contraintes extérieures sont définies au chapitre V) :
 
 Mccat = 0 ;
+
+Le coefficient de modulation McHSP de modulation de Cep, nr_max, Cep_max et Icénergie_max prend la valeur suivante :
+
+McHSP = 0
 
 19. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les établissements sanitaires avec hébergement
 
@@ -6596,6 +6780,10 @@ Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max se
 
 Mccat = 0 ;
 
+Le coefficient de modulation McHSP de modulation de Cep, nr_max, Cep_max et Icénergie_max prend la valeur suivante :
+
+McHSP = 0
+
 20. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les établissements de santé (partie nuit)
 
 Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -6691,6 +6879,10 @@ Mcsurf_tot = 0 ;
 Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les catégories de contraintes extérieures sont définies au chapitre V) :
 
 Mccat = 0 ;
+
+Le coefficient de modulation McHSP de modulation de Cep, nr_max, Cep_max et Icénergie_max prend la valeur suivante :
+
+McHSP = 0
 
 21. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les établissements de santé (partie jour)
 
@@ -6792,6 +6984,10 @@ Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max se
 
 Mccat = 0 ;
 
+Le coefficient de modulation McHSP de modulation de Cep, nr_max, Cep_max et Icénergie_max prend la valeur suivante :
+
+McHSP = 0
+
 22. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les aérogares
 
 Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -6887,6 +7083,10 @@ Mcsurf_tot = 0 ;
 Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les catégories de contraintes extérieures sont définies au chapitre V) :
 
 Mccat = 0 ;
+
+Le coefficient de modulation McHSP de modulation de Cep, nr_max, Cep_max et Icénergie_max prend la valeur suivante :
+
+McHSP = 0
 
 23. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les bâtiments à usage industriel et artisanat 3 × 8h
 
@@ -6988,6 +7188,10 @@ Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max se
 
 Mccat = 0 ;
 
+Le coefficient de modulation McHSP de modulation de Cep, nr_max, Cep_max et Icénergie_max prend la valeur suivante :
+
+McHSP = 0
+
 24. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les bâtiments à usage industriel et artisanat 8 heures à 18 heures
 
 Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -7088,6 +7292,10 @@ Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max se
 
 Mccat = 0 ;
 
+Le coefficient de modulation McHSP de modulation de Cep, nr_max, Cep_max et Icénergie_max prend la valeur suivante :
+
+McHSP = 0
+
 25. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les établissements sportifs municipaux ou scolaires
 
 Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -7183,6 +7391,10 @@ Mcsurf_tot = 0 ;
 Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les catégories de contraintes extérieures sont définies au chapitre V) :
 
 Mccat = 0 ;
+
+Le coefficient de modulation McHSP de modulation de Cep, nr_max, Cep_max et Icénergie_max prend la valeur suivante :
+
+McHSP = 0
 
 26. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les restaurants scolaires-1 repas par jour, 5 jours sur 7
 
@@ -7280,6 +7492,10 @@ Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max se
 
 Mccat = 0 ;
 
+Le coefficient de modulation McHSP de modulation de Cep, nr_max, Cep_max et Icénergie_max prend la valeur suivante :
+
+McHSP = 0
+
 27. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Ic énergie_max pour les restaurants scolaires-3 repas par jour, 5 jours sur 7
 
 Le coefficient Mcgéo de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
@@ -7375,6 +7591,10 @@ Mcsurf_tot = 0 ;
 Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend la valeur suivante (les catégories de contraintes extérieures sont définies au chapitre V) :
 
 Mccat = 0 ;
+
+Le coefficient de modulation McHSP de modulation de Cep, nr_max, Cep_max et Icénergie_max prend la valeur suivante :
+
+McHSP = 0
 
 28. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les établissements sportifs privés
 
@@ -7472,7 +7692,7 @@ Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Ic énergie_max se
 
 Mccat = 0 ;
 
-III.-Valeurs de Icconstruction_maxmoyen et coefficients de modulation associés à la fixation de l'exigence sur Icconstruction_max
+III. - Valeurs de Icconstruction_maxmoyen et coefficients de modulation associés à la fixation de l'exigence sur Icconstruction_max
 
 Le coefficient Icconstruction_maxmoyen prend les valeurs suivantes, en fonction de l'usage de la partie de bâtiment et de l'année à laquelle la demande de permis de construire correspondante est déposée :
 
@@ -7738,6 +7958,8 @@ A partir de l'année 2031 |
 
 |
 
+Par dérogation, pour les immeubles de grande hauteur au sens de l'article R. 146-3 du code de la construction et de l'habitation, en 2028, la valeur de Icconstruction_maxmoyen est fixée à 95% de la valeur indiquée dans la 3e colonne ; en 2031, la valeur de Icconstruction_maxmoyen est fixée à 95% de la valeur appliquée en 2028.
+
 1. Valeurs des coefficients de modulation de l'exigence Icconstruction_max pour les maisons individuelles ou accolées
 
 Le coefficient Micombles de modulation de Icconstruction_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment est calculé selon la formule suivante :
@@ -7755,6 +7977,28 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 Le coefficient Misurf_tot de modulation de Icconstruction_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend la valeur suivante :
 
 Misurf_tot = 0
+
+Le coefficient Miagrément_ext de modulation de Icconstruction_max selon la surface d'espaces extérieurs du bâtiment ou de la partie de bâtiment Sagrément_ext prend la valeur suivante :
+
+Miagrémentext = 0
+
+Le coefficient MiHSP de modulation de Icconstruction_max selon la hauteur sous plafond moyenne du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 68 du 20 mars 2026 (texte n° 26), accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=sU0n50Dh45nzbdszOcqAUKFvGs9WK7QfWI-0Yygfd_k=.
+
+Le coefficient Miclim_RCU de modulation de Icconstruction_max selon la présence ou non d'un système de climatisation, pour les bâtiments raccordés à un réseau de chaleur urbain classé, prend les valeurs suivantes :
+
+|
+
+Miclim_RCU |
+
+Si raccordement à un réseau de chaleur urbain classé et présence d'un système de climatisation |
+
+25 |
+
+Sinon |
+
+0 |
 
 Le coefficient Migéo de modulation de Icconstruction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
 
@@ -8014,6 +8258,32 @@ Le coefficient Misurf_tot de modulation de Icconstruction_max selon la surface d
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0309 du 31/12/2024 accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Jo1UJTY9SbF2fbpIwW8qSWPkqZOWKiRa2AJwomJYsrI=
 
+Pour les immeubles de grande hauteur au sens de l'article R. 146-3 du code de la construction et de l'habitation, le coefficient Misurf_tot prend la valeur suivante :
+
+Misurftot = 0
+
+Le coefficient Miagrément_ext de modulation de Icconstruction_max selon la surface d'espaces extérieurs du bâtiment ou de la partie de bâtiment Sagrément_ext prend les valeurs suivantes :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 68 du 20 mars 2026 (texte n° 26), accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=sU0n50Dh45nzbdszOcqAUKFvGs9WK7QfWI-0Yygfd_k=.
+
+Le coefficient MiHSP de modulation de Icconstruction_max selon la hauteur sous plafond moyenne du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 68 du 20 mars 2026 (texte n° 26), accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=sU0n50Dh45nzbdszOcqAUKFvGs9WK7QfWI-0Yygfd_k=.
+
+Le coefficient Miclim_RCU de modulation de Icconstruction_max selon la présence ou non d'un système de climatisation, pour les bâtiments raccordés à un réseau de chaleur urbain classé, prend la valeur suivante :
+
+|
+
+Miclim_RCU |
+
+Si raccordement à un réseau de chaleur urbain classé et présence d'un système de climatisation |
+
+25 |
+
+Sinon |
+
+0 |
+
 Le coefficient Migéo de modulation de Icconstruction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
 
 Altitude
@@ -8272,6 +8542,32 @@ prend les valeurs suivantes :
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0052 du 03/03/2022 accessible à l'adresse : https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=
 
+Pour les immeubles de grande hauteur au sens de l'article R. 146-3 du code de la construction et de l'habitation, le coefficient Misurf_tot prend la valeur suivante :
+
+Misurftot = - 0,05
+
+Le coefficient Miagrément_ext de modulation de Icconstruction_max selon la surface d'espaces extérieurs du bâtiment ou de la partie de bâtiment Sagrément_ext prend la valeur suivante :
+
+Miagrémentext = 0
+
+Le coefficient MiHSP de modulation de Icconstruction_max selon la hauteur sous plafond moyenne du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+MiHSP = 0
+
+Le coefficient Miclim_RCU de modulation de Icconstruction_max selon la présence ou non d'un système de climatisation, pour les bâtiments raccordés à un réseau de chaleur urbain classé, prend les valeurs suivantes :
+
+|
+
+Miclim_RCU |
+
+Si raccordement à un réseau de chaleur urbain classé et présence d'un système de climatisation |
+
+25 |
+
+Sinon |
+
+0 |
+
 Le coefficient Migéo de modulation de Icconstruction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
 
 Zone climatique |
@@ -8404,6 +8700,32 @@ Le coefficient Misurf_tot de modulation de Icconstruction_max selon la surface d
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0052 du 03/03/2022 accessible à l'adresse : https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=
 
+Pour les immeubles de grande hauteur au sens de l'article R. 146-3 du code de la construction et de l'habitation, le coefficient Misurf_tot prend la valeur suivante :
+
+Misurftot = - 0,05
+
+Le coefficient Miagrément_ext de modulation de Icconstruction_max selon la surface d'espaces extérieurs du bâtiment ou de la partie de bâtiment Sagrément_ext prend la valeur suivante :
+
+Miagrémentext = 0
+
+Le coefficient MiHSP de modulation de Icconstruction_max selon la hauteur sous plafond moyenne du bâtiment ou de la partie de bâtiment prend la valeur suivante :
+
+MiHSP = 0
+
+Le coefficient Miclim_RCU de modulation de Icconstruction_max selon la présence ou non d'un système de climatisation, pour les bâtiments raccordés à un réseau de chaleur urbain classé, prend les valeurs suivantes :
+
+|
+
+Miclim_RCU |
+
+Si raccordement à un réseau de chaleur urbain classé et présence d'un système de climatisation |
+
+25 |
+
+Sinon |
+
+0 |
+
 Le coefficient Migéo de modulation de Icconstruction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend la valeur suivante :
 
 Migéo = 0
@@ -8493,6 +8815,32 @@ Misurf_moyen = 0 ;
 Le coefficient Misurf_tot de modulation de Ic construction_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend la valeur suivante :
 
 Misurf_tot = 0 ;
+
+Pour les immeubles de grande hauteur au sens de l'article R. 146-3 du code de la construction et de l'habitation, le coefficient Misurf_tot prend la valeur suivante :
+
+Misurftot = 0,05
+
+Le coefficient Miagrément_ext de modulation de Icconstruction_max selon la surface d'espaces extérieurs du bâtiment ou de la partie de bâtiment Sagrément_ext prend la valeur suivante :
+
+Miagrémentext = 0
+
+Le coefficient MiHSP de modulation de Icconstruction_max selon la hauteur sous plafond moyenne du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+MiHSP = 0
+
+Le coefficient Miclim_RCU de modulation de Icconstruction_max selon la présence ou non d'un système de climatisation, pour les bâtiments raccordés à un réseau de chaleur urbain classé, prend les valeurs suivantes :
+
+|
+
+Miclim_RCU |
+
+Si raccordement à un réseau de chaleur urbain classé et présence d'un système de climatisation |
+
+25 |
+
+Sinon |
+
+0 |
 
 Le coefficient Migéo de modulation de Ic construction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
 
@@ -8678,6 +9026,32 @@ Le coefficient Misurf_tot de modulation de Ic construction_max selon la surface 
 
 Misurf_tot = 0 ;
 
+Pour les immeubles de grande hauteur au sens de l'article R. 146-3 du code de la construction et de l'habitation, le coefficient Misurf_tot prend la valeur suivante :
+
+Misurftot = 0,05
+
+Le coefficient Miagrément_ext de modulation de Icconstruction_max selon la surface d'espaces extérieurs du bâtiment ou de la partie de bâtiment Sagrément_ext prend la valeur suivante :
+
+Miagrémentext = 0
+
+Le coefficient MiHSP de modulation de Icconstruction_max selon la hauteur sous plafond moyenne du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+MiHSP = 0
+
+Le coefficient Miclim_RCU de modulation de Icconstruction_max selon la présence ou non d'un système de climatisation, pour les bâtiments raccordés à un réseau de chaleur urbain classé, prend les valeurs suivantes :
+
+|
+
+Miclim_RCU |
+
+Si raccordement à un réseau de chaleur urbain classé et présence d'un système de climatisation |
+
+25 |
+
+Sinon |
+
+0 |
+
 Le coefficient Migéo de modulation de Ic construction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend la valeur suivante (les zones climatiques sont définies au chapitre IV) :
 
 Altitude |
@@ -8861,6 +9235,32 @@ Misurf_moyen = 0 ;
 Le coefficient Misurf_tot de modulation de Ic construction_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend la valeur suivante :
 
 Misurf_tot = 0 ;
+
+Pour les immeubles de grande hauteur au sens de l'article R. 146-3 du code de la construction et de l'habitation, le coefficient Misurf_tot prend la valeur suivante :
+
+Misurftot = 0,05
+
+Le coefficient Miagrément_ext de modulation de Icconstruction_max selon la surface d'espaces extérieurs du bâtiment ou de la partie de bâtiment Sagrément_ext prend la valeur suivante :
+
+Miagrémentext = 0
+
+Le coefficient MiHSP de modulation de Icconstruction_max selon la hauteur sous plafond moyenne du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+MiHSP = 0
+
+Le coefficient Miclim_RCU de modulation de Icconstruction_max selon la présence ou non d'un système de climatisation, pour les bâtiments raccordés à un réseau de chaleur urbain classé, prend les valeurs suivantes :
+
+|
+
+Miclim_RCU |
+
+Si raccordement à un réseau de chaleur urbain classé et présence d'un système de climatisation |
+
+25 |
+
+Sinon |
+
+0 |
 
 Le coefficient Migéo de modulation de Ic construction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :
 
@@ -9046,6 +9446,32 @@ Le coefficient Misurf_tot de modulation de Ic construction_max selon la surface 
 
 Misurf_tot = 0 ;
 
+Pour les immeubles de grande hauteur au sens de l'article R. 146-3 du code de la construction et de l'habitation, le coefficient Misurf_tot prend la valeur suivante :
+
+Misurftot = 0,05
+
+Le coefficient Miagrément_ext de modulation de Icconstruction_max selon la surface d'espaces extérieurs du bâtiment ou de la partie de bâtiment Sagrément_ext prend la valeur suivante :
+
+Miagrémentext = 0
+
+Le coefficient MiHSP de modulation de Icconstruction_max selon la hauteur sous plafond moyenne du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+MiHSP = 0
+
+Le coefficient Miclim_RCU de modulation de Icconstruction_max selon la présence ou non d'un système de climatisation, pour les bâtiments raccordés à un réseau de chaleur urbain classé, prend les valeurs suivantes :
+
+|
+
+Miclim_RCU |
+
+Si raccordement à un réseau de chaleur urbain classé et présence d'un système de climatisation |
+
+25 |
+
+Sinon |
+
+0 |
+
 Le coefficient Migéo de modulation de Ic construction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend la valeur suivante (les zones climatiques sont définies au chapitre IV) :
 
 Migéo = 0 ;
@@ -9169,6 +9595,32 @@ Misurf_moyen = 0 ;
 Le coefficient Misurf_tot de modulation de Ic construction_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend la valeur suivante :
 
 Misurf_tot = 0 ;
+
+Pour les immeubles de grande hauteur au sens de l'article R. 146-3 du code de la construction et de l'habitation, le coefficient Misurf_tot prend la valeur suivante :
+
+Misurftot = 0,05
+
+Le coefficient Miagrément_ext de modulation de Icconstruction_max selon la surface d'espaces extérieurs du bâtiment ou de la partie de bâtiment Sagrément_ext prend la valeur suivante :
+
+Miagrémentext = 0
+
+Le coefficient MiHSP de modulation de Icconstruction_max selon la hauteur sous plafond moyenne du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+MiHSP = 0
+
+Le coefficient Miclim_RCU de modulation de Icconstruction_max selon la présence ou non d'un système de climatisation, pour les bâtiments raccordés à un réseau de chaleur urbain classé, prend les valeurs suivantes :
+
+|
+
+Miclim_RCU |
+
+Si raccordement à un réseau de chaleur urbain classé et présence d'un système de climatisation |
+
+25 |
+
+Sinon |
+
+0 |
 
 Le coefficient Migéo de modulation de Ic construction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend la valeur suivante (les zones climatiques sont définies au chapitre IV) :
 
@@ -9294,6 +9746,32 @@ Le coefficient Misurf_tot de modulation de Ic construction_max selon la surface 
 
 Misurf_tot = 0 ;
 
+Pour les immeubles de grande hauteur au sens de l'article R. 146-3 du code de la construction et de l'habitation, le coefficient Misurf_tot prend la valeur suivante :
+
+Misurftot = 0,05
+
+Le coefficient Miagrément_ext de modulation de Icconstruction_max selon la surface d'espaces extérieurs du bâtiment ou de la partie de bâtiment Sagrément_ext prend la valeur suivante :
+
+Miagrémentext = 0
+
+Le coefficient MiHSP de modulation de Icconstruction_max selon la hauteur sous plafond moyenne du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+MiHSP = 0
+
+Le coefficient Miclim_RCU de modulation de Icconstruction_max selon la présence ou non d'un système de climatisation, pour les bâtiments raccordés à un réseau de chaleur urbain classé, prend les valeurs suivantes :
+
+|
+
+Miclim_RCU |
+
+Si raccordement à un réseau de chaleur urbain classé et présence d'un système de climatisation |
+
+25 |
+
+Sinon |
+
+0 |
+
 Le coefficient Migéo de modulation de Ic construction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend la valeur suivante (les zones climatiques sont définies au chapitre IV) :
 
 Migéo = 0 ;
@@ -9417,6 +9895,32 @@ Misurf_moyen = 0 ;
 Le coefficient Misurf_tot de modulation de Ic construction_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend la valeur suivante :
 
 Misurf_tot = 0 ;
+
+Pour les immeubles de grande hauteur au sens de l'article R. 146-3 du code de la construction et de l'habitation, le coefficient Misurf_tot prend la valeur suivante :
+
+Misurftot = 0,05
+
+Le coefficient Miagrément_ext de modulation de Icconstruction_max selon la surface d'espaces extérieurs du bâtiment ou de la partie de bâtiment Sagrément_ext prend la valeur suivante :
+
+Miagrémentext = 0
+
+Le coefficient MiHSP de modulation de Icconstruction_max selon la hauteur sous plafond moyenne du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+MiHSP = 0
+
+Le coefficient Miclim_RCU de modulation de Icconstruction_max selon la présence ou non d'un système de climatisation, pour les bâtiments raccordés à un réseau de chaleur urbain classé, prend les valeurs suivantes :
+
+|
+
+Miclim_RCU |
+
+Si raccordement à un réseau de chaleur urbain classé et présence d'un système de climatisation |
+
+25 |
+
+Sinon |
+
+0 |
 
 Le coefficient Migéo de modulation de Ic construction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend la valeur suivante (les zones climatiques sont définies au chapitre IV) :
 
@@ -9542,6 +10046,32 @@ Le coefficient Misurf_tot de modulation de Ic construction_max selon la surface 
 
 Misurf_tot = 0 ;
 
+Pour les immeubles de grande hauteur au sens de l'article R. 146-3 du code de la construction et de l'habitation, le coefficient Misurf_tot prend la valeur suivante :
+
+Misurftot = 0,05
+
+Le coefficient Miagrément_ext de modulation de Icconstruction_max selon la surface d'espaces extérieurs du bâtiment ou de la partie de bâtiment Sagrément_ext prend la valeur suivante :
+
+Miagrémentext = 0
+
+Le coefficient MiHSP de modulation de Icconstruction_max selon la hauteur sous plafond moyenne du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+MiHSP = 0
+
+Le coefficient Miclim_RCU de modulation de Icconstruction_max selon la présence ou non d'un système de climatisation, pour les bâtiments raccordés à un réseau de chaleur urbain classé, prend les valeurs suivantes :
+
+|
+
+Miclim_RCU |
+
+Si raccordement à un réseau de chaleur urbain classé et présence d'un système de climatisation |
+
+25 |
+
+Sinon |
+
+0 |
+
 Le coefficient Migéo de modulation de Ic construction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend la valeur suivante (les zones climatiques sont définies au chapitre IV) :
 
 Migéo = 0 ;
@@ -9665,6 +10195,32 @@ Misurf_moyen = 0 ;
 Le coefficient Misurf_tot de modulation de Ic construction_max selon la surface de référence du bâtiment ou de la partie de bâtiment prend la valeur suivante :
 
 Misurf_tot = 0 ;
+
+Pour les immeubles de grande hauteur au sens de l'article R. 146-3 du code de la construction et de l'habitation, le coefficient Misurf_tot prend la valeur suivante :
+
+Misurftot = 0,05
+
+Le coefficient Miagrément_ext de modulation de Icconstruction_max selon la surface d'espaces extérieurs du bâtiment ou de la partie de bâtiment Sagrément_ext prend la valeur suivante :
+
+Miagrémentext = 0
+
+Le coefficient MiHSP de modulation de Icconstruction_max selon la hauteur sous plafond moyenne du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+MiHSP = 0
+
+Le coefficient Miclim_RCU de modulation de Icconstruction_max selon la présence ou non d'un système de climatisation, pour les bâtiments raccordés à un réseau de chaleur urbain classé, prend les valeurs suivantes :
+
+|
+
+Miclim_RCU |
+
+Si raccordement à un réseau de chaleur urbain classé et présence d'un système de climatisation |
+
+25 |
+
+Sinon |
+
+0 |
 
 Le coefficient Migéo de modulation de Ic construction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend la valeur suivante (les zones climatiques sont définies au chapitre IV) :
 
@@ -9806,6 +10362,32 @@ Sref > 5000 m2
 
 ;
 
+Pour les immeubles de grande hauteur au sens de l'article R. 146-3 du code de la construction et de l'habitation, le coefficient Misurf_tot prend la valeur suivante :
+
+Misurftot = 0,05
+
+Le coefficient Miagrément_ext de modulation de Icconstruction_max selon la surface d'espaces extérieurs du bâtiment ou de la partie de bâtiment Sagrément_ext prend la valeur suivante :
+
+Miagrémentext = 0
+
+Le coefficient MiHSP de modulation de Icconstruction_max selon la hauteur sous plafond moyenne du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+MiHSP = 0
+
+Le coefficient Miclim_RCU de modulation de Icconstruction_max selon la présence ou non d'un système de climatisation, pour les bâtiments raccordés à un réseau de chaleur urbain classé, prend les valeurs suivantes :
+
+|
+
+Miclim_RCU |
+
+Si raccordement à un réseau de chaleur urbain classé et présence d'un système de climatisation |
+
+25 |
+
+Sinon |
+
+0 |
+
 Le coefficient Migéo de modulation de Ic construction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend la valeur suivante (les zones climatiques sont définies au chapitre IV) :
 
 Migéo = 0 ;
@@ -9946,6 +10528,32 @@ Sref > 2000 m2
 
 ;
 
+Pour les immeubles de grande hauteur au sens de l'article R. 146-3 du code de la construction et de l'habitation, le coefficient Misurf_tot prend la valeur suivante :
+
+Misurftot = 0,05
+
+Le coefficient Miagrément_ext de modulation de Icconstruction_max selon la surface d'espaces extérieurs du bâtiment ou de la partie de bâtiment Sagrément_ext prend la valeur suivante :
+
+Miagrémentext = 0
+
+Le coefficient MiHSP de modulation de Icconstruction_max selon la hauteur sous plafond moyenne du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
+
+MiHSP = 0
+
+Le coefficient Miclim_RCU de modulation de Icconstruction_max selon la présence ou non d'un système de climatisation, pour les bâtiments raccordés à un réseau de chaleur urbain classé, prend les valeurs suivantes :
+
+|
+
+Miclim_RCU |
+
+Si raccordement à un réseau de chaleur urbain classé et présence d'un système de climatisation |
+
+25 |
+
+Sinon |
+
+0 |
+
 Le coefficient Migéo de modulation de Ic construction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend la valeur suivante (les zones climatiques sont définies au chapitre IV) :
 
 Migéo = 0 ;
@@ -10056,7 +10664,7 @@ Si Ic ded > 480 kg éq. CO2/ m2
 
 Où Ic ded représente l'impact sur le changement climatique de l'ensemble des composants associés à des données environnementales par défaut ou à des valeurs forfaitaires dans l'évaluation de l'indicateur Ic construction du bâtiment ou de la partie de bâtiment, à l'exception des composants des lots 1,2 et 13 tels que définis précédemment.
 
-IV.-Valeurs de DH_maxcat
+IV. - Valeurs de DH_maxcat
 
 1. Maisons individuelles ou accolées
 
@@ -12000,9 +12608,9 @@ Elle est de catégorie 1 dans les autres cas.
 
 Un local est de catégorie 3 si :
 
-- cumulativement, il est muni d'un système de climatisation, il est situé dans une zone à usage de bureaux ou hôtels ou restaurants ou commerces ou établissements d'accueil de la petite enfance ou bâtiments universitaires d'enseignement et de recherche ou médiathèques et bibliothèques ou bâtiments d'enseignements atypiques ou établissement de santé (partie jour) et les règles d'hygiène et de sécurité interdisent l'ouverture de toutes les baies du local donnant sur l'extérieur ;
+- cumulativement, il est muni d'un système de climatisation, il est situé dans une zone à usage de bureaux ou hôtels ou restaurants ou commerces ou établissements d'accueil de la petite enfance ou bâtiments universitaires d'enseignement et de recherche ou médiathèques et bibliothèques ou bâtiments d'enseignements atypiques ou établissement de santé (partie jour) ou aérogares et les règles d'hygiène et de sécurité interdisent l'ouverture de toutes les baies du local donnant sur l'extérieur ;
 
-- ou si, cumulativement, il est muni d'un système de climatisation, il est situé dans une zone à usage de bureaux ou hôtels ou restaurants ou commerces ou établissements d'accueil de la petite enfance ou bâtiments universitaires d'enseignement et de recherche ou médiathèques et bibliothèques ou bâtiments d'enseignements atypiques, et il est situé dans un immeuble de grande hauteur, au sens de l'article R. 146-3 du code de la construction et de l'habitation.
+- ou si, cumulativement, il est muni d'un système de climatisation, il est situé dans une zone à usage de bureaux ou hôtels ou restaurants ou commerces ou établissements d'accueil de la petite enfance ou bâtiments universitaires d'enseignement et de recherche ou médiathèques et bibliothèques ou bâtiments d'enseignements atypiques ou établissement de santé (partie jour) ou aérogares, et il est situé dans un immeuble de grande hauteur, au sens de l'article R. 146-3 du code de la construction et de l'habitation.
 
 Un local est de catégorie 2 s'il n'est pas de catégorie 3 et si, cumulativement :
 
@@ -12020,4 +12628,4 @@ Pour l'application du 4° de l'article R. 172-4, le mot : “ composants ” reg
 
 NOTA :
 
-Conformément à l'article 6 du décret n° 2026-16 du 15 janvier 2026, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 1er mai 2026.
+Conformément à l'article 3 du décret n° 2026-200 du 18 mars 2026, ces dispositions, dans leur rédaction résultant du décret précité, s'appliquent aux demandes de permis de construire ou aux déclarations préalables déposées à compter du 1er juillet 2026.
