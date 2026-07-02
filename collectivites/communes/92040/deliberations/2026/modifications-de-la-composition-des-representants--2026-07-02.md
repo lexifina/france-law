@@ -1,0 +1,12 @@
+# Ville d'Issy-les-Moulineaux : délibération — Modifications de la composition des représentants du Conseil municipal de la Ville au sein de divers organismes, associations et commissions.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2026-07-02
+- Matière : ADMINISTRATION GENERALE
+- Objet : Modifications de la composition des représentants du Conseil municipal de la Ville au sein de divers organismes, associations et commissions.
+- Transmis à la préfecture : 2026-07-08
+- Votants : 49
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjY3ODUsInB1ciI6ImJsb2JfaWQifX0=--f2899dea967610e299d068b3be55b13107fabaf0/03%20-%20ADM%20-%20Modification%20dans%20divers%20organismes%20et%20commissions%20.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
