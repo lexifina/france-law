@@ -1,0 +1,13 @@
+# Ville d'Issy-les-Moulineaux : délibération — Lancement d’un appel d’offres ouvert relatif à la réalisation de prestations de régie technique dans divers sites et bâtiments.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2026-07-02
+- Matière : MOYENS GENERAUX
+- Objet : Lancement d’un appel d’offres ouvert relatif à la réalisation de prestations de régie technique dans divers sites et bâtiments.
+- Transmis à la préfecture : 2026-07-09
+- Votants : 49
+- Pour : 49
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjY5MDcsInB1ciI6ImJsb2JfaWQifX0=--927bad9a9ed8274cfb2d47b0360e96c8582cfe46/35%20-%20MOY%20GEN%20-%20Lancement%20AO%20r%C3%A9gie%20technique%20dans%20divers%20batiments.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
