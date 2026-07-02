@@ -1,0 +1,12 @@
+# motion de censure Motion de censure 49.2
+
+- Type : Motion
+- Sous-type : de censure de l'article 49-2 de la Constitution
+- Dénomination : Motion
+- Titre court : Motion de censure 49.2
+- Déposé le : 2026-07-02
+- Publié le : 2026-07-02
+- Dossier : DLR5L17N54613
+- Auteurs : Mme Cyrielle Chatelain (auteur), Mme Nadège Abomangoli (cosignataire), M. Pouria Amirshahi (cosignataire), Mme Christine Arrighi (cosignataire), Mme Clémentine Autain (cosignataire), Mme Léa Balage El Mariky (cosignataire), Mme Lisa Belluco (cosignataire), M. Karim Ben Cheikh (cosignataire), M. Benoît Biteau (cosignataire), M. Arnaud Bonnet (cosignataire), M. Alexis Corbière (cosignataire), M. Hendrik Davi (cosignataire), M. Emmanuel Duplessy (cosignataire), M. Charles Fournier (cosignataire), Mme Marie-Charlotte Garin (cosignataire), M. Damien Girard (cosignataire), M. Steevy Gustave (cosignataire), Mme Julie Laernoes (cosignataire), M. Tristan Lahais (cosignataire), M. Benjamin Lucas-Lundy (cosignataire), Mme Julie Ozenne (cosignataire), M. Sébastien Peytavie (cosignataire), Mme Marie Pochon (cosignataire), M. Jean-Claude Raux (cosignataire), Mme Sandra Regol (cosignataire), Mme Sandrine Rousseau (cosignataire), M. François Ruffin (cosignataire), Mme Sabrina Sebaihi (cosignataire), Mme Danielle Simonnet (cosignataire), Mme Sophie Taillé-Polian (cosignataire), M. Boris Tavernier (cosignataire), M. Nicolas Thierry (cosignataire), Mme Dominique Voynet (cosignataire), M. Laurent Alexandre (cosignataire), M. Gabriel Amard (cosignataire), Mme Ségolène Amiot (cosignataire), Mme Farida Amrani (cosignataire), M. Rodrigo Arenas (cosignataire), M. Raphaël Arnault (cosignataire), Mme Anaïs Belouassa-Cherifi (cosignataire), M. Ugo Bernalicis (cosignataire), M. Christophe Bex (cosignataire), M. Carlos Martens Bilongo (cosignataire), M. Idir Boumertit (cosignataire), M. Louis Boyard (cosignataire), M. Pierre-Yves Cadalen (cosignataire), M. Sylvain Carrière (cosignataire), Mme Gabrielle Cathala (cosignataire), M. Bérenger Cernon (cosignataire), Mme Sophia Chikirou (cosignataire), M. Jean-François Coulomme (cosignataire), M. Sébastien Delogu (cosignataire), M. Aly Diouara (cosignataire), Mme Alma Dufour (cosignataire), Mme Karen Erodi (cosignataire), Mme Mathilde Feld (cosignataire), Mme Anne Stambach-Terrenoir (cosignataire), M. Peio Dufau (cosignataire)
+- Identifiant : MIONANR5L17-N24
+- Législature : 17
