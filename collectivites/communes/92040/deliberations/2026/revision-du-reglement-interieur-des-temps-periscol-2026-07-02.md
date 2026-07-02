@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Révision du règlement intérieur des temps périscolaires, extrascolaires et de la Restauration Scolaire.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2026-07-02
+- Matière : EDUCATION
+- Objet : Révision du règlement intérieur des temps périscolaires, extrascolaires et de la Restauration Scolaire.
+- Transmis à la préfecture : 2026-07-09
+- Votants : 49
+- Pour : 37
+- Contre : 5
+- Abstentions : 7
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjY4OTIsInB1ciI6ImJsb2JfaWQifX0=--8bca3eb46b95565a8986a60a0e53a6822eb80577/25%20-%20EDUC%20-%20R%C3%A9vision%20R%C3%A9glement%20int%C3%A9rieur%20temps%20p%C3%A9riscolaires,extrascolaires%20et%20restauration%20scolaire%20.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
