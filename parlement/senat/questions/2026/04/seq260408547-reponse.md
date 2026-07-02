@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260408547
+
+- Question : [SEQ260408547](seq260408547.md) — Inclusion des entreprises artisanales du bâtiment et des travaux publics dans les aides face à la hausse du gazole non routier
+
+## Réponse
+
+*Porte-parole du Gouvernement et Énergie, JO du 2026-07-02, page 3327*
+
+Le Gouvernement est pleinement mobilisé pour limiter l'effet de la crise sur nos concitoyens, particulièrement sur la filière du BTP et l'écosystème d'entreprises qui la compose. Pour affirmer son soutien aux acteurs les plus touchés par la crise, le Gouvernement a annoncé le 21 avril des mesures effectives dès le mois de mai concernant la hausse des prix des carburants. Le décret n° 2026-356 du 8 mai 2026 institue une aide destinée à compenser une partie de la hausse du coût du gazole non routier (GNR) pour les entreprises du secteur du bâtiment et des travaux publics disposant d'un effectif maximum de 20 salariés. L'aide concerne l'achat de gazole non routier pour la période du 1er mai au 31 mai 2026. Comme le précise le décret, pour bénéficier de l'aide, les entreprises doivent être à jour de leurs obligations déclaratives fiscales et sociales. Avant tout dépôt de formulaire, il convient qu'elles aient réglé leurs dettes fiscales et/ou sociales. Le montant de l'aide est égal à 20 centimes d'euros par litre de GNR facturé entre le 1er mai et le 31 mai 2026 inclus. Par ailleurs, il ne peut pas excéder 4 000 euros par entreprise. Ces mesures ont été complétées et prolongées le 21/05 et sont détaillées sur le site du Gouvernement : https://www.info.gouv.fr/actualite/guerre-en-iran-le-gouvernement-annonce-des-mesures-de-soutien-a-l-activite-economique. Le gouvernement soutien pleinement la filière du BTP et restera, comme pour l'ensemble des filières touchées, extrêmement vigilant sur le fait la hausse des prix.
