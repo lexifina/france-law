@@ -1,0 +1,9 @@
+# Réponse à la question SEQ251106690
+
+- Question : [SEQ251106690](seq251106690.md) — Place des jus de fruits dans les recommandations nutritionnelles du Programme national nutrition santé (PNNS)
+
+## Réponse
+
+*Santé, familles, autonomie et personnes handicapées, JO du 2026-07-02, page 3334*
+
+En France, les recommandations sur l'alimentation et l'activité physique sont diffusées par les pouvoirs publics depuis la mise en oeuvre du Programme national nutrition santé (PNNS) de 2001, afin d'aider les consommateurs à adopter des comportements nutritionnels favorables à la santé. En 2019, dans le cadre du 4ème PNNS (2019-2023), Santé publique France a publié les nouvelles recommandations nutritionnelles sur la base des rapports d'expertise de l'agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail et du haut Conseil de la santé publique. Ainsi, les jus de fruits, riches en sucres et pauvres en fibres, peuvent être consommés dans le cadre d'une alimentation équilibrée, mais en portions et fréquences adaptées, jusqu'à un verre par jour pour les adultes et ½ verre pour les enfants. Dans le cadre de la Stratégie nationale pour l'alimentation, la nutrition et le climat et le futur PNNS 5, des travaux seront menés sur l'adéquation des recommandations nutritionnelles avec les enjeux environnementaux pour élaborer de potentiels nouveaux repères alimentaires sains et durables. Dans ce cadre, la littérature scientifique récente sur les associations entre la consommation des différents groupes d'aliments et la santé pourra être réévaluée par les agences d'expertise indépendantes. Enfin, les jus de fruits font l'objet d'une distinction avec les sodas dans le cadre de la fiscalité nutritionnelle en vigueur, adoptée en 2012 et révisée en 2018 puis 2025, qui taxe seulement les sucres ajoutés dans les boissons sucrées, exemptant ainsi les jus de fruits.
