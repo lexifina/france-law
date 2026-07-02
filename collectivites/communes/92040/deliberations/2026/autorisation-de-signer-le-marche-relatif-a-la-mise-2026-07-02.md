@@ -1,0 +1,14 @@
+# Ville d'Issy-les-Moulineaux : délibération — Autorisation de signer le marché relatif à la mise à disposition de personnel intérimaire pour la direction de la Petite Enfance.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2026-07-02
+- Matière : RESSOURCES HUMAINES
+- Objet : Autorisation de signer le marché relatif à la mise à disposition de personnel intérimaire pour la direction de la Petite Enfance.
+- Transmis à la préfecture : 2026-07-09
+- Votants : 49
+- Pour : 42
+- Contre : 7
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjY4ODcsInB1ciI6ImJsb2JfaWQifX0=--270453945333e8175229e14db07914909fa9b1a4/21%20-%20RH%20-%20Attribution%20march%C3%A9%20Presta%20Interim%20PENF%20.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
