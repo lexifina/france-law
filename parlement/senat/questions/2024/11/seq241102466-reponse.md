@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241102466
+
+- Question : [SEQ241102466](seq241102466.md) — Soutien aux conservatoires d'espaces naturels
+
+## Réponse
+
+*Transition écologique, biodiversité et négociations internationales sur le climat et la nature, JO du 2026-07-02, page 3343*
+
+Les Conservatoires d'espaces naturels (CEN) sont des associations à but non lucratif, reconnues par le code de l'environnement, agréées conjointement par l'Etat et la région concernée. Ils constituent l'un des plus importants réseaux de gestionnaires d'espaces naturels en France. Les conservatoires agissent avec le soutien de l'Etat, des collectivités territoriales et de partenaires privés pour connaître, protéger, gérer et valoriser la nature et accompagner les politiques publiques. Le ministère soutient les activités de la fédération des conservatoires (FCEN) ainsi que le fonctionnement des différents conservatoires présents sur le territoire. Une convention pluriannuelle d'objectifs existe avec la FCEN. Elle porte sur quatre grands axes : fonctionnement et animation de réseau, contribution aux politiques de préservation des milieux humides, et implication, coordination du réseau des CEN dans la mise en oeuvre de la stratégie nationale relative aux espèces exotiques envahissantes (EEE) et pilotage du programme LIFE BIODIV'FRANCE. Le budget alloué en 2025 était de 835 545 euros. L'État apporte également son soutien aux conservatoires d'espaces naturels par l'intermédiaire des crédits des services déconcentrés. Cela a représenté 1,8 million d'euros en 2025, ce qui a signifié une augmentation de 40 % en trois ans. Dans un contexte budgétaire contraint, le ministère travaille à assurer le bon financement du fonctionnement des CEN comme de la fédération des CEN et le portage de projets d'importance pour la biodiversité.
