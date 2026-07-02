@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241000449
+
+- Question : [SEQ241000449](seq241000449.md) — Avenir du financement des conseils d'architecture, d'urbanisme et de l'environnement par la taxe d'aménagement
+
+## Réponse
+
+*Ville et Logement, JO du 2026-07-02, page 3352*
+
+La taxe d'aménagement est due sur les constructions neuves nécessitant une autorisation d'urbanisme mais également sur l'ensemble des opérations d'aménagement, de reconstruction ou d'agrandissement de bâtiments, installations ou aménagements de toute nature soumis à autorisation d'urbanisme. Inclure dans le champ d'application de la taxe d'aménagement, les opérations de transformation des bâtiments existants qui ont donc déjà été soumis à la taxe lors de leur édification, reviendrait à mettre en place une double imposition différée dans le temps, ce qui ne peut être envisagé. Par ailleurs, un rehaussement du taux maximal de la part départementale augmenterait la pression fiscale en matière de taxe d'aménagement, ce qui entraînerait à l'extrême, la disparition de certains acteurs économiques sur le territoire des communes du fait de l'augmentation du coût des opérations projetées et impacterait donc les recettes de ces dernières et notamment en taxe d'aménagement. Les conseils départementaux qui instituent la taxe d'aménagement, fixent par délibération, le taux applicable de la part départementale et également le taux de répartition entre la politique de protection des espaces naturels sensibles et les conseils d'architecture, d'urbanisme et de l'environnement (CAUE). Pour répondre au besoin de financement soulevé dans la question pour les CAUE, le conseil départemental peut d'une part, moduler le taux de la part départementale jusqu'à la limite autorisée par le législateur et d'autre part adapter la clé de répartition entre la politique des espaces naturels et les CAUE pour mieux tenir compte des missions de ces derniers.
