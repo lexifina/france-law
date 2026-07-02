@@ -1,0 +1,13 @@
+# Ville d'Issy-les-Moulineaux : délibération — Présentation du rapport annuel d’exécution du délégataire pour l’exploitation des marchés d’approvisionnement sur l’exercice 2025, pour la période du 1er janvier au 9 mars 2025.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2026-07-02
+- Matière : COMMERCE ET ARTISANAT
+- Objet : Présentation du rapport annuel d’exécution du délégataire pour l’exploitation des marchés d’approvisionnement sur l’exercice 2025, pour la période du 1er janvier au 9 mars 2025.
+- Transmis à la préfecture : 2026-07-08
+- Votants : 49
+- Pour : PRISE D'ACTE
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjY3OTYsInB1ciI6ImJsb2JfaWQifX0=--1b165a9bcd0430c081360539f88112e35225a070/10%20-%20COM%20ART%20-%20Pr%C3%A9sentation%20Rapport%20exploitation%20march%C3%A9s%202025%20JANVIER%20A%20MARS%20.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
