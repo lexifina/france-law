@@ -1,0 +1,9 @@
+# Réponse à la question SEQ251106553
+
+- Question : [SEQ251106553](seq251106553.md) — Disparition de la langue des signes française des concours du certificat d'aptitude au professorat de l'enseignement du second degré pour la session 2026
+
+## Réponse
+
+*Éducation nationale, JO du 2026-07-02, page 3287*
+
+Le ministère de l'éducation nationale est attaché à l'inclusivité de l'école garantie par la loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes en situation de handicap. L'enseignement de la langue des signes française est ainsi primordial pour l'école d'aujourd'hui. À cet égard, le concours du certificat d'aptitude au professorat de l'enseignement du second degré (CAPES) de langue des signes française (LSF) a été créé en 2009 afin de disposer d'un nombre suffisant d'enseignants pour former les élèves dans cette discipline. Deux postes étaient offerts au CAPES externe des trois dernières sessions. Les services du ministère de l'éducation nationale sont amenés à déterminer le nombre de postes offerts au recrutement pour les différents concours entre chaque discipline en fonction de plusieurs indicateurs, notamment le volume global de postes offerts, les libérations de postes dans la discipline, la présence de sureffectifs disciplinaires, l'évolution des heures d'enseignement, les demandes des académies pour chaque discipline et l'évolution du nombre d'élèves. Malgré l'absence de demande dans cette discipline de la part des académies, deux postes ont été ouverts lors de la session 2025 et seul un candidat a été admis sur les dix inscrits. Pour la session 2026, le ministère a décidé de maintenir l'ouverture de cette discipline à la session du CAPES externe public, à hauteur de deux postes. Les épreuves d'admissibilité ont bien eu lieu les 23 et 24 mars 2026. La publication des résultats d'admission est programmée pour le 23 juin.
