@@ -40,4 +40,4 @@ Aude... |
 
 100 |
 
-Carcassonne, Castelnaudary, Fleury-d'Aude, Limoux. |
+Carcassonne, Castelnaudary, Fleury-d'Aude. |
