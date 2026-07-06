@@ -8,27 +8,21 @@ Localisation de l'emploi |
 
 Intitulé de l'emploi |
 
-Cabinet du garde des sceaux |
-
-Administration centrale
-
-|
-
-|
-
 Secrétariat général |
 
 Administration centrale |
 
-- |
+Cabinet du secrétaire général |
 
-Délégué à l'encadrement supérieur |
+Chef de cabinet |
 
--
+Délégation en charge de l'outre-mer |
 
-|
+Délégué |
 
-Chef de cabinet du secrétaire général |
+Délégation à l'encadrement supérieur |
+
+Délégué |
 
 Service des ressources humaines |
 
@@ -48,17 +42,25 @@ Sous-direction du budget de la justice |
 
 Adjoint au sous-directeur |
 
-Service de l'expertise et de la modernisation |
+Service des affaires juridiques, de l'expertise et de la stratégie |
 
 Département de l'évaluation et des projets de modernisation |
 
-Chef du département de l'évaluation et des projets de modernisation |
+Chef de département |
 
-Délégation en charge de l'outre-mer |
+Direction générale de l'administration pénitentiaire |
 
-- |
+Direction de l'administration |
 
-Délégué |
+Sous-direction des ressources humaines et des relations sociales |
+
+Chef du bureau des affaires statutaires, disciplinaires et de l'organisation du dialogue social |
+
+Chef du bureau de la gestion des corps communs |
+
+Sous-direction du pilotage et du soutien des services |
+
+Chef du bureau de la synthèse |
 
 Direction des services judiciaires |
 
@@ -76,6 +78,14 @@ Ecole nationale des greffes |
 
 Secrétaire général |
 
+Direction des affaires civiles et du sceau |
+
+Administration centrale |
+
+Sous-direction des professions judiciaires et juridiques |
+
+Chef du bureau de la gestion des officiers ministériels |
+
 Direction des affaires criminelles et des grâces |
 
 Administration centrale |
@@ -84,52 +94,18 @@ Sous-direction du Casier judiciaire national |
 
 Chef du bureau de l'administration générale |
 
-Direction des affaires civiles et du sceau |
-
-Sous-direction des professions judiciaires et juridiques |
-
-Bureau de la gestion des officiers ministériels |
-
-Chef du bureau de la gestion des officiers ministériels |
-
-Direction de l'administration pénitentiaire |
-
-Administration centrale |
-
-Sous-direction des ressources humaines et des relations sociales |
-
-Chef du bureau des affaires statutaires, disciplinaires et de l'organisation du dialogue social |
-
-Chef du bureau de la gestion des corps communs |
-
-Sous-direction du pilotage et du soutien des services |
-
-Chef du bureau de la synthèse |
-
 Direction de la protection judiciaire de la jeunesse |
 
 Administration centrale |
 
 Sous-direction des ressources humaines et des relations sociales |
 
-Chef du bureau des carrières et du développement professionnel
+Chef du bureau du recrutement et de la formation |
 
-|
+Chef du bureau des relations sociales et des statuts |
 
-Chef du bureau des relations sociales et des statuts
-
-|
-
-Chef du bureau du recrutement et de la formation
-
-|
-
-|
+Chef du bureau des carrières et du développement professionnel |
 
 Sous-direction du pilotage et de l'optimisation des moyens |
 
 Chef du bureau de l'immobilier |
-
-NOTA :
-
-Conformément à l'article 4 de l'arrêté du 16 décembre 2025 (NOR : JUST2535261A), ces dispositions, dans leur rédaction issue de l'article 1er de l'arrêté précité, entrent en vigueur le 1er janvier 2026.
