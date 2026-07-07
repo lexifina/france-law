@@ -1,0 +1,9 @@
+# Réponse à la question n° 14314
+
+- Question : [14314](14314.md) — Question n° 14314 — Application du MACF dans les régions ultrapériphériques
+
+## Réponse
+
+*JO du 2026-07-07, page 6356*
+
+Le Gouvernement rappelle l'ambition climatique qui fonde le mécanisme d'ajustement carbone aux frontières (MACF). Cet instrument, pierre angulaire du Pacte Vert pour l'Europe, constitue un levier majeur pour prévenir les fuites de carbone, préserver la compétitivité de notre industrie et accélérer sa décarbonation. Sous sa forme actuelle, le MACF s'applique, sans distinction, à l'ensemble du territoire douanier de l'Union européenne, qui inclut les régions ultrapériphériques françaises, parmi lesquelles la Martinique. Or, le Gouvernement est pleinement conscient que ces territoires sont particulièrement exposés aux effets du mécanisme, compte tenu de leurs spécificités structurelles. En moyenne, jusqu'à 80 % de l'approvisionnement en marchandises MACF des régions ultrapériphériques provient de pays situés en dehors de l'Union européenne. Contrairement à l'Europe continentale, ces régions ne présentent pas de risques de fuites de carbone - raison d'être même du MACF - puisqu'il n'existe pas de production locale de biens primaires concernés qui pourrait être délocalisée. Compte tenu de la situation particulière de ces territoires, la France juge essentiel d'adapter les modalités d'application du MACF dans le cas des régions ultrapériphériques, et en a fait part à la Commission Européenne, en lui fournissant des éléments en ce sens. Le Gouvernement est pleinement mobilisé sur ce sujet et continuera de mettre tous les moyens en œuvre pour obtenir une adaptation du MACF permettant de préserver la cohésion économique et sociale de nos régions d'outre-mer tout en maintenant l'ambition climatique française et européenne.
