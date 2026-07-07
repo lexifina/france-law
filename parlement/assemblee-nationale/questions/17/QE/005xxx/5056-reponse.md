@@ -1,0 +1,9 @@
+# Réponse à la question n° 5056
+
+- Question : [5056](5056.md) — Question n° 5056 — Prix de l'électricité et réforme post-ARENH
+
+## Réponse
+
+*JO du 2026-07-07, page 6341*
+
+Les décrets d'application de l'article 17 de la loi de finances pour 2025 et le détail des paramètres entourant le dispositif « post-ARENH », relatifs à la comptabilisation des revenus des centrales nucléaires existantes, aux coûts du nucléaire et au versement nucléaire universel (VNU), ont été publiés entre la fin d'année 2025 et le début d'année 2026. Les seuils de taxation et d'écrêtement ont été fixés dans l'arrêté du 11 février 2026 relatif à la taxe sur l'utilisation de combustible nucléaire pour la production d'électricité. Ils s'élèvent respectivement à 78 €/MWh et 110 €/MWh pour la période 2026-2028 et sont indexés sur l'inflation sous-jacente chaque année. Ces seuils ont été fixés conformément aux fourchettes prévues par la loi à partir de l'estimation de la CRE pour les coûts complets du nucléaires existants. Cette estimation de la CRE pour la période 2026-2028 s'élève à 60,3 €2026/MWh. Les montants prélevés à EDF seront redistribués intégralement à tous les consommateurs finaux pendant une période de l'année fixée. Cette redistribution prendra la forme d'une minoration de facture, que les fournisseurs seront tenus d'appliquer. Sur la facture, la minoration sera distinguée du prix auquel elle s'applique par une mention expresse. Tous ces éléments sont précisés dans le décret n° 2026-55 du 4 février 2026 relatif au versement nucléaire universel. Les tarifs réglementés de vente de l'électricité (TRVE) fixés au 1er février 2026, intégrant donc les effets de la fin de l'ARENH et du passage dans le nouveau mode de régulation, ont connu une baisse moyenne d'environ 1,99€TTC/MWh par rapport au TRVE précédemment en vigueur. La composante de coût d'approvisionnement en électricité a baissé par rapport à 2025 car les prix de marché de gros ont connu une baisse importante.
