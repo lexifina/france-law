@@ -1,0 +1,9 @@
+# Réponse à la question n° 11694
+
+- Question : [11694](11694.md) — Question n° 11694 — Instauration du partage territorial de la valeur
+
+## Réponse
+
+*JO du 2026-07-07, page 6277*
+
+Le mécanisme introduit par l'article 93 de la loi n° 2023-175 du 10 mars 2023 relative à l'accélération de la production d'énergies renouvelables (APER) prévoit un partage territorial de la valeur pour les projets d'énergies renouvelables sous la forme du financement, par le porteur de projet, de projets portés par la collectivité et de projets en faveur notamment de la biodiversité. Les modalités de ce dispositif doivent faire l'objet d'un décret. Des réflexions ont eu lieu avec les acteurs concernés afin de définir les modalités de fonctionnement de ce fonds, et ont mis en avant les difficultés suivantes : - Complexité du montage envisagé, avec la création de différents fonds intermédiaires, et d'une succession de possibilité pouvant mettre à mal la clarté des montages envisagés - Inefficience financière du montage envisagé : les projets finançant les projets des collectivités étant des projets soutenus par les appels d'offres du ministère qui leur garantissent un tarif d'achat de l'électricité sur 20 ans, ils répercutent naturellement le coût de la contribution aux projets précédemment cités dans le tarif demandé, complété des intérêts dus aux banques liées à ce montant. Les simulations réalisées montraient ainsi que la part payée in fine par l'Etat via les charges de services public de l'énergie étaient nettement plus importantes que les montants réellement touchés par les collectivités. Le Gouvernement continue à travailler avec les acteurs de la filière et des collectivités afin de définir des modalités d'un partage de la valeur des projets d'énergies renouvelables efficient pour les collectivités.
