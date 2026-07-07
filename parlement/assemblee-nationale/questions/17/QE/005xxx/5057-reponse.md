@@ -1,0 +1,9 @@
+# Réponse à la question n° 5057
+
+- Question : [5057](5057.md) — Question n° 5057 — Quelles ambitions photovoltaïques pour la France ?
+
+## Réponse
+
+*JO du 2026-07-07, page 6342*
+
+Le développement des énergies renouvelables est source d'emplois dans les territoires et de retombées fiscales pour les collectivités. La visibilité à moyen terme sur le développement du photovoltaïque est clé pour l'émergence de capacités de production de panneaux (gigafactories) sur le territoire français. Toutefois, il convient également de tenir compte de l'équilibre offre-demande et de l'impact du développement de nouvelles capacités de production sur le système électrique. En termes de répartition de l'implantation des centrales, le gouvernement est attentif à une répartition équilibrée en tenant compte notamment des coûts potentiellement plus élevés de certaines technologies et de la nécessité de minimiser les conflits d'usages et les impacts (mobilisation au maximum des terrains délaissés et anthropisés, utilisation de l'agrivoltaïsme). Il accompagnera l'émergence des projets agrivoltaïques à la suite de la mise en place récente du cadre réglementaire de l'agrivoltaïsme en application de l'article 54 de la loi d'accélération pour les énergies renouvelables. La 3e programmation pluriannuelle de l'énergie a été publiée en février 2026 et fixe les cibles de 48 GW de photovoltaïque installé fin 2030, et 31 GW d'éolien terrestre. Depuis la publication de cette PPE3, les appels d'offres suivants ont été lancés : Appel d'offre photovoltaïque sur bâtiment de 300 MWc (période en avril 2026) Appel d'offres photovoltaïque au sol de 1 GWc (période en juillet 2026) Appel d'offres petit photovoltaïque sur bâtiment de 288 MWc (période en juillet 2026) Appel d'offres éolien terrestre de 800 MW (période en mai 2026) Les travaux se poursuivent pour la préparation des prochaines périodes.
