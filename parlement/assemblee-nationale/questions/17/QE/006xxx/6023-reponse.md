@@ -1,0 +1,9 @@
+# Réponse à la question n° 6023
+
+- Question : [6023](6023.md) — Question n° 6023 — Difficultés rencontrées par les couples dans leur parcours de PMA
+
+## Réponse
+
+*JO du 2026-07-07, page 6378*
+
+Le Gouvernement est pleinement conscient des difficultés rencontrées par les personnes confrontées à l'infertilité, qui constitue aujourd'hui un enjeu majeur de santé publique. Afin de renforcer la prévention, l'information et l'accompagnement, le Gouvernement a présenté le 5 février 2026 un plan national de lutte contre l'infertilité comportant 16 mesures. Celui-ci prévoit notamment une meilleure information sur la santé reproductive, le développement de l'autoconservation des gamètes, la création d'un portail national de référence sur la fertilité ainsi qu'un renforcement de l'accès et de la qualité de la prise en charge en Assistance médicale à la procréation (AMP). Des mesures visent également à moderniser la gestion des dons de gamètes, améliorer l'information des patients et optimiser l'organisation des parcours au sein des centres d'AMP. Le plan comporte par ailleurs un volet dédié à la recherche et à l'innovation afin de faire de la France un acteur de référence dans le domaine de la fertilité, notamment grâce au soutien de projets de recherche et au renforcement du suivi épidémiologique de la santé reproductive. L'amélioration continue des pratiques médicales en AMP demeure une priorité, sous l'égide de l'Agence de la biomédecine, qui accompagne les centres autorisés dans l'évaluation et la diffusion des meilleures pratiques. Enfin, un chantier national sur la santé périnatale et maternelle a été engagé afin de renforcer la qualité, la sécurité et l'équité des soins sur l'ensemble du territoire. Le Gouvernement poursuivra ainsi son action pour mieux prévenir l'infertilité, soutenir la recherche et garantir à chacun un accès à une prise en charge adaptée et de qualité.
