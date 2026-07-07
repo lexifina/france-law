@@ -1,0 +1,9 @@
+# Réponse à la question n° 4576
+
+- Question : [4576](4576.md) — Question n° 4576 — Vaccins et méningite : entre obligation et communication
+
+## Réponse
+
+*JO du 2026-07-07, page 6374*
+
+Face à la recrudescence des infections invasives à méningocoques constatée ces dernières années, la Haute autorité de santé a renforcé la stratégie vaccinale en mars 2024 et 2025. Toutes ses recommandations ont depuis été mises en œuvre et ont fait l'objet d'une campagne de communication. La loi de financement de la sécurité sociale pour 2025 a ainsi rendu obligatoire la vaccination contre les méningocoques ACWY et B pour les nourrissons. Cette stratégie s'accompagne d'un rattrapage vaccinal transitoire pour les jeunes enfants jusqu'à 4 ans révolus, ainsi que d'une vaccination des adolescents de 11 à 14 ans, avec une prise en charge par l'Assurance maladie dans ces différentes tranches d'âge, y compris jusqu'à 24 ans dans le cadre du rattrapage vaccinal. Afin d'en assurer la bonne appropriation, une campagne nationale de communication a été déployée depuis avril 2025, complétée par des actions numériques sur le site du ministère chargé de la santé et l'élaboration par Santé publique France de supports d'information à destination du grand public et des professionnels de santé. Par ailleurs, la vaccination contre les méningocoques ACWY est désormais proposée gratuitement au collège et fait l'objet d'un courrier d'information aux parents concernés. Ces mesures font l'objet d'un suivi attentif, tant en matière de couverture vaccinale, que de surveillance épidémiologique et de pharmacovigilance. Dans un contexte de vigilance accrue face aux infections invasives à méningocoques, l'objectif demeure de garantir une protection optimale des populations, en particulier des plus jeunes, tout en renforçant l'adhésion et la confiance dans la vaccination.
