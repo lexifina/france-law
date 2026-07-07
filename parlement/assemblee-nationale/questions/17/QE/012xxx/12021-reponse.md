@@ -1,0 +1,9 @@
+# Réponse à la question n° 12021
+
+- Question : [12021](12021.md) — Question n° 12021 — Complément de libre choix du mode de garde
+
+## Réponse
+
+*JO du 2026-07-07, page 6405*
+
+Afin de soutenir les familles monoparentales qui rencontrent plus de difficultés que les couples en matière de conciliation vie familiale et vie professionnelle, le Gouvernement a étendu depuis le 1er septembre 2025 le versement du Complément de libre choix du mode de garde (CMG) en cas d'emploi direct d'un assistant maternel ou d'une garde à domicile jusqu'aux 12 ans de l'enfant pour ces familles. Le choix de cette extension, qui représente un coût estimé de 319 M€ pour la branche famille, aux seuls cas d'emploi direct du salarié repose notamment sur un fondement pragmatique : les assistants maternels agréés et les gardes d'enfants à domicile sont des salariés disponibles partout sur le territoire, à un coût significativement moindre pour les familles et pour les pouvoirs publics, que le prestataire de garde d'enfants à domicile. Si les familles ayant recours à une structure mandataire ou à un prestataire agréé pour faire garder leur enfant de plus de six ans ne peuvent pas bénéficier du CMG, elles peuvent toutefois continuer à bénéficier du crédit d'impôt "services à la personne" qui prend en charge 50 % de leurs dépenses dans la limite de 12 000 euros par an, sans condition d'âge de l'enfant. Par ailleurs, afin de réduire les dépenses des ménages liées aux frais de garde notamment pour leurs enfants de plus de six ans, la branche famille assure également le co-financement des accueils de loisirs sans hébergement pendant l'année scolaire, avant ou après les heures de classe, pendant la pause du déjeuner, le mercredi ou encore le samedi, pendant les congés des petites et grandes vacances scolaires. Ce sont ainsi 1,4 Md€ qui sont financés en 2024 par la branche famille pour permettre à ces services essentiels de fonctionner.
