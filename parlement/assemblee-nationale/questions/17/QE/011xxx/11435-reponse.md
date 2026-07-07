@@ -1,0 +1,9 @@
+# Réponse à la question n° 11435
+
+- Question : [11435](11435.md) — Question n° 11435 — Indexation du point PMI sur l'inflation
+
+## Réponse
+
+*JO du 2026-07-07, page 6288*
+
+Conformément à l'article R. 125-1 du code des pensions militaires d'invalidité et des victimes de guerre (CPMIVG), la valeur du point de PMI fait l'objet d'une actualisation annuelle au 1er janvier. Cette revalorisation est calculée en fonction de l'évolution cumulée de l'indice de traitement brut - grille indiciaire de la fonction publique de l'État (ITB-GI) constatée du troisième trimestre de la pénultième année au deuxième trimestre de l'année précédente inclus. Ce mécanisme reprend les conclusions rendues par un groupe de travail qui préconisait en 2021 la conservation de l'indexation du point de PMI sur l'ITB-GI, sous réserve qu'un examen de l'évolution de cet indice par rapport à l'indice des prix à la consommation hors tabac soit effectué tous les deux ans au moment de l'élaboration du projet de loi de finances. Depuis le 1er janvier 2022, la valeur du point de PMI a connu une progression d'environ 6,8 % (passant de 15,05 € à 16,07 €), en raison de deux hausses significatives de l'ITB-GI de la fonction publique de l'État intervenues en 2022 et 2023. La valeur du point de PMI progresse donc dans les mêmes proportions que la rémunération des agents publics en activité, laquelle reflète les autres mesures indiciaires générales et catégorielles ainsi que la transposition des revalorisations du SMIC. Le rapport comparant l'évolution constatée de la valeur du point de pension et de celle de l'indice des prix à la consommation hors tabac a été remis à la représentation nationale le 30 avril 2026. Le gouvernement s'engage à en exploiter les conclusions avec les associations du monde combattant et les parlementaires au deuxième semestre 2026.
