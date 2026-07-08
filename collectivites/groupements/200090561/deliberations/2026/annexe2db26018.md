@@ -1,0 +1,9 @@
+# CC VIERZON-SOLOGNE-BERRY : délibération ANNEXE2DB26018 — ANNEXE 2 A LA DECISION DE BUREAU DB26/018 DU 08/07/2026 CONTRAT PRET BUDGET PRINCIPAL
+
+- Collectivité : CC VIERZON-SOLOGNE-BERRY
+- SIREN : 200090561
+- Date : 2026-07-08
+- Matière : 7.3 Finances locales/Emprunts
+- Objet : ANNEXE 2 A LA DECISION DE BUREAU DB26/018 DU 08/07/2026 CONTRAT PRET BUDGET PRINCIPAL
+- Acte publié : https://publication-actes.fr/OpenData/200090561/Deliberation/2026/88135/4647a70f4428346a25bc86870c1f3e5036f2b19e4f0eaf70d1bc296bf700031f.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
