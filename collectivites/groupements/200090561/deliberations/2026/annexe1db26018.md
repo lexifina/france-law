@@ -1,0 +1,9 @@
+# CC VIERZON-SOLOGNE-BERRY : délibération ANNEXE1DB26018 — ANNEXE N° 1 A LA DECISION DE BUREAU DB26.018 DU 08.07.2026 CONTRAT PRET BUDGET TOURISME
+
+- Collectivité : CC VIERZON-SOLOGNE-BERRY
+- SIREN : 200090561
+- Date : 2026-07-08
+- Matière : 7.3 Finances locales/Emprunts
+- Objet : ANNEXE N° 1 A LA DECISION DE BUREAU DB26.018 DU 08.07.2026 CONTRAT PRET BUDGET TOURISME
+- Acte publié : https://publication-actes.fr/OpenData/200090561/Deliberation/2026/88132/8095b450a7329ba5c0f63d365e08e47d73d1b5db448f6cb734916f2033a87be2.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
