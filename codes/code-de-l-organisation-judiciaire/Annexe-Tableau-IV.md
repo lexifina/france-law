@@ -302,7 +302,7 @@ Communes de Baillif, Basse-Terre, Bouillante, Capesterre-Belle-Eau, Deshaies, Go
 
 Saint-Martin |
 
-Communes de Saint-Barthélemy, Saint-Martin. |
+Collectivités d'outre-mer de Saint-Barthélemy et de Saint-Martin. |
 
 Pointe-à-Pitre |
 
