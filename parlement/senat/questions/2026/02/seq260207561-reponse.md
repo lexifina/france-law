@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260207561
+
+- Question : [SEQ260207561](seq260207561.md) — Conséquences particulièrement préjudiciables de la récente réforme du complément de libre choix du mode de garde
+
+## Réponse
+
+*Santé, familles, autonomie et personnes handicapées, JO du 2026-07-09, page 3486*
+
+Depuis janvier 2026, le service Pajemploi de l'union de recouvrement des cotisations de sécurité sociale et d'allocations familiales a fait évoluer les modalités déclaratives pour les particuliers employeurs d'assistants maternels. Cette évolution introduit une déclaration par enfant accueilli, conformément aux éléments définis dans chaque contrat de travail. La mise en place de la déclaration par enfant permet un calcul plus précis des droits du Complément de libre choix du mode de garde (CMG), réalisé pour chaque enfant, ainsi qu'une simplification des démarches pour le particulier employeur et pour l'assistant maternel, notamment pour la prise en compte de ses droits (chômage, retraite…). Elle permet également de respecter la réglementation qui a toujours prévu que le CMG est versé jusqu'aux six ans de l'enfant en application de l'article L. 531-5 du code de la sécurité sociale, à l'exception des familles monoparentales qui peuvent en bénéficier jusqu'aux 12 ans de l'enfant depuis le 1er septembre 2025. Par ailleurs, la branche famille contribue fortement à la réduction des dépenses des ménages liées aux frais de garde notamment pour leurs enfants de plus de six ans via le co-financement des accueils de loisirs sans hébergement pendant l'année scolaire, avant ou après les heures de classe, pendant la pause du déjeuner, le mercredi ou encore le samedi, pendant les congés des petites et grandes vacances scolaires. Ce sont ainsi 1,4 Mdeuros qui ont été financés en 2024 par la branche famille pour permettre à ces services essentiels de fonctionner.
