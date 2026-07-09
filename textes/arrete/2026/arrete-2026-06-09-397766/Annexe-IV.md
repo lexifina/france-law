@@ -1,0 +1,919 @@
+# Article Annexe IV
+
+RÉFÉRENTIEL D'ÉVALUATION
+
+IV.1. Unités constitutives du diplôme
+
+UNITÉS |
+
+INTITULÉS |
+
+U11 |
+
+Mathématiques |
+
+U12 |
+
+Physique-chimie |
+
+U2 |
+
+Etude d'une demande de réalisation d'un ouvrage en maroquinerie de haute facture |
+
+U31 |
+
+Proposition de réponses préalables à la réalisation d'un ouvrage en maroquinerie de haute facture |
+
+U32 -A |
+
+Réalisation d'un ouvrage en maroquinerie de haute facture option maroquinerie |
+
+U32 -B |
+
+Réalisation d'un ouvrage en maroquinerie de haute facture option malleterie |
+
+U33 |
+
+Economie-gestion |
+
+U34 |
+
+Prévention Santé Environnement |
+
+U4 |
+
+Langue vivante |
+
+U51 |
+
+Français |
+
+U52 |
+
+Histoire et géographie et enseignement moral et civique |
+
+U6 |
+
+Education physique et sportive |
+
+UF1- UF2
+
+Unité(s) à choisir parmi les 2 unités ci-contre |
+
+Langue vivante étrangère régionale ou langue de signes
+
+Mobilité |
+
+UNITÉ U11
+
+Mathématiques
+
+Pour la classe de première année, le programme sur lequel repose l'unité est défini par l'arrêté du 3 avril 2019 modifié fixant le programme d'enseignement de mathématiques de la classe de seconde préparant au baccalauréat professionnel et de la classe de première année préparant au brevet national des métiers d'art.
+
+Pour les classes de deuxièmes et troisièmes années, le programme sur lequel repose l'unité est défini par l'arrêté du 3 février 2020 modifié fixant le programme d'enseignement de mathématiques des classes de première et terminale préparant au baccalauréat professionnel et des classes de deuxièmes et troisièmes années préparant au brevet national des métiers d'art.
+
+Le brevet national des métiers d'art "Maroquinerie de haute facture" est rattaché au groupement A pour les mathématiques.
+
+UNITÉ U12
+
+Physique-chimie
+
+Pour la classe de première année, le programme sur lequel repose l'unité est défini par l'arrêté du 3 avril 2019 modifié fixant le programme d'enseignement de physique-chimie de la classe de seconde préparant au baccalauréat professionnel et de la classe de première année préparant au brevet national des métiers d'art.
+
+Pour les classes de deuxième et troisième année, le programme sur lequel repose l'unité est défini par l'arrêté du 3 février 2020 modifié fixant le programme d'enseignement de physique-chimie des classes de première et terminale préparant au baccalauréat professionnel et des classes de deuxièmes et troisièmes années préparant au brevet national des métiers d'art.
+
+La spécialité "Maroquinerie de haute facture" de brevet national des métiers d'art est rattachée au groupement 6.
+
+La définition du contenu des unités constitutives professionnelles (U2 - U31 - U32) a pour but de préciser pour chacune d'elles, les blocs de compétences visés dans un contexte professionnel donné, il s'agit à la fois :
+
+- d'établir la liaison entre les unités, correspondant aux épreuves, et le référentiel d'activités professionnelles afin de préciser le cadre de l'évaluation ;
+
+- de permettre la mise en correspondance des activités professionnelles et des unités dans le cadre du dispositif de VAE.
+
+UNITÉ U2
+
+Etude d'une demande de réalisation d'un ouvrage en maroquinerie de haute facture
+
+Le contenu sur lequel repose l'unité U2 correspond aux compétences du bloc n° 1 "Etudier une demande de réalisation d'un ouvrage en maroquinerie de haute facture" défini dans l'annexe III "référentiel de compétences".
+
+UNITÉ U31
+
+Proposition de réponses préalables à la réalisation d'un ouvrage en maroquinerie de haute facture
+
+Le contenu sur lequel repose l'unité U31 correspond aux compétences du bloc n° 2 "Proposer des réponses préalables à la réalisation d'un ouvrage en maroquinerie de haute facture" défini dans l'annexe III "référentiel de compétences".
+
+UNITÉ U32-A
+
+Réalisation d'un ouvrage en maroquinerie de haute facture option maroquinerie
+
+Le contenu sur lequel repose l'unité U32-A correspond aux compétences communes et spécifiques du bloc n° 3-A "Réaliser un ouvrage en maroquinerie de haute facture - option maroquinerie" défini dans l'annexe III "référentiel de compétences".
+
+UNITÉ U32-B
+
+Réalisation d'un ouvrage en maroquinerie de haute facture option malleterie
+
+Le contenu sur lequel repose l'unité U32-B correspond aux compétences communes et spécifiques du bloc n° 3-B "Réaliser un ouvrage en maroquinerie de haute facture - option malleterie" défini dans l'annexe III "référentiel de compétences".
+
+UNITÉ U33
+
+Economie-Gestion
+
+Le programme sur lequel repose l'unité est défini par l'arrêté du 3 avril 2019 modifié fixant le programme d'enseignement d'économie-gestion des classes préparant au baccalauréat professionnel et des classes préparant au brevet national des métiers d'art.
+
+UNITÉ U34
+
+Prévention, santé, environnement
+
+Pour la classe de première année, le programme sur lequel repose l'unité est défini par l'arrêté du 3 avril 2019 modifié fixant le programme d'enseignement de prévention santé environnement de la classe de seconde préparant au baccalauréat professionnel et de la classe de première année préparant au brevet national des métiers d'art (BO spécial n° 5 du 11 avril 2019).
+
+Pour les classes de deuxièmes et troisièmes années, le programme sur lequel repose l'unité est défini par l'arrêté du 3 février 2020 modifié fixant le programme d'enseignement de prévention-santé-environnement des classes de première et terminale préparant au baccalauréat professionnel et des classes de deuxièmes et troisièmes années préparant au brevet national des métiers d'art.
+
+UNITÉ U4
+
+Langue vivante
+
+Le programme sur lequel repose l'unité est défini par l'arrêté du 3 avril 2019 modifié fixant le programme d'enseignement de langues vivantes des classes préparant au certificat d'aptitude professionnelle, des classes préparant au baccalauréat professionnel et des classes préparant au brevet national des métiers d'art.
+
+UNITÉ U51
+
+Français
+
+Pour la classe de première année, le programme sur lequel repose l'unité est défini par l'arrêté du 3 avril 2019 modifié fixant le programme d'enseignement de français de la classe de seconde préparant au baccalauréat professionnel et de la classe de première année préparant au brevet national des métiers d'art.
+
+Pour les classes de deuxièmes et troisièmes années, le programme sur lequel repose l'unité est défini par l'arrêté du 3 février 2020 modifié fixant le programme d'enseignement de français des classes de première et terminale préparant au baccalauréat professionnel et des classes de deuxième et troisième années préparant au brevet national des métiers d'art.
+
+UNITÉ U52
+
+Histoire-géographie et enseignement moral et civique
+
+Histoire-géographie
+
+Pour la classe de première année, le programme sur lequel repose l'unité est défini par l'arrêté du 3 avril 2019 modifié fixant le programme d'enseignement d'histoire-géographie de la classe de seconde préparant au baccalauréat professionnel et de la classe de première année préparant au brevet national des métiers d'art.
+
+Pour les classes de deuxièmes et troisièmes années, le programme sur lequel repose l'unité est défini par l'arrêté du 3 février 2020 modifié fixant le programme d'enseignement d'histoire-géographie des classes de première et terminale préparant au baccalauréat professionnel et des classes de deuxième et troisième années préparant au brevet national des métiers d'art.
+
+Enseignement moral et civique
+
+Le programme sur lequel repose l'unité est défini par l'arrêté du 29 mai 2024 modifié fixant le programme d'enseignement moral et civique du cours préparatoire à la classe terminale des voies générale, technologique et professionnelle, des classes préparant au brevet national des métiers d'art et des classes préparant au certificat d'aptitude professionnelle.
+
+UNITÉ U6
+
+Education physique et sportive
+
+Le programme sur lequel repose l'unité est défini par l'arrêté du 3 avril 2019 modifié fixant le programme d'enseignement d'éducation physique et sportive des classes préparant au certificat d'aptitude professionnelle, des classes préparant au baccalauréat professionnel et des classes préparant au brevet national des métiers d'art.
+
+UNITÉS FACULTATIVES
+
+UF1 et UF2
+
+Les candidats peuvent choisir une ou deux unités facultatives parmi les unités possibles et donc une ou deux épreuves facultatives parmi les choix possibles :
+
+Unité facultative de langue vivante étrangère, régionale ou des signes française
+
+Le programme sur lequel repose l'unité est défini par l'arrêté du 3 avril 2019 modifié fixant le programme d'enseignement de langues vivantes des classes préparant au certificat d'aptitude professionnelle et des classes préparant au baccalauréat professionnel et des classes préparant au brevet national des métiers d'art.
+
+Le programme sur lequel repose l'unité est défini par l'arrêté du 3 juin 2009 fixant le programme de l'enseignement de la langue des signes française au lycée d'enseignement général et technologique et au lycée professionnel.
+
+Unité facultative de mobilité
+
+Les compétences constitutives de l'unité facultative de mobilité sont définies par l'arrêté du 30 août 2019 modifié portant création d'une unité facultative de mobilité et de l'attestation MobilitéPro dans les diplômes du baccalauréat professionnel, du brevet national des métiers d'art, du brevet professionnel et du brevet des métiers d'art.
+
+IV.2. Règlement d'examen
+
+BREVET NATIONAL DES MÉTIERS D'ART
+
+"Maroquinerie de haute facture" |
+
+Origine des candidats |
+
+|
+
+- élèves dans un établissement public ou privé sous contrat ;
+
+- apprentis dans un CFA porté par un EPLE, GRETA ou GIP-FCIP assurant toute la formation ;
+
+- apprentis dans un CFA habilité au CCF ;
+
+- stagiaires de la formation professionnelle continue dans un établissement public. |
+
+- élèves dans un établissement privé hors contrat ;
+
+- appentis dans un CFA non habilité au CCF ;
+
+- stagiaires de la formation professionnelle continue en établissement privé ;
+
+- candidats de l'enseignement à distance ;
+
+- candidats justifiant de 3 années d'activités professionnelles. |
+
+Stagiaires de la formation professionnelle continue dans un établissement public habilité au CCF intégral. |
+
+Épreuves |
+
+Unités |
+
+Coef. |
+
+Mode |
+
+Durée |
+
+Mode |
+
+Durée |
+
+Mode |
+
+Durée |
+
+E1 : Epreuve de mathématiques et physique-chimie |
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Sous-épreuve E11
+
+Mathématiques |
+
+U11 |
+
+2 |
+
+CCF |
+
+|
+
+Ponctuel écrit et pratique |
+
+1 h |
+
+CCF |
+
+|
+
+Sous-épreuve E12
+
+Physique-chimie |
+
+U12 |
+
+2 |
+
+CCF |
+
+|
+
+Ponctuel écrit et pratique |
+
+1 h |
+
+CCF |
+
+|
+
+E2 : Etude d'une demande de réalisation d'un ouvrage en Maroquinerie de haute facture |
+
+U2 |
+
+3 |
+
+CCF |
+
+|
+
+Ponctuel écrit et graphique |
+
+3 h |
+
+CCF |
+
+|
+
+E3 : Proposition de réponses et réalisation d'un ouvrage en Maroquinerie de haute facture |
+
+|
+
+16 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Sous-épreuve E31
+
+Proposition de réponses préalables à la réalisation d'un ouvrage en maroquinerie de haute facture |
+
+U31 |
+
+4 |
+
+Ponctuel Oral |
+
+20 mn |
+
+Ponctuel oral |
+
+20 mn |
+
+CCF |
+
+|
+
+Sous-épreuve E32-A
+
+Réalisation d'un ouvrage en maroquinerie de haute facture option maroquinerie |
+
+U32 A |
+
+10 |
+
+CCF |
+
+|
+
+Ponctuel pratique |
+
+24 h |
+
+CCF |
+
+|
+
+Sous-épreuve E32 -B
+
+Réalisation d'un ouvrage en maroquinerie de haute facture option malleterie |
+
+U32 B |
+
+10 |
+
+CCF |
+
+|
+
+Ponctuel pratique |
+
+24 h |
+
+CCF |
+
+|
+
+Sous-épreuve E33
+
+Économie-gestion |
+
+U34 |
+
+1 |
+
+Ponctuel écrit |
+
+2 h |
+
+Ponctuel
+
+écrit |
+
+2 h |
+
+CCF |
+
+|
+
+Sous-épreuve E34
+
+Prévention-santé-environnement |
+
+U35 |
+
+1 |
+
+Ponctuel écrit |
+
+2 h |
+
+Ponctuel écrit |
+
+2 h |
+
+CCF |
+
+|
+
+E4 : Epreuve de langue vivante |
+
+U4 |
+
+2 |
+
+CCF |
+
+|
+
+Ponctuel écrit et oral |
+
+1 h +
+
+10 mn |
+
+CCF |
+
+|
+
+E5 : Epreuve de français, histoire et géographie et enseignement moral et civique |
+
+U5 |
+
+5 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Sous-épreuve E51
+
+Français |
+
+U51 |
+
+2,5 |
+
+Ponctuel écrit |
+
+3 h |
+
+Ponctuel
+
+écrit |
+
+3 h |
+
+CCF |
+
+|
+
+Sous-épreuve E52
+
+Histoire-géographie et enseignement moral et civique |
+
+U52 |
+
+2,5 |
+
+Ponctuel écrit |
+
+2 h 30 |
+
+Ponctuel
+
+écrit |
+
+2 h 30 |
+
+CCF |
+
+|
+
+E6 : Epreuve d'éducation physique et sportive |
+
+U6 |
+
+1 |
+
+CCF |
+
+|
+
+Ponctuel pratique |
+
+|
+
+CCF |
+
+|
+
+Epreuves facultatives (1)
+
+EF1
+
+EF2 |
+
+UF1 UF2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(1) Le candidat peut choisir une ou deux unités facultatives parmi les unités possibles, les conditions sont fixées par la réglementation en vigueur. La langue vivante choisie au titre de l'épreuve facultative est obligatoirement différente de celle choisie au titre de l'épreuve obligatoire.
+
+Seuls les points excédant 10 sont pris en compte pour le calcul de la moyenne générale en vue de l'obtention du diplôme et de l'attribution d'une mention. |
+
+IV.3 Définition des épreuves.
+
+Toutes les épreuves comportent des sujets nationaux.
+
+Définition des épreuves
+
+ÉPREUVE E1
+
+ÉPREUVE DE MATHÉMATIQUES ET PHYSIQUE-CHIMIE |
+
+UNITÉ U1
+
+Coefficient 4 |
+
+Cette épreuve comporte deux sous-épreuves :
+
+- E11 - sous épreuve de mathématiques (U11) ;
+
+- E12 - sous-épreuve de physique-chimie (U12).
+
+Sous-épreuve E11 MATHÉMATIQUES |
+
+Unité U11 - Coefficient 2 |
+
+La définition de la sous-épreuve actuellement en vigueur est celle fixée dans l'annexe III de l'arrêté du 9 mars 2026 fixant les unités générales du brevet national des métiers d'art et définissant les modalités d'évaluation des épreuves ou sous-épreuves d'enseignement général.
+
+Sous-épreuve E12 PHYSIQUE-CHIMIE |
+
+Unité U12 - Coefficient 2 |
+
+La définition de la sous-épreuve actuellement en vigueur est celle fixée dans l'annexe IV de l'arrêté du 9 mars 2026 fixant les unités générales du brevet national des métiers d'art et définissant les modalités d'évaluation des épreuves ou sous-épreuves d'enseignement général
+
+ÉPREUVE E2
+
+ÉTUDE D'UNE DEMANDE DE RÉALISATION
+
+D'UN OUVRAGE EN MAROQUINERIE DE HAUTE FACTURE |
+
+UNITÉ U2
+
+Coefficient 3 |
+
+ÉPREUVE E2
+
+ÉTUDE D'UNE DEMANDE DE RÉALISATION D'UN OUVRAGE EN MAROQUINERIE DE HAUTE FACTURE |
+
+Coefficient 3
+
+Notée sur 60 points |
+
+L'épreuve a pour objectif d'évaluer, chez les candidats, le niveau de maîtrise des compétences nécessaires aux activités du pôle 1 : "Etude d'une demande de réalisation d'un ouvrage en maroquinerie de haute facture" :
+
+C1 - Identifier et déterminer les besoins et les contraintes de la demande
+
+C2 - Interpréter les caractéristiques de la demande
+
+C3 - Organiser et enrichir une documentation |
+
+ÉPREUVE
+
+ÉCRITE
+
+ET
+
+GRAPHIQUE |
+
+DURÉE
+
+3h |
+
+Contenu de l'épreuve
+
+Cette épreuve s'appuie sur une situation professionnelle contextualisée. Le candidat est amené à étudier un ensemble de ressources (audiovisuelles, visuelles ou écrites) constitué d'informations techniques, esthétiques, stylistiques ou historiques.
+
+A partir du dossier ressources et de ses connaissances, au travers d'une analyse écrite et graphique, il s'agit de vérifier les aptitudes du candidat à mobiliser les compétences du bloc 1. Les compétences sont évaluées à partir des indicateurs qui figurent à l'annexe III du référentiel de compétences.
+
+Pour ce faire, le candidat procède à :
+
+- des relevés graphiques annotés ;
+
+- des croquis analytiques mettant en évidence des caractéristiques ;
+
+- des réponses et des commentaires écrits.
+
+Modalités d'évaluation
+
+Selon le statut du candidat, l'évaluation s'effectue en contrôle en cours de formation (CCF) ou par épreuve ponctuelle.
+
+Les compétences évaluées et le degré d'exigence sont identiques quel que soit le mode d'évaluation.
+
+Evaluation par contrôle en cours de formation
+
+L'évaluation s'appuie sur plusieurs activités permettant d'établir un suivi et un bilan des compétences visées par l'épreuve. Les activités sont menées en centre de formation et en entreprise.
+
+Le suivi de la maîtrise des compétences est établi par l'équipe pédagogique du domaine professionnel. Il comporte des bilans intermédiaires et un bilan final.
+
+Le tuteur ou le maître d'apprentissage et le candidat sont associés au suivi dans le cas où l'activité est menée conjointement avec une entreprise.
+
+L'équipe pédagogique du domaine professionnel est composée des enseignants en charge des enseignements visant les compétences et connaissances associées du bloc de compétences 1.
+
+Au cours du dernier trimestre de la formation, une commission d'évaluation est réunie sous l'autorité du chef d'établissement. Elle est composée de l'équipe pédagogique du domaine professionnel et d'un professionnel de la spécialité. Elle arrête le niveau de maîtrise des compétences du candidat pour les activités menées en centre de formation. En l'absence du professionnel, la commission pourra valablement statuer.
+
+A l'issue de la commission, l'équipe pédagogique du domaine professionnel de l'établissement de formation constitue, pour chaque candidat, un dossier comprenant :
+
+- le suivi de maîtrise des compétences ;
+
+- les bilans intermédiaires et le bilan final ;
+
+- la proposition de note.
+
+Ce dossier peut être mis à la disposition du jury à sa demande.
+
+Evaluation par épreuve ponctuelle - Epreuve écrite et graphique - 3 heures - Coeff 3
+
+L'épreuve se déroule en salle, obligatoirement dans un centre d'examen, où chaque candidat dispose d'un espace individuel de travail pouvant recevoir :
+
+- plusieurs dossiers de format A3 ;
+
+- des moyens numériques s'ils sont prévus dans le sujet national de l'épreuve.
+
+ÉPREUVE E3
+
+PROPOSITION DE RÉPONSES ET RÉALISATION D'UN OUVRAGE EN MAROQUINERIE DE HAUTE FACTURE |
+
+UNITÉ U3
+
+Coefficient 16 |
+
+Cette épreuve comporte quatre sous-épreuves :
+
+- E31 - sous épreuve de proposition de réponses préalables à la réalisation d'un ouvrage en maroquinerie de haute facture (U31) ;
+
+- E32 - sous-épreuve de réalisation d'un ouvrage en maroquinerie de haute facture (épreuve à options) ;
+
+- E33 - sous épreuve d'économie gestion (U33) ;
+
+- E34 - sous épreuve de prévention, santé et environnement (U34).
+
+Sous-épreuve E31 PROPOSITION DE RÉPONSES PRÉALABLES A LA RÉALISATION D'UN OUVRAGE EN MAROQUINERIE DE HAUTE FACTURE |
+
+Coefficient 4 |
+
+L'épreuve a pour objectif d'évaluer, chez les candidats, le niveau de maîtrise des compétences nécessaires aux activités du pôle 2 : "Proposition de réponses préalable à la réalisation d'un ouvrage en maroquinerie de haute facture"
+
+C4 - Répondre avec méthode à une demande de réalisation
+
+C5 - Documenter la réponse
+
+C6 - Proposer des solutions, les étapes et les conditions de réalisation
+
+C7 - Informer, argumenter, interagir et conseiller sur l'ouvrage à réaliser |
+
+ÉPREUVE
+
+ORALE |
+
+DURÉE
+
+20mn |
+
+Contenu de la sous-épreuve
+
+Il s'agit de vérifier les aptitudes du candidat à mobiliser les compétences du bloc 2.
+
+Cette épreuve orale prend appui sur un dossier constitué par le candidat.
+
+Dans le cadre d'une situation professionnelle qu'il a identifiée et dont il présente le contexte, le candidat décrit sa démarche de recherche qui le conduit à une proposition de solutions techniques et esthétiques en vue d'une réalisation.
+
+En l'absence de réalisation de l'intégralité des PFMP, la mention non valide sera portée sur la sous-épreuve E31.
+
+Par conséquent, la note obtenue à cette épreuve est invalidée et le diplôme ne peut être délivré au candidat.
+
+Constitution du dossier
+
+Les recherches et solutions sont présentées dans un dossier au format PDF n'excédant pas 8 pages recto format A3.
+
+Les échantillons ou maquettes constitutifs des recherches, les documents de définition de l'ouvrage ainsi que les documents précisant les modalités et les coûts de réalisation sont associés au dossier en annexe. Pour les échantillons ou maquettes ne pouvant être déplacés lors de la soutenance orale, des photographies ou captations courtes peuvent être jointes en annexe du dossier. Aucun autre élément que ceux référencés dans le dossier et ses annexes ne peut être apporté lors de la soutenance orale. Durant celle-ci, les éléments présentés sont strictement ceux référencés dans le dossier et ses annexes.
+
+Soutenance orale
+
+La soutenance comprend un exposé de 10mn suivi d'un entretien avec le jury de 10mn.
+
+L'exposé permet au candidat de présenter ses recherches, ses solutions, les modalités de réalisations prévues ainsi que les coûts en les justifiant au regard du cahier des charges et des moyens de productions.
+
+Modalités d'évaluation
+
+Evaluation par épreuve ponctuelle
+
+L'épreuve est notée sur 20 points ; 14 points sont attribués au dossier et 6 points à l'oral.
+
+Le dossier de propositions et la soutenance orale sont évalués par une commission d'examinateurs composé d'un professeur de la spécialité, d'un professeur d'arts appliqués, et d'un professionnel de la spécialité. En l'absence du professionnel, la commission peut valablement statuer.
+
+Le dossier de propositions et ses annexes sont remis au centre d'examen préalablement à la soutenance orale, dans les délais fixés par le service académique des examens.
+
+En l'absence de dossier remis dans les délais, la soutenance orale ne peut avoir lieu et la note zéro, non éliminatoire, est attribuée à la sous-épreuve.
+
+Evaluation par contrôle en cours de formation
+
+L'épreuve est notée sur 20 points ; 14 points sont attribués au dossier et 6 points à l'oral.
+
+La situation d'évaluation en CCF se déroule au dernier trimestre de la formation.
+
+Le dossier de propositions et la soutenance orale sont évalués par une commission d'examinateurs composé d'un professeur de la spécialité, d'un professeur d'arts appliqués, et d'un professionnel de la spécialité. En l'absence du professionnel, la commission peut valablement statuer.
+
+Le dossier de propositions et ses annexes sont remis à la commission d'examinateurs 10 jours avant la soutenance orale.
+
+En l'absence de dossier remis dans les délais, la soutenance orale ne peut avoir lieu et la note zéro, non éliminatoire, est attribuée à la sous-épreuve.
+
+Sous-épreuve E32
+
+RÉALISATION D'UN OUVRAGE EN MAROQUINERIE DE HAUTE FACTURE (épreuve à options)
+
+SOUS-ÉPREUVE E32-A : RÉALISATION D'UN OUVRAGE EN MAROQUINERIE DE HAUTE FACTURE option MAROQUINERIE
+
+SOUS-ÉPREUVE E32-B : RÉALISATION D'UN OUVRAGE EN MAROQUINERIE DE HAUTE FACTURE option MALLETERIE |
+
+Coefficient 10
+
+Notée sur 200 points |
+
+L'épreuve a pour objectif d'évaluer, chez les candidats, le niveau de maîtrise des compétences communes et spécifiques aux 2 options, selon le choix effectué par le candidat, et nécessaires aux activités du pôle 3 : "Réalisation d'un ouvrage en maroquinerie de haute facture"
+
+C08 - Préparer le poste et les équipements, en sécurité
+
+C09 - Préparer matières, consommables et traçabilité initiale
+
+C10 - Monter en volume l'ouvrage
+
+C11 - Intégrer des pièces métalliques et réaliser les finitions
+
+C12 - Contrôler la fabrication et intégrer les éléments sous-traités
+
+C13 - Conditionner, remettre et parachever l'ouvrage
+
+C14 - Assurer la traçabilité documentaire et clore le dossier
+
+C15 - Assurer la maintenance de premier niveau des matériels et des postes de travail
+
+C16 - Réparer un ouvrage de maroquinerie de haute facture |
+
+PRATIQUE |
+
+DURÉE
+
+24 h |
+
+Contenu de la sous-épreuve
+
+A partir d'une demande contextualisée, précisée dans le sujet, le candidat réalise tout ou partie d'un ouvrage. Le choix de l'option (maroquinerie ou malleterie) liée à la sous-épreuve s'effectue lors de l'inscription à l'examen.
+
+Pour l'option maroquinerie :
+
+L'évaluation porte sur les compétences communes et spécifiques à l'option maroquinerie, présentes dans le BLOC 3-A.
+
+Pour l'option malleterie :
+
+L'évaluation porte sur les compétences communes et spécifiques à l'option malleterie, présentes dans le BLOC 3-B.
+
+Modalités d'évaluation
+
+L'épreuve se déroule en atelier.
+
+Selon le statut du candidat, l'évaluation s'effectue soit par épreuve ponctuelle, soit en contrôle en cours de formation (CCF).
+
+Les compétences évaluées et le degré d'exigence sont identiques quel que soit le mode d'évaluation.
+
+Evaluation par contrôle en cours de formation
+
+L'évaluation s'appuie sur plusieurs activités permettant d'établir un suivi et un bilan des compétences visées par la sous-épreuve. Les activités sont menées en centre de formation et en entreprise.
+
+Le suivi de la maîtrise des compétences est établi par l'équipe pédagogique du domaine professionnel. Il comporte des bilans intermédiaires et un bilan final prenant en compte les activités menées en centre de formation, ainsi qu'un bilan prenant en compte les activités menées en entreprise.
+
+L'équipe pédagogique du domaine professionnel est composée de tous les enseignants en charge des enseignements visant les compétences et connaissances associées du bloc 3.
+
+Le bilan prenant en compte les activités en entreprise est produit en dernière année de formation par :
+
+- le tuteur de PFMP et un professeur du domaine professionnel pour les candidats sous statut scolaire ;
+
+- le maître d'apprentissage et un formateur du domaine professionnel pour les candidats sous statut d'apprenti ;
+
+- le tuteur en entreprise ou le référent professionnel et un formateur du domaine professionnel pour les candidats relevant de la formation professionnelle continue (FPC). Au cours du dernier trimestre de la formation, une commission d'évaluation est réunie sous l'autorité du chef d'établissement directeur de l'organisme de formation. Elle est composée de l'équipe pédagogique du domaine professionnel et d'un professionnel de la spécialité. Elle arrête le niveau de maîtrise des compétences du candidat pour les activités menées en centre de formation. En l'absence du professionnel, la commission pourra valablement statuer.
+
+A l'issue de la commission, l'équipe pédagogique du domaine professionnel de l'établissement de formation constitue, pour chaque candidat, un dossier comprenant :
+
+- le suivi de maîtrise des compétences ;
+
+- les bilans intermédiaires et le bilan final prenant en compte les activités menées en centre de formation, la note du bilan final sur 160 points ;
+
+- le bilan prenant en compte les activités menées en entreprise noté sur 40 points.
+
+Ce dossier peut être mis à la disposition du jury à sa demande.
+
+Evaluation par épreuve ponctuelle
+
+L'épreuve d'une durée de 24 heures (sur 4 journées de 6 heures) se déroule en présence d'examinateurs. Les conditions d'organisation de l'épreuve sont fixées par le sujet national.
+
+A l'issue de l'épreuve, la commission d'examinateurs se réunit pour établir la note du candidat à partir de l'observation des gestes professionnels en cours d'épreuve et de l'ouvrage réalisé.
+
+La commission d'examinateurs est constituée de deux enseignants du domaine professionnel et d'un professionnel de la spécialité. En l'absence du professionnel, la commission pourra valablement statuer.
+
+Sous-épreuve E33 ÉCONOMIE - GESTION |
+
+Unité U33 - Coefficient 1 |
+
+La définition de la sous-épreuve actuellement en vigueur est celle fixée dans l'annexe VI de l'arrêté du 9 mars 2026 fixant les unités générales du brevet national des métiers d'art et définissant les modalités d'évaluation des épreuves ou sous-épreuves d'enseignement général.
+
+Sous-épreuve E34 PRÉVENTION SANTÉ ENVIRONNEMENT |
+
+Unité U34 - Coefficient 1 |
+
+La définition de la sous-épreuve actuellement en vigueur est celle fixée dans l'annexe VII de l'arrêté du 9 mars 2026 fixant les unités générales du brevet national des métiers d'art et définissant les modalités d'évaluation des épreuves ou sous-épreuves d'enseignement général.
+
+ÉPREUVE E4
+
+LANGUE VIVANTE |
+
+UNITÉ U4 - Coefficient 2 |
+
+La définition de l'épreuve actuellement en vigueur est celle fixée dans l'annexe V de l'arrêté du 9 mars 2026 fixant les unités générales du brevet national des métiers d'art et définissant les modalités d'évaluation des épreuves ou sous-épreuves d'enseignement général.
+
+ÉPREUVE E5
+
+FRANÇAIS, HITOIRE-GÉOGRAPHIE
+
+ET ENSEIGNEMENT MORAL ET CIVIQUE |
+
+UNITÉ U5 - Coefficient 5 |
+
+Cette épreuve comporte deux sous-épreuves :
+
+- E51 - sous épreuve de français (U51) ;
+
+- E52 - sous épreuve d'histoire-géographie et d'enseignement moral et civique (U52).
+
+Sous-épreuve E51 FRANÇAIS |
+
+Unité U51 - Coefficient 2,5 |
+
+La définition de la sous-épreuve actuellement en vigueur est celle fixée dans l'annexe I de l'arrêté du 9 mars 2026 fixant les unités générales du brevet national des métiers d'art et définissant les modalités d'évaluation des épreuves ou sous-épreuves d'enseignement général.).
+
+Sous-épreuve E51 HISTOIRE-GÉOGRAPHIE
+
+ET ENSEIGNEMENT MORAL ET CIVIQUE |
+
+Unité U52 - Coefficient 2,5 |
+
+La définition de la sous-épreuve actuellement en vigueur est celle fixée dans l'annexe II de l'arrêté du 9 mars 2026 fixant les unités générales du brevet national des métiers d'art et définissant les modalités d'évaluation des épreuves ou sous-épreuves d'enseignement général.
+
+ÉPREUVE E6
+
+ÉDUCATION PHYSIQUE ET SPORTIVE |
+
+UNITÉ U6 - Coefficient 1 |
+
+La définition de l'épreuve d'éducation physique et sportive actuellement en vigueur est celle fixée dans l'annexe VIII de l'arrêté du 9 mars 2026 fixant les unités générales du brevet national des métiers d'art et définissant les modalités d'évaluation des épreuves ou sous-épreuves d'enseignement général.
+
+ÉPREUVES FACULTATIVES |
+
+UNITÉS UF1 UF2- |
+
+Les candidats peuvent choisir une ou deux unités facultatives parmi les unités possibles, et donc une ou deux épreuves facultatives parmi les choix possibles :
+
+Epreuve facultative de langue vivante étrangère, régionale ou langue des signes
+
+L'épreuve actuellement en vigueur qui est attachée à cette unité a pour but de vérifier la capacité du candidat de comprendre une langue vivante parlée et la capacité de s'exprimer de manière intelligible pour un interlocuteur n'exigeant pas de particularités linguistiques excessives sur un sujet d'intérêt général. Elle englobe l'ensemble des compétences énumérées dans l'annexe IX de l'arrêté du 9 mars 2026 fixant les unités générales du brevet national des métiers d'art et définissant les modalités d'évaluation des épreuves ou sous-épreuves d'enseignement général.
+
+Epreuve facultative de mobilité
+
+L'épreuve facultative de mobilité est définie par l'arrêté du 30 août 2019 modifié portant création d'une unité facultative de mobilité et de l'attestation MobilitéPro dans le diplôme du baccalauréat professionnel, du brevet national des métiers d'art, du brevet professionnel et du brevet des métiers d'art
