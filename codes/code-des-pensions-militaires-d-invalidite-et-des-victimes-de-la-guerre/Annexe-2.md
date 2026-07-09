@@ -22,19 +22,33 @@ Figurent aussi en annexe du code des pensions militaires d'invalidité et des vi
 
 Guide-barème des invalidités applicable au titre du code des pensions militaires d'invalidité et des victimes de guerre
 
-DÉSIGNATION DES INFIRMITÉS |
+DESIGNATION DES INFIRMITÉS |
 
-POURCENTAGE D'INVALIDITÉ |
+POURCENTAGE d'invalidité |
 
-POURCENTAGE PRÉVU PAR LES BARÈMES ANTÉRIEURS |
+POURCENTAGE
 
-Côté droit |
+prévu par les barèmes antérieurs |
 
-Côté gauche |
+Côté
 
-Côté droit |
+dominant |
 
-Côté gauche |
+Côté
+
+non dominant |
+
+Côté
+
+dominant |
+
+Côté non dominant |
+
+Côté dominant |
+
+Côté
+
+non dominant |
 
 1887 |
 
@@ -43,8 +57,6 @@ Côté gauche |
 1887 |
 
 1915 |
-
-|
 
 p. 100 |
 
@@ -62,12 +74,6 @@ TITRE PREMIER
 
 MEMBRES (1) |
 
-(1) La commission chargée d'élaborer le guide-barème des amputations a émis l'avis que, par amputés, il faut entendre les mutilés qui ont subi l'amputation au niveau du poignet ou au-dessus, au niveau de la tibio-tarsienne ou au-dessus. Toutefois, elle a assimilé à l'amputation au niveau du poignet la perte des cinq doigts.
-
-Aux amputés non appareillables ou dont l'appareillage est mal toléré, il est attribué une majoration de 5 %.
-
-|
-
 A. MEMBRE SUPÉRIEUR |
 
 |
@@ -82,19 +88,7 @@ A. MEMBRE SUPÉRIEUR |
 
 |
 
-Les taux d'invalidité correspondant au membre supérieur droit doivent être appliqués chez les gauchers au membre supérieur gauche et réciproquement. |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
+(1) Par amputés, il faut entendre les mutilés qui ont subi l'amputation au niveau du poignet ou au-dessus, au niveau de la tibio-tarsienne ou au-dessus. Toutefois, il est assimilé à l'amputation au niveau du poignet la perte des cinq doigts. |
 
 DOIGTS ET MÉTACARPE |
 
@@ -138,7 +132,7 @@ Pouce. |
 
 |
 
-Suivant que la mobilité est conservée entre la demi-flexion et la flexion forcée (angle favorable) ou entre la demi-flexion et l'extension (angle défavorable). |
+Suivant les limitations de mobilité, la qualité des pinces et prises |
 
 |
 
@@ -193,20 +187,6 @@ Articulation inter-phalangienne et métacarpo-phalangienne |
 |
 
 2 à 10 |
-
-La mesure de la limitation des mouvements des doigts est basée sur la connaissance du fait suivant : on sait que la pulpe digitale s'applique sur le pli médian transversal de la paume quand la main est bien fermée. Il suffit donc de mesurer avec un double décimètre la distance du pli à la pointe de l'ongle dans les deux positions de flexion et d'extension maxima. |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
 
 Index. |
 
@@ -378,7 +358,7 @@ Toutes les articulations |
 
 |
 
-Les quatre doigts avec le pouce libre. – Suivant que la gêne fonctionnelle intéresse : |
+Les quatre doigts avec le pouce libre. - Suivant que la gêne fonctionnelle intéresse les secteurs suivants : |
 
 |
 
@@ -420,7 +400,7 @@ b. La flexion |
 
 |
 
-Les quatre doigts et le pouce. – Suivant que la gêne fonctionnelle intéresse : |
+Les quatre doigts et le pouce. - Suivant que la gêne fonctionnelle intéresse les secteurs suivants : |
 
 |
 
@@ -458,49 +438,7 @@ b. La flexion |
 
 |
 
-Ankyloses complètes |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-DEUX CLASSES |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1° Ankyloses OSSEUSES, vérifiées par la radiographie ; |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-2° Ankyloses FIBREUSES, très serrées, ne permettant aucun mouvement utile, après tentatives suffisantes de mobilisation. |
+Ankyloses |
 
 |
 
@@ -1158,7 +1096,7 @@ Impotence totale définitive de préhension de la main |
 
 |
 
-1° Par flexion ou extension permanente de tous les doigts, y compris le pouce (avec ou sans ankylose proprement dite) |
+1° Par flexion ou extension permanente de tous les doigts, y compris le pouce |
 
 60 |
 
@@ -1186,90 +1124,6 @@ Impotence totale définitive de préhension de la main |
 
 |
 
-Rétraction ischémique de Wolkmann
-
-(La plupart du temps le pouce n'est pas atteint) |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-a. Cas où le pouce est atteint, la main est alors fonctionnellement inutile |
-
-|
-
-|
-
-65 |
-
-60 |
-
-65 |
-
-50 |
-
-b. Cas où le pouce est libre |
-
-|
-
-|
-
-|
-
-40 |
-
-|
-
-30 |
-
-Maladie de Dupuytren |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Rétraction des deux derniers doigts |
-
-|
-
-|
-
-|
-
-20 |
-
-|
-
-10 |
-
 Pseudarthrose des doigts |
 
 |
@@ -1284,21 +1138,7 @@ Pseudarthrose des doigts |
 
 |
 
-Pseudarthrose ballante, avec perte de substance osseuse |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Phalange unguéale. |
+Phalange distale. |
 
 |
 
@@ -1424,7 +1264,7 @@ Luxations irréduites et irréductibles |
 
 |
 
-Pouce |
+POUCE |
 
 |
 
@@ -1438,7 +1278,7 @@ Pouce |
 
 |
 
-Phalangette |
+Phalange distale |
 
 5 |
 
@@ -1480,7 +1320,7 @@ Lors de cicatrices adhérentes de la paume et de raideur des autres doigts |
 
 |
 
-Doigts |
+DOIGTS LONGS |
 
 |
 
@@ -1494,7 +1334,7 @@ Doigts |
 
 |
 
-Phalangette |
+Phalange distale |
 
 2 à 3 |
 
@@ -1508,7 +1348,7 @@ Phalangette |
 
 |
 
-Phalangine et phalange (suivant la mobilité restaurée) |
+Phalange proximale et médiane (suivant la mobilité restaurée) |
 
 5 à 15 |
 
@@ -1536,7 +1376,7 @@ Amputations ou désarticulations |
 
 |
 
-Ablation isolée du pouce ou d'un doigt, partielle ou totale |
+Ablation isolée du pouce ou d'un doigt long, partielle ou totale |
 
 |
 
@@ -1550,7 +1390,7 @@ Ablation isolée du pouce ou d'un doigt, partielle ou totale |
 
 |
 
-Pouce. |
+POUCE |
 
 |
 
@@ -1564,7 +1404,7 @@ Pouce. |
 
 |
 
-Phalange unguéale |
+Phalange distale |
 
 10 |
 
@@ -1602,7 +1442,7 @@ Les deux phalanges et le 1er métacarpien |
 
 25 |
 
-Index |
+INDEX |
 
 |
 
@@ -1616,7 +1456,7 @@ Index |
 
 |
 
-Phalange unguéale |
+Phalange distale |
 
 5 |
 
@@ -1658,7 +1498,7 @@ Les trois phalanges |
 
 12 |
 
-Médius – Annulaire – Auriculaire |
+MÉDIUS - ANNULAIRE -AURICULAIRE |
 
 |
 
@@ -1672,7 +1512,7 @@ Médius – Annulaire – Auriculaire |
 
 |
 
-Phalange unguéale |
+Phalange distale |
 
 1 |
 
@@ -1704,7 +1544,7 @@ Trois phalanges |
 
 10 |
 
-8 |
+10 |
 
 |
 
@@ -2176,20 +2016,6 @@ Lors d'immobilisation du pouce |
 
 |
 
-Ablation des quatre premiers doigts |
-
-|
-
-|
-
-65 |
-
-60 |
-
-65 |
-
-50 |
-
 Ablation partielle de deux doigts : |
 
 |
@@ -2204,7 +2030,7 @@ Ablation partielle de deux doigts : |
 
 |
 
-De la phalangette du pouce et des deux dernières phalanges de l'index : |
+De la phalange distale du pouce et des deux dernières phalanges de l'index : |
 
 |
 
@@ -2246,48 +2072,6 @@ sans mobilité des moignons |
 
 20 |
 
-Deux phalangettes : |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Index et médius |
-
-|
-
-|
-
-|
-
-10 |
-
-|
-
-5 |
-
-Médius et annulaire |
-
-|
-
-|
-
-|
-
-5 |
-
-|
-
-5 |
-
 Ablation simultanée aux deux mains des pouces et de tous les doigts |
 
 90 |
@@ -2298,7 +2082,11 @@ Ablation simultanée aux deux mains des pouces et de tous les doigts |
 
 Ablation de divers doigts aux deux mains (1) :
 
-1) A moins que la dissociation de l'infirmité en ses différents éléments donne un pourcentage plus élevé par suite, soit du mode de décompte du taux de la pension, soit du droit au bénéfice des dispositions des articles L. 125-11 et L. 132-1 à L. 132-3.
+1) A moins que la dissociation de l'infirmité en ses différents éléments donne un pourcentage plus élevé par suite, soit du mode de décompte du taux de la pension, soit du droit au bénéfice des dispositions des articles L. 125-11 et L. 132-1 à L. 132-3. |
+
+|
+
+|
 
 |
 
@@ -2388,7 +2176,19 @@ Des deux pouces |
 
 |
 
-MÉTACARPE
+MÉTACARPE |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 Fractures |
 
@@ -2508,7 +2308,19 @@ Par désarticulation du poignet ou amputation très basse de l'avant-bras |
 
 |
 
+|
+
+|
+
+|
+
 Par amputation atypique intra-carpienne |
+
+|
+
+|
+
+|
 
 |
 
@@ -2516,11 +2328,29 @@ Par désarticulation des cinq métacarpiens |
 
 |
 
+|
+
+|
+
+|
+
 Par amputation intra-métacarpienne |
 
 |
 
+|
+
+|
+
+|
+
 Par ablation du pouce et des quatre doigts |
+
+|
+
+|
+
+|
 
 |
 
@@ -2529,6 +2359,8 @@ Perte des deux mains |
 100 (2) |
 
 100 (2) |
+
+|
 
 (1) et (2) A moins que la dissociation de l'infirmité en ses différents éléments donne un pourcentage plus élevé par suite, soit du mode de décompte du taux de la pension, soit du droit au bénéfice des dispositions des articles L. 125-11 et L. 132-1 à L. 132-3. |
 
@@ -2546,11 +2378,9 @@ POIGNET |
 
 |
 
-a. Les mouvements de flexion et d'extension varient entre 95° et 130° ;
+Suivant la limitation de mobilité hors ou en secteur utile :
 
-b. Les mouvements de pronation et de supination embrassent un angle total de 180°
-
-|
+Flexion dorsale 0-45°, flexion palmaire 0-60°, pronosupination 0-45°, inclinaisons présentes |
 
 |
 
@@ -2578,7 +2408,7 @@ Fractures (Voir ci-après) |
 
 |
 
-Raideurs articulaires et ankyloses partielles |
+Raideurs articulaires |
 
 |
 
@@ -2592,7 +2422,7 @@ Raideurs articulaires et ankyloses partielles |
 
 |
 
-Raideurs de l'extension et de la flexion |
+Raideurs de l'extension et de la flexion hors secteur utile |
 
 5 à 8 |
 
@@ -2606,35 +2436,7 @@ Raideurs de l'extension et de la flexion |
 
 |
 
-Si les mouvements conservés se produisent également de chaque côté de la verticale, l'angle de mobilité est dit favorable |
-
-|
-
-|
-
-|
-
-8 |
-
-|
-
-5 |
-
-Si l'angle de mobilité s'effectue dans la flexion exagérée, c'est-à-dire lorsque l'extension ne peut pas se faire, l'angle de mobilité est dit défavorable |
-
-|
-
-|
-
-|
-
-15 à 20 |
-
-|
-
-10 à 20 |
-
-Raideurs de la pronation et de la supination |
+Raideurs de la pronation et de la supination selon amputation secteur utile |
 
 5 à 10 |
 
@@ -2648,35 +2450,9 @@ Raideurs de la pronation et de la supination |
 
 |
 
-Si la partie du mouvement conservé évolue dans la position favorable de la pronation |
+Raideurs combinées
 
-|
-
-|
-
-|
-
-10 |
-
-|
-
-8 |
-
-Si la partie du mouvement conservé évolue dans la position défavorable de la supination |
-
-|
-
-|
-
-|
-
-20 à 30 |
-
-|
-
-10 à 20 |
-
-Raideurs combinées |
+(flexion/extension, prono-supination, inclinaisons) en secteur utile |
 
 10 à 20 |
 
@@ -2802,7 +2578,7 @@ g. En flexion et supination, doigts ankylosés (perte de l'usage de la main) |
 
 40 |
 
-Luxation |
+Instabilité |
 
 |
 
@@ -2816,7 +2592,7 @@ Luxation |
 
 |
 
-Luxation non réduite du poignet lorsqu'elle détermine une gêne fonctionnelle importante |
+Selon perte de force de préhension et gêne fonctionnelle (cf. raideurs articulaires ou ankyloses complètes) |
 
 |
 
@@ -2858,7 +2634,7 @@ A la suite de larges résections ou de grandes pertes de substance traumatiques 
 
 10 |
 
-Main botte, radiale ou cubitale |
+Main botte, radiale ou ulnaire |
 
 |
 
@@ -3026,34 +2802,6 @@ En supination |
 
 40 |
 
-Cals vicieux : |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Extrémité inférieure du radius (pénétration des fragments impossible à corriger, avec lésions articulaires et tendineuses) |
-
-|
-
-|
-
-|
-
-10 à 20 |
-
-|
-
-10 |
-
 Pseudarthrose (curabilité opératoire, sinon) |
 
 |
@@ -3082,7 +2830,7 @@ a. Des deux os : |
 
 |
 
-Serrée |
+Non mobile |
 
 10 |
 
@@ -3096,7 +2844,7 @@ Serrée |
 
 20 |
 
-Lâche (avant-bras ballant) |
+Mobile (avant-bras ballant) |
 
 40 |
 
@@ -3124,7 +2872,7 @@ b. D'un seul os : |
 
 |
 
-Serrée |
+Non mobile |
 
 0 à 5 |
 
@@ -3138,7 +2886,7 @@ Serrée |
 
 10 |
 
-Lâche |
+Mobile |
 
 5 à 10 |
 
@@ -3194,54 +2942,6 @@ COUDE |
 
 |
 
-L'amplitude en degrés des mouvements de flexion et d'extension du coude s'effectue : |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-a. Pour la flexion, depuis 180° (extension complète) jusqu'à 30° (flexion complète) ;
-
-b. Pour l'extension, depuis 30° (flexion complète) jusqu'à 180° (extension complète)
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Amplitude des mouvements de torsion (Voir Poignet)
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
 Cicatrice du coude entravant l'extension complète |
 
 |
@@ -3256,7 +2956,7 @@ Cicatrice du coude entravant l'extension complète |
 
 |
 
-Extension limitée : |
+Perte de l'extension selon le secteur fonctionnel amputé |
 
 |
 
@@ -3270,7 +2970,7 @@ Extension limitée : |
 
 |
 
-a. A 135° |
+a. Entre 0 et 45° |
 
 10 |
 
@@ -3284,7 +2984,7 @@ a. A 135° |
 
 |
 
-b. A 90° |
+b. Autour de 90° |
 
 20 |
 
@@ -3298,7 +2998,7 @@ b. A 90° |
 
 20 |
 
-c. A 45° |
+c. Au-delà |
 
 40 |
 
@@ -3312,7 +3012,7 @@ c. A 45° |
 
 |
 
-d. En deçà de 45°, l'avant-bras étant maintenu en flexion à angle très aigu |
+d. L'avant-bras étant maintenu en flexion à angle très aigu |
 
 50 |
 
@@ -3328,7 +3028,7 @@ d. En deçà de 45°, l'avant-bras étant maintenu en flexion à angle très aig
 
 Fractures (Voir ci-après)
 
-Raideurs articulaires
+Raideurs articulaires |
 
 |
 
@@ -3342,9 +3042,7 @@ Raideurs articulaires
 
 |
 
-|
-
-a. Lorsque la partie du mouvement conservé évolue dans la position favorable : |
+Selon le secteur fonctionnel amputé - secteur utile de 30° à 120° |
 
 |
 
@@ -3358,7 +3056,7 @@ a. Lorsque la partie du mouvement conservé évolue dans la position favorable :
 
 |
 
-Flexion active entre 110° et 75° |
+Déficit de flexion - extension hors secteur utile |
 
 10 |
 
@@ -3372,7 +3070,7 @@ Flexion active entre 110° et 75° |
 
 10 |
 
-Flexion active entre 75° et la flexion complète |
+Déficit de flexion - extension dans le secteur utile |
 
 20 |
 
@@ -3386,21 +3084,7 @@ Flexion active entre 75° et la flexion complète |
 
 15 |
 
-b. Lorsque la partie du mouvement conservé évolue dans la position défavorable : |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Extension active de 110° à 180° |
+Déficit combiné flexion-extension et prono supination |
 
 30 |
 
@@ -3413,20 +3097,6 @@ Extension active de 110° à 180° |
 |
 
 40 |
-
-c. Mouvements de torsion (Voir Avant-bras) |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
 
 Ankyloses complètes |
 
@@ -3444,7 +3114,7 @@ Ankyloses complètes |
 
 Ce terme vise l'abolition des mouvements de flexion, d'extension, de pronation et de supination.
 
-La position d'ankylose du coude est dite en "flexion", de 110° à 30° ; elle est dite "en extension", de 110° à 180°.
+La position d'ankylose du coude la mieux tolérée se situe vers 90° |
 
 |
 
@@ -3458,13 +3128,11 @@ La position d'ankylose du coude est dite en "flexion", de 110° à 30° ; elle e
 
 |
 
-|
+Position favorable |
 
-Position favorable : |
+35 à 45 |
 
-|
-
-|
+25 à 40 |
 
 |
 
@@ -3474,63 +3142,7 @@ Position favorable : |
 
 |
 
-En flexion entre 110° et 75° |
-
-35 |
-
-25 |
-
-60 |
-
-30 |
-
-60 |
-
-20 |
-
-En flexion à angle aigu à 45° |
-
-40 à 45 |
-
-30 à 40 |
-
-60 |
-
-40 |
-
-60 |
-
-30 |
-
-Cas extrême de flexion forcée où la main est appliquée contre l'épaule |
-
-|
-
-|
-
-65 |
-
-60 |
-
-65 |
-
-50 |
-
-Position défavorable : |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-En extension entre 110° et 180° |
+Position défavorable |
 
 50 |
 
@@ -3546,7 +3158,7 @@ En extension entre 110° et 180° |
 
 Ankyloses incomplètes
 
-(Huméro-cubitale complète avec conservation des mouvements de torsion.)
+(Huméro-cubitale complète avec conservation des mouvements de prono supination.) |
 
 |
 
@@ -3560,13 +3172,11 @@ Ankyloses incomplètes
 
 |
 
-|
+a. Position favorable |
 
-a. Position favorable : |
+25 à 30 |
 
-|
-
-|
+20 à 25 |
 
 |
 
@@ -3576,49 +3186,7 @@ a. Position favorable : |
 
 |
 
-En flexion entre 110° et 75° |
-
-25 |
-
-20 |
-
-|
-
-|
-
-|
-
-|
-
-En flexion à angle aigu à 45° |
-
-30 |
-
-25 |
-
-|
-
-|
-
-|
-
-|
-
-b. Position défavorable : |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-En extension entre 110° et 180° |
+b. Position défavorable |
 
 45 |
 
@@ -3646,7 +3214,7 @@ Fracture de l'olécrane |
 
 |
 
-a. Cal osseux ou fibreux court, bonne extension, flexion peu limitée |
+a. Consolidée, bonne extension, flexion peu limitée |
 
 5 |
 
@@ -3660,7 +3228,7 @@ a. Cal osseux ou fibreux court, bonne extension, flexion peu limitée |
 
 5 |
 
-b. Cal fibreux long, extension active complète, mais faible, flexion peu limitée |
+b. Consolidée, extension active complète, mais faible, flexion peu limitée |
 
 10 |
 
@@ -3674,7 +3242,7 @@ b. Cal fibreux long, extension active complète, mais faible, flexion peu limit�
 
 |
 
-c. Cal fibreux long, extension active presque nulle, atrophie notable du triceps |
+c. Consolidée, extension active presque nulle, atrophie notable du triceps |
 
 20 |
 
@@ -3688,49 +3256,7 @@ c. Cal fibreux long, extension active presque nulle, atrophie notable du triceps
 
 10 |
 
-Luxation |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Luxation non réduite du coude |
-
-|
-
-|
-
-65 |
-
-|
-
-65 |
-
-|
-
-Pseudarthrose |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Consécutive à de larges pertes de substance osseuse ou à des résections étendues du coude : |
+Instabilité |
 
 |
 
@@ -3772,6 +3298,20 @@ b. Coude ballant |
 
 40 |
 
+Instabilité avec mobilité conservée : selon gêne fonctionnelle (voir Raideurs articulaires ou ankyloses) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
 Désarticulation |
 
 |
@@ -3791,6 +3331,10 @@ Désarticulation du coude |
 90 |
 
 90 |
+
+|
+
+|
 
 |
 
@@ -3824,11 +3368,11 @@ Fractures (Voir ci-après) |
 
 |
 
-Consolidation avec déformation et atrophie musculaire
+Consolidation avec déformation et atrophie musculaire.
 
-Le cal vicieux rentre dans ce cas
+Le cal vicieux rentre dans ce cas.
 
-|
+En cas de gêne fonctionnelle consécutive à un raccourcissement prononcé, le taux d'invalidité pourra atteindre 30 à 40 % |
 
 10 à 30 |
 
@@ -3843,6 +3387,16 @@ Le cal vicieux rentre dans ce cas
 5 à 10 |
 
 1) Le raccourcissement présente ici rarement par lui-même un inconvénient fonctionnel. Il n'en entraîne que s'il s'est prononcé au point de gêner le fonctionnement des muscles par rapprochement de leurs insertions. Dans les cas extrêmes, le taux d'invalidité peut atteindre 30 et 40 % |
+
+|
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -3921,6 +3475,10 @@ Amputation du bras |
 90 |
 
 90 |
+
+|
+
+|
 
 |
 
@@ -4052,11 +3610,11 @@ Portant principalement sur la propulsion et l'abduction |
 
 10 |
 
-Cas graves avec angle de mobilité conservé défavorable |
+Amputation majeure du secteur fonctionnel |
 
-|
+35 |
 
-|
+35 |
 
 |
 
@@ -4080,7 +3638,7 @@ Ankyloses complètes |
 
 |
 
-Avec mobilité de l'omoplate |
+Avec mobilité de la scapula |
 
 35 |
 
@@ -4094,7 +3652,7 @@ Avec mobilité de l'omoplate |
 
 30 |
 
-Avec fixation de l'omoplate |
+Avec fixation de la scapula : |
 
 |
 
@@ -4122,7 +3680,7 @@ Sans complication |
 
 40 |
 
-Avec complication de périarthrite douloureuse |
+Avec complication de périarthrite douloureuse (cf. infra) |
 
 |
 
@@ -4136,7 +3694,9 @@ Avec complication de périarthrite douloureuse |
 
 60 |
 
-Périarthrite chronique douloureuse |
+Périarthrite chronique douloureuse
+
+Terme générique regroupant plusieurs affections |
 
 |
 
@@ -4206,7 +3766,7 @@ Consécutives à des résections larges ou à des pertes de substance osseuse é
 
 40 |
 
-Luxation |
+Luxation - Instabilité |
 
 |
 
@@ -4234,11 +3794,11 @@ Luxation récidivante de l'épaule |
 
 30 |
 
-Luxation non réduite de l'épaule |
+Luxation invétérée de l'épaule |
 
-|
+65 |
 
-|
+65 |
 
 65 |
 
@@ -4312,9 +3872,7 @@ Amputation d'un membre supérieur et d'un membre inférieur quelle que soit leur
 
 (1) A moins que la dissociation de l'infirmité en ses différents éléments donne un pourcentage plus élevé par suite, soit du mode de décompte du taux de la pension, soit du droit au bénéfice des dispositions des articles L. 125-11 et L. 132-1 à L. 132-3.
 
-Il est à noter que pour une amputation d'un membre supérieur et d'un membre inférieur le décompte en infirmités multiples donne pour le barème de 1919 un taux supérieur à 90 %.
-
-|
+Il est à noter que pour une amputation d'un membre supérieur et d'un membre inférieur le décompte en infirmités multiples donne un taux supérieur à 90 %. |
 
 CLAVICULE |
 
@@ -4358,7 +3916,7 @@ a. Fracture : |
 
 |
 
-– bien consolidée, cal plus ou moins saillant, raideurs de l'épaule |
+- bien consolidée, cal plus ou moins saillant, raideurs de l'épaule |
 
 5 à 15 |
 
@@ -4372,7 +3930,7 @@ a. Fracture : |
 
 |
 
-– consolidée dans des conditions normales, avec atrophie musculaire légère et sans périarthrite scapulo-humérale |
+- si complication de voisinage (cf. item correspondant) |
 
 |
 
@@ -4385,90 +3943,6 @@ a. Fracture : |
 |
 
 1 à 2 |
-
-– bien consolidée et compliquée de périarthrite |
-
-|
-
-|
-
-|
-
-10 à 20 |
-
-|
-
-5 à 10 |
-
-– consolidée par cal difforme avec compressions nerveuses (curabilité opératoire) |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-sinon voir titre Neuro-psychiatrie, Nerfs, cependant : |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-– avec simple fourmillement |
-
-|
-
-|
-
-|
-
-30 |
-
-|
-
-20 |
-
-– avec phénomènes douloureux, parésie localisée |
-
-|
-
-|
-
-|
-
-40 |
-
-|
-
-30 |
-
-– avec paralysie étendue |
-
-|
-
-|
-
-|
-
-60 |
-
-|
-
-50 |
 
 b. Fracture double : |
 
@@ -4484,7 +3958,7 @@ b. Fracture double : |
 
 |
 
-– avec consolidation normale |
+- avec consolidation normale, raideurs des épaules |
 
 10 à 30 |
 
@@ -4498,35 +3972,9 @@ b. Fracture double : |
 
 |
 
-– avec cals saillants, raideurs des épaules |
+c. Pseudarthrose
 
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-– avec complication de périarthrite |
-
-|
-
-|
-
-|
-
-30 à 50 |
-
-|
-
-|
-
-c. Pseudarthrose |
+Taux d'invalidité selon retentissement fonctionnel (cf. item correspondant) |
 
 |
 
@@ -4554,7 +4002,7 @@ d. Luxation non réduite : |
 
 |
 
-– externe |
+- acromio-claviculaire |
 
 0 à 5 |
 
@@ -4568,7 +4016,7 @@ d. Luxation non réduite : |
 
 |
 
-– interne |
+- interne |
 
 0 à 10 |
 
@@ -4582,7 +4030,7 @@ d. Luxation non réduite : |
 
 |
 
-Muscles |
+Muscles / tendons |
 
 |
 
@@ -4596,15 +4044,7 @@ Muscles |
 
 |
 
-a. Perte de substance musculaire, suivant qu'elle intéresse un ou plusieurs muscles, avec adhérences étendues à la peau ou aux plans profonds
-
-b. Rupture complète ou partielle d'un muscle
-
-c. Rupture complète ou partielle d'un tendon
-
-(Pour a, b, c, voir raideurs articulaires, ankyloses)
-
-d. Amyotrophie – voir Neuro-psychiatrie, Atrophies musculaires médullaires
+a. Perte de substance musculaire, suivant qu'elle intéresse un ou plusieurs muscles, avec adhérences étendues à la peau ou aux plans profonds |
 
 |
 
@@ -4618,9 +4058,7 @@ d. Amyotrophie – voir Neuro-psychiatrie, Atrophies musculaires médullaires
 
 |
 
-|
-
-Nerfs |
+b. Rupture complète ou partielle d'un muscle |
 
 |
 
@@ -4634,7 +4072,7 @@ Nerfs |
 
 |
 
-Voir ci-dessous, titre Neuro-psychiatrie, Membre supérieur |
+c. Rupture complète ou partielle d'un tendon |
 
 |
 
@@ -4648,7 +4086,7 @@ Voir ci-dessous, titre Neuro-psychiatrie, Membre supérieur |
 
 |
 
-Arthrites |
+(Pour a, b, c, voir raideurs articulaires, ankyloses) |
 
 |
 
@@ -4662,7 +4100,7 @@ Arthrites |
 
 |
 
-Arthrites chroniques consécutives soit à des plaies articulaires avec ou sans lésions osseuses, soit à des accidents rhumatismaux infectieux ou tuberculeux (voir régions intéressées, raideurs articulaires, ankyloses, amputations) |
+d. Amyotrophie - voir Neuro-psychiatrie, Atrophies musculaires médullaires |
 
 |
 
@@ -4673,76 +4111,28 @@ Arthrites chroniques consécutives soit à des plaies articulaires avec ou sans 
 |
 
 |
-
-|
-
-Luxations |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Raideurs articulaires consécutives par arthrite, périarthrite, ostéome, atrophie musculaire, irréduction ou irréductibilité (voir régions intéressés, raideurs articulaires, ankyloses, amyotrophie) |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Luxation non réduite d'une grande articulation |
-
-|
-
-|
-
-65 |
-
-|
-
-65 |
 
 |
 
 DÉSIGNATION DES INFIRMITÉS |
 
-POURCENTAGE
+POURCENTAGE d'invalidité |
 
-d'invalidité |
+POURCENTAGE prévu
 
-POURCENTAGE
+par les barèmes antérieurs |
 
-prévu par les barèmes antérieurs |
+p. 100 |
 
 1887 |
 
 1915 |
 
-|
-
 p. 100 |
 
 p. 100 |
 
-p. 100 |
-
-B. – MEMBRE INFÉRIEUR
-
-|
+B. - MEMBRE INFÉRIEUR |
 
 |
 
@@ -4758,9 +4148,7 @@ Les deux membres inférieurs sont considérés comme ayant une utilité fonction
 
 |
 
-ORTEILS
-
-|
+ORTEILS |
 
 |
 
@@ -4839,14 +4227,6 @@ b. En position rectiligne et favorable |
 |
 
 3 |
-
-En ce qui concerne les ankyloses en mauvaise position (hyperextension), lors d'orteils gênants et douloureux, l'ablation est tout indiquée et bénigne. |
-
-|
-
-|
-
-|
 
 Amputations et désarticulations |
 
@@ -4968,22 +4348,6 @@ Tous les orteils, suivant l'état des cicatrices |
 
 30 |
 
-Luxations |
-
-|
-
-|
-
-|
-
-Luxation non réduite du gros orteil accompagnée de cicatrices adhérentes et de raideur des autres orteils |
-
-|
-
-60 |
-
-|
-
 MÉTATARSE |
 
 |
@@ -5015,14 +4379,6 @@ Les deux premiers |
 65 |
 
 20 |
-
-Deux métatarsiens |
-
-|
-
-60 |
-
-|
 
 Les trois derniers métatarsiens |
 
@@ -5077,62 +4433,6 @@ c. Pied bot traumatique, avec déformation considérable et fixe ; immobilité d
 30 à 50 |
 
 |
-
-|
-
-Déformation par : |
-
-|
-
-|
-
-|
-
-a. Fracture ou luxation de l'astragale |
-
-|
-
-|
-
-15 à 20 |
-
-b. Fracture du calcanéum |
-
-|
-
-|
-
-5 à 30 |
-
-c. Fracture ou luxation du scaphoïde |
-
-|
-
-|
-
-20 à 30 |
-
-d. Fracture ou luxation des cunéiformes |
-
-|
-
-|
-
-15 à 25 |
-
-e. Fracture ou luxation du cuboïde et des métatarsiens |
-
-|
-
-|
-
-20 à 30 |
-
-Luxation non réduite des os du tarse lorsqu'elle détermine une gêne fonctionnelle importante |
-
-|
-
-60 |
 
 |
 
@@ -5208,14 +4508,6 @@ b. Mauvaise attitude par bascule du moignon avec marche sur l'extrémité du moi
 
 30 |
 
-c. Marche impossible sur le moignon |
-
-|
-
-80 |
-
-|
-
 Sous-astragalienne (Pirogoff, Ricard) : |
 
 |
@@ -5241,14 +4533,6 @@ PIED |
 |
 
 Articulation tibio-tarsienne |
-
-|
-
-|
-
-|
-
-Les mouvements de flexion et d'extension de l'articulation tibio-tarsienne ont une égale amplitude équivalente à 40° environ dans chaque sens autour de l'angle droit. |
 
 |
 
@@ -5288,9 +4572,9 @@ Rupture tendineuse |
 
 |
 
-La rupture du tendon d'Achille, dont la réparation se fait bien, dans un délai variable |
+La rupture du tendon d'Achille, opérée ou non, avec gêne fonctionnelle |
 
-|
+10 |
 
 |
 
@@ -5388,7 +4672,7 @@ Cals vicieux |
 
 |
 
-A. – Consécutifs à des fractures malléolaires |
+A. - Consécutifs à des fractures malléolaires |
 
 |
 
@@ -5428,7 +4712,7 @@ Plante du pied basculant et regardant en dehors, la marche et la station debout 
 
 40 à 50 |
 
-B. – Consécutifs à des fractures de la diaphyse |
+B. - Consécutifs à des fractures de la diaphyse |
 
 |
 
@@ -5460,7 +4744,7 @@ c. Consolidation angulaire, ou raccourcissement considérable, marche impossible
 
 50 |
 
-C. – Consécutifs à des fractures de l'extrémité supérieure |
+C. - Consécutifs à des fractures de l'extrémité supérieure |
 
 |
 
@@ -5468,7 +4752,7 @@ C. – Consécutifs à des fractures de l'extrémité supérieure |
 
 |
 
-Forts déviation angulaire, en avant ou latérale |
+Forte déviation angulaire, en avant ou latérale |
 
 30 à 50 |
 
@@ -5524,7 +4808,7 @@ Fractures |
 
 |
 
-a. Cal osseux ou fibreux court, bonne extension, flexion peu limitée |
+a. Bonne extension, flexion peu limitée |
 
 10 |
 
@@ -5532,7 +4816,7 @@ a. Cal osseux ou fibreux court, bonne extension, flexion peu limitée |
 
 10 |
 
-b. Cal fibreux long, extension active complète, mais faible, flexion peu limitée |
+b. Extension active complète, mais faible, flexion peu limitée |
 
 20 |
 
@@ -5540,21 +4824,13 @@ b. Cal fibreux long, extension active complète, mais faible, flexion peu limit�
 
 30 à 40 |
 
-c. Cal fibreux long, extension active presque nulle, atrophie notable de la cuisse |
+c. Extension active presque nulle, atrophie notable de la cuisse |
 
 40 |
 
 |
 
 40 à 50 |
-
-d. Pseudarthrose avec amyotrophie et conservation des mouvements |
-
-|
-
-|
-
-20 |
 
 Ablation de la rotule (Patellectomie) |
 
@@ -5580,7 +4856,7 @@ b. Combinée à des raideurs du genou (voir ci-dessous) |
 
 |
 
-Rupture tendineuse |
+Rupture tendineuse appareil extenseur |
 
 |
 
@@ -5588,7 +4864,7 @@ Rupture tendineuse |
 
 |
 
-La rupture du tendon rotulien, ou du ligament rotulien, étant presque toujours incomplète ne détermine qu'une gêne relative, mais certaine, qui peut être évaluée à |
+Gêne fonctionnelle évaluée selon la perte d'extension (voir ci-dessous) |
 
 |
 
@@ -5604,46 +4880,6 @@ GENOU |
 
 |
 
-L'amplitude en degrés des mouvements de flexion et d'extension du genou s'effectue : |
-
-|
-
-|
-
-|
-
-a. Pour la flexion : |
-
-|
-
-|
-
-|
-
-Depuis 180° (extension complète) jusqu'à 30° environ (flexion complète) |
-
-|
-
-|
-
-|
-
-b. Pour l'extension : |
-
-|
-
-|
-
-|
-
-Depuis 30° environ (flexion complète) jusqu'à 180° (extension complète) |
-
-|
-
-|
-
-|
-
 Cicatrices du creux poplité |
 
 |
@@ -5652,7 +4888,7 @@ Cicatrices du creux poplité |
 
 |
 
-Entravant l'extension complète ; extension limitée |
+Entravant l'extension complète ; perte de l'extension |
 
 |
 
@@ -5660,7 +4896,7 @@ Entravant l'extension complète ; extension limitée |
 
 |
 
-a. Entre 135° et 170° |
+a. Entre 10° et 40° |
 
 10 à 30 |
 
@@ -5668,7 +4904,7 @@ a. Entre 135° et 170° |
 
 |
 
-b. Entre 90° et 135° |
+b. Entre 40° et 90° |
 
 30 à 50 |
 
@@ -5676,7 +4912,7 @@ b. Entre 90° et 135° |
 
 |
 
-c. Jusqu'à 90° au moins |
+c. Au-delà |
 
 50 à 60 |
 
@@ -5700,7 +4936,7 @@ Raideurs articulaires |
 
 |
 
-a. Avec angle favorable de la verticale à 25° ou 45° |
+a. Suivant que la limitation de mobilité se situe dans le secteur utile ou en dehors |
 
 |
 
@@ -5708,27 +4944,7 @@ a. Avec angle favorable de la verticale à 25° ou 45° |
 
 10 à 20 |
 
-b. Avec angle défavorable |
-
-|
-
-|
-
-20 à 30 |
-
 Ankyloses complètes |
-
-|
-
-|
-
-|
-
-La position d'ankylose du genou est dite en extension de 180° à 135°.
-
-Elle est dite en flexion de 135° jusqu'à 30°.
-
-|
 
 |
 
@@ -5744,7 +4960,7 @@ a. Position favorable : |
 
 |
 
-En extension complète à 180° ou presque complète jusqu'à 135° |
+En extension complète ou quasi complète |
 
 35 |
 
@@ -5760,7 +4976,7 @@ b. Position défavorable : |
 
 |
 
-En flexion, c'est-à-dire à partir de 135° jusqu'à 30° |
+En flexion |
 
 60 |
 
@@ -5856,7 +5072,7 @@ b. Déterminant après ankylose en extension le genu varum, où la jambe s'incli
 
 50 |
 
-Luxation |
+Instabilité |
 
 |
 
@@ -5864,9 +5080,9 @@ Luxation |
 
 |
 
-Luxation non réduite du genou |
+Suivant laxité, trophicité musculaire, épanchement tolérance |
 
-|
+5 à 30 |
 
 65 |
 
@@ -5952,7 +5168,7 @@ b. Diaphyse : |
 
 |
 
-Raccourcissement de 1 à 4 centimètres, sans lésions articulaires ni atrophie musculaire |
+Raccourcissement de 1 à 4 centimètres, sans raideurs articulaires ni atrophie musculaire |
 
 5 à 10 |
 
@@ -5968,7 +5184,7 @@ Raccourcissement de 3 à 6 centimètres, avec atrophie musculaire moyenne, sans 
 
 20 à 40 |
 
-Raccourcissement de 3 à 6 centimètres, avec raideurs articulaires accusées |
+Raccourcissement de 3 à 6 centimètres, avec raideurs articulaires |
 
 30 |
 
@@ -5984,7 +5200,7 @@ Raccourcissement de 6 à 12 centimètres, avec atrophie musculaire moyenne, raid
 
 |
 
-Raccourcissement de 6 à 12 centimètres, avec déviation angulaire externe, atrophie musculaire très accusée et la flexion du genou ne dépassant pas 135° |
+Raccourcissement de 6 à 12 centimètres, avec déviation angulaire externe, atrophie musculaire marquée et retentissement sur la flexion du genou |
 
 60 |
 
@@ -6000,7 +5216,7 @@ c. Tiers supérieur, région trochantérienne et col : |
 
 |
 
-– raccourcissement constant et prononcé, limitation des mouvements de l'articulation coxo-fémorale, surtout dans l'abduction |
+- raccourcissement constant et prononcé, limitation des mouvements de l'articulation coxo-fémorale, surtout dans l'abduction |
 
 |
 
@@ -6008,7 +5224,7 @@ c. Tiers supérieur, région trochantérienne et col : |
 
 60 |
 
-– raccourcissement de plus de 10 centimètres, déviation angulaire externe, raideur de la hanche |
+- raccourcissement de plus de 10 centimètres, déviation angulaire externe, raideur de la hanche |
 
 60 à 65 |
 
@@ -6024,29 +5240,13 @@ Cal vicieux |
 
 |
 
-Consolidant en crosse une fracture sous-trochantérienne et accompagné de grand raccourcissement et de douleurs |
+Consolidant une fracture sous-trochantérienne et accompagné de grand raccourcissement et de douleurs |
 
 70 |
 
 |
 
 70 |
-
-Luxation |
-
-|
-
-|
-
-|
-
-Luxation non réduite de la hanche |
-
-|
-
-65 |
-
-|
 
 Pseudarthrose |
 
@@ -6102,29 +5302,15 @@ Fractures (Voir ci-après) |
 
 |
 
-Raideurs articulaires |
+Raideurs articulaires
+
+Suivant que la limitation de mobilité se situe dans le secteur utile ou non |
 
 15 à 30 |
 
 |
 
 |
-
-– lorsque la partie du mouvement conservé s'exécute suivant un angle favorable, soit un angle de flexion de 45 ° partant de la verticale |
-
-|
-
-|
-
-15 à 20 |
-
-– cas opposés |
-
-|
-
-|
-
-30 à 35 |
 
 Ankyloses complètes |
 
@@ -6134,7 +5320,7 @@ Ankyloses complètes |
 
 |
 
-a. En rectitude |
+a. En bonne position |
 
 75 |
 
@@ -6142,7 +5328,7 @@ a. En rectitude |
 
 40 à 50 |
 
-b. En mauvais attitude (flexion, adduction, abduction, rotation) |
+b. En attitude vicieuse (flexion, adduction, abduction, rotation) |
 
 85 |
 
@@ -6162,9 +5348,7 @@ c. Des deux hanches |
 
 (1) A moins que la dissociation de l'infirmité en ses différents éléments donne un pourcentage plus élevé par suite, soit du mode de décompte du taux de la pension, soit du droit au bénéfice des dispositions des articles L. 125-11 et L. 132-1 à L. 132-3.
 
-Il est à noter que pour une amputation d'un membre supérieur et d'un membre inférieur le décompte en infirmités multiples donne pour le barème 1919 un taux supérieur à 90 %.
-
-|
+Il est à noter que pour une amputation d'un membre supérieur et d'un membre inférieur le décompte en infirmités multiples donne un taux supérieur à 90 %. |
 
 Pseudarthroses |
 
@@ -6174,7 +5358,7 @@ Pseudarthroses |
 
 |
 
-Consécutive à de grandes pertes de substance osseuse |
+Consécutive à de grandes pertes de substance osseuse ; hanche ballante |
 
 70 |
 
@@ -6226,9 +5410,7 @@ Amputation des deux membres inférieurs |
 
 (1) A moins que la dissociation de l'infirmité en ses différents éléments donne un pourcentage plus élevé par suite, soit du mode de décompte du taux de la pension, soit du droit au bénéfice des dispositions des articles L. 125-11 et L. 132-1 à L. 132-3.
 
-Il est à noter que pour une amputation d'un membre supérieur et d'un membre inférieur le décompte en Infirmités multiples donne pour le barème 1919 un taux supérieur à 90 %.
-
-|
+Il est à noter que pour une amputation d'un membre supérieur et d'un membre inférieur le décompte en infirmités multiples donne un taux supérieur à 90 %. |
 
 Muscles |
 
@@ -6254,29 +5436,13 @@ b. Rupture complète ou partielle d'un muscle. |
 
 |
 
-c. Rupture complète ou partielle d'un tendon : |
+c. Rupture complète ou partielle d'un tendon (Achille, appareil extenseur) : |
 
 |
 
 |
 
 |
-
-– du tendon d'Achille, dont la réparation se fait bien dans un délai variable |
-
-|
-
-|
-
-10 |
-
-– du tendon rotulien ou du ligament rotulien, rupture presque toujours incomplète ne déterminant qu'une gêne relative mais certaine |
-
-|
-
-|
-
-10 |
 
 (Pour a, b, c, voir raideurs articulaires, ankyloses.) |
 
@@ -6326,41 +5492,9 @@ Arthrites chroniques consécutives soit à des plaies articulaires avec ou sans 
 
 |
 
-Luxations |
-
-|
-
-|
-
-|
-
-Raideurs articulaires consécutives par arthrite, périarthrite, atrophie musculaire, irréduction ou irréductibilité (voir régions intéressées, raideurs articulaires, ankyloses, amyotrophie). |
-
-|
-
-|
-
-|
-
-Luxation non réduite d'une grande articulation |
-
-|
-
-65 |
-
-|
-
 TITRE II
 
 VAISSEAUX |
-
-|
-
-|
-
-|
-
-|
 
 se reporter au titre Affections cardio-vasculaires, Vaisseaux |
 
@@ -6398,7 +5532,7 @@ TITRE III
 
 NEURO-PSYCHIATRIE |
 
-– 1 – NERFS PÉRIPHÉRIQUES |
+- 1 - NERFS PÉRIPHÉRIQUES |
 
 |
 
@@ -6424,9 +5558,7 @@ En cas de paralysie incomplète, parésie ou simple affaiblissement, comme en ca
 
 Au contraire, l'association de troubles névritiques, douleurs, raideurs, rétractions fibreuses, troubles trophiques, aggrave plus ou moins l'impotence et légitime une majoration du taux d'invalidité.
 
-La réaction causalgique, en particulier, plus souvent observée dans les blessures des nerfs médian et sciatique poplité externe, mais qui peut s'associer aux lésions de tous les autres nerfs, comporte à elle seule une invalidité très élevée, en raison des douleurs intolérables provoquées par la moindre excitation. Mais il faut savoir que les causalgies, ainsi du reste que la plupart des troubles névritiques, ont une tendance habituelle à la guérison spontanée en quelques mois ou en quelques années.
-
-|
+La réaction causalgique, en particulier, plus souvent observée dans les blessures des nerfs médian et sciatique poplité externe, mais qui peut s'associer aux lésions de tous les autres nerfs, comporte à elle seule une invalidité très élevée, en raison des douleurs intolérables provoquées par la moindre excitation. Mais il faut savoir que les causalgies, ainsi du reste que la plupart des troubles névritiques, ont une tendance habituelle à la guérison spontanée en quelques mois ou en quelques années. |
 
 |
 
@@ -7264,28 +6396,6 @@ Pour les reliquats divers, voir chapitres spéciaux.
 
 |
 
-Le rachis peut être atteint de lésions traumatiques patentes ou latentes.
-
-Les fractures et luxations latentes ne sont pas exceptionnelles bien que souvent la radiographie les révèle seule ; il y a lieu d'en tenir compte, car elles sont susceptibles d'entraîner soit une fragilité anormale qui doit empêcher d'exercer toute profession de force, soit une ankylose progressive qui peut être relativement tardive.
-
-Les lésions évidentes peuvent déterminer de simples déviations peu importantes. Elles ne prennent de l'importance que quand elles déterminent des douleurs névralgiques (d'origine généralement radiculaire) ou des immobilisations. Elles deviennent très importantes quand elles provoquent une compression de la moelle ou de la queue de cheval.
-
-|
-
-|
-
-|
-
-|
-
-Fractures et luxations latentes (voir note ci-dessus) [sans trouble aucun ou avec douleurs ou paralysie initiales et passagères] |
-
-10 à 30 |
-
-|
-
-10 à 20 |
-
 Déviation scoliotique ou cyphotique : |
 
 |
@@ -7294,7 +6404,7 @@ Déviation scoliotique ou cyphotique : |
 
 |
 
-Non douloureuse |
+- Non douloureuse |
 
 0 à 9 |
 
@@ -7302,7 +6412,7 @@ Non douloureuse |
 
 |
 
-Douloureuse : il existe dans presque tous les cas des signes objectifs, tantôt évidents, tantôt très discrets, qu'il importe de rechercher minutieusement comme signes d'authenticité de la douleur : modification des réflexes, troubles objectifs de la sensibilité, attitudes révélatrices, atrophies musculaires, discordances motrices, réactions électriques anormales, etc. : |
+- Douloureuse : il existe dans presque tous les cas des signes objectifs, tantôt évidents, tantôt très discrets, qu'il importe de rechercher minutieusement comme signes d'authenticité de la douleur : modification des réflexes, troubles objectifs de la sensibilité, attitudes révélatrices, atrophies musculaires, discordances motrices, réactions électriques anormales, etc. : |
 
 |
 
@@ -7326,7 +6436,7 @@ b. Douleurs à forme de névralgies radiculaires, douleurs violentes, intermitte
 
 |
 
-Immobilisation partielle de la tête et du tronc (avec ou sans déviation) : |
+Perte de mobilité du rachis cervical et thoraco-lombaire (avec ou sans déviation) : |
 
 |
 
@@ -7334,7 +6444,7 @@ Immobilisation partielle de la tête et du tronc (avec ou sans déviation) : |
 
 |
 
-Sans douleurs |
+- Sans douleurs |
 
 1 à 15 |
 
@@ -7342,7 +6452,7 @@ Sans douleurs |
 
 |
 
-Avec douleurs : |
+- Avec douleurs : |
 
 |
 
@@ -7366,7 +6476,7 @@ Douleurs névralgiques |
 
 |
 
-Immobilisation avec déviation très prononcée et en position très gênante |
+Raideur avec déviation très prononcée et en position très gênante |
 
 45 |
 
@@ -7382,35 +6492,25 @@ Ankylose étendue après traumatisme vertébral : |
 
 |
 
-Souvent tardive après période de méditation :
+D'apparition souvent tardive après un évènement traumatique mineur :
 
-"spondylites traumatiques", maladies de Kummel.
-
-|
-
-|
-
-|
-
-|
-
-"cyphoses traumatiques" (selon douleurs et gêne fonctionnelle) |
-
-20 à 50 |
+Maladie de Kümmel-Verneuil (ou ostéonécrose aseptique vertébrale, KD Kümmel Disease), cyphoses traumatiques selon douleurs et gêne fonctionnelle
 
 |
 
 20 à 50 |
 
-Paraplégie par traumatisme médullaire (évaluée avec les blessures de la moelle).
+|
 
-Notons que la paralysie par lésion de la queue de cheval est plus souvent curable.
+|
 
-Hémiplégie spinale (souvent légère) :
+Paraplégie par traumatisme médullaire
 
-Hémiplégie vraie (membre supérieur souvent plus atteint que l'inférieur) "évaluée avec les blessures de la moelle", (suivant côté et intensité).
+Hémiplégie
 
-Monoplégie d'un membre inférieur (Voir Encéphale)
+(voir titre III - 4 - Moelle).
+
+Monoplégie d'un membre inférieur (voir titre III - 9 - Encéphale)
 
 |
 
@@ -7428,14 +6528,6 @@ Monoplégie d'un membre inférieur (Voir Encéphale)
 
 |
 
-Des lésions non traumatiques peuvent être justiciables d'une indemnisation à la suite soit des fatigues du service, soit des traumatismes reçus qui auront pu jouer le simple rôle d'épine irritative ou créer un locus minoris resistentiae : il en est ainsi pour les maladies ankylosantes (rhumatisme, spondyloses), les localisations ostéo-myélitiques ou tuberculeuses au rachis, etc. |
-
-|
-
-|
-
-|
-
 Attitude vicieuse après affections longuement douloureuses (sciatique, etc.). [suivant persistance ou non des douleurs] |
 
 5 à 15 |
@@ -7444,7 +6536,7 @@ Attitude vicieuse après affections longuement douloureuses (sciatique, etc.). [
 
 |
 
-Rhumatisme vertébral : |
+Affection rhumatismale vertébrale (processus dégénératif ou inflammatoire ou infectieux) : |
 
 |
 
@@ -7452,7 +6544,7 @@ Rhumatisme vertébral : |
 
 |
 
-Immobilisation douloureuse de la région lombaire (lombarthrose) selon le degré d'immobilisation et de douleurs |
+Limitation fonctionnelle douloureuse de la région lombaire selon le degré de perte de mobilité et de douleurs |
 
 5 à 25 |
 
@@ -7460,7 +6552,7 @@ Immobilisation douloureuse de la région lombaire (lombarthrose) selon le degré
 
 |
 
-Immobilisation douloureuse de la région cervicale |
+Limitation fonctionnelle douloureuse de la région cervicale selon le degré de perte de mobilité et de douleurs |
 
 5 à 25 |
 
@@ -7476,7 +6568,7 @@ Avec douleurs à forme névralgique irradiées le long des membres supérieurs o
 
 |
 
-Spondylose rhizomélique (immobilisation du rachis, des hanches et des épaules) : l'immobilisation est limitée à la région lombaire, elle est modérément douloureuse, la mobilité des hanches n'est pas très réduite |
+Atteinte rhizomélique associée (raideur du rachis, des hanches et des épaules) : la raideur est limitée à la région lombaire, elle est modérément douloureuse, la mobilité des hanches n'est pas très réduite |
 
 20 à 30 |
 
@@ -7484,7 +6576,7 @@ Spondylose rhizomélique (immobilisation du rachis, des hanches et des épaules)
 
 |
 
-L'immobilisation porte sur toute la hauteur du rachis et sur les hanches (avec ou sans limitation de la mobilité des épaules) |
+La raideur porte sur toute la hauteur du rachis et sur les hanches (avec ou sans limitation de la mobilité des épaules) |
 
 30 à 80 |
 
@@ -7492,15 +6584,7 @@ L'immobilisation porte sur toute la hauteur du rachis et sur les hanches (avec o
 
 |
 
-Dans le premier cas, il peut y avoir lieu de retarder l'indemnisation définitive, car il ne s'agit souvent que d'un premier degré. |
-
-|
-
-|
-
-|
-
-Séquelles d'ostéo-arthrite vertébrale infectieuse (suivant déviation, immobilisation ou douleurs) |
+Séquelles d'ostéo-arthrite vertébrale infectieuse (suivant déviation, raideur ou douleurs) |
 
 15 à 35 |
 
@@ -7508,19 +6592,9 @@ Séquelles d'ostéo-arthrite vertébrale infectieuse (suivant déviation, immobi
 
 |
 
-Mal de Pott |
+Mal de Pott
 
-|
-
-|
-
-|
-
-Voir l'évaluation des tuberculoses osseuses et articulaires, suivant que les lésions sont ou non consolidées.
-
-Bien entendu, s'il y a paraplégie, l'indemnisation doit être celle des paraplégies médullaires complètes ou incomplètes. Si la paraplégie tient à une lésion située au-dessous de la première lombaire, il s'agit d'une paraplégie par lésion de la queue de cheval, généralement plus curable.
-
-|
+Voir l'évaluation des tuberculoses osseuses et articulaires, suivant que les lésions sont ou non évolutives. Bien entendu, s'il y a paraplégie, l'indemnisation doit être celle des paraplégies médullaires complètes ou incomplètes.
 
 |
 
@@ -7554,15 +6628,25 @@ Anomalies vertébrales sans complications |
 
 |
 
-Avec complications imputables au service : douleurs, paralysies, troubles vaso-moteurs ou trophiques (à évaluer suivant les cas).
-
-a. Comme les douleurs par traumatisme vertébral (à évaluer suivant les cas) ;
-
-b. Comme les paralysies des nerfs périphériques généralement incomplètes, parfois multiples (à évaluer suivant les cas) ;
-
-c. Comme les oblitérations veineuses partielles (à évaluer suivant les cas).
+Avec complications imputables au service : douleurs, paralysies, troubles vaso-moteurs ou trophiques (à évaluer suivant les cas et les titres correspondants).
 
 |
+
+|
+
+|
+
+|
+
+4° Cas particulier de la déviation scoliotique de la colonne vertébrale consécutive à une mutation majeure (amputation ou raccourcissement important du membre inférieur, désarticulation de l'épaule) |
+
+|
+
+|
+
+|
+
+A évaluer selon phénomène douloureux et gêne fonctionnelle (cf. 1° déviation scoliotique). |
 
 |
 
@@ -9850,7 +8934,7 @@ Syndromes parkinsoniens |
 
 |
 
-Il faut entendre par ce mot, non seulement la maladie de Parkinson ou paralysie agitante telle qu'on le concevait autrefois, mais aussi le syndrome parkinsonien d'origine encéphalitique dont les exemples sont si nombreux. C'est, à vrai dire, le syndrome post-encéphalitique en face duquel le médecin expert se trouvera le plus souvent, en raison de l'âge des militaires qui se présenteront devant lui. L'étude de ce syndrome postencéphalitique a amené un certain nombre d'auteurs à les différencier, au point de vue clinique, de la maladie de Parkinson véritable.
+Il faut entendre par ce mot, non seulement la maladie de Parkinson ou paralysie agitante telle qu'on le concevait autrefois, mais aussi le syndrome parkinsonien d'origine encéphalitique dont les exemples sont si nombreux. C'est, à vrai dire, le syndrome post-encéphalitique en face duquel le médecin expert se trouvera le plus souvent, en raison de l'âge des militaires qui se présenteront devant lui. L'étude de ce syndrome post-encéphalitique a amené un certain nombre d'auteurs à les différencier, au point de vue clinique, de la maladie de Parkinson véritable.
 
 Toutefois, au point de vue de l'expertise, il ne semble pas qu'il y ait intérêt à les différencier, car les grands symptômes entraînant des troubles fonctionnels importants sont communs aux deux syndromes.
 
@@ -9870,7 +8954,7 @@ Dans l'appréciation de la rigidité et du tremblement, il y aura lieu de tenir 
 
 Le syndrome parkinsonien peut se présenter sous des formes diverses et à des stades successifs de son évolution avec des taux d'invalidité différents.
 
-L'expert pourra apprécier ces invalidités suivant des modalités dont nous ne pouvons donner ici que quelques exemples :
+Ces invalidités seront appréciées selon des modalités dont nous ne pouvons donner ici que quelques exemples :
 
 |
 
@@ -10912,7 +9996,7 @@ L'eunuchisme est un syndrome génito-dystrophique tel que les malades prennent s
 
 |
 
-g. Ovaires. – Il y a également lieu d'envisager les syndromes résultant de perturbations ovariennes, d'autant plus que lors d'une expertise médicale le médecin est tenu d'établir le taux de l'invalidité même dans le cas où l'origine est congénitale ou constitutionnelle et n'a rien à voir avec un accident à indemniser. Il est bien entendu qu'il ne faut pas considérer parmi les syndromes de l'insuffisance ovarienne les manifestations habituelles vaso-motrices, sudorales trophiques et psychiques qui accompagnent souvent la ménopause physiologique même précoce. Ne seront donc envisagés que trois aspects des troubles ovariens : l'hyperovarie, l'hypoovarie et l'anovarie. |
+g. Ovaires. – Il y a également lieu d'envisager les syndromes résultant de perturbations ovariennes. Il est bien entendu qu'il ne faut pas considérer parmi les syndromes de l'insuffisance ovarienne les manifestations habituelles vaso-motrices, sudorales trophiques et psychiques qui accompagnent souvent la ménopause physiologique même précoce. Ne seront donc envisagés que trois aspects des troubles ovariens : l'hyperovarie, l'hypoovarie et l'anovarie. |
 
 |
 

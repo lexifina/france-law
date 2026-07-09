@@ -1,40 +1,46 @@
 # Article Annexe 2 (suite)
 
-– 14 – TROUBLES PSYCHIQUES DE GUERRE
+- 14 - TROUBLES PSYCHIQUES DE GUERRE
 
 (Voir également le guide-barème applicable aux infirmités et maladies contractées pendant l'internement ou la déportation).
 
-Chapitre Ier : Principes généraux de l'expertise psychiatrique
+Chapitre Ier - Principes généraux de l'expertise psychiatrique
 
-Section A Terminologie
+Section A - Terminologie
 
 Un certain nombre de notions seront proscrites en raison de leur absence de signification précise, de leur coloration moralisatrice, voire péjorative : par exemple, la dystonie neurovégétative, le pithiatisme, la sinistrose.
 
-Le recours à des entités nosologiques archaïques ou ayant un sens quasi injurieux dans le langage courant, telles que neurasthénie, psychasthénie, spasmophilie, hystérie, paranoïa, débilité ou folie intermittente, sera soigneusement évité. A cet égard, l'expert tiendra compte du fait que le sujet est détenteur du libellé de son diagnostic et que, notamment, il pourra être amené à montrer son carnet de soins à des tiers.
+Le recours à des entités nosologiques archaïques ou ayant un sens quasi injurieux dans le langage courant, telles que neurasthénie, psychasthénie, spasmophilie, hystérie, paranoïa, débilité ou folie intermittente, sera soigneusement évité. A cet égard, l'expert tiendra compte du fait que le sujet est détenteur du libellé de son infirmité et que, notamment, il pourra être amené à montrer son carnet de soins à des tiers.
 
-Aucune expertise ne se réduira à de simples données d'examen ni à des conclusions diagnostiques. Celles-ci devront s'appuyer sur une démarche logique, rigoureuse, claire, aisément compréhensible par tous.
+Aucune expertise ne se réduira à de simples données d'examen ni à des conclusions diagnostiques.
 
-Le dossier antérieur, les allégations de toutes origines feront l'objet d'une étude approfondie et critique. Ainsi, l'existence d'erreurs antérieures manifestes devra être signalée et rectifiée.
+Celles-ci devront s'appuyer sur une démarche logique, rigoureuse, claire, aisément compréhensible par tous.
 
-La classification internationale des maladies de l'Organisation Mondiale de la Santé, ci-après désignée par les initiales CIM, utilisée dans la partie analytique du barème doit être considérée par l'expert comme un outil de base ; il s'y reportera pour la conformité de ses conclusions diagnostiques. Le glossaire de cette CIM permet de définir sans ambiguïté l'ensemble de la terminologie sémiologique et syndromique.
+Le dossier antérieur, les allégations de toutes origines feront l'objet d'une étude approfondie et critique.
 
-Une des erreurs logiques le plus fréquemment rencontrée et qui est absolument inacceptable consiste à attribuer à un état antérieur des désordres psychiques qui ne sont pas entièrement expliqués par le service (fait survenu par le fait du service ou à l'occasion du service).
+Ainsi, l'existence d'erreurs antérieures manifestes devra être signalée et rectifiée.
+
+La classification internationale des maladies de l'Organisation Mondiale de la Santé, ci-après désignée par les initiales CIM, outil de documentation clinique, permettra à l'expert de s'y reporter pour la conformité de ses conclusions diagnostiques. Le glossaire de cette CIM permet de définir sans ambiguïté l'ensemble de la terminologie sémiologique et syndromique. L'expert pourra y associer d'autres outils de documentation en vigueur (Diagnostic and Statistical Manual of Mental Disorders DSM par exemple).
+
+Toutefois, le diagnostic étant insuffisant à lui seul pour rendre compte du retentissement de l'état de santé mentale dans la vie de tous les jours, l'expert devra procéder à une évaluation personnalisée de l'invalidité en résultant (cf. Indemnisation au chapitre II du présent titre).
+
+Une des erreurs logiques la plus fréquemment rencontrée et qui est absolument inacceptable consiste à attribuer à un état antérieur des désordres psychiques qui ne sont pas entièrement expliqués par le service (fait survenu par le fait du service ou à l'occasion du service).
 
 Il convient, quand cette situation se présente :
 
-– de décrire cet état, préciser en quoi il est pathologique et comment il a évolué ;
+- de décrire cet état, préciser en quoi il est pathologique et comment il a évolué ;
 
-– de démontrer le mode exact de relation avec le trouble présenté (aggravé ou nouveau) par un raisonnement pathogénique. Il est des cas (comme la névrose traumatique par exemple) où :
+- de démontrer le mode exact de relation avec le trouble présenté (aggravé ou nouveau) par un raisonnement pathogénique. Il est des cas (comme le stress post-traumatique par exemple) où :
 
-– il n'existe aucun état pathologique antérieur ;
+- il n'existe aucun état pathologique antérieur ;
 
-– une vulnérabilité préexistante n'a aucun rapport avec la survenue d'un syndrome psycho-traumatique ;
+- une vulnérabilité préexistante n'a aucun rapport avec la survenue d'un stress post traumatique ;
 
-– une vulnérabilité psychique a pu simplement assombrir le pronostic du syndrome, sans l'expliquer d'aucune manière.
+- une vulnérabilité psychique a pu simplement assombrir le pronostic du syndrome, sans l'expliquer d'aucune manière.
 
-La notion d'une causalité directe et déterminante avec le ou les faits de service suffit à établir l'imputabilité au service. La discussion doit s'appuyer sur une véritable argumentation. Ainsi, la négation de l'existence d'un trouble ne saurait uniquement reposer sur le caractère subjectif de l'expression des plaintes : de même, la négation d'un lien avec le service ne saurait se fonder seulement sur le délai écoulé jusqu'à l'apparition des troubles ou sur l'absence de documents médicaux contemporains des faits évoqués.
+La notion d'une relation de cause à effet directe et déterminante avec le ou les faits de service établit l'imputabilité médicale. La discussion doit s'appuyer sur une véritable argumentation. Ainsi, la négation de l'existence d'un trouble ne saurait uniquement reposer sur le caractère subjectif de l'expression des plaintes. De même, la négation d'un lien avec le service ne saurait se fonder seulement sur le délai écoulé jusqu'à l'apparition des troubles ou sur l'absence de documents médicaux contemporains des faits évoqués.
 
-Section B Classification des infirmités
+Section B - Classification des infirmités
 
 Il est précisé qu'en pratique, sous le terme de désordres psychiques, la CIM décrit des syndromes.
 
@@ -42,39 +48,13 @@ Par syndrome, il faut entendre l'ensemble des symptômes existant conjointement 
 
 Dans toute la mesure du possible, les symptômes seront groupés en syndromes car ils ne constituent pas chacun une infirmité distincte.
 
-Un sujet peut présenter plusieurs syndromes, car ceux-ci ne sont pas exclusifs : par exemple, un syndrome dépressif récurrent et un état de stress post-traumatique (névrose traumatique).
+Un sujet peut présenter plusieurs syndromes, car ceux-ci ne sont pas exclusifs : par exemple, un syndrome dépressif récurrent et un stress post-traumatique.
 
 Seront évités les amalgames hétéroclites tels que colopathie et dystonie neurovégétative, qui obscurcissent l'expertise et sont préjudiciables à une juste réparation.
 
-Section C Conditions d'examens du sujet en expertise
+Il existe un stress post-traumatique chez le militaire lorsqu'il y a un stress intense ou une répétition d'évènements traumatisants :
 
-Elles sont extrêmement importantes pour assurer la validité de l'évaluation clinique des conclusions et l'optimisation de la réparation : elles déterminent les attitudes des intéressés à l'égard de l'administration.
-
-L'accueil du postulant, les conditions matérielles de l'examen doivent faire l'objet d'une grande attention, permettant au sujet d'être considéré avec le respect dû à tout citoyen et non comme un être anonyme, objet d'une procédure de routine.
-
-L'attitude de l'expert doit être bienveillante, empreinte d'une certaine neutralité, et dépourvue de suspicion a priori. Il n'est pas de domaine médico-légal où l'expertise doive être plus strictement individualisée que dans celui de la discipline psychiatrique. Lors des examens médicaux, l'expert accomplit une tâche qui comporte indirectement une dimension thérapeutique.
-
-Un examen psychiatrique est nécessairement long (d'une durée qui ne saurait être inférieure à trois quarts d'heure). Il existe parfois plusieurs entretiens (deux à trois), sans compter les examens psychologiques souvent nécessaires et les examens paracliniques éventuels.
-
-Les témoignages des proches (famille, entourage) et/ou du médecin traitant seront éventuellement demandés par les moyens autorisés par la législation (y compris les enquêtes de notoriété).
-
-Il peut être utile d'indiquer à l'intéressé, sans pour autant lui lire les documents, le sens des conclusions, même si elles lui sont défavorables. Ceci permet d'éviter très souvent des griefs ultérieurs.
-
-Section D Conclusions
-
-En matière d'établissement de la preuve d'imputabilité par expertise psychiatrique, il n'est pas toujours possible en pratique de réunir les preuves classiques qui permettent d'affirmer sans ambages l'imputabilité (documents d'origine, fait unique de service immédiatement constaté, etc.).
-
-Dans les cas des névroses traumatiques de guerre, les difficultés pour l'établissement de la preuve peuvent résulter, d'une part, du fait que les sujets se confient parfois très difficilement à autrui, fût-il médecin, et, d'autre part, parce que le constat se fait avec des délais d'apparition assez souvent retardés. Il s'ensuit que l'expertise médicale peut accéder au rang d'élément parfois décisif de preuve, fondée sur la rigueur de l'argumentation.
-
-Par son métier, l'expert connaît les différents types d'enchaînement causal affirmables pour tel ou tel trouble. Il lui appartient de les expliciter clairement afin d'être compris de tous et de faire en sorte que ses conclusions soient étayées par une argumentation médicale qui en justifie les termes. Ainsi, les autorités seront à même d'apprécier si, de l'ensemble des éléments du dossier, se dégage une force probante suffisante pour former leur conviction et de décider, en motivant leur décision sur ce point, que la preuve d'imputabilité est établie.
-
-Chapitre II : Aspects cliniques
-
-Section A Psychosyndrome traumatique (névrose traumatique)
-
-La névrose traumatique de guerre (ou en relation avec des catastrophes naturelles ou tout autre événement exceptionnel à caractère individuel ou collectif) doit être considérée comme une blessure et ne peut être assimilée, d'un point de vue structural, aux états névrotiques au sens classique attribué à ce terme en psychopathologie, qui constituent des maladies. Cependant, dans le cadre du travail d'expertise, elle constitue, comme les séquelles psychiques d'accidents ou de catastrophes du temps de paix, un état pathologique consécutif à des situations particulières (non exclusif de la possible association avec une agression physique contemporaine) ou lié à l'exposition à des situations de danger, soit exceptionnelles, soit apparemment banales, mais comportant toujours des répercussions psychologiques pour le sujet.
-
-Le mode évolutif de la névrose traumatique (principalement de guerre) et le rapport très particulier que le malade y entretient avec ses symptômes ont deux conséquences qui méritent d'être soulignées : le point de départ des troubles est rarement mentionné dans les documents médico-administratifs contemporains de l'événement traumatisant ; le moment où il fait l'objet de plaintes de la part du patient peut être très tardif, après des années d'évolution.
+Le mode évolutif et le rapport très particulier que le militaire entretient avec ses symptômes ont deux conséquences qui méritent d'être soulignées : le point de départ des troubles est rarement mentionné dans les documents médico-administratifs contemporains de(s) l'événement(s) traumatisant(s) ; le moment où le stress post-traumatique fait l'objet de plaintes de la part du patient peut être très tardif, après des années d'évolution.
 
 L'événement traumatisant a, quand il s'est produit, souvent été minimisé par l'intéressé ou est passé inaperçu. C'est seulement dans les cas, peu nombreux, où il a été immédiatement suivi d'un épisode de bouleversement psychologique que l'on en trouve parfois une mention explicite dans les divers documents établis à cette occasion.
 
@@ -82,253 +62,73 @@ Du reste, le délai qui sépare l'événement traumatisant de l'apparition du sy
 
 De surcroît, les sujets ne viennent se confier au médecin que lorsque les troubles entraînent pour eux une gêne ou une souffrance majeure, c'est-à-dire, dans de nombreux cas, longtemps après leur installation.
 
-La gêne fonctionnelle résulte de la conjonction de l'importance relative des symptômes spécifiques (syndrome de répétition) avec d'autres manifestations éventuelles (cf. " troubles névrotiques " et " troubles de la personnalité " ).
+Il est utile de rappeler que des signes du stress ou des perturbations de comportements ne sont pas tous des signes de stress post-traumatique. Il ne suffit pas d'avoir été exposé à un évènement susceptible de déclencher un tel syndrome pour qu'il y ait un syndrome de stress post-traumatique.
 
-Taux d'invalidité à évaluer en fonction de l'intensité du syndrome de répétition, notamment des troubles du sommeil et de la gêne provoquée par les autres symptômes : cf. CHAPITRE III.
+Section C - Conditions d'examens du sujet en expertise
 
-Section B Troubles névrotiques
+Elles sont extrêmement importantes pour assurer la validité de l'évaluation clinique des conclusions et l'optimisation de la réparation : elles déterminent les attitudes des intéressés à l'égard de l'administration.
 
-Ces troubles sont constitués de syndromes généralisés (états anxieux) ou plus limités (symptômes de conversion) dont l'apparition ou l'aggravation peut être contemporaine ou succéder à des faits de service ayant ou non entraîné, à l'époque où ils sont survenus, des manifestations psychiques aiguës (du type des troubles psychiques de guerre, par exemple).
+L'accueil du postulant, les conditions matérielles de l'examen doivent faire l'objet d'une grande attention, permettant au sujet d'être considéré avec le respect dû à tout citoyen et non comme un être anonyme, objet d'une procédure de routine.
 
-D'évolution généralement labile, ils persistent et se fixent durablement dans certains cas. Ils représentent un handicap (conversion) ou une réduction des capacités adaptatives (phobies) pour le sujet, dont l'existence se réorganise d'une façon plus ou moins intense, proportionnellement à la gène fonctionnelle.
+L'attitude de l'expert doit être bienveillante, empreinte d'une certaine neutralité, et dépourvue de suspicion a priori. Il n'est pas de domaine médico-légal où l'expertise doive être plus strictement individualisée que dans celui de la discipline psychiatrique. Lors des examens médicaux, l'expert accomplit une tâche qui comporte indirectement une dimension thérapeutique.
 
-1. Troubles phobiques :
+Un examen psychiatrique est nécessairement long (d'une durée qui ne saurait être inférieure à trois quarts d'heure). Il existe parfois plusieurs entretiens (deux à trois), sans compter les examens psychologiques souvent nécessaires.
 
-– agoraphobie avec ou sans crises d'angoisse paroxystique ;
+Il peut être utile d'indiquer à l'intéressé, sans pour autant lui lire les documents, le sens des conclusions, même si elles lui sont défavorables. Ceci permet d'éviter très souvent des griefs ultérieurs.
 
-– phobies sociales ;
+Section D - Conclusions
 
-– phobies spécifiques (isolées).
+En matière d'établissement de la preuve d'imputabilité par expertise psychiatrique, il n'est pas toujours possible en pratique de réunir les preuves classiques qui permettent d'affirmer sans ambages l'imputabilité (documents d'origine, fait unique de service immédiatement constaté, etc.).
 
-Taux d'invalidité : cf. CHAPITRE III.
+Dans les cas particuliers des stress post-traumatiques chez le militaire exposé à un stress intense ou une répétition d'évènements traumatisants, les difficultés pour l'établissement de la preuve peuvent résulter, d'une part, du fait que les sujets se confient parfois très difficilement à autrui, fût-il médecin, et, d'autre part, parce que le constat se fait avec des délais d'apparition assez souvent retardés. Il s'ensuit que l'expertise médicale peut accéder au rang d'élément parfois décisif de preuve, fondée sur la rigueur de l'argumentation.
 
-2. Troubles anxieux :
+Par son métier, l'expert connaît les différents types d'enchaînement causal affirmables pour tel ou tel trouble. Il lui appartient de les expliciter clairement afin d'être compris de tous et de faire en sorte que ses conclusions soient étayées par une argumentation médicale qui en justifie les termes.
 
-– crises d'angoisse paroxystique ;
+Ainsi, l'autorité administrative sera à même d'apprécier si, de l'ensemble des éléments du dossier, se dégage une force probante suffisante pour former sa conviction et de décider, en motivant sa décision sur ce point, que la preuve d'imputabilité est établie.
 
-– troubles anxieux généralisés ;
+Chapitre II - Indemnisation
 
-– troubles anxio-dépressifs (sans prédominance marquée, ni troubles anxieux ou dépressif associés).
+L'évaluation de l'invalidité passe par une description clinique complète faisant ressortir le trouble fonctionnel et l'atteinte à l'état général qui justifient le pourcentage attribué.
 
-Taux d'invalidité : cf. CHAPITRE III.
+A la différence de la législation des accidents du travail, où le pourcentage d'invalidité mesure une diminution ou une perte de capacité de travail, celle des pensions militaires d'invalidité et des victimes de guerre traduit, de manière chiffrée, une diminution de l'intégrité physique et générale de l'individu.
 
-3. Troubles obsessionnels :
+En matière de troubles psychiques, le pourcentage d'invalidité s'appuie sur des critères simples et généraux décrits ci-après permettant d'évaluer la gêne dans le fonctionnement habituel de l'intéressé.
 
-Ces troubles peuvent être caractérisés par la prévalence de manifestations soit obsessionnelles, soit compulsives, soit associées, dans un tableau correspondant à la classique névrose obsessionnelle.
+De l'ensemble de ces critères, il est proposé une échelle de six niveaux de gravité croissante dans le retentissement de l'ensemble du fonctionnement habituel de l'intéressé. Ces niveaux définissent des fourchettes de taux d'invalidité permettant une évaluation personnalisée de l'invalidité et laissant toute latitude pour proposer des taux intermédiaires :
 
-Taux d'invalidité : cf. CHAPITRE III.
+- absence de trouble ou gêne décelable : 0 % ;
 
-4. Manifestations de conversion :
+- niveau léger : troubles avec gêne décelable, activité de la vie courante peu perturbée : 20 % ;
 
-La non-existence d'une lésion anatomique ou fonctionnelle susceptible d'être entièrement à la source des symptômes est indispensable à l'affirmation du diagnostic de conversion. Toutefois, il convient de rappeler que si certains antécédents (traumatismes physiques ou blessures) ou affections médicales (arthrose) ne rendent pas compte des symptômes dans une corrélation anatomo-clinique, ils peuvent par contre constituer des points d'appel à partir desquels se développent les manifestations de conversion suivantes :
+- niveau modéré : troubles plus importants, activité de la vie courante limitée, perturbée : 40 % ;
 
-– troubles mnésiques ( " amnésie " , état stuporeux) ;
+- niveau intense : troubles envahissants, activité de la vie courante sensiblement modifiée, perte de capacité pour certaines activités : 60 % ;
 
-– troubles sensitifs et sensoriels (anesthésies, cécité, surdité) ;
+- niveau très intense : troubles très envahissants, restriction franche des activités de la vie courante : 80 % ;
 
-– troubles majeurs (paralysies, contractures) ;
+- perte totale de toute capacité existentielle propre, nécessitant une assistance de la société : 100 %.
 
-– autres symptômes de conversion.
+Les intervalles de 20 % offrent en effet toute liberté pour proposer des pourcentages intermédiaires, dans la mesure où tel cas particulier se situerait entre deux niveaux, compte tenu de l'hétérogénéité des éléments qui sont compris dans le terme d'intégrité psychique.
 
-Taux d'invalidité : cf. CHAPITRE III.
+Ils comprennent :
 
-5. Hypocondrie névrotique :
+- 1. La souffrance psychique : appréciée à partir de l'importance des troubles, de leur intensité et de leur richesse symptomatique. Cette souffrance est éprouvée consciemment ou non par le sujet et/ou perçue par l'entourage ;
 
-Taux d'invalidité à évaluer en fonction de l'intensité et de la fixité de la plainte : cf. CHAPITRE III.
+- 2. La répétition : elle s'exprime, au sens psychopathologique, par des troubles au long cours ou rémittents ;
 
-Section C Troubles de la personnalité
+- 3. La perte relative de la capacité relationnelle et le rétrécissement de la liberté existentielle : ce troisième critère, consécutif dans une certaine mesure aux précédents, concerne le mode de relation à autrui et le degré d'inadéquation des conduites aux situations ;
 
-Des événements à caractère traumatique, l'exposition à des situations prolongées pénibles, mais aussi des atteintes à l'intégrité corporelle (maladies, séquelles diverses de blessures, amputations, parfois présence de corps étrangers métalliques – balles, éclats d'obus) sont susceptibles d'entraîner des modifications durables de la personnalité sans tableaux névrotique ni psychotique apparents. Ces manifestations expriment alors une rupture avec le style d'existence antérieure, quelle que soit la forme qu'il ait pu présenter. De telles manifestations se font le plus souvent dans le sens d'une restriction, d'une réduction des capacités du sujet qui, au sein d'un vécu presque toujours douloureux, concourent à l'accentuation progressive de son inadaptation sociale.
+- 4. La capacité de contrôle des affects et des actes ;
 
-L'examen de la personnalité retiendra alors principalement :
+- 5. Le degré de tolérance à l'angoisse et à la peur ;
 
-– des attitudes régressives et de dépendance affective ;
+- 6. La capacité à tenir compte de l'expérience acquise et à faire preuve de maitrise de soi ;
 
-– une humeur de tonalité dépressive plus ou moins permanente ;
+- 7. Les possibilités de créativité, d'orientation personnelle et de projet.
 
-– une répétition des situations d'échec, avec succession d'événements pénibles constituant les étapes d'un processus de désocialisation ;
+Les thérapeutiques - médicament et autre soin - pris par le postulant à pension participent également à l'évaluation.
 
-L'éventualité d'un psychosyndrome chronique, lié à diverses affections organiques, essentiellement cérébrales, sera envisagée en l'absence de critères de démence. Des investigations neuro-psychologiques permettront la mise en évidence d'anomalies parfois non décelables par la clinique.
-
-Taux d'invalidité : cf. CHAPITRE III.
-
-Section D Etats schizophréniques et délires non schizophréniques au long cours
-
-Les affections indemnisables étant supposées séquellaires et fixées, elles sont le plus souvent représentées par des tableaux cliniques issus du groupe des psychoses chroniques (schizophrénies dans leurs aspects classiques ou hallucinatoires). Toutefois, on ne peut plus actuellement retenir l'évolution continue d'un seul tenant comme un critère absolu de diagnostic pour ces états.
-
-Les thérapeutiques bio-psycho-sociales ont fragmenté les évolutions qui peuvent s'observer :
-
-– sur un mode discontinu, avec des manifestations épisodiques de phases processuelles ou moments féconds (dont l'expression clinique est celle d'un état psychotique aigu), entre lesquels la production délirante ou hallucinatoire est très réduite, voire absente ;
-
-– sur un mode hétérogène, avec alternance ou succession dans le temps chez un malade de différents tableaux symptomatiques d'une affection (épisodes catatoniques chez un schizophrène paranoïde, par exemple) ou passage par des formes différentes d'états psychotiques chroniques (par exemple, évolution d'un état paranoïde vers un tableau cicatriciel plus structuré à prédominance interprétative et à thème de persécution prévalent ou inversement, désagrégation d'un délire systématisé dont la formulation devient floue et décousue) ;
-
-– sur un mode périodique, dans certaines formes individualisées sous l'appellation de troubles schizo-affectifs ou schizophrénie à forme dysthymique.
-
-On les classera comme suit au point de vue de leur évaluation fonctionnelle :
-
-– a) psychoses avec conversation de l'activité sociale ;
-
-– b) psychoses entravant manifestement le fonctionnement intellectuel et l'activité, soit par l'évidence des troubles, soit par leur retentissement sur la sociabilité du malade.
-
-La continuité du traitement, tant chimiothérapique que psychothérapique (individuelle, institutionnelle ou sociale), est évidemment l'un des facteurs qui entrent en jeu dans les modalités évolutives. Elle est toutefois d'appréciation délicate et l'expert devra tenir compte :
-
-– du fait que, souvent, l'irrégularité, voire l'absence de traitement ne sont pas liées à une simple négligence de la part du malade mais sont inscrites dans sa symptomatologie même (par exemple, non reconnaissance du caractère morbide des troubles, réticence pathologique, réinterprétation délirante de la thérapeutique dans des thèmes de persécution ou d'empoisonnement) ;
-
-– de l'évolution générale des psychoses chroniques, qui demeure fréquemment péjorative, même sous l'effet d'une thérapeutique correctement conduite et suivie ;
-
-– des effets secondaires marqués de certains traitements (syndrome d'asthénie et de passivité des neuroleptiques d'action prolongée, notamment).
-
-c) psychoses nécessitant un séjour en milieu hospitalier de longue durée, quelles qu'en soient les modalités (hospitalisation libre ou par placement).
-
-L'élément fondamental d'appréciation demeure donc la gêne fonctionnelle et sociale plus que le simple constat d'une symptomatologie productive. Un syndrome hallucinatoire enkysté, une idée délirante tenace mais isolée peuvent être moins handicapants qu'un état d'apragmatisme chez un patient psychotique n'exprimant plus de propos délirants manifestes.
-
-1. Schizophrénies :
-
-– paranoïde ;
-
-– hébéphrénique ;
-
-– catatonique ;
-
-– simple.
-
-Taux d'invalidité : cf. CHAPITRE III.
-
-2. troubles schizo-affectifs :
-
-– maniaque ;
-
-– dépressif ;
-
-– mixte.
-
-Taux d'invalidité : cf. CHAPITRE III.
-
-3. Délires non schizophréniques :
-
-– délire systématisé chronique (paranoïaque ou sensitif) ;
-
-– psychose hallucinatoire chronique ;
-
-– paraplégies.
-
-Taux d'invalidité : cf. CHAPITRE III.
-
-Section E Etats psychotiques aigus
-
-Ces états sont ou transitoires et résolutifs, ou inaugureront une évolution au long cours. Seule cette dernière peut faire l'objet d'une indemnisation.
-
-1° Confusion mentale (quelle qu'en soit l'étiopathogénie).
-
-Evolution vers :
-
-– un état délirant à partir de la persistance d'idées postoniriques (cf. états schizophréniques et états délirants non schizophréniques au long cours) ;
-
-– affaiblissement intellectuel (cf. états démentiels ci-après).
-
-2° Psychoses délirantes aiguës (quelle qu'en soit l'étiopathogénie).
-
-Dans les cas de rechutes fréquentes ou d'évolution défavorable, se reporter à " Etats schizophréniques et états délirants non schizophréniques au long cours " .
-
-Section F Troubles de l'humeur
-
-Un épisode isolé résolutif n'est pas indemnisable.
-
-Si l'évolution devient périodique, on rentre alors dans le cadre des troubles bipolaires périodiques : se reporter à " Dépression ou manie récurrentes " ci-dessous. Si elle s'effectue vers des manifestations thymiques ou délirantes au long cours, se reporter à " Etats schizophréniques et états délirants non schizophréniques au long cours " ci-dessus.
-
-Enfin, certaines manifestations pathologiques de l'humeur, notamment dépressives, sont intégrées dans des troubles de la personnalité et seront donc mieux évaluées à partir de cette rubrique (cf. troubles de la personnalité).
-
-Les troubles de l'humeur comprennent différents aspects :
-
-– 1. Episode (ou état) maniaque ;
-
-– 2. Episode (ou état) dépressif ;
-
-– 3. Etat mixte ;
-
-– 4. Troubles bipolaires périodiques : dépression ou manie récurrentes.
-
-Bien qu'en principe ils ne s'accompagnent pas d'altération durable de la personnalité pendant les phases intercritiques, les troubles périodiques de l'humeur peuvent engendrer une gêne fonctionnelle en raison de l'intensité et/ou de la fréquence des accès, de la résistance éventuelle aux thérapeutiques (dont certaines peuvent être contre-indiquées), enfin de l'évolution à long terme qui parfois peut se faire vers des manifestations thymiques et/ou délirantes au long cours,
-
-Taux d'invalidité : cf. CHAPITRE III.
-
-Section G Etats démentiels
-
-Les troubles observés résultent d'une agression physique directe ou indirecte du cerveau.
-
-La symptomatologie comprend une atteinte globale des fonctions cognitives, principalement de la mémoire, du langage et du jugement. Les altérations du contrôle émotionnel et le retentissement social sont manifestes. Le diagnostic différentiel avec d'autres tableaux, comme une confusion mentale traînante ou une dépression du sujet âgé, doit être effectué soigneusement. Des investigations complémentaires, notamment psychométriques, sont très souvent indispensables, surtout au début de l'affection, où le diagnostic peut être particulièrement difficile.
-
-L'appréciation de l'imputabilité s'effectue en fonction des circonstances étiologiques (traumatismes crâniens, intoxications, infections, misères physiologiques, états de dénutrition prolongés) survenus du fait ou à l'occasion du service.
-
-Taux d'invalidité : cf. CHAPITRE III.
-
-Section H Arriérations mentales
-
-Le quotient intellectuel sera évalué à la fois par des épreuves verbales et non verbales. L'expert mentionnera explicitement la ou les techniques utilisées (qu'il aura choisies et/ou pondérées éventuellement en fonction du contexte culturel).
-
-Les différents niveaux d'arriération sont définis comme suit :
-
-– 1. Arriération légère (Q.I. – 50 à 69) ;
-
-– 2. Arriération modérée (Q.I. – 35 à 49) ;
-
-– 3. Arriération sévère (Q.I. – 20 à 34) ;
-
-– 4. Arriération profonde (Q.I. inférieur à 20).
-
-Taux d'invalidité : cf. CHAPITRE III.
-
-Chapitre III : Indemnisation
-
-L'attribution des pourcentages d'invalidité en matière de troubles psychiques présente d'importantes difficultés de mesure. En général, il est possible de quantifier (par des échelles à intervalles ou ordinales relativement rigoureuses) à un degré d'invalidité dans le domaine somatobiologique proprement dit où l'expert s'appuie sur la notion d'intégrité physique (anatomique, physiologique et fonctionnelle).
-
-A la différence de la législation des accidents du travail, où le pourcentage d'invalidité mesure une diminution ou une perte de capacité de travail, celle des pensions militaires d'invalidité et des victimes de guerre traduit, de manière chiffrée, une diminution de l'intégrité physique et générale de l'individu reposant sur une description de la symptomatologie. Une quantification dans le domaine psychopathologique présente des difficultés très spécifiques par rapport aux disciplines chirurgicales ou médicales.
-
-En matière de troubles psychiques, ces pourcentages seront utilisés comme un code. Les éléments de celui-ci constituent une échelle nominale, dont les différents termes reçoivent à la fois une définition précise et explicite, s'appuyant sur des critères simples et généraux définissant le niveau d'altération du fonctionnement existentiel.
-
-Dans cette échelle, en pratique expertale, on peut distinguer six niveaux de troubles de fonctionnement décelables, qui seront évalués comme suit :
-
-– absence de troubles décelables : 0 p. 100 ;
-
-– troubles légers : 20 p. 100 ;
-
-– troubles modérés : 40 p. 100 ;
-
-– troubles intenses : 60 p. 100 ;
-
-– troubles très intenses : 80 p. 100 ;
-
-– destruction psychique totale avec perte de toute capacité existentielle propre, nécessitant une assistance de la société : 100 p. 100.
-
-Une telle définition par critères permet d'indiquer aux experts et à l'administration les conditions minimales requises pour étayer les propositions concernant le taux d'invalidité, ceci permet d'éviter les estimations superficielles et constitue une référence commune à tous les experts ainsi qu'une base d'argumentation suffisamment transparente en cas de désaccord.
-
-Les critères développés ci-dessous correspondent à des situations assez typiques et moyennes reflétant la démarche clinique qui est surtout globalisante et ne procède jamais par des estimations à 5 p. 100 près, mais par niveau de 20 p. 100 sur l'échelle nominale. Ils offrent toute liberté à l'expert pour proposer des pourcentages intermédiaires, dans la mesure où tel cas particulier se situerait entre deux niveaux. L'expert pourra ainsi étayer son avis de manière rigoureuse. Il est précisé que ces pourcentages ne sont pas des repères sur une échelle analogique, étant donné :
-
-– l'hétérogénéité des éléments qui sont compris dans le terme d'intégrité psychique ;
-
-– le fait qu'une évaluation clinique relève d'un jugement et non d'une mesure physique.
-
-En fait, il s'agit de nombres indicatifs du degré de souffrance existentielle. Dans ce sens, un taux de 30 p. 100 ne signifie pas la moitié de 60 p. 100. Ce code particulier correspond à la nécessité d'un instrument d'évaluation utilisable à la fois par l'expert et l'administrateur.
-
-En pratique expertale, les critères constitutifs de l'évaluation de l'invalidité comprendront :
-
-– 1. La souffrance psychique : l'expert l'appréciera à partir de l'importance des troubles, de leur intensité et de leur richesse symptomatique. Cette souffrance est éprouvée consciemment ou non par le sujet et/ou perçue par l'entourage ;
-
-– 2. La répétition : elle s'exprime, au sens psychopathologique, par des troubles au long cours ou rémittents ;
-
-– 3. La perte relative de la capacité relationnelle et le rétrécissement de la liberté existentielle : ce troisième critère, consécutif dans une certaine mesure aux précédents, concerne le mode de relation à autrui et le degré d'inadéquation des conduites aux situations.
-
-Doivent être pris en compte également des critères positifs tels que :
-
-– la capacité de contrôle des affects et des actes ;
-
-– le degré de tolérance à l'angoisse et à la peur ;
-
-– l'aptitude à différer les satisfactions et à tenir compte de l'expérience acquise ;
-
-– les possibilités de créativité, d'orientation personnelle et de projet.
-
-Ces critères sont indépendants de toute spécificité nosographique (nosographie : classification méthodique des maladies). Chacun peut faire l'objet d'une évaluation assez précise, voire d'une vérifiabilité ou d'une prédictivité. C'est la raison pour laquelle les pourcentages d'invalidité sont mentionnés indépendamment des descriptions cliniques.
+Les critères d'évaluation sont indépendants de toute spécificité nosographique (nosographie : classification méthodique des maladies). C'est la raison pour laquelle les pourcentages d'invalidité sont mentionnés indépendamment des descriptions cliniques.
 
 En cas de pluralité de troubles psychiques imputables, il sera procédé à une évaluation globale du taux d'invalidité du sujet. Le libellé correspondant regroupera la description des différents syndromes et/ou symptômes constitutifs de l'affection ainsi définie.
 
@@ -5422,7 +5222,7 @@ TITRE IX
 
 BASSIN |
 
-Luxation irréduite du pubis, ou relâchement étendu de la symphyse pubienne |
+Luxation ou diastasis persistant de la symphyse pubienne |
 
 20 à 40 |
 
@@ -5474,7 +5274,7 @@ COU
 
 |
 
-Déviation d'origine vertébrale. (Voir titre III, Colonne vertébrale). |
+Déviation d'origine vertébrale. (Voir titre III, - 3 - COLONNE VERTÉBRALE). |
 
 |
 
@@ -5490,7 +5290,7 @@ Déviation (torticolis, inflexion antérieure) par rétraction musculaire ou cic
 
 20 à 30 |
 
-Inflexion antérieure où le menton est en contact ou presque avec le sternum |
+Inflexion antérieure majeure [le menton est en contact ou presque avec le sternum] |
 
 40 à 60 |
 
@@ -5582,7 +5382,7 @@ OSTÉOMYÉLITE CHRONIQUE
 
 |
 
-a. Fistule persistante unique ou multiple, rebelle à des interventions répétées, avec os volumineux et irrégulier |
+a. Fistule persistante unique ou multiple, résistante à des interventions répétées, avec os volumineux et irrégulier |
 
 20 à 30 |
 
@@ -5590,7 +5390,7 @@ a. Fistule persistante unique ou multiple, rebelle à des interventions répét�
 
 10 à 20 |
 
-b. Cicatrisation, mais persistance d'un os volumineux, irrégulier, douloureux par places |
+b. Cicatrisation, mais persistance d'un os volumineux, irrégulier, douloureux |
 
 5 à 10 |
 
