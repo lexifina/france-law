@@ -6,7 +6,7 @@ Déchets d'extraction inertes :
 
 - les déchets ne sont susceptibles de subir aucune désintégration ou dissolution significative, ni aucune autre modification significative, de nature à produire des effets néfastes sur l'environnement ou la santé humaine ;
 
-- les déchets présentent une teneur maximale en soufre sous forme de sulfure de 0, 1 %, ou les déchets présentent une teneur maximale en soufre sous forme de sulfure de 1 % et le ratio de neutralisation, défini comme le rapport du potentiel de neutralisation au potentiel de génération d'acide et déterminé au moyen d'un essai statique prEN 15875, est supérieur à 3 ;
+- les déchets présentent une teneur maximale en soufre sous forme de sulfure de 0, 1 %, ou les déchets présentent une teneur maximale en soufre sous forme de sulfure de 1 % et le ratio de neutralisation, défini comme le rapport du potentiel de neutralisation au potentiel de génération d'acide et déterminé au moyen d'un essai statique EN 15875 ou de toute autre méthode permettant l'obtention de résultats d'une qualité équivalente, est supérieur à 3 ;
 
 - les déchets ne présentent aucun risque d'autocombustion et ne sont pas inflammables ;
 
