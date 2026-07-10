@@ -12,7 +12,7 @@ Histoire-géographie
 
 LVA et LVB (enveloppe globalisée) (a) (b)
 
-Education physique et sportive
+Éducation physique et sportive
 
 Enseignement scientifique (c)
 
@@ -34,15 +34,13 @@ ENSEIGNEMENTS DE SPÉCIALITÉ : 3 au choix |
 
 Arts (d)
 
-Biologie-écologie (e)
-
-Education physique, pratiques et culture sportives (f)
+Éducation physique, pratiques et culture sportives (e)
 
 Histoire-géographie, géopolitique et sciences politiques
 
 Humanités, littérature et philosophie
 
-Langues, littératures et cultures étrangères et régionales (g*)
+Langues, littératures et cultures étrangères et régionales (f)
 
 Littérature et LCA
 
@@ -52,13 +50,11 @@ Numérique et sciences informatiques
 
 Physique-chimie
 
-Sciences de la vie et de la Terre
+Sciences de la vie et de la Terre ou Biologie-écologie (g)
 
 Sciences de l'ingénieur
 
-Sciences économiques et sociales
-
-|
+Sciences économiques et sociales |
 
 4 heures
 
@@ -82,15 +78,11 @@ Sciences économiques et sociales
 
 4 heures
 
-4 heures
-
-4 heures
-
-|
+4 heures |
 
 Accompagnement personnalisé (h)
 
-Accompagnement au choix de l'orientation (i)
+Accompagnement au choix de l'orientation (h)
 
 Heures de vie de classe |
 
@@ -110,15 +102,15 @@ Langue des signes française |
 
 3 heures |
 
-LCA : latin (j) |
+LCA : latin (i) |
 
 3 heures |
 
-LCA : grec (j) |
+LCA : grec (i) |
 
 3 heures |
 
-Education physique et sportive |
+Éducation physique et sportive (e) |
 
 3 heures |
 
@@ -126,15 +118,15 @@ Arts (d) |
 
 3 heures |
 
-Hippologie et équitation (e) |
+Hippologie et équitation (g) |
 
 3 heures |
 
-Agronomie-Economie-Territoires (e) |
+Agronomie-Economie-Territoires (g) |
 
 3 heures |
 
-Pratiques sociales et culturelles (e) |
+Pratiques sociales et culturelles (g) |
 
 3 heures |
 
@@ -146,19 +138,17 @@ Pratiques sociales et culturelles (e) |
 
 (d) Au choix parmi : arts plastiques ou cinéma-audiovisuel ou danse ou histoire des arts ou musique ou théâtre. Les arts du cirque ne peuvent être choisis qu'en enseignement de spécialité. Les élèves ont la possibilité de cumuler en enseignement de spécialité et en enseignement optionnel deux enseignements relevant d'un même domaine artistique ou non.
 
-(e) Enseignement assuré uniquement dans les lycées d'enseignement général et technologique agricole.
+(e) L'enseignement de spécialité Education physique, pratiques et culture sportives et l'enseignement optionnel Education physique et sportive ne peuvent pas être choisis simultanément.
 
-(f) Pour les élèves ne choisissant pas en première l'enseignement optionnel " Education physique et sportive ".
+(f) Langue suivie en LVA ou LVB ou LVC.
 
-(g) Langue suivie en LVA ou LVB ou LVC.
+(g) Enseignement assuré exclusivement dans les lycées d'enseignement général et technologique agricole.
 
 (h) Volume horaire déterminé selon les besoins des élèves.
 
 (i) 54 heures, à titre indicatif, selon les besoins des élèves et les modalités de l'accompagnement à l'orientation mises en place dans l'établissement.
 
-(j) Les enseignements optionnels de LCA latin et grec peuvent être choisis en plus de l'enseignement optionnel suivi par ailleurs.
-
-|
+(j) Les enseignements optionnels de LCA latin et grec peuvent être choisis en plus de l'enseignement optionnel suivi par ailleurs. |
 
 2. Classe de terminale
 
@@ -170,7 +160,7 @@ Histoire -géographie
 
 LVA et LVB (enveloppe globalisée) (a) (b)
 
-Education physique et sportive
+Éducation physique et sportive
 
 Enseignement scientifique
 
@@ -192,15 +182,13 @@ ENSEIGNEMENTS DE SPÉCIALITÉ : 2 au choix (parmi ceux déjà choisis en premiè
 
 Arts (c)
 
-Biologie-écologie (d)
-
-Education physique, pratiques et culture sportives (e)
+Éducation physique, pratiques et culture sportives (d)
 
 Histoire-géographie, géopolitique et sciences politiques
 
 Humanités, littérature et philosophie
 
-Langues, littératures et cultures étrangères et régionales (f)
+Langues, littératures et cultures étrangères et régionales (e)
 
 Littérature et LCA
 
@@ -210,13 +198,11 @@ Numérique et sciences informatiques
 
 Physique-chimie
 
-Sciences de la vie et de la Terre
+Sciences de la vie et de la Terre ou Biologie-écologie (f)
 
 Sciences de l'ingénieur (g)
 
-Sciences économiques et sociales
-
-|
+Sciences économiques et sociales |
 
 6 heures
 
@@ -240,11 +226,7 @@ Sciences économiques et sociales
 
 6 heures
 
-6 heures
-
-6 heures
-
-|
+6 heures |
 
 Accompagnement personnalisé (h)
 
@@ -292,7 +274,7 @@ LCA : grec (l) |
 
 3 heures |
 
-Education physique et sportive |
+Éducation physique et sportive (d) |
 
 3 heures |
 
@@ -300,15 +282,15 @@ Arts (c) |
 
 3 heures |
 
-Hippologie et équitation (d) |
+Hippologie et équitation (f) |
 
 3 heures |
 
-Agronomie-Economie-Territoires (d) |
+Agronomie-Économie-Territoires (f) |
 
 3 heures |
 
-Pratiques sociales et culturelles (d) |
+Pratiques sociales et culturelles (f) |
 
 3 heures |
 
@@ -318,26 +300,24 @@ Pratiques sociales et culturelles (d) |
 
 (c) Au choix parmi : arts plastiques ou cinéma-audiovisuel ou danse ou histoire des arts ou musique ou théâtre. Les arts du cirque ne peuvent être choisis qu'en enseignement de spécialité. Les élèves ont la possibilité de cumuler en enseignement de spécialité et en enseignement optionnel, deux enseignements relevant d'un même domaine artistique ou non.
 
-(d) Enseignement assuré uniquement dans les lycées d'enseignement général et technologique agricole.
+(d) L'enseignement de spécialité Education physique, pratiques et culture sportives et l'enseignement optionnel Education physique et sportive ne peuvent pas être choisis simultanément.
 
-(e) Pour les élèves ne choisissant pas en terminale l'enseignement optionnel " Education physique et sportive ".
+(e) Langue suivie en LVA ou LVB ou LVC.
 
-(f) Langue suivie en LVA ou LVB ou LVC.
+(f) Enseignement assuré exclusivement dans les lycées d'enseignement général et technologique agricole.
 
-(g) Cet enseignement est complété de 2 h de sciences physiques.
+(g) Cet enseignement est complété de 2 heures de sciences physiques.
 
 (h) Horaire déterminé selon les besoins des élèves.
 
 (i) 54 heures, à titre indicatif, selon les besoins des élèves et les modalités de l'accompagnement à l'orientation mises en place dans l'établissement.
 
-(j) Pour les élèves ne choisissant pas en terminale la spécialité "Mathématiques".
+(j) Pour les élèves ne choisissant pas en terminale l'enseignement de spécialité Mathématiques.
 
-(k) Pour les élèves choisissant en terminale la spécialité "Mathématiques".
+(k) Pour les élèves choisissant en terminale l'enseignement de spécialité Mathématiques.
 
-(l) Les enseignements optionnels de LCA latin et grec peuvent être choisis en plus des enseignements optionnels suivis par ailleurs.
-
-|
+(l) Les enseignements optionnels de LCA latin et grec peuvent être choisis en plus des enseignements optionnels suivis par ailleurs. |
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 3 janvier 2023 (NOR : MENE2235832A), ces dispositions entrent en vigueur à compter de la session 2025 du baccalauréat général. Se reporter aux modalités d'application prévues à l'article 4 dudit arrêté.
+Conformément à l'article 4 de l'arrêté du 19 juin 2026 (NOR : MENE2614763A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur à compter de la rentrée scolaire 2026 pour l'année de première et à compter la rentrée scolaire 2027 pour l'année de terminale du baccalauréat général.
