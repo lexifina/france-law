@@ -24,7 +24,7 @@ UNITÉS, ORGANISMES ET EMPLOIS OUVRANT DROIT À LA PRIME DE COMPÉTENCES SPÉCIF
 
 - 1er régiment du train parachutiste ;
 
-- centre de formation initiale des militaires du rang de la 11e brigade parachutiste - 6e régiment de parachutistes d'infanterie de marine ;
+- 11e régiment parachutiste d'instruction et d'entrainement ;
 
 - état-major du commandement des actions spéciales terre ;
 
@@ -44,7 +44,7 @@ UNITÉS, ORGANISMES ET EMPLOIS OUVRANT DROIT À LA PRIME DE COMPÉTENCES SPÉCIF
 
 - centre parachutiste d'instruction spécialisé ;
 
-- 14e régiment d'infanterie et de soutien logistique parachutiste ;
+- 14e régiment d'infanterie et de logistique parachutiste ;
 
 - 3e régiment du matériel ;
 
@@ -68,8 +68,10 @@ UNITÉS, ORGANISMES ET EMPLOIS OUVRANT DROIT À LA PRIME DE COMPÉTENCES SPÉCIF
 
 - 2e régiment de hussards ;
 
-- 6e bataillon d'infanterie de marine.
-
 2° Postes désignés sur proposition du directeur des ressources humaines de l'armée de terre exigeant la mise en œuvre de la compétence spécifique de combattant parachutiste.
 
 3° Unités et postes ouvrant droit à la prime de compétences spécifiques de parachutiste spécialisé mentionnés à l'annexe 8 au présent arrêté.
+
+NOTA :
+
+Conformément à l’article 2 de l’arrêté du 3 juillet 2026 (NOR : ARMH2618151A), ces dispositions, dans leur rédaction résultant dudit arrêté, s’appliquent aux rémunérations versées à compter du mois de juillet 2026.

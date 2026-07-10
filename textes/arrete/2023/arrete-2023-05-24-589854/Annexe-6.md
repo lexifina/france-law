@@ -4,8 +4,6 @@ ANNEXE 6
 
 UNITÉS, ORGANISMES ET EMPLOIS OUVRANT DROIT À LA PRIME DE COMPÉTENCES SPÉCIFIQUES DE COMBATTANT TERRESTRE
 
-- 151e régiment d'infanterie ;
-
 - 152e régiment d'infanterie ;
 
 - 1er régiment de tirailleurs ;
@@ -120,7 +118,7 @@ UNITÉS, ORGANISMES ET EMPLOIS OUVRANT DROIT À LA PRIME DE COMPÉTENCES SPÉCIF
 
 - état-major de la 11e brigade parachutiste ;
 
-- 6e régiment de parachutistes d'infanterie de marine ;
+- 11e régiment parachutiste d'instruction et d'entrainement ;
 
 - 1er régiment de chasseurs parachutistes ;
 
@@ -148,13 +146,7 @@ UNITÉS, ORGANISMES ET EMPLOIS OUVRANT DROIT À LA PRIME DE COMPÉTENCES SPÉCIF
 
 - régiment d'infanterie de marine du Pacifique - Polynésie française ;
 
-- 6e bataillon d'infanterie de marine ;
-
-- 43e bataillon d'infanterie de marine ;
-
 - 5e régiment de cuirassiers - Emirats arabes unis ;
-
-- poste de commandement de la force logistique ;
 
 - 516e régiment du train ;
 
@@ -162,19 +154,15 @@ UNITÉS, ORGANISMES ET EMPLOIS OUVRANT DROIT À LA PRIME DE COMPÉTENCES SPÉCIF
 
 - 121e régiment du train ;
 
-- 135e régiment du train ;
-
 - 515e régiment du train ;
 
 - 503e régiment du train ;
 
 - régiment médical ;
 
-- 14e régiment d'infanterie et de soutien logistique parachutiste ;
+- 14e régiment d'infanterie et de logistique parachutiste ;
 
 - 519e régiment du train ;
-
-- 1er régiment du matériel ;
 
 - 2e régiment du matériel ;
 
@@ -198,9 +186,9 @@ UNITÉS, ORGANISMES ET EMPLOIS OUVRANT DROIT À LA PRIME DE COMPÉTENCES SPÉCIF
 
 - 41e régiment de transmissions ;
 
-- 18e régiment de transmissions ;
+- 18e régiment d'instruction des transmissions ;
 
-- 28e groupe géographique ;
+- 28e régiment d'artillerie géographique ;
 
 - 44e régiment de transmissions ;
 
@@ -212,15 +200,15 @@ UNITÉS, ORGANISMES ET EMPLOIS OUVRANT DROIT À LA PRIME DE COMPÉTENCES SPÉCIF
 
 - 61e régiment d'artillerie ;
 
-- 51e régiment d'infanterie - Centre d'appui et de préparation au combat interarmes (CAPCIA) ;
+- 51e régiment d'infanterie
 
-- 1er bataillon de chasseurs à pied - Centre d'entraînement au combat (CENTAC) ;
+- 1er bataillon de chasseurs à pied ;
 
-- 1er régiment de choc - Centre national d'entraînement commando (CNEC) ;
+- 1er régiment de choc ;
 
 - 1er régiment de chasseurs d'Afrique ;
 
-- 94e régiment d'infanterie - Centre d'entraînement aux actions en zone urbaine (CENZUB) ;
+- 94e régiment d'infanterie ;
 
 - centre du renseignement Terre ;
 
@@ -234,13 +222,13 @@ UNITÉS, ORGANISMES ET EMPLOIS OUVRANT DROIT À LA PRIME DE COMPÉTENCES SPÉCIF
 
 - 3e régiment d'hélicoptères de combat ;
 
-- 9e régiment de soutien aéromobiles ;
+- 9e régiment de soutien aéromobile ;
 
 - les postes n'ouvrant pas droit à la prime de compétences spécifiques de parachutiste spécialisé au sein du 4e régiment d'hélicoptères des forces spéciales ;
 
-- 3e régiment d'artillerie - Centre d'entraînement et de contrôle des postes de commandement (CECPC) ;
+- Centre d'entraînement et de contrôle des postes de commandement (CECPC) ;
 
-- état-major de la brigade d'appui numérique et cyberdéfense ;
+- état-major de la brigade d'appui numérique et cyber ;
 
 - état-major de la brigade de renseignement et du cyber-électronique ;
 
@@ -252,8 +240,50 @@ UNITÉS, ORGANISMES ET EMPLOIS OUVRANT DROIT À LA PRIME DE COMPÉTENCES SPÉCIF
 
 - état-major de la brigade de maintenance ;
 
-- régiment de cyberdéfense.
+- régiment de cyberdéfense ;
+
+- 24e régiment d'infanterie ;
+
+- commandement de la force et des opérations terrestres ;
+
+- 1er corps d'armée ;
+
+- détachement national français du corps européen ;
+
+- commandement de l'appui terrestre numérique et cyber ;
+
+- commandement des actions dans la profondeur et du renseignement ;
+
+- établissement géographique interarmées ;
+
+- commandement de l'appui et de la logistique de théâtre ;
+
+- commandement des actions spéciales terre ;
+
+- commandement de l'entrainement au combat interarmes ;
+
+- école des troupes aéroportées ;
+
+- école des drones ;
+
+- 25e régiment du génie de l'air ;
+
+- autorité de maintenance des matériels terrestres en outre-mer et à l'étranger - Réunion ;
+
+- autorité de maintenance des matériels terrestres en outre-mer et à l'étranger - Polynésie ;
+
+- autorité de maintenance des matériels terrestres en outre-mer et à l'étranger - Nouvelle-Calédonie ;
+
+- autorité de maintenance des matériels terrestres en outre-mer et à l'étranger - Guyane ;
+
+- autorité de maintenance des matériels terrestres en outre-mer et à l'étranger - Djibouti ;
+
+- autorité de maintenance des matériels terrestres en outre-mer et à l'étranger - Martinique ;
+
+- 17e régiment d'artillerie ;
+
+- camp de La Courtine.
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 7 juin 2024 (NOR : ARMH2415574A), les dispositions du a du 3° de l'article 1er dudit arrêté s'appliquent aux rémunérations versées à compter du mois de juin 2024.
+Conformément à l’article 2 de l’arrêté du 3 juillet 2026 (NOR : ARMH2618151A), ces dispositions, dans leur rédaction résultant dudit arrêté, s’appliquent aux rémunérations versées à compter du mois de juillet 2026.

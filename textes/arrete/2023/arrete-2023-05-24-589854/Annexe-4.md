@@ -40,8 +40,6 @@ Postes désignés sur proposition du directeur ou le chef du service gestionnair
 
 - 1er régiment de parachutistes d'infanterie de marine ;
 
-- 6e bataillon d'infanterie de marine (BIMa) - Gabon ;
-
 - 5e régiment de cuirassiers - Emirats Arabes Unis ;
 
 - 5e régiment de dragons ;
@@ -119,3 +117,7 @@ Postes désignés sur proposition du directeur ou le chef du service gestionnair
 - commandement des éléments français au Sénégal ;
 
 - autres unités interarmées.
+
+NOTA :
+
+Conformément à l’article 2 de l’arrêté du 3 juillet 2026 (NOR : ARMH2618151A), ces dispositions, dans leur rédaction résultant dudit arrêté, s’appliquent aux rémunérations versées à compter du mois de juillet 2026.

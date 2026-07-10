@@ -126,7 +126,7 @@ b) Armée de l'air et de l'espace :
 
 c) Armée de terre :
 
-- Centre national d'entrainement commando ;
+- 1er régiment de choc ;
 
 - centre d'instruction des réservistes parachutistes ;
 
@@ -195,3 +195,7 @@ e) Autres organismes, unités et emplois :
 - services des districts du territoire des Terres Australes et Antarctiques Françaises ;
 
 - autres postes de plongeur hyperbariste, de plongeur subaquatique et de plongeur d'appui.
+
+NOTA :
+
+Conformément à l’article 2 de l’arrêté du 3 juillet 2026 (NOR : ARMH2618151A), ces dispositions, dans leur rédaction résultant dudit arrêté, s’appliquent aux rémunérations versées à compter du mois de juillet 2026.

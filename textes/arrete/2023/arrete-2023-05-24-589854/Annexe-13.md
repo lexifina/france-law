@@ -44,8 +44,6 @@ Postes exigeant la mise en œuvre de la compétence spécifique d'électronicien
 
 - 43e bataillon d'infanterie de marine (BIMa) - Détachement de l'aviation légère de l'armée de terre des forces françaises stationnées en Côte d'Ivoire ;
 
-- école militaire préparatoire technique (EMPT).
-
 2° Unités de l'armée de l'air et de l'espace :
 
 - escadrons des systèmes d'information et de communications aéronautiques ;
@@ -272,4 +270,4 @@ Relevant du pôle opérationnel sécurité et administration :
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 19 décembre 2025 (NOR : ARMH2536001A), ces dispositions, dans leur rédaction issue de l'article 1er de l'arrêté précité, entrent en vigueur le 1er janvier 2026.
+Conformément à l’article 2 de l’arrêté du 3 juillet 2026 (NOR : ARMH2618151A), ces dispositions, dans leur rédaction résultant dudit arrêté, s’appliquent aux rémunérations versées à compter du mois de juillet 2026.

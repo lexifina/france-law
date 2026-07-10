@@ -34,7 +34,7 @@ II. - Postes désignés sur proposition du directeur ou du chef du service gesti
 
 - régiment médical ;
 
-- 1er régiment de choc - centre national d'entrainement commando ;
+- 1er régiment de choc ;
 
 - 13e régiment de dragons parachutistes ;
 
@@ -69,3 +69,7 @@ II. - Postes désignés sur proposition du directeur ou du chef du service gesti
 - centres de montagne et d'aguerrissement.
 
 III. - Autres postes désignés sur proposition du directeur ou du chef du service gestionnaire concerné exigeant la mise en œuvre de la compétence spécifique de haute montagne.
+
+NOTA :
+
+Conformément à l’article 2 de l’arrêté du 3 juillet 2026 (NOR : ARMH2618151A), ces dispositions, dans leur rédaction résultant dudit arrêté, s’appliquent aux rémunérations versées à compter du mois de juillet 2026.

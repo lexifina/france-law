@@ -62,8 +62,6 @@ Postes exigeant la mise en œuvre et la maintenance des aéronefs ou la certific
 
 - 5e régiment interarmes d'outre-mer (RIAOM) - Détachement de l'aviation légère de l'armée de terre (DETALAT) des forces françaises stationnées à Djibouti ;
 
-- 43e bataillon d'infanterie de marine (BIMa) - Détachement de l'aviation légère de l'armée de terre (DETALAT) des forces françaises stationnées en Côte d'Ivoire ;
-
 - écoles militaires de Bourges.
 
 2° Unités de la marine nationale :
@@ -256,4 +254,4 @@ f) Bureau enquête accident pour la sécurité de l'aéronautique d'Etat (BEA-E)
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 19 décembre 2025 (NOR : ARMH2536001A), ces dispositions, dans leur rédaction issue de l'article 1er de l'arrêté précité, entrent en vigueur le 1er janvier 2026.
+Conformément à l’article 2 de l’arrêté du 3 juillet 2026 (NOR : ARMH2618151A), ces dispositions, dans leur rédaction résultant dudit arrêté, s’appliquent aux rémunérations versées à compter du mois de juillet 2026.
