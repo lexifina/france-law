@@ -50,7 +50,7 @@ Le matériel :
 
 Le candidat réalise une épreuve de démonstration technique composée des deux exercices figurant dans le tableau suivant.
 
-L'organisme en charge de l'organisation du test d'exigence préalable informe le candidat de l'ordre de réalisation. Il dispose de cinq minutes d'échauffement spécifique avant chaque mouvement. Les six répétitions de chacun des deux mouvements sont successives. Aucun temps d'arrêt n'est autorisé.
+L'organisme en charge de l'organisation du test d'exigence préalable informe le candidat de l'ordre de réalisation. Il dispose de cinq minutes d'échauffement spécifique avant chaque mouvement. Les six répétitions de chacun des deux mouvements sont successives. Aucun temps d'arrêt n'est autorisé. Deux répétitions supplémentaires maximum pour chacun des deux mouvements sont autorisées pour valider les six répétitions.
 
 Le poids du corps est déterminé en fonction de la pesée réalisée le jour du test.
 
@@ -112,4 +112,8 @@ Le cours peut être délivré à partir d'une vidéo pré-enregistrée.
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible au lien suivant :
 
-https://www.legifrance.gouv.fr/download/pdf?id=n5SLrBjIMj3967HQK52oKvGZcN9oZszuSVmgK41lk6c=
+https://www.legifrance.gouv.fr/download/pdf?id=RRqXE1cXo5EUJkajwmIRhfK88lNSC-q-NZWqUPb-UFY=
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 22 juin 2026 (NOR : SPOV2616799A), par dérogation aux dispositions du premier alinéa du II des articles A. 421-1 et A. 422-2 du présent code, les mandats des représentants désignés par le Conseil social du mouvement sportif au titre de l'arrêté précité seront renouvelés en même temps que les mandats des autres membres des conférences.
