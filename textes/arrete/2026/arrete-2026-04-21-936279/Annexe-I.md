@@ -1,9 +1,5 @@
 # Article Annexe I
 
-ANNEXES
-
-ANNEXE I
-
 RÉPARTITION DES POSTES OFFERTS POUR LE DES D'ORTHOPÉDIE DENTO-FACIALE ET POUR LE DES DE MÉDECINE BUCCO-DENTAIRE AU CONCOURS NATIONAL D'INTERNAT EN ODONTOLOGIE AU TITRE DE L'ANNÉE UNIVERSITAIRE 2026-2027
 
 Interrégions et CHU |
@@ -52,13 +48,13 @@ Sud-Ouest |
 
 5 |
 
-8 |
+9 |
 
 Bordeaux |
 
 2 |
 
-4 |
+5 |
 
 Toulouse |
 
@@ -154,13 +150,13 @@ Sud |
 
 7 |
 
-12 |
+11 |
 
 Marseille |
 
 3 |
 
-6 |
+5 |
 
 Montpellier |
 
