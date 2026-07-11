@@ -4,7 +4,7 @@ RÉPARTITION DES POSTES OFFERTS POUR LE DES D'ORTHOPÉDIE DENTO-FACIALE ET POUR 
 
 Interrégions et CHU |
 
-Médecine bucco-dentaire |
+Médecine Bucco-dentaire |
 
 Orthopédie dento-faciale |
 
@@ -12,13 +12,13 @@ Nord-Est |
 
 0 |
 
-2 |
+3 |
 
 Nancy |
 
 0 |
 
-2 |
+3 |
 
 Sud-Ouest |
 
@@ -90,21 +90,15 @@ Sud |
 
 0 |
 
-3 |
-
-Marseille |
-
-0 |
-
 2 |
 
 Montpellier |
 
 0 |
 
-1 |
+2 |
 
-Total |
+TOTAL |
 
 2 |
 
