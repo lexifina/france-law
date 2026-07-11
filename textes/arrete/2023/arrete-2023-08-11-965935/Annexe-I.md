@@ -6,11 +6,11 @@ Diplôme et année de formation |
 
 Base de calcul : forfait journalier |
 
-Certificat d'aptitude professionnelle-1re année |
+Certificat d'aptitude professionnelle - 1re année |
 
 10 euros par jour. |
 
-Certificat d'aptitude professionnelle-2e année |
+Certificat d'aptitude professionnelle - 2e année |
 
 15 euros par jour |
 
@@ -22,15 +22,15 @@ Certificat d'aptitude professionnelle en trois ans |
 
 15 euros par jour pour les deux dernières années |
 
-Baccalauréat professionnel-seconde professionnelle |
+Baccalauréat professionnel - seconde professionnelle |
 
 10 euros par jour |
 
-Baccalauréat professionnel-1re professionnelle |
+Baccalauréat professionnel - 1re professionnelle |
 
 15 euros par jour |
 
-Baccalauréat professionnel-terminale professionnelle |
+Baccalauréat professionnel - terminale professionnelle |
 
 20 euros par jour |
 
@@ -38,15 +38,31 @@ Baccalauréat professionnel en un an |
 
 20 euros par jour |
 
-Brevet des métiers d'art-1re année
+Brevet national des métiers d'art - 1re année |
 
-Et diplôme de technicien des métiers du spectacle-1re année |
+10 euros par jour |
+
+Brevet national des métiers d'art - 2e année |
 
 15 euros par jour |
 
-Brevet des métiers d'art-2e année
+Brevet national des métiers d'art - 3e année |
 
-Et diplôme de technicien des métiers du spectacle-2e année |
+20 euros par jour |
+
+Brevet national des métiers d'art en un an |
+
+20 euros par jour |
+
+Brevet des métiers d'art - 1re année
+
+Et diplôme de technicien des métiers du spectacle - 1re année |
+
+15 euros par jour |
+
+Brevet des métiers d'art - 2e année
+
+Et diplôme de technicien des métiers du spectacle - 2e année |
 
 20 euros par jour |
 
