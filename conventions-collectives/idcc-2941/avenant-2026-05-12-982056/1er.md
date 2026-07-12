@@ -1,0 +1,95 @@
+# Article 1er
+
+Au titre VI « Formation professionnelle tout au long de la vie et parcours professionnels de la convention collective », les dispositions de l'article 7 « Entretien professionnel » sont modifiées comme suit :
+
+« Article 7
+
+Entretiens de parcours professionnel
+
+a) L'entretien périodique
+
+Chaque salarié bénéficie d'un entretien de parcours professionnel avec son employeur ou son représentant au cours de la 1re année suivant son embauche, puis tous les 4 ans.
+
+S'il le souhaite et sans préjudice des circonstances particulières prévues au b ci-après, le salarié bénéficie, sur simple demande, d'un entretien anticipé dès 2 ans après la date de son dernier entretien. Un nouveau cycle de 4 ans commence à courir à compter de sa date de réalisation.
+
+Il est informé de ces dispositions dès son embauche.
+
+Cet entretien est distinct de l'entretien annuel d'évaluation prévu à l'article 11.b du titre III.
+
+L'entretien de parcours professionnel a pour objet de permettre à la fois au salarié et à son employeur ou son représentant d'échanger leurs points de vue de manière équilibrée sur les éléments suivants :
+
+– les compétences et les qualifications mobilisées dans son emploi actuel et sur leur évolution possible compte tenu des transformations de l'entreprise ;
+
+– la situation et le parcours professionnel, au regard des évolutions des métiers et des perspectives d'emploi dans l'entreprise ;
+
+– les besoins de formation pouvant concerner l'activité professionnelle actuelle, l'évolution de son emploi au regard des transformations de l'entreprise ou un projet personnel ;
+
+– les souhaits d'évolution professionnelle : reconversion interne ou externe, projet de transition professionnelle, bilan de compétences ou validation des acquis de l'expérience ;
+
+– l'activation du compte personnel de formation, les versements réalisés sur ce compte par l'employeur et le conseil en évolution professionnelle.
+
+Tous les huit ans, l'entretien de parcours professionnel fait également un état des lieux récapitulatif du parcours professionnel du salarié. Cette durée s'apprécie par référence à l'ancienneté du salarié dans la structure.
+
+Lorsqu'il s'agit du premier état des lieux suivant l'embauche, celui-ci peut être réalisé sept ans après le premier entretien de parcours professionnel.
+
+Cet état des lieux permet de vérifier, en plus des éléments ci-dessus :
+
+– que le salarié a bénéficié au cours des huit dernières années des entretiens de parcours professionnels prévus légalement ;
+
+– et d'apprécier s'il a :
+
+–– suivi au moins une action de formation non obligatoire ;
+
+–– acquis des éléments de certification par la formation ou par une validation des acquis de son expérience ;
+
+–– bénéficié d'une progression salariale ou professionnelle.
+
+Dans les structures d'au moins 50 salariés, lorsque, au cours de la période de huit années, le salarié n'a pas bénéficié des entretiens prévus et d'au moins une formation dite non obligatoire (autre que celle mentionnée à l'article L. 6321-2 du code du travail), son compte personnel de formation est abondé dans les conditions légales et réglementaires.
+
+b) L'entretien à l'issue d'une période de suspension du contrat de travail
+
+Sauf si le salarié en a bénéficié dans les 12 mois précédant sa reprise et conformément au code du travail, l'entretien de parcours professionnel doit également être proposé au salarié qui reprend son activité à l'issue :
+
+– d'un congé de maternité ;
+
+– d'un congé supplémentaire de naissance ;
+
+– d'un congé parental d'éducation ;
+
+– d'un congé de proche aidant ;
+
+– d'un congé d'adoption ;
+
+– d'un congé sabbatique ;
+
+– d'une période de mobilité volontaire sécurisée ;
+
+– d'une période d'activité à temps partiel à la suite d'un congé de maternité ou d'adoption ;
+
+– d'un arrêt longue maladie de plus de 6 mois conformément aux dispositions de l'article L. 324-1 du code de la sécurité sociale ;
+
+– d'un mandat syndical ayant entraîné une suspension de l'activité professionnelle du salarié.
+
+À l'initiative du salarié, l'entretien peut avoir lieu avant la reprise du poste.
+
+c) L'entretien de mi-carrière et l'entretien de fin de parcours professionnel
+
+De façon spécifique, un entretien de parcours professionnel doit être organisé dans les deux mois qui suivent la visite médicale de mi-carrière prévue dans l'année des 45 ans du salarié. Il convient d'évoquer alors, en plus des sujets évoqués lors de l'entretien périodique, les adaptations de poste recommandées par le médecin et les mesures de prévention de l'usure professionnelle et les éventuels souhaits de mobilité ou de reconversion professionnelle du salarié.
+
+Par ailleurs, et lors de chaque entretien de parcours professionnel intervenant à partir du 58e anniversaire du salarié, sont abordés en plus des sujets évoqués lors de l'entretien périodique, des points spécifiques d'aménagements de fin de carrière, notamment les possibilités de passage au temps partiel ou de retraite progressive, ainsi que les conditions de maintien dans l'emploi.
+
+d) Modalités de réalisation des entretiens
+
+Les structures veillent tout particulièrement à ce que le personnel d'encadrement bénéficie, dans le cadre des missions qui lui sont confiées, de l'information et de la formation nécessaires à l'accompagnement des salariés et à la conduite des entretiens de parcours professionnel visés aux points a, b et c ci-dessus.
+
+Pour s'y préparer, le salarié doit être informé de l'objet et de la date de l'entretien au moins quinze jours avant sa tenue.
+
+Le temps consacré à cet entretien est comptabilisé dans le temps de travail. Le temps passé à sa préparation est pour sa part comptabilisé pour une demi-heure. Ces temps sont planifiés et considérés comme du temps de travail effectif.
+
+Dans les entreprises de moins de 300 salariés (ETP), le salarié peut, pour la préparation de l'entretien de parcours professionnel périodique ou de retour de suspension du contrat de travail, bénéficier d'un conseil en évolution professionnelle au sens du code du travail. L'employeur, pour la préparation de ce même entretien, peut bénéficier d'un conseil de proximité assuré par l'OPCO dont il relève.
+
+Chaque entretien de parcours professionnel donne lieu à la rédaction d'un document de synthèse des échanges, co signé par les deux parties dans un délai maximal de 2 mois suivant la date de l'entretien, et dont une copie est remise au salarié. Un encart est réservé aux commentaires des deux parties.
+
+Si l'une et/ou l'autre des deux parties estime que le document de synthèse ne reflète pas la teneur de l'entretien, elle est en droit de formuler des réserves, sa signature du document ne valant pas acceptation des éléments ou appréciations de l'autre partie.
+
+Enfin, les partenaires sociaux incitent les structures à réaliser un bilan qualitatif et prospectif (GEPP et développement des compétences) des entretiens de parcours professionnels tous les quatre ans qui sera transmis aux IRP. »
