@@ -494,7 +494,7 @@ Arrêté du 19 octobre 2023 |
 
 14 |
 
-DECOLLETAGE : OPERATEUR REGLEUR EN DECOLLETAGE |
+DECOLLETAGE : OPERATEUR REGLEUR EN DECOLLETAGE (dernière session 2027) |
 
 Arrêté du 9 janvier 1990 |
 
@@ -906,6 +906,12 @@ Arrêté du 11 décembre 2020 |
 
 14 |
 
+"MÉTIERS DE L'USINAGE" (première session 2028) |
+
+Arrêté du 20/05/2026 |
+
+14 |
+
 METIERS DU FOOTBALL (dernière session 2025-session supplémentaire 2026) |
 
 Arrêté du 13 juillet 1977 |
@@ -1052,7 +1058,7 @@ Arrêté du 29 août 1991 |
 
 12 |
 
-OUTILLAGES EN OUTILS A DECOUPER ET A EMBOUTIR |
+OUTILLAGES EN OUTILS A DECOUPER ET A EMBOUTIR (dernière session 2027) |
 
 Arrêté du 29 août 1991 |
 
