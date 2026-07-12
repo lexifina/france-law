@@ -328,7 +328,7 @@ Animation de séances collectives d'aqua fitness dans un bassin d'une profondeur
 
 A l'exclusion de la surveillance des lieux de pratique. |
 
-Certification "Techniques et enseignement des activités de fitness dans l'eau "-Waterform, du 20 septembre 2023 au 20 septembre 2026 associé au CQP instructeur de fitness option "cours collectifs "ou au CQP animateur de loisirs sportifs option "activités gymniques d'entretien et d'expression ". |
+Certification “Techniques et enseignement des activités de fitness dans l'eau“ - Waterform, du 20 septembre 2023 au 20 septembre 2026 associé au CQP instructeur fitness option “cours collectifs” ou au CQP animateur de loisirs sportifs option “activités gymniques d'entretien et d'expression“. |
 
 |
 
@@ -466,7 +466,7 @@ Conduite de séances et de cycles de séances de découverte, d'initiation et d'
 
 Certificats de qualification délivrés par la Commission paritaire nationale emploi formation du sport |
 
-CQP instructeur de fitness option " fitness en cours collectifs " délivré jusqu'au 30 avril 2030 |
+CQP instructeur fitness option “cours collectifs” |
 
 3 |
 
@@ -1107,6 +1107,16 @@ DES JEPS, spécialité "performance sportive" mention "basket-ball", délivré j
 6 |
 
 Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+Titre à finalité professionnelle délivré par la Fédération française de basket-ball |
+
+Technicien territorial de basketball |
+
+4 |
+
+Conduite de séances et de cycles de séances d'apprentissage en basketball |
 
 |
 
@@ -2096,7 +2106,7 @@ Certificat de qualification délivré par la Commission paritaire nationale empl
 
 |
 
-CQP " éducateur grimpe d'arbres ", délivré du 25 juin 2025 jusqu'au 25 juin 2030.
+CQP “éducateur grimpe d'arbres”
 
 |
 
@@ -2104,7 +2114,7 @@ CQP " éducateur grimpe d'arbres ", délivré du 25 juin 2025 jusqu'au 25 juin 2
 
 Conduite de séances et de cycles de séances d'initiation et d'apprentissage de la grimpe dans les arbres. |
 
-|
+Dans la limite de 8 pratiquants |
 
 GYMNASTIQUE
 
@@ -2332,7 +2342,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 Certificat de qualification délivré par la Commission paritaire nationale emploi formation du sport |
 
-CQP instructeur de fitness option " fitness en musculation et personal training " délivré jusqu'au 30 avril 2030
+CQP instructeur fitness option ”musculation et personal training”
 
 |
 
@@ -2404,7 +2414,7 @@ Conduite de séances et de cycles de séances d'enseignement et d'entraînement 
 
 |
 
-Entraineur de handball du secteur professionnel mention entraineur professionnel, délivré du 26 avril 2024 au 26 avril 2027(**). |
+Entraîneur de handball du secteur professionnel option entraineur professionnel |
 
 6 |
 
@@ -2412,7 +2422,7 @@ Conduite de séances d'enseignement et d'entraînement en handball d'une équipe
 
 |
 
-Entraineur de handball du secteur professionnel mention entraineur formateur, délivré du 26 avril 2024 au 26 avril 2027(**). |
+Entraîneur de handball du secteur professionnel option entraineur formateur |
 
 6 |
 
@@ -3070,6 +3080,14 @@ Certificat de qualification professionnelle délivré par l'organisme certificat
 
 |
 
+CQP Initiateur et guide de randonnée en motocyclisme |
+
+4 |
+
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en motocyclisme |
+
+A l'exclusion des pratiques compétitives |
+
 MOTONAUTISME
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
@@ -3318,6 +3336,36 @@ Conduite de séances d'apprentissage de la natation et de séances d'entraîneme
 
 A l'exclusion de la surveillance des lieux de pratique. |
 
+PADEL y compris toutes les qualifications mentionnées sous l'intitulé "multi activités physiques ou sportives" (*) dans la limite de leurs conditions d'exercice. |
+
+Diplômes délivrés par le ministère chargé des sports |
+
+DE JEPS, spécialité "perfectionnement sportif" mention "tennis" |
+
+5 |
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité "performance sportive" mention "tennis" |
+
+6 |
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+Titre à finalité professionnelle délivré par la Fédération française de tennis |
+
+Moniteur de padel |
+
+4 |
+
+Conduite de séances de découverte, d'initiation et d'apprentissage en padel |
+
+|
+
 PARACHUTISME-ENVIRONNEMENT SPÉCIFIQUE |
 
 Diplômes délivrés par le ministère chargé des sports |
@@ -3501,6 +3549,14 @@ Enseignement de la pelote basque. |
 A l'exclusion des pratiques compétitives. |
 
 Diplômes délivrés par le ministère chargé des sports |
+
+CQP Technicien sportif de pelote basque |
+
+4 |
+
+Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en pelote basque |
+
+|
 
 PENTATHLON MODERNE
 
@@ -4012,6 +4068,22 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
+DE JEPS, spécialité “entraînement et perfectionnement sportif” mention “sports de contact” option “kickboxing” |
+
+5 |
+
+Conduite de séances et de cycles de séances d'entraînement et de perfectionnement sportif en kickboxing |
+
+|
+
+DE JEPS, spécialité “entraînement et perfectionnement sportif” mention “sports de contact” option “boxe thaï - muaythai” |
+
+5 |
+
+Conduite de séances et de cycles de séances d'entraînement et de perfectionnement sportif en boxe thaï - muaythai |
+
+|
+
 DE JEPS, spécialité " perfectionnement sportif " mention " sports de contact ", option " boxe thaï-muay thaï ", délivré jusqu'au 31 décembre 2026. |
 
 5 |
@@ -4186,13 +4258,13 @@ Certificat de qualification professionnelle délivré par l'organisme certificat
 
 |
 
-CQP "initiateur en sport à roulettes"
+CQP Initiateur en sports à roulettes
 
 |
 
 4 |
 
-Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en sports à roulettes
+Conduite de séances et de cycles de séances de découverte et d'initiation en sports à roulettes
 
 |
 
@@ -4945,6 +5017,14 @@ CQP "moniteur de vol à plat en soufflerie" |
 4 |
 
 Conduite de séances et de cycles de séances de découverte, d'initiation et d'apprentissage en vol à plat en soufflerie |
+
+|
+
+CCP “Encadrer le vol à plat en soufflerie 3D” associé au CQP ”moniteur de vol à plat en soufflerie” |
+
+|
+
+Conduite de séances et de cycles de séances d'apprentissage en vol en soufflerie 3D |
 
 |
 
