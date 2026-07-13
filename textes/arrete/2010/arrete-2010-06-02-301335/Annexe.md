@@ -1,7 +1,9 @@
 # Article Annexe
 
-Vous pouvez consulter l’annexe au Bulletin officiel de l'éducation nationale, de la jeunesse et des sports en date du 25 mars 2021 sur le site http://www.education.gouv.fr
+Vous pouvez consulter l’annexe 1 au Bulletin officiel du ministère de l'éducation nationale en date du 25 mars 2021 sur le site http://www.education.gouv.fr.
+
+Vous pouvez consulter l’annexe 2 au Bulletin officiel du ministère de l'éducation nationale en date du 16 juillet 2026 sur le site http://www.education.gouv.fr.
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 22 février 2021 (MENE2102345A), ces dispositions entrent en application à la rentrée de l'année scolaire 2021-2022 en classe de seconde, à la rentrée de l'année scolaire 2022-2023 en classe de première et à la rentrée de l'année scolaire 2023-2024 en classe terminale.
+Conformément à l'article 1 de l'arrêté du 18 juin 2026 (MENE2615855A), ces dispositions entrent en application à la rentrée de l'année scolaire 2026-2027 en ce qu'elles concernent les classes de seconde et de première et à la rentrée de l'année scolaire 2027-2028 en ce qu'elles concernent la classe terminale.
