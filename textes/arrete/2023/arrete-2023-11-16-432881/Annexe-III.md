@@ -30,7 +30,7 @@ Les coefficients de dose efficace applicables à l'exposition des travailleurs e
 
 Le tableau 3.1, extrait des publications CIPR 134, 137, 141 et 151, concerne les radionucléides pour lesquels la CIPR a publié des mises à jour entre 2016 et 2022.
 
-Il indique les valeurs de dose efficace engagée par unité d'activité incorporée de radionucléides ingérés, applicables aux travailleurs exposés, à l'exception de celles pour les descendants du radon 222 et du radon 220 faisant l'objet du paragraphe III.3. Ces valeurs sont exprimées en Sv.Bq-1. Les valeurs sont accompagnées d'une description des formes chimiques correspondantes lorsque de telles formes ont été identifiées. La mention « Composés non spécifiés » signifie qu'en l'absence d'information spécifique sur la forme chimique, le coefficient de dose relatif à cette mention peut être retenu par défaut.
+Il indique les valeurs de dose efficace engagée par unité d'activité incorporée de radionucléides ingérés, applicables aux travailleurs exposés, à l'exception de celles pour les descendants du radon 222 et du radon 220 faisant l'objet du paragraphe III.3. Ces valeurs sont exprimées en Sv.Bq-1. Les valeurs sont accompagnées d'une description des formes chimiques correspondantes lorsque de telles formes ont été identifiées. La mention "Composés non spécifiés" signifie qu'en l'absence d'information spécifique sur la forme chimique, le coefficient de dose relatif à cette mention peut être retenu par défaut.
 
 Le tableau 3.2, extrait des publications CIPR 134, 137 et 141 et 151, concerne les radionucléides pour lesquels la CIPR a publié des mises à jour entre 2016 et 2022.
 
@@ -38,7 +38,7 @@ A l'exception de celles pour les descendants du radon 222 et du radon 220 faisan
 
 Le coefficient de dose retenu par défaut pour le travailleur inhalant un aérosol est celui correspondant à un diamètre aérodynamique médian en activité des particules de 5 µm. Le coefficient de dose correspondant à 1 µm peut être utilisé s'il existe des données démontrant que le travailleur inhale un aérosol avec ce diamètre.
 
-Dans ce tableau, les coefficients de dose s'appliquant aux aérosols sont donnés pour tous les radionucléides et pour les gaz ou vapeurs s'ils existent. Les aérosols et gaz sont désignés par un type d'absorption pulmonaire accompagné d'une description des formes chimiques correspondantes de l'élément. La mention « Pas de forme chimique particulière assignée » signifie qu'aucune forme chimique de l'élément n'a été identifiée comme appartenant à ce type d'absorption pulmonaire. La mention « Composés non spécifiés » signifie qu'en l'absence d'information spécifique, le type d'absorption pulmonaire indiqué sous cette mention peut être retenu par défaut.
+Dans ce tableau, les coefficients de dose s'appliquant aux aérosols sont donnés pour tous les radionucléides et pour les gaz ou vapeurs s'ils existent. Les aérosols et gaz sont désignés par un type d'absorption pulmonaire accompagné d'une description des formes chimiques correspondantes de l'élément. La mention "Pas de forme chimique particulière assignée" signifie qu'aucune forme chimique de l'élément n'a été identifiée comme appartenant à ce type d'absorption pulmonaire. La mention "Composés non spécifiés" signifie qu'en l'absence d'information spécifique, le type d'absorption pulmonaire indiqué sous cette mention peut être retenu par défaut.
 
 III.3. Dose efficace engagée et coefficients de dose pour les descendants du radon 222 et du radon 220
 
@@ -133,8 +133,6 @@ Lieux de travail en intérieur où les travailleurs ont une activité majoritair
 Lieux de travail en intérieur où les travailleurs ont une activité majoritairement non sédentaire (activité physique significative : travaux, maintenance, entretien…) |
 
 6 |
-
-Concernant les lieux de travail spécifiques mentionnés au b) du 4° de l'article R. 4451-1 du code du travail, l'arrêté pris en application de l'article R. 4451-4 du même code dispose de modalités particulières pour le calcul de la dose efficace due au radon et peut définir des coefficients de dose applicables à certains types de lieux de travail spécifiques. |
 
 Type de lieux de travail |
 
@@ -39920,7 +39918,7 @@ Xe-138 |
 
 Tableau 3.1. - Doses efficaces engagées par unité d'activité incorporée par ingestion, en Sv.Bq-1, applicables aux travailleurs exposés, d'après les données des publications 134, 137, 141 et 151 de la CIPR
 
-La mention « Composés non spécifiés » signifie qu'en l'absence d'information spécifique sur la forme chimique, le coefficient de dose indiqué sous cette mention peut être retenu par défaut.
+La mention "Composés non spécifiés" signifie qu'en l'absence d'information spécifique sur la forme chimique, le coefficient de dose indiqué sous cette mention peut être retenu par défaut.
 
 Radionucléide |
 
@@ -46500,9 +46498,9 @@ Tableau 3.2. - Doses efficaces engagées par unité d'activité incorporée par 
 
 Les abréviations suivantes sont utilisées. A. F : aérosol de type F ; A. M : aérosol de type M ; A. S : aérosol de type S ; A. Spé. : aérosol spécifique ; G-V. : gaz ou vapeur (éventuellement suivi d'un type tel que F ou V).
 
-La mention « Pas de forme chimique particulière assignée » signifie qu'aucune forme chimique de l'élément n'a été identifiée comme appartenant à ce type.
+La mention "Pas de forme chimique particulière assignée" signifie qu'aucune forme chimique de l'élément n'a été identifiée comme appartenant à ce type.
 
-La mention « Composés non spécifiés » signifie qu'en l'absence d'information spécifique, le type relatif à cette mention peut être retenu par défaut.
+La mention "Composés non spécifiés" signifie qu'en l'absence d'information spécifique, le type relatif à cette mention peut être retenu par défaut.
 
 Le coefficient retenu par défaut est celui correspondant à un diamètre aérodynamique médian en activité des particules de 5 µm. Le coefficient correspondant à 1 µm peut être utilisé s'il existe des données démontrant que le travailleur inhale des particules avec ce diamètre.
 
@@ -79643,7 +79641,3 @@ Pas de forme chimique particulière assignée |
 3,0.10-6 |
 
 4,7.10-6 |
-
-NOTA :
-
-Par décision n°490924 du 13 juillet 2026 du Conseil d’Etat statuant au contentieux, ECLI:FR:CECHR:2026:490924.20260713, dans le premier tableau du III.3.2 de l’annexe III à l’arrêté du 16 novembre 2023 définissant les modalités de calcul des doses efficaces et des doses équivalentes résultant de l’exposition des personnes aux rayonnements ionisants, sont annulés les mots : "Concernant les lieux de travail spécifiques mentionnés au b) du 4° de l’article R. 4451-1 du code du travail, l’arrêté pris en application de l’article R. 4451-4 du même code dispose de modalités particulières pour le calcul de la dose efficace due au radon et peut définir des coefficients de dose applicables à certains types de lieux de travail spécifiques."
