@@ -1,0 +1,9 @@
+# Réponse à la question n° 8132
+
+- Question : [8132](8132.md) — Question n° 8132 — Décret n° 2025-468 concernant les PADHUE
+
+## Réponse
+
+*JO du 2026-07-14, page 6671*
+
+La création, par le décret n° 2025-468 du 28 mai 2025, constitue bien une avancée pour les Praticiens à diplôme hors Union européenne (PADHUE) participant à la continuité des soins sur le territoire français. La suppression de l'épreuve pratique est une demande qui est ressortie des concertations. En effet, plusieurs organisations arguaient que les PADHUE exerçant en France disposaient déjà de compétences pratiques dont le chef de service pouvait attester de façon plus efficiente qu'une épreuve. La seule épreuve théorique a été conservée. L'avis du chef de service constitue une condition intéressante d'accès à la voie interne, permettant d'attester que le praticien peut présenter des Epreuves de vérification des connaissances (EVC) allégées. Le cas échéant, le praticien peut présenter la voie externe des EVC. Les EVC étant un concours, les notes des années précédentes ne peuvent par définition pas être prises en compte lors de la présentation aux épreuves de l'année suivante. Cependant, le relevé de notes peut être transmis par les PADHUE déposant une demande d'Autorisation d'exercice provisoire (AEP) valable pour une durée de 13 mois renouvelable une fois, et faciliter leur accès à l'AEP, dans l'attente d'un passage de la voie interne des prochaines EVC. L'accès à la voie interne des EVC n'est par ailleurs pas limité à l'exercice à temps plein pendant deux années au cours des trois dernières années. Les PADHUE disposant d'une autorisation dérogatoire outre-mer, ainsi que les PADHUE bénéficiant d'une AEP peuvent également se présenter aux épreuves internes. Les PADHUE dans la situation mentionnée peuvent déposer une demande d'AEP.
