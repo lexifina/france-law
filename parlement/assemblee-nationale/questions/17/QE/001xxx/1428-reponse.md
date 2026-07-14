@@ -1,0 +1,9 @@
+# Réponse à la question n° 1428
+
+- Question : [1428](1428.md) — Question n° 1428 — Réseau de chaleur
+
+## Réponse
+
+*JO du 2026-07-14, page 6662*
+
+Le Fonds chaleur est l'un des dispositifs les plus efficaces en matière de décarbonation de la production de chaleur et de froid, ce qui en fait un levier indispensable de réduction de la dépendance de la France aux énergies fossiles. Les aides du Fonds chaleur sont destinées aux entreprises et aux collectivités territoriales, soucieuses de leur autonomie énergétique et de la maîtrise de leurs charges de fonctionnement. Concernant la géothermie profonde, le plan d'action national pour la géothermie a permis de donner un nouvel élan aux fonds de garantie structurés dans les années 80, pour couvrir le risque physique lié aux caractéristiques de la ressource géothermale. Ainsi, le « fonds de garantie géothermie », géré par la SAF-Environnement, par convention avec l'ADEME, permet d'assurer les investisseurs contre le risque géologique moyennant une cotisation des maîtres d'ouvrages publics et privés. Concernant la chaleur fatale, des travaux ont été initiés pour assurer une couverture des risques inhérents à ces projets, tels que la baisse de la production ou la délocalisation de l'industriel, à travers un fonds de garantie similaire à celui de la géothermie profonde. A date, au regard du faible nombre de projets concernés, la généralisation du système d'avances remboursables, dont l'opérationnalisation par l'ADEME est plus avancée dans le cadre du Fonds chaleur, permet de couvrir ces risques, dans les mêmes conditions et de sécuriser la décision d'investissement. Le cas spécifique du projet de Mulhouse fait ainsi partie des premiers projets financés par une subvention de l'ADEME, assortie d'une avance remboursable de 7 M€, correspondant au montant maximum mobilisable pour ce projet, permettant de couvrir le risque lié à la source de chaleur fatale.
