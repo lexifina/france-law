@@ -1,0 +1,9 @@
+# Réponse à la question n° 14604
+
+- Question : [14604](14604.md) — Question n° 14604 — Desserte du Mans par la LGV Ouest fréquence et coûts
+
+## Réponse
+
+*JO du 2026-07-14, page 6716*
+
+Le Gouvernement est attentif à l'offre de transport ferroviaire, aux capacités de mobilité pour toutes et tous et à la disponibilité d'un service de qualité pour les usagers. En tant qu'opérateur d'un service librement organisé, SNCF Voyageurs adapte sa politique commerciale en fonction de la disponibilité des ressources, notamment matérielles et humaines, et des évolutions économiques de son activité. C'est en particulier le cas pour la desserte à grande vitesse entre Paris et Le Mans, qui relève de ces services librement organisés. Sa fréquence, même après la réduction de 2023, la fait en effet clairement relever de cette catégorie de services, sans lien avec la notion de « desserte d'aménagement du territoire » qui fait actuellement l'objet d'une mission confiée par le Gouvernement à Dominique Bussereau et de dispositions introduites en première lecture au Sénat dans le projet de loi cadre relatif au développement des transports. Le schéma des dessertes à grande vitesse doit ainsi tenir compte du nombre de rames disponibles, en veillant à satisfaire autant de voyageurs que possible avec le parc existant et en préservant l'équilibre des dessertes entre territoires. Dans ce cadre, SNCF Voyageurs est tenue d'informer l'État et les collectivités territoriales des changements qu'elle prévoit dans l'offre proposée. Les prix pratiqués résultent de mécanismes de tarification dynamique tenant compte de la demande, des contraintes de capacité et des conditions d'exploitation. La SNCF pourra ainsi fournir davantage de précisions concernant le niveau de desserte et la tarification de la ligne à grande vitesse entre Paris et Le Mans.
