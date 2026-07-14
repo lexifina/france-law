@@ -1,0 +1,9 @@
+# Réponse à la question n° 12667
+
+- Question : [12667](12667.md) — Question n° 12667 — Rétablissement du 4e TGV Lyria Paris-Lausanne
+
+## Réponse
+
+*JO du 2026-07-14, page 6711*
+
+Le Gouvernement est attentif à l'offre de transport ferroviaire, aux capacités de mobilité pour toutes et tous et à la disponibilité d'un service de qualité pour les usagers. En tant qu'opérateur d'un service librement organisé, SNCF Voyageurs adapte sa politique commerciale en fonction de la disponibilité des ressources, notamment matérielles et humaines, et des évolutions économiques de son activité : c'est en particulier le cas pour la ligne à grande vitesse reliant Paris à Lausanne via Dijon, Dole, Mouchard, Frasne et Vallorbe. Le schéma des dessertes à grande vitesse de SNCF Voyageurs doit ainsi tenir compte du nombre de rames disponibles, en veillant à satisfaire autant de voyageurs que possible avec le parc existant et en préservant l'équilibre des dessertes entre territoires. Ceci s'applique également dans le cadre de ses coopérations avec d'autres opérateurs ferroviaires comme ici avec les chemins de fer fédéraux suisses (CFF) pour la coopération Lyria. SNCF Voyageurs est tenue d'informer l'État et les collectivités territoriales des changements qu'elle prévoit dans l'offre de dessertes proposée. Afin d'avancer sur la question du quatrième aller-retour Paris–Lausanne via le Jura, une première rencontre s'est tenue le 3 février 2026 entre les représentants de TGV Lyria et des parlementaires du Doubs et du Jura. Concernant le sujet du développement des liaisons transfrontalières, en application des déclarations d'intention sur le développement stratégique des liaisons ferroviaires franco-suisses signées en 2025, de premières réunions de travail ont eu lieu en septembre et les échanges se poursuivent avec l'Office fédéral des transports. Dans ce cadre, les lignes Frasne - Vallorbe et Frasne - Neuchâtel font partie des lignes qui seront analysées en priorité.
