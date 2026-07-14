@@ -1,0 +1,9 @@
+# Réponse à la question n° 3724
+
+- Question : [3724](3724.md) — Question n° 3724 — Lutte contre l'illectronisme et dispositif Conseiller numérique
+
+## Réponse
+
+*JO du 2026-07-14, page 6658*
+
+Le Gouvernement souhaite accompagner l'émancipation des français vis à vis de la maîtrise des outils numériques. Il a lancé en 2021 à cette fin le dispositif des conseillers numériques, qui a depuis démontré son utilité : - Plus de 6,5 millions d'accompagnements ont été réalisés par les conseillers numériques depuis le déploiement du dispositif au printemps 2021 ; - 97 % des personnes accompagnées par un conseiller numérique ont le sentiment d'avoir progressé et 60 % estiment être moins stressées à l'idée de manipuler des outils numériques. Très largement financée par le Gouvernement à ses débuts, la loi de finances pour 2023 a entériné la poursuite du dispositif de conseillers numériques tout en caractérisant la nécessité d'une évolution du financement vers les collectivités locales pour une soutenabilité de ces dépenses. Aussi, de nouvelles modalités de financement des conseillers numériques ont été communiquées en décembre 2022 aux structures employeuses. Ces nouvelles modalités de financement instaurent une dégressivité des aides de l'État en même temps qu'elles offrent une visibilité temporelle renforcée aux structures employeuses – avec un conventionnement sur 36 mois et non plus simplement sur 18 à 24 mois. Ainsi, le budget dédié à cette action a été progressivement réduit lors des lois de finances 2025 et 2026 (40 M€ en 2025 puis 13,8M€ en 2026). Ces enveloppes ont permis de garantir la continuité du dispositif dans un environnement budgétaire contraint et d'accompagner la dématérisalisation des démarches administratives, avec notamment le développement de la plateforme "Aidants connects" permettant de poursuivre la politique engagée en matière d'inclusion numérique.
