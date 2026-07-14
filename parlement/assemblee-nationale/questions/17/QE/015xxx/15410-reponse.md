@@ -1,0 +1,9 @@
+# Réponse à la question n° 15410
+
+- Question : [15410](15410.md) — Question n° 15410 — Accès des postes consulaires aux données de la CAF
+
+## Réponse
+
+*JO du 2026-07-14, page 6657*
+
+La communication d'informations entre les services consulaires et les organismes sociaux est encadrée par le code de la sécurité sociale. En 2025, plus de 10 000 échanges d'informations ont eu lieu entre les services consulaires et les organismes sociaux et France Travail. Plus de la moitié sont intervenus à l'initiative des postes consulaires. Ces échanges ont constaté une fraude dans plus de 20 % des cas. Ces échanges de signalements sont en augmentation (7 449 en 2024, 6 991 en 2023). Afin de réduire les délais d'instruction, qui peuvent aller de quelques jours ou à plusieurs semaines selon les organismes sociaux sollicités, le MEAE dispose, depuis la loi de 2025 contre les fraudes aux aides publiques, d'un droit d'accès au Répertoire national commun de la protection sociale. Celui-ci recense l'ensemble des prestations servies en France par les organismes sociaux et France Travail. La mise en place concrète du raccordement informatique requiert préalablement plusieurs étapes réglementaires, ainsi que l'avis de la CNIL et l'élaboration d'une convention avec la Caisse nationale d'assurance vieillesse (CNAV). Ces travaux sont actuellement conduits par la direction des Français à l'étranger du MEAE et les parties prenantes en vue d'un aboutissement en 2028. Les assistants sociaux exerçant dans les postes consulaires feront partie des agents habilités. Le MEAE travaille par ailleurs à la mise en place d'un accès à d'autres bases de données, comme le fichier des contrats d'assurance vie et le fichier des comptes bancaires. L'accès à ces deux bases a été autorisé par le Parlement, avec le vote de la loi relative à la lutte contre les fraudes sociales et fiscales, promulguée le 25 juin 2026.
