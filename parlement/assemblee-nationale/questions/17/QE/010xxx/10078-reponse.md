@@ -1,0 +1,9 @@
+# Réponse à la question n° 10078
+
+- Question : [10078](10078.md) — Question n° 10078 — Difficultés administratives des professionnels du secteur funéraire
+
+## Réponse
+
+*JO du 2026-07-14, page 6640*
+
+Dans le domaine funéraire, la démarche de simplification des normes appliquées aux collectivités, engagée par le Gouvernement et portée par la ministre de l'aménagement du territoire et de la décentralisation, se traduit par le renforcement de la dématérialisation des actes et des procédures et par la recherche d'une harmonisation des pratiques des acteurs institutionnels. Ainsi, plusieurs projets de textes règlementaires destinés à renforcer la dématérialisation des actes et des procédures dans le domaine funéraire sont actuellement en cours d'élaboration visent à fluidifier les échanges entre les acteurs du funéraire, faciliter la réalisation de prestations funéraires et simplifier la gestion de ce service public par les communes et leurs groupements. En ce qui concerne l'harmonisation des pratiques, le Gouvernement met à disposition des préfectures et des collectivités locales des guides ayant vocation à les accompagner dans la mise en œuvre de la règlementation et des procédures funéraires. Ces guides font l'objet d'un travail de concertation mené par le Conseil national des opérations funéraires (CNOF) et ses groupes de travail, constitués de représentants des élus, de la profession et des familles. Ces documents, régulièrement enrichis de modèles de document et de fiches synthétiques, sont consultables en ligne sur le site de la Direction générale des collecitivités locales : Droit funéraire | Collectivités Locales. Ces documents constituent des appuis juridiques et des aides à la décision, chaque préfet pouvant toutefois solliciter les pièces qu'il juge utile en fonction des circonstances particulières qui lui sont présentées, notamment dans l'intérêt des familles et le respect des défunts.
