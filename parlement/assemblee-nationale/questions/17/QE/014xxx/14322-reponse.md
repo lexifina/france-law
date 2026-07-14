@@ -1,0 +1,9 @@
+# Réponse à la question n° 14322
+
+- Question : [14322](14322.md) — Question n° 14322 — Médaille d'honneur agricole aux travailleurs RQTH
+
+## Réponse
+
+*JO du 2026-07-14, page 6613*
+
+La médaille d'honneur agricole, instituée par le décret du 17 juin 1890 et régie par le décret n° 84-1110 du 11 décembre 1984 modifié, a pour objet de récompenser la durée des services accomplis par les salariés relevant du secteur agricole. Son attribution repose sur des critères objectifs tenant à l'ancienneté effective des services rendus dans les activités mentionnées par les textes qui l'encadrent. La reconnaissance de la qualité de travailleur handicapé (RQTH), prévue à l'article L. 5213-1 du code du travail, ouvre effectivement droit, dans certains domaines déterminés par la loi, à des dispositifs destinés à compenser les conséquences du handicap sur le parcours professionnel. Toutefois, la majoration d'ancienneté mentionnée à l'article L. 5213-4 du code du travail n'a pas vocation à s'appliquer de manière générale à l'ensemble des dispositifs fondés sur la durée de carrière. En l'état du droit, les conditions d'attribution de la médaille d'honneur agricole reposent exclusivement sur la prise en compte des années de services effectivement accomplies dans le secteur agricole. La ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire est néanmoins particulièrement attentive à la situation des personnes en situation de handicap et à la nécessité de garantir l'égalité des droits et des chances. À ce titre, la question de l'adaptation des modalités d'attribution de la médaille d'honneur agricole aux spécificités des parcours professionnels des travailleurs reconnus handicapés mérite d'être examinée avec attention. Aussi, une information sera faite aux services chargés des questions de handicap du ministère afin d'entamer avec eux une réflexion sur ces questions.
