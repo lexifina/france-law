@@ -1,0 +1,9 @@
+# Réponse à la question n° 12923
+
+- Question : [12923](12923.md) — Question n° 12923 — Abattoirs de proximité
+
+## Réponse
+
+*JO du 2026-07-14, page 6608*
+
+La décapitalisation du cheptel français, particulièrement du cheptel bovin, a lourdement impacté l'activité des établissements d'abattage ces dernières années, qui doivent pour certains faire face à un défi de modernisation pour répondre aux normes de bien-être animal et environnementales. En parallèle, l'activité des abattoirs fluctue notablement en fonction des périodes de l'année (fêtes religieuses, saisons, descente des alpages), nécessitant une flexibilité économique et technique des outils. Ces éléments mettent en lumière les défis liés à la rationalisation et à l'efficacité logistique dans le secteur de l'abattage en France, nécessitant des ajustements pour optimiser les chaînes de valeur tout en garantissant le bien-être animal et la viabilité économique des filières d'élevage. L'enjeu est également de préserver cette capacité de production et de transformation en France, en cohérence avec les évolutions de la consommation et l'objectif de reconquête de la souveraineté alimentaire. La stratégie « abattoirs animaux de boucherie », lancée le 6 juillet 2023 par le ministère chargé de l'agriculture, s'inscrit dans la continuité du plan abattoirs lancé en 2021, et notamment de la mesure abattoirs du plan de Relance. Cette stratégie vise à préserver un réseau d'établissements d'abattage répondant aux besoins des filières d'élevage, selon une approche territorialisée. Cette stratégie, déclinée en quatre axes, constitue l'un des volets du plan gouvernemental de reconquête de la souveraineté sur l'élevage. En parallèle, une mission a également été attribuée au conseil général de l'alimentation, de l'agriculture et des espaces ruraux afin d'évaluer les conséquences de l'émergence d'abattoirs gérés par les éleveurs.
