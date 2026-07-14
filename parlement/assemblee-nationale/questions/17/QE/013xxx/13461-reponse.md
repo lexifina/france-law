@@ -1,0 +1,9 @@
+# Réponse à la question n° 13461
+
+- Question : [13461](13461.md) — Question n° 13461 — Inégalité d'accès au CPF
+
+## Réponse
+
+*JO du 2026-07-14, page 6651*
+
+Le succès massif de la mobilisation du Compte personnel de formation (CPF) via des accès diversifiés a pu conduire dans certains cas à des pratiques commerciales agressives voire abusives (usurpation d'identité, démarchage pour l'achat de formations, etc). Ainsi, depuis le 25 octobre 2022, l'Etat et la Caisse des dépôts et consignations (CDC) ont procédé à un renforcement de la sécurisation du parcours d'inscription en formation sur MonCompteFormation (MCF) via FranceConnect+, une version plus sécurisée de FranceConnect. FranceConnect+ propose une authentification renforcée, via l'identification numérique de La Poste ou France Identité depuis 2024, permettant de limiter les risques d'usurpation d'identité. Par ailleurs, une troisième solution, dite alternative, est mise à disposition des usagers ne remplissant pas les conditions nécessaires à l'utilisation de FranceConnect+, pour accéder à leurs droits. Après création de leur compte sur la plateforme MonCompteFormation via leur numéro de sécurité sociale, les usagers peuvent accéder à une vérification d'identité manuelle en ligne depuis 2025. En cas de difficulté avec la procédure numérique, une procédure papier via un formulaire existe parallèlement, sans frais d'affranchissement. L'identité est ensuite vérifiée par l'envoi d'un courrier recommandé remis en main propre, et l'accès à la formation est ouvert dans un délai de dix jours maximum suivant cette vérification. Le déploiement de cette procédure résulte des nombreux abus et fraudes constatés ; elle ne constitue aucunement une discrimination à l'accès au droit à la formation, elle sécurise au contraire davantage les utilisateurs et leur accès à la formation.
