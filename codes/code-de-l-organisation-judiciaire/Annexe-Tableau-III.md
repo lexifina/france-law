@@ -516,7 +516,7 @@ Eure-et-Loir |
 
 Chartres |
 
-Dreux, Nogent-le-Rotrou. |
+Châteaudun, Dreux, Nogent-le-Rotrou. |
 
 Hauts-de-Seine |
 
