@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260508854
+
+- Question : [SEQ260508854](seq260508854.md) — Bilan de la mise en oeuvre de la stratégie nationale pour les aires protégées 2021-2030
+
+## Réponse
+
+*Transition écologique, biodiversité et négociations internationales sur le climat et la nature, JO du 2026-07-16, page 3594*
+
+La mise sous protection forte d'espaces terrestres et maritimes est une priorité du Gouvernement. La Stratégie nationale pour les aires protégées annoncée par le Président de la République le 11 janvier 2021 prévoit en effet une cible d'au moins 10% de l'ensemble du territoire national et des espaces maritimes sous souveraineté en protection forte Cette cible est également inscrite depuis 2021 à l'article L.110-4 du code de l'environnement. Afin de veiller à une meilleure répartition de l'effort entre les espaces maritimes et terrestres et de permettre un rééquilibrage de la contribution de ces espaces aux objectifs de protection forte, le Gouvernement souhaite, à l'occasion de l'actualisation en cours de son plan d'action national pour la période 2026-2030, compléter la stratégie nationale pour les aires protégées d'une nouvelle cible de 10% du territoire terrestre national sous protection forte dont au moins 3% du territoire terrestre métropolitain à l'horizon 2030. Cette cible aura pour objectif de maintenir la dynamique initiée par la SNAP pour le développement du réseau d'aires protégées et de zones de protection forte à terre. Son atteinte devra conjointement mobiliser les outils considérés de droit comme des zones de protection forte (réserves naturelles, réserves biologiques et arrêtés préfectoraux de protection en particulier) et le mécanisme de reconnaissance d'espaces terrestres sous protection forte après analyse au cas par cas prévus par le décret n° 2022-527 du 12 avril 2022.
