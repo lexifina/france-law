@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260207742
+
+- Question : [SEQ260207742](seq260207742.md) — Différence de niveau de diplôme requis pour le recrutement des enseignants entre l'enseignement agricole et l'enseignement général
+
+## Réponse
+
+*Agriculture, agro-alimentaire et souveraineté alimentaire, JO du 2026-07-16, page 3572*
+
+À ce jour, le niveau de qualification requis pour les candidats aux concours de l'enseignement technique agricole, notamment pour les langues vivantes, est le diplôme de master ou tout autre titre ou diplôme reconnu équivalent par le ministrère chargé de l'agriculture. Toutefois, afin de mieux prendre en compte les spécificités de l'enseignement agricole, le ministère chargé de l'agriculture a déjà mis en oeuvre une réforme du concours externe pour le recrutement des enseignants. Le décret n° 2022-1239 du 17 septembre 2022 modifiant les conditions de recrutement, de classement et d'avancement des agents de l'enseignement agricole public et privé a ainsi permis d'adapter les conditions de recrutement en introduisant une dérogation au niveau de la qualification exigée. Il a instauré une voie dérogatoire de recrutement au niveau licence (ou titre ou diplôme reconnu équivalent par le ministère chargé de l'agriculture) pour certaines disciplines techniques et professionnelles propres au ministère chargé de l'agriculture afin d'élargir le vivier et de diversifier les profils des candidats. Dans le contexte interministériel actuel, le ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire a engagé des travaux en vue d'étendre le bénéfice de la réforme précitée à l'ensemble des disciplines et ainsi harmoniser les conditions de diplôme exigées avec celles actuellement en vigueur pour enseigner dans les établissements relevant du ministère chargé de l'éducation nationale.
