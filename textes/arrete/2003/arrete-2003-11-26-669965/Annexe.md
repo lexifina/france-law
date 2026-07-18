@@ -10,7 +10,7 @@ Direction générale |
 
 Astreinte de direction générale. |
 
-1 astreinte de semaine (1). |
+1 astreinte de semaine. (1) |
 
 Pôle de la communication |
 
@@ -38,7 +38,7 @@ Secrétariat général |
 
 |
 
-Secrétariat interrégional Grand-Paris - Subdivision Paris 15 (Farman) de la division logistique |
+Secrétariat interrégional Grand-Paris-Subdivision Paris 15 (Farman) de la division logistique |
 
 Astreinte technique. |
 
@@ -90,21 +90,23 @@ Ecole nationale de l'aviation civile |
 
 |
 
-Direction de la formation au pilotage et des vols
+Direction de la formation au pilotage et des vols,
 
-Département opérations
+Département Opérations
 
-Bureau des opérations centralisées (site de Toulouse) |
+Bureau des opérations centralisées
+
+(site de Toulouse) |
 
 Astreinte opérationnelle et technique. |
 
 1 astreinte de fin de semaine et jours fériés. |
 
-Direction de la formation au pilotage et des vols
+Direction de la formation au pilotage et des vols,
 
-Département opérations
+Département Opérations
 
-Subdivision formation avancée (site de Toulouse) |
+Subdivision Formation avancée (site de Toulouse) |
 
 Astreinte opérationnelle et technique. |
 
@@ -114,7 +116,7 @@ Bureau d'enquêtes et d'analyses pour la sécurité de l'aviation civile |
 
 Astreinte enquêtes-accidents (niveau central). |
 
-1 astreinte de semaine et 2 astreintes de fin de semaine. |
+1 astreinte de semaine et 2 astreintes de fin de semaine |
 
 Direction de la stratégie et des ressources de la direction des services de la navigation aérienne |
 
@@ -124,11 +126,11 @@ Direction de la stratégie et des ressources de la direction des services de la 
 
 SDRH |
 
-Astreinte de continuité opérationnelle. |
+Astreinte de continuité opérationnelle |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
-1 astreinte de fin de semaine et jours fériés. |
+1 astreinte de fin de semaine et jours fériés |
 
 Direction des opérations de la direction des services de la navigation aérienne |
 
@@ -144,9 +146,9 @@ Astreinte opérationnelle. |
 
 Echelon central (CDM) |
 
-Astreinte opérationnelle. |
+Astreinte opérationnelle |
 
-1 astreinte de semaine. |
+1 astreinte de semaine |
 
 CESNAC |
 
@@ -186,7 +188,7 @@ Astreinte technique de centrale énergie. |
 
 1 astreinte de semaine. |
 
-Astreinte opérationnelle (BTIV). |
+Astreinte opérationnelle (BTIV) |
 
 1 astreinte de semaine. |
 
@@ -246,15 +248,15 @@ Astreinte opérationnelle (BTIV). |
 
 1 astreinte de semaine. |
 
-Paris - Charles-de-Gaulle (CDM) |
+Paris-Charles-de-Gaulle (CDM) |
 
 Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
 
-Paris - Charles-de-Gaulle |
+Paris-Charles-de-Gaulle |
 
-Astreinte opérationnelle. et technique. |
+Astreinte opérationnelle et technique. |
 
 2 astreintes de semaine. |
 
@@ -272,7 +274,7 @@ Astreinte opérationnelle (aviation générale). |
 
 Organisme d'Orly |
 
-Astreinte technique (pôles ATM et CNS). |
+Astreinte technique (pôles ATM et CNS) |
 
 4 astreintes de fin de semaine et jours fériés. |
 
@@ -298,7 +300,7 @@ Siège |
 
 Astreinte technique. |
 
-1 astreinte de fin de semaine. |
+1 astreinte de fin de semaine |
 
 Siège |
 
@@ -342,11 +344,11 @@ Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
 
-Service technique - Section énergie/climatisation |
+Service technique-Section énergie/climatisation |
 
-Astreinte technique (énergie-climatisation). |
+Astreinte technique (énergie-climatisation) |
 
-1 astreinte de fin de semaine. |
+1 astreinte de fin de semaine et jours fériés. |
 
 SNA Centre-Est |
 
@@ -366,6 +368,12 @@ Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
 
+Lyon |
+
+Astreinte technique (énergie-climatisation). |
+
+1 astreinte de fin de semaine et jours fériés. |
+
 SNA Sud-Est |
 
 |
@@ -378,11 +386,21 @@ Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
 
+Siège |
+
+Astreinte technique centrale énergie. |
+
+1 astreinte de semaine. |
+
 Ajaccio |
 
 Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
+
+Astreinte technique sur situations de panne critique ou totale (MRA : Ajaccio, Figari, sites déportés). |
+
+1 astreinte de fin de semaine et jours fériés. |
 
 Bastia |
 
@@ -390,9 +408,19 @@ Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
 
-Astreinte technique (Bastia, Calvi, antennes avancées). |
+Astreinte technique (Bastia, Calvi, antennes avancées) |
 
-1 astreinte de semaine dans la limite de 12 semaines par an entre le 15 juin et le 15 septembre. |
+1 astreinte de semaine dans la limite de 12 semaines par an entre le 15 juin et le 15 septembre |
+
+Astreinte technique sur situation de panne critique ou totale (Bastia, Calvi, sites déportés). |
+
+1 astreinte de fin de semaine et jours fériés. |
+
+Nice |
+
+Astreinte technique ATM ou CNS sur situation de panne critique ou totale (Nice, Cannes, sites déportés et plateformes aéroportuaires). |
+
+1 astreinte de fin de semaine et jours fériés. |
 
 SNA Sud |
 
@@ -424,7 +452,7 @@ Astreinte technique pour la centrale énergie. |
 
 2 astreintes de semaine. |
 
-SNA Sud - Sud-Est |
+SNA Sud-Sud-Est |
 
 |
 
@@ -454,7 +482,7 @@ Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
 
-Aérodrome de Pointe-à-Pitre - Le Raizet |
+Aérodrome de Pointe-à-Pitre-Le Raizet |
 
 Astreinte opérationnelle. |
 
@@ -524,7 +552,7 @@ DSAC |
 
 Astreinte de direction. |
 
-1 astreinte de semaine. |
+1 astreinte de semaine |
 
 Région Hauts-de-France (Lille, Calais, Le Touquet et Merville) |
 
@@ -558,7 +586,7 @@ Astreinte de contrôle technique d'exploitation. |
 
 DSAC (Bordeaux) |
 
-Astreinte de direction. |
+Astreinte de direction |
 
 1 astreinte de semaine. |
 
@@ -668,7 +696,7 @@ DSAC |
 
 Astreinte de contrôle technique d'exploitation. |
 
-1 astreinte de semaine dans la limite de 26 semaines par an. |
+1 astreinte de semaine dans la limite de 26 semaines par an |
 
 DSAC (Strasbourg) |
 
@@ -678,17 +706,17 @@ Astreinte de direction. |
 
 Région Bourgogne-Franche-Comté (Dijon) |
 
-Astreinte enquêtes-accidents (Bourgogne-Franche-Comté). |
+Astreinte enquêtes-accidents (Bourgogne-Franche-Comté) |
 
 1 astreinte de semaine. |
 
-Région Grand Est (Strasbourg) |
+Région Grand-Est (Strasbourg) |
 
 Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Grand Est (Metz-Nancy-Lorraine) |
+Région Grand-Est (Metz-Nancy-Lorraine) |
 
 Astreinte enquêtes-accidents. |
 
@@ -844,33 +872,31 @@ Astreinte de contrôle technique d'exploitation. |
 
 1 astreinte de semaine dans la limite de 18 semaines par an. |
 
-Tahiti - Faaa |
+Tahiti-Faaa |
 
 Astreinte de direction (SEAC). |
 
 1 astreinte de semaine. |
 
-Tahiti - Faaa |
+Tahiti-Faaa |
 
 Astreinte enquêtes-accidents (Territoire). |
 
 1 astreinte de semaine. |
 
-Tahiti - Faaa |
+Tahiti-Faaa |
 
 Astreinte technique de maintenance. |
 
 1 astreinte de semaine. |
 
-Tahiti - Faaa |
+Tahiti-Faaa |
 
 Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
 
-Service mixte Direction de l'aviation civile
-
-en Nouvelle-Calédonie |
+Service mixte Direction de l'aviation civile en Nouvelle-Calédonie |
 
 |
 
@@ -900,19 +926,13 @@ Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
 
-SEAC |
-
-Astreinte technique de maintenance. |
-
-1 astreinte de semaine. |
-
 Nouméa |
 
-Astreinte technique de centrale énergie. |
+Astreinte technique de centrale énergie |
 
 1 astreinte de semaine. |
 
-Nouméa - La Tontouta |
+Nouméa-La Tontouta |
 
 Astreinte technique de maintenance. |
 
@@ -935,5 +955,11 @@ SEAC |
 Astreinte opérationnelle. |
 
 3 astreintes de semaine. |
+
+SEAC |
+
+Astreinte technique de maintenance. |
+
+1 astreinte de semaine. |
 
 (1) Une astreinte de semaine couvre une période de 7 jours sur 7.
