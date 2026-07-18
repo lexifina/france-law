@@ -4,7 +4,7 @@ ANNEXE IV
 
 RÉFÉRENTIEL D'ÉVALUATION
 
-Brevet professionnel spécialité &laquo;Peintre Applicateur de Revêtements&raquo;
+Brevet professionnel spécialité "Peintre Applicateur de Revêtements"
 
 IV.1. Unités constitutives du diplôme
 
@@ -102,7 +102,7 @@ L'unité étant facultative, elle ne fait pas l'objet d'un enseignement. Néanmo
 
 UF2 : Unité facultative de Mobilité
 
-Les compétences constitutives de l'unité facultative &laquo;mobilité&raquo; figurent en annexe de l'arrêté du 30 août 2019 portant création d'une unité facultative de mobilité et de l'attestation MobilitéPro dans les diplômes du baccalauréat professionnel, du brevet professionnel et du brevet des métiers d'art (JORF du 26 septembre 2019 et BOEN N° 35 du 26 septembre 2019).
+Les compétences constitutives de l'unité facultative "mobilité" figurent en annexe de l'arrêté du 30 août 2019 portant création d'une unité facultative de mobilité et de l'attestation MobilitéPro dans les diplômes du baccalauréat professionnel, du brevet professionnel et du brevet des métiers d'art (JORF du 26 septembre 2019 et BOEN N° 35 du 26 septembre 2019).
 
 Compétences |
 
@@ -288,15 +288,13 @@ IV.2. Règlement d'examen
 
 Spécialité
 
-&laquo;Peintre applicateur
-
-de revêtements&raquo; |
+" Peintre applicateur de revêtements " |
 
 Apprentissage
 
-- en CFA habilité au CCF ;
+-en CFA habilité au CCF ;
 
-- en CFA porté par un EPLE, un GRETA ou un GIP-FCIP assurant toute la formation théorique
+-en CFA porté par un EPLE, un GRETA ou un GIP-FCIP assurant toute la formation théorique
 
 Formation professionnelle continue dans un établissement public |
 
@@ -306,11 +304,9 @@ CFA non habilité
 
 Formation professionnelle continue en établissement privé
 
-Enseignement
+Enseignement à distance |
 
-à distance |
-
-EPREUVES |
+ÉPREUVES |
 
 Unités |
 
@@ -342,9 +338,7 @@ E1 : Préparation d'une intervention et suivi des opérations |
 
 |
 
-Sous-épreuve E11 :
-
-Étude et préparation d'une intervention |
+Sous-épreuve E11 : Étude et préparation d'une intervention |
 
 U11 |
 
@@ -354,7 +348,7 @@ Ponctuel écrit |
 
 30 min (1)
 
-+ 3h30 |
++ 3 h 30 |
 
 CCF |
 
@@ -362,7 +356,7 @@ Ponctuel écrit |
 
 30 min (1)
 
-+ 3h30 |
++ 3 h 30 |
 
 Sous-épreuve E12 : Réalisation d'un projet esthétique |
 
@@ -380,9 +374,7 @@ Ponctuel écrit |
 
 3 h |
 
-Sous-épreuve E13 :
-
-Suivi des réalisations en entreprise |
+Sous-épreuve E13 : Suivi des réalisations en entreprise |
 
 U13 |
 
@@ -418,7 +410,7 @@ E3 : Mise en œuvre et réalisation des travaux de façade |
 
 U3 |
 
-2 |
+3 |
 
 CCF |
 
@@ -442,7 +434,9 @@ Ponctuel écrit et pratique |
 
 CCF |
 
-Ponctuel écrit et pratique |
+Ponctuel écrit
+
+et pratique |
 
 1 h |
 
@@ -458,7 +452,9 @@ Ponctuel écrit et pratique |
 
 CCF |
 
-Ponctuel écrit et pratique |
+Ponctuel écrit
+
+et pratique |
 
 1 h |
 
@@ -494,7 +490,7 @@ Ponctuel oral |
 
 20 min (2) |
 
-Épreuves facultatives (3) |
+Epreuves facultatives (3) |
 
 |
 
@@ -510,7 +506,7 @@ Ponctuel oral |
 
 |
 
-EF1 : Epreuve facultative de Langue vivante |
+EF1 : Epreuve facultative de langue vivante |
 
 UF1 |
 
@@ -526,7 +522,7 @@ Ponctuel oral |
 
 15 min |
 
-EF2 : Epreuve facultative de Mobilité (4) |
+EF2 : Epreuve facultative de mobilité (4) |
 
 UF2 |
 
@@ -548,13 +544,13 @@ Ponctuel oral 20 min |
 
 Le candidat choisit l'une des 4 langues vivantes suivantes : anglais, allemand, italien, espagnol.
 
-(3) Les candidats peuvent en choisir jusqu'à deux (D. 337-105, code de l'éducation) sous réserve qu'elles soient mentionnées dans le présent référentiel à l'annexe &laquo;Unités constitutives du diplôme&raquo;.
+(3) Les candidats peuvent en choisir jusqu'à deux (D. 337-105, code de l'éducation) sous réserve qu'elles soient mentionnées dans le présent référentiel à l'annexe " Unités constitutives du diplôme ".
 
-La langue vivante choisie au titre de l'épreuve facultative de langue est obligatoirement différente de celle choisie ou imposée pour l'épreuve obligatoire. Elle est toujours en mode ponctuel, oral, d'une durée de 15 min maximum dont 5 min. de préparation.
+La langue vivante choisie au titre de l'épreuve facultative de langue est obligatoirement différente de celle choisie ou imposée pour l'épreuve obligatoire. Elle est toujours en mode ponctuel, oral, d'une durée de 15 min maximum, dont 5 min de préparation.
 
 La liste exhaustive des langues est fixée par l'arrêté du 4 juillet 2017 portant définition de l'épreuve, sous réserve de la possibilité d'adjoindre un examinateur compétent au jury.
 
-Seuls les points excédant 10 sont pris en compte pour le calcul de la moyenne générale en vue de l'obtention du diplôme.
+Seuls les points excédants 10 sont pris en compte pour le calcul de la moyenne générale en vue de l'obtention du diplôme.
 
 (4) Les modalités d'évaluation de l'épreuve facultative de mobilité sont définies dans l'arrêté du 30 août 2019 portant création d'une unité facultative de mobilité et de l'attestation MobilitéPro dans les diplômes du baccalauréat professionnel, du brevet professionnel et du brevet des métiers d'art.
 
@@ -562,7 +558,7 @@ IV.3. Définition des épreuves
 
 IV.3.1. Définition des épreuves professionnelles
 
-Chacune des trois unités professionnelles du brevet professionnel spécialité &laquo;peintre applicateur de revêtements&raquo; est constituée d'un ensemble cohérent de compétences. La définition du contenu de ces unités a pour but de préciser, pour chacune d'elles, les principales tâches professionnelles, les compétences et savoirs professionnels à maîtriser selon le contexte d'exécution. Il s'agit à la fois :
+Chacune des trois unités professionnelles du brevet professionnel spécialité "peintre applicateur de revêtements" est constituée d'un ensemble cohérent de compétences. La définition du contenu de ces unités a pour but de préciser, pour chacune d'elles, les principales tâches professionnelles, les compétences et savoirs professionnels à maîtriser selon le contexte d'exécution. Il s'agit à la fois :
 
 - de permettre la mise en correspondance des activités professionnelles et des unités dans le cadre de la validation des acquis de l'expérience (VAE) ;
 
@@ -636,7 +632,7 @@ C1 - S'informer et se documenter |
 
 C2 - Préparer et organiser son activité |
 
-Les indicateurs d'évaluation correspondant aux compétences évaluées figurent dans la rubrique &laquo;Critères d'évaluation de la compétence&raquo; des fiches décrivant les compétences du référentiel de compétences.
+Les indicateurs d'évaluation correspondant aux compétences évaluées figurent dans la rubrique "Critères d'évaluation de la compétence" des fiches décrivant les compétences du référentiel de compétences.
 
 Modes d'évaluation
 
@@ -978,7 +974,7 @@ C10 - Appliquer des produits à effets décoratifs |
 
 C11 - Poser des revêtements muraux et de sol |
 
-Les indicateurs d'évaluation correspondant aux compétences évaluées figurent dans la colonne &laquo;Critères d'évaluation de la compétence&raquo; des fiches décrivant les compétences dans le référentiel de compétences.
+Les indicateurs d'évaluation correspondant aux compétences évaluées figurent dans la colonne "Critères d'évaluation de la compétence" des fiches décrivant les compétences dans le référentiel de compétences.
 
 Modes d'évaluation
 
@@ -1114,7 +1110,7 @@ C13 - Protéger, traiter, décorer les ouvrages usuels du bâtiment |
 
 C14 - Mettre en œuvre des systèmes d'imperméabilisation des façades |
 
-Les indicateurs d'évaluation correspondant aux compétences évaluées figurent dans la rubrique &laquo;Critères d'évaluation de la compétence&raquo; des fiches décrivant les compétences dans le référentiel de compétences.
+Les indicateurs d'évaluation correspondant aux compétences évaluées figurent dans la rubrique "Critères d'évaluation de la compétence" des fiches décrivant les compétences dans le référentiel de compétences.
 
 Modes d'évaluation
 
