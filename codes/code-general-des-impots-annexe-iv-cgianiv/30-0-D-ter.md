@@ -96,7 +96,21 @@ PAC sur eaux grises |
 
 45 |
 
-Pour les pompes à chaleur caractérisées en mode chauffage pour des températures à la sortie de l'échangeur thermique intérieur de 35 degrés Celsius et 55 degrés Celsius selon la norme NF EN 14511, le COP à 45 degrés Celsius peut être déterminé par interpolation linéaire entre ces deux valeurs ;
+Pour les pompes à chaleur caractérisées en mode chauffage pour des températures à la sortie de l'échangeur thermique intérieur de 35 degrés Celsius et 55 degrés Celsius selon la norme NF EN 14511, le COP à 45 degrés Celsius peut être déterminé par interpolation linéaire entre ces deux valeurs.
+
+1° bis Les pompes à chaleur air/air réversibles fixes, destinées à être installées de manière permanente dans les bâtiments, dont le cycle à compression de vapeur est entraîné par un moteur électrique, qui remplissent les conditions suivantes :
+
+a) Pour les pompes à chaleur air/air de puissance thermique nominale inférieure ou égale à 12 kW, la classe d'efficacité énergétique de la pompe à chaleur, déterminée conformément au règlement délégué (UE) n° 626/2011 de la Commission du 4 mai 2011 complétant la directive 2010/30/UE du Parlement européen et du Conseil en ce qui concerne l'indication, par voie d'étiquetage, de la consommation d'énergie des climatiseurs, est supérieure ou égale à A+ dans le cas d'une pompe à chaleur multi-split et A++ dans le cas d'une pompe à chaleur mono-split, tant pour le chauffage (SCOP) que pour le refroidissement (SEER) ;
+
+b) Pour les pompes à chaleur air/air de puissance thermique nominale supérieure à 12 kW, l'efficacité énergétique saisonnière de la pompe à chaleur, déterminée par le règlement européen (UE) 2016/2281 de la Commission du 30 novembre 2016 mettant en œuvre la directive 2009/125/CE du Parlement européen et du Conseil établissant un cadre pour la fixation d'exigences en matière d'écoconception applicables aux produits liés à l'énergie, en ce qui concerne les exigences d'écoconception applicables aux appareils de chauffage à air, aux appareils de refroidissement, aux refroidisseurs industriels haute température et aux ventilo-convecteurs, est supérieure ou égale à :
+
+i) 145 % pour le chauffage et 250 % pour le refroidissement dans le cas d'une pompe à chaleur air/air en toiture ;
+
+ii) 130 % pour le chauffage et 150 % pour le refroidissement dans le cas d'une pompe à chaleur air/air en toiture intégrant le chauffage, le refroidissement, la ventilation, le rafraîchissement par surventilation nocturne et la filtration ;
+
+c) Le fluide frigorigène utilisé par la pompe à chaleur respecte, à la date de signature du devis, strictement les seuils de potentiel de réchauffement planétaire et le calendrier d'interdiction de mise sur le marché applicables en vertu du règlement (UE) 2024/573 du Parlement européen et du Conseil du 7 février 2024 relatif aux gaz à effet de serre fluorés ;
+
+d) La pompe à chaleur peut être connectée à un réseau numérique pour communiquer, transmettre et recevoir les consignes de température sur des plages horaires, en mode chauffage et en mode refroidissement, et pour piloter son mode de fonctionnement.
 
 2° Les équipements de raccordement à un réseau de chaleur ou de froid alimenté majoritairement par des énergies renouvelables ou de récupération ou par une installation de cogénération suivants :
 
