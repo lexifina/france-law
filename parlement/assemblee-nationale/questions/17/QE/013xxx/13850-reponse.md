@@ -1,0 +1,9 @@
+# Réponse à la question n° 13850
+
+- Question : [13850](13850.md) — Question n° 13850 — Dispositif dérogatoire temporaire pour éviter l'abandon des animaux domestiques
+
+## Réponse
+
+*JO du 2026-07-21, page 6865*
+
+Dès l'annonce du conflit au Moyen-Orient, la ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire a engagé un dispositif d'urgence permettant aux ressortissants français se trouvant dans les pays touchés, de rapatrier avec eux leurs chiens ou chats de compagnie. Ce dispositif prévoit ainsi une dérogation ad hoc aux exigences règlementaires, comme par exemple celle de titrage d'anticorps antirabiques d'au moins trois mois avant la date de voyage. Il a été défini spécifiquement pour ce contexte tout en veillant à empêcher toute tentative d'importation illégale qui n'entre pas dans ce cadre, telle que le trafic d'animaux sous couvert d'adoption opportuniste. Il est décrit par ailleurs dans une instruction technique publiée au Bulletin officiel du ministère chargé de l'agriculture, accessible à tout particulier. Enfin, l'arrivée sur le territoire français de ces animaux est encadrée par les directions départementales chargées de la protection des populations du département où les ressortissants s'installent à leur retour et avec l'aide du réseau des vétérinaires praticiens. La publicité de ce dispositif a été faite par communiqué de presse du 12 mars 2026, accessible sur le site internet du ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire au lien « https://agriculture.gouv.fr/conflit-au-moyen-orient-adaptation-jusquau-30-avril-les-conditions-sanitaires-de-retour-des-chiens ». Le Gouvernement et les vétérinaires sont ainsi pleinement engagés dans l'accompagnement du retour en urgence depuis le Moyen-Orient des ressortissants français accompagnés de leur chien ou chat de compagnie.
