@@ -27,3 +27,23 @@ Lorsque le pronom personnel « il » ou « ils » vise l'office ou les offices p
 3.2.   Les références aux notions de direction générale ou de directeur général des offices publics de l'habitat doivent, s'agissant des sociétés de coordination, s'entendre de tout représentant habilité à prendre des décisions sur les sujets visés par les dispositions concernées.
 
 Ainsi, ces deux notions sont respectivement remplacées par les notions plus générales de « Direction » et de « Directeur », étant précisé que la compétence reviendra nécessairement à la direction générale ou au directeur général s'agissant des offices publics de l'habitat.
+
+Avenant n° 2 du 16 juin 2026 (BOCC 2026-30) :
+
+Article 2
+
+Référence aux organismes inclus dans le champ d'application professionnel et territorial de la convention collective nationale des organismes publics et coopératifs de l'habitat social
+
+Afin de mettre à jour en conséquence les dispositions de la convention collective nationale des OPCHS, le terme « organisme(s) » (« de l'organisme », « les organismes », « des organismes », « dans les organismes »…), au pluriel ou au singulier, selon le cas, remplace chaque référence cumulative aux offices publics de l'habitat et sociétés de coordination (« de l'office public de l'habitat, de la société de coordination », « Les offices publics de l'habitat et sociétés de coordination », « des offices publics de l'habitat et sociétés de coordination » « dans les offices publics de l'habitat et sociétés de coordination »…) issue des dispositions de la convention collective nationale du personnel des offices publics de l'habitat et des sociétés de coordination n'ayant pas été modifiée par les accords de convergence précités.
+
+Article 7
+
+Modification du sous-chapitre I du chapitre VIII de la convention collective nationale des organismes publics et coopératifs de l'habitat social
+
+7.1. Les dispositions de la convention collective nationale des organismes publics et coopératifs de l'habitat social sont modifiées concernant l'entretien de parcours professionnel issu de la loi n° 2025-989 du 24 octobre 2025.
+
+En conséquence, les références à « l'entretien professionnel » au sein de la convention collective nationale des organismes publics et coopératifs de l'habitat social sont ainsi remplacées par « l'entretien de parcours professionnel ».
+
+7.3. Les dispositions de la convention collective nationale des organismes publics et coopératifs de l'habitat social sont également modifiées pour tenir compte de la suppression du dispositif de reconversion ou promotion par l'alternance, également dénommé « PRO-A » par la loi n° 2025-989 du 24 octobre 2025.
+
+Ainsi, les références au dispositif de « reconversion ou promotion par alternance » ou « PRO-A » sont supprimées au sein de la convention collective nationale des organismes publics et coopératifs de l'habitat social.
