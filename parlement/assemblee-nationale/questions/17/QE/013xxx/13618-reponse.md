@@ -1,0 +1,9 @@
+# Réponse à la question n° 13618
+
+- Question : [13618](13618.md) — Question n° 13618 — Exonérations fiscales dont bénéficie le Qatar
+
+## Réponse
+
+*JO du 2026-07-21, page 6890*
+
+La France et le Qatar sont liés par une convention fiscale signée le 4 décembre 1990 complétée par un accord sous forme d'échange de lettres du 12 janvier 1993 et modifiée par un avenant du 14 janvier 2008. Elle a également été modifiée par la Convention multilatérale pour la mise en œuvre des mesures relatives aux conventions fiscales pour prévenir l'érosion de la base d'imposition et le transfert des bénéfices. Comme l'ensemble des conventions de notre réseau, la convention franco-qatarie vise à développer les relations économiques avec l'État partenaire en tenant compte des intérêts du Trésor, des enjeux économiques et des besoins de nos entreprises, à lutter contre la fraude et l'évasion fiscale et à garantir la sécurité juridique des contribuables. Elle permet ainsi aux entreprises et aux particuliers français de bénéficier de mécanismes d'élimination de la double imposition et de disposer d'une plus grande sécurité juridique dans leurs relations économiques, favorisant les investisseurs et entreprises des deux États, et notamment les entreprises françaises exerçant une activité au Qatar, qui opèrent dans les domaines de l'énergie, la défense, l'aéronautique ou encore du numérique. En ce qui concerne les stipulations que vous mentionnez explicitement, le rapport remis au Parlement en 2015 faisant état des exonérations d'impôt en application des conventions fiscales conclues par la France en proposait une évaluation. Par ailleurs, il est observé que, par-delà cette stipulation, l'ensemble des pays du Golfe réalise de tels investissements en France, ce qui témoigne plus largement de l'attractivité de notre pays et de notre économie pour les investisseurs internationaux. Le Gouvernement n'envisage donc pas de réexaminer ce dispositif.
