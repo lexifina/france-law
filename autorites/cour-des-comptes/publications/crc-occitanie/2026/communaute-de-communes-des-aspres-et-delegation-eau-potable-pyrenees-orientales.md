@@ -2229,40 +2229,42 @@ Site internet
 
 ## points%20cl%C3%A9s.pdf
 
-Communauté de communes des Aspres et la société
-SAUR (délégataire eau potable)
-La chambre régionale des comptes Occitanie a procédé à une enquête régionale portant
-sur la gestion de la compétence « alimentation en eau potable » par les collectivités
-d’Occitanie.
+Communauté d’agglomération de Carcassonne
+et délégations eau et assainissement
+La chambre régionale des comptes Occitanie a procédé à une enquête régionale portant sur
+la gestion de la compétence « alimentation en eau potable » par les collectivités d’Occitanie.
 Neuf contrôles des comptes et de la gestion concernant des intercommunalités, syndicats,
-communes et les comptes de leurs délégataires de service public ont été menés de 2019 à
-la période la plus récente.
-Un territoire soumis à une pénurie en eau mais des pertes d’eau très importantes, deux fois
-supérieures à la moyenne nationale, dues à des canalisations de distribution très vétustes.
-Un réseau de distribution d’eau étendu, peu performant avec des fuites importantes
-(de l’ordre de 36%)
+commune et les comptes de leurs délégataires de service public ont été menés de 2019 à la
+période la plus récente.
 
-Des investissements massifs qui sont nécessaires pour diminuer les fuites et
-améliorer la qualité de l’eau distribuée
-64 %
-12 770
-0,72 %
-19,5 M€ HT
-+ 21%
-87 M€ HT
+Alors que le territoire connait une pénurie en eau, les canalisations de distribution d’eau
+potable ont des fuites importantes. Tous les usagers ne paient pas le même prix pour l’eau.
+Un territoire présentant un déficit structurel en eau
+Un taux de fuite des réseaux de distribution d’eau en diminution mais encore trop
+élevé de 20%
+Des tarifs pour l’usager demeurant distincts en fonction du mode de gestion de la
+compétence en 2026
+Un recours au levier tarifaire qui serait insuffisant pour faire face aux
+investissements nécessaires au renouvellement des canalisations
+2,99 € et 2,61 €
+65 688
+80 %
+104 M€ (*)
+- 1,2 %
+405 M€ (*)
 CLIQUEZ ICI !
 Nombre d’abonnés en 2024
-Taux de rendement en
-2024
-
-Augmentation du prix de
-l’eau pour 120 m3 entre
-2019 et 2024
-Taux de renouvellement des
-réseaux en 2024
+Prix TTC du service au m3
+pour 120 m3 en 2024,
+en délégation et en régie
+Prix pour 120 m3
+entre 2019 et 2024
+Taux de rendement des
+réseaux de distribution d’eau
+potable en 2024
 Remplacement des
 canalisations de plus de
-100 ans (estimation CRC)
+100 ans (* estimation CRC)
 Remplacement des
-canalisations de plus de
-40 ans (estimation CRC)
+canalisations > 40 ans +
+celles de date inconnue
