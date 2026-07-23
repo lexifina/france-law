@@ -1,8 +1,10 @@
 # Article Annexe II
 
-FORMATIONS AUX SPECIALITÉS OPÉRATIONNELLES ET PROFESSIONNELLES
+ANNEXE II
 
-1° Spécialités et référentiels associés aux formations
+FORMATIONS AUX SPÉCIALITÉS OPÉRATIONNELLES ET PROFESSIONNELLES
+
+1° Spécialités et référentiels associés aux formations :
 
 Les formations aux spécialités ci-après sont dispensées selon les référentiels nationaux d'activités et de compétences ou les guides nationaux de référence suivants :
 
@@ -60,9 +62,13 @@ Spécialités |
 
 Référentiels et GNR |
 
-Conduite (COD) |
+Appareils télépilotés de lutte, d'appui et de secours |
 
-Note d'information du 10 août 1999 |
+|
+
+Conduite et manipulation des véhicules d'incendie et de secours |
+
+Référentiels conduite et manipulation des véhicules d'incendie et de secours |
 
 Encadrement des activités physiques (EAP) |
 
@@ -80,7 +86,7 @@ Systèmes d'information et de communication (SIC) |
 
 Référentiels des systèmes d'information et de communication |
 
-2° Formation aux spécialités autorisées à titre permanent.
+2° Formation aux spécialités autorisées à titre permanent. :
 
 Les organismes de formation mentionnés ci-après sont autorisés à dispenser à titre permanent les niveaux de formations aux spécialités et, le cas échéant, leurs préformations associées, suivants :
 
@@ -104,7 +110,9 @@ Brigade de sapeurs-pompiers de Paris
 
 Bataillon de marins-pompiers de Marseille
 
-Formations militaires de la sécurité civile |
+Brigade des militaires de la sécurité civile
+
+|
 
 Feux de forêts et d'espaces naturels |
 
@@ -150,15 +158,25 @@ Services départementaux et territoriaux d'incendie et de secours
 
 Brigade de sapeurs-pompiers de Paris
 
-Bataillon de marins-pompiers de Marseille |
+Bataillon de marins-pompiers de Marseille
+
+|
 
 SMO1 |
 
 Spécialités professionnelles |
 
-Conduite |
+Conduite et manipulation des véhicules d'incendie et de secours |
 
-COD1 |
+Conducteur des véhicules du SIS
+
+Conducteur et manipulateur des engins pompes
+
+Opérateur de plateforme des moyens élévateurs aériens
+
+Conducteur et manipulateur des moyens élévateurs aériens
+
+Conducteur et manipulateur des véhicules tout terrain |
 
 Etablissement public pour la protection de la forêt méditerranéenne
 
@@ -168,9 +186,9 @@ Brigade de sapeurs-pompiers de Paris
 
 Bataillon de marins-pompiers de Marseille
 
-Formations militaires de la sécurité civile |
+Brigade des militaires de la sécurité civile
 
-COD2 |
+|
 
 Encadrement des activités physiques |
 
@@ -180,7 +198,9 @@ Etablissement public pour la protection de la forêt méditerranéenne
 
 Centre national de la fonction publique territoriale
 
-Services départementaux et territoriaux d'incendie et de secours |
+Services départementaux et territoriaux d'incendie et de secours
+
+|
 
 Formation et développement des compétences |
 
@@ -190,7 +210,7 @@ Ensemble des organismes mentionnés à l'article 13 |
 
 Prévention contre les risques d'incendie et de panique |
 
-Agent de prévention |
+PRV1 |
 
 Ecole nationale supérieurs des officiers de sapeurs-pompiers
 
@@ -200,7 +220,9 @@ Services départementaux et territoriaux d'incendie et de secours
 
 Brigade de sapeurs-pompiers de Paris
 
-Bataillon de marins-pompiers de Marseille |
+Bataillon de marins-pompiers de Marseille
+
+|
 
 Systèmes d'information et de communication |
 
@@ -216,13 +238,15 @@ Brigade de sapeurs-pompiers de Paris
 
 Bataillon de marins-pompiers de Marseille
 
-Formations militaires de la sécurité civile |
+Brigade des militaires de la sécurité civile
+
+|
 
 Opérateur de salle opérationnelle |
 
 Chef de salle opérationnelle |
 
-3° Formations aux spécialités soumises à habilitation de l'organisme de formation.
+3° Formations aux spécialités soumises à habilitation de l'organisme de formation :
 
 Les organismes de formation mentionnés ci-après, après obtention d'une habilitation, sont autorisés à dispenser les niveaux de formations aux spécialités et, le cas échéant leurs préformations associées, suivants :
 
@@ -302,7 +326,9 @@ Concepteur de formation |
 
 Centre national de la fonction publique territoriale
 
-Ecole nationale supérieurs des officiers de sapeurs-pompiers, Etablissement public pour la protection de la forêt méditerranéenne et Formations militaires de la sécurité civile, pour leurs besoins propres |
+Ecole nationale supérieurs des officiers de sapeurs-pompiers, Etablissement public pour la protection de la forêt méditerranéenne et Brigade des militaires de la sécurité civile, pour leurs besoins propres
+
+|
 
 Prévention contre les risques d'incendie et de panique |
 
@@ -322,7 +348,7 @@ Systèmes d'information et de communication |
 
 Commandant des systèmes d'information et de communication |
 
-4° Formations aux spécialités soumises à agrément de l'organisme de formation
+4° Formations aux spécialités soumises à agrément de l'organisme de formation :
 
 Les organismes de formation mentionnés ci-après, après obtention d'un agrément, sont autorisés à dispenser les niveaux de formations aux spécialités et, le cas échéant leurs préformations associées, suivants :
 
@@ -346,7 +372,9 @@ Brigade de sapeurs-pompiers de Paris
 
 Bataillon de marins-pompiers de Marseille
 
-Formations militaires de la sécurité civile |
+Brigade des militaires de la sécurité civile
+
+|
 
 Feux de forêts et d'espaces naturels |
 

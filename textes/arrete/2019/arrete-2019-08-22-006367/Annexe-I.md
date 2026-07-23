@@ -2,7 +2,7 @@
 
 FORMATIONS AUX EMPLOIS ET ACTIVITÉS, OPÉRATIONNELS OU D'ENCADREMENT
 
-1° Formations aux emplois et activités, opérationnels ou d'encadrement, des sapeurs-pompiers professionnels
+1° Formations aux emplois et activités, opérationnels ou d'encadrement, des sapeurs-pompiers professionnels :
 
 Les formations d'intégration et de professionnalisation ci-après sont dispensées aux sapeurs-pompiers professionnels selon les référentiels nationaux suivants :
 
@@ -26,15 +26,39 @@ Officier de garde SPP |
 
 Formation d'intégration du lieutenant de 1° classe |
 
--Officier de garde SPP-Officier d'encadrement SPP |
+- Officier de garde SPP - Officier d'encadrement SPP
+
+- PRV1
+
+- Accompagnateur de proximité |
 
 Formation d'intégration du capitaine |
 
--Officier de garde SPP-Officier d'encadrement SPP-Manageur des risques de sécurité civile SPP |
+- Officier d'encadrement SPP - Manageur des risques de sécurité civile SPP
+
+- PRV 1
+
+- Accompagnateur de proximité |
+
+Formation d'intégration de l'infirmier |
+
+- Officier d'encadrement de sous-direction santé SPP
+
+- Activités spécifiques de l'infirmier |
+
+Formation d'intégration du cadre de santé |
+
+Arrêté du 24 août 2007 relatif à la formation conduisant au brevet d'infirmier d'encadrement de sapeurs-pompiers professionnels |
+
+Formation d'intégration du médecin ou du pharmacien |
+
+- Officier d'encadrement de sous-direction santé SPP
+
+- Activités spécifiques du médecin ou du pharmacien |
 
 Formation d'intégration du colonel |
 
-Arrêté du 4 janvier 2017 relatif à la formation des colonels de sapeurs-pompiers professionnels |
+Colonel de SPP |
 
 Avancement de grade |
 
@@ -64,6 +88,10 @@ Formation de professionnalisation de chef de groupement |
 
 Chef de groupement |
 
+Formation de professionnalisation du cycle supérieur des directeur départemental et directeur départemental adjoint des services d'incendie et de secours |
+
+Directeur départemental et directeur départemental adjoint des services d'incendie et de secours |
+
 Formation de professionnalisation de chef de groupe |
 
 Chef de groupe |
@@ -76,7 +104,11 @@ Formation de professionnalisation de chef de site |
 
 Chef de site |
 
-2° Formations aux emplois et activités, opérationnels ou d'encadrement, des sapeurs-pompiers volontaires
+Formation interministérielle des directeurs de secours médicaux |
+
+Circulaire interministérielle du 20 décembre 2019 relative à la formation interministérielle des directeurs des secours médicaux dans le cadre du dispositif d'organisation de la réponse de sécurité civile (ORSEC) |
+
+2° Formations aux emplois et activités, opérationnels ou d'encadrement, des sapeurs-pompiers volontaires :
 
 Les formations initiales et de perfectionnement ci-après sont dispensées aux sapeurs-pompiers volontaires selon les référentiels nationaux suivants :
 
@@ -94,6 +126,26 @@ Formation initiale du lieutenant et formation initiale du capitaine |
 
 Officier d'encadrement SPV |
 
+Formation initiale de l'infirmier |
+
+Infirmier de SPV |
+
+Formation initiale du médecin ou du pharmacien |
+
+Médecin ou pharmacien de SPV |
+
+Formation initiale du vétérinaire |
+
+Vétérinaire de SPV |
+
+Formation initiale du psychothérapeute |
+
+Psychothérapeute et psychologue de SPV |
+
+Formation initiale du psychologue |
+
+Psychologue de SPV |
+
 Avancement de grade |
 
 Formation de perfectionnement du caporal |
@@ -108,11 +160,11 @@ Formation de perfectionnement de l'adjudant |
 
 Chef d'agrès tout engin SPV |
 
-Formation de perfectionnement du lieutenant et formation de perfectionnement du capitaine |
+Formation de perfectionnement du lieutenant |
 
 Officier d'encadrement SPV |
 
-Formation de perfectionnement du commandant et formation de perfectionnement du lieutenant-colonel |
+Formation de perfectionnement du commandant |
 
 Officier supérieur d'encadrement SPV |
 
@@ -137,3 +189,7 @@ Chef de colonne |
 Formation de perfectionnement de chef de site |
 
 Chef de site |
+
+Formation interministérielle des directeurs de secours médicaux |
+
+Circulaire interministérielle du 20 décembre 2019 relative à la formation interministérielle des directeurs des secours médicaux dans le cadre du dispositif d'organisation de la réponse de sécurité civile (ORSEC) |
