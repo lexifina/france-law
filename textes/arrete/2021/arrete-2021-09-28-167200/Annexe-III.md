@@ -1982,7 +1982,11 @@ AU. I. Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de
 
 10. Dans le cas d'une bonification prévue par le 2° du VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le véhicule ne vérifie pas, au moment de l'achèvement de l'opération, l'ensemble des conditions énoncées à l'alinéa précédent ou ne vérifie pas, au moment de l'achèvement de l'opération, la condition relative au site de fabrication du véhicule et au site de production de la batterie du véhicule mentionnée au 2°, complété par le 5°, du VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie ;
 
-11. Dans le cas d'une bonification prévue par le IV de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le véhicule ne vérifie pas, au moment de l'achèvement de l'opération, la condition relative au site de fabrication du véhicule mentionnée au IV et complétée par le IX.
+11. Dans le cas d'une bonification prévue par le IV de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le véhicule ne vérifie pas, au moment de l'achèvement de l'opération, la condition relative au site de fabrication du véhicule mentionnée au IV et complétée par le IX ;
+
+12. Dans le cas de la bonification au bénéfice des ménages des déciles 6 à 8 prévue au VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, l'attestation sur l'honneur, telle que définie à l'annexe 9, n'est pas complétée et signée, selon le cas, par le bénéficiaire ou son employeur ;
+
+13. Dans le cas de d'un véhicule pris en location et bénéficiant de la bonification au bénéfice des ménages des déciles 6 à 8 qui parcourent plus de 12 000 km par an prévue au VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, la preuve de réalisation n'indique pas la réalisation d'un kilométrage annuel supérieur à 12 000 km.
 
 Les vérifications sont effectuées au lieu, désigné par le bénéficiaire, de disponibilité des pièces nécessaires au contrôle.
 
