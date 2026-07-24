@@ -48,7 +48,7 @@ Requête en poursuite de procédure |
 
 104 |
 
-Délivrance et impression du fascicule |
+Délivrance |
 
 90 |
 
