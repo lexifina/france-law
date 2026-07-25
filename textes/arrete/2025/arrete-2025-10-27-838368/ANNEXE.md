@@ -158,6 +158,20 @@ Ponctuelle |
 
 INSEE |
 
+Enquête auprès des sortants des listes de demandeurs d'emploi France Travail |
+
+Annuelle |
+
+DARES
+
+France Travail |
+
+Enquête annuelle "Surveillance médicale des expositions des salariés aux risques professionnels" (Sumer) |
+
+Annuelle |
+
+DARES |
+
 (*) Voir liste des producteurs.
 
 Services publics et services aux publics |
@@ -232,6 +246,30 @@ Annuelle |
 
 SSMSI |
 
+Dispositif de suivi de l‘étudiant : enquêtes sur les inscriptions et la diplomation des étudiants de l'enseignement supérieur - dont enquêtes :
+
+- SISE (système d'information sur le suivi de l'étudiant) ;
+
+- complémentaire à SISE (ECS, ex enquête 26) ;
+
+- Scolege. |
+
+Annuelle |
+
+SIES |
+
+Enquête sur l'insertion professionnelle des diplômés sortant de l'enseignement supérieur - IPSup |
+
+Annuelle |
+
+SIES |
+
+‍Enquête Panel d'élèves entrés en sixième en 2023 |
+
+Ponctuelle |
+
+DEPP |
+
 (*) Voir liste des producteurs.
 
 Territoires |
@@ -269,6 +307,12 @@ Enquête nationale en Collèges et en Lycées chez les Adolescents sur la Santé
 Ponctuelle |
 
 OFDT |
+
+‍Enquête nationale périnatale |
+
+Ponctuelle |
+
+INSERM |
 
 (*) Voir liste des producteurs.
 
@@ -330,6 +374,12 @@ Intitulé du producteur |
 
 Ministère ou ministère de tutelle le cas échéant |
 
+DARES |
+
+Direction de l'animation de la recherche, des études et des statistiques |
+
+Ministère du travail et des solidarités |
+
 DEPP |
 
 Direction de l'évaluation, de la prospective et de la performance |
@@ -342,17 +392,31 @@ Direction de la recherche, des études, de l'évaluation et des statistiques |
 
 Ministère du travail et des solidarités - Ministère de la santé, des familles, de l'autonomie et des personnes handicapées - Ministère de l'action et des comptes publics |
 
+France Travail |
+
+|
+
+|
+
 ‍Île-de-France Mobilités |
 
 |
 
-|
+Ministère du travail et des solidarités |
 
 INSEE |
 
 Institut national de la statistique et des études économiques |
 
 Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique |
+
+INSERM |
+
+Institut national de la santé et de la recherche médicale |
+
+Ministère de la santé
+
+Ministère de l'enseignement supérieur, de la recherche et de l'espace |
 
 SDES |
 
