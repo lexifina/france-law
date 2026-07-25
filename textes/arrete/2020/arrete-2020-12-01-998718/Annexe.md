@@ -62,7 +62,7 @@ Mastics de vitrier : ≤ 5 kg
 
 Autres mastics :
 
--en conditionnement cartouches : ≤ 0,3 l
+-en conditionnement cartouches : ≤ 0,31 l
 
 -autres types de conditionnement : ≤ 5 kg |
 
@@ -295,7 +295,3 @@ Engrais pour jardin des ménages, à l'exclusion des engrais organiques, des eng
 Liquide : ≤ 5 l
 
 Solide : ≤ 25 kg |
-
-NOTA :
-
-Conformément au IV de l'article 21 de l'ordonnance n° 2025-1247 du 17 décembre 2025, ces dispositions, dans leur rédaction issue de ladite ordonnance, entrent en vigueur le 31 mars 2026.
