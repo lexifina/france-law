@@ -402,6 +402,54 @@ Annuelle |
 
 SSP/ LEMNA/ IFREMER |
 
+Enquête sur la structure des exploitations agricoles en 2026 (ESEA 2026) |
+
+Ponctuelle |
+
+SSP |
+
+Opération statistique sur les usages des produits phytopharmaceutiques en 2026 (Stat'Phyto26) |
+
+Ponctuelle |
+
+SSP |
+
+Enquête sur la sous-traitance dans les entreprises en 2025 |
+
+Ponctuelle |
+
+INSEE |
+
+Enquête sur les prix des consommations intermédiaires nécessaires aux agriculteurs (EPCIA) |
+
+Mensuelle |
+
+SSP |
+
+Pré enquête de rebasement de l'enquête sur les prix des consommations intermédiaires nécessaires aux agriculteurs (EPCIA) |
+
+Ponctuelle |
+
+SSP |
+
+Enquête sur les terres labourables |
+
+Annuelle |
+
+SSP |
+
+Enquête auprès des entreprises créées en 2026 (Système d'information sur les nouvelles entreprises - Sine 2026) |
+
+Ponctuelle |
+
+INSEE |
+
+Enquête statistique sur la filière du médicament en 2025 |
+
+Ponctuelle |
+
+INSEE |
+
 (*) Voir liste des producteurs.
 
 Environnement et développement durable |
