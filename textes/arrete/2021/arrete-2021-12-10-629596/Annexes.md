@@ -82,19 +82,19 @@ TEREOS France
 
 |
 
-73419
+73420
 
 |
 
-67702
+67703
 
 |
 
-60872
+74048
 
 |
 
-355225 |
+368403 |
 
 FR000000000000004
 
@@ -324,23 +324,23 @@ TEREOS France
 
 |
 
-170351
+170353
 
 |
 
-168759
+168763
 
 |
 
-167572
+167577
 
 |
 
-168996
+182358
 
 |
 
-849385
+862758
 
 |
 
@@ -566,23 +566,23 @@ TEREOS France
 
 |
 
-40630
+40631
 
 |
 
-36117
+36119
 
 |
 
-35918
+35920
 
 |
 
-35918
+43431
 
 |
 
-197391
+204909
 
 |
 
@@ -1086,27 +1086,25 @@ DSSMITH PACKAGING CONTOIRE HAMEL
 
 |
 
-16701
+16226 |
+
+16256
 
 |
 
-16731
+16258
 
 |
 
-16344
+16258
 
 |
 
-16344
+16258
 
 |
 
-16344
-
-|
-
-82464 |
+81256 |
 
 FR000000000000052
 
@@ -1266,9 +1264,7 @@ Saint Louis Sucre
 
 |
 
-46437
-
-|
+46437 |
 
 50267
 
@@ -1278,11 +1274,11 @@ Saint Louis Sucre
 
 |
 
-56127
+68166
 
 |
 
-257595
+269634
 
 |
 
@@ -1346,15 +1342,13 @@ CRISTAL UNION
 
 |
 
-40854
+40854 |
+
+58489
 
 |
 
-48351
-
-|
-
-211767
+221905
 
 |
 
@@ -2966,15 +2960,15 @@ THERMODYN SAS
 
 |
 
-371
+242
 
 |
 
-371
+-
 
 |
 
-2404
+1904
 
 |
 
@@ -3108,13 +3102,11 @@ MFPMichelin
 
 |
 
-2033
+1342
 
 |
 
-11386
-
-|
+10695 |
 
 FR000000000000149
 
@@ -3294,13 +3286,11 @@ FR000000000000160
 
 |
 
-TERREAL CHAGNY
+WIENERBERGER Chagny
 
 |
 
-TERREAL
-
-|
+WIENERBERGER France |
 
 8192
 
@@ -6476,11 +6466,11 @@ Saint Louis Sucre
 
 |
 
-49379
+59085
 
 |
 
-256068
+265774
 
 |
 
@@ -6802,11 +6792,9 @@ FR000000000000310
 
 |
 
-Société de Cogénération de Tavaux
+Société de Cogénération de Tavaux |
 
-|
-
-SOLVAY France
+SYENSQO France
 
 |
 
@@ -7266,7 +7254,7 @@ SLV-Ta-EDS2
 
 |
 
-SOLVAY France
+SYENSQO France
 
 |
 
@@ -9916,11 +9904,11 @@ SOLVAY OPERATIONS France
 
 |
 
-313757
+463824
 
 |
 
-1972248
+2122315
 
 |
 
@@ -10024,11 +10012,11 @@ NOVACARB
 
 |
 
-435784
+671468
 
 |
 
-2178920
+2414604
 
 |
 
@@ -10150,27 +10138,23 @@ SAINT GOBAIN PAM CANALISATION
 
 |
 
-285780
-
-|
+285780 |
 
 297867
 
 |
 
-368737
-
-|
+368737 |
 
 273154
 
 |
 
-273154
+250376
 
 |
 
-1498692
+1475914
 
 |
 
@@ -10364,27 +10348,25 @@ STENPA
 
 |
 
-19565
+19265 |
+
+18061
 
 |
 
-19565
+18795
 
 |
 
-19565
+12002
 
 |
 
-19565
+-
 
 |
 
-19565
-
-|
-
-97825
+68123
 
 |
 
@@ -10780,9 +10762,7 @@ Ineos Polymers Sarralbe SAS
 
 |
 
-56312
-
-|
+56312 |
 
 56312
 
@@ -10792,11 +10772,11 @@ Ineos Polymers Sarralbe SAS
 
 |
 
-57939
+56529
 
 |
 
-283683 |
+282273 |
 
 FR000000000000494
 
@@ -11364,11 +11344,11 @@ FR000000000000524
 
 |
 
-COGESTAR 2 - Usine Continental
+DALKIA / site CONTINENTAL à SARREGUEMINES
 
 |
 
-COGESTAR 2
+DALKIA
 
 |
 
@@ -14226,7 +14206,7 @@ Unité de production de biocarburant aérien (BIOJET)
 
 |
 
-TotalEnergie Raffinerie France (TERF)
+TotalEnergie Raffinage France (TERF)
 
 |
 
@@ -14330,11 +14310,11 @@ FR000000000000669
 
 |
 
-SC2M Chaufferie de Melun Montaigu
+Caloria Melun Montaigu
 
 |
 
-SC2M (Société de Chauffage de Melun Montaigu)
+CALORIA
 
 |
 
@@ -14556,15 +14536,13 @@ Sucrerie et Distillerie de SOUPPES OUVRÉ Fils S. A.
 
 |
 
-12222
+12222 |
+
+-
 
 |
 
-12222
-
-|
-
-60628 |
+48406 |
 
 FR000000000000684
 
@@ -14780,11 +14758,11 @@ FR000000000000692
 
 |
 
-TERREAL LES MUREAUX
+Wienerberger Les Mureaux
 
 |
 
-TERREAL
+Wienerberger France
 
 |
 
@@ -17504,27 +17482,27 @@ BUTACHIMIE SNC
 
 |
 
-304471
+411303
 
 |
 
-309641
+404852
 
 |
 
-309641
+404852
 
 |
 
-309641
+275209
 
 |
 
-309641
+305656
 
 |
 
-1543035
+1801872
 
 |
 
@@ -17956,9 +17934,7 @@ CRISTAL UNION
 
 |
 
-16835
-
-|
+16835 |
 
 15391
 
@@ -17972,11 +17948,11 @@ CRISTAL UNION
 
 |
 
-17219
+20582
 
 |
 
-80461 |
+83824 |
 
 FR000000000000842
 
@@ -18740,13 +18716,13 @@ Lafarge Ciments
 
 |
 
-368787
+370260
 
 |
 
-352484 |
+353379 |
 
-1581307
+1583675
 
 |
 
@@ -19200,17 +19176,15 @@ RDM BLENDECQUES
 
 |
 
-18006
+3849
 
 |
 
-18006
+-
 
 |
 
-113975
-
-|
+81812 |
 
 FR000000000000904
 
@@ -19320,13 +19294,9 @@ FR000000000000915
 
 |
 
-ARC France
+Verrerie Arc 1825 |
 
-|
-
-Arc France
-
-|
+Verrerie Arc 1825 |
 
 196258
 
@@ -19448,15 +19418,13 @@ TEREOS France
 
 |
 
-58416
+58416 |
+
+73162
 
 |
 
-59252
-
-|
-
-292916
+306826
 
 |
 
@@ -19536,11 +19504,11 @@ FR000000000000924
 
 |
 
-NOVASCO
+ASCODUNES
 
 |
 
-NOVASCO
+ASCODUNES
 
 |
 
@@ -19576,17 +19544,15 @@ AMPERE ELECTRICITY
 
 |
 
-6626
+5942
 
 |
 
-4846
+4622
 
 |
 
-4199
-
-|
+4199 |
 
 3501
 
@@ -19594,7 +19560,7 @@ AMPERE ELECTRICITY
 
 3418 |
 
-22590
+21682
 
 |
 
@@ -20050,15 +20016,15 @@ TEREOS France
 
 |
 
-79482
+79485
 
 |
 
-75106
+85490
 
 |
 
-407929
+418316
 
 |
 
@@ -22152,11 +22118,11 @@ Heidelberg Materials France Ciments
 
 |
 
-174496
+-
 
 |
 
-872480
+697984
 
 |
 
@@ -24004,13 +23970,11 @@ FR000000000001148
 
 |
 
-TERREAL CHAGNY2
+WIENERBERGER Chagny2
 
 |
 
-TERREAL
-
-|
+WIENERBERGER FRANCE |
 
 10314
 
@@ -26456,13 +26420,11 @@ FR000000000204921
 
 |
 
-ELKEM SILICONES Site de Roussillon
+ELKEM SILICON CHEMISTRY - Roussillon
 
 |
 
-ELKEM Silicones France
-
-|
+ELKEM SILICON CHEMISTRY |
 
 49466
 
@@ -26574,15 +26536,15 @@ MONDELANGE INDUSTRIES
 
 |
 
-2230
+1548
 
 |
 
-2230
+-
 
 |
 
-11120 |
+8208 |
 
 FR000000000205222
 
@@ -26596,9 +26558,7 @@ FERROGLOBE FRANCE
 
 |
 
-113711
-
-|
+113711 |
 
 117909
 
@@ -26612,11 +26572,11 @@ FERROGLOBE FRANCE
 
 |
 
-155064
+118076
 
 |
 
-696612
+659624
 
 |
 
@@ -26680,11 +26640,11 @@ FERROGLOBE FRANCE
 
 |
 
-107994
+83307
 
 |
 
-529409
+504722
 
 |
 
@@ -26762,13 +26722,11 @@ FR000000000205261
 
 |
 
-CAPDEA site d'Assencières
+TEREOS CapDéshy ASSSENCIERES
 
 |
 
-CAPDEA ASSENCIERES
-
-|
+TEREOS CAPDESHY |
 
 6523
 
@@ -26796,13 +26754,11 @@ FR000000000205263
 
 |
 
-CAPDEA site d'Aulnay
+TEREOS CapDéshy AULNAY
 
 |
 
-CAPDEA
-
-|
+TEREOS CAPDESHY |
 
 5687
 
@@ -26830,11 +26786,11 @@ FR000000000205264
 
 |
 
-CAPDEA SITE DE MARIGNY LE CHATEL
+TEREOS CapDéshy MARIGNY LE CHATEL
 
 |
 
-CAPDEA
+TEREOS CAPDESHY
 
 |
 
@@ -27104,11 +27060,11 @@ FR000000000205521
 
 |
 
-TEREOS NUTRION ANIMALE AULNAY AUX PLANCHES
+TEREOS CapDéshy AULNAY AUX PLANCHES
 
 |
 
-TEREOS NUTRITION ANIMALE
+TEREOS CAPDESHY
 
 |
 
@@ -27140,11 +27096,11 @@ FR000000000205522
 
 |
 
-TEREOS NUTRITION ANIMALE ALLEMANCHE
+TEREOS CapDéshy ALLEMANCHE
 
 |
 
-TEREOS NUTRITION ANIMALE
+TEREOS CAPDESHY
 
 |
 
@@ -27176,13 +27132,11 @@ FR000000000205523
 
 |
 
-TEREOS NUTRITION ANIMALE PLEURS
+TEREOS CapDéshy PLEURS
 
 |
 
-TEREOS NUTRITION ANIMALE
-
-|
+TEREOS CAPDESHY |
 
 7173
 
@@ -27210,11 +27164,11 @@ FR000000000205524
 
 |
 
-TEREOS NUTRITION ANIMALE MONTEPREUX
+TEREOS CapDéshy MONTEPREUX
 
 |
 
-TEREOS NUTRITION ANIMALE
+TEREOS CAPDESHY
 
 |
 
@@ -27266,15 +27220,15 @@ Yara France
 
 |
 
-55008
+-
 
 |
 
-55008
+-
 
 |
 
-285789
+175773
 
 |
 
@@ -27768,27 +27722,25 @@ APERAM STAINLESS France
 
 |
 
-32219
+31012
 
 |
 
-37413
+36479 |
+
+31472
 
 |
 
-32220
+24832
 
 |
 
-25272
+23001
 
 |
 
-23107
-
-|
-
-150231
+146796
 
 |
 
@@ -28208,13 +28160,13 @@ Air Liquide Hydrogene
 
 |
 
-4715
+3736
 
 |
 
-3765 |
+- |
 
-21168
+16424
 
 |
 
@@ -28350,11 +28302,9 @@ FR000000000205751
 
 |
 
-SLV-Ta-Specialty Polymers2
+SLV-Ta-Specialty Polymers2 |
 
-|
-
-SOLVAY France
+SYENSQO France
 
 |
 
@@ -30424,11 +30374,9 @@ KNAUF CEILING SOLUTIONS SAS
 
 |
 
-24921
+24921 |
 
-|
-
-31115
+30982
 
 |
 
@@ -30436,11 +30384,11 @@ KNAUF CEILING SOLUTIONS SAS
 
 |
 
-27293
+21863
 
 |
 
-135396
+129833
 
 |
 
@@ -32720,15 +32668,13 @@ MANUFACTORY EVER GRES SAS - MEG
 
 |
 
-19497
+-
 
 |
 
-19497
+- |
 
-|
-
-84777
+45783
 
 |
 
@@ -33090,11 +33036,9 @@ FR000000000209262
 
 |
 
-MP Hygiène - Papeterie d'Annonay
+Wepa Professional France - Annonay |
 
-|
-
-MP Hygiène
+WEPA PROFESSIONAL FRANCE
 
 |
 
@@ -35512,7 +35456,15 @@ CL Dunkerque
 
 |
 
-/
+0
+
+|
+
+0
+
+|
+
+1198
 
 |
 
@@ -35524,15 +35476,7 @@ CL Dunkerque
 
 |
 
-/
-
-|
-
-/
-
-|
-
-/
+1198
 
 |
 
@@ -37342,9 +37286,7 @@ ALTER SERVICES
 
 |
 
-0
-
-|
+532 |
 
 1721
 
@@ -37354,9 +37296,7 @@ ALTER SERVICES
 
 |
 
-3361
-
-|
+3893 |
 
 FR000000000218980
 
@@ -38226,7 +38166,7 @@ DIGITAL MRS6 |
 
 / |
 
-FR-new-006522415 |
+FR000000000233522 |
 
 GEOMARNE
 
@@ -38266,7 +38206,7 @@ EURENCO Sorgues |
 
 / |
 
-FR-new-003014491 |
+FR000000000233300 |
 
 CENTRALE DOMBASLE ENERGIE
 
@@ -38333,6 +38273,86 @@ ELM St Priest
 |
 
 ELM |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-100036937
+
+|
+
+SEGRO URBAN LOGISTICS MR1 |
+
+SEGRO URBAN LOGISTICS MR1 |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-100291078
+
+|
+
+TELEHOUSE INT CORPORATION EUROPE LIMITED |
+
+TELEHOUSE INT CORPORATION EUROPE LIMITED |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-006111084
+
+|
+
+Chaufferie ENGIE papeteries du Léman |
+
+ENGIE ENERGIE SERVICES |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-005501327
+
+|
+
+GLATFELTER SCAER SAS |
+
+GLATFELTER SCAER SAS |
 
 / |
 
