@@ -72,7 +72,7 @@ I.-Autorisation d'investissement :
 
 1° Le ou les contrats de cession de droits de propriété littéraire et artistique des auteurs ;
 
-2° Les coordonnées bancaires du compte spécialement ouvert pour l'œuvre ;
+2° Les certificats d'immatriculation de l'œuvre et d'inscription des contrats aux registres du cinéma et de l'audiovisuel ;
 
 3° Un synopsis détaillé ou un scénario (à fournir uniquement dans le cas d'une demande d'aide majorée).
 
@@ -298,11 +298,11 @@ II-3.1. Documents justificatifs à joindre à l'appui d'une demande d'allocation
 
 2° Un exposé du sujet (Deux pages de synopsis) ;
 
-3° Une lettre d'intention de développement du projet ;
+3° Une note d'intention de développement du projet (une page minimum) ;
 
 4° Un curriculum vitae du réalisateur ainsi que celui du ou des auteurs ;
 
-5° Une copie vidéo de l'œuvre cinématographique précédemment réalisée ouvrant droit à candidature ;
+5° (Abrogé) ;
 
 6° Dans le cas où le projet est initié par plusieurs coauteurs, une lettre d'accord sur la répartition des droits de chacun.
 
@@ -314,21 +314,25 @@ II-4.1. Documents justificatifs à fournir à l'appui d'une demande d'aide à l'
 
 I.-Décision provisoire :
 
-1° Un synopsis, un synopsis développé ou traitement ;
+1° Un synopsis développé ou traitement ;
 
 2° Un résumé (Trois lignes maximum) ;
 
 3° Une note d'intention du ou des auteurs ;
 
+3° bis Eventuellement, cinq à dix pages de séquences dialoguées ;
+
 4° Un curriculum vitae du ou des auteurs et du réalisateur, indiquant notamment leur filmographie (Mettre en évidence les œuvres qui rendent éligible à l'aide à l'écriture) ;
 
 5° Eventuellement, la liste des personnes qui vont collaborer à l'écriture du scénario (Co-auteurs ou consultants) ;
 
-6° Eventuellement, une copie vidéo de la ou des œuvres cinématographiques précédemment réalisées ;
+6° Eventuellement, un lien vidéo de la ou des œuvres cinématographiques précédemment réalisées ;
 
 7° Eventuellement, lorsque le projet est adapté d'une œuvre préexistante, une copie du contrat de cession ou d'option portant sur les droits de propriété littéraire et artistique du ou des auteurs de l'œuvre originaire et/ ou de ses ou de leurs ayants droit ;
 
-8° Eventuellement, dans le cas d'un projet d'œuvre d'animation, des éléments graphiques.
+8° Eventuellement, dans le cas d'un projet d'œuvre d'animation, des éléments graphiques ;
+
+9° Les justificatifs des conditions d'éligibilité de l'auteur selon que la demande porte sur l'écriture d'un premier scénario ou non ;
 
 II.-Décision d'attribution à titre définitif :
 
@@ -342,175 +346,127 @@ II-4.2. Liste des festivals pris en compte pour l'attribution d'une aide à l'é
 
 1° Sélection en compétition dans l'un des festivals suivants en France (catégorie 1) :
 
--Aix-en-Provence : Festival Tout Courts ;
+Aix-en-Provence : Festival Tout Courts
 
--Alès : Festival Itinérances ;
+Alès : Festival Itinérances
 
--Angers : Festival Premiers Plans ;
+Alpe d'Huez : Festival International du Film de Comédie
 
--Annecy : Festival du Film d'animation ;
+Angers : Festival Premiers Plans
 
--Aubagne : Festival International du Film ;
+Annecy : Festival du Film d'animation
 
--Belfort : Festival Entrevues ;
+Aubagne : Festival International du Film
 
--Brest : Festival Européen du Film Court ;
+Belfort : Festival Entrevues
 
--Brive : Festival du moyen métrage de Brive ;
+Biarritz : Fipadoc et Nouvelles Vagues
 
--Caen : 5 jours Tout Court ;
+Bordeaux : Festival International du Film Indépendant (FIFIB)
 
--Cannes : Festival International du Film/ Quinzaine des Réalisateurs/ Semaine Internationale de la Critique ;
+Brest : Festival Européen du Film Court
 
--Clermont-Ferrand : Festival International du Court Métrage ;
+Brive : Festival du moyen métrage de Brive
 
--Créteil : Festival International de Films de Femmes ;
+Cannes : Festival International du Film/Quinzaine des Cinéastes/Semaine Internationale de la Critique
 
--Douarnenez : Festival de Cinéma ;
+Clermont-Ferrand : Festival International du Court Métrage
 
--Gardanne : Festival Cinématographique d'Automne ;
+Créteil : Festival International de Films de Femmes
 
--Grenoble : Festival du Court Métrage en plein air ;
+Douarnenez : Festival de Cinéma
 
--Lille : Rencontres audiovisuelles ;
+Gardanne : Festival Cinématographique d'Automne
 
--Marseille : Festival International du Documentaire (FID) ;
+Gérardmer : Festival international du film fantastique
 
--Metz : Rencontres Européennes de Court Métrage ;
+Grenoble : Festival du Court Métrage en plein air
 
--Meudon : Festival du Court Métrage d'Humour ;
+Lille : Rencontres audiovisuelles
 
--Montpellier : Festival International du Film Méditerranéen ;
+Lussas : Etats généraux du documentaire
 
--Pantin : Festival international du Film Court ;
+Marseille : Festival International du Documentaire (FID)
 
--Paris : Cinéma du réel/ Paris tout court ;
+Meudon : Festival du Court Métrage d'Humour
 
--Vendôme : Festival Images en Région ;
+Montpellier : Festival International du Film Méditerranéen
 
--Villeurbanne : Festival du Film Court ;
+Pantin : Festival international du Film Court
+
+Paris : Cinéma du réel/Paris Courts Devant/Chéries-Chéris
+
+Rennes : Festival national du film d'animation
+
+Strasbourg : Festival européen du film fantastique
+
+Villeurbanne : Festival du Film Court ;
 
 2° Sélection en compétition dans l'un des festivals étrangers suivants (catégorie 1) :
 
-a) Espagne :
+Allemagne : Berlin/Berlinale/Dresden/Oberhausen/Hambourg/Mannheim/Stuttgart Trickfilm/Leipzig (DOK)
 
--Bilbao ;
+Angleterre : Leeds
 
--Barcelone Alternativa ;
+Argentine : Mar del Plata International Film Festival, Bafici (Buenos Aires)
 
--Valence ;
+Australie : Melbourne/Sydney ‘Festival du Film'
 
--Valladolid ;
+Autriche : Festival de Vienne (Viennale)
 
-b) Allemagne :
+Belgique : Le festival de court-métrage de Bruxelles/Namur/Festival international du film fantastique de Bruxelles/Festival d'animation Bruxelles (Anima)
 
--Berlin, Berlinale ;
+Brésil : Rio de Janeiro
 
--Dresden ;
+Burkina Faso : Fespaco
 
--Oberhausen ;
+Canada : Ottawa/Toronto/Montréal Nouveau Cinéma/Festival International de Film Fantasia de Montréal/Festival international du film d'animation d'Ottawa
 
--Hambourg ;
+Colombie : le Festival International du film de Carthagène
 
--Mannheim ;
+Corée du Sud : Festival international du film de Busan
 
--Stuttgart, Trickfilm ;
+Croatie : Festival du film d'animation de Zagreb (Animafest)
 
-c) Belgique :
+Danemark : Odense/Festival international du film de Copenhague (CPH : DOX)
 
--Bruxelles, Oh, ce court ! ;
+Ecosse : Festival international d'Édimbourg
 
--Namur ;
+Espagne : Bilbao/Barcelone Alternativa/Valence/Valladolid/Festival du film fantastique de Stiges/Festival international du film de San Sebastian/Festival International du film de Gijon
 
-d) Irlande :
+Etats-Unis : Festival international du film de Palm Springs/Sundance Festival Films/Festival du film indépendant d'Aspen/Festival de Cleveland/Festival Tribeca de New York/Festival International de Rhode Island
 
--Cork ;
+Finlande : Tampere
 
-e) Pologne :
+Grèce : Drama
 
--Cracovie ;
+Iran : Téhéran
 
-f) Grèce :
+Irlande : Festival du film de Cork (Corona)
 
--Drama ;
+Italie : Rome Arcipelago/Venise/Sienne
 
-g) Portugal :
+Japon : Festival international du film d'animation de Hiroshima/Festival de Sapporo/Festival international du film de Tokyo (Short shorts)
 
--Espinho, Cinanima ;
+Mexique : Festival Internacional de Cine en Guadalajara (FICG), Morelia
 
--Vila do Conde ;
+Pays-Bas : Festival international du film de Rotterdam
 
--Fundao, Imago ;
+Pologne : Festival international du court-métrage & du documentaire de Cracovie
 
-h) Suisse :
+Portugal : Espinho Cinanima/Vila do Conde/Festival de Lisbonne (IndieLisboa)/Festival International du Film documentaire de Lisbonne (Doclisboa)
 
--Genève, Cinéma Tout Écran ;
+République Tchèque : Karlovy Vary International Film Festival
 
--Locarno ;
+Russie : Festival international du documentaire, du court-métrage et du film d'animation de Saint-Pétersbourg
 
-i) Ukraine :
+Suède : Uppsala
 
--Kiev, Molodist ;
+Suisse : Genève/Cinéma Tout Écran/Locarno
 
-j) Angleterre :
+Turquie : Festival international du film d'Istanbul
 
--Leeds ;
-
-k) Australie :
-
--Melbourne ;
-
--Sydney, Festival du Film ;
-
-l) Canada :
-
--Ottawa ;
-
--Toronto ;
-
--Montréal, Nouveau Cinéma ;
-
-m) Danemark :
-
--Odense ;
-
-n) Italie :
-
--Rome, Arcipelago ;
-
--Venise ;
-
--Sienne ;
-
-o) Russie :
-
--Saint-Petersbourg ;
-
-p) Brésil :
-
--Rio de Janeiro ;
-
-q) Finlande :
-
--Tampere ;
-
-r) Iran :
-
--Téhéran ;
-
-s) Pays-Bas :
-
--Rotterdam, Festival International du Film ;
-
-t) Suède :
-
--Uppsala ;
-
-u) Etats-Unis :
-
--Palm Springs ;
-
--Sundance Festival Films.
+Ukraine : Kiev Molodist .
 
 II-4.3. Documents justificatifs à fournir à l'appui d'une demande d'aide à la réécriture de scénario
 
@@ -526,7 +482,7 @@ I.-Décision provisoire :
 
 4° Un curriculum vitae du ou des auteurs et du réalisateur, indiquant notamment leur filmographie ;
 
-5° Eventuellement, une copie vidéo de la ou des œuvres cinématographiques précédemment réalisées ;
+5° Eventuellement, un lien vidéo de la ou des œuvres cinématographiques précédemment réalisées ;
 
 6° Le cas échéant, selon la nature de l'œuvre et du support disponible, une copie sous forme d'exemplaire papier ou de fichier numérique des œuvres théâtrales, radiophoniques ou littéraires, ou un lien vers ces œuvres ;
 
@@ -534,7 +490,9 @@ I.-Décision provisoire :
 
 8° Eventuellement, dans le cas d'un projet d'œuvre d'animation, des éléments graphiques ;
 
-9° Le scénario de l'œuvre cinématographique présenté sous forme de continuité dialoguée.
+9° Le scénario de l'œuvre cinématographique présenté sous forme de continuité dialoguée ;
+
+9° bis Les justificatifs des conditions d'éligibilité de l'auteur selon que la demande porte sur la réécriture d'un premier scénario ou non ;
 
 Lorsque la demande d'aide à la réécriture est présentée par une entreprise de production, le dossier de demande comprend également :
 
@@ -558,37 +516,39 @@ II-4.4. Documents justificatifs à fournir à l'appui d'une demande d'aide au d�
 
 1° Le curriculum vitae du ou des dirigeants et, le cas échéant, du responsable du développement des projets ;
 
-2° La filmographie complète de l'entreprise de production, avec le cas échéant les sélections dans les principaux festivals et les prix obtenus, la date de sortie en salle et les résultats d'exploitation (Le nombre de spectateurs) ;
+2° La présentation de l'entreprise de production et sa filmographie complète, avec le cas échéant les sélections dans les principaux festivals et les prix obtenus, la date de sortie en salle et les résultats d'exploitation (Le nombre de spectateurs) ;
 
-3° Une note d'intention précisant les perspectives artistiques et financières dans lesquelles s'inscrit la politique de production et de développement de la société et mentionnant le cas échéant les accords de développement et de production passés avec des partenaires privés ou publics ;
+3° Une note de production présentant :
 
-4° Un plan de financement du développement du projet mentionnant, notamment, les aides déjà obtenues, les accords de financement passés avec des partenaires privés ou publics sur ce projet et le montant d'aide sollicité auprès du Centre national du cinéma et de l'image animée ;
+- les perspectives artistiques du ou des projets en précisant, notamment, le travail d'écriture envisagé ;
 
-5° Un calendrier prévisionnel de développement du projet ;
+- la stratégie financière dans laquelle s'inscrit la politique d'accompagnement des auteurs, de développement et de production de la société en général et des projets présentés, en mentionnant le cas échéant les accords de développement et de production passés avec des partenaires privés ou publics ;
+
+4° Un plan de financement du développement du ou des projets mentionnant, notamment, les aides déjà obtenues, les accords de financement passés avec des partenaires privés ou publics sur ce ou ces projets et le montant d'aide sollicité auprès du Centre national du cinéma et de l'image animée ;
+
+5° Un calendrier prévisionnel de développement du ou des projets ;
 
 6° Eventuellement, les premiers éléments financiers concernant la production de l'œuvre et, notamment, une estimation du coût de l'œuvre ;
 
-7° Un résumé (Cinq à six lignes) ;
+7° Un résumé de chaque projet (Cinq à six lignes) ;
 
-8° Un synopsis (Cinq à six pages) ;
+8° Un synopsis de chaque projet (deux pages) ;
 
-9° Une note d'intention présentant le projet dans ses aspects artistiques et précisant, notamment, le travail d'écriture envisagé ;
+9° (Abrogé) ;
 
 10° Le curriculum vitae du ou des auteurs, scénaristes, dialoguistes, adaptateurs et réalisateurs ;
 
-11° Pour les projets de film d'animation, une présentation de la partie graphique du projet constituée d'une note sur les techniques employées, des éléments graphiques sur les personnages et les décors ainsi que de tout document de nature à informer la commission sur les aspects artistiques du projet ;
+11° Pour les projets de film d'animation, une présentation de la partie graphique du projet constituée d'une note sur les techniques employées, des éléments graphiques sur les personnages et les décors ainsi que de tout document de nature à informer la commission sur les aspects artistiques du projet. Pour les autres projets, une présentation d'éléments visuels peut être jointe ;
 
-12° Eventuellement, lorsque le projet est adapté d'une œuvre littéraire préexistante, deux exemplaires de cette œuvre ;
+12° (Abrogé) ;
 
-13° Les justificatifs des dépenses déjà effectuées (Notes de droits d'auteur, relevés bancaires attestant des paiements) ;
+13° Les justificatifs des dépenses déjà effectuées (Notes de droits d'auteur, factures d'achats de droits) ;
 
 14° Une copie des contrats de cession ou d'option portant sur les droits de propriété littéraire et artistique du ou des auteurs du scénario et de toute personne collaborant à l'écriture, avec la justification de leur inscription au registre public du cinéma et de l'audiovisuel ;
 
-15° Pour l'attribution de l'allocation directe mentionnée au 1° de l'article 212-12, une copie des contrats de coproduction ou de codéveloppement ou une copie du mandat de présentation de la demande ;
+15° (Abrogé) ;
 
-16° Pour l'attribution de l'allocation directe mentionnée au 2° de l'article 212-12, le contrat d'achat de droit de diffusion relatif à une œuvre cinématographique de courte durée produite avec le réalisateur associé au projet présenté ;
-
-17° Pour l'attribution de l'allocation directe mentionnée au 3° de l'article 212-12, une copie du contrat portant sur les droits de propriété littéraire et artistique du compositeur de musique originale.
+16° Pour l'attribution de l'allocation directe mentionnée à l'article 212-12, le contrat d'achat de droit de diffusion relatif à une œuvre cinématographique de courte durée produite avec le réalisateur associé au projet présenté ou un justificatif de sélection en festival de catégorie 1.
 
 II-5. Aides financières automatiques à la distribution des œuvres cinématographiques de longue durée
 
@@ -920,6 +880,6 @@ II-11.1. Documents justificatifs à joindre à l'appui d'une demande d'aide
 
 NOTA :
 
-Conformément à l'article 33 de la délibération n° 2025/CA/14 du 26 juin 2025 (NOR : MICK2520155X), ces dispositions, dans leur rédaction résultant de ladite délibération, s'appliquent aux demandes d'aides adressées au Centre national du cinéma et de l'image animée à compter du 1er janvier 2026.
+Conformément au premier alinéa de l'article 41 de la délibération n° 2026/CA/15 du 7 juillet 2026, ces dispositions, dans leur rédaction issue du I de l'article 39 de ladite délibération, s'appliquent aux demandes d'autorisation d'investissement adressées au Centre national du cinéma et de l'image animée à compter du 1er janvier 2027 ou, si elle est postérieure, à compter de la date de la décision de la Commission européenne autorisant la modification du régime d'aides.
 
-Conformément à l'article 6 de la délibération n° 2025/CA/34 du 2 décembre 2025, ces dispositions, dans leur rédaction résultant de ladite délibération, s'appliquent aux œuvres cinématographiques dont les prises de vues débutent à compter du 1er janvier 2026.
+Conformément au premier alinéa de l'article 41 de la délibération n° 2026/CA/15 du 7 juillet 2026, ces dispositions, dans leur rédaction issue du II à VI de l'article 39 de ladite délibération, s'appliquent aux demandes d'aides à la conception, aux demandes d'aides à l'écriture et à la réécriture de scénario pour l'obtention de la décision provisoire et aux demandes d'aides au développement de projets, adressées au Centre national du cinéma et de l'image animée à compter du 15 novembre 2026.
