@@ -1,0 +1,9 @@
+# Réponse à la question n° 15340
+
+- Question : [15340](15340.md) — Question n° 15340 — Mise à l'ordre du jour de la PPL n° 1539
+
+## Réponse
+
+*JO du 2026-07-28, page 7174*
+
+La proposition de loi visant à clarifier la définition des activités agricoles pour les entrepreneurs de travaux forestiers vise à modifier l'article L. 311-1 du code rural et de la pêche maritime afin que soient réputées être des activités agricoles les « activités de stockage et de première transformation du bois, lorsque ces dernières sont assurées par des entrepreneurs de travaux forestiers inscrits au registre des actifs agricoles sous réserve que ces activités portent exclusivement sur des produits issus de cycles biologiques ». Après analyse, une telle modification de l'article L. 311-1 du code rural et de la pêche maritime est susceptible d'avoir des conséquences dont l'ampleur est difficile à mesurer. En effet, l'article L. 311-1 du code rural et de la pêche maritime sert de référence à de nombreux autres cadres législatifs. Intégrer les activités de stockage et de première transformation du bois dans cet article soumettra ces activités à toutes les législations ou réglementations qui prennent l'article L. 311-1 comme périmètre. Cela pourrait alors avoir des effets de bord importants, non maîtrisés et insoupçonnés, par exemple concernant la délivrance des aides de la politique agricole commune (PAC) ou encore en matière de foncier, notamment concernant le contrôle des structures. Une étude d'impact apparaît donc être un préalable indispensable pour identifier, mesurer et éviter ces potentiels externalités négatives. C'est pourquoi le Gouvernement invite plutôt l'auteur de la proposition à lui préciser les difficultés rencontrées qu'il aimerait pouvoir traiter, ce qui pourrait alors potentiellement permettre de cibler plus directement la réglementation qui poserait problème.
