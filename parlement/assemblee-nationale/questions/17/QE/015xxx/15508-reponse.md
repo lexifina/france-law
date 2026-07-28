@@ -1,0 +1,9 @@
+# Réponse à la question n° 15508
+
+- Question : [15508](15508.md) — Question n° 15508 — Réouverture de la gare de Roquebrune-sur-Argens
+
+## Réponse
+
+*JO du 2026-07-28, page 7194*
+
+Le Gouvernement est pleinement engagé pour améliorer les mobilités du quotidien et favoriser le report modal dans la région Provence-Alpes-Côte d'Azur – Sud, notamment sur l'axe Marseille – Vintimille, particulièrement exposé à la saturation du réseau de transports. Le projet de ligne nouvelle Provence Côte d'azur (LNPCA) constitue à ce titre une priorité nationale pour moderniser le réseau ferroviaire et offrir des alternatives durables et performantes à la voiture individuelle. Ainsi, l'État participe au financement et veille au bon avancement de ce projet, aux côtés de la région Provence-Alpes-Côte d'Azur et de toutes les collectivités locales et avec SNCF Réseau et SNCF Gares & Connexions, maîtres d'ouvrage du projet. Les travaux de la phase 1 ont pleinement commencé en 2026 et sa mise en service est prévue à l'horizon 2030. Les études de la phase 2 se poursuivent comme prévu pour un horizon de livraison à 2035. Cependant, la réouverture de la gare de Roquebrune-sur-Argens ne fait pas partie du programme des phases 1 et 2, seules déclarées d'utilité publique en 2022. L'opportunité de cette réouverture, qui implique d'importantes études et des financements lourds, relève de perspectives de plus long terme. Ainsi, c'est dans le cadre des phases 3 et 4 du projet LNPCA, et des futures concertations territoriales et débats publics qui accompagneront leur définition dans les années à venir, que l'opportunité technique et socio-économique de ce projet pourra être pleinement étudiée en lien étroit avec la région Provence-Alpes-Côte d'Azur, autorité organisatrice des transports, et les collectivités locales concernées.
