@@ -24,7 +24,9 @@ Installations classées pour la protection de l'environnement (ICPE)
 
 1. Installations classées pour la protection de l'environnement |
 
-a) Installations mentionnées à l'article L. 515-28 du code de l'environnement, à l'exception des élevages intensifs de volailles ou de porcs mentionnés par la rubrique 3660 de la nomenclature des installations classées pour la protection de l'environnement. |
+a) Installations mentionnées à l'article L. 515-28 du code de l'environnement, à l'exception des élevages intensifs de volailles ou de porcs mentionnés par la rubrique 3660 de la nomenclature des installations classées pour la protection de l'environnement.
+
+|
 
 a) Autres installations classées pour la protection de l'environnement soumises à autorisation.
 
@@ -36,9 +38,13 @@ d) Les essais d'injection et de soutirage de CO2 en formation géologique d'une 
 
 |
 
-b) Création d'établissements entrant dans le champ de l'article L. 515-32 du code de l'environnement, et modifications faisant entrer un établissement dans le champ de cet article (*). |
+b) Création d'établissements entrant dans le champ de l'article L. 515-32 du code de l'environnement, et modifications faisant entrer un établissement dans le champ de cet article (*).
 
-c) Carrières soumises à autorisation mentionnées par la rubrique 2510 de la nomenclature des installations classées pour la protection de l'environnement et leurs extensions supérieures ou égales à 25 ha. |
+|
+
+c) Carrières soumises à autorisation mentionnées par la rubrique 2510 de la nomenclature des installations classées pour la protection de l'environnement et leurs extensions supérieures ou égales à 25 ha.
+
+|
 
 d) Parcs éoliens soumis à autorisation mentionnés par la rubrique 2980 de la nomenclature des installations classées pour la protection de l'environnement. |
 
@@ -52,13 +58,21 @@ e) Elevages intensifs mentionnés par la rubrique 3660 de la nomenclature des in
 
 |
 
-f) Stockage géologique de CO 2 soumis à autorisation mentionnés par la rubrique 2970 de la nomenclature des installations classées pour la protection de l'environnement, à l'exception des essais d'injection et de soutirage en formation géologique d'une quantité inférieure à 100 kilotonnes, lorsqu'ils sont réalisés pendant la phase de recherche. |
+f) Stockage géologique de CO2 soumis à autorisation mentionnés par la rubrique 2970 de la nomenclature des installations classées pour la protection de l'environnement, à l'exception des essais d'injection et de soutirage en formation géologique d'une quantité inférieure à 100 kilotonnes, lorsqu'ils sont réalisés pendant la phase de recherche.
 
-g) Usines intégrées de première fusion de la fonte et de l'acier. |
+|
 
-h) Installations d'élimination des déchets dangereux, tels que définis à l'article 3, point 2, de la directive 2008/98/ CE du Parlement européen et du Conseil du 19 novembre 2008 relative aux déchets, par incinération, traitement chimique, tel que défini à l'annexe I, point D 9, de ladite directive, ou mise en décharge. |
+g) Usines intégrées de première fusion de la fonte et de l'acier.
 
-i) Installations destinées à l'extraction de l'amiante ainsi qu'au traitement et à la transformation de l'amiante et de produits contenant de l'amiante, à la production d'amiante et à la fabrication de produits à base d'amiante. |
+|
+
+h) Installations d'élimination des déchets dangereux, tels que définis à l'article 3, point 2, de la directive 2008/98/ CE du Parlement européen et du Conseil du 19 novembre 2008 relative aux déchets, par incinération, traitement chimique, tel que défini à l'annexe I, point D 9, de ladite directive, ou mise en décharge.
+
+|
+
+i) Installations destinées à l'extraction de l'amiante ainsi qu'au traitement et à la transformation de l'amiante et de produits contenant de l'amiante, à la production d'amiante et à la fabrication de produits à base d'amiante.
+
+|
 
 Installations nucléaires de base (INB)
 
@@ -80,7 +94,9 @@ Installations soumises à une autorisation de création ou une autorisation de p
 
 |
 
-Stockage de déchets radioactifs |
+Stockage de déchets radioactifs
+
+|
 
 4. Forages nécessaires au stockage de déchets radioactifs. |
 
@@ -112,7 +128,7 @@ b) Construction de gares et haltes, plates-formes et de terminaux intermodaux.
 
 6. Infrastructures routières (les ponts, tunnels et tranchées couvertes supportant des infrastructures routières doivent être étudiés au titre de cette rubrique).
 
-On entend par " route " une voie destinée à la circulation des véhicules à moteur, à l'exception des pistes cyclables, des voies vertes et des voies destinées aux engins d'exploitation et d'entretien des parcelles.
+On entend par "route" une voie destinée à la circulation des véhicules à moteur, à l'exception des pistes cyclables, des voies vertes et des voies destinées aux engins d'exploitation et d'entretien des parcelles.
 
 |
 
@@ -144,7 +160,7 @@ b) Gares de tramways, de métros aériens et souterrains, de funiculaires. |
 
 8. Aérodromes.
 
-On entend par " aérodrome " : un aérodrome qui correspond à la définition donnée par la convention de Chicago de 1944 constituant l'Organisation de l'aviation civile internationale (annexe 14).
+On entend par "aérodrome" : un aérodrome qui correspond à la définition donnée par la convention de Chicago de 1944 constituant l'Organisation de l'aviation civile internationale (annexe 14).
 
 |
 
@@ -184,7 +200,7 @@ Ouvrages de canalisation, de reprofilage et de régularisation des cours d'eau s
 
 -consolidation ou protection des berges, par des techniques autres que végétales vivantes sur une longueur supérieure ou égale à 200 m ;
 
--installations, ouvrages, travaux ou activités, dans le lit mineur d'un cours d'eau, étant de nature à détruire les frayères, les zones de croissance ou les zones d'alimentation de la faune piscicole, des crustacés et des batraciens, ou dans le lit majeur d'un cours d'eau, étant de nature à détruire les frayères de brochet pour la destruction de plus de 200 m 2 de frayères ;
+-installations, ouvrages, travaux ou activités, dans le lit mineur d'un cours d'eau, étant de nature à détruire les frayères, les zones de croissance ou les zones d'alimentation de la faune piscicole, des crustacés et des batraciens, ou dans le lit majeur d'un cours d'eau, étant de nature à détruire les frayères de brochet pour la destruction de plus de 200 m2 de frayères ;
 
 -installations, ouvrages, travaux ou activités conduisant à la dérivation d'un cours d'eau sur une longueur supérieure ou égale à 100 m.
 
@@ -232,7 +248,7 @@ a) Projets d'hydraulique agricole y compris projets d'irrigation et de drainage 
 
 b) Projets d'hydraulique agricole nécessitant l'assèchement, la mise en eau, l'imperméabilisation, le remblaiement de zones humides ou de marais, la zone asséchée ou mise en eau étant d'une surface supérieure ou égale à 1 ha. |
 
-c) Projets d'irrigation nécessitant un prélèvement supérieur ou égal à 8 m 3/ h dans une zone où des mesures permanentes de répartition quantitative ont été instituées. |
+c) Projets d'irrigation nécessitant un prélèvement supérieur ou égal à 8 m3/ h dans une zone où des mesures permanentes de répartition quantitative ont été instituées. |
 
 17. Dispositifs de captage et de recharge artificielle des eaux souterraines (telles que définies à l'article 2.2 de la directive 2000/60/ CE). |
 
@@ -246,9 +262,9 @@ c) Dispositifs de captage des eaux souterraines en nappe d'accompagnement :
 
 -d'une capacité totale maximale supérieure ou égale à 1 000 m 3/ heure ou à 5 % du débit du cours d'eau ou, à défaut, du débit global d'alimentation du canal ou du plan d'eau ;
 
--lorsque le débit du cours d'eau en période d'étiage résulte, pour plus de moitié, d'une réalimentation artificielle. Toutefois, en ce qui concerne la Seine, la Loire, la Marne et l'Yonne, le seuil à utiliser est une capacité de prélèvement supérieure à 80 m 3/ heure.
+-lorsque le débit du cours d'eau en période d'étiage résulte, pour plus de moitié, d'une réalimentation artificielle. Toutefois, en ce qui concerne la Seine, la Loire, la Marne et l'Yonne, le seuil à utiliser est une capacité de prélèvement supérieure à 80 m3/ heure.
 
-d) Dispositifs de captage des eaux souterraines en zone où des mesures permanentes de répartition quantitative instituées ont prévu l'abaissement des seuils, lorsque la capacité totale est supérieure ou égale à 8 m 3/ heure.
+d) Dispositifs de captage des eaux souterraines en zone où des mesures permanentes de répartition quantitative instituées ont prévu l'abaissement des seuils, lorsque la capacité totale est supérieure ou égale à 8 m3/ heure.
 
 |
 
@@ -256,7 +272,7 @@ d) Dispositifs de captage des eaux souterraines en zone où des mesures permanen
 
 |
 
-Tous dispositifs dont le prélèvement est supérieur ou égal à 30 m 3 par heure d'eau de mer. |
+Tous dispositifs dont le prélèvement est supérieur ou égal à 30 m3 par heure d'eau de mer. |
 
 19. Rejet en mer. |
 
@@ -272,7 +288,7 @@ Tous travaux, ouvrages et aménagements réalisés en vue de l'exploitation d'ea
 
 21. Barrages et autres installations destinées à retenir les eaux ou à les stocker. |
 
-Barrages et autres installations destinées à retenir les eaux ou à les stocker de manière durable lorsque le nouveau volume d'eau ou un volume supplémentaire d'eau à retenir ou à stocker est supérieur ou égal à 1 million de m 3 ou lorsque la hauteur au-dessus du terrain naturel est supérieure ou égale à 20 mètres.
+Barrages et autres installations destinées à retenir les eaux ou à les stocker de manière durable lorsque le nouveau volume d'eau ou un volume supplémentaire d'eau à retenir ou à stocker est supérieur ou égal à 1 million de m3 ou lorsque la hauteur au-dessus du terrain naturel est supérieure ou égale à 20 mètres.
 
 |
 
@@ -280,9 +296,9 @@ Barrages et autres installations destinées à retenir les eaux ou à les stocke
 
 a) Barrages de classes B et C pour lesquels le nouveau volume d'eau ou un volume supplémentaire d'eau à retenir ou à stocker est inférieur à 1 million de m 3.
 
-b) Plans d'eau permanents dont la superficie est supérieure ou égale à 3 ha pour lesquels le nouveau volume d'eau ou un volume supplémentaire d'eau à retenir ou à stocker est inférieur à 1 million de m 3.
+b) Plans d'eau permanents dont la superficie est supérieure ou égale à 3 ha pour lesquels le nouveau volume d'eau ou un volume supplémentaire d'eau à retenir ou à stocker est inférieur à 1 million de m3.
 
-c) Réservoirs de stockage d'eau " sur tour " (château d'eau) d'une capacité égale ou supérieure à 1 000 m 3.
+c) Réservoirs de stockage d'eau "sur tour" (château d'eau) d'une capacité égale ou supérieure à 1 000 m3.
 
 d) Installations et ouvrages destinés à retenir les eaux ou à les stocker, constituant un obstacle à la continuité écologique ou à l'écoulement des crues, entraînant une différence de niveau supérieure ou égale à 50 cm pour le débit moyen annuel de la ligne d'eau entre l'amont et l'aval du barrage ou de l'installation.
 
@@ -304,15 +320,15 @@ Dans les deux cas, les transvasements d'eau potable amenée par canalisation son
 
 |
 
-a) Ouvrages servant au transvasement de ressources hydrauliques entre bassins fluviaux lorsque cette opération vise à prévenir d'éventuelles pénuries d'eau et que le volume annuel des eaux transvasées est supérieur ou égal à 100 millions de m 3. |
+a) Ouvrages servant au transvasement de ressources hydrauliques entre bassins fluviaux lorsque cette opération vise à prévenir d'éventuelles pénuries d'eau et que le volume annuel des eaux transvasées est supérieur ou égal à 100 millions de m3. |
 
-Ouvrages servant au transvasement des ressources hydrauliques entre bassins fluviaux non mentionnés dans la colonne précédente dont le débit est supérieur ou égal à 1 m ³/ s. |
+Ouvrages servant au transvasement des ressources hydrauliques entre bassins fluviaux non mentionnés dans la colonne précédente dont le débit est supérieur ou égal à 1 m ³/s. |
 
-b) Dans tous les autres cas, ouvrages servant au transvasement de ressources hydrauliques entre bassins fluviaux lorsque le débit annuel moyen, sur plusieurs années, du bassin de prélèvement dépasse 2 000 millions de m 3 et que le volume des eaux transvasées dépasse 5 % de ce débit. |
+b) Dans tous les autres cas, ouvrages servant au transvasement de ressources hydrauliques entre bassins fluviaux lorsque le débit annuel moyen, sur plusieurs années, du bassin de prélèvement dépasse 2 000 millions de m3 et que le volume des eaux transvasées dépasse 5 % de ce débit. |
 
 24. Système de collecte et de traitement des eaux résiduaires.
 
-On entend par " un équivalent habitant (EH) " : la charge organique biodégradable ayant une demande biochimique d'oxygène en cinq jours (DB05) de 60 grammes d'oxygène par jour.
+On entend par "un équivalent habitant (EH)" : la charge organique biodégradable ayant une demande biochimique d'oxygène en cinq jours (DB05) de 60 grammes d'oxygène par jour.
 
 |
 
@@ -334,17 +350,25 @@ a) Dragage et/ ou rejet y afférent en milieu marin :
 
 -dont la teneur des sédiments extraits est comprise entre les niveaux de référence N1 et N2 pour l'un des éléments qui y figurent :
 
-i) et, sur la façade métropolitaine Atlantique-Manche-mer du Nord et lorsque le rejet est situé à 1 kilomètre ou plus d'une zone conchylicole ou de cultures marines dont le volume maximal in situ dragué au cours de douze mois consécutifs est supérieur ou égal à 50 000 m 3 ;
+i) et, sur la façade métropolitaine Atlantique-Manche-mer du Nord et lorsque le rejet est situé à 1 kilomètre ou plus d'une zone conchylicole ou de cultures marines dont le volume maximal in situ dragué au cours de douze mois consécutifs est supérieur ou égal à 50 000 m3 ;
 
-ii) et, sur les autres façades ou lorsque le rejet est situé à moins de 1 km d'une zone conchylicole ou de cultures marines dont le volume maximal in situ dragué au cours de douze mois consécutifs est supérieur ou égal à 5 000 m 3 ;
+ii) et, sur les autres façades ou lorsque le rejet est situé à moins de 1 km d'une zone conchylicole ou de cultures marines dont le volume maximal in situ dragué au cours de douze mois consécutifs est supérieur ou égal à 5 000 m3
 
--dont la teneur des sédiments extraits est inférieure ou égale au niveau de référence N1 pour l'ensemble des éléments qui y figurent et dont le volume in situ dragué au cours de douze mois consécutifs est supérieur ou égal à 500 000 m 3.
+;
+
+-dont la teneur des sédiments extraits est inférieure ou égale au niveau de référence N1 pour l'ensemble des éléments qui y figurent et dont le volume in situ dragué au cours de douze mois consécutifs est supérieur ou égal à 500 000 m3.
 
 b) Entretien d'un cours d'eau ou de canaux, à l'exclusion de l'entretien mentionné à l'article L. 215-14 du code de l'environnement réalisé par le propriétaire riverain, le volume des sédiments extraits étant au cours d'une année :
 
--supérieure à 2 000 m 3 ;
+-supérieure à 2 000 m
 
--inférieure ou égal à 2 000 m 3 dont la teneur des sédiments extraits est supérieure ou égale au niveau de référence S1.
+3
+
+;
+
+-inférieure ou égal à 2 000 m3
+
+dont la teneur des sédiments extraits est supérieure ou égale au niveau de référence S1.
 
 |
 
@@ -424,7 +448,7 @@ Augmentation de puissance de plus de 20 % des installations existantes.
 
 30. Installations photovoltaïques de production d'électricité (hormis celles sur toitures, ainsi que celles sur ombrières situées sur des aires de stationnement) |
 
-Installations d'une puissance égale ou supérieure à 1 MWc, à l'exception des installations sur ombrières |
+Installations d'une puissance égale ou supérieure à 3 MWc, à l'exception des installations sur ombrières |
 
 Installations d'une puissance égale ou supérieure à 300 kWc |
 
@@ -498,7 +522,9 @@ a) Travaux et constructions créant une emprise au sol au sens de l'article R. *
 
 a) Travaux et constructions qui créent une surface de plancher au sens de l'article R. 111-22 du code de l'urbanisme ou une emprise au sol au sens de l'article R. * 420-1 du même code supérieure ou égale à 10 000 m2 ; |
 
-b) Opérations d'aménagement dont le terrain d'assiette est supérieur ou égal à 10 ha ; |
+b) Opérations d'aménagement dont le terrain d'assiette est supérieur ou égal à 10 ha ;
+
+|
 
 |
 
@@ -516,7 +542,7 @@ b) Opérations d'aménagement dont le terrain d'assiette est compris entre 5 et 
 
 40. Villages de vacances et aménagements associés. |
 
-Villages de vacances et aménagements associés dont les travaux créent une surface de plancher supérieure ou égale à 40 000 m 2 ou dont le terrain d'assiette couvre une superficie supérieure ou égale 10 hectares. |
+Villages de vacances et aménagements associés dont les travaux créent une surface de plancher supérieure ou égale à 40 000 m2 ou dont le terrain d'assiette couvre une superficie supérieure ou égale 10 hectares. |
 
 Villages de vacances et aménagements associés dont les travaux créent une surface de plancher supérieure ou égale 10 000 m 2 ou dont le terrain d'assiette couvre une superficie supérieure ou égale 3 ha. |
 
@@ -552,7 +578,7 @@ c) Installations et aménagements associés permettant d'enneiger une superficie
 
 |
 
-Pour la rubrique 43, est considéré comme " site vierge " un site non accessible gravitairement depuis les remontées mécaniques ou du fait de la difficulté du relief, ou accessible gravitairement depuis les remontées mécaniques mais ne revenant pas gravitairement sur une piste de ski ou un départ de remontée mécanique du même domaine skiable au sens de l'article R. 122-10 du code de l'urbanisme. (1) |
+Pour la rubrique 43, est considéré comme "site vierge" un site non accessible gravitairement depuis les remontées mécaniques ou du fait de la difficulté du relief, ou accessible gravitairement depuis les remontées mécaniques mais ne revenant pas gravitairement sur une piste de ski ou un départ de remontée mécanique du même domaine skiable au sens de l'article R. 122-10 du code de l'urbanisme. (1) |
 
 44. Equipements sportifs, culturels ou de loisirs et aménagements associés. |
 
@@ -618,4 +644,4 @@ Toute création ou extension.
 
 NOTA :
 
-Conformément au deuxième alinéa de l'article 9 du décret n° 2026-146 du 2 mars 2026, ces dispositions, dans leur rédaction issue de l'article 2 du décret précité, s'appliquent à compter de l'entrée en vigueur dudit décret, soit le 4 mars 2026.
+Conformément au II de l'article 18 du décret n° 2026-674 du 27 juillet 2026, ces dispositions, dans leur rédaction issue du I de l'article précité, sont applicables aux projets pour lesquels la première autorité compétente pour autoriser le projet ou l'autorité chargée de l'examen au cas par cas sont saisies à compter de la publication dudit décret, à savoir le 28 juillet 2026.
