@@ -1,6 +1,6 @@
 # Article 242 nonies L
 
-Lorsque les factures sont échangées par l'intermédiaire de deux plateformes de dématérialisation partenaires ou de la même plateforme de dématérialisation partenaire, les données de facturation sont transmises au portail public de facturation par celle de l'émetteur dans un délai de vingt-quatre heures à compter du dépôt de la facture électronique sur cette plateforme dans des conditions prévues par arrêté du ministre chargé du budget.
+Les données de facturation sont transmises à l'administration par la plateforme agréée de l'émetteur dans un délai de vingt-quatre heures à compter du dépôt de la facture électronique sur cette plateforme dans des conditions prévues par arrêté du ministre chargé du budget.
 
 NOTA :
 

@@ -1,16 +1,16 @@
 # Article 242 nonies E
 
-Les opérateurs de plateformes de dématérialisation partenaires sont tenus de proposer les services suivants :
+Les plateformes agréées sont tenues de proposer les services suivants :
 
 1° Permettre à leurs utilisateurs de saisir, déposer, émettre ou transmettre leurs factures électroniques dans des conditions de nature à en garantir l'authenticité de l'origine, l'intégrité du contenu et la lisibilité, ainsi que les données mentionnées aux articles 242 nonies J et 242 nonies P ;
 
 2° Effectuer les contrôles mentionnés à l'article 242 nonies K et identifier les destinataires des factures électroniques au moyen de l'annuaire central ;
 
-3° Fournir et mettre à jour les informations relatives à leurs utilisateurs nécessaires au fonctionnement de l'annuaire central ;
+3° Fournir et mettre à jour les informations relatives à leurs utilisateurs nécessaires au fonctionnement de l'annuaire central dans le respect des conditions prévues par l'article 242 nonies E bis ;
 
-4° Assurer la transmission des factures électroniques aux plateformes de dématérialisation partenaires choisies par leurs destinataires ou au portail public de facturation, selon les modalités d'interopérabilité définies à l'article 242 nonies I et dans des conditions de nature à en garantir l'authenticité de l'origine, l'intégrité du contenu et la lisibilité à compter de leur émission jusqu'à la fin de la période de conservation ;
+4° Assurer la transmission des factures électroniques aux plateformes agréées choisies par leurs destinataires, selon les modalités d'interopérabilité définies à l'article 242 nonies I et dans des conditions de nature à en garantir l'authenticité de l'origine, l'intégrité du contenu et la lisibilité à compter de leur émission jusqu'à la fin de la période de conservation ;
 
-5° Recevoir et mettre à disposition de leurs destinataires les factures électroniques adressées par les autres plateformes de dématérialisation partenaires ou le portail public de facturation ;
+5° Recevoir et mettre à disposition de leurs destinataires les factures électroniques adressées par les autres plateformes agréées ;
 
 6° Assurer la gestion des statuts de traitement des factures électroniques en garantissant :
 
@@ -18,11 +18,11 @@ a) La mise à disposition à leurs utilisateurs des informations relatives à ce
 
 b) La possibilité pour leurs utilisateurs de mettre à jour les informations relatives aux statuts de traitement lorsqu'il y a lieu ;
 
-c) La transmission des informations relatives aux statuts de traitement au portail public de facturation ainsi qu'aux plateformes de dématérialisation partenaires des parties aux transactions ;
+c) La transmission des informations relatives aux statuts de traitement à l'administration ainsi qu'aux plateformes agréées des parties aux transactions ;
 
-7° Extraire les données de facturation destinées à l'administration fiscale en application des dispositions du II de l'article 289 bis du code général des impôts et en assurer la transmission au portail public de facturation dans les conditions et modalités prévues aux articles 242 nonies J à 242 nonies L ;
+7° Extraire les données de facturation destinées à l'administration fiscale en application des dispositions de l'article 289 E du code général des impôts et en assurer la transmission à l'administration dans les conditions et modalités prévues aux articles 242 nonies J à 242 nonies L ;
 
-8° Recueillir, extraire les données relatives aux opérations mentionnées aux articles 290 et 290 A du code général des impôts et en assurer la transmission au portail public de facturation dans les conditions et modalités prévues aux articles 242 nonies M à 242 nonies P.
+8° Recueillir, extraire les données relatives aux opérations mentionnées aux articles 290 et 290 A du code général des impôts et en assurer la transmission à l'administration dans les conditions et modalités prévues aux articles 242 nonies M à 242 nonies P.
 
 Les modalités d'application du présent article sont précisées par arrêté du ministre chargé du budget.
 

@@ -8,19 +8,21 @@ I. - Pour l'application de l'article 290 A du code général des impôts, les do
 
 3° La date d'encaissement effectif ;
 
-4° Le montant encaissé, par taux d'imposition de la taxe sur la valeur ajoutée ;
+4° Le montant encaissé en euros, par taux d'imposition de la taxe sur la valeur ajoutée ;
 
 5° Pour les opérations donnant lieu à facture, le numéro de facture.
 
 Un arrêté du ministre chargé du budget définit les modalités de transmission de ces données.
 
-II. - Lors de la transmission des données de paiement, les opérateurs de plateformes de dématérialisation partenaires et le portail public de facturation procèdent aux contrôles permettant de s'assurer de la complétude des données attendues sous une forme structurée.
+II. - Lors de la transmission des données de paiement, les plateformes agréées procèdent aux contrôles permettant de s'assurer de la complétude des données attendues sous une forme structurée.
 
 III. - L'assujetti communique les données mentionnées au I :
 
-1° Lorsqu'il est soumis aux régimes d'imposition prévus au 2 de l'article 287, au 1° du I de l'article 298 bis ou à l'article 302 septies A du code général des impôts, à raison d'au moins une transmission par mois ;
+1° Lorsqu'il est soumis aux régimes d'imposition prévus au 2 de l'article 287, au 1° du I de l'article 298 bis ou à l'article 302 septies A du code général des impôts, à raison d'une transmission par mois ;
 
-2° Lorsqu'il bénéficie de la franchise en base prévue à l'article 293 B du même code ou du régime de remboursement forfaitaire prévu aux articles 298 quater et 298 quinquies de ce code, à raison d'au moins une transmission tous les deux mois.
+2° Lorsqu'il bénéficie de la franchise en base prévue à l'article 293 B du même code ou du régime de remboursement forfaitaire prévu aux articles 298 quater et 298 quinquies de ce code, à raison d'une transmission tous les bimestres civils.
+
+Le nombre et la fréquence des transmissions s'entendent pour chacune des plateformes agréées choisies par l'assujetti.
 
 Un arrêté du ministre chargé du budget fixe les échéances de ces transmissions.
 

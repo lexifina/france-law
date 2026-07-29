@@ -4,7 +4,7 @@ I. - Pour les transactions mentionnées aux I et II de l'article 290 du code gé
 
 1° Son numéro d'identification mentionné au 1° du I de l'article 242 nonies A ;
 
-2° La période au titre de laquelle la transmission est effectuée, ou, pour les opérations donnant lieu à une facture électronique, la date de la facture ;
+2° La période au titre de laquelle la transmission est effectuée ;
 
 3° La mention “option pour le paiement de la taxe d'après les débits” lorsqu'il y a lieu ;
 
@@ -18,17 +18,13 @@ c) Livraisons de biens et prestations de services réalisées par des assujettis
 
 d) Opérations donnant lieu à l'application des régimes prévus au e du 1 de l'article 266 et aux articles 268 et 297 A du même code ;
 
-5° Par taux d'imposition, le montant total hors taxe et le montant de la taxe correspondante ;
+5° Par taux d'imposition, la base d'imposition totale hors taxe et le montant de la taxe correspondante ;
 
 6° Le montant total de la taxe due en France en application des articles 258 à 259 D du même code. Celui-ci doit être exprimé en euros pour les transactions établies en devise étrangère ;
 
 7° La devise ;
 
-8° La date des transactions ;
-
-9° Pour les opérations ne donnant pas lieu à une facture électronique, le nombre de transactions quotidiennes ;
-
-10° Pour les opérations donnant lieu à une facture électronique, le numéro de facture.
+8° La date des transactions.
 
 II. - Pour les transactions mentionnées aux I et II de l'article 290 du code général des impôts autres que celles réalisées avec des personnes non assujetties, les données attendues de l'assujetti sont celles mentionnées à l'article 242 nonies J. En l'absence de numéro d'identification prévu au 1° du I de l'article 242 nonies A, la facture comporte un identifiant défini par arrêté du ministre chargé du budget.
 

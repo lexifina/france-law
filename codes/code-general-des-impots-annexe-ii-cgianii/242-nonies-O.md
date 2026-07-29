@@ -2,13 +2,17 @@
 
 L'assujetti communique conformément au III de l'article 290 du code général des impôts les données mentionnées à l'article 242 nonies M :
 
-1° Lorsqu'il est soumis au régime réel normal mensuel d'imposition prévu au 2 de l'article 287 du même code, à raison d'au moins trois transmissions par mois ;
+1° Lorsqu'il est soumis au régime réel normal mensuel d'imposition prévu au 2 de l'article 287 du même code, à raison de trois transmissions par mois ;
 
-2° Lorsqu'il est soumis au régime réel normal trimestriel d'imposition prévu au 2 de l'article 287 du même code, à raison d'au moins une transmission par mois ;
+2° Lorsqu'il est soumis au régime réel normal trimestriel d'imposition prévu au 2 de l'article 287 du même code, à raison d'une transmission par mois ;
 
-3° Lorsqu'il est soumis aux régimes simplifiés d'imposition prévus au 1° du I de l'article 298 bis et à l'article 302 septies A du même code, à raison d'au moins une transmission par mois ;
+3° Lorsqu'il est soumis aux régimes simplifiés d'imposition prévus au 1° du I de l'article 298 bis et à l'article 302 septies A du même code, à raison d'une transmission par mois ;
 
-4° Lorsqu'il bénéficie de la franchise en base prévue à l'article 293 B du même code ou du régime de remboursement forfaitaire prévu aux articles 298 quater et 298 quinquies de ce code, à raison d'au moins une transmission tous les deux mois.
+4° Lorsqu'il bénéficie de la franchise en base prévue à l'article 293 B du même code ou du régime de remboursement forfaitaire prévu aux articles 298 quater et 298 quinquies de ce code, à raison d'une transmission tous les bimestres civils.
+
+Le nombre et la fréquence des transmissions s'apprécient au niveau de chacune des plateformes agréées choisies par l'assujetti.
+
+En l'absence de transactions mentionnées aux I et II de l'article 290 du code général des impôts, aucune transmission n'est requise de la part de l'assujetti.
 
 Un arrêté du ministre chargé du budget fixe les échéances de ces transmissions.
 
