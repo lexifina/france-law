@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260508737
+
+- Question : [SEQ260508737](seq260508737.md) — Application de l'article L. 132-6 du code de l'action sociale et des familles
+
+## Réponse
+
+*Justice, JO du 2026-07-30, page 3785*
+
+Dans un souci de renforcer la protection des obligés alimentaires, le législateur a créé des décharges automatiques de l'obligation alimentaire à l'égard du créancier qui s'appliquent de plein droit, par simple effet de la loi, sauf décision contraire du juge. L'article L. 132-6 du code de l'action sociale et des familles prévoit notamment que les enfants sont dispensés automatiquement, sous réserve d'une décision contraire du juge, de fournir une aide, à l'occasion de toute demande d'aide sociale, lorsqu'ils ont été retirés de leur milieu familial par décision judiciaire durant une période d'au moins trente-six mois cumulés au cours des dix-huit premières années de leur vie, ou lorsque l'un des parents est condamné pour un crime ou agression sexuelle commis sur l'autre parent Les litiges en matière familiale sont jugés en chambre du conseil, c'est-à-dire hors la présence du public (article 1074 du code de procédure civile). Cette absence de publicité est d'ordre public (article 446 du code de procédure civile) afin de protéger la vie privée des parties. Ce régime juridique protecteur de la vie privée des parties fait ainsi obstacle à ce que le contenu des décisions du juge aux affaires familiales figure au sein d'un fichier qui pourrait être consultable par des tiers institutionnels. En outre, la création d'un tel fichier ne paraît pas non plus répondre aux exigences de nécessité et de proportionnalité en termes de protection des données à caractère personnel. La création d'un fichier national répertoriant les personnes dispensées d'obligations alimentaires paraît donc difficilement envisageable.
