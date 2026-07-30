@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250705486
+
+- Question : [SEQ250705486](seq250705486.md) — Pratiques anticoncurrentielles des assureurs
+
+## Réponse
+
+*PME, commerce, artisanat, tourisme et pouvoir d'achat, JO du 2026-07-30, page 3789*
+
+Le secteur de la réparation automobile fait l'objet d'une attention toute particulière de la part du Gouvernement. La loi n° 2014-344 relative à la consommation du 17 mars 2014 a prévu que le choix du réparateur (garagiste, mécanicien, carrossier) relève de l'assuré et non pas de l'assureur. En outre, en application de l'article L. 211-5-2 du code des assurances, un assureur ne peut interdire contractuellement à un assuré de céder sa créance d'indemnité d'assurance à un tiers. L'assuré peut ainsi éviter l'avance des frais, même lorsqu'il se rend dans un garage ne faisant pas partie du réseau de professionnels agréés par l'assureur. Pour autant, les assureurs ont la possibilité d'organiser des réseaux agréés de réparateurs auxquels les assurés peuvent faire appel. A cet égard, l'Autorité de la concurrence a déjà pu approuver le principe de telles procédures d'agrément par les assureurs, sous réserve que les critères d'accès soient objectifs, transparents et non discriminatoires. Des fédérations du secteur de la réparation ont partagé la crainte que leurs adhérents subissent des différenciations de traitement entre réparateurs agréés et non agréés ou encore les pratiques susceptibles de porter atteinte à l'indépendance des experts en automobile. Les signalements afférents peuvent être transmis à l'Autorité de la concurrence et aux services de la DGCCRF qui sont chargés de vérifier le respect du cadre juridique précité et de contrôler les pratiques anti-concurrentielles. A ce titre, la DGCCRF engage régulièrement des enquêtes nationales dans le secteur de la réparation automobile pour vérifier le respect des règles de protection des consommateurs et détecter d'éventuels indices de pratiques anti-concurrentielles
