@@ -128,6 +128,16 @@ Brevet de technicien supérieur agricole " technico-commercial ",
 
 Brevet de technicien supérieur agricole " viticulture-œnologie ",
 
+- brevet de technicien supérieur agricole “agronomie et cultures durables” ;
+
+- brevet de technicien supérieur “ACS'AGRI : Analyse, Conduite et Stratégie de l'entreprise agricole” ;
+
+- brevet de technicien supérieur agricole “développement et animation de projets territoriaux” ;
+
+- brevet de technicien supérieur agricole “métiers de l'élevage : développement, production, conseil” ;
+
+- brevet de technicien supérieur agricole “métiers du végétal : alimentation, ornement et environnement”.
+
 Brevet de technicien supérieur " agroéquipement " délivré par le ministère chargé de l'éducation nationale,
 
 Brevet de technicien supérieur " techniques et services en matériel agricole " délivré par le ministère chargé de l'enseignement supérieur,
@@ -188,19 +198,11 @@ Licences professionnelles portant les mentions suivantes, telles que prévues pa
 
 -productions animales ;
 
--productions végétales.
+-productions végétales ;
 
-Diplôme d'établissement ayant obtenu un grade licence, tel que prévu par l'arrêté du 27 janvier 2020 relatif au cahier des charges des grades universitaires de licence et de master :
+- diplôme national de premier cycle en sciences et techniques de l'agronomie dénommé “bachelor agro”, toutes mentions, à l'exception de la mention “sciences et techniques de l'agronomie pour la formation” ;
 
--Institut polytechnique UniLaSalle-bachelor en sciences et ingénierie-agro-agribusiness durable ;
-
--Institut polytechnique UniLaSalle-bachelor en sciences et ingénierie-agriculture, numérique et technologies embarquées ;
-
--Ecole d'ingénieur Purpan-bachelor en science et ingénierie-filières agricoles et agroalimentaires durables ;
-
--Ecole supérieur d'agricultures d'Angers-bachelor science et ingénierie-agroécologie et systèmes alimentaires ;
-
--Institut supérieur d'agriculture de Lille (Junia Isa)-bachelor en sciences et ingénierie, spécialité transition numérique, énergétique et environnementale.
+- bachelors en sciences et ingénierie dans les domaines de l'agriculture ou de l'agroalimentaire des établissements d'enseignement supérieur privés à but non lucratif relevant de l'article L. 813-10 du code rural et de la pêche maritime, accrédités à délivrer le titre d'ingénieur diplômé.
 
 3.2. Titres et certificats
 
