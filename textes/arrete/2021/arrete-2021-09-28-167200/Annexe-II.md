@@ -2,17 +2,15 @@
 
 TAUX MINIMAUX DE CONTRÔLES SATISFAISANTS APPLICABLES AUX OPÉRATIONS STANDARDISÉES D'ÉCONOMIES D'ÉNERGIE ENGAGÉES À COMPTER DU 1ER JANVIER 2022
 
-Référence de la fiche
+Référence de la fiche d'opération
 
-d'opération standardisée |
+standardisée |
 
 Taux minimal de contrôles satisfaisants appliqué aux opérations réalisées |
 
 Type de contrôles |
 
-Applicable
-
-aux opérations engagées |
+Applicable aux opérations engagées |
 
 AGRI-TH-104 |
 
@@ -50,7 +48,17 @@ Par contact |
 
 Sur le lieu des opérations |
 
-A compter du 01/01/2025 |
+Entre le 01/01/2025 et le 31/12/2026 |
+
+30 % (en sus des contrôles sur le lieu, ci-dessus) |
+
+Par contact |
+
+20 % |
+
+Sur le lieu des opérations |
+
+A compter du 01/01/2027 |
 
 30 % (en sus des contrôles sur le lieu, ci-dessus) |
 
@@ -92,15 +100,25 @@ Par contact |
 
 Sur le lieu des opérations |
 
-A compter du 01/01/2025 |
+Entre le 01/01/2025 et le 31/12/2026 |
 
 30 % (en sus des contrôles sur le lieu, ci-dessus) |
 
 Par contact |
 
-BAR-TH-174, BAR-TH-175
+20 % |
 
-|
+Sur le lieu des opérations |
+
+A compter du 01/01/2027 |
+
+30 % (en sus des contrôles sur le lieu, ci-dessus) |
+
+Par contact |
+
+BAR-TH-174,
+
+BAR-TH-175 |
 
 100 % |
 
@@ -144,7 +162,21 @@ Par contact |
 
 Sur le lieu des opérations |
 
-A compter du 01/01/2025 |
+Entre le 01/01/2025 et le 31/12/2026 |
+
+30 % (en sus des contrôles sur le lieu, ci-dessus) |
+
+Par contact |
+
+|
+
+20 % |
+
+Sur le lieu des opérations |
+
+A compter du 01/01/2027 |
+
+|
 
 30 % (en sus des contrôles sur le lieu, ci-dessus) |
 
@@ -198,9 +230,7 @@ Sur le lieu des opérations |
 
 Entre le 01/01/2026 et le 31/12/2026 |
 
-30 % (en sus des contrôles
-
-sur le lieu, ci-dessus) |
+30 % (en sus des contrôles sur le lieu, ci-dessus) |
 
 Par contact |
 
@@ -252,7 +282,17 @@ Par contact |
 
 Sur le lieu des opérations |
 
-A compter du 01/01/2025 |
+Entre le 01/01/2025 et le 31/12/2026 |
+
+30 % (en sus des contrôles sur le lieu, ci-dessus) |
+
+Par contact |
+
+20 % |
+
+Sur le lieu des opérations |
+
+A compter du 01/01/2027 |
 
 30 % (en sus des contrôles sur le lieu, ci-dessus) |
 
@@ -284,7 +324,17 @@ Par contact |
 
 Sur le lieu des opérations |
 
-A compter du 01/01/2025 |
+Entre le 01/01/2025 et le 31/12/2026 |
+
+30 % (en sus des contrôles sur le lieu, ci-dessus) |
+
+Par contact |
+
+20 % |
+
+Sur le lieu des opérations |
+
+A compter du 01/01/2027 |
 
 30 % (en sus des contrôles sur le lieu, ci-dessus) |
 
@@ -306,7 +356,17 @@ Par contact |
 
 Sur le lieu des opérations |
 
-A compter du 1er janvier 2025 |
+Entre le 01/01/2025 et le 31/12/2026 |
+
+30 % (en sus des contrôles sur le lieu, ci-dessus) |
+
+Par contact |
+
+20 % |
+
+Sur le lieu des opérations |
+
+A compter du 01/01/2027 |
 
 30 % (en sus des contrôles sur le lieu, ci-dessus) |
 
@@ -364,13 +424,21 @@ Entre le 22/11/2024 et le 30/06/2025 |
 
 Sur le lieu des opérations |
 
-A compter du 01/07/2025 |
+Entre le 01/07/2025 et le 31/12/2026 |
 
 50 % (en sus des contrôles sur le lieu, ci-dessus) |
 
 Par contact |
 
-A compter du 01/07/2025 |
+20 % |
+
+Sur le lieu des opérations |
+
+A compter du 01/01/2027 |
+
+50 % (en sus des contrôles sur le lieu, ci-dessus) |
+
+Par contact |
 
 BAR-EN-104 |
 
@@ -422,7 +490,17 @@ Par contact |
 
 Sur le lieu des opérations |
 
-A compter du 01/01/2025 |
+Entre le 01/01/2025 et le 31/12/2026 |
+
+30 % (en sus des contrôles sur le lieu, ci-dessus) |
+
+Par contact |
+
+20 % |
+
+Sur le lieu des opérations |
+
+A compter du 01/01/2027 |
 
 30 % (en sus des contrôles sur le lieu, ci-dessus) |
 
@@ -464,7 +542,17 @@ Par contact |
 
 Sur le lieu des opérations |
 
-A compter du 01/01/2025 |
+Entre le 01/01/2025 et le 31/12/2026 |
+
+30 % (en sus des contrôles sur le lieu, ci-dessus) |
+
+Par contact |
+
+20 % |
+
+Sur le lieu des opérations |
+
+A compter du 01/01/2027 |
 
 30 % (en sus des contrôles sur le lieu, ci-dessus) |
 
@@ -496,7 +584,17 @@ Par contact |
 
 Sur le lieu des opérations |
 
-A compter du 01/01/2025 |
+Entre le 01/01/2025 et le 31/12/2026 |
+
+30 % (en sus des contrôles sur le lieu, ci-dessus) |
+
+Par contact |
+
+20 % |
+
+Sur le lieu des opérations |
+
+A compter du 01/01/2027 |
 
 30 % (en sus des contrôles sur le lieu, ci-dessus) |
 
@@ -504,9 +602,7 @@ Par contact |
 
 BAT-TH-113 |
 
-12,5 %
-
-|
+12,5 % |
 
 Sur le lieu des opérations |
 
@@ -516,13 +612,21 @@ Entre le 1er juillet 2024 et le 31 décembre 2024 |
 
 Par contact |
 
-15 %
-
-|
+15 % |
 
 Sur le lieu des opérations |
 
-A compter du 1er janvier 2025 |
+Entre le 01/01/2025 et le 31/12/2026 |
+
+30 % (en sus des contrôles sur le lieu, ci-dessus) |
+
+Par contact |
+
+20 % |
+
+Sur le lieu des opérations |
+
+A compter du 01/01/2027 |
 
 30 % (en sus des contrôles sur le lieu, ci-dessus) |
 
@@ -584,7 +688,17 @@ Par contact |
 
 Sur le lieu des opérations |
 
-A compter du 01/01/2025 |
+Entre le 01/01/2025 et le 31/12/2026 |
+
+30 % (en sus des contrôles sur le lieu, ci-dessus) |
+
+Par contact |
+
+20 % |
+
+Sur le lieu des opérations |
+
+A compter du 01/01/2027 |
 
 30 % (en sus des contrôles sur le lieu, ci-dessus) |
 
@@ -626,7 +740,17 @@ Par contact |
 
 Sur le lieu des opérations |
 
-A compter du 01/01/2025 |
+Entre le 01/01/2025 et le 31/12/2026 |
+
+30 % (en sus des contrôles sur le lieu, ci-dessus) |
+
+Par contact |
+
+20 % |
+
+Sur le lieu des opérations |
+
+A compter du 01/01/2027 |
 
 30 % (en sus des contrôles sur le lieu, ci-dessus) |
 
@@ -658,7 +782,17 @@ Par contact |
 
 Sur le lieu des opérations |
 
-A compter du 01/01/2025 |
+Entre le 01/01/2025 et le 31/12/2026 |
+
+30 % (en sus des contrôles sur le lieu, ci-dessus) |
+
+Par contact |
+
+20 % |
+
+Sur le lieu des opérations |
+
+A compter du 01/01/2027 |
 
 30 % (en sus des contrôles sur le lieu, ci-dessus) |
 
@@ -710,7 +844,17 @@ Par contact |
 
 Sur le lieu des opérations |
 
-A compter du 01/01/2025 |
+Entre le 01/01/2025 et le 31/12/2026 |
+
+30 % (en sus des contrôles sur le lieu, ci-dessus) |
+
+Par contact |
+
+20 % |
+
+Sur le lieu des opérations |
+
+A compter du 01/01/2027 |
 
 30 % (en sus des contrôles sur le lieu, ci-dessus) |
 
@@ -776,7 +920,17 @@ Par contact |
 
 Sur le lieu des opérations |
 
-A compter du 01/01/2025 |
+Entre le 01/01/2025 et le 31/12/2026 |
+
+30 % (en sus des contrôles sur le lieu, ci-dessus) |
+
+Par contact |
+
+20 % |
+
+Sur le lieu des opérations |
+
+A compter du 01/01/2027 |
 
 30 % (en sus des contrôles sur le lieu, ci-dessus) |
 
@@ -790,13 +944,7 @@ Sur le lieu des opérations |
 
 A compter du 01/03/2024 |
 
-IND-UT-137,
-
-IND-UT-138,
-
-IND-UT-139
-
-|
+IND-UT-137, IND-UT-138, IND-UT-139 |
 
 100 % |
 
@@ -804,9 +952,7 @@ Sur le lieu des opérations |
 
 A compter du 01/01/2025 |
 
-BAR-TH-177
-
-|
+BAR-TH-177 |
 
 100 % |
 
@@ -816,9 +962,7 @@ A compter du 01/11/2024 |
 
 TRA-EQ-114, TRA-EQ-128, TRA-EQ-129
 
-(pour les opérations bonifiées*)
-
-|
+(pour les opérations bonifiées [*]) |
 
 100 % |
 
@@ -826,19 +970,21 @@ Sur le lieu des opérations |
 
 A compter du 01/06/2025 |
 
-TRA-EQ-117 (pour les opérations bonifiées*)
-
-|
+TRA-EQ-117 (pour les opérations bonifiées [*]) |
 
 15 % |
 
 Sur le lieu des opérations |
 
-A compter du 01/06/2025 |
+Entre le 01/06/2025 et le 31/12/2026 |
 
-TRA-EQ-130 (pour les opérations bonifiées*)
+20 % |
 
-|
+Sur le lieu des opérations |
+
+A compter du 01/01/2027 |
+
+TRA-EQ-130 (pour les opérations bonifiées [*]) |
 
 15 % lorsque le bénéficiaire est une personne physique
 
@@ -846,7 +992,15 @@ TRA-EQ-130 (pour les opérations bonifiées*)
 
 Sur le lieu des opérations |
 
-A compter du 01/06/2025 |
+Entre le 01/06/2025 et le 31/12/2026 |
+
+20 % lorsque le bénéficiaire est une personne physique
+
+35 % lorsque le bénéficiaire est une collectivité locale, l'Etat ou une autre personne morale |
+
+Sur le lieu des opérations |
+
+A compter du 01/01/2027 |
 
 IND-BA-110 |
 
@@ -870,7 +1024,7 @@ TRA-EQ-131 |
 
 Par contact |
 
-A compter du 1er septembre 2025 |
+A compter du 01/09/2025 |
 
 BAR-TH-143 |
 
@@ -878,7 +1032,17 @@ BAR-TH-143 |
 
 Sur le lieu des opérations |
 
-A compter du 01/03/2026 |
+Entre le 01/03/2026 et le 31/12/2026 |
+
+30 % (en sus des contrôles sur le lieu, ci-dessus) |
+
+Par contact |
+
+20 % |
+
+Sur le lieu des opérations |
+
+A compter du 01/01/2027 |
 
 30 % (en sus des contrôles sur le lieu, ci-dessus) |
 
@@ -914,7 +1078,7 @@ Sur le lieu des opérations |
 
 A compter du 01/01/2028 |
 
-* Sont incluses les opérations bonifiées en application de l'article 4 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie.
+(*) Sont incluses les opérations bonifiées en application de l'article 4 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie.
 
 NOTA :
 
