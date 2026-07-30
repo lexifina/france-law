@@ -1,6 +1,6 @@
 # Article Annexe I
 
-I.-Quantités minimales d'agents extincteurs principal et complémentaire requises en application de l'article D. 213-1-3 du code de l'aviation civile (art. 3) :
+I.-Quantités minimales d'agents extincteurs principal et complémentaire requises en application de l'article D. 6332-23 du code des transports (art. 3) :
 
 Le Manuel des services d'aéroport (doc 9137, 1re partie), publié par l'Organisation de l'aviation civile internationale, contient des renseignements sur les propriétés physiques et le pouvoir d'extinction qu'une mousse doit avoir pour satisfaire à un niveau de performance acceptable A, B ou C.
 
@@ -24,9 +24,7 @@ au niveau C de performance
 
 |
 
-AGENTS COMPLÉMENTAIRES
-
-|
+AGENTS COMPLÉMENTAIRES |
 
 Niveau
 
@@ -42,9 +40,7 @@ Eau
 
 |
 
-Débit solution de mousse L/ minute
-
-|
+Débit solution de mousse L/ minute |
 
 Eau
 
@@ -52,9 +48,7 @@ Eau
 
 |
 
-Débit solution de mousse L/ minute
-
-|
+Débit solution de mousse L/ minute |
 
 Eau
 
@@ -62,9 +56,7 @@ Eau
 
 |
 
-Débit solution de mousse L/ minute
-
-|
+Débit solution de mousse L/ minute |
 
 Poudres
 
@@ -78,7 +70,7 @@ Débit
 
 |
 
-1
+1 |
 
 |
 
@@ -92,323 +84,171 @@ Débit
 
 |
 
-|
-
-50
-
-|
-
-|
-
-2
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-250
-
-|
-
-|
-
-3
-
-|
-
-1 800
-
-|
-
-1 300
-
-|
-
-1 200
-
-|
-
-900
-
-|
-
-820
-
-|
-
-630
-
-|
-
-135
-
-|
-
-2.25
-
-|
-
-4
-
-|
-
-3 600
-
-|
-
-2 600
-
-|
-
-2 400
-
-|
-
-1 800
-
-|
-
-1 700
-
-|
-
-1 100
-
-|
-
-135
-
-|
-
-2.25
-
-|
-
-5
-
-|
-
-8 100
-
-|
-
-4 500
-
-|
-
-5 400
-
-|
-
-3 000
-
-|
+50 |
 
-3 900
-
-|
-
-2 200
-
-|
-
-180
-
-|
-
-2.25
-
-|
-
-6
-
-|
-
-11800
-
 |
 
-6 000
+2 |
 
 |
 
-7 900
-
 |
 
-4 000
-
 |
-
-5 800
 
 |
 
-2 900
-
 |
-
-225
 
 |
 
-2.25
+250 |
 
 |
 
-7
+3 |
 
-|
+1 800 |
 
-18200
+1 300 |
 
-|
+1 200 |
 
-7 900
+900 |
 
-|
+820 |
 
-12100
+630 |
 
-|
+135 |
 
-5 300
+2.25 |
 
-|
+4 |
 
-8 800
+3 600 |
 
-|
+2 600 |
 
-3 800
+2 400 |
 
-|
+1 800 |
 
-225
+1 700 |
 
-|
+1 100 |
 
-2.25
+135 |
 
-|
+2.25 |
 
-8
+5 |
 
-|
+8 100 |
 
-27300
+4 500 |
 
-|
+5 400 |
 
-10 800
+3 000 |
 
-|
+3 900 |
 
-18200
+2 200 |
 
-|
+180 |
 
-7 200
+2.25 |
 
-|
+6 |
 
-12800
+11800 |
 
-|
+6 000 |
 
-5 100
+7 900 |
 
-|
+4 000 |
 
-450
+5 800 |
 
-|
+2 900 |
 
-4.5
+225 |
 
-|
+2.25 |
 
-9
+7 |
 
-|
+18200 |
 
-36400
+7 900 |
 
-|
+12100 |
 
-13 500
+5 300 |
 
-|
+8 800 |
 
-24300
+3 800 |
 
-|
+225 |
 
-9 000
+2.25 |
 
-|
+8 |
 
-17100
+27300 |
 
-|
+10 800 |
 
-6 300
+18200 |
 
-|
+7 200 |
 
-450
+12800 |
 
-|
+5 100 |
 
-4.5
+450 |
 
-|
+4.5 |
 
-10
+9 |
 
-|
+36400 |
 
-48200
+13 500 |
 
-|
+24300 |
 
-16 600
+9 000 |
 
-|
+17100 |
 
-32300
+6 300 |
 
-|
+450 |
 
-11 200
+4.5 |
 
-|
+10 |
 
-22800
+48200 |
 
-|
+16 600 |
 
-7 900
+32300 |
 
-|
+11 200 |
 
-450
+22800 |
 
-|
+7 900 |
 
-4.5
+450 |
 
-|
+4.5 |
 
 1. Les quantités d'agent extincteur principal figurant dans le tableau ci-dessus sont exprimées en quantités d'eau disponibles pour la production de mousse. Le débit d'agent extincteur principal est exprimé en débit de solution moussante projeté par le moyen d'action principal du véhicule.
 
@@ -416,7 +256,7 @@ Débit
 
 3. L'agent complémentaire est une poudre extinctrice de type BC.
 
-II.-Nombre minimal de véhicules et de personnels requis en application de l'article D. 213-1-3 du code de l'aviation civile (art. 3) :
+II.-Nombre minimal de véhicules et de personnels requis en application de l'article D. 6332-23 du code des transports (art. 3) :
 
 NIVEAU DE PROTECTION
 
@@ -424,125 +264,65 @@ de l'aérodrome
 
 |
 
-NOMBRE DE VÉHICULES SSLIA
+NOMBRE DE VÉHICULES SSLIA |
 
-|
+NOMBRE DE PERSONNELS |
 
-NOMBRE DE PERSONNELS
+10 |
 
-|
+3 |
 
-10
+6 pompiers d'aérodrome + 1 chef de manœuvre |
 
-|
+9 |
 
-3
+3 |
 
-|
+6 pompiers d'aérodrome + 1 chef de manœuvre |
 
-6 pompiers d'aérodrome + 1 chef de manœuvre
+8 |
 
-|
+3 |
 
-9
+6 pompiers d'aérodrome + 1 chef de manœuvre |
 
-|
+7 |
 
-3
+2 |
 
-|
+4 pompiers d'aérodrome + 1 chef de manœuvre |
 
-6 pompiers d'aérodrome + 1 chef de manœuvre
+6 |
 
-|
+2 |
 
-8
+4 pompiers d'aérodrome + 1 chef de manœuvre |
 
-|
+5 |
 
-3
+1 |
 
-|
+2 pompiers d'aérodrome |
 
-6 pompiers d'aérodrome + 1 chef de manœuvre
+4 |
 
-|
+1 |
 
-7
+2 pompiers d'aérodrome |
 
-|
+3 |
 
-2
+1 |
 
-|
+2 pompiers d'aérodrome |
 
-4 pompiers d'aérodrome + 1 chef de manœuvre
+2 |
 
-|
+1 véhicule léger |
 
-6
+1 pompier d'aérodrome |
 
-|
-
-2
-
-|
-
-4 pompiers d'aérodrome + 1 chef de manœuvre
-
-|
-
-5
-
-|
-
-1
-
-|
-
-2 pompiers d'aérodrome
-
-|
-
-4
-
-|
-
-1
-
-|
-
-2 pompiers d'aérodrome
-
-|
-
-3
-
-|
-
-1
-
-|
-
-2 pompiers d'aérodrome
-
-|
-
-2
-
-|
-
-1 véhicule léger
-
-|
-
-1 pompier d'aérodrome
-
-|
-
-1
-
-|
+1 |
 
 |
 

@@ -10,7 +10,7 @@ A.-Toute personne légalement établie dans un autre Etat membre de l'Union euro
 
 3° Elle détient une attestation de l'exploitant d'aérodrome certifiant qu'elle a reçu la formation locale concernant les particularités de l'aérodrome, dont le programme, défini par le ministre chargé de l'aviation civile, figure au point 2 du titre Ier de l'annexe II au présent arrêté ;
 
-4° Elle possède le certificat médical prévu à l'article 13 du présent arrêté ;
+4° Elle possède le certificat médical d'aptitude prévu à l'article D. 6332-14-1 du code des transports ;
 
 5° Elle est titulaire du ou des permis, en cours de validité, requis pour la conduite des catégories de véhicules du SSLIA et, le cas échéant, des embarcations dont est doté l'aérodrome si elle est amenée à les conduire.
 
