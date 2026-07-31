@@ -2,13 +2,11 @@
 
 PÉRIMÈTRE DES ORGANISMES EXTÉRIEURS
 
-IDENTIFICATION DES EMPLOIS OU FONCTIONS CONCERNÉES |
+IDENTIFICATION DES EMPLOIS OU FONCTIONS CONCERNÉES
 
-Organismes extérieurs
+|
 
-de la direction générale
-
-de l'armement |
+Organismes extérieurs de la direction générale de l'armement |
 
 - chef du service des achats d'armement (S2A) ;
 
@@ -18,17 +16,15 @@ de l'armement |
 
 - directeur du centre d'analyse technico-opérationnelle de défense ;
 
-- directeur du centre DGA Intelligence technique et économique. |
+- directeur de DGA Information stratégique
 
-Organismes extérieurs
+|
 
-du service du commissariat
-
-des armées |
+Organismes extérieurs du service du commissariat des armées |
 
 - directeur d'une plate-forme commissariat ;
 
-- chef d'un groupement de soutien de base de défense ;
+- chef d'un groupement de soutien commissariat ;
 
 - directeur du centre interarmées du soutien "restauration et loisirs" ;
 
@@ -36,16 +32,16 @@ des armées |
 
 - directeur de la plate-forme affrètement et transport ;
 
-- directeur de l'établissement logistique du commissariat des armées de Roanne. |
+- directeur de l'établissement logistique du commissariat des armées de Roanne.
 
-Organismes extérieurs
+|
 
-du service d'infrastructure
-
-de la défense |
+Organismes extérieurs du service d'infrastructure de la défense |
 
 - directeur d'établissement du service d'infrastructure de la défense ;
 
 - directeur du centre d'expertise des techniques de l'infrastructure de la défense ;
 
-- directeur de direction d'infrastructure de la défense outre-mer et à l'étranger. |
+- directeur de direction d'infrastructure de la défense outre-mer et à l'étranger.
+
+|

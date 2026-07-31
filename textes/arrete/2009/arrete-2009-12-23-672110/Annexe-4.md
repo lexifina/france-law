@@ -4,13 +4,9 @@ RÉPARTITION DES COMPÉTENCES MENTIONNÉES À L'ARTICLE 7 ENTRE LES SERVICES LOC
 
 Critère de répartition des compétences en matière de protection juridique
 
-Principe : pour l'ensemble des agents militaires
+Principe : pour l'ensemble des agents militaires et civils du ministère de la défense. |
 
-et civils du ministère de la défense. |
-
-Lieu d'affectation [rattachement à une base de défense (BdD)]
-
-de l'agent de l'Etat impliqué. |
+Lieu d'affectation [rattachement à une base de défense (BdD)] de l'agent de l'Etat impliqué. |
 
 SPHÈRE DE COMPÉTENCE
 
@@ -20,55 +16,37 @@ BDD DE RATTACHEMENT OU ZONE GÉOGRAPHIQUE DE LA BDD |
 
 Bordeaux |
 
-Bordeaux-Mérignac
+Bordeaux-Mérignac-Agen
 
 Cazaux
 
 Mont-de-Marsan
 
-Pau-Bayonne-Tarbes
+Pau - Bayonne
 
-Toulouse-Castres
+Toulouse - Tarbes - Castres - Carcassonne - Montauban
 
-Montauban-Agen
+Poitiers - Saint-Maixent - Angoulême - Brive
 
-Brive-la-Gaillarde
-
-Poitiers-Saint-Maixent
-
-Rochefort-Cognac
-
-Angoulême
+Rochefort - Cognac
 
 Clermont-Ferrand |
 
 Metz |
 
-Besançon
+Besançon - Belfort
 
 Epinal-Luxeuil
 
-Belfort
-
-Colmar
-
 Nancy
 
-Metz
+Metz - Verdun
 
-Verdun
+Strasbourg - Haguenau - Colmar - Phalsbourg
 
-Phalsbourg
+Saint-Dizier - Chaumont
 
-Strasbourg-Haguenau
-
-Chaumont-Saint-Dizier
-
-Charleville-Mézières
-
-Mourmelon-Mailly
-
-Dijon
+Mourmelon-Mailly-Charleville-Mézières
 
 Lille
 
@@ -76,54 +54,44 @@ Creil |
 
 Rennes |
 
-Rennes
-
 Brest-Lorient
 
-Vannes-Coëtquidan
+Rennes - Vannes - Coëtquidan
 
-Angers-Le Mans-Saumur
+Angers - Le Mans - Saumur
 
 Cherbourg
 
-Orléans-Bricy
+Orléans - Bricy
 
-Bourges-Avord
+Bourges - Avord
 
 Tours
 
 Evreux
 
-Montlhéry
-
-Ile-de-France (GSBDD Paris-Ecole militaire, Saint-Germain-en-Laye, Versailles, Villacoublay et Vincennes) |
+Ile-de-France |
 
 Toulon |
 
 Calvi
 
-Ventiseri-Solenzara
+Ventiseri - Solenzara
 
 Toulon
 
 Draguignan
 
-Saint-Christol
+Nîmes - Laudun - Larzac
 
-Nîmes-Orange-Laudun
+Istres-Miramas
 
-Istres-Salon-de-Provence
+Orange-Salon-de-Provence
 
-Marseille-Aubagne
+Marseille - Aubagne
 
 Carcassonne
 
-Lyon-Mont Verdun
+Lyon - Valence - La Valbonne
 
-Valence
-
-La Valbonne
-
-Grenoble-Annecy-Chambéry
-
-Gap |
+Grenoble - Annecy - Chambéry - Gap - Saint-Christol |

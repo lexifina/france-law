@@ -1,10 +1,10 @@
 # Article Annexe 2
 
-RÉPARTITION DES COMPÉTENCES MENTIONNÉES À L'ARTICLE 1ER, ENTRE LE CENTRE INTERARMEES DU SOUTIEN “ JURIDIQUE ”, LES SERVICES LOCAUX DU CONTENTIEUX, LES DIRECTIONS DU COMMISSARIAT D'OUTRE-MER ET LES DIRECTIONS DU COMMISSARIAT EN OPÉRATION EXTÉRIEURE
+RÉPARTITION DES COMPÉTENCES MENTIONNÉES À L'ARTICLE 1ER, ENTRE LE CENTRE INTERARMÉES DU SOUTIEN "JURIDIQUE", LES SERVICES LOCAUX DU CONTENTIEUX, LES DIRECTIONS DU COMMISSARIAT ET LES DIRECTIONS DU COMMISSARIAT EN OPÉRATION EXTÉRIEURE
 
-SPHÈRE DE COMPÉTENCE |
+Sphère de compétence |
 
-centre interarmées du soutien “ juridique ” (1) |
+Centre interarmées du soutien “juridique” |
 
 Forces, services ou personnel mentionnés au I de l'article 1er, hors formations spécialisées de la gendarmerie placées pour emploi auprès du ministère de la défense. |
 
@@ -38,79 +38,69 @@ Règlement des dommages causés ou subis sur le territoire métropolitain par le
 
 Services locaux du contentieux |
 
-Règlement des dommages causés ou subis sur le territoire métropolitain ne relevant pas de la compétence du centre interarmées du soutien “ juridique ” |
+Règlement des dommages causés ou subis sur le territoire métropolitain ne relevant pas de la compétence du centre interarmées du soutien "juridique"
 
-Forces, services ou personnel mentionnés au I de l'article 1er, hors formations spécialisées de la gendarmerie placées pour emploi auprès du ministère de la défense (BdD dans le ressort de laquelle est affecté le personnel ou stationné le matériel impliqués (2) ou lieu de survenance en cas de dommage aérien). |
+|
+
+|
+
+Forces, services ou personnel mentionnés au I de l'article 1er, hors formations spécialisées de la gendarmerie placées pour emploi auprès du ministère de la défense (BdD dans le ressort de laquelle est affecté le personnel ou stationné le matériel impliqués (2) ou lieu de survenance en cas de dommage aérien).
+
+|
 
 Gendarmerie maritime. |
 
 Bordeaux |
 
-Bordeaux - Mérignac
+Bordeaux - Mérignac - Agen
 
 Cazaux
 
 Mont-de-Marsan
 
-Pau - Bayonne - Tarbes
+Pau - Bayonne
 
-Toulouse - Castres
+Toulouse - Tarbes - Castres - Carcassonne - Montauban
 
-Montauban - Agen
-
-Brive-la-Gaillarde
-
-Poitiers - Saint-Maixent
+Poitiers - Saint-Maixent - Angoulême - Brive
 
 Rochefort - Cognac
 
-Angoulême
+Clermont-Ferrand
 
-Clermont-Ferrand |
+|
 
 Sans objet. |
 
 Metz |
 
-Besançon
+Besançon - Belfort
 
 Epinal - Luxeuil
 
-Belfort
-
-Colmar
-
 Nancy
 
-Metz
+Metz - Verdun
 
-Verdun
-
-Phalsbourg
-
-Strasbourg - Haguenau
+Strasbourg - Haguenau - Colmar - Phalsbourg
 
 Saint-Dizier - Chaumont
 
-Charleville-Mézières
-
-Mourmelon - Mailly
-
-Dijon
+Mourmelon - Mailly - Charleville-Mézières
 
 Lille
 
-Creil |
+Creil
+
+|
 
 Sans objet. |
 
 Rennes |
 
-Rennes
+Rennes - Vannes - Coëtquidan
 
 Brest - Lorient
-
-Vannes - Coëtquidan
 
 Angers - Le Mans - Saumur
 
@@ -124,9 +114,9 @@ Tours
 
 Evreux
 
-Montlhéry
+Ile-de-France
 
-Ile-de-France (GSBdD Paris-Ecole militaire, Saint-Germain-en-Laye, Versailles, Villacoublay et Vincennes) |
+|
 
 Règlement des dommages survenus dans les arrondissements maritimes Atlantique et Manche-mer du Nord et dans le ressort territorial du commandement de la marine à Paris. |
 
@@ -140,67 +130,77 @@ Toulon
 
 Draguignan
 
-Saint-Christol
+Nîmes - Laudun - Larzac
 
-Nîmes - Orange - Laudun
+Istres-Miramas
 
-Istres - Salon-de-Provence
+Orange - Salon de Provence
 
 Marseille - Aubagne
 
-Carcassonne
+Lyon - Valence - La Valbonne
 
-Lyon-Mont Verdun
+Grenoble - Annecy - Chambéry - Gap - Saint-Christol
 
-Valence
-
-La Valbonne
-
-Grenoble - Annecy - Chambéry
-
-Gap |
+|
 
 Règlement des dommages survenus dans l'arrondissement maritime Méditerranée. |
 
-Directions du commissariat d'outre-mer. |
+Directions du commissariat. |
 
-Forces, services ou personnel mentionnés au I de l'article 1er, y compris les formations spécialisées de la gendarmerie placées pour emploi auprès du ministère de la défense. |
+Forces, services ou personnel mentionnés au I de l'article 1er, y compris les formations spécialisées de la gendarmerie placées pour emploi auprès du ministère de la défense.
 
-Fort-de-France |
+|
 
-Règlement des dommages survenus en Martinique, en Guadeloupe, en Guyane, à Saint-Pierre-et-Miquelon, à Saint-Martin et à Saint Barthélemy (3). |
+|
 
-Saint-Denis |
+Martinique |
 
-Règlement des dommages survenus à la Réunion, à Mayotte et dans les Terres australes et antarctiques françaises (3). |
+Règlement des dommages survenus en Martinique, en Guadeloupe, à Saint-Pierre-et-Miquelon, à Saint-Martin et à Saint Barthélemy (3).
 
-Nouméa |
+|
 
-Règlement des dommages survenus en Nouvelle-Calédonie (3). |
+|
 
-Papeete |
+Guyane |
 
-Règlement des dommages survenus en Polynésie française (3). |
+Règlement des dommages survenus en Guyane
 
-Côte d'Ivoire |
+|
 
-Règlement des dommages survenus en Côte d'Ivoire (4). |
+|
+
+La Réunion |
+
+Règlement des dommages survenus à la Réunion, à Mayotte et dans les Terres australes et antarctiques françaises (3).
+
+|
+
+|
+
+Polynésie française |
+
+Règlement des dommages survenus en Polynésie française (3).
+
+|
+
+|
 
 Djibouti |
 
-Règlement des dommages survenus à Djibouti (4). |
+Règlement des dommages survenus à Djibouti (4).
 
-Gabon |
+|
 
-Règlement des dommages survenus au Gabon (4). |
-
-Sénégal |
-
-Règlement des dommages survenus au Sénégal (4). |
+|
 
 Emirats Arabes Unis |
 
-Règlement des dommages survenus aux Emirats Arabes Unis (4). |
+Règlement des dommages survenus aux Emirats Arabes Unis (3).
+
+|
+
+|
 
 Directions du commissariat en opération extérieure |
 
@@ -212,14 +212,18 @@ Pour les faits survenus sur le théâtre d'opération et, le cas échéant, sur 
 
 - dommages matériels subis par les forces françaises (5) ;
 
-Recouvrement du préjudice de l'Etat à l'encontre des agents de l'Etat et des tiers pour les faits survenus sur le théâtre d'opération et, le cas échéant, sur les théâtres annexes soutenus, dans la limite des seuils fixés en annexe 1. |
+Recouvrement du préjudice de l'Etat à l'encontre des agents de l'Etat et des tiers pour les faits survenus sur le théâtre d'opération et, le cas échéant, sur les théâtres annexes soutenus, dans la limite des seuils fixés en annexe 1.
 
-(1) Le centre interarmées du soutien “ juridique ” est également compétent pour le traitement des dossiers de règlement de dommages initiés par le service local du contentieux de Villacoublay avant sa dissolution.
+|
+
+|
+
+(1) Le centre interarmées du soutien "juridique" est également compétent pour le traitement des dossiers de règlement de dommages initiés par le service local du contentieux de Villacoublay avant sa dissolution.
 
 (2) Y compris les bâtiments de la marine nationale et les membres de leur équipage. Le SLC compétent est celui correspondant à la BdD dans laquelle se situe le port-base du bâtiment.
 
-(3) A l'exception du règlement des dommages subis par des agents à l'occasion d'une mission sur ce (s) territoire (s). Dans ce cas, l'organisme compétent est celui correspondant au lieu d'affectation de l'agent impliqué.
+(3) A l'exception du règlement des dommages subis par des agents à l'occasion d'une mission sur ce(s) territoire(s). Dans ce cas, l'organisme compétent est celui correspondant au lieu d'affectation de l'agent impliqué.
 
-(4) A l'exception du règlement des dommages subis par les agents en mission sur ce (s) territoire (s). Dans ce cas, l'organisme compétent est le centre interarmées du soutien “ juridique ”.
+(4) A l'exception du règlement des dommages subis par les agents en mission sur ce(s) territoire(s). Dans ce cas, l'organisme compétent est le centre interarmées du soutien "juridique".
 
-(5) Les dommages subis à titre personnel par un militaire sont du ressort du centre interarmées du soutien “ juridique ”. |
+(5) Les dommages subis à titre personnel par un militaire sont du ressort du centre interarmées du soutien "juridique". |
