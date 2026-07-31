@@ -1,9 +1,21 @@
 # Article Annexe VI
 
-Ces annexes peuvent être consultées ou téléchargées sur le site de l'UCEM, 38, rue Gabriel-Péri, BP 90303, 44100 Nantes Cedex 4, : mél :
+MODÈLE DE L'ATTESTATION DE RÉUSSITE INTERMÉDIAIRE EN BACCALAURÉAT PROFESSIONNEL
 
-ucem.igem@developpement-durable.gouv.fr
+En tête du Ministère chargé de la mer |
 
-ou site internet :
+Nom du service de délivrance |
 
-www.ucem-nantes.fr.
+ANNÉE SCOLAIRE..../.... |
+
+L'ATTESTATION DE RÉUSSITE INTERMEDIAIRE EN BACCALAUREAT PROFESSIONNEL |
+
+SPECIALITÉ : |
+
+Est délivrée à : |
+
+l'élève : [identité de l'élève : nom, prénom, date de naissance] |
+
+A, le |
+
+Signature de l'autorité de délivrance |

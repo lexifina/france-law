@@ -1,21 +1,115 @@
 # Article Annexe VII
 
-MODÈLE DE L'ATTESTATION DE RÉUSSITE INTERMÉDIAIRE EN BACCALAURÉAT PROFESSIONNEL
+Modalités de calcul de la moyenne des enseignements professionnels pris en compte pour la délivrance de l'attestation de réussite intermédiaire
 
-En tête du Ministère chargé de la mer |
+Spécialité " Cultures marines " de baccalauréat professionnel |
 
-Nom du service de délivrance |
+Première |
 
-ANNÉE SCOLAIRE..../.... |
+|
 
-L'ATTESTATION DE RÉUSSITE INTERMEDIAIRE EN BACCALAUREAT PROFESSIONNEL |
+|
 
-SPECIALITÉ : |
+Enseignements |
 
-Est délivrée à : |
+coefficient |
 
-l'élève : [identité de l'élève : nom, prénom, date de naissance] |
+|
 
-A, le |
+Enseignements professionnels maritimes |
 
-Signature de l'autorité de délivrance |
+S1-Biologie-Ecologie-Production (théorie) |
+
+1,10 |
+
+6 |
+
+S1-Biologie-Ecologie-Production (TP) |
+
+1,10 |
+
+S2-Moyens de production (théorie) |
+
+0,35 |
+
+S2-Moyens de production TP |
+
+0,35 |
+
+|
+
+S7-Economie et commercialisation (théorie) |
+
+0,70 |
+
+|
+
+S7-Economie et commercialisation (TP) |
+
+0,40 |
+
+|
+
+|
+
+|
+
+|
+
+Prévention-santé-environnement |
+
+1 |
+
+S3-Gestion économique et financière (théorie) |
+
+1 |
+
+S3-Gestion économique et financière (TP) |
+
+|
+
+Enseignements généraux |
+
+Français |
+
+1 |
+
+7 |
+
+Histoire-géographie, enseignement moral et civique |
+
+1 |
+
+Mathématiques |
+
+1 |
+
+Langue vivante Anglais |
+
+1 |
+
+Physique-chimie |
+
+1 |
+
+Arts appliqués et culture artistique |
+
+1 |
+
+Éducation physique et sportive |
+
+1 |
+
+Consolidation, accompagnement personnalisé et accompagnement au choix d'orientation |
+
+Consolidation et accompagnement personnalisé |
+
+|
+
+|
+
+Accompagnement au choix d'orientation à la pêche (renfort ramendage et matelotage) |
+
+|
+
+|
