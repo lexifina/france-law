@@ -1,0 +1,219 @@
+# Article 1er
+
+Le présent article modifie l'article 21 de la convention collective nationale des activités industrielles de boulangerie-pâtisserie et des professionnels de l'œuf du 1er octobre 2024 modifiée comme suit :
+
+« Article 21
+
+Salaires minima conventionnels
+
+Article 21.1
+
+Grille et assiette des salaires minima conventionnels
+
+À compter du 1er août 2026 la grille des salaires minima conventionnels mensuels bruts applicables, pour un travail effectif correspondant à la durée conventionnelle du travail en vigueur au jour de la signature, soit 151,67 heures par mois ou 218 jours par an, s'établit comme suit pour les différents niveaux et échelons :
+
+Catégories |
+
+Niveau |
+
+Échelon |
+
+Salaires minima conventionnels
+
+bruts mensuels |
+
+O/E |
+
+A |
+
+1 |
+
+1 870,02 € |
+
+2 [1] |
+
+1 879,98 € |
+
+B |
+
+1 |
+
+1 891,05 € |
+
+2 |
+
+1 906,18 € |
+
+C |
+
+1 |
+
+1 922,66 € |
+
+2 |
+
+1 939,98 € |
+
+3 |
+
+1 961,31 € |
+
+D |
+
+1 |
+
+1 987,11 € |
+
+2 |
+
+2 003,02 € |
+
+3 |
+
+2 025,05 € |
+
+E |
+
+1 |
+
+2 060,78 € |
+
+2 |
+
+2 093,76 € |
+
+3 |
+
+2 149,23 € |
+
+TAM |
+
+F |
+
+1 |
+
+2 269,78 € |
+
+2 |
+
+2 291,34 € |
+
+3 |
+
+2 323,42 € |
+
+G |
+
+1 |
+
+2 370,92 € |
+
+2 |
+
+2 414,78 € |
+
+3 |
+
+2 487,22 € |
+
+H |
+
+1 |
+
+2 622,94 € |
+
+2 |
+
+2 691,13 € |
+
+3 |
+
+2 802,81 € |
+
+I |
+
+|
+
+2 981,00 € |
+
+Cadre |
+
+J |
+
+1 |
+
+3 153,65 € |
+
+2 |
+
+3 260,88 € |
+
+3 |
+
+3 368,48 € |
+
+K |
+
+1 |
+
+3 554,91 € |
+
+2 |
+
+3 746,87 € |
+
+3 |
+
+3 937,96 € |
+
+L |
+
+1 |
+
+4 128,17 € |
+
+2 |
+
+4 392,37 € |
+
+3 |
+
+4 702,03 € |
+
+M |
+
+5 300,76 € |
+
+[1] Conformément à l'article 12.5.3 de la présente convention, il est rappelé que les salariés embauchés au niveau A/échelon 1 de la catégorie socio-professionnelle des OE passent automatiquement au niveau A/échelon 2 au plus tard au 6e mois de présence effective. |
+
+Il est rappelé que le salaire minima conventionnel brut mensuel, calculé sur une base de 151,67 heures par mois ou 218 jours par an, résultant de la classification comporte tous les éléments de rémunération, quelles que soient leur qualification et leur périodicité, à l'exception :
+
+– des majorations diverses prévues par la loi ou la convention collective en raison de circonstances particulières (heures supplémentaires, heures travaillées un jour férié, un dimanche ou de nuit…) ;
+
+– des sommes qui constituent un remboursement de frais et ne supportent pas de ce fait les cotisations des régimes sociaux ;
+
+– des sommes issues des accords de participation et d'intéressement qui n'ont pas le caractère de salaire.
+
+Les revalorisations des salaires minima conventionnels sont établis par avenant à la présente convention négocié paritairement entre les organisations professionnelles et syndicales représentatives, en référence à la classification conventionnelle.
+
+Les salaires minima conventionnels sont fixés sur la base de la durée légale du travail en vigueur.
+
+De plus, il est rappelé que les employeurs sont tenus d'assurer, pour un même travail ou pour un travail de valeur égale, l'égalité de rémunération entre les femmes et les hommes.
+
+Les grilles de salaires minima conventionnels bruts fixés ci-dessus sont conformes à ce principe et ne peut conduire à des différences de traitement entre les femmes et les hommes.
+
+Il est également rappelé que, outre le respect des salaires minima conventionnels, chaque employeur doit également respecter les principes légaux et jurisprudentiels en application de la règle “à travail égal, salaire égal”.
+
+En conséquence, les employeurs s'attacheront à vérifier qu'il n'existe pas d'écarts de rémunération non justifiés entre les femmes et les hommes.
+
+Si tel n'est pas le cas, ils mettront en œuvre toutes les mesures utiles pour remédier à ces disparités salariales.
+
+Article 21.2
+
+Application spécifique de la grille des salaires minima conventionnels à Mayotte
+
+Suite à la publication de la loi n° 2025-797 du 11 août 2025 de programmation pour la refondation de Mayotte, le législateur consacre une trajectoire de convergence économique et sociale.
+
+Parmi les mesures principales, l'alignement du salaire minimum de croissance (Smic) sur le niveau national est fixé en décembre 2031.
+
+Compte tenu des spécificités applicables à Mayotte, les partenaires sociaux conviennent que, pour les entreprises et les salariés relevant de la présente convention et situés à Mayotte, les salaires minima conventionnels qui leur sont applicables sont ceux prévus à l'article 21.1 multipliés par un coefficient de proratisation correspondant au rapport entre le montant mensuel brut du Smic applicable à Mayotte et le montant mensuel brut du Smic applicable sur le territoire national. »
