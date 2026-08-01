@@ -1,0 +1,139 @@
+# Article 1er
+
+L'article 3 de l'accord paritaire du 13 juillet 2000 sur le financement du paritarisme de la convention collective modifié par avenant n° 4 du 26 février 2025 ci-après :
+
+« Article 3
+
+Affectation du montant des cotisations recueillies
+
+Le montant total et global des cotisations recueillies par l'association paritaire, au titre de la collecte issue de la cotisation de 0,15 %, dont un budget de 2 % est consacré à la prise en charge des frais inhérents aux réunions paritaires, sera affecté à l'exercice du droit à la négociation collective des salariés et des employeurs selon les modalités suivantes :
+
+À ce jour, et en application des arrêtés du 8 novembre 2021 fixant la liste des organisations syndicales et patronales reconnues représentatives dans la convention collective nationale de la boulangerie-pâtisserie (entreprises artisanales) (n° 0843), parus au Journal officiel :
+
+Une moitié affectée au financement du paritarisme des salariés et répartie pour deux tiers en cinq parts égales entre les cinq organisations représentatives des salariés et pour un tiers au prorata des pourcentages obtenus par chaque organisation syndicale lors des échanges paritaires intervenus le 7 septembre 2022 :
+
+Cette moitié correspondant aux deux tiers et au tiers précités ci-dessus, est donc répartie comme suit :
+
+24,80 % : Fédération nationale agro-alimentaire et forestière (FNAF-CGT) ;
+
+22,63 % : Fédération générale agro-alimentaire (FGA-CFDT) ;
+
+21,15 % : Fédération générale des travailleurs de l'agriculture, de l'alimentation et des secteurs connexes (FGTA-FO) ;
+
+17,96 % : Fédération commerces et services (UNSA FCS) ;
+
+13,46 % : Fédération agro-alimentaire (CFE-CGC Agro).
+
+Une moitié affectée au financement du paritarisme des employeurs, est répartie entre les organisations professionnelles d'employeurs représentatives pour l'année 2022 comme suit :
+
+96,17 % : Confédération nationale de la boulangerie et boulangerie-pâtisserie française (CNBPF) ;
+
+3,83 % : Fédération des entrepreneurs de boulangerie (FEB).
+
+À compter de 2023, et sauf volonté contraire des organisations professionnelles d'employeurs représentatives, cette répartition se réalisera, conformément à l'arrêté de représentativité en vigueur fixant la liste des organisations professionnelles d'employeurs reconnues représentatives dans la convention collective nationale de la boulangerie-pâtisserie (entreprises artisanales) (n° 0843), comme suit :
+
+88,52 % : Confédération nationale de la boulangerie et boulangerie-pâtisserie française (CNBPF) ;
+
+11,48 % : Fédération des entrepreneurs de boulangerie (FEB).
+
+Dans le cadre d'un dispositif de financement du paritarisme et du dialogue social renforcé dans la branche, le montant total et global des cotisations recueillies par l'association paritaire, au titre de la collecte issue de la cotisation de 0,10 %, sera affecté à l'exercice du droit à la négociation collective des salariés et des employeurs, à compter du 1er janvier 2026, selon les modalités suivantes :
+
+À ce jour, et en application des arrêtés du 8 novembre 2021 fixant la liste des organisations syndicales et patronales reconnues représentatives dans la convention collective nationale de la boulangerie-pâtisserie (entreprises artisanales) (n° 0843), parus au Journal officiel :
+
+45 % de cette collecte sont affectés au financement du paritarisme des salariés et répartis comme suit :
+
+Une moitié affectée au financement du paritarisme des salariés et répartie pour deux tiers en cinq parts égales entre les cinq organisations représentatives des salariés et pour un tiers au prorata des pourcentages obtenus par chaque organisation syndicale lors des échanges paritaires intervenus le 7 septembre 2022, relatifs à la répartition faisant suite à la mesure de représentativité des organisations syndicales de salariés issue de l'arrêté du 8 novembre 2021 fixant la liste des organisations syndicales reconnues représentatives dans la convention collective nationale de la boulangerie-pâtisserie (entreprises artisanales) (n° 0843), paru au Journal officiel.
+
+Cette moitié correspondant aux deux tiers et au tiers précités ci-dessus, est donc répartie comme suit :
+
+24,80 % : Fédération nationale agro-alimentaire et forestière (FNAF-CGT) ;
+
+22,63 % : Fédération générale agro-alimentaire (FGA-CFDT) ;
+
+21,15 % : Fédération générale des travailleurs de l'agriculture, de l'alimentation et des secteurs connexes (FGTA-FO) ;
+
+17,96 % : Fédération commerces et services (UNSA FCS) ;
+
+13,46 % : Fédération agro-alimentaire (CFE-CGC Agro).
+
+45 % de cette collecte sont affectés au financement du paritarisme des employeurs, et répartis entre les organisations professionnelles d'employeurs, conformément à l'arrêté de représentativité en vigueur du 8 novembre 2021 fixant la liste des organisations professionnelles d'employeurs reconnues représentatives dans la convention collective nationale de la boulangerie-pâtisserie (entreprises artisanales) (n° 0843) comme suit :
+
+88,52 % : Confédération nationale de la boulangerie et boulangerie-pâtisserie française (CNBPF) ;
+
+11,48 % : Fédération des entrepreneurs de boulangerie (FEB).
+
+10 % de cette collecte sont affectés au financement du paritarisme et du dialogue social pour les actions de communication et de promotion du dialogue social de la branche telles que notamment : les accords collectifs de la branche, le régime de protection sociale, le départ à la retraite des salariés, la vie des commissions paritaires régionales de la boulangerie et boulangerie-pâtisserie.
+
+L'association paritaire rendra compte, annuellement, à la commission paritaire nationale, de la manière dont sont utilisés les fonds ainsi collectés. »
+
+Est supprimé et remplacé par les dispositions suivantes :
+
+« Le montant total et global des cotisations recueillies par l'association paritaire, au titre de la collecte issue de la cotisation de 0,15 %, dont un budget de 2 % est consacré à la prise en charge des frais inhérents aux réunions paritaires, sera affecté à l'exercice du droit à la négociation collective des salariés et des employeurs selon les modalités suivantes :
+
+À ce jour, et en application des arrêtés du 17 juillet 2025 fixant la liste des organisations syndicales et patronales reconnues représentatives dans la convention collective nationale de la boulangerie-pâtisserie (entreprises artisanales) (n° 0843), parus au Journal officiel :
+
+Une moitié affectée au financement du paritarisme des salariés et répartie pour deux tiers en six parts égales entre les six organisations représentatives des salariés et pour un tiers au prorata des pourcentages obtenus par chaque organisation syndicale lors des échanges paritaires intervenus le 7 septembre 2022 :
+
+Cette moitié correspondant aux deux tiers et au tiers précités ci-dessus, est donc répartie comme suit :
+
+24,644 % : Fédération nationale agro-alimentaire et forestière (FNAF-CGT) ;
+
+18,534 % : Fédération générale agro-alimentaire (CFDT Agri-Agro) ;
+
+16,028 % : Fédération générale des travailleurs de l'agriculture, de l'alimentation et des secteurs connexes (FGTA-FO) ;
+
+14,924 % : Fédération commerces et services (UNSA FCDS) ;
+
+14,224 % : Fédération des syndicats commerce, service et force de vente (CFTC-CSFV) ;
+
+11,644 % : Fédération agro-alimentaire (CFE-CGC Agro).
+
+Une moitié affectée au financement du paritarisme des employeurs, est répartie d'un commun accord entre les organisations professionnelles d'employeurs représentatives comme suit :
+
+93,025 % : Confédération nationale de la boulangerie et boulangerie-pâtisserie française (CNBPF) ;
+
+6,975 % : Fédération des entrepreneurs de boulangerie (FEB).
+
+À compter de 2027, et sauf volonté contraire des organisations professionnelles d'employeurs représentatives, cette répartition se réalisera, conformément à l'arrêté de représentativité en vigueur fixant la liste des organisations professionnelles d'employeurs reconnues représentatives dans la convention collective nationale de la boulangerie-pâtisserie (entreprises artisanales) (n° 0843), comme suit :
+
+86,05 % : Confédération nationale de la boulangerie et boulangerie-pâtisserie française (CNBPF) ;
+
+13,95 % : Fédération des entrepreneurs de boulangerie (FEB).
+
+Dans le cadre d'un dispositif de financement du paritarisme et du dialogue social renforcé dans la branche, le montant total et global des cotisations recueillies par l'association paritaire, au titre de la collecte issue de la cotisation de 0,10 %, sera affecté à l'exercice du droit à la négociation collective des salariés et des employeurs, à compter du 1er janvier 2026, selon les modalités suivantes :
+
+À ce jour, et en application des arrêtés du 17 juillet 2025 fixant la liste des organisations syndicales et patronales reconnues représentatives dans la convention collective nationale de la boulangerie-pâtisserie (entreprises artisanales) (n° 0843), parus au Journal officiel :
+
+45 % de cette collecte sont affectés au financement du paritarisme des salariés et répartis comme suit :
+
+Une moitié affectée au financement du paritarisme des salariés et répartie pour deux tiers en six parts égales entre les six organisations représentatives des salariés et pour un tiers au prorata des pourcentages obtenus par chaque organisation syndicale lors des échanges paritaires intervenus le 7 septembre 2022, relatifs à la répartition faisant suite à la mesure de représentativité des organisations syndicales de salariés issue de l'arrêté du 17 juillet 2025 fixant la liste des organisations syndicales reconnues représentatives dans la convention collective nationale de la boulangerie-pâtisserie (entreprises artisanales) (n° 0843), paru au Journal officiel.
+
+Cette moitié correspondant aux deux tiers et au tiers précités ci-dessus, est donc répartie comme suit :
+
+24,644 % : Fédération nationale agro-alimentaire et forestière (FNAF-CGT) ;
+
+18,534 % : Fédération générale agro-alimentaire (CFDT Agri-Agro) ;
+
+16,028 % : Fédération générale des travailleurs de l'agriculture, de l'alimentation et des secteurs connexes (FGTA-FO) ;
+
+14,924 % : Fédération commerces et services (UNSA FCDS) ;
+
+14,224 % : Fédération des syndicats commerce, service et force de vente (CFTC-CSFV) ;
+
+11,644 % : Fédération agro-alimentaire (CFE-CGC Agro).
+
+45 % de cette collecte sont affectés au financement du paritarisme des employeurs, et répartis d'un commun accord entre les organisations professionnelles d'employeurs représentatives comme suit :
+
+93,025 % : Confédération nationale de la boulangerie et boulangerie-pâtisserie française (CNBPF) ;
+
+6,975 % : Fédération des entrepreneurs de boulangerie (FEB).
+
+À compter de 2027, et sauf volonté contraire des organisations professionnelles d'employeurs représentatives, cette répartition se réalisera, conformément à l'arrêté de représentativité en vigueur fixant la liste des organisations professionnelles d'employeurs reconnues représentatives dans la convention collective nationale de la boulangerie-pâtisserie (entreprises artisanales) (n° 0843), comme suit :
+
+86,05 % : Confédération nationale de la boulangerie et boulangerie-pâtisserie française (CNBPF) ;
+
+13,95 % : Fédération des entrepreneurs de boulangerie (FEB).
+
+10 % de cette collecte sont affectés au financement du paritarisme et du dialogue social pour les actions de communication et de promotion du dialogue social de la branche telles que notamment : les accords collectifs de la branche, le régime de protection sociale, le départ à la retraite des salariés, la vie des commissions paritaires régionales de la boulangerie et boulangerie-pâtisserie.
+
+L'association paritaire rendra compte, annuellement, à la commission paritaire nationale, de la manière dont sont utilisés les fonds ainsi collectés. »
