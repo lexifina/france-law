@@ -354,11 +354,9 @@ Afin de permettre le contrôle de l'application de la présente convention, le g
 
 Article 20
 
-Publication
+Information des organismes chargés de la liquidation et du paiement de l'aide personnalisée au logement
 
-La publication de la convention, de sa résiliation et de ses éventuels avenants au fichier immobilier ou leur inscription au livre foncier incombe au préfet ou, lorsqu'un établissement public de coopération intercommunale, un département, la métropole de Lyon, la métropole du Grand Paris, la métropole d'Aix-Marseille-Provence, une métropole ou la collectivité de Corse a signé une convention mentionnée au II de l'article L. 301-5-1 ou à l'article L. 301-5-2 du code de la construction et de l'habitation, ou à l'article L. 3641-5, au VI de l'article L. 5219-1, au II de l'article L. 5218-2 ou au II de l'article L. 5217-2 du code général des collectivités territoriales, au président de l'établissement public de coopération intercommunale, du conseil départemental, de la métropole de Lyon, de la métropole du Grand Paris, de la métropole d'Aix-Marseille-Provence, de la métropole ou du conseil exécutif de Corse. Les frais de publication sont à la charge du propriétaire.
-
-Le préfet, ou, lorsqu'un établissement public de coopération intercommunale, un département, la métropole de Lyon, la métropole du Grand Paris, la métropole d'Aix-Marseille-Provence, une métropole ou la collectivité de Corse a signé une convention mentionnée au II de l'article L. 301-5-1 ou à l'article L. 301-5-2 du code de la construction et de l'habitation, ou à l'article L. 3641-5, au VI de l'article L. 5219-1, au II de l'article L. 5218-2 ou au II de l'article L. 5217-2 du code général des collectivités territoriales, le président de l'établissement public de coopération intercommunale, du conseil départemental, de la métropole de Lyon, de la métropole du Grand Paris, de la métropole d'Aix-Marseille-Provence, de la métropole ou du conseil exécutif de Corse, transmet aux organismes chargés de la liquidation et du paiement de l'aide personnalisée au logement une copie de la présente convention, de ses avenants éventuels ainsi que l'état prouvant qu'elle (ou ils) a (ont) bien fait l'objet d'une publication au fichier immobilier (ou d'une inscription au livre foncier).
+Le préfet, ou, lorsqu'un établissement public de coopération intercommunale, un département, la métropole de Lyon, la métropole du Grand Paris, la métropole d'Aix-Marseille-Provence, une métropole ou la collectivité de Corse a signé une convention mentionnée au II de l'article L. 301-5-1 ou à l'article L. 301-5-2 du code de la construction et de l'habitation, ou à l'article L. 3641-5, au VI de l'article L. 5219-1, au II de l'article L. 5218-2 ou au II de l'article L. 5217-2 du code général des collectivités territoriales, le président de l'établissement public de coopération intercommunale, du conseil départemental, de la métropole de Lyon, de la métropole du Grand Paris, de la métropole d'Aix-Marseille-Provence, de la métropole ou du conseil exécutif de Corse, transmet aux organismes chargés de la liquidation et du paiement de l'aide personnalisée au logement une copie de la présente convention et de ses avenants éventuels.
 
 Fait à …, le …
 
@@ -706,4 +704,4 @@ Le préfet, le président de l'établissement public de coopération intercommun
 
 NOTA :
 
-Conformément à l'article 8 du décret n° 2021-1862 du 27 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément au II de l'article 26 du décret n° 2026-117 du 20 février 2026, ces dispositions, dans leur rédaction issue du I de l'article 26 du décret précité, entrent en vigueur le premier jour du sixième mois suivant le mois de sa publication, à savoir le 1er août 2026.

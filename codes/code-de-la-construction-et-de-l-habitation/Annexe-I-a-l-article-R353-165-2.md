@@ -330,11 +330,9 @@ Afin de permettre à l'Etat d'assurer le contrôle de l'application de la prése
 
 Article 20
 
-Publication
+Information des organismes chargés de la liquidation et du paiement de l'aide personnalisée au logement
 
-La publication de la convention, de sa résiliation et de ses éventuels avenants au fichier immobilier ou de leur inscription au livre foncier incombe au préfet, ou, lorsqu'un établissement public de coopération intercommunale ou un département a signé une convention mentionnée aux articles L. 301-5-1 et L. 301-5-2 du code de la construction et de l'habitation, au président de l'établissement public de coopération intercommunale ou du conseil général. Les frais de publication sont à la charge de l'organisme.
-
-Le préfet, ou, lorsqu'un établissement public de coopération intercommunale ou un département a signé une convention mentionnée aux articles L. 301-5-1 et L. 301-5-2 du code de la construction et de l'habitation, le président de l'établissement public de coopération intercommunale ou du conseil général transmet aux organismes chargés de la liquidation et du paiement de l'aide personnalisée au logement une photocopie de la présente convention, de ses avenants éventuels ainsi que l'état prouvant qu'elle (ou ils) a (ont) bien fait l'objet d'une publication au fichier immobilier (ou d'une inscription au livre foncier).
+Le préfet, ou, lorsqu'un établissement public de coopération intercommunale ou un département a signé une convention mentionnée aux articles L. 301-5-1 et L. 301-5-2 du code de la construction et de l'habitation, le président de l'établissement public de coopération intercommunale ou du conseil général transmet aux organismes chargés de la liquidation et du paiement de l'aide personnalisée au logement une photocopie de la présente convention et de ses avenants éventuels.
 
 Fait à, le
 
@@ -695,3 +693,7 @@ Actions à caractère social :
 Action spécifique pour l'insertion par le logement :
 
 Projet de relogement [s'il y a lieu] :
+
+NOTA :
+
+Conformément au II de l'article 26 du décret n° 2026-117 du 20 février 2026, ces dispositions, dans leur rédaction issue du I de l'article 26 du décret précité, entrent en vigueur le premier jour du sixième mois suivant le mois de sa publication, à savoir le 1er août 2026.
