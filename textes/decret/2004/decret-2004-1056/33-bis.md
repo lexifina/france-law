@@ -4,7 +4,7 @@ I. - Les ayants droit de tout ouvrier de l'Etat décédé alors qu'il se trouvai
 
 Le capital décès est versé par l'employeur qui emploie l'ouvrier de l'Etat le jour de son décès.
 
-II. - Le montant du capital décès est égal à la dernière rémunération brute annuelle de l'ouvrier de l'Etat décédé définie à l'article 7 du décret n° 72-154 du 24 février 1972 relatif aux congés en cas de maladie, de maternité et d'accidents du travail dont peuvent bénéficier certains personnels ouvriers de l'Etat mensualisés. Il ne peut être inférieur au montant mentionné à l'article D. 361-1 du code de la sécurité sociale.
+II. - Le montant du capital décès est égal à la dernière rémunération brute annuelle de l'ouvrier de l'Etat décédé définie à au I de l'article 44 du décret n° 2025-694 du 23 juillet 2025 portant diverses dispositions applicables aux personnels ouvriers de l'Etat en matière de congés. Il ne peut être inférieur au montant mentionné à l'article D. 361-1 du code de la sécurité sociale.
 
 III. - Le montant du capital décès mentionné au II est complété d'un montant égal à deux fois la rémunération brute annuelle lorsque le décès de l'ouvrier de l'Etat survient à la suite :
 
