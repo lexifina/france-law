@@ -4,11 +4,15 @@ LISTE ET RÉPARTITION DES COMPÉTENCES DES ÉTABLISSEMENTS ET ASSOCIATIONS AFFIL
 
 Nom |
 
-Département d'implantation |
+Département
+
+d'implantation |
 
 Unités d'enseignement autorisées |
 
-Compétences géographique |
+Compétence
+
+géographique |
 
 CEF |
 
@@ -364,7 +368,7 @@ FNMNS 09 |
 
 |
 
-|
+X |
 
 |
 
@@ -372,11 +376,11 @@ X |
 
 X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
 X |
 
@@ -558,11 +562,11 @@ PREPA SPORTS |
 
 |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
 |
 
@@ -652,17 +656,17 @@ FANS |
 
 |
 
-|
-
 X |
 
 X |
 
 X |
 
-|
+X |
 
-|
+X |
+
+X |
 
 |
 
@@ -893,6 +897,38 @@ FORMATION SPORT SANTE ET SAUVETAGE DU 13 |
 X |
 
 X |
+
+X |
+
+X |
+
+04, 13, 83, 84 |
+
+Association Massilia neda |
+
+13 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 X |
 
@@ -1228,6 +1264,18 @@ CDF FNMNS 22 |
 
 |
 
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+X |
+
 |
 
 X |
@@ -1236,21 +1284,9 @@ X |
 
 X |
 
-|
-
 X |
 
-|
-
-X |
-
-X |
-
-X |
-
-X |
-
-22, 29, 35, 44, 75, 56, 92 |
+22, 29, 35, 44, 56, 75, 78, 92 |
 
 KBSS |
 
@@ -1315,38 +1351,6 @@ X |
 X |
 
 16, 17, 19, 24, 33 46, 47, 87 |
-
-Conseil Dép de la Dordogne |
-
-24 |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-X |
-
-X |
-
-24 |
 
 FC2S |
 
@@ -1469,6 +1473,38 @@ SMILIG |
 |
 
 |
+
+X |
+
+X |
+
+29 |
+
+Association sauveteurs secouristes de Concarneau |
+
+29 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+X |
+
+X |
 
 X |
 
@@ -1968,11 +2004,11 @@ ESTUAIRE SECOURISME ET SAUVETAGE AQUATIQUE |
 
 |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
 |
 
@@ -2214,6 +2250,38 @@ X |
 
 34 |
 
+Oxygène formation 35 |
+
+35 |
+
+|
+
+|
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+35, 50 |
+
 IPSSA38 |
 
 38 |
@@ -2266,7 +2334,7 @@ X |
 
 X |
 
-|
+X |
 
 X |
 
@@ -2490,7 +2558,7 @@ X |
 
 |
 
-|
+X |
 
 X |
 
@@ -2576,7 +2644,7 @@ ASR |
 
 |
 
-|
+X |
 
 X |
 
@@ -2629,6 +2697,38 @@ X |
 X |
 
 54, 55, 57, 67, 88 |
+
+IDAF 56 |
+
+56 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+X |
+
+X |
+
+22, 29, 35, 44, 56 |
 
 CDF 57 |
 
@@ -2754,7 +2854,7 @@ Asso. Ecole sauvetage secourisme |
 
 X |
 
-x |
+X |
 
 59 |
 
@@ -2980,7 +3080,7 @@ X |
 
 X |
 
-64 |
+32, 40, 64, 65 |
 
 Les secouristes et sauveteurs bearnais |
 
@@ -3045,6 +3145,38 @@ X |
 X |
 
 24, 64 |
+
+Antenne départementale 64 FNMNS |
+
+64 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+X |
+
+X |
+
+32, 40, 64, 65 |
 
 cdf fnmns 65 |
 
@@ -3396,7 +3528,7 @@ X |
 
 X |
 
-67, 68 |
+67, 68, 88 |
 
 CFSVM |
 
@@ -3652,7 +3784,7 @@ X |
 
 X |
 
-76 |
+14, 27, 76 |
 
 NGA POSEIDON |
 
@@ -3836,7 +3968,7 @@ X |
 
 |
 
-|
+X |
 
 X |
 
@@ -4036,7 +4168,7 @@ X |
 
 X |
 
-75, 77, 91, 92, 93, 94 |
+61, 72, 75, 77, 91, 92, 93, 94 |
 
 SPORTING CLUB VITRY |
 
@@ -4112,11 +4244,11 @@ Nageur Sauveteur Secourisme du Levant |
 
 |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
 |
 
@@ -4260,7 +4392,7 @@ X |
 
 X |
 
-976 |
+88, 976 |
 
 TAINA NATATION CLUB |
 
@@ -4357,3 +4489,35 @@ X |
 X |
 
 987 |
+
+FNMNS Nouvelle Calédonie |
+
+988 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+X |
+
+X |
+
+X |
+
+X |
+
+988 |
