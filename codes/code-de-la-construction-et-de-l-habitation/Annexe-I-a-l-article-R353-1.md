@@ -46,7 +46,7 @@ Article 4
 
 Changement de propriétaire.
 
-La présente convention est jointe à l'acte de mutation. Le changement de propriétaire donne lieu à la signature d'un avenant, publié dans les conditions de l'article 25 de la présente convention.
+La présente convention est jointe à l'acte de mutation. Le changement de propriétaire donne lieu à la signature d'un avenant.
 
 Article 5
 
@@ -360,14 +360,16 @@ Dans ce cas, il est fait application des dispositions prévues à l'article L. 3
 
 Article 25
 
-Publication.
+Information des organismes chargés de la liquidation et du paiement de l'APL
 
-La publication de la convention, de ses éventuels avenants et de sa résiliation au fichier immobilier ou leur inscription au livre foncier incombe au préfet, ou, lorsqu'un établissement public de coopération intercommunale, un département, la métropole de Lyon ou la collectivité de Corse a signé une convention mentionnée aux articles L. 301-5-1, L. 301-5-2, L. 3641-5, L. 5219-1, L. 5218-2 et L. 5217-2 précités, au président de l'établissement public de coopération intercommunale, du conseil départemental, de la métropole de Lyon ou du conseil exécutif de Corse. Les frais de publication sont à la charge de l'organisme.
-
-Le préfet, ou, lorsqu'un établissement public de coopération intercommunale, un département, la métropole de Lyon ou la collectivité de Corse a signé une convention mentionnée aux articles L. 301-5-1, L. 301-5-2, L. 3641-5, L. 5219-1, L. 5218-2 et L. 5217-2 précités, le président de l'établissement public de coopération intercommunale, du conseil départemental, de la métropole de Lyon ou du conseil exécutif de Corse transmet aux organismes chargés de la liquidation et du paiement de l'APL une copie de la présente convention, de ses avenants éventuels ainsi que l'état prouvant qu'elle (ou ils) a (ont) bien fait l'objet d'une publication au fichier immobilier (ou d'une inscription au livre foncier).
+Le préfet, ou, lorsqu'un établissement public de coopération intercommunale, un département, la métropole de Lyon ou la collectivité de Corse a signé une convention mentionnée aux articles L. 301-5-1, L. 301-5-2, L. 3641-5, L. 5219-1, L. 5218-2 et L. 5217-2 précités, le président de l'établissement public de coopération intercommunale, du conseil départemental, de la métropole de Lyon ou du conseil exécutif de Corse transmet aux organismes chargés de la liquidation et du paiement de l'APL une copie de la présente convention et de ses avenants éventuels.
 
 Fait en trois originaux à …, le...
 
 Le bailleur (6),
 
 Le préfet, le président de l'établissement public de coopération intercommunale, du conseil départemental, de la métropole de Lyon ou du conseil exécutif de Corse,
+
+NOTA :
+
+Conformément au II de l'article 8 du décret n° 2026-118 du 20 février 2026, ces dispositions, dans leur rédaction issue du I de l'article 8 du décret précité, entrent entrent en vigueur le premier jour du sixième mois suivant le mois de sa publication, soit le 1er août 2026.
