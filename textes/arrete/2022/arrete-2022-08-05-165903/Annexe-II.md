@@ -16,8 +16,6 @@ Cette épreuve porte, au choix du candidat, sur l'une des matières suivantes :
 
 - synthèse de dossier ;
 
-- mathématiques ;
-
 - cas concret professionnel.
 
 A. - Synthèse de dossier
@@ -54,171 +52,7 @@ Rédaction de plus de 700 mots |
 
 moins 10 points |
 
-B. - Mathématiques
-
-Cette épreuve vise à déterminer l'aptitude du candidat à faire preuve de capacités d'argumentation, de rédaction d'une démonstration et de logique. Elle permet de démontrer que le candidat a la capacité de :
-
-- mettre en œuvre une recherche de façon autonome ;
-
-- mener des raisonnements ;
-
-- avoir une attitude critique vis-à-vis des résultats obtenus.
-
-Elle consiste à rédiger, sans l'aide d'une documentation, un devoir portant sur des questions de cours et/ou des problèmes figurant au programme ci-après :
-
-i) Analyse
-
-Suites :
-
-- raisonnement par récurrence ;
-
-- limite finie ou infinie d'une suite ;
-
-- limites et comparaison ;
-
-- opérations sur les limites ;
-
-- comportement à l'infini de la suite (qn), q étant un nombre réel ;
-
-- suite majorée, minorée, bornée.
-
-Limites de fonctions :
-
-- limite finie ou infinie d'une fonction à l'infini ;
-
-- limite infinie d'une fonction en un point ;
-
-- limite d'une somme, d'un produit, d'un quotient ou d'une composée de deux fonctions ;
-
-- limites et comparaison ;
-
-- asymptote parallèle à l'un des axes de coordonnées.
-
-Continuité sur un intervalle, théorème des valeurs intermédiaires.
-
-Calculs de dérivées.
-
-Fonctions sinus et cosinus.
-
-Fonction exponentielle :
-
-- fonction x exp (x) ;
-
-- relation fonctionnelle, notation ex.
-
-Fonction logarithme népérien :
-
-- fonction x ln x ;
-
-- relation fonctionnelle, dérivée.
-
-Intégration :
-
-- définition de l'intégrale d'une fonction continue et positive sur [a, b] comme aire sous la courbe ;
-
-- primitive d'une fonction continue sur un intervalle ;
-
-- théorème : toute fonction continue sur un intervalle admet des primitives ;
-
-- intégrale d'une fonction continue de signe quelconque ;
-
-- linéarité, positivité, relation de Chasles ;
-
-- valeur moyenne.
-
-ii) Géométrie
-
-1. Nombres complexes :
-
-- forme algébrique, conjugué ;
-
-- somme, produit, quotient ;
-
-- équation du second degré à coefficients réels ;
-
-- représentation géométrique ;
-
-- affixe d'un point, d'un vecteur ;
-
-- forme trigonométrique :
-
-- module et argument, interprétation géométrique dans un repère orthonormé direct ;
-
-- notation exponentielle.
-
-2. Géométrie dans l'espace :
-
-- droites et plans :
-
-- positions relatives de droites et de plans : intersection et parallélisme ;
-
-- orthogonalité :
-
-- de deux droites ;
-
-- d'une droite et d'un plan ;
-
-- géométrie vectorielle :
-
-- caractérisation d'un plan par un point et deux vecteurs non colinéaires ;
-
-- vecteurs coplanaires ;
-
-- décomposition d'un vecteur en fonction de trois vecteurs non coplanaires ;
-
-- repérage ;
-
-- représentation paramétrique d'une droite ;
-
-- produit scalaire :
-
-- produit scalaire de deux vecteurs dans l'espace : définition, propriétés ;
-
-- vecteur normal à un plan ;
-
-- équation cartésienne d'un plan.
-
-3. Probabilités et statistiques :
-
-- conditionnement, indépendance :
-
-- conditionnement par un événement de probabilité non nulle ;
-
-- notation PA (B) ;
-
-- indépendance de deux événements ;
-
-- notion de loi à densité à partir d'exemples :
-
-- loi à densité sur un intervalle ;
-
-- loi uniforme sur [a, b] ;
-
-- espérance d'une variable aléatoire suivant une loi uniforme ;
-
-- lois exponentielles ;
-
-- espérance d'une variable aléatoire suivant une loi exponentielle ;
-
-- loi normale centrée réduite N (0,1) ;
-
-- théorème de Moivre Laplace (admis) ;
-
-- loi normale N (μ, σ2) d'espérance μ et d'écart type σ ;
-
-- intervalle de fluctuation ;
-
-- estimation :
-
-- intervalle de confiance :
-
-Un intervalle de fluctuation asymptotique de la variable aléatoire Fn au seuil 1 - α est un intervalle déterminé à partir de p et de n et qui contient Fn avec une probabilité d'autant plus proche de 1 - α que n est grand.
-
-Un intervalle de confiance pour une proportion p à un niveau de confiance 1 - α est la réalisation, à partir d'un échantillon, d'un intervalle aléatoire contenant la proportion p avec une probabilité supérieure ou égale à 1 - α, intervalle aléatoire déterminé à partir de la variable aléatoire fréquence Fn qui, à tout échantillon de taille n, associe la fréquence.
-
-Les intervalles de confiance considérés ici sont centrés en la fréquence observée f ;
-
-- niveau de confiance.
+B. - (Abrogé).
 
 C. - Cas concret professionnel
 
@@ -236,7 +70,7 @@ Elle comporte :
 
 a) Un entretien individuel, réalisé par un psychologue, destiné à éclairer le président du jury sur l'adaptabilité du candidat à l'emploi. Cet entretien ne nécessite aucune préparation particulière et comprend des tests écrits et un entretien oral ;
 
-b) Un entretien individuel du candidat avec le président du jury assisté d'un examinateur. Il débute par un exposé d'une durée de dix minutes sur un thème général se rapportant à des idées ou à des faits dont la connaissance est nécessaire à la compréhension du monde moderne. Il se poursuit sous la forme d'un dialogue avec le jury. Le candidat tire au sort un sujet. Il peut, s'il le souhaite, tirer un second sujet. Le temps pris pour définitivement exprimer son choix est décompté sur son temps de préparation de vingt minutes. Pour cet entretien, le président du jury dispose, à titre indicatif, du dossier du candidat.
+b) Un entretien individuel du candidat avec le président du jury assisté d'un ou plusieurs examinateurs. Il débute par un exposé d'une durée de dix minutes sur un thème général se rapportant à des idées ou à des faits dont la connaissance est nécessaire à la compréhension du monde moderne. Il se poursuit sous la forme d'un dialogue avec le jury. Le candidat tire au sort un sujet. Il peut, s'il le souhaite, tirer un second sujet. Le temps pris pour définitivement exprimer son choix est décompté sur son temps de préparation de vingt minutes. Pour cet entretien, le président du jury dispose, à titre indicatif, du dossier du candidat.
 
 2° Une épreuve de connaissances professionnelles (durée : cinquante minutes, dont vingt minutes de préparation ; coefficient 25)
 

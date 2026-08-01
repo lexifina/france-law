@@ -406,103 +406,7 @@ a) La théorie générale du droit de la fonction publique : les sources, la com
 
 b) Le régime juridique de la fonction publique : la carrière du fonctionnaire, les droits et obligations du fonctionnaire.
 
-C.-OPTION FINANCES PUBLIQUES
-
-Cette épreuve consiste à rédiger, sans l'aide d'une documentation, une composition portant sur l'un des thèmes figurant au programme défini ci-après.
-
-I.-Le cadre général des finances publiques
-
-1° Définitions, notions clés et principales masses financières :
-
-a) Les finances publiques dans la comptabilité nationale : administrations publiques, dépenses publiques, prélèvements obligatoires.
-
-b) Les grandes catégories de dépenses publiques et leurs facteurs d'évolution : l'emploi public et les dépenses de personnel, le fonctionnement courant, les dépenses de transfert, l'investissement public.
-
-c) Les prélèvements obligatoires (y compris leur structure et leur poids) et les autres ressources publiques.
-
-2° Le cadre constitutionnel et européen :
-
-a) Le régime constitutionnel des finances publiques (Etat, finances locales, finances sociales) : Constitution et lois organiques.
-
-b) Le pouvoir budgétaire : rôles respectifs du Parlement, du Gouvernement, des institutions européennes et des institutions de contrôle.
-
-c) L'encadrement européen. Le traité de Maastricht et le pacte de stabilité et de croissance. Les programmes de stabilité : contenu et modalités d'examen. Le traité sur la stabilité, la coordination et la gouvernance. La coordination des politiques économiques et budgétaires.
-
-3° Le cadre administratif et l'organisation des administrations financières :
-
-a) Les administrations financières françaises : ministère de l'économie et des finances, Banque de France, Caisse des dépôts et consignations, Banque publique d'investissement.
-
-b) La Banque centrale européenne : rôle et organisation. La politique monétaire et le financement des administrations publiques dans la zone euro.
-
-II.-La politique budgétaire
-
-1° Les notions d'équilibre et de déficit ; régimes juridiques applicables aux différentes collectivités publiques en matière d'équilibre. Les soldes structurel et conjoncturel. Le solde primaire. Le solde stabilisant. Notion de soutenabilité de la dette. Objectifs de la politique budgétaire.
-
-2° Définition et structure de la dette publique, évolution sur longue période. L'émission et la gestion de la dette. Les différentes catégories de titres de dette publique. L'Agence France Trésor. La Caisse d'amortissement de la dette sociale.
-
-3° Notions sur les politiques de relance et de maîtrise des finances publiques. L'impact de la dette publique sur l'économie.
-
-III.-Eléments sur les prélèvements obligatoires et la politique fiscale
-
-1° Les grandes classifications fiscales : impôts directs/ impôts indirects, impôts proportionnels/ impôts progressifs, impôts sur la consommation/ la production/ le revenu/ le patrimoine.
-
-2° Les théories fiscales : la justification de l'impôt et des autres prélèvements obligatoires. La neutralité des prélèvements obligatoires. Le consentement à l'impôt. L'effet redistributif des prélèvements obligatoires. L'incidence des prélèvements obligatoires sur la croissance, l'emploi et le développement durable.
-
-3° Modalités de calcul et de recouvrement des principaux impôts sur la consommation (TVA, accises), des principaux impôts pesant sur les entreprises (IS, contribution économique territoriale), des principaux impôts pesant sur les ménages (IR, CSG, impôts sur le patrimoine, taxe d'habitation).
-
-4° Les dépenses fiscales : principaux dispositifs.
-
-5° Principes généraux du contentieux de l'impôt.
-
-IV.-Les finances de l'Etat
-
-1° La structure du budget de l'Etat et des lois de finances (l'équilibre du budget, le tableau de financement, l'articulation première et seconde partie de la loi de finances). Les principales ressources et dépenses de l'Etat. Les principaux documents budgétaires.
-
-2° Les principes budgétaires classiques (annualité, unité, spécialité, universalité) et récents (équilibre, sincérité, performance).
-
-3° Les lois de finances : du projet de loi de finances initial à la loi de règlement. La pluriannualité budgétaire.
-
-4° L'élaboration du budget de l'Etat et de la loi de finances : grandes étapes, exercice du droit d'amendement, rôle des commissions parlementaires, examen de la constitutionnalité.
-
-5° L'exécution des lois de finances. Le pilotage de l'exécution budgétaire.
-
-6° La gestion publique issue de la loi organique relative aux lois de finances : règles de gestion et prise en compte de la performance. Les opérateurs de l'Etat.
-
-V.-Les finances locales
-
-1° Le cadre général : grandes masses financières et leur évolution, relations financières entre l'Etat et les collectivités territoriales, notion d'autonomie financière des collectivités territoriales, principes budgétaires.
-
-2° La structure des budgets des collectivités territoriales et la procédure budgétaire : la présentation des budgets (nomenclatures, règle d'équilibre) ; les conditions d'élaboration, d'adoption et de contrôle des budgets locaux.
-
-3° Les ressources des collectivités territoriales ; les principales dépenses des collectivités territoriales ; les transferts de compétences de l'Etat aux collectivités territoriales et leur compensation.
-
-VI.-Les finances sociales
-
-1° Le cadre général : notions sur les différents régimes, situation des finances sociales et masses financières en jeu, règles relatives au financement de la sécurité sociale, relations financières entre l'Etat et la sécurité sociale, comptes de la protection sociale.
-
-2° La structure des finances sociales. Les ressources. Les principales dépenses sociales et leurs déterminants.
-
-3° L'élaboration, l'adoption et l'exécution des lois de financement de la sécurité sociale.
-
-VII.-Les règles comptables
-
-1° La comptabilité publique. Les principes. Les différentes comptabilités : comptabilité de caisse, comptabilité en droits constatés. L'organisation de la chaîne de la dépense.
-
-2° La comptabilité patrimoniale de l'Etat.
-
-3° La certification des comptes publics.
-
-VIII.-Le contrôle des finances publiques
-
-1° Les contrôles financiers internes aux administrations ; les contrôles financiers externes (Cour des comptes, chambres régionales des comptes …) ; la responsabilité du comptable public ; la protection pénale des finances publiques (saisine du juge pénal, Cour de discipline budgétaire et financière, délit de favoritisme).
-
-2° L'évaluation des politiques publiques : rôles respectifs du Parlement, de la Cour des comptes et des inspections générales.
-
-IX.-Les finances de l'Union européenne
-
-1° Le budget de l'Union européenne : les principes du droit budgétaire européen, la règle d'équilibre, le partage du pouvoir budgétaire entre les institutions de l'Union européenne.
-
-2° Ressources et dépenses du budget de l'Union européenne.
+C.- (Abrogé).
 
 D.-OPTION SCIENCES ÉCONOMIQUES ET DE GESTION
 
@@ -774,7 +678,7 @@ Elle comporte :
 
 a) Un entretien individuel, réalisé par un psychologue, destiné à éclairer le président du jury sur l'adaptabilité du candidat à l'emploi. Cet entretien ne nécessite aucune préparation particulière et comprend des tests écrits et un entretien oral.
 
-b) Un entretien individuel du candidat avec le président du jury assisté de deux examinateurs. Il débute par un exposé d'une durée de dix minutes sur un thème général se rapportant à des idées ou à des faits dont la connaissance est nécessaire à la compréhension du monde moderne. Il se poursuit sous la forme d'un dialogue avec le jury. Le candidat tire au sort un sujet. Il peut, s'il le souhaite, tirer un second sujet. Le temps pris pour définitivement exprimer son choix est décompté de son temps de préparation de vingt minutes. Pour cet entretien, le président du jury dispose, à titre indicatif, du dossier du candidat.
+b) Un entretien individuel du candidat avec le président du jury assisté d'un ou plusieurs examinateurs. Il débute par un exposé d'une durée de dix minutes sur un thème général se rapportant à des idées ou à des faits dont la connaissance est nécessaire à la compréhension du monde moderne. Il se poursuit sous la forme d'un dialogue avec le jury. Le candidat tire au sort un sujet. Il peut, s'il le souhaite, tirer un second sujet. Le temps pris pour définitivement exprimer son choix est décompté de son temps de préparation de vingt minutes. Pour cet entretien, le président du jury dispose, à titre indicatif, du dossier du candidat.
 
 2° Epreuve orale portant sur les questions de défense et de sécurité (durée : cinquante minutes, dont vingt minutes de préparation ; coefficient 4).
 

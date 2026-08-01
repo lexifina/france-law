@@ -56,7 +56,7 @@ Elle comporte :
 
 a) Un entretien individuel, réalisé par un psychologue, destiné à éclairer le président du jury sur l'adaptabilité du candidat à l'emploi. Cet entretien ne nécessite aucune préparation particulière et comprend des tests écrits et un entretien oral ;
 
-b) Un entretien individuel du candidat avec le président du jury assisté d'un examinateur. Il débute par un exposé d'une durée de dix minutes sur un thème général se rapportant à des idées ou à des faits dont la connaissance est nécessaire à la compréhension du monde moderne. Il se poursuit sous la forme d'un dialogue avec le jury. Le candidat tire au sort un sujet. Il peut, s'il le souhaite, tirer un second sujet. Le temps pris pour définitivement exprimer son choix est décompté sur son temps de préparation de vingt minutes. Pour cet entretien, le président du jury dispose, à titre indicatif, du dossier du candidat.
+b) Un entretien individuel du candidat avec le président du jury assisté d'un ou plusieurs examinateurs. Il débute par un exposé d'une durée de dix minutes sur un thème général se rapportant à des idées ou à des faits dont la connaissance est nécessaire à la compréhension du monde moderne. Il se poursuit sous la forme d'un dialogue avec le jury. Le candidat tire au sort un sujet. Il peut, s'il le souhaite, tirer un second sujet. Le temps pris pour définitivement exprimer son choix est décompté sur son temps de préparation de vingt minutes. Pour cet entretien, le président du jury dispose, à titre indicatif, du dossier du candidat.
 
 2° Epreuve de langue étrangère (durée : cinquante minutes, dont vingt minutes de préparation ; coefficient 2).
 
