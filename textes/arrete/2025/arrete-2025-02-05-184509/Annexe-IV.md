@@ -2,37 +2,31 @@
 
 ANNEXE IV
 
-TABLEAU RÉCAPITULATIF DES DISPENSES DES EXIGENCES PRÉALABLES À L'ENTRÉE EN FORMATION (EPEF), DES EXIGENCES PRÉALABLES À LA MISE EN SITUATION PROFESSIONNELLE (EPMSP) ET/OU DES MODALITÉS D'ÉPREUVES CERTIFICATIVES, AINSI QUE DES ALLÈGEMENTS ET/OU CORRESPONDANCES DE BLOC DE COMPÉTENCES (BC) AVEC LE BREVET PROFESSIONNEL DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ « ÉDUCATEUR SPORTIF » MENTION « ACTIVITÉS DE JUDO-JUJITSU »
+TABLEAU RÉCAPITULATIF DES DISPENSES DES EXIGENCES PRÉALABLES À L'ENTRÉE EN FORMATION (EPEF), DES EXIGENCES PRÉALABLES À LA MISE EN SITUATION PROFESSIONNELLE (EPMSP) ET/OU DES MODALITÉS D'ÉPREUVES CERTIFICATIVES, AINSI QUE DES ALLÈGEMENTS ET/OU CORRESPONDANCES DE BLOC DE COMPÉTENCES (BC) AVEC LE BREVET PROFESSIONNEL DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ "ÉDUCATEUR SPORTIF" MENTION "ACTIVITÉS DE JUDO-JUJITSU"
 
-La personne titulaire de l'une des certifications mentionnées dans le tableau figurant ci-après est dispensée des exigences préalables à l'entrée en formation (EPEF), des exigences préalables à la mise en situation professionnelle (EPMSP) et/ou des modalités d'épreuves certificatives, et/ou obtient les allégements et/ou les blocs de compétences (BC) correspondants du brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité « éducateur sportif » mention « activités de judo-jujitsu », suivantes :
+La personne titulaire de l'une des certifications mentionnées dans le tableau figurant ci-après est dispensée des exigences préalables à l'entrée en formation (EPEF), des exigences préalables à la mise en situation professionnelle (EPMSP) et/ou des modalités d'épreuves certificatives, et/ou obtient les allégements et/ou les blocs de compétences (BC) correspondants du brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité "éducateur sportif" mention "activités de judo-jujitsu", suivantes :
 
 |
 
-EPEF
+EPEF visées
 
-visées à l'article 4 |
+à l'article 4 |
 
-EPMSP
+EPMSP visées
 
-visées à l'article 5 |
+à l'article 5 |
 
 BC3 |
 
-Sportif de haut niveau en judo, jujitsu inscrit ou ayant été inscrit sur la liste ministérielle mentionnée à l'article L. 221- 2 du code du sport
+Sportif de haut niveau en judo, jujitsu inscrit ou ayant été inscrit sur la liste ministérielle mentionnée à l'article L. 221- 2 du code du sport |
 
-|
-
-X
-
-TEP
-
-uniquement |
+X uniquement TEP (*) |
 
 |
 
 |
 
-UC(*) 3 ou 4 du BPJEPS(*) spécialité « éducateur sportif » mention « judo-jujitsu » RNCP36820 |
+UC (*) 3 ou 4 du BPJEPS (*) spécialité "éducateur sportif" mention "judo-jujitsu" - RNCP36820 |
 
 X |
 
@@ -40,7 +34,7 @@ X |
 
 Allègement de formation (**) |
 
-UC 3 et 4 du BPJEPS spécialité « éducateur sportif » mention « judo-jujitsu » RNCP36820 |
+UC 3 et 4 du BPJEPS spécialité "éducateur sportif" mention "judo-jujitsu" - RNCP36820 |
 
 X |
 
@@ -48,11 +42,25 @@ X |
 
 X |
 
-Brevet fédéral de judo-jujitsu 1er ou 2e degré délivré par la Fédération sportive et gymnique du travail. |
+CQP (*) Moniteur d'arts martiaux option Judo-Jujitsu - RNCP39116 |
 
-X
+X uniquement TEP |
 
-uniquement TEP |
+|
+
+|
+
+CQP (*) Moniteur d'arts martiaux option Judo-Jujitsu (RNCP39116) délivré au cours des deux dernières années ou justifier d'une expérience d'encadrement sportif dans le champ du judo-jujitsu de deux années minimum au cours des cinq dernières années |
+
+X uniquement TEP |
+
+X |
+
+|
+
+Brevet fédéral de judo-jujitsu 1er ou 2e degré délivré par la Fédération sportive et gymnique du travail |
+
+X uniquement TEP |
 
 |
 
@@ -60,9 +68,7 @@ uniquement TEP |
 
 Brevet fédéral de judo-jujitsu 1er ou 2e degré délivré par la Fédération sportive et gymnique du travail et justifier d'une expérience d'encadrement sportif dans le champ du judo-jujitsu de deux années minimum au cours des cinq dernières années |
 
-X
-
-uniquement TEP |
+X uniquement TEP |
 
 X |
 
@@ -70,11 +76,7 @@ X |
 
 Certificat Animateur Fédéral (CAF) délivré par la Fédération française de judo, jujitsu, kendo et disciplines associées |
 
-X
-
-uniquement
-
-TEP |
+X uniquement TEP |
 
 |
 
@@ -82,29 +84,37 @@ TEP |
 
 Certificat Animateur Fédéral (CAF) délivré par la Fédération française de judo, jujitsu, kendo et disciplines associées et justifier d'une expérience d'encadrement sportif du judo-jujitsu de deux années minimum au cours des cinq dernières années |
 
-X
-
-uniquement
-
-TEP |
+X uniquement TEP |
 
 X |
 
 |
 
-Titulaire du grade 3e dan ou grade équivalent en judo-jujitsu, délivré par la Commission spécialisée des dans et grades équivalents de la Fédération française de judo, jujitsu, kendo et disciplines associées |
+Titulaire du 2e dan ou grade équivalent en judo-jujitsu, délivré ou reconnu par la Commission spécialisée des dans et grades équivalents de la Fédération française de judo, jujitsu, kendo et disciplines associées. |
+
+X uniquement TEP |
 
 |
+
+|
+
+Titulaire du 3e dan ou grade supérieur en judo-jujitsu, délivré ou reconnu par la Commission spécialisée des dans et grades équivalents de la Fédération française de judo, jujitsu, kendo et disciplines associées |
+
+X uniquement TEP |
 
 |
 
 X
 
-pour ce qui concerne la série tirée au sort du Katame No Kata et la série tirée au sort du Kodokan Goshin Jitsu du a) des pré-requis d'accès |
+pour ce qui concerne la série tirée au sort du Katame No Kata et la série tirée au sort du Kodokan Goshin Jitsu du a des pré-requis d'accès |
 
-(*) UC : unité capitalisable.
+(*) TEP : tests d'exigences préalables.
+
+UC : unité capitalisable.
 
 BPJEPS : brevet professionnel de la jeunesse de l'éducation populaire et du sport.
+
+CQP : certificat de qualification professionnelle.
 
 (**) Les allègements de formation précisés dans le tableau sont établis lors du positionnement et ne présagent pas des allégements qui pourraient être obtenus au titre du parcours personnel du candidat.
 
