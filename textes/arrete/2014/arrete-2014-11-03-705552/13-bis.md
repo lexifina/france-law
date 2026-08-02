@@ -19,3 +19,5 @@ III.-Lorsqu'il ne s'agit pas de faire face au risque de levier excessif mentionn
 3° L'exigence globale de coussin de fonds propres définie à l'article L. 511-41-1A du code monétaire et financier ;
 
 4° Les exigences de fonds propres énoncées à l'article 11, paragraphe 1, point a, b et c du règlement (UE) n° 2019/2033 du Parlement européen et du Conseil du 27 novembre 2019.
+
+IV. - Les dispositions du présent article ne sont pas applicables aux succursales d'établissements de crédit mentionnées au I de l'article L. 511-10 du code monétaire et financier, sauf si celles-ci sont assujetties aux exigences du règlement (UE) n° 575/2013 du Parlement européen et du Conseil du 26 juin 2013 en application du A du II de l'article L. 511-41 du même code.
