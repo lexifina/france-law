@@ -1,7 +1,5 @@
 # Article Annexe II
 
-ANNEXE II
-
 LISTE DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 
 SERVICES OU DIRECTIONS |
@@ -98,7 +96,7 @@ Seine-et-Marne |
 
 Directeur de l'immigration et de l'intégration |
 
-Directeur de la coordination des services de l'Etat |
+Poste à identifier |
 
 Yvelines |
 
