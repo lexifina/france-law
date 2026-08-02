@@ -421,5 +421,3 @@ DDTM du Pas-de-Calais :
 E. - Etablissements publics
 
 Agence de la transition écologique (ADEME) :
-
-- chef du service SITESOL.
