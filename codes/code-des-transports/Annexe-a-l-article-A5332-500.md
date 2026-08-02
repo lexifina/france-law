@@ -1,6 +1,6 @@
 # Article Annexe à l'article A. 5332-500
 
-RÉFÉRENTIEL NATIONALE DE FORMATION EN SÛRETÉ PORTUAIRE - FORMATION &laquo; AGENT CHARGÉ DES CONTRÔLES ET VÉRIFICATIONS DE SÛRETÉ (ACVS) &raquo;
+RÉFÉRENTIEL NATIONALE DE FORMATION EN SÛRETÉ PORTUAIRE - FORMATION "AGENT CHARGÉ DES CONTRÔLES ET VÉRIFICATIONS DE SÛRETÉ (ACVS)"
 
 Avertissement concernant la durée de la formation :
 
@@ -26,7 +26,7 @@ Sous-module A1 - Réglementation internationale relative à la sûreté portuair
 
 Durée : 15 à 30 minutes |
 
-Convention internationale pour la sauvegarde de la vie humaine en mer &laquo; SOLAS &raquo; conclue à LONDRES le 1er novembre 1974 et amendements à l'annexe à cette convention, ensemble un code international pour la sûreté des navires et des installations portuaires (code ISPS), adoptés à Londres le 12 décembre 2002. |
+Convention internationale pour la sauvegarde de la vie humaine en mer "SOLAS" conclue à LONDRES le 1er novembre 1974 et amendements à l'annexe à cette convention, ensemble un code international pour la sûreté des navires et des installations portuaires (code ISPS), adoptés à Londres le 12 décembre 2002. |
 
 Connaissances générales permettant la compréhension des objectifs et principes du système international de sûreté portuaire. |
 
@@ -92,7 +92,7 @@ Sous-module B2 - Acteurs institutionnels nationaux locaux |
 
 Durée : 45 minutes à 1 heure |
 
-Services de l'Etat territoriaux : préfet de département et référent départemental pour la sûreté portuaire ; préfet maritime et gendarmerie maritime (notamment pelotons de sûreté maritime et portuaire &laquo; PSMP &raquo;) ; forces de sécurité intérieure (police aux frontières, sécurité publique, gendarmerie nationale, douanes). |
+Services de l'Etat territoriaux : préfet de département et référent départemental pour la sûreté portuaire ; préfet maritime et gendarmerie maritime (notamment pelotons de sûreté maritime et portuaire "PSMP") ; forces de sécurité intérieure (police aux frontières, sécurité publique, gendarmerie nationale, douanes). |
 
 Connaissances générales permettant la compréhension de l'environnement professionnel des agents chargés des vérifications et contrôles de sûreté en articulation avec leurs missions. |
 
@@ -164,7 +164,7 @@ Installation portuaire |
 
 Zone à accès restreint (ZAR) |
 
-Zone non librement accessible au public (ZNLAP) |
+Zone portuaire à accès contrôlés (ZPAC) |
 
 Autres zones (zones intégrées de sûreté portuaire, quais publics, etc.) |
 

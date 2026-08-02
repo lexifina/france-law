@@ -120,7 +120,7 @@ Installation portuaire |
 
 Zone à accès restreint (ZAR) |
 
-Zone non librement accessible au public (ZNLAP) |
+Zone portuaire à accès contrôlés (ZPAC) |
 
 Autres zones (zones intégrées de sûreté portuaire, quais publics, etc.) |
 

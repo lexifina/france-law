@@ -1,6 +1,6 @@
 # Article Annexe à l'article A. 5332-400
 
-RÉFÉRENTIEL NATIONAL DE FORMATION EN SÛRETÉ PORTUAIRE - FORMATION &laquo; AGENT DE SÛRETÉ DE L'INSTALLATION PORTUAIRE (ASIP) &raquo;
+RÉFÉRENTIEL NATIONAL DE FORMATION EN SÛRETÉ PORTUAIRE - FORMATION "AGENT DE SÛRETÉ DE L'INSTALLATION PORTUAIRE (ASIP)"
 
 Avertissement concernant la durée de la formation :
 
@@ -14,7 +14,9 @@ Durée : 30 minutes |
 
 Présentation de la formation et de ses objectifs.
 
-Introduction aux responsabilités de l'ASIP. |
+Introduction aux responsabilités de l'ASIP.
+
+|
 
 Module A - Réglementation |
 
@@ -26,13 +28,13 @@ Sous-module A1 - Réglementation internationale |
 
 Durée : 30 minutes à 1 heure |
 
-Convention internationale pour la sauvegarde de la vie humaine en mer &laquo; SOLAS &raquo; conclue à LONDRES le 1er novembre 1974 et amendements à l'annexe à cette convention, ensemble un code international pour la sûreté des navires et des installations portuaires (code ISPS), adoptés à Londres le 12 décembre 2002. |
+Convention internationale pour la sauvegarde de la vie humaine en mer "SOLAS" conclue à LONDRES le 1er novembre 1974 et amendements à l'annexe à cette convention, ensemble un code international pour la sûreté des navires et des installations portuaires (code ISPS), adoptés à Londres le 12 décembre 2002. |
 
 Connaissances générales permettant la compréhension des objectifs et principes du système international de sûreté portuaire, en lien avec la fonction d'ASIP. |
 
 Résolutions et circulaires pertinentes de l'Organisation maritime internationale |
 
-Contrôle des navires par l'Etat du port (MOU) et fonction de &laquo; Duly Authorised Officer &raquo;. |
+Contrôle des navires par l'Etat du port (MOU) et fonction de "Duly Authorised Officer". |
 
 Sous-module A2 - Réglementation européenne relative à la sûreté portuaire |
 
@@ -62,13 +64,17 @@ Sous-module A3 - Réglementation nationale relative à la sûreté portuaire |
 
 Durée :
 
-1 heure à 1 heure et 30 minutes |
+1 heure à 1 heure et 30 minutes
+
+|
 
 Code des transports |
 
 Connaissances générales permettant la compréhension des objectifs et principes système national de sûreté portuaire.
 
-Connaissances avancées permettant la compréhension du régime juridique des contrôles de sûreté applicables aux zones à accès restreint et aux différentes catégories d'installations portuaires. |
+Connaissances avancées permettant la compréhension du régime juridique des contrôles de sûreté applicables aux zones à accès restreint et aux différentes catégories d'installations portuaires.
+
+|
 
 Arrêtés interministériels et ministériels |
 
@@ -110,7 +116,7 @@ Durée : 15 minutes |
 
 Organisation maritime internationale. |
 
-Connaissances générales permettant la compréhension de son organisation et de ses attributions &laquo; sûreté portuaire &raquo; (incluant une présentation de GISIS) et &laquo; cybersécurité &raquo;. |
+Connaissances générales permettant la compréhension de son organisation et de ses attributions "sûreté portuaire" (incluant une présentation de GISIS) et "cybersécurité". |
 
 Sous-module B2 - Acteurs institutionnels européens |
 
@@ -120,9 +126,11 @@ Commission européenne
 
 Agence européenne pour la sécurité maritime
 
-Agence de l'Union européenne pour la cybersécurité |
+Agence de l'Union européenne pour la cybersécurité
 
-Connaissances générales permettant la compréhension de leur organisation et de leurs attributions &laquo; sûreté portuaire &raquo; et &laquo; cybersécurité &raquo;. |
+|
+
+Connaissances générales permettant la compréhension de leur organisation et de leurs attributions "sûreté portuaire" et "cybersécurité". |
 
 Sous-module B3 - Acteurs institutionnels nationaux centraux |
 
@@ -136,9 +144,11 @@ Sous-module B4 - Acteurs institutionnels nationaux locaux |
 
 Durée : 30 à 45 minutes |
 
-Services de l'Etat territoriaux : préfet de département et référent départemental pour la sûreté portuaire ; préfet maritime et gendarmerie maritime (notamment pelotons de sûreté maritime et portuaire &laquo; PSMP &raquo;) ; forces de sécurité intérieure (police aux frontières, sécurité publique, gendarmerie nationale, douanes).
+Services de l'Etat territoriaux : préfet de département et référent départemental pour la sûreté portuaire ; préfet maritime et gendarmerie maritime (notamment pelotons de sûreté maritime et portuaire "PSMP") ; forces de sécurité intérieure (police aux frontières, sécurité publique, gendarmerie nationale, douanes).
 
-Instances locales (comité local de sûreté portuaire et émanations) |
+Instances locales (comité local de sûreté portuaire et émanations)
+
+|
 
 Connaissances générales permettant la compréhension de l'environnement professionnel d'un ASIP en lien avec sa fonction. |
 
@@ -172,7 +182,9 @@ Sous-module C1 - Prévention des actes illicites intentionnels |
 
 Durée :
 
-1 heure et 30 minutes à 2 heures |
+1 heure et 30 minutes à 2 heures
+
+|
 
 Armes
 
@@ -180,7 +192,9 @@ Substances et engins dangereux non autorisés
 
 Stupéfiants
 
-Autres objets ou substances illicites |
+Autres objets ou substances illicites
+
+|
 
 Connaissances avancées permettant la maîtrise de ces concepts et les mesures de sûreté particulières applicables en cas d'autorisation de transport. |
 
@@ -192,7 +206,9 @@ Sous-module C2 - Principales menaces |
 
 Durée :
 
-1 heure et 30 minutes à 2 heures |
+1 heure et 30 minutes à 2 heures
+
+|
 
 Menace terroriste |
 
@@ -210,7 +226,9 @@ Sous-module C3 - Zonages portuaires |
 
 Durée :
 
-1 heure et 30 minutes à 2 heures |
+1 heure et 30 minutes à 2 heures
+
+|
 
 Navire |
 
@@ -220,7 +238,7 @@ Installation portuaire |
 
 Zone à accès restreint (ZAR) |
 
-Zone non librement accessible au public (ZNLAP) |
+Zone portuaire à accès contrôlés (ZPAC) |
 
 Autres zones (zones intégrées de sûreté portuaire, quais publics, etc.) |
 
@@ -230,7 +248,9 @@ Sous-module C4 - Contrôles de sûreté |
 
 Durée :
 
-1 heure et 30 minutes à 2 heures |
+1 heure et 30 minutes à 2 heures
+
+|
 
 Supervision des contrôles de sûreté |
 
@@ -250,11 +270,13 @@ Durée : 7 heures |
 
 L'objectif de ce module est l'acquisition de compétences pratiques permettant de maîtriser les processus liés aux principaux documents de sûreté. |
 
-Sous-module D1 - Evaluation de sûreté de l'installation portuaire &laquo; ESIP &raquo; |
+Sous-module D1 - Evaluation de sûreté de l'installation portuaire "ESIP" |
 
 Durée :
 
-3 heures à 3 heures et 30 minutes |
+3 heures à 3 heures et 30 minutes
+
+|
 
 Objectifs d'une ESIP |
 
@@ -264,11 +286,13 @@ Etablissement d'une ESIP |
 
 Compétences générales permettant la compréhension de la phase de préparation (incluant la méthodologie d'analyse du risque), d'approbation et de révision d'une ESIP, en articulation avec la participation de l'ASIP au processus. |
 
-Sous-module D2 - Plan de sûreté de l'installation portuaire &laquo; PSIP &raquo; |
+Sous-module D2 - Plan de sûreté de l'installation portuaire "PSIP" |
 
 Durée :
 
-3 heures et 30 minutes à 4 heures |
+3 heures et 30 minutes à 4 heures
+
+|
 
 Objectifs d'un PSIP |
 
@@ -298,7 +322,9 @@ Compétences avancées en termes de bonnes pratiques permettant la maîtrise au 
 
 Echanges d'informations (incluant ceux sur les exercices de sûreté portuaire)
 
-Processus mutualisés (ex. titres d'accès, ZNLAP, etc.) |
+Processus mutualisés (ex. titres d'accès, ZPAC, etc.)
+
+|
 
 Compétences avancées en termes de bonnes pratiques permettant la coordination entre l'ASIP et l'ASP. |
 
@@ -306,7 +332,9 @@ Sous-module E2 - Coordination ASIP / Etat |
 
 Durée :
 
-1 heure à 1 heure et 30 minutes |
+1 heure à 1 heure et 30 minutes
+
+|
 
 Modalités de saisine de l'Etat via CEZAR et enquêtes administratives de sécurité (dont gestion des refus) |
 
@@ -340,7 +368,9 @@ Durée : 15 à 30 minutes |
 
 Echanges d'informations
 
-Contrôle qualité |
+Contrôle qualité
+
+|
 
 Compétences avancées en termes de bonnes pratiques permettant la coordination entre l'ASIP et ses prestataires (entreprise privée de surveillance et de gardiennage, OSH, etc.). |
 
@@ -354,7 +384,9 @@ Sous-module F1 - Politique interne |
 
 Durée :
 
-3 heures à 4 heures |
+3 heures à 4 heures
+
+|
 
 Gestion des vulnérabilités internes |
 
@@ -368,7 +400,7 @@ Démarches qualité (normes ISO 9001 / 28000) et exemples de politiques de sûre
 
 Compétences générales permettant la compréhension des objectifs de ces démarches si l'ASIP souhaite les déployer. |
 
-Rédaction d'une déclaration de sûreté &laquo; DoS &raquo; |
+Rédaction d'une déclaration de sûreté "DoS" |
 
 Compétences avancées permettant à l'ASIP de maîtriser les processus via un cas pratique (sur la base d'une installation portuaire fictive) |
 
@@ -432,4 +464,4 @@ Préparation aux situations d'urgence et à la gestion de crise (dont plan de ge
 
 Actions réflexes au déclenchement d'une crise (dont armement d'une salle de crise) |
 
-Articulation avec les services d'incendie et de secours (SDIS, SAMU, SMUR) et forces de sécurité intérieure (y compris cellule de neutralisation, enlèvement, destruction d'explosifs &laquo; NEDEX &raquo;) au regard de leurs rôles respectifs |
+Articulation avec les services d'incendie et de secours (SDIS, SAMU, SMUR) et forces de sécurité intérieure (y compris cellule de neutralisation, enlèvement, destruction d'explosifs "NEDEX") au regard de leurs rôles respectifs |

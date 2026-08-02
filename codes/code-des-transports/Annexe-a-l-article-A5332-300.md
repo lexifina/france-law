@@ -1,6 +1,6 @@
 # Article Annexe à l'article A. 5332-300
 
-ANNEXE À L'ARTICLE A. 5332-300-RÉFÉRENTIEL NATIONAL DE FORMATION EN SÛRETÉ PORTUAIRE-FORMATION &laquo; AGENT DE SÛRETÉ DU PORT (ASP) &raquo;
+ANNEXE À L'ARTICLE A. 5332-300-RÉFÉRENTIEL NATIONAL DE FORMATION EN SÛRETÉ PORTUAIRE-FORMATION "AGENT DE SÛRETÉ DU PORT (ASP)"
 
 Avertissement concernant la durée de la formation :
 
@@ -14,7 +14,7 @@ Durée : 30 minutes |
 
 Présentation de la formation et de ses objectifs.
 
-Les personnes ayant suivi ce cours avec succès doivent pouvoir occuper les fonctions et assumer les responsabilités d'agent de sûreté du port telles qu'elles sont définies à l'article 9 de la directive 2005/65/ CE du Parlement européen et du Conseil du 26 octobre 2005 (modifiée) relative à l'amélioration de la sûreté des ports et à l'article R. 5332-22 du code des transports, en particulier préparer et mettre en œuvre le plan de sûreté du port.
+Les personnes ayant suivi ce cours avec succès doivent pouvoir occuper les fonctions et assumer les responsabilités d'agent de sûreté du port telles qu'elles sont définies à l'article 9 de la directive 2005/65/ CE du Parlement européen et du Conseil du 26 octobre 2005 (modifiée) relative à l'amélioration de la sûreté des ports et à l'article R. 5332-24 du code des transports, en particulier préparer et mettre en œuvre le plan de sûreté du port.
 
 |
 
@@ -28,13 +28,13 @@ Sous-module A1-Réglementation internationale relative à la sûreté portuaire 
 
 Durée : 10 à 15 minutes |
 
-Convention internationale pour la sauvegarde de la vie humaine en mer &laquo; SOLAS &raquo; conclue à LONDRES le 1er novembre 1974 et amendements à l'annexe à cette convention, ensemble un code international pour la sûreté des navires et des installations portuaires (code ISPS), adoptés à Londres le 12 décembre 2002. |
+Convention internationale pour la sauvegarde de la vie humaine en mer "SOLAS" conclue à LONDRES le 1er novembre 1974 et amendements à l'annexe à cette convention, ensemble un code international pour la sûreté des navires et des installations portuaires (code ISPS), adoptés à Londres le 12 décembre 2002. |
 
 Connaissances générales permettant la compréhension des objectifs et principes du système international de sûreté portuaire, en lien avec la fonction d'ASP. |
 
 Résolutions et circulaires pertinentes de l'Organisation maritime internationale |
 
-Contrôle des navires par l'Etat du port (MOU) et fonction de &laquo; Duly Authorised Officer &raquo;. |
+Contrôle des navires par l'Etat du port (MOU) et fonction de "Duly Authorised Officer". |
 
 Sous-module A2-Réglementation européenne relative à la sûreté portuaire |
 
@@ -82,13 +82,13 @@ Connaissances générales permettant la compréhension des finalités de chaque 
 
 Zone à accès restreint (ZAR) |
 
-Zone non librement accessible au public (ZNLAP) |
+Zone portuaire à accès contrôlés (ZPAC) |
 
 Autres zones (zones intégrées de sûreté portuaire, quais publics, etc.) |
 
 Limites portuaires de sûreté |
 
-Plans d'eau : zones de mouillage, chenaux d'accès, zone maritime et fluviale de régulation, cas particuliers (canalisations sub-aquatiques &laquo; sea-ine &raquo;, tendering, etc.) |
+Plans d'eau : zones de mouillage, chenaux d'accès, zone maritime et fluviale de régulation, cas particuliers (canalisations sub-aquatiques "sea-ine", tendering, etc.) |
 
 Module D-Documents |
 
@@ -96,7 +96,7 @@ Durée : 7 heures |
 
 L'objectif de ce module est l'acquisition de compétences pratiques permettant de maîtriser les processus liés aux principaux documents de sûreté. |
 
-Sous-module D1-Evaluation de sûreté du port &laquo; ESP &raquo; |
+Sous-module D1-Evaluation de sûreté du port "ESP" |
 
 Durée : 3 heures |
 
@@ -108,7 +108,7 @@ Etablissement d'une ESP |
 
 Compétences générales permettant la compréhension de la phase de préparation (incluant la méthodologie d'analyse du risque-identification des menaces et des points sensibles-, la définition des limites portuaires de sûreté et les propositions de contre-mesures ; via un cas pratique sur la base d'un port fictif), d'approbation et de révision d'une ESP, en articulation avec la participation de l'ASP au processus. |
 
-Sous-module D2-Plan de sûreté du port &laquo; PSP &raquo; |
+Sous-module D2-Plan de sûreté du port "PSP" |
 
 Durée : 4 heures |
 
@@ -144,7 +144,7 @@ Compétences avancées en termes de bonnes pratiques permettant la coordination 
 
 Echanges d'informations (incluant ceux sur les exercices de sûreté portuaire)
 
-Processus mutualisés (ex. : titres d'accès, ZNLAP, etc.)
+Processus mutualisés (ex. : titres d'accès, ZPAC, etc.)
 
 |
 
@@ -200,7 +200,7 @@ Démarches qualité (normes ISO 9001/28000) et exemples de politiques de sûret�
 
 Compétences générales permettant la compréhension des objectifs de ces démarches si l'ASP souhaite les déployer. |
 
-Rédaction d'une déclaration de sûreté &laquo; DoS &raquo; pour une interface non couverte par un PSIP |
+Rédaction d'une déclaration de sûreté "DoS" pour une interface non couverte par un PSIP |
 
 Compétences avancées permettant à l'ASP de maîtriser les processus via un cas pratique (sur la base d'un port fictif) |
 
@@ -268,6 +268,6 @@ Préparation aux situations d'urgence et à la gestion de crise (dont plan de ge
 
 Actions réflexes au déclenchement d'une crise (dont armement d'une salle de crise) |
 
-Articulation avec les services d'incendie et de secours (SDIS, SAMU, SMUR) et forces de sécurité intérieure (y compris cellule de neutralisation, enlèvement, destruction d'explosifs &laquo; NEDEX &raquo;) au regard de leurs rôles respectifs |
+Articulation avec les services d'incendie et de secours (SDIS, SAMU, SMUR) et forces de sécurité intérieure (y compris cellule de neutralisation, enlèvement, destruction d'explosifs "NEDEX") au regard de leurs rôles respectifs |
 
 Nota.-Le port fictif devra comprendre au minimum une installation portuaire soumise respectivement aux sous-section 5.1,5.2 et 5.3 de la section 5 du chapitre II du titre III du livre III de la cinquième partie du code des transports.

@@ -76,34 +76,34 @@ Partie n° 4. - Engagements de l'organisme
 
 Lettre d'engagements conforme au modèle ci-dessous, dûment remplie et signée par le dirigeant de la personne morale demandeuse.
 
-&laquo; Lettre d'engagements de la société
+"Lettre d'engagements de la société
 
-&laquo; “Raison sociale et adresse de la société demandeuse :
+"“Raison sociale et adresse de la société demandeuse :
 
-&laquo; “Nom, prénom, qualité du directeur de l'organisme :
+"“Nom, prénom, qualité du directeur de l'organisme :
 
-&laquo; “Je soussigné(e) :
+"“Je soussigné(e) :
 
-&laquo; “- déclare être pleinement conscient(e) des responsabilités de l'organisme que je représente, en ce qui concerne la mise en œuvre de formations en sûreté portuaire ;
+"“- déclare être pleinement conscient(e) des responsabilités de l'organisme que je représente, en ce qui concerne la mise en œuvre de formations en sûreté portuaire ;
 
-&laquo; “- m'engage, en conséquence, au nom de l'organisme à :
+"“- m'engage, en conséquence, au nom de l'organisme à :
 
-&laquo; “1. Fournir toutes les informations, pièces et justificatifs requis en application des dispositions législatives et réglementaires applicables aux organismes de formation en sûreté portuaire agréés et à en garantir leur authenticité ;
+"“1. Fournir toutes les informations, pièces et justificatifs requis en application des dispositions législatives et réglementaires applicables aux organismes de formation en sûreté portuaire agréés et à en garantir leur authenticité ;
 
-&laquo; “2. Mettre en place et actualiser une organisation et une équipe pédagogique en cohérence avec les référentiels de la formation ;
+"“2. Mettre en place et actualiser une organisation et une équipe pédagogique en cohérence avec les référentiels de la formation ;
 
-&laquo; “3. Respecter, le cas échéant, les exigences des articles A. 5332-705 à A. 5332-710.
+"“3. Respecter, le cas échéant, les exigences des articles A. 5332-705 à A. 5332-710.
 
-&laquo; “4. Mettre à disposition des formateurs une information actualisée sur l'évolution des dispositions législatives et réglementaires applicables aux organismes de formation en sûreté portuaire agréés et aux objectifs et référentiels des formations en sûreté portuaire ;
+"“4. Mettre à disposition des formateurs une information actualisée sur l'évolution des dispositions législatives et réglementaires applicables aux organismes de formation en sûreté portuaire agréés et aux objectifs et référentiels des formations en sûreté portuaire ;
 
-&laquo; “5. Mettre à disposition des stagiaires un poste de travail équipé et la documentation nécessaire à la formation ;
+"“5. Mettre à disposition des stagiaires un poste de travail équipé et la documentation nécessaire à la formation ;
 
-&laquo; “6. Faire respecter aux formateurs la confidentialité de l'organisation et du déroulement des évaluations ;
+"“6. Faire respecter aux formateurs la confidentialité de l'organisation et du déroulement des évaluations ;
 
-&laquo; “7. Autoriser les personnes désignées à cet effet par le ministre chargé des transports à accéder aux locaux de l'organisme et à y procéder aux audits et contrôles portant sur son activité en matière de formation en sûreté portuaire en application de l'article R. 5332-52 du code des transports ;
+"“7. Autoriser les personnes désignées à cet effet par le ministre chargé des transports à accéder aux locaux de l'organisme et à y procéder aux audits et contrôles portant sur son activité en matière de formation en sûreté portuaire en application de l'article R. 5332-21 du code des transports ;
 
-&laquo; “8. Garantir la confidentialité des faits, informations et documents dont l'organisme aurait à connaître dans l'exercice de ses missions ;
+"“8. Garantir la confidentialité des faits, informations et documents dont l'organisme aurait à connaître dans l'exercice de ses missions ;
 
-&laquo; “9. Ne pas divulguer lesdits faits, informations et documents même après cessation de mes fonctions et à m'assurer que la totalité des agents concernés placés sous mon autorité se conforment au présent engagement de confidentialité ;
+"“9. Ne pas divulguer lesdits faits, informations et documents même après cessation de mes fonctions et à m'assurer que la totalité des agents concernés placés sous mon autorité se conforment au présent engagement de confidentialité ;
 
-&laquo; “10. Notifier au ministre chargé des transports toute modification concernant mon organisme conformément à l'article A. 5332-714 du code des transports et transmettre à ce dernier le rapport d'activité annuel de mon organisme conformément à l'article A. 5332-715 du code des transports.” &raquo;
+"“10. Notifier au ministre chargé des transports toute modification concernant mon organisme conformément à l'article A. 5332-714 du code des transports et transmettre à ce dernier le rapport d'activité annuel de mon organisme conformément à l'article A. 5332-715 du code des transports.”"
