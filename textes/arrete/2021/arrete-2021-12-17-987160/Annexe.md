@@ -1,30 +1,24 @@
 # Article Annexe
 
-Etat-major, direction ou service employeur |
+Etat-major, direction
+
+ou service employeur |
 
 Emplois
 
-de 1er niveau
-
-|
+de 1er niveau |
 
 Emplois
 
-de 2e niveau
-
-|
+de 2e niveau |
 
 Emplois
 
-de 3e niveau
-
-|
+de 3e niveau |
 
 Emplois
 
-de 4e niveau
-
-|
+de 4e niveau |
 
 Cabinet du ministre de la défense |
 
@@ -42,9 +36,9 @@ Etat-major des armées |
 
 2 847 |
 
-4 228 |
+4 234 |
 
-13 768 |
+13766 |
 
 Secrétariat général de la défense et de la sécurité nationale |
 
@@ -102,9 +96,9 @@ Commissariat au numérique de défense |
 
 40 |
 
-318 |
+312 |
 
-308 |
+310 |
 
 Direction générale de la sécurité extérieure |
 
@@ -196,35 +190,25 @@ TOTAL |
 
 14837 |
 
-Emplois relevant de l'article L. 2513-4 du code général
-
-des collectivités territoriales
+Emplois relevant de l'article L. 2513-4 du code général des collectivités territoriales
 
 |
 
 Emplois
 
-de 1er niveau
-
-|
+de 1er niveau |
 
 Emplois
 
-de 2e niveau
-
-|
+de 2e niveau |
 
 Emplois
 
-de 3e niveau
-
-|
+de 3e niveau |
 
 Emplois
 
-de 4e niveau
-
-|
+de 4e niveau |
 
 Bataillon de marins-pompiers de Marseille |
 
@@ -239,7 +223,3 @@ Bataillon de marins-pompiers de Marseille |
 TOTAL |
 
 258 |
-
-NOTA :
-
-Conformément à l'article 3 de l'arrêté du 26 décembre 2025 (NOR : ARMH2535106A), ces dispositions, dans leur rédaction résultant de l'article 1er de l'arrêté précité, entrent en vigueur le 1er janvier 2026.
