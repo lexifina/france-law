@@ -38,11 +38,11 @@ Prefcapa est le prix de marché de référence de la capacité, exprimé en €/
 
 II. Le coefficient α, prévu à l'article R. 314-36 du code de l'énergie, est égal à 1.
 
-III. Sur une année civile, au-delà des 70 premières heures, consécutives ou non, de prix strictement négatifs constatés sur la plateforme de marché organisé français de l'électricité pour livraison le lendemain, une installation qui n'a pas injecté d'énergie sur le réseau public pendant les heures de prix strictement négatifs reçoit une prime égale à Primeprix négatifs, définie ci-dessous :
+III. Sur une année civile, au-delà des 30 premières heures, consécutives ou non, de prix strictement négatifs constatés sur la plateforme de marché organisé français de l'électricité pour livraison le lendemain, une installation qui n'a pas injecté d'énergie sur le réseau public pendant les heures de prix strictement négatifs reçoit une prime égale à Primeprix négatifs, définie ci-dessous :
 
 Primeprix négatifs
 
-= 0,6. Pmax. Te. nprix négatifs
+= 0,4. Pmax. Te. nprix négatifs
 
 Formule dans laquelle :
 
@@ -50,13 +50,13 @@ Te est le tarif de référence défini en IV ou V de cette annexe, exprimé en �
 
 Pmax est la puissance de raccordement inscrite dans le contrat d'accès au réseau public de l'installation ;
 
-nprix négatifs est le nombre d'heures pendant lesquelles les prix constatés sur la plateforme de marché organisé français de l'électricité pour livraison le lendemain ont été strictement négatifs au-delà des 70 premières heures de prix strictement négatifs de l'année civile et pendant lesquelles l'installation n'a pas injecté d'énergie.
+nprix négatifs est le nombre d'heures pendant lesquelles les prix constatés sur la plateforme de marché organisé français de l'électricité pour livraison le lendemain ont été strictement négatifs au-delà des 30 premières heures de prix strictement négatifs de l'année civile et pendant lesquelles l'installation n'a pas injecté d'énergie.
 
 Cette prime s'ajoute à la régularisation prévue à l'article R. 314-47 du code de l'énergie.
 
 Pour l'application du plafonnement mentionné au I, le terme E est augmenté sur la durée du contrat de :
 
-0,6. Pmax. nprix négatifs
+0,4. Pmax. nprix négatifs
 
 IV. Pour les installations mentionnées aux 1° et 2° de l'article 14, le tarif de référence Te, exprimé en €/ MWh, est défini conformément au tableau ci-dessous :
 
