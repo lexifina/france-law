@@ -322,9 +322,9 @@ Hydrocarbures aromatiques polycycliques (HAP) |
 
 (Par substance individuelle) |
 
-50 |
+40 (*) |
 
-Les caractéristiques de performances s'appliquent à chacune des substances précisées à hauteur de 25 % de la valeur paramétrique |
+Les caractéristiques de performances s'appliquent à chacune des substances précisées à hauteur de 25 % de la valeur paramétrique. (*) L'incertitude de la mesure devra être atteinte au 31 décembre 2027 au plus tard. |
 
 Manganèse |
 
@@ -350,15 +350,17 @@ Mercure |
 
 Total microcystines |
 
-0.1 µg/ L lorsque l'analyse est réalisée par LC/ MS-MS)
+0,1 µg/ L lorsque l'analyse est réalisée par LC/ MS-MS
 
-0.2 µg/ L par méthode ELISA
+(par variant)
 
-(Par variant) |
-
-50 |
+0,2 µg/ L par méthode ELISA
 
 |
+
+30(*) |
+
+(*) L'incertitude de la mesure devra être atteinte au 31 décembre 2027 au plus tard. |
 
 Nickel |
 
@@ -392,11 +394,11 @@ Nitrites |
 
 Somme des substances alkylées per et polyfluorées |
 
-|
+1,5 ng/ L (*) (Par substance individuelle) |
 
-|
+50 (*) |
 
-Au plus tard le 12 janvier 2024, la Commission établit des lignes directrices techniques relatives aux méthodes d'analyse pour la surveillance des substances alkylées per-et polyfluorés en vertu des paramètres total PFAS et Somme PFAS , y compris concernant les limites de détection, les valeurs paramétriques et la fréquence d'échantillonnage. |
+Ces exigences de performances devront être atteintes au 31 décembre 2027 au plus tard. |
 
 Indice permanganate |
 
