@@ -134,4 +134,8 @@ Sous-quota (tonnes) |
 
 39 |
 
-(1) Pour les navires non adhérents à une organisation de producteurs et immatriculés dans un quartier maritime de Bretagne, les captures sont autorisées dans la limite de : - 1,3 t par navire au premier semestre.
+(1) Pour les navires non adhérents à une organisation de producteurs et immatriculés dans un quartier maritime de Bretagne, les captures sont autorisées dans la limite de :
+
+- 1,3 t par navire au premier semestre ;
+
+- 800 kg par navire au second semestre.
