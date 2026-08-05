@@ -1,6 +1,6 @@
 # Article 1er
 
-Le présent avenant annule et remplace l' avenant du 13 juin 2004 étendu par arrêté du 22 décembre 2004 (Journal officiel du 11 janvier 2005).
+Le présent avenant annule et remplace l'avenant du 19 novembre 2014 étendu par arrêté du 11 juillet 2016 (Journal officiel du 26 juillet 2016).
 
 Il a pour objet de fixer les modalités de mise en œuvre des conventions de forfait en jours sur une base annuelle pour les catégories de cadres dits « cadres autonomes », conformément à la réglementation en vigueur.
 
