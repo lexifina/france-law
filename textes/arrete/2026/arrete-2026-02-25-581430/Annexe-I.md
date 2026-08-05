@@ -1,18 +1,20 @@
 # Article Annexe I
 
-RÉPARTITION DU QUOTA DE THON ROUGE EN MÉDITERRANÉE POUR LA FRANCE EN 2026 (QUOTAS EN TONNES)
+RÉPARTITION DU QUOTA DE THON ROUGE EN MÉDITERRANÉE POUR LA FRANCE EN 2026
+
+(quotas en tonnes)
 
 |
 
-Quota
+Quota en mer
 
-en mer Méditerranée |
+méditerranée |
 
-Dont X tonnes
+Dont x tonnes mesurant
 
-mesurant entre 8 et 30 kg |
+entre 8 et 30 kg |
 
-Senneurs titulaires d'une AEP " thon rouge " : CAP HORIZON immatriculé 819508 |
+Senneurs titulaires d'une AEP "thon rouge" : CAP HORIZON immatriculé 819508 |
 
 273,3 |
 
@@ -36,43 +38,43 @@ CHRISDERIC II immatriculé 863686 |
 
 |
 
-Palangriers " petits métiers " titulaires d'une AEP " thon rouge " |
+Palangriers "petits métiers" titulaires d'une AEP "thon rouge" |
 
-25,4 |
+28,1 |
 
-11,1 |
+11,4 |
 
-Canneurs, ligneurs " petits métiers " titulaires d'une AEP " thon rouge " |
+Canneurs, ligneurs "petits métiers" titulaires d'une AEP "thon rouge" |
 
-45,3 |
+50,2 |
 
-19,8 |
+20,4 |
 
 TOTAL OP DU Levant |
 
-1 006,1 |
+1 013,7 |
 
-30,9 |
+31,8 |
 
-Palangriers " petits métiers " titulaires d'une AEP " thon rouge " |
+Palangriers "petits métiers" titulaires d'une AEP "thon rouge" |
 
-66,5 |
+74,2 |
 
-29,1 |
+30,0 |
 
-Canneurs, ligneurs " petits métiers " titulaires d'une AEP " thon rouge " |
+Canneurs, ligneurs "petits métiers" titulaires d'une AEP "thon rouge" |
 
-28,9 |
+32,0 |
 
-12,6 |
+13,0 |
 
 TOTAL OP DU SUD |
 
-95,4 |
+106,2 |
 
-41,7 |
+43,0 |
 
-Senneurs titulaires d'une AEP " thon rouge " : JEAN MARIE CHRISTIAN III immatriculé 781462 |
+Senneurs titulaires d'une AEP "thon rouge" : JEAN MARIE CHRISTIAN III immatriculé 781462 |
 
 475,0 |
 
@@ -86,7 +88,7 @@ JEAN LOUIS RAPHAEL 2 immatriculé 819516 |
 
 JEAN MARIE CHRISTIAN IV immatriculé 819527 |
 
-475,1 |
+475,0 |
 
 |
 
@@ -116,13 +118,13 @@ GERARD LUC IV immatriculé 900236 |
 
 JEAN MARIE CHRISTIAN VI immatriculé 900265 |
 
-473,8 |
+475,0 |
 
 |
 
 JEAN MARIE CHRISTIAN VII immatriculé 900270 |
 
-476,1 |
+475,0 |
 
 |
 
@@ -156,31 +158,31 @@ CHRISDERIC V immatriculé 934489 |
 
 |
 
-Palangriers hauturiers titulaires d'une AEP " thon rouge " |
+Palangriers hauturiers titulaires d'une AEP "thon rouge" |
 
-163,3 |
+175,7 |
 
-50,3 |
+51,8 |
 
-Palangriers " petits métiers " titulaires d'une AEP " thon rouge " |
+Palangriers "petits métiers" titulaires d'une AEP "thon rouge" |
 
-359,3 |
+402,1 |
 
-143,9 |
+148,2 |
 
-Canneurs, ligneurs " petits métiers " titulaires d'une AEP " thon rouge " |
+Canneurs, ligneurs "petits métiers" titulaires d'une AEP "thon rouge" |
 
-81,7 |
+87,4 |
 
-23,1 |
+23,8 |
 
 TOTAL SATHOAN |
 
-4 779,6 |
+4 840,9 |
 
-217,3 |
+223,8 |
 
-Senneurs titulaires d'une AEP " thon rouge " : PIERRE JOSEPH SALVADOR immatriculé 914222 |
+Senneurs titulaires d'une AEP "thon rouge" : PIERRE JOSEPH SALVADOR immatriculé 914222 |
 
 314,0 |
 
@@ -198,31 +200,31 @@ CISBERLANDE 5 immatriculé 923751 |
 
 |
 
-Palangriers " petits métiers "
+Palangriers "petits métiers"
 
-titulaires d'une AEP " thon rouge " |
+titulaires d'une AEP "thon rouge" |
 
-et immatriculés dans un quartier maritime des Bouches-du-Rhône |
+et immatriculés dans un quartier maritime des Bouches du Rhône |
 
-16,7 |
+18,5 |
 
-7,3 |
+7,5 |
 
 et immatriculés dans un quartier maritime de la Corse |
 
-19,6 |
+21,7 |
 
-8,6 |
+8,9 |
 
 et immatriculés dans un quartier maritime de l'Hérault |
 
 0,0 |
 
-0,0 |
+|
 
 et immatriculés dans un quartier maritime du Var |
 
-1,7 |
+1,9 |
 
 0,7 |
 
@@ -230,63 +232,69 @@ et immatriculés dans un quartier maritime des Alpes-Maritimes |
 
 0,0 |
 
-0,0 |
+|
 
-et immatriculés dans un quartier maritime des Pyrénées-Orientales |
+et immatriculés dans un quartier maritime des Pyrénées orientales |
 
-3,9 |
+4,3 |
 
 1,7 |
 
-Canneurs, ligneurs " petits métiers "
+Canneurs, ligneurs "petits métiers"
 
-titulaires d'une AEP " thon rouge " |
+titulaires d'une AEP "thon rouge" |
 
 et immatriculés dans un quartier maritime des Bouches du Rhône |
 
 0,0 |
 
-0,0 |
+|
 
 et immatriculés dans un quartier maritime de la Corse |
 
-8,8 |
+9,7 |
 
-3,8 |
+3,9 |
 
 et immatriculés dans un quartier maritime de l'Hérault |
 
 0,0 |
 
-0,0 |
+|
 
 et immatriculés dans un quartier maritime du Var |
 
 0,0 |
 
-0,0 |
+|
 
 et immatriculés dans un quartier maritime des Alpes-Maritimes |
 
-3,0 |
+3,3 |
 
 1,3 |
 
-et immatriculés dans un quartier maritime des Pyrénées-Orientales |
+et immatriculés dans un quartier maritime des Pyrénées orientales |
 
 0,0 |
 
-0,0 |
+|
 
 TOTAL HORS OP |
 
-1068,0 |
+1 073,7 |
 
-23,4 |
+24,0 |
 
 Réserve nationale petits métiers |
 
-8,0 |
+0,0 |
+
+|
+
+Réserve nationale senneurs |
+
+0,0 |
 
 |
 
@@ -298,6 +306,6 @@ Prises accessoires telles que définies par la réglementation en vigueur |
 
 TOTAL |
 
-6 971,4 |
+7 048,4 |
 
-313,3 |
+322,6 |
