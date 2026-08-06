@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260709359
+
+- Question : [SEQ260709359](seq260709359.md) — Impacts de la réforme de la facturation électronique pour les particuliers ayant une activité photovoltaïque comprise entre 9 et 10 KWc
+
+## Réponse
+
+*Action et comptes publics, JO du 2026-08-06, page 3865*
+
+La facturation électronique est une réforme qui concernera progressivement l'ensemble des entités assujetties à la TVA. En pratique, quelle que soit la nature du contrat de vente, il est présumé que n'agit pas comme un assujetti la personne qui se borne à vendre toute ou partie de l'électricité issue d'une ou plusieurs installations dont la puissance installée cumulée n'excède pas 9 kilowatts-crête (kWc). De fait, par mesure de simplification, les particuliers qui ont une activité photovoltaïque et une installation dont la puissance est inférieure à 9 kWc ne sont pas dans le champ de la réforme. Au 1er septembre 2026, tous les assujettis à la TVA devront être en mesure de recevoir les factures de leurs fournisseurs en choisissant une plateforme parmi plus de 130 plateformes immatriculées par l'État pour échanger leurs factures de manière sécurisée et remonter les données à l'administration fiscale. Les plateformes proposent une diversité de modèles technologiques et commerciaux, susceptibles de répondre aux besoins exprimés par les entreprises durant les phases de concertation avec l'écosystème (entreprises, experts-comptables, organisations professionnelles, plateformes, éditeurs de logiciel…), avec des fonctions comparables à ce qu'aurait pu proposer le portail public. Cette offre diversifiée est de nature à sécuriser les structures réalisant peu de factures, qui pourront s'équiper de solutions très simples, parfois gratuites ou à faible coût, et parfois intégrées aux offres bancaires professionnelles ou à des logiciels standards. La liste des plateformes agréées définitivement est disponible sur le site impots.gouv.fr.
