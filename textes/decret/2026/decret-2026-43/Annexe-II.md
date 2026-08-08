@@ -2,36 +2,20 @@
 
 LISTE DES COMMUNES VISÉES AU TROISIÈME ALINÉA DU II DE L'ARTICLE L. 302-5 DU CODE DE LA CONSTRUCTION ET DE L'HABITATION JUSTIFIANT UN EFFORT DE PRODUCTION SUPPLÉMENTAIRE POUR RÉPONDRE À LA DEMANDE ET AUX CAPACITÉS À SE LOGER DES PERSONNES À REVENUS MODESTES ET DES PERSONNES DÉFAVORISÉES
 
-Code INSEE
-
-de la commune |
+Code INSEE de la commune |
 
 Nom de la commune |
 
-Taux retenus pour les EPCI
-
-pour la période 2026-2028 |
+Taux retenus pour les EPCI pour la période 2026-2028 |
 
 09225 |
 
 Pamiers |
 
-6,1908 |
+5,5759 |
 
 40046 |
 
 Biscarrosse |
 
-12,2496 |
-
-74256 |
-
-Sallanches |
-
-8,3259 |
-
-77053 |
-
-Brie-Comte-Robert |
-
-11,6825 |
+13,552 |
