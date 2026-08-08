@@ -26,35 +26,29 @@ Direction générale des infrastructures, des transports et de la mer (DGITM) |
 
 Emploi de sous-directeur |
 
-Direction générale des infrastructures, des transports et de la mer |
+Direction générale des infrastructures, des transports et des mobilités |
 
-Sous-directeur de la multi-modalité de l'innovation, du numérique et des territoires |
+Sous-directeur de la stratégie, de la planification, de l'innovation et du numérique |
 
 Sous-directeur des ressources humaines, des compétences et des moyens |
 
 Sous-directeur du droit social des transports terrestres |
 
-Direction générale des infrastructures, des transports et de la mer/direction des mobilités routières |
+Direction générale des infrastructures, des transports et des mobilités/direction des mobilités routières |
 
 Sous-directeur de la stratégie d'aménagement et de modernisation du réseau routier national |
 
 Sous-directeur du pilotage de l'entretien, de l'exploitation du réseau national non concédé et de l'information routière |
 
-Sous-directeur de la régulation et de la performance durable des transports routiers |
+Sous-directeur des transports routiers |
 
-Direction générale des infrastructures, des transports et de la mer/direction des transports ferroviaires, fluviaux et des ports |
+Sous-directeur de l'expertise routière, du numérique et de l'écologie pour les services et les territoires |
+
+Direction générale des infrastructures, des transports et des mobilités/direction des transports ferroviaires et fluviaux et des ports |
 
 Sous-directeur des systèmes ferroviaires et guidés |
 
-Sous-directeur des services ferroviaires |
-
-Emploi de chef d'un service à compétence nationale |
-
-Direction générale des infrastructures, des transports et de la mer/direction des affaires maritimes |
-
-Directeur de l'Armement des phares et balises |
-
-Directeur de l'Ecole nationale de la sécurité et de l'administration de la mer |
+Sous-directeur des infrastructures ferroviaires |
 
 Direction générale de l'aviation civile (DGAC) |
 
@@ -193,3 +187,15 @@ Chef de mission nautisme et plaisance |
 Direction générale des affaires maritimes, de la pêche et de l'aquaculture/mission du budget et de la commande publique |
 
 Chef de mission du budget et de la commande publique |
+
+Emploi de chef d'un service à compétence nationale |
+
+Direction générale des affaires maritimes, de la pêche et de l'aquaculture |
+
+Directeur de l'Armement des phares et balises |
+
+Directeur de l'Ecole du service public de la mer |
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 3 août 2026 (NOR : TECK2620111A), les agents publics qui occupent, à la date de publication dudit arrêté, l'un des emplois mentionnés à l'article 1er du même arrêté, et qui n'ont pas transmis de déclaration d'intérêts lors de leur nomination, effectuent cette transmission dans un délai de six mois à compter de cette date.
