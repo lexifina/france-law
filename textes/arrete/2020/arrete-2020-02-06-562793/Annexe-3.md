@@ -1,7 +1,5 @@
 # Article Annexe 3
 
-ANNEXE 3
-
 MODÈLE DE CONVENTION DE RUPTURE CONVENTIONNELLE APPLICABLE AUX OUVRIERS D'ÉTAT PRÉVU À L'ARTICLE 17 DU DÉCRET N° 2019-1593 DU 31 DÉCEMBRE 2019 RELATIF À LA PROCÉDURE DE RUPTURE CONVENTIONNELLE DANS LA FONCTION PUBLIQUE
 
 1. Une convention de rupture conventionnelle est conclue entre les deux parties ci-après désignées :
@@ -14,7 +12,7 @@ Direction ou service :
 
 Adresse postale :
 
-Représentée par (nom et prénom) (ci-après « l'administration ») :
+Représentée par (nom et prénom) (ci-après "l'administration") :
 
 Fonction :
 
@@ -44,13 +42,17 @@ Date de l'accusé réception par l'une partie de la demande de rupture conventio
 
 Date de l'entretien (*) (au format jj/mm/aaaa) :
 
-Agent assisté d'un conseiller désigné par une organisation représentative (rayer la mention inutile) : OUI / NON
+Agent assisté d'un conseiller désigné par une organisation syndicale (rayer la mention inutile) : OUI/NON
 
-Si OUI par (nom, prénom et organisation syndicale représentative dont relève le conseiller) :
+Si OUI par (nom, prénom et organisation syndicale dont relève le conseiller) :
 
-Entretiens supplémentaires facultatifs (pour chaque entretien supplémentaire, indiquer la date au format jj/mm/aaaa, la présence d'un conseiller pour assister l'agent, ses nom et prénom, ainsi que l'organisation syndicale représentative l'ayant désigné) :
+Entretiens supplémentaires facultatifs (pour chaque entretien supplémentaire, indiquer la date au format jj/mm/aaaa, la présence d'un conseiller désigné par une organisation syndicale de son choix pour assister l'agent, ses nom et prénom, ainsi que l'organisation syndicale l'ayant désigné) :
 
 3. Les parties conviennent d'un commun accord des conditions de la rupture de l'acte d'engagement de l'agent :
+
+Montant de la rémunération brute annuelle perçue par l'agent au cours de l'année civile précédant celle de la date d'effet de la rupture conventionnelle (somme en toutes lettres) :
+
+Durée de cotisation retraite de l'agent à la signature de la convention (en toutes lettres) :
 
 Montant de l'indemnité spécifique de rupture conventionnelle (somme en toutes lettres) :
 
@@ -70,11 +72,13 @@ L'agent déclare également être informé que l'une ou l'autre des parties disp
 
 Eu égard à la date de signature de la présente convention, le délai de rétractation prend fin le (au format jj/mm/aaaa) (*) :
 
-Date et signature précédée de la mention « Lu et approuvé » par chaque partie :
+Date et signature précédée de la mention "Lu et approuvé" par chaque partie :
 
 L'agent :
 
 L'administration :
+
+Toute contestation relative à la présente convention de rupture conventionnelle devra être portée devant le tribunal administratif territorialement compétent dans un délai de deux mois à compter de sa signature par les deux parties. La juridiction peut être saisie par l'application informatique "Télérecours citoyens" accessible par le site internet : www.telerecours.fr
 
 (*) Rappels concernant les délais applicables aux procédures de rupture conventionnelle :
 

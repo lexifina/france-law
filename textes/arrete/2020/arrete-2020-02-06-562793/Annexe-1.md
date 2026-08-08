@@ -1,9 +1,5 @@
 # Article Annexe 1
 
-ANNEXES
-
-ANNEXE 1
-
 MODÈLE DE CONVENTION DE RUPTURE CONVENTIONNELLE APPLICABLE AUX FONCTIONNAIRES PRÉVU À L'ARTICLE 5 DU DÉCRET N° 2019-1593 DU 31 DÉCEMBRE 2019 RELATIF À LA PROCÉDURE DE RUPTURE CONVENTIONNELLE DANS LA FONCTION PUBLIQUE
 
 1. Une convention de rupture conventionnelle est conclue entre les deux parties ci-après désignées :
@@ -16,7 +12,7 @@ Direction ou service :
 
 Adresse postale :
 
-Représentée par (nom et prénom) (ci-après l'autorité hiérarchique ou territoriale ou investie du pouvoir de nomination ) :
+Représentée par (nom et prénom) (ci-après "l'autorité hiérarchique ou territoriale ou investie du pouvoir de nomination") :
 
 Fonction :
 
@@ -52,13 +48,17 @@ Date de l'accusé réception par l'une partie de la demande de rupture conventio
 
 Date de l'entretien (*) (au format jj/mm/aaaa) :
 
-Agent assisté d'un conseiller désigné par une organisation représentative ou, à défaut, d'un conseiller syndical de son choix (rayer la mention inutile) : OUI / NON
+Agent assisté d'un conseiller désigné par une organisation syndicale de son choix : OUI/NON
 
-Si OUI par (nom, prénom, organisation syndicale représentative dont relève le conseiller) :
+Si OUI par (nom, prénom, organisation syndicale dont relève le conseiller) :
 
-Entretiens supplémentaires facultatifs (pour chaque entretien supplémentaire, indiquer la date au format jj/mm/aaaa, la présence d'un conseiller désigné par une organisation représentative pour assister l'agent, ses nom et prénom, ainsi que l'organisation syndicale représentative l'ayant désigné) :
+Entretiens supplémentaires facultatifs (pour chaque entretien supplémentaire, indiquer la date au format jj/mm/aaaa, la présence d'un conseiller désigné par une organisation syndicale de son choix pour assister l'agent, ses nom et prénom, ainsi que l'organisation syndicale l'ayant désigné) :
 
 3. Les parties conviennent d'un commun accord des conditions de la cessation définitive des fonctions de l'agent :
+
+Montant de la rémunération brute annuelle perçue par l'agent au cours de l'année civile précédant celle de la date d'effet de la rupture conventionnelle (somme en toutes lettres) :
+
+Durée de cotisation retraite de l'agent à la signature de la convention (en toutes lettres) :
 
 Montant de l'indemnité spécifique de rupture conventionnelle (somme en toutes lettres) :
 
@@ -74,17 +74,19 @@ Observations éventuelles de l'agent :
 
 Observations éventuelles de l'autorité hiérarchique ou territoriale ou investie du pouvoir de nomination :
 
-En signant la présente convention, l'agent déclare être informé des conséquences de la cessation définitive de ses fonctions, notamment l'obligation de remboursement prévue à l'article 8 du décret n° 2019-1593 du 31 décembre 2019 relatif à la procédure de rupture conventionnelle dans la fonction publique, le respect des obligations déontologiques qui lui incombent et du bénéfice de l'assurance chômage.
+En signant la présente convention, l'agent déclare être informé des conséquences de la cessation définitive de ses fonctions, notamment l'obligation de remboursement prévue à l'article L. 552-4 du code général de la fonction publique, le respect des obligations déontologiques qui lui incombent et du bénéfice de l'assurance chômage.
 
 L'agent déclare également être informé que l'une ou l'autre des parties dispose d'un droit de rétractation, qui s'exerce dans un délai de quinze jours francs et commence à courir un jour franc après la date de la signature de la convention de rupture conventionnelle, sous la forme d'une lettre recommandée avec demande d'avis de réception ou remise en main propre contre signature.
 
 Eu égard à la date de signature de la présente convention, le délai de rétractation prend fin le (au format jj/mm/aaaa) (*) :
 
-Date et signature par chaque partie :
+Date et signature précédée de la mention "Lu et approuvé" par chaque partie :
 
 L'agent :
 
 L'autorité hiérarchique [ou territoriale ou investie du pouvoir de nomination] :
+
+Toute contestation relative à la présente convention de rupture conventionnelle devra être portée devant le tribunal administratif territorialement compétent dans un délai de deux mois à compter de sa signature par les deux parties. La juridiction peut être saisie par l'application informatique "Télérecours citoyens" accessible par le site internet : www.telerecours.fr
 
 (*) Rappels concernant les délais applicables aux procédures de rupture conventionnelle :
 

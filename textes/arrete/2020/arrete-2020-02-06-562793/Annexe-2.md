@@ -1,8 +1,6 @@
 # Article Annexe 2
 
-ANNEXE 2
-
-MODÈLE DE CONVENTION DE RUPTURE CONVENTIONNELLE APPLICABLE AUX CONTRACTUELS PRÉVU AUX ARTICLES 9,10 ET 11 DU DÉCRET N° 2019-1593 DU 31 DÉCEMBRE 2019 RELATIF À LA PROCÉDURE DE RUPTURE CONVENTIONNELLE DANS LA FONCTION PUBLIQUE
+MODÈLE DE CONVENTION DE RUPTURE CONVENTIONNELLE APPLICABLE AUX CONTRACTUELS PRÉVU AUX ARTICLES 9, 10 ET 11 DU DÉCRET N° 2019-1593 DU 31 DÉCEMBRE 2019 RELATIF À LA PROCÉDURE DE RUPTURE CONVENTIONNELLE DANS LA FONCTION PUBLIQUE
 
 1. Une convention de rupture conventionnelle est conclue entre les deux parties ci-après désignées :
 
@@ -14,7 +12,7 @@ Direction ou service :
 
 Adresse postale :
 
-Représentée par (nom et prénom) (ci-après « l'autorité hiérarchique ou territoriale ou investie du pouvoir de nomination ») :
+Représentée par (nom et prénom) (ci-après "l'autorité hiérarchique ou territoriale ou investie du pouvoir de nomination") :
 
 Fonction :
 
@@ -40,17 +38,21 @@ Ancienneté de l'agent dans la fonction publique à la date envisagée de la fin
 
 2. Préalablement à la signature de la convention de rupture, les parties se sont accordées, au cours d'un/ plusieurs entretien (s), sur le principe de la fin du contrat de l'agent :
 
-Date de l'accusé réception par l'une partie de la demande de rupture conventionnelle de l'autre partie (au format jj/ mm/ aaaa) :
+Date de l'accusé réception par l'une partie de la demande de rupture conventionnelle de l'autre partie (au format jj/mm/aaaa) :
 
-Date de l'entretien (*) (au format jj/ mm/ aaaa) :
+Date de l'entretien (*) (au format jj/mm/aaaa) :
 
-Agent assisté d'un conseiller désigné par une organisation représentative ou, à défaut, d'un conseiller syndical de son choix (rayer la mention inutile) : OUI/ NON
+Agent assisté d'un conseiller désigné par une organisation syndicale de son choix (rayer la mention inutile) : OUI/NON
 
-Si OUI par (nom, prénom et organisation syndicale représentative dont relève le conseiller) :
+Si OUI par (nom, prénom, organisation syndicale dont relève le conseiller) :
 
-Entretiens supplémentaires facultatifs (pour chaque entretien supplémentaire, indiquer la date au format jj/ mm/ aaaa, la présence d'un conseiller pour assister l'agent, ses nom et prénom, ainsi que l'organisation syndicale représentative l'ayant désigné) :
+Entretiens supplémentaires facultatifs (pour chaque entretien supplémentaire, indiquer la date au format jj/mm/aaaa, la présence d'un conseiller désigné par une organisation syndicale de son choix pour assister l'agent, ses nom et prénom, ainsi que l'organisation syndicale l'ayant désigné) :
 
 3. Les parties conviennent d'un commun accord des conditions de la fin du contrat de l'agent :
+
+Montant de la rémunération brute annuelle perçue par l'agent au cours de l'année civile précédant celle de la date d'effet de la rupture conventionnelle (somme en toutes lettres) :
+
+Durée de cotisation retraite de l'agent à la signature de la convention (en toutes lettres) :
 
 Montant de l'indemnité spécifique de rupture conventionnelle (somme en toutes lettres) :
 
@@ -58,34 +60,34 @@ Les modalités de calcul des montants minimal et maximal de l'indemnité spécif
 
 Solde, avant la date envisagée de cessation définitive des fonctions de l'agent, des congés annuels, des jours d'aménagement et de réduction du temps de travail, des jours de repos compensateur au titre des heures supplémentaires, des astreintes et interventions au cours de celles-ci.
 
-Les jours inscrits sur le compte épargne temps sont utilisés dans les conditions fixées aux articles 5 et 6 du décret n° 2002-634 du 29 avril 2002 (pour la fonction publique d'Etat), 3.1,4 et 5 du décret n° 2004-878 du 26 août 2004 (pour la fonction publique territoriale), et 4 et 5 du décret n° 2002-788 du 3 mai 2002 relatif au compte épargne-temps dans la fonction publique hospitalière.
+Les jours inscrits sur le compte épargne temps sont utilisés dans les conditions fixées aux articles 5 et 6 du décret n° 2002-634 du 29 avril 2002 (pour la fonction publique d'Etat), 3.1, 4 et 5 du décret n° 2004-878 du 26 août 2004 (pour la fonction publique territoriale), et 4 et 5 du décret n° 2002-788 du 3 mai 2002 relatif au compte épargne-temps dans la fonction publique hospitalière.
 
-Date envisagée de la fin du contrat de l'agent (*) (au format jj/ mm/ aaaa) :
+Date envisagée de la fin du contrat de l'agent (*) (au format jj/mm/aaaa) :
 
 Observations éventuelles de l'agent :
 
 Observations éventuelles de l'autorité hiérarchique [ou territoriale ou investie du pouvoir de nomination] :
 
-En signant la présente convention, l'agent déclare être informé des conséquences de la fin de son contrat, notamment l'obligation de remboursement prévue aux articles 9,10 et 11 du décret n° 2019-1593 du 31 décembre 2019 relatif à la procédure de rupture conventionnelle dans la fonction publique, le respect des obligations déontologiques qui lui incombent et du bénéfice de l'assurance chômage.
+En signant la présente convention, l'agent déclare être informé des conséquences de la fin de son contrat, notamment l'obligation de remboursement prévue aux articles 49-9 du décret n° 86-83 du 17 janvier 1986 relatif aux dispositions générales applicables aux agents contractuels de l'Etat, 49 decies du décret n° 88-145 du 15 février 1988 relatif aux agents contractuels de la fonction publique territoriale et 45-10 du décret n° 91-155 du 6 février 1991 relatif aux dispositions générales applicables aux agents contractuels de la fonction publique hospitalière, le respect des obligations déontologiques qui lui incombent et du bénéfice de l'assurance chômage.
 
 L'agent déclare également être informé que l'une ou l'autre des parties dispose d'un droit de rétractation, qui s'exerce dans un délai de quinze jours francs et commence à courir un jour franc après la date de la signature de la convention de rupture conventionnelle, sous la forme d'une lettre recommandée avec demande d'avis de réception ou remise en main propre contre signature.
 
-Eu égard à la date de signature de la présente convention, le délai de rétractation prend fin le (au format jj/ mm/ aaaa) (*) :
+Eu égard à la date de signature de la présente convention, le délai de rétractation prend fin le (au format jj/mm/aaaa) (*) :
 
-Date et signature par chaque partie :
+Date et signature précédée de la mention "Lu et approuvé" par chaque partie :
 
 L'agent :
 
 L'autorité hiérarchique [ou territoriale ou investie du pouvoir de nomination] :
 
-Toute contestation relative à la présente convention de rupture conventionnelle devra être portée devant le tribunal administratif territorialement compétent dans un délai de deux mois à compter de sa signature par les deux parties. La juridiction peut être saisie par l'application informatique « Télérecours citoyens » accessible par le site internet www. telerecours. fr.
+Toute contestation relative à la présente convention de rupture conventionnelle devra être portée devant le tribunal administratif territorialement compétent dans un délai de deux mois à compter de sa signature par les deux parties. La juridiction peut être saisie par l'application informatique Télérecours citoyens accessible par le site internet : www.telerecours.fr
 
 (*) Rappels concernant les délais applicables aux procédures de rupture conventionnelle :
 
--l'entretien se tient au moins dix jours francs et au plus un mois après réception de la lettre recommandée avec demande d'avis de réception ou remise en main propre contre signature de la demande de rupture conventionnelle ;
+- l'entretien se tient au moins dix jours francs et au plus un mois après réception de la lettre recommandée avec demande d'avis de réception ou remise en main propre contre signature de la demande de rupture conventionnelle ;
 
--la signature de la convention a lieu au moins quinze jours francs après le dernier entretien ;
+- la signature de la convention a lieu au moins quinze jours francs après le dernier entretien ;
 
--la période de rétractation, d'une durée de quinze jours francs, débute un jour franc après la date de la signature de la présente convention ;
+- la période de rétractation, d'une durée de quinze jours francs, débute un jour franc après la date de la signature de la présente convention ;
 
--la fin du contrat de l'agent intervient, au plus tôt, un jour après la fin du délai de rétractation.
+- la fin du contrat de l'agent intervient, au plus tôt, un jour après la fin du délai de rétractation.
