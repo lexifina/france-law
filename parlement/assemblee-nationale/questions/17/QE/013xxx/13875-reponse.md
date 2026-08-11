@@ -1,0 +1,9 @@
+# Réponse à la question n° 13875
+
+- Question : [13875](13875.md) — Question n° 13875 — Feux clignotants sur les vélos
+
+## Réponse
+
+*JO du 2026-08-11, page 7502*
+
+Tout dispositif d'éclairage non explicitement prévu par les articles R. 313-1 et suivants du code de la route est, par défaut, interdit. Dans ce contexte, et pour la sécurité des cyclistes et celle des conducteurs d'engins de déplacement personnel motorisés, le décret n° 2024-1074 a permis d'équiper vélos ou trottinettes électriques d'éclairages, de feux et de dispositifs rétro-réfléchissants supplémentaires et facultatifs, venant en complément de ceux déjà obligatoires. L'installation de feux indicateurs de direction, d'un feu stop, d'un second feu de position avant ou arrière sur un cycle a ainsi été rendue possible. En outre, le même décret a modifié l'article R. 313-5 pour rétablir que le feu de position arrière des cycles ne doit pas être clignotant. Le signal rouge clignotant a en effet une autre signification : celle d'un freinage d'urgence. Or le fait qu'un même signal puisse avoir deux significations différentes est à proscrire, au risque d'induire les autres usagers de la route en erreur. Le décret n° 2016-448 avait autorisé la possibilité de déclenchement d'un clignotement de certains feux arrières pour s'adapter aux dispositions des directives ou règlements européens sur l'homologation des véhicules à moteur. L'impact sur les dispositifs d'éclairage des cycles n'a pas été évalué sur le moment. Pour l'ensemble de ces raisons, le décret n° 2024-1074 a donc rétabli l'interdiction du clignotement permanent des feux de position arrière des vélos, précisant que ces feux doivent être fixes et bien visibles. Une dérogation à ce décret, qui participe utilement à l'amélioration de la sécurité routière, n'est donc pas envisagée par le Gouvernement.
