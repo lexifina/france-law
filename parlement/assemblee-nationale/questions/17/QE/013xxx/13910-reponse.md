@@ -1,0 +1,9 @@
+# Réponse à la question n° 13910
+
+- Question : [13910](13910.md) — Question n° 13910 — Effectifs d'inspecteurs du permis de conduire en Lot-et-Garonne
+
+## Réponse
+
+*JO du 2026-08-11, page 7503*
+
+Conscient des difficultés d'accès aux places, le Gouvernement poursuit les recrutements d'inspecteurs avec 80 postes au concours en 2026. Ces mesures visent à réduire les délais, en particulier dans les départements en tension. Dans chaque département où le délai médian dépasse 80 jours, un comité de suivi a été instauré sous l'autorité du préfet, afin d'adapter localement la production de places. Des inspecteurs retraités sont également mobilisés pour renforcer ponctuellement les effectifs. Ainsi, votre département, avec un délai médian de 102 jours en avril 2026, donc supérieur au délai médian national de 77 jours, bénéficie de cette démarche collaborative. Cette instance a pour mission d'accompagner efficacement les acteurs locaux afin de répondre au mieux aux attentes des usagers. Compte-tenu des difficultés rencontrées dans la production des examens du permis de conduire dans le département du Lot-et-Garonne, la cible d'effectifs d'IPCSR a été augmentée et est passée en 2025 de 5 ETP à 6 ETP. Une stagiaire arrivée en novembre 2025 commence maintenant à faire des examens. Une autre stagiaire lauréate du concours 2026 a été affectée au département en mai et sera opérationnelle en septembre prochain. L'effectif sera ainsi au complet. À noter qu'un recrutement d'examinateurs de la Poste mis à disposition va être engagé fin 2026 et qu'un examinateur pourra être fléché dans votre département pour réaliser des examens de la catégorie B. Le Gouvernement demeure pleinement mobilisé pour améliorer l'accès à l'examen du permis de conduire et réduire les délais d'attente, en tenant compte des spécificités territoriales.
