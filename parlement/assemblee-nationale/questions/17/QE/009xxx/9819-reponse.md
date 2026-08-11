@@ -1,0 +1,9 @@
+# Réponse à la question n° 9819
+
+- Question : [9819](9819.md) — Question n° 9819 — Délais de convocation des élections provinciales en Kanaky-Nouvelle-Calédonie
+
+## Réponse
+
+*JO du 2026-08-11, page 7481*
+
+La loi organique n° 2025-1055 du 6 novembre 2025 visant à reporter le renouvellement général des membres du congrès et des assemblées de province de la Nouvelle-Calédonie afin de permettre la poursuite de la discussion en vue d'un accord consensuel sur l'avenir institutionnel de la Nouvelle-Calédonie a reporté les élections provinciales de Nouvelle-Calédonie au plus tard le 28 juin 2026. Conformément à la volonté du législateur organique, les élections ont pu se dérouler le 28 juin 2026 et ont permis le renouvellement du congrès et des assemblées de provinces de la Nouvelle-Calédonie. Dans le respect de l'article 187 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie, qui dispose que le décret de convocation est publié au moins quatre semaines avant le scrutin, le décret n° 2026-416 du 29 mai 2026 a porté convocation des électeurs pour le renouvellement intégral des membres du congrès et des assemblées de province de la Nouvelle-Calédonie. Ce décret avait fait, conformément à la législation en vigueur, l'objet d'un avis du Gouvernement de la Nouvelle-Calédonie en date du 20 mai 2026. Les délais retenus ont permis l'organisation dans les meilleures conditions du scrutin, grâce à la mobilisation des services de l'Etat et des communes, qui ont procédé à la préparation matérielle des opérations de vote et ont mis à jour les listes électorales spéciales en tenant compte de la loi organique n° 2026-410 du 28 mai 2026 portant régularisation des natifs dans le corps électoral pour les élections au congrès et aux assemblées de province de Nouvelle-Calédonie.
