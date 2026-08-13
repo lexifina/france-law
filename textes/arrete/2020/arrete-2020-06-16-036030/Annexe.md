@@ -1009,3 +1009,69 @@ Antenne de Koné.
 |
 
 Du 1er juillet 2026 au 31 août 2027 |
+
+Opération :
+
+Transfert du stock des restes à recouvrer des amendes judiciaires.
+
+Services concernés :
+
+- Direction interrégionale d'Antilles Guyane
+
+Guadeloupe recette régionale
+
+Guyane recette régionale
+
+Martinique recette régionale
+
+- Direction interrégionale d'Auvergne-Rhône-Alpes
+
+Lyon recette interrégionale
+
+- Direction Nationale du renseignement et des enquêtes douanières
+
+DNRED recette
+
+- Direction interrégionale du Grand Est
+
+Metz recette interrégionale
+
+- Direction interrégionale des Hauts-de-France
+
+Dunkerque recette interrégionale
+
+- Direction interrégionale d'Ile-de-France
+
+Paris recette interrégionale
+
+- Direction interrégionale de Normandie
+
+Le havre recette interrégionale
+
+- Direction interrégionale de Nouvelle-Aquitaine
+
+Bordeaux recette interrégionale
+
+- Direction interrégionale d'Occitanie
+
+Montpellier recette interrégionale
+
+- Direction interrégionale de Paris-aéroports
+
+Roissy recette interrégionale
+
+|
+
+Du 1er septembre 2026 au 31 août 2028 |
+
+Opération :
+
+Déménagement de la BSI de Nogent-sur-Oise.
+
+Service concerné :
+
+BSI de Nogent-sur-Oise.
+
+|
+
+Du 1er septembre 2026 au 31 août 2027 |
