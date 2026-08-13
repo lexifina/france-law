@@ -2,10 +2,8 @@
 
 Les opérations mentionnées au 4° du A du II de l'article 244 quater I du code général des impôts s'entendent des opérations suivantes :
 
-1° La fabrication, y compris l'assemblage, de pompes à chaleur, quelle que soit la technologie utilisée ;
+1° La fabrication de pompes à chaleur, quelles que soient les technologies utilisées ;
 
-2° La fabrication des composants essentiels conçus et utilisés principalement comme intrants directs dans la production des pompes à chaleur à savoir les compresseurs, les systèmes électroniques et de régulation, les échangeurs thermiques et hydrauliques dont les évaporateurs, les condenseurs et les ventilateurs, les échangeurs souterrains, les sondes géothermiques, les composants de distribution hydraulique, les circuits et composants frigorigènes et les structures mécaniques et d'habillage.
+2° La fabrication des compresseurs à spirale et compresseurs rotatifs, des vannes à quatre voies, des échangeurs de chaleur résistant aux conditions de fonctionnement corrosives géothermiques, des pompes submersibles résistant aux conditions de fonctionnement corrosives géothermiques ;
 
-NOTA :
-
-Conformément à l'article 2 de l'arrêté du 11 mars 2024 (NOR : ECOE2335246A), ces dispositions entrent en vigueur à la date mentionnée à l'article 1er du décret n° 2024-212 du 11 mars 2024, à savoir le 14 mars 2024.
+3° L'extraction, la production, la transformation et la valorisation des matières premières critiques mentionnées au c du 4° du A du II de l'article 244 quater I du code général des impôts.
