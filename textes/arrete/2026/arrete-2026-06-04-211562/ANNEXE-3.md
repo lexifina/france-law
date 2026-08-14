@@ -476,6 +476,8 @@ CSA de la maison d'arrêt de Brest |
 
 CSA de la maison d'arrêt de Cherbourg |
 
+CSA du centre pénitentiaire de Caen |
+
 CSA du centre pénitentiaire de Caen ifs |
 
 CSA de la maison d'arrêt de Coutances |
@@ -526,7 +528,7 @@ CSA de la maison d'arrêt d'Epinal |
 
 CSA du centre pénitentiaire de Metz |
 
-CSA du centre pénitentiaire de Nancy Maxéville |
+CSA de la maison d'arrêt de Nancy Maxéville |
 
 CSA du centre de détention de Montmédy |
 
@@ -578,7 +580,7 @@ CSA de la maison d'arrêt de Tarbes |
 
 CSA de l'établissement pour mineur de Lavaur |
 
-CSA de la maison centrale de Lannemezan |
+CSA du centre pénitentiaire de Lannemezan |
 
 CSA du centre pénitentiaire de Toulouse Seysses |
 
