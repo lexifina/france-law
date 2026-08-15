@@ -678,11 +678,13 @@ La clause de rendez-vous pourra être mise en œuvre à partir du 1er janvier 20
 
 IV.-Moyens de contrôle : le concessionnaire sera tenu d'établir et d'entretenir, à ses frais, des repères et dispositifs destinés à permettre la vérification sur place du respect des niveaux et débits mentionnés au présent article ; l'emplacement et le détail de ces repères et dispositifs seront définis par le règlement d'eau.
 
-III-4. Dérogation pour l'hiver 2022-2023
+III-4. - Dérogation en cas de menace grave sur la sécurité de l'approvisionnement électrique
 
-Par dérogation au paragraphe III-2, jusqu'au 31 mars 2023 au plus tard, la valeur des débits restitués dans le Vieux-Rhin de novembre à mars inclus est fixée à 40 m3/ s pour les jours où le système électrique est tendu, après signal du gestionnaire du réseau électrique. Cette valeur est temporairement fixée à 30 m3/ s pour les jours où le système électrique est très tendu et que des coupures sont inévitables sans réduction de la consommation d'électricité, après signal du gestionnaire du réseau électrique.
+Par dérogation au paragraphe III-2, la valeur des débits restitués dans le Vieux-Rhin du 1er novembre au 31 mars inclus est réduite à 30 m3/s en respectant un gradient de baisse de 10 minutes pour les périodes où le système électrique est très tendu et lorsque des coupures sont inévitables sans réduction de la consommation d'électricité, après signal du gestionnaire du réseau de transport d'électricité.
 
-La production de l'énergie électrique nette supplémentaire générée par l'abaissement de la valeur du débit restitué au Vieux-Rhin au niveau des aménagements hydroélectriques de Kembs, Ottmarsheim, Fessenheim et Vogelgrun fait l'objet d'une comptabilisation séparée par le concessionnaire.
+Un suivi environnemental systématique de la mise en œuvre de ces dérogations est réalisé. Il comprend un suivi morphologique détaillé et un suivi de la section mouillée. Un bilan de ces suivis et des mises en œuvre des dérogations est, le cas échéant, présenté une fois par an au comité de suivi environnemental de la concession. En cas de mise en œuvre de la dérogation à la valeur des débits restitués au moins 5 fois par an pendant 2 années consécutives, un point d'étape est réalisé avec l'autorité administrative pour adapter au besoin, par un avenant au cahier des charges, les modalités de dérogation aux valeurs des débits restitués.
+
+La production de l'énergie électrique nette supplémentaire générée par l'abaissement de la valeur du débit restitué au Vieux Rhin au niveau des aménagements hydroélectriques de Kembs, Ottmarsheim, Fessenheim et Vogelgrun fait l'objet d'une comptabilisation séparée par le concessionnaire. 80 % des bénéfices nets générés par cette production supplémentaire sont affectés à des opérations de continuité écologique ou de renaturation des milieux rhénans n'entrant pas dans le champ des obligations du concessionnaire. Un bilan des montants et des actions financées par ce moyen est, le cas échéant, présenté une fois par an au comité de suivi environnemental de la concession.
 
 Article 18 : Ouvrages relatifs aux poissons
 
@@ -1283,7 +1285,3 @@ et de l'aménagement
 du territoire,
 
 Jean-Louis Borloo
-
-NOTA :
-
-Cet article a été modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral. Conformément à son article 71, l'article dans sa version modifiée par le décret du 18 octobre 2013 s'applique à compter du prochain renouvellement général des conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin.
