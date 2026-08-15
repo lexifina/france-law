@@ -12,37 +12,37 @@ Qualité A+ |
 
 Qualité A |
 
-Escherichia coli (1) |
+Escherichia coli (1) (nombre/100 mL) |
 
-0 UFC / 100 mL |
+Non détectée (<1) |
 
-≤ 10 UFC /100 mL |
+≤ 10 |
 
-Entérocoques intestinaux (2) |
+Entérocoques intestinaux (2) (nombre/100 mL) |
 
-0 UFC / 100 mL |
+Non détecté (<1) |
 
-/ |
+/ (non contrôlé) |
 
-Legionella pneumophila (3) (3') |
+Legionella pneumophila (3) (3') (nombre/ 1L) |
 
-≤ 10 UFC/L |
+≤ 10 |
 
-≤ 10 UFC/L |
+≤ 1000 |
 
-Turbidité |
+Turbidité (NFU) |
 
-≤ 2 NFU |
+≤ 2 |
 
-≤ 5 NFU |
+≤ 5 |
 
-Carbone organique total (COT) (4) |
+Carbone organique total (COT) (4) (mg/L) |
 
-≤ 5 mg/L |
+≤ 5 |
 
-≤ 10 mg/L |
+≤ 10 |
 
-En cas de chloration : Résiduel de chlore libre (5) |
+En cas de chloration : résiduel de chlore libre (5) |
 
 Absence d'odeur |
 
@@ -50,23 +50,25 @@ Absence d'odeur |
 
 pH (6) |
 
-Entre 5,5 et 8,5 |
+Valeurs recommandées : entre 5,5 et 8,5 |
 
-Entre 5,5 et 8,5 |
+Valeurs recommandées : entre 5,5 et 8,5 |
 
-Les références normatives sont citées à titre indicatif, toute autre norme nationale ou internationale garantissant une qualité équivalente peut être utilisée.
+La surveillance de ces paramètres est réalisée en utilisant des méthodes de mesurage permettant de réaliser des mesures fiables, répétables et reproductibles. Les normes mentionnées ci-dessous sont réputées permettre l'obtention de données d'une qualité scientifique suffisante.
 
-(1) Selon les modalités mentionnées dans la norme NF EN ISO 9308-1 (indice T90-414) (plus adaptée pour les eaux de qualité A+) ou de la norme NF EN ISO 9308-2.
+(1) Selon les modalités mentionnées dans la norme NF EN ISO 9308-1 : 2014 (indice T90-414) (plus adaptée pour les eaux de qualité A+) ou de la norme NF EN ISO 9308-2 : 2014.
 
-(2) Selon les modalités mentionnées dans la norme NF EN ISO 7899-2.
+(2) Selon les modalités mentionnées dans la norme NF EN ISO 7899-2 : 2002 ou la norme NF EN 7899-3 : 2025.
 
-(3) Selon les modalités mentionnées dans la norme NF T90-431. Si le (3') dans le cas d'utilisation de systèmes haute pression, de fontaines décoratives non destinées à la consommation humaine ou d'autres systèmes générant une aérosolisation de l'eau.
+(3) Selon les modalités mentionnées dans la norme NF T90-431 : 2017.
 
-(4) Selon les modalités mentionnées dans la norme NF EN 1484.
+(3') dans le cas d'utilisation de systèmes haute pression supérieur à 3,5 bars de pression, de fontaines décoratives non destinées à la consommation humaine ou d'autres systèmes générant une aérosolisation de l'eau.
+
+(4) Selon les modalités mentionnées dans la norme NF EN 1484 : 1997.
 
 (5) Uniquement en cas de chloration des eaux des systèmes.
 
-(6) Selon les modalités mentionnées dans la norme NF EN ISO 10523. |
+(6) Selon les modalités mentionnées dans la norme NF EN ISO 10523 : 2012. |
 
 Lorsqu'elle n'est pas exigée conformément à l'article 5 du présent arrêté, l'auto-surveillance de ces paramètres de qualité est recommandée en cas d'usage d'eaux impropres à la consommation humaine pour des usages domestiques dans les bâtiments.
 
