@@ -504,13 +504,23 @@ PRODUCTION |
 
 Economie-gestion/ Physique-chimie |
 
-MAINTENANCE ET EFFICACITÉ ÉNERGÉTIQUE |
+MAINTENANCE ET EFFICACITÉ ÉNERGÉTIQUE (dernière session 2027) |
 
 Arrêté du 20 mai 2021 |
 
 PRODUCTION |
 
 Economie-gestion/ Physique-chimie |
+
+MAINTENANCE ET EFFICACITÉ ÉNERGÉTIQUE (première session 2028)
+
+|
+
+Arrêté du 24 juillet 2026 |
+
+PRODUCTION |
+
+Economie-Gestion / Physique-Chimie |
 
 MAINTENANCE NAUTIQUE (dernière session 2025) |
 
