@@ -1,0 +1,9 @@
+# Réponse à la question SEQ251006329
+
+- Question : [SEQ251006329](seq251006329.md) — Application de la loi visant à protéger la population des risques liés aux substances perfluoroalkylées et polyfluoroalkylées
+
+## Réponse
+
+*Transition écologique, biodiversité et négociations internationales sur le climat et la nature, JO du 2026-08-20, page 3966*
+
+L'article 1er de la loi n° 2025-188 du 27 février 2025 visant à protéger la population des risques liés aux substances perfluoroalkylées et polyfluoroalkylées (PFAS) a créé une interdiction de production et d'usage de produits cosmétiques, de textiles et de fart contenant des PFAS qui a été codifiée à l'article L. 524-1 du code de l'environnement. Cet article prévoit que certaines précisions relèveront d'un décret. C'est, ainsi, en application de cet article que le décret n° 2025-1376 du 28 décembre 2025 relatif à la prévention des risques résultant de l'exposition aux substances perfluoroalkylées et polyfluoroalkylées fixe la liste des textiles bénéficiant d'une exception et la valeur résiduelle prévue à au III de cet article. S'agissant ensuite de la redevance pour pollution de l'eau par les substances per- et polyfluoroalkylées (PFAS), codifiée à l'article L. 213-10-2-1 du code de l'environnement, les textes d'application ont été publiés le 27 juin 2026. Il s'agit du décret n° 2026-545 du 25 juin 2026 relatif à la redevance pour pollution de l'eau par des substances perfluoroalkylées et polyfluoroalkylées et l'arrêté du 25 juin 2026 relatif aux modalités d'établissement de la redevance pour pollution de l'eau par des substances perfluoroalkylées et polyfluoroalkylées. Ces textes fixent une liste de vingt-huit PFAS concernés par cette redevance et prévoient une entrée en vigueur de la redevance au 1er septembre 2026. Le rendement initialement estimé était effectivement de 10Meuros.
