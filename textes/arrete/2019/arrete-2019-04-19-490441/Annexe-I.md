@@ -682,7 +682,15 @@ PRODUCTION |
 
 Economie-gestion/ Physique-chimie |
 
-MÉTIERS DU FROID ET DES ÉNERGIES RENOUVELABLES |
+MÉTIERS DU FROID ET DES ÉNERGIES RENOUVELABLES (première session 2028) |
+
+Arrêté du 28 juillet 2026 |
+
+PRODUCTION |
+
+Economie-gestion/ Physique-chimie |
+
+MÉTIERS DU FROID ET DES ÉNERGIES RENOUVELABLES (dernière session 2027) |
 
 Arrêté du 10 mars 2021 |
 
