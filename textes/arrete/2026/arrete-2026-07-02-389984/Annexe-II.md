@@ -4,6 +4,8 @@ ANNEXE II
 
 LISTE DES MODÈLES DE POMPES À CHALEUR BÉNÉFICIANT D'UN AGRÉMENT TRANSITOIRE RELEVANT DU II DE L'ARTICLE 2 DU DÉCRET DU 29 MAI 2026 SUSVISÉ
 
+Pour un an, à compter du 15 juillet 2026 :
+
 Marque |
 
 Modèle |
@@ -13,10 +15,6 @@ Référence EPREL |
 Référence commerciale |
 
 Numéro d'agrément |
-
-Agrément pour un an
-
-à compter du |
 
 Atlantic |
 
@@ -28,8 +26,6 @@ Alféa M Compact 3 |
 
 11-2026-000106 |
 
-15 juillet 2026 |
-
 Atlantic |
 
 Alféa M Compact 4 |
@@ -39,8 +35,6 @@ Alféa M Compact 4 |
 527294 |
 
 11-2026-000107 |
-
-15 juillet 2026 |
 
 Atlantic |
 
@@ -52,8 +46,6 @@ Alféa M 3 |
 
 11-2026-000108 |
 
-15 juillet 2026 |
-
 Atlantic |
 
 Alféa M 4 |
@@ -63,8 +55,6 @@ Alféa M 4 |
 527286 |
 
 11-2026-000109 |
-
-15 juillet 2026 |
 
 Atlantic |
 
@@ -76,8 +66,6 @@ Alféa M Duo 3 |
 
 11-2026-000110 |
 
-15 juillet 2026 |
-
 Atlantic |
 
 Alféa M Duo 4 |
@@ -87,8 +75,6 @@ Alféa M Duo 4 |
 527278 |
 
 11-2026-000111 |
-
-15 juillet 2026 |
 
 Atlantic |
 
@@ -100,8 +86,6 @@ Isilia M 10 |
 
 11-2026-000112 |
 
-15 juillet 2026 |
-
 Atlantic |
 
 Isilia M 11 |
@@ -111,8 +95,6 @@ Isilia M 11 |
 527347 |
 
 11-2026-000113 |
-
-15 juillet 2026 |
 
 Atlantic |
 
@@ -124,8 +106,6 @@ Isilia M 12 Mono |
 
 11-2026-000114 |
 
-15 juillet 2026 |
-
 Atlantic |
 
 Isilia M 12 Tri |
@@ -135,8 +115,6 @@ Isilia M 12 Tri |
 527349 |
 
 11-2026-000115 |
-
-15 juillet 2026 |
 
 Atlantic |
 
@@ -148,8 +126,6 @@ Isilia M 14 Mono |
 
 11-2026-000116 |
 
-15 juillet 2026 |
-
 Atlantic |
 
 Isilia M 14 Tri |
@@ -159,8 +135,6 @@ Isilia M 14 Tri |
 527351 |
 
 11-2026-000117 |
-
-15 juillet 2026 |
 
 Atlantic |
 
@@ -172,8 +146,6 @@ Isilia M 16 Mono |
 
 11-2026-000118 |
 
-15 juillet 2026 |
-
 Atlantic |
 
 Isilia M 16 Tri |
@@ -183,8 +155,6 @@ Isilia M 16 Tri |
 527353 |
 
 11-2026-000119 |
-
-15 juillet 2026 |
 
 Atlantic |
 
@@ -196,8 +166,6 @@ Isilia M 18 Mono |
 
 11-2026-000120 |
 
-15 juillet 2026 |
-
 Atlantic |
 
 Isilia M 18 Tri |
@@ -207,8 +175,6 @@ Isilia M 18 Tri |
 527355 |
 
 11-2026-000121 |
-
-15 juillet 2026 |
 
 Easypell |
 
@@ -220,8 +186,6 @@ HPEASY08 |
 
 151-2026-000001 |
 
-15 juillet 2026 |
-
 Easypell |
 
 EPA09 |
@@ -231,8 +195,6 @@ EPA09 |
 HPEASY11 |
 
 151-2026-000002 |
-
-15 juillet 2026 |
 
 Easypell |
 
@@ -244,8 +206,6 @@ HPEASY15 |
 
 151-2026-000003 |
 
-15 juillet 2026 |
-
 Easypell |
 
 EPA12T |
@@ -255,8 +215,6 @@ EPA12T |
 HPEASY15T |
 
 151-2026-000004 |
-
-15 juillet 2026 |
 
 Lg Electronics |
 
@@ -268,8 +226,6 @@ HM051HFS.UA41 |
 
 57-2026-000001 |
 
-15 juillet 2026 |
-
 Lg Electronics |
 
 Therma V R290 - Monobloc S - 7kW - Monophasé |
@@ -279,8 +235,6 @@ HM071HFS UA41 |
 HM071HFS.UA41 |
 
 57-2026-000002 |
-
-15 juillet 2026 |
 
 Lg Electronics |
 
@@ -292,8 +246,6 @@ HM073HFS.UA41 |
 
 57-2026-000003 |
 
-15 juillet 2026 |
-
 Lg Electronics |
 
 Therma V R290 - Monobloc S - 9kW - Monophasé |
@@ -303,8 +255,6 @@ HM091HFS UA41 |
 HM091HFS.UA41 |
 
 57-2026-000004 |
-
-15 juillet 2026 |
 
 Lg Electronics |
 
@@ -316,8 +266,6 @@ HM093HFS.UA41 |
 
 57-2026-000005 |
 
-15 juillet 2026 |
-
 Lg Electronics |
 
 Therma V R290 - Monobloc S - 12kW - Monophasé |
@@ -327,8 +275,6 @@ HM121HFS UB41 |
 HM121HFS.UB41 |
 
 57-2026-000006 |
-
-15 juillet 2026 |
 
 Lg Electronics |
 
@@ -340,8 +286,6 @@ HM123HFS UB41 |
 
 57-2026-000007 |
 
-15 juillet 2026 |
-
 Lg Electronics |
 
 Therma V R290 - Monobloc S - 14kW - Monophasé |
@@ -351,8 +295,6 @@ HM141HFS UB41 |
 HM141HFS.UB41 |
 
 57-2026-000008 |
-
-15 juillet 2026 |
 
 Lg Electronics |
 
@@ -364,8 +306,6 @@ HM143HFS.UB41 |
 
 57-2026-000009 |
 
-15 juillet 2026 |
-
 Lg Electronics |
 
 Therma V R290 - Monobloc S - 16kW - Monophasé |
@@ -375,8 +315,6 @@ HM161HFS UB41 |
 HM161HFS.UB41 |
 
 57-2026-000010 |
-
-15 juillet 2026 |
 
 Lg Electronics |
 
@@ -388,8 +326,6 @@ HM163HFS.UB41 |
 
 57-2026-000011 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SHWM30VAH + ERST17D-*M*BD |
@@ -399,8 +335,6 @@ SUZ-SHWM30VAH / ERST17D-VM6BD |
 Eco Inverter+ Duo 3 170L 2 zones |
 
 60-2026-000012 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -412,8 +346,6 @@ Eco Inverter+ Duo 3 170L 2 zones |
 
 60-2026-000013 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SHWM30VAH + ERST20D-*M*D |
@@ -423,8 +355,6 @@ SUZ-SHWM30VAH / ERST20D-VM6D |
 Eco Inverter+ Duo 3 200L |
 
 60-2026-000014 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -436,8 +366,6 @@ Eco Inverter+ Duo 3 200L |
 
 60-2026-000015 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SHWM30VAH + ERST30D-*M*D |
@@ -447,8 +375,6 @@ SUZ-SHWM30VAH / ERST30D-VM6ED |
 Eco Inverter+ Duo 3 300L |
 
 60-2026-000016 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -460,8 +386,6 @@ Eco Inverter+ Duo 3 300L |
 
 60-2026-000017 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SHWM40VAH + ERST17D-*M*BD |
@@ -471,8 +395,6 @@ SUZ-SHWM40VAH / ERST17D-VM6BD |
 Eco Inverter+ Duo 4 170L 2 zones |
 
 60-2026-000018 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -484,8 +406,6 @@ Eco Inverter+ Duo 4 170L 2 zones |
 
 60-2026-000019 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SHWM40VAH + ERST20D-*M*D |
@@ -495,8 +415,6 @@ SUZ-SHWM40VAH / ERST20D-VM6D |
 Eco Inverter+ Duo 4 200L |
 
 60-2026-000020 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -508,8 +426,6 @@ Eco Inverter+ Duo 4 200L |
 
 60-2026-000021 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SHWM40VAH + ERST30D-*M*D |
@@ -519,8 +435,6 @@ SUZ-SHWM40VAH / ERST30D-VM6ED |
 Eco Inverter+ Duo 4 300L |
 
 60-2026-000022 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -532,8 +446,6 @@ Eco Inverter+ Duo 4 300L |
 
 60-2026-000023 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SHWM60VAH + ERST17D-*M*BD |
@@ -543,8 +455,6 @@ SUZ-SHWM60VAH / ERST17D-VM6BD |
 Eco Inverter+ Duo 6 170L 2 zones |
 
 60-2026-000024 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -556,8 +466,6 @@ Eco Inverter+ Duo 6 170L 2 zones |
 
 60-2026-000025 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SHWM60VAH + ERST20D-*M*D |
@@ -567,8 +475,6 @@ SUZ-SHWM60VAH / ERST20D-VM6D |
 Eco Inverter+ Duo 6 200L |
 
 60-2026-000026 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -580,8 +486,6 @@ Eco Inverter+ Duo 6 200L |
 
 60-2026-000027 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SHWM60VAH + ERST30D-*M*ED |
@@ -591,8 +495,6 @@ SUZ-SHWM60VAH / ERST30D-VM6ED |
 Eco Inverter+ Duo 6 300L |
 
 60-2026-000028 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -604,8 +506,6 @@ Eco Inverter+ Duo 6 300L |
 
 60-2026-000029 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SHWM30VAH + ERSD-*M*D |
@@ -615,8 +515,6 @@ SUZ-SHWM30VAH / ERSD-VM6D |
 Eco Inverter+ 3 |
 
 60-2026-000030 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -628,8 +526,6 @@ Eco Inverter+ 3 |
 
 60-2026-000031 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SHWM40VAH + ERSD-*M*D |
@@ -639,8 +535,6 @@ SUZ-SHWM40VAH / ERSD-VM6D |
 Eco Inverter+ 4 |
 
 60-2026-000032 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -652,8 +546,6 @@ Eco Inverter+ 4 |
 
 60-2026-000033 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SHWM60VAH + ERSD-*M*D |
@@ -663,8 +555,6 @@ SUZ-SHWM60VAH / ERSD-VM6D |
 Eco Inverter+ 6 |
 
 60-2026-000034 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -676,8 +566,6 @@ Eco Inverter+ 6 |
 
 60-2026-000035 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SWM100VA + ERST17D-*M*BE |
@@ -687,8 +575,6 @@ SUZ-SWM100VA / ERST17D-VM6BE |
 Eco Inverter Duo 10 170L 2 zones |
 
 60-2026-000036 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -700,8 +586,6 @@ Eco Inverter Duo 10 200L |
 
 60-2026-000037 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SWM100VA + ERST20D-*M*E |
@@ -711,8 +595,6 @@ SUZ-SWM100VA / ERST20D-VM6E |
 Eco Inverter Duo 10 200L |
 
 60-2026-000038 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -724,8 +606,6 @@ Eco Inverter Duo 10 300L |
 
 60-2026-000039 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SWM100VA + ERST30D-*M*E |
@@ -735,8 +615,6 @@ SUZ-SWM100VA / ERST30D-VM6EE |
 Eco Inverter Duo 10 300L |
 
 60-2026-000040 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -748,8 +626,6 @@ Eco Inverter Duo 3 170L 2 zones |
 
 60-2026-000041 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SWM30VA + ERST17D-*M*BE |
@@ -759,8 +635,6 @@ SUZ-SWM30VA / ERST17D-VM6BE |
 Eco Inverter Duo 3 170L 2 zones |
 
 60-2026-000042 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -772,8 +646,6 @@ Eco Inverter Duo 3 200L |
 
 60-2026-000043 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SWM30VA + ERST20D-*M*E |
@@ -783,8 +655,6 @@ SUZ-SWM30VA / ERST20D-VM6E |
 Eco Inverter Duo 3 200L |
 
 60-2026-000044 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -796,8 +666,6 @@ Eco Inverter Duo 3 300L |
 
 60-2026-000045 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SWM30VA + ERST30D-*M*E |
@@ -807,8 +675,6 @@ SUZ-SWM30VA / ERST30D-VM6EE |
 Eco Inverter Duo 3 300L |
 
 60-2026-000046 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -820,8 +686,6 @@ Eco Inverter Duo 4 170L 2 zones |
 
 60-2026-000047 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SWM40VA2 + ERST17D-*M*BE |
@@ -831,8 +695,6 @@ SUZ-SWM40VA2 / ERST17D-VM6BE |
 Eco Inverter Duo 4 170L 2 zones |
 
 60-2026-000048 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -844,8 +706,6 @@ Eco Inverter Duo 4 200L |
 
 60-2026-000049 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SWM40VA2 + ERST20D-*M*E |
@@ -855,8 +715,6 @@ SUZ-SWM40VA2 / ERST20D-VM6E |
 Eco Inverter Duo 4 200L |
 
 60-2026-000050 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -868,8 +726,6 @@ Eco Inverter Duo 4 300L |
 
 60-2026-000051 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SWM40VA2 + ERST30D-*M*E |
@@ -879,8 +735,6 @@ SUZ-SWM40VA2 / ERST30D-VM6EE |
 Eco Inverter Duo 4 300L |
 
 60-2026-000052 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -892,8 +746,6 @@ Eco Inverter Duo 6 170L 2 zones |
 
 60-2026-000053 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SWM60VA2 + ERST17D-*M*BE |
@@ -903,8 +755,6 @@ SUZ-SWM60VA2 / ERST17D-VM6BE |
 Eco Inverter Duo 6 170L 2 zones |
 
 60-2026-000054 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -916,8 +766,6 @@ Eco Inverter Duo 6 200L |
 
 60-2026-000055 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SWM60VA2 + ERST20D-*M*E |
@@ -927,8 +775,6 @@ SUZ-SWM60VA2 / ERST20D-VM6E |
 Eco Inverter Duo 6 200L |
 
 60-2026-000056 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -940,8 +786,6 @@ Eco Inverter Duo 6 300L |
 
 60-2026-000057 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SWM60VA2 + ERST30D-*M*E |
@@ -951,8 +795,6 @@ SUZ-SWM60VA2 / ERST30D-VM6EE |
 Eco Inverter Duo 6 300L |
 
 60-2026-000058 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -964,8 +806,6 @@ Eco Inverter Duo 8 170L 2 zones |
 
 60-2026-000059 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SWM80VA2 + ERST17D-*M*BE |
@@ -975,8 +815,6 @@ SUZ-SWM80VA2 / ERST17D-VM6BE |
 Eco Inverter Duo 8 170L 2 zones |
 
 60-2026-000060 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -988,8 +826,6 @@ Eco Inverter Duo 8 200L |
 
 60-2026-000061 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SWM80VA2 + ERST20D-*M*E |
@@ -999,8 +835,6 @@ SUZ-SWM80VA2 / ERST20D-VM6E |
 Eco Inverter Duo 8 200L |
 
 60-2026-000062 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1012,8 +846,6 @@ Eco Inverter Duo 8 300L |
 
 60-2026-000063 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SWM80VA2 + ERST30D-*M*E |
@@ -1023,8 +855,6 @@ SUZ-SWM80VA2 / ERST30D-VM6EE |
 Eco Inverter Duo 8 300L |
 
 60-2026-000064 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1036,8 +866,6 @@ Eco Inverter 10 |
 
 60-2026-000065 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SWM100VA + ERSD-*M*E |
@@ -1047,8 +875,6 @@ SUZ-SWM100VA / ERSD-VM6E |
 Eco Inverter 10 |
 
 60-2026-000066 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1060,8 +886,6 @@ Eco Inverter 3 |
 
 60-2026-000067 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SWM30VA + ERSD-*M*E |
@@ -1071,8 +895,6 @@ SUZ-SWM30VA / ERSD-VM6E |
 Eco Inverter 3 |
 
 60-2026-000068 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1084,8 +906,6 @@ Eco Inverter 4 |
 
 60-2026-000069 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SWM40VA2 + ERSD-*M*E |
@@ -1095,8 +915,6 @@ SUZ-SWM40VA2 / ERSD-VM6E |
 Eco Inverter 4 |
 
 60-2026-000070 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1108,8 +926,6 @@ Eco Inverter 6 |
 
 60-2026-000071 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SWM60VA2 + ERSD-*M*E |
@@ -1119,8 +935,6 @@ SUZ-SWM60VA2 / ERSD-VM6E |
 Eco Inverter 6 |
 
 60-2026-000072 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1132,8 +946,6 @@ Eco Inverter 8 |
 
 60-2026-000073 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 SUZ-SWM80VA2 + ERSD-*M*E |
@@ -1143,8 +955,6 @@ SUZ-SWM80VA2 / ERSD-VM6E |
 Eco Inverter 8 |
 
 60-2026-000074 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1156,8 +966,6 @@ Power Inverter Silence Duo 10 200L |
 
 60-2026-000075 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SWM100VAA + ERST20F-*M*E |
@@ -1167,8 +975,6 @@ PUZ-SWM100VAA / ERST20F-VM6E |
 Power Inverter Silence Duo 10 200L |
 
 60-2026-000076 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1180,8 +986,6 @@ Power Inverter Silence Duo 10 300L |
 
 60-2026-000077 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SWM100VAA + ERST30F-*M*E |
@@ -1191,8 +995,6 @@ PUZ-SWM100VAA / ERST30F-VM6EE |
 Power Inverter Silence Duo 10 300L |
 
 60-2026-000078 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1204,8 +1006,6 @@ Power Inverter Silence Duo 10 200L Tri |
 
 60-2026-000079 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SWM100YAA + ERST20F-*M*E |
@@ -1215,8 +1015,6 @@ PUZ-SWM100YAA / ERST20F-YM9E |
 Power Inverter Silence Duo 10 200L Tri |
 
 60-2026-000080 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1228,8 +1026,6 @@ Power Inverter Silence Duo 10 300L Tri |
 
 60-2026-000081 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SWM100YAA + ERST30F-*M*E |
@@ -1239,8 +1035,6 @@ PUZ-SWM100YAA / ERST30F-YM9EE |
 Power Inverter Silence Duo 10 300L Tri |
 
 60-2026-000082 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1252,8 +1046,6 @@ Power Inverter Silence Duo 12 200L |
 
 60-2026-000083 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SWM120VAA + ERST20F-*M*E |
@@ -1263,8 +1055,6 @@ PUZ-SWM120VAA / ERST20F-VM6E |
 Power Inverter Silence Duo 12 200L |
 
 60-2026-000084 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1276,8 +1066,6 @@ Power Inverter Silence Duo 12 300L |
 
 60-2026-000085 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SWM120VAA + ERST30F-*M*E |
@@ -1287,8 +1075,6 @@ PUZ-SWM120VAA / ERST30F-VM6EE |
 Power Inverter Silence Duo 12 300L |
 
 60-2026-000086 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1300,8 +1086,6 @@ Power Inverter Silence Duo 12 200L Tri |
 
 60-2026-000087 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SWM120YAA + ERST20F-*M*E |
@@ -1311,8 +1095,6 @@ PUZ-SWM120YAA / ERST20F-YM9E |
 Power Inverter Silence Duo 12 200L Tri |
 
 60-2026-000088 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1324,8 +1106,6 @@ Power Inverter Silence Duo 12 300L Tri |
 
 60-2026-000089 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SWM120YAA + ERST30F-*M*E |
@@ -1335,8 +1115,6 @@ PUZ-SWM120YAA / ERST30F-YM9EE |
 Power Inverter Silence Duo 12 300L Tri |
 
 60-2026-000090 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1348,8 +1126,6 @@ Power Inverter Silence Duo 8 170L 2 zones |
 
 60-2026-000091 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SWM80VAA + ERST17D-*M*BE |
@@ -1359,8 +1135,6 @@ PUZ-SWM80VAA / ERST17D-VM6BE |
 Power Inverter Silence Duo 8 170L 2 zones |
 
 60-2026-000092 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1372,8 +1146,6 @@ Power Inverter Silence Duo 8 200L |
 
 60-2026-000093 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SWM80VAA + ERST20F-*M*E |
@@ -1383,8 +1155,6 @@ PUZ-SWM80VAA / ERST20F-VM6E |
 Power Inverter Silence Duo 8 200L |
 
 60-2026-000094 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1396,8 +1166,6 @@ Power Inverter Silence Duo 8 300L |
 
 60-2026-000095 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SWM80VAA + ERST30F-*M*E |
@@ -1407,8 +1175,6 @@ PUZ-SWM80VAA / ERST30F-VM6EE |
 Power Inverter Silence Duo 8 300L |
 
 60-2026-000096 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1420,8 +1186,6 @@ Power Inverter Silence 10 |
 
 60-2026-000097 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SWM100VAA + ERSF-*M*E |
@@ -1431,8 +1195,6 @@ PUZ-SWM100VAA / ERSF-VM6E |
 Power Inverter Silence 10 |
 
 60-2026-000098 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1444,8 +1206,6 @@ Power Inverter Silence 10 Tri |
 
 60-2026-000099 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SWM100YAA + ERSF-*M*E |
@@ -1455,8 +1215,6 @@ PUZ-SWM100YAA / ERSF-YM9E |
 Power Inverter Silence 10 Tri |
 
 60-2026-000100 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1468,8 +1226,6 @@ Power Inverter Silence 12 |
 
 60-2026-000101 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SWM120VAA + ERSF-*M*E |
@@ -1479,8 +1235,6 @@ PUZ-SWM120VAA / ERSF-VM6E |
 Power Inverter Silence 12 |
 
 60-2026-000102 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1492,8 +1246,6 @@ Power Inverter Silence 12 Tri |
 
 60-2026-000103 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SWM120YAA + ERSF-*M*E |
@@ -1503,8 +1255,6 @@ PUZ-SWM120YAA / ERSF-YM9E |
 Power Inverter Silence 12 Tri |
 
 60-2026-000104 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1516,8 +1266,6 @@ Power Inverter Silence 8 |
 
 60-2026-000105 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SWM80VAA + ERSF-*M*E |
@@ -1527,8 +1275,6 @@ PUZ-SWM80VAA / ERSF-VM6E |
 Power Inverter Silence 8 |
 
 60-2026-000106 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1540,8 +1286,6 @@ Power Inverter 22 Tri |
 
 60-2026-000107 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUHZ-SW200YKA + ERSE-*M*ED |
@@ -1551,8 +1295,6 @@ PUHZ-SW200YKA / ERSE-YM9ED |
 Power Inverter 25 Tri |
 
 60-2026-000108 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1564,8 +1306,6 @@ Zubadan Silence Duo 10 200L |
 
 60-2026-000109 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SHWM100VAA + ERST20F-*M*E |
@@ -1575,8 +1315,6 @@ PUZ-SHWM100VAA / ERST20F-VM6E |
 Zubadan Silence Duo 10 200L |
 
 60-2026-000110 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1588,8 +1326,6 @@ Zubadan Silence Duo 10 300L |
 
 60-2026-000111 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SHWM100VAA + ERST30F-*M*E |
@@ -1599,8 +1335,6 @@ PUZ-SHWM100VAA / ERST30F-VM6EE |
 Zubadan Silence Duo 10 300L |
 
 60-2026-000112 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1612,8 +1346,6 @@ Zubadan Silence Duo 10 200L Tri |
 
 60-2026-000113 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SHWM100YAA + ERST20F-*M*E |
@@ -1623,8 +1355,6 @@ PUZ-SHWM100YAA / ERST20F-YM9E |
 Zubadan Silence Duo 10 200L Tri |
 
 60-2026-000114 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1636,8 +1366,6 @@ Zubadan Silence Duo 10 300L Tri |
 
 60-2026-000115 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SHWM100YAA + ERST30F-*M*E |
@@ -1647,8 +1375,6 @@ PUZ-SHWM100YAA / ERST30F-YM9EE |
 Zubadan Silence Duo 10 300L Tri |
 
 60-2026-000116 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1660,8 +1386,6 @@ Zubadan Silence Duo 12 200L |
 
 60-2026-000117 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SHWM120VAA + ERST20F-*M*E |
@@ -1671,8 +1395,6 @@ PUZ-SHWM120VAA / ERST20F-VM6E |
 Zubadan Silence Duo 12 200L |
 
 60-2026-000118 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1684,8 +1406,6 @@ Zubadan Silence Duo 12 300L |
 
 60-2026-000119 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SHWM120VAA + ERST30F-*M*E |
@@ -1695,8 +1415,6 @@ PUZ-SHWM120VAA / ERST30F-VM6EE |
 Zubadan Silence Duo 12 300L |
 
 60-2026-000120 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1708,8 +1426,6 @@ Zubadan Silence Duo 12 200L Tri |
 
 60-2026-000121 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SHWM120YAA + ERST20F-*M*E |
@@ -1719,8 +1435,6 @@ PUZ-SHWM120YAA / ERST20F-YM9E |
 Zubadan Silence Duo 12 200L Tri |
 
 60-2026-000122 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1732,8 +1446,6 @@ Zubadan Silence Duo 12 300L Tri |
 
 60-2026-000123 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SHWM120YAA + ERST30F-*M*E |
@@ -1743,8 +1455,6 @@ PUZ-SHWM120YAA / ERST30F-YM9EE |
 Zubadan Silence Duo 12 300L Tri |
 
 60-2026-000124 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1756,8 +1466,6 @@ Zubadan Silence Duo 14 200L |
 
 60-2026-000125 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SHWM140VAA + ERST20F-*M*E |
@@ -1767,8 +1475,6 @@ PUZ-SHWM140VAA / ERST20F-VM6E |
 Zubadan Silence Duo 14 200L |
 
 60-2026-000126 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1780,8 +1486,6 @@ Zubadan Silence Duo 14 300L |
 
 60-2026-000127 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SHWM140VAA + ERST30F-*M*E |
@@ -1791,8 +1495,6 @@ PUZ-SHWM140VAA / ERST30F-VM6EE |
 Zubadan Silence Duo 14 300L |
 
 60-2026-000128 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1804,8 +1506,6 @@ Zubadan Silence Duo 14 200L Tri |
 
 60-2026-000129 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SHWM140YAA + ERST20F-*M*E |
@@ -1815,8 +1515,6 @@ PUZ-SHWM140YAA / ERST20F-YM9E |
 Zubadan Silence Duo 14 200L Tri |
 
 60-2026-000130 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1828,8 +1526,6 @@ Zubadan Silence Duo 14 300L Tri |
 
 60-2026-000131 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SHWM140YAA + ERST30F-*M*E |
@@ -1839,8 +1535,6 @@ PUZ-SHWM140YAA / ERST30F-YM9EE |
 Zubadan Silence Duo 14 300L Tri |
 
 60-2026-000132 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1852,8 +1546,6 @@ Zubadan Silence Duo 8 170L 2 zones |
 
 60-2026-000133 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SHWM80VAA + ERST17D-*M*BE |
@@ -1863,8 +1555,6 @@ PUZ-SHWM80VAA / ERST17D-VM6BE |
 Zubadan Silence Duo 8 170L 2 zones |
 
 60-2026-000134 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1876,8 +1566,6 @@ Zubadan Silence Duo 8 200L |
 
 60-2026-000135 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SHWM80VAA + ERST20F-*M*E |
@@ -1887,8 +1575,6 @@ PUZ-SHWM80VAA / ERST20F-VM6E |
 Zubadan Silence Duo 8 200L |
 
 60-2026-000136 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1900,8 +1586,6 @@ Zubadan Silence Duo 8 300L |
 
 60-2026-000137 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SHWM80VAA + ERST30F-*M*E |
@@ -1911,8 +1595,6 @@ PUZ-SHWM80VAA / ERST30F-VM6EE |
 Zubadan Silence Duo 8 300L |
 
 60-2026-000138 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1924,8 +1606,6 @@ Zubadan Silence Duo 8 200L Tri |
 
 60-2026-000139 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SHWM80YAA + ERST30F-*M*E |
@@ -1935,8 +1615,6 @@ PUZ-SHWM80YAA / ERST30F-YM9EE |
 Zubadan Silence Duo 8 300L Tri |
 
 60-2026-000140 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1948,8 +1626,6 @@ Zubadan Silence 10 |
 
 60-2026-000141 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SHWM100VAA + ERSF-*M*E |
@@ -1959,8 +1635,6 @@ PUZ-SHWM100VAA / ERSF-VM6E |
 Zubadan Silence 10 |
 
 60-2026-000142 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1972,8 +1646,6 @@ Zubadan Silence 10 Tri |
 
 60-2026-000143 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SHWM100YAA + ERSF-*M*E |
@@ -1983,8 +1655,6 @@ PUZ-SHWM100YAA / ERSF-YM9E |
 Zubadan Silence 10 Tri |
 
 60-2026-000144 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -1996,8 +1666,6 @@ Zubadan Silence 12 |
 
 60-2026-000145 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SHWM120VAA + ERSF-*M*E |
@@ -2007,8 +1675,6 @@ PUZ-SHWM120VAA / ERSF-VM6E |
 Zubadan Silence 12 |
 
 60-2026-000146 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -2020,8 +1686,6 @@ Zubadan Silence 12 Tri |
 
 60-2026-000147 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SHWM120YAA + ERSF-*M*E |
@@ -2031,8 +1695,6 @@ PUZ-SHWM120YAA / ERSF-YM9E |
 Zubadan Silence 12 Tri |
 
 60-2026-000148 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -2044,8 +1706,6 @@ Zubadan Silence 14 |
 
 60-2026-000149 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SHWM140VAA + ERSF-*M*E |
@@ -2055,8 +1715,6 @@ PUZ-SHWM140VAA / ERSF-VM6E |
 Zubadan Silence 14 |
 
 60-2026-000150 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -2068,8 +1726,6 @@ Zubadan Silence 14 Tri |
 
 60-2026-000151 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SHWM140YAA + ERSF-*M*E |
@@ -2079,8 +1735,6 @@ PUZ-SHWM140YAA / ERSF-YM9E |
 Zubadan Silence 14 Tri |
 
 60-2026-000152 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -2092,8 +1746,6 @@ Zubadan Silence 8 |
 
 60-2026-000153 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUZ-SHWM80VAA + ERSF-*M*E |
@@ -2103,8 +1755,6 @@ PUZ-SHWM80VAA / ERSF-VM6E |
 Zubadan Silence 8 |
 
 60-2026-000154 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -2116,8 +1766,6 @@ Zubadan Silence 8 Tri |
 
 60-2026-000155 |
 
-15 juillet 2026 |
-
 Mitsubishi Electric |
 
 PUHZ-SHW230YKA2 + ERSE-*M*D |
@@ -2127,8 +1775,6 @@ PUHZ-SHW230YKA2 / ERSE-YM9ED |
 Zubadan 23 Tri |
 
 60-2026-000156 |
-
-15 juillet 2026 |
 
 Mitsubishi Electric |
 
@@ -2140,8 +1786,6 @@ Zubadan 23 Tri |
 
 60-2026-000157 |
 
-15 juillet 2026 |
-
 Thermor |
 
 Thermor Aurea Compact 2 - 3 2026 |
@@ -2151,8 +1795,6 @@ Thermor Aurea Compact 2 - 3 2026 |
 527366 |
 
 18-2026-000046 |
-
-15 juillet 2026 |
 
 Thermor |
 
@@ -2164,8 +1806,6 @@ Thermor Aurea Compact 2 - 4 2026 |
 
 18-2026-000047 |
 
-15 juillet 2026 |
-
 Thermor |
 
 Thermor Aurea Compact 2 - 5 |
@@ -2175,8 +1815,6 @@ Thermor Aurea Compact 2 - 5 |
 527368 |
 
 18-2026-000048 |
-
-15 juillet 2026 |
 
 Thermor |
 
@@ -2188,8 +1826,6 @@ Thermor Aurea Compact 2 - 7 |
 
 18-2026-000049 |
 
-15 juillet 2026 |
-
 Thermor |
 
 Thermor Aurea Compact 2 - 9 |
@@ -2199,8 +1835,6 @@ Thermor Aurea Compact 2 - 9 |
 527371 |
 
 18-2026-000050 |
-
-15 juillet 2026 |
 
 Thermor |
 
@@ -2212,8 +1846,6 @@ Thermor Aurea Compact 2 - 12 |
 
 18-2026-000051 |
 
-15 juillet 2026 |
-
 Thermor |
 
 Thermor Aurea Compact 2 - 7 Tri |
@@ -2223,8 +1855,6 @@ Thermor Aurea Compact 2 - 7 Tri |
 527373 |
 
 18-2026-000052 |
-
-15 juillet 2026 |
 
 Thermor |
 
@@ -2236,8 +1866,6 @@ Thermor Aurea Compact 2 - 9 Tri |
 
 18-2026-000053 |
 
-15 juillet 2026 |
-
 Thermor |
 
 Thermor Aurea Compact 2 - 12 Tri |
@@ -2247,8 +1875,6 @@ Thermor Aurea Compact 2 - 12 Tri |
 527376 |
 
 18-2026-000054 |
-
-15 juillet 2026 |
 
 Thermor |
 
@@ -2260,8 +1886,6 @@ Thermor Aurea 2 M 3 2026 |
 
 18-2026-000055 |
 
-15 juillet 2026 |
-
 Thermor |
 
 Thermor Aurea 2 M 4 2026 |
@@ -2271,8 +1895,6 @@ Thermor Aurea 2 M 4 2026 |
 527404 |
 
 18-2026-000056 |
-
-15 juillet 2026 |
 
 Thermor |
 
@@ -2284,8 +1906,6 @@ Thermor Aurea 2 M5 |
 
 18-2026-000057 |
 
-15 juillet 2026 |
-
 Thermor |
 
 Thermor Aurea 2 M7 |
@@ -2295,8 +1915,6 @@ Thermor Aurea 2 M7 |
 527406 |
 
 18-2026-000058 |
-
-15 juillet 2026 |
 
 Thermor |
 
@@ -2308,8 +1926,6 @@ Thermor Aurea 2 M 9 2026 |
 
 18-2026-000059 |
 
-15 juillet 2026 |
-
 Thermor |
 
 Thermor Aurea 2 M 12 2026 |
@@ -2319,8 +1935,6 @@ Thermor Aurea 2 M 12 2026 |
 527409 |
 
 18-2026-000060 |
-
-15 juillet 2026 |
 
 Thermor |
 
@@ -2332,8 +1946,6 @@ Thermor Aurea 2 M7 Tri |
 
 18-2026-000061 |
 
-15 juillet 2026 |
-
 Thermor |
 
 Thermor Aurea 2 M 9 Tri 2026 |
@@ -2343,8 +1955,6 @@ Thermor Aurea 2 M 9 Tri 2026 |
 527412 |
 
 18-2026-000062 |
-
-15 juillet 2026 |
 
 Thermor |
 
@@ -2356,8 +1966,6 @@ Thermor Aurea 2 M 12 Tri 2026 |
 
 18-2026-000063 |
 
-15 juillet 2026 |
-
 Thermor |
 
 Thermor Aurea 2 Duo 3 2026 |
@@ -2367,8 +1975,6 @@ Thermor Aurea 2 Duo 3 2026 |
 527414 |
 
 18-2026-000064 |
-
-15 juillet 2026 |
 
 Thermor |
 
@@ -2380,8 +1986,6 @@ Thermor Aurea 2 Duo 4 2026 |
 
 18-2026-000065 |
 
-15 juillet 2026 |
-
 Thermor |
 
 Thermor Aurea 2 Duo 5 |
@@ -2391,8 +1995,6 @@ Thermor Aurea 2 Duo 5 |
 527416 |
 
 18-2026-000066 |
-
-15 juillet 2026 |
 
 Thermor |
 
@@ -2404,8 +2006,6 @@ Thermor Aurea 2 Duo 7 |
 
 18-2026-000067 |
 
-15 juillet 2026 |
-
 Thermor |
 
 Thermor Aurea 2 Duo 9 2026 |
@@ -2415,8 +2015,6 @@ Thermor Aurea 2 Duo 9 2026 |
 527419 |
 
 18-2026-000068 |
-
-15 juillet 2026 |
 
 Thermor |
 
@@ -2428,8 +2026,6 @@ Thermor Aurea 2 Duo 12 2026 |
 
 18-2026-000069 |
 
-15 juillet 2026 |
-
 Thermor |
 
 Thermor Aurea 2 Duo 7 Tri |
@@ -2439,8 +2035,6 @@ Thermor Aurea 2 Duo 7 Tri |
 527421 |
 
 18-2026-000070 |
-
-15 juillet 2026 |
 
 Thermor |
 
@@ -2452,8 +2046,6 @@ Thermor Aurea 2 Duo 9 Tri 2026 |
 
 18-2026-000071 |
 
-15 juillet 2026 |
-
 Thermor |
 
 Thermor Aurea 2 Duo 12 Tri 2026 |
@@ -2464,4 +2056,414 @@ Thermor Aurea 2 Duo 12 Tri 2026 |
 
 18-2026-000072 |
 
-15 juillet 2026 |
+Pour un an, à compter du 15 août 2026 :
+
+Marque |
+
+Modèle |
+
+Référence EPREL |
+
+Référence commerciale |
+
+Numéro d'agrément |
+
+Airwell |
+
+BDHW-100R-04M25 |
+
+2317269 |
+
+7MB140023 |
+
+1-2026-000003 |
+
+Airwell |
+
+BDHW-060R-04M25 |
+
+2317215 |
+
+7MB140021 |
+
+1-2026-000005 |
+
+Airwell |
+
+BDHW-040R-04M25 |
+
+2317157 |
+
+7MB140020 |
+
+1-2026-000006 |
+
+Airwell |
+
+BDHW-120R-04M25 |
+
+2317324 |
+
+7MB140024 |
+
+1-2026-000007 |
+
+Airwell |
+
+BDHW-120R-04T35 |
+
+2317335 |
+
+7MB140027 |
+
+1-2026-000008 |
+
+Airwell |
+
+BDHW-140R-04M25 |
+
+2317370 |
+
+7MB140025 |
+
+1-2026-000009 |
+
+Airwell |
+
+BDHW-140R-04T35 |
+
+2317375 |
+
+7MB140028 |
+
+1-2026-000010 |
+
+Airwell |
+
+BDHW-160R-04M25 |
+
+2317377 |
+
+7MB140026 |
+
+1-2026-000011 |
+
+Airwell |
+
+BDHW-160R-04T35 |
+
+2317388 |
+
+7MB140029 |
+
+1-2026-000012 |
+
+Airwell |
+
+BDHW-080R-04M25 |
+
+2317263 |
+
+7MB140022 |
+
+1-2026-000013 |
+
+Airwell |
+
+AW-YHPSA08-H91 + AW-WHPSA0810-N91 |
+
+1707356 |
+
+7HP061067 + 7HP010016 |
+
+1-2026-000023 |
+
+Airwell |
+
+AW-YHPSA10-H91 + AW-WHPSA0810-N91 |
+
+1707532 |
+
+7HP061068 + 7HP010016 |
+
+1-2026-000024 |
+
+Airwell |
+
+AW-YHPSA04-H91 + AW-WHPSA0406-N91 |
+
+1707163 |
+
+7HP061065 + 7HP010015 |
+
+1-2026-000025 |
+
+Airwell |
+
+AW-YHPSA06-H91 + AW-WHPSA0406-N91 |
+
+1707305 |
+
+7HP061066 + 7HP010015 |
+
+1-2026-000026 |
+
+Airwell |
+
+AW-YHPSA12-H91 + AW-WHPSA1216-N91 |
+
+2493512 |
+
+7HP061069 + 7HP010017 |
+
+1-2026-000027 |
+
+Airwell |
+
+AW-YHPSA12-H93 + AW-WHPSA1216-N93 |
+
+2493536 |
+
+7HP061072 + 7HP010018 |
+
+1-2026-000028 |
+
+Airwell |
+
+AW-YHPSA14-H91 + AW-WHPSA1216-N91 |
+
+2490190 |
+
+7HP061070 + 7HP010017 |
+
+1-2026-000029 |
+
+Airwell |
+
+AW-YHPSA14-H93 + AW-WHPSA1216-N93 |
+
+2493541 |
+
+7HP061073 + 7HP010018 |
+
+1-2026-000030 |
+
+Airwell |
+
+AW-YHPSA16-H91 + AW-WHPSA1216-N91 |
+
+2493522 |
+
+7HP061071 + 7HP010017 |
+
+1-2026-000031 |
+
+Airwell |
+
+AW-YHPSA16-H93 + AW-WHPSA1216-N93 |
+
+2493530 |
+
+7HP061074 + 7HP010018 |
+
+1-2026-000032 |
+
+Airwell |
+
+AW-YHPSA08-H91 + ODMA-100T-09M22-19 |
+
+1803998 |
+
+7HP061067 + 7SP130001 |
+
+1-2026-000033 |
+
+Airwell |
+
+AW-YHPSA10-H91 + ODMA-100T-09M22-19 |
+
+1803984 |
+
+7HP061068 + 7SP130001 |
+
+1-2026-000034 |
+
+Airwell |
+
+AW-YHPSA08-H91 + ODMA-100T-09M22-25 |
+
+1803997 |
+
+7HP061067 + 7SP130002 |
+
+1-2026-000037 |
+
+Airwell |
+
+AW-YHPSA10-H91 + ODMA-100T-09M22-25 |
+
+1803978 |
+
+7HP061068 + 7SP130002 |
+
+1-2026-000038 |
+
+Airwell |
+
+AW-YHPSA04-H91 + ODMA-100T-09M22-25 |
+
+1804017 |
+
+7HP061065 + 7SP130002 |
+
+1-2026-000039 |
+
+Airwell |
+
+AW-YHPSA06-H91 + ODMA-100T-09M22-25 |
+
+1804006 |
+
+7HP061066 + 7SP130002 |
+
+1-2026-000040 |
+
+Airwell |
+
+AW-YHPSA12-H91 + ODMA-160T-09M22-25 |
+
+1803971 |
+
+7HP061069 + 7SP130003 |
+
+1-2026-000041 |
+
+Airwell |
+
+AW-YHPSA12-H93 + ODMA-160T-09M22-25 |
+
+1803970 |
+
+7HP061072 + 7SP130003 |
+
+1-2026-000042 |
+
+Airwell |
+
+AW-YHPSA14-H91 + ODMA-160T-09M22-25 |
+
+1803968 |
+
+7HP061070 + 7SP130003 |
+
+1-2026-000043 |
+
+Airwell |
+
+AW-YHPSA14-H93 + ODMA-160T-09M22-25 |
+
+1803963 |
+
+7HP061073 + 7SP130003 |
+
+1-2026-000044 |
+
+Airwell |
+
+AW-YHPSA16-H91 + ODMA-160T-09M22-25 |
+
+1803952 |
+
+7HP061071 + 7SP130003 |
+
+1-2026-000045 |
+
+Airwell |
+
+AW-YHPSA16-H93 + ODMA-160T-09M22-25 |
+
+1707793 |
+
+7HP061074 + 7SP130003 |
+
+1-2026-000046 |
+
+Easypell |
+
+EPA17T |
+
+2121869 |
+
+HPEASY24T |
+
+151-2026-000005 |
+
+Geco - PAC Kiro |
+
+KIRO8 |
+
+2770260 |
+
+KIRO8 |
+
+150-2026-000001 |
+
+Geco - PAC Kiro |
+
+KIRO12 |
+
+2772974 |
+
+KIRO12 |
+
+150-2026-000002 |
+
+Geco - PAC Kiro |
+
+KIRO15T |
+
+2773059 |
+
+KIRO15T |
+
+150-2026-000003 |
+
+Geco - PAC Kiro |
+
+KIRO20T |
+
+2773066 |
+
+KIRO20T |
+
+150-2026-000004 |
+
+Geco - PAC Kiro |
+
+KIRO8 DUO |
+
+2771045 |
+
+KIRO8 DUO |
+
+150-2026-000005 |
+
+Geco - PAC Kiro |
+
+KIRO12 DUO |
+
+2774745 |
+
+KIRO12 DUO |
+
+150-2026-000006 |
+
+Geco - PAC Kiro |
+
+KIRO15T DUO |
+
+2774756 |
+
+KIRO15T DUO |
+
+150-2026-000007 |
