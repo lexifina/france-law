@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260408437
+
+- Question : [SEQ260408437](seq260408437.md) — Présentation et la recevabilité des bulletins de vote dans les communes de moins de 1 000 habitants
+
+## Réponse
+
+*Intérieur , JO du 2026-08-20, page 3941*
+
+Il convient de distinguer deux moments distincts : le dépôt des bulletins de vote et leur dépouillement. L'article R. 55 du code électoral prévoit que les bulletins peuvent être remis directement au maire par les candidats ou leurs mandataires, au plus tard à midi la veille du scrutin, ou directement au président du bureau de vote le jour du scrutin. Ce même article précise que le maire ou le président du bureau de vote ne sont pas tenus d'accepter les bulletins dont le format « ne répond manifestement pas aux prescriptions » de l'article R. 30. A ce stade, c'est notamment sur le fondement de la dimension du bulletin que le maire peut le refuser. Le contrôle de conformité complet des bulletins relève exclusivement du bureau de vote lors du dépouillement. Pour les communes de moins de 1 000 habitants, l'article R. 66-2-1 du code électoral énumère les cas de nullité : sont ainsi écartés les bulletins non conformes aux dispositions de l'article L. 52-3 (présence de noms de personnes autres que les candidats, photographie ou représentation d'un animal, etc.), les bulletins comportant une modification de l'ordre de présentation des candidats, ainsi que les bulletins imprimés comportant une mention manuscrite. Ainsi, au moment du dépôt, le maire et le président du bureau de vote ne peuvent refuser qu'un bulletin manifestement hors dimensions. Le contrôle de l'ensemble des dispositions légales et réglementaires - format complet, mentions obligatoires, absence de noms ou d'images interdits - relève exclusivement du bureau de vote lors du dépouillement.
