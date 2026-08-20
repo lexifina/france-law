@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260408380
+
+- Question : [SEQ260408380](seq260408380.md) — Situation des réservistes de la gendarmerie nationale
+
+## Réponse
+
+*Intérieur , JO du 2026-08-20, page 3945*
+
+L'entrée en réserve opérationnelle de premier niveau est conditionnée à une visite d'expertise médicale initiale (VEMI) réalisée par le service de santé des armées (SSA), conformément à l'article R. 4221-2 du code de la défense et à la délégation de gestion du 28 juillet 2008 entre les ministres de la défense et de l'intérieur. Cette étape, indispensable à l'incorporation, explique en grande partie le délai moyen de recrutement d'environ 10 mois. Les réservistes sont ensuite soumis à une visite médicale périodique (VMP) tous les 48 mois maximum, la première intervenant dans les 12 mois suivant l'incorporation. Ainsi, au 30 avril 2026, sur 40 179 réservistes opérationnels de niveau 1 (RO1), 33 328 étaient à jour de leur VMP, soit un taux de 82,95 %. Face aux tensions sur les capacités de rendez-vous, plusieurs mesures de modernisation ont été engagées. L'arrêté du 20 décembre 2023 a assoupli les normes d'aptitude du profil SIGYCOP en distinguant les exigences selon le type de missions. Une expérimentation (avril-juin 2024) de recrutement sur fiches de poste a permis de dégager 10 à 15 % de créneaux supplémentaires. À la suite de résultats jugés probants, la réglementation de la gendarmerie a été modifiée en janvier 2025, supprimant le profil SIGYCOP au profit d'un principe d'employabilité fondé sur les conditions d'emploi définies par la fiche de poste (niveau opérationnel ou sédentaire). Enfin, plusieurs chantiers structurants sont en cours : refonte de l'arrêté du 8 juin 2021 avec le SSA pour simplifier les normes d'aptitude, et pilotage centralisé par la DGGN des flux de VEMI afin d'optimiser la planification du SSA. L'ensemble vise à fluidifier la chaîne médicale et garantir la pleine employabilité des réservistes.
