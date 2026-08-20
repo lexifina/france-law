@@ -16,7 +16,7 @@ Direction générale de l'aménagement, du logement et de la nature |
 
 Direction de l'habitat, de l'urbanisme et des paysages |
 
-Chargé de mission outre-mer |
+Chargé de mission Outre-Mer |
 
 ICTPE 1 |
 
@@ -31,6 +31,12 @@ Direction de l'habitat, de l'urbanisme et des paysages |
 Directeur de la mission d'appui SRU |
 
 ICTPE 1 |
+
+Sous-direction de l'aménagement durable |
+
+Chef(fe) du bureau de l'aménagement opérationnel |
+
+ICTPE 2 |
 
 Direction générale de l'aviation civile |
 
@@ -48,9 +54,9 @@ ICTPE 1 |
 
 Service national d'ingénierie aéroportuaire |
 
-Chef du département ingénierie infrastructures |
+Chef de la mission grands projets, département territorial sud-ouest |
 
-ICTPE 1 |
+ICTPE 2 |
 
 Service national d'ingénierie aéroportuaire |
 
@@ -90,7 +96,7 @@ ICTPE 1 |
 
 Service national d'ingénierie aéroportuaire |
 
-Adjoint au chef du département territorial Ouest, en charge de la mission Grands Projets du Département |
+Expert technique en maîtrise d'œuvre aéronautique, département ingénierie infrastructures aéroportuaires |
 
 ICTPE2 |
 
@@ -102,21 +108,9 @@ ICTPE 2 |
 
 Service national d'ingénierie aéroportuaire |
 
-Chef mission qualité, méthode, management |
+Adjoint au chef du pôle Antilles-Guyane |
 
 ICTPE 2 |
-
-Service national d'ingénierie aéroportuaire |
-
-Chef de la mission grands projets, département territorial sud-est |
-
-ICTPE 2 |
-
-Service Technique de l'Aviation Civile |
-
-Chef du département sûreté |
-
-ICTPE 1 |
 
 Direction générale de la prévention des pollutions et des risques |
 
@@ -136,7 +130,15 @@ ICTPE 2 |
 
 Service flottes et marins |
 
-Chef de mission "contrôle de second niveau - gestion de la sécurité et surveillance des organismes habilités" |
+Chef(fe) du bureau de la sécurité des navires et de l'innovation navale
+
+à compter du 01/09/2026 |
+
+ICTPE 2 |
+
+Service flottes et marins |
+
+Chef(fe) de mission "gestion de la sécurité, de la sûreté des navires et surveillance des organismes habilités" à compter du 01/09/2026 |
 
 ICTPE 2 |
 
@@ -310,7 +312,7 @@ ICTPE 2 |
 
 Direction des affaires financières |
 
-Chargée de mission auprès du sous-directeur |
+Chargé de mission auprès du sous-directeur - Sous-direction des achats durables |
 
 ICTPE 2 |
 
@@ -352,9 +354,9 @@ ICTPE 2 |
 
 Direction des ressources humaines |
 
-Adjoint au directeur du CVRH d'Arras-Valenciennes - Site de Valenciennes |
+Directeur du CVRH d'Arras-Valenciennes |
 
-ICTPE 2 |
+ICTPE 1 |
 
 Direction des ressources humaines |
 
@@ -365,12 +367,6 @@ ICTPE 2 |
 Direction des ressources humaines |
 
 Directeur adjoint du CVRH d'Aix-en-Provence |
-
-ICTPE 2 |
-
-Direction des ressources humaines |
-
-Directeur adjoint du CVRH Clermont-Ferrand |
 
 ICTPE 2 |
 
@@ -424,6 +420,12 @@ ICTPE 2 |
 
 Direction du numérique |
 
+Adjointe au chef du département environnement travail numérique |
+
+ICTPE 2 |
+
+Direction du numérique |
+
 Adjoint au chef du département et Suivi Plan de Transformation Numérique |
 
 ICTPE 2 |
@@ -448,6 +450,6 @@ ICTPE 2 |
 
 Service du haut fonctionnaire de défense et de sécurité |
 
-Chef du bureau de veille opérationnelle et d'Alerte-Centre ministériel de veille opérationnelle et d'alerte |
+Chef du bureau de veille et d'Alerte, chef du Centre ministériel de veille opérationnelle et d'alerte |
 
 ICTPE 1 |
