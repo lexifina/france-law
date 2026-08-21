@@ -606,7 +606,15 @@ Arrêté du 20/05/2026 |
 
 12 |
 
-FERRONNIER D'ART |
+Ferronnerie d'art (première session 2029)
+
+|
+
+Arrêté du 22/07/2026 |
+
+12 |
+
+FERRONNIER D'ART (dernière session 2028) |
 
 Arrêté du 7 janvier 2015 modifié |
 
