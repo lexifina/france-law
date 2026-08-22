@@ -30,6 +30,10 @@ Les catégories majeures d'animaux :
 
 8. Animaux à fourrure.
 
+Les catégories "Bovins" et "Equidés" peuvent être regroupées en une seule catégorie majeure "Bovins/Equidés".
+
+Les catégories "Ovins" et "Caprins" peuvent être regroupées en une seule catégorie majeure "Ovins/Caprins".
+
 Les catégories mineures d'animaux :
 
 1. Ratites.
