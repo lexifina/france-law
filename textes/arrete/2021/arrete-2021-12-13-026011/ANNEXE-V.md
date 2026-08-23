@@ -2,9 +2,7 @@
 
 ORGANISATION DE LA FORMATION
 
-Brevet de technicien supérieur " Collaborateur juriste notarial "
-
-ANNEXE V a
+ANNEXE V.A
 
 GRILLE HORAIRE DE LA FORMATION
 
@@ -44,49 +42,49 @@ division |
 
 Culture générale et expression |
 
-3h |
+3 h |
 
 1 |
 
 2 |
 
-84h |
+84 h |
 
-3h |
+3 h |
 
 1 |
 
 2 |
 
-84h |
+84 h |
 
 Langue vivante étrangère anglaise |
 
-3h |
+3 h |
 
 2 |
 
 1 |
 
-84h |
+84 h |
 
-3h |
+3 h |
 
 2 |
 
 1 |
 
-84h |
+84 h |
 
 Éléments fondamentaux du droit |
 
-3h |
+3 h |
 
 1 |
 
 2 |
 
-84h |
+84 h |
 
 0 |
 
@@ -106,67 +104,67 @@ Environnement de l'activité notariale |
 
 |
 
-3h |
+3 h |
 
 2 |
 
 1 |
 
-84h |
+84 h |
 
 Accompagnement du client selon les règles déontologiques |
 
-3h |
+3 h |
 
 1 |
 
 2 |
 
-84h |
+84 h |
 
-3h |
+3 h |
 
 0 |
 
 3 |
 
-84h |
+84 h |
 
 Conduite d'un dossier en droit des personnes, de la famille et du patrimoine familial |
 
-9h |
+9 h |
 
 6 |
 
 3 |
 
-252h |
+252 h |
 
-9h |
+9 h |
 
 6 |
 
 3 |
 
-252h |
+252 h |
 
 Conduite d'un dossier en droit des biens dans le domaine immobilier ou de l'entreprise |
 
-9h |
+9 h |
 
 6 |
 
 3 |
 
-252h |
+252 h |
 
-9h |
+9 h |
 
 6 |
 
 3 |
 
-252h |
+252 h |
 
 TOTAL |
 
@@ -190,7 +188,7 @@ Travail en autonomie (1)
 
 (salle informatique) |
 
-3 (2) |
+3 |
 
 3 |
 
@@ -206,15 +204,7 @@ Travail en autonomie (1)
 
 |
 
-Épreuve facultative LV2 |
-
-2 |
-
-2 |
-
-0 |
-
-72 |
+Enseignement facultatif Langue vivante étrnagère |
 
 2 |
 
@@ -224,25 +214,31 @@ Travail en autonomie (1)
 
 72 |
 
-(1) Le travail en autonomie nécessite l'accès au laboratoire informatique et communication. Pendant cet horaire, l'accès des étudiants aux laboratoires informatiques de l'établissement s'effectue en libre service. Il permet aux étudiants de disposer des ressources documentaires, pédagogiques et technologiques mises à disposition par l'équipe pédagogique. Cet horaire doit être prévu à l'emploi du temps hebdomadaire des étudiants dans le cadre du planning d'utilisation des laboratoires informatiques.
+2 |
 
-ANNEXE V b
+2 |
+
+0 |
+
+72 |
+
+(1) Le travail en autonomie nécessite l'accès en autonomie au laboratoire informatique et communication. Pendant cet horaire, l'accès des étudiants aux laboratoires informatiques de l'établissement s'effectue en libre-service. Il permet aux étudiants de disposer des ressources documentaires, pédagogiques et technologiques mises à disposition par l'équipe pédagogique. Cet horaire doit être prévu à l'emploi du temps hebdomadaire des étudiants dans le cadre du planning d'utilisation des laboratoires informatiques
+
+ANNEXE V.B
 
 STAGE EN MILIEU PROFESSIONNEL
 
-BTS " Collaborateur juriste notarial "
+Le stage en milieu professionnel est obligatoire pour les candidats au BTS "Collaborateur juriste notarial".
 
-Le stage en milieu professionnel est obligatoire pour les candidats au Brevet de technicien supérieur " Collaborateur juriste notarial ".
+Un stage à l'étranger d'une durée maximum de 8 semaines est possible uniquement dans un pays inscrit sur la liste fournie par l'Institut national de formation du notariat (INFN) après avis du Conseil supérieur du notariat (CSN). Cette liste sera mise en annexe de la circulaire nationale d'organisation de l'examen.
 
-Un stage à l'étranger d'une durée maximum de 8 semaines est possible uniquement dans un pays inscrit sur la liste fournie par l'Institut national de formation du notariat (INFN) après avis du Conseil supérieur du notariat (CSN). Cette liste sera mise en annexe de la circulaire nationale.
+Le stage en milieu professionnel se déroule au sein d'un ou de plusieurs offices notariaux et permet ainsi d'appréhender la réalité complexe des offices notariaux tout en permettant le développement de compétences professionnelles figurant dans le référentiel de compétences du BTS "Collaborateur juriste notarial". Il constitue ainsi un élément essentiel du parcours de formation du diplôme. Le stage en milieu professionnel repose sur une relation à caractère pédagogique entre trois partenaires :
 
-Le stage en milieu professionnel se déroule au sein d'un ou de plusieurs offices notariaux et ainsi permet d'appréhender la réalité complexe des offices notariaux tout en permettant le développement de compétences professionnelles figurant dans le référentiel de compétences du BTS " Collaborateur juriste notarial ". Il constitue ainsi un élément essentiel du parcours de formation du diplôme. Le stage en milieu professionnel repose sur une relation à caractère pédagogique entre trois partenaires :
+- l'office notarial confie à l'étudiant des activités professionnelles correspondant au référentiel et au niveau d'exigence du diplôme et participe à l'évaluation de certaines compétences au travers d'échanges écrits avec l'équipe pédagogique ;
 
--l'office notarial confie à l'étudiant des activités professionnelles correspondant au référentiel et au niveau d'exigence du diplôme et participe à l'évaluation de certaines compétences au travers d'échanges écrits avec l'équipe pédagogique ;
+- l'étudiant définit, avec l'office notarial et l'équipe pédagogique, les objectifs de son immersion et de son activité. Il rend compte de ses observations et de ses activités au travers de différents documents (voir définition des épreuves E4 et E5) ;
 
--l'étudiant définit, avec l'office notarial et l'équipe pédagogique, les objectifs de son immersion et de son activité. Il rend compte de ses observations et de ses activités au travers de différents documents (voir définition des épreuves E4, E5 et E6) ;
-
--l'équipe pédagogique encadre, conseille, met en cohérence et articule les différentes modalités d'appropriation des compétences. Chaque stagiaire a un enseignant référent pour l'accompagnement de son stage.
+- l'équipe pédagogique encadre, conseille, met en cohérence et articule les différentes modalités d'appropriation des compétences. Chaque stagiaire a un enseignant référent pour l'accompagnement de son stage.
 
 1. Objectifs du stage
 
@@ -258,9 +254,9 @@ Les offices notariaux accueillant un stagiaire s'engagent à positionner le stag
 
 Les stages sont organisés avec le concours des milieux professionnels et sont placés sous le contrôle des autorités académiques dont relève l'étudiant. La recherche de stage est assurée conjointement par l'étudiant et l'équipe pédagogique.
 
-Le stage en milieu professionnel peut être complété par deux semaines au plus d'observation auprès d'une ou deux organisation (s) partenaire (s) d'un office notarial (cabinet de généalogie, service d'urbanisme, service de publicité foncière, etc.). Afin de ne pas réduire la durée de formation de l'étudiant, ces semaines peuvent se dérouler sur des périodes de vacances scolaires si besoin pour l'étudiant et durant les périodes d'ouverture des établissements. Elles donneront lieu à la signature d'une convention de stage conforme à la réglementation en vigueur entre les représentants de l'organisation et l'établissement de formation.
+Le stage en milieu professionnel peut être complété par deux semaines au plus d'observation auprès d'une ou deux organisation(s) partenaire(s) d'un office notarial (cabinet de généalogie, service d'urbanisme, service de publicité foncière, etc.). Afin de ne pas réduire la durée de formation de l'étudiant, ces semaines peuvent se dérouler sur des périodes de vacances scolaires si besoin pour l'étudiant et durant les périodes d'ouverture des établissements. Elles donneront lieu à la signature d'une convention de stage conforme à la réglementation en vigueur entre les représentants de l'organisation et l'établissement de formation.
 
-L'immersion en office notarial
+L'immersion en office notarial :
 
 Le stage obligatoire en milieu professionnel se déroule au sein d'un ou de plusieurs offices notariaux. En cas d'empêchement résultant de maladie ou de force majeure dûment constatée, une dérogation doit être sollicitée auprès des services académiques compétents. Le jury est informé de cette dérogation.
 
@@ -270,15 +266,15 @@ Ces périodes peuvent être effectuées en partie pendant les vacances scolaires
 
 Ces périodes de stage font l'objet d'une convention signée entre les représentants de l'organisme d'accueil, ceux de l'établissement de formation et l'étudiant stagiaire. Cette convention est établie conformément aux dispositions en vigueur. Elle comporte une annexe pédagogique qui précise :
 
--les objectifs poursuivis libellés en termes de compétences à acquérir ou à approfondir ;
+- les objectifs poursuivis libellés en termes de compétences à acquérir ou à approfondir ;
 
--les modalités prévues pour atteindre les objectifs visés ;
+- les modalités prévues pour atteindre les objectifs visés ;
 
--les conditions matérielles de déroulement du stage (lieux, conditions d'utilisation du matériel mis à disposition, horaires) ;
+- les conditions matérielles de déroulement du stage (lieux, conditions d'utilisation du matériel mis à disposition, horaires) ;
 
--les modalités du tutorat ;
+- les modalités du tutorat ;
 
--les modalités d'échanges entre le tuteur et l'équipe pédagogique pour le suivi des acquis.
+- les modalités d'échanges entre le tuteur et l'équipe pédagogique pour le suivi des acquis.
 
 Pendant le stage, l'étudiant a la qualité d'étudiant-stagiaire et non de salarié.
 
@@ -320,14 +316,14 @@ L'attestation de stage est remplacée par un ou plusieurs certificats de travail
 
 Remarques générales
 
--Aménagement de la durée du stage
+• Aménagement de la durée du stage
 
-La durée obligatoire du stage en milieu professionnel peut être réduite, soit pour une raison de force majeure dûment constatée soit dans le cadre d'une décision d'aménagement de la formation ou d'une décision de positionnement à une durée qui ne peut être inférieure à 8 semaines.
+La durée obligatoire du stage en milieu professionnel peut être réduite, soit pour une raison de force majeure dûment constatée soit dans le cadre d'une décision d'aménagement de la formation ou d'une décision de positionnement, à une durée qui ne peut être inférieure à 8 semaines.
 
--Candidats ayant échoué à une session antérieure de l'examen
+• Candidats ayant échoué à une session antérieure de l'examen
 
 Les candidats ayant échoué à une session antérieure de l'examen, notamment les candidats scolaires, devront à nouveau effectuer les stages que leur établissement organise.
 
 NOTA :
 
-Conformément à l'article 9 de l'arrêté du 8 juillet 2024 (NOR : ESRS2414601A), ces dispositions s'appliquent à compter de la session d'examen 2025.
+Conformément à l'article 7 de l'arrêté du 6 juillet 2026 (NOR : ESRS2612077A), ces dispositions, dans leur rédaction issue de l'arrêté précité, s'appliquent à compter de la session d'examen 2027.

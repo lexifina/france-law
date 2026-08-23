@@ -2,9 +2,7 @@
 
 RÉFÉRENTIEL DE COMPÉTENCES
 
-Brevet de technicien supérieur " Collaborateur juriste notarial "
-
-BLOC DE COMPÉTENCES 1 : ACCOMPAGNEMENT DU CLIENT SELON LES RÈGLES DÉONTOLOGIQUES
+Bloc de compétences 1. - Accompagner le client selon les règles déontologiques
 
 Activités et tâches |
 
@@ -12,17 +10,19 @@ Compétence
 
 (être capable de) |
 
-Indicateurs d'évaluation des compétences |
+Indicateurs d'évaluation
+
+des compétences |
 
 Savoirs associés |
 
-Activité 1-Explication au client du statut d'officier public et ministériel et de la mission de service public du notaire
+Activité 1 - Explication au client du statut d'officier public et ministériel et de la mission de service public du notaire
 
-A1. 1 T1-Présentation de la mission de service public du notaire et de son utilité dans le traitement de son dossier
+A1.1 T1- Présentation de la mission de service public du notaire et de son utilité dans le traitement de son dossier
 
-A1. 1 T2-Présentation de l'opposabilité des actes notariés
+A1.1 T2- Présentation de l'opposabilité des actes notariés
 
-A1. 1 T3-Repérage des règles de taxation des actes |
+A1.1 T3- Repérage des règles de taxation des actes |
 
 Comprendre le principe de délégation de la puissance publique
 
@@ -54,6 +54,8 @@ Distinction des émoluments et honoraires. |
 
 Mission de service public.
 
+Obligation d'instrumenter.
+
 Prestations notariales.
 
 Règles déontologiques et responsabilités professionnelles.
@@ -76,15 +78,15 @@ Tarif du notaire.
 
 Composantes de la taxe d'un acte. |
 
-Activité 2-Accueil et accompagnement du client en respectant les règles de déontologie
+Activité 2 - Accueil et accompagnement du client en respectant les règles de déontologie
 
-A1. 2 T1-Accueil du client
+A1.2 T1- Accueil du client
 
-A1. 2 T2-Étude de la demande du client
+A1.2 T2- Étude de la demande du client
 
-A1. 2 T3-Renseignement et orientation du client selon sa demande
+A1.2 T3- Renseignement et orientation du client selon sa demande
 
-A1. 2 T4-Justification auprès du client des démarches administratives, juridiques et fiscales à réaliser |
+A1.2 T4- Justification auprès du client des démarches administratives, juridiques et fiscales à réaliser |
 
 Conduire les échanges avec les clients
 
@@ -114,27 +116,29 @@ Explication du déroulement du dossier auprès du client.
 
 Relation client.
 
+Accueil des clients, prise en compte d'une situation de handicap, de vulnérabilité, non-discrimination.
+
 Techniques de communication écrite et orale.
 
-Dématérialisation de la relation client, illectronisme.
+Digitalisation de la relation client, illectronisme.
 
 Posture professionnelle.
 
-Devoir de conseil, secret professionnel, devoir de non-discrimination.
+Devoir de conseil, secret professionnel.
 
 Gestion des conflits. |
 
-Activité 3-Gestion de dossiers dans le respect des règles de déontologie et de sécurité des données
+Activité 3 - Gestion de dossiers dans le respect des règles de déontologie et de sécurité des données
 
-A1. 3 T1-Constitution du dossier du client
+A1.3 T1 - Constitution du dossier du client
 
-A1. 3 T2-Communication avec les partenaires et les clients par l'intermédiaire de différents canaux
+A1.3 T2- Communication avec les partenaires et les clients par l'intermédiaire de différents canaux
 
-A1. 3 T3-Rédaction des écrits à destination notamment des clients et des tiers (professionnels du droit, de l'immobilier, administrations, etc.)
+A1.3 T3- Rédaction des écrits à destination notamment des clients et des tiers (professionnels du droit, de l'immobilier, administrations, etc.)
 
-A1. 3 T4-Veille juridique nécessaire au suivi du dossier
+A1.3 T4- Veille juridique nécessaire au suivi du dossier
 
-A1. 3 T5-Collaboration au sein de l'office pour la gestion du dossier client |
+A1.3 T5- Collaboration au sein de l'office pour la gestion du dossier client |
 
 Constituer le dossier en adéquation avec la situation du client
 
@@ -162,15 +166,17 @@ Utilisation pertinente des logiciels professionnels.
 
 Utilisation et gestion professionnelle d'une messagerie électronique.
 
+Utilisation pertinente et raisonnée des outils numériques
+
 Réalisation de projets d'actes dans le cas de dossiers simples en droit des personnes et de la famille et en droit des biens à l'aide des logiciels professionnels.
 
 Appropriation d'une démarche de veille juridique.
 
-Planification individuelle des tâches.
+Priorisation et planification individuelle des tâches.
 
 Respect des délais de traitement des dossiers.
 
-Respect de l'organisation et du collectif de travail mis en place dans l'office. |
+Coordination et respect de l'organisation du travail mise en place dans l'office. |
 
 Protection des données personnelles.
 
@@ -198,7 +204,7 @@ Procédures de travail.
 
 Démarche qualité. |
 
-BLOC DE COMPÉTENCES 2 : CONDUITE D'UN DOSSIER EN DROIT DES PERSONNES, DE LA FAMILLE ET DU PATRIMOINE FAMILIAL
+Bloc de compétences 2. - Conduire un dossier en droit des personnes, de la famille et du patrimoine familial
 
 Activités et tâches |
 
@@ -210,15 +216,15 @@ Indicateurs d'évaluation des compétences |
 
 Savoirs associés |
 
-Activité 1-Pratique du droit de la filiation
+Activité 1 - Pratique du droit de la filiation
 
-A2. 1 T1-Détermination du lien de filiation
+A2.1 T1- Détermination du lien de filiation
 
-A2. 1T2-Réalisation des actes notariés spécifiques en matière d'établissement d'un lien de filiation
+A2.1 T2- Réalisation des actes notariés spécifiques en matière d'établissement d'un lien de filiation
 
-A2. 1 T3-Recueil du consentement à l'adoption et à l'assistance médicale à la procréation avec tiers donneur
+A2.1 T3- Recueil du consentement à l'adoption et à l'assistance médicale à la procréation avec tiers donneur
 
-A2. 1 T4-Information des conséquences patrimoniales d'un lien de filiation |
+A2.1 T4- Information des conséquences patrimoniales d'un lien de filiation |
 
 Rédiger des projets d'actes notariés spécifiques en matière de filiation
 
@@ -240,13 +246,13 @@ Conséquences juridiques de l'existence d'un lien de filiation.
 
 Rôle et compétences des différents acteurs juridiques (service de l'état civil, greffe, avocat, notaire, magistrats, etc.). |
 
-Activité 2-Accompagnement de la vie juridique des couples : les unions
+Activité 2 - Accompagnement de la vie juridique des couples : les unions
 
-A2. 2 T1-Identification du cadre juridique approprié d'union
+A2.2 T1- Identification du cadre juridique approprié d'union
 
-A2. 2 T2-Détermination des conséquences patrimoniales de l'union
+A2.2 T2- Détermination des conséquences patrimoniales de l'union
 
-A2. 2T3-Réalisation des actes notariés spécifiques, notamment contrats de PACS et de mariage |
+A2.2 T3- Réalisation des actes notariés spécifiques, notamment contrats de PACS et de mariage |
 
 Identifier les conditions de formation de chacune des unions
 
@@ -254,9 +260,9 @@ Contribuer au projet de rédaction du contrat de mariage ou de la convention not
 
 Apprécier les effets patrimoniaux de chacune des unions |
 
-Mise en œuvre des régimes juridiques spécifiques à chaque forme d'union.
-
 Détermination des régimes matrimoniaux et pacsimoniaux.
+
+Mise en œuvre des régimes juridiques spécifiques à chaque forme d'union.
 
 Prise en compte de la situation du couple lors de la rédaction du contrat de mariage, de la convention notariée de PACS et de leurs changements ou modifications.
 
@@ -270,15 +276,15 @@ Formation du contrat de mariage ou de la convention de PACS ; enregistrement du 
 
 Régime primaire du mariage et du PACS.
 
-Caractéristiques et fonctionnement des régimes matrimoniaux et des régimes " pacsimoniaux " ; conséquences civiles et fiscales. |
+Caractéristiques et fonctionnement des régimes matrimoniaux et des régimes "pacsimoniaux" ; conséquences civiles et fiscales. |
 
-Activité 3-Accompagnement de la vie juridique des couples : la désunion
+Activité 3 - Accompagnement de la vie juridique des couples : la désunion
 
-A2. 3 T1-Identification du cadre juridique de la désunion
+A2.3 T1- Identification du cadre juridique de la désunion
 
-A2. 3 T2-Détermination des conséquences patrimoniales de la désunion
+A2.3 T2- Détermination des conséquences patrimoniales de la désunion
 
-A2. 3 T3-Réalisation des actes notariés spécifiques en matière de désunion |
+A2.3 T3- Réalisation des actes notariés spécifiques en matière de désunion |
 
 Contribuer aux processus juridiques de désunion
 
@@ -304,7 +310,7 @@ Différents types de divorce et différents rôles du notaire.
 
 Principales étapes du divorce.
 
-Conséquences patrimoniales du divorce ; dates des effets du divorce.
+Conséquences patrimoniales du divorce, dates des effets du divorce.
 
 Règles et formalités applicables à la liquidation d'un régime matrimonial.
 
@@ -314,13 +320,13 @@ Conditions de dissolution du PACS et formalités associées.
 
 Effets patrimoniaux de la dissolution du PACS. |
 
-Activité 4-Organisation de la protection des personnes vulnérables
+Activité 4 - Organisation de la protection des personnes vulnérables
 
-A2. 4 T1-Information et anticipation en matière de protection des majeurs et mineurs
+A2.4 T1-Information et anticipation en matière de protection des majeurs et mineurs
 
-A2. 4 T2-Préparation des actes notariés spécifiques à la protection des personnes vulnérables
+A2.4 T2- Préparation des actes notariés spécifiques à la protection des personnes vulnérables
 
-A2. 4 T3-Prise en compte des conséquences de la vulnérabilité |
+A2.4 T3- Prise en compte des conséquences de la vulnérabilité |
 
 Repérer une situation de vulnérabilité
 
@@ -342,13 +348,13 @@ Protection des personnes mineures et effets : administration légale des biens d
 
 Protection des personnes vulnérables majeures et effets. |
 
-Activité 5-Conduite d'un dossier de libéralités
+Activité 5 - Conduite d'un dossier de libéralités
 
-A2. 5 T1-Détermination de la libéralité adéquate
+A2.5 T1- Détermination de la libéralité adéquate
 
-A2. 5 T2-Rédaction de l'acte de libéralité
+A2.5 T2- Rédaction de l'acte de libéralité
 
-A2. 5 T3-Prise en compte des conséquences d'une libéralité |
+A2.5 T3- Prise en compte des conséquences d'une libéralité |
 
 Mener un dossier de libéralités
 
@@ -376,13 +382,13 @@ Principales clauses de libéralités.
 
 Émoluments, honoraires, droits d'enregistrement, composante de la taxation en matière de libéralités. |
 
-Activité 6-Règlement d'une succession
+Activité 6 - Règlement d'une succession
 
-A2. 6 T1-Rédaction de l'acte de notoriété
+A2.6 T1- Rédaction de l'acte de notoriété
 
-A2. 6 T2-Rédaction des actes nécessaires à la liquidation
+A2.6 T2- Rédaction des actes nécessaires à la liquidation
 
-A2. 6 T3-Liquidation de la succession |
+A2.6 T3- Liquidation de la succession |
 
 Mettre en œuvre les conseils du notaire en matière d'anticipation successorale
 
@@ -402,19 +408,19 @@ Réalisation d'un projet rigoureux de liquidation civile d'une succession simple
 
 Qualité d'héritier.
 
-Règles de dévolution successorale (dévolution légale ; dévolution testamentaire).
+Règles de dévolution successorale (dévolution légale, dévolution testamentaire).
 
 Règles civiles et fiscales de la liquidation et de son partage éventuel.
 
 Formalités nécessaires au règlement d'une succession. |
 
-Activité 7-Pratique de l'indivision
+Activité 7 - Pratique de l'indivision
 
-A2. 7 T1-Gestion de l'indivision
+A2.7 T1- Gestion de l'indivision
 
-A2. 7 T2-Réalisation des actes de droit commun de l'indivision
+A2.7 T2- Réalisation des actes de droit commun de l'indivision
 
-A2 7 T3-Préparation des opérations de partage |
+A2 7 T3- Préparation des opérations de partage |
 
 Contribuer à la gestion de l'indivision |
 
@@ -434,7 +440,7 @@ Formalités en matière d'indivision.
 
 Émoluments, honoraires, droits d'enregistrement, composantes de la taxation en matière d'indivision. |
 
-BLOC DE COMPÉTENCES 3 : CONDUITE D'UN DOSSIER EN DROIT DES BIENS DANS LE DOMAINE IMMOBILIER OU DE L'ENTREPRISE
+Bloc de compétences 3. - Conduire un dossier en droit des biens dans le domaine immobilier ou de l'entreprise
 
 Activités et tâches |
 
@@ -446,9 +452,9 @@ Indicateurs d'évaluation des compétences |
 
 Savoirs associés |
 
-Activité 1-Pratique des opérations immobilières
+Activité 1 - Pratique des opérations immobilières
 
-A3. 1 T1-Analyse de la situation |
+A3.1 T1- Analyse de la situation |
 
 Analyser le contexte d'une opération immobilière |
 
@@ -468,11 +474,11 @@ Propriété collective.
 
 Division de la propriété du sol. |
 
-Activité 2-Pratique des baux (d'habitation, professionnels ou ruraux)
+Activité 2 - Pratique des baux (d'habitation, professionnels ou ruraux)
 
-A3. 2 T1-Analyse de la situation
+A3.2 T1- Analyse de la situation
 
-A3. 2 T2-Analyse d'un acte existant ou rédaction d'un bail |
+A3.2 T2- Analyse d'un acte existant ou rédaction d'un bail |
 
 Analyser un bail déjà conclu
 
@@ -490,11 +496,11 @@ Droits et obligations des bailleurs et preneurs.
 
 Contrat de bail : régime de droit commun, régimes spécifiques, bail d'habitation, bail professionnel, bail rural. |
 
-Activité 3-Pratique des contrats préparatoires
+Activité 3 - Pratique des contrats préparatoires
 
-A3. 3 T1-Analyse de la situation
+A3.3 T1- Analyse de la situation
 
-A3. 3 T2-Analyse d'un acte préexistant ou rédaction d'un contrat |
+A3.3 T2- Analyse d'un acte préexistant ou rédaction d'un contrat |
 
 Assurer l'efficacité juridique des contrats préparatoires |
 
@@ -530,15 +536,15 @@ Principales clauses d'un contrat préparatoire.
 
 Droits de préemption et de préférence. |
 
-Activité 4-Pratique de l'acte de vente
+Activité 4- Pratique de l'acte de vente
 
-A3. 4 T1-Réalisation des démarches et formalités préalables
+A3.4 T1- Réalisation des démarches et formalités préalables
 
-A3. 4 T2-Détermination des modalités de paiement du prix et de ses garanties
+A3.4 T2- Détermination des modalités de paiement du prix et de ses garanties
 
-A3. 4 T3-Rédaction éventuelle des actes relatifs au financement afférent
+A3.4 T3- Rédaction éventuelle des actes relatifs au financement afférent
 
-A3. 4 T4-Rédaction du projet de l'acte de vente et formalités postérieures |
+A3.4 T4- Rédaction du projet de l'acte de vente et formalités postérieures |
 
 Garantir la validité des actes relatifs à la vente
 
@@ -550,31 +556,31 @@ Identification des personnes, des biens et des garanties liées au dossier (pris
 
 Établissement de la liste des pièces nécessaires :
 
--à la comparution,
+- à la comparution,
 
--à l'audit technique du bien et de ses conséquences juridiques
+- à l'audit technique du bien et de ses conséquences juridiques
 
--à la vérification du mode de financement du bien,
+- à la vérification du mode de financement du bien,
 
--à la prise de garanties.
+- à la prise de garanties.
 
 Identification des procédures pour obtenir les pièces nécessaires au dossier.
 
 Vérification :
 
--des informations et actes afférents au bien,
+- des informations et actes afférents au bien,
 
--de l'identité, la capacité et pouvoirs des parties,
+- de l'identité, la capacité et pouvoirs des parties,
 
--de l'existence et l'origine des fonds,
+- de l'existence et l'origine des fonds,
 
--du respect de la protection de l'emprunteur.
+- du respect de la protection de l'emprunteur.
 
 Choix pertinent et adaptation des clauses à la situation et aux besoins des clients.
 
 Réalisation des formalités liées à la signature de l'acte de vente.
 
-Mise en œuvre des inscriptions/ radiations des garanties présentes dans le dossier.
+Mise en œuvre des inscriptions / radiations des garanties présentes dans le dossier.
 
 Identification de la fiscalité en vigueur applicable à la vente.
 
@@ -584,7 +590,7 @@ Droits et obligations des vendeurs et acquéreurs.
 
 Documents informatifs sur les biens immobiliers.
 
-Diagnostics techniques immobiliers
+Diagnostics techniques et énergétiques immobiliers
 
 Servitudes et autres charges réelles.
 
@@ -606,15 +612,15 @@ Formalités liées à la vente
 
 Émoluments, honoraires, droits d'enregistrement, composantes de la taxation en matière de vente immobilière. |
 
-Activité 5-Négociation immobilière
+Activité 5- Négociation immobilière
 
-A3. 5 T1-Estimation du bien
+A3.5 T1- Estimation du bien
 
-A3. 5 T2-Diffusion de l'offre de vente
+A3.5 T2- Diffusion de l'offre de vente
 
-A3. 5 T3-Conduite de la négociation
+A3.5 T3- Conduite de la négociation
 
-A3. 5 T4-Rédaction du mandat |
+A3.5 T4- Rédaction du mandat |
 
 Contribuer à l'évaluation d'un bien immobilier
 
@@ -644,15 +650,15 @@ Canaux de communication de l'activité notariale immobilière.
 
 Règles de rédaction d'annonces immobilières. |
 
-Activité 6-Contribution aux opérations sur fonds de commerce
+Activité 6 - Contribution aux opérations sur fonds de commerce
 
-A3. 6 T1-Identification et analyse des éléments composant le fonds de commerce
+A3.6 T1- Identification et analyse des éléments composant le fonds de commerce
 
-A3. 6 T2-Réalisation de la cession d'un fonds de commerce
+A3.6 T2- Réalisation de la cession d'un fonds de commerce
 
-A3. 6 T3-Rédaction d'un bail commercial
+A3.6 T3- Rédaction d'un bail commercial
 
-A3. 6 T4-Réalisation des formalités liées aux opérations sur fonds de commerce |
+A3.6 T4- Réalisation des formalités liées aux opérations sur fonds de commerce |
 
 Prendre en charge un dossier portant sur des opérations en lien avec un fonds de commerce |
 
@@ -684,17 +690,17 @@ Formalités préalables et postérieures applicables aux baux commerciaux et aux
 
 Honoraires, droits d'enregistrement, composantes de la taxation en matière d'opérations sur fonds de commerce. |
 
-Activité 7-Pratique des actes notariés en présence d'une entreprise
+Activité 7 - Pratique des actes notariés en présence d'une entreprise
 
-A3. 7 T1-Identification de la structure juridique de l'entreprise (individuelle, sociétaire)
+A3.7 T1- Identification de la structure juridique de l'entreprise (individuelle, sociétaire)
 
-A3. 7 T2-Réalisation des formalités liées à la vie d'une entreprise
+A3.7 T2- Réalisation des formalités liées à la vie d'une entreprise
 
-A3. 7 T3-Détermination du représentant de la personne morale
+A3.7 T3- Détermination du représentant de la personne morale
 
-A3. 7 T4-Analyse de l'étendue de ses pouvoirs
+A3.7 T4- Analyse de l'étendue de ses pouvoirs
 
-A3. 7 T5-Identification des droits et obligations découlant des principaux actes et documents ayant trait à l'existence et à la vie d'une société |
+A3.7 T5- Identification des droits et obligations découlant des principaux actes et documents ayant trait à l'existence et à la vie d'une société |
 
 Réaliser les formalités et rédiger des projets d'actes nécessaires à la vie juridique de l'entreprise
 
@@ -734,41 +740,41 @@ Représentation des personnes morales.
 
 Procédures collectives. |
 
-BLOC DE COMPÉTENCES 7 : ÉLÉMENTS FONDAMENTAUX DU DROIT
+Bloc de compétences 6. - Eléments fondamentaux du droit
 
-La mise en œuvre des activités professionnelles dans un office notarial nécessite des connaissances juridiques solides. Le bloc " Eléments fondamentaux du droit " vise l'acquisition par le collaborateur juriste notarial des notions juridiques fondamentales non spécifiques aux trois domaines d'intervention majeurs que sont la famille, les biens et l'entreprise mais pourtant indispensables au traitement de dossiers relevant de ces trois pôles. Il vise la familiarisation des futurs collaborateurs à l'appropriation de la méthode du cas pratique et à la rigueur du raisonnement juridique.
+La mise en œuvre des activités professionnelles dans un office notarial nécessite des connaissances juridiques solides. Le bloc "Eléments fondamentaux du droit" vise l'acquisition par le collaborateur juriste notarial des notions juridiques fondamentales non spécifiques aux trois domaines d'intervention majeurs que sont la famille, les biens et l'entreprise mais pourtant indispensables au traitement de dossiers relevant de ces trois pôles. Il vise la familiarisation des futurs collaborateurs à l'appropriation de la méthode du cas pratique et à la rigueur du raisonnement juridique.
 
-1. Les compétences visées
+1. Les compétences visées :
 
 Compétences générales :
 
--analyser un dossier documentaire composé de ressources variées (données quantitatives, textes, décisions de justice, etc.) ;
+- analyser un dossier documentaire composé de ressources variées (données quantitatives, textes, décisions de justice, etc.) ;
 
--structurer une réponse à une problématique donnée ;
+- structurer une réponse à une problématique donnée ;
 
--concevoir une réflexion argumentée.
+- concevoir une réflexion argumentée.
 
 Compétences juridiques :
 
--maîtriser le raisonnement juridique : méthodes de qualification juridique et d'interprétation de la règle de droit ;
+- maitriser le raisonnement juridique : méthodes de qualification juridique et d'interprétation de la règle de droit ;
 
--utiliser les principaux codes juridiques ;
+- utiliser les principaux codes juridiques ;
 
--sélectionner une information pertinente au regard d'une situation donnée ;
+- sélectionner une information pertinente au regard d'une situation donnée ;
 
--formuler et résoudre un problème juridique par la méthodologie du cas pratique ;
+- formuler et résoudre un problème juridique par la méthodologie du cas pratique ;
 
--analyser une décision de justice, en identifier les enjeux et la portée ;
+- analyser une décision de justice, en identifier les enjeux et la portée ;
 
--analyser un acte juridique.
+- analyser un acte juridique.
 
-2. Les thématiques
+2. Les thématiques :
 
 Notions |
 
 Délimitation des savoirs |
 
-Le droit-éléments introductifs
+Le droit - éléments introductifs
 
 La règle de droit et divisions du droit
 
@@ -786,9 +792,9 @@ Les différentes sources du droit et la hiérarchie des normes
 
 Prise en compte d'éléments d'extranéité, notion de conflits de lois et de juridictions
 
-Droit objectif-Droits subjectifs
+Droit objectif - Droits subjectifs
 
-Classifications des droits et summa divisio (chose/ personne, patrimonial/ extrapatrimonial, acte/ fait juridique)
+Classifications des droits et summa divisio (chose/personne, patrimonial/extrapatrimonial, acte/fait juridique)
 
 Domaine public, principaux actes administratifs, notions de collectivités territoriales |
 
@@ -864,7 +870,7 @@ Sources, modalités, extinction des obligations
 
 Classification des contrats
 
-Principes directeurs (liberté contractuelle/ force obligatoire/ bonne foi)
+Principes directeurs (liberté contractuelle/force obligatoire/bonne foi)
 
 Formation du contrat
 
@@ -874,81 +880,89 @@ Inexécution du contrat
 
 Fondements de la responsabilité extracontractuelle |
 
-BLOC DE COMPÉTENCES 8 : ENVIRONNEMENT DE L'ACTIVITÉ NOTARIALE
+Bloc de compétences 7. - Environnement de l'activité notariale
 
-L'activité du collaborateur juriste notarial est au cœur de la vie des citoyens. Il est donc nécessaire que le titulaire du diplôme soit sensible aux évolutions de la profession et aussi, plus généralement, à celles de l'environnement sociétal afin d'en mesurer l'incidence sur l'activité notariale.
+L'activité du collaborateur juriste notarial est au cœur de la vie des citoyens. Il est donc nécessaire que le ou la titulaire du diplôme soit sensible aux évolutions de la profession et aussi, plus généralement, à celles de l'environnement sociétal afin d'en mesurer l'incidence sur l'activité notariale.
 
-Le titulaire du " BTS Collaborateur juriste notarial ", capable de cerner les spécificités du contexte dans lequel s'exerce l'activité notariale, peut en comprendre, voire en anticiper les modifications. Celles-ci relèvent de la conjonction de plusieurs facteurs :
+Le ou la titulaire du "BTS Collaborateur juriste notarial", capable de cerner les spécificités du contexte dans lequel s'exerce l'activité notariale, peut en comprendre, voire en anticiper les modifications.
 
--la perpétuelle évolution des conditions économiques dans lesquelles s'inscrivent les activités notariales ;
+Celles-ci relèvent de la conjonction de plusieurs facteurs :
 
--le changement de comportement des individus, l'évolution de la relation au client au sein d'une étude notariale, la diversification des situations familiales ;
+- l'évolution des conditions économiques et fiscales dans lesquelles s'inscrivent les activités notariales ;
 
--le développement du numérique et des enjeux qu'il représente pour la profession ;
+- la transition écologique dans un contexte de changement climatique ;
 
--la prise de conscience par la profession de l'importance de développer un projet d'entreprise, stratégique et managérial, dans un contexte en mutation.
+- le changement de comportement des individus, l'évolution de la relation au client au sein d'une étude notariale, la diversification des situations individuelles et familiales, l'exigence d'une société inclusive ;
 
-La connaissance de l'environnement technique, juridique, managérial et économique de l'activité notariale permet au titulaire du BTS " Collaborateur juriste notarial " de comprendre la globalité des actions professionnelles d'un collaborateur de notaire. Elle pose les fondements des apprentissages professionnels.
+- le développement du numérique et de l'intelligence artificielle, la digitalisation de la relation client et les enjeux qu'ils représentent pour la profession ;
 
-La finalité de l'enseignement
+- la prise de conscience par la profession de l'importance de développer un projet d'entreprise, stratégique et managérial, dans un environnement en mutation.
+
+La connaissance de l'environnement technique, juridique, managérial et économique de l'activité notariale permet au titulaire ou à la titulaire du BTS "Collaborateur juriste notarial" de comprendre la globalité des actions professionnelles d'un collaborateur de notaire. Elle pose les fondements des apprentissages professionnels.
+
+La finalité de l'enseignement :
 
 La finalité de l'enseignement de l'environnement économique et managérial du notariat est de montrer l'incidence de l'activité économique sur l'activité notariale, sur l'organisation de l'office et sur l'organisation du travail dans l'office. Cet enseignement, visant à l'acquisition de compétences transversales, est structuré selon les principes suivants :
 
--une série de 16 problématiques à traiter en utilisant des notions au choix dans la liste des notions ;
+- une série de 18 problématiques à traiter en utilisant des notions au choix dans la liste des notions ;
 
--une liste de notions économiques et managériales utiles pour traiter les problématiques précitées.
+- une liste de notions économiques et managériales utiles pour traiter les problématiques précitées.
 
-L'enseignant doit traiter au moins 12 des 16 questions proposées, en veillant à une répartition équilibrée entre les thématiques économiques et/ ou managériales abordée par les problématiques. Les deux entrées disciplinaires ont été mixées pour éviter la structuration de cet enseignement par chapitres notionnels. Le mode de certification permet d'envisager une grande diversité pédagogique allant de l'activité de recherche et de veille par l'étudiant, au débat en classe, en passant par l'enquête sur dossiers, etc. La didactique n'est pas purement disciplinaire ; le lien systématique des problématiques traitées avec le notariat permet d'appréhender une culture économique et managériale appliquée.
+L'enseignant doit traiter au moins 12 des 18 questions proposées, en veillant à une répartition équilibrée entre les thématiques économiques et/ou managériales abordée par les problématiques. Les deux entrées disciplinaires ont été mixées pour éviter la structuration de cet enseignement par chapitres notionnels. Le mode de certification permet d'envisager une grande diversité pédagogique allant de l'activité de recherche et de veille par l'étudiant, au débat en classe, en passant par l'enquête sur dossiers, etc. La didactique n'est pas purement disciplinaire ; le lien systématique des problématiques traitées avec le notariat permet d'appréhender une culture économique et managériale appliquée.
 
 Les compétences visées :
 
--analyser des données économiques et sociales de formes variées (tableaux de données chiffrées, graphiques, cartes, schémas, etc.) issues de sources institutionnelles ou scientifiquement fondées.
+- analyser des données économiques et sociales de formes variées (tableaux de données chiffrées, graphiques, cartes, schémas, etc.) issues de sources institutionnelles ou scientifiquement fondées ;
 
--assurer une veille informationnelle à partir des revues professionnelles du notariat.
+- assurer une veille informationnelle à partir des revues professionnelles du notariat ;
 
--prendre en compte l'actualité économique et sociale.
+- prendre en compte l'actualité économique et sociale ;
 
--utiliser le vocabulaire conceptuel économique et managérial pour analyser les situations observées en office notarial.
+- utiliser le vocabulaire conceptuel économique et managérial ;
 
--construire un écrit argumenté et structuré.
+- analyser le contexte économique et managérial observé en office notarial (en stage ou lors des expériences professionnelles actuelles ou antérieures) ;
+
+- construire un oral argumenté et structuré.
 
 Les problématiques :
 
--les notaires : officiers publics ou chefs d'entreprise ?
+- Les notaires : officiers publics ou chefs d'entreprise ?
 
--le marché des prestations notariales est-il concurrentiel ?
+- Le marché des prestations notariales est-il concurrentiel ?
 
--la loi de l'offre et de la demande s'applique-t-elle aux prestations notariales ?
+- La loi de l'offre et de la demande s'applique-t-elle aux prestations notariales ?
 
--les notaires ont-ils un rôle en matière de fiscalité ?
+- Les notaires ont-ils un rôle en matière de fiscalité ?
 
--tous les offices notariaux ont-ils la même structure organisationnelle ?
+- Tous les offices notariaux ont-ils la même structure organisationnelle ?
 
--les notaires doivent-ils forcément adopter une démarche stratégique ?
+- Les notaires doivent-ils forcément adopter une démarche stratégique ?
 
--les labels et les certifications apportent-ils un avantage concurrentiel aux études notariales ?
+- Les labels et les certifications apportent-ils un avantage concurrentiel aux études notariales ?
 
--LegalTech* et interprofessionnalité : menaces ou opportunités ?
+- Sécurité des données des offices notariaux et LegalTech* : un enjeu pour la souveraineté numérique ?
 
--les investissements sont-ils nécessaires à la pérennité de l'outil de production d'un office notarial ?
+- Les investissements sont-ils nécessaires à la pérennité de l'outil de production d'un office notarial ?
 
--la gestion des ressources humaines augmente-elle la création de valeur dans les offices notariaux ?
+- La gestion des ressources humaines augmente-elle la création de valeur dans les offices notariaux ?
 
--la digitalisation des métiers du notariat améliore-t-elle la productivité des études ?
+- La digitalisation des métiers du notariat améliore-t-elle la productivité des études ?
 
--le marché du travail a-t-il une influence sur la gestion des ressources humaines d'un office notarial ?
+- Féminisation des métiers du notariat, une réelle égalité professionnelle ?
 
--l'activité notariale est-elle corrélée à la croissance économique ?
+- L'activité notariale est-elle corrélée à la croissance économique ?
 
--l'activité notariale est-elle indépendante des évolutions de la structure de la population et des modes de vie ?
+- L'activité notariale est-elle indépendante des évolutions de la structure de la population et des modes de vie ?
 
--les notaires sont-ils témoins du patrimoine de tous les ménages ?
+- Les notaires sont-ils témoins du patrimoine de tous les ménages ?
 
--les droits de succession sont-ils un frein ou un amplificateur de la concentration de la richesse ?
+- Les droits de succession sont-ils un frein ou un amplificateur de la concentration de la richesse ?
 
-* : entreprises proposant des services juridiques automatisés sur internet grâce à des algorithmes de génération documentaire.
+- Le marché de l'immobilier est-il bouleversé par la transition écologique ?
 
-Les notions économiques et managériales
+- La prévention des risques professionnels : contrainte ou levier pour la gestion des ressources humaines dans les études ?
+
+Les notions économiques et managériales :
 
 Notions économiques |
 
@@ -983,6 +997,8 @@ Productivité.
 Capital humain.
 
 Croissance économique.
+
+Développement durable.
 
 Loi de finances.
 
@@ -1030,4 +1046,10 @@ Création de valeur.
 
 GPEC (Gestion prévisionnelle des emplois et des compétences).
 
-Dispositions légales et conventionnelles liées à la gestion des ressources humaines. |
+Dispositions légales et conventionnelles liées à la gestion des ressources humaines.
+
+Principes de prévention en matière de santé et de sécurité a |
+
+NOTA :
+
+Conformément à l'article 7 de l'arrêté du 6 juillet 2026 (NOR : ESRS2612077A), ces dispositions, dans leur rédaction issue de l'arrêté précité, s'appliquent à compter de la session d'examen 2027.

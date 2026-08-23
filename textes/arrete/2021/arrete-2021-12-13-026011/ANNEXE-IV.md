@@ -2,9 +2,7 @@
 
 RÉFÉRENTIEL D'ÉVALUATION
 
-Brevet de technicien supérieur " Collaborateur juriste notarial "
-
-ANNEXE IV a
+ANNEXE IV.A
 
 UNITÉS CONSTITUTIVES DU DIPLÔME
 
@@ -18,65 +16,73 @@ Culture générale et expression |
 
 U2 |
 
-Langue vivante étrangère anglaise : Compréhension de l'écrit et expression écrite |
+Langues vivante étrangère : anglais |
 
 U3 |
 
-Langue vivante étrangère anglaise : Production orale en continu et interaction |
+Éléments fondamentaux du droit |
 
 U4 |
 
-Eléments fondamentaux du droit |
+Environnement de l'activité notariale |
 
 U5 |
 
-Environnement de l'activité notariale |
+Accompagnement du client selon les règles déontologiques |
 
 U6 |
 
-Accompagnement du client selon les règles déontologiques |
-
-U7 |
-
 Conduite d'un dossier en droit des personnes, de la famille et du patrimoine familial |
 
-U8 |
+U7 |
 
 Conduite d'un dossier en droit des biens dans le domaine immobilier ou de l'entreprise |
 
 UF1 Unité facultative |
 
-Langue vivante 2 |
+Langue vivante étrangère |
 
 UF2 Unité facultative |
 
 Engagement étudiant |
 
-ANNEXE IV b
+ANNEXE IV.B
 
 CONDITIONS D'OBTENTION DES DISPENSES D'ÉPREUVES
 
-Les candidats au BTS " Collaborateur juriste notarial " déjà titulaires d'un BTS d'une autre spécialité, d'un DUT ou d'un diplôme de niveau 5 ou supérieur seront, à leur demande, dispensés de subir :
+Les candidats au BTS "Collaborateur juriste notarial" déjà titulaires d'un BTS d'une autre spécialité, d'un DUT ou d'un diplôme de niveau 5 ou supérieur seront, à leur demande, dispensés de subir :
 
--l'unité U1 de Culture générale et expression
+- l'unité U1 - Culture générale et expression ;
 
--les unités U2 Langue vivante étrangère : Compréhension de l'écrit et expression écrite et U3 Langue vivante étrangère anglaise : Production orale en continu et interaction
+- l'unité U2 - Langue vivante étrangère : anglais.
 
-ANNEXE IV c
+ANNEXE IV.C
 
-Règlement d'examen
+RÈGLEMENT D'EXAMEN
 
-BTS Collaborateur juriste notarial |
+BTS "Collaborateur juriste notarial" |
 
-Voie scolaire dans un établissement public ou privé sous contrat, CFA ou section d'apprentissage habilité, formation professionnelle continue dans les établissements publics habilités |
+Scolaires (établissements publics ou privés
 
-Formation professionnelle continue dans les établissements publics habilités |
+sous contrat)
 
-Voie scolaire dans un établissement privé, CFA ou section d'apprentissage non habilité,
+Apprentis (CFA ou sections d'apprentissage habilités)
 
-formation professionnelle continue dans les établissements publics non habilités ou en établissement privé, enseignement
+Formation professionnelle continue (établissements publics habilités) |
 
-à distance, candidats justifiant de 3 ans d'expérience professionnelle |
+Formation professionnelle continue (établissements publics habilités à pratiquer intégralement le CCF pour ce BTS) |
+
+Scolaires (établissements privés hors contrat)
+
+Apprentis (CFA ou sections d'apprentissage
+
+non habilités)
+
+Formation professionnelle continue (établissements publics non habilités ou établissements privés)
+
+Au titre de leur expérience professionnelle
+
+Enseignement à distance |
 
 Epreuves |
 
@@ -84,7 +90,9 @@ Unité |
 
 Coef |
 
-Crédits européens |
+Crédits euro-
+
+péens |
 
 Forme |
 
@@ -100,7 +108,7 @@ Durée |
 
 Epreuve générale
 
-E1-Culture générale et expression |
+E1 - Culture générale et expression |
 
 U1 |
 
@@ -110,63 +118,59 @@ U1 |
 
 Ponctuelle écrite |
 
-3h |
+3 h |
 
 CCF |
 
-|
-
 Ponctuelle écrite |
 
-3h |
+3 h |
 
 Epreuve générale
 
-E2-Langue vivante étrangère anglaise : Compréhension de l'écrit et expression écrite |
+E2 - Langue vivante étrangère : anglais |
 
 U2 |
 
-1 |
+2 |
 
-5 |
+11 |
 
-Ponctuelle écrite |
+CCF
 
-2h |
+3 situations d'évaluation |
 
-CCF |
+CCF
 
-|
+3 situations d'évaluation |
 
-Ponctuelle écrite |
+Ponctuelle écrite et orale |
 
-2h |
+2 h (écrit)
+
++ 20 min (oral) |
 
 Epreuve générale
 
-E3-Langue vivante étrangère anglaise : Production orale en continu et interaction |
+E3 - Éléments fondamentaux du droit |
 
 U3 |
 
-1 |
+2 |
 
-5 |
-
-Ponctuelle orale |
-
-20 min |
+11 |
 
 CCF |
 
-|
+CCF |
 
-Ponctuelle orale |
+Ponctuelle écrite |
 
-20 min (1) |
+3 h |
 
-Epreuve générale
+Epreuve professionnelle
 
-E4-Eléments fondamentaux du droit |
+E4 - Environnement de l'activité notariale |
 
 U4 |
 
@@ -174,109 +178,85 @@ U4 |
 
 11 |
 
-CCF |
+CCF
 
-|
-
-CCF |
-
-|
-
-Ponctuelle écrite |
-
-3h |
-
-Epreuve professionnelle
-
-E5-Environnement de l'activité notariale |
-
-U5 |
-
-2 |
-
-11 |
-
-CCF |
-
-|
-
-CCF |
-
-|
-
-Ponctuelle orale |
-
-30 min |
-
-Epreuve professionnelle
-
-E6-Accompagnement du client selon les règles déontologiques |
-
-U6 |
-
-3 |
-
-16 |
-
-CCF |
-
-|
-
-CCF |
-
-|
-
-Ponctuelle orale |
-
-30 min |
-
-Epreuve professionnelle
-
-E7-Conduite d'un dossier en droit des personnes, de la famille et du patrimoine familial |
-
-U7 |
-
-5 |
-
-28 |
-
-Ponctuelle écrite |
-
-4h |
-
-Ponctuelle écrite |
-
-4h |
-
-Ponctuelle écrite |
-
-4h |
-
-Epreuve professionnelle E8-Conduite d'un dossier en droit des biens dans le domaine immobilier ou de l'entreprise |
-
-U8 |
-
-5 |
-
-28 |
-
-Ponctuelle écrite |
-
-4h |
+2 situations d'évaluation |
 
 CCF
 
 2 situations d'évaluation |
 
-|
+Ponctuelle orale |
+
+30 min |
+
+Epreuve professionnelle
+
+E5 - Accompagnement du client selon les règles déontologiques |
+
+U5 |
+
+3 |
+
+17 |
+
+CCF |
+
+CCF |
+
+Ponctuelle orale |
+
+30 min |
+
+Epreuve professionnelle
+
+E6 - Conduite d'un dossier en droit des personnes, de la famille et du patrimoine familial |
+
+U6 |
+
+5 |
+
+27 |
 
 Ponctuelle écrite |
 
-4h |
+4 h |
 
-EF1-Epreuve facultative LV2* |
+Ponctuelle écrite |
 
-UF1** |
+4 h |
+
+Ponctuelle écrite |
+
+4 h |
+
+Epreuve professionnelle
+
+E7 - Conduite d'un dossier en droit des biens dans le domaine immobilier ou de l'entreprise |
+
+U7 |
+
+5 |
+
+27 |
+
+Ponctuelle écrite |
+
+4 h |
+
+CCF
+
+4 situations d'évaluation |
+
+Ponctuelle écrite |
+
+4 h |
+
+Epreuve facultative
+
+EF1 - Langue vivante étrangère (1) |
+
+UF1 (2) |
 
 |
 
@@ -284,25 +264,27 @@ UF1** |
 
 Ponctuelle orale |
 
-20 min
+15 min de préparation
 
-(1) |
-
-Ponctuelle orale |
-
-20 min
-
-(1) |
++ 15 min |
 
 Ponctuelle orale |
 
-20 min
+15 min de préparation
 
-(1) |
++ 15 min |
 
-EF2-Engagement étudiant |
+Ponctuelle orale |
 
-UF2** |
+15 min de préparation
+
++ 15 min |
+
+Epreuve facultative
+
+EF2 - Engagement étudiant |
+
+UF2 (2) |
 
 |
 
@@ -312,193 +294,189 @@ CCF
 
 1 situation d'évaluation |
 
-|
+CCF
 
-CCF |
-
-|
+1 situation d'évaluation |
 
 Ponctuelle orale |
 
 20 min |
 
-(*) Les langues vivantes pour cette épreuve sont : allemand, espagnol, italien et portugais.
+(1) Langues vivantes autorisées : celles de l'arrêté du 8 juillet 2024, article 2, pour lesquelles la région académique organisatrice dispose d'un examinateur compétent (JORF n° 0163 du 10 juillet 2024).
 
-(1) : non compris le temps de préparation de 20 minutes
+(2) Seuls les points au-dessus de 10 sont pris en compte.
 
-(**) Seuls les points au-dessus de 10 sont pris en compte.
-
-ANNEXE IV d
+ANNEXE IV.D
 
 DÉFINITION DES ÉPREUVES
 
-BTS " Collaborateur juriste notarial "
+Epreuve E1 - Culture générale et expression
 
-Epreuve E1-Culture générale et expression
+Unité U1 - Coefficient 3
 
-Coefficient 3
+L'unité U1 culture générale et expression valide les compétences établies par l'arrêté du 13 juillet 2023 relatif aux objectifs et contenus de l'enseignement de culture générale et expression, aux compétences travaillées et à la définition de l'épreuve de culture générale et expression du brevet de technicien supérieur (publié au JORF n° 0177 du 2 août 2023).
 
-L'unité U1 Culture générale et expression valide les compétences établies par l'arrêté du 13 juillet 2023 relatif aux objectifs et contenus de l'enseignement de culture générale et expression, aux compétences travaillées et à la définition de l'épreuve de culture générale et expression du brevet de technicien supérieur (publié au JORF n° 0177 du 2 août 2023).
+Epreuve E2 - Langue vivante étrangère : anglais
 
-Epreuve E2-Langue vivante étrangère anglaise : compréhension de l'écrit et expression écrite
+Unité U2 - Coefficient 2
 
-Coefficient 1
+Epreuve écrite et orale
 
-1. Finalités et objectifs
+Finalités et objectifs :
 
-L'étude de l'anglais contribue à la formation intellectuelle et à l'enrichissement culturel de l'individu. À ce titre, elle a plus particulièrement vocation à :
+L'épreuve a pour but d'évaluer au niveau B2 du cadre européen commun de référence pour les langues (CECRL) les activités langagières suivantes :
 
--favoriser la connaissance des patrimoines culturels des aires linguistiques étudiées ;
+- compréhension de documents écrits ;
 
--susciter le goût et le plaisir de la pratique de la langue ;
+- production et interaction écrites ;
 
--donner confiance pour s'exprimer ;
+- compréhension de l'oral ;
 
--former le titulaire du diplôme à identifier les situations de communication, les genres de discours auxquels ils sont exposés et qu'ils doivent apprendre à maîtriser ;
+- production et interaction orales.
 
--favoriser le développement d'une capacité réflexive ;
+L'épreuve est composée de deux parties.
 
--développer l'autonomie ;
+Partie 1 : Compréhension de l'écrit et production écrite - Coefficient 1
 
--préparer le titulaire du diplôme à la mobilité professionnelle.
+1.1. Contrôle en cours de formation
 
-L'évaluation est adossée au Cadre européen commun de référence pour les langues (CECRL). Le niveau attendu est B2.
+Deux situations d'évaluation sont organisées.
 
-Le niveau B2 est défini de la façon suivante : " Une élève ou un élève peut comprendre le contenu essentiel de sujets concrets ou abstraits dans un texte complexe, y compris une discussion technique dans sa spécialité. Elle ou il peut communiquer avec un degré de spontanéité et d'aisance tel qu'une conversation avec un locuteur natif ne comporte de tension ni pour l'un ni pour l'autre. Elle ou il peut s'exprimer de façon claire et détaillée sur une grande gamme de sujets, émettre un avis sur un sujet d'actualité et exposer les avantages et les inconvénients de différentes possibilités ".
-
--Compréhension de l'écrit et expression écrite :
-
-L'objectif visé est d'évaluer l'aptitude du candidat à :
-
--la compréhension de la langue écrite : il s'agit de vérifier la capacité du candidat à exploiter des textes et/ ou des documents de nature diverse, sans technicité excessive et relevant de l'aire culturelle de la langue étudiée pour réaliser un compte rendu en français ;
-
--l'expression écrite : il s'agit de vérifier la capacité du candidat à s'exprimer par écrit dans la langue vivante étrangère de manière pertinente et intelligible, à un niveau acceptable de correction ; il s'agit pour le candidat de rédiger un écrit en anglais (courrier, courriel, bref rapport, instruction, analyse, argumentation etc.) à partir d'éléments de contexte ou de consignes.
-
-2. Modalité d'évaluation-Forme ponctuelle
-
-Epreuve écrite-durée : 2 heures
-
-Une procédure d'harmonisation des corrections sera mise en place dans chaque académie.
-
-Support (s) pour l'écrit :
-
-Un ou plusieurs documents en langue vivante étrangère anglaise dont le contenu est ancré dans des situations relatives à l'entreprise et au monde du travail ainsi que dans l'aire culturelle et linguistique de référence. L'ensemble n'excèdera pas 50 lignes (soit environ 4300 signes, blancs compris).
-
-2.1. Compréhension de l'écrit (durée 1 heure)
-
-Rédaction en français d'un compte rendu faisant apparaître les idées essentielles du ou des documents supports.
-
-2.2. Expression écrite (durée 1 heure)
-
-Production écrite en langue vivante anglaise (courrier, courriel, bref compte rendu, etc.) à partir d'éléments de contexte ou de consignes.
-
-3. Modalités d'évaluation-Contrôle en cours de formation
-
-Il est constitué de deux situations d'évaluation de même poids se déroulant au cours de la deuxième année et correspondant aux deux activités langagières évaluées en épreuve ponctuelle : compréhension de l'écrit (1 heure), expression écrite (1 heure).
+Les deux situations d'évaluation sont de même poids ; elles se déroulent au cours de la deuxième année et correspondent aux deux activités langagières évaluées en épreuve ponctuelle : compréhension de l'écrit (1 heure), expression écrite (1 heure). Ces deux situations représentent la moitié de la note finale.
 
 Les modalités de l'épreuve sont identiques à celles de l'épreuve ponctuelle.
 
-Epreuve E3-Langue vivante étrangère anglaise : production orale en continu et en interaction
+1.2. Forme ponctuelle - durée 2 heures
 
-Coefficient 1
+Support(s) pour l'écrit :
 
-Forme ponctuelle, durée 20 minutes et 20 minutes de préparation :
+Un ou plusieurs documents en langue vivante étrangère dont le contenu est ancré dans des situations relatives à l'entreprise et au monde du travail ainsi que dans l'aire culturelle et linguistique de référence. L'ensemble n'excède pas 50 lignes (soit environ 4 300 signes, blancs compris).
 
-L'épreuve prend appui sur un ou deux documents écrits à caractère professionnel (prise de connaissance du ou de documents, restitution et analyse en présentation orale et dialogue avec l'examinateur).
+Exercices : deux parties de même pondération sont proposées :
 
-Nature des documents :
+A. - Compréhension de l'écrit
 
-Les documents supports présentent des situations en lien avec le domaine du notariat et l'institution notariale au sens large, sans toutefois présenter une technicité excessive. Il pourra s'agir d'articles de presse, de commentaires écrits de situations professionnelle, ou de documents issus de sites internet spécialisés.
+Rédiger en français un compte rendu faisant apparaître les idées essentielles du ou des documents supports.
 
-Il ne s'agira en aucune façon de documents authentiques didactisés ou de documents issus de manuels.
+B. - Expression écrite
 
-On évitera les documents qui présentent une trop grande complexité ou spécificité, ou encore tout autre ancrage dans une situation professionnelle particulière. En effet, le fait qu'ils soient rédigés dans une langue étrangère écrite assez technique ou dans un cadre culturel spécifique (pays étranger, législation différente) complique la tâche du candidat, et ce également en termes de maîtrise du lexique spécifique. Le ou les documents seront accompagnés d'une question de problématisation visant à orienter le candidat et rédigée en anglais ou en français.
+Rédiger en langue vivante un écrit (courrier, courriel, bref rapport, instruction, analyse, document commercial, argumentation, etc.) à partir d'éléments de contexte ou de consignes.
 
-Longueur du ou des documents :
+Partie 2 : Compréhension orale et écrite, expression orale en continu et en interaction - Coefficient 1
 
-La longueur du dossier (un ou deux documents) n'excèdera pas 25 lignes (environ 200 mots), le ou les documents pouvant comporter une partie iconographique (photo, illustration).
+L'épreuve a pour but d'évaluer l'aptitude du candidat à comprendre et s'exprimer à l'oral dans une langue vivante : il s'agit de vérifier la capacité du candidat à analyser et traiter dans la langue vivante une situation à laquelle il est confronté et à réagir en expliquant ses choix. Il doit en effet montrer sa capacité à présenter, à partir d'un contexte professionnel ancré dans l'aire culturelle et linguistique de référence, un court propos organisé et à prendre part à un dialogue dans la langue anglaise dans le cadre d'une situation en lien avec le domaine professionnel.
 
-Dans le cas d'un dossier comportant deux documents, on veillera à ce qu'ils soient, dans la toute mesure du possible, de nature différente : article de presse et document tiré d'un site internet en lien avec le domaine, par exemple.
+L'épreuve permet d'évaluer les compétences du candidat en compréhension orale et écrite ainsi qu'en expression orale en continu et en interaction.
 
-Déroulement de l'épreuve :
+L'évaluation permet de positionner le candidat par rapport à un niveau B2 du CECRL.
 
-1) Préparation : (compréhension de l'écrit-durée 20 minutes)
+1.1. Contrôle en cours de formation
 
-La candidate ou le candidat prend connaissance du ou des documents fournis, en tenant compte de la consigne fournie (question de problématisation rédigée en anglais ou en français).
+L'évaluation est fondée sur un dossier composé d'au moins deux documents de nature variée, associés à une mise en situation se rattachant à des questions juridiques d'actualité ou du secteur du notariat.
 
-2) Restitution orale et entretien (restitution en prise de parole en continue puis prise de parole en interaction-durée 20 minutes)
+Parmi les documents du dossier, l'un doit être audio ou vidéo d'une durée de 2 minutes 30 à 3 minutes.
 
-Dans un premier temps, la candidate ou le candidat rend compte de façon autonome de ce qu'elle ou il a compris (5 à 10 minutes). Puis suit un entretien destiné à l'amener à reformuler ou préciser certains points, à s'assurer de la compréhension des éléments essentiels et/ ou de certains détails, voire à faire part de ses réactions ou de propositions, si la compréhension est satisfaisante. L'examinateur peut également s'appuyant sur la consigne pour proposer, au besoin, des pistes de relance et élargir le spectre des échanges.
+Les documents textuels, iconographiques ou numériques peuvent être une affiche, un extrait de site internet ou intranet, une fiche technique, une plaquette de communication, un extrait d'article de presse, etc.
 
-Epreuve E4-Eléments fondamentaux du droit
+Les documents audio ou vidéo peuvent être un extrait de discours, une discussion, un commentaire de l'actualité diffusé par différents canaux, une campagne de communication audio ou vidéo, etc. Il ne s'agira cependant en aucune façon d'écrit oralisé ni d'enregistrements issus de manuels.
 
-Coefficient 2
+L'évaluation se déroule en deux temps menés dans la langue vivante :
+
+- une prise de parole en continu au cours de laquelle le candidat fait la présentation du dossier qui lui a été fourni et amorce l'analyse de la situation professionnelle qui lui a été soumise (5 minutes environ) ;
+
+- l'entretien qui fait suite doit permettre au candidat d'approfondir et de compléter les points abordés. Au fil des échanges, le candidat est invité à réagir, décrire, reformuler, développer une argumentation, justifier son propos ou encore apporter des explications (15 minutes).
+
+L'évaluation est assurée par un enseignant ou un formateur de langue vivante intervenant dans une section de BTS tertiaire, de préférence en BTS CJN.
+
+1.2. Forme ponctuelle
+
+L'épreuve dure 20 minutes avec 20 minutes de préparation au préalable.
+
+L'évaluation est fondée sur un dossier composé d'au moins deux documents de nature variée, associés à une mise en situation se rattachant à des questions juridiques d'actualité ou au secteur du notariat.
+
+Parmi les documents du dossier, l'un doit être audio ou vidéo d'une durée de 2 minutes 30 à 3 minutes.
+
+Les documents textuels, iconographiques ou numériques peuvent être une affiche, un extrait de site internet ou intranet, une fiche technique, une plaquette de communication, un extrait d'article de presse, etc.
+
+Les documents audio ou vidéo peuvent être un extrait de discours, une discussion, un commentaire de l'actualité diffusé par différents canaux, une campagne de communication audio ou vidéo, etc. Il ne s'agira cependant en aucune façon d'écrit oralisé ni d'enregistrements issus de manuels.
+
+L'évaluation se déroule en deux temps menés dans la langue vivante :
+
+- une prise de parole en continu au cours de laquelle le candidat fait la présentation du dossier qui lui a été fourni et amorce l'analyse de la situation professionnelle qui lui a été soumise (5 minutes environ) ;
+
+- la commission conduit ensuite un entretien qui doit permettre au candidat d'approfondir et de compléter les points abordés. Au fil des échanges, le candidat est invité à réagir, décrire, reformuler, développer une argumentation, justifier son propos ou encore apporter des explications. (15 minutes).
+
+L'évaluation est assurée par un enseignant ou un formateur de langue vivante intervenant dans une section de BTS tertiaire, de préférence en BTS CJN.
+
+Epreuve E3 - Eléments fondamentaux du droit
+
+Unité 3 - Coefficient 2
 
 1. Objectifs
 
-L'épreuve E4 Eléments fondamentaux du droit valide la capacité à mobiliser de manière rigoureuse et méthodique des savoirs juridiques fondamentaux inscrits dans le bloc 7 " Eléments fondamentaux du droit ", qui sont indispensables au collaborateur juriste notarial dans le traitement des dossiers.
+L'épreuve E3 "Éléments fondamentaux du droit" valide la capacité à mobiliser de manière rigoureuse et méthodique des savoirs juridiques fondamentaux inscrits dans le bloc 6 "Éléments fondamentaux du droit", qui sont indispensables au collaborateur juriste notarial dans le traitement des dossiers.
 
 L'objectif de l'épreuve est de vérifier la capacité du candidat à :
 
--maîtriser le raisonnement juridique : méthodes de qualification juridique et d'interprétation de la règle de droit ;
+- maîtriser le raisonnement juridique : méthodes de qualification juridique et d'interprétation de la règle de droit ;
 
--utiliser les principaux codes ;
+- utiliser les principaux codes ;
 
--sélectionner de l'information juridique pertinente ;
+- sélectionner de l'information juridique pertinente ;
 
--formuler et résoudre un problème juridique par la méthodologie du cas pratique ;
+- formuler et résoudre un problème juridique par la méthodologie du cas pratique ;
 
--répondre de manière argumentée à une question juridique ;
+- répondre de manière argumentée à une question juridique ;
 
--analyser une documentation juridique, en identifier les enjeux et la portée.
+- analyser une documentation juridique, en identifier les enjeux et la portée.
 
-2. Critères d'évaluation
+2. Les critères d'évaluation
 
 Pour justifier de la maîtrise des compétences attendues, le candidat devra faire preuve :
 
--de justesse dans l'analyse d'une documentation juridique et de sa portée ;
+- de justesse dans l'analyse d'une documentation juridique et de sa portée ;
 
--de rigueur et de pertinence dans la mobilisation des concepts juridiques ;
+- de rigueur et de pertinence dans la mobilisation des concepts juridiques ;
 
--de l'emploi du vocabulaire juridique approprié ;
+- de l'emploi du vocabulaire juridique approprié ;
 
--de clarté et de cohérence dans les raisonnements juridiques conduits ;
+- de clarté et de cohérence dans les raisonnements juridiques conduits ;
 
--d'une maîtrise de la ou des méthodologies d'analyse juridique mise (s) en place ;
+- d'une maîtrise de la ou des méthodologies d'analyse juridique mise(s) en place ;
 
--d'une capacité d'abstraction dans la formalisation d'une problématique juridique ;
+- d'une capacité d'abstraction dans la formalisation d'une problématique juridique ;
 
--de bonnes capacités rédactionnelles et argumentatives permettant de répondre de manière structurée à une problématique juridique.
+- de bonnes capacités rédactionnelles et argumentatives permettant de répondre de manière structurée à une problématique juridique.
 
 3. Modalités d'évaluation
 
 3.1. Contrôle en cours de formation
 
-Cette épreuve E4 prend appui sur plusieurs situations d'évaluation conduites en cours de formation lors de l'enseignement du bloc 7 " Eléments fondamentaux du droit ", situations d'évaluation que le candidat aura pu référencer au long de sa formation.
+Cette épreuve E3 prend appui sur plusieurs situations d'évaluation conduites en cours de formation lors de l'enseignement du bloc 6 "Éléments fondamentaux du droit", situations d'évaluation que le candidat aura pu référencer au long de sa formation.
 
 Le candidat doit attester de sa maîtrise des différentes méthodologies propres à la discipline juridique et ainsi être impérativement évalué sur les activités suivantes (au moins deux fois pour chacune d'elles) :
 
--la conduite d'une veille juridique ;
+- la conduite d'une veille juridique ;
 
--la résolution de cas pratique ;
+- la résolution de cas pratique ;
 
--l'analyse d'une décision de justice ;
+- l'analyse d'une décision de justice ;
 
--l'analyse d'un acte.
+- l'analyse d'un acte.
 
-L'épreuve E4 repose sur un dossier numérique personnel rédigé et constitué par le candidat et rendant compte pour chacune des activités précitées des éléments suivants :
+L'épreuve E3 repose sur un dossier numérique personnel rédigé et constitué par le candidat et rendant compte pour chacune des activités précitées des éléments suivants :
 
--la nature de l'activité réalisée ;
+- la nature de l'activité réalisée ;
 
--la date et la durée ;
+- la date et la durée ;
 
--les conditions de réalisation ;
+- les conditions de réalisation ;
 
--la méthodologie et les moyens mis en œuvre.
+- la méthodologie et les moyens mis en œuvre.
 
 Chaque compte rendu d'activité est accompagné des productions réalisées par le candidat et de l'évaluation qui a été faite par le ou les professeurs. Un tableau de synthèse (dont le format sera précisé dans la circulaire d'organisation) rendra compte de la totalité des activités réalisées par le candidat et sera inclus dans le dossier numérique.
 
-L'évaluation est chargée d'apprécier le degré de maîtrise des compétences relevant du bloc 7 portant sur les " Eléments fondamentaux du droit ". À l'issue de l'évaluation, dont le degré d'exigence est équivalent aux attendus du diplôme. L'évaluateur complète une fiche de positionnement des compétences acquises par le candidat (un modèle de cette fiche est proposé dans la circulaire d'organisation de l'examen). L'évaluation est conduite par un enseignant en charge de l'enseignement des éléments fondamentaux du droit.
+L'évaluation est chargée d'apprécier le degré de maîtrise des compétences relevant du bloc 6 portant sur les "Éléments fondamentaux du droit". L'évaluation en CCF doit être d'un niveau d'exigence conforme aux attendus du diplôme. L'évaluateur complète une grille d'évaluation des compétences acquises par le candidat (un modèle de cette grille est proposé dans la circulaire d'organisation de l'examen). L'évaluation est conduite par un enseignant en charge de l'enseignement des éléments fondamentaux du droit.
 
 Le contrôle de conformité du dossier est effectué par l'évaluateur.
 
@@ -506,349 +484,407 @@ La constatation de non-conformité du dossier entraîne l'attribution de la ment
 
 La non-conformité du dossier peut être prononcée dès lors qu'une des situations suivantes est constatée :
 
--absence de constitution de dossier ;
+- absence de constitution de dossier ;
 
--absence du tableau de synthèse ou tableau de synthèse non visé ou non signé par les personnes habilitées à cet effet ;
+- absence du tableau de synthèse ou tableau de synthèse non visé ou non signé par les personnes habilitées à cet effet ;
 
--absence des travaux et/ ou comptes rendus d'activité.
+- absence des travaux et/ou comptes rendus d'activité.
 
-Si le candidat fournit un dossier incomplet (c'est-à-dire ne présentant pas de travaux sur l'ensemble des activités attendues), les insuffisances constatées seront pénalisées dans les limites prévues par la grille d'aide à évaluation proposée par la circulaire nationale d'organisation.
+Si le candidat fournit un dossier incomplet (c'est-à-dire ne présentant pas de travaux sur l'ensemble des activités attendues), les insuffisances constatées seront pénalisées dans les limites prévues par la grille d'évaluation proposée par la circulaire nationale d'organisation.
 
 Avant le jury final, une procédure d'harmonisation est mise en place par les autorités académiques selon les modalités fixées par la circulaire d'organisation.
 
 3.2. Forme ponctuelle
 
-L'épreuve E4 se déroule sous forme d'une épreuve ponctuelle écrite d'une durée de 3 heures.
+L'épreuve E3 se déroule sous forme d'une épreuve ponctuelle écrite d'une durée de 3 heures.
 
 Elle prend appui sur un sujet qui invite le candidat à traiter trois exercices, mobilisant chacun une méthodologie propre, parmi les activités suivantes :
 
--l'analyse et l'exploitation des résultats d'une veille juridique ;
+- l'analyse et l'exploitation des résultats d'une veille juridique ;
 
--la résolution de cas pratique ;
+- la résolution de cas pratique ;
 
--l'analyse d'une décision de justice ;
+- l'analyse d'une décision de justice ;
 
--l'analyse d'un acte.
+- l'analyse d'un acte.
 
-La correction de chaque copie est assurée par un professeur en charge de l'enseignement du bloc 7 " Eléments fondamentaux du droit ".
+La correction de chaque copie est assurée en priorité par un professeur en charge de l'enseignement du bloc 6 "Eléments fondamentaux du droit" ou à défaut, tout enseignant d'économie-gestion désigné par le président du jury.
 
-Epreuve E5-Environnement de l'activité notariale
+Epreuve E4 - Environnement de l'activité notariale
 
-Coefficient 2
+Unité 4 - Coefficient 2
 
 1. Objectifs
 
-L'épreuve E5 valide les compétences du bloc 8 relatif à l'environnement de l'activité notariale, et notamment la capacité du candidat à analyser l'incidence de l'activité économique sur l'activité notariale tant sur la nature de cette dernière que sur son organisation.
+L'épreuve E4 valide les compétences du bloc 7 relatif à l'environnement de l'activité notariale, et notamment la capacité du candidat à analyser l'incidence de l'environnement économique et social sur l'activité notariale tant sur la nature de cette dernière que sur son organisation.
 
 Pour cela le candidat doit être capable :
 
--d'analyser des données économiques et sociales de formes variées (tableaux de données chiffrées, graphiques, cartes, schémas, etc.) issues de sources institutionnelles ou scientifiquement fondées ;
+- d'analyser des données économiques et sociales de formes variées (tableaux de données chiffrées, graphiques, cartes, schémas, etc.) issues de sources institutionnelles ou scientifiquement fondées ;
 
--d'assurer une veille informationnelle à partir des revues professionnelles du notariat ;
+- d'assurer une veille informationnelle à partir des revues professionnelles du notariat ;
 
--de prendre en compte l'actualité économique et sociale ;
+- de prendre en compte l'actualité économique et sociale ;
 
--d'utiliser le vocabulaire conceptuel économique et managérial pour analyser les situations observées en office notarial ;
+- d'utiliser le vocabulaire conceptuel économique et managérial ;
 
--de construire un écrit argumenté et structuré.
+- d'analyser le contexte économique et managérial observé en office notarial (en stage ou lors des expériences professionnelles actuelles ou antérieures) ;
+
+- de construire un oral argumenté et structuré.
 
 2. Critères d'évaluation
 
 Pour justifier de la maîtrise des compétences attendues, le candidat devra faire preuve :
 
--d'une capacité à sélectionner des sources d'information ;
+- de fiabilité dans la sélection des sources d'information ;
 
--d'une rigueur dans l'organisation de sa veille informationnelle ;
+- de rigueur dans l'organisation de sa veille informationnelle ;
 
--de précision dans l'utilisation des données économiques et sociales ;
+- de précision dans l'utilisation des données économiques et sociales ;
 
--d'une capacité d'analyse des évolutions économiques et managériales et de leurs conséquences sur le notariat ;
+- d'une capacité d'analyse des évolutions économiques et managériales et de leurs conséquences sur le notariat ;
 
--d'une argumentation fondée sur des concepts économiques et managériaux ;
+- d'un sens d'observation et d'analyse du contexte économique et managérial en office notarial ;
 
--d'une capacité à construire un écrit organisé répondant à une problématique cohérente ;
+- d'une capacité d'argumentation fondée sur des concepts économiques et managériaux ;
 
--de l'emploi du vocabulaire économique et managérial adapté.
+- d'une capacité à mobiliser du vocabulaire économique et managérial adapté ;
+
+- d'une capacité à construire un oral organisé répondant à une problématique cohérente.
 
 3. Formes de l'épreuve
 
 3.1. Contrôle en cours de formation
 
-L'épreuve E5 prend appui à la fois sur les observations réalisées en office notarial et sur l'enseignement d'environnement de l'activité notariale.
+L'épreuve E4 prend appui à la fois sur les observations réalisées en office notarial et sur l'enseignement d'environnement de l'activité notariale.
 
-Le candidat devra produire un rapport écrit de dix pages minimum à quinze pages maximum (hors annexes), complété des annexes strictement utiles, et comprenant deux parties équivalentes :
+La démarche du candidat doit aboutir à :
 
--une analyse de la situation de l'office notarial, observée par le candidat (les processus managériaux au sein de l'office et leurs articulations, les interactions avec le tissu économique local, etc.) ;
+- une analyse de la situation de l'office notarial, observée par le candidat (les processus managériaux au sein de l'office et leurs articulations, les interactions avec le tissu économique local, etc.) ;
 
--le développement d'une problématique d'actualité économique et/ ou managériale permettant de prendre du recul sur la situation observée en office. Ce développement présente une réflexion personnelle du candidat, associée à une analyse critique.
+- un développement d'une problématique d'actualité économique et/ou managériale permettant de prendre du recul sur la situation observée en office notarial. Ce développement présente une réflexion personnelle du candidat, associée à une analyse critique.
 
-La rédaction et le contenu du rapport sont personnels au candidat.
+L'évaluation en CCF repose sur deux situations d'évaluation :
 
-Le contrôle de conformité est réalisé par l'évaluateur.
+• situation A : évaluée au cours de la formation et portant sur la démarche de recherche des données, d'observation du contexte économique et managérial, d'identification des problématiques économiques et managériales adaptées au contexte ainsi que l'explication et la justification d'un éventuel recours raisonné à l'intelligence artificielle.
 
-La constatation de non-conformité du rapport entraîne l'attribution de la mention NV (non valide) à l'épreuve correspondante. En conséquence, le diplôme ne peut lui être délivré.
+Dans le cadre de la situation A, l'enseignant évaluateur pourra demander la production de tout document qu'il estime utile pour fonder son évaluation ;
+
+• situation B : évaluée lors d'un oral de présentation et se déroulant en deux temps.
+
+Dans un premier temps, le candidat présente son exposé sans être interrompu pendant une durée maximale de 10 minutes.
+
+Dans un second temps, l'enseignant évaluateur l'interroge sur le contenu de son exposé et sur son analyse de la problématique développée, pendant 10 minutes. Un support de communication peut soutenir la présentation orale.
+
+Dans le cadre de la situation B, le candidat pourra présenter tout document qu'il juge utile pour étayer ou illustrer sa démarche. Aucun document écrit ne peut pour autant être exigé. Les documents produits par le candidat ne constituent en aucun cas des supports d'évaluation. Seul l'oral est évalué.
+
+L'évaluation sera réalisée par un professeur dispensant l'enseignement d'environnement de l'activité notariale conformément à la grille d'évaluation prévue dans la circulaire nationale d'organisation de l'examen.
+
+Le contrôle de conformité du dossier du candidat (composé des certificats de stage ou de travail) est réalisé par l'évaluateur.
+
+La constatation de non-conformité du dossier entraîne l'attribution de la mention NV (non valide) à l'épreuve correspondante. En conséquence, le diplôme ne peut lui être délivré.
 
 La non-conformité du dossier peut être prononcée dès lors qu'une des situations suivantes est constatée :
 
--absence de réalisation du rapport ;
+- présence de documents non visés ou non signés par les personnes habilitées ;
 
--rapport de moins de dix pages.
+- durée de stage inférieure à celle requise par la réglementation de l'examen (12 semaines obligatoires) ;
 
-L'évaluation de la démarche de production du rapport et de la qualité de son contenu sera réalisée par un professeur dispensant l'enseignement d'environnement de l'activité notarial conformément à la grille d'évaluation prévue dans la circulaire nationale d'organisation de l'examen.
+- stage ou contrat de travail effectué dans une autre organisation qu'un office notarial ;
+
+- stage effectué dans un autre pays que ceux mentionnés par la circulaire nationale d'organisation de l'examen ;
+
+- stage effectué à l'étranger pour une durée totale supérieure à 8 semaines.
 
 Avant le jury final, une procédure d'harmonisation est mise en place par l'autorité organisatrice selon les modalités fixées par la circulaire nationale d'organisation de l'examen.
 
+Le jury final peut se faire communiquer tous les documents utilisés lors de l'évaluation. Ces documents sont tenus à la disposition du jury et des autorités académiques pour la session considérée et jusqu'à la session suivante.
+
+Après examen attentif des documents fournis, le jury final formule toute remarque et observation qu'il juge utile et arrête la note.
+
 3.2. Epreuve ponctuelle orale
 
-L'épreuve E5 prend appui à la fois sur les observations réalisées en office notarial et sur l'enseignement d'environnement de l'activité notariale. Le candidat devra réaliser un rapport selon la même définition et composition que pour l'épreuve en CCF.
+L'épreuve E4 prend appui à la fois sur les observations réalisées en office notarial et sur l'enseignement d'environnement de l'activité notariale.
 
-Le contrôle de conformité est organisé par l'autorité organisatrice de l'examen.
+La démarche du candidat doit aboutir à :
 
-La constatation de non-conformité du rapport entraîne l'attribution de la mention NV (non valide) à l'épreuve correspondante. En conséquence, le diplôme ne peut être délivré au candidat.
+- une analyse de la situation de l'office notarial, observée par le candidat (les processus managériaux au sein de l'office et leurs articulations, les interactions avec le tissu économique local, etc.) ;
 
-La non-conformité du dossier peut être prononcée dès lors qu'une des situations suivantes est constatée :
+- un développement d'une problématique d'actualité économique et/ou managériale propre au candidat lui permettant de prendre du recul sur la situation observée en office notarial. Ce développement présente une réflexion personnelle du candidat, associée à une analyse critique.
 
--absence de dépôt du rapport ;
+L'épreuve orale se déroule en deux temps :
 
--rapport de moins de dix pages ;
+Dans un premier temps, le candidat présente son exposé sans être interrompu pendant une durée maximale de 10 minutes.
 
--dépôt du rapport au-delà de la date fixée par l'autorité organisatrice ;
+Dans un second temps, la commission d'évaluation l'interroge sur le contenu de son exposé, sa démarche de construction et sur son analyse de la problématique développée, pendant 20 minutes.
 
--rapport non visé ou non signé par les personnes habilitées à cet effet.
+Un support de communication peut soutenir la présentation orale. Si cette présentation nécessite l'utilisation de son matériel informatique, le candidat doit pouvoir le mettre en œuvre en toute autonomie.
 
-Le candidat sera interrogé par une commission d'évaluation composée de deux évaluateurs : un professeur ayant en charge l'enseignement d'environnement de l'activité notariale et un autre professeur en charge d'enseignements professionnels du BTS " Collaborateur juriste notarial ".
+Le candidat pourra présenter tout document qu'il juge utile pour étayer ou illustrer sa démarche. Aucun document ou production écrite ne peuvent pour autant être exigés. Les documents produits par le candidat ne constituent en aucun cas des supports d'évaluation. Seul l'oral est évalué.
 
-L'épreuve se déroule en deux temps.
+Aucun document ou support ne pourra être conservé par la commission d'interrogation à l'issue de l'épreuve.
 
-Dans un premier temps, le candidat présente son rapport sans être interrompu pendant une durée maximale de 10 minutes.
-
-Dans un second temps, la commission d'évaluation l'interroge sur le contenu de son rapport, sa démarche de construction et sur son analyse de la problématique développée, pendant 20 minutes.
-
-Un support de communication peut soutenir la présentation du rapport. Le candidat doit pouvoir le mettre en œuvre en toute autonomie.
+Le candidat sera interrogé par une commission d'évaluation composée de deux évaluateurs : un professeur ayant en charge l'enseignement d'environnement de l'activité notariale et un autre professeur en charge d'enseignements professionnels du BTS "Collaborateur juriste notarial", ou à défaut, de deux professeurs ayant en charge les enseignements professionnels du BTS.
 
 La commission d'évaluation statuera conformément à la grille d'évaluation prévue dans la circulaire nationale d'organisation de l'examen.
 
-Epreuve E6-Accompagnement du client selon les règles déontologiques
+Le dossier du candidat est transmis à l'autorité académique organisatrice de l'examen à une date fixée et selon les modalités définies par cette dernière. Il est constitué des certificats de stage en office notarial, ou des certificats de travail attestant que l'intéressé a été employé dans une ou plusieurs études notariales, soit en qualité d'apprenti, soit en qualité de salarié, soit dans le cadre d'un contrat de professionnalisation.
 
-Coefficient 3
+Le contrôle de conformité du dossier du candidat est organisé par l'autorité organisatrice de l'examen.
+
+La constatation de non-conformité du dossier entraîne l'attribution de la mention NV (non valide) à l'épreuve correspondante. En conséquence, le diplôme ne peut être délivré au candidat.
+
+La non-conformité du dossier peut être prononcée dès lors qu'une des situations suivantes est constatée :
+
+- absence de dépôt du dossier ;
+
+- dépôt du dossier au-delà de la date fixée par l'autorité organisatrice ;
+
+- présence de documents non visés ou non signés par les personnes habilitées ;
+
+- durée de stage inférieure à celle requise par la réglementation de l'examen (12 semaines obligatoires) ;
+
+- stage ou contrat de travail effectué dans une autre organisation qu'un office notarial ;
+
+- stage effectué dans un autre pays que ceux mentionnés par la circulaire nationale d'organisation de l'examen ;
+
+- stage effectué à l'étranger pour une durée totale supérieure à 8 semaines.
+
+Epreuve E5 - Accompagnement du client selon les règles déontologiques
+
+Unité 5 - Coefficient : 3
 
 1. Objectifs
 
-L'épreuve E6 a pour finalité de valoriser l'expérience professionnelle du candidat et d'attester de son implication dans les activités professionnelles menées. Elle vise à évaluer chez le candidat l'acquisition des compétences décrites dans le bloc de compétences 1 " Accompagner le client selon le respect des règles déontologiques ".
+L'épreuve E5 a pour finalité de valoriser l'expérience professionnelle du candidat et d'attester de son implication dans les activités professionnelles menées. Elle vise à évaluer chez le candidat l'acquisition des compétences décrites dans le bloc de compétences 1 "Accompagner le client selon les règles déontologiques".
 
 Ainsi, le candidat doit être capable :
 
--de comprendre le principe de délégation d'une mission de service public ;
+- de comprendre le principe de délégation de la puissance publique ;
 
--de distinguer l'intérêt de l'authentification et de l'opposabilité des actes ;
+- de distinguer l'intérêt de l'authentification et de l'opposabilité des actes ;
 
--d'expliquer les composantes de la taxation des actes ;
+- d'expliquer les composantes de la taxation des actes ;
 
--de conduire les échanges avec les clients ;
+- de conduire les échanges avec les clients ;
 
--d'identifier les besoins du client ;
+- d'identifier les besoins du client ;
 
--d'instaurer une relation de confiance avec le client ;
+- d'instaurer une relation de confiance avec le client ;
 
--de participer à la résolution des conflits ;
+- de participer à la résolution des conflits ;
 
--de constituer le dossier en adéquation avec la situation du client ;
+- de constituer le dossier en adéquation avec la situation du client ;
 
--d'actualiser la base des données de l'office ;
+- d'actualiser la base des données de l'office ;
 
--d'assurer la sécurité des données ;
+- d'assurer la sécurité des données ;
 
--de mettre en œuvre une veille juridique ;
+- de mettre en œuvre une veille juridique ;
 
--de collaborer au sein d'un collectif de travail.
+- de collaborer au sein d'un collectif de travail.
 
 2. Critères d'évaluation
 
-Les critères d'évaluation correspondent aux indicateurs d'évaluation des compétences exprimés pour chaque compétence du bloc 1 " Accompagner le client selon le respect des règles déontologiques ".
+Les critères d'évaluation correspondent aux indicateurs d'évaluation des compétences exprimés pour chaque compétence du bloc 1 "Accompagner le client selon les règles déontologiques".
 
 Les critères associés à chaque compétence permettent de clarifier les attentes et de préciser le niveau d'exigence requis.
 
 Pour justifier de la maîtrise des compétences attendues, le candidat devra également être capable de faire preuve :
 
--d'une bonne maîtrise de la communication écrite ou orale ;
+- d'une bonne maîtrise de la communication écrite ou orale ;
 
--d'une capacité d'écoute vis-à-vis du client ou des membres de l'étude notariale ;
+- d'une capacité d'écoute vis-à-vis du client ou des membres de l'étude notariale ;
 
--d'une capacité à s'organiser et à collaborer efficacement au sein de l'étude ;
+- d'une capacité à s'organiser et à collaborer efficacement au sein de l'étude ;
 
--de rigueur dans la constitution, le suivi d'un dossier client et dans la conduite des formalités afférentes ;
+- de rigueur dans la constitution, le suivi d'un dossier client et dans la conduite des formalités afférentes ;
 
--d'une capacité à structurer un projet d'acte simple et à en identifier les clauses pertinentes ;
+- d'une capacité à structurer un projet d'acte simple et à en identifier les clauses pertinentes ;
 
--d'une capacité à s'adapter et à réagir positivement face aux difficultés rencontrées.
+- d'une capacité à s'adapter et à réagir positivement face aux difficultés rencontrées.
 
 3. Formes de l'épreuve
 
 3.1. Contrôle en cours de formation
 
-L'épreuve E6 s'appuie sur un portfolio réalisé progressivement par le candidat tout au long de la formation. Celui-ci est constitué de situations professionnelles vécues par le candidat en étude notariale mais également au cours de sa formation.
+L'épreuve E5 s'appuie sur un portfolio réalisé progressivement par le candidat tout au long de la formation. Celui-ci est constitué de situations professionnelles vécues par le candidat en étude notariale mais également au cours de sa formation.
 
 Ces situations concernent :
 
--la communication professionnelle : des situations d'accueil ou d'accompagnement du client menées par le candidat ;
+- la communication professionnelle : des situations d'accueil ou d'accompagnement du client menées par le candidat ;
 
--la création et l'organisation d'un dossier client mobilisant les logiciels professionnels adaptés ;
+- la création et l'organisation d'un dossier client mobilisant les logiciels professionnels adaptés ;
 
--le suivi et le traitement d'un dossier client auquel a contribué le candidat.
+- le suivi et le traitement d'un dossier client auquel a contribué le candidat.
 
 La constitution du portfolio est jalonnée par des temps d'échange entre l'équipe pédagogique, le candidat et le professionnel en charge de le superviser en étude (tuteur, maître d'apprentissage ou supérieur hiérarchique).
 
-Ces échanges se matérialisent par une appréciation et un positionnement, dans un document de liaison, sur le niveau des compétences acquises par le candidat. Ce document de liaison est donc rempli par le professionnel et le professeur en charge de l'enseignement du bloc 1 " Accompagner le client selon le respect des règles déontologiques". Il permet d'attester de l'implication du candidat lors des situations professionnelles vécues et de compléter un tableau synoptique des compétences acquises.
+Ces échanges se matérialisent par une appréciation et un positionnement, dans un document de liaison, sur le niveau des compétences acquises par le candidat. Ce document de liaison est donc rempli par le professionnel et le professeur en charge de l'enseignement du bloc 1 "Accompagner le client selon le respect des règles déontologiques". Il permet d'attester de l'implication du candidat lors des situations professionnelles vécues et de compléter un tableau synoptique des compétences acquises.
 
-Ce tableau synoptique a vocation à être complété tout au long de la formation par les professionnels en charge de la supervision du candidat en étude ainsi que par le professeur en charge de l'enseignement du bloc 1 " Accompagner le client selon le respect des règles déontologiques ". Il permet de positionner le candidat selon son degré de maîtrise des compétences acquises lors des différentes situations professionnelles vécues en étude notariale ou pendant les heures de formation dédiées à l'enseignement du bloc 1.
+Ce tableau synoptique a vocation à être complété tout au long de la formation par le professeur en charge de l'enseignement du bloc 1 "Accompagner le client selon le respect des règles déontologiques". Il permet de positionner le candidat selon son degré de maîtrise des compétences acquises lors des différentes situations professionnelles vécues en étude notariale ou pendant les heures de formation dédiées à l'enseignement du bloc 1.
 
 Les modèles du document de liaison et du tableau synoptique de compétences sont proposés dans la circulaire nationale d'organisation de l'examen.
 
-Une commission d'évaluation est chargée d'apprécier le degré de maîtrise des compétences relevant du bloc 1 en fin de formation. Cette commission est composée d'un professeur en charge de l'enseignement du bloc 1 " Accompagner le client selon le respect des règles déontologiques " et d'un deuxième professeur en charge d'enseignements professionnels en STS Collaborateur juriste notarial. Elle complète une fiche d ‘ évaluation du travail réalisé par le candidat (un modèle de cette fiche est proposé dans la circulaire nationale d'organisation de l'examen).
+Une commission d'évaluation est chargée d'apprécier le degré de maîtrise des compétences relevant du bloc 1 en fin de formation. Cette commission est composée d'un professeur en charge de l'enseignement du bloc 1 "Accompagner le client selon le respect des règles déontologiques" et d'un deuxième professeur en charge d'enseignements professionnels en BTS "Collaborateur juriste notarial". Elle complète une grille d‘évaluation du travail réalisé par le candidat (un modèle de cette grille est proposé dans la circulaire nationale d'organisation de l'examen).
 
-Le contrôle de conformité du dossier est effectué par la commission d'évaluation selon les modalités prévues par la circulaire nationale d'examen.
+Le contrôle de conformité du dossier du candidat (portfolio et certificats de stage ou de travail) est effectué par la commission d'évaluation selon les modalités prévues par la circulaire nationale d'organisation de l'examen.
 
-La non-conformité du portfolio peut être prononcée dès lors qu'une des situations suivantes est constatée :
+La constatation de non-conformité du dossier du candidat entraîne l'attribution de la mention NV (non valide) à l'épreuve correspondante. En conséquence, le diplôme ne peut être délivré au candidat.
 
--durée de stage inférieure à celle requise par la réglementation de l'examen ;
+La non-conformité du dossier peut être prononcée dès lors qu'une des situations suivantes est constatée :
 
--documents constituant le portfolio non visés ou non signés par les personnes habilitées à cet effet.
+- présence de documents non visés ou non signés par les personnes habilitées ;
 
-Avant le jury final, une procédure d'harmonisation est mise en place par les autorités académiques selon les modalités fixées par la circulaire d'organisation.
+- durée de stage inférieure à celle requise par la réglementation de l'examen (12 semaines obligatoires) ;
 
-Le jury final peut, en tant que de besoin, se faire communiquer tous les documents utilisés lors de l'évaluation ainsi que les productions élaborées par le candidat pour cette occasion. Ces documents sont tenus à la disposition du jury et des autorités académiques pour la session considérée et jusqu'à la session suivante.
+- stage ou contrat de travail effectué dans une autre organisation qu'un office notarial ;
 
-Après examen attentif des documents fournis le cas échéant, le jury final formule toute remarque et observation qu'il juge utile et arrête la note.
+- stage effectué dans un autre pays que ceux mentionnés par la circulaire nationale d'organisation de l'examen ;
+
+- stage effectué à l'étranger pour une durée totale supérieure à 8 semaines.
+
+Avant le jury final, une procédure d'harmonisation est mise en place par les autorités académiques selon les modalités fixées par la circulaire nationale d'organisation de l'examen.
+
+Le jury final peut se faire communiquer tous les documents utilisés lors de l'évaluation ainsi que les productions élaborées par le candidat pour cette occasion. Ces documents sont tenus à la disposition du jury et des autorités académiques pour la session considérée et jusqu'à la session suivante.
+
+Après examen attentif des documents fournis, le jury final formule toute remarque et observation qu'il juge utile et arrête la note.
 
 3.2. Forme ponctuelle
 
-L'épreuve E6 s'appuie sur un portfolio réalisé progressivement par le candidat tout au long de la formation.
+L'épreuve E5 s'appuie sur un portfolio réalisé progressivement par le candidat tout au long de la formation.
 
-Ce portfolio numérique est constitué de cinq fiches descriptives et des annexes afférentes. Il est élaboré par le candidat de façon individuelle afin de décrire cinq situations professionnelles conduites à l'occasion des périodes d'activités en étude notariale ainsi que pendant la formation.
+Ce portfolio est constitué de cinq fiches descriptives et des annexes afférentes. Il est élaboré par le candidat de façon individuelle afin de décrire cinq situations professionnelles conduites à l'occasion des périodes d'activités en étude notariale ainsi que pendant la formation.
 
 Ces cinq situations concernent obligatoirement :
 
--la communication professionnelle : des situations d'accueil ou d'accompagnement du client menées par le candidat ;
+- la communication professionnelle : des situations d'accueil ou d'accompagnement du client menées par le candidat ;
 
--la création et l'organisation d'un dossier client mobilisant les logiciels professionnels adaptés ;
+- la création et l'organisation d'un dossier client mobilisant les logiciels professionnels adaptés ;
 
--le suivi et le traitement d'un dossier client auquel a contribué le candidat.
+- le suivi et le traitement d'un dossier client auquel a contribué le candidat.
 
 Sur chacune des cinq fiches descriptives présentées, doivent figurer les éléments suivants :
 
--la (ou les) compétence (s) mobilisée (s) ;
+- la (ou les) compétence(s) mobilisée(s) ;
 
--la date et la durée ;
+- la date et la durée ;
 
--le contexte professionnel ;
+- le contexte professionnel ;
 
--les objectifs poursuivis ;
+- les objectifs poursuivis ;
 
--les règles de déontologie observées ;
+- les règles de déontologie observées ;
 
--la méthodologie utilisée ;
+- la méthodologie utilisée ;
 
--les logiciels et outils digitaux employés ;
+- les logiciels et outils digitaux employés ;
 
--les formalités accomplies ;
+- les formalités accomplies ;
 
--les moyens et les techniques mis en œuvre ;
+- les moyens et les techniques mis en œuvre ;
 
--les difficultés rencontrées et les solutions mise en œuvre pour les surmonter.
+- les difficultés rencontrées et les solutions mises en œuvre pour les surmonter.
 
 Un modèle de fiche descriptive sera présent dans la circulaire nationale d'organisation de l'examen.
 
-Le portfolio est transmis aux autorités académiques à une date fixée selon les modalités définies par la circulaire nationale d'organisation de l'examen, il est accompagné de la photocopie du contrat d'apprentissage ou de l'attestation de l'employeur confirmant la qualité d'apprenti dans un ou plusieurs études notariales, ou des certificats de travail attestant que l'intéressé a été employé dans une ou plusieurs études notariales, soit en qualité de salarié à plein temps pendant six mois, soit dans le cadre d'un contrat de professionnalisation.
+Le dossier est transmis aux autorités académiques à une date fixée et selon les modalités définies par cette dernière. Il est composé du portfolio et des certificats de stage en office notarial, ou des certificats de travail attestant que l'intéressé a été employé dans une ou plusieurs études notariales, soit en qualité d'apprenti, soit en qualité de salarié, soit dans le cadre d'un contrat de professionnalisation.
 
-3.2.1. Organisation de l'épreuve ponctuelle
+3.2.1. Organisation de l'épreuve ponctuelle orale
 
-L'épreuve comprend deux phases.
+L'épreuve orale comprend deux phases.
 
 La première phase, d'une durée de 10 minutes maximum, permet au candidat d'exposer à la commission d'interrogation, une situation professionnelle qu'il a choisie en raison de son intérêt, de la richesse des actions menées et de sa contribution. Pendant cet exposé, le candidat peut présenter à la commission d'interrogation tout document qu'il juge utile pour étayer ou illustrer ses propos. Le candidat n'est pas interrompu par la commission pendant cet exposé.
 
-Aucun document ou support, autre que le portfolio du candidat, ne pourra être conservé par la commission d'interrogation à l'issue de l'épreuve.
-
 La seconde phase, d'une durée de 20 minutes, permet à la commission d'interrogation de s'entretenir avec le candidat pour approfondir les points évoqués lors de la première phase et éventuellement de questionner sur les autres fiches descriptives du portfolio afin de s'assurer du degré de maîtrise des compétences mobilisées.
+
+Aucun document ou support, autre que le portfolio du candidat, ne pourra être conservé par la commission d'interrogation à l'issue de l'épreuve.
 
 3.2.2. Composition de la commission d'interrogation
 
-L'épreuve se déroule conformément aux instructions de la circulaire d'organisation du diplôme. Elle est conduite par une commission d'interrogation comprenant deux personnes : un professeur dispensant l'enseignement du bloc 1 et un professionnel. En cas d'absence du professionnel, celui-ci est remplacé par un professeur prenant en charge un enseignement professionnel au sein du BTS " Collaborateur juriste notarial ".
+L'épreuve se déroule conformément aux instructions de la circulaire nationale d'organisation de l'examen. Elle est conduite par une commission d'interrogation comprenant deux personnes : un professeur dispensant l'enseignement du bloc 1 et un professionnel du notariat. En cas d'absence du professionnel, celui-ci est remplacé par un professeur prenant en charge un enseignement professionnel au sein du BTS "Collaborateur juriste notarial".
 
-Une grille d'aide à l'évaluation, figurant dans la circulaire d'organisation de l'examen, précise les critères et les modalités de la notation de l'épreuve.
+Une grille d'aide à l'évaluation, figurant dans la circulaire nationale d'organisation de l'examen, précise les critères et les modalités de la notation de l'épreuve.
 
 3.2.3. Contrôle des dossiers
 
-Le contrôle de conformité du dossier est effectué par une commission constituée par les autorités académiques selon les modalités prévues par la circulaire nationale d'examen.
+Le contrôle de conformité du dossier du candidat (portfolio et certificats de stage ou de travail) est effectué par une commission constituée par les autorités académiques selon les modalités prévues par la circulaire nationale d'organisation de l'examen.
 
-La constatation de non-conformité du portfolio entraîne l'attribution de la mention NV (non valide) à l'épreuve correspondante. En conséquence, le diplôme ne peut lui être délivré.
+La constatation de non-conformité du dossier entraîne l'attribution de la mention NV (non valide) à l'épreuve correspondante. En conséquence, le diplôme ne peut être délivré au candidat.
 
-La non-conformité du portfolio peut être prononcée dès lors qu'une des situations suivantes est constatée :
+La non-conformité du dossier peut être prononcée dès lors qu'une des situations suivantes est constatée :
 
--absence de dépôt du portfolio ;
+- absence de dépôt du dossier ;
 
--dépôt du portfolio au-delà de la date fixée par la circulaire d'organisation de l'examen ou de l'autorité organisatrice ;
+- dépôt du dossier au-delà de la date fixée par l'autorité organisatrice ;
 
--durée de stage inférieure à celle requise par la réglementation de l'examen ;
+- présence de documents non visés ou non signés par les personnes habilitées ;
 
--documents constituant le portfolio non visés ou non signés par les personnes habilitées à cet effet.
+- durée de stage inférieure à celle requise par la réglementation de l'examen (12 semaines obligatoires) ;
 
-Si le candidat fournit un dossier incomplet (c'est-à-dire ne présentant pas de travaux sur l'ensemble des situations attendues), les insuffisances constatées seront pénalisées dans les limites prévues par la grille d'aide à évaluation proposée par la circulaire nationale d'organisation.
+- stage ou contrat de travail effectué dans une autre organisation qu'un office notarial ;
 
-Epreuve E7-Conduite d'un dossier en droit des personnes, de la famille et du patrimoine familial
+- stage effectué dans un autre pays que ceux mentionnés par la circulaire nationale d'organisation de l'examen ;
 
-Coefficient 5
+- stage effectué à l'étranger pour une durée totale supérieure à 8 semaines.
+
+Si le candidat fournit un portfolio incomplet (c'est-à-dire ne présentant pas de travaux sur l'ensemble des situations attendues), les insuffisances constatées seront pénalisées dans les limites prévues par la grille d'aide à l'évaluation proposée par la circulaire nationale d'organisation de l'examen.
+
+Epreuve E6 - Conduite d'un dossier en droit des personnes, de la famille et du patrimoine familial
+
+Unité 6 - Coefficient : 5
 
 1. Objectifs
 
-Cette épreuve vise à évaluer chez le candidat l'acquisition des compétences décrites dans le bloc de compétences 2 " Conduite d'un dossier en droit des personnes, de la famille et du patrimoine familial ".
+Cette épreuve vise à évaluer chez le candidat l'acquisition des compétences décrites dans le bloc de compétences 2 "Conduire un dossier en droit des personnes, de la famille et du patrimoine familial".
 
-Ainsi, le candidat doit être capable :
+Ainsi, le candidat doit être capable de :
 
--de rédiger des projets d'actes notariés spécifiques en matière de filiation ;
+- rédiger des projets d'actes notariés spécifiques en matière de filiation ;
 
--d'analyser les conséquences patrimoniales après établissement de la filiation ;
+- analyser les conséquences patrimoniales après établissement de la filiation ;
 
--d'identifier les conditions de formation de chacune des unions ;
+- identifier les conditions de formation de chacune des unions ;
 
--de contribuer au projet de rédaction du contrat de mariage ou de la convention notariée de PACS ;
+- contribuer au projet de rédaction du contrat de mariage ou de la convention notariée de PACS ;
 
--d'apprécier les effets patrimoniaux de chacune des unions ;
+- apprécier les effets patrimoniaux de chacune des unions ;
 
--de contribuer aux processus juridiques de désunion ;
+- contribuer aux processus juridiques de désunion ;
 
--d'apprécier les conséquences de la désunion ;
+- apprécier les conséquences de la désunion ;
 
--de repérer une situation de vulnérabilité ;
+- repérer une situation de vulnérabilité ;
 
--de contribuer à la gestion d'une situation de vulnérabilité ;
+- contribuer à la gestion d'une situation de vulnérabilité ;
 
--de mener un dossier de libéralités ;
+- mener un dossier de libéralités ;
 
--de rédiger des projets d'actes nécessaires à l'établissement d'une libéralité ;
+- rédiger des projets d'actes nécessaires à l'établissement d'une libéralité ;
 
--de mettre en œuvre les conseils du notaire en matière d'anticipation successorale ;
+- mettre en œuvre les conseils du notaire en matière d'anticipation successorale ;
 
--de participer au règlement d'une succession.
+- participer au règlement d'une succession ;
 
--de contribuer à la gestion de l'indivision.
+- contribuer à la gestion de l'indivision.
 
 2. Critères d'évaluation
 
-Les critères d'évaluation correspondent aux indicateurs d'évaluation des compétences exprimés pour chaque compétence du bloc 2 " Conduite d'un dossier en droit des personnes, de la famille et du patrimoine familial ".
+Les critères d'évaluation correspondent aux indicateurs d'évaluation des compétences exprimés pour chaque compétence du bloc 2 "Conduire un dossier en droit des personnes, de la famille et du patrimoine familial".
 
 Les critères associés à chaque compétence permettent de clarifier les attentes et de préciser le niveau d'exigence requis.
 
 Pour justifier de la maîtrise des compétences attendues, le candidat devra également être capable :
 
--d'analyser et de qualifier les problématiques juridiques ;
+- d'analyser et de qualifier les problématiques juridiques ;
 
--d'exploiter une base documentaire ;
+- d'exploiter une base documentaire,
 
--de proposer des solutions argumentées en mobilisant les notions juridiques adaptées ;
+- de proposer des solutions argumentées en mobilisant les notions juridiques adaptées ;
 
--de faire preuve de rigueur dans le choix des techniques notariales utilisées ;
+- de faire preuve de rigueur dans le choix des techniques notariales utilisées ;
 
--de conduire des raisonnements juridiques logiques et cohérents.
+- de conduire des raisonnements juridiques logiques et cohérents.
 
 3. Formes de l'épreuve
 
@@ -856,127 +892,127 @@ L'épreuve, d'une durée de 4 heures, se déroule sous forme ponctuelle écrite 
 
 L'épreuve prend appui sur un dossier qui comprend :
 
--la présentation de situations professionnelles contextualisées contenant des problématiques juridiques liées au droit des personnes, de la famille et du patrimoine familial ;
+- la présentation de situations professionnelles contextualisées contenant des problématiques juridiques liées au droit des personnes, de la famille et du patrimoine familial ;
 
--une base documentaire ;
+- une base documentaire ;
 
--une série de questions permettant de structurer et d'orienter le travail à réaliser par le candidat, positionné en tant que collaborateur juriste notarial. Chaque question amène le candidat à répondre de manière structurée et argumentée aux problématiques soulevées par les clients de l'étude.
+- une série de questions permettant de structurer et d'orienter le travail à réaliser par le candidat, positionné en tant que collaborateur juriste notarial. Chaque question amène le candidat à répondre de manière structurée et argumentée aux problématiques soulevées par les clients de l'étude.
 
-L'épreuve est corrigée par un professeur ayant en charge l'enseignement du bloc 2 " Conduite d'un dossier en droit des personnes, de la famille et du patrimoine familial ".
+L'épreuve est corrigée par un professeur ayant en charge l'enseignement du bloc 2 "Conduire un dossier en droit des personnes, de la famille et du patrimoine familial".
 
-Epreuve E8-Conduite d'un dossier en droit des biens dans le domaine immobilier ou de l'entreprise
+Epreuve E7 - Conduite d'un dossier en droit des biens dans le domaine immobilier ou de l'entreprise
 
-Coefficient 5
+Unité 7 - Coefficient : 5
 
-1. Objectifs
+1. Objectif
 
-Cette épreuve vise à évaluer chez le candidat l'acquisition des compétences décrites dans le bloc de compétences 3 " Conduite d'un dossier en droit des biens dans le domaine immobilier ou de l'entreprise ".
+Cette épreuve vise à évaluer chez le candidat l'acquisition des compétences décrites dans le bloc de compétences 3 "Conduire un dossier en droit des biens dans le domaine immobilier ou de l'entreprise".
 
-Ainsi, le candidat doit être capable :
+Ainsi, le candidat doit être capable de :
 
--d'analyser le contexte d'une opération immobilière ;
+- analyser le contexte d'une opération immobilière ;
 
--d'analyser un bail déjà conclu ;
+- analyser un bail déjà conclu ;
 
--d'établir un bail en veillant à la protection des parties ;
+- établir un bail en veillant à la protection des parties ;
 
--d'assurer l'efficacité juridique des contrats préparatoires ;
+- assurer l'efficacité juridique des contrats préparatoires ;
 
--de garantir la validité des actes relatifs à la vente ;
+- garantir la validité des actes relatifs à la vente ;
 
--de sécuriser la vente en garantissant le paiement du prix ;
+- sécuriser la vente en garantissant le paiement du prix ;
 
--de déterminer les clauses en vue de la rédaction d'un projet d'acte de vente ;
+- déterminer les clauses en vue de la rédaction d'un projet d'acte de vente ;
 
--de contribuer à l'évaluation d'un bien immobilier ;
+- contribuer à l'évaluation d'un bien immobilier ;
 
--d'assurer la communication pour la mise en vente du bien ;
+- assurer la communication pour la mise en vente du bien ;
 
--de prendre en charge un dossier portant sur des opérations en lien avec un fonds de commerce ;
+- prendre en charge un dossier portant sur des opérations en lien avec un fonds de commerce ;
 
--de réaliser les formalités et rédiger des projets d'actes nécessaires à la vie juridique de l'entreprise ;
+- réaliser les formalités et rédiger des projets d'actes nécessaires à la vie juridique de l'entreprise ;
 
--de prendre en compte le statut juridique de l'entreprise dans la conduite d'un dossier.
+- prendre en compte le statut juridique de l'entreprise dans la conduite d'un dossier.
 
 2. Critères d'évaluation
 
-Les critères d'évaluation correspondent aux indicateurs d'évaluation des compétences exprimés pour chaque compétence du bloc " Conduite d'un dossier en droit des biens dans le domaine immobilier ou de l'entreprise ".
+Les critères d'évaluation correspondent aux indicateurs d'évaluation des compétences exprimés pour chaque compétence du bloc 3 "Conduire un dossier en droit des biens dans le domaine immobilier ou de l'entreprise".
 
 Les critères associés à chaque compétence permettent de clarifier les attentes et de préciser le niveau d'exigence requis.
 
 Pour justifier de la maîtrise des compétences attendues, le candidat devra également faire preuve :
 
--de rigueur et de méthode dans l'analyse des problématiques juridiques soulevées ;
+- de rigueur et de méthode dans l'analyse des problématiques juridiques soulevées ;
 
--de pertinence dans la sélection des informations issues de la documentation fournie ;
+- de pertinence dans la sélection des informations issues de la documentation fournie ;
 
--de logique et de cohérence dans les propositions faites et dans les techniques notariales utilisées ;
+- de logique et de cohérence dans les propositions faites et dans les techniques notariales utilisées ;
 
--de bonnes capacités rédactionnelle et de synthèse.
+- de bonnes capacités rédactionnelles et de synthèse.
 
 3. Modalités d'évaluation
 
-L'épreuve, d'une durée de 4 heures, se déroule sous forme ponctuelle écrite pour tous les candidats sauf ceux de la formation continue dans établissements publics habilités à pratiquer le CCF.
+L'épreuve, d'une durée de 4 heures, se déroule sous forme ponctuelle écrite pour tous les candidats sauf ceux de la formation continue dans les établissements publics habilités à pratiquer le CCF.
 
-Elle prend appui sur l'étude de situations professionnelles comportant un contexte détaillé, d'un corpus documentaire et d'une série de questions invitant le candidat à traiter plusieurs opérations emblématiques du bloc Conduite d'un dossier en droit des biens dans le domaine immobilier ou de l'entreprise dont au moins une portera sur le droit des biens immobiliers et une autre sur le droit des biens de l'entreprise.
+Elle prend appui sur l'étude de situations professionnelles comportant un contexte détaillé, d'un corpus documentaire et d'une série de questions invitant le candidat à traiter plusieurs opérations emblématiques du bloc 3 "Conduire un dossier en droit des biens dans le domaine immobilier ou de l'entreprise" dont au moins une portera sur le droit des biens immobiliers et une autre sur le droit des biens de l'entreprise.
 
 Positionné en tant que collaborateur juriste notarial au sein d'une étude, le candidat devra traiter les différentes missions qui lui seront confiées en faisant preuve de rigueur et de cohérence dans les propositions réalisées.
 
-La correction de cette épreuve est assurée par les professeurs prenant en charge l'enseignement du bloc de compétences 3 " Conduite d'un dossier en droit des biens dans le domaine immobilier ou de l'entreprise ".
+La correction de cette épreuve est assurée par les professeurs prenant en charge l'enseignement du bloc de compétences 3 "Conduire un dossier en droit des biens dans le domaine immobilier ou de l'entreprise".
 
-Pour l'évaluation par CCF, elle s'opérera à travers quatre situations : deux concernant le droit des biens immobiliers et deux concernant le droit des biens de l'entreprise. L'ensemble de ces situations devra permettre l'évaluation de l'ensemble des compétences.
+Pour l'évaluation par CCF, elle s'opérera à travers quatre situations d'évaluation écrite : trois concernant le droit des biens immobiliers et une concernant le droit des biens de l'entreprise. L'ensemble de ces situations devra permettre l'évaluation de l'ensemble des compétences.
 
-Epreuve facultative EF1-Communication en langue vivante étrangère 2
+Epreuve facultative EF1 - Langue vivante étrangère
 
-La langue vivante étrangère choisie au titre de l'épreuve facultative est obligatoirement soit l'allemand, soit l'espagnol, soit l'italien, soit le portugais.
+Durée 15 minutes, préparation 15 minutes
 
-Durée 20 minutes, préparation 20 minutes.
+1. Finalités et objectifs
+
+La langue vivante étrangère choisie au titre de l'épreuve facultative est obligatoirement différente de celle choisie au titre de l'épreuve obligatoire.
+
+L'épreuve évalue la capacité du candidat à présenter un exposé bref et structuré, ainsi qu'à participer à un échange à caractère professionnel dans la langue choisie.
+
+L'évaluation se fonde sur une maîtrise du niveau B1 du Cadre européen commun de référence pour les langues (CECRL) des activités langagières.
+
+2. Formes de l'évaluation
+
+L'épreuve consiste en un oral d'une durée maximale de 15 minutes, précédé de 15 minutes de préparation. L'évaluation est conduite par un professeur de langue vivante qui enseigne la langue choisie par le candidat.
+
+L'épreuve s'appuie sur un document fourni par l'examinateur. Ce document, dans la langue vivante étrangère choisie et en lien avec le domaine professionnel, peut-être :
+
+- soit un document écrit, éventuellement accompagné d'un visuel. L'ensemble des éléments textuels, hors source, n'excède pas 250 mots ;
+
+- soit un support audio ou vidéo, d'une durée comprise entre une minute et une minute trente secondes, que le candidat visionne librement pendant les quinze minutes de préparation.
+
+Dans un premier temps, de cinq minutes maximum, le candidat rend compte du document et réagit au(x) thèmes abordé(s). S'ensuit un échange avec l'examinateur, de dix minutes maximum, qui prend d'abord appui sur les propos du candidat et peut ensuite être élargi à des questions plus générales sur la thématique du document ou relevant de la spécialité ou de l'expérience professionnelle du candidat.
+
+Au fil de cet échange, le candidat est invité à réagir, préciser, reformuler, justifier son propos ou encore à apporter des explications.
+
+Epreuve facultative EF2 - Engagement étudiant
+
+Epreuve orale, 20 minutes sans préparation
 
 1. Objectifs
 
-L'épreuve a pour but d'évaluer l'aptitude du candidat à s'exprimer à l'oral dans une langue vivante étrangère : il s'agit de vérifier la capacité du candidat à présenter un court propos organisé et prendre part à un dialogue à contenu professionnel dans la langue choisie.
-
-Tout au long de l'épreuve, il est attendu que le candidat s'exprime dans une langue grammaticalement acceptable, adopte une prononciation claire et une intonation pertinente et qu'il mobilise une gamme de langue étendue.
-
-L'évaluation permet de positionner le candidat par rapport au niveau B1 du Cadre européen commun de référence pour les langues (CECRL).
-
-2. Modalité d'évaluation : forme ponctuelle
-
-(épreuve orale de 20 minutes)
-
-L'évaluation est conduite par un enseignant ou un formateur intervenant en BTS " Collaborateur juriste notarial ".
-
-L'épreuve permet l'évaluation de l'expression orale en interaction et consiste en un oral d'une durée maximale de 20 minutes, précédé de 20 minutes de préparation.
-
-L'épreuve prend appui sur un bref support fourni au candidat. Ce support s'inscrit dans l'aire culturelle et linguistique de référence et s'accompagne d'une proposition de mise en situation. Au cours de l'épreuve, la commission conduit un entretien en langue étrangère à partir des réponses que le candidat apporte au questionnement accompagnant la mise en situation et à partir de l'analyse qu'il fait du contenu du document support.
-
-Au fil des échanges, le candidat est invité à réagir, décrire, reformuler, développer une argumentation, justifier son propos ou encore apporter des explications.
-
-Epreuve facultative EF2-Engagement étudiant
-
-(épreuve orale, 20 minutes sans préparation)
-
-1. Objectifs
-
-Cette épreuve facultative vise à identifier les compétences, connaissances et aptitudes acquises par le candidat dans l'exercice des activités mentionnées à l'article L. 611-9 du Code de l'éducation et qui relèvent de celles prévues par le référentiel d'évaluation de la spécialité du diplôme de brevet de technicien supérieur pour laquelle le candidat demande sa reconnaissance " engagement étudiant ".
+Cette épreuve facultative vise à identifier les compétences, connaissances et aptitudes acquises par le candidat dans l'exercice des activités mentionnées à l'article L.611-9 du Code de l'éducation et qui relèvent de celles prévues par le référentiel d'évaluation de la spécialité du diplôme de brevet de technicien supérieur pour laquelle le candidat demande sa reconnaissance "engagement étudiant".
 
 Cela peut concerner :
 
--l'approfondissement des compétences évaluées à l'épreuve obligatoire E6 " Accompagnement du client selon les règles déontologiques " ;
+- l'approfondissement des compétences évaluées à l'épreuve obligatoire E5 "Accompagnement du client selon les règles déontologiques" ;
 
--le développement de compétences spécifiques à un domaine ou à une activité professionnelle particulière en lien avec le référentiel du diplôme.
+- le développement de compétences spécifiques à un domaine ou à une activité professionnelle particulière en lien avec le référentiel du diplôme.
 
 2. Critères d'évaluation
 
 Les critères d'évaluation sont :
 
--l'appropriation des compétences liées au domaine professionnel ;
+- l'appropriation des compétences liées au domaine professionnel ;
 
--la capacité à mettre en œuvre les méthodes et les outils ;
+- la capacité à mettre en œuvre les méthodes et les outils ;
 
--la qualité de l'analyse ;
+- la qualité de l'analyse ;
 
--la qualité de la communication.
+- la qualité de la communication.
 
 3. Modalités d'évaluation
 
@@ -984,42 +1020,42 @@ Les critères d'évaluation sont :
 
 Il s'agit d'une situation d'évaluation orale d'une durée de 20 minutes qui prend la forme d'un exposé (10 minutes) puis d'un entretien avec la commission d'évaluation (10 minutes).
 
-Cette épreuve prend appui sur une fiche d'engagement étudiant, servant de support d'évaluation au jury, présentant une ou plusieurs activité (s) conduite (s) par le candidat. En l'absence de cette fiche, l'épreuve ne peut pas se dérouler. Les modalités de mise en œuvre (procédure, calendrier, etc.) seront précisées dans la circulaire nationale d'organisation du BTS.
+Cette épreuve prend appui sur une fiche d'engagement étudiant, servant de support d'évaluation au jury, présentant une ou plusieurs activité(s) conduite(s) par le candidat. En l'absence de cette fiche, l'épreuve ne peut pas se dérouler. Les modalités de mise en œuvre (procédure, calendrier, etc.) seront précisées dans la circulaire nationale d'organisation de l'examen.
 
 L'exposé doit intégrer :
 
--la présentation du contexte ;
+- la présentation du contexte ;
 
--la description et l'analyse de (s) activité (s) ;
+- la description et l'analyse de(s) activité(s) ;
 
--la présentation des démarches et des outils ;
+- la présentation des démarches et des outils ;
 
--le bilan de (s) activité (s) ;
+- le bilan de(s) activité(s) ;
 
--le bilan des compétences acquises.
+- le bilan des compétences acquises.
 
-La composition de la commission d'évaluation est la même que celle de l'épreuve E6 Accompagnement du client selon les règles déontologiques .
+La composition de la commission d'évaluation est la même que celle de l'épreuve E5 "Accompagnement du client selon les règles déontologiques".
 
 3.2. Forme ponctuelle
 
-Il s'agit d'une situation d'évaluation orale d'une durée de 20 minutes qui prend la forme d'un exposé (10 minutes) puis d'un entretien avec la commission d'évaluation (10 minutes). Elle se situe dans la continuité de l'épreuve ponctuelle E6.
+Il s'agit d'une situation d'évaluation orale d'une durée de 20 minutes qui prend la forme d'un exposé (10 minutes) puis d'un entretien avec la commission d'évaluation (10 minutes). Elle se situe dans la continuité de l'épreuve ponctuelle E5.
 
-Cette épreuve prend appui sur une fiche d'engagement étudiant, servant de support d'évaluation au jury, présentant une ou plusieurs activité (s) conduite (s) par le candidat. En l'absence de cette fiche, l'épreuve ne peut pas se dérouler. Les modalités de mise en œuvre (procédure, calendrier, etc.) seront précisées dans la circulaire nationale d'organisation du BTS.
+Cette épreuve prend appui sur une fiche d'engagement étudiant, servant de support d'évaluation au jury, présentant une ou plusieurs activité(s) conduite(s) par le candidat. En l'absence de cette fiche, l'épreuve ne peut pas se dérouler. Les modalités de mise en œuvre (procédure, calendrier, etc.) seront précisées dans la circulaire nationale d'organisation de l'examen.
 
 L'exposé doit intégrer :
 
--la présentation du contexte ;
+- la présentation du contexte ;
 
--la description et l'analyse de l'activité ou des activités ;
+- la description et l'analyse de l'activité ou des activités ;
 
--la présentation des démarches et des outils ;
+- la présentation des démarches et des outils ;
 
--le bilan de (s) activité (s) ;
+- le bilan de(s) activité(s) ;
 
--le bilan des compétences acquises.
+- le bilan des compétences acquises.
 
-La composition de la commission d'évaluation est la même que celle de l'épreuve ponctuelle E6 " Accompagnement du client selon les règles déontologiques ".
+La composition de la commission d'évaluation est la même que celle de l'épreuve ponctuelle E5 "Accompagnement du client selon les règles déontologiques".
 
 NOTA :
 
-Conformément à l'article 9 de l'arrêté du 8 juillet 2024 (NOR : ESRS2414601A), ces dispositions s'appliquent à compter de la session d'examen 2025.
+Conformément à l'article 7 de l'arrêté du 6 juillet 2026 (NOR : ESRS2612077A), ces dispositions, dans leur rédaction issue de l'arrêté précité, s'appliquent à compter de la session d'examen 2027.
