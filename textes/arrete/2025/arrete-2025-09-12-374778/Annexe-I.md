@@ -26,10 +26,6 @@ Chef du service du haut fonctionnaire de défense et de sécurité |
 
 Emploi de sous-directeur |
 
-Secrétariat général/direction des ressources humaines |
-
-Sous-directeur de la formation, des compétences et des qualifications, directeur du centre ministériel de valorisation des ressources humaines |
-
 Secrétariat général/direction des affaires financières |
 
 Sous-directeur des comptabilités et de l'ingénierie financière |
@@ -45,6 +41,12 @@ Sous-directeur des usages numériques et de l'innovation |
 Sous-directeur des produits numériques métiers |
 
 Sous-directeur des méthodes et des services de plateforme |
+
+Emploi de directeur d'un service à compétence nationale |
+
+Secrétariat général/direction des ressources humaines |
+
+Directeur du centre ministériel de valorisation des ressources humaines |
 
 Commissariat général au développement durable (CGDD) |
 
@@ -68,7 +70,7 @@ Direction générale de l'énergie et du climat/direction de l'énergie |
 
 Sous-directeur des marchés de l'énergie |
 
-Sous-directeur de la sécurité d'approvisionnement et des nouveaux produits énergétiques |
+Sous-directeur de la sécurité d'approvisionnement et des ressources énergétiques et minérales |
 
 Sous-directeur du système électrique et des énergies renouvelables |
 
@@ -106,21 +108,21 @@ Emploi de sous-directeur |
 
 Direction générale des infrastructures, des transports et des mobilités |
 
-Sous-directeur du budget, de la synthèse stratégique et de l'appui aux services. |
+Sous-directeur des affaires financières |
 
 Direction générale des infrastructures, des transports et des mobilités/direction des mobilités routières |
 
 Sous-directeur des financements innovants et du contrôle des concessions autoroutières |
 
-Direction générale des infrastructures, des transports et de la mobilité /direction des transports ferroviaires, fluviaux et des ports |
+Direction générale des infrastructures, des transports et des mobilités/direction des transports ferroviaires et fluviaux et des ports |
 
-Sous-directeur des services ferroviaires |
+Sous-directeur des services ferroviaires et des transports collectifs |
 
 Sous-directeur des ports |
 
 Emploi de chef d'un service à compétence nationale |
 
-Direction générale des infrastructures, des transports et de la mer |
+Direction générale des infrastructures, des transports et des mobilités |
 
 Directeur du service technique des remontées mécaniques et des transports guidés |
 
@@ -136,13 +138,15 @@ Chef de service, secrétaire général de la direction générale de l'aviation 
 
 Emploi de sous-directeur |
 
+Direction générale de l'aviation civile |
+
+Sous-directeur, directeur de la mission de l'industrie aéronautique |
+
 Direction générale de l'aviation civile/direction du transport aérien |
 
 Sous-directeur des services aériens |
 
 Sous-directeur des aéroports |
-
-Sous-directeur de la construction aéronautique |
 
 Emploi de chef d'un service à compétence nationale |
 
@@ -152,7 +156,7 @@ Chef du service de gestion des taxes aéroportuaires |
 
 Emploi de chef de service au sein d'un service à compétence nationale |
 
-Direction générale de l'aviation civile/Direction des services de la navigation aérienne |
+Direction générale de l'aviation civile/Direction des services de la navigation aérienneSous-directeur du sauvetage, de la navigation et du contrôle |
 
 Chef de service, directeur de la stratégie et des ressources |
 
@@ -236,6 +240,14 @@ Direction générale des affaires maritimes, de la pêche et de l'aquaculture/Se
 
 Sous-directeur de l'aquaculture et de l'économie des pêches |
 
-Direction générale des affaires maritimes, de la pêche et de l'aquaculture /Service des espaces maritimes et littoraux |
+Direction générale des affaires maritimes, de la pêche et de l'aquaculture/Service des espaces maritimes et littoraux |
 
-Sous-directeur du sauvetage, de la navigation et du contrôle |
+Sous-directeur du sauvetage, de la navigation et de la protection du littoral |
+
+Sous-directeur du contrôle des activités maritimes |
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 20 août 2026 (NOR : TECK2616066A), les agents publics qui occupent, à la date de publication de l'arrêté précité, l'un des emplois mentionnés aux articles 1er et 2 dudit arrêté, et qui n'ont pas transmis de déclaration de situation patrimoniale lors de leur nomination, effectuent cette transmission dans un délai de six mois à compter de cette date.
+
+Conformément à l'article 4 de l'arrêté du 20 août 2026 (NOR : TECK2616066A), les agents publics mentionnés à l'article 3 dudit arrêté, qui n'ont pas transmis de déclaration d'intérêts lors de leur nomination, effectuent cette transmission dans le même délai que celui prévu à cet article.
