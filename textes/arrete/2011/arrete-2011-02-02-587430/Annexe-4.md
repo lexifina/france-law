@@ -26,13 +26,11 @@ AEMI |
 
 ALPHATRON MARINE FRANCE |
 
-1710, Chemin de la Plaine -
+1710, chemin de la Plaine -
 
 06250 Mougins |
 
-- Em-track A 100 Combined Class A
-
-/ Inland AIS Transceiver (R-4-308)
+- Em-track A 100 Combined Class A / Inland AIS Transceiver (R-4-308)
 
 - A200 Combined Class A / inland AIS Transceiver (R-4-316)
 
@@ -80,7 +78,7 @@ CLAUDIN SERVICES
 
 VAL DE SAONE |
 
-41, avenue Henri Barbusse -
+41, avenue Henri-Barbusse -
 
 69250 Albigny-sur-Saône |
 
@@ -92,7 +90,7 @@ ELECTRO'NAUTIC |
 
 Centre d'affaires Agde Capitole
 
-1, boulevard Jean Monnet
+1, boulevard Jean-Monnet
 
 34300 Agde |
 
@@ -130,41 +128,61 @@ ENTCO |
 
 11 |
 
-FLUVIAL ELEC |
+FLEDELEC62 |
 
-4, Quai Fernand Saguet -
+132, rue Edmond-de-Palezieux
 
-94700 Maisons Alfort |
+62224 Equihen-Plage |
 
-- OceanSat Combined Class A/Inland AIS Transceiver (R-4-209) (*)
+- NAUTICAST Inland AIS (R-4-203) (*)
 
-- Em-track A 100 Combined Class A
+- ComNav Voyager X3 Combined Class A / Inland AIS Transceiver (R-4-212) (*)
 
-/ Inland AIS Transceiver (R-4-308)
+- - VDL 6000 AIS Class A / Inland AIS Transponder (R-4-219) (*)
+
+- Nauticast A2 Inland AIS (R-4-222) (*)
+
+- Nauticast A2 Inland AIS Transponder (R-4-305)
 
 - A200 Combined Class A / inland AIS Transceiver (R-4-316) |
 
 12 |
 
+FLUVIAL ELEC |
+
+4, quai Fernand-Saguet -
+
+94700 Maisons Alfort |
+
+- OceanSat Combined Class A/Inland AIS Transceiver (R-4-209) (*)
+
+- Em-track A 100 Combined Class A / Inland AIS Transceiver (R-4-308)
+
+- A200 Combined Class A / inland AIS Transceiver (R-4-316) |
+
+13 |
+
 FURUNO FRANCE |
 
 Zone industrielle du Phare -
 
-Rue Laplace - 33700 Mérignac |
+Rue Laplace -
+
+33700 Mérignac |
 
 - FA-170 Class A/Inland AIS (R-4-314) |
 
-13 |
+14 |
 
 H2O |
 
 Port de plaisance -
 
-21170 Saint Jean de Losne |
+21170 Saint-Jean-de-Losne |
 
 - AIS 950 Combined Class A/Inland AIS Transceiver (R-4-311) |
 
-14 |
+15 |
 
 HEXA MARINE |
 
@@ -174,7 +192,7 @@ HEXA MARINE |
 
 - A200 Combined Class A / inland AIS Transceiver (R-4-316) |
 
-15 |
+16 |
 
 LORRAINE NAUTISME |
 
@@ -182,11 +200,11 @@ LORRAINE NAUTISME |
 
 - Orolia type Z601, Mc Murdo Smartfind M5 Class A/Inland AIS (R-4-301) |
 
-16 |
+17 |
 
 MAP Marine |
 
-1, Quai de la Grande Bigue -
+1, quai de la Grande-Bigue -
 
 Bat. B - Port autonome de Marseille - Porte 2C -
 
@@ -200,7 +218,7 @@ Bat. B - Port autonome de Marseille - Porte 2C -
 
 - Comnav |
 
-17 |
+18 |
 
 MAX GUERDIN ET SES FILS |
 
@@ -210,13 +228,11 @@ MAX GUERDIN ET SES FILS |
 
 - OceanSat Combined Class A / Inland AIS Transceiver (R-4-209) (*)
 
-- Em-trak A 100 Combined Class A
-
-/ Inland AIS Transceiver (R-4-308)
+- Em-trak A 100 Combined Class A / Inland AIS Transceiver (R-4-308)
 
 - A200 Combined Class A / inland AIS Transceiver (R-4-316) |
 
-18 |
+19 |
 
 NAUTOR VILLEFRANCHE |
 
@@ -228,11 +244,11 @@ Quartier La Darse - BP 33 -
 
 - SIMRAD V5035 Class A / Inland AIS (R-4-303) |
 
-19 |
+20 |
 
 PROMAT SECURITE |
 
-68, boulevard Jules Durand -
+68, boulevard Jules-Durand -
 
 76056 Le Havre |
 
@@ -242,11 +258,11 @@ PROMAT SECURITE |
 
 - A200 Combined Class A / Inland AIS Transceiver (R-4-316) |
 
-20 |
+21 |
 
 RADIO HOLLAND FRANCE |
 
-21, rue Paul Verlaine -
+21, rue Paul-Verlaine -
 
 76700 Harfleur |
 
@@ -270,7 +286,7 @@ RADIO HOLLAND FRANCE |
 
 - Tron AIS TR-8000 MkII Class A / Inland AIS Transceiver (e-1-400/R-1-400) |
 
-21 |
+22 |
 
 RADIO NAVIGATION |
 
@@ -280,7 +296,7 @@ RADIO NAVIGATION |
 
 - SIMRAD V5035 Class A / Inland AIS (R-4-303) |
 
-22 |
+23 |
 
 SIECMI |
 
@@ -294,11 +310,11 @@ SIECMI |
 
 - SRT Comnav Voyager X3 |
 
-23 |
+24 |
 
 SUD COMMUNICATION |
 
-317, rue Antoine de Saint Exupéry -
+317, rue Antoine-de-Saint-Exupéry -
 
 Espace Fréjorgues Ouest -
 
@@ -308,7 +324,7 @@ Espace Fréjorgues Ouest -
 
 - KAT330 Combined Class A/Inland AIS Transceiver (R-4-317) |
 
-24 |
+25 |
 
 SUD MAINTENANCE |
 
@@ -320,7 +336,7 @@ ZI Portuaire -
 
 - A200 Combined Class A / inland AIS Transceiver (R-4-316) |
 
-25 |
+26 |
 
 THEMYS |
 
@@ -336,4 +352,4 @@ CD 45 - Pont de l'Etoile -
 
 - Sailor 6280/6281 AIS System Class A/Inland AIS (R-4-302) |
 
-(*) Certains types d'appareils n'ont pas reçu d'agrément conformément au règlement de visite des bateaux du Rhin. Le montage des appareils AIS intérieur dont la réception par type est basée sur l'édition 1.0 et 1.01 du Standard d'essai de la CCNR n'est plus autorisé à compter du 1er novembre 2015. L'utilisation et la réparation de ces appareils demeurent autorisées au-delà de cette date.
+(*) Certains types d'appareils n'ont pas reçu d'agrément conformément au règlement de visite des bateaux du Rhin. Le montage des appareils AIS Intérieur dont la réception par type est basée sur l'édition 1.0 et 1.01 du Standard d'essai de la CCNR n'est plus autorisé à compter du 1er novembre 2015. L'utilisation et la réparation de ces appareils demeurent autorisées au-delà de cette date.

@@ -1,7 +1,5 @@
 # Article Annexe 3
 
-ANNEXE 3
-
 LISTE DES SOCIÉTÉS INSTALLATRICES HABILITÉES POUR L'INSTALLATION ET LE CONTRÔLE DE FONCTIONNEMENT DES APPAREILS RADAR ET DES INDICATEURS DE VITESSE DE GIRATION
 
 |
@@ -10,15 +8,17 @@ SOCIÉTÉ |
 
 ADRESSE |
 
-APPAREILS AGRÉÉS
+APPAREILS AGRÉÉS POUR LESQUELS
 
-pour lesquels la société reçoit l'habilitation |
+la société reçoit l'habilitation |
 
 1 |
 
 AEMI |
 
-8, rue des Compagnons - 14000 Caen |
+8, rue des Compagnons -
+
+14000 Caen |
 
 Appareils radar :
 
@@ -32,7 +32,7 @@ Simrad |
 
 ALPHATRON MARINE FRANCE |
 
-1710, Chemin de la Plaine -
+1710, chemin de la Plaine -
 
 06250 Mougins |
 
@@ -124,15 +124,51 @@ EBF 01a/Basicturn (R-4-094) ;
 
 EBF Kombipilot/Alphatron-Basictriple (R-4-095) ;
 
-AlphaTurn (River) MFM / MFL 90°/min, 300°/min + EBF01a (e-01-086)
+AlphaTurn (River) MFM / MFL 90°/min, 300°/min + EBF01a (e-01-086) ;
 
-NEXO D-70 (e-04-102)
+NEXO D-70 (e-04-102) ;
 
-NEXO D-100 (e-04-103)
+NEXO D-100 (e-04-103) ;
 
 NEXO D-57 (e-04-104) |
 
 5 |
+
+FLEDELEC62 |
+
+132, rue Edmond de Palezieux
+
+62224 Equihen-Plage |
+
+Appareils radar :
+
+JFS-364 / JFS 364 C (R-4-002) ;
+
+JRC JMA-610 6/ 7 /9 (R-4-015) ;
+
+Swiss Radar Precision Navigator II (R-4-018/e-01-018) ;
+
+Furuno RHRS-2024 (e-01-025) ;
+
+JMR-611 (e-01-024) ;
+
+JMA-609 /7, /9 (R-4-011)
+
+Indicateurs de vitesse de giration :
+
+Alphaturn MF (R-4-092) ;
+
+Alphaturn 90° MC / Alphaturn 300° MC (R-4-093) ;
+
+EBF 01A/BASICTURN (R-4-094) ;
+
+EBF Kombipilot/Alphatron-Basictriple (R-4-095) ;
+
+Alphatriopilot MF 90°/min +EBF01A (R-1-088) ;
+
+AlphaTurn (River) MFM / MFL 90°/min, 300°/min + EBF01a (e-01-086) |
+
+6 |
 
 HEXA MARINE |
 
@@ -154,7 +190,7 @@ EBF Kombipilot/Alphatron-Basictriple (R-4-095) ;
 
 AlphaTurn (River) MFM / MFL 90°/min, 300°/min + EBF01a (e-01-086) |
 
-6 |
+7 |
 
 MAP Marine |
 
@@ -168,11 +204,11 @@ Indicateurs de vitesse de giration :
 
 Radio Zeeland |
 
-7 |
+8 |
 
 PROMAT SÉCURITÉ |
 
-68, boulevard Jules Durand -
+68, boulevard Jules-Durand -
 
 76056 Le Havre |
 
@@ -188,11 +224,11 @@ Indicateurs de vitesse de giration :
 
 AlphaTurn (River) MFM / MFL 90°/min 300°/min + EBF01a (e-01-086) |
 
-8 |
+9 |
 
 RADIO HOLLAND FRANCE |
 
-21, rue Paul Verlaine -
+21, rue Paul-Verlaine -
 
 76700 Harfleur |
 
@@ -234,7 +270,7 @@ Titan 500 90°/min 270°/min + S300 (e-01-084) ;
 
 Titan 1000 90°/min 300°/min + S300 (e-01-083) |
 
-9 |
+10 |
 
 SIECMI |
 
@@ -250,7 +286,7 @@ Indicateurs de vitesse de giration :
 
 Radio Holland ; Radio Zeeland ; Alphatron |
 
-10 |
+11 |
 
 THEMYS |
 
