@@ -17,3 +17,15 @@ Section Xeuilley-Vittel de la ligne 14 de la Région Grand Est comprenant les se
 -PK 94 + 156 à PK 98 + 373 de la ligne 030000
 
 -PK 87 + 829 à PK 070 + 50 de la ligne 035000 |
+
+SNCF Réseau
+
+|
+
+Sections des lignes 169000 entre la gare de Sarralbe et l'accès à la gare de Kalhausen, 168000 et 097000 indiquées dans la colonne suivante |
+
+PK 0+400 à PK 7+985 de la ligne 169000
+
+PK 26+150 à PK 27+600 de la ligne 168000
+
+PK 78+825 à PK 82+500 de la ligne 097000 |
