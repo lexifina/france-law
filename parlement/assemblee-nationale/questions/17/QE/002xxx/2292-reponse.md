@@ -1,0 +1,9 @@
+# Réponse à la question n° 2292
+
+- Question : [2292](2292.md) — Question n° 2292 — Défaillance de la procédure d'affectation des Padhue
+
+## Réponse
+
+*JO du 2026-08-25, page 7699*
+
+Concernant les évolutions statuaires des Praticiens diplômés hors Union européenne (PADHUE), le décret n° 2024-1191 du 19 décembre 2024 relatif aux modalités de délivrance de l'attestation permettant un exercice provisoire mentionnée aux articles L. 4111-2-1 et L. 4221-12-1 du code de la santé publique, a créé une Autorisation d'exercice provisoire (AEP) d'une durée de treize mois renouvelable une fois, permettant aux PADHUE, après dépôt d'un dossier sur démarche simplifiée, examiné par une commission, d'exercer régulièrement la profession de médecin, de pharmacien, de chirurgien-dentiste ou de sage-femme. L'obtention de cette autorisation permet aux praticiens d'accéder au statut de Praticien associé contractuel temporaire (PACT), plus rémunérateur que les statuts de stagiaire associé ou de faisant fonction d'interne, tel que prévu par le décret n° 2024-1190 du 19 décembre 2024 relatif aux praticiens associés contractuels temporaires. Ainsi, les PADHUE ayant échoué aux Epreuves de vérification des connaissances (EVC) ne sont pas contraints à régresser vers les statuts de « faisant fonction d'interne » ou de « stagiaire associé », mais peuvent accéder au statut PACT en déposant une demande d'AEP. D'autre part, les postes offerts aux EVC sont sélectionnés par les agences régionales de santé, sur le fondement d'un recensement auprès des établissements de leur ressort territorial. Afin de faciliter l'affectation des PADHUE et de tenir compte de leurs souhaits et contraintes professionnelles et personnelles, certaines spécialités offrent plus de postes que de lauréats, ce qui peut effectivement entraîner la vacance de poste. Les établissements dans cette situation peuvent donc recruter des PADHUE via l'AEP susmentionnée.
