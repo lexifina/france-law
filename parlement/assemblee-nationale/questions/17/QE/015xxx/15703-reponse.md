@@ -1,0 +1,9 @@
+# Réponse à la question n° 15703
+
+- Question : [15703](15703.md) — Question n° 15703 — Renouvellement des trains de nuit et égalité entre les territoires
+
+## Réponse
+
+*JO du 2026-08-25, page 7734*
+
+L'appel d'offre lancé par l'État le 18 février 2025 s'adresse à des loueurs de matériel roulant ferroviaire et contient deux lots. Un premier lot concerne la location de voitures de trains de nuit neuves homologuées en France, dont la tranche ferme prévoit 180 voitures. Le deuxième lot concerne la location de 27 locomotives bi-modes, électriques et diesel, en tranche ferme. Les deux lots possèdent des tranches optionnelles permettant de réaliser une exploitation de 10 lignes de trains de nuit. Les offres finales des candidats sont attendus au cours de l'été 2026, afin de pouvoir notifier le marché d'ici la fin d'année 2026, une fois le candidat retenu et les contrats finalisés. Le calendrier de livraison faisant partie des critères de notation des offres, il ne sera possible de fournir cette information qu'à la signature du contrat avec le loueur. La répartition des voitures entre les différentes lignes n'est pas fixée à date, mais les hypothèses de dimensionnement ont tenu compte des capacités actuelles des trains. Aussi, chaque ligne disposera de l'ensemble des classes de confort afin de répondre à un enjeu d'égalité d'accès pour les territoires. La répartition fine des voitures, et les compositions associées seront discutées avec les futurs exploitants. Le matériel roulant actuel devra assurer la continuité de service avant l'arrivée du nouveau matériel. Dès que le calendrier de livraison des nouvelles rames sera connu, il sera alors nécessaire de travailler avec l'exploitant actuel, SNCF Voyageurs, afin de s'assurer que le matériel actuel puisse continuer à desservir l'ensemble des territoires irrigués par les lignes de trains de nuit dans les meilleures conditions possibles, sans rupture de service, ni baisse en qualité.
