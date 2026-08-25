@@ -1,0 +1,9 @@
+# Réponse à la question n° 10542
+
+- Question : [10542](10542.md) — Question n° 10542 — Révision des zonages liés à la DNC pour les troupeaux vaccinés
+
+## Réponse
+
+*JO du 2026-08-25, page 7660*
+
+La dermatose nodulaire contagieuse (DNC) est une maladie virale des bovins, catégorisée ADE par l'Union européenne (UE) (règlement UE 2016/429 et actes associés). Cela implique l'application de mesures sanitaires strictes et obligatoires, incluant l'abattage total des troupeaux infectés, afin d'éviter une propagation incontrôlée du virus sur le territoire. Transmise par des insectes vecteurs (taons et mouches piqueuses), la DNC entraîne des pertes économiques importantes pour les éleveurs dont les troupeaux sont touchés par la maladie, mais aussi pour les éleveurs des zones réglementées autour des foyers qui subissent des restrictions aux mouvements. Bien que non transmissible à l'Homme, son éradication est donc une priorité absolue pour préserver la santé animale et la filière bovine française. Depuis son émergence en France en juin 2025, l'État a mis en œuvre une stratégie d'éradication de la DNC alignée sur les normes européennes. La stratégie française validée par le comité national d'orientation de la politique sanitaire animale et végétale dès le 16 juillet 2025 combine : - dépeuplement des unités épidémiologiques infectées ; - vaccination massive et obligatoire dans les zones réglementées ; - biosécurité, avec restrictions aux mouvements des animaux en zones réglementées. Il est important de préciser que les trois pays de l'UE touchés depuis l'été 2025 appliquent la même stratégie fondée sur ces trois piliers. Concernant les mouvements des bovins issus d'une zone réglementée ou d'une zone vaccinale, une instruction technique précise spécifiquement toutes les conditions en fonction des cas de figure : instruction DGAL/SDSBEA/2026-173.
