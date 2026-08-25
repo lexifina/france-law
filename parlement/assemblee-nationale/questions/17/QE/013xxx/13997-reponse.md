@@ -1,0 +1,9 @@
+# Réponse à la question n° 13997
+
+- Question : [13997](13997.md) — Question n° 13997 — Mesures face au ski hors-piste lors d'alertes avalanche fortes
+
+## Réponse
+
+*JO du 2026-08-25, page 7728*
+
+Les services de la direction des sports (DS) ont été attentifs aux événements intervenus cet hiver et ont sollicité l'appui des professionnels de la montagne comme relais des messages de prévention auprès des usagers, en particulier lorsque les conditions de risque étaient élevées. Un message dédié a été diffusé aux SDJES (services départementaux à la jeunesse, à l'engagement et aux sports) via le portail de déclaration des éducateurs sportifs (EME) et peut l'être autant que nécessaire. La DS peut également s'appuyer sur les centres d'enseignement agréés, partenaires de l'État dans le champ de la formation, pour relayer les bonnes pratiques auprès des professionnels, des stagiaires en formation et plus largement des pratiquants. Dans la continuité des politiques de prévention des risques du ministère chargé des sports, la DS a initié la campagne RISKI (https://www.savoie.gouv.fr/Actualites/Actualites/RISKI-la-nouvelle-campagne-nationale-de-prevention-des-accidents-sur-les-domaines-skiables) dont les messages sont, à ce jour, principalement orientés vers la prévention des accidents sur les domaines skiables. L'échelle européenne du danger d'avalanche de 1 à 5 n'est pas toujours bien appréhendée par le grand public. Le niveau 3, « marqué », correspond déjà à une situation critique pour les pratiquants, et le niveau 4, « fort », à une situation très critique (la plus élevée pour le pratiquant), avec des déclenchements probables et/ou spontanés dans toutes les pentes supérieures à 30°. Les SDJES des territoires de montagne et enneigés, soit plus d'une vingtaine de services concernés, sont fortement mobilisés et mènent des actions de prévention continues, en lien avec les acteurs locaux et les professionnels.
