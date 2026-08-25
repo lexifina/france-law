@@ -1,0 +1,9 @@
+# Réponse à la question n° 11612
+
+- Question : [11612](11612.md) — Question n° 11612 — Accès au rapport du dispositif SI Honorabilité
+
+## Réponse
+
+*JO du 2026-08-25, page 7725*
+
+Dans le cadre de la politique de lutte contre les violences dans le sport, notamment les violences à caractère sexuel, le contrôle d'honorabilité des bénévoles a été généralisé pour les éducateurs sportifs, les dirigeants et les arbitres licenciés auprès des fédérations sportives agréées par le ministère chargé des sports. Chaque saison sportive, les fédérations sportives sont dans l'obligation de relever l'identité complète de tous leurs bénévoles licenciés et de la communiquer à la direction des sports, en vue du traitement dématérialisé des données par le système d'information « SI-Honorabilité » créé à cet effet. Cette procédure permet un contrôle automatisé du fichier judiciaire automatisé des auteurs d'infractions sexuelles ou violentes (FIJAISV), ainsi que du ficher des cadres interdits sport (CADINT). Les articles L. 212-9, L. 212-1 et L. 322-1 du code du sport prévoient que les activités d'encadrement sont interdites aux personnes qui ont fait l'objet d'une condamnation pour crime ou certains délits. Parmi les 4,8 millions de contrôles des antécédents judiciaires effectués depuis septembre 2021, 1 000 personnes ont fait l'objet d'une mesure administrative d'éloignement des publics. Ce constat, accablant, témoigne d'une libération de la parole et d'une vigilance renforcée. En 2019, une expérimentation en Centre-Val de Loire avec la Fédération française de football (FFF) avait permis de tester le dispositif qui a ensuite été généralisé. Un rapport a été réalisé en juillet 2020 par la direction régionale et départementale de la jeunesse, des sports et de la cohésion sociale du Centre-Val de Loire sur cette expérimentation.
