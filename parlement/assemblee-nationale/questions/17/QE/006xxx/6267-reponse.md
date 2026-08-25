@@ -1,0 +1,9 @@
+# Réponse à la question n° 6267
+
+- Question : [6267](6267.md) — Question n° 6267 — Indicateurs du rapport social unique des centres hospitaliers
+
+## Réponse
+
+*JO du 2026-08-25, page 7707*
+
+Créé par la loi n° 2019-828 du 6 août 2019 de transformation de la fonction publique, le rapport social unique a vocation à rassembler les éléments et données à partir desquels sont établies les lignes directrices de gestion et permettant de déterminer la stratégie pluriannuelle de pilotage des ressources humaines dans chaque administration, collectivité territoriale et établissement public. Dès sa création, il embrasse un large champ de thématiques allant de la gestion prévisionnelle des effectifs, des emplois et des compétences à l'amélioration des conditions et de la qualité de vie au travail en passant notamment par les parcours professionnels, les recrutements, la formation, les promotions, la rémunération, l'égalité professionnelle ou la diversité. L'ensemble de ces thématiques a été repris dans un décret commun aux trois versants de la fonction publique désormais codifié aux articles R. 231-1 à R. 232-8 du code général de la fonction publique. Le champ très large des données attendues pour la constitution du rapport social unique a conduit à la publication de l'arrêté du 28 avril 2022 qui fixe pour la fonction publique hospitalière la liste des indicateurs contenus dans la base de données sociales. La mise en œuvre de ces dispositions pose cependant quelques difficultés aux établissements de santé et aux établissements sociaux et médico-sociaux. Une réflexion est ainsi engagée avec les acteurs dans le triple objectif de fusionner certains indicateurs, de vérifier leur pertinence pour le pilotage des ressources humaines au sein des établissements et de mieux définir les attendus de chaque indicateur afin de faciliter les travaux des services en charge de leur collecte.
