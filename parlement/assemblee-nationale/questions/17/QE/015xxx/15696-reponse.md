@@ -1,0 +1,9 @@
+# Réponse à la question n° 15696
+
+- Question : [15696](15696.md) — Question n° 15696 — Pour un blocage des prix des produits essentiels de santé sexuelle
+
+## Réponse
+
+*JO du 2026-08-25, page 7722*
+
+Le Gouvernement partage pleinement la vigilance exprimée quant aux conséquences que les tensions géopolitiques récentes peuvent faire peser sur l'approvisionnement en matières premières et sur le coût de fabrication des dispositifs médicaux. À ce stade, ces tensions ne se traduisent pas, en France, par des ruptures d'approvisionnement, mais elles font l'objet d'un suivi rapproché par les services de l'État, en lien avec les opérateurs économiques et les agences sanitaires. Par ailleurs, plusieurs leviers sont d'ores et déjà activés pour sécuriser les approvisionnements : - un dialogue renforcé avec les industriels et les distributeurs afin d'anticiper les tensions et d'éviter toute rupture ; - la diversification des sources d'approvisionnement au niveau européen. Le Gouvernement est particulièrement attentif à la préservation de l'accessibilité économique des préservatifs, qui constituent un levier fondamental de la politique de santé sexuelle, tant pour la prévention des infections sexuellement transmissibles que dans un objectif de contraception. S'agissant de la régulation des prix, le Gouvernement rappelle que le recours aux dispositions de l'article L. 410-2 du code de commerce constitue un outil exceptionnel, mobilisable en cas de dérive avérée ou de dysfonctionnement caractérisé du marché. À ce stade, aucune augmentation excessive ou spéculative des prix sur le territoire national n'est constatée. Le Gouvernement demeurera pleinement mobilisé pour anticiper toute dégradation de la situation et prendre, le cas échéant, les mesures nécessaires afin de garantir, sur l'ensemble du territoire, l'accès effectif aux préservatifs, dans des conditions compatibles avec les impératifs de santé publique.
