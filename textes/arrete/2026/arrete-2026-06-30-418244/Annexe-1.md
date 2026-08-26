@@ -10,7 +10,7 @@ Domaine de recherche |
 
 Université d'Aix-Marseille |
 
-5 |
+5
 
 |
 
@@ -18,31 +18,43 @@ Université d'Aix-Marseille |
 
 |
 
-Neurodéveloppement : du normal au pathologique |
+|
+
+Neurodéveloppement : du normal au pathologique
 
 |
 
 |
 
-Evaluation des politiques publiques et analyse des institutions de l'action publique. |
+|
+
+Evaluation des politiques publiques et analyse des institutions de l'action publique.
 
 |
 
 |
 
-Récits, imaginaires et transitions socio-écologiques du travail en Europe et en Méditerranée |
+|
+
+Récits, imaginaires et transitions socio-écologiques du travail en Europe et en Méditerranée
 
 |
 
 |
 
-Analyse des changements socio-environnementaux pour une stratégie de transition |
+|
+
+Analyse des changements socio-environnementaux pour une stratégie de transition
 
 |
 
 |
 
-Sciences et Société : l'impact des nouvelles technologies |
+|
+
+Sciences et Société : l'impact des nouvelles technologies
+
+|
 
 Ecole Centrale de Marseille |
 
@@ -54,13 +66,17 @@ Ecole Centrale de Marseille |
 
 |
 
-Technique et ingénierie à l'aune des enjeux de la redirection écologique |
+Technique et ingénierie à l'aune des enjeux de la redirection écologique
 
 |
 
 |
 
-Mathématiques Aux Interfaces de la mécanique et Applications |
+|
+
+Mathématiques Aux Interfaces de la mécanique et Applications
+
+|
 
 Université d'Artois |
 
@@ -72,7 +88,9 @@ Université d'Artois |
 
 |
 
-IA hybride |
+IA hybride
+
+|
 
 Université Bretagne Sud |
 
@@ -84,7 +102,9 @@ Université Bretagne Sud |
 
 |
 
-Ecologie et Conservation des Ecosystèmes Côtiers : Services Ecosystémiques et Résilience face aux Pressions Anthropiques |
+Ecologie et Conservation des Ecosystèmes Côtiers : Services Ecosystémiques et Résilience face aux Pressions Anthropiques
+
+|
 
 CY Cergy Paris Université |
 
@@ -96,13 +116,17 @@ CY Cergy Paris Université |
 
 |
 
-Migrations et politiques de citoyenneté : approches comparée |
+Migrations et politiques de citoyenneté : approches comparée
 
 |
 
 |
 
-Probabilités et interactions |
+|
+
+Probabilités et interactions
+
+|
 
 Université du Havre |
 
@@ -114,13 +138,17 @@ Université du Havre |
 
 |
 
-BIOSEANTIS - De l'inventaire biologique au diagnostic fonctionnel de la santé des écosystèmes marins et estuariens soumis aux pressions industrialo-portuaires |
+BIOSEANTIS - De l'inventaire biologique au diagnostic fonctionnel de la santé des écosystèmes marins et estuariens soumis aux pressions industrialo-portuaires
 
 |
 
 |
 
-MARISCA Systèmes maritimes et portuaires face aux crises cumulatives et à l'adaptation) |
+|
+
+MARISCA Systèmes maritimes et portuaires face aux crises cumulatives et à l'adaptation)
+
+|
 
 Université de Lille |
 
@@ -132,7 +160,9 @@ Université de Lille |
 
 |
 
-Régulation juridique des questions de défense dans un contexte de mutations géopolitiques et technologiques |
+Régulation juridique des questions de défense dans un contexte de mutations géopolitiques et technologiques
+
+|
 
 Université du Littoral |
 
@@ -144,17 +174,21 @@ Université du Littoral |
 
 |
 
-Optimisation à haute résolution de la prévision atmosphérique pour l'éolien par Intelligence Artificielle |
+Optimisation à haute résolution de la prévision atmosphérique pour l'éolien par Intelligence Artificielle
 
 |
 
 |
 
-Monitoring de l'évolution du littoral en contexte de réchauffement climatique : de l'observation à la modélisation |
+|
+
+Monitoring de l'évolution du littoral en contexte de réchauffement climatique : de l'observation à la modélisation
+
+|
 
 Université Lyon-I |
 
-2 |
+2
 
 |
 
@@ -162,17 +196,9 @@ Université Lyon-I |
 
 |
 
-Intelligence artificielle pour la modélisation des matériaux vers une gestion responsable de l'énergie |
-
 |
 
-|
-
-Applications neurologiques des ultrasons |
-
-Ecole centrale de Lyon |
-
-1 |
+Intelligence artificielle pour la modélisation des matériaux vers une gestion responsable de l'énergie
 
 |
 
@@ -180,11 +206,15 @@ Ecole centrale de Lyon |
 
 |
 
-Apprentissage pour un contrôle partagé humain/IA |
+Applications neurologiques des ultrasons
 
-Université de Mulhouse |
+|
 
-1 |
+Ecole centrale de Lyon
+
+|
+
+1
 
 |
 
@@ -192,11 +222,15 @@ Université de Mulhouse |
 
 |
 
-Approches hybrides en IA pour l'optimisation et la conception de nouveaux matériaux |
+|
+
+Apprentissage pour un contrôle partagé humain/IA
+
+|
 
 Université Marie et Louis Pasteur |
 
-1 |
+1
 
 |
 
@@ -204,9 +238,15 @@ Université Marie et Louis Pasteur |
 
 |
 
-Ecologie des maladies infectieuses (émergentes et ré-émergentes) dans le contexte des changements globaux |
+|
 
-Université Paris-Saclay |
+Ecologie des maladies infectieuses (émergentes et ré-émergentes) dans le contexte des changements globaux
+
+|
+
+Université Paris-Saclay
+
+|
 
 7 |
 
@@ -216,47 +256,7 @@ Université Paris-Saclay |
 
 |
 
-Cryogénie Avancée pour les Réseaux Electriques Décarbonés (CARED) |
-
-|
-
-|
-
-Géométrie riemannienne et analyse sur les variétés |
-
-|
-
-|
-
-Robots frugaux et cognitifs centrés humains pour l'assemblage et l'industrie 5.0 |
-
-|
-
-|
-
-CCN@Saclay : Neurosciences cognitives computationnelles à Saclay |
-
-|
-
-|
-
-Edition des génomes végétaux pour l'accompagnement de nouveaux systèmes de cultures et de produits ou services |
-
-|
-
-|
-
-Décryptage du rôle des cellules immunitaires dans les cancers des jeunes adultes |
-
-|
-
-|
-
-Résilience des infrastructures critiques et optimisation |
-
-Université de Pau |
-
-1 |
+Géométrie riemannienne et analyse sur les variétés
 
 |
 
@@ -264,11 +264,7 @@ Université de Pau |
 
 |
 
-Modélisation, Simulation et Optimisation |
-
-Université de Poitiers |
-
-1 |
+Décryptage du rôle des cellules immunitaires dans les cancers des jeunes adultes
 
 |
 
@@ -276,11 +272,83 @@ Université de Poitiers |
 
 |
 
-Contributions des interactions hôte-pathogène aux études PK/PD des antimicrobiens |
+CCN@Saclay : Neurosciences cognitives computationnelles à Saclay
+
+|
+
+(Centrale Supélec)
+
+|
+
+|
+
+Cryogénie Avancée pour les Réseaux Électriques Décarbonés (CARED)
+
+|
+
+|
+
+|
+
+Résilience des infrastructures critiques et optimisation
+
+|
+
+(Ecole normale supérieure Paris Saclay) |
+
+|
+
+Robots frugaux et cognitifs centrés humains pour l'assemblage et l'industrie 5.0
+
+|
+
+(AgroParisTech) |
+
+|
+
+Edition des génomes végétaux pour l'accompagnement de nouveaux systèmes de cultures et de produits ou services
+
+|
+
+Université de Pau
+
+|
+
+1
+
+|
+
+|
+
+|
+
+|
+
+Modélisation, Simulation et Optimisation
+
+|
+
+Université de Poitiers
+
+|
+
+1
+
+|
+
+|
+
+|
+
+|
+
+Contributions des interactions hôte-pathogène aux études PK/PD des antimicrobiens
+
+|
 
 Université de Polynésie française |
 
-1 |
+1
 
 |
 
@@ -288,11 +356,15 @@ Université de Polynésie française |
 
 |
 
-Indo-Pasifika |
+|
+
+Indo-Pasifika
+
+|
 
 Université de Rennes |
 
-6 |
+6
 
 |
 
@@ -300,41 +372,55 @@ Université de Rennes |
 
 |
 
-Fabrication additive de scaffolds souples à base de verre bioactif et de microvésicules pour les fentes oro-faciales. |
+|
+
+Fabrication additive de scaffolds souples à base de verre bioactif et de microvésicules pour les fentes oro-faciales.
 
 |
 
 |
 
-Jumeaux numériques et modèles prédictifs pour une thérapie personnalisée du patient |
+|
+
+Jumeaux numériques et modèles prédictifs pour une thérapie personnalisée du patient
 
 |
 
 |
 
-Géoressources : modélisation prédictive et enjeux sociétaux |
+|
+
+Géoressources : modélisation prédictive et enjeux sociétaux
 
 |
 
 |
 
-Changement climatique et arboviroses émergentes  : établissement de modèles expérimentaux prédictifs des modes de transmission non-vectoriels |
+|
+
+Changement climatique et arboviroses émergentes  : établissement de modèles expérimentaux prédictifs des modes de transmission non-vectoriels
 
 |
 
 |
 
-Surfaces électromagnétiques programmables et antennes intelligentes pour la connectivité du futur sobre en énergie |
+|
+
+Surfaces électromagnétiques programmables et antennes intelligentes pour la connectivité du futur sobre en énergie
 
 |
 
 |
 
-Matériaux quantiques pour une électronique durable |
+|
+
+Matériaux quantiques pour une électronique durable
+
+|
 
 Université de Rouen |
 
-3 |
+3
 
 |
 
@@ -342,21 +428,31 @@ Université de Rouen |
 
 |
 
-Chimie analytique et sciences des données omiques |
+|
+
+Chimie analytique et sciences des données omiques
 
 |
 
 |
 
-Droit du numérique et libertés fondamentales |
+|
+
+Droit du numérique et libertés fondamentales
 
 |
 
 |
 
-Neurobiologie centrale au sein de l'axe microbiote-intestin-cerveau |
+|
 
-Institut national des sciences appliquées de Strasbourg |
+Neurobiologie centrale au sein de l'axe microbiote-intestin-cerveau
+
+|
+
+Institut national des sciences appliquées de Strasbourg
+
+|
 
 1 |
 
@@ -366,11 +462,13 @@ Institut national des sciences appliquées de Strasbourg |
 
 |
 
-Algorithmes avancéS pour la Souveraineté EnergéTique |
+Algorithmes avancéS pour la Souveraineté EnergéTique
+
+|
 
 Université Toulouse Capitole |
 
-1 |
+1
 
 |
 
@@ -378,9 +476,15 @@ Université Toulouse Capitole |
 
 |
 
-Comptabilité et prise en compte du changement climatique |
+|
 
-Ecole d'économie et de sciences sociales quantitatives de Toulouse TSE (Université Capitole) |
+Comptabilité et prise en compte du changement climatique
+
+|
+
+Ecole d'économie et de sciences sociales quantitatives de Toulouse TSE (Université Capitole)
+
+|
 
 2 |
 
@@ -390,15 +494,21 @@ Ecole d'économie et de sciences sociales quantitatives de Toulouse TSE (Univers
 
 |
 
-Sciences cognitives quantitatives |
+Sciences cognitives quantitatives
 
 |
 
 |
 
-Processus non-linéaires |
+|
 
-Institut national des sciences appliquées de Toulouse |
+Processus non-linéaires
+
+|
+
+Institut national des sciences appliquées de Toulouse
+
+|
 
 1 |
 
@@ -408,11 +518,13 @@ Institut national des sciences appliquées de Toulouse |
 
 |
 
-Micro Mécanique & Matériaux numériques |
+Micro Mécanique & Matériaux numériques
+
+|
 
 Université Paris sciences et lettres (PSL) |
 
-5 |
+5
 
 |
 
@@ -420,37 +532,65 @@ Université Paris sciences et lettres (PSL) |
 
 |
 
-Information, économie, données et IA |
+|
+
+Information, économie, données et IA
 
 |
 
 |
 
-Intelligence artificielle et transformations économiques et sociales à une échelle globale |
+|
+
+Intelligence artificielle et transformations économiques et sociales à une échelle globale
 
 |
 
 |
 
-Techniques d'IA et apprentissage pour l'analyse et interprétation des données de caractérisation structurale des matériaux et de la matière molle |
+|
+
+Techniques d'IA et apprentissage pour l'analyse et interprétation des données de caractérisation structurale des matériaux et de la matière molle
 
 |
 
 |
 
-Apport des missions spatiales à la caractérisation des systèmes étoiles-(exo)planètes |
+|
+
+Apport des missions spatiales à la caractérisation des systèmes étoiles-(exo)planètes
 
 |
 
 |
 
-Soutenir une transition efficiente de la logistique par l'intelligence artificielle |
+|
 
-Total postes ouverts 2026 |
+Soutenir une transition efficiente de la logistique par l'intelligence artificielle
+
+|
+
+Total postes ouverts 2026
+
+|
 
 50 |
 
 |
+
+Université Paris Cité
+
+|
+
+1 |
+
+|
+
+|
+
+|
+
+Régulation du système immunitaire et métabolisme |
 
 2) Chaires de professeur junior ouvertes en 2026 pour l'accès aux corps de directeurs de recherche :
 
@@ -460,7 +600,9 @@ Nombre de contrats |
 
 Domaine de recherche |
 
-Institut national de recherche pour l'agriculture, l'alimentation et l'environnement (INRAE) |
+Institut national de recherche pour l'agriculture, l'alimentation et l'environnement (INRAE)
+
+|
 
 7 |
 
@@ -470,43 +612,57 @@ Institut national de recherche pour l'agriculture, l'alimentation et l'environne
 
 |
 
-Agroecosystem : Systèmes de grandes cultures résilients et performants face au changement climatique |
+Agroecosystem : Systèmes de grandes cultures résilients et performants face au changement climatique
 
 |
 
 |
 
-ALIMH : Nourrir un axe intestin-cerveau tout au long de la vie |
+|
+
+ALIMH : Nourrir un axe intestin-cerveau tout au long de la vie
 
 |
 
 |
 
-BAP : lntégration multi-échelle des données biologiques par des outils d'IA dans une démarche de biologie des systèmes pour l'adaptation du blé à la transition agroécologique et climatique |
+|
+
+BAP : lntégration multi-échelle des données biologiques par des outils d'IA dans une démarche de biologie des systèmes pour l'adaptation du blé à la transition agroécologique et climatique
 
 |
 
 |
 
-ECOSOCIO : Gouvernance et acceptabilité des politiques agricoles et environnementales |
+|
+
+ECOSOCIO : Gouvernance et acceptabilité des politiques agricoles et environnementales
 
 |
 
 |
 
-MATHNUM : Apprentissage profond (deep learning) pour la biologie moléculaire et cellulaire |
+|
+
+MATHNUM : Apprentissage profond (deep learning) pour la biologie moléculaire et cellulaire
 
 |
 
 |
 
-SA : Développement et exploitation synergiques de modèles biologiques organoïdes et numériques pour l'amélioration des combinaisons vaccinales contre les pathogènes respiratoires du porc |
+|
+
+SA : Développement et exploitation synergiques de modèles biologiques organoïdes et numériques pour l'amélioration des combinaisons vaccinales contre les pathogènes respiratoires du porc
 
 |
 
 |
 
-TRANSFORM : Contrôle des interactions biotiques et abiotiques pour l'innovation fromagère : indicateurs et capteurs pour un pilotage intelligent des procédés |
+|
+
+TRANSFORM : Contrôle des interactions biotiques et abiotiques pour l'innovation fromagère : indicateurs et capteurs pour un pilotage intelligent des procédés
+
+|
 
 Institut national de la santé et de la recherche médicale (INSERM) |
 
@@ -518,61 +674,81 @@ Institut national de la santé et de la recherche médicale (INSERM) |
 
 |
 
-Bioconvergence pour la santé : biologie synthétique intégrant l'IA |
+Bioconvergence pour la santé : biologie synthétique intégrant l'IA
 
 |
 
 |
 
-Régulation du système immunitaire |
+|
+
+Régulation du système immunitaire
 
 |
 
 |
 
-Immunophysiopathologie infectieuse en région insulaire tropicale |
+|
+
+Immunophysiopathologie infectieuse en région insulaire tropicale
 
 |
 
 |
 
-Obésité préconceptionnelle et développement de l'enfant |
+|
+
+Obésité préconceptionnelle et développement de l'enfant
 
 |
 
 |
 
-Du cœur au cerveau : vers des biomarqueurs et thérapies ciblées des dysfonctionnements cardio-neurovasculaires |
+|
+
+Du cœur au cerveau : vers des biomarqueurs et thérapies ciblées des dysfonctionnements cardio-neurovasculaires
 
 |
 
 |
 
-Immunothrombose et maladies cardiovasculaires : identification de cibles clés pour des thérapies innovantes |
+|
+
+Immunothrombose et maladies cardiovasculaires : identification de cibles clés pour des thérapies innovantes
 
 |
 
 |
 
-Matériaux chondro-instructifs et biofabrication extemporanée de greffons ostéogènes |
+|
+
+Matériaux chondro-instructifs et biofabrication extemporanée de greffons ostéogènes
 
 |
 
 |
 
-Développement de méthodes d'imagerie nanométrique pour la surveillance de processus physiopathologiques complexes |
+|
+
+Développement de méthodes d'imagerie nanométrique pour la surveillance de processus physiopathologiques complexes
 
 |
 
 |
 
-Imagerie en temps réel des cellules pour le phénotypage hautement dimensionnel du cancer |
+|
+
+Imagerie en temps réel des cellules pour le phénotypage hautement dimensionnel du cancer
 
 |
 
 |
 
-Génération et régénération cellulaire et tissulaire |
+|
+
+Génération et régénération cellulaire et tissulaire
+
+|
 
 Institut de recherche pour le développement (IRD) |
 
@@ -584,13 +760,17 @@ Institut de recherche pour le développement (IRD) |
 
 |
 
-COexistences, Savoirs et Santé en Milieux insulaires tropicaux - Océan Indien |
+COexistences, Savoirs et Santé en Milieux insulaires tropicaux - Océan Indien
 
 |
 
 |
 
-Processus écologiques et biogéochimiques de la dynamique des matières organiques dans les sols méditerranéens et tropicaux pour favoriser des agroécosystèmes durables |
+|
+
+Processus écologiques et biogéochimiques de la dynamique des matières organiques dans les sols méditerranéens et tropicaux pour favoriser des agroécosystèmes durables
+
+|
 
 Institut national de recherche en sciences et technologies du numérique (INRIA) |
 
@@ -602,7 +782,9 @@ Institut national de recherche en sciences et technologies du numérique (INRIA)
 
 |
 
-ENDOMIC-AI - Intelligence artificielle pour l'endotypage des maladies inflammatoires chroniques |
+ENDOMIC-AI - Intelligence artificielle pour l'endotypage des maladies inflammatoires chroniques
+
+|
 
 Centre national de la recherche scientifique (CNRS) |
 
@@ -614,259 +796,345 @@ Centre national de la recherche scientifique (CNRS) |
 
 |
 
-Contribution française pour l'Extremely Large Telescope |
+Contribution française pour l'Extremely Large Telescope
 
 |
 
 |
 
-L'impact de l'IA sur les transformations du travail |
+|
+
+L'impact de l'IA sur les transformations du travail
 
 |
 
 |
+
+|
+
+Nouvelle Précision et Nouvelles Frontières en Physique des Particules Théorique
 
-Nouvelle Précision et Nouvelles Frontières en Physique des Particules Théorique |
+|
 
 |
 
 |
+
+Epigénétique du destin cellulaire
 
-Epigénétique du destin cellulaire |
+|
 
 |
 
 |
 
-Probabilités |
+Probabilités
+
+|
 
 |
 
 |
 
-Théorie des nombres - Géométrie arithmétique |
+Théorie des nombres - Géométrie arithmétique
 
 |
 
 |
 
-Résilience Intégrée des Systèmes Littoraux en Transition : RiskLit |
+|
+
+Résilience Intégrée des Systèmes Littoraux en Transition : RiskLit
 
 |
 
 |
+
+|
+
+Langages de programmation et compilation
 
-Langages de programmation et compilation |
+|
 
 |
 
 |
 
-Mécanique et physique des matériaux sous environnement |
+Mécanique et physique des matériaux sous environnement
+
+|
 
 |
 
 |
 
-Violences de masse : expériences collectives et individuelles, processus mémoriels et justice transitionnelle |
+Violences de masse : expériences collectives et individuelles, processus mémoriels et justice transitionnelle
 
 |
 
 |
+
+|
+
+Neurocognition intégrative des céphalopodes
 
-Neurocognition intégrative des céphalopodes |
+|
 
 |
 
 |
+
+Comportements alimentaires et santé publique
 
-Comportements alimentaires et santé publique |
+|
 
 |
 
 |
 
-Extractivismes et transformations des socio-écosystèmes en contexte postcolonial (Asie-Pacifique) |
+Extractivismes et transformations des socio-écosystèmes en contexte postcolonial (Asie-Pacifique)
+
+|
 
 |
 
 |
 
-NeuroTechnologie et NeuroIngénierie |
+NeuroTechnologie et NeuroIngénierie
 
 |
 
 |
 
-Physique et Ingénierie des Matériaux et hétérostructures Epitaxiés : de la synthèse aux applications |
+|
+
+Physique et Ingénierie des Matériaux et hétérostructures Epitaxiés : de la synthèse aux applications
+
+|
 
 |
 
 |
 
-Exploration des ProceSsus chimiquEs atmosphériQues en chambre de simUlatiOn, et/ou développements de techniques Innovantes de détection d'espèces clés dans les transformations chimiques pour une meilleure compréhension des processus troposphériques dans un contexte d'anthropisation et de changement climAtique |
+Exploration des ProceSsus chimiquEs atmosphériQues en chambre de simUlatiOn, et/ou développements de techniques Innovantes de détection d'espèces clés dans les transformations chimiques pour une meilleure compréhension des processus troposphériques dans un contexte d'anthropisation et de changement climAtique
+
+|
 
 |
 
 |
 
-Adaptations écophysiologiques de la biodiversité aux variations environnementales |
+Adaptations écophysiologiques de la biodiversité aux variations environnementales
 
 |
 
 |
 
-Mécanismes cellulaires et moléculaires de la biologie et de la pathogénicité des parasites protozoaires |
+|
+
+Mécanismes cellulaires et moléculaires de la biologie et de la pathogénicité des parasites protozoaires
 
 |
 
 |
+
+|
+
+Chimie biologique appliquée à l'éco-/biocatalyse et environnement
 
-Chimie biologique appliquée à l'éco-/biocatalyse et environnement |
+|
 
 |
 
 |
 
-Physique expérimentale pour les matériaux amorphes |
+Physique expérimentale pour les matériaux amorphes
+
+|
 
 |
 
 |
 
-Modélisation et simulation avancées de systèmes quantiques moléculaires ou hybrides |
+Modélisation et simulation avancées de systèmes quantiques moléculaires ou hybrides
 
 |
 
 |
+
+|
+
+Transport subcellulaire neuronal et son rôle dans les troubles neuro-développementaux
 
-Transport subcellulaire neuronal et son rôle dans les troubles neuro-développementaux |
+|
 
 |
 
 |
+
+Apprentissage et cognition : approches biologiques et basées sur l'apprentissage artificiel
 
-Apprentissage et cognition : approches biologiques et basées sur l'apprentissage artificiel |
+|
 
 |
 
 |
 
-Dévoiler les mystères de l'Univers par l'analyse des observations des ondes gravitationnelles des observatoires actuels (Virgo) et à venir (LISA et Einstein Telescope) |
+Dévoiler les mystères de l'Univers par l'analyse des observations des ondes gravitationnelles des observatoires actuels (Virgo) et à venir (LISA et Einstein Telescope)
+
+|
 
 |
 
 |
 
-Physique et Instrumentation en Conditions Extrêmes |
+Physique et Instrumentation en Conditions Extrêmes
 
 |
 
 |
 
-Intermédiaires transitoires. Chimie résolue en temps |
+|
+
+Intermédiaires transitoires. Chimie résolue en temps
 
 |
 
 |
+
+|
+
+Expériences Innovantes sur les Nouvelles Sources Neutron Pulsées
 
-Expériences Innovantes sur les Nouvelles Sources Neutron Pulsées |
+|
 
 |
 
 |
+
+Nouvelles méthodologies et applications en chimie bioorthogonale et chémobiologie
 
-Nouvelles méthodologies et applications en chimie bioorthogonale et chémobiologie |
+|
 
 |
 
 |
 
-Mobilités - Inégalités -Transports : fabrique des politiques publiques pour des pratiques en transition. |
+Mobilités - Inégalités -Transports : fabrique des politiques publiques pour des pratiques en transition.
+
+|
 
 |
 
 |
 
-Zoonoses et migrations : études épidémiologiques de ce facteur de propagation In Natura |
+Zoonoses et migrations : études épidémiologiques de ce facteur de propagation In Natura
 
 |
 
 |
 
-Optimisation - fondement et analyse des algorithmes |
+|
+
+Optimisation - fondement et analyse des algorithmes
+
+|
 
 |
 
 |
 
-CMS ions lourds |
+CMS ions lourds
+
+|
 
 |
 
 |
 
-Inégalités éducatives précoces et développement cognitivo-moteur |
+Inégalités éducatives précoces et développement cognitivo-moteur
 
 |
 
 |
 
-Mécanismes adaptatifs et innovations évolutives des organismes photosynthétiques face à la diversité des environnements |
+|
+
+Mécanismes adaptatifs et innovations évolutives des organismes photosynthétiques face à la diversité des environnements
 
 |
 
 |
+
+|
+
+Dialogue entre cerveau et tissus périphériques pour le contrôle de l'homéostasie énergétique tout au long de la vie
 
-Dialogue entre cerveau et tissus périphériques pour le contrôle de l'homéostasie énergétique tout au long de la vie |
+|
 
 |
 
 |
 
-IA générative pour les preuves formelles |
+IA générative pour les preuves formelles
+
+|
 
 |
 
 |
 
-Instrumentation Novatrice pour la Physique du Higgs |
+Instrumentation Novatrice pour la Physique du Higgs
 
 |
 
 |
+
+|
+
+Véhicules et Systèmes Robotiques Autonomes
 
-Véhicules et Systèmes Robotiques Autonomes |
+|
 
 |
 
 |
+
+Acoustique
 
-Acoustique |
+|
 
 |
 
 |
 
-RMN du solide des Matériaux |
+RMN du solide des Matériaux
+
+|
 
 |
 
 |
 
-Inférence probabiliste fondée sur l'apprentissage et les IA génératives, appliquée à la génomique évolutive |
+Inférence probabiliste fondée sur l'apprentissage et les IA génératives, appliquée à la génomique évolutive
 
 |
 
 |
 
-Nouvelles méthodologies et applications en biocatalyse pour une chimie durable |
+|
+
+Nouvelles méthodologies et applications en biocatalyse pour une chimie durable
+
+|
 
 |
 
 |
 
-Structure interne et subsurface des planètes telluriques et lunes |
+Structure interne et subsurface des planètes telluriques et lunes
+
+|
 
 Total postes ouverts 2026 |
 
