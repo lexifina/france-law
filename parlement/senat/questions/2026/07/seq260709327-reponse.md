@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260709327
+
+- Question : [SEQ260709327](seq260709327.md) — Nécessité du maintien des financements de la mutualité sociale agricole au sein de la nouvelle convention d'objectif de gestion 2026/2030
+
+## Réponse
+
+*Agriculture, agro-alimentaire et souveraineté alimentaire, JO du 2026-08-27, page 4010*
+
+La convention d'objectifs et de gestion (COG) 2026-2030 de la mutualité sociale agricole (MSA) a été récemment finalisée après des négociations qui se sont déroulées dans un climat constructif entre les équipes de la caisse centrale de la MSA et les ministères de tutelle. Cette nouvelle COG s'inscrit dans un contexte qui s'impose à tous les organismes de sécurité sociale, notamment dans une recherche optimale de gains de productivité sur leurs activités, sans jamais dégrader la qualité du service rendu. La COG 2026-2030 s'attache au premier plan à ce que la qualité du service rendu à l'assuré social réponde au meilleur standard et de manière homogène sur l'ensemble du territoire, notamment en matière de versement des prestations, tant légales qu'extra-légales (action sanitaire et sociale). Cette recherche de la qualité de service s'accompagne d'une recherche d'efficience qui passe par un pilotage amélioré du réseau par la caisse centrale. Ainsi le schéma d'emploi de la MSA traduit des objectifs ambitieux mais réalistes de gains de productivité. La COG 2026-2030 donne à la MSA les moyens nécessaires pour lui assurer un système informatique au niveau des standards des autres caisses de sécurité sociale. L'accompagnement des salariés et non-salariés agricoles, actifs comme retraités, de leurs ayant-droits (enfants notamment), ainsi que la prévention du mal-être agricole demeurent la pierre angulaire qui guidera l'action de la MSA au cours de cette COG 2026-2030.
