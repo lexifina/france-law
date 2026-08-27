@@ -1,0 +1,9 @@
+# Réponse à la question SEQ251206919
+
+- Question : [SEQ251206919](seq251206919.md) — Hausse inquiétante des contaminations au virus de l'immunodéficience humaine chez les jeunes de 15 à  24 ans
+
+## Réponse
+
+*Santé, familles, autonomie et personnes handicapées, JO du 2026-08-27, page 4040*
+
+La lutte contre le virus de l'immunodéficience humaine et les infections sexuellement transmissibles fait l'objet d'un engagement constant du Gouvernement, traduit dans la stratégie nationale de santé sexuelle 2017-2030 et ses feuilles de route successives. En matière d'accès à la prévention, une mesure structurante est entrée en vigueur le 1er janvier 2023. Ainsi, sept gammes de préservatifs sont désormais disponibles sans ordonnance et prises en charge à 100 % pour les moins de 26 ans, directement en pharmacie. Cette mesure lève simultanément les freins financiers et les freins à l'accès qui constituaient jusqu'alors des obstacles majeurs pour les jeunes. Afin de garantir l'effectivité de ce dispositif, Santé publique France a conduit au cours de l'hiver 2026 une campagne de communication spécifiquement ciblée vers les jeunes publics. Six influenceurs, sélectionnés en raison de l'audience jeune de leurs communautés, ont relayé via leurs réseaux sociaux des messages d'incitation à l'utilisation du préservatif et d'information sur la mesure de prise en charge directe en pharmacie. Ce canal de diffusion, particulièrement efficace auprès des jeunes, permet d'atteindre des publics que les vecteurs de communication traditionnels ne touchent qu'imparfaitement. Enfin, la lutte contre la désinformation en santé constitue un axe à part entière de la stratégie gouvernementale. La création d'un observatoire de la lutte contre la désinformation en santé répond précisément à l'enjeu soulevé, à savoir contrer la diffusion de fausses informations et réduire les inégalités de santé qui en découlent.
