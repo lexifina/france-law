@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250504852
+
+- Question : [SEQ250504852](seq250504852.md) — Délivrance des cartes européennes de stationnement aux associations pour les adultes et jeunes handicapés
+
+## Réponse
+
+*Autonomie et personnes handicapées, JO du 2026-08-27, page 4013*
+
+Le Gouvernement est pleinement mobilisé en faveur de l'accessibilité et de la mobilité des personnes en situation de handicap. S'agissant des cartes de stationnement pour personnes en situation de handicap, deux titres sont actuellement en vigueur : la carte européenne de stationnement et la Carte mobilité inclusion (CMI) mention « stationnement », délivrée par les Maisons départementales des personnes handicapées (MDPH). Ces cartes sont attribuées à titre personnel, sur la base de critères d'éligibilité précis, et rattachées nominativement à la personne bénéficiaire, indépendamment du véhicule utilisé. Cela signifie qu'un usager titulaire d'une CMI stationnement peut l'utiliser dans tout véhicule qui le transporte, y compris un véhicule de location ou un véhicule mis à disposition par une structure, à condition qu'il soit à bord. Cette carte doit alors être apposée de manière visible à l'intérieur du véhicule durant la durée du stationnement. Les institutions qui accueillent ou hébergent des personnes en situation de handicap ou âgées peuvent s'adresser aux services de l'État pour demander une CMI stationnement qui sera liée aux véhicules de l'institution servant aux déplacements des personnes accueillies ou hébergées. En revanche, les structures ne peuvent pas obtenir, pour elles-mêmes, des cartes de stationnement valables pour des véhicules qu'elles utiliseraient ponctuellement, notamment dans le cadre de la location de véhicules pour des séjours adaptés. Ce cadre est conçu pour prévenir les risques de fraude et garantir un usage strictement conforme à la situation individuelle du bénéficiaire.
