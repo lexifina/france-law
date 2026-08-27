@@ -338,6 +338,12 @@ mg/l
 
 |
 
-(*) Valeur maximale dans le respect de la valeur limite de la teneur en oxygène fixée à 2,7 % (m/m).
+(*) Valeur maximale dans le respect de la valeur limite de la teneur en oxygène fixée à 2,7 % (m/m). |
 
-|
+Teneur en manganèse |
+
+mg/l |
+
+- |
+
+2 |

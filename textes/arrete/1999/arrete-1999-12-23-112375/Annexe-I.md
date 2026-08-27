@@ -12,29 +12,57 @@ Min. |
 
 Max. |
 
-Indice de cétane mesuré |
+Indice de cétane mesuré
 
 |
 
-51,0 |
+|
 
-- |
-
-Indice de cétane calculé |
+51,0
 
 |
 
-46,0 |
+- |
+
+Indice de cétane calculé
+
+|
+
+|
+
+46,0
+
+|
 
 - |
 
-Hydrocarbures aromatiques polycycliques |
+Masse volumique à 15° C
 
-% (m/ m) |
+|
+
+kg/ m3
+
+|
+
+815,0 |
+
+845,0
+
+|
+
+Hydrocarbures aromatiques polycycliques
+
+|
+
+% (m/ m)
+
+|
 
 - |
 
-8,0 |
+8,0
+
+|
 
 Teneur en soufre |
 
@@ -42,7 +70,9 @@ mg/ kg |
 
 - |
 
-10,0 |
+10,0
+
+|
 
 Teneur en manganèse |
 
@@ -50,7 +80,9 @@ mg/ l |
 
 - |
 
-2,0 |
+2,0
+
+|
 
 Point d'éclair |
 
@@ -58,7 +90,9 @@ Point d'éclair |
 
 supérieur à 55,0 |
 
-- |
+-
+
+|
 
 Résidu de carbone (sur le résidu 10 % de distillation) |
 
@@ -96,23 +130,43 @@ Corrosion à la lame de cuivre (3 h à 50° C) |
 
 Cotation |
 
-Classe 1 |
+Classe 1
 
-Stabilité à l'oxydation |
+|
 
-g/ m ³ |
+Stabilité à l'oxydation
+
+|
+
+g/ m3
+
+|
 
 - |
 
 25 |
 
-h |
+Stabilité à l'oxydation pour les gazoles contenant plus de 2 % (V/V) d'EMAG |
 
-20,0 |
+h
 
-- |
+min
 
-Pouvoir lubrifiant, diamètre de marque d'usure corrigée (WSD) à 60° C |
+|
+
+20,0
+
+ou
+
+60,0 |
+
+-
+
+|
+
+Pouvoir lubrifiant, diamètre de marque d'usure corrigée (WSD) à 60° C
+
+|
 
 µm |
 
@@ -120,9 +174,13 @@ Pouvoir lubrifiant, diamètre de marque d'usure corrigée (WSD) à 60° C |
 
 460 |
 
-Viscosité à 40° C |
+Viscosité à 40° C
 
-mm2/ s |
+|
+
+mm2/ s
+
+|
 
 2,000 |
 
@@ -130,7 +188,9 @@ mm2/ s |
 
 Distillation :
 
--% (V/ V) récupéré à 250° C ; |
+-% (V/ V) récupéré à 250° C ;
+
+|
 
 % (V/ V) |
 
@@ -138,9 +198,13 @@ Distillation :
 
 < 65 |
 
--% (V/ V) récupéré à 350° C ; |
+-% (V/ V) récupéré à 350° C ;
 
-% (V/ V) |
+|
+
+% (V/ V)
+
+|
 
 85 |
 
@@ -152,14 +216,18 @@ Distillation :
 
 - |
 
-360,0 |
+360,0
 
-Teneur en esters méthyliques d'acides gras conformes à l'arrêté du 30 juin 2010 modifié relatif aux caractéristiques des esters méthyliques d'acides gras (EMAG) |
+|
 
-% (V/ V) |
+Teneur en esters méthyliques d'acides gras conformes à l'arrêté du 30 juin 2010 modifié relatif aux caractéristiques des esters méthyliques d'acides gras (EMAG)
+
+|
+
+% (V/ V)
+
+|
 
 - |
 
 7,0 |
-
-(1) Il s'agit d'une spécification supplémentaire pour les carburants diesel dont la teneur en EMAG est supérieure à 2 % (V/ V). |

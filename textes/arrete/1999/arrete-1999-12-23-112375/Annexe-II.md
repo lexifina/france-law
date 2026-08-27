@@ -46,24 +46,6 @@ Température limite de filtrabilité |
 
 -20 |
 
-Masse volumique à 15° C |
-
-(kg/ m3) Min. |
-
-820,0 |
-
-815,0 |
-
-815,0 |
-
-(kg/ m3) Max. |
-
-845,0 |
-
-845,0 |
-
-845,0 |
-
 CARACTÉRISTIQUES DE TENUE AU FROID EN GUADELOUPE, GUYANE ET MARTINIQUE
 
 Date |
@@ -84,16 +66,6 @@ Température limite de filtrabilité |
 
 0 |
 
-Masse volumique à 15° C |
-
-(kg/ m3) Min. |
-
-820,0 |
-
-(kg/ m3) Max. |
-
-845,0 |
-
 CARACTÉRISTIQUES DE TENUE AU FROID À MAYOTTE ET À LA RÉUNION
 
 Date |
@@ -113,15 +85,3 @@ Température limite de filtrabilité |
 (° C) Max. |
 
 0 |
-
-Masse volumique à 15° C |
-
-(kg/ m3) Min. |
-
-820,0 |
-
-(kg/ m3) Max. |
-
-845,0
-
-|

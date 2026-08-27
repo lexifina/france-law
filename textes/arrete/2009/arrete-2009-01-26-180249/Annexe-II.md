@@ -54,13 +54,13 @@ Pourcentage évaporé à 70 °C, E70
 
 |
 
-22,0
+20,0
 
 50,0
 
 |
 
-24,0
+22,0
 
 52,0
 
@@ -112,11 +112,11 @@ Point final de distillation, PF
 
 |
 
-210
+210,0
 
 |
 
-210
+210,0
 
 |
 
@@ -128,10 +128,10 @@ Résidu de distillation
 
 |
 
-2
+2,0
 
 |
 
-2
+2,0
 
 |

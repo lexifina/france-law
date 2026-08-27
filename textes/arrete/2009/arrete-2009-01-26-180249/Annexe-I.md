@@ -341,3 +341,13 @@ Teneur en composés oxygénés :
 15,0
 
 |
+
+Teneur en manganèse
+
+|
+
+mg/l |
+
+- |
+
+2 |

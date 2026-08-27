@@ -1,11 +1,33 @@
 # Article Annexe III
 
-ETIQUETAGE SPÉCIFIQUE À DISPOSER SUR LES APPAREILS DE DISTRIBUTION
+CARACTÉRISTIQUES SUR LE NOMBRE DE PARTICULES AU POINT DE CERTIFICATION
 
-Un étiquetage spécifique doit être disposé de manière claire sur les appareils de distribution. Cet étiquetage est présenté ci-dessous et doit être d'une largeur minimum de 4 cm :
+PROPRIÉTÉ |
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié à l'adresse suivante : https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000037032102
+UNITÉ |
 
-Il devra également être disposé sur le pistolet de l'appareil distributeur un étiquetage spécifique qui est présenté ci-dessous, d'une largeur minimum de 1,5 cm :
+LIMITES
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié à l'adresse suivante : https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000037032102
+|
+
+Min. |
+
+Max.
+
+|
+
+Nombre de particules ≥ 4µm
+
+|
+
+|
+
+- |
+
+10 000 |
+
+Les exigences sur le nombre de particules s'appliquent uniquement au point de certification des particules et ne s'appliquent pas à une autre étape de la chaîne d'approvisionnement.
+
+Dans le cas d'un gazole B7 produit par un pays membre du Comité européen de normalisation (CEN), le point de certification des particules est le point de production du gazole B7, c'est-à-dire le point où le gazole et/ou les bases de mélange, lorsqu'ils sont mélangés ensemble, sont certifiés conformes aux exigences des annexes I et II.
+
+Dans le cas d'un gazole B7 produit par un pays qui n'est pas membre du Comité européen de normalisation (CEN), le point de certification des particules est le point d'importation du gazole B7 dans un pays membre du Comité européen de normalisation (CEN).

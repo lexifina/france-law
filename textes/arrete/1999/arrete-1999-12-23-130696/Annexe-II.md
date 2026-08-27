@@ -136,11 +136,11 @@ Point final de distillation, PF.
 
 |
 
-210
+210,0
 
 |
 
-210
+210,0
 
 |
 
@@ -152,11 +152,11 @@ Résidu de distillation.
 
 |
 
-2
+2,0
 
 |
 
-2
+2,0
 
 |
 
