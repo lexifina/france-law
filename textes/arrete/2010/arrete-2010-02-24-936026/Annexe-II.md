@@ -74,6 +74,18 @@ Dans les parties de jouets destinées à conduire le courant électrique.
 
 |
 
+Cobalt |
+
+CMR 1B |
+
+Dans les jouets et leurs composants en acier inoxydable, en tant qu'impureté dans le nickel contenu dans l'acier inoxydable.
+
+Dans les composants de jouets destinés à conduire un courant électrique.
+
+Dans les aimants à base de néodyme utilisés dans les jouets si ces aimants ne peuvent pas être ingérés ou inhalés.
+
+|
+
 IV. - Valeurs limites spécifiques pour les produits chimiques utilisés dans les jouets destinés à l'usage d'enfants de moins de trente-six mois ou dans d'autres jouets destinés à être mis en bouche en application du 6 de la partie III "Propriétés chimiques" de l'annexe I du décret du 22 février 2010 susvisé
 
 SUBSTANCE
@@ -242,349 +254,465 @@ NUMÉRO CAS |
 
 (1) |
 
-Huile de racine d'aunée (Inula helenium) |
+Huile de racine d'aunée (Inula helenium)
+
+|
 
 97976-35-2 |
 
 (2) |
 
-Allylisothiocyanate |
+Allylisothiocyanate
+
+|
 
 57-06-7 |
 
 (3) |
 
-Cyanure de benzyle |
+Cyanure de benzyle
+
+|
 
 140-29-4 |
 
 (4) |
 
-4 tert-butylphénol |
+4 tert-butylphénol
+
+|
 
 98-54-4 |
 
 (5) |
 
-Huile de chénopode |
+Huile de chénopode
+
+|
 
 8006-99-3 |
 
 (6) |
 
-Alcool de cyclamen |
+Alcool de cyclamen
+
+|
 
 4756-19-8 |
 
 (7) |
 
-Maléate diéthylique |
+Maléate diéthylique
+
+|
 
 141-05-9 |
 
 (8) |
 
-Dihydrocoumarine |
+Dihydrocoumarine
+
+|
 
 119-84-6 |
 
 (9) |
 
-2, 4-dihydroxy-3-methylbenzaldéhyde |
+2, 4-dihydroxy-3-methylbenzaldéhyde
+
+|
 
 6248-20-0 |
 
 (10) |
 
-3, 7-diméthyle-2-octen-1-ol (6, 7-dihydrogéraniol) |
+3, 7-diméthyle-2-octen-1-ol (6, 7-dihydrogéraniol)
+
+|
 
 40607-48-5 |
 
 (11) |
 
-4, 6-diméthyle-8-tert-butylcoumarine |
+4, 6-diméthyle-8-tert-butylcoumarine
+
+|
 
 17874-34-9 |
 
 (12) |
 
-Citraconate de diméthyle |
+Citraconate de diméthyle
+
+|
 
 617-54-9 |
 
 (13) |
 
-7, 11-diméthyle-4, 6, 10-dodécatrien-3-one |
+7, 11-diméthyle-4, 6, 10-dodécatrien-3-one
+
+|
 
 26651-96-7 |
 
 (14) |
 
-6, 10-diméthyle-3, 5, 9-undécatrien-2-one |
+6, 10-diméthyle-3, 5, 9-undécatrien-2-one
+
+|
 
 141-10-6 |
 
 (15) |
 
-Diphénylamine |
+Diphénylamine
+
+|
 
 122-39-4 |
 
 (16) |
 
-Acrylate d'éthyle |
+Acrylate d'éthyle
+
+|
 
 140-88-5 |
 
 (17) |
 
-Feuille de figuier, fraîche et préparations |
+Feuille de figuier, fraîche et préparations
+
+|
 
 68916-52-9 |
 
 (18) |
 
-trans-2-Hepténal |
+trans-2-Hepténal
+
+|
 
 18829-55-5 |
 
 (19) |
 
-trans-2-Hexénal diéthyle acétal |
+trans-2-Hexénal diéthyle acétal
+
+|
 
 67746-30-9 |
 
 (20) |
 
-trans-2-Hexénal dimethyle acétal |
+trans-2-Hexénal dimethyle acétal
+
+|
 
 18318-83-7 |
 
 (21) |
 
-Alcool hydroabiétylique |
+Alcool hydroabiétylique
+
+|
 
 13393-93-6 |
 
 (22) |
 
-4-éthoxy-phénol |
+4-éthoxy-phénol
+
+|
 
 622-62-8 |
 
 (23) |
 
-6-décahydro-6-isopropyl-2-naphtol |
+6-décahydro-6-isopropyl-2-naphtol
+
+|
 
 34131-99-2 |
 
 (24) |
 
-7-méthoxycoumarine |
+7-méthoxycoumarine
+
+|
 
 531-59-9 |
 
 (25) |
 
-4-méthoxyphénol |
+4-méthoxyphénol
+
+|
 
 150-76-5 |
 
 (26) |
 
-4-(3-méthoxyphényl)-3-butane-2-one |
+4-(3-méthoxyphényl)-3-butane-2-one
+
+|
 
 943-88-4 |
 
 (27) |
 
-1-(p-méthoxyphényl)-1-pentène-3-one |
+1-(p-méthoxyphényl)-1-pentène-3-one
+
+|
 
 104-27-8 |
 
 (28) |
 
-Méthyl trans-2-buténoate |
+Méthyl trans-2-buténoate
+
+|
 
 623-43-8 |
 
 (29) |
 
-Méthyl-6-coumarine |
+Méthyl-6-coumarine
+
+|
 
 92-48-8 |
 
 (30) |
 
-Méthyl-7-coumarine |
+Méthyl-7-coumarine
+
+|
 
 2445-83-2 |
 
 (31) |
 
-Méthyl-5-2, 3-hexanédione |
+Méthyl-5-2, 3-hexanédione
+
+|
 
 13706-86-0 |
 
 (32) |
 
-Huile de racine de costus (Saussurea lappa Clarke) |
+Huile de racine de costus (Saussurea lappa Clarke)
+
+|
 
 8023-88-9 |
 
 (33) |
 
-7-éthoxy-4-méthylcoumarine |
+7-éthoxy-4-méthylcoumarine
+
+|
 
 87-05-8 |
 
 (34) |
 
-Hexahydrocoumarine |
+Hexahydrocoumarine
+
+|
 
 700-82-3 |
 
 (35) |
 
-Baume du Pérou, brut (Exsudation de Myroxylon Pereirae Klotzsch) |
+Baume du Pérou, brut (Exsudation de Myroxylon Pereirae Klotzsch)
+
+|
 
 8007-00-9 |
 
 (36) |
 
-2-pentylidène-cyclohexanone |
+2-pentylidène-cyclohexanone
+
+|
 
 25677-40-1 |
 
 (37) |
 
-3, 6, 10-triméthyl-3, 5, 9-undécatrien-2-one |
+3, 6, 10-triméthyl-3, 5, 9-undécatrien-2-one
+
+|
 
 1117-41-5 |
 
 (38) |
 
-Huile de verbena (Lippia citriodora Kunth) |
+Huile de verbena (Lippia citriodora Kunth)
+
+|
 
 8024-12-2 |
 
 (39) |
 
-Musk ambrette (4-ter-butyl-3-méthoxy-2, 6-dinitro-toluène) |
+Musk ambrette (4-ter-butyl-3-méthoxy-2, 6-dinitro-toluène)
+
+|
 
 83-66-9 |
 
 (40) |
 
-4-phényl-3-buten-2-one |
+4-phényl-3-buten-2-one
+
+|
 
 122-57-6 |
 
 (41) |
 
-Amyl cinnamal |
+Amyl cinnamal
+
+|
 
 122-40-7 |
 
 (42) |
 
-Amylcinnamyl alcool |
+Amylcinnamyl alcool
+
+|
 
 101-85-9 |
 
 (43) |
 
-Alcool de benzyle |
+Alcool de benzyle
+
+|
 
 100-51-6 |
 
 (44) |
 
-Salicylate de benzyle |
+Salicylate de benzyle
+
+|
 
 118-58-1 |
 
 (45) |
 
-Cinnamyl alcool |
+Cinnamyl alcool
+
+|
 
 104-54-1 |
 
 (46) |
 
-Cinnamal |
+Cinnamal
+
+|
 
 104-55-2 |
 
 (47) |
 
-Citral |
+Citral
+
+|
 
 5392-40-5 |
 
 (48) |
 
-Coumarine |
+Coumarine
+
+|
 
 91-64-5 |
 
 (49) |
 
-Eugénol |
+Eugénol
+
+|
 
 97-53-0 |
 
 (50) |
 
-Géraniol |
+Géraniol
+
+|
 
 106-24-1 |
 
 (51) |
 
-Hydroxy-citronellal |
+Hydroxy-citronellal
+
+|
 
 107-75-5 |
 
 (52) |
 
-Hydroxy-méthylpentylcyclohexènecarboxaldéhyde |
+Hydroxy-méthylpentylcyclohexènecarboxaldéhyde
+
+|
 
 31906-04-4 |
 
 (53) |
 
-Isoeugénol |
+Isoeugénol
+
+|
 
 97-54-1 |
 
 (54) |
 
-Extraits de mousse de chêne |
+Extraits de mousse de chêne
+
+|
 
 90028-68-5 |
 
 (55) |
 
-Extraits de mousse d'arbre |
+Extraits de mousse d'arbre
+
+|
 
 90028-67-4 |
 
 (56) |
 
-Atranol (2,6-dihydroxy-4-méthyl-benzaldéhyde) |
+Atranol (2,6-dihydroxy-4-méthyl-benzaldéhyde
+
+|
 
 526-37-4 |
 
 (57) |
 
-Chloroatranol (3-chloro-2,6-dihydroxy-4-méthyl-benzaldéhyde) |
+Chloroatranol (3-chloro-2,6-dihydroxy-4-méthyl-benzaldéhyde)
+
+|
 
 57074-21-2 |
 
 (58) |
 
-Heptine crbonate de méthyle |
+Heptine crbonate de méthyle
+
+|
 
 111-12-6 |
 
@@ -608,181 +736,241 @@ NUMÉRO CAS
 
 (1) |
 
-Alcool anisique |
+Alcool anisique
+
+|
 
 105-13-5 |
 
 (2) |
 
-Benzoate de benzyle |
+Benzoate de benzyle
+
+|
 
 120-51-4 |
 
 (3) |
 
-Cinnamate de benzyle |
+Cinnamate de benzyle
+
+|
 
 103-41-3 |
 
 (4) |
 
-Citronellol |
+Citronellol
+
+|
 
 106-22-9 ; 1117-61-9 ; 7540-51-4 |
 
 (5) |
 
-Farnesol |
+Farnesol
+
+|
 
 4602-84-0 |
 
 (6) |
 
-Hexylcinnamaldéhyde |
+Hexylcinnamaldéhyde
+
+|
 
 101-86-0 |
 
 (7) |
 
-Lilial |
+Lilial
+
+|
 
 80-54-6 |
 
 (8) |
 
-d-Limonene |
+d-Limonene
+
+|
 
 5989-27-5 |
 
 (9) |
 
-Linalol |
+Linalol
+
+|
 
 78-70-6 |
 
 (10) |
 
-(Supprimée) |
+(Supprimée)
+
+|
 
 |
 
 (11) |
 
-3-méthyl-4-(2, 6, 6-tri-méthyl-2-cyclohexène-1-yl)-3-butène-2-one |
+3-méthyl-4-(2, 6, 6-tri-méthyl-2-cyclohexène-1-yl)-3-butène-2-one
+
+|
 
 127-51-5 |
 
 (12) |
 
-Acétylcédrène |
+Acétylcédrène
+
+|
 
 32388-55-9 |
 
 (13) |
 
-Salicylate d'amyle |
+Salicylate d'amyle
+
+|
 
 2050-08-0 |
 
 (14) |
 
-trans-Anéthole |
+trans-Anéthole
+
+|
 
 4180-23-8 |
 
 (15) |
 
-Benzaldéhyde |
+Benzaldéhyde
+
+|
 
 100-52-7 |
 
 (16) |
 
-Camphre |
+Camphre
+
+|
 
 76-22-2 ; 464-49-3 |
 
 (17) |
 
-Carvone |
+Carvone
+
+|
 
 99-49-0 ; 6485-40-1 ; 2244-16-8 |
 
 (18) |
 
-β-Caryophyllène (ox.) |
+β-Caryophyllène (ox.)
+
+|
 
 87-44-5 |
 
 (19) |
 
-Cétone-4 de rose (Damascénone) |
+Cétone-4 de rose (Damascénone)
+
+|
 
 23696-85-7 |
 
 (20) |
 
-α-Damascone (TMCHB) |
+α-Damascone (TMCHB)
+
+|
 
 43052-87-5 ; 23726-94-5 |
 
 (21) |
 
-cis-β-Damascone |
+cis-β-Damascone
+
+|
 
 23726-92-3 |
 
 (22) |
 
-δ-Damascone |
+δ-Damascone
+
+|
 
 57378-68-4 |
 
 (23) |
 
-Acétate de diméthylbenzyle carbinyle (DMBCA) |
+Acétate de diméthylbenzyle carbinyle (DMBCA)
+
+|
 
 151-05-3 |
 
 (24) |
 
-Hexadécanolactone |
+Hexadécanolactone
+
+|
 
 109-29-5 |
 
 (25) |
 
-Hexaméthylindanopyrane |
+Hexaméthylindanopyrane
+
+|
 
 1222-05-5 |
 
 (26) |
 
-(DL)-Limonène |
+(DL)-Limonène
+
+|
 
 138-86-3 |
 
 (27) |
 
-Acétate de linalyle |
+Acétate de linalyle
+
+|
 
 115-95-7 |
 
 (28) |
 
-Menthol |
+Menthol
+
+|
 
 1490-04-6 ; 89-78-1 ; 2216-51-5 |
 
 (29) |
 
-Salicylate de méthyle |
+Salicylate de méthyle
+
+|
 
 119-36-8 |
 
 (30) |
 
-3-méthyl-5-(2,2,3-triméthyl-3-cyclopentén-1-yl) pent-4-én-2-ol |
+3-méthyl-5-(2,2,3-triméthyl-3-cyclopentén-1-yl) pent-4-én-2-ol
+
+|
 
 67801-20-1 |
 
@@ -796,49 +984,65 @@ Salicylate de méthyle |
 
 (32) |
 
-β-Pinène |
+β-Pinène
+
+|
 
 127-91-3 |
 
 (33) |
 
-Phtalure de propylidène |
+Phtalure de propylidène
+
+|
 
 17369-59-4 |
 
 (34) |
 
-Salicylaldéhyde |
+Salicylaldéhyde
+
+|
 
 90-02-8 |
 
 (35) |
 
-α-Santalol |
+α-Santalol
+
+|
 
 115-71-9 |
 
 (36) |
 
-β-Santalol |
+β-Santalol
+
+|
 
 77-42-9 |
 
 (37) |
 
-Sclaréol |
+Sclaréol
+
+|
 
 515-03-7 |
 
 (38) |
 
-α-Terpinéol |
+α-Terpinéol
+
+|
 
 10482-56-1 ; 98-55-5 |
 
 (39) |
 
-Terpinéol (mélange d'isomères) |
+Terpinéol (mélange d'isomères)
+
+|
 
 8000-41-7 |
 
@@ -850,193 +1054,257 @@ Terpinolène |
 
 (41) |
 
-Tétraméthylacétyloctahydronaphtalènes |
+Tétraméthylacétyloctahydronaphtalènes
+
+|
 
 54464-57-2 ; 54464-59-4 ; 68155-66-8 ; 68155-67-9 |
 
 (42) |
 
-Triméthylbenzènepropanol (Majantol) |
+Triméthylbenzènepropanol (Majantol)
+
+|
 
 103694-68-4 |
 
 (43) |
 
-Vanilline |
+Vanilline
+
+|
 
 121-33-5 |
 
 (44) |
 
-Cananga odorata et huile d'ylang-ylang |
+Cananga odorata et huile d'ylang-ylang
+
+|
 
 83863-30-3 ; 8006-81-3 |
 
 (45) |
 
-Huile d'écorce de Cedrus atlantica |
+Huile d'écorce de Cedrus atlantica
+
+|
 
 92201-55-3 ; 8000-27-9 |
 
 (46) |
 
-Huile de feuille de Cinnamomum cassia |
+Huile de feuille de Cinnamomum cassia
+
+|
 
 8007-80-5 |
 
 (47) |
 
-Huile d'écorce de Cinnamomum zeylanicum |
+Huile d'écorce de Cinnamomum zeylanicum
+
+|
 
 84649-98-9 |
 
 (48) |
 
-Huile de fleur de Citrus aurantium amara |
+Huile de fleur de Citrus aurantium amara
+
+|
 
 8016-38-4 |
 
 (49) |
 
-Huile de zeste de Citrus aurantium amara |
+Huile de zeste de Citrus aurantium amara
+
+|
 
 72968-50-4 |
 
 (50) |
 
-Huile de zeste de Citrus bergamia exprimé |
+Huile de zeste de Citrus bergamia exprimé
+
+|
 
 89957-91-5 |
 
 (51) |
 
-Huile de zeste de Citrus limonum exprimé |
+Huile de zeste de Citrus limonum exprimé
+
+|
 
 84929-31-7 |
 
 (52) |
 
-Huile de zeste de Citrus sinensis (syn. : Aurantium dulcis) exprimé |
+Huile de zeste de Citrus sinensis (syn. : Aurantium dulcis) exprimé
+
+|
 
 97766-30-8 ; 8028-48-6 |
 
 (53) |
 
-Huiles de Cymbopogon citratus/ schoenanthus |
+Huiles de Cymbopogon citratus/ schoenanthus
+
+|
 
 89998-14-1 ; 8007-02-01 ; 89998-16-3 |
 
 (54) |
 
-Huile de feuille d'Eucalyptus spp. |
+Huile de feuille d'Eucalyptus spp.
+
+|
 
 92502-70-0 ; 8000-48-4 |
 
 (55) |
 
-Huile de feuille/ fleur d'Eugenia caryophyllus |
+Huile de feuille/ fleur d'Eugenia caryophyllus
+
+|
 
 8000-34-8 |
 
 (56) |
 
-Jasminum grandiflorum/ officinale |
+Jasminum grandiflorum/ officinale
+
+|
 
 84776-64-7 ; 90045-94-6 ; 8022-96-6 |
 
 (57) |
 
-Juniperus virginiana |
+Juniperus virginiana
+
+|
 
 8000-27-9 ; 85085-41-2 |
 
 (58) |
 
-Huile de fruit de Laurus nobilis |
+Huile de fruit de Laurus nobilis
+
+|
 
 8007-48-5 |
 
 (59) |
 
-Huile de feuille de Laurus nobilis |
+Huile de feuille de Laurus nobilis
+
+|
 
 8002-41-3 |
 
 (60) |
 
-Huile de graines de Laurus nobilis |
+Huile de graines de Laurus nobilis
+
+|
 
 84603-73-6 |
 
 (61) |
 
-Lavandula hybrida |
+Lavandula hybrida
+
+|
 
 91722-69-9 |
 
 (62) |
 
-Lavandula officinalis |
+Lavandula officinalis
+
+|
 
 84776-65-8 |
 
 (63) |
 
-Mentha piperita |
+Mentha piperita
+
+|
 
 8006-90-4 ; 84082-70-2 |
 
 (64) |
 
-Mentha spicata |
+Mentha spicata
+
+|
 
 84696-51-5 |
 
 (65) |
 
-Narcissus spp. |
+Narcissus spp.
+
+|
 
 Divers, y compris 90064-25-8 |
 
 (66) |
 
-Pelargonium graveolens |
+Pelargonium graveolens
+
+|
 
 90082-51-2 ; 8000-46-2 |
 
 (67) |
 
-Pinus mugo |
+Pinus mugo
+
+|
 
 90082-72-7 |
 
 (68) |
 
-Pinus pumila |
+Pinus pumila
+
+|
 
 97676-05-6 |
 
 (69) |
 
-Pogostemon cablin |
+Pogostemon cablin
+
+|
 
 8014-09-3 ; 84238-39-1 |
 
 (70) |
 
-Huile de fleur de rose (Rosa spp.) |
+Huile de fleur de rose (Rosa spp.)
+
+|
 
 Divers, y compris 8007-01-0,93334-48-6,84696-47-9,84604-12-6,90106-38-0,84604-13-7,92347-25-6 |
 
 (71) |
 
-Santalum album |
+Santalum album
+
+|
 
 84787-70-2 ; 8006-87-9 |
 
 (72) |
 
-Thérébentine (essence) |
+Thérébentine (essence)
+
+|
 
 8006-64-2 ; 9005-90-7 ; 8052-14-0 |
 
@@ -1092,7 +1360,9 @@ grattée du jouet
 
 Aluminium |
 
-2 250 |
+2 250
+
+|
 
 560 |
 
@@ -1100,7 +1370,9 @@ Aluminium |
 
 Antimoine |
 
-45 |
+45
+
+|
 
 11,3 |
 
@@ -1108,7 +1380,9 @@ Antimoine |
 
 Arsenic |
 
-3,8 |
+3,8
+
+|
 
 0,9 |
 
@@ -1116,7 +1390,9 @@ Arsenic |
 
 Baryum |
 
-1 500 |
+1 500
+
+|
 
 375 |
 
@@ -1124,7 +1400,9 @@ Baryum |
 
 Bore |
 
-1 200 |
+1 200
+
+|
 
 300 |
 
@@ -1132,7 +1410,9 @@ Bore |
 
 Cadmium |
 
-1,3 |
+1,3
+
+|
 
 0,3 |
 
@@ -1140,7 +1420,9 @@ Cadmium |
 
 Chrome (III) |
 
-37,5 |
+37,5
+
+|
 
 9,4 |
 
@@ -1148,7 +1430,9 @@ Chrome (III) |
 
 Chrome (VI) |
 
-0,02 |
+0,0
+
+|
 
 0,005 |
 
@@ -1156,7 +1440,9 @@ Chrome (VI) |
 
 Cobalt |
 
-10,5 |
+10,5
+
+|
 
 2,6 |
 
@@ -1164,7 +1450,9 @@ Cobalt |
 
 Cuivre |
 
-622,5 |
+622,5
+
+|
 
 156 |
 
@@ -1182,7 +1470,9 @@ Plomb |
 
 Manganèse |
 
-1 200 |
+1 200
+
+|
 
 300 |
 
@@ -1190,7 +1480,9 @@ Manganèse |
 
 Mercure |
 
-7,5 |
+7,5
+
+|
 
 1,9 |
 
@@ -1198,7 +1490,9 @@ Mercure |
 
 Nickel |
 
-75 |
+75
+
+|
 
 18,8 |
 
@@ -1206,7 +1500,9 @@ Nickel |
 
 Sélénium |
 
-37,5 |
+37,5
+
+|
 
 9,4 |
 
@@ -1214,7 +1510,9 @@ Sélénium |
 
 Strontium |
 
-4 500 |
+4 500
+
+|
 
 1 125 |
 
@@ -1222,7 +1520,9 @@ Strontium |
 
 Etain |
 
-15 000 |
+15 000
+
+|
 
 3 750 |
 
@@ -1230,7 +1530,9 @@ Etain |
 
 Etain organique |
 
-0,9 |
+0,9
+
+|
 
 0,2 |
 
@@ -1238,7 +1540,9 @@ Etain organique |
 
 Zinc |
 
-3 750 |
+3 750
+
+|
 
 938 |
 
@@ -1248,4 +1552,4 @@ Ces valeurs limites ne s'appliquent pas aux jouets ou composants de jouets qui, 
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 19 avril 2022 (NOR : ECOI2212119A), ces dispositions entrent en vigueur le 5 décembre 2022.
+Conformément à l'article 2 de l'arrêté du 27 juillet 2026 (NOR : ECOI2612894A), ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur le 29 août 2026.
