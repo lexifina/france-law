@@ -4,7 +4,7 @@ CAHIER DES CHARGES DES ÉCO-ORGANISMES ANNEXÉ À L'ARRÊTÉ DU 23 NOVEMBRE 2022
 
 1. Orientations générales
 
-L'éco-organisme contribue à la prévention, à la collecte, au tri et au traitement des déchets issus des textiles d'habillement, chaussures et linge de maison (ci-après dénommés " TLC ") mentionnés au 11° de l'article L. 541-10-1 du code de l'environnement dans les conditions prévues aux paragraphes 3.3, 3.4 et 3.5 du présent cahier des charges, pour le compte des producteurs qui lui ont transféré leur obligation de responsabilité élargie en application du I de l'article L. 541-10.
+L'éco-organisme contribue à la prévention, à la collecte, au tri et au traitement des déchets issus des textiles d'habillement, chaussures et linge de maison (ci-après dénommés "TLC") mentionnés au 11° de l'article L. 541-10-1 du code de l'environnement dans les conditions prévues aux paragraphes 3.3, 3.4 et 3.5 du présent cahier des charges, pour le compte des producteurs qui lui ont transféré leur obligation de responsabilité élargie en application du I de l'article L. 541-10.
 
 L'éco-organisme pourvoit également à la collecte, au tri et au traitement des déchets de TLC dans les conditions prévues au paragraphe 3.5 du présent cahier des charges.
 
@@ -115,6 +115,158 @@ La prime relative à l'intégration de matière issue du recyclage de déchets d
 Lorsque la traçabilité mise en place n'est pas possible depuis le point de collecte, la distance mentionnée à l'alinéa précédent est rapportée par simplification à 1 000 km depuis le centre de tri si celui-ci est situé en France ou à défaut depuis le barycentre de la France métropolitaine (46° 29 ʹ 38 ʺ N, 2° 36 ʹ 10 ʺ E, selon le calcul de l'IGN).
 
 L'éco-organisme remet au ministre de l'environnement, au plus tard deux ans après la date d'entrée en vigueur de son agrément, une étude visant à déterminer les surcoûts liés à l'incorporation de matières issues du recyclage des TLC usagés. Cette étude est accompagnée d'une proposition de primes si son contenu justifie des évolutions du barème.
+
+2.2.3.1. Pratiques industrielles et commerciales
+
+A compter du 1er septembre 2026, les contributions financières versées par les producteurs à l'éco-organisme sont modulées selon les pénalités associées à la durabilité liée aux pratiques industrielles et commerciales selon les montants définis dans le tableau suivant :
+
+Condition d'application |
+
+Produit dont le score D est inférieur ou égal à 0,8 |
+
+Montants des pénalités (en €) |
+
+Type de produit |
+
+Année |
+
+2026 et 2027 |
+
+2028 |
+
+2029 |
+
+A partir de 2030 |
+
+Boxer/Slip |
+
+0,5 |
+
+1 |
+
+1,50 |
+
+2,00 |
+
+Caleçon |
+
+0,5 |
+
+1 |
+
+1,50 |
+
+2,00 |
+
+Chaussettes |
+
+0,5 |
+
+1,00 |
+
+1,50 |
+
+2,00 |
+
+Chemise |
+
+6 |
+
+6,75 |
+
+7,50 |
+
+8,25 |
+
+Jean |
+
+9 |
+
+11,75 |
+
+14,50 |
+
+17,25 |
+
+Jupe |
+
+3 |
+
+3,50 |
+
+4,00 |
+
+4,50 |
+
+Robe |
+
+7 |
+
+7,75 |
+
+8,50 |
+
+9,25 |
+
+Maillot de bain |
+
+3 |
+
+3,50 |
+
+4,00 |
+
+4,50 |
+
+Manteau/Veste |
+
+12 |
+
+14,50 |
+
+17,00 |
+
+19,50 |
+
+Pantalon |
+
+7 |
+
+7,75 |
+
+8,50 |
+
+9,25 |
+
+Pull |
+
+6 |
+
+6,75 |
+
+7,50 |
+
+8,25 |
+
+T-shirt/Polo |
+
+2 |
+
+2,50 |
+
+3,00 |
+
+3,50 |
+
+Pour chaque produit énuméré dans le tableau ci-dessus, D correspond au coefficient établi à partir de deux critères : la largeur de gamme (G) et l'incitation à la réparation (R), pondéré chacun à 50 %. Chacun des deux critères s'exprime à travers un indice compris entre 0 et 1 et pouvant donc être exprimé en pourcentage (%).
+
+Formule |
+
+D = 0,67 + (1,45 − 0,67) ∗ (0,5 × G + 0,5 × R) |
+
+Les précisions sur les modalités de calcul de cette pénalité sont définies dans une note publiée sur le site du ministère chargé de l'environnement.
+
+La méthodologie définie en application des articles D. 541-240 et suivants du code de l'environnement est réputé satisfaire aux modalités de calcul définies dans la note visée ci-dessus.
 
 2.2.4. Dispositions communes aux modulations
 
@@ -642,6 +794,6 @@ L'éco-organisme veille à ce que les consignes de tri inscrites sur les points 
 
 Conformément à l'article R. 543-218, l'éco-organisme propose un barème de soutien à la communication relative à la collecte séparée des déchets de TLC.
 
-(1) Anciennement dénommé " Soutien à la pérennisation ".
+(1) Anciennement dénommé "Soutien à la pérennisation".
 
-(2) Anciennement dénommé " Soutien au tri matière ".
+(2) Anciennement dénommé "Soutien au tri matière".
