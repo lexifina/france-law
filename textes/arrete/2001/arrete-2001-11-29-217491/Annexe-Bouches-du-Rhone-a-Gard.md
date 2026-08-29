@@ -636,117 +636,63 @@ A |
 
 Direction départementale des territoires du Doubs (8)
 
-Fonction exercée
-
-|
+Fonction exercée |
 
 Niveau de qualification de l'emploi |
 
 Nombre
 
-d'emplois
+d'emplois |
 
-|
+Nombre de points (IM) par emploi |
 
-Nombre de points
+Chef du service habitat, construction, ville - Service habitat construction, ville |
 
-(IM) par emploi
+A |
 
-|
+1 |
 
-Chef du service habitat, construction ville
+50 |
 
-|
+Chef du service adjoint habitat, construction, ville - Service habitat construction, ville |
 
-A
+A |
 
-|
+1 |
 
-1
+50 |
 
-|
+Adjoint au chef d'unité habitat public et ville - Unité habitat public et ville - Service habitat construction, ville |
 
-50
+B |
 
-|
+1 |
 
-Responsable de l'unité ville et renouvellement urbain |
+30 |
 
-A
+Chargé de mission renouvellement urbain ville - Unité habitat public et ville - Service habitat construction, ville |
 
-|
+B |
 
-1
+1 |
 
-|
+25 |
 
-50
+Chargé de dossiers logement dans le cadre du renouvellement urbain - Unité habitat public et ville - Service habitat construction, ville |
 
-|
+B |
 
-Adjoint au responsable de l'unité ville et renouvellement urbain
+1 |
 
-|
+25 |
 
-B
+Chargé de mission logement locatif social et politiques locales de l'habitat - Unité habitat public et ville - Service habitat construction, ville |
 
-|
+B |
 
-1
+1 |
 
-|
-
-30
-
-|
-
-Chargé de mission renouvellement urbain
-
-|
-
-B
-
-|
-
-1
-
-|
-
-20
-
-|
-
-Chargé de dossiers logement dans le cadre du renouvellement urbain
-
-|
-
-B
-
-|
-
-1
-
-|
-
-20
-
-|
-
-Adjoint au chef d'unité volet logement locatif social
-
-|
-
-B
-
-|
-
-1
-
-|
-
-30
-
-|
+20 |
 
 Direction départementale de l'emploi, du travail, des solidarités et de la protection des populations du Doubs
 
@@ -1056,7 +1002,7 @@ NOTA :
 
 (7) En application de l'article 1 de l'arrêté du 25 juillet 2016, entre en vigueur à compter du 1er janvier 2015, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires et de la mer du Calvados, et au 1er décembre 2015 pour ce qui concerne la répartition de l'enveloppe de la direction départementale de la cohésion sociale du Calvados.
 
-(8) En application de l'article 1 de l'arrêté du 7 juillet 2022, la présente annexe est remplacée à effet du 1er avril 2021 pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires du Doubs.
+(8) En application de l'article 1 de l'arrêté du 24 août 2026 (NOR : TECK2622737A), la présente annexe est remplacée pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires du Doubs.
 
 (11) En application de l'article 1 de l'arrêté du 14 février 2023 (NOR : TREK2304656A), la présente annexe est remplacée à effet du 1er février 2022, pour ce qui concerne la répartition de l'enveloppe de la direction départementale de l'équipement de la Drôme.
 
