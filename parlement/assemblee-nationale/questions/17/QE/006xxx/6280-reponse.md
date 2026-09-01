@@ -1,0 +1,9 @@
+# Réponse à la question n° 6280
+
+- Question : [6280](6280.md) — Question n° 6280 — Revalorisation des astreintes des praticiens hospitaliers
+
+## Réponse
+
+*JO du 2026-09-01, page 7947*
+
+Sur la base du rapport de l'Inspection générale des affaires sociales sur la permanence des soins en établissement de santé et conformément aux annonces du Premier ministre à l'été 2023, des concertations ont été menées avec les organisations syndicales de praticiens et la fédération hospitalière de France sur la refonte et la revalorisation des astreintes médicales. Ces concertations ont abouti à la publication de deux arrêtés relatifs à la refonte et la revalorisation des astreintes médicales à domicile : d'une part l'arrêté du 8 juillet 2025 portant revalorisation à titre temporaire des indemnités forfaitaires d'astreintes dans les établissements publics de santé et dans les établissements publics d'hébergement pour personnes âgées dépendantes et, d'autre part, l'arrêté du 8 juillet 2025 portant diverses dispositions relatives à l'organisation et à l'indemnisation de la permanence des soins dans les établissements publics de santé et dans les établissements publics d'hébergement pour personnes âgées dépendantes. Ces arrêtés concernent, pour le premier, la majoration temporaire de l'indemnisation des astreintes pour la période du 1er juillet jusqu'au 1er novembre 2025, et pour le second, la refonte pérenne de l'organisation et de l'indemnisation des astreintes à compter du 1er novembre 2025. L'objectif de la réforme est triple : revaloriser l'ensemble des astreintes, simplifier le régime d'indemnisation pour les praticiens et pour les établissements et proposer un niveau de forfaitisation plus fin pour mieux prendre en compte l'intensité des astreintes et l'adapter aux pratiques de télémédecine au-delà de la dichotomie astreinte déplacée/astreinte non déplacée.
