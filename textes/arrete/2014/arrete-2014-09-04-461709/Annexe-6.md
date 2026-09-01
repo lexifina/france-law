@@ -58,29 +58,13 @@ f) PATRIM, si l'opération est réalisée sur patrimoine propre ;
 
 - pour la nature de la bonification : cette colonne comporte le ou les sigles suivants correspondant aux bonifications dont bénéficie l'opération d'économies d'énergie :
 
-a) "ZNI", pour la bonification prévue à l'article 4 de l'arrêté du 29 décembre 2014 susvisé pour les actions réalisées en zone non interconnectée au réseau métropolitain continental de transport d'électricité ;
+a) “ZNI”, pour la bonification prévue à l'article 4 de l'arrêté du 29 décembre 2014 susvisé pour les actions réalisées en zone non interconnectée au réseau métropolitain continental de transport d'électricité ;
 
-b) "GPE ZNI", pour la bonification prévue à l'article 4 de l'arrêté du 29 décembre 2014 susvisé pour les actions réalisées en zone non interconnectée au réseau métropolitain continental de transport d'électricité au bénéfice de ménages en situation de grande précarité énergétique ;
+b) “CPE”, pour la bonification prévue à l'article 6 de l'arrêté du 29 décembre 2014 susvisé ;
 
-c) "ETS", pour la bonification prévue à l'article 5 de l'arrêté du 29 décembre 2014 susvisé ;
+c) “CDP”, pour les autres bonifications prévues à l'arrêté du 29 décembre 2014 susvisé.
 
-d) "CPE", pour la bonification prévue à l'article 6 de l'arrêté du 29 décembre 2014 susvisé ;
-
-e) "GPE", pour la bonification prévue à l'article 6-1 de l'arrêté du 29 décembre 2014 susvisé ;
-
-f) "CFT" pour la bonification prévue à l'article 3-4 de l'arrêté du 29 décembre 2014 susvisé ;
-
-g) "CRC" pour la bonification prévue à l'article 3-5 de l'arrêté du 29 décembre 2014 susvisé ;
-
-h) "CRM" pour la bonification prévue à l'article 3-5-1 de l'arrêté du 29 décembre 2014 susvisé ;
-
-i) "CTH" pour la bonification prévue à l'article 3-6-1 de l'arrêté du 29 décembre 2014 susvisé ;
-
-j) “ CDP ” pour les bonifications prévues aux articles 3-6, 3-7, 3-7-1 et au VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 susvisé ;
-
-k) “AUTRE” pour les autres bonifications prévues par l'arrêté du 29 décembre 2014 susvisé.
-
-Lorsque plusieurs sigles concernent une même opération, ils sont concaténés par ordre alphabétique en étant séparés par un espace.
+Lorsque plusieurs sigles concernent une même opération, ils sont concaténés par ordre alphabétique en étant séparés par un espace ;
 
 - pour le SIREN et la raison sociale du professionnel : le professionnel est le professionnel ayant mis en œuvre ou assuré la maîtrise d'œuvre de l'opération, ou à défaut, s'agissant de travaux relatifs aux fiches d'opérations standardisées BAR-TH-174, BAR-TH-175 et BAR-TH-177 le professionnel ayant réalisé les travaux les plus coûteux du projet de travaux, signataire de l'attestation prévue au point I-9° de l'annexe 4 ou au point 5 de l'annexe 5. La raison sociale peut être remplacée par le nom commercial du professionnel ou son sigle, tels que portés au registre du commerce et des sociétés. Le cas échéant, pour les opérations relevant de la fiche d'opération standardisée BAR-TH-174 et BAR-TH-175 valorisée par l'agence mentionnée à l'article L. 321-1 du code de la construction et de l'habitation, ces colonnes correspondent respectivement au SIREN et à la raison sociale de l'accompagnateur mentionné à l'article L. 232-3 du code de l'énergie ;
 
@@ -120,4 +104,4 @@ Pour le cas d'un regroupement :
 
 NOTA :
 
-Conformément au premier alinéa de l'article 5 de l'arrêté du 21 décembre 2025 (NOR : ECOR2534164A), ces dispositions, dans leur rédaction issue du II de l'article 1er de l'arrêté précité, entrent en vigueur à compter du 1er juillet 2026 et s'appliquent aux opérations engagées à compter de cette date.
+Conformément au I de l'article 8 de l'arrêté du 17 août 2026 (NOR : ECOR2620460A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er septembre 2026 et s'appliquent aux opérations engagées à compter de cette date.

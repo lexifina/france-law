@@ -354,15 +354,13 @@ Pour une opération engagée à compter du 1er avril 2021, indiquer les coordonn
 
 J'atteste sur l'honneur :
 
--que l'organisme cité ci-dessus que je représente est un organisme d'habitations à loyer modéré défini à l'article L. 411-2 du code de la construction et de l'habitation, ou un maître d'ouvrage d'insertion agréé au titre de l'article L. 365-2 du même code ou une société d'économie mixte, ou un autre bailleur mentionné aux quatrième et cinquième alinéas de l'article 41 ter de la loi n° 86-1290 du 23 décembre 1986tendant à favoriser l'investissement locatif, l'accession à la propriété de logements sociaux et le développement de l'offre foncière ;
-
 -le nombre total de ménages concernés par l'opération :
 
 (*) Nombre total de ménages :
 
--le nombre de ménages, parmi ceux concernés par l'opération, dont le logement, géré par l'organisme ci-dessus, fait l'objet d'une convention définie à l'article L. 831-1 du code de la construction ou de l'habitation :
+- le nombre de ménages, parmi ceux concernés par l'opération, logés dans des logements qu'il gère et qui remplissent l'une des conditions du IV de l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie.
 
-(*) Nombre de ménages habitant un logement conventionné géré par l'organisme :
+(*) Nombre de ménages habitant un logement respectant l'une des conditions précitées géré par l'organisme :
 
 Fait à.
 
@@ -732,96 +730,70 @@ Pays :
 
 (*) Courriel :
 
-(indiquer : “ néant ” si le bénéficiaire ne dispose pas d'une adresse de courriel)
+(indiquer : “néant” si le bénéficiaire ne dispose pas d'une adresse de courriel)
 
-(*) Cocher l'une des deux cases suivantes : en tant que bénéficiaire de l'opération d'économies d'énergie, j'atteste que :
+(*) En tant que bénéficiaire de l'opération d'économies d'énergie, j'atteste que mon ménage appartient au décile (indiquer le numéro du décile) selon les plafonds de revenus du tableau ci-dessous, et mon foyer fiscal comporte :
 
-□ Les revenus de mon ménage sont inférieurs aux plafonds du tableau B et supérieurs ou égaux aux plafonds du tableau A ci-dessous, et mon ménage comporte :
-
-(*) Nombre de personnes :
+(*) Nombre de parts :
 
 Si mon ménage comporte plusieurs foyers fiscaux et que les pièces justificatives des revenus sont les avis d'imposition :
 
 (*) Nombre de foyers fiscaux :
 
-(*) Nom (s) et prénom (s) du (des) premier (s) déclarant (s) des autres foyers fiscaux :
+(*) Nom(s) et prénom(s) du (des) premier (s) déclarant (s) des autres foyers fiscaux :
 
-□ Les revenus de mon ménage sont inférieurs aux plafonds du tableau A ci-dessous, et mon ménage comporte :
+Pour un ménage comportant plusieurs foyers fiscaux, les revenus du ménage par part sont égaux à la somme, pour chaque foyer fiscal, des revenus fiscaux de référence divisés par le nombre de parts.
 
-(*) Nombre de personnes :
+Un ménage est considéré comme appartenant au décile de revenu fiscal de référence par part du tableau ci-dessous si ses revenus sont inférieurs ou égaux au plafond de revenus correspondant :
 
-Si mon ménage comporte plusieurs foyers fiscaux et que les pièces justificatives des revenus sont les avis d'imposition :
+Décile de revenus |
 
-(*) Nombre de foyers fiscaux :
+Plafonds de revenus du ménage par part (€) |
 
-(*) Nom (s) et prénom (s) du (des) premier (s) déclarant (s) des autres foyers fiscaux :
+Décile 1 |
 
-Tableau A
+1 970 |
 
-Nombre de personnes composant le ménage |
+Décile 2 |
 
-Plafonds de revenus du ménage (€) |
+7 640 |
 
-1 |
+Décile 3 |
 
-24 031 |
+11 250 |
 
-2 |
+Décile 4 |
 
-35 270 |
+14 130 |
 
-3 |
+Décile 5 |
 
-42 357 |
+16 880 |
 
-4 |
+Décile 6 |
 
-49 455 |
+19 600 |
 
-5 |
+Décile 7 |
 
-56 580 |
+22 770 |
 
-Par personne supplémentaire |
+Décile 8 |
 
-7 116 |
+27 310 |
 
-Tableau B
+Décile 9 |
 
-Nombre de personnes composant le ménage |
+35 880 |
 
-Plafonds de revenus du ménage (€) |
+Le décile 10 correspond aux revenus du ménage par part supérieurs au plafond de revenus du ménage par part du décile 9.
 
-1 |
+Fait à
 
-29 253 |
+(*) Le _ _ / _ _ / _ _ _ _
 
-2 |
-
-42 933 |
-
-3 |
-
-51 564 |
-
-4 |
-
-60 208 |
-
-5 |
-
-68 877 |
-
-Par personne supplémentaire |
-
-8 663 |
-
-Fait à.
-
-(*) Le _ _/ _ _/ _ _ _ _
-
-(*) Signature du bénéficiaire.
+(*) Signature du bénéficiaire
 
 NOTA :
 
-Conformément au deuxième alinéa de l'article 5 de l'arrêté du 21 décembre 2025 (NOR : ECOR2534164A), ces dispositions, dans leur rédaction issue du IV de l'article 1er de l'arrêté précité, entrent en vigueur à compter du 1er avril 2026 et s'appliquent aux opérations engagées à compter de cette date.
+Conformément à l'article 8 de l'arrêté du 16 juillet 2026 (NOR : ECOR2616112A) et au I de l'article 8 de l'arrêté du 17 août 2026 (NOR : ECOR2620460A), ces dispositions, dans leur rédaction résultant desdits arrêtés, entrent en vigueur à compter du 1er septembre 2026 et s'appliquent aux opérations engagées à compter de cette date.
