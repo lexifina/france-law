@@ -92,7 +92,7 @@ A.-Techniques et notamment : prendre en charge les principales urgences des autr
 
 -gynéco-obstétrique : prendre en charge les urgences gynécologiques y compris la chirurgie d'hémostase ;
 
--urologie : savoir poser une indication de drainage vésical, mettre en place un cathéter suspubien, prendre en charge dans les 12 premières heures les infections urinaires associées aux soins, une crise de colique néphrétique, une rétention aigue d'urine, une anurie obstructive, un caillotage vésical, une plaie ou traumatisme de la vessie, du rein, de l'uretère, de l'urètre, des organes génitaux externes, les urgences urologiques vitales et fonctionnelles ;
+-urologie : savoir poser une indication de drainage vésical, mettre en place un cathéter suspubien, prendre en charge dans les 12 premières heures les infections urinaires associées aux soins, une crise de colique néphrétique, une rétention aigue d'urine, une anurie obstructive, un caillotage vésical, une plaie ou traumatisme de la vessie, du rein, de l'uretère, de l'urètre, des organes génitaux externes, les urgences urologiques vitales et fonctionnelles, et l'exploration d'une bourse aigüe ;
 
 -viscérale et digestive : diagnostic et prise en charge d'une occlusion, d'une éviscération, d'une éventration, mettre en place une sonde gastrique, évacuer un fécalome, réaliser une colostomie.
 
@@ -260,7 +260,11 @@ B - Techniques :
 
 -identifier et traiter une complication peropératoire ;
 
--effectuer dans leur totalité les interventions de la spécialité les plus courantes (résection endo urétrale de prostate, biopsie prostatique, montée de sonde urétérale, cystoscopie, résection de tumeur de vessie, néphrostomie, urétéroscopie diagnostique ou pour lithiase, lithotritie rénale percutanée, pose de bandelette sous urétrale, injection de toxine botulique intra détrusorienne, pose de sonde urétérale, cure d'hydrocèle, orchidectomie, vasectomie, résection endo urétrale de la vessie, néphrectomie totale, pose de bandelette sous urétrale par voie rétropubienne (TVT) ou trans-obturatrice (TOT), intervention de Burch, promontofixation, cure de prolapsus voie basse, dérivations urinaires continentes ou non, neuromodulation sacrée, injections de toxine botulique, pose de sphincter urinaire artificiel et de ballonets ajustables périurétraux, injection d'agents comblants, cystographie, urétrographie, pyélographie, occlusion sur bride, colostomie, résections segmentaires du grêle ou du colon, etc.) et une partie des interventions qui doivent être maitrisées au cours de la phase de consolidation.
+-effectuer dans leur totalité les interventions de la spécialité les plus courantes (résection endo urétrale de prostate, biopsie prostatique, posthectomie et circoncision, montée de sonde urétérale, cystoscopie, résection de tumeur de vessie, néphrostomie, urétéroscopie diagnostique ou pour lithiase, lithotritie rénale percutanée, pose de bandelette sous urétrale, injection de toxine botulique intra détrusorienne, pose de sonde urétérale, cure d'hydrocèle, orchidectomie, vasectomie, résection endo urétrale de la vessie, néphrectomie totale, pose de bandelette sous urétrale par voie rétropubienne (TVT) ou trans-obturatrice (TOT), intervention de Burch, promontofixation, cure de prolapsus voie basse, dérivations urinaires continentes ou non, neuromodulation sacrée, injections de toxine botulique, pose de sphincter urinaire artificiel et de ballonets ajustables périurétraux, injection d'agents comblants, cystographie, urétrographie, pyélographie, occlusion sur bride, colostomie, résections segmentaires du grêle ou du colon, etc.) et une partie des interventions qui doivent être maitrisées au cours de la phase de consolidation.
+
+- validation de tous les ETU ;
+
+- validation de tous les modules de l'Enseignement du Collège d'Urologie.
 
 C - Comportementales :
 
@@ -421,3 +425,7 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 - entretien avec la commission locale de la spécialité
 
 - au moins un article accepté dans une revue à comité de lecture et présentation orale d'un travail de recherche.
+
+NOTA :
+
+Conformément à l’article 40 de l’arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

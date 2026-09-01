@@ -12,7 +12,7 @@ Former un spécialiste en médecine Interne et immunologie clinique ayant acquis
 
 1.2. Durée totale du DES :
 
-10 semestres dont au moins 4 dans la spécialité (dont au moins 2 dans un lieu de stage avec encadrement universitaire tel que défini à l'article 1er du présent arrêté) et au moins 2 dans un lieu de stage sans encadrement universitaire.
+10 semestres dont au moins 4 dans la spécialité (dont au moins 2 dans un lieu de stage avec encadrement universitaire tel que défini à l'article 1er du présent arrêté) et au moins 2 dans un lieu de stage sans encadrement universitaire, dont un dans la spécialité.
 
 1.3. Intitulé des options proposées au sein du DES : néant
 
@@ -133,6 +133,12 @@ En cas de capacités de formation insuffisantes, le stage à réaliser dans un l
 Critères d'agrément des stages de niveau I dans la spécialité :
 
 En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
+
+-l'intitulé de la structure d'accueil/service : service de médecine interne et/ou de médecine polyvalente ;
+
+-la présence d'au moins deux praticiens spécialistes en médecine interne dont au moins un ancien chef de clinique assistant (CCA) ou un ancien assistant/spécialiste ayant effectué deux années de post-internat en médecine interne et/ou immunologie clinique pour les services universitaires ;
+
+-la présence d'au moins un praticien spécialiste en médecine interne pour les services non universitaires.
 
 -un recrutement de patients couvrant un éventail suffisant des pathologies prises en charge par la spécialité, en particulier les plus fréquentes et une exposition aux admissions non programmées
 
@@ -292,9 +298,9 @@ Diagnostiquer (identifier la cause) et orienter la prise en charge/ prendre en c
 
 -vascularites : artérite à cellules géantes et une pseudo-polyarthrite rhizomélique, Takayasu, périartérite noueuse, polyangéite microscopique, granulomatose avec polyangéite, granulomatose avec éosinophilie et polyangéite, maladie de Buerger, vascularite à IgA, maladie de Behcet, syndrome de Cogan, maladie à anticorps anti-membrane basale glomérulaire, vascularite cryoglobulinémique, vascularite médicamenteuse, vascularite rétinienne, vascularite primitive du système nerveux central, vascularite secondaire à une néoplasie, maladie des emboles de cholestérol (et prévention)
 
--pathologies qui relèvent de l'interniste pour leur diagnostic et leur suivi : lupus érythémateux systémique, syndrome des anti-phospholipides, syndrome de Gougerot-Sjögren primitif et secondaire, sclérodermie systémique, myopathies inflammatoires, myopathies nécrosantes auto-immunes, polychrondrite atrophiante, connectivite mixte, maladie de Still de l'adulte, fièvre méditerranéenne familiale et autres syndromes auto-inflammatoires, syndrome de Susac, granulomatoses
+-pathologies qui relèvent de l'interniste pour leur diagnostic et leur suivi : lupus érythémateux systémique, syndrome des anti-phospholipides, maladie de Sjögren, sclérodermie systémique, myopathies inflammatoires, myopathies nécrosantes auto-immunes, polychrondrite atrophiante, connectivite mixte, maladie de Still de l'adulte, fièvre méditerranéenne familiale et autres syndromes auto-inflammatoires, syndrome de Susac, granulomatoses
 
--pathologies au cours desquelles l'interniste peut intervenir : maladie de Biermer, syndrome de Guillain Barre, sarcoïdose, hépatite auto-immune, cirrhose biliaire primitive, cholangite sclérosante primitive, pathologies dysimmunitaires digestives à l'exception des MICI, pemphigus vulgaire, pemphigoïde bulleuse, d'une dermatose neutrophilique, myasthénie, syndrome de Lambert Eaton, neuropathie à petites fibres, encéphalopathie à Ac anti-NMDA, sclérose en plaque et autres maladies démyélinisantes, amyloses.
+-pathologies au cours desquelles l'interniste peut intervenir : maladie de Biermer, syndrome de Guillain Barre, sarcoïdose, hépatite auto-immune, cholangite biliaire primitive, cholangite sclérosante primitive, pathologies dysimmunitaires digestives à l'exception des MICI, pemphigus vulgaire, pemphigoïde bulleuse, d'une dermatose neutrophilique, myasthénie, syndrome de Lambert Eaton, neuropathie à petites fibres, encéphalopathie à Ac anti-NMDA, sclérose en plaque et autres maladies démyélinisantes, amyloses.
 
 -maladies hématologiques : hyperéosinophilie, syndrome d'activation macrophagique, cytopénies auto-immunes, purpura thrombotique thrombocytopénique et un syndrome hémolytique et urémique, hémoglobinurie paroxystique nocturne, histiocytoses langerhansiennes ou non langerhansiennes, syndrome POEMS, manifestations systémiques associées à une gammapathie monoclonale, mastocytose systémique, maladie de Kikuchi Fujimoto, maladie de Castleman, syndrome hyperéosinophilique, fasciite de Shulman.
 
@@ -316,21 +322,29 @@ Identifier la cause (et prendre en charge) : neuropathies périphériques, syndr
 
 3.4. Stages :
 
--1 stage dans un lieu hospitalier agréé à titre principal en médecine interne et immunologie clinique
+- 1 stage dans un lieu hospitalier agréé à titre principal en médecine interne et immunologie clinique ;
 
--1 stage dans un lieu hospitalier agréé à titre principal en médecine intensive-réanimation et à titre complémentaire en médecine interne et immunologie clinique
+- 1 stage dans un lieu hospitalier agréé à titre principal en médecine intensive-réanimation et à titre complémentaire en médecine interne et immunologie clinique ;
 
--4 stages libres
+- 1 stage hors spécialité agréé à titre principal en Gériatrie, Hématologie, Hépato-gastroentérologie, Médecine Cardio-vasculaire, Néphrologie, Neurologie, Pneumologie ou Rhumatologie et à titre complémentaire en Médecine interne et immunologie clinique ;
 
-En cas d'impossibilité de réalisation du stage dans un lieu agréé à titre principal en maladies infectieuses et tropicales durant la phase socle, l'un des quatre stages libres est remplacé par ce stage
+- 3 stages libres.
+
+En cas d'impossibilité de réalisation du stage dans un lieu agréé à titre principal en maladies infectieuses et tropicales durant la phase socle, l'un des trois stages libres est remplacé par ce stage
 
 Critères d'agrément des stages de niveau II dans la spécialité :
 
 En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
 
--le niveau d'encadrement
+- l'intitulé de la structure d'accueil/service : service de médecine interne et/ou de médecine polyvalente ;
 
--un nombre plus important de patient pris en charge par l'étudiant qu'en phase socle
+- la présence d'au moins deux praticiens spécialistes en médecine interne dont au moins un ancien chef de clinique assistant (CCA) ou un ancien assistant/spécialiste ayant effectué deux années de post-internat en médecine interne et/ou immunologie clinique pour les services universitaires ;
+
+- la présence d'au moins un praticien spécialiste en médecine interne pour les services non universitaires ;
+
+- le niveau d'encadrement ;
+
+- un nombre plus important de patient pris en charge par l'étudiant qu'en phase socle
 
 3.5. Evaluation
 
@@ -376,19 +390,25 @@ Les compétences génériques et spécifiques permettent à l'étudiant d'acqué
 
 Nombre et durée des stages de niveau III :
 
-1 stage d'un an, ou deux stages d'un semestre lorsque l'acquisition par l'étudiant des compétences de la spécialité le justifie, accompli soit :
+Deux stages d'un semestre, accomplis soit :
 
--dans un lieu hospitalier agréé à titre principal en médecine interne et immunologie clinique
+- dans un lieu hospitalier agréé à titre principal en médecine interne et immunologie clinique ;
 
--sous la forme d'un stage couplé dans des lieux hospitaliers agréés à titre principal ou complémentaire en médecine interne et immunologie clinique
+- sous la forme d'un stage couplé dans des lieux hospitaliers agréés à titre principal ou complémentaire en médecine interne et immunologie clinique.
 
 Critères d'agrément des stages de niveau III :
 
 En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
 
--le niveau d'encadrement
+- l'intitulé de la structure d'accueil/service : service de médecine interne et/ou de médecine polyvalente ;
 
--une activité incluant les consultations, les différents modes d'hospitalisation, la rédaction de courriers de synthèse et les avis téléphoniques sur dossier
+- la présence d'au moins deux praticiens spécialistes en médecine interne dont au moins un ancien chef de clinique assistant (CCA) ou un ancien assistant/spécialiste ayant effectué deux années de post-internat en médecine interne et/ou immunologie clinique pour les services universitaires ;
+
+- la présence d'au moins un praticien spécialiste en médecine interne pour les services non universitaires ;
+
+- le niveau d'encadrement ;
+
+- une activité incluant les consultations, les différents modes d'hospitalisation, la rédaction de courriers de synthèse et les avis téléphoniques sur dossier
 
 4.5. Evaluation :
 
@@ -418,4 +438,4 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 
 NOTA :
 
-Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.
+Conformément à l’article 40 de l’arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

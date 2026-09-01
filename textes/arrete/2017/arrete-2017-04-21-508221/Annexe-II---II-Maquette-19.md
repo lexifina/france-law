@@ -186,7 +186,13 @@ Maîtrise partielle
 
 -2 stages dans un lieu agréé à titre principal en médecine nucléaire
 
--2 stages dans un lieu agréé à titre complémentaire en médecine nucléaire et à titre principal en radiologie-imagerie médicale ou en médecine cardio-vasculaire ou en endocrinologie-diabétologie-nutrition ou en oncologie (médicale, radiothérapie, ou hémato-oncologie) ou en neurologie, ou dans une autre spécialité après accord du coordonnateur local. Ces deux stages sont accomplis dans des spécialités différentes.
+-1 stage dans un lieu agréé à titre complémentaire en médecine nucléaire et à titre principal en radiologie-imagerie médicale ou en médecine cardio-vasculaire ou en endocrinologie-diabétologie-nutrition ou en oncologie (médicale, radiothérapie, ou hémato-oncologie) ou en neurologie, ou dans une autre spécialité après accord du coordonnateur local.
+
+- 1 stage accompli soit :
+
+1° Dans un lieu agréé à titre complémentaire en médecine nucléaire et à titre principal en radiologie et imagerie médicale ou en médecine cardio-vasculaire ou en endocrinologie-diabétologie-nutrition ou en oncologie (médicale, radiothérapie, ou hémato-oncologie) ou en neurologie, ou dans une autre spécialité après accord du coordonnateur local. Ce stage est accompli dans une spécialité différente du stage précédent ;
+
+2° Dans un lieu agréé à titre principal en médecine nucléaire ayant une activité thérapeutique (Radiothérapie Interne Vectorisée et/ou Sélective) permettant à l'interne une pratique clinique de Radiothérapie Interne Vectorisée et/ou Sélective prépondérante
 
 Critères d'agrément des stages de niveau II dans la spécialité :
 
@@ -226,7 +232,9 @@ f) Pneumologie (50 % de scintigraphie ventilation/ perfusion couplée) 60
 
 g) Urologie et appareil digestif 60
 
-h) Autres ou en supplément des nombres indiqués pour les domaines spécifiés ci-dessus 300
+h) Autres ou en supplément des nombres indiqués pour les domaines spécifiés ci-dessus 500 comprenant des examens de pédiatrie.
+
+i) Actes thérapeutiques par les radionucléides à visée oncologique 30.
 
 -évaluation de la compétence de rédaction d'un compte-rendu
 
@@ -302,7 +310,7 @@ En outre, l'étudiant est capable de s'engager dans les actions suivantes :
 
 Nombre et durée des stages de niveau III :
 
-1 stage de un an, ou deux stages d'un semestre lorsque l'acquisition par l'étudiant des compétences de la spécialité le justifie, accompli soit :
+deux stages d'un semestre accomplis soit :
 
 -dans un lieu à titre principal en médecine nucléaire
 
@@ -361,3 +369,7 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 -mémoire de spécialité de médecine nucléaire
 
 -soumission au journal français de médecine nucléaire ou à un journal indexé de ce travail de mémoire sous forme d'article, le candidat étant premier ou deuxième auteur
+
+NOTA :
+
+Conformément à l’article 40 de l’arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

@@ -226,7 +226,7 @@ Les compétences spécifiques sont détaillées dans la plateforme numérique du
 
 A. - Cliniques : diagnostiquer et prendre en charge les pathologies courantes ainsi que les complications postopératoires de la spécialité ; comprendre les enjeux de santé publique et identifier les patients à risque ; évaluer les bénéfices et risques des procédures diagnostiques et thérapeutiques de la spécialité ; organiser le parcours des patients et rédiger des comptes rendus opératoires et d'hospitalisation.
 
-B. - Techniques : utiliser les dispositifs médicaux de la spécialité ; identifier et traiter une complication peropératoire ; maîtriser au moins 10 des situations décrites comme correspondant à cette phase dans la plateforme numérique de la spécialité (par exemple : remplacement valvulaire aortique dans les situations techniques simples; patient porteur d'une tumeur d'un champ pulmonaire; patient porteur d'une artériopathie des membres inférieurs au stade de la claudication intermittente…/…).
+B. - Techniques : utiliser les dispositifs médicaux de la spécialité incluant les dispositifs chirurgicaux classiques et mini-invasifs, endovasculaires cardiovasculaires structurels, endoscopiques bronchiques et œsophagiens, ainsi que les logiciels et matériels d'imagerie embarqués au bloc opératoire échographiques et radiologiques ; identifier et traiter une complication peropératoire ; maîtriser au moins 10 des situations décrites comme correspondant à cette phase dans la plateforme numérique de la spécialité (par exemple : remplacement valvulaire aortique dans les situations techniques simples; patient porteur d'une tumeur d'un champ pulmonaire; patient porteur d'une artériopathie des membres inférieurs au stade de la claudication intermittente…/…).
 
 C. - Comportementales : transmettre et recevoir des informations dans le cadre de la continuité des soins ; présenter les résultats d'un travail de recherche ; connaître les conséquences personnelles du stress et les moyens de s'en prémunir ; porter un jugement critique sur ses connaissances, ses compétences, ses pratiques et assumer des responsabilités ; reconnaître et déclarer un événement indésirable, comprendre l'intérêt d'identifier des défaillances structurelles et organisationnelles, faire des propositions de changement d'organisation.
 
@@ -328,7 +328,7 @@ Les compétences spécifiques sont détaillées dans la plateforme numérique du
 
 A. - Cliniques : assurer une consultation de patients de la spécialité, une consultation d'annonce, une garde d'urgence (y compris le triage en cas d'afflux massif de blessés et la prise en charge des traumatismes par armes de guerre pour ceux inscrit dans la FST) , la prise en charge clinique d'un secteur d'hospitalisation ; diagnostiquer et traiter les pathologies de la spécialité qui ne relèvent pas des maladies rares ou de centres de référence ; anticiper et traiter les complications postopératoires ; connaître le coût des ressources utilisées, l'organisation et la règlementation de l'exercice professionnel.
 
-B. - Techniques : maîtriser l'utilisation des dispositifs médicaux de la spécialité ; savoir effectuer en autonomie dans leur totalité les interventions de la spécialité les plus courantes et/ou qui relèvent d'une urgence vitale. Parmi toutes les situations décrites comme correspondant à cette phase sur la plateforme numérique de la spécialité, , l'étudiant devra être apte à faire face à au moins 10 (ex: Prise en charge d'un patient porteur d'une pathologie valvulaire aortique associée à une anomalie de l'aorte ascendante, Patient porteur d'une tumeur d'un champ pulmonaire y compris dans les situations complexes (patient fragile, tumeur T4, etc), Patient porteur d'un anévrysme de l'aorte thoracique descendante (chirurgie ouverte ou endoluminale)).
+B. - Techniques : maîtriser l'utilisation des dispositifs médicaux de la spécialité incluant les dispositifs chirurgicaux classiques et mini-invasifs, endovasculaires cardiovasculaires structurels, endoscopiques bronchiques et œsophagiens, ainsi que les logiciels et matériels d'imagerie embarqués au bloc opératoire échographiques et radiologiques ; savoir effectuer en autonomie dans leur totalité les interventions de la spécialité les plus courantes et/ou qui relèvent d'une urgence vitale. Parmi toutes les situations décrites comme correspondant à cette phase sur la plateforme numérique de la spécialité, , l'étudiant devra être apte à faire face à au moins 10 (ex: Prise en charge d'un patient porteur d'une pathologie valvulaire aortique associée à une anomalie de l'aorte ascendante, Patient porteur d'une tumeur d'un champ pulmonaire y compris dans les situations complexes (patient fragile, tumeur T4, etc), Patient porteur d'un anévrysme de l'aorte thoracique descendante (chirurgie ouverte ou endoluminale)).
 
 C. - Comportementales : être à même de proposer une médecine personnalisée ; proposer une solution et savoir l'évaluer devant une situation inhabituelle ; savoir gérer un conflit ; savoir prévenir les risques et identifier les causes systémiques d'un événement indésirable ; travailler en équipe / assurer un leadership en situation de crise ; animer une réunion de concertation pluridisicplinaire d'oncologie et organiser des circuits de recours ; participer à une démarche d'autoévaluation / accréditation / formation médicale continue ; formuler la question d'un sujet de recherche, identifier les objectifs primaires et secondaires et la méthodologie pour y répondre ; réaliser un enseignement théorique et pratique, une analyse critique de la littérature, une réunion de morbi-mortalité.
 
@@ -336,11 +336,9 @@ C. - Comportementales : être à même de proposer une médecine personnalisée 
 
 Nombre et durée des stages de niveau III :
 
-2 stages de un an accomplis soit :
+Un stage d'un an dans un lieu hospitalier agréé à titre principal en chirurgie thoracique et cardiovasculaire.
 
-- dans un lieu hospitalier agréé à titre principal en chirurgie thoracique et cardiovasculaire ;
-
-- sous la forme d'un stage couplé dans des lieux hospitaliers agréés à titre principal en chirurgie thoracique et cardiovasculaire.
+Un stage d'un an dans un lieu hospitalier agréé à titre principal en chirurgie thoracique et cardiovasculaire ou en chirurgie vasculaire.
 
 L'un de ces stages est accompli dans un lieu avec encadrement universitaire.
 
@@ -389,3 +387,7 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 - entretien avec la commission locale ou régionale de coordination de la spécialité ;
 
 - soumission d'au moins un article dans une revue à comité de lecture et présentation orale d'un travail de recherche.
+
+NOTA :
+
+Conformément à l’article 40 de l’arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

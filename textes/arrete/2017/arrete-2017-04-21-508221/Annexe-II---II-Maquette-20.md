@@ -34,6 +34,8 @@ Dans le cadre de son projet professionnel, et en regard des besoins de santé et
 
 -pharmacologie médicale/ thérapeutique
 
+-phoniatrie
+
 2. Phase socle
 
 2.1. Durée : 2 semestres
@@ -312,7 +314,7 @@ Elles sont détaillées dans la plateforme numérique du collège de la spécial
 
 Nombre et durée des stages de niveau III :
 
-1 stage d'un an accompli soit :
+Deux stages d'un semestre accomplis, soit :
 
 -dans lieu ou auprès d'un praticien-maître de stage des universités agréé à titre principal en médecine physique et de réadaptation
 
@@ -358,4 +360,4 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 
 NOTA :
 
-Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.
+Conformément à l’article 40 de l’arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

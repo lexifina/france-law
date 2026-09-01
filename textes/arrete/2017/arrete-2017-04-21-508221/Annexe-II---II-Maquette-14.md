@@ -228,7 +228,7 @@ Les compétences spécifiques sont détaillées dans la plateforme numérique du
 
 Nombre et durée des stages de niveau III :
 
-1 stage d'un an, ou deux stages d'un semestre lorsque l'acquisition par l'étudiant des compétences de la spécialité le justifie, accompli soit :
+deux stages d'un semestre accomplis soit :
 
 -dans un lieu agréé à titre principal en médecine et santé au travail. Ce stage est de préférence accompli dans un service de santé au travail interentreprises et dans un service de santé au travail autonome
 
@@ -263,3 +263,7 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 -validation du contrôle continu des connaissances et des compétences
 
 -soutenance d'un mémoire
+
+NOTA :
+
+Conformément à l’article 40 de l’arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

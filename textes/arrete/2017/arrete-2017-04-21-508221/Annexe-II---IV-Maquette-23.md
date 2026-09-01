@@ -1,118 +1,28 @@
 # Article Annexe II - IV. Maquette 23
 
-FORMATION SPÉCIALISÉE TRANSVERSALE DE PHARMACOLOGIE MÉDICALE/THÉRAPEUTIQUE
+FORMATION SPÉCIALISÉE TRANSVERSALE DE NUTRITION APPLIQUÉE
 
 1. Organisation générale
 
 1.1. Objectifs généraux de la formation
 
-Créer des liens entre la pharmacologie médicale, la thérapeutique et les différentes autres spécialités afin d'augmenter la capacité à mener des grands essais thérapeutiques, d'optimiser le bon usage du médicament à l'échelon individuel et collectif, d'améliorer le système de prise en charge du risque médicamenteux, de mieux participer aux expertises collectives.
+Donner une compétence avancée pour la prise en charge des pathologies nutritionnelles complexes rencontrées dans la spécialité d'origine de l'étudiant inscrit dans la FST.
 
-1.2. Collèges d'enseignants impliqués dans cette FST
+1.2. Collèges d'Enseignants impliqués dans cette FST
 
-Collège National de Pharmacologie Médicale et Collège National des Enseignants de Thérapeutique.
+Nutrition, Anesthésie-Réanimation, Biologie, Chirurgie viscérale et digestive, Hépatologie-Gastroentérologie, Gériatrie, Médecine intensive-Réanimation, Maladies infectieuses et tropicales, Médecine interne et Immunologie Clinique, Médecine vasculaire, Pédiatrie, Psychiatrie.
 
 1.3. Durée de la FST
 
 2 semestres.
 
-1.4. Sélection des candidats à la FST :
+1.4. Sélection des candidats à la FST
 
-Conformément à l'article 6 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
+Conformément à l'article 6 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine. Une attention particulière sera portée au parcours suivi par l'étudiant et à son projet professionnel.
 
-2. Niveau 1
+2. Caractéristiques
 
-2.1. Durée :
-
-1 semestre.
-
-2.2. Enseignements hors stages
-
-Volume horaire : 2 demi-journées par semaine : une demi-journée en supervision et une demi-journée en autonomie.
-
-Nature des enseignements :
-
-En application de l'article 5 du présent arrêté :
-
-- enseignement en autonomie sous la forme d'e-learning ;
-
-- séminaires présentiels.
-
-Connaissances à maîtriser à l'issue de la formation
-
-Elles sont détaillées sur la plateforme numérique de la FST.
-
-Outre le tronc commun de formation générale, elles portent en particulier sur :
-
-- pharmacologie générale et des grandes classes médicamenteuses avec une orientation particulière vers l'évaluation, le suivi et la pharmaco-surveillance (intégrant la pharmaco-épidémiologie et les méta-analyses) ;
-
-- développement des médicaments et des dispositifs médicaux (DM) (du préclinique à l'AMM), avec une attention particulière pour les principes méthodologiques, notamment aux phases cliniques d'évaluation ;
-
-- principes statistiques et méthodologiques, revues systématiques, méta-analyses ;
-
-- environnement médico-réglementaire des médicaments et des DM au niveau national et européen dans une perspective de Santé publique et sociale.
-
-2.3. Stages
-
-Stages à réaliser
-
-1 stage d'un semestre dans un lieu bénéficiant d'un agrément fonctionnel pour la FST de Pharmacologie médicale/thérapeutique.
-
-Critères d'agrément des stages dans la FST
-
-En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte la nature du lieu de stage :
-
-- services de pharmacologie médicale ;
-
-- laboratoires de pharmacologie - toxicologie ;
-
-- structures de type Centres Régionaux de Pharmacovigilance (CRPV), Centres d'Investigations Cliniques (CIC), Centre d'Evaluation et d'Information sur les Pharmacodépendances (CEIP) - addicto-vigilance centre anti-poisons ;
-
-- services cliniques de thérapeutiques ;
-
-- services médicaux, de santé publique ou de biologie ayant des activités en lien avec des structures de pharmacologie et/ou de thérapeutique ;
-
-- structures de recherche clinique.
-
-2.4. Compétences à maîtriser au terme de la formation
-
-Elles sont détaillées sur la plateforme de la FST, en particulier :
-
-- maîtrise des principes fondamentaux des mécanismes d'action des médicaments utilisés dans la spécialité d'origine de l'étudiant ;
-
-- maîtrise des bases de la prescription personnalisée et du suivi thérapeutique des patients ;
-
-- maîtrise des principes de la méthodologie des essais cliniques et de leur interprétation ;
-
-- maîtrise des principes de la méthodologie des études mises en place pour la surveillance des médicaments et des dispositifs médicaux après leur commercialisation (pharmacovigilance, pharmaco-épidémiologie) ;
-
-- maîtrise des modalités de la prescription et de délivrance des médicaments en vue d'optimiser leur bon usage.
-
-2.5. Evaluation
-
-Modalités de l'évaluation des connaissances, donnant accès au niveau 2 de la FST :
-
-Validation en ligne de l'acquisition des connaissances théoriques du tronc commun.
-
-Modalités de l'évaluation des compétences, donnant accès au niveau 2 de la FST :
-
-Evaluation du stage par le maître de stage.
-
-Validation régionale par un examen pratique constitué d'une épreuve parmi les trois suivantes :
-
-- proposition d'un dessin d'essai clinique ;
-
-- analyse d'un cas de pharmacovigilance ;
-
-- interprétation d'un cas de suivi thérapeutique pharmacologique.
-
-3. Niveau 2
-
-3.1. Durée :
-
-1 semestre.
-
-3.2. Enseignements hors stages en lien avec la préparation à l'exercice professionnel (gestion de cabinet…)
+2.1. Enseignements hors stages
 
 Volume horaire :
 
@@ -124,96 +34,136 @@ En application de l'article 5 du présent arrêté :
 
 - enseignement en autonomie notamment par e-learning ;
 
-- séminaire en pédagogie inversée ;
+- séminaires présentiels nationaux, interrégionaux, régionaux et locaux.
 
-- production de contenu pédagogique.
+Connaissances à maîtriser au terme de la formation.
 
-Connaissances et compétences à maîtriser au terme de la formation
+Elles sont détaillées sur la plateforme numérique de la FST et comprennent quatre domaines :
 
-Connaissances
+- les dénutritions ;
 
-Les connaissances sont détaillées sur la plateforme numérique de la FST.
+- les obésités ;
 
-Choix de deux modules de formation théorique parmi les cinq proposés.
+- les troubles du comportement alimentaire ;
 
-Module pharmacologie et toxicologie biologique : connaître les sources de variabilité de l'effet des différentes classes médicamenteuses pour les intégrer au suivi pharmacologique thérapeutique, dont il faudra connaître la méthodologie et l'interprétation.
+- l'alimentation (santé publique et réactions indésirables aux aliments).
 
-Module Pharmaco surveillance : connaître les différentes situations de risque médicamenteux, leur mécanisme et les méthodes de détection pour assurer une pharmaco surveillance intégrant la notification spontanée, la pharmaco épidémiologie, l'analyse des bases de données pour contribuer à l'expertise de ce risque.
+L'étudiant devra connaître les bases théoriques de la Nutrition : dépense énergétique, composition corporelle, besoin nutritionnels, composition des aliments.
 
-Module Evaluation des médicaments : connaître les méthodes d'évaluation du médicament chez le volontaire sain ou les patients et savoir les mettre en œuvre pour évaluer les différents types d'approche pharmacologique.
+2.2. Stages
 
-Module évaluation des thérapeutiques non médicamenteuses (incluant les dispositifs médicaux) : connaître les méthodes d'évaluation des approches thérapeutiques non médicamenteuses chez le volontaire sain ou les patients et savoir les mettre en œuvre.
+Stages à réaliser.
 
-Module bon usage des traitements à l'échelon individuel et collectif : connaître les modalités d'évaluation des stratégies thérapeutiques et les intégrer à une perspective d'efficience médicale et économique de santé publique.
+- 1 stage d'un semestre dans un lieu bénéficiant d'un agrément fonctionnel pour la FST de Nutrition appliquée et prenant en charge la dénutrition ;
 
-Compétences
+- 1 stage d'un semestre dans un lieu de stage bénéficiant d'un agrément fonctionnel pour la de FST Nutrition appliquée et prenant en charge l'obésité.
 
-Elles sont détaillées sur la plateforme numérique de la FST, en particulier :
+Si l'un des stages prend en charge à la fois l'obésité et la dénutrition, l'autre stage peut être fait indifféremment dans le même type de stage (obésité plus dénutrition), dans un stage prenant en charge l'obésité seule ou dans un stage prenant en charge la dénutrition seule.
 
-Pour la pharmacologie médicale
+Critères d'agrément des stages dans la FST, en lien avec le DES d'origine, éventuellement services avec double agrément :
 
-- expertise en matière de suivi pharmacologique et thérapeutique pour contribuer au bon usage du médicament et de la personnalisation des prescriptions ;
+En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
 
-- expertise en matière de pharmaco surveillance pour analyser un problème de risque médicamenteux en y intégrant l'ensemble des données pharmacologiques, pharmaceutiques et médicales ;
+- un encadrement médical adapté ;
 
-- expertise en pharmacologie clinique pour la réalisation et l'interprétation, éventuellement comparative, des essais cliniques, évaluant les différentes approches pharmacologiques ;
+- une activité concernant majoritairement les pathologies de la spécialité (obésité, dénutrition de tout type, troubles du comportement alimentaire, prescription et/ou adaptation de la nutrition artificielle), au minimum 500 consultations et/ou 250 hospitalisations minimum par an de patients ayant une pathologie nutritionnelle ;
 
-- expertise dans l'analyse du rapport bénéfice/risque des médicaments dans une perspective réglementaire et de Santé publique (élaboration de recommandations).
+- une supervision directe ou différée des prescriptions ;
 
-Pour la thérapeutique
+- la possibilité pour l'étudiant de troisième cycle de mettre en application l'apprentissage théorique et pratique qu'il aura acquis au cours de sa formation hors stage, dont au moins une réunion d'examen des dossiers par semaine ;
 
-- expertise dans l'évaluation et l'interprétation des essais cliniques des approches thérapeutiques médicamenteuses et non médicamenteuses ;
+- l'organisation de réunions bibliographiques.
 
-- expertise dans l'analyse du rapport bénéfice/risque des stratégies thérapeutiques dans une perspective réglementaire et de Santé publique (élaboration de recommandations).
+2.3. Compétences à maîtriser au terme de la formation
 
-3.3. Stages
+Les compétences spécifiques à acquérir dépendent du DES dans lequel l'étudiant est inscrit et de son projet professionnel. Elles figurent au contrat de formation mentionné à l'article 13 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
 
-Nombre et durée des stages :
+Elles sont détaillées sur la plateforme numérique de la FST et comprennent en particulier :
 
-1 stage d'un semestre dans un lieu bénéficiant d'un agrément fonctionnel pour la FST Pharmacologie médicale/thérapeutique.
+- dépister, explorer, classer et prendre en charge la dénutrition en ville, à l'hôpital et en établissements d'hébergement pour personnes âgées dépendantes (EHPAD) ;
 
-Critères d'agrément des stages de niveau II :
+- savoir identifier la fragilité, la sarcopénie, l'obésité sarcopénique, la cachexie, connaître les axes de prise en charge ;
 
-En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte la nature du lieu de stage :
+- savoir évaluer les besoins nutritionnels selon l'âge et la situation dans différentes situations pathologies chroniques ;
 
-- services de pharmacologie médicale ;
+- dépister les troubles de l'état nutritionnel liés à des pathologies psychiatriques chroniques ;
 
-- laboratoires de pharmacologie - toxicologie ;
+- prescrire et interpréter l'exploration biologique d'une dénutrition (dénutrition avec et sans inflammation, sarcopénie, fragilité) au diagnostic et lors de son traitement ;
 
-- structures de type CRPV, CIC, CEIP- addicto-vigilance, centre anti-poisons ;
+- dépister une carence d'apports après chirurgie digestive ;
 
-- services cliniques de thérapeutique ;
+- dépister et organiser la prise en charge d'une insuffisance intestinale aiguë et chronique après chirurgie ;
 
-- services médicaux, de santé publique ou de biologie ayant des activités en lien avec des structures de pharmacologie et/ou de thérapeutique ;
+- dépister, explorer, classer et connaître les principes de la prise en charge de la dénutrition liée aux pathologies vasculaires et en particulier aux plaies (ulcères de jambe, escarres) ;
 
-- structures de recherche clinique ;
+- évaluer les besoins nutritionnels chez le patient de réanimation selon différentes pathologies chroniques sous-jacentes ;
 
-- agences de régulation ;
+- évaluer les besoins nutritionnels du patient obèse et savoir identifier une obésité sarcopénique ;
 
-- industrie pharmaceutique.
+- prescrire et surveiller la nutrition artificielle : voie d'administration, substrats, délai d'administration, adaptation selon le terrain, complications ;
 
-3.4. Evaluation
+- évaluer et prendre en charge la dénutrition péri-opératoire et connaître l'utilité de la nutrition péri-opératoire ;
+
+- prescrire et surveiller la nutrition des patients obèses en péri-opératoire et en réanimation ;
+
+- savoir prescrire une immunonutrition ;
+
+- savoir surveiller des patients de réanimation en nutrition artificielle ;
+
+- prescrire et interpréter la surveillance biologique de la nutrition artificielle ;
+
+- savoir prévenir, reconnaître et prendre en charge un syndrome de renutrition ;
+
+- savoir prendre en charge une obésité et ses complications ;
+
+- prescrire et interpréter l'exploration biologique d'une obésité lors du diagnostic et lors de son traitement ;
+
+- prévenir et traiter le surpoids et l'obésité iatrogènes, en particulier secondaires à une corticothérapie ;
+
+- dépister les comorbidités de l'obésité ;
+
+- dépister et prendre en charge les dyslipidémies ;
+
+- savoir explorer une stéatopathie métabolique (stéatose hépatique non alcoolique (NALFD) & stéato-hépatite non alcoolique (NASH)) et instaurer son traitement spécifique. Evaluer les indications de la chirurgie bariatrique en fonction des conditions physiologiques et pathologiques en coopération avec les autres professionnels concernés ;
+
+- suivre la perte de poids après chirurgie bariatrique, dépister une dénutrition ;
+
+- savoir coopérer avec les médecins nutritionnistes.
+
+2.4. Evaluation
 
 Modalités de l'évaluation des connaissances :
 
-Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
+Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine
 
-Examen oral de contrôle des connaissances.
+Evaluation, par le maître de stage portant sur les domaines suivants :
+
+- connaissances théoriques : autoévaluation en ligne sur la plateforme numérique de la FST (e-enseignement et e-évaluation) ;
+
+- contenu du portfolio numérique.
 
 Modalités de l'évaluation des compétences :
 
-Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
+Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
-Mémoire rédigé sous la forme d'un article scientifique, dont le sujet est en lien avec la FST.
+- évaluation, par le maître de stage, des compétences et savoir-faire ;
 
-3.5. Modalités de validation de la FST
+- analyse du portfolio : activités réalisées en lien avec la FST ;
+
+- utilisation des connaissances : présentation de cas cliniques lors de séminaires régionaux ou interrégionaux.
+
+2.5. Modalités de validation de la FST
 
 Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
-mémoire rédigé sous la forme d'un article scientifique, dont le sujet est en lien avec la FST ;
+- validation du contrôle des connaissances et des compétences ;
 
-soutenance orale suivie de questions spécifiques ou générales.
+- la validation du parcours de l'étudiant (portfolio de l'étudiant) ;
+
+- examen écrit ou oral ;
+
+- mémoire rédigé sous la forme d'un article scientifique (original ou revue de la littérature) sur un sujet en lien avec la FST.
 
 NOTA :
 
-Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.
+Conformément à l'article 40 de l'arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

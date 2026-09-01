@@ -348,7 +348,7 @@ Les compétences spécifiques sont détaillées dans la plateforme numérique du
 
 Nombre et durée des stages de niveau III :
 
-1 stage d'un an, accompli soit :
+Deux stages d'un semestre, accomplis soit :
 
 -dans un lieu hospitalier agréé à titre principal en anatomie et cytologie pathologiques ;
 
@@ -400,4 +400,4 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 19 mars 2019 (NOR : ESRS1901610A), ces dispositions s'appliquent aux étudiants inscrits en troisième cycle de médecine à partir de la rentrée universitaire 2017-2018.
+Conformément à l’article 40 de l’arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

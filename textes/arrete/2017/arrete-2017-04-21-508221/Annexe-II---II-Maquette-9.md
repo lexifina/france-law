@@ -324,7 +324,7 @@ A l'issue de la phase, les connaissances et compétences génériques listées d
 
 Nombre et durée des stages de niveau III :
 
-1 stage d'un an, ou deux stages d'un semestre lorsque l'acquisition par l'étudiant des compétences de la spécialité le justifie, accompli soit :
+deux stages d'un semestre accomplis soit :
 
 -dans un lieu hospitalier ou auprès d'un praticien-maître de stage des universités, agréé à titre principal ou complémentaire en gynécologie médicale
 
@@ -371,3 +371,7 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 -cursus de l'étudiant
 
 -publications
+
+NOTA :
+
+Conformément à l’article 40 de l’arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

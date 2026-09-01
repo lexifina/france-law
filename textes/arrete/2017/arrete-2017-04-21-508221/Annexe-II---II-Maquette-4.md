@@ -436,7 +436,7 @@ A la fin de cette phase, l'étudiant aura acquis les compétences pour exercer e
 
 Nombre et durée des stages de niveau III :
 
-1 stage d'un an, ou deux stages d'un semestre lorsque l'acquisition par l'étudiant des compétences de la spécialité le justifie, accompli soit :
+deux stages d'un semestre accomplis soit :
 
 -dans un lieu hospitalier agréé à titre principal en médecine cardiovasculaire ;
 
@@ -796,4 +796,4 @@ Modalités de l'évaluation de l'option :
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 19 mars 2019 (NOR : ESRS1901610A), ces dispositions s'appliquent aux étudiants inscrits en troisième cycle de médecine à partir de la rentrée universitaire 2017-2018.
+Conformément à l’article 40 de l’arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

@@ -1,175 +1,213 @@
 # Article Annexe II - IV. Maquette 25
 
-FORMATION SPÉCIALISÉE TRANSVERSALE DE THÉRAPIE CELLULAIRE - TRANSFUSION
+FORMATION SPÉCIALISÉE TRANSVERSALE DE PHONIATRIE
 
 1. Organisation générale
 
 1.1. Objectifs généraux de la formation
 
-Donner à des médecins et à des pharmaciens biologistes des compétences pluridisciplinaires renforcées dans les domaines des thérapies cellulaires et géniques (TCG), de la transfusion, et de l'ingénierie cellulaire et tissulaire.
+Compléter les connaissances et compétences acquises dans le cadre du DES d'origine, sur la prévention, le diagnostic et la prise en charge des pathologies fonctionnelles du carrefour aéro-digestif, c'est-à-dire les pathologies de la voix, de la parole et de la déglutition.
 
-1.2 Collèges d'enseignants impliqués dans cette FST
+1.2. Collèges d'Enseignants impliqués dans cette FST
 
-Collège des Enseignants d'Hématologie, Collège des enseignants d'Immunologie, Collège National des Enseignants de Médecine Interne.
+Collège Français d'ORL et de Chirurgie Cervico-Faciale, Collège Français des Enseignants Universitaires de Médecine physique et de réadaptation, Collège National des Enseignants de Gériatrie, Collège National des Pédiatres Universitaires, Collège des Enseignants de Neurologie.
 
 1.3. Durée de la FST
 
-2 semestres.
+Deux semestres.
 
 1.4. Sélection des candidats à la FST
 
-Conformément à l'article 6 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
+Conformément à l'article 6 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, une attention particulière sera portée au parcours de spécialité suivi par l'étudiant et à son projet professionnel vis-à-vis de la phoniatrie.
 
-2. Caractéristiques
+2. Niveau 1
 
-2.1. Enseignements hors stages
+2.1. Stage
 
-Volume horaire :
+Durée 6 mois
 
-2 demi-journées par semaine : une demi-journée en supervision et une demi-journée en autonomie.
+2.2. Enseignements hors stages
 
-Nature des enseignements :
+2.2.1. Volume horaire
+
+Deux demi-journées par semaine, durée calculée en moyenne sur le trimestre, selon les modalités définies par la directive européenne sur le temps de travail : une demi-journée en autonomie et une demi-journée supervisée.
+
+2.2.2. Nature des enseignements
 
 En application de l'article 5 du présent arrêté :
 
-- enseignements présentiels : cognitifs, études de cas.
+- enseignement en autonomie notamment par e-learning ;
 
-- e-learning, avec QCM, QROC et cas cliniques progressifs.
+- séminaires nationaux et régionaux, organisés par le pilote de la FST.
 
-Connaissances à maîtriser au terme de la formation.
+2.2.3. Connaissances à maîtriser au terme de la formation :
 
-Elles sont détaillées dans la plateforme numérique de la FST, en particulier :
+- connaître le fonctionnement en termes de biomécanique et de contrôle neurologique, des structures anatomiques des voies aérodigestives supérieures pour la ventilation, la voix, les bases de la phonétique clinique, la parole et la déglutition ;
 
-Transfusion
+- connaître l'évolution physiologique en fonction de l'âge des principales fonctions des voies aérodigestives supérieures ;
 
-- chaine transfusionnelle et sécurité transfusionnelle.
+- connaître les modalités d'exploration de ces fonctions et en particulier les modalités d'enregistrement et d'analyse de la voix et de la parole, les modalités de réalisation d'un examen nasofibroscopique lors de la ventilation, de la phonation, de la production de la parole, lors de la déglutition et d'un examen radioscopique de la déglutition ;
 
-- immuno-hématologie cellulaire.
+- connaître les principes de prévention et de dépistage des troubles de la phonation (parole et voix), de la ventilation et de la déglutition et savoir les mettre en place ;
 
-- Bonnes Pratiques Transfusionnelles.
+- connaître les principes généraux (indications, techniques et conséquences) des différentes approches thérapeutiques (des procédures chirurgicales aux techniques de rééducation) en fonction de la discipline d'origine.
 
-Greffe de cellules souches hématopoïétiques
+2.3. Stage de niveau 1
 
-- notion de cellules souches, origine et prélèvement des cellules souches hématopoïétiques (CSH).
+1 stage d'un semestre dans un service bénéficiant d'un agrément fonctionnel pour la FST de Phoniatrie et pratiquant des consultations et bilans de Phoniatrie.
 
-- manipulation et contrôle des greffons de cellules hématopoïétiques.
+Critères d'agrément des stages de niveau 1 dans la FST
 
-- greffe autologue/allogénique, histocompatibilité, réaction du greffon contre l'hôte (GVH)/réaction du greffon contre la leucémie (GVL), conditionnements à la greffe.
+En sus des dispositions de l'article 34 de l'arrêté́ du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
 
-- maladies transmissibles par la greffe, chimérisme.
+- un secteur d'activité́ phoniatrique individualisé avec la présence d'au moins un praticien assurant une activité́ de Phoniatrie, permettant la prise en charge de patients par l'étudiant et l'acquisition large des compétences sous la supervision de ce praticien ;
 
-Thérapie génique, immunothérapie cellulaire
+- les effectifs suffisants dans l'équipe pour assurer l'encadrement permanent de l'étudiant ;
 
-- notion de vectorisation, transduction cellulaire, indications cliniques.
+- l'organisation de réunions de service régulières avec présentation de dossiers et propositions de prise en charge dans le champ de la Phoniatrie et de réunions bibliographiques régulières sur cette thématique.
 
-- spécificités techniques et réglementaires.
+2.4. Compétences à maîtriser au terme de la formation de niveau 1
 
-- immunologie ciblée : les chimeric antigen receptor T-cells (CAR T cells) et les autres cellules immunocompétentes utilisées.
+Reconnaître et explorer les plaintes de type dysphonie, dysarthrie, dysphagie, dyspnée laryngée.
 
-Ingénierie cellulaire et tissulaire - médecine régénérative
+1° Dans le domaine de la voix et de la parole :
 
-- les différentes sources de cellules à activité régénérative (cellules souches embryonnaires, Induced pluripotent stem cells (iPSCs), cellules souches adultes).
+- savoir utiliser et interpréter les outils d'évaluation : questionnaires, nasofibroscopie et/ou épipharyngoscopie, stroboscopie, enregistrements vocaux ;
 
-- prélèvements de thérapie cellulaire - aphérèses.
+- être capable de poser les indications et de prescrire un bilan paramédical et des séances de rééducation orthophonique, kinésithérapique, psychologique, ergothérapique, psychologique, diététique, etc ;
 
-- prélèvements, Immunologie et compatibilité en greffe de tissus.
+- être capable de poser l'indication d'un acte interventionnel.
 
-- supports & matrices extra-cellulaires.
+2° Dans le domaine de la déglutition :
 
-- la chaine de préparation :
+- savoir utiliser et à interpréter les outils d'évaluation (questionnaires, nasofibroscopie de la déglutition, radioscopie de déglutition) ;
 
-Réception, procédés d'ingénierie cellulaire, contrôle qualité, libération, distribution/dispensation
+- savoir utiliser et mettre en place des outils de dépistage y compris pour les troubles de l'oralité de l'enfant ;
 
-- les locaux et les équipements impliqués ;
+- savoir utiliser et mettre en place les adaptations et manœuvres de base pour la prise en charge des troubles de la déglutition ;
 
-- les principaux actes techniques, leurs paramètres critiques ;
+- être capable de donner une orientation étiologique des troubles de la déglutition ;
 
-- les innovations technologiques : feuillets cellulaires, impression 3D, stéréolithographie.
+- être capable de donner les orientations de prise en charge et de réaliser celle qui relève de la spécialité d'origine.
 
-- thérapie tissulaire et transplantation d'organes.
+3° Dans le domaine de la ventilation :
 
-- les indications thérapeutiques de thérapie cellulaire et tissulaire en dehors des greffes de CSH.
+- savoir explorer les dysfonctionnements laryngés ou OLI (Obstruction Laryngée Induites) ;
 
-Les contextes réglementaires et la mise en œuvre des activités de thérapie cellulaire, génique, et tissulaire
+- savoir mettre en place les adaptations et manœuvres de base pour la prise en charge du trouble et de donner les orientations de prise en charge ;
 
-- phase de développement préclinique et clinique.
+- savoir poser l'indication des explorations plus spécifiques en fonction de la spécialité d'origine (manométrie pharyngo-œsophagienne, électromyographie (EMG) laryngée, EMG pharyngée ou de déglutition…).
 
-- les Bonnes Pratiques Tissus Cellules et les Bonnes Pratiques de Fabrication des médicaments.
+2.5. Evaluation du niveau 1
 
-- les agences nationales et européennes impliquées.
+Modalités de l'évaluation des connaissances, donnant accès au niveau 2 de la FST :
 
-- maîtrise de l'environnement des productions.
+Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
 
-- hygiène et sécurité.
+- validation avec une note ≥ 12/20 aux tests en ligne pour les enseignements à distance ;
 
-- produit de Thérapie Cellulaire (PTC) et Médicaments de Thérapie Innovante (MTI), exemption hospitalière.
+- participation aux enseignements présentiels.
 
-- transfert de technologies, contrôle qualité, production et libération des PTC et des MTI.
+Modalités de l'évaluation des compétences, donnant accès au niveau 2 de la FST :
 
-- système de management de la qualité, paramètres critiques en culture cellulaire in vitro, notion de plan de validation d'expériences, analyse de risques, de media process test, de critères libératoires.
+Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
 
-- brevets et licences : propriété intellectuelle.
+Validation des acquis pratiques, à partir d'un portfolio électronique :
 
-- éthique en transfusion et thérapie cellulaire, communication sur les résultats de recherche, marketing et commercialisation des produits de thérapie cellulaire et génétique, tourisme médical.
+- évaluation formative de l'utilisation, et des techniques thérapeutiques spécifiques ;
 
-2.2. Stages
+- évaluation sommative : en fin de stage, par discussion de dossiers cliniques sous la responsabilité du responsable médical du lieu de stage.
 
-Stages à réaliser
+Avis favorable aux évaluations de fin de stage par le responsable de stage
 
-2 stages d'un semestre dans un lieu bénéficiant d'un agrément fonctionnel pour la FST de Thérapie cellulaire - transfusion.
+3. Niveau 2
 
-Critères d'agrément des stages dans la FST.
+3.1. Stage
 
-Conformément à l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte la nature du lieu de stage : unités de thérapie cellulaire et génique des CHU, de l'Etablissement Français du Sang (EFS), des Centres de lutte contre le cancer (CLCC), services d'aphérèse thérapeutiques, banques des tissus des CHU, pharmacie à usage intérieur (PUI) ayant des activités dans le domaine des médicaments de thérapie innovante, industriels de la pharmacie fabriquant des médicaments de thérapie innovante, agences réglementaires (Agence Nationale de Sécurité du Médicament et des Produits de Santé (ANSM), Agence de Biomédecine (ABM) notamment), unités de recherche spécialisées dans les domaines concernés (Inserm, CNRS, CEA, ), notamment.
+Durée 6 mois
 
-2.3. Compétences à maîtriser au terme de la formation
+3.2. Enseignements hors stages
 
-Elles sont détaillées sur la plateforme numérique de la FST, en particulier :
+3.2.1. Volume horaire :
 
-- prendre en charge un dossier de préparation des greffons pour greffes de CSH : contrôles à réception, production du greffon, contrôle de qualité du greffon, principes de sécurité des greffes, libération, assurance qualité associée ;
+Deux demi-journées par semaine, durée calculée en moyenne sur le trimestre, selon les modalités définies par la directive européenne sur le temps de travail : une demi-journée en autonomie et une demi-journée supervisée.
 
-- appliquer les principes de la sécurité des transfusions et des greffes, assurer le suivi des patients après administration du greffon ;
+3.2.2. Nature des enseignements :
 
-- appliquer les principes relatifs aux techniques mises en œuvre dans les thérapies cellulaires et géniques ;
+En application de l'article 5 du présent arrêté :
 
-- assurer une médecine transfusionnelle de qualité, et les thérapies cellulaires et géniques dans le cadre de leurs indications thérapeutiques ;
+- enseignement en autonomie notamment par e-learning ;
 
-- participer activement à la mise en œuvre d'un essai clinique de thérapie cellulaire et génique ;
+- séminaires nationaux et régionaux, organisés par le pilote de la FST.
 
-- développer et argumenter un projet de recherche simple de thérapies cellulaire et génique, identifier les freins et les opportunités pour sa mise en œuvre, décrire un plan d'expérience.
+3.3. Stage de niveau 2
 
-2.4. Evaluation
+Il peut être effectué dans un service agréé pour le stage de niveau 1 ou dans un service agréé "Phoniatrie transdisciplinaire ".
 
-Modalités de l'évaluation des connaissances :
+L'agrément "Phoniatrie transdisciplinaire" pour la FST de Phoniatrie correspondra à des services répondant aux critères suivants :
 
-Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
+- un secteur d'activité́ prenant en charge des patients présentant des troubles du fonctionnement des voies aérodigestives supérieures ;
 
-- contrôle des connaissances organisé à la fin des modules théoriques (QCM) ;
+- la présence d'au moins un praticien assurant une activité́ permettant la prise en charge de patients par l'étudiant et l'acquisition large des compétences sous la supervision de ce praticien d'un dysfonctionnement intéressant au moins une fonction des voies aérodigestives supérieures ;
 
-- examen oral de contrôle des connaissances ;
+- les effectifs suffisants dans l'équipe pour assurer l'encadrement permanent de l'étudiant ;
 
-- modalités de l'évaluation des compétences :
+- l'organisation de réunions de service régulières avec présentation de dossiers et propositions de prise en charge dans le champ de la Phoniatrie et organisation régulière de réunions bibliographiques sur cette thématique.
 
-- conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine ;
+3.4. Compétences à maîtriser au terme de la formation :
 
-- validation des stages ;
+Les compétences à acquérir en niveau 2 seront modulées par le projet professionnel de l'étudiant, projet reprenant les grands axes de la pratique de la phoniatrie.
 
-- compétences acquises listées dans le portfolio ;
+Chaque étudiant doit valider le module de compétences génériques et au moins un module orienté selon la pratique clinique.
 
-- mémoire court en lien avec un des stages (mémoire " d'activité et compréhension ", revue de la littérature : le thème sera défini entre le candidat, le responsable de stage et le pilote).
+3.4.1. Les compétences génériques nécessaires à toute pratique sont :
 
-2.5. Modalités de validation
+- être capable de reconnaître les caractéristiques d'un dysfonctionnement des voies aérodigestives supérieures, d'en déterminer l'origine et proposer une prise charge ;
 
-Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
+- connaître les éléments de pharmacologie en lien avec effets secondaires possible sur le fonctionnement des voies aéro-digestives supérieures ;
 
-- examen oral de contrôle des connaissances ;
+- maîtriser toutes les techniques d'exploration usuelle de la voix, de la parole, de la déglutition oropharyngée et des troubles de la ventilation ;
 
-- fiches d'évaluation de stages ;
+- savoir repérer les facteurs psychologiques, sociétaux, économiques et organisationnels participant à la genèse des situations de handicap liées aux troubles des voies aéro-digestives supérieures ;
 
-- vérification des compétences acquises listées dans le portfolio ;
+- savoir mettre en place un dispositif de prévention de ces troubles et/ou de leur complication ;
 
-- présentation d'un mémoire court en lien avec un des stages (mémoire " d'activité et compréhension ", revue de la littérature : le thème sera défini entre le candidat, le responsable de stage et le pilote).
+- maîtriser les bases de diététique et nutrition nécessaires à la prise en charge des troubles vocaux.
+
+3.4.2. Les modules de compétences spécifiques sont :
+
+- module orienté troubles de la déglutition : maitriser les bases de diététique et nutrition nécessaires à la prise en charge des troubles de la déglutition, savoir mettre en œuvre les 16 techniques de rééducation impliquant les différents professionnels nécessaires à la prise en charge de troubles de déglutition ;
+
+- module orienté voix chantée et professionnels de la voix : être capable de prendre en charge les troubles de la voix chantée ; savoir conseiller les professionnels de la voix (chanteur, avocats, enseignants) ;
+
+- module orienté troubles dégénératifs et phoniatrie : être capable de reconnaître et de prendre en charge les mouvements anormaux des voies aérodigestives supérieures et notamment du larynx, être capable de reconnaître et de prendre en charge les troubles de la voix et de la déglutition chez la personne âgée, être capable de reconnaître et de prendre en charge les troubles de la voix et de la déglutition d'origine neurologique ;
+
+- module orienté pédiatrique : être capable de reconnaître et de prendre en charge les troubles de la voix et de la parole de l'enfant (anomalies laryngées, insuffisance vélaire de l'enfant), être capable de reconnaître et de prendre en charge l'oralité de l'enfant (anomalies laryngées, insuffisance vélaire de l'enfant), être capable de reconnaître et de prendre en charge les troubles de la déglutition de l'enfant.
+
+3.5. Evaluation du niveau 2
+
+Modalités de l'évaluation des connaissances : Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
+
+- épreuve écrite théorique sur plateforme numérique.
+
+Modalités de l'évaluation des compétences : Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
+
+- épreuve orale pratique comportant un entretien, une épreuve d'analyse et l'analyse de deux cas cliniques sur un des modules spécialisés suivis.
+
+4. Modalités de validation de la FST
+
+Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
+
+La validation sera prononcée en commission pédagogique de la FST sur :
+
+- la validation de l'épreuve écrite pour le module compétences générales et au moins un module spécialisé ;
+
+- la validation de l'épreuve orale pratique de niveau 2 ;
+
+- la validation des deux stages exigés pour la FST ;
+
+- la validation de l'ensemble des items du portfolio électronique.
 
 NOTA :
 
-Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.
+Conformément à l'article 40 de l'arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

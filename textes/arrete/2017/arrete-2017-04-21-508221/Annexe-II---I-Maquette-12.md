@@ -26,6 +26,8 @@ Dans le cadre de son projet professionnel, et au regard des besoins de santé et
 
 - chirurgie en situation de guerre ou de catastrophe ;
 
+- phoniatrie ;
+
 - maladies allergiques ;
 
 - sommeil.
@@ -507,3 +509,7 @@ Avoir réalisé au moins 10 tests ou manœuvres décrites pour chaque compétenc
 Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
 Réalisation d'un mémoire de recherche clinique sur les troubles labyrinthiques et leur analyse paraclinique (Surdités ou vertiges) ou sur les troubles de la voix et/ ou de la déglutition.
+
+NOTA :
+
+Conformément à l’article 40 de l’arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

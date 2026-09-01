@@ -138,13 +138,13 @@ Les connaissances spécifiques sont détaillées dans la plateforme numérique d
 
 -techniques d'imagerie avancée, techniques avancées, IRM 2, Médecine Nucléaire
 
--module Professionnel 2
+-module Professionnel 1
 
 -module Recherche
 
 -imagerie fonctionnelle (incluant enseignements croisés avec Médecins Nucléaires)
 
--modules d'imagerie d'organe diagnostique et interventionnelle : neuroimagerie, imagerie cardiaque et vasculaire, digestive, gynécologique et obstétricale, tête et cou, musculo-squelettique, pédiatrique et périnatale, sénologique, thoracique, néphro-urologique, oncologique
+-modules d'imagerie diagnostique et interventionnelle : neuroimagerie, imagerie cardiaque et vasculaire, digestive, gynécologique et obstétricale, tête et cou, musculo-squelettique, pédiatrique et prénatale, sénologique, thoracique, néphro-urologique, oncologique
 
 3.3. Compétences :
 
@@ -164,7 +164,7 @@ Les compétences spécifiques sont détaillées dans la plateforme numérique de
 
 Stages de niveau II à réaliser dans la spécialité :
 
--5 stages dans un lieu agréé à titre principal en radiologie et imagerie médicale dont un peut être accompli sous la forme d'un stage couplé à temps partagé dans un lieu hospitalier agréé à titre principal en médecine nucléaire et dont un peut être accompli sous forme d'un stage mixte ou auprès d'un praticien maitre de stage des universités agréées à titre principal en radiologie et imagerie médicale
+-5 stages dans toutes les imageries d'organe et en imagerie pédiatrique dans un lieu agréé à titre principal en radiologie et imagerie médicale dont un peut être accompli sous la forme d'un stage couplé à temps partagé dans un lieu hospitalier agréé à titre principal en médecine nucléaire et dont un peut être accompli sous forme d'un stage mixte ou auprès d'un praticien maitre de stage des universités agréées à titre principal en radiologie et imagerie médicale
 
 -1 stage libre
 
@@ -218,6 +218,10 @@ En application de l'article 5 du présent arrêté :
 
 Connaissances et compétences à acquérir :
 
+Les connaissances spécifiques sont détaillées dans la plateforme numérique de la spécialité et portent notamment sur :
+
+-un module professionnel niveau 2
+
 A l'issue de la phase, les connaissances et compétences génériques décrites aux articles 2 à 4 du présent arrêté sont acquises.
 
 4.3. Compétences à acquérir :
@@ -238,7 +242,7 @@ Les compétences spécifiques sont détaillées dans la plateforme numérique de
 
 4.4. Stages :
 
-1 stage d'un an, ou deux stages d'un semestre lorsque l'acquisition par l'étudiant des compétences de la spécialité le justifie, accompli soit :
+deux stages accomplis, soit :
 
 -dans un lieu hospitalier agréé à titre principal en radiologie et imagerie médicale
 
@@ -351,3 +355,7 @@ Modalités de l'évaluation des compétences :
 -analyse du portfolio validé par le maître de stage : nombre de gestes réalisés en premier ou second opérateur
 
 -évaluation de l'aptitude à la prise en charge de patients en radiologie interventionnelle avancée, conformément au suivi via le livret électronique
+
+NOTA :
+
+Conformément à l’article 40 de l’arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

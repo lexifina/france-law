@@ -14,7 +14,7 @@ Former un spécialiste en hépato-gastro-entérologie (HGE).
 
 1.3. Intitulé des options proposées au sein du DES :
 
-Néant.
+Soins intensifs en hépato-gastro-entérologie
 
 1.4. Intitulé des formations spécialisées transversales (FST) indicatives :
 
@@ -252,7 +252,7 @@ Stages de niveau II à réaliser : 6 semestres.
 
 -ou 4 stages dans un lieu hospitalier agréé à titre principal en hépato-gastroentérologie et garantissant l'accès à un plateau technique pendant 6 mois cumulés ;
 
--1 stage accompli hors de la spécialité, dans un lieu de stage agréé à titre complémentaire en hépato-gastro-entérologie et à titre principal dans une autre spécialité notamment en médecine interne ou maladies infectieuses et tropicales, médecine intensive-réanimation, en anatomie cytologie-pathologique, en radiologie et imagerie médicale ou en oncologie, en nutrition, en addictologie ou en médecine palliative ;
+-1 stage accompli hors de la spécialité, dans un lieu de stage agréé à titre principal dans une autre spécialité parmi lesquelles médecine interne ou maladies infectieuses et tropicales, médecine intensive-réanimation, en anatomie cytologie-pathologique, en radiologie et imagerie médicale ou en oncologie, en nutrition, en addictologie ou en médecine palliative ;
 
 -1 stage libre adapté au parcours professionnel après accord du coordonnateur local
 
@@ -346,7 +346,7 @@ Cancérologie :
 
 Endoscopies :
 
--modules de 16 à 70 : compétences techniques, diagnostiques et interventionnelles en endoscopie digestive haute et basse ; évaluation qualitative et quantitative des techniques endoscopiques suivantes : endoscopie OGD à visée diagnostique, endoscopie basse à visée diagnostique, techniques d'hémostase endoscopique, techniques de résection endoscopique, techniques de dilatation endoscopique, techniques de pose et de changement de sondes de gastrostomie, explorations digestives par vidéocapsule.
+-compétences techniques, diagnostiques et interventionnelles en endoscopie digestive haute et basse ; évaluation qualitative et quantitative des techniques endoscopiques suivantes : endoscopie OGD à visée diagnostique, endoscopie basse à visée diagnostique, techniques d'hémostase endoscopique, techniques de résection endoscopique, techniques de dilatation endoscopique, techniques de pose et de changement de sondes de gastrostomie, explorations digestives par vidéocapsule.
 
 Nutrition :
 
@@ -432,7 +432,7 @@ Les compétences spécifiques nécessaires à la pratique de la spécialité son
 
 Nombre et durée des stages de niveau III :
 
-1 stage de un an accompli au choix :
+Deux stages d'un semestre accomplis, soit :
 
 -dans un lieu agréé à titre principal en hépato-gastro-entérologie ;
 
@@ -462,7 +462,7 @@ Modalités de l'évaluation des compétences :
 
 Conformément à l'article de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
--participation à au moins 25 RCP, prescription de chimiothérapie ;
+-participation à au moins 25 RCP ;
 
 -réalisations d'au moins 40 plages de consultations ;
 
@@ -480,7 +480,7 @@ Conformément à l'article de l'arrêté du 12 avril 2017 portant organisation d
 
 -10 dilatations au ballonnet de sténose ;
 
--15 poses de sonde de gastrostomie per endoscopique avec gestion de la nutrition au long cours ;
+-15 poses de sonde de gastrostomie per endoscopique ;
 
 -50 examens proctologiques avec anuscopie ;
 
@@ -500,7 +500,19 @@ Conformément à l'article de l'arrêté du 12 avril 2017 portant organisation d
 
 -50 échographies abdominales ;
 
--validation de la participation à : au moins 2 poses de TIPS ;
+Maitrise technique des gestes suivants :
+
+-biopsie hépatique ;
+
+-ponction d'ascite ;
+
+-échographie abdominale ;
+
+-examens proctologiques avec anuscopie ;
+
+-gestes de proctologie à type de ligatures élastiques hémorroïdaires, scléroses, excisions de thrombose ;
+
+-capsules du grêle (interprétation).
 
 -participation à un protocole de recherche clinique.
 
@@ -514,6 +526,224 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 
 -soutenance d'un mémoire, ce dernier pouvant être remplacé par la publication d'un article original dans une revue avec comité de lecture.
 
+5. Option soins intensifs d'hépato-gastroentérologie
+
+5.1. Organisation générale
+
+5.1.1. Objectifs généraux de la formation
+
+- approfondir les connaissances et acquérir les compétences théoriques et techniques en soins intensifs des patients atteints des formes sévères de pathologies digestives, hépatiques et pancréatiques ;
+
+- exercer en unité de soins intensifs d'Hépato-Gastroentérologie.
+
+5.1.2. Objectifs spécifiques de la formation
+
+Ils permettent la prise en charge optimale des patients nécessitant une surveillance et des soins urgents en unité de soins intensifs d'Hépato-Gastroentérologie hors critères de réanimation et défaillances d'organes requérant une suppléance extra-digestive pour les situations cliniques suivantes :
+
+- hépatites sévères ou fulminantes ;
+
+- dysfonction aiguë du foie sur hépatopathie chronique ou ACLF (Acute-on-Chronic liver Failure) quelle qu'en soit la cause [infection, hémorragie, aggravation aiguë de l'hépatopathie sous-jacente (hépatite alcoolique, réactivation virale ou auto-immune, pathologie thrombotique…)] ;
+
+- hémorragie digestive haute ou basse grave justifiant d'une prise en charge séquentielle ou combinée des différentes options endoscopiques, radiologiques et/ou chirurgicales (TIPS, embolisation artérielle ou veineuse, endoscopie complexe d'hémostase, chirurgie à visée hémostatique) ;
+
+- prise en charge des complications sévères des patients transplantés du foie, de l'intestin, et du pancréas telles que les situations immunologiques résistantes aux traitements de première ligne, les complications sévères des traitements immunosuppresseurs et la gestion dédiée de la dysfonction du greffon ;
+
+- pancréatite aiguë sévère justifiant d'une prise en charge séquentielle ou combinée des différentes options de drainage endoscopiques, radiologiques et/ou chirurgicales et du retentissement général des complications systémiques ;
+
+- abcès hépatique, angiocholite, collection pancréatique ou abdominale sans défaillance d'organe extra-digestif et justifiant d'une prise en charge interventionnelle multidisciplinaire (endoscopique, radiologique, chirurgicale) ;
+
+- ischémie digestive sévère veineuse ou artérielle avec, selon la localisation du processus thrombotique, dysfonction aiguë de l'intestin ou du foie et leurs conséquences ;
+
+- colite aigüe grave nécessitant une prise en charge pluridisciplinaire avec gestion du retentissement infectieux ou général lié à la destruction muqueuse.
+
+5.2. Durée de l'option
+
+2 semestres
+
+5.3. Enseignements hors stages
+
+5.3.1. Volume horaire :
+
+2 demi-journées par semaine : une demi-journée en supervision et une demi-journée en autonomie
+
+5.3.2. Nature des enseignements :
+
+- enseignement en présentiel : enseignement national dédié aux soins intensifs en Hépato-Gastroentérologie en présence d'experts nationaux ou internationaux 1 à 2 fois par an, présentations et discussions de cas cliniques à l'échelon régional avec participation d'experts ;
+
+- enseignements pratiques aux ateliers de simulation dédiés aux gestes généraux d'urgence (formation obligatoire aux gestes invasifs tels que pose de voie veineuse centrale, massage cardiaque et choc électrique externe,) ;
+
+- enseignement additionnel pour acquérir les compétences permettant d'atteindre les objectifs spécifiques de l'option.
+
+5.3.3. Connaissances à acquérir
+
+Objectifs généraux :
+
+Une première partie est destinée à acquérir les connaissances de base en soins intensifs. Elle portera sur la reconnaissance des situations nécessitant un transfert en réanimation (choc hémorragique, choc septique, dégradation de l'état ventilatoire ou hémodynamique, insuffisance rénale non contrôlée, dégradation neurologique, nécessité de suppléance d'organe etc.). L'enseignement inclura les différentes techniques de surveillance cardiaque, hémodynamique et respiratoire.
+
+La deuxième partie (modules 2 à 7) concerne l'acquisition des connaissances des formes aiguës et sévères des maladies hépatiques, pancréatiques et intestinales :
+
+- diagnostics et traitements des complications aiguës chez les patients présentant une insuffisance hépatique aiguë ou chronique et/ou greffés du foie justifiant les soins intensifs ;
+
+- les techniques d'épuration extra-hépatique ;
+
+- prise en charge des patients présentant une pancréatite aiguë sans défaillance d'organe extra-digestif ;
+
+- modalités de prise en charge des patients présentant une ischémie digestive veineuse et artérielle ;
+
+- mise en place précoce des modalités thérapeutiques diminuant la probabilité de dysfonction d'organe (TIPS et hémorragie digestive, tamponnement œsophagien (sonde ou prothèse) remplissage optimal et pancréatite aiguë, anticoagulation précoce et thromboses veineuses, indications de nécrosectomie (endoscopique, radiologique ou chirurgicale) dans la pancréatite aiguë, indications de résection digestive dans les pathologies vasculaires ou inflammatoires du tube digestif ;
+
+- prise en charge des patients présentant une colite aiguë grave.
+
+Module 1 : Acquisition des connaissances de base de soins intensifs
+
+Reconnaissance des états de choc, dégradation de l'état ventilatoire ou hémodynamique, dégradation neurologique nécessitant un transfert en réanimation.
+
+Connaissance des différentes techniques de surveillance cardiaque, hémodynamique et respiratoire.
+
+Prise en charge globale de l'hémorragie digestive grave pour stabiliser le malade en vue d'un geste hémostatique (l'optimisation circulatoire, la gestion des troubles de l'hémostase, la pratique transfusionnelle et la prévention des complications rénales et infectieuses).
+
+Indications et organisation du circuit patient pour la réalisation des embolisations vasculaires et du TIPS pour la prise en charge précoce d'une hémorragie digestive grave.
+
+Diagnostic endoscopique, prise en charge thérapeutique adaptée aux pathologies sous-jacentes.
+
+Module 2 : Complications de la cirrhose en soins intensifs
+
+- prise en charge des sepsis sévères de la cirrhose décompensée ;
+
+- gestion spécifique de l'insuffisance rénale aiguë du cirrhotique ;
+
+- complications neurologiques aiguës du cirrhotique ;
+
+- dysfonction circulatoire du patient atteint d'une cirrhose ;
+
+- traitement de certaines causes de cirrhose se présentant sous une forme décompensée sévère d'emblée à l'aide d'algorithmes spécifiques de chaque cause (Wilson, auto-immune, vasculaires, hépatite alcoolique, virales) permettant d'identifier la réponse au traitement et d'orienter précocement le malade vers un centre de transplantation en cas de résistance à la prise en charge médicale ;
+
+- indications de l'évaluation hémodynamique de l'hypertension portale ;
+
+- étude hémodynamique ;
+
+- ndications, contre-indications, modalités de mise en place d'un TIPS, organisation du suivi post-TIPS ;
+
+- prise en charge de l'ACLF dans les soins intensifs permettant un accès accéléré à la greffe hépatique.
+
+Module 3 : Insuffisance hépatique aiguë en soins intensifs
+
+- prise en charge des formes sévères ;
+
+- identification et gestion des patients justifiant d'un rapprochement d'un centre de transplantation hépatique ;
+
+- identification des situations cliniques et biologiques justifiant d'une inscription sur liste d'attente en super urgence ;
+
+- traitements spécifiques de certaines causes d'insuffisance hépatique aiguë ;
+
+- prévention et prise en charge de l'œdème cérébral ;
+
+- indications de l'épuration extra-hépatique ;
+
+- indications de transplantation hépatique en urgence.
+
+Module 4 : Greffe hépatique et soins intensifs
+
+- gestion des patients après la période péri-opératoire ne justifiant plus d'une hospitalisation en réanimation ;
+
+- complications sévères de la transplantation hépatique (septiques, cardiovasculaires, respiratoires, biliaires, vasculaires) ;
+
+- gestion du rejet aigu sévère ;
+
+- gestion du traitement immunosuppresseur en cas de complications liées au traitement immunosuppresseur (infection, Pres Syndrome, insuffisance rénale, syndrome lymphoprolifératif).
+
+Module 5 : Pancréatite aiguë
+
+- identification précoce des patients à risque de formes sévères de pancréatite ;
+
+- prise en charge des sepsis sévères de la pancréatite grave ;
+
+- complications locorégionales et systémiques ;
+
+- indication, gestion des patients candidat à un drainage endoscopique biliaire et/ou à une nécrosectomie ;
+
+- connaissance des critères de choix des modalités de nécrosectomie en fonction de la technique de réalisation (endoscopique, radiologie, chirurgie) ;
+
+- gestion des complications hémorragiques ou thromboemboliques de la pancréatite sévère ;
+
+- gestion des complications respiratoires et orientation précoce vers un secteur de réanimation.
+
+Module 6 : Ischémie intestinale veineuse et artérielle
+
+- identification précoce de l'ischémie intestinale afin d'instaurer un traitement anticoagulant et connaître les critères d'efficacité sous traitement ;
+
+- indications de revascularisation radiologique ou chirurgicale dans l'ischémie intestinale artérielle ;
+
+- indications de résection intestinale en dissociant l'ischémie veineuse de l'ischémie artérielle.
+
+Module 7 : Colites aiguës sévères
+
+- identification et gestion des patients justifiant d'une chirurgie en urgence ;
+
+- gestion des complications septiques, hémorragiques et thromboemboliques des colites sévères ;
+
+- gestion des complications justifiant un transfert vers un secteur de réanimation.
+
+5.4. Compétences à acquérir :
+
+Les compétences dans les domaines clinique et technique à acquérir doivent permettre la prise en charge optimale des formes sévères des maladies digestives exposant à un risque élevé de défaillance d'organe extra-digestif et justifiant d'une hospitalisation en soins intensifs d'Hépato-Gastroentérologie. L'objectif est la mise en place d'une prise en charge dédiée pour permettre une stabilisation ou une amélioration ou un transfert en cas d'aggravation dans un secteur de réanimation sans retard de prise en charge.
+
+- savoir reconnaitre et mettre en œuvre les premières mesures thérapeutiques d'un état de choc ou d'un arrêt cardio-respiratoire ;
+
+- maitriser la pose de voie veineuse centrale sous contrôle échographique ;
+
+- savoir évaluer l'état hémodynamique afin de réaliser un remplissage vasculaire optimal ;
+
+- diagnostiquer et prendre en charge les atteintes digestives sévères responsables d'une dégradation de l'état clinique à l'interface de la réanimation telles que : hémorragie digestive sévère dans le cadre d'une hypertension portale ou en l'absence d'hypertension portale, hépatite aiguë sévère, ACLF, pancréatite aiguë avec un risque élevé de complications systémiques, colites inflammatoires sévères, ischémies intestinales d'origine veineuse ou artérielle en dehors de défaillances d'organe extra-digestif nécessitant une suppléance telles que choc, coma, insuffisance respiratoire ou rénale ;
+
+- prise en charge des complications aiguës survenant chez les transplantés d'organes digestifs en ayant acquis une connaissance des complications infectieuses, immunologiques et vasculaires pouvant mettre en jeu le pronostic vital ;
+
+- assurer la coordination pluridisciplinaire (radiologique, chirurgicale, endoscopique, réanimatrice) des situations digestives complexes qu'elle qu'en soit le mécanisme.
+
+5.5. Stages :
+
+Lieux de stage
+
+- 1 stage dans un lieu agréé à titre principal en Hépato-Gastroentérologie et disposant d'une unité de soins intensifs d'Hépato-Gastroentérologie (conformément aux articles R. 6123-33 à R. 6123-38-2 du code de la santé publique) ;
+
+- 1 stage de réanimation dans un lieu agréé à titre principal soit en Médecine Intensive-Réanimation soit en Anesthésie-Réanimation.
+
+Critères d'agrément des stages de l'option :
+
+En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
+
+- la nature et le volume de l'activité clinique, et l'encadrement médical qui comprend des médecins qualifiés et dont l'activité en réanimation et en soins intensifs d'Hépato-Gastroentérologie est l'activité principale ;
+
+- pour les unités de soins intensifs d'Hépato-Gastroentérologie, le secteur d'au moins 6 lits est sous la responsabilité d'un hépato-gastroentérologue compétent en soins intensifs d'Hépato-Gastroentérologie (conformément aux articles R. 6123-33 à R. 6123-38-2 du code de la santé publique).
+
+5.5. Evaluation
+
+5.5.1. Modalités de l'évaluation des connaissances
+
+Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
+
+Examen national annuel avec :
+
+- validation des connaissances par un examen théorique national ;
+
+- travail de mémoire à rendre à l'issue de l'option.
+
+5.5.2. Modalités de l'évaluation des compétences
+
+Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
+
+1° Validation des stages ;
+
+2° Portfolio validé par le maître de stage ;
+
+3° Vérification des prérequis suivants :
+
+a) Mise en place de voies veineuses centrales ;
+
+b) Maitrise de toutes les techniques d'hémostase endoscopiques d'urgence
+
+Participation à des décisions de limitations et arrêts des traitements
+
 NOTA :
 
-Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.
+Conformément à l’article 40 de l’arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

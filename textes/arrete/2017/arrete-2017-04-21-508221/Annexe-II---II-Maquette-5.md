@@ -414,7 +414,7 @@ Au terme de cette phase, l'étudiant a acquis les compétences nécessaires pour
 
 4.4. Stages :
 
-1 stage d'un an ou deux stages d'un semestre, accompli (s) soit :
+deux stages d'un semestre, accomplis soit :
 
 -dans un lieu hospitalier agréé à titre principal en dermatologie et vénéréologie, de préférence accompli dans un lieu avec encadrement universitaire
 
@@ -455,3 +455,7 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 -la présentation d'un mémoire pouvant correspondre à la thèse d'exercice
 
 -la rédaction d'un article original accepté ou en " révision " dans une revue indexée (PubMed). En cas d'article soumis pour publication, il est nécessaire que l'article soit validé par la commission régionale de la spécialité.
+
+NOTA :
+
+Conformément à l’article 40 de l’arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

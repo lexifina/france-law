@@ -1,26 +1,26 @@
 # Article Annexe II - IV. Maquette 16
 
-FORMATION SPÉCIALISÉE TRANSVERSALE DE MÉDECINE HOSPITALIÈRE POLYVALENTE
+FORMATION SPÉCIALISÉE TRANSVERSALE DE MALADIES ALLERGIQUES
 
-1. Organisation générale :
+1. Organisation générale
 
-1.1. Objectifs généraux de la formation :
+1.1. Objectifs généraux de la formation
 
-L'objectif de la FST de médecine hospitalière polyvalente est de former des médecins pour exercer, à plein temps ou à temps partiel, dans des services ayant une activité de médecine polyvalente, notamment d'aval des urgences mais aussi de soins de suite et de réadaptation (SSR). Elle permet notamment de renforcer les liens entre les prises en charge hospitalière et ambulatoire pour garantir une prise en charge coordonnée et favoriser les exercices partagés.
+- maîtrise d'investigations spécialisées adaptées au DES d'origine : batteries de patch tests, prick tests spécifiques, tests de provocation muqueux, investigations spécifiques des allergies professionnelles, tests de provocation ;
 
-Les médecins hospitaliers polyvalents ou exerçant une médecine dite polyvalente sont des autres spécialistes issus de différentes spécialités médicales.
+- maîtrise des connaissances des réactions croisées entre haptènes ou entre médicaments indispensable pour préserver un patient de la rechute ;
 
-La formation sera multidisciplinaire et abordera les points suivants :
+- connaissance des allergènes moléculaires en cause dans les hypersensibilités immédiates aux protéines de l'environnement ;
 
--le périmètre d'activités médicales qui consistent en la prise en charge de pathologies aiguës et de pathologies chroniques décompensées en aval des services d'accueil des urgences ;
+- développement des interventions thérapeutiques précoces comme l'induction de tolérance, l'immunothérapie allergénique ;
 
--l'organisation de la continuité des soins avec le médecin généraliste, les autres spécialistes concernés et les autres professionnels de santé, en amont, durant et en aval de l'hospitalisation ;
+- éducation thérapeutique ;
 
--la participation à la filière de soins, en tissant des liens étroits avec les spécialistes d'amont (médecins généralistes, urgentistes et autres professionnels de santé), au niveau hospitalier notamment dans le cadre du groupe hospitalier territorial (GHT) et en aval avec les SSR, le réseau gériatrique et les structures de référence (service de recours au sein des CHU ou des CH en disposant, centres de référence/ compétence maladies rares).
+- apprentissage à la prescription des biothérapies.
 
-1.2. Collèges d'Enseignants impliqués dans cette FST :
+1.2. Collèges d'enseignants impliqués dans cette FST
 
-Collège National des Enseignants de médecine Interne (CEMI), Collège National des Généralistes Enseignants (CNGE) et Collège National des Enseignants de Gériatrie, en lien avec les collèges des autres spécialités dont les représentants participent aux enseignements.
+Collège des Enseignants en Dermatologie de France (CEDEF), Collège des Enseignants de Pneumologie (CEP), Collège Français d'ORL et de Chirurgie Cervico-Faciale, Collège National des Pédiatres Universitaires (CNPU), Collège National des Enseignants de Médecine Interne (CEMI) et Collège des Enseignants d'Allergologie.
 
 1.3. Durée de la FST :
 
@@ -28,130 +28,256 @@ Collège National des Enseignants de médecine Interne (CEMI), Collège National
 
 1.4. Sélection des candidats à la FST :
 
-Conformément à l'article 6 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
+Conformément à l'article 6 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine. Une attention particulière sera portée au parcours de spécialité suivi par l'étudiant et à son projet professionnel vis-à-vis des maladies allergiques de sa spécialité.
 
-2. Caractéristiques :
+2. Niveau 1
 
-2.1. Enseignements hors stages :
+2.1. Durée : 1 semestre.
 
-2.1.1. Volume horaire :
+2.2. Enseignements hors stages
+
+Volume horaire :
 
 2 demi-journées par semaine : une demi-journée en supervision et une demi-journée en autonomie.
 
-2.1.2. Nature des enseignements :
+Nature des enseignements :
 
 En application de l'article 5 du présent arrêté :
 
--enseignement en présentiel : séminaires nationaux/ régionaux/ locaux ;
+- enseignement en autonomie notamment par e-learning ;
 
--ateliers avec mises en situation et échanges interactifs ;
+- séminaires nationaux et régionaux.
 
--enseignement en autonomie notamment par e-learning.
-
-2.1.3. Connaissances à acquérir :
-
-Elles sont détaillées sur la plateforme numérique de la FST et concernent en particulier :
-
--le diagnostic et la prise en charge des pathologies aiguës ou chroniques les plus fréquentes rencontrées en milieu médical hospitalier polyvalent justifiant une admission directe non programmée ou en aval des urgences : maladies cardiovasculaires et thrombo-emboliques, diabète, maladies de l'appareil locomoteur, infections communautaires et nosocomiales, pathologies hématologiques fréquentes, pathologies respiratoires, cirrhose, insuffisance rénale, pathologies allergiques, pathologies neuro-psychiatriques, particularités de la personne âgée, iatrogénie ;
-
--prise en charge des décompensations aiguës de pathologies chroniques ;
-
--les modalités de prescription et la hiérarchisation des investigations à visée diagnostique les plus courantes en milieu médical hospitalier polyvalent (biologie, imagerie, tests fonctionnels) ;
-
--intégrer la “ multimorbidité médico-sociale ” dans la démarche clinique, diagnostique et thérapeutique ; l'évaluation et prévention de la fragilité et de la dépendance ;
-
--conformité des stratégies thérapeutiques hospitalières avec les recommandations nationales ;
-
--les modalités de prescription, de surveillance et les interactions médicamenteuses significatives des traitements les plus utilisés en milieu médical hospitalier polyvalent notamment les anti-infectieux, les anti-thrombotiques, l'insulinothérapie, l'oxygénothérapie, la corticothérapie, les produits sanguins labiles, les thérapeutiques de toutes les pathologies chroniques fréquentes ; structuration des établissements publics de santé, organisation de la vie hospitalière et gouvernance, modalités de financement, notion de management, aspects organisationnels et législatifs ;
-
--l'établissement de soin dans son environnement territorial : coordination avec les acteurs de santé extrahospitaliers et mise en place de parcours de soins efficients.
-
-2.2. Stages :
-
-2.2.1. Stages à réaliser :
-
-2 stages d'un semestre à réaliser dans un lieu bénéficiant de l'agrément fonctionnel pour la FST de médecine hospitalière polyvalente : un stage en gériatrie (aiguë ou SSR, en prenant en compte la possibilité d'effectuer des journées en équipe mobile de soins gériatriques) et un stage en médecine interne ou médecine polyvalente (avec possibilité, si le terrain s'y prête, d'effectuer des journées en Hospitalisation à Domicile, HAD).
-
-2.2.2. Critères d'agrément des stages dans la FST :
-
-En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
-
--la nature et le lieu : services de médecine interne, services de médecine polyvalente, de gériatrie et de SSR en CHU ou hors CHU ;
-
--un recrutement de patients couvrant un éventail suffisant des pathologies, parmi celles décrites dans le paragraphe " connaissances à acquérir " ci-dessus, en particulier les plus fréquentes et une proportion majoritaire d'admissions non programmées ;
-
--un fort niveau d'encadrement ;
-
--une supervision directe des prescriptions ;
-
--la possibilité pour l'étudiant de troisième cycle de mettre en application l'apprentissage théorique et pratique qu'il aura acquis au cours de sa formation hors stage ;
-
--des réunions bibliographiques ;
-
--des staffs de discussion de dossiers (revue de morbi-mortalité, comités de retour d'expérience, réunions de concertation pluri-disciplinaire, staffs multidisciplinaires, etc.).
-
-2.3. Compétences à maîtriser au terme de la formation :
+Connaissances à maîtriser au terme de la formation.
 
 Elles sont détaillées sur la plateforme numérique de la FST, en particulier :
 
--être capable de structurer une approche diagnostique efficiente dans les situations cliniques et/ ou biologiques les plus souvent observées dans les services de médecine polyvalente hospitalière, notamment en admission en aval des urgences ou en admission directe non programmée dans le cadre de la filière de soin des urgences et de SSR ;
+- mécanismes des quatre grands types d'hypersensibilité et leurs modalités d'exploration cutanée ;
 
--être capable d'effectuer les principaux gestes : biopsie cutanée, gaz du sang, massage cardiaque externe, ponction articulaire, ponction d'ascite, ponction lombaire, ponction pleurale, pose d'une voie veineuse périphérique, pose d'une sonde vésicale masculine, utilisation d'un défibrillateur automatique ;
+- caractéristiques et prise en charge des maladies allergiques ; des angioedèmes, des mastocytoses.
 
--être capable d'identifier des signes de gravité nécessitant une prise en charge immédiate ;
+2.3. Stages
 
--être capable de prévenir et de prendre en charge les complications et risques fréquents en hospitalisation [escarres, thromboses veineuses, risques infectieux nosocomiaux, troubles de l'hydratation (pertinence des perfusions), état nutritionnel, douleur, agitation], iatrogénie ;
+Stages à réaliser :
 
--être autonome dans l'élaboration d'hypothèses diagnostiques pour les pathologies fréquentes dans leurs spécificités hospitalières, l'initiation du traitement en hospitalisation en pesant les balances bénéfices/ risques, l'argumentation d'une démarche diagnostique et thérapeutique, l'organisation d'une stratégie thérapeutique globale et leur documentation pour la continuité des soins intra-hospitaliers ;
+1 stage d'un semestre dans un lieu bénéficiant d'un agrément fonctionnel pour la FST de Maladies allergiques et pratiquant des consultations et bilans d'allergologie.
 
--être capable de rédiger synthèses et comptes rendus hospitaliers intégrant la conciliation médicamenteuse, identifier et hiérarchiser les problèmes des patients complexes ;
+Critères d'agrément des stages dans la FST, en lien avec le DES d'origine, éventuellement services avec double agrément :
 
--garantir la continuité des soins en collaborant avec le médecin traitant et autres acteurs de santé en amont et en aval de l'hospitalisation ;
+En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
 
--être capable d'utiliser de façon adaptée l'organisation des soins (GHT, filières, SSR, hospitalisation à domicile, soins palliatifs, en proposant des plans personnalisés de soins) ;
+- le secteur d'activité allergologique individualisé, permettant la prise en charge d'un nombre important de patients par l'étudiant et l'acquisition large des compétences ;
 
--être capable de collaborer avec les principaux interlocuteurs de l'administration, les autres médecins hospitaliers, les médecins libéraux et avec les structures d'aval de l'hospitalisation.
+- les effectifs suffisants dans l'équipe pour assurer l'encadrement permanent de l'étudiant ;
 
-2.4. Evaluation :
+- la présence d'au moins un praticien assurant une activité d'allergologie dans le secteur dédié à cette activité ;
 
-2.4.1. Modalités de l'évaluation des connaissances :
+- la supervision différée de l'organisation des soins, des prescriptions, de la rédaction des comptes rendus, ordonnances et lettres de sortie ;
+
+- l'organisation de réunions de service régulières avec présentation de dossiers et propositions de prise en charge dans le champ de l'allergologie et organisation d'au moins une réunion bibliographique sur cette thématique par mois.
+
+2.4. Compétences à maîtriser au terme du niveau 1
+
+Elles sont détaillées sur la plateforme numérique de la FST, en particulier :
+
+- être capable de reconnaître les caractéristiques des principales maladies allergiques et de proposer une prise en charge thérapeutique adaptée à l'organe, l'âge et la physiopathologie de la maladie ;
+
+- être capable de poser les indications et de prescrire un bilan allergologique adapté à chacune des principales maladies allergiques et tenant compte de l'environnement personnel ou professionnel du patient ;
+
+- diagnostiquer et prendre en charge un choc anaphylactique, un œdème laryngé, un asthme aigu grave ;
+
+- diagnostiquer et connaître les principes de la prise en charge d'un angioœdème histaminique et non histaminique ;
+
+- diagnostiquer et prendre en charge un syndrome hyperéosinophilique ;
+
+- diagnostiquer et connaître les principes de prise en charge d'une mastocytose systémique.
+
+3. Niveau 2
+
+3.1. Durée : 1 semestre.
+
+Enseignements hors stages.
+
+Volume horaire.
+
+2 demi-journées par semaine : une demi-journée en supervision et une demi-journée en autonomie.
+
+Nature des enseignements :
+
+En application de l'article 5 du présent arrêté :
+
+- enseignement en autonomie notamment par e-learning ;
+
+- séminaires régionaux, nationaux.
+
+Connaissances à maîtriser au terme de la formation.
+
+Les connaissances spécifiques à acquérir dépendent du DES dans lequel l'étudiant est inscrit et de son projet professionnel. Elles figurent au contrat de formation mentionné à l'article 13 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
+
+Elles sont détaillées sur la plateforme numérique de la FST, en particulier :
+
+- " Allergènes cutanés " ;
+
+- " Hypersensibilité médicamenteuse (HS médicamenteuse) " ;
+
+- " Allergie alimentaire (HS alimentaire) " ;
+
+- " Particularités des maladies allergiques de l'enfant (HS enfant) " ;
+
+- " Environnement et maladies allergiques, hypersensibilité aux hyménoptères (HS environnement) " ;
+
+- " Atopènes " ;
+
+- " Pathologies cutanées d'hypersensibilité (HS cutanées) " ;
+
+- " Pathologies respiratoires hautes et basses d'hypersensibilité (HS respiratoires) ".
+
+Le niveau 2 comprend la validation de 3 modules spécifiques parmi les modules susmentionnés.
+
+3.2. Stages
+
+Nombre et durée des stages de niveau 2 :
+
+1 stage d'un semestre dans un lieu bénéficiant d'un agrément fonctionnel pour la FST Maladies allergiques et pratiquant des consultations et bilans d'allergologie.
+
+Critères d'agrément des stages dans la FST.
+
+En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
+
+- le secteur d'activité allergologique individualisé, permettant la prise en charge d'un nombre important de patients par l'étudiant et l'acquisition large des compétences ;
+
+- les effectifs suffisants dans l'équipe pour assurer l'encadrement permanent de l'étudiant ;
+
+- la présence d'au moins un équivalent temps plein assurant une activité d'allergologie dans le secteur dédié à cette activité ;
+
+- la supervision différée de l'organisation des soins, des prescriptions, de la rédaction des comptes rendus, ordonnances et lettres de sortie ;
+
+- l'organisation de réunions de service régulières avec présentation de dossiers et propositions de prise en charge dans le champ de l'allergologie et organisation d'au moins une réunion bibliographique sur cette thématique par mois.
+
+3.3. Compétences à maîtriser au terme de la formation
+
+Les compétences spécifiques à acquérir dépendent du DES dans lequel l'étudiant est inscrit et de son projet professionnel. Elles figurent au contrat de formation mentionné à l'article 13 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine. Elles sont organisées en modules. En fonction de son DES d'origine et de son projet professionnel, le candidat devra valider quatre modules : le tronc commun initial et 3 modules spécifiques.
+
+Les compétences à maîtriser sont détaillées sur la plateforme numérique de la FST, en particulier :
+
+*Tronc commun :
+
+- être capable de prendre en charge en autonomie complète un patient ayant une allergie complexe selon les modules et la discipline exercée ;
+
+- conduire une consultation allergologique, poser les indications, réaliser et interpréter les examens avec pertinence ;
+
+- interroger et conseiller le patient sur son environnement et ses risques d'exposition aux allergènes ;
+
+- prendre en charge une urgence allergique et connaître les spécificités relevant de sa spécialité ;
+
+- mettre en œuvre, interpréter un bilan allergologique adapté aux modules de formation suivis : tests épicutanés, les prick tests, les tests cutanés médicamenteux, interprétations des IgE vis-à-vis d'allergènes natifs et moléculaires, les tests de provocation orale, les spirométries ou rhinomanométries ;
+
+- mener des investigations ou des traitements spécifiques : inductions de tolérance (médicamenteuses, alimentaires), immunothérapie ou biothérapies selon les modules choisis.
+
+*Pathologies cutanées d'hypersensibilité (HS cutanées) :
+
+- module intégralement traité dans le DES de dermatologie ;
+
+- conduire une consultation de dermato-allergologie ;
+
+- poser les indications, réaliser et interpréter un bilan par patch tests de la batterie standard européenne ;
+
+- faire un bilan d'urticaire de contact, d'urticaires inductibles ;
+
+- prendre en charge une photodermatose ;
+
+- poser les indications et réaliser des photopatch tests, prendre en charge toutes les toxidermies en phase aiguë jusqu'à l'indication des tests cutanés allergologiques ;
+
+- prendre en charge et mettre en œuvre l'éducation thérapeutique d'une dermatite atopique.
+
+*Pathologies respiratoires hautes et basses d'hypersensibilité (HS respiratoires) :
+
+- module intégralement traité dans le DES de pneumologie ;
+
+- prendre en charge l'évaluation de la sévérité d'un asthme ou d'une rhinite chronique ou saisonnière, leur traitement, leur suivi ;
+
+- poser les indications et savoir interpréter le bilan biologique des IgE spécifiques dans les HS respiratoires hautes et basses, réaliser des prick tests aux pneumallergènes, *savoir réaliser une enquête sur l'environnement allergénique personnel et professionnel, *mettre en œuvre l'éducation thérapeutique adaptée au patient asthmatique ou l'immunothérapie allergénique aux pneumallergènes.
+
+*Particularités des maladies allergiques de l'enfant (HS enfant) :
+
+- module intégralement traité dans le DES de pédiatrie*
+
+- poser les indications et interpréter un dosage des IgE spécifiques des allergènes natifs et de leurs recombinants*
+
+- poser l'indication chez l'enfant et faire des tests cutanés, les tests de provocation orale (TPO), l'immunothérapie allergénique aux pneumallergènes, l'induction de tolérance alimentaire chez les patients à bas risque d'anaphylaxie, prescrire une trousse d'urgence, mettre en œuvre l'éducation thérapeutique, et la mise en place d'un projet d'accueil individualisé (PAI) adaptés à l'enfant allergique.
+
+*Allergie alimentaire (HS alimentaire) :
+
+- être capable de mener une consultation d'allergie alimentaire en fonction du phénotype allergique, mettre en œuvre et interpréter une enquête alimentaire, prescrire un bilan avec des IgE anti-allergènes recombinants, prescrire et évaluer l'impact des régimes d'éviction d'allergènes alimentaires, mettre en œuvre un PAI adapté aux enfants ayant une allergie alimentaire grave et prescrire une induction de tolérance alimentaire.
+
+*Hypersensibilité médicamenteuse (HS médicamenteuse) :
+
+- mettre en œuvre une consultation dédiée aux hypersensibilités médicamenteuses, poser les indications et réaliser les tests cutanés médicamenteux (patch, prick tests et IDR) ou les TPO en respectant les standards internationaux pour ces tests et adapter chaque bilan à chaque type de toxidermie qu'elle soit grave ou peu sévère, mettre en œuvre une induction de tolérance aux chimiothérapies et biothérapies, réaliser une consultation d'allergo-anesthésie avec les tests cutanés qui l'accompagnent.
+
+*Environnement et maladies allergiques, hypersensibilité aux hyménoptères (HS environnement) :
+
+- mettre en œuvre une consultation et le bilan d'un asthme ou d'une rhinite allergique de cause rare ou professionnelle avec tests cutanés et réalistes en chambre d'exposition allergénique ;
+
+- réaliser un test de provocation muqueux nasal ;
+
+- mettre en œuvre une consultation et un bilan d'allergie aux venins d'hyménoptères ;
+
+- mettre en œuvre d'une induction de tolérance par méthode de semi-rush ou ultra-rush.
+
+*Allergènes cutanés :
+
+- faire une consultation de dermato-allergologie complexe ;
+
+- poser les indications et réaliser des tests épicutanés avec des batteries spécialisées ou des produits apportés par le patient ;
+
+- mettre en œuvre les mesures d'éviction de contact vis-à-vis des haptènes de l'environnement privé ou professionnel ou liés aux topiques médicamenteux ;
+
+- réaliser les investigations adaptées à une urticaire de contact aux protéines ;
+
+- faire un bilan photoallergique ;
+
+- réaliser les tests adaptés à une hypersensibilité de contact à un topique médicamenteux et conseiller un patient vis à vis de ses prises médicamenteuses ultérieures topiques ou systémiques.
+
+*Atopènes :
+
+- faire une consultation dédiée aux hypersensibilités complexes aux atopènes ;
+
+- poser l'indication et interpréter un bilan d'allergènes recombinants ;
+
+- faire des prick tests adaptés et éduquer le patient à la reconnaissance, l'éviction ou la protection vis-à-vis de l'exposition aux allergènes environnementaux ;
+
+- conseiller vis à vis de l'éviction des protéines environnementales pouvant induire des allergies croisées.
+
+4. Evaluation de la FST
+
+Modalités de l'évaluation des connaissances de la FST :
 
 Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
--autoévaluation, certifiée par le coordonnateur local ou le tuteur, à l'aide des questions qui suivent les cours mis en ligne sur la plateforme numérique de la FST (e-enseignement et e-évaluation) ;
+- validation en ligne pour les enseignements à distance ;
 
--soutenance de mémoire.
+- participation aux enseignements présentiels.
 
-2.4.2. Modalités de l'évaluation des compétences :
+Modalités de l'évaluation des compétences de la FST :
 
 Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
--évaluation des stages ;
+- évaluations des 2 stages : appréciation globale des stages et nombre d'actes requis détaillés dans le portfolio.
 
--compétences acquises en stage : portfolio numérique, saisi par l'étudiant et certifié par le maître de stage, contenant les actes techniques qu'il a réalisés hors stage : bilan, certifié par le coordonnateur local, de l'activité réalisée sous forme de mise en situation ;
+5. Modalités de validation de la FST
 
--présentation de cas cliniques lors de séminaires régionaux ou nationaux ;
+Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
 
--portfolio comprenant :
+Le portfolio attestant des acquis et pratiques pendant les stages est adapté à chaque module spécialisé mais il comprend pour tous les parcours de FST :
 
-(1) Les traces d'apprentissage et d'évaluation au cours du cursus ;
+- validation des stages ;
 
-(2) 3 entretiens (à l'entrée dans la FST, à mi-parcours au début du 2e stage et avant la soutenance du mémoire) avec le pilote de la FST ou son représentant. Ces entretiens sont destinés à faire le point sur la complétion de la formation théorique et le déroulement de la formation pratique.
+- validation des 4 modules (le tronc commun initial et 3 modules spécifiques dépendant du DES d'origine et du projet professionnel du candidat) par des post-tests validés en ligne (QRM, dossiers progressifs avec QRM) ;
 
-2.5. Modalités de validation de la FST :
+- présentation du portfolio (avoir vu au moins dix patients en consultation supervisée avec réalisation des tests cutanés allergologiques par l'étudiant ; réalisation et interprétation supervisée de 20 prick tests) ;
 
-Conformément au VIII de l ‘ article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
-
--validation formalisée de l'ensemble de la formation théorique ;
-
--soutenance d'un mémoire ;
-
--validation du portfolio ;
-
--validation de tous les stages exigés pour la FST ;
-
--avis de la commission régionale de la FST.
+- présentation d'un mémoire rédigé sous la forme d'un article scientifique sur un sujet en lien avec la FST.
 
 NOTA :
 
-Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.
+Conformément à l'article 40 de l'arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

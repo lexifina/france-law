@@ -8,9 +8,9 @@ DIPLÔME D'ÉTUDES SPÉCIALISÉES D'ANESTHÉSIE-RÉANIMATION
 
 1.1. Objectifs généraux de la formation :
 
-Le DES d'anesthésie-réanimation conduit à l'exercice de médecin anesthésiste-réanimateur.
+Le DES d'anesthésie-réanimation conduit à l'exercice de médecin anesthésiste-réanimateur (MAR).
 
-Les DES d'anesthésie-réanimation et de médecine intensive-réanimation conduisent notamment à l'exercice dans les unités de surveillance continue ou de soins intensifs.
+Les DES d'anesthésie-réanimation et de médecine intensive-réanimation (MIR) conduisent notamment à l'exercice dans les unités de surveillance continue ou de soins intensifs.
 
 1.2. Durée totale du DES :
 
@@ -186,7 +186,7 @@ Compétences à acquérir :
 
 Les compétences génériques sont listées dans l'article 3 du présent arrêté.
 
-Les compétences spécifiques aux deux filières reposent sur un référentiel européen commun (CoBaTriCE ; Competency based Training in Intensive Care Medicine) et sont les suivantes :
+3.3.1. Les compétences spécifiques aux deux filières (MAR et MIR) reposent sur un référentiel européen commun (CoBaTriCE ; Competency based Training in Intensive Care Medicine) et sont les suivantes :
 
 -adopter une approche structurée et adaptée face à l'identification, l'évaluation et traitement du patient en état grave avec une ou plusieurs défaillances viscérales
 
@@ -244,7 +244,7 @@ Les compétences spécifiques aux deux filières reposent sur un référentiel e
 
 -prendre en charge le transport en dehors de l'unité de réanimation du patient en état grave
 
-Les compétences spécifiques à la filière Anesthésie-réanimation s'intègrent dans une approche holistique du patient pendant la période péri opératoire : la médecine péri opératoire et sont les suivantes :
+3.3.2. Les compétences spécifiques à la filière Anesthésie-réanimation s'intègrent dans une approche holistique du patient pendant la période péri opératoire : la médecine péri opératoire et sont les suivantes :
 
 A.-Evaluer le risque opératoire, prescrire une prémédication, préparer le patient à l'opération et l'informer : examen pré opératoire, classification de risque opératoire, risque allergique, examens complémentaires gestion péri opératoire des médicaments et stratégie anesthésique, règles du jeûne préopératoire (adulte et enfant).
 
@@ -292,6 +292,8 @@ e. Echo-doppler trans-crânien : connaître le principe du calcul de l'index de 
 
 f. Echographie et anesthésie locorégionale : connaître la sono anatomie des troncs nerveux de leur origine à la périphérie pour les membres supérieurs et inférieurs, les blocs du tronc et du rachis.
 
+3.3.3. Les compétences acquises par les anesthésistes-réanimateurs, qu'elles concernent le maniement des traitements antalgiques systémiques, des anesthésiques locaux et les techniques d'anesthésie/analgésie loco-régionale (périphérique, plexique et péri-médullaire) peuvent les amener à intervenir dans la réalisation de gestes techniques et de prises en charge de patients douloureux chroniques. Ces gestes et ces prises en charge doivent s'inscrire dans un parcours de soin pluriprofessionnel coordonné, avec au minimum un médecin spécialiste détenteur d'une compétence douleur chronique complémentaire (FST douleur, DESC douleur/soins palliatifs ou Capacité douleur).
+
 3.4. Stages :
 
 L'étudiant accomplit au choix :
@@ -323,6 +325,14 @@ L'étudiant accomplit au choix :
 -1 stage de réanimation dans un lieu hospitalier agréé à titre principal en médecine intensive-réanimation et à titre complémentaire en anesthésie-réanimation ;
 
 -2 stages libres.
+
+Pour ce qui concerne l'anesthésie-réanimation pédiatrique, l'étudiant accomplit 1 stage d'au moins 3 mois en anesthésie pédiatrique et de :
+
+- 3 mois dans un secteur d'anesthésie comportant de l'anesthésie pédiatrique, ou 3 mois dans un secteur de soins critiques pédiatriques (réanimation pédiatrique, réanimation mixte pédiatrique et néonatale, USIP pédiatrique). L'évaluation du portfolio doit attester de la réalisation d'anesthésies d'au minimum : 10 nourrissons de moins de 1 an (dont deux nouveau-nés), 20 enfants âgés de 1 à 3 ans et 60 enfants âgés de 3 à 10 ans ;
+
+- 3 mois dans un secteur de soins critiques pédiatriques (réanimation pédiatrique, réanimation mixte pédiatrique et néonatale, USIP pédiatrique).
+
+L'évaluation du portfolio doit attester de la réalisation d'anesthésies d'au minimum : 10 nourrissons de moins de 1 an (dont deux nouveau-nés), 20 enfants âgés de 1 à 3 ans et 60 enfants âgés de 3 à 10 ans.
 
 Critères d'agrément des stages de niveau II dans la spécialité :
 
@@ -410,7 +420,7 @@ L'étudiant acquiert les compétences spécifiques lui permettant de se prépare
 
 Nombre et durée des stages de niveau III :
 
-1 stage d'un an ou 2 stages d'un semestre lorsque l'acquisition par l'étudiant des compétences de la spécialité le justifie, accompli soit :
+2 stages d'un semestre accomplis :
 
 -dans un lieu hospitalier agréé à titre principal ou à titre complémentaire en anesthésie-réanimation ;
 
@@ -564,4 +574,4 @@ Possibilité de présenter l'examen du diplôme européen de soins intensifs pé
 
 NOTA :
 
-Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.
+Conformément à l’article 40 de l’arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

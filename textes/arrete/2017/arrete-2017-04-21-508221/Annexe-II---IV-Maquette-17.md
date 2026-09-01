@@ -1,209 +1,157 @@
 # Article Annexe II - IV. Maquette 17
 
-FORMATION SPÉCIALISÉE TRANSVERSALE DE MÉDECINE PALLIATIVE
+FORMATION SPÉCIALISÉE TRANSVERSALE DE MÉDECINE HOSPITALIÈRE POLYVALENTE
 
-1. Organisation générale
+1. Organisation générale :
 
-1.1. Objectifs généraux de la formation
+1.1. Objectifs généraux de la formation :
 
-La FST est destinée à permettre l'acquisition de compétences clinique, relationnelle, éthique, ainsi qu'en coopération, management, pédagogie et recherche afin de permettre à un médecin de travailler dans une structure dédiée aux soins palliatifs (unités de soins palliatifs, équipes mobiles de soins palliatifs, réseau de soins palliatifs) ou au sein d'une spécialité confrontée à de nombreuses situations palliatives.
+L'objectif de la FST de médecine hospitalière polyvalente est de former des médecins pour exercer, à plein temps ou à temps partiel, dans des services ayant une activité de médecine polyvalente, notamment d'aval des urgences mais aussi de soins de suite et de réadaptation (SSR). Elle permet notamment de renforcer les liens entre les prises en charge hospitalière et ambulatoire pour garantir une prise en charge coordonnée et favoriser les exercices partagés.
 
-1.2. Collèges d'Enseignants impliqués dans cette FST
+Les médecins hospitaliers polyvalents ou exerçant une médecine dite polyvalente sont des autres spécialistes issus de différentes spécialités médicales.
 
-Collège national des enseignants pour la formation universitaire en soins palliatifs (CNEFUSP) en partenariat avec tous les collèges des DES dans lesquels les étudiants suivant la FST sont inscrits.
+La formation sera multidisciplinaire et abordera les points suivants :
 
-1.3. Durée de la FST
+-le périmètre d'activités médicales qui consistent en la prise en charge de pathologies aiguës et de pathologies chroniques décompensées en aval des services d'accueil des urgences ;
+
+-l'organisation de la continuité des soins avec le médecin généraliste, les autres spécialistes concernés et les autres professionnels de santé, en amont, durant et en aval de l'hospitalisation ;
+
+-la participation à la filière de soins, en tissant des liens étroits avec les spécialistes d'amont (médecins généralistes, urgentistes et autres professionnels de santé), au niveau hospitalier notamment dans le cadre du groupe hospitalier territorial (GHT) et en aval avec les SSR, le réseau gériatrique et les structures de référence (service de recours au sein des CHU ou des CH en disposant, centres de référence/ compétence maladies rares).
+
+1.2. Collèges d'Enseignants impliqués dans cette FST :
+
+Collège National des Enseignants de médecine Interne (CEMI), Collège National des Généralistes Enseignants (CNGE) et Collège National des Enseignants de Gériatrie, en lien avec les collèges des autres spécialités dont les représentants participent aux enseignements.
+
+1.3. Durée de la FST :
 
 2 semestres.
 
-1.4. Sélection des candidats à la FST
+1.4. Sélection des candidats à la FST :
 
 Conformément à l'article 6 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
 
-2. Caractéristiques
+2. Caractéristiques :
 
-2.1. Enseignements hors stages
+2.1. Enseignements hors stages :
 
-Volume horaire :
+2.1.1. Volume horaire :
 
 2 demi-journées par semaine : une demi-journée en supervision et une demi-journée en autonomie.
 
-Nature des enseignements :
+2.1.2. Nature des enseignements :
 
 En application de l'article 5 du présent arrêté :
 
-- enseignement en autonomie notamment par e-learning ;
+-enseignement en présentiel : séminaires nationaux/ régionaux/ locaux ;
 
-- séminaires présentiels.
+-ateliers avec mises en situation et échanges interactifs ;
 
-Connaissances à maîtriser au terme de la formation.
+-enseignement en autonomie notamment par e-learning.
 
-Elles sont détaillées sur la plateforme numérique de la FST.
+2.1.3. Connaissances à acquérir :
 
-Connaissances générales
+Elles sont détaillées sur la plateforme numérique de la FST et concernent en particulier :
 
-- définition des Soins palliatifs et des concepts rattachés.
+-le diagnostic et la prise en charge des pathologies aiguës ou chroniques les plus fréquentes rencontrées en milieu médical hospitalier polyvalent justifiant une admission directe non programmée ou en aval des urgences : maladies cardiovasculaires et thrombo-emboliques, diabète, maladies de l'appareil locomoteur, infections communautaires et nosocomiales, pathologies hématologiques fréquentes, pathologies respiratoires, cirrhose, insuffisance rénale, pathologies allergiques, pathologies neuro-psychiatriques, particularités de la personne âgée, iatrogénie ;
 
-Connaissances cliniques
+-prise en charge des décompensations aiguës de pathologies chroniques ;
 
-- démarche clinique et thérapeutique lors des situations palliatives fréquemment rencontrées ;
+-les modalités de prescription et la hiérarchisation des investigations à visée diagnostique les plus courantes en milieu médical hospitalier polyvalent (biologie, imagerie, tests fonctionnels) ;
 
-- démarche clinique et thérapeutique lors de situations palliatives spécifiques ;
+-intégrer la “ multimorbidité médico-sociale ” dans la démarche clinique, diagnostique et thérapeutique ; l'évaluation et prévention de la fragilité et de la dépendance ;
 
-- relation et intersubjectivité, interactions patient-soignants-proches.
+-conformité des stratégies thérapeutiques hospitalières avec les recommandations nationales ;
 
-Connaissances législatives et éthiques
+-les modalités de prescription, de surveillance et les interactions médicamenteuses significatives des traitements les plus utilisés en milieu médical hospitalier polyvalent notamment les anti-infectieux, les anti-thrombotiques, l'insulinothérapie, l'oxygénothérapie, la corticothérapie, les produits sanguins labiles, les thérapeutiques de toutes les pathologies chroniques fréquentes ; structuration des établissements publics de santé, organisation de la vie hospitalière et gouvernance, modalités de financement, notion de management, aspects organisationnels et législatifs ;
 
-- cadre légal ;
+-l'établissement de soin dans son environnement territorial : coordination avec les acteurs de santé extrahospitaliers et mise en place de parcours de soins efficients.
 
-- directives anticipées, personne de confiance, sédation ;
+2.2. Stages :
 
-- délibération sur la proportionnalité des traitements ;
+2.2.1. Stages à réaliser :
 
-- souhaits de mort ;
+2 stages d'un semestre à réaliser dans un lieu bénéficiant de l'agrément fonctionnel pour la FST de médecine hospitalière polyvalente : un stage en gériatrie (aiguë ou SSR, en prenant en compte la possibilité d'effectuer des journées en équipe mobile de soins gériatriques) avec la possibilité de stage couplé 3 mois en gériatrie aiguë et 3 mois en SSR et un stage en médecine interne ou médecine polyvalente (avec possibilité, si le terrain s'y prête, d'effectuer des journées en Hospitalisation à Domicile, HAD).
 
-- réflexion éthique : médecine, loi, demande sociale.
-
-Connaissances spécifiques
-
-- spécificité du travail selon le lieu de soin (équipe mobile de soins palliatifs (EMSP), unité de soins palliatifs (USP), établissements d'hébergement pour personnes âgées dépendantes (EHPAD), domicile) ;
-
-- démarche palliative et management d'équipe ;
-
-- repères pédagogiques ;
-
-- sensibilisation aux méthodes de recherche et aux études cliniques.
-
-2.2. Stages
-
-Stages à réaliser.
-
-2 stages d'un semestre dans un lieu bénéficiant d'un agrément fonctionnel pour la FST de Soins palliatifs.
-
-L'étudiant effectue 12 mois dans des structures de médecine palliative exclusivement dédiées à cette activité : USP, EMSP intra ou extra-hospitalières, réseaux de soins palliatifs. Sur l'ensemble de son parcours de formation (DES + FST), l'étudiant aura obligatoirement fait 6 mois dans une USP et 6 mois dans une EMSP.
-
-Critères d'agrément des stages dans la FST.
+2.2.2. Critères d'agrément des stages dans la FST :
 
 En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
 
-La nature du lieu : EMSP, USP, réseaux de soins palliatifs ou autre structure de soins palliatifs intervenant au domicile :
+-la nature et le lieu : services de médecine interne, services de médecine polyvalente, de gériatrie et de SSR en CHU ou hors CHU ;
 
-- des équipes expérimentées et reconnues au niveau régional ou interrégional ;
+-un recrutement de patients couvrant un éventail suffisant des pathologies, parmi celles décrites dans le paragraphe " connaissances à acquérir " ci-dessus, en particulier les plus fréquentes et une proportion majoritaire d'admissions non programmées ;
 
-- une activité clinique suffisante pour garantir des apprentissages dans des situations variées ;
+-un fort niveau d'encadrement ;
 
-- un encadrement médical suffisant pour assurer une responsabilité pédagogique ;
+-une supervision directe des prescriptions ;
 
-- l'implication des médecins référents dans des actions de formation, d'enseignement ou de recherche.
+-la possibilité pour l'étudiant de troisième cycle de mettre en application l'apprentissage théorique et pratique qu'il aura acquis au cours de sa formation hors stage ;
 
-2.3. Compétences à maîtriser au terme de la formation
+-des réunions bibliographiques ;
 
-Les compétences spécifiques à acquérir dépendent du DES dans lequel l'étudiant est inscrit et de son projet professionnel. Elles figurent au contrat de formation mentionné à l'article 13 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
+-des staffs de discussion de dossiers (revue de morbi-mortalité, comités de retour d'expérience, réunions de concertation pluri-disciplinaire, staffs multidisciplinaires, etc.).
 
-Elles sont détaillées sur la plateforme numérique de la FST.
+2.3. Compétences à maîtriser au terme de la formation :
 
-La formation en médecine palliative repose sur l'apprentissage de compétences cliniques, relationnelle, éthique, coopération, management, pédagogie et recherche.
+Elles sont détaillées sur la plateforme numérique de la FST, en particulier :
 
-Au terme de la FST, le clinicien doit avoir acquis une compétence de type " praticien réflexif " avec une capacité à penser et à rendre compte de sa pratique en tenant compte de sa propre subjectivité, des éléments contextuels, des connaissances issues du domaine biomédical et des sciences humaines et sociales.
+-être capable de structurer une approche diagnostique efficiente dans les situations cliniques et/ ou biologiques les plus souvent observées dans les services de médecine polyvalente hospitalière, notamment en admission en aval des urgences ou en admission directe non programmée dans le cadre de la filière de soin des urgences et de SSR ;
 
-1. Compétences soignantes
+-être capable d'effectuer les principaux gestes : biopsie cutanée, gaz du sang, massage cardiaque externe, ponction articulaire, ponction d'ascite, ponction lombaire, ponction pleurale, pose d'une voie veineuse périphérique, pose d'une sonde vésicale masculine, utilisation d'un défibrillateur automatique ;
 
-- une compétence clinique en lien avec les situations rencontrées en médecine palliative.
+-être capable d'identifier des signes de gravité nécessitant une prise en charge immédiate ;
 
-- acquérir une compétence clinique, pharmacologique et thérapeutique pour faire face aux situations fréquemment rencontrées en situations palliatives (syndromes fréquents, urgence, sédation, agonie).
+-être capable de prévenir et de prendre en charge les complications et risques fréquents en hospitalisation [escarres, thromboses veineuses, risques infectieux nosocomiaux, troubles de l'hydratation (pertinence des perfusions), état nutritionnel, douleur, agitation], iatrogénie ;
 
-- acquérir une compétence clinique, pharmacologique, thérapeutique lors des situations particulières (chimiothérapies et traitements spécifiques en oncologie et hématologie, insuffisance d'organes ou de fonctions vitales, pédiatrie et néonatologie, AVC, maladie neuro-dégénérative, SLA, handicap, réanimation, maladies héréditaires).
+-être autonome dans l'élaboration d'hypothèses diagnostiques pour les pathologies fréquentes dans leurs spécificités hospitalières, l'initiation du traitement en hospitalisation en pesant les balances bénéfices/ risques, l'argumentation d'une démarche diagnostique et thérapeutique, l'organisation d'une stratégie thérapeutique globale et leur documentation pour la continuité des soins intra-hospitaliers ;
 
-- savoir mettre en œuvre une démarche scientifique et biomédicale au sein d'une approche globale du patient et en promouvant une qualité de relation.
+-être capable de rédiger synthèses et comptes rendus hospitaliers intégrant la conciliation médicamenteuse, identifier et hiérarchiser les problèmes des patients complexes ;
 
-Une compétence relationnelle :
+-garantir la continuité des soins en collaborant avec le médecin traitant et autres acteurs de santé en amont et en aval de l'hospitalisation ;
 
-- savoir transmettre une information biomédicale en tenant compte du vécu du ou des interlocuteurs (annonce de " mauvaises nouvelles " ; contexte de fragilité psychique ou psychiatrique, enfants, interlocuteurs avec troubles cognitifs…).
+-être capable d'utiliser de façon adaptée l'organisation des soins (GHT, filières, SSR, hospitalisation à domicile, soins palliatifs, en proposant des plans personnalisés de soins) ;
 
-- savoir informer et accompagner un patient de manière adaptée dans la rédaction des directives anticipées en associant la personne de confiance.
+-être capable de collaborer avec les principaux interlocuteurs de l'administration, les autres médecins hospitaliers, les médecins libéraux et avec les structures d'aval de l'hospitalisation.
 
-- savoir accompagner un patient en refus de traitement.
+2.4. Evaluation :
 
-- savoir accompagner un patient exprimant un souhait de sédation ou de mourir.
-
-- savoir accompagner un patient et son entourage dans les situations psychiques ou familiales complexes.
-
-- savoir faciliter le dialogue entre professionnels de santé dans les situations complexes.
-
-- acquérir une compétence en médiation ainsi qu'en gestion de crises ou de conflits.
-
-Une " compétence " à la réflexion éthique :
-
-- savoir construire un processus délibératif, individuel et collectif, relatif à la proportionnalité des traitements dans les situations palliatives fréquemment rencontrées (hydratation, nutrition, transfusion, passage en réanimation, anticoagulant…).
-
-- savoir construire un processus délibératif, individuel et collectif, relatif à la proportionnalité des traitements dans les situations palliatives particulières (traitements spécifiques en oncologie et hématologie, réanimation, hémodialyse, traitements de suppléances vitales pour les personnes atteintes de maladies évolutives ou d'handicaps…).
-
-- être en capacité de développer sa propre réflexivité en tenant compte de sa propre subjectivité, de la singularité de la situation, des cadres collectifs (recommandations, lois, déontologie…), du contexte institutionnel et sociétal.
-
-- savoir exposer et argumenter une réflexion éthique en s'appuyant sur la littérature biomédicale et issue des sciences humaines et sociales.
-
-Une capacité de coopération :
-
-- savoir construire une continuité de parcours de soins en associant les divers professionnels de santé ou médico-sociaux et en anticipant les complications.
-
-- savoir développer une expertise en transversalité sans se substituer à la responsabilité des acteurs de première ligne.
-
-- savoir développer une démarche palliative en tenant compte de sa fonction professionnelle et des spécificités des lieux de vie ou de soins (EMSP, USP, LISP, domicile, EHPAD, établissements médico-sociaux).
-
-2. Compétences particulières pour un rôle d'encadrement ou responsabilité
-
-- savoir animer une équipe dans une optique d'interdisciplinarité.
-
-- savoir évaluer régulièrement les activités et les pratiques professionnelles.
-
-- savoir s'articuler dans le respect de sa fonction professionnelle avec les autres acteurs des champs sanitaires, médico-sociaux et administratifs.
-
-- savoir participer au développement de la démarche palliative dans un service de soins ou en institution.
-
-3. Compétences en formation et en pédagogie
-
-- savoir contribuer à la formation des professionnels de santé en situation clinique.
-
-- savoir s'associer de manière adaptée à des activités de sensibilisation ou de formation initiale et continue en soins palliatifs en tenant compte des acteurs et de leurs lieux de soins.
-
-4. Compétences en recherche
-
-- comprendre les enjeux de la recherche dans le champ de la maladie grave, de la fin de vie et de la médecine palliative.
-
-- savoir s'associer dans une fonction de clinicien à un projet de recherche.
-
-2.4. Evaluation
-
-Modalités de l'évaluation des connaissances.
+2.4.1. Modalités de l'évaluation des connaissances :
 
 Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
-- participation à l'ensemble des séminaires.
+-autoévaluation, certifiée par le coordonnateur local ou le tuteur, à l'aide des questions qui suivent les cours mis en ligne sur la plateforme numérique de la FST (e-enseignement et e-évaluation) ;
 
-- présentation d'un mémoire dans le champ de la médecine palliative pouvant utiliser des méthodes quantitatives, qualitatives ou réflexives.
+-soutenance de mémoire.
 
-- modalités de l'évaluation des compétences.
-
-- conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
-
-- évaluation des compétences acquises lors de chaque stage par le référent de stage en s'appuyant sur une grille nationale.
-
-- Evaluation des apprentissages par le portfolio.
-
-- accompagnement et évaluation du parcours de l'étudiant avec le pilote de la FST ou son représentant lors d'au moins 3 entretiens (à l'inscription, à mi-parcours, avant la soutenance du mémoire).
-
-2.5. Modalités de validation de la FST
+2.4.2. Modalités de l'évaluation des compétences :
 
 Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
-- validation de tous les stages exigés pour la FST.
+-évaluation des stages ;
 
-- suivi des séminaires.
+-compétences acquises en stage : portfolio numérique, saisi par l'étudiant et certifié par le maître de stage, contenant les actes techniques qu'il a réalisés hors stage : bilan, certifié par le coordonnateur local, de l'activité réalisée sous forme de mise en situation ;
 
-- validation du port folio.
+-présentation de cas cliniques lors de séminaires régionaux ou nationaux ;
 
-- soutenance du mémoire dans le champ de la médecine palliative.
+-portfolio comprenant :
+
+(1) Les traces d'apprentissage et d'évaluation au cours du cursus ;
+
+(2) 3 entretiens (à l'entrée dans la FST, à mi-parcours au début du 2e stage et avant la soutenance du mémoire) avec le pilote de la FST ou son représentant. Ces entretiens sont destinés à faire le point sur la complétion de la formation théorique et le déroulement de la formation pratique.
+
+2.5. Modalités de validation de la FST :
+
+Conformément au VIII de l ‘ article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
+
+-validation formalisée de l'ensemble de la formation théorique ;
+
+-soutenance d'un mémoire ;
+
+-validation du portfolio ;
+
+-validation de tous les stages exigés pour la FST ;
+
+-avis de la commission régionale de la FST.
 
 NOTA :
 
-Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.
+Conformément à l'article 40 de l'arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

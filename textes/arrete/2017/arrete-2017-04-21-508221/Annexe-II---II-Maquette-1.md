@@ -300,7 +300,7 @@ Les compétences spécifiques permettent à l'étudiant d'acquérir une autonomi
 
 Nombre et durée des stages de niveau III :
 
-1 stage d'un an, accompli soit :
+Deux stages d'un semestre, accomplis soit :
 
 -dans un lieu hospitalier agréé à titre principal en allergologie
 
@@ -308,7 +308,7 @@ Nombre et durée des stages de niveau III :
 
 -sous la forme d'un stage couplé dans des lieux agréés à titre principal ou complémentaire en allergologie
 
-La réalisation de tout ou partie de ce stage s'effectue de préférence dans un lieu de stage avec encadrement universitaire.
+La réalisation de tout ou partie de ces stages s'effectue de préférence dans un lieu de stage avec encadrement universitaire.
 
 Critères d'agrément des stages de niveau III :
 
@@ -355,3 +355,7 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 -revue des réalisations de l'étudiant dans le domaine de la recherche au cours de son troisième cycle, de niveau suffisant pour permettre une publication dans une revue avec comité de lecture
 
 -entretien entre l'étudiant et la commission régionale de la spécialité
+
+NOTA :
+
+Conformément à l’article 40 de l’arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

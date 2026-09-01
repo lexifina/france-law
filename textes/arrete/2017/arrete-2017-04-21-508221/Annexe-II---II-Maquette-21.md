@@ -206,7 +206,7 @@ C.-Thérapeutiques : maîtrise et gestion des indications thérapeutiques à vis
 
 -1 stage en en explorations vasculaires dans un lieu hospitalier agréé à titre principal en médecine vasculaire
 
--2 stages dans un lieu agréé à titre complémentaire en médecine vasculaire et à titre principal en chirurgie vasculaire, en médecine interne et immunologie clinique, en dermatologie et vénéréologie, en neurologie, en hématologie, en radiologie et imagerie médicale, en endocrinologie-diabétologie-nutrition, en néphrologie en pneumologie, en médecine intensive-réanimation ou en biologie médicale à orientation hématologie-hémostase.
+-2 stages dans un lieu agréé à titre complémentaire en médecine vasculaire et à titre principal en chirurgie vasculaire, en médecine interne et immunologie clinique, en dermatologie et vénéréologie, en neurologie, en hématologie, en radiologie et imagerie médicale, en endocrinologie-diabétologie-nutrition, en médecine cardiovasculaire, en médecine physique et de réadaptation à orientation cardio-vasculaire, en néphrologie en pneumologie, en médecine intensive-réanimation ou en biologie médicale à orientation hématologie-hémostase.
 
 Critères d'agrément des stages de niveau II dans la spécialité :
 
@@ -276,7 +276,7 @@ L'étudiant acquiert des compétences spécifiques notamment dans :
 
 Nombre et durée des stages de niveau III :
 
-1 stage d'un an, accompli soit :
+Deux stages d'un semestre accomplis, soit :
 
 -dans un lieu hospitalier agréé à titre principal en médecine vasculaire
 
@@ -316,4 +316,4 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 
 NOTA :
 
-Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.
+Conformément à l’article 40 de l’arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

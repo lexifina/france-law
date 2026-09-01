@@ -22,6 +22,8 @@ Dans le cadre de son projet professionnel, et en regard des besoins de santé et
 
 -hygiène-prévention de l'infection, résistances
 
+-infectiologie pédiatrique
+
 -pharmacologie médicale/ thérapeutique
 
 2. Phase socle
@@ -447,3 +449,7 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 -analyse du parcours de l'étudiant
 
 -présentation orale du mémoire de DES en rapport avec la spécialité. Ce mémoire peut porter sur un chapitre particulier de la thèse alors approfondie ou correspondre à un travail réalisé en vue de publication au mieux sur un sujet de recherche multicentrique.
+
+NOTA :
+
+Conformément à l’article 40 de l’arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

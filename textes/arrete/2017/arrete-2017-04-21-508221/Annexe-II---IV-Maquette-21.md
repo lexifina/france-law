@@ -1,26 +1,28 @@
 # Article Annexe II - IV. Maquette 21
 
-FORMATION SPÉCIALISÉE TRANSVERSALE DE MÉDECINE DU SPORT
+FORMATION SPÉCIALISÉE TRANSVERSALE DE MÉDECINE ET BIOLOGIE DE LA REPRODUCTION - ANDROLOGIE
 
 1. Organisation générale
 
 1.1. Objectifs généraux de la formation
 
-L'objectif de la FST est d'apporter une formation transversale dédiée à la prise en charge (à visée d'absence de contre-indication et/ou d'adaptation de la pratique, de prévention des troubles et pathologies liés à la pratique du sport ainsi que leur prise en charge thérapeutique, explorations notamment fonctionnelles au service des éléments précédents) des sportifs et des patients dans le cadre des activités physiques et sportives pour la santé.
+Former à la prise en charge des troubles de la fécondité et/ou de la sexualité d'une personne ou d'un couple.
 
-1.2. Collèges d'Enseignants impliqués dans cette FST : Collège Français des Enseignants en Médecine et Traumatologie de l'Exercice et du Sport (CFEMTES) en lien avec les collèges des DES dans lesquels les étudiants suivant la FST sont inscrits.
+1.2. Collèges d'Enseignants impliqués dans cette FST : Gynécologie-Obstétrique, Gynécologie Médicale, Endocrinologie-Diabétologie-Nutrition, Biologie Médicale, Urologie.
 
 1.3. Durée de la FST : 2 semestres.
 
-1.4. Sélection des candidats à la FST
+1.4. Sélection des candidats à la FST :
 
-Conformément à l'article 6 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
+Conformément à l'article 6 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine. Une attention particulière sera portée au parcours suivi par l'étudiant et à son projet professionnel.
 
 2. Caractéristiques
 
 2.1. Enseignements hors stages
 
-Volume horaire : 2 demi-journées par semaine : une demi-journée en supervision et une demi-journée en autonomie.
+Volume horaire.
+
+2 demi-journées par semaine : une demi-journée en supervision et une demi-journée en autonomie.
 
 Nature des enseignements :
 
@@ -28,73 +30,73 @@ En application de l'article 5 du présent arrêté :
 
 - enseignement en autonomie notamment par e-learning ;
 
-- enseignement en présentiel, éventuellement sous forme de séminaires (cours théoriques, pratiques, simulation) ;
+- visioconférence ;
 
-- présence au Congrès commun de la Société Française de Médecine de l'Exercice et du Sport et de la Société Française de Traumatologie du Sport (ateliers pratiques, conférences) ;
-
-- suivi médical tutoré de manifestations sportives.
+- séminaires présentiels nationaux, régionaux et/ou interrégionaux.
 
 Connaissances à maîtriser au terme de la formation.
 
+Les connaissances spécifiques à acquérir dépendent du projet professionnel de l'étudiant et en particulier de son orientation médicale, biologique ou chirurgicale. Elles figurent au contrat de formation mentionné à l'article 13 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
+
 Elles sont détaillées sur la plateforme numérique de la FST, en particulier :
 
-- éléments de base des mécanismes d'adaptation à l'exercice (nutrition incluse) et à l'entrainement, en fonction de l'âge, du genre ou du handicap ;
+1) Physiologie de la reproduction masculine et féminine, infécondité du couple : épidémiologie, étiologies, physiopathologie, stratégies diagnostiques et thérapeutiques, sexualité féminine et masculine : physiologie.
 
-- théorie et pratique des tests d'aptitude de laboratoire et de terrain ;
+2) Médecine de la reproduction :
 
-- physiopathologie des principales affections en lien avec l'exercice, en fonction de l'âge, du genre ou du handicap
+- aspects physiopathologiques et diagnostiques d'une infécondité du couple ;
 
-- éléments diagnostiques (évaluations clinique et fonctionnelle, imagerie) et thérapeutiques (y compris les éléments de base de la rééducation) des pathologies et traumatismes de l'appareil locomoteur en lien avec l'exercice physique, en fonction de l'âge, du genre ou du handicap ;
+- prise en charge d'une infécondité du couple (en partie commun avec l'andrologie en ce qui concerne les infécondités masculines).
 
-- législation de la lutte anti-dopage et les grands principes de l'éthique dans le sport ;
+3) Biologie de la Reproduction : prises en charge spécifiques :
 
-- organisation du sport en France et les bases de la législation concernant sa réglementation ;
+- assistance médicale à la procréation (AMP) en contexte " risque viral " ; AMP avec tiers donneur, préservation de la fertilité ;
 
-- grands principes des actions de prévention en médecine de l'exercice et du sport ;
+- génétique de l'infertilité, des gamètes et de l'embryon; diagnostic pré-implantatoire (DPI) ; Nouvelles approches d'évaluation des gamètes et des embryons.
 
-- bases de la psychopathologie du sport ;
+4) Andrologie :
 
-- grands principes de la recherche en médecine du sport.
+- fertilité : infertilité du couple, aspects masculins, prise en charge non chirurgicale et chirurgicale d'une infécondité masculine (en partie commun avec le 2ème module de Médecine de la Reproduction) ;
+
+- sexualité/Médecine sexuelle : physiopathologie des dysfonctions sexuelles, stratégies diagnostiques et thérapeutiques.
 
 2.2. Stages
 
 Stages à réaliser :
 
-2 stages d'un semestre dans un lieu bénéficiant d'un agrément fonctionnel pour la FST de Médecine du sport. Ces stages peuvent être accomplis sous la forme de stages couplés.
+2 stages d'un semestre dans un lieu bénéficiant d'un agrément fonctionnel pour la FST Médecine et biologie de la reproduction - andrologie.
 
 Critères d'agrément des stages dans la FST, en lien avec le DES d'origine, éventuellement services avec double agrément :
 
-En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
+Conformément à l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
 
-1. L'encadrement par un médecin titulaire du DESC ou de la capacité ou responsable d'enseignement universitaire.
+- l'activité du lieu ;
 
-2. Le degré de responsabilité des étudiants de troisième cycle.
+- la présence d'enseignants en nombre suffisant pour encadrer les étudiants de troisième cycle ;
 
-3. La nature et l'importance des activités. Dans ce cadre, les activités de soins impliquent que la structure ait une activité suffisante en médecine et traumatologie de l'exercice et du sport du sport : au moins 30 % des patients ont une prise en charge spécifique, isolément ou en association avec une autre prise en charge (orthopédie, cardiologie, rééducation…), que la structure dispose d'une équipe soignante dédiée à leur prise en charge, que la structure propose des consultations avec un médecin qualifié en médecine du sport. 4. Le projet pédagogique de la structure : participation de l'étudiant de troisième cycle au programme thérapeutique et/ou à des consultations, organisation d'un staff hebdomadaire discutant des sportifs/patients suivis avec présentation de l'étudiant de troisième cycle à ce staff, organisation d'une réunion de bibliographie ou séance formalisée d'enseignement aux étudiants de troisième cycle au moins mensuelle.
+- l'organisation de réunions médicales de service (discussion de dossiers, exposés, etc.) ;
 
-Le service médical assurant le soutien du centre national des sports de la défense peut également être agréé.
+- l'existence d'un processus d'évaluation concernant la formation.
 
 2.3. Compétences à maîtriser au terme de la formation
 
+Compétences génériques et transversales à acquérir :
+
+Information sur les différents types d'exercice : cabinet isolé, structure pluridisciplinaire (clinique, biologique, médical et chirurgical…), accréditation et organisation des soins, initiation à la gestion de ces structures (aspects réglementaires, financiers, ressources humaines…).
+
+Compétences spécifiques à la spécialité à acquérir :
+
+Les compétences spécifiques à acquérir dépendent du DES dans lequel l'étudiant est inscrit et de son projet professionnel. Elles figurent au contrat de formation mentionné à l'article 13 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
+
 Elles sont détaillées sur la plateforme numérique de la FST, en particulier :
 
-- réaliser et interpréter un test d'aptitude et un test cardio-respiratoire d'effort ;
+- médecine de la Reproduction : Bilan de débrouillage d'un couple infertile. Prescription et interprétation d'un bilan hormonal, en particulier évaluation de la réserve ovarienne. Prescription et interprétation d'examens spermiologiques. Prescription et interprétation d'examens d'imagerie de la femme et d'imagerie de l'appareil génital masculin. Diagnostic d'une pathologie malformative, infectieuse des voies génitales féminines et masculines, hormonale (troubles de l'ovulation chez la femme, hypogonadisme chez l'homme), d'une maladie génétique, ou tumorale. Recherche et bilan d'une endométriose. Les grands principes et la pratique des traitements médicaux et chirurgicaux. Indications et modalités de prise en charge pour AMP. Aspects éthiques, psychologiques et législatifs de l'AMP. Préservation de la fertilité. Suivi obstétrical après AMP, en particulier chez les femmes à risque. Prescrire et surveiller un traitement inducteur de l'ovulation, monitorage échographique, ponctions, insémination intra utérine (IIU), transferts.
 
-- exercer ses activités de médecine du sport auprès des pratiquants dans une logique de prévention ;
+- biologie de la Reproduction : Mettre en œuvre la prise en charge de couples en AMP en contexte viral, de couples en AMP avec tiers donneur, des candidats au don de gamètes ou d'embryons, des hommes ou des femmes (enfants, adolescents et adultes) en vue d'une préservation de leur fertilité. Appréhender la prise en charge des couples en DPI. Interpréter les résultats des explorations génétiques de l'infertilité féminine ou masculine. Connaître les principes, indications et utilisations des nouvelles approches d'évaluation des gamètes et des embryons et appréhender leur interprétation. Acquérir la maîtrise de la gestion des gamètes, des embryons et des tissus germinaux congelés à usage autologue. Acquérir la maîtrise de la gestion des gamètes et des embryons dans le cadre du don. Approfondir la maîtrise technique d'injection de spermatozoïde dans le cytoplasme (ICSI). Acquérir la maîtrise technique de l'extraction de spermatozoïdes chirurgicaux et de la congélation des tissus germinaux.
 
-- diagnostiquer et traiter les pathologies aigues ou chroniques liées à la pratique sportive, qu'elles soient non locomotrices ou de l'appareil locomoteur (incluant la pratique de gestes spécifiques, tels infiltrations, contentions…) en fonction de l'âge et en tenant compte de possibles effets dopants ou délétères pour la performance ;
+- Andrologie : Connaître les spécificités andrologiques des pathologies masculines dans le domaine de la fertilité :
 
-- prendre en charge les troubles physiologiques, psychologiques et musculo-squelettiques liés à une pratique sportive intensive et savoir dépister et prendre en charge le surentrainement ;
-
-- mettre en œuvre les gestes d'urgence sur un terrain de sport ;
-
-- prescrire une activité physique chez un patient atteint d'Affection de Longue Durée et de toute pathologie chronique, mais aussi chez un patient sédentaire (quel que soit son âge), dans le cadre de la prévention primaire ;
-
-- prescrire une activité physique chez un sujet âgé fragile, en prévention de la perte d'autonomie ;
-
-- élaborer et mettre en place la conduite d'un programme de recherche clinique et/ou de terrain dans le champ de la médecine du sport ;
-
-- coordonner une équipe pluridisciplinaire et des soins pluridisciplinaires en médecine du sport.
+- Sexualité/Médecine sexuelle : Mettre en œuvre la prise en charge d'une dysfonction sexuelle dans un couple ou chez un individu. Mettre en œuvre les mesures de prévention et de prise en charge des co-morbidités identifiées. connaître les différentes approches thérapeutiques pharmacologiques, psycho-sexologiques et chirurgicales. Savoir mettre en place un réseau pluridisciplinaire pour la prise en charges des dysfonctions sexuelles.
 
 2.4. Evaluation
 
@@ -102,28 +104,30 @@ Modalités de l'évaluation des connaissances :
 
 Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
 
-Examen écrit et oral.
+Examen du carnet de suivi de la formation de l'étudiant (portfolio): connaissances acquises durant le stage, travaux présentés par l'étudiant au cours des réunions locales et interrégionales (bibliographie, cas cliniques).
 
-Modalités de l'évaluation des compétences :
+- relevé des présences aux séances d'enseignement présentiel.
 
-Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
+- modalités de l'évaluation des compétences :
 
-Examen oral et pratique avec cas clinique et mise en situation (utilisation de la simulation).
+- conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
 
-2.5. Modalités de validation de la FST
+- analyse de dossiers complexes au cours des réunions mensuelles (bibliographie, cas cliniques, réunion de concertation pluridisciplinaires) avec le coordonnateur local, et des réunions semestrielles régionales.
 
-Conformément au VIII de l'article 59 VIII de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
+- prise en compte d'éventuelles activités de recherche, congrès et publications.
 
-- entretien trimestriel avec le pilote de la FST pour faire le point sur la complétion de sa formation théorique et le déroulement de sa formation pratique.
+2.5. Modalités de validation de la FST :
 
-- l'obtention de la FST repose sur :
+Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
-- appréciation du coordonnateur régional du DES d'origine ;
+- validation des stages ;
 
-- validation de tous les stages de la FST ;
+- résultats à l'épreuve d'examen des connaissances ;
 
-- présentation d'un mémoire rédigé sous la forme d'un article.
+- présentation d'un cas clinique avec analyse critique et étude de la littérature, devant aborder non seulement les aspects purement biomédicaux mais aussi les aspects psychologiques, éthiques, juridiques et scientifiques.
+
+L'étudiant sera évalué sur l'ensemble de ces items.
 
 NOTA :
 
-Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.
+Conformément à l'article 40 de l'arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

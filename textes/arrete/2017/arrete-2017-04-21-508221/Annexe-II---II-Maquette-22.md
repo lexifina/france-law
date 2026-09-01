@@ -384,7 +384,7 @@ Conformémentaux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organi
 
 4. Phase de consolidation
 
-4.1. Durée : 1 an, ou deux stages d'un semestre lorsque l'acquisition par l'étudiant des compétences de la spécialité le justifie
+4.1. Durée : deux stages d'un semestre
 
 4.2. Enseignements hors stages en lien avec la préparation à l'exercice professionnel
 
@@ -452,11 +452,13 @@ Les compétences spécifiques sont les suivantes :
 
 Nombre et durée des stages de niveau III :
 
-1 stage d'un an, ou deux stages d'un semestre lorsque l'acquisition par l'étudiant des compétences de la spécialité le justifie, accompli :
+deux stages d'un semestre accomplis, soit :
 
--soit dans un lieu hospitalier agréé à titre principal en néphrologie ayant une activité de dialyse avec une formation dédiée à la dialyse hors centre ;
+-dans un lieu hospitalier agréé à titre principal en néphrologie ayant une activité de dialyse avec une formation dédiée à la dialyse hors centre ;
 
--soit dans un lieu hospitalier agréé à titre principal en néphrologie ayant une activité de transplantation rénale avec une formation dédiée à la consultation pré et post greffe.
+-dans un lieu hospitalier agréé à titre principal en néphrologie ayant une activité de transplantation rénale avec une formation dédiée à la consultation pré et post greffe.
+
+-sous la forme d'un stage mixte dans des lieux et/ou auprès d'un praticien-maître de stage des universités agréés à titre principal en neurologie
 
 Critères d'agrément des stages de niveau III :
 
@@ -620,4 +622,4 @@ Portfolio validé par le maître de stage.
 
 NOTA :
 
-Conformément à l’article 5 de l’arrêté du 15 avril 2022 (NOR : SSAH2209486A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.
+Conformément à l’article 40 de l’arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

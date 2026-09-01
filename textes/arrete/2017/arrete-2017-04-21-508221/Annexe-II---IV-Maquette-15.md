@@ -1,279 +1,181 @@
 # Article Annexe II - IV. Maquette 15
 
-FORMATION SPÉCIALISÉE TRANSVERSALE DE MALADIES ALLERGIQUES
+FORMATION SPÉCIALISÉE TRANSVERSALE D'INFECTIOLOGIE PÉDIATRIQUE
 
 1. Organisation générale
 
 1.1. Objectifs généraux de la formation
 
-- maîtrise d'investigations spécialisées adaptées au DES d'origine : batteries de patch tests, prick tests spécifiques, tests de provocation muqueux, investigations spécifiques des allergies professionnelles, tests de provocation ;
+La FST répond à un besoin de la population pédiatrique, souvent vulnérable, qui est celle la plus atteinte par des pathologies infectieuses et dont les spécificités (portant sur l'épidémiologie, la clinique, le diagnostic, la thérapeutique) rendent difficile la projection des schémas adultes. Si l'infectiologie pédiatrique courante (de 1er niveau) relève de la formation acquise au cours du DES de pédiatrie, les problématiques infectieuses hospitalières complexes rencontrées aujourd'hui en pédiatrie et en néonatologie nécessitent un niveau d'expertise de plus en plus élevé. La méconnaissance des spécificités pédiatriques complexes expose au risque d'erreurs dans des situations souvent urgentes et critiques, et maintient une inégalité de qualité de prise en charge sur le territoire.
 
-- maîtrise des connaissances des réactions croisées entre haptènes ou entre médicaments indispensable pour préserver un patient de la rechute ;
+Ainsi, l'évolution préoccupante des résistances bactériennes chez l'enfant liées au mauvais usage des antibiotiques, l'augmentation du nombre d'enfants porteurs de pathologies lourdes associées à un risque infectieux, la vulnérabilité des enfants vis-à-vis d'agents infectieux émergents et des périls sanitaires présents et à venir, justifient une formation spécifique en infectiologie pédiatrique pour les médecins amenés à intervenir dans ce champ de la médecine.
 
-- connaissance des allergènes moléculaires en cause dans les hypersensibilités immédiates aux protéines de l'environnement ;
+La FST répond aussi aux missions de référent antibiotique réglementées par le plan national d'alerte du ministère des Solidarités et de la Santé (Instruction DGS/RI1/DGOS/PF2/DGCS n° 2015-212 du 19 juin 2015) et récemment précisées dans la Stratégie Nationale de Lutte contre l'antibiorésistance. Enfin, cette formation permet l'uniformisation de l'enseignement à l'échelle européenne, l'infectiologie pédiatrique étant une spécialité dans la plupart des pays d'Europe avec une formation qualifiante reconnue par l'Etat, et crée une continuité entre l'infectiologie adulte et pédiatrique.
 
-- développement des interventions thérapeutiques précoces comme l'induction de tolérance, l'immunothérapie allergénique ;
+L'objectif est de former des spécialistes des maladies infectieuses et tropicales pédiatriques afin :
 
-- éducation thérapeutique ;
+- d'apporter une expertise spécifique dans le diagnostic et la prise en charge des infections graves et complexes de l'enfant, avec une activité de référent en infectiologie pédiatrique. Cela implique la connaissance des spécificités pédiatriques sémiologiques, microbiologiques et pharmacologiques ;
 
-- apprentissage à la prescription des biothérapies.
+- d'assurer les missions de santé publique en collaboration étroite avec les différents cliniciens et les organismes concernés : s'impliquer dans la maîtrise de l'utilisation des agents infectieux en pédiatrie, dans la mise en place et/ou la réactualisation de protocoles nationaux en maladies infectieuses pédiatriques, dans la formation des professionnels de santé sur le bon usage des agents anti-infectieux en pédiatrie, dans la réponse aux alertes épidémiques sur le territoire et l'organisation de la prévention individuelle et collective de la diffusion des maladies émergentes et des infections multi-résistantes chez l'enfant, et enfin dans l'élaboration et la mise en œuvre des programmes de vaccination en situation complexe (ex. enfants atteints de déficits immunitaires congénitaux ou acquis) ;
 
-1.2. Collèges d'enseignants impliqués dans cette FST
+- de participer à, voire conduire, des activités de recherche de haut niveau en maladies infectieuses en collaboration avec les infectiologues adultes et pédiatres français et étrangers.
 
-Collège des Enseignants en Dermatologie de France (CEDEF), Collège des Enseignants de Pneumologie (CEP), Collège Français d'ORL et de Chirurgie Cervico-Faciale, Collège National des Pédiatres Universitaires (CNPU), Collège National des Enseignants de Médecine Interne (CEMI) et Collège des Enseignants d'Allergologie.
+1.2. Collèges d'Enseignants impliqués dans cette FST Collège des Universitaires des Maladies Infectieuses et Tropicales (CMIT) & Collège National des Pédiatres universitaires (CNPU).
 
-1.3. Durée de la FST :
+1.3. Durée de la FST Deux semestres.
 
-2 semestres.
+1.4. Sélection des candidats à la FST
 
-1.4. Sélection des candidats à la FST :
+Conformément à l'article 6 de l'arrêté du 12 avril 2017 portant sur l'organisation du troisième cycle des études de médecine, la sélection des candidats sera effectuée par le pilote de la FST et les coordonnateurs des spécialités concernées. L'étudiant devra au préalable avoir acquis les connaissances de base en pédiatrie et en infectiologie, et une attention particulière sera portée au parcours suivi par l'étudiant et à son projet professionnel
 
-Conformément à l'article 6 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine. Une attention particulière sera portée au parcours de spécialité suivi par l'étudiant et à son projet professionnel vis-à-vis des maladies allergiques de sa spécialité.
+2. Caractéristiques
 
-2. Niveau 1
+2.1. Enseignements hors stages
 
-2.1. Durée : 1 semestre.
+2.1.1. Volume horaire :
 
-2.2. Enseignements hors stages
+Deux demi-journées par semaine, durée calculée en moyenne sur le trimestre, selon les modalités définies par la directive européenne sur le temps de travail : une demi-journée en autonomie et une demi-journée supervisée
 
-Volume horaire :
-
-2 demi-journées par semaine : une demi-journée en supervision et une demi-journée en autonomie.
-
-Nature des enseignements :
+2.1.2. Nature des enseignements :
 
 En application de l'article 5 du présent arrêté :
 
 - enseignement en autonomie notamment par e-learning ;
 
-- séminaires nationaux et régionaux.
+- séminaires présentiels et distanciels, organisés par le pilote de la FST.
 
-Connaissances à maîtriser au terme de la formation.
+Ces enseignements utiliseront le numérique (enregistrement des cours, vidéo transmission) et se feront sous forme d'enseignements dirigés avec participation active des internes sous forme de cas cliniques, d'exposés théoriques par un expert, de conférences de synthèse et messages principaux.
 
-Elles sont détaillées sur la plateforme numérique de la FST, en particulier :
-
-- mécanismes des quatre grands types d'hypersensibilité et leurs modalités d'exploration cutanée ;
-
-- caractéristiques et prise en charge des maladies allergiques ; des angioedèmes, des mastocytoses.
-
-2.3. Stages
-
-Stages à réaliser :
-
-1 stage d'un semestre dans un lieu bénéficiant d'un agrément fonctionnel pour la FST de Maladies allergiques et pratiquant des consultations et bilans d'allergologie.
-
-Critères d'agrément des stages dans la FST, en lien avec le DES d'origine, éventuellement services avec double agrément :
-
-En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
-
-- le secteur d'activité allergologique individualisé, permettant la prise en charge d'un nombre important de patients par l'étudiant et l'acquisition large des compétences ;
-
-- les effectifs suffisants dans l'équipe pour assurer l'encadrement permanent de l'étudiant ;
-
-- la présence d'au moins un praticien assurant une activité d'allergologie dans le secteur dédié à cette activité ;
-
-- la supervision différée de l'organisation des soins, des prescriptions, de la rédaction des comptes rendus, ordonnances et lettres de sortie ;
-
-- l'organisation de réunions de service régulières avec présentation de dossiers et propositions de prise en charge dans le champ de l'allergologie et organisation d'au moins une réunion bibliographique sur cette thématique par mois.
-
-2.4. Compétences à maîtriser au terme du niveau 1
+2.1.3. Connaissances à acquérir :
 
 Elles sont détaillées sur la plateforme numérique de la FST, en particulier :
 
-- être capable de reconnaître les caractéristiques des principales maladies allergiques et de proposer une prise en charge thérapeutique adaptée à l'organe, l'âge et la physiopathologie de la maladie ;
+1° Connaître les spécificités néonatales et pédiatriques de l'interaction hôte-pathogène et de la réponse immunitaire pendant l'infection
 
-- être capable de poser les indications et de prescrire un bilan allergologique adapté à chacune des principales maladies allergiques et tenant compte de l'environnement personnel ou professionnel du patient ;
+2° Connaître les types d'infections rencontrées en cas d'anomalies anatomiques congénitales et sur les procédures chirurgicales spécifiquement pédiatriques
 
-- diagnostiquer et prendre en charge un choc anaphylactique, un œdème laryngé, un asthme aigu grave ;
+3° Savoir diagnostiquer et prendre en charge, avec la connaissance des spécificités pédiatriques, les infections complexes chez l'enfant nécessitant une expertise :
 
-- diagnostiquer et connaître les principes de la prise en charge d'un angioœdème histaminique et non histaminique ;
+a) Les infections pédiatriques graves (y compris néonatales) ou inhabituelles (i.e., infections à pathogènes rares, nosocomiales, post-chirurgicales) ;
 
-- diagnostiquer et prendre en charge un syndrome hyperéosinophilique ;
+b) Les infections urinaires récidivantes ou sur matériel, les infections respiratoires basses compliquées ou associées aux soins, les infections ORL, stomatologiques et ophtalmologiques, dermatologiques et ostéoarticulaires complexes et infections du site opératoire, les infections cardiovasculaires, du système nerveux central et digestives compliquées ;
 
-- diagnostiquer et connaître les principes de prise en charge d'une mastocytose systémique.
+c) Les maladies d'inoculation ;
 
-3. Niveau 2
+d) Les infections émergentes et les agents infectieux hautement contagieux ;
 
-3.1. Durée : 1 semestre.
+e) Les infections sexuellement transmissibles, l'infection à VIH, les hépatites virales et infections chroniques et/ou récurrentes à virus du groupe herpès (CMV, HSV, EBV) et la prescription des anti-rétroviraux ;
 
-Enseignements hors stages.
+f) Les infections de l'enfant immunodéprimé et les infections fongiques invasives ;
 
-Volume horaire.
+g) La tuberculose multi-résistante ;
 
-2 demi-journées par semaine : une demi-journée en supervision et une demi-journée en autonomie.
+h) Les pathologies infectieuses chez l'enfant migrant ;
 
-Nature des enseignements :
+i) Pathologie infectieuse de l'enfant voyageur ;
 
-En application de l'article 5 du présent arrêté :
+4° Connaître tous les agents anti-infectieux de recours (en particulier sans AMM pédiatrique), connaître leurs spectres d'activité spécifiques, leurs particularités pharmacocinétiques et pharmacodynamiques (PK-PD) avec leurs conséquences sur le mode d'administration, la posologie ainsi que leurs contre-indications chez l'enfant ;
 
-- enseignement en autonomie notamment par e-learning ;
+5° Savoir lire et interpréter les profils de résistance complexes sur un antibiogramme au cours d'une infection ;
 
-- séminaires régionaux, nationaux.
+6° Connaître les indications des agents immunomodulateurs, immunoglobulines et corticoïdes au cours de certaines infections graves ;
 
-Connaissances à maîtriser au terme de la formation.
+7° Connaître le rôle d'un référent en anti-infectieux et de conseil sur l'utilisation des anti-infectieux en pédiatrie ;
 
-Les connaissances spécifiques à acquérir dépendent du DES dans lequel l'étudiant est inscrit et de son projet professionnel. Elles figurent au contrat de formation mentionné à l'article 13 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
+8° Savoir conduire une expertise en infectiologie pédiatrique dans le cadre d'un staff multidisciplinaire ;
 
-Elles sont détaillées sur la plateforme numérique de la FST, en particulier :
+9° Connaître les principes et les règles de bonne pratique de la recherche en infectiologie pédiatrique.
 
-- " Allergènes cutanés " ;
+2.2. Stages
 
-- " Hypersensibilité médicamenteuse (HS médicamenteuse) " ;
+2.2.1. Parcours de stages à réaliser :
 
-- " Allergie alimentaire (HS alimentaire) " ;
+- un stage d'un semestre dans un service bénéficiant d'un agrément fonctionnel pour la FST et ayant une activité de maladies infectieuses pédiatriques ;
 
-- " Particularités des maladies allergiques de l'enfant (HS enfant) " ;
+- un stage d'un semestre dans un service bénéficiant d'un agrément fonctionnel pour la FST et ayant une activité au choix, en maladies infectieuses pédiatriques ; maladies infectieuses et tropicales adultes ; microbiologie.
 
-- " Environnement et maladies allergiques, hypersensibilité aux hyménoptères (HS environnement) " ;
+Le choix de ce 2e stage devra tenir compte du DES d'origine de l'étudiant et de ses stages de DES préalablement effectués pour que la formation soit optimale au regard des objectifs de formation de la FST.
 
-- " Atopènes " ;
+Durant sa formation pratique, l'étudiant devra effectuer une activité d'infectiologie transversale (adulte ou pédiatrique) pendant au moins 3 mois.
 
-- " Pathologies cutanées d'hypersensibilité (HS cutanées) " ;
+2.2.2. Critères d'agrément des stages dans la FST, en lien avec le DES d'origine, éventuellement services avec double agrément :
 
-- " Pathologies respiratoires hautes et basses d'hypersensibilité (HS respiratoires) ".
+En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte les éléments suivants :
 
-Le niveau 2 comprend la validation de 3 modules spécifiques parmi les modules susmentionnés.
+- volume d'activité de soins ;
 
-3.2. Stages
+- collaborations en réseau avec les Centres hospitaliers non universitaires et le secteur libéral ;
 
-Nombre et durée des stages de niveau 2 :
+- encadrement académique ;
 
-1 stage d'un semestre dans un lieu bénéficiant d'un agrément fonctionnel pour la FST Maladies allergiques et pratiquant des consultations et bilans d'allergologie.
+- implication pédagogique et organisation de réunions interdisciplinaires ;
 
-Critères d'agrément des stages dans la FST.
+- évaluation régulière des pratiques.
 
-En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
+2.3. Compétences à maîtriser au terme de la formation
 
-- le secteur d'activité allergologique individualisé, permettant la prise en charge d'un nombre important de patients par l'étudiant et l'acquisition large des compétences ;
+Compétences spécifiques à la FST à acquérir au cours du DES d'origine : Elles sont détaillées sur la plateforme numérique de la FST, en particulier, avec la connaissance des particularités néonatales et pédiatriques :
 
-- les effectifs suffisants dans l'équipe pour assurer l'encadrement permanent de l'étudiant ;
+- conseiller sur les éléments d'investigation en infectiologie en les adaptant à la physiologie de l'enfant (diagnostic stewardship) ;
 
-- la présence d'au moins un équivalent temps plein assurant une activité d'allergologie dans le secteur dédié à cette activité ;
+- prendre en charge les maladies infectieuses communautaires complexes (infections ostéo-articulaires, endocardites, tuberculose…) et les infections associées aux soins (infections sur matériel, infections à BMR, infections nosocomiales et en réanimation) ;
 
-- la supervision différée de l'organisation des soins, des prescriptions, de la rédaction des comptes rendus, ordonnances et lettres de sortie ;
+- prendre en charge et prévenir une infection de l'enfant immunodéprimé ;
 
-- l'organisation de réunions de service régulières avec présentation de dossiers et propositions de prise en charge dans le champ de l'allergologie et organisation d'au moins une réunion bibliographique sur cette thématique par mois.
+- diagnostiquer et traiter les infections rares ou complexes à leur phase initiale (infections fongiques et infections virales néonatales, infections du site opératoire…) ;
 
-3.3. Compétences à maîtriser au terme de la formation
+- prendre en charge le diagnostic et le traitement des principales maladies tropicales d'importation rares ou sévères de l'enfant (virales, fongiques et parasitaires) ;
 
-Les compétences spécifiques à acquérir dépendent du DES dans lequel l'étudiant est inscrit et de son projet professionnel. Elles figurent au contrat de formation mentionné à l'article 13 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine. Elles sont organisées en modules. En fonction de son DES d'origine et de son projet professionnel, le candidat devra valider quatre modules : le tronc commun initial et 3 modules spécifiques.
+- coordonner la gestion d'une épidémie avec gestion du risque biologique en milieu pédiatrique ;
 
-Les compétences à maîtriser sont détaillées sur la plateforme numérique de la FST, en particulier :
+- prendre en charge les différentes zoonoses de l'enfant ;
 
-*Tronc commun :
+- prendre en charge une infection à BMR/BHR ou à un agent infectieux hautement transmissible (sur le versant thérapeutique et sur le versant hygiène) ;
 
-- être capable de prendre en charge en autonomie complète un patient ayant une allergie complexe selon les modules et la discipline exercée ;
+- donner un conseil en antibiothérapie en intra- et en extra- hospitalier : infectiologie transversale pédiatrique avec une compétence pour la télé-expertise et aider à la réévaluation de la prescription des antibiotiques à la 72e heure et au 7e jour, mettre en place les principes de surveillance thérapeutique en milieu hospitalier et appliquer les mesures complémentaires dans la prévention de la transmission des BMR ;
 
-- conduire une consultation allergologique, poser les indications, réaliser et interpréter les examens avec pertinence ;
+- organiser la suite de prise en charge ambulatoire d'une infection complexe ;
 
-- interroger et conseiller le patient sur son environnement et ses risques d'exposition aux allergènes ;
+- appliquer les principes de l'éducation thérapeutique en consultation d'infectiologie pédiatrique ;
 
-- prendre en charge une urgence allergique et connaître les spécificités relevant de sa spécialité ;
+- conseiller un programme vaccinal adapté en fonction du risque individuel et collectif chez les enfants souffrant de maladie chronique, immunodéprimés et/ou sous traitements immunosuppresseurs, participer à la prévention vaccinale en cas de maladie émergente ;
 
-- mettre en œuvre, interpréter un bilan allergologique adapté aux modules de formation suivis : tests épicutanés, les prick tests, les tests cutanés médicamenteux, interprétations des IgE vis-à-vis d'allergènes natifs et moléculaires, les tests de provocation orale, les spirométries ou rhinomanométries ;
+- conduire une consultation de voyage en zone tropicale, tout particulièrement chez l'enfant immunodéprimé ;
 
-- mener des investigations ou des traitements spécifiques : inductions de tolérance (médicamenteuses, alimentaires), immunothérapie ou biothérapies selon les modules choisis.
+- interagir dans le cadre de réunions de concertation pluridisciplinaire (RCP) pédiatriques sur les questions relevant de l'infectiologie ;
 
-*Pathologies cutanées d'hypersensibilité (HS cutanées) :
+- collaborer avec les centres de dépistage, de veille sanitaire, de prise en charge des infections ostéo-articulaires complexes, avec le Centre de lutte anti-tuberculeuse (CLAT) et les structures de lutte contre les maladies hautement contagieuses ;
 
-- module intégralement traité dans le DES de dermatologie ;
+- participer à la gestion des antimicrobiens à l'échelle institutionnelle (ex. réunion de la Commission Médicale des Anti-Infectieux -COMAI-locale) et aux audits de bon usage des anti-infectieux ;
 
-- conduire une consultation de dermato-allergologie ;
+- participer à l'élaboration de, voire conduire un protocole de recherche clinique en infectiologie pédiatrique.
 
-- poser les indications, réaliser et interpréter un bilan par patch tests de la batterie standard européenne ;
+2.4. Evaluation
 
-- faire un bilan d'urticaire de contact, d'urticaires inductibles ;
-
-- prendre en charge une photodermatose ;
-
-- poser les indications et réaliser des photopatch tests, prendre en charge toutes les toxidermies en phase aiguë jusqu'à l'indication des tests cutanés allergologiques ;
-
-- prendre en charge et mettre en œuvre l'éducation thérapeutique d'une dermatite atopique.
-
-*Pathologies respiratoires hautes et basses d'hypersensibilité (HS respiratoires) :
-
-- module intégralement traité dans le DES de pneumologie ;
-
-- prendre en charge l'évaluation de la sévérité d'un asthme ou d'une rhinite chronique ou saisonnière, leur traitement, leur suivi ;
-
-- poser les indications et savoir interpréter le bilan biologique des IgE spécifiques dans les HS respiratoires hautes et basses, réaliser des prick tests aux pneumallergènes, *savoir réaliser une enquête sur l'environnement allergénique personnel et professionnel, *mettre en œuvre l'éducation thérapeutique adaptée au patient asthmatique ou l'immunothérapie allergénique aux pneumallergènes.
-
-*Particularités des maladies allergiques de l'enfant (HS enfant) :
-
-- module intégralement traité dans le DES de pédiatrie*
-
-- poser les indications et interpréter un dosage des IgE spécifiques des allergènes natifs et de leurs recombinants*
-
-- poser l'indication chez l'enfant et faire des tests cutanés, les tests de provocation orale (TPO), l'immunothérapie allergénique aux pneumallergènes, l'induction de tolérance alimentaire chez les patients à bas risque d'anaphylaxie, prescrire une trousse d'urgence, mettre en œuvre l'éducation thérapeutique, et la mise en place d'un projet d'accueil individualisé (PAI) adaptés à l'enfant allergique.
-
-*Allergie alimentaire (HS alimentaire) :
-
-- être capable de mener une consultation d'allergie alimentaire en fonction du phénotype allergique, mettre en œuvre et interpréter une enquête alimentaire, prescrire un bilan avec des IgE anti-allergènes recombinants, prescrire et évaluer l'impact des régimes d'éviction d'allergènes alimentaires, mettre en œuvre un PAI adapté aux enfants ayant une allergie alimentaire grave et prescrire une induction de tolérance alimentaire.
-
-*Hypersensibilité médicamenteuse (HS médicamenteuse) :
-
-- mettre en œuvre une consultation dédiée aux hypersensibilités médicamenteuses, poser les indications et réaliser les tests cutanés médicamenteux (patch, prick tests et IDR) ou les TPO en respectant les standards internationaux pour ces tests et adapter chaque bilan à chaque type de toxidermie qu'elle soit grave ou peu sévère, mettre en œuvre une induction de tolérance aux chimiothérapies et biothérapies, réaliser une consultation d'allergo-anesthésie avec les tests cutanés qui l'accompagnent.
-
-*Environnement et maladies allergiques, hypersensibilité aux hyménoptères (HS environnement) :
-
-- mettre en œuvre une consultation et le bilan d'un asthme ou d'une rhinite allergique de cause rare ou professionnelle avec tests cutanés et réalistes en chambre d'exposition allergénique ;
-
-- réaliser un test de provocation muqueux nasal ;
-
-- mettre en œuvre une consultation et un bilan d'allergie aux venins d'hyménoptères ;
-
-- mettre en œuvre d'une induction de tolérance par méthode de semi-rush ou ultra-rush.
-
-*Allergènes cutanés :
-
-- faire une consultation de dermato-allergologie complexe ;
-
-- poser les indications et réaliser des tests épicutanés avec des batteries spécialisées ou des produits apportés par le patient ;
-
-- mettre en œuvre les mesures d'éviction de contact vis-à-vis des haptènes de l'environnement privé ou professionnel ou liés aux topiques médicamenteux ;
-
-- réaliser les investigations adaptées à une urticaire de contact aux protéines ;
-
-- faire un bilan photoallergique ;
-
-- réaliser les tests adaptés à une hypersensibilité de contact à un topique médicamenteux et conseiller un patient vis à vis de ses prises médicamenteuses ultérieures topiques ou systémiques.
-
-*Atopènes :
-
-- faire une consultation dédiée aux hypersensibilités complexes aux atopènes ;
-
-- poser l'indication et interpréter un bilan d'allergènes recombinants ;
-
-- faire des prick tests adaptés et éduquer le patient à la reconnaissance, l'éviction ou la protection vis-à-vis de l'exposition aux allergènes environnementaux ;
-
-- conseiller vis à vis de l'éviction des protéines environnementales pouvant induire des allergies croisées.
-
-4. Evaluation de la FST
-
-Modalités de l'évaluation des connaissances de la FST :
-
-Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
-
-- validation en ligne pour les enseignements à distance ;
-
-- participation aux enseignements présentiels.
-
-Modalités de l'évaluation des compétences de la FST :
-
-Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
-
-- évaluations des 2 stages : appréciation globale des stages et nombre d'actes requis détaillés dans le portfolio.
-
-5. Modalités de validation de la FST
+2.4.1. Modalités de l'évaluation des connaissances, donnant accès à la phase II de la FST :
 
 Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
 
-Le portfolio attestant des acquis et pratiques pendant les stages est adapté à chaque module spécialisé mais il comprend pour tous les parcours de FST :
+Connaissances théoriques : autoévaluation en ligne par un questionnaire électronique à la fin de chaque module d'e-learning et de chaque séminaire.
 
-- validation des stages ;
+2.4.2. Modalités de l'évaluation des compétences, donnant accès à la phase II de la FST :
 
-- validation des 4 modules (le tronc commun initial et 3 modules spécifiques dépendant du DES d'origine et du projet professionnel du candidat) par des post-tests validés en ligne (QRM, dossiers progressifs avec QRM) ;
+Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
 
-- présentation du portfolio (avoir vu au moins dix patients en consultation supervisée avec réalisation des tests cutanés allergologiques par l'étudiant ; réalisation et interprétation supervisée de 20 prick tests) ;
+Connaissances pratiques : grille d'évaluation standardisée remplie par le maître de stage (carnet de stage, portfolio).
 
-- présentation d'un mémoire rédigé sous la forme d'un article scientifique sur un sujet en lien avec la FST.
+2.5. Modalités de validation de la FST
+
+Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine. En commission pédagogique de la FST :
+
+- validation du contrôle continu des connaissances (questionnaires électroniques) ;
+
+- validation de l'acquisition des compétences (formulaires de validation de stage et portfolio de l'étudiant) ;
+
+- validation du parcours de stages de l'étudiant ;
+
+- soutenance d'un mémoire rédigé sous la forme d'un article scientifique destiné à être soumis dans une revue à comité de lecture sur un sujet en lien avec la FST.
+
+NOTA :
+
+Conformément à l'article 40 de l'arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

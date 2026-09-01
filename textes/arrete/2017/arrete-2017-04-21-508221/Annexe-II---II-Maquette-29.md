@@ -258,21 +258,31 @@ Ces compétences incluent également l'acquisition de la pratique ou au minimum 
 
 3.4. Stages :
 
--1 stage dans un lieu agréé à titre principal en rhumatologie
+1° Un stage dans un lieu agréé à titre principal en rhumatologie ;
 
--1 stage dans un lieu ou auprès d'un praticien maître de stage des universités agréé à titre principal en rhumatologie. Ce stage peut également être accompli sous la forme d'un stage mixte.
+2° Un stage dans un lieu ou auprès d'un praticien maître de stage des universités agréé à titre principal en rhumatologie. Ce stage peut également être accompli sous la forme d'un stage mixte ;
 
--2 stages dans un lieu agréé à titre complémentaire en rhumatologie et à titre principal en dermatologie et vénéréologie, en gériatrie, en hématologie, en hépato-gastroentérologie, en maladies infectieuses et tropicales, en médecine interne et immunologie clinique, en médecine physique et de réadaptation, en médecine de la douleur, en médecine du sport, en neurologie, en oncologie, en médecine de santé au travail, en radiologie et imagerie médicale.
+3° Un stage dans un lieu agréé à titre complémentaire en rhumatologie et à titre principal en dermatologie et vénéréologie, en gériatrie, en hématologie, en hépato-gastroentérologie, en maladies infectieuses et tropicales, en médecine interne et immunologie clinique, en médecine physique et de réadaptation, en médecine de la douleur, en médecine du sport, en neurologie, en oncologie, en médecine de santé au travail, en radiologie et imagerie médicale ;
+
+4° Un stage libre pouvant être correspondre à l'un des quatre lieux de stage suivants :
+
+a) Stage dans un lieu agréé à titre principal en rhumatologie ;
+
+b) Stage dans un lieu agréé à titre complémentaire en rhumatologie et à titre principal en dermatologie et vénéréologie, en gériatrie, en hématologie, en hépato-gastroentérologie, en maladies infectieuses et tropicales, en médecine interne et immunologie clinique, en médecine physique et de réadaptation, en médecine de la douleur, en médecine du sport, en neurologie, en oncologie, en médecine de santé au travail, en radiologie et imagerie médicale ;
+
+c) Stage auprès d'un praticien maître de stage des universités agréé à titre principal en rhumatologie ;
+
+d) Stage accompli sous la forme d'un stage mixte dans un lieu hospitalier agréé à titre principal en rhumatologie ou auprès d'un praticien-maître de stage des universités agréé à titre principal en rhumatologie.
 
 Critères d'agrément des stages de niveau II dans la spécialité :
 
 En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
 
--le niveau d'encadrement
+- le niveau d'encadrement ;
 
--un nombre de patients pris en charge par l'étudiant plus important que dans la phase socle
+- un nombre de patients pris en charge par l'étudiant plus important que dans la phase socle ;
 
--l'accès à un échographe et un densitomètre
+- l'accès à un échographe et un densitomètre
 
 3.5. Modalités d'évaluation des connaissances et des compétences :
 
@@ -360,7 +370,7 @@ B.-Compétences en recherche clinique
 
 Nombre et durée des stages de niveau III :
 
-1 stage d'un an, ou 2 stages de un semestre lorsque l'acquisition par l'étudiant des compétences de la spécialité le justifie, accompli soit :
+2 stages d'un semestre accomplis, soit :
 
 -dans un lieu hospitalier agréé à titre principal en rhumatologie
 
@@ -404,4 +414,4 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 
 NOTA :
 
-Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.
+Conformément à l’article 40 de l’arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

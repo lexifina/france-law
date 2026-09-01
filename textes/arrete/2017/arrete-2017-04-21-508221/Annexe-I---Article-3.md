@@ -30,6 +30,8 @@ La liste des formations spécialisées transversales qui peuvent être suivies d
 
 - hygiène-prévention de l'infection, résistances ;
 
+- infectiologie pédiatrique ;
+
 - maladies allergiques ;
 
 - médecine hospitalière polyvalente ;
@@ -46,14 +48,16 @@ La liste des formations spécialisées transversales qui peuvent être suivies d
 
 - nutrition appliquée ;
 
-- pharmacologie médicale/ thérapeutique ;
+- pharmacologie médicale/thérapeutique ;
+
+- phoniatrie ;
 
 - sommeil ;
 
-- thérapie cellulaire/ transfusion ;
+- thérapie cellulaire/transfusion ;
 
 - urgences pédiatriques.
 
 NOTA :
 
-Conformément à l'article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.
+Conformément à l’article 40 de l’arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

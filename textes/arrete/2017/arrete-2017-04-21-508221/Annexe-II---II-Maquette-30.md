@@ -290,7 +290,7 @@ Les compétences spécifiques sont les suivantes :
 
 Nombre et durée des stages de niveau III :
 
-1 stage de 1 an, ou deux stages d'un semestre lorsque l'acquisition par l'étudiant des compétences de la spécialité le justifie, dans un lieu agréé à titre principal en santé publique
+deux stages d'un semestre dans un lieu agréé à titre principal en santé publique
 
 Critères d'agrément des stages de niveau III :
 
@@ -379,3 +379,7 @@ Les étudiants admis dans l'option sont affectés à l'école des Hautes Etudes 
 5.5. Modalités de validation de l'option :
 
 Exposé d'un travail personnel sous la forme d'un article conforme aux recommandations d'une revue scientifique ou professionnelle.
+
+NOTA :
+
+Conformément à l’article 40 de l’arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

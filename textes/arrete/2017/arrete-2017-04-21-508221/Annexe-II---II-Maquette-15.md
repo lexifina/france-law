@@ -40,6 +40,8 @@ Dans le cadre de son projet professionnel, et en regard des besoins de santé et
 
 - expertise médicale - préjudice corporel ;
 
+- phoniatrie ;
+
 - médecine du sport ;
 
 - médecine scolaire ;
@@ -518,4 +520,4 @@ Conformément à l'article 59 de l'arrêté du 12 avril 2017 portant organisatio
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 10 juillet 2025 (NOR : TSSH2431886A), ces dispositions s'appliquent aux étudiants débutant la première année de la phase d'approfondissement du diplôme d'études spécialisées de médecine générale au cours des années universitaires 2025-2026 et 2026-2027
+Conformément à l’article 40 de l’arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

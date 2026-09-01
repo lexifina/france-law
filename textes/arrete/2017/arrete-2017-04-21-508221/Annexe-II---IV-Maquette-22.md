@@ -1,32 +1,26 @@
 # Article Annexe II - IV. Maquette 22
 
-FORMATION SPÉCIALISÉE TRANSVERSALE DE NUTRITION APPLIQUÉE
+FORMATION SPÉCIALISÉE TRANSVERSALE DE MÉDECINE DU SPORT
 
 1. Organisation générale
 
 1.1. Objectifs généraux de la formation
 
-Donner une compétence avancée pour la prise en charge des pathologies nutritionnelles complexes rencontrées dans la spécialité d'origine de l'étudiant inscrit dans la FST.
+L'objectif de la FST est d'apporter une formation transversale dédiée à la prise en charge (à visée d'absence de contre-indication et/ou d'adaptation de la pratique, de prévention des troubles et pathologies liés à la pratique du sport ainsi que leur prise en charge thérapeutique, explorations notamment fonctionnelles au service des éléments précédents) des sportifs et des patients dans le cadre des activités physiques et sportives pour la santé.
 
-1.2. Collèges d'Enseignants impliqués dans cette FST
+1.2. Collèges d'Enseignants impliqués dans cette FST : Collège Français des Enseignants en Médecine et Traumatologie de l'Exercice et du Sport (CFEMTES) en lien avec les collèges des DES dans lesquels les étudiants suivant la FST sont inscrits.
 
-Nutrition, Anesthésie-Réanimation, Biologie, Chirurgie viscérale et digestive, Hépatologie-Gastroentérologie, Gériatrie, Médecine intensive-Réanimation, Maladies infectieuses et tropicales, Médecine interne et Immunologie Clinique, Médecine vasculaire, Pédiatrie, Psychiatrie.
-
-1.3. Durée de la FST
-
-2 semestres.
+1.3. Durée de la FST : 2 semestres.
 
 1.4. Sélection des candidats à la FST
 
-Conformément à l'article 6 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine. Une attention particulière sera portée au parcours suivi par l'étudiant et à son projet professionnel.
+Conformément à l'article 6 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
 
 2. Caractéristiques
 
 2.1. Enseignements hors stages
 
-Volume horaire :
-
-2 demi-journées par semaine : une demi-journée en supervision et une demi-journée en autonomie.
+Volume horaire : 2 demi-journées par semaine : une demi-journée en supervision et une demi-journée en autonomie.
 
 Nature des enseignements :
 
@@ -34,136 +28,102 @@ En application de l'article 5 du présent arrêté :
 
 - enseignement en autonomie notamment par e-learning ;
 
-- séminaires présentiels nationaux, interrégionaux, régionaux et locaux.
+- enseignement en présentiel, éventuellement sous forme de séminaires (cours théoriques, pratiques, simulation) ;
+
+- présence au Congrès commun de la Société Française de Médecine de l'Exercice et du Sport et de la Société Française de Traumatologie du Sport (ateliers pratiques, conférences) ;
+
+- suivi médical tutoré de manifestations sportives.
 
 Connaissances à maîtriser au terme de la formation.
 
-Elles sont détaillées sur la plateforme numérique de la FST et comprennent quatre domaines :
+Elles sont détaillées sur la plateforme numérique de la FST, en particulier :
 
-- les dénutritions ;
+- éléments de base des mécanismes d'adaptation à l'exercice (nutrition incluse) et à l'entrainement, en fonction de l'âge, du genre ou du handicap ;
 
-- les obésités ;
+- théorie et pratique des tests d'aptitude de laboratoire et de terrain ;
 
-- les troubles du comportement alimentaire ;
+- physiopathologie des principales affections en lien avec l'exercice, en fonction de l'âge, du genre ou du handicap
 
-- l'alimentation (santé publique et réactions indésirables aux aliments).
+- éléments diagnostiques (évaluations clinique et fonctionnelle, imagerie) et thérapeutiques (y compris les éléments de base de la rééducation) des pathologies et traumatismes de l'appareil locomoteur en lien avec l'exercice physique, en fonction de l'âge, du genre ou du handicap ;
 
-L'étudiant devra connaître les bases théoriques de la Nutrition : dépense énergétique, composition corporelle, besoin nutritionnels, composition des aliments.
+- législation de la lutte anti-dopage et les grands principes de l'éthique dans le sport ;
+
+- organisation du sport en France et les bases de la législation concernant sa réglementation ;
+
+- grands principes des actions de prévention en médecine de l'exercice et du sport ;
+
+- bases de la psychopathologie du sport ;
+
+- grands principes de la recherche en médecine du sport.
 
 2.2. Stages
 
-Stages à réaliser.
+Stages à réaliser :
 
-- 1 stage d'un semestre dans un lieu bénéficiant d'un agrément fonctionnel pour la FST de Nutrition appliquée et prenant en charge la dénutrition ;
-
-- 1 stage d'un semestre dans un lieu de stage bénéficiant d'un agrément fonctionnel pour la de FST Nutrition appliquée et prenant en charge l'obésité.
-
-Si l'un des stages prend en charge à la fois l'obésité et la dénutrition, l'autre stage peut être fait indifféremment dans le même type de stage (obésité plus dénutrition), dans un stage prenant en charge l'obésité seule ou dans un stage prenant en charge la dénutrition seule.
+2 stages d'un semestre dans un lieu bénéficiant d'un agrément fonctionnel pour la FST de Médecine du sport. Ces stages peuvent être accomplis sous la forme de stages couplés.
 
 Critères d'agrément des stages dans la FST, en lien avec le DES d'origine, éventuellement services avec double agrément :
 
 En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
 
-- un encadrement médical adapté ;
+1. L'encadrement par un médecin titulaire du DESC ou de la capacité ou responsable d'enseignement universitaire.
 
-- une activité concernant majoritairement les pathologies de la spécialité (obésité, dénutrition de tout type, troubles du comportement alimentaire, prescription et/ou adaptation de la nutrition artificielle), au minimum 500 consultations et/ou 250 hospitalisations minimum par an de patients ayant une pathologie nutritionnelle ;
+2. Le degré de responsabilité des étudiants de troisième cycle.
 
-- une supervision directe ou différée des prescriptions ;
+3. La nature et l'importance des activités. Dans ce cadre, les activités de soins impliquent que la structure ait une activité suffisante en médecine et traumatologie de l'exercice et du sport du sport : au moins 30 % des patients ont une prise en charge spécifique, isolément ou en association avec une autre prise en charge (orthopédie, cardiologie, rééducation…), que la structure dispose d'une équipe soignante dédiée à leur prise en charge, que la structure propose des consultations avec un médecin qualifié en médecine du sport. 4. Le projet pédagogique de la structure : participation de l'étudiant de troisième cycle au programme thérapeutique et/ou à des consultations, organisation d'un staff hebdomadaire discutant des sportifs/patients suivis avec présentation de l'étudiant de troisième cycle à ce staff, organisation d'une réunion de bibliographie ou séance formalisée d'enseignement aux étudiants de troisième cycle au moins mensuelle.
 
-- la possibilité pour l'étudiant de troisième cycle de mettre en application l'apprentissage théorique et pratique qu'il aura acquis au cours de sa formation hors stage, dont au moins une réunion d'examen des dossiers par semaine ;
-
-- l'organisation de réunions bibliographiques.
+Le service médical assurant le soutien du centre national des sports de la défense peut également être agréé.
 
 2.3. Compétences à maîtriser au terme de la formation
 
-Les compétences spécifiques à acquérir dépendent du DES dans lequel l'étudiant est inscrit et de son projet professionnel. Elles figurent au contrat de formation mentionné à l'article 13 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
+Elles sont détaillées sur la plateforme numérique de la FST, en particulier :
 
-Elles sont détaillées sur la plateforme numérique de la FST et comprennent en particulier :
+- réaliser et interpréter un test d'aptitude et un test cardio-respiratoire d'effort ;
 
-- dépister, explorer, classer et prendre en charge la dénutrition en ville, à l'hôpital et en établissements d'hébergement pour personnes âgées dépendantes (EHPAD) ;
+- exercer ses activités de médecine du sport auprès des pratiquants dans une logique de prévention ;
 
-- savoir identifier la fragilité, la sarcopénie, l'obésité sarcopénique, la cachexie, connaître les axes de prise en charge ;
+- diagnostiquer et traiter les pathologies aigues ou chroniques liées à la pratique sportive, qu'elles soient non locomotrices ou de l'appareil locomoteur (incluant la pratique de gestes spécifiques, tels infiltrations, contentions…) en fonction de l'âge et en tenant compte de possibles effets dopants ou délétères pour la performance ;
 
-- savoir évaluer les besoins nutritionnels selon l'âge et la situation dans différentes situations pathologies chroniques ;
+- prendre en charge les troubles physiologiques, psychologiques et musculo-squelettiques liés à une pratique sportive intensive et savoir dépister et prendre en charge le surentrainement ;
 
-- dépister les troubles de l'état nutritionnel liés à des pathologies psychiatriques chroniques ;
+- mettre en œuvre les gestes d'urgence sur un terrain de sport ;
 
-- prescrire et interpréter l'exploration biologique d'une dénutrition (dénutrition avec et sans inflammation, sarcopénie, fragilité) au diagnostic et lors de son traitement ;
+- prescrire une activité physique chez un patient atteint d'Affection de Longue Durée et de toute pathologie chronique, mais aussi chez un patient sédentaire (quel que soit son âge), dans le cadre de la prévention primaire ;
 
-- dépister une carence d'apports après chirurgie digestive ;
+- prescrire une activité physique chez un sujet âgé fragile, en prévention de la perte d'autonomie ;
 
-- dépister et organiser la prise en charge d'une insuffisance intestinale aiguë et chronique après chirurgie ;
+- élaborer et mettre en place la conduite d'un programme de recherche clinique et/ou de terrain dans le champ de la médecine du sport ;
 
-- dépister, explorer, classer et connaître les principes de la prise en charge de la dénutrition liée aux pathologies vasculaires et en particulier aux plaies (ulcères de jambe, escarres) ;
-
-- évaluer les besoins nutritionnels chez le patient de réanimation selon différentes pathologies chroniques sous-jacentes ;
-
-- évaluer les besoins nutritionnels du patient obèse et savoir identifier une obésité sarcopénique ;
-
-- prescrire et surveiller la nutrition artificielle : voie d'administration, substrats, délai d'administration, adaptation selon le terrain, complications ;
-
-- évaluer et prendre en charge la dénutrition péri-opératoire et connaître l'utilité de la nutrition péri-opératoire ;
-
-- prescrire et surveiller la nutrition des patients obèses en péri-opératoire et en réanimation ;
-
-- savoir prescrire une immunonutrition ;
-
-- savoir surveiller des patients de réanimation en nutrition artificielle ;
-
-- prescrire et interpréter la surveillance biologique de la nutrition artificielle ;
-
-- savoir prévenir, reconnaître et prendre en charge un syndrome de renutrition ;
-
-- savoir prendre en charge une obésité et ses complications ;
-
-- prescrire et interpréter l'exploration biologique d'une obésité lors du diagnostic et lors de son traitement ;
-
-- prévenir et traiter le surpoids et l'obésité iatrogènes, en particulier secondaires à une corticothérapie ;
-
-- dépister les comorbidités de l'obésité ;
-
-- dépister et prendre en charge les dyslipidémies ;
-
-- savoir explorer une stéatopathie métabolique (stéatose hépatique non alcoolique (NALFD) & stéato-hépatite non alcoolique (NASH)) et instaurer son traitement spécifique. Evaluer les indications de la chirurgie bariatrique en fonction des conditions physiologiques et pathologiques en coopération avec les autres professionnels concernés ;
-
-- suivre la perte de poids après chirurgie bariatrique, dépister une dénutrition ;
-
-- savoir coopérer avec les médecins nutritionnistes.
+- coordonner une équipe pluridisciplinaire et des soins pluridisciplinaires en médecine du sport.
 
 2.4. Evaluation
 
 Modalités de l'évaluation des connaissances :
 
-Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine
+Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
 
-Evaluation, par le maître de stage portant sur les domaines suivants :
-
-- connaissances théoriques : autoévaluation en ligne sur la plateforme numérique de la FST (e-enseignement et e-évaluation) ;
-
-- contenu du portfolio numérique.
+Examen écrit et oral.
 
 Modalités de l'évaluation des compétences :
 
-Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
+Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
 
-- évaluation, par le maître de stage, des compétences et savoir-faire ;
-
-- analyse du portfolio : activités réalisées en lien avec la FST ;
-
-- utilisation des connaissances : présentation de cas cliniques lors de séminaires régionaux ou interrégionaux.
+Examen oral et pratique avec cas clinique et mise en situation (utilisation de la simulation).
 
 2.5. Modalités de validation de la FST
 
-Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
+Conformément au VIII de l'article 59 VIII de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
-- validation du contrôle des connaissances et des compétences ;
+- entretien trimestriel avec le pilote de la FST pour faire le point sur la complétion de sa formation théorique et le déroulement de sa formation pratique.
 
-- la validation du parcours de l'étudiant (portfolio de l'étudiant) ;
+- l'obtention de la FST repose sur :
 
-- examen écrit ou oral ;
+- appréciation du coordonnateur régional du DES d'origine ;
 
-- mémoire rédigé sous la forme d'un article scientifique (original ou revue de la littérature) sur un sujet en lien avec la FST.
+- validation de tous les stages de la FST ;
+
+- présentation d'un mémoire rédigé sous la forme d'un article.
 
 NOTA :
 
-Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.
+Conformément à l'article 40 de l'arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

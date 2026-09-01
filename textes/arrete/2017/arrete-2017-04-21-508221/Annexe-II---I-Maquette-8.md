@@ -10,7 +10,13 @@ Former un spécialiste en chirurgie viscérale et digestive.
 
 1.2. Durée totale du DES :
 
-12 semestres dont au moins 8 dans la spécialité (dont au moins 5 dans un lieu de stage avec encadrement universitaire tel que défini à l'article 1er du présent arrêté) et au moins 3 dans un lieu de stage sans encadrement universitaire.
+12 semestres dont :
+
+- au moins 8 dans la spécialité ;
+
+- au moins 5 dans un lieu de stage avec encadrement universitaire tel que défini à l'article 1er du présent arrêté ;
+
+- au moins 3 dans un lieu de stage sans encadrement universitaire.
 
 1.3. Intitulé des options proposées au sein du DES :
 
@@ -248,7 +254,7 @@ Les compétences spécifiques sont détaillées dans la plateforme numérique du
 
 A. - Cliniques : diagnostiquer et prendre en charge les pathologies courantes ainsi que les complications postopératoires de la spécialité ; comprendre les enjeux de santé publique et identifier les patients à risque ; évaluer les bénéfices et risques des procédures diagnostiques et thérapeutiques de la spécialité ; organiser le parcours des patients et rédiger des comptes rendus opératoires et d'hospitalisation.
 
-B. - Techniques : utiliser les dispositifs médicaux de la spécialité ; identifier et traiter une complication peropératoire ; effectuer dans leur totalité les interventions de la spécialité les plus courantes (exérèse de lésion cutanée, drainage d'abcès, lymphadénectomie, trachéotomie, splénectomie, pose de PAC, appendicectomie, cure de hernie et d'éventration, cholécystectomie, réalisation et fermeture d'entérostomie, résection de grêle, colectomie, perforation d'ulcère …), et une partie des interventions qui doivent être maîtrisées au cours de la phase de consolidation.
+B. - Techniques : utiliser les dispositifs médicaux utiles à l'exercice de la spécialité ; identifier et traiter une complication peropératoire ; effectuer dans leur totalité les interventions de la spécialité les plus courantes (exérèse de lésion cutanée, drainage d'abcès, lymphadénectomie, trachéotomie, splénectomie, pose de PAC, appendicectomie, cure de hernie et d'éventration, cholécystectomie, réalisation et fermeture d'entérostomie, résection de grêle, colectomie, perforation d'ulcère …), et une partie des interventions qui doivent être maîtrisées au cours de la phase de consolidation.
 
 C. - Comportementales : transmettre et recevoir des informations dans le cadre de la continuité des soins ; présenter les résultats d'un travail de recherche ; connaître les conséquences personnelles du stress et les moyens de s'en prémunir ; porter un jugement critique sur ses connaissances, ses compétences, ses pratiques et assumer des responsabilités ; reconnaître et déclarer un événement indésirable, comprendre l'intérêt d'identifier des défaillances structurelles et organisationnelles, faire des propositions de changement d'organisation.
 
@@ -501,3 +507,7 @@ Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant org
 - entretien avec la commission locale de coordination de la spécialité ;
 
 - soumission d'au moins un article dans une revue à comité de lecture ou présentation orale d'un travail de recherche en endoscopie chirurgicale.
+
+NOTA :
+
+Conformément à l’article 40 de l’arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

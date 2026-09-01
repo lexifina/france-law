@@ -14,15 +14,15 @@ Former un spécialiste en ophtalmologie.
 
 - au moins 10 dans la spécialité ;
 
-- au moins 6 dans un lieu de stage avec encadrement universitaire tel que défini à l'article 1er du présent arrêté ;
+- au moins 5 dans un lieu de stage avec encadrement universitaire tel que défini à l'article 1er du présent arrêté ;
 
 - au moins 3 dans un lieu de stage sans encadrement universitaire.
 
 1.3. Intitulé des options proposées au sein du DES :
 
-Chirurgie ophtalmopédiatrique et strabologique.
+- chirurgie ophtalmopédiatrique et strabologique.
 
-1.4 Intitulé des formations spécialisées transversales (FST) indicatives :
+1.4. Intitulé des formations spécialisées transversales (FST) indicatives :
 
 Dans le cadre de son projet professionnel, et au regard des besoins de santé et de l'offre de formation, l'étudiant peut candidater à une formation spécialisée transversale (FST), notamment :
 
@@ -78,11 +78,9 @@ A. - Techniques, et notamment :
 
 - parer et suturer une plaie de la face ;
 
-- traiter les dermo-hypodermites non nécrosantes (cellulite et abcès) et nécrosantes (fasciites et gangrène gazeuse) ;
+- traiter les dermo-hypodermites non nécrosantes (cellulite et abcès) et nécrosantes (fasciites et gangrène gazeuse).
 
 - prendre en charge une morsure animale ;
-
-- faire un tamponnement nasal pour épistaxis.
 
 B. - Comportementales, et notamment :
 
@@ -108,7 +106,7 @@ A. - Cliniques et notamment :
 
 - organiser la prise en charge des urgences médicochirurgicales ;
 
-- prendre en charge les urgences habituelles de la spécialité (glaucome aigu par fermeture de l'angle, endophtalmie, abcès de cornée, zona ophtalmique, baisse brutale de la vision, plaies du globe ou des annexes) ;
+- prendre en charge les urgences habituelles de la spécialité (crise aigüe par fermeture de l'angle, endophtalmie, abcès de cornée, zona ophtalmique, baisse brutale de la vision, plaies du globe ou des annexes) ;
 
 - prendre en charge les complications post-opératoires simples.
 
@@ -156,7 +154,7 @@ Conformément à l'article 59 de l'arrêté du 12 avril 2017 portant organisatio
 
 Autoévaluation sur la plateforme numérique d'e-learning ou évaluation lors de session d'enseignement au CHU, certifiée par le coordonnateur régional, à l'aide des questions qui suivent les cours mis en ligne sur la plateforme numérique.
 
-Examen régional ou interrégional par questions à choix multiples.
+Examen par questions à choix multiples.
 
 - Connaissances pratiques :
 
@@ -170,7 +168,7 @@ Conformément à l'article 59 de l'arrêté du 12 avril 2017 portant organisatio
 
 - évaluation, par le maître de stage, au terme de chacun des stages, par un formulaire standardisé couvrant 5 domaines (professionnalisme, autonomie et responsabilité, agilité et adaptation psychomotrice, connaissances cliniques et leurs mises en œuvre, implication dans les activités académiques) et une conclusion permettant d'orienter le contrat de formation ;
 
-- entretien individuel entre l'étudiant et le coordonnateur local permettant de s'assurer de sa capacité à poursuivre un cursus chirurgical
+- entretien individuel entre l'étudiant et le coordonnateur local permettant de s'assurer de sa capacité à poursuivre un cursus chirurgical ;
 
 - utilisation des connaissances : présentation de cas cliniques lors de séminaires locaux, régionaux ou interrégionaux.
 
@@ -220,7 +218,7 @@ Les connaissances théoriques et pratiques spécifiques sont détaillées dans l
 
 - l'utilisation des dispositifs médicaux (y compris les différents types de laser utilisés en consultation et au bloc opératoire, angiographes, OCT, biomètres, appareils d'échographie, microscopes opératoires, vidéotopographes, phacoémulsificateurs, vitréotomes…).
 
-3.3 Compétences :
+3.3. Compétences :
 
 Compétences à acquérir : Les compétences génériques sont listées dans l'article 3 du présent arrêté.
 
@@ -228,7 +226,7 @@ Les compétences spécifiques sont détaillées dans la plateforme numérique du
 
 A. - Cliniques : identifier les patients à risque ; évaluer les bénéfices et risques des procédures diagnostiques et thérapeutiques de la spécialité ; organiser le parcours des patients et rédiger des comptes rendus opératoires et d'hospitalisation.
 
-B. - Techniques : utiliser les dispositifs médicaux de la spécialité ; identifier et traiter une complication per et post-opératoire ; effectuer dans leur totalité les interventions suivantes: biopsie et exérèse de lésion de paupière, suture de cornée, prise en charge médicale de toutes les urgences ophtalmologiques, prélèvement de cornée, traitements laser (iridotomie, capsulotomie, photocoagulation rétinienne, traitement laser du glaucome, et une partie des interventions qui doivent être maîtrisées au cours de la phase de consolidation.
+B. - Techniques : utiliser les dispositifs médicaux de la spécialité ; identifier et traiter une complication per et post-opératoire ; effectuer dans leur totalité les interventions suivantes : biopsie et exérèse de lésion de paupière, suture de cornée, prise en charge médicale de toutes les urgences ophtalmologiques, prélèvement de cornée, traitements laser (iridotomie, capsulotomie, photocoagulation rétinienne, traitement laser du glaucome, et une partie des interventions qui doivent être maîtrisées au cours de la phase de consolidation.
 
 C. - Comportementales : transmettre et recevoir des informations dans le cadre de la continuité des soins ; connaître les conséquences personnelles du stress et les moyens de s'en prémunir ; porter un jugement critique sur ses connaissances, ses compétences, ses pratiques et assumer des responsabilités ; comprendre l'intérêt d'identifier des défaillances structurelles et organisationnelles ; faire des propositions de changement d'organisation.
 
@@ -240,13 +238,13 @@ Stages de niveau II à réaliser dans la spécialité :
 
 Ces stages peuvent être accomplis sous la forme de stages couplés.
 
-Ces stages permettent à l'étudiant d'acquérir une formation d'ophtalmologie générale et de pouvoir opérer cataracte, paupières et plaies du globe oculaire ainsi que les principaux actes techniques (lasers, ponctions, injections).
+Ces stages permettent à l'étudiant d'acquérir une formation d'ophtalmologie générale, y compris en ophtalmo-pédiatrie, et de pouvoir opérer cataracte, paupières et plaies du globe oculaire ainsi que les principaux actes techniques (lasers, ponctions, injections).
 
 L'un de ces stages peut être remplacé, après accord du coordonnateur local, par soit :
 
 - 1 stage de la maquette de l'option ou de la FST que l'étudiant a été autorisé à suivre ;
 
-- 1 stage dans un lieu agréé à titre complémentaire en ophtalmologie et à titre principal en neurochirurgie, en oto-rhino-laryngologie, chirurgie cervico-faciale, en chirurgie plastique, reconstructrice et esthétique, en chirurgie maxillo-faciale, en médecine interne et immunologie clinique, en endocrinologie-diabétologie-nutrition, en neurologie, en anatomie et cytologie pathologiques, en centre d'investigation clinique (CIC), en neuro-radiologie ou en pédiatrie.
+- 1 stage libre.
 
 1 stage accompli soit :
 
@@ -266,7 +264,7 @@ Modalités de l'évaluation des connaissances :
 
 Conformément à l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
-- contrôle continu ;
+- contrôle continu et/ou évaluation annuelle des connaissances ;
 
 - auto-évaluation sur la plateforme numérique d'e-learning ;
 
@@ -384,11 +382,15 @@ La certification par l'examen de l'European Board of Ophthalmology est encourag�
 
 Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
-- validation des objectifs pédagogiques de connaissances et de compétences (e-learning, nombre des interventions que l'étudiant doit avoir réalisées, exercices de simulation, formulaires d'évaluation) ;
+La validation portera sur l'évaluation des connaissances théoriques et pratiques, de l'implication dans la recherche et du savoir être.
 
-- entretien avec la commission régionale de coordination de la spécialité ;
+- évaluation des connaissances et compétences : participation aux cours, portfolio, épreuve théorique, simulation ;
 
-- soumission d'au moins un article dans une revue à comité de lecture et présentation orale d'un travail de recherche.
+- évaluation de l'implication dans la recherche : soutenance d'un mémoire ;
+
+- évaluation du savoir être : évaluation des compétences génériques.
+
+La validation sera finalisée par un entretien avec la commission régionale de coordination de la spécialité.
 
 5. Option chirurgie ophtalmopédiatrique et strabologique
 
@@ -481,3 +483,7 @@ Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant org
 - rapports de stage ;
 
 - évaluations de l'enseignement théorique : écrit et oral.
+
+NOTA :
+
+Conformément à l’article 40 de l’arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

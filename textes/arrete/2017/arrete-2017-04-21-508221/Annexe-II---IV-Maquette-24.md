@@ -1,96 +1,118 @@
 # Article Annexe II - IV. Maquette 24
 
-FORMATION SPÉCIALISÉE TRANSVERSALE SOMMEIL
+FORMATION SPÉCIALISÉE TRANSVERSALE DE PHARMACOLOGIE MÉDICALE/THÉRAPEUTIQUE
 
 1. Organisation générale
 
 1.1. Objectifs généraux de la formation
 
-Compléter les connaissances et compétences acquises dans le cadre du DES d'origine, sur les pathologies du sommeil.
+Créer des liens entre la pharmacologie médicale, la thérapeutique et les différentes autres spécialités afin d'augmenter la capacité à mener des grands essais thérapeutiques, d'optimiser le bon usage du médicament à l'échelon individuel et collectif, d'améliorer le système de prise en charge du risque médicamenteux, de mieux participer aux expertises collectives.
 
-Former des surspécialistes en médecine du sommeil.
+1.2. Collèges d'enseignants impliqués dans cette FST
 
-1.2. Collèges d'Enseignants impliqués dans cette FST :
+Collège National de Pharmacologie Médicale et Collège National des Enseignants de Thérapeutique.
 
-Collège des enseignants de Pneumologie, Neurologie, Psychiatrie, Oto-rhino-laryngologie, Cardiologie, Médecine et Santé au travail, Pédiatrie, Chirurgie Maxillo-Faciale et Chirurgie orale.
+1.3. Durée de la FST
 
-1.3. Durée de la FST : 2 semestres.
+2 semestres.
 
-1.4. Sélection des candidats à la FST
+1.4. Sélection des candidats à la FST :
 
 Conformément à l'article 6 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
 
 2. Niveau 1
 
-2.1. Durée : Six mois.
+2.1. Durée :
+
+1 semestre.
 
 2.2. Enseignements hors stages
 
-Volume horaire :
-
-2 demi-journées par semaine : une demi-journée en supervision en une demi-journée en autonomie.
+Volume horaire : 2 demi-journées par semaine : une demi-journée en supervision et une demi-journée en autonomie.
 
 Nature des enseignements :
 
-En application de l'article 5 du présent arrêté : en 3 unités de validation (UV), dont l'une propre à la spécialité d'origine, enseignement en autonomie sous forme d'e-learning.
+En application de l'article 5 du présent arrêté :
 
-Connaissances à maîtriser au terme de la formation.
+- enseignement en autonomie sous la forme d'e-learning ;
 
-Elles sont détaillées sur la plateforme numérique de la FST, en particulier :
+- séminaires présentiels.
 
-- bases physiologiques du sommeil et des pathologies du sommeil.
+Connaissances à maîtriser à l'issue de la formation
 
-- de manière globale, évaluation des troubles du sommeil et procédures diagnostiques à mettre en œuvre.
+Elles sont détaillées sur la plateforme numérique de la FST.
+
+Outre le tronc commun de formation générale, elles portent en particulier sur :
+
+- pharmacologie générale et des grandes classes médicamenteuses avec une orientation particulière vers l'évaluation, le suivi et la pharmaco-surveillance (intégrant la pharmaco-épidémiologie et les méta-analyses) ;
+
+- développement des médicaments et des dispositifs médicaux (DM) (du préclinique à l'AMM), avec une attention particulière pour les principes méthodologiques, notamment aux phases cliniques d'évaluation ;
+
+- principes statistiques et méthodologiques, revues systématiques, méta-analyses ;
+
+- environnement médico-réglementaire des médicaments et des DM au niveau national et européen dans une perspective de Santé publique et sociale.
 
 2.3. Stages
 
 Stages à réaliser
 
-1 stage d'un semestre centré sur les pathologies du sommeil de l'organe, généralement intégré dans un stage de plateau technique propre à chaque spécialité, dans un lieu bénéficiant d'un agrément fonctionnel pour la FST Sommeil. Ce stage peut être accompli sous la forme d'un stage mixte ou d'un stage couplé.
+1 stage d'un semestre dans un lieu bénéficiant d'un agrément fonctionnel pour la FST de Pharmacologie médicale/thérapeutique.
 
-Critères d'agrément des stages dans la FST, en lien avec le DES d'origine, éventuellement services avec double agrément.
+Critères d'agrément des stages dans la FST
 
-En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte les compétences du lieu de stage dans le diagnostic et la prise en charge des troubles du sommeil propres à chacune des spécialités, utilisant de manière habituelle les outils d'évaluation du sommeil, possédant un encadrement par un spécialiste temps plein, ayant une activité reconnue en médecine du sommeil dans le cadre de sa spécialité.
+En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte la nature du lieu de stage :
 
-Ce stage peut être accompli dans un service de physiologie ou d'explorations fonctionnelles multidisciplinaires.
+- services de pharmacologie médicale ;
+
+- laboratoires de pharmacologie - toxicologie ;
+
+- structures de type Centres Régionaux de Pharmacovigilance (CRPV), Centres d'Investigations Cliniques (CIC), Centre d'Evaluation et d'Information sur les Pharmacodépendances (CEIP) - addicto-vigilance centre anti-poisons ;
+
+- services cliniques de thérapeutiques ;
+
+- services médicaux, de santé publique ou de biologie ayant des activités en lien avec des structures de pharmacologie et/ou de thérapeutique ;
+
+- structures de recherche clinique.
 
 2.4. Compétences à maîtriser au terme de la formation
 
-Elles sont détaillées sur la plateforme numérique de la FST, en particulier :
+Elles sont détaillées sur la plateforme de la FST, en particulier :
 
-Apprendre à utiliser et à interpréter les outils d'évaluation (questionnaires, enregistrements nocturnes), ainsi que les techniques de prise en charge spécifiques à chacune des spécialités, concernant :
+- maîtrise des principes fondamentaux des mécanismes d'action des médicaments utilisés dans la spécialité d'origine de l'étudiant ;
 
-- les troubles du sommeil et des rythmes circadiens rencontrés en psychiatrie ;
+- maîtrise des bases de la prescription personnalisée et du suivi thérapeutique des patients ;
 
-- les troubles du sommeil neurologiques ;
+- maîtrise des principes de la méthodologie des essais cliniques et de leur interprétation ;
 
-- les troubles respiratoires au cours du sommeil rencontrés en Pneumologie, Cardiologie, Oto-rhino-laryngologie Chirurgie Maxillo-Faciale et Chirurgie Orale ;
+- maîtrise des principes de la méthodologie des études mises en place pour la surveillance des médicaments et des dispositifs médicaux après leur commercialisation (pharmacovigilance, pharmaco-épidémiologie) ;
 
-- les troubles du sommeil fréquemment rencontrés en pédiatrie ;
-
-- les troubles du sommeil et les rythmes circadiens rencontrés en médecine du travail.
+- maîtrise des modalités de la prescription et de délivrance des médicaments en vue d'optimiser leur bon usage.
 
 2.5. Evaluation
 
-Modalités de l'évaluation des connaissances donnant accès au niveau 2 :
+Modalités de l'évaluation des connaissances, donnant accès au niveau 2 de la FST :
 
-Validation en ligne des trois UV de la phase d'apprentissage, avec une note ≥ 12/20 aux tests informatiques.
+Validation en ligne de l'acquisition des connaissances théoriques du tronc commun.
 
-Modalités de l'évaluation des compétences donnant accès au niveau 2 :
+Modalités de l'évaluation des compétences, donnant accès au niveau 2 de la FST :
 
-Validation des acquis pratiques, à partir d'un portfolio électronique :
+Evaluation du stage par le maître de stage.
 
-- évaluation formative de l'utilisation, et des techniques thérapeutiques spécifiques ;
+Validation régionale par un examen pratique constitué d'une épreuve parmi les trois suivantes :
 
-- évaluation sommative : en fin de stage, par discussion de dossiers cliniques sous la responsabilité du responsable médical du lieu de stage.
+- proposition d'un dessin d'essai clinique ;
 
-Avis favorable aux évaluations de fin de stage par le maître de stage.
+- analyse d'un cas de pharmacovigilance ;
+
+- interprétation d'un cas de suivi thérapeutique pharmacologique.
 
 3. Niveau 2
 
-3.1. Durée : 6 mois.
+3.1. Durée :
 
-3.2. Enseignements hors stages
+1 semestre.
+
+3.2. Enseignements hors stages en lien avec la préparation à l'exercice professionnel (gestion de cabinet…)
 
 Volume horaire :
 
@@ -98,68 +120,100 @@ Volume horaire :
 
 Nature des enseignements :
 
-En application de l'article 5 du présent arrêté : enseignement en autonomie sous la forme d'e-learning.
+En application de l'article 5 du présent arrêté :
 
-Connaissances et compétences à maîtriser au terme de la formation.
+- enseignement en autonomie notamment par e-learning ;
+
+- séminaire en pédagogie inversée ;
+
+- production de contenu pédagogique.
+
+Connaissances et compétences à maîtriser au terme de la formation
+
+Connaissances
+
+Les connaissances sont détaillées sur la plateforme numérique de la FST.
+
+Choix de deux modules de formation théorique parmi les cinq proposés.
+
+Module pharmacologie et toxicologie biologique : connaître les sources de variabilité de l'effet des différentes classes médicamenteuses pour les intégrer au suivi pharmacologique thérapeutique, dont il faudra connaître la méthodologie et l'interprétation.
+
+Module Pharmaco surveillance : connaître les différentes situations de risque médicamenteux, leur mécanisme et les méthodes de détection pour assurer une pharmaco surveillance intégrant la notification spontanée, la pharmaco épidémiologie, l'analyse des bases de données pour contribuer à l'expertise de ce risque.
+
+Module Evaluation des médicaments : connaître les méthodes d'évaluation du médicament chez le volontaire sain ou les patients et savoir les mettre en œuvre pour évaluer les différents types d'approche pharmacologique.
+
+Module évaluation des thérapeutiques non médicamenteuses (incluant les dispositifs médicaux) : connaître les méthodes d'évaluation des approches thérapeutiques non médicamenteuses chez le volontaire sain ou les patients et savoir les mettre en œuvre.
+
+Module bon usage des traitements à l'échelon individuel et collectif : connaître les modalités d'évaluation des stratégies thérapeutiques et les intégrer à une perspective d'efficience médicale et économique de santé publique.
+
+Compétences
 
 Elles sont détaillées sur la plateforme numérique de la FST, en particulier :
 
-- reconnaître et explorer les plaintes de type somnolence diurne excessive, difficultés d'endormissement ou de maintien du sommeil, réveil précoce, endormissement précoce, agitation pendant le sommeil ;
+Pour la pharmacologie médicale
 
-- diagnostiquer et traiter toutes les pathologies du sommeil ;
+- expertise en matière de suivi pharmacologique et thérapeutique pour contribuer au bon usage du médicament et de la personnalisation des prescriptions ;
 
-- maîtriser toutes les techniques d'exploration du sommeil, du comportement pendant le sommeil, de la veille/vigilance et du rythme circadien veille-sommeil ;
+- expertise en matière de pharmaco surveillance pour analyser un problème de risque médicamenteux en y intégrant l'ensemble des données pharmacologiques, pharmaceutiques et médicales ;
 
-- acquérir les connaissances liées aux aspects sociétaux, économiques, organisationnels et de recherche ;
+- expertise en pharmacologie clinique pour la réalisation et l'interprétation, éventuellement comparative, des essais cliniques, évaluant les différentes approches pharmacologiques ;
 
-- réaliser et interpréter soi-même les examens suivants :
+- expertise dans l'analyse du rapport bénéfice/risque des médicaments dans une perspective réglementaire et de Santé publique (élaboration de recommandations).
 
-- actimétrie ;
+Pour la thérapeutique
 
-- polygraphie cardiorespiratoire ;
+- expertise dans l'évaluation et l'interprétation des essais cliniques des approches thérapeutiques médicamenteuses et non médicamenteuses ;
 
-- tous types de polysomnographies ;
-
-- tests itératifs de latence d'endormissement ;
-
-- tests itératifs de maintien d'éveil.
+- expertise dans l'analyse du rapport bénéfice/risque des stratégies thérapeutiques dans une perspective réglementaire et de Santé publique (élaboration de recommandations).
 
 3.3. Stages
 
 Nombre et durée des stages :
 
-1 stage d'un semestre dans un lieu bénéficiant d'un agrément fonctionnel pour la FST Sommeil. Ce stage peut être accompli sous la forme d'un stage mixte ou d'un stage couplé.
+1 stage d'un semestre dans un lieu bénéficiant d'un agrément fonctionnel pour la FST Pharmacologie médicale/thérapeutique.
 
-Critères d'agrément des stages :
+Critères d'agrément des stages de niveau II :
 
-En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte la présence dans le lieu de stage d'au moins un médecin qualifié en pneumologie ou en ORL et/ou d'au moins un médecin qualifié en neurologie ou en psychiatrie.
+En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte la nature du lieu de stage :
+
+- services de pharmacologie médicale ;
+
+- laboratoires de pharmacologie - toxicologie ;
+
+- structures de type CRPV, CIC, CEIP- addicto-vigilance, centre anti-poisons ;
+
+- services cliniques de thérapeutique ;
+
+- services médicaux, de santé publique ou de biologie ayant des activités en lien avec des structures de pharmacologie et/ou de thérapeutique ;
+
+- structures de recherche clinique ;
+
+- agences de régulation ;
+
+- industrie pharmaceutique.
 
 3.4. Evaluation
 
-Modalités de l'évaluation des connaissances de la FST :
+Modalités de l'évaluation des connaissances :
 
 Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
 
-Epreuve écrite théorique sur plateforme numérique, dossiers progressifs et tests de concordance de script.
+Examen oral de contrôle des connaissances.
 
-Modalités de l'évaluation des compétences de la FST :
+Modalités de l'évaluation des compétences :
 
 Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
 
-Epreuve orale pratique comportant un entretien, une épreuve de codage de divers types de tracés polysomnographiques et l'analyse de deux cas cliniques.
+Mémoire rédigé sous la forme d'un article scientifique, dont le sujet est en lien avec la FST.
 
-3.5. Modalités de validation de la FST :
+3.5. Modalités de validation de la FST
 
 Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
-Validation de l'épreuve écrite.
+mémoire rédigé sous la forme d'un article scientifique, dont le sujet est en lien avec la FST ;
 
-Validation de l'épreuve pratique.
-
-Validation des deux stages.
-
-Validation de l'ensemble des items du portfolio électronique.
+soutenance orale suivie de questions spécifiques ou générales.
 
 NOTA :
 
-Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.
+Conformément à l'article 40 de l'arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

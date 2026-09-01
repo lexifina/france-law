@@ -26,6 +26,8 @@ Dans le cadre de son projet professionnel, et en regard des besoins de santé et
 
 - expertise médicale - préjudice corporel
 
+- phoniatrie
+
 - pharmacologie médicale / thérapeutique
 
 - médecine palliative
@@ -356,7 +358,7 @@ Compétences diverses : Annoncer le diagnostic d'une maladie neurologique chroni
 
 Nombre et durée des stages de niveau III :
 
-1 stage d'un an, accompli soit :
+Deux stages d'un semestre accomplis, soit :
 
 - dans un lieu hospitalier agréé à titre principal en neurologie
 
@@ -512,4 +514,4 @@ Examen national annuel co-organisé par les collèges de neurologie et de radiol
 
 NOTA :
 
-Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.
+Conformément à l’article 40 de l’arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

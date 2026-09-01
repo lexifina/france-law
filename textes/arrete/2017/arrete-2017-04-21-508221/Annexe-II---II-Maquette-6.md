@@ -292,7 +292,7 @@ Autres : dépister les pathologies les plus communes et fréquentes de la spéci
 
 Nombre et durée des stages de niveau III :
 
-1 stage d'un an, ou deux stages d'un semestre lorsque l'acquisition par l'étudiant des compétences de la spécialité le justifie :
+deux stages d'un semestre accomplis :
 
 -au moins un des 2 stages doit être orienté principalement vers l'activité ambulatoire supervisée (consultations, hôpital de jour etc.) ;
 
@@ -328,4 +328,4 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 
 NOTA :
 
-Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.
+Conformément à l’article 40 de l’arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.

@@ -14,7 +14,7 @@ Former un spécialiste en gynécologie-obstétrique.
 
 - au moins 8 dans la spécialité ;
 
-- au moins 5 dans un lieu de stage avec encadrement universitaire tel que défini à l'article 1er du présent arrêté ;
+- au moins 5 dans un lieu de stage avec encadrement universitaire tel que défini à l'article 1er du présent arrêté, dont quatre dans la spécialité ;
 
 - au moins 3 dans un lieu de stage sans encadrement universitaire.
 
@@ -360,4 +360,4 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 13 février 2020 (NOR : ESRS2001981A), ces dispositions s'appliquent aux étudiants inscrits en troisième cycle des études de médecine à compter de la rentrée universitaire 2017-2018.
+Conformément à l’article 40 de l’arrêté du 5 juin 2026 (NOR : SFHH2615184A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er septembre 2026.
