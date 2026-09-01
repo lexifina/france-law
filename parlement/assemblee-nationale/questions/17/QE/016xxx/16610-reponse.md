@@ -1,0 +1,9 @@
+# Réponse à la question n° 16610
+
+- Question : [16610](16610.md) — Question n° 16610 — Fermeture du guichet « France Nation Verte »
+
+## Réponse
+
+*JO du 2026-09-01, page 7991*
+
+Dans un contexte d'intensification des effets du changement climatique et en réponse aux besoins importants d'investissement dans l'adaptation des forêts françaises à ces nouvelles conditions, il est important de soutenir les propriétaires forestiers souhaitant investir dans le renouvellement de leur forêt. Cette utilité a été démontrée par le succès du dispositif d'aide au renouvellement forestier « France-Nation-Verte ». Il constitue en effet un levier essentiel pour adapter les forêts aux nouvelles conditions climatiques et préserver les multiples services écosystémiques qu'elles rendent à l'ensemble de la société. Comme de nombreux autres territoires forestiers nationaux, les forêts du Tarn sont assurément très concernées par ces enjeux. Il est nécessaire de renouveler les forêts pour les préparer aux futurs défis climatiques, reconstituer les peuplements sinistrés, renforcer le puits de carbone forestier et de dynamiser la capacité de production de bois d'œuvre, en réponse aux besoins en produits en bois de notre économie. Ces objectifs sont essentiels pour garantir la souveraineté de notre filière forêt-bois, un secteur stratégique dans notre transition écologique et notre démarche de décarbonation. La fermeture temporaire du guichet, intervenue le 9 juin 2026, s'inscrit dans la très forte dynamique de nombre de dossiers reçus, preuve du grand succès du dispositif, dans un contexte budgétaire contraint, qui impose au Gouvernement de piloter les dépenses publiques. Cette mesure, bien que difficile, apparaît nécessaire dès lors que le nombre de dossiers déposés dépassait le budget identifié pour cette action. Dès que les conditions le permettront, la date de réouverture et les modalités de dépôt des dossiers seront communiquées sans délai aux porteurs de projets.
