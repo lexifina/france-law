@@ -58,13 +58,7 @@ Les salaires bruts minima au-dessous desquels les salariés ne peuvent être ré
 
 X. 4. 4. Forfait
 
-Les fonctions, prérogatives et responsabilités des cadres ne permettant pas d'établir leurs horaires avec précision, la pratique de la rémunération au forfait doit être maintenue, sous réserve de l'application des articles L. 3121-38, L. 3121-39, L. 3121-40 et L. 3121-41 du code du travail.
-
-En ce qui concerne les techniciens-agents de maîtrise, dont les horaires de travail ne peuvent être établis avec précision, sous réserve de l'application des articles cités à l'alinéa précédent, les organisations d'employeurs signataires et les organisations syndicales représentatives sur le plan national admettent que la pratique de la rémunération au forfait doit tendre à disparaître.
-
-Pour les cadres et techniciens-agents de maîtrise dont les horaires de travail rentrent dans le cadre de l'aménagement du temps de travail, il ne peut pas y avoir de rémunération au forfait au-delà du contingent des heures supplémentaires défini à l'article VI. 9 de la présente convention.
-
-Le forfait devra être établi à partir d'une base technique de calcul de la moyenne horaire hebdomadaire permettant de faire apparaître le salaire tel que défini à l'article X. 1 de la présente convention.
+Article abrogé par l'article 8 de l'accord du 22 juillet 2026 (BOCC 2026-34).
 
 X. 4. 5. Rémunération des salariés sous contrat à temps partiel
 

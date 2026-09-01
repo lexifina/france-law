@@ -88,6 +88,8 @@ Les représentants élus du personnel sont obligatoirement informés des embauch
 
 Les représentants élus du personnel émettent un avis préalable sur l'élaboration ou la modification du règlement intérieur, la modification des horaires de travail, les dérogations éventuelles aux durées maximales du travail. Ils peuvent s'opposer à l'institution d'horaires individualisés et à celle d'horaires réduits.
 
+Il leur sera présenté au moins une fois par an un bilan synthétique des conventions de forfait en jours conclues dans la structure (nombre de salariés concernés, nombre de jours inscrits dans les conventions individuelles, bilan global du suivi de la charge de travail, etc.). Tout dépassement des jours de travail inscrits dans les conventions individuelles devra être porté à la connaissance des représentants élus du personnel. Toute difficulté dans la mise en œuvre des conventions de forfait en jours sera inscrite à l'ordre du jour d'une réunion du comité social et économique ou du comité social et économique conventionnel (CSEC).
+
 Contribution à l'effort de construction :
 
 La direction devra fournir aux représentants élus du personnel tous les renseignements utiles sur l'affectation envisagée de cette contribution : l'organisme collecteur, le nombre, les caractéristiques, la destination des logements réservés, ainsi que, le cas échéant, les noms des affectataires, des bénéficiaires de subventions ou de prêts, les conditions de ceux-ci, etc.
