@@ -1,0 +1,9 @@
+# Réponse à la question n° 6469
+
+- Question : [6469](6469.md) — Question n° 6469 — Manifestation illégale et atteinte à la liberté de réunion
+
+## Réponse
+
+*JO du 2026-09-01, page 7928*
+
+La manifestation du collectif antifasciste à Mamers a été suivie avec attention par les unités de gendarmerie, en lien avec la préfecture de la Sarthe. La manifestation, qui a fait l'objet d'une déclaration préalable en application de l'article L. 211-1 du code de la sécurité intérieure, était déclarée comme un rassemblement statique devant la mairie de Mamers, avec un nombre de participants estimé à environ cinquante personnes. Compte tenu de ces éléments et en l'absence d'informations relatives à des risques de troubles à l'ordre public, cette manifestation ne pouvait pas légalement être interdite. Un dispositif de sécurité a été mis en place, comprenant une quinzaine de militaires de la gendarmerie ainsi qu'une réserve d'intervention, en adéquation avec l'évaluation initiale du contexte. Au cours du rassemblement, les manifestants ont quitté le lieu initialement déclaré pour se diriger vers le site accueillant une réunion du Rassemblement national. Cette déambulation n'a pas généré de troubles à l'ordre public. A ce titre, aucune dissimulation du visage par le port d'une cagoule n'a été constatée. Le cortège s'est immobilisé à proximité de l'entrée principale du lieu de réunion, sans empêcher l'accès à celui-ci. Afin de faciliter l'arrivée des invités et d'éviter tout contact direct avec les manifestants, l'accès s'est poursuivi par une entrée secondaire, en coordination avec les organisateurs de l'événement. Aux alentours de 18h15, une altercation a eu lieu entre un invité et plusieurs manifestants, ce qui a conduit les militaires présents à intervenir immédiatement afin de rétablir le calme. Tout a été mis en œuvre pour concilier l'exercice du droit de manifester avec les exigences de sécurité publique.
