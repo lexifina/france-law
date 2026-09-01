@@ -1,0 +1,9 @@
+# Réponse à la question n° 14444
+
+- Question : [14444](14444.md) — Question n° 14444 — Vacance de sièges communautaires liée aux règles de parité
+
+## Réponse
+
+*JO du 2026-09-01, page 7935*
+
+Le remplacement des conseillers communautaires dans les communes de plus de 1 000 habitants est régi par l'article L. 273-10 du code électoral. Ainsi, dans les communes disposant de plusieurs sièges au conseil communautaire, lorsqu'un de ces sièges devient vacant, le conseiller communautaire concerné est remplacé en priorité par un candidat de même sexe figurant sur la même liste que lui. À défaut, il est remplacé par le premier conseiller municipal de même sexe élu sur la liste correspondante et n'exerçant pas déjà un mandat communautaire. Cette règle contribue à garantir l'égal accès des femmes et des hommes aux mandats électifs : en 2020, les femmes représentaient 35,8 % des conseillers communautaires, en nette progression par rapport à 2014. Le Gouvernement est toutefois conscient que son application peut, dans certaines situations, conduire à la vacance temporaire d'un siège alors même qu'un élu de l'autre sexe serait disponible. C'est précisément pour y répondre que la loi n° 2023-506 du 26 juin 2023 tendant à garantir la continuité de la représentation des communes au sein des conseils communautaires a prévu qu'à l'issue de la première année de mandat, le remplacement puisse intervenir sans condition de sexe lorsqu'aucun candidat répondant à cette condition ne peut être désigné. Cette dérogation permet de concilier de manière équilibrée respect du principe de parité et celui de la règle relative à la représentativité des conseils municipaux au sein des conseils communautaires. Cet équilibre apparaît satisfaisant et le Gouvernement n'envisage donc pas, à ce stade, de modifier le dispositif.
