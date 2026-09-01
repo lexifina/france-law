@@ -1,0 +1,9 @@
+# Réponse à la question n° 1779
+
+- Question : [1779](1779.md) — Question n° 1779 — Identification par matricule des pompiers victimes d'infraction
+
+## Réponse
+
+*JO du 2026-09-01, page 7914*
+
+L'article 15-4 du code de procédure pénale (CPP) permet, sur autorisation nominative d'un responsable hiérarchique, à tout agent de la police ou de la gendarmerie nationales d'être identifié, dans les actes de procédure, par son numéro de matricule, lorsque la révélation de son identité est susceptible de mettre en danger sa vie ou son intégrité physique ou celle de ses proches. Ce dispositif d'identification peut être utilisé lorsque l'agent dépose ou comparaît comme témoin au cours de l'enquête ou devant les juridictions d'instruction ou de jugement, ou s'il se constitue partie civile. Ce dispositif se justifie par le risque particulier de représailles auxquelles sont confrontés les enquêteurs, qui se trouvent aux prises avec des délinquants chevronnés. Dès lors que les sapeurs-pompiers ne disposent pas du pouvoir de constatation des infractions, il n'est pas envisagé de leur étendre l'application du dispositif prévu à l'article 15-4 du CPP. Toutefois, des mesures de protection et de prévention des violences commises à l'égard des sapeurs-pompiers sont d'ores et déjà prévues par notre droit. En premier lieu, ils bénéficient de la protection prévue aux articles 10-2, 40-4-1 et 89 du CPP qui permettent respectivement à la victime, à la victime qui se constitue partie civile et à la partie civile de déclarer leur adresse professionnelle en lieu et place de leur adresse personnelle, lorsqu'elles sont dépositaires de l'autorité publique ou chargées d'une mission de service public et que l'infraction a été commise en raison de leurs fonctions ou de leurs missions. En second lieu, les peines encourues pour les infractions de violences sont aggravées lorsqu'elles sont commises sur un sapeur-pompier ou un marin-pompier.
