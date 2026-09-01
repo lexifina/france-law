@@ -1,0 +1,3 @@
+# Article 1er
+
+L'accord territorial collectif étendu concernant les exploitations forestières de la région Champagne-Ardenne du 9 mars 1992 (IDCC 8211) ainsi que l'ensemble de ses avenants sont abrogés et cessent de produire leurs effets, à compter de la date d'entrée en vigueur de l'avenant n° 5 du 25 septembre 2025 portant révision de l'accord collectif du 1er avril 2021 pour le personnel des entreprises de travaux forestiers et des forestiers privés des départements de la Meurthe-et-Moselle, de la Meuse, de la Moselle et des Vosges, complétant les stipulations de la convention collective nationale ETARF (IDCC 7025) du 8 octobre 2020.
