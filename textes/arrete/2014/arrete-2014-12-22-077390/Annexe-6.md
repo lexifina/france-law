@@ -1818,6 +1818,624 @@ Conformément à l'article 1 de l'arrêté du 29 septembre 2025 (NOR : ECOR25266
 
 Conformément à l'article 3 de l'arrêté du 30 décembre 2024 et à son annexe G (NOR : ECOR2435303A), la fiche d’opération n° TRA-EQ-132 est ajoutée à compter du 1er janvier 2025 à la présente annexe. remplacée par la fiche portant la même référence présente à l'annexe H de l'arrêté précité. Vous pouvez consulter la présente fiche au sein de l'annexe G disposnible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Jo1UJTY9SbF2fbpIwW8qSVmdwg5k-UdZn955Kn6O8OI=
 
+-Fiche d'opération n° TRA-EQ-133
+
+CERTIFICATS D'ÉCONOMIES D'ÉNERGIE
+
+Opération n° TRA-EQ-133
+
+Achat ou location d'une voiture particulière électrique d'occasion |
+
+1. Secteur d'application
+
+Transport de voyageurs par des voitures particulières électriques d'occasion.
+
+2. Définitions
+
+Pour les besoins de la présente fiche, sont définies les notions suivantes :
+
+Véhicule électrique |
+
+Véhicule qui utilise l'électricité comme source exclusive d'énergie. |
+
+Véhicule d'occasion |
+
+Véhicule ayant déjà fait l'objet d'une immatriculation en série définitive à la date d'engagement de l'opération. |
+
+Voiture particulière |
+
+Véhicule tel que défini au 1.4 de l'article R. 311-1 du code de la route. Il est défini de manière unique par son numéro d'identification "Vehicle Identification Number - VIN". |
+
+3. Dénomination
+
+Achat ou location longue durée de voitures particulières électriques d'occasion.
+
+La présente fiche s'applique aux opérations engagées avant le 1er septembre 2030.
+
+4. Conditions pour la délivrance de certificats
+
+La présente opération concerne l'acquisition (achat ou location) d'une ou plusieurs voitures particulières électriques d'occasion.
+
+La date de première immatriculation du véhicule est comprise entre le 1er janvier 2017 et le 31 décembre 2023 et a été effectuée en France. Le véhicule acquis ne peut faire l'objet de plusieurs valorisations au titre de la présente fiche.
+
+Le niveau d'état de santé de la batterie est supérieur ou égal à 80 % selon la méthodologie définie à l'annexe 8 de l'arrêté du 22 décembre 2014 définissant les opérations standardisées d'économies d'énergie. A défaut, l'autonomie résiduelle est supérieure ou égale à 80 % de l'autonomie établie lors de l'homologation du véhicule ou supérieure ou égale à 200 km.
+
+Dans le cas d'une location, la durée du contrat de location est au minimum de trente-six mois, hors reconduction tacite. Dans le cas d'un achat, le bénéficiaire conserve le véhicule acquis pour une durée minimale de trente-six mois.
+
+Le professionnel est un professionnel de l'automobile habilité tel que défini à l'article R. 4544-9 du code du travail.
+
+Le nombre de véhicules valorisables au titre de la présente fiche est inférieur ou égal à cinq véhicules par bénéficiaire dans le cas d'une personne physique.
+
+La preuve de la réalisation de l'opération mentionne l'achat ou la location de voitures particulières électriques d'occasion ainsi que le numéro d'immatriculation des véhicules achetés ou loués.
+
+Lorsque le véhicule est pris en location, la preuve de réalisation de l'opération est constituée par le contrat de location ou la facture du premier loyer.
+
+Les documents justificatifs spécifiques à l'opération sont les suivants :
+
+- la copie du certificat provisoire ou définitif d'immatriculation définitive des véhicules achetés ou loués ;
+
+- une extraction du système d'immatriculation des véhicules (SIV) du véhicule ou un certificat tel que défini par le V de l'article R. 322-4 du code de la route, attestant de la date et du lieu de première immatriculation définitive des véhicules achetés ou loués et de la durée de détention par leur précédent propriétaire ou locataire ;
+
+- la copie du document attestant de l'état de santé de la batterie, ou à défaut de l'autonomie résiduelle du véhicule, fournie par le professionnel ;
+
+- pour un achat groupé : la feuille récapitulative, disponible sur le site internet du ministère chargé de l'énergie, mentionnant les caractéristiques des véhicules achetés ou loués dès lors que plusieurs véhicules sont concernés pour un même bénéficiaire.
+
+5. Durée de vie conventionnelle
+
+12 ans.
+
+6. Montant de certificats en kWh cumac
+
+Catégorie du véhicule au sens de l'article R. 311-1 du code de la route |
+
+Montant en kWh cumac
+
+par véhicule acheté ou loué |
+
+Voiture particulière électrique d'occasion |
+
+42 200 |
+
+ANNEXE 1
+
+À LA FICHE D'OPÉRATION STANDARDISÉE TRA-EQ-133, DÉFINISSANT LE CONTENU DE LA PARTIE A DE L'ATTESTATION SUR L'HONNEUR
+
+A. - TRA-EQ-133 (v. A85.1) : Achat ou location d'une voiture particulière électrique d'occasion
+
+* Date d'engagement de l'opération (ex : date d'acception du devis ou de la commande ou du contrat de location) : //
+
+* Date de la preuve de réalisation de l'opération (ex : date de la facture ou du contrat de location) : //
+
+Référence de la preuve de réalisation (ex. : facture ou contrat de location) :
+
+* L'opération consiste en (cocher une seule case) :
+
+□ L'achat d'une ou plusieurs voitures particulières électriques d'occasion ;
+
+□ La location d'une ou plusieurs voitures particulières électriques d'occasion.
+
+* Dans le cas d'une location, la durée de celle-ci est supérieure ou égale à trente-six mois : □ OUI □ NON
+
+* Dans le cas d'un achat, je m'engage à conserver le véhicule pour au moins trente-six mois : □ OUI □ NON
+
+* Le niveau d'état de santé de la batterie est supérieur ou égal à 80 %. A défaut, l'autonomie résiduelle est supérieure ou égale 80 % de l'autonomie établie lors de l'homologation du véhicule ou supérieure ou égale à [200 km] : □ OUI □ NON
+
+* Dans le cas où je suis une personne physique, j'atteste ne pas avoir bénéficié plus de 5 fois d'une prime CEE pour l'acquisition d'une voiture particulière électrique d'occasion éligible à cette opération ou à une version précédente de cette opération :
+
+□ OUI □ NON
+
+Dans le cas de la déclaration d'un unique véhicule :
+
+* Numéro d'immatriculation du véhicule acquis :
+
+* N° d'identification du véhicule acquis :
+
+* Type Variante Version du véhicule acquis :
+
+* Date de première immatriculation du véhicule : //
+
+Dans le cas d'une déclaration groupée :
+
+* Récapitulatif des véhicules achetés ou loués :
+
+Catégorie du véhicule au sens de l'article R. 311-1 du code de la route |
+
+Nombre de véhicules |
+
+Voiture particulière électrique d'occasion |
+
+|
+
+* Le coût de l'opération lié à la présente partie A s'élève à : € HT et € TTC.
+
+Nota. - Le coût de l'opération s'entend, selon la nature de l'opération, comme le coût de l'investissement ou du service lié à la mise en œuvre de l'opération, incluant, le cas échéant, les coûts d'installation. Lorsqu'il s'agit d'un service, il est indiqué, selon le cas, le coût annuel du service ou le coût ponctuel du service. Toutefois, lorsque l'opération consiste en la location d'un équipement ou d'un véhicule, il convient d'indiquer le coût mensuel de la location. Seuls les coûts éligibles au dispositif des certificats d'économies d'énergie sont comptabilisés quand ils sont disponibles ou, à défaut, le coût total facturé.
+
+* L'ensemble des aides financières, hors incitation financière du dispositif des certificats d'économies d'énergie, octroyées par des organismes publics au titre de l'opération liée à la présente partie A, est, à la date de la présente attestation sur l'honneur, d'un montant prévisionnel total de : €.
+
+ANNEXE 2
+
+À LA FICHE D'OPÉRATION STANDARDISÉE TRA-EQ-133 DÉFINISSANT LE MODÈLE DE TABLEAU RÉCAPITULATIF DES OPÉRATIONS D'ÉCONOMIES D'ÉNERGIE
+
+PERSONNES PHYSIQUES
+
+RAISON
+
+sociale du demandeur |
+
+SIREN
+
+du
+
+demandeur |
+
+RÉFÉRENCE EMMY
+
+de la demande |
+
+RÉFÉRENCE interne
+
+de l'opération |
+
+NOM
+
+du
+
+bénéficiaire
+
+de l'opération |
+
+PRÉNOM
+
+du bénéficiaire de l'opération |
+
+ADRESSE
+
+de l'opération |
+
+CODE
+
+postal
+
+sans Cedex |
+
+VILLE |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+VOLUME CEE
+
+"hors précarité énergétique"
+
+(kWh cumac) |
+
+VOLUME CEE
+
+"précarité énergétique"
+
+(kWh cumac) |
+
+RÉFÉRENCE
+
+de la fiche
+
+d'opération standardisée |
+
+DATE
+
+d'engagement
+
+de l'opération |
+
+DATE
+
+de la facture |
+
+NATURE
+
+de la
+
+bonification |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+SIREN du professionnel |
+
+RAISON sociale
+
+du professionnel |
+
+SIREN
+
+du sous-traitant |
+
+RAISON sociale
+
+du sous-traitant |
+
+NATURE du rôle actif et incitatif |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+SIREN de l'organisme
+
+de contrôle |
+
+RAISON sociale
+
+de l'organisme de contrôle |
+
+SIRET de l'entreprise ayant réalisé l'opération |
+
+Numéro de téléphone du bénéficiaire |
+
+Adresse de courriel du bénéficiaire |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+Montant du rôle actif et incitatif (€) |
+
+Commentaires |
+
+Raison sociale
+
+du mandataire assurant
+
+le rôle actif et incitatif |
+
+Numéro SIREN
+
+du mandataire assurant
+
+le rôle actif et incitatif |
+
+Numéro d'identification du véhicule |
+
+Numéro
+
+d'immatriculation
+
+du véhicule |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+Coût de l'opération
+
+(€ HT) |
+
+Coût de l'opération
+
+(€ TTC) |
+
+Montant des aides financières hors CEE (€) |
+
+Location d'équipement ou de véhicule (oui/non) |
+
+|
+
+|
+
+|
+
+|
+
+Suite et fin du tableau
+
+PERSONNES MORALES
+
+RAISON
+
+sociale
+
+du demandeur |
+
+SIREN
+
+du demandeur |
+
+RÉFÉRENCE
+
+EMMY
+
+de la demande |
+
+RÉFÉRENCE
+
+interne
+
+de l'opération |
+
+Code NAF
+
+du bénéficiaire
+
+de l'opération |
+
+ADRESSE
+
+de l'opération |
+
+CODE
+
+postal sans Cedex |
+
+VILLE |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+RAISON
+
+sociale
+
+du bénéficiaire
+
+de l'opération |
+
+SIREN |
+
+ADRESSE du siège social
+
+du bénéficiaire
+
+de l'opération |
+
+CODE
+
+postal sans Cedex |
+
+VILLE |
+
+VOLUME CEE
+
+"hors précarité énergétique"
+
+(kWh cumac) |
+
+VOLUME CEE
+
+"précarité énergétique"
+
+(kWh cumac) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+RÉFÉRENCE
+
+de la fiche
+
+d'opération standardisée |
+
+DATE
+
+d'engagement
+
+de l'opération |
+
+DATE
+
+d'achèvement
+
+de l'opération |
+
+NATURE
+
+de la
+
+bonification |
+
+SIREN du
+
+professionnel |
+
+RAISON sociale
+
+du professionnel |
+
+SIREN
+
+du sous-traitant |
+
+RAISON sociale
+
+du sous-traitant |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+NATURE du rôle actif
+
+et incitatif |
+
+SIREN
+
+de l'organisme
+
+de contrôle |
+
+RAISON sociale
+
+de l'organisme
+
+de contrôle |
+
+SIRET de l'entreprise
+
+ayant réalisé
+
+l'opération |
+
+Numéro
+
+de téléphone
+
+du bénéficiaire |
+
+Adresse de courriel
+
+du bénéficiaire |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+Montant du rôle actif et incitatif (€) |
+
+Commentaires |
+
+Raison sociale
+
+du mandataire assurant
+
+le rôle actif et incitatif |
+
+Numéro SIREN
+
+du mandataire assurant
+
+le rôle actif et incitatif |
+
+Numéro
+
+d'identification
+
+du véhicule |
+
+Numéro
+
+d'immatriculation
+
+du véhicule |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite et fin du tableau
+
 -Formation d’un chauffeur de transport à la conduite économe/ Fiche d’opération n° TRA-SE-101
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
@@ -2308,6 +2926,4 @@ https :// www. legifrance. gouv. fr/ download/ pdf ? id = FGBMw6bzzOGU6LHfYz6-OO
 
 NOTA :
 
-Conformément à l’article 4 de l’arrêté du 18 mai 2026 (NOR : ECOR2611173A), les dispositions mentionnées aux III, IV et VI relatif aux modalités d'application du dispositif des certificats d'économies d'énergie dans ses différentes versions antérieures au 1er juin 2026 s'appliquent aux opérations incluses dans une liste transmise, dans un délai de quinze jours après l'entrée en vigueur du présent arrêté, par le demandeur de certificats au ministre chargé de l'énergie, suivant le modèle intitulé "Modèle Tableau de recensement des engagements véhicules électriques" établi par la direction générale de l'énergie et du climat et mis à disposition sur le site internet du ministère de la transition écologique.
-
-Conformément à l’article 5 de l’arrêté du 18 mai 2026 (NOR : ECOR2611173A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur à compter du 1er juin 2026 et s'appliquent aux opérations engagées à compter de cette date. Aux fins d'établissement de la première liste mentionnée au 3° du IX de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie dans sa rédaction issue du présent arrêté, les constructeurs souhaitant l'inscription de leurs types-variantes sur cette liste transmettent à l'agence de l'environnement et de la maîtrise de l'énergie les informations exigées au 3° du IX de l'article 3-7-3 susmentionné avant le 20 mai 2026 à 12 heures, heure de Paris.
+Conformément à l'article 4 de l'arrêté du 10 août 2026 (NOR : ECOR2618106A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur à compter du 1er septembre 2026 et s'appliquent aux opérations engagées à compter de cette date.
