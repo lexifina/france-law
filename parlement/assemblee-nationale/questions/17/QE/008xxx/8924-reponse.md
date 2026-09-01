@@ -1,0 +1,9 @@
+# Réponse à la question n° 8924
+
+- Question : [8924](8924.md) — Question n° 8924 — Renforcement de la présence de défibrillateurs automatisés externes
+
+## Réponse
+
+*JO du 2026-09-01, page 7952*
+
+La loi du 28 juin 2018 visant à lutter contre l'arrêt cardiaque et à sensibiliser aux gestes qui sauvent a permis de poser un cadre ambitieux, complété par les décrets du 19 décembre 2018 et du 27 décembre 2019 rendant obligatoire l'équipement en Défibrillateurs automatisés externes (DAE) de nombreux établissements recevant du public. Par ailleurs, le déploiement de la base de données nationale des défibrillateurs (Géo'DAE) permet de recenser et de localiser l'ensemble des appareils disponibles sur le territoire, facilitant ainsi leur utilisation en situation d'urgence. Toutefois, certains espaces ouverts, notamment les terrains de sport extérieurs non classés comme établissements recevant du public, peuvent demeurer insuffisamment couverts, alors même qu'ils accueillent une fréquentation régulière. S'agissant d'une éventuelle extension de l'obligation légale à l'ensemble des terrains de sport extérieurs, celle-ci ferait peser des contraintes importantes, notamment pour les petites communes, tant en termes d'investissement que de maintenance des équipements. Cependant, l'État ne peut qu'encourager les partenariats avec les associations, les fédérations sportives et les acteurs privés locaux pour favoriser l'équipement des sites les plus exposés. Enfin, une action de communication du ministère de la santé afin de rappeler les bonnes pratiques en matière de gestion des DAE, en particulier la maintenance et les contrôles périodiques ainsi que les obligations de déclaration, a été menée au second semestre 2025. Cette action vise à renforcer le maintien d'un parc de DAE opérationnel et à mieux identifier la localisation de ces dispositifs, afin que les citoyens soient en capacité de les localiser et de les utiliser.
