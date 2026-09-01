@@ -38,13 +38,15 @@ Basse-Terre |
 
 Saint-Martin |
 
-1° Sous réserve des 2°, 3° et 4°, affaires civiles et pénales de la compétence du tribunal judiciaire à l'exception de celles relevant des fonctions visées au premier alinéa de l'article 28-3 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature ;
+1° Sous réserve des 2° à 5°, affaires civiles et pénales de la compétence du tribunal judiciaire à l'exception de celles relevant des fonctions visées au premier alinéa de l'article 28-3 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature ;
 
 2° Fonctions relevant de la compétence du juge des enfants et présidence du tribunal pour enfants lorsque cette juridiction tient ses audiences au siège de la chambre de proximité ;
 
 3° Fonctions relevant de la compétence du juge des libertés et de la détention ;
 
-4° Fonctions relevant de la compétence du juge de l'application des peines.
+4° Fonctions relevant de la compétence du juge de l'application des peines ;
+
+5° Fonctions relevant de la compétence du juge d'instruction.
 
 |
 
@@ -161,3 +163,7 @@ Guingamp |
 5° Contraventions.
 
 |
+
+NOTA :
+
+Conformément à l'article 2 du décret n° 2026-802 du 18 août 2026, ces dispositions, dans leur rédaction issue de l'article 1er du décret précité, entrent en vigueur à compter du 1er septembre 2026.
