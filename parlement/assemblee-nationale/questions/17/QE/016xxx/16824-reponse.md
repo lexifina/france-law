@@ -1,0 +1,9 @@
+# Réponse à la question n° 16824
+
+- Question : [16824](16824.md) — Question n° 16824 — Modèle économique du spectacle vivant
+
+## Réponse
+
+*JO du 2026-09-01, page 7899*
+
+Les évolutions observées dans le secteur du spectacle vivant musical, marquées par des stratégies de diversification et d'intégration de certains groupes présents à plusieurs niveaux de la chaîne de valeur, font l'objet d'un suivi attentif de la part du ministère de la culture. Dès 2014, puis en 2018, la direction générale de la création artistique (DGCA) a conduit plusieurs travaux sur les phénomènes de concentration dans les musiques actuelles, complétés par l'avis rendu en 2021 par l'Autorité de la concurrence. Afin de disposer d'une connaissance actualisée de ces évolutions, le centre national de la musique (CNM) conduit actuellement une étude sur l'économie du spectacle vivant musical. Parallèlement, la DGCA a engagé une mission nationale sur le développement des salles de grande capacité, afin d'en mesurer les effets sur les équilibres de la diffusion musicale. Les opérations de concentration relèvent, lorsqu'elles atteignent les seuils prévus par la loi, du contrôle de l'Autorité de la concurrence. Pour sa part, le ministère de la culture demeure particulièrement attentif à leurs conséquences sur la diversité culturelle, le pluralisme de l'offre et les conditions d'activité des acteurs indépendants. Enfin, le soutien aux structures indépendantes constitue une priorité de l'action du ministère. Les aides mises en uvre par les directions régionales des affaires culturelles et par le CNM visent à favoriser la diversité des acteurs, l'émergence artistique, la structuration de la filière et le maillage territorial. Ces dispositifs font l'objet d'une évaluation régulière afin de garantir leur adaptation aux évolutions du secteur.
