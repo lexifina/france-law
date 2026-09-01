@@ -1,0 +1,9 @@
+# Réponse à la question n° 12265
+
+- Question : [12265](12265.md) — Question n° 12265 — Réapparition de la "maladie X" chez les pintades et apparition chez les poulets
+
+## Réponse
+
+*JO du 2026-09-01, page 7845*
+
+La « maladie X » des pintades, ou maladie foudroyante de la pintade, est une infection causée par un gammacoronavirus spécifique identifié en 2014. Le virus touche surtout les pintades, bien que quelques cas isolés chez le poulet aient été signalés. La maladie apparaît par vagues, avec des périodes de disparition, ce qui suggère un phénomène cyclique encore mal compris. Aucun vaccin n'existe actuellement, et les mesures de biosécurité restent le principal moyen de prévention. Sur le plan réglementaire, la maladie n'est pas classée au niveau européen et n'est pas listée dans les maladies animales réglementées d'intérêt national. Elle relève donc des maladies non réglementées, pour lesquelles la responsabilité de la surveillance et de la gestion repose sur les éleveurs et les organisations professionnelles. L'État n'intervient habituellement que pour les maladies présentant un risque majeur pour la santé humaine ou la souveraineté alimentaire, ce qui n'est pas le cas ici. De ce fait, aucun dispositif sanitaire obligatoire ou mécanisme d'indemnisation ne peut être déployé à ce stade. La direction générale de l'alimentation suit néanmoins de près la poursuite des travaux de recherche, notamment ceux menés par l'école nationale vétérinaire de Toulouse. Ces travaux visent entre autres à mieux caractériser les souches récentes et explorer des stratégies renforçant l'immunité. Aussi dans l'immédiat, les recommandations adressées aux éleveurs portent sur un renforcement de la biosécurité incluant l'isolement des lots atteints, une désinfection rigoureuse des bâtiments et une limitation des visites dans les élevages. Une surveillance active, incluant le signalement des cas suspects et l'analyse en laboratoire, est également encouragée.
