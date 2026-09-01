@@ -4,7 +4,9 @@ TAUX MINIMAUX DE CONTRÔLES SATISFAISANTS APPLICABLES AUX OPÉRATIONS STANDARDIS
 
 Référence de la fiche d'opération
 
-standardisée |
+standardisée
+
+|
 
 Taux minimal de contrôles satisfaisants appliqué aux opérations réalisées |
 
@@ -118,7 +120,9 @@ Par contact |
 
 BAR-TH-174,
 
-BAR-TH-175 |
+BAR-TH-175
+
+|
 
 100 % |
 
@@ -890,7 +894,9 @@ BAT-TH-155,
 
 IND-UT-121,
 
-RES-CH-108 |
+RES-CH-108
+
+|
 
 100 % |
 
@@ -962,7 +968,9 @@ A compter du 01/11/2024 |
 
 TRA-EQ-114, TRA-EQ-128, TRA-EQ-129
 
-(pour les opérations bonifiées [*]) |
+(pour les opérations bonifiées [*])
+
+|
 
 100 % |
 
@@ -988,7 +996,9 @@ TRA-EQ-130 (pour les opérations bonifiées [*]) |
 
 15 % lorsque le bénéficiaire est une personne physique
 
-30 % lorsque le bénéficiaire est une collectivité locale, l'Etat ou une autre personne morale |
+30 % lorsque le bénéficiaire est une collectivité locale, l'Etat ou une autre personne morale
+
+|
 
 Sur le lieu des opérations |
 
@@ -996,7 +1006,9 @@ Entre le 01/06/2025 et le 31/12/2026 |
 
 20 % lorsque le bénéficiaire est une personne physique
 
-35 % lorsque le bénéficiaire est une collectivité locale, l'Etat ou une autre personne morale |
+35 % lorsque le bénéficiaire est une collectivité locale, l'Etat ou une autre personne morale
+
+|
 
 Sur le lieu des opérations |
 
@@ -1058,7 +1070,9 @@ BAT-TH-162,
 
 BAT-TH-163,
 
-BAT-TH-164 |
+BAT-TH-164
+
+|
 
 50 % |
 
@@ -1078,12 +1092,42 @@ Sur le lieu des opérations |
 
 A compter du 01/01/2028 |
 
+TRA-EQ-133 (pour les opérations bonifiées) |
+
+15 % |
+
+Sur le lieu des opérations |
+
+A compter du 01/09/2026 |
+
+BAR-TH-101
+
+BAR-TH-148
+
+BAR-TH-162
+
+BAR-TH-168
+
+|
+
+20 %
+
+|
+
+Sur le lieu des opérations |
+
+A compter du 01/09/2026 |
+
+30 % (en sus des contrôles sur le lieu, ci-dessus)
+
+|
+
+Par contact |
+
 (*) Sont incluses les opérations bonifiées en application de l'article 4 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie.
 
 NOTA :
 
-Conformément à l'article 5 de l'arrêté du 15 décembre 2025 (NOR : ECOR2532411A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er janvier 2026 et s'appliquent aux opérations engagées à compter de cette date.
+Conformément à l'article 4 de l'arrêté du 10 août 2026 (NOR : ECOR2618106A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur à compter du 1er septembre 2026 et s'appliquent aux opérations engagées à compter de cette date.
 
-Les dispositions des fiches d'opérations standardisées BAR-TH-171 et BAR-TH-172, dans leur version en vigueur au 1er octobre 2025, s'appliquent aux opérations incluses dans une liste transmise, au plus tard le 15 janvier 2026, par le demandeur de certificats au ministre chargé de l'énergie, suivant un modèle établi par la direction générale de l'énergie et du climat (DGEC) et mis à disposition sur le site internet du ministère.
-
-Conformément à l'article 6 de l'arrêté du 27 décembre 2025 (NOR : ECOR2535186A), ces dispositions, dans leur rédaction résultant de l'article 2 de l'arrêté précité, entrent en vigueur le 1er janvier 2026 et s'appliquent aux opérations engagées à compter de cette date.
+Conformément à l'article 4 de l'arrêté du 17 août 2026 (NOR : ECOR2620461A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er septembre 2026 et s'appliquent aux opérations engagées à compter de cette date et n'ayant pas fait l'objet d'un dossier de demande d'aide au titre des dépenses éligibles mentionnées au a, b et d du 3 ou au c du 4 de l'annexe 1 du décret n° 2020-26 du 14 janvier 2020 relatif à la prime de transition énergétique dans sa version en vigueur au 1er juillet 2026, déposé auprès de l'agence mentionnée à l'article L. 321-1 du code de la construction et de l'habitation avant le 1er septembre 2026, à l'exception des demandes ayant fait l'objet d'une décision de refus.

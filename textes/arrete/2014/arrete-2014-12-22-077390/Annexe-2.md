@@ -2114,8 +2114,6 @@ Conformément au III de l'article 2 de l'arrêté du 19 décembre 2023 (NOR : EN
 
 - Chaudière biomasse collective / Fiche d’opération standardisée n°BAR-TH-165
 
-- CERTIFICATS D'ÉCONOMIES D'ÉNERGIE
-
 Opération n° BAR-TH-168
 
 Dispositif solaire thermique (France métropolitaine) |
@@ -2128,7 +2126,7 @@ Bâtiment résidentiel : maisons individuelles existantes en France métropolita
 
 Mise en place d'un dispositif solaire thermique individuel installé sur appoint séparé, neuf ou existant, destiné à la production de chauffage et à la production d'eau chaude sanitaire ou à la production d'eau chaude sanitaire seulement.
 
-La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-171 Pompe à chaleur de type air/eau et BAR-TH-172 Pompe à chaleur de type eau/eau ou eau glycolée/eau .
+La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-171 "Pompe à chaleur de type air/eau" et BAR-TH-172 "Pompe à chaleur de type eau/eau ou eau glycolée/eau".
 
 La présente fiche s'applique aux opérations engagées avant le 1er janvier 2031.
 
@@ -2146,27 +2144,23 @@ Les capteurs solaires ont une puissance de sortie disponible supérieure ou éga
 
 Les capteurs solaires installés sont des capteurs thermiques vitrés à circulation d'eau ou d'eau glycolée, dans les conditions de pose et d'utilisation de l'équipement, et ont :
 
-- une certification QB ou SolarKeymark fondée sur les normes ISO 9806 et NF EN 12975 ou toute autre méthode équivalente ; ou
+- une certification QB ou SolarKeymark fondée sur les normes ISO 9806 et NF EN 12975 ou toute autre méthode équivalente ;
 
-- des caractéristiques de performances et de qualité équivalentes, établies par un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+- ou des caractéristiques de performances et de qualité équivalentes, établies par un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
-Si la capacité de stockage du ou des ballons d'eau chaude solaires est inférieure ou égale à 500 litres, leur classe d'efficacité énergétique, déterminée conformément à l'annexe II, point 2 du règlement délégué (UE) n° 812/2013 de la Commission du 18 février 2013 complétant la directive 2010/30/UE du Parlement européen et du Conseil en ce qui concerne l'étiquetage énergétique des chauffe-eau, des ballons d'eau chaude et des produits combinés constitués d'un chauffe-eau et d'un dispositif solaire, est, a minima, la classe C.
+Si la capacité de stockage du ou des ballons d'eau chaude solaires est inférieure ou égale à 500 litres, leur classe d'efficacité énergétique, déterminée conformément à l'annexe II, point 2 du règlement délégué (UE) n° 812/2013 de la Commission du 18 février 2013 complétant la directive 2010/30/UE du Parlement européen et du Conseil en ce qui concerne l'étiquetage énergétique des chauffe-eau, des ballons d'eau chaude et des produits combinés constitués d'un chauffe-eau et d'un dispositif solaire, est a minima la classe C.
 
 a) Si le dispositif solaire thermique est installé pour la production de chauffage et la production d'eau chaude sanitaire :
 
-Le dispositif solaire thermique n'est pas installé sur un appoint électrique.
-
-Le système est couplé à des émetteurs de chauffage central de type basse température permettant une optimisation
-
-de la valorisation de l'énergie solaire.
+Le système est couplé à des émetteurs de chauffage central de type basse température permettant une optimisation de la valorisation de l'énergie solaire.
 
 La surface hors-tout totale de capteurs solaires thermiques vitrés installés est supérieure ou égale à 8 m2.
 
-L'efficacité énergétique saisonnière pour la production de chauffage, définie selon le règlement (UE) n° 813/2013 de la Commission du 2 août 2013, est supérieure ou égale à :
+L'efficacité énergétique saisonnière pour la production de chauffage, définie selon le règlement (UE) n° 813/2013 de la commission du 2 août 2013, est supérieure ou égale à :
 
 - 82 % dans le cas où l'efficacité énergétique saisonnière de l'appoint séparé est inférieure à 82 % ;
 
-- 90 % dans le cas où l'efficacité énergétique saisonnière de l'appoint séparé est supérieure ou égale à 82% et inférieure à 90 % ;
+- 90 % dans le cas où l'efficacité énergétique saisonnière de l'appoint séparé est supérieure ou égale à 82 % et inférieure à 90 % ;
 
 - 98 % dans le cas où l'efficacité énergétique saisonnière de l'appoint séparé est supérieure ou égale à 90 % et inférieure à 98 % ;
 
@@ -2214,7 +2208,7 @@ Autre |
 
 Les capteurs solaires installés sont associés à un ou plusieurs ballons d'eau chaude solaires.
 
-Pour les dispositifs solaires thermiques mentionnés au a et au b, la preuve de réalisation de l'opération mentionne :
+Pour les dispositifs solaires thermiques mentionnés au a) et au b), la preuve de réalisation de l'opération mentionne :
 
 - la mise en place d'un dispositif solaire thermique et les caractéristiques des capteurs associés ;
 
@@ -2254,13 +2248,15 @@ Les documents justificatifs spécifiques à l'opération sont :
 
 Zone géographique |
 
-Montant en kWh cumac
+Montant en kWh cumac par m2 de capteur |
 
-par m2 de capteur |
+|
 
 |
 
 Surface hors-tout de capteurs solaires mis en place (m2) |
+
+|
 
 Usage ECS |
 
@@ -2270,7 +2266,7 @@ et Chauffage |
 
 |
 
-|
+S |
 
 H1 |
 
@@ -2280,7 +2276,7 @@ H1 |
 
 |
 
-S |
+|
 
 H2 |
 
@@ -2290,6 +2286,8 @@ H2 |
 
 × |
 
+|
+
 H3 |
 
 9 600 |
@@ -2298,11 +2296,13 @@ H3 |
 
 |
 
-ECS signifie : eau chaude sanitaire.
+|
 
-Annexe 1 à la fiche d'opération standardisée BAR-TH-168 définissant le contenu de la partie A de l'attestation sur l'honneur
+"ECS" signifie : eau chaude sanitaire.
 
-A. - BAR-TH-168 (v. A78.3) : Mise en place d'un dispositif solaire thermique individuel installé sur appoint séparé, neuf ou existant, destiné à la production de chauffage et à la production d'eau chaude sanitaire ou à la production d'eau chaude sanitaire seulement.
+Annexe 1 à la fiche d'opération standardisée BAR-TH-168, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ BAR-TH-168 (v. A87.4) : Mise en place d'un dispositif solaire thermique individuel installé sur appoint séparé, neuf ou existant, destiné à la production de chauffage et à la production d'eau chaude sanitaire ou à la production d'eau chaude sanitaire seulement.
 
 * Date d'engagement de l'opération (ex : date d'acceptation du devis) : //
 
@@ -2320,19 +2320,17 @@ Complément d'adresse :
 
 * Ville :
 
-* Maison individuelle existant depuis plus de 2 ans à la date d'engagement de l'opération : □ OUI □ NON
+* Maison individuelle existant depuis plus de 2 ans à la date d'engagement de l'opération : □ Oui □ Non
 
 * Le dispositif solaire thermique est installé pour :
 
-□ la production de chauffage □ la production de chauffage et d'eau chaude sanitaire
+□ La production de chauffage □ La production de chauffage et d'eau chaude sanitaire
 
-* Le dispositif solaire thermique comprend des capteurs solaires thermiques, un ballon de stockage solaire et un régulateur de température qui pilote le circuit solaire et le groupe de sécurité avec le vase d'expansion : □ OUI □ NON
+* Le dispositif solaire thermique comprend des capteurs solaires thermiques, un ballon de stockage solaire et un régulateur de température qui pilote le circuit solaire et le groupe de sécurité avec le vase d'expansion : □ Oui □ Non
 
-* Le dispositif solaire thermique est livré sans appoint : □ OUI □ NON
+* Le dispositif solaire thermique est livré sans appoint : □ Oui □ Non
 
 * Energie du système d'appoint séparé, neuf ou existant, accompagnant le dispositif solaire (électrique ou combustible) :
-
-Nota 1. - Le dispositif solaire thermique installé pour la production de chauffage et la production d'eau chaude sanitaire, n'est pas installé sur un appoint électrique.
 
 Caractéristiques des capteurs solaires :
 
@@ -2340,23 +2338,19 @@ Caractéristiques des capteurs solaires :
 
 * La puissance de sortie disponible des capteurs, mesurée selon la norme ISO 9806, est égale à : W/m2
 
-* Les capteurs solaires sont des capteurs thermiques vitrés à circulation d'eau ou d'eau glycolée : □ OUI □ NON
+* Les capteurs solaires sont des capteurs thermiques vitrés à circulation d'eau ou d'eau glycolée : □ Oui □ Non
 
-* Les capteurs solaires thermiques ont une certification QB ou Solarkeymark ou équivalente : □ OUI □ NON
+* Les capteurs solaires thermiques ont une certification QB ou Solarkeymark ou équivalente : □ Oui □ Non
 
-* Les capteurs solaires produisent à la fois életricité et chaleur (capteurs hybrides) : □ OUI □ NON
+* Les capteurs solaires produisent à la fois életricité et chaleur (capteurs hybrides) : □ Oui □ Non
 
-Nota 2. - Les capteurs solaires ont une puissance de sortie disponible supérieure ou égale à 450 W/m2 de surface hors tout du capteur, mesurée selon la norme ISO 9806 pour une différence entre la température moyenne du fluide caloporteur et la température de l'air ambiant ΔT = 50K.
+NB1 : Les capteurs solaires ont une puissance de sortie disponible supérieure ou égale à 450 W/m2 de surface hors tout du capteur, mesurée selon la norme ISO 9806 pour une différence entre la température moyenne du fluide caloporteur et la température de l'air ambiant ΔT=50K.
 
 * Nombre de ballons d'eau chaude installés :
 
 Cartouche à dupliquer pour chaque ballon d'eau chaude solaire installé :
 
-*Capacité de stockage du ballon d'eau chaude solaire (litres) :
-
-*Si la capacité de stockage du ballon d'eau chaude solaire est inférieure ou égale à 500 litres, classe d'efficacité énergétique du ballon d'eau chaude solaire : |
-
-Nota 3. - Si la capacité de stockage du ou des ballons d'eau chaude solaires est inférieure ou égale à 500 litres, leur classe d'efficacité énergétique, déterminée conformément à l'annexe II, point 2 du règlement délégué (UE) n° 812/2013 de la Commission du 18 février 2013 complétant la directive 2010/30/UE du Parlement européen et du Conseil en ce qui concerne l'étiquetage énergétique des chauffe-eau, des ballons d'eau chaude et des produits combinés constitués d'un chauffe-eau et d'un dispositif solaire, est, a minima, la classe C.
+NB2 : Si la capacité de stockage du ou des ballons d'eau chaude solaires est inférieure ou égale à 500 litres, leur classe d'efficacité énergétique, déterminée conformément à l'annexe II, point 2 du règlement délégué (UE) n° 812/2013 de la Commission du 18 février 2013 complétant la directive 2010/30/UE du Parlement européen et du Conseil en ce qui concerne l'étiquetage énergétique des chauffe-eau, des ballons d'eau chaude et des produits combinés constitués d'un chauffe-eau et d'un dispositif solaire, est a minima la classe C.
 
 A remplir uniquement si le dispositif solaire est installé pour la production de chauffage et la production d'eau chaude sanitaire :
 
@@ -2364,7 +2358,7 @@ A remplir uniquement si le dispositif solaire est installé pour la production d
 
 * Efficacité énergétique saisonnière pour la production de chauffage déclaré (en %) :
 
-Nota 4. - L'efficacité énergétique saisonnière pour la production de chauffage, définie selon le règlement (UE) n° 813/2013 de la Commission du 2 août 2013.
+NB3 : L'efficacité énergétique saisonnière pour la production de chauffage, définie selon le règlement (UE) n° 813/2013 de la commission du 2 août 2013.
 
 A remplir uniquement si le dispositif solaire est installé pour la production d'eau chaude sanitaire seule :
 
@@ -2412,7 +2406,7 @@ A ne remplir que si les marques et référence de l'équipement ne sont pas ment
 
 Le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 2° du I de l'article 1er du décret précité.
 
-Nota 5. - La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-171 Pompe à chaleur de type air/eau et BAR-TH-172 Pompe à chaleur de type eau/eau ou eau glycolée/eau .
+NB4 : La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-171 "Pompe à chaleur de type air/eau" et BAR-TH-172 "Pompe à chaleur de type eau/eau ou eau glycolée/eau".
 
 Identité du professionnel titulaire du signe de qualité ayant réalisé l'opération, s'il n'est pas le signataire de cette attestation (sous traitant, par exemple) :
 
@@ -2424,15 +2418,17 @@ Identité du professionnel titulaire du signe de qualité ayant réalisé l'opé
 
 * N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
+* Le coût de l'opération lié à la présente partie A s'élève à : € HT et € TTC.
+
+Nota. - Le coût de l'opération s'entend, selon la nature de l'opération, comme le coût de l'investissement ou du service lié à la mise en œuvre de l'opération, incluant, le cas échéant, les coûts d'installation. Lorsqu'il s'agit d'un service, il est indiqué, selon le cas, le coût annuel du service ou le coût ponctuel du service. Toutefois, lorsque l'opération consiste en la location d'un équipement ou d'un véhicule, il convient d'indiquer le coût mensuel de la location. Seuls les coûts éligibles au dispositif des certificats d'économies d'énergie sont comptabilisés quand ils sont disponibles ou, à défaut, le coût total facturé.
+
+* L'ensemble des aides financières, hors incitation financière du dispositif des certificats d'économies d'énergie, octroyées par des organismes publics au titre de l'opération liée à la présente partie A, est, à la date de la présente attestation sur l'honneur, d'un montant prévisionnel total de : €.
+
 - Pompe à chaleur collective de type air/eau ou eau/eau pour l'eau chaude sanitaire / Fiche d'opération standardisée n° BAR-TH-169
 
 Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : ECOR2435303A), la fiche d’opération n° BAR-TH-169 est remplacée à compter du 1er avril 2025 par la fiche portant la même référence présente à l'annexe B de l'arrêté précité. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Jo1UJTY9SbF2fbpIwW8qSVmdwg5k-UdZn955Kn6O8OI=
 
 - Récupération de chaleur fatale issue de serveurs informatiques pour l'eau chaude sanitaire collective / Fiche d’opération standardisée n° BAR-TH-170
-
-CERTIFICATS D'ÉCONOMIES D'ÉNERGIE
-
-CERTIFICATS D'ÉCONOMIES D'ÉNERGIE
 
 Opération n° BAR-TH-174
 
@@ -2442,21 +2438,23 @@ Rénovation d'ampleur d'une maison individuelle (France métropolitaine) |
 
 Maison individuelle existante en France métropolitaine.
 
+La présente fiche ne s'applique qu'aux logements de classe E, F ou G au sens de l'article L. 173-1-1 du code de la construction et de l'habitation avant la première étape de travaux
+
 2. Dénomination
 
 Rénovation thermique d'ampleur d'une maison individuelle existante.
 
-Cette opération n'est pas cumulable avec d'autres opérations relevant d'autres fiches et ayant une date d'engagement égale ou postérieure à la présente opération, pouvant donner lieu à la délivrance de certificats d'économies d'énergie pour des travaux concernant le chauffage ou sa régulation, la production d'eau chaude sanitaire, la ventilation, l'isolation de l'enveloppe de la maison, l'isolation du réseau hydraulique de chauffage ou d'eau chaude sanitaire ou les systèmes d'automatisation et de contrôle du bâtiment dès lors que ces travaux sont valorisés au titre de la présente fiche.
+Cette opération n'est pas cumulable avec d'autres opérations relevant d'autres fiches et ayant une date d'achèvement égale ou postérieure à la date d'engagement de la présente opération, pouvant donner lieu à la délivrance de certificats d'économies d'énergie pour des travaux concernant le chauffage ou sa régulation, la production d'eau chaude sanitaire, la ventilation, l'isolation de l'enveloppe de la maison, l'isolation du réseau hydraulique de chauffage ou d'eau chaude sanitaire ou les systèmes d'automatisation et de contrôle du bâtiment dès lors que ces catégories de travaux sont valorisées au titre de la présente fiche.
 
 La présente fiche est cumulable avec elle-même, pour un même logement et un même bénéficiaire, lors d'une seconde étape de travaux, selon les conditions définies ci-dessous.
 
-Le terme " classe " fait référence aux classes telles qu'elles sont définies à l'article L. 173-1-1 du code de la construction et de l'habitation.
+Le terme classe fait référence aux classes telles qu'elles sont définies à l'article L. 173-1-1 du code de la construction et de l'habitation.
 
 La présente fiche s'applique aux opérations engagées jusqu'au 31 décembre 2030.
 
 3. Conditions pour la délivrance de certificats
 
-Pour chaque catégorie de travaux intégrée dans le projet de rénovation d'ampleur et mentionnée aux 1° à 16° du I de l'article 1 er du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts, le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l'article 2 du même décret et dans les textes pris pour son application. Ce signe de qualité correspond à des travaux relevant soit du 17° du I de l'article 1 er du décret précité, soit de l'une des catégories mentionnées aux 1° à 16° du I du même décret correspondant aux travaux réalisés.
+Pour chaque catégorie de travaux intégrée dans le projet de rénovation d'ampleur et mentionnée aux 1° à 16° du I de l'article 1er du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts, le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l'article 2 du même décret et dans les textes pris pour son application. Ce signe de qualité correspond à des travaux relevant soit du 17° du I de l'article 1er du décret précité, soit de l'une des catégories mentionnées aux 1° à 16° du I du même décret correspondant aux travaux réalisés.
 
 Est réalisé préalablement aux travaux un audit énergétique tel que défini à l'article 8 de l'arrêté du 17 novembre 2020 relatif aux caractéristiques techniques et modalités de réalisation des travaux et prestations dont les dépenses sont éligibles à la prime de transition énergétique. Il est établi par une personne répondant aux conditions mentionnées au VII de l'article 2 du décret du 14 janvier 2020 relatif à la prime de transition énergétique. L'audit énergétique peut être complété par l'attestation définie à l'article 4 de l'arrêté du 13 août 2025 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au diagnostic de performance énergétique. Dans ce cas, les classes du logement avant et après travaux mentionnées sur l'attestation se substituent à celles de l'audit, pour un même scénario de travaux.
 
@@ -2464,7 +2462,7 @@ Par dérogation, pour les dossiers déposés jusqu'au 31 décembre 2025 auprès 
 
 En cas de seconde étape de travaux, l'audit énergétique réalisé lors de la première étape est réutilisé. Il peut être mis à jour, à condition que les travaux de la première étape correspondent à la proposition du parcours de travaux par étapes de l'audit.
 
-Pour un même logement et un même bénéficiaire, les travaux peuvent être réalisés en au plus deux étapes au titre de la présente fiche, pour les logements de classe E, F ou G avant la première étape de travaux.
+Pour un même logement et un même bénéficiaire, les travaux peuvent être réalisés en deux étapes au plus au titre de la présente fiche.
 
 Pour la première étape de travaux, les conditions cumulatives suivantes sont respectées :
 
@@ -2472,43 +2470,41 @@ a) Les travaux de rénovation permettent de réaliser un saut d'au moins deux cl
 
 b) Au moins deux postes de travaux traitant l'enveloppe du bâtiment sont mis en œuvre parmi les quatre suivants : isolation des murs par l'intérieur ou par l'extérieur, isolation des planchers bas, isolation de la toiture, des planchers de combles perdus ou de la toiture terrasse, remplacement des fenêtres et portes-fenêtres ou pose de doubles fenêtres (au moins 25 % des surfaces du bâtiment concernées par chaque poste de travaux choisi font l'objet de travaux) ;
 
-c) Sauf contrainte technique, architecturale ou patrimoniale justifiée, la résistance thermique de l'isolation installée est supérieure ou égale à :
+c) Sauf contrainte technique, architecturale ou patrimoniale justifiée, les travaux d'isolation thermique mettent en œuvre un ou plusieurs matériaux d'isolation, dont la résistance thermique totale est supérieure ou égale à :
 
--7 m 2. K/ W en planchers de combles perdus ;
+- 7 m2.K/W en planchers de combles perdus ;
 
--6 m 2. K/ W en rampant de toiture ;
+- 6 m2.K/W en rampant de toiture ;
 
--6,5 m 2. K/ W pour les toitures terrasses ;
+- 6,5 m2.K/W pour les toitures terrasses ;
 
--3,7 m 2. K/ W pour les murs en façade ou en pignon, en cas d'isolation par l'intérieur ;
+- 3,7 m2.K/W pour les murs en façade ou en pignon, en cas d'isolation par l'intérieur ;
 
--4,4 m 2. K/ W pour les murs en façade ou en pignon, en cas d'isolation par l'extérieur ;
+- 4,4 m2.K/W pour les murs en façade ou en pignon, en cas d'isolation par l'extérieur ;
 
--3 m 2. K/ W en plancher bas.
+- 3 m2.K/W en plancher bas.
 
 La résistance thermique est évaluée selon la norme NF EN 12664, la norme NF EN 12667 ou la norme NF EN 12939 pour les isolants non réfléchissants et selon la norme NF EN ISO 22097 pour les isolants réfléchissants. La présente fiche respecte, de plus, les dispositions de l'article 2 bis de l'arrêté du 22 décembre 2014 définissant les opérations standardisées d'économies d'énergie.
 
-La résistance thermique des isolants bio-sourcés peut être calculée conformément aux dispositions prévues dans l'annexe IX de l'arrêté du 26 octobre 2010 relatif aux caractéristiques thermiques et aux exigences de performance énergétique des bâtiments nouveaux et des parties nouvelles de bâtiments ;
+La résistance thermique des isolants bio-sourcés peut être calculée conformément aux dispositions prévues dans l'annexe IX de l'arrêté du 26 octobre 2010 relatif aux caractéristiques thermiques et aux exigences de performance énergétique des bâtiments nouveaux et des parties nouvelles de bâtiments.
 
 d) Sauf contrainte technique, architecturale ou patrimoniale justifiée, le coefficient de transmission surfacique Uw et le facteur solaire Sw des fenêtres ou portes-fenêtres sont :
 
--pour les fenêtres de toiture : Uw ≤ 1,5 W/ m 2. K et Sw ≤ 0,36 ;
+- pour les fenêtres de toiture : Uw ≤ 1,5 W/m2.K et Sw ≤ 0,36 ;
 
--pour les autres fenêtres ou portes-fenêtres :
+- pour les autres fenêtres ou portes-fenêtres :
 
--Uw ≤ 1,3 W/ m 2. K et Sw ≥ 0,3 ; ou
+- Uw ≤ 1,3 W/m2.K et Sw ≥ 0,3 ; ou
 
--Uw ≤ 1,7 W/ m 2. K et Sw ≥ 0,36 ;
+- Uw ≤ 1,7 W/m2.K et Sw ≥ 0,36 ;
 
-e) L'installation, le cas échéant, d'une double fenêtre consiste en la pose, sur la baie existante, d'une seconde fenêtre à double vitrage renforcé, dont le coefficient de transmission thermique (Uw) est inférieur ou égal à 1,8 W/ m 2. K et le facteur de transmission solaire (Sw) supérieur ou égal à 0,32.
+e) L'installation, le cas échéant, d'une double fenêtre consiste en la pose, sur la baie existante, d'une seconde fenêtre à double vitrage renforcé, dont le coefficient de transmission thermique (Uw) est inférieur ou égal à 1,8 W/m2.K et le facteur de transmission solaire (Sw) supérieur ou égal à 0,32.
 
 Quelle que soit l'étape de travaux, les conditions cumulatives suivantes sont respectées :
 
-f) Les travaux de rénovation n'intègrent pas l'installation d'un système de chauffage ou de production d'eau chaude sanitaire qui inclut au moins un équipement pour lequel le niveau d'émissions de gaz à effet de serre est supérieur à 150 gCO 2 eq/ kWh PCI, et dont le taux de couverture pour le chauffage, défini comme le rapport entre la quantité de chaleur fournie, pour le chauffage du logement, par l'ensemble des équipements dont les émissions sont supérieures à 150 gCO 2 eq/ kWh PCI et les besoins annuels de chaleur, pour le chauffage du logement, couverts par le système est supérieur à 30 % ;
+f) Les travaux de rénovation ne conduisent pas à installer ou conserver un système de chauffage ou de production d'eau chaude sanitaire intégrant au moins un équipement susceptible d'utiliser des combustibles fossiles. Cette disposition ne s'applique pas aux équipements de raccordement à un réseau de chaleur ou de froid ;
 
-g) Il est interdit de conserver un système de chauffage ou de production d'eau chaude sanitaire qui inclut au moins un équipement pour lequel le niveau d'émissions de gaz à effet de serre est supérieur à 300 gCO 2 eq/ kWh PCI, et dont le taux de couverture, défini comme le rapport entre la quantité d'énergie fournie par l'ensemble des équipements dont les émissions sont supérieures à 300 gCO 2 eq/ kWh PCI et les besoins annuels de chaleur couverts par le système est supérieur à 30 %.
-
-Les émissions annuelles de gaz à effet de serre après rénovation, rapportées à la surface habitable de la maison, sont inférieures ou égales à la valeur initiale de ces émissions avant travaux.
+g) Les émissions annuelles de gaz à effet de serre après rénovation, rapportées à la surface habitable de la maison, sont inférieures ou égales à la valeur initiale de ces émissions avant travaux.
 
 Dans le cas de travaux en deux étapes, la seconde étape de travaux permet d'atteindre au moins la classe C pour les logements de classe F ou G avant la première étape de travaux, et au moins la classe B pour les logements de classe E avant la première étape de travaux.
 
@@ -2516,9 +2512,9 @@ Les travaux en deux étapes ne sont possibles que si la première étape de trav
 
 Hors l'agence mentionnée à l'article L. 321-1 du code de la construction et de l'habitation, un demandeur de certificats d'économies d'énergie ne peut assurer le rôle actif et incitatif mentionné à l'article R. 221-22 du code de l'énergie lorsque le bénéficiaire et le logement vérifient les conditions d'éligibilité :
 
--à la prime de transition énergétique au titre de la dépense mentionnée au 15 de l'annexe 1 du décret n° 2020-26 du 14 janvier 2020 relatif à la prime de transition énergétique ; ou
+- à la prime de transition énergétique au titre de la dépense mentionnée au 15 de l'annexe 1 du décret n° 2020-26 du 14 janvier 2020 relatif à la prime de transition énergétique ;
 
--aux aides à la rénovation énergétique d'ampleur de logements destinées aux bénéficiaires visés aux 1° à 3° du I de l'article R. 321-12 du code de la construction et de l'habitation.
+- ou aux aides à la rénovation énergétique d'ampleur de logements destinées aux bénéficiaires visés aux 1° à 3° du I de l'article R. 321-12 du code de la construction et de l'habitation.
 
 Un demandeur de certificats d'économies d'énergie ne peut assurer le rôle actif et incitatif mentionné à l'article R. 221-22 du code de l'énergie lorsque le bénéficiaire de l'opération est le locataire ou l'occupant à titre gratuit du logement.
 
@@ -2530,37 +2526,37 @@ La preuve de réalisation de l'opération mentionne la liste des travaux réalis
 
 Les documents justificatifs spécifiques à l'opération sont :
 
--le rapport de synthèse de l'audit énergétique, ainsi que sa mise à jour éventuelle, précisant les données de consommations conventionnelles en énergie primaire et en énergie finale (sans déduction de la production d'électricité autoconsommée ou exportée), avant et après travaux ainsi que les classes du bâtiment avant et après travaux et les quantités annuelles de gaz à effet de serre émis dans l'atmosphère avant et après travaux du fait de la quantité d'énergie consommée, rapportés à la surface de la maison. Ce rapport précise le nom du logiciel de calcul utilisé dans le cadre de l'opération et son numéro de version. L'audit énergétique est complété, le cas échéant, par l'attestation définie à l'article 4 de l'arrêté du 13 août 2025 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au diagnostic de performance énergétique ;
+- le rapport de synthèse de l'audit énergétique, ainsi que sa mise à jour éventuelle, précisant les données de consommations conventionnelles en énergie primaire et en énergie finale (sans déduction de la production d'électricité autoconsommée ou exportée), avant et après travaux ainsi que les classes du bâtiment avant et après travaux et les quantités annuelles de gaz à effet de serre émis dans l'atmosphère avant et après travaux du fait de la quantité d'énergie consommée, rapportés à la surface de la maison. Ce rapport précise le nom du logiciel de calcul utilisé dans le cadre de l'opération et son numéro de version. L'audit énergétique est complété, le cas échéant, par l'attestation définie à l'article 4 de l'arrêté du 13 août 2025 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au diagnostic de performance énergétique ;
 
--la liste des travaux préconisés avec leurs niveaux de performance et la correspondance avec la liste des travaux réalisés, datée et signée par le bénéficiaire, le professionnel ayant réalisé l'audit énergétique, permettant d'atteindre les performances énergétiques requises ;
+- la liste des travaux préconisés avec leurs niveaux de performance et la correspondance avec la liste des travaux réalisés, datée et signée par le bénéficiaire, le professionnel ayant réalisé l'audit énergétique, permettant d'atteindre les performances énergétiques requises ;
 
--la liste des entreprises ayant effectué les travaux de rénovation en indiquant la nature de ces travaux et la référence de leur qualification ou certification lorsque celle-ci est requise ;
+- la liste des entreprises ayant effectué les travaux de rénovation en indiquant la nature de ces travaux et la référence de leur qualification ou certification lorsque celle-ci est requise ;
 
--hors le cas où le demandeur de certificats est l'agence mentionnée à l'article L. 321-1 du code de la construction et de l'habitation, un justificatif de propriété du bénéficiaire de l'opération (taxe foncière, acte de propriété (ou titre de propriété), attestation de propriété immobilière) ou le cas échéant, le compromis de vente signé par le vendeur et l'acquéreur.
+- hors le cas où le demandeur de certificats est l'agence mentionnée à l'article L. 321-1 du code de la construction et de l'habitation, un justificatif de propriété du bénéficiaire de l'opération (taxe foncière, acte de propriété (ou titre de propriété), attestation de propriété immobilière) ou le cas échéant, le compromis de vente signé par le vendeur et l'acquéreur.
 
 Lorsque les travaux mis en œuvre diffèrent des travaux préconisés, l'audit énergétique est mis à jour sur la base des travaux effectivement réalisés.
 
 Le rapport de synthèse de l'audit énergétique, ainsi que sa mise à jour éventuelle, sont datés et signés par le prestataire les ayant réalisés. Ils comportent les mentions des valeurs suivantes :
 
--la consommation conventionnelle (en kWh/ m 2. an) du bâtiment (sans déduction de la production d'électricité autoconsommée ou exportée), en précisant les usages considérés :
+- la consommation conventionnelle (en kWh/m2.an) du bâtiment (sans déduction de la production d'électricité autoconsommée ou exportée), en précisant les usages considérés :
 
--d'énergie primaire, avant les travaux de rénovation : Cep initial ;
+- d'énergie primaire, avant les travaux de rénovation : Cep initial ;
 
--d'énergie primaire, après les travaux de rénovation : Cep projet ;
+- d'énergie primaire, après les travaux de rénovation : Cep projet ;
 
--d'énergie finale, avant les travaux de rénovation : Cef initial ;
+- d'énergie finale, avant les travaux de rénovation : Cef initial ;
 
--d'énergie finale, après les travaux de rénovation : Cef projet ;
+- d'énergie finale, après les travaux de rénovation : Cef projet ;
 
--le rejet de CO 2 exprimé en kgeqCO 2/ m 2. an, avant les travaux de rénovation ;
+- le rejet de CO2 exprimé en kgeqCO2/m2.an, avant les travaux de rénovation ;
 
--le rejet de CO 2 exprimé en kgeqCO 2/ m 2. an, après les travaux de rénovation ;
+- le rejet de CO2 exprimé en kgeqCO2/m2.an, après les travaux de rénovation ;
 
--la classe avant les travaux de rénovation ;
+- la classe avant les travaux de rénovation ;
 
--la classe après les travaux de rénovation ;
+- la classe après les travaux de rénovation ;
 
--la surface habitable du bâtiment avant les travaux de la première ou l'unique étape de travaux, exprimée en m 2 : S hab.
+- la surface habitable du bâtiment avant les travaux de la première ou l'unique étape de travaux, exprimée en m2 : Shab.
 
 4. Durée de vie conventionnelle
 
@@ -2574,15 +2570,11 @@ Montant unitaire en kWh cumac |
 
 |
 
-Facteur correctif
-
-selon la surface habitable S hab
+Facteur correctif selon la surface habitable Shab
 
 |
 
-Surface habitable S hab
-
-en m 2
+Surface habitable Shab en m2
 
 |
 
@@ -2594,7 +2586,7 @@ en m 2
 
 0,4 |
 
-S hab < 35 |
+Shab < 35 |
 
 3 |
 
@@ -2604,7 +2596,7 @@ S hab < 35 |
 
 0,5 |
 
-35 ≤ S hab < 60 |
+35 ≤ Shab < 60 |
 
 4 ou plus |
 
@@ -2614,7 +2606,7 @@ S hab < 35 |
 
 0,8 |
 
-60 ≤ S hab < 90 |
+60 ≤ Shab < 90 |
 
 |
 
@@ -2624,7 +2616,7 @@ S hab < 35 |
 
 1 |
 
-90 ≤ S hab < 110 |
+90 ≤ Shab < 110 |
 
 |
 
@@ -2634,7 +2626,7 @@ S hab < 35 |
 
 1,2 |
 
-110 ≤ S hab ≤ 130 |
+110 ≤ Shab ≤ 130 |
 
 |
 
@@ -2644,7 +2636,7 @@ S hab < 35 |
 
 1,3 |
 
-130 < S hab
+130 < Shab
 
 |
 
@@ -2652,11 +2644,11 @@ Pour la première ou l'unique étape de travaux, le nombre de sauts de classe co
 
 Pour les travaux de la seconde étape, le montant de certificats d'économies d'énergie attribué lors de la seconde étape correspond au montant de certificats d'économies d'énergie correspondant à la somme des sauts de classes des première et seconde étapes auquel est soustrait le montant de certificats d'économies d'énergie correspondant au nombre de sauts de classes de la première étape.
 
-S hab est la surface habitable (exprimée en m 2) de la maison avant les travaux de la première ou l'unique étape de travaux.
+Shab est la surface habitable (exprimée en m2) de la maison avant les travaux de la première ou l'unique étape de travaux.
 
 Annexe 1 à la fiche d'opération standardisée BAR-TH-174 définissant le contenu de la partie A de l'attestation sur l'honneur
 
-A/ BAR-TH-174 (v. A80.3) : Rénovation thermique d'ampleur d'une maison individuelle existante
+A/ BAR-TH-174 (v. A86.4) : Rénovation thermique d'ampleur d'une maison individuelle existante
 
 * Date d'engagement de l'opération (ex : acceptation du devis) : //
 
@@ -2676,15 +2668,11 @@ Complément d'adresse :
 
 * Maison individuelle existant depuis plus de 2 ans à la date d'engagement de l'opération : □ Oui □ Non
 
-* Maison individuelle existante depuis moins de 15 ans à la date d'engagement de l'opération : □ Oui □ Non
-
 * Le bénéficiaire et le logement vérifient les conditions d'éligibilité :
 
 - à la prime de transition énergétique au titre de la dépense mentionnée au 15 de l'annexe 1 du décret n° 2020-26 du 14 janvier 2020 relatif à la prime de transition énergétique : □ Oui □ Non
 
 - aux aides à la rénovation énergétique d'ampleur de logements destinées aux bénéficiaires visés aux 1° à 3° du I de l'article R. 321-12 du code de la construction et de l'habitation : □ Oui □ Non
-
-* Le logement est occupé à titre de résidence principale : □ Oui □ Non
 
 * Le bénéficiaire de l'opération est le locataire ou l'occupant à titre gratuit du logement : □ Oui □ Non
 
@@ -2702,7 +2690,9 @@ Caractéristiques du bâtiment données par l'audit énergétique, ou le cas éc
 
 * Consommation conventionnelle en énergie finale après les travaux de rénovation : Cef projet (kWh/m2.an) :
 
-* Classe avant les travaux de rénovation :
+* Classe avant les travaux de rénovation au titre de la présente opération :
+
+* Dans le cas d'une deuxième étape de travaux de rénovation ayant déjà fait l'objet d'une valorisation au titre de la présente fiche, classe avant la première étape des travaux de rénovation :
 
 * Classe après les travaux de rénovation :
 
@@ -2754,9 +2744,35 @@ Caractéristiques des fenêtres, fenêtres de toiture ou portes-fenêtres compl�
 
 * Facteur solaire Sw :
 
-* Il est installé un système de chauffage ou de production d'eau chaude sanitaire qui inclut au moins un équipement pour lequel le niveau d'émissions de gaz à effet de serre est supérieur à 150 gCO2eq/kWh PCI, et dont le taux de couverture pour le chauffage, défini comme le rapport entre la quantité de chaleur fournie, pour le chauffage du logement, par l'ensemble des équipements dont les émissions sont supérieures à 150 gCO2eq/kWh PCI et les besoins annuels de chaleur, pour le chauffage du logement, couverts par le système est supérieur à 30 % : □ Oui □ Non
+* Il est installé ou conservé un système de chauffage ou de production d'eau chaude sanitaire intégrant au moins un équipement susceptible d'utiliser des combustibles fossiles : □ Oui □ Non
 
-* Il est conservé un système de chauffage ou de production d'eau chaude sanitaire qui inclut au moins un équipement pour lequel le niveau d'émissions de gaz à effet de serre est supérieur à 300 gCO2eq/kWh PCI, et dont le taux de couverture, défini comme le rapport entre la quantité d'énergie fournie par l'ensemble des équipements dont les émissions sont supérieures à 300 gCO2eq/kWh PCI et les besoins annuels de chaleur couverts par le système est supérieur à 30 % : □ Oui □ Non
+NB. - Il convient de ne pas tenir compte des équipements de raccordement à un réseau de chaleur ou de froid.
+
+* Type d'équipements du système de chauffage ou de production d'eau chaude sanitaire présents après travaux et énergie correspondante (charbon, fioul, gaz, électricité, bois, chaleur renouvelable, etc.) :
+
+Usage couvert (chauffage et/ou
+
+eau chaude sanitaire) |
+
+Type d'équipements présents après travaux |
+
+Energie correspondante (charbon, fioul, gaz,
+
+électricité, bois, chaleur renouvelable, etc. ) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+NB. - Il convient de renseigner une ligne par type d'équipements du système de chauffage et/ou de production d'eau chaude sanitaire présents après travaux.
 
 * Les émissions de gaz à effet de serre après rénovation, exprimées en kgeqCO2/m2.an, sont inférieures ou égales à la valeur initiale de ces émissions avant travaux : □ Oui □ Non
 
@@ -2778,7 +2794,7 @@ Logiciel de calcul utilisé pour réaliser l'audit énergétique :
 
 * Date et n° de version :
 
-Nota 1. - Cette opération n'est pas cumulable avec d'autres opérations relevant d'autres fiches et ayant une date d'engagement égale ou postérieure à la présente opération, pouvant donner lieu à la délivrance de certificats d'économies d'énergie pour des travaux concernant le chauffage ou sa régulation, la production d'eau chaude sanitaire, la ventilation, l'isolation de l'enveloppe de la maison, l'isolation du réseau hydraulique de chauffage ou d'eau chaude sanitaire ou les systèmes d'automatisation et de contrôle du bâtiment dès lors que ces travaux sont valorisés au titre de la présente fiche.
+Nota 1. - Cette opération n'est pas cumulable avec d'autres opérations relevant d'autres fiches et ayant une date d'achèvement égale ou postérieure à la date d'engagement de la présente opération, pouvant donner lieu à la délivrance de certificats d'économies d'énergie pour des travaux concernant le chauffage ou sa régulation, la production d'eau chaude sanitaire, la ventilation, l'isolation de l'enveloppe de la maison, l'isolation du réseau hydraulique de chauffage ou d'eau chaude sanitaire ou les systèmes d'automatisation et de contrôle du bâtiment dès lors que ces catégories de travaux sont valorisées au titre de la présente fiche.
 
 Qualification ou certification du (ou des) professionnel(s)
 
@@ -2800,7 +2816,11 @@ Identification du professionnel ayant réalisé les travaux :
 
 La qualification ou certification de l'entreprise est mentionnée dans le cas où cette dernière a réalisé des travaux relevant de l'une au moins des catégories de travaux mentionnées aux 1° à 17° du I de l'article 1er du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application.
 
-CERTIFICATS D'ÉCONOMIES D'ÉNERGIE
+* Le coût de l'opération lié à la présente partie A s'élève à : € HT et € TTC.
+
+Nota. - Le coût de l'opération s'entend, selon la nature de l'opération, comme le coût de l'investissement ou du service lié à la mise en œuvre de l'opération, incluant, le cas échéant, les coûts d'installation. Lorsqu'il s'agit d'un service, il est indiqué, selon le cas, le coût annuel du service ou le coût ponctuel du service. Toutefois, lorsque l'opération consiste en la location d'un équipement ou d'un véhicule, il convient d'indiquer le coût mensuel de la location. Seuls les coûts éligibles au dispositif des certificats d'économies d'énergie sont comptabilisés quand ils sont disponibles ou, à défaut, le coût total facturé.
+
+* L'ensemble des aides financières, hors incitation financière du dispositif des certificats d'économies d'énergie, octroyées par des organismes publics au titre de l'opération liée à la présente partie A, est, à la date de la présente attestation sur l'honneur, d'un montant prévisionnel total de : €.
 
 Opération n° BAR-TH-175
 
@@ -2810,15 +2830,17 @@ Rénovation d'ampleur d'un appartement (France métropolitaine) |
 
 Bâtiments résidentiels collectifs existants en France métropolitaine.
 
+La présente fiche ne s'applique qu'aux logements de classe E, F ou G au sens de l'article L. 173-1-1 du code de la construction et de l'habitation avant la première étape de travaux.
+
 2. Dénomination
 
 Rénovation thermique d'ampleur d'un appartement existant.
 
-Cette opération n'est pas cumulable avec d'autres opérations relevant d'autres fiches et ayant une date d'engagement égale ou postérieure à la présente opération, pouvant donner lieu à la délivrance de certificats d'économies d'énergie pour des travaux concernant le chauffage ou sa régulation, la production d'eau chaude sanitaire, la ventilation, l'isolation de l'enveloppe de l'appartement, l'isolation du réseau hydraulique de chauffage ou d'eau chaude sanitaire ou les systèmes d'automatisation et de contrôle de l'appartement dès lors que ces travaux sont valorisés au titre de la présente fiche.
+Cette opération n'est pas cumulable avec d'autres opérations relevant d'autres fiches et ayant une date d'achèvement égale ou postérieure à la date d'engagement de la présente opération, pouvant donner lieu à la délivrance de certificats d'économies d'énergie pour des travaux concernant le chauffage ou sa régulation, la production d'eau chaude sanitaire, la ventilation, l'isolation de l'enveloppe de l'appartement, l'isolation du réseau hydraulique de chauffage ou d'eau chaude sanitaire ou les systèmes d'automatisation et de contrôle de l'appartement dès lors que ces catégories de travaux sont valorisées au titre de la présente fiche.
 
 La présente fiche est cumulable avec elle-même, pour un même logement et un même bénéficiaire, lors d'une seconde étape de travaux, selon les conditions définies ci-dessous.
 
-Le terme " classe " fait référence aux classes telles qu'elles sont définies à l'article L. 173-1-1 du code de la construction et de l'habitation.
+Le terme classe fait référence aux classes telles qu'elles sont définies à l'article L. 173-1-1 du code de la construction et de l'habitation.
 
 La présente fiche s'applique aux opérations engagées jusqu'au 31 décembre 2030.
 
@@ -2834,7 +2856,7 @@ En cas de seconde étape de travaux, l'audit énergétique réalisé lors de la 
 
 Les travaux ne concernent que les parties privatives.
 
-Pour un même logement et un même bénéficiaire, les travaux peuvent être réalisés en au plus deux étapes au titre de la présente fiche, pour les logements de classe E, F ou G avant la première étape de travaux.
+Pour un même logement et un même bénéficiaire, les travaux peuvent être réalisés en deux étapes au plus au titre de la présente fiche.
 
 Pour la première ou l'unique étape de travaux, les conditions cumulatives suivantes sont respectées :
 
@@ -2842,7 +2864,7 @@ a) Les travaux de rénovation permettent de réaliser un saut d'au moins deux cl
 
 b) Au moins deux postes de travaux traitant l'enveloppe de l'appartement, à condition que les travaux relèvent des parties privatives, sont mis en œuvre parmi les quatre suivants : isolation des murs par l'intérieur ou par l'extérieur, isolation des planchers bas, isolation de la toiture, des planchers de combles perdus ou de la toiture terrasse, remplacement des fenêtres et portes-fenêtres ou pose de doubles fenêtres (au moins 25 % des surfaces de l'appartement concernées par chaque poste de travaux choisi font l'objet de travaux) ;
 
-c) Sauf contrainte technique, architecturale ou patrimoniale justifiée, la résistance thermique de l'isolation installée est supérieure ou égale à :
+c) Sauf contrainte technique, architecturale ou patrimoniale justifiée, les travaux d'isolation thermique mettent en œuvre un ou plusieurs matériaux d'isolation, dont la résistance thermique totale est supérieure ou égale à :
 
 - 7 m2.K/W en planchers de combles perdus ;
 
@@ -2874,7 +2896,7 @@ e) L'installation, le cas échéant, d'une double fenêtre consiste en la pose, 
 
 Quelle que soit l'étape de travaux, les conditions cumulatives suivantes sont respectées :
 
-f) Les travaux de rénovation n'intègrent pas l'installation d'un système de chauffage ou de production d'eau chaude sanitaire qui inclut au moins un équipement pour lequel le niveau d'émissions de gaz à effet de serre est supérieur à 150 gCO2eq/kWh PCI, et dont le taux de couverture pour le chauffage, défini comme le rapport entre la quantité de chaleur fournie, pour le chauffage du logement, par l'ensemble des équipements dont les émissions sont supérieures à 150 gCO2eq/kWh PCI et les besoins annuels de chaleur, pour le chauffage du logement, couverts par le système est supérieur à 30 % ;
+f) Les travaux de rénovation n'intègrent pas l'installation d'un système de chauffage ou de production d'eau chaude sanitaire qui inclut au moins un équipement pour lequel le niveau d'émissions de gaz à effet de serre est supérieur à 150 gCO2eq/kWh PCI, et dont le taux de couverture pour le chauffage, défini comme le rapport entre la quantité de chaleur fournie, pour le chauffage du logement, par l'ensemble des équipements dont les émissions sont supérieures à 150 gCO2eq/kWh PCI et les besoins annuels de chaleur, pour le chauffage du logement, couverts par le système est supérieur à 30% ;
 
 g) Il est interdit de conserver un système de chauffage ou de production d'eau chaude sanitaire qui inclut au moins un équipement pour lequel le niveau d'émissions de gaz à effet de serre est supérieur à 300 gCO2eq/kWh PCI, et dont le taux de couverture, défini comme le rapport entre la quantité d'énergie fournie par l'ensemble des équipements dont les émissions sont supérieures à 300 gCO2eq/kWh PCI et les besoins annuels de chaleur couverts par le système est supérieur à 30 % ;
 
@@ -2884,9 +2906,9 @@ Dans le cas de travaux en deux étapes, la seconde étape de travaux permet d'at
 
 Hors l'agence mentionnée à l'article L. 321-1 du code de la construction et de l'habitation, un demandeur de certificats d'économies d'énergie ne peut assurer le rôle actif et incitatif mentionné à l'article R. 221-22 du code de l'énergie lorsque le bénéficiaire et le logement vérifient les conditions d'éligibilité :
 
-- à la prime de transition énergétique au titre de la dépense mentionnée au 15 de l'annexe 1 du décret n° 2020-26 du 14 janvier 2020 relatif à la prime de transition énergétique ; ou
+- à la prime de transition énergétique au titre de la dépense mentionnée au 15 de l'annexe 1 du décret n° 2020-26 du 14 janvier 2020 relatif à la prime de transition énergétique ;
 
-- aux aides à la rénovation énergétique d'ampleur de logements destinées aux bénéficiaires visés aux 1° à 3° du I de l'article R. 321-12 du code de la construction et de l'habitation.
+- ou aux aides à la rénovation énergétique d'ampleur de logements destinées aux bénéficiaires visés aux 1° à 3° du I de l'article R. 321-12 du code de la construction et de l'habitation.
 
 Un demandeur de certificats d'économies d'énergie ne peut assurer le rôle actif et incitatif mentionné à l'article R. 221-22 du code de l'énergie lorsque le bénéficiaire de l'opération est le locataire ou l'occupant à titre gratuit du logement.
 
@@ -2904,7 +2926,7 @@ Les documents justificatifs spécifiques à l'opération sont :
 
 - la liste des entreprises ayant effectué les travaux de rénovation en indiquant la nature de ces travaux et la référence de leur qualification ou certification lorsque celle-ci est requise ;
 
-- hors le cas où le demandeur de certificats est l'agence mentionnée à l'article L. 321-1 du code de la construction et de l'habitation, un justificatif de propriété du bénéficiaire de l'opération (taxe foncière, acte de propriété (ou titre de propriété), attestation de propriété immobilière) ou le cas échéant, le compromis de vente signé par le vendeur et l'acquéreur.
+- hors le cas où le demandeur de certificats est l'agence mentionnée à l'article L.321-1 du code de la construction et de l'habitation, un justificatif de propriété du bénéficiaire de l'opération (taxe foncière, acte de propriété (ou titre de propriété), attestation de propriété immobilière) ou le cas échéant, le compromis de vente signé par le vendeur et l'acquéreur.
 
 Lorsque les travaux mis en œuvre diffèrent des travaux préconisés, l'audit énergétique est mis à jour sur la base des travaux effectivement réalisés.
 
@@ -2942,15 +2964,11 @@ Montant unitaire en kWh cumac |
 
 |
 
-Facteur correctif
-
-selon la surface habitable Shab
+Facteur correctif selon la surface habitable Shab
 
 |
 
-Surface habitable Shab
-
-en m2
+Surface habitable Shab en m2
 
 |
 
@@ -3024,7 +3042,7 @@ Shab est la surface habitable (exprimée en m2) de l'appartement avant les trava
 
 Annexe 1 à la fiche d'opération standardisée BAR-TH-175 définissant le contenu de la partie A de l'attestation sur l'honneur
 
-A/ BAR-TH-175 (v. A80.3) : Rénovation thermique d'ampleur d'un appartement existant
+A/ BAR-TH-175 (v. A86.4) : Rénovation thermique d'ampleur d'un appartement existant
 
 * Date d'engagement de l'opération (ex : acceptation du devis) : //
 
@@ -3044,15 +3062,11 @@ Complément d'adresse :
 
 * Appartement existant depuis plus de 2 ans à la date d'engagement de l'opération : □ Oui □ Non
 
-* Appartement existant depuis moins de 15 ans à la date d'engagement de l'opération : □ Oui □ Non
-
 * Le bénéficiaire et le logement vérifient les conditions d'éligibilité :
 
 - à la prime de transition énergétique au titre de la dépense mentionnée au 15 de l'annexe 1 du décret n° 2020-26 du 14 janvier 2020 relatif à la prime de transition énergétique : □ Oui □ Non
 
 - aux aides à la rénovation énergétique d'ampleur de logements destinées aux bénéficiaires visés aux 1° à 3° du I de l'article R. 321-12 du code de la construction et de l'habitation : □ Oui □ Non
-
-* Le logement est occupé à titre de résidence principale : □ Oui □ Non
 
 * Le bénéficiaire de l'opération est le locataire ou l'occupant à titre gratuit du logement : □ Oui □ Non
 
@@ -3070,7 +3084,9 @@ Caractéristiques du bâtiment données par l'audit énergétique, ou le cas éc
 
 * Consommation conventionnelle en énergie finale après les travaux de rénovation : Cef projet (kWh/m2.an) :
 
-* Classe avant les travaux de rénovation :
+* Classe avant les travaux de rénovation au titre de la présente opération :
+
+* Dans le cas d'une deuxième étape de travaux de rénovation ayant déjà fait l'objet d'une valorisation au titre de la présente fiche, classe avant la première étape des travaux de rénovation :
 
 * Classe après les travaux de rénovation :
 
@@ -3146,7 +3162,7 @@ Logiciel de calcul utilisé pour réaliser l'audit énergétique :
 
 * Date et n° de version :
 
-Nota 1. - Cette opération n'est pas cumulable avec d'autres opérations relevant d'autres fiches et ayant une date d'engagement egale ou posterieure à la présente opération, pouvant donner lieu à la délivrance de certificats d'économies d'énergie pour des travaux concernant le chauffage ou sa régulation, la production d'eau chaude sanitaire, la ventilation, l'isolation de l'enveloppe du logement, l'isolation du réseau hydraulique de chauffage ou d'eau chaude sanitaire ou les systèmes d'automatisation et de contrôle du bâtiment dès lors que ces travaux sont valorisés au titre de la présente fiche.
+Nota 1. - Cette opération n'est pas cumulable avec d'autres opérations relevant d'autres fiches et ayant une date d'achèvement égale ou postérieure à la date d'engagement de la présente opération, pouvant donner lieu à la délivrance de certificats d'économies d'énergie pour des travaux concernant le chauffage ou sa régulation, la production d'eau chaude sanitaire, la ventilation, l'isolation de l'enveloppe du logement, l'isolation du réseau hydraulique de chauffage ou d'eau chaude sanitaire ou les systèmes d'automatisation et de contrôle du bâtiment dès lors que ces catégories de travaux sont valorisées au titre de la présente fiche.
 
 Qualification ou certification du (ou des) professionnel(s)
 
@@ -3168,7 +3184,11 @@ Identification du professionnel ayant réalisé les travaux :
 
 La qualification ou certification de l'entreprise est mentionnée dans le cas où cette dernière a réalisé des travaux relevant de l'une au moins des catégories de travaux mentionnées aux 1° à 17° du I de l'article 1er du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application.
 
-CERTIFICATS D'ÉCONOMIES D'ÉNERGIE
+* Le coût de l'opération lié à la présente partie A s'élève à : € HT et € TTC.
+
+Nota. - Le coût de l'opération s'entend, selon la nature de l'opération, comme le coût de l'investissement ou du service lié à la mise en œuvre de l'opération, incluant, le cas échéant, les coûts d'installation. Lorsqu'il s'agit d'un service, il est indiqué, selon le cas, le coût annuel du service ou le coût ponctuel du service. Toutefois, lorsque l'opération consiste en la location d'un équipement ou d'un véhicule, il convient d'indiquer le coût mensuel de la location. Seuls les coûts éligibles au dispositif des certificats d'économies d'énergie sont comptabilisés quand ils sont disponibles ou, à défaut, le coût total facturé.
+
+* L'ensemble des aides financières, hors incitation financière du dispositif des certificats d'économies d'énergie, octroyées par des organismes publics au titre de l'opération liée à la présente partie A, est, à la date de la présente attestation sur l'honneur, d'un montant prévisionnel total de : €.
 
 Opération n° BAR-TH-177
 
@@ -3578,7 +3598,7 @@ La PAC est installée et mise en service pour s'assurer de son bon fonctionnemen
 
 Ne donnent pas lieu à la délivrance de certificats d'économies d'énergie au titre de la présente fiche, les PAC associées à un autre système de chauffage et les PAC utilisées uniquement pour le chauffage de l'eau chaude sanitaire.
 
-La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-101 Chauffe-eau solaire individuel (France métropolitaine) , BAR-TH-124 Chauffe-eau solaire individuel (Outre-mer) , BAR-TH-143 Système solaire combiné (France métropolitaine) , BAR-TH-148 Chauffe-eau thermodynamique à accumulation et BAR-TH-168 Dispositif solaire thermique (France métropolitaine) .
+La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-101 "Chauffe-eau solaire individuel (France métropolitaine)", BAR-TH-124 "Chauffe-eau solaire individuel (Outre-mer)", BAR-TH-143 "Système solaire combiné (France métropolitaine)", BAR-TH-148 "Chauffe-eau thermodynamique à accumulation" et BAR-TH-168 "Dispositif solaire thermique (France métropolitaine)".
 
 La présente fiche s'applique aux opérations engagées jusqu'au 31 décembre 2030.
 
@@ -3588,9 +3608,9 @@ La mise en place est réalisée par un professionnel.
 
 Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 5° (dans le cas d'une PAC assurant uniquement le chauffage du logement) ou du 5° et du 6° (dans le cas d'une PAC assurant le chauffage du logement et de l'eau chaude sanitaire) du I de l'article 1er du décret précité.
 
-L'efficacité énergétique saisonnière pour le chauffage des locaux (Etas) de la PAC selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013 (pour des conditions climatiques moyennes définies par le règlement susmentionné), déterminée selon l'application de la PAC installée, est supérieure ou égale à :
+L'efficacité énergétique saisonnière pour le chauffage des locaux (Etas) de la PAC selon le règlement (EU) n° 813/2013 de la commission du 2 août 2013 (pour des conditions climatiques moyennes définies par le règlement susmentionné), déterminée selon l'application de la PAC installée, est supérieure ou égale à :
 
-- 126 % pour une application basse température au sens du règlement susmentionné ;
+- 126 % pour une application basse température au sens du règlement susmentionné.
 
 - 111 % pour une application moyenne ou haute température.
 
@@ -3600,9 +3620,9 @@ Tout type de systèmes déportés à la PAC installée, permettant la production
 
 Pour les PAC assurant uniquement le chauffage :
 
-- pour les émetteurs de type : plancher chauffant, plafond chauffant et mur chauffant et les émetteurs localisés du type ventilo-convecteurs à eau, la pompe à chaleur installée est d'application basse température et l'Etas à 35 °C est à considérer ;
+- pour les émetteurs de type : plancher chauffant, plafond chauffant et mur chauffant et les émetteurs localisés du type ventilo-convecteurs à eau, la pompe à chaleur installée est d'application basse température et l'Etas à 35°C est à considérer ;
 
-- pour tous les autres types d'émetteurs, y compris les solutions mixtes (ex. : radiateurs et plancher chauffant) ainsi que les radiateurs dits basse température à régime d'eau 45 °C, la PAC installée est d'application moyenne ou haute température et l'Etas à 55 °C est à considérer.
+- pour tous les autres types d'émetteurs, y compris les solutions mixtes (ex. : radiateurs et plancher chauffant) ainsi que les radiateurs dits "basse température" à régime d'eau 45 °C, la PAC installée est d'application moyenne ou haute température et l'Etas à 55 °C est à considérer.
 
 Pour les PAC assurant le chauffage et la production d'eau chaude sanitaire et pour toute association de système déporté à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, la PAC installée est d'application moyenne ou haute température et l'Etas à 55 °C est à considérer.
 
@@ -3612,33 +3632,33 @@ Le professionnel rédige une note de dimensionnement du générateur par rapport
 
 La preuve de la réalisation de l'opération mentionne :
 
-- la mise en place d'une pompe à chaleur de type air/eau avec ses marque et référence ; et
+- la mise en place d'une pompe à chaleur de type air/eau avec ses marque et référence ;
 
-- le type d'application choisi pour l'installation de la pompe à chaleur (basse température ; moyenne ou haute température) ; et
+- et le type d'application choisi pour l'installation de la pompe à chaleur (basse température ; moyenne ou haute température) ;
 
-- l'usage de la pompe à chaleur (chauffage ; chauffage et eau chaude sanitaire) ; et
+- et l'usage de la pompe à chaleur (chauffage ; chauffage et eau chaude sanitaire) ;
 
-- l'efficacité énergétique saisonnière (Etas) selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013 (pour des conditions climatiques moyennes) déterminée selon l'application de la PAC installée ; et
+- et l'efficacité énergétique saisonnière (Etas) selon le règlement (EU) n° 813/2013 de la commission du 2 août 2013 (pour des conditions climatiques moyennes) déterminée selon l'application de la PAC installée ;
 
-- l'installation d'un régulateur ainsi que la classe de celui-ci ; et
+- et l'installation d'un régulateur ainsi que la classe de celui-ci ;
 
-- dans le cas d'un système déporté à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, la mise en place du système déporté avec ses marque et référence.
+- et, dans le cas d'un système déporté à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, la mise en place du système déporté avec ses marque et référence.
 
-A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'un équipement avec ses marque et référence et elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'un équipement avec ses marque et référence et elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/IEC 17065 : 2012 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Ce document indique :
 
-- que l'équipement de marque et référence mis en place est une pompe à chaleur de type air/eau ; et
+- que l'équipement de marque et référence mis en place est une pompe à chaleur de type air/eau ;
 
-- le type d'application choisi pour l'installation de la pompe à chaleur (basse température ; moyenne ou haute température) ; et
+- et le type d'application choisi pour l'installation de la pompe à chaleur (basse température ; moyenne ou haute température) ;
 
-- l'usage de la pompe à chaleur (chauffage ; chauffage et eau chaude sanitaire) ; et
+- et l'usage de la pompe à chaleur (chauffage ; chauffage et eau chaude sanitaire) ;
 
-- l'efficacité énergétique saisonnière (Etas) selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013 (pour des conditions climatiques moyennes), déterminée selon l'application de la PAC installée ; et
+- et l'efficacité énergétique saisonnière (Etas) selon le règlement (EU) n° 813/2013 de la commission du 2 août 2013 (pour des conditions climatiques moyennes), déterminée selon l'application de la PAC installée ;
 
-- que l'équipement est équipé d'un régulateur, en précisant la classe de celui-ci ; et
+- et que l'équipement est équipé d'un régulateur, en précisant la classe de celui-ci ;
 
-- dans le cas d'un système déporté à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, la mise en place du système déporté avec ses marque et référence.
+- et, dans le cas d'un système déporté à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, la mise en place du système déporté avec ses marque et référence.
 
 En cas de mention d'une date de validité, ce document est considéré comme valable jusqu'à un an après sa date de fin de validité.
 
@@ -3648,7 +3668,7 @@ Les documents justificatifs spécifiques à l'opération sont :
 
 - la décision de qualification ou de certification du professionnel délivrée selon les mêmes exigences que celles prévues à l'article 2 du décret susvisé ;
 
-- la fiche d'information sur le produit de la PAC, mentionnée à l'article 3 du règlement (UE) 2017/1369 établissant un cadre pour l'étiquetage énergétique (dont le texte d'application spécifique au chauffage centralisé est le règlement écoconception 811/2013).
+- la fiche d'information sur le produit de la PAC, mentionnée à l'article 3 du Règlement (UE) 2017/1369 établissant un cadre pour l'étiquetage énergétique (dont le texte d'application spécifique au chauffage centralisé est le règlement écoconception 811/2013).
 
 4. Durée de vie conventionnelle
 
@@ -3664,21 +3684,19 @@ saisonnière (Etas) |
 
 Montant kWhc |
 
-× |
+X |
 
 Facteur correctif selon la surface chauffée |
 
 Surface chauffée S en m2 par la PAC installée |
 
-× |
+X |
 
-Facteur correctif selon
-
-la zone géographique |
+Facteur correctif selon la zone géographique |
 
 Zone géographique |
 
-111%≤ Etas < 140% |
+111%≤ Etas<140% |
 
 48 700 |
 
@@ -3722,21 +3740,19 @@ saisonnière (Etas) |
 
 Montant kWhc |
 
-× |
+X |
 
 Facteur correctif selon la surface chauffée |
 
 Surface chauffée S en m2 par la PAC installée |
 
-× |
+X |
 
-Facteur correctif selon
-
-la zone géographique |
+Facteur correctif selon la zone géographique |
 
 Zone géographique |
 
-111%≤ Etas < 140% |
+111%≤ Etas<140% |
 
 90 900 |
 
@@ -3772,101 +3788,615 @@ H2 |
 
 H3 |
 
-Nota. - La surface chauffée prise en compte est la surface habitable, au sens de l'article R. 156-1 du code de la construction et de l'habitation, chauffée par la PAC installée et correspond aux surfaces des pièces disposant d'un émetteur de chaleur alimenté par la PAC installée.
+NB : La surface chauffée prise en compte est la surface habitable, au sens de l'article R. 156-1 du code de la construction et de l'habitation, chauffée par la PAC installée et correspond aux surfaces des pièces disposant d'un émetteur de chaleur alimenté par la PAC installée.
 
-Annexe 1 à la fiche d'opération standardisée BAR-TH-171 définissant le contenu de la partie A de l'attestation sur l'honneur
+Annexe 1 à la fiche d'opération standardisée BAR-TH-171, définissant le contenu de la partie A de l'attestation sur l'honneur
 
-A. - BAR-TH-171 (v. A78.4) : Mise en place d'une pompe à chaleur (PAC) de type air/eau.
+A/ BAR-TH-171 (v. A82.5) : Mise en place d'une pompe à chaleur (PAC) de type air/eau.
 
-* Date d'engagement de l'opération (ex : date d'acceptation du devis) :
+*Date d'engagement de l'opération (ex : date d'acceptation du devis) :
 
 Date de preuve de réalisation de l'opération (ex : date de la facture) :
 
 Référence de la facture :
 
-* Pour les personnes morales, nom du site des travaux ou nom de la copropriété :
+*Pour les personnes morales, nom du site des travaux ou nom de la copropriété :
 
-* Adresse des travaux :
+*Adresse des travaux :
 
 Complément d'adresse :
 
-* Code postal :
+*Code postal :
 
-* Ville :
+*Ville :
 
-* Bâtiment résidentiel existant depuis plus de 2 ans à la date d'engagement de l'opération : □ OUI □ NON
+*Bâtiment résidentiel existant depuis plus de 2 ans à la date d'engagement de l'opération : □ OUI □ NON
 
-* Type de logement : □ Maison individuelle □ Appartement
+*Type de logement : □ Maison individuelle □ Appartement
 
-* Le logement est occupé à titre de résidence principale : □ OUI □ NON
+*Le logement est occupé à titre de résidence principale : □ OUI □ NON
 
-* Surface chauffée par la PAC installée (m2) :
+*Surface chauffée par la PAC installée (m2) :
 
 Caractéristiques de la pompe à chaleur (PAC) :
 
-* La pompe à chaleur est de type air/eau et est installée pour une application :
+*La pompe à chaleur est de type air/eau et est installée pour une application :
 
-□ A basse température ;
+□ à basse température
 
-□ A moyenne ou haute température.
+□ à moyenne ou haute température
 
-Nota 1. - Pour les PAC assurant uniquement le chauffage, une application à basse température est une application dans laquelle un dispositif de chauffage des locaux par pompe à chaleur fournit sa puissance calorifique déclarée pour une température de sortie de l'échangeur thermique intérieur de 35 °C.
+NB1 : Pour les PAC assurant uniquement le chauffage, une application à basse température est une application dans laquelle un dispositif de chauffage des locaux par pompe à chaleur fournit sa puissance calorifique déclarée pour une température de sortie de l'échangeur thermique intérieur de 35 °C.
 
 Une application à moyenne ou haute température est une application dans laquelle un dispositif de chauffage des locaux par pompe à chaleur fournit sa puissance calorifique déclarée pour une température de sortie de l'échangeur thermique intérieur d'au moins 55 °C.
 
 Une solution mixte de chauffage des locaux associe différents types d'émetteurs de chauffage fonctionnant à basse température pour les uns et à moyenne ou haute température pour les autres ; elle est alors considérée comme une application à moyenne ou haute température.
 
-Nota 2. - Pour les PAC assurant le chauffage et la production de l'eau chaude sanitaire et pour toute association de système déporté à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, la PAC installée est d'application moyenne ou haute température.
+NB2 : Pour les PAC assurant le chauffage et la production de l'eau chaude sanitaire et pour toute association de système déporté à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, la PAC installée est d'application moyenne ou haute température.
 
-* La PAC est équipée d'un régulateur : □ OUI □ NON
+*La PAC est équipée d'un régulateur : □ OUI □ NON
 
-* Classe du régulateur :
+*Classe du régulateur :
 
-* Efficacité énergétique saisonnière (Etas) (en %) :
+*Efficacité énergétique saisonnière (Etas) (en %) :
 
-L'efficacité énergétique saisonnière (Etas) est calculée selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013 (pour des conditions climatiques moyennes définies par le règlement susmentionné).
+L'efficacité énergétique saisonnière (Etas) est calculée selon le règlement (EU) n° 813/2013 de la commission du 2 août 2013 (pour des conditions climatiques moyennes définies par le règlement susmentionné).
 
-Nota 3. - L'efficacité énergétique saisonnière prise en compte est celle de la pompe à chaleur seule pour les besoins de chauffage des locaux (hors dispositif de régulation).
+NB3 : L'efficacité énergétique saisonnière prise en compte est celle de la pompe à chaleur seule pour les besoins de chauffage des locaux (hors dispositif de régulation).
 
-* Usage couvert par la PAC :
+*Usage couvert par la PAC :
 
-□ Chauffage ;
+□ Chauffage
 
-□ Chauffage et eau chaude sanitaire.
+□ Chauffage et eau chaude sanitaire
 
-* La PAC est associée à un système déporté, permettant la production de l'eau chaude sanitaire par celle-ci : □ OUI □ NON
+*La PAC est associée à un système déporté, permettant la production de l'eau chaude sanitaire par celle-ci :
 
-* Dans le cas de systèmes déportés à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, le système déporté consomme de l'énergie pour la production de l'eau chaude sanitaire, hors systèmes déportés intégrant une résistance électrique à des fins de secours ou de cycle anti-légionelle, et pour lesquels la régulation priorise la pompe à chaleur pour la production de l'eau chaude sanitaire : □ OUI □ NON
+□ OUI □ NON
 
-* Une note de dimensionnement a été remise au bénéficiaire : □ OUI □ NON
+*Dans le cas de systèmes déportés à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, le système déporté consomme de l'énergie pour la production de l'eau chaude sanitaire, hors systèmes déportés intégrant une résistance électrique à des fins de secours ou de cycle anti-légionelle, et pour lesquels la régulation priorise la pompe à chaleur pour la production de l'eau chaude sanitaire : □ OUI □ NON
+
+*Une note de dimensionnement a été remise au bénéficiaire : □ OUI □ NON
 
 A ne remplir que si les marque et référence de la pompe à chaleur ne sont pas mentionnées sur la preuve de réalisation de l'opération :
 
-* Marque :
+*Marque :
 
-* Référence :
+*Référence :
 
 Dans le cas de systèmes déportés à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, à ne remplir que si les marque et référence du système déporté ne sont pas mentionnées sur la preuve de réalisation de l'opération :
 
-* Marque :
+*Marque :
 
-* Référence :
+*Référence :
 
-Nota 4. - La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-101 Chauffe-eau solaire individuel (France métropolitaine) , BAR-TH-124 Chauffe-eau solaire individuel (Outre-mer) , BAR-TH-143 Système solaire combiné (France métropolitaine) , BAR-TH-148 Chauffe-eau thermodynamique à accumulation et BAR-TH-168 Dispositif solaire thermique (France métropolitaine) .
+NB4 : La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-101 "Chauffe-eau solaire individuel (France métropolitaine)", BAR-TH-124 "Chauffe-eau solaire individuel (Outre-mer)", BAR-TH-143 "Système solaire combiné (France métropolitaine)", BAR-TH-148 "Chauffe-eau thermodynamique à accumulation" et BAR-TH-168 "Dispositif solaire thermique (France métropolitaine)".
 
 Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 5° (dans le cas d'une PAC assurant uniquement le chauffage du logement) ou du 5° et du 6° (dans le cas d'une PAC assurant le chauffage du logement et de l'eau chaude sanitaire) du I de l'article 1er du décret précité.
 
 Identité du professionnel titulaire du signe de qualité ayant réalisé l'opération, s'il n'est pas le signataire de cette attestation (sous-traitant par exemple) :
 
-* Nom
+*Nom
 
-* Prénom
+*Prénom
 
-* Raison sociale :
+*Raison sociale :
 
-* N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
+*N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-* Le numéro du modèle de la PAC, défini à l'article 2 du règlement (UE) 2017/1369 du Parlement européen et du Conseil :
+*La référence du modèle de la PAC, défini à l'article 2 du règlement (UE) 2017/1369 du Parlement européen et du Conseil :
+
+*Dans le cas d'une pompe à chaleur air/eau bénéficiant de la bonification prévue au 1° du IV de l'article 3-6 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, numéro d'agrément du modèle de la pompe à chaleur :
+
+*Le coût de l'opération lié à la présente partie A s'élève à : € HT et € TTC
+
+NB 5 : Le coût de l'opération s'entend, selon la nature de l'opération, comme le coût de l'investissement ou du service lié à la mise en œuvre de l'opération, incluant, le cas échéant, les coûts d'installation. Lorsqu'il s'agit d'un service, il est indiqué, selon le cas, le coût annuel du service ou le coût ponctuel du service. Toutefois, lorsque l'opération consiste en la location d'un équipement ou d'un véhicule, il convient d'indiquer le coût mensuel de la location. Seuls les coûts éligibles au dispositif des certificats d'économies d'énergie sont comptabilisés quand ils sont disponibles ou, à défaut, le coût total facturé.
+
+*L'ensemble des aides financières, hors incitation financière du dispositif des certificats d'économies d'énergie, octroyées par des organismes publics au titre de l'opération liée à la présente partie A, est, à la date de la présente attestation sur l'honneur, d'un montant prévisionnel total de : €.
+
+Annexe 2 à la fiche d'opération standardisée BAR-TH-171 définissant le modèle de tableau récapitulatif des opérations d'économies d'énergie
+
+Personnes physiques
+
+RAISON
+
+sociale du demandeur |
+
+SIREN
+
+du
+
+demandeur |
+
+RÉFÉRENCE EMMY
+
+de la demande |
+
+RÉFÉRENCE interne
+
+de l'opération |
+
+NOM
+
+du
+
+bénéficiaire
+
+de l'opération |
+
+PRÉNOM
+
+du bénéficiaire de l'opération |
+
+ADRESSE
+
+de l'opération |
+
+CODE
+
+postal
+
+sans Cedex |
+
+VILLE |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+VOLUME CEE
+
+"hors précarité énergétique"
+
+(kWh cumac) |
+
+VOLUME CEE
+
+"précarité énergétique"
+
+(kWh cumac) |
+
+RÉFÉRENCE
+
+de la fiche
+
+d'opération standardisée |
+
+DATE
+
+d'engagement
+
+de l'opération |
+
+DATE
+
+de la facture |
+
+NATURE
+
+de la
+
+bonification |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+SIREN du professionnel |
+
+RAISON sociale
+
+du professionnel |
+
+SIREN
+
+du sous-traitant |
+
+RAISON sociale
+
+du sous-traitant |
+
+NATURE du rôle actif et incitatif |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+SIREN de l'organisme
+
+de contrôle |
+
+RAISON sociale
+
+de l'organisme de contrôle |
+
+SIRET de l'entreprise ayant réalisé l'opération |
+
+Numéro de téléphone du bénéficiaire |
+
+Adresse de courriel du bénéficiaire |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+Montant du rôle actif et incitatif (€) |
+
+Commentaires |
+
+Raison sociale
+
+du mandataire assurant
+
+le rôle actif et incitatif |
+
+Numéro SIREN
+
+du mandataire assurant
+
+le rôle actif et incitatif |
+
+Dans le cas d'une
+
+bonification Coup de pouce Chauffage, numéro d'agrément
+
+de la pompe à chaleur |
+
+Coût de l'opération (€ HT) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite et fin du tableau
+
+Coût
+
+de l'opération
+
+(€ TTC) |
+
+Montant des aides financières hors CEE (€) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Personnes morales
+
+RAISON
+
+sociale
+
+du demandeur |
+
+SIREN
+
+du demandeur |
+
+RÉFÉRENCE
+
+EMMY
+
+de la demande |
+
+RÉFÉRENCE
+
+interne
+
+de l'opération |
+
+NOM
+
+du site bénéficiaire
+
+de l'opération |
+
+ADRESSE
+
+de l'opération |
+
+CODE
+
+postal sans Cedex |
+
+VILLE |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+RAISON
+
+sociale
+
+du bénéficiaire
+
+de l'opération |
+
+SIREN |
+
+ADRESSE du siège social du bénéficiaire de l'opération |
+
+CODE
+
+postal sans Cedex |
+
+VILLE |
+
+VOLUME CEE
+
+"hors précarité
+
+énergétique"
+
+(kWh cumac) |
+
+VOLUME CEE
+
+"précarité
+
+énergétique"
+
+(kWh cumac) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+RÉFÉRENCE
+
+de la fiche
+
+d'opération standardisée |
+
+DATE
+
+d'engagement
+
+de l'opération |
+
+DATE
+
+d'achèvement
+
+de l'opération |
+
+NATURE
+
+de la
+
+bonification |
+
+SIREN
+
+du
+
+professionnel |
+
+RAISON sociale
+
+du professionnel |
+
+SIREN
+
+du sous-traitant |
+
+RAISON sociale
+
+du sous-traitant |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+NATURE du rôle actif
+
+et incitatif |
+
+SIREN
+
+de l'organisme
+
+de contrôle |
+
+RAISON sociale
+
+de l'organisme
+
+de contrôle |
+
+SIRET
+
+de l'entreprise
+
+ayant réalisé
+
+l'opération |
+
+Numéro
+
+de téléphone
+
+du bénéficiaire |
+
+Adresse de courriel
+
+du bénéficiaire |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+Montant du rôle actif
+
+et incitatif (€) |
+
+Commentaires |
+
+Le cas échéant, numéro d'immatriculation du syndicat de copropriétaires bénéficiaire de l'opération |
+
+Raison sociale
+
+du mandataire assurant
+
+le rôle actif et incitatif |
+
+Numéro SIREN du mandataire assurant le rôle actif et incitatif |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite et fin du tableau
+
+Dans le cas d'une
+
+bonification Coup de pouce Chauffage, numéro d'agrément de la pompe à chaleur |
+
+Coût de l'opération (€ HT) |
+
+Coût de l'opération (€ TTC) |
+
+Montant des aides
+
+financières
+
+hors CEE (€) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 Opération n° BAR-TH-172
 
@@ -3884,7 +4414,7 @@ La PAC est installée et mise en service pour s'assurer de son bon fonctionnemen
 
 Ne donnent pas lieu à la délivrance de certificats d'économies d'énergie au titre de la présente fiche, les PAC associées à un autre système de chauffage et les PAC utilisées uniquement pour le chauffage de l'eau chaude sanitaire.
 
-La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-101 Chauffe-eau solaire individuel (France métropolitaine) , BAR-TH-124 Chauffe-eau solaire individuel (Outre-mer) , BAR-TH-143 Système solaire combiné (France métropolitaine) , BAR-TH-148 Chauffe-eau thermodynamique à accumulation et BAR-TH-168 Dispositif solaire thermique (France métropolitaine) .
+La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-101 "Chauffe-eau solaire individuel (France métropolitaine)", BAR-TH-124 "Chauffe-eau solaire individuel (Outre-mer)", BAR-TH-143 "Système solaire combiné (France métropolitaine)", BAR-TH-148 "Chauffe-eau thermodynamique à accumulation" et BAR-TH-168 "Dispositif solaire thermique (France métropolitaine)".
 
 La présente fiche s'applique aux opérations engagées jusqu'au 31 décembre 2030.
 
@@ -3894,7 +4424,7 @@ La mise en place est réalisée par un professionnel.
 
 Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 5° (dans le cas d'une PAC assurant uniquement le chauffage du logement) ou du 5° et du 6° (dans le cas d'une PAC assurant le chauffage du logement et de l'eau chaude sanitaire) du I de l'article 1er du décret précité.
 
-L'efficacité énergétique saisonnière pour le chauffage des locaux (Etas) de la PAC selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013 (pour des conditions climatiques moyennes définies par le règlement susmentionné), déterminée selon l'application de la PAC installée et selon le type d'eau circulant dans le capteur (eau glycolée ou eau de nappe), est supérieure ou égale à :
+L'efficacité énergétique saisonnière pour le chauffage des locaux (Etas) de la PAC selon le règlement (EU) n° 813/2013 de la commission du 2 août 2013 (pour des conditions climatiques moyennes définies par le règlement susmentionné), déterminée selon l'application de la PAC installée et selon le type d'eau circulant dans le capteur (eau glycolée ou eau de nappe), est supérieure ou égale à :
 
 - 126 % pour une application basse température au sens du règlement susmentionné ;
 
@@ -3908,13 +4438,13 @@ Pour les PAC assurant uniquement le chauffage :
 
 - pour les émetteurs de type : plancher chauffant, plafond chauffant et mur chauffant et les émetteurs localisés du type ventilo-convecteurs à eau la pompe à chaleur installée est d'application basse température et l'Etas à 35 °C (pour des conditions climatiques moyennes définies par le règlement susmentionné) est à considérer ;
 
-- pour tous les autres types d'émetteurs, y compris les solutions mixtes (ex. : radiateurs et plancher chauffant) ainsi que les radiateurs dits basse température à régime d'eau 45 °C, la PAC installée est d'application moyenne ou haute température et l'Etas à 55 °C (pour des conditions climatiques moyennes définies par le règlement susmentionné) est à considérer.
+- pour tous les autres types d'émetteurs, y compris les solutions mixtes (ex. : radiateurs et plancher chauffant) ainsi que les radiateurs dits "basse température" à régime d'eau 45 °C, la PAC installée est d'application moyenne ou haute température et l'Etas à 55 °C (pour des conditions climatiques moyennes définies par le règlement susmentionné) est à considérer.
 
 Pour les PAC assurant le chauffage et la production d'eau chaude sanitaire et pour toute association de système déporté à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, la PAC installée est d'application moyenne ou haute température et l'Etas à 55 °C (pour des conditions climatiques moyennes définies par le règlement susmentionné) est à considérer.
 
-Pour un captage d'énergie sur eau souterraine, la pompe à chaleur installée est d'application eau/eau, et l'Etas à considérer est celui correspondant à une température de source de + 10 °C/+ 7 °C.
+Pour un captage d'énergie sur eau souterraine, la pompe à chaleur installée est d'application eau/eau, et l'Etas à considérer est celui correspondant à une température de source de +10 °C / +7 °C.
 
-Pour les autres types de captage d'énergie, la pompe à chaleur installée est d'application eau glycolée/eau, et l'Etas à considérer est celui correspondant à une température de source de 0 °C/- 3 °C.
+Pour les autres types de captage d'énergie, la pompe à chaleur installée est d'application eau glycolée/eau, et l'Etas à considérer est celui correspondant à une température de source de 0 °C / -3 °C.
 
 La PAC est équipée d'un régulateur relevant de l'une des classes IV, V, VI, VII ou VIII telles que définies au paragraphe 6.1 de la communication de la Commission 2014/C 207/02.
 
@@ -3922,37 +4452,37 @@ Le professionnel rédige une note de dimensionnement du générateur par rapport
 
 La preuve de la réalisation de l'opération mentionne :
 
-- la mise en place d'une pompe à chaleur de type eau/eau ou eau glycolée/eau avec ses marque et référence ; et
+- la mise en place d'une pompe à chaleur de type eau/eau ou eau glycolée/eau avec ses marque et référence ;
 
-- le type d'application choisi pour l'installation de la pompe à chaleur (basse température ; moyenne ou haute température) ; et
+- et le type d'application choisi pour l'installation de la pompe à chaleur (basse température ; moyenne ou haute température) ;
 
-- le type d'eau circulant dans le capteur (eau glycolée ou eau de nappe) ; et
+- et le type d'eau circulant dans le capteur (eau glycolée ou eau de nappe) ;
 
-- l'usage de la pompe à chaleur (chauffage ; chauffage et eau chaude sanitaire) ;
+- et l'usage de la pompe à chaleur (chauffage ; chauffage et eau chaude sanitaire) ;
 
-- l'efficacité énergétique saisonnière (Etas) selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013 (pour des conditions climatiques moyennes) déterminée selon l'application de la PAC installée ; et
+- et l'efficacité énergétique saisonnière (Etas) selon le règlement (EU) n° 813/2013 de la commission du 2 août 2013 (pour des conditions climatiques moyennes) déterminée selon l'application de la PAC installée ;
 
-- l'installation d'un régulateur ainsi que la classe de celui-ci ; et
+- et l'installation d'un régulateur ainsi que la classe de celui-ci ;
 
-- dans le cas d'un système déporté à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, la mise en place du système déporté avec ses marque et référence.
+- et, dans le cas d'un système déporté à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, la mise en place du système déporté avec ses marque et référence.
 
-A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'un équipement avec ses marque et référence et elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'un équipement avec ses marque et référence et elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/IEC 17065 : 2012 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Ce document indique :
 
-- que l'équipement de marque et référence mis en place est une pompe à chaleur de type eau/eau ou eau glycolée/eau ; et
+- que l'équipement de marque et référence mis en place est une pompe à chaleur de type eau/eau ou eau glycolée/eau ;
 
-- le type d'application choisi pour l'installation de la pompe à chaleur (basse température ; moyenne ou haute température) ; et
+- et le type d'application choisi pour l'installation de la pompe à chaleur (basse température ; moyenne ou haute température) ;
 
-- le type d'eau circulant dans le capteur (eau glycolée ou eau de nappe) ; et
+- et le type d'eau circulant dans le capteur (eau glycolée ou eau de nappe) ;
 
-- l'usage de la pompe à chaleur (chauffage ; chauffage et eau chaude sanitaire) ; et
+- et l'usage de la pompe à chaleur (chauffage ; chauffage et eau chaude sanitaire) ;
 
-- l'efficacité énergétique saisonnière (Etas) selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013 (pour des conditions climatiques moyennes), déterminée selon l'application de la PAC installée ; et
+- et l'efficacité énergétique saisonnière (Etas) selon le règlement (EU) n° 813/2013 de la commission du 2 août 2013 (pour des conditions climatiques moyennes), déterminée selon l'application de la PAC installée ;
 
-- que l'équipement est équipé d'un régulateur, en précisant la classe de celui-ci ; et
+- et que l'équipement est équipé d'un régulateur, en précisant la classe de celui-ci ;
 
-- dans le cas d'un système déporté à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, la mise en place du système déporté avec ses marque et référence.
+- et, dans le cas d'un système déporté à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, la mise en place du système déporté avec ses marque et référence.
 
 En cas de mention d'une date de validité, ce document est considéré comme valable jusqu'à un an après sa date de fin de validité.
 
@@ -3962,7 +4492,7 @@ Les documents justificatifs spécifiques à l'opération sont :
 
 - la décision de qualification ou de certification du professionnel délivrée selon les mêmes exigences que celles prévues à l'article 2 du décret susvisé ;
 
-- la fiche d'information sur le produit de la PAC, mentionnée à l'article 3 du règlement (UE) 2017/1369 établissant un cadre pour l'étiquetage énergétique (dont le texte d'application spécifique au chauffage centralisé est le règlement écoconception 811/2013).
+- la fiche d'information sur le produit de la PAC, mentionnée à l'article 3 du Règlement (UE) 2017/1369 établissant un cadre pour l'étiquetage énergétique (dont le texte d'application spécifique au chauffage centralisé est le règlement écoconception 811/2013).
 
 4. Durée de vie conventionnelle
 
@@ -3976,7 +4506,7 @@ saisonnière (Etas) |
 
 Montant kWhc |
 
-× |
+X |
 
 Facteur correctif selon la surface chauffée |
 
@@ -3984,15 +4514,13 @@ Surface chauffée S en m2
 
 |
 
-× |
+X |
 
-Facteur correctif selon
-
-la zone géographique |
+Facteur correctif selon la zone géographique |
 
 Zone géographique |
 
-111%≤ Etas < 170% |
+111%≤ Etas<170% |
 
 101 400 |
 
@@ -4028,103 +4556,609 @@ H2 |
 
 H3 |
 
-Nota. - La surface chauffée prise en compte est la surface habitable, au sens de l'article R. 156-1 du code de la construction et de l'habitation, chauffée par la PAC installée et correspond aux surfaces des pièces disposant d'un émetteur de chaleur alimenté par la PAC installée.
+NB : La surface chauffée prise en compte est la surface habitable, au sens de l'article R. 156-1 du code de la construction et de l'habitation, chauffée par la PAC installée et correspond aux surfaces des pièces disposant d'un émetteur de chaleur alimenté par la PAC installée.
 
-Annexe 1 à la fiche d'opération standardisée BAR-TH-172 définissant le contenu de la partie A de l'attestation sur l'honneur
+Annexe 1 à la fiche d'opération standardisée BAR-TH-172, définissant le contenu de la partie A de l'attestation sur l'honneur
 
-A. - BAR-TH-172 (v. A78.4) : Mise en place d'une pompe à chaleur (PAC) de type eau/eau ou eau glycolée/eau.
+A/ BAR-TH-172 (v. A82.5) : Mise en place d'une pompe à chaleur (PAC) de type eau/eau ou eau glycolée/eau.
 
-* Date d'engagement de l'opération (ex : date d'acceptation du devis) :
+*Date d'engagement de l'opération (ex : date d'acceptation du devis) :
 
 Date de preuve de réalisation de l'opération (ex : date de la facture) :
 
 Référence de la facture :
 
-* Pour les personnes morales, nom du site des travaux ou nom de la copropriété :
+*Pour les personnes morales, nom du site des travaux ou nom de la copropriété :
 
-* Adresse des travaux :
+*Adresse des travaux :
 
 Complément d'adresse :
 
-* Code postal :
+*Code postal :
 
-* Ville :
+*Ville :
 
-* Bâtiment résidentiel existant depuis plus de 2 ans à la date d'engagement de l'opération : □ OUI □ NON
+*Bâtiment résidentiel existant depuis plus de 2 ans à la date d'engagement de l'opération : □ OUI □ NON
 
-* Le logement est une maison individuelle : □ OUI □ NON
+*Le logement est une maison individuelle : □ OUI □ NON
 
-* Le logement est occupé à titre de résidence principale : □ OUI □ NON
+*Le logement est occupé à titre de résidence principale : □ OUI □ NON
 
-* Surface chauffée par la PAC installée (m2) :
+*Surface chauffée par la PAC installée (m2) :
 
 Caractéristiques de la pompe à chaleur (PAC) :
 
-* La pompe à chaleur est de type eau/eau ou eau glycolée/eau et est installée pour une application :
+*La pompe à chaleur est de type eau/eau ou eau glycolée/eau et est installée pour une application :
 
-□ A basse température ;
+□ à basse température
 
-□ A moyenne ou haute température.
+□ à moyenne ou haute température
 
-Nota 1. - Pour les PAC assurant uniquement le chauffage, une application à basse température est une application dans laquelle un dispositif de chauffage des locaux par pompe à chaleur fournit sa puissance calorifique déclarée pour une température de sortie de l'échangeur thermique intérieur de 35 °C.
+NB1 : Pour les PAC assurant uniquement le chauffage, une application à basse température est une application dans laquelle un dispositif de chauffage des locaux par pompe à chaleur fournit sa puissance calorifique déclarée pour une température de sortie de l'échangeur thermique intérieur de 35 °C.
 
 Une application à moyenne ou haute température est une application dans laquelle un dispositif de chauffage des locaux par pompe à chaleur fournit sa puissance calorifique déclarée pour une température de sortie de l'échangeur thermique intérieur d'au moins 55 °C.
 
 Une solution mixte de chauffage des locaux associe différents types d'émetteurs de chauffage fonctionnant à basse température pour les uns et à moyenne ou haute température pour les autres ; elle est alors considérée comme une application à moyenne ou haute température.
 
-Nota 2. - Pour les PAC assurant le chauffage et la production de l'eau chaude sanitaire et pour toute association de système déporté à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, la PAC installée est d'application moyenne ou haute température.
+NB2 : Pour les PAC assurant le chauffage et la production de l'eau chaude sanitaire et pour toute association de système déporté à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, la PAC installée est d'application moyenne ou haute température.
 
-* Type d'eau circulant dans le capteur : □ eau glycolée □ eau de nappe
+*Type d'eau circulant dans le capteur : □ eau glycolée □ eau de nappe
 
-* La PAC est équipée d'un régulateur : □ OUI □ NON
+*La PAC est équipée d'un régulateur : □ OUI □ NON
 
-* Classe du régulateur :
+*Classe du régulateur :
 
-* Efficacité énergétique saisonnière (Etas) selon le type d'eau circulant dans le capteur (eau glycolée ou eau/de nappe) (en %) :
+*Efficacité énergétique saisonnière (Etas) selon le type d'eau circulant dans le capteur (eau glycolée ou eau/de nappe) (en %) :
 
-L'efficacité énergétique saisonnière (Etas) est calculée selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013 (pour des conditions climatiques moyennes définies par le règlement susmentionné).
+L'efficacité énergétique saisonnière (Etas) est calculée selon le règlement (EU) n° 813/2013 de la commission du 2 août 2013 (pour des conditions climatiques moyennes définies par le règlement susmentionné).
 
-Nota 3. - L'efficacité énergétique saisonnière prise en compte est celle de la pompe à chaleur seule pour les besoins de chauffage des locaux (hors dispositif de régulation).
+NB3 : L'efficacité énergétique saisonnière prise en compte est celle de la pompe à chaleur seule pour les besoins de chauffage des locaux (hors dispositif de régulation).
 
-* Usage couvert par la PAC :
+*Usage couvert par la PAC :
 
-□ Chauffage ;
+□ Chauffage
 
-□ Chauffage et eau chaude sanitaire.
+□ Chauffage et eau chaude sanitaire
 
-* La PAC est associée à un système déporté, permettant la production de l'eau chaude sanitaire par celle-ci : □ OUI □ NON
+*La PAC est associée à un système déporté, permettant la production de l'eau chaude sanitaire par celle-ci :
 
-* Dans le cas de systèmes déportés à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, le système déporté consomme de l'énergie pour la production de l'eau chaude sanitaire, hors systèmes déportés intégrant une résistance électrique à des fins de secours ou de cycle anti-légionelle, et pour lesquels la régulation priorise la pompe à chaleur pour la production de l'eau chaude sanitaire : □ OUI □ NON
+□ OUI □ NON
 
-* Une note de dimensionnement a été remise au bénéficiaire : □ OUI □ NON
+*Dans le cas de systèmes déportés à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, le système déporté consomme de l'énergie pour la production de l'eau chaude sanitaire, hors systèmes déportés intégrant une résistance électrique à des fins de secours ou de cycle anti-légionelle, et pour lesquels la régulation priorise la pompe à chaleur pour la production de l'eau chaude sanitaire : □ OUI □ NON
+
+*Une note de dimensionnement a été remise au bénéficiaire : □ OUI □ NON
 
 A ne remplir que si les marque et référence de la pompe à chaleur ne sont pas mentionnées sur la preuve de réalisation de l'opération :
 
-* Marque :
+*Marque :
 
-* Référence :
+*Référence :
 
 Dans le cas de systèmes déportés à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, à ne remplir que si les marque et référence du système déporté ne sont pas mentionnées sur la preuve de réalisation de l'opération :
 
-* Marque :
+*Marque :
 
-* Référence :
+*Référence :
 
-Nota 4. - La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-101 Chauffe-eau solaire individuel (France métropolitaine) , BAR-TH-124 Chauffe-eau solaire individuel (Outre-mer) , BAR-TH-143 Système solaire combiné (France métropolitaine) , BAR-TH-148 Chauffe-eau thermodynamique à accumulation et BAR-TH-168 Dispositif solaire thermique (France métropolitaine) .
+NB4 : La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-101 "Chauffe-eau solaire individuel (France métropolitaine)", BAR-TH-124 "Chauffe-eau solaire individuel (Outre-mer)", BAR-TH-143 "Système solaire combiné (France métropolitaine)", BAR-TH-148 "Chauffe-eau thermodynamique à accumulation" et BAR-TH-168 "Dispositif solaire thermique (France métropolitaine)".
 
 Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 5° (dans le cas d'une PAC assurant uniquement le chauffage du logement) ou du 5° et du 6° (dans le cas d'une PAC assurant le chauffage du logement et de l'eau chaude sanitaire) du I de l'article 1er du décret précité.
 
 Identité du professionnel titulaire du signe de qualité ayant réalisé l'opération, s'il n'est pas le signataire de cette attestation (sous-traitant par exemple) :
 
-* Nom
+*Nom
 
-* Prénom
+*Prénom
 
-* Raison sociale :
+*Raison sociale :
 
-* N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
+*N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-* Le numéro du modèle de la PAC, défini à l'article 2 du règlement (UE) 2017/1369 du Parlement européen et du Conseil :
+* La référence du modèle de la PAC, défini à l'article 2 du règlement (UE) 2017/1369 du Parlement européen et du Conseil :
+
+*Dans le cas d'une pompe à chaleur eau/eau ou eau glycolée/eau bénéficiant de la bonification prévue au 1° du IV de l'article 3-6 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, numéro d'agrément du modèle de la pompe à chaleur :
+
+* Le coût de l'opération lié à la présente partie A s'élève à : € HT et € TTC
+
+NB 5 : Le coût de l'opération s'entend, selon la nature de l'opération, comme le coût de l'investissement ou du service lié à la mise en œuvre de l'opération, incluant, le cas échéant, les coûts d'installation. Lorsqu'il s'agit d'un service, il est indiqué, selon le cas, le coût annuel du service ou le coût ponctuel du service. Toutefois, lorsque l'opération consiste en la location d'un équipement ou d'un véhicule, il convient d'indiquer le coût mensuel de la location. Seuls les coûts éligibles au dispositif des certificats d'économies d'énergie sont comptabilisés quand ils sont disponibles ou, à défaut, le coût total facturé.
+
+* L'ensemble des aides financières, hors incitation financière du dispositif des certificats d'économies d'énergie, octroyées par des organismes publics au titre de l'opération liée à la présente partie A, est, à la date de la présente attestation sur l'honneur, d'un montant prévisionnel total de : €.
+
+Annexe 2 à la fiche d'opération standardisée BAR-TH-172 définissant le modèle de tableau récapitulatif des opérations d'économies d'énergie
+
+Personnes physiques
+
+RAISON
+
+sociale du demandeur |
+
+SIREN
+
+du
+
+demandeur |
+
+RÉFÉRENCE EMMY
+
+de la demande |
+
+RÉFÉRENCE interne
+
+de l'opération |
+
+NOM
+
+du
+
+bénéficiaire
+
+de l'opération |
+
+PRÉNOM
+
+du bénéficiaire de l'opération |
+
+ADRESSE
+
+de l'opération |
+
+CODE
+
+postal sans Cedex |
+
+VILLE |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+VOLUME CEE
+
+"hors précarité énergétique"
+
+(kWh cumac) |
+
+VOLUME CEE
+
+"précarité énergétique"
+
+(kWh cumac) |
+
+RÉFÉRENCE
+
+de la fiche
+
+d'opération standardisée |
+
+DATE
+
+d'engagement
+
+de l'opération |
+
+DATE
+
+de la facture |
+
+NATURE
+
+de la
+
+bonification |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+SIREN du professionnel |
+
+RAISON sociale
+
+du professionnel |
+
+SIREN
+
+du sous-traitant |
+
+RAISON sociale
+
+du sous-traitant |
+
+NATURE du rôle actif et incitatif |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+SIREN de l'organisme
+
+de contrôle |
+
+RAISON sociale
+
+de l'organisme de contrôle |
+
+SIRET de l'entreprise ayant réalisé l'opération |
+
+Numéro de téléphone du bénéficiaire |
+
+Adresse de courriel du bénéficiaire |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+Montant du rôle actif et incitatif (€) |
+
+Commentaires |
+
+Raison sociale
+
+du mandataire assurant
+
+le rôle actif et incitatif |
+
+Numéro SIREN
+
+du mandataire assurant
+
+le rôle actif et incitatif |
+
+Dans le cas d'une bonification Coup de pouce Chauffage, numéro d'agrément de la pompe à chaleur |
+
+Coût de l'opération (€ HT) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite et fin du tableau
+
+Coût de l'opération (€ TTC) |
+
+Montant des aides financières hors CEE (€) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Personnes morales
+
+RAISON
+
+sociale
+
+du demandeur |
+
+SIREN
+
+du demandeur |
+
+RÉFÉRENCE
+
+EMMY
+
+de la demande |
+
+RÉFÉRENCE
+
+interne
+
+de l'opération |
+
+NOM
+
+du site bénéficiaire
+
+de l'opération |
+
+ADRESSE
+
+de l'opération |
+
+CODE
+
+postal sans Cedex |
+
+VILLE |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+RAISON
+
+sociale
+
+du bénéficiaire
+
+de l'opération |
+
+SIREN |
+
+ADRESSE du siège social
+
+du bénéficiaire de l'opération |
+
+CODE
+
+postal sans Cedex |
+
+VILLE |
+
+VOLUME CEE
+
+"hors précarité
+
+énergétique"
+
+(kWh cumac) |
+
+VOLUME CEE
+
+"précarité
+
+énergétique"
+
+(kWh cumac) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+RÉFÉRENCE
+
+de la fiche
+
+d'opération standardisée |
+
+DATE
+
+d'engagement
+
+de l'opération |
+
+DATE
+
+d'achèvement
+
+de l'opération |
+
+NATURE
+
+de la
+
+bonification |
+
+SIREN
+
+du
+
+professionnel |
+
+RAISON sociale
+
+du professionnel |
+
+SIREN
+
+du
+
+sous-traitant |
+
+RAISON sociale
+
+du sous-traitant |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+NATURE du rôle actif
+
+et incitatif |
+
+SIREN
+
+de l'organisme
+
+de contrôle |
+
+RAISON sociale
+
+de l'organisme
+
+de contrôle |
+
+SIRET
+
+de l'entreprise
+
+ayant réalisé l'opération |
+
+Numéro
+
+de téléphone
+
+du bénéficiaire |
+
+Adresse de courriel
+
+du bénéficiaire |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+Montant du rôle actif
+
+et incitatif (€) |
+
+Commentaires |
+
+Le cas échéant, numéro d'immatriculation du syndicat de copropriétaires bénéficiaire de l'opération |
+
+Raison sociale
+
+du mandataire assurant
+
+le rôle actif et incitatif |
+
+Numéro SIREN du mandataire assurant le rôle actif et incitatif |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite et fin du tableau
+
+Dans le cas d'une
+
+bonification Coup de pouce Chauffage, numéro d'agrément de la pompe à chaleur |
+
+Coût de l'opération (€ HT) |
+
+Coût de l'opération (€ TTC) |
+
+Montant
+
+des aides financières
+
+hors CEE (€) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 - Système de régulation par programmation horaire pièce par pièce / Fiche d’opération standardisée BAR-TH-173
 
@@ -4238,4 +5272,4 @@ https://www.legifrance.gouv.fr/download/pdf?id=5gAfOAZyNgIh7Fm-Ar17lvaib6Ml9xQU-
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 23 février 2026 (NOR : ECOR2605173A), les dispositions des fiches d'opérations standardisées BAR-EQ-110 "Luminaire à modules LED avec dispositif de contrôle pour les parties communes", BAT-EQ-127 "Luminaire à modules LED" et IND-BA-116 "Luminaires à modules LED", dans leurs différentes versions, s'appliquent aux opérations incluses dans une liste transmise, dans un délai de dix jours calendaires à compter de la date de publication de l'arrêté précité, par le demandeur de certificats au ministre chargé de l'énergie, suivant les modèles intitulés respectivement "Modèle Tableau de recensement des engagements BAR-EQ-110", "Modèle Tableau de recensement des engagements BAT-EQ-127" et "Modèle Tableau de recensement des engagements IND-BA-116", établis par la direction générale de l'énergie et du climat et mis à disposition sur le site internet du ministère. Toutefois, s'agissant uniquement des opérations dont les bénéficiaires sont l'Etat, les collectivités territoriales, les groupements de collectivités territoriales et leurs établissements publics, les listes relatives à ces opérations peuvent être transmises dans un délai de vingt et un jours calendaires à compter de la date de publication de l'arrêté précité.
+Conformément à l'article 4 de l'arrêté du 29 mai 2026 (NOR : ECOR2612353A), au I de l'article 8 de l'arrêté du 17 août 2026 (NOR : ECOR2620460A) et à l'article 4 de l'arrêté du 17 août 2026 (NOR : ECOR2620461A), ces dispositions, dans leur rédaction résultant des arrêtés précités, entrent en vigueur le 1er septembre 2026 et s'appliquent aux opérations engagées à compter de cette date.

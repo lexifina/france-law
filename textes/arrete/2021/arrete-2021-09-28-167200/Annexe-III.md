@@ -190,6 +190,8 @@ b) Pour les autres types de captage d'énergie (PAC eau glycolée/eau), l'Etas c
 
 12. Dans le cadre du Coup de pouce Chauffage , la dépose de l'équipement existant n'est pas mentionnée sur la preuve de réalisation de l'opération en indiquant l'énergie de chauffage (charbon, fioul ou gaz) et le type d'équipement déposé.
 
+12.bis) Dans le cadre du Coup de pouce Chauffage, le modèle de pompe à chaleur installée ne détient pas, à la date d'engagement de l'opération, l'agrément prévu par le décret du n° 2026-413 du 29 mai 2026 fixant les conditions d'agrément des modèles de pompes à chaleur en matière de qualité et de résilience industrielle.
+
 L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : type de logement (pour les opérations relevant de la fiche d'opération standardisée BAR-TH-171), efficacité énergétique saisonnière, zone climatique, surface chauffée ; lorsque la surface chauffée mesurée par le bureau de contrôle est inférieure à 90 m2 pour une maison ou à 60 m2 pour un appartement, un écart de surface chauffée conduit à un classement non satisfaisant si l'écart entre la surface déclarée et la surface mesurée est supérieur à 10 % (écart = (surface déclarée - surface mesurée)/surface mesurée*100).
 
 Nota. - La surface chauffée est la surface habitable, au sens de l'article R. 156-1 du code de la construction et de l'habitation, chauffée par la PAC installée et correspond aux surfaces des pièces disposant d'un émetteur de chaleur alimenté par la PAC installée.
@@ -424,7 +426,9 @@ Les critères suivants doivent conduire à un classement “ non satisfaisant �
 
 NB.-L'audit énergétique peut être complété par l'attestation définie à l'article 4 de l'arrêté du 13 août 2025 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au diagnostic de performance énergétique. Dans ce cas, les classes du logement avant et après travaux mentionnées sur l'attestation se substituent à celles de l'audit, pour un même scénario de travaux.
 
-7) Des non-qualités au regard des référentiels de contrôle ou des non-qualités manifestes sont relevées, susceptibles, notamment, de remettre en cause la classe du bâtiment rénové, la pérennité des travaux ou les émissions annuelles de gaz à effet de serre après rénovation, ou susceptibles de remettre en cause la sécurité des installations ou l'usage normal des lieux ; à cette fin, l'organisme d'inspection se fonde, le cas échéant, sur les listes des éléments à contrôler de la présente annexe III correspondant aux travaux réalisés geste par geste, à l'exception des parties A. 1.1, B. 1.1.1, C. I. A, D. I. A et F. I. A.
+7) Des non-qualités au regard des référentiels de contrôle ou des non-qualités manifestes sont relevées, susceptibles, notamment, de remettre en cause la classe du bâtiment rénové, la pérennité des travaux ou les émissions annuelles de gaz à effet de serre après rénovation, ou susceptibles de remettre en cause la sécurité des installations ou l'usage normal des lieux ; à cette fin, l'organisme d'inspection se fonde, le cas échéant, sur les listes des éléments à contrôler de la présente annexe III correspondant aux travaux réalisés geste par geste, à l'exception des parties A. 1.1, B. 1.1.1, C. I. A, D. I. A et F. I. A ;
+
+8) Pour les opérations relevant de la fiche BAR-TH-174, le système de chauffage ou de production d'eau chaude sanitaire intègre au moins un équipement susceptible d'utiliser des combustibles fossiles. Cette disposition ne s'applique pas aux équipements de raccordement à un réseau de chaleur ou de froid.
 
 E ter. Fiche d'opération standardisée BAR-TH-177 " Rénovation globale d'un bâtiment résidentiel collectif (France métropolitaine) " :
 
@@ -1910,31 +1914,35 @@ Les critères suivants doivent conduire à un classement “ non satisfaisant �
 
 L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : η, le rendement du système de stockage (en %) ; C, la capacité maximale de stockage de chaleur du système (en kWh) ; Nc, le nombre annuel de cycles équivalents à 100 % de la capacité maximale du système de stockage, effectués sur une année représentative. Il s'agit des valeurs indiquées dans l'étude de dimensionnement.
 
-AT. Fiche d'opération standardisée TRA-EQ-114 "Achat ou location d'un véhicule léger électrique neuf ou opération de rétrofit électrique d'un véhicule léger, par une collectivité locale ou une autre personne morale" concernant les opérations bonifiées :
+AT. Fiche d'opération standardisée TRA-EQ-114 "Achat ou location d'un véhicule léger électrique neuf ou opération de rétrofit électrique d'un véhicule léger, par une collectivité locale ou une autre personne morale" concernant les opérations bonifiées
 
-AT. I Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de l'opération, les critères suivants doivent conduire à un classement "non satisfaisant" de l'opération pour les contrôles sur le lieu des opérations :
+AT.I Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de l'opération, les critères suivants doivent conduire à un classement "non satisfaisant" de l'opération pour les contrôles sur le lieu des opérations
 
-1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ;
+1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération.
 
-2. La preuve de réalisation de l'opération ne comporte pas les informations prévues par la fiche TRA-EQ-114 (achat ou location de véhicules utilitaires légers électriques neufs et numéro d'immatriculation des véhicules concernés, identification des véhicules précédemment affectés à la démonstration le cas échéant) ;
+2. La preuve de réalisation de l'opération ne comporte pas les informations prévues par la fiche TRA-EQ-114 (achat ou location de véhicules légers électriques neufs et numéro d'immatriculation des véhicules concernés, identification des véhicules précédemment affectés à la démonstration le cas échéant).
 
-3. Le véhicule n'a pas été acheté ou loué neuf ;
+3. Le véhicule n'a pas été acheté ou loué neuf.
 
-4. Dans le cas d'une location, la durée du contrat de location est inférieure à vingt-quatre mois, hors reconduction tacite ;
+4. Dans le cas d'une location, la durée du contrat de location est inférieure à vingt-quatre mois, hors reconduction tacite.
 
-5. Dans le cas d'un bénéficiaire, autre qu'une collectivité, gérant un parc total ou filiale d'un groupe qui gère un parc total supérieur à 100 véhicules automobiles, l'année de l'achat ou de la location ne correspond pas à celle fournie par le demandeur ;
+5. Dans le cas d'un achat, le bénéficiaire indiqué par le demandeur ne correspond pas au propriétaire mentionné sur le certificat d'immatriculation.
 
-6. Dans le cas d'un achat, le bénéficiaire indiqué par le demandeur ne correspond pas au propriétaire mentionné sur le certificat d'immatriculation ;
+6. Le véhicule acheté ou loué par le bénéficiaire ne correspond pas aux informations fournies par le demandeur de certificats (numéro d'immatriculation ; numéro d'identification ; type variante version ; type d'acquisition : achat ou location ; type de véhicule : véhicule léger neuf électrique de catégorie M1 ou N1) ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation du véhicule.
 
-7. La qualité du bénéficiaire (loueur ou vendeur de véhicules ; collectivité locale ou groupement de collectivités locales gérant un parc supérieur à 20 véhicules automobiles ; personne morale autre que collectivité locale, gérant un parc total ou filiale d'un groupe gérant un parc total supérieur à 100 véhicules automobiles ; autre personne morale) vérifiée par l'organisme d'inspection au moyen de tout document ne correspond pas à celle fournie par le demandeur de certificats ;
+6 bis. Dans le cas d'une bonification prévue par X de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, la mention "taxi" ne figure pas sur le certificat d'immatriculation du véhicule.
 
-8. Au moins l'un des véhicules achetés ou loués par le bénéficiaire ne correspond pas aux informations fournies par le demandeur de certificats (numéro d'immatriculation ; numéro d'identification ; type variante version ; type d'acquisition : achat ou location ; type de véhicule : véhicule utilitaire léger neuf électrique) ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation de chaque véhicule ;
+7. Dans le cas d'un véhicule précédemment affecté à la démonstration, la cession ou la prise en location n'intervient pas dans un délai compris entre trois et douze mois suivant sa première immatriculation ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation actuel et le demandeur de certificats une copie du précédent certificat d'immatriculation.
 
-9. Dans le cas d'un véhicule précédemment affecté à la démonstration, la cession ou la prise en location n'intervient pas dans un délai compris entre trois et douze mois suivant sa première immatriculation ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation actuel et le demandeur de certificats une copie du précédent certificat d'immatriculation ;
+8. Dans le cas d'une bonification prévue par l'article 4 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, l'adresse de livraison du véhicule ne correspond pas à une zone non interconnectée au réseau métropolitain continental de transport d'électricité.
 
-10. Dans le cas d'une bonification prévue par l'article 4 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, l'adresse de livraison du véhicule ne correspond pas à une zone non interconnectée au réseau métropolitain continental de transport d'électricité ;
+9. Dans le cas d'une bonification prévue par le III de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le véhicule ne vérifie pas, au moment de l'achèvement de l'opération, la condition relative au site de fabrication du véhicule mentionnée au III et complétée par le IX.
 
-11. Dans le cas d'une bonification prévue par le III de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le véhicule ne vérifie pas, au moment de l'achèvement de l'opération, la condition relative au site de fabrication du véhicule mentionnée au III et complétée par le IX.
+10. Dans le cas d'une bonification prévue par le 1° du X de l'article 3-7-3, de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le véhicule ne vérifie pas, au moment de l'achèvement de l'opération, la condition mentionnée au 3° de l'article D. 251-1 du code de l'énergie, un coût d'acquisition inférieur ou égal à 65 000 euros toutes taxes comprises (incluant le cas échéant le coût d'acquisition ou de location de la batterie) et une masse en ordre de marche inférieure à 2 400 kg.
+
+11. Dans le cas d'une bonification prévue par le 2° du X de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le véhicule ne vérifie pas, au moment de l'achèvement de l'opération, l'ensemble des conditions énoncées à l'alinéa précédent ou ne vérifie pas, au moment de l'achèvement de l'opération, la condition relative au site de fabrication du véhicule et au site de production de la batterie du véhicule mentionnée au 7° du IX, de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie.
+
+12. Dans le cas de la bonification prévue au 1° ou 2° du X de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le bénéficiaire ne détient pas une autorisation de stationnement.
 
 Les vérifications sont effectuées au lieu, désigné par le bénéficiaire, de disponibilité des pièces nécessaires au contrôle.
 
@@ -1942,15 +1950,17 @@ Aux fins du contrôle, le demandeur de certificats met à disposition de l'organ
 
 L'existence d'au moins un écart concernant au moins un des véhicules conduit à un résultat non satisfaisant du contrôle.
 
-AT. II Sur la base d'un contrôle par examen visuel des véhicules, les critères suivants doivent conduire à un classement "non satisfaisant" de l'opération pour les contrôles sur le lieu des opérations :
+AT.II Sur la base d'un contrôle par examen visuel des véhicules, les critères suivants doivent conduire à un classement "non satisfaisant" de l'opération pour les contrôles sur le lieu des opérations
 
-1. Le numéro d'identification du véhicule (VIN) (présent sur le châssis ou sur la plaque réglementaire constructeur) est différent du champ afférent sur le certificat d'immatriculation ;
+1. Le numéro d'identification du véhicule (VIN) (présent sur le châssis ou sur la plaque réglementaire constructeur) est différent du champ afférent sur le certificat d'immatriculation.
 
-2. La masse en charge maximale techniquement admissible (indiquée sur la plaque réglementaire constructeur) est différente du champ afférent sur le certificat d'immatriculation ;
+2. La masse en charge maximale techniquement admissible (indiquée sur la plaque réglementaire constructeur) est différente du champ afférent sur le certificat d'immatriculation.
 
-3. Le numéro de réception du véhicule (indiquée sur la plaque réglementaire constructeur) est différent du champ afférent sur le certificat d'immatriculation ;
+3. Le numéro de réception du véhicule (indiquée sur la plaque réglementaire constructeur) est différent du champ afférent sur le certificat d'immatriculation.
 
 4. Le véhicule n'est pas électrique.
+
+5. Dans le cas de la bonification prévue au 1° ou 2° du X de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le véhicule n'est pas équipé d'un taximètre.
 
 Les contrôles par examen visuel du véhicule sont réalisés sur un site convenu entre le bénéficiaire et l'organisme d'inspection. Dans le cas où l'opération concerne l'achat ou la location d'au plus 5 véhicules, les contrôles par examen visuel sont effectués sur l'ensemble des véhicules. Dans le cas où l'opération concerne l'achat ou la location de plus de 5 véhicules, les contrôles par examen visuel sont effectués sur un échantillon égal au moins à la valeur la plus importante entre 5 véhicules et 10 % des véhicules achetés ou loués.
 
@@ -1974,19 +1984,23 @@ AU. I. Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de
 
 6. Le véhicule acheté ou loué par le bénéficiaire ne correspond pas aux informations fournies par le demandeur de certificats (numéro d'immatriculation ; numéro d'identification ; type variante version ; type d'acquisition : achat ou location ; type de véhicule : véhicule léger neuf électrique de catégorie M1 ou N1) ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation du véhicule ;
 
+6 bis. Dans le cas d'une bonification prévue par le 5° ou 6° du VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, la mention "taxi" ne figure pas sur le certificat d'immatriculation du véhicule.
+
 7. Dans le cas d'un véhicule précédemment affecté à la démonstration, la cession ou la prise en location n'intervient pas dans un délai compris entre trois et douze mois suivant sa première immatriculation ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation actuel et le demandeur de certificats une copie du précédent certificat d'immatriculation ;
 
 8. Dans le cas d'une bonification prévue par l'article 4 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, l'adresse de livraison du véhicule ne correspond pas à une zone non interconnectée au réseau métropolitain continental de transport d'électricité ;
 
-9. Dans le cas d'une bonification prévue par le 1° du VIII de l'article 3-7-3, de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le véhicule ne vérifie pas, au moment de l'achèvement de l'opération, la condition mentionnée au 3° de l'article D. 251-1 du code de l'énergie, un coût d'acquisition inférieur ou égal à 47 000 euros toutes taxes comprises (incluant le cas échéant le coût d'acquisition ou de location de la batterie) et une masse en ordre de marche inférieure à 2 400 kg ;
+9. Dans le cas d'une bonification prévue par le 1°, ou respectivement le 5°, du VIII de l'article 3-7-3, de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le véhicule ne vérifie pas, au moment de l'achèvement de l'opération, la condition mentionnée au 3° de l'article D. 251-1 du code de l'énergie, un coût d'acquisition inférieur ou égal à 47 000 euros, ou respectivement 65 000 euros, toutes taxes comprises (incluant le cas échéant le coût d'acquisition ou de location de la batterie) et une masse en ordre de marche inférieure à 2 400 kg ;
 
-10. Dans le cas d'une bonification prévue par le 2° du VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le véhicule ne vérifie pas, au moment de l'achèvement de l'opération, l'ensemble des conditions énoncées à l'alinéa précédent ou ne vérifie pas, au moment de l'achèvement de l'opération, la condition relative au site de fabrication du véhicule et au site de production de la batterie du véhicule mentionnée au 2°, complété par le 5°, du VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie ;
+10. Dans le cas d'une bonification prévue par le 2° ou le 6° du VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le véhicule ne vérifie pas, au moment de l'achèvement de l'opération, l'ensemble des conditions énoncées à l'alinéa précédent ou ne vérifie pas, au moment de l'achèvement de l'opération, la condition relative au site de fabrication du véhicule et au site de production de la batterie du véhicule mentionnée au 2° ou au 6°, complété par le 5°, du VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie ;
 
 11. Dans le cas d'une bonification prévue par le IV de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le véhicule ne vérifie pas, au moment de l'achèvement de l'opération, la condition relative au site de fabrication du véhicule mentionnée au IV et complétée par le IX ;
 
 12. Dans le cas de la bonification au bénéfice des ménages des déciles 6 à 8 prévue au VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, l'attestation sur l'honneur, telle que définie à l'annexe 9, n'est pas complétée et signée, selon le cas, par le bénéficiaire ou son employeur ;
 
-13. Dans le cas de d'un véhicule pris en location et bénéficiant de la bonification au bénéfice des ménages des déciles 6 à 8 qui parcourent plus de 12 000 km par an prévue au VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, la preuve de réalisation n'indique pas la réalisation d'un kilométrage annuel supérieur à 12 000 km.
+13. Dans le cas de d'un véhicule pris en location et bénéficiant de la bonification au bénéfice des ménages des déciles 6 à 8 qui parcourent plus de 12 000 km par an prévue au VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, la preuve de réalisation n'indique pas la réalisation d'un kilométrage annuel supérieur à 12 000 km ;
+
+14. Dans le cas de la bonification prévue au 5° ou au 6° du VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le bénéficiaire ne détient pas une autorisation de stationnement.
 
 Les vérifications sont effectuées au lieu, désigné par le bénéficiaire, de disponibilité des pièces nécessaires au contrôle.
 
@@ -2002,7 +2016,9 @@ AU. II. Sur la base d'un contrôle par examen visuel des véhicules, les critèr
 
 3. Le numéro de réception du véhicule (indiquée sur la plaque réglementaire constructeur) est différent du champ afférent sur le certificat d'immatriculation ;
 
-4. Le véhicule n'est pas électrique.
+4. Le véhicule n'est pas électrique ;
+
+5. Dans le cas de la bonification prévue au 5° ou au 6° du VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le véhicule n'est pas équipé d'un taximètre.
 
 Les contrôles par examen visuel du véhicule sont réalisés sur un site convenu entre le bénéficiaire et l'organisme d'inspection. Les contrôles par examen visuel du véhicule sont effectués sur 15 % des opérations et sur l'ensemble des véhicules de l'opération.
 
@@ -2364,7 +2380,7 @@ BB.I.A. Critères directement liés à la fiche d'opération standardisée
 
 11. Les capteurs solaires ne sont pas certifiés selon les conditions de la fiche d'opération standardisée ;
 
-12. Dans le cadre du Coup de pouce chauffage, la dépose de l'équipement existant n'est pas mentionnée sur la preuve de réalisation de l'opération qui indique l'énergie de chauffage (charbon, fioul ou gaz) et le type d'équipement déposé.
+12. Dans le cadre du Coup de pouce chauffage, la mise en place du système solaire combiné conduit à installer ou conserver un système de chauffage et de production d'eau chaude sanitaire intégrant au moins un équipement susceptible d'utiliser des combustibles fossiles.
 
 BB.I.B. Autres critères
 
@@ -2434,8 +2450,192 @@ Conformément à l'article 2 de l'arrêté du 27 avril 2026 (NOR : ECOR2610165A)
 
 https://www.legifrance.gouv.fr/download/pdf?id=7XX36jvDAF4Hu-V8Gan8DNw-0m97ritIE4ihC6z26fY=
 
+BE. Fiche d'opération standardisée TRA-EQ-133 "Achat ou location d'une voiture particulière électrique d'occasion" :
+
+BE.I Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de l'opération, les critères suivants doivent conduire à un classement "non satisfaisant" de l'opération pour les contrôles sur le lieu des opérations :
+
+1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ;
+
+2. La preuve de réalisation de l'opération ne comporte pas les informations prévues par la fiche TRA-EQ-133 (achat ou location de voitures particulières électriques d'occasion et numéro d'immatriculation des véhicules concernés, coût d'acquisition, masse en ordre de marche) ;
+
+3. Le véhicule n'a pas été acheté ou loué d'occasion ;
+
+4. Dans le cas d'une location, la durée du contrat de location est inférieure à trente-six mois, hors reconduction tacite ;
+
+5. Dans le cas d'un achat, le bénéficiaire indiqué par le demandeur ne correspond pas au propriétaire mentionné sur le certificat d'immatriculation ;
+
+6. Le véhicule acheté ou loué par le bénéficiaire ne correspond pas aux informations fournies par le demandeur de certificats (numéro d'immatriculation ; numéro d'identification ; type variante version ; type d'acquisition ; type de véhicule) ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation du véhicule ;
+
+7. Le niveau d'état de santé de la batterie est inférieur à 80 %, ou à défaut l'autonomie résiduelle est inférieure à 80 % de l'autonomie établie lors de l'homologation du véhicule et inférieure à 200 km, évalués selon la méthodologie définie à l'annexe 8 de l'arrêté du 22 décembre 2014 définissant les opérations standardisées d'économies d'énergie ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection la copie du document attestant de l'état de santé de la batterie, ou à défaut de l'autonomie résiduelle du véhicule, fournie par le professionnel ;
+
+8. La date de première immatriculation du véhicule n'est pas comprise entre le 1er janvier 2017 et le 31 décembre 2023 ou n'a pas été faite en France ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une extraction du Système d'Immatriculation des Véhicules ou un certificat tel que défini par le V de l'article R. 322-4 du code de la route ;
+
+9. Dans le cas d'une bonification prévue par l'article 4 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, l'adresse de livraison du véhicule ne correspond pas à une zone non interconnectée au réseau métropolitain continental de transport d'électricité ;
+
+10. Dans le cas d'une bonification prévue par le XIII de l'article 3-7-3, de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le véhicule ne vérifie pas un coût d'acquisition inférieur ou égal à 25 000 euros toutes taxes comprises (incluant le cas échéant le coût d'acquisition ou de location de la batterie) et une masse en ordre de marche inférieure à 1 800 kg ;
+
+11. Dans le cas d'une bonification prévue par le XIII de l'article 3-7-3, de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie :
+
+- dans le cas où le bénéficiaire est un service autonomie à domicile visé à l'article L. 313-1-3 du code de l'action sociale et des familles, l'avis de situation au répertoire SIRENE, délivré par l'Institut national de la statistique et des études économiques (INSEE), ne mentionne pas le code d'activité principale exercée (APE) 8810A ou ne mentionne pas le numéro d'enregistrement au répertoire des établissements visé à l'arrêté du 23 septembre 2022 relatif à la mise en œuvre du "Répertoire national des établissements sanitaires, médico-sociaux et sociaux" (FINESS) ;
+
+- dans le cas où le bénéficiaire est un professionnel assurant des prestations d'aide et d'accompagnement dans les services autonomie à domicile mentionnés à l'article L. 313-1-3 du code de l'action sociale et des familles, il ne possède pas d'attestation valide d'enregistrement au répertoire partagé des professionnels de santé visé à l'arrêté du 23 septembre 2022 relatif à la mise en œuvre du "Répertoire partagé des professionnels intervenant dans le système de santé" (RPPS), en qualité "d'aide à domicile" ou "d'aide à domicile qualifiée" ou, à défaut, il ne possède pas une attestation signée par l'employeur accompagnée des trois derniers bulletins de paie ;
+
+- dans le cas où le bénéficiaire est un professionnel effectuant des services à la personne visés au 2° de l'article L. 7231-1 du code travail, il ne possède pas de copie du contrat de travail apportant la preuve de l'exercice en qualité d'aide à domicile, accompagnée des trois derniers bulletins de paie.
+
+Les vérifications sont effectuées au lieu, désigné par le bénéficiaire, de disponibilité des pièces nécessaires au contrôle.
+
+Aux fins du contrôle, le demandeur de certificats met à disposition de l'organisme d'inspection les documents justificatifs spécifiques relatifs à l'opération. L'absence d'un de ces documents justificatifs conduit à un résultat non satisfaisant du contrôle.
+
+L'existence d'au moins un écart concernant au moins un des véhicules conduit à un résultat non satisfaisant du contrôle.
+
+BE.II Sur la base d'un contrôle par examen visuel des véhicules, les critères suivants doivent conduire à un classement "non satisfaisant" de l'opération pour les contrôles sur le lieu des opérations :
+
+1. Le numéro d'identification du véhicule (VIN) (présent sur le châssis ou sur la plaque réglementaire constructeur) est différent du champ afférent sur le certificat d'immatriculation ;
+
+2. La masse en charge maximale techniquement admissible (indiquée sur la plaque réglementaire constructeur) est différente du champ afférent sur le certificat d'immatriculation ;
+
+3. Le numéro de réception du véhicule (indiquée sur la plaque réglementaire constructeur) est différent du champ afférent sur le certificat d'immatriculation ;
+
+4. Le véhicule n'est pas électrique.
+
+Les contrôles par examen visuel du véhicule sont réalisés sur un site convenu entre le bénéficiaire et l'organisme d'inspection. Les contrôles par examen visuel du véhicule sont effectués sur 15 % des opérations et sur l'ensemble des véhicules de l'opération.
+
+L'existence d'au moins un écart sur le véhicule contrôlé ou l'absence sur site du véhicule soumis à contrôle conduit à un résultat non satisfaisant du contrôle.
+
+BF. Fiche d'opération standardisée BAR-TH-101 Chauffe-eau solaire individuel (France métropolitaine) :
+
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en non satisfaisant .
+
+BF.I. Les critères suivants conduisent à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations
+
+BF.I.A Critères directement liés à la fiche d'opération standardisée :
+
+1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération, le cadre contribution défini à l'annexe 8 de l'arrêté du 4 septembre 2014 fixant la liste des éléments d'une demande de certificats d'économies d'énergie et les documents à archiver par le demandeur ;
+
+2. La preuve de réalisation de l'opération, ou, à défaut, le document issu du fabricant, ne comporte pas les mentions exigées par la fiche d'opération standardisée ;
+
+3. Le chauffe-eau solaire installé ne correspond pas aux mentions indiquées sur la preuve de la réalisation de l'opération ou, à défaut, aux mentions indiquées sur le document issu du fabricant, exigées par la fiche d'opération standardisée ;
+
+4. L'équipement installé n'est pas un chauffe-eau solaire individuel ;
+
+5. Le système installé est un système de type thermosiphon ou auto-stockeur ;
+
+6. Le système installé ne comprend pas l'un des équipements suivants : capteurs solaires thermiques vitrés, ballon d'eau chaude solaire et appoint ;
+
+7. Le chauffe-eau solaire est associé à un autre équipement destinée à la production de l'eau chaude sanitaire du logement.
+
+8. La surface hors-tout de capteurs solaires thermiques vitrés installés estimée est manifestement inférieure à 2 m2 ;
+
+9. Les capteurs solaires thermiques installés sont des capteurs hybrides ;
+
+10. Dans le cadre de la bonification prévue au I de l'article 3-9 de l'arrêté du 29 décembre 2014, la mise en place du chauffe-eau individuel combiné conduit à installer ou conserver un système de production d'eau chaude sanitaire intégrant au moins un équipement susceptible d'utiliser des combustibles fossiles.
+
+BF.II. Doivent être vérifiés lors des contrôles par contact :
+
+- l'existence d'un chauffe-eau solaire individuel installé ;
+
+- l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
+
+Si au moins l'un des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
+
+BG. Fiche d'opération standardisée BAR-TH-148 Chauffe-eau thermodynamique à accumulation :
+
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en non satisfaisant .
+
+BG.I. Les critères suivants conduisent à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations.
+
+BG.I.A. Critères directement liés à la fiche d'opération standardisée :
+
+1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération, le cadre contribution défini à l'annexe 8 de l'arrêté du 4 septembre 2014 fixant la liste des éléments d'une demande de certificats d'économies d'énergie et les documents à archiver par le demandeur ;
+
+2. La preuve de réalisation de l'opération, ou, à défaut, le document issu du fabricant, ne comporte pas les mentions exigées par la fiche d'opération standardisée ;
+
+3. Le chauffe-eau thermodynamique à accumulation installé ne correspond pas aux mentions indiquées sur la preuve de la réalisation de l'opération ou, à défaut, aux mentions indiquées sur le document issu du fabricant, exigées par la fiche d'opération standardisée ;
+
+4. L'équipement installé n'est pas un chauffe-eau thermodynamique à accumulation ;
+
+5. Le chauffe-eau thermodynamique est associé à un autre équipement destinée à la production de l'eau chaude sanitaire du logement ;
+
+6. L'efficacité énergétique pour le chauffage de l'eau pour le profil de soutirage déclaré est inférieure à l'efficacité énergétique minimale exigée par la fiche d'opération standardisée ;
+
+7. Dans le cadre de la bonification prévue au II de l'article 3-9 de l'arrêté du 29 décembre 2014, la mise en place du chauffe-eau thermodynamique à accumulation conduit à installer ou conserver un système de production d'eau chaude sanitaire intégrant au moins un équipement susceptible d'utiliser des combustibles fossiles.
+
+BG.II. Doivent être vérifiés lors des contrôles par contact
+
+- l'existence d'un chauffe-eau thermodynamique à accumulation installé ;
+
+- l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
+
+Si au moins l'un des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
+
+BH. Fiche d'opération standardisée BAR-TH-162 Système énergétique comportant des capteurs solaires photovoltaïques et thermiques à circulation d'eau (France métropolitaine) :
+
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en non satisfaisant .
+
+BH.I. Les critères suivants conduisent à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations.
+
+BH.I.A. Critères directement liés à la fiche d'opération standardisée :
+
+1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération, le cadre contribution défini à l'annexe 8 de l'arrêté du 4 septembre 2014 fixant la liste des éléments d'une demande de certificats d'économies d'énergie et les documents à archiver par le demandeur ;
+
+2. La preuve de réalisation de l'opération, ou, à défaut, le document issu du fabricant, ne comporte pas les mentions exigées par la fiche d'opération standardisée ;
+
+3. Le système énergétique comportant des capteurs solaires photovoltaïques et thermiques à circulation d'eau installé ne correspond pas aux mentions indiquées sur la preuve de la réalisation de l'opération ou, à défaut, aux mentions indiquées sur le document issu du fabricant, exigées par la fiche d'opération standardisée ;
+
+4. Les capteurs solaires installés ne sont pas des capteurs à la fois photovoltaïques et thermiques à circulation d'eau ;
+
+5. La surface hors-tout de capteurs installés estimée est manifestement inférieure à 6 m2 ;
+
+6. Le système installé ne permet pas de de récupérer la chaleur produite par les capteurs et de l'utiliser pour la préparation d'eau chaude sanitaire ou le chauffage ;
+
+7. Dans le cadre de la bonification prévue au III de l'article 3-9 de l'arrêté du 29 décembre 2014, la mise en place du système énergétique comportant des capteurs solaires photovoltaïques et thermiques à circulation d'eau conduit à installer ou conserver, selon l'usage du système énergétique installé, soit un système de chauffage, soit un système de production d'eau chaude sanitaire intégrant au moins un équipement susceptible d'utiliser des combustibles fossiles.
+
+BH.II. Doivent être vérifiés lors des contrôles par contact
+
+- l'existence d'un système énergétique comportant des capteurs solaires photovoltaïques et thermiques à circulation d'eau installé ;
+
+- l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
+
+Si au moins l'un des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
+
+BI. Fiche d'opération standardisée BAR-TH-168 Dispositif solaire thermique (France métropolitaine) :
+
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en non satisfaisant .
+
+BI.I. Les critères suivants conduisent à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations.
+
+BI.I.A. Critères directement liés à la fiche d'opération standardisée :
+
+1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération, le cadre contribution défini à l'annexe 8 de l'arrêté du 4 septembre 2014 fixant la liste des éléments d'une demande de certificats d'économies d'énergie et les documents à archiver par le demandeur ;
+
+2. La preuve de réalisation de l'opération, ou, à défaut, le document issu du fabricant, ne comporte pas les mentions exigées par la fiche d'opération standardisée ;
+
+3. Le dispositif solaire thermique installé ne correspond pas aux mentions indiquées sur la preuve de la réalisation de l'opération ou, à défaut, aux mentions indiquées sur le document issu du fabricant, exigées par la fiche d'opération standardisée ;
+
+4. Le système installé n'est pas destiné à la production de chauffage et à la production d'eau chaude sanitaire ou à la production d'eau chaude sanitaire seulement ;
+
+5. Les capteurs solaires installés sont des capteurs hybrides ;
+
+Pour les dispositifs solaires thermiques destinés à la production d'eau chaude sanitaire uniquement :
+
+6. La surface hors-tout de capteurs installés estimée est manifestement inférieure à 2 m2 ;
+
+7. Dans le cadre de la bonification prévue au 2° du IV de l'article 3-9 de l'arrêté du 29 décembre 2014, la mise en place du dispositif solaire thermique conduit à installer ou conserver un système de production d'eau chaude sanitaire intégrant au moins un équipement susceptible d'utiliser des combustibles fossiles.
+
+Pour les dispositifs solaires thermiques destinés à la production de chauffage et d'eau chaude sanitaire :
+
+8. La surface hors-tout de capteurs installés estimée est manifestement inférieure à 8 m2 ;
+
+9. Dans le cadre de la bonification prévue au 1° du IV l'article 3-9 de l'arrêté du 29 décembre 2014, la mise en place du dispositif solaire thermique conduit à installer ou conserver un système de chauffage et de production d'eau chaude sanitaire intégrant au moins un équipement susceptible d'utiliser des combustibles fossiles.
+
+BI.II. Doivent être vérifiés lors des contrôles par contact
+
+- l'existence d'un dispositif solaire thermique installé ;
+
+- l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
+
+Si au moins l'un des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
+
 NOTA :
 
-Conformément à l’article 4 de l’arrêté du 18 mai 2026 (NOR : ECOR2611173A), les dispositions mentionnées aux III, IV et VI relatif aux modalités d'application du dispositif des certificats d'économies d'énergie dans ses différentes versions antérieures au 1er juin 2026 s'appliquent aux opérations incluses dans une liste transmise, dans un délai de quinze jours après l'entrée en vigueur du présent arrêté, par le demandeur de certificats au ministre chargé de l'énergie, suivant le modèle intitulé "Modèle Tableau de recensement des engagements véhicules électriques" établi par la direction générale de l'énergie et du climat et mis à disposition sur le site internet du ministère de la transition écologique.
-
-Conformément à l’article 5 de l’arrêté du 18 mai 2026 (NOR : ECOR2611173A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur à compter du 1er juin 2026 et s'appliquent aux opérations engagées à compter de cette date. Aux fins d'établissement de la première liste mentionnée au 3° du IX de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie dans sa rédaction issue du présent arrêté, les constructeurs souhaitant l'inscription de leurs types-variantes sur cette liste transmettent à l'agence de l'environnement et de la maîtrise de l'énergie les informations exigées au 3° du IX de l'article 3-7-3 susmentionné avant le 20 mai 2026 à 12 heures, heure de Paris.
+Conformément à l'article 4 de l'arrêté du 29 mai 2026 (NOR : ECOR2612353A), à l'article 3 de l'arrêté du 10 août 2026 (NOR : ECOR2620231A), à l'article 4 de l'arrêté du 10 août 2026 (NOR : ECOR2618106A), au I de l'article 8 de l'arrêté du 17 août 2026 (NOR : ECOR2620460A) et à l'article 4 de l'arrêté du 17 août 2026 (NOR : ECOR2620461A), ces dispositions, dans leur rédaction résultant des arrêtés précités, entrent en vigueur le 1er septembre 2026 et s'appliquent aux opérations engagées à compter de cette date.
