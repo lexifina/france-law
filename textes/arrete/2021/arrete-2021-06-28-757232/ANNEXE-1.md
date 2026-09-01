@@ -82,13 +82,9 @@ Service de l'immobilier ministériel |
 
 - |
 
-Chef du bureau de la programmation et de l'exécution budgétaire et comptable |
+Chef du département des affaires financières immobilières |
 
-Chef du bureau de l'immobilier
-
-judiciaire parisien
-
-et de l'administration centrale |
+Chef du département de l'immobilier judiciaire parisien de l'administration centrale et de l'outre-mer |
 
 Service de l'accès au droit et à la justice et de l'aide aux victimes |
 
@@ -226,15 +222,17 @@ Direction des services pénitentiaires d'outre-mer |
 
 Secrétaire général |
 
-Direction des services judiciaires |
+Direction des services judiciaires
+
+|
 
 Administration centrale |
 
 Sous-direction des finances, de l'immobilier et de la performance |
 
-Chef du bureau de la gestion de la performance |
+Chef du département du budget |
 
-Chef du bureau du budget, de la compatibilité et des moyens |
+Chef du bureau de la gestion de la performance |
 
 Sous-direction des ressources humaines des greffes |
 
@@ -248,7 +246,7 @@ Chef du bureau des recrutements et de la formation |
 
 Sous-direction de l'organisation judiciaire et de l'innovation |
 
-Chef du bureau des applicatifs métiers destinés aux fonctions supports de la direction des services judiciaires |
+Chef du bureau des applications RH et support de la direction des services judiciaires |
 
 Direction de la protection judiciaire de la jeunesse |
 
@@ -313,3 +311,7 @@ Directeur des ressources humaines |
 Ecole nationale de la protection judiciaire de la jeunesse |
 
 Secrétaire général |
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 7 août 2026 (NOR : JUST2621832A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er septembre 2026.
