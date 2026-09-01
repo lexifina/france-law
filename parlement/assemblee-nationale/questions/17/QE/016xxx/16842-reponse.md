@@ -1,0 +1,9 @@
+# Réponse à la question n° 16842
+
+- Question : [16842](16842.md) — Question n° 16842 — Clarification du développement des « drives piétons »
+
+## Réponse
+
+*JO du 2026-09-01, page 7943*
+
+Le Gouvernement est attentif au respect des règles qui encadrent l'aménagement commercial, afin de garantir un développement équilibré des activités commerciales et des conditions de concurrence équitables entre les différents acteurs. Le code de commerce soumet à autorisation d'exploitation commerciale les points permanents de retrait de commandes organisés pour l'accès en automobile. Cette qualification s'apprécie au regard des installations, aménagements et équipements conçus pour le retrait des marchandises, et non de la dénomination commerciale de l'établissement. Ainsi, un équipement présenté comme un « drive piéton » qui dispose d'installations, aménagement ou équipements conçus pour le retrait de marchandises en automobile correspond à la définition du « drive » au sens du code de commerce. Il est alors soumis à autorisation d'exploitation commerciale dans les conditions définies à l'article L. 752-1 du code de commerce. Le droit en vigueur prévoit les moyens de contrôle du respect de ces règles. En application de l'article L. 752-23 du code de commerce, les agents compétents de l'État ainsi que les agents habilités des communes ou des établissements publics de coopération intercommunale peuvent constater une exploitation illicite et transmettre leur rapport au préfet. Celui-ci peut alors mettre l'exploitant en demeure de régulariser sa situation puis, à défaut, ordonner la fermeture des installations concernées et l'assortir d'astreintes journalières. Le Gouvernement veille ainsi à la bonne application de ce cadre, qui permet à la fois d'appréhender les différentes formes de retrait de marchandises, et de sanctionner les situations qui ne respecteraient pas les obligations d'autorisation prévues par le code de commerce.
