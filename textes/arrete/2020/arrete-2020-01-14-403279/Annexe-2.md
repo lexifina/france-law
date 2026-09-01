@@ -358,7 +358,7 @@ Bardages ventilés pour les immeubles situés à La Réunion, en Guyane, en Mart
 
 105 €/ m2 |
 
-Application pour les demandes de primes déposées à compter du 1er janvier 2026 :
+Application pour les demandes de primes déposées du 1er janvier 2026 au 31 août 2026 :
 
 |
 
@@ -656,6 +656,130 @@ Bardages ventilés pour les immeubles situés à La Réunion, en Guyane, en Mart
 
 105 €/ m2 |
 
+Application pour les demandes de primes déposées à compter du 1er septembre 2026 :
+
+|
+
+Prime de transition énergétique |
+
+Plafond de dépense éligible (€ TTC) |
+
+Ménages aux ressources très modestes |
+
+Ménages aux ressources modestes |
+
+Ménages aux ressources intermédiaires |
+
+Ménages aux ressources supérieures |
+
+Equipements de fourniture d'eau chaude sanitaire fonctionnant à l'énergie solaire thermique pour les immeubles situés à La Réunion, en Guyane, en Martinique, en Guadeloupe ou à Mayotte, mentionnés au c du 3 de l'annexe 1 |
+
+1 600 € |
+
+1 300 € |
+
+1 000 € |
+
+X |
+
+2 600 € |
+
+Pompes à chaleur géothermiques ou solarothermiques, mentionnées au a du 4 de l'annexe 1 |
+
+11 000 € |
+
+9 000 € |
+
+6 000 € |
+
+X |
+
+18 000 € |
+
+Pompe à chaleur air/ eau, mentionnée au b du 4 de l'annexe 1 |
+
+5 000 € |
+
+4 000 € |
+
+3 000 € |
+
+X |
+
+12 000 € |
+
+Equipements de raccordement, ou droits et frais de raccordement, à un réseau de chaleur ou de froid, mentionnés au 5 de l'annexe 1 |
+
+1 200 € |
+
+800 € |
+
+400 € |
+
+X |
+
+1 800 € |
+
+Dépose d'une cuve à fioul, mentionnée au 6 de l'annexe 1 |
+
+1 200 € |
+
+800 € |
+
+400 € |
+
+X |
+
+4 000 € |
+
+Audit énergétique, mentionné au 8 de l'annexe 1 |
+
+500 € |
+
+400 € |
+
+300 € |
+
+X |
+
+800 € |
+
+Equipements ou matériaux de protection des parois vitrées ou opaques contre les rayonnements solaires, pour les immeubles situés à La Réunion, en Guyane, en Martinique, en Guadeloupe ou à Mayotte, mentionnés au 13 de l'annexe 1 |
+
+25 €/ m2 |
+
+20 € / m2 |
+
+15 € / m2 |
+
+X |
+
+200 € / m2 |
+
+Sur-toitures ventilées pour les immeubles situés à La Réunion, en Guyane, en Martinique, en Guadeloupe ou à Mayotte, mentionnés au 13-1 de l'annexe 1 |
+
+75 €/ m2 |
+
+60 €/ m2 |
+
+40 € / m2 |
+
+15 € / m2 |
+
+110 € / m2 |
+
+Bardages ventilés pour les immeubles situés à La Réunion, en Guyane, en Martinique, en Guadeloupe ou à Mayotte, mentionné au 13-2 de l'annexe 1 |
+
+75 € / m2 |
+
+60 € / m2 |
+
+40 € / m2 |
+
+15 € / m2 |
+
+105 € / m2 |
+
 Tableau 2.-Dépense visée au 15 de l'annexe 1 du décret n° 2020-26 du 14 janvier 2020 relatif à la prime de transition énergétique
 
 |
@@ -696,7 +820,9 @@ intermédiaires |
 
 Ménages aux ressources supérieures |
 
-Mission d'accompagnement par un opérateur agréé prévue à l'article L. 232-3 du code de l'énergie |
+Mission d'accompagnement par un opérateur agréé prévue à l'article L. 232-3 du code de l'énergie
+
+|
 
 2 000 € |
 
@@ -706,6 +832,4 @@ Mission d'accompagnement par un opérateur agréé prévue à l'article L. 232-3
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 12 juin 2026 (NOR : VLOL2607514A), ces dispositions, dans leur rédaction résultant dudit arrêté, s'appliquent aux demandes de primes déposées à compter du 30 septembre 2025.
-
-Les dispositions du tableau 1 applicable aux demandes de primes déposées à compter du 1er janvier 2026, dans leur rédaction résultant du a du 4° de l'article 2 de l'arrêté précité, s'appliquent aux demandes de primes déposées à compter du 1er janvier 2026.
+Conformément à l'article 6 de l'arrêté du 25 août 2026 (NOR : VLOL2620603A), ces dispositions, dans leur rédaction issue de l'article 4 dudit arrêté, entrent en vigueur le 1er septembre 2026. Elles s'appliquent aux demandes de primes déposées à compter de cette même date.

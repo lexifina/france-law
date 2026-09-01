@@ -36,9 +36,9 @@ Devis détaillé des travaux |
 
 Formulaire CERFA de désignation d'un mandataire de gestion administrative |
 
-A compter du 1er janvier 2027, uniquement pour les travaux et prestations visés du 2 au 12 de l'annexe 1 du décret du 14 janvier 2020 susvisé, hors logements situés en Guadeloupe, en Martinique, à La Réunion ou à Mayotte et hors travaux ou prestations visés aux troisième et quatrième alinéas du V de l'article 1 du décret du 14 janvier 2020 susvisé : diagnostic de performance énergétique ou audit énergétique visés au 3° du I de l'article 4 du présent arrêté, le cas échéant complété par l'attestation associée définie aux articles 3 et 4 de l'arrêté du 13 août 2025 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au diagnostic de performance énergétique |
+A compter du 1er janvier 2028, uniquement pour les travaux et prestations visés du 4 au 8 de l'annexe 1 du décret du 14 janvier 2020 susvisé, hors logements situés en Guadeloupe, en Martinique, à La Réunion ou à Mayotte et hors travaux ou prestations visés aux troisième et quatrième alinéas du V de l'article 1 du décret du 14 janvier 2020 susvisé : diagnostic de performance énergétique ou audit énergétique visés au 3° du I de l'article 4 du présent arrêté, le cas échéant complété par l'attestation associée définie aux articles 3 et 4 de l'arrêté du 13 août 2025 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au diagnostic de performance énergétique |
 
-Uniquement pour les travaux et prestations visés du 2 au 13-2 de l'annexe 1 du décret du 14 janvier 2020 susvisé : cadre de contribution CEE ou MDE, le cas échéant |
+Uniquement pour les travaux et prestations visés du 3 au 13-2 de l'annexe 1 du décret du 14 janvier 2020 susvisé : cadre de contribution CEE ou MDE, le cas échéant |
 
 Uniquement pour l'ensemble de travaux visé au 15 de l'annexe 1 du décret du 14 janvier 2020 susvisé :
 
@@ -50,7 +50,7 @@ Uniquement pour l'ensemble de travaux visé au 15 de l'annexe 1 du décret du 14
 
 - rapport de l'audit énergétique visé au 2° du I de l'article 4 du présent arrêté, le cas échéant complété par l'attestation définie à l'article 4 de l'arrêté du 13 août 2025 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au diagnostic de performance énergétique ;
 
-- attestation de travaux " devis " (modèle en annexe 1 de l'arrêté du 17 novembre 2020 susvisé).
+- attestation de travaux "devis" (modèle en annexe 1 de l'arrêté du 17 novembre 2020 susvisé).
 
 |
 
@@ -86,9 +86,9 @@ Uniquement si le demandeur a fourni une promesse synallagmatique de vente lors d
 
 Uniquement pour l'ensemble de travaux visé au 15 de l'annexe 1 du décret du 14 janvier 2020 susvisé :
 
--Rapport de l'audit énergétique visé au 2° du I de l'article 4 du présent arrêté, actualisé le cas échéant, et complété le cas échéant par l'attestation définie à l'article 4 de l'arrêté du 13 août 2025 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au diagnostic de performance énergétique ;
+-Rapport de l'audit énergétique visé au 2° du I de l'article 4 du présent arrêté, actualisé, le cas échéant, et complété par l'attestation définie à l'article 4 de l'arrêté du 13 août 2025 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au diagnostic de performance énergétique dans le cas où cette attestation a été déposée lors de la demande de prime ;
 
--Attestation de travaux "factures" (modèle en annexe 1 de l'arrêté du 17 novembre 2020 susvisé) actualisée le cas échéant ;
+-Attestation de travaux "factures" (modèle en annexe 1 bis de l'arrêté du 17 novembre 2020 susvisé) actualisée le cas échéant ;
 
 -rapport d'accompagnement mentionné au 4° de l'article 2 de l'arrêté du 21 décembre 2022 relatif à la mission d'accompagnement du service public de la performance énergétique de l'habitat ;
 
@@ -98,4 +98,4 @@ Uniquement pour l'ensemble de travaux visé au 15 de l'annexe 1 du décret du 14
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 12 juin 2026 (NOR : VLOL2607514A), ces dispositions, dans leur rédaction issue dudit arrêté, en vigueur le 1er septembre 2026. Elles s'appliquent aux demandes de primes déposées à compter de cette même date, à l'exception des dispositions issues du b du 2° de l'article 5 qui s'appliquent aux dossiers dont la demande de solde est déposée à compter de cette même date.
+Conformément à l'article 6 de l'arrêté du 25 août 2026 (NOR : VLOL2620603A), ces dispositions, dans leur rédaction issue des articles 1 et des 1° et a) du 2° de l'article 5 dudit arrêté, entrent en vigueur le 1er septembre 2026. Elles s'appliquent aux demandes de primes déposées à compter de cette même date. Les dispositions issues du b) 2° de l'article 5 de l'arrêté précité s'appliquent aux dossiers dont la demande de solde est déposée à compter de cette même date.
