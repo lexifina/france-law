@@ -1,0 +1,9 @@
+# Réponse à la question n° 15299
+
+- Question : [15299](15299.md) — Question n° 15299 — Dégâts causés par les sangliers
+
+## Réponse
+
+*JO du 2026-09-01, page 7859*
+
+Le Gouvernement est pleinement conscient des difficultés financières auxquelles les fédérations de chasseurs peuvent être confrontées et demeure très attentif à cette question. Dans cet esprit, il entretient un dialogue constant et constructif avec la fédération nationale des chasseurs, afin d'identifier les leviers les plus efficaces pour soutenir les fédérations et améliorer le dispositif existant. Au titre des missions de service public que le législateur leur a confiées, les fédérations départementales des chasseurs assurent l'indemnisation des dégâts agricoles imputables au grand gibier. C'est dans cette perspective que plusieurs actions ont déjà été engagées. D'une part, de nouvelles mesures réglementaires ont été mises en œuvre pour renforcer la pression de chasse, notamment sur les sangliers. Elles se sont traduites par l'extension de la période de chasse en avril et mai, l'autorisation de l'usage de la chevrotine, la facilitation du recours au piégeage et une révision des conditions d'agrainage. D'autre part, un appui financier significatif a été mobilisé pour accompagner la transition du système d'indemnisation des dégâts de gibier : une enveloppe de 50 millions d'euros a été ouverte par l'État au profit des fédérations, afin de financer des mesures structurelles destinées à moderniser l'indemnisation ou à améliorer leur fonctionnement. Dans ce contexte, compte tenu de la volonté exprimée par le législateur, des efforts déjà consentis par l'État ainsi que du cadre budgétaire actuel, une prise en charge directe par l'État de l'indemnisation des dommages causés par la faune sauvage n'est pas envisagée à ce stade.
