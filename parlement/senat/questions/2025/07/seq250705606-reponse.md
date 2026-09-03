@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250705606
+
+- Question : [SEQ250705606](seq250705606.md) — Éligibilité à la carte professionnelle de tous les professionnels intervenant au domicile
+
+## Réponse
+
+*Autonomie et personnes handicapées, JO du 2026-09-03, page 4148*
+
+La carte professionnelle des aides à domicile, instaurée par la loi n° 2024-217 du 8 avril 2024 portant mesures pour bâtir la société du bien vieillir et de l'autonomie, est réservée aux professionnels exerçant des missions d'accompagnement auprès des personnes âgées et/ou handicapées, sous réserve de répondre aux conditions d'éligibilité en matière de certification ou d'expérience, précisées par le décret n° 2024-1246 du 30 décembre 2024. La création et le déploiement de cette carte visent avant tout à renforcer la reconnaissance de ces professionnels, dans un secteur confronté à de fortes tensions de recrutement. À ce jour, seules les structures employeurs enregistrées au Fichier national des établissements sanitaires et sociaux (FINESS), répertoire de référence pour les établissements à caractère sanitaire, social ou médico-social, ainsi que pour la formation aux professions sanitaires et sociales, peuvent engager la procédure de délivrance de la carte professionnelle. Ces employeurs, dès lors qu'ils disposent d'un numéro FINESS, inscrivent leurs salariés au répertoire partagé des professionnels de santé, ce qui leur permet d'accéder à un justificatif sous forme de QR code ainsi qu'à un espace numérique. Le Gouvernement travaille actuellement sur les modalités d'accès à cette carte pour les professionnels employés par des particuliers ou par des services mandataires, en veillant à ne pas créer de contrainte supplémentaire pour les employeurs. Conscient des difficultés de mise en oeuvre, il s'attache ainsi à rendre la carte professionnelle accessible à l'ensemble des professionnels de l'aide à domicile.
