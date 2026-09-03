@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260709694
+
+- Question : [SEQ260709694](seq260709694.md) — Modalités d'application de la mise en oeuvre de la "prime régalienne"
+
+## Réponse
+
+*Aménagement du territoire et décentralisation , JO du 2026-09-03, page 4143*
+
+L'article 198 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026 a effectivement institué, à l'article L. 2122-27-1 du code général des collectivités territoriales, une reconnaissance des attributions exercées par les maires au nom de l'État, sous l'autorité du représentant de l'État dans le département. Cette reconnaissance prend la forme d'un versement annuel de 554 euros au maire, après avoir été versé aux communes dans le cadre défini par l'article L. 2335-1-1 du même code afin d'assurer la neutralité financière de ce dispositif pour les communes. Le décret n° 2026-363 du 8 mai 2026 portant diverses mesures relatives aux dotations de l'État aux collectivités territoriales et à la péréquation des ressources fiscales, publié au Journal officiel le 10 mai 2026, comporte notamment des mesures relatives à la dotation particulière destinée à permettre la reconnaissance des attributions exercées au nom de l'État. Ce décret a notamment inséré l'article R. 2122-12 du code général des collectivités territoriales, qui précise les modalités de répartition de la dotation de reconnaissance lorsqu'au cours d'une même année civile plusieurs maires se sont succédés dans une commune : le montant est alors réparti entre les intéressés proportionnellement à la durée d'exercice de leur mandat au cours de cette année civile. Les services de l'Etat finalisent la note d'information à destination des préfets en vue d'en préciser les modalités d'application et de préparer le versement de cette dotation de reconnaissance, qui constitue une dépense obligatoire, afin qu'elle puisse bénéficier à l'ensemble des maires dans les prochaines semaines.
