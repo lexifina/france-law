@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260709343
+
+- Question : [SEQ260709343](seq260709343.md) — Conclusion et signature d'une convention entre une commune et un établissement public de coopération intercommunale et fonctions exécutives exercées par la même personne physique
+
+## Réponse
+
+*Aménagement du territoire et décentralisation , JO du 2026-09-03, page 4138*
+
+La loi n° 2025-1249 du 22 décembre 2025 portant création d'un statut de l'élu local a procédé à la suppression de la prise en compte du conflit d'intérêt public-public en droit pénal et a revu les règles de déport des élus en conséquence. En application de l'article L. 2131-11 du code général des collectivités territoriales, « sont illégales les délibérations auxquelles a pris part un membre du conseil intéressé à l'affaire qui en fait l'objet, soit en son nom personnel, soit comme mandataire. Un membre du conseil ne peut être considéré comme ayant pris part à la délibération du seul fait de sa présence à la réunion de l'organe délibérant. L'article L. 1111-6 du même code dispose néanmoins que « les élus détenant plusieurs mandats au sein d'organes délibérants de collectivités territoriales ou de groupements de collectivités territoriales ne sont pas considérés comme ayant un intérêt, au sens des articles L. 2131-11, L. 3132-5 et L. 4142-5 du présent code, du seul fait de cette détention, lorsque l'une de ces collectivités ou l'un de ces groupements se prononce sur une affaire intéressant une autre de ces collectivités territoriales ou un autre de ces groupements ». Aussi, lors du vote approuvant une convention entre une commune et un EPCI, le maire, qui serait également président de cet EPCI, n'est pas considéré, du fait de ces deux mandats, comme étant intéressé à l'affaire concernant respectivement l'EPCI et la commune. Il n'est donc pas tenu de se déporter s'il ne détient pas d'autres intérêts personnels à l'affaire et peut signer la convention, le cas échéant.
