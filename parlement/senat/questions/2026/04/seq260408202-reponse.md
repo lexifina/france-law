@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260408202
+
+- Question : [SEQ260408202](seq260408202.md) — Évolution des règles relatives à l'inscription sur les listes électorales
+
+## Réponse
+
+*Intérieur , JO du 2026-09-03, page 4162*
+
+Le ministre de l'intérieur est attentif aux difficultés rencontrées par certaines communes rurales pour renouveler leurs conseils municipaux et favoriser l'engagement de jeunes citoyens dans la vie locale. Toutefois, les règles d'inscription sur les listes électorales reposent sur l'existence d'une attache personnelle, directe et objectivement vérifiable avec la commune. L'article L. 11 du code électoral permet ainsi l'inscription des électeurs qui y ont leur domicile réel, y résident depuis six mois au moins, ou sont inscrits, dans les conditions prévues par la loi, au rôle des contributions directes communales. Le législateur a toutefois prévu une facilité pour les jeunes électeurs : les enfants de moins de vingt-six ans peuvent s'inscrire dans la commune où leurs parents ont leur domicile réel ou résident depuis au moins six mois. Cette possibilité ne s'applique pas lorsque les parents sont eux-mêmes inscrits dans la commune au seul titre de leur résidence secondaire et que leurs enfants ne remplissent personnellement aucun des critères fixés par l'article L. 11 du code électoral. Une extension du droit à l'inscription fondé sur la seule fréquentation régulière d'une commune ou sur l'inscription des parents au titre de la propriété d'une résidence secondaire soulèverait des difficultés de principe et de contrôle par le maire de la commune concernée. En outre, il affaiblirait le lien entre le droit de vote municipal et l'attache effective avec la collectivité dont les électeurs désignent les représentants. Dans ces conditions, il n'est donc pas envisagé de modifier le code électoral afin d'élargir les critères d'inscription sur les listes électorales pour les jeunes électeurs.
