@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260508742
+
+- Question : [SEQ260508742](seq260508742.md) — Inégalité persistante dans le droit à la formation des élues
+
+## Réponse
+
+*Aménagement du territoire et décentralisation , JO du 2026-09-03, page 4125*
+
+L'attention du Gouvernement a été appelée sur les difficultés rencontrées dans l'utilisation du droit individuel à la formation des élus par de nombreuses élues locales. "Mon compte élu" repose sur les données du répertoire national des élus (RNE), recueillies par les préfectures lors des dépôts de candidature aux élections, puis transmises par le ministère de l'intérieur, en lien avec le ministère de l'aménagement du territoire et de la décentralisation à l'issue des élections, à la Caisse des dépôts (CDC). Par ailleurs, depuis octobre 2022, l'accès à ce service s'effectue par l'intermédiaire sécurisé FranceConnect + pour limiter les fraudes, en particulier les usurpations d'identité. Le Gouvernement et le gestionnaire du fonds ont fait le constat de la désynchronisation du RNE et du système d'information dont la CDC dispose, en raison d'une discordance d'enregistrement des noms entre la base retenue par la CDC et l'intitulé déclaré lors de la candidature (accent, trait d'union, apostrophe, seul nom marital, par exemple). Ainsi, après les élections municipales de 2026, 59 444 élus ont été privés de l'alimentation de leurs droits, dont 82 % de femmes. Face à cette urgence, la CDC a lancé une procédure proactive de mise en cohérence des données en sollicitant les collectivités des élues concernées. À ce jour, plus de 21 000 comptes ont été mis à jour et l'action continue pour garantir une alimentation complète très prochainement. Il s'agit maintenant de tirer toutes les conséquences de ces incidents avant les prochaines élections locales pour assurer une égalité réelle de toutes les élues et de tous les élus dans l'exercice de leur droit individuel à la formation, à laquelle le gouvernement est très attaché.
