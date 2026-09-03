@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250404326
+
+- Question : [SEQ250404326](seq250404326.md) — Application de la loi ratios « patients par soignant »
+
+## Réponse
+
+*Santé, familles, autonomie et personnes handicapées, JO du 2026-09-03, page 4179*
+
+La loi n° 2025-74 du 29 janvier 2025 relative à l'instauration d'un ratio minimal de soignants par patient hospitalisé a confié à la Haute autorité de santé (HAS) la mission d'élaborer des « ratios de qualité » pour l'ensemble des services des établissements de santé. Dès la promulgation de cette loi, le ministère chargé de la santé a engagé des échanges étroits avec l'ensemble des parties prenantes, et en particulier avec la HAS, afin de préparer les conditions de sa mise en oeuvre opérationnelle. Ces travaux ont permis de préciser les attentes, d'identifier les enjeux spécifiques selon les spécialités et de prendre en compte les réalités de terrain, dans un calendrier contraint. Dans ce contexte, le ministère a officiellement saisi la HAS en juillet 2025, en lui demandant de prioriser ses travaux afin de proposer des ratios pertinents, fondés sur les données scientifiques disponibles, les recommandations internationales et les contraintes organisationnelles des établissements de santé. Le Gouvernement est pleinement mobilisé pour garantir l'effectivité de cette réforme majeure, qui constitue un levier essentiel pour améliorer la qualité et la sécurité des prises en charge, ainsi que les conditions de travail des professionnels de santé. Il attend désormais les propositions de la HAS, qui constitueront le socle des mesures réglementaires nécessaires à la mise en oeuvre du dispositif. Le ministère veillera, dès leur remise, à engager sans délai les concertations et les travaux indispensables afin de permettre un déploiement progressif, réaliste et adapté aux capacités des établissements, dans le respect des objectifs fixés par le législateur.
