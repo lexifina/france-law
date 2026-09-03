@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260709371
+
+- Question : [SEQ260709371](seq260709371.md) — Inscription prioritaire à l'ordre du jour de l'Assemblée nationale de la proposition de loi « TRACE »
+
+## Réponse
+
+*Aménagement du territoire et décentralisation , JO du 2026-09-03, page 4139*
+
+La sobriété foncière est une nécessité aujourd'hui reconnue sur l'ensemble du territoire national pour répondre aux enjeux de souveraineté agricole, de limitation des risques naturels, de protection de la biodiversité et de maîtrise des dépenses publiques des collectivités. La sobriété foncière est également une opportunité pour la revitalisation des coeurs de petites et moyennes centralités où la dégradation du bâti, la vacance commerciale et le phénomène des « volets clos » qui sont des phénomènes préoccupants pour de nombreux acteurs et pour les habitants. Le cadre normatif en vigueur (loi Climat et résilience de 2021, complétée par la loi du 20 juillet 2023) fixe un cap en vue de l'atteinte de l'absence d'artificialisation nette d'ici 2050. Sa mise en oeuvre doit faire l'objet prochainement d'un bilan à 5 ans comme prévu par l'article 207 de la loi Climat et résilience. Le Gouvernement est attaché au maintien de l'ambition en matière de sobriété foncière et à la stabilité du cadre normatif pour les nombreuses collectivités qui intègrent déjà une trajectoire de sobriété foncière dans leurs documents de planification et d'urbanisme. Cette stabilité est essentielle à la sécurité juridique des porteurs de projets. Le Gouvernement souhaite qu'une position commune puisse émerger entre le Sénat et l'Assemblée nationale sur des propositions pragmatiques pour améliorer la mise en oeuvre de la sobriété foncière, tout en maintenant son ambition. Ce préalable est indispensable à l'inscription de la proposition de loi dite « TRACE » à l'ordre du jour de l'Assemblée nationale.
