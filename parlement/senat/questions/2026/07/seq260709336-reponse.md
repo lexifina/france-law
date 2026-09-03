@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260709336
+
+- Question : [SEQ260709336](seq260709336.md) — Financement des services mandataires judiciaires à la protection des majeurs dans les territoires ruraux
+
+## Réponse
+
+*Justice, JO du 2026-09-03, page 4169*
+
+La priorité du Gouvernement est de mettre en place la protection la plus adaptée et la plus efficace possible au service des personnes présentant une vulnérabilité. A ce titre, la préservation de l'autonomie des personnes vulnérables apparaît fondamentale. Comme le rappelle la circulaire de politique civile du 27 juin 2025, les juridictions doivent assurer l'application rigoureuse du principe de subsidiarité prévu à l'article 428 du code civil : toute mesure de protection doit être précédée d'une évaluation complète et actualisée, mobilisant si nécessaire une expertise médico-sociale. Les alternatives à la tutelle ou à la curatelle, telles que l'activation d'un mandat de protection future, doivent être systématiquement envisagées par les parquets civils en première intention. Il a donc été demandé à la mission inter-inspections, à titre principal, d'évaluer l'application du principe de subsidiarité par les juridictions. La mission est également chargée d'analyser l'organisation et le fonctionnement de la protection juridique des majeurs afin d'identifier des leviers d'amélioration, en termes de qualité de service comme d'efficience, et de documenter, le cas échéant, des mesures d'économies. Cette mission s'inscrit ainsi dans le cadre classique des revues de dépenses conduites par le Gouvernement. Elle ne préjuge pas des décisions susceptibles d'être prises, lesquelles tiendront compte de la progression attendue des besoins d'accompagnement. Par ailleurs, cette mission ne se substitue ni aux échanges interministériels relatifs à la construction budgétaire, ni aux prérogatives du Parlement dans l'examen et le vote des lois de finances.
