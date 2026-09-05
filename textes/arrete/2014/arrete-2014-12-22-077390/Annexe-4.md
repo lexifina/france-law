@@ -1078,6 +1078,272 @@ Caractéristiques du système de stockage (à ne remplir que si ces caractérist
 
 Rappel : La présente fiche n'est pas cumulable avec les fiches IND-UT-103, IND-UT-118, IND-UT-137, IND-UT-138.
 
+Opération n° IND-UT-141
+
+Chaudière industrielle électrique |
+
+1. Secteur d'application
+
+Industrie.
+
+2. Définitions
+
+Pour les besoins de la présente fiche, les notions suivantes sont définies comme suit :
+
+Chaudière à combustible |
+
+Chaudière fonctionnant avec les combustibles suivants : biomasse, gaz (naturel, propane, biogaz), le fioul, le charbon et le(s) coke(s) |
+
+Chaudière électrique |
+
+Chaudière dont l'unique vecteur énergétique est l'électricité et qui fonctionne à jet, à électrodes, ou à thermoplongeur. |
+
+Équipement de secours |
+
+Chaudière destinée à assurer la continuité du service uniquement en cas d'indisponibilité de la ou des chaudières du site, et qui n'est pas destinée à fonctionner en exploitation normale. |
+
+Fluide caloporteur |
+
+Fluide circulant dans la chaudière, chargé de récupérer la chaleur produite par la chaudière et de la transporter jusqu'au point d'utilisation. Les fluides caloporteurs comprennent notamment l'eau, la vapeur d'eau et les fluides thermiques. |
+
+Périmètre du site |
+
+Limites cadastrales des parcelles appartenant à l'entreprise bénéficiaire de l'opération |
+
+Puissance thermique utile |
+
+Puissance transmise au fluide caloporteur. Elle est égale à la puissance thermique nominale de la chaudière multipliée par son rendement nominal. |
+
+Puissance thermique nominale de la chaudière |
+
+Puissance fournie par à la chaudière lorsqu'elle fonctionne à son régime nominal. |
+
+Site |
+
+Lieu de réalisation de l'opération délimité par son périmètre |
+
+Site nouveau |
+
+Site sur lequel aucune chaudière à combustible ou chaudière électrique n'est exploitée à la date de l'engagement de l'opération au titre de la présente fiche |
+
+Site existant |
+
+Site sur lequel est déjà exploitée au moins une chaudière à combustible ou chaudière électrique à la date de l'engagement de l'opération au titre de la présente fiche |
+
+3. Dénomination de l'opération
+
+Mise en place d'une ou plusieurs chaudières industrielles neuves dont le vecteur énergétique est l'électricité, dont le rendement minimal est supérieur ou égale à 99 %, pour produire un fluide caloporteur à une température supérieure à 110 °C (vapeur d'eau, eau surchauffée ou fluide thermique) en remplacement total des chaudières à combustible existantes. Le fluide caloporteur satisfait des besoins de chaleur pour des usages de procédés industriels, eau chaude sanitaire et/ou chauffage des locaux sur le périmètre du site de l'opération.
+
+Aucune chaudière à combustible n'est installée sur le site pour alimenter le réseau relatif au fluide caloporteur d'une température supérieure à 110 °C (vapeur d'eau, eau surchauffée ou fluide thermique), hormis à des fins de secours, à compter de l'achèvement de l'opération et pendant la durée de vie conventionnelle de la présente fiche comptabilisée à compter de l'achèvement de l'opération.
+
+Le réseau de fluide caloporteur concerné par l'opération ne peut être alimenté directement par une chaufferie à combustible, y compris lorsque celle-ci est située en dehors du périmètre du site.
+
+L'opération consiste en une électrification totale de la production de chaleur de fluide caloporteur d'une température supérieure à 110 °C (vapeur d'eau, eau surchauffée ou fluide thermique), à l'exception des éventuels équipements de secours, de la production de fluide caloporteur du site, résultant :
+
+a. Du remplacement total des chaudières à combustible du site alimentant le fluide caloporteur concernés par la où les chaudières électriques ; ou
+
+b. De l'installation d'une ou plusieurs chaudières électriques dans le cas d'un site nouveau, d'une extension d'un site ou de la création d'un nouveau besoin de chaleur.
+
+Sont exclues les opérations consistant en une hybridation du chauffage d'un fluide caloporteur, résultant du remplacement partiel d'une ou plusieurs chaudières à combustible par une ou plusieurs chaudières électriques au sein du site existant ou l'ajout d'une ou plusieurs chaudières électriques au sein du site existant.
+
+Sont exclus :
+
+- les générateurs hybrides combinant un système à flamme et un dispositif électrique intégré (thermoplongeur(s) intégré(s) dans l'unité de chauffe) ;
+
+- l'ajout d'un équipement électrique directement sur le corps d'une chaudière à combustible existante.
+
+La présente fiche s'applique aux opérations engagées avant le 1er septembre 2031.
+
+4. Conditions pour la délivrance de certificats
+
+La mise en place est réalisée par un professionnel.
+
+La puissance thermique nominale totale des chaudières à combustible du site avant la réalisation de l'opération est inférieure à 20 MW. La puissance thermique totale nominale de la ou des chaudières électriques installées sur le site et alimentant le fluide caloporteur concerné par l'opération, incluant des chaudières électriques installées avant l'opération associée à la présente fiche pour le même fluide caloporteur, est inférieure à 20 MW.
+
+Dans le cas d'un remplacement, la puissance thermique nominale totale des chaudières électriques installées est inférieure ou égale à la puissance thermique nominale totale des chaudières remplacées.
+
+4.1. Etude préalable de dimensionnement
+
+La mise en place de la ou des chaudières électriques fait l'objet d'une étude préalable de dimensionnement, établie, datée et signée par le professionnel ou un bureau d'étude.
+
+Cette étude est remise au bénéficiaire à la date d'engagement de l'opération. Le cas échéant, elle est actualisée et remise au bénéficiaire à la date d'achèvement de l'opération. L'installation est conforme aux préconisations de l'étude de dimensionnement. En cas de modification des caractéristiques techniques du projet ayant une incidence sur son dimensionnement, elle est actualisée et remise au bénéficiaire à la date d'achèvement de l'opération.
+
+L'étude de dimensionnement comporte les éléments suivants :
+
+I. - Identification de l'opération
+
+a) La raison sociale et le numéro SIREN ainsi que l'adresse du bénéficiaire dans le cas où ce dernier est une personne morale ; nom, prénom et adresse du bénéficiaire dans le cas où ce dernier est une personne physique ;
+
+b) L'adresse de l'opération si différente de l'adresse du bénéficiaire.
+
+II. - Description des caractéristiques techniques des flux
+
+L'étude de dimensionnement considère :
+
+- dans le cas d'un site existant : les besoins annuels (en MWh) en fluide caloporteur sur une année représentative du fonctionnement du site établis sur la base d'un historique de mesures et distinguant les différents usages du site (procédés industriels, eau chaude sanitaire, chauffage des locaux) ;
+
+- dans le cas d'un site existant ne disposant pas d'un historique de mesures, sous réserve de justification de l'indisponibilité de données suffisantes : les besoins annuels (en MWh) en fluide caloporteur représentatifs du fonctionnement du site, estimés d'après une campagne de mesures d'une durée supérieure ou égale à deux mois ; le choix de la période de mesure est justifié au regard de l'enjeu de représentativité ;
+
+- dans le cas d'un site nouveau : les besoins annuels (en MWh) en fluide caloporteur représentatifs du fonctionnement du site, calculés à partir d'une simulation thermique des besoins en énergie par type d'usage : ensemble des procédés industriels, eau chaude sanitaire et/ou chauffage des locaux.
+
+III. - Besoin de chaleur du site industriel
+
+- besoins de chaleur du site devant être couvert par la chaudière électrique, par type d'usage : ensemble des procédés industriels, eau chaude sanitaire et/ou chauffage des locaux ;
+
+- puissance maximale et niveau de température de chaque besoin de chaleur associé à un usage.
+
+IV. - Dimensionnement de la chaudière
+
+a) Description du projet ;
+
+b) Description des chaudières du site avant l'opération (nombre, modèle, type de chaudière(s) (électrique, combustible), type de combustible (biomasse, gaz, fioul, charbon et coke(s), puissance thermique nominale (en MW)) et rendement total de génération de chaleur selon un raisonnement en énergie finale ;
+
+c) Description des chaudières du site après l'opération (nombre, modèle, types (électrique, combustible éventuellement utilisé en secours), et type de technologies pour les chaudières électriques installées : jet, à électrodes, ou à thermoplongeur, puissance thermique nominale en MW) ;
+
+d) Description du fonctionnement des chaudières du site à l'aide d'un schéma représentant le flux de chaleur de la génération jusqu'au besoin de chaleur ;
+
+e) Calcul du rendement de génération de chaleur des chaudières du site après l'opération selon un raisonnement en énergie finale ;
+
+f) Estimation, en énergie finale, des économies d'énergie annuelles en kWh.
+
+Dans le cas d'un site disposant de plusieurs réseaux techniques de vapeur d'eau distincts (sans aucune connexion l'un à l'autre), l'étude de dimensionnement se limite au réseau chauffé par la ou les chaudières électriques concernées par l'opération.
+
+Un dispositif de mesure de la température du fluide caloporteur est installé. Dans le cas des chaudières produisant de la vapeur d'eau, ce dispositif peut être une sonde de pression, température et pression étant liées par la courbe de saturation de la vapeur (la pression devant être a minima de 0,5 bar pour une température supérieure ou égale à 110 °C.
+
+Pour la grandeur mesurée (température ou pression), une valeur par jour, résultant de la moyenne des valeurs mesurées au cours de la journée, est calculée. De plus, un dispositif de mesure de la consommation d'électricité de la chaudière électrique installée est également mis en place. La consommation d'électricité est enregistrée au pas de dix minutes.
+
+Les mesures de ces trois grandeurs sont enregistrées et conservées par le bénéficiaire pendant six ans à compter de la date d'achèvement de l'opération. Le bénéficiaire s'engage à transmettre sur demande ses mesures à des fins de traitements statistiques et de contrôle.
+
+Les équipements de secours du site fonctionnant à combustible respectent les conditions cumulatives suivantes :
+
+a) Ils sont consignés au moyen d'une fermeture et condamnation des vannes hydrauliques, d'alimentation en combustible et d'une condamnation électrique. Une intervention manuelle est nécessaire pour les déconsigner et permettre leur fonctionnement. Une procédure de consignation est rédigée afin de définir les étapes de mise en sécurité, les points de consignation, les modalités de condamnation et de déconsignation, ainsi que les contrôles à effectuer avant toute remise en service ;
+
+b) Ils fonctionnent au plus 500 heures par an et uniquement en cas d'indisponibilité. La consommation d'énergie et les heures de fonctionnement sont relevées au moyen d'un compteur dédié. De plus, la consommation annuelle d'énergie finale des équipements de secours à combustible ne peut excéder 8 % de la consommation annuelle totale d'énergie finale des chaudières alimentant le réseau concerné par l'opération.
+
+Les mesures sont enregistrées et conservées par le bénéficiaire pendant six ans à compter de la date d'achèvement de l'opération. Le bénéficiaire s'engage à transmettre ses mesures à des fins de traitements statistiques et de contrôle.
+
+La preuve de réalisation de l'opération mentionne la mise en place d'une ou plusieurs chaudières électriques, leurs marques et références, leurs puissances thermiques nominales ainsi que la dépose, hors équipements de secours le cas échéant, de l'ensemble des équipements existants fonctionnant à combustible. A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'équipements avec leurs marques et références et elle est complétée, pour chaque équipement, d'un document issu du fabricant indiquant que l'équipement de marque et référence est une chaudière électrique et mentionnant la puissance thermique nominale. La preuve de la dépose de l'ensemble des équipements existants fonctionnant à combustible peut faire l'objet d'un document dédié.
+
+La preuve de réalisation de l'opération mentionne également, le cas échéant, le fait que des équipements fonctionnant à combustible sont des équipements de secours, et indiquent leurs marques et références ainsi que leurs puissances thermiques nominales.
+
+Le document justificatif spécifique à l'opération est l'attestation de conservation du ou des équipements de secours disponible sur le site internet du ministère chargé de l'énergie.
+
+5. Durée de vie conventionnelle
+
+22 ans.
+
+6. Montant de certificats en kWh cumac
+
+Le volume de certificats d'économies d'énergie est déterminé comme suit :
+
+Montant en kWh cumac par MW installé |
+
+X |
+
+Puissance thermique nominale, ou somme des puissances thermiques nominales (en MW) pour la ou les chaudières installées au titre de la présente opération |
+
+|
+
+8 600 000 |
+
+P |
+
+La puissance thermique nominale P est égale à la puissance thermique nominale totale des chaudières électriques installées au titre de la présente opération, et ne peut être supérieure à la puissance maximale du besoin de chaleur déterminée au point III de l'étude de dimensionnement ainsi que, dans le cas d'un remplacement, à la puissance thermique nominale totale des chaudières remplacées.
+
+Annexe 1 à la fiche d'opération standardisée IND-UT-141, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A. - IND-UT-141 (v. A88.1) : Mise en place d'une ou plusieurs chaudières industrielles neuves dont le vecteur énergétique est l'électricité pour produire un fluide caloporteur à une température supérieure à 110 °C (vapeur d'eau, eau surchauffée ou fluide thermique) en remplacement total des chaudières à combustible existantes. Le fluide caloporteur peut satisfaire des besoins de chaleur pour des usages de procédés industriels, eau chaude sanitaire et/ou chauffage des locaux sur le périmètre du site de l'opération.
+
+* Date d'engagement de l'opération (ex : date d'acceptation du devis) :
+
+Date de preuve de réalisation de l'opération (ex : date de la facture) :
+
+Référence de la facture :
+
+* Nom du site des travaux :
+
+* Adresse des travaux :
+
+Complément d'adresse :
+
+* Code postal :
+
+* Ville :
+
+* L'équipement installé est composé d'une ou plusieurs chaudières industrielles neuves dont le vecteur énergétique est l'électricité pour produire un fluide caloporteur à une température supérieure à 110 °C (vapeur d'eau, eau surchauffée ou fluide thermique) : □ OUI □ NON
+
+* Puissance thermique nominale de chaque chaudière électrique neuve installée sur le site :
+
+* L'opération concerne le remplacement total des chaudières à combustible du site pour alimenter le réseau relatif au fluide caloporteur : □ OUI □ NON
+
+* Le fluide caloporteur satisfait des besoins sur le site de l'opération : □ OUI □ NON
+
+* Les besoins de chaleur sont pour : □ usage de procédés industriels □ eau chaude sanitaire □ chauffage des locaux
+
+* L'opération consiste en une électrification totale, à l'exception des éventuels équipements de secours, de la production de fluide caloporteur : □ OUI □ NON
+
+* L'opération exclut les équipements en hybridation du chauffage d'un fluide caloporteur, résultant du remplacement d'une ou plusieurs chaudières à combustible par une ou plusieurs chaudières électriques au sein du site existant ou l'ajout d'une ou plusieurs chaudières électriques au sein du site existant : □ OUI □ NON
+
+* L'opération exclut les générateurs hybrides combinant un système à flamme et un dispositif électrique intégré (thermoplongeur(s) intégré(s) dans l'unité de chauffe), l'ajout d'un équipement électrique directement sur le corps d'une chaudière à combustible existante : □ OUI □ NON
+
+* L'opération concerne exclusivement l'installation d'une ou plusieurs chaudières électriques à jet, à électrodes, ou à thermoplongeur : □ OUI □ NON
+
+* La puissance thermique nominale totale des chaudières à combustible permettant de porter un fluide caloporteur à une température supérieure à 110°C du site est inférieure à 20 MW : □ OUI □ NON
+
+* La puissance totale nominale de la ou des chaudières électriques installées est inférieure à 20 MW : □ OUI □ NON
+
+* Nombre total de chaudière(s) industrielle(s) électrique(s) installée(s) :
+
+* Nombre de chaudières électriques □ à jet □ à électrodes □ à thermoplongeur
+
+* Puissance(s) thermique(s) nominale(s) totale de la ou des chaudière(s) industrielle(s) électrique(s) transmise(s) au fluide caloporteur : MW
+
+* Durée annuelle d'utilisation prévisionnelle du système : heures
+
+* Caractéristiques de la ou des chaudière(s) industrielle(s) électrique(s) installée(s) : (A ne remplir que si ces caractéristiques ne sont pas mentionnées sur la preuve de réalisation de l'opération)
+
+* Marque(s) :
+
+* Référence(s) :
+
+* Installation d'un dispositif de mesure de température pour mesurer la température du fluide caloporteur autre que la vapeur : □ OUI □ NON
+
+* Installation d'un dispositif de mesure de pression pour mesurer la pression du fluide caloporteur : □ OUI □ NON
+
+* Le bénéficiaire s'engage à conserver pendant six ans à compter de la date d'achèvement de l'opération et mettre à disposition de l'administration les relevés du ou des dispositifs de température et/ou de pression : □ OUI □ NON
+
+* Un ou plusieurs équipements de secours fonctionnant à combustible sont maintenus sur site pour alimenter le réseau relatif au fluide caloporteur : □ OUI □ NON
+
+* Puissance(s) thermique(s) nominale(s) totale du ou des équipements de secours : MW
+
+* Installation d'un compteur dédié pour le ou les équipements de secours permettant de relever la consommation d'énergie et les heures de fonctionnement : □ OUI □ NON
+
+* Caractéristiques du ou des équipements de secours : (A ne remplir que si ces caractéristiques ne sont pas mentionnées sur la preuve de réalisation de l'opération)
+
+* Marque(s) :
+
+* Référence(s) :
+
+* Le bénéficiaire s'engage à ce qu'aucune chaudière à combustible ne soit installée sur le site, hormis à des fins de secours du réseau relatif au fluide caloporteur, à compter de l'engagement de l'opération et pendant la durée de vie conventionnelle de la présente fiche comptabilisée à compter de l'achèvement de l'opération.
+
+* Le bénéficiaire s'engage à conserver pendant six ans à compter de la date d'achèvement de l'opération et mettre à disposition de l'administration les relevés des heures de fonctionnement de la chaudière de secours : □ OUI □ NON
+
+Coordonnées de l'entité ayant établi l'étude de dimensionnement préalable :
+
+* Raison sociale :
+
+* Numéro SIREN :
+
+* Référence de l'étude de dimensionnement :
+
+* Date de l'étude de dimensionnement : //
+
+* Le coût de l'opération lié à la présente partie A s'élève à : € HT et € TTC.
+
+Nota. - Le coût de l'opération s'entend, selon la nature de l'opération, comme le coût de l'investissement ou du service lié à la mise en œuvre de l'opération, incluant, le cas échéant, les coûts d'installation. Lorsqu'il s'agit d'un service, il est indiqué, selon le cas, le coût annuel du service ou le coût ponctuel du service. Toutefois, lorsque l'opération consiste en la location d'un équipement ou d'un véhicule, il convient d'indiquer le coût mensuel de la location. Seuls les coûts éligibles au dispositif des certificats d'économies d'énergie sont comptabilisés quand ils sont disponibles ou, à défaut, le coût total facturé.
+
+* L'ensemble des aides financières, hors incitation financière du dispositif des certificats d'économies d'énergie, octroyées par des organismes publics au titre de l'opération liée à la présente partie A, est, à la date de la présente attestation sur l'honneur, d'un montant prévisionnel total de : €.
+
 Liens :
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 271 du 16 novembre 2024, texte n° 16, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=XTp6eThAdXCu6Gjtk0heDCVuWr0oZmjTy5LY7ucMcns=

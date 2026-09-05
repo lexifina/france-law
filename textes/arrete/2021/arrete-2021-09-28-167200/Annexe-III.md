@@ -2636,6 +2636,70 @@ BI.II. Doivent être vérifiés lors des contrôles par contact
 
 Si au moins l'un des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
 
+BJ. Fiche d'opération standardisée IND-UT-141 "Mise en place d'une chaudière électrique industrielle" :
+
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en "non satisfaisant".
+
+Les critères suivants doivent conduire à un classement "non satisfaisant" de l'opération pour les contrôles sur le lieu des opérations :
+
+1) Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération, l'étude préalable de dimensionnement ;
+
+2) La preuve de la réalisation de l'opération ne comporte pas les mentions prévues par la fiche d'opération standardisée ou, le cas échéant, n'est pas accompagnée du document issu du fabricant indiquant les caractéristiques de l'équipement demandées (le nombre, la technologie et la puissance nominale) ;
+
+3) L'adresse du chantier indiquée dans l'étude de dimensionnement ne correspond pas à celle indiquée pour le contrôle ;
+
+4) L'équipement installé n'est pas une chaudière électrique industrielle à jet, à électrodes, ou à thermoplongeur ;
+
+5) La chaudière électrique installée est un générateur hybride combinant un système à flamme et un dispositif électrique intégré (thermoplongeur(s) intégré(s) dans l'unité de chauffe) ;
+
+6) La chaudière électrique installée résulte de l'ajout d'un équipement électrique directement sur le corps d'une chaudière à combustible existante ;
+
+7) La chaudière électrique installée résulte de l'ajout d'un équipement en hybridation du chauffage d'un fluide caloporteur, résultant soit du remplacement partiel d'une ou plusieurs chaudières à combustible par une ou plusieurs chaudières électriques au sein du site existant ou de l'ajout d'une ou plusieurs chaudières électriques au sein du site existant ;
+
+8) Une chaudière à combustible est installée sur le site pour alimenter le réseau relatif au fluide caloporteur, hormis à des fins de secours, à compter de l'engagement de l'opération et pendant la durée de vie conventionnelle de la présente fiche comptabilisée à compter de l'achèvement de l'opération ;
+
+9) La chaudière électrique installée n'est pas destinée à la production de fluide caloporteur à une température supérieure à 110 °C (vapeur, eau surchauffée ou fluide thermique) ;
+
+10) La température du fluide caloporteur, du fluide thermique ou de l'eau surchauffé est inférieure ou égale à 110 °C ;
+
+11) La puissance nominale totale des chaudières à combustible du site avant la réalisation de l'opération n'est pas inférieure à 20 MW ;
+
+12) La puissance totale nominale de la ou des chaudières électriques installées sur le site n'est pas inférieure à 20 MW ;
+
+13) La chaudière électrique installée ne correspond pas aux mentions indiquées sur la preuve de la réalisation de l'opération (puissance, marque, référence, rendement minimal supérieur ou égale à 99 %) ;
+
+14) L'étude de dimensionnement ne comporte pas les éléments décrits aux points I et II de la partie 4 de la fiche d'opération standardisée ;
+
+15) Le besoin de chaleur du site devant être couvert par la chaudière électrique, par type d'usage : ensemble des procédés industriels, eau chaude sanitaire et/ou chauffage des locaux, la puissance maximale et le niveau de température de chaque besoin associé à un usage n'est pas précisé dans l'étude de dimensionnement ;
+
+16) La chaudière électrique installée n'est pas conforme à la description décrite au point IV c de l'étude de dimensionnement ;
+
+17) La température du fluide caloporteur autre que la vapeur n'est pas relevée au moyen d'un dispositif de mesure dédié ;
+
+18) Dans le cas des chaudières produisant de la vapeur, la pression n'est pas relevées au moyen d'un dispositif de mesure dédié ;
+
+19) Les mesures de température ou le cas échéant de pression n'ont pas été conservées depuis la date d'achèvement ou au moins 6 ans ;
+
+20) La dépose de l'équipement existant ou sa mise en secours n'est pas mentionnée sur la preuve de réalisation de l'opération ou dans un document dédié ;
+
+21) L'équipement de secours n'est pas consigné au moyen d'une fermeture et d'une condamnation des vannes hydrauliques, d'alimentation en combustible et d'une condamnation électrique ;
+
+22) Une intervention manuelle de l'équipement de secours n'est pas nécessaire pour le déconsigner et permettre son fonctionnement ;
+
+23) La procédure de consignation n'est pas rédigée ;
+
+24) L'équipement de secours fonctionne plus de 500 heures par an ou sa consommation annuelle d'énergie finale est supérieure à 8 % de la consommation annuelle totale d'énergie finale des chaudières alimentant le réseau concerné ;
+
+25) La consommation d'énergie et les heures de fonctionnement, de l'équipement de secours, ne sont pas relevées au moyen d'un dispositif de mesure dédié ;
+
+26) Les consommations d'énergie et les heures de fonctionnement de l'équipement de secours n'ont pas été conservées depuis la date d'achèvement ou au moins 6 ans ;
+
+27) La puissance thermique nominale P n'est pas égale à la puissance thermique nominale totale des chaudières électriques installées au titre de la présente opération ou est supérieure à la puissance maximale du besoin de chaleur déterminée au point III de l'étude de dimensionnement ;
+
+28) Dans le cas d'un remplacement, la puissance thermique nominale totale de la ou des chaudières électriques installées est strictement supérieure à la puissance thermique nominale totale des chaudières remplacées.
+
+L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : P, Puissance thermique nominale, ou somme des puissances thermiques nominales (en MW) pour la ou les chaudières installées au titre de la présente opération.
+
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 29 mai 2026 (NOR : ECOR2612353A), à l'article 3 de l'arrêté du 10 août 2026 (NOR : ECOR2620231A), à l'article 4 de l'arrêté du 10 août 2026 (NOR : ECOR2618106A), au I de l'article 8 de l'arrêté du 17 août 2026 (NOR : ECOR2620460A) et à l'article 4 de l'arrêté du 17 août 2026 (NOR : ECOR2620461A), ces dispositions, dans leur rédaction résultant des arrêtés précités, entrent en vigueur le 1er septembre 2026 et s'appliquent aux opérations engagées à compter de cette date.
+Conformément à l'article 4 de l'arrêté du 1er septembre 2026 (NOR : ECOR2620296A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, s'appliquent aux opérations engagées à compter du lendemain de la publication dudit arrêté

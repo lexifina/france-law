@@ -1124,10 +1124,16 @@ A compter du 01/09/2026 |
 
 Par contact |
 
+IND-UT-141 |
+
+100 % |
+
+Sur le lieu des opérations |
+
+A compter de 2026 |
+
 (*) Sont incluses les opérations bonifiées en application de l'article 4 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie.
 
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 10 août 2026 (NOR : ECOR2618106A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur à compter du 1er septembre 2026 et s'appliquent aux opérations engagées à compter de cette date.
-
-Conformément à l'article 4 de l'arrêté du 17 août 2026 (NOR : ECOR2620461A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er septembre 2026 et s'appliquent aux opérations engagées à compter de cette date et n'ayant pas fait l'objet d'un dossier de demande d'aide au titre des dépenses éligibles mentionnées au a, b et d du 3 ou au c du 4 de l'annexe 1 du décret n° 2020-26 du 14 janvier 2020 relatif à la prime de transition énergétique dans sa version en vigueur au 1er juillet 2026, déposé auprès de l'agence mentionnée à l'article L. 321-1 du code de la construction et de l'habitation avant le 1er septembre 2026, à l'exception des demandes ayant fait l'objet d'une décision de refus.
+Conformément à l'article 4 de l'arrêté du 1er septembre 2026 (NOR : ECOR2620296A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, s'appliquent aux opérations engagées à compter du lendemain de la publication dudit arrêté
