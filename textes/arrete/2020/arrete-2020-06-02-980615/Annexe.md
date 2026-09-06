@@ -2726,9 +2726,9 @@ Adjoint chef DCT |
 
 13 |
 
-DIPN13/Bouches-du-Rhône/SIPJ/DCT |
+DIPN13/SIPJ/DCOS/Antenne OFAST |
 
-Chef brigade des stupéfiants |
+Chef groupe enquête OFAST |
 
 13 |
 
