@@ -1,12 +1,8 @@
 # Article ANNEXE 1
 
-ANNEXES
-
-ANNEXE 1
-
 LISTE DES FÉDÉRATIONS DE PÊCHEURS DE LOISIR EN 2026
 
-- Confédération « Mer et Liberté » composée des fédérations suivantes :
+1) Confédération “Mer et Liberté” composée des fédérations suivantes :
 
 - Fédération nationale de la plaisance et des pêches en mer (FNPP) ;
 
@@ -16,6 +12,8 @@ LISTE DES FÉDÉRATIONS DE PÊCHEURS DE LOISIR EN 2026
 
 - Fédération française d'études et de sports sous-marins (FFESSM) ;
 
-- Collectif des opérateurs et marins professionnels azuréens (COMPA) ;
+- Fédération nationale des associations de navigateurs plaisanciers (FNANP).
 
-- Fédération française de pêche sportive en apnée (FFPSA).
+2) Collectif des opérateurs et marins professionnels azuréens (COMPA) ;
+
+3) Fédération française de pêche sportive en apnée (FFPSA).
