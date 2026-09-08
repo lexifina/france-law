@@ -1,0 +1,9 @@
+# Réponse à la question n° 6570
+
+- Question : [6570](6570.md) — Question n° 6570 — Préparation du budget 2026 et dialogue avec les acteurs de l'ESS
+
+## Réponse
+
+*JO du 2026-09-08, page 8177*
+
+Le Gouvernement a pleinement intégré l'impératif de dialogue avec l'ensemble des acteurs de l'ESS dans la nouvelle méthode de construction budgétaire souhaitée par le Premier ministre. A ce titre, le Gouvernement a notamment fait le choix de préserver, dans la loi de finances pour 2026, les crédits dédiés au développement de l'économie sociale, solidaire et responsable du programme 305. En 2024, l'Etat a apporté un soutien évalué par la Cour des Comptes à 16 milliards d'euros aux acteurs de l'ESS comprenant les dépenses fiscales, les aides à l'embauche, les contrats aidés et les dépenses des organismes de la sécurité sociale. Ces dépenses sont répartis dans 36 missions du budget de l'Etat et 105 programmes budgétaires. La création d'un orange budgétaire dédié à l'ESS permettrait d'améliorer le pilotage de la politique publique de soutien à l'ESS et le Gouvernement y est favorable. Par ailleurs, le Gouvernement a déjà initié une concertation avec l'ensemble des parties prenantes, y compris les employeurs de l'ESS, pour répondre à l'urgence des entreprises de l'ESS en difficulté. Ainsi, une cellule de veille et d'accompagnement a été installée le 24 juin 2025 par le Gouvernement, afin de coordonner et favoriser la prise en charge opérationnelle des besoins de ces structures. Elle a également pour objet d'élaborer et d'activer des plans d'urgence sectoriels et de soutenir à l'échelle nationale d'éventuels plans d'urgence régionaux et territoriaux. Réunissant les parties prenantes à l'échelle nationale (ministères, têtes de réseaux, associations de collectivités), la cellule centralise les données sur la santé économique des structures de l'ESS afin de suivre la sinistralité du secteur et établir des plans d'action.
