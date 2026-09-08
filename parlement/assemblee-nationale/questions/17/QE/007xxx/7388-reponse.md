@@ -1,0 +1,9 @@
+# Réponse à la question n° 7388
+
+- Question : [7388](7388.md) — Question n° 7388 — Entrisme religieux
+
+## Réponse
+
+*JO du 2026-09-08, page 8197*
+
+L'État agit avec détermination contre les structures et les personnes impliquées dans des démarches relevant du séparatisme, notamment dans le champ de l'islamisme politique. Depuis 2017, cette action visant à faire respecter les principes de la République s'est notamment traduite par des fermetures de lieux de culte, des dissolutions d'associations ou de groupements de fait (ex. : le Collectif contre l'islamophobie en France en 2020 et l'Institut européen des sciences humaines en 2025), des expulsions (ex. : le prédicateur Hassan Iquioussen en 2022), des interdictions administratives du territoire, des suspensions administratives de fonds de dotation et des mesures de gel de fonds et de ressources économiques. Dans cette perspective, le Gouvernement a rendu public un rapport intitulé « Frères musulmans et islamisme politique en France ». Il précise d'aileurs que si les Frères musulmans disposent de branches officielles dans certains pays musulmans, ils n'ont aucune représentation légale en France et plus largement au sein des pays européen ce qui obère leur interdiction de facto. Ce rapport permet de mieux comprendre les caractéristiques, les stratégies d'implantation et les modes d'action de l'islamisme politique. Il constitue un outil de référence pour les services de l'État, les collectivités territoriales et les acteurs de terrain afin de mieux prévenir les dérives idéologiques contraires aux principes républicains. À la suite de sa publication, une stratégie nationale interministérielle a été arrêtée en conseil de défense le 7 juillet 2025 afin de mieux anticiper cette menace et de renforcer les moyens d'action des pouvoirs publics. Elle traduit la détermination du Gouvernement à lutter contre toute forme d'entrisme ou de séparatisme religieux.
