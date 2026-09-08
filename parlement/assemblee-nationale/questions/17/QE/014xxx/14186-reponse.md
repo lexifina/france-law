@@ -1,0 +1,9 @@
+# Réponse à la question n° 14186
+
+- Question : [14186](14186.md) — Question n° 14186 — Accès à l'éducation en milieu rural
+
+## Réponse
+
+*JO du 2026-09-08, page 8269*
+
+La région est responsable de l'organisation et du fonctionnement des transports scolaires, en coordination avec les autorités organisatrices de la mobilité (AOM) dans leurs ressorts territoriaux. Les AOM définissent librement les modalités du service (itinéraires, points d'arrêt, tarification), sans être tenues à une prise en charge de porte à porte. Les conditions de desserte tiennent compte de l'organisation de la carte scolaire, des temps de trajet, de la sécurité des élèves, des coûts et de la disponibilité des conducteurs. Pour autant, garantir aux élèves un accès effectif aux établissements scolaires suppose la mobilisation de l'ensemble des acteurs concernés : État, autorités organisatrices, collectivités desservies, établissements, services de l'éducation nationale et opérateurs de transport, dans le respect des réalités locales. C'est dans ce cadre que le Gouvernement a inité en 2022 un « plan d'actions interministériel transports scolaires », en lien avec les fédérations professionnelles du secteur du transport de voyageurs et les associations nationales d'élus locaux, prévoyant plusieurs mesures pour garantir le transport des élèves sur l'ensemble du territoire et invitant à un dialogue régulier entre toutes les parties prenantes. Le projet de loi-cadre relatif au développement des transports, adopté en première lecture au Sénat le 28 avril 2026, vise par ailleurs à refonder le modèle de financement des transports. L'objectif est de mettre à niveau les infrastructures vieillissantes, de décarboner le secteur des transports, de renforcer la résilience des réseaux face au changement climatique et de mettre en place des offres de mobilités nouvelles pour les déplacements du quotidien entre les métropoles et leurs périphéries, ainsi que dans les territoires ruraux.
