@@ -1,0 +1,9 @@
+# Réponse à la question n° 7931
+
+- Question : [7931](7931.md) — Question n° 7931 — Agressions contre les lieutenants de louveterie
+
+## Réponse
+
+*JO du 2026-09-08, page 8202*
+
+La gendarmerie nationale joue un rôle déterminant dans la protection des lieutenants de louveterie, auxiliaires bénévoles de l'État. Elle lutte contre les atteintes dont ils font l'objet comme les dégradations, menaces, violences et sécurise les battues administratives et opérations de régulation ordonnées par les préfets. Sur le terrain, l'institution renforce son occupation de l'espace public afin de dissuader le passage à l'acte. Dans le cadre du plan 239 nouvelles brigades, parmi les nouvelles unités créées, 14 sont ainsi dédiées à la protection de l'environnement et concourent directement au suivi des enjeux cynégétiques. Au niveau national, le commandement pour l'environnement et la santé (CESAN) entretient des relations régulières avec le monde cynégétique, appuyé depuis le 1er septembre 2023 par un personnel de l'Office français de la biodiversité. Au niveau local, chaque unité élémentaire compte un militaire qualifié « enquêteur environnement » assurant le lien de proximité avec les louvetiers. Sur le plan judiciaire, les victimes sont systématiquement encouragées à déposer plainte et toute infraction signalée donne lieu à une ouverture d'enquête. La gendarmerie a enregistré 19 procédures en 2023 de même qu'en 2024, 21 procédures durant l'année 2025 et 2 au cours du 1er trimestre 2026. (48 % de menaces, 26 % de violences, 22 % d'outrages, 4 % usurpation d'identité professionnelles). Les faits sont concentrés majoritairement dans le Sud de la France. 30 % d'entre eux sont recensés dans les départements de l'Hérault et des Pyrénées-Orientales. Le taux de résolution atteint 57 % en 2025, traduisant l'attention particulière portée à la protection de ces auxiliaires de l'État.
