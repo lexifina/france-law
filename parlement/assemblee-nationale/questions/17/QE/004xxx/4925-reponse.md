@@ -1,0 +1,9 @@
+# Réponse à la question n° 4925
+
+- Question : [4925](4925.md) — Question n° 4925 — Extension de l'usage de cartouches lacrymogènes par la PM pour maintenir l'ordre
+
+## Réponse
+
+*JO du 2026-09-08, page 8196*
+
+La différence entre l'armement des forces de sécurité de l'État et celui des policiers municipaux reflète un équilibre. Les policiers municipaux doivent pouvoir intervenir dans le respect de leurs prérogatives, sous l'autorité des maires, en assurant leur sécurité comme celle du public, tout en respectant la responsabilité exclusive de l'État en matière de maintien et de rétablissement de l'ordre. Sous réserve d'être formées et d'avoir l'autorisation préfectorale nécessaire, les polices municipales sont susceptibles d'être dotées d'armes létales et non létales de catégorie B (pistolet semi-automatique, pistolet à impulsion électrique, LBD, diffuseur lacrymogène), C et D (bâtons, tonfas…), comme le prévoit l'article R. 551-12 du code de la sécurité intérieure. Équiper les policiers municipaux d'armes de catégorie A, comme les grenades aveuglantes ou lacrymogènes, serait contraire à cette ligne de partage. Le Gouvernement n'est pas favorable à ce que les municipalités endossent une responsabilité nouvelle en matière de maintien et de rétablissement de l'ordre. Plus largement, les travaux de concertation dans le cadre du Beauvau des polices municipales entamés en 2024 ont permis d'aborder un grand nombre de sujets, comme les moyens, mais aussi les prérogatives ou encore la formation. Pour adapter les polices municipales aux défis actuels et à venir, le Gouvernement a présenté en octobre 2025 un projet de loi relatif à l'extension des prérogatives, des moyens, de l'organisation et du contrôle des polices municipales et des gardes champêtres. Après son adoption par le Sénat en février 2026, le texte est en cours d'examen à l'Assemblée nationale.
