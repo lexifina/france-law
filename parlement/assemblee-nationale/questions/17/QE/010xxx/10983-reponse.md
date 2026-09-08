@@ -1,0 +1,9 @@
+# Réponse à la question n° 10983
+
+- Question : [10983](10983.md) — Question n° 10983 — Non-recouvrement du forfait post-stationnement - Véhicule étranger
+
+## Réponse
+
+*JO du 2026-09-08, page 8222*
+
+La loi n° 2014-58 du 27 janvier 2014 de modernisation de l'action publique territoriale et d'affirmation des métropoles a procédé à la décentralisation du stationnement payant en instituant une redevance de stationnement administrative (article L. 2333-87 du code général des collectivités territoriales (CGCT). Depuis l'entrée en vigueur, le 1er janvier 2018, du forfait post-stationnement, il n'est plus possible de poursuivre les conducteurs dont les véhicules sont immatriculés à l'étranger sur la base des accords bilatéraux initiaux (identification des contrevenants, notification des avis de paiement), conclus notamment avec la Belgique et la Suisse. Afin toutefois de permettre la poursuite des conducteurs précités, il a été décidé de modifier l'accord entre le Gouvernement de la République française et le Conseil fédéral suisse relatif à la coopération transfrontalière en matière judiciaire, policière et douanière, signé le 9 octobre 2007. Ainsi, le 21 novembre 2022, un avenant à cet accord a été signé à Berne, rendant possible la coopération transfrontalière en cas de non-paiement des redevances de stationnement. Enfin, il est à souligner qu'une demande forte émane également d'autres États membres de l'Union européenne, pour que ces infractions aux règles de stationnement et le non-paiement de la redevance de stationnement soient intégrés dans la législation européenne. Des efforts sont ainsi engagés en ce sens, afin d'enrichir le champ d'application de la directive européenne 2015/413/UE facilitant l'échange transfrontalier d'informations concernant les infractions en matière de sécurité routière.
