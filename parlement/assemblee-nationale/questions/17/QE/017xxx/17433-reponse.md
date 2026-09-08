@@ -1,0 +1,9 @@
+# Réponse à la question n° 17433
+
+- Question : [17433](17433.md) — Question n° 17433 — Accompagnement des communes dans la sécurisation des passages piétons
+
+## Réponse
+
+*JO du 2026-09-08, page 8278*
+
+La suppression des places de stationnement situées à moins de cinq mètres en amont des passages piétons est une mesure d'origine parlementaire qui s'inscrit dans l'objectif de sécuriser les traversées piétonnes. En améliorant la visibilité entre conducteurs et piétons, elle concourt à améliorer la sécurité de ces usagers vulnérables. La disposition est applicable depuis la promulgation de la loi n° 2019-1428 du 24 décembre 2019 d'orientation des mobilités pour toute réalisation de travaux d'aménagement, de réhabilitation et de réfection des chaussées ; l'ensemble des passages piétons doit être mis en conformité au plus tard le 31 décembre 2026. Cette date a été choisie par les parlementaires à l'origine de la disposition pour coïncider avec la fin des mandats municipaux et en anticipant, dans le délai de sept ans depuis la promulgation de la loi, et compte tenu de la durée de vie du marquage au sol d'un passage piéton, un renouvellement complet du marquage des passages piétons. La mise en conformité qui était jusqu'alors une recommandation est devenue avec la promulgation de la loi une obligation. Ces éléments ont été précisés dans le cadre du service après-vote de la loi, dans un mémo à l'intention des collectivités territoriales, téléchargeable sur le site internet du ministère des transports. Les modalités de réponse à cette obligation sont variables et à la main des collectivités territoriales et peuvent relever d'actions et d'aménagements divers, pour certains avec des faibles investissements, lesquels sont illustrés par une fiche du Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement de 2020.
