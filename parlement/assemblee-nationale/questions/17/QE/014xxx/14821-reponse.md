@@ -1,0 +1,9 @@
+# Réponse à la question n° 14821
+
+- Question : [14821](14821.md) — Question n° 14821 — Hiérarchie des modalités de vote : scrutin secret et scrutin public
+
+## Réponse
+
+*JO du 2026-09-08, page 8128*
+
+L'article L. 2121-21 du code général des collectivités territoriales (CGCT), applicable aux conseils municipaux, dispose que "le vote a lieu au scrutin public à la demande du quart des membres présents. Il est voté au scrutin secret : 1° Soit lorsqu'un tiers des membres présents le réclame ; 2° Soit lorsqu'il y a lieu de procéder à une nomination ou à une présentation. [...] Le conseil municipal peut décider, à l'unanimité, de ne pas procéder au scrutin secret aux nominations ou aux présentations, sauf disposition législative ou réglementaire prévoyant expressément ce mode de scrutin.". Les articles L. 3121-15 et L. 4132-14 du même code prévoient respectivement des dispositions similaires pour les conseils départementaux et régionaux. Le Conseil d'Etat a considéré qu'en cas de simultaneité entre une demande de vote de scrutin public et une demande de vote au scrutin secret, il convient de faire droit à la demande de vote au scrutin secret dès lors que la demande est portée par le tiers des membres présents, alors même que la demande de scrutin public est soutenue par un nombre plus élevé de conseillers municipaux (Conseil d'Etat, 15 mai 1908, Sieur Souet, Lebon p. 511). En l'espèce, une demande de scrutin secret avait été formulée régulièrement avant qu'une autre demande, cette fois à scrutin public, soit également déposée. Au regard de la décision, il y a simultanéité lorsque les deux demandes sont déposées au cours de la même séance pour une même délibération. Dans ces conditions, au regard de la jurisprudence constante du Conseil d'Etat, une demande de scrutin public ne peut valablement avoir pour effet d'annuler ou de faire obstacle à une demande prélable de vote au scrutin secret.
