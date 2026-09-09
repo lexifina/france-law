@@ -150,17 +150,15 @@ Dans les deux situations ci-dessus, la prise en charge de la responsabilité de 
 
 Le chargement ou le déchargement de colis contenant des marchandises dangereuses est interdit sur la voie publique.
 
-Toutefois, sont autorisés :
+Toutefois, sont autorisés, lorsqu'il n'est pas possible d'opérer autrement :
 
-- le déchargement et la reprise des colis de la classe 2, s'ils ne portent pas d'étiquette du modèle n° 2. 3, ainsi que le déchargement et la reprise des colis de la classe 2 portant une étiquette du modèle n° 2. 3 lorsqu'il n'est pas possible d'opérer autrement ;
+- le déchargement et la reprise des colis de la classe 2 ;
 
-- le déchargement des colis munis d'une seule étiquette de danger correspondant aux modèles n os 3, 4. 1, 4. 2, 4. 3, 5. 1, 8 ou 9 ;
+- le déchargement et le chargement des colis munis d'une seule étiquette de danger correspondant aux modèles n os 3, 4. 1, 4. 2, 4. 3, 5. 1, 8 ou 9 ;
 
 - le déchargement des colis des matières suivantes de la classe 6.1 : n° ONU 1593 dichlorométhane, n° ONU 1710 trichloréthylène, n° ONU 1897 tétrachloréthylène et n° ONU 2831 trichloro-1, 1, 1 éthane, et le chargement des colis de résidus de ces mêmes matières ;
 
-- le chargement des colis d'huiles usagées du n° ONU 3082 ;
-
-- le chargement des colis contenant des matières et objets affectés au n° ONU 3291, lorsque les établissements de soins et assimilés ne disposent pas d'emplacement dédié au stationnement des véhicules d'enlèvement ;
+- le chargement des colis contenant des matières et objets affectés au n° ONU 3291, ou des matières affectées aux nos ONU 1992, 3286, 2922 ou 2923 relevant des groupes d'emballage II ou III, lorsque les établissements de soins et assimilés ne disposent pas d'emplacement dédié au stationnement des véhicules d'enlèvement ;
 
 - les livraisons des matières suivantes relevant des groupes d'emballage II ou III, destinées au traitement de l'eau et conditionnées en GRV dans les conditions fixées au paragraphe 3.7.1 de la présente annexe I :
 
@@ -178,19 +176,23 @@ Toutefois, sont autorisés :
 
 -acide sulfurique du n° ONU 2796 ;
 
--produit floculant à base de sels d'ammonium du n° ONU 3264.
+-produits coagulants ou floculants classés sous le n° ONU 3264.
+
+Lors des opérations de chargement ou de déchargement, le conducteur délimite et balise la zone d'intervention à l'aide d'un dispositif approprié (cônes, rubalise…) afin d'éloigner et d'interdire la présence dans cette zone de toute personne étrangère à ces opérations.
+
+Les matières et objets concernés par ces opérations de chargement, de déchargement ou de reprise de colis ne peuvent pas faire l'objet d'un dépôt préalable sur un emplacement public.
 
 2.2.1.3. Citernes.
 
 Sont interdits sur la voie publique le remplissage ou la vidange de citernes ainsi que la prise d'échantillon dans ces citernes.
 
-Toutefois, s'il n'est pas possible d'opérer autrement, il est autorisé de procéder au chargement et à la vidange :
+Toutefois, s'il n'est pas possible d'opérer autrement, il est autorisé de procéder au remplissage et à la vidange :
 
 - de boissons alcoolisées du n° ONU 3065 ;
 
 - de gaz naturels comprimés du n° ONU 1971, en cas d'indisponibilité des réseaux de canalisations de gaz, uniquement pour maintenir l'alimentation du réseau sous réserve de l'établissement, par l'opérateur, d'un mode opératoire normalisé garantissant le respect de consignes de sécurité validées par décision du ministre chargé des transports terrestres de matières dangereuses ;
 
-- d'huiles usagées du n° ONU 3082.
+- de déchets affectés aux nos ONU 1202, 1203, 1993, 3082 et 3295.
 
 Enfin, s'il n'est pas possible d'opérer autrement, il est autorisé de procéder à la vidange :
 
@@ -200,7 +202,7 @@ Enfin, s'il n'est pas possible d'opérer autrement, il est autorisé de procéde
 
 - d'hydrocarbures liquides (n° ONU 1202, n° ONU 1203, n° ONU 3256 [uniquement huile de chauffe lourde] et n° ONU 3475) ;
 
-- des matières du groupe d'emballage II ou III, des nos ONU 1789,1791,1824,1908,2582,2693 et 2796, ainsi que des produits floculants à base de sels d'aluminium du n° ONU 3264 ;
+- des matières du groupe d'emballage II ou III, des nos ONU 1789,1791,1824,1908,2582,2693 et 2796, ainsi que des produits coagulants ou floculants destinés au traitement des eaux et classés sous le n° ONU 3264 ;
 
 - et, dans la limite de capacité de 8 m3 par unité de transport, des matières de la classe 6.1 des nos ONU 1593,1710,1897 et 2831.
 
@@ -744,8 +746,6 @@ En application du 8.3.3. de l'ADR, l'ouverture des colis en cours de transport e
 
 3.7.1. Livraison de certaines matières dangereuses liquides en GRV (à l'exception des carburants visés au 3.7.2).
 
-Lorsque la livraison de ces produits par véhicule-citerne n'est pas possible ou lorsque leur déchargement dans les réservoirs destinés à les accueillir ne peut s'effectuer autrement sans risque excessif pour la sécurité des personnes ou pour l'environnement, le déchargement des produits de traitement de l'eau par vidange de GRV peut être autorisé. Les prescriptions complémentaires applicables à ces livraisons figurent à l'appendice IV. 9 du présent arrêté.
-
 3.7.1.1. Lorsque la livraison de ces produits par véhicule-citerne n'est pas possible ou lorsque leur déchargement dans les réservoirs destinés à les accueillir ne peut s'effectuer autrement sans risque excessif pour la sécurité des personnes ou pour l'environnement, le déchargement par vidange de GRV des matières destinées au traitement de l'eau dont la liste figure au 2.2.1.2 peut être autorisé sur la voie publique.
 
 3.7.1.2. Sur les sites des destinataires, lorsque les quantités livrées ne justifient pas l'utilisation de citernes, le déchargement de certaines matières dangereuses liquides par vidange de GRV peut être autorisé sous réserve que ces dernières relèvent des groupes d'emballage II ou III et des classes 3,5.1,6.1,8 ou 9.
@@ -1050,7 +1050,11 @@ Relèvent de cette catégorie les faits suivants :
 
 23) L'absence de désignation d'un conseiller à la sécurité pour chaque entreprise, le cas échéant ;
 
-24) Le non-respect du point 1.10 de l'ADR relatif aux dispositions en matière de sécurité, le cas échéant.
+24) Le non-respect du point 1.10 de l'ADR relatif aux dispositions en matière de sûreté, le cas échéant ;
+
+25) L'absence à bord d'un agent agréé de convoyage ;
+
+26) Le non-respect de l'interdiction de transport de marchandises dangereuses dans un véhicule de transport en commun de personnes.
 
 Catégorie de risque II : risque de dommages corporels ou de dommages environnementaux et devant normalement amener à prendre des mesures correctives appropriées, comme l'obligation de se mettre en ordre sur les lieux mêmes du contrôle dans la mesure du possible ou au plus tard à l'issue de l'opération de transport en cours. Si ces infractions sont constatées lors de contrôles dans les entreprises, ces infractions font normalement l'objet d'autres mesures appropriées.
 
@@ -1070,7 +1074,7 @@ Relèvent de cette catégorie les faits suivants :
 
 7) Le transport de marchandises en colis dans un véhicule ou un conteneur qui n'est pas structurellement en bon état ;
 
-8) Le fait que des citernes ou des wagons-citernes, des véhicules, des conteneurs ou des colis (y compris vides et non nettoyés) n'aient pas été fermés convenablement ;
+8) Le fait que des citernes ou des conteneurs-citernes, des véhicules, des conteneurs ou des colis (y compris vides et non nettoyés) n'aient pas été fermés convenablement ;
 
 9) Le fait que des colis, des citernes, des véhicules ou un moyen de rétention soient munis d'un étiquetage, d'un marquage (y compris la signalisation orange), d'un placardage ou d'autres signes d'identification incorrects ;
 
