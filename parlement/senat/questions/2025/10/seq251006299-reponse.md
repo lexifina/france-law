@@ -1,0 +1,9 @@
+# Réponse à la question SEQ251006299
+
+- Question : [SEQ251006299](seq251006299.md) — Délai pour l'examen du permis de conduire
+
+## Réponse
+
+*Intérieur , JO du 2026-09-10, page 4346*
+
+Conscient des difficultés d'accès aux places, le Gouvernement poursuit les recrutements d'inspecteurs avec 80 postes au concours en 2026. Ces mesures visent à réduire les délais, en particulier dans les départements en tension. Dans chaque département où le délai médian dépasse 80 jours, un comité de suivi a été instauré sous l'autorité du préfet, afin d'adapter localement la production de places. Des inspecteurs retraités sont également mobilisés pour renforcer ponctuellement les effectifs. Le département du Loiret, où le délai médian est de 104 jours, bénéficie de cette démarche collaborative. Cette instance a pour mission d'accompagner efficacement les acteurs locaux afin de répondre au mieux aux attentes des usagers. Les autres indicateurs relatifs au permis de conduire dans le Loiret sont suivis attentivement. Le taux de réussite annualisé pour le mois d'octobre 2025 s'établit à 62,93 %, soit un niveau supérieur au taux moyen national (59,70 %), mais légèrement inférieur au taux régional (63,05 %). Le ratio réel formateur, quant à lui, s'élève à 5,4, un chiffre inférieur à la moyenne nationale (7,1) et régionale (7,4). L'engagement de travaux d'harmonisation des taux de réussite menés localement permettra de fluidifier sensiblement le passage des épreuves. En outre, l'arrivée prochaine sur le terrain dans le Loiret de deux inspecteurs stagiaires entrés en formation en septembre dernier va renforcer la capacité de production d'examens. Le Gouvernement demeure pleinement mobilisé pour améliorer l'accès à l'examen du permis de conduire et réduire les délais d'attente, en tenant compte des spécificités territoriales.
