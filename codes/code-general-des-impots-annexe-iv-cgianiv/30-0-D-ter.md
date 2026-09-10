@@ -104,7 +104,7 @@ a) Pour les pompes à chaleur air/air de puissance thermique nominale inférieur
 
 b) Pour les pompes à chaleur air/air de puissance thermique nominale supérieure à 12 kW, l'efficacité énergétique saisonnière de la pompe à chaleur, déterminée par le règlement européen (UE) 2016/2281 de la Commission du 30 novembre 2016 mettant en œuvre la directive 2009/125/CE du Parlement européen et du Conseil établissant un cadre pour la fixation d'exigences en matière d'écoconception applicables aux produits liés à l'énergie, en ce qui concerne les exigences d'écoconception applicables aux appareils de chauffage à air, aux appareils de refroidissement, aux refroidisseurs industriels haute température et aux ventilo-convecteurs, est supérieure ou égale à :
 
-i) 145 % pour le chauffage et 250 % pour le refroidissement dans le cas d'une pompe à chaleur air/air en toiture ;
+i) 145 % pour le chauffage et 250 % pour le refroidissement, sauf dans le cas d'une pompe à chaleur air/air en toiture ;
 
 ii) 130 % pour le chauffage et 150 % pour le refroidissement dans le cas d'une pompe à chaleur air/air en toiture intégrant le chauffage, le refroidissement, la ventilation, le rafraîchissement par surventilation nocturne et la filtration ;
 
@@ -411,7 +411,3 @@ Toutes |
 Pour les chaudières fonctionnant au bois ou autres biomasses utilisées comme appoint, le critère requis s'applique à l'indice d'efficacité énergétique au sens du règlement délégué (UE) 2015/1187 de la Commission du 27 avril 2015 complétant la directive 2010/30/ UE du Parlement européen et du Conseil en ce qui concerne l'étiquetage énergétique des chaudières à combustible solide et des produits combinés constitués d'une chaudière à combustible solide, de dispositifs de chauffage d'appoint, de régulateurs de température et de dispositifs solaires. Lorsque l'indice d'efficacité énergétique de cet appoint n'est pas connu, la valeur conventionnelle utilisée est de 98 %.
 
 Pour les équipements mentionnés au b du présent 5° installés sur planchers chauffants, l'efficacité énergétique saisonnière est calculée grâce à un logiciel en utilisant les valeurs conventionnelles suivantes pour le ballon de stockage : volume de 2 000 litres, classe d'efficacité énergétique A +. Les références du logiciel sont rendues publiques sur le site internet du ministère chargé de l'énergie.
-
-NOTA :
-
-Conformément au premier alinéa de l'article 2 de l'arrêté du 4 décembre 2024 (NOR : BCPE2431738A), ces dispositions entrent en vigueur le 1er janvier 2025.
