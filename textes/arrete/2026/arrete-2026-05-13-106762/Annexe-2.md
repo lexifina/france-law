@@ -26,9 +26,9 @@ Attestations de régularité sociale délivrées, chacun en ce qui le concerne, 
 
 Attestation de régularité fiscale délivrée, par la direction générale des finances publiques, à la date de la demande faite par le bénéficiaire.
 
-Attestation comptable dûment certifiée par un expert-comptable, un commissaire aux comptes présentant le chiffre d'affaires du navire objet de la demande. Exceptionnellement, la certification de l'annexe financière par un comptable ou un commissaire aux comptes peut suffire.
+Attestation comptable dûment certifiée par un expert-comptable, un commissaire aux comptes présentant le chiffre d'affaires du navire objet de la demande. Pour les micro-entreprises non soumises à la certification des comptes par un tiers, une attestation par un tiers de confiance (centre de gestion) est possible dans le seul cas où le navire a bénéficié de l'arrêt temporaire prévu par l'arrêté du 23 avril 2025 relatif à la mise en œuvre d'un arrêt temporaire aidé des activités de pêche pour les navires pêchant le stock de saumon dans les eaux maritimes de l'Adour pour l'année 2025 et que les données comptables sont inchangées.
 
-Le cas échéant, attestation comptable dûment certifiée par un expert-comptable ou un commissaire aux comptes, présentant le caractère anormal d'un mois de référence de 2022, 2023 ou 2024 pour le calcul du chiffre d'affaires. Exceptionnellement, la certification de l'annexe financière par un comptable ou un commissaire aux comptes peut suffire.
+Le cas échéant, attestation comptable dûment certifiée par un expert-comptable ou un commissaire aux comptes, présentant le caractère anormal d'un mois de référence de 2022, 2023 ou 2024 pour le calcul du chiffre d'affaires. Pour les micro-entreprises non soumises à la certification des comptes par un tiers, une attestation par un tiers de confiance (centre de gestion) est possible dans le seul cas où le navire a bénéficié de l'arrêt temporaire prévu par l'arrêté du 23 avril 2025 relatif à la mise en œuvre d'un arrêt temporaire aidé des activités de pêche pour les navires pêchant le stock de saumon dans les eaux maritimes de l'Adour pour l'année 2025 et que les données comptables sont inchangées.
 
 Calculatrice de l'aide à télécharger directement depuis la plateforme E-SYNERGIE.
 
