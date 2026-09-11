@@ -14,7 +14,7 @@ NOMBRE
 
 d'emplois concernés |
 
-I. - Administration centrale |
+I. - Administration centrale
 
 |
 
@@ -22,7 +22,9 @@ I. - Administration centrale |
 
 |
 
-1. Emploi lié à l'informatique et aux nouvelles technologies |
+|
+
+1. Emploi lié à l'informatique et aux nouvelles technologies
 
 |
 
@@ -30,7 +32,11 @@ I. - Administration centrale |
 
 |
 
-Chargé de communication interne et institutionnelle |
+|
+
+Chargé de communication interne et institutionnelle
+
+|
 
 A ou B |
 
@@ -38,7 +44,7 @@ A ou B |
 
 1 |
 
-2. Secrétariat comportant des contraintes particulières en matière d'horaires |
+2. Secrétariat comportant des contraintes particulières en matière d'horaires
 
 |
 
@@ -46,7 +52,11 @@ A ou B |
 
 |
 
-Assistante de direction |
+|
+
+Assistante de direction
+
+|
 
 B ou C |
 
@@ -54,7 +64,9 @@ B ou C |
 
 2 |
 
-Assistante de direction |
+Assistante de direction
+
+|
 
 B ou C |
 
@@ -62,7 +74,9 @@ B ou C |
 
 4 |
 
-Assistante de direction DG et DGA |
+Assistante de direction DG et DGA
+
+|
 
 B ou C |
 
@@ -70,7 +84,9 @@ B ou C |
 
 2 |
 
-Secrétaire assistant |
+Secrétaire assistant
+
+|
 
 B ou C |
 
@@ -78,7 +94,7 @@ B ou C |
 
 2 |
 
-3. Responsabilité d'encadrement |
+3. Responsabilité d'encadrement
 
 |
 
@@ -86,7 +102,11 @@ B ou C |
 
 |
 
-Adjoint au directeur de cabinet |
+|
+
+Adjoint au directeur de cabinet
+
+|
 
 A |
 
@@ -94,7 +114,9 @@ A |
 
 1 |
 
-Chef du bureau du cabinet ministériel |
+Chef du bureau du cabinet ministériel
+
+|
 
 A |
 
@@ -102,7 +124,9 @@ A |
 
 1 |
 
-Responsable de l'action sociale |
+Responsable de l'action sociale
+
+|
 
 B |
 
@@ -110,7 +134,9 @@ B |
 
 1 |
 
-Adjoint au chef de bureau des ressources et de la coordination, chef de la section RH-GPEEC |
+Adjoint au chef de bureau des ressources et de la coordination, chef de la section RH-GPEEC
+
+|
 
 A |
 
@@ -118,7 +144,9 @@ A |
 
 1 |
 
-Adjoint au chef du bureau de la vie économique, de l'emploi et de la formation |
+Adjoint au chef du bureau de la vie économique, de l'emploi et de la formation
+
+|
 
 A |
 
@@ -126,7 +154,9 @@ A |
 
 1 |
 
-Adjoint au chef du bureau du droit privé, et du droit des activités économiques et sociales |
+Adjoint au chef du bureau du droit privé, et du droit des activités économiques et sociales
+
+|
 
 A |
 
@@ -134,7 +164,9 @@ A |
 
 1 |
 
-Chef de la mission du droit européen et international |
+Chef de la mission du droit européen et international
+
+|
 
 A |
 
@@ -142,7 +174,7 @@ A |
 
 1 |
 
-4. Emploi impliquant une technicité particulière ou une responsabilité particulière |
+4. Emploi impliquant une technicité particulière ou une responsabilité particulière
 
 |
 
@@ -150,7 +182,11 @@ A |
 
 |
 
-Chef de la section logistique, déplacements, finances du cabinet ministériel |
+|
+
+Chef de la section logistique, déplacements, finances du cabinet ministériel
+
+|
 
 A |
 
@@ -158,7 +194,9 @@ A |
 
 1 |
 
-Chef de la section des ressources humaines, responsable référent unique AEL du cabinet ministériel |
+Chef de la section des ressources humaines, responsable référent unique AEL du cabinet ministériel
+
+|
 
 A |
 
@@ -166,7 +204,9 @@ A |
 
 1 |
 
-Adjoint au chef de la section des ressources humaines, responsable référent unique AEL du cabinet ministériel |
+Adjoint au chef de la section des ressources humaines, responsable référent unique AEL du cabinet ministériel
+
+|
 
 A ou B |
 
@@ -174,7 +214,9 @@ A ou B |
 
 1 |
 
-Agent responsable de la section solde |
+Agent responsable de la section solde
+
+|
 
 B |
 
@@ -182,7 +224,9 @@ B |
 
 1 |
 
-Gestionnaire de la mission outre-mer |
+Gestionnaire de la mission outre-mer
+
+|
 
 B ou C |
 
@@ -190,7 +234,9 @@ B ou C |
 
 2 |
 
-Gestionnaire des ressources budgétaires et logistiques |
+Gestionnaire des ressources budgétaires et logistiques
+
+|
 
 B |
 
@@ -198,7 +244,9 @@ B |
 
 1 |
 
-Gestionnaire des ressources budgétaires |
+Gestionnaire des ressources budgétaires
+
+|
 
 B ou C |
 
@@ -206,7 +254,9 @@ B ou C |
 
 1 |
 
-Secrétaire assistant |
+Secrétaire assistant
+
+|
 
 C |
 
@@ -214,7 +264,9 @@ C |
 
 1 |
 
-Assistant de gestion au bureau de la cohésion sociale, de la santé et de l'enseignement |
+Assistant de gestion au bureau de la cohésion sociale, de la santé et de l'enseignement
+
+|
 
 B |
 
@@ -222,7 +274,9 @@ B |
 
 1 |
 
-Chargé de mission sécurité civile |
+Chargé de mission sécurité civile
+
+|
 
 A |
 
@@ -230,7 +284,9 @@ A |
 
 1 |
 
-Gestionnaire ressources humaines |
+Gestionnaire ressources humaines
+
+|
 
 B ou C |
 
@@ -238,7 +294,9 @@ B ou C |
 
 1 |
 
-Chef de la section du budget et de la logistique |
+Chef de la section du budget et de la logistique
+
+|
 
 A |
 
@@ -246,7 +304,9 @@ A |
 
 1 |
 
-Adjoint au chef du bureau des finances et de la performance des outre-mer |
+Adjoint au chef du bureau des finances et de la performance des outre-mer
+
+|
 
 A |
 
@@ -254,7 +314,9 @@ A |
 
 1 |
 
-Adjoint au chef du bureau chargé de la mission juriste |
+Adjoint au chef du bureau chargé de la mission juriste
+
+|
 
 A |
 
@@ -262,7 +324,9 @@ A |
 
 1 |
 
-Assistant de gestion défiscalisation |
+Assistant de gestion défiscalisation
+
+|
 
 C |
 
@@ -270,7 +334,9 @@ C |
 
 1 |
 
-Assistant de gestion politique régionale |
+Assistant de gestion politique régionale
+
+|
 
 C |
 
@@ -460,83 +526,101 @@ B |
 
 Adjoint au directeur de cabinet, directeur des sécurités
 
-|
-
-A |
-
-20 |
-
-1 |
-
 Directeur de l'action de l'Etat et de la coordination des politiques publiques
 
 |
 
-A |
+A
 
-20 |
+A
 
-1 |
+|
+
+20
+
+20
+
+|
+
+1
+
+1
+
+|
 
 Secrétaire général de subdivision administrative
 
 |
 
-A |
+|
 
-15 |
+|
 
-3 |
+|
 
 Chef du bureau des ressources humaines
 
-|
-
-A |
-
-15 |
-
-1 |
-
-Chef du bureau du conseil et du contentieux
+Chef du bureau du contrôle et du conseil des collectivités et institutions locales
 
 |
 
-A |
+A
 
-15 |
+A
 
-1 |
+A
+
+|
+
+15
+
+10
+
+10
+
+|
+
+3
+
+1
+
+1
+
+|
 
 Chef du bureau de l'action interministérielle
 
 |
 
-A |
-
-15 |
-
-1 |
-
-Chef du bureau des moyens
+|
 
 |
 
-A |
+|
 
-10 |
-
-1 |
+Chef du bureau du budget, des achats et de la logistique
 
 Chef du centre de services partagés interministériel (CSPI)
 
 |
 
-A |
+A
 
-10 |
+A
 
-1 |
+|
+
+10
+
+10
+
+|
+
+1
+
+1
+
+|
 
 Chef du bureau des contrats de développement et des interventions financières
 
@@ -562,21 +646,47 @@ Chef du service numérique
 
 |
 
-A |
-
-10 |
-
-1 |
-
-Responsable de la section rémunérations
+|
 
 |
 
-B |
+|
 
-10 |
+Responsable de la section rémunérations
 
-1 |
+Adjoint au directeur
+
+|
+
+A
+
+A
+
+B
+
+A
+
+|
+
+10
+
+10
+
+10
+
+5
+
+|
+
+1
+
+1
+
+1
+
+3
+
+|
 
 3. Wallis et Futuna
 
