@@ -4,4 +4,6 @@ Annexe non reproduite.
 
 NOTA :
 
-Nota. - Le cahier des charges cité à l'article 1er sera publié sur le site internet du ministère du travail, de la santé et des solidarités : www.sante.gouv.fr/article-51.
+Nota. - Le cahier des charges cité à l'article 1er ci-dessus est publié sur le site internet du ministère chargé de la santé :
+
+www.sante.gouv.fr/article-51
