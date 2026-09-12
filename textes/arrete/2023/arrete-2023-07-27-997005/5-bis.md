@@ -1,0 +1,5 @@
+# Article 5 bis
+
+Les étudiants admis en formation initiale ou continue peuvent bénéficier d'une validation des compétences et des connaissances acquises dans un autre cadre. Ils peuvent également bénéficier d'une adaptation de l'organisation et de la durée de leur formation.
+
+Ces validations et ces réorganisations éventuelles sont prononcées par le directeur de l'établissement, en début de cursus et le cas échéant en cours de formation, après avis de l'encadrement et de l'équipe pédagogique du cursus, selon des procédures définies par le règlement des études. Elles sont décidées au regard, notamment, des résultats de l'examen ou du concours d'entrée, du parcours de formation antérieur et, le cas échéant, suivi en parallèle et de l'expérience professionnelle de chaque candidat.
