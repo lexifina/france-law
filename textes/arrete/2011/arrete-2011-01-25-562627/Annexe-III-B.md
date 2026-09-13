@@ -1,40 +1,26 @@
 # Article Annexe III-B
 
-CERTIFICATIONS DÉLIVRÉES PAR LE MINISTÈRE DES SPORTS, LA FÉDÉRATION FRANÇAISE D'ÉQUITATION, LA CPNE-EE
+CERTIFICATIONS DÉLIVRÉES PAR LE MINISTÈRE DES SPORTS, LA FÉDÉRATION FRANÇAISE D'ÉQUITATION OU LA CPNE-EE
 
 Vous avez obtenu |
 
-Equivalences dans le DESJEPS “ équitation ” |
+Equivalences dans le DESJEPS (*) "Equitation" |
 
-EPEF
+TEP (*) Epreuves techniques |
 
-(1)
+TEP Epreuve pédagogique |
 
-Epreuve
+EPMSP (*) |
 
-technique |
+UC (*) 1 |
 
-EPEF
+UC2 |
 
-(1)
+UC3 |
 
-Epreuve
+UC4 |
 
-pédagogique |
-
-EPMSP
-
-(2) |
-
-UC 1 |
-
-UC 2 |
-
-UC 3 |
-
-UC 4 |
-
-Diplômes, titres ou certificats de niveau 4 minimum permettant l'encadrement des activités équestres contre rémunération au sens de l'article L. 212-1 du code du sport et justifiant de 300h d'encadrement sportif sur les 5 dernières années dans le champ de l'équitation |
+Diplômes, titres ou certificats de niveau 4 minimum permettant l'encadrement des activités équestres contre rémunération au sens de l'article L. 212-1 du code du sport obtenus au cours des cinq dernières années ou justifier de 300 heures d'encadrement sportif sur les 5 dernières années dans le champ de l'équitation |
 
 |
 
@@ -50,7 +36,39 @@ X |
 
 |
 
-Degré 4 de la Fédération française d'équitation |
+Candidat titulaire de l'attestation de réussite aux épreuves de la partie commune du BEES 2 (*) |
+
+|
+
+|
+
+|
+
+X |
+
+X |
+
+|
+
+|
+
+Candidat titulaire de l'attestation de réussite à la partie spécifique du BEES 2 option "équitation" |
+
+X |
+
+X |
+
+|
+
+|
+
+|
+
+X |
+
+X |
+
+Degré 4 de la FFE (*) |
 
 X |
 
@@ -66,7 +84,7 @@ X |
 
 |
 
-Degré 5 de la Fédération française d'équitation et justifiant de 300h d'encadrement sportif sur les 5 dernières années dans le champ de l'équitation |
+Degré 5 de la FFE et justifier de 300 heures d'encadrement sportif sur les 5 dernières années dans le champ de l'équitation |
 
 X |
 
@@ -82,7 +100,7 @@ X |
 
 X |
 
-DEJEPS spécialité “ perfectionnement sportif ” mention “ sports équestres “ et justifiant de 300h d'encadrement sportif sur les 5 dernières années dans le champ de l'équitation |
+DEJEPS (*) spécialité "perfectionnement sportif" mention "sports équestres" obtenu au cours des cinq dernières années ou justifier de 300 heures d'encadrement sportif sur les 5 dernières années dans le champ de l'équitation |
 
 |
 
@@ -98,7 +116,7 @@ X |
 
 |
 
-BEES 2° option “ équitation ” et justifiant de 300h d'encadrement sportif sur les 5 dernières années dans le champ de l'équitation |
+BEES 2 option "équitation" et justifier de 300 heures d'encadrement sportif sur les 5 dernières années dans le champ de l'équitation |
 
 X |
 
@@ -114,23 +132,7 @@ X |
 
 X |
 
-DESJEPS spécialité “ performance sportive ” mentions “ dressage ” ou “ concours de saut d'obstacles ” ou “ concours complet ” sport et justifiant de 300h d'encadrement sportif sur les 5 dernières années dans le champ de l'équitation |
-
-X |
-
-X |
-
-X |
-
-X |
-
-X |
-
-|
-
-|
-
-DESJEPS spécialité “ performance sportive ” mention “ sports équestres ” et justifiant de 300h d'encadrement sportif sur les 5 dernières années dans le champ de l'équitation |
+DESJEPS spécialité "performance sportive" mentions "dressage" ou "concours de saut d'obstacles" ou "concours complet" et justifier de 300 heures d'encadrement sportif sur les 5 dernières années dans le champ de l'équitation |
 
 X |
 
@@ -144,24 +146,36 @@ X |
 
 |
 
+|
+
+DESJEPS spécialité "performance sportive" mention "sports équestres" obtenu au cours des cinq dernières années ou justifier de 300 heures d'encadrement sportif sur les 5 dernières années dans le champ de l'équitation |
+
 X |
 
-(*) TEP : test d'exigences préalables.
+X |
 
-(*) EPMSP : exigence préalable à la mise en situation professionnelle.
+X |
 
-(*) BEES 1 : brevet d'Etat d'éducateur sportif premier degré.
+X |
 
-(*) BEES 2 : brevet d'Etat d'éducateur sportif deuxième degré.
+X |
 
-(*) BEES 3 : brevet d'Etat d'éducateur sportif troisième degré.
+|
 
-(*) BPJEPS : brevet professionnel de la jeunesse, de l'éducation populaire et du sport.
+X |
 
-(*) DEJEPS : diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport.
+(*)
 
-(*) DESJEPS : diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport.
+BEES 2 : Brevet d'Etat d'éducateur sportif du deuxième degré.
 
-NOTA :
+DEJEPS : Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport.
 
-Conformément à l’article à l’article 10 de l’arrêté du 27 mai 2024 (NOR : SPOV2414672A), ces dispositions s'appliquent aux sessions de formation ouvertes à compter du 1er septembre 2024.
+DESJEPS : Diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport.
+
+EPMSP : Exigence préalable à la mise en situation professionnelle.
+
+FFE : Fédération française d'équitation.
+
+TEP : Test d'exigences préalables.
+
+UC : Unité capitalisable.
