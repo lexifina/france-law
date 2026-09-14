@@ -1,4 +1,232 @@
-# Article LEGIARTI000053419113
+# Article Annexe 1
+
+A. Référentiel métier - Diplôme d'Etat de professeur de musique
+
+I. - Contexte du métier
+
+1. Définition
+
+Le professeur de musique diplômé d'Etat est chargé de l'enseignement des pratiques de la musique. Suivant les cas, il assure l'enseignement des activités d'éveil, d'initiation, la conduite d'un apprentissage spécialisé et est chargé des parcours conduisant au troisième cycle pouvant déboucher sur un certificat d'études musicales au sens du Schéma national d'orientation pédagogique en vigueur. Dans ce cadre, il transmet les compétences, connaissances et attitudes fondamentales nécessaires à une pratique autonome des élèves.
+
+Il accompagne les pratiques artistiques des amateurs notamment en tenant un rôle de conseil et d'aide à la formulation de projets. Il participe à la réalisation des actions portées par l'établissement, s'inscrivant dans la vie culturelle locale.
+
+Il peut être associé à la formation d'élèves en cycle préparatoire au diplôme national d'études de musique. Il peut également siéger au sein de jurys d'évaluation des élèves.
+
+Au long de sa vie professionnelle, il a la nécessité d'enrichir ses connaissances et compétences par des pratiques artistiques et par la formation continue.
+
+Par ailleurs, il peut exercer des activités impliquant ses compétences artistiques et pédagogiques dans d'autres contextes professionnels : interprète, compositeur, arrangeur, directeur d'ensembles instrumentaux ou vocaux, musicologue, intervenant lors de stages ou d'ateliers, concepteur et opérateur d'actions de sensibilisation à la musique, acteur au sein de structures de diffusion et de création.
+
+Le professeur de musique diplômé d'Etat peut travailler en collaboration avec des artistes et d'autres institutions des différents domaines artistiques (spectacle vivant, arts plastiques, cinéma, patrimoine) ; il peut apporter son expertise dans le cadre de projets conduits en partenariats avec des structures d'autres domaines.
+
+2. Types de structures concernées par le métier
+
+Le professeur de musique diplômé d'Etat enseigne principalement dans les établissements suivants :
+
+- les établissements d'enseignement public de la danse, de la musique et du théâtre relevant des collectivités territoriales ;
+
+- les écoles associatives et structures culturelles publiques ou privées, en lien ou non avec des structures de création et de diffusion.
+
+3. Emplois concernés et leur définition
+
+Participant à la réalisation du projet de l'établissement, ou, à défaut, à la mise en œuvre des orientations de la structure, le professeur de musique diplômé d'Etat a la responsabilité de la conduite des activités pédagogiques et artistiques de ses élèves. Dans ce cadre, il est doté d'une autonomie qui lui est confiée par le directeur de l'établissement, le conduisant notamment à organiser les actions de diffusion des élèves et à initier et coordonner des projets au sein de l'établissement.
+
+En accord avec le directeur de l'établissement, il peut assurer le traitement des questions liées à la mise en œuvre des représentations qu'il réalise (contact avec les techniciens du spectacle, logistique, gestion, etc.).
+
+3.1. Dans les établissements publics d'enseignement de la danse, de la musique et du théâtre relevant des collectivités territoriales
+
+Le professeur détenteur du diplôme d'Etat peut accéder au cadre d'emploi des assistants territoriaux d'enseignement artistique principaux par voie statutaire (le DE de professeur est, avec le diplôme universitaire de musicien intervenant, l'un des deux diplômes requis pour l'accès au concours externe du grade d'assistant territorial d'enseignement artistique principal de deuxième classe).
+
+Le professeur détenteur du diplôme d'Etat exerce fréquemment ses fonctions dans les établissements relevant des collectivités territoriales et, en particulier, au sein des conservatoires classés par l'Etat.
+
+L'organisation du travail est rythmée par le calendrier scolaire. Dans les établissements publics d'enseignement de la danse, de la musique, et du théâtre relevant des collectivités territoriales, le cadre d'emploi des assistants territoriaux d'enseignement artistique prévoit un temps d'enseignement hebdomadaire de vingt heures.
+
+Le bon exercice du métier repose sur un travail de préparation indispensable dont l'organisation est déterminée par l'enseignant. L'assistant territorial d'enseignement artistique a une mission de service public. Il enseigne et est susceptible d'animer une équipe d'enseignants, constituée ou non en département, pour un projet ou une mission spécifique. Une évolution de carrière dans la filière artistique territoriale peut le conduire au grade de professeur territorial d'enseignement artistique.
+
+3.2. Dans les établissements et structures d'enseignement de la musique ne relevant pas des collectivités territoriales
+
+Le recrutement s'effectue de manière contractuelle au titre des diplômes, qualités, compétences et renommée présentés.
+
+4. Place dans l'organisation de la structure professionnelle
+
+Le professeur titulaire du diplôme d'Etat relevant des collectivités territoriales est recruté soit par un élu (maire ou président d'un groupement de collectivités), soit par le conseil d'administration de l'établissement ou son président lorsque celui-ci est organisé sous forme d'un établissement public, quel qu'en soit le mode de gestion. Il est placé sous l'autorité du directeur de l'établissement d'enseignement artistique.
+
+Dans le cadre d'une structure associative, il est recruté par le président du conseil d'administration.
+
+B. Référentiel d'activités professionnelles, référentiel de certification et référentiel d'évaluation
+
+Mission
+
+- Enseigner une pratique musicale dans un établissement d'enseignement artistique.
+
+Prérequis : être porteur d'une légitimité artistique et pédagogique
+
+- Etre titulaire du diplôme national prévu à l'article L. 216-2 du code de l'éducation ou d'un diplôme national d'orientation professionnelle de musicien, ou d'un diplôme d'études musicales (DEM), ou d'un diplôme étranger de niveau équivalent, ou d'un diplôme d'Etat de professeur de musique (2).
+
+Référentiel d'activités professionnelles et référentiel de certification
+
+Le référentiel comprend :
+
+- une première série de blocs de compétences transversales, obligatoires pour tous les diplômes de niveau 6 ;
+
+- cinq blocs de compétences correspondant aux activités du métier, chacun pouvant faire l'objet d'une validation indépendante.
+
+Disciplines, domaines, options
+
+Le diplôme d'Etat de professeur de musique est délivré avec mention de la discipline, le cas échéant du domaine et de l'option dont la liste suit.
+
+- Enseignement instrumental ou vocal
+
+Domaines :
+
+- classique à contemporain (options : instruments concernés) ;
+
+- musique ancienne (options : instruments concernés) ;
+
+- musiques traditionnelles (options : aire culturelle, instruments concernés) ;
+
+- jazz et musiques improvisées (options : instruments concernés) ;
+
+- musiques actuelles amplifiées (options : instruments concernés) ;
+
+- formation musicale
+
+- accompagnement
+
+Options :
+
+- musique ;
+
+- danse ;
+
+- direction d'ensembles.
+
+Options :
+
+- instrumentaux ;
+
+- vocaux ;
+
+- culture musicale ;
+
+- écriture ;
+
+- création musicale contemporaine.
+
+Options :
+
+- composition instrumentale et vocale ;
+
+- composition électroacoustique sur support et temps réel ;
+
+- musique mixte ;
+
+- improvisation instrumentale ou vocale.
+
+Blocs de compétences transversales
+
+Nº du bloc |
+
+Intitulé du bloc |
+
+Liste de compétences |
+
+Modalités d'évaluation |
+
+1 |
+
+Usages numériques |
+
+- Utiliser les outils numériques de référence et les règles de sécurité informatique pour acquérir, traiter, produire et diffuser de l'information ainsi que pour collaborer en interne et en externe. |
+
+Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue. |
+
+2 |
+
+Exploitation de données à des fins d'analyse |
+
+- Identifier, sélectionner et analyser avec esprit critique diverses ressources dans son domaine de spécialité pour documenter un sujet et synthétiser ces données en vue de leur exploitation.
+
+- Analyser et synthétiser des données en vue de leur exploitation.
+
+- Développer une argumentation avec esprit critique. |
+
+Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue. |
+
+3 |
+
+Expression et communication écrites et orales |
+
+- Se servir aisément des différents registres d'expression écrite et orale de la langue française.
+
+- Communiquer par oral et par écrit, de façon claire et non-ambiguë, dans au moins une langue étrangère. |
+
+Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue. |
+
+4 |
+
+Positionnement vis à vis d'un champ professionnel |
+
+- Identifier et situer les champs professionnels potentiellement en relation avec les acquis de la mention ainsi que les parcours possibles pour y accéder.
+
+- Caractériser et valoriser son identité, ses compétences et son projet professionnel en fonction d'un contexte.
+
+- Identifier le processus de production, de diffusion et de valorisation des savoirs. |
+
+Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue. |
+
+5 |
+
+Action en responsabilité au sein d'une organisation professionnelle |
+
+- Situer son rôle et sa mission au sein d'une organisation pour s'adapter et prendre des initiatives.
+
+- Respecter les principes d'éthique, de déontologie et de responsabilité environnementale.
+
+- Travailler en équipe et en réseau ainsi qu'en autonomie et responsabilité au service d'un projet.
+
+- Analyser ses actions en situation professionnelle, s'autoévaluer pour améliorer sa pratique. |
+
+Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue. |
+
+Blocs de compétences spécifiques
+
+1. Concevoir et mettre en œuvre un projet pédagogique dans une discipline musicale
+
+2. Organiser sa réflexion pédagogique, enseigner
+
+3. Évaluer et orienter dans le cadre d'un cursus
+
+4. Être acteur du projet artistique, pédagogique et territorial de l'établissement
+
+Blocs de compétences optionnels : savoirs spécifiques associés à certaines disciplines du diplôme d'Etat
+
+- pour la discipline Formation musicale ;
+
+- pour la discipline direction d'ensembles vocaux ;
+
+- pour la discipline direction d'ensembles instrumentaux ;
+
+- pour la discipline accompagnement (options musique et danse).
+
+Modalités d'évaluation
+
+Évaluation continue (EC) ou évaluation terminale (ET) :
+
+- EC : assurée par l'établissement de formation ;
+
+- ET : fait appel à un jury comportant des personnalités extérieures.
+
+Les modalités d'évaluation continue et terminale sont les suivantes :
+
+- épreuves pratiques : mise en situation pédagogique, mise en situation artistique, éventuellement suivies d'un entretien, réalisation de projet ;
+
+- épreuve écrite : commentaire d'écoute, analyse, lecture à vue, dossier, mémoire (éventuellement suivis d'un entretien) ;
+
+- épreuve orale : entretien.
+
+Critères
+
+Nota. - Chaque critère ne correspond pas à une épreuve ou à une partie d'épreuve, mais constitue un élément d'appréciation au sein d'une ou plusieurs épreuves.
 
 Les modalités d'évaluation - mise en situation, pratique, étude de cas, épreuves écrite ou orale, questionnaire, entretien, etc. - ont vocation à recouvrir plusieurs compétences définies par le référentiel de compétences et de certification.
 
@@ -6,7 +234,7 @@ Référentiel d'activités |
 
 Compétences |
 
-Evaluation |
+Évaluation |
 
 Activités |
 
@@ -20,7 +248,7 @@ Critères |
 
 Bloc de compétences nº 1 : CONCEVOIR ET METTRE EN ŒUVRE UN PROJET PÉDAGOGIQUE DANS UNE DISCIPLINE MUSICALE |
 
-1.1 Etre engagé dans une pratique musicale |
+1.1 Être engagé dans une pratique musicale |
 
 1.1-A Pratiquer une ou plusieurs disciplines musicales |
 
@@ -92,15 +320,13 @@ Entretien, épreuve écrite (commentaire d'écoute, analyse…) |
 
 - S'inscrire dans le monde contemporain en s'appuyant sur des références historiques
 
-- Etre sensibilisé à d'autres arts et à d'autres esthétiques musicales |
+- Être sensibilisé à d'autres arts et à d'autres esthétiques musicales |
 
 EC
 
-Mise en situation
+Mise en situation pédagogique |
 
-pédagogique |
-
-1.2 Elargir sa connaissance des répertoires et des pratiques professionnelles |
+1.2 Élargir sa connaissance des répertoires et des pratiques professionnelles |
 
 1.2-A Enrichir son domaine disciplinaire |
 
@@ -118,7 +344,7 @@ pédagogique |
 
 |
 
-1.2-B Elargir ses connaissances à l'ensemble du champ artistique |
+1.2-B Élargir ses connaissances à l'ensemble du champ artistique |
 
 - Appréhender les démarches et pratiques disciplinaires et interdisciplinaires des créations musicales
 
@@ -140,7 +366,7 @@ pédagogique |
 
 - Aborder une diversité de genres, styles et esthétiques, et les mettre en perspective
 
-- Etablir une connexion entre pratique musicale et les autres arts de la scène
+- Établir une connexion entre pratique musicale et les autres arts de la scène
 
 - Favoriser l'ouverture à tous les arts et y rechercher des références dans des esthétiques diverses
 
@@ -172,7 +398,7 @@ EC et/ou ET
 
 Entretien
 
-Epreuve écrite |
+Épreuve écrite |
 
 - Rédaction de travaux de prospective ou de recherche- Passage explicite de questions ou d'interrogations professionnelles à des questions inscrites dans les champs théoriques de référence
 
@@ -188,6 +414,16 @@ Epreuve écrite |
 
 |
 
+|
+
+|
+
+|
+
+|
+
+|
+
 Bloc de compétences nº 2 : ORGANISER SA RÉFLEXION PÉDAGOGIQUE, ENSEIGNER |
 
 2.1 Construire et organiser sa réflexion pédagogique |
@@ -198,7 +434,7 @@ Bloc de compétences nº 2 : ORGANISER SA RÉFLEXION PÉDAGOGIQUE, ENSEIGNER |
 
 - Concevoir la formation des élèves de l'éveil au troisième cycle amateur
 
-- Elaborer des outils pédagogiques (textes, supports audios…) en les adaptant aux différents niveaux, profils et âges
+- Élaborer des outils pédagogiques (textes, supports audios…) en les adaptant aux différents niveaux, profils et âges
 
 - Appliquer sa réflexion pédagogique à des publics de différents niveaux, profils et âges, et aux diverses situations
 
@@ -210,11 +446,7 @@ Bloc de compétences nº 2 : ORGANISER SA RÉFLEXION PÉDAGOGIQUE, ENSEIGNER |
 
 EC
 
-Mise
-
-en situation
-
-pédagogique |
+Mise en situation pédagogique |
 
 - Connaissance et appropriation des textes portant sur l'orientation et l'organisation de l'enseignement artistique spécialisé en vigueur
 
@@ -238,11 +470,7 @@ pédagogique |
 
 EC
 
-et stages
-
-en milieu
-
-professionnel |
+et stages en milieu professionnel |
 
 - Formulation des objectifs principaux et des objectifs spécifiques
 
@@ -292,11 +520,7 @@ professionnel |
 
 EC
 
-Mise
-
-en situation
-
-pédagogique |
+Mise en situation pédagogique |
 
 - Maîtrise du plan de cours (rythme, durée des séquences…)
 
@@ -308,7 +532,7 @@ pédagogique |
 
 - Adaptation de l'action pédagogique et de l'apport de connaissances en fonction des situations.
 
-- À-propos et qualité des exemples et des interventions musicales
+- A-propos et qualité des exemples et des interventions musicales
 
 - Adéquation des ressources mises à disposition et des modalités au regard de la situation pédagogique et des objectifs visés
 
@@ -322,7 +546,7 @@ Bloc de compétences nº 3 : ÉVALUER ET ORIENTER DANS LE CADRE D'UN CURSUS |
 
 3.1 Orienter les élèves |
 
-3.1-A Evaluer et orienter dans le cadre du cursus |
+3.1-A Évaluer et orienter dans le cadre du cursus |
 
 - Appréhender la progression technique et artistique des élèves
 
@@ -346,19 +570,19 @@ Entretien |
 
 - Adéquation entre les évaluations et le projet conduit |
 
-3.2 Evaluer |
+3.2 Évaluer |
 
 3.2-A Définir des objectifs d'apprentissage avec les critères pour en évaluer le résultat |
 
 - Structurer son enseignement dans une visée évaluative tant pour l'élève que pour son propre enseignement
 
-- Etablir des critères en lien avec les objectifs fixés
+- Établir des critères en lien avec les objectifs fixés
 
 - Distinguer processus et résultat
 
 - Diversifier les dispositifs d'évaluation
 
-- Evaluer dans le cadre de projets |
+- Évaluer dans le cadre de projets |
 
 |
 
@@ -372,7 +596,7 @@ Entretien |
 
 - Organiser des points d'étape sur les acquisitions des élèves
 
-- Etayer des évaluations au départ d'apprentissages par projet en lien avec d'autres enseignants ou partenaires éducatifs
+- Étayer des évaluations au départ d'apprentissages par projet en lien avec d'autres enseignants ou partenaires éducatifs
 
 - Adapter les modalités de l'évaluation en fonction de la progression de l'élève dans l'apprentissage |
 
@@ -382,7 +606,7 @@ Entretien |
 
 Bloc de compétences n° 4 : ÊTRE ACTEUR DU PROJET ARTISTIQUE, PÉDAGOGIQUE ET TERRITORIAL DE L'ÉTABLISSEMENT |
 
-4.1 Etre acteur du projet pédagogique et artistique de l'établissement en son sein |
+4.1 Être acteur du projet pédagogique et artistique de l'établissement en son sein |
 
 4.1-A Participer à la réalisation du projet de l'établissement |
 
@@ -394,13 +618,13 @@ Bloc de compétences n° 4 : ÊTRE ACTEUR DU PROJET ARTISTIQUE, PÉDAGOGIQUE ET 
 
 - Inscrire son programme d'activités dans le projet de l'établissement
 
-- Etre force de proposition dans l'évolution du projet |
+- Être force de proposition dans l'évolution du projet |
 
 EC et/ou ET
 
 Entretien
 
-Epreuve écrite |
+Épreuve écrite |
 
 - Informations connues sur le contexte de l'établissement et de son territoire
 
@@ -434,13 +658,13 @@ Epreuve écrite |
 
 |
 
-4.2 Etre acteur du projet de l'établissement dans sa dimension territoriale |
+4.2 Être acteur du projet de l'établissement dans sa dimension territoriale |
 
 4.2-A Développer les relations avec des publics diversifiés |
 
 - Connaître et appréhender l'environnement de l'établissement (les publics et les institutions)
 
-- S'inscrire dans les partenariats du lieu d'enseignement (Education nationale, monde associatif, institutions culturelles, sociales…)
+- S'inscrire dans les partenariats du lieu d'enseignement (Éducation nationale, monde associatif, institutions culturelles, sociales…)
 
 - Apporter ses compétences artistiques et pédagogiques ainsi que son expertise sur les répertoires dans la mise en œuvre de dispositifs de sensibilisation et d'apprentissage
 
@@ -450,7 +674,7 @@ EC et/ou ET
 
 Entretien
 
-Epreuve écrite |
+Épreuve écrite |
 
 - Informations connues concernant l'environnement de l'établissement |
 
@@ -504,11 +728,11 @@ Formation musicale |
 
 EC et/ou ET
 
-Epreuve pédagogique
+Épreuve pédagogique
 
-Epreuve écrite Entretien
+Épreuve écrite Entretien
 
-Epreuve pratique |
+Épreuve pratique |
 
 - Connaissance de l'appareil phonatoire et de ses évolutions dans l'enfance et l'adolescence
 
@@ -554,9 +778,7 @@ Organiser et conduire des répétitions |
 
 EC et ET
 
-Epreuve
-
-pratique |
+Épreuve pratique |
 
 - Efficacité de la gestion du temps
 
@@ -584,9 +806,7 @@ Construire et gérer la dynamique du groupe |
 
 EC
 
-Epreuve
-
-pratique |
+Épreuve pratique |
 
 - Connaissance de notions élémentaires en matière de pédagogie et de psychologie des groupes
 
@@ -620,9 +840,7 @@ Organiser et conduire des répétitions |
 
 EC et ET
 
-Epreuve
-
-pratique |
+Épreuve pratique |
 
 - Efficacité de la gestion du temps
 
@@ -672,7 +890,7 @@ Appréhender les paramètres d'une pièce musicale, pour maîtriser et transmett
 
 EC et ET
 
-Epreuves pratiques d'accompagnement et hors situation d'accompagnement |
+Épreuves pratiques d'accompagnement et hors situation d'accompagnement |
 
 - Capacité d'anticipation
 
@@ -698,9 +916,7 @@ Accompagner un instrument |
 
 EC et ET
 
-Epreuves
-
-pratiques |
+Épreuves pratiques |
 
 |
 
@@ -716,9 +932,7 @@ Accompagner le chant |
 
 EC et ET
 
-Epreuves
-
-pratiques |
+Épreuves pratiques |
 
 |
 
@@ -732,7 +946,7 @@ Mettre en relation ses compétences et connaissances musicales avec l'art choré
 
 - Connaître le vocabulaire propre à chaque esthétique
 
-- Etre capable de repérer l'interaction entre mouvement dansé et discours musical
+- Être capable de repérer l'interaction entre mouvement dansé et discours musical
 
 - Connaître les grands principes de la notation du mouvement, notamment le système Conté
 
@@ -746,7 +960,7 @@ Mettre en relation ses compétences et connaissances musicales avec l'art choré
 
 EC et ET
 
-Epreuves pratiques d'accompagnement
+Épreuves pratiques d'accompagnement
 
 Projet pédagogique |
 
@@ -770,9 +984,9 @@ Accompagner musicalement le geste dansé en mettant ses compétences artistiques
 
 - Soutenir musicalement le geste dansé à partir des consignes chorégraphiques et pédagogiques du professeur de danse
 
-- Etre capable d'élaborer et d'expliciter des choix musicaux en lien avec une proposition pédagogique ou chorégraphique, en recourant à des œuvres du répertoire et à l'improvisation
+- Être capable d'élaborer et d'expliciter des choix musicaux en lien avec une proposition pédagogique ou chorégraphique, en recourant à des œuvres du répertoire et à l'improvisation
 
-- Etre force de propositions musicales variées, en cours et dans les projets du département danse
+- Être force de propositions musicales variées, en cours et dans les projets du département danse
 
 - S'adapter à différentes situations et propositions de travail en fonction des professeurs et de leur approche pédagogique
 
@@ -780,8 +994,8 @@ Accompagner musicalement le geste dansé en mettant ses compétences artistiques
 
 EC et ET
 
-Epreuves
-
-pratiques |
+Épreuves pratiques |
 
 - Qualité de l'improvisation |
+
+(2) Diplômé souhaitant obtenir un DE dans une autre discipline, un autre domaine ou une autre option.

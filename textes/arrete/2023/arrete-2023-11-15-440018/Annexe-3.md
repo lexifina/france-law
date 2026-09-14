@@ -1,8 +1,6 @@
-# Article LEGIARTI000053419107
+# Article Annexe 3
 
-Annexe 3
-
-Modalités d'évaluation en validation des acquis de l'expérience
+Modalités d'évaluation en Validation des acquis de l'expérience
 
 Le candidat est évalué sur la base d'un dossier et d'un entretien. A la suite de l'entretien, le jury peut décider de compléter son information sur le parcours du candidat par une mise en situation professionnelles, réelle ou reconstituée. Il définit les compétences à vérifier et la nature de la mise en situation professionnelle correspondante, qui est communiquée de manière précise au candidat.
 

@@ -1,6 +1,4 @@
-# Article LEGIARTI000053419117
-
-Annexe 3
+# Article Annexe 3
 
 Obtention par la validation des acquis de l'expérience
 

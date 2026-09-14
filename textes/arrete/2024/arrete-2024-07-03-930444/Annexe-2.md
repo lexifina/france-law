@@ -1,12 +1,10 @@
-# Article LEGIARTI000053419115
+# Article Annexe 2
 
-Annexe 2
-
-Disciplines, domaines, options
+Annexe 2 : Disciplines, domaines, options
 
 Le diplôme d'Etat de professeur de musique est délivré dans les disciplines suivantes :
 
-- enseignement instrumental ou vocal :
+- enseignement instrumental ou vocal ;
 
 - domaines :
 

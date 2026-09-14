@@ -1,72 +1,86 @@
-# Article LEGIARTI000053419101
+# Article Annexe 2
 
-Annexe 2
+Annexe 2 - Référentiels d'activités professionnelles, référentiels de certifications et référentiels d'évaluation
 
-Référentiels d'activités professionnelles, référentiels de certifications et référentiels d'évaluation
+I. - Discipline "Instrumentiste-chanteur"
 
-I. - Discipline « Instrumentiste-chanteur »
+N° du bloc de compétences
 
-N° du bloc
+|
 
-de compétences |
+Intitulé du bloc
 
-Intitulé du bloc |
+|
 
-Liste de compétences |
+Liste de compétences
 
-Modalités d'évaluation |
+|
 
-1 |
+Modalités d'évaluation
 
-Usages numériques |
+|
 
-Utiliser les outils numériques de référence et les règles de sécurité informatique pour acquérir, traiter, produire et diffuser de l'information ainsi que pour collaborer en interne et en externe. |
+1
 
-Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue. |
+|
 
-2 |
+Usages numériques
 
-Exploitation de données à des fins d'analyse |
+|
+
+Utiliser les outils numériques de référence et les règles de sécurité informatique pour acquérir, traiter, produire et diffuser de l'information ainsi que pour collaborer en interne et en externe.
+
+|
+
+Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue.
+
+|
+
+2
+
+|
+
+Exploitation de données à des fins d'analyse
+
+|
 
 - Identifier, sélectionner et analyser avec esprit critique diverses ressources dans son domaine de spécialité pour documenter un sujet et synthétiser ces données en vue de leur exploitation.
 
-- Analyser et synthétiser des données en vue de leur exploitation.
+- Analyser et synthétiser des données en vue de leur exploitation
 
-- Développer une argumentation avec esprit critique. |
+- Développer une argumentation avec esprit critique.
 
-Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue. |
+|
 
-3 |
+Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue.
 
-Expression
+|
 
-et communication
+3
 
-écrites et orales |
+|
+
+Expression et communication écrites et orales
+
+|
 
 - Se servir aisément des différents registres d'expression écrite et orale de la langue française.
 
-- Communiquer par oral et par écrit, de façon claire et non ambiguë, dans au moins une langue étrangère. |
+- Communiquer par oral et par écrit, de façon claire et non ambiguë, dans au moins une langue étrangère.
 
-Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue. |
+|
 
-4 |
+Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue.
 
-Positionnement vis-à-vis d'un champ professionnel |
+|
 
-- Situer son rôle et sa mission au sein d'une organisation pour s'adapter et prendre des initiatives.
+4
 
-- Respecter les principes d'éthique, de déontologie et de responsabilité environnementale.
+|
 
-- Travailler en équipe et en réseau ainsi qu'en autonomie et responsabilité au service d'un projet.
+Positionnement vis-à-vis d'un champ professionnel
 
-- Analyser ses actions en situation professionnelle, s'autoévaluer pour améliorer sa pratique. |
-
-Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue. |
-
-5 |
-
-Actions en responsabilité au sein d'une organisation professionnelle |
+|
 
 - Situer son rôle et sa mission au sein d'une organisation pour s'adapter et prendre des initiatives.
 
@@ -74,29 +88,55 @@ Actions en responsabilité au sein d'une organisation professionnelle |
 
 - Travailler en équipe et en réseau ainsi qu'en autonomie et responsabilité au service d'un projet.
 
-- Analyser ses actions en situation professionnelle, s'autoévaluer pour améliorer sa pratique. |
+- Analyser ses actions en situation professionnelle, s'autoévaluer pour améliorer sa pratique.
 
-Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue. |
+|
+
+Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue.
+
+|
+
+5
+
+|
+
+Actions en responsabilité au sein d'une organisation professionnelle
+
+|
+
+- Situer son rôle et sa mission au sein d'une organisation pour s'adapter et prendre des initiatives.
+
+- Respecter les principes d'éthique, de déontologie et de responsabilité environnementale.
+
+- Travailler en équipe et en réseau ainsi qu'en autonomie et responsabilité au service d'un projet.
+
+- Analyser ses actions en situation professionnelle, s'autoévaluer pour améliorer sa pratique.
+
+|
+
+Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue.
+
+|
 
 Blocs de compétences :
 
-Bloc de compétences n° 1 - Exercer son art de musicien interprète.
+Bloc de compétences n° 1 - Exercer son art de musicien interprète
 
-Bloc de compétences n° 2 - Inscrire sa pratique artistique et professionnelle dans une démarche de recherche.
+Bloc de compétences n° 2 - Inscrire sa pratique artistique et professionnelle dans une démarche de recherche
 
-Bloc de compétences n° 3 - Valoriser et développer ses compétences et construire son parcours professionnel.
+Bloc de compétences n° 3 - Valoriser et développer ses compétences et construire son parcours professionnel
 
-Bloc de compétences n° 4 - Elargir son champ de compétences professionnelles.
+Bloc de compétences n° 4 - Elargir son champ de compétences professionnelles
 
-Modalités d'évaluation :
+Modalités d'évaluation
 
-Evaluation continue (EC) - évaluation terminale (ET).
+Évaluation continue (EC) - évaluation terminale (ET)
 
 Les modalités d'évaluation - épreuves pratiques, écrites, orales, entretiens… - ont vocation à recouvrir plusieurs compétences définies par le référentiel de compétences et de certification.
 
-Définitions :
+Définitions
 
-Pour la discipline « Instrumentiste-chanteur », le répertoire et les pratiques musicales sont divisés en plusieurs domaines :
+Pour la discipline "Instrumentiste-chanteur", le répertoire et les pratiques musicales sont divisés en plusieurs domaines :
 
 - musiques classiques à contemporaines ;
 
@@ -108,27 +148,49 @@ Pour la discipline « Instrumentiste-chanteur », le répertoire et les pratique
 
 - musiques actuelles amplifiées.
 
-Référentiel d'activités professionnelles |
+Référentiel d'activités professionnelles
 
-Référentiel de compétences |
+|
 
-Référentiel d'évaluation |
+Référentiel de compétences
 
-Activités |
+|
 
-Tâches |
+Référentiel d'évaluation
 
-Connaissances, compétences, attitudes |
+|
 
-Modalités |
+Activités
 
-Critères |
+|
 
-Bloc de compétences nº 1 : Exercer son art de musicien interprète |
+Tâches
 
-1.1 - Compétences artistiques |
+|
 
-A. Créer, écrire, réécrire |
+Connaissances, compétences, attitudes
+
+|
+
+Modalités
+
+|
+
+Critères
+
+|
+
+Bloc de compétences nº 1 : Exercer son art de musicien interprète
+
+|
+
+1.1 - Compétences artistiques
+
+|
+
+A. Créer, écrire, réécrire
+
+|
 
 - Instrumentation
 
@@ -136,13 +198,19 @@ A. Créer, écrire, réécrire |
 
 - Improvisation
 
-- Composition |
+- Composition
 
-- Connaître et manier les éléments constitutifs du langage de son champ musical (rythme, harmonie, forme, instrumentation, le cas échéant arrangement, improvisation ou composition) |
+|
+
+- Connaître et manier les éléments constitutifs du langage de son champ musical (rythme, harmonie, forme, instrumentation, le cas échéant arrangement, improvisation ou composition)
+
+|
 
 EC
 
-Epreuves pratiques ou écrites en fonction du champ musical |
+Épreuves pratiques ou écrites en fonction du champ musical
+
+|
 
 - Prise de risque
 
@@ -150,15 +218,21 @@ Epreuves pratiques ou écrites en fonction du champ musical |
 
 - Esprit d'ouverture
 
-- Réalisation dans le champ musical de prédilection de l'étudiant, d'une production qui utilise de manière pertinente les outils de création appropriés |
+- Réalisation dans le champ musical de prédilection de l'étudiant, d'une production qui utilise de manière pertinente les outils de création appropriés
 
-B. Identifier et s'approprier les techniques nécessaires à la réalisation |
+|
+
+B. Identifier et s'approprier les techniques nécessaires à la réalisation
+
+|
 
 - Mise à jour de données organologiques
 
 - Travail individuel
 
-- Déchiffrage, décryptage : première lecture, première écoute ou relevés |
+- Déchiffrage, décryptage : première lecture, première écoute ou relevés
+
+|
 
 - Connaître la facture et le fonctionnement de son instrument
 
@@ -172,13 +246,15 @@ B. Identifier et s'approprier les techniques nécessaires à la réalisation |
 
 - Maîtriser un répertoire large, dans plusieurs styles et/ou époques
 
-- Etre initié aux outils informatiques concernant l'édition des partitions, et le montage |
+- Être initié aux outils informatiques concernant l'édition des partitions, et le montage
+
+|
 
 EC et ET
 
-Epreuves
+Épreuves pratiques
 
-pratiques |
+|
 
 - Préparation fine de l'instrument
 
@@ -186,9 +262,13 @@ pratiques |
 
 - Niveau d'exécution
 
-- Utilisation d'au moins un outil informatique en fonction de ses besoins artistiques pour les musiques classiques, utilisation de l'ensemble des outils informatiques mis à disposition pour les musiques actuelles (ceux des musiques classiques + enregistrement et édition audio, traitement et conception du signal) pour les musiques actuelles |
+- Utilisation d'au moins un outil informatique en fonction de ses besoins artistiques pour les musiques classiques, utilisation de l'ensemble des outils informatiques mis à disposition pour les musiques actuelles (ceux des musiques classiques + enregistrement et édition audio, traitement et conception du signal) pour les musiques actuelles
 
-C. Elaborer le projet artistique |
+|
+
+C. Élaborer le projet artistique
+
+|
 
 - Adaptation à la conduite d'un spectacle
 
@@ -196,7 +276,9 @@ C. Elaborer le projet artistique |
 
 - Adaptation aux exigences d'un chef, d'un ensemble, d'un projet
 
-- Répétition musicale et scénique |
+- Répétition musicale et scénique
+
+|
 
 - Comprendre le déroulement de la forme d'un spectacle : placement et déplacement des musiciens, intégration d'éléments de décor, d'accessoires, de chorégraphie, d'images…
 
@@ -210,21 +292,31 @@ C. Elaborer le projet artistique |
 
 - Rechercher la justesse et/ou la pertinence des sons produits
 
-- Adapter son jeu aux exigences d'un chef, d'un ensemble, du projet, d'une répétition musicale et scénique |
+- Adapter son jeu aux exigences d'un chef, d'un ensemble, du projet, d'une répétition musicale et scénique
+
+|
 
 EC
 
-Epreuves pratiques en petits et grands ensembles |
+Épreuves pratiques en petits et grands ensembles
+
+|
 
 - Implication dans le travail d'ensemble
 
 - Intégration à l'ensemble
 
-- Adaptation à des situations scéniques variées |
+- Adaptation à des situations scéniques variées
 
-1.2 - Prestation publique |
+|
 
-D. Se mettre en situation de représentation |
+1.2 - Prestation publique
+
+|
+
+D. Se mettre en situation de représentation
+
+|
 
 - Préparation physique et mentale, concentration
 
@@ -232,7 +324,9 @@ D. Se mettre en situation de représentation |
 
 - Adoption des normes de représentation en vigueur sur l'entrée et la sortie de scène
 
-- Création d'une expression scénique |
+- Création d'une expression scénique
+
+|
 
 - Adapter les processus de réveil sensoriel, de préparation corporelle, vocale, mentale à ses propres besoins
 
@@ -240,47 +334,63 @@ D. Se mettre en situation de représentation |
 
 - Maîtriser son accord (tempérament) au sein du groupe
 
-- Adopter une attitude en rapport avec l'intention artistique de l'événement et les règles de présentation fixées par l'ensemble |
+- Adopter une attitude en rapport avec l'intention artistique de l'événement et les règles de présentation fixées par l'ensemble
+
+|
 
 EC
 
-Epreuves
+Épreuves pratiques
 
-pratiques |
+|
 
-- Evolution de l'approche de l'interprétation (soliste ou groupe)
+- Évolution de l'approche de l'interprétation (soliste ou groupe)
 
 - Prise de conscience des processus corporels
 
-- Enonciation des problèmes analysés
+- Énonciation des problèmes analysés
 
 - Justesse de l'accord
 
-- Adaptation à l'intention artistique de l'événement |
+- Adaptation à l'intention artistique de l'événement
 
-E. Etre vecteur d'une expression artistique |
+|
 
-- Participation à l'expression globale de l'ensemble |
+E. Être vecteur d'une expression artistique
+
+|
+
+- Participation à l'expression globale de l'ensemble
+
+|
 
 - Mobiliser une haute technicité vocale ou instrumentale
 
-- Evaluer constamment son jeu pour une participation optimale artistique au sein de l'ensemble (prise en compte de la totalité des paramètres sonores)
+- Évaluer constamment son jeu pour une participation optimale artistique au sein de l'ensemble (prise en compte de la totalité des paramètres sonores)
 
 - S'inscrire avec conviction dans une expression musicale
 
-- Comprendre la musique en tant qu'expression |
+- Comprendre la musique en tant qu'expression
+
+|
 
 EC
 
-Epreuves pratiques en petits et grands ensembles |
+Épreuves pratiques en petits et grands ensembles
+
+|
 
 - Implication dans le travail de l'ensemble
 
 - Intégration à l'ensemble
 
-- Adaptation à des situations scéniques variées |
+- Adaptation à des situations scéniques variées
 
-F. Connaître l'environnement technique lié à sa prestation |
+|
+
+F. Connaître l'environnement technique lié à sa prestation
+
+|
 
 - Adaptation aux conditions acoustiques du lieu
 
@@ -288,65 +398,99 @@ F. Connaître l'environnement technique lié à sa prestation |
 
 - Réalisation d'une balance
 
-- Adaptation aux règles de sécurité |
+- Adaptation aux règles de sécurité
+
+|
 
 - Réagir aux caractéristiques acoustiques et spatiales du lieu de représentation
 
 - Prendre en compte les contraintes liées aux modes de diffusion sonore et de traitement du son en temps réel
 
-- Tenir compte des contraintes scéniques (lumière, décors, …) |
+- Tenir compte des contraintes scéniques (lumière, décors, …)
+
+|
 
 EC
 
-Epreuves pratiques et/ou écrites et/ou orales |
+Épreuves pratiques et/ou écrites et/ou orales
+
+|
 
 - Identification des contraintes du lieu et réponses adaptées
 
-- Diagnostic des dysfonctionnements et prise des dispositions nécessaires |
+- Diagnostic des dysfonctionnements et prise des dispositions nécessaires
 
-G. Respecter le cadre juridique et réglementaire lié à sa prestation |
+|
+
+G. Respecter le cadre juridique et réglementaire lié à sa prestation
+
+|
 
 - Activité dans le respect des droits d'auteur et des droits voisins
 
-- Activité dans le respect de la réglementation du travail |
+- Activité dans le respect de la réglementation du travail
+
+|
 
 - Connaître les règles générales en matière de droit d'auteur et droits voisins
 
 - Connaître les dispositions d'ordre réglementaire dans un cadre général et en vigueur dans le cadre particulier du lieu du spectacle
 
-- Etre initié aux règles de sécurité en vigueur dans les différents lieux de travail |
+- Être initié aux règles de sécurité en vigueur dans les différents lieux de travail
+
+|
 
 EC
 
-Epreuve écrite : Questionnaire |
+Épreuve écrite : Questionnaire
 
-- Assimilation des connaissances élémentaires |
+|
 
-1.3 - Enregistrement |
+- Assimilation des connaissances élémentaires
 
-H. Préparer un enregistrement |
+|
 
-- Estimation de la pertinence de l'enregistrement dans le projet de l'artiste ou de l'ensemble |
+1.3 - Enregistrement
 
-- Définir les objectifs du projet d'enregistrement et choisir la forme et les supports adaptés |
+|
+
+H. Préparer un enregistrement
+
+|
+
+- Estimation de la pertinence de l'enregistrement dans le projet de l'artiste ou de l'ensemble
+
+|
+
+- Définir les objectifs du projet d'enregistrement et choisir la forme et les supports adaptés
+
+|
 
 EC
 
-Epreuves pratiques de situations d'enregistrement |
+Épreuves pratiques de situations d'enregistrement
+
+|
 
 - Adéquation des objectifs au projet
 
 - Prise en compte des exigences techniques
 
-- Analyse du projet avec l'équipe technique |
+- Analyse du projet avec l'équipe technique
 
-I. Se mettre en situation d'enregistrement |
+|
+
+I. Se mettre en situation d'enregistrement
+
+|
 
 - Préparation physique et mentale, concentration
 
 - Adaptation à la configuration spécifique du lieu d'enregistrement
 
-- Préparation technique optimale du matériel |
+- Préparation technique optimale du matériel
+
+|
 
 - Adapter les processus de réveil sensoriel, de préparation corporelle, vocale, mentale à ses propres besoins
 
@@ -354,41 +498,55 @@ I. Se mettre en situation d'enregistrement |
 
 - Prendre en compte la pression spécifique liée à cette situation
 
-- Maîtriser son accord (tempérament)au sein du groupe |
+- Maîtriser son accord (tempérament)au sein du groupe
+
+|
 
 EC
 
-Epreuves
+Épreuves pratiques
 
-pratiques |
+|
 
 - Qualité de concentration et d'efficacité
 
 - Gestion du temps et du matériel
 
-- Adaptation aux exigences techniques |
+- Adaptation aux exigences techniques
 
-J. Etre vecteur d'une expression artistique |
+|
 
-- Participation à l'expression globale de l'ensemble |
+J. Être vecteur d'une expression artistique
 
-- Evaluer constamment son jeu pour une participation optimale artistique au sein de l'ensemble (globalité des paramètres sonores)
+|
 
-- Préserver l'authenticité artistique dans une recherche de perfection technique |
+- Participation à l'expression globale de l'ensemble
+
+|
+
+- Évaluer constamment son jeu pour une participation optimale artistique au sein de l'ensemble (globalité des paramètres sonores)
+
+- Préserver l'authenticité artistique dans une recherche de perfection technique
+
+|
 
 EC
 
-Epreuves
+Épreuves pratiques
 
-pratiques |
+|
 
 - Gestion de l'ensemble du processus d'enregistrement en studio, aboutissant à la réalisation d'un projet
 
 - Qualité de concentration et d'efficacité
 
-- Communication avec l'équipe technique |
+- Communication avec l'équipe technique
 
-K. Connaître l'environnement technique lié à l'enregistrement |
+|
+
+K. Connaître l'environnement technique lié à l'enregistrement
+
+|
 
 - Adaptation aux conditions du lieu
 
@@ -396,57 +554,79 @@ K. Connaître l'environnement technique lié à l'enregistrement |
 
 - Réalisation d'une balance
 
-- Adaptation aux règles de sécurité |
+- Adaptation aux règles de sécurité
+
+|
 
 - Réagir aux caractéristiques acoustiques et spatiales du lieu d'enregistrement
 
 - Savoir retrouver ses points de repères sonores
 
-- Identifier les fonctions des membres de l'équipe technique et artistique, dialoguer avec eux dans un langage adapté |
+- Identifier les fonctions des membres de l'équipe technique et artistique, dialoguer avec eux dans un langage adapté
+
+|
 
 EC
 
-Epreuves
+Épreuves pratiques
 
-pratiques |
+|
 
 - Gestion du temps et du matériel
 
 - Adaptation aux exigences techniques
 
-- Communication avec l'équipe technique |
+- Communication avec l'équipe technique
 
-L. Respecter le cadre juridique et réglementaire lié à sa prestation |
+|
+
+L. Respecter le cadre juridique et réglementaire lié à sa prestation
+
+|
 
 - Activité dans le respect des droits d'auteur et des droits voisins
 
-- Activité dans le respect de la réglementation du travail |
+- Activité dans le respect de la réglementation du travail
+
+|
 
 - Connaître les règles générales en matière de droit d'auteur et droits voisins
 
 - Connaître les dispositions d'ordre réglementaire dans un cadre général et dans le cadre particulier de l'enregistrement
 
-- Etre initié aux règles de sécurité en vigueur sur le lieu d'enregistrement |
+- Être initié aux règles de sécurité en vigueur sur le lieu d'enregistrement
+
+|
 
 EC
 
-Epreuve écrite (questionnaire) |
+Épreuve écrite (questionnaire)
 
-- Assimilation des connaissances élémentaires |
+|
 
-Bloc de compétences nº 2 : Inscrire sa pratique artistique et professionnelle dans une démarche de recherche |
+- Assimilation des connaissances élémentaires
 
-A. Elargir sa connaissance des répertoires et des pratiques professionnelles, collecter, recueillir |
+|
+
+Bloc de compétences nº 2 : Inscrire sa pratique artistique et professionnelle dans une démarche de recherche
+
+|
+
+A. Élargir sa connaissance des répertoires et des pratiques professionnelles, collecter, recueillir
+
+|
 
 - Consulter des sources documentaires variées
 
-- Découvrir des répertoires et des pratiques |
+- Découvrir des répertoires et des pratiques
+
+|
 
 - Faire preuve de curiosité
 
 - Disposer d'une culture approfondie du répertoire et des pratiques attachés à sa spécialité, son domaine et son option ;
 
-- Elargir ses références et sources d'inspiration artistique à d'autres répertoires et d'autres pratiques artistiques ou professionnelles ;
+- Élargir ses références et sources d'inspiration artistique à d'autres répertoires et d'autres pratiques artistiques ou professionnelles ;
 
 - Situer une œuvre, un répertoire ou une pratique dans son contexte
 
@@ -454,11 +634,15 @@ A. Elargir sa connaissance des répertoires et des pratiques professionnelles, c
 
 - Identifier les ressources de la documentation correspondant à son axe de recherche et les exploiter
 
-- Analyser et synthétiser des données en vue de leur exploitation |
+- Analyser et synthétiser des données en vue de leur exploitation
+
+|
 
 EC
 
-Epreuves pratiques, écrites et/ou orales |
+Épreuves pratiques, écrites et/ou orales
+
+|
 
 - Engagement personnel
 
@@ -470,11 +654,17 @@ Epreuves pratiques, écrites et/ou orales |
 
 - Respect des consignes et des délais
 
-- Esprit de synthèse |
+- Esprit de synthèse
 
-B. Se déterminer par rapport à un répertoire ou une pratique |
+|
 
-- Construire sa personnalité artistique professionnelle |
+B. Se déterminer par rapport à un répertoire ou une pratique
+
+|
+
+- Construire sa personnalité artistique professionnelle
+
+|
 
 - Faire preuve d'une sensibilité ouverte et critique
 
@@ -482,11 +672,15 @@ B. Se déterminer par rapport à un répertoire ou une pratique |
 
 - Analyser et apprécier une proposition artistique
 
-- Développer son sens critique |
+- Développer son sens critique
+
+|
 
 EC
 
-Epreuves pratiques, écrites et/ou orales |
+Épreuves pratiques, écrites et/ou orales
+
+|
 
 - Engagement personnel
 
@@ -496,21 +690,31 @@ Epreuves pratiques, écrites et/ou orales |
 
 - Respect des consignes et des délais
 
-- Esprit de synthèse |
+- Esprit de synthèse
 
-C. Enrichir son domaine disciplinaire |
+|
 
-- Contribuer à l'actualité des connaissances et des pratiques dans le domaine du spectacle vivant |
+C. Enrichir son domaine disciplinaire
+
+|
+
+- Contribuer à l'actualité des connaissances et des pratiques dans le domaine du spectacle vivant
+
+|
 
 - Faire preuve d'inventivité, notamment musicale
 
 - Assumer une participation active et singulière à l'actualité du spectacle vivant, dans l'une ou l'autre de ses dimensions (création, programmation, interprétation, performance, médiation, etc.)
 
-- Concevoir, mettre en œuvre et assumer des choix à même d'asseoir l'identité et la cohérence de sa proposition |
+- Concevoir, mettre en œuvre et assumer des choix à même d'asseoir l'identité et la cohérence de sa proposition
+
+|
 
 EC
 
-Epreuves pratiques (pouvant consister en une réalisation de projet), écrites et/ou orales |
+Épreuves pratiques (pouvant consister en une réalisation de projet), écrites et/ou orales
+
+|
 
 - Engagement personnel
 
@@ -520,11 +724,17 @@ Epreuves pratiques (pouvant consister en une réalisation de projet), écrites e
 
 - Respect des consignes et des délais éventuels
 
-- Esprit de synthèse |
+- Esprit de synthèse
 
-D. Conduire une démarche d'initiation à la recherche |
+|
 
-- S'engager dans un processus de recherche |
+D. Conduire une démarche d'initiation à la recherche
+
+|
+
+- S'engager dans un processus de recherche
+
+|
 
 - Mobiliser une réflexion théorique et critique portant sur les arts du spectacle, principalement de la musique élargie à d'autres domaines artistiques, pour définir des problématiques d'étude
 
@@ -536,11 +746,13 @@ D. Conduire une démarche d'initiation à la recherche |
 
 - S'auto-évaluer
 
-- Pratiquer au moins une langue étrangère |
+- Pratiquer au moins une langue étrangère
+
+|
 
 EC et/ou ET
 
-Epreuves pratiques, écrites et/ou orales
+Épreuves pratiques, écrites et/ou orales
 
 Mémoire
 
@@ -550,7 +762,9 @@ Soutenance
 
 ET
 
-Epreuve orale |
+Épreuve orale
+
+|
 
 - Maîtrise des outils numériques
 
@@ -572,17 +786,27 @@ Epreuve orale |
 
 - Capacité à nommer, décrire les principaux événements historiques qui permettent la compréhension des esthétiques actuelles, connaître le contexte institutionnel qui régit les conditions d'exercice du métier
 
-- Aisance dans la compréhension et l'expression écrites et orales dans au moins une langue étrangère |
+- Aisance dans la compréhension et l'expression écrites et orales dans au moins une langue étrangère
 
-Bloc de compétences nº 3 : Valoriser et développer ses compétences et construire son parcours professionnel |
+|
 
-3.1 - Prévention des risques professionnels |
+Bloc de compétences nº 3 : Valoriser et développer ses compétences et construire son parcours professionnel
 
-A. Connaître son corps, prévenir les pathologies |
+|
+
+3.1 - Prévention des risques professionnels
+
+|
+
+A. Connaître son corps, prévenir les pathologies
+
+|
 
 - Gestion de sa résistance physique et psychologique
 
-- Préservation de son intégrité physique |
+- Préservation de son intégrité physique
+
+|
 
 - Gérer sa résistance physique et psychologique
 
@@ -602,21 +826,29 @@ A. Connaître son corps, prévenir les pathologies |
 
 - les rythmes biologiques
 
-- Connaître les ressources pour prévenir et soigner |
+- Connaître les ressources pour prévenir et soigner
+
+|
 
 EC
 
-Epreuves
+Épreuves pratiques
 
-pratiques |
+|
 
 - Prise de conscience des processus corporels
 
-- diagnostic et énonciation des difficultés rencontrées |
+- diagnostic et énonciation des difficultés rencontrées
 
-3.2 - Connaissance de l'environnement socio-professionnel |
+|
 
-B. Elaborer un projet de production |
+3.2 - Connaissance de l'environnement socio-professionnel
+
+|
+
+B. Élaborer un projet de production
+
+|
 
 - Connaissance des partenaires professionnels
 
@@ -624,7 +856,9 @@ B. Elaborer un projet de production |
 
 - Recherche des structures de soutien au projet artistique (financement, informations juridiques…)
 
-- Identification des prestataires nécessaires à la mise en œuvre du projet |
+- Identification des prestataires nécessaires à la mise en œuvre du projet
+
+|
 
 - Connaître la structuration du secteur professionnel et suivre son évolution
 
@@ -632,63 +866,93 @@ B. Elaborer un projet de production |
 
 - Interpréter un budget
 
-- Connaître les processus de production et d'autoproduction |
+- Connaître les processus de production et d'autoproduction
+
+|
 
 EC
 
-Epreuves pratiques et/ou écrites |
+Épreuves pratiques et/ou écrites
+
+|
 
 - Cohérence de la conduite du projet
 
 - gestion des ressources disponibles pour en tirer le meilleur parti
 
-- traitement global des éléments constitutifs du projet |
+- traitement global des éléments constitutifs du projet
 
-C. Exploiter le projet de production |
+|
+
+C. Exploiter le projet de production
+
+|
 
 - Insertion dans des processus de diffusion
 
 - Accès aux réseaux de distribution phonographiques
 
-- Utilisation de moteurs de distribution en ligne |
+- Utilisation de moteurs de distribution en ligne
+
+|
 
 - Connaître le rôle et les responsabilités des différents acteurs relevant du secteur de la diffusion
 
-- Savoir utiliser les outils en ligne |
+- Savoir utiliser les outils en ligne
+
+|
 
 EC
 
-Epreuves pratiques et/ou écrites |
+Épreuves pratiques et/ou écrites
+
+|
 
 - Traitement global de l'ensemble des éléments constitutifs du projet
 
 - Réalisation d'une maquette d'enregistrement (jaquette, textes, photos, notice biographique)
 
-- Maniement aisé de l'expression orale et écrite |
+- Maniement aisé de l'expression orale et écrite
 
-D. Suivre l'évolution réglementaire |
+|
+
+D. Suivre l'évolution réglementaire
+
+|
 
 - Accès aux textes réglementaires (ex : droit du travail, conventions collectives, propriété intellectuelle, prévention des risques…)
 
 - Négociation d'un contrat de travail
 
-- Interprétation des autres types de contrats |
+- Interprétation des autres types de contrats
+
+|
 
 - Savoir se procurer et utiliser les documents et textes en rapport avec l'exercice de sa profession
 
-- Etre initié aux aspects juridiques et réglementaires de la production, de la diffusion, de l'édition, de l'écriture et des supports musicaux |
+- Être initié aux aspects juridiques et réglementaires de la production, de la diffusion, de l'édition, de l'écriture et des supports musicaux
+
+|
 
 EC
 
-Epreuve écrite (questionnaire) |
+Épreuve écrite (questionnaire)
 
-- Assimilation des connaissances élémentaires |
+|
 
-E. Développer ses compétences |
+- Assimilation des connaissances élémentaires
+
+|
+
+E. Développer ses compétences
+
+|
 
 - Accès à une formation professionnelle continue
 
-- Entretien de son niveau technique individuel |
+- Entretien de son niveau technique individuel
+
+|
 
 - Connaître les dispositifs de formation continue (CIF, DIF, validation des acquis de l'expérience, bilan de compétences…) comme outils de développement de son projet professionnel
 
@@ -702,11 +966,15 @@ E. Développer ses compétences |
 
 - lire et mesurer les évolutions du secteur professionnel
 
-- Maîtriser au moins une langue vivante étrangère, à l'oral comme à l'écrit, en priorité l'anglais |
+- Maîtriser au moins une langue vivante étrangère, à l'oral comme à l'écrit, en priorité l'anglais
+
+|
 
 EC
 
-Epreuves orales et/ou écrites |
+Épreuves orales et/ou écrites
+
+|
 
 - Assimilation des connaissances élémentaires
 
@@ -716,31 +984,47 @@ Epreuves orales et/ou écrites |
 
 - Maîtrise de la terminologie musicale et du vocabulaire professionnel dans la langue
 
-- Compréhension d'un document en langage courant dans la langue étrangère |
+- Compréhension d'un document en langage courant dans la langue étrangère
 
-Bloc de compétences n° 4 : Elargir son champ de compétences professionnelles |
+|
 
-A. Valoriser sa place au sein d'un ensemble |
+Bloc de compétences n° 4 : Élargir son champ de compétences professionnelles
 
-- Interventions ponctuelles dans une situation autre que l'exercice habituel de sa fonction |
+|
 
-- Assurer d'autres situations professionnelles (musicales, telles qu'un ensemble d'une autre géométrie, scéniques, théâtrales, de régie…) |
+A. Valoriser sa place au sein d'un ensemble
+
+|
+
+- Interventions ponctuelles dans une situation autre que l'exercice habituel de sa fonction
+
+|
+
+- Assurer d'autres situations professionnelles (musicales, telles qu'un ensemble d'une autre géométrie, scéniques, théâtrales, de régie…)
+
+|
 
 EC
 
-Epreuves
+Épreuves pratiques
 
-pratiques |
+|
 
 - Participation active
 
-- Implication |
+- Implication
 
-B. Participer à la promotion de son art |
+|
+
+B. Participer à la promotion de son art
+
+|
 
 - Dialogue avec un public sur un spectacle
 
-- Partage des éléments fondamentaux de sa pratique (à l'oral ou à l'écrit) |
+- Partage des éléments fondamentaux de sa pratique (à l'oral ou à l'écrit)
+
+|
 
 - S'inscrire dans une démarche d'action culturelle
 
@@ -748,117 +1032,155 @@ B. Participer à la promotion de son art |
 
 - Expliciter ses choix esthétiques
 
-- Développer les premiers éléments d'une capacité de transmission |
+- Développer les premiers éléments d'une capacité de transmission
+
+|
 
 (en option)
 
 EC
 
-Epreuve écrite |
+Épreuve écrite
+
+|
 
 - Assimilation des connaissances élémentaires en pédagogie fondamentale
 
-- Maniement aisé de l'expression écrite |
+- Maniement aisé de l'expression écrite
 
-C. Proposer des démarches partenariales vers d'autres structures |
+|
+
+C. Proposer des démarches partenariales vers d'autres structures
+
+|
 
 - Vers les établissements d'enseignement spécialisé et les acteurs des pratiques en amateur
 
 - Vers les établissements d'enseignement scolaire
 
-- Vers d'autres établissements culturels |
+- Vers d'autres établissements culturels
+
+|
 
 - Connaître la structuration du réseau des établissements d'enseignement spécialisé et de la pratique en amateur
 
-- Etre familiarisé au réseau des établissements d'enseignement général et aux institutions relevant du ministère de l'éducation nationale
+- Être familiarisé au réseau des établissements d'enseignement général et aux institutions relevant du ministère de l'éducation nationale
 
 - Connaître le réseau de diffusion culturelle
 
-- Etre force de proposition envers les partenaires potentiels |
+- Être force de proposition envers les partenaires potentiels
 
 |
 
 |
 
-D. Approcher d'autres esthétiques |
+|
+
+D. Approcher d'autres esthétiques
+
+|
 
 - Participation à des manifestations culturelles pluridisciplinaires
 
-- Rencontre d'artistes d'autres champs musicaux |
+- Rencontre d'artistes d'autres champs musicaux
 
-- Etre initié aux expressions artistiques pouvant être associées à sa discipline (théâtre, danse, multimédia, …) |
+|
+
+- Être initié aux expressions artistiques pouvant être associées à sa discipline (théâtre, danse, multimédia, …)
+
+|
 
 EC
 
-Epreuves
+Épreuves pratiques
 
-pratiques |
+|
 
 - Implication
 
-- Prise en compte des caractéristiques des autres expressions artistiques |
+- Prise en compte des caractéristiques des autres expressions artistiques
 
-II. - Discipline « Chef d'ensemble »
+|
 
-N° du bloc
+II. - Discipline "Chef d'ensemble"
 
-de compétences |
+N° du bloc de compétences
 
-Intitulé du bloc |
+|
 
-Liste de compétences |
+Intitulé du bloc
 
-Modalités d'évaluation |
+|
 
-1 |
+Liste de compétences
 
-Usages
+|
 
-numériques |
+Modalités d'évaluation
 
-Utiliser les outils numériques de référence et les règles de sécurité informatique pour acquérir, traiter, produire et diffuser de l'information ainsi que pour collaborer en interne et en externe. |
+|
 
-Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue. |
+1
 
-2 |
+|
 
-Exploitation de données à des fins d'analyse |
+Usages numériques
+
+|
+
+Utiliser les outils numériques de référence et les règles de sécurité informatique pour acquérir, traiter, produire et diffuser de l'information ainsi que pour collaborer en interne et en externe.
+
+|
+
+Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue.
+
+|
+
+2
+
+|
+
+Exploitation de données à des fins d'analyse
+
+|
 
 - Identifier, sélectionner et analyser avec esprit critique diverses ressources dans son domaine de spécialité pour documenter un sujet et synthétiser ces données en vue de leur exploitation.
 
 - Analyser et synthétiser des données en vue de leur exploitation
 
-- Développer une argumentation avec esprit critique. |
+- Développer une argumentation avec esprit critique.
 
-Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue. |
+|
 
-3 |
+Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue.
 
-Expression et communication écrites et orales |
+|
+
+3
+
+|
+
+Expression et communication écrites et orales
+
+|
 
 - Se servir aisément des différents registres d'expression écrite et orale de la langue française.
 
-- Communiquer par oral et par écrit, de façon claire et non ambiguë, dans au moins une langue étrangère. |
+- Communiquer par oral et par écrit, de façon claire et non ambiguë, dans au moins une langue étrangère.
 
-Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue. |
+|
 
-4 |
+Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue.
 
-Positionnement vis-à-vis d'un champ professionnel |
+|
 
-- Situer son rôle et sa mission au sein d'une organisation pour s'adapter et prendre des initiatives.
+4
 
-- Respecter les principes d'éthique, de déontologie et de responsabilité environnementale.
+|
 
-- Travailler en équipe et en réseau ainsi qu'en autonomie et responsabilité au service d'un projet.
+Positionnement vis-à-vis d'un champ professionnel
 
-- Analyser ses actions en situation professionnelle, s'autoévaluer pour améliorer sa pratique. |
-
-Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue. |
-
-5 |
-
-Actions en responsabilité au sein d'une organisation professionnelle |
+|
 
 - Situer son rôle et sa mission au sein d'une organisation pour s'adapter et prendre des initiatives.
 
@@ -866,67 +1188,125 @@ Actions en responsabilité au sein d'une organisation professionnelle |
 
 - Travailler en équipe et en réseau ainsi qu'en autonomie et responsabilité au service d'un projet.
 
-- Analyser ses actions en situation professionnelle, s'autoévaluer pour améliorer sa pratique. |
+- Analyser ses actions en situation professionnelle, s'autoévaluer pour améliorer sa pratique.
 
-Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue. |
+|
+
+Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue.
+
+|
+
+5
+
+|
+
+Actions en responsabilité au sein d'une organisation professionnelle
+
+|
+
+- Situer son rôle et sa mission au sein d'une organisation pour s'adapter et prendre des initiatives.
+
+- Respecter les principes d'éthique, de déontologie et de responsabilité environnementale.
+
+- Travailler en équipe et en réseau ainsi qu'en autonomie et responsabilité au service d'un projet.
+
+- Analyser ses actions en situation professionnelle, s'autoévaluer pour améliorer sa pratique.
+
+|
+
+Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue.
+
+|
 
 Blocs de compétences :
 
-Bloc de compétences n° 1 - Exercer son art de chef d'ensemble : diriger, encadrer, animer.
+Bloc de compétences n° 1 - Exercer son art de chef d'ensemble : diriger, encadrer, animer
 
-Bloc de compétences n° 2 - Inscrire sa pratique artistique et professionnelle dans une démarche de recherche.
+Bloc de compétences n° 2 - Inscrire sa pratique artistique et professionnelle dans une démarche de recherche
 
-Bloc de compétences n° 3 - Concevoir et mettre en œuvre un projet.
+Bloc de compétences n° 3 - Concevoir et mettre en œuvre un projet
 
-Bloc de compétences n° 4 - Construire son parcours professionnel.
+Bloc de compétences n° 4 - Construire son parcours professionnel
 
-Modalités d'évaluation :
+Modalités d'évaluation
 
-Evaluation continue (EC) - évaluation terminale (ET).
+Evaluation continue (EC) - évaluation terminale (ET)
 
 Les modalités d'évaluation - épreuves pratiques, écrites, orales, entretiens… - ont vocation à recouvrir plusieurs compétences définies par le référentiel de compétences et de certification.
 
-Référentiel d'activités professionnelles |
+Référentiel d'activités professionnelles
 
-Référentiel de compétences |
+|
 
-Référentiel d'évaluation |
+Référentiel de compétences
 
-Activités |
+|
 
-Tâches |
+Référentiel d'évaluation
 
-Connaissances, compétences, attitudes |
+|
 
-Modalités |
+Activités
 
-Critères |
+|
 
-Bloc de compétences nº 1 : Exercer son art de chef d'ensemble : diriger, encadrer, animer |
+Tâches
 
-A. Concevoir |
+|
+
+Connaissances, compétences, attitudes
+
+|
+
+Modalités
+
+|
+
+Critères
+
+|
+
+Bloc de compétences nº 1 : Exercer son art de chef d'ensemble : diriger, encadrer, animer
+
+|
+
+A. Concevoir
+
+|
 
 - Créer, écrire, réécrire, décrire
 
-- Harmoniser, improviser |
+- Harmoniser, improviser
+
+|
 
 - Connaître et manier les éléments constitutifs du langage (rythme, mélodie, harmonie, forme, instrumentation) d'un des champs musicaux principaux de son répertoire (musique ancienne, musique classique-romantique-moderne, musique contemporaine, musiques traditionnelles, chanson…)
 
-- Etre initié aux éléments constitutifs du langage d'un autre champ musical
+- Être initié aux éléments constitutifs du langage d'un autre champ musical
 
-- Développer son esprit d'inventivité |
+- Développer son esprit d'inventivité
 
-EC comportant la réalisation d'une production |
+|
+
+EC comportant la réalisation d'une production
+
+|
 
 - Aisance du maniement des éléments constitutifs du langage dans le champ musical choisi
 
-- Connaissance d'éléments de base constitutifs du langage d'un autre champ musical |
+- Connaissance d'éléments de base constitutifs du langage d'un autre champ musical
 
-B. Elargir son image sonore |
+|
+
+B. Élargir son image sonore
+
+|
 
 - Effectuer des recherches sur l'œuvre et son contexte historique et stylistique
 
-- Analyser l'œuvre sur le plan formel, esthétique |
+- Analyser l'œuvre sur le plan formel, esthétique
+
+|
 
 - Développer des connaissances générales (culturelles, scientifiques) susceptibles d'enrichir son univers sonore
 
@@ -940,9 +1320,13 @@ B. Elargir son image sonore |
 
 - Disposer de connaissances en culture générale
 
-- Utiliser un instrument polyphonique |
+- Utiliser un instrument polyphonique
 
-EC |
+|
+
+EC
+
+|
 
 - Argumentation de la conception globale de l'œuvre par les éléments précis de l'analyse
 
@@ -952,15 +1336,21 @@ EC |
 
 - Capacité à dégager sur instrument polyphonique les éléments essentiels du langage d'une courte pièce ou extrait d'œuvre pour ensemble vocal et / ou instrumental
 
-- Faire ressortir la hiérarchie de ces éléments |
+- Faire ressortir la hiérarchie de ces éléments
 
-C. Diriger |
+|
 
-- Etre en état d'anticipation, d'écoute active et de mémorisation des événements sonores
+C. Diriger
+
+|
+
+- Être en état d'anticipation, d'écoute active et de mémorisation des événements sonores
 
 - Mettre en jeu une écoute active
 
-- Agir en fonction d'un texte musical donné, de son écoute intérieure, du contexte |
+- Agir en fonction d'un texte musical donné, de son écoute intérieure, du contexte
+
+|
 
 - Connaître de manière précise et approfondie la partition
 
@@ -970,9 +1360,13 @@ C. Diriger |
 
 - Confronter l'image sonore projetée et le résultat immédiat
 
-- Mémoriser et analyser les écarts entre ces deux données |
+- Mémoriser et analyser les écarts entre ces deux données
 
-EC |
+|
+
+EC
+
+|
 
 - Mémorisation de partitions du répertoire étudié
 
@@ -980,11 +1374,15 @@ EC |
 
 - Compte-rendu détaillé et complet des événements de la prestation
 
-- Mise en corrélation des différents événements de la prestation, mise en perspective avec d'autres prestations dans le cadre de l'auto-évaluation |
+- Mise en corrélation des différents événements de la prestation, mise en perspective avec d'autres prestations dans le cadre de l'auto-évaluation
 
 |
 
-- Communiquer et transmettre corporellement une conception artistique |
+|
+
+- Communiquer et transmettre corporellement une conception artistique
+
+|
 
 - Affirmer son autorité artistique en s'appuyant sur son appropriation de l'œuvre et sa capacité, dans l'acte de direction, à faire adhérer l'ensemble à ses choix d'interprétation
 
@@ -1004,9 +1402,13 @@ EC |
 
 - Inscrire une expression gestuelle dans un espace en rapport avec son schéma corporel
 
-- Associer geste et production sonore |
+- Associer geste et production sonore
 
-EC et ET |
+|
+
+EC et ET
+
+|
 
 - Adhésion de l'ensemble aux choix artistiques proposés
 
@@ -1016,11 +1418,15 @@ EC et ET |
 
 - Impact du geste sur la qualité du résultat musical (qualité sonore, rythme, phrasé, couleur…)
 
-- Expressivité du geste comportant une indication, une adresse, une intention |
+- Expressivité du geste comportant une indication, une adresse, une intention
 
 |
 
-- Conduire une prestation en situation scénique et en situation d'enregistrement |
+|
+
+- Conduire une prestation en situation scénique et en situation d'enregistrement
+
+|
 
 - Organiser l'espace, installer le groupe dans l'espace
 
@@ -1032,7 +1438,7 @@ EC et ET |
 
 - Se mettre en position d'écoute critique
 
-- Etablir les conditions matérielles d'un enregistrement
+- Établir les conditions matérielles d'un enregistrement
 
 - Se préparer physiquement, mentalement, gérer son trac
 
@@ -1044,9 +1450,13 @@ EC et ET |
 
 - Gérer sur la durée de la représentation, son investissement et son énergie ainsi que ceux du groupe
 
-- Evaluer la qualité d'une prise d'enregistrement |
+- Évaluer la qualité d'une prise d'enregistrement
 
-EC et ET |
+|
+
+EC et ET
+
+|
 
 - Précision des indications données aux musiciens pour s'adapter aux contraintes du lieu
 
@@ -1056,11 +1466,17 @@ EC et ET |
 
 - Appréhension et gestion des différents paramètres connexes à la réalisation d'une prestation et d'un enregistrement
 
-- Analyse argumentée de la prestation réalisée sur le plan technique et artistique. |
+- Analyse argumentée de la prestation réalisée sur le plan technique et artistique.
 
-D. Encadrer |
+|
 
-- Construire l'identité sonore du groupe |
+D. Encadrer
+
+|
+
+- Construire l'identité sonore du groupe
+
+|
 
 - Développer une conscience collective du son (justesse de l'intonation, homogénéité du timbre, équilibre des nuances…)
 
@@ -1074,15 +1490,19 @@ D. Encadrer |
 
 - Articuler la phase de mise en place de la partition et le travail du timbre et de la couleur de l'ensemble, veiller aux phrasés communs
 
-- Equilibrer les plans sonores
+- Équilibrer les plans sonores
 
 - Utiliser les moyens techniques du studio pour enrichir et développer l'identité artistique du groupe
 
 - Restituer la poésie et la phonétique d'une langue étrangère, en dégager la musicalité ou faire appel à des ressources extérieures
 
-- Gérer les rapports soliste/ensemble |
+- Gérer les rapports soliste/ensemble
 
-EC et ET |
+|
+
+EC et ET
+
+|
 
 - Précision de l'écoute du chef
 
@@ -1090,11 +1510,15 @@ EC et ET |
 
 - Efficacité de ces remarques sur l'évolution sonore de l'ensemble
 
-- Mise en valeur des interprètes selon leur rôle dans la prestation |
+- Mise en valeur des interprètes selon leur rôle dans la prestation
 
 |
 
-- Evaluer |
+|
+
+- Évaluer
+
+|
 
 - Disposer d'une diversité d'outils d'évaluation
 
@@ -1110,19 +1534,27 @@ EC et ET |
 
 - Engager un dialogue d'évaluation avec le groupe
 
-- Emettre un avis et dialoguer sur celui-ci avec d'autres interprètes dont des directeurs d'ensembles |
+- Émettre un avis et dialoguer sur celui-ci avec d'autres interprètes dont des directeurs d'ensembles
 
-EC et ET |
+|
+
+EC et ET
+
+|
 
 - Identification et explicitation des qualités et des améliorations à apporter
 
 - Qualité et richesse de l'échange avec le groupe concernant le travail et les prestations
 
-- Capacité à solliciter des ressources extérieures dans le but d'enrichir le groupe et le projet |
+- Capacité à solliciter des ressources extérieures dans le but d'enrichir le groupe et le projet
 
 |
 
-- Conduire les répétitions |
+|
+
+- Conduire les répétitions
+
+|
 
 - Déterminer le planning des répétitions et un plan de travail de chaque répétition
 
@@ -1152,15 +1584,23 @@ EC et ET |
 
 - Développer la capacité de l'ensemble à répondre aux exigences d'une scénographie
 
-- Gérer les rapports du groupe avec d'autres artistes et des techniciens |
-
-EC et ET |
-
-- |
+- Gérer les rapports du groupe avec d'autres artistes et des techniciens
 
 |
 
-- Mener une séance d'enregistrement |
+EC et ET
+
+|
+
+-
+
+|
+
+|
+
+- Mener une séance d'enregistrement
+
+|
 
 - S'adapter aux conditions acoustiques et spatiales du lieu
 
@@ -1184,19 +1624,29 @@ EC et ET |
 
 - Respecter les temps de travail et de pause nécessaires à la récupération des musiciens
 
-- Etre initié aux nouveaux outils de traitement du son |
+- Être initié aux nouveaux outils de traitement du son
 
-EC |
+|
+
+EC
+
+|
 
 - Précision du travail préalable écrit
 
 - Respect du temps imparti et du plan de travail déterminé pour la séance
 
-- Qualité de l'évaluation sonore des prises en fonction des remarques de l'ingénieur du son et de ses propres remarques |
+- Qualité de l'évaluation sonore des prises en fonction des remarques de l'ingénieur du son et de ses propres remarques
 
-Animer |
+|
 
-- Communiquer |
+Animer
+
+|
+
+- Communiquer
+
+|
 
 - Disposer des modes de communication écrits et oraux afin d'exposer ses objectifs et son projet
 
@@ -1208,27 +1658,35 @@ Animer |
 
 - Savoir adapter le langage au groupe et à ses réactions
 
-- Evaluer en permanence le degré de compréhension du groupe
+- Évaluer en permanence le degré de compréhension du groupe
 
-- Etablir des relations entre la conception de l'œuvre et sa réalisation et mettre en œuvre des démarches de travail appropriées
+- Établir des relations entre la conception de l'œuvre et sa réalisation et mettre en œuvre des démarches de travail appropriées
 
 - Faire adhérer le groupe à l'intérêt d'une connaissance fine de l'œuvre pour mieux l'interpréter en faisant appel à la compréhension et à la sensibilité de chacun
 
-- Echanger avec d'autres artistes notamment de la scène
+- Échanger avec d'autres artistes notamment de la scène
 
-- Mener des échanges avec des acteurs du monde éducatif, culturel et social |
-
-EC |
-
-- Enonciation précise des objectifs
-
-- Qualité, efficacité, aisance de l'expression écrite, orale et non-verbale
-
-- Qualité et richesse de l'échange avec dives interlocuteurs |
+- Mener des échanges avec des acteurs du monde éducatif, culturel et social
 
 |
 
-- Exercer une fonction de manager |
+EC
+
+|
+
+- Énonciation précise des objectifs
+
+- Qualité, efficacité, aisance de l'expression écrite, orale et non-verbale
+
+- Qualité et richesse de l'échange avec dives interlocuteurs
+
+|
+
+|
+
+- Exercer une fonction de manager
+
+|
 
 - Identifier les différents domaines constitutifs du management d'un groupe musical
 
@@ -1246,9 +1704,13 @@ EC |
 
 - Concilier autorité et écoute
 
-- Savoir anticiper une situation de crise ou de conflit et la gérer le cas échéant |
+- Savoir anticiper une situation de crise ou de conflit et la gérer le cas échéant
 
-EC |
+|
+
+EC
+
+|
 
 - Capacité à assumer ses choix
 
@@ -1256,11 +1718,15 @@ EC |
 
 - Réactivité face aux difficultés
 
-- Capacité à installer un climat de confiance avec le groupe notamment en situation de production |
+- Capacité à installer un climat de confiance avec le groupe notamment en situation de production
 
 |
 
-- Construire et gérer la dynamique du groupe |
+|
+
+- Construire et gérer la dynamique du groupe
+
+|
 
 - Construire un équilibre entre ses aspirations et la prise en compte des spécificités du groupe
 
@@ -1276,17 +1742,27 @@ EC |
 
 - Savoir écouter et prendre en compte les avis
 
-- Faire preuve de calme et d'assurance |
+- Faire preuve de calme et d'assurance
 
-EC |
+|
+
+EC
+
+|
 
 - Connaissance de notions élémentaires en matière de pédagogie et de psychologie des groupes
 
-- Capacité à mobiliser le groupe |
+- Capacité à mobiliser le groupe
 
-Bloc de compétences nº 2 : Inscrire sa pratique artistique et professionnelle dans une démarche de recherche |
+|
 
-A. Rechercher, collecter, recueillir |
+Bloc de compétences nº 2 : Inscrire sa pratique artistique et professionnelle dans une démarche de recherche
+
+|
+
+A. Rechercher, collecter, recueillir
+
+|
 
 - Consulter des sources documentaires variées
 
@@ -1294,7 +1770,9 @@ A. Rechercher, collecter, recueillir |
 
 - Apprécier l'intérêt artistique des éléments consultés
 
-- Sélectionner les éléments s'inscrivant dans le projet musical |
+- Sélectionner les éléments s'inscrivant dans le projet musical
+
+|
 
 - Identifier les ressources de la documentation musicale (personnes, lieux, outils…)
 
@@ -1304,11 +1782,15 @@ A. Rechercher, collecter, recueillir |
 
 - Constituer un corpus personnel de partitions, d'enregistrements, de références en ressources documentaires
 
-- Sélectionner les éléments intéressants artistiquement, en rapport avec le projet développé |
+- Sélectionner les éléments intéressants artistiquement, en rapport avec le projet développé
+
+|
 
 EC
 
-Production de travaux personnels écrits |
+Production de travaux personnels écrits
+
+|
 
 - Aboutissement de la recherche
 
@@ -1318,13 +1800,19 @@ Production de travaux personnels écrits |
 
 - Pertinence des éléments choisis pour constituer un apport dans la démarche artistique et la maîtrise technique de l'ensemble
 
-- Originalité du contenu |
+- Originalité du contenu
 
-B. Mobiliser des connaissances en matière artistique, technique et institutionnelle, pour participer à une démarche de recherche |
+|
+
+B. Mobiliser des connaissances en matière artistique, technique et institutionnelle, pour participer à une démarche de recherche
+
+|
 
 - Mobiliser une culture générale artistique et pédagogique, notamment dans le domaine musical
 
-- Définir des problématiques d'étude |
+- Définir des problématiques d'étude
+
+|
 
 - Entretenir ses connaissances de la musique et du spectacle vivant en général (histoire, esthétiques actuelles) et des conditions d'exercice de la profession (connaissances réglementaires, administratives et institutionnelles)
 
@@ -1334,7 +1822,9 @@ B. Mobiliser des connaissances en matière artistique, technique et institutionn
 
 - Se servir de la terminologie descriptive et critique pour commenter les arts du spectacle, au travers d'un projet/mémoire d'initiation à la recherche
 
-- Pratiquer au moins une langue étrangère |
+- Pratiquer au moins une langue étrangère
+
+|
 
 EC, ET
 
@@ -1342,7 +1832,9 @@ Dossier
 
 Mémoire
 
-Soutenance |
+Soutenance
+
+|
 
 - Appropriation des connaissances historiques, politiques et économiques qui permettent une compréhension précise de l'exercice du métier
 
@@ -1362,11 +1854,17 @@ Soutenance |
 
 - Compréhension et aisance dans l'expression dans au moins une langue étrangère, à l'écrit et à l'oral
 
-- Esprit de synthèse |
+- Esprit de synthèse
 
-Bloc de compétences nº 3 : Concevoir et mettre en œuvre un projet |
+|
 
-A. Définir le projet artistique et culturel de l'ensemble concerné |
+Bloc de compétences nº 3 : Concevoir et mettre en œuvre un projet
+
+|
+
+A. Définir le projet artistique et culturel de l'ensemble concerné
+
+|
 
 - Déterminer l'esthétique ou les esthétiques proposées à l'ensemble
 
@@ -1376,7 +1874,9 @@ A. Définir le projet artistique et culturel de l'ensemble concerné |
 
 - Inscrire l'action de l'ensemble dans un ou des projets culturels
 
-- Elaborer des actions culturelles |
+- Élaborer des actions culturelles
+
+|
 
 - Savoir formuler les finalités de son projet artistique
 
@@ -1386,9 +1886,13 @@ A. Définir le projet artistique et culturel de l'ensemble concerné |
 
 - Développer des relations de confiance avec les interlocuteurs concernés
 
-- Jouer un rôle de médiateur culturel |
+- Jouer un rôle de médiateur culturel
 
-EC |
+|
+
+EC
+
+|
 
 - Formulation des finalités de son projet artistique
 
@@ -1402,9 +1906,13 @@ EC |
 
 - Qualités relationnelles du chef au sein de son environnement
 
-- Aptitude à la médiation |
+- Aptitude à la médiation
 
-B. Concevoir et conduire un projet de production, de diffusion, d'enregistrement |
+|
+
+B. Concevoir et conduire un projet de production, de diffusion, d'enregistrement
+
+|
 
 - Analyser la faisabilité d'un projet
 
@@ -1412,29 +1920,39 @@ B. Concevoir et conduire un projet de production, de diffusion, d'enregistrement
 
 - Créer et faire vivre un réseau de partenaires
 
-- Faire partager le projet aux membres du groupe |
+- Faire partager le projet aux membres du groupe
+
+|
 
 - Identifier les conditions nécessaires à la réalisation d'un projet et les conséquences organisationnelles et financières.
 
 - Identifier les phases successives de réalisation d'un projet et les différents moments d'évaluation/ décision
 
-- Etablir un calendrier prévisionnel
+- Établir un calendrier prévisionnel
 
 - Connaître les conditions légales de mise en œuvre
 
-- Savoir mettre en œuvre des processus visant à obtenir l'adhésion des membres de l'ensemble |
+- Savoir mettre en œuvre des processus visant à obtenir l'adhésion des membres de l'ensemble
+
+|
 
 EC
 
-comprenant la conception et la réalisation d'un projet concret associant une diversité de partenaires |
+comprenant la conception et la réalisation d'un projet concret associant une diversité de partenaires
+
+|
 
 - Qualité et précision de la définition préalable
 
-- Qualité de la conduite de projet (mise en œuvre, adaptation, réaménagement éventuel…) |
+- Qualité de la conduite de projet (mise en œuvre, adaptation, réaménagement éventuel…)
 
-C. Proposer un projet de formation pour le groupe |
+|
 
-- Evaluer le groupe et chacun de ses membres dans une perspective formative
+C. Proposer un projet de formation pour le groupe
+
+|
+
+- Évaluer le groupe et chacun de ses membres dans une perspective formative
 
 - Déterminer un/des parcours de formation
 
@@ -1444,41 +1962,63 @@ C. Proposer un projet de formation pour le groupe |
 
 - Concevoir un dispositif adapté et faire appel aux compétences nécessaires
 
-- Choisir un répertoire en fonction d'un projet de formation et d'une progression |
-
-- |
+- Choisir un répertoire en fonction d'un projet de formation et d'une progression
 
 |
 
-- |
+-
 
-Bloc de compétences n° 4 : Construire son parcours professionnel |
+|
 
-A. Définir ses objectifs professionnels |
+|
+
+-
+
+|
+
+Bloc de compétences n° 4 : Construire son parcours professionnel
+
+|
+
+A. Définir ses objectifs professionnels
+
+|
 
 - S'informer sur les emplois possibles et les conditions d'accès
 
-- Faire évoluer son projet en fonction des circonstances, des opportunités, des contraintes |
+- Faire évoluer son projet en fonction des circonstances, des opportunités, des contraintes
+
+|
 
 - Connaître les emplois possibles et les référentiels métiers correspondants
 
 - Savoir rédiger une lettre de motivation et un CV
 
-- Savoir préparer un entretien |
+- Savoir préparer un entretien
 
-EC |
+|
+
+EC
+
+|
 
 - Rigueur dans l'élaboration d'un CV
 
-- Réactivité et précision du propos dans le cadre de la conduite d'un entretien d'embauche, de proposition de programmation du groupe, d'échange avec divers types de techniciens |
+- Réactivité et précision du propos dans le cadre de la conduite d'un entretien d'embauche, de proposition de programmation du groupe, d'échange avec divers types de techniciens
 
-B. Enrichir son parcours professionnel |
+|
+
+B. Enrichir son parcours professionnel
+
+|
 
 - Développer ses compétences : accéder à une formation professionnelle continue
 
 - Entretenir et enrichir son niveau technique individuel
 
-- Suivre l'actualité musicale au plan des différents langages et de leur esthétique |
+- Suivre l'actualité musicale au plan des différents langages et de leur esthétique
+
+|
 
 - Connaître les dispositifs de formation continue (CIF, DIF, validation des acquis de l'expérience, bilan de compétences, …) comme outils de développement de son projet professionnel
 
@@ -1488,9 +2028,13 @@ B. Enrichir son parcours professionnel |
 
 - Pratiquer l'auto-formation
 
-- Savoir lire et mesurer les évolutions du secteur professionnel |
+- Savoir lire et mesurer les évolutions du secteur professionnel
 
-EC |
+|
+
+EC
+
+|
 
 - Assimilation des connaissances élémentaires sur les dispositifs de formation continue
 
@@ -1498,125 +2042,169 @@ EC |
 
 - Maîtrise de la terminologie musicale et du vocabulaire professionnel dans la langue étrangère
 
-- Compréhension d'un document en langage courant dans la langue étrangère |
-
-C. Prévenir les risques professionnels |
-
-- Gérer sa résistance physique et psychologique
-
-- Exercer sa vigilance sur la posture corporelle, l'ergonomie, la respiration, l'audition, l'hygiène alimentaire, les rythmes biologiques |
-
-- Connaître son corps, prévenir les pathologies
-
-- Connaître les ressources pour prévenir et soigner |
+- Compréhension d'un document en langage courant dans la langue étrangère
 
 |
 
-- |
+C. Prévenir les risques professionnels
 
-D. Approcher d'autres esthétiques |
+|
+
+- Gérer sa résistance physique et psychologique
+
+- Exercer sa vigilance sur la posture corporelle, l'ergonomie, la respiration, l'audition, l'hygiène alimentaire, les rythmes biologiques
+
+|
+
+- Connaître son corps, prévenir les pathologies
+
+- Connaître les ressources pour prévenir et soigner
+
+|
+
+|
+
+-
+
+|
+
+D. Approcher d'autres esthétiques
+
+|
 
 - Participer à des manifestations culturelles pluridisciplinaires
 
-- Rencontrer des artistes d'autres champs musicaux |
+- Rencontrer des artistes d'autres champs musicaux
 
-- Etre initié aux expressions artistiques pouvant être associées à sa discipline (théâtre, danse, multimédia, …) |
+|
+
+- Être initié aux expressions artistiques pouvant être associées à sa discipline (théâtre, danse, multimédia, …)
+
+|
 
 EC
 
-Epreuves
+Épreuves pratiques
 
-pratiques |
+|
 
 - Implication et intérêt pour l'abord d'expressions artistiques diverses
 
-- Prise en compte dans l'élaboration d'un projet musical des caractéristiques des autres expressions artistiques |
+- Prise en compte dans l'élaboration d'un projet musical des caractéristiques des autres expressions artistiques
 
-E. Proposer des démarches partenariales |
+|
+
+E. Proposer des démarches partenariales
+
+|
 
 - Créer et faire vivre un réseau de partenaires
 
-- Etre force de proposition envers les partenaires potentiels |
+- Être force de proposition envers les partenaires potentiels
+
+|
 
 - Avoir identifié et connaître les différents types de partenaires potentiels
 
 - Connaître la structuration du réseau des établissements d'enseignement spécialisé et de la pratique en amateur
 
-- Etre familiarisé avec le réseau des institutions relevant du ministère de l'éducation nationale
+- Être familiarisé avec le réseau des institutions relevant du ministère de l'éducation nationale
 
 - Connaître le réseau de diffusion culturelle
 
-- Connaître les cadres et dispositifs (chartes, conventions) sur lesquels pourront s'appuyer les partenariats recherchés |
+- Connaître les cadres et dispositifs (chartes, conventions) sur lesquels pourront s'appuyer les partenariats recherchés
 
-EC |
+|
+
+EC
+
+|
 
 - Connaissances précises sur les différentes structures ayant vocation à l'enseignement artistique et à l'initiation dans le domaine des arts
 
-- Connaissances de base sur les réseaux de diffusion culturelle et les dispositifs permettant d'en être partenaire |
+- Connaissances de base sur les réseaux de diffusion culturelle et les dispositifs permettant d'en être partenaire
 
-III. - Discipline « création musicale contemporaine »
+|
 
-N° du bloc
+III. - Discipline "création musicale contemporaine"
 
-de compétences |
+N° du bloc de compétences
 
-Intitulé du bloc |
+|
 
-Liste de compétences |
+Intitulé du bloc
 
-Modalités d'évaluation |
+|
 
-1 |
+Liste de compétences
 
-Usages numériques |
+|
 
-Utiliser les outils numériques de référence et les règles de sécurité informatique pour acquérir, traiter, produire et diffuser de l'information ainsi que pour collaborer en interne et en externe. |
+Modalités d'évaluation
 
-Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue. |
+|
 
-2 |
+1
 
-Exploitation de données à des fins d'analyse |
+|
+
+Usages numériques
+
+|
+
+Utiliser les outils numériques de référence et les règles de sécurité informatique pour acquérir, traiter, produire et diffuser de l'information ainsi que pour collaborer en interne et en externe.
+
+|
+
+Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue.
+
+|
+
+2
+
+|
+
+Exploitation de données à des fins d'analyse
+
+|
 
 - Identifier, sélectionner et analyser avec esprit critique diverses ressources dans son domaine de spécialité pour documenter un sujet et synthétiser ces données en vue de leur exploitation.
 
 - Analyser et synthétiser des données en vue de leur exploitation
 
-- Développer une argumentation avec esprit critique. |
+- Développer une argumentation avec esprit critique.
 
-Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue. |
+|
 
-3 |
+Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue.
 
-Expression
+|
 
-et communication
+3
 
-écrites et orales |
+|
+
+Expression et communication écrites et orales
+
+|
 
 - Se servir aisément des différents registres d'expression écrite et orale de la langue française.
 
-- Communiquer par oral et par écrit, de façon claire et non ambiguë, dans au moins une langue étrangère. |
+- Communiquer par oral et par écrit, de façon claire et non ambiguë, dans au moins une langue étrangère.
 
-Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue. |
+|
 
-4 |
+Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue.
 
-Positionnement vis-à-vis d'un champ professionnel |
+|
 
-- Situer son rôle et sa mission au sein d'une organisation pour s'adapter et prendre des initiatives.
+4
 
-- Respecter les principes d'éthique, de déontologie et de responsabilité environnementale.
+|
 
-- Travailler en équipe et en réseau ainsi qu'en autonomie et responsabilité au service d'un projet.
+Positionnement vis-à-vis d'un champ professionnel
 
-- Analyser ses actions en situation professionnelle, s'autoévaluer pour améliorer sa pratique. |
-
-Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue. |
-
-5 |
-
-Actions en responsabilité au sein d'une organisation professionnelle |
+|
 
 - Situer son rôle et sa mission au sein d'une organisation pour s'adapter et prendre des initiatives.
 
@@ -1624,55 +2212,103 @@ Actions en responsabilité au sein d'une organisation professionnelle |
 
 - Travailler en équipe et en réseau ainsi qu'en autonomie et responsabilité au service d'un projet.
 
-- Analyser ses actions en situation professionnelle, s'autoévaluer pour améliorer sa pratique. |
+- Analyser ses actions en situation professionnelle, s'autoévaluer pour améliorer sa pratique.
 
-Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue. |
+|
 
-Blocs de compétences :
+Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue.
 
-Bloc de compétences nº 1 - Initier, porter et assumer une création musicale.
+|
 
-Bloc de compétences n° 2 - Construire et s'approprier une expression musicale.
+5
 
-Bloc de compétences n° 3 - Inscrire sa pratique artistique et professionnelle dans une démarche de recherche.
+|
 
-Bloc de compétences n° 4 - Construire son parcours professionnel, partager, s'ouvrir à l'international.
+Actions en responsabilité au sein d'une organisation professionnelle
 
-Modalités d'évaluation :
+|
 
-Evaluation continue (EC) - évaluation terminale (ET).
+- Situer son rôle et sa mission au sein d'une organisation pour s'adapter et prendre des initiatives.
+
+- Respecter les principes d'éthique, de déontologie et de responsabilité environnementale.
+
+- Travailler en équipe et en réseau ainsi qu'en autonomie et responsabilité au service d'un projet.
+
+- Analyser ses actions en situation professionnelle, s'autoévaluer pour améliorer sa pratique.
+
+|
+
+Chaque certificateur accrédité met en œuvre les modalités qu'il juge adaptées : rendu de travaux, mise en situation, évaluation de projet, etc. Ces modalités d'évaluation peuvent être adaptées en fonction du chemin d'accès à la certification : formation initiale, VAE, formation continue.
+
+|
+
+Blocs de compétences
+
+Bloc de compétences nº 1 - Initier, porter et assumer une création musicale
+
+Bloc de compétences n° 2 - Construire et s'approprier une expression musicale
+
+Bloc de compétences n° 3 - Inscrire sa pratique artistique et professionnelle dans une démarche de recherche
+
+Bloc de compétences n° 4 - Construire son parcours professionnel, partager, s'ouvrir à l'international
+
+Modalités d'évaluation
+
+Évaluation continue (EC) - évaluation terminale (ET)
 
 Les modalités d'évaluation - épreuves pratiques, écrites, orales, entretiens… - ont vocation à recouvrir plusieurs compétences définies par le référentiel de compétences et de certification.
 
-Référentiel d'activités professionnelles |
+Référentiel d'activités professionnelles
 
-Référentiel de compétences |
+|
 
-Référentiel d'évaluation |
+Référentiel de compétences
 
-Activités |
+|
 
-Tâches |
+Référentiel d'évaluation
 
-Connaissances, compétences, attitudes |
+|
 
-Modalités |
+Activités
 
-Critères |
+|
 
-Bloc de compétences nº 1 : Initier, porter et assumer une création musicale |
+Tâches
 
-A. Initier un geste créatif |
+|
+
+Connaissances, compétences, attitudes
+
+|
+
+Modalités
+
+|
+
+Critères
+
+|
+
+Bloc de compétences nº 1 : Initier, porter et assumer une création musicale
+
+|
+
+A. Initier un geste créatif
+
+|
 
 - Se constituer et s'approprier un terreau culturel
 
-- Etre en posture de réceptivité
+- Être en posture de réceptivité
 
-- Agir dans un processus de création |
+- Agir dans un processus de création
+
+|
 
 - Développer, susciter sa curiosité
 
-- Etre disponible, être en éveil, être attentif à l'environnement musical et artistique en général
+- Être disponible, être en éveil, être attentif à l'environnement musical et artistique en général
 
 - Prévoir le temps nécessaire à la fabrication de l'objet musical
 
@@ -1690,19 +2326,27 @@ A. Initier un geste créatif |
 
 - Improviser
 
-- Assumer sa singularité |
-
-EC |
+- Assumer sa singularité
 
 |
 
-B. Porter un geste créatif |
+EC
+
+|
+
+|
+
+B. Porter un geste créatif
+
+|
 
 - Déployer son imaginaire, explorer
 
 - Définir un projet compositionnel
 
-- Choisir le cas échéant des partenaires extérieurs, dans les domaines artistiques ou dans d'autres domaines |
+- Choisir le cas échéant des partenaires extérieurs, dans les domaines artistiques ou dans d'autres domaines
+
+|
 
 - Connaître, expérimenter des dispositifs, outils et processus qui alimentent et questionnent l'imaginaire (improvisation, échanges et travail avec interprètes, …)
 
@@ -1710,13 +2354,17 @@ B. Porter un geste créatif |
 
 - Identifier le contexte dans lequel s'inscrit le projet
 
-- Evaluer le potentiel de développement des idées compositionnelles
+- Évaluer le potentiel de développement des idées compositionnelles
 
-- Repérer et mesurer la faisabilité de sa proposition |
+- Repérer et mesurer la faisabilité de sa proposition
+
+|
 
 EC
 
-Présentation de l'ébauche du projet (matériaux choisis et moyens nécessaires à la mise en œuvre) |
+Présentation de l'ébauche du projet (matériaux choisis et moyens nécessaires à la mise en œuvre)
+
+|
 
 - Appropriation des outils nécessaires à la mise en œuvre d'un projet, structuration des éléments de ce projet selon une ligne directrice préalablement établie :
 
@@ -1734,11 +2382,17 @@ Présentation de l'ébauche du projet (matériaux choisis et moyens nécessaires
 
 - Multiplicité d'implications des idées compositionnelles
 
-- Pertinence du choix opéré |
+- Pertinence du choix opéré
 
-C. Assumer un geste créatif |
+|
 
-- Mettre en œuvre, réaliser |
+C. Assumer un geste créatif
+
+|
+
+- Mettre en œuvre, réaliser
+
+|
 
 - Maîtriser les codes d'écriture de son champ musical
 
@@ -1746,19 +2400,27 @@ C. Assumer un geste créatif |
 
 - S'engager à titre personnel pour remplir les tâches confiées ou les tâches déterminées par son propre projet
 
-- Associer les partenaires extérieurs éventuels en prenant en compte les exigences liées à leur participation |
+- Associer les partenaires extérieurs éventuels en prenant en compte les exigences liées à leur participation
 
-EC et ET |
+|
+
+EC et ET
+
+|
 
 - Suivi de la planification
 
 - Précision et clarté des indications techniques, graphiques…
 
-- Adéquation entre la production réalisée et le projet défini |
+- Adéquation entre la production réalisée et le projet défini
 
 |
 
-- Mettre un terme, finaliser |
+|
+
+- Mettre un terme, finaliser
+
+|
 
 - Identifier les outils nécessaires à l'aboutissement d'un projet
 
@@ -1768,19 +2430,27 @@ EC et ET |
 
 - Mettre l'œuvre à l'épreuve de la réalisation de la maquette
 
-- Adapter le projet compositionnel à une variété de supports et de destinations |
+- Adapter le projet compositionnel à une variété de supports et de destinations
 
-Production d'au moins une œuvre sous forme de 2 nomenclatures ou de 2 supports différents ou à 2 destinations différentes |
+|
+
+Production d'au moins une œuvre sous forme de 2 nomenclatures ou de 2 supports différents ou à 2 destinations différentes
+
+|
 
 - Opérabilité de l'objet
 
 - Lisibilité de la gravure
 
-- Réactivité et capacité de résolution d'éventuels problèmes |
+- Réactivité et capacité de résolution d'éventuels problèmes
 
 |
 
-- Revendiquer |
+|
+
+- Revendiquer
+
+|
 
 - Valider l'œuvre
 
@@ -1788,41 +2458,63 @@ Production d'au moins une œuvre sous forme de 2 nomenclatures ou de 2 supports 
 
 - Analyser le processus de création et en identifier les étapes
 
-- Situer l'œuvre dans son cadre définitif |
+- Situer l'œuvre dans son cadre définitif
 
-EC et ET |
+|
+
+EC et ET
+
+|
 
 - Repérage des écarts notables intervenus au cours de la production
 
-- Evaluation détaillée de l'interprétation de l'œuvre et mise en perspective avec l'idée originale |
+- Évaluation détaillée de l'interprétation de l'œuvre et mise en perspective avec l'idée originale
 
-Bloc de compétences nº 2 : Construire et s'approprier une expression musicale |
+|
 
-A. Construire son style d'expression musicale |
+Bloc de compétences nº 2 : Construire et s'approprier une expression musicale
+
+|
+
+A. Construire son style d'expression musicale
+
+|
 
 - Connaître les langages et styles musicaux et artistiques
 
-- Approfondir la connaissance d'un ou plusieurs de ces langages et styles |
+- Approfondir la connaissance d'un ou plusieurs de ces langages et styles
+
+|
 
 - Disposer d'une connaissance générale des styles et des répertoires musicaux incluant notamment les musiques d'application
 
-- Etre initié à la diversité des outils d'analyse appliqués aux différents répertoires
+- Être initié à la diversité des outils d'analyse appliqués aux différents répertoires
 
 - Connaître l'évolution des langages et le domaine des musiques appliquées
 
 - Disposer de connaissances dans d'autres domaines artistiques
 
-- Posséder des connaissances dans le domaine de l'analyse, les approfondir dans le domaine musical de son choix |
+- Posséder des connaissances dans le domaine de l'analyse, les approfondir dans le domaine musical de son choix
 
-EC |
+|
+
+EC
+
+|
 
 - En commentaires d'écoute : repérage et mise en perspective des principaux éléments de langage d'œuvres de répertoires variés
 
-- Identification et commentaire détaillé de l'ensemble des caractéristiques du répertoire de sa dominante, à l'aide des outils d'analyse et à partir d'un ou plusieurs supports déterminés |
+- Identification et commentaire détaillé de l'ensemble des caractéristiques du répertoire de sa dominante, à l'aide des outils d'analyse et à partir d'un ou plusieurs supports déterminés
 
-B. S'approprier une expression artistique |
+|
 
-- Maîtriser les outils d'expression des langages et styles choisis |
+B. S'approprier une expression artistique
+
+|
+
+- Maîtriser les outils d'expression des langages et styles choisis
+
+|
 
 - Affirmer sa personnalité artistique et son autonomie par la maîtrise des éléments d'un langage musical
 
@@ -1832,7 +2524,7 @@ Pour la musique instrumentale :
 
 - Connaître et utiliser les techniques de l'écriture musicale, de l'orchestration, de l'arrangement
 
-- Etre initié aux techniques de composition électroacoustique
+- Être initié aux techniques de composition électroacoustique
 
 Pour la musique électroacoustique :
 
@@ -1840,7 +2532,7 @@ Pour la musique électroacoustique :
 
 Développer des outils personnels
 
-- Etre initié aux techniques de composition de la musique mixte
+- Être initié aux techniques de composition de la musique mixte
 
 Pour l'arrangement, l'orchestration :
 
@@ -1848,21 +2540,33 @@ Pour l'arrangement, l'orchestration :
 
 Pour le multimédia :
 
-- Connaître l'évolution des technologies et des méthodologies afin de pouvoir réagir en temps réel |
+- Connaître l'évolution des technologies et des méthodologies afin de pouvoir réagir en temps réel
 
-EC |
+|
+
+EC
+
+|
 
 - Appropriation des outils d'expression et de langages, et leur utilisation, dans un temps donné, en vue d'une esquisse répondant à un cahier des charges
 
 - Degré d'élaboration d'une production sous son aspect formel
 
-- Originalité et richesse de la démarche artistique |
+- Originalité et richesse de la démarche artistique
 
-Bloc de compétences nº 3 : Inscrire sa pratique artistique et professionnelle dans une démarche de recherche |
+|
 
-A. Se déterminer par rapport à un répertoire ou une pratique |
+Bloc de compétences nº 3 : Inscrire sa pratique artistique et professionnelle dans une démarche de recherche
 
-- Construire et assumer un positionnement personnel et subjectif relativement à une proposition artistique et/ou professionnelle |
+|
+
+A. Se déterminer par rapport à un répertoire ou une pratique
+
+|
+
+- Construire et assumer un positionnement personnel et subjectif relativement à une proposition artistique et/ou professionnelle
+
+|
 
 - Faire preuve d'une sensibilité ouverte et critique
 
@@ -1870,11 +2574,15 @@ A. Se déterminer par rapport à un répertoire ou une pratique |
 
 - Analyser et apprécier une proposition artistique (œuvre, programmation, interprétation, performance, médiation, etc.)
 
-- Faire de chaque expérience esthétique ou artistique l'occasion de développer son regard critique et de préciser son identité artistique |
+- Faire de chaque expérience esthétique ou artistique l'occasion de développer son regard critique et de préciser son identité artistique
+
+|
 
 EC
 
-Epreuves pratiques, écrites et/ou orales |
+Épreuves pratiques, écrites et/ou orales
+
+|
 
 - Engagement personnel
 
@@ -1882,13 +2590,19 @@ Epreuves pratiques, écrites et/ou orales |
 
 - Originalité et clarté des conclusions apportées
 
-- Respect des consignes et des délais |
+- Respect des consignes et des délais
 
-B. Enrichir son domaine disciplinaire |
+|
+
+B. Enrichir son domaine disciplinaire
+
+|
 
 - Contribuer à l'actualité des connaissances et des pratiques dans le domaine du spectacle vivant
 
-- S'ouvrir aux connaissances techniques et aux nouvelles technologies |
+- S'ouvrir aux connaissances techniques et aux nouvelles technologies
+
+|
 
 - Faire preuve d'inventivité, notamment musicale
 
@@ -1900,11 +2614,15 @@ B. Enrichir son domaine disciplinaire |
 
 - Connaître les techniques de prise de son
 
-- Réaliser la direction artistique d'un enregistrement |
+- Réaliser la direction artistique d'un enregistrement
+
+|
 
 EC
 
-Epreuves pratiques (pouvant consister en une réalisation de projet), écrites et/ou orales |
+Épreuves pratiques (pouvant consister en une réalisation de projet), écrites et/ou orales
+
+|
 
 - Engagement personnel
 
@@ -1916,13 +2634,19 @@ Epreuves pratiques (pouvant consister en une réalisation de projet), écrites e
 
 - Qualité du rendu sonore
 
-- Efficacité de l'intervention lors d'un enregistrement |
+- Efficacité de l'intervention lors d'un enregistrement
 
-C. Mobiliser des connaissances en matière artistique, technique et institutionnelle, les actualiser et les développer, pour participer à une démarche de recherche |
+|
+
+C. Mobiliser des connaissances en matière artistique, technique et institutionnelle, les actualiser et les développer, pour participer à une démarche de recherche
+
+|
 
 - Mobiliser une culture générale artistique et pédagogique, notamment dans le domaine musical
 
-- Définir des problématiques d'étude |
+- Définir des problématiques d'étude
+
+|
 
 - Entretenir ses connaissances de la musique et du spectacle vivant en général (histoire, esthétiques actuelles) et des conditions d'exercice de la profession (connaissances réglementaires, administratives et institutionnelles)
 
@@ -1932,7 +2656,9 @@ C. Mobiliser des connaissances en matière artistique, technique et institutionn
 
 - Se servir de la terminologie descriptive et critique pour commenter les arts du spectacle, au travers d'un projet/mémoire d'initiation à la recherche
 
-- Pratiquer au moins une langue étrangère |
+- Pratiquer au moins une langue étrangère
+
+|
 
 EC, ET
 
@@ -1940,7 +2666,9 @@ Dossier
 
 Mémoire
 
-Soutenance |
+Soutenance
+
+|
 
 - Appropriation des connaissances historiques, politiques et économiques qui permettent une compréhension précise de l'exercice du métier
 
@@ -1958,17 +2686,25 @@ Soutenance |
 
 - Aisance dans les différents registres d'expression écrite et orale de la langue française
 
-- Compréhension et aisance dans l'expression dans au moins une langue étrangère, à l'écrit et à l'oral |
+- Compréhension et aisance dans l'expression dans au moins une langue étrangère, à l'écrit et à l'oral
 
-Bloc de compétences n° 4 : Construire son parcours professionnel, partager, s'ouvrir à l'international |
+|
 
-A. Communiquer |
+Bloc de compétences n° 4 : Construire son parcours professionnel, partager, s'ouvrir à l'international
 
-- « Etre au clair » vis-à-vis de sa démarche artistique
+|
+
+A. Communiquer
+
+|
+
+- Être au clair vis-à-vis de sa démarche artistique
 
 - Porter un projet artistique lié à son œuvre et en présenter les modalités de réalisation
 
-- Echanger avec des artistes d'autres spécialités |
+- Échanger avec des artistes d'autres spécialités
+
+|
 
 - Porter un regard critique et pertinent sur une réalisation donnée, y compris sur ses propres travaux et les situer dans le contexte environnant
 
@@ -1984,9 +2720,13 @@ A. Communiquer |
 
 - Présenter les éléments d'une maquette, d'un échantillon
 
-- Improviser pour proposer des idées musicales nouvelles |
+- Improviser pour proposer des idées musicales nouvelles
 
-EC |
+|
+
+EC
+
+|
 
 - Présentation des enjeux majeurs de divers contextes artistiques
 
@@ -2002,29 +2742,43 @@ EC |
 
 - Réponse nourrie aux demandes des partenaires
 
-- Qualité du rendu sonore |
+- Qualité du rendu sonore
 
-B. Partager |
+|
 
-- Répondre à des situations de commande, les provoquer |
+B. Partager
+
+|
+
+- Répondre à des situations de commande, les provoquer
+
+|
 
 - Comprendre les données d'un cahier des charges et en analyser les modalités de mise en œuvre, en mesurer la faisabilité et les éventuelles adaptations nécessaires
 
 - Les renégocier si nécessaire
 
-- Les respecter |
-
-EC |
-
-- Pertinence des conclusions de l'étude de faisabilité
-
-- Fiabilité vis-à-vis des engagements pris |
+- Les respecter
 
 |
 
-- Partager une démarche artistique avec des interprètes et collaborateurs |
+EC
 
-- Etre actif et force de proposition auprès des partenaires éventuels
+|
+
+- Pertinence des conclusions de l'étude de faisabilité
+
+- Fiabilité vis-à-vis des engagements pris
+
+|
+
+|
+
+- Partager une démarche artistique avec des interprètes et collaborateurs
+
+|
+
+- Être actif et force de proposition auprès des partenaires éventuels
 
 - S'engager dans cette réalisation
 
@@ -2046,7 +2800,9 @@ Pour le multimédia :
 
 - Faire travailler son œuvre, éventuellement la diriger
 
-- Se constituer un réseau d'interprètes attentifs à sa démarche créatrice |
+- Se constituer un réseau d'interprètes attentifs à sa démarche créatrice
+
+|
 
 |
 
@@ -2056,11 +2812,15 @@ Pour le multimédia :
 
 - Respect et mise en valeur des éléments importants de l'œuvre
 
-- Qualité d'adaptation du discours aux différents interlocuteurs |
+- Qualité d'adaptation du discours aux différents interlocuteurs
 
 |
 
-- Partager une démarche artistique avec un public |
+|
+
+- Partager une démarche artistique avec un public
+
+|
 
 - S'inscrire dans une démarche d'action culturelle
 
@@ -2068,15 +2828,23 @@ Pour le multimédia :
 
 - Rédiger une pochette de disque, un article pour une revue spécialisée, une note de programme
 
-- S'ouvrir aux démarches de transmission |
+- S'ouvrir aux démarches de transmission
 
 |
 
-- Simplicité de l'attitude et clarté du langage suscitant des phases d'échanges |
+|
 
-C. S'ouvrir au monde professionnel |
+- Simplicité de l'attitude et clarté du langage suscitant des phases d'échanges
 
-- Se situer dans son environnement socio-professionnel |
+|
+
+C. S'ouvrir au monde professionnel
+
+|
+
+- Se situer dans son environnement socio-professionnel
+
+|
 
 - Avoir réfléchi à la finalité d'un statut d'artiste
 
@@ -2088,42 +2856,66 @@ C. S'ouvrir au monde professionnel |
 
 - Connaître les dispositifs d'aides à la production (Etat, collectivités, fonds de soutien)
 
-- Connaître le fonctionnement des institutions d'enseignement |
-
-EC |
-
-- Connaissances précises en matière d'organisation, de structuration et d'évolution du spectacle vivant, de l'activité économique connexe |
+- Connaître le fonctionnement des institutions d'enseignement
 
 |
 
-- Connaître les aspects juridiques et réglementaires de la profession |
+EC
+
+|
+
+- Connaissances précises en matière d'organisation, de structuration et d'évolution du spectacle vivant, de l'activité économique connexe
+
+|
+
+|
+
+- Connaître les aspects juridiques et réglementaires de la profession
+
+|
 
 - Connaître les différents statuts d'artiste et d'auteur, le rôle et le fonctionnement des sociétés de gestion collective, les organismes d'affiliation au régime des artistes auteurs
 
-- Connaître les différents droits et contrats relatifs au spectacle vivant : contrats de travail, modes de rémunération, règles de la propriété intellectuelle et artistique (notamment en matière de téléchargement, plagiat…) conventions collectives, droits à la formation professionnelle continue, prévention des risques, règles de perception des droits, monde de l'édition, contrats d'édition, mécanismes de l'autoproduction |
+- Connaître les différents droits et contrats relatifs au spectacle vivant : contrats de travail, modes de rémunération, règles de la propriété intellectuelle et artistique (notamment en matière de téléchargement, plagiat…) conventions collectives, droits à la formation professionnelle continue, prévention des risques, règles de perception des droits, monde de l'édition, contrats d'édition, mécanismes de l'autoproduction
 
-EC |
+|
+
+EC
+
+|
 
 - Connaissances de base en matière de droit social et approfondies concernant les droits d'auteurs dans le cadre du spectacle vivant
 
 - Connaissances de base au niveau du rôle des institutions œuvrant dans le domaine du spectacle vivant
 
-- Connaissances précises des métiers du spectacle vivant et ceux en connexion avec celui-ci |
+- Connaissances précises des métiers du spectacle vivant et ceux en connexion avec celui-ci
 
-D. S'ouvrir à l'international |
+|
+
+D. S'ouvrir à l'international
+
+|
 
 - Communiquer en langue étrangère
 
-- S'informer des évolutions artistiques à l'étranger |
+- S'informer des évolutions artistiques à l'étranger
+
+|
 
 - Maîtriser au moins une langue étrangère, à l'écrit comme à l'oral, en priorité l'anglais
 
-- Etre attentif à l'actualité musicale internationale |
+- Être attentif à l'actualité musicale internationale
 
-EC |
+|
+
+EC
+
+|
 
 - Aisance dans la lecture de notices techniques et musicologiques en langue étrangère, dans la rédaction de la présentation d'une œuvre et dans un échange oral avec des personnalités artistiques
 
 - Qualité de la présentation des grands courants de création à l'étranger dans le domaine musical de sa dominante
 
-- Connaissance des dispositifs d'aide à la création au niveau international |
+- Connaissance des dispositifs d'aide à la création au niveau international
+
+|
