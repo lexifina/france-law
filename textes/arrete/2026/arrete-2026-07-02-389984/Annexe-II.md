@@ -196,9 +196,11 @@ HPEASY11 |
 
 151-2026-000002 |
 
-Easypell |
+Easypell
 
-EPA |
+|
+
+EPA12 |
 
 2121772 |
 
@@ -2467,3 +2469,497 @@ KIRO15T DUO |
 KIRO15T DUO |
 
 150-2026-000007 |
+
+A compter du 15 septembre 2026 :
+
+Marque |
+
+Modèle |
+
+Référence EPREL |
+
+Référence commerciale |
+
+Numéro d'agrément |
+
+Valable jusqu'au |
+
+Airwell |
+
+AW-YHPSA04-H91 + ODMA-100T-09M22-19 |
+
+1804015 |
+
+7HP061065 + 7SP130001 |
+
+1-2026-000035 |
+
+14/08/2027 |
+
+Airwell |
+
+AW-YHPSA06-H91 + ODMA-100T-09M22-19 |
+
+1804012 |
+
+7HP061066 + 7SP130001 |
+
+1-2026-000036 |
+
+14/08/2027 |
+
+Easypell |
+
+EPA12 |
+
+2121772 |
+
+HPEASY15 |
+
+151-2026-000003 |
+
+14/07/2027 |
+
+Heiwa |
+
+HHEC-120-V1 / HHIECSC-160/240-V1 |
+
+2657795 |
+
+HHEC-120-V1 / HHIECSC-160/240-V1 |
+
+145-2026-000008 |
+
+14/03/2027 |
+
+Heiwa |
+
+HHEC-140-V1 / HHIECSC-160/240-V1 |
+
+2657803 |
+
+HHEC-140-V1 / HHIECSC-160/240-V1 |
+
+145-2026-000009 |
+
+14/03/2027 |
+
+Heiwa |
+
+HHEC-140TRI-V1 / HHIECSC-160/240-V1 |
+
+2658169 |
+
+HHEC-140TRI-V1 / HHIECSC-160/240-V1 |
+
+145-2026-000010 |
+
+14/03/2027 |
+
+Heiwa |
+
+HHEC-120TRI-V1 / HHIECSC-160/240-V1 |
+
+2658167 |
+
+HHEC-120TRI-V1 / HHIECSC-160/240-V1 |
+
+145-2026-000011 |
+
+14/03/2027 |
+
+Heiwa |
+
+HHEC-120-V1 / HHIC-160-V1 |
+
+2657651 |
+
+HHEC-120-V1 / HHIC-160-V1 |
+
+145-2026-000012 |
+
+14/03/2027 |
+
+Heiwa |
+
+HHEC-140-V1 / HHIC-160-V1 |
+
+2657655 |
+
+HHEC-140-V1 / HHIC-160-V1 |
+
+145-2026-000013 |
+
+14/03/2027 |
+
+Heiwa |
+
+HHEC-120TRI-V1 / HHIC-160-V1 |
+
+2657667 |
+
+HHEC-120TRI-V1 / HHIC-160-V1 |
+
+145-2026-000014 |
+
+14/03/2027 |
+
+Heiwa |
+
+HHEC-140TRI-V1 / HHIC-160-V1 |
+
+2657670 |
+
+HHEC-140TRI-V1 / HHIC-160-V1 |
+
+145-2026-000015 |
+
+14/03/2027 |
+
+Octopus Energy |
+
+Cosy 12 |
+
+Cosy 12 SKU 12.1 |
+
+Cosy 12 |
+
+168-2026-000001 |
+
+14/09/2027 |
+
+Octopus Energy |
+
+Cosy 9 |
+
+Cosy 9 SKU 9.1 |
+
+Cosy 9 |
+
+168-2026-000002 |
+
+14/09/2027 |
+
+Octopus Energy |
+
+Cosy 6 |
+
+Cosy 6 SKU 6.3 |
+
+Cosy 6 |
+
+168-2026-000003 |
+
+14/09/2027 |
+
+Octopus Energy |
+
+Cosy 6 |
+
+Cosy 6 SKU 6.2 |
+
+Cosy 6 |
+
+168-2026-000004 |
+
+14/09/2027 |
+
+Perge Axen |
+
+OptiPac MR290 4 Mono |
+
+|
+
+KS-40W/EN7BP |
+
+176-2026-000001 |
+
+14/03/2027 |
+
+Perge Axen |
+
+OptiPac MR290 7 Mono |
+
+|
+
+KS-70W/EN7BP |
+
+176-2026-000002 |
+
+14/03/2027 |
+
+Perge Axen |
+
+OptiPac MR290 9 Mono |
+
+|
+
+KS-90W/EN7BP |
+
+176-2026-000003 |
+
+14/03/2027 |
+
+Perge Axen |
+
+OptiPac MR290 12 Mono |
+
+|
+
+KS-120W/EN7BP |
+
+176-2026-000004 |
+
+14/03/2027 |
+
+Perge Axen |
+
+OptiPac MR290 16 Mono |
+
+|
+
+KS-160W/EN7BP |
+
+176-2026-000005 |
+
+14/03/2027 |
+
+Perge Axen |
+
+OptiPac MR290 12 Tri |
+
+|
+
+KS-120W/EN7SBP |
+
+176-2026-000006 |
+
+14/03/2027 |
+
+Perge Axen |
+
+OptiPac MR290 16 Tri |
+
+|
+
+KS-160W/EN7SBP |
+
+176-2026-000007 |
+
+14/03/2027 |
+
+Thomson |
+
+AW-MBT01-H040M-A443GZ1 |
+
+2744196 |
+
+Hydronis R290 Plus 4KW |
+
+158-2026-000001 |
+
+14/01/2027 |
+
+Thomson |
+
+AW-MBT01-H060M-A443GZ1 |
+
+2744202 |
+
+Hydronis R290 Plus 6KW |
+
+158-2026-000002 |
+
+14/01/2027 |
+
+Thomson |
+
+AW-MBT01-H080M-A443GZ1 |
+
+2744223 |
+
+Hydronis R290 Plus 8KW |
+
+158-2026-000003 |
+
+14/01/2027 |
+
+Thomson |
+
+AW-MBT01-H100M-A443GZ1 |
+
+2744226 |
+
+Hydronis R290 Plus 10KW |
+
+158-2026-000004 |
+
+14/01/2027 |
+
+Thomson |
+
+AW-MBT01-H120M-A443GZ1 |
+
+2744229 |
+
+Hydronis R290 Plus 12KW |
+
+158-2026-000005 |
+
+14/01/2027 |
+
+Thomson |
+
+AW-MBT01-H120T-A449GZ1 |
+
+2744231 |
+
+Hydronis R290 Plus 12KW |
+
+158-2026-000006 |
+
+14/01/2027 |
+
+Thomson |
+
+AW-MBT01-H140M-A443GZ1 |
+
+2744233 |
+
+Hydronis R290 Plus 14KW |
+
+158-2026-000007 |
+
+14/01/2027 |
+
+Thomson |
+
+AW-MBT01-H140T-A449GZ1 |
+
+2744235 |
+
+Hydronis R290 Plus 14KW |
+
+158-2026-000008 |
+
+14/01/2027 |
+
+Thomson |
+
+AW-MBT01-H160M-A443GZ1 |
+
+2744237 |
+
+Hydronis R290 Plus 16KW |
+
+158-2026-000009 |
+
+14/01/2027 |
+
+Thomson |
+
+AW-MBT01-H160T-A449GZ1 |
+
+2744239 |
+
+Hydronis R290 Plus 16KW |
+
+158-2026-000010 |
+
+14/01/2027 |
+
+Thomson |
+
+AW-MBT02-H080M-T553GZ1 |
+
+2744245 |
+
+Hydronis R290 Ultra 8KW |
+
+158-2026-000011 |
+
+14/01/2027 |
+
+Thomson |
+
+AW-MBT02-H100M-T553GZ1 |
+
+2744250 |
+
+Hydronis R290 Ultra 10KW |
+
+158-2026-000012 |
+
+14/01/2027 |
+
+Thomson |
+
+AW-MBT02-H120M-T553GZ1 |
+
+2744255 |
+
+Hydronis R290 Ultra 12KW |
+
+158-2026-000013 |
+
+14/01/2027 |
+
+Thomson |
+
+AW-MBT02-H120T-T559GZ1 |
+
+2744259 |
+
+Hydronis R290 Ultra 12KW |
+
+158-2026-000014 |
+
+14/01/2027 |
+
+Thomson |
+
+AW-MBT02-H140M-T553GZ1 |
+
+2744261 |
+
+Hydronis R290 Ultra 14KW |
+
+158-2026-000015 |
+
+14/01/2027 |
+
+Thomson |
+
+AW-MBT02-H140T-T559GZ1 |
+
+2744265 |
+
+Hydronis R290 Ultra 14KW |
+
+158-2026-000016 |
+
+14/01/2027 |
+
+Thomson |
+
+AW-MBT02-H160M-T553GZ1 |
+
+2744267 |
+
+Hydronis R290 Ultra 16KW |
+
+158-2026-000017 |
+
+14/01/2027 |
+
+Thomson |
+
+AW-MBT02-H160T-T559GZ1 |
+
+2744271 |
+
+Hydronis R290 Ultra 16KW |
+
+158-2026-000018 |
+
+14/01/2027 |

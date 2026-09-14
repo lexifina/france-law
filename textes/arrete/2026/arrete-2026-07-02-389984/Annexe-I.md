@@ -19765,3 +19765,3365 @@ Vitocal 200-A AWMOF-201.A1.12-230-V005 |
 Vitocal 200-A Cascade B12 230 V132 |
 
 152-2026-000168 |
+
+A compter du 15 septembre 2026 :
+
+Marque |
+
+Modèle |
+
+Référence EPREL |
+
+Référence commerciale |
+
+Numéro d'agrément |
+
+Airmat |
+
+GALICE 3.0 - 7 kW MONO |
+
+2154846 |
+
+GALICE 3.0 - 7 kW MONO |
+
+130-2026-000001 |
+
+Airmat |
+
+GALICE 3.0 - 9 kW MONO |
+
+2154850 |
+
+GALICE 3.0 - 9 kW MONO |
+
+130-2026-000002 |
+
+Airmat |
+
+GALICE 3.0 - 11 kW MONO |
+
+2788515 |
+
+GALICE 3.0 - 11 kW MONO |
+
+130-2026-000003 |
+
+Airmat |
+
+GALICE 3.0 - 13 kW MONO |
+
+2154858 |
+
+GALICE 3.0 - 13 kW MONO |
+
+130-2026-000004 |
+
+Airmat |
+
+GALICE 3.0 - 15 kW MONO |
+
+2154861 |
+
+GALICE 3.0 - 15 kW MONO |
+
+130-2026-000005 |
+
+Airmat |
+
+GALICE 3.0 - 13 kW TRI |
+
+2803338 |
+
+GALICE 3.0 - 13 kW TRI |
+
+130-2026-000006 |
+
+Airmat |
+
+GALICE 3.0 - 15 kW TRI |
+
+2803350 |
+
+GALICE 3.0 - 15 kW TRI |
+
+130-2026-000007 |
+
+Airmat |
+
+GALICE 3.0 - 17 kW TRI |
+
+2154871 |
+
+GALICE 3.0 - 17 kW TRI |
+
+130-2026-000008 |
+
+ARGO |
+
+ANGHP06S |
+
+2236135 |
+
+387032090 |
+
+165-2026-000001 |
+
+ARGO |
+
+ANGHP08S |
+
+2236209 |
+
+387032091 |
+
+165-2026-000002 |
+
+ARGO |
+
+ANGHP08T |
+
+2603013 |
+
+387030092 |
+
+165-2026-000003 |
+
+ARGO |
+
+ANGHP12S |
+
+2604988 |
+
+387032093 |
+
+165-2026-000004 |
+
+ARGO |
+
+ANGHP12T |
+
+2604526 |
+
+387032094 |
+
+165-2026-000005 |
+
+ARGO |
+
+ANGHP16S |
+
+2604995 |
+
+387032095 |
+
+165-2026-000006 |
+
+ARGO |
+
+ANGHP16T |
+
+2604536 |
+
+387032096 |
+
+165-2026-000007 |
+
+Ciat |
+
+ITEV 180P |
+
+2780436 |
+
+AQUACIATCALEO ITEV |
+
+142-2026-000004 |
+
+Ciat |
+
+LG 080A |
+
+2460994 |
+
+DYNACIAT LG |
+
+142-2026-000006 |
+
+Ciat |
+
+LG 090A |
+
+2460996 |
+
+DYNACIAT LG |
+
+142-2026-000007 |
+
+Ciat |
+
+LG 100A |
+
+2460999 |
+
+DYNACIAT LG |
+
+142-2026-000008 |
+
+Ciat |
+
+LG 120A |
+
+2460998 |
+
+LG |
+
+142-2026-000009 |
+
+Ciat |
+
+LG 130A |
+
+2460995 |
+
+DYNACIAT LG |
+
+142-2026-000010 |
+
+Ciat |
+
+LG 150A |
+
+2460997 |
+
+DYNACIAT LG |
+
+142-2026-000011 |
+
+Clivet |
+
+WiSAN-PMP 1S 2.1 |
+
+2352610 |
+
+WiSAN-PMP 1S 2.1 |
+
+134-2026-000003 |
+
+Clivet |
+
+WiSAN-PMP 1S 3.1 |
+
+2352611 |
+
+WiSAN-PMP 1S 3.1 |
+
+134-2026-000004 |
+
+Clivet |
+
+WiSAN-PMP 1S 4.1 |
+
+2352615 |
+
+WiSAN-PMP 1S 4.1 |
+
+134-2026-000005 |
+
+Clivet |
+
+WiSAN-PMP 1S 4.1T |
+
+2352608 |
+
+WiSAN-PMP 1S 4.1T |
+
+134-2026-000006 |
+
+Clivet |
+
+WiSAN-PMP 1S 5.1 |
+
+2352604 |
+
+WiSAN-PMP 1S 5.1 |
+
+134-2026-000007 |
+
+Clivet |
+
+WiSAN-PMP 1S 5.1T |
+
+2352606 |
+
+WiSAN-PMP 1S 5.1T |
+
+134-2026-000008 |
+
+Clivet |
+
+WiSAN-PMP 1S 6.1 |
+
+2352613 |
+
+WiSAN-PMP 1S 6.1 |
+
+134-2026-000009 |
+
+Clivet |
+
+WiSAN-PMP 1S 6.1T |
+
+2352607 |
+
+WiSAN-PMP 1S 6.1T |
+
+134-2026-000010 |
+
+Clivet |
+
+WiSAN-PMP 1S 7.1 |
+
+2352612 |
+
+WiSAN-PMP 1S 7.1 |
+
+134-2026-000011 |
+
+Clivet |
+
+WiSAN-PMP 1S 7.1T |
+
+2352614 |
+
+WiSAN-PMP 1S 7.1T |
+
+134-2026-000012 |
+
+Clivet |
+
+WiSAN-PMP 1S 8.1 |
+
+2352605 |
+
+WiSAN-PMP 1S 8.1 |
+
+134-2026-000013 |
+
+Clivet |
+
+WiSAN-PMP 1S 8.1T |
+
+2352609 |
+
+WiSAN-PMP 1S 8.1T |
+
+134-2026-000014 |
+
+Clivet |
+
+SQKN-YEE 1 BC A + MiSAN-YEE 1 S 2.1 |
+
+1997558 |
+
+SQKN-YEE 1 BC A + MiSAN-YEE 1 S 2.1 |
+
+134-2026-000015 |
+
+Clivet |
+
+SQKN-YEE 1 BC A + MiSAN-YEE 1 S 3.1 |
+
+1997569 |
+
+SQKN-YEE 1 BC A + MiSAN-YEE 1 S 3.1 |
+
+134-2026-000016 |
+
+Clivet |
+
+SQKN-YEE 1 BC A + MiSAN-YEE 1 S 4.1 |
+
+1997568 |
+
+SQKN-YEE 1 BC A + MiSAN-YEE 1 S 4.1 |
+
+134-2026-000017 |
+
+Clivet |
+
+SQKN-YEE 1 BC A + MiSAN-YEE 1 S 5.1 |
+
+1997562 |
+
+SQKN-YEE 1 BC A + MiSAN-YEE 1 S 5.1 |
+
+134-2026-000018 |
+
+Clivet |
+
+SQKN-YEE 1 BC B + MiSAN-YEE 1 S 6.1 |
+
+1997563 |
+
+SQKN-YEE 1 BC B + MiSAN-YEE 1 S 6.1 |
+
+134-2026-000019 |
+
+Clivet |
+
+SQKN-YEE 1 BC B + MiSAN-YEE 1 S 7.1 |
+
+1806504 |
+
+SQKN-YEE 1 BC B + MiSAN-YEE 1 S 7.1 |
+
+134-2026-000020 |
+
+Clivet |
+
+SQKN-YEE 1 BC B + MiSAN-YEE 1 S 8.1 |
+
+1806505 |
+
+SQKN-YEE 1 BC B + MiSAN-YEE 1 S 8.1 |
+
+134-2026-000021 |
+
+Clivet |
+
+SQKN-YEE 1 BC A E-XT + MiSAN-YEE 1 S 2.1 |
+
+2572452 |
+
+SQKN-YEE 1 BC A E-XT + MiSAN-YEE 1 S 2.1 |
+
+134-2026-000022 |
+
+Clivet |
+
+SQKN-YEE 1 BC A E-XT + MiSAN-YEE 1 S 3.1 |
+
+2572457 |
+
+SQKN-YEE 1 BC A E-XT + MiSAN-YEE 1 S 3.1 |
+
+134-2026-000023 |
+
+Clivet |
+
+SQKN-YEE 1 BC A E-XT + MiSAN-YEE 1 S 4.1 |
+
+2572462 |
+
+SQKN-YEE 1 BC A E-XT + MiSAN-YEE 1 S 4.1 |
+
+134-2026-000024 |
+
+Clivet |
+
+SQKN-YEE 1 BC A E-XT + MiSAN-YEE 1 S 5.1 |
+
+2572456 |
+
+SQKN-YEE 1 BC A E-XT + MiSAN-YEE 1 S 5.1 |
+
+134-2026-000025 |
+
+Clivet |
+
+SQKN-YEE 1 BC B E-XT + MiSAN-YEE 1 S 6.1 |
+
+2572463 |
+
+SQKN-YEE 1 BC B E-XT + MiSAN-YEE 1 S 6.1 |
+
+134-2026-000026 |
+
+Clivet |
+
+SQKN-YEE 1 BC B E-XT + MiSAN-YEE 1 S 7.1 |
+
+2572461 |
+
+SQKN-YEE 1 BC B E-XT + MiSAN-YEE 1 S 7.1 |
+
+134-2026-000027 |
+
+Clivet |
+
+SQKN-YEE 1 BC B E-XT + MiSAN-YEE 1 S 8.1 |
+
+2572460 |
+
+SQKN-YEE 1 BC B E-XT + MiSAN-YEE 1 S 8.1 |
+
+134-2026-000028 |
+
+Clivet |
+
+WiSAN-YSE1 EXC-SC 10.1 |
+
+1867819 |
+
+WiSAN-YSE1 EXC-SC 10.1 |
+
+134-2026-000029 |
+
+Clivet |
+
+WiSAN-YSE1 EXC-SC 12.1 |
+
+1867813 |
+
+WiSAN-YSE1 EXC-SC 12.1 |
+
+134-2026-000030 |
+
+Clivet |
+
+WiSAN-YSE1 EXC-SC 14.1 |
+
+1867818 |
+
+WiSAN-YSE1 EXC-SC 14.1 |
+
+134-2026-000031 |
+
+Clivet |
+
+WiSAN-YSE1 EXC-SC 16.2 |
+
+1867816 |
+
+WiSAN-YSE1 EXC-SC 16.2 |
+
+134-2026-000032 |
+
+Clivet |
+
+WiSAN-YSE1 EXC-SC 18.2 |
+
+1867817 |
+
+WiSAN-YSE1 EXC-SC 18.2 |
+
+134-2026-000033 |
+
+Clivet |
+
+WiSAN-YSE1 EXC-SC 22.2 |
+
+1867821 |
+
+WiSAN-YSE1 EXC-SC 22.2 |
+
+134-2026-000034 |
+
+Clivet |
+
+WiSAN-YSE1 EXC-SC 30.2 |
+
+1867815 |
+
+WiSAN-YSE1 EXC-SC 30.2 |
+
+134-2026-000035 |
+
+Clivet |
+
+WiSAN-YSE1 EXC-SC 35.2 |
+
+1867811 |
+
+WiSAN-YSE1 EXC-SC 35.2 |
+
+134-2026-000036 |
+
+Clivet |
+
+WiSAN-YSE1 EXC-EN 10.1 |
+
+1867825 |
+
+WiSAN-YSE1 EXC-EN 10.1 |
+
+134-2026-000037 |
+
+Clivet |
+
+WiSAN-YSE1 EXC-EN 12.1 |
+
+1867810 |
+
+WiSAN-YSE1 EXC-EN 12.1 |
+
+134-2026-000038 |
+
+Clivet |
+
+WiSAN-YSE1 EXC-EN 14.1 |
+
+1867822 |
+
+WiSAN-YSE1 EXC-EN 14.1 |
+
+134-2026-000039 |
+
+Clivet |
+
+WiSAN-YSE1 EXC-EN 16.2 |
+
+1867812 |
+
+WiSAN-YSE1 EXC-EN 16.2 |
+
+134-2026-000040 |
+
+Clivet |
+
+WiSAN-YSE1 EXC-EN 18.2 |
+
+1867823 |
+
+WiSAN-YSE1 EXC-EN 18.2 |
+
+134-2026-000041 |
+
+Clivet |
+
+WiSAN-YSE1 EXC-EN 22.2 |
+
+1867824 |
+
+WiSAN-YSE1 EXC-EN 22.2 |
+
+134-2026-000042 |
+
+Clivet |
+
+WiSAN-YSE1 EXC-EN 30.2 |
+
+1867809 |
+
+WiSAN-YSE1 EXC-EN 30.2 |
+
+134-2026-000043 |
+
+Clivet |
+
+WiSAN-YSE1 EXC-EN 35.2 |
+
+1867820 |
+
+WiSAN-YSE1 EXC-EN 35.2 |
+
+134-2026-000044 |
+
+Clivet |
+
+SQKN-YEE 1 TC A 190 E-XT + MiSAN-YEE 1 S 2.1 |
+
+2572465 |
+
+SQKN-YEE 1 TC A 190 E-XT + MiSAN-YEE 1 S 2.1 |
+
+134-2026-000045 |
+
+Clivet |
+
+SQKN-YEE 1 TC A 190 E-XT + MiSAN-YEE 1 S 3.1 |
+
+2572451 |
+
+SQKN-YEE 1 TC A 190 E-XT + MiSAN-YEE 1 S 3.1 |
+
+134-2026-000046 |
+
+Clivet |
+
+SQKN-YEE 1 TC A 190 E-XT + MiSAN-YEE 1 S 4.1 |
+
+2572450 |
+
+SQKN-YEE 1 TC A 190 E-XT + MiSAN-YEE 1 S 4.1 |
+
+134-2026-000047 |
+
+Clivet |
+
+SQKN-YEE 1 TC A 190 E-XT + MiSAN-YEE 1 S 5.1 |
+
+2572455 |
+
+SQKN-YEE 1 TC A 190 E-XT + MiSAN-YEE 1 S 5.1 |
+
+134-2026-000048 |
+
+Clivet |
+
+SQKN-YEE 1 TC A 250 E-XT + MiSAN-YEE 1 S 2.1 |
+
+2572459 |
+
+SQKN-YEE 1 TC A 250 E-XT + MiSAN-YEE 1 S 2.1 |
+
+134-2026-000049 |
+
+Clivet |
+
+SQKN-YEE 1 TC A 250 E-XT + MiSAN-YEE 1 S 3.1 |
+
+2572454 |
+
+SQKN-YEE 1 TC A 250 E-XT + MiSAN-YEE 1 S 3.1 |
+
+134-2026-000050 |
+
+Clivet |
+
+SQKN-YEE 1 TC A 250 E-XT + MiSAN-YEE 1 S 4.1 |
+
+2572458 |
+
+SQKN-YEE 1 TC A 250 E-XT + MiSAN-YEE 1 S 4.1 |
+
+134-2026-000051 |
+
+Clivet |
+
+SQKN-YEE 1 TC A 250 E-XT + MiSAN-YEE 1 S 5.1 |
+
+2572464 |
+
+SQKN-YEE 1 TC A 250 E-XT + MiSAN-YEE 1 S 5.1 |
+
+134-2026-000052 |
+
+Clivet |
+
+SQKN-YEE 1 TC B 250 E-XT + MiSAN-YEE 1 S 6.1 |
+
+2572466 |
+
+SQKN-YEE 1 TC B 250 E-XT + MiSAN-YEE 1 S 6.1 |
+
+134-2026-000053 |
+
+Clivet |
+
+SQKN-YEE 1 TC B 250 E-XT + MiSAN-YEE 1 S 8.1 |
+
+2572453 |
+
+SQKN-YEE 1 TC B 250 E-XT + MiSAN-YEE 1 S 8.1 |
+
+134-2026-000054 |
+
+Clivet |
+
+SQKN-YEE 1 TC B 250 E-XT + MiSAN-YEE 1 S 7.1 |
+
+2572467 |
+
+SQKN-YEE 1 TC B 250 E-XT + MiSAN-YEE 1 S 7.1 |
+
+134-2026-000069 |
+
+Daikin |
+
+ETBX16EJ6V7 / EPRA14DAV37 |
+
+ETBX16EJ6V7 / EPRA14DAV37 |
+
+ETBX16E6V7 / EPRA14DV37 |
+
+36-2026-000314 |
+
+Daikin |
+
+ETBX16EF6V7 / EPRA16DAV37 |
+
+ETBX16EF6V7 / EPRA16DAV37 |
+
+ETBX16E6V7 / EPRA16DV37 |
+
+36-2026-000315 |
+
+Daikin |
+
+ETBX16EF6V7 / EPRA18DAV37 |
+
+ETBX16EF6V7 / EPRA18DAV37 |
+
+ETBX16E6V7 / EPRA18DV37 |
+
+36-2026-000316 |
+
+Daikin |
+
+ETBX16EF9W7 / EPRA14DAW17 |
+
+ETBX16EF9W7 / EPRA14DAW17 |
+
+ETBX16E9W7 / EPRA14DW17 |
+
+36-2026-000317 |
+
+Daikin |
+
+ETBX16EF9W7 / EPRA14DBW17 |
+
+ETBX16EF9W7 / EPRA14DBW17 |
+
+ETBX16E9W7 / EPRA14DW17 |
+
+36-2026-000318 |
+
+Daikin |
+
+ETBX16EF9W7 / EPRA16DAW17 |
+
+ETBX16EF9W7 / EPRA16DAW17 |
+
+ETBX16E9W7 / EPRA16DW17 |
+
+36-2026-000319 |
+
+Daikin |
+
+ETBX16EF9W7 / EPRA16DBW17 |
+
+ETBX16EF9W7 / EPRA16DBW17 |
+
+ETBX16E9W7 / EPRA16DW17 |
+
+36-2026-000320 |
+
+Daikin |
+
+ETBX16EF9W7 / EPRA18DAW17 |
+
+ETBX16EF9W7 / EPRA18DAW17 |
+
+ETBX16E9W7 / EPRA18DW17 |
+
+36-2026-000321 |
+
+Daikin |
+
+ETBX16EF9W7 / EPRA18DBW17 |
+
+ETBX16EF9W7 / EPRA18DBW17 |
+
+ETBX16E9W7 / EPRA18DW17 |
+
+36-2026-000322 |
+
+Domusa Teknik |
+
+DUAL CLIMA 6 HT PRO |
+
+2421808 |
+
+TDCL000356 |
+
+38-2026-000001 |
+
+Domusa Teknik |
+
+DUAL CLIMA 9 HT PRO |
+
+2421830 |
+
+TDCL000357 |
+
+38-2026-000002 |
+
+Domusa Teknik |
+
+DUAL CLIMA 12 HT PRO |
+
+2421951 |
+
+TDCL000358 |
+
+38-2026-000003 |
+
+Domusa Teknik |
+
+DUAL CLIMA 12 HTT PRO |
+
+2423147 |
+
+TDCL000361 |
+
+38-2026-000004 |
+
+Domusa Teknik |
+
+DUAL CLIMA 16 HT PRO |
+
+2421861 |
+
+TDCL000359 |
+
+38-2026-000005 |
+
+Domusa Teknik |
+
+DUAL CLIMA 16 HTT PRO |
+
+2421885 |
+
+TDCL000362 |
+
+38-2026-000006 |
+
+Domusa Teknik |
+
+DUAL CLIMA 19 HT PRO |
+
+2421871 |
+
+TDCL000360 |
+
+38-2026-000007 |
+
+Domusa Teknik |
+
+DUAL CLIMA 19 HTT PRO |
+
+2421889 |
+
+TDCL000363 |
+
+38-2026-000008 |
+
+Domusa Teknik |
+
+DUAL CLIMA 22 HTT PRO |
+
+2421894 |
+
+TDCL000364 |
+
+38-2026-000009 |
+
+Domusa Teknik |
+
+NANOCLIMA 4 |
+
+2765114 |
+
+TDCL000423 |
+
+38-2026-000019 |
+
+Domusa Teknik |
+
+NANOCLIMA 4 HDX 135 |
+
+2765266 |
+
+TDCL000424 |
+
+38-2026-000020 |
+
+Ecoforest |
+
+ecoAIR+ 230 6-24 PRO |
+
+2745435 |
+
+81006/P3 |
+
+39-2026-000217 |
+
+Ecoforest |
+
+ecoAIR+ 230 6-24 PRO HTR |
+
+2745437 |
+
+81106/P3 |
+
+39-2026-000218 |
+
+Energie |
+
+Intelligent Inverter Heat Pump-R290- AQUAPURA 12HT |
+
+2310668 |
+
+AQUAPURA 12 HT (Inverter P 3-12) |
+
+161-2026-000001 |
+
+Energie |
+
+AQUAPURA 8 HT (Inverter P 3-10) |
+
+2308004 |
+
+AQUAPURA 8HT (Inverter P 3-10) |
+
+161-2026-000002 |
+
+Energie |
+
+Intelligent Inverter Heat Pump-R290- AQUAPURA 14HT |
+
+2310699 |
+
+AQUAPURA 14HT (Inverter P 6-16) |
+
+161-2026-000003 |
+
+Energie |
+
+Intelligent Inverter Heat Pump-R290- AQUAPURA 14HT-T |
+
+2310756 |
+
+AQUAPURA 14HT-T (Inverter P 6-16) |
+
+161-2026-000004 |
+
+Energie |
+
+Intelligent Inverter Heat Pump-R290-AQUAPURA 22HT-T |
+
+2310767 |
+
+AQUAPURA 22 HT-T (Inverter P 8-22) |
+
+161-2026-000005 |
+
+Energie |
+
+Intelligent Inverter Heat Pump-R290-AQUAPURA X30 HT |
+
+2315259 |
+
+AQUAPURA X30 HT |
+
+161-2026-000006 |
+
+Energie |
+
+Intelligent Inverter Heat Pump-R290-AQUAPURA X60 HT |
+
+2315264 |
+
+AQUAPURA X60 HT |
+
+161-2026-000007 |
+
+Heiwa |
+
+HHMS-60-V1 |
+
+2794576 |
+
+HHMS-60-V1 |
+
+145-2026-000001 |
+
+Heiwa |
+
+HHMS-80-V1 |
+
+2794579 |
+
+HHMS-80-V1 |
+
+145-2026-000002 |
+
+Heiwa |
+
+HHMS-100-V1 |
+
+2794542 |
+
+HHMS-100-V1 |
+
+145-2026-000003 |
+
+Heiwa |
+
+HHMS-120-V1 |
+
+2794559 |
+
+HHMS-120-V1 |
+
+145-2026-000004 |
+
+Heiwa |
+
+HHMS-160-V1 |
+
+2794572 |
+
+HHMS-160-V1 |
+
+145-2026-000005 |
+
+Heiwa |
+
+HHMS-120TRI-V1 |
+
+2794564 |
+
+HHMS-120TRI-V1 |
+
+145-2026-000006 |
+
+Heiwa |
+
+HHMS-160TRI-V1 |
+
+2794574 |
+
+HHMS-160TRI-V1 |
+
+145-2026-000007 |
+
+Heliotherm |
+
+SNT07L-M-R-CC |
+
+|
+
+91100218 |
+
+163-2026-000001 |
+
+Heliotherm |
+
+SNT10L-M-R-CC |
+
+|
+
+91100220 |
+
+163-2026-000002 |
+
+Heliotherm |
+
+SNT15L-M-R-CC |
+
+|
+
+91100222 |
+
+163-2026-000003 |
+
+Heliotherm |
+
+SNT18L-M-R-CC |
+
+|
+
+91100224 |
+
+163-2026-000004 |
+
+Heliotherm |
+
+SNTM-S-3-10 |
+
+|
+
+91100080 |
+
+163-2026-000009 |
+
+KRONOTERM |
+
+ADAPT 2 M / HK 1F |
+
+2700712 |
+
+ADAPT 2 M / HK 1F |
+
+166-2026-000001 |
+
+KRONOTERM |
+
+ADAPT 2 M / HK 3F |
+
+2700689 |
+
+ADAPT 2 M / HK 3F |
+
+166-2026-000002 |
+
+KRONOTERM |
+
+ADAPT 2 L / HK 3F |
+
+2700640 |
+
+ADAPT 2 L / HK 3F |
+
+166-2026-000003 |
+
+KRONOTERM |
+
+ADAPT 2 S / HK 1F |
+
+2734485 |
+
+ADAPT 2 S / HK 1F |
+
+166-2026-000004 |
+
+KRONOTERM |
+
+ADAPT MAX 10035 HT / HK 3F |
+
+2325401 |
+
+ADAPT MAX 10035 HT / HK 3F |
+
+166-2026-000005 |
+
+KRONOTERM |
+
+ADAPT MAX 10070 HT / HK 3F |
+
+2325416 |
+
+ADAPT MAX 10070 HT / HK 3F |
+
+166-2026-000006 |
+
+Lemasson |
+
+INDUS T73 E |
+
+2733517 |
+
+INDUS |
+
+56-2026-000003 |
+
+Lemasson |
+
+INDUS T78 E |
+
+2733511 |
+
+INDUS |
+
+56-2026-000004 |
+
+Lemasson |
+
+INDUS T98 E |
+
+2733507 |
+
+INDUS |
+
+56-2026-000005 |
+
+Lemasson |
+
+INDUS T118 E |
+
+2733501 |
+
+INDUS |
+
+56-2026-000006 |
+
+Lemasson |
+
+INDUS T130 E |
+
+2732631 |
+
+INDUS |
+
+56-2026-000007 |
+
+Lemasson |
+
+INDUS T73 G |
+
+2733545 |
+
+INDUS |
+
+56-2026-000008 |
+
+Lemasson |
+
+INDUS T78 G |
+
+2733540 |
+
+INDUS |
+
+56-2026-000009 |
+
+Lemasson |
+
+INDUS T98 G |
+
+2733534 |
+
+INDUS |
+
+56-2026-000010 |
+
+Lemasson |
+
+INDUS T118 G |
+
+2733525 |
+
+INDUS |
+
+56-2026-000011 |
+
+Lemasson |
+
+INDUS T130 G |
+
+2732554 |
+
+INDUS |
+
+56-2026-000012 |
+
+Lemasson |
+
+ENDUR'EAU+ HTM14 E |
+
+2733260 |
+
+ENDUR'EAU+ |
+
+56-2026-000013 |
+
+Lemasson |
+
+ENDUR'EAU+ HTM22 E |
+
+2733267 |
+
+ENDUR'EAU+ |
+
+56-2026-000014 |
+
+Lemasson |
+
+ENDUR'EAU+ HTM26 E |
+
+2733615 |
+
+ENDUR'EAU+ |
+
+56-2026-000015 |
+
+Lemasson |
+
+ENDUR'EAU+ HTM36 E |
+
+2734005 |
+
+ENDUR'EAU+ |
+
+56-2026-000016 |
+
+Lemasson |
+
+ENDUR'EAU+ HTM42 E |
+
+2734009 |
+
+ENDUR'EAU+ |
+
+56-2026-000017 |
+
+Lemasson |
+
+ENDUR'EAU+ HTT26 E |
+
+2734018 |
+
+ENDUR'EAU+ |
+
+56-2026-000018 |
+
+Lemasson |
+
+ENDUR'EAU+ HTT36 E |
+
+2734024 |
+
+ENDUR'EAU+ |
+
+56-2026-000019 |
+
+Lemasson |
+
+ENDUR'EAU+ HTT42 E |
+
+2734167 |
+
+ENDUR'EAU+ |
+
+56-2026-000020 |
+
+Lemasson |
+
+ENDUR'EAU+ HTT65 E |
+
+2734173 |
+
+ENDUR'EAU+ |
+
+56-2026-000021 |
+
+Lemasson |
+
+ENDUR'EAU+ HTM14 G |
+
+2738335 |
+
+ENDUR'EAU+ |
+
+56-2026-000022 |
+
+Lemasson |
+
+ENDUR'EAU+ HTM22 G |
+
+2738348 |
+
+ENDUR'EAU+ |
+
+56-2026-000023 |
+
+Lemasson |
+
+ENDUR'EAU+ HTM26 G |
+
+2738354 |
+
+ENDUR'EAU+ |
+
+56-2026-000024 |
+
+Lemasson |
+
+ENDUR'EAU+ HTM36 G |
+
+2738361 |
+
+ENDUR'EAU+ |
+
+56-2026-000025 |
+
+Lemasson |
+
+ENDUR'EAU+ HTM42 G |
+
+2738367 |
+
+ENDUR'EAU+ |
+
+56-2026-000026 |
+
+Lemasson |
+
+ENDUR'EAU+ HTT26 G |
+
+2738374 |
+
+ENDUR'EAU+ |
+
+56-2026-000027 |
+
+Lemasson |
+
+ENDUR'EAU+ HTT36 G |
+
+2738382 |
+
+ENDUR'EAU+ |
+
+56-2026-000028 |
+
+Lemasson |
+
+ENDUR'EAU+ HTT42 G |
+
+2738390 |
+
+ENDUR'EAU+ |
+
+56-2026-000029 |
+
+Lemasson |
+
+ENDUR'EAU+ HTT65 G |
+
+2738392 |
+
+ENDUR'EAU+ |
+
+56-2026-000030 |
+
+Maxa Heating & Cooling |
+
+106 |
+
+i-290 0106 |
+
+i-290 0106 |
+
+143-2026-000001 |
+
+Maxa Heating & Cooling |
+
+109 |
+
+i-290 0109 |
+
+i-290 0109 |
+
+143-2026-000002 |
+
+Maxa Heating & Cooling |
+
+112 |
+
+i-290 0112 |
+
+i-290 0112 |
+
+143-2026-000003 |
+
+Maxa Heating & Cooling |
+
+115 |
+
+i-290 0115 |
+
+i-290 0115 |
+
+143-2026-000004 |
+
+Maxa Heating & Cooling |
+
+118 |
+
+i-290 0118 |
+
+i-290 0118 |
+
+143-2026-000005 |
+
+Maxa Heating & Cooling |
+
+121 |
+
+i-290 0121 |
+
+i-290 0121 |
+
+143-2026-000006 |
+
+Maxa Heating & Cooling |
+
+123 |
+
+i-290 0123 |
+
+i-290 0123 |
+
+143-2026-000007 |
+
+Maxa Heating & Cooling |
+
+125 |
+
+i-290 0125 |
+
+i-290 0125 |
+
+143-2026-000008 |
+
+Maxa Heating & Cooling |
+
+127 |
+
+i-290 0127 |
+
+i-290 0127 |
+
+143-2026-000009 |
+
+Maxa Heating & Cooling |
+
+240 |
+
+i-290 0240 |
+
+i-290 0240 |
+
+143-2026-000010 |
+
+Maxa Heating & Cooling |
+
+250 |
+
+i-290 0250 |
+
+i-290 0250 |
+
+143-2026-000011 |
+
+Maxa Heating & Cooling |
+
+0106 SL |
+
+i-290 0106 SL |
+
+i-290 0106 SL |
+
+143-2026-000012 |
+
+Maxa Heating & Cooling |
+
+0106 SL KA3 |
+
+i-290 0106 SL KA3 |
+
+i-290 0106 SL KA3 |
+
+143-2026-000013 |
+
+Maxa Heating & Cooling |
+
+0109 SL KA |
+
+i-290 0109 SL KA |
+
+i-290 0109 SL KA |
+
+143-2026-000014 |
+
+Maxa Heating & Cooling |
+
+0109 SL |
+
+i-290 0109 SL |
+
+i-290 0109 SL |
+
+143-2026-000015 |
+
+Maxa Heating & Cooling |
+
+0109 SL KA3 |
+
+i-290 0109 SL KA3 |
+
+i-290 0109 SL KA3 |
+
+143-2026-000016 |
+
+Maxa Heating & Cooling |
+
+0112 SL KA |
+
+i-290 0112 SL KA |
+
+i-290 0112 SL KA |
+
+143-2026-000017 |
+
+Maxa Heating & Cooling |
+
+0118 SL KA3 |
+
+i-290 0118 SL KA3 |
+
+i-290 0118 SL KA3 |
+
+143-2026-000018 |
+
+Maxa Heating & Cooling |
+
+0112 SL |
+
+i-290 0112 SL |
+
+i-290 0112 SL |
+
+143-2026-000019 |
+
+Maxa Heating & Cooling |
+
+0112 SL KA3 |
+
+i-290 0112 SL KA3 |
+
+i-290 0112 SL KA3 |
+
+143-2026-000020 |
+
+Maxa Heating & Cooling |
+
+0115 SL |
+
+i-290 0115 SL |
+
+i-290 0115 SL |
+
+143-2026-000021 |
+
+Maxa Heating & Cooling |
+
+0115 SL KA |
+
+i-290 0115 SL KA |
+
+i-290 0115 SL KA |
+
+143-2026-000022 |
+
+Maxa Heating & Cooling |
+
+0106 KA |
+
+i-290 0106 KA |
+
+i-290 0106 KA |
+
+143-2026-000023 |
+
+Maxa Heating & Cooling |
+
+0106 KA3 |
+
+i-290 0106 KA3 |
+
+i-290 0106 KA3 |
+
+143-2026-000024 |
+
+Maxa Heating & Cooling |
+
+0106 SL KA |
+
+i-290 0106 SL KA |
+
+i-290 0106 SL KA |
+
+143-2026-000025 |
+
+Maxa Heating & Cooling |
+
+0109 KA |
+
+i-290 0109 KA |
+
+i-290 0109 KA |
+
+143-2026-000026 |
+
+Maxa Heating & Cooling |
+
+0109 KA3 |
+
+i-290 0109 KA3 |
+
+i-290 0109 KA3 |
+
+143-2026-000027 |
+
+Maxa Heating & Cooling |
+
+0112 KA |
+
+i-290 0112 KA |
+
+i-290 0112 KA |
+
+143-2026-000028 |
+
+Maxa Heating & Cooling |
+
+0112 KA3 |
+
+i-290 0112 KA3 |
+
+i-290 0112 KA3 |
+
+143-2026-000029 |
+
+Maxa Heating & Cooling |
+
+0115 KA |
+
+i-290 0115 KA |
+
+i-290 0115 KA |
+
+143-2026-000030 |
+
+Maxa Heating & Cooling |
+
+0115 SL KA3 |
+
+i-290 0115 SL KA3 |
+
+i-290 0115 SL KA3 |
+
+143-2026-000031 |
+
+Maxa Heating & Cooling |
+
+0115 KA3 |
+
+i-290 0115 KA3 |
+
+i-290 0115 KA3 |
+
+143-2026-000032 |
+
+Maxa Heating & Cooling |
+
+0118 KA |
+
+i-290 0118 KA |
+
+i-290 0118 KA |
+
+143-2026-000033 |
+
+Maxa Heating & Cooling |
+
+0118 SL |
+
+i-290 0118 SL |
+
+i-290 0118 SL |
+
+143-2026-000034 |
+
+Maxa Heating & Cooling |
+
+0118 KA3 |
+
+i-290 0118 KA3 |
+
+i-290 0118 KA3 |
+
+143-2026-000035 |
+
+Maxa Heating & Cooling |
+
+0118 SL KA |
+
+i-290 0118 SL KA |
+
+i-290 0118 SL KA |
+
+143-2026-000036 |
+
+Maxa Heating & Cooling |
+
+0121 KA |
+
+i-290 0121 KA |
+
+i-290 0121 KA |
+
+143-2026-000037 |
+
+Maxa Heating & Cooling |
+
+0121 KA3 |
+
+i-290 0121 KA3 |
+
+i-290 0121 KA3 |
+
+143-2026-000038 |
+
+Maxa Heating & Cooling |
+
+0121 SSL |
+
+i-290 0121 SSL |
+
+i-290 0121 SSL |
+
+143-2026-000039 |
+
+Maxa Heating & Cooling |
+
+0121 KA SSL |
+
+i-290 0121 KA SSL |
+
+i-290 0121 KA SSL |
+
+143-2026-000040 |
+
+Maxa Heating & Cooling |
+
+0121 KA3 SSL |
+
+i-290 0121 KA3 SSL |
+
+i-290 0121 KA3 SSL |
+
+143-2026-000041 |
+
+Maxa Heating & Cooling |
+
+0123 KA SSL |
+
+i-290 0123 KA SSL |
+
+i-290 0123 KA SSL |
+
+143-2026-000042 |
+
+Maxa Heating & Cooling |
+
+0123 KA3 SSL |
+
+0123 KA3 SSL |
+
+0123 KA3 SSL |
+
+143-2026-000043 |
+
+Maxa Heating & Cooling |
+
+0123 SSL |
+
+i-290 0123 SSL |
+
+i-290 0123 SSL |
+
+143-2026-000044 |
+
+Maxa Heating & Cooling |
+
+0123 KA3 |
+
+i-290 0123 KA3 |
+
+i-290 0123 KA3 |
+
+143-2026-000045 |
+
+Maxa Heating & Cooling |
+
+0123 KA |
+
+i-290 0123 KA |
+
+i-290 0123 KA |
+
+143-2026-000046 |
+
+Maxa Heating & Cooling |
+
+0125 KA |
+
+i-290 0125 KA |
+
+i-290 0125 KA |
+
+143-2026-000047 |
+
+Maxa Heating & Cooling |
+
+0125 KA3 |
+
+i-290 0125 KA3 |
+
+i-290 0125 KA3 |
+
+143-2026-000048 |
+
+Maxa Heating & Cooling |
+
+0125 SSL |
+
+i-290 0125 SSL |
+
+i-290 0125 SSL |
+
+143-2026-000049 |
+
+Maxa Heating & Cooling |
+
+0125 KA SSL |
+
+i-290 0125 KA SSL |
+
+i-290 0125 KA SSL |
+
+143-2026-000050 |
+
+Maxa Heating & Cooling |
+
+0125 KA3 SSL |
+
+i-290 0125 KA3 SSL |
+
+i-290 0125 KA3 SSL |
+
+143-2026-000051 |
+
+Maxa Heating & Cooling |
+
+0127 KA |
+
+i-290 0127 KA |
+
+i-290 0127 KA |
+
+143-2026-000052 |
+
+Maxa Heating & Cooling |
+
+0127 KA3 |
+
+i-290 0127 KA3 |
+
+i-290 0127 KA3 |
+
+143-2026-000053 |
+
+Maxa Heating & Cooling |
+
+0127 SSL |
+
+i-290 0127 SSL |
+
+i-290 0127 SSL |
+
+143-2026-000054 |
+
+Maxa Heating & Cooling |
+
+0127 KA SSL |
+
+i-290 0127 KA SSL |
+
+i-290 0127 KA SSL |
+
+143-2026-000055 |
+
+Maxa Heating & Cooling |
+
+0127 KA3 SSL |
+
+i-290 0127 KA3 SSL |
+
+i-290 0127 KA3 SSL |
+
+143-2026-000056 |
+
+Maxa Heating & Cooling |
+
+0240 -PS |
+
+i-290 0240 -PS |
+
+i-290 0240 -PS |
+
+143-2026-000057 |
+
+Maxa Heating & Cooling |
+
+0240 -PSI |
+
+i-290 0240 -PSI |
+
+i-290 0240 -PSI |
+
+143-2026-000058 |
+
+Maxa Heating & Cooling |
+
+0240 -PSEC |
+
+i-290 0240 -PSEC |
+
+i-290 0240 -PSEC |
+
+143-2026-000059 |
+
+Maxa Heating & Cooling |
+
+0240 -SSL |
+
+i-290 0240 -SSL |
+
+i-290 0240 -SSL |
+
+143-2026-000060 |
+
+Maxa Heating & Cooling |
+
+0240 -PS-SSL |
+
+i-290 0240 -PS-SSL |
+
+i-290 0240 -PS-SSL |
+
+143-2026-000061 |
+
+Maxa Heating & Cooling |
+
+0240 -PSI-SSL |
+
+i-290 0240 -PSI-SSL |
+
+i-290 0240 -PSI-SSL |
+
+143-2026-000062 |
+
+Maxa Heating & Cooling |
+
+0240 -PSEC-SSL |
+
+i-290 0240 -PSEC-SSL |
+
+i-290 0240 -PSEC-SSL |
+
+143-2026-000063 |
+
+Maxa Heating & Cooling |
+
+0240 -EXSSL |
+
+i-290 0240 -EXSSL |
+
+i-290 0240 -EXSSL |
+
+143-2026-000064 |
+
+Maxa Heating & Cooling |
+
+0240 -PS-EXSSL |
+
+i-290 0240 -PS-EXSSL |
+
+i-290 0240 -PS-EXSSL |
+
+143-2026-000065 |
+
+Maxa Heating & Cooling |
+
+0240 -PSI-EXSSL |
+
+i-290 0240 -PSI-EXSSL |
+
+i-290 0240 -PSI-EXSSL |
+
+143-2026-000066 |
+
+Maxa Heating & Cooling |
+
+0240 -PSEC-EXSSL |
+
+i-290 0240 -PSEC-EXSSL |
+
+i-290 0240 -PSEC-EXSSL |
+
+143-2026-000067 |
+
+Maxa Heating & Cooling |
+
+0250 -PS |
+
+i-290 0250 -PS |
+
+i-290 0250 -PS |
+
+143-2026-000068 |
+
+Maxa Heating & Cooling |
+
+0250 -PSI |
+
+i-290 0250 -PSI |
+
+i-290 0250 -PSI |
+
+143-2026-000069 |
+
+Maxa Heating & Cooling |
+
+0250 -PSEC |
+
+i-290 0250 -PSEC |
+
+i-290 0250 -PSEC |
+
+143-2026-000070 |
+
+Maxa Heating & Cooling |
+
+0250 -SSL |
+
+i-290 0250 -SSL |
+
+i-290 0250 -SSL |
+
+143-2026-000071 |
+
+Maxa Heating & Cooling |
+
+0250 -PS-SSL |
+
+i-290 0250 -PS-SSL |
+
+i-290 0250 -PS-SSL |
+
+143-2026-000072 |
+
+Maxa Heating & Cooling |
+
+0250 -PSI-SSL |
+
+i-290 0250 -PSI-SSL |
+
+i-290 0250 -PSI-SSL |
+
+143-2026-000073 |
+
+Maxa Heating & Cooling |
+
+0250 -PSEC-SSL |
+
+i-290 0250 -PSEC-SSL |
+
+i-290 0250 -PSEC-SSL |
+
+143-2026-000074 |
+
+Maxa Heating & Cooling |
+
+0250 -EXSSL |
+
+i-290 0250 -EXSSL |
+
+i-290 0250 -EXSSL |
+
+143-2026-000075 |
+
+Maxa Heating & Cooling |
+
+0250 -PS-EXSSL |
+
+i-290 0250 -PS-EXSSL |
+
+i-290 0250 -PS-EXSSL |
+
+143-2026-000076 |
+
+Maxa Heating & Cooling |
+
+0250 -PSI-EXSSL |
+
+i-290 0250 -PSI-EXSSL |
+
+i-290 0250 -PSI-EXSSL |
+
+143-2026-000077 |
+
+Maxa Heating & Cooling |
+
+0250 -PSEC-EXSSL |
+
+i-290 0250 -PSEC-EXSSL |
+
+i-290 0250 -PSEC-EXSSL |
+
+143-2026-000078 |
+
+Maxa Heating & Cooling |
+
+SL16 |
+
+i-32V5/SL 16 |
+
+i-32V5SL16 |
+
+143-2026-000079 |
+
+Maxa Heating & Cooling |
+
+SL16T |
+
+i-32V5/SL 16T |
+
+i-32V5SL16T |
+
+143-2026-000080 |
+
+Maxa Heating & Cooling |
+
+i-290 0109T |
+
+i-290 0109T |
+
+i-290 0109T |
+
+143-2026-000081 |
+
+Maxa Heating & Cooling |
+
+i-290 0109T SL |
+
+i-290 0109T SL |
+
+i-290 0109T SL |
+
+143-2026-000082 |
+
+Midea |
+
+M-Thermon HT 4 |
+
+2812305 |
+
+MHC-V4WD2N7E |
+
+44-2026-000001 |
+
+Midea |
+
+M-Thermon HT 6 |
+
+2812326 |
+
+MHC-V6WD2N7E |
+
+44-2026-000002 |
+
+Midea |
+
+M-Thermon HT 8 |
+
+2812335 |
+
+MHC-V8WD2N7E |
+
+44-2026-000003 |
+
+Midea |
+
+M-Thermon HT 10 |
+
+2812348 |
+
+MHC-V10WD2N7E |
+
+44-2026-000004 |
+
+Midea |
+
+M-Thermon HT 12 |
+
+2812383 |
+
+MHC-V12WD2N7E |
+
+44-2026-000005 |
+
+Midea |
+
+M-Thermon HT 12T |
+
+2812395 |
+
+MHC-V12WD2RN7E |
+
+44-2026-000006 |
+
+Midea |
+
+M-Thermon HT 14 |
+
+2812629 |
+
+MHC-V14WD2N7E |
+
+44-2026-000007 |
+
+Midea |
+
+M-Thermon HT 14T |
+
+2812637 |
+
+MHC-V14WD2RN7E |
+
+44-2026-000008 |
+
+Midea |
+
+M-Thermon HT 16 |
+
+2812638 |
+
+MHC-V16WD2N7E |
+
+44-2026-000009 |
+
+Midea |
+
+M-Thermon HT 16T |
+
+2812651 |
+
+MHC-V16WD2RN7E |
+
+44-2026-000010 |
+
+Nextherm |
+
+OPTIPACK 4 EAU/EAU 3 MONO |
+
+2791828 |
+
+OP4EGE3M |
+
+61-2026-000002 |
+
+Nextherm |
+
+OPTIPACK 4 EAU/EAU 5 MONO |
+
+2791829 |
+
+OP4EGE5M |
+
+61-2026-000003 |
+
+Nextherm |
+
+OPTIPACK 4 EAU/EAU 5 TRI |
+
+2791830 |
+
+OP4EGE5T |
+
+61-2026-000004 |
+
+Nextherm |
+
+OPTIPACK 4 EAU/EAU 7 MONO |
+
+2791831 |
+
+OP4EGE7M |
+
+61-2026-000005 |
+
+Nextherm |
+
+OPTIPACK 4 EAU/EAU 7 TRI |
+
+2791832 |
+
+OP4EGE7T |
+
+61-2026-000006 |
+
+Nextherm |
+
+OPTIPACK 4 EAU/EAU 10 MONO |
+
+2791833 |
+
+OP4EGE10M |
+
+61-2026-000007 |
+
+Nextherm |
+
+OPTIPACK 4 EAU/EAU 10 TRI |
+
+2791834 |
+
+OP4EGE10T |
+
+61-2026-000008 |
+
+Nextherm |
+
+SMARTPACK 4 EAU/EAU 3 MONO |
+
+2763665 |
+
+SP4EGE3M |
+
+61-2026-000009 |
+
+Nextherm |
+
+SMARTPACK 4 EAU/EAU 5 MONO |
+
+2763666 |
+
+SP4EGE5M |
+
+61-2026-000010 |
+
+Nextherm |
+
+SMARTPACK 4 EAU/EAU 5 TRI |
+
+2763667 |
+
+SP4EGE5T |
+
+61-2026-000011 |
+
+Nextherm |
+
+SMARTPACK 4 EAU/EAU 7 MONO |
+
+2763668 |
+
+SP4EGE7M |
+
+61-2026-000012 |
+
+Nextherm |
+
+SMARTPACK 4 EAU/EAU 7 TRI |
+
+2763669 |
+
+SP4EGE7T |
+
+61-2026-000013 |
+
+Nextherm |
+
+SMARTPACK 4 EAU/EAU 10 MONO |
+
+2763670 |
+
+SP4EGE10M |
+
+61-2026-000014 |
+
+Nextherm |
+
+SMARTPACK 4 EAU/EAU 10 TRI |
+
+2763671 |
+
+SP4EGE10T |
+
+61-2026-000015 |
+
+Nextherm |
+
+SMARTPACK 4 EAU/EAU 13 MONO |
+
+2763672 |
+
+SP4EGE13M |
+
+61-2026-000016 |
+
+Nextherm |
+
+SMARTPACK 4 EAU/EAU 13 TRI |
+
+2763673 |
+
+SP4EGE13T |
+
+61-2026-000017 |
+
+Nextherm |
+
+SMARTPACK 4 EAU/EAU 15 TRI |
+
+2763674 |
+
+SP4EGE15T |
+
+61-2026-000018 |
+
+Nextherm |
+
+SMARTPACK 4 EAU/EAU 18 TRI |
+
+2763675 |
+
+SP4EGE18T |
+
+61-2026-000019 |
+
+Nextherm |
+
+OPTIPACK DUO 4 EAU/EAU 3 MONO |
+
+2793284 |
+
+OPDUO4EGE3M |
+
+61-2026-000020 |
+
+Nextherm |
+
+OPTIPACK DUO 4 EAU/EAU 5 MONO |
+
+2793285 |
+
+OPDUO4EGE5M |
+
+61-2026-000021 |
+
+Nextherm |
+
+OPTIPACK DUO 4 EAU/EAU 5 TRI |
+
+2793286 |
+
+OPDUO4EGE5T |
+
+61-2026-000022 |
+
+Nextherm |
+
+OPTIPACK DUO 4 EAU/EAU 7 MONO |
+
+2793287 |
+
+OPDUO4EGE7M |
+
+61-2026-000023 |
+
+Nextherm |
+
+OPTIPACK DUO 4 EAU/EAU 7 TRI |
+
+2793288 |
+
+OPDUO4EGE7T |
+
+61-2026-000024 |
+
+Nextherm |
+
+OPTIPACK DUO 4 EAU/EAU 10 MONO |
+
+2793289 |
+
+OPDUO4EGE10M |
+
+61-2026-000025 |
+
+Nextherm |
+
+OPTIPACK DUO 4 EAU/EAU 10 TRI |
+
+2793290 |
+
+OPDUO4EGE10T |
+
+61-2026-000026 |
+
+Nextherm |
+
+OPTIPACK DUO 4 EAU/EAU 13 MONO |
+
+2793291 |
+
+OPDUO4EGE13M |
+
+61-2026-000027 |
+
+Nextherm |
+
+OPTIPACK DUO 4 EAU/EAU 13 TRI |
+
+2793292 |
+
+OPDUO4EGE13T |
+
+61-2026-000028 |
+
+Panasonic |
+
+Aquarea T-CAP All in One Série K 12 kW triphasé |
+
+WH-ADC0912K9E8 / WH-UXZ12KE8 |
+
+WH-ADC0912K9E8 / WH-UXZ12KE8 |
+
+64-2026-000066 |
+
+Stiebel Eltron |
+
+HPA-O 05.2 Trend HC 230 |
+
+HPA-O 05.2 Trend HC 230 |
+
+207419 |
+
+149-2026-000001 |
+
+Stiebel Eltron |
+
+HPA-O 07.2 Trend HC 230 |
+
+HPA-O 07.2 Trend HC 230 |
+
+207420 |
+
+149-2026-000002 |
+
+Stiebel Eltron |
+
+HPA-O 10.2 Trend HC 230 |
+
+HPA-O 10.2 Trend HC 230 |
+
+207422 |
+
+149-2026-000003 |
+
+Stiebel Eltron |
+
+HPA-O 13.2 Trend HC 230 |
+
+HPA-O 13.2 Trend HC 230 |
+
+207424 |
+
+149-2026-000004 |
+
+Stiebel Eltron |
+
+HPA-O 13.2 Trend HC 400 |
+
+HPA-O 13.2 Trend HC 400 |
+
+207425 |
+
+149-2026-000005 |
+
+Stiebel Eltron |
+
+HPA-O 17.2 Trend HC 400 |
+
+HPA-O 17.2 Trend HC 400 |
+
+207426 |
+
+149-2026-000006 |
+
+Stiebel Eltron |
+
+HPA-O 05.2 Plus HC 230 |
+
+HPA-O 05.2 Plus HC 230 |
+
+207429 |
+
+149-2026-000007 |
+
+Stiebel Eltron |
+
+HPA-O 05.2 W Plus HC 230 |
+
+HPA-O 05.2 W Plus HC 230 |
+
+208431 |
+
+149-2026-000008 |
+
+Stiebel Eltron |
+
+HPA-O 07.2 Plus HC 230 |
+
+HPA-O 07.2 Plus HC 230 |
+
+207430 |
+
+149-2026-000009 |
+
+Stiebel Eltron |
+
+HPA-O 07.2 W Plus HC 230 |
+
+HPA-O 07.2 W Plus HC 230 |
+
+208432 |
+
+149-2026-000010 |
+
+Stiebel Eltron |
+
+HPA-O 10.2 Plus HC 230 |
+
+HPA-O 10.2 Plus HC 230 |
+
+207432 |
+
+149-2026-000011 |
+
+Stiebel Eltron |
+
+HPA-O 10.2 Plus HC 400 |
+
+HPA-O 10.2 Plus HC 400 |
+
+207433 |
+
+149-2026-000012 |
+
+Stiebel Eltron |
+
+HPA-O 10.2 W Plus HC 230 |
+
+HPA-O 10.2 W Plus HC 230 |
+
+208433 |
+
+149-2026-000013 |
+
+Stiebel Eltron |
+
+HPA-O 10.2 W Plus HC 400 |
+
+HPA-O 10.2 W Plus HC 400 |
+
+208434 |
+
+149-2026-000014 |
+
+Stiebel Eltron |
+
+HPA-O 13.2 Plus HC 400 |
+
+HPA-O 13.2 Plus HC 400 |
+
+207435 |
+
+149-2026-000015 |
+
+Stiebel Eltron |
+
+HPA-O 13.2 W Plus HC 400 |
+
+HPA-O 13.2 W Plus HC 400 |
+
+208435 |
+
+149-2026-000016 |
+
+Stiebel Eltron |
+
+HPA-O 3 CS Plus |
+
+HPA-O 3 CS Plus |
+
+238984 |
+
+149-2026-000036 |
+
+Stiebel Eltron |
+
+HPA-O 4 CS Plus |
+
+HPA-O 4 CS Plus |
+
+238985 |
+
+149-2026-000037 |
+
+Stiebel Eltron |
+
+HPA-O 6 CS Plus |
+
+HPA-O 6 CS Plus |
+
+238986 |
+
+149-2026-000038 |
+
+Stiebel Eltron |
+
+HPA-O 8 CS Plus |
+
+HPA-O 8 CS Plus |
+
+238987 |
+
+149-2026-000039 |
+
+Stiebel Eltron |
+
+HPA-O 05.1 CS Premium |
+
+HPA-O 05.1 CS Premium |
+
+202666 |
+
+149-2026-000040 |
+
+Stiebel Eltron |
+
+HPA-O 07.1 CS Premium |
+
+HPA-O 07.1 CS Premium |
+
+202668 |
+
+149-2026-000041 |
+
+Stiebel Eltron |
+
+HPA-O 10 C Premium |
+
+HPA-O 10 C Premium |
+
+238979 |
+
+149-2026-000042 |
+
+Stiebel Eltron |
+
+HPA-O 13 CS Premium |
+
+HPA-O 13 CS Premium |
+
+238981 |
+
+149-2026-000043 |
+
+Stiebel Eltron |
+
+HPA-O 13 C Premium |
+
+HPA-O 13 C Premium |
+
+238983 |
+
+149-2026-000044 |
+
+Stiebel Eltron |
+
+WPL 09 ICS classic |
+
+WPL 09 ICS classic |
+
+236375 |
+
+149-2026-000045 |
+
+Stiebel Eltron |
+
+WPL 09 IKCS classic |
+
+WPL 09 IKCS classic |
+
+236377 |
+
+149-2026-000046 |
+
+Stiebel Eltron |
+
+WPL 17 ICS classic |
+
+WPL 17 ICS classic |
+
+236376 |
+
+149-2026-000047 |
+
+Stiebel Eltron |
+
+WPL 17 IKCS classic |
+
+WPL 17 IKCS classic |
+
+236378 |
+
+149-2026-000048 |
+
+Stiebel Eltron |
+
+WPL 19 A |
+
+WPL 19 A dB Set |
+
+236412 |
+
+149-2026-000049 |
+
+Stiebel Eltron |
+
+WPL 19 I |
+
+WPL 19 I Set |
+
+235193 |
+
+149-2026-000050 |
+
+Stiebel Eltron |
+
+WPL 19 IK |
+
+WPL 19 IK Set |
+
+235878 |
+
+149-2026-000051 |
+
+Stiebel Eltron |
+
+WPL 24 A |
+
+WPL 24 A Set |
+
+236413 |
+
+149-2026-000052 |
+
+Stiebel Eltron |
+
+WPL 24 I |
+
+WPL 24 I Set |
+
+235194 |
+
+149-2026-000053 |
+
+Stiebel Eltron |
+
+WPL 24 IK |
+
+WPL 24 IK Set |
+
+235879 |
+
+149-2026-000054 |
+
+Stiebel Eltron |
+
+WPL 13 E |
+
+WPL 13 E |
+
+227756 |
+
+149-2026-000055 |
+
+Stiebel Eltron |
+
+WPL 18 E |
+
+WPL 18 E |
+
+227757 |
+
+149-2026-000056 |
+
+Stiebel Eltron |
+
+WPL 23 E |
+
+WPL 23 E |
+
+227758 |
+
+149-2026-000057 |
+
+Thaleos |
+
+THAHP04M |
+
+2639877 |
+
+THAHP0406M PT |
+
+157-2026-000001 |
+
+Thaleos |
+
+THAHP06M |
+
+2639879 |
+
+THAHP0406M PT |
+
+157-2026-000002 |
+
+Thaleos |
+
+THAHP08M |
+
+2639880 |
+
+THAHP0810M PT |
+
+157-2026-000003 |
+
+Thaleos |
+
+THAHP10M |
+
+2639884 |
+
+THAHP0810M PT |
+
+157-2026-000004 |
+
+Thaleos |
+
+THAHP12M |
+
+2639887 |
+
+THAHP121416M PT |
+
+157-2026-000005 |
+
+Thaleos |
+
+THAHP14M |
+
+2639914 |
+
+THAHP121416M PT |
+
+157-2026-000006 |
+
+Thaleos |
+
+THAHP16M |
+
+2639934 |
+
+THAHP121416M PT |
+
+157-2026-000007 |
+
+Thaleos |
+
+THAHP08T |
+
+2639935 |
+
+THAHP0810T PT |
+
+157-2026-000008 |
+
+Thaleos |
+
+THAHP10T |
+
+2639936 |
+
+THAHP0810T PT |
+
+157-2026-000009 |
+
+Thaleos |
+
+THAHP12T |
+
+2639937 |
+
+THAHP121416T PT |
+
+157-2026-000010 |
+
+Thaleos |
+
+THAHP14T |
+
+2639938 |
+
+THAHP121416T PT |
+
+157-2026-000011 |
+
+Thaleos |
+
+THAHP16T |
+
+2639939 |
+
+THAHP121416T PT |
+
+157-2026-000012 |
+
+Vaillant |
+
+geoCOMPACT exclusive 5 - 400V |
+
+VWS 52/8.1 iQ |
+
+VWS 52/8.1 iQ |
+
+68-2026-000120 |
+
+Viessmann |
+
+IDU-A 2C AWMIW.A1.19-V055 / ODU 250-A AWMOF-251.A1.19-400-V001 |
+
+2509103 |
+
+Vitocal 250-A 2C A19 400V V114 |
+
+152-2026-000169 |
+
+Viessmann |
+
+IDU-A AWMIW.A1.19-V052 / ODU 250-A AWMOF-251.A1.19-400-V001 |
+
+2509019 |
+
+Vitocal 250-A A19 400V V104 |
+
+152-2026-000170 |
+
+Viessmann |
+
+IDU-A Modular AWMIW.A1.19-V051 / ODU 250-A AWMOF-251.A1.19-400-V001 |
+
+2509112 |
+
+Vitocal 250-A Modular A19 400V V100 |
+
+152-2026-000171 |
+
+Viessmann |
+
+IDU-A Compact 2C AWMIT.A1.19-V056 / ODU 250-A AWMOF-251.A1.19-400-V001 |
+
+2509189 |
+
+Vitocal 250-A Compact 2C A19 400V V118 |
+
+152-2026-000172 |
+
+Viessmann |
+
+IDU-A Compact AWMIT.A1.19-V053 / ODU 250-A AWMOF-251.A1.19-400-V001 |
+
+2509180 |
+
+Vitocal 250-A Compact A19 400V V108 |
+
+152-2026-000173 |
+
+Viessmann |
+
+IDU-A AWMIW.A1.19-V052 / ODU 250-A AWMOF-251.A1.16-400-V001 |
+
+2509018 |
+
+Vitocal 250-A A16 400V V104 |
+
+152-2026-000174 |
+
+Viessmann |
+
+IDU-A 2C AWMIW.A1.19-V055 / ODU 250-A AWMOF-251.A1.16-400-V001 |
+
+2509102 |
+
+Vitocal 250-A 2C A16 400V V114 |
+
+152-2026-000175 |
+
+Viessmann |
+
+IDU-A Modular AWMIW.A1.19-V051 / ODU 250-A AWMOF-251.A1.16-400-V001 |
+
+2509111 |
+
+Vitocal 250-A Modular A16 400V V100 |
+
+152-2026-000176 |
+
+Viessmann |
+
+IDU-A Compact AWMIT.A1.19-V053 / ODU 250-A AWMOF-251.A1.16-400-V001 |
+
+2509179 |
+
+Vitocal 250-A Compact A16 400V V108 |
+
+152-2026-000177 |
+
+Viessmann |
+
+IDU-A Compact 2C AWMIT.A1.19-V056 / ODU 250-A AWMOF-251.A1.16-400-V001 |
+
+2509188 |
+
+Vitocal 250-A Compact 2C A16 400V V118 |
+
+152-2026-000178 |
+
+Weishaupt |
+
+WEB 7/10-A-RME-A |
+
+2735478 |
+
+51150701012 |
+
+58-2026-000003 |
+
+Weishaupt |
+
+WEB 9/14-A-RME-A |
+
+2735610 |
+
+51151001012 |
+
+58-2026-000004 |
+
+Weishaupt |
+
+WEB 10/15-A-RMD-A |
+
+2735609 |
+
+51151002012 |
+
+58-2026-000005 |
+
+Weishaupt |
+
+WEB 13/20-A-RMD-A |
+
+2735611 |
+
+51151302012 |
+
+58-2026-000006 |
