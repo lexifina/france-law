@@ -1,0 +1,9 @@
+# Réponse à la question n° 16631
+
+- Question : [16631](16631.md) — Question n° 16631 — Projet de réutilisation des eaux usées traitées issues de la station d'épuration
+
+## Réponse
+
+*JO du 2026-09-15, page 8568*
+
+Les services de l'Etat sont pleinement mobilisés pour la réussite de ce projet porté par Perpignan Méditerranée Métropole. En effet, ce projet faisant partie du plan de résilience pour l'eau dans les Pyrénées Orientales, les services de la Préfecture l'ont appuyé afin de l'inscrire dans le programme national d'accélération de la réutilisation des eaux usées traitées sur les territoires littoraux. Dans ce cadre, en lien avec l'Association nationale des élus du littoral (ANEL) et le Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement (Cerema) du ministère en charge de l'écologie coordonne la réalisation de l'étude d'opportunité et de faisabilité. La banque des territoires et l'agence de l'eau Rhône-Méditerranée-Corse subventionnent à hauteur de 80% l'étude dont les résultats sont attendus pour la fin de cette année. Cette étude en cours permettra d'apprécier les conditions techniques, économiques, environnementales, réglementaires et de gouvernance dans une approche équilibrée. Elle définira les usages pertinents compte tenu de ces enjeux locaux. Cette étude d'opportunité, en identifiant très en amont les risques, les contraintes et les conditions de faisabilité, doit permettre d'accélérer les phases ultérieures, notamment les procédures réglementaires, la définition de la maîtrise d'ouvrage et la construction du modèle économique. Il s'agit de la méthode qui a été mise en œuvre pour le projet de réutilisation des eaux usées traitées d'Argelès-sur-Mer, et qui a permis son émergence dans des délais resserrés.Enfin, l'accélération de la REUT est une des priorités du Gouvernement dans le cadre du plan d'accélération de l'adaptation au changement climatique en cours d'élaboration.
