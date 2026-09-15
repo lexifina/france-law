@@ -1,0 +1,9 @@
+# Réponse à la question n° 17133
+
+- Question : [17133](17133.md) — Question n° 17133 — Soutenir Duralex et ses salariés
+
+## Réponse
+
+*JO du 2026-09-15, page 8456*
+
+Le Gouvernement est particulièrement attentif à la situation de Duralex, entreprise emblématique du patrimoine industriel français, dont les difficultés suscitent une vive préoccupation pour les salariés, leurs familles et l'ensemble du territoire. Dès les premières inquiétudes sur la situation de l'entreprise, les services de l'État tant au niveau central que sur le territoire se sont pleinement mobilisés afin d'accompagner l'entreprise et ses salariés. Cette mobilisation se poursuit dans le cadre du redressement judiciaire décidé par le Tribunal de commerce le 1er juin dernier, en étroite coordination avec l'administrateur judiciaire, les collectivités territoriales et l'ensemble des parties prenantes. Le Gouvernement partage l'objectif de préserver autant que possible l'activité industrielle du site de La Chapelle-Saint-Mesmin ainsi que les savoir-faire verriers et les emplois qui y sont attachés. Une recherche de repreneur a été engagée par l'administrateur judiciaire. Les services de l'État l'accompagnent activement avec l'objectif d'identifier un projet industriel solide, pérenne et de nature à préserver le plus grand nombre possible d'emplois. L'État demeurera pleinement mobilisé aux côtés des salariés et des acteurs locaux durant toute cette période. Plus largement, le Gouvernement demeure déterminé à renforcer la compétitivité de l'industrie française et à préserver les capacités de production sur les territoires. La sauvegarde des savoir-faire industriels, le maintien d'activités historiques et l'accompagnement des entreprises confrontées à des difficultés conjoncturelles constituent des priorités de son action.
