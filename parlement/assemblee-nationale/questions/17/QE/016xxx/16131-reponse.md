@@ -1,0 +1,9 @@
+# Réponse à la question n° 16131
+
+- Question : [16131](16131.md) — Question n° 16131 — Contraintes budgétaires pesant sur l'audiovisuel public
+
+## Réponse
+
+*JO du 2026-09-15, page 8413*
+
+France Télévisions se trouve, en 2026, dans une situation budgétaire contrainte, marquée par une baisse de ses concours publics (-80,2 millions d'euros), rendue nécessaire par la participation des entreprises du secteur audiovisuel public au redressement des comptes publics, conjuguée à une conjoncture difficile sur le marché publicitaire. Dans ce contexte, l entreprise a été conduite à retenir des mesures d économies pour préserver son résultat d'exploitation. Ces mesures ont également concerné l offre de programmes. C est ainsi que France télévisions a, par exemple, décidé de sous-licencier une partie des matchs du Tournoi des Six Nations. En ce qui concerne le magazine « VU », la décision prise par l entreprise relève intégralement de la compétence de France Télévisions. En vertu du principe d'indépendance éditoriale garanti par la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, il n appartient pas au Gouvernement de se prononcer à ce sujet. En tout état de cause, le ministère de la culture tient à rappeler que les missions d'information et d'éducation aux médias, pour tous les publics et à tout âge, ne peuvent être réduites à l'existence d'un programme et continuent d'être portées chaque jour par l'offre de France Télévisions (éditions quotidiennes d'information nationale et locale, magazines de décryptage, ressources pédagogiques sur la plateforme Lumni, etc.). Elles constituent une composante fondamentale des missions de service public que France Télévisions doit continuer de porter pour les années à venir, et auront vocation à être réaffirmées dans son futur contrat d'objectifs et de moyens en cours de préparation.
