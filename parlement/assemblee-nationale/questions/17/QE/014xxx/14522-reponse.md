@@ -1,0 +1,9 @@
+# Réponse à la question n° 14522
+
+- Question : [14522](14522.md) — Question n° 14522 — Quelle protection pour La Réunion face à la guerre israélo-américaine ?
+
+## Réponse
+
+*JO du 2026-09-15, page 8426*
+
+La France est mobilisée en faveur d'une solution diplomatique au conflit au Moyen-Orient. Seule la conclusion d'un accord robuste, durable et vérifiable permettra de répondre à l'ensemble des menaces posées par l'Iran sur les plans nucléaire, balistique et régional. La France appelle l'ensemble des parties à respecter le cessez-le-feu et poursuivra ses efforts diplomatiques en ce sens. S'agissant de la sécurité du territoire réunionnais, le ministère de l'Europe et des affaires étrangères (MEAE) tient à rappeler que la France dispose, dans la zone sud de l'océan Indien, d'une présence militaire permanente dont le dispositif est régulièrement adapté à l'évolution de l'environnement stratégique régional. Les Forces armées de la zone sud de l'océan Indien (FAZSOI) constituent le socle de cette protection. Par ailleurs, des plans de réponse aux situations d'urgence, y compris de nature radiologique, existent et sont régulièrement actualisés par les autorités compétentes. Les questions relatives aux modalités précises de ces dispositifs relèvent des attributions du ministère des armées et du ministère de l'intérieur. Toute instabilité prolongée dans le Golfe se répercute sur les prix de l'énergie, avec des effets structurellement amplifiés pour des territoires insulaires comme La Réunion. Cette réalité est intégrée dans le suivi que la France assure de la situation, notamment dans ses échanges avec ses partenaires du Golfe et dans les enceintes multilatérales compétentes. C'est dans cette même logique que la France a lancé une mission multinationale, neutre et strictement défensive, visant à assurer dès que possible une reprise du trafic dans le détroit d'Ormuz.
