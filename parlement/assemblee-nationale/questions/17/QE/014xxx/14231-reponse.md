@@ -1,0 +1,9 @@
+# Réponse à la question n° 14231
+
+- Question : [14231](14231.md) — Question n° 14231 — Loi du 9 juillet 2025
+
+## Réponse
+
+*JO du 2026-09-15, page 8486*
+
+La lutte contre la consommation détournée du protoxyde d'azote demeure une préoccupation majeure du Gouvernement. La loi n° 2025-622 du 9 juillet 2025 créant l'homicide routier et visant à lutter contre la violence routière a créé, pour les délits d'homicide routier et de blessures routières, une nouvelle circonstance aggravante lorsque les faits ont été commis alors que le conducteur a volontairement consommé des substances psychoactives. Les discussions sont en cours entre les ministères de l'intérieur, de la justice et de la santé pour que le décret établissant la liste des substances psychoactives soit pris dans les meilleurs délais. Une saisine du Conseil d'État est attendue à l'automne 2026, pour une publication espérée avant la fin d'année 2026. Par ailleurs, la loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (RIPOST), adoptée à l'initiative du Gouvernement et promulguée le 18 août, renforce encore le cadre législatif, en prévoyant une interdiction générale de détenir, transporter et céder du protoxyde d'azote. Un délit d'inhalation de protoxyde d'azote a aussi été créé, ainsi qu'un délit de conduite après avoir manifestement consommé, de manière volontaire, des substances psychoactives. Enfin, afin de faciliter la preuve de l'usage détourné de protoxyde d'azote, notamment à l'occasion de la conduite d'un véhicule, la délégation à la sécurité routière participe au financement d'une étude visant à valider scientifiquement la détection de protoxyde d'azote dans l'air expiré à partir d'un appareil de détection proche d'un éthylomètre.
