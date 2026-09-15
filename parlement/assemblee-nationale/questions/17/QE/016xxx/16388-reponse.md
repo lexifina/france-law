@@ -1,0 +1,9 @@
+# Réponse à la question n° 16388
+
+- Question : [16388](16388.md) — Question n° 16388 — Place du biopropane dans la stratégie nationale de transition énergétique
+
+## Réponse
+
+*JO du 2026-09-15, page 8567*
+
+La stratégie nationale en matière de transition énergétique privilégie l'électrification des usages, et notamment celle des logements, une approche soutenue par des technologies matures et performantes. En particulier, les pompes à chaleur bénéficient de rendements élevés, y compris dans les climats les plus rigoureux, et constituent une solution efficace et économique à l'usage pour réduire les émissions liées au chauffage. Le plan d'électrification, lancé par le Premier ministre en avril 2026, a vocation à permettre cette transition sur tous le territoire, y compris dans les territoires ruraux, via des dispositifs nouveaux ou renforcés d'aide à la transition. Cette orientation s'accompagne d'efforts continus visant à renforcer la résilience des réseaux électriques, notamment à travers le financement des aides aux collectivités pour l'électrification rurale (FACÉ). Le biopropane est principalement un coproduit issu de la production de biocarburants. Actuellement, il est majoritairement utilisé dans les raffineries et d'autres applications industrielles. Une réorientation de son usage vers le secteur du bâtiment, par le biais d'un mandat d'incorporation par exemple, pourrait avoir pour effet de déplacer la consommation d'énergies fossiles plutôt que de la réduire, et poserait la question de la répartition d'une ressource en biomasse limitée. Enfin, le biopropane présente un coût de production significatif. Une généralisation de son usage pourrait ainsi entraîner une hausse des coûts pour les ménages, y compris pour les plus précaires, sans garantir une baisse significative des émissions de CO2 de la France. Les bénéfices socio-économiques du biopropane pour le bâtiment en ruralité ne sont donc pas avérés.
