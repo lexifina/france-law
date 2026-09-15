@@ -1,0 +1,9 @@
+# Réponse à la question n° 13542
+
+- Question : [13542](13542.md) — Question n° 13542 — Délivrance et du renouvellement du permis de conduire des chauffeurs de bus
+
+## Réponse
+
+*JO du 2026-09-15, page 8484*
+
+La conduite de véhicules de transport en commun, notamment scolaires, impose une vigilance particulière compte tenu du nombre et de la vulnérabilité des passagers transportés. Le permis de catégorie D relève du groupe lourd et sa délivrance comme son renouvellement sont soumis à un contrôle médical d'aptitude, réalisé par un médecin agréé par le préfet, conformément aux articles R. 226-1 et suivants du code de la route. Afin de garantir l'indépendance de l'avis rendu, le médecin agréé ne peut examiner une personne dont il est le médecin traitant. Le cadre réglementaire protège également le secret médical : le médecin agréé n'a pas accès au dossier médical partagé (DMP) du conducteur. Avant le contrôle, le conducteur est tenu de renseigner loyalement un questionnaire médical destiné au médecin agréé, lequel procède à l'interrogatoire, à l'examen clinique et vérifie la compatibilité des traitements réguliers avec la conduite. Il peut, si nécessaire, prescrire des examens complémentaires, demander un avis médical spécialisé ou orienter l'usager vers la commission médicale. L'arrêté du 28 mars 2022 fixe la liste des affections incompatibles ou compatibles avec la conduite, avec ou sans restrictions, notamment pour le groupe lourd. À l'issue du contrôle, le médecin rend un avis d'aptitude, d'aptitude temporaire, d'aptitude avec restrictions ou d'inaptitude. L'arrêté du 3 mars 2025 a en outre renforcé les conditions d'agrément, de formation initiale et de formation continue des médecins agréés. Le Gouvernement reste attentif à toute évolution permettant de mieux prendre en compte les antécédents médicaux pertinents, dans le respect du secret médical, de la protection des données de santé et des droits des conducteurs.
