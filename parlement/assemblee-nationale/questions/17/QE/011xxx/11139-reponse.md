@@ -1,0 +1,9 @@
+# Réponse à la question n° 11139
+
+- Question : [11139](11139.md) — Question n° 11139 — Situation alarmante du service public du permis de conduire
+
+## Réponse
+
+*JO du 2026-09-15, page 8464*
+
+Conscient des difficultés d'accès aux places d'examen du permis de conduire, le Gouvernement a pris des mesures pour réduire ces délais d'attente : recrutement d'inspecteurs avec 80 postes au concours en 2026, mobilisation d'inspecteurs retraités pour renforcer ponctuellement les effectifs, lancement fin 2025 d'une mission de l'IGA ainsi que d'une task force regroupant 15 préfectures dont les délais étaient particulièrement importants. Sur la base du travail de l'IGA, un plan d'action structurel va progressivement être mis en place à partir de cette rentrée 2026, afin de faire baisser durablement les délais, sur tout le territoire national. Dans votre département, le délai médian annualisé pour le mois de juillet 2026 est de 84 jours. Les autres indicateurs relatifs au permis de conduire dans l'Hérault sont également suivis attentivement. Le taux de réussite annualisé s'établit à 56,06 %, soit un niveau inférieur au taux moyen national (59,80 %) et régional (58,91 %). L'engagement de travaux d'harmonisation des taux de réussite menés localement devrait permettre de fluidifier sensiblement le passage des épreuves. Le ratio réel formateur, quant à lui, s'élève à 5,6. Cette statistique reste sensiblement inférieure à la moyenne régionale (7,6) et nationale (6,3). Le Gouvernement demeure pleinement mobilisé pour améliorer l'accès à l'examen du permis de conduire et réduire les délais d'attente, en tenant compte des spécificités territoriales. La mise en place de mesures du plan structurel, affinées localement par la délégation à la sécurité routière et les services de la Préfecture, pourra améliorer la situation héraultaise.
