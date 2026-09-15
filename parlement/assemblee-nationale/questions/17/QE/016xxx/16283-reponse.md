@@ -1,0 +1,9 @@
+# Réponse à la question n° 16283
+
+- Question : [16283](16283.md) — Question n° 16283 — Soutien de la France au peuple albanais
+
+## Réponse
+
+*JO du 2026-09-15, page 8438*
+
+La France suit avec attention les manifestations qui ont débuté il y a plusieurs semaines en Albanie, en réaction au projet d'investissement touristique dans la zone côtière de Zvërnec. Si, s'agissant d'une affaire intérieure, il n'appartient pas à la France de la commenter, la France rappelle que l'exercice du droit de manifester est une composante essentielle du fonctionnement de la vie d'une démocratie. Ce droit inaliénable doit s'exercer pacifiquement dans le respect du cadre légal. La mise en œuvre d'un dialogue politique inclusif doit permettre l'existence d'un débat démocratique apaisé, excluant toute violence et auquel chacun doit pouvoir participer, en toute responsabilité. La France salue la qualité et la densité de la relation qu'elle entretient avec l'Albanie, marquée notamment par des visites bilatérales de haut niveau (visites du Président de la République en Albanie en octobre 2023 et mai 2025, visite du Premier ministre albanais en avril 2024 et juin 2026). Elle soutient pleinement la perspective européenne de l'Albanie sur laquelle les autorités albanaises sont fortement mobilisées et souligne sa volonté de continuer à accompagner ce pays dans la mise en œuvre des réformes nécessaires à son intégration à l'Union européenne. Elle souligne que ce processus exigeant, ainsi que les réformes mises en œuvre, permettent de renforcer l'Etat de droit, la lutte contre la corruption et la préservation de l'environnement. L'Union européenne, dans le cadre des négociations d'adhésion exerce un suivi attentif de ces questions et du respect de l'acquis communautaire, y compris s'agissant de la dimension environnementale dans le cadre du chapitre 27.
