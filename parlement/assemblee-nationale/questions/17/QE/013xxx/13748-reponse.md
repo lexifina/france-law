@@ -1,0 +1,9 @@
+# Réponse à la question n° 13748
+
+- Question : [13748](13748.md) — Question n° 13748 — Dématérialisation des formations en langue française délivrées aux migrants
+
+## Réponse
+
+*JO du 2026-09-15, page 8485*
+
+L'offre de l'OFII en matière de formation linguistique a été élargie à tous les signataires du contrat d'intégration républicaine qui ne maîtrisent pas le niveau A2. Depuis juillet 2025, l'OFII a proposé une formation linguistique à près de 60 % des signataires, contre 45 % précédemment. S'agissant des publics les plus fragiles, ceux-ci continuent de bénéficier d'une formation en présentiel de 600 heures qui concerne désormais 17 % des signataires contre 8,5 % précédemment. Les signataires du CIR les plus autonomes sont orientés vers une offre d'apprentissage du français en ligne, sur la plateforme FRELLO. L'OFII a fait opérer des développements de plusieurs fonctionnalités pour améliorer l'accessibilité de l'outil FRELLO, parmi lesquelles la possibilité d'une inscription via un SMS et la traduction de la page d'accueil (12 langues sont disponibles et 12 autres à venir). Plusieurs améliorations d'ordre pédagogique ont également été mises en œuvre : pour offrir plus d'entraînement à l'oral, les apprenants peuvent enregistrer des messages vocaux, qui sont ensuite retranscrits et corrigés. Tous les exercices écrits et oraux sont immédiatement corrigés grâce à l'intelligence artificielle. Enfin, trois nouveaux programmes de formation linguistique à visée professionnelle ont été mis en ligne (transports et logistique, hygiène et propreté et services à la personne). Afin d'accompagner ce changement, l'OFII met en place un entretien de suivi à 6 mois qui permet d'identifier les apprenants en difficultés et de les réorienter si besoin vers un programme en présentiel. Les moyens alloués à l'OFII en 2026 permettnt de répondre à cet enjeu.
