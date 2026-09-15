@@ -1,0 +1,9 @@
+# Réponse à la question n° 15349
+
+- Question : [15349](15349.md) — Question n° 15349 — Cambriolages des locaux associatifs
+
+## Réponse
+
+*JO du 2026-09-15, page 8493*
+
+À ce jour, seules les données relatives aux cambriolages de logements sont fiabilisées par le service statistique ministériel de la sécurité intérieure (SSMSI), dont le travail répond aux plus hauts standards du service statistique public. Il peut à cet égard être noté que les données du SSMSI font apparaître une baisse significative du nombre de cambriolages de logements depuis 2016, année au cours de laquelle 248 900 avaient été enregistrés par la police et la gendarmerie nationales, contre 212 000 en 2025 (données provisoires). Les données relatives aux autres catégories de cambriolages (cambriolages de locaux industriels, commerciaux, financiers et cambriolages d'autres lieux) ne sont en revanche pas fiabilisées par le SSMSI et ne relèvent donc pas de la statistique publique institutionnelle. Elles ne sont comptabilisées que dans « l'état 4001 », outil standardisé de suivi statistique mis en place en 1972 par l'ancienne direction centrale de la police judiciaire. Il comptabilise chaque mois les infractions criminelles et délictuelles enregistrées par les forces de sécurité intérieure de l'État, classées en 107 catégories nommées index. Toutefois, aucun des index du « 4001 » ne vise en propre les locaux associatifs. La sécurité des locaux associatifs relève, en premier lieu, des mesures de sécurité et de prévention que propriétaires ou locataires peuvent mettre en œuvre. Il doit à cet égard être rappelé que les acteurs de la chaîne de prévention situationnelle de la police nationale et de la gendarmerie nationale (correspondants et référents sûreté) sont à la disposition des associations pour effectuer des consultations, réaliser des études de sûreté des installations bâtimentaires et offrir des conseils en matière de prévention technique de la malveillance.
