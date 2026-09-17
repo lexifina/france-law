@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241202615
+
+- Question : [SEQ241202615](seq241202615.md) — Interprétation de la modification de l'arrêté Certibiocide
+
+## Réponse
+
+*Transition écologique, JO du 2026-09-17, page 4476*
+
+L'arrêté, dans sa rédaction issue de l'arrêté du 5 septembre 2025, prévoit une dérogation à l'obligation de détenir le Certibiocide « désinfectants » pour les professionnels de santé listés dans la quatrième partie du code de la santé publique, sous réserve qu'ils justifient d'une formation continue, a minima quinquennale, portant notamment sur les risques chimiques, l'utilisation des produits biocides désinfectants et les protections individuelles ou collectives. Les pédicures-podologues, qui relèvent de la quatrième partie du code de la santé publique, sont bien concernés par cette dérogation. Le Gouvernement tient à disposition une notice explicative de l'arrêté afin que les professionnels concernés puissent examiner les catégories dont ils sont susceptibles de relever. La dernière mise à jour de la notice de mai 2026 précise expressément les pédicures-podologues parmi les professionnels de santé concernés (Annexe I : Quatrième partie du Code de la santé publique : Professionnels de santé concernés par la dérogation mentionnée au paragraphe 5.e). Ainsi, les pédicures-podologues, y compris lorsqu'ils exercent en cabinet libéral, n'ont pas à détenir le Certibiocide « désinfectants » pour acheter ou utiliser des produits désinfectants dans le cadre strict de leur activité professionnelle, dès lors qu'ils remplissent les conditions de formation prévues par l'arrêté. Le Gouvernement veille à accompagner les professionnels et à leur fournir une information claire et accessible, afin de prévenir les divergences d'interprétation et de garantir une application homogène du dispositif.
