@@ -1,0 +1,44 @@
+# Délibération n° 2026-096 du 17 septembre 2026 portant élection du vice-président délégué de la Commission nationale de l’informatique et des libertés
+
+- Nature : Deliberation
+- Type : Disposition interne CNIL
+- Numéro : 2026-096
+- Date : 2026-09-17
+- Publication : 2026-09-23
+- NOR : CNIS2624891X
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000054879425
+
+La Commission nationale de l'informatique et des libertés,
+
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment son article 9 ;
+
+Vu le décret n° 2019-536 du 29 mai 2019 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, notamment son article 4 ;
+
+Vu la délibération n° 2013-175 du 4 juillet 2013 modifiée portant adoption du règlement intérieur de la Commission nationale de l'informatique et des libertés, notamment son article 16 ;
+
+Après avoir procédé au vote en présence de M. Damien MILIC, Commissaire du gouvernement ;
+
+Constate :
+
+Article 1er
+
+Mme Laurence FRANCESCHINI est élue vice-présidente déléguée de la Commission.
+
+Article 2
+
+Le bureau de la Commission nationale de l’informatique et des libertés est ainsi composé de :
+
+Mme Marie-Laure DENIS, présidente,
+
+Mme Laurence FRANCESCHINI, vice-présidente déléguée,
+
+M. Fabien TARISSAN, vice-président.
+
+Article 3
+
+La présente délibération sera publiée au Journal officiel de la République française.
+
+La Présidente
+
+Marie-Laure DENIS
