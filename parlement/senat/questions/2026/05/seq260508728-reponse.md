@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260508728
+
+- Question : [SEQ260508728](seq260508728.md) — Recrudescence des escroqueries reposant sur l'utilisation frauduleuse des QR codes, communément désignées sous le terme de « quishing »
+
+## Réponse
+
+*Intérieur , JO du 2026-09-17, page 4451*
+
+Face à la recrudescence des escroqueries par codes QR (« quishing »), le ministère de l'intérieur renforce la prévention, l'accompagnement des victimes et les capacités d'enquête. En 2025, les brigades numériques de la gendarmerie nationale ont traité 214 913 signalements, dont 5 725 liés à la cybermalveillance, ayant conduit à 3 824 procédures judiciaires. En complément, la plateforme PERCEVAL a enregistré près de 207 000 signalements de fraudes bancaires en 2025. De son côté, la direction nationale de la police judiciaire (DNPJ) de la police nationale a reçu plus de 68 000 signalements d'escroqueries et extorsions sur la plateforme PHAROS. Les victimes peuvent également recourir à la plateforme Thésée de la DNPJ, et aux applications communes police-gendarmerie M@Sécurité ou 17Cyber. La gendarmerie mobilise près de 10 000 cyber-gendarmes spécialisés, dont plus de 1 570 enquêteurs sous pseudonyme et 424 spécialistes cryptoactifs, tandis que la direction générale de la police nationale s'appuie sur plus de 18 000 agents formés aux investigations numériques. Le commandement du ministère de l'intérieur dans le cyberespace, créé fin 2023, est garant de la cohérence des actions de prévention, de l'anticipation et de la stratégie de lutte contre la cybercriminalité. Son haut niveau de compétences permet d'appuyer efficacement les différentes unités et services du ministère. Sur le plan opérationnel, le ministère de l'intérieur s'appuie notamment sur l'office anti-cybercriminalité (OFAC), service à dimension interministérielle rattaché à la DNPJ et sur l'unité nationale cyber et ses antennes dans chaque région pour la gendarmerie.
