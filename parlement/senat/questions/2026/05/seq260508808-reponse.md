@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260508808
+
+- Question : [SEQ260508808](seq260508808.md) — Application de la décision du Conseil d'État relative aux dysfonctionnements de la plateforme numérique des titres de séjour
+
+## Réponse
+
+*Intérieur , JO du 2026-09-17, page 4461*
+
+Dans un contexte d'augmentation des délais de traitement, le ministre de l'intérieur a rappelé aux préfets, par une instruction du 5 avril 2026 relative au renforcement de la stratégie en matière de réduction des délais de traitement des demandes de titre de séjour et de lutte contre les ruptures de droits, la priorité que constitue la lutte contre les ruptures de droits. Un plan d'action a accompagné cette instruction. Sur le plan numérique, plusieurs mesures, dont les premiers effets positifs ont été constatés, ont été mises en oeuvre le 4 mai 2026 : les attestations de prolongation d'instruction sont désormais automatiquement renouvelées et la durée de validité des empreintes biométriques en matière de délivrance de titre de séjour a été portée de 5 à 10 ans, limitant ainsi les déplacements des usagers. En parallèle, le ministère de l'intérieur poursuit les travaux visant le décommissionnement d'AGDREF, application devenue obsolète, la coexistence de deux systèmes d'information (AGDREF et ANEF) constituant aujourd'hui la première source d'anomalies du téléservice qu'est l'ANEF, ainsi appelé à gagner en robustesse et en performance dans les prochains mois. Les dispositifs de formation, l'accompagnement et le pilotage du réseau des préfectures sont par ailleurs appelés à être renforcés et le parcours « usagers » mieux structuré. Dans l'attente que ces mesures produisent tous leurs effets, des moyens exceptionnels (500 ETPT) ont été déployés à compter d'avril 2026 dans les services chargés du séjour des étrangers et des heures supplémentaires sont financées dans le cadre des opérations massives de déstockage que les préfectures ont été invitées à organiser.
