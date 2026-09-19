@@ -24,10 +24,6 @@ CSAPE Algérie ORAN.
 
 CSAPE Allemagne BERLIN.
 
-CSAPE Allemagne FRANCFORT.
-
-CSAPE Allemagne MUNICH.
-
 CSAPE Angola LUANDA.
 
 CSAPE Arabie Saoudite RIYAD.
@@ -62,8 +58,6 @@ CSAPE Brésil BRASILIA.
 
 CSAPE Bulgarie SOFIA.
 
-CSAPE Burkina Faso OUAGADOUGOU.
-
 CSAPE Burundi BUJUMBURA.
 
 CSAPE Cambodge PHNOM PENH.
@@ -87,8 +81,6 @@ CSAPE Chine HONG KONG.
 CSAPE Chine PEKIN.
 
 CSAPE Chine SHANGHAI.
-
-CSAPE Chine SHENYANG.
 
 CSAPE Chine WUHAN.
 
@@ -296,6 +288,10 @@ CSAPE Vietnam HANOI.
 
 CSAPE Vietnam HO CHI MINH-VILLE.
 
+CSAPE Guatemala GUATEMALA.
+
+CSAPE Sainte-Lucie CASTRIES.
+
 II. - Formation spécialisée de site
 
 Formation spécialisée de site compétente à l'égard des services du ministère de l'Europe et des affaires étrangères implantés à Nantes et à l'égard de la sous-direction des visas du ministère de l'intérieur, rattachée au comité social d'administration centrale.
@@ -330,10 +326,6 @@ CCL Algérie ORAN.
 
 CCL Allemagne BERLIN.
 
-CCL Allemagne FRANCFORT.
-
-CCL Allemagne MUNICH.
-
 CCL Angola LUANDA.
 
 CCL Arabie Saoudite RIYAD.
@@ -343,8 +335,6 @@ CCL Argentine BUENOS AIRES.
 CCL Arménie EREVAN.
 
 CCL Australie CANBERRA.
-
-CCL Australie SYDNEY.
 
 CCL Autriche VIENNE.
 
@@ -372,8 +362,6 @@ CCL Brésil SAO PAULO.
 
 CCL Bulgarie SOFIA.
 
-CCL Burkina Faso OUAGADOUGOU.
-
 CCL Burundi BUJUMBURA.
 
 CCL Cambodge PHNOM PENH.
@@ -397,8 +385,6 @@ CCL Chine HONG KONG.
 CCL Chine PEKIN.
 
 CCL Chine SHANGHAI.
-
-CCL CHINE SHENYANG.
 
 CCL Chine WUHAN.
 
@@ -613,3 +599,9 @@ CCL Venezuela CARACAS.
 CCL Vietnam HANOI.
 
 CCL Vietnam HO CHI MINH-VILLE.
+
+CCL Royaume du Bahreïn MANAMA.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 8 septembre 2026 (NOR : EAEA2623920A), ces dispositions, dans leur rédaction issue de l'article 1er de l'arrêté précité, sont applicables pour les élections professionnelles fixées par l'arrêté du 2 juillet 2025 (NOR : APFF2513659A) et par l'article 1er de l'arrêté du 27 mai 2026 (NOR : EAEA2614233A).
