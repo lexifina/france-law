@@ -1,7 +1,5 @@
 # Article Annexe
 
-ANNEXE
-
 Scrutins |
 
 Effectifs totaux |
@@ -375,3 +373,15 @@ CSA Office national d'indemnisation des victimes d'accidents médicaux, des affe
 23 |
 
 17,83 % |
+
+CSA Institut national du travail, de l'emploi et de la formation professionnelle |
+
+102 |
+
+77 |
+
+75,49 % |
+
+25 |
+
+24,51 % |
