@@ -124,7 +124,9 @@ D.- Emplois relevant du groupe 2
 
 24° Conseiller du Gouvernement pour la défense ;
 
-25° Chargé de mission auprès du major général de l'armée de terre.
+25° Chargé de mission auprès du major général de l'armée de terre ;
+
+26° Chargé de mission auprès du major général des armées.
 
 E.- Emplois relevant du groupe 3
 
@@ -236,91 +238,91 @@ E.- Emplois relevant du groupe 3
 
 54° Directeur des systèmes d'information et du numérique en santé ;
 
-55° Directeur de l'Institution nationale des invalides ;
+55° Directeur central adjoint du service du commissariat des armées ;
 
-56° Directeur central adjoint du service du commissariat des armées ;
+56° Officier général "directeur de l'emploi et des activités" de la direction centrale du service du commissariat des armées ;
 
-57° Officier général "directeur de l'emploi et des activités" de la direction centrale du service du commissariat des armées ;
+57° Officier général "directeur des métiers et des risques" de la direction centrale du service du commissariat des armées ;
 
-58° Officier général "directeur des métiers et des risques" de la direction centrale du service du commissariat des armées ;
+58° Directeur central adjoint du service d'infrastructure de la défense ;
 
-59° Directeur central adjoint du service d'infrastructure de la défense ;
+59° Chargé des fonctions de chef du service "gouvernance et stratégie" de la direction centrale du commissariat au numérique de défense ;
 
-60° Chargé des fonctions de chef du service "gouvernance et stratégie" de la direction centrale du commissariat au numérique de défense ;
+60° Chef de la division "infrastructure et énergie opérationnelle" de l'état-major des armées ;
 
-61° Chef de la division "infrastructure et énergie opérationnelle" de l'état-major des armées ;
+61° Officier général, directeur de projet "défense et sécurité" auprès du sous-chef d'état-major "opérations" de l'état-major des armées ;
 
-62° Officier général, directeur de projet "défense et sécurité" auprès du sous-chef d'état-major "opérations" de l'état-major des armées ;
+62° Officier général, directeur des projets "coopération capacitaire internationale", "cessions" et "innovation" auprès du sous-chef d'état-major "plans" de l'état-major des armées ;
 
-63° Officier général, directeur des projets "coopération capacitaire internationale", "cessions" et "innovation" auprès du sous-chef d'état-major "plans" de l'état-major des armées ;
+63° Officier général, directeur de projet "transformation" auprès du sous-chef d'état-major "appui-environnement" de l'état-major des armées ;
 
-64° Officier général, directeur de projet "transformation" auprès du sous-chef d'état-major "appui-environnement" de l'état-major des armées ;
+64° Officier adjoint du major général des armées et chef de la division "études, stratégie et management général" de l'état-major des armées ;
 
-65° Officier adjoint du major général des armées et chef de la division "études, stratégie et management général" de l'état-major des armées ;
+65° Chef de la division "forces nucléaires" à l'état-major des armées ;
 
-66° Chef de la division "forces nucléaires" à l'état-major des armées ;
+66° Chef de la division "plans, programmation et évaluation" de l'état-major des armées ;
 
-67° Chef de la division "plans, programmation et évaluation" de l'état-major des armées ;
+67° Chef de la division "cohérence capacitaire" de l'état-major des armées ;
 
-68° Chef de la division "cohérence capacitaire" de l'état-major des armées ;
+68° Chargé de mission auprès du major général des armées ;
 
-69° Chargé de mission auprès du major général des armées ;
+69° Chef de la division "emplois des forces-protection" de l'état-major des armées ;
 
-70° Chef de la division "emplois des forces-protection" de l'état-major des armées ;
+70° (Transféré) ;
 
-71° (Transféré) ;
+71° Chef de la division "organisation ressources humaines" de l'état-major des armées ;
 
-72° Chef de la division "organisation ressources humaines" de l'état-major des armées ;
+72° Directeur du service interarmées des munitions ;
 
-73° Directeur du service interarmées des munitions ;
+73° Officier général "relations internationales militaires" de l'état-major des armées ;
 
-74° Officier général "relations internationales militaires" de l'état-major des armées ;
+74° Chef de cabinet du chef d'état-major des armées ;
 
-75° Chef de cabinet du chef d'état-major des armées ;
+75° Général commandant en second la force et les opérations terrestres ;
 
-76° Général commandant en second la force et les opérations terrestres ;
+76° Officier général de zone de défense et de sécurité Nord et Gouverneur militaire de Lille ;
 
-77° Officier général de zone de défense et de sécurité Nord et Gouverneur militaire de Lille ;
+77° Chef d'état-major de zone de défense et de sécurité de Paris et commandant de la base de défense d'Ile-de-France ;
 
-78° Chef d'état-major de zone de défense et de sécurité de Paris et commandant de la base de défense d'Ile-de-France ;
+78° Directeur du centre interarmées de concepts, de doctrines et d'expérimentations ;
 
-79° Directeur du centre interarmées de concepts, de doctrines et d'expérimentations ;
+79° Commandant du centre interarmées de coordination du soutien ;
 
-80° Commandant du centre interarmées de coordination du soutien ;
+80° Officier général "directeur des ressources humaines" de la direction centrale du service du commissariat des armées ;
 
-81° Officier général "directeur des ressources humaines" de la direction centrale du service du commissariat des armées ;
+81° Commandant du centre du soutien des opérations et des acheminements ;
 
-82° Commandant du centre du soutien des opérations et des acheminements ;
+82° Officier général "numérique" et chef de la division "stratégie numérique des armées" de l'état-major des armées ;
 
-83° Officier général "numérique" et chef de la division "stratégie numérique des armées" de l'état-major des armées ;
+83° Chargé de mission auprès du major général de l'armée de terre ;
 
-84° Chargé de mission auprès du major général de l'armée de terre ;
+84° Directeur de la protection des installations, moyens et activités de la défense ;
 
-85° Directeur de la protection des installations, moyens et activités de la défense ;
+85° Adjoint au directeur du renseignement militaire ;
 
-86° Adjoint au directeur du renseignement militaire ;
+86° Officier général, commandant les services des officiers généraux ;
 
-87° Officier général, commandant les services des officiers généraux ;
+87° Officier général "directeur du conseil juridique et des droits individuels" de la direction centrale du service du commissariat des armées ;
 
-88° Officier général "directeur du conseil juridique et des droits individuels" de la direction centrale du service du commissariat des armées ;
+88° Général adjoint "engagements" à l'officier général de zone de défense et de sécurité Sud-Ouest et commandant de zone terre Sud-Ouest ;
 
-89° Général adjoint "engagements" à l'officier général de zone de défense et de sécurité Sud-Ouest et commandant de zone terre Sud-Ouest ;
+89° Chef d'état-major de la direction du renseignement militaire ;
 
-90° Chef d'état-major de la direction du renseignement militaire ;
+90° (Transféré) ;
 
-92. Chargé des fonctions de chef du service "commandement numérique interarmées" de la direction centrale du commissariat au numérique de défense ;
+91° Chargé des fonctions de chef du service "commandement numérique interarmées" de la direction centrale du commissariat au numérique de défense ;
 
-93. Chargé de projet "simplification du fonctionnement de l'armée de terre" auprès de l'inspecteur de l'armée de terre ;
+92° Chargé de projet "simplification du fonctionnement de l'armée de terre" auprès de l'inspecteur de l'armée de terre ;
 
-94. Officier général en charge du contrôle et de l'emploi des moyens militaires du service action de la direction générale de la sécurité extérieure ;
+93° Officier général en charge du contrôle et de l'emploi des moyens militaires du service action de la direction générale de la sécurité extérieure ;
 
-95. Chargé des fonctions de chef du service des affaires de sécurité internationale à la direction générale des relations internationales et de la stratégie du ministère de la défense ;
+94° Chargé des fonctions de chef du service des affaires de sécurité internationale à la direction générale des relations internationales et de la stratégie du ministère de la défense ;
 
-96. Commandant de la force aéromaritime de réaction rapide et adjoint au commandant de la force d'action navale pour la préparation opérationnelle des états-majors ;
+95° Commandant de la force aéromaritime de réaction rapide et adjoint au commandant de la force d'action navale pour la préparation opérationnelle des états-majors ;
 
-97. (Transféré) ;
+96° (Transféré) ;
 
-98. Officier général, directeur de projet "stratégie infrastructures" auprès du sous-chef d'état-major "appui-environnement" de l'état-major des armées.
+97° Officier général, directeur de projet "stratégie infrastructures" auprès du sous-chef d'état-major "appui-environnement" de l'état-major des armées.
 
 F.- Emplois relevant du groupe 4
 
@@ -534,11 +536,11 @@ F.- Emplois relevant du groupe 4
 
 105° Directeur du centre interarmées du soutien "métiers et contrôle interne" ;
 
-106° Chargé de mission auprès du chef d'état-major des armées ;
+106° Inspecteur à l'inspection de l'armée de terre ;
 
 107° Chargé des fonctions de sous-directeur "études et politiques des ressources humaines" de la direction centrale du service de santé des armées ;
 
-108° Inspecteur à l'inspection du service de santé des armées ;
+108° Chef de la division Euratlantique" à l'état-major des armées ;
 
 109° Officier général "haut encadrement militaire" de l'état-major des armées ;
 
@@ -582,7 +584,7 @@ G.- Emplois relevant du groupe 5
 
 11° (Transféré) ;
 
-12° Chef de la division "Euratlantique" à l'état-major des armées ;
+12° (Transféré) ;
 
 13° Chef de la division "coopération bilatérale Sud" à l'état-major des armées ;
 
@@ -798,4 +800,4 @@ G.- Emplois relevant du groupe 5
 
 NOTA :
 
-Conformément à l’article 4 de l’arrêté du 24 juillet 2026 (NOR : ARMH2620547A), ces dispositions, dans leur rédaction résultant de l’arrêté précité, sont applicables aux rémunérations versées à compter du mois d'août 2026.
+Conformément à l’article 4 de l’arrêté du 16 septembre 2026 (NOR : ARMH2624724A), ces dispositions, dans leur rédaction résultant de l’arrêté précité, sont applicables aux rémunérations versées à compter du mois de septembre 2026.
