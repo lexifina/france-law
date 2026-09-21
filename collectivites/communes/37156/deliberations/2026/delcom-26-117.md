@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_26_117 — DELIBERATION 2026-117 ADMISSIONS EN NON-VALEURS ET CREANCES ETEINTES
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2026-09-21
+- Matière : 7.10 Finances locales/Divers
+- Objet : DELIBERATION 2026-117 ADMISSIONS EN NON-VALEURS ET CREANCES ETEINTES
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2026/91018/389f00e54ac0b7e24a0bc4f55257e25bb41277f34e4da7cd96099b1f3ca83de6.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
