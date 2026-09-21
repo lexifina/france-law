@@ -1,69 +1,87 @@
 # Article ANNEXE II
 
-A. - ÉPREUVES DU SECOND CONCOURS INTERNE DE RECRUTEMENT DE PROFESSEURS DES ÉCOLES
+MODÈLE DE FICHE INDIVIDUELLE DE RENSEIGNEMENT
 
-I. - Epreuves d'admissibilité
+ENTRETIEN AVEC LE JURY
 
-I. - 1. Epreuve écrite disciplinaire de français.
+(CET ENTRETIEN INTERVIENT PENDANT LES ÉPREUVES D'ADMISSION)
 
-Première épreuve d'admissibilité du concours externe prévue au A de l'annexe I.
+SESSION 20XX
 
-I. - 2. Epreuve écrite disciplinaire de mathématiques.
+IDENTIFICATION DU CANDIDAT |
 
-Deuxième épreuve d'admissibilité du concours externe prévue au A de l'annexe I.
+Nom de famille I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I |
 
-I. - 3. Epreuve écrite d'application.
+Nom d'usage I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I |
 
-Troisième épreuve d'admissibilité du concours externe prévue au A de l'annexe I.
+Prénom I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I |
 
-II. - Epreuves d'admission
+ETUDES ET FORMATION INITIALE |
 
-II. - 1. Epreuve de leçon.
+Diplômes/titres/qualifications |
 
-Première épreuve d'admission du concours externe prévue au A de l'annexe I.
+Date d'obtention |
 
-II. - 2. Epreuve d'entretien.
+|
 
-Deuxième épreuve d'admission du concours externe prévue au A de l'annexe I.
+|
 
-III. - Epreuve facultative
+|
 
-Epreuve orale facultative de langue vivante étrangère : épreuve facultative prévue au A de l'annexe I.
+|
 
-B. - ÉPREUVES DU SECOND CONCOURS INTERNE SPÉCIAL DE RECRUTEMENT DE PROFESSEURS DES ÉCOLES CHARGÉS D'UN ENSEIGNEMENT DE ET EN LANGUE RÉGIONALE
+|
 
-I. - Epreuves d'admissibilité
+|
 
-I. - 1. Epreuve écrite disciplinaire de français.
+FORMATIONS - STAGES - EXPERIENCES PROFESSIONNELLES |
 
-Première épreuve d'admissibilité du concours externe prévue au A de l'annexe I.
+Intitulé - organisme - activité |
 
-I. - 2. Epreuve écrite disciplinaire de mathématiques.
+Durée |
 
-Deuxième épreuve d'admissibilité du concours externe prévue au A de l'annexe I.
+|
 
-I. - 3. Epreuve écrite d'application.
+|
 
-Troisième épreuve d'admissibilité du concours externe prévue au A de l'annexe I.
+|
 
-I. - 4. Epreuve écrite en langue régionale.
+|
 
-Quatrième épreuve d'admissibilité du concours externe spécial prévue au B de l'annexe I.
+|
 
-II. - Epreuves d'admission
+|
 
-II. - 1 Epreuve de leçon.
+Cadre reservé aux titulaires d'un doctorat candidats au concours externe spécial |
 
-Première épreuve d'admission du concours externe prévue au A de l'annexe I.
+Intitulé du doctorat |
 
-II. - 2 Epreuve d'entretien.
+Date d'obtention |
 
-Deuxième épreuve d'admission du concours externe prévue au A de l'annexe I.
+Section du conseil national des universités |
 
-II. - 3. Epreuve orale de langue régionale.
+|
 
-Troisième épreuve d'admission du concours externe spécial prévue au B de l'annexe I.
+|
 
-III. - Epreuve facultative
+|
 
-Epreuve orale facultative de langue vivante étrangère : épreuve facultative prévue au A de l'annexe I.
+|
+
+Notice explicative
+
+Le jury dispose de cette fiche de renseignement qui n'est pas notée.
+
+ETUDES ET FORMATION INITIALE
+
+Indiquer les diplômes, titres ou qualifications dont vous êtes titulaires.
+
+FORMATIONS - STAGES - EXPERIENCES PROFESSIONNELLES
+
+Indiquer les stages effectués dans le cadre d'un cursus d'études et/ou les formations suivies dans un cadre professionnel/personnel et/ou votre expérience professionnelle (emploi salarié, emploi étudiant, bénévolat, service civique, emploi saisonnier …).
+
+CADRE RERSERVÉ AUX TITULAIRES D'UN DOCTORAT CANDIDATS AU CONCOURS EXTERNE SPÉCIAL
+
+Ce concours, distinct du concours externe spécial pour le recrutement de professeurs des écoles chargés d'un enseignement de et en langue régionale, intervient en application de l'article L. 412-1 du code de la recherche et constitue une voie spéciale de recrutement pour les titulaires d'un doctorat.
+
+Le candidat titulaire de ce diplôme présente dans cette rubrique les travaux réalisés ou ceux auxquels il a pris part dans le cadre de sa formation à la recherche et par la recherche sanctionnée par la délivrance du doctorat (Arial 10, maximum 400 mots).
