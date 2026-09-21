@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_26_129 — DELIBERATION 2026-129 FIXATION TARIFS BUDGET ANNEXE ASSAINISSEMENT
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2026-09-21
+- Matière : 7.10 Finances locales/Divers
+- Objet : DELIBERATION 2026-129 FIXATION TARIFS BUDGET ANNEXE ASSAINISSEMENT
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2026/91031/c51e26ad3e77742595b0d331c2682edfff728bf1862c9ad43447ea19fde3b735.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
