@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_26_126 — DELIBERATION 2026-126 ADOPTION CONVENTION MAD ANIMATEURS PAUSE MERIDIENNE
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2026-09-21
+- Matière : 1.3 Commande Publique/Conventions de Mandat
+- Objet : DELIBERATION 2026-126 ADOPTION CONVENTION MAD ANIMATEURS PAUSE MERIDIENNE
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2026/91026/bdd4ee1b9b72a2d530d7cc9944b2661d98c16880f2de08aee6f36a0ef832ff67.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
