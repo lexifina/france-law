@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_26_120 — DELIBERATION 2026-120 DCRH - REVERSEMENT AUX AGENTS DES AIDES ACCORDEES PAR LE FIPHFP
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2026-09-21
+- Matière : 4.1 Fonction publique/Personnel titulaires et stagiaires de la F.P.T.
+- Objet : DELIBERATION 2026-120 DCRH - REVERSEMENT AUX AGENTS DES AIDES ACCORDEES PAR LE FIPHFP
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2026/91021/104258d5dae6e4d1490c9b5c71188112ed47ff2b4277667a480082c76100f982.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
