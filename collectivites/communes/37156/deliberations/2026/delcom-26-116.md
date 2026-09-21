@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_26_116 — DELIBERATION 2026-116 SUBVENTION AUX ASSOCIATIONS COMPLEMENT
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2026-09-21
+- Matière : 7.5 Finances locales/Subventions
+- Objet : DELIBERATION 2026-116 SUBVENTION AUX ASSOCIATIONS COMPLEMENT
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2026/91016/e5da49a692ac3568c46e573976ce36c539345c691fd99a93a0889dc75a36977f.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
