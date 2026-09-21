@@ -1,7 +1,5 @@
 # Article ANNEXE A
 
-ANNEXE A
-
 Liste des micro-organismes identifiés comme présentant les risques les plus élevés pour la santé publique
 
 Cette annexe comprend :
@@ -61,6 +59,8 @@ De la famille des Hantaviridae, du genre Orthohantavirus :
 De la famille des Nairoviridae, du genre Orthonairovirus :
 
 - de l'espèce Crimean-Congo hemorrhagic fever orthonairovirus.
+
+- de l'espèce Orthonairovirus parahaemorrhagiae [dont le Aigai virus].
 
 De la famille des Orthomyxoviridae, du genre Alphainfluenzavirus :
 
