@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_26_124 — DELIBERATION 2026-124 ADOPTION AVENANT 2 CONVENTION JAZZ EN TOURAINE
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2026-09-21
+- Matière : 7.5 Finances locales/Subventions
+- Objet : DELIBERATION 2026-124 ADOPTION AVENANT 2 CONVENTION JAZZ EN TOURAINE
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2026/91024/a5c4df6717ffaed099a2f08416f582a266b29d9d1dec45148df9c81c4016190e.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
