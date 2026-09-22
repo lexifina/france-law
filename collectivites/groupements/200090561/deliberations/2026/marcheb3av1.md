@@ -1,0 +1,9 @@
+# CC VIERZON-SOLOGNE-BERRY : délibération MARCHEB3AV1 — REHABILITATION DU CLOS ET COUVERT 7 DERNIERES NEFS DU B3 - AVENANT N° 1 - LOT N° 2 - CHARPENTE METALLIQUE - SERRURERIE
+
+- Collectivité : CC VIERZON-SOLOGNE-BERRY
+- SIREN : 200090561
+- Date : 2026-09-22
+- Matière : 1.1 Commande Publique/Marches publics
+- Objet : REHABILITATION DU CLOS ET COUVERT 7 DERNIERES NEFS DU B3 - AVENANT N° 1 - LOT N° 2 - CHARPENTE METALLIQUE - SERRURERIE
+- Acte publié : https://publication-actes.fr/OpenData/200090561/Deliberation/2026/90709/ca880931bb55f2a8057f52677aafa79bb14df5c5a6b306c2e331c0e634312abc.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
