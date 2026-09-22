@@ -1,0 +1,9 @@
+# Réponse à la question n° 3770
+
+- Question : [3770](3770.md) — Question n° 3770 — Idéologisation de l'IA au détriment de la rationalité scientifique.
+
+## Réponse
+
+*JO du 2026-09-22, page 8749*
+
+Le ministère de l'enseignement supérieur, de la recherche et de l'espace est pleinement engagé pour mettre en application les recommandations émises par l'office parlementaire d'évaluation des choix scientifiques et technologiques (OPECST) concernant les développements de l'intelligence artificielle (IA), notamment en matière de transparence, de souveraineté et d'impacts sociaux et environnementaux. Concernant le projet Lucie, l'architecture du modèle et les données d'entraînement sont entièrement publics. Son développement est réalisé par un consortium français réunissant entreprises et des acteurs académiques nationaux, suivant une approche frugale et respectueuse de l'environnement. En mettant l'accent sur la langue française, le projet Lucie soutient également la préservation de la diversité culturelle et linguistique dans le domaine de l'IA. Plus largement, la compréhension des biais potentiels dans les systèmes d'IA comme les grands modèles de langage (LLM) constitue une thématique de recherche importante pour lutter contre les discriminations. Il convient néanmoins de souligner qu'un modèle de langage n'est pas une suite d'instructions logiques codées par un programmeur, mais le résultat d'un processus d'entraînement probabiliste au cours duquel le modèle apprend à générer des mots en fonction des régularités statistiques présentes dans un corpus d'entraînement, souvent composé de vastes volumes de données issues du web. Le caractère stochastique des modèles de langages – comme Lucie – rend particulièrement difficile, voire impossible, la définition a priori, par un programmeur, d'une architecture garantissant un comportement déterministe, tel que la production exclusive de réponses conformes à une idéologie politique précise.
