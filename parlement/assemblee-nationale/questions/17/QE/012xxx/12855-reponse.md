@@ -1,0 +1,9 @@
+# Réponse à la question n° 12855
+
+- Question : [12855](12855.md) — Question n° 12855 — Amendes à l'encontre des ambulanciers
+
+## Réponse
+
+*JO du 2026-09-22, page 8823*
+
+L'article R. 311-1 du code de la route distingue deux catégories de véhicules d'intérêt général : les véhicules dont il convient de faciliter la progression sans disposer d'une priorité de passage et les véhicules d'intérêt général bénéficiant de la priorité de passage. Les ambulances privées entrent dans la catégorie des véhicules bénéficiant de facilités de passage. Lorsqu'ils font usage de leurs avertisseurs spéciaux dans les cas nécessités par l'urgence de leur mission et sous réserve de ne pas mettre en danger les autres usagers, ces véhicules peuvent déroger aux règles relatives aux vitesses maximales, à la circulation dans les voies réservées et à l'emploi des avertisseurs la nuit ou en agglomération. Lorsque les ambulances agissent à la demande du service d'aide médicale d'urgence, elles disposent des mêmes prérogatives que les véhicules d'intérêt général prioritaires et peuvent ainsi déroger à l'ensemble des prescriptions relatives aux règles de circulation édictées par le code de la route, lorsque l'urgence de leur mission le justifie. Si une ambulance privée fait l'objet d'une verbalisation par un appareil de contrôle automatique, une procédure est bien prévue pour permettre la contestation de l'infraction commise par un véhicule d'intérêt général. En effet, lorsque des éléments sont apportés justifiant de l'urgence de la mission, la verbalisation peut être classée sans suite ou une décision de relaxe peut être prononcée en cas de jugement. Le dispositif juridique actuel semble ainsi équilibré au regard des impératifs d'urgence induits par la mission des ambulanciers privés et de l'obligation dans laquelle ils se trouvent de respecter le code de la route dans le cadre normal de leurs activités.
