@@ -6,23 +6,25 @@ LISTE DES GROUPES BIOLOGIQUES SIMILAIRES POUVANT DONNER LIEU À LA DÉLIVRANCE P
 
 Dénomination commune
 
-du groupe
-
-biologique
+du groupe biologique
 
 similaire |
 
-Médicament
-
-biologique
+Médicament biologique
 
 de référence |
 
 Médicament(s) biologique(s) similaire(s) |
 
-Condition(s) spécifiques de substitution
+Condition(s) spécifiques
 
-et d'information du prescripteur et du patient |
+de substitution
+
+et d'information
+
+du prescripteur
+
+et du patient |
 
 Groupe 1 |
 
@@ -86,7 +88,9 @@ BYOOVIZ®
 
 RIMMYRAH®
 
-XIMLUCI® |
+XIMLUCI®
+
+VISLYFA® |
 
 |
 
@@ -122,7 +126,9 @@ BENEPALI®
 
 ERELZI®
 
-NEPEXTO® |
+NEPEXTO®
+
+FUBELV® |
 
 - Le prescripteur peut indiquer sur la prescription le type de dispositif médical d'administration à privilégier pour un patient donné,
 
@@ -192,11 +198,7 @@ ENOXAPARINE VENIPHARM®
 
 GHEMAXAN®
 
-INHIXA®
-
-ENOXAPARINE EG®
-
-ENOXAPARINE ZENTIVA® |
+INHIXA® |
 
 - Les laboratoires mettent à disposition des dispositifs d'administration factices auprès des professionnels de santé et des patients,
 
@@ -302,4 +304,88 @@ YESINTEK® |
 
 - Les indications thérapeutiques de l'AMM de STELARA et de ses biosimilaires peuvent différer, notamment pour la maladie de Crohn pédiatrique et pour la rectocolite hémorragique. La substitution n'est possible que dans le périmètre de l'AMM de la spécialité délivrée. |
 
-(*) Les spécialités EYLEA 114,3 MG/ML, solution injectable et solution injectable en seringue préremplie, n'ont pas de médicament biosimilaire associé.
+Groupe 12 |
+
+Denosumab |
+
+PROLIA® |
+
+ACVYBRA®
+
+CONEXXENCE®
+
+EVFRAXY®
+
+IZAMBY®
+
+JUBBONTI®
+
+JUNOD®
+
+KEFDENSIS®
+
+OBODENCE®
+
+OSQAY®
+
+OSVYRTI®
+
+PONLIMSI®
+
+ROLCYA®
+
+STOBOCLO®
+
+VYSRIBLI®
+
+ZADENVI® |
+
+- Les laboratoires mettent à disposition des dispositifs d'administration factices auprès des professionnels de santé et des patients,
+
+- Le prescripteur peut indiquer sur la prescription le type de dispositif médical d'administration à privilégier pour un patient donné,
+
+- A l'officine, le pharmacien accompagne le patient à l'apprentissage du nouveau dispositif le cas échéant,
+
+- Le patient peut revenir à la spécialité initialement délivrée si nécessaire, en fonction de ses retours. |
+
+Groupe 13 |
+
+Denosumab |
+
+XGEVA® |
+
+BILPREVDA®
+
+BOMYNTRA®
+
+DEGEVMA®
+
+DENBRAYCE®
+
+ENWYLMA®
+
+JUBEREQ®
+
+OSENVELT®
+
+VEVZUO®
+
+WYOST®
+
+XBONZY®
+
+XBRYK®
+
+YAXWER®
+
+ZVOGRA® |
+
+- Les laboratoires mettent à disposition des dispositifs d'administration factices auprès des professionnels de santé et des patients,
+
+- Le prescripteur peut indiquer sur la prescription le type de dispositif médical d'administration à privilégier pour un patient donné,
+
+- A l'officine, le pharmacien accompagne le patient à l'apprentissage du nouveau dispositif le cas échéant,
+
+- Le patient peut revenir à la spécialité initialement délivrée si nécessaire, en fonction de ses retours. |
+
+(*) Les spécialités EYLEA 114,3 MG/ML, solution injectable et solution injectable en seringue préremplie n'ont pas de médicament biosimilaire associé.
