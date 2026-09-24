@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260307999
+
+- Question : [SEQ260307999](seq260307999.md) — Hausse inadmissible des frais liés au droit de séjour des étrangers en France
+
+## Réponse
+
+*Intérieur , JO du 2026-09-24, page 4630*
+
+Les évolutions intervenues dans le cadre de la loi de finances pour 2026 s'inscrivent dans un cadre juridique conforme aux exigences constitutionnelles et européennes. La Cour de justice de l'Union européenne admet la subordination de la délivrance de titres au paiement de droits, sous réserve de proportionnalité (C-508/10, Commission c/ Pays-Bas ; C-309/14, Commission c/ Italie). Les montants retenus respectent ce cadre et couvrent les coûts d'instruction et de fabrication des titres, conformément au Règlement (CE) n° 1030/2002, tout en finançant les missions de l'Office français de l'immigration et de l'intégration (OFII) au bénéfice des intéressés. L'effort porte principalement sur les primo-délivrances, les montants des droits liés aux titres de séjour délivrés dans le cadre de procédures de renouvellement demeurant pour l'essentiel inchangés. La situation économique des personnes concernées a été prise en compte : la plupart justifie de ressources suffisantes ou d'une insertion professionnelle stable, de sorte que les montants demandés n'excèdent pas leurs capacités contributives. Des dispositifs de modulation et d'exonération demeurent en outre applicables : tarifs réduits pour les étudiants, les travailleurs temporaires et les jeunes au pair ; exonérations pour les bénéficiaires d'une protection internationale, les victimes de traite ou de violences intrafamiliales et certaines personnes dont l'état de santé le justifie. Enfin, les données du Réseau européen des migrations confirment que les tarifs français demeurent intermédiaires à l'échelle européenne.
