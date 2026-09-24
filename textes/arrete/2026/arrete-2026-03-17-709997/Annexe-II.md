@@ -1,8 +1,6 @@
 # Article Annexe II
 
-ANNEXE 2
-
-RÉGIONALISATION DES SOUS-QUOTAS ATTRIBUÉS AUX NAVIRES NON ADHÉRENTS À UNE ORGANISATION DE PRODUCTEURS
+Régionalisation des sous-quotas attribués aux navires non adhérents à une organisation de producteurs
 
 Libellé du quota |
 
@@ -14,39 +12,27 @@ Code stock |
 
 Autres navires non-adhérents à une organisation
 
-de producteurs immatriculés dans un quartier maritime
-
-de Bretagne |
+de producteurs immatriculés dans un quartier maritime de Bretagne |
 
 Autres navires non-adhérents à une organisation
 
-de producteurs immatriculés dans un quartier maritime
+de producteurs immatriculés dans un quartier maritime des Hauts-de-France |
 
-des Hauts-de-France |
+Autres navires non- adhérents à une organisation
 
-Autres navires non-adhérents à une organisation
+de producteurs immatriculés dans un quartier maritime de Nouvelle-Aquitaine (1) |
 
-de producteurs immatriculés dans un quartier maritime
+Autres navires non- adhérents à une organisation
 
-de Nouvelle-Aquitaine (1) |
-
-Autres navires non-adhérents à une organisation
-
-de producteurs immatriculés dans un quartier maritime
-
-de Normandie |
+de producteurs immatriculés dans un quartier maritime de Normandie |
 
 Autres navires non-adhérents à une organisation
 
-de producteurs immatriculés dans un quartier maritime
-
-du Pays de Loire (1) |
+de producteurs immatriculés dans un quartier maritime du Pays de Loire (1) |
 
 TOTAL |
 
-Lieu jaune
-
-Pollachius pollachius |
+Lieu jaune Pollachius pollachius |
 
 VIII a, b, d, e |
 
@@ -54,7 +40,7 @@ POL/8ABDE. |
 
 Sous-quota (tonnes) |
 
-22 |
+33 |
 
 0 |
 
@@ -64,7 +50,7 @@ Sous-quota (tonnes) |
 
 2 |
 
-24 |
+35 |
 
 (1) Pour les navires non-adhérents à une organisation de producteurs et immatriculés dans les quartiers maritimes de Nouvelle-Aquitaine et du Pays de Loire la pêche reste fermée.
 
@@ -80,39 +66,27 @@ Code stock |
 
 Autres navires non-adhérents à une organisation
 
-de producteurs immatriculés dans un quartier maritime
-
-de Bretagne (1) |
+de producteurs immatriculés dans un quartier maritime de Bretagne (1) |
 
 Autres navires non adhérant à une organisation
 
-de producteurs immatriculés dans un quartier maritime
-
-des Hauts de France |
+de producteurs immatriculés dans un quartier maritime des Hauts de France |
 
 Autres navires non-adhérents à une organisation
 
-de producteurs immatriculés dans un quartier maritime
+de producteurs immatriculés dans un quartier maritime de Normandie |
 
-de Normandie |
+Autres navires non adhérents à
 
-Autres navires non adhérents à une organisation
-
-de producteurs immatriculés dans un quartier maritime
-
-de Nouvelle-Aquitaine |
+une organisation de producteurs immatriculés dans un quartier maritime de Nouvelle-Aquitaine |
 
 Autres navires non-adhérents à une organisation
 
-de producteurs immatriculés dans un quartier maritime
-
-du Pays de Loire |
+de producteurs immatriculés dans un quartier maritime du Pays de Loire |
 
 TOTAL |
 
-Sole
-
-Solea solea |
+Sole Solea solea |
 
 VIII a, b |
 
@@ -122,20 +96,16 @@ SOL/8AB |
 
 Sous-quota (tonnes) |
 
-15 |
+24,9 |
 
-0 |
+0,0 |
 
-5 |
+0,1 |
 
-14 |
+17,9 |
 
-5 |
+5,1 |
 
-39 |
+48,0 |
 
-(1) Pour les navires non adhérents à une organisation de producteurs et immatriculés dans un quartier maritime de Bretagne, les captures sont autorisées dans la limite de :
-
-- 1,3 t par navire au premier semestre ;
-
-- 800 kg par navire au second semestre.
+(1) Pour les navires non-adhérents à une organisation de producteurs et immatriculés dans un quartier maritime de Bretagne, les captures sont autorisées dans la limite de : - 1,3 t par navire au premier semestre.

@@ -4,27 +4,27 @@ Répartition des quotas
 
 Libellé du quota |
 
-Zone de référence du Conseil international pour l'exploration
-
-de la mer (CIEM) |
+Zone de référence du Conseil international pour l'exploration de la mer (CIEM) |
 
 Code stock |
 
 |
 
-Navires non adhérant à une organisation de producteurs |
+Navires non adhérant
 
-Navires adhérant à l'organisation de producteurs
+à une organisation de producteurs |
 
-Les pêcheurs d'Aquitaine |
+Navires adhérant à l'organisation
 
-Navires adhérant à l'organisation de producteurs
+de producteurs Les pêcheurs d'Aquitaine |
 
-Coopérative maritime étaploise Manche Mer du Nord (CMEMMN) |
+Navires adhérant à l'organisation
 
-Navires adhérant à l'organisation de producteurs
+de producteurs Coopérative maritime étaploise Manche Mer du Nord (CMEMMN) |
 
-Coopérative Bretagne-Nord (COBRENORD) |
+Navires adhérant à l'organisation
+
+de producteurs Coopérative Bretagne-Nord (COBRENORD) |
 
 Navires adhérant à l'organisation de producteurs
 
@@ -34,21 +34,21 @@ Navires adhérant à l'organisation de producteurs
 
 Fonds régional d'organisation du marché du poisson du Sud-Ouest (FROM Sud-Ouest) |
 
-Navires adhérant à l'organisation de producteurs
+Navires adhérant à l'organisation
 
-Organisation de producteurs de la Cotinière |
+de producteurs Organisation de producteurs de la Cotinière |
 
-Navires adhérant à l'organisation de producteurs
+Navires adhérant à l'organisation
 
-Marins-Pêcheurs Normands (OPN) |
+de producteurs Marins-Pêcheurs Normands (OPN) |
 
-Navires adhérant à l'organisation de producteurs
+Navires adhérant à l'organisation de producteurs Organisation
 
-Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN) |
+de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN) |
 
-Navires adhérant à l'organisation de producteurs
+Navires adhérant à l'organisation
 
-Les pêcheurs de Bretagne |
+de producteurs Les pêcheurs de Bretagne |
 
 Navires adhérant à l'organisation de producteurs VENDEE |
 
@@ -64,31 +64,31 @@ DGS/15X14 |
 
 Sous-quota (tonnes) |
 
-50 |
+60 |
 
-46 |
+34 |
 
-33 |
+40 |
 
-61 |
+97 |
 
-480 |
+577 |
 
-49 |
+59 |
 
-38 |
+47 |
 
-46 |
+58 |
 
 2 |
 
-1103 |
+1400 |
 
-35 |
+42 |
 
 0 |
 
-1 943 |
+2416 |
 
 Squalus acanthias |
 
@@ -100,31 +100,31 @@ ANE/08. (1) |
 
 Sous-quota (tonnes) |
 
-23 |
+45 |
 
-86 |
+267 |
 
-176 |
+341 |
 
 0 |
 
-99 |
+18 |
 
-78 |
+151 |
 
-56 |
+247 |
 
-3 |
+5 |
 
 1 |
 
-1866 |
+3739 |
 
-550 |
+1133 |
 
-0 |
+|
 
-2 938 |
+5947 |
 
 Engraulis encrasicolus |
 
@@ -136,15 +136,15 @@ OTH/04-N. |
 
 Sous-quota (tonnes) |
 
-4 |
-
 0 |
 
 0 |
 
 0 |
 
-48 |
+0 |
+
+52 |
 
 0 |
 
@@ -170,31 +170,31 @@ ANF/07. |
 
 Sous-quota (tonnes) |
 
-369 |
+448 |
 
-1762 |
+2036 |
 
-79 |
+89 |
 
-1206 |
+1375 |
 
-1916 |
+2561 |
 
-2654 |
+3268 |
 
-487 |
+365 |
 
-453 |
+516 |
 
-24 |
+62 |
 
-13915 |
+15026 |
 
-891 |
+1002 |
 
 0 |
 
-23 756 |
+26748 |
 
 Lophiidae |
 
@@ -206,31 +206,31 @@ ANF/56-14 |
 
 Sous-quota (tonnes) |
 
-59 |
+56 |
 
-34 |
-
-0 |
-
-0 |
-
-23 |
-
-40 |
-
-96 |
+42 |
 
 0 |
 
 0 |
 
-3220 |
+191 |
+
+17 |
+
+106 |
 
 0 |
 
 0 |
 
-3 472 |
+3789 |
+
+0 |
+
+0 |
+
+4201 |
 
 Lophiidae |
 
@@ -242,31 +242,31 @@ ANF/8ABDE. |
 
 Sous-quota (tonnes) |
 
-75 |
+109 |
 
-760 |
+897 |
 
-11 |
+12 |
 
-162 |
+183 |
 
-901 |
+1019 |
 
-476 |
+585 |
 
-924 |
-
-89 |
+1159 |
 
 102 |
 
-4975 |
+185 |
 
-670 |
+6318 |
+
+788 |
 
 0 |
 
-9 145 |
+11357 |
 
 Lophiidae |
 
@@ -286,7 +286,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-26 |
+41 |
 
 0 |
 
@@ -296,13 +296,13 @@ Sous-quota (tonnes) |
 
 0 |
 
-3 |
+14 |
 
 0 |
 
 0 |
 
-29 |
+55 |
 
 Brosme brosme |
 
@@ -350,7 +350,7 @@ USK/567EI. |
 
 Sous-quota (tonnes) |
 
-5 |
+6 |
 
 0 |
 
@@ -358,23 +358,23 @@ Sous-quota (tonnes) |
 
 0 |
 
-476 |
+557 |
 
 3 |
 
-130 |
+150 |
 
 0 |
 
 0 |
 
-2262 |
+2807 |
 
 0 |
 
 0 |
 
-2 876 |
+3523 |
 
 Brosme brosme |
 
@@ -385,6 +385,10 @@ VII a |
 COD/07A. |
 
 Sous-quota (tonnes) |
+
+0 |
+
+0 |
 
 0 |
 
@@ -408,10 +412,6 @@ Sous-quota (tonnes) |
 
 12 |
 
-0 |
-
-0 |
-
 Gadus morhua |
 
 Cabillaud |
@@ -422,21 +422,21 @@ COD/07D. |
 
 Sous-quota (tonnes) |
 
-22 |
+23 |
 
 5 |
 
-101 |
+104 |
 
 6 |
 
-236 |
+252 |
 
 0 |
 
 1 |
 
-87 |
+93 |
 
 3 |
 
@@ -446,7 +446,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-520 |
+546 |
 
 Gadus morhua |
 
@@ -466,7 +466,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-643 |
+1076 |
 
 0 |
 
@@ -482,7 +482,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-643 |
+1076 |
 
 Gadus morhua |
 
@@ -502,7 +502,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-1920 |
+2299 |
 
 0 |
 
@@ -518,7 +518,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-1 920 |
+2299 |
 
 Gadus morhua |
 
@@ -530,31 +530,31 @@ COD/2A3AX4 |
 
 Sous-quota (tonnes) |
 
-2 |
-
 0 |
 
-157 |
-
 0 |
-
-137 |
-
-0 |
-
-2 |
-
-1 |
-
-1 |
-
-15 |
 
 5 |
 
+25 |
+
+148 |
+
 0 |
 
-320 |
+0 |
+
+0 |
+
+0 |
+
+25 |
+
+0 |
+
+0 |
+
+203 |
 
 Gadus morhua |
 
@@ -566,31 +566,31 @@ COD/5BE6A |
 
 Sous-quota (tonnes) |
 
-2 |
-
 0 |
 
 0 |
 
 0 |
 
-2 |
+0 |
+
+10 |
+
+0 |
 
 1 |
 
-5 |
+0 |
+
+0 |
+
+47 |
 
 0 |
 
 0 |
 
-56 |
-
-0 |
-
-0 |
-
-66 |
+58 |
 
 Gadus morhua |
 
@@ -614,19 +614,19 @@ Sous-quota (tonnes) |
 
 0 |
 
-1 |
-
 0 |
-
-0 |
-
-9 |
 
 0 |
 
 0 |
 
-10 |
+2 |
+
+0 |
+
+0 |
+
+2 |
 
 Gadus morhua |
 
@@ -644,25 +644,25 @@ Sous-quota (tonnes) |
 
 0 |
 
-10 |
+11 |
 
-7 |
-
-2 |
+2,7 |
 
 2 |
-
-3 |
 
 0 |
 
-84 |
+4 |
+
+0 |
+
+88 |
 
 5 |
 
 0 |
 
-122 |
+121,7 |
 
 Gadus morhua |
 
@@ -674,7 +674,7 @@ LEZ/2AC4-C |
 
 Sous-quota (tonnes) |
 
-3 |
+4 |
 
 0 |
 
@@ -682,7 +682,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-38 |
+53 |
 
 0 |
 
@@ -692,13 +692,13 @@ Sous-quota (tonnes) |
 
 0 |
 
-9 |
+10 |
 
 0 |
 
 0 |
 
-50 |
+67 |
 
 Lepidorhombus spp. |
 
@@ -710,31 +710,31 @@ LEZ/07. |
 
 Sous-quota (tonnes) |
 
-15 |
+18 |
 
-533 |
+645 |
 
 2 |
 
-43 |
+68 |
 
-339 |
+460 |
 
-1257 |
+1 504 |
 
-89 |
+105 |
 
-11 |
+13 |
 
-12 |
+2 |
 
-2232 |
+3118 |
 
-331 |
+393 |
 
 0 |
 
-4864 |
+6328 |
 
 Lepidorhombus spp. |
 
@@ -746,31 +746,31 @@ LEZ/56-14 |
 
 Sous-quota (tonnes) |
 
-75 |
+84 |
 
-70 |
-
-0 |
-
-0 |
-
-73 |
-
-178 |
+160 |
 
 0 |
 
 0 |
 
-0 |
+144 |
 
-1461 |
-
-17 |
+200 |
 
 0 |
 
-1 874 |
+0 |
+
+0 |
+
+1742 |
+
+19 |
+
+0 |
+
+2349 |
 
 Lepidorhombus spp. |
 
@@ -782,31 +782,31 @@ LEZ/8ABDE. |
 
 Sous-quota (tonnes) |
 
-3 |
+4 |
 
-37 |
+43 |
 
 1 |
 
 5 |
 
-32 |
+27 |
 
-46 |
+55 |
 
-60 |
+86 |
 
-13 |
+15 |
 
-5 |
+7 |
 
-396 |
+502 |
 
-39 |
+47 |
 
 0 |
 
-637 |
+791 |
 
 Lepidorhombus spp. |
 
@@ -818,31 +818,31 @@ JAX/2A-14 |
 
 Sous-quota (tonnes) |
 
-6 |
+18 |
 
-65 |
+89 |
 
-63 |
+67 |
 
-10 |
+19 |
 
-1729 |
+1985 |
 
-12 |
+14 |
 
-10 |
+11 |
 
-10 |
+99 |
+
+4 |
+
+874 |
+
+243 |
 
 0 |
 
-346 |
-
-212 |
-
-0 |
-
-2 463 |
+3423 |
 
 Trachurus spp. |
 
@@ -862,7 +862,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-17 |
+173,5 |
 
 0 |
 
@@ -878,7 +878,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-22 |
+178,5 |
 
 Trachurus spp. |
 
@@ -896,25 +896,25 @@ Sous-quota (tonnes) |
 
 0,2 |
 
-0,0 |
+0 |
 
 0,1 |
 
-0,0 |
+0 |
 
-0,0 |
+0 |
 
 0,2 |
 
-0,0 |
+0 |
 
-2,9 |
+4,9 |
 
 0,4 |
 
 0 |
 
-4 |
+6 |
 
 Pagellus bogaraveo |
 
@@ -928,29 +928,29 @@ Sous-quota (tonnes) |
 
 0 |
 
-1 |
+1,5 |
 
 0 |
-
-0 |
-
-7 |
-
-0 |
-
-0 |
-
-0 |
-
-0 |
-
-26 |
 
 1 |
 
+10 |
+
 0 |
 
-35 |
+0 |
+
+0 |
+
+0 |
+
+39 |
+
+1,5 |
+
+0 |
+
+53 |
 
 Melanogrammus aeglefinus |
 
@@ -998,31 +998,31 @@ HAD/2AC4. |
 
 Sous-quota (tonnes) |
 
-49 |
+55 |
 
 0 |
 
-35 |
+39 |
 
 0 |
 
-3849 |
-
-0 |
-
-0 |
+4254 |
 
 0 |
 
 0 |
 
-99 |
-
-5 |
+0 |
 
 0 |
 
-4 037 |
+171 |
+
+1 |
+
+0 |
+
+4520 |
 
 Melanogrammus aeglefinus |
 
@@ -1036,29 +1036,29 @@ Sous-quota (tonnes) |
 
 10 |
 
-39 |
+41 |
 
-4 |
+2 |
 
-65 |
+68 |
 
-71 |
+94,5 |
 
-42 |
-
-17 |
-
-24 |
+69 |
 
 0 |
 
-652 |
+3 |
+
+0 |
+
+469 |
 
 21 |
 
 0 |
 
-945 |
+777,5 |
 
 Melanogrammus aeglefinus |
 
@@ -1078,7 +1078,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-316 |
+251 |
 
 0 |
 
@@ -1088,13 +1088,13 @@ Sous-quota (tonnes) |
 
 0 |
 
-53 |
+81 |
 
 0 |
 
 0 |
 
-371 |
+334 |
 
 Reinhardtius hippoglossoides |
 
@@ -1106,31 +1106,31 @@ ALB/AN05N |
 
 Sous-quota (tonnes) |
 
-75 |
+63 |
 
-1497 |
+1584 |
 
-173 |
+168 |
 
-56 |
+54 |
 
-197 |
+71 |
 
-1237 |
+1091 |
 
-329 |
-
-0 |
-
-373 |
-
-2897 |
-
-1957 |
+349 |
 
 0 |
 
-8 791 |
+323 |
+
+3731 |
+
+1857 |
+
+0 |
+
+9291 |
 
 Thunnus alalunga |
 
@@ -1159,8 +1159,6 @@ Dont prises accessoires |
 0 |
 
 0 |
-
-3 |
 
 Germon |
 
@@ -1214,7 +1212,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-13 |
+14 |
 
 0 |
 
@@ -1230,7 +1228,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-14 |
+15 |
 
 Argentina silus |
 
@@ -1260,13 +1258,13 @@ Sous-quota (tonnes) |
 
 0 |
 
-709 |
+771 |
 
 0 |
 
 0 |
 
-1 030 |
+1092 |
 
 Macrourus spp. |
 
@@ -1310,7 +1308,7 @@ Hareng |
 
 Eaux du Royaume-Uni, eaux des Îles Féroé, eaux norvégiennes et eaux internationales des zones I et II |
 
-HER/1/2- |
+HER/1/2. |
 
 Sous-quota (tonnes) |
 
@@ -1358,7 +1356,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-15874 |
+18324 |
 
 0 |
 
@@ -1374,7 +1372,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-15 874 |
+18324 |
 
 Clupea harengus |
 
@@ -1386,31 +1384,31 @@ HER/4CXB7D |
 
 Sous-quota (tonnes) |
 
-95 |
+89 |
 
 1 |
 
-172 |
+213 |
 
-2 |
+10,1 |
 
-7259 |
-
-0 |
+9359,7 |
 
 0 |
 
-16 |
+0 |
+
+24 |
 
 0 |
 
-6 |
+7,2 |
 
-2 |
+2,1 |
 
 0 |
 
-7 553 |
+9706,1 |
 
 Clupea harengus |
 
@@ -1466,7 +1464,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-77 |
+10 |
 
 0 |
 
@@ -1482,7 +1480,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-77 |
+10 |
 
 Clupea harengus |
 
@@ -1502,7 +1500,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-54 |
+97 |
 
 0 |
 
@@ -1518,7 +1516,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-54 |
+97 |
 
 Clupea harengus |
 
@@ -1530,31 +1528,31 @@ NEP/07. |
 
 Sous-quota (tonnes) |
 
-9 |
+11 |
 
-50 |
+54 |
 
-3 |
+4 |
 
-8 |
+1,9 |
 
-90 |
+105,9 |
 
-29 |
+38 |
 
-35 |
+5,6 |
 
 0 |
 
 4 |
 
-1851 |
+2065 |
 
-126 |
+149 |
 
 0 |
 
-2 205 |
+2437,5 |
 
 Nephrops norvegicus |
 
@@ -1566,31 +1564,31 @@ NEP/*07U16 |
 
 Sous-quota (tonnes) |
 
+3 |
+
 2 |
 
-9 |
-
 1 |
-
-1 |
-
-17 |
-
-5 |
-
-7 |
 
 0 |
 
+20 |
+
+6 |
+
 1 |
-
-344 |
-
-23 |
 
 0 |
 
-410 |
+0 |
+
+424 |
+
+27 |
+
+0 |
+
+484 |
 
 Nephrops norvegicus |
 
@@ -1602,31 +1600,31 @@ NEP/8ABDE. |
 
 Sous-quota (tonnes) |
 
-24 |
+26 |
 
-85 |
+93 |
 
-16 |
+17 |
 
-87 |
+95 |
 
 4 |
 
-27 |
+29 |
 
-286 |
+317 |
 
-115 |
+125 |
 
-5 |
+6 |
 
-2083 |
+2580 |
 
-221 |
+244 |
 
 0 |
 
-2 953 |
+3535,5 |
 
 Nephrops norvegicus |
 
@@ -1638,31 +1636,31 @@ POL/07. |
 
 Sous-quota (tonnes) |
 
-16 |
+33 |
 
 24 |
 
 16 |
 
-196 |
+163 |
 
-129 |
+121,42 |
 
-31 |
+32 |
 
-8 |
+8,2 |
 
-294 |
+94 |
 
 2 |
 
-643 |
+689 |
 
-37 |
+37,7 |
 
 0 |
 
-1 396 |
+1220,8 |
 
 Pollachius pollachius |
 
@@ -1674,31 +1672,31 @@ POL/8ABDE. |
 
 Sous-quota (tonnes) |
 
-24 |
+31 |
 
-21 |
+14 |
 
 1 |
 
 3 |
 
-6 |
+2 |
 
-33 |
+14 |
 
-65 |
+77 |
 
 3 |
 
-29 |
+83 |
 
-390 |
+580 |
 
-88 |
+106 |
 
 0 |
 
-663 |
+914 |
 
 Pollachius pollachius |
 
@@ -1754,23 +1752,23 @@ Sous-quota (tonnes) |
 
 0 |
 
-10533 |
-
-0 |
-
-33 |
+9337 |
 
 0 |
 
 0 |
 
-317 |
+0 |
+
+0 |
+
+140 |
 
 0 |
 
 0 |
 
-10 883 |
+9476,5 |
 
 Pollachius virens |
 
@@ -1790,7 +1788,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-483 |
+520 |
 
 10 |
 
@@ -1800,13 +1798,13 @@ Sous-quota (tonnes) |
 
 0 |
 
-1539 |
+1644 |
 
 0 |
 
 0 |
 
-2 286 |
+2428 |
 
 Pollachius virens |
 
@@ -1822,11 +1820,11 @@ Sous-quota (tonnes) |
 
 0 |
 
-45 |
+51 |
 
 0 |
 
-22 |
+26 |
 
 0 |
 
@@ -1842,13 +1840,11 @@ Sous-quota (tonnes) |
 
 0 |
 
-71 |
+81 |
 
 Microstomus kitt & Glytocephalus cynoglossus |
 
-Limande sole
-
-Microstomus kitt |
+Limande sole |
 
 Eaux du Royaume-Uni et eaux UE des zones II a et IV |
 
@@ -1860,27 +1856,29 @@ Sous-quota (tonnes) |
 
 0 |
 
-20 |
+24 |
 
 0 |
 
-10 |
-
-0 |
-
-0 |
+12,2 |
 
 0 |
 
 0 |
 
-1 |
-
 0 |
 
 0 |
 
-31 |
+1,4 |
+
+0,5 |
+
+0 |
+
+38 |
+
+Microstomus kitt |
 
 Plie grise Glytocephalus cynoglossus |
 
@@ -1894,27 +1892,27 @@ Sous-quota (tonnes) |
 
 0 |
 
-25 |
+29 |
 
 0 |
 
-12 |
-
-0 |
-
-0 |
+13,7 |
 
 0 |
 
 0 |
 
-2 |
-
-1 |
+0 |
 
 0 |
 
-36 |
+1,7 |
+
+0,6 |
+
+0 |
+
+45 |
 
 Lingue bleue Molva dypterigia |
 
@@ -1958,31 +1956,31 @@ BLI/5B67- |
 
 Sous-quota (tonnes) |
 
-9 |
+10 |
 
-14 |
-
-0 |
-
-0 |
-
-1825 |
-
-20 |
-
-93 |
+16 |
 
 0 |
 
 0 |
 
-5462 |
+1976 |
+
+22 |
+
+103 |
 
 0 |
 
 0 |
 
-7 423 |
+6213 |
+
+0 |
+
+0 |
+
+8340 |
 
 Molva dypterigia |
 
@@ -2038,23 +2036,23 @@ Sous-quota (tonnes) |
 
 0 |
 
-60 |
+173 |
 
 0 |
 
-3 |
-
-0 |
-
-0 |
-
-10 |
+1 |
 
 0 |
 
 0 |
 
-73 |
+14 |
+
+0 |
+
+0 |
+
+188 |
 
 Molva molva |
 
@@ -2066,16 +2064,6 @@ LIN/04-N. |
 
 Sous-quota (tonnes) |
 
-1 |
-
-0 |
-
-0 |
-
-0 |
-
-4 |
-
 0 |
 
 0 |
@@ -2084,13 +2072,23 @@ Sous-quota (tonnes) |
 
 0 |
 
+7 |
+
+0 |
+
+0 |
+
 0 |
 
 0 |
 
 0 |
 
-5 |
+0 |
+
+0 |
+
+7 |
 
 Molva molva |
 
@@ -2146,7 +2144,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-5 |
+8,7 |
 
 0 |
 
@@ -2162,7 +2160,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-5 |
+8,7 |
 
 Molva molva |
 
@@ -2174,31 +2172,31 @@ LIN/6X14. |
 
 Sous-quota (tonnes) |
 
-34 |
+40 |
 
-62 |
+72 |
 
 1 |
 
-105 |
+104 |
 
-145 |
+478 |
 
-71 |
+85 |
 
-55 |
+56 |
 
-58 |
+69 |
 
-9 |
+11 |
 
-1219 |
+1179 |
 
-40 |
+48 |
 
-|
+0 |
 
-1799 |
+2143 |
 
 Molva molva |
 
@@ -2208,7 +2206,7 @@ Merlan |
 
 VII a |
 
-WHG/07 A. |
+WHG/07A. |
 
 Sous-quota (tonnes) |
 
@@ -2218,7 +2216,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-0 |
+1 |
 
 4 |
 
@@ -2236,7 +2234,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-33 |
+34 |
 
 Merlangius merlangus |
 
@@ -2248,31 +2246,31 @@ WHG/08. |
 
 Sous-quota (tonnes) |
 
-21 |
+26 |
 
-32 |
-
-15 |
-
-14 |
-
-8 |
-
-47 |
-
-62 |
-
-9 |
+45 |
 
 19 |
 
-193 |
+17 |
 
-149 |
+10 |
+
+58 |
+
+80 |
+
+11 |
+
+29 |
+
+472 |
+
+287 |
 
 0 |
 
-569 |
+1054,4 |
 
 Merlangius merlangus |
 
@@ -2284,31 +2282,31 @@ WHG/2AC4. |
 
 Sous-quota (tonnes) |
 
-73 |
+94 |
 
 0 |
 
-7720 |
+8 458 |
 
-45 |
+48 |
 
-6900 |
-
-0 |
+7603,5 |
 
 0 |
 
-106 |
+0 |
+
+114 |
 
 2 |
 
-512 |
+579 |
 
-213 |
+229 |
 
 0 |
 
-15 571 |
+17127,5 |
 
 Merlangius merlangus |
 
@@ -2320,31 +2318,31 @@ WHG/56-14 |
 
 Sous-quota (tonnes) |
 
-41 |
+43 |
 
-130 |
-
-0 |
+137 |
 
 0 |
 
 0 |
 
-14 |
+0 |
+
+15 |
 
 9 |
 
+1 |
+
+0 |
+
+327 |
+
 0 |
 
 0 |
 
-272 |
-
-0 |
-
-0 |
-
-466 |
+532 |
 
 Merlangius merlangus |
 
@@ -2356,31 +2354,31 @@ WHG/7X7A-C |
 
 Sous-quota (tonnes) |
 
-291 |
+324 |
 
-909 |
+989 |
 
-4159 |
+4599 |
 
-1225 |
+1512 |
 
-4957 |
+5621 |
 
-484 |
+528 |
 
-102 |
+111 |
 
-1734 |
+2244 |
 
-8 |
+9 |
 
-8997 |
+10040 |
 
-356 |
+387 |
 
 0 |
 
-23 222 |
+26364 |
 
 Merlangius merlangus |
 
@@ -2392,31 +2390,31 @@ WHG/*7XAD |
 
 Sous-quota (tonnes) |
 
-16 |
+18 |
 
-51 |
+18 |
 
-231 |
-
-68 |
+81 |
 
 276 |
 
-27 |
+346 |
 
-6 |
+7 |
 
-96 |
+5 |
 
-0 |
-
-500 |
-
-20 |
+389 |
 
 0 |
 
-1 291 |
+614 |
+
+5 |
+
+0 |
+
+1759 |
 
 Merlan Merlangius merlangus |
 
@@ -2426,31 +2424,31 @@ WHG/*07D |
 
 Sous-quota (tonnes) |
 
-275 |
+310 |
 
-858 |
+926 |
 
-3928 |
+4454 |
 
-1157 |
+1254 |
 
-4681 |
+5620 |
 
-457 |
+493 |
 
-96 |
+103 |
 
-1638 |
+1920 |
 
 8 |
 
-8497 |
+9179 |
 
-336 |
+342 |
 
 0 |
 
-21931 |
+24 609 |
 
 Merlan bleu |
 
@@ -2462,29 +2460,29 @@ Sous-quota (tonnes) |
 
 0 |
 
+3 |
+
+0 |
+
+0 |
+
+13672 |
+
+0 |
+
+0 |
+
+1 |
+
+0 |
+
 1 |
 
 0 |
 
 0 |
 
-27127 |
-
-0 |
-
-0 |
-
-0 |
-
-0 |
-
-1 |
-
-0 |
-
-0 |
-
-27 129 |
+13677 |
 
 Micromesistius poutassou |
 
@@ -2496,7 +2494,7 @@ HKE/2AC4-C |
 
 Sous-quota (tonnes) |
 
-9 |
+14 |
 
 0 |
 
@@ -2504,23 +2502,23 @@ Sous-quota (tonnes) |
 
 0 |
 
-101 |
-
-0 |
-
-4 |
+352 |
 
 0 |
 
 0 |
 
-23 |
+0 |
+
+0 |
+
+234 |
 
 0 |
 
 0 |
 
-137 |
+600 |
 
 Merluccius merluccius |
 
@@ -2568,31 +2566,31 @@ HKE/571214 |
 
 Sous-quota (tonnes) |
 
-43 |
+69 |
 
-781 |
+905 |
 
-5 |
+6 |
 
-252 |
+224 |
 
-3236 |
+3432,7 |
 
-1953 |
+2 225 |
 
-420 |
+589 |
 
-74 |
+83 |
 
-12 |
+36 |
 
-6053 |
+5985 |
 
-248 |
+277 |
 
 0 |
 
-13 077 |
+13831,7 |
 
 Merluccius merluccius |
 
@@ -2604,31 +2602,31 @@ HKE/8ABDE. |
 
 Sous-quota (tonnes) |
 
-257 |
+301 |
 
-1805 |
+2 110 |
 
-109 |
+123 |
 
-236 |
+264 |
 
-1069 |
+1184 |
 
-1055 |
+1 270 |
 
-1296 |
+1 510 |
 
-249 |
+281 |
 
-195 |
+231 |
 
-5409 |
+5792 |
 
-1614 |
+1722 |
 
 0 |
 
-13294 |
+14788 |
 
 Merluccius merluccius |
 
@@ -2640,31 +2638,31 @@ HKE/8C3411 |
 
 Sous-quota (tonnes) |
 
-66 |
+76 |
 
-86 |
-
-0 |
-
-0 |
-
-27 |
-
-261 |
-
-27 |
+71 |
 
 0 |
 
 0 |
 
-282 |
+33 |
+
+302 |
+
+61 |
 
 0 |
 
 0 |
 
-749 |
+327 |
+
+0 |
+
+0 |
+
+870 |
 
 Merluccius merluccius |
 
@@ -2676,31 +2674,31 @@ PLE/2A3AX4 |
 
 Sous-quota (tonnes) |
 
-22 |
+29 |
 
 1 |
 
-386 |
+491 |
 
 0 |
 
-255 |
+327 |
 
 0 |
 
 0 |
+
+8 |
 
 7 |
 
-6 |
+102 |
 
-87 |
+13 |
 
-11 |
+0 |
 
-#N/A |
-
-775 |
+978 |
 
 Pleuronectes platessa |
 
@@ -2708,41 +2706,39 @@ Plie |
 
 VII d, e |
 
-PLE/7/DE. |
+PLE/7DE. |
 
 Sous-quota (tonnes) |
 
-86 |
+91 |
 
 4 |
 
-201 |
+207 |
 
-41 |
+47 |
 
-277 |
+288 |
 
 2 |
 
 1 |
 
-213 |
+240 |
 
 3 |
 
-76 |
+83 |
 
 7 |
 
-#N/A |
+0 |
 
-911 |
-
-Pleuronectes platessa |
-
-Plie
+973 |
 
 Pleuronectes platessa |
+
+Plie |
 
 VII d |
 
@@ -2750,21 +2746,21 @@ PLE/*07D |
 
 Sous-quota (tonnes) |
 
-71 |
+77 |
 
 3 |
 
-167 |
+174 |
 
-34 |
+35 |
 
-230 |
+242 |
 
 2 |
 
 1 |
 
-177 |
+202 |
 
 2 |
 
@@ -2774,11 +2770,11 @@ Sous-quota (tonnes) |
 
 0 |
 
-756 |
-
-Plie
+807 |
 
 Pleuronectes platessa |
+
+Plie |
 
 VII e |
 
@@ -2788,31 +2784,33 @@ Sous-quota (tonnes) |
 
 15 |
 
-1 |
+0 |
 
 34 |
 
-7 |
+32 |
 
-47 |
-
-0 |
+12 |
 
 0 |
 
-36 |
+0 |
+
+38 |
 
 1 |
 
-13 |
-
-1 |
+34,2 |
 
 0 |
 
-155 |
+0 |
+
+166,2 |
 
 Pleuronectes platessa |
+
+|
 
 VII f, g |
 
@@ -2822,29 +2820,31 @@ Sous-quota (tonnes) |
 
 0 |
 
-1 |
+1,1 |
 
 1 |
 
-4 |
+4,1 |
 
-3 |
+3,1 |
 
-1 |
+1,1 |
 
 0 |
 
-1 |
+1,1 |
 
 0 |
 
-31 |
+29,9 |
 
-4 |
+0,1 |
 
 0 |
 
-46 |
+41,5 |
+
+Pleuronectes platessa |
 
 Plie |
 
@@ -2860,25 +2860,25 @@ Sous-quota (tonnes) |
 
 0,1 |
 
-0,2 |
+13,5 |
 
-0,1 |
+2,3 |
 
-3,0 |
+1,8 |
 
-0,3 |
+0 |
 
 0,5 |
 
-0,0 |
+0 |
 
-6,9 |
+10,9 |
 
 0,4 |
 
 0 |
 
-13,0 |
+31 |
 
 Pleuronectes platessa |
 
@@ -2900,21 +2900,21 @@ Sous-quota (tonnes) |
 
 3 |
 
-6 |
+7 |
 
-4 |
+5 |
 
-4 |
+5 |
 
-4 |
+5 |
 
-21 |
+26 |
 
-14 |
+17 |
 
 0 |
 
-62 |
+74 |
 
 Pleuronectes platessa |
 
@@ -2926,31 +2926,31 @@ SRX/07D. |
 
 Sous-quota (tonnes) |
 
-169 |
+176 |
 
 10 |
 
-153 |
+163 |
 
-70 |
+72 |
 
-722 |
+758 |
 
 2 |
 
 0 |
 
-1157 |
+1220 |
 
 0 |
 
-104 |
+105 |
 
 3 |
 
 0 |
 
-2 390 |
+2509 |
 
 Rajidae |
 
@@ -2962,21 +2962,21 @@ SRX/2AC4-C |
 
 Sous-quota (tonnes) |
 
-1 |
+1,4 |
 
 0 |
 
-31 |
+32 |
 
 0 |
 
-52 |
+52,5 |
 
 0 |
 
 0 |
 
-1 |
+20 |
 
 0 |
 
@@ -2986,7 +2986,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-90 |
+111 |
 
 Rajidae |
 
@@ -2998,31 +2998,31 @@ SRX/67AKXD |
 
 Sous-quota (tonnes) |
 
-156 |
+150 |
 
-91 |
+95 |
 
 33 |
 
-281 |
+309 |
 
-267 |
+226 |
 
-78 |
+177 |
 
-71 |
+20 |
 
-231 |
+369 |
 
-1 |
+11 |
 
-2027 |
+2230 |
 
-118 |
+113 |
 
 0 |
 
-3 354 |
+3733 |
 
 Rajidae |
 
@@ -3034,31 +3034,31 @@ SRX/89-C. |
 
 Sous-quota (tonnes) |
 
-67 |
+66 |
 
-57 |
+67 |
 
 1 |
 
 7 |
 
-214 |
+167 |
 
-82 |
+86 |
 
-280 |
+276 |
 
 32 |
 
-46 |
+102 |
 
-1126 |
+1231 |
 
-142 |
+172 |
 
 0 |
 
-2 054 |
+2207 |
 
 Rajidae |
 
@@ -3070,31 +3070,31 @@ RJU/8-C. |
 
 Sous-quota (tonnes) |
 
-0,4 |
+0,7 |
 
-0,3 |
-
-0,0 |
-
-0,0 |
-
-1,3 |
-
-0,5 |
-
-1,6 |
-
-0,2 |
-
-0,3 |
-
-6,6 |
-
-0,8 |
+0,6 |
 
 0 |
 
-12,0 |
+0 |
+
+1,4 |
+
+1,9 |
+
+3,1 |
+
+0,2 |
+
+1 |
+
+13,1 |
+
+1,5 |
+
+0 |
+
+23 |
 
 Raja undulata |
 
@@ -3108,15 +3108,15 @@ Sous-quota (tonnes) |
 
 152 |
 
-5 |
+0 |
 
 9 |
 
-322 |
+324 |
 
 49 |
 
-4 |
+24 |
 
 3 |
 
@@ -3124,13 +3124,13 @@ Sous-quota (tonnes) |
 
 0 |
 
-252 |
+402 |
 
 6 |
 
 0 |
 
-1 390 |
+1557 |
 
 Raja undulata |
 
@@ -3160,13 +3160,13 @@ Sous-quota (tonnes) |
 
 0 |
 
-351 |
+384 |
 
 0 |
 
 0 |
 
-458 |
+491 |
 
 Aphanopus carbo |
 
@@ -3174,7 +3174,7 @@ Sébaste |
 
 Eaux norvégiennes des zones I et II |
 
-RED/1N2AB. |
+REB/1N2AB. |
 
 Sous-quota (tonnes) |
 
@@ -3186,7 +3186,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-93 |
+500 |
 
 0 |
 
@@ -3202,7 +3202,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-94 |
+500 |
 
 Sebastes spp. |
 
@@ -3214,23 +3214,23 @@ SOL/07D. |
 
 Sous-quota (tonnes) |
 
-66 |
+90 |
 
-12 |
+11 |
 
-76 |
+82 |
 
-19 |
+8 |
 
-281 |
+337 |
 
 1 |
 
 0 |
 
-119 |
+140 |
 
-4 |
+0 |
 
 43 |
 
@@ -3238,7 +3238,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-622 |
+712 |
 
 Solea solea |
 
@@ -3256,25 +3256,25 @@ Sous-quota (tonnes) |
 
 1 |
 
-67 |
+72,5 |
 
-9 |
-
-2 |
+7,5 |
 
 2 |
 
-165 |
+1 |
+
+40 |
 
 0 |
 
-121 |
+139 |
 
-2 |
+1 |
 
 0 |
 
-398 |
+293 |
 
 Solea solea |
 
@@ -3286,31 +3286,31 @@ SOL/24-C. |
 
 Sous-quota (tonnes) |
 
-12 |
+14 |
 
 2 |
 
-72 |
+93 |
 
 0 |
 
-63 |
-
-0 |
-
-0 |
-
-2 |
-
-5 |
-
-8 |
+70 |
 
 0 |
 
 0 |
 
-12 |
+53 |
+
+6 |
+
+9 |
+
+0 |
+
+0 |
+
+247 |
 
 Solea solea |
 
@@ -3324,29 +3324,29 @@ Sous-quota (tonnes) |
 
 1 |
 
-2 |
+2,8 |
 
 0 |
 
-2 |
+1,76 |
 
-2 |
+1,1 |
 
-1 |
-
-1 |
-
-1 |
-
-1 |
-
-30 |
-
-4 |
+1,1 |
 
 0 |
 
-45 |
+0,8 |
+
+1 |
+
+46,5 |
+
+1,1 |
+
+0 |
+
+57,42 |
 
 Solea solea |
 
@@ -3360,13 +3360,13 @@ Sous-quota (tonnes) |
 
 0 |
 
-4 |
+2,7 |
 
 0 |
 
-0 |
+2 |
 
-1 |
+1,3 |
 
 2 |
 
@@ -3374,15 +3374,15 @@ Sous-quota (tonnes) |
 
 0 |
 
-1 |
+0 |
 
-18 |
-
-1 |
+25 |
 
 0 |
 
-27 |
+0 |
+
+33 |
 
 Solea solea |
 
@@ -3394,71 +3394,55 @@ SOL/8AB. |
 
 Sous-quota (tonnes) |
 
-39 |
+48 |
 
-307 |
-
-3 |
-
-37 |
-
-21 |
-
-338 |
-
-217 |
-
-26 |
-
-267 |
-
-480 |
-
-366 |
+344 |
 
 0 |
 
-2101 |
+3 |
+
+1 |
+
+364 |
+
+279 |
+
+3,1 |
+
+284 |
+
+517 |
+
+392 |
+
+0 |
+
+2235,1 |
 
 Solea solea |
 
-(1) Pour les navires autorisés à pêcher l'anchois au chalut pélagique de manière ciblée ou occasionnelle en zone CIEM VIII, les captures sont limitées à 300 t sur la période du 1er mars au 30 avril 2026.
+(1) Pour les navires autorisés à pêcher l'anchois au chalut pélagique de manière ciblée ou occasionnelle en zone CIEM VIII, les captures sont limitées à 300 t sur la période du 1 er mars au 30 avril 2026.
 
 Libellé du quota |
 
-Zone de référence
-
-du Conseil
-
-international
-
-pour l'exploration
-
-de la mer (CIEM) |
+Zone de référence du Conseil international pour l'exploration de la mer (CIEM) |
 
 Code stock |
 
 |
 
-Navires pratiquant
-
-le métier de la senne et adhérents à l'organisation de producteurs
-
-ORTHONGEL |
+Navires pratiquant le métier de la senne et adhérents à l'organisation de producteurs ORTHONGEL |
 
 Autres navires |
 
 Total |
 
-Dont navires
-
-immatriculés
+Dont navires immatriculés
 
 à La Réunion |
 
-Dont navires
-
-immatriculés
+Dont navires immatriculés
 
 à Mayotte |
 
@@ -3484,39 +3468,23 @@ Thunnus albacares |
 
 Libellé du quota |
 
-Zone de référence
-
-du Conseil
-
-international
-
-pour l'exploration
-
-de la mer (CIEM) |
+Zone de référence du Conseil international pour l'exploration de la mer (CIEM) |
 
 Code stock |
 
 |
 
-Navires pratiquant
-
-le métier de la senne et adhérents à l'organisation de producteurs
-
-ORTHONGEL |
+Navires pratiquant le métier de la senne et adhérents à l'organisation de producteurs ORTHONGEL |
 
 Autres navires |
 
 Total |
 
-Dont navires
-
-immatriculés
+Dont navires immatriculés
 
 à La Réunion |
 
-Dont navires
-
-immatriculés
+Dont navires immatriculés
 
 à Mayotte |
 
@@ -3528,9 +3496,9 @@ BET/IOTC |
 
 Sous-quota (tonnes) |
 
-4 063 |
+3 853 |
 
-186,3 |
+396,3 |
 
 5,7 |
 
@@ -3540,39 +3508,23 @@ Thunnus obesus |
 
 Libellé du quota |
 
-Zone de référence
-
-du Conseil
-
-international
-
-pour l'exploration
-
-de la mer (CIEM) |
+Zone de référence du Conseil international pour l'exploration de la mer (CIEM) |
 
 Code stock |
 
 |
 
-Navires pratiquant
-
-le métier de la senne et adhérents à l'organisation de producteurs
-
-ORTHONGEL |
+Navires pratiquant le métier de la senne et adhérents à l'organisation de producteurs ORTHONGEL |
 
 Autres navires |
 
 Total |
 
-Dont navires
-
-immatriculés
+Dont navires immatriculés
 
 à La Réunion |
 
-Dont navires
-
-immatriculés
+Dont navires immatriculés
 
 à Mayotte |
 
@@ -3584,13 +3536,13 @@ SKJ/IOTC |
 
 Sous-quota (tonnes) |
 
-36 613,5 (1) |
+37 856,5 (1) |
 
-44,6 (1) |
+11,6 (1) |
 
-186,9 (1) |
+192,9 (1) |
 
-36 845 |
+36 061 |
 
 Katsuwonus pelamis |
 
@@ -3598,53 +3550,19 @@ Katsuwonus pelamis |
 
 Libellé du quota |
 
-Zone de référence du Conseil
-
-international
-
-pour l'exploration
-
-de la mer (CIEM) |
+Zone de référence du Conseil international pour l'exploration de la mer (CIEM) |
 
 Code stock |
 
 |
 
-Navires titulaires d'une AEP "thons tropicaux en zone ICCAT" pratiquant le métier de la senne et adhérents
+Navires titulaires d'une AEP "thons tropicaux en zone ICCAT" pratiquant le métier de la senne et adhérents à l'organisation de producteurs ORTHONGEL |
 
-à l'organisation
+Navires titulaires d'une AEP "thons tropicaux en zone ICCAT" et pratiquant le métier de la canne ou de la ligne |
 
-de producteurs ORTHONGEL |
+Autres navires titulaires d'une AEP "thons tropicaux en zone ICCAT" |
 
-Navires titulaires d'une AEP
-
-"thons tropicaux
-
-en zone ICCAT"
-
-et pratiquant
-
-le métier
-
-de la canne
-
-ou de la ligne |
-
-Autres navires titulaires d'une AEP thons
-
-tropicaux
-
-en zone ICCAT" |
-
-Navires non titulaires
-
-d'une AEP "thons
-
-tropicaux
-
-en zone
-
-ICCAT" (1) |
+Navires non titulaires d'une AEP "thons tropicaux en zone ICCAT" (1) |
 
 Total |
 
@@ -3658,7 +3576,7 @@ BET/ATLANT |
 
 Sous-quota (tonnes) |
 
-3 254 |
+3 211 |
 
 143 |
 
@@ -3666,7 +3584,7 @@ Sous-quota (tonnes) |
 
 72 |
 
-3 576 |
+3 533 |
 
 (1) Pour les navires titulaires de l'AEP thon blanc (Thunnus alalunga) avec l'engin chalut pélagique dans l'océan Atlantique au nord de 5°N, les captures sont autorisées dans la limite de 3 tonnes par navire et par marée.
 
@@ -3680,17 +3598,11 @@ Code stock |
 
 Navires non adhérant à une organisation de producteurs |
 
-Navires adhérant à l'organisation de producteurs
+Navires adhérant à l'organisation de producteurs Organisation de producteurs du Sud (OP du Sud) |
 
-Organisation de producteurs du Sud (OP du Sud) |
+Navires adhérant à l'organisation de producteurs Société Coopérative Maritime des Pêcheurs de Sète Môle (SA.THO.AN) |
 
-Navires adhérant à l'organisation de producteurs
-
-Société Coopérative Maritime des Pêcheurs de Sète Môle (SA.THO.AN) |
-
-Navires adhérant à l'organisation de producteurs
-
-Organisation de producteurs du Levant (OP du Levant) |
+Navires adhérant à l'organisation de producteurs Organisation de producteurs du Levant (OP du Levant) |
 
 Total |
 
