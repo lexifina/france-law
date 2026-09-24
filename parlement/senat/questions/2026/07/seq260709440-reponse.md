@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260709440
+
+- Question : [SEQ260709440](seq260709440.md) — Impact de la diminution de la dotation de compensation de la réforme de la taxe professionnelle sur les finances locales
+
+## Réponse
+
+*Action et comptes publics, JO du 2026-09-24, page 4578*
+
+L'article 78 de la loi de finances pour 2010 a prévu un mécanisme destiné à assurer la neutralité financière de la réforme de la taxe professionnelle pour chaque collectivité, essentiellement à travers l'affectation d'une nouvelle fiscalité professionnelle aux collectivités concernées et subsidiairement deux dispositifs spécifiques : une dotation de compensation de la réforme de la taxe professionnelle (DCRTP), financée par l'État, et d'un fonds national de garantie individuelle de ressources (FNGIR) qui sont aujourd'hui figés. La DCRTP, figée et assise sur des critères historiques désormais anciens, a été mobilisée dans le cadre des « variables d'ajustement » et les lois de finances pour 2025 et 2026 prévoient une minoration de ses montants versés au bloc communal, aux départements et aux régions. Ce mécanisme contribue à la maîtrise du dynamisme des crédits de la mission « Relations avec les collectivités territoriales » et des prélèvements sur les recettes de l'État au profit des collectivités territoriales. Dans un objectif d'équité, le montant de la minoration supportée est réparti au prorata des recettes réelles de fonctionnement des bénéficiaires, telles que définies aux articles 107 de la loi de finances pour 2025 et 129 de la loi de finances pour 2026. Enfin, il convient de rappeler que, dans le fascicule 2 de son rapport sur la situation des finances publiques locales pour 2024, la Cour des comptes recommande une réduction importante des concours anciens figés de l'État (variables d'ajustement), dont la DCRTP constitue 76 % de l'assiette en 2026. Pour ces raisons, il n'est pas envisagé de revenir sur les montants de DCRTP de 2026.
