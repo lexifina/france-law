@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260408199
+
+- Question : [SEQ260408199](seq260408199.md) — Pérennité du financement des IRT/ITE dans le cadre de France 2030 après la promulgation de la loi de finances pour 2026
+
+## Réponse
+
+*Enseignement supérieur, recherche et espace, JO du 2026-09-24, page 4611*
+
+Depuis leur création, les instituts de recherche technologique et les instituts de transition écologique (IRT-ITE) ont été financés dans une logique de co-investissement public-privé par tranches pluriannuelles permettant de donner la visibilité nécessaire à la recherche technologique à finalité industrielle. Le financement socle de l'État était jusqu'à présent assuré sous la forme d'intérêts associés à des dotations non consommables. La dernière tranche de financement des IRT-ITE concernait la période 2020-2024 pour un montant de 450 Meuros pour 15 instituts, soit un financement annuel moyen de 90 Meuros. Le Gouvernement a confirmé l'an dernier la fin de cette modalité de financement pour les dispositifs concernés (IRT-ITE, et également les laboratoires d'excellence (Labex) et les instituts hospitalo-universitaires (IHU) ), ce qui a été indiqué aux porteurs de projets. Ce choix de modifier les modalités de financement, en passant désormais par le budget général de l'État dans une loi de finances, s'explique avant tout par un meilleur contrôle et une plus grande lisibilité pour le Parlement ainsi qu'un pilotage plus aisé pour l'État de ces financements. Cette réintégration dans le budget de l'État n'est en rien incompatible avec une visibilité pluriannuelle du financement pour les 14 IRT-ITE qui sont toujours subventionnés. Sur les 450 Meuros inscrits dans la loi de finances pour 2026 (pour les IRT-ITE, Labex et IHU), la répartition de cette enveloppe entre les IRT-ITE, Labex et IHU est en cours d'instruction.
