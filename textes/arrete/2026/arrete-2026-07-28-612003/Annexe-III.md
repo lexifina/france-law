@@ -818,6 +818,12 @@ Formation mixte EPI/EPC de moniteur parachutiste. |
 
 1 |
 
+Formation au saut opérationnel à grande hauteur. |
+
+3 |
+
+1 |
+
 Formation de cursus module sous-officier adjoint cynotechnie. |
 
 1 |
@@ -942,7 +948,7 @@ Formation initiale spécialisation GPL |
 
 2 |
 
-Formation initiale de spécialisation sécurité incendie du domaine AER. |
+Formation initiale de spécialisation sécurité incendie et secours du domaine AER. |
 
 3 |
 
@@ -1038,31 +1044,31 @@ CTE SIS (spécialiste intervention subaquatique). |
 
 1 |
 
-Formation "pédagogie appliquée à l'emploi de formateur en sauvetage aquatique" (PAE FSA). |
+Formation pédagogie appliquée à l'emploi de formateur en sauvetage aquatique (PAE FSA). |
 
 2 |
 
 1 |
 
-Unité d'enseignement "pédagogie appliquée à l'emploi de formateur aux premiers secours en équipe" (PAE FPSE). |
+Unité d'enseignement pédagogie appliquée à l'emploi de formateur aux premiers secours en équipe (PAE FPSE). |
 
 2 |
 
 1 |
 
-Formation à l'unité d'enseignement "pédagogie appliquée à l'emploi de formateur de formateurs" (PAE FF). |
+Formation à l'unité d'enseignement pédagogie appliquée à l'emploi de formateur de formateurs (PAE FF). |
 
 2 |
 
 1 |
 
-Unité d'enseignement "Pédagogie appliquée à l'emploi de formateur aux premiers secours citoyens" (PAE FPSC). |
+Unité d'enseignement pédagogie appliquée à l'emploi de formateur aux premiers secours citoyens (PAE FPSC). |
 
 2 |
 
 1 |
 
-Unité d'enseignement "conception et encadrement de formation" (CEF). |
+Unité d'enseignement conception et encadrement de formation (CEF). |
 
 2 |
 

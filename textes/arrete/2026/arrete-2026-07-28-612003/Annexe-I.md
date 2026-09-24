@@ -66,7 +66,7 @@ Formation de l'enseignement supérieur validée par une capacité universitaire 
 
 (3) A l'exception des militaires dont la gestion relève du service de santé des armées, la durée de lien au service et le coefficient multiplicateur attachés à cette formation ne s'appliquent pas lorsque celle-ci est suivie dans le cadre de l'enseignement militaire supérieur.
 
-(4) En ce qui concerne le service de santé des armée, la durée de lien au service et le coefficient multiplicateur de cette formation sont définis à l'annexe VII. |
+(4) En ce qui concerne le service de santé des armées, la durée de lien au service et le coefficient multiplicateur de cette formation sont définis à l'annexe VII. |
 
 2. Enseignement militaire supérieur et assimilé
 
@@ -360,7 +360,7 @@ Diplôme d'Etat d'alpinisme accompagnateur en moyenne montagne (DEA-AMM). |
 
 2 |
 
-Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport (DEJEPS) spécialité "perfectionnement sportif" mention "parapente". |
+Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport (DEJEPS) spécialité perfectionnement sportif mention parapente. |
 
 4 |
 
@@ -668,13 +668,17 @@ Agent de prévention (PRV 1) ou attestation de compétence en matière de préve
 
 1 |
 
-Préventionniste (PRV 2) ou attestation de compétence en matière de prévention de niveau 2 (AP 2), formation dispensée à l'ENSOSP. |
+Préventionniste (PRV 2) ou attestation de compétence en matière de prévention de niveau 2 (AP 2), formation dispensée à l'Ecole nationale supérieure des officiers de sapeurs-pompiers (ENSOSP).
+
+|
 
 4 |
 
 1 |
 
-Responsable départemental de la prévention (PRV 3), formation dispensée à l'Ecole nationale supérieure des officiers de sapeurs-pompiers (ENSOSP). |
+Responsable départemental de la prévention (PRV 3), formation dispensée à l'ENSOSP.
+
+|
 
 3 |
 
@@ -960,15 +964,19 @@ Coefficient
 
 multiplicateur |
 
-Formation de la direction générale de la sécurité extérieure (DGSE), externalisée auprès d'un prestataire, dont le coût est compris entre 2 500 et 5 000 € |
+Formation de la direction générale de la sécurité extérieure (DGSE), externalisée auprès d'un prestataire, dont le coût est compris entre 2 500 € et 5 000 €
+
+|
 
 2 |
 
 2 |
 
-Formation de la DGSE, externalisée auprès d'un prestataire, dont le coût est compris entre 5 000 et 7 500 € |
+Formation de la DGSE, externalisée auprès d'un prestataire, dont le coût est compris entre 5 000 € et 7 500 € |
 
-3 |
+3
+
+|
 
 3 |
 
