@@ -296,7 +296,7 @@ BROUARD, Arsenal, 29200 Brest : depuis sa création jusqu’au 31 décembre 2027
 
 BROUARD –Les Peintures Malouines- 53, rue John-Kennedy, 35400 Saint-Malo : depuis sa création jusqu’au 31 décembre 2027.
 
-CCI de Brest (Chambre de Commerce et d'Industrie de Brest) puis Société Portuaire Brest Bretagne (SPBB) -siège social : place du 19è-RI, port de Brest ; Ateliers : 1, rue de Kiel, 29200 Brest : depuis 1911 jusqu’au 31 décembre 2027.
+CCI de Brest (Chambre de Commerce et d'Industrie de Brest) puis Société Portuaire Brest Bretagne (SPBB) -siège social : place du 19è-RI, port de Brest ; Ateliers : 1, rue de Kiel, 29200 Brest puis BRESTPORT (Siret : 892 370 974 00032), 1, rue de Kiel, 29200 BREST ; depuis 1911 jusqu'au 31 décembre 2027.
 
 CEMAT (Construction Etudes et Montages de l'Atlantique) - rue de l'Eau-Blanche, ZI de Kergonan, 29200 Brest : depuis sa création jusqu’au 31 décembre 2027.
 
@@ -1679,3 +1679,7 @@ Vanborren :
 Weizsaecker et Carrière Industrie (WCI) - 30, rue Lenghenaer, 59140 Dunkerque : depuis 1930 jusqu’au 31 décembre 2027.
 
 Whessoe, rue de Bitche, 62100 Calais : de 1961 à 1995.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 18 septembre 2026 (NOR : TRST2622176A), sont réputés figurer à la liste mentionnée à l'article 1er du même arrêté ces mêmes établissements lorsqu'ils ont, sous une dénomination différente, exercé la même activité.
