@@ -68,8 +68,6 @@ Conformément à l'article 1 de l'arrêté du 20 décembre 2023 (NOR : ENER23334
 
 Conformément à l'article 1 de l'arrêté du 20 décembre 2023 (NOR : ENER2333440A), la fiche d'opération standardisée n° AGRI-EQ-109 est remplacée par la fiche figurant en annexe A audit arrêté, à compter du 1er février 2024.
 
-- Séchage solaire par insufflation des produits et co-produits agricoles et forestiers utilisant des panneaux solaires hybrides / Fiche d'opération n° AGRI-EQ-110
-
 - Simple écran thermique / Fiche d'opération n° AGRI-EQ-111
 
 Conformément à l'article 3 de l'arrêté du 22 août 2024 (NOR : ECOR2422700A), la présente annexe est complétée par la fiche d'opération standardisée figurant à l'annexe E de l'arrêté précité. Vous pouvez consulter l'annexe à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=ZbBEIZBpGcGHOKQbKS9utmtc_Fh71x9KoG_z3damffY=.
@@ -278,4 +276,4 @@ Nota.-Le coût de l'opération s'entend, selon la nature de l'opération, comme 
 
 NOTA :
 
-Conformément au premier alinéa de l'article 5 de l'arrêté du 21 décembre 2025 (NOR : ECOR2534164A), ces dispositions, dans leur rédaction issue du II de l'article 2 de l'arrêté précité, entrent en vigueur à compter du 1er juillet 2026 et s'appliquent aux opérations engagées à compter de cette date.
+Conformément à l'article 2 de l'arrêté du 18 septembre 2026 (NOR : ECOR2624709A), les dispositions de la fiche d'opération standardisée AGRI-EQ-110 "Séchage solaire par insufflation des produits et co-produits agricoles et forestiers utilisant des panneaux solaires hybrides" s'appliquent aux opérations incluses dans une liste transmise dans un délai de 10 jours calendaires à compter de la date de publication du présent arrêté, par le demandeur de certificats au ministre chargé de l'énergie, suivant le modèle intitulé "Tableau de recensement des engagements AGRI-EQ-110" établi par la direction générale de l'énergie et du climat et mis à disposition sur le site internet du ministère.

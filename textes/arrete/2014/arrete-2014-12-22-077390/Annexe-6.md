@@ -2448,12 +2448,6 @@ Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR160
 
 Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-SE-102 remplace, à compter du 1 er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https :// www. legifrance. gouv. fr/ jorf/ id/ JORFTEXT000047310913.
 
--Station de gonflage des pneumatiques/ Fiche d’opération n° TRA-SE-104
-
-Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
-
-Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-SE-104 remplace, à compter du 1 er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https :// www. legifrance. gouv. fr/ jorf/ id/ JORFTEXT000047310913.
-
 -Recreusage des pneumatiques/ Fiche d’opération n° TRA-SE-105
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
@@ -2926,4 +2920,4 @@ https :// www. legifrance. gouv. fr/ download/ pdf ? id = FGBMw6bzzOGU6LHfYz6-OO
 
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 10 août 2026 (NOR : ECOR2618106A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur à compter du 1er septembre 2026 et s'appliquent aux opérations engagées à compter de cette date.
+Conformément à l'article 2 de l'arrêté du 18 septembre 2026 (NOR : ECOR2624709A), les dispositions de la fiche d'opération standardisée TRA-SE-104 "Station de gonflage des pneumatiques" s'appliquent aux opérations incluses dans une liste transmise dans un délai de 10 jours calendaires à compter de la date de publication du présent arrêté, par le demandeur de certificats au ministre chargé de l'énergie, suivant le modèle intitulé "Tableau de recensement des engagements TRA-SE-104" établi par la direction générale de l'énergie et du climat et mis à disposition sur le site internet du ministère.
