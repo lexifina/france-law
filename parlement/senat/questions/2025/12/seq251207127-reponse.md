@@ -1,0 +1,9 @@
+# Réponse à la question SEQ251207127
+
+- Question : [SEQ251207127](seq251207127.md) — Communication de l'État autour de l'extension du scrutin de liste aux communes de moins de 1 000 habitants
+
+## Réponse
+
+*Intérieur , JO du 2026-09-24, page 4626*
+
+Les élections municipales et communautaires des 15 et 22 mars 2026 ont été marquées par l'entrée en vigueur de la loi n° 2025-444 du 21 mai 2025 visant à harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité. Sa bonne application et l'accompagnement des maires, des candidats et des électeurs ont constitué une priorité pour le ministre de l'intérieur. Dès le printemps 2025, le ministère de l'intérieur a travaillé avec l'Association des maires de France (AMF) et l'Association des maires ruraux de France (AMRF). Des séminaires de présentations ont été organisés à destination des élus. L'enregistrement du premier d'entre eux, diffusé en ligne le 10 juillet 2025, a totalisé plus de 6 000 vues. Ces séminaires se sont inscrits dans un plan de communication d'ampleur lancé dès la fin d'année 2025 : plus d'un million d'affiches et de flyers ont été adressés aux préfectures, notamment pour expliquer le scrutin de liste et la fin du panachage dans les communes de moins de 1000 habitants. Ces actions ont été complétées par des informations diffusées en ligne, sur les réseaux sociaux et dans la presse nationale et régionale. Les préfectures et sous-préfectures ont également accompagné les candidats et les élus locaux. Lors du scrutin, la proportion de bulletins nuls est restée globalement stable, voire légèrement inférieur à celle de 2020, toutes strates de communes confondues. Dans les communes de moins de 1 000 habitants, elle a augmenté de 5,08 points au premier tour, avant de diminuer de 2,16 points au second tour par rapport à 2020.
