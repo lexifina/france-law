@@ -40,7 +40,7 @@ Le candidat évolue dans le milieu avec un premier support de type planche initi
 
 La durée de démonstration pour chaque support est entre vingt minutes minimum et trente minutes maximum en fonction des conditions, dans une zone d'évolution délimitée.
 
-L'organisme de formation fixe un nombre minimum de vagues à prendre dans le temps imparti pour chaque support.
+Dans le temps imparti et pour chaque support, l'organisme de formation fixe un nombre minimum de vagues à prendre pour les hommes et un nombre minimum de vagues à prendre inférieur pour les femmes.
 
 Le candidat doit démontrer sa capacité à :
 
@@ -94,7 +94,7 @@ Peut se présenter aux épreuves certificatives du BC4 le candidat ayant validé
 
 Ce test consiste en un passage de barre (au-delà de la zone où les vagues cassent) à la nage, sans matériel. Après un départ depuis le sable, le candidat doit contourner une bouée/repère située au large à cent mètres minimum et cent-cinquante mètres maximum, puis revenir sur le sable en s'aidant obligatoirement des vagues avec un retour en bodysurf.
 
-Un temps limite est fixé en fonction du temps réalisé par un ouvreur. La tolérance pour valider le test est fixée à 120 % du temps réalisé par l'ouvreur.
+Un temps limite est fixé en fonction du temps réalisé par une ouvreuse. La tolérance pour valider le test est fixée à 120 % du temps réalisé par l'ouvreuse. La tolérance pour valider le test est fixée à 120 % du temps réalisé par l'ouvreur.
 
 La situation d'évaluation certificative du bloc de compétences 4 (BC4) est réalisée au moyen d'une mise en situation professionnelle au sein de l'organisme de formation portant sur la réalisation d'une intervention de sauvetage.
 
