@@ -34,8 +34,6 @@ c) La présence de substances dangereuses ;
 
 d) L'incorporation de matière recyclée.
 
-Une prime ne peut être accordée à un produit affecté d'une pénalité, à l'exception des primes liées à l'incorporation de matières recyclées.
-
 2.2 Soutien aux projets de recherche et développement
 
 L’éco-organisme consacre sur la durée de l’agrément au moins 1 M€ au financement des projets de recherche et développement visant à développer la réparabilité des cycles et engins de déplacements personnel motorisés.
