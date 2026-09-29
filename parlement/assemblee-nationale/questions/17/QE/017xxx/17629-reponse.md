@@ -1,0 +1,9 @@
+# Réponse à la question n° 17629
+
+- Question : [17629](17629.md) — Question n° 17629 — Absence de coordination des services de transports entre régions voisines
+
+## Réponse
+
+*JO du 2026-09-29, page 9196*
+
+Le Gouvernement est très soucieux de l'offre de services ferroviaires proposés aux usagers pour répondre notamment aux besoins de la mobilité quotidienne, ainsi que de de leur tarification équitable et accessible, en particulier pour les familles et les scolaires. Toutefois, hormis les billets à tarification sociale nationale tels que ceux à destination des familles nombreuses, la tarification des services TER ne relève pas de l'État, mais uniquement des régions en tant qu'autorités organisatrices des services de transport ferroviaire de voyageurs d'intérêt régional. Ainsi, dans le cadre des conventions d'exploitation qui les lient à SNCF Voyageurs ou à d'autres attributaires des contrats de service public progressivement mis en concurrence, les régions définissent librement la politique tarifaire à destination de l'ensemble des clients dont notamment les formules, les prix et les conditions d'application des abonnements destinés aux élèves et aux étudiants. En particulier l'accès éventuel aux offres tarifaires interrégionales dépend des accords conclus entre les régions concernées qui peuvent convenir des dispositifs de continuité tarifaire aux frontières de leurs ressorts territoriaux. L'État, en application du principe de libre administration des collectivités territoriales, n'intervient pas dans ces choix et ces négociations. Néanmoins, conscient des difficultés qu'une continuité territoriale et tarifaire insuffisante entre les régions peut engendrer pour les usagers, notamment les familles et les travailleurs, le ministère des transports appelle régulièrement les exécutifs régionaux à renforcer leur coordination.
