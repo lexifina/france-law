@@ -1,0 +1,9 @@
+# Réponse à la question n° 17390
+
+- Question : [17390](17390.md) — Question n° 17390 — Exigence de vérité pour les disparitions forcées en Guinée
+
+## Réponse
+
+*JO du 2026-09-29, page 9117*
+
+La France suit avec attention la situation en Guinée. Elle maintient un dialogue nourri tant avec les autorités qu'avec les forces politiques ou avec la société civile guinéennes, dans le respect de la souveraineté de ce pays avec lequel nous entretenons un partenariat dynamique. La France et l'Union européenne ont fait part à plusieurs reprises aux autorités guinéennes, y compris par la voix du porte-parole du ministère de l'Europe et des affaires étrangères les 18 octobre 2024 et 7 mars 2025, de leurs attentes et de leurs vives préoccupations, s'agissant notamment des faits de disparitions forcées et de violences ayant touché des responsables politiques et des membres de la société civile. Ces sujets ont fait l'objet d'échanges avec les plus hautes autorités guinéennes lors des visites à Conakry de la ministre déléguée chargée de la Francophonie, des partenariats internationaux et des Français de l'étranger le 17 janvier 2026, et du ministre délégué chargé du commerce extérieur et de l'attractivité les 7 et 8 avril 2026. Ils sont également évoqués de manière régulière par notre ambassade à Conakry avec les autorités guinéennes qui sont tenues par leurs engagements multilatéraux en la matière. Ces sujets ont également fait l'objet de recommandations adressées par la France à la Guinée dans le cadre de l'Examen périodique universel, dont le dernier date du 29 avril 2025. Cette action diplomatique s'exerce dans le respect de la souveraineté guinéenne, la France n'ayant pas vocation à se substituer à la justice de ce pays. La France continuera de se mobiliser pour favoriser l'établissement de la vérité sur le sort de Messieurs Oumar Sylla et Mamadou Billo Bah et maintenir une vigilance quant au respect des libertés fondamentales en Guinée.
