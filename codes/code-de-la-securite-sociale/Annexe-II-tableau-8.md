@@ -30,7 +30,7 @@ Fabrication, concassage, broyage, ensachage et transport à dos d'homme des cime
 
 |
 
-Dermites eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par un test épicutané.
+Dermites eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par un test.
 
 |
 
@@ -53,3 +53,7 @@ Conjonctivite.
 30 jours
 
 |
+
+NOTA :
+
+Conformément à l'article 3 du décret n° 2026-901 du 24 septembre 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter du 30 septembre 2026. Elles sont applicables aux procédures de reconnaissance de maladies professionnelles pour lesquelles le certificat médical initial est établi à compter de leur entrée en vigueur.

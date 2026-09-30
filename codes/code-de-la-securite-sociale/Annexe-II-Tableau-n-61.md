@@ -24,7 +24,7 @@ Broncho-pneumopathie aiguë.
 
 |
 
-Extraction, préparation, emploi du cadmium, de ses alliages et de ses composés, notamment : préparation du cadmium par voie sèche » ou électrométallurgie du zinc ; découpage au chalumeau ou soudure de pièces cadmiées ; soudure avec alliage de cadmium ; fabrication d'accumulateurs au nickel-cadmium ; fabrication de pigments cadmifères, pour peintures, émaux, matières plastiques.
+Extraction, préparation, emploi du cadmium, de ses alliages et de ses composés, notamment : préparation du cadmium par voie sèche ou électrométallurgie du zinc ; découpage au chalumeau ou soudure de pièces cadmiées ; soudure avec alliage de cadmium ; fabrication d'accumulateurs au nickel-cadmium ; fabrication de pigments cadmifères, pour peintures, émaux, matières plastiques.
 
 |
 
@@ -44,10 +44,14 @@ Néphropathie avec protéinurie.
 
 |
 
-Ostéomalacie avec ou sans fractures spontanées, accompagnée ou non de manifestations douloureuses, radiologiquement confirmée.
+Ostéomalacie avec ou sans fractures spontanées, accompagnée ou non de manifestations douloureuses.
 
 |
 
 12 ans
 
 |
+
+NOTA :
+
+Conformément à l'article 3 du décret n° 2026-901 du 24 septembre 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter du 30 septembre 2026. Elles sont applicables aux procédures de reconnaissance de maladies professionnelles pour lesquelles le certificat médical initial est établi à compter de leur entrée en vigueur.

@@ -46,7 +46,7 @@ Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en ab
 
 |
 
-Tendinopathie chronique non rompue non calcifiante avec ou sans enthésopathie de la coiffe des rotateurs objectivée par IRM (*).
+Tendinopathie chronique non rompue non calcifiante avec ou sans enthésopathie de la coiffe des rotateurs.
 
 |
 
@@ -64,7 +64,7 @@ ou
 
 |
 
-Rupture partielle ou transfixiante de la coiffe des rotateurs objectivée par IRM (*). |
+Rupture partielle ou transfixiante de la coiffe des rotateurs. |
 
 1 an (sous réserve d'une durée d'exposition d'un an) |
 
@@ -77,8 +77,6 @@ ou
 - avec un angle supérieur ou égal à 90° pendant au moins une heure par jour en cumulé.
 
 |
-
-(*) Ou un arthroscanner en cas de contre-indication à l'IRM.
 
 (**) Les mouvements en abduction correspondent aux mouvements entraînant un décollement des bras par rapport au corps.
 
@@ -142,7 +140,7 @@ Travaux comportant habituellement un appui prolongé sur la face postérieure du
 
 |
 
-Syndrome canalaire du nerf ulnaire dans la gouttière épithrochléo-oléocranienne confirmé par électroneuromyographie (EMG)
+Syndrome canalaire du nerf ulnaire dans la gouttière épithrochléo-oléocranienne
 
 |
 
@@ -228,7 +226,7 @@ Genou
 
 |
 
-Compression du nerf sciatique poplité externe (SPE) (nerf fibulaire commun) au col du péroné (fibula) objectivée par ENMG.
+Compression du nerf sciatique poplité externe (SPE) (nerf fibulaire commun) au col du péroné (fibula).
 
 |
 
@@ -258,9 +256,9 @@ Hygroma chronique du genou.
 
 |
 
-Tendinopathie sous quadricipitale objectivée par échographie
+Tendinopathie sous quadricipitale
 
-Tendinopathie quadricipitale objectivée par échographie.
+Tendinopathie quadricipitale.
 
 |
 
@@ -272,7 +270,7 @@ Travaux comportant de manière habituelle des efforts en charge avec contraction
 
 |
 
-Tendinopathie de la patte d'oie objectivée par échographie.
+Tendinopathie de la patte d'oie.
 
 |
 
@@ -284,7 +282,7 @@ Travaux comportant de manière habituelle des mouvements répétés et rapides d
 
 |
 
-Syndrome de la bandelette ilio-tibiale objectivée par échographie.
+Syndrome de la bandelette ilio-tibiale.
 
 |
 
@@ -312,9 +310,7 @@ Cheville et pied
 
 |
 
-Tendinopathie d'Achille objectivée par échographie (*).
-
-(*) L'IRM le cas échéant.
+Tendinopathie d'Achille.
 
 |
 
@@ -323,3 +319,7 @@ Tendinopathie d'Achille objectivée par échographie (*).
 |
 
 Travaux comportant de manière habituelle des efforts pratiqués en station prolongée sur la pointe des pieds. |
+
+NOTA :
+
+Conformément à l'article 3 du décret n° 2026-901 du 24 septembre 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter du 30 septembre 2026. Elles sont applicables aux procédures de reconnaissance de maladies professionnelles pour lesquelles le certificat médical initial est établi à compter de leur entrée en vigueur.

@@ -28,7 +28,7 @@ Cette liste est commune à l'ensemble des affections désignées aux paragraphes
 
 |
 
-A. - Asbestose : fibrose pulmonaire diagnostiquée sur des signes radiologiques spécifiques, qu'il y ait ou non des modifications des explorations fonctionnelles respiratoires. Complications : insuffisance respiratoire aiguë, insuffisance ventriculaire droite.
+A. - Asbestose : fibrose pulmonaire, qu'il y ait ou non des modifications des explorations fonctionnelles respiratoires. Complications : insuffisance respiratoire aiguë, insuffisance ventriculaire droite.
 
 |
 
@@ -46,7 +46,7 @@ B. - Lésions pleurales bénignes avec ou sans modifications des explorations fo
 
 |
 
-- plaques calcifiées ou non péricardiques ou pleurales, unilatérales ou bilatérales, lorsqu'elles sont confirmées par un examen tomodensitométrique ;
+- plaques calcifiées ou non péricardiques ou pleurales, unilatérales ou bilatérales ;
 
 |
 
@@ -62,7 +62,7 @@ B. - Lésions pleurales bénignes avec ou sans modifications des explorations fo
 
 |
 
-- épaississement de la plèvre viscérale, soit diffus soit localisé lorsqu'il est associé à des bandes parenchymateuses ou à une atélectasie par enroulement. Ces anomalies constatées devront être confirmées par un examen tomodensitométrique.
+- épaississement de la plèvre viscérale, soit diffus soit localisé lorsqu'il est associé à des bandes parenchymateuses ou à une atélectasie par enroulement.
 
 |
 
@@ -97,3 +97,5 @@ E. - Autres tumeurs pleurales primitives.
 NOTA :
 
 Conseil d'Etat n° 222313 et n° 222505 : le Conseil d'Etat a annulé les dispositions du II de l'art. 1 du décret 2000-343 du 14 avril 2000 modifiant le tableau n° 30 des maladies professionnelles annexé au livre IV de code de la sécurité sociale en tant qu'elles prévoient que l'épaississement de la plèvre viscérale n'est une maladie professionnelle que s'il est constaté " en l'absence d'antécédents de pleurésie de topographie concordante de cause non asbestosique ".
+
+Conformément à l'article 3 du décret n° 2026-901 du 24 septembre 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter du 30 septembre 2026. Elles sont applicables aux procédures de reconnaissance de maladies professionnelles pour lesquelles le certificat médical initial est établi à compter de leur entrée en vigueur.

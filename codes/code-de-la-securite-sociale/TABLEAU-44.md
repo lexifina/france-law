@@ -14,7 +14,7 @@ LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
 
 |
 
-Sidérose : pneumopathie interstitielle chronique par surcharge de particules de fer ou d'oxydes de fer, révélée par des opacités punctiformes diffuses sur des documents radiographiques ou tomodensitométriques ou par des constatations anatomopathologiques lorsqu'elles existent, ces signes ou constatations s'accompagnant ou non de troubles fonctionnels respiratoires.
+Sidérose : pneumopathie interstitielle chronique par surcharge de particules de fer ou d'oxydes de fer, révélée par des opacités punctiformes diffuses s'accompagnant ou non de troubles fonctionnels respiratoires.
 
 |
 
@@ -29,3 +29,7 @@ Travaux exposant à l'inhalation de poussières minérales ou de fumées, conten
 Manifestation pathologique associée : emphysème.
 
 |
+
+NOTA :
+
+Conformément à l'article 3 du décret n° 2026-901 du 24 septembre 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter du 30 septembre 2026. Elles sont applicables aux procédures de reconnaissance de maladies professionnelles pour lesquelles le certificat médical initial est établi à compter de leur entrée en vigueur.

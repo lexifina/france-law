@@ -36,7 +36,7 @@ Travaux exposant à l'inhalation des poussières renfermant de la silice cristal
 
 |
 
-A1. - Silicose aigüe : pneumoconiose caractérisée par des lésions alvéolo-interstitielles bilatérales mises en évidence par des examens radiographiques ou tomodensitométriques ou par des constatations anatomopathologiques (lipo-protéinose) lorsqu'elles existent ; ces signes ou ces constatations s'accompagnent de troubles fonctionnels respiratoires d'évolution rapide.
+A1. - Silicose aigüe : pneumoconiose caractérisée par des lésions alvéolo-interstitielles bilatérales accompagnées de troubles fonctionnels respiratoires d'évolution rapide.
 
 |
 
@@ -44,7 +44,7 @@ A1. - 6 mois (sous réserve d'une durée minimale d'exposition de 6 mois)
 
 |
 
-A2. - Silicose chronique : pneumoconiose caractérisée par des lésions interstitielles micronodulaires ou nodulaires bilatérales révélées par des examens radiographiques ou tomodensitométriques ou par des constatations anatomopathologiques lorsqu'elles existent ; ces signes ou ces constatations s'accompagnent ou non de troubles fonctionnels respiratoires. Complications : - cardiaque : insuffisance ventriculaire droite caractérisée. - pleuro-pulmonaires : tuberculose et autre mycobactériose (Mycobacterium xenopi, M. avium intracellulare, M. kansasii) surajoutée et caractérisée ; nécrose cavitaire aseptique d'une masse pseudotumorale ; aspergillose intracavitaire confirmée par la sérologie ; - non spécifiques : pneumothorax spontané ; surinfection ou suppuration bactérienne bronchopulmonaire, subaiguë ou chronique. Manifestations pathologiques associées à des signes radiologiques ou des lésions de nature silicotique : - cancer bronchopulmonaire primitif ; - lésions pleuro-pneumoconiotiques à type rhumatoïde (syndrome de Caplan-Collinet).
+A2. - Silicose chronique : pneumoconiose caractérisée par des lésions interstitielles micronodulaires ou nodulaires bilatérales accompagnées ou non de troubles fonctionnels respiratoires. Complications : - cardiaque : insuffisance ventriculaire droite caractérisée. - pleuro-pulmonaires : tuberculose et autre mycobactériose (Mycobacterium xenopi, M. avium intracellulare, M. kansasii) surajoutée et caractérisée ; nécrose cavitaire aseptique d'une masse pseudotumorale ; aspergillose intracavitaire confirmée par la sérologie ; - non spécifiques : pneumothorax spontané ; surinfection ou suppuration bactérienne bronchopulmonaire, subaiguë ou chronique. Manifestations pathologiques associées à des signes radiologiques ou des lésions de nature silicotique : - cancer bronchopulmonaire primitif ; - lésions pleuro-pneumoconiotiques à type rhumatoïde (syndrome de Caplan-Collinet).
 
 |
 
@@ -86,7 +86,7 @@ Travaux exposant à l'inhalation de poussières minérales renfermant des silica
 
 |
 
-Pneumoconioses caractérisées par des lésions interstitielles bilatérales révélées par des examens radiographiques ou tomodensitométriques ou par des constatations anatomopathologiques lorsqu'elles existent, que ces signes radiologiques ou ces constatations s'accompagnent ou non de troubles fonctionnels respiratoires :
+Pneumoconioses caractérisées par des lésions interstitielles bilatérales accompagnées ou non de troubles fonctionnels respiratoires :
 
 |
 
@@ -152,7 +152,7 @@ Complications : - cardiaque : insuffisance ventriculaire droite caractérisée ;
 
 |
 
-C2. - Fibrose interstitielle pulmonaire diffuse non régressive, d'apparence primitive. Cette affection doit être confirmée par un examen radiographique ou par tomodensitométrie en coupes millimétriques ou par des constatations anatomopathologiques lorsqu'elles existent.
+C2. - Fibrose interstitielle pulmonaire diffuse non régressive, d'apparence primitive.
 
 |
 
@@ -163,3 +163,7 @@ C2. - 35 ans (sous réserve d'une durée minimale d'exposition de 10 ans)
 Complications de cette affection : - insuffisance respiratoire chronique caractérisée ; insuffisance ventriculaire droite caractérisée ; tuberculose et autre mycobactériose (Mycobacterium xenopi, M. avium intracellulare, M. kansasii) surajoutée et caractérisée ; pneumothorax spontané.
 
 |
+
+NOTA :
+
+Conformément à l'article 3 du décret n° 2026-901 du 24 septembre 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter du 30 septembre 2026. Elles sont applicables aux procédures de reconnaissance de maladies professionnelles pour lesquelles le certificat médical initial est établi à compter de leur entrée en vigueur.

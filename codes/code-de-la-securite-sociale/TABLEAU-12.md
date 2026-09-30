@@ -98,7 +98,7 @@ Préparation, emploi, manipulation des agents nocifs limitativement énumérés 
 
 |
 
-Polyneuropathhies (après exclusion de la polyneuropathie alcoolique) ou neuropathies trigéminales, confirmées par des examens électrophysiologiques.
+Polyneuropathhies (après exclusion de la polyneuropathie alcoolique) ou neuropathies trigéminales.
 
 |
 
@@ -122,7 +122,7 @@ Préparation, emploi, manipulation des agents nocifs limitativement énumérés 
 
 |
 
-Neuropathies optiques rétrobulbaires bilatérales confirmées par des examens complémentaires, après exclusion de la neuropathie alcoolique.
+Neuropathies optiques rétrobulbaires bilatérales après exclusion de la neuropathie alcoolique.
 
 |
 
@@ -205,3 +205,7 @@ Manifestations d'intoxication oxycarbonnée résultant du métabolisme du dichlo
 Préparation, emploi, manipulation des agents nocifs limitativement énumérés ci-après : dichlorométhane.
 
 |
+
+NOTA :
+
+Conformément à l'article 3 du décret n° 2026-901 du 24 septembre 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter du 30 septembre 2026. Elles sont applicables aux procédures de reconnaissance de maladies professionnelles pour lesquelles le certificat médical initial est établi à compter de leur entrée en vigueur.

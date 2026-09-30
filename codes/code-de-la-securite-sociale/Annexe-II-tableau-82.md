@@ -26,7 +26,7 @@ Travaux comportant la manipulation ou l'emploi de méthacrylate de méthyle nota
 
 |
 
-Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé par test
+Asthme récidivant en cas de nouvelle exposition au risque ou confirmé par test
 
 |
 
@@ -42,7 +42,7 @@ Conjonctivité récidivant en cas de nouvelle exposition au risque
 
 |
 
-Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par un test épicutané
+Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par un test
 
 |
 
@@ -57,3 +57,7 @@ Manifestations respiratoires chroniques avec altérations des épreuves fonction
 1 an
 
 |
+
+NOTA :
+
+Conformément à l'article 3 du décret n° 2026-901 du 24 septembre 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter du 30 septembre 2026. Elles sont applicables aux procédures de reconnaissance de maladies professionnelles pour lesquelles le certificat médical initial est établi à compter de leur entrée en vigueur.

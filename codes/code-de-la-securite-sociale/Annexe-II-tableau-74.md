@@ -26,7 +26,7 @@ Travaux exposant aux émanations de furfural et d'alcool furfurylique utilisés 
 
 |
 
-Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé par test
+Asthme récidivant en cas de nouvelle exposition au risque ou confirmé par test
 
 |
 
@@ -42,10 +42,14 @@ Conjonctivite récidivant après nouvelle exposition
 
 |
 
-Dermite eczématiforme récidivant en cas de nouvelle exposition au risque ou confirmée par un test épicutané
+Dermite eczématiforme récidivant en cas de nouvelle exposition au risque ou confirmée par un test
 
 |
 
 15 jours
 
 |
+
+NOTA :
+
+Conformément à l'article 3 du décret n° 2026-901 du 24 septembre 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter du 30 septembre 2026. Elles sont applicables aux procédures de reconnaissance de maladies professionnelles pour lesquelles le certificat médical initial est établi à compter de leur entrée en vigueur.

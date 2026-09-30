@@ -38,7 +38,7 @@ Affûtage d'outils ou pièces en carbures métalliques frittés.
 
 |
 
-Fibrose pulmonaire diffuse, avec signes radiologiques et troubles fonctionnels, confirmée par l'exploration fonctionnelle respiratoire, et ses complications :
+Fibrose pulmonaire diffuse et ses complications :
 
 - infection pulmonaire ;
 
@@ -57,3 +57,7 @@ Rechargement et affûtage d'outils et pièces en super-alliages à base cobalt.
 Technique de soudage et de métallisation utilisant des super-alliages à base cobalt.
 
 |
+
+NOTA :
+
+Conformément à l'article 3 du décret n° 2026-901 du 24 septembre 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter du 30 septembre 2026. Elles sont applicables aux procédures de reconnaissance de maladies professionnelles pour lesquelles le certificat médical initial est établi à compter de leur entrée en vigueur.

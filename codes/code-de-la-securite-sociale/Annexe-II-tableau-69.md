@@ -22,7 +22,7 @@ LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies
 
 |
 
-Affections ostéo-articulaires confirmées par des examens radiologiques :
+Affections ostéo-articulaires :
 
 |
 
@@ -30,7 +30,7 @@ Affections ostéo-articulaires confirmées par des examens radiologiques :
 
 |
 
-- arthrose du coude comportant des signes radiologiques d'ostéophytoses ;
+- arthrose du coude comportant des signes d'ostéophytoses ;
 
 |
 
@@ -58,7 +58,7 @@ Travaux exposant habituellement aux vibrations transmises par : a) Les machines-
 
 |
 
-Troubles angioneurotiques de la main, prédominant à l'index et au médius, pouvant s'accompagner de crampes de la main et de troubles prolongés de la sensibilité et confirmés par des épreuves fonctionnelles objectivant le phénomène de Raynaud.
+Troubles angioneurotiques de la main, prédominant à l'index et au médius, pouvant s'accompagner de crampes de la main et de troubles prolongés de la sensibilité objectivant le phénomène de Raynaud.
 
 |
 
@@ -74,7 +74,7 @@ Troubles angioneurotiques de la main, prédominant à l'index et au médius, pou
 
 |
 
-Affections ostéo-articulaires confirmées par des examens radiologiques :
+Affections ostéo-articulaires :
 
 |
 
@@ -82,7 +82,7 @@ Affections ostéo-articulaires confirmées par des examens radiologiques :
 
 |
 
-- arthrose du coude comportant des signes radiologiques d'ostéophytose ;
+- arthrose du coude comportant des signes d'ostéophytose ;
 
 |
 
@@ -118,7 +118,7 @@ Travaux exposant habituellement aux chocs provoqués par l'utilisation manuelle 
 
 |
 
-Atteinte vasculaire cubito-palmaire en règle unilatérale (syndrome du marteau hypothénar) entraînant un phénomène de Raynaud ou des manifestations ischémiques des doigts confirmée par l'artériographie objectivant un anévrisme ou une thrombose de l'artère cubitale ou de l'arcade palmaire superficielle.
+Atteinte vasculaire cubito-palmaire en règle unilatérale (syndrome du marteau hypothénar) entraînant un phénomène de Raynaud ou des manifestations ischémiques des doigts.
 
 |
 
@@ -129,3 +129,7 @@ Atteinte vasculaire cubito-palmaire en règle unilatérale (syndrome du marteau 
 Travaux exposant habituellement à l'utilisation du talon de la main en percussion directe itérative sur un plan fixe ou aux chocs transmis à l'éminence hypothénar par un outil percuté ou percutant.
 
 |
+
+NOTA :
+
+Conformément à l'article 3 du décret n° 2026-901 du 24 septembre 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter du 30 septembre 2026. Elles sont applicables aux procédures de reconnaissance de maladies professionnelles pour lesquelles le certificat médical initial est établi à compter de leur entrée en vigueur.
