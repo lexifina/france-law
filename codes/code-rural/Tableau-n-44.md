@@ -16,7 +16,7 @@ LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
 
 |
 
-Lésions eczématiformes récidivant après nouvelle exposition au risque ou confirmées par un test épicutané positif au produit manipulé.
+Lésions eczématiformes récidivant après nouvelle exposition au risque ou confirmées par un test.
 
 |
 
@@ -43,3 +43,7 @@ Urticaire de contact récidivant en cas de nouvelle exposition et confirmé par 
 7 jours
 
 |
+
+NOTA :
+
+Conformément à l'article 2 du décret n°2026-902 dy 24 septembre 2026, ces dispositions, dans leur rédaction résultant dudit décret, entrent en vigueur le 30 septembre 2026. Elles sont applicables aux procédures de reconnaissance de maladies professionnelles pour lesquelles le certificat médical initial est établi à compter de leur entrée en vigueur.

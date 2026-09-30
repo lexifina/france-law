@@ -58,7 +58,7 @@ Granulome cutané avec réaction gigantofolliculaire.
 
 |
 
-Insuffisance respiratoire liée à un granulome pulmonaire confirmé médicalement ou à une pneumopathie dont la relation avec l'huile minérale ou la paraffine est confirmée par la présence au sein des macrophages alvéolaires de vacuoles intracytoplasmiques prenant les colorations usuelles des lipides
+Insuffisance respiratoire liée à un granulome pulmonaire ou à une pneumopathie dont la relation avec l'huile minérale ou la paraffine est confirmée par la présence au sein des macrophages alvéolaires de vacuoles intracytoplasmiques prenant les colorations usuelles des lipides
 
 |
 
@@ -69,3 +69,7 @@ Insuffisance respiratoire liée à un granulome pulmonaire confirmé médicaleme
 Travaux de paraffinage et travaux exposant à l'inhalation de brouillards d'huile minérale.
 
 |
+
+NOTA :
+
+Conformément à l'article 2 du décret n°2026-902 dy 24 septembre 2026, ces dispositions, dans leur rédaction résultant dudit décret, entrent en vigueur le 30 septembre 2026. Elles sont applicables aux procédures de reconnaissance de maladies professionnelles pour lesquelles le certificat médical initial est établi à compter de leur entrée en vigueur.

@@ -18,7 +18,7 @@ de provoquer ces maladies
 
 |
 
-A. - Affections ostéo-articulaires confirmées par des examens radiologiques :
+A. - Affections ostéo-articulaires :
 
 |
 
@@ -44,7 +44,7 @@ Travaux exposant habituellement aux chocs provoqués par l'utilisation manuelle 
 
 |
 
-- arthrose du coude comportant des signes radiologiques d'ostéo- phytose ;
+- arthrose du coude comportant des signes d'ostéo- phytose ;
 
 |
 
@@ -68,7 +68,7 @@ Travaux exposant habituellement aux chocs provoqués par l'utilisation manuelle 
 
 |
 
-Troubles angioneurotiques de la main, prédominant à l'index et au médius, pouvant s'accompagner de crampes de la main et de troubles prolongés de la sensibilité et confirmés par des épreuves fonctionnelles.
+Troubles angioneurotiques de la main, prédominant à l'index et au médius, pouvant s'accompagner de crampes de la main et de troubles prolongés de la sensibilité.
 
 |
 
@@ -76,13 +76,13 @@ Troubles angioneurotiques de la main, prédominant à l'index et au médius, pou
 
 |
 
-B. - Affections ostéo-articulaires confirmées par des examens radiologiques :
+B. - Affections ostéo-articulaires :
 
 |
 
 |
 
-- arthrose du coude comportant des signes radiologiques d'ostéo- phytose ;
+- arthrose du coude comportant des signes d'ostéo- phytose ;
 
 |
 
@@ -106,7 +106,7 @@ B. - Affections ostéo-articulaires confirmées par des examens radiologiques :
 
 |
 
-C. - Atteinte vasculaire cubito-palmaire en règle unilatérale (syndrome du marteau hypothénar) entraînant un phénomène de Raynaud ou des manifestations ischémiques des doigts confirmée par l'artère cubitale ou de l'arcade palmaire superficielle.
+C. - Atteinte vasculaire cubito-palmaire en règle unilatérale (syndrome du marteau hypothénar) entraînant un phénomène de Raynaud ou des manifestations ischémiques des doigts.
 
 |
 
@@ -117,3 +117,7 @@ C. - Atteinte vasculaire cubito-palmaire en règle unilatérale (syndrome du mar
 Travaux exposant habituellement à l'utilisation du talon de la main en percussion directe itérative sur un plan fixe ou aux chocs transmis à l'éminence hypothénar par un outil percuté ou percutant.
 
 |
+
+NOTA :
+
+Conformément à l'article 2 du décret n°2026-902 dy 24 septembre 2026, ces dispositions, dans leur rédaction résultant dudit décret, entrent en vigueur le 30 septembre 2026. Elles sont applicables aux procédures de reconnaissance de maladies professionnelles pour lesquelles le certificat médical initial est établi à compter de leur entrée en vigueur.

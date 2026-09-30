@@ -18,7 +18,7 @@ CES MALADIES |
 
 A.-Affections dues à l'inhalation de poussières de silice cristalline
 
-A-1. Silicose aiguë : pneumoconiose caractérisée par des lésions alvéolo-interstitielles bilatérales mises en évidence par des examens radiographiques ou tomodensitométriques ou par des constatations anatomopathologiques (lipoprotéinose) lorsqu'elles existent : ces signes ou ces constatations s'accompagnent ou non de troubles fonctionnels respiratoires d'évolution rapide.
+A-1. Silicose aiguë : pneumoconiose caractérisée par des lésions alvéolo-interstitielles bilatérales accompagnées ou non de troubles fonctionnels respiratoires d'évolution rapide.
 
 |
 
@@ -26,7 +26,7 @@ A-1. Silicose aiguë : pneumoconiose caractérisée par des lésions alvéolo-in
 
 Travaux exposant à l'inhalation de poussières minérales renfermant de la silice cristalline ou des silicates cristallins, effectués dans une exploitation ou une entreprise relevant du régime agricole de protection sociale. |
 
-A-2. Silicose chronique : pneumoconiose caractérisée par des lésions interstitielles micronodulaires ou nodulaires bilatérales et/ ou des adénopathies médiastino-hilaires, calcifiées ou non, révélées par des examens radiographiques tomodensitométriques ou par des constatations anatomopathologiques lorsqu'elles existent ; ces signes ou ces constatations s'accompagnent ou non de troubles fonctionnels respiratoires.
+A-2. Silicose chronique : pneumoconiose caractérisée par des lésions interstitielles micronodulaires ou nodulaires bilatérales et/ ou des adénopathies médiastino-hilaires, calcifiées ou non, accompagnées ou non de troubles fonctionnels respiratoires.
 
 Complications :
 
@@ -38,7 +38,7 @@ Complications :
 
 -nécrose cavitaire aseptique d'une masse pseudo-tumorale ;
 
--aspergillose intracavitaire confirmée par la sérologie ;
+-aspergillose intracavitaire ;
 
 3. Non spécifiques :
 
@@ -68,7 +68,7 @@ Ces trois maladies sont prises en compte avec ou sans manifestation de silicose 
 
 40 ans (sous réserve d'une durée d'exposition de 1 an) |
 
-B.-Affections dues à l'inhalation de poussières minérales renfermant des silicates cristallins (kaolin, talc) : Pneumoconiose caractérisée par des lésions interstitielles bilatérales révélées par des examens radiographiques ou tomodensitométriques ou par des constatations anatomopathologiques lorsqu'elles existent, que ces signes radiologiques ou ces constatations s'accompagnent ou non de troubles fonctionnels respiratoires :
+B.-Affections dues à l'inhalation de poussières minérales renfermant des silicates cristallins (kaolin, talc) : Pneumoconiose caractérisée par des lésions interstitielles bilatérales accompagnées ou non de troubles fonctionnels respiratoires :
 
 B-1 kaolinose ;
 
@@ -79,3 +79,7 @@ B-3 graphitose.
 |
 
 40 ans (sous réserve d'une durée d'exposition de 5 ans) |
+
+NOTA :
+
+Conformément à l'article 2 du décret n°2026-902 dy 24 septembre 2026, ces dispositions, dans leur rédaction résultant dudit décret, entrent en vigueur le 30 septembre 2026. Elles sont applicables aux procédures de reconnaissance de maladies professionnelles pour lesquelles le certificat médical initial est établi à compter de leur entrée en vigueur.

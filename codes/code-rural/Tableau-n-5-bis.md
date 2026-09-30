@@ -72,8 +72,6 @@ Travaux de soins aux animaux vertébrés.
 
 - arthrite chronique destructive.
 
-Pour les manifestations secondaires et tertiaires, le diagnostic doit être confirmé par un examen biologique spécifique.
-
 |
 
 10 ans
@@ -81,3 +79,7 @@ Pour les manifestations secondaires et tertiaires, le diagnostic doit être conf
 |
 
 |
+
+NOTA :
+
+Conformément à l'article 2 du décret n°2026-902 dy 24 septembre 2026, ces dispositions, dans leur rédaction résultant dudit décret, entrent en vigueur le 30 septembre 2026. Elles sont applicables aux procédures de reconnaissance de maladies professionnelles pour lesquelles le certificat médical initial est établi à compter de leur entrée en vigueur.

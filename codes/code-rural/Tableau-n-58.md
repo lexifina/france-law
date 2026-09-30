@@ -16,7 +16,7 @@ susceptibles de provoquer cette maladie
 
 |
 
-Maladie de Parkinson confirmée par un examen effectué par un médecin spécialiste qualifié en neurologie. |
+Maladie de Parkinson. |
 
 20 ans (sous réserve d'une durée d'exposition de 10 ans) |
 
@@ -32,4 +32,4 @@ Travaux exposant habituellement aux pesticides :
 
 NOTA :
 
-Conformément à l'article 2 du décret n° 2025-1237 du 17 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 1er du décret précité, entrent en vigueur le 1er janvier 2026.
+Conformément à l'article 2 du décret n°2026-902 dy 24 septembre 2026, ces dispositions, dans leur rédaction résultant dudit décret, entrent en vigueur le 30 septembre 2026. Elles sont applicables aux procédures de reconnaissance de maladies professionnelles pour lesquelles le certificat médical initial est établi à compter de leur entrée en vigueur.

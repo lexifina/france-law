@@ -18,7 +18,7 @@ susceptibles de provoquer ces maladies
 
 |
 
-A. – Asbestose : fibrose pulmonaire confirmée par examen tomodensitométrique (1), qu’il y ait ou non des modifications des explorations fonctionnelles respiratoires.
+A. – Asbestose : fibrose pulmonaire avec ou sans modifications des explorations fonctionnelles respiratoires.
 
 |
 
@@ -38,9 +38,7 @@ respiratoires :
 
 – plaques calcifiées ou non, péricardiques ou
 
-pleurales, unilatérales ou bilatérales, lorsqu’elles
-
-sont confirmées par un examen tomodensitométrique ;
+pleurales, unilatérales ou bilatérales.
 
 |
 
@@ -80,7 +78,7 @@ diffus, soit localisé, caractérisé par l’existence au contact de l’épais
 
 parenchymateuses, soit d’une atélectasie par
 
-enroulement. Ces anomalies devront être confirmées par un examen tomodensitométrique.
+enroulement.
 
 |
 
@@ -128,6 +126,6 @@ durée d’exposition de 5 ans)
 
 |
 
-(1) Scanner.
+NOTA :
 
-|
+Conformément à l'article 2 du décret n°2026-902 dy 24 septembre 2026, ces dispositions, dans leur rédaction résultant dudit décret, entrent en vigueur le 30 septembre 2026. Elles sont applicables aux procédures de reconnaissance de maladies professionnelles pour lesquelles le certificat médical initial est établi à compter de leur entrée en vigueur.

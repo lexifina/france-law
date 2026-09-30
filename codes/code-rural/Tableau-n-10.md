@@ -82,8 +82,6 @@ C. - Intoxication subaiguë :
 
 - sensitivomotrice, douloureuse, distale, ascendante,
 
-- confirmée par un examen électrophysiologique,
-
 |
 
 |
@@ -154,9 +152,7 @@ E. - Intoxications chroniques :
 
 |
 
-F. - Affections cancéreuses :
-
-|
+F. - Affections cancéreuses : |
 
 |
 
@@ -176,9 +172,7 @@ F. - Affections cancéreuses :
 
 |
 
-40 ans (sous réserve d'une durée d'exposition de 10 ans)
-
-|
+40 ans (sous réserve d'une durée d'exposition de 10 ans) |
 
 |
 
@@ -186,9 +180,7 @@ F. - Affections cancéreuses :
 
 |
 
-40 ans (sous réserve d'une durée d'exposition de 5 ans)
-
-|
+40 ans (sous réserve d'une durée d'exposition de 5 ans) |
 
 |
 
@@ -196,9 +188,7 @@ F. - Affections cancéreuses :
 
 |
 
-40 ans
-
-|
+40 ans |
 
 |
 
@@ -206,8 +196,10 @@ F. - Affections cancéreuses :
 
 |
 
-40 ans
+40 ans |
 
 |
 
-|
+NOTA :
+
+Conformément à l'article 2 du décret n°2026-902 dy 24 septembre 2026, ces dispositions, dans leur rédaction résultant dudit décret, entrent en vigueur le 30 septembre 2026. Elles sont applicables aux procédures de reconnaissance de maladies professionnelles pour lesquelles le certificat médical initial est établi à compter de leur entrée en vigueur.

@@ -2,9 +2,7 @@
 
 Affections respiratoires professionnelles de mécanisme allergique
 
-DÉSIGNATION DES MALADIES
-
-|
+DÉSIGNATION DES MALADIES |
 
 DÉLAI
 
@@ -34,7 +32,7 @@ Manipulation ou emploi habituels, dans l'exercice de la profession, de tous prod
 
 |
 
-Asthme - ou dyspnée asthmatiforme - objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé par test.
+Asthme - ou dyspnée asthmatiforme - récidivant en cas de nouvelle exposition au risque ou confirmé par test.
 
 |
 
@@ -48,17 +46,13 @@ B. - Pneumopathie interstitielle aiguë ou subaiguë avec :
 
 - signes respiratoires (toux, dyspnée) et/ou signes généraux ;
 
-- signes radiologiques ;
-
 - altération des explorations fonctionnelles respiratoires ;
 
 - signes immunologiques significatifs (présence d'anticorps précipitants dans le sérum contre l'agent pathogène présumé responsable ou, en l'absence, présence d'une alvéolite lymphocytaire au lavage broncho-alvéolaire).
 
 |
 
-30 jours
-
-|
+30 jours |
 
 Travaux exposant à l'inhalation de poussières provenant notamment :
 
@@ -82,13 +76,11 @@ Travaux exposant à l'inhalation de poussières provenant notamment :
 
 |
 
-C. - Pneumopathie chronique avec signes radiologiques, altération des explorations fonctionnelles respiratoires, lorsqu'il y a des signes immunologiques significatifs.
+C. - Pneumopathie chronique en présence de signes immunologiques significatifs.
 
 |
 
-3 ans
-
-|
+3 ans |
 
 D. - Complications de l'asthme - ou dyspnée asthmatiforme -, de la pneumopathie interstitielle aiguë, subaiguë ou chronique :
 
@@ -98,6 +90,8 @@ D. - Complications de l'asthme - ou dyspnée asthmatiforme -, de la pneumopathie
 
 |
 
-15 ans
+15 ans |
 
-|
+NOTA :
+
+Conformément à l'article 2 du décret n°2026-902 dy 24 septembre 2026, ces dispositions, dans leur rédaction résultant dudit décret, entrent en vigueur le 30 septembre 2026. Elles sont applicables aux procédures de reconnaissance de maladies professionnelles pour lesquelles le certificat médical initial est établi à compter de leur entrée en vigueur.
