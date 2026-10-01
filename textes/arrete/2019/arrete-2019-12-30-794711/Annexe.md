@@ -142,6 +142,10 @@ ENACTUS France |
 
 2026, 2027, 2028 |
 
+Energie Jeunes |
+
+2026, 2027, 2028 |
+
 Entraide scolaire amicale |
 
 2025, 2026, 2027 |
