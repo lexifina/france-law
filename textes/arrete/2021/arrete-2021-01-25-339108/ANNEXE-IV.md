@@ -1,139 +1,103 @@
 # Article ANNEXE IV
 
-ÉPREUVES DU TROISIÈME CONCOURS
+MODÈLE DE FICHE INDIVIDUELLE DE RENSEIGNEMENT
 
-I. - Sections biotechnologies, coiffure, design et métiers d'art, économie et gestion, esthétique-cosmétique, génie chimique, génie civil, génie électrique, génie industriel, génie mécanique, hôtellerie-restauration, industries graphiques, sciences et techniques médico-sociales
+ENTRETIEN AVEC LE JURY
 
-A. - Epreuve d'admissibilité
+(CET ENTRETIEN INTERVIENT PENDANT LES ÉPREUVES D'ADMISSION)
 
-1° Première épreuve d'admissibilité du concours externe (coefficient 3).
+SESSION 20XX
 
-B. - Epreuves d'admission
+IDENTIFICATION DU CANDIDAT |
 
-1° Première épreuve d'admission du concours externe (coefficient 4).
+Nom de famille I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I |
 
-2° Seconde épreuve d'admission du concours externe (coefficient 2).
+Nom d'usage I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I |
 
-II. - Sections pour lesquelles il n'existe pas de diplôme supérieur au niveau 4 (groupe A et groupe B)
+Prénom I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I |
 
-A. - Epreuve d'admissibilité
+Numéro de candidature I__I__I__I__I__I__I__I__I__I__I |
 
-1° Epreuve d'admissibilité du concours externe (coefficient 3).
+Concours et Section présentésI__I__I__I__I I__I__I__I__I__I |
 
-B. - Epreuves d'admission
+ETUDES ET FORMATION INITIALE |
 
-1° Première épreuve d'admission du concours externe (coefficient 4).
+Diplômes/titres/qualifications |
 
-2° Seconde épreuve d'admission du concours externe (coefficient 2).
+Date d'obtention |
 
-III. - Section anglais-langues vivantes
+|
 
-A. - Epreuves d'admissibilité
+|
 
-1° Epreuve écrite disciplinaire de langue anglaise.
+|
 
-Le candidat est invité à produire, en anglais, une analyse critique de documents et, le cas échéant, de documents iconographiques, se rapportant aux réalités aux faits culturels du ou des pays dont on étudie la langue, en lien avec le programmes d'enseignement.
+|
 
-Le jury tient compte de la qualité de la langue écrite.
+|
 
-L'épreuve est notée sur 20. Une note égale ou inférieure à 5 est éliminatoire.
+|
 
-Durée : quatre heures. Coefficient 2.
+FORMATIONS - STAGES - EXPERIENCES PROFESSIONNELLES |
 
-2° Epreuve écrite disciplinaire de langue vivante.
+Intitulé - organisme - activité |
 
-Le candidat est invité à produire, dans la langue vivante de la seconde valence, une analyse critique de documents dans la langue concernée et, le cas échéant, de documents iconographiques, se rapportant aux réalités aux faits culturels du ou des pays dont on étudie la langue, en lien avec le programme d'enseignement.
+Durée |
 
-Le jury tient compte de la qualité de la langue écrite.
+|
 
-L'épreuve est notée sur 20. Une note égale ou inférieure à 5 est éliminatoire.
+|
 
-Durée : quatre heures. Coefficient 2.
+|
 
-B. - Epreuves d'admission
+|
 
-1° Première épreuve d'admission du concours externe (coefficient 2,5).
+|
 
-2° Deuxième épreuve d'admission du concours externe (coefficient 2,5).
+|
 
-3° Troisième épreuve d'admission du concours externe (coefficient 3).
+Rubrique réservée aux candidats titulaires d'un doctorat |
 
-IV. - Section langues vivantes-lettres
+Intitulé du doctorat |
 
-A. - Epreuves d'admissibilité
+Date d'obtention |
 
-1° Epreuve écrite disciplinaire de langue vivante.
+Section du conseil national des universités |
 
-Le candidat est invité à produire, en langue vivante étrangère, une analyse critique de documents dans la langue concernée et, le cas échéant, de documents iconographiques, se rapportant aux réalités aux faits culturels du ou des pays dont on étudie la langue, en lien avec les programmes d'enseignement de langues vivantes étrangères des classes de CAP et de baccalauréat professionnel.
+|
 
-Durée : quatre heures. Coefficient 2.
+|
 
-L'épreuve est notée sur 20. Une note globale égale ou inférieure à 5 est éliminatoire.
+|
 
-2° Epreuve écrite disciplinaire de lettres.
+|
 
-A partir d'un dossier constitué de plusieurs textes littéraires appartenant ou non à une même œuvre et éventuellement d'œuvres iconographiques et de supports pédagogiques (extraits de manuels, travaux d'élèves, etc.) se rapportant à un des objets d'études des programmes de l'enseignement professionnel et/ou général, le candidat est mis en situation :
+|
 
-- de proposer une présentation d'ensemble du dossier et des pistes d'analyse et d'interprétation d'un de ces textes littéraires indiqué par le jury.
+|
 
-- de traiter une question de langue se rapportant à ce texte.
+|
 
-Durée : quatre heures. Coefficient 2.
+Notice explicative
 
-L'épreuve est notée sur 20. Une note globale égale ou inférieure à 5 est éliminatoire.
+L'épreuve d'entretien débute par une présentation de votre parcours. Le jury dispose de cette fiche de candidature qui n'est pas notée.
 
-B. - Epreuves d'admission
+IDENTIFICATION DU CANDIDAT
 
-1° Première épreuve d'admission du concours externe (coefficient 2,5).
+Les éléments permettant de renseigner cette rubrique seront transmis aux candidats lors de leur inscription.
 
-2° Deuxième épreuve d'admission du concours externe (coefficient 2,5).
+ETUDES ET FORMATION INITIALE
 
-3° Troisième épreuve d'admission du concours externe (coefficient 3).
+Indiquer les diplômes, titres ou qualifications dont vous êtes titulaires.
 
-V. - Section lettres-histoire et géographie
+FORMATIONS - STAGES - EXPERIENCES PROFESSIONNELLES
 
-Le programme d'histoire et de géographie du concours fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
+Indiquer les stages effectués dans le cadre d'un cursus d'études et/ou les formations suivies dans un cadre professionnel/personnel et/ou votre expérience professionnelle (emploi salarié, emploi étudiant, bénévolat, service civique, emploi saisonnier …).
 
-A. - Epreuves d'admissibilité
+PRESENTATION DU DOCTORAT
 
-1° Epreuve écrite disciplinaire de lettres.
+Le candidat titulaire de ce diplôme présente dans cette rubrique les travaux réalisés ou ceux auxquels il a pris part dans le cadre de sa formation à la recherche et par la recherche sanctionnée par la délivrance du doctorat (Arial 10, maximum 400 mots).
 
-A partir d'un dossier constitué de plusieurs textes littéraires appartenant ou non à une même œuvre et éventuellement d'œuvres iconographiques et de supports pédagogiques (extraits de manuels, travaux d'élèves, etc.) se rapportant à un des objets d'études des programmes de l'enseignement professionnel et/ou général, le candidat est mis en situation :
+NOTA :
 
-- de proposer une présentation d'ensemble du dossier et des pistes d'analyse et d'interprétation d'un de ces textes littéraires indiqué par le jury ;
-
-- de traiter une question de langue se rapportant à ce texte.
-
-Durée : quatre heures. Coefficient 2.
-
-L'épreuve est notée sur 20. Une note globale égale ou inférieure à 5 est éliminatoire.
-
-2° Epreuve écrite disciplinaire d'histoire ou de géographie.
-
-A partir d'un dossier, relevant de l'histoire ou de la géographie, constitué de plusieurs documents portant sur l'un des thèmes des programmes de la voie professionnelle et en lien avec le programme du concours, le candidat doit réaliser un commentaire scientifique d'un ou deux des documents du sujet, signalé dans celui-ci comme devant faire l'objet de ce commentaire, à partir d'une problématique explicite.
-
-Durée : quatre heures. Coefficient 2.
-
-L'épreuve est notée sur 20. Une note globale égale ou inférieure à 5 est éliminatoire.
-
-B. - Epreuves d'admission
-
-1° Première épreuve d'admission du concours externe (coefficient 2,5)
-
-2° Deuxième épreuve d'admission du concours externe (coefficient 2,5)
-
-3° Troisième épreuve d'admission du concours externe (coefficient 3)
-
-VI. - Section mathématiques-physique chimie
-
-A. - Epreuve d'admissibilité
-
-1° Première épreuve d'admissibilité du concours externe (coefficient 4)
-
-B. - Epreuves d'admission
-
-1° Première épreuve d'admission du concours externe (coefficient 2,5).
-
-2° Deuxième épreuve d'admission du concours externe (coefficient 2,5).
-
-3° Troisième épreuve d'admission du concours externe (coefficient 3).
+Conformément à l’article 10 de l’arrêté du 10 août 2022 (MENH2217762A), ces dispositions prennent effet le 1er septembre 2022.
