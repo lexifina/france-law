@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260809784
+
+- Question : [SEQ260809784](seq260809784.md) — Information des collectivités territoriales concernant le paiement des frais qui leurs sont dus
+
+## Réponse
+
+*Action et comptes publics, JO du 2026-10-01, page 4780*
+
+Conformément aux règles de la gestion publique, les comptables publics ont la charge exclusive de manier les fonds et de tenir les comptes des collectivités territoriales. Lorsqu'un titre émis par l'ordonnateur est pris en charge par le comptable public, ce dernier est seul chargé de son recouvrement et peut, en l'absence de paiement spontané, mettre en oeuvre des procédures de recouvrement forcé exorbitantes du droit commun conformément à l'article L. 1617-5 du code général des collectivités territoriales. Preuve de la très grande efficacité du dispositif, le taux de recouvrement par les comptables publics des produits locaux des collectivités territoriales, de leurs groupements et de leurs établissements publics s'élève, pour l'année 2024, à 98 %. Sur la même période, le taux de recouvrement des produits locaux des seules communes s'élève à plus de 98,58 %. Les ordonnateurs disposent des informations relatives au recouvrement des titres émis grâce à un accès sécurisé au logiciel comptable de la direction générale des finances publiques pour les collectivités locales. Cela leur permet de consulter les titres émis, les encaissements et les relances. La désignation précise du débiteur sur le titre de recettes est indispensable pour éviter toute ambiguïté sur son identité et permettre le recouvrement effectif des créances, elle relève de la responsabilité de l'ordonnateur. Pour les personnes physiques, l'ordonnateur transmet au comptable les nom, prénom, et adresse complète ainsi que les date et lieu de naissance des redevables. Si l'adresse transmise n'est plus d'actualité, le comptable mettra à jour la dernière adresse connue du redevable et en informera l'ordonnateur.
