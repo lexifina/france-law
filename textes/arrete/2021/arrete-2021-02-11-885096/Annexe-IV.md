@@ -1,6 +1,6 @@
-# Article Annexe IV
+# Article Annexe
 
-ANNEXE IV
+ANNEXE
 
 MODÈLE DE FICHE INDIVIDUELLE DE RENSEIGNEMENT POUR L'ENTRETIEN AVEC LE JURY DU CONCOURS EXTERNE
 
@@ -71,3 +71,7 @@ Indiquer les diplômes, titres ou qualifications dont vous êtes titulaires.
 Formations - Stages - Expériences professionnelles :
 
 Indiquer les stages effectués dans le cadre d'un cursus d'études et/ou les formations suivies dans un cadre professionnel/personnel et/ou votre expérience professionnelle (emploi salarié, emploi étudiant, bénévolat, service civique, emploi saisonnier…).
+
+NOTA :
+
+Conformément à l'article 8 de l’arrêté du 25 août 2026 (NOR : MENH2617745A), ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur à compter du 1er octobre 2026.
