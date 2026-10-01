@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260608964
+
+- Question : [SEQ260608964](seq260608964.md) — Transfert et régularisation des biens immobiliers des communes nouvelles
+
+## Réponse
+
+*Action et comptes publics, JO du 2026-10-01, page 4771*
+
+Le fichier immobilier, dont la tenue est assurée par les services chargés de la publicité foncière de la direction générale des finances publiques (DGFiP), « présente, telle qu'elle résulte des documents publiés, la situation juridique actuelle des immeubles» (décret n° 55-22 du 04/01/1955, article 1). Les transferts de propriété doivent obligatoirement être publiés au fichier immobilier, sur le fondement du a. du 1° de l'article 28 du décret n° 55-22 du 4 janvier de 1955. Ainsi, aucune mesure nationale de régularisation ou d'automatisation de la prise en compte des transferts issus de la création de communes ne peut être envisagée. Dans la mesure où ces transferts interviennent du seul fait de la création de la commune nouvelle (code général des collectivités territoriales, art. L.2113-5), c'est l'acte qui crée cette dernière qui forme son titre de propriété sur les immeubles transférés, et qui doit être déposé pour publication au fichier immobilier. Les communes nouvelles sont accompagnées dans ces démarches. Des modèles d'actes administratifs (arrêté préfectoral et acte administratif dressé par le maire de la commune nouvelle) sont disponibles et peuvent être mis à disposition des services communaux par les services de la DGFiP via leurs interlocuteurs habituels, en premier lieu les conseillers aux décideurs locaux. Ce n'est qu'une fois cette publication au fichier immobilier effectuée que la documentation cadastrale est mise à jour (article 1402 du code général des impôts). Cette mise à jour de la documentation cadastrale se répercute concomitamment sur l'espace « Gérer mes biens immobiliers » de la commune nouvelle, lui permettant un accès unique et exhaustif à son patrimoine immobilier.
