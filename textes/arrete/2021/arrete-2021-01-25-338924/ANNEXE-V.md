@@ -1,4 +1,4 @@
-# Article ANNEXE V
+# Article ANNEXE IV
 
 MODÈLE DE FICHE INDIVIDUELLE DE RENSEIGNEMENT
 
@@ -91,3 +91,7 @@ Indiquer les stages effectués dans le cadre d'un cursus d'études et/ou les for
 CADRE RERSERVÉ AUX TITULAIRES D'UN DOCTORAT CANDIDATS AU CONCOURS EXTERNE SPÉCIAL
 
 Le candidat titulaire d'un doctorat présente dans cette rubrique les travaux réalisés ou ceux auxquels il a pris part dans le cadre de sa formation à la recherche et par la recherche sanctionnée par la délivrance du doctorat (Arial 10, maximum 400 mots).
+
+NOTA :
+
+Conformément à l’article 16 de l’arrêté du 17 juillet 2026 (NOR : MENH2603717A), ces dispositions dans leur rédaction résultant dudit décret, entrent en vigueur à compter du 1er octobre 2026.
