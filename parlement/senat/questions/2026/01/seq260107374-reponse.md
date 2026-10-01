@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260107374
+
+- Question : [SEQ260107374](seq260107374.md) — Impact sur les collectivités territoriales et établissements hospitaliers du redressement de la caisse nationale de retraites des agents des collectivités locales
+
+## Réponse
+
+*Action et comptes publics, JO du 2026-10-01, page 4759*
+
+La hausse de la cotisation employeur à la Caisse nationale de retraite des agents des collectivités locales (CNRACL), actée par le décret n° 2025-86 du 30 janvier 2025 relatif au taux de cotisations vieillesse des employeurs des agents affiliés à la CNRACL, fait suite aux préconisations de la mission inter-inspections IGAS-IGF-IGA qui a rendu un rapport en septembre 2024 sur la situation financière de la CNRACL. Le constat unanimement partagé d'une dégradation rapide et massive des comptes de la CNRACL obligeait le Gouvernement à prendre des mesures d'urgence, engageant un retour à l'équilibre du régime. Néanmoins, la seule révision du taux employeur ne saurait suffire à rétablir durablement les comptes de la CNRACL, différentes pistes d'évolution doivent être envisagées. À ce titre, le Premier ministre a demandé une mission inter-inspections complémentaire le 2 mai 2025, afin d'approfondir l'analyse des 11 préconisations émises en septembre 2024 et d'explorer des pistes d'amélioration du financement et de la gestion du régime. Ces travaux sont en cours. Le Premier ministre a, en outre, initié fin 2025 un cycle de conférences « travail, emploi, retraites », afin de mener une réflexion globale du sujet, en réunissant les partenaires du secteur privé et du secteur public. Les représentants des collectivités locales sont associés à ces travaux avec la présence de la Coordination des employeurs territoriaux (CET). Ces réflexions menées parallèlement à plusieurs niveaux témoignent de la forte volonté du Gouvernement d'assurer un financement pérenne des pensions des fonctionnaires territoriaux et hospitaliers.
