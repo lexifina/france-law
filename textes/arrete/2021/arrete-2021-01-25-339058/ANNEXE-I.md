@@ -78,8 +78,8 @@ Durée de l'épreuve : trente-cinq minutes. Coefficient 3.
 
 L'épreuve est notée sur 20. La note 0 est éliminatoire.
 
-Le candidat admissible transmet préalablement une fiche individuelle de renseignement établie sur le modèle figurant à l'annexe V du présent arrêté, selon les modalités définies dans l'arrêté d'ouverture.
+Le candidat admissible transmet préalablement une fiche individuelle de renseignement établie sur le modèle figurant à l'annexe IV du présent arrêté, selon les modalités définies dans l'arrêté d'ouverture.
 
 NOTA :
 
-Conformément à l’article 10 de l’arrêté du 10 août 2022 (MENH2217762A), ces dispositions prennent effet le 1er septembre 2022.
+Conformément à l'article 16 de l'arrêté du 17 juillet 2026 (NOR : MENH2535275A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er octobre 2026.

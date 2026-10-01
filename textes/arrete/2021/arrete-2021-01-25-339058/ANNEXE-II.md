@@ -52,10 +52,14 @@ Ce second entretien est noté sur 12 points.
 
 Durée : trente minutes dont quinze minutes d'exposé du candidat et quinze minutes d'échange avec le jury.
 
-Le candidat admissible transmet préalablement une fiche individuelle de renseignement établie sur le modèle figurant à l'annexe V du présent arrêté, selon les modalités définies dans l'arrêté d'ouverture. Cette fiche comprend une rubrique en vue de la présentation par le candidat des travaux réalisés ou ceux auxquels il a pris part dans le cadre de sa formation à la recherche et par la recherche sanctionnée par la délivrance du doctorat.
+Le candidat admissible transmet préalablement une fiche individuelle de renseignement établie sur le modèle figurant à l'annexe IV du présent arrêté, selon les modalités définies dans l'arrêté d'ouverture. Cette fiche comprend une rubrique en vue de la présentation par le candidat des travaux réalisés ou ceux auxquels il a pris part dans le cadre de sa formation à la recherche et par la recherche sanctionnée par la délivrance du doctorat.
 
 Durée totale de l'épreuve : une heure et cinq minutes.
 
 L'épreuve est notée sur 20. La note 0 à l'ensemble de l'épreuve est éliminatoire.
 
 Coefficient 3.
+
+NOTA :
+
+Conformément à l'article 16 de l'arrêté du 17 juillet 2026 (NOR : MENH2535275A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er octobre 2026.
