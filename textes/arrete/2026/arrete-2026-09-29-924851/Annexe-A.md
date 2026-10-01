@@ -1,0 +1,115 @@
+# Article Annexe A
+
+ANNEXE A
+
+CONTINGENT DE LICENCES POUR LA PÊCHE DANS LES ESTUAIRES ET LA PÊCHE DES POISSONS AMPHIHALINS CAMPAGNE 2026-2027
+
+CRPMEM |
+
+C(I)DPMEM, CRPMEM
+
+ou groupe de CDPMEM |
+
+Contingent |
+
+Sous-contingent
+
+DPS « Civelle »
+
+(par CRPMEM) |
+
+Sous-contingent
+
+DPS « Anguille jaune » |
+
+Hauts-de-France |
+
+CRPMEM des Hauts-de-France |
+
+12 |
+
+9 |
+
+0 |
+
+Normandie |
+
+CRPMEM de Normandie |
+
+18 |
+
+10 |
+
+5 |
+
+Bretagne |
+
+CDPMEM d'Ille et Vilaine et de Côte d'Armor |
+
+5 |
+
+2 |
+
+1 |
+
+CDPMEM du Finistère |
+
+11 |
+
+3 |
+
+1 |
+
+CDPMEM du Morbihan |
+
+81 |
+
+62 |
+
+9 |
+
+Pays de la Loire |
+
+CRPMEM des Pays de la Loire |
+
+189 |
+
+149 |
+
+25 |
+
+Nouvelle-Aquitaine |
+
+CDPMEM Charente-Maritime |
+
+160 |
+
+105 |
+
+108 |
+
+CDPMEM de Gironde |
+
+70 |
+
+46 |
+
+47 |
+
+CIDPMEM PA/Landes |
+
+23 |
+
+23 |
+
+19 |
+
+|
+
+TOTAL |
+
+569 |
+
+409 |
+
+215 |
