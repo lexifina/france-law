@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260709316
+
+- Question : [SEQ260709316](seq260709316.md) — Financement des services départementaux d'incendie et de secours
+
+## Réponse
+
+*Intérieur , JO du 2026-10-01, page 4794*
+
+Le Gouvernement est pleinement conscient des contraintes auxquelles sont confrontés les services d'incendie et de secours (SIS), dans un contexte marqué par l'intensification des risques et la progression de leur activité. Il veille à ce que les évolutions normatives prennent en compte les spécificités opérationnelles de ces services et à ce que leur accompagnement financier soit adapté aux enjeux auxquels ils sont confrontés. S'agissant des véhicules opérationnels, au-delà des exonérations fiscales dont peuvent désormais bénéficier les services départementaux d'incendie et de secours (SDIS), le ministère de l'Intérieur travaille à ce que les contraintes opérationnelles soient mieux prises en compte dans les normes nationales et européennes, qui concernent l'ensemble des véhicules, à l'exception de ceux des forces armées. S'agissant des bâtiments, les bâtiments des SDIS contribuent, comme les autres, aux objectifs de lutte contre le réchauffement climatique. Le Fonds vert constitue un levier d'accompagnement des investissements concourant notamment à la rénovation énergétique et à l'adaptation des territoires au changement climatique. Le pilotage déconcentré de ce dispositif, qui intervient en complément des autres financements publics, permet de tenir compte des spécificités et des risques propres à chaque territoire. Plus largement, conscient des contraintes qui pèsent sur le financement des SDIS, le Gouvernement a engagé une réflexion sur la soutenabilité du financement des SIS dans le cadre des travaux du Beauvau de la Sécurité civile. Les travaux interministériels se poursuivent, notamment dans le cadre de la préparation du projet de loi de finances pour 2027.
