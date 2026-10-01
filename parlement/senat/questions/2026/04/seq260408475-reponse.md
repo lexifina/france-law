@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260408475
+
+- Question : [SEQ260408475](seq260408475.md) — Situation préoccupante des collectivités territoriales en matière de gestion des déchets
+
+## Réponse
+
+*Transition écologique, JO du 2026-10-01, page 4806*
+
+Les collectivités territoriales sont des acteurs majeurs de la politique des déchets. Elles assurent, chaque jour, la continuité d'un service public indispensable à nos concitoyens et portent, sur le terrain, une part décisive des ambitions en matière de prévention, de réemploi, de collecte et de recyclage. Le gouvernement mesure pleinement les contraintes auxquelles elles sont confrontées. C'est pourquoi il a été fait du dialogue avec les élus locaux une priorité de méthode d'action. Les échanges sont entretenus de manière régulière avec les associations représentatives des collectivités et les acteurs de terrain sont essentiels pour construire des solutions pragmatiques, adaptées aux réalités locales et économiquement soutenables. Le gouvernement partage également le constat dressé sur les filières REP. Celles-ci ont permis des avancées importantes, mais elles présentent aujourd'hui des fragilités structurelles qui ne peuvent pas être ignorées. Il est visé davantage de lisibilité, d'efficacité et de responsabilité dans leur fonctionnement. Pour autant, le débat ne doit pas se limiter à une question de gouvernance. Les filières REP constituent aussi un formidable levier de politique industrielle. Chaque euro d'écocontribution doit servir un objectif clair : accélérer la transition écologique tout en contribuant à la création de valeur, d'emplois et d'activités sur le territoire. Dans un contexte international marqué par la compétition économique et les enjeux de souveraineté, il est nécessaire de davantage mobiliser ces filières pour structurer les chaînes de valeur du réemploi, de la réparation et du recyclage, et faire émerger les capacités industrielles dont la France a besoin.
