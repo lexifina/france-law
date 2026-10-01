@@ -1,5 +1,7 @@
 # Article ANNEXE II
 
+ANNEXE II
+
 TARIFS MAXIMA DES FRAIS DE FOURRIÈRE AUTOMOBILE
 
 FRAIS
@@ -16,132 +18,184 @@ MONTANT
 
 Immobilisation matérielle |
 
-Véhicules PL 44 t ≥ PTAC > 19 t
-
-Véhicules PL 19 t ≥ PTAC > 7,5 t
-
-Véhicules PL 7,5 t ≥ PTAC > 3,5 t
-
-Voitures particulières
-
-Autres véhicules immatriculés
-
-Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception |
-
-7,60
-
-7,60
-
-7,60
-
-7,60
-
-7,60
+Véhicules PL 44 t ≥ PTAC > 19 t |
 
 7,60 |
 
-Opérations
+|
 
-préalables |
+Véhicules PL 19 t ≥ PTAC > 7,5 t |
 
-Véhicules PL 44 t ≥ PTAC > 19 t
+7,60 |
 
-Véhicules PL 19 t ≥ PTAC > 7,5 t
+|
 
-Véhicules PL 7,5 t ≥ PTAC > 3,5 t
+Véhicules PL 7,5 t ≥ PTAC > 3,5 t |
 
-Voitures particulières
+7,60 |
 
-Autres véhicules immatriculés
+|
+
+Voitures particulières |
+
+7,60 |
+
+|
+
+Autres véhicules immatriculés |
+
+7,60 |
+
+|
 
 Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception |
 
-22,90
+7,60 |
 
-22,90
+Opérations préalables |
 
-22,90
+Véhicules PL 44 t ≥ PTAC > 19 t |
 
-15,20
+22,90 |
 
-7,60
+|
+
+Véhicules PL 19 t ≥ PTAC > 7,5 t |
+
+22,90 |
+
+|
+
+Véhicules PL 7,5 t ≥ PTAC > 3,5 t |
+
+22,90 |
+
+|
+
+Voitures particulières |
+
+15,20 |
+
+|
+
+Autres véhicules immatriculés |
+
+7,60 |
+
+|
+
+Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception |
 
 7,60 |
 
 Enlèvement |
 
-Véhicules PL 44 t ≥ PTAC > 19 t
+Véhicules PL 44 t ≥ PTAC > 19 t |
 
-Véhicules PL 19 t ≥ PTAC > 7,5 t
+274,40 |
 
-Véhicules PL 7,5 t ≥ PTAC > 3,5 t
+|
 
-Voitures particulières
+Véhicules PL 19 t ≥ PTAC > 7,5 t |
 
-Autres véhicules immatriculés
+213,40 |
+
+|
+
+Véhicules PL 7,5 t ≥ PTAC > 3,5 t |
+
+122,00 |
+
+|
+
+Voitures particulières |
+
+135,00 |
+
+|
+
+Autres véhicules immatriculés |
+
+45,70 |
+
+|
 
 Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception |
-
-274,40
-
-213,40
-
-122,00
-
-127,65
-
-45,70
 
 45,70 |
 
 Garde journalière |
 
-Véhicules PL 44 t ≥ PTAC > 19 t
+Véhicules PL 44 t ≥ PTAC > 19 t |
 
-Véhicules PL 19 t ≥ PTAC > 7,5 t
+9,20 |
 
-Véhicules PL 7,5 t ≥ PTAC > 3,5 t
+|
 
-Voitures particulières
+Véhicules PL 19 t ≥ PTAC > 7,5 t |
 
-Autres véhicules immatriculés
+9,20 |
+
+|
+
+Véhicules PL 7,5 t ≥ PTAC > 3,5 t |
+
+9,20 |
+
+|
+
+Voitures particulières |
+
+7,15 |
+
+|
+
+Autres véhicules immatriculés |
+
+3,00 |
+
+|
 
 Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception |
-
-9,20
-
-9,20
-
-9,20
-
-6,75
-
-3,00
 
 3,00 |
 
 Mise en vente |
 
-Véhicules PL 44 t ≥ PTAC > 19 t
+Véhicules PL 44 t ≥ PTAC > 19 t |
 
-Véhicules PL 19 t ≥ PTAC > 7,5 t
+120,00 |
 
-Véhicules PL 7,5 t ≥ PTAC > 3,5 t
+|
 
-Voitures particulières
+Véhicules PL 19 t ≥ PTAC > 7,5 t |
 
-Autres véhicules immatriculés
+120,00 |
+
+|
+
+Véhicules PL 7,5 t ≥ PTAC > 3,5 t |
+
+120,00 |
+
+|
+
+Voitures particulières |
+
+100,00 |
+
+|
+
+Autres véhicules immatriculés |
+
+50,00 |
+
+|
 
 Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception |
 
-120
+50,00 |
 
-120
+NOTA :
 
-120
-
-100
-
-50
-
-50 |
+Conformément au premier alinéa de l'article 3 de l’arrêté du 13 septembre 2026 (NOR : ECOC2620806A), ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur le 1er octobre 2026.
