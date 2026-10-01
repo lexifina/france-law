@@ -8,9 +8,9 @@ Champ du contrat type : le présent contrat type de location est applicable aux 
 
 - des colocations formalisées par la conclusion de plusieurs contrats entre les colocataires et le bailleur ;
 
-- des locations de logements faisant l'objet d'une convention passée en application de l'article L. 351-2 ou de l'article L. 321-8 du code de la construction et de l'habitation ;
+- des locations de logements faisant l'objet d'une convention passée en application de l'article L. 831-1 ou de l'article L. 321-8 du code de la construction et de l'habitation ;
 
-- des locations de logement appartenant à un organisme d'habitation à loyer modéré ne faisant pas l'objet d'une convention passée en application de l'article L. 351-2 précité.
+- des locations de logement appartenant à un organisme d'habitation à loyer modéré ne faisant pas l'objet d'une convention passée en application de l'article L. 831-1 précité.
 
 Modalités d'application du contrat type : le régime de droit commun en matière de baux d'habitation est défini principalement par la loi du 6 juillet 1989 modifiée. L'ensemble de ces dispositions étant d'ordre public, elles s'imposent aux parties qui, en principe, ne peuvent pas y renoncer.
 
@@ -28,7 +28,7 @@ I. Désignation des parties
 
 Le présent contrat est conclu entre les soussignés :
 
-- [nom et prénom, ou dénomination du bailleur / domicile ou siège social / qualité du bailleur (personne physique, personne morale (1)) / adresse électronique (facultatif)] (2) désigné (s) ci-après le bailleur ;
+- [nom et prénom, ou dénomination du bailleur / domicile ou siège social / qualité du bailleur (personne physique, personne morale (1) / numéro de téléphone portable (facultatif) / adresse électronique (facultatif)] (2) désigné (s) ci-après le bailleur ;
 
 - le cas échéant, représenté par le mandataire :
 
@@ -36,7 +36,7 @@ Le présent contrat est conclu entre les soussignés :
 
 - le cas échéant, [numéro et lieu de délivrance de la carte professionnelle / nom et adresse du garant] (3).
 
-- [nom et prénom du ou des locataires ou, en cas de colocation, des colocataires, adresse électronique (facultatif)] désigné (s) ci-après le locataire
+- [nom et prénom du ou des locataires ou, en cas de colocation, des colocataires, numéro de téléphone portable (facultatif), adresse électronique (facultatif)] désigné (s) ci-après le locataire
 
 Il a été convenu ce qui suit :
 
@@ -89,6 +89,8 @@ La consommation d'énergie finale et le niveau de performance du logement sont d
 - niveau de performance du logement : [classe du diagnostic de performance énergétique].
 
 B. Destination des locaux : [usage d'habitation ou usage mixte professionnel et d'habitation]
+
+Le cas échéant, Servitude de résidence principale : le logement objet du présent contrat est soumis à l'obligation prévue à l'article L. 151-14-1 du code de l'urbanisme ; il est à usage exclusif de résidence principale, au sens de l'article 2 de la loi du 6 juillet 1989 susmentionnée.
 
 C. Le cas échéant, Désignation des locaux et équipements accessoires de l'immeuble à usage privatif du locataire : [exemples : cave, parking, garage etc.]
 
@@ -194,9 +196,11 @@ VII. Le cas échéant, Clause de solidarité
 
 Modalités particulières des obligations en cas de pluralité de locataires : [clause prévoyant la solidarité des locataires et l'indivisibilité de leurs obligations en cas de pluralité de locataires].
 
-VIII. Le cas échéant, Clause résolutoire
+VIII. - Clause résolutoire.
 
-Modalités de résiliation de plein droit du contrat : [clause prévoyant la résiliation de plein droit du contrat de location pour un défaut de paiement du loyer ou des charges aux termes convenus, le non versement du dépôt de garantie, la non-souscription d'une assurance des risques locatifs ou le non-respect de l'obligation d'user paisiblement des locaux loués, résultant de troubles de voisinage constatés par une décision de justice passée en force de chose jugée].
+Le contrat de location est résilié de plein droit pour défaut de paiement du loyer ou des charges aux termes convenus ou pour non versement du dépôt de garantie. La clause de résiliation de plein droit ne produit effet que six semaines après la date d'un commandement de payer demeuré infructueux.
+
+Le cas échéant, Modalités de résiliation de plein droit du contrat pour des motifs autres que le défaut de paiement du loyer ou des charges ou le non versement du dépôt de garantie : [clause prévoyant la résiliation de plein droit du contrat de location pour la non-souscription d'une assurance des risques locatifs qui ne produit effet qu'un mois après commandement demeuré infructueux, le non-respect de l'obligation d'user paisiblement des locaux loués, résultant de troubles de voisinage constatés par une décision de justice passée en force de chose jugée ou, lorsque le logement est soumis à l'obligation prévue à l'article L. 151-14-1 du code de l'urbanisme, pour le non-respect de l'obligation de l'occuper exclusivement à titre de résidence principale. Dans ce dernier cas, la clause ne peut produire effet qu'à l'expiration d'un délai de mise en demeure fixé par le maire conformément au II de l'article L. 481-4 du code de l'urbanisme.]
 
 IX. Le cas échéant, Honoraires de location (17)
 
@@ -270,4 +274,4 @@ Signature du bailleur [ou de son mandataire, le cas échéant] Signature du loca
 
 NOTA :
 
-Conformément à l’article 7 du décret n° 2023-796 du 18 août 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément à l’article 3 du décret n° 2026-596, ces dispositions, dans leur rédaction résultant dudit décret, entrent en vigueur le 1er octobre 2026 et s'appliquent aux contrats conclus ou renouvelés à compter de cette même date.
