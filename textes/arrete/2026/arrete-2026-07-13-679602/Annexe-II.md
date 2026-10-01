@@ -2,7 +2,7 @@
 
 ANNEXE II
 
-SITUATION D'ÉVALUATION CERTIFICATIVE DES BLOCS DE COMPÉTENCES DU DIPLÔME D'ÉTAT SUPÉRIEUR DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ « DIRECTION DE LA PERFORMANCE SPORTIVE » MENTION « JUDO-JUJITSU »
+SITUATION D'ÉVALUATION CERTIFICATIVE DES BLOCS DE COMPÉTENCES DU DIPLÔME D'ÉTAT SUPÉRIEUR DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ "DIRECTION DE LA PERFORMANCE SPORTIVE" MENTION "JUDO-JUJITSU"
 
 Une vigilance particulière est demandée aux évaluateurs en ce qui concerne les actions de prévention et de lutte contre la maltraitance, notamment sur les publics mineurs et/ou en situation de handicap. Ce point sera abordé par les évaluateurs dans le cadre des questions posées pour chaque bloc de compétences.
 
@@ -12,7 +12,7 @@ La situation d'évaluation certificative du bloc de compétences 1 est réalisé
 
 - au plus tard quinze jours ouvrés avant la date de l'épreuve, le candidat transmet un document écrit personnel de 25 pages maximum analysant une expérience de conception, mise en œuvre et évaluation d'un projet de performance sportive conduite au sein d'une structure lui ayant permis de mettre en œuvre les activités visées par le référentiel ;
 
-- ce document fait l'objet d'une soutenance orale par le candidat suivie d'un entretien avec les évaluateurs. Le candidat peut, lors de la soutenance, utiliser un support vidéo.
+- ce document fait l'objet d'une soutenance orale par le candidat pendant une durée de vingt minutes au maximum, suivie d'un entretien avec les évaluateurs d'une durée de quarante minutes au maximum. Le candidat peut, lors de la soutenance, utiliser un support vidéo.
 
 Le document doit intégrer les contenus suivants :
 
@@ -118,7 +118,7 @@ La situation d'évaluation certificative du bloc de compétences 3 est réalisé
 
 - la situation d'évaluation porte sur des activités de préparation, conduite et évaluation d'actions d'entraînement à visée de performance sportive dans le domaine du judo-jujitsu au sein de la structure d'alternance pédagogique ;
 
-- et auprès d'un sportif intégré dans un processus de performance au moment de l'évaluation donc soit inscrit sur liste ministérielle, soit ayant participé aux championnats de France en première division dans sa catégorie d'âge à partir de la catégorie « cadets » ou équivalent.
+- et auprès d'un sportif intégré dans un processus de performance au moment de l'évaluation donc soit inscrit sur liste ministérielle, soit ayant participé aux championnats de France en première division dans sa catégorie d'âge à partir de la catégorie "cadets" ou équivalent.
 
 En amont de l'évaluation, le candidat prépare une mise en situation d'entraînement à visée de performance sportive composée d'une séquence d'analyse vidéo et d'une séance d'entraînement sur tatami.
 
