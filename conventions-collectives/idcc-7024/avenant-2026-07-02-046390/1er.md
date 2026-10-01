@@ -1,0 +1,51 @@
+# Article 1er
+
+Grille des salaires
+
+Palier 1 |
+
+12,31 € |
+
+Palier 2 |
+
+12,40 € |
+
+Palier 3 |
+
+12,57 € |
+
+Palier 4 |
+
+12,84 € |
+
+Palier 5 |
+
+13,37 € |
+
+Palier 6 |
+
+13,99 € |
+
+Palier 7 |
+
+14,79 € |
+
+Palier 8 |
+
+15,79 € |
+
+Palier 9 |
+
+17,07 € |
+
+Palier 10 |
+
+18,87 € |
+
+Palier 11 |
+
+21,44 € |
+
+Palier 12 |
+
+24,45 € |
