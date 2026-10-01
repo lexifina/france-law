@@ -22,7 +22,9 @@ Diplôme délivré par le ministère de l'éducation nationale et de la jeunesse
 
 |
 
-Certificat de spécialisation "encadrement secteur sportif" option "multi-activités physiques ou sportives pour tous" |
+Certificat de spécialisation "encadrement secteur sportif" option "multi-activités physiques ou sportives pour tous"
+
+|
 
 4 |
 
@@ -126,23 +128,21 @@ A l'exclusion :
 
 - des prestations de cours particuliers. |
 
-ACTIVITÉS DE FITNESS DANS L'EAU y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice et sous la surveillance d'un personnel mentionné à l'article L. 322-7 du code du sport (MNS ou BNSSA). |
+ACTIVITÉS DE FITNESS DANS L'EAU y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice et sous la surveillance d'un personnel mentionné à l'article L. 322-7 du code du sport (MNS ou SSA). |
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Diplôme délivré par le ministère de l'éducation nationale et de la jeunesse
-
-|
+Diplôme délivré par le ministère de l'éducation nationale et de la jeunesse |
 
 Certificat de spécialisation "encadrement secteur sportif" option "activités aquatiques et de la natation" |
 
 4 |
 
-Encadrement de séances en aqua fitness. Surveillance et sauvetage en milieu aquatique. |
-
-Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité.
+Encadrement de séances en aqua fitness. Surveillance et sauvetage en milieu aquatique.
 
 |
+
+Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité. |
 
 Diplômes délivrés par le ministère chargé des sports |
 
@@ -152,7 +152,9 @@ BP JEPS, spécialité " éducateur sportif ", mention " activités aquatiques et
 
 Encadrement de séances en aqua fitness.
 
-Surveillance et sauvetage en milieu aquatique. |
+Surveillance et sauvetage en milieu aquatique.
+
+|
 
 Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité. |
 
@@ -224,7 +226,9 @@ Certificat de spécialisation "encadrement secteur sportif" option "activités d
 
 4 |
 
-Découverte d'activités de loisir et d'animation des activités de la forme. Encadrement, initiation et conduite de cycles d'apprentissage des activités de la forme en cours collectifs. |
+Découverte d'activités de loisir et d'animation des activités de la forme. Encadrement, initiation et conduite de cycles d'apprentissage des activités de la forme en cours collectifs.
+
+|
 
 |
 
@@ -1172,7 +1176,9 @@ A l'exclusion :
 
 -du BMX Freestyle sur Park classé en niveau National ou sur des modules de plus de 1.5 mètres.
 
--du BMX Racing sur buttes de départ à 5 mètres, 8 mètres de hauteur ou sur des sections professionnelles. |
+-du BMX Racing sur buttes de départ à 5 mètres, 8 mètres de hauteur ou sur des sections professionnelles.
+
+|
 
 DE JEPS, spécialité " perfectionnement sportif " mention " activités du cyclisme " option BMX, jusqu'au 31 août 2029 (**).
 
@@ -1420,7 +1426,9 @@ A l'exclusion :
 
 -de la via ferrata
 
--de l'escalade pratiquée sur sites naturels d'escalade |
+-de l'escalade pratiquée sur sites naturels d'escalade
+
+|
 
 Certificat de qualification professionnelle délivré par l'organisme certificateur de la branche du sport (OC Sport-CPNEF Sport)
 
@@ -1440,7 +1448,9 @@ A l'exclusion :
 
 -de la via ferrata
 
--de l'escalade pratiquée sur sites naturels d'escalade |
+-de l'escalade pratiquée sur sites naturels d'escalade
+
+|
 
 ESCALADE-ENVIRONNEMENT SPECIFIQUE (pratiquée sur les sites sportifs au-delà du premier relais et " terrains d'aventure ", déterminés conformément aux normes de classement technique édictées par la fédération délégataire, ainsi que de l'escalade en " via ferrata ") |
 
@@ -1866,7 +1876,9 @@ BP JEPS, spécialité " éducateur sportif ", mention " activités de la forme "
 
 Encadrement, initiation et conduite de cycles d'apprentissage en musculation, en cardio training et en haltérophilie.
 
-Découverte d'activités de loisir et d'animation des activités de la forme. |
+Découverte d'activités de loisir et d'animation des activités de la forme.
+
+|
 
 |
 
@@ -2190,13 +2202,15 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 LONGE-CÔTE |
 
-Toute qualification inscrite à la présente annexe assortie du BNSSA. |
+Toute qualification inscrite à la présente annexe assortie du SSA. |
 
 |
 
 Encadrement du longe-côte.
 
-Dans le cas où l'activité est organisée dans une zone de baignade surveillée, le BNSSA n'est pas requis |
+Dans le cas où l'activité est organisée dans une zone de baignade surveillée, le SSA n'est pas requis
+
+|
 
 |
 
@@ -2208,33 +2222,39 @@ Encadrement du longe-côte. |
 
 |
 
-Toute qualification inscrite à l'annexe de l'arrêté du 2 octobre 2007 modifié fixant la liste des diplômes acquis jusqu'au 28 août 2007, assortie du BNSSA. |
+Toute qualification inscrite à l'annexe de l'arrêté du 2 octobre 2007 modifié fixant la liste des diplômes acquis jusqu'au 28 août 2007, assortie du SSA. |
 
 |
 
 Encadrement du longe-côte.
 
-Dans le cas où l'activité est organisée dans une zone de baignade surveillée, le BNSSA n'est pas requis |
+Dans le cas où l'activité est organisée dans une zone de baignade surveillée, le SSA n'est pas requis
 
 |
 
-Toute qualification inscrite à l'annexe de l'arrêté du 22 janvier 2016 modifié fixant la liste des diplômes acquis jusqu'au 31 décembre 2015, assortie du BNSSA. |
-
 |
 
-Encadrement du longe-côte.
-
-Dans le cas où l'activité est organisée dans une zone de baignade surveillée, le BNSSA n'est pas requis. |
-
-|
-
-Toute qualification inscrite à l'annexe de l'arrêté du 9 mars 2020 fixant la liste des certifications antérieurement inscrites à l'annexe II-1 de l'article A. 212-1 du code du sport permettant l'encadrement des activités physiques ou sportives contre rémunération, assortie du BNSSA. |
+Toute qualification inscrite à l'annexe de l'arrêté du 22 janvier 2016 modifié fixant la liste des diplômes acquis jusqu'au 31 décembre 2015, assortie du SSA. |
 
 |
 
 Encadrement du longe-côte.
 
-Dans le cas où l'activité est organisée dans une zone de baignade surveillée, le BNSSA n'est pas requis. |
+Dans le cas où l'activité est organisée dans une zone de baignade surveillée, le SSA n'est pas requis.
+
+|
+
+|
+
+Toute qualification inscrite à l'annexe de l'arrêté du 9 mars 2020 fixant la liste des certifications antérieurement inscrites à l'annexe II-1 de l'article A. 212-1 du code du sport permettant l'encadrement des activités physiques ou sportives contre rémunération, assortie du SSA. |
+
+|
+
+Encadrement du longe-côte.
+
+Dans le cas où l'activité est organisée dans une zone de baignade surveillée, le SSA n'est pas requis.
+
+|
 
 |
 
@@ -2370,7 +2390,7 @@ Encadrement du longe-côte. |
 
 |
 
-DE JEPS, spécialité “entraînement et perfectionnement sportif” mention “canoë-kayak et disciplines associées en eau calme”
+DE JEPS, spécialité "entraînement et perfectionnement sportif" mention "canoë-kayak et disciplines associées en eau calme"
 
 |
 
@@ -2614,7 +2634,9 @@ BP JEPS, spécialité " éducateur sportif ", mention " activités aquatiques et
 
 Enseignement et animation d'activités aquatiques d'éveil, de découverte et de loisirs aquatiques. Apprentissage et enseignement des différentes nages.
 
-Surveillance et sauvetage en milieu aquatique. |
+Surveillance et sauvetage en milieu aquatique.
+
+|
 
 Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité. |
 
@@ -2666,7 +2688,9 @@ CS " sauvetage et sécurité en milieu aquatique " associé au DE JEPS spéciali
 
 Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par l'option considérée.
 
-Surveillance et sauvetage en milieu aquatique. |
+Surveillance et sauvetage en milieu aquatique.
+
+|
 
 Sous réserve de la présentation du certificat d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité. |
 
@@ -2716,7 +2740,9 @@ CS " sauvetage et sécurité en milieu aquatique " associé au DES JEPS, spécia
 
 Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par l'option considérée.
 
-Surveillance et sauvetage en milieu aquatique. |
+Surveillance et sauvetage en milieu aquatique.
+
+|
 
 Sous réserve de la présentation du certificat d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité. |
 
@@ -3362,7 +3388,9 @@ CC " encadrer des activités de sport automobile de loisir ou émergentes " asso
 
 -la mention " rallye " du BPJEPS spécialité " sport automobile " ;
 
--la mention " karting " du BPJEPS spécialité " sport automobile ". |
+-la mention " karting " du BPJEPS spécialité " sport automobile ".
+
+|
 
 |
 
@@ -4324,7 +4352,9 @@ CC " enseignement en milieu aménagé " associé au :
 
 -DE JEPS spécialité " perfectionnement sportif " mention " parapente " ou mention " vol libre " option " parapente "
 
--DES JEPS spécialité " performance sportive " mention " parapente " ou mention " vol libre " option " parapente " |
+-DES JEPS spécialité " performance sportive " mention " parapente " ou mention " vol libre " option " parapente "
+
+|
 
 |
 
@@ -4395,3 +4425,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 |
 
 (**) La personne entrée en formation au plus tard à la date limite de l'inscription du diplôme, du titre à finalité professionnelle ou du certificat de qualification professionnelle à l'annexe II-1 ou la personne titulaire d'un avis de recevabilité à la validation des acquis de l'expérience obtenu au plus tard jusqu'à cette même date limite peut, à l'obtention du diplôme, du titre à finalité professionnelle ou du certificat de qualification professionnelle se prévaloir de l'inscription de celui-ci dans le répertoire national des certifications professionnelles et demander à obtenir une carte professionnelle d'éducateur sportif.
+
+NOTA :
+
+Conformément à l'article 16 de l'arrêté du 29 juillet 2026 (NOR : INTE2619852A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er octobre 2026, y compris en Polynésie française.
