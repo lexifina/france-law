@@ -1320,9 +1320,9 @@ Le carnet de route doit être tenu à jour et convenablement rempli, au plus tar
 
 6.2.2. Documents liés à l'entretien.
 
-6.2.2.1. Les dispositions du présent 6.2.2. ne s'appliquent pas aux aéronefs redevables l'annexe I (partie M-FR) de l'arrêté du 8 juillet 2024 relatif au maintien de la navigabilité des aéronefs civils immatriculés en France, exclus du champ de compétence de l'Agence de l'Union européenne pour la sécurité aérienne, et des produits, pièces et équipements aéronautiques destinés à y être installés, et relatif à l'agrément des organismes et des personnels participant à ces tâches.
+6.2.2.1. Les dispositions du présent 6.2.2. ne s'appliquent pas aux aéronefs redevables de l'annexe I (Partie M-FR) ou de l'annexe VIII (Partie ML-FR) de l'arrêté du 8 juillet 2024 modifié relatif au maintien de la navigabilité des aéronefs civils immatriculés en France, exclus du champ de compétence de l'Agence de l'Union européenne pour la sécurité aérienne, et des produits, pièces et équipements aéronautiques destinés à y être installés, et relatif à l'agrément des organismes et des personnels participant à ces tâches.
 
-6.2.2.2. Le “ propriétaire ” (au sens du présent chapitre VII, paragraphe 7.1) tient à jour les documents suivants dans lesquels sont consignées les opérations d'entretien effectuées et leurs résultats :
+6.2.2.2. Le "propriétaire" (au sens du présent chapitre VII, paragraphe 7.1) tient à jour les documents suivants dans lesquels sont consignées les opérations d'entretien effectuées et leurs résultats :
 
 -le livret d'aéronef ;
 
@@ -1336,7 +1336,7 @@ La forme et le contenu de ces documents, ainsi que les méthodes pour les tenir 
 
 CHAPITRE VII - Entretien
 
-Les exigences de ce chapitre VII ne s'appliquent pas aux aéronefs redevables de l'annexe I (partie M-FR) de l'arrêté du 8 juillet 2024 relatif au maintien de la navigabilité des aéronefs civils immatriculés en France, exclus du champ de compétence de l'Agence de l'Union européenne pour la sécurité aérienne, et des produits, pièces et équipements aéronautiques destinés à y être installés, et relatif à l'agrément des organismes et des personnels participant à ces tâches.
+Les exigences de ce chapitre VII ne s'appliquent pas aux aéronefs redevables de l'annexe I (Partie M-FR) ou de l'annexe VIII (Partie ML-FR) de l'arrêté du 8 juillet 2024 modifié relatif au maintien de la navigabilité des aéronefs civils immatriculés en France, exclus du champ de compétence de l'Agence de l'Union européenne pour la sécurité aérienne, et des produits, pièces et équipements aéronautiques destinés à y être installés, et relatif à l'agrément des organismes et des personnels participant à ces tâches.
 
 7.1. Responsabilités
 
@@ -1475,8 +1475,6 @@ Les indications qui doivent y être portées sont celles spécifiées au paragra
 Des vols de contrôle doivent être exécutés à l'issue de l'accomplissement de certaines opérations d'entretien ; les cas d'exigibilité et les modalités de leur exécution sont définis dans l'annexe IV du présent document.
 
 7.10. Entretien dans un cadre agréé
-
-Tout propriétaire d'un aéronef choisissant de faire effectuer l'entretien par une ou plusieurs personnes physiques ou morales agréées à cet effet par les services compétents doit, afin de bénéficier des avantages liés à cette formule en matière de durée de validité pour certaines catégories de certificats de navigabilité, en faire la déclaration aux services compétents en précisant le programme d'inspection ou d'entretien utilisé. Les dispositions des paragraphes 6.2.2 et 7.2 à 7.9 sont alors prises en charge par ces ateliers agréés.
 
 L'entretien des stations d'aéronefs est effectué dans un organisme agréé à cet effet par le ministre chargé de l'aviation civile.
 
@@ -1628,4 +1626,4 @@ c) Le ministre chargé de l'aviation civile peut notifier à l'organisme le retr
 
 NOTA :
 
-Conformément à l'article 9 de l'arrêté du 17 février 2025, ces dispositions entrent en vigueur le 1er juillet 2025.
+Conformément à l'article 13 de l'arrêté du 9 juillet 2026 (NOR : TRAA2615710A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur le 1er octobre 2026.
