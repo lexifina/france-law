@@ -316,7 +316,7 @@ Educateur sportif :
 
 0
 
-BNSSA
+SSA
 
 0
 
@@ -663,3 +663,7 @@ Total général
 4 900
 
 10 410
+
+NOTA :
+
+Conformément à l'article 16 de l'arrêté du 29 juillet 2026 (NOR : INTE2619852A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er octobre 2026, y compris en Polynésie française.

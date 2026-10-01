@@ -24,7 +24,7 @@ Les titulaires du certificat d'aptitude à l'exercice de la profession de maitre
 
 X
 
-Dispense uniquement de la production du " BNSSA " |
+Dispense uniquement de la production du "certificat de compétences de surveillant sauveteur aquatique (SSA) ou brevet national de sécurité et sauvetage aquatique" |
 
 |
 
@@ -32,10 +32,14 @@ Le titulaire brevet professionnel de la jeunesse, de l'éducation populaire et d
 
 X
 
-Dispense uniquement de la production du " BNSSA " |
+Dispense uniquement de la production du "certificat de compétences de surveillant sauveteur aquatique (SSA) ou brevet national de sécurité et sauvetage aquatique" |
 
 |
 
 (*) EPEF : exigences préalables à l'entrée en formation.
 
 (*) EPMSP : exigences préalables à la mise en situation professionnelle.
+
+NOTA :
+
+Conformément à l'article 16 de l'arrêté du 29 juillet 2026 (NOR : INTE2619852A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er octobre 2026, y compris en Polynésie française.

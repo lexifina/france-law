@@ -66,7 +66,7 @@ Responsabilité et exigences sécuritaires
 
 - Les référentiels du secourisme et du sauveteur secouriste du travail
 
-- Le référentiel national de compétences de sécurité civile au premier secours en équipe de niveau 1 et/ou le référentiel du brevet national de sécurité et de sauvetage aquatique selon les besoins de la structure |
+- Le référentiel national de compétences de sécurité civile au premier secours en équipe de niveau 1 et/ou le référentiel du certificat de compétences de surveillant sauveteur aquatique (SSA) ou brevet national de sécurité et sauvetage aquatique selon les besoins de la structure |
 
 Résultats attendus |
 
@@ -167,3 +167,7 @@ Les formalités sont accomplies et les autorisations nécessaires au projet sont
 Les dysfonctionnements sont identifiés et transmis aux acteurs concernés
 
 La mise en perspective du projet prévoit un suivi opérationnel |
+
+NOTA :
+
+Conformément à l'article 16 de l'arrêté du 29 juillet 2026 (NOR : INTE2619852A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er octobre 2026, y compris en Polynésie française.

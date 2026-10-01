@@ -2,7 +2,7 @@
 
 CERTIFICAT MEDICAL
 
-Rappel de la réglementation : un certificat médical établi moins de trois mois avant la date de dépôt de dossier est exigé pour toute personne titulaire d'un brevet national de sécurité et sauvetage aquatique.
+Rappel de la réglementation : un certificat médical établi moins de trois mois avant la date de dépôt de dossier est exigé pour toute personne titulaire d'un certificat de compétences de surveillant sauveteur aquatique (SSA) ou brevet national de sécurité et sauvetage aquatique.
 
 *
 
@@ -29,3 +29,7 @@ Avec correction :
 ― soit une correction amenant une acuité visuelle de 10/10 pour un œil, quelle que soit la valeur de l'autre œil corrigé (supérieur à 1/10) ;
 
 ― soit une correction amenant une acuité visuelle de 13/10 pour la somme des acuités visuelles de chaque œil corrigé, avec un œil au moins à 8/10.
+
+NOTA :
+
+Conformément à l'article 16 de l'arrêté du 29 juillet 2026 (NOR : INTE2619852A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er octobre 2026, y compris en Polynésie française.

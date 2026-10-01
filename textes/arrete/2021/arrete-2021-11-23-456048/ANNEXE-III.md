@@ -54,7 +54,7 @@ X |
 
 |
 
-UCC (*) " triathlon " associée au :
+UCC (*) " triathlon " associée au :f
 
 -BPJEPS, spécialité " éducateur sportif " mention " activités physiques pour tous ", " activités aquatiques et de la natation " ou " activités du cyclisme " et justifier d'une expérience d'encadrement sportif du triathlon de 2 ans dans les 5 dernières années. |
 
@@ -96,7 +96,7 @@ X
 
 uniquement
 
-de la production du BNSSA |
+de la production du certificat de compétences de surveillant sauveteur aquatique (SSA) ou brevet national de sécurité et sauvetage aquatique |
 
 |
 
@@ -115,3 +115,7 @@ de la production du BNSSA |
 * BPJEPS : brevet professionnel de la jeunesse, de l'éducation populaire et du sport.
 
 * UCC : unité capitalisable complémentaire |
+
+NOTA :
+
+Conformément à l'article 16 de l'arrêté du 29 juillet 2026 (NOR : INTE2619852A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er octobre 2026, y compris en Polynésie française.

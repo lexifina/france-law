@@ -98,7 +98,7 @@ L'aptitude médicale à cet emploi est subordonnée à l'absence :
 
 La vision du relief doit être satisfaisante. |
 
-Brevet national de sécurité de sauvetage aquatique (BNSSA) |
+Certificat de compétences de surveillant sauveteur aquatique (SSA) ou brevet national de sécurité et sauvetage aquatique |
 
 1 |
 
@@ -114,7 +114,7 @@ Brevet national de sécurité de sauvetage aquatique (BNSSA) |
 
 0/1 |
 
-Pour les candidats au BNSSA, l'aptitude médicale est, entre autre, subordonnée à l'intégrité de la membrane tympanique et à la perméabilité tubaire et aux normes définies par instruction. |
+Pour les candidats au certificat de compétences de surveillant sauveteur aquatique (SSA) ou brevet national de sécurité et sauvetage aquatique, l'aptitude médicale est, entre autre, subordonnée à l'intégrité de la membrane tympanique et à la perméabilité tubaire et aux normes définies par instruction. |
 
 Brevet d'État d'éducateur sportif des activités de la natation |
 

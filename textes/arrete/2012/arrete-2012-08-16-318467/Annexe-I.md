@@ -2,7 +2,7 @@
 
 CERTIFICAT MÉDICAL
 
-Un certificat médical, établi depuis moins de trois mois avant la date du dépôt du dossier, est exigé pour toute personne candidate au brevet national de sécurité et sauvetage aquatique (BNSSA).
+Un certificat médical, établi depuis moins de trois mois avant la date du dépôt du dossier, est exigé pour toute personne candidate au certificat de compétences de surveillant sauveteur aquatique (SSA) ou brevet national de sécurité et sauvetage aquatique.
 
 Je soussigné , docteur en médecine, certifie avoir
 
@@ -33,3 +33,7 @@ Dans le cas d'un œil amblyope, le critère exigé est 10/10 pour l'autre œil c
 A , le ,
 
 Signature
+
+NOTA :
+
+Conformément à l'article 16 de l'arrêté du 29 juillet 2026 (NOR : INTE2619852A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er octobre 2026, y compris en Polynésie française.

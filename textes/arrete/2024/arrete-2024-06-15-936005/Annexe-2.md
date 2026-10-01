@@ -1,12 +1,12 @@
 # Article Annexe 2
 
-UNITÉ D'ENSEIGNEMENT "SURVEILLANCE ET SAUVETAGE SUR LITTORAL"
+UNITÉ D'ENSEIGNEMENT "SURVEILLANCE ET SAUVETAGE EN EAUX INTÉRIEURES"
 
 Chapitre 1 : Référentiel national de compétences
 
 1.1. Objectif
 
-L'unité d'enseignement "surveillance et sauvetage aquatique sur littoral" a pour objectif de faire acquérir les compétences complémentaires nécessaires pour assurer les missions de prévention, de surveillance et de sauvetage dans le contexte particulier des lieux de baignade en milieu naturel, ouverts gratuitement au public, aménagés et réglementairement autorisés, à l'exception des eaux intérieures.
+L'unité d'enseignement "surveillance et sauvetage aquatique en eaux intérieures" a pour objectif de faire acquérir les compétences complémentaires nécessaires pour assurer les missions de prévention, de surveillance et de sauvetage dans le contexte particulier des lieux de baignade en milieu naturel, ouverts gratuitement au public, aménagés et réglementairement autorisés, à l'exception du littoral.
 
 1.2. Compétences attendues
 
@@ -14,9 +14,9 @@ L'unité d'enseignement permet aux apprenants d'acquérir les compétences néce
 
 1. Situer son rôle et sa mission au sein d'un dispositif évolutif et adaptable aux conditions du moment ;
 
-2. Effectuer une analyse des risques particuliers présents sur une zone de baignade du littoral ;
+2. Effectuer une analyse des risques particuliers présents sur sa zone de baignade en eaux intérieures ;
 
-3. Développer des actions de préventions adaptées aux risques et pratiques sur sa zone de baignade du littoral ;
+3. Développer des actions de prévention adaptées aux risques et pratiques sur sa zone de baignade en eaux intérieures ;
 
 4. Participer à un dispositif de surveillance en mettant en œuvre des techniques opérationnelles adaptées, éventuellement associées à des matériels spécifiques ;
 
@@ -26,29 +26,33 @@ L'unité d'enseignement permet aux apprenants d'acquérir les compétences néce
 
 1.3. Equivalences reconnues
 
-Les titulaires du certificat de compétences "surveillant sauveteur aquatique - littoral" délivré avant l'entrée en vigueur du présent arrêté et conformément aux dispositions de l'arrêté du 19 février 2014 fixant le référentiel national de compétences de sécurité civile relatif à l'unité d'enseignement "surveillance et sauvetage aquatique sur le littoral", sont titulaires par équivalence de la formation initiale de "surveillant sauveteur aquatique sur littoral".
+Sont titulaires, par équivalences, de la formation initiale de "surveillant sauveteur aquatique en eaux intérieures" :
+
+- les titulaires du certificat de compétences "formateurs sauvetage aquatique en milieu naturel" délivré avant l'entrée en vigueur du présent arrêté et conformément aux dispositions de l'arrêté du 20 février 2014 fixant le référentiel national de compétences de sécurité civile relatif à l'unité d'enseignement "pédagogie appliquée à l'emploi de formateur au sauvetage aquatique en milieu naturel" ;
+
+- les titulaires du certificat de compétences "surveillant sauveteur aquatique - eaux intérieures" délivré avant l'entrée en vigueur du présent arrêté et conformément aux dispositions de l'arrêté du 18 février 2014 fixant le référentiel national de compétences de sécurité civile relatif à l'unité d'enseignement "surveillance et sauvetage aquatique en eaux intérieures".
 
 Chapitre 2 : Référentiel national de formation
 
 2.1. Organismes de formation
 
-Seuls les organismes disposant d'une habilitation pour les unités d'enseignement "premiers secours en équipe de niveau 1" et "premiers secours en équipe de niveau 2"peuvent être autorisés à dispenser la présente unité d'enseignement, sous réserve de répondre aux dispositions du présent arrêté.
+Seuls les organismes disposant d'une habilitation pour les unités d'enseignement "premiers secours en équipe de niveau 1" et "premiers secours en équipe de niveau 2", peuvent être autorisés à dispenser la présente unité d'enseignement, sous réserve de répondre aux dispositions du présent arrêté.
 
 2.2. Durée de la formation
 
-La durée de la formation initiale "surveillant sauveteur aquatique sur littoral" (SSA L), lorsqu'elle est dispensée en présentiel, est fixée à un volume minimal de vingt-huit heures de formation.
+La durée de la formation initiale "surveillant sauveteur aquatique en eaux intérieures" (SSA EI), lorsqu'elle est dispensée en présentiel, est fixée à un volume minimal de quatorze heures de formation.
 
 Cette unité d'enseignement peut faire appel à des outils de formation ouverte accessible à distance en complément de la formation en présentiel.
 
-Un référentiel interne de formation validé peut prévoir des allégements de formation pour les apprenants déjà titulaires du certificat de compétences de surveillant-sauveteur aquatique en eaux intérieures. Quel que soit le processus pédagogique mis en œuvre, les modalités de certification restent identiques aux dispositions du chapitre 3 de la présente annexe.
+Un référentiel interne de formation validé par le ministre chargé de la sécurité civile peut prévoir des allégements de formation pour les apprenants déjà titulaires du certificat de compétences de surveillant-sauveteur aquatique sur littoral. Quel que soit le processus pédagogique mis en œuvre, les modalités de certification restent identiques aux dispositions du chapitre 3 de la présente annexe.
 
-La durée de la formation continue est fonction du contenu fixé par le ministre en charge de la sécurité civile et peut être concomitante à la formation continue d'équipier secouriste-premiers secours en équipe de niveau 2. Dans ce cas, les minimas horaires de ces deux formations continues s'additionnent.
+La durée de la formation continue est fonction du contenu fixé par le ministre en charge de la sécurité civile et peut être concomitante à la formation continue d'équipier secouriste - premiers secours en équipe de niveau 2. Dans ce cas, les minima horaires de ces deux formations continues s'additionnent.
 
 2.3. Qualification des formateurs
 
-L'unité d'enseignement "surveillance et sauvetage aquatique sur littoral" est dispensée par une équipe pédagogique dont la composition est arrêtée par l'autorité d'emploi assurant la formation. Cette équipe pédagogique est composée de formateurs, dont l'un est désigné comme responsable pédagogique.
+L'unité d'enseignement "surveillance et sauvetage aquatique en eaux intérieures" est dispensée par une équipe pédagogique dont la composition est arrêtée par l'autorité d'emploi assurant la formation. Cette équipe pédagogique est composée de formateurs, dont l'un est désigné comme responsable pédagogique.
 
-Chaque membre de l'équipe pédagogique doit être détenteur du certificat de compétences de "formateur au sauvetage aquatique" et du certificat de compétences de "surveillant sauveteur aquatique sur littoral" et satisfaire aux dispositions réglementaires de formation continue y afférentes.
+Chaque membre de l'équipe pédagogique doit être détenteur du certificat de compétences de "formateur au sauvetage aquatique" et du certificat de compétences de "surveillant sauveteur en eaux intérieures" et satisfaire aux dispositions réglementaires de formation continue y afférentes.
 
 En plus de cette équipe pédagogique, un dispositif dédié à la sécurité des participants, proportionnel aux nombres de candidats et adapté à l'environnement, pour les phases de mise en application en milieu naturel, est défini dans le référentiel interne de formation et proportionnel aux nombres de candidats.
 
@@ -106,7 +110,7 @@ La présente unité d'enseignement est ouverte, parmi le public cible fixé par 
 
 - présentant un certificat médical en cours de validité et délivré dans les conditions fixées par l'arrêté du 26 juin 1991 susvisé ;
 
-- titulaire d'un certificat de compétences d'équipier secouriste, ou équivalent, et satisfaisant aux dispositions de formation continue s'y rapportant ou justifiant d'une formation en cours pour cette qualification ou équivalente ;
+- titulaire d'un certificat de compétences d'équipier secouriste ou équivalent et satisfaisant aux dispositions de formation continue s'y rapportant ou justifiant d'une formation en cours pour cette qualification ou équivalente ;
 
 - titulaire de l'un des diplômes prévus à l'article D. 322-11 du code du sport et satisfaisant aux dispositions de formation continue ou de vérification de maintien des acquis s'y rapportant ou justifiant d'une formation en cours à l'un de ces diplômes.
 
@@ -118,13 +122,17 @@ L'enseignement dispensé doit comporter une majorité d'exercices d'application 
 
 2.7. Conditions matérielles de formation
 
-Les conditions matérielles de formation sont décrites dans le référentiel interne de formation de l'organisme.
+Les conditions matérielles de formation sont décrites dans le référentiel interne de formation de l'organisme habilité.
+
+2.8. Dispositions particulières
+
+Les formations initiales de cette unité d'enseignement ne peuvent servir de support, pour les mises en situation ou apprentissages, à une formation initiale ou continue d'une autre unité d'enseignement.
 
 Chapitre 3 : Référentiel national de certification
 
-L'aptitude à s'intégrer à un dispositif de surveillance évolutif et à mettre en œuvre des techniques opérationnelles de sauvetage coordonnées à l'aide de matériels spécialisés, dans le contexte particulier des lieux de baignade en milieu naturel, ouverts gratuitement au public, aménagés et réglementairement autorisés, est reconnue par un certificat de compétences de "surveillant-sauveteur aquatique sur littoral" dont le modèle doit être conforme aux préconisations du ministère chargé de la sécurité civile.
+L'aptitude à s'intégrer à un dispositif de surveillance évolutif et à mettre en œuvre des techniques opérationnelles de sauvetage coordonnées à l'aide de matériels spécialisés, dans le contexte particulier des lieux de baignade en milieu naturel, ouverts gratuitement au public, aménagés et réglementairement autorisés, à l'exclusion de ceux situés sur le littoral, est reconnue par un certificat de compétences de "surveillant-sauveteur aquatique en eaux intérieures" dont le modèle doit être conforme aux préconisations du ministère chargé de la sécurité civile.
 
-Le certificat de compétences de "surveillant-sauveteur aquatique sur littoral" est délivré aux personnes qui satisfont aux conditions suivantes :
+Le certificat de compétences de "surveillant-sauveteur aquatique-eaux intérieures" est délivré aux personnes qui satisfont aux conditions suivantes :
 
 - avoir suivi l'ensemble de la formation à la présente unité d'enseignement ou aux séquences prévues par un allégement de formation ;
 
@@ -141,3 +149,7 @@ L'évaluation sommative porte sur une évaluation continue des compétences de l
 - démontrer, lors des séquences de mises en situation, l'atteinte de l'ensemble des objectifs de la formation, en termes de capacités théoriques, pratiques et comportementales.
 
 Le certificat de compétences n'est attribué qu'aux personnes titulaires de l'un des diplômes prévus à l'article D. 322-11 du code du sport et d'un certificat de compétences d'équipier secouriste, ou équivalent, à jour de formation continue.
+
+NOTA :
+
+Conformément à l'article 16 de l'arrêté du 29 juillet 2026 (NOR : INTE2619852A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er octobre 2026, y compris en Polynésie française.

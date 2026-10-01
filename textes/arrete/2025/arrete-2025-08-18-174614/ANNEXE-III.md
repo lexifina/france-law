@@ -78,7 +78,7 @@ Test de natation |
 
 |
 
-BNSSA (*) |
+Certificat de compétences de surveillant sauveteur aquatique (SSA) ou brevet national de sécurité et sauvetage aquatique (*) |
 
 Test de natation |
 
@@ -119,3 +119,7 @@ BNSSA : brevet national de sécurité et de sauvetage aquatique.
 CAEP MNS : certificat d'aptitude à l'exercice de la profession de maître-nageur sauveteur.
 
 (**) Les allègements de formation précisés dans le tableau sont établis lors du positionnement et ne présagent pas des allégements qui pourraient être obtenus au titre du parcours personnel du candidat.
+
+NOTA :
+
+Conformément à l'article 16 de l'arrêté du 29 juillet 2026 (NOR : INTE2619852A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er octobre 2026, y compris en Polynésie française.

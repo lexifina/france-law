@@ -120,7 +120,7 @@ Test de natation (b) uniquement |
 
 |
 
-BNSSA
+Certificat de compétences de surveillant sauveteur aquatique (SSA) ou brevet national de sécurité et sauvetage aquatique
 
 Assorti, le cas échéant, de l'attestation justifiant de la vérification de maintien des acquis |
 
@@ -181,3 +181,7 @@ X |
 (*) BPJEPS : brevet professionnel de la jeunesse, de l'éducation populaire et du sport.
 
 (*) BEES : brevet d'Etat d'éducateur sportif.
+
+NOTA :
+
+Conformément à l'article 16 de l'arrêté du 29 juillet 2026 (NOR : INTE2619852A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er octobre 2026, y compris en Polynésie française.
