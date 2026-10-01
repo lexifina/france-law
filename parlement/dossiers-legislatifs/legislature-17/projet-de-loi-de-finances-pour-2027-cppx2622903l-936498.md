@@ -1,0 +1,69 @@
+# Projet de loi de finances pour 2027 (CPPX2622903L)
+
+- Type : projet loi
+- Législature : XVIIème législature
+- Ouvert le : 2026-10-01
+- Mis à jour le : 2026-11-06
+- Légifrance : https://www.legifrance.gouv.fr/dossierlegislatif/JORFDOLE000054936498
+
+## Documents
+
+- [Projet de loi et exposé des motifs](https://www.legifrance.gouv.fr/contenu/Media/files/autour-de-la-loi/legislatif-et-reglementaire/actualite-legislative/2026/pjl_cppx2622903l_cm_01.10.2026.pdf) : (PDF, 4 Mo).
+- [Dossier de presse](https://www.budget.gouv.fr/documentation/file-download/33484) : (PDF, 2,27 Mo).
+- [Compte rendu du Conseil des ministres du 1er octobre 2026](https://www.vie-publique.fr/discours/304818-lfss-loi-de-finances-pour-2027-conseil-des-ministres-1-octobre-2026)
+- [Texte rejeté en 1ère lecture par l'Assemblée nationale le 4 novembre 2026](https://www.assemblee-nationale.fr/dyn/17/textes/l17t0362_texte-adopte-seance)
+- Dossiers législatifs
+  - Assemblée nationale
+    - [Dossier législatif de l'Assemblée nationale](https://www.assemblee-nationale.fr/dyn/17/dossiers/PLF_2027)
+  - Sénat
+- Documents préparatoires
+  - Avis du Haut Conseil des finances publiques
+    - [Avis n° HCFP-2026-5 du 25 septembre 2026 relatif aux projets de lois de finances et de financement de la sécurité sociale pour l'année 2027](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054939509)
+  - Documents annexés
+    - [Documents généraux, bleus et jaunes budgétaires](https://www.budget.gouv.fr/documentation/documents-budgetaires/exercice-2027/projet-loi-finances-les) : (sur le portail de la direction du budget)
+  - Assemblée nationale (1ère lecture)
+    - [Rapport n° 3291, tome I de M. Philippe JUVIN](https://www.assemblee-nationale.fr/dyn/17/rapports/cion_fin/l17b3291-ti_rapport-fond) : Exposé général
+    - [Rapport n° 3291, tome II de M. Philippe JUVIN](https://www.assemblee-nationale.fr/dyn/17/rapports/cion_fin/l17b3291-tii_rapport-fond) : Examen de la première partie du projet de loi de finances - Conditions générales de l'équilibre financier
+    - [Rapport n° 3291, tome III de M. Philippe JUVIN](https://www.assemblee-nationale.fr/dyn/17/rapports/cion_fin/l17b3291-tiii_rapport-fond) : Examen de la seconde partie du projet de loi de finances - Moyens des politiques publiques et dispositions spéciales
+  - Sénat (1ère lecture)
+- Débats parlementaires
+  - Assemblée nationale (1ère lecture)
+    - Compte rendu des débats en séance publique du 13 octobre 2026
+      - [2ème séance du 13 octobre 2026](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/deuxieme-seance-du-mardi-13-octobre-2026#4184338) : Présentation ; Motion de rejet préalable ; Discussion générale.
+    - Compte rendu des débats en séance publique du 14 octobre 2026
+      - [1ère séance du 14 octobre 2026](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mercredi-14-octobre-2026#4185212) : Discussion générale (suite) ; Avant la première partie : partie liminaire ; Première partie : art. 1er, art. 55 (appelé par priorité).
+      - [2ème séance du 14 octobre 2026](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/deuxieme-seance-du-mercredi-14-octobre-2026#4185979) : Première partie (suite) : art. 55 (appelé par priorité), après l'art. 55, art. 2.
+    - Compte rendu des débats en séance publique du 15 octobre 2026
+      - [1ère séance du 15 octobre 2026](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-jeudi-15-octobre-2026#4186116) : Première partie (suite) : art. 2, art. 3, après l'art. 3.
+      - [2ème séance du 15 octobre 2026](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/deuxieme-seance-du-jeudi-15-octobre-2026#4187183) : Première partie (suite) : après l'art. 3.
+      - [3ème séance du 15 octobre 2026](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/troisieme-seance-du-jeudi-15-octobre-2026#4188824) : Première partie (suite) : après l'art. 3.
+    - Compte rendu des débats en séance publique du 16 octobre 2026
+      - [1ère séance du 16 octobre 2026](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-vendredi-16-octobre-2026#4189719) : Première partie (suite) : après l'art. 3, art. 4, après l'art. 4.
+      - [2ème séance du 16 octobre 2026](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/deuxieme-seance-du-vendredi-16-octobre-2026#4190491) : Première partie (suite) : après l'art. 4.
+      - [3ème séance du 16 octobre 2026](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/troisieme-seance-du-vendredi-16-octobre-2026#4191806) : Première partie (suite) : après l'art. 4, art. 5, après l'art. 5.
+    - Compte rendu des débats en séance publique du 19 octobre 2026
+      - [1ère séance du 19 octobre 2026](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-lundi-19-octobre-2026#4193987) : Première partie (suite) : art. 34 (appelé par priorité), art. 35 (appelé par priorité), après l'art. 35, art. 36 (appelé par priorité).
+      - [2ème séance du 19 octobre 2026](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/deuxieme-seance-du-lundi-19-octobre-2026#4194022) : Première partie (suite) : art. 37 (appelé par priorité), art. 38 (appelé par priorité), art. 39 (appelé par priorité), après l'art. 39, art. 40 (appelé par priorité), art. 41 (appelé par priorité).
+    - Compte rendu des débats en séance publique du 27 octobre 2026
+      - [1ère séance du 27 octobre 2026](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mardi-27-octobre-2026#4203865) : Première partie (suite) : après l'art. 41, art. 6 (appelé par priorité), art. 9 (appelé par priorité), art. 15 (appelé par priorité).
+      - [2ème séance du 27 octobre 2026](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/deuxieme-seance-du-mardi-27-octobre-2026#4204347) : Première partie (suite) : après l'art. 15.
+    - Compte rendu des débats en séance publique du 28 octobre 2026
+      - [1ère séance du 28 octobre 2026](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mercredi-28-octobre-2026#4205426) : Première partie (suite) : après l'art. 15.
+      - [2ème séance du 28 octobre 2026](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/deuxieme-seance-du-mercredi-28-octobre-2026#4207452) : Première partie (suite) : après l'art. 15.
+    - Compte rendu des débats en séance publique du 30 octobre 2026
+      - [1ère séance du 30 octobre 2026](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-vendredi-30-octobre-2026#4210438) : Première partie (suite) : après l'art. 15, art. 17 (appelé par priorité), art. 18 (appelé par priorité), art. 10 (appelé par priorité), après l'art. 5 (suite), après l'art. 7.
+      - [2ème séance du 30 octobre 2026](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/deuxieme-seance-du-vendredi-30-octobre-2026#4211921) : Première partie (suite) : après l'art. 7 (suite), art. 8, après l'art. 10, art. 11, art. 12, après l'art. 12, art. 13, après l'art. 13, art. 14, après l'art. 14, après l'art. 15.
+      - [3ème séance du 30 octobre 2026](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/troisieme-seance-du-vendredi-30-octobre-2026#4212944) : Première partie (suite) : après l'art. 15 (suite).
+    - Compte rendu des débats en séance publique du 2 novembre 2026
+      - [1ère séance du 2 novembre 2026](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-lundi-02-novembre-2026#4214274) : Première partie (suite) : après l'art. 15 (suite), art. 16, après l'art. 16.
+      - [2ème séance du 2 novembre 2026](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/deuxieme-seance-du-lundi-02-novembre-2026#4214965) : Première partie (suite) : après l'art. 16 (suite), art. 19, après l'art. 19, art. 20, après l'art. 20, art. 21, art. 22, après l'art. 22, art. 23, après l'art. 23, art. 24, art. 25, après l'art. 25.
+      - [3ème séance du 2 novembre 2026](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/troisieme-seance-du-lundi-02-novembre-2026#4217004) : Première partie (suite) : après l'art. 25 (suite), art. 26, après l'art. 26.
+    - Compte rendu des débats en séance publique du 3 novembre 2026
+      - [1ère séance du 3 novembre 2026](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mardi-03-novembre-2026#4217972) : Première partie (suite) : après l'art. 26 (suite).
+      - [2ème séance du 3 novembre 2026](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/deuxieme-seance-du-mardi-03-novembre-2026#4218880) : Première partie (suite) : après l'art. 26 (suite), art. 27, après l'art. 27, art. 28, art. 29, art. 30, art. 31, art. 32, après l'art. 32, art. 33, après l'art. 33, art. 42.
+    - Compte rendu des débats en séance publique du 4 novembre 2026
+      - [1ère séance du 4 novembre 2026](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mercredi-04-novembre-2026#4220320) : Première partie (suite) : art. 42 (suite), après l'art. 42, art. 43, art. 44, art. 45, art. 46, art. 47, art. 48, après l'art. 48, art. 49, après l'art. 49, art. 50, art. 51, art. 52, art. 53, art. 54.
+      - [2ème séance du 4 novembre 2026](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/deuxieme-seance-du-mercredi-04-novembre-2026#4221651) : Première partie (suite) : art. 54 et état A ; Seconde délibération : art. liminaire ; Explications de vote ; Vote sur l'ensemble.
+  - Sénat (1ère lecture)
+- Panorama des lois
+  - [Pour comprendre la loi, consulter le résumé explicatif sur le site Vie-Publique.fr : PLF](https://www.vie-publique.fr/loi/304797-budget-2027-projet-de-loi-de-finances-plf)
