@@ -110,7 +110,7 @@ La suite de l'échange, d'une durée de vingt minutes, doit permettre au jury, a
 
 - faire connaître et faire partager ces valeurs et exigences.
 
-Le candidat admissible transmet préalablement une fiche de candidature selon les modalités définies dans l'arrêté d'ouverture, établie sur le modèle figurant à l'annexe IV.
+Le candidat admissible transmet préalablement une fiche de candidature selon les modalités définies dans l'arrêté d'ouverture, établie sur le modèle figurant à l'annexe II.
 
 Durée totale de l'épreuve : une heure et cinq minutes. Coefficient 2.
 
@@ -196,80 +196,6 @@ III. - Epreuve facultative
 
 Epreuve orale facultative de langue vivante étrangère : épreuve facultative prévue au A de la présente annexe.
 
-C. - ÉPREUVES DU CONCOURS EXTERNE SPÉCIAL DE RECRUTEMENT DE PROFESSEURS DES ÉCOLES JUSTIFIANT DE LA DÉTENTION DU DIPLÔME DE DOCTORAT DÉFINI À L'ARTICLE L. 612-7 DU CODE DE L'ÉDUCATION
+NOTA :
 
-I. - Epreuves d'admissibilité
-
-I. - 1. Epreuve écrite disciplinaire de français.
-
-Première épreuve d'admissibilité du concours externe prévue au A de la présente annexe.
-
-I. - 2. Epreuve écrite disciplinaire de mathématiques.
-
-Deuxième épreuve d'admissibilité du concours externe prévue au A de la présente annexe.
-
-I. - 3. Epreuve écrite d'application.
-
-Troisième épreuve d'admissibilité du concours externe prévue au A de la présente annexe.
-
-II. - Epreuves d'admission
-
-II. - 1. Epreuve de leçon.
-
-Première épreuve d'admission du concours externe prévue au A de la présente annexe.
-
-II. - 2 Epreuve d'entretien.
-
-L'épreuve se déroule en trois temps :
-
-1° Un premier entretien (trente minutes) est consacré à l'éducation physique et sportive, intégrant la connaissance scientifique du développement et la psychologie de l'enfant.
-
-Le candidat dispose de trente minutes de préparation.
-
-A partir d'un sujet fourni par le jury, proposant un contexte d'enseignement et un objectif d'acquisition pour la séance, il revient au candidat de choisir le champ d'apprentissage et l'activité physique support avant d'élaborer une proposition de situation(s) d'apprentissage qu'il présente au jury.
-
-Cet exposé ne saurait excéder quinze minutes. Il se poursuit par un entretien avec le jury pour la durée restante impartie à cette première partie. Cet entretien permet d'apprécier d'une part les connaissances scientifiques du candidat en matière de développement et la psychologie de l'enfant, d'autre part sa capacité à intégrer la sécurité des élèves, à justifier ses choix, à inscrire ses propositions dans une programmation annuelle et, plus largement, dans les enjeux de l'EPS à l'école.
-
-Ce premier entretien est noté sur 6 points.
-
-2° Un deuxième entretien (trente-cinq minutes) portant sur la motivation du candidat et son aptitude à se projeter dans le métier de professeur au sein du service public de l'éducation.
-
-Cet entretien comporte un premier temps d'échange d'une durée de quinze minutes débutant par une présentation, d'une durée de cinq minutes maximum, par le candidat des éléments de son parcours et des expériences qui l'ont conduit à se présenter au concours en valorisant ses travaux de recherche, les enseignements suivis, les stages, l'engagement associatif ou les périodes de formation à l'étranger. Cette présentation donne lieu à un échange avec le jury pendant dix minutes.
-
-La suite de l'échange, d'une durée de vingt minutes, doit permettre au jury, au travers de deux mises en situation professionnelle, l'une d'enseignement, la seconde en lien avec la vie scolaire, d'apprécier l'aptitude du candidat à :
-
-- s'approprier les valeurs de la République, dont la laïcité, et les exigences du service public (droits et obligations du fonctionnaire dont la neutralité, lutte contre les discriminations et stéréotypes, promotion de l'égalité, notamment entre les filles et les garçons, etc.) ;
-
-- faire connaître et faire partager ces valeurs et exigences.
-
-Ce deuxième entretien est noté sur 7 points.
-
-3° Un troisième entretien vise à permettre au candidat titulaire d'un doctorat conformément à l'article L. 412-1 du code de la recherche de présenter ses travaux de recherche.
-
-Il doit permettre au jury d'apprécier l'aptitude du candidat :
-
-- à rendre ses travaux accessibles à un public de non spécialiste.
-
-- à dégager ce qui dans les acquis de sa formation à et par la recherche, qu'il s'agisse de savoirs ou de savoir-faire, peut être mobilisé dans le cadre des enseignements qu'il serait appelé à dispenser dans la discipline du concours.
-
-Durée : trente minutes dont quinze minutes d'exposé du candidat et quinze minutes d'échange avec le jury.
-
-Le candidat admissible transmet préalablement une fiche individuelle de renseignement établie sur le modèle figurant à l'annexe IV du présent arrêté, selon les modalités définies dans l'arrêté d'ouverture. Cette fiche comprend une rubrique en vue de la présentation par le candidat des travaux réalisés ou ceux auxquels il a pris part dans le cadre de sa formation à la recherche et par la recherche sanctionnée par la délivrance du doctorat.
-
-Ce troisième entretien est noté sur 7 points.
-
-Préparation de la partie 1° : trente minutes.
-
-Durée de l'épreuve :
-
-- partie 1° : trente minutes.
-
-- partie 2° : trente-cinq minutes.
-
-- partie 3° : trente minutes (exposé : quinze minutes ; entretien : quinze minutes).
-
-Coefficient 3.
-
-III. - Epreuve facultative
-
-Epreuve orale facultative de langue vivante étrangère : épreuve facultative prévue au A de la présente annexe.
+Conformément à l'article 19 de l'arrêté du 20 août 2026 (NOR : MENH2535277A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur à compter du 1er octobre 2026.
