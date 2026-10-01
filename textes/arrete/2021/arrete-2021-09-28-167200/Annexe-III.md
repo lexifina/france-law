@@ -2048,7 +2048,9 @@ Les vérifications sont effectuées au lieu, désigné par le bénéficiaire, de
 
 Aux fins du contrôle, le demandeur de certificats met à disposition de l'organisme d'inspection les documents justificatifs spécifiques relatifs à l'opération. L'absence d'un de ces documents justificatifs conduit à un résultat non satisfaisant du contrôle.
 
-L'existence d'au moins un écart concernant au moins un des véhicules conduit à un résultat non satisfaisant du contrôle.
+L'existence d'au moins un écart concernant au moins un des véhicules conduit à un résultat non satisfaisant du contrôle ;
+
+9. Dans le cas d'une bonification prévue par le 2° du V de l'article 3-7-3 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le véhicule ne vérifie pas, au moment de l'achèvement de l'opération, la condition relative aux sites de fabrication du véhicule mentionnée au 2° du V et complétée par le IX.
 
 AV. II. Sur la base d'un contrôle par examen visuel des véhicules, les critères suivants doivent conduire à un classement "non satisfaisant" de l'opération pour les contrôles sur le lieu des opérations :
 
@@ -2702,4 +2704,4 @@ L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires
 
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 1er septembre 2026 (NOR : ECOR2620296A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, s'appliquent aux opérations engagées à compter du lendemain de la publication dudit arrêté
+Conformément à la première phrase du premier alinéa de l'article 7 de l'arrêté du 18 septembre 2026 (NOR : ECOR2622881A), ces dispositions, dans leur rédaction résultant de l'article 2 de l'arrêté précité, entrent en vigueur à compter du 1er octobre 2026 et s'appliquent aux opérations engagées à compter de cette date.
