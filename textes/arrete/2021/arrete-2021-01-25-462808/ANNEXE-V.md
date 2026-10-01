@@ -1,201 +1,93 @@
 # Article ANNEXE V
 
-ÉPREUVES DU TROISIÈME CONCOURS
+MODÈLE DE FICHE INDIVIDUELLE DE RENSEIGNEMENT
 
-SECTIONS ARTS PLASTIQUES, DOCUMENTATION, ÉDUCATION MUSICALE ET CHANT CHORAL, LETTRES : LETTRES MODERNES, MATHÉMATIQUES, NUMÉRIQUE ET SCIENCES INFORMATIQUES, PHILOSOPHIE, PHYSIQUE CHIMIE, SCIENCES ÉCONOMIQUES ET SOCIALES, SCIENCES DE LA VIE ET DE LA TERRE
+ENTRETIEN AVEC LE JURY
 
-A - Epreuve d'admissibilité
+(CET ENTRETIEN INTERVIENT PENDANT LES ÉPREUVES D'ADMISSION)
 
-Première épreuve d'admissibilité du concours externe (coefficient 4)
+SESSION 20XX
 
-B - Epreuves d'admission
+IDENTIFICATION DU CANDIDAT |
 
-Première épreuve d'admission du concours externe (coefficient 5)
+Nom de famille I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I |
 
-Seconde épreuve d'admission du concours externe (coefficient 3)
+Nom d'usage I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I |
 
-SECTION HISTOIRE ET GÉOGRAPHIE
+Prénom I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I__I |
 
-A - Epreuve d'admissibilité
+Numéro de candidature I__I__I__I__I__I__I__I__I__I__I |
 
-Première épreuve d'admissibilité du concours externe (coefficient 4)
+Concours et Section présentésI__I__I__I__I I__I__I__I__I__I |
 
-B - Epreuves d'admission
+ETUDES ET FORMATION INITIALE |
 
-Première épreuve d'admission du concours externe (coefficient 5). L'épreuve porte sur la discipline (histoire ou géographie) n'ayant pas fait l'objet de l'épreuve d'admissibilité.
+Diplômes/titres/qualifications |
 
-Seconde épreuve d'admission du concours externe (coefficient 3)
+Date d'obtention |
 
-SECTION LETTRES : LETTRES CLASSIQUES
+|
 
-A - Epreuves d'admissibilité
+|
 
-Première épreuve d'admissibilité du concours externe (coefficient 2)
+|
 
-Deuxième épreuve d'admissibilité du concours externe (coefficient 2)
+|
 
-B - Epreuves d'admission
+|
 
-Première épreuve d'admission du concours externe (coefficient 5)
+|
 
-Seconde épreuve d'admission du concours externe (coefficient 3)
+FORMATIONS - STAGES - EXPERIENCES PROFESSIONNELLES |
 
-SECTION LANGUE CORSE
+Intitulé - organisme - activité |
 
-A - Epreuve d'admissibilité
+Durée |
 
-L'épreuve, hors programme, vise à évaluer la maitrise des savoirs et compétences nécessaires à la mise en œuvre des programmes d'enseignement du collège et du lycée. Elle se compose de deux parties :
+|
 
-a) Une composition en langue corse à partir d'une citation ou d'un ou deux documents (textes de natures diverses, document iconographique, etc.) que le candidat traite selon les consignes indiquées dans le sujet.
+|
 
-b) Au choix du jury, un thème et/ou une version. Cet exercice peut être réalisé à partir d'un des textes proposés dans la première partie.
+|
 
-Durée : six heures.
+|
 
-Coefficient 4.
+|
 
-B - Epreuves d'admission
+|
 
-Première épreuve d'admission du concours externe (coefficient 5)
+CADRE RESERVÉ AUX TITULAIRES D'UN DOCTORAT CANDIDATS AU CONCOURS EXTERNE SPÉCIAL |
 
-Seconde épreuve d'admission du concours externe (coefficient 3)
+Intitulé du doctorat |
 
-SECTION LANGUES VIVANTES ÉTRANGÈRES : ALLEMAND, ANGLAIS, ARABE, CHINOIS, ESPAGNOL, HÉBREU, ITALIEN, JAPONAIS, NÉERLANDAIS, PORTUGAIS, RUSSE
+Date d'obtention |
 
-Au titre d'une session, le concours peut être ouvert pour une ou plusieurs de ces langues. Les candidats font l'objet d'un classement distinct selon la langue au titre de laquelle ils concourent, qu'ils choisissent au moment de l'inscription.
+Section du conseil national des universités |
 
-A - Epreuve d'admissibilité
+|
 
-L'épreuve, hors programme, vise à évaluer la maitrise des savoirs et compétences nécessaires à la mise en œuvre des programmes d'enseignement du collège et du lycée. Elle se compose de deux parties :
+|
 
-a) Une composition en langue étrangère à partir d'une citation ou d'un ou deux documents (textes de natures diverses, document iconographique, etc.) que le candidat traite selon les consignes indiquées dans le sujet.
+|
 
-b) Au choix du jury, un thème et/ou une version. Cet exercice peut être réalisé à partir d'un des textes proposés dans la première partie.
+|
 
-Durée : six heures.
+Notice explicative
 
-Coefficient 4.
+L'épreuve d'entretien débute par une présentation de votre parcours. Le jury dispose de cette fiche de renseignement qui n'est pas notée.
 
-L'épreuve est notée sur 20. Une note globale égale ou inférieure à 5 est éliminatoire.
+IDENTIFICATION DU CANDIDAT
 
-B - Epreuves d'admission
+Les éléments permettant de renseigner cette rubrique seront transmis aux candidats lors de leur inscription.
 
-Première épreuve d'admission du concours externe (coefficient 5)
+ETUDES ET FORMATION INITIALE
 
-Seconde épreuve d'admission du concours externe (coefficient 3)
+Indiquer les diplômes, titres ou qualifications dont vous êtes titulaires.
 
-SECTION LANGUE DES SIGNES FRANÇAISE
+FORMATIONS - STAGES - EXPERIENCES PROFESSIONNELLES
 
-A - Epreuve d'admissibilité
+Indiquer les stages effectués dans le cadre d'un cursus d'études et/ou les formations suivies dans un cadre professionnel/personnel et/ou votre expérience professionnelle (emploi salarié, emploi étudiant, bénévolat, service civique, emploi saisonnier …)
 
-L'épreuve, hors programme, vise à évaluer la maitrise des savoirs et compétences nécessaires à la mise en œuvre des programmes d'enseignement du collège et du lycée. Elle se compose de deux parties :
+CADRE RERSERVÉ AUX TITULAIRES D'UN DOCTORAT CANDIDATS AU CONCOURS EXTERNE SPÉCIAL
 
-L'épreuve se compose de deux parties :
-
-a) Une composition en langue des signes française (LSF) à partir d'un document vidéo en langue des signes française que le candidat commente selon les consignes indiquées par le sujet. Ce document peut être accompagné d'un document iconographique ou écrit.
-
-b) Une épreuve de traduction de la LSF au français écrit et/ou du français écrit à la LSF. Cet exercice peut être réalisé à partir d'un ou des documents proposés dans la première partie.
-
-Durée : six heures.
-
-Coefficient 4.
-
-L'épreuve est notée sur 20. Une note globale égale ou inférieure à 5 est éliminatoire.
-
-B - Epreuves d'admission
-
-Première épreuve d'admission du concours externe (coefficient 5)
-
-Seconde épreuve d'admission du concours externe (coefficient 3)
-
-Pour cette seconde épreuve, lorsque la composition du jury le nécessite, la durée de l'entretien peut être augmentée de dix minutes pour tenir compte des besoins d'interprétation français/LSF et LSF/français entre le candidat et le jury.
-
-SECTION LANGUES RÉGIONALES : BASQUE, BRETON, CATALAN, CRÉOLE, OCCITAN-LANGUE D'OC
-
-Au titre d'une session, le concours peut être ouvert pour une ou plusieurs de ces langues. Les candidats font l'objet d'un classement distinct selon la langue au titre de laquelle ils concourent, qu'ils choisissent au moment de l'inscription.
-
-A - Epreuves d'admissibilité
-
-1° Epreuve disciplinaire :
-
-L'épreuve, hors programme, vise à évaluer la maitrise des savoirs et compétences nécessaires à la mise en œuvre des programmes d'enseignement du collège et du lycée. Elle se compose de deux parties :
-
-a) Une composition en langue régionale à partir d'une citation ou d'un ou deux documents (textes de natures diverses, document iconographique, etc.) que le candidat traite selon les consignes indiquées dans le sujet.
-
-b) Au choix du jury, un thème et/ou une version. Cet exercice peut être réalisé à partir d'un des textes proposés dans la première partie.
-
-Durée : six heures.
-
-Coefficient 2.
-
-L'épreuve est notée sur 20. Une note globale égale ou inférieure à 5 est éliminatoire.
-
-2° Epreuve disciplinaire portant sur une discipline optionnelle.
-
-Deuxième épreuve d'admissibilité du concours externe (coefficient 2)
-
-B - Epreuves d'admission
-
-Première épreuve d'admission du concours externe (coefficient 5)
-
-Seconde épreuve d'admission du concours externe (coefficient 3)
-
-SECTION LANGUES KANAK : AJIË, DREHU, NENGONE, PAICÎ
-
-Au titre d'une session, le concours peut être ouvert pour une ou plusieurs de ces langues. Les candidats font l'objet d'un classement distinct selon la langue au titre de laquelle ils concourent, qu'ils choisissent au moment de l'inscription.
-
-Les épreuves en langue kanak se déroulent dans la langue au titre de laquelle les candidats concourent ; toutefois, les éléments culturels concernent la culture kanak dans son ensemble.
-
-A - Epreuves d'admissibilité
-
-1° Epreuve disciplinaire :
-
-L'épreuve, hors programme, vise à évaluer la maitrise des savoirs et compétences nécessaires à la mise en œuvre des programmes d'enseignement du collège et du lycée. Elle se compose de deux parties :
-
-a) Une composition en langue kanak à partir d'une citation ou d'un ou deux documents (textes de natures diverses, document iconographique, etc.) que le candidat traite selon les consignes indiquées dans le sujet.
-
-b) Au choix du jury, un thème et/ou une version. Cet exercice peut être réalisé à partir d'un des textes proposés dans la première partie.
-
-Durée : six heures.
-
-Coefficient 2.
-
-L'épreuve est notée sur 20. Une note globale égale ou inférieure à 5 est éliminatoire.
-
-2° Epreuve disciplinaire portant sur une discipline optionnelle.
-
-Deuxième épreuve d'admissibilité du concours externe (coefficient 2)
-
-B - Epreuves d'admission
-
-Première épreuve d'admission du concours externe (coefficient 5)
-
-Seconde épreuve d'admission du concours externe (coefficient 3)
-
-SECTION TAHITIEN
-
-A - Epreuves d'admissibilité
-
-1° Epreuve disciplinaire :
-
-L'épreuve, hors programme, vise à évaluer la maitrise des savoirs et compétences nécessaires à la mise en œuvre des programmes d'enseignement du collège et du lycée. Elle se compose de deux parties :
-
-a) Une composition en langue tahitienne à partir d'une citation ou d'un ou deux documents (textes de natures diverses, document iconographique, etc.) que le candidat traite selon les consignes indiquées dans le sujet.
-
-b) Au choix du jury, un thème et/ou une version. Cet exercice peut être réalisé à partir d'un des textes proposés dans la première partie.
-
-Durée : six heures.
-
-Coefficient 2.
-
-L'épreuve est notée sur 20. Une note globale égale ou inférieure à 5 est éliminatoire.
-
-2° Epreuve écrite disciplinaire de français.
-
-Deuxième épreuve d'admissibilité du concours externe (coefficient 2)
-
-B - Epreuves d'admission
-
-Première épreuve d'admission du concours externe (coefficient 5)
-
-Seconde épreuve d'admission du concours externe (coefficient 3)
+Le candidat titulaire d'un doctorat présente dans cette rubrique les travaux réalisés ou ceux auxquels il a pris part dans le cadre de sa formation à la recherche et par la recherche sanctionnée par la délivrance du doctorat (Arial 10, maximum 400 mots).
