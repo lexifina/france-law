@@ -1,0 +1,9 @@
+# Article 1er
+
+L'article 5.3 « Dispositif du versement santé » est abrogé et remplacé par les dispositions suivantes :
+
+« Pour les salariés bénéficiaires d'un contrat de travail à durée déterminée ou d'un contrat de mission d'une durée inférieure ou égale à 3 mois, l'obligation patronale de couverture en matière de remboursement de frais de santé peut être assurée par le dispositif versement santé tel que défini dans l'article 4.8 de l'accord national du 10 juin 2008 et selon ses modalités.
+
+La condition d'ancienneté est réputée acquise au 1er jour du mois civil suivant celui au cours duquel le salarié est embauché.
+
+Le versement santé est étendu obligatoirement aux ayants droit du salarié, la cotisation est “uniforme” ; il s'agit d'une cotisation unique obligatoire couvrant le participant et l'ensemble de ses ayants droit, quelle que soit la situation familiale du salarié. »
