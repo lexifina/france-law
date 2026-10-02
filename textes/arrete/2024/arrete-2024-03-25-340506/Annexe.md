@@ -90,7 +90,7 @@ Direction régionale Nancy |
 
 DI Grand Est |
 
-SND2R |
+Centre de services mobilité et délivrance des renseignements tarifaires contraignants |
 
 Direction régionale Reims |
 
@@ -187,7 +187,3 @@ Trésorerie générale des douanes |
 (*) Le service à compétence nationale Trésorerie générale des douanes comprend un centre de gestion financière (CGF), placé sous l'autorité du trésorier général des douanes, qui comporte deux pôles, implantés, respectivement, à Paris et Villeurbanne. Les autres entités du service sont toutes implantées à Paris.
 
 (**) Comptable centralisateur : Trésorerie générale des douanes. |
-
-NOTA :
-
-Conformément à l'article 1er du décret n° 2026-906 du 30 septembre 2026, ces dispositions, dans leur rédaction issue de l'article 2 de l'arrêté du 30 septembre 2026 modifiant l'arrêté du 25 mars 2024 relatif au réseau comptable de la direction générale des douanes et droits indirects (NOR : CPPD2612698A), entrent en vigueur immédiatement à compter de leur publication au Journal officiel de la République française, soit le 1er octobre 2026.
