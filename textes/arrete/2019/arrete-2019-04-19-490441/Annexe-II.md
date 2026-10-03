@@ -860,27 +860,43 @@ Arrêté du 20 mars 2007 |
 
 14 |
 
-METIERS DE LA GRAVURE-option a-gravure d'ornementation |
+METIERS DE LA GRAVURE-option a-gravure d'ornementation dernière session 2028 |
 
 Arrêté du 9 mars 1993 |
 
 12 |
 
-METIERS DE LA GRAVURE-option b-gravure d'impression |
+METIERS DE LA GRAVURE-option b-gravure d'impression dernière session 2028 |
 
 Arrêté du 9 mars 1993 |
 
 12 |
 
-METIERS DE LA GRAVURE-option c-gravure en modèle |
+METIERS DE LA GRAVURE-option c-gravure en modèle dernière session 2028 |
 
 Arrêté du 9 1993 |
 
 12 |
 
-METIERS DE LA GRAVURE-option d-marquage poinçonnage |
+METIERS DE LA GRAVURE-option d-marquage poinçonnage, dernière session 2028 |
 
 Arrêté du 9 mars 1993 |
+
+12 |
+
+GRAVURE option A "Ornementation et impression", (première session 2029)
+
+|
+
+Arrêté du 27/08/26 |
+
+12 |
+
+GRAVURE option B "Modelé et poinçon", (première session 2029)
+
+|
+
+Arrêté du 27/08/26 |
 
 12 |
 
