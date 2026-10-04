@@ -1,52 +1,36 @@
 # Article ANNEXE III-E
 
-CANDIDATS TITULAIRES D'UN CERTIFICAT DE QUALIFICATION PROFESSIONNELLE DÉLIVRÉ PAR LA COMMISSION PARITAIRE NATIONALE DE L'EMPLOI-ENTREPRISES EQUESTRES (CPNE-EE)
+Les personnes titulaires des qualifications mentionnées obtiennent les dispenses ou équivalences suivantes :
 
-Vous avez obtenu |
+Equivalences dans le DEJEPS (*) "sports équestres"
 
-Equivalences dans le DEJEPS " sports équestres " |
+Vous avez obtenu : |
 
-EPEF
+TEP (*) Tests techniques |
 
-(1)
+TEP
 
-Test
+Test pédagogique |
 
-technique |
+EPMSP (*) |
 
-EPEF
+UC1 (*) |
 
-(1)
+UC2 |
 
-Test
+UC3 |
 
-pédagogique |
+UC4 |
 
-EPMSP
+Dispense "CS enseignement" (1) |
 
-(2) |
-
-UC 1 |
-
-UC 2 |
-
-UC 3 |
-
-UC 4 |
+Dispense "CS optimisation" (2) |
 
 Dispense
 
-" CS initiation
+"démonstration technique" |
 
-(3) |
-
-Dispense
-
-" CS optimisation "
-
-(4) |
-
-(*) CQP ASA |
+CQP ASA (*) obtenu au cours des cinq dernières années ou justifier de 300 heures d'encadrement sportif sur les 5 dernières années dans le champ des sports équestres |
 
 |
 
@@ -64,7 +48,7 @@ X |
 
 |
 
-(*) CQP ORE |
+CQP ORE (*) obtenu au cours des cinq dernières années ou justifier de 300 heures d'encadrement sportif sur les 5 dernières années dans le champ des sports équestres |
 
 |
 
@@ -82,7 +66,7 @@ X |
 
 |
 
-(*) CQP EAE |
+CQP EAE (*) obtenu au cours des cinq dernières années ou justifier de 300 heures d'encadrement sportif sur les 5 dernières années dans le champ des sports équestres |
 
 |
 
@@ -100,16 +84,22 @@ X |
 
 |
 
-(*) CQP EAE : certificat de qualification professionnelle " enseignant animateur d'équitation ".
+(*)
 
-(*) CQP ASA : certificat de qualification professionnelle " animateur-soigneur assistant ".
+CQP EAE : Certificat de qualification professionnelle "Enseignant activités équestres".
 
-(*) CQP ORE : certificat de qualification professionnelle " organisateur de randonnées équestres ".
+CQP ASA : Certificat de qualification professionnelle "Animateur-soigneur assistant".
 
-(1) Exigences préalables à l'entrée en formation.
+CQP ORE : Certificat de qualification professionnelle "Organisateur de randonnées équestres".
 
-(2) Exigences préalables à la mise en situation pédagogique.
+DEJEPS : Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport.
 
-(3) Conduite d'une séance d'initiation.
+EPMSP : Exigence préalable à la mise en situation professionnelle.
 
-(4) Conduite d'une séance d'optimisation.
+TEP : Test d'exigences préalables.
+
+UC : Unité capitalisable.
+
+(1) : Conduite d'une séance d'initiation.
+
+(2) : Conduite d'une séance d'optimisation.

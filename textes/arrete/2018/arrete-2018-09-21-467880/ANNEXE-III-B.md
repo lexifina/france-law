@@ -1,58 +1,40 @@
 # Article ANNEXE III-B
 
-CANDIDATS TITULAIRES D'UN DIPLÔME D'ÉTAT OU D'UN TITRE À FINALITÉ PROFESSIONNELLE DE NIVEAU IV PERMETTANT L'ENSEIGNEMENT DES ACTIVITÉS ÉQUESTRES CONTRE RÉMUNÉRATION EN AUTONOMIE AU SENS DE L'ARTICLE L. 212-1 DU CODE DU SPORT, OU D'UN CERTIFICAT DE QUALIFICATION PROFESSIONNELLE EAE, ET QUI JUSTIFIENT DE RÉSULTATS SPORTIFS ATTESTÉS PAR LE DIRECTEUR TECHNIQUE NATIONAL DE L'ÉQUITATION SUR LA BASE DES NORMES TECHNIQUES DES RÈGLEMENTS FFE AU 01/09/2018
+Les personnes titulaires d'un diplôme d'Etat ou d'un titre à finalité professionnelle (TFP) de niveau 4 permettant l'enseignement des activités équestres contre rémunération en autonomie au sens de l'article L. 212-1 du code du sport ou d'un certificat de qualification professionnelle (CQP) EAE (*) délivré par la Commission paritaire nationale de l'emploi-Entreprises Equestres (CPNE-EE), obtenu au cours des cinq dernières années ou qui justifient de 300 heures d'encadrement sportif sur les 5 dernières années dans le champ des sports équestres, et qui justifient de résultats sportifs attestés par le directeur technique national de la Fédération française d'équitation ou son représentant, obtiennent les dispenses ou équivalences suivantes :
 
-Vous avez obtenu les résultats sportifs ci-dessous
+Equivalences dans le DEJEPS (*) "sports équestres" |
 
-(sur attestation
+TEP (*)
 
-du directeur technique national
+Tests
 
-de l'équitation) |
+techniques |
 
-Equivalences dans le DEJEPS sports équestres |
-
-EPEF
-
-(1)
-
-Test
-
-technique |
-
-EPEF
-
-(1)
+TEP
 
 Test
 
 pédagogique |
 
-EPMSP
+EPMSP (*) |
 
-(2) |
+UC1 (*) |
 
-UC 1 |
+UC2 |
 
-UC 2 |
+UC3 |
 
-UC 3 |
+UC4 |
 
-UC 4 |
+Vous avez obtenu : |
 
-Dispense
+Dispense "CS d'enseignement" (1) |
 
-CS initiation
+Dispense "CS
 
-(3) |
+optimisation" (2) |
 
-Dispense
-
-CS optimisation
-
-(4) |
-
-Sportif de haut niveau inscrit ou ayant été inscrit sur liste HN en équitation |
+Sportif de haut niveau inscrit ou ayant été inscrit sur la liste ministérielle mentionnée à l'article L. 221-2 du code du sport en équitation |
 
 X |
 
@@ -70,7 +52,7 @@ X |
 
 X |
 
-Dressage 3 classements dans le 1er tiers en compétitions de niveau Amateur 3 Préliminaire minimum ou équivalent en dressage |
+Dressage 3 classements (*) dans le 1er tiers en compétitions de niveau "Amateur 3 Préliminaire" minimum ou équivalent en dressage |
 
 X |
 
@@ -88,7 +70,7 @@ X |
 
 |
 
-Dressage 3 classements dans le 1er tiers en compétitions de niveau Amateur 2 Grand Prix minimum ou équivalent en dressage |
+Dressage 3 classements dans le 1er tiers en compétitions de niveau "Amateur 2 Grand Prix" minimum ou équivalent en dressage |
 
 X |
 
@@ -106,7 +88,7 @@ X |
 
 X |
 
-CSO 5 classements dans le premier quart en compétition de niveau Amateur 2 Grand Prix minimum ou équivalent hors épreuve type spéciale en concours de saut d'obstacles |
+CSO (*) 5 classements dans le premier quart en compétition de niveau "Amateur 2 Grand Prix" minimum ou équivalent hors épreuve type spéciale en concours de saut d'obstacles |
 
 X |
 
@@ -124,7 +106,7 @@ X |
 
 |
 
-CSO 5 classements dans le premier quart en Amateur 1 Grand Prix ou en Pro 3 minimum ou équivalent hors épreuve type spéciale en concours de saut d'obstacles |
+CSO 5 classements dans le premier quart en "Amateur 1 Grand Prix" ou en "Pro 3" minimum ou équivalent hors épreuve type spéciale en concours de saut d'obstacles |
 
 X |
 
@@ -142,7 +124,7 @@ X |
 
 X |
 
-CCE 3 classements dans le 1er tiers en épreuves de CCE AM2 minimum ou équivalentes |
+CCE (*) 3 classements dans le 1er tiers en épreuves de CCE Amateur 2 minimum ou équivalentes |
 
 X |
 
@@ -160,7 +142,7 @@ X |
 
 |
 
-CCE 3 classements dans le 1er tiers en épreuves de CCE AM1 minimum ou équivalentes |
+CCE 3 classements dans le 1er tiers en épreuves de CCE Amateur 1 minimum ou équivalentes |
 
 X |
 
@@ -178,7 +160,7 @@ X |
 
 X |
 
-Attelage : 3 classements dans la première moitié en épreuves d'attelage AM2 Grand Prix minimum ou équivalentes |
+Attelage : 3 classements dans la première moitié en épreuves d'attelage Amateur 2 Grand Prix minimum ou équivalentes |
 
 X |
 
@@ -196,7 +178,7 @@ X |
 
 |
 
-Attelage : 3 classements dans la première moitié en épreuves d'attelage AM 1 Grand Prix minimum ou équivalentes |
+Attelage : 3 classements dans la première moitié en épreuves d'attelage Amateur 1 Grand Prix minimum ou équivalentes |
 
 X |
 
@@ -214,7 +196,7 @@ X |
 
 X |
 
-Endurance : 3 classements dans le 1er tiers des partants en épreuves d'endurance AM 1 minimum ou équivalentes |
+Endurance : 3 classements dans le 1er tiers des partants en épreuves d'endurance Amateur 1 minimum ou équivalentes |
 
 X |
 
@@ -232,7 +214,7 @@ X |
 
 |
 
-Endurance : 3 classements dans le 1er tiers des partants en épreuves d'endurance AM Elite minimum ou équivalentes |
+Endurance : 3 classements dans le 1er tiers des partants en épreuves d'endurance Amateur Elite minimum ou équivalentes |
 
 X |
 
@@ -286,9 +268,33 @@ X |
 
 X |
 
-TREC : Résultats en épreuves de TREC AM 1 minimum ou équivalentes permettant d'attester :
+TREC (*) : Résultats en épreuves de TREC Amateur 1 minimum ou équivalentes permettant d'attester :
 
-- POR : 2 résultats dans la 1ère moitié du classement,
+- POR (*) : 2 résultats dans la 1re moitié du classement
+
+- Maîtrise des allures : 2 résultats minimum de 40/60
+
+- PTV (*) : 2 résultats minimum de 120/160 |
+
+X |
+
+X |
+
+X |
+
+|
+
+|
+
+X |
+
+|
+
+|
+
+TREC : Résultats en épreuves de TREC Amateur Elite minimum ou équivalentes permettant d'attester :
+
+- POR : 2 résultats dans la 1re moitié du classement
 
 - Maîtrise des allures : 2 résultats minimum de 40/60
 
@@ -308,81 +314,7 @@ X |
 
 |
 
-|
-
-TREC : Résultats en épreuves de TREC AM Elite minimum ou équivalentes permettant d'attester :
-
-- POR : 2 résultats dans la 1re moitié du classement,
-
-- Maîtrise des allures : 2 résultats minimum de 40/60
-
-PTV : 2 résultats minimum de 120/160 |
-
 X |
-
-X |
-
-X |
-
-|
-
-|
-
-X |
-
-|
-
-X |
-
-Vous avez obtenu les résultats sportifs ci-dessous
-
-(sur attestation
-
-du directeur technique national
-
-de l'équitation) |
-
-Equivalences dans le DEJEPS sports équestres |
-
-EPEF
-
-(1)
-
-Test
-
-technique |
-
-EPEF
-
-(1)
-
-Test
-
-pédagogique |
-
-EPMSP
-
-(2) |
-
-UC 1 |
-
-UC 2 |
-
-UC 3 |
-
-UC 4 |
-
-Dispense
-
-CS initiation
-
-(3) |
-
-Dispense
-
-CS optimisation
-
-(4) |
 
 Hunter 5 classements dans le premier tiers en compétition en Hunter Equitation, niveau Amateur 1 type Grand prix ou Maniabilité |
 
@@ -420,7 +352,7 @@ X |
 
 X |
 
-Western : 5 participations en épreuves Western AM 2 minimum ou équivalentes dont au moins 1 en Trail et 1 en Reining avec un score minimum de 68 |
+Western : 5 participations en épreuves Western Amateur 2 minimum ou équivalentes dont au moins 1 en Trail et 1 en Reining avec un score minimum de 68 |
 
 X |
 
@@ -438,7 +370,7 @@ X |
 
 |
 
-Western : 5 participations en épreuves Western AM 1 minimum ou équivalentes dont au moins 1 en Trail et 1 en Reining avec un score minimum de 68 |
+Western : 5 participations en épreuves Western Amateur 1 minimum ou équivalentes dont au moins 1 en Trail et 1 en Reining avec un score minimum de 68 |
 
 X |
 
@@ -456,7 +388,7 @@ X |
 
 X |
 
-Voltige : 2 classement en tant que longueur dans la première moitié des partants au championnat de France de voltige AM 2 individuel minimum ou équivalentes |
+Voltige : 2 classements en tant que longueur dans la première moitié des partants au championnat de France de voltige Amateur 2 individuel minimum ou équivalentes |
 
 X |
 
@@ -474,7 +406,7 @@ X |
 
 |
 
-Voltige : 2 classement en tant que longueur dans la première moitié des partants au championnat de France de voltige AM 1 individuel minimum ou équivalentes |
+Voltige : 2 classements en tant que longueur dans la première moitié des partants au championnat de France de voltige Amateur 1 individuel minimum ou équivalentes |
 
 X |
 
@@ -492,13 +424,13 @@ X |
 
 X |
 
-Equitation de travail : Résultats en épreuves d'Equitation de travail en AM 2 minimum ou équivalentes permettant d'attester :
+Equitation de travail : Résultats en épreuves d'Equitation de travail en Amateur 2 minimum ou équivalentes permettant d'attester :
 
-- Reprise : 1 résultat à 65 % minimum du total des points,
+- Reprise : 1 résultat à 65 % minimum du total des points
 
 - Maniabilité technique : 1 résultat dans la première moitié du classement
 
-- Tri de bétail : 1 résultat dans la première moitié du classement. |
+- Tri de bétail : 1 résultat dans la première moitié du classement |
 
 X |
 
@@ -516,13 +448,13 @@ X |
 
 |
 
-Equitation de travail : Résultats en épreuves d'Equitation de travail en AM 1 minimum ou équivalentes permettant d'attester :
+Equitation de travail : Résultats en épreuves d'Equitation de travail en Amateur 1 minimum ou équivalentes permettant d'attester :
 
-- Reprise : 1 résultat à 65 % minimum du total des points,
+- Reprise : 1 résultat à 65 % minimum du total des points
 
 - Maniabilité technique : 1 résultat dans la première moitié du classement
 
-- Tri de bétail : 1 résultat dans la première moitié du classement. |
+- Tri de bétail : 1 résultat dans la première moitié du classement |
 
 X |
 
@@ -558,7 +490,7 @@ X |
 
 |
 
-Tir à l'Arc à cheval : 6 classements en épreuve internationale. |
+Tir à l'Arc à cheval : 6 classements en épreuve internationale |
 
 X |
 
@@ -576,7 +508,7 @@ X |
 
 X |
 
-Pony Games : 5 classements dans le 1er quart en épreuves PMG Open ou équivalentes |
+Pony Games : 5 classements dans le 1er quart en épreuves PMG (*) Open ou équivalentes |
 
 X |
 
@@ -612,10 +544,32 @@ X |
 
 X |
 
-(1) Exigences préalables à l'entrée en formation.
+(*)
 
-(2) Exigences préalables à la mise en situation professionnelle.
+CCE : Concours complet d'équitation.
 
-(3) Conduite d'une séance d'initiation.
+Classements : Classements obtenus uniquement en épreuves individuelles et attestés par le directeur technique national de la Fédération française d'équitation.
 
-(4) Conduite d'une séance d'optimisation.
+CQP EAE : Certificat de qualification professionnelle "Enseignant activités équestres".
+
+CSO : Concours de saut d'obstacles.
+
+DEJEPS : Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport.
+
+EPMSP : Exigence préalable à la mise en situation professionnelle.
+
+PMG : Pony Mounted Games.
+
+POR : Parcours d'orientation et de régularité.
+
+PTV : Parcours en terrain varié.
+
+TEP : Test d'exigences préalables.
+
+TREC : Techniques de randonnée équestre de compétition.
+
+UC : Unité capitalisable.
+
+(1) : Conduite d'une séance d'enseignement.
+
+(2) : Conduite d'une séance d'optimisation.

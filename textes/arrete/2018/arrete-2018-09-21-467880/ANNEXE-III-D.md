@@ -1,54 +1,38 @@
 # Article ANNEXE III-D
 
-ANNEXE III-D
+Les personnes titulaires des qualifications mentionnées obtiennent les dispenses ou équivalences suivantes :
 
-CANDIDATS TITULAIRES D'UNE CERTIFICATION DÉLIVRÉE PAR LA FÉDÉRATION FRANÇAISE D'ÉQUITATION
+Equivalences dans le DEJEPS (*) "sports équestres"
 
-Vous avez obtenu |
+Vous avez obtenu : |
 
-Equivalences dans le DEJEPS sports équestres |
-
-EPEF
-
-(1)
+TEP (*)
 
 Test
 
 technique |
 
-EPEF
-
-(1)
-
-Test
+TEP Test
 
 pédagogique |
 
-EPMSP
+EPMSP (*) |
 
-(2) |
+UC1(*) |
 
-UC 1 |
+UC2 |
 
-UC 2 |
+UC3 |
 
-UC 3 |
+UC4 |
 
-UC 4 |
+Dispense "CS enseignement" (1) |
 
-Dispense
+Dispense "CS optimisation" (2) |
 
-CS initiation
+Dispense "démonstration technique" |
 
-(3) |
-
-Dispense
-
-CS optimisation
-
-(4) |
-
-TFP AAE |
+TFP Animateur Assistant d'Equitation obtenu au cours des cinq dernières années ou justifier de 300 heures d'encadrement sportif sur les 5 dernières années dans le champ des sports équestres |
 
 |
 
@@ -66,7 +50,7 @@ X |
 
 |
 
-TFP AE (animateur d'équitation) |
+TFP Animateur d'Équitation obtenu au cours des cinq dernières années ou justifier de 300 heures d'encadrement sportif sur les 5 dernières années dans le champ des sports équestres |
 
 |
 
@@ -122,7 +106,7 @@ X |
 
 Brevet fédéral d'entraîneur niveau 2 dans l'une des disciplines suivantes :
 
-dressage, CSO (*), CCE (*), para dressage, attelage, reining, voltige, endurance, équitation de travail, TREC (*), TAC (*), horse ball, pony games |
+Dressage, CSO (*), CCE (*), Para dressage, Attelage, Reining, Voltige, Endurance, Équitation de travail, TREC (*), TAC (*), Horse-Ball, Pony-Games et justifier de 300 heures d'encadrement sportif sur les 5 dernières années dans le champ des sports équestres |
 
 |
 
@@ -140,7 +124,7 @@ X |
 
 |
 
-Brevet fédéral d'encadrement initiation Poney Cheval |
+Moniteur d'équitation options attelage et équitation western RNCP36359 obtenu au cours des cinq dernières années ou justifier de 300 heures d'encadrement sportif sur les 5 dernières années dans le champ des sports équestres |
 
 |
 
@@ -158,36 +142,24 @@ X |
 
 |
 
-Brevet fédéral de moniteur initiateur toutes mentions |
+(*)
 
-|
+CCE : Concours complet d'équitation.
 
-X |
+CSO : Concours de saut d'obstacles.
 
-X |
+DEJEPS : Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport.
 
-|
+EPMSP : Exigence préalable à la mise en situation professionnelle.
 
-|
+TAC : Tir à l'arc avec le cheval.
 
-X |
+TEP : Test d'exigences préalables.
 
-|
+TREC : Techniques de randonnée équestre de compétition.
 
-|
+UC : Unité capitalisable.
 
-(*) CSO : concours de saut d'obstacles.
+(1) : Conduite d'une séance d'enseignement.
 
-(*) CCE : concours complet d'équitation.
-
-(*) TREC : techniques de randonnée équestre de compétition.
-
-(*) TAC : tir à l'arc avec le cheval cheval.
-
-(1) Exigences préalables à l'entrée en formation.
-
-(2) Exigences préalables à la mise en situation professionnelle.
-
-(3) Conduite d'une séance d'initiation.
-
-(4) Conduite d'une séance d'optimisation.
+(2) : Conduite d'une séance d'optimisation.
