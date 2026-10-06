@@ -1,0 +1,9 @@
+# Réponse à la question n° 17128
+
+- Question : [17128](17128.md) — Question n° 17128 — Rupture conventionnelle dans la fonction publique
+
+## Réponse
+
+*JO du 2026-10-06, page 9378*
+
+À l'issue d'une expérimentation conduite du 1er janvier 2020 au 31 décembre 2025 en application de l'article 72 de la loi n° 2019-828 du 6 août 2019 de transformation de la fonction publique et sur la base d'une évaluation remise en mars 2025 au Parlement faisant état d'un bilan positif, le dispositif de rupture conventionnelle pour les fonctionnaires des trois versants de la fonction publique a été pérennisé par l'article 173 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026. Entré en vigueur le 21 février 2026 à la suite de la promulgation de la loi de finances pour 2026, le dispositif de rupture conventionnelle pour les fonctionnaires est désormais inscrit aux articles L. 552-1 à L. 552-4 du code général de la fonction publique (CGFP). Les modalités d'application de ce dispositif ont été mises à jour avec l'entrée en vigueur le 8 août 2026 du décret n° 2026-745 du 6 août 2026 relatif à la procédure de rupture conventionnelle dans la fonction publique, du décret n° 2026-746 du 6 août 2026 modifiant le décret n° 2019-1596 du 31 décembre 2019 relatif à l'indemnité spécifique de rupture conventionnelle dans la fonction publique et de l'arrêté du 6 août 2026 fixant les modèles de convention de rupture conventionnelle. Par ailleurs, une circulaire du 7 août 2026 relative au dispositif de rupture conventionnelle dans la fonction publique a été diffusée aux employeurs publics. Les services de ressources humaines disposent ainsi désormais de l'ensemble des éléments pour instruire les demandes de rupture conventionnelle, permettant aux agents qui souhaitent s'engager dans cette démarche d'avoir une meilleure visibilité sur les conditions de sa mise en œuvre.
