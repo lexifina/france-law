@@ -1,0 +1,9 @@
+# Réponse à la question n° 10985
+
+- Question : [10985](10985.md) — Question n° 10985 — Installation des bornes d'apport volontaire sur parkings de grandes surfaces
+
+## Réponse
+
+*JO du 2026-10-06, page 9451*
+
+L'article 78 ter (4) du projet de loi portant engagement national pour l'environnement (dit Grenelle 2), codifié à l'article L. 541-10-10 du code de l'environnement, a prévu, qu'au plus tard le 1er juillet 2011, tout établissement de vente au détail de plus de 2 500 mètres carrés proposant en libre-service des produits alimentaires et de grande consommation se dote, à la sortie des caisses, d'un point de reprise des déchets d'emballages issus des produits achetés dans cet établissement. Cette disposition a été renforcé par la loi « anti-gaspillage pour une économie circulaire » (AGEC) de février 2020 qui dispose que tout établissement de vente au détail de plus de 400 mètres carrés proposant en libre-service des produits alimentaires et de grande consommation se dote, à la sortie des caisses, de bacs de tri sélectif pour récupérer les déchets d'emballages issus des produits achetés dans cet établissement, l'établissement informant de manière visible les consommateurs de l'existence de ce dispositif. Par ailleurs, afin de faciliter la collecte des déchets, la loi AGEC a étendu le principe de la "reprise distributeur". Il s'agit d'un mécanisme des filières REP qui fait peser sur le distributeur une obligation de reprendre gratuitement certains produits usagés ou déchets auprès du client. L'article L. 541-10-8 du code de l'environnement prévoit ainsi la mise en place de ce dispositif notamment pour les filières : des équipements électriques et électroniques ; des produits chimiques des ménages ; des éléments d'ameublement ; des articles de sport et de loisirs ; des articles de bricolage et de jardin ; des jouets ; des textiles, chaussures et linge de maison.
