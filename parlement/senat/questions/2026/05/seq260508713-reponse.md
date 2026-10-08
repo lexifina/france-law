@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260508713
+
+- Question : [SEQ260508713](seq260508713.md) — Prévenir le gaspillage de matière premières non-alimentaires non-utilisées
+
+## Réponse
+
+*Transition écologique, JO du 2026-10-08, page 4885*
+
+Chaque année, près de 10 000 tonnes de produits neufs non alimentaires sont détruits lorsqu'ils restent invendus. En 2019, tous secteurs confondus, les invendus non alimentaires en France représentaient en moyenne 3 % du chiffre d'affaires des entreprises concernées. Afin de limiter les déchets et préserver les ressources naturelles, la biodiversité et le climat, la loi antigaspillage a marqué un tournant en venant strictement encadrer la gestion des invendus non alimentaires. Cette mesure porte sur tous les produits finis, et s'impose à l'ensemble des opérateurs économiques, y compris les producteurs. La destruction de matières premières non-utilisées, qu'il pourrait être utile de quantifier afin d'objectiver l'ampleur de ces destructions en termes de quantités de déchets générés, constitue une source supplémentaire de gaspillage qui n'est en effet pas souhaitable. Toutefois, l'interdiction d'une telle pratique n'a pas été jugée opportune dans le cadre des travaux d'élaboration et d'examen au Parlement du projet de loi antigaspillage pour une économie circulaire. De même, au niveau européen, l'Union européenne qui a légiféré sur le cas des invendus de produits finis dans le cadre du règlement relatif à l'écoconception des produits durables (ESPR) adopté en 2024, ne l'a pas prévu. Dans les faits, l'interdiction relative aux invendus a vocation à amener les opérateurs à inscrire leurs activités dans une démarche de sobriété. Le coût croissant des matières premières revêt, de plus, une importance capitale pour les industriels qui n'auraient pas d'intérêt économique à une telle perte.
