@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260909909
+
+- Question : [SEQ260909909](seq260909909.md) — Annonce de la création de trois parcs d'attractions en Val-d'Oise
+
+## Réponse
+
+*Premier ministre, JO du 2026-10-08, page 4879*
+
+Ce projet d'envergure internationale constitue une opportunité importante pour l'attractivité du territoire francilien et s'inscrit dans une ambition plus large d'aménagement et de développement du territoire. Au-delà de la création de trois parcs à thème, il prévoit notamment des investissements dans les infrastructures de transport ainsi que dans l'offre de logements, à destination des familles comme des étudiants. La mise en oeuvre de ce projet s'effectuera dans le respect des compétences des collectivités territoriales et en concertation étroite avec les élus locaux. Des échanges ont d'ores et déjà été engagés par le préfet du Val-d'Oise avec les acteurs du territoire et ont vocation à se poursuivre à mesure que le projet se précisera et dans le cadre des différentes procédures administratives qui devront être conduites. Comme pour tout projet de cette ampleur, l'ensemble des normes applicables, notamment en matière d'urbanisme, d'environnement et d'aménagement, seront pleinement respectées. Les différentes procédures permettront d'apprécier précisément les incidences du projet sur son environnement et de définir, le cas échéant, les mesures nécessaires pour les éviter, les réduire ou les compenser. Le Gouvernement veillera ainsi à ce que ce projet contribue au développement et à l'attractivité du territoire francilien, tout en assurant une utilisation maîtrisée du foncier et en accompagnant les investissements nécessaires dans les équipements, les transports et le logement. Plus largement, le Gouvernement considère que l'implantation en France d'un investissement international de cette ampleur témoigne de l'attractivité de notre pays et de la confiance accordée à ses infrastructures, à ses compétences et à ses talents.
