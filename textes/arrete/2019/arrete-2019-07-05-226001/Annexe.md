@@ -788,6 +788,14 @@ France |
 
 23 octobre 2024. |
 
+White Park Cattle |
+
+France |
+
+|
+
+15 octobre 2026 |
+
 II. - Liste des organismes de sélection agréés qui réalisent des programmes de sélection avec des reproducteurs de race pure de l'espèce ovine
 
 Organisme de sélection
@@ -992,21 +1000,13 @@ Date d'agrément : 01.07.2014
 
 |
 
-CAUSSES DU LOT (Caussenard du Lot)
+CAUSSES DU LOT (Caussenard du Lot) |
 
-|
+France |
 
-France
+- |
 
-|
-
--
-
-|
-
-01.07.2014
-
-|
+01.07.2014 |
 
 RACES OVINES DES MASSIFS-SÉLECTION (ROM-SÉLECTION)
 
@@ -1444,7 +1444,7 @@ France |
 
 18 février 2025 |
 
-Belle-Île |
+Belle-Ile (Race de Deux) |
 
 France |
 
