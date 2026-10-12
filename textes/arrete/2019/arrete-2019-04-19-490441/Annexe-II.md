@@ -1052,27 +1052,51 @@ Arrêté du 30 mai 2017 modifié |
 
 14 |
 
-ORFEVRE-option a-monteur en orfèvrerie |
+ORFEVRE-option a-monteur en orfèvrerie (dernière session 2028 - session supplémentaire 2029) |
 
 Arrêté du 15 octobre 1973 modifié |
 
 12 |
 
-ORFEVRE-option b-tourneur repousseur en orfèvrerie |
+ORFEVRE-option b-tourneur repousseur en orfèvrerie (dernière session 2028 - session supplémentaire 2029) |
 
 Arrêté du 15 octobre 1973 modifié |
 
 12 |
 
-ORFEVRE-option c-polisseur aviveur en orfèvrerie |
+ORFEVRE-option c-polisseur aviveur en orfèvrerie (dernière session 2028 - session supplémentaire 2029) |
 
 Arrêté du 15 octobre 1973 modifié |
 
 12 |
 
-ORFEVRE-option d-planeur en orfèvrerie |
+ORFEVRE-option d-planeur en orfèvrerie (dernière session 2028 - session supplémentaire 2029) |
 
 Arrêté du 15 octobre 1973 modifié |
+
+12 |
+
+ORFEVRE-option a tourneur-repousseur (première session 2029) |
+
+Arrêté du 14 septembre 2026 |
+
+12 |
+
+ORFEVRE-option b-polisseur-aviveur (première session 2029) |
+
+Arrêté du 14 septembre 2026 |
+
+12 |
+
+ORFEVRE-option c-planeur (première session 2029) |
+
+Arrêté du 14 septembre 2026 |
+
+12 |
+
+ORFEVRE-option d-ciseleur (première session 2029) |
+
+Arrêté du 14 septembre 2026 |
 
 12 |
 
