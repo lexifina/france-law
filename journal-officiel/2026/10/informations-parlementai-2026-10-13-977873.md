@@ -1,0 +1,40 @@
+# Ordre du jour
+
+- Nature : Informations Parlementaires
+- Publication : 2026-10-13
+- JO n° : 0239
+- NOR : INPA2627145X
+- Origine : JORF n°0239 du 13 octobre 2026
+- Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054977873
+
+## Article
+
+Assemblée nationale
+
+Session ordinaire 2026-2027
+
+Mardi 13 octobre 2026
+
+A 15 heures. - 1re séance publique :
+
+1. Questions au Gouvernement.
+
+2. Suite de la discussion, après engagement de la procédure accélérée, de la proposition de loi de Mme Céline Thiébault-Martinez et plusieurs de ses collègues apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (n° 3106 et n° 3190).
+
+Rapport de Mmes Céline Thiébault-Martinez, Marie-Charlotte Garin, M. David Taupiac, Mmes Isabelle Rauch, Émilie Bonnivard, MM. Erwan Balanant, Guillaume Gouffier Valente, Karim Benbrahim et Mme Soumya Bourouaha, au nom de la commission spéciale.
+
+3. Vote solennel sur la proposition de loi apportant une réponse intégrale au phénomène de violences sexuelles et sexistes contre les femmes et les enfants (n° 3106).
+
+4. Vote solennel sur la proposition de loi organique visant à adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales (n° 3107).
+
+5. Débat sur la dette.
+
+6. Discussion du projet de loi de finances pour 2027 (n° 3210 et n° 3291).
+
+Rapport de M. Philippe Juvin, au nom de la commission des finances, de l'économie générale et du contrôle budgétaire.
+
+A 21 h 30. - 2e séance publique :
+
+Suite de la discussion du projet de loi de finances pour 2027 (n° 3210 et n° 3291).
+
+Rapport de M. Philippe Juvin, au nom de la commission des finances, de l'économie générale et du contrôle budgétaire.
