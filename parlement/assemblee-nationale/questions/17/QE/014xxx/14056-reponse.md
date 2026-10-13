@@ -1,0 +1,9 @@
+# Réponse à la question n° 14056
+
+- Question : [14056](14056.md) — Question n° 14056 — Réserve douanière
+
+## Réponse
+
+*JO du 2026-10-13, page 9581*
+
+Le décret relatif aux modalités de mise en œuvre de la réserve opérationnelle des douanes a recueilli l'avis du comité social d'administration de réseau de la DGDDI (direction générale des douanes et droits indirects) le 26 mai 2026 et est désormais soumis à l'examen du Conseil d'État, dernière étape avant sa publication. Les textes d'application qui en découlent sont d'ores et déjà finalisés et seront publiés dans la continuité. En conséquence, la première campagne de sélection et les premières signatures de contrats d'engagement sont attendues dès la publication des textes précités, l'objectif étant que les premiers recrutements interviennent à la fin de l'année 2026. S'agissant du nombre de réservistes envisagés pour la période 2026-2027, une montée en charge progressive du dispositif est prévue pour une volumétrie cible de 300 réservistes à horizon 2028. Par construction, la réserve opérationnelle des douanes a vocation à intervenir en complément, et non en substitution, des agents titulaires de la douane. Les réservistes seront mobilisés pour répondre à des besoins ponctuels ou saisonniers, ou pour des missions requérant une expertise spécifique (ex. garde-frontière, filière aéromaritime), sans se substituer aux missions permanentes assurées par les agents titulaires. La direction générale des douanes et droits indirects veillera à ce que le déploiement des réservistes vienne renforcer les capacités des services douaniers pour intensifier la lutte contre les trafics, en particulier le narcotrafic, dont l'ampleur croissante appelle une mobilisation renforcée de l'ensemble des moyens humains de la douane, agents titulaires et réservistes confondus.
