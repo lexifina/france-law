@@ -1,0 +1,9 @@
+# Réponse à la question n° 11451
+
+- Question : [11451](11451.md) — Question n° 11451 — Hausses tarifaires prévues pour 2026 dans le cadre de la REP Emballages ménagers
+
+## Réponse
+
+*JO du 2026-10-13, page 9612*
+
+Le Gouvernement est particulièrement attentif à la situation des TPE et PME, pour lesquelles les obligations liées aux filières REP doivent être proportionnées, lisibles et économiquement soutenables. Le ministre Mathieu Lefèvre l'a rappelé lors des Assises nationales de l'économie circulaire à Nantes le 30 septembre, la REP doit être un outil efficace de transformation environnementale : chaque euro acquitté par les entreprises doit produire un bénéfice environnemental tangible, tout en limitant les coûts et les démarches inutiles. Dans ce contexte, la refondation du cahier des charges de la REP emballages ménagers ne sera pas finalisée au cours des semaines à venir, plusieurs points nécessitant un approfondissement. Avant tout, les écocontributions appelées en 2027 par les éco-organismes de la REP des emballages ménagers seront stabilisées au même niveau qu'en 2026. S'agissant de la REP des emballages professionnels, le Gouvernement a décidé de reporter son entrée en vigueur au 1er janvier 2027, afin de sécuriser les modalités de mise en œuvre de celle-ci et de donner davantage de visibilité aux entreprises. Le projet de loi DDADUE assure par ailleurs l'adaptation du droit français au règlement européen sur les emballages et les déchets d'emballages (PPWR). Celui-ci prévoit notamment des règles permettant de mieux identifier le redevable et comporte une disposition favorable aux microentreprises dans certaines situations de sous-traitance : lorsqu'une microentreprise fait fabriquer son produit par un fournisseur établi en France, ce dernier est considéré comme producteur au titre de la REP. Il ne prévoit pas, en revanche, d'exonération générale des TPE et microentreprises qui représentent 99,4% des entreprises en France.
