@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250504706
+
+- Question : [SEQ250504706](seq250504706.md) — Retard de publication des études de l'ADEME
+
+## Réponse
+
+*Transition écologique, JO du 2026-10-15, page 5000*
+
+Le réemploi est un des leviers essentiels de la transition écologique des emballages, en ce qu'il permet de contribuer à la réduction des déchets, et dans certains secteurs, à la réduction des impacts environnementaux. L'Ademe a conduit des travaux à ce sujet, notamment concernant les potentiels de développement du réemploi des emballages par secteur et concernant une évaluation environnementale ou analyse du cycle de vie de la consigne pour le réemploi des emballages en verre en France. Les enseignements tirés de ces travaux ont fait l'objet d'une synthèse publiée sur son site internet en novembre 2025. S'agissant de l'analyse du cycle de vie, l'étude était composée de deux volets. Un premier volet portait sur des analyses comparatives entre des solutions d'emballages en verre réemployables et consignés et des solutions analogues en verre à usage unique. Il a donné lieu à une publication en 2023. L'étude a ensuite été complétée en 2025 avec des éléments relatifs à l'impact de la décarbonation de la production verrière par rapport à un scénario étudié initialement. Un deuxième volet, axé sur la comparaison de solutions d'emballages en verre réemployables et consignés avec des emballages constitués d'autres matériaux (hors verre) à usage unique, avec un scénario comparant un emballage en plastique consigné pour réemploi et une solution analogue en plastique à usage unique, a été publié en 2025. Enfin, concernant l'évaluation du taux de collecte des bouteilles en plastique pour boissons, le dernier rapport publié par l'Ademe à ce sujet, porte sur les données 2023 (définitives) et 2024 (consolidées). Ce rapport a été mis en ligne sur le site internet de l'Ademe en décembre 2025.
