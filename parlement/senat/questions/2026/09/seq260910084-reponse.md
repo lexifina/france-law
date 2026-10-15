@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260910084
+
+- Question : [SEQ260910084](seq260910084.md) — Expérimentation des radars sonores et perspectives de déploiement
+
+## Réponse
+
+*Transition écologique, JO du 2026-10-15, page 5004*
+
+Le Gouvernement partage la préoccupation des communes confrontées aux nuisances sonores causées par les comportements anormalement bruyants de certains véhicules motorisés et est convaincu de l'intérêt des radars sonores pour répondre à cette problématique. Depuis le lancement de l'expérimentation en janvier 2022, le ministère est fortement engagé dans l'accompagnement des fabricants en vue d'obtenir l'homologation métrologique des appareils et dans l'élaboration du cadre juridique permettant de sécuriser l'utilisation de ces dispositifs, dont la mise en oeuvre effective pour constater des sanctions pénales de façon plus automatisée serait une première mondiale. En ce qui concerne la procédure d'homologation, l'un des deux fabricants toujours engagés dans le processus à l'issue de l'expérimentation a terminé l'ensemble des essais nécessaires. Les échanges se poursuivent avec le laboratoire national de métrologie et d'essais (LNE) en vue de finaliser le dossier qui permettra de prononcer l'homologation du dispositif. Celle-ci a vocation à intervenir au début de l'année 2027. Sur le plan juridique, le Gouvernement a procédé à la préparation des actes réglementaires : il a finalisé la saisine de la Commission nationale de l'informatique et des libertés (CNIL) cet été sur le projet d'arrêté autorisant le traitement automatisé des données personnelles nécessaire à la constatation des infractions. La CNIL a délibéré début octobre à propos de ce projet. La publication des textes réglementaires est ainsi désormais seulement conditionnée à l'adoption de dispositions législatives permettant d'inscrire le dispositif dans le code de la route.
