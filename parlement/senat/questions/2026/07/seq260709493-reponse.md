@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260709493
+
+- Question : [SEQ260709493](seq260709493.md) — Gel des crédits alloués aux structures du spectacle vivant
+
+## Réponse
+
+*Action et comptes publics, JO du 2026-10-15, page 4978*
+
+La loi de finances pour 2026, adoptée par le Parlement le 2 février 2026 a conduit, dans un contexte de finances publiques dégradées, à la réduction des moyens du ministère de la culture de 4 % par rapport à la loi de finances pour 2025. Les crédits dédiés au programme « Création » ont évolué de la même façon. En juillet 2026, le Gouvernement a acté le versement de 10 Meuros supplémentaires aux structures financées par les DRAC à la suite de la lettre ouverte au président de la République de la part des organisations professionnelles du secteur. Ce versement complémentaire a permis de financer les 28 plus importantes institutions culturelles pour lesquelles des réductions de financement avaient été notifiés à la suite des annulations et surgels décidés en cours de gestion. Le financement public des institutions culturelles est donc stabilisé par rapport aux crédits prévus en loi de finances pour 2026. Concernant le fonds national pour l'emploi dans le spectacle (FONPEPS), le ministère de la culture finance en gestion et au juste niveau les dépenses de ce fonds, dont les crédits ont été rehaussés de 4 Meuros par amendement en loi de finances pour 2026. Par ailleurs, une réforme du FONPEPS a été mise en oeuvre par le décret n° 2025-1424 du 30 décembre 2025 relatif à la prolongation et à l'adaptation du fonds national pour l'emploi pérenne dans le spectacle (FONPEPS), du dispositif de soutien à l'emploi du plateau artistique de spectacles vivants diffusés dans des salles de petite jauge et du dispositif de soutien à l'emploi dans le secteur de l'édition phonographique. Cette réforme contribue à maîtriser l'évolution du coût du dispositif pour les prochaines années.
