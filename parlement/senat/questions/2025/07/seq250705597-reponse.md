@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250705597
+
+- Question : [SEQ250705597](seq250705597.md) — Renforcement de l'encadrement des projets d'installations classées pour la protection de l'environnement
+
+## Réponse
+
+*Transition écologique, JO du 2026-10-15, page 5001*
+
+Concernant les distances d'implantation, les arrêtés ministériels fixant les prescriptions applicables aux élevages soumis à déclaration, à enregistrement ou à autorisation prévoient, pour les catégories d'installations concernées, une distance de référence de 100 mètres entre les bâtiments d'élevage et leurs annexes et les habitations ou locaux habituellement occupés par des tiers, ainsi que certains autres lieux. Ces mêmes arrêtés applicables aux élevages prévoient expressément qu'« en cas de nécessité et en l'absence de solution technique propre à garantir la commodité du voisinage et la protection des eaux », les distances réglementaires peuvent être augmentées. Les 100 mètres constituent donc, pour les installations auxquelles cette règle s'applique, une distance réglementaire de référence. Ils ne constituent pas une limite maximale au-delà de laquelle aucune mesure supplémentaire ne pourrait être exigée. Une mesure particulière peut notamment résulter des nuisances susceptibles d'être générées par l'installation : odeurs, émissions atmosphériques, bruit, gestion et stockage des effluents, conditions d'épandage, risques de pollution des eaux, circulation des véhicules, poussières ou encore incidences sur le cadre de vie des populations riveraines. Concernant l'information et les moyens d'action des maires, les installations relevant de la législation ICPE relèvent de la compétence du préfet dans les conditions prévues par le code de l'environnement. Le maire ne peut donc pas se substituer au préfet pour fixer ou modifier les prescriptions ICPE applicables à une installation. Il peut, en revanche, signaler aux services de l'État les nuisances, risques ou difficultés constatés.
