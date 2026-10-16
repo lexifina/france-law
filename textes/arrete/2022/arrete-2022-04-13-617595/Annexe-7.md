@@ -32,4 +32,8 @@ ix. Référence au présent arrêté ;
 
 x. Lien informatique vers les informations relatives aux privilèges de l'agent AFIS.
 
-Tout élément ajouté ou supprimé sur le support doit être validé d'une manière claire par l'autorité de surveillance compétente.
+Tout élément ajouté ou supprimé sur le support doit être validé d'une manière claire par l'autorité compétente.
+
+NOTA :
+
+Conformément à l’article 37 de l’arrêté du 9 juillet 2026, ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur trois mois après leur publication, soit le 16 octobre 2026.

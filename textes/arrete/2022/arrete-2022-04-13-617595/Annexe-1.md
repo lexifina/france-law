@@ -22,7 +22,7 @@ I. - Les généralités
 
 - le service de sauvetage et de lutte contre l'incendie des aéronefs sur les aérodromes (SSLIA) ;
 
-- le service de prévention péril animalier (SSPA) ;
+- le service de prévention du risque animalier ;
 
 - les documents de planification : avant-projet de plan de masse (APPM), plan d'exposition au bruit (PEB), plan de servitude, plan de dégagement, etc.
 
@@ -38,7 +38,7 @@ I. - Les généralités
 
 - la carte d'aérodrome et de stationnement ;
 
-- les servitudes et dégagements.
+- les servitudes aéronautiques de dégagement.
 
 3° Les moyens :
 
@@ -142,7 +142,7 @@ L'exploitation :
 
 - le péril aviaire ;
 
-- les activités particulières : la voltige, le parachutage, l'aéromodélisme et les manifestations aériennes… ;
+- les activités particulières : la voltige, le parachutage, l'aéromodélisme, les manifestations aériennes, l'exploitation d'aéronefs sans équipage à bord ;
 
 - la performance des aéronefs utilisant un aérodrome AFIS.
 
@@ -160,9 +160,11 @@ Le service d'alerte :
 
 - la notification aux aéronefs évoluant à proximité d'un aéronef en état d'urgence ;
 
-- les urgences, les incidents et les fiches réflexes ;
+- les urgences et les incidents ;
 
-- le plan de secours, les intervenants et les fiches réflexe.
+- le plan de secours et les intervenants ;
+
+- les procédures de gestion du service d'alerte élaborées par le prestataire AFIS.
 
 III. - Les communications
 
@@ -210,4 +212,8 @@ VII. - Situations anormales et d'urgence
 
 3° Les pannes d'avions.
 
-4° Les procédures en IFR par mauvaise visibilité.
+4° Les procédures IFR par faible visibilité (LVP).
+
+NOTA :
+
+Conformément à l’article 37 de l’arrêté du 9 juillet 2026, ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur trois mois après leur publication, soit le 16 octobre 2026.

@@ -68,8 +68,14 @@ VI. - Procédures occasionnelles ou spécifiques
 
 3° La gestion des situations dégradées et/ou inhabituelles.
 
-4° La gestion du péril aviaire.
+4° La gestion du péril animalier.
+
+5° Le cas échéant, les modalités de mise en œuvre des procédures par faible visibilité (LVP), dont la délivrance des clairances aux véhicules.
 
 VII. - Procédures d'urgence
 
 La mise en œuvre des procédures d'alerte et de déclenchement des secours.
+
+NOTA :
+
+Conformément à l’article 37 de l’arrêté du 9 juillet 2026, ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur trois mois après leur publication, soit le 16 octobre 2026.

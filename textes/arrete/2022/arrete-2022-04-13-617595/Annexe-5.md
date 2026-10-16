@@ -20,7 +20,7 @@ Incidents de la circulation au sol.
 
 Incidents au décollage.
 
-Risque aviaire.
+Risque animalier.
 
 Largage de parachutes.
 
@@ -34,7 +34,9 @@ Incendie à bord.
 
 Alerte à la bombe.
 
-Problèmes liés au comportement des passagers et piratage.
+Problèmes liés au comportement des passagers.
+
+Actes d'intervention illicite.
 
 Problèmes de santé.
 
@@ -46,8 +48,12 @@ Déroutement.
 
 Incidents à l'atterrissage.
 
-Problèmes de cargaison.
+Marchandises dangereuses.
 
 Airprox et réclamations du pilote.
 
 Phraséologie.
+
+NOTA :
+
+Conformément à l’article 37 de l’arrêté du 9 juillet 2026, ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur trois mois après leur publication, soit le 16 octobre 2026.
