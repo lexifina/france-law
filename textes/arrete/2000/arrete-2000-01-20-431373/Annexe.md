@@ -1,0 +1,1105 @@
+# Article Annexe
+
+PREMIÈRE ÉPREUVE
+
+PARCOURS D'HABILETÉ MOTRICE (PHM)
+
+1. Consignes générales
+
+L'examinateur qualifié chargé de noter doit expliquer chaque atelier composant le parcours en insistant particulièrement sur les notions d'atelier tenté et d'atelier réussi et leurs conséquences.
+
+A allure modérée, le parcours est déroulé devant les candidats, dans les conditions définies par le présent arrêté et conformément aux précisions apportées par l'examinateur qualifié chargé de noter.
+
+Il sera laissé la possibilité aux candidats de tester le parcours lors du temps consacré à l'échauffement. Les candidats pourront utiliser des gants ou de la magnésie.
+
+Le rôle de l'examinateur qualifié chargé de noter est d'évaluer les candidats et non de conseiller ou d'enseigner des techniques.
+
+Un seul candidat doit se trouver sur le parcours, le candidat suivant se présente lorsque le précédent a terminé cette épreuve.
+
+Aucune aide de quelque nature que ce soit ne doit être apportée aux candidats (encouragements, conseils …), qu'elle provienne des évaluateurs ou des autres candidats.
+
+Il revient au candidat qui déplace, renverse, retourne un élément du parcours d'habileté motrice de reconstituer l'atelier concerné lorsqu'il souhaite effacer la pénalité susceptible de lui être appliquée. Dans le cas contraire, c'est à l'examinateur qualifié chargé de noter de replacer l'agrès avant le départ du candidat suivant.
+
+Le parcours comprend 10 ateliers.
+
+Le parcours doit s'effectuer dans l'ordre prévu des ateliers. Tout atelier doit être tenté. Un atelier oublié est signalé immédiatement par l'examinateur qualifié chargé de noter, pour être effectué.
+
+Tout atelier doit être réalisé conformément aux consignes ci-dessous, le non-respect des consignes entraînant la répétition de l'exercice.
+
+En cas de réalisation incomplète ou incorrecte d'un atelier, il est attribué une pénalité forfaitaire de temps, s'ajoutant au temps total réalisé.
+
+Tout atelier non tenté malgré les consignes ou un abandon du parcours, à quelque moment, entraîne la note de zéro à l'ensemble du parcours.
+
+Un atelier tenté, bien que partiellement réalisé, entraîne la pénalité prévue mais pas la note de zéro.
+
+La pénalité peut être annulée si le candidat recommence l'atelier et le franchit parfaitement. Pendant ce temps, le chronomètre continue de tourner.
+
+Les pénalités et leur annulation doivent être annoncées à haute et intelligible voix : pénalité, pénalité annulée, atelier non tenté.
+
+Les candidats n'ayant pas respecté le trajet matérialisé par les plots seront pénalisés-indépendamment des pénalités définies à l'atelier n° 10-de 5 secondes par plot non contourné.
+
+Les dixièmes de seconde ne sont pas pris en compte dans le temps réalisé par le candidat, la performance sera arrondie à la seconde inférieure.
+
+2. Déroulement du PHM et nature des ateliers du parcours
+
+2.1. Départ
+
+Le départ se fait sur instruction de l'examinateur qualifié chargé de noter dans l'ordre des ateliers, numérotés de 1 à 10.
+
+2.2. Atelier 1. - Porter d'un sac lesté (hors chronométrage)
+
+Poids du sac : 40 kg pour les hommes, 25 kg pour les femmes.
+
+Cet atelier s'effectue en marchant sur une distance de 20 mètres. Le candidat saisit le sac par les poignées et le porte devant lui tout en le maintenant contre son abdomen. D'autres techniques de porter sont tolérées, dès lors que le contact entre le sac et le torse du candidat est maintenu pendant l'exécution de l'exercice.
+
+L'atelier est réalisé une fois que le candidat a franchi l'arrivée avec le sac, sans l'avoir posé. Si le sac est posé, le candidat devra recommencer le porter en totalité.
+
+Le nombre de tentatives est limité à trois.
+
+Le temps mis pour effectuer cet atelier n'est pas comptabilisé dans le temps total du parcours d'habileté motrice, mais est limité à trois minutes.
+
+Pénalité : en cas de non-respect des modalités ci-dessus, une pénalité forfaitaire d'un point est soustraite à la note obtenue au parcours.
+
+2.3. Chronométrée
+
+L'enchaînement entre la fin de l'atelier 1 et le début de l'atelier 2 ne doit pas excéder 15 secondes.
+
+Le décompte débute à l'issue de la réalisation de l'atelier 1, à l'instant où le candidat dépose le sac.
+
+15 secondes après avoir posé le sac, le chronométrage du PHM débute, même si le candidat n'a pas encore amorcé sa première flexion.
+
+2.4. Atelier 2. - Flexions-extensions (pompes)
+
+Pour faciliter l'évaluation de cet atelier, le candidat doit être porteur d'un vêtement permettant de contrôler efficacement la bonne réalisation de l'exercice.
+
+Au départ de la partie chronométrée du PHM, le candidat doit être positionné les deux pieds joints derrière la ligne matérialisant le départ. La distance entre la ligne de départ et les pieds du candidat n'est pas fixée, il suffit que ses pieds soient positionnés derrière la ligne.
+
+Un plot en mousse est placé entre les bras du candidat, au niveau des épaules.
+
+Les pompes doivent être réalisées en position allongée, les bras perpendiculaires au sol, le corps bien aligné (tête, tronc, jambes), les jambes tendues. Le candidat descend le corps vers le sol en fléchissant les coudes jusqu'à ce que son buste vienne toucher le plot en mousse. Il tend de nouveau les bras, complètement, coudes verrouillés. Cinq mouvements pour les hommes-trois mouvements pour les femmes.
+
+L'examinateur qualifié chargé de noter doit valider à haute voix les pompes correctement réalisées. Tant qu'il n'annonce pas 5 (hommes) ou 3 (femmes), l'exercice n'est pas entièrement réalisé.
+
+Réussite :
+
+- position des mains : largeur du plot en mousse ;
+
+- les coudes verrouillés ;
+
+- les jambes tendues ;
+
+- les pieds joints derrière la ligne de départ ;
+
+- l'examinateur qualifié chargé de noter valide les 3 ou 5 pompes.
+
+Tentative : se mettre en position, et effectuer au moins une flexion.
+
+Pénalité : une pénalité de 10 secondes est attribuée au candidat qui n'a pas réalisé cet atelier.
+
+2.5. Atelier 3. - Franchissement de haies
+
+Franchissement de trois haies type EPS (éducation physique et sportive).
+
+Hauteur des haies : 70 cm pour les hommes, 60 cm pour les femmes.
+
+Espace entre chaque haie : 4 mètres.
+
+Le franchissement des trois haies doit s'effectuer dans l'ordre de leur positionnement et dans leur axe.
+
+Réussite : lorsque toutes les haies sont franchies (les haies renversées lors du franchissement n'occasionnent pas de pénalité).
+
+Tentative : lorsque le candidat franchit au moins la première haie, même si celle-ci est renversée lors du franchissement.
+
+Pénalité : une pénalité de 10 secondes est attribuée au candidat qui n'a pas franchi les trois haies. Le renversement des haies n'entraîne pas de pénalité.
+
+2.6. Atelier 4. - Passage en équilibre sur poutre
+
+Passage sur une poutre de 5 m de longueur, placée à 1 mètre de hauteur.
+
+La montée sur la poutre doit être réalisée en position débout dans l'axe de la poutre et à l'aide d'un appui intermédiaire (marche d'une hauteur de 50 cm).
+
+Sans l'aide des mains, une fois les deux appuis sur la poutre, la traversée de cet agrès doit se faire en équilibre.
+
+La tenue de la poutre, ou l'appui sur celle-ci au moment d'y accéder n'entraîne pas de pénalité.
+
+La sortie de la poutre doit s'effectuer dans l'axe de celle-ci.
+
+Le candidat qui ne réalise pas l'atelier comme décrit supra, a la possibilité d'annuler la pénalité en le reprenant au début. Il n'est pas prévu de tapis de réception à la sortie de la poutre.
+
+Réussite : lorsque le corps du candidat est sorti de la poutre par son axe.
+
+Tentative : lorsque les deux pieds sont sur la poutre, le candidat étant alors en équilibre sur la poutre sans l'aide de sa (ses) main (s).
+
+Pénalité : une pénalité de 10 secondes est attribuée au candidat qui n'a pas réalisé cet atelier.
+
+2.7. Atelier 5. - Multi-bonds dans cerceaux
+
+Dans l'ordre de positionnement des cerceaux, progression par bonds successifs, un pied ou une pointe des pieds dans chaque cerceau posé sur le sol, sans les toucher.
+
+L'atelier doit être réalisé sans s'arrêter. Si ce n'est pas le cas, pour ne pas être pénalisé, le candidat doit reprendre l'atelier au début, à partir du premier cerceau.
+
+Diamètre des cerceaux : 70 cm.
+
+Réussite : tous les cerceaux franchis, d'une seule traite, sans les avoir touchés.
+
+Tentative : au moins un pied ou une pointe de pied dans le premier cerceau.
+
+Pénalité : une pénalité de 10 secondes est attribuée au candidat qui n'a pas réalisé cet atelier.
+
+2.8. Atelier 6. - Appuis alternés (d'un pied sur l'autre)
+
+10 appuis doivent être alternativement effectués, un pied au sol et l'autre en contact avec le banc sans s'arrêter (5 sur la jambe gauche et 5 sur la jambe droite). Ce contact est réalisé par le dessous du pied sur l'arête ou l'assise du banc.
+
+Le banc doit être stabilisé par un leste ou maintenu par l'examinateur qualifié chargé de noter.
+
+L'examinateur qualifié chargé de noter doit valider à haute voix les appuis correctement réalisés. Tant qu'il n'annonce pas le nombre 10, cela sous-entend que l'exercice n'est pas totalement réalisé.
+
+Lorsque les 10 appuis alternés ne sont pas réalisés sans s'arrêter, la pénalité peut être annulée si le candidat recommence à partir du premier appui et réussit cet atelier.
+
+Hauteur du banc : 50 cm.
+
+Réussite : 10 appuis alternés réalisés sans s'arrêter.
+
+Tentative : dès le premier appui sur le banc.
+
+Pénalité : une pénalité de 10 secondes est attribuée au candidat qui n'a pas réalisé cet atelier.
+
+2.9. Atelier 7. - Franchissement de barrières
+
+Franchissement de deux obstacles matérialisés par deux chevaux en mousse.
+
+Ces deux chevaux doivent être franchis dans leur axe sans qu'ils soient renversés et sans que les balises latérales soient touchées, même légèrement
+
+Si le premier cheval est correctement franchi et que le candidat renverse ou touche les balises lors du passage du second cheval, la pénalité ne pourra être annulée que s'il repasse correctement le premier puis le second.
+
+Hauteur : 1,20 m, largeur : 1,50 m.
+
+Espace entre les chevaux : 2,20 m.
+
+Réussite : franchissement des deux obstacles sans les renverser et sans toucher les balises disposées sur les côtés.
+
+Tentative : la ligne d'épaule a dépassé les balises et les pieds sont décollés du sol. Si l'obstacle est renversé, la tentative n'est pas constituée.
+
+Pénalités : une pénalité de 10 secondes est attribuée au candidat qui n'a pas réalisé cet atelier.
+
+2.10. Atelier 8. - Echelle horizontale
+
+Progression, sans appui au sol, sous une échelle horizontale ou suspension, au choix du candidat.
+
+Hauteur : 2,30 m, longueur : 4 m, largeur : 70 cm.
+
+Distance entre les barreaux : 50 cm.
+
+Avant son passage, le candidat peut ajuster les marchepieds lui permettant de réaliser cet agrès. Ce réglage n'incombe pas à l'examinateur qualifié chargé de noter.
+
+Progression : le candidat doit impérativement saisir le deuxième barreau des deux mains, ses pieds ne devant pas être en contact ni avec le sol ni avec les marchepieds. La saisie du premier barreau à deux mains n'entraîne pas de pénalités à partir du moment où ses pieds ne sont en contact ni avec le sol ni avec les marchepieds. La progression doit se faire jusqu'au barreau matérialisé qui indique la fin de cet agrès.
+
+La distance de progression est de 3,50 mètres pour les hommes et de 2 mètres pour les femmes.
+
+Réussite : progression complète, les pieds dans le vide, sans appui au sol jusqu'à la saisie à deux mains du barreau matérialisant la fin de cet atelier.
+
+Le candidat doit impérativement saisir à deux mains le second barreau qui matérialise le début de la progression. Il peut saisir à deux mains le premier barreau.
+
+Tentative : après avoir saisi, à deux mains, le premier ou le second barreau, le candidat engage la progression en saisissant (à une ou deux mains) au moins le troisième barreau, ses pieds dans le vide.
+
+Pénalité : si cet atelier n'est pas réalisé, il est attribué une pénalité de 15 secondes pour les hommes et de 10 secondes pour les femmes.
+
+Suspension : le candidat doit rester suspendu des deux mains sans que ses pieds touchent terre, au barreau de son choix, durant 20 secondes pour les hommes et 15 secondes pour les femmes.
+
+Réussite : suspension du candidat, au barreau de son choix dans le temps imparti.
+
+Tentative : ayant saisi, à deux mains, le barreau de son choix, le candidat est suspendu, ses pieds dans le vide sans respecter le temps imparti.
+
+Pénalité : si le temps de suspension n'est pas réalisé, il est attribué une pénalité de 30 secondes pour les hommes et 20 secondes pour les femmes.
+
+2.11. Atelier 9. - Ramper
+
+Ramper sous un dispositif formant un tunnel.
+
+Hauteur : 0.50 m, largeur : 1,20 m.
+
+Distance totale du ramper : 3 mètres.
+
+Réussite : franchir sans toucher, même légèrement, les éléments composant le dispositif du ramper.
+
+Tentative : passage de la ligne d'épaule au-delà de la première barre.
+
+Pénalité : une pénalité de 10 secondes est attribuée au candidat qui n'a pas réalisé cet atelier.
+
+2.12. Atelier 10. - Course en slalom
+
+Course entre des cônes (plot), sur une distance de 45 mètres.
+
+Les cônes doivent être contournés alternativement par la droite et par la gauche.
+
+Le premier cône doit impérativement être contourné par la droite.
+
+Chaque plot doit être contourné sans être touché.
+
+Si le premier plot n'est pas contourné par la droite, l'exercice est considéré comme étant non tenté.
+
+Réussite : le slalom effectué sans aucun contact avec un des cônes.
+
+Tentative : dès que le premier cône est contourné par la droite sans le toucher.
+
+Pénalité : une pénalité de 5 secondes est attribuée par plot non contourné ou touché.
+
+2.13. Arrivée
+
+Le chronomètre s'arrête lorsque le candidat franchit la ligne d'arrivée.
+
+Le candidat prend connaissance de sa performance et émarge sa feuille de notation.
+
+2.14. Récupération
+
+Un délai de récupération d'au moins 30 (trente) minutes doit être observé avant le début de l'évaluation du test d'endurance cardio-respiratoire.
+
+3. Schéma du parcours PHM.
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel de la République française électronique authentifié accessible en bas de page.
+
+4. Barèmes du PHM
+
+BARÈMES DU PARCOURS D'HABILETÉ MOTRICE (HOMMES/FEMMES) |
+
+Temps (en mn) |
+
+Note sur 20 |
+
+Temps (en mn) |
+
+Note sur 20 |
+
+Temps (en mn) |
+
+Note sur 20 |
+
+Temps (en mn) |
+
+Note sur 20 |
+
+HOMME |
+
+FEMME |
+
+HOMME |
+
+FEMME |
+
+HOMME |
+
+FEMME |
+
+HOMME |
+
+FEMME |
+
+00 : 50 |
+
+20 |
+
+20 |
+
+01 : 10 |
+
+11,5 |
+
+14,5 |
+
+01 : 30 |
+
+8,5 |
+
+10 |
+
+01 : 50 |
+
+3,5 |
+
+6,5 |
+
+00 : 51 |
+
+19,5 |
+
+20 |
+
+01 : 11 |
+
+11,5 |
+
+14 |
+
+01 : 31 |
+
+8,5 |
+
+10 |
+
+01 : 51 |
+
+3 |
+
+6 |
+
+00 : 52 |
+
+19 |
+
+19,5 |
+
+01 : 12 |
+
+11 |
+
+13,5 |
+
+01 : 32 |
+
+8 |
+
+10 |
+
+01 : 52 |
+
+2,5 |
+
+6 |
+
+00 : 53 |
+
+18,5 |
+
+19,5 |
+
+01 : 13 |
+
+11 |
+
+13,5 |
+
+01 : 33 |
+
+8 |
+
+9,5 |
+
+01 : 53 |
+
+2 |
+
+5,5 |
+
+00 : 54 |
+
+18 |
+
+19 |
+
+01 : 14 |
+
+10,5 |
+
+13 |
+
+01 : 34 |
+
+7,5 |
+
+9,5 |
+
+01 : 54 |
+
+2 |
+
+5,5 |
+
+00 : 55 |
+
+17,5 |
+
+19 |
+
+01 : 15 |
+
+10,5 |
+
+13 |
+
+01 : 35 |
+
+7,5 |
+
+9,5 |
+
+01 : 55 |
+
+1,5 |
+
+5 |
+
+00 : 56 |
+
+17 |
+
+18,5 |
+
+01 : 16 |
+
+10,5 |
+
+12,5 |
+
+01 : 36 |
+
+7 |
+
+9,5 |
+
+01 : 56 |
+
+1 |
+
+4,5 |
+
+00 : 57 |
+
+16,5 |
+
+18 |
+
+01 : 17 |
+
+10,5 |
+
+12 |
+
+01 : 37 |
+
+7 |
+
+9,5 |
+
+01 : 57 |
+
+0,5 |
+
+4 |
+
+00 : 58 |
+
+16 |
+
+18 |
+
+01 : 18 |
+
+10 |
+
+12 |
+
+01 : 38 |
+
+6,5 |
+
+9 |
+
+01 : 58 |
+
+0 |
+
+4 |
+
+00 : 59 |
+
+15,5 |
+
+17,5 |
+
+01 : 19 |
+
+10 |
+
+11,5 |
+
+01 : 39 |
+
+6,5 |
+
+9 |
+
+01 : 59 |
+
+|
+
+3,5 |
+
+01 : 00 |
+
+15 |
+
+17,5 |
+
+01 : 20 |
+
+10 |
+
+11,5 |
+
+01 : 40 |
+
+6,5 |
+
+9 |
+
+02 : 00 |
+
+|
+
+3 |
+
+01 : 01 |
+
+14,5 |
+
+17 |
+
+01 : 21 |
+
+10 |
+
+11,5 |
+
+01 : 41 |
+
+6 |
+
+9 |
+
+02 : 01 |
+
+|
+
+2,5 |
+
+01 : 02 |
+
+14 |
+
+16,5 |
+
+01 : 22 |
+
+10 |
+
+11 |
+
+01 : 42 |
+
+6 |
+
+8,5 |
+
+02 : 02 |
+
+|
+
+2 |
+
+01 : 03 |
+
+13,5 |
+
+16,5 |
+
+01 : 23 |
+
+9,5 |
+
+11 |
+
+01 : 43 |
+
+5,5 |
+
+8,5 |
+
+02 : 03 |
+
+|
+
+2 |
+
+01 : 04 |
+
+13 |
+
+16 |
+
+01 : 24 |
+
+9,5 |
+
+10,5 |
+
+01 : 44 |
+
+5,5 |
+
+8 |
+
+02 : 04 |
+
+|
+
+1,5 |
+
+01 : 05 |
+
+13 |
+
+16 |
+
+01 : 25 |
+
+9,5 |
+
+10,5 |
+
+01 : 45 |
+
+5,5 |
+
+8 |
+
+02 : 05 |
+
+|
+
+1 |
+
+01 : 06 |
+
+12,5 |
+
+15,5 |
+
+01 : 26 |
+
+9,5 |
+
+10,5 |
+
+01 : 46 |
+
+5 |
+
+7,5 |
+
+02 : 06 |
+
+|
+
+0,5 |
+
+01 : 07 |
+
+12 |
+
+15 |
+
+01 : 27 |
+
+9 |
+
+10,5 |
+
+01 : 47 |
+
+4,5 |
+
+7,5 |
+
+02 : 07 |
+
+|
+
+0 |
+
+01 : 08 |
+
+12 |
+
+15 |
+
+01 : 28 |
+
+9 |
+
+10 |
+
+01 : 48 |
+
+4 |
+
+7 |
+
+|
+
+|
+
+|
+
+01 : 09 |
+
+11,5 |
+
+14,5 |
+
+01 : 29 |
+
+8,5 |
+
+10 |
+
+01 : 49 |
+
+4 |
+
+7 |
+
+|
+
+|
+
+|
+
+(*) Barèmes correspondant aux performances d'un candidat âgé, au 1er janvier de l'année de la première épreuve, de moins de 30 ans.
+
+Il est ajouté : 1 point aux candidats âgés de 30 à 40 ans, et 2 points aux candidats âgés de plus de 40 ans.
+
+SECONDE ÉPREUVE
+
+TEST D'ENDURANCE CARDIO-RESPIRATOIRE (TECR)
+
+1. Déroulement du TECR
+
+Le test consiste à accomplir des allers et retours sur une distance de 20 mètres, à une vitesse progressivement accélérée.
+
+Une bande sonore règle la vitesse en émettant des sons à intervalles réguliers et annonce la progression du candidat en termes de paliers et de fractions de paliers exprimées en temps (ex : palier 4, palier 7-45 secondes).
+
+Il s'agit pour le candidat d'atteindre le palier ou la fraction de palier le ou la plus élevé(e) possible.
+
+L'épreuve commence lentement, à 8 km/ h, puis le rythme augmente progressivement toutes les minutes.
+
+A compter de l'annonce début du test, le candidat dispose de deux minutes pour calquer sa vitesse de course sur les signaux sonores. A chaque signal, il doit ajuster sa course pour se retrouver à une des extrémités du tracé des vingt mètres.
+
+A chaque extrémité, il doit bloquer un de ses pieds immédiatement derrière la ligne pour amorcer son retour. Les virages en courbe ne sont pas admis.
+
+Deux mètres maximum de retard sont admis à la condition de pouvoir, soit maintenir le retard, soit le combler lors des intervalles suivants. Si le retard s'accroît et devient peu à peu égal ou supérieur à deux mètres sans possibilité de le combler, le candidat arrête l'épreuve.
+
+Le dernier palier ou la fraction de palier est alors retenu.
+
+Nota. - Le candidat qui glisse ou tombe pendant le test est autorisé à le poursuivre, mais l'incident n'entraîne pas l'interruption de la bande sonore.
+
+2. Barèmes du TECR (*)
+
+Note FEMMES |
+
+Performance réalisée |
+
+Note HOMMES |
+
+0 |
+
+palier 1 |
+
+0 |
+
+0 |
+
+palier 1-15 secondes |
+
+0 |
+
+0 |
+
+palier 1-30 secondes |
+
+0 |
+
+0 |
+
+palier 1-45 secondes |
+
+0 |
+
+0 |
+
+palier 2 |
+
+0 |
+
+0 |
+
+palier 2-15 secondes |
+
+0 |
+
+0 |
+
+palier 2-30 secondes |
+
+0 |
+
+1 |
+
+palier 2-45 secondes |
+
+0 |
+
+2 |
+
+palier 3 |
+
+0 |
+
+3 |
+
+palier 3-15 secondes |
+
+0 |
+
+4 |
+
+palier 3-30 secondes |
+
+0 |
+
+5 |
+
+palier 3-45 secondes |
+
+0 |
+
+6 |
+
+palier 4 |
+
+0 |
+
+7 |
+
+palier 4-15 secondes |
+
+0 |
+
+7,5 |
+
+palier 4-30 secondes |
+
+0 |
+
+8 |
+
+palier 4-45 secondes |
+
+0 |
+
+8,5 |
+
+palier 5 |
+
+1 |
+
+9 |
+
+palier 5-15 secondes |
+
+2 |
+
+9,5 |
+
+palier 5-30 secondes |
+
+3 |
+
+10 |
+
+palier 5-45 secondes |
+
+4 |
+
+10,5 |
+
+palier 6 |
+
+5 |
+
+11 |
+
+palier 6-15 secondes |
+
+6 |
+
+11,5 |
+
+palier 6-30 secondes |
+
+7 |
+
+12 |
+
+palier 6-45 secondes |
+
+8 |
+
+12,5 |
+
+palier 7 |
+
+8,5 |
+
+13 |
+
+palier 7-15 secondes |
+
+9 |
+
+13,5 |
+
+palier 7-30 secondes |
+
+9,5 |
+
+14 |
+
+palier 7-45 secondes |
+
+10 |
+
+14,5 |
+
+palier 8 |
+
+10,5 |
+
+15 |
+
+palier 8-15 secondes |
+
+11 |
+
+15,5 |
+
+palier 8-30 secondes |
+
+11,5 |
+
+16 |
+
+palier 8-45 secondes |
+
+12 |
+
+16,5 |
+
+palier 9 |
+
+12,5 |
+
+17 |
+
+palier 9-15 secondes |
+
+13 |
+
+17,5 |
+
+palier 9-30 secondes |
+
+13,5 |
+
+18 |
+
+palier 9-45 secondes |
+
+14 |
+
+18,5 |
+
+palier 10 |
+
+14,5 |
+
+19 |
+
+palier 10-15 secondes |
+
+15 |
+
+19,5 |
+
+palier 10-30 secondes |
+
+15,5 |
+
+20 |
+
+palier 10-45 secondes |
+
+16 |
+
+20 |
+
+palier 11 |
+
+16,5 |
+
+20 |
+
+palier 11-15 secondes |
+
+17 |
+
+20 |
+
+palier 11-30 secondes |
+
+17,5 |
+
+20 |
+
+palier 11-45 secondes |
+
+18 |
+
+20 |
+
+palier 12 |
+
+18,5 |
+
+20 |
+
+palier 12-15 secondes |
+
+19 |
+
+20 |
+
+palier 12-30 secondes |
+
+19,5 |
+
+20 |
+
+palier 12-45 secondes |
+
+20 |
+
+(*) Barèmes correspondant aux performances d'un candidat âgé, au 1er janvier de l'année de la première épreuve du concours, de moins de 30 ans. Il est ajouté : 1 point aux candidats âgés de 30 à 40 ans et 2 points aux candidats âgés de plus de 40 ans.
+
+NOTA :
+
+Conformément à l’article 3 de l’arrêté du 9 octobre 2026 (NOR : ATDB2613319A), les concours et les examens professionnels d'accès aux cadres d'emplois concernés par ledit arrêté, ouverts avant son entrée en vigueur, se poursuivent jusqu'à leur terme, dans les conditions fixées par l’arrêté d’ouverture.
