@@ -1190,27 +1190,25 @@ Tereos Starch & Sweeteners
 
 |
 
-143540
+111 679
 
 |
 
-143540
+107 274
 
 |
 
-108241
+102 562
 
 |
 
-95709
+85 782 |
+
+66 148
 
 |
 
-95709
-
-|
-
-586739 |
+473 445 |
 
 FR000000000000056
 
@@ -1996,27 +1994,23 @@ Les Dérivés Résiniques et Terpéniques
 
 |
 
-36409
+36 409 |
+
+35 582 |
+
+34 643
 
 |
 
-35582
+33 705
 
 |
 
-34643
+32 683
 
 |
 
-33705
-
-|
-
-32767
-
-|
-
-173106
+173 022
 
 |
 
@@ -4740,27 +4734,23 @@ NaTran
 
 |
 
-4399
+4 399 |
+
+1 748 |
+
+3 936
 
 |
 
-1748
+7 168
 
 |
 
-3936
+6 692
 
 |
 
-7168
-
-|
-
-7168
-
-|
-
-24419
+23 943
 
 |
 
@@ -4882,27 +4872,27 @@ TEREOS France
 
 |
 
-68366
+68 366
 
 |
 
-68366
+68 366
 
 |
 
-68366
+68 366
 
 |
 
-68366
+68 366
 
 |
 
-68366
+83 609
 
 |
 
-341830
+357 073
 
 |
 
@@ -4918,27 +4908,25 @@ TEREOS STARCH & SWEETENERS EUROPE
 
 |
 
-7954
+7 954
 
 |
 
-7954
+7 954
 
 |
 
-7954
+7 954
 
 |
 
-7954
+106
 
 |
 
-7954
+- |
 
-|
-
-39770
+23 298
 
 |
 
@@ -5798,27 +5786,25 @@ CRISTAL UNION
 
 |
 
-39070
+39 070
 
 |
 
-39070
+39 070
 
 |
 
-36182
+36 182
 
 |
 
-39665
+39 665
 
 |
 
-31581 |
+39 340 |
 
-185568
-
-|
+193 327 |
 
 FR000000000000273
 
@@ -5832,27 +5818,27 @@ SNC RENAULT SANDOUVILLE
 
 |
 
-6659
+6 659
 
 |
 
-6893
+6 893
 
 |
 
-5126
+5 126
 
 |
 
-4771
+4 771
 
 |
 
-6254
+5 414
 
 |
 
-29703
+28 863
 
 |
 
@@ -6594,25 +6580,23 @@ Taranis du Rouvray
 
 |
 
-3098
+3 098 |
+
+2 874
 
 |
 
-2874
+3 179
 
 |
 
-3179
+2 921 |
+
+1 807
 
 |
 
-2921 |
-
-2840
-
-|
-
-14912
+13 879
 
 |
 
@@ -7366,27 +7350,27 @@ PANNEAUX DE CORREZE
 
 |
 
-21024
+21 024
 
 |
 
-21277
+21 277
 
 |
 
-26964
+26 964
 
 |
 
-21024
+20 325
 
 |
 
-21693
+23 957
 
 |
 
-111982
+113 547
 
 |
 
@@ -8298,11 +8282,11 @@ FR000000000000385
 
 |
 
-Rhodia opérations etablissement du Pont de Claix
+VEGA ENERGIES PONT DE CLAIX
 
 |
 
-Rhodia Opérations
+VEGA ENERGIES
 
 |
 
@@ -10482,25 +10466,25 @@ Novasco
 
 Novasco |
 
-34756
+34 756
 
 |
 
-41400 |
+41 400 |
 
-51217
-
-|
-
-40352
+51 217
 
 |
 
-40352
+40 352
 
 |
 
-208077
+26 537
+
+|
+
+194 262
 
 |
 
@@ -14480,11 +14464,11 @@ FR000000000000675
 
 |
 
-LESAFFRE FRERES
+CRISTAL UNION Etablissement de NANGIS
 
 |
 
-SAS Lesaffre Frères
+CRISTAL UNION
 
 |
 
@@ -17080,11 +17064,11 @@ STERIMED SAS
 
 |
 
-0
+3 238
 
 |
 
-0
+3 238
 
 |
 
@@ -17864,27 +17848,27 @@ LANA PAPIERS SPECIAUX II
 
 |
 
-1692
+1 692
 
 |
 
-1692
+1 692
 
 |
 
-1692
+1 692
 
 |
 
-1692
+-
 
 |
 
-1692
+-
 
 |
 
-8460
+5 076
 
 |
 
@@ -18122,7 +18106,7 @@ Compagnie pour la Cogénération de Rixheim (COGERI)
 
 |
 
-0
+-
 
 |
 
@@ -19512,25 +19496,23 @@ ASCODUNES
 
 |
 
-12913
+12 913
 
 |
 
-6916 |
+6 916 |
 
-5391
-
-|
-
-4484
+5 391
 
 |
 
-4484 |
-
-34188
+4 484
 
 |
+
+2 654 |
+
+32 358 |
 
 FR000000000000928
 
@@ -22412,27 +22394,25 @@ TEREOS France
 
 |
 
-70643
+70 643
 
 |
 
-52825
+52 825 |
+
+52 165
 
 |
 
-52165
+54 290
 
 |
 
-54290
+51 404
 
 |
 
-47586
-
-|
-
-277509
+281 327
 
 |
 
@@ -22748,33 +22728,35 @@ FR000000000001091
 
 |
 
-Heidelberg Materials France Ciments-Usine de Beffes
+Heidelberg Materials France
+
+Ciments usine de Beffes
 
 |
 
 Heidelberg Materials France Ciments |
 
-270381
+270 381
 
 |
 
-270381
+270 381
 
 |
 
-270381
+270 381
 
 |
 
-270381
+270 381
 
 |
 
-270381
+14 510
 
 |
 
-1351905
+1 096 034
 
 |
 
@@ -30706,11 +30688,11 @@ FR000000000206303
 
 |
 
-Arcelormittal Building Solutions France
+ArcelorMittal Building Solutions France - site 1 Contrisson
 
 |
 
-ArcelorMittal Construction France Site 1 Contrisson
+ArcelorMittal Building Solutions France
 
 |
 
@@ -30742,11 +30724,11 @@ FR000000000206305
 
 |
 
-Arcelormittal Building Solutions France
+ArcelorMittal Building Solutions France - site 2 Contrisson
 
 |
 
-ArcelorMittal Construction France Site 2 Contrisson
+ArcelorMittal Building Solutions France
 
 |
 
@@ -31276,13 +31258,13 @@ EUROVIA GRANDS PROJETS France
 
 |
 
-619
+153
 
 |
 
-329 |
+- |
 
-3374 |
+2 579 |
 
 FR000000000206367
 
@@ -32128,27 +32110,25 @@ SOFIVO
 
 |
 
-4185
+4 185
 
 |
 
-4185
+4 185
 
 |
 
-4185
+4 185
 
 |
 
-4162
+4 162
 
 |
 
-4162
+2 087 |
 
-|
-
-20879
+18 804
 
 |
 
@@ -33140,11 +33120,11 @@ FR000000000209463
 
 |
 
-INTERXION PAR3
+PAR3
 
 |
 
-INTERXION France
+Digital Realty France
 
 |
 
@@ -33176,11 +33156,11 @@ FR000000000209464
 
 |
 
-INTERXION PAR5
+PAR5
 
 |
 
-INTERXION France
+Digital Realty France
 
 |
 
@@ -33212,11 +33192,11 @@ FR000000000209465
 
 |
 
-INTERXION PAR7
+PAR7
 
 |
 
-INTERXION France
+Digital Realty France
 
 |
 
@@ -35468,17 +35448,15 @@ CL Dunkerque
 
 |
 
-/
+16 075
 
 |
 
-/
+15 318
 
 |
 
-1198
-
-|
+32 591 |
 
 FR000000000215160
 
@@ -36276,11 +36254,11 @@ FR000000000215740
 
 |
 
-INTERXION PAR8
+Paris Digital Park
 
 |
 
-INTERXION France
+Digital Realty France
 
 |
 
@@ -36464,25 +36442,25 @@ WIZPAPER
 
 |
 
-27006
+27 006
 
 |
 
-26412
+26 412
 
 |
 
-25818 |
+25 818 |
 
-21430
-
-|
-
-21064
+21 430
 
 |
 
-121730
+15 812
+
+|
+
+116 478
 
 |
 
@@ -36562,11 +36540,11 @@ FR000000000216261
 
 |
 
-INTERXION PAR12
+PAR12
 
 |
 
-INTERXION France
+Digital Realty France
 
 |
 
@@ -37590,11 +37568,11 @@ FR000000000220060
 
 |
 
-DIGITAL LES ULIS
+PAR13-14 DIGITAL LES ULIS SNC
 
 |
 
-DIGITAL LES ULIS
+DIGITAL LES ULIS SNC
 
 |
 
@@ -38086,7 +38064,7 @@ ENERGIE VERTE DE CAEN LA MER |
 
 / |
 
-FR-new-100031960 |
+FR000000000235024 |
 
 DIGITAL MRS5
 
@@ -38126,7 +38104,7 @@ ALTER SERVICES |
 
 / |
 
-FR-new-006109449 |
+FR000000000233941 |
 
 Site de Roussillon
 
@@ -38146,7 +38124,7 @@ AIR LIQUIDE HYDROGENE |
 
 / |
 
-FR-new-006401640 |
+FR000000000235028 |
 
 DIGITAL MRS6
 
@@ -38226,7 +38204,7 @@ DOMBASLE ENERGIE |
 
 / |
 
-FR-new-100004012 |
+FR000000000233764 |
 
 Champigny 2
 
@@ -38326,7 +38304,7 @@ TELEHOUSE INT CORPORATION EUROPE LIMITED |
 
 / |
 
-FR-new-006111084
+FR000000000234955
 
 |
 
@@ -38346,13 +38324,53 @@ ENGIE ENERGIE SERVICES |
 
 / |
 
-FR-new-005501327
+FR000000000234834
 
 |
 
 GLATFELTER SCAER SAS |
 
 GLATFELTER SCAER SAS |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-100053123
+
+|
+
+Chaufferie de la Ribière |
+
+LIMOGES SUD ENERGIES SERVICES |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-100285395
+
+|
+
+Chaufferie de Puy Imbert |
+
+LIMOGES CENTRE ENERGIES SERVICES |
 
 / |
 
@@ -39068,11 +39086,11 @@ FR-new-006302581
 
 |
 
-SAVED
+PAPREC ENERGIES 49
 
 |
 
-SAVED
+PAPREC ENERGIES 49
 
 |
 
