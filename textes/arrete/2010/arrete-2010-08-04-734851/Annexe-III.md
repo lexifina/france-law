@@ -10,9 +10,7 @@ BRANCHES |
 
 PRÉSIDENCE
 
-de la commission
-
-titulaire |
+de la commission titulaire |
 
 PRÉSIDENCE
 
@@ -36,7 +34,7 @@ L'officier adjoint police judiciaire de la région ou à défaut, le commandant 
 
 L'officier adjoint commandement de la région, ou à défaut, l'officier le plus ancien dans le grade le plus élevé d'une division de la région (1). |
 
-(1) Pour la région de gendarmerie implantée au siège de la zone de défense et de sécurité d'Île-de-France, lire le chef d'état-major. |
+(1) Pour la région de gendarmerie implantée au siège de la zone de défense et de sécurité d'Ile-de-France, lire le chef d'état-major. |
 
 Gendarmerie de l'air et de l'espace. |
 
@@ -88,9 +86,7 @@ BRANCHES |
 
 PRÉSIDENCE
 
-de la commission
-
-titulaire |
+de la commission titulaire |
 
 PRÉSIDENCE
 
@@ -122,7 +118,7 @@ Le commandant des maisons militaires ou le commandant des maisons militaires par
 
 L'administrateur, régisseur des formations musicales de la garde républicaine ou l'administrateur régisseur des formations musicales de la garde républicaine par suppléance. |
 
-(1) Pour la région de gendarmerie implantée au siège de la zone de défense et de sécurité d'Île-de-France, lire chef d'état-major. |
+(1) Pour la région de gendarmerie implantée au siège de la zone de défense et de sécurité d'Ile-de-France, lire chef d'état-major. |
 
 3. Branches communes aux deux subdivisions d'arme :
 
@@ -130,9 +126,7 @@ BRANCHES |
 
 PRÉSIDENCE
 
-de la commission
-
-titulaire |
+de la commission titulaire |
 
 PRÉSIDENCE
 
@@ -206,7 +200,7 @@ L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel. 
 
 Le chef du bureau du personnel sous-officier de gendarmerie et volontaire.
 
-Le commandant de chaque formation concernée ou un officier supérieur de la gendarmerie nationale par formation concernée comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur. Ces membres sont désignés par le directeur des ressources humaines de la gendarmerie nationale. |
+Le commandant de chaque formation concernée, un officier général ou un officier supérieur de la gendarmerie nationale par formation concernée comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur. Ces membres sont désignés par le directeur des ressources humaines de la gendarmerie nationale. |
 
 Personnel servant au sein du groupe d'intervention de la gendarmerie nationale. |
 
@@ -246,13 +240,13 @@ de la commission titulaire |
 
 PRÉSIDENCE
 
-de la commission suppléante |
+de la commission
+
+suppléante |
 
 MEMBRES |
 
-Aéronautique,
-
-pilotes.
+Aéronautique, pilotes.
 
 Aéronautique, mécaniciens cellules et moteurs.
 
