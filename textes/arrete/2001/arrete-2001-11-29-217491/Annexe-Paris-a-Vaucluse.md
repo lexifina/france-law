@@ -462,15 +462,19 @@ DIRECTION DÉPARTEMENTALE DES TERRITOIRES DES YVELINES
 
 Fonction exercée |
 
-Niveau de qualification de l'emploi |
+Niveau de qualification
+
+de l'emploi |
 
 Nombre
 
 d'emplois |
 
-Nombre de points (IM) par emploi |
+Nombre de points
 
-Chef de l'unité rénovation urbaine-Unité rénovation urbaine-Service habitat et rénovation urbaine |
+(IM) par emploi |
+
+Chef de l'Unité Rénovation Urbaine - Unité Rénovation Urbaine - Service Habitat et Rénovation Urbaine |
 
 A |
 
@@ -478,7 +482,7 @@ A |
 
 30 |
 
-Chef du service habitat et rénovation urbaine |
+Chef du Service Habitat et Rénovation Urbaine - Service Habitat et Rénovation Urbaine |
 
 A |
 
@@ -486,7 +490,7 @@ A |
 
 15 |
 
-Chef d'unité du Parc privé et résorption de l'habitat indigne-Unité parc privé et résorption de l'habitat indigne-Service habitat et rénovation urbaine |
+Chef de l'Unité du Parc Privé et Résorption de l'Habitat Indigne - Unité du Parc Privé et Résorption de l'Habitat Indigne - Service Habitat et Rénovation Urbaine |
 
 A |
 
@@ -494,7 +498,7 @@ A |
 
 15 |
 
-Adjoint au chef d'unité rénovation urbaine-Unité rénovation urbaine-Service habitat et rénovation urbaine |
+Adjoint au chef de l'Unité Rénovation Urbaine - Unité Rénovation Urbaine - Service Habitat et Rénovation Urbaine |
 
 B |
 
@@ -502,7 +506,7 @@ B |
 
 20 |
 
-Chef de projet-Chargé de mission taxe foncière sur les propriétés bâties au sein de l'unité rénovation urbaine-Unité rénovation urbaine-Service habitat et rénovation urbaine |
+Chargé de projets de rénovation urbaine - Unité Rénovation Urbaine - Service Habitat et Rénovation Urbaine |
 
 B |
 
@@ -510,7 +514,7 @@ B |
 
 20 |
 
-Assistant chargé d'instruction des dossiers rénovation urbaine-Service habitat et rénovation urbaine |
+Instructeur lutte contre l'habitat indigne - Unité du Parc Privé et Résorption de l'Habitat Indigne - Service Habitat et Rénovation Urbaine |
 
 C |
 
@@ -518,7 +522,7 @@ C |
 
 10 |
 
-Assistant de service-Pôle mutualisé de secrétariat |
+Assistant de service - Pôle mutualisé de secrétariat |
 
 C |
 
