@@ -20,11 +20,11 @@ en colonne (1) pour la délivrance du brevet d'officier électrotechnicien
 
 (2) |
 
-1. Diplôme d'officier chef de quart machine délivré conformément aux dispositions de l'arrêté du 10 juillet 2014 relatif au cursus de formation initiale pour l'obtention des diplômes d'officier chef de quart machine et de chef mécanicien 8 000 kW |
+1. Diplôme d'officier chef de quart machine délivré conformément aux dispositions de l'arrêté du 10 juillet 2014 relatif au cursus de formation initiale pour l'obtention des diplômes d'officier chef de quart machine et de chef mécanicien 8 000 kW ou de l'arrêté du 25 janvier 2023 relatif au cursus de formation initiale pour l'obtention des diplômes d'officier chef de quart machine et de chef mécanicien 8 000 kW. |
 
 Satisfaire aux conditions fixées aux 1°, 2° et 4° à 9° de l'article 20. |
 
-2. Diplôme d'études supérieures de la marine marchande délivré conformément à l'arrêté du 30 juin 2014 relatif au cursus de formation pour l'obtention du diplôme d'élève officier de 1re classe de la marine marchande et du diplôme d'études supérieures de la marine marchande |
+2. Diplôme d'études supérieures de la marine marchande délivré conformément à l'arrêté du 30 juin 2014 relatif au cursus de formation pour l'obtention du diplôme d'élève officier de 1re classe de la marine marchande et du diplôme d'études supérieures de la marine marchande ou à l'arrêté du 25 janvier 2023 relatif au cursus de formation pour l'obtention du diplôme d'élève officier de 1re classe de la marine marchande et du diplôme d'études supérieures de la marine marchande. |
 
 Tableau 2
 
