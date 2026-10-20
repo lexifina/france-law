@@ -1,0 +1,9 @@
+# Réponse à la question n° 15050
+
+- Question : [15050](15050.md) — Question n° 15050 — Dégrèvement de la taxe d'assainissement pour les brasseurs
+
+## Réponse
+
+*JO du 2026-10-20, page 9742*
+
+Cette redevance, prévue à l'article L. 213-10-4 du code de l'environnement, est assise sur le volume d'eau facturé à toute personne abonnée à un service d'eau potable. Elle permet ainsi d'accentuer le signal-prix associé à la consommation d'eau potable, sans distinguer entre consommation domestique et consommation non domestique. Sont toutefois exclus de cette assiette d'imposition les volumes d'eau faisant l'objet d'un comptage spécifique qui sont utilisés pour l'élevage. Cette exemption est issue d'un amendement sénatorial au projet de loi de finances pour 2024 qui entendait éviter qu'une charge fiscale nouvelle ne pèse de façon disproportionnée sur les éleveurs sans que ceux-ci n'aient pu prévoir des solutions alternatives pour l'abreuvement du bétail. Le fait que l'eau potable facturée soit ou non rejetée dans un réseau d'assainissement est en revanche indifférent pour le bénéfice de cette exemption ou le calcul de la redevance sur la consommation d'eau potable. Par conséquent, instaurer, au bénéfice des seuls brasseurs, un mécanisme de déduction tenant compte du volume d'eau utilisé pour produire de la bière serait incohérente avec la logique et le fonctionnement d'ensemble de la redevance sur la consommation potable. Le Gouvernement accorde néanmoins la plus grande attention à la santé économique de ce secteur dynamique mais fragile au regard du nombre élevé de micro-entreprises qui le compose. Pour cette raison et malgré le contexte budgétaire contraint qui est celui de notre pays, il entend maintenir le régime des petits producteurs qui permet d'exonérer de moitié l'accise sur les alcools due par les opérateurs produisant moins de 200 000 hectolitres par an.
