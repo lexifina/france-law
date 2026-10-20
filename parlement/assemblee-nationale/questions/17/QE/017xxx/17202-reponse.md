@@ -1,0 +1,9 @@
+# Réponse à la question n° 17202
+
+- Question : [17202](17202.md) — Question n° 17202 — Transposition directive pour le permis de conduire
+
+## Réponse
+
+*JO du 2026-10-20, page 9834*
+
+La directive (UE) 2025/2205 du Parlement européen et du Conseil du 22 octobre 2025 relative au permis de conduire vise à établir ou renforcer des mesures juridiques communes pour la reconnaissance et la délivrance des permis de conduire dans l'Union afin de renforcer la sécurité routière, de prendre en compte les évolutions technologiques et de faciliter la libre circulation. Lors de son processus d'adoption, la France a soutenu l'introduction de modalités alternatives à l'examen médical obligatoire. En effet, les bénéfices d'un examen médical périodique obligatoire sur la sécurité routière ne sont pas clairement établis. Différentes études montrent l'absence de bénéfice tangible d'une généralisation de l'examen médical sur la sécurité routière, quelles que soient les tranches d'âge concernées. De plus, une généralisation de l'examen médical d'aptitude, qui nécessiterait un recours aux médecins traitants, du fait du nombre d'avis médicaux supplémentaires (environ 2,5 millions par an), ferait peser une charge excessive sur le système de santé pour évaluer correctement tous les candidats au permis de conduire. Si l'article 11 de la directive prévoit la mise en œuvre d'un contrôle médical afin de pouvoir délivrer pour la première fois ou renouveler les catégories A ou B du permis de conduire, les Etats membres peuvent mettre en place de manière alternative une auto-évaluation. Le Gouvernement privilégie cette solution dont le cadre de mise en œuvre reste à déterminer. Les Etats membres disposent d'un délai de 4 ans pour transposer les nouvelles mesures de cette directive en droit interne, soit jusqu'au 25 novembre 2029.
