@@ -1,0 +1,9 @@
+# Réponse à la question n° 16673
+
+- Question : [16673](16673.md) — Question n° 16673 — Démarches administratives, dématérialisation, accès au service public
+
+## Réponse
+
+*JO du 2026-10-20, page 9832*
+
+L'application « RDV Préfecture » a remplacé en 2023 l'ancien module de prise de rendez-vous. Depuis son déploiement sur l'ensemble du territoire, environ 160 000 rendez-vous par mois sont réservés en ligne au niveau national. En 2026, une réservation sur la plateforme permet d'obtenir un rendez-vous en 27 jours en moyenne. Concernant la lutte contre la captation de créneaux de rendez-vous à des fins de revente, plusieurs mesures ont été mises en place dès la création de la plateforme et continuent d'être ajustées. Par exemple, des captcha anti-robots ont été installés en début de démarche, des protections techniques limitent les sollicitations excessives du service et des contrôles automatisés sur le formulaire empêchent la réservation de plusieurs rendez-vous par un même usager ou la réservation d'un rendez-vous avec un numéro étranger invalide pour les démarches étrangers. Des nouvelles fonctionnalités sont proposées régulièrement aux utilisateurs et comprendront notamment de nouvelles interconnexions avec d'autres bases de données de l'administration pour mieux contrôler l'identité des usagers réservant des rendez-vous en ligne, la sécurisation des convocations générées par l'application pour y intégrer des systèmes de QR codes, l'amélioration des protections techniques de l'application afin d'empêcher la réservation par des robots et un renforcement de la communication auprès des usagers pour les informer de la gratuité et de la facilité de la démarche et pour les avertir des risques de revente. Enfin, concernant le développement d'intiatives privées, les préfectures signalent aux autorités judiciaires toute situation qu'elles jugent problématique afin que les faits soient caractérisés et qu'une réponse répressive y soit apportée.
