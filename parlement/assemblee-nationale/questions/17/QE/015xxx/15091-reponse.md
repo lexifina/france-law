@@ -1,0 +1,9 @@
+# Réponse à la question n° 15091
+
+- Question : [15091](15091.md) — Question n° 15091 — Place du braille et accessibilité scolaire des élèves aveugles et malvoyants
+
+## Réponse
+
+*JO du 2026-10-20, page 9793*
+
+La scolarisation des élèves en situation de handicap demeure une priorité pour le Gouvernement, notamment pour les élèves aveugles et malvoyants, conformément à l'article L. 112-1 du code de l'éducation. À la rentrée 2025, 4 821 élèves présentant des troubles de la fonction visuelle sont scolarisés en milieu ordinaire (2 012 dans le premier degré, 2 809 dans le second degré). L'apprentissage du braille, papier comme numérique, constitue pour eux un levier essentiel d'accès à l'écrit, aux savoirs et à l'autonomie. Dès qu'un besoin est identifié, les moyens de compensation et adaptations pédagogiques sont mis en œuvre à tout moment de la scolarité, en lien avec la famille, les équipes pédagogiques et les services médico-sociaux. Les organismes d'adaptation habilités peuvent être sollicités pour transcrire les supports en braille ; une anticipation précoce, notamment en fin d'année scolaire pour les manuels, est encouragée pour respecter les délais. La formation des personnels est un autre levier clé : les enseignants spécialisés sont titulaires du Certificat d'Aptitude Professionnelle aux Pratiques de l'Éducation Inclusive (CAPPEI) avec des modules d'approfondissement sur les troubles visuels, et peuvent aussi suivre les modules de formation nationale (MIN) proposés par l'Institut National Supérieur de Formation et de Recherche pour l'Education Inclusive (INSEI). Le ministère encourage enfin l'usage de solutions numériques adaptées, déployées en lien avec les collectivités territoriales. Exemple notable : Natbraille 3.0, éditeur collaboratif pour élèves voyants et déficients visuels, lauréat 2024 du dispositif Édu-Up. Ces ressources sont mises à disposition des enseignants et élèves, gratuitement pour la plupart.
