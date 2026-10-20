@@ -1,0 +1,9 @@
+# Réponse à la question n° 14988
+
+- Question : [14988](14988.md) — Question n° 14988 — Système d'immatriculation des véhicules
+
+## Réponse
+
+*JO du 2026-10-20, page 9822*
+
+La mise en place du coffre-fort numérique pour l'archivage des dossiers d'immatriculations par les professionnels de l'automobile habilités est une condition d'habilitation pour télétransmettre dans le Système d'immatriculation des véhicules (SIV) depuis l'entrée en vigueur de l'arrêté du 1er juillet 2025 modifiant l'arrêté du 9 février 2009 relatif aux modalités d'immatriculation des véhicules (articles 18-8 et 18-9). En application de ces dispositions, le coffre-fort numérique doit être conforme aux normes de sécurité en vigueur (AFNOR NZ Z42-020) et les dossiers sont archivés de manière dématérialisée pour une durée de cinq ans. Le dispositif permet aux services du ministère de l'intérieur et au préfet de consulter les dossiers traités à distance à des fins de contrôle de l'activité du professionnel. La mesure s'inscrit dans une démarche de sécurisation des procédures d'immatriculation et de lutte contre la fraude. Elle permet en effet de garantir la conservation des pièces justificatives, de renforcer la traçabilité des opérations des professionnels habilités et de faciliter les contrôles réalisés par les services de l'État. Une attention particulière est portée à la simplicité d'utilisation de l'outil par les professionnels. Outre l'accompagnement des professionnels de l'automobile par leurs préfectures de rattachement, une foire aux questions et des webinaires seront mis en place en septembre 2026. Enfin, cette mesure ne devrait avoir aucun impact sur le maillage territorial du service rendu à l'usager, puisque les entreprises ne disposant pas de coffre-fort numérique peuvent réaliser leurs opérations d'immatriculation à partir du compte professionnel du portail France Titres.
