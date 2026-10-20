@@ -1,0 +1,9 @@
+# Réponse à la question n° 13267
+
+- Question : [13267](13267.md) — Question n° 13267 — Reconnaissance urgente de l'état de catastrophe naturelle
+
+## Réponse
+
+*JO du 2026-10-20, page 9817*
+
+Le mois de février 2026 a été le mois le plus pluvieux depuis 1959. Les précipitations soutenues et répétées depuis le début de l'année ont provoqué d'importantes crues qui ont particulièrement touché la Gironde.Pour faire face à l'urgence, le Gouvernement a engagé la procédure accélérée de reconnaissance de l'état de catastrophe naturelle dès le 19 février. Par arrêté du 25 février, 91 premières communes de Gironde, dont 33 situées dans la 12e circonscription, ont été reconnues en état de catastrophe naturelle pour le phénomène d'inondation.Au total, 139 communes ont déposé une demande de reconnaissance en Gironde pour cet épisode climatique : 115 communes ont reçu un avis favorable et 17 demandes ont été rejetées. Concernant plus spécifiquement la 12e circonscription de Gironde, sur les 44 communes ayant déposé un dossier, 39 communes ont été reconnues en état de catastrophe naturelle. La mise en œuvre de la garantie catastrophe naturelle est strictement encadrée par le code des assurances. Pour décider de la reconnaissance d'une commune, l'autorité administrative est tenue de se prononcer sur l'intensité anormale de l'agent naturel à l'origine des dégâts et non sur l'importance des dégâts eux-mêmes. Cette reconnaissance intervient seulement lorsque le caractère exceptionnel de l'événement est avéré au regard des critères en vigueur et sur la base de rapports d'expertise. Ces rapports n'ont ainsi pas justifié une intensité anormale pour les demandes de Carignan-de-Bordeaux, Frontenac, Laroque, Massugas et Porte-de-Benauge, communes qui ne sont pas traversées par la Dordogne ou la Garonne.
