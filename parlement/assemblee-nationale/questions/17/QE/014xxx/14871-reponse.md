@@ -1,0 +1,9 @@
+# Réponse à la question n° 14871
+
+- Question : [14871](14871.md) — Question n° 14871 — Frais de déplacement des réservistes opérationnels de la gendarmerie nationale
+
+## Réponse
+
+*JO du 2026-10-20, page 9821*
+
+Les modalités de remboursement des frais de déplacement des réservistes sont strictement encadrées par le décret n° 2009-545 du 14 mai 2009 fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements temporaires du personnel militaire. Conformément à l'article 3 de ce décret, les frais de déplacement sont remboursés sur présentation des titres de transport. À défaut de justificatifs, le remboursement est effectué sur la base du tarif SNCF militaire de 2e classe. Par ailleurs, en application de l'article 13, le militaire peut être autorisé par l'autorité militaire à utiliser son véhicule personnel lorsque l'intérêt du service le justifie. Dans ce cas, il bénéficie d'une indemnité kilométrique et peut également obtenir le remboursement des frais de péage ainsi que des frais de stationnement, dans la limite de 72 heures, sur présentation des justificatifs correspondants. En revanche, lorsque l'utilisation du véhicule personnel n'a pas été autorisée, aucun remboursement au titre des indemnités kilométriques ne peut être accordé. Le réserviste est alors remboursé selon les modalités prévues à l'article 3, sur la base des titres de transport ou, à défaut, du tarif SNCF militaire de 2e classe. Les réservistes ne disposant pas de carte de circulation militaire, ce remboursement peut être effectué sur la base du tarif SNCF de 2e classe à taux plein. Il est enfin rappelé que le choix entre un remboursement sur présentation des titres de transport (ou sur la base du tarif SNCF) et une indemnisation kilométrique relève de l'appréciation du commandement, en fonction des nécessités du service et des contraintes budgétaires.
