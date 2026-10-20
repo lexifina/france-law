@@ -1,0 +1,9 @@
+# Réponse à la question n° 16672
+
+- Question : [16672](16672.md) — Question n° 16672 — Délais de renouvellement des titres de séjour dans les Bouches-du-Rhône
+
+## Réponse
+
+*JO du 2026-10-20, page 9831*
+
+Dans un contexte d'augmentation des délais de traitement des demandes de titres de séjour, le ministre de l'intérieur a rappelé aux préfets la nécessité de lutter contre les ruptures de droits (instruction du 5 avril 2026 relative au renforcement de la stratégie en matière de réduction des délais de traitement des demandes de titre de séjour et de lutte contre les ruptures de droits). La diffusion de cette circulaire s'inscrit dans le cadre d'un plan d'action ambitieux du ministère de l'intérieur qui vise à simplifier les procédures, à faire évoluer les systèmes d'information tout en tirant profit des progrès numériques et à accompagner et piloter plus efficacement le réseau des préfectures afin d'assurer un traitement performant et sécurisé des demandes de titres de séjour. Ce plan d'action repose sur un ensemble de mesures structurantes qui ont pour objectifs de lutter plus efficacement contre les ruptures de droits et de réduire les délais de traitement afin de garantir la qualité de service due aux usagers. Au plan numérique, plusieurs mesures ont été mises en œuvre, dont le renouvellement automatique des attestations de prolongation d'instruction, qui est opérationnel depuis le 4 mai 2026. En parallèle, les dispositifs de formation, l'accompagnement et le pilotage du réseau des préfectures ont été renforcés et le parcours « usagers » est appelé à être mieux structuré. Des moyens significatifs (500 ETPT) ont par ailleurs été déployés à compter d'avril 2026 dans les services en charge du séjour des étrangers. Dans ce cadre, la préfecture des Bouches-du-Rhône bénéficie du renfort de 26 ETPT, prioritairement affectés au traitement des demandes de renouvellement de titres de séjour.
