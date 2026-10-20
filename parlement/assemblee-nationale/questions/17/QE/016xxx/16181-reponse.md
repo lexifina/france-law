@@ -1,0 +1,9 @@
+# Réponse à la question n° 16181
+
+- Question : [16181](16181.md) — Question n° 16181 — Révision de la carte de l'éducation prioritaire
+
+## Réponse
+
+*JO du 2026-10-20, page 9803*
+
+À la rentrée scolaire 2025, la carte de l'éducation prioritaire est constituée de 1 094 réseaux, dont 732 REP et 362 REP+. Issue de la refondation de 2014-2015, elle doit aujourd'hui être actualisée pour tenir compte des évolutions socio-économiques intervenues depuis dans les territoires. Des réflexions approfondies sont engagées au niveau national afin d'identifier les écoles et établissements nécessitant un accompagnement renforcé, en s'appuyant notamment sur des indicateurs sociaux et scolaires, parmi lesquels l'indice de position sociale. Cette révision doit garantir la cohérence et l'équité de la carte sur l'ensemble du territoire national. Elle suppose un important travail de préparation et de concertation, ainsi qu'une appréciation au cas par cas des réalités locales, au-delà de la seule application automatique de critères statistiques. À ce titre, aucune modification globale de la carte ne peut intervenir sans un calendrier sécurisé. Le Gouvernement ne méconnaît pas pour autant les situations les plus difficiles. Le ministère de l'éducation nationale a choisi d'apporter dès la rentrée 2026 des réponses ciblées aux situations les plus urgentes : 21 collèges et 69 écoles dans 11 académies bénéficient à la rentrée scolaire 2026 d'une attention particulière sur les effectifs par classe, d'un enseignant supplémentaire sur projet pédagogique pour les écoles élémentaires, ainsi que d'une indemnité transitoire et d'une bonification de mobilité pour les professeurs après trois ans d'exercice. Le ministère poursuit les travaux préparatoires à une révision de la carte de l'éducation prioritaire, tout en mobilisant dès à présent les leviers existants afin que les élèves et personnels confrontés aux difficultés les plus fortes ne demeurent pas sans accompagnement.
