@@ -1,0 +1,9 @@
+# Réponse à la question n° 16592
+
+- Question : [16592](16592.md) — Question n° 16592 — Protection des animaux sauvages non captifs
+
+## Réponse
+
+*JO du 2026-10-20, page 9873*
+
+La prévention des violences faites aux animaux est un sujet de préoccupation sociétale, qui trouve sa traduction dans nos textes juridiques. C'est ainsi que le délit d'acte de cruauté « envers un animal domestique ou apprivoisé ou tenu en captivité » a été introduit dans le code pénal par l'article 1er de la loi n° 63-1143 du 19 novembre 1963 relative à la protection des animaux. Ce délit a par la suite été partiellement redéfini, notamment avec l'ajout de la mention des sévices graves, par la loi n° 76-629 du 10 juillet 1976 relative à la protection de la nature, à son article 13. Plus récemment, l'adoption de la loi n° 2021-1539 du 30 novembre 2021 visant à lutter contre la maltraitance animale et conforter le lien entre les animaux et les hommes, est venue, quant à elle, renforcer les peines encourues pour ce délit figurant à l'article 521-1 du code pénal. Les animaux sauvages non captifs, vivant dans le milieu naturel et n'ayant donc pas de propriétaire, ne relèvent effectivement pas de ces dispositions. Pour autant, les atteintes envers ces animaux, lorsqu'ils appartiennent à l'une des nombreuses espèces protégées que compte notre réglementation, sont interdites par l'article L. 411-1 du code de l'environnement qui proscrit notamment leur mutilation, leur destruction, leur enlèvement, leur perturbation intentionnelle, leur utilisation et leur détention. L'article L. 415-3 de ce même code dispose que ces atteintes constituent un délit puni de trois ans d'emprisonnement et de 150 000 € d'amende. La protection des animaux, qu'ils soient domestiques ou sauvages, constitue une préoccupation constante du Gouvernement.
