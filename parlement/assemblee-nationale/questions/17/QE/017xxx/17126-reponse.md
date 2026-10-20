@@ -1,0 +1,9 @@
+# Réponse à la question n° 17126
+
+- Question : [17126](17126.md) — Question n° 17126 — Rente temporaire d'éducation des enfants de fonctionnaires orphelins
+
+## Réponse
+
+*JO du 2026-10-20, page 9751*
+
+Le décret n° 2024-555 du 17 juin 2024 relatif aux garanties en matière de risque décès des agents publics de l'État, des militaires et des ouvriers de l'État fait suite à un engagement du Gouvernement pris dans le cadre de l'accord interministériel du 20 octobre 2023 relatif à l'amélioration des garanties en prévoyance dans la fonction publique de l'État. En effet, par cet accord, le Gouvernement entend améliorer la protection sociale de ses agents, concernant le risque « décès » notamment. Ainsi, les articles 7, 8 et 9 de cet accord prévoient, d'une part, l'amélioration et l'extension du capital décès versé aux ayants droit des agents publics et, d'autre part, la création de rentes d'éducation pour les orphelins, notamment lorsqu'ils sont en situation de handicap. La création de ces rentes a nécessité l'intervention du législateur qui, par l'article 195 de la loi n° 2023-1322 du 29 décembre 2023 de finances pour 2024, a introduit un nouvel article L. 828-1-1 au code général de la fonction publique à cette fin. La rétroactivité en matière législative étant très encadrée, le législateur n'a pas prévu de dispositions pour les décès intervenus avant le 1er janvier 2024. Le décret du 17 juin 2024, intervenu postérieurement à la publication de la loi, n'a pu rétroagir qu'en tant qu'il appliquait la loi de finances pour 2024. Cette mesure ne heurte pas le principe d'égalité dès lors qu'il s'agit d'une succession de régimes différents dans le temps. Elle s'accompagne par nature d'effets de seuil qu'il n'est malheureusement pas possible de limiter. Pour toutes ces raisons, il n'est pas n'envisageable d'appliquer de manière rétroactive les nouvelles dispositions du régime de rentes pour les décès remontant au-delà du 1er janvier 2024
