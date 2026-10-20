@@ -1,0 +1,9 @@
+# Réponse à la question n° 16187
+
+- Question : [16187](16187.md) — Question n° 16187 — Fermetures de classes et encadrement des élèves dans les écoles parisiennes
+
+## Réponse
+
+*JO du 2026-10-20, page 9804*
+
+La loi de finances 2026 prévoit, pour le premier degré public, une création nette de 1 615 ETP à la rentrée 2026 : +3 506 ETP liés à la réforme de la formation initiale des enseignants, compensés en partie par une reprise démographique de -1 891 ETP. Les effectifs baissent de 107 601 élèves (-2 %), ce qui porte le taux d'encadrement à un niveau inédit de 6,23 professeurs pour 100 élèves ; le nombre moyen d'élèves par classe passe de 23,2 en 2017 à 21,09 prévus en 2026. Les moyens sont répartis selon des critères territoriaux et sociaux, à chaque échelon. Depuis 2023, les observatoires des dynamiques rurales et territoriales (ODRT) renforcent le dialogue avec les élus en amont des CDEN : sur une approche prospective à cinq ans, ils permettent de partager un diagnostic et d'anticiper l'évolution de l'offre scolaire. À Paris, les écoles publiques ont perdu 30 000 élèves en dix ans, soit un quart de leurs effectifs, dont 2 500 à la rentrée 2025 ; une nouvelle baisse de 2 275 élèves est prévue en 2026. Grâce aux dédoublements et plafonnements, la moyenne par classe ordinaire est passée de 23,4 en 2017 à 20,1 en 2025 (de 21,3 à 16,2 en éducation prioritaire, de 24,8 à 22,5 hors éducation prioritaire), l'un des niveaux les plus favorables de France. Pour la rentrée 2026, l'académie retire 81 ETP mais renforce, pour la deuxième année, le remplacement. Le taux P/E atteint 6,90, contre 6,73 en 2025 et 5,51 en 2017. La carte scolaire se solde par 120 classes en moins (162 fermetures, 42 ouvertures), avec 26 postes de remplaçants créés et 11 postes dédiés aux élèves à besoins particuliers.
