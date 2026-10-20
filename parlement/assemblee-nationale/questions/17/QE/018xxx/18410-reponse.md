@@ -1,0 +1,9 @@
+# Réponse à la question n° 18410
+
+- Question : [18410](18410.md) — Question n° 18410 — Population touristique réelle et dimensionnement des services publics
+
+## Réponse
+
+*JO du 2026-10-20, page 9755*
+
+La question de la prise en compte des variations saisonnières de population constitue un enjeu important pour les territoires touristiques, en particulier dans les espaces littoraux et de montagne. L'Insee a effectivement mis en évidence des écarts parfois très importants entre population résidente et population présente lors des pics de fréquentation touristique. Le Gouvernement partage donc le constat selon lequel le seul dénombrement des résidents permanents, tel que fourni par le recensement de la population, ne permet pas, à lui seul, de rendre compte de la charge effectivement supportée par certains territoires. PIusieurs mécanismes prennent déjà, directement ou indirectement, en considération la dimension touristique. C'est notamment le cas de la dotation globale de fonctionnement (DGF). Pour son calcul, la population communale est majorée, dans les conditions prévues par l'article L. 2334-2 du code général des collectivités territoriales, d'un habitant par résidence secondaire. Une majoration supplémentaire de 0,5 habitant par résidence secondaire existe également, sous certaines conditions, pour les communes de moins de 3 500 habitants particulièrement concernées par les résidences secondaires. Par ailleurs, les communes touristiques bénéficient d'un produit de taxe foncière et de taxe d'habitation sur les résidences secondaires supérieur à celui des communes non touristiques, à population de résidents permanents comparables. Ce surcroît de recettes de ficalité locale est de nature à favoriser la prise en compte des charges afférentes à l'accueil de touristes. Enfin, la taxe de séjour constitue également un levier bénéficiant aux communes dotées en capacité d'hébergement touristique.
