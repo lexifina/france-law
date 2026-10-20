@@ -1,0 +1,9 @@
+# Réponse à la question n° 14864
+
+- Question : [14864](14864.md) — Question n° 14864 — Recrutement des inspecteurs du permis de conduire et de la sécurité routière
+
+## Réponse
+
+*JO du 2026-10-20, page 9820*
+
+Conscient des difficultés d'accès rencontrées dans plusieurs territoires, le Gouvernement poursuit le renforcement des effectifs d'inspecteurs. Ainsi, 80 postes ont été ouverts au concours en 2026, afin de réduire les délais d'attente, notamment dans les départements présentant des tensions particulières. L'augmentation de la capacité d'examen vise à faciliter le passage de cette étape décisive pour les candidats. À cet effet, un plan d'action visant à réduire les délais a été lancé à l'été 2025. Ce plan a reçu un nouvel élan en 2026 avec la mise en place d'une task force et le lancement de la mission IGA, dont les actions sont coordonnées au niveau national et local. Par ailleurs, dans chaque département où le délai médian dépasse 80 jours, un comité de suivi a été instauré sous l'autorité du préfet, afin d'adapter localement la production de places d'examen. Des inspecteurs retraités sont également mobilisés ponctuellement pour renforcer les effectifs. Depuis la mise en œuvre du plan ministériel, la situation nationale s'est nettement améliorée, faisant passer le délai médian de 81 jours en janvier 2026 à 71 jours en août 2026. Cette baisse continue depuis janvier 2026 constitue la première baisse du délai médian annualisé depuis la crise sanitaire. Quatorze des quinze départements couverts par la task force ont ainsi inversé la tendance ascendante des délais. En Loire Atlantique, le délai médian annualisé s'établit à 66 jours, nettement inférieur à la moyenne nationale. Le Gouvernement demeure pleinement engagé à améliorer l'accès à l'examen du permis de conduire et à réduire les délais d'attente, en tenant compte des spécificités territoriales et en veillant à la continuité des mesures de renforcement des capacités d'examen.
