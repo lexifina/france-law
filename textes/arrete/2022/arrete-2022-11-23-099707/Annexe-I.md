@@ -118,7 +118,7 @@ L'éco-organisme remet au ministre de l'environnement, au plus tard deux ans apr
 
 2.2.3.1. Pratiques industrielles et commerciales
 
-A compter du 1er septembre 2026, les contributions financières versées par les producteurs à l'éco-organisme sont modulées selon les pénalités associées à la durabilité liée aux pratiques industrielles et commerciales selon les montants définis dans le tableau suivant :
+Les contributions financières versées par les producteurs à l'éco-organisme sont modulées selon les pénalités associées à la durabilité liée aux pratiques industrielles et commerciales selon les montants définis dans le tableau suivant :
 
 Condition d'application |
 
@@ -136,7 +136,7 @@ Année |
 
 2029 |
 
-A partir de 2030 |
+À partir de 2030 |
 
 Boxer/Slip |
 
