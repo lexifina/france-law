@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260508775
+
+- Question : [SEQ260508775](seq260508775.md) — Conditions d'accès aux dispositifs de l'association pour l'emploi des cadres pour les Français établis hors de France
+
+## Réponse
+
+*Travail et solidarités, JO du 2026-10-22, page 5112*
+
+A titre liminaire, il est rappelé que l'inscription sur la liste des demandeurs d'emploi est conditionnée à la résidence en France. Dès lors, l'offre de services du réseau pour l'emploi destinée uniquement aux usagers bénéficiant du statut de demandeur d'emploi n'est pas accessible aux Français résidant à l'étranger. Toutefois, conscient de l'enjeu de retour à l'emploi de ce public spécifique, plusieurs membres du Réseau pour l'emploi (RPE), dont notamment l'opérateur France Travail et l'Association pour l'emploi des cadres (APEC), déploient une communication et une offre de services spécifiques. France Travail, dans sa mission d'accompagnement vers l'emploi, déploie un accès en ligne sur son espace candidat. De plus, les Français résidant à l'étranger peuvent bénéficier d'une information et d'outils adaptés à leurs besoins. A titre d'exemple, l'opérateur organise des webinaires d'information bimensuels dédiés aux Français expatriés et propose l'accès à des outils de recherche d'emploi et de valorisation des compétences spécifiques dont le Ba-BA « Retour de mobilité ». Les Français résidant à l'étranger peuvent également bénéficier d'une offre de services de l'APEC. Les services en ligne (création de profil, visibilité des recruteurs, offres d'emploi ciblées, notamment) sont accessibles depuis l'étranger, de même que l'accompagnement par des conseillers spécialisés dans la mobilité internationale. Des sessions d'information et d'ateliers en ligne à destination du public des Français expatriés sont également régulièrement organisées.
