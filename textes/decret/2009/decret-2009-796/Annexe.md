@@ -192,9 +192,7 @@ I. ― Des services aux identités renouvelées
 
 Article 1er
 
-Les services de communication audiovisuelle
-
-offerts par France Télévisions
+Les services de communication audiovisuelle offerts par France Télévisions
 
 France Télévisions est chargée de concevoir et de programmer des émissions de télévision à caractère national, régional et local ainsi que des émissions de radio ultra-marines. Elle conçoit également et met à disposition du public des services de médias audiovisuels à la demande.
 
@@ -259,6 +257,10 @@ Dans le respect de son indépendance éditoriale, ce service peut être financé
 France Télévisions assure également la continuité territoriale des programmes des services de télévision et de radio édités par les sociétés nationales de programme ou leurs filiales répondant à des missions de service public, de la métropole vers l'outre-mer et de l'outre-mer vers la métropole.
 
 La programmation quotidienne des Outre-mer La 1ère comprend des journaux d'information concernant l'actualité locale, régionale, nationale et internationale. Ces services programment des émissions traitant de la vie des populations d'outre-mer à travers leur culture, leur histoire, leurs traditions et leurs spécificités économiques et sociales.
+
+5° bis France Télévisions peut éditer des services de télévision distribués par des réseaux de communications électroniques n'utilisant pas de fréquences assignées par l'Autorité de régulation de la communication audiovisuelle et numérique qui contribuent à l'accomplissement de ses missions de service public en prolongeant, complétant et enrichissant l'offre des services précédemment énumérés.
+
+Elle édite en particulier une chaîne régionale dédiée à la valorisation de la Nouvelle-Aquitaine par la diffusion de programmes consacrés à la culture et à la découverte de cette région, une chaîne sportive améliorant notamment la visibilité du sport semi-professionnel et amateur, des chaînes thématiques destinées à mieux exposer les œuvres audiovisuelles.
 
 6° France Télévisions édite, directement ou à travers des filiales, des services de médias audiovisuels à la demande qui permettent une nouvelle mise à disposition auprès du public de ses programmes télévisés et qui, d'une manière plus générale, proposent une offre de contenus de complément.
 
@@ -842,6 +844,24 @@ La société conserve en toutes circonstances la maîtrise de son antenne confor
 
 La société veille dans ses programmes à ne pas inciter à des pratiques ou comportements dangereux, délinquants ou inciviques.
 
+Article 35-1 A
+
+L'impartialité.
+
+La société veille à l'impartialité de l'information et des programmes qui y concourent. Cette exigence est une condition essentielle pour créer la confiance nécessaire avec le public dans sa diversité et le service public, un bien commun qui appartient à tous.
+
+L'impartialité implique un devoir d'exemplarité en matière de transparence et d'honnêteté de l'information ainsi que de respect de l'expression pluraliste des courants de pensée et d'opinion. Elle ne fait pas obstacle à la définition d'une ligne éditoriale qui, tout en mettant en œuvre ces principes, singularise les services que la société propose.
+
+Cette exigence s'apprécie de manière proportionnée à la nature et au format des programmes : elle s'impose pleinement aux programmes d'information, et selon des modalités adaptées aux autres programmes qui y concourent.
+
+La société établit et publie :
+
+- une charte éditoriale précisant les règles déontologiques applicables à l'information et aux programmes qui y concourent ;
+
+- des procédures pour le traitement des réclamations concernant le respect de cette charte ;
+
+- une étude annuelle portant sur la perception de l'impartialité de ses services.
+
 Article 35-1
 
 Le comité relatif à l'honnêteté, à l'indépendance et au pluralisme de l'information et des programmes.
@@ -858,13 +878,19 @@ Le conseil d'administration de la société met fin au mandat du membre qui n'a 
 
 En cas de vacance pour quelque cause que ce soit, il est pourvu à la nomination d'un nouveau membre dans un délai de quatre mois.
 
-III.-Les moyens administratifs et techniques nécessaires à l'exercice de la mission du comité sont mis à sa disposition par la société. Les personnels éventuellement mis à la disposition du comité respectent la confidentialité de ses travaux.
+III. - La société veille à mettre à la disposition du comité les moyens et ressources, notamment humains, administratifs et techniques, nécessaires à l'exercice effectif et indépendant de sa mission. Les personnels mis à la disposition du comité respectent la confidentialité de ses travaux.
 
-Le conseil d'administration de la société peut rembourser les frais de déplacement et de séjour supportés par les membres dans le cadre de leurs fonctions.
+Le conseil d'administration de la société fixe les modalités de remboursement des frais de déplacement et de séjour supportés par les membres dans le cadre de leurs fonctions et d'allocation d'une indemnité liée à la charge de travail.
 
 IV.-Le comité délibère à la majorité des membres présents. Il ne peut délibérer que si trois au moins de ses membres sont présents lorsque le nombre de membres du comité est fixé à cinq ou six, ou si quatre au moins de ses membres sont présents lorsque le nombre de membres du comité est fixé à sept. Le président a voix prépondérante en cas de partage égal des voix.
 
 V.-Le comité se réunit une fois au moins par semestre civil. Il peut également se réunir à la demande de son président ou à la demande de la majorité de ses membres.
+
+Sur invitation de l'Autorité de régulation de la communication audiovisuelle et numérique, il se réunit au moins une fois par an avec les comités institués auprès des autres sociétés nationales de programme au moment de l'élaboration de leurs bilans annuels afin de partager leurs problématiques et de définir des pistes de travail communes pour l'année à venir.
+
+Le comité présente ses travaux au moins une fois par an devant le conseil d'administration de la société.
+
+A la demande du comité, les médiateurs mentionnés à l'article 35-2 peuvent participer, sans voix délibérative, aux réunions du comité.
 
 En cas d'empêchement ou de vacance du président, la réunion est présidée par le membre présent le plus âgé.
 
@@ -878,7 +904,21 @@ VI.-Le comité peut entendre toute personne dont l'audition lui paraît utile et
 
 Il garantit l'anonymat de toute personne qui le consulte si celle-ci le demande.
 
-Il rend public son bilan annuel au plus tard le 31 mars de l'année suivante. Ce bilan mentionne notamment le nombre de demandes traitées au cours de l'année et le nombre de dossiers transmis à l'Autorité de régulation de la communication audiovisuelle et numérique et au conseil d'administration de la société. Il rend compte des résultats des délibérations du comité. Il dresse un état des moyens mis à la disposition du comité et expose les difficultés de toute nature auxquelles ce dernier estime être confronté dans l'exercice de ses missions.
+Il rend public son bilan annuel au plus tard le 31 mars de l'année suivante. Ce bilan mentionne notamment le nombre de demandes traitées au cours de l'année et le nombre de dossiers transmis à l'Autorité de régulation de la communication audiovisuelle et numérique et au conseil d'administration de la société. Il rend compte des résultats des délibérations du comité. Il dresse un état des moyens mis à la disposition du comité et expose les difficultés de toute nature auxquelles ce dernier estime être confronté dans l'exercice de ses missions. Il rend compte des avis que le comité adopte sur le respect de l'expression pluraliste des courants de pensée et d'opinion dans les programmes les plus emblématiques appréciés sur des périodes pertinentes pour le public.
+
+VII. - Le comité est consulté lors de l'élaboration des différents textes déontologiques internes portant sur le respect des principes énoncés au troisième alinéa de l'article 3-1 de la même loi et rend compte de leur mise en œuvre effective au sein de la société dans le cadre de son bilan annuel.
+
+Au plus tard six mois après la formulation d'une recommandation par le comité, ce dernier se réunit et auditionne le responsable de l'information qui lui rend compte des suites données à ces recommandations. Cette réunion donne lieu à un avis public du comité.
+
+Article 35-2
+
+Les médiateurs.
+
+Des médiateurs des antennes sont chargés de conforter la confiance du public en garantissant le dialogue entre les rédactions et les téléspectateurs.
+
+Lorsque des demandes adressées aux médiateurs portent sur des questions qui peuvent intéresser le comité mentionné à l'article 35-1, les médiateurs transmettent ces demandes au comité.
+
+La société diffuse des émissions régulières dans lesquelles les médiateurs répondent aux questions du public.
 
 Article 36
 
@@ -1110,13 +1150,9 @@ Elle diffuse notamment des programmes favorisant une meilleure connaissance du m
 
 Article 56
 
-L'information du consommateur
+L'information du consommateur.
 
-France Télévisions diffuse à une heure d'écoute appropriée des émissions destinées à l'information du consommateur. Avant de diffuser ces émissions, elle peut procéder à leur visionnage et refuser, le cas échéant, leur passage à l'antenne.
-
-Les émissions diffusées sur chacun des services nationaux de la société sont produites par l'Institut national de la consommation et font l'objet d'une convention pluriannuelle avec celui-ci qui détermine notamment les conditions de diffusion de ces émissions et leur horaire de programmation ainsi que les conditions de remboursement par l'Institut national de la consommation des frais exposés par la société pour leur diffusion. Leur durée est fixée par convention.
-
-En outre, elle diffuse, dans les programmes régionaux et sur les réseaux d'émetteurs correspondants, des émissions réalisées par les centres techniques régionaux de la consommation, dont la durée hebdomadaire ne peut être inférieure à deux minutes en moyenne sur l'année. Une convention pluriannuelle est conclue entre la société et l'Institut national de la consommation pour déterminer les conditions de production et de financement de ces émissions, ainsi que leur horaire de programmation et leur durée. Les frais exposés par la société pour la programmation et la diffusion de ces émissions et, le cas échéant, pour leur production sont pris en charge par l'Institut national de la consommation.
+France Télévisions propose sur ses services de télévision et de médias audiovisuels à la demande des programmes destinés à l'information du consommateur.
 
 Chapitre III
 
@@ -1777,7 +1813,3 @@ A compter du jour de la transmission de l'ensemble de ces informations, la filia
 2.2.4. Lorsque l'œuvre constitue la suite ou l'adaptation d'une œuvre dont le mandat de commercialisation a été préalablement attribué à une filiale de France Télévisions.
 
 2.2.5 Lorsque France Télévisions apporte au producteur les droits d'adaptation d'une œuvre originale.
-
-NOTA :
-
-Conformément à l'article 7 du décret n° 2025-1422 du 30 décembre 2025, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur immédiatement.
