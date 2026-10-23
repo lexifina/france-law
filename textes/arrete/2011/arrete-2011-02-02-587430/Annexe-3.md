@@ -8,15 +8,15 @@ SOCIÉTÉ |
 
 ADRESSE |
 
-APPAREILS AGRÉÉS POUR LESQUELS
+APPAREILS AGRÉÉS POUR
 
-la société reçoit l'habilitation |
+lesquels la société reçoit l'habilitation |
 
 1 |
 
 AEMI |
 
-8, rue des Compagnons -
+8, rue des Compagnons
 
 14000 Caen |
 
@@ -32,7 +32,7 @@ Simrad |
 
 ALPHATRON MARINE FRANCE |
 
-1710, chemin de la Plaine -
+1710, Chemin de la Plaine
 
 06250 Mougins |
 
@@ -70,7 +70,7 @@ Titan 1000 90°/min 300°/min + S300 (e-01-083) |
 
 E-NAUTIC |
 
-12, quai du capitaine Allègre -
+12, quai du capitaine Allègre
 
 33120 Arcachon |
 
@@ -96,7 +96,7 @@ AlphaTurn (River) MFM / MFL 90°/min, 300°/min + EBF01a (e-01-086) |
 
 ENTCO |
 
-1, impasse des Peupliers -
+1, impasse des Peupliers
 
 91160 Saulx-les-Chartreux |
 
@@ -172,7 +172,7 @@ AlphaTurn (River) MFM / MFL 90°/min, 300°/min + EBF01a (e-01-086) |
 
 HEXA MARINE |
 
-46 Kerolivier -
+46 Kerolivier
 
 44410 Saint-Lyphard |
 
@@ -194,7 +194,9 @@ AlphaTurn (River) MFM / MFL 90°/min, 300°/min + EBF01a (e-01-086) |
 
 MAP Marine |
 
-1, quai de la Grande Bigue - bât. B - 13002 Marseille |
+1, quai de la Grande Bigue
+
+bât. B - 13002 Marseille |
 
 Appareils radar :
 
@@ -208,7 +210,7 @@ Radio Zeeland |
 
 PROMAT SÉCURITÉ |
 
-68, boulevard Jules-Durand -
+68, boulevard Jules Durand
 
 76056 Le Havre |
 
@@ -228,7 +230,7 @@ AlphaTurn (River) MFM / MFL 90°/min 300°/min + EBF01a (e-01-086) |
 
 RADIO HOLLAND FRANCE |
 
-21, rue Paul-Verlaine -
+21, rue Paul Verlaine
 
 76700 Harfleur |
 
@@ -274,7 +276,7 @@ Titan 1000 90°/min 300°/min + S300 (e-01-083) |
 
 SIECMI |
 
-3, quai Est -
+3, quai Est
 
 29900 Concarneau |
 
@@ -290,12 +292,36 @@ Radio Holland ; Radio Zeeland ; Alphatron |
 
 THEMYS |
 
-Quartier de la chaume -
+Quartier de la chaume
 
-CD 45 - pont de l'Etoile -
+1746, Route du Stade
 
 13360 Roquevaire |
 
-Appareils radar :
+Indicateurs de vitesse de giration :
 
-SAM Electronics |
+Titan 300 90°/min 270°/min + S300 (e-01-085) ;
+
+Titan 500 90°/min 270°/min + S300 (e-01-084) ;
+
+Titan 1000 90°/min 300°/min + S300 (e-01-083)
+
+SIGMA 300 (R-2-018) ;
+
+SIGMA 550 (R-2-019) ;
+
+SIGMA 500 (R-2-020) ;
+
+SIGMA 350 300°/min + RZ630 / S-300 (e-01-087) ;
+
+SIGMA 350 90°/min + RZ630 / S-300 (e-01-087) ;
+
+NEXO D-70 (e-04-102) ;
+
+NEXO D-100 (e-04-103) ;
+
+NEXO D-57 (e-04-104) ;
+
+THOR 500 90°/min, 270°/min + S300 (e-01-081) ;
+
+THOR 300 90°/min, 270°/min + S300 (e-01-082) |
