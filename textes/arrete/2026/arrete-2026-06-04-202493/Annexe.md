@@ -385,3 +385,17 @@ CSA Institut national du travail, de l'emploi et de la formation professionnelle
 25 |
 
 24,51 % |
+
+CSA Etablissement public d'insertion de la défense
+
+|
+
+1148 |
+
+600 |
+
+52,26 % |
+
+548 |
+
+47,74 % |
