@@ -16,7 +16,7 @@ XXXXX XXXXXX
 
 Représentée par son Directeur général [à compléter]
 
-Ci-après dénommée " l'ARS ",
+Ci-après dénommée "l'ARS",
 
 Et :
 
@@ -24,7 +24,7 @@ L'Agence nationale de sécurité du médicament et des produits de santé, étab
 
 Représentée par sa directrice générale, Mme Christelle RATIGNIER-CARBONNEIL
 
-Ci-après dénommée " l'ANSM "
+Ci-après dénommée "'ANSM"
 
 Et :
 
@@ -38,9 +38,9 @@ XXXXX XXXXXX
 
 Représenté par [à compléter]
 
-Ci-après dénommé " l'ES ".
+Ci-après dénommé "l'ES".
 
-Vu le code de la santé publique et notamment ses articles L. 1435-12, L. 5311-1, L. 5321-2alinéa in fine, R. 1413-61-1 à R. 1413-66, R. 5121-154, R. 5121-155 et R. 5121-158, R. 5311-2 ;
+Vu le code de la santé publique et notamment ses articles L. 1435-12, L. 5311-1, L. 5321-2 alinéa in fine, R. 1413-61-1 à R. 1413-66, R. 5121-154, R. 5121-155 et R. 5121-158, R. 5311-2 ;
 
 Vu l'arrêté du 14 novembre 2022 pris en application de l'article R. 1413-61-4 du code de la santé publique définissant les missions des centres et coordonnateurs régionaux sur les vigilances relatives aux produits de santé ;
 
@@ -74,7 +74,7 @@ Article 2
 
 Durée et date d'entrée en vigueur de la convention
 
-La présente convention entre en vigueur le 1er janvier 2023, pour une durée de cinq ans.
+La présente convention entre en vigueur à la date de sa signature par l'ensemble des parties et prend fin le 31 décembre 2027.
 
 Article 3
 
@@ -870,6 +870,6 @@ Tout manquement aux règles de la présente charte pourra notamment donner lieu 
 
 Je, soussigné (e) déclare avoir pris connaissance de la charte du système d'information de l'ANSM et des données de vigilance et m'engage à respecter ses dispositions.
 
-A signer et dater avec la mention " lu et approuvé " |
+A signer et dater avec la mention "lu et approuvé" |
 
 |
