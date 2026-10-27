@@ -1,0 +1,9 @@
+# Réponse à la question n° 17203
+
+- Question : [17203](17203.md) — Question n° 17203 — Coordination entre les caisses de l'Urssaf
+
+## Réponse
+
+*JO du 2026-10-27, page 10182*
+
+Le Gouvernement partage ces préoccupations et est conscient que la bonne articulation entre les différentes Unions de recouvrement des cotisations de sécurité sociale et d'allocations familiales (URSSAF), pendant l'instruction d'une contestation, est une condition de la confiance des cotisants, en particulier pour les travailleurs indépendants et auto-entrepreneurs. Tout d'abord, un numéro de litige unique, dont la mise en place a été finalisée en 2025 dans le cadre de la Convention d'objectifs et de gestion (COG) 2023-2027, doit permettre un suivi plus efficace des recours et une meilleure visibilité des enjeux financiers liés aux redressements contestés à travers le réseau, en particulier la capacité à identifier qu'un dossier est en cours de contestation quelle que soit la caisse qui le traite ensuite. De plus, l'URSSAF caisse nationale (UCN) a engagé une politique de règlement alternatif des litiges, avec un état des lieux des principaux points de friction. L'UCN travaille par ailleurs à l'amélioration de ses dispositifs d'interruption ciblée du recouvrement forcé. Le dispositif conçu pour les travailleurs indépendants en arrêt maladie de longue durée, engagé avec la Caisse nationale d'assurance maladie (CNAM), dont la seconde phase d'expérimentation est prévue courant 2026, permet de créer une règle d'interruption automatique du recouvrement forcé déclenchée par un critère objectif. Ce dispositif est pour l'instant circonscrit aux situations médicales. Enfin, afin qu'une décision favorable produise ses effets sans délai dans l'ensemble des services concernés, la chaîne de notification est en cours de fiabilisation. La dématérialisation de la procédure de recours amiable est aujourd'hui à 50 % d'avancement.
