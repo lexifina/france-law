@@ -1,0 +1,9 @@
+# Réponse à la question n° 18595
+
+- Question : [18595](18595.md) — Question n° 18595 — Extension d'un tarif ferroviaire réduit aux militaires retraités les plus âgés
+
+## Réponse
+
+*JO du 2026-10-27, page 10146*
+
+Les réductions tarifaires sur les services de transport ferroviaire de voyageurs, prévues par le décret n° 2023-321 du 27 avril 2023 pris pour l'application de l'article L. 2151-4 du code des transports, sont au bénéfice des militaires en activité, de leur famille et des ayants cause des morts pour la France et des morts pour le service de la Nation. Cette réduction tarifaire se matérialise par une réduction de 75% du prix du billet, que celui-ci soit acheté en seconde ou en première classe. L'objet de ces réductions, comme vous l'indiquez, est de compenser les contraintes de mobilité et de disponibilité inhérentes à l'état militaire (recours au célibat géographique, suppression ou modification de permissions sous faible préavis,.). Ces contraintes sont le corollaire du principe constitutionnel de libre disposition de la force armée, qui ne trouve à s'appliquer qu'aux militaires, d'active ou de réserve. A cet égard, la réforme de 2023 a permis de faire bénéficier toutes les catégories de militaires (officiers, sous-officiers, militaires du rang) des mêmes conditions tarifaires, ce qui n'était pas le cas jusqu'alors. Ce dispositif applicable aux militaires en activité, qui est intégralement compensé par un versement annuel de l'État aux opérateurs d'environ 200 millions d'euros, répond donc à une logique statutaire qui ne trouve plus à s'appliquer avec les retraités. Au demeurant, la progression continue du montant du versement annuel de l'Etat conduit la Cour des comptes à demander régulièrement la maîtrise du coût de celui-ci. Face à ces contraintes tant statutaires que financières, une extension aux retraités militaires n'est pas envisagée.
