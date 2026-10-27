@@ -1,0 +1,9 @@
+# Réponse à la question n° 15755
+
+- Question : [15755](15755.md) — Question n° 15755 — Tableau des indemnités des élus lors de la délibération initiale
+
+## Réponse
+
+*JO du 2026-10-27, page 10137*
+
+Aux termes de l'article L. 2123-20-1 du code général des collectivités territoriales, toute délibération du conseil municipal concernant les indemnités de fonction d'un ou de plusieurs de ses membres, à l'exception du maire, est accompagnée d'un tableau annexe récapitulant l'ensemble des indemnités allouées aux autres membres du conseil municipal. Cette obligation, introduite par la loi n° 2002-276 du 27 février 2002 relative à la démocratie de proximité, vise à renforcer la transparence concernant le versement des indemnités de fonction. Le tableau doit donc mentionner tous les membres du conseil municipal percevant une indemnité, à l'exclusion du maire. Dans un souci de transparence publique, il est recommandé de désigner expressément le nom des bénéficiaires ainsi que le montant des indemnités pour chaque membre (adjoints et conseillers municipaux). L'indemnité du maire ne fait l'objet d'une délibération que si elle est minorée, conformément à l'article L. 2123-23 du CGCT, elle n'est donc pas obligatoirement incluse dans le tableau annexe, même si sa mention reste autorisée. Si les bénéficiaires sont visés nominativement dans le tableau annexe, une nouvelle décision s'imposera en cas de changement de l'un ou de plusieurs d'entre eux. Les montants des indemnités doivent quant à eux être exprimés en pourcentage de l'indice brut terminal de l'échelle indiciaire de la fonction publique. En effet, une expression des indemnités en euros supposerait de prendre une nouvelle délibération à chaque évolution du point d'indice de la fonction publique. Enfin, l'absence de ce tableau récapitulatif peut entraîner l'illégalité de la délibération. Si le tableau est intégré au corps de la délibération, il doit également figurer en annexe.
