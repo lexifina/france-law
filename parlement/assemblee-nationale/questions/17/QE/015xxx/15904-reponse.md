@@ -1,0 +1,9 @@
+# Réponse à la question n° 15904
+
+- Question : [15904](15904.md) — Question n° 15904 — Assujettissement des associations à la taxe d'habitation
+
+## Réponse
+
+*JO du 2026-10-27, page 10041*
+
+La taxe d'habitation sur les résidences secondaires (THRS) est due pour les locaux meublés conformément à leur destination d'habitation autre qu'à titre principal et est établie au nom des personnes qui ont, à quelque titre que ce soit, la disposition ou la jouissance de locaux imposables au 1er janvier de l'année d'imposition (code général des impôts - CGI, articles 1407, 1408 et 1415). L'article 110 de la loi n° 2025-127 du 14 février 2025 de finances pour 2025 a recentré l'application de la THRS sur les seuls locaux meublés à usage d'habitation, autre qu'à titre principal, y compris ceux soumis à la cotisation foncière des entreprises (CFE). Ainsi les locaux ayant un usage exclusivement professionnel ne sont plus soumis à la THRS à compter des impositions dues au titre de l'année 2025. À titre d'illustration, les bureaux occupés par une association et nécessaires à la poursuite de son activité ne sont plus imposés. Sont également exclus du champ de la THRS, les locaux destinés à l'hébergement ou au logement à titre temporaire des personnes en difficulté. Il s'agit des personnes en difficulté de vie ou en difficulté sociale (hébergement d'urgence des personnes vulnérables ou sans domicile fixe, foyers de jeunes travailleurs ou de demandeurs d'asile, etc.), de personnes âgées (EHPAD, etc.) et des personnes en situation de handicap. Les associations gestionnaires de ces locaux, qui bénéficient à ce titre d'un conventionnement, d'un agrément, d'une autorisation ou d'un récépissé de déclaration de l'État, sont tenues de déclarer à l'administration fiscale les locaux concernés afin de bénéficier de l'exonération précitée.
