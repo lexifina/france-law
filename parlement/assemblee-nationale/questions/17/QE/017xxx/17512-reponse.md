@@ -1,0 +1,9 @@
+# Réponse à la question n° 17512
+
+- Question : [17512](17512.md) — Question n° 17512 — Offre de repérage et de remobilisation
+
+## Réponse
+
+*JO du 2026-10-27, page 10183*
+
+L'Offre de repérage et de remobilisation (O2R) est une des mesures de la loi pour le Plein Emploi : cette action aux côtés des acteurs du réseau pour l'emploi permet d'offrir aux publics en fort décrochage vis-à-vis des institutions un accompagnement personnalisé, sur mesure en fonction de leurs besoins, et un lien de confiance avec les référents de parcours. Pour autant, l'enjeu de la maîtrise du budget est un engagement fort du Gouvernement. La réduction des crédits de la mission « Travail, emploi et administration des ministères sociaux » a nécessairement été répercutée sur plusieurs dispositifs. Dans ce contexte contraint, il est nécessaire de veiller à ce que chaque euro dépensé ait un impact significatif sur le retour à l'emploi, afin de garantir l'efficience des politiques de l'emploi. La baisse de crédits accordés à ce dispositif était de 28 % en 2026 par rapport au notifié 2025 et elle a été répartie de manière homothétique entre chacune des régions. Les services déconcentrés ont ensuite réparti les enveloppes régionales auprès des opérateurs en fonction de chacun des bilans de la première année d'exécution afin d'allouer les ressources de la manière la plus efficiente possible sur le territoire. Cette stratégie a permis de sécuriser les financements pour les opérateurs dont les résultats sont les plus probants après une première année d'exercice, et de réajuster les financements à leur réelle capacité à faire, tout en maintenant un coût par bénéficiaire maîtrisé. En outre, les opérateurs sont invités à mobiliser des co-financements pour ancrer le dispositif dans une dynamique territoriale forte.
