@@ -1,0 +1,9 @@
+# Réponse à la question n° 16433
+
+- Question : [16433](16433.md) — Question n° 16433 — Secrétaires généraux de mairie : un statut adapté aux missions ?
+
+## Réponse
+
+*JO du 2026-10-27, page 10052*
+
+La loi n° 2023-1380 du 30 décembre 2023 visant à revaloriser le métier de secrétaire de mairie procède d'un constat partagé par le Gouvernement : les fonctions exercées par les secrétaires généraux de mairie, en particulier dans les communes rurales, se caractérisent par un niveau croissant de technicité et de polyvalence, sans que le classement statutaire de ces agents, relevant majoritairement de la catégorie C avant la réforme, n'ait toujours été en adéquation avec ce niveau de responsabilité. Le législateur a retenu la catégorie B comme niveau de recrutement minimal, en cohérence avec le seuil de 2 000 habitants qui structure également le régime des emplois fonctionnels de direction générale des services. Ce choix procède d'une conciliation entre, d'une part, la nécessité de reconnaître statutairement le niveau de responsabilité effectivement exercé et, d'autre part, un objectif de soutenabilité pour les employeurs territoriaux, dans un contexte de tensions de recrutement déjà avérées sur ces emplois. A ce titre, ce seuil constitue bien un plancher et non un plafond : les autorités territoriales conservent la faculté de procéder à un recrutement en catégorie A, y compris dans les communes de moins de 2 000 habitants, lorsque la nature du poste le justifie. Le Gouvernement a également complété ce dispositif afin de renforcer l'adéquation entre les responsabilités confiées et le positionnement statutaire retenu, et a pris des mesures d'ajustement postérieurement à l'entrée en vigueur de la loi, telles que le décret n° 2025-1099 du 19 novembre 2025 relatif aux conditions de promotion interne des secrétaires généraux de mairie de catégorie B vers la catégorie A.
