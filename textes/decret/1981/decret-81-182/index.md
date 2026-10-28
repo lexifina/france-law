@@ -1,0 +1,12 @@
+# Décret n°81-182 du 24 février 1981 PORTANT EXTENSION AUX ETABLISSEMENTS AGRICOLES DES DISPOSITIONS DU DU 15 OCTOBRE 1962 PORTANT REGLEMENT D'ADMINISTRATION PUBLIQUE POUR L'EXECUTION DES DISPOSITIONS DU TITRE III DU LIVRE II DU CODE DU TRAVAIL EN CE QUI CONCERNE LES MESURES PARTICULIERES DE PROTECTION RELATIVES A L'EMPLOI DES EXPLOSIFS DANS LES CHANTIERS DU BATIMENT ET DES TRAVAUX PUBLICS.
+
+- Nature : Decret
+- Numéro : 81-182
+- Date du texte : 1981-02-24
+- Publication au JORF : 1981-02-27
+- Identifiant LEGI : LEGITEXT000006063437
+- Identifiant JORF : JORFTEXT000000310563
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006063437
+
+2 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

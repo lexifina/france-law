@@ -1,0 +1,12 @@
+# Arrêté du 22 mars 2006 relatif à l'aide incitative à l'agriculture raisonnée.
+
+- Nature : Arrete
+- Date du texte : 2006-03-22
+- Publication au JORF : 2006-04-12
+- NOR : AGRF0600700A
+- Identifiant LEGI : LEGITEXT000006053554
+- Identifiant JORF : JORFTEXT000000640237
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006053554
+
+14 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

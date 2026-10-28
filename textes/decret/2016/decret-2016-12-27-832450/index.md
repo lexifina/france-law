@@ -1,0 +1,12 @@
+# Décret du 27 décembre 2016 portant déclassement de la catégorie des autoroutes, dans le département du Rhône, de sections des autoroutes A 6 et A 7 traversant l'agglomération lyonnaise
+
+- Nature : Decret
+- Date du texte : 2016-12-27
+- Publication au JORF : 2016-12-29
+- NOR : DEVT1636082D
+- Identifiant LEGI : LEGITEXT000033832450
+- Identifiant JORF : JORFTEXT000033718834
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000033832450
+
+4 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

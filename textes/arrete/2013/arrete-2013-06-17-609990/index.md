@@ -1,0 +1,12 @@
+# Arrêté du 17 juin 2013 modifiant l'arrêté du 21 novembre 2008 relatif aux destinataires des fichiers de données individuelles anonymisées de l'enquête nationale « handicap-santé » réalisée par l'Institut national de la statistique et des études économiques et la direction de la recherche, des études, de l'évaluation et des statistiques
+
+- Nature : Arrete
+- Date du texte : 2013-06-17
+- Publication au JORF : 2013-06-26
+- NOR : AFSE1312593A
+- Identifiant LEGI : LEGITEXT000027609990
+- Identifiant JORF : JORFTEXT000027607957
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000027609990
+
+1 article en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

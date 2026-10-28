@@ -1,0 +1,13 @@
+# Décret n° 2014-828 du 22 juillet 2014 modifiant le décret n° 2005-850 du 27 juillet 2005 relatif aux délégations de signature des membres du Gouvernement
+
+- Nature : Decret
+- Numéro : 2014-828
+- Date du texte : 2014-07-22
+- Publication au JORF : 2014-07-24
+- NOR : PRMX1413937D
+- Identifiant LEGI : LEGITEXT000029288009
+- Identifiant JORF : JORFTEXT000029287366
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000029288009
+
+1 article en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

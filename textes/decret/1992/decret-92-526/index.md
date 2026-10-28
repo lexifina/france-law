@@ -1,0 +1,13 @@
+# Décret n°92-526 du 11 juin 1992 pris en application de l'article 89 de la loi n° 91-1322 du 30 décembre 1991 instituant un système de paiement mensuel des taxes foncières
+
+- Nature : Decret
+- Numéro : 92-526
+- Date du texte : 1992-06-11
+- Publication au JORF : 1992-06-17
+- NOR : BUDR9204095D
+- Identifiant LEGI : LEGITEXT000006079265
+- Identifiant JORF : JORFTEXT000000357778
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006079265
+
+2 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

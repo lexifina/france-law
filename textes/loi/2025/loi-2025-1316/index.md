@@ -1,0 +1,13 @@
+# LOI n° 2025-1316 du 26 décembre 2025 spéciale prévue par l'article 45 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances (1)
+
+- Nature : Loi
+- Numéro : 2025-1316
+- Date du texte : 2025-12-26
+- Publication au JORF : 2025-12-27
+- NOR : CPPX2535679L
+- Identifiant LEGI : LEGITEXT000053179163
+- Identifiant JORF : JORFTEXT000053173986
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053179163
+
+3 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

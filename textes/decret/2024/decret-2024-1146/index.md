@@ -1,0 +1,13 @@
+# Décret n° 2024-1146 du 4 décembre 2024 modifiant certaines règles en matière de conditionnalité des aides de la politique agricole commune et d'écorégime
+
+- Nature : Decret
+- Numéro : 2024-1146
+- Date du texte : 2024-12-04
+- Publication au JORF : 2024-12-05
+- NOR : AGRT2429397D
+- Identifiant LEGI : LEGITEXT000050737905
+- Identifiant JORF : JORFTEXT000050731951
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050737905
+
+2 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

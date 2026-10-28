@@ -1,0 +1,12 @@
+# Arrêté du 7 novembre 1994 autorisant des navires palangriers à pêcher dans la zone économique au large des côtes du territoire de la Polynésie française
+
+- Nature : Arrete
+- Date du texte : 1994-11-07
+- Publication au JORF : 1994-11-26
+- NOR : DOMP9400051A
+- Identifiant LEGI : LEGITEXT000005617054
+- Identifiant JORF : JORFTEXT000000349496
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000005617054
+
+14 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

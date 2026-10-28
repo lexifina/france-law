@@ -1,0 +1,13 @@
+# Décret n° 2016-112 du 3 février 2016 relatif à la reconnaissance des qualifications requises pour procéder à la restauration d'un bien faisant partie des collections des musées de France
+
+- Nature : Decret
+- Numéro : 2016-112
+- Date du texte : 2016-02-03
+- Publication au JORF : 2016-02-05
+- NOR : MCCB1518643D
+- Identifiant LEGI : LEGITEXT000031979658
+- Identifiant JORF : JORFTEXT000031979083
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000031979658
+
+2 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

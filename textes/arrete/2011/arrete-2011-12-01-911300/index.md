@@ -1,0 +1,12 @@
+# Arrêté du 1er décembre 2011 modifiant l'arrêté du 3 mars 2010 pris en application du décret n° 2003-1284 du 26 décembre 2003 relatif au régime indemnitaire de certains magistrats de l'ordre judiciaire
+
+- Nature : Arrete
+- Date du texte : 2011-12-01
+- Publication au JORF : 2011-12-03
+- NOR : JUSB1129600A
+- Identifiant LEGI : LEGITEXT000024911300
+- Identifiant JORF : JORFTEXT000024908507
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000024911300
+
+1 article en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

@@ -1,0 +1,12 @@
+# Arrêté du 19 février 2026 fixant au titre de l'année 2026 le nombre de postes offerts au concours externe organisé à titre transitoire et troisième concours de recrutement de professeurs de lycée professionnel
+
+- Nature : Arrete
+- Date du texte : 2026-02-19
+- Publication au JORF : 2026-02-26
+- NOR : MENH2601294A
+- Identifiant LEGI : LEGITEXT000053581519
+- Identifiant JORF : JORFTEXT000053580541
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053581519
+
+3 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

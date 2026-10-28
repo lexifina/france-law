@@ -1,0 +1,12 @@
+# Arrêté du 17 octobre 2011 modifiant l'arrêté du 30 septembre 2011 portant création des bureaux de vote centraux et spéciaux dans le cadre des élections des représentants des personnels aux commissions administratives paritaires et aux commissions consultatives paritaires à la direction générale de l'aviation civile et à l'Ecole nationale de l'aviation civile
+
+- Nature : Arrete
+- Date du texte : 2011-10-17
+- Publication au JORF : 2011-10-26
+- NOR : DEVA1128289A
+- Identifiant LEGI : LEGITEXT000024713840
+- Identifiant JORF : JORFTEXT000024713102
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000024713840
+
+1 article en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

@@ -1,0 +1,12 @@
+# Arrêté du 22 février 2008 modifiant l'arrêté du 10 juillet 1996 relatif aux factures de distribution de l'eau et de collecte et de traitement des eaux usées
+
+- Nature : Arrete
+- Date du texte : 2008-02-22
+- Publication au JORF : 2008-03-06
+- NOR : ECEC0800140A
+- Identifiant LEGI : LEGITEXT000018214933
+- Identifiant JORF : JORFTEXT000018213711
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000018214933
+
+2 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

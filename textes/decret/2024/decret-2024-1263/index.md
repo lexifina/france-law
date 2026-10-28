@@ -1,0 +1,13 @@
+# Décret n° 2024-1263 du 30 décembre 2024 relatif aux conditions requises pour l'accès au temps partiel de certains agents de la fonction publique
+
+- Nature : Decret
+- Numéro : 2024-1263
+- Date du texte : 2024-12-30
+- Publication au JORF : 2024-12-31
+- NOR : APFF2405210D
+- Identifiant LEGI : LEGITEXT000050924661
+- Identifiant JORF : JORFTEXT000050873550
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050924661
+
+1 article en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

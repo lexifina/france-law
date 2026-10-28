@@ -1,0 +1,12 @@
+# Arrêté du 2 août 2021 fixant les tarifs réglementés de postulation des avocats en matière de saisie immobilière, de partage, de licitation et de sûretés judiciaires
+
+- Nature : Arrete
+- Date du texte : 2021-08-02
+- Publication au JORF : 2021-08-15
+- NOR : ECOC2123034A
+- Identifiant LEGI : LEGITEXT000043937640
+- Identifiant JORF : JORFTEXT000043936244
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000043937640
+
+4 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

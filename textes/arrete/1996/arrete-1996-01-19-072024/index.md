@@ -1,0 +1,10 @@
+# Arrêté du 19 janvier 1996 relatif à la gestion automatisée du fonds documentaire juridico-réglementaire de la D.G.C.C.R.E.
+
+- Nature : Arrete
+- Date du texte : 1996-01-19
+- NOR : FCEC9610025A
+- Identifiant LEGI : LEGITEXT000006072024
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006072024
+
+6 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

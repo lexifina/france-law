@@ -1,0 +1,12 @@
+# Décret n°82-628 du 21 juillet 1982 PORTANT APPLICATION, DANS LE REGIME GENERAL DE LA SECURITE SOCIALE, DE L'ORDONNANCE N° 82-270 DU 26 MARS 1982 RELATIVE A L'ABAISSEMENT DE L'AGE DE LA RETRAITE DES ASSURES DU REGIME GENERAL ET DU REGIME DES ASSURANCES SOCIALES AGRICOLES ET DU TITRE 1ER DE L'ORDONNANCE N° 82-290 DU 30 MARS 1982 RELATIVE A LA LIMITATION DES POSSIBILITES DE CUMULS ENTRE PENSIONS DE RETRAITE ET REVENUS D'ACTIVITES.
+
+- Nature : Decret
+- Numéro : 82-628
+- Date du texte : 1982-07-21
+- Publication au JORF : 1982-07-23
+- Identifiant LEGI : LEGITEXT000006063841
+- Identifiant JORF : JORFTEXT000000699275
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006063841
+
+3 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

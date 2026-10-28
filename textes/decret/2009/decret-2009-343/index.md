@@ -1,0 +1,13 @@
+# Décret n° 2009-343 du 27 mars 2009 relatif au « titre emploi-service entreprise » et abrogeant les dispositions relatives au titre emploi-entreprise
+
+- Nature : Decret
+- Numéro : 2009-343
+- Date du texte : 2009-03-27
+- Publication au JORF : 2009-03-29
+- NOR : BCFS0905267D
+- Identifiant LEGI : LEGITEXT000020458196
+- Identifiant JORF : JORFTEXT000020446463
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020458196
+
+3 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

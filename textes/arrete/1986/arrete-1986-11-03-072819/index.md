@@ -1,0 +1,9 @@
+# Arrêté du 3 novembre 1986 relatif aux prélèvements de sang
+
+- Nature : Arrete
+- Date du texte : 1986-11-03
+- Identifiant LEGI : LEGITEXT000006072819
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006072819
+
+5 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

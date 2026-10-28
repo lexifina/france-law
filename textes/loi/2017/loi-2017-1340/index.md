@@ -1,0 +1,13 @@
+# LOI n° 2017-1340 du 15 septembre 2017 d'habilitation à prendre par ordonnances les mesures pour le renforcement du dialogue social (1)
+
+- Nature : Loi
+- Numéro : 2017-1340
+- Date du texte : 2017-09-15
+- Publication au JORF : 2017-09-16
+- NOR : MTRX1717150L
+- Identifiant LEGI : LEGITEXT000035569334
+- Identifiant JORF : JORFTEXT000035568022
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000035569334
+
+10 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

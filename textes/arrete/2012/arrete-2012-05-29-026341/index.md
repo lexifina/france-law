@@ -1,0 +1,12 @@
+# Arrêté du 29 mai 2012 relatif à l'adaptation du programme national d'enseignement de l'histoire et de la géographie pour les collectivités d'outre-mer (COM) de Nouvelle-Calédonie, de Polynésie française et de Wallis-et-Futuna dans les classes de sixième, de cinquième, de quatrième et de troisième du collège
+
+- Nature : Arrete
+- Date du texte : 2012-05-29
+- Publication au JORF : 2012-06-16
+- NOR : MENE1222339A
+- Identifiant LEGI : LEGITEXT000026026341
+- Identifiant JORF : JORFTEXT000026025026
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000026026341
+
+7 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

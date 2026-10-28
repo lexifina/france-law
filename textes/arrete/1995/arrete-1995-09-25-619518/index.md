@@ -1,0 +1,12 @@
+# Arrêté du 25 septembre 1995 modifiant l'arrêté du 14 août 1991 pris pour l'application de l'article 1er du décret n° 91-778 du 7 août 1991 fixant les conditions de prise en charge du vaccin antigrippal par les régimes d'assurance maladie des salariés et non-salariés agricoles
+
+- Nature : Arrete
+- Date du texte : 1995-09-25
+- Publication au JORF : 1995-09-28
+- NOR : AGRS9501959A
+- Identifiant LEGI : LEGITEXT000005619518
+- Identifiant JORF : JORFTEXT000000556179
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000005619518
+
+1 article en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

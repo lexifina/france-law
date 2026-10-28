@@ -1,0 +1,12 @@
+# Arrêté du 7 août 1992 portant création de la commission de la qualité et de l'accueil
+
+- Nature : Arrete
+- Date du texte : 1992-08-07
+- Publication au JORF : 1992-08-14
+- NOR : TOUR9204527A
+- Identifiant LEGI : LEGITEXT000006060089
+- Identifiant JORF : JORFTEXT000000506957
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006060089
+
+4 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

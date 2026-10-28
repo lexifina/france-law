@@ -1,0 +1,13 @@
+# Décret n°97-1161 du 15 décembre 1997 modifiant le décret n° 85-1534 du 31 décembre 1985 fixant les dispositions statutaires applicables aux ingénieurs et aux personnels techniques et administratifs de recherche et de formation du ministère de l'éducation nationale.
+
+- Nature : Decret
+- Numéro : 97-1161
+- Date du texte : 1997-12-15
+- Publication au JORF : 1997-12-21
+- NOR : MENN9703223D
+- Identifiant LEGI : LEGITEXT000005624798
+- Identifiant JORF : JORFTEXT000000204002
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000005624798
+
+1 article en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

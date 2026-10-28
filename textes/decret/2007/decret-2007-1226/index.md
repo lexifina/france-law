@@ -1,0 +1,13 @@
+# Décret n°2007-1226 du 20 août 2007 modifiant les contrats types applicables aux transports publics routiers de marchandises.
+
+- Nature : Decret
+- Numéro : 2007-1226
+- Date du texte : 2007-08-20
+- Publication au JORF : 2007-08-22
+- NOR : DEVT0756838D
+- Identifiant LEGI : LEGITEXT000006056815
+- Identifiant JORF : JORFTEXT000000245349
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006056815
+
+1 article en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

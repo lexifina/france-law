@@ -1,0 +1,13 @@
+# Décret n° 2022-495 du 7 avril 2022 relatif au délestage de la consommation de gaz naturel et modifiant le code de l'énergie
+
+- Nature : Decret
+- Numéro : 2022-495
+- Date du texte : 2022-04-07
+- Publication au JORF : 2022-04-08
+- NOR : TRER2020490D
+- Identifiant LEGI : LEGITEXT000045532011
+- Identifiant JORF : JORFTEXT000045530674
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000045532011
+
+2 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

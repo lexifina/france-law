@@ -1,0 +1,12 @@
+# Arrêté du 17 septembre 2014 portant création du comité technique unique de l'Agence nationale des titres sécurisés et de l'Agence nationale de traitement automatisé des infractions
+
+- Nature : Arrete
+- Date du texte : 2014-09-17
+- Publication au JORF : 2014-09-30
+- NOR : INTA1421023A
+- Identifiant LEGI : LEGITEXT000029523220
+- Identifiant JORF : JORFTEXT000029522670
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000029523220
+
+6 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

@@ -1,0 +1,12 @@
+# Arrêté du 27 juillet 2021 relatif à la mise en œuvre d'un second arrêt temporaire aidé des activités de pêche dans le cadre du retrait du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord de l'Union européenne
+
+- Nature : Arrete
+- Date du texte : 2021-07-27
+- Publication au JORF : 2021-07-30
+- NOR : MERM2123099A
+- Identifiant LEGI : LEGITEXT000043873337
+- Identifiant JORF : JORFTEXT000043872339
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000043873337
+
+19 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

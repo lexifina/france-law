@@ -1,0 +1,11 @@
+# Arrêté du 21 janvier 1986 du 21 janvier 1986 pris pour l'application de l'article 242-0 P de l'annexe II au code général des impôts.
+
+- Nature : Arrete
+- Date du texte : 1986-01-21
+- Publication au JORF : 1986-01-30
+- Identifiant LEGI : LEGITEXT000006069958
+- Identifiant JORF : JORFTEXT000000475208
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006069958
+
+2 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

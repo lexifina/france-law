@@ -1,0 +1,9 @@
+# Arrêté du 3 septembre 1986 portant classement de communes
+
+- Nature : Arrete
+- Date du texte : 1986-09-03
+- Identifiant LEGI : LEGITEXT000020679858
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020679858
+
+3 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

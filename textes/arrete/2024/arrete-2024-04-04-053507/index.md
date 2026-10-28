@@ -1,0 +1,12 @@
+# Arrêté du 4 avril 2024 pris en application de l'article L. 314-4 du code de l'action sociale et des familles fixant les dotations régionales limitatives relatives aux frais de fonctionnement des centres d'hébergement et de réinsertion sociale
+
+- Nature : Arrete
+- Date du texte : 2024-04-04
+- Publication au JORF : 2024-04-10
+- NOR : TREI2409715A
+- Identifiant LEGI : LEGITEXT000050053507
+- Identifiant JORF : JORFTEXT000049393481
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050053507
+
+3 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

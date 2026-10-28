@@ -1,0 +1,12 @@
+# Arrêté du 12 janvier 2026 fixant les tarifs nationaux et les éléments de la campagne tarifaire 2026 pour les activités de médecine, chirurgie, obstétrique et odontologie des établissements de santé
+
+- Nature : Arrete
+- Date du texte : 2026-01-12
+- Publication au JORF : 2026-01-14
+- NOR : SFHH2600594A
+- Identifiant LEGI : LEGITEXT000053381656
+- Identifiant JORF : JORFTEXT000053353172
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053381656
+
+11 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

@@ -1,0 +1,12 @@
+# Arrêté du 2 juin 2010 modifiant l'arrêté du 23 décembre 1987 relatif à l'admission dans les écoles préparant aux diplômes d'Etat d'ergothérapeute, de laborantin d'analyses médicales, de manipulateur d'électroradiologie médicale, de masseur-kinésithérapeute, de pédicure-podologue et de psychomotricien
+
+- Nature : Arrete
+- Date du texte : 2010-06-02
+- Publication au JORF : 2010-06-08
+- NOR : SASH1014565A
+- Identifiant LEGI : LEGITEXT000022318712
+- Identifiant JORF : JORFTEXT000022318234
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000022318712
+
+1 article en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

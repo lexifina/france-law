@@ -1,0 +1,12 @@
+# Arrêté du 12 mars 1993 modifiant l'arrêté du 1er septembre 1989 modifié fixant l'échelonnement indiciaire des personnels de rééducation de la fonction publique hospitalière.
+
+- Nature : Arrete
+- Date du texte : 1993-03-12
+- Publication au JORF : 1993-03-13
+- NOR : SANH9202992A
+- Identifiant LEGI : LEGITEXT000006081389
+- Identifiant JORF : JORFTEXT000000179069
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006081389
+
+1 article en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

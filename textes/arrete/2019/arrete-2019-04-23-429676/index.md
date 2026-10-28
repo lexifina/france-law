@@ -1,0 +1,12 @@
+# Arrêté du 23 avril 2019 pris pour l'application des articles D. 141-2 à D. 141-10 du code de la sécurité intérieure
+
+- Nature : Arrete
+- Date du texte : 2019-04-23
+- Publication au JORF : 2019-04-30
+- NOR : INTK1911904A
+- Identifiant LEGI : LEGITEXT000038429676
+- Identifiant JORF : JORFTEXT000038429364
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000038429676
+
+2 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

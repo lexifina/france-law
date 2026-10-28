@@ -1,0 +1,12 @@
+# Arrêté du 17 décembre 2010 modifiant l'arrêté du 8 juin 2009 portant organisation de la direction des ressources humaines en sous-directions et en bureaux
+
+- Nature : Arrete
+- Date du texte : 2010-12-17
+- Publication au JORF : 2011-01-08
+- NOR : ETSR1033062A
+- Identifiant LEGI : LEGITEXT000023447226
+- Identifiant JORF : JORFTEXT000023386728
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000023447226
+
+2 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

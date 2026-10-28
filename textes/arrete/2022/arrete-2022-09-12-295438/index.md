@@ -1,0 +1,12 @@
+# Arrêté du 12 septembre 2022 modifiant l'arrêté du 3 mai 2010 portant création à l'Ecole pratique des hautes études de l'Institut transdisciplinaire d'étude du vieillissement
+
+- Nature : Arrete
+- Date du texte : 2022-09-12
+- Publication au JORF : 2022-09-16
+- NOR : ESRS2224947A
+- Identifiant LEGI : LEGITEXT000046295438
+- Identifiant JORF : JORFTEXT000046294788
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000046295438
+
+3 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

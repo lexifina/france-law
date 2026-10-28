@@ -1,0 +1,13 @@
+# Décret n° 2016-917 du 5 juillet 2016 relatif à la contribution des publications de presse apportée aux organismes agréés de la filière à responsabilité élargie des producteurs de papiers
+
+- Nature : Decret
+- Numéro : 2016-917
+- Date du texte : 2016-07-05
+- Publication au JORF : 2016-07-06
+- NOR : DEVP1604823D
+- Identifiant LEGI : LEGITEXT000032850225
+- Identifiant JORF : JORFTEXT000032847905
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000032850225
+
+2 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

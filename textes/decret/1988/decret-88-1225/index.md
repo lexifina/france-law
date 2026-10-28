@@ -1,0 +1,13 @@
+# Décret n°88-1225 du 30 décembre 1988 modifiant le taux de la cotisation versée par les marins à la caisse de retraites des marins
+
+- Nature : Decret
+- Numéro : 88-1225
+- Date du texte : 1988-12-30
+- Publication au JORF : 1988-12-31
+- NOR : MERE8800031D
+- Identifiant LEGI : LEGITEXT000006066389
+- Identifiant JORF : JORFTEXT000000512031
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006066389
+
+3 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

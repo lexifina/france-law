@@ -1,0 +1,13 @@
+# Ordonnance n° 2016-79 du 29 janvier 2016 relative aux gares routières et à la recodification des dispositions du code des transports relatives à l'Autorité de régulation des activités ferroviaires et routières
+
+- Nature : Ordonnance
+- Numéro : 2016-79
+- Date du texte : 2016-01-29
+- Publication au JORF : 2016-01-31
+- NOR : EINC1521673R
+- Identifiant LEGI : LEGITEXT000031944006
+- Identifiant JORF : JORFTEXT000031941792
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000031944006
+
+3 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

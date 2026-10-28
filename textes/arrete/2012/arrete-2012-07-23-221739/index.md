@@ -1,0 +1,12 @@
+# Arrêté du 23 juillet 2012 portant extension de la prime de fonctions et de résultats aux emplois de secrétaire général d'académie, de directeur de l'académie de Paris, de directeur académique des services de l'éducation nationale, de directeur du service interacadémique des examens et concours des académies de Créteil, Paris et Versailles et de directeur académique adjoint des services de l'éducation nationale et fixant les montants de référence de cette prime
+
+- Nature : Arrete
+- Date du texte : 2012-07-23
+- Publication au JORF : 2012-07-25
+- NOR : MENH1209849A
+- Identifiant LEGI : LEGITEXT000026221739
+- Identifiant JORF : JORFTEXT000026221114
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000026221739
+
+3 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

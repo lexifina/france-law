@@ -1,0 +1,12 @@
+# Arrêté du 23 avril 2014 fixant pour l'année 2014 les éléments tarifaires mentionnés aux 1° à 3° du I de l'article L. 162-22-3 du code de la sécurité sociale des établissements de santé mentionnés au d de l'article L. 162-22-6 du code de la sécurité sociale
+
+- Nature : Arrete
+- Date du texte : 2014-04-23
+- Publication au JORF : 2014-05-02
+- NOR : AFSH1409603A
+- Identifiant LEGI : LEGITEXT000028888280
+- Identifiant JORF : JORFTEXT000028887467
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000028888280
+
+4 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

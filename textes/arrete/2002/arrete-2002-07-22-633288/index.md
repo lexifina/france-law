@@ -1,0 +1,12 @@
+# Arrêté du 22 juillet 2002 modifiant l'arrêté du 5 novembre 1984 relatif à l'immatriculation des véhicules.
+
+- Nature : Arrete
+- Date du texte : 2002-07-22
+- Publication au JORF : 2002-08-29
+- NOR : EQUS0201246A
+- Identifiant LEGI : LEGITEXT000005633288
+- Identifiant JORF : JORFTEXT000000231628
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000005633288
+
+2 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

@@ -1,0 +1,13 @@
+# Décret n° 2022-1630 du 23 décembre 2022 portant diverses dispositions d'application de la réforme de l'adoption
+
+- Nature : Decret
+- Numéro : 2022-1630
+- Date du texte : 2022-12-23
+- Publication au JORF : 2022-12-24
+- NOR : JUSC2230891D
+- Identifiant LEGI : LEGITEXT000046801230
+- Identifiant JORF : JORFTEXT000046792682
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000046801230
+
+2 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

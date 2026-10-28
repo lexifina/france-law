@@ -1,0 +1,12 @@
+# Arrêté du 18 mars 1993 modifiant l'arrêté du 31 juillet 1981 modifié relatif aux brevets, licences et qualifications des navigants professionnels de l'aéronautique civile (personnel de conduite des aéronefs, à l'exception du personnel des essais et réception)
+
+- Nature : Arrete
+- Date du texte : 1993-03-18
+- Publication au JORF : 1993-03-25
+- NOR : EQUA9300533A
+- Identifiant LEGI : LEGITEXT000006081582
+- Identifiant JORF : JORFTEXT000000528117
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006081582
+
+1 article en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

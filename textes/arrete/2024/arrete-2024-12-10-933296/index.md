@@ -1,0 +1,12 @@
+# Arrêté du 10 décembre 2024 portant création de la mention « activités des sports de contact » du brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité « éducateur sportif »
+
+- Nature : Arrete
+- Date du texte : 2024-12-10
+- Publication au JORF : 2024-12-31
+- NOR : SPOV2433678A
+- Identifiant LEGI : LEGITEXT000050933296
+- Identifiant JORF : JORFTEXT000050873716
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050933296
+
+14 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

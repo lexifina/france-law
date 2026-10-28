@@ -1,0 +1,13 @@
+# Décret n° 2022-363 du 15 mars 2022 relatif à l'aide exceptionnelle pour les entreprises justifiant d'une activité de reconditionnement en France de téléphones mobiles multifonction ou de tablettes informatiques
+
+- Nature : Decret
+- Numéro : 2022-363
+- Date du texte : 2022-03-15
+- Publication au JORF : 2022-03-16
+- NOR : ECOI2206428D
+- Identifiant LEGI : LEGITEXT000045360749
+- Identifiant JORF : JORFTEXT000045358457
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000045360749
+
+9 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

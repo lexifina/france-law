@@ -1,0 +1,13 @@
+# Décret n° 2015-1166 du 21 septembre 2015 pris pour l'application de la loi n° 2015-925 du 29 juillet 2015 relative à la réforme du droit d'asile
+
+- Nature : Decret
+- Numéro : 2015-1166
+- Date du texte : 2015-09-21
+- Publication au JORF : 2015-09-22
+- NOR : INTV1519182D
+- Identifiant LEGI : LEGITEXT000031196247
+- Identifiant JORF : JORFTEXT000031194603
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000031196247
+
+5 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

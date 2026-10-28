@@ -1,0 +1,12 @@
+# Arrêté du 27 décembre 2021 modifiant l'arrêté du 13 septembre 2011 portant règlement spécial du contrôle médical du régime spécial de sécurité sociale des industries électriques et gazières
+
+- Nature : Arrete
+- Date du texte : 2021-12-27
+- Publication au JORF : 2021-12-29
+- NOR : SSAS2138747A
+- Identifiant LEGI : LEGITEXT000045011866
+- Identifiant JORF : JORFTEXT000044592254
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000045011866
+
+1 article en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

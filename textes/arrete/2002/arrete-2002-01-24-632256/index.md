@@ -1,0 +1,12 @@
+# Arrêté du 24 janvier 2002 portant application du décret n° 2000-815 du 25 août 2000 relatif à l'aménagement et à la réduction du temps de travail dans la fonction publique de l'Etat pour l'administration centrale de la grande chancellerie de la Légion d'honneur et le musée national de la Légion d'honneur et des ordres de chevalerie.
+
+- Nature : Arrete
+- Date du texte : 2002-01-24
+- Publication au JORF : 2002-02-16
+- NOR : JUSA0200028A
+- Identifiant LEGI : LEGITEXT000005632256
+- Identifiant JORF : JORFTEXT000000410358
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000005632256
+
+4 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

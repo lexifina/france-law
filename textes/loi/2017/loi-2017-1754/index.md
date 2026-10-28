@@ -1,0 +1,13 @@
+# LOI n° 2017-1754 du 25 décembre 2017 ratifiant l'ordonnance n° 2017-717 du 3 mai 2017 portant création de l'établissement public Paris La Défense (1)
+
+- Nature : Loi
+- Numéro : 2017-1754
+- Date du texte : 2017-12-25
+- Publication au JORF : 2017-12-27
+- NOR : TERL1713289L
+- Identifiant LEGI : LEGITEXT000036260617
+- Identifiant JORF : JORFTEXT000036259042
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000036260617
+
+2 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

@@ -1,0 +1,12 @@
+# Décret n°78-72 du 20 janvier 1978 concernant les premiers soins à donner aux victimes d'accidents électriques.
+
+- Nature : Decret
+- Numéro : 78-72
+- Date du texte : 1978-01-20
+- Publication au JORF : 1978-01-24
+- Identifiant LEGI : LEGITEXT000006062906
+- Identifiant JORF : JORFTEXT000000879776
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006062906
+
+4 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

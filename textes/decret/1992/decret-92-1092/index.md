@@ -1,0 +1,13 @@
+# Décret n°92-1092 du 2 octobre 1992 portant création d'une indemnité de fonctions pour le président et les vice-présidents du Conseil national des missions locales.
+
+- Nature : Decret
+- Numéro : 92-1092
+- Date du texte : 1992-10-02
+- Publication au JORF : 1992-10-08
+- NOR : TEFO9205290D
+- Identifiant LEGI : LEGITEXT000006080154
+- Identifiant JORF : JORFTEXT000000726289
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006080154
+
+3 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

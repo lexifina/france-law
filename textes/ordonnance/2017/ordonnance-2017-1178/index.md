@@ -1,0 +1,13 @@
+# Ordonnance n° 2017-1178 du 19 juillet 2017 relative à l'adaptation du code de la santé publique à Mayotte
+
+- Nature : Ordonnance
+- Numéro : 2017-1178
+- Date du texte : 2017-07-19
+- Publication au JORF : 2017-07-21
+- NOR : SSAH1716740R
+- Identifiant LEGI : LEGITEXT000035251570
+- Identifiant JORF : JORFTEXT000035250779
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000035251570
+
+2 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

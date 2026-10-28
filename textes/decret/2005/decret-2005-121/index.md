@@ -1,0 +1,13 @@
+# Décret n°2005-121 du 14 février 2005 modifiant le décret n° 48-1108 10 juillet 1948 portant classement hiérarchique des grades et emplois des personnels de l'Etat relevant du régime général des retraites.
+
+- Nature : Decret
+- Numéro : 2005-121
+- Date du texte : 2005-02-14
+- Publication au JORF : 2005-02-15
+- NOR : MENF0500003D
+- Identifiant LEGI : LEGITEXT000006051269
+- Identifiant JORF : JORFTEXT000000785931
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006051269
+
+1 article en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

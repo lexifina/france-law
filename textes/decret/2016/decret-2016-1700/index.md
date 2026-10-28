@@ -1,0 +1,13 @@
+# Décret n° 2016-1700 du 12 décembre 2016 portant extension et modification de la réglementation de la réserve naturelle nationale des Terres australes françaises
+
+- Nature : Decret
+- Numéro : 2016-1700
+- Date du texte : 2016-12-12
+- Publication au JORF : 2016-12-14
+- NOR : DEVL1631167D
+- Identifiant LEGI : LEGITEXT000033599324
+- Identifiant JORF : JORFTEXT000033584987
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000033599324
+
+2 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

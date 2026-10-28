@@ -1,0 +1,12 @@
+# Arrêté du 12 janvier 2011 fixant les conditions dans lesquelles les candidats ajournés à l'examen de la session 2011 ou de la session 2012 du brevet de technicien agricole option « aménagement de l'espace » spécialité « gestion de la faune sauvage » créé par l'arrêté du 18 octobre 1995 peuvent se présenter à l'examen du baccalauréat professionnel spécialité « gestion des milieux naturels et de la faune » créé par l'arrêté du 10 juin 2010
+
+- Nature : Arrete
+- Date du texte : 2011-01-12
+- Publication au JORF : 2011-01-22
+- NOR : AGRE1100163A
+- Identifiant LEGI : LEGITEXT000023460644
+- Identifiant JORF : JORFTEXT000023459497
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000023460644
+
+7 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

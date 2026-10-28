@@ -1,0 +1,12 @@
+# Arrêté du 24 décembre 2019 modifiant l'arrêté du 4 janvier 2008 portant création de la mention « handball » du diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport spécialité « performance sportive »
+
+- Nature : Arrete
+- Date du texte : 2019-12-24
+- Publication au JORF : 2020-01-05
+- NOR : SPOV1937779A
+- Identifiant LEGI : LEGITEXT000041476573
+- Identifiant JORF : JORFTEXT000039773550
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000041476573
+
+2 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

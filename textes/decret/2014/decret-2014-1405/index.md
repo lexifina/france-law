@@ -1,0 +1,13 @@
+# Décret n° 2014-1405 du 25 novembre 2014 relatif à la compétence de chambres détachées
+
+- Nature : Decret
+- Numéro : 2014-1405
+- Date du texte : 2014-11-25
+- Publication au JORF : 2014-11-27
+- NOR : JUSB1424510D
+- Identifiant LEGI : LEGITEXT000029806122
+- Identifiant JORF : JORFTEXT000029804060
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000029806122
+
+2 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

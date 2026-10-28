@@ -1,0 +1,13 @@
+# Loi organique n° 97-1074 du 22 novembre 1997 relative à la fiscalité applicable en Polynésie française (1)
+
+- Nature : Loi_Organique
+- Numéro : 97-1074
+- Date du texte : 1997-11-22
+- Publication au JORF : 1997-11-25
+- NOR : INTX9701965L
+- Identifiant LEGI : LEGITEXT000005624639
+- Identifiant JORF : JORFTEXT000000568713
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000005624639
+
+3 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

@@ -1,0 +1,12 @@
+# Décret n°78-319 du 8 mars 1978 FIXANT LES MODALITES D'APPLICATION AUX ASSURES RELEVANT DE L'EX-REGIME LOCAL D'ASSURANCE DES DEPARTEMENTS DU HAUT-RHIN, DU BAS-RHIN ET DE LA MOSELLE DE LA LOI N° 77-774 DU 12 JUILLET 1977 TENDANT A ACCORDER AUX FEMMES ASSUREES AU REGIME GENERAL DE LA SECURITE SOCIALE ATTEIGNANT L'AGE DE SOIXANTE ANS LA PENSION DE VIEILLESSE AU TAUX NORMALEMENT APPLICABLE A SOIXANTE-CINQ ANS.
+
+- Nature : Decret
+- Numéro : 78-319
+- Date du texte : 1978-03-08
+- Publication au JORF : 1978-03-16
+- Identifiant LEGI : LEGITEXT000006062843
+- Identifiant JORF : JORFTEXT000000874390
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006062843
+
+1 article en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

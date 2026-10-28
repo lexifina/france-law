@@ -1,0 +1,13 @@
+# Décret n° 2017-1013 du 10 mai 2017 fixant l'échelonnement indiciaire applicable aux emplois d'inspecteur général et d'inspecteur de la justice
+
+- Nature : Decret
+- Numéro : 2017-1013
+- Date du texte : 2017-05-10
+- Publication au JORF : 2017-05-11
+- NOR : JUST1708595D
+- Identifiant LEGI : LEGITEXT000034795256
+- Identifiant JORF : JORFTEXT000034678014
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000034795256
+
+2 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

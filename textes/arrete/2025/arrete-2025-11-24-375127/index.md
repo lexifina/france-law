@@ -1,0 +1,12 @@
+# Arrêté du 24 novembre 2025 modifiant les dispositions du code du sport relatives aux établissements organisant la pratique de la plongée et les annexes III-15 a et III-15 b
+
+- Nature : Arrete
+- Date du texte : 2025-11-24
+- Publication au JORF : 2026-01-16
+- NOR : SPOV2536790A
+- Identifiant LEGI : LEGITEXT000053375127
+- Identifiant JORF : JORFTEXT000053374047
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053375127
+
+1 article en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

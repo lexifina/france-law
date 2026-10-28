@@ -1,0 +1,10 @@
+# Ordonnance du 18 décembre 1839 portant règlement sur les établissements publics et privés consacrés aux aliénés.
+
+- Nature : Ordonnance
+- Date du texte : 1839-12-18
+- Identifiant LEGI : LEGITEXT000006070941
+- Identifiant JORF : JORFTEXT000000320908
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070941
+
+29 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

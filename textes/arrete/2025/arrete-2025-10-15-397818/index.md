@@ -1,0 +1,12 @@
+# Arrêté du 15 octobre 2025 relatif à la composition du cabinet du Premier ministre
+
+- Nature : Arrete
+- Date du texte : 2025-10-15
+- Publication au JORF : 2025-10-16
+- NOR : PRMX2527924A
+- Identifiant LEGI : LEGITEXT000052397818
+- Identifiant JORF : JORFTEXT000052396995
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000052397818
+
+2 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

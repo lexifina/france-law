@@ -1,0 +1,12 @@
+# Arrêté du 12 avril 2018 fixant la liste des recherches mentionnées au 2° de l'article L. 1121-1 du code de la santé publique
+
+- Nature : Arrete
+- Date du texte : 2018-04-12
+- Publication au JORF : 2018-04-17
+- NOR : SSAP1810239A
+- Identifiant LEGI : LEGITEXT000036868315
+- Identifiant JORF : JORFTEXT000036805796
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000036868315
+
+7 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

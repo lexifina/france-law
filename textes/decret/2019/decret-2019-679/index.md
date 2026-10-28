@@ -1,0 +1,13 @@
+# Décret n° 2019-679 du 28 juin 2019 relatif aux comités techniques d'établissement locaux de l'Assistance publique-hôpitaux de Paris
+
+- Nature : Decret
+- Numéro : 2019-679
+- Date du texte : 2019-06-28
+- Publication au JORF : 2019-06-30
+- NOR : SSAH1917426D
+- Identifiant LEGI : LEGITEXT000038711735
+- Identifiant JORF : JORFTEXT000038704569
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000038711735
+
+3 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

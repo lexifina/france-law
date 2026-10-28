@@ -1,0 +1,12 @@
+# Décret du 3 septembre 2025 portant nomination de la directrice de l'information légale et administrative - Mme LEHIDEUX (Véronique)
+
+- Nature : Decret
+- Date du texte : 2025-09-03
+- Publication au JORF : 2025-09-04
+- NOR : PRMX2524624D
+- Identifiant LEGI : LEGITEXT000052186301
+- Identifiant JORF : JORFTEXT000052184891
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000052186301
+
+2 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

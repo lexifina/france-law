@@ -1,0 +1,12 @@
+# Arrêté du 9 décembre 2025 homologuant le cahier des charges de l'indication géographique « Marc des Côtes du Rhône » ou « Eau-de-vie de marc des Côtes du Rhône »
+
+- Nature : Arrete
+- Date du texte : 2025-12-09
+- Publication au JORF : 2025-12-18
+- NOR : AGRT2525999A
+- Identifiant LEGI : LEGITEXT000053046651
+- Identifiant JORF : JORFTEXT000053043485
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053046651
+
+2 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

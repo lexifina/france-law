@@ -1,0 +1,12 @@
+# Arrêté du 10 juillet 2024 modifiant l'arrêté du 21 mars 2023 modifié fixant les modalités d'organisation, la nature, la durée, les coefficients et le programme des épreuves des concours d'entrée à l'Institut national du service public et les modalités d'organisation des concours d'accès aux cycles préparatoires au concours interne et au troisième concours
+
+- Nature : Arrete
+- Date du texte : 2024-07-10
+- Publication au JORF : 2024-07-11
+- NOR : PRME2418470A
+- Identifiant LEGI : LEGITEXT000049949210
+- Identifiant JORF : JORFTEXT000049938355
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049949210
+
+1 article en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

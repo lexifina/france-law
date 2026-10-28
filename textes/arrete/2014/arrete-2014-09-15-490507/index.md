@@ -1,0 +1,12 @@
+# Arrêté du 15 septembre 2014 modifiant l'arrêté du 22 octobre 2010 relatif à la classification et aux règles de construction parasismique applicables aux bâtiments de la classe dite « à risque normal »
+
+- Nature : Arrete
+- Date du texte : 2014-09-15
+- Publication au JORF : 2014-09-23
+- NOR : ETLL1407083A
+- Identifiant LEGI : LEGITEXT000029490507
+- Identifiant JORF : JORFTEXT000029490176
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000029490507
+
+1 article en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

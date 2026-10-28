@@ -1,0 +1,12 @@
+# Arrêté du 17 février 2006 autorisant le transfert d'informations nominatives des caisses de mutualité sociale agricole à destination des services d'inspection du travail en agriculture dans le cadre de la lutte contre l'influenza aviaire
+
+- Nature : Arrete
+- Date du texte : 2006-02-17
+- Publication au JORF : 2006-02-18
+- NOR : AGRF0600375A
+- Identifiant LEGI : LEGITEXT000006053302
+- Identifiant JORF : JORFTEXT000000454803
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006053302
+
+5 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

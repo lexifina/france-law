@@ -1,0 +1,11 @@
+# Arrêté du 27 juillet 1962 portant extension du bénéfice des dispositions du décret n° 59-1569 du 31 décembre 1959 au personnel du Fonds d'orientation et de régularisation des marchés agricoles.
+
+- Nature : Arrete
+- Date du texte : 1962-07-27
+- Publication au JORF : 1962-08-23
+- Identifiant LEGI : LEGITEXT000006070494
+- Identifiant JORF : JORFTEXT000000660169
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070494
+
+2 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

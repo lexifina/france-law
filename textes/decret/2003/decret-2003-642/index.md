@@ -1,0 +1,13 @@
+# Décret n°2003-642 du 11 juillet 2003 portant application de certaines dispositions de la loi n° 2003-495 du 12 juin 2003 renforçant la lutte contre la violence routière et modifiant notamment le code pénal, le code de procédure pénale et le code de la route
+
+- Nature : Decret
+- Numéro : 2003-642
+- Date du texte : 2003-07-11
+- Publication au JORF : 2003-07-12
+- NOR : EQUS0301068D
+- Identifiant LEGI : LEGITEXT000005634757
+- Identifiant JORF : JORFTEXT000000239905
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000005634757
+
+3 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

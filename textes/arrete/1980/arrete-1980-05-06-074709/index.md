@@ -1,0 +1,11 @@
+# Arrêté du 6 mai 1980 relatif aux conditions de délivrance et d'emploi de l'aldicarbe en agriculture
+
+- Nature : Arrete
+- Date du texte : 1980-05-06
+- Publication au JORF : 1980-06-15
+- Identifiant LEGI : LEGITEXT000006074709
+- Identifiant JORF : JORFTEXT000000674157
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006074709
+
+6 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

@@ -1,0 +1,13 @@
+# Décret n° 2012-1531 du 29 décembre 2012 relatif aux prêts ne portant pas intérêt consentis pour financer la primo-accession à la propriété
+
+- Nature : Decret
+- Numéro : 2012-1531
+- Date du texte : 2012-12-29
+- Publication au JORF : 2012-12-30
+- NOR : ETLL1240304D
+- Identifiant LEGI : LEGITEXT000026885847
+- Identifiant JORF : JORFTEXT000026863629
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000026885847
+
+4 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

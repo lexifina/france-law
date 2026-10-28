@@ -1,0 +1,11 @@
+# Arrêté du 22 février 1984 portant dérogation aux dispositions du paragraphe 4 de l'article 9 du décret du 14 novembre 1962 *nouvellement décret 88-1056 du 14 novembre 1988* en ce qui concerne l'interrupteur des machines-outils portatives à main.
+
+- Nature : Arrete
+- Date du texte : 1984-02-22
+- Publication au JORF : 1984-03-23
+- Identifiant LEGI : LEGITEXT000006072425
+- Identifiant JORF : JORFTEXT000000655072
+- Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006072425
+
+3 articles en vigueur dans ce dossier à la date du dernier commit de loi. Chaque fichier est un article ; `git log --follow` montre les textes qui l'ont écrit.
+

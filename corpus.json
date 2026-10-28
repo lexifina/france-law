@@ -1,0 +1,37 @@
+{
+  "corpus": "fr/national/acts",
+  "name": "French law: every consolidated text in DILA's LEGI base (the Constitution, the codes, laws, ordinances, decrees and orders), article by article",
+  "language": "fr",
+  "in_force_trailer": "In-force",
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "Signed"
+    ],
+    "time": "12:00 Europe/Paris (UTC+1, UTC+2 in summer time); before 1970 clamped to 1970-01-01 UTC, the real day in In-force"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "when_absent": "this corpus records no scope notes (no commit carries Applies:); the absence is not a statement that the change reaches every case",
+    "default_reach": {
+      "rule": "no retroactivity (statute law); criminal law: no retroactivity of harsher rules, retroactivity of milder ones",
+      "meaning": "a text provides only for the future and has no retroactive effect, unless the legislature (not a regulation) provides otherwise within constitutional limits; in criminal law a harsher rule applies only to acts committed after it takes effect, a milder one applies at once to acts not yet finally judged",
+      "authority": "Code civil, art. 2 (\"La loi ne dispose que pour l'avenir ; elle n'a point d'effet rétroactif.\"); Déclaration des droits de l'homme et du citoyen de 1789, art. 8; Code pénal, art. 112-1",
+      "decided_here": false
+    }
+  },
+  "tool": "tools/en_vigueur.py",
+  "source": {
+    "publisher": "Direction de l'information légale et administrative (DILA)",
+    "dataset": "LEGI",
+    "url": "https://echanges.dila.gouv.fr/OPENDATA/LEGI/",
+    "licence": "Licence Ouverte / Open Licence 2.0 (Etalab)"
+  },
+  "history_from": "0881-10-09",
+  "record_to": "2026-10-28",
+  "built": "2026-10-28",
+  "acts": {
+    "texts": 153011,
+    "with_articles_in_force": 118853
+  }
+}
