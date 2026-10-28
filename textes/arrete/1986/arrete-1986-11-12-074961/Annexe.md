@@ -1,14 +1,14 @@
-# Article annexe
+# Article Annexe
 
 1. Objet et domaine d'application.
 
-La présente méthode a pour objet de doser la vitamine D dans les aliments secs ou humides pour animaux familiers.
+La présente méthode a pour objet de doser le rétinol (vitamine A) dans les aliments secs ou humides pour animaux familiers.
 
 2. Principe.
 
-Hydrolyse à chaud de l'échantillon par une solution d'hydroxyde de potassium en milieu éthanolique. Extraction par l'éther de pétrole et purification par deux chromatographies sur colonne. Dosage de la vitamine D par chromatographie liquide haute performance (C.L.H.P.) sur colonne de gel de silice et détection U.V..
+Hydrolyse à chaud de l'échantillon par une solution d'hydroxyde de potassium en milieu éthanolique. Extraction par l'éther de pétrole. Dosage de la vitamine A contenue dans cet extrait par chromatographie liquide haute performance (C.L.H.P.) sur colonne de gel de silice et détection U.V.
 
-La méthode ne permet pas de séparer l'ergocalciférol (vitamine D2) du cholécalciférol (vitamine D3).
+Les formes trans, 13 - cis et 9 - cis du rétinol sont séparées.
 
 3. Réactifs.
 
@@ -18,51 +18,45 @@ Les réactifs doivent être de qualité analytique. L'eau utilisée doit être d
 
 3.2. Solution à 20 p. 100 (m/v) de pyrogallol dans l'éthanol (3.1).
 
-3.3. Solution à 50 p. 100 (m/v) d'hydroxyde de potassium.
+3.3. Solution 0,5 M de sulfure de sodium dans la glycérine à 70 p. 100 (v/v).
 
-3.4. Ether de pétrole (ébullition 40-65 °C).
+3.4. Solution à 50 p. 100 (m/v) d'hydroxyde de potassium.
 
-3.5. Magnésie active (S 120 Fisher Scientific Company ou équivalent).
+3.5. Ether de pétrole (ébullition 40 - 65 °C).
 
-3.6. Hyflo supercel.
+3.6. Phase mobile : mélange 99/1 (v/v) d'isooctane et d'alcool isopropylique.
 
-3.7. Mélange 1/1 (m/m) de (3.5) et (3.6).
+3.7. Acétate de trans-rétinol.
 
-3.8. Sulfate de sodium anhydre.
+3.8. Solution étalon de trans-rétinol.
 
-3.9. Alumine active neutre (Merck 1077 ou équivalent). Activer l'alumine à 100 °C à l'étuve pendant une nuit. Refroidir en dessicateur et conserver en flacon bouché.
+Préparation :
 
-3.10. Ether de pétrole à 5 p. 100 d'acétone (v/v). Sécher cette solution sur sulfate de sodium (3.8).
+Mettre dans un ballon de 250 ml une prise d'essai d'acétate de trans-rétinol contenant environ 15 000 à 20 000 U.I. de rétinol, ajouter 5 ml de solution de pyrogallol (3.2), 35 ml d'éthanol (3.1) et 10 ml de solution d'hydroxyde de potassium (3.4). Chauffer durant trente minutes à 70 - 80 °C sous réfrigérant à reflux et laisser ensuite refroidir sous courant d'eau. Ajouter 40 ml d'eau et 100 ml d'éther de pétrole (3.5). Extraire par agitation deux à trois minutes. Laisser décanter dans le ballon. Transvaser la phase supérieure dans une ampoule à décanter (4.3). Laver cette phase éthérée jusqu'à neutralité avec des fractions de 50 ml d'eau et la sécher à l'aide de bandes de papier filtre. Dans deux fioles jaugées de 50 ml faire, à la pipette, deux prélèvements de 5 ml de la phase éthérée.
 
-3.11. Ether de pétrole à 8 p. 100 (v/v) d'alcool absolu.
+Compléter à 50 ml avec de l'éther de pétrole la première fiole. Evaporer sous courant d'azote le contenu de la deuxième fiole et compléter ensuite à 50 ml avec de l'alcool isopropylique. La concentration en rétinol de cette solution sera déterminée par la mesure de sa densité optique à 325 nm : C (U.I./ml) =
 
-3.12. Ether de pétrole à 2 p. 100 (v/v) d'acétone. Sécher cette solution sur sulfate de sodium (3.8).
+18,3 X D.O..
 
-3.13. Ether de pétrole à 20 p. 100 (v/v) d'acétone. Sécher cette solution sur sulfate de sodium (3.8).
-
-3.14. Solutions étalon : solution mère à 500 mg/ml (20 000 U.I./ml) dans l'isooctane. Solution de travail à 5 mg/ml (200 U.I./ml) dans l'isooctane.
-
-3.15. Phase mobile : mélange 99/1 (v/v) d'isooctane et d'alcool isopropylique.
+C'est la solution éthérée contenue dans la première fiole qui sera injectée dans le chromatographe.
 
 4. Appareillage.
 
-Matériel courant de laboratoire, et notamment :
+Matériel courant de laboratoire et notamment :
 
 4.1. Rampe de chauffage (chauffe-ballon ou bain d'eau) avec réfrigérants à rodage.
 
-4.2. Ballons d'un litre à rodage adaptable aux réfrigérants.
+4.2. Ballons de 500 ml à rodage adaptable aux réfrigérants.
 
 4.3. Ampoules à décanter de 500 ml.
 
 4.4. Appareil rotatif à évaporation sous vide.
 
-4.5. Colonnes pour chromatographie, en verre, de 25 cm de longueur et 25 mm de diamètre intérieur, munies d'un fritté de porosité 2 dans la partie inférieure.
+4.5. Appareil de C.L.H.P. avec détection par absorption U.V..
 
-4.6. Colonnes pour chromatographie, en verre, de 25 cm de longueur et 14 mm de diamètre intérieur.
+4.6. Colonne de gel de silice 10 mm (longueur 30 cm ; diamètre intérieur 4 mm) ou système équivalent donnant des facteurs de capacité de la colonne (k') de l'ordre de 3,7 pour le 13 - cis, 4,1 pour le 9 - cis et 5,3 pour le trans.
 
-4.7. Appareil de C.L.H.P. avec détection par absorption U.V..
-
-4.8. Colonne de gel de silice de 10 mm (30 cm de longueur et 4 mm de diamètre intérieur) ou système équivalent donnant un facteur de capacité (k') de l'ordre de 3.5.
+4.7. Spectrophotomètre.
 
 5. Mode opératoire.
 
@@ -72,7 +66,7 @@ Matériel courant de laboratoire, et notamment :
 
 Tout ou partie de l'échantillon est broyé de façon à pouvoir passer à travers les mailles d'un tamis de 1 mm d'ouverture. Homogénéiser.
 
-5.1.2. Cas des aliments humides :
+5.1.2. Cas des aliments humides.
 
 Tout ou partie de l'échantillon est haché finement. Homogénéiser.
 
@@ -80,56 +74,42 @@ Note - Les échantillons doivent être traités juste avant l'analyse. L'analyse
 
 5.2. Hydrolyse et extraction.
 
-Introduire 60 g de l'échantillon préparé et pesé à 0,01 g près dans un ballon de un litre (4.2). Ajouter successivement 20 ml de solution de pyrogallol (3.2), 160 ml d'éthanol (3.1) et 45 ml de solution d'hydroxyde de potassium (3.3). Chauffer durant 30 minutes à 70-80 °C sous réfrigérant à reflux et laisser ensuite refroidir sous courant d'eau. Ajouter 180 ml d'eau et 250 ml d'éther de pétrole (3.4) exactement mesurés. Extraire par agitation pendant quatre à cinq minutes. Laisser décanter dans le ballon. Verser la phase organique supérieure dans une ampoule à décanter de 500 ml. Laver cette phase jusqu'à neutralité et éliminer les traces d'eau à l'aide de bandes de papier filtre. Evaporer à sec 200 ml exactement mesurés. Reprendre le résidu par 50 ml d'éther de pétrole à 5 p. 100 d'acétone (3.10).
+Introduire 25 g de l'échantillon préparé et pesé à 0,01 g près dans un ballon de 500 ml (4.2). Ajouter successivement 10 ml de solution de pyrogallol (3.2), 4 ml de solution de sulfure de sodium (3.3), 70 ml d'éthanol (3.1) et 20 ml de solution d'hydroxyde de potassium (3.4). Chauffer durant trente minutes à 70 - 80 °C sous réfrigérant à reflux et laisser ensuite refroidir sous courant d'eau. Ajouter 80 ml d'eau et 100 ml d'éther de pétrole (3.5). Extraire par agitation une à deux minutes. Laisser décanter dans le ballon. Verser la phase organique supérieure dans une ampoule à décanter de 500 ml. Récupérer dans le ballon la phase aqueuse qui serait passée dans l'ampoule. Extraire encore deux fois dans le ballon par des fractions de 100 ml d'éther. Laver la phase organique obtenue après les extractions jusqu'à neutralité et éliminer les traces d'eau à l'aide de bandes de papier filtre. Evaporer à sec ainsi que l'éther servant à rincer l'ampoule. Reprendre le résidu sec par 25 ml d'éther exactement mesurés. C'est cet extrait qui sera injecté dans le chromatographe.
 
-5.3. Chromatographie sur colonne magnésie - hyflo supercel.
+5.3. Conditions de la chromatographie liquide haute performance :
 
-Verser dans la colonne (4.5) la quantité adéquate du mélange (3.7) tout en s'aidant du vide afin de bien tasser la colonne qui doit avoir 5 cm de hauteur de mélange. Mettre au sommet de la colonne du sulfate de sodium (3.8) sous une hauteur de 1 à 2 cm. Verser le contenu du ballon sur la colonne et l'éluer en s'aidant légèrement du vide.
+Débit de la phase mobile : 2 ml/minute ;
 
-Récupérer l'éluat dans la fiole à filtrer et continuer l'élution avec deux fois 50 ml du réactif (3.10).
+Longueur d'onde de détection : 325 nm avec une lampe au Deutérium ou filtre à 313 nm avec lampe à vapeur de mercure ;
 
-Evaporer à sec l'éluat et reprendre par 5 ml environ d'éther de pétrole (3.4).
+Sensibilité du détecteur : 0,020 ;
 
-5.4. Chromatographie sur alumine.
-
-Introduire un tampon de coton au fond de la colonne (4.6) et verser 20 ml environ d'éther de pétrole (3.4). Verser ensuite 7 g d'alumine (3.10). Protéger la tête de colonne par un peu de coton. Laisser s'écouler l'éther de pétrole. Verser ensuite 6 ml d'éther de pétrole à 8 p. 100 d'alcool absolu (3.11) puis 10 ml d'éther de pétrole (3.4). Verser l'extrait obtenu en 5.3 après la première purification. Rincer le ballon à l'aide de fractions d'éther de pétrole et les verser sur la colonne. Rincer la colonne par 40 ml d'éther de pétrole à 2 p. 100 d'acétone (3.12). Eliminer ces éluats. Eluer la colonne avec 50 ml d'éther de pétrole à 20 p. 100 d'acétone (3.13). Evaporer à sec l'éluat et reprendre le résidu par 3 ml exactement mesurés d'isooctane (3.15). C'est cet extrait deux fois purifié qui sera injecté dans le chromatographe.
-
-5.5. Conditions de la chromatographie liquide haute performance :
-
-Débit de la phrase mobile : 1 ml/minute ;
-
-Longueur d'onde de détection : 264 nm avec une lampe au Deutérium ou filtre à 254 nm avec une lampe à vapeur de mercure ;
-
-Sensibilité du détecteur : 0,005 ;
-
-Volumes injectés : 5 ml pour l'étalon ; 25 ml pour l'échantillon.
+Volumes injectés : 10 ml pour l'étalon et la quantité appropriée de la solution obtenue en 5.2.
 
 6. Mode de calcul et formule.
 
-La teneur en vitamine D, exprimée en Unités Internationales par gramme d'échantillon, est donnée par la formule suivante :
+La teneur en vitamine A, exprimée en Unités Internationales par gramme d'échantillon, est donnée par la formule suivante :
 
 (formule non reproduite, voir au Journal officiel).
 
-C et : concentration de la solution étalon (U.I./ml).
+Cet : concentration de la solution étalon calculée selon 3.7.
 
-A et A ech : surfaces des pics de l'étalon et de l'échantillon.
+Aet : surface du pic de l'étalon.
 
-I et I ech : volumes de l'injection de la solution étalon et de l'échantillon.
+Aech. Cis- Aech. trans : surfaces des pics du cis et du trans-rétinol de l'échantillon.
 
-S et S ech : sensibilités du détecteur pour l'étalon et l'échantillon (Remarque 7.2).
+Iet - Iech : volumes de l'injection de la solution étalon et de l'échantillon.
 
-Vi : volume d'extraction (250 ml dans la méthode).
+Set - Sech : sensibilités du détecteur pour l'étalon et l'échantillon (remarque 7.1).
 
-Vr : volume prélevé après extraction (200 ml dans la méthode).
-
-Vf : volume final après concentration (3 ml dans la méthode).
+Vf : volume final (25 ml dans la méthode).
 
 P : prise d'essai.
 
+0,815 : facteur correctif pour le cis rétinol : rapport des absorbances et activité (0,75/0,92) (remarque 7.2).
+
 7. Remarques.
 
-7.1. Pour la séparation de la vitamine D, la colonne de silice utilisée doit être très sélective. Si, à l'usage, la colonne ne donne pas la séparation souhaitée, on peut essayer de la régénérer en faisant passer 75 ml de chloroforme, puis 75 ml de méthanol, puis à nouveau 75 ml de chloroforme. Restabiliser la colonne avec la phase mobile.
+7.1 Si la mesure des surfaces s'effectue à l'aide d'un intégrateur branché sur la sortie intégration du détecteur, ne pas tenir compte dans le calcul du rapport des sensibilités.
 
-7.2. Si la mesure des surfaces s'effectue à l'aide d'un intégrateur branché sur la sortie intégration du détecteur, ne pas tenir compte dans le calcul du rapport des sensibilités.
-
-7.3. Dans le cas des aliments humides où les teneurs en vitamine D sont souvent très faibles, il est recommandé de prendre toutes les précautions analytiques, lorsqu'un dossier sera susceptible d'être présenté au Parquet.
+7.2 Les colonnes de gel de silice permettent de séparer la 13 - cis rétinol, 9 - cis rétinol et le trans-rétinol. Le 9 - cis peut être négligé car lorsqu'il est présent, il est en faible quantité. Il est très difficile d'avoir un étalon de 13 - cis rétinol, cet isomère sera donc dosé à l'aide de l'étalon de trans-rétinol. On tiendra compte pour le calcul du 13 - cis rétinol de sa différence d'absorbance avec le trans et de son activité vitaminique qui n'est que de 75 p. 100 de celle du trans.
