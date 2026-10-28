@@ -1,0 +1,10 @@
+{
+  "path": "fr",
+  "code": "FR",
+  "name": "France",
+  "level": "country",
+  "repo": "https://github.com/lexifina/france-law",
+  "build": "built: Constitution (1958-), Code civil (1994-), Code pénal (1994-) from the LEGI database",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28"
+}

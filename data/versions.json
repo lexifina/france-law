@@ -1,0 +1,3479 @@
+{
+ "country": "FR",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution du 4 octobre 1958",
+   "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194",
+   "versions": [
+    {
+     "from": "1958-10-05",
+     "units": 93,
+     "source_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/1958-10-05",
+     "sha256": "e142b0744473d880970f93a973f176798aaf0eee3c7baa8529673c8bb4e64c82"
+    },
+    {
+     "from": "1960-06-08",
+     "units": 93,
+     "source_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/1960-06-08",
+     "sha256": "a69504e901794e4873e8a576e56a0eaf46d17a837e1ca53d117ded8995b01ffa"
+    },
+    {
+     "from": "1962-11-09",
+     "units": 93,
+     "source_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/1962-11-09",
+     "sha256": "c2a6f0e92e1dcc8c4a1f4202d8bbfd5a9479c650a2206d8460dc44137cf6128c"
+    },
+    {
+     "from": "1963-12-31",
+     "units": 93,
+     "source_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/1963-12-31",
+     "sha256": "6c4a9d4083d9692129ba25bb7b736eb272e7122cbe925001593d2848abd2e71d"
+    },
+    {
+     "from": "1974-10-30",
+     "units": 93,
+     "source_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/1974-10-30",
+     "sha256": "4bc77cfe37b3c9979b99e50ec61a5b806c40a0ab7f49f779160e9f33300d7e1c"
+    },
+    {
+     "from": "1976-06-19",
+     "units": 93,
+     "source_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/1976-06-19",
+     "sha256": "30f9790f078ee8c0a6dd949043a20369f20c2ffece98425523f0a56e18d4372d"
+    },
+    {
+     "from": "1992-06-26",
+     "units": 97,
+     "source_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/1992-06-26",
+     "sha256": "2a5505caaa07e36c607b369c2f1f3afb7ff9846ba099e5b529cf869193d4eccb"
+    },
+    {
+     "from": "1993-07-28",
+     "units": 100,
+     "source_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/1993-07-28",
+     "sha256": "bc1644bc5f2a74767891cf47ef6b24a40fef46fc3a49f5389237e8484e06296f"
+    },
+    {
+     "from": "1993-11-26",
+     "units": 101,
+     "source_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/1993-11-26",
+     "sha256": "cfea6b4bc02fbe7e16d99087e37d14c6192a7314c85ab061e70c8e639b3e2b39"
+    },
+    {
+     "from": "1995-08-05",
+     "units": 86,
+     "source_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/1995-08-05",
+     "sha256": "7ab69f7d37429fd844a900dc52865deb9a5044ae59748b3429d4233f135bff85"
+    },
+    {
+     "from": "1996-02-23",
+     "units": 87,
+     "source_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/1996-02-23",
+     "sha256": "83563b873245de7b943f7b2bd2aa686ed201eb0f4a9f57000e564e34277aae1b"
+    },
+    {
+     "from": "1998-07-21",
+     "units": 89,
+     "source_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/1998-07-21",
+     "sha256": "b2e32a0fd2dd8e39feb40cb9caea31b46d46959f78f86b2992f5a4f20a43e37f"
+    },
+    {
+     "from": "1999-01-26",
+     "units": 89,
+     "source_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/1999-01-26",
+     "sha256": "0f687f0b85c44c36aa20e5058a090c092311fa6ad34f45c49e5dda821bed4b86"
+    },
+    {
+     "from": "1999-07-09",
+     "units": 90,
+     "source_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/1999-07-09",
+     "sha256": "702026e1a17d318165a0e2eeb320acc20b5547d50256cb565eada737ac092653"
+    },
+    {
+     "from": "2000-10-03",
+     "units": 90,
+     "source_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2000-10-03",
+     "sha256": "11373c5674bd20b58b883795670cf63a76b2c0bfeb957ba7f589d811d3ed66f8"
+    },
+    {
+     "from": "2003-03-26",
+     "units": 90,
+     "source_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2003-03-26",
+     "sha256": "02b15e5004d91cd535a29d8e196fa1b037df0e22692449b985f03011a34cc55e"
+    },
+    {
+     "from": "2003-03-29",
+     "units": 96,
+     "source_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2003-03-29",
+     "sha256": "ea039c04d0e34171e5802edb06a4c7a235c5e369e5eae09d5ab0092701b69171"
+    },
+    {
+     "from": "2005-03-02",
+     "units": 97,
+     "source_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2005-03-02",
+     "sha256": "0042b7c8bad95b4e347cce4165362c1471b1b47330915dd969ccd095b5bb1236"
+    },
+    {
+     "from": "2007-02-24",
+     "units": 98,
+     "source_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2007-02-24",
+     "sha256": "6c8aadc571ea61da575fb883d3c61c5d73efc4fe43fd6ee8ad1b30f6a405bba0"
+    },
+    {
+     "from": "2008-02-06",
+     "units": 98,
+     "source_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2008-02-06",
+     "sha256": "3664c723040774e620aa258237a767122fdb2a0f7340c587a1fed3505be656e5"
+    },
+    {
+     "from": "2008-07-25",
+     "units": 104,
+     "source_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2008-07-25",
+     "sha256": "709e884c776a2fd9abb74114a5c4bcaa42b4c75977e1f023d2f0be6b7623471c"
+    },
+    {
+     "from": "2009-03-01",
+     "units": 107,
+     "source_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2009-03-01",
+     "sha256": "3d7efd6b9a7357eff4872373fa8d9a60696c4e62b68dba53e891dcf0f3ead525"
+    },
+    {
+     "from": "2009-12-01",
+     "units": 109,
+     "source_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2009-12-01",
+     "sha256": "16dda758a9f2ecf0ad2b27ab600e207058145182c89747d87a8e097248cb2675"
+    },
+    {
+     "from": "2024-03-10",
+     "units": 109,
+     "source_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2024-03-10",
+     "sha256": "f526e32862ffc046f96a75b6a2c04d597d06fd9ef73d34a57f9eb662917edecc"
+    }
+   ]
+  },
+  {
+   "slug": "code-civil",
+   "short": "Code civil",
+   "title": "Code civil",
+   "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721",
+   "versions": [
+    {
+     "from": "1994-01-01",
+     "units": 2537,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1994-01-01",
+     "sha256": "a446d89c0b35c9d442f710f4f7c20c57ab150297320a3f29a872284e07d4e590"
+    },
+    {
+     "from": "1994-02-01",
+     "units": 2543,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1994-02-01",
+     "sha256": "23e9935828f86952c851e68ad51015bdfc9ec00ec9cfcd8922766e9cbb4592da"
+    },
+    {
+     "from": "1994-02-13",
+     "units": 2543,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1994-02-13",
+     "sha256": "d3629b34145fa022bf1d776438b5a0353d457e100d9954e7356ca12f10a4d8ee"
+    },
+    {
+     "from": "1994-03-01",
+     "units": 2544,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1994-03-01",
+     "sha256": "6ab1ff3e5684e0561f5a28e28f96bfe3ff414338e6b4be9edfa0311150135e1a"
+    },
+    {
+     "from": "1994-07-01",
+     "units": 2545,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1994-07-01",
+     "sha256": "78de395696aeed5d85a2c0b608a17dcc210fa84515f1fe29839b49af36a826d9"
+    },
+    {
+     "from": "1994-07-26",
+     "units": 2545,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1994-07-26",
+     "sha256": "271f43f79783c5d42132358d4799c6997de392aa0fb556c0edd9787193069eb5"
+    },
+    {
+     "from": "1994-07-30",
+     "units": 2560,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1994-07-30",
+     "sha256": "d7d76d38592de5505f523a77b377fa5b9547ae9e1ae118faf0cccb3c23972f58"
+    },
+    {
+     "from": "1994-10-01",
+     "units": 2561,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1994-10-01",
+     "sha256": "de64dc41c184810e1bcf1374238327d7bcb0f629741af766099fe3ebb9c55792"
+    },
+    {
+     "from": "1995-01-01",
+     "units": 2561,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1995-01-01",
+     "sha256": "674b9e6885336f792b13ffd991bea1401d7afbb857f481b8126b5e9b804ccac8"
+    },
+    {
+     "from": "1995-02-02",
+     "units": 2561,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1995-02-02",
+     "sha256": "6e38b7b72c9cc8c605f8d46cb41e980d0b0021ee806e703999d521202c9bd033"
+    },
+    {
+     "from": "1995-02-09",
+     "units": 2561,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1995-02-09",
+     "sha256": "6e38b7b72c9cc8c605f8d46cb41e980d0b0021ee806e703999d521202c9bd033"
+    },
+    {
+     "from": "1995-05-09",
+     "units": 2561,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1995-05-09",
+     "sha256": "5a18b7758a34b19a59f3c6920a8128c482e7ed8a18568ed8dd77e5b996f001d6"
+    },
+    {
+     "from": "1995-08-01",
+     "units": 2561,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1995-08-01",
+     "sha256": "3792f31d90c190753e249f8be380de190b4ae2ac0714fbbdc5e5005045cf3cfa"
+    },
+    {
+     "from": "1996-05-29",
+     "units": 2561,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1996-05-29",
+     "sha256": "008a7acd9f409162f16c73b081a8c935f02b2f3908195813dd0cb18b158263c1"
+    },
+    {
+     "from": "1996-07-04",
+     "units": 2561,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1996-07-04",
+     "sha256": "cb66927deb122b85bb44e06785e3cd4ee860f809b872c7e7a0e492824ea634cd"
+    },
+    {
+     "from": "1996-07-06",
+     "units": 2563,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1996-07-06",
+     "sha256": "8d451acf99a34a2bce3d2814345f6c330b2e618262167e7e4ba65047d0feb7b0"
+    },
+    {
+     "from": "1996-07-23",
+     "units": 2563,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1996-07-23",
+     "sha256": "e8f8b2f44473091555b8e044529c66548a0b7fb5cb84560b7d24f4cff9a7b626"
+    },
+    {
+     "from": "1997-01-01",
+     "units": 2564,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1997-01-01",
+     "sha256": "e296c799e232490046cb8c9e0ede68ce72f1500e63e141bbf824ba0b5e9b5584"
+    },
+    {
+     "from": "1997-10-29",
+     "units": 2569,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1997-10-29",
+     "sha256": "d66e6a6ae77e33ef8279f1b9c463d537d09e27ac230b15c840a560f16a3158b0"
+    },
+    {
+     "from": "1998-02-07",
+     "units": 2569,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1998-02-07",
+     "sha256": "7c6893d0ad30d3e24f31f5ffdab3e601f637f9edaf562a70d815b3ac58c219a7"
+    },
+    {
+     "from": "1998-04-07",
+     "units": 2569,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1998-04-07",
+     "sha256": "7c6893d0ad30d3e24f31f5ffdab3e601f637f9edaf562a70d815b3ac58c219a7"
+    },
+    {
+     "from": "1998-05-19",
+     "units": 2569,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1998-05-19",
+     "sha256": "191bb1ba1a74766d8aea327499052387626c159ae4ece156fdc54c5ca2bb1631"
+    },
+    {
+     "from": "1998-05-21",
+     "units": 2587,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1998-05-21",
+     "sha256": "a4d90cbafe52c86eae429cb809377ffca318b6617a9e78398237d9bd1840e273"
+    },
+    {
+     "from": "1998-06-16",
+     "units": 2587,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1998-06-16",
+     "sha256": "c8633dd47e0478321de6c6a09eace0716b019f6758ac0deab98660eee14416aa"
+    },
+    {
+     "from": "1998-07-01",
+     "units": 2588,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1998-07-01",
+     "sha256": "3812b24ab9355db9cae91506c53129bfd3b993ffd993100aeaa65844681aff09"
+    },
+    {
+     "from": "1998-07-31",
+     "units": 2588,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1998-07-31",
+     "sha256": "6dca6873295cfa2902b27be53c6b1972fdfc3a2bd79105faf9e12d9f8c7f4f5b"
+    },
+    {
+     "from": "1998-09-01",
+     "units": 2589,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1998-09-01",
+     "sha256": "d903c27ca34eb4f41135039e37a774d80bd63dbf952f9cb8857f34b189b4da7e"
+    },
+    {
+     "from": "1999-01-07",
+     "units": 2589,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1999-01-07",
+     "sha256": "f64bd3f15182c5a9a973736fdaccca1a7d4cde8f52137a9e22b71c30357eb9f0"
+    },
+    {
+     "from": "1999-07-10",
+     "units": 2589,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1999-07-10",
+     "sha256": "3d1be7ce0a58dc3379253668c6b1399be92c2348c85cd7707831530c4d39e46c"
+    },
+    {
+     "from": "1999-11-16",
+     "units": 2598,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1999-11-16",
+     "sha256": "49ffa0d2e3b5e44fa488fcc3a997a1743d03ada410cab1213cc649c028fbf7e6"
+    },
+    {
+     "from": "1999-12-29",
+     "units": 2598,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1999-12-29",
+     "sha256": "49ffa0d2e3b5e44fa488fcc3a997a1743d03ada410cab1213cc649c028fbf7e6"
+    },
+    {
+     "from": "1999-12-30",
+     "units": 2599,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1999-12-30",
+     "sha256": "33c59e7c34d4404c586253e013379bcebeefb5dca4575d7aaed904afb27f2128"
+    },
+    {
+     "from": "2000-01-01",
+     "units": 2599,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2000-01-01",
+     "sha256": "52bd32cba134814c032a1f3a1b54fd0a24c19a36dbaac14cd86aa35e5554a8a7"
+    },
+    {
+     "from": "2000-03-14",
+     "units": 2604,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2000-03-14",
+     "sha256": "d948cf70af629a6be4e63272c3f2907a8bc50ce46aa8944221734c8b3de5f1fb"
+    },
+    {
+     "from": "2000-06-16",
+     "units": 2604,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2000-06-16",
+     "sha256": "381736348ff4e7d61d8828232e0510064c1e71e818d51023bb84cf5c3f7d393c"
+    },
+    {
+     "from": "2000-07-01",
+     "units": 2606,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2000-07-01",
+     "sha256": "3629b32ebf3fc22b8775b44333b2d08e376eb0cdc58b89b1327a38a798f39b4b"
+    },
+    {
+     "from": "2000-12-14",
+     "units": 2606,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2000-12-14",
+     "sha256": "6f769e1cac09e4a4c206aa8fd4c6443f9e779bc19d3409dbe589cf818a36fb99"
+    },
+    {
+     "from": "2001-02-08",
+     "units": 2609,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2001-02-08",
+     "sha256": "67615458394c7d25eb6ce58467370e38d9dcfd9a525f1e90d04945031d174c15"
+    },
+    {
+     "from": "2001-05-16",
+     "units": 2609,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2001-05-16",
+     "sha256": "6b5d5de8f57935b0c85a750c54179533963c0585329a775496914d0dac03f9e5"
+    },
+    {
+     "from": "2001-06-01",
+     "units": 2610,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2001-06-01",
+     "sha256": "46adbcb51aaf38fffd196e5ab9f60d6aa457990a2cdd14636721fd14574352a2"
+    },
+    {
+     "from": "2001-12-04",
+     "units": 2601,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2001-12-04",
+     "sha256": "1bd793d7952b219527c4b28d79f97155c99d79c1a5eee4d9ca52c3ff49b5c146"
+    },
+    {
+     "from": "2001-12-12",
+     "units": 2601,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2001-12-12",
+     "sha256": "c329309ad08f5e4977cc45c901a96a67787593450c512acb6592ef778a34e23a"
+    },
+    {
+     "from": "2002-01-01",
+     "units": 2601,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2002-01-01",
+     "sha256": "5c7a8a35a190323d3ec01b35ceec805fd5cbbbb57df113d650a731776b793841"
+    },
+    {
+     "from": "2002-01-23",
+     "units": 2602,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2002-01-23",
+     "sha256": "3ad5951a4f5a573feb61546cab4fc7c9d3589487463565577d671c2235e2f0ae"
+    },
+    {
+     "from": "2002-03-05",
+     "units": 2601,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2002-03-05",
+     "sha256": "e7fee3c8c5bd5e3f309615be327c43b661f622875c658e15b99e879e14983bb2"
+    },
+    {
+     "from": "2002-07-01",
+     "units": 2619,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2002-07-01",
+     "sha256": "f04602af6219eefeaedc1c1d817fa47a883094394c46a215c67b99062671dd44"
+    },
+    {
+     "from": "2003-09-01",
+     "units": 2619,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2003-09-01",
+     "sha256": "e1ab8d3ac761b6650e755c20f838dc969342b0608e29011620c221d0ff8d1cb1"
+    },
+    {
+     "from": "2003-11-27",
+     "units": 2619,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2003-11-27",
+     "sha256": "c54c75f4e8b205361a10ed442666307ce4dcb7f8fff5b4d7f7dbc29cc407fb65"
+    },
+    {
+     "from": "2004-01-03",
+     "units": 2619,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2004-01-03",
+     "sha256": "bd09623767008dfe52bb5014f67d2c5d59bf1a7bb91064e1e1981e7c7785c490"
+    },
+    {
+     "from": "2004-06-01",
+     "units": 2638,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2004-06-01",
+     "sha256": "76a3912c342a27703e9e1884efa63d6f34d2b6b18890e1eb3f6aec7137eb6859"
+    },
+    {
+     "from": "2004-06-22",
+     "units": 2643,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2004-06-22",
+     "sha256": "250981f4fd20b4c6e2f27a37fa41cb48797523c0e6f1ce368ed0c365afe50d85"
+    },
+    {
+     "from": "2004-06-26",
+     "units": 2643,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2004-06-26",
+     "sha256": "c821a3cc908e5890eadf0cac5bfe729c5f10b373b4fa85c6f838085028cbe507"
+    },
+    {
+     "from": "2004-08-07",
+     "units": 2643,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2004-08-07",
+     "sha256": "4a45c582cf984490d5c680854a7e510a874fbdf6493b5e0aca8e5a70fef106c6"
+    },
+    {
+     "from": "2004-08-17",
+     "units": 2644,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2004-08-17",
+     "sha256": "b879027eedc79ec5f7c4920d01c178350234a249a315dd49777d9c821bc0c2ee"
+    },
+    {
+     "from": "2004-11-21",
+     "units": 2644,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2004-11-21",
+     "sha256": "b97903902e1c6e400e233b610602d290783b21b03cffde42e95855692bfb89e7"
+    },
+    {
+     "from": "2004-12-10",
+     "units": 2644,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2004-12-10",
+     "sha256": "63404387fbd522de8588ea2b476353c855120d891af3202d855a31f36fcb7390"
+    },
+    {
+     "from": "2005-01-01",
+     "units": 2642,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2005-01-01",
+     "sha256": "4eecd0bf7d017fe6af6e6fced9942bba98d3268247ba27dac536b6addb91393e"
+    },
+    {
+     "from": "2005-01-19",
+     "units": 2642,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2005-01-19",
+     "sha256": "61322a0278be92daf605f1a13a221c7d53e99a4af4846988b103525b4d487626"
+    },
+    {
+     "from": "2005-02-12",
+     "units": 2642,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2005-02-12",
+     "sha256": "a914f1bb11458346f4fd0a578dd770413d837ec3a38ef3b4b339f1f23e618caf"
+    },
+    {
+     "from": "2005-02-18",
+     "units": 2642,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2005-02-18",
+     "sha256": "649506eb968fe90988a7cba929fef2627a4159d89e3ce92a1f99c44930f94f71"
+    },
+    {
+     "from": "2005-05-07",
+     "units": 2642,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2005-05-07",
+     "sha256": "38c6014fd4dde790f7c50318e85f847fd4b0fff635504fe825502368cf60e01e"
+    },
+    {
+     "from": "2005-06-09",
+     "units": 2644,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2005-06-09",
+     "sha256": "1a7782e7732d260188324785103e16c061d9c8e47e608aa28aa463e296bdb3e8"
+    },
+    {
+     "from": "2005-06-17",
+     "units": 2652,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2005-06-17",
+     "sha256": "1ef5a5bc7f044f21f28adef7e018a56b9a293633405b425ae3c80d891e8254da"
+    },
+    {
+     "from": "2005-07-01",
+     "units": 2652,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2005-07-01",
+     "sha256": "1ef5a5bc7f044f21f28adef7e018a56b9a293633405b425ae3c80d891e8254da"
+    },
+    {
+     "from": "2005-07-05",
+     "units": 2652,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2005-07-05",
+     "sha256": "f5926cd5fcf0c4bc5f1d185bd587af1bc5e9c3e37979b7fcfcc4d5d39961c99b"
+    },
+    {
+     "from": "2005-08-03",
+     "units": 2653,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2005-08-03",
+     "sha256": "685c0d68d0ff186fddbb42a24ac6c8e7c5b471a13ce8bc2eb657d4efacebe976"
+    },
+    {
+     "from": "2006-01-01",
+     "units": 2655,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2006-01-01",
+     "sha256": "8ddf47f012944d3e32e6b0dfb4c40aaa4fca8a58fb9c59545c3148037cd3acb6"
+    },
+    {
+     "from": "2006-01-24",
+     "units": 2655,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2006-01-24",
+     "sha256": "7e5cab624c51953c1fe41098da39fbd91df2ff365d91d852e7443e0e53ecd16e"
+    },
+    {
+     "from": "2006-03-14",
+     "units": 2654,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2006-03-14",
+     "sha256": "531b80a0b93a8bbefc17c37f567c6d0f7edc7eebad8d8e033aafc6b40b7a300c"
+    },
+    {
+     "from": "2006-03-24",
+     "units": 2718,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2006-03-24",
+     "sha256": "0daaaf9959025e06317bed771452336a727ba0bb6c42e135a280edae1e60935f"
+    },
+    {
+     "from": "2006-04-05",
+     "units": 2718,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2006-04-05",
+     "sha256": "9fd77fec21f85c6d67cf9b64f36da453d810dc8476d23c6d19d6f2e581af6345"
+    },
+    {
+     "from": "2006-04-06",
+     "units": 2718,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2006-04-06",
+     "sha256": "094959730df7c43fa59f824b0304febb527d777c347d4c5459a20c89a90ba7f4"
+    },
+    {
+     "from": "2006-07-01",
+     "units": 2675,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2006-07-01",
+     "sha256": "66a768631e72e1c44cd106e5171a78580f091f7a71d9a8e54905b805c44df721"
+    },
+    {
+     "from": "2006-07-25",
+     "units": 2680,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2006-07-25",
+     "sha256": "d8f94c56d570c995d9e4b50107d139b2d2545e7be6e49496a0fafd61e9e8575d"
+    },
+    {
+     "from": "2006-11-15",
+     "units": 2680,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2006-11-15",
+     "sha256": "590df243f0bf6188e2fd4d23bacfa18ff2d2c5365f36bb9b83315708a28d5978"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 2759,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2007-01-01",
+     "sha256": "de200428fbff4e1f3763ea7decb12101889102385b3a7018bfee8921bfcbba42"
+    },
+    {
+     "from": "2007-01-12",
+     "units": 2763,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2007-01-12",
+     "sha256": "72d4d84765abd7c2e4a73acbe1d430f96d0943701e604b46da29992a16d357e8"
+    },
+    {
+     "from": "2007-01-26",
+     "units": 2763,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2007-01-26",
+     "sha256": "99dc930e2a2f7be876a83acbdc51ef62f1479ed16bfd2889d28f606b152c58da"
+    },
+    {
+     "from": "2007-02-16",
+     "units": 2763,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2007-02-16",
+     "sha256": "9a85b82fd504265794fe2f4d5cec34911b5cce3e6b3590dffc7892d085e9f69b"
+    },
+    {
+     "from": "2007-02-21",
+     "units": 2785,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2007-02-21",
+     "sha256": "62f07bb71e6390b90d50652c7847df1954f9828071dee8dae7f29ad7062cfcea"
+    },
+    {
+     "from": "2007-02-22",
+     "units": 2785,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2007-02-22",
+     "sha256": "c0162a4067a71522691e978c09601c82324662c8a376377759a2bd39601dd898"
+    },
+    {
+     "from": "2007-03-01",
+     "units": 2792,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2007-03-01",
+     "sha256": "f1dc657d23d6edccacf3b8b80fb51842abe98eee7b14656af414638d9bb165d9"
+    },
+    {
+     "from": "2007-03-06",
+     "units": 2793,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2007-03-06",
+     "sha256": "ac4f0e996302b0dc4beac3fcb2cc7f054a341c2dcf4371c70f007dfedff6ad87"
+    },
+    {
+     "from": "2007-03-07",
+     "units": 2794,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2007-03-07",
+     "sha256": "9fd174e569fd7d3c764458c1d8233aa08acbf2c9f18a3b9379ed0ed6085fafb0"
+    },
+    {
+     "from": "2007-03-30",
+     "units": 2796,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2007-03-30",
+     "sha256": "c838b71ff34dcc3832e82c7496280619e44b46705ed7746a4f86d426c2e2f10d"
+    },
+    {
+     "from": "2007-07-01",
+     "units": 2796,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2007-07-01",
+     "sha256": "e02154db7dcd71308068ce98bc50f8bf5793eb461909c5369ea4d038113aaae1"
+    },
+    {
+     "from": "2007-11-21",
+     "units": 2794,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2007-11-21",
+     "sha256": "4e1e18bfcc5e7644eec95ea15876edc74a8e7c60333e38fe4cbeb9057e1e0c8e"
+    },
+    {
+     "from": "2007-12-22",
+     "units": 2794,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2007-12-22",
+     "sha256": "8c524db863c9fefab8cadef6564f933162cd32d4db5226b7d52e557a335e638b"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 2794,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2008-01-01",
+     "sha256": "fa5bf138335dc380e335e5ad3958bee3569c2f0f693e5224694740e259b0e68d"
+    },
+    {
+     "from": "2008-05-28",
+     "units": 2794,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2008-05-28",
+     "sha256": "116614f8b6f8475c2f074b57d9fa489b46ef00a5f3eaf3d055814acddc774dbf"
+    },
+    {
+     "from": "2008-06-19",
+     "units": 2792,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2008-06-19",
+     "sha256": "fcf8db5fc6f8455c962c6205afd3568652789e3ef034beeb4002e5464271521a"
+    },
+    {
+     "from": "2008-07-01",
+     "units": 2795,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2008-07-01",
+     "sha256": "da2ab5796a079d48f7cd7cc498f2bf2e181660d790258eaf4f6aa8dbdffb7a0b"
+    },
+    {
+     "from": "2008-08-06",
+     "units": 2797,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2008-08-06",
+     "sha256": "0387bf10fe12d9ce983675160a06550c2d70ea1a86898e7b053f5c76accfa30e"
+    },
+    {
+     "from": "2008-12-21",
+     "units": 2798,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2008-12-21",
+     "sha256": "99415c3905bc10ac6be99ec28ab0b231f21878ff3144bb45f1c5ed02df5a583e"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 2816,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2009-01-01",
+     "sha256": "cadbf4cba19399a8283444679c790fd783be55a7438db0aa9b1a0184a1663a7b"
+    },
+    {
+     "from": "2009-01-19",
+     "units": 2815,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2009-01-19",
+     "sha256": "85fdc3739171e93dfee6efd8f53c96cb334a169d59ffc2a781fc68af9fe5a703"
+    },
+    {
+     "from": "2009-02-01",
+     "units": 2826,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2009-02-01",
+     "sha256": "8451385cd76ed12b2ca824ba9b505fa40f24589d9f4649592fb2ea6dc1cb4513"
+    },
+    {
+     "from": "2009-03-28",
+     "units": 2826,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2009-03-28",
+     "sha256": "f7d06a759758946e8b68b3746b854249ed7328b39a3c29eb6f819d924323c129"
+    },
+    {
+     "from": "2009-04-01",
+     "units": 2826,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2009-04-01",
+     "sha256": "605fd8c609b37602df3a35ec6c245bd1e6dcc9ec58a01e4249b284812515b256"
+    },
+    {
+     "from": "2009-05-14",
+     "units": 2825,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2009-05-14",
+     "sha256": "a19df56c2ca5c9e6e322317143ec513bccd87787505266c1143b7e4cc1181a25"
+    },
+    {
+     "from": "2009-05-29",
+     "units": 2826,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2009-05-29",
+     "sha256": "7586c8cb65307cd3162fe326da8debd5a5b3ca393de35adf66fe5cf9c57a0202"
+    },
+    {
+     "from": "2009-06-01",
+     "units": 2826,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2009-06-01",
+     "sha256": "991fe303780658c7e1c9f8d442a0d368264f45f1f23ede8133fdcd592d65b06b"
+    },
+    {
+     "from": "2009-11-26",
+     "units": 2826,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2009-11-26",
+     "sha256": "f8b6547326197b525068bc05c40565134ed592b75ae66160bae05e7c58e1ba8b"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 2826,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2010-01-01",
+     "sha256": "45a0c3043749d0d22f9b44ab452cabd50511946eccbb2b5e208b8c2643d9d025"
+    },
+    {
+     "from": "2010-02-26",
+     "units": 2826,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2010-02-26",
+     "sha256": "25e775f4adb68962999218fe4941dddbdc3aa18ed4ffa26af2e8fb63183af316"
+    },
+    {
+     "from": "2010-05-08",
+     "units": 2826,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2010-05-08",
+     "sha256": "0891810bb60d7c0c30591df1e5e9944b0b5367e4a3b0f2a5fac68612545b8b91"
+    },
+    {
+     "from": "2010-06-05",
+     "units": 2825,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2010-06-05",
+     "sha256": "8eebedcd3ce380dc8024dbb5fdd2234cdb8653aa08eef70df759fd6673c242ce"
+    },
+    {
+     "from": "2010-06-17",
+     "units": 2826,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2010-06-17",
+     "sha256": "dd906218faa945ae5a994ec2372876e4e594e4879e5b46bc1a44962bebfd2f1b"
+    },
+    {
+     "from": "2010-07-11",
+     "units": 2826,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2010-07-11",
+     "sha256": "8ff2bec31e0826704c37d34f13128d65d414211b1562228bf5931de9a6296b2b"
+    },
+    {
+     "from": "2010-10-01",
+     "units": 2831,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2010-10-01",
+     "sha256": "1e9964f617438da337234a7d22902cbef03b32f868d4ab91d1e78e960086922c"
+    },
+    {
+     "from": "2010-11-11",
+     "units": 2831,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2010-11-11",
+     "sha256": "48870a8d3f4916f12f5f9bc87fae6b8ea286a6f06273924bcd72492072bb9088"
+    },
+    {
+     "from": "2010-12-24",
+     "units": 2831,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2010-12-24",
+     "sha256": "407a1ae24a68f2e18a4c03517e0398470bbad596b055c7d1a64dc86c35df2fe1"
+    },
+    {
+     "from": "2011-03-16",
+     "units": 2831,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2011-03-16",
+     "sha256": "0b05b4a966586c0ece5ad059e2f6cb951fa45d1b9bb9b8b8941e0d22308c346e"
+    },
+    {
+     "from": "2011-03-30",
+     "units": 2833,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2011-03-30",
+     "sha256": "80b6e0ae05aaa864b491584f650ab99fbf4941f85f02fd03e5ebf66ed410c394"
+    },
+    {
+     "from": "2011-03-31",
+     "units": 2831,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2011-03-31",
+     "sha256": "d704854966e3c361d36c01b42b754cb786fe531177d3ae4457f36644560c5fd6"
+    },
+    {
+     "from": "2011-04-01",
+     "units": 2830,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2011-04-01",
+     "sha256": "8fa6138a7078677db4c35065db69f092d100e44712539bb74166e9a8c112d22e"
+    },
+    {
+     "from": "2011-05-01",
+     "units": 2829,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2011-05-01",
+     "sha256": "3ca5106e5e5344883825b921c96a17b0a8a6cb49e3180a028c46df6f9cf6ad5b"
+    },
+    {
+     "from": "2011-05-19",
+     "units": 2827,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2011-05-19",
+     "sha256": "5e1658ff5fd6309adaf0a93f7ec363dc6faab18916c40447b7ade085214e0737"
+    },
+    {
+     "from": "2011-06-18",
+     "units": 2828,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2011-06-18",
+     "sha256": "7e3fd87c7bdc761018b7dd00263e4a04b1af4142c7fa8022c35775d5dbb97719"
+    },
+    {
+     "from": "2011-07-09",
+     "units": 2829,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2011-07-09",
+     "sha256": "a0393d5907a2242a462f5f7e762de78e5caf8d296199cc820ffe7dbdf6b729d3"
+    },
+    {
+     "from": "2011-09-01",
+     "units": 2829,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2011-09-01",
+     "sha256": "9b1363418d09b61a3b5671a3ca37306964cf91e1bdd0aae31520e549344527fb"
+    },
+    {
+     "from": "2011-12-15",
+     "units": 2829,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2011-12-15",
+     "sha256": "21212648484a990d3d557a3958d3c31d7683c614ab6cdfd383278c8eb1634bb8"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 2829,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2012-01-01",
+     "sha256": "21212648484a990d3d557a3958d3c31d7683c614ab6cdfd383278c8eb1634bb8"
+    },
+    {
+     "from": "2012-03-24",
+     "units": 2829,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2012-03-24",
+     "sha256": "c725ef20da14a94a939188453dc1aa435e4996c5fd8f5b92f79cb66f25115d0e"
+    },
+    {
+     "from": "2012-06-01",
+     "units": 2801,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2012-06-01",
+     "sha256": "4a2e355919da0ccf3e9c1533207aa11391261f8475716efc921ebfa01672bd2a"
+    },
+    {
+     "from": "2012-06-02",
+     "units": 2800,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2012-06-02",
+     "sha256": "8c069ffeda94058f7849b52578cfe4785453c36605572b5235a622f9326b6f9d"
+    },
+    {
+     "from": "2012-10-01",
+     "units": 2800,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2012-10-01",
+     "sha256": "e8b1f0725b9cb86aac80556cde19867ed979bf1ca358a582a5b7e777277ef6e4"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 2800,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2013-01-01",
+     "sha256": "013eabde17df2e2e9843efc56a4ecbe4893bf1e0ea12f487cbe88155f60b99a5"
+    },
+    {
+     "from": "2013-05-19",
+     "units": 2807,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2013-05-19",
+     "sha256": "e2cc19e7466491cc6a8c929db67424db08d70b7561f3cb02f0d680cfd6f045a6"
+    },
+    {
+     "from": "2013-09-01",
+     "units": 2807,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2013-09-01",
+     "sha256": "fa4758aabcae21e0e0945c3128f2adb4184342fe1135a08c8da271a6a602d5cc"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 2807,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2014-01-01",
+     "sha256": "2b9157f0781cbb5f4fdef55ae282ecdc4c43f52e51af35bae89b6705f3d793ac"
+    },
+    {
+     "from": "2014-03-19",
+     "units": 2807,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2014-03-19",
+     "sha256": "d085074eb250a3e198fc422749a1ea192254adcaf2071d64dbf5249022a3cd54"
+    },
+    {
+     "from": "2014-03-27",
+     "units": 2808,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2014-03-27",
+     "sha256": "9471f7bfbd3c67b17f199d40d71f0b486a05907387c6af087fea4aa60bd5d6d4"
+    },
+    {
+     "from": "2014-06-05",
+     "units": 2808,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2014-06-05",
+     "sha256": "7689cf361f6cb3cf283e264e35d4abcb818cb38f23ec35e52203c9fdc1f4faf9"
+    },
+    {
+     "from": "2014-07-01",
+     "units": 2807,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2014-07-01",
+     "sha256": "e2fbbda2b62a0e7e7a3797854f2285bd176c3f6ec699e31ae7a4463959ef2611"
+    },
+    {
+     "from": "2014-07-12",
+     "units": 2807,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2014-07-12",
+     "sha256": "3cc989e00bdadef305e100e1481d275d7efab184079b58663cdcab566c4f7d0a"
+    },
+    {
+     "from": "2014-08-03",
+     "units": 2807,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2014-08-03",
+     "sha256": "38b3f59b444aa262b6b7d5cea66f11b49f06f6b35b2d9749164ec8d18d301066"
+    },
+    {
+     "from": "2014-08-06",
+     "units": 2807,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2014-08-06",
+     "sha256": "e5ac604e95fd137f7769d23e82e062512ba53f99ec556c8dc286f77cbf8c3e46"
+    },
+    {
+     "from": "2014-12-22",
+     "units": 2808,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2014-12-22",
+     "sha256": "8f8b204979c2b1b43d0124a45a79ea4082f5c209fa1704941f91cc8a22de5b6b"
+    },
+    {
+     "from": "2015-02-18",
+     "units": 2807,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2015-02-18",
+     "sha256": "47199c1f9f090174fa28ad8bc51d327bd9c333c8ff8f0e8a60b18ff4ff789a5a"
+    },
+    {
+     "from": "2015-03-22",
+     "units": 2807,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2015-03-22",
+     "sha256": "a2638478995beac4678142524e09101cf16e63bb4ccffed443845bba7a710726"
+    },
+    {
+     "from": "2015-07-25",
+     "units": 2807,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2015-07-25",
+     "sha256": "461ccce6a12311ab6ee8fd47df324b6ebc7fe2e492269870873ce0a4c45aee2a"
+    },
+    {
+     "from": "2015-08-07",
+     "units": 2807,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2015-08-07",
+     "sha256": "0456fbca8c19120d3489343d65c7469b46a0f9eecc507c03437debf5e6093065"
+    },
+    {
+     "from": "2015-08-08",
+     "units": 2808,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2015-08-08",
+     "sha256": "f733222f20159a7eca11556d04ac7e0a23b93339998e47e5ee145976732a8d7c"
+    },
+    {
+     "from": "2015-08-19",
+     "units": 2808,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2015-08-19",
+     "sha256": "4c2f31174df37631ed5bce73a9ad16910eb875aac5671002afe1593bcbd970eb"
+    },
+    {
+     "from": "2015-12-30",
+     "units": 2810,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2015-12-30",
+     "sha256": "c76af81493fa750e06922566246758390114343375a99a8b766a15ebb70476e9"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 2825,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2016-01-01",
+     "sha256": "8b7165f645503d43ba2836761f1d85c94ca2658ace2fcc899695996528243085"
+    },
+    {
+     "from": "2016-02-13",
+     "units": 2825,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2016-02-13",
+     "sha256": "6b46d1433ac5c9a2cd90e3703306a4baa845b1c60b805773d0036e4cf721e160"
+    },
+    {
+     "from": "2016-03-16",
+     "units": 2826,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2016-03-16",
+     "sha256": "796216705b984702b0cb457a465fed99a5935c23ebe98d4431d39e99f4d26455"
+    },
+    {
+     "from": "2016-06-05",
+     "units": 2827,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2016-06-05",
+     "sha256": "cf75d19fc6578d79afac8564c27e21afbbf236ed1565f879a82d3c1cf0dbea6d"
+    },
+    {
+     "from": "2016-07-01",
+     "units": 2828,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2016-07-01",
+     "sha256": "82ef9f59de8f64c1884d078a365a210c600831ba97db0076086131ed33a386b9"
+    },
+    {
+     "from": "2016-08-10",
+     "units": 2836,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2016-08-10",
+     "sha256": "d5f35b859e48ceb211e4e9fe7cdb22233250cde060a8d3fe58204cc6eff4ed93"
+    },
+    {
+     "from": "2016-10-01",
+     "units": 2866,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2016-10-01",
+     "sha256": "2830c23379d201c0c2ec801af781bbc3abf8d3ad8acec324c245ce4f2e37e296"
+    },
+    {
+     "from": "2016-10-09",
+     "units": 2864,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2016-10-09",
+     "sha256": "3d49e5cbff84d8c44e2be8246d7c45deac1f35d6e78a5e5c61d57ffa62859844"
+    },
+    {
+     "from": "2016-11-20",
+     "units": 2868,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2016-11-20",
+     "sha256": "d37d8e1588525385c38195e9f8b13d4385ef930f5ee0df37ffc2a877bb241115"
+    },
+    {
+     "from": "2016-12-11",
+     "units": 2868,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2016-12-11",
+     "sha256": "3c083a9843f829f017915a4c55e2246fa6ba46b6a15d50d82975e2d9daa1377a"
+    },
+    {
+     "from": "2016-12-20",
+     "units": 2868,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2016-12-20",
+     "sha256": "6f0d9c5780d38dcdea9366d8f160d8d86ab5b2e63abc4d6495b44d3f33350d98"
+    },
+    {
+     "from": "2016-12-25",
+     "units": 2868,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2016-12-25",
+     "sha256": "4413770cc5f7753628ff57b065acf5480e7d92e5ef2398efb22127942f4adad0"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 2872,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2017-01-01",
+     "sha256": "c898f0b5033110cc08c1e36d3ef008ac41824ff86051183d2521e3372fa1ac60"
+    },
+    {
+     "from": "2017-03-02",
+     "units": 2872,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2017-03-02",
+     "sha256": "e54d328c56f723897c0d1cebc8ad79ee6c149f7c89c4aaf1f07901ea2b4d77d8"
+    },
+    {
+     "from": "2017-10-01",
+     "units": 2877,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2017-10-01",
+     "sha256": "2096f3c1744bb212af1f3114bddfac6edacb4b3f1a80c7e67cc46ace604aad88"
+    },
+    {
+     "from": "2017-11-01",
+     "units": 2875,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2017-11-01",
+     "sha256": "9d1563a6ab39aba62e1cc0c13245548aedc1fccb2210c75a30b390e20110f70d"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 2875,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2018-01-01",
+     "sha256": "a8ea3ca6eb9eac2f19e4cbeb64a14d85ddf958722c461b4aaedb7b711fe8e198"
+    },
+    {
+     "from": "2018-01-03",
+     "units": 2875,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2018-01-03",
+     "sha256": "2f0df92baf952f4326a593b1d6ded57dd62aecce6e462dfdd69f5adf87918eec"
+    },
+    {
+     "from": "2018-08-06",
+     "units": 2875,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2018-08-06",
+     "sha256": "4dd6d2196be52749b4d2f8595ce84ca5f5ea1a184e95e6c52a6b19a7651ca957"
+    },
+    {
+     "from": "2018-10-01",
+     "units": 2875,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2018-10-01",
+     "sha256": "94da5303932b9b48d38e398b7efe8aa5ffcab21d0427e3ebdc459493aac0a31a"
+    },
+    {
+     "from": "2019-03-01",
+     "units": 2876,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2019-03-01",
+     "sha256": "c02881b475f3dc30ffc7686e6a857f8745bf6d8c9c6e9a98678dc4802766313a"
+    },
+    {
+     "from": "2019-03-25",
+     "units": 2877,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2019-03-25",
+     "sha256": "4192dbd40901ed5caf4af591f5ffff6fff632ad89e45743220ea6ad34be05259"
+    },
+    {
+     "from": "2019-05-24",
+     "units": 2877,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2019-05-24",
+     "sha256": "e52963d27aa94c17a5c407de2f53a13835c0c62634cf3389d7f2b2e2b52f7e68"
+    },
+    {
+     "from": "2019-07-12",
+     "units": 2877,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2019-07-12",
+     "sha256": "f44f1a006ed3bf57f54276998d71deee2a7b69f227cc6887b11c8478cfa1a18f"
+    },
+    {
+     "from": "2019-07-21",
+     "units": 2878,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2019-07-21",
+     "sha256": "c1e90aa4f262a9ee557653e4e886fb28cc0c4dc27de6b007e2c1221ce9674aba"
+    },
+    {
+     "from": "2019-10-23",
+     "units": 2877,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2019-10-23",
+     "sha256": "487a7f5887e5bcc2612bb8c90ddf476121b134d5a9039a2aeca13524bab42c87"
+    },
+    {
+     "from": "2019-12-15",
+     "units": 2877,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2019-12-15",
+     "sha256": "86241801dada91768eaf86668fafa92738b36cdffc5c802a08782d0c1b87dcd2"
+    },
+    {
+     "from": "2019-12-28",
+     "units": 2877,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2019-12-28",
+     "sha256": "431753c1066612aa749880b828dd5464507406dcbce82434545cb83bce4e5367"
+    },
+    {
+     "from": "2019-12-30",
+     "units": 2879,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2019-12-30",
+     "sha256": "0d43ffc8c65aba2f562757bd00b10a733d3931a916320e072146ccda99f2055a"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 2879,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2020-01-01",
+     "sha256": "a0dcde71fc7f1a448051f3dd6642dbb991791b203e63b15313c6fe784db0aba7"
+    },
+    {
+     "from": "2020-02-14",
+     "units": 2879,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2020-02-14",
+     "sha256": "55df40fb431f5a4687a999c5e270895be8dc05e31e457dc5254268c04a8b8568"
+    },
+    {
+     "from": "2020-08-01",
+     "units": 2879,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2020-08-01",
+     "sha256": "6be1b2701e01bce8963d0f2fb0ccc51be6ecc80087b72a04ff036e05f3a86f83"
+    },
+    {
+     "from": "2020-09-01",
+     "units": 2875,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2020-09-01",
+     "sha256": "ecdebc3009309a94cfeb8387b9af7099bbdb15356f0784e7fbbb3ebae09d1951"
+    },
+    {
+     "from": "2020-12-09",
+     "units": 2875,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2020-12-09",
+     "sha256": "9a957a0785a3bd1777150cf5c073e149c5d8ebbfe8ece8e613a3505f1a2a5f04"
+    },
+    {
+     "from": "2020-12-16",
+     "units": 2875,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2020-12-16",
+     "sha256": "d23f27c260ba0bce8a3d8465270a9ff57977632abbafe704a9d2488f738e9452"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 2871,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2021-01-01",
+     "sha256": "f3eeaad07486bf7419699f29b5ca3bded4b6e55d505fb9623ca89338817f0d52"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 2871,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2021-07-01",
+     "sha256": "d32c9f05bac4f5d70240640ce598319af1cb3c48ad601247be065f2f5bf82455"
+    },
+    {
+     "from": "2021-08-04",
+     "units": 2874,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2021-08-04",
+     "sha256": "6a866bfe5a041615941e5ac5793d2b88542db93fc221ee7759ab7998504969c3"
+    },
+    {
+     "from": "2021-08-26",
+     "units": 2875,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2021-08-26",
+     "sha256": "7160a6fe7fb790193ab9fa7833e44f361ea015ba97702992d721be2eeb7a85c1"
+    },
+    {
+     "from": "2021-09-17",
+     "units": 2872,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2021-09-17",
+     "sha256": "aee41b87d79fae361cbf9500acf62f74ed032e8dc7805a325a776efcd62e05d6"
+    },
+    {
+     "from": "2021-11-01",
+     "units": 2872,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2021-11-01",
+     "sha256": "2b742f840a9d822434af4937cb124da6756df16c29c4d7368996858099b595a4"
+    },
+    {
+     "from": "2021-12-08",
+     "units": 2872,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2021-12-08",
+     "sha256": "2635799b6b5234fadaa38c5e6623c025d6bf49c8bb075a01ca08dce9e560ddb6"
+    },
+    {
+     "from": "2021-12-24",
+     "units": 2872,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2021-12-24",
+     "sha256": "77fb9cc438fa2a49d557fe54c1bec2c9a1fa2e52f92f4b86685e14dcc7531fd2"
+    },
+    {
+     "from": "2021-12-25",
+     "units": 2872,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2021-12-25",
+     "sha256": "0ddd913f238d62073209e473a245edeea6fc5dc5cbfd3238d6736ff3aa4d7426"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 2869,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2022-01-01",
+     "sha256": "9b76232f4af685503ce28acc2b480d24aebb128dccbba8d5a92802602ea9cd67"
+    },
+    {
+     "from": "2022-01-26",
+     "units": 2869,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2022-01-26",
+     "sha256": "03fe97ba753d738ade22a572c2fdf2f242dfa048260e7bf7db42ceb232b25eb8"
+    },
+    {
+     "from": "2022-02-09",
+     "units": 2870,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2022-02-09",
+     "sha256": "7b19c1ce857fbe6035bb6eaab35f0b26ae5886f89207ca054680a4a6fe683f61"
+    },
+    {
+     "from": "2022-02-23",
+     "units": 2873,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2022-02-23",
+     "sha256": "38f28894a26ab282db2702fb262d079757a884178b695d6efa4dc80d45218c36"
+    },
+    {
+     "from": "2022-03-01",
+     "units": 2873,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2022-03-01",
+     "sha256": "de2cee7ef5f6d022f87c5fa39ce31dd29d142cadbef61554811ce1e3c1423268"
+    },
+    {
+     "from": "2022-03-02",
+     "units": 2873,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2022-03-02",
+     "sha256": "0c2a0232485298374a3067808dc42bb0f885fb541f9c9ccc88a46eff28accab8"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 2875,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2022-07-01",
+     "sha256": "f0c9e0de3cac2e803af3d6d45d2dca618c30d5d24c1fad5a679ac5fcedb7ab96"
+    },
+    {
+     "from": "2022-09-01",
+     "units": 2875,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2022-09-01",
+     "sha256": "44aebc316406f68152e9afe46956c51b08a56aadbe7e5658a23802be83f34544"
+    },
+    {
+     "from": "2022-10-07",
+     "units": 2874,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2022-10-07",
+     "sha256": "6def6930c1952c3e18bf7aa511e5185baa7ad1080121a4b30b898da27aa1ba3f"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 2881,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2023-01-01",
+     "sha256": "2f26ef17bfae1336a30fef24378ad585940d87c20f30696535c8f15c330b2526"
+    },
+    {
+     "from": "2023-02-06",
+     "units": 2881,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2023-02-06",
+     "sha256": "fc3cc98a2167c79c7451359062760234a21c206fe87897b27908a0f7b9a7ed48"
+    },
+    {
+     "from": "2023-05-21",
+     "units": 2881,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2023-05-21",
+     "sha256": "a9a3842c9b1eb0aa412ec7ff14f9c2ca10eb18105080286a3a67f32351c0791a"
+    },
+    {
+     "from": "2024-02-21",
+     "units": 2882,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2024-02-21",
+     "sha256": "322e8eda679f1b226e2f8fd9383e6e502f18fa162640439e8590079ddbbf6f24"
+    },
+    {
+     "from": "2024-03-20",
+     "units": 2882,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2024-03-20",
+     "sha256": "828e182e26b92a4d7722007a9c82d811db9660033d565e7a5b6a5df7e61aee06"
+    },
+    {
+     "from": "2024-04-17",
+     "units": 2883,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2024-04-17",
+     "sha256": "10c8f613efc77147909bbb5f88400343f7fc92aa5a7873a6c86f6e6e92361e11"
+    },
+    {
+     "from": "2024-06-02",
+     "units": 2889,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2024-06-02",
+     "sha256": "fba3e041dd6245059b59705b1ccd3a2c6e827126a065c6252b67c7d691f3bb57"
+    },
+    {
+     "from": "2024-06-15",
+     "units": 2890,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2024-06-15",
+     "sha256": "f7cfdda5962490c175a781ce83e142fb13b36e6583718fb0f5b4820a2141e304"
+    },
+    {
+     "from": "2024-07-05",
+     "units": 2890,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2024-07-05",
+     "sha256": "5234e929120fa904180d08103c0d816ae9d14808d2ea9203be1d0a7dde34e8ff"
+    },
+    {
+     "from": "2024-09-14",
+     "units": 2890,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2024-09-14",
+     "sha256": "4d74264efceb79742867060849fbc62c69c6c313fd280456cde3182d4fe93dbf"
+    },
+    {
+     "from": "2025-05-03",
+     "units": 2891,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2025-05-03",
+     "sha256": "9c4dc79a65ba5dfde65e2ac0f7bc017638c8fad1692ffe401943d82dbc940a70"
+    },
+    {
+     "from": "2025-05-14",
+     "units": 2891,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2025-05-14",
+     "sha256": "c8f25d72b3361caca2efd8f32ab55bfcdfeb29953701afc06fa3b6a0677c5458"
+    },
+    {
+     "from": "2025-06-25",
+     "units": 2891,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2025-06-25",
+     "sha256": "12afe859b42cb392a0d2f6632974e1cd76b3e3a91a250c0819ce3bd74dab619e"
+    },
+    {
+     "from": "2025-08-13",
+     "units": 2893,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2025-08-13",
+     "sha256": "af4e4e79cd79aae413f4600da830732a33cfb5c29b0a4cc9909ac9c332e26b08"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 2896,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2025-10-01",
+     "sha256": "7adbc8cc57eb98136a6283c801429579d319c42335d19d9440c6f9c51e5e845a"
+    },
+    {
+     "from": "2025-12-01",
+     "units": 2896,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2025-12-01",
+     "sha256": "49d31494d25b8406c9b1f75ed4b2560bf92f86d04a3b7d660a8bd3abec94685f"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 2896,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2026-01-01",
+     "sha256": "d2ae1672c0f32f75d93a8072682cb4961283510b596f10883529fc59c059c7bb"
+    },
+    {
+     "from": "2026-04-09",
+     "units": 2895,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2026-04-09",
+     "sha256": "b5414735e815e7b42d863b0be64c43dcf48174d7863eb65c3ba69d915c7404a7"
+    },
+    {
+     "from": "2026-06-27",
+     "units": 2896,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2026-06-27",
+     "sha256": "4b9ab36a8fdf65ebf6196c60b05c5707003628aa53381d3dc3dd13a4fd813698"
+    },
+    {
+     "from": "2026-07-29",
+     "units": 2899,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2026-07-29",
+     "sha256": "df06bad6ba9a73b7b218a73e9ce9fb5cbe711f1b4c170cdb646f62b061ba53cf"
+    },
+    {
+     "from": "2026-12-31",
+     "units": 2900,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2026-12-31",
+     "sha256": "7c5ef61edab0a04c8015fae019ef4319a4d4e11d26b332d888784efcf7ec0542"
+    },
+    {
+     "from": "2027-01-06",
+     "units": 2900,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2027-01-06",
+     "sha256": "772658149b182f1dd79cf051b1fc57bff45b37489f3a0dbb66d274016d0012cd"
+    },
+    {
+     "from": "2029-01-01",
+     "units": 2900,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/2029-01-01",
+     "sha256": "bcaa5b9cf90a0d0feb0f03785b02a9e87bfc752554828d8cf4d42c63afb45efb"
+    }
+   ]
+  },
+  {
+   "slug": "code-penal",
+   "short": "Code pénal",
+   "title": "Code pénal",
+   "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719",
+   "versions": [
+    {
+     "from": "1994-03-01",
+     "units": 786,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1994-03-01",
+     "sha256": "b253111ad3ee1f8a6c91b12bdcd80de0b104cfa37f6cca2dbd7033a0f10a1652"
+    },
+    {
+     "from": "1994-07-02",
+     "units": 786,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1994-07-02",
+     "sha256": "ce92db72c55603a0d4bc0949e8af9fbbfbf00a33f8e7c563055f5cdc863fdd75"
+    },
+    {
+     "from": "1994-07-30",
+     "units": 821,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1994-07-30",
+     "sha256": "e0a35c04343b89936a7d127383abdcd2df601ebca9324815146acd52d3c62354"
+    },
+    {
+     "from": "1995-02-05",
+     "units": 821,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1995-02-05",
+     "sha256": "29d509cfaa7a596bc773c60f1a0245b3310133c655170b18d8b5751d02c41358"
+    },
+    {
+     "from": "1995-02-09",
+     "units": 821,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1995-02-09",
+     "sha256": "ae1cb6a011cf4053b685aa6df25d5d96d4e32b7c7781afe28c45561b859b72c3"
+    },
+    {
+     "from": "1995-02-14",
+     "units": 823,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1995-02-14",
+     "sha256": "d56f393661b15c9cbc25d89b95030777c7b49ed1f4c247729a0787f4e2c94fb0"
+    },
+    {
+     "from": "1995-08-04",
+     "units": 823,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1995-08-04",
+     "sha256": "2c91dc0f9688ec1cdf77b4e94190e08483014c0511f930b0f19a1144e93fe31a"
+    },
+    {
+     "from": "1996-02-27",
+     "units": 824,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1996-02-27",
+     "sha256": "96bbb9178e7f3a73246c9cad16ffe1a0e4921999cb6d6b6142ba82f8bc934483"
+    },
+    {
+     "from": "1996-05-01",
+     "units": 897,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1996-05-01",
+     "sha256": "55d8e6dbaeda75876debc2982a86c01eeb90fe956c91c7a47de022859588582b"
+    },
+    {
+     "from": "1996-05-08",
+     "units": 898,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1996-05-08",
+     "sha256": "129dfb5e74b0e830573719c910d778c3b5bb1a17864331cfa17c73912e030918"
+    },
+    {
+     "from": "1996-05-14",
+     "units": 909,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1996-05-14",
+     "sha256": "f72b9bf89d48d0452f62cddedfecd67edd1f94bb856c5c5cbe03ee1023a7f410"
+    },
+    {
+     "from": "1996-05-29",
+     "units": 909,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1996-05-29",
+     "sha256": "05f4f806b811bad1f1f132cbd6a884ca643da3bd3c572a1eddf86a45297faf1d"
+    },
+    {
+     "from": "1996-07-06",
+     "units": 909,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1996-07-06",
+     "sha256": "1a20a3789c1c3e8ab78ec5b37e589b394351e5bb606a6158439484ebcf96c0e6"
+    },
+    {
+     "from": "1996-07-23",
+     "units": 911,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1996-07-23",
+     "sha256": "ae9edbdf205110e109f06c79003c1185c2ab1916a9f88e0c00fcc863b8e0fb01"
+    },
+    {
+     "from": "1997-01-01",
+     "units": 909,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1997-01-01",
+     "sha256": "007cb1f350abb5a59014f11078ddd88089d9c669e4e9f6d8cc7f2994362a43a2"
+    },
+    {
+     "from": "1997-04-25",
+     "units": 909,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1997-04-25",
+     "sha256": "59df79c14e739ce1645ab93be1993eebc35487f9ae27920913d5131dbb8319f3"
+    },
+    {
+     "from": "1997-05-30",
+     "units": 930,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1997-05-30",
+     "sha256": "f1a522197056a6aee77256c5d44f191f2ecb9fe633f88c98bbdb133ef908ddc5"
+    },
+    {
+     "from": "1997-07-13",
+     "units": 930,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1997-07-13",
+     "sha256": "ef7e76223836920c72870757089a70712e945e5c3d856399b09374a3a7c1a9bd"
+    },
+    {
+     "from": "1997-12-20",
+     "units": 930,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1997-12-20",
+     "sha256": "ef7e76223836920c72870757089a70712e945e5c3d856399b09374a3a7c1a9bd"
+    },
+    {
+     "from": "1997-12-31",
+     "units": 930,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1997-12-31",
+     "sha256": "5ceae7dc060e8dbd684766310452ce0adbf15076997cc3f99618d0203d6774a7"
+    },
+    {
+     "from": "1998-05-12",
+     "units": 930,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1998-05-12",
+     "sha256": "85598eedf3841858254074ee1666596375ef8db9129bf441e30597e2985480aa"
+    },
+    {
+     "from": "1998-06-18",
+     "units": 948,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1998-06-18",
+     "sha256": "ee5a7de9150cd7d10ba0efe4a542b8d4888b8b0b5d272bde436b8f25f4bd0c2b"
+    },
+    {
+     "from": "1998-07-02",
+     "units": 950,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1998-07-02",
+     "sha256": "1f858d772cce3f774461b5a55a222520a1947486c36f78bf45518ab41538932e"
+    },
+    {
+     "from": "1998-07-19",
+     "units": 950,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1998-07-19",
+     "sha256": "55536061bac4223f3743abeff0a2546d67d0a6d2de026d4579fc576ea638b660"
+    },
+    {
+     "from": "1998-07-31",
+     "units": 950,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1998-07-31",
+     "sha256": "ccdfcc362c3a4a2998c060acd48dcdf59ff1d1e3d7438deb278cd4a84e8dbde8"
+    },
+    {
+     "from": "1998-09-04",
+     "units": 951,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1998-09-04",
+     "sha256": "17546b88547c87b81af29e157add18195fbe60fc877abe48541437c109bd978a"
+    },
+    {
+     "from": "1998-12-22",
+     "units": 952,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1998-12-22",
+     "sha256": "be6a30867db0b684820aab4e6a817653196a6a804ea754a1a8fdf14db1e8b23c"
+    },
+    {
+     "from": "1999-01-07",
+     "units": 952,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1999-01-07",
+     "sha256": "652ffac59e88db4d23f1ec6f5355eec8a299975499b6d97694cc59ee989e5253"
+    },
+    {
+     "from": "1999-03-21",
+     "units": 952,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1999-03-21",
+     "sha256": "a9a0a9e7d1b0278f642ef8858e6b1cecb96a9b77e227e50f03b5251fe7b7a2e9"
+    },
+    {
+     "from": "1999-06-19",
+     "units": 952,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1999-06-19",
+     "sha256": "158b418be080e8d86903b0cae67ea178545ab5fc39abd5575053e1e03645f790"
+    },
+    {
+     "from": "1999-07-10",
+     "units": 952,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/1999-07-10",
+     "sha256": "356b34d2df7311a981e78209027ef6cf6df4d7073e91d678fdd3a8d2c2e15140"
+    },
+    {
+     "from": "2000-04-13",
+     "units": 952,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2000-04-13",
+     "sha256": "22f6e10335dd600f478d9d3ad324886739411c0dfd9ff2b9ab75f19930e165f2"
+    },
+    {
+     "from": "2000-06-16",
+     "units": 952,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2000-06-16",
+     "sha256": "5ce1cbdc949285519aa70720403d8f3ae4adea96d2b0ff874795832b08ead305"
+    },
+    {
+     "from": "2000-07-01",
+     "units": 958,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2000-07-01",
+     "sha256": "739094e9d0976b1af5d48a46efc023b4971b03022d72ed475476732106bc09cf"
+    },
+    {
+     "from": "2000-07-11",
+     "units": 958,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2000-07-11",
+     "sha256": "6d2d1159ddf8ac50644378a61b30db0bd5ec9397d2b97c804af59dd377a99780"
+    },
+    {
+     "from": "2000-09-21",
+     "units": 958,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2000-09-21",
+     "sha256": "e9d07eb991aaa3ff479f54497cd909e792cfdc1e2e88c4e0c7a4c27c82e41c25"
+    },
+    {
+     "from": "2000-12-31",
+     "units": 959,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2000-12-31",
+     "sha256": "101a0f7fc305c9680d92beac00225720920aaa48a27a473d9ffdfcee34b7dc1c"
+    },
+    {
+     "from": "2001-05-16",
+     "units": 960,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2001-05-16",
+     "sha256": "a2a3387c8feaf940fb6136678814fb1de72c3f05bca08a59faa0956807eeaf1c"
+    },
+    {
+     "from": "2001-06-01",
+     "units": 960,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2001-06-01",
+     "sha256": "5b8d07b6d05a83617f55d06eb681cc7a475e86691664aadec718882df373ee81"
+    },
+    {
+     "from": "2001-06-13",
+     "units": 978,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2001-06-13",
+     "sha256": "38322045a13556e2d72d1548f26f46c5e9ffec709d3e19aba07b378cc5e57874"
+    },
+    {
+     "from": "2001-07-07",
+     "units": 974,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2001-07-07",
+     "sha256": "25df4df3f64c6330974f2aad3f4eedc4c539e0b28ec71cabb53f07168a4b8fe4"
+    },
+    {
+     "from": "2001-07-13",
+     "units": 974,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2001-07-13",
+     "sha256": "37635f6ea1ff531aed0bc33488573678ca8b2a8d100722ec100a7de65010d946"
+    },
+    {
+     "from": "2001-08-25",
+     "units": 974,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2001-08-25",
+     "sha256": "8ccf8985a9c19da6b7d0184134ee83eec088818e95e2466ae343cb4594c7b4c2"
+    },
+    {
+     "from": "2001-09-27",
+     "units": 974,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2001-09-27",
+     "sha256": "c7f504bfd21ecc5df56ba3fe18bfd7c8fd153f4399cfd76804c4c5bda50c9e1f"
+    },
+    {
+     "from": "2001-11-16",
+     "units": 978,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2001-11-16",
+     "sha256": "b379c9a8b36d8597476897576c05c1a897ad11e7229c41c0a3752a4f4b5df92f"
+    },
+    {
+     "from": "2001-11-17",
+     "units": 978,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2001-11-17",
+     "sha256": "9ff294268fba9408b9b16fb305bbeb20ff880359d87cfa893e6a31dd4e6fb7e0"
+    },
+    {
+     "from": "2001-12-12",
+     "units": 979,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2001-12-12",
+     "sha256": "b5d0a947bcd15eb4eff3621664ad7c8f578ef2d432b83bce5ba1f606c8e4c14f"
+    },
+    {
+     "from": "2002-01-01",
+     "units": 979,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2002-01-01",
+     "sha256": "c3f3fd204ff07c73f5371f2bd48e1d6c6a3b91611fed61505d29e0278d6bfdf9"
+    },
+    {
+     "from": "2002-01-05",
+     "units": 979,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2002-01-05",
+     "sha256": "33c2b7d935d2ed239a83145b601d4b348235fdc3d4236355621214c24761e41d"
+    },
+    {
+     "from": "2002-01-18",
+     "units": 980,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2002-01-18",
+     "sha256": "5baa3c138947bf2b43b5c4ece1ee6f67a3d2a1f30a273d3887dad7f4182c690f"
+    },
+    {
+     "from": "2002-03-05",
+     "units": 985,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2002-03-05",
+     "sha256": "f82bdf58b3e6c7af1e4edb1cfc85073330f1b023d61967d6c66a02d7814a679a"
+    },
+    {
+     "from": "2002-09-10",
+     "units": 986,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2002-09-10",
+     "sha256": "ecc70783b9ad157157787bc215cf878965b0e97fa39b132f9a0177e1cba2a1b5"
+    },
+    {
+     "from": "2002-12-31",
+     "units": 986,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2002-12-31",
+     "sha256": "0433de999e473d9a5b4bae3fff8f8f98ede4a7662f3e9e2902531416656fb8a2"
+    },
+    {
+     "from": "2003-02-04",
+     "units": 987,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2003-02-04",
+     "sha256": "14fb82b8fc94c1408c02066d6db88465a2a317c290ff0240479082c58589e10a"
+    },
+    {
+     "from": "2003-03-19",
+     "units": 1008,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2003-03-19",
+     "sha256": "733717085cc6b2309bf5a202550f9636911d8a73f4c7698db5ff4600d4e546f5"
+    },
+    {
+     "from": "2003-04-15",
+     "units": 1013,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2003-04-15",
+     "sha256": "6950fd47e50a9c167ff3d0950a566475d89d5d600c93e4750f5420000eb780c9"
+    },
+    {
+     "from": "2003-06-13",
+     "units": 1018,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2003-06-13",
+     "sha256": "d38d7277468b5f78c16d769ec1c3dc9878f5a693114ffced75481cf74a4467aa"
+    },
+    {
+     "from": "2003-07-12",
+     "units": 1020,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2003-07-12",
+     "sha256": "0c3f19ea42193f729118d8d1da42bce991d79a8288e1188e75e9d0c65568d21c"
+    },
+    {
+     "from": "2003-11-27",
+     "units": 1022,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2003-11-27",
+     "sha256": "a52f504f9188f7a6a34bad051b71f2e6026e000b55ae800e2d398182a238f9b3"
+    },
+    {
+     "from": "2004-01-03",
+     "units": 1022,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2004-01-03",
+     "sha256": "cee040fc3316a58428baff32f2133aef52dcf606b7e72e3c5966f4f336d08867"
+    },
+    {
+     "from": "2004-02-20",
+     "units": 1023,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2004-02-20",
+     "sha256": "e3a88978c2a71542957a52aa45f1d149aef1912d342b57a5e06f85eb8aceb0e6"
+    },
+    {
+     "from": "2004-03-10",
+     "units": 1041,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2004-03-10",
+     "sha256": "af7f4c8b5fb74302026cea8d210a7e1688db24e54effdb480f0c157e52d69ed6"
+    },
+    {
+     "from": "2004-06-22",
+     "units": 1043,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2004-06-22",
+     "sha256": "efaec2492e8705cf697b5a2be7f1ceee7d4fc9b434b24d9293ef068ef7bd5fd2"
+    },
+    {
+     "from": "2004-07-10",
+     "units": 1043,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2004-07-10",
+     "sha256": "8f80dae6f66bb1edaa21f6536284d09c969e3c955ffa04968bf77fefec011dab"
+    },
+    {
+     "from": "2004-07-17",
+     "units": 1043,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2004-07-17",
+     "sha256": "23dad196c6321d777519e24a30ad8384925d328b59df57a06265916386c60ff8"
+    },
+    {
+     "from": "2004-08-07",
+     "units": 1065,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2004-08-07",
+     "sha256": "980c2ef45154f3b20595ca1db763fa4b8335bf6f2aea59ee886a0aab83aa4c42"
+    },
+    {
+     "from": "2004-08-11",
+     "units": 1065,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2004-08-11",
+     "sha256": "676b3b2e8f7199b69b7ece7d12ab8f138b8f9fbaf33e526592ae32ad4e271c12"
+    },
+    {
+     "from": "2004-09-27",
+     "units": 1065,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2004-09-27",
+     "sha256": "36725ebc09df1151b62f5f93a80253974b8352e11d7768c8980ef90359234868"
+    },
+    {
+     "from": "2004-09-29",
+     "units": 1075,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2004-09-29",
+     "sha256": "aef3ca6e8b11922732ede08e28e58a890cfc9f7a2bd8d3847e06ac68efd516e4"
+    },
+    {
+     "from": "2004-10-01",
+     "units": 1076,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2004-10-01",
+     "sha256": "5fd4201d08851e1e380a4eebb6aa64e0e7791fa2eb3c9954d22e985107530c18"
+    },
+    {
+     "from": "2005-01-01",
+     "units": 1079,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2005-01-01",
+     "sha256": "c479e0abce61742147fc7238b9b1b35137f84b91c63bc5d94b2a11f46108eb29"
+    },
+    {
+     "from": "2005-03-27",
+     "units": 1079,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2005-03-27",
+     "sha256": "44a585f99ec3d5ae4440bbb0f7bda3f67701e7aa62e96d3e6228d982421ffdd0"
+    },
+    {
+     "from": "2005-03-30",
+     "units": 1079,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2005-03-30",
+     "sha256": "18b6ae8be395d73c11853cf7a01e829bd505767e8b17aa8aeae5760b9ea63731"
+    },
+    {
+     "from": "2005-04-01",
+     "units": 1079,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2005-04-01",
+     "sha256": "63780f83b809c906433cceae26fc2b537724bc7953d4111a9456ba1a966b9e41"
+    },
+    {
+     "from": "2005-04-06",
+     "units": 1080,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2005-04-06",
+     "sha256": "05d003c59609eceb9fec819fa1648bc4c3e1cdcfbb949bf448efffdba00061cb"
+    },
+    {
+     "from": "2005-04-24",
+     "units": 1080,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2005-04-24",
+     "sha256": "6ed54de5f92a4bd09e0be3daf2cbee4b0fb72746c7214e62a8392a13165f2f49"
+    },
+    {
+     "from": "2005-07-01",
+     "units": 1080,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2005-07-01",
+     "sha256": "9d16d3f379932799c24d4a86136e801e47cf8d3942599efaf52d1b3bdbadc116"
+    },
+    {
+     "from": "2005-07-06",
+     "units": 1085,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2005-07-06",
+     "sha256": "ba350a22e46bdf202231990d2b75a59f4bea7c614197a88e60df557777571809"
+    },
+    {
+     "from": "2005-10-01",
+     "units": 1085,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2005-10-01",
+     "sha256": "b40392fdf443ef05e7efac3beb4b4b7504f3ee1b8d0e099c91eae05ac8243ed4"
+    },
+    {
+     "from": "2005-10-22",
+     "units": 1089,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2005-10-22",
+     "sha256": "c67a87c06e3cc2e265c1d09bb90490cef51031b612453544d1e5e2556b3dd4fb"
+    },
+    {
+     "from": "2005-12-13",
+     "units": 1102,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2005-12-13",
+     "sha256": "ce2a29c31da22c4bcaa66ce51b6e0aabdd7ec22af1d3274cd3a532af6d0240c3"
+    },
+    {
+     "from": "2005-12-31",
+     "units": 1102,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2005-12-31",
+     "sha256": "b12c836d016abe72ee3136294682d885d7f0e626ae884c9ea3429c020e19b375"
+    },
+    {
+     "from": "2006-01-06",
+     "units": 1102,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2006-01-06",
+     "sha256": "078be350e8eea2a76d7092c6bdf32bc046404c8f994851b795a3c4ed5ec98034"
+    },
+    {
+     "from": "2006-01-24",
+     "units": 1101,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2006-01-24",
+     "sha256": "41d7db18312ea00509012970831042bdd8f469195864d594e075065d45068ad3"
+    },
+    {
+     "from": "2006-03-24",
+     "units": 1101,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2006-03-24",
+     "sha256": "2ede184c708db439ca08b5ce79cd45f2c4e3abca01e72981ed806ea9c2368cc6"
+    },
+    {
+     "from": "2006-04-02",
+     "units": 1102,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2006-04-02",
+     "sha256": "7937c03bc76df72f7d5920a05e1a283ffdec30d8b3a6911d62ca9c9faf7375c0"
+    },
+    {
+     "from": "2006-04-05",
+     "units": 1106,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2006-04-05",
+     "sha256": "c16d791782ea20bcf96d84defcb7cda91131957775af47d25fb3b4449dcedd6b"
+    },
+    {
+     "from": "2006-05-24",
+     "units": 1106,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2006-05-24",
+     "sha256": "8fbbcdbc471a2c0a8928701fcc3fb1ba1fc1dd89b283287bf55d24c58c749678"
+    },
+    {
+     "from": "2006-07-01",
+     "units": 1106,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2006-07-01",
+     "sha256": "e92ba519edea6b461b003fc02ceffe6be2069978f9d48c2e4f0542c8165b2c3a"
+    },
+    {
+     "from": "2006-07-25",
+     "units": 1106,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2006-07-25",
+     "sha256": "7f829235b53a53bf2b77474a22b21e80d030092cf1a0aa44c19f47c2617812f4"
+    },
+    {
+     "from": "2006-10-06",
+     "units": 1106,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2006-10-06",
+     "sha256": "e37784db14e00c5dcd5a758f9aca12cd67137f39396e2ebcdc3675d69d345ca6"
+    },
+    {
+     "from": "2006-12-27",
+     "units": 1106,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2006-12-27",
+     "sha256": "10e2bed4be118e49c30d13f0cce0a800ca2a87ff89ed95291c45ef5da0fcb3b2"
+    },
+    {
+     "from": "2007-02-28",
+     "units": 1106,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2007-02-28",
+     "sha256": "3806c9af88624bf4dfed11e1a9cecd70c6394f7143c72c21b29266dd714d885f"
+    },
+    {
+     "from": "2007-03-06",
+     "units": 1107,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2007-03-06",
+     "sha256": "a304b523eb07def0fe755a7c998ee3710ed477ac1cd152a895df9946219fd564"
+    },
+    {
+     "from": "2007-03-07",
+     "units": 1123,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2007-03-07",
+     "sha256": "b54dc2b5edea6edc947b47db26687dbdacfec416a4b2c745dbf1f4176967e148"
+    },
+    {
+     "from": "2007-04-27",
+     "units": 1123,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2007-04-27",
+     "sha256": "492301c7596a643f1a922b0abcb401c27f61617501deef911d4f15891b10a367"
+    },
+    {
+     "from": "2007-08-11",
+     "units": 1126,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2007-08-11",
+     "sha256": "83a395ece1bc3e385995bdf927d4421557463711c454d01cab82119b714dcf9b"
+    },
+    {
+     "from": "2007-09-28",
+     "units": 1133,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2007-09-28",
+     "sha256": "a2a556e7a98f8c62b5d389c9b9cab263b181c4bbb3db128051c4478968b8d078"
+    },
+    {
+     "from": "2007-10-30",
+     "units": 1133,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2007-10-30",
+     "sha256": "add823af8be409a18d8cfbc51caccac7f36ed68bd44f6a5b29c9f21df65f019d"
+    },
+    {
+     "from": "2007-11-14",
+     "units": 1143,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2007-11-14",
+     "sha256": "67c2b1656d0b1e9d852df65cefa877e350453bd38fdbadfe043bd108cc2ae6b8"
+    },
+    {
+     "from": "2007-11-21",
+     "units": 1143,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2007-11-21",
+     "sha256": "35efb91242617aa2e631d4786b76f687ed86c11d93e09faf29815cb206e1bb03"
+    },
+    {
+     "from": "2008-03-01",
+     "units": 1144,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2008-03-01",
+     "sha256": "aacdcec724d0adf2145e00b6ff0d24e8542179d41a048039633c39fa43f49e74"
+    },
+    {
+     "from": "2008-03-07",
+     "units": 1144,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2008-03-07",
+     "sha256": "4703fca09c02c9c13d0623abdb545b57986a21d80d1d63c8355ec4709ebe2b39"
+    },
+    {
+     "from": "2008-05-24",
+     "units": 1144,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2008-05-24",
+     "sha256": "2b06717cf14a7469fcc9ac539e463eedad8e71a5b9f85f57f19d8553b0326680"
+    },
+    {
+     "from": "2008-05-29",
+     "units": 1144,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2008-05-29",
+     "sha256": "fd591f03748c0fc64c84c3a165ea11a7a86b2870519d7b043f25f442085ee4ea"
+    },
+    {
+     "from": "2008-06-22",
+     "units": 1147,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2008-06-22",
+     "sha256": "9ed26551690b3369159c16eacc457b32b5df6efe3f8bf25e6ddb383731349a0e"
+    },
+    {
+     "from": "2008-07-17",
+     "units": 1149,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2008-07-17",
+     "sha256": "a7ecb6860d9e5cba2b664f221ac5a8a4aca90d83909226b7815f65844721f90e"
+    },
+    {
+     "from": "2008-08-06",
+     "units": 1149,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2008-08-06",
+     "sha256": "411c3452c8630e0b9622138035dcb3f0b359b779d3758a2d8ee37d6ddb4f7a5d"
+    },
+    {
+     "from": "2008-12-20",
+     "units": 1129,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2008-12-20",
+     "sha256": "6f8c4052d24da6e07423ceb4da1308e42508923e8220e5a2d3f3508077fcff39"
+    },
+    {
+     "from": "2008-12-21",
+     "units": 1129,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2008-12-21",
+     "sha256": "ee558b2971ebaeb85c440cad16904d69acc3265ab67696a61585f0f0956edc18"
+    },
+    {
+     "from": "2008-12-27",
+     "units": 1130,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2008-12-27",
+     "sha256": "822d122929dbf4e97dc463877d79fc3f0a3665c900e3cf34c410a4ad04e29183"
+    },
+    {
+     "from": "2009-01-10",
+     "units": 1130,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2009-01-10",
+     "sha256": "80ca1e99f190af43a1101eff9d1e532bc4f4d33149a4e0322ee796397c8a7f26"
+    },
+    {
+     "from": "2009-03-07",
+     "units": 1130,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2009-03-07",
+     "sha256": "bacae5e62a6acd905ab11a1c5869fc76e6082d38d44eaabbc0c50de92d9ad381"
+    },
+    {
+     "from": "2009-04-01",
+     "units": 1130,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2009-04-01",
+     "sha256": "3cefb6b41ac0ba91c20340b86a10ee45741817b1da9da5f21e11d09ec9faee37"
+    },
+    {
+     "from": "2009-05-14",
+     "units": 1130,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2009-05-14",
+     "sha256": "b1e8aba35df9bca2b4682be047fadd206a741ef041c2364d0564170278a04795"
+    },
+    {
+     "from": "2009-06-21",
+     "units": 1131,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2009-06-21",
+     "sha256": "9a304d35fcd441afab90831b32b72409fffec7f9f31718a0c152c569b3049b20"
+    },
+    {
+     "from": "2009-08-01",
+     "units": 1134,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2009-08-01",
+     "sha256": "6f35c2ad40dfee2b22d9b4aa850aef390429f74e1a262fb397ab726df159d128"
+    },
+    {
+     "from": "2009-08-07",
+     "units": 1134,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2009-08-07",
+     "sha256": "3d518c40ad707b10a6c54c9edb459a509d7453bf708ebb9d555dc233d4ccf072"
+    },
+    {
+     "from": "2009-10-30",
+     "units": 1134,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2009-10-30",
+     "sha256": "97620103e3153d4af2aa8e2e1285927b8282d946c4655ad19bb0acd4f53b0a02"
+    },
+    {
+     "from": "2009-11-26",
+     "units": 1134,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2009-11-26",
+     "sha256": "115ca59635ba6bc7d932456341a8a68870cc9b0144a0fdae6850a0c1c7c701a4"
+    },
+    {
+     "from": "2009-12-10",
+     "units": 1134,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2009-12-10",
+     "sha256": "7496719e6a21a6ca7ab80fcf5052fff725c39602b9e85368fedf0cc51dc068ee"
+    },
+    {
+     "from": "2010-01-13",
+     "units": 1134,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2010-01-13",
+     "sha256": "da8ff8ebe0dd0fd9b31191cff8ca3a67abcd4ff13ab238f7b39aae775801ddce"
+    },
+    {
+     "from": "2010-02-10",
+     "units": 1137,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2010-02-10",
+     "sha256": "b90ee6511dfbcf826b500b30efa4e096d603ad7023d17897606c850c918d2d82"
+    },
+    {
+     "from": "2010-03-04",
+     "units": 1145,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2010-03-04",
+     "sha256": "4fc306d3cc52053bc2097733864abc4d400e8b941b27a497f927d2e48ab91c26"
+    },
+    {
+     "from": "2010-03-05",
+     "units": 1145,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2010-03-05",
+     "sha256": "4a3126dfeb022cfc227226305f3787c21a772e9b9319a243288e219780e6489e"
+    },
+    {
+     "from": "2010-03-12",
+     "units": 1144,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2010-03-12",
+     "sha256": "1335e363597585e32eff70c4002f545402ad89c24c53887da20d1f9e800c0bf2"
+    },
+    {
+     "from": "2010-05-08",
+     "units": 1144,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2010-05-08",
+     "sha256": "55eaf62d51984e38cd6d4d610f01c9f291297506987320c7c40e3ced275b6e60"
+    },
+    {
+     "from": "2010-06-05",
+     "units": 1143,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2010-06-05",
+     "sha256": "51f8798c23e557fc293538d18e2e9551bb7512abc10a90f403dfb1ed0a7b3f02"
+    },
+    {
+     "from": "2010-06-21",
+     "units": 1140,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2010-06-21",
+     "sha256": "050f1ada1f7b08a6add7da93a0905e6e11ea80e2d837c53b3b7b8cfdd67d7320"
+    },
+    {
+     "from": "2010-06-30",
+     "units": 1140,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2010-06-30",
+     "sha256": "91a33f86518fb72ba2f144a04e6d29b9fb764d34bdf7517bf1929c124cf280cd"
+    },
+    {
+     "from": "2010-07-01",
+     "units": 1141,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2010-07-01",
+     "sha256": "9d00e828d16d1b29957ee96688add30a15351847f205afba20ebcc61a0bee24e"
+    },
+    {
+     "from": "2010-07-11",
+     "units": 1149,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2010-07-11",
+     "sha256": "85a79cf406b832c150d1982ea8554321ee7de0cdd37c491048aed5c8ff1cca7c"
+    },
+    {
+     "from": "2010-07-24",
+     "units": 1150,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2010-07-24",
+     "sha256": "9bfd55589a3fdb4766d0c9b0a81f9650d7a9c8aef9ef4717363c2d8462280150"
+    },
+    {
+     "from": "2010-08-11",
+     "units": 1196,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2010-08-11",
+     "sha256": "ba185d2c8c6c3783012d5c033c82e71ec4c0a185e2fa35b79bcfa47acb1a3f6c"
+    },
+    {
+     "from": "2010-10-01",
+     "units": 1198,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2010-10-01",
+     "sha256": "c98b8b8dd985f16ac3cbff267acd96be2c6a4253955ea741694c45f2b7758345"
+    },
+    {
+     "from": "2010-10-13",
+     "units": 1199,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2010-10-13",
+     "sha256": "9e39b444638406be070b83a685ec865f3dcd55e87a91e850e605df7e09b79d98"
+    },
+    {
+     "from": "2011-01-07",
+     "units": 1200,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2011-01-07",
+     "sha256": "4b5d60577d01167ae8c628d49b95e7915250a66f95361852ad99e5e1bb62675b"
+    },
+    {
+     "from": "2011-03-16",
+     "units": 1214,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2011-03-16",
+     "sha256": "5cd00e015cb1aab576f45a249f72783d968b5a9ee100bb0da70d1ab863dace9c"
+    },
+    {
+     "from": "2011-04-01",
+     "units": 1210,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2011-04-01",
+     "sha256": "18cc8805dcbbc36bc35c663ea01cf97533150d10b65f3e1031aa09623f361f87"
+    },
+    {
+     "from": "2011-05-19",
+     "units": 1208,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2011-05-19",
+     "sha256": "7d8f6a38bd6ef86c486f7a3dd3b5cdf6916a7bdd765001837d247eff3639fb25"
+    },
+    {
+     "from": "2011-07-02",
+     "units": 1211,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2011-07-02",
+     "sha256": "d74e8a365cdb344b4077769787b53818ea046c0f74385a8c8fcbba1fab96450e"
+    },
+    {
+     "from": "2011-07-09",
+     "units": 1212,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2011-07-09",
+     "sha256": "f7336a0c2705049248cb8b458de61386f5229e5c292390de4aadd3bc4a4c1c41"
+    },
+    {
+     "from": "2011-08-12",
+     "units": 1211,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2011-08-12",
+     "sha256": "19d8841b2e6fb723a71542128f1c9b5e83b49b2ba0ff706dbdbd849e853c83e6"
+    },
+    {
+     "from": "2011-08-27",
+     "units": 1212,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2011-08-27",
+     "sha256": "fa7e2df3c576a7ae1a4872f65b12f8d092bf6252d4ba7f65ed69cac973777712"
+    },
+    {
+     "from": "2011-09-01",
+     "units": 1212,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2011-09-01",
+     "sha256": "8683eec21b09705037171788a8211ec3ad6a416d8cec40ada0f7c7735908732d"
+    },
+    {
+     "from": "2011-09-08",
+     "units": 1213,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2011-09-08",
+     "sha256": "78bdcd5e718413f7f3f553584b62c1669dca577e0848588c43a64b725357f431"
+    },
+    {
+     "from": "2011-09-17",
+     "units": 1212,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2011-09-17",
+     "sha256": "4a5f3ccab543143d1b2420375bf44382e3c9a8d2fbc0ce5082322e9741ecefbc"
+    },
+    {
+     "from": "2011-10-20",
+     "units": 1213,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2011-10-20",
+     "sha256": "696b6f6e4f67acdbf3a23bb03aee0c685f34c9947fa4947659975f5a88627695"
+    },
+    {
+     "from": "2011-11-05",
+     "units": 1214,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2011-11-05",
+     "sha256": "7aa9cb6030657b62c812a4350c85f746634ccfe11c8d64d883b82baa5f4d4a85"
+    },
+    {
+     "from": "2011-12-01",
+     "units": 1211,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2011-12-01",
+     "sha256": "3767fdecb62ec71ff41444545ee491cf2c434b623f375d25a6c953e2237e39e8"
+    },
+    {
+     "from": "2012-01-29",
+     "units": 1211,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2012-01-29",
+     "sha256": "e7b03379ddfda566d05d9a103446d803ba80d7e51125c454d8ce0753e7a321d5"
+    },
+    {
+     "from": "2012-02-01",
+     "units": 1211,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2012-02-01",
+     "sha256": "a2db0bb7391c44cf2ad1c6d589872513b4d9c6604e9d45418ee529807eb39648"
+    },
+    {
+     "from": "2012-02-03",
+     "units": 1213,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2012-02-03",
+     "sha256": "72c62bafdce4434c0d8ccbfd160e721fc61e23ba66470ec208502337d6cc1e8a"
+    },
+    {
+     "from": "2012-02-18",
+     "units": 1212,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2012-02-18",
+     "sha256": "1e1013a1e3bc5c27740fa60a1ce10367bed5e4ff4ae3aa7c33f935b51c003cf9"
+    },
+    {
+     "from": "2012-03-07",
+     "units": 1212,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2012-03-07",
+     "sha256": "a4311b278c9cdc4aa33fb02ef942606748fdd21d7d91d3d98ff67677c54a1c7b"
+    },
+    {
+     "from": "2012-03-08",
+     "units": 1212,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2012-03-08",
+     "sha256": "58e70095a749502a979fd427e59888263e91238605b22aa8e8ba3d2f9ab3d7ee"
+    },
+    {
+     "from": "2012-03-14",
+     "units": 1213,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2012-03-14",
+     "sha256": "adf769e2bb8561ab0f93e3bfcd967b3cbb7cdfaf10cbd372f1e05dfe7a5c9acc"
+    },
+    {
+     "from": "2012-03-24",
+     "units": 1213,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2012-03-24",
+     "sha256": "261feb4d812050a4283b616d7cbd07d54c22e285b0f5202da51b9f7216992eef"
+    },
+    {
+     "from": "2012-03-29",
+     "units": 1213,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2012-03-29",
+     "sha256": "0f178868613e21f5e2f27cc6da4a0cc3c4139eb1674f9d679e4e1175290aa609"
+    },
+    {
+     "from": "2012-04-27",
+     "units": 1214,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2012-04-27",
+     "sha256": "67633c6d706b0cf792f636d74249e2ce19f793a0c5606dd6a339a1af0ef26617"
+    },
+    {
+     "from": "2012-05-01",
+     "units": 1214,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2012-05-01",
+     "sha256": "6553d3005fa7e3d18a1e1bc9e6e7813b1f3499126b956cff4c4cc78abd9125ac"
+    },
+    {
+     "from": "2012-05-05",
+     "units": 1213,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2012-05-05",
+     "sha256": "46ca75e7db6461eb6ac2a4e76082cc5f5218dd860e3204c6ea8d39efc1c6e0a0"
+    },
+    {
+     "from": "2012-08-08",
+     "units": 1215,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2012-08-08",
+     "sha256": "ddbcb6e7f35e771143a1d4e31232f1e96baeabb8e583fc769f778a86d19a2d1e"
+    },
+    {
+     "from": "2012-11-04",
+     "units": 1215,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2012-11-04",
+     "sha256": "515385092be8e2d1cfec675cc9a6c5fcaf0324c3bbe7fca53c7b11b87ba02a63"
+    },
+    {
+     "from": "2012-12-23",
+     "units": 1217,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2012-12-23",
+     "sha256": "4db25e2f9209ee94c295ea2dd0eb87050fdbaf7c8c61a2d12a992e3f0ecacb31"
+    },
+    {
+     "from": "2013-04-07",
+     "units": 1218,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2013-04-07",
+     "sha256": "03b94ae09af92a0d34ef81ffeb839247665bb4e55ef186cdc1a47f04bd63da52"
+    },
+    {
+     "from": "2013-08-07",
+     "units": 1238,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2013-08-07",
+     "sha256": "b806b9c9e595e195b9547100716ac9b7b8e753b3bd602b497feafad9d4d7485a"
+    },
+    {
+     "from": "2013-09-06",
+     "units": 1238,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2013-09-06",
+     "sha256": "2c40465a4b6ef6967d806522eb217e2eb0ff92a9dafb113df1a1640f3071ad55"
+    },
+    {
+     "from": "2013-10-13",
+     "units": 1239,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2013-10-13",
+     "sha256": "6bcfa6315004b66562fb1137007f9950283843612f3e03dc83b64bfdede489d9"
+    },
+    {
+     "from": "2013-12-08",
+     "units": 1244,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2013-12-08",
+     "sha256": "4bc9ef4e394f5b438a70e82cc31b72bc52496cef575a4d99ff02e36ddf5b06a4"
+    },
+    {
+     "from": "2013-12-20",
+     "units": 1244,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2013-12-20",
+     "sha256": "600183b2b803e1ac206a9d20c645ba3ea8b96360a686468d9c4646f5eb172b15"
+    },
+    {
+     "from": "2013-12-25",
+     "units": 1244,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2013-12-25",
+     "sha256": "806b679cd11675bf8c3f5d36e26eb0a1fb8b71339bc08bab81e6793e6afa0a14"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 1239,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2014-01-01",
+     "sha256": "1187264658912b10d75efa6e205db89d4fbcea45136132882d210e709d0ed068"
+    },
+    {
+     "from": "2014-02-23",
+     "units": 1239,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2014-02-23",
+     "sha256": "f62c39e430a382358f6bffd85330e7d1eb5f86635c093c73e5fa56f7528effd6"
+    },
+    {
+     "from": "2014-03-27",
+     "units": 1240,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2014-03-27",
+     "sha256": "ecfde33c67be8b40e10e6bf43595caa96a3bfad6ae89156324fa5f9623d0faa2"
+    },
+    {
+     "from": "2014-07-12",
+     "units": 1240,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2014-07-12",
+     "sha256": "bdaa4837883c882bde3765c21b5e0142c6477791b7190bffff869eeb845ba63e"
+    },
+    {
+     "from": "2014-08-06",
+     "units": 1243,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2014-08-06",
+     "sha256": "60f5a7eea29fb45a352f305e4382a04008123fc3aa3adffa29e7bb2faee3fb68"
+    },
+    {
+     "from": "2014-10-01",
+     "units": 1244,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2014-10-01",
+     "sha256": "c2b44c25f2f21138401fd9923763316a210644c08c7f35cf358e2465ae2d90fe"
+    },
+    {
+     "from": "2014-11-02",
+     "units": 1244,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2014-11-02",
+     "sha256": "237dbf7dba0ae1ab437c1318184b2ce340aa92168ae8adb331c9b2da4fc8b4b8"
+    },
+    {
+     "from": "2014-11-15",
+     "units": 1247,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2014-11-15",
+     "sha256": "d253d31898e948dce7eff6d69c00db47fb57b09f3f2bfabcfacc3ed5106bbb2e"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 1247,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2015-01-01",
+     "sha256": "573e22e6c1a9f9596f2cbc51211ff5abcb184e063bc1c3a21038ce09d5e1ac03"
+    },
+    {
+     "from": "2015-02-14",
+     "units": 1247,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2015-02-14",
+     "sha256": "8a2951668685e7a3d28cfba28a10661904e1c5469366498d59f0db2d016cc900"
+    },
+    {
+     "from": "2015-03-28",
+     "units": 1248,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2015-03-28",
+     "sha256": "0e051f4cdc96daf1ddc0bf871d89d41ce4ac511e61c653e8ce1370f7dbad67e9"
+    },
+    {
+     "from": "2015-06-26",
+     "units": 1248,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2015-06-26",
+     "sha256": "071b1ca2347e2206332a1067ca182184ea5bb9bf6b9e1e9becabe352958e00df"
+    },
+    {
+     "from": "2015-07-27",
+     "units": 1249,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2015-07-27",
+     "sha256": "884b017e241bb5cdff11483d1b83afb45654ffe6a091708391e93e8a974c704a"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 1250,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2015-10-01",
+     "sha256": "a82cacc1b087048ab5ade5dd67cbbb187dc71920f4afd50f421f61d8c999eb3d"
+    },
+    {
+     "from": "2015-10-03",
+     "units": 1250,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2015-10-03",
+     "sha256": "4497b30d31188e6d5051ee4a743b529ffc932b13243ef51d8eb5f7b77b60111f"
+    },
+    {
+     "from": "2015-10-16",
+     "units": 1250,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2015-10-16",
+     "sha256": "fb7601149795e9fdd24ed2874eedb3e0a60dbd795047f6a1986c9a3ca8efb061"
+    },
+    {
+     "from": "2015-11-07",
+     "units": 1251,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2015-11-07",
+     "sha256": "68f987b7d54a7f1de056cf3775c5e59e148b0fffe397ce964e09b051c7876dea"
+    },
+    {
+     "from": "2015-12-19",
+     "units": 1251,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2015-12-19",
+     "sha256": "cff1f82e0700fb4508e9c502e82507cf3ab7c894b3d4d04bf4c82a1c156052d5"
+    },
+    {
+     "from": "2015-12-30",
+     "units": 1251,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2015-12-30",
+     "sha256": "54fbfe175f3f4ef0f1f7af06c5b96b737bb3dfa1287cff80c72d3f1feb831e1e"
+    },
+    {
+     "from": "2016-01-28",
+     "units": 1251,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2016-01-28",
+     "sha256": "047abe411fd774777558ea76a5662f6ce5309c57902b205a14386f1bf77afd5b"
+    },
+    {
+     "from": "2016-02-01",
+     "units": 1251,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2016-02-01",
+     "sha256": "b1f6d6a54db53bf6e5d8f7dfbde479330700aea7c4df32ac66106c511bf76bdd"
+    },
+    {
+     "from": "2016-03-09",
+     "units": 1252,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2016-03-09",
+     "sha256": "efd34d392386f7910728959652b5707a51e83bd64761d5c54b4b83ff24ca8368"
+    },
+    {
+     "from": "2016-03-16",
+     "units": 1254,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2016-03-16",
+     "sha256": "bb5498484a44d76d9be2a2c6a7ee4f7f78be5d53932f47cd84be385590aa2cde"
+    },
+    {
+     "from": "2016-04-15",
+     "units": 1254,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2016-04-15",
+     "sha256": "f24c0476f265b165dcc695c48d7190786306a9f77f73ff1ed1bfce756b7ccb70"
+    },
+    {
+     "from": "2016-04-22",
+     "units": 1255,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2016-04-22",
+     "sha256": "adb4c62bd20597fcf20c95630f1c7a8e8ca329a78162b8d98a482b23aa89b63f"
+    },
+    {
+     "from": "2016-06-05",
+     "units": 1279,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2016-06-05",
+     "sha256": "2b69f5d8419e750decd3f85abe30aaa8b7b95989ad9011e1667a01f827b49a85"
+    },
+    {
+     "from": "2016-06-26",
+     "units": 1279,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2016-06-26",
+     "sha256": "e7215eaccd7685c280344c16904fda01199642dc007b48aabc2427d1b868581d"
+    },
+    {
+     "from": "2016-07-03",
+     "units": 1279,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2016-07-03",
+     "sha256": "61e9648e3f1466795d85c64af9f2eaecfd7d0862132fda19e1c3914f9801e4bf"
+    },
+    {
+     "from": "2016-07-09",
+     "units": 1279,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2016-07-09",
+     "sha256": "87169a80dbf3f705d9da70fdd02f139c7534897a681b2f320c65ee50ac2d0993"
+    },
+    {
+     "from": "2016-07-22",
+     "units": 1279,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2016-07-22",
+     "sha256": "f2f2562270887a587a5d8209d4a0678f7edf9e04556ea0b2291d0a601f8929b2"
+    },
+    {
+     "from": "2016-10-09",
+     "units": 1280,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2016-10-09",
+     "sha256": "016464aab99c85542035884f0443742fe754b68c642c8a57aeb2526e387ee719"
+    },
+    {
+     "from": "2016-11-01",
+     "units": 1280,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2016-11-01",
+     "sha256": "0e1e0212f44a855063870a02456aced726b555d41c2805ef89c234c9e5862613"
+    },
+    {
+     "from": "2016-11-16",
+     "units": 1280,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2016-11-16",
+     "sha256": "ae5b391a5b588f46320d37f2098c05655d766ec477685c5cd4153a343f9a9e3b"
+    },
+    {
+     "from": "2016-11-20",
+     "units": 1280,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2016-11-20",
+     "sha256": "bd382c3b2a0648b7dc4f29787af65001ef1152a7aa87a428f1c5fa0b85c8c760"
+    },
+    {
+     "from": "2016-12-11",
+     "units": 1287,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2016-12-11",
+     "sha256": "71b714857e7e0e136ccedfed467cd183e322f7f5f19732349c2ce34e0f6cda4c"
+    },
+    {
+     "from": "2016-12-15",
+     "units": 1291,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2016-12-15",
+     "sha256": "0765a4fffdc7677e8c570204332cf9b1701e2f91c1f4a3a57d75fa2af273a050"
+    },
+    {
+     "from": "2016-12-31",
+     "units": 1291,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2016-12-31",
+     "sha256": "44eb25b28348174023bee460ba4fc98509517c4f831643bb06456b64f7effda4"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 1291,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2017-01-01",
+     "sha256": "97a19ef1cb3301c4d04a23705d97dced242ed0f6b5c8e89915b69a6323dab5c7"
+    },
+    {
+     "from": "2017-01-22",
+     "units": 1291,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2017-01-22",
+     "sha256": "7f719b737c1cc9879d2a0733c4f912ba6a328a5f8b4233c3d8a41d262db95174"
+    },
+    {
+     "from": "2017-01-27",
+     "units": 1291,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2017-01-27",
+     "sha256": "b23c1b21cdef35387f061090f6a8cf88bc2d02df30d5b2e42ef650bb6aba0aa7"
+    },
+    {
+     "from": "2017-01-29",
+     "units": 1290,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2017-01-29",
+     "sha256": "4f7f6a0612997022f73a7ae3c23527b13295b6bd88b3e3330b4ee3360a57aa2f"
+    },
+    {
+     "from": "2017-02-12",
+     "units": 1289,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2017-02-12",
+     "sha256": "144fdc213229d0acc936cebcc1f557d5239e2ba4548278781e3505a1b1ca9613"
+    },
+    {
+     "from": "2017-02-19",
+     "units": 1289,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2017-02-19",
+     "sha256": "38cb680a699ca1d2362ad4a9310c2c371198ede2ef35276773d9066e561cf17e"
+    },
+    {
+     "from": "2017-02-25",
+     "units": 1289,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2017-02-25",
+     "sha256": "819db5bb8df0c127a948f519d6ccb312c263c7e5ea481d9ea3b7d35e53feb3ef"
+    },
+    {
+     "from": "2017-03-01",
+     "units": 1286,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2017-03-01",
+     "sha256": "cb312e0ac137a34a892add0fa4c096ec5f0b35f9a4e9f3534b9b29acd7958457"
+    },
+    {
+     "from": "2017-03-02",
+     "units": 1286,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2017-03-02",
+     "sha256": "a58cc0e40c499e39ad714652d5ab0d20d39c856e3523d0f5f2ef328de628d4ca"
+    },
+    {
+     "from": "2017-03-03",
+     "units": 1286,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2017-03-03",
+     "sha256": "564b9600fc2690ab59ff1e016b61a4bfd1e75fed84a7af8cf279c4d115a53029"
+    },
+    {
+     "from": "2017-03-04",
+     "units": 1286,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2017-03-04",
+     "sha256": "f8c9e27bf44caa0e064cb2890a0836276bf9c2a07f03adb49a13c75f3e49b41f"
+    },
+    {
+     "from": "2017-04-09",
+     "units": 1286,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2017-04-09",
+     "sha256": "1f8384b4c20e2bb43e9d84974f7d7382c4b7442b6604d972bed864ffb5167a1c"
+    },
+    {
+     "from": "2017-08-06",
+     "units": 1285,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2017-08-06",
+     "sha256": "9e7c369b4f0f55387ab2561ae69f269bf1c44caf4161966b7a95c8dcd6ecff9f"
+    },
+    {
+     "from": "2017-09-17",
+     "units": 1286,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2017-09-17",
+     "sha256": "812650d48dc50d83ea336f0aa267f9ee373227631d633031aabbfdc8e14a0f63"
+    },
+    {
+     "from": "2017-10-31",
+     "units": 1287,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2017-10-31",
+     "sha256": "ad68ca911d0a907d1dfb54ed172c799520712bdd2e77cc7db58bd5243bd9feb3"
+    },
+    {
+     "from": "2017-11-05",
+     "units": 1287,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2017-11-05",
+     "sha256": "945f33cad1185d5b0700e4eef8c6532abafb69e8aa0a757a9af9edbea4564b4e"
+    },
+    {
+     "from": "2017-12-16",
+     "units": 1286,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2017-12-16",
+     "sha256": "be9203846e89b9fe5fdc9921d6f59b5dc4c5be1548084d08e38d348215fec611"
+    },
+    {
+     "from": "2018-03-28",
+     "units": 1286,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2018-03-28",
+     "sha256": "cc63117bd8dda512d42a46361f8480aefa383082823e96daa54f32663fe89d10"
+    },
+    {
+     "from": "2018-04-15",
+     "units": 1286,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2018-04-15",
+     "sha256": "b2679ecc5680c3c6571f01a9b7aa9aacde122eb1461192d607c2439803ae9364"
+    },
+    {
+     "from": "2018-05-06",
+     "units": 1286,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2018-05-06",
+     "sha256": "b23aa503a0044bffea7f3388ada5ba8eff4c2d4514e43d3b9aae9abc2ceb88a2"
+    },
+    {
+     "from": "2018-05-25",
+     "units": 1285,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2018-05-25",
+     "sha256": "236f51b4d8758203d02a20ca218927324a9dfce9a519fd9e9806a497279dbbcb"
+    },
+    {
+     "from": "2018-06-09",
+     "units": 1285,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2018-06-09",
+     "sha256": "dc9293627daecee7abcc3015291cb290d0eab8dcf1aed162e92bb59434fa095c"
+    },
+    {
+     "from": "2018-08-04",
+     "units": 1285,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2018-08-04",
+     "sha256": "29c956044f670891f792fb3695675bcd3c80b64e774c851df6e06c820e7f0205"
+    },
+    {
+     "from": "2018-08-06",
+     "units": 1288,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2018-08-06",
+     "sha256": "d3bb3978cd9e48b375c40e1c91f313be70dd5aa52e2ef869d596a915e76da34f"
+    },
+    {
+     "from": "2018-09-12",
+     "units": 1290,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2018-09-12",
+     "sha256": "1e74b7f5590af30974705702ac66faff77bfc6d0114ea9a061f58fc29e6c4005"
+    },
+    {
+     "from": "2018-10-25",
+     "units": 1290,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2018-10-25",
+     "sha256": "9035a3a5c6cd6b4221a94c307053dd259c3c11e23b31cad24f4072aeb6413bcc"
+    },
+    {
+     "from": "2018-11-09",
+     "units": 1290,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2018-11-09",
+     "sha256": "32a746fd0d89b3817fd1bf4d63519441e7420f00cae1ccd3deaf5ca80bbba7cf"
+    },
+    {
+     "from": "2018-11-25",
+     "units": 1291,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2018-11-25",
+     "sha256": "e6e189dcaf9ab6cad0d4ae1db4762efabe5a126d70a8f2cf886d59733d6ae824"
+    },
+    {
+     "from": "2019-03-22",
+     "units": 1292,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2019-03-22",
+     "sha256": "a5633535f19cf69424ae60f6ad9c0fa27a7982140c6170a95f5110479ffe74cf"
+    },
+    {
+     "from": "2019-03-25",
+     "units": 1294,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2019-03-25",
+     "sha256": "7f83461327943e641e15dc0e892aa30c8a9c12d567740fc7cb2b36049423ff3d"
+    },
+    {
+     "from": "2019-04-12",
+     "units": 1298,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2019-04-12",
+     "sha256": "947bf20a1194dac17d698084c9643df278ed38b5b44a7885f921e432430383d2"
+    },
+    {
+     "from": "2019-06-01",
+     "units": 1298,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2019-06-01",
+     "sha256": "af7e9934da05339adb6b406ba4edf81abc2a1fed67dff42180280e091ac2e130"
+    },
+    {
+     "from": "2019-07-29",
+     "units": 1298,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2019-07-29",
+     "sha256": "88deb9da93be71a3d08edfc3c4e461b26a9f0be5c73b0da14365ca9ff210f3fe"
+    },
+    {
+     "from": "2019-08-03",
+     "units": 1298,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2019-08-03",
+     "sha256": "b74fb7df98ae95c7bf0983b240e00fceb053085c503cc8df802c0f4a73c4cd75"
+    },
+    {
+     "from": "2019-09-20",
+     "units": 1300,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2019-09-20",
+     "sha256": "d7e4132fbe902536c20fa0b59be5f1d23b4203ec617898f36798d3bf209e4c65"
+    },
+    {
+     "from": "2019-10-04",
+     "units": 1300,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2019-10-04",
+     "sha256": "3878fdcd65858e24fe7cf49c3199c270f12132af60ab04acb136c4e2b78ed2ed"
+    },
+    {
+     "from": "2019-11-09",
+     "units": 1300,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2019-11-09",
+     "sha256": "942b528a649afee7b4619ab5791a0ddeecf0c1f49c68310f1e5dffc3bcd1265f"
+    },
+    {
+     "from": "2019-11-24",
+     "units": 1301,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2019-11-24",
+     "sha256": "93123b260950bba76f1baee21647026439e6f81cf8f22996a77ddaf3c552e9c2"
+    },
+    {
+     "from": "2019-12-08",
+     "units": 1301,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2019-12-08",
+     "sha256": "1d649ecaa18c48f9a6cba1da6d656833f79c2bc7fb2f5ec4ee9ceef95238a953"
+    },
+    {
+     "from": "2019-12-21",
+     "units": 1301,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2019-12-21",
+     "sha256": "3e699c130cf51432b0a379ebae171105b63043d906fad89fd941cd14e239a7fb"
+    },
+    {
+     "from": "2019-12-27",
+     "units": 1301,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2019-12-27",
+     "sha256": "65b9218233b10fe6403e6dffb4b05e6e85f341c9626075b45e6de92366c7b107"
+    },
+    {
+     "from": "2019-12-28",
+     "units": 1301,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2019-12-28",
+     "sha256": "5730c107ab24bd4fdda586508d035ec130d23061856ccc7a99caaab14c6c5dcd"
+    },
+    {
+     "from": "2019-12-30",
+     "units": 1302,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2019-12-30",
+     "sha256": "4829fdbe9612057c2dd45889c781b8b61b38c652547f3a2790210a154c82bccc"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 1302,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2020-01-01",
+     "sha256": "2a97fe6b9f6a82fa6a303e036c15c4f441237d3755024ef40f93be0dc6ddad83"
+    },
+    {
+     "from": "2020-02-20",
+     "units": 1302,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2020-02-20",
+     "sha256": "8f91c84a8a21a6a2f2269fae8fe895c13a71e7ba7202a62f60f0eead7c238d14"
+    },
+    {
+     "from": "2020-03-24",
+     "units": 1285,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2020-03-24",
+     "sha256": "75afc9e1969c22b03d78d6b0795b2b71b4b57af428bee89ed169badc70bb0b0d"
+    },
+    {
+     "from": "2020-03-25",
+     "units": 1285,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2020-03-25",
+     "sha256": "6a1e8c837b947dfc2a8be250c44184bb77601a072aaa9462f96eff51930e0d31"
+    },
+    {
+     "from": "2020-05-12",
+     "units": 1285,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2020-05-12",
+     "sha256": "5d2dfd0481e0a0c07b232d7649ce6b969e5c58e08dc624b9609bd56c72a9badd"
+    },
+    {
+     "from": "2020-06-01",
+     "units": 1285,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2020-06-01",
+     "sha256": "ba9f065170893def338662e923872bf305745008d585337d25fe89fbbf424a82"
+    },
+    {
+     "from": "2020-07-05",
+     "units": 1285,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2020-07-05",
+     "sha256": "066abcfe18d039e94cbc3b691f44d781dda9d74baeb368bdf558209534fb5aa0"
+    },
+    {
+     "from": "2020-08-01",
+     "units": 1288,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2020-08-01",
+     "sha256": "4c5c6ac54afb3120a80d3bdb102177571734206edc7735baae707793a650dee4"
+    },
+    {
+     "from": "2020-08-12",
+     "units": 1288,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2020-08-12",
+     "sha256": "ca15af38a08f78cfd9eca6e8e5e8256804d4707f795d0d215cb2fa8549c9c2b3"
+    },
+    {
+     "from": "2020-12-14",
+     "units": 1288,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2020-12-14",
+     "sha256": "f68825891779ee3af6837def973fdcc24274638e0931db9241b91a996cc2bfab"
+    },
+    {
+     "from": "2020-12-16",
+     "units": 1290,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2020-12-16",
+     "sha256": "cc45645e3d58265e33acb3c722971e16b73a8e39d404cd38ef1aa37ea786c56e"
+    },
+    {
+     "from": "2020-12-27",
+     "units": 1291,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2020-12-27",
+     "sha256": "3213dd4776b0f144e1d7aa0663bdee2ac7e937ed0d1ba42bc1520e2ca4b1cc0e"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 1291,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2021-01-01",
+     "sha256": "799d72c28086350358bc05f81d492a053a05a938bea82926e339b6df4a3358af"
+    },
+    {
+     "from": "2021-04-10",
+     "units": 1291,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2021-04-10",
+     "sha256": "1ab223097c6266fd4a6b19727f83d47685847afdecd64bacbe20754a5b3de6c5"
+    },
+    {
+     "from": "2021-04-23",
+     "units": 1301,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2021-04-23",
+     "sha256": "a549bd97bb7f14a8d21d2bd49a2b43c96341281251ac57e18c90838e0827c786"
+    },
+    {
+     "from": "2021-05-01",
+     "units": 1301,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2021-05-01",
+     "sha256": "573cf747c647297d856e25b670cb5e4971483324dbc8cacff49d7f8b1ccdb0a0"
+    },
+    {
+     "from": "2021-05-27",
+     "units": 1302,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2021-05-27",
+     "sha256": "bb3702047e7023f368b4aa40b4228aa5a2d40b2cb2511beede891aa6778eb855"
+    },
+    {
+     "from": "2021-08-04",
+     "units": 1302,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2021-08-04",
+     "sha256": "dc5ee473f06eb17bd02b7c56399fcd644d7274b15d3d474ae48f9f5d4691d865"
+    },
+    {
+     "from": "2021-08-07",
+     "units": 1302,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2021-08-07",
+     "sha256": "2038289b05931417ff80d96c45adb153fb3d36cfb34756baaeaea982c0ac4b2d"
+    },
+    {
+     "from": "2021-08-26",
+     "units": 1308,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2021-08-26",
+     "sha256": "1838b0c72bd96c695d0c2074bf3ec18a404ab52552b0281c7eb0f40e866da341"
+    },
+    {
+     "from": "2021-09-30",
+     "units": 1304,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2021-09-30",
+     "sha256": "be350f47248d85c9ba1cdbc387112bda24793c6e0daee08e91a8720783884392"
+    },
+    {
+     "from": "2021-10-10",
+     "units": 1304,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2021-10-10",
+     "sha256": "e6cab1cc002bd4ed8ac48c2ed246b0cd343507b1b76cce9468eb0ea74bf6ba95"
+    },
+    {
+     "from": "2021-11-01",
+     "units": 1304,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2021-11-01",
+     "sha256": "28c909c2d30bcca90c89e02a0710878a3c632626d2ff59b54b6122d38b17ce44"
+    },
+    {
+     "from": "2021-11-27",
+     "units": 1304,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2021-11-27",
+     "sha256": "75c69decf0a54f9bf8a6b749edca983ff7bef201ea45d57be1fd50347b6d87be"
+    },
+    {
+     "from": "2021-12-02",
+     "units": 1309,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2021-12-02",
+     "sha256": "5bed7b9ea9b37b444b62bc303846d4e72a307c22008cceac2bdfa4a0303ed4da"
+    },
+    {
+     "from": "2021-12-24",
+     "units": 1310,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2021-12-24",
+     "sha256": "01629b7b27300ec80038b3ca68cab7af68db314e6396fabb0e44b9a523085984"
+    },
+    {
+     "from": "2021-12-25",
+     "units": 1310,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2021-12-25",
+     "sha256": "6fa6f5d784fd8a3383e971938799508691a67fae37549c746b9eeee474fa725b"
+    },
+    {
+     "from": "2021-12-31",
+     "units": 1310,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2021-12-31",
+     "sha256": "2084f35e7c902aa843c2c664dea8af9a73f7d431402dc675d4c8f18055e43abe"
+    },
+    {
+     "from": "2022-01-26",
+     "units": 1317,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2022-01-26",
+     "sha256": "d6c28fad29562535a7ddcc9115f72432e55f08529368044826a51d42f84d838c"
+    },
+    {
+     "from": "2022-02-02",
+     "units": 1318,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2022-02-02",
+     "sha256": "956408f43bf299fc3b65f2ed4adfa8fee74a789fb8c1413c8fed5bbce4dccbac"
+    },
+    {
+     "from": "2022-02-17",
+     "units": 1322,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2022-02-17",
+     "sha256": "c778535c0c5ffda8e390c8b3b654ef75857a37b971d965fd2cc4a58a550cfa21"
+    },
+    {
+     "from": "2022-03-01",
+     "units": 1322,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2022-03-01",
+     "sha256": "ae743953247ab5a4dd5203e79d0ca908eb84dd63f569fcd40a56b2c697bffe5c"
+    },
+    {
+     "from": "2022-03-04",
+     "units": 1323,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2022-03-04",
+     "sha256": "acf6bedf623266c2b78a33798b580bcbe8c25937bb91ff7a1605e7e1b28de65d"
+    },
+    {
+     "from": "2022-05-01",
+     "units": 1294,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2022-05-01",
+     "sha256": "b393d5b5dfc1d42700a908265539e84bdf297f82b5cada4481123f750574a707"
+    },
+    {
+     "from": "2022-09-01",
+     "units": 1294,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2022-09-01",
+     "sha256": "989f084f0919b0df7e951719104722b1bb8729a897343522c912c3b97a41980d"
+    },
+    {
+     "from": "2023-01-26",
+     "units": 1296,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2023-01-26",
+     "sha256": "3dee950810f0156aad4e131a022fc3f8acfc16593e7c33628e91d882efa90f25"
+    },
+    {
+     "from": "2023-02-04",
+     "units": 1297,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2023-02-04",
+     "sha256": "e6bcc13c436e1a0d4471a2bc27c5a956d10d031a226859ef9aecaeed9bbbf966"
+    },
+    {
+     "from": "2023-04-01",
+     "units": 1299,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2023-04-01",
+     "sha256": "d2a4ca2241c5ef1bf23429527d9fdf60fd2c00500f296211c1d949118b1905bb"
+    },
+    {
+     "from": "2023-05-21",
+     "units": 1299,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2023-05-21",
+     "sha256": "c2a7bf0bfad430487c96217bf1793d9585e8b041cf429a5c5aed6012f03c5764"
+    },
+    {
+     "from": "2023-07-29",
+     "units": 1302,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2023-07-29",
+     "sha256": "dcd7886008aad8eaab27735706df6bcbcf532cf0fe4c956f5d7e802e2703b5b1"
+    },
+    {
+     "from": "2023-11-22",
+     "units": 1302,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2023-11-22",
+     "sha256": "fd09c1509ddcf2280403530fb5f5c293f0193f37f1111345d384f084c0e80dfe"
+    },
+    {
+     "from": "2023-11-28",
+     "units": 1303,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2023-11-28",
+     "sha256": "66c5897bec504477552b4af5ed852e9c3a42e1ae934174f150e59d522ea0429b"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 1303,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2024-01-01",
+     "sha256": "9cc8eaf94992d5a8eaa530ec76df12b28f62bbcfe56eaf02fc662b0aae1db5e0"
+    },
+    {
+     "from": "2024-01-28",
+     "units": 1277,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2024-01-28",
+     "sha256": "30a80038c74d2560ac40b17282503ff58b4af6a54afae2b50321c4b20f9467fd"
+    },
+    {
+     "from": "2024-02-17",
+     "units": 1277,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2024-02-17",
+     "sha256": "eab9e7213b53beef2945a4cb3b38b0850bae2402299852af0233dfe80c94f853"
+    },
+    {
+     "from": "2024-02-21",
+     "units": 1277,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2024-02-21",
+     "sha256": "136e819762a2330acce71e8fbdf07892931b2e127898e085efd7d9c9621a843e"
+    },
+    {
+     "from": "2024-03-20",
+     "units": 1274,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2024-03-20",
+     "sha256": "2a7b3cfa7453676f7709de0dfac07c95e163b2c2494a3c2c57e6f913683e4b97"
+    },
+    {
+     "from": "2024-03-23",
+     "units": 1274,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2024-03-23",
+     "sha256": "109076f4c8a187953055e076f3c3c06cbb31a63f56b8a0cd444300cc78e39934"
+    },
+    {
+     "from": "2024-04-10",
+     "units": 1274,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2024-04-10",
+     "sha256": "6c9c5e1d99f1862c8fc9dfb44356c448e858f03ac71820d18dada3160562a5cc"
+    },
+    {
+     "from": "2024-04-11",
+     "units": 1274,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2024-04-11",
+     "sha256": "b2adf3bbe22636abee4fe9f8d83dd12e809b517e00461eab1a15ef8372f7215f"
+    },
+    {
+     "from": "2024-05-12",
+     "units": 1276,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2024-05-12",
+     "sha256": "5353ff044723573d69578265a8278b58f50bc32fed8e43d0504b71874b05a4d2"
+    },
+    {
+     "from": "2024-05-23",
+     "units": 1278,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2024-05-23",
+     "sha256": "c2ad58113fad2145b6a3955fec9c689566112dac4b5dda2ecde8e26c09706f14"
+    },
+    {
+     "from": "2024-06-12",
+     "units": 1278,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2024-06-12",
+     "sha256": "7192bbcf637a8fd0acdbed63c7e833737801997275557dff1c8c94b875d23d8d"
+    },
+    {
+     "from": "2024-06-15",
+     "units": 1278,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2024-06-15",
+     "sha256": "68cb7f33061ed94c1d88d89faae9fddf2e7dd2b4e3083f10131ebaf8c426371a"
+    },
+    {
+     "from": "2024-06-26",
+     "units": 1281,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2024-06-26",
+     "sha256": "eac0c07240e1655cabdcd5bbdcd498d8f5ee31366fdd87b5d4beaaf215bab547"
+    },
+    {
+     "from": "2024-07-27",
+     "units": 1282,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2024-07-27",
+     "sha256": "f19c8e786140e3f69de05de039a721d008261f931916a96221b09a1186e9ee2d"
+    },
+    {
+     "from": "2024-09-30",
+     "units": 1282,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2024-09-30",
+     "sha256": "69b3e43045106f8cb9a645d7371ba0c45648ca0408fb2539db5b76940dc4a077"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 1284,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2025-01-01",
+     "sha256": "f38c48087053dd8fd39ff778a7b46aae917bc6705135958fbd87c46630c28c84"
+    },
+    {
+     "from": "2025-03-26",
+     "units": 1284,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2025-03-26",
+     "sha256": "01c752754020809a33d3af72bdc5b69a25f3fbe6a8e99f073f3e3838b60b6024"
+    },
+    {
+     "from": "2025-06-15",
+     "units": 1293,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2025-06-15",
+     "sha256": "10e6df267120d34d382e1a5abbdfd8b26ce8908c8c0044c779d34f1821103a09"
+    },
+    {
+     "from": "2025-06-25",
+     "units": 1293,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2025-06-25",
+     "sha256": "945368863ec19eac1ac548d50db3c9155f659f24353362c2049af3b1bf68e0df"
+    },
+    {
+     "from": "2025-07-11",
+     "units": 1297,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2025-07-11",
+     "sha256": "a89e1cf2931ad34a12d06264cd28b0646097280914d9e56a6dd0e90e0dac1408"
+    },
+    {
+     "from": "2025-10-24",
+     "units": 1296,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2025-10-24",
+     "sha256": "10620132e66bb17dfe8c8f51be1091bd1fbab716461d95c78e8f5d8ebc4d27b9"
+    },
+    {
+     "from": "2025-11-08",
+     "units": 1296,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2025-11-08",
+     "sha256": "5b458045d9351da2ca40aeb4dc8e8529c0196535705e7a54afbb88e9a00efb42"
+    },
+    {
+     "from": "2025-12-24",
+     "units": 1296,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2025-12-24",
+     "sha256": "23d03418a963a984665660336e712df7b31355d70233094ac3d19a201cf9cdba"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 1296,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2026-01-01",
+     "sha256": "6f39b16f12020519c1cce74ac7b10d4ce4ec6090d9621a9a67af684117f1e86f"
+    },
+    {
+     "from": "2026-03-13",
+     "units": 1296,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2026-03-13",
+     "sha256": "953bd216d818759658710092441c4c9f2840350b3b718fbd9005056b947013c5"
+    },
+    {
+     "from": "2026-06-05",
+     "units": 1296,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2026-06-05",
+     "sha256": "b00c03e08ab7a6198d4d1912e3799a385f63b282359f4c8709630c8143a6614e"
+    },
+    {
+     "from": "2026-06-12",
+     "units": 1296,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2026-06-12",
+     "sha256": "f7b9fa162f5ebea888f26468d723b609335b71ea4ff3eff972df1f64888b632f"
+    },
+    {
+     "from": "2026-06-27",
+     "units": 1296,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2026-06-27",
+     "sha256": "0ba30a756fa7586b1e28d1ab0ce3291a21323bdd5e33d8673f9ebeca597188ab"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 1296,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2026-07-01",
+     "sha256": "bc56b65764e4e272453d23caa9ab30fed501f54884d14ae33a617cba0412352b"
+    },
+    {
+     "from": "2026-07-25",
+     "units": 1296,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2026-07-25",
+     "sha256": "b0e132394b358f4c9f8d95400cce403d6a586e8d7345dbd251e20340951521cd"
+    },
+    {
+     "from": "2026-08-03",
+     "units": 1299,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2026-08-03",
+     "sha256": "6099071e45d9c023b333cbaae0d200b86c2d56599cc492530955c563c69c288f"
+    },
+    {
+     "from": "2026-08-19",
+     "units": 1299,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2026-08-19",
+     "sha256": "b467554210500d7c9d26339e3b2bf0d69ac1f4b271b0727cebfbfc708ad3860d"
+    },
+    {
+     "from": "2026-08-20",
+     "units": 1301,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2026-08-20",
+     "sha256": "706a123a23aa222c644def30fc54ac51c27b0dd1c7660a05190b7e2d2f25550f"
+    },
+    {
+     "from": "2026-08-26",
+     "units": 1301,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2026-08-26",
+     "sha256": "26e11bb84f8e914090ed1faec46be7db9a412a2add48339bf4e81c31db70f1ce"
+    },
+    {
+     "from": "2029-01-01",
+     "units": 1297,
+     "source_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/2029-01-01",
+     "sha256": "6a082f6a277f431ca19bf9f9f0582aa56fa6fec89793c0ea2e8dd6022005fff9"
+    }
+   ]
+  }
+ ]
+}

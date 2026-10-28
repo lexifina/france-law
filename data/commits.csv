@@ -1,0 +1,585 @@
+day,kind,law,acts,files,branch
+1958-10-05,start,constitution-1958-10-04,constitution,93,main
+1960-06-08,law,loi-constitutionnelle-60-525,constitution,2,main
+1962-11-09,law,loi-62-1292,constitution,2,main
+1963-12-31,unexplained,,constitution,1,main
+1974-10-30,law,loi-constitutionnelle-74-904,constitution,1,main
+1976-06-19,unexplained,,constitution,1,main
+1992-06-26,law,loi-constitutionnelle-92-554,constitution,10,main
+1993-07-28,law,loi-constitutionnelle-93-952,constitution,10,main
+1993-11-26,law,loi-constitutionnelle-93-1256,constitution,1,main
+1994-01-01,start,,code-civil,2537,main
+1994-02-01,law,loi-93-22,code-civil,26,main
+1994-02-13,law,loi-94-126,code-civil,1,main
+1994-03-01,start,,code-penal,786,main
+1994-03-01,law,loi-92-1336,code-civil,3,main
+1994-03-01,law,loi-93-933,code-civil,1,main
+1994-03-01,law,loi-93-1417,code-civil,1,main
+1994-07-01,law,loi-93-933,code-civil,1,main
+1994-07-02,law,loi-94-548,code-penal,1,main
+1994-07-26,law,loi-94-629,code-civil,1,main
+1994-07-30,law,loi-94-653,code-civil code-penal,56,main
+1994-10-01,law,loi-94-475,code-civil,1,main
+1995-01-01,law,loi-94-624,code-civil,2,main
+1995-02-02,law,loi-95-96,code-civil,1,main
+1995-02-05,law,loi-95-116,code-penal,2,main
+1995-02-09,law,loi-95-125,code-penal,1,main
+1995-02-09,law,loi-95-127,code-penal,1,main
+1995-02-09,unexplained,,code-civil,11,main
+1995-02-14,law,decret-95-152,code-penal,2,main
+1995-05-09,law,loi-95-125,code-civil,11,main
+1995-08-01,law,loi-95-125,code-civil,1,main
+1995-08-04,law,loi-95-877,code-penal,1,main
+1995-08-05,law,loi-constitutionnelle-95-880,constitution,29,main
+1996-02-23,law,loi-constitutionnelle-96-138,constitution,3,main
+1996-02-27,law,loi-96-151,code-penal,1,main
+1996-05-01,law,ordonnance-96-267,code-penal,72,main
+1996-05-01,unexplained,,code-penal,1,main
+1996-05-08,unexplained,,code-penal,1,main
+1996-05-14,law,loi-96-392,code-penal,12,main
+1996-05-14,law,loi-96-393,code-penal,1,main
+1996-05-29,law,loi-96-452,code-civil code-penal,2,main
+1996-07-04,law,loi-96-597,code-civil,1,main
+1996-07-06,law,loi-96-604,code-civil code-penal,29,main
+1996-07-23,law,loi-96-647,code-civil code-penal,18,main
+1997-01-01,law,loi-96-1238,code-civil,1,main
+1997-01-01,law,loi-96-1240,code-penal,13,main
+1997-01-01,unexplained,,code-penal,3,main
+1997-04-25,law,loi-97-396,code-penal,2,main
+1997-05-30,law,decret-97-544,code-penal,21,main
+1997-07-13,law,decret-97-757,code-penal,8,main
+1997-10-29,law,loi-97-987,code-civil,6,main
+1997-12-20,unexplained,,code-penal,1,main
+1997-12-31,law,loi-97-1159,code-penal,1,main
+1998-02-07,law,loi-98-69,code-civil,1,main
+1998-04-07,unexplained,,code-civil,4,main
+1998-05-12,law,loi-98-349,code-penal,6,main
+1998-05-12,unexplained,,code-penal,1,main
+1998-05-19,law,loi-98-381,code-civil,3,main
+1998-05-21,law,loi-98-389,code-civil,18,main
+1998-06-16,unexplained,,code-civil,1,main
+1998-06-18,law,loi-98-467,code-penal,1,main
+1998-06-18,law,loi-98-468,code-penal,39,main
+1998-07-01,law,loi-98-261,code-civil,5,main
+1998-07-02,law,loi-98-535,code-penal,3,main
+1998-07-19,law,decret-98-608,code-penal,1,main
+1998-07-21,law,loi-constitutionnelle-98-610,constitution,2,main
+1998-07-31,law,loi-98-657,code-civil code-penal,5,main
+1998-09-01,law,loi-98-170,code-civil,26,main
+1998-09-04,law,ordonnance-98-773,code-penal,1,main
+1998-12-22,law,loi-98-1165,code-penal,1,main
+1999-01-07,law,loi-99-5,code-civil code-penal,3,main
+1999-01-26,law,loi-constitutionnelle-99-49,constitution,2,main
+1999-03-21,law,loi-99-209,code-penal,6,main
+1999-06-19,law,loi-99-505,code-penal,6,main
+1999-07-09,law,loi-constitutionnelle-99-568,constitution,1,main
+1999-07-09,law,loi-constitutionnelle-99-569,constitution,2,main
+1999-07-10,law,loi-99-574,code-civil code-penal,4,main
+1999-11-16,law,loi-99-944,code-civil,9,main
+1999-12-29,unexplained,,code-civil,7,main
+1999-12-30,law,loi-99-1141,code-civil,8,main
+2000-01-01,law,loi-99-641,code-civil,1,main
+2000-03-14,law,loi-2000-230,code-civil,13,main
+2000-03-14,unexplained,,code-civil,1,main
+2000-04-13,law,loi-2000-321,code-penal,1,main
+2000-06-16,law,loi-2000-516,code-civil code-penal,3,main
+2000-07-01,law,loi-2000-595,code-penal,9,main
+2000-07-01,law,loi-2000-596,code-civil,17,main
+2000-07-11,law,loi-2000-642,code-penal,1,main
+2000-07-11,law,loi-2000-647,code-penal,6,main
+2000-09-21,law,ordonnance-2000-914,code-penal,1,main
+2000-10-03,law,loi-constitutionnelle-2000-964,constitution,1,main
+2000-12-14,law,loi-2000-1208,code-civil,1,main
+2000-12-31,law,loi-2000-1354,code-penal,1,main
+2001-02-08,law,loi-2001-111,code-civil,4,main
+2001-05-16,law,loi-2001-420,code-civil code-penal,6,main
+2001-06-01,law,loi-2000-1208,code-civil,1,main
+2001-06-01,law,decret-2001-251,code-penal,1,main
+2001-06-13,law,loi-2001-504,code-penal,20,main
+2001-07-07,law,loi-2001-588,code-penal,4,main
+2001-07-13,law,loi-2001-616,code-penal,21,main
+2001-07-13,unexplained,,code-penal,1,main
+2001-08-25,law,decret-2001-744,code-penal,3,main
+2001-09-27,law,decret-2001-883,code-penal,4,main
+2001-11-16,law,loi-2001-1062,code-penal,7,main
+2001-11-17,law,loi-2001-1066,code-penal,2,main
+2001-12-04,law,loi-2001-1135,code-civil,16,main
+2001-12-12,law,loi-2001-1168,code-civil code-penal,4,main
+2002-01-01,law,ordonnance-2000-916,code-civil code-penal,364,main
+2002-01-01,law,loi-2001-616,code-penal,1,main
+2002-01-05,law,loi-2002-5,code-penal,1,main
+2002-01-18,law,loi-2002-73,code-penal,3,main
+2002-01-23,law,loi-2002-93,code-civil,2,main
+2002-03-05,law,loi-2002-303,code-civil code-penal,4,main
+2002-03-05,law,loi-2002-305,code-civil code-penal,67,main
+2002-07-01,law,loi-2001-1135,code-civil,83,main
+2002-09-10,law,loi-2002-1138,code-penal,12,main
+2002-12-31,law,loi-2002-1576,code-penal,1,main
+2003-02-04,law,loi-2003-88,code-penal,10,main
+2003-03-19,law,loi-2003-239,code-penal,51,main
+2003-03-26,law,loi-constitutionnelle-2003-267,constitution,1,main
+2003-03-29,law,loi-constitutionnelle-2003-276,constitution,15,main
+2003-04-15,law,loi-2003-340,code-penal,5,main
+2003-06-13,law,loi-2003-495,code-penal,20,main
+2003-07-12,law,decret-2003-642,code-penal,4,main
+2003-09-01,law,loi-2002-304,code-civil,1,main
+2003-11-27,law,loi-2003-1119,code-civil code-penal,28,main
+2004-01-03,law,loi-2004-1,code-civil code-penal,2,main
+2004-02-20,law,decret-2004-162,code-penal,1,main
+2004-03-10,law,loi-2004-204,code-penal,51,main
+2004-03-10,unexplained,,code-penal,2,main
+2004-06-01,law,ordonnance-2004-164,code-civil,1,main
+2004-06-01,unexplained,,code-civil,19,main
+2004-06-22,law,loi-2004-575,code-civil code-penal,16,main
+2004-06-26,law,ordonnance-2004-602,code-civil,1,main
+2004-07-10,law,loi-2004-669,code-penal,1,main
+2004-07-17,law,decret-2004-703,code-penal,1,main
+2004-08-07,law,loi-2004-800,code-civil code-penal,44,main
+2004-08-07,law,loi-2004-801,code-penal,15,main
+2004-08-11,law,loi-2004-806,code-penal,1,main
+2004-08-17,law,loi-2004-809,code-civil,2,main
+2004-09-27,law,decret-2004-1021,code-penal,1,main
+2004-09-29,law,decret-2004-1021,code-penal,14,main
+2004-10-01,law,loi-2004-204,code-penal,14,main
+2004-11-21,unexplained,,code-civil,1,main
+2004-12-10,law,loi-2004-1343,code-civil,3,main
+2005-01-01,law,loi-2002-304,code-civil,12,main
+2005-01-01,law,loi-2003-516,code-civil,8,main
+2005-01-01,law,loi-2004-204,code-civil code-penal,16,main
+2005-01-01,law,loi-2004-439,code-civil,101,main
+2005-01-01,unexplained,,code-penal,1,main
+2005-01-19,law,loi-2005-32,code-civil,1,main
+2005-02-12,law,loi-2005-102,code-civil,1,main
+2005-02-18,law,ordonnance-2005-136,code-civil,1,main
+2005-03-02,law,loi-constitutionnelle-2005-204,constitution,3,main
+2005-03-02,law,loi-constitutionnelle-2005-205,constitution,2,main
+2005-03-27,law,loi-2005-270,code-penal,1,main
+2005-03-30,law,decret-2005-284,code-penal,3,main
+2005-04-01,law,loi-2005-47,code-penal,1,main
+2005-04-06,law,decret-2005-320,code-penal,1,main
+2005-04-24,law,loi-2005-380,code-penal,1,main
+2005-05-07,law,ordonnance-2005-428,code-civil,4,main
+2005-06-09,law,ordonnance-2005-658,code-civil,4,main
+2005-06-17,law,ordonnance-2005-674,code-civil,12,main
+2005-07-01,law,loi-2005-270,code-penal,1,main
+2005-07-01,unexplained,,code-civil,1,main
+2005-07-05,law,loi-2005-744,code-civil,1,main
+2005-07-06,law,loi-2005-750,code-penal,5,main
+2005-08-03,law,loi-2005-882,code-civil,1,main
+2005-10-01,law,loi-2004-204,code-penal,1,main
+2005-10-22,law,decret-2005-1309,code-penal,4,main
+2005-12-13,law,loi-2005-1549,code-penal,27,main
+2005-12-13,law,loi-2005-1550,code-penal,1,main
+2005-12-31,law,loi-2004-204,code-penal,1,main
+2006-01-01,law,loi-2005-845,code-civil,1,main
+2006-01-01,law,ordonnance-2005-856,code-civil,2,main
+2006-01-01,law,ordonnance-2005-1512,code-civil,2,main
+2006-01-06,law,loi-2006-11,code-penal,1,main
+2006-01-24,law,loi-2006-64,code-civil code-penal,10,main
+2006-03-14,unexplained,,code-civil,1,main
+2006-03-24,law,loi-2006-340,code-penal,1,main
+2006-03-24,law,ordonnance-2006-346,code-civil,427,main
+2006-04-02,law,loi-2006-396,code-penal,1,main
+2006-04-05,law,loi-2006-399,code-civil code-penal,29,main
+2006-04-06,law,loi-2006-406,code-civil,1,main
+2006-05-24,law,decret-2006-583,code-penal,1,main
+2006-07-01,law,ordonnance-2005-759,code-civil code-penal,114,main
+2006-07-01,law,ordonnance-2006-460,code-civil,9,main
+2006-07-25,law,loi-2006-911,code-civil code-penal,21,main
+2006-10-06,law,ordonnance-2006-1224,code-penal,1,main
+2006-11-15,law,loi-2006-1376,code-civil,1,main
+2006-12-27,law,loi-2006-1666,code-penal,1,main
+2007-01-01,law,ordonnance-2006-461,code-civil,38,main
+2007-01-01,law,loi-2006-728,code-civil,341,main
+2007-01-01,law,loi-2006-1666,code-civil,1,main
+2007-01-01,unexplained,,code-civil,1,main
+2007-01-12,unexplained,,code-civil,5,main
+2007-01-26,law,ordonnance-2007-98,code-civil,1,main
+2007-02-16,law,decret-2007-201,code-civil,1,main
+2007-02-21,law,loi-2007-211,code-civil,23,main
+2007-02-21,law,loi-2007-212,code-civil,2,main
+2007-02-22,law,loi-2007-224,code-civil,1,main
+2007-02-24,law,loi-constitutionnelle-2007-237,constitution,1,main
+2007-02-24,law,loi-constitutionnelle-2007-238,constitution,2,main
+2007-02-24,law,loi-constitutionnelle-2007-239,constitution,1,main
+2007-02-28,law,decret-2007-259,code-penal,1,main
+2007-03-01,law,loi-2006-1376,code-civil,16,main
+2007-03-06,law,loi-2007-288,code-penal,2,main
+2007-03-06,law,loi-2007-293,code-civil code-penal,15,main
+2007-03-07,law,loi-2007-297,code-civil code-penal,67,main
+2007-03-07,law,loi-2007-308,code-civil,2,main
+2007-03-30,law,ordonnance-2007-465,code-civil,5,main
+2007-04-27,law,loi-2007-148,code-penal,1,main
+2007-07-01,law,loi-2005-270,code-civil,1,main
+2007-08-11,law,loi-2007-1198,code-penal,4,main
+2007-09-28,law,decret-2007-1388,code-penal,15,main
+2007-10-30,law,loi-2007-1544,code-penal,8,main
+2007-11-14,law,loi-2007-1598,code-penal,26,main
+2007-11-21,law,loi-2007-1631,code-civil code-penal,7,main
+2007-12-22,law,loi-2007-1787,code-civil,7,main
+2008-01-01,law,ordonnance-2005-870,code-civil,4,main
+2008-02-06,law,loi-constitutionnelle-2008-103,constitution,1,main
+2008-03-01,law,loi-2007-1198,code-penal,2,main
+2008-03-07,law,loi-2007-297,code-penal,3,main
+2008-05-24,law,ordonnance-2008-480,code-penal,3,main
+2008-05-28,law,loi-2008-493,code-civil,1,main
+2008-05-29,law,loi-2008-496,code-penal,1,main
+2008-06-19,law,loi-2008-561,code-civil,76,main
+2008-06-19,unexplained,,code-civil,1,main
+2008-06-22,law,loi-2008-582,code-penal,4,main
+2008-07-01,law,ordonnance-2006-346,code-civil,3,main
+2008-07-17,law,loi-2008-696,code-penal,6,main
+2008-07-25,law,loi-constitutionnelle-2008-724,constitution,37,main
+2008-08-06,law,loi-2008-776,code-civil code-penal,35,main
+2008-12-20,law,ordonnance-2008-1339,code-penal,20,main
+2008-12-21,law,loi-2008-1350,code-civil code-penal,3,main
+2008-12-27,law,decret-2008-1412,code-penal,2,main
+2009-01-01,law,loi-2007-308,code-civil,183,main
+2009-01-10,law,decret-2009-16,code-penal,2,main
+2009-01-19,law,loi-2009-61,code-civil,15,main
+2009-02-01,law,loi-2008-776,code-civil,11,main
+2009-02-01,law,ordonnance-2009-112,code-civil,16,main
+2009-03-01,law,loi-constitutionnelle-2008-724,constitution,10,main
+2009-03-07,law,decret-2009-254,code-penal,1,main
+2009-03-28,law,loi-2009-323,code-civil,5,main
+2009-04-01,law,ordonnance-2009-80,code-civil code-penal,3,main
+2009-05-14,law,loi-2009-526,code-civil code-penal,122,main
+2009-05-29,law,loi-2009-594,code-civil,2,main
+2009-06-01,law,loi-2008-1249,code-civil,2,main
+2009-06-21,law,decret-2009-724,code-penal,1,main
+2009-08-01,law,loi-2009-928,code-penal,7,main
+2009-08-07,law,loi-2009-971,code-penal,1,main
+2009-10-30,law,loi-2009-1311,code-penal,1,main
+2009-11-26,law,loi-2009-1437,code-penal,9,main
+2009-11-26,law,loi-2009-1436,code-civil code-penal,13,main
+2009-12-01,law,loi-constitutionnelle-2008-103,constitution,4,main
+2009-12-01,law,loi-constitutionnelle-2008-724,constitution,2,main
+2009-12-10,law,loi-2009-1503,code-penal,1,main
+2010-01-01,law,loi-2009-526,code-civil,6,main
+2010-01-01,unexplained,,code-civil,1,main
+2010-01-13,unexplained,,code-penal,3,main
+2010-02-10,law,loi-2010-121,code-penal,12,main
+2010-02-26,law,ordonnance-2010-177,code-civil,1,main
+2010-03-04,law,loi-2010-201,code-penal,20,main
+2010-03-05,law,decret-2010-214,code-penal,2,main
+2010-03-12,law,loi-2010-242,code-penal,3,main
+2010-05-08,law,ordonnance-2010-462,code-civil code-penal,10,main
+2010-06-05,law,ordonnance-2010-590,code-civil code-penal,2,main
+2010-06-17,law,loi-2010-658,code-civil,4,main
+2010-06-21,law,decret-2010-671,code-penal,41,main
+2010-06-30,law,loi-organique-2010-704,code-penal,1,main
+2010-07-01,law,loi-2010-242,code-penal,3,main
+2010-07-11,law,loi-2010-768,code-penal,4,main
+2010-07-11,law,loi-2010-769,code-civil code-penal,26,main
+2010-07-24,law,decret-2010-835,code-penal,1,main
+2010-08-11,law,loi-2010-930,code-penal,53,main
+2010-10-01,law,loi-2010-769,code-civil code-penal,9,main
+2010-10-13,law,loi-2010-1192,code-penal,1,main
+2010-11-11,law,loi-2010-1330,code-civil,1,main
+2010-12-24,law,loi-2010-1609,code-civil,5,main
+2011-01-07,law,loi-2011-13,code-penal,1,main
+2011-03-16,law,loi-2011-266,code-penal,1,main
+2011-03-16,law,loi-2011-267,code-civil code-penal,37,main
+2011-03-30,law,loi-2011-331,code-civil,6,main
+2011-03-31,law,loi-2010-1487,code-civil,4,main
+2011-04-01,law,decret-2011-338,code-penal,5,main
+2011-04-01,law,ordonnance-2011-337,code-civil code-penal,6,main
+2011-05-01,law,loi-2010-737,code-civil,2,main
+2011-05-01,law,loi-2011-331,code-civil,3,main
+2011-05-19,law,loi-2011-525,code-civil code-penal,57,main
+2011-06-18,law,loi-2011-672,code-civil,7,main
+2011-07-02,law,decret-2011-794,code-penal,4,main
+2011-07-09,law,loi-2011-814,code-civil code-penal,6,main
+2011-08-12,law,loi-2011-939,code-penal,1,main
+2011-08-27,law,ordonnance-2011-1012,code-penal,2,main
+2011-09-01,law,loi-2010-1609,code-civil,8,main
+2011-09-01,law,loi-2011-850,code-penal,1,main
+2011-09-08,law,decret-2011-1048,code-penal,1,main
+2011-09-17,law,decision-2011-163-qpc,code-penal,1,main
+2011-10-20,law,decret-2011-1310,code-penal,1,main
+2011-11-05,law,decret-2011-1425,code-penal,1,main
+2011-12-01,law,decision-2011-192-qpc,code-penal,3,main
+2011-12-15,law,loi-2011-1862,code-civil,6,main
+2012-01-01,unexplained,,code-civil,1,main
+2012-01-29,law,decret-2012-99,code-penal,2,main
+2012-02-01,law,decret-2012-16,code-penal,2,main
+2012-02-03,law,loi-2012-158,code-penal,4,main
+2012-02-18,law,decision-2011-222-qpc,code-penal,1,main
+2012-03-07,law,loi-2012-300,code-penal,2,main
+2012-03-08,law,loi-2012-304,code-penal,14,main
+2012-03-14,law,loi-2012-348,code-penal,2,main
+2012-03-24,law,loi-2012-387,code-civil code-penal,3,main
+2012-03-29,law,loi-2012-409,code-penal,14,main
+2012-03-29,law,loi-2012-410,code-penal,3,main
+2012-04-27,law,loi-2012-409,code-penal,1,main
+2012-05-01,law,ordonnance-2012-351,code-penal,10,main
+2012-05-05,law,decision-2012-240-qpc,code-penal,1,main
+2012-06-01,law,ordonnance-2011-1895,code-civil,31,main
+2012-06-02,law,ordonnance-2012-789,code-civil,1,main
+2012-08-08,law,loi-2012-954,code-penal,19,main
+2012-10-01,law,ordonnance-2012-792,code-civil,1,main
+2012-11-04,law,ordonnance-2012-1218,code-penal,1,main
+2012-12-23,law,loi-2012-1432,code-penal,2,main
+2013-01-01,law,ordonnance-2010-638,code-civil,24,main
+2013-01-01,unexplained,,code-civil,1,main
+2013-04-07,law,decret-2013-287,code-penal,4,main
+2013-05-19,law,loi-2013-404,code-civil,26,main
+2013-08-07,law,loi-2013-711,code-penal,42,main
+2013-09-01,law,decret-2013-795,code-civil,1,main
+2013-09-06,law,loi-2012-304,code-penal,1,main
+2013-10-13,law,loi-2013-907,code-penal,4,main
+2013-12-08,law,loi-2013-1117,code-penal,35,main
+2013-12-20,law,loi-2013-1168,code-penal,4,main
+2013-12-25,law,loi-2013-1203,code-penal,2,main
+2014-01-01,law,ordonnance-2013-544,code-civil,2,main
+2014-01-01,law,decret-2013-1113,code-penal,5,main
+2014-02-23,law,loi-2014-173,code-penal,2,main
+2014-03-19,law,loi-2014-344,code-civil,2,main
+2014-03-27,law,loi-2014-366,code-civil code-penal,9,main
+2014-06-05,law,decision-2014-398-qpc,code-civil,1,main
+2014-07-01,law,ordonnance-2014-326,code-civil,1,main
+2014-07-01,law,loi-2014-344,code-civil,1,main
+2014-07-12,law,loi-2014-790,code-penal,1,main
+2014-07-12,law,ordonnance-2014-792,code-civil,2,main
+2014-08-03,law,ordonnance-2014-863,code-civil,1,main
+2014-08-06,law,loi-2014-873,code-civil code-penal,24,main
+2014-10-01,law,loi-2014-896,code-penal,26,main
+2014-11-02,law,decret-2014-1295,code-penal,1,main
+2014-11-15,law,loi-2014-1353,code-penal,7,main
+2014-12-22,law,loi-2014-1545,code-civil,1,main
+2015-01-01,law,loi-2012-409,code-penal,1,main
+2015-01-01,law,loi-2014-896,code-penal,7,main
+2015-02-14,law,decret-2015-159,code-penal,1,main
+2015-02-18,law,loi-2015-177,code-civil,23,main
+2015-03-22,law,loi-2013-403,code-civil,2,main
+2015-03-28,law,decret-2015-337,code-penal,3,main
+2015-06-26,law,loi-2015-714,code-penal,1,main
+2015-07-25,law,ordonnance-2015-904,code-civil,1,main
+2015-07-27,law,loi-2015-912,code-penal,5,main
+2015-08-07,law,loi-2015-990,code-civil,2,main
+2015-08-08,law,loi-2015-990,code-civil,2,main
+2015-08-19,law,loi-2015-992,code-civil,1,main
+2015-10-01,law,loi-2015-993,code-penal,1,main
+2015-10-03,law,loi-2015-912,code-penal,2,main
+2015-10-16,law,decret-2015-1272,code-penal,2,main
+2015-11-07,law,loi-2015-1402,code-penal,2,main
+2015-12-19,law,decret-2015-731,code-penal,1,main
+2015-12-30,law,loi-2015-1776,code-civil code-penal,8,main
+2016-01-01,law,ordonnance-2015-1288,code-civil,55,main
+2016-01-28,law,loi-2016-41,code-penal,5,main
+2016-02-01,law,decret-2016-67,code-penal,12,main
+2016-02-13,law,loi-2016-138,code-civil,1,main
+2016-03-09,law,loi-2016-274,code-penal,1,main
+2016-03-16,law,loi-2016-297,code-civil code-penal,23,main
+2016-04-15,law,loi-2016-444,code-penal,17,main
+2016-04-22,law,loi-2016-483,code-penal,2,main
+2016-06-05,law,loi-2016-731,code-civil code-penal,53,main
+2016-06-26,law,loi-2016-832,code-penal,1,main
+2016-07-01,law,loi-2016-274,code-civil,5,main
+2016-07-03,law,loi-2016-819,code-penal,1,main
+2016-07-09,law,loi-2016-925,code-penal,2,main
+2016-07-22,law,loi-2016-987,code-penal,4,main
+2016-08-10,law,loi-2016-1087,code-civil,10,main
+2016-10-01,law,ordonnance-2016-131,code-civil,467,main
+2016-10-01,law,loi-2016-1087,code-civil,14,main
+2016-10-01,unexplained,,code-civil,1,main
+2016-10-09,law,loi-2016-1321,code-civil code-penal,6,main
+2016-11-01,law,loi-2016-274,code-penal,1,main
+2016-11-16,law,loi-2016-1524,code-penal,1,main
+2016-11-20,law,loi-2016-1547,code-civil code-penal,66,main
+2016-12-11,law,decision-2016-741-dc,code-penal,1,main
+2016-12-11,law,loi-2016-1691,code-civil code-penal,17,main
+2016-12-15,law,decret-2016-1709,code-penal,9,main
+2016-12-20,law,loi-2016-816,code-civil,2,main
+2016-12-25,law,loi-2016-1827,code-civil,1,main
+2016-12-31,law,ordonnance-2016-800,code-penal,1,main
+2017-01-01,law,loi-2016-1547,code-civil code-penal,17,main
+2017-01-01,unexplained,,code-penal,1,main
+2017-01-22,law,loi-2017-55,code-penal,1,main
+2017-01-27,law,decision-2016-608-qpc,code-penal,1,main
+2017-01-29,law,loi-2017-86,code-penal,25,main
+2017-02-12,law,decision-2016-611-qpc,code-penal,1,main
+2017-02-19,law,decret-2017-198,code-penal,3,main
+2017-02-25,law,loi-2017-220,code-penal,1,main
+2017-03-01,law,loi-2017-242,code-penal,9,main
+2017-03-02,law,loi-2017-258,code-civil code-penal,10,main
+2017-03-03,law,loi-2017-261,code-penal,2,main
+2017-03-04,law,decret-2017-270,code-penal,1,main
+2017-04-09,law,decision-2017-625-qpc,code-penal,1,main
+2017-08-06,law,decret-2017-1230,code-penal,9,main
+2017-09-17,law,loi-2017-1339,code-penal,4,main
+2017-10-01,law,ordonnance-2017-748,code-civil,8,main
+2017-10-31,law,loi-2017-1510,code-penal,2,main
+2017-11-01,law,loi-2016-1547,code-civil,11,main
+2017-11-05,law,decret-2017-1522,code-penal,1,main
+2017-12-16,law,decision-2017-682-qpc,code-penal,1,main
+2018-01-01,law,ordonnance-2017-1491,code-civil,1,main
+2018-01-03,law,ordonnance-2017-1107,code-civil,1,main
+2018-03-28,law,loi-2018-202,code-penal,2,main
+2018-04-15,law,loi-2018-266,code-penal,1,main
+2018-05-06,law,decret-2018-329,code-penal,2,main
+2018-05-25,law,loi-2016-731,code-penal,1,main
+2018-05-25,unexplained,,code-penal,3,main
+2018-06-09,law,decision-2018-712-qpc,code-penal,1,main
+2018-08-04,law,decret-2018-687,code-penal,3,main
+2018-08-06,law,loi-2018-703,code-civil code-penal,25,main
+2018-09-12,law,loi-2018-778,code-penal,10,main
+2018-10-01,law,loi-2018-287,code-civil,21,main
+2018-10-25,law,loi-2018-898,code-penal,1,main
+2018-11-09,law,loi-2018-957,code-penal,2,main
+2018-11-25,law,loi-2018-1021,code-penal,3,main
+2019-03-01,law,loi-2018-778,code-civil,14,main
+2019-03-01,law,loi-2018-1021,code-civil,1,main
+2019-03-22,law,decret-2019-208,code-penal,2,main
+2019-03-25,law,loi-2019-222,code-civil code-penal,64,main
+2019-04-12,law,loi-2019-290,code-penal,8,main
+2019-05-24,law,loi-2019-486,code-civil,7,main
+2019-06-01,law,ordonnance-2018-1125,code-penal,8,main
+2019-06-01,law,loi-2019-222,code-penal,1,main
+2019-06-01,law,decret-2019-536,code-penal,4,main
+2019-07-12,law,loi-2019-721,code-civil,1,main
+2019-07-21,law,loi-2019-744,code-civil,6,main
+2019-07-29,law,loi-2019-791,code-penal,1,main
+2019-08-03,law,loi-2019-810,code-penal,1,main
+2019-09-20,law,ordonnance-2019-963,code-penal,9,main
+2019-10-04,law,ordonnance-2019-1015,code-penal,1,main
+2019-10-23,law,ordonnance-2019-1067,code-civil,2,main
+2019-11-09,law,decret-2019-1139,code-penal,3,main
+2019-11-24,law,decret-2019-1217,code-penal,1,main
+2019-12-08,law,decret-2019-1300,code-penal,2,main
+2019-12-15,law,ordonnance-2019-1169,code-civil,1,main
+2019-12-21,law,decret-2019-1396,code-penal,2,main
+2019-12-27,law,loi-2019-1428,code-penal,1,main
+2019-12-28,law,loi-2019-1446,code-civil code-penal,5,main
+2019-12-30,law,loi-2019-1479,code-civil,1,main
+2019-12-30,law,loi-2019-1480,code-civil code-penal,21,main
+2020-01-01,law,ordonnance-2019-738,code-civil,3,main
+2020-01-01,law,loi-2019-773,code-civil,1,main
+2020-01-01,law,decret-2019-913,code-penal,2,main
+2020-01-01,law,decret-2019-966,code-penal,5,main
+2020-01-01,law,ordonnance-2019-964,code-civil code-penal,61,main
+2020-01-01,law,ordonnance-2019-1015,code-penal,2,main
+2020-01-01,unexplained,,code-civil,2,main
+2020-02-14,law,ordonnance-2020-115,code-civil,2,main
+2020-02-20,law,decret-2020-128,code-penal,1,main
+2020-03-24,law,loi-2019-222,code-penal,48,main
+2020-03-24,law,loi-2019-1480,code-penal,2,main
+2020-03-24,law,decret-2020-128,code-penal,15,main
+2020-03-25,law,loi-2019-222,code-penal,3,main
+2020-05-12,law,loi-2020-546,code-penal,1,main
+2020-06-01,law,loi-2019-1446,code-penal,1,main
+2020-07-05,law,loi-2020-840,code-penal,2,main
+2020-08-01,law,loi-2020-936,code-civil code-penal,26,main
+2020-08-12,law,loi-2020-1023,code-penal,1,main
+2020-09-01,law,loi-2019-222,code-civil,4,main
+2020-12-09,law,loi-2020-1525,code-civil,1,main
+2020-12-14,law,decret-2020-1573,code-penal,4,main
+2020-12-16,law,loi-2020-1576,code-civil code-penal,3,main
+2020-12-27,law,loi-2020-1672,code-penal,14,main
+2021-01-01,law,loi-2019-222,code-civil,18,main
+2021-01-01,law,ordonnance-2020-1144,code-civil code-penal,4,main
+2021-04-10,law,loi-2021-401,code-penal,1,main
+2021-04-23,law,loi-2021-478,code-penal,32,main
+2021-05-01,law,ordonnance-2020-1733,code-penal,3,main
+2021-05-27,law,loi-2021-646,code-penal,9,main
+2021-07-01,law,ordonnance-2020-71,code-civil,1,main
+2021-08-04,law,loi-2021-1017,code-civil code-penal,32,main
+2021-08-07,law,loi-2021-1040,code-penal,2,main
+2021-08-26,law,loi-2021-1109,code-civil code-penal,21,main
+2021-09-17,law,ordonnance-2021-1192,code-civil,4,main
+2021-09-30,law,loi-2020-734,code-penal,1,main
+2021-09-30,law,decret-2021-682,code-penal,7,main
+2021-10-10,law,loi-2021-401,code-penal,3,main
+2021-11-01,law,decret-2021-631,code-penal,3,main
+2021-11-01,law,loi-2021-1109,code-civil,2,main
+2021-11-27,law,loi-2021-1520,code-penal,9,main
+2021-12-02,law,loi-2021-1539,code-penal,10,main
+2021-12-08,law,loi-2021-1576,code-civil,1,main
+2021-12-24,law,decret-2021-1743,code-penal,28,main
+2021-12-24,law,decret-2021-1744,code-penal,1,main
+2021-12-24,law,loi-2021-1729,code-civil code-penal,6,main
+2021-12-25,law,loi-2021-1754,code-civil code-penal,3,main
+2021-12-31,law,loi-2021-1729,code-penal,4,main
+2022-01-01,law,ordonnance-2021-1192,code-civil,214,main
+2022-01-01,law,loi-2021-1900,code-civil,1,main
+2022-01-26,law,loi-2022-52,code-civil code-penal,23,main
+2022-02-02,law,loi-2022-92,code-penal,3,main
+2022-02-09,law,loi-2022-140,code-civil,9,main
+2022-02-17,law,decret-2022-185,code-penal,6,main
+2022-02-23,law,loi-2022-217,code-civil,1,main
+2022-02-23,law,loi-2022-219,code-civil,29,main
+2022-03-01,law,loi-2021-1754,code-civil code-penal,3,main
+2022-03-02,law,loi-2022-267,code-civil,1,main
+2022-03-04,law,loi-2022-299,code-penal,3,main
+2022-05-01,law,decret-2022-479,code-penal,30,main
+2022-05-01,law,ordonnance-2022-478,code-penal,2,main
+2022-07-01,law,loi-2022-301,code-civil,5,main
+2022-09-01,law,loi-2022-401,code-penal,2,main
+2022-09-01,law,decret-2022-899,code-civil,1,main
+2022-10-07,law,ordonnance-2022-1292,code-civil,1,main
+2023-01-01,law,ordonnance-2021-1192,code-civil,4,main
+2023-01-01,law,ordonnance-2022-408,code-civil,1,main
+2023-01-01,law,ordonnance-2022-1292,code-civil,58,main
+2023-01-26,law,loi-2023-22,code-penal,13,main
+2023-02-04,law,loi-2023-54,code-penal,1,main
+2023-02-06,law,decret-2023-65,code-civil,1,main
+2023-04-01,law,loi-2023-22,code-penal,6,main
+2023-04-01,law,decret-2023-227,code-penal,2,main
+2023-05-21,law,loi-2023-380,code-civil code-penal,5,main
+2023-07-29,law,loi-2023-668,code-penal,5,main
+2023-11-22,law,loi-2023-1059,code-penal,3,main
+2023-11-28,law,loi-2023-140,code-penal,1,main
+2024-01-01,law,ordonnance-2023-1142,code-penal,1,main
+2024-01-28,law,loi-2024-42,code-penal,31,main
+2024-02-17,unexplained,,code-penal,2,main
+2024-02-21,law,loi-2024-120,code-civil code-penal,5,main
+2024-03-10,law,loi-constitutionnelle-2024-200,constitution,1,main
+2024-03-20,law,loi-2024-233,code-civil code-penal,13,main
+2024-03-23,law,loi-2024-247,code-penal,10,main
+2024-04-10,law,loi-2024-317,code-penal,1,main
+2024-04-11,law,loi-2024-322,code-penal,4,main
+2024-04-17,law,loi-2024-346,code-civil,1,main
+2024-05-12,law,loi-2024-420,code-penal,19,main
+2024-05-23,law,loi-2024-449,code-penal,8,main
+2024-06-02,law,loi-2024-494,code-civil,7,main
+2024-06-12,law,decret-2024-528,code-penal,2,main
+2024-06-15,law,loi-2024-536,code-civil code-penal,7,main
+2024-06-15,law,loi-2024-538,code-civil,1,main
+2024-06-26,law,loi-2024-582,code-penal,10,main
+2024-07-05,law,ordonnance-2024-662,code-civil,1,main
+2024-07-27,law,loi-2024-850,code-penal,1,main
+2024-09-14,law,loi-2024-537,code-civil,1,main
+2024-09-30,law,loi-2023-1059,code-penal,2,main
+2025-01-01,law,decret-2024-430,code-penal,3,main
+2025-01-01,law,decret-2024-1230,code-penal,1,main
+2025-03-26,law,loi-2025-268,code-penal,3,main
+2025-05-03,law,loi-2025-391,code-civil,1,main
+2025-05-14,law,loi-2025-412,code-civil,2,main
+2025-06-15,law,loi-2025-532,code-penal,42,main
+2025-06-25,law,loi-2025-568,code-civil code-penal,3,main
+2025-07-11,law,loi-2025-622,code-penal,12,main
+2025-07-11,law,loi-2025-623,code-penal,8,main
+2025-08-13,law,loi-2025-797,code-civil,2,main
+2025-10-01,law,ordonnance-2025-229,code-civil,10,main
+2025-10-24,law,decret-2025-987,code-penal,1,main
+2025-11-08,law,loi-2025-1057,code-penal,6,main
+2025-12-01,law,loi-2025-568,code-civil,1,main
+2025-12-24,law,loi-2025-1249,code-penal,3,main
+2026-01-01,law,loi-2024-42,code-civil,1,main
+2026-01-01,law,loi-2025-797,code-penal,2,main
+2026-03-13,law,decision-2025-1185-qpc,code-penal,1,main
+2026-04-09,law,loi-2026-248,code-civil,6,main
+2026-06-05,law,decret-2026-433,code-penal,2,main
+2026-06-12,law,ordonnance-2026-468,code-penal,1,main
+2026-06-27,law,loi-2026-534,code-civil code-penal,4,main
+2026-07-01,law,decret-2026-117,code-penal,1,main
+2026-07-25,law,loi-2026-651,code-penal,1,main
+2026-07-29,law,loi-2026-667,code-civil,5,main
+2026-08-03,law,decret-2026-723,code-penal,4,main
+2026-08-19,law,loi-2026-791,code-penal,2,main
+2026-08-20,law,loi-2026-796,code-penal,4,main
+2026-08-20,law,loi-2026-798,code-penal,11,main
+2026-08-26,law,loi-2026-813,code-penal,2,main
+2026-12-31,law,loi-2024-317,code-civil,1,futur
+2027-01-06,law,loi-2026-630,code-civil,1,futur
+2029-01-01,law,ordonnance-2025-1091,code-civil code-penal,91,futur

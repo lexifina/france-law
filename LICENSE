@@ -1,0 +1,18 @@
+The legal texts come from the LEGI database of the Direction de l'information légale et administrative (DILA),
+published on Légifrance and as open data:
+
+  Source : DILA, Légifrance, base LEGI (www.legifrance.gouv.fr),
+  https://echanges.dila.gouv.fr/OPENDATA/LEGI/, retrieved 28 October 2026
+  (full dump of 13 July 2025 and every daily update to LEGI_20261028-212713).
+
+They are reused under the Licence Ouverte / Open Licence version 2.0 (Etalab):
+https://www.etalab.gouv.fr/licence-ouverte-open-licence
+
+Changes made by Lexifina: each article version was converted to one Markdown file per article, one paragraph per
+line; spacing, quotes and dashes were normalised and markup removed; LEGI's editorial notes (NOTA) were left out;
+the article versions in force on each day were arranged as git commits, credited to the texts LEGI's own amendment
+links name. The wording of the law was not changed. DILA does not endorse this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
