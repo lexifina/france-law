@@ -1,0 +1,10 @@
+{
+  "path": "fr",
+  "code": "FR",
+  "name": "France",
+  "level": "country",
+  "repo": "https://github.com/lexifina/france-law",
+  "build": "ready",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28"
+}
