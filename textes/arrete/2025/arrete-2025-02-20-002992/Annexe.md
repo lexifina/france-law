@@ -4,27 +4,23 @@ LISTE DES GROUPES BIOLOGIQUES SIMILAIRES POUVANT DONNER LIEU À LA DÉLIVRANCE P
 
 |
 
-Dénomination commune
+Dénomination
 
-du groupe biologique
+commune du groupe
 
-similaire |
+biologique similaire |
 
-Médicament biologique
+Médicament
+
+biologique
 
 de référence |
 
 Médicament(s) biologique(s) similaire(s) |
 
-Condition(s) spécifiques
+Condition(s) spécifiques de substitution
 
-de substitution
-
-et d'information
-
-du prescripteur
-
-et du patient |
+et d'information du prescripteur et du patient |
 
 Groupe 1 |
 
@@ -32,17 +28,9 @@ Filgrastim |
 
 NEUPOGEN® |
 
-ACCOFIL®
+ACCOFIL® NIVESTIM®
 
-GRASTOFIL®
-
-NIVESTIM®
-
-RATIOGRASTIM®
-
-TEVAGRASTIM®
-
-ZARZIO®
+RATIOGRASTIM® TEVAGRASTIM® ZARZIO®
 
 ZEFYLTI® |
 
@@ -56,23 +44,13 @@ NEULASTA® |
 
 CEGFILA®
 
-DYRUPEG®
+DYRUPEG® FULPHILA®
 
-FULPHILA®
-
-GRASUSTEK®
-
-NYVEPRIA®
-
-PELGRAZ®
-
-PELMEG®
+GRASUSTEK® NYVEPRIA® PELGRAZ® PELMEG®
 
 STIMUFEND®
 
-VIVLIPEG®
-
-ZIEXTENZO® |
+VIVLIPEG® ZIEXTENZO® |
 
 |
 
@@ -89,6 +67,8 @@ BYOOVIZ®
 RIMMYRAH®
 
 XIMLUCI®
+
+RANLUSPEC®
 
 VISLYFA® |
 
@@ -198,7 +178,11 @@ ENOXAPARINE VENIPHARM®
 
 GHEMAXAN®
 
-INHIXA® |
+INHIXA®
+
+ENOXAPARINE EG®
+
+ENOXAPARINE ZENTIVA® |
 
 - Les laboratoires mettent à disposition des dispositifs d'administration factices auprès des professionnels de santé et des patients,
 
@@ -266,7 +250,15 @@ MYNZELPI®
 
 PAVBLU®
 
-YESAFILI® |
+YESAFILI®
+
+VGENFLI®
+
+OPUVIZ®
+
+EIYZEY®
+
+EYLUXVI® |
 
 |
 
@@ -290,7 +282,11 @@ UZPRUVO®
 
 WEZENLA®
 
-YESINTEK® |
+YESINTEK®
+
+USYMRO®
+
+USGENA® |
 
 - Le prescripteur peut indiquer sur la prescription le type de dispositif médical d'administration à privilégier pour un patient donné,
 
@@ -385,6 +381,22 @@ ZVOGRA® |
 - Le prescripteur peut indiquer sur la prescription le type de dispositif médical d'administration à privilégier pour un patient donné,
 
 - A l'officine, le pharmacien accompagne le patient à l'apprentissage du nouveau dispositif le cas échéant,
+
+- Le patient peut revenir à la spécialité initialement délivrée si nécessaire, en fonction de ses retours. |
+
+Groupe 14 |
+
+Omalizumab |
+
+XOLAIR® |
+
+OMLYCLO® |
+
+- Le prescripteur peut indiquer sur la prescription le type de dispositif médical d'administration à privilégier pour un patient donné,
+
+- A l'officine, le pharmacien accompagne le patient à l'apprentissage du nouveau dispositif le cas échéant,
+
+- Lors de la substitution, le pharmacien doit porter une attention particulière à l'information du patient en raison des différences de couleur des bouchons des dispositifs d'administration pouvant exister entre les spécialités concernées pour un même dosage en substance active,
 
 - Le patient peut revenir à la spécialité initialement délivrée si nécessaire, en fonction de ses retours. |
 
