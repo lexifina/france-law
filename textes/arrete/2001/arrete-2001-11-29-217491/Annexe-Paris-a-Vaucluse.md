@@ -888,6 +888,4 @@ NOTA :
 
 (8) Conformément à l'article 1 de l'arrêté du 18 juillet 2023 (NOR : TREK2320135A), la présente annexe est remplacée à effet du 1er février 2023, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de Seine-et-Marne.
 
-(9) Conformément à l'article 1 de l'arrêté du 18 juillet 2023 (NOR : TREK2320115A), la présente annexe est remplacée à effet du 1er janvier 2023 pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires des Yvelines.
-
 (10) Conformément à l'article 1 de l'arrêté du 16 avril 2025 (NOR : TECK2511881A), la présente annexe est remplacée pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires et de la mer et de la direction départementale de l'emploi, du travail et des solidarités du Var, par les dispositions de l'annexe à l'arrêté précité, prenant effet à la date de signature dudit acte.
