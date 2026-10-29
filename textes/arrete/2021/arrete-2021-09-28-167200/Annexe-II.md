@@ -1132,6 +1132,14 @@ Sur le lieu des opérations |
 
 A compter de 2026 |
 
+AGRI-TH-108 |
+
+100 % |
+
+Sur le lieu des opérations |
+
+A compter de 2026 |
+
 (*) Sont incluses les opérations bonifiées en application de l'article 4 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie.
 
 NOTA :

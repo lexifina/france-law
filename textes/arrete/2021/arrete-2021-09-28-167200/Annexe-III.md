@@ -2702,6 +2702,84 @@ Les critères suivants doivent conduire à un classement "non satisfaisant" de l
 
 L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : P, Puissance thermique nominale, ou somme des puissances thermiques nominales (en MW) pour la ou les chaudières installées au titre de la présente opération.
 
-NOTA :
+BK. Fiche d'opération standardisée AGRI-TH-108 "Pompe à chaleur de type air/eau pour serres maraîchères ou horticoles" :
 
-Conformément à la première phrase du premier alinéa de l'article 7 de l'arrêté du 18 septembre 2026 (NOR : ECOR2622881A), ces dispositions, dans leur rédaction résultant de l'article 2 de l'arrêté précité, entrent en vigueur à compter du 1er octobre 2026 et s'appliquent aux opérations engagées à compter de cette date.
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en "non satisfaisant".
+
+Les critères suivants doivent conduire à un classement "non satisfaisant" de l'opération pour les contrôles sur le lieu des opérations :
+
+1) Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération, l'étude préalable de dimensionnement ;
+
+2) La preuve de la réalisation de l'opération ne comporte pas les mentions prévues par la fiche d'opération standardisée ou, le cas échéant, n'est pas accompagnée du document issu du fabricant indiquant les caractéristiques de l'équipement demandées (le nombre, la technologie et la puissance nominale) ;
+
+3) L'adresse du chantier indiquée dans l'étude de dimensionnement ne correspond pas à celle indiquée pour le contrôle ;
+
+4) Le secteur d'application (maraichère ou horticole) ne correspond pas à celui indiqué pour le contrôle ;
+
+5) La surface totale chauffée de la serre par la pompe à chaleur mesurée ne correspond pas à celle déclarée pour le contrôle ;
+
+6) L'équipement installé n'est pas une pompe à chaleur de type air/eau neuve entraînée par un moteur électrique afin de couvrir un besoin de chaleur pour le chauffage d'un ou de plusieurs blocs de serres chauffées maraîchères et horticoles ;
+
+7) La puissance souscrite dans le cadre du contrat de fourniture d'électricité est inférieure ou égale à la somme des puissances thermiques nominales de la ou des PAC installées ;
+
+8) La serre n'est isolée pas, a minima au niveau de sa couverture, au moyen d'une double paroi gonflable, d'un double vitrage, d'une double paroi verre - éthylène tétrafluoroéthylène (ETFE), d'une double paroi ETFE, d'une paroi polycarbonate alvéolaire, d'une simple paroi verre à faible émissivité avec écran thermique, simple paroi verre avec écran thermique, multichapelle simple paroi avec écran thermique ;
+
+9) Le pompe à chaleur installé a une puissance thermique strictement inférieure à 300 kW ;
+
+10) En cas d'une installation en série, une ou des pompe(s) à chaleur ne couvrant pas directement les besoins de chauffage ont été valorisées de la présente fiche ;
+
+11) La pompe à chaleur installée est une pompe à chaleur hybrides (gaz et électricité) ;
+
+12) La pompe à chaleur installée résulte de l'ajout d'un équipement en hybridation du chauffage, résultant soit du remplacement partiel d'une ou plusieurs chaudières à combustible ou de cogénération par une ou pompe(s) à chaleur au sein du site existant ou de l'ajout d'une ou plusieurs pompe(s) à chaleur au sein du site existant ;
+
+13) Une chaudière à combustible, de cogénération et/ou biomasse est installée sur le site pour couvrir un besoin de chaleur pour le chauffage d'un ou de plusieurs blocs de serres chauffées maraîchères et horticoles, hormis à des fins de secours à compter de l'engagement de l'opération et pendant la durée de vie conventionnelle de la présente fiche comptabilisée à compter de l'achèvement de l'opération ;
+
+14) Le système de pompe à chaleur est installé au sein d'une serre non chauffée ;
+
+15) La pompe à chaleur a été installée par l'agriculteur ou son propre service technique ;
+
+16) Le système de pompe à chaleur n'a pas été installé, raccordé au réseau de chauffage et mise en service par le professionnel ;
+
+17) Le système de pompe à chaleur n'est pas exclusivement alimenté par le réseau public de distribution d'électricité ainsi que, le cas échéant, par une unité de production photovoltaïque ;
+
+18) Le système de pompe à chaleur ne sert pas uniquement à la production de chaleur et à sa valorisation pour le chauffage ;
+
+19) Le système de PAC n'est pas piloté par un système fixe de gestion climatique permettant notamment de réguler la température et l'humidité à l'intérieure de la serre selon au moins deux périodes de régulation (jour et nuit). Le système de gestion climatique n'agit pas également sur la température du réseau de chauffage et sur le pilotage du système de ventilation ainsi que sur la gestion du ballon de stockage et des ouvrants de la serre ;
+
+20) L'ordinateur climatique n'est pas équipé d'une station météorologique mesurant au minimum la température extérieure, le rayonnement solaire et la vitesse du vent, ainsi que d'un module d'intégration de température ;
+
+21) Pour les grandeurs mesurées par le système fixe de gestion climatique, une valeur par quotidienne, résultant de la moyenne des valeurs mesurées au cours de la journée, a minima la température intérieure, n'est pas calculée ;
+
+22) Les mesures ne sont pas enregistrées et conservées depuis la date d'achèvement de l'opération ;
+
+23) Le système de pompe à chaleur n'est pas relié hydrauliquement à un ballon de stockage classique ou de type open buffer ;
+
+24) Le ballon de stockage n'est pas isolé thermiquement de façon à permettre une durée de stockage supérieure ou égale à une heure et la capacité est inférieur ou égale à 150 m³ par hectare de surface de serre chauffée (Smin, dont la valeur est celle retenue au titre du calcul du forfait de la fiche), selon les conditions prévues dans l'étude préalable de dimensionnement définie au 4.3 ;
+
+25) Le ballon de stockage n'est pas piloté par l'ordinateur climatique et ne dispose pas de capteurs permettant de connaître son niveau de remplissage, exprimé en pourcentage ;
+
+26) La pompe à chaleur installée ne correspond pas aux mentions indiquées sur la preuve de la réalisation de l'opération (le type, puissance, marque, référence) ;
+
+27) Le professionnel ayant réalisé l'étude préalable de dimensionnement n'est pas indépendant de l'entreprise ayant été chargée de l'installation de la PAC ;
+
+28) L'étude de dimensionnement ne comporte pas les éléments décrits au point 4.3 de la fiche d'opération standardisée ;
+
+29) Le besoin de chaleur du site devant être couvert la pompe à chaleur installé, par blocs de serres à chauffer (surface chauffée, types d'émetteurs de chaleur), la puissance thermique nécessaire et le niveau de température de base de chaque besoin associé à un usage n'est pas précisé dans l'étude de dimensionnent ;
+
+30) La pompe à chaleur installée n'est pas conforme à la description décrite au point 4.3 de l'étude de dimensionnement ;
+
+31) La dépose de l'équipement existant n'est pas mentionnée sur la preuve de réalisation de l'opération ou dans un document dédié ;
+
+32) L'équipement de secours n'est pas consigné au moyen d'une fermeture et d'une condamnation des vannes hydrauliques, d'alimentation en combustible et d'une condamnation électrique ;
+
+33) Une intervention manuelle de l'équipement de secours n'est pas nécessaire pour le déconsigner et permettre son fonctionnement ;
+
+34) La procédure de consignation n'est pas rédigée ;
+
+35) L'équipement de secours fonctionne plus de 500 heures par an et 12 % de la consommation annuelle totale d'énergie finale du système de pompe à chaleur alimentant le réseau concerné ;
+
+36) La consommation d'énergie et les heures de fonctionnement, de l'équipement de secours, ne sont pas relevées au moyen d'un dispositif de mesure dédié ;
+
+37) Les consommations d'énergie et les heures de fonctionnement de l'équipement de secours n'ont pas été conservées depuis la date d'achèvement ou au moins 6 ans.
+
+L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : P, puissance thermique nominale de ou des équipements installés.

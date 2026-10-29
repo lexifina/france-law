@@ -22,6 +22,390 @@ Conformément à l'article 2 de l'arrêté du 24 juillet 2020 (NOR : TRER2020386
 
 Conformément à l'article 2 de l'arrêté du 24 juillet 2020 (NOR : TRER2020386A), les fiches d'opération n° AGRI-TH-104, AGRI-TH-108, AGRI-TH-110, figurant en annexe 1 du présent arrêté remplacent les fiches d'opérations standardisées portant les mêmes références figurant à l'annexe 1 de l'arrêté du 22 décembre 2014 susvisé.
 
+Opération n° AGRI-TH-108
+
+Pompe à chaleur de type air/eau pour serres maraîchères ou horticoles |
+
+1. Secteur d'application
+
+Agriculture : serres maraîchères ou horticoles, neuves ou existantes.
+
+2. Définitions
+
+Pour les besoins de la présente fiche, les notions suivantes sont définies comme suit :
+
+Bloc de serre |
+
+Volume délimité par des parois de serre. |
+
+Chaudière à combustible |
+
+Chaudière produisant de la chaleur par combustion des combustibles suivants : biomasse, gaz (naturel, propane, biogaz), fioul, charbon et coke(s). |
+
+Efficacité énergétique saisonnière (Etas) |
+
+Efficacité énergétique saisonnière pour le chauffage des locaux (noté ηs) déterminée conformément au règlement (UE) n° 813/2013 de la Commission du 2 août 2013, pour les conditions climatiques moyennes et selon l'application de la pompe à chaleur installée. |
+
+Équipement de secours |
+
+Équipement de production de chaleur destinée à assurer la continuité du chauffage uniquement en cas d'indisponibilité du système de pompe à chaleur du site. |
+
+Montage en parallèle |
+
+Montage de plusieurs pompes à chaleur alimentant directement le circuit de distribution de chaleur. |
+
+Montage en série |
+
+Montage de plusieurs pompes à chaleur installées successivement sur un même circuit thermique, la sortie d'une pompe à chaleur étant reliée à l'entrée de la pompe à chaleur suivante. |
+
+Périmètre du site |
+
+Ensemble de serres exploitées par un même professionnel et constituant une même unité de production agricole. Le périmètre du site est défini par les limites cadastrales des parcelles sur lesquelles sont implantées les serres et les installations associées. |
+
+Puissance thermique nominale de la pompe à chaleur |
+
+Pour les pompes à chaleur de puissance thermique nominale ≤ 400 kW, puissance thermique nominale Prated déterminée conformément au règlement (UE) n° 813/2013 de la Commission du 2 août 2013, pour les conditions climatiques moyennes et selon l'application de la pompe à chaleur installée.
+
+Pour les pompes à chaleur de puissance thermique nominale > 400 kW, puissance thermique fournie par chaque pompe à chaleur dans les conditions de performance nominales définies par la norme EN 14511-2, au régime de température d'air de + 7 °C et pour une température à la sortie de l'échangeur thermique intérieur déterminée selon l'application de la pompe à chaleur installée. |
+
+Serre chauffée |
+
+Serre équipée d'un réseau hydraulique de chauffage dont la température de consigne de chauffage est supérieure ou égale à 12 °C pour les cultures de tomates et de concombres, et supérieure ou égale à 8 °C pour les autres cultures, pendant la période de culture comprise entre novembre et avril. |
+
+Système de pompes à chaleur |
+
+Système comprenant une ou plusieurs pompe(s) à chaleur fixes de type air/eau installées au titre de la présente fiche, en parallèle ou en série. |
+
+3. Dénomination
+
+Mise en place d'une ou de plusieurs pompes à chaleur (PAC) fixe(s) de type air/eau neuves entraînée(s) par un moteur électrique afin de couvrir un besoin de chaleur pour le chauffage d'un ou de plusieurs blocs de serres chauffées maraîchères ou horticoles, sans mise en place d'une nouvelle chaudière à combustible. La serre est isolée, a minima au niveau de sa couverture, au moyen de l'un ou plusieurs des équipements d'isolation suivants : double paroi gonflable, double vitrage, double paroi verre - éthylène tétrafluoroéthylène (ETFE), double paroi ETFE, paroi polycarbonate alvéolaire, simple paroi verre à faible émissivité avec écran thermique, simple paroi verre avec écran thermique ou multichapelle simple paroi avec écran thermique.
+
+L'opération consiste en une électrification totale de la production de chaleur destinée au chauffage des serres, à l'exception des éventuels équipements de secours. Elle consiste :
+
+a. Soit en l'installation d'une ou plusieurs PAC dans le cadre du remplacement total des chaudières à combustible destinées au chauffage des serres ;
+
+b. Soit en l'installation d'une ou plusieurs PAC dans le cadre de la création d'un site chauffé ou de l'extension d'un site existant conduisant à un besoin supplémentaire de chauffage des serres.
+
+Aucune chaudière à combustible destinée à assurer la production de chaleur pour le chauffage des serres ne peut être conservée ou installée, hors équipement de secours.
+
+La puissance souscrite dans le cadre du contrat de fourniture d'électricité doit être strictement supérieure à la somme des puissances thermiques nominales de la ou des PAC installées.
+
+Lorsque plusieurs pompes à chaleur sont installées en parallèle, la puissance thermique nominale du système est égale à la somme des puissances thermiques nominales fournies par chaque pompe à chaleur.
+
+Lorsque plusieurs pompes à chaleur sont installées en série, seule la pompe à chaleur située en dernière étape et fournissant directement la chaleur au circuit de distribution de la chaleur est prise en compte pour la valorisation de l'opération.
+
+Chaque PAC du système a une puissance thermique nominale supérieure ou égale à 300 kW.
+
+Les pompes à chaleur hybrides (gaz et électricité) ne sont pas éligibles à la présente fiche.
+
+La présente fiche s'applique aux opérations engagées avant le 1er octobre 2031.
+
+4. Conditions pour la délivrance de certificats
+
+La mise en place est réalisée par un professionnel indépendant de l'exploitant ou du propriétaire du site. Les travaux réalisés par l'exploitant agricole lui-même ou par son propre service technique interne ne sont pas éligibles à la présente opération.
+
+Le système de PAC :
+
+- est installé, raccordé au réseau de chauffage et mis en service par le professionnel ;
+
+- est exclusivement alimenté par le réseau public de distribution d'électricité ainsi que, le cas échéant, par une unité de production photovoltaïque.
+
+Le système de PAC est piloté par un système fixe de gestion climatique permettant notamment de réguler la température et l'humidité à l'intérieure de la serre selon au moins deux périodes de régulation (jour et nuit). Le système de gestion climatique agit également sur la température du réseau de chauffage et sur le pilotage du système de ventilation ainsi que sur la gestion du ballon de stockage et des ouvrants de la serre. L'ordinateur climatique est équipé d'une station météorologique mesurant au minimum la température extérieure, le rayonnement solaire et la vitesse du vent, ainsi que d'un module d'intégration de température. Pour les grandeurs mesurées (a minima la température intérieure), une valeur quotidienne, résultant de la moyenne des valeurs mesurées au cours de la journée, est calculée.
+
+Les mesures sont enregistrées et conservées par le bénéficiaire pendant six ans à compter de la date d'achèvement de l'opération. Le bénéficiaire s'engage à transmettre sur demande ses mesures à des fins de traitements statistiques et de contrôle.
+
+Le système de PAC est relié hydrauliquement à un ballon de stockage classique ou de type open buffer par un circuit permettant la circulation du fluide caloporteur entre la PAC et le ballon.
+
+Le ballon de stockage est isolé thermiquement de façon à permettre une durée de stockage supérieure ou égale à une heure et dont la capacité ne peut être inférieure à 150 m³ par hectare de surface de serre chauffée (Smin, dont la valeur est celle retenue au titre du calcul prévu à la section 6 ci-après), selon les conditions prévues dans l'étude préalable de dimensionnement définie au 4.3.
+
+Le ballon de stockage est piloté par l'ordinateur climatique et dispose de capteurs permettant de connaître son niveau de remplissage, exprimé en pourcentage.
+
+4.1. Cas d'une PAC de puissance thermique nominale ≤ 400 kW
+
+L'efficacité énergétique saisonnière (Etas) de la PAC est supérieure ou égale à :
+
+- 111 % pour une application moyenne et haute température ;
+
+- 126 % pour une application basse température au sens du règlement susmentionné.
+
+L'efficacité énergétique saisonnière prise en compte est celle de la pompe à chaleur seule pour les besoins de chauffage des blocs de serres (hors dispositif de régulation).
+
+La température de départ du réseau de chauffage retenue dans l'étude préalable de dimensionnement est utilisée pour déterminer l'application de la pompe à chaleur selon les conditions suivantes :
+
+- lorsque les émetteurs de chaleur pour le chauffage de la serre fonctionnent à une température de départ du réseau de chauffage inférieure ou égale à 35 °C dans les conditions de dimensionnement, la PAC est réputée d'application basse température et l'Etas à 35 °C (pour les conditions climatiques moyennes définies par le règlement susmentionné) est considéré ;
+
+- lorsque les émetteurs de chaleur pour le chauffage de la serre fonctionnent à une température de départ du réseau de chauffage supérieure à 35 °C dans les conditions de dimensionnement, la PAC est réputée d'application moyenne ou haute température et l'Etas à 55 °C (pour les conditions climatiques moyennes définies par le règlement susmentionné) est considéré.
+
+Le régime de température retenu pour déterminer l'application de la PAC est précisé dans l'étude préalable de dimensionnement.
+
+4.2. Cas d'une PAC de puissance thermique nominale > 400 kW
+
+Le coefficient de performance (COP) de la pompe à chaleur en mode chauffage seul, mesuré conformément aux conditions de performance nominales de la norme EN 14511-2 pour une température à la sortie de l'échangeur thermique intérieur de 35 °C, est égal ou supérieur à 3,4.
+
+4.3. Quelle que soit la puissance thermique nominale de la PAC
+
+L'installation fait l'objet d'une étude préalable de dimensionnement, datée et signée par le professionnel. Cette étude est remise au bénéficiaire à l'engagement de l'opération. Le cas échéant elle est actualisée et remise au bénéficiaire à l'achèvement des travaux. Le système de PAC installé au titre de la présente fiche est conforme aux préconisations de l'étude préalable de dimensionnement.
+
+L'installation fait l'objet d'une étude préalable de dimensionnement, datée et signée par un professionnel. Le professionnel réalisant l'étude préalable de dimensionnement est indépendant de l'entreprise chargée de l'installation de la PAC.
+
+Cette étude est remise au bénéficiaire à l'engagement de l'opération. Le cas échéant, elle est actualisée et remise au bénéficiaire à l'achèvement des travaux. Le système de PAC installé au titre de la présente fiche est conforme aux préconisations de l'étude préalable de dimensionnement.
+
+L'étude préalable de dimensionnement comporte les éléments suivants :
+
+I. - Identification de l'opération :
+
+- la raison sociale et l'adresse du bénéficiaire, complétée par l'adresse du lieu de l'opération si différente de l'adresse du bénéficiaire ;
+
+- la raison sociale et l'adresse du professionnel ou du bureau d'étude ayant réalisé le dimensionnement.
+
+II. - Besoin de chaleur :
+
+- les caractéristiques techniques des blocs de serres à chauffer (surface chauffée, types d'émetteurs de chaleur) ;
+
+- la température de base (Tbase) ;
+
+- les déperditions thermiques (jour et nuit) du ou des blocs de serre, calculées pour les températures intérieures de consigne retenues, correspondant au minimum aux températures définies pour une serre chauffée, et pour la température de base (Tbase) ;
+
+- la température de départ au réseau d'émetteurs et la température intérieure de consigne du bloc de serre dans les conditions extérieures les plus froides ;
+
+- la puissance thermique nécessaire au chauffage du ou des blocs de serre dans les conditions de dimensionnement (température de base, températures intérieures de consigne et température de départ du réseau de chauffage).
+
+III. - Dimensionnement de la ou des PAC installée(s) :
+
+- la puissance thermique fournie par le système de PAC dans les conditions de dimensionnement (température de base, températures intérieures de consigne et température de départ du réseau de chauffage) ;
+
+- le taux de couverture annuel du chauffage par le système de PAC installé au titre de la présente fiche, défini comme le rapport de l'énergie fournie par la (ou les) PAC installée(s) au titre de la présente fiche sur les besoins de chauffage des blocs de serres concernés ;
+
+- la description des équipements installés au titre de la présente fiche : nombre, type, marque, référence, type d'application retenu (basse, moyenne ou haute température), puissance thermique nominale et performance énergétique (Etas ou COP selon le cas) ;
+
+- les caractéristiques des autres systèmes de chauffage éventuels conservés après travaux exclusivement en tant qu'équipements de secours, ainsi que les raisons justifiant leur conservation ;
+
+- le dimensionnement du ballon de stockage (classique/open buffer) relié hydrauliquement au système de PAC, notamment son volume minimal ;
+
+- un état des puissances électriques installées avant et après travaux, lorsque l'installation du système de pompe à chaleur nécessite une augmentation de la puissance électrique disponible.
+
+Les équipements de secours du site fonctionnant avec une chaudière à combustible respectent les conditions cumulatives suivantes :
+
+a) Ils sont consignés au moyen d'une fermeture et condamnation des vannes hydrauliques, d'alimentation en combustible et d'une condamnation électrique. Une intervention manuelle est nécessaire pour les déconsigner et permettre leur fonctionnement. Une procédure de consignation est rédigée afin de définir les étapes de mise en sécurité, les points de consignation, les modalités de condamnation et de déconsignation, ainsi que les contrôles à effectuer avant toute remise en service ;
+
+b) Ils ne peuvent fonctionner qu'en cas d'indisponibilité du système de PAC, dans la limite de 500 heures par an. La consommation d'énergie et les heures de fonctionnement sont relevées au moyen d'un compteur dédié.
+
+La consommation annuelle d'énergie finale des équipements de secours à combustible ne peut excéder 12 % de la consommation annuelle totale d'énergie finale du système de PAC alimentant le réseau concerné.
+
+Les mesures sont enregistrées et conservées par le bénéficiaire pendant six ans à compter de la date d'achèvement de l'opération. Le bénéficiaire s'engage à transmettre ses mesures à des fins de traitements statistiques et de contrôle.
+
+La preuve de la réalisation de l'opération mentionne :
+
+- la mise en place d'un système de PAC composé d'une ou plusieurs pompe(s) à chaleur de type air/eau avec leurs marque(s) et référence(s) ;
+
+- pour chaque pompe à chaleur installée au titre de la présente opération : le type d'application de la PAC (basse, moyenne ou haute température), la puissance thermique nominale, la performance énergétique : selon la puissance thermique nominale de la pompe à chaleur (efficacité énergétique saisonnière (Etas) ou le COP explicitement mesuré selon la norme EN 14511-2 pour une température à la sortie de l'échangeur thermique intérieur de 35 °C) ;
+
+- dans le cas de l'installation de plusieurs PAC en parallèle, la puissance thermique nominale totale du système de PAC ;
+
+- la désignation et la surface du ou des blocs de serre chauffés par le système de PAC installé au titre de la présente fiche ;
+
+- la mise en place d'un système fixe de gestion climatique du système de PAC ;
+
+- le type de ballon de stockage installé (classique ou de type open buffer), son volume nominal et son raccordement hydraulique au système de PAC.
+
+A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'un équipement avec ses marque et référence et elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de la coordination européenne des organismes d'accréditation.
+
+Ce document indique que :
+
+- l'équipement de marque et référence mis en place est une pompe à chaleur air/eau ;
+
+- la puissance thermique nominale de la pompe à chaleur du système de PAC installé ; et
+
+- la performance énergétique de l'équipement installé selon la puissance thermique nominale de la pompe à chaleur (l'efficacité énergétique saisonnière (Etas) pour une application basse température et pour une application moyenne/haute température ou le COP explicitement mesuré selon la norme EN 14511-2 pour une température à la sortie de l'échangeur thermique intérieur de 35 °C).
+
+Le document justificatif spécifique à l'opération est l'étude préalable de dimensionnement susmentionnée.
+
+5. Durée de vie conventionnelle
+
+17 ans.
+
+6. Montant de certificats en kWh cumac
+
+Pour une PAC de puissance thermique nominale ≤ 400 kW :
+
+Efficacité énergétique saisonnière (ηs) |
+
+Type de serre |
+
+Montant en kWh cumac par m2 de serre chauffée |
+
+|
+
+Surface de serre chauffée (m2) |
+
+111 % ≤ ηs < 140 % |
+
+Maraîchère |
+
+2 600 |
+
+X |
+
+Smin
+
+|
+
+Horticole |
+
+1 200 |
+
+140 % ≤ ηs |
+
+Maraîchère |
+
+2 900 |
+
+Horticole |
+
+1 400 |
+
+Pour une PAC de puissance thermique nominale > 400 kW :
+
+COP |
+
+Type de serre |
+
+Montant en kWh cumac par m2 de serre chauffée |
+
+|
+
+Surface de serre chauffée (m2) |
+
+3,4 ≤ COP < 4 |
+
+Maraîchère |
+
+2 700 |
+
+X |
+
+Smin
+
+|
+
+Horticole |
+
+1 300 |
+
+4 ≤ COP |
+
+Maraîchère |
+
+2 800 |
+
+Horticole |
+
+1 300 |
+
+La surface chauffée Smin prise en compte dans le calcul du montant des certificats d'économies d'énergie est la plus petite des valeurs suivantes (entre crochets), où S est la surface de la serre chauffée par le système de PAC installé (en m2) et P est la somme des puissances thermiques nominales des PAC installées en parallèle, et, pour un montage en série, la puissance de la PAC retenue pour la valorisation (en kW) :
+
+- pour une serre maraichère : [S] ou [20 m2/kW x P] ;
+
+- pour une serre horticole : [S] ou [18 m2/kW x P].
+
+Dans le cas d'un système de pompes à chaleur différentes installées en parallèle (relevant de régimes de puissances différents (puissance thermique nominale ≤ 400 kW et > 400 kW), de classes d'efficacité énergétiques saisonnières (Etas) ou de classes de coefficient de performance (COP) différentes), le calcul du montant de kWh cumac de l'opération se fait sur la base du montant de kWh cumac par m2 de la PAC le plus faible.
+
+Annexe 1 à la fiche d'opération standardisée AGRI-TH-108, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ AGRI-TH-108 (v. 90.4) : Mise en place d'une ou de plusieurs pompes à chaleur (PAC) fixe(s) de type air/eau pour le chauffage de serres maraîchères ou horticoles.
+
+* Date d'engagement de l'opération (ex : date d'acceptation du devis) : //
+
+Date de preuve de réalisation de l'opération (ex : date de la facture) : //
+
+Référence de la facture :
+
+* Nom du site des travaux :
+
+* Adresse des travaux :
+
+Complément d'adresse :
+
+* Code postal :
+
+* Ville :
+
+* Secteur d'application (une seule case à cocher) :
+
+□ Serre maraîchère
+
+□ Serre horticole
+
+* L'équipement installé est composé d'une ou plusieurs PAC fixe(s) de type air/eau pour le chauffage de serres maraîchères ou horticoles : □ OUI □ NON
+
+* La puissance souscrite dans le cadre du contrat de fourniture d'électricité est strictement supérieure à la somme des puissances thermiques nominales de la ou des PAC installées : □ OUI □ NON
+
+* Le système de pompe à chaleur est exclusivement alimenté par le réseau public de distribution d'électricité ainsi que, le cas échéant, par une unité de production photovoltaïque : □ OUI □ NON
+
+* La serre est isolée, a minima au niveau de sa couverture, au moyen de l'un ou plusieurs des équipements d'isolation suivants : d'une double paroi gonflable, d'un double vitrage, d'une double paroi verre - éthylène tétrafluoroéthylène (ETFE), d'une double paroi ETFE, d'une paroi polycarbonate alvéolaire, d'une simple paroi verre à faible émissivité avec écran thermique, simple paroi verre avec écran thermique, multichapelle simple paroi avec écran thermique : □ OUI □ NON
+
+* Surface totale chauffée de la serre par la pompe à chaleur [S] (en m2) :
+
+* L'opération consiste en une électrification totale de la production de chaleur destinée au chauffage des serres, à l'exception des éventuels équipements de secours : □ OUI □ NON
+
+* Aucune chaudière à combustible destinée à assurer la production de chaleur pour le chauffage des serres n'est conservée (hors équipement de secours) : □ OUI □ NON
+
+* Aucune PAC hybride combinant une production de chaleur au gaz et une production de chaleur électrique n'est installée dans le cadre de l'opération : □ OUI □ NON
+
+* Le système de PAC est piloté par un système fixe de gestion climatique : □ OUI □ NON
+
+* Une étude préalable de dimensionnement a été remise au bénéficiaire : □ OUI □ NON
+
+* Puissance thermique nominale de la pompe à chaleur installée P (en kW) :
+
+La surface chauffée Smin prise en compte dans le calcul du montant des certificats d'économies d'énergie est la plus petite des valeurs suivantes (entre crochets), où S est la surface totale de la serre chauffée par la pompe à chaleur (en m2) et P est la puissance thermique nominale de cet équipement (en kW) :
+
+- pour une serre maraichère : [S] ou [20 x P] ;
+
+- pour une serre horticole : [S] ou [18 x P].
+
+* Smin = (en m2).
+
+Il convient de dupliquer, pour chaque pompe à chaleur installée au titre de la présente fiche, les informations du cartouche ci-dessous :
+
+A ne remplir que si la PAC est de puissance ≤ 400 kW :
+
+* Application de la pompe à chaleur (une seule case à cocher) :
+
+□ basse température
+
+□ moyenne ou haute température
+
+* Efficacité énergétique saisonnière (ηs) :
+
+L'efficacité énergétique saisonnière (ηs) est calculée selon le règlement (EU) n° 813/2013 de la commission du 2 août 2013
+
+(hors dispositif de régulation) pour les conditions climatiques moyennes et selon l'application de la pompe à chaleur installée.
+
+A ne remplir que si la PAC est de puissance > 400 kW :
+
+* Coefficient de performance (COP) :
+
+Le coefficient de performance (COP) est mesuré conformément aux conditions de performances nominales de la norme EN 14511-2 pour une température à la sortie de l'échangeur thermique intérieur de 35 °C.
+
+A ne remplir que si les marque et référence de la pompe à chaleur ne sont pas mentionnées sur la preuve de réalisation de l'opération :
+
+* Marque :
+
+* Référence : |
+
+* Caractéristiques du ou des équipements de secours : (A ne remplir que si ces caractéristiques ne sont pas mentionnées sur la preuve de réalisation de l'opération)
+
+* Marque(s) :
+
+* Référence(s) :
+
+* Le coût de l'opération lié à la présente partie A s'élève à : € HT et € TTC.
+
+Nota. - Le coût de l'opération s'entend, selon la nature de l'opération, comme le coût de l'investissement ou du service lié à la mise en oeuvre de l'opération, incluant, le cas échéant, les coûts d'installation. Lorsqu'il s'agit d'un service, il est indiqué, selon le cas, le coût annuel du service ou le coût ponctuel du service. Toutefois, lorsque l'opération consiste en la location d'un équipement ou d'un véhicule, il convient d'indiquer le coût mensuel de la location. Seuls les coûts éligibles au dispositif des certificats d'économies d'énergie sont comptabilisés quand ils sont disponibles ou, à défaut, le coût total facturé.
+
+* L'ensemble des aides financières, hors incitation financière du dispositif des certificats d'économies d'énergie, octroyées par des organismes publics au titre de l'opération liée à la présente partie A, est, à la date de la présente attestation sur l'honneur, d'un montant prévisionnel total de : €.
+
 - Récupération de chaleur à condensation pour serres horticoles / Fiche d’opération n° AGRI-TH-109
 
 Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° AGRI-TH-109, figurant en annexe A dudit arrêté remplace, à compter du 1er janvier 2024, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 1 du présent arrêté.
@@ -51,12 +435,6 @@ Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : ECOR24353
 - Ecrans thermiques latéraux / Fiche d’opération n° AGRI-EQ-104
 
 Conformément à l’article 2 de l’arrêté du 22 août 2024 (NOR : ECOR2422700A), la fiche d’opération n° AGRI-EQ-104 remplace, à compter du 1er janvier 2025, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=ZbBEIZBpGcGHOKQbKS9utmtc_Fh71x9KoG_z3damffY=.
-
-- Stop & Start pour véhicules agricoles à moteur / Fiche d'opération n° AGRI-EQ-105
-
-Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° AGRI-EQ-105 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
-
-- Régulation de la ventilation des silos et des installations de stockage en vrac de céréales / Fiche d'opération standardisée n° AGRI-EQ-106
 
 - Isolation des parois de serre / Fiche d'opération n° AGRI-EQ-107
 
