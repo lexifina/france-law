@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241000358
+
+- Question : [SEQ241000358](seq241000358.md) — Conventions régionales des parties et développement de la filière des matériaux bio et géosourcés
+
+## Réponse
+
+*Transition écologique, JO du 2026-10-29, page 5221*
+
+Les émissions de gaz à effet de serre du secteur du bâtiment se composent des émissions directes liées à l'exploitation des bâtiments (15% des émissions) auxquelles s'ajoutent les émissions indirectes des réseaux d'énergie qui les desservent (3% à 4%), celles des produits de construction et équipements (3% à 4%) et celles liées à l'artificialisation des sols (de l'ordre de 1% à 2%), soit environ un quart des émissions nationales. Parmi les leviers pour atteindre les objectifs de décarbonation fixés, la stratégie nationale bas carbone 3 (SNBC) fixe des cibles ambitieuses pour les matériaux bio et géo-sourcés : à horizon 2030 : 27% des maisons individuelles et 17% des logements collectifs et du tertiaire, à horizon 2040 : 38% des maisons individuelles, 32% des logements collectifs et 25% des bâtiments tertiaires, à horizon 2050 : 47% des maisons individuelles, 45% des logements collectifs et 32% des bâtiments tertiaires. La réglementation environnementale RE2020 favorise l'utilisation de ces matériaux vertueux en fixant des plafonds d'émissions en phase construction. En complément de ces réglementations nationales, les ressources disponibles, les pratiques constructives et les capacités industrielles sont fortement différenciées d'une région à l'autre. Les Pactes Bois-Biosourcés régionaux portés par la fédération Fibois ont constitué un vecteur d'action très prometteur. Des référents biosourcés présents en DREAL peuvent constituer des relais territoriaux sur lesquels les collectivités peuvent s'appuyer afin de décliner les objectifs des feuilles de route des COP régionales.
