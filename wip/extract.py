@@ -7,6 +7,7 @@ TEXTS are kept; the path is cut to start at that directory, so a text that moves
 "non vigueur" trees keeps one place.
 
     python -X utf8 extract.py            # all texts in TEXTS
+    python -X utf8 extract.py --titles   # then: the title records of every text their amendment links name
 """
 from __future__ import annotations
 
@@ -74,7 +75,51 @@ def apply(archive: Path, first: bool, stats: dict) -> None:
             stats['written'] += 1
 
 
+TITLES = CACHE / 'legi-texts'
+LINK_TYPES = ('CREATION', 'CREE', 'MODIFICATION', 'MODIFIE', 'ABROGATION', 'ABROGE', 'TRANSFERT', 'TRANSFERE',
+              'DEPLACEMENT', 'DEPLACE')
+
+
+def linked_cids() -> set[str]:
+    """Every text the extracted articles name in an amendment link (creation, modification, abrogation, transfer)."""
+    rx = re.compile(r'<LIEN cidtexte="(JORFTEXT\d{12}|LEGITEXT\d{12})"[^>]*typelien="(' + '|'.join(LINK_TYPES) + ')"')
+    cids = set()
+    for p in OUT.glob('*/article/**/*.xml'):
+        cids.update(m.group(1) for m in rx.finditer(p.read_text('utf-8')))
+    return cids
+
+
+def titles() -> None:
+    """Keep the texte/version records (title, nature, number, dates) of every text the articles' amendment links name,
+    replayed like the articles: global dump first, then each increment over it. Written to .cache/legi-texts/<cid>/."""
+    plan = json.loads((CACHE / 'plan.json').read_text('utf-8'))
+    cids = linked_cids()
+    rx = re.compile(r'/((?:JORF|LEGI)TEXT\d{12})/texte/version/([A-Z]+TEXT\d{12})\.xml$')
+    if TITLES.exists():
+        shutil.rmtree(TITLES)
+    TITLES.mkdir()
+    n = 0
+    for i, name in enumerate(plan['files']):
+        with tarfile.open(cached(plan['base'] + name), 'r:gz') as tf:
+            for m in tf:
+                if m.isfile() and '/texte/version/' in m.name:
+                    g = rx.search(m.name)
+                    if g and g.group(1) in cids:
+                        p = TITLES / g.group(1) / (g.group(2) + '.xml')
+                        p.parent.mkdir(parents=True, exist_ok=True)
+                        p.write_bytes(tf.extractfile(m).read())
+                        n += 1
+        if i == 0 or (i + 1) % 50 == 0:
+            print(f'{i + 1}/{len(plan["files"])} {name} written {n}', flush=True)
+    found = {p.name for p in TITLES.iterdir()}
+    (CACHE / 'legi-texts.json').write_text(json.dumps({'linked': sorted(cids), 'found': sorted(found),
+                                                       'missing': sorted(cids - found)}, indent=1), 'utf-8')
+    print('titles done', len(found), 'of', len(cids))
+
+
 def main() -> None:
+    if '--titles' in sys.argv:
+        return titles()
     plan = json.loads((CACHE / 'plan.json').read_text('utf-8'))
     if OUT.exists():
         shutil.rmtree(OUT)
