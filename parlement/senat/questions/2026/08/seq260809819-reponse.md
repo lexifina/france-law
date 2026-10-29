@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260809819
+
+- Question : [SEQ260809819](seq260809819.md) — Coût pour les collectivités locales de l'harmonisation de la réglementation en matière de ralentisseurs routiers
+
+## Réponse
+
+*Transports, JO du 2026-10-29, page 5223*
+
+Le ministère des transports a engagé une démarche de révision de la réglementation de l'ensemble des types de ralentisseurs. Des représentants des collectivités gestionnaires de voirie, en particulier l'Association des maires de France et Départements de France, sont associés à ces travaux afin de de co-construire le nouveau cadre réglementaire. Le principe général qui guide ces travaux est de construire un cadre réglementaire qui reprenne, dans toute la mesure du possible, les dispositions réglementaires du décret n° 94-447 du 27 mai 1994 concernant les dos d'âne et les ralentisseurs de type trapézoïdal et les recommandations issues du guide Cerema édité en 2010 pour les coussins, les plateaux et les surélévations partielles en carrefour. L'objectif est de sécuriser juridiquement les aménagements qui ont été réalisés selon les dimensions et les conditions d'implantation prescrites par le cadre réglementaire et/ou le guide existant et limiter ainsi le coût d'une éventuelle mise en conformité. Enfin, à ce jour il est impossible d'évaluer le nombre de dispositifs ralentisseurs de vitesse qui ne respecteraient pas les règles en vigueur ou le cadre réglementaire en préparation car les gestionnaires de voirie disposant d'un inventaire précis sont peu nombreux. Afin de tenir compte de cette incertitude, des mesures transitoires sont envisagées dans le projet de texte réglementaire, afin de laisser aux gestionnaires de voirie le temps suffisant pour la mise en conformité des dispositifs qui le demanderaient, même après révision de la réglementation.
