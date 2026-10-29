@@ -230,8 +230,6 @@ Identité du professionnel ayant réalisé l'opération, s'il n'est pas le signa
 
 - Lanterneaux d’éclairage zénithal (France métropolitaine) / Fiche d’opération standardisée n° IND-BA-113
 
-- Conduits de lumière naturelle / Fiche d’opération standardisée n° IND-BA-114
-
 - Tubes à LED à éclairage hémisphérique / Fiche d’opération standardisée n° IND-BA-115 (Abrogée à compter du 1er avril 2019)
 
 Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1529503A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 6 dudit arrêté.
@@ -368,10 +366,6 @@ Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1
 
 Conformément à l’article 9 de l’arrêté du 31 juillet 2015 (NOR : DEVR1518934A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
 
-- Economiseur sur les effluents gazeux d’une chaudière de production de vapeur / Fiche d’opération standardisée n° IND-UT-104
-
-- Brûleur micro-modulant sur chaudière industrielle / Fiche d’opération standardisée n° IND-UT-105
-
 - Moteur haut rendement de classe IE2 / Fiche d’opération standardisée n° IND-UT-112 (Abrogée à compter du 1er avril 2022)
 
 - Système de condensation frigorifique à haute efficacité / Fiche d’opération standardisée n° IND-UT-113
@@ -381,8 +375,6 @@ Conformément à l’article 9 de l’arrêté du 31 juillet 2015 (NOR : DEVR151
 - Système de régulation sur un groupe de production de froid permettant d’avoir une basse pression flottante / Fiche d’opération standardisée n° IND-UT-115
 
 - Système de régulation sur un groupe de production de froid permettant d’avoir une haute pression flottante / Fiche d’opération standardisée n° IND-UT-116
-
-- Brûleur avec dispositif de récupération de chaleur sur four industriel / Fiche d’opération standardisée n° IND-UT-118
 
 - Compresseur d’air basse pression à vis ou centrifuge / Fiche d’opération standardisée n° IND-UT-120
 
@@ -401,8 +393,6 @@ Conformément à l’article 8 de l’arrêté du 2 mars 2017 (NOR : DEVR1703311
 Conformément à l’article 4 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 7 dudit arrêté.
 
 Conformément à l’article 2 de l’arrêté du 10 janvier 2020 (NOR : TRER2001868A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté, à compter du 1er avril 2020.
-
-- Condenseur sur les effluents gazeux d’une chaudière de production de vapeur / Fiche d’opération standardisée n° IND-UT-130
 
 - Isolation thermique des parois planes ou cylindriques sur des installations industrielles (France métropolitaine) / Fiche d’opération standardisée n° IND-UT-131
 

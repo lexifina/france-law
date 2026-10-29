@@ -832,8 +832,6 @@ Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER23252
 
 -Protections des baies contre le rayonnement solaire (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EN-110
 
--Fenêtre ou porte-fenêtre complète avec vitrage pariétodynamique (France métropolitaine) / Fiche d’opération standardisée n° BAT-EN-111
-
 -Revêtements réflectifs en toiture / Fiche d’opération standardisée n° BAT-EN-112
 
 -Façade rideau ou semi-rideau avec vitrage isolant / Fiche d’opération standardisée n° BAT-EN-113
@@ -841,8 +839,6 @@ Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER23252
 Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAT-EN-113, figurant en annexe D dudit arrêté remplace, à compter du 1er janvier 2024, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 3 du présent arrêté.
 
 -Réglage des organes d’équilibrage d’une installation de chauffage à eau chaude / Fiche d’opération standardisée n° BAT-SE-103
-
--Contrat de Performance Energétique Services (CPE Services) Chauffage / Fiche d’opération standardisée n° BAT-SE-104
 
 -Abaissement de la température de retour vers un réseau de chaleur / Fiche d’opération standardisée n° BAT-SE-105
 

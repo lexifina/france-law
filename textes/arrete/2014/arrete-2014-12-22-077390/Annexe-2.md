@@ -1038,8 +1038,6 @@ Conformément à l’article 1er de l’arrêté du 8 février 2016 (NOR : DEVR1
 
 Conformément à l’article 3 de de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.
 
-- Récupérateur de chaleur à condensation / Fiche d’opération standardisée n°BAR-TH-122
-
 - Optimiseur de relance en chauffage collectif / Fiche d’opération standardisée n°BAR-TH-123
 
 Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAR-TH-123, figurant en annexe B dudit arrêté remplace, à compter du 1er janvier 2024, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 2 du présent arrêté.
@@ -3415,8 +3413,6 @@ Conformément au 1° de l’article 5 de l’arrêté du 20 mars 2015 (NOR : DEV
 - Dispositif d’affichage et d’interprétation des consommations d’énergie / Fiche d’opération standardisée n° BAR-EQ-115
 
 - Réglage des organes d’équilibrage d’une installation de chauffage à eau chaude / Fiche d’opération standardisée n° BAR-SE-104
-
-- Contrat de Performance Energétique Services (CPE Services) / Fiche d’opération standardisée n° BAR-SE-105
 
 - Service de suivi des consommations d’énergie / Fiche d’opération standardisée n° BAR-SE-106
 
