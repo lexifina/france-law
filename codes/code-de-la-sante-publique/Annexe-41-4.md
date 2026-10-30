@@ -158,7 +158,7 @@ I. - En primo-prescription |
 
 10° Pansements gastro-intestinaux. |
 
-11° Nirsévimab.
+11° Anticorps monoclonaux antiviraux : nirsevimab (ATC : J06BD08), clesrovimab (ATC : J06BD10).
 
 |
 
