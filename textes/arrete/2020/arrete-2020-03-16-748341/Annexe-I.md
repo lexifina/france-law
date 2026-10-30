@@ -8,7 +8,7 @@ Administration centrale et structures assimilées |
 
 Directions d'administration centrale |
 
--Adjoint à un chef de service |
+- Adjoint à un chef de service |
 
 |
 
@@ -16,21 +16,13 @@ Directions d'administration centrale |
 
 Directions d'administration centrale |
 
--Adjoint à un sous-directeur |
-
-|
-
-|
-
-|
-
-|
+- Adjoint à un sous-directeur |
 
 |
 
 NN |
 
-Structure/ Direction, service, sous-direction, département : |
+Structure/Direction, service, sous-direction, département : |
 
 Fonction : |
 
@@ -54,14 +46,6 @@ Adjoint au chef de bureau |
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Commissariat général au développement durable (CGDD) |
 
 |
@@ -78,7 +62,7 @@ Chef du bureau du budget, des affaires financières et des marchés |
 
 3 |
 
-Service économie verte et solidaire-Sous-direction des politiques publiques durables |
+Service économie verte et solidaire - Sous-direction des politiques publiques durables |
 
 Chef du bureau de l'agriculture et de l'alimentation durable |
 
@@ -102,14 +86,6 @@ Chef du bureau des ressources humaines, de la formation et des moyens généraux
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Direction générale de l'aménagement, du logement et de la nature (DGALN) |
 
 |
@@ -118,7 +94,7 @@ Direction générale de l'aménagement, du logement et de la nature (DGALN) |
 
 6 |
 
-Direction de l'habitat, de l'urbanisme et des paysages-Sous-direction des politiques de l'habitat |
+Direction de l'habitat, de l'urbanisme et des paysages - Sous-direction des politiques de l'habitat |
 
 Chef du bureau de la mobilisation et de l'amélioration du parc privé |
 
@@ -126,7 +102,7 @@ Chef du bureau de la mobilisation et de l'amélioration du parc privé |
 
 7 |
 
-Mission performance/ BAPEF |
+Mission performance/BAPEF |
 
 Chef du bureau des achats publics et de l'exécution financière |
 
@@ -134,7 +110,7 @@ Chef du bureau des achats publics et de l'exécution financière |
 
 8 |
 
-Direction de l'habitat, de l'urbanisme et des paysages/ UP3 |
+Direction de l'habitat, de l'urbanisme et des paysages/UP3 |
 
 Chef du bureau de la planification urbaine et rurale et du cadre de vie |
 
@@ -150,17 +126,9 @@ Responsable de la mission numérique |
 
 10 |
 
-Direction de l'habitat, de l'urbanisme et des paysages/ AD5 |
+Direction de l'habitat, de l'urbanisme et des paysages/AD5 |
 
 Chef du bureau des opérations d'aménagement |
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -174,15 +142,15 @@ Direction générale des affaires maritimes, de la pêche et de l'aquaculture (D
 
 11 |
 
-Service des flottes et des marins/ Mission flotte de commerce |
+Service des flottes et des marins/Mission flotte de commerce |
 
-Adjoint au chef de la mission de la flotte de commerce-Chef du bureau de l'économie du transport et des services maritimes |
+Adjoint au chef de la mission de la flotte de commerce - Chef du bureau de l'économie du transport et des services maritimes |
 
 |
 
 12 |
 
-MBCP/ Bureau pilotage et ressources budgétaires |
+MBCP/Bureau pilotage et ressources budgétaires |
 
 Adjoint au chef de mission et chef du bureau pilotage et ressources budgétaires |
 
@@ -190,17 +158,9 @@ Adjoint au chef de mission et chef du bureau pilotage et ressources budgétaires
 
 13 |
 
-SPMAD/ SDAEP/ Bureau des fonds européens et d'investissement |
+SPMAD/SDAEP/Bureau des fonds européens et d'investissement |
 
 Chef de bureau des fonds européens et d'investissement |
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -214,17 +174,9 @@ Direction générale de l'énergie et du climat (DGEC) |
 
 14 |
 
-Sous-direction sécurité et émissions des véhicules (DCEEA/ SD6) |
+Sous-direction sécurité et émissions des véhicules (DCEEA/SD6) |
 
 Chef du Département du contrôle technique et des affaires transversales |
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -238,7 +190,7 @@ Direction générale des infrastructures, des transports et des mobilités (DGIT
 
 15 |
 
-DMR/ sous-direction des financements innovants et du contrôle des concessions autoroutières |
+DMR/sous-direction des financements innovants et du contrôle des concessions autoroutières |
 
 Chef du bureau de l'expertise juridique (FCAS) |
 
@@ -246,7 +198,7 @@ Chef du bureau de l'expertise juridique (FCAS) |
 
 16 |
 
-Sous-direction du budget, de la synthèse stratégique et de l'appui aux services/ BSA1 |
+Sous-direction du budget, de la synthèse stratégique et de l'appui aux services/BSA1 |
 
 Chef du bureau du budget |
 
@@ -254,7 +206,7 @@ Chef du bureau du budget |
 
 17 |
 
-DTFFP/ Sous-direction des systèmes ferroviaires et guidés/ SFG2 |
+DTFFP/Sous-direction des systèmes ferroviaires et guidés/SFG2 |
 
 Chef du bureau de l'interopérabilité ferroviaire |
 
@@ -262,25 +214,17 @@ Chef du bureau de l'interopérabilité ferroviaire |
 
 18 |
 
-DTFFP/ Sous-direction des ports/ P4 |
+DTFFP/Sous- direction des ports/P4 |
 
-Chef du bureau de la sûreté portuaire et fluviale |
+Chef du bureau de la sureté portuaire et fluviale |
 
 |
 
 19 |
 
-DTFFP/ Sous-direction des ports/ P3 |
+DTFFP/Sous- direction des ports/P3 |
 
 Chef du bureau de la réglementation et de la régulation portuaire |
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -310,14 +254,6 @@ Chef du bureau ressources humaines et logistique |
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Secrétariat Général (SG) |
 
 |
@@ -326,15 +262,15 @@ Secrétariat Général (SG) |
 
 22 |
 
-Direction des ressources humaines/ Sous-direction de la formation, des compétences et des qualifications |
+Direction des ressources humaines/Service du développement professionnel et des conditions de travail/Centre ministériel de valorisation des ressources humaines |
 
-Chef du bureau de l'animation des services de la formation |
+Chef du bureau des affaires générales |
 
-|
+Actualisation du poste au 01/05/2026 |
 
 23 |
 
-Direction des affaires financières/ Service des achats et du soutien-Sous-direction des achats durables |
+Direction des affaires financières/Service des achats et du soutien - Sous-direction des achats durables |
 
 Chef du bureau des procédures de la commande publique |
 
@@ -342,7 +278,7 @@ Chef du bureau des procédures de la commande publique |
 
 24 |
 
-Direction des ressources humaines/ Service du développement professionnel et des conditions de travail/ Centre ministériel de valorisation des ressources humaines |
+Direction des ressources humaines/Service du développement professionnel et des conditions de travail/Centre ministériel de valorisation des ressources humaines |
 
 Adjoint au directeur du CVRH d'Arras et responsable du département conseil à l'agent, recrutement, carrière |
 
@@ -350,7 +286,7 @@ Adjoint au directeur du CVRH d'Arras et responsable du département conseil à l
 
 25 |
 
-Direction des ressources humaines/ Centre ministériel de gestion des personnels/ Sous-direction des activités transversales et de la coordination |
+Direction des ressources humaines/Centre ministériel de gestion des personnels/Sous-direction des activités transversales et de la coordination |
 
 Chef du bureau de la coordination, de l'expertise et du pilotage de la paie |
 
@@ -366,7 +302,7 @@ Chef du département des ressources et de la législation |
 
 27 |
 
-Direction des ressources humaines/ Centre ministériel de gestion des personnels/ Sous-direction des personnels d'encadrement et à statuts particuliers |
+Direction des ressources humaines/Centre ministériel de gestion des personnels/Sous-direction des personnels d'encadrement et à statuts particuliers |
 
 Chef du bureau des personnels contractuels et des ouvriers d'Etat |
 
@@ -374,21 +310,29 @@ Chef du bureau des personnels contractuels et des ouvriers d'Etat |
 
 28 |
 
-Direction des ressources humaines/ Département de la coordination des ressources humaines de l'administration centrale et de gestion de proximité du Secrétariat général |
+Direction des ressources humaines/Sous-direction des politiques sociales, de la prévention et de la protection sociale complémentaire |
 
 Chef du bureau de l'action médico-sociale et de la prévention en administration centrale |
 
-|
+Actualisation du poste au 16/03/2026 |
 
 29 |
 
-Direction des ressources humaines/ Sous-direction des personnels de catégories B et C et de la gestion locale |
+Direction des ressources humaines/Service du développement professionnel et des conditions de travail/Centre ministériel de valorisation des ressources humaines |
+
+Directeur adjoint |
+
+A compter du 01/05/2026 |
+
+30 |
+
+Direction des ressources humaines/Sous-direction des personnels de catégories B et C et de la gestion locale |
 
 Cheffe du Centre régional de gestion des personnels en Auvergne-Rhône-Alpes |
 
 |
 
-30 |
+31 |
 
 Cabinet du secrétaire général |
 
@@ -396,7 +340,7 @@ Chef du bureau des associations |
 
 |
 
-31 |
+32 |
 
 Délégation à l'encadrement supérieur |
 
@@ -404,71 +348,71 @@ Chef de projet cadres dirigeants |
 
 |
 
-32 |
+33 |
 
-Direction des ressources humaines/ Département de la coordination des ressources humaines de l'administration centrale et de gestion de proximité du Secrétariat général |
+Direction des ressources humaines/Département de la coordination des ressources humaines de l'administration centrale et de gestion de proximité du Secrétariat général |
 
 Chef du bureau des ressources humaines du secrétariat général |
 
 |
 
-33 |
+34 |
 
-Direction des ressources humaines/ Mission de suivi personnalisé et des parcours professionnels |
+Direction des ressources humaines/Mission de suivi personnalisé et des parcours professionnels |
 
 Chargé de mission des APAE, AAHCE et CAEDAD |
 
 |
 
-34 |
+35 |
 
-Service de la transformation ministérielle et de l'animation du réseau/ Sous-direction de la stratégie de transformation et de l'animation des réseaux |
+Service de la transformation ministérielle et de l'animation du réseau/Sous-direction de la stratégie de transformation et de l'animation des réseaux |
 
 Chef du bureau des établissements d'enseignement supérieur |
 
 |
 
-35 |
+36 |
 
-Direction des ressources humaines/ Centre ministériel de gestion des personnels/ Sous-direction des activités transversales et de la coordination |
+Direction des ressources humaines/Centre ministériel de gestion des personnels/Sous-direction des activités transversales et de la coordination |
 
 Chef du bureau des procédures réglementaires |
 
 |
 
-36 |
+37 |
 
-Direction de la communication/ Département d'appui stratégique |
+Direction de la communication/Département d'appui stratégique |
 
 Chef du bureau veille médias et opinions |
 
 |
 
-37 |
+38 |
 
-Direction des ressources humaines/ Département de la coordination des ressources humaines de l'administration centrale et de gestion de proximité du Secrétariat général |
+Direction des ressources humaines/Département de la coordination des ressources humaines de l'administration centrale et de gestion de proximité du Secrétariat général |
 
 Chef de la mission de la coordination de la gestion des ressources humaines en administration centrale |
 
 |
 
-38 |
+39 |
 
-Direction du numérique/ DPNM2 |
+Direction du numérique/DPNM2 |
 
-Adjoint au chef du département-chef groupe produits-directeur de produit |
+Adjoint au chef du département - chef groupe produits - directeur de produit |
 
 |
 
-39 |
+40 |
 
-Direction de l'action européenne et internationale/ Sous-direction de l'action européenne/ BTM |
+Direction de l'action européenne et internationale/Sous-direction de l'action européenne/BTM |
 
 Chef du bureau transports et mer |
 
 |
 
-40 |
+41 |
 
 Département de la modernisation et de l'animation des réseaux |
 
@@ -476,43 +420,35 @@ Chef du département de la modernisation et de l'animation des réseaux |
 
 |
 
-41 |
+42 |
 
-Direction des affaires financières/ Sous-direction du budget et de la fiscalité/ BF3 |
+Direction des affaires financières/Sous-direction du budget et de la fiscalité/BF3 |
 
 Chef du bureau du budget de soutien |
 
 |
 
-42 |
+43 |
 
-Direction des affaires juridiques/ AJET1 |
+Direction des affaires juridiques/AJET1 |
 
 Chef du bureau des affaires juridiques de la mer |
 
 |
 
-43 |
+44 |
 
-Direction des affaires financières/ Sous-direction des achats durables |
+Direction des affaires financières/Sous-direction des achats durables |
 
 Chef du bureau des politiques et performance achat |
 
 |
 
-44 |
+45 |
 
-Direction des ressources humaines/ Service du développement professionnel et des conditions de travail |
+Direction des ressources humaines/Service du développement professionnel et des conditions de travail |
 
 Chef du bureau de la prévention, de la santé au travail, du service social et des travailleurs handicapés |
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -536,81 +472,65 @@ Adjoint à un directeur |
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Région Auvergne-Rhône-Alpes |
 
 |
 
 |
 
-45 |
-
-DDT 01/ SHC |
-
-Chef du service habitat et construction |
-
-|
-
 46 |
 
-DDT 01/ SUR |
+DDT 01/SHC |
 
-Chef du service urbanisme et risques |
+Chef du service habitat et construction |
 
 |
 
 47 |
 
-DDT 03/ SLCD |
+DDT 01/SUR |
 
-Chef du service logement et construction durable |
+Chef du service urbanisme et risques |
 
 |
 
 48 |
 
-DDT 07/ SIH |
+DDT 03/SLCD |
 
-Chef de service ingénierie et habitat |
+Chef du service logement et construction durable |
 
 |
 
 49 |
 
-DDT 15/ SHC |
+DDT 07/SIH |
 
-Chef du service habitat et construction |
+Chef de service ingénierie et habitat |
 
 |
 
 50 |
 
-DREAL AURA/ MJ |
+DDT 15/SHC |
 
-Chef de la mission juridique |
+Chef du service habitat et construction |
 
 |
 
 51 |
 
-DREAL AURA/ EHN |
+DREAL AURA/MJ |
+
+Chef de la mission juridique |
+
+|
+
+52 |
+
+DREAL AURA/EHN |
 
 Chef de la mission Loup EHN206 |
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -622,7 +542,7 @@ Région Bourgogne-Franche-Comté |
 
 |
 
-52 |
+53 |
 
 DDT 90 |
 
@@ -630,7 +550,7 @@ Chef du service habitat et urbanisme |
 
 |
 
-53 |
+54 |
 
 DDT 21 |
 
@@ -638,7 +558,7 @@ Chef du service urbanisme, connaissance et appui aux territoires |
 
 |
 
-54 |
+55 |
 
 DDT 25 |
 
@@ -646,19 +566,11 @@ Chef du service coordination, sécurité, conseil aux territoires |
 
 |
 
-55 |
+56 |
 
 DDT 21 |
 
 Chef du service habitat construction |
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -670,7 +582,7 @@ Région Bretagne |
 
 |
 
-56 |
+57 |
 
 DIR OUEST |
 
@@ -678,27 +590,19 @@ Secrétaire général adjoint |
 
 |
 
-57 |
+58 |
 
-DREAL Bretagne/ Mission stratégie régionale et communication |
+DREAL Bretagne/Mission stratégie régionale et communication |
 
-Responsable du pilotage et de l'animation régionale-Adjoint au chef de la mission stratégie régionale et communication |
+Responsable du pilotage et de l'animation régionale - Adjoint au chef de la mission stratégie régionale et communication |
 
 |
 
-58 |
+59 |
 
 DREAL Bretagne |
 
 Adjoint au chef de service d'administration générale interne et régionale |
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -710,7 +614,7 @@ Région Centre-Val de Loire |
 
 |
 
-59 |
+60 |
 
 DDETS 45 |
 
@@ -718,27 +622,19 @@ Chef du service insertion et protection des personnes vulnérables |
 
 |
 
-60 |
+61 |
 
-DREAL/ Secrétariat général |
+DREAL/Secrétariat général |
 
 Chef du département ressources humaines, adjoint au secrétaire général |
 
 |
 
-61 |
+62 |
 
 DDT 37 |
 
 Chef du service urbanisme et démarches des territoires |
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -750,27 +646,19 @@ Région de Corse |
 
 |
 
-62 |
+63 |
 
-DREAL Corse/ Direction |
+DREAL Corse/Direction |
 
 Adjoint aux directeurs |
 
 |
 
-63 |
+64 |
 
 DREAL Corse |
 
 Secrétaire général |
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -782,15 +670,15 @@ Région Grand Est |
 
 |
 
-64 |
+65 |
 
-DDT 52/ SHC |
+DDT 52/SHC |
 
 Chef du service habitat et construction |
 
 |
 
-65 |
+66 |
 
 DIR EST |
 
@@ -798,23 +686,23 @@ Secrétaire général |
 
 |
 
-66 |
+67 |
 
-DDT 52/ SSA |
+DDT 52 /SSA |
 
 Chef du service sécurité, aménagement |
 
 |
 
-67 |
+68 |
 
-DDT 57/ SRECC |
+DDT 57/SRECC |
 
 Chef du Service sécurité, risques, énergie, construction, circulation |
 
 |
 
-68 |
+69 |
 
 DDT 67 |
 
@@ -822,7 +710,7 @@ Chef du service urbanisme et aménagement |
 
 |
 
-69 |
+70 |
 
 DDT 55 |
 
@@ -830,19 +718,11 @@ Chef du service urbanisme et habitat |
 
 |
 
-70 |
+71 |
 
 DDT 54 |
 
 Chef du service environnement risques et connaissances |
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -854,7 +734,7 @@ Région Hauts-de-France |
 
 |
 
-71 |
+72 |
 
 DDTM 59 |
 
@@ -862,7 +742,7 @@ Chef du service études, planification, animation territoriale |
 
 |
 
-72 |
+73 |
 
 DDT 02 |
 
@@ -870,15 +750,15 @@ Chef du service habitat, rénovation urbaine et construction |
 
 |
 
-73 |
+74 |
 
-DDTM 59/ STFL |
+DDTM 59/STFL |
 
 Chef du service territorial Flandres et littoral |
 
 |
 
-74 |
+75 |
 
 DDT 60 |
 
@@ -886,35 +766,27 @@ Responsable du service de la sécurité, de l'expertise et des crises |
 
 |
 
-75 |
+76 |
 
-DDT 60/ SHLRH |
+DDT 60/SHLRH |
 
 Responsable du service habitat, logement, renouvellement urbain |
 
 |
 
-76 |
+77 |
 
-DREAL Hauts-de-France/ SSTV |
+DREAL Hauts-de-France/SSTV |
 
 Adjoint au chef du service sécurité, transports et véhicules |
 
 |
 
-77 |
+78 |
 
-DDTM 59/ Service territorial du Hainaut |
+DDTM 59/Service territorial du Hainaut |
 
 Chef de service territorial et habitat |
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -926,33 +798,31 @@ Région Normandie |
 
 |
 
-78 |
+79 |
 
 DDT 61 |
 
 Chef du service ADS, circulation et risques |
 
-jusqu'au 30/04/2026 |
+Jusqu'au 30/04/2026 |
 
-79 |
+80 |
 
 DDT 61 |
 
 Chef du service habitat construction |
 
-A compter
+A compter du 01/05/2026 |
 
-du 01/05/2026 |
+81 |
 
-80 |
-
-DDTM 27/ SCTSRD |
+DDTM 27/SCTSRD |
 
 Responsable du service connaissance des territoires, sécurité routière, défense |
 
 |
 
-81 |
+82 |
 
 DREAL Normandie |
 
@@ -960,35 +830,21 @@ Secrétaire général adjoint |
 
 |
 
-82 |
+83 |
 
-DREAL Normandie/ Service mobilités et infrastructures |
+DREAL Normandie/Service mobilités et infrastructures |
 
-Responsable de la division multimodalités-adjoint au chef du service mobilités et infrastructures |
+Responsable de la division multimodalités - adjoint au chef du service mobilités et infrastructures |
 
 |
 
-83 |
+84 |
 
 DREAL Normandie |
 
 Adjoint au chef du service eau littoral et biodiversité à Rouen |
 
-Actualisation
-
-de l'intitulé
-
-de poste
-
-au 01/09/2024 |
-
-|
-
-|
-
-|
-
-|
+Actualisation de l'intitulé de poste au 01/09/2024 |
 
 |
 
@@ -998,7 +854,7 @@ Région Nouvelle-Aquitaine |
 
 |
 
-84 |
+85 |
 
 DREAL Nouvelle-Aquitaine |
 
@@ -1006,7 +862,7 @@ Chef de délégation zonale de défense et de sécurité |
 
 |
 
-85 |
+86 |
 
 DREAL Nouvelle-Aquitaine |
 
@@ -1014,7 +870,7 @@ Chef de la mission d'appui à la stratégie en région |
 
 |
 
-86 |
+87 |
 
 DDT 24 |
 
@@ -1022,7 +878,7 @@ Chef du service aménagement et développement durables |
 
 |
 
-87 |
+88 |
 
 DDTM 64 |
 
@@ -1030,7 +886,7 @@ Chef du service pilotage, affaires juridiques et sécurité routière |
 
 |
 
-88 |
+89 |
 
 DREAL Nouvelle-Aquitaine |
 
@@ -1038,7 +894,7 @@ Secrétaire général adjoint |
 
 |
 
-89 |
+90 |
 
 DDT 16 |
 
@@ -1046,7 +902,7 @@ Chef du service transition énergétique, mobilité et analyse du territoire |
 
 |
 
-90 |
+91 |
 
 DIR Centre Ouest |
 
@@ -1054,7 +910,7 @@ Secrétaire général |
 
 |
 
-91 |
+92 |
 
 DIRM Sud Atlantique |
 
@@ -1062,19 +918,11 @@ Chef du service emploi et formation maritime |
 
 |
 
-92 |
+93 |
 
 DREAL Nouvelle-Aquitaine |
 
 Chef de la mission connaissance et analyse des territoires |
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -1086,7 +934,7 @@ Région Occitanie |
 
 |
 
-93 |
+94 |
 
 DDT 48 |
 
@@ -1094,7 +942,7 @@ Chef de la mission stratégie et connaissance des territoires |
 
 |
 
-94 |
+95 |
 
 DDT 82 |
 
@@ -1102,7 +950,7 @@ Chef du service connaissance et risque |
 
 |
 
-95 |
+96 |
 
 DDT 48 |
 
@@ -1110,15 +958,15 @@ Chef du service Aménagement Logement |
 
 |
 
-96 |
+97 |
 
-DREAL Occitanie/ Direction Aménagement |
+DREAL Occitanie/Direction Aménagement |
 
 Chef du département Habitat-Logement |
 
 |
 
-97 |
+98 |
 
 DDT 32 |
 
@@ -1126,15 +974,15 @@ Chef du Service Eau et Risque |
 
 |
 
-98 |
+99 |
 
-DDT 65/ Délégations Territoriales |
+DDT 65/Délégations Territoriales |
 
 Délégué territorial Sud |
 
 |
 
-99 |
+100 |
 
 DDTM 11 |
 
@@ -1142,27 +990,19 @@ Chef du Service Agriculture Forêt Eau Biodiversité |
 
 |
 
-100 |
+101 |
 
-DREAL Occitanie/ Direction Transports |
+DREAL Occitanie/Direction Transports |
 
 Chef de la Division Transports Routiers Est |
 
 |
 
-101 |
+102 |
 
-DDT 81/ Service connaissance des Territoires et Urbanisme |
+DDT 81/Service connaissance des Territoires et Urbanisme |
 
-Adjoint au chef de service Connaissance des Territoires et Urbanisme-Chef du pôle urbanisme |
-
-|
-
-|
-
-|
-
-|
+Adjoint au chef de service Connaissance des Territoires et Urbanisme - Chef du pôle urbanisme |
 
 |
 
@@ -1174,15 +1014,15 @@ Région Pays de la Loire |
 
 |
 
-102 |
+103 |
 
-DREAL/ SIAL/ DPH |
+DREAL /SIAL/DPH |
 
-Adjoint au chef du service intermodalité, aménagement et logement-chef de la division politique de l'habitat |
+Adjoint au chef du service intermodalité, aménagement et logement - chef de la division politique de l'habitat |
 
 |
 
-103 |
+104 |
 
 DDT 49 |
 
@@ -1190,15 +1030,15 @@ Chef du service sécurité et éducation routières, crise et Loire |
 
 |
 
-104 |
+105 |
 
 DDTM 44 |
 
-Coordonnateur Territorial-Réseau Territorial Est |
+Coordonnateur Territorial - Réseau Territorial Est |
 
 |
 
-105 |
+106 |
 
 DREAL Pays de la Loire |
 
@@ -1206,7 +1046,7 @@ Chef du service connaissance des territoires et évaluations |
 
 |
 
-106 |
+107 |
 
 DDETS 72 |
 
@@ -1214,7 +1054,7 @@ Chef du pôle hébergement, logement et veille sociale |
 
 |
 
-107 |
+108 |
 
 DDT 72 |
 
@@ -1224,21 +1064,13 @@ Chef du service habitat ville construction |
 
 |
 
-|
+Région Provence-Alpes-Côte d'Azur |
 
 |
 
 |
 
-|
-
-Région Provence Alpes Côte d'Azur |
-
-|
-
-|
-
-108 |
+109 |
 
 DDTM 13 |
 
@@ -1246,7 +1078,7 @@ Chef du service juridique et contrôle |
 
 |
 
-109 |
+110 |
 
 DREAL PACA |
 
@@ -1254,7 +1086,7 @@ Secrétaire général adjoint |
 
 |
 
-110 |
+111 |
 
 DDT 84 |
 
@@ -1262,15 +1094,15 @@ Chef du service juridique |
 
 |
 
-111 |
+112 |
 
-DDTM 06/ SASM |
+DDTM 06 /SASM |
 
 Chef du service d'appui aux services métiers |
 
 |
 
-112 |
+113 |
 
 DIRM Méditerranée |
 
@@ -1278,15 +1110,15 @@ Chef du service réglementation |
 
 |
 
-113 |
+114 |
 
-DREAL PACA/ Secrétariat général |
+DREAL PACA/Secrétariat général |
 
 Chef de la mission juridique |
 
 |
 
-114 |
+115 |
 
 DDTM 06 |
 
@@ -1294,7 +1126,7 @@ Chef de service adjoint Aménagement Urbanisme Planification |
 
 |
 
-115 |
+116 |
 
 DDT 05 |
 
@@ -1304,73 +1136,57 @@ Chef de l'unité interdépartementale de conseil aux territoires des Alpes du Su
 
 |
 
-|
+Région Ile-de-France |
 
 |
-
-|
-
-|
-
-Région Île-de-France |
-
-|
-
-|
-
-116 |
-
-DRIEAT/ UD 92 |
-
-Chargée de mission projets transversaux auprès du directeur de l'UD 92 |
 
 |
 
 117 |
 
-DDT 77/ Service habitat et rénovation urbaine |
+DRIEAT/UD 92 |
 
-Chef de service habitat et rénovation urbaine |
+Chargée de mission projets transversaux auprès du directeur de l'UD 92 |
 
 |
 
 118 |
 
-DRIEAT/ Service accompagnement et pilotage |
+DDT 77/Service habitat et rénovation urbaine |
 
-Adjoint au chef de service |
+Chef de service habitat et rénovation urbaine |
 
 |
 
 119 |
 
-DRIEAT/ Service politiques et police de l'eau |
+DRIEAT/Service accompagnement et pilotage |
 
-Chef du département " assainissement " |
+Adjoint au chef de service |
 
 |
 
 120 |
 
-DRIHL/ Mission en charge du pilotage stratégique, de l'innovation et de la communication |
+DRIEAT/Service politiques et police de l'eau |
 
-Chef de la mission en charge du pilotage stratégique, de l'innovation et de la communication |
+Chef du département "assainissement" |
 
 |
 
 121 |
 
+DRIHL/Mission en charge du pilotage stratégique, de l'innovation et de la communication |
+
+Chef de la mission en charge du pilotage stratégique, de l'innovation et de la communication |
+
+|
+
+122 |
+
 DDT 77 |
 
 Chef du service des affaires juridiques |
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -1390,7 +1206,7 @@ DEAL Guadeloupe |
 
 |
 
-122 |
+123 |
 
 Service habitat et bâtiments durables |
 
@@ -1406,7 +1222,7 @@ DEAL Mayotte |
 
 |
 
-123 |
+124 |
 
 Service Environnement et Prévention des Risques (SEPR) |
 
@@ -1422,7 +1238,7 @@ DEAL Martinique |
 
 |
 
-124 |
+125 |
 
 Mission appui au pilotage |
 
@@ -1438,7 +1254,7 @@ DEAL Réunion |
 
 |
 
-125 |
+126 |
 
 Service aménagement et construction durables |
 
@@ -1462,21 +1278,13 @@ ANCT |
 
 |
 
-126 |
+127 |
 
-ANCT/ Secrétariat général |
+ANCT/Secrétariat général |
 
 Secrétaire général adjoint |
 
-jusqu'au 19/03/2026 |
-
-|
-
-|
-
-|
-
-|
+Jusqu'au 19/03/2026 |
 
 |
 
@@ -1486,7 +1294,7 @@ Centre d'études et d'expertise sur les risques, l'environnement, la mobilité e
 
 |
 
-127 |
+128 |
 
 Direction territoriale Méditerranée |
 
@@ -1494,7 +1302,7 @@ Secrétaire général |
 
 |
 
-128 |
+129 |
 
 Direction territoriale Hauts de France |
 
@@ -1502,7 +1310,7 @@ Secrétaire général |
 
 |
 
-129 |
+130 |
 
 Direction territoriale Normandie Centre |
 
@@ -1510,7 +1318,7 @@ Secrétaire général |
 
 |
 
-130 |
+131 |
 
 Direction territoriale Ouest |
 
@@ -1518,7 +1326,7 @@ Directeur du département des transitions territoriales |
 
 |
 
-131 |
+132 |
 
 Direction des ressources humaines |
 
@@ -1526,19 +1334,11 @@ Chef du service affaires sociales, réglementaires et numériques |
 
 |
 
-132 |
+133 |
 
 Direction des ressources humaines |
 
 Chef du service central de gestion administrative et de paye |
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -1550,19 +1350,11 @@ IGN |
 
 |
 
-133 |
+134 |
 
 Direction des ressources humaines |
 
 Chef du service du personnel de la direction des ressources humaines |
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -1574,23 +1366,23 @@ Office français de la biodiversité (OFB) |
 
 |
 
-134 |
+135 |
 
-Direction générale déléguée ressources/ Direction des finances |
+Direction générale déléguée ressources/Direction des finances |
 
 Directeur adjoint des finances |
 
 |
 
-135 |
+136 |
 
 Direction générale adjointe territoires et outre-mer |
 
-Adjoint au directeur général adjoint territoires et outre-mer |
+Adjoint au directeur général adjoint territoires et outre- mer |
 
 |
 
-136 |
+137 |
 
 Direction des ressources humaines |
 
@@ -1598,7 +1390,7 @@ Directeur adjoint des ressources humaines |
 
 |
 
-137 |
+138 |
 
 Direction générale adjointe territoires et outre-mer |
 
@@ -1606,19 +1398,11 @@ Directeur régional adjoint Ile-de-France |
 
 |
 
-138 |
+139 |
 
 Direction des finances |
 
 Directeur-adjoint des finances |
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -1630,43 +1414,35 @@ Voies Navigables de France (VNF) |
 
 |
 
-139 |
+140 |
 
-VNF/ Siège |
+VNF/Siège |
 
 Responsable du service gestion administrative et paye (DRHM) |
 
 |
 
-140 |
+141 |
 
-VNF/ Siège |
+VNF/Siège |
 
 Directeur adjoint des ressources humaines et des moyens |
 
 |
 
-141 |
+142 |
 
-VNF/ Siège |
+VNF/Siège |
 
 Responsable de la division compétences, accompagnement du changement et parcours professionnels |
 
 |
 
-142 |
+143 |
 
-VNF/ DT SEINE |
+VNF/DT SEINE |
 
 Chef du Service Développement de la Voie d'Eau |
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -1678,19 +1454,11 @@ Agence nationale de contrôle du logement social (ANCOLS) |
 
 |
 
-143 |
+144 |
 
-ANCOLS/ DGA CS/ Direction du contrôle et Suites Sud-Est |
+ANCOLS/DGA CS/Direction du contrôle et Suites Sud-Est |
 
 Directeur du contrôle et des suites Sud-Est |
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -1702,9 +1470,9 @@ Agence de l'eau |
 
 |
 
-144 |
+145 |
 
-Agence de l'eau de Loire Bretagne |
+Agence de l'eau Loire Bretagne |
 
 Chef du service information et communication |
 
@@ -1712,4 +1480,4 @@ Chef du service information et communication |
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 23 décembre 2025 (NOR : TECK2535023A), ces dispositions prennent effet le 1er janvier 2026 sous réserve des mentions particulières indiquées dans les annexes.
+Conformément à l’article 2 de l’arrêté du 18 octobre 2026 (NOR : TECK2625365A), ces dispositions prennent effet le 1er janvier 2026 sous réserve des mentions particulières indiquées dans les annexes.

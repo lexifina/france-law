@@ -6,29 +6,21 @@ Administration centrale et structures assimilées |
 
 Directions d'administration centrale |
 
--Adjoint à un chef de service |
+- Adjoint à un chef de service |
 
 Directions d'administration centrale |
 
--Adjoint à un sous-directeur |
-
-|
-
-|
+- Adjoint à un sous-directeur |
 
 Services déconcentrés et directions départementales interministérielles : |
 
 Directions interdépartementales des routes |
 
--directeur |
+- directeur |
 
 Directions interdépartementales des routes |
 
--Adjoint à un directeur |
-
-|
-
-|
+- Adjoint à un directeur |
 
 Région Grand Est |
 
@@ -40,4 +32,4 @@ Secrétaire général |
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 23 décembre 2025 (NOR : TECK2535023A), ces dispositions prennent effet le 1er janvier 2026 sous réserve des mentions particulières indiquées dans les annexes.
+Conformément à l’article 2 de l’arrêté du 18 octobre 2026 (NOR : TECK2625365A), ces dispositions prennent effet le 1er janvier 2026 sous réserve des mentions particulières indiquées dans les annexes.
