@@ -8,13 +8,11 @@ Liaisons entre la France métropolitaine et le Royaume-Uni dans le cadre d'une o
 
 2. Liaisons internationales extracommunautaires :
 
-Jusqu'au 31 octobre 2026 :
-
-Saint-Denis de La Réunion-Johannesburg (Afrique du Sud) ;
-
 Jusqu'au 31 mars 2027 :
 
 Saint-Denis de La Réunion-Mahé (Seychelles) ;
+
+Saint-Denis de La Réunion-Johannesburg (Afrique du Sud) ;
 
 Jusqu'au 30 avril 2028 :
 
