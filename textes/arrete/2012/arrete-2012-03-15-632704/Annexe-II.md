@@ -10,9 +10,7 @@ EMPLOIS |
 
 Direction générale du Trésor : services centraux, à compétence nationale et à l'étranger. |
 
-Attachés économiques (décret n° 97-511 du 21 mai 1997 modifié).
-
-Conseillers économiques (décret n° 2004-1260 du 25 novembre 2004). |
+Attachés économiques (décret n° 97-511 du 21 mai 1997 modifié). |
 
 Ministres conseillers pour les affaires économiques (décret n° 2004-1259 du 25 novembre 2004).
 
@@ -22,4 +20,4 @@ Volontaires internationaux en administration (articles L. 122-1 et suivants du c
 
 NOTA :
 
-Conformément à l'article 6 de l'arrêté du 29 avril 2021, ces dispositions entrent en vigueur le 1er juin 2021.
+Conformément à l'article 6 de l'arrêté du 15 juillet 2026 (NOR : ECOP2607520A), ces dispsitions, dans leur rédaction issue dudit décret, entrent en vigueur le 1er novembre 2026.
