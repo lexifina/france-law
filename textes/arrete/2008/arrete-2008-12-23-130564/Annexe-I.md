@@ -290,11 +290,11 @@ Adjoint au chef de cuisine |
 
 1 |
 
-29 |
+45 |
 
-Ecole de gendarmerie de Châteaulin |
+Commandement des forces aériennes de la Gendarmerie nationale (COMFAG)/ Centre national de maintenance aéronautique de la gendarmerie (CNaMAG)/ Département production |
 
-Adjoint au gérant d'activité bar, comptoir des ventes et hôtellerie |
+Réparateur structure des aéronefs |
 
 1 |
 
@@ -306,11 +306,11 @@ Adjoint au chef de cuisine |
 
 1 |
 
-75 |
+24 |
 
-Garde républicaine-cercle mixte Tournon |
+Centre national d'entraînement des forces de Gendarmerie (CNEFG) - cercle mixte Saint-Astier |
 
-Chef de cuisine |
+Second de cuisine |
 
 1 |
 
@@ -374,15 +374,19 @@ Responsable de l'intendance des appartements de fonction |
 
 Direction de l'évaluation de la performance de l'achat, des finances et de l'immobilier/ BGSAC/ Beauvau |
 
-Responsable de la section &laquo; transferts/ livraisons &raquo; |
+Responsable de la section "transferts/ livraisons" |
 
 1 |
 
-75 |
+92 |
 
-Direction de la programmation, des affaires financières et de l'immobilier/ BGSAC/ Beauvau |
+Direction de l'évaluation de la performance, de l'achat, des finances et de l'immobilier /BGSAC/Pôle exploitation maintenance - Nanterre
 
-Chef des ateliers |
+|
+
+Responsable d'exploitation maintenance
+
+Site Nanterre / Capitole / Issy-les-Moulineaux |
 
 1 |
 
@@ -404,4 +408,4 @@ Adjoint au responsable de la cellule exploitation |
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 7 avril 2025 (NOR : INTH2511116A), les dispositions dudit arrêté entrent en vigueur le premier jour du mois suivant celui de sa publication.
+Conformément à l'article 3 de l'arrêté du 30 septembre 2026 (NOR : INTH2621601A), ces dispositions, dans leur rédaction issue de l'article 1er de l'arrêté précité, entrent en vigueur le premier jour du mois suivant celui de sa publication, à savoir le 1er novembre 2026.

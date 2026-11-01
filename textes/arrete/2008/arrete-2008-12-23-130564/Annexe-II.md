@@ -70,7 +70,7 @@ Chef de l'équipe logistique |
 
 Préfecture de l'Ardèche |
 
-Chef de garage - chauffeur automobile gestionnaire parc automobile |
+Agent de résidence - responsable de l'encadrement de l'hôtel du préfet de l'Ardèche |
 
 1 |
 
@@ -342,7 +342,7 @@ Maître d'hôtel de la résidence du préfet |
 
 Préfecture d'Indre-et-Loire |
 
-Adjoint au chef du garage |
+Chef du pôle garage et sécurité |
 
 1 |
 
@@ -626,7 +626,7 @@ Chef du garage |
 
 Préfecture du Rhône |
 
-Chef des huissiers |
+Chef de la section des huissiers |
 
 1 |
 
@@ -802,7 +802,7 @@ Maître d'hôtel de la résidence du préfet |
 
 Préfecture de la Vienne |
 
-Chef de cuisine |
+Gestionnaire logistique et budgétaire, gestionnaire du parc des véhicules |
 
 1 |
 
@@ -810,7 +810,7 @@ Chef de cuisine |
 
 Préfecture de la Vienne |
 
-Chef du garage |
+Conducteur automobile et adjoint au chef de garage |
 
 1 |
 
@@ -1126,9 +1126,9 @@ Adjoint au chef du service rapide de l'atelier de Saint-Fons |
 
 59 |
 
-SGAMI de la zone de défense et de sécurité Nord/ Lille |
+SGAMI de la zone de défense et de sécurité Nord/Direction de l'équipement et de la logistique/Bureau zonal de la maintenance des moyens mobiles (BZM3) / Lille |
 
-Adjoint au responsable de la mécanique automobile |
+Contrôleur technique |
 
 1 |
 
@@ -1618,7 +1618,7 @@ d'emplois
 
 ESOL Sud/Marseille-La Valentine |
 
-Adjoint au chef NRBC robotique |
+Adjoint au responsable du service approvisionnement |
 
 1 |
 
@@ -1648,9 +1648,9 @@ d'emplois
 
 75 |
 
-SEOM/CAB MIN |
+Bureau du cabinet de la ministre des outre-mer |
 
-Chauffeur du ministre |
+Chauffeur d'autorité des directeur et directeur-adjoint de la ministre des outre-mer (Hauts-fonctionnaires d'Etat) |
 
 1 |
 
@@ -1672,4 +1672,4 @@ Responsable de la cellule fabrication CNI |
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 7 avril 2025 (NOR : INTH2511116A), les dispositions dudit arrêté entrent en vigueur le premier jour du mois suivant celui de sa publication.
+Conformément à l'article 3 de l'arrêté du 30 septembre 2026 (NOR : INTH2621601A), ces dispositions, dans leur rédaction issue de l'article 2 de l'arrêté précité, entrent en vigueur le premier jour du mois suivant celui de sa publication, à savoir le 1er novembre 2026.
