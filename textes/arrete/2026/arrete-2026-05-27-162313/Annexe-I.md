@@ -42,17 +42,17 @@ E. Direction des achats de l'Etat
 
 F. Direction des affaires juridiques
 
-- chef de projet responsable de la cellule contentieux « Charbonnages de France » ;
+- chef de projet responsable de la cellule contentieux "Charbonnages de France" ;
 
-- chef de bureau « conseil aux acheteurs » ;
+- chef de bureau "conseil aux acheteurs" ;
 
-- responsable du pôle « ressources informatiques ».
+- responsable du pôle "ressources informatiques".
 
 G. Direction du budget
 
 - chef du bureau santé, jeunesse et sport au sein du département de contrôle budgétaire des ministères sociaux ;
 
-- référent « questions statutaires et indemnitaires dans la fonction publique de l'Etat » ;
+- référent "questions statutaires et indemnitaires dans la fonction publique de l'Etat" ;
 
 - responsable de coordination métier de projets SI budgétaires ;
 
@@ -96,7 +96,7 @@ J. Direction générale des douanes et droits indirects
 
 - adjoint au chef du bureau finances et immobilier, chef(fe) de la section budget et qualité comptable ;
 
-- adjoint au chef de bureau » Rémunérations, données, projets RH - chef(fe) de la section Rémunérations et reconnaissance des agents. »
+- adjoint au chef de bureau" Rémunérations, données, projets RH - chef(fe) de la section Rémunérations et reconnaissance des agents."
 
 K. Direction générale des entreprises
 
@@ -104,71 +104,71 @@ K. Direction générale des entreprises
 
 - adjoint au chef du bureau des affaires budgétaires et comptables au secrétariat général de la direction générale des entreprises, en charge du pilotage de la procédure budgétaire et du suivi de l'exécution pour l'ensemble des BOP et programmes relevant de la direction générale des entreprises ;
 
-- chef de projets « Réforme, tutelle et pilotage des chambres de métiers et de l'artisanat » ;
+- chef de projets "Réforme, tutelle et pilotage des chambres de métiers et de l'artisanat" ;
 
-- chef de projets « Réforme, tutelle et pilotage des chambres de commerce et d'industrie (CCI) » au service de l'économie de proximité ;
+- chef de projets "Réforme, tutelle et pilotage des chambres de commerce et d'industrie (CCI)" au service de l'économie de proximité ;
 
-- adjoint au chef du bureau de l'exécution financière au secrétariat général de la direction générale des entreprises, responsable du pôle « conventions et achats » ;
+- adjoint au chef du bureau de l'exécution financière au secrétariat général de la direction générale des entreprises, responsable du pôle "conventions et achats" ;
 
-- chef de projet « alertes aux populations » ;
+- chef de projet "alertes aux populations" ;
 
-- directeur de projets « Réforme, tutelle et pilotage des Chambres de métiers et de l'artisanat (CMA) » au service de l'économie et de proximité ;
+- directeur de projets "Réforme, tutelle et pilotage des Chambres de métiers et de l'artisanat (CMA)" au service de l'économie et de proximité ;
 
-- directeur de projet du groupe projet « communication » de la direction générale des entreprises ;
+- directeur de projet du groupe projet "communication" de la direction générale des entreprises ;
 
-- chef de projets « Menace économique étrangère et protection de la recherche » au service de l'information stratégique et de la sécurité économique ;
+- chef de projets "Menace économique étrangère et protection de la recherche" au service de l'information stratégique et de la sécurité économique ;
 
-- chef du pôle structurel « Aménagement commercial au service de l'économie et de proximité » ;
+- chef du pôle structurel "Aménagement commercial au service de l'économie et de proximité" ;
 
-- chef de projets « Négociations multilatérales télécoms et gouvernance de l'internet » au service de l'économie numérique ;
+- chef de projets "Négociations multilatérales télécoms et gouvernance de l'internet" au service de l'économie numérique ;
 
 - adjoint au chef du bureau de la gestion des effectifs et de proximité en charge des projets transverses et du suivi budgétaire au secrétariat général de la direction générale des entreprises ;
 
-- directeur de projets « Ingénierie et expertise économique » à la direction régionale de l'économie, de l'emploi, du travail et des solidarités Hauts-de-France ;
+- directeur de projets "Ingénierie et expertise économique" à la direction régionale de l'économie, de l'emploi, du travail et des solidarités Hauts-de-France ;
 
-- chef du service « Appui au pilotage, au sein du pôle ressources et pilotage » à la direction régionale de l'économie, de l'emploi, du travail et des solidarités de Nouvelle-Aquitaine ;
+- chef du service "Appui au pilotage, au sein du pôle ressources et pilotage" à la direction régionale de l'économie, de l'emploi, du travail et des solidarités de Nouvelle-Aquitaine ;
 
 - commissaire aux restructurations et à la prévention des difficultés des entreprises (CRP) à la direction régionale de l'économie, de l'emploi, du travail et des solidarités Grand-Est ;
 
-- expert consulaire - chef du service « Mutations économiques et développement des compétences » à la direction régionale de l'économie, de l'emploi, du travail et des solidarités Centre-Val de Loire ;
+- expert consulaire - chef du service "Mutations économiques et développement des compétences" à la direction régionale de l'économie, de l'emploi, du travail et des solidarités Centre-Val de Loire ;
 
 - chef de service adjoint du service économique de l'Etat en région à la direction régionale de l'économie, de l'emploi, du travail et des solidarités Provence-Alpes-Côte d'Azur ;
 
-- responsable du pôle « Entreprises, économie, emploi (3E) » à la direction de l'économie, de l'emploi, du travail et des solidarités Martinique
+- responsable du pôle "Entreprises, économie, emploi (3E)" à la direction de l'économie, de l'emploi, du travail et des solidarités Martinique
 
 L. Direction générale des finances publiques
 
 - secrétaire général auprès de la direction départementale des finances publiques de la Drôme (26) ;
 
-- chef du pôle « Pilotage de la gestion des cadres supérieurs » à la délégation de l'encadrement supérieur et des talents ;
+- chef du pôle "Pilotage de la gestion des cadres supérieurs" à la délégation de l'encadrement supérieur et des talents ;
 
-- responsable de la division « Dépenses de l'Etat » à la direction départementale des finances publiques des Yvelines (78) ;
+- responsable de la division "Dépenses de l'Etat" à la direction départementale des finances publiques des Yvelines (78) ;
 
 - responsable de la gouvernance des données à la délégation à la transformation numérique.
 
 M. Direction générale du Trésor
 
-- chef du bureau « Pilotage du réseau international » ;
+- chef du bureau "Pilotage du réseau international" ;
 
-- chef de bureau « Attractivité des investissements » ;
+- chef de bureau "Attractivité des investissements" ;
 
-- chef du bureau « Développement RH » ;
+- chef du bureau "Développement RH" ;
 
 - secrétaire général de l'Agence France Trésor ;
 
-- chef du bureau « Cadre de vie » ;
+- chef du bureau "Cadre de vie" ;
 
-- chef du bureau « Affaires budgétaires et comptables » ;
+- chef du bureau "Affaires budgétaires et comptables" ;
 
-- chef du bureau « Business France et partenaires de l'exportation » ;
+- chef du bureau "Business France et partenaires de l'exportation" ;
 
-- chef du bureau « Pôle Economie Sociale et Solidaire et Investissement à impact » ;
+- chef du bureau "Pôle Economie Sociale et Solidaire et Investissement à impact" ;
 
-- chef du bureau « Aide publique au développement ».
+- chef du bureau "Aide publique au développement".
 
 N. Direction interministérielle de la transformation publique
 
-- chargé de projet « France Simplification ».
+- chargé de projet "France Simplification".
 
 O. Inspection générale des finances
 
@@ -176,67 +176,67 @@ O. Inspection générale des finances
 
 P. Secrétariat général des affaires européennes
 
-- chef du bureau « Soutien et développements informatiques » ;
+- chef du bureau "Soutien et développements informatiques" ;
 
-- chef du bureau « Documentation et archives ».
+- chef du bureau "Documentation et archives".
 
 Q. Secrétariat général des ministères économiques et financiers
 
-- adjoint au chef du bureau du conseil, de l'innovation et de l'animation RH ;
+- chef de la mission applications numériques et données RH ;
 
 - adjoint au chef du bureau du pilotage ministériel de la chaîne de la dépense ;
 
-- chef du bureau « synthèse budgétaire, gestion des finances publiques » ;
+- chef du bureau "synthèse budgétaire, gestion des finances publiques" ;
 
-- adjoint au chef du bureau « projets et applications numériques » ;
+- adjoint au chef du bureau "projets et applications numériques" ;
 
-- adjoint au chef du bureau « immobilier et environnement de travail » (1er adjoint) ;
+- adjoint au chef du bureau "immobilier et environnement de travail" (1er adjoint) ;
 
 - chef du bureau des ressources internes ;
 
-- chef du bureau « immobilier et maîtrise d'ouvrage » ;
+- chef du bureau "immobilier et maîtrise d'ouvrage" ;
 
 - chef du bureau des transformations RH ;
 
 - adjoint au chef du bureau des prestations de services ;
 
-- adjoint au chef du bureau des personnels de catégories A, B et C ;
+- adjoint au chef du bureau des agents titulaires ;
 
 - adjoint au chef du département protection du secret du service du haut fonctionnaire de défense et de sécurité ;
 
 - adjoint au responsable du centre de services RH chargé du pilotage du contrôle interne et des process ;
 
-- chef du département « préparations aux concours et examens professionnels » de l'institut de la gestion publique et du développement économique ;
+- chef du département "préparations aux concours et examens professionnels" de l'institut de la gestion publique et du développement économique ;
 
 - adjoint au chef du bureau ressources chargé budgétaire ;
 
-- responsable du pôle « ATE et PPG » auprès du délégué à la synthèse, coordination, innovation ;
+- responsable du pôle "ATE et PPG" auprès du délégué à la synthèse, coordination, innovation ;
 
-- responsable du pôle « transformation du SG » auprès de la déléguée à la synthèse, coordination innovation (à compter du 1er juillet 2026) ;
+- responsable du pôle "transformation du SG" auprès de la déléguée à la synthèse, coordination innovation (à compter du 1er juillet 2026) ;
 
-- adjoint au chef du bureau « appui et moyens » ;
+- adjoint au chef du bureau "appui et moyens" ;
 
-- adjoint au chef du bureau « des emplois et de la masse salariale des programmes 134 et 218 » ;
+- adjoint au chef du bureau "des emplois et de la masse salariale des programmes 134 et 218" ;
 
-- chef du bureau « mobilités et distribution » ;
+- chef du bureau "mobilités et distribution" ;
 
 - adjoint au chef de bureau chargé de la synthèse budgétaire ;
 
-- adjoint au chef du bureau « immobilier et environnement de travail » (2e adjoint) ;
+- adjoint au chef du bureau "immobilier et environnement de travail" (2e adjoint) ;
 
-- chef du département « affaires financières et contrôle de gestion » ;
+- chef du département "affaires financières et contrôle de gestion" ;
 
-- chef de la cellule transverse « outils et cohérence de la donnée » ;
+- chef de la cellule transverse "outils et cohérence de la donnée" ;
 
-- chef du département « formations à la gestion publique » de l'Institut de la gestion publique et du développement économique ;
+- chef du département "formations à la gestion publique" de l'Institut de la gestion publique et du développement économique ;
 
 - chef du bureau de l'environnement numérique des agents ;
 
 - adjoint au chef du bureau des politiques sociales ;
 
-- adjoint au chef du bureau « interventions, fonctionnement, investissement des programmes 134, 218 et 366 » (jusqu'au 31 juillet 2026) ;
+- adjoint au chef du bureau "interventions, fonctionnement, investissement des programmes 134, 218 et 366" (jusqu'au 31 juillet 2026) ;
 
-- chef de bureau « pilotage ministériel de la chaîne de la dépense » (à compter du 1er août 2026) ;
+- chef de bureau "pilotage ministériel de la chaîne de la dépense" (à compter du 1er août 2026) ;
 
 - conseiller parcours professionnel et transformation RH à la délégation à l'encadrement supérieur.
 
@@ -244,9 +244,9 @@ R. Service des retraites de l'Etat
 
 - adjoint au chef du bureau des retraites ;
 
-- chef du bureau « Support transverse et coordination » ;
+- chef du bureau "Support transverse et coordination" ;
 
-- adjoint au chef de bureau « Processus compte individuel de retraite » (bureau 2 D).
+- adjoint au chef de bureau "Processus compte individuel de retraite" (bureau 2 D).
 
 S. Service du Traitement du renseignement et action contre les circuits financiers clandestins (TRACFIN)
 
@@ -256,6 +256,10 @@ S. Service du Traitement du renseignement et action contre les circuits financie
 
 T. Service du contrôle général économique et financier
 
-- membre de la mission « Contrôle des opérations dans le secteur agricole » ;
+- membre de la mission "Contrôle des opérations dans le secteur agricole" ;
 
 - secrétaire général adjoint- Responsable du pôle administration générale.
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 22 octobre 2026 (NOR : ECOP2628277A), ces dispositions, dans leur rédaction issue de l'article 1er de l'arrêté précité, entrent en vigueur à compter du 1er novembre 2026.
