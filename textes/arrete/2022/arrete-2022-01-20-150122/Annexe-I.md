@@ -32,7 +32,9 @@ Adjoint au chef de pôle élaboration et suivi des procédures des marchés publ
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 DAGF Centre de services partagés (CSP Chorus) Bureau des dépenses courantes Marseille (13) |
 
@@ -44,7 +46,9 @@ Chef du pôle dépenses mutualisées SGAMI |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Chef du pôle BOP zonaux |
 
@@ -54,7 +58,9 @@ Chef du pôle BOP zonaux |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 DAGF/ CSP Chorus
 
@@ -68,7 +74,9 @@ Chef du pôle validation |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Adjoint au chef du bureau de la performance financière |
 
@@ -78,7 +86,9 @@ Adjoint au chef du bureau de la performance financière |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 DAGF
 
@@ -94,7 +104,9 @@ Chef du pôle dépenses fonctionnaires et recettes |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Chef du pôle marchés |
 
@@ -104,7 +116,9 @@ Chef du pôle marchés |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Gestionnaire dépenses marchés |
 
@@ -114,7 +128,9 @@ Gestionnaire dépenses marchés |
 
 3 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 3 ans |
 
@@ -122,7 +138,9 @@ Gestionnaire dépenses marchés |
 
 4 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 DRH/ Bureau des personnels actifs Marseille (13) |
 
@@ -134,7 +152,9 @@ Gestionnaire RH section discipline |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 DRH/ BPA Marseille (13) |
 
@@ -146,7 +166,9 @@ Chef de section ROPN |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Adjoint au chef de la section ROPN |
 
@@ -156,7 +178,7 @@ Adjoint au chef de la section ROPN |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er septembre 2025 |
 
 Chef de la section carrière/ discipline |
 
@@ -166,7 +188,9 @@ Chef de la section carrière/ discipline |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 DRH/ Bureau des personnels administratifs, techniques et scientifiques Marseille (13) |
 
@@ -178,7 +202,7 @@ Chef de la section Gestion administrative |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er septembre 2025 |
 
 Gestionnaire RH GA/ Paye |
 
@@ -188,7 +212,9 @@ Gestionnaire RH GA/ Paye |
 
 5 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 DRH/ BPATS Marseille (13) |
 
@@ -200,7 +226,9 @@ Chef de section policiers adjoints |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 DRH/ PESE Marseille (13) |
 
@@ -212,7 +240,9 @@ Chef du pôle d'expertise et de services |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Adjoint au chef du pôle d'expertise et de services |
 
@@ -222,7 +252,9 @@ Adjoint au chef du pôle d'expertise et de services |
 
 2 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef de section au PESE |
 
@@ -232,7 +264,9 @@ Chef de section au PESE |
 
 4 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 DSIC
 
@@ -246,7 +280,9 @@ Chef du pôle réseau téléphonie |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef de projet réseaux |
 
@@ -256,7 +292,9 @@ Chef de projet réseaux |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Technicien réseaux |
 
@@ -266,7 +304,9 @@ Technicien réseaux |
 
 4 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Techniciens Infrastructure réseaux et téléphonie |
 
@@ -276,7 +316,9 @@ Techniciens Infrastructure réseaux et téléphonie |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 DSIC/
 
@@ -290,7 +332,9 @@ Technicien réseaux |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 DSIC/
 
@@ -304,7 +348,9 @@ Responsable d'opérations en zone sud en infrastructures réseaux |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 DSIC/ Bureau des réseaux fixes DT Colomiers (31) |
 
@@ -316,7 +362,9 @@ Chef du pôle BRF Toulouse |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 DSIC/ Bureau des réseaux mobiles/ Pôle MCO-Ajaccio (2A) |
 
@@ -328,7 +376,9 @@ Technicien radio |
 
 2 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 DSIC/ Bureau des réseaux mobiles/ Pôle MCO-Bastia (2B) |
 
@@ -340,7 +390,9 @@ Technicien radio |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 DSIC/ Bureau des réseaux mobiles Toulouse (31) |
 
@@ -352,7 +404,9 @@ Technicien radio |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 DSIC/ Bureau des réseaux mobiles Marseille (13) |
 
@@ -364,7 +418,9 @@ Chargé de mission réseau air sol |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 DSIC/ Bureau des réseaux mobiles, pôle opérateur Marseille (13) |
 
@@ -376,7 +432,9 @@ Technicien radio |
 
 3 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Chef de pôle opérateur |
 
@@ -386,7 +444,9 @@ Chef de pôle opérateur |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 DSIC/ Bureau des réseaux mobiles, pôle opérateur Montpellier (34) |
 
@@ -398,7 +458,9 @@ Technicien radio |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 DSIC/ Bureau des réseaux mobiles/ Pôle MCO Marseille (13) |
 
@@ -410,7 +472,9 @@ Chef de pôle Maintien en condition opérationnelle |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Technicien radio |
 
@@ -420,7 +484,9 @@ Technicien radio |
 
 3 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 DSIC/ Bureau des réseaux mobiles/ Pôle MCO Montpellier (34) |
 
@@ -432,7 +498,9 @@ Technicien radio |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 DSIC/ Bureau des systèmes d'information Marseille (13) |
 
@@ -444,7 +512,9 @@ Expert système et réseaux |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 DSIC/ Pôle défense et évènement Marseille (13) |
 
@@ -456,7 +526,9 @@ Chef du pôle défense et évènements |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 DI/ Direction |
 
@@ -524,7 +596,9 @@ Chargé d'opérations immobilières |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 DI/ BRAI PACA Corse Ajaccio (2A) |
 
@@ -536,7 +610,9 @@ Chargé de projets immobiliers |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chargé d'opérations immobilières |
 
@@ -546,7 +622,9 @@ Chargé d'opérations immobilières |
 
 3 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 DI/ BRAI PACA Corse Nice (06) |
 
@@ -558,7 +636,9 @@ Chef de projets immobiliers |
 
 3 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chargé d'opérations immobilières |
 
@@ -568,7 +648,9 @@ Chargé d'opérations immobilières |
 
 2 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 DI/ BRAI Occitanie Colomiers (31) |
 
@@ -580,7 +662,9 @@ Chargé d'opérations immobilières |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Direction de l'équipement et de la logistique (DEL) Marseille (13) |
 
@@ -592,7 +676,9 @@ Chef d'atelier |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Armurier |
 
@@ -602,7 +688,9 @@ Armurier |
 
 5 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 DEL Colomiers (31) |
 
@@ -614,7 +702,9 @@ Chef d'atelier |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 DEL/ BMM Montpellier (34) |
 
@@ -626,7 +716,9 @@ Carrossier |
 
 5 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 DEL Montpellier (34) |
 
@@ -638,7 +730,9 @@ Chef d'atelier |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 DEL Nice (06) |
 
@@ -650,7 +744,9 @@ Chef d'atelier |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 DEL/ BMM Antenne Nice (06) |
 
@@ -662,7 +758,9 @@ Carrossier |
 
 4 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Mécanicien automobile |
 
@@ -672,7 +770,9 @@ Mécanicien automobile |
 
 9 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 2. Secrétariat général pour l'administration du ministère de l'intérieur (SGAMI) Est : 62 postes
 
@@ -702,7 +802,9 @@ Mécanicien électricien auto |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Direction de l'équipement et de la logistique Espace Riberpray
 
@@ -716,7 +818,9 @@ Mécanicien électricien auto |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Direction de l'équipement et de l logistique-atelier de Mulhouse-(68) |
 
@@ -728,7 +832,9 @@ Mécanicien auto |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Direction de l'équipement et de la logistique Atelier de Dijon (21) |
 
@@ -740,7 +846,9 @@ Mécanicien électricien auto |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Direction de l'équipement et de la logistique Atelier de Nancy (54) |
 
@@ -752,7 +860,9 @@ Mécanicien électricien auto/ moto |
 
 2 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Direction de l'équipement et de la logistique Atelier de Auxerre (89) |
 
@@ -764,7 +874,9 @@ Carrossier/ peintre |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Direction de l'administration générale et des finances
 
@@ -778,7 +890,9 @@ Chef de section marchés de travaux |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Gestionnaire de recettes non fiscales |
 
@@ -788,7 +902,9 @@ Gestionnaire de recettes non fiscales |
 
 4 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chef de section dépenses médicales et action sociale |
 
@@ -798,7 +914,9 @@ Chef de section dépenses médicales et action sociale |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chef de section BOP centraux et 303 |
 
@@ -808,7 +926,9 @@ Chef de section BOP centraux et 303 |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Gestionnaire appui technique |
 
@@ -818,7 +938,9 @@ Gestionnaire appui technique |
 
 3 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Gestionnaire prestations financières-référent immobilisations corporelles |
 
@@ -862,7 +984,9 @@ Chargé/ chef de projets |
 
 4 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Conducteur d'opérations |
 
@@ -872,7 +996,7 @@ Conducteur d'opérations |
 
 4 |
 
-1<sup>er</sup> septembre 2025 |
+1er septembre 2025 |
 
 Département des affaires immobilières Grand Est Alsace et Territoire de Belfort (67) |
 
@@ -884,7 +1008,7 @@ Chargé de projets immobiliers |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er septembre 2025 |
 
 Département Réseaux
 
@@ -898,7 +1022,9 @@ Technicien en réseaux et télécommunications |
 
 4 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Technicien en réseaux et sécurisation bâtimentaire |
 
@@ -908,7 +1034,9 @@ Technicien en réseaux et sécurisation bâtimentaire |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Département réseau Antenne de Dijon (21) |
 
@@ -920,7 +1048,9 @@ Technicien en réseaux et télécommunications |
 
 4 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Technicien en réseaux et sécurisation bâtimentaire |
 
@@ -930,7 +1060,7 @@ Technicien en réseaux et sécurisation bâtimentaire |
 
 4 |
 
-1<sup>er</sup> septembre 2025 |
+1er septembre 2025 |
 
 Bureau DATACENTER Espace Riberpray Metz (57) |
 
@@ -942,7 +1072,9 @@ Technicien de proximité Data Center |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Département pilotage et coordination des moyens (57) |
 
@@ -954,7 +1086,9 @@ Ingénieur chargé du développement de l'offre de service de la DSIC |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Espace Riberpray Metz (57) |
 
@@ -968,7 +1102,9 @@ Chef de section des personnels administratifs techniques, scientifiques et ouvri
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef de section des personnels non titulaires et cultes
 
@@ -980,7 +1116,9 @@ Chef de section des personnels non titulaires et cultes
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Gestionnaire paie section des personnels administratifs techniques, scientifiques et ouvriers
 
@@ -992,7 +1130,9 @@ Gestionnaire paie section des personnels administratifs techniques, scientifique
 
 11 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Référent paie et accompagnement des gestionnaires |
 
@@ -1002,7 +1142,9 @@ Référent paie et accompagnement des gestionnaires |
 
 2 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 3. Secrétariat général pour l'administration du ministère de l'intérieur (SGAMI) Nord : 41 postes
 
@@ -1034,7 +1176,9 @@ chef de projets des systèmes numériques |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Ingénieur systèmes d'information-spécialité développeur |
 
@@ -1044,7 +1188,9 @@ Ingénieur systèmes d'information-spécialité développeur |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Auditeur en cyber sécurité |
 
@@ -1054,7 +1200,9 @@ Auditeur en cyber sécurité |
 
 3 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Expert en numérique-spécialité systèmes applicatifs |
 
@@ -1064,7 +1212,9 @@ Expert en numérique-spécialité systèmes applicatifs |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chef de projet-Expert Datacenter |
 
@@ -1074,7 +1224,9 @@ Chef de projet-Expert Datacenter |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Concepteur développeur d'application |
 
@@ -1084,7 +1236,9 @@ Concepteur développeur d'application |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 SGAMI Nord
 
@@ -1098,7 +1252,9 @@ Chef du bureau des études et investissement |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au chef du bureau des études et investissements |
 
@@ -1108,7 +1264,9 @@ Adjoint au chef du bureau des études et investissements |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chef du bureau des travaux |
 
@@ -1118,7 +1276,9 @@ Chef du bureau des travaux |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au chef du bureau des travaux |
 
@@ -1128,7 +1288,9 @@ Adjoint au chef du bureau des travaux |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chef du bureau du patrimoine |
 
@@ -1138,7 +1300,9 @@ Chef du bureau du patrimoine |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 SGAMI Nord
 
@@ -1152,7 +1316,9 @@ Armurier |
 
 12 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Carrossier |
 
@@ -1162,7 +1328,9 @@ Carrossier |
 
 16 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 4. Secrétariat général pour l'administration du ministère de l'intérieur (SGAMI) Ouest : 118
 
@@ -1198,7 +1366,9 @@ Chef de bureau |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au chef de bureau |
 
@@ -1208,7 +1378,9 @@ Adjoint au chef de bureau |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chef de projet immobilier |
 
@@ -1218,7 +1390,9 @@ Chef de projet immobilier |
 
 5 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chargé de conduite d'opération d'entretien et de maintenance |
 
@@ -1228,7 +1402,9 @@ Chargé de conduite d'opération d'entretien et de maintenance |
 
 2 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Direction de l'immobilier bureau régional de l'immobilier Normandie
 
@@ -1242,7 +1418,9 @@ Chef de bureau |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au chef de bureau |
 
@@ -1252,7 +1430,9 @@ Adjoint au chef de bureau |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chef de projet immobilier |
 
@@ -1262,7 +1442,9 @@ Chef de projet immobilier |
 
 5 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chargé de conduite d'opération d'entretien et de maintenance |
 
@@ -1272,7 +1454,9 @@ Chargé de conduite d'opération d'entretien et de maintenance |
 
 4 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Direction de l'immobilier bureau régional de l'immobilier Bretagne Rennes (35) |
 
@@ -1286,7 +1470,9 @@ Chef de l'atelier régie |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Ouvrier de maintenance de l'infrastructure-
 
@@ -1298,7 +1484,9 @@ Menuisier plaquiste |
 
 2 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Ouvrier de maintenance de l'infrastructure-
 
@@ -1310,7 +1498,9 @@ Multi technique |
 
 2 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Ouvrier de maintenance de l'infrastructure-Peintre revêtements de sol |
 
@@ -1320,7 +1510,9 @@ Ouvrier de maintenance de l'infrastructure-Peintre revêtements de sol |
 
 3 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Direction de l'immobilier bureau régional de l'immobilier
 
@@ -1336,7 +1528,9 @@ Ouvrier de maintenance de l'infrastructure-Menuisier plaquiste-Chef d'atelier |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Ouvrier de maintenance de l'infrastructure-Électricien |
 
@@ -1346,7 +1540,9 @@ Ouvrier de maintenance de l'infrastructure-Électricien |
 
 2 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Ouvrier de maintenance de l'infrastructure-Menuisier |
 
@@ -1356,7 +1552,9 @@ Ouvrier de maintenance de l'infrastructure-Menuisier |
 
 3 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Ouvrier de maintenance de l'infrastructure-Peintre plaquiste |
 
@@ -1366,7 +1564,9 @@ Ouvrier de maintenance de l'infrastructure-Peintre plaquiste |
 
 2 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Direction de l'immobilier bureau régional de l'immobilier Normandie-Oissel (76) |
 
@@ -1378,7 +1578,9 @@ Ouvrier de maintenance de l'infrastructure-Peintre plaquiste ouvrier polyvalent 
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Ouvrier de maintenance de l'infrastructure-Électricien ouvrier polyvalent |
 
@@ -1388,7 +1590,9 @@ Ouvrier de maintenance de l'infrastructure-Électricien ouvrier polyvalent |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Direction de l'équipement et de la logistique Atelier de soutien automobile du ministère de l'intérieur Oissel (76) |
 
@@ -1400,7 +1604,9 @@ Direction de l'équipement et de la logistique Atelier de soutien automobile du 
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 DEL Atelier de soutien automobile du ministère de l'intérieur Rennes (35) |
 
@@ -1412,7 +1618,9 @@ DEL Atelier de soutien automobile du ministère de l'intérieur Rennes (35) |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 DEL Atelier de soutien automobile du ministère de l'intérieur Nantes (44) |
 
@@ -1424,7 +1632,9 @@ Mécanicien polyvalent deux roues |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Carrossier-Peintre polyvalent |
 
@@ -1434,7 +1644,9 @@ Carrossier-Peintre polyvalent |
 
 2 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Électricien automobile |
 
@@ -1444,7 +1656,9 @@ Carrossier-Peintre polyvalent |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Mécanicien polyvalent |
 
@@ -1454,7 +1668,9 @@ Mécanicien polyvalent |
 
 5 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 DEL Atelier de soutien automobile du ministère de l'intérieur
 
@@ -1468,7 +1684,9 @@ Mécanicien polyvalent |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Mécanicien polyvalent deux roues |
 
@@ -1478,7 +1696,9 @@ Mécanicien polyvalent deux roues |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 DEL Atelier de soutien automobile du ministère de l'intérieur
 
@@ -1492,7 +1712,9 @@ Saint-Cyr-sur-Loire (37) |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 DEL-BSO-CO-Atelier numérique du ministère de l'Intérieur-Oissel (76) |
 
@@ -1504,11 +1726,13 @@ Imprimeur 3D |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Direction zonale du numérique Bureau étude et projet-Rennes (35) |
 
-Chef de projet en systèmes et réseaux d'information et de communication |
+Conseiller numérique |
 
 3 ans |
 
@@ -1516,9 +1740,11 @@ Chef de projet en systèmes et réseaux d'information et de communication |
 
 7 |
 
-1<sup>er</sup> janvier 2024 |
+1er
 
-Chef de projet en systèmes et réseaux d'information et de communication-expert vidéo |
+janvier 2024 |
+
+Conseiller numérique-expert vidéo |
 
 3 ans |
 
@@ -1526,13 +1752,15 @@ Chef de projet en systèmes et réseaux d'information et de communication-expert
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Direction zonale du numérique Bureau étude et projet
 
 Saint-Cyr-sur-Loire (37) |
 
-Chef de projet en systèmes et réseaux d'information et de communication |
+Conseiller numérique |
 
 3 ans |
 
@@ -1540,11 +1768,13 @@ Chef de projet en systèmes et réseaux d'information et de communication |
 
 2 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Direction zonale du numérique Bureau étude et projet-Nantes (44) |
 
-Chef de projet en systèmes et réseaux d'information et de communication |
+Conseiller numérique |
 
 3 ans |
 
@@ -1552,7 +1782,9 @@ Chef de projet en systèmes et réseaux d'information et de communication |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Direction zonale du numérique
 
@@ -1568,7 +1800,9 @@ Chef de projet sécurité numérique-Expert |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Direction zonale du numérique Bureau étude et projet section hébergement data center Rennes (35) |
 
@@ -1580,7 +1814,9 @@ Architecte en systèmes d'information et réseaux de communication |
 
 3 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Direction zonale du numérique Bureau pilotage soutien synthèse section soutien utilisateur Rennes (35) |
 
@@ -1592,7 +1828,9 @@ Technicien de proximité |
 
 4 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Administrateur réseaux-Technicien de proximité |
 
@@ -1602,7 +1840,9 @@ Administrateur réseaux-Technicien de proximité |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Direction zonale du numérique Bureau déploiement exploitation maintenance-Rennes (35) |
 
@@ -1614,7 +1854,9 @@ Technicien réseaux et systèmes d'information et de communication |
 
 7 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Technicien vidéo |
 
@@ -1624,7 +1866,9 @@ Technicien vidéo |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Direction zonale du numérique Bureau déploiement exploitation maintenance
 
@@ -1638,7 +1882,9 @@ Technicien réseaux et systèmes d'information et de communication |
 
 6 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Direction zonale du numérique Bureau pilotage soutien synthèse section soutien utilisateur Saint-Cyr-sur-Loire (37) |
 
@@ -1650,7 +1896,9 @@ Technicien proximité |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Direction zonale du numérique Bureau déploiement exploitation maintenance
 
@@ -1664,7 +1912,9 @@ Administrateur systèmes d'information et réseaux |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Direction zonale du numérique Bureau de l'innovation et développement logiciel Rennes (35) |
 
@@ -1676,7 +1926,9 @@ Concepteur développeur intégrateur d'applications web-Expert CMS |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Direction zonale du numérique
 
@@ -1690,11 +1942,13 @@ Technicien réseaux et systèmes d'information et de communication-Expert |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Direction zonale du numérique-Bureau étude et projet-Caen (14) |
 
-Chef de projet en systèmes et réseaux d'information et de communication |
+Conseiller numérique |
 
 3 ans |
 
@@ -1702,7 +1956,9 @@ Chef de projet en systèmes et réseaux d'information et de communication |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Direction zonale du numérique Bureau déploiement exploitation maintenance-Nantes (44) |
 
@@ -1714,7 +1970,9 @@ Technicien réseaux et systèmes d'information et de communication Expert |
 
 2 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Direction de l'administration générale et des finances-bureau zonal des achats et des marchés publics |
 
@@ -1726,7 +1984,9 @@ Acheteur polyvalent |
 
 6 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Direction de l'administration générale et des finances-bureau zonal des budgets |
 
@@ -1738,7 +1998,9 @@ Gestionnaire budgétaire |
 
 4 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Direction des ressources humaines
 
@@ -1752,7 +2014,9 @@ Chef de la section des indus |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Gestionnaire-cellule des indus |
 
@@ -1762,7 +2026,9 @@ Gestionnaire-cellule des indus |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Responsable cellule contrôle interne |
 
@@ -1772,7 +2038,9 @@ Responsable cellule contrôle interne |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Gestionnaire à la cellule de contrôle interne |
 
@@ -1782,7 +2050,9 @@ Gestionnaire à la cellule de contrôle interne |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chef de section paie-chargé de mission zonal dématérialisation de la paie-référents D2/ GLPI |
 
@@ -1792,7 +2062,9 @@ Chef de section paie-chargé de mission zonal dématérialisation de la paie-ré
 
 2 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Direction des ressources humaines
 
@@ -1808,7 +2080,9 @@ Gestionnaire des indemnités |
 
 3 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 5. Secrétariat général pour l'administration du ministère de l'intérieur (SGAMI) Sud-Est : 90 postes
 
@@ -1840,7 +2114,9 @@ Chef du bureau de l'achat et de la commande publique |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Adjoint au chef du bureau de l'achat et de la commande publique |
 
@@ -1850,7 +2126,9 @@ Adjoint au chef du bureau de l'achat et de la commande publique |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Direction de l'administration générale et des finances
 
@@ -1866,7 +2144,9 @@ Chef de section centre de services partagés Chorus |
 
 8 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 chef de bureau au sein du centre de services partagés CHORUS |
 
@@ -1876,7 +2156,9 @@ chef de bureau au sein du centre de services partagés CHORUS |
 
 3 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chef du centre de services partagés Chorus |
 
@@ -1886,7 +2168,9 @@ Chef du centre de services partagés Chorus |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Direction des Ressources Humaines
 
@@ -1900,7 +2184,9 @@ Chef du bureau des rémunérations |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au chef du bureau des rémunérations |
 
@@ -1910,7 +2196,9 @@ Adjoint au chef du bureau des rémunérations |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chef du pôle expertise et qualité |
 
@@ -1920,7 +2208,9 @@ Chef du pôle expertise et qualité |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chef de section |
 
@@ -1930,7 +2220,9 @@ Chef de section |
 
 3 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Analyste au pôle expertise de la paie |
 
@@ -1940,7 +2232,9 @@ Analyste au pôle expertise de la paie |
 
 6 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Direction de l'immobilier
 
@@ -1956,7 +2250,9 @@ Che du bureau des affaires financières et immobilières |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Adjoint au chef de bureau des affaires financières et immobilières |
 
@@ -1966,7 +2262,9 @@ Adjoint au chef de bureau des affaires financières et immobilières |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chef de section au bureau des affaires financières et immobilières |
 
@@ -1976,7 +2274,9 @@ Chef de section au bureau des affaires financières et immobilières |
 
 2 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Adjoint au chef du bureau stratégie et prospective immobilière |
 
@@ -1986,7 +2286,9 @@ Adjoint au chef du bureau stratégie et prospective immobilière |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chef des équipes ouvrières |
 
@@ -1996,7 +2298,9 @@ Chef des équipes ouvrières |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au chef
 
@@ -2008,7 +2312,9 @@ des équipes ouvrières |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Direction de l'immobilier
 
@@ -2022,7 +2328,9 @@ Chef section locale immobilière |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chargé maintenance exploitation |
 
@@ -2032,7 +2340,9 @@ Chargé maintenance exploitation |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chargé d'opération |
 
@@ -2042,7 +2352,9 @@ Chargé d'opération |
 
 2 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Direction de l'équipement et de la logistique-
 
@@ -2056,7 +2368,9 @@ Chef du bureau de gestion des moyens mobiles |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chef de l'atelier |
 
@@ -2066,7 +2380,9 @@ Chef de l'atelier |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chef du service rapide |
 
@@ -2076,7 +2392,9 @@ Chef du service rapide |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chef du bureau de gestion et de coordination |
 
@@ -2086,7 +2404,9 @@ Chef du bureau de gestion et de coordination |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chef de section au bureau de gestion et de coordination |
 
@@ -2096,7 +2416,9 @@ Chef de section au bureau de gestion et de coordination |
 
 2 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Direction de l'équipement et de la logistique-
 
@@ -2110,7 +2432,9 @@ Chef de l'atelier avancé |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Direction de l'équipement et de la logistique-
 
@@ -2124,7 +2448,9 @@ Chef de l'atelier avancé |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Direction de l'équipement et de la logistique-
 
@@ -2138,7 +2464,9 @@ Chef de l'atelier avancé |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Direction de l'équipement et de la logistique-
 
@@ -2152,7 +2480,9 @@ Chef de l'atelier avancé |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Direction des systèmes d'information et de communication
 
@@ -2168,7 +2498,9 @@ Directeur des systèmes d'information et de communication |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au directeur des systèmes d'information et de communication |
 
@@ -2178,7 +2510,9 @@ Adjoint au directeur des systèmes d'information et de communication |
 
 2 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Superviseur du CESI |
 
@@ -2188,7 +2522,9 @@ Superviseur du CESI |
 
 14 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chef du département des réseaux mobiles |
 
@@ -2198,7 +2534,9 @@ Chef du département des réseaux mobiles |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Adjoint au chef du département des réseaux mobiles |
 
@@ -2208,7 +2546,9 @@ Adjoint au chef du département des réseaux mobiles |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chef de bureau au département des réseaux mobiles |
 
@@ -2218,7 +2558,9 @@ Chef de bureau au département des réseaux mobiles |
 
 2 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chef du centre d'exploitation
 
@@ -2230,7 +2572,9 @@ et supervision de l'infrastructure nationale partageable des transmissions (INPT
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Ingénieur réseau et télécom-supervision |
 
@@ -2240,7 +2584,9 @@ Ingénieur réseau et télécom-supervision |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Administrateur système et réseau télécom |
 
@@ -2250,7 +2596,9 @@ Administrateur système et réseau télécom |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Technicien réseaux de communication mobiles-section intervention soutien |
 
@@ -2260,7 +2608,9 @@ Technicien réseaux de communication mobiles-section intervention soutien |
 
 8 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Direction des systèmes d'information et de communication
 
@@ -2274,7 +2624,9 @@ Technicien réseaux de communication mobiles-section intervention soutien |
 
 2 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Direction des systèmes d'information et de communication
 
@@ -2288,7 +2640,9 @@ Technicien réseaux de communication mobiles-section intervention soutien |
 
 4 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Direction des systèmes d'information et de communication
 
@@ -2302,7 +2656,9 @@ Technicien réseaux de communication mobiles-section exploitation |
 
 5 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 6. Secrétariat général pour l'administration du ministère de l'intérieur (SGAMI) Sud-Ouest : 72 postes
 
@@ -2334,7 +2690,9 @@ Chef du bureau du pilotage et de la performance budgétaire |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au chef du bureau du pilotage et de la performance budgétaire |
 
@@ -2344,7 +2702,9 @@ Adjoint au chef du bureau du pilotage et de la performance budgétaire |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chef de section pilotage et animation budgétaire BOP 176, UO 303 et CAS 723 |
 
@@ -2354,7 +2714,9 @@ Chef de section pilotage et animation budgétaire BOP 176, UO 303 et CAS 723 |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Direction de l'administration et des finances
 
@@ -2368,7 +2730,9 @@ Chef de pôle |
 
 3 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Gestionnaire CSP Chorus actes complexes immobilier |
 
@@ -2378,7 +2742,9 @@ Gestionnaire CSP Chorus actes complexes immobilier |
 
 5 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 DAF/ Bureau de la commande publique Bordeaux (33) |
 
@@ -2390,7 +2756,9 @@ Chef de bureau |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Adjoint au chef de bureau |
 
@@ -2400,7 +2768,9 @@ Adjoint au chef de bureau |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Acheteur-pôle fourniture et services |
 
@@ -2410,7 +2780,9 @@ Acheteur-pôle fourniture et services |
 
 4 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Acheteur-pôle travaux et maîtrise d'oeuvre |
 
@@ -2420,7 +2792,9 @@ Acheteur-pôle travaux et maîtrise d'oeuvre |
 
 5 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Direction des ressources humaines/ Bureau des rémunérations
 
@@ -2434,7 +2808,9 @@ Chef de section pré-liquidation de la paie |
 
 4 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 État-major/ Bureau de la maîtrise des risques et du contrôle/ Section contrôle de gestion
 
@@ -2448,7 +2824,9 @@ Contrôleur de gestion |
 
 2 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 État-major
 
@@ -2462,7 +2840,9 @@ Chef du secrétariat médical statutaire et du secrétariat du conseil médical 
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au chef du secrétariat médical statutaire et du secrétariat du conseil médical |
 
@@ -2472,7 +2852,9 @@ Adjoint au chef du secrétariat médical statutaire et du secrétariat du consei
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Direction de l'équipement et de la logistique/ Bureau de gestion des moyens mobiles/ Atelier régional 33
 
@@ -2486,7 +2868,9 @@ Chef de l'atelier régional de Bordeaux |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Carrossier-peintre automobile |
 
@@ -2496,7 +2880,9 @@ Carrossier-peintre automobile |
 
 6 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Mécanicien automobile (VL/ PL) |
 
@@ -2506,7 +2892,9 @@ Mécanicien automobile (VL/ PL) |
 
 14 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Mécanicien motocycle |
 
@@ -2516,7 +2904,9 @@ Mécanicien motocycle |
 
 3 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Direction de l'immobilier-Bordeaux (33) |
 
@@ -2528,7 +2918,9 @@ Chef du bureau zonal administratif et comptable |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 DI/ Bureau zonal des affaires immobilières-Bordeaux (33) |
 
@@ -2540,7 +2932,9 @@ Chef de la section immobilière Gironde |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 DI/ Bureau zonal du patrimoine-Bordeaux (33) |
 
@@ -2552,7 +2946,9 @@ Adjoint au chef du bureau/ Chef de la section maintenance immobilière |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 DI/ Bureau zonal du patrimoine/ Section maintenance immobilière Bordeaux (33) |
 
@@ -2564,7 +2960,9 @@ Contrôleur du suivi de la politique maintenance immobilière |
 
 2 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Direction de l'immobilier/ Pôle coordination appui et pilotage-Bordeaux (33) |
 
@@ -2576,7 +2974,9 @@ Ingénieur immobilier économie de la construction |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Direction de l'immobilier/ Service local immobilier Aquitaine Nord-Bordeaux (33) |
 
@@ -2588,7 +2988,9 @@ Serrurier-métallier |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Direction des systèmes d'information et de communication/ Cellule sûreté bâtimentaire Bordeaux (33) |
 
@@ -2600,7 +3002,9 @@ Chargé de mission sûreté bâtimentaire |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 DSIC/ Département réseaux fixes
 
@@ -2614,7 +3018,9 @@ Chef du bureau déploiement et soutien |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 DSIC/ Département réseaux fixes/ Bureau conception et ingénierie
 
@@ -2628,7 +3034,9 @@ Chargé d'études réseaux et télécoms |
 
 2 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 DSIC/ Département système support et développement/ Bureau système/ Datacenter Bordeaux (33) |
 
@@ -2640,7 +3048,9 @@ Ingénieur systèmes et réseaux |
 
 3 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 DSIC/ Département système support et développement/ CCN MAARCH Bordeaux |
 
@@ -2652,7 +3062,9 @@ Technicien d'application |
 
 4 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 7. Préfecture des Alpes-de-Haute-Provence (04) : 14 postes
 
@@ -2682,7 +3094,9 @@ Chef du SIDSIC |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Sous-préfecture 04400 Barcelonnette |
 
@@ -2694,7 +3108,9 @@ Secrétaire général de la sous-préfecture de Barcelonnette |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Sous-préfecture 04120 Castellane |
 
@@ -2706,7 +3122,9 @@ Secrétaire général de la sous-préfecture de Castellane |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Sous-préfecture 04300 Forcalquier |
 
@@ -2718,7 +3136,9 @@ Secrétaire général de la sous-préfecture de Forcalquier |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Secrétariat général commun départemental (SGCD) 04000 Digne-les-Bains |
 
@@ -2730,7 +3150,9 @@ Chef du pôle budget du service budget et moyens logistiques du SGCD |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Gestionnaire mobilité/ recrutement au service des ressources humaines |
 
@@ -2740,7 +3162,9 @@ Gestionnaire mobilité/ recrutement au service des ressources humaines |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Préfecture 04000 Digne-les-Bains |
 
@@ -2752,7 +3176,9 @@ Chef du service départemental de la communication interministérielle et de la 
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef du service interministériel de défense et de protection civiles |
 
@@ -2762,7 +3188,9 @@ Chef du service interministériel de défense et de protection civiles |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef du service du cabinet et de la sécurité intérieure |
 
@@ -2772,7 +3200,9 @@ Chef du service du cabinet et de la sécurité intérieure |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef du bureau des étrangers et des usagers de la route |
 
@@ -2782,7 +3212,9 @@ Chef du bureau des étrangers et des usagers de la route |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chargé du séjour et de l'éloignement au bureau des étrangers |
 
@@ -2792,7 +3224,9 @@ Chargé du séjour et de l'éloignement au bureau des étrangers |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef du service de coordination des politiques publiques |
 
@@ -2802,7 +3236,9 @@ Chef du service de coordination des politiques publiques |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Secrétaire particulier du préfet |
 
@@ -2812,7 +3248,9 @@ Secrétaire particulier du préfet |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Instructeur en charge de la dotation d'équipement des territoires ruraux au bureau des finances locales |
 
@@ -2822,7 +3260,9 @@ Instructeur en charge de la dotation d'équipement des territoires ruraux au bur
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 8. Préfecture de l'Eure (27) : 18 postes
 
@@ -2852,7 +3292,9 @@ Chef de service au SGCD |
 
 4 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Adjoint au chef de service au sein du SGCD |
 
@@ -2862,7 +3304,9 @@ Adjoint au chef de service au sein du SGCD |
 
 3 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Adjoint au chef de service au sein du SGCD |
 
@@ -2872,7 +3316,9 @@ Adjoint au chef de service au sein du SGCD |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Préfecture de l'Eure Evreux (27) |
 
@@ -2884,7 +3330,9 @@ Chargé de mission coordination des politiques publiques ministérielles |
 
 2 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef de section mission environnement et aménagement |
 
@@ -2894,7 +3342,9 @@ Chef de section mission environnement et aménagement |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Secrétaire particulier du préfet et du secrétaire général |
 
@@ -2904,7 +3354,9 @@ Secrétaire particulier du préfet et du secrétaire général |
 
 2 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef du bureau de la représentation de l'Etat et de la communication interministérielle |
 
@@ -2914,7 +3366,9 @@ Chef du bureau de la représentation de l'Etat et de la communication interminis
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Sous-préfecture Les-Andelys 27700 |
 
@@ -2926,7 +3380,9 @@ Agent instructeur en sous-préfecture |
 
 2 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Sous-préfecture Bernay 27300 |
 
@@ -2938,7 +3394,9 @@ Agent instructeur en sous-préfecture |
 
 2 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 9. Préfecture de l'Indre (36) : 25 postes
 
@@ -2968,7 +3426,9 @@ Chef du pôle asile-éloignement, adjoint au chef du bureau des migrations et de
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Adjoint au chef du BOPPD |
 
@@ -2978,7 +3438,9 @@ Adjoint au chef du BOPPD |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Adjoint au chef du bureau de la communication |
 
@@ -2988,7 +3450,9 @@ Adjoint au chef du bureau de la communication |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chargé de l'instruction et de la délivrance des titres |
 
@@ -2998,7 +3462,9 @@ Chargé de l'instruction et de la délivrance des titres |
 
 3 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chargé de l'instruction et de la délivrance des titres |
 
@@ -3008,7 +3474,9 @@ Chargé de l'instruction et de la délivrance des titres |
 
 4 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef de la cellule coordination administrative |
 
@@ -3018,7 +3486,9 @@ Chef de la cellule coordination administrative |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef du bureau de l'environnement |
 
@@ -3028,7 +3498,9 @@ Chef du bureau de l'environnement |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef du bureau des migrations et de l'intégration |
 
@@ -3038,7 +3510,9 @@ Chef du bureau des migrations et de l'intégration |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Che du pôle séjour, adjoint au chef du bureau des migrations et de l'intégration |
 
@@ -3048,7 +3522,9 @@ Che du pôle séjour, adjoint au chef du bureau des migrations et de l'intégrat
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chef du pôle support systèmes et réseaux/ Technicien SIC |
 
@@ -3058,7 +3534,9 @@ Chef du pôle support systèmes et réseaux/ Technicien SIC |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Chef du pôle support utilisateurs/ Technicien SIC |
 
@@ -3068,7 +3546,9 @@ Chef du pôle support utilisateurs/ Technicien SIC |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Chef du service moyens, budget et logistique |
 
@@ -3078,7 +3558,9 @@ Chef du service moyens, budget et logistique |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef du service RH |
 
@@ -3088,7 +3570,9 @@ Chef du service RH |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef du SIDSIC |
 
@@ -3098,7 +3582,9 @@ Chef du SIDSIC |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Gestionnaire de défense et sécurité civile |
 
@@ -3108,7 +3594,9 @@ Gestionnaire de défense et sécurité civile |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Rédacteur en charge des procédures d'éloignement |
 
@@ -3118,7 +3606,9 @@ Rédacteur en charge des procédures d'éloignement |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Technicien SIC |
 
@@ -3128,7 +3618,9 @@ Technicien SIC |
 
 4 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 10. Préfecture de l'Orne (61) : 25 postes
 
@@ -3158,7 +3650,9 @@ Adjoint au chef du bureau de la communication et de la représentation de l'Éta
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 chef du BRECI |
 
@@ -3168,7 +3662,9 @@ chef du BRECI |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Adjoint au chef du bureau de la sécurité intérieure |
 
@@ -3178,7 +3674,9 @@ Adjoint au chef du bureau de la sécurité intérieure |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef du BSR |
 
@@ -3188,7 +3686,9 @@ Chef du BSR |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef du bureau de l'intégration et de l'immigration |
 
@@ -3198,7 +3698,9 @@ Chef du bureau de l'intégration et de l'immigration |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Adjoint au chef du bureau de l'intégration et de l'immigration |
 
@@ -3208,7 +3710,9 @@ Adjoint au chef du bureau de l'intégration et de l'immigration |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chargé de mission au bureau de l'intégration et de l'immigration |
 
@@ -3218,7 +3722,9 @@ Chargé de mission au bureau de l'intégration et de l'immigration |
 
 2 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chargé de la délivrance des titres aux étrangers |
 
@@ -3228,7 +3734,9 @@ Chargé de la délivrance des titres aux étrangers |
 
 2 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef du centre d'expertise et de ressources titres |
 
@@ -3238,7 +3746,9 @@ Chef du centre d'expertise et de ressources titres |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Chef du service interministériel de défense et de protection civile |
 
@@ -3248,7 +3758,9 @@ Chef du service interministériel de défense et de protection civile |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Gestionnaire en défense et sécurité civile |
 
@@ -3258,7 +3770,9 @@ Gestionnaire en défense et sécurité civile |
 
 2 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Assistant du corps préfectoral |
 
@@ -3268,7 +3782,9 @@ Assistant du corps préfectoral |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 SGCD Alençon |
 
@@ -3280,7 +3796,9 @@ Chef du Bureau de l'immobilier et des moyens |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Gestionnaire Marchés publics |
 
@@ -3290,7 +3808,9 @@ Gestionnaire Marchés publics |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Référent de proximité |
 
@@ -3300,7 +3820,9 @@ Référent de proximité |
 
 2 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chef du SIDSIC |
 
@@ -3310,7 +3832,9 @@ Chef du SIDSIC |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Technicien SIC |
 
@@ -3320,7 +3844,9 @@ Technicien SIC |
 
 2 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Agent chargé de travaux |
 
@@ -3330,7 +3856,9 @@ Agent chargé de travaux |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Secrétaire général de sous-préfecture (Argentan) |
 
@@ -3342,7 +3870,9 @@ Attaché |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Secrétaire général de sous-préfecture (Mortagne au Perche) |
 
@@ -3354,7 +3884,9 @@ Attaché |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 11. Préfecture de Haute-Savoie (74) : 33 postes
 
@@ -3384,7 +3916,9 @@ Adjoint au chef du bureau affaires foncières urbanisme |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Agent accueil étrangers séjour |
 
@@ -3394,7 +3928,9 @@ Agent accueil étrangers séjour |
 
 8 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Assistant du corps préfectoral |
 
@@ -3404,7 +3940,9 @@ Assistant du corps préfectoral |
 
 3 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Chargé de l'admission exceptionnelle au séjour |
 
@@ -3414,7 +3952,9 @@ Chargé de l'admission exceptionnelle au séjour |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Chargé du contrôle de légalité et/ ou du contrôle budgétaire |
 
@@ -3424,7 +3964,9 @@ Chargé du contrôle de légalité et/ ou du contrôle budgétaire |
 
 5 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 SGCD Annecy |
 
@@ -3436,7 +3978,9 @@ Gestionnaire ressources humaines |
 
 7 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Technicien SIC |
 
@@ -3446,7 +3990,9 @@ Technicien SIC |
 
 8 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 12. Préfecture de Seine-et-Marne (77) : 81 postes
 
@@ -3478,7 +4024,9 @@ Chargé de la mise en œuvre des politiques publiques-Bureau de la coordination 
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chef de bureau de l'éloignement |
 
@@ -3488,7 +4036,9 @@ Chef de bureau de l'éloignement |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au chef de bureau de l'éloignement |
 
@@ -3498,7 +4048,9 @@ Adjoint au chef de bureau de l'éloignement |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Agent chargé de l'éloignement des étrangers en situation irrégulière |
 
@@ -3508,7 +4060,9 @@ Agent chargé de l'éloignement des étrangers en situation irrégulière |
 
 7 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chef du CERT CNI/ Passeports |
 
@@ -3518,7 +4072,9 @@ Chef du CERT CNI/ Passeports |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au Chef du CERT CNI/ Passeports |
 
@@ -3528,7 +4084,9 @@ Adjoint au Chef du CERT CNI/ Passeports |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chef de section CERT CNI/ passeport |
 
@@ -3538,7 +4096,9 @@ Chef de section CERT CNI/ passeport |
 
 3 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chef du bureau de la représentation de l'Etat et de la communication interministérielle |
 
@@ -3548,7 +4108,9 @@ Chef du bureau de la représentation de l'Etat et de la communication interminis
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au chef du BRECI |
 
@@ -3558,7 +4120,9 @@ Adjoint au chef du BRECI |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Assistant du préfet et des membres du corps préfectoral |
 
@@ -3568,7 +4132,9 @@ Assistant du préfet et des membres du corps préfectoral |
 
 4 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Opérateur du centre d'appels et de soutien |
 
@@ -3578,7 +4144,9 @@ Opérateur du centre d'appels et de soutien |
 
 5 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Opérateur du centre d'appels et de soutien |
 
@@ -3588,7 +4156,9 @@ Opérateur du centre d'appels et de soutien |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Contrôleur des budgets des collectivités locales |
 
@@ -3598,7 +4168,9 @@ Contrôleur des budgets des collectivités locales |
 
 3 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Instructeur-rédacteur de dossiers financiers relatifs aux dotations de l'État |
 
@@ -3608,7 +4180,9 @@ Instructeur-rédacteur de dossiers financiers relatifs aux dotations de l'État 
 
 9 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Instructeur-rédacteur de dossiers financiers relatifs aux dotations de l'État |
 
@@ -3618,7 +4192,9 @@ Instructeur-rédacteur de dossiers financiers relatifs aux dotations de l'État 
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chef du département numérique |
 
@@ -3628,7 +4204,9 @@ Chef du département numérique |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au chef du département numérique |
 
@@ -3638,7 +4216,9 @@ Adjoint au chef du département numérique |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chef du pole SETNA du département numérique |
 
@@ -3648,7 +4228,9 @@ Chef du pole SETNA du département numérique |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Techniciens SIC |
 
@@ -3658,7 +4240,9 @@ Techniciens SIC |
 
 10 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Assistant de formation et de recrutement-SGCD |
 
@@ -3668,7 +4252,9 @@ Assistant de formation et de recrutement-SGCD |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Responsable du service de gestion de la cité administrative (appui à la gouvernance) |
 
@@ -3678,7 +4264,9 @@ Responsable du service de gestion de la cité administrative (appui à la gouver
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au responsable du service de gestion de la cité administrative-responsable de la sécurité |
 
@@ -3688,7 +4276,9 @@ Adjoint au responsable du service de gestion de la cité administrative-responsa
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Responsable d'exploitation, d'entretien et de maintenance à la cité administrative |
 
@@ -3698,7 +4288,9 @@ Responsable d'exploitation, d'entretien et de maintenance à la cité administra
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chef du département de l'immobilier et des travaux |
 
@@ -3708,7 +4300,9 @@ Chef du département de l'immobilier et des travaux |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au chef du Département de l'immobilier et des travaux |
 
@@ -3718,7 +4312,9 @@ Adjoint au chef du Département de l'immobilier et des travaux |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Responsable de la sécurité des bâtiments, des flux et des biens et de la sécurité incendie |
 
@@ -3728,7 +4324,9 @@ Responsable de la sécurité des bâtiments, des flux et des biens et de la séc
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Gestionnaires sécurité (sûreté et sécurité incendie des bâtiments) |
 
@@ -3738,7 +4336,9 @@ Gestionnaires sécurité (sûreté et sécurité incendie des bâtiments) |
 
 2 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Responsable de la gestion du patrimoine immobilier |
 
@@ -3748,7 +4348,9 @@ Responsable de la gestion du patrimoine immobilier |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Responsable d'exploitation, d'entretien et de maintenance |
 
@@ -3758,7 +4360,9 @@ Responsable d'exploitation, d'entretien et de maintenance |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Responsable logistique des moyens matériels et opérationnels |
 
@@ -3768,7 +4372,9 @@ Responsable logistique des moyens matériels et opérationnels |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Gestionnaire logistique des moyens matériels et opérationnels |
 
@@ -3778,7 +4384,9 @@ Gestionnaire logistique des moyens matériels et opérationnels |
 
 2 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Archiviste |
 
@@ -3788,7 +4396,7 @@ Archiviste |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er septembre 2025 |
 
 Cuisinier du préfet |
 
@@ -3798,7 +4406,9 @@ Cuisinier du préfet |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Responsable des personnels de résidence |
 
@@ -3808,7 +4418,9 @@ Responsable des personnels de résidence |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Personnel de résidence |
 
@@ -3818,7 +4430,9 @@ Personnel de résidence |
 
 8 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Sous-préfecture de Meaux (77) |
 
@@ -3830,7 +4444,9 @@ Gardien de sous-préfecture |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Sous-préfecture de Torcy (77) |
 
@@ -3842,7 +4458,7 @@ Rédacteur administratif-bureau de la réglementation et de la coordination |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er septembre 2025 |
 
 Gardien de sous-préfecture |
 
@@ -3852,7 +4468,9 @@ Gardien de sous-préfecture |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 13. Préfecture des Yvelines (78) : 41 postes
 
@@ -3882,7 +4500,9 @@ Cuisinier |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Secrétaire des membres du corps préfectoral (préfet, SG, PDEC,
 
@@ -3894,7 +4514,9 @@ directeur de cabinet, SGA) |
 
 4 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Préfecture des Yvelines Cabinet-Bureau de la sécurité intérieure (Versailles) |
 
@@ -3906,7 +4528,9 @@ Gestionnaire de crédit et suivi des subventions |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Préfecture des Yvelines-Direction de la coordination et de l'appui territorial
 
@@ -3920,7 +4544,9 @@ Gestionnaire budgétaire |
 
 2 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Préfecture des Yvelines Direction des migrations-Bureau de l'éloignement et du contentieux (Versailles) |
 
@@ -3932,7 +4558,9 @@ Rédacteur refus/ contentieux |
 
 2 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Préfecture des Yvelines Direction des migrations-Bureau de l'accueil et du séjour (Versailles) |
 
@@ -3944,7 +4572,9 @@ Instructeur séjour |
 
 3 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Agent accueil guichet et instruction du séjour |
 
@@ -3954,7 +4584,9 @@ Agent accueil guichet et instruction du séjour |
 
 2 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Préfecture des Yvelines Direction des migrations-Bureau de l'asile (Versailles) |
 
@@ -3966,7 +4598,9 @@ Agent accueil guichet et instruction de l'asile |
 
 2 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Référent séjour, rédacteur de l'éloignement et du contentieux |
 
@@ -3976,7 +4610,9 @@ Référent séjour, rédacteur de l'éloignement et du contentieux |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Préfecture des Yvelines-
 
@@ -3990,7 +4626,9 @@ Chef de section du CERT |
 
 2 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Secrétariat général commun départemental/ SDNUM
 
@@ -4004,7 +4642,9 @@ Technicien de proximité |
 
 4 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Standardiste |
 
@@ -4014,7 +4654,9 @@ Standardiste |
 
 4 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 SGCD/ BFI Versailles |
 
@@ -4026,7 +4668,9 @@ Chargé du pilotage et de la gestion des ressources budgétaires |
 
 2 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 SGCD/ BLP Versailles |
 
@@ -4038,7 +4682,9 @@ Contrôleur des travaux |
 
 2 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chef de la régie |
 
@@ -4048,7 +4694,9 @@ Chef de la régie |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Technicien de maintenance |
 
@@ -4058,7 +4706,9 @@ Technicien de maintenance |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 SGCD/ BRH Versailles |
 
@@ -4070,7 +4720,9 @@ Chef du pôle gestion des agents non titulaires et suivi du plan de charge |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Sous-préfecture de Saint Germain en Laye-plateforme départementale de naturalisation (78) |
 
@@ -4082,7 +4734,9 @@ Agent instructeur |
 
 4 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Sous-préfecture de Saint Germain en Laye (78) |
 
@@ -4094,7 +4748,9 @@ Conseiller référent pour une intercommunalité |
 
 2 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 14. Préfecture de l'Essonne (91) : 92 postes
 
@@ -4126,7 +4782,9 @@ Secrétariat du Secrétaire Général |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Secrétariat du Secrétaire Général adjoint |
 
@@ -4136,7 +4794,7 @@ Secrétariat du Secrétaire Général adjoint |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er septembre 2025 |
 
 Préfecture Cabinet du Préfet délégué à l'égalité des chances
 
@@ -4150,7 +4808,9 @@ Secrétariat du Préfet Délégué à l'égalité des chances |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Préfecture DCISPC
 
@@ -4164,7 +4824,9 @@ Chef de bureau du bureau défense et protection civile |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Adjoint au chef du bureau défense et protection civile |
 
@@ -4174,7 +4836,9 @@ Adjoint au chef du bureau défense et protection civile |
 
 2 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Chef du bureau de l'ordre public et de la coordination des sécurités |
 
@@ -4184,7 +4848,9 @@ Chef du bureau de l'ordre public et de la coordination des sécurités |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Adjoint au Chef du bureau de l'ordre public et de la coordination des sécurités |
 
@@ -4194,7 +4860,9 @@ Adjoint au Chef du bureau de l'ordre public et de la coordination des sécurité
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Chef du bureau de la prévention de la délinquance et du séparatisme |
 
@@ -4204,7 +4872,9 @@ Chef du bureau de la prévention de la délinquance et du séparatisme |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Agent en charge du secrétariat CODAF et des installations illicites |
 
@@ -4214,7 +4884,9 @@ Agent en charge du secrétariat CODAF et des installations illicites |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chef du bureau de la représentation de l'État et de la communication interministérielle |
 
@@ -4224,7 +4896,9 @@ Chef du bureau de la représentation de l'État et de la communication intermini
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Secrétariat du Préfet |
 
@@ -4234,7 +4908,9 @@ Secrétariat du Préfet |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Secrétariat du Directeur de Cabinet |
 
@@ -4244,7 +4920,9 @@ Secrétariat du Directeur de Cabinet |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Préfecture DIMI
 
@@ -4258,7 +4936,9 @@ Chef du bureau de l'éloignement |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Adjoint au chef du bureau de l'éloignement |
 
@@ -4268,7 +4948,9 @@ Adjoint au chef du bureau de l'éloignement |
 
 2 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Cheffe de la mission départementale lutte contre la fraude étrangers |
 
@@ -4278,7 +4960,9 @@ Cheffe de la mission départementale lutte contre la fraude étrangers |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Chef du pole instruction |
 
@@ -4288,7 +4972,9 @@ Chef du pole instruction |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Référent encadrant du pole instruction |
 
@@ -4298,7 +4984,9 @@ Référent encadrant du pole instruction |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chef du pole qualité process |
 
@@ -4308,7 +4996,9 @@ Chef du pole qualité process |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Adjoint chef du pole accueil |
 
@@ -4318,7 +5008,9 @@ Adjoint chef du pole accueil |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Agent de guichet au pôle accueil |
 
@@ -4328,7 +5020,9 @@ Agent de guichet au pôle accueil |
 
 17 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Agent d'accueil et d'instruction-Admission Exceptionnelle au Séjour |
 
@@ -4338,9 +5032,11 @@ Agent d'accueil et d'instruction-Admission Exceptionnelle au Séjour |
 
 2 |
 
-1<sup>er</sup> septembre 2025 |
+1er
 
-Agent de guichet &laquo; Asile &raquo; |
+septembre 2025 |
+
+Agent de guichet Asile |
 
 4 ans |
 
@@ -4348,7 +5044,7 @@ Agent de guichet &laquo; Asile &raquo; |
 
 8 |
 
-1<sup>er</sup> septembre 2025 |
+1er septembre 2025 |
 
 Sous-Préfecture d'Etampes (91) |
 
@@ -4360,7 +5056,7 @@ Responsable du pôle mission séjour sur le site d'Étampes |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er septembre 2025 |
 
 Préfecture DRCL Evry |
 
@@ -4372,7 +5068,9 @@ Chef de section commande publique |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef du bureau des finances locales |
 
@@ -4382,7 +5080,9 @@ Chef du bureau des finances locales |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Adjoint au chef du bureau des finances locales |
 
@@ -4392,7 +5092,9 @@ Adjoint au chef du bureau des finances locales |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 SGCD Evry |
 
@@ -4404,7 +5106,9 @@ chef du service relation aux usagers |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 adjoint au chef du service relation aux usagers |
 
@@ -4414,7 +5118,9 @@ adjoint au chef du service relation aux usagers |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Agent d'accueil et renseignement des usagers |
 
@@ -4424,7 +5130,9 @@ Agent d'accueil et renseignement des usagers |
 
 4 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Agent d'accueil téléphonique |
 
@@ -4434,7 +5142,7 @@ Agent d'accueil téléphonique |
 
 5 |
 
-1<sup>er</sup> septembre 2025 |
+1er septembre 2025 |
 
 Chargé de mission immobilier administratif-grands travaux |
 
@@ -4444,7 +5152,9 @@ Chargé de mission immobilier administratif-grands travaux |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Chef du bureau immobilier logistique |
 
@@ -4454,7 +5164,9 @@ Chef du bureau immobilier logistique |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Chef du bureau achat |
 
@@ -4464,7 +5176,9 @@ Chef du bureau achat |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Administratrice/ teur Système en Systèmes d'Information et de Communication |
 
@@ -4474,7 +5188,9 @@ Administratrice/ teur Système en Systèmes d'Information et de Communication |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Adjoint au chef de bureau BPPR et chargé de mission pilotage de la masse salariale |
 
@@ -4484,7 +5200,9 @@ Adjoint au chef de bureau BPPR et chargé de mission pilotage de la masse salari
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chef du bureau gestion administrative |
 
@@ -4494,7 +5212,9 @@ Chef du bureau gestion administrative |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chef du bureau des parcours professionnels et de la rémunération |
 
@@ -4504,7 +5224,9 @@ Chef du bureau des parcours professionnels et de la rémunération |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Délégué à l'appui au pilotage de la DDETS 91 |
 
@@ -4514,7 +5236,9 @@ Délégué à l'appui au pilotage de la DDETS 91 |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Délégué à l'appui au pilotage de la DDT 91 |
 
@@ -4524,7 +5248,9 @@ Délégué à l'appui au pilotage de la DDT 91 |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Gestionnaire RH référent interministériel-ATE |
 
@@ -4534,7 +5260,9 @@ Gestionnaire RH référent interministériel-ATE |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Correspondant rémunération |
 
@@ -4544,7 +5272,9 @@ Correspondant rémunération |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chef du bureau du budget finances |
 
@@ -4554,7 +5284,9 @@ Chef du bureau du budget finances |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Sous-Préfecture de Palaiseau (91) |
 
@@ -4566,7 +5298,9 @@ Adjoint au chef de la mission départementale séjour |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Adjoint au chef du pole instruction |
 
@@ -4576,7 +5310,9 @@ Adjoint au chef du pole instruction |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chef du pole accueil à l'usager |
 
@@ -4586,7 +5322,9 @@ Chef du pole accueil à l'usager |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Agent de guichet au pôle accueil |
 
@@ -4596,7 +5334,9 @@ Agent de guichet au pôle accueil |
 
 9 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Secrétariat du Sous-Préfet de Palaiseau |
 
@@ -4606,7 +5346,9 @@ Secrétariat du Sous-Préfet de Palaiseau |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Chef du bureau de la coordination interministérielle et de l'ingénierie territoriale-secrétaire général adjoint |
 
@@ -4616,7 +5358,9 @@ Chef du bureau de la coordination interministérielle et de l'ingénierie territ
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chargé de mission ingénierie territoriale au bureau de la coordination interministérielle et de l'ingénierie territoriale (BCIIT) |
 
@@ -4626,7 +5370,9 @@ Chargé de mission ingénierie territoriale au bureau de la coordination intermi
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 15. Préfecture des Hauts-de-Seine (92) : 57 postes
 
@@ -4658,7 +5404,9 @@ Assistant du corps préfectoral |
 
 3 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chef de pole assistants du corps préfectoral |
 
@@ -4668,7 +5416,9 @@ Chef de pole assistants du corps préfectoral |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Préfecture-Cabinet Service de la communication interministérielle (Nanterre) |
 
@@ -4680,7 +5430,9 @@ Chef du service de la communication interministérielle |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Cabinet Bureau de la sécurité intérieure (Nanterre) |
 
@@ -4692,7 +5444,9 @@ Adjoint au chef du bureau de la sécurité intérieure |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chargé de mission radicalisation/ séparatisme |
 
@@ -4702,7 +5456,9 @@ Chargé de mission radicalisation/ séparatisme |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Cabinet Bureau de la sécurité et de la sûreté (Nanterre) |
 
@@ -4714,7 +5470,9 @@ Adjoint au chef du bureau et chef de section sécurité |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Cabinet Service interministériel de défense et de protection civile (Nanterre) |
 
@@ -4726,7 +5484,9 @@ Chef de section opération |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Préfecture Mission ville et cohésion Sociale
 
@@ -4740,7 +5500,9 @@ Chef du bureau du contentieux locatif |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Gestionnaire chargé du suivi du contentieux locatif |
 
@@ -4750,7 +5512,9 @@ Gestionnaire chargé du suivi du contentieux locatif |
 
 4 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Préfecture Direction des migrations et de l'intégration-Bureau du séjour des étrangers (Nanterre) |
 
@@ -4762,7 +5526,9 @@ Chef du bureau du séjour des étrangers |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Adjoint au chef du bureau des étrangers, responsable accueil du public et circuits courts |
 
@@ -4772,7 +5538,9 @@ Adjoint au chef du bureau des étrangers, responsable accueil du public et circu
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Responsable accueil circuit court |
 
@@ -4782,7 +5550,9 @@ Responsable accueil circuit court |
 
 3 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Responsable vie privée et familiale |
 
@@ -4792,7 +5562,9 @@ Responsable vie privée et familiale |
 
 3 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Responsable immigration professionnelle |
 
@@ -4802,7 +5574,9 @@ Responsable immigration professionnelle |
 
 3 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Préfecture Direction des migrations et de l'intégration-Bureau de l'asile (Nanterre) |
 
@@ -4814,7 +5588,9 @@ Chef de section du guichet unique de demande d'asile (GUDA) |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Préfecture Direction des migrations et de l'intégration-Bureau des examens spécialisés et de l'éloignement (Nanterre) |
 
@@ -4826,7 +5602,9 @@ Agent en charge des reconduites à la frontière |
 
 7 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Secrétariat général commun départemental (SGCD) Pôle moyens mutualisés Bureau de la logistique (Nanterre) |
 
@@ -4840,7 +5618,9 @@ infographe |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 SGCD Pôle numérique
 
@@ -4854,7 +5634,9 @@ Chef de pôle numérique |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Adjoint au chef de pôle numérique |
 
@@ -4864,7 +5646,9 @@ Adjoint au chef de pôle numérique |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Technicien des systèmes d'information et de communication (SIC) |
 
@@ -4874,7 +5658,9 @@ Technicien des systèmes d'information et de communication (SIC) |
 
 2 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 SGCD Pôle relation usagers (Nanterre) |
 
@@ -4886,7 +5672,9 @@ Agent chargé d'accueil au point d'accès numérique (PAN) et PAN Emeraude |
 
 2 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 SGCD Pôle Finances
 
@@ -4900,7 +5688,9 @@ Adjoint au chef de bureau des marchés publics |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chargé de la passation et de la mise en œuvre des marchés publics |
 
@@ -4910,7 +5700,9 @@ Chargé de la passation et de la mise en œuvre des marchés publics |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 SGCD Pôle ressources humaines Bureau des ressources humaines
 
@@ -4924,7 +5716,9 @@ Gestionnaire chargé du suivi des effectifs et de la masse salariale |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef de section pilotage de la masse salariale |
 
@@ -4934,7 +5728,9 @@ Chef de section pilotage de la masse salariale |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chef de section gestion RH |
 
@@ -4944,7 +5740,9 @@ Chef de section gestion RH |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Secrétariat général aux affaires départementales (Nanterre) |
 
@@ -4956,7 +5754,9 @@ Chef du secrétariat général aux affaires départementales |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef de section hébergement d'urgence, logement et plan migrants |
 
@@ -4966,7 +5766,9 @@ Chef de section hébergement d'urgence, logement et plan migrants |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chef de la section coordination administrative |
 
@@ -4976,7 +5778,9 @@ Chef de la section coordination administrative |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Sous-préfecture de Boulogne Billancourt Bureau des étrangers (92100) |
 
@@ -4988,7 +5792,9 @@ Agent en charge de la lutte contre la fraude |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef de section instruction |
 
@@ -4998,7 +5804,9 @@ Chef de section instruction |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Sous-préfecture d'Antony Bureau des étrangers (92160) |
 
@@ -5010,7 +5818,9 @@ Chef du bureau des étrangers |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Adjoint au chef du bureau des étrangers |
 
@@ -5020,7 +5830,9 @@ Adjoint au chef du bureau des étrangers |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Agent polyvalent d'accueil et d'instruction au bureau des étrangers |
 
@@ -5030,7 +5842,9 @@ Agent polyvalent d'accueil et d'instruction au bureau des étrangers |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Agent instructeur des demandes de titre de séjour |
 
@@ -5040,7 +5854,9 @@ Agent instructeur des demandes de titre de séjour |
 
 2 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Sous-préfecture d'Antony Bureau des expulsions locatives et des polices administratives |
 
@@ -5052,7 +5868,9 @@ Chef de section en charge des polices administratives |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Sous-préfecture d'Antony Mission logistique et moyens communs |
 
@@ -5064,7 +5882,9 @@ Agent de prévention et de surveillance |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 16. Préfecture de Seine-Saint-Denis (93) : 90 postes
 
@@ -5094,7 +5914,9 @@ Directeur du cabinet du préfet délégué à l'égalité des chances |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Préfecture Direction des sécurités et des services du cabinet Bureau de la défense et de la sécurité civiles Bobigny |
 
@@ -5106,7 +5928,9 @@ Adjoint au chef du bureau de la défense et de la sécurité civiles |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Adjoint au chef de la section sécurité incendie |
 
@@ -5116,7 +5940,9 @@ Adjoint au chef de la section sécurité incendie |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Adjoint chef de section défense civile, intelligence économique, sécurité bâtimentaire et informatique |
 
@@ -5126,7 +5952,9 @@ Adjoint chef de section défense civile, intelligence économique, sécurité b�
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Préfecture Direction des sécurités et des services du cabinet Bureau de la sécurité intérieure Bobigny |
 
@@ -5138,7 +5966,9 @@ Adjoint au chef de section du pilotage des politiques publiques de sécurité |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Préfecture Direction des sécurités et des services du cabinet Bureau de la communication interministérielle-Bobigny |
 
@@ -5150,7 +5980,9 @@ Adjoint au chef du bureau de la communication interministérielle |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Préfecture Direction des sécurités et des services du cabinet
 
@@ -5164,7 +5996,9 @@ Chef de la section distinctions honorifiques |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chef de la section affaires réservées |
 
@@ -5174,7 +6008,9 @@ Chef de la section affaires réservées |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Préfecture Direction des sécurités et des services du cabinet bureau des polices administratives-Bobigny |
 
@@ -5186,7 +6022,9 @@ Adjoint chef de section armes et activités de sécurité privée |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Préfecture Direction des étrangers et des naturalisations Bureau du séjour
 
@@ -5200,7 +6038,9 @@ Chef de bureau du séjour |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Adjoint au chef de bureau du séjour |
 
@@ -5210,7 +6050,9 @@ Adjoint au chef de bureau du séjour |
 
 3 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chargé des affaires transversales |
 
@@ -5220,7 +6062,9 @@ Chargé des affaires transversales |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chef du pôle Police du séjour |
 
@@ -5230,7 +6074,9 @@ Chef du pôle Police du séjour |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Adjoint au chef du pôle Police du séjour |
 
@@ -5240,7 +6086,9 @@ Adjoint au chef du pôle Police du séjour |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chef du pôle fraude |
 
@@ -5250,7 +6098,9 @@ Chef du pôle fraude |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chef du pole accueil |
 
@@ -5260,7 +6110,9 @@ Chef du pole accueil |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chef du pole AES |
 
@@ -5270,7 +6122,9 @@ Chef du pole AES |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Préfecture Direction des étrangers et des naturalisations Bureau de l'asile
 
@@ -5284,7 +6138,9 @@ Chef du bureau de l'asile |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Adjoint au chef du bureau de l'asile |
 
@@ -5294,7 +6150,9 @@ Adjoint au chef du bureau de l'asile |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef de la section accueil des demandeurs d'asile |
 
@@ -5304,7 +6162,9 @@ Chef de la section accueil des demandeurs d'asile |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chef de section GUDA |
 
@@ -5314,7 +6174,9 @@ Chef de section GUDA |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Adjoint chef de section GUDA |
 
@@ -5324,7 +6186,9 @@ Adjoint chef de section GUDA |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chef de la section en charge du suivi des procédures d'asile DUBLIN |
 
@@ -5334,7 +6198,9 @@ Chef de la section en charge du suivi des procédures d'asile DUBLIN |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Préfecture Direction des étrangers et des naturalisations Bureau du contentieux Bobigny |
 
@@ -5346,7 +6212,9 @@ Chef de bureau du contentieux |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Adjoint au Chef de bureau du contentieux |
 
@@ -5356,7 +6224,9 @@ Adjoint au Chef de bureau du contentieux |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Préfecture Direction des étrangers et des naturalisations Bureau de l'éloignement Bobigny |
 
@@ -5368,7 +6238,9 @@ Chef de bureau éloignement |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Adjoint au chef de bureau éloignement |
 
@@ -5378,7 +6250,9 @@ Adjoint au chef de bureau éloignement |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Adjoint au chef du bureau instruction et exécution des mesures d'éloignement |
 
@@ -5388,7 +6262,9 @@ Adjoint au chef du bureau instruction et exécution des mesures d'éloignement |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chef de la section DUBLIN |
 
@@ -5398,7 +6274,9 @@ Chef de la section DUBLIN |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Adjoint au chef de la section DUBLIN |
 
@@ -5408,7 +6286,9 @@ Adjoint au chef de la section DUBLIN |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef de la section instruction des mesures d'éloignement |
 
@@ -5418,7 +6298,9 @@ Chef de la section instruction des mesures d'éloignement |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Adjoint au chef de la section instruction des mesures d'éloignement |
 
@@ -5428,7 +6310,9 @@ Adjoint au chef de la section instruction des mesures d'éloignement |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Référent en charge de l'instruction des mesures d'éloignement |
 
@@ -5438,7 +6322,9 @@ Référent en charge de l'instruction des mesures d'éloignement |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chef de la mission ordre public |
 
@@ -5448,7 +6334,9 @@ Chef de la mission ordre public |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Adjoint au chef de la mission ordre public |
 
@@ -5458,7 +6346,9 @@ Adjoint au chef de la mission ordre public |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Agent instructeur de la mission ordre public |
 
@@ -5468,7 +6358,9 @@ Agent instructeur de la mission ordre public |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Agent instructeur de la mission ordre public |
 
@@ -5478,7 +6370,9 @@ Agent instructeur de la mission ordre public |
 
 2 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chef de la section reconnaissance consulaire et exécution des mesures |
 
@@ -5488,7 +6382,9 @@ Chef de la section reconnaissance consulaire et exécution des mesures |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Adjoint au chef de la section reconnaissance consulaire et exécution des mesures |
 
@@ -5498,7 +6394,9 @@ Adjoint au chef de la section reconnaissance consulaire et exécution des mesure
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Préfecture Direction de la citoyenneté et de la légalité Bureau du contrôle de légalité Bobigny |
 
@@ -5510,7 +6408,9 @@ Chef du bureau du contrôle de légalité |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Adjoint au chef du bureau de contrôle de légalité |
 
@@ -5520,7 +6420,9 @@ Adjoint au chef du bureau de contrôle de légalité |
 
 2 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chargé de mission intercommunalité |
 
@@ -5530,7 +6432,9 @@ Chargé de mission intercommunalité |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Préfecture Direction de la citoyenneté et de la légalité Bureau de la réglementation Bobigny |
 
@@ -5542,7 +6446,9 @@ Chef du bureau de la réglementation |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Adjoint au chef du bureau de la réglementation |
 
@@ -5552,7 +6458,9 @@ Adjoint au chef du bureau de la réglementation |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef de la section VTC (véhicule de tourisme avec chauffeur) |
 
@@ -5562,7 +6470,9 @@ Chef de la section VTC (véhicule de tourisme avec chauffeur) |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef de section en charge des professionnels et des opérations SIV et des fourrières |
 
@@ -5572,7 +6482,9 @@ Chef de section en charge des professionnels et des opérations SIV et des fourr
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef de section en charge de la réglementation routière |
 
@@ -5582,7 +6494,9 @@ Chef de section en charge de la réglementation routière |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chargé de mission fourrières |
 
@@ -5592,7 +6506,9 @@ Chargé de mission fourrières |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Préfecture Direction de la citoyenneté et de la légalité Bureau des finances locales Bobigny |
 
@@ -5604,7 +6520,9 @@ Chef du bureau des finances locales |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Agent chargé du contrôle budgétaire |
 
@@ -5614,7 +6532,9 @@ Agent chargé du contrôle budgétaire |
 
 3 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Préfecture Secrétariat général Bobigny |
 
@@ -5626,7 +6546,9 @@ Standardiste en brigade H24 |
 
 6 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Secrétariat général commun départemental
 
@@ -5640,7 +6562,9 @@ Chef du service numérique |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Adjoint au service du numérique |
 
@@ -5650,7 +6574,9 @@ Adjoint au service du numérique |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chef du bureau support de proximité |
 
@@ -5660,7 +6586,9 @@ Chef du bureau support de proximité |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 SGCD Bureau des ressources humaines Bobigny |
 
@@ -5672,7 +6600,9 @@ Chef du bureau des ressources humaines |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Adjoint chef du bureau des ressources humaines |
 
@@ -5682,7 +6612,9 @@ Adjoint chef du bureau des ressources humaines |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef section pilotage des effectifs et de la masse salariale |
 
@@ -5692,7 +6624,9 @@ Chef section pilotage des effectifs et de la masse salariale |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 SGCD Bureau de la logistique
 
@@ -5706,7 +6640,9 @@ Chef du bureau de la logistique et des affaires immobilières |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Adjoint au chef du bureau de la logistique et des affaires immobilières en charge de la logistique |
 
@@ -5716,7 +6652,9 @@ Adjoint au chef du bureau de la logistique et des affaires immobilières en char
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chef d'atelier, agent maintenance et manutention |
 
@@ -5726,7 +6664,9 @@ Chef d'atelier, agent maintenance et manutention |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 SGCD Bureau des affaires financières et des achats Bobigny |
 
@@ -5738,7 +6678,9 @@ Chef du bureau des affaires financières et des achats |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Rédacteur marchés publics |
 
@@ -5748,7 +6690,9 @@ Rédacteur marchés publics |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Sous-préfecture du Raincy Bureau des étrangers 93340 Le Raincy |
 
@@ -5760,7 +6704,9 @@ Chef du bureau des étrangers |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Adjoints au chef du bureau des étrangers |
 
@@ -5770,7 +6716,9 @@ Adjoints au chef du bureau des étrangers |
 
 2 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef de la section accueil et délivrance des titres |
 
@@ -5780,7 +6728,9 @@ Chef de la section accueil et délivrance des titres |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Sous-préfecture du Raincy
 
@@ -5796,7 +6746,9 @@ Adjoint au chef de bureau |
 
 2 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Sous-préfecture de Saint Denis Bureau des étrangers 93200 Saint-Denis |
 
@@ -5808,7 +6760,9 @@ Chef du bureau des étrangers |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Adjoint au chef du bureau des étrangers |
 
@@ -5818,7 +6772,9 @@ Adjoint au chef du bureau des étrangers |
 
 3 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 chef de pôle régularisations |
 
@@ -5828,7 +6784,9 @@ chef de pôle régularisations |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 chef de pôle accueil et instruction |
 
@@ -5838,7 +6796,9 @@ chef de pôle accueil et instruction |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 17. Préfecture du Val-de-Marne (94) : 83 postes
 
@@ -5870,7 +6830,9 @@ Adjoint au chef du Centre d'expertise et de ressources titres CNI/ passeports |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Adjoint au référent fraude |
 
@@ -5880,7 +6842,9 @@ Adjoint au référent fraude |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef du Centre d'expertise et de ressources titres CNI/ passeports |
 
@@ -5890,7 +6854,9 @@ Chef du Centre d'expertise et de ressources titres CNI/ passeports |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Référent fraude |
 
@@ -5900,7 +6866,9 @@ Référent fraude |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Préfecture de Créteil Direction de la citoyenneté et de la légalité-Bureau du contrôle budgétaire et des dotations de l'État |
 
@@ -5912,7 +6880,9 @@ Chef du bureau du contrôle budgétaire et des dotations de l'État |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Préfecture de Créteil DCPPAT-bureau de l'environnement et des procédures d'utilité publique |
 
@@ -5924,7 +6894,9 @@ Chef du bureau de l'environnement et des procédures d'utilité publique |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Préfecture de Créteil DCPPAT-bureau de la coordination interministérielle et de l'appui territorial |
 
@@ -5936,7 +6908,9 @@ Chef de bureau de la coordination interministérielle et de l'appui territorial 
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Préfecture de Créteil Direction des migrations et de l'intégration |
 
@@ -5948,7 +6922,9 @@ Adjoint au directeur des migrations et de l'intégration |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Agent instructeur des demandes de séjour-Bureau du séjour |
 
@@ -5958,7 +6934,9 @@ Agent instructeur des demandes de séjour-Bureau du séjour |
 
 4 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chargée de mission interventions, correspondante lutte contre la fraude sur le périmètre DMI |
 
@@ -5968,7 +6946,9 @@ Chargée de mission interventions, correspondante lutte contre la fraude sur le 
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Préfecture de Créteil Direction des migrations et de l'intégration
 
@@ -5982,7 +6962,9 @@ Chef du bureau de l'asile |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Adjoint au chef du bureau de l'asile |
 
@@ -5992,7 +6974,9 @@ Adjoint au chef du bureau de l'asile |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef de section |
 
@@ -6002,7 +6986,9 @@ Chef de section |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Préfecture de Créteil Direction des migrations et de l'intégration
 
@@ -6016,7 +7002,9 @@ Chef du bureau |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Adjoint au chef du bureau |
 
@@ -6026,7 +7014,9 @@ Adjoint au chef du bureau |
 
 2 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Adjoint au chef du bureau |
 
@@ -6036,7 +7026,9 @@ Adjoint au chef du bureau |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chef de section |
 
@@ -6046,7 +7038,9 @@ Chef de section |
 
 4 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Agents instructeurs des demandes de séjour |
 
@@ -6056,7 +7050,9 @@ Agents instructeurs des demandes de séjour |
 
 10 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Préfecture de Créteil Direction des migrations et de l'intégration
 
@@ -6070,7 +7066,9 @@ Adjoint au chef du bureau de l'éloignement et du contentieux |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Chef du bureau de l'éloignement et du contentieux |
 
@@ -6080,7 +7078,9 @@ Chef du bureau de l'éloignement et du contentieux |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Préfecture de Créteil Direction des sécurités Service interministériel de défense et de protection civile |
 
@@ -6092,7 +7092,9 @@ Chef du Service interministériel de défense et de protection civile |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Adjoint au chef du Service interministériel de défense et de protection civile |
 
@@ -6102,7 +7104,9 @@ Adjoint au chef du Service interministériel de défense et de protection civile
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Agents SIDPC |
 
@@ -6112,7 +7116,9 @@ Agents SIDPC |
 
 3 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef de la section sécurité incendie |
 
@@ -6122,7 +7128,9 @@ Chef de la section sécurité incendie |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chef du pole planification et préparation opérationnelle |
 
@@ -6132,7 +7140,9 @@ Chef du pole planification et préparation opérationnelle |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Préfecture de Créteil Secrétariat du corps préfectoral |
 
@@ -6144,7 +7154,9 @@ Assistant de direction |
 
 4 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Préfecture de Créteil Secrétariat général commun départemental-
 
@@ -6158,7 +7170,9 @@ Gestionnaire marchés publics |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef du bureau du pilotage budgétaire et de la performance |
 
@@ -6168,7 +7182,9 @@ Chef du bureau du pilotage budgétaire et de la performance |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Adjoint au chef du bureau du pilotage budgétaire |
 
@@ -6178,7 +7194,9 @@ Adjoint au chef du bureau du pilotage budgétaire |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Préfecture de Créteil Secrétariat général commun départemental-bureau des ressources humaines |
 
@@ -6190,7 +7208,9 @@ Chef du bureau des ressources humaines |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Adjoint au chef du BRH |
 
@@ -6200,7 +7220,9 @@ Adjoint au chef du BRH |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Préfecture de Créteil Secrétariat général commun départemental-Bureau de la logistique et du patrimoine |
 
@@ -6212,7 +7234,9 @@ Chef du bureau de la logistique et du patrimoine |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Adjoint au chef de bureau de la logistique et du patrimoine |
 
@@ -6222,7 +7246,9 @@ Adjoint au chef de bureau de la logistique et du patrimoine |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Contrôleurs techniques |
 
@@ -6232,7 +7258,9 @@ Contrôleurs techniques |
 
 5 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Préfecture de Créteil Secrétariat général commun départemental
 
@@ -6246,7 +7274,9 @@ Chef du bureau |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef de service |
 
@@ -6256,7 +7286,9 @@ Chef de service |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Techniciens SIC |
 
@@ -6266,7 +7298,9 @@ Techniciens SIC |
 
 6 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Sous-Préfecture de
 
@@ -6280,7 +7314,9 @@ Secrétaire Sous-Préfet de l'Haÿ-les-Roses |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Sous-préfecture de l'Hay-les-Roses Bureau de l'accueil et du séjour des étrangers |
 
@@ -6292,7 +7328,9 @@ Chef de section accueil/ guichets |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Instructeurs |
 
@@ -6302,7 +7340,9 @@ Instructeurs |
 
 4 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef du bureau de l'accueil et du séjour des étrangers |
 
@@ -6312,7 +7352,9 @@ Chef du bureau de l'accueil et du séjour des étrangers |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Adjoint au chef du bureau de l'accueil et du séjour des étrangers |
 
@@ -6322,7 +7364,9 @@ Adjoint au chef du bureau de l'accueil et du séjour des étrangers |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Sous-Préfecture
 
@@ -6336,7 +7380,9 @@ Secrétaire Sous-Préfet de Nogent-sur-Marne |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Sous-préfecture de Nogent-sur-Marne Bureau de l'accueil et du séjour des étrangers |
 
@@ -6348,7 +7394,9 @@ Instructeurs |
 
 4 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Instructeurs admission exceptionnelle au séjour |
 
@@ -6358,7 +7406,9 @@ Instructeurs admission exceptionnelle au séjour |
 
 2 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Adjoint au chef du bureau de l'accueil et du séjour des étrangers |
 
@@ -6368,7 +7418,9 @@ Adjoint au chef du bureau de l'accueil et du séjour des étrangers |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Chef du bureau de l'accueil et du séjour des étrangers |
 
@@ -6378,7 +7430,9 @@ Chef du bureau de l'accueil et du séjour des étrangers |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 18. Préfecture du Val-d'Oise (95) : 72 postes
 
@@ -6410,7 +7464,9 @@ Chef du pôle de l'action immobilière |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au chef du pôle de l'action immobilière |
 
@@ -6420,7 +7476,9 @@ Adjoint au chef du pôle de l'action immobilière |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Électricien |
 
@@ -6430,7 +7488,9 @@ Adjoint au chef du pôle de l'action immobilière |
 
 3 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Agent de maintenance polyvalent |
 
@@ -6440,7 +7500,9 @@ Agent de maintenance polyvalent |
 
 3 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chef du service interministériel départemental des systèmes d'information et de communication (SIDSIC) |
 
@@ -6450,7 +7512,9 @@ Chef du service interministériel départemental des systèmes d'information et 
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au chef du SIDSIC |
 
@@ -6460,7 +7524,9 @@ Adjoint au chef du SIDSIC |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Délégué à l'appui et au pilotage |
 
@@ -6470,7 +7536,9 @@ Délégué à l'appui et au pilotage |
 
 2 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 CM Transformation digitale et administrateur réseaux |
 
@@ -6480,7 +7548,9 @@ CM Transformation digitale et administrateur réseaux |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chef du bureau des affaires budgétaires |
 
@@ -6490,7 +7560,9 @@ Chef du bureau des affaires budgétaires |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Préfecture du Val-d'Oise Direction des migrations et de l'intégration
 
@@ -6504,7 +7576,9 @@ Chef du bureau du contentieux et de l'éloignement |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au chef du bureau du contentieux et de l'éloignement |
 
@@ -6514,7 +7588,9 @@ Adjoint au chef du bureau du contentieux et de l'éloignement |
 
 2 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Agent en charge des mesures d'éloignement |
 
@@ -6524,7 +7600,9 @@ Agent en charge des mesures d'éloignement |
 
 2 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Rédacteurs en charge des mesures d'éloignement |
 
@@ -6534,7 +7612,9 @@ Rédacteurs en charge des mesures d'éloignement |
 
 2 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chef de section éloignement |
 
@@ -6544,7 +7624,9 @@ Chef de section éloignement |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chef du bureau du séjour |
 
@@ -6554,7 +7636,9 @@ Chef du bureau du séjour |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au chef du bureau du séjour |
 
@@ -6564,7 +7648,9 @@ Adjoint au chef du bureau du séjour |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chef de section séjour (admission exceptionnelle au séjour-AES) |
 
@@ -6574,7 +7660,9 @@ Chef de section séjour (admission exceptionnelle au séjour-AES) |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Agent de guichet séjour |
 
@@ -6584,7 +7672,9 @@ Agent de guichet séjour |
 
 12 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chef du bureau de l'intégration et de la naturalisation |
 
@@ -6594,7 +7684,9 @@ Chef du bureau de l'intégration et de la naturalisation |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint chef du bureau de l'intégration et de la naturalisation |
 
@@ -6604,7 +7696,9 @@ Adjoint chef du bureau de l'intégration et de la naturalisation |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Sous-préfecture de Sarcelles (95) |
 
@@ -6616,7 +7710,9 @@ Chef du bureau des ressortissants étrangers |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au chef du Bureau des ressortissants étrangers |
 
@@ -6626,7 +7722,9 @@ Adjoint au chef du Bureau des ressortissants étrangers |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au chef du Bureau des ressortissants étrangers |
 
@@ -6636,7 +7734,9 @@ Adjoint au chef du Bureau des ressortissants étrangers |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chef de section séjour AES |
 
@@ -6646,7 +7746,9 @@ Chef de section séjour AES |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au chef de section séjour |
 
@@ -6656,7 +7758,9 @@ Adjoint au chef de section séjour |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chef de section document de circulation pour étranger mineur |
 
@@ -6666,7 +7770,9 @@ Chef de section document de circulation pour étranger mineur |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chef du bureau de la sécurité intérieure et de l'ordre public |
 
@@ -6676,7 +7782,9 @@ Chef du bureau de la sécurité intérieure et de l'ordre public |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au chef du bureau de la sécurité intérieure et de l'ordre public |
 
@@ -6686,7 +7794,9 @@ Adjoint au chef du bureau de la sécurité intérieure et de l'ordre public |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Sous-préfecture d'Argenteuil (95) |
 
@@ -6698,7 +7808,9 @@ Chef du bureau de l'accueil du public et du séjour |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au chef du bureau de l'accueil du public et du séjour-responsable du contrôle et du séjour |
 
@@ -6708,7 +7820,9 @@ Adjoint au chef du bureau de l'accueil du public et du séjour-responsable du co
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au chef du bureau de l'accueil du public et du séjour-responsable de l'accueil et de la lutte contre la fraude |
 
@@ -6718,7 +7832,9 @@ Adjoint au chef du bureau de l'accueil du public et du séjour-responsable de l'
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chef de section accueil général et courrier |
 
@@ -6728,7 +7844,9 @@ Chef de section accueil général et courrier |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chef de section pré-accueil |
 
@@ -6738,7 +7856,9 @@ Chef de section pré-accueil |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chef de section du séjour |
 
@@ -6748,7 +7868,9 @@ Chef de section du séjour |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chef du bureau de l'action administrative et des relations avec les collectivités territoriales |
 
@@ -6758,7 +7880,9 @@ Chef du bureau de l'action administrative et des relations avec les collectivit�
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint Chef du bureau de l'action administrative et des relations avec les collectivités territoriales |
 
@@ -6768,7 +7892,9 @@ Adjoint Chef du bureau de l'action administrative et des relations avec les coll
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Préfecture du Val-d'Oise Direction de la citoyenneté et de la légalité
 
@@ -6782,7 +7908,9 @@ Chef du bureau des finances locales |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au chef du bureau des finances locales |
 
@@ -6792,7 +7920,9 @@ Adjoint au chef du bureau des finances locales |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chargé du contrôle budgétaire et fiscal des actes des collectivités territoriales |
 
@@ -6802,7 +7932,9 @@ Chargé du contrôle budgétaire et fiscal des actes des collectivités territor
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chef du bureau du contentieux et de l'expertise juridique |
 
@@ -6812,7 +7944,9 @@ Chef du bureau du contentieux et de l'expertise juridique |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au chef du bureau du contentieux et de l'expertise juridique |
 
@@ -6822,7 +7956,9 @@ Adjoint au chef du bureau du contentieux et de l'expertise juridique |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Consultant juridique |
 
@@ -6832,7 +7968,9 @@ Consultant juridique |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Préfecture du Val-d'Oise
 
@@ -6848,7 +7986,9 @@ Chef du service interministériel de défense et de protection civiles (SIDPC) |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au Chef du SIDPC |
 
@@ -6858,7 +7998,9 @@ Adjoint au Chef du SIDPC |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chef du pôle planification au SIDPC |
 
@@ -6868,7 +8010,9 @@ Chef du pôle planification au SIDPC |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chef du bureau de la sécurité intérieure |
 
@@ -6878,7 +8022,9 @@ Chef du bureau de la sécurité intérieure |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au chef du bureau de la sécurité intérieure |
 
@@ -6888,7 +8034,9 @@ Adjoint au chef du bureau de la sécurité intérieure |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chef du bureau de la police administrative |
 
@@ -6898,7 +8046,9 @@ Chef du bureau de la police administrative |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Préfecture du Val-d'Oise Direction départementale des territoires Cergy (95) |
 
@@ -6910,7 +8060,9 @@ Chargée d'études et de procédures |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Préfecture du Val-d'Oise Centre d'expertise et de ressources des titres Pontoise |
 
@@ -6922,7 +8074,9 @@ Chargé d'analyse et de lutte contre la fraude au permis de conduire |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Préfecture du Val-d'Oise Mission performance et fraude départementale
 
@@ -6936,7 +8090,9 @@ Référent fraude départemental |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Préfecture du Val-d'Oise Direction de la coordination et de l'appui territorial
 
@@ -6950,7 +8106,9 @@ Chef du bureau de la coordination, de la comitologie et de l'environnement |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chef de section de l'environnement |
 
@@ -6960,7 +8118,9 @@ Chef de section de l'environnement |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 19. Direction de la transformation du numérique (DTNUM) : 83 postes
 
@@ -6990,7 +8150,9 @@ Chef de mission Politique SSI et RCSSI |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef de la mission politique SSI adjoint |
 
@@ -7000,7 +8162,9 @@ Chef de la mission politique SSI adjoint |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Gestionnaire du bureau protection du secret |
 
@@ -7010,7 +8174,9 @@ Gestionnaire du bureau protection du secret |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Sous-direction des architectures sécurisées SDAS Paris (75) |
 
@@ -7022,7 +8188,9 @@ Chargé de mission architecture |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 SDAS Bureau réseaux (BR)
 
@@ -7036,7 +8204,9 @@ Ingénieur système et virtualisation |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Sous-direction des architectures sécurisées (SDAS)
 
@@ -7052,7 +8222,9 @@ Chef de section-architecte infrastructures |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Expert SecOps en sécurité des systèmes et infrastructures |
 
@@ -7062,7 +8234,9 @@ Expert SecOps en sécurité des systèmes et infrastructures |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Expert cloud |
 
@@ -7072,7 +8246,9 @@ Expert cloud |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Administrateur systèmes Cloud |
 
@@ -7082,7 +8258,9 @@ Administrateur systèmes Cloud |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Adjoint chef de section Cloud PI |
 
@@ -7092,7 +8270,9 @@ Adjoint chef de section Cloud PI |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Architecte Cloud |
 
@@ -7102,7 +8282,9 @@ Architecte Cloud |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 SDAS
 
@@ -7118,7 +8300,9 @@ Ingénieur sécurité des systèmes et des réseaux |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chef de projet numérique en sécurité des systèmes d'information |
 
@@ -7128,7 +8312,9 @@ Chef de projet numérique en sécurité des systèmes d'information |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Adjoint chef de section sureté logique |
 
@@ -7138,7 +8324,9 @@ Adjoint chef de section sureté logique |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 SDAS
 
@@ -7152,7 +8340,9 @@ Adjoint au chef de centre national de supervision H24 |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 SDAS
 
@@ -7166,7 +8356,9 @@ Expert intégrateur cloud computing |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 SDAS
 
@@ -7182,7 +8374,9 @@ Chef de projet hébergement |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Sous-direction des architectures sécurisées (SDAS)
 
@@ -7198,7 +8392,9 @@ Chef de projet déploiement des infrastructures de visioconférence |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chef de projet déploiement d'infrastructures télécom sur des projets immobiliers |
 
@@ -7208,7 +8404,9 @@ Chef de projet déploiement d'infrastructures télécom sur des projets immobili
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Expert dans le domaine de la téléphonie |
 
@@ -7218,7 +8416,9 @@ Expert dans le domaine de la téléphonie |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Expert en infrastructure visioconférence |
 
@@ -7228,7 +8428,9 @@ Expert en infrastructure visioconférence |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chef de la section études et projets réseaux |
 
@@ -7238,7 +8440,9 @@ Chef de la section études et projets réseaux |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Développement et maintien en condition opérationnelle d'outils de gestion de parc |
 
@@ -7248,7 +8452,9 @@ Développement et maintien en condition opérationnelle d'outils de gestion de p
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 SDAS
 
@@ -7264,7 +8470,9 @@ Ingénieur OPS senior |
 
 3 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Technicien de production OPS |
 
@@ -7274,7 +8482,9 @@ Technicien de production OPS |
 
 9 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 SDAS
 
@@ -7290,7 +8500,9 @@ Chef du centre d'hébergement |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Ingénieur OPS senior |
 
@@ -7300,7 +8512,9 @@ Ingénieur OPS senior |
 
 5 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 SDAS
 
@@ -7314,7 +8528,9 @@ Ingénieur OPS senior |
 
 2 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Technicien de production OPS |
 
@@ -7324,7 +8540,9 @@ Technicien de production OPS |
 
 5 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 SDENTAT
 
@@ -7340,7 +8558,9 @@ Chef de produits outils collaboratifs |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 SDENTAT
 
@@ -7356,7 +8576,9 @@ Chef de la section du soutien numérique de proximité du site de Beauvau |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Adjoint au chef de la section du soutien numérique de proximité du site de Beauvau |
 
@@ -7366,7 +8588,9 @@ Adjoint au chef de la section du soutien numérique de proximité du site de Bea
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Adjoint au chef du bureau de l'accompagnement numérique de proximité |
 
@@ -7376,7 +8600,9 @@ Adjoint au chef du bureau de l'accompagnement numérique de proximité |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Exploitant de la messagerie ministérielle |
 
@@ -7386,7 +8612,9 @@ Exploitant de la messagerie ministérielle |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chef de projet des évolutions et du cycle de vie de messagerie ministérielle |
 
@@ -7396,7 +8624,9 @@ Chef de projet des évolutions et du cycle de vie de messagerie ministérielle |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Adjoint au chef de la section messagerie collaborative unifiée |
 
@@ -7406,7 +8636,9 @@ Adjoint au chef de la section messagerie collaborative unifiée |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 SDENTAT
 
@@ -7422,7 +8654,9 @@ Ingénieur active directory/ poste de travail |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Sous-direction des applications numériques SDAN
 
@@ -7436,7 +8670,9 @@ Ingénieur SRE |
 
 2 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Sous-direction des applications numériques (SDAN)
 
@@ -7452,7 +8688,9 @@ Chef de section transformation numérique SG |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chef de projet administration centrale et territoriale |
 
@@ -7462,7 +8700,9 @@ Chef de projet administration centrale et territoriale |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 SDAN
 
@@ -7478,7 +8718,9 @@ Chef de section architecture et cohérence transverse |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chef du bureau des ressources et de la réalisation |
 
@@ -7488,7 +8730,9 @@ Chef du bureau des ressources et de la réalisation |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 SDAN
 
@@ -7502,7 +8746,9 @@ Adjoint chef de bureau BSCO |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chargé de mission |
 
@@ -7512,7 +8758,9 @@ Chargé de mission |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 SDAN-Bureau de la performance et de la sécurité applicative (BPSA) Paris |
 
@@ -7524,7 +8772,9 @@ Testeur performance |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 SDAN
 
@@ -7540,7 +8790,9 @@ Chef de projet transformation numérique |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chef de section DSR |
 
@@ -7550,7 +8802,9 @@ Chef de section DSR |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Sous-direction innovation de la donnée (SDID)
 
@@ -7566,7 +8820,9 @@ Architecte d'entreprise |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chargé de mission accessibilité des services numériques |
 
@@ -7576,7 +8832,9 @@ Chargé de mission accessibilité des services numériques |
 
 2 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 SDID
 
@@ -7592,7 +8850,9 @@ Architecte-DevOps Data |
 
 2 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Data Scientist |
 
@@ -7602,7 +8862,9 @@ Data Scientist |
 
 3 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 SDID
 
@@ -7616,7 +8878,9 @@ Développeur confirmé Tech Lead |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 UX Designer |
 
@@ -7626,7 +8890,9 @@ UX Designer |
 
 2 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 SDID-Bureau de l'émergence et de l'accélération de l'innovation (BEAI) Paris |
 
@@ -7638,7 +8904,9 @@ Chargé d'accompagnement Fabrique numérique |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Direction de programme Frontière Sécurisées et Fluides (DPFSF) Paris |
 
@@ -7650,7 +8918,9 @@ Directeur de programme |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Adjoint au directeur de programme |
 
@@ -7660,7 +8930,9 @@ Adjoint au directeur de programme |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Directeur technique |
 
@@ -7670,7 +8942,9 @@ Directeur technique |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Sous direction des ressources et de l'accompagnement au changement (SDRAC)-Paris |
 
@@ -7682,7 +8956,9 @@ Analyste-pilotage financier des projets numérique |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Sous direction des ressources et de l'accompagnement au changement (SDRAC)-Bureau du budget et de l'exécution financière |
 
@@ -7694,7 +8970,9 @@ Responsable budgétaire |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 20. Direction de l'évaluation de la performance, des achats, des finances et de l'immobilier (DEPAFI) : 14 postes
 
@@ -7726,7 +9004,9 @@ Adjoint du directeur de projet et chef de projet |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au chef de projet en charge de la coordination |
 
@@ -7736,7 +9016,9 @@ Adjoint au chef de projet en charge de la coordination |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 DEPAFI-Direction de projet du site unique
 
@@ -7750,7 +9032,9 @@ Adjoint au chef de projet en charge de l'infrastructure |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Secrétaire général et officier de sécurité |
 
@@ -7760,7 +9044,9 @@ Secrétaire général et officier de sécurité |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chef du pôle budgétaire et commande publique |
 
@@ -7770,7 +9056,9 @@ Chef du pôle budgétaire et commande publique |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Ingénieur spécialiste maintenance et exploitation bâtimentaire |
 
@@ -7780,7 +9068,9 @@ Ingénieur spécialiste maintenance et exploitation bâtimentaire |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Ingénieur systèmes d'information et communication |
 
@@ -7790,7 +9080,9 @@ Ingénieur systèmes d'information et communication |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Expert architecture |
 
@@ -7800,7 +9092,9 @@ Expert architecture |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Technicien support numérique |
 
@@ -7810,7 +9104,9 @@ Technicien support numérique |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Gestionnaire budgétaire |
 
@@ -7820,7 +9116,9 @@ Gestionnaire budgétaire |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Assistant de direction et budgétaire |
 
@@ -7830,7 +9128,9 @@ Assistant de direction et budgétaire |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chargé de projet |
 
@@ -7840,7 +9140,9 @@ Chargé de projet |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Expert pilotage chantier-sûreté-sécurité |
 
@@ -7850,7 +9152,9 @@ Expert pilotage chantier-sûreté-sécurité |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Expert technique tous corps d'état et économie de la construction |
 
@@ -7860,7 +9164,9 @@ Expert technique tous corps d'état et économie de la construction |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 21. Délégation à la sécurité routière (DSR) : 47 postes
 
@@ -7890,7 +9196,9 @@ Inspecteur du permis de conduire et de la sécurité routière |
 
 9 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Centre d'examens de Rosny-Sous-Bois (93) |
 
@@ -7902,7 +9210,9 @@ Inspecteur du permis de conduire et de la sécurité routière |
 
 16 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Centre d'examens de Rosny-Sous-Bois (93) |
 
@@ -7914,7 +9224,9 @@ Inspecteur du permis de conduire et de la sécurité routière |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Centre d'examens de Villepinte (93) |
 
@@ -7926,7 +9238,9 @@ Inspecteur du permis de conduire et de la sécurité routière |
 
 6 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Centre d'examens de Saint-Brice-Sous-Forêt (95) |
 
@@ -7938,7 +9252,9 @@ Inspecteur du permis de conduire et de la sécurité routière |
 
 3 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Centre d'examens du Bureau d'Education Routière-BER 75 en Seine-Saint-Denis (centre d'examens de Bobigny) |
 
@@ -7950,7 +9266,9 @@ Inspecteur du permis de conduire et de la sécurité routière |
 
 7 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Centre d'examens du Bureau d'Education Routière-BER 75 en Seine-Saint-Denis (centre d'examens de Noisy-le-Grand) |
 
@@ -7962,7 +9280,9 @@ Inspecteur du permis de conduire et de la sécurité routière |
 
 5 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 22. Direction générale de la gendarmerie nationale (DGGN) : 271 postes
 
@@ -7992,7 +9312,9 @@ Rédacteur en gestion immobilière |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Centre opérationnel de soutien infrastructure et logement/ Bureau marché budget/ Section marchés budget-Maisons-Alfort-Val de Marne (94) |
 
@@ -8004,7 +9326,9 @@ Chargé de la commande publique |
 
 2 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Direction des opérations et de l'emploi-Unité nationale cyber-Division technique-Département d'appui technique à l'enquête-Pontoise Val d'Oise (95) |
 
@@ -8016,7 +9340,9 @@ Expert en développement logiciel |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Commandement du soutien opérationnel de la gendarmerie nationale-Groupe de sécurité et d'appui-cercle mixte-Beynes-Yvelines (78) |
 
@@ -8028,7 +9354,9 @@ Cuisinier |
 
 5 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Commandement du soutien opérationnel de la gendarmerie nationale-Groupe de sécurité et d'appui-SSST-Beynes (78) |
 
@@ -8040,7 +9368,9 @@ Chef de section santé et sécurité au travail |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Commandement spécialisé pour la sécurité nucléaire-Département du soutien opérationnel-Bureau de la sécurité et de la protection du secret-Maisons-Alfort (94) |
 
@@ -8052,7 +9382,9 @@ Technicien d'exploitation |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 CSAG-Satory
 
@@ -8066,7 +9398,9 @@ Carrossier-peintre |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Mécanicien automobile |
 
@@ -8076,7 +9410,9 @@ Mécanicien automobile |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Garde Républicaine Bureau soutien logement infrastructure Section Nanterre Hauts-de-Seine (92) |
 
@@ -8088,7 +9424,9 @@ Chef de section Nanterre |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Plombier |
 
@@ -8098,7 +9436,9 @@ Plombier |
 
 4 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Garde Républicaine Bureau soutien logement infrastructure-section administration et finances Vérines Paris (75) |
 
@@ -8110,7 +9450,9 @@ Chef de groupe magasin |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Chef de section Paris Nord |
 
@@ -8120,7 +9462,9 @@ Chef de section Paris Nord |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Plombier |
 
@@ -8130,7 +9474,9 @@ Plombier |
 
 6 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Garde Républicaine Bureau soutien logement infrastructure-Section Paris Sud-Kellermann-Paris (75) |
 
@@ -8142,7 +9488,9 @@ Plombier |
 
 7 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Groupement de sécurité et d'appui Bureau administration et logistique Section casernement
 
@@ -8156,7 +9504,9 @@ Chef de section affaires immobilières |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Région de gendarmerie Ile-de-France-Bureau budget et administration
 
@@ -8170,7 +9520,9 @@ Chef du bureau budget et administration |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Région de gendarmerie Ile-de-France-centre de soutien automobile de la gendarmerie-Dugny Seine-Saint-Denis (93) |
 
@@ -8182,7 +9534,9 @@ Mécanicien automobile |
 
 7 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Carrossier-peintre |
 
@@ -8192,7 +9546,9 @@ Carrossier-peintre |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 RGIF/ Escadron Sécurité d'Appui (ESA)/ PHR Section technique (ST) Groupe Seine-Saint-Denis-Nord-Dugny (93) |
 
@@ -8204,7 +9560,9 @@ Chef de groupe |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 RGIF/ Escadron Sécurité d'Appui (ESA)/ PHR/ Section technique (ST)/ Groupe Maisons-Alfort (GMA)-Maisons-Alfort (94) |
 
@@ -8216,7 +9574,9 @@ Chef de groupe |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Service de traitement de l'information gendarmerie
 
@@ -8232,7 +9592,9 @@ Responsable du processus de la gestion documentaire |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Service de traitement de l'information gendarmerie
 
@@ -8246,7 +9608,9 @@ Chargé de projets |
 
 2 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Gestionnaire de processus |
 
@@ -8256,7 +9620,9 @@ Gestionnaire de processus |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Chargé du groupe Suivi de projet-gestionnaire de portefeuille d'applications |
 
@@ -8266,7 +9632,9 @@ Chargé du groupe Suivi de projet-gestionnaire de portefeuille d'applications |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Responsable du processus de la gestion documentaire |
 
@@ -8276,7 +9644,9 @@ Responsable du processus de la gestion documentaire |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Technicien des systèmes d'exploitation |
 
@@ -8286,7 +9656,9 @@ Technicien des systèmes d'exploitation |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Architecte Technique |
 
@@ -8296,13 +9668,15 @@ Architecte Technique |
 
 1 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Agence du numérique des forces de sécurité intérieure (ANFSI) Issy les Moulineaux (92) |
 
 Ingénieur adjoint au chef du département
 
-&laquo; architecture, sécurité et hébergement &raquo; |
+architecture, sécurité et hébergement |
 
 3 ans |
 
@@ -8310,19 +9684,11 @@ Ingénieur adjoint au chef du département
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
 
-Chef de projets techniques &laquo; Hébergement &raquo; |
+septembre 2025 |
 
-3 ans |
-
-8 000 |
-
-1 |
-
-1<sup>er</sup> septembre 2025 |
-
-Ingénieur &laquo; FinOps &raquo; |
+Chef de projets techniques Hébergement |
 
 3 ans |
 
@@ -8330,7 +9696,21 @@ Ingénieur &laquo; FinOps &raquo; |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
+
+Ingénieur FinOps |
+
+3 ans |
+
+8 000 |
+
+1 |
+
+1er
+
+septembre 2025 |
 
 Ingénieur Environnement Numérique
 
@@ -8344,7 +9724,9 @@ Travail/ edge computing) SIC |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chef de projet du Système d'Information
 
@@ -8356,7 +9738,9 @@ Schengen (N-SIS) |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Chef de projet SI application logistique et
 
@@ -8368,7 +9752,9 @@ Finance |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Unité nationale de police judiciaire-
 
@@ -8382,7 +9768,9 @@ Coordinateur de projets européens cyber |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Expert en sécurité numérique matérielle |
 
@@ -8392,7 +9780,9 @@ Expert en sécurité numérique matérielle |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Expert en sécurité numérique logicielle |
 
@@ -8402,7 +9792,9 @@ Expert en sécurité numérique logicielle |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chef du laboratoire de rétro-conception du CNENUM |
 
@@ -8412,7 +9804,9 @@ Chef du laboratoire de rétro-conception du CNENUM |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Chargé d'animation de la réserve cyber |
 
@@ -8422,7 +9816,9 @@ Chargé d'animation de la réserve cyber |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Commandement du ministère de l'Intérieur dans le cyberespace
 
@@ -8440,7 +9836,9 @@ Chef du bureau d'analyse de la menace cyber et des fuites de données |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Ingénieur d'études visant l'analyse prospective de la menace cyber |
 
@@ -8450,7 +9848,9 @@ Ingénieur d'études visant l'analyse prospective de la menace cyber |
 
 2 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 chargé de projets au bureau d'appui aux systèmes d'information cyber |
 
@@ -8460,7 +9860,9 @@ chargé de projets au bureau d'appui aux systèmes d'information cyber |
 
 2 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 chef du bureau d'appui aux systèmes d'information cyber |
 
@@ -8470,7 +9872,9 @@ chef du bureau d'appui aux systèmes d'information cyber |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Commandement du ministère de l'intérieur dans le cyberespace Division de la stratégie Département doctrine et prospective juridique
 
@@ -8484,7 +9888,9 @@ Chargé de prospective juridique liée au numérique et au cyberespace |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Direction des opérations et de l'emploi-Unité nationale cyber-Division des opérations-
 
@@ -8498,7 +9904,9 @@ Chargé du suivi des procédures et demande d'entraide pénale internationale |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Coordonnateur financier et logistique |
 
@@ -8508,7 +9916,9 @@ Coordonnateur financier et logistique |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 Centre de soutien automobile de la gendarmerie (CSAG) Satory-Versailles (78) |
 
@@ -8520,7 +9930,9 @@ Carrossier peintre |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Commandement du soutien opérationnel de la gendarmerie nationale-Groupe de sécurité et d'appui-cercle mixte-Rosny-sous-Bois (93) |
 
@@ -8532,7 +9944,9 @@ Chef de cuisine |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Cuisinier |
 
@@ -8542,7 +9956,9 @@ Cuisinier |
 
 7 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Commandement du soutien opérationnel de la gendarmerie nationale/ Groupement de sécurité et d'appui/ Compagnie de soutien opérationnel/ Peloton de soutien technique Issy les Moulineaux (92) |
 
@@ -8554,7 +9970,9 @@ Menuisier |
 
 2 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Plombier |
 
@@ -8564,7 +9982,9 @@ Plombier |
 
 2 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Mécanicien automobile |
 
@@ -8574,7 +9994,9 @@ Mécanicien automobile |
 
 2 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Commandement du soutien opérationnel de la gendarmerie nationale/ Groupement de sécurité et d'appui/ Bureau administration et logistique/ Section casernement Rosny-sous-Bois (93) |
 
@@ -8586,7 +10008,9 @@ Maçon |
 
 2 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Menuisier |
 
@@ -8596,7 +10020,9 @@ Menuisier |
 
 2 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Plombier |
 
@@ -8606,7 +10032,9 @@ Plombier |
 
 2 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Commandement du soutien opérationnel de la gendarmerie nationale
 
@@ -8620,7 +10048,9 @@ Chef de section gestion des personnels civils |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef de section accompagnement du personnel |
 
@@ -8630,7 +10060,9 @@ Chef de section accompagnement du personnel |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Commandement du soutien opérationnel de la gendarmerie nationale/ Centre opérationnel de soutien infrastructure et logement Bureau marché budget charges Maisons-Alfort (94) |
 
@@ -8642,7 +10074,9 @@ Adjoint au chef de bureau marché budget charges |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef de section charges |
 
@@ -8652,7 +10086,9 @@ Chef de section charges |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Commandement du soutien opérationnel de la gendarmerie nationale/ Centre opérationnel de soutien infrastructure et logement Bureau logement Maisons-Alfort (94) |
 
@@ -8664,7 +10100,9 @@ Chef de bureau logement |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Commandement du soutien opérationnel de la gendarmerie nationale/ Centre opérationnel de soutien infrastructure et logement-Bureau infrastructure-section planification entretien Maisons-Alfort (94) |
 
@@ -8676,7 +10114,9 @@ Gestionnaire soutien finances |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Commandement du soutien opérationnel de la gendarmerie nationale/ Centre opérationnel de soutien infrastructure et logement-Bureau logement
 
@@ -8690,7 +10130,9 @@ Chef de section réglementation contentieux |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef de section loyers |
 
@@ -8700,7 +10142,9 @@ Chef de section loyers |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Commandement du soutien opérationnel de la gendarmerie nationale/ Groupe de sécurité et d'appui/ bureau administration et logistique Beynes (78) |
 
@@ -8712,7 +10156,7 @@ Chef de section administration comptabilité |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er janvier 2023 |
 
 Chef de section casernement |
 
@@ -8722,7 +10166,9 @@ Chef de section casernement |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Menuisier |
 
@@ -8732,7 +10178,9 @@ Menuisier |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Plombier |
 
@@ -8742,7 +10190,9 @@ Plombier |
 
 3 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef de section environnement |
 
@@ -8752,7 +10202,9 @@ Chef de section environnement |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Garde Républicaine/ Bureau soutien logement infrastructure/ Section Nanterre (92) |
 
@@ -8764,7 +10216,9 @@ Maçon |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Garde Républicaine-Bureau soutien logement infrastructure Section Paris Nord-Vérines Paris (75) |
 
@@ -8776,7 +10230,9 @@ Maçon |
 
 2 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Garde Républicaine-Bureau soutien logement infrastructure Section Paris Sud-Kellermann Paris (75) |
 
@@ -8788,7 +10244,9 @@ Maçon |
 
 2 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Garde républicaine-Régiment de cavalerie-Peloton des artisans de la cavalerie-Paris (75) |
 
@@ -8800,7 +10258,9 @@ Menuisier |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Garde républicaine-Bureau soutien logement infrastructure Section menuiserie centrale Vérines Paris (75) |
 
@@ -8812,7 +10272,9 @@ Chef de la section |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Menuisier |
 
@@ -8822,7 +10284,9 @@ Menuisier |
 
 6 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Pôle judiciaire de la gendarmerie nationale-bureau des systèmes d'information d'investigation-Pontoise (95) |
 
@@ -8834,7 +10298,9 @@ Développeur informatique |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Pôle judiciaire de la gendarmerie nationale-bureau de l'appui opérationnel-section de l'appui technique-Pontoise (95) |
 
@@ -8846,7 +10312,9 @@ Chef de la section appui technique |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Région de gendarmerie Ile-de-France/ Escadron Sécurité d'Appui (ESA)/ PHR/ Section technique (ST)/ Groupe Maisons-Alfort (GMA)-(94) |
 
@@ -8858,7 +10326,9 @@ Maçon |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Menuisier |
 
@@ -8868,7 +10338,9 @@ Menuisier |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Plombier |
 
@@ -8878,7 +10350,9 @@ Plombier |
 
 3 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Région de gendarmerie Ile-de-France-Escadron Sécurité d'Appui (ESA)/ PHR/ Section technique (ST)/ Groupe Seine-Saint-Denis-nord-Dugny (93) |
 
@@ -8890,7 +10364,9 @@ Maçon |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Menuisier |
 
@@ -8900,7 +10376,9 @@ Menuisier |
 
 2 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Plombier |
 
@@ -8910,7 +10388,9 @@ Plombier |
 
 2 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Région de gendarmerie
 
@@ -8928,7 +10408,9 @@ Chef du bureau de l'immobilier et du logement |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Responsable technique de secteur Affaires Immobilières |
 
@@ -8938,7 +10420,9 @@ Responsable technique de secteur Affaires Immobilières |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Service des technologies et des systèmes d'information de la sécurité intérieure Sous-direction des systèmes d'information Issy-les-Moulineaux (92) |
 
@@ -8950,7 +10434,9 @@ Ingénieur des systèmes d'information (GesTT) N1T |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Technicien SIC dans le domaine décisionnel |
 
@@ -8960,7 +10446,9 @@ Technicien SIC dans le domaine décisionnel |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Service des technologies et des systèmes d'information de la sécurité intérieure Sous-direction des applications de commandement Bureau des salles de crise et de commandement Issy-les-Moulineaux (92) |
 
@@ -8972,7 +10460,9 @@ Chef de projets plates-formes de commandement |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Commandement du soutien opérationnel de la gendarmerie nationale-Centre national d'administration de la solde gendarmerie-Le Blanc (36) |
 
@@ -8984,7 +10474,9 @@ Adjoint au chef du CNASG |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Commandement du soutien opérationnel de la gendarmerie nationale-Centre national d'administration de la solde gendarmerie-Service expert ressources humaines du Blanc
 
@@ -8998,7 +10490,9 @@ Adjoint au chef du SERH |
 
 1 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Chef du bureau solde |
 
@@ -9008,7 +10502,9 @@ Chef du bureau solde |
 
 2 |
 
-1<sup>er</sup> janvier 2023 |
+1er
+
+janvier 2023 |
 
 Pôle Judiciaire de la Gendarmerie Nationale-Pontoise (95) |
 
@@ -9020,7 +10516,9 @@ Assistant en salle d'autopsie |
 
 2 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Commandement du soutien opérationnel de la gendarmerie nationale (COMSOPGN)
 
@@ -9034,7 +10532,9 @@ Chef du bureau des dépenses militaires |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Commandement du soutien opérationnel de la gendarmerie nationale (COMSOPGN)
 
@@ -9048,7 +10548,9 @@ Adjoint au chef de la section de gestion des personnels civils |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Commandement du soutien opérationnel de la gendarmerie nationale (COMSOPGN) Service de traitement de l'information gendarmerie
 
@@ -9062,7 +10564,9 @@ Administrateur d'outil et assistant de gestion de processus ISO 20000 et/ ou 270
 
 2 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Administrateur d'outil et assistant de gestion des formations |
 
@@ -9072,7 +10576,9 @@ Administrateur d'outil et assistant de gestion des formations |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Administrateur de la gestion documentaire |
 
@@ -9082,7 +10588,9 @@ Administrateur de la gestion documentaire |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Commandement du soutien opérationnel de la gendarmerie nationale (COMSOPGN)
 
@@ -9098,7 +10606,9 @@ Chef de la section santé sécurité au travail |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Commandement du soutien opérationnel de la gendarmerie nationale (COMSOPGN) Groupement de sécurité et d'appui (GSA)
 
@@ -9112,7 +10622,9 @@ Chef de la section santé sécurité au travail |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Commandement du soutien opérationnel de la gendarmerie nationale (COMSOPGN) Groupement de sécurité et d'appui (GSA) Beynes (78) |
 
@@ -9124,7 +10636,9 @@ Chef de cuisine |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chef de la section santé sécurité au travail |
 
@@ -9134,7 +10648,9 @@ Chef de la section santé sécurité au travail |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Cercle mixte gendarmerie mobile
 
@@ -9148,7 +10664,9 @@ Cuisinier |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Cercle mixte gendarmerie mobile
 
@@ -9162,7 +10680,9 @@ Gérant |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Cercle mixte de gendarmerie mobile-Antibes (06) |
 
@@ -9174,7 +10694,9 @@ Cuisinier |
 
 2 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Cercle mixte de gendarmerie mobile-Lodève (34) |
 
@@ -9186,7 +10708,9 @@ Adjoint directeur |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Cercle mixte gendarmerie mobile Baccarat (54) |
 
@@ -9198,7 +10722,9 @@ Cuisinier |
 
 2 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Cuisinier/ agent polyvalent |
 
@@ -9208,7 +10734,9 @@ Cuisinier/ agent polyvalent |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Cercle Mixte
 
@@ -9224,7 +10752,9 @@ Cuisinier |
 
 4 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Cercle mixte de l'école de gendarmerie de Montluçon (03) |
 
@@ -9236,7 +10766,9 @@ Cuisinier |
 
 5 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Cercle mixte de l'école de gendarmerie de Tulle (19) |
 
@@ -9248,7 +10780,9 @@ Cuisinier |
 
 5 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Cercle mixte de l'école de gendarmerie de Dijon Longvic (21) |
 
@@ -9260,7 +10794,9 @@ Cuisinier |
 
 5 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Chef de cuisine |
 
@@ -9270,7 +10806,9 @@ Chef de cuisine |
 
 2 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Cercle mixte de gendarmerie de Besançon (25) |
 
@@ -9282,7 +10820,9 @@ Employé polyvalent de restauration collective |
 
 2 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Cercle mixte de l'école de gendarmerie de Châteaulin Dinéault (29) |
 
@@ -9294,7 +10834,9 @@ Cuisinier |
 
 5 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Cercle mixte gendarmerie-Orléans (45) |
 
@@ -9306,7 +10848,9 @@ Gestionnaire logistique |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Serveur, employé polyvalent de restauration |
 
@@ -9316,7 +10860,7 @@ Serveur, employé polyvalent de restauration |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er septembre 2025 |
 
 Cercle mixte de l'école de gendarmerie
 
@@ -9330,7 +10874,9 @@ Cuisinier |
 
 2 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Cercle mixte de l'école des officiers de gendarmerie
 
@@ -9344,7 +10890,9 @@ Cuisinier |
 
 5 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Cercle mixte de l'école de gendarmerie de Fontainebleau Avon (77) |
 
@@ -9356,7 +10904,9 @@ Cuisinier |
 
 4 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Région Bourgogne Franche Comté DAO Bureau commandement-section appui technique |
 
@@ -9368,7 +10918,9 @@ Agent de maintenance et d'entretien qualifié |
 
 2 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Région de gendarmerie Normandie-Bureau des affaires immobilières à ROUEN (76) |
 
@@ -9380,7 +10932,9 @@ Technicien affaires immobilières |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Région de gendarmerie Normandie-Bureau budget-administration à ROUEN (76) |
 
@@ -9392,7 +10946,9 @@ Acheteur |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Région de gendarmerie Normandie-Bureau des soutiens opérationnels à CAEN (14) |
 
@@ -9404,7 +10960,9 @@ Chef de la section mobilité adjoint |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Groupement de gendarmerie départementale de la Manche-Service des affaires immobilières à
 
@@ -9418,7 +10976,9 @@ Agent de casernement |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Groupement de gendarmerie départementale de l'Orne-Service des affaires immobilières à ALENÇON (61) |
 
@@ -9430,7 +10990,9 @@ Technicien affaires immobilières |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Région de gendarmerie Hauts-de-France-Bureau des soutiens opérationnels-Section armements munition observation protection
 
@@ -9444,7 +11006,9 @@ Armurier |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Région de gendarmerie Nouvelle-Aquitaine-Bureau budget et administration-Section administration et marché
 
@@ -9458,7 +11022,9 @@ Acheteur/ approvisionneur |
 
 4 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Acheteur/ approvisionneur
 
@@ -9470,7 +11036,9 @@ Adjoint chef de section |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Acheteur/ approvisionneur |
 
@@ -9480,7 +11048,9 @@ Acheteur/ approvisionneur |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Région de gendarmerie Nouvelle-Aquitaine-Bureau budget et administration-Section du budget de l'unité opérationnelle-
 
@@ -9494,7 +11064,9 @@ Gestionnaire des ressources budgétaires |
 
 2 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Région de gendarmerie
 
@@ -9512,7 +11084,9 @@ Technicien santé sécurité au travail |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 SGAMI Sud-DEL-BZMM DAAPN 34
 
@@ -9526,7 +11100,9 @@ Carrossier peintre |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Centre de soutien automobile de gendarmerie (CSAG 06)
 
@@ -9540,7 +11116,9 @@ Mécanicien |
 
 2 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Centre de soutien automobile de gendarmerie (CSAG 13)
 
@@ -9554,7 +11132,9 @@ Carrossier peintre |
 
 2 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Centre de soutien automobile de la gendarmerie-Châteauroux-Indre (36) |
 
@@ -9566,7 +11146,9 @@ Mécanicien automobile |
 
 2 |
 
-1<sup>er</sup> janvier 2022 |
+1er
+
+janvier 2022 |
 
 Centre de soutien automobile de la gendarmerie-Saint Lô (50) |
 
@@ -9578,7 +11160,9 @@ Mécanicien |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Détachement atelier automobile police nationale à OISSEL (76) |
 
@@ -9590,7 +11174,9 @@ Mécanicien |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Région de gendarmerie Auvergne Rhône Alpes-Bureau des soutiens opérationnels-Section armements munition observation protection-Sathonay-Camp (69) |
 
@@ -9602,7 +11188,9 @@ Armurier |
 
 3 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Région de gendarmerie
 
@@ -9620,7 +11208,9 @@ Assistant de prévention des risques professionnels |
 
 2 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Adjoint au chef du bureau santé sécurité au travail |
 
@@ -9630,7 +11220,9 @@ Adjoint au chef du bureau santé sécurité au travail |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Région de gendarmerie des Pays-de-la-Loire-bureau budget administration-Nantes (44) |
 
@@ -9642,7 +11234,9 @@ Responsable marchés publics |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Région de gendarmerie Corse Ajaccio (2A) |
 
@@ -9654,7 +11248,9 @@ Maçon |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Région de gendarmerie Corse Ajaccio (2A) |
 
@@ -9666,7 +11262,9 @@ Chef du bureau des compétences et de l'accompagnement du personnel |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Région de gendarmerie Centre-Val-de-Loire-Bureau soutien opérationnel-Orléans (45) |
 
@@ -9678,7 +11276,9 @@ Agent de maintenance des armes et des équipements |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Région de gendarmerie Centre-Val-de-Loire-Section personnel non-officier-bureau de la gestion du personnel-Orléans (45) |
 
@@ -9690,7 +11290,9 @@ Gestionnaire de personnels militaires |
 
 1 |
 
-1<sup>er</sup> septembre 2025 |
+1er
+
+septembre 2025 |
 
 Région de gendarmerie Occitanie Caserne Courrège-Bureau budget administration-Section administration Toulouse (31) |
 
@@ -9702,7 +11304,9 @@ Adjoint au chef de la section administrative-gestionnaire SF |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Région de gendarmerie Occitanie Caserne Courrège
 
@@ -9718,7 +11322,9 @@ Gestionnaire soutien finances |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Gestionnaire budgétaire et comptable |
 
@@ -9728,7 +11334,9 @@ Gestionnaire budgétaire et comptable |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Région de gendarmerie Occitanie Caserne Lepic-Bureau de l'immobilier et du logement
 
@@ -9742,7 +11350,9 @@ Chef de section immobilier |
 
 1 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Direction des opérations et de l'emploi
 
@@ -9756,7 +11366,9 @@ Ingénieur expert backend |
 
 1 |
 
-1<sup>er</sup> septembre 2024 |
+1er
+
+septembre 2024 |
 
 SGAMI OUEST
 
@@ -9770,7 +11382,9 @@ Mécanicien polyvalent |
 
 3 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 SGAMI OUEST/ DEL-ASAMI 27-Heudreville (27) |
 
@@ -9782,7 +11396,9 @@ Mécanicien polyvalent |
 
 4 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 SGAMI OUEST/ DEL-ASAMI 28-Luce (28) |
 
@@ -9794,7 +11410,9 @@ Mécanicien polyvalent |
 
 4 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 SGAMI OUEST/ DEL-ASAMI 61-Alençon (61) |
 
@@ -9806,7 +11424,9 @@ Mécanicien polyvalent |
 
 2 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 SGAMI OUEST
 
@@ -9822,7 +11442,9 @@ Carrossier-Peintre polyvalent |
 
 3 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Magasinier automobile |
 
@@ -9832,7 +11454,9 @@ Magasinier automobile |
 
 2 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 Mécanicien polyvalent |
 
@@ -9842,7 +11466,9 @@ Mécanicien polyvalent |
 
 4 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 SGAMI OUEST/ DEL-ASAMI 18-Bourges (18) |
 
@@ -9854,8 +11480,10 @@ Mécanicien polyvalent |
 
 2 |
 
-1<sup>er</sup> janvier 2024 |
+1er
+
+janvier 2024 |
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 29 août 2025 (NOR : INTH2524384A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 1er novembre 2025.
+Conformément à l'article 10 du décret n° 2026-928 du 5 octobre 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le premier jour du mois suivant celui de sa publication, à savoir le 1er novembre 2026.

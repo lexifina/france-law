@@ -28,10 +28,14 @@ Les corps et emplois mentionnés à l'article 1er du présent décret sont les s
 
 -corps des techniciens des systèmes d'information et de communication régi par le décret n° 2011-1987 du 27 décembre 2011 portant statut particulier du corps des techniciens des systèmes d'information et de communication du ministère de l'intérieur ;
 
--emplois de chef de projet en systèmes et réseaux d'information et de communication régis par le décret n° 2016-81 du 29 janvier 2016 ;
+-emplois de conseiller numérique régis par le décret n° 2016-81 du 29 janvier 2016 ;
 
 -corps des techniciens supérieurs d'études et de fabrications du ministère de la défense régi par le décret n° 2011-964 du 16 août 2011 portant statut particulier du corps des techniciens supérieurs d'études et de fabrications du ministère de la défense ;
 
 -corps des officiers du corps technique et administratif de la gendarmerie nationale régi par le décret n° 2012-1456 du 24 décembre 2012 portant statut particulier des officiers du corps technique et administratif de la gendarmerie nationale ;
 
 -corps des sous-officiers du corps de soutien technique et administratif de la gendarmerie nationale régi par le décret n° 2008-953 du 12 septembre 2008 portant statut particulier des corps de sous-officiers et officiers mariniers de carrière et du soutien technique et administratif de la gendarmerie nationale.
+
+NOTA :
+
+Conformément à l'article 10 du décret n° 2026-928 du 5 octobre 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le premier jour du mois suivant celui de sa publication, à savoir le 1er novembre 2026.

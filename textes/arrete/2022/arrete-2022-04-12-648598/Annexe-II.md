@@ -1,6 +1,6 @@
 # Article Annexe II
 
-LOCALISATION DES AUTRES EMPLOIS DE CHEF DE PROJET EN SYSTÈMES ET RÉSEAUX D'INFORMATION ET DE COMMUNICATION DES ADMINISTRATIONS DE L'ÉTAT RELEVANT DU MINISTRE DE L'INTÉRIEUR
+LOCALISATION DES AUTRES EMPLOIS DE CONSEILLER NUMÉRIQUE DES ADMINISTRATIONS DE L'ÉTAT RELEVANT DU MINISTRE DE L'INTÉRIEUR
 
 DIRECTIONS OU SERVICES |
 
@@ -75,3 +75,7 @@ Chef de projet transverse pour les centres d'information et de commandement |
 Préfecture de Police de Paris - Direction de l'innovation, de la logistique et des technologies - Service de la gouvernance et de la stratégie |
 
 Directeur programme de la transformation numérique des processus ville et Etat |
+
+NOTA :
+
+Conformément à l'article 10 du décret n° 2026-928 du 5 octobre 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le premier jour du mois suivant celui de sa publication, à savoir le 1er novembre 2026.

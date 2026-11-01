@@ -278,7 +278,7 @@ A/ B |
 
 10 |
 
-Chef de projet en systèmes et réseaux d'information et de communication (Rouen) |
+Conseiller numérique (Rouen) |
 
 B |
 
@@ -606,4 +606,4 @@ A |
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 3 décembre 2025 (NOR : INTH2527689A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er janvier 2026.
+Conformément à l'article 10 du décret n° 2026-928 du 5 octobre 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le premier jour du mois suivant celui de sa publication, à savoir le 1er novembre 2026.
