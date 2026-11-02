@@ -1,0 +1,11 @@
+# Templemars : arrêté — 27-2024 - Travaux d'abattage d'un arbre - Angle de la Rue Louis Sury et de la Rue du Général de Gaulle
+
+- Collectivité : Templemars
+- SIREN : 215905852
+- Code INSEE : 59585
+- Date : 2026-11-02 (date de mise en ligne sur data.gouv.fr ; la date de l'acte n'est pas lisible dans le fichier)
+- Objet : 27-2024 - Travaux d'abattage d'un arbre - Angle de la Rue Louis Sury et de la Rue du Général de Gaulle
+- Pages : 2
+- Acte publié : https://static.data.gouv.fr/resources/arretes-generaux-2024/20261102-103718/27-2024-g-travaux-dabattage-dun-arbre-angle-de-la-rue-louis-sury-et-de-la-rue-du-general-de-gaulle.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6adb698666d5e15d1530d1d4
+- Texte : document numérisé sans couche texte (non reproduit ; voir l'acte publié)
