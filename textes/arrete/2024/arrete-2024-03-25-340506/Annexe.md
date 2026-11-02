@@ -156,12 +156,6 @@ RR Cayenne |
 
 Direction régionale Guyane |
 
-RR Mayotte |
-
-Direction régionale Mayotte |
-
-DR Mayotte |
-
 Recette de l'océan Indien
 
 |
