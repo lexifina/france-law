@@ -1,0 +1,9 @@
+# Réponse à la question n° 18254
+
+- Question : [18254](18254.md) — Question n° 18254 — Cumul de l'ASS avec une activité professionnelle
+
+## Réponse
+
+*JO du 2026-11-03, page 10374*
+
+Le dispositif de cumul de l'Allocation de solidarité spécifique (ASS) avec une activité professionnelle vise à favoriser la reprise d'emploi des bénéficiaires de l'ASS en leur permettant, lors de la reprise d'une activité, de cumuler intégralement leur allocation avec les revenus d'activité pendant une période de trois mois, consécutifs ou non. Il contribue ainsi à sécuriser financièrement les premiers mois de la reprise d'une activité professionnelle. La durée de ce cumul est décomptée en mois civils : tout mois au cours duquel une activité professionnelle est exercée est ainsi pris en compte, quelle que soit la durée de cette activité au cours du mois. À l'issue des trois mois de cumul, le versement de l'ASS est interrompu lorsque l'activité professionnelle se poursuit. L'exercice de quelques heures de travail au cours d'un mois conduit en effet à consommer un mois entier de la période de cumul, indépendamment de la rémunération perçue. Pour les personnes dont le retour à l'emploi repose sur une succession de missions courtes, ce fonctionnement peut ainsi conduire, à terme, à une diminution sensible des ressources. Le Gouvernement partage le souhait de prévenir ces effets de seuil, qui peuvent rendre financièrement peu attractive l'acceptation de missions courtes, alors même que celles-ci peuvent constituer une étape essentielle vers un retour durable à l'emploi. C'est pourquoi le Gouvernement entend engager une réflexion en vue de faire évoluer ce dispositif, afin de mieux prendre en compte la diversité des parcours de retour à l'emploi, de limiter les effets de seuil susceptibles de pénaliser les allocataires reprenant une activité faiblement rémunérée ou à faible quotité de travail.
