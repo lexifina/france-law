@@ -1,0 +1,9 @@
+# Réponse à la question n° 13313
+
+- Question : [13313](13313.md) — Question n° 13313 — Lysine : se protéger du dumping chinois
+
+## Réponse
+
+*JO du 2026-11-03, page 10327*
+
+La société Eurolysine est l'unique producteur européen d'acides aminés par fermentation industrielle, tels que la lysine, le tryptophane et la valine, essentiels à la nutrition des animaux d'élevage. Issue d'une reprise en juillet 2024 des actifs de la société METEX par le groupe Avril et Bpifrance, elle dispose d'un site production à Amiens et compte près de 330 salariés. Eurolysine est cependant confrontée depuis plusieurs années à une concurrence chinoise déloyale présentant des enjeux de dumping et de non-conformité, en particulier sur la lysine et le tryptophane. Dans ce contexte, le ministre chargé de l'industrie a annoncé, le 5 juin 2026, un investissement de 70 millions d'euros au capital d'Eurolysine partagé entre le groupe Avril (55 %) et l'État (45 %). Ce soutien financier exceptionnel aux côtés d'un investisseur privé contribue à préserver la souveraineté industrielle et agricole française et européenne en évitant de dépendre d'un monopole extérieur et il préserve des centaines d'emplois industriels. Ce soutien est une première étape et il doit désormais être poursuivi par le renforcement au niveau européen et national des mesures de protection commerciale et sanitaire. Au plan européen, la Commission européenne a ouvert le 29 avril 2026 une enquête anti-absorption concernant les importations de lysine en provenance de Chine. Cette enquête pourrait conduire au relèvement des droits antidumping et à la restauration de conditions de concurrence équilibrées. Une plainte sera aussi déposée auprès de la Commission européenne concernant le tryptophane. La mise en œuvre pleine et effective de ces mesures sera indispensable à la réussite industrielle d'Eurolysine les prochains mois.
