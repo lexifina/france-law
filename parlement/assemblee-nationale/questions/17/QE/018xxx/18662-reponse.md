@@ -1,0 +1,9 @@
+# Réponse à la question n° 18662
+
+- Question : [18662](18662.md) — Question n° 18662 — Pérennisation du financement des radios associatives par le FSER
+
+## Réponse
+
+*JO du 2026-11-03, page 10320*
+
+Présentes sur l'ensemble du territoire dans les zones rurales, insulaires, de montagne, en outre-mer, ainsi que dans les quartiers relevant de la politique de la ville, souvent peu couverts par les grands médias les radios associatives jouent un rôle déterminant dans le pluralisme de l'information. Elles donnent la parole aux habitants, aux associations locales, aux acteurs économiques et culturels, et contribuent de manière essentielle à la diffusion d'une information de proximité, au renforcement du lien social et au dynamisme culturel des territoires. Chaque année, plus de 760 radios associatives bénéficient des aides du Fonds de soutien à l'expression radiophonique locale (FSER). Représentant en moyenne 40 % de leurs ressources, ce dispositif constitue un pilier indispensable à leur modèle économique. Dans un contexte budgétaire particulièrement contraint, les projets de loi de finances pour 2025 et 2026 envisageaient une baisse conséquente des crédits du fonds. Avec l'appui du Gouvernement, les crédits du FSER avaient finalement été rétablis. À plusieurs reprises, le ministère de la culture a eu l'occasion de réaffirmer son attachement au média radio, et tout particulièrement aux radios associatives. C'est pourquoi il a veillé, lors de la préparation du budget pour 2027, à préserver un dispositif qui a démontré toute son utilité. Dans un contexte budgétaire contraint, le projet de loi de finances pour 2027 maintient les crédits du FSER à leur niveau de 2026, soit 35,3 millions d'euros. Cette stabilité donnera aux radios associatives les moyens de poursuivre leurs missions essentielles de communication sociale de proximité, de soutien au lien social et de valorisation des territoires, notamment les plus isolés.
