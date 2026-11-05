@@ -66,12 +66,14 @@ Ouvrier et TSO des branches préparation du travail-logistique (toutes spéciali
 
 Voilier-gréeur.
 
+Chefs d'équipe exerçant avant leur nomination l'une des professions susmentionnées et ayant conservé une expertise technique dans le domaine de cette même profession.
+
 Certaines professions ouvrières exercées avant le 20 février 1995 et ne figurant pas sur la liste ci-dessus sont prises en compte dans les conditions suivantes :
 
 a) Professions des anciennes nomenclatures reclassées dans l'une des professions de la liste ; la correspondance est donnée dans le tableau de reclassement, objet de l'annexe V de l'instruction n° 154/DEF/SGA du 20 février 1995 ;
 
 b) Professions de calorifugeur, chanfreineur, fondeur, matelassier, mouleur, opérateur sur machine à pointer, riveur, traceur de coque ayant été soit mises en extinction soit reclassées dans celle d'agent spécialisé dans les précédentes nomenclatures.
 
-Certaines professions ouvrières exercées depuis le 20 février 1995 et ne figurant pas sur la liste ci-dessus sont prises en compte lorsqu'il s'agit de professions de la nouvelle nomenclature reclassées dans l'une des professions de la liste ; la correspondance est donnée dans le tableau de reclassement, objet de l'annexe V de l'instruction n° 154/DEF/SGA du 20 février 1995.
+Certaines professions ouvrières exercées depuis le 20 février 1995 et ne figurant pas sur la liste ci-dessus sont prises en compte lorsqu'il s'agit de professions de la nouvelle nomenclature correspondant à l'une des professions de cette même liste conformément au tableau de reclassement de l'annexe V de l'instruction n° 154-2/ARM/SGA/DRH-MD du 5 janvier 2022 modifiée relative à la nomenclature des professions ouvrières.
 
-Les modifications intervenues après l'entrée en vigueur du présent arrêté, dans la nomenclature des professions ouvrières prévues à l'instruction n° 154/DEF/SGA du 20 février 1995 pour les professions de la liste ci-dessus, devront être prises en compte, conformément au tableau de reclassement, objet de l'annexe V de l'instruction du 20 février 1995.
+Les modifications dans la nomenclature des professions ouvrières intervenues après l'entrée en vigueur du présent arrêté sont prises en compte dans les mêmes conditions qu'à l'alinéa précédent.
