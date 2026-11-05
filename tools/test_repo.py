@@ -8,8 +8,9 @@ It asserts that:
 1. `git blame` on an article the Constitution's last change touched names a text as author of its lines;
 2. tools/en_vigueur.py gives the text before and after that change, and each equals the file at and before the tag;
 3. `git log --follow` on changed articles lists texts in the order they took effect;
-4. every tag resolves to a commit, and every commit but the documentation commit has an `In-force:` trailer;
-5. no commit is authored by Lexifina except the documentation commit (the last one), and no author name is a file name
+4. every tag resolves to a commit, and every law commit has an `In-force:` trailer; verified metadata-only
+   corrections are checked separately and do not invent an in-force date;
+5. no law commit is authored by Lexifina; documentation and verified metadata-only corrections may be, and no author name is a file name
    or a path (a builder bug once put `index.md` in the author field); every author email ends in `.invalid`;
 6. every git or tool command in the README's table runs and prints something.
 With --record the result is written to verification.json next to this script (for REPRODUCE.md).
@@ -48,6 +49,7 @@ class Smoke:
         on_disk = repo / 'tools' / 'en_vigueur.py'
         self.tool_path = on_disk if on_disk.exists() else HERE / 'repo' / 'tools' / 'en_vigueur.py'
         self.target: tuple[str, str, str] | None = None
+        self._metadata_corrections: set[str] | None = None
 
     def git(self, *args: str) -> str:
         out = subprocess.run(['git', *args], cwd=self.repo, capture_output=True, text=True, encoding='utf-8')
@@ -70,6 +72,65 @@ class Smoke:
         except AssertionError as exc:
             self.results.append((name, False, str(exc)))
             print(f'FAIL {name}: {exc}')
+
+    def metadata_corrections(self) -> set[str]:
+        """Recognize only fully labelled, non-law metadata corrections.
+
+        A label alone never exempts a commit from the law-date/author checks:
+        validate its identity, targets, dates, file manifest and actual diff.
+        """
+        if self._metadata_corrections is not None:
+            return self._metadata_corrections
+        out = self.git('log', '--format=%H%x1f%an%x1f%ae%x1f%cn%x1f%ce%x1f%(trailers:only,unfold)%x1e',
+                       '--grep=^Correction-scope: metadata only$', 'main')
+        verified = set()
+        for chunk in out.split('\x1e'):
+            if not chunk.strip():
+                continue
+            sha, author, email, committer, committer_email, block = chunk.strip().split('\x1f', 5)
+            fields: dict[str, list[str]] = {}
+            for line in block.splitlines():
+                key, sep, value = line.partition(': ')
+                if sep:
+                    fields.setdefault(key, []).append(value.strip())
+            assert fields.get('Kind') == ['correction'], f'{sha[:10]}: metadata correction needs Kind: correction'
+            assert fields.get('Correction-scope') == ['metadata only'], f'{sha[:10]}: invalid correction scope'
+            assert 'In-force' not in fields, f'{sha[:10]}: metadata correction must not assert In-force'
+            assert author == committer == 'Lexifina', f'{sha[:10]}: metadata correction identity is not Lexifina'
+            assert all(re.fullmatch(r'[^@\s]+@lexifina\.com', e) for e in (email, committer_email)), f'{sha[:10]}: invalid metadata correction email'
+            for key in ('Corrected', 'Reason', 'Supersedes', 'In-force-basis'):
+                assert len(fields.get(key, [])) == 1 and fields[key][0], f'{sha[:10]}: missing or duplicate {key}'
+            try:
+                dt.date.fromisoformat(fields['Corrected'][0])
+            except ValueError:
+                raise AssertionError(f'{sha[:10]}: invalid Corrected date')
+            targets = fields.get('Corrects', [])
+            assert targets and len(set(targets)) == len(targets), f'{sha[:10]}: missing or duplicate correction targets'
+            assert all(re.fullmatch(r'[0-9a-f]{40}', target) for target in targets), f'{sha[:10]}: invalid correction target'
+            redates = fields.get('Redates', [])
+            redated = set()
+            for entry in redates:
+                match = re.fullmatch(r'([0-9a-f]{40}) enacted (\d{4}-\d{2}-\d{2}|no-date)', entry)
+                assert match, f'{sha[:10]}: invalid enacted Redates entry'
+                target, day = match.groups()
+                assert target not in redated, f'{sha[:10]}: duplicate Redates target'
+                if day != 'no-date':
+                    try:
+                        dt.date.fromisoformat(day)
+                    except ValueError:
+                        raise AssertionError(f'{sha[:10]}: invalid enacted date')
+                redated.add(target)
+            assert redated == set(targets), f'{sha[:10]}: Corrects/Redates targets differ'
+            parents = self.git('rev-list', '--parents', '-n', '1', sha).split()
+            assert len(parents) == 2, f'{sha[:10]}: metadata correction must have one parent'
+            for target in targets:
+                self.git('merge-base', '--is-ancestor', target, parents[1])
+            changed = set(self.git('diff-tree', '--no-commit-id', '--name-only', '-r', sha).splitlines())
+            assert changed and all(path.startswith(('data/', 'tools/')) for path in changed), f'{sha[:10]}: metadata correction changes law or other undeclared files'
+            assert changed == set(fields.get('Files', [])), f'{sha[:10]}: Files does not match the actual diff'
+            verified.add(sha)
+        self._metadata_corrections = verified
+        return verified
 
     def pick(self):
         """The latest Constitution tag whose commit changed an article that existed before it: (tag, path, day)."""
@@ -130,17 +191,21 @@ class Smoke:
         assert tags, 'no tags'
         for t in tags:
             self.git('rev-parse', '--verify', '-q', f'{t}^{{commit}}')
-        rows = self.git('log', '--format=%H%x09%(trailers:key=In-force,valueonly,separator=)', 'main').splitlines()
+        corrections = self.metadata_corrections()
+        rows = [r for r in self.git('log', '--format=%H%x09%(trailers:key=In-force,valueonly,separator=)', 'main').splitlines()
+                if r.split('\t')[0] not in corrections]
         assert not rows[0].split('\t')[1].strip(), 'documentation commit should carry no In-force'
         missing = [r[:10] for r in rows[1:] if not re.fullmatch(r'\d{4}-\d{2}-\d{2}', r.split('\t')[1].strip())]
         assert not missing, f'{len(missing)} commits without a valid In-force, e.g. {missing[:3]}'
         days = [r.split('\t')[1].strip() for r in rows[1:]]
         assert days == sorted(days, reverse=True), 'In-force days are not in order along main'
-        return f'{len(tags)} tags resolve; {len(rows) - 1} law commits carry In-force, in date order'
+        return f'{len(tags)} tags resolve; {len(rows) - 1} law commits carry In-force, in date order; {len(corrections)} verified metadata corrections'
 
     # 5
     def authors(self):
-        rows = self.git('log', '--format=%H%x09%an%x09%ae%x09%cn', 'main').splitlines()
+        corrections = self.metadata_corrections()
+        rows = [r for r in self.git('log', '--format=%H%x09%an%x09%ae%x09%cn', 'main').splitlines()
+                if r.split('\t')[0] not in corrections]
         by_lex = [r for r in rows if r.split('\t')[1] == 'Lexifina']
         assert len(by_lex) == 1 and by_lex[0] == rows[0], f'{len(by_lex)} commits by Lexifina'
         assert all(r.split('\t')[3] == 'Lexifina' for r in rows), 'a committer other than Lexifina'
@@ -149,7 +214,7 @@ class Smoke:
         assert not bad, f'author names that are not texts: {bad[:5]}'
         emails = [r.split('\t')[2] for r in rows[1:] if not r.split('\t')[2].endswith('.invalid')]
         assert not emails, f'author emails not ending .invalid: {emails[:3]}'
-        return f'only the documentation commit {rows[0][:10]} is by Lexifina; {len(names)} distinct authors, none a file name'
+        return f'only the documentation commit {rows[0][:10]} and {len(corrections)} verified metadata corrections are by Lexifina; {len(names)} distinct law authors, none a file name'
 
     # 6
     def readme(self):

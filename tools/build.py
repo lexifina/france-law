@@ -234,6 +234,58 @@ def french_date(day: str) -> str:
     return f'{"1er" if d == "01" else int(d)} {MONTHS[int(m) - 1]} {y}'
 
 
+def signing_date(date_texte: str, title: str = '') -> str:
+    """A source signing date, never LEGI's open-ended/unknown-date sentinel.
+
+    If DATE_TEXTE is absent, only a date in the title's leading act designation
+    is eligible; dates of other acts mentioned in the subject are not signatures.
+    """
+    def real_date(value: str) -> str:
+        if not re.fullmatch(r'\d{4}-\d{2}-\d{2}', value or '') or value >= FAR:
+            return ''
+        try:
+            dt.date.fromisoformat(value)
+        except ValueError:
+            return ''
+        return value
+
+    direct = real_date(date_texte)
+    if direct:
+        return direct
+    designation = re.match(
+        r'^(?:loi(?:\s+(?:organique|constitutionnelle))?|décret(?:-loi)?|arrêté|'
+        r'ordonnance|décision|délibération|circulaire|constitution|'
+        r'accord(?:\s+collectif)?|avis(?:\s+divers)?)\s+'
+        r'(?:n[°ºo]\s*\S+\s+)?du\s+(\d{1,2}|1er)\s+'
+        r'(' + '|'.join(MONTHS) + r')\s+(\d{4})(?=\s|$|[,.;])',
+        SPACE.sub(' ', title or '').strip(), re.IGNORECASE)
+    if not designation:
+        return ''
+    day, month, year = designation.groups()
+    return real_date(f'{year}-{MONTHS.index(month.lower()) + 1:02d}-{int(day.lower().removesuffix("er")):02d}')
+
+
+def maker_signing_date(m: tuple, plan: dict) -> str:
+    """Prefer a real link date, then the credited text's DATE_TEXTE/title."""
+    direct = signing_date(m[3])
+    if direct:
+        return direct
+    if '_signing_texts' not in plan:
+        by_identity: dict[str, list[dict]] = {}
+        for t in plan['texts'].values():
+            for identity in {t['id'], t['cid']}:
+                by_identity.setdefault(identity, []).append(t)
+        plan['_signing_texts'] = by_identity
+    candidates = plan['_signing_texts'].get(m[0], [])
+    dates = {signing_date(t['date_texte'], t['titrefull'] or t['titre']) for t in candidates}
+    dates.discard('')
+    if len(dates) == 1:
+        return dates.pop()
+    if len(dates) > 1:
+        return ''
+    return signing_date('', plan['names'].get(m[0], ''))
+
+
 def law_name(m: tuple | None, names: dict) -> tuple[str, str]:
     """'Loi n° 2003-1312 du 30 décembre 2003', from LEGI's structured fields; the link title when they are missing."""
     if not m:
@@ -351,8 +403,9 @@ def write(plan: dict, db: sqlite3.Connection, repo: Path, docs: dict, docs_date:
         trailers = [f'In-force: {day}']
         if group not in ('', '~'):
             m = makers[group]
-            if m[3]:
-                trailers.append(f'Signed: {m[3]}')
+            signed = maker_signing_date(m, plan)
+            if signed:
+                trailers.append(f'Signed: {signed}')
             trailers.append(f'Text: {LEGIFRANCE}/{"jorf" if group.startswith("JORF") else "loda"}/id/{group}')
         msg = f'{subject}\n\n' + '\n'.join(body) + '\n\n' + '\n'.join(trailers) + '\n'
         if day < '1970-01-01':

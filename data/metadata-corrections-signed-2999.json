@@ -1,0 +1,753 @@
+{
+  "kind": "metadata-only correction",
+  "corrected": "2026-11-05",
+  "baseline": "0ac30999e8ead1688d98ff7b3ae5682e5f7ded3b",
+  "scope": "Signed metadata only; article bytes, attribution, in-force dates, paths and tags are unchanged.",
+  "reader": {
+    "url": "https://github.com/lexifina/global-law",
+    "trailer": "Redates: <commit> enacted <YYYY-MM-DD>|no-date"
+  },
+  "corrections": [
+    {
+      "corrects": "09f052eb75e0747700cbb70ba80848e9b7ceb27f",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": "2026-08-24",
+      "in_force": "2026-09-01",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2026-09-01; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054743041",
+      "source_id": "LEGITEXT000054743737",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Décret n° 2026-814 du 24 août 2026 relatif aux compétences du préfet de police et du préfet de Corse",
+      "signed_basis": "LEGI TEXTE_VERSION TITREFULL, date of the leading act designation.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/decret/2999/decret-2026-814"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "f58a5299d681ddadc9379cfb585a5902dfb2c30d",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2026-06-27",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2026-06-27; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054311675",
+      "source_id": "LEGITEXT000054340197",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Avenant n° 2 à l'accord relatif à la protection sociale complémentaire en matière de couverture des frais occasionnés par une maternité, une maladie ou un accident et en matière de prévoyance au sein du ministère de l'Europe et des affaires étrangères ainsi que de l'Agence pour l'enseignement français à l'étranger du 29 août 2024",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/accord-fonction-publique/2999/accord-fonction-publique-2999-01-01-340197"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "a31a4869dcf0ba45e9491a8d049dead3cab949e3",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2026-01-14",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2026-01-14; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053346567",
+      "source_id": "LEGITEXT000053371415",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Avis relatif aux seuils de procédure et à la liste des autorités publiques centrales en droit de la commande publique (1)",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/avis/2999/avis-2999-01-01-371415"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "c42ad952bd6d930bf9c66f1eaa41ab8a4adcd718",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2025-12-27",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2025-12-27; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053170349",
+      "source_id": "LEGITEXT000053331131",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Avis relatif aux seuils de procédure et à la liste des autorités publiques centrales en droit de la commande publique (1)",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/avis/2999/avis-2999-01-01-331131"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "d02ecc87e4f54fcfd196272d3a8d928ae578f1cf",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2025-10-17",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2025-10-17; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052397364",
+      "source_id": "LEGITEXT000052523137",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Avis aux fabricants, importateurs, vendeurs, distributeurs, loueurs, exploitants et gestionnaires de cages de buts de football, de handball, de hockey sur gazon et en salle et de buts de basket-ball relatif à l'application des articles R. 322-19 à R. 322-26 du code du sport",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/avis/2999/avis-2999-01-01-523137"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "99722409cfcadeeff2cb1f04662bba3c315eff46",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2025-03-28",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2025-03-28; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051381418",
+      "source_id": "LEGITEXT000051382457",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Avenant n° 1 à l'accord interministériel du 20 octobre 2023 relatif à l'amélioration des garanties en prévoyance (incapacité de travail, invalidité, décès) dans la fonction publique de l'Etat",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/accord-fonction-publique/2999/accord-fonction-publique-1"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "0ab55a3e5cd06790dba6846104e7e71295081638",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": "2024-12-28",
+      "in_force": "2024-12-30",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2024-12-30; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050854475",
+      "source_id": "LEGITEXT000050862508",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Décret n° 2024-1218 du 28 décembre 2024 abrogeant le décret n° 2024-1163 du 4 décembre 2024 modifiant les articles D. 213-1 et D. 213-2 du code monétaire et financier",
+      "signed_basis": "LEGI TEXTE_VERSION TITREFULL, date of the leading act designation.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/decret/2999/decret-2024-1218"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "51f7202802fb15a3edd2fab664b920745cfef092",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2024-12-20",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2024-12-20; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050797568",
+      "source_id": "LEGITEXT000050797671",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Hommage national aux victimes du cyclone Chido qui a ravagé le département de Mayotte le 14 décembre 2024",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/circulaire/2999/circulaire-2999-01-01-797671"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "63addff2bae743d82749588698f3942f327acc13",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2024-12-20",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2024-12-20; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050794035",
+      "source_id": "LEGITEXT000050794845",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Accord relatif à la protection sociale complémentaire en matière de couverture des frais occasionnés par une maternité, une maladie ou un accident et en matière de prévoyance au sein du ministère de l'Europe et des affaires étrangères ainsi que de l'Agence pour l'enseignement français à l'étranger",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/accord-fonction-publique/2999/accord-fonction-publique-2999-01-01-794845"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "c97592a8b12e616036b77c14c7a53fa453a74d00",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2024-09-06",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2024-09-06; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050179435",
+      "source_id": "LEGITEXT000050180010",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Accord 2024-2026 relatif à l'égalité professionnelle entre les femmes et les hommes et à la diversité au ministère de l'agriculture et de la souveraineté alimentaire",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/accord-fonction-publique/2999/accord-fonction-publique-2999-01-01-180010"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "6e62e58dc51df55bf59fce27b9648ac4f19a4115",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2024-07-12",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2024-07-12; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049938925",
+      "source_id": "LEGITEXT000051150769",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Accord collectif instituant un régime complémentaire de remboursement des frais de santé pour les agents du ministère de l'agriculture et de la souveraineté alimentaire",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/accord-fonction-publique/2999/accord-fonction-publique-2999-01-01-150769"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "b1d4e8945285b4fe03e3b6e2a640b1345b9944dd",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": "2024-05-04",
+      "in_force": "2024-05-06",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2024-05-06; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049503482",
+      "source_id": "LEGITEXT000049507257",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Arrêté du 4 mai 2024 modifiant l'arrêté du 7 juin 2016 aux pièces que l'Agence de services et de paiement peut demander aux personnes morales et organismes acceptant le chèque énergie pour l'application du II de l'article R. 124-4 du code de l'énergie",
+      "signed_basis": "LEGI TEXTE_VERSION TITREFULL, date of the leading act designation.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/arrete/2999/arrete-4-mai-2024"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "2e5a4ff82c31c5c8ae0b7200de1560c34fd57543",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2024-04-17",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2024-04-17; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049419243",
+      "source_id": "LEGITEXT000049423753",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Avis relatif aux index nationaux du bâtiment, des travaux publics et aux index divers de la construction (référence 100 en 2010) et à l'indice de réactualisation des actifs matériels dans la construction de janvier 2024, avis relatif à l'actualisation de la liste et de la composition des index des travaux publics",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/avis/2999/avis-2999-01-01-423753"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "61ff21ff04c6d6126fc77039cceda71db38c803c",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2024-04-17",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2024-04-17; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049419240",
+      "source_id": "LEGITEXT000049423520",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Avis relatif à l'indice du coût de la construction du quatrième trimestre de 2023 (décret n° 2009-1568 du 15 décembre 2009)",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/avis/2999/avis-2999-01-01-423520"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "db4520f8358185807d68ea7dd55dc7e2da62591e",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2024-04-13",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2024-04-13; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049406114",
+      "source_id": "LEGITEXT000049407435",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Avis relatif à l'indice des loyers commerciaux du quatrième trimestre de 2023 (loi n° 2008-776 du 4 août 2008, décret n° 2008-1139 du 4 novembre 2008 et décret n° 2022-357 du 14 mars 2022)",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/avis/2999/avis-2999-01-01-407435"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "c2015cfb5b83e964486756b7f5b812e6d4aa6155",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2024-04-05",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2024-04-05; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049364899",
+      "source_id": "LEGITEXT000049423535",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Avis relatif à l'indice du coût de la construction du quatrième trimestre de 2023 (décret n° 2009-1568 du 15 décembre 2009)",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/avis/2999/avis-2999-01-01-423535"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "bf67b43a3bcb3347690b52d25c78e61ad8058ddf",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2024-04-04",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2024-04-04; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049359353",
+      "source_id": "LEGITEXT000049407442",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Avis relatif à l'indice des loyers commerciaux du quatrième trimestre de 2023 (loi n° 2008-776 du 4 août 2008, décret n° 2008-1139 du 4 novembre 2008 et décret n° 2022-357 du 14 mars 2022)",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/avis/2999/avis-2999-01-01-407442"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "1a7833acb773f8d49f695424f606e8485b790f9f",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2024-03-23",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2024-03-23; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049310305",
+      "source_id": "LEGITEXT000049423758",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Avis relatif aux index nationaux du bâtiment, des travaux publics et aux index divers de la construction (référence 100 en 2010) et à l'indice de réactualisation des actifs matériels dans la construction de janvier 2024, avis relatif à l'actualisation de la liste et de la composition des index des travaux publics",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/avis/2999/avis-2999-01-01-423758"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "7c93e73a06a9c09d7d76a82834883acdc7564ff1",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2023-12-08",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2023-12-08; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048520068",
+      "source_id": "LEGITEXT000048532225",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Avis relatif aux seuils de procédure et à la liste des autorités publiques centrales en droit de la commande publique (1)",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/avis/2999/avis-2999-01-01-532225"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "8725c1f3725a4682982da25acd25e8ba55565640",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2023-12-04",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2023-12-04; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048502192",
+      "source_id": "LEGITEXT000048532749",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Avis de vacance d'un emploi de directeur adjoint ou de directrice adjointe de la direction des vérifications nationales et internationales (DVNI)",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/avis/2999/avis-2999-01-01-532749"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "77d9ca1960f739c4c0589e23d1353fd8f73138b5",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2023-03-12",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2023-03-12; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047294766",
+      "source_id": "LEGITEXT000047298048",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Accord relatif au télétravail au sein du ministère des armées",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/accord-fonction-publique/2999/accord-fonction-publique-2999-01-01-298048"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "d06d4fc4cfa1b518232ebd269d1c24bea5d60032",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2023-02-08",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2023-02-08; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047097328",
+      "source_id": "LEGITEXT000047125372",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Avis de vacance d'emplois dans les fonctions d'auditeur au Conseil d'Etat",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/avis/2999/avis-2999-01-01-125372"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "1da9ea65868ebea4f4ea4bfbad52acc5e1e397a5",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2022-04-21",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2022-04-21; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045602405",
+      "source_id": "LEGITEXT000045602896",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Accord relatif au télétravail au ministère de l'agriculture et de l'alimentation",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/accord-fonction-publique/2999/accord-fonction-publique-2999-01-01-602896"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "68d944efb6e950b789676124222c45dbc8401c33",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2022-04-04",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2022-04-04; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045464407",
+      "source_id": "LEGITEXT000045464927",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Accord relatif à la mise en œuvre du télétravail dans la fonction publique",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/accord-fonction-publique/2999/accord-fonction-publique-2999-01-01-464927"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "244c5992a1a232b6c143b574506db76ba2763826",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2022-03-07",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2022-03-07; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045300369",
+      "source_id": "LEGITEXT000045300586",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Accord interministériel relatif à la protection sociale complémentaire en matière de couverture des frais occasionnés par une maternité, une maladie ou un accident dans la fonction publique de l'Etat",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/accord-fonction-publique/2999/accord-fonction-publique-2999-01-01-300586"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "7d9b460ebc1ced2a14d301eefe044cf7f7028afd",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2021-12-10",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2021-12-10; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044455275",
+      "source_id": "LEGITEXT000045275597",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Avis relatif aux seuils de procédure et à la liste des autorités publiques centrales en droit de la commande publique (1)",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/avis/2999/avis-2999-01-01-275597"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "9bd18516d6c539b98c913d99f13ddbe8dd89066a",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2019-12-11",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2019-12-11; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039468564",
+      "source_id": "LEGITEXT000042509288",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Avis relatif aux seuils de procédure et à la liste des autorités publiques centrales en droit de la commande publique (1)",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/avis/2999/avis-2999-01-01-509288"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "d43d1badfcac6b29e82597e0b45e4fc132abddfc",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2019-06-14",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2019-06-14; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038599882",
+      "source_id": "LEGITEXT000054858538",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Avis relatif à l'avenant n° 6 à la convention nationale des infirmiers libéraux, signée le 22 juin 2007",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/avis/2999/avis-2999-01-01-858538"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "1ab9741271ab5ea9afe7abd13d195d25568f9685",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2019-04-01",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2019-04-01; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038319262",
+      "source_id": "LEGITEXT000038319409",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Avis relatif à la liste des dispositions internationales en matière de droit environnemental, social et du travail permettant de rejeter une offre comme anormalement basse en matière de marchés publics (1)",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/avis/2999/avis-2999-01-01-319409"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "5b1e35f99424a004203043659be327589ff2f8a9",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2019-04-01",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2019-04-01; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038319259",
+      "source_id": "LEGITEXT000038319406",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Avis relatif à la nature et au contenu des spécifications techniques dans les marchés publics (1)",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/avis/2999/avis-2999-01-01-319406"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "9c3a82311ff01ffeeec54c9096af12a19e67d7d5",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2019-04-01",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2019-04-01; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038319254",
+      "source_id": "LEGITEXT000038319395",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Avis relatif aux contrats de la commande publique ayant pour objet des services sociaux et autres services spécifiques (1)",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/avis/2999/avis-2999-01-01-319395"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "304aa789452ceb546aa8edb2dc43cc693e5e1053",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2019-04-01",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2019-04-01; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038319251",
+      "source_id": "LEGITEXT000038319377",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Avis relatif aux seuils de procédure et à la liste des autorités publiques centrales en droit de la commande publique (1)",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/avis/2999/avis-2999-01-01-319377"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "f2c43edf871856a21bf79ee6a42b0ad8c6ce5dfd",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2019-04-01",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2019-04-01; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038319246",
+      "source_id": "LEGITEXT000038319371",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Avis relatif à la liste des activités qui sont des travaux en droit de la commande publique (1)",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/avis/2999/avis-2999-01-01-319371"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "e926274167ea9a8ba02c556ac41d0382f6ec1fe4",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2018-01-01",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2018-01-01; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000036342905",
+      "source_id": "LEGITEXT000037794166",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Avis relatif aux seuils de procédure et à la liste des autorités publiques centrales en droit de la commande publique (1)",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/avis/2999/avis-2999-01-01-794166"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "4d6eeca3df3eac3329cf8e95af8f01f4d7f92c8e",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2016-03-28",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2016-03-28; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000032297374",
+      "source_id": "LEGITEXT000037794126",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Avis relatif aux contrats de la commande publique ayant pour objet des services sociaux et autres services spécifiques (1)",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/avis/2999/avis-2999-01-01-794126"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "186128c26d7e663a36be052b7fbcff36870deab3",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2016-03-28",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2016-03-28; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000032297370",
+      "source_id": "LEGITEXT000037794142",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Avis relatif à la nature et au contenu des spécifications techniques dans les marchés publics (1)",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/avis/2999/avis-2999-01-01-794142"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "92747d7ca40af9ad75011e849487b12e50fd9465",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2016-03-28",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2016-03-28; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000032297358",
+      "source_id": "LEGITEXT000037794148",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Avis relatif à la liste des dispositions internationales en matière de droit environnemental, social et du travail permettant de rejeter une offre comme anormalement basse en matière de marchés publics (1)",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/avis/2999/avis-2999-01-01-794148"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "a4bc14dd9713866a58e0f7305aba516a97a698e8",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2016-03-28",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2016-03-28; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000032297352",
+      "source_id": "LEGITEXT000037794117",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Avis relatif à la liste des activités qui sont des travaux en droit de la commande publique (1)",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/avis/2999/avis-2999-01-01-794117"
+      ],
+      "law_files_changed": false
+    },
+    {
+      "corrects": "7df0d975465fb9669ae748ed5b6676868516e1d9",
+      "supersedes": {
+        "Signed": "2999-01-01"
+      },
+      "signed": null,
+      "in_force": "2014-03-20",
+      "in_force_basis": "LEGI ARTICLE DATE_DEBUT = 2014-03-20; unchanged by this metadata correction.",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000028745972",
+      "source_id": "LEGITEXT000054752817",
+      "source_date_texte": "2999-01-01",
+      "source_title": "Avis relatif à l'avenant n° 4 à la convention destinée à organiser les rapports entre les infirmières et les infirmiers libéraux et l'Union nationale des caisses d'assurance maladie, signée le 22 juin 2007",
+      "signed_basis": "LEGI DATE_TEXTE is the unknown-date sentinel; its own title gives no signing date. Omit Signed.",
+      "reason": "Withdraw the LEGI unknown-date sentinel erroneously published as a signing date.",
+      "act_paths": [
+        "textes/avis/2999/avis-2999-01-01-752817"
+      ],
+      "law_files_changed": false
+    }
+  ]
+}
