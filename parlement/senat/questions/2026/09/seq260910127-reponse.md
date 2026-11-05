@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260910127
+
+- Question : [SEQ260910127](seq260910127.md) — Délai de mise en oeuvre des décrets relatifs à la réforme de la haute fonction publique territoriale
+
+## Réponse
+
+*Action et comptes publics, JO du 2026-11-05, page 5318*
+
+Les décrets n° 2026-483, 2026-484, 2026-485, 2026-486 et 2026-487 du 10 juin 2026, qui transposent à la fonction publique territoriale la réforme de la haute fonction publique de l'Etat, ont été publiés au Journal officiel du 12 juin 2026, pour une entrée en vigueur prévue le 1er juillet 2026. L'arrêté du 3 juillet 2026 relatif à la répartition par niveaux des emplois fonctionnels administratifs de direction des collectivités territoriales et des établissements publics locaux assimilés à des collectivités de plus de 40 000 habitants a été publié au Journal officiel du 4 juillet 2026. Cette publication permet aux collectivités territoriales et aux établissements concernés par la réforme de préparer le projet de délibération à présenter à leur instance de dialogue social et à leur assemblée délibérante, afin de déterminer le nouveau régime indemnitaire tenant compte des fonctions, des sujétions, de l'expertise et de l'engagement professionnel (RIFSEEP) lié à l'occupation d'emplois fonctionnels. Conscient des délais restreints auxquels sont soumis les collectivités territoriales et les établissements publics locaux assimilés, le Gouvernement a diffusé une instruction du 31 juillet 2026 relative à la mise en place du régime indemnitaire des emplois administratifs supérieurs de la fonction publique territoriale, à l'attention des préfets et des directeurs régionaux et départementaux des finances publiques, afin de sécuriser les modalités de mise en oeuvre du nouveau régime indemnitaire pendant la période transitoire entre l'entrée en vigueur des textes et les délibérations des collectivités, qui devront être prises dans un délai raisonnable.
