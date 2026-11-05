@@ -2930,12 +2930,6 @@ Chef CPN Basse-Terre |
 
 971 |
 
-DTPN971/ DTPJ/ Pointe-à-Pitre/ OFAST |
-
-Chef du détachement de l'antenne OFAST Caraïbes de Pointe-à-Pitre |
-
-971 |
-
 DTPN971/ STPJ/ Pointe-à-Pitre |
 
 Chef des divisions appui judiciaire et investigation de proximité |
@@ -3007,12 +3001,6 @@ Chef SDN |
 DTPN973/ STPJ |
 
 Adjoint au chef STPJ |
-
-973 |
-
-DTPN973/ STPJ |
-
-Chef antenne OFAST |
 
 973 |
 
@@ -4053,7 +4041,3 @@ Direction générale de la sécurité intérieure (64 postes) :
 La liste des postes de chef de service ou d'unité organique bénéficiant du plafond réglementaire de la part fonctionnelle de l'indemnité de responsabilité et de performance de la DGSI, fait l'objet d'un arrêté distinct non publié, conformément aux dispositions de l'article L. 861-1 du code de la sécurité intérieure.
 
 TOTAL : 770 postes.
-
-NOTA :
-
-Conformément à l’article 3 de l’arrêté du 20 juillet 2026 (NOR : INTC2619998A), ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur le 8 juin 2026.
