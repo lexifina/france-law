@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250705412
+
+- Question : [SEQ250705412](seq250705412.md) — Correction du texte d'application visant à interdire les arbitrages de dividendes pratique dite des « CumCum »
+
+## Réponse
+
+*Action et comptes publics, JO du 2026-11-05, page 5310*
+
+Par rescrit publié le 17 avril 2025 au BOI-RES-RPPM-000203, l'administration fiscale a explicité les modalités d'application des nouvelles dispositions des articles 119 bis et 119 bis A du code général des impôts (CGI) dans leur rédaction issue de l'article 96 de la loi n° 2025-127 du 14 février 2025 de finances pour 2025. Ces dispositions visent à renforcer la lutte contre la pratique des CumCum décrite par le parlementaire. Le paragraphe 4 de ce rescrit précisait que « lorsque les opérations susceptibles de générer un transfert de valeur au sens et pour l'application des dispositions de l'article 119 bis A du CGI interviennent sur un marché réglementé, ces dispositions n'imposent pas de soumettre ce transfert de valeur à la retenue à la source de manière préventive, si l'établissement payeur ne connaît effectivement pas sa contrepartie ». Ces précisions, cohérentes avec l'avis rendu par le Conseil d'État sur l'article du projet de loi de finances pour 2025 alors en discussion (CE, avis du 27 janvier 2025, n° 409218, points 12 et 13) et qui n'avaient ni pour objet ni pour effet de restreindre la portée de la loi de finances pour 2025, suscitaient de l'incompréhension. Dans un souci d'apaisement du débat, le Gouvernement a décidé d'abroger le passage contesté contenu dans ce paragraphe à compter du 24 juillet 2025. Par décision du 20 janvier 2026 n° 505127, le Conseil d'État, saisi d'un recours pour excès de pouvoir dirigé contre ce paragraphe 4, a donc jugé qu'il n'y avait pas lieu de statuer sur son annulation compte tenu de cette abrogation. Le Gouvernement n'a aucune intention de modifier cet état du droit.
