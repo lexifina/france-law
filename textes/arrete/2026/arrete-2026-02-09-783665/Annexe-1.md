@@ -1,9 +1,5 @@
 # Article Annexe 1
 
-ANNEXES
-
-ANNEXE 1
-
 CARACTÉRISTIQUES DES VÉHICULES DESTINÉS À L'ENSEIGNEMENT DE LA CONDUITE
 
 a) Autorisation de mise en circulation de véhicule destiné à l'enseignement de la conduite :
@@ -40,7 +36,7 @@ Les véhicules automobiles professionnels utilisés pour l'enseignement doivent 
 
 - sept ans pour les véhicules des catégories A1, A2, A, B1 et B à l'exception des véhicules tracteurs de la catégorie B utilisés au titre de la formation B assortie de la mention additionnelle 96 et de la formation à la catégorie BE pour lesquels la date de première mise en circulation est portée à douze ans ;
 
-- seize ans pour les véhicules de transport en commun de personnes et de transport de marchandises et les véhicules dotés d'équipements spéciaux autres que ceux prévus au 3° ci-après et destinés uniquement à la formation des personnes atteintes d'un handicap.
+- seize ans pour les véhicules dont le PTAC excède 3 500 kilogrammes et pour les véhicules dotés d'équipements spéciaux autres que ceux prévus au 3° ci-après et destinés uniquement à la formation des personnes atteintes d'un handicap.
 
 Ne sont pas concernées par ces limites d'âge les remorques, les semi-remorques et les cyclomoteurs.
 
@@ -60,7 +56,7 @@ Pour les véhicules dont le PTAC n'excède pas 3 500 kilogrammes :
 
 - un dispositif de double commande d'avertisseur sonore, de feux (position, croisement, route) et d'indicateur de changement de direction à portée immédiate de l'enseignant.
 
-Pour les véhicules de transport de marchandises ou de transport en commun de personnes :
+Pour les véhicules dont le PTAC excède 3 500 kilogrammes :
 
 - un volant situé au poste de conduite, à l'avant gauche du véhicule ;
 
@@ -72,13 +68,13 @@ Pour les véhicules de transport de marchandises ou de transport en commun de pe
 
 Pour les autres véhicules : deux rétroviseurs, l'un à droite, l'autre à gauche, réglés pour être utilisés par l'élève ;
 
-4° Etre munis de panneaux ou d'inscriptions visibles de l'avant et de l'arrière, portant une des mentions : « auto-école », « voiture-école », moto-école, véhicule-école ou cyclo-école.
+4° Etre munis de panneaux ou d'inscriptions visibles de l'avant et de l'arrière, portant une des mentions : "auto-école", "voiture-école", moto-école, véhicule-école ou cyclo-école.
 
 Ces panneaux ou inscriptions ne doivent comporter aucune autre indication, notamment publicitaire. Ils doivent être placés soit à l'avant et à l'arrière, soit sur le toit des véhicules.
 
 Lorsque le panneau est placé sur le toit, il doit être perpendiculaire à l'axe longitudinal de symétrie du véhicule et ses dimensions ne doivent pas être inférieures à 40 × 12 centimètres, ni excéder 50 × 15 centimètres. Pour les poids lourds, les panneaux ou les inscriptions sont placés à l'avant et à l'arrière des véhicules, leur dimension est portée à 100 × 30 centimètres.
 
-Pour les cyclomoteurs, les tricycles à moteur et les motocyclettes, la mention : « moto-école » ou « cyclo-école » doit apparaître nettement visible de l'avant et de l'arrière, soit sur deux panneaux ou inscriptions placés sur le véhicule, soit sur un gilet conforme aux dispositions de l'article R. 317-25 du code de la route portée par le conducteur et par l'enseignant lorsqu'il est assis à l'arrière du véhicule ;
+Pour les cyclomoteurs, les tricycles à moteur et les motocyclettes, la mention : "moto-école" ou "cyclo-école" doit apparaître nettement visible de l'avant et de l'arrière, soit sur deux panneaux ou inscriptions placés sur le véhicule, soit sur un gilet conforme aux dispositions de l'article R. 317-25 du code de la route portée par le conducteur et par l'enseignant lorsqu'il est assis à l'arrière du véhicule ;
 
 5° Pour l'enseignement de la conduite en circulation sur cyclomoteurs, motocyclettes, tricycles à moteur dont la puissance n'excède pas 15 kilowatts et dont le poids à vide n'excède pas 550 kilogrammes et quadricycles légers et lourds à moteur, un dispositif de type homologué permettant une liaison permanente (radio) est obligatoire entre l'enseignant et chaque élève, lorsque l'enseignant n'est pas à bord du véhicule ;
 
