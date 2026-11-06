@@ -1,6 +1,6 @@
 # Article Annexe II : Tableau n° 25
 
-AFFECTIONS CONSECUTIVES A L'INHALATION DE POUSSIERES MINERALES RENFERMANT DE LA SILICE CRISTALLINE (QUARTZ, CRISTOBALITE, TRIDYMITE), DES SILICATES CRISTALLINS (KAOLIN, TALC), DU GRAPHITE OU DE LA HOUILLE
+AFFECTIONS CONSECUTIVES A L'INHALATION DE POUSSIERES RENFERMANT DE LA SILICE CRISTALLINE (QUARTZ, CRISTOBALITE, TRIDYMITE), DES SILICATES CRISTALLINS (KAOLIN, TALC), DU GRAPHITE OU DE LA HOUILLE
 
 DÉSIGNATION DES MALADIES
 
@@ -54,7 +54,7 @@ A2. - 35 ans (sous réserve d'une durée minimale d'exposition de 5 ans)
 
 |
 
-A3. - Sclérodermie systémique progressive.
+A3. - Sclérodermie systémique progressive - Lupus érythémateux systémique.
 
 |
 
@@ -74,7 +74,7 @@ A3. - 15 ans (sous réserve d'une durée minimale d'exposition de 10 ans)
 
 |
 
-Affections dues à l'inhalation de poussières minérales renfermant des silicates cristallins (kaolin, talc) ou du graphite :
+Affections dues à l'inhalation de poussières renfermant des silicates cristallins (kaolin, talc) ou du graphite :
 
 |
 
@@ -82,7 +82,7 @@ Affections dues à l'inhalation de poussières minérales renfermant des silicat
 
 |
 
-Travaux exposant à l'inhalation de poussières minérales renfermant des silicates cristallins (kaolin, talc) ou du graphite, notamment :
+Travaux exposant à l'inhalation de poussières renfermant des silicates cristallins (kaolin, talc) ou du graphite, notamment :
 
 |
 
