@@ -1,5 +1,7 @@
 # French law, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is France's national law, which global-law reads at `france/national/acts/`.
+
 Every consolidated text in LEGI, the database behind Légifrance, as one git repository: the Constitution of 1958, the
 codes, and the laws, ordinances, decrees and orders that LEGI consolidates, one file per article. Each commit is a text
 taking effect: it writes the article versions that text made, is credited to that text, and is dated the day the
