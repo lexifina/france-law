@@ -40,7 +40,9 @@ A
 
 |
 
-Chef de l'unité renouvellement urbain - pôle renouvellement urbain et programmation logement public - service logement et construction durables |
+Chef de l'unité renouvellement urbain - pôle renouvellement urbain et programmation logement public - service logement et construction durables
+
+|
 
 B
 
@@ -70,7 +72,9 @@ B
 
 |
 
-Chargé d'opérations renouvellement urbain - unité renouvellement urbain - pôle renouvellement urbain et programmation logement public - service logement et construction durables |
+Chargé d'opérations renouvellement urbain - unité renouvellement urbain - pôle renouvellement urbain et programmation logement public - service logement et construction durables
+
+|
 
 B |
 
@@ -78,7 +82,9 @@ B |
 
 10 points |
 
-Assistant du chef de service logement et construction durables, en charge de la politique de la ville |
+Assistant du chef de service logement et construction durables, en charge de la politique de la ville
+
+|
 
 C |
 
@@ -504,21 +510,27 @@ B |
 
 01/01/2019 |
 
-DIRECTION DÉPARTEMENTALE DES TERRITOIRES ET DE LA MER DE LA LOIRE-ATLANTIQUE
+DIRECTION DÉPARTEMENTALE DES TERRITOIRES ET DE LA MER DE LOIRE-ATLANTIQUE
 
-Fonctions exercées |
+Fonction exercée |
 
-Niveau de qualification
+Niveau de
+
+qualification
 
 de l'emploi |
 
-Nombre d'emplois |
+Nombre
 
-Nombre de points (IM)
+d'emplois |
+
+Nombre
+
+de points (IM)
 
 par emploi |
 
-Responsable de l'unité logement public |
+Responsable du logement social - Logement social et renouvellement urbain - Service logement et rénovation urbaine |
 
 A |
 
@@ -526,7 +538,7 @@ A |
 
 25 |
 
-Chef de la mission rénovation urbaine |
+Responsable du renouvellement urbain - Logement social et renouvellement urbain - Service logement et rénovation urbaine |
 
 A |
 
@@ -534,7 +546,7 @@ A |
 
 25 |
 
-Chef du service Pilotage, Connaissance et Développement durable |
+Adjoint au chef de service et chef du bureau logement social et renouvellement urbain - Service logement et rénovation urbaine |
 
 A |
 
@@ -542,7 +554,7 @@ A |
 
 25 |
 
-Coordonnateur territorial Est |
+Coordonnateur territorial Est - Réseau territorial Est |
 
 A |
 
@@ -550,7 +562,7 @@ A |
 
 25 |
 
-Adjoint chargé de l'animation du financement social |
+Adjoint chargé de l'animation du financement du logement social - Logement social et renouvellement urbain - Service logement et rénovation urbaine |
 
 B |
 
@@ -558,7 +570,7 @@ B |
 
 15 |
 
-Adjoint au responsable de la mission renouvellement urbain |
+Adjoint au responsable du renouvellement urbain - Logement social et renouvellement urbain - Service logement et rénovation urbaine |
 
 B |
 
@@ -566,7 +578,7 @@ B |
 
 15 |
 
-Chargé de projet |
+Chargé de projet renouvellement urbain - Logement social et renouvellement urbain - Service logement et rénovation urbaine |
 
 B |
 
@@ -586,7 +598,9 @@ d'emplois |
 
 Nombre de points (IM) par emploi |
 
-Chef de service-adjoint du service habitat et rénovation urbaine en charge du département habitat public et renouvellement urbain |
+Chef de service-adjoint du service habitat et rénovation urbaine en charge du département habitat public et renouvellement urbain
+
+|
 
 A |
 
@@ -594,7 +608,9 @@ A |
 
 30 |
 
-Chef de pôle ANRU et logement social-service habitat et rénovation urbaine |
+Chef de pôle ANRU et logement social-service habitat et rénovation urbaine
+
+|
 
 B |
 
@@ -602,7 +618,9 @@ B |
 
 20 |
 
-Chargé de mission études/ copropriétés-Habitat privé, bâtiment, qualité de la construction et accessibilité-service habitat et rénovation urbaine |
+Chargé de mission études/ copropriétés-Habitat privé, bâtiment, qualité de la construction et accessibilité-service habitat et rénovation urbaine
+
+|
 
 B |
 
@@ -626,7 +644,9 @@ Nombre de points
 
 (IM) par emploi |
 
-Chef du service insertion et protection des personnes vulnérables |
+Chef du service insertion et protection des personnes vulnérables
+
+|
 
 A |
 
@@ -634,7 +654,9 @@ A |
 
 30 |
 
-Chargé du secrétariat de la commission de coordination des actions de prévention des expulsions locatives-unité maintien dans le logement-service insertion et protection des personnes vulnérables |
+Chargé du secrétariat de la commission de coordination des actions de prévention des expulsions locatives-unité maintien dans le logement-service insertion et protection des personnes vulnérables
+
+|
 
 C |
 
@@ -642,7 +664,9 @@ C |
 
 10 |
 
-Chargé de la gestion du contingent préfectoral de logements sociaux-unité accès au logement-service insertion et protection des personnes vulnérables |
+Chargé de la gestion du contingent préfectoral de logements sociaux-unité accès au logement-service insertion et protection des personnes vulnérables
+
+|
 
 C |
 
@@ -650,7 +674,9 @@ C |
 
 10 |
 
-Chargé de l'instruction des dossiers aide personnalisée au logement-unité hébergement et logement adapté-service insertion et protection des personnes vulnérables |
+Chargé de l'instruction des dossiers aide personnalisée au logement-unité hébergement et logement adapté-service insertion et protection des personnes vulnérables
+
+|
 
 C |
 
@@ -729,17 +755,3 @@ B
 20 points
 
 |
-
-NOTA :
-
-(2) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2009.
-
-Se reporter aux conditions d'application prévues à l'article 1 de l'arrêté du 10 octobre 2022 (NOR: TREK2228924A).
-
-Se reporter aux conditions d'application prévues à l'article 1 de l'arrêté du 14 février 2023 (NOR: TREK2304665A).
-
-Conformément à l'article 1er de l'arrêté du 11 mai 2023 (NOR : TREK2312890A), la présente annexe est remplacée, à effet du 4 mai 2023, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires du Loiret.
-
-Conformément à l'article 1er de l'arrêté du 20 juin 2023 (NOR : TREK2316871A), la présente annexe est remplacée, à effet du 1er mars 2023, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires du Jura.
-
-Conformément à l'article 1 de l'arrêté du 26 octobre 2023 (NOR : TREK2328908A), la présente annexe est remplacée, à effet du 1er août 2023, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires d'Indre-et-Loire.
