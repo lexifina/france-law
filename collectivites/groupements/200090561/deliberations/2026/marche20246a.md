@@ -1,0 +1,9 @@
+# CC VIERZON-SOLOGNE-BERRY : délibération MARCHE20246A — TRAITEMENT DES ORDURES MENAGERES RESIDUELLES MARCHE20246 - MODIFICATION N° 2 DU LOT 2
+
+- Collectivité : CC VIERZON-SOLOGNE-BERRY
+- SIREN : 200090561
+- Date : 2026-11-09
+- Matière : 1.1 Commande Publique/Marches publics
+- Objet : TRAITEMENT DES ORDURES MENAGERES RESIDUELLES MARCHE20246 - MODIFICATION N° 2 DU LOT 2
+- Acte publié : https://publication-actes.fr/OpenData/200090561/Deliberation/2026/95006/874e70d0fb054a98beab463d020ff84374697dfe25b7327f14f3865f14c99d18.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
