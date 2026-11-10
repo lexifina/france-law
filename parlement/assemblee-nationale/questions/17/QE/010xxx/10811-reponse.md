@@ -1,0 +1,9 @@
+# Réponse à la question n° 10811
+
+- Question : [10811](10811.md) — Question n° 10811 — Dissolution du rallye Fontainebleau
+
+## Réponse
+
+*JO du 2026-11-10, page 10547*
+
+La sécurité des chasseurs et des non chasseurs à la chasse est une priorité de la police de la chasse. La « chasse à courre, à cor et à cri » est autorisée par l'article L. 424-4 du code de l'environnement. Elle est rigoureusement encadrée, en particulier, par un arrêté du 18 mars 1982 relatif à l'exercice de la vénerie qui précise et encadre les modalités de cette chasse. Chaque année, la pratique de la chasse à courre peut donner lieu à des conflits entre usagers de la nature et à des tensions avec les riverains chez lesquels les grands animaux viennent se réfugier. L'occupation des routes et des chemins forestiers par les équipages de vénerie provoque parfois des différends avec les promeneurs et les automobilistes. Si la chasse à courre est désormais interdite dans certains pays voisins, elle continue de se pratiquer en France dans près de 69 départements. Historiquement réservée à l'aristocratie, la vénerie s'est ouverte au XXe siècle à un public plus vaste, une majorité des équipages étant aujourd'hui constituée en association dont les membres paient une cotisation à l'image des adhérents de clubs sportifs. Concernant la pétition créée par l'association Nos Viventia demandant la dissolution du « Rallye Fontainebleau », la liberté d'association représente une liberté fondamentale. La dissolution des associations est ainsi très strictement encadrée et limitée à des cas très particuliers, conformément aux articles L. 212-1 et suivants du code de la sécurité intérieure ou en application des dispositions de la loi du 1er juillet 1901 relative au contrat d'association. En l'espèce, et sans minimiser les faits décrits, il apparaît que ces faits ne sont pas susceptibles d'entrer dans le champ d'application de ces dispositions.
