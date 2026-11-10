@@ -1,0 +1,9 @@
+# Réponse à la question n° 17669
+
+- Question : [17669](17669.md) — Question n° 17669 — Non-recours à l'aide dite « Grands rouleurs »
+
+## Réponse
+
+*JO du 2026-11-10, page 10500*
+
+Le Gouvernement a annoncé une indemnité exceptionnelle, forfaitaire et temporaire de 100 € afin de limiter les effets de la hausse des coûts de carburant pour les travailleurs dits "grands rouleurs", qui utilisent leur véhicule personnel à des fins professionnelles. Le dispositif prévu au décret n° 2026-333 du 30 avril 2026 repose ainsi sur un certain nombre de critères fiscaux dont la résidence fiscale, le revenu fiscal de référence au titre de 2024, qui ne peut excéder 16 880 € par part et le non assujettissement à l'impôt sur la fortune immobilière. Ces critères s'inscrivent ainsi dans la volonté du Gouvernement d'accompagner, dans cette crise, les travailleurs aux revenus les plus modestes utilisant leur véhicule à des fins professionnelles. L'instruction des demandes et le versement de l'aide, sont assurés par la direction générale des Finances publiques. Cette dernière a mis en œuvre une campagne de communication et rappelle régulièrement les critères d'éligibilité afin de bénéficier du dispositif, notamment sur le site internet impots.gouv.fr. Une des conditions pour bénéficier de cette indemnité exceptionnelle est de réaliser plus de 15 kilomètres par trajet et par jour entre son domicile et son lieu de travail ou plus de 8 000 kilomètres par an dans le cadre de son activité professionnelle, données dont ne dispose pas l'administration. Cette indemnité, qui n'est pas à une prestation sociale, est donc subordonnée à la demande de l'usager et ne peut relever que d'une démarche volontaire de sa part. Ce sont dans ces conditions qu'initialement prévu jusqu'au 30 juillet 2026 et par arrêté du 8 septembre 2026, le dispositif a été prorogé jusqu'au 30 septembre 2026 afin de permettre au plus grand nombre d'usagers concernés de formuler une demande.
