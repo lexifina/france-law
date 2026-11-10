@@ -1,0 +1,9 @@
+# Réponse à la question n° 9484
+
+- Question : [9484](9484.md) — Question n° 9484 — Autoconsommation collective et fiscalité
+
+## Réponse
+
+*JO du 2026-11-10, page 10527*
+
+La fiscalité sur les énergies est harmonisée au niveau européen par la directive n° 2003/96/CE du 27 octobre 2003 restructurant le cadre communautaire de taxation des produits énergétiques et de l'électricité (ci-après « directive énergie »). Les États membres peuvent ainsi appliquer un tarif nul d'accise pour l'électricité d'origine renouvelable, possibilité à laquelle la France recourt dans le cadre des opérations d'autoconsommation collective mentionnées aux articles L. 312-79 et L. 312-87 du code des impositions sur les biens et services (CIBS). Pour bénéficier de ce tarif réduit, les redevables participant à des opérations d'autoconsommation collective doivent notamment justifier que l'électricité consommée est bien l'électricité d'origine renouvelable produite par la personne participant à l'opération. Le respect de cette condition a été interprété par l'administration fiscale comme ne pouvant être apportée que par l'existence d'une connexion directe entre l'installation de production et l'installation de consommation dans les commentaires administratifs publiés le 21 mai 2025 au Bulletin officiel des finances publiques (BOFiP) sous la référence BOI-RES-EAT-000208. Cette interprétation a été annulée par le Conseil d'État par une décision du 30 mars 2026 (n° 506355) qui a considéré que la condition matérielle d'une « connexion physique directe » s'ajoute aux conditions prévues aux articles L. 312-79 et L. 312-87 du CIBS. En conséquence, l'administration fiscale a procédé au retrait des commentaires administratifs publiés sous la référence BOI-RES-EAT-000208 en mai 2026, étant entendu que les redevables pouvaient, dans l'intervalle, d'ores et déjà se prévaloir de la décision du Conseil d'État susmentionnée.
