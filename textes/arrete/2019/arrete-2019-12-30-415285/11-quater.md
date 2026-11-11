@@ -40,11 +40,13 @@ La direction de l'administration comprend quatre sous-directions :
 
 - est responsable du pilotage des fonctions support des services déconcentrés, dont la gestion est assurée en régie ou déléguée ; à ce titre, elle assure la passation et le suivi national des marchés de gestion déléguée et des contrats de partenariat, et apporte son appui aux services déconcentrés sur les modalités de leur mise en œuvre ;
 
-- conçoit et met en œuvre la politique immobilière de la direction de l'administration pénitentiaire ; pour l'immobilier spécifique, elle prépare et coordonne la conception et la réalisation des programmes immobiliers pénitentiaires et détermine les orientations de la politique de maintenance et des évolutions du parc immobilier pénitentiaire ;
+- recueille les besoins en matière d'immobilier de l'administration pénitentiaire et les formalise ; définit les spécificités techniques de l'immobilier pénitentiaire ; contribue à l'élaboration du programme d'investissement, répartit les moyens nécessaires en lien avec les responsables de budgets opérationnels de programme ; élabore et met en œuvre le plan de gros entretien renouvellement de l'immobilier spécifique en lien avec le secrétariat général ;
 
-- exerce la tutelle de l'Agence publique pour l'immobilier de la justice pour la réalisation des opérations immobilières pénitentiaires, en liaison avec le secrétariat général, ainsi que la tutelle budgétaire et immobilière de l'Ecole nationale d'administration pénitentiaire ;
+- détermine les orientations de la politique de maintenance et des principes d'évolution du parc immobilier pénitentiaire ;
 
-- établit une planification prévisionnelle et assure le suivi des opérations préalables à la mise en service des nouveaux établissements ou quartiers pénitentiaires et aux fermetures éventuelles associées, en lien avec les services centraux et déconcentrés ;
+- exerce la tutelle budgétaire et immobilière de l'Ecole nationale d'administration pénitentiaire ;
+
+- établit la planification prévisionnelle et assure le suivi des opérations préalables à la mise en service des nouveaux établissements ou quartiers pénitentiaires et aux fermetures éventuelles associées, en lien avec les services centraux et déconcentrés ;
 
 - dans le cadre de référence défini par le secrétariat général, assure la maîtrise d'ouvrage et la gouvernance des systèmes d'information de la direction, conduit les projets de réalisation, de déploiement et d'évolution des applications répondant aux besoins exprimés par les métiers ;
 
@@ -73,7 +75,3 @@ La direction de l'administration comprend quatre sous-directions :
 - à la formation initiale et continue des personnels, à l'élaboration des référentiels métiers et à la tutelle de l'Ecole nationale d'administration pénitentiaire dans le domaine de la formation ;
 
 - au recrutement des personnels et à l'organisation des concours et des examens professionnels, sous réserve des compétences du secrétariat général relatives aux corps communs.
-
-NOTA :
-
-Conformément à l'article 5 de l'arrêté du 22 décembre 2025 (NOR : JUST2534324A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er février 2026.
