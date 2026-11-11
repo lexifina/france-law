@@ -100,21 +100,27 @@ C
 
 |
 
-DIRECTION DÉPARTEMENTALE DES TERRITOIRES DE LA HAUTE-MARNE
+Direction départementale des territoires de la Haute-Marne
 
-Fonctions exercées |
+Fonction exercée |
 
-Niveau de qualification
+Niveau de
+
+qualification
 
 de l'emploi |
 
-Nombre d'emplois |
+Nombre
 
-Nombre de points (IM)
+d'emplois |
+
+Nombre de
+
+points (IM)
 
 par emploi |
 
-Chef du bureau habitat, adjointe à la cheffe de service |
+Chef du pôle ANAH et lutte contre l'habitat indigne - Bureau de l'habitat - Service habitat construction |
 
 A |
 
@@ -122,7 +128,7 @@ A |
 
 10 |
 
-Chargé de projet revitalisation du territoire |
+Chef du pôle logement social et politiques territoriales - Bureau de l'habitat - Service habitat construction |
 
 A |
 
@@ -130,7 +136,7 @@ A |
 
 10 |
 
-Chargé du logement social-ANRU |
+Chargé du financement du logement social - Bureau de l'habitat - Service habitat construction |
 
 B |
 
@@ -138,7 +144,7 @@ B |
 
 10 |
 
-Adjoint au chef du bureau habitat et politique du logement des plus démunis |
+Instructeur ANAH - Bureau de l'habitat - Service habitat construction |
 
 B |
 
@@ -146,7 +152,7 @@ B |
 
 10 |
 
-Accueil des familles dans le cadre de la politique du logement des plus démunis |
+Accueil des familles dans le cadre de la politique du logement des plus démunis - Direction départementale de l'emploi du travail des solidarités et de la protection des populations |
 
 C |
 
@@ -154,7 +160,7 @@ C |
 
 10 |
 
-Accueil des familles dans le cadre de la politique du logement des plus démunis |
+Instructeur ANAH - Bureau de l'habitat - Service habitat construction |
 
 C |
 
@@ -212,7 +218,7 @@ B |
 
 30 points |
 
-Direction départementale de l'équipement et de l'agriculture (2) de Meurthe-et-Moselle
+Direction départementale de l'équipement et de l'agriculture de Meurthe-et-Moselle
 
 FONCTIONS EXERCEES
 
@@ -1582,7 +1588,7 @@ A |
 
 NOTA :
 
-(2) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2009.
+Conformément à l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2009.
 
 Conformément à l'article 1er de l'arrêté du 29 août 2017 (TERK1725827A), les dispositions pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de Meurthe-et-Moselle entrent en vigueur le 1er octobre 2017.
 
@@ -1591,8 +1597,6 @@ Conformément à l'article 1er de l'arrêté du 29 août 2017 (TERK1722358A), le
 Conformément à l'article 1er de l'arrêté du 7 mai 2019, les dispositions dudit arrêté pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de l'Oise entrent en vigueur le 1er janvier 2018.
 
 Conformément à l'article 1er de l'arrêté du 2 février 2022 (NOR : TERK2203563A), la présente annexe est remplacée, à effet du 1er janvier 2021, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de Meurthe-et-Moselle.
-
-Conformément à l'article 1 de l'arrêté du 27 avril 2022 (NOR : TERK2212913A), la présente annexe est remplacée, à effet du 1er janvier 2020, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de la Haute-Marne.
 
 Conformément à l'article 1 de l'arrêté du 19 avril 2023 (NOR : TREK2311012A), la présente annexe est remplacée, à effet du 1er juin 2022, pour ce qui concerne la répartition de l'enveloppe de la direction départementale de l'équipement du Nord.
 
