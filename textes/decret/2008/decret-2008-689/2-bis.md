@@ -8,7 +8,7 @@ A ce titre elle :
 
 - avec le concours des administrations compétentes et associations, élabore et met en œuvre les politiques sociales et d'insertion professionnelle de nature à favoriser la réinsertion des personnes placées sous main de justice. Elle participe, en liaison avec les directions compétentes, à l'élaboration des normes relatives à l'exécution des décisions judiciaires. Elle élabore les règles applicables au service public pénitentiaire ;
 
-- répartit entre les services déconcentrés les moyens budgétaires nécessaires à leur fonctionnement. Elle anime le contrôle de gestion. Elle assure la programmation immobilière pour l'immobilier pénitentiaire spécifique et met en œuvre avec le concours de l'agence publique pour l'immobilier de la justice (APIJ) la politique en ce domaine. Elle définit ses besoins en matière de systèmes d'information ;
+- répartit entre les services déconcentrés les moyens budgétaires nécessaires à leur fonctionnement, en lien avec le secrétariat général pour ceux relatifs à l'immobilier. Elle anime le contrôle de gestion. Elle contribue, en lien avec le secrétariat général, à la programmation immobilière pour l'immobilier pénitentiaire spécifique. Elle définit ses besoins en matière de systèmes d'information ;
 
 - en liaison avec le secrétariat général, définit et conduit la politique des ressources humaines menée au profit des personnels des services déconcentrés et élabore les règles statutaires applicables aux corps propres à l'administration pénitentiaire. Elle développe les outils de gestion prévisionnelle. Elle assure un suivi individualisé des carrières. Elle assure la tutelle de l'Ecole nationale d'administration pénitentiaire (ENAP).
 
@@ -40,7 +40,7 @@ La direction de l'administration :
 
 - met en œuvre la politique de gestion des ressources humaines et anime le dialogue social de l'administration pénitentiaire ;
 
-- assure l'allocation des moyens budgétaires, immobiliers, matériels et technologiques ;
+- assure l'allocation des moyens budgétaires, matériels et technologiques et, en lien avec le secrétariat général, immobiliers ;
 
 - déploie et met en œuvre une expertise en matière d'organisation du travail, de conseil juridique, de valorisation des données, de recherche, d'évaluation des politiques pénitentiaires, d'innovation technologique et de politique des greffes des établissements pénitentiaires ;
 
