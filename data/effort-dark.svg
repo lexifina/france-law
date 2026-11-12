@@ -1,0 +1,323 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="752" viewBox="0 0 880 752" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="879" height="751" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="24" y="38" font-size="16" font-weight="600" fill="#f0f6fc">French law as a git history</text>
+<rect x="272.2" y="24.5" width="61" height="20" rx="10" fill="none" stroke="#3d444d"/>
+<text x="302.6" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">29bccd2</text>
+<rect x="341.0" y="24.5" width="157" height="20" rx="10" fill="none" stroke="#3d444d"/>
+<text x="419.4" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">record to Oct 28, 2026</text>
+<rect x="505.8" y="24.5" width="118" height="20" rx="10" fill="none" stroke="#3d444d"/>
+<text x="565.0" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">freshness: stale</text>
+<rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="40.0" y="87" font-size="20" font-weight="600" fill="#f0f6fc">153,011</text>
+<text x="40.0" y="106" font-size="12" fill="#9198a1">acts</text>
+<line x1="190.4" y1="61" x2="190.4" y2="118" stroke="#3d444d"/>
+<text x="206.4" y="87" font-size="20" font-weight="600" fill="#f0f6fc">187,161</text>
+<text x="206.4" y="106" font-size="12" fill="#9198a1">changes, as commits</text>
+<line x1="356.8" y1="61" x2="356.8" y2="118" stroke="#3d444d"/>
+<text x="372.8" y="87" font-size="20" font-weight="600" fill="#f0f6fc">811,830</text>
+<text x="372.8" y="106" font-size="12" fill="#9198a1">provision files</text>
+<line x1="523.2" y1="61" x2="523.2" y2="118" stroke="#3d444d"/>
+<text x="539.2" y="87" font-size="20" font-weight="600" fill="#f0f6fc">156,199</text>
+<text x="539.2" y="106" font-size="12" fill="#9198a1">laws and publishers credited</text>
+<line x1="689.6" y1="61" x2="689.6" y2="118" stroke="#3d444d"/>
+<text x="705.6" y="87" font-size="20" font-weight="600" fill="#f0f6fc">1539–2026</text>
+<text x="705.6" y="106" font-size="12" fill="#9198a1">years of history</text>
+<rect x="24.5" y="134.5" width="831" height="248" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="40.5" y="160.5" font-size="14" font-weight="600" fill="#f0f6fc">Changes by the year they took effect</text>
+<line x1="80.5" y1="330.5" x2="839.5" y2="330.5" stroke="#3d444d" stroke-width="1"/>
+<text x="72.5" y="334.5" font-size="11" text-anchor="end" fill="#9198a1">0</text>
+<line x1="80.5" y1="293.0" x2="839.5" y2="293.0" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="297.0" font-size="11" text-anchor="end" fill="#9198a1">2,000</text>
+<line x1="80.5" y1="255.5" x2="839.5" y2="255.5" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="259.5" font-size="11" text-anchor="end" fill="#9198a1">4,000</text>
+<line x1="80.5" y1="218.0" x2="839.5" y2="218.0" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="222.0" font-size="11" text-anchor="end" fill="#9198a1">6,000</text>
+<line x1="80.5" y1="180.5" x2="839.5" y2="180.5" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="184.5" font-size="11" text-anchor="end" fill="#9198a1">8,000</text>
+<rect x="80.66" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1539: 1 change took effect</title></rect>
+<text x="98.4" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1550</text>
+<text x="176.2" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1600</text>
+<rect x="220.64" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1629: 1 change took effect</title></rect>
+<text x="253.9" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1650</text>
+<rect x="301.51" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1681: 1 change took effect</title></rect>
+<text x="331.7" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1700</text>
+<text x="409.5" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1750</text>
+<rect x="458.60" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1782: 1 change took effect</title></rect>
+<rect x="469.49" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1789: 3 changes took effect</title></rect>
+<rect x="471.04" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1790: 2 changes took effect</title></rect>
+<rect x="472.60" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1791: 6 changes took effect</title></rect>
+<rect x="474.15" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1792: 1 change took effect</title></rect>
+<rect x="475.71" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1793: 3 changes took effect</title></rect>
+<rect x="477.26" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1794: 2 changes took effect</title></rect>
+<rect x="478.82" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1795: 4 changes took effect</title></rect>
+<rect x="480.37" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1796: 2 changes took effect</title></rect>
+<rect x="481.93" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1797: 1 change took effect</title></rect>
+<rect x="485.04" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1799: 3 changes took effect</title></rect>
+<rect x="486.60" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1800: 2 changes took effect</title></rect>
+<text x="487.2" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1800</text>
+<rect x="488.15" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1801: 3 changes took effect</title></rect>
+<rect x="489.71" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1802: 1 change took effect</title></rect>
+<rect x="491.26" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1803: 5 changes took effect</title></rect>
+<rect x="492.82" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1804: 7 changes took effect</title></rect>
+<rect x="494.37" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1805: 1 change took effect</title></rect>
+<rect x="495.93" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1806: 5 changes took effect</title></rect>
+<rect x="497.48" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1807: 9 changes took effect</title></rect>
+<rect x="499.04" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1808: 2 changes took effect</title></rect>
+<rect x="500.59" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1809: 1 change took effect</title></rect>
+<rect x="502.15" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1810: 11 changes took effect</title></rect>
+<rect x="503.70" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1811: 1 change took effect</title></rect>
+<rect x="511.48" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1816: 7 changes took effect</title></rect>
+<rect x="513.04" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1817: 4 changes took effect</title></rect>
+<rect x="516.15" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1819: 4 changes took effect</title></rect>
+<rect x="517.70" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1820: 1 change took effect</title></rect>
+<rect x="519.26" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1821: 1 change took effect</title></rect>
+<rect x="520.81" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1822: 1 change took effect</title></rect>
+<rect x="522.37" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1823: 5 changes took effect</title></rect>
+<rect x="523.92" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1824: 1 change took effect</title></rect>
+<rect x="525.48" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1825: 3 changes took effect</title></rect>
+<rect x="527.03" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1826: 1 change took effect</title></rect>
+<rect x="530.15" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1828: 1 change took effect</title></rect>
+<rect x="531.70" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1829: 1 change took effect</title></rect>
+<rect x="533.26" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1830: 1 change took effect</title></rect>
+<rect x="534.81" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1831: 5 changes took effect</title></rect>
+<rect x="536.37" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1832: 3 changes took effect</title></rect>
+<rect x="539.48" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1834: 1 change took effect</title></rect>
+<rect x="541.03" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1835: 2 changes took effect</title></rect>
+<rect x="542.59" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1836: 1 change took effect</title></rect>
+<rect x="544.14" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1837: 3 changes took effect</title></rect>
+<rect x="547.25" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1839: 3 changes took effect</title></rect>
+<rect x="550.36" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1841: 1 change took effect</title></rect>
+<rect x="551.92" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1842: 1 change took effect</title></rect>
+<rect x="553.48" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1843: 1 change took effect</title></rect>
+<rect x="555.03" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1844: 2 changes took effect</title></rect>
+<rect x="556.59" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1845: 1 change took effect</title></rect>
+<rect x="561.25" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1848: 3 changes took effect</title></rect>
+<rect x="562.81" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1849: 4 changes took effect</title></rect>
+<rect x="564.36" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1850: 5 changes took effect</title></rect>
+<text x="565.0" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1850</text>
+<rect x="565.92" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1851: 2 changes took effect</title></rect>
+<rect x="567.47" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1852: 13 changes took effect</title></rect>
+<rect x="569.03" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1853: 2 changes took effect</title></rect>
+<rect x="570.58" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1854: 3 changes took effect</title></rect>
+<rect x="573.69" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1856: 3 changes took effect</title></rect>
+<rect x="575.25" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1857: 2 changes took effect</title></rect>
+<rect x="576.81" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1858: 3 changes took effect</title></rect>
+<rect x="578.36" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1859: 3 changes took effect</title></rect>
+<rect x="579.92" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1860: 1 change took effect</title></rect>
+<rect x="583.03" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1862: 1 change took effect</title></rect>
+<rect x="584.58" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1863: 5 changes took effect</title></rect>
+<rect x="586.14" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1864: 3 changes took effect</title></rect>
+<rect x="587.69" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1865: 2 changes took effect</title></rect>
+<rect x="589.25" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1866: 2 changes took effect</title></rect>
+<rect x="590.80" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1867: 3 changes took effect</title></rect>
+<rect x="592.36" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1868: 1 change took effect</title></rect>
+<rect x="593.91" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1869: 1 change took effect</title></rect>
+<rect x="595.47" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1870: 1 change took effect</title></rect>
+<rect x="597.02" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1871: 3 changes took effect</title></rect>
+<rect x="598.58" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1872: 4 changes took effect</title></rect>
+<rect x="600.14" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1873: 2 changes took effect</title></rect>
+<rect x="601.69" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1874: 1 change took effect</title></rect>
+<rect x="603.25" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1875: 3 changes took effect</title></rect>
+<rect x="604.80" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1876: 1 change took effect</title></rect>
+<rect x="606.36" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1877: 3 changes took effect</title></rect>
+<rect x="607.91" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1878: 2 changes took effect</title></rect>
+<rect x="609.47" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1879: 1 change took effect</title></rect>
+<rect x="611.02" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1880: 6 changes took effect</title></rect>
+<rect x="612.58" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1881: 10 changes took effect</title></rect>
+<rect x="614.13" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1882: 1 change took effect</title></rect>
+<rect x="615.69" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1883: 2 changes took effect</title></rect>
+<rect x="617.24" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1884: 1 change took effect</title></rect>
+<rect x="618.80" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1885: 4 changes took effect</title></rect>
+<rect x="620.35" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1886: 1 change took effect</title></rect>
+<rect x="621.91" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1887: 1 change took effect</title></rect>
+<rect x="623.46" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1888: 4 changes took effect</title></rect>
+<rect x="625.02" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1889: 4 changes took effect</title></rect>
+<rect x="626.58" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1890: 3 changes took effect</title></rect>
+<rect x="628.13" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1891: 4 changes took effect</title></rect>
+<rect x="629.69" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1892: 3 changes took effect</title></rect>
+<rect x="631.24" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1893: 8 changes took effect</title></rect>
+<rect x="634.35" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1895: 4 changes took effect</title></rect>
+<rect x="635.91" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1896: 6 changes took effect</title></rect>
+<rect x="637.46" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1897: 6 changes took effect</title></rect>
+<rect x="639.02" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1898: 8 changes took effect</title></rect>
+<rect x="640.57" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1899: 3 changes took effect</title></rect>
+<rect x="642.13" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1900: 3 changes took effect</title></rect>
+<text x="642.8" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1900</text>
+<rect x="643.68" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1901: 8 changes took effect</title></rect>
+<rect x="645.24" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1902: 1 change took effect</title></rect>
+<rect x="646.79" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1903: 5 changes took effect</title></rect>
+<rect x="648.35" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1904: 3 changes took effect</title></rect>
+<rect x="649.91" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1905: 13 changes took effect</title></rect>
+<rect x="651.46" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1906: 5 changes took effect</title></rect>
+<rect x="653.02" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1907: 15 changes took effect</title></rect>
+<rect x="654.57" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1908: 15 changes took effect</title></rect>
+<rect x="656.13" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1909: 6 changes took effect</title></rect>
+<rect x="657.68" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1910: 6 changes took effect</title></rect>
+<rect x="659.24" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1911: 9 changes took effect</title></rect>
+<rect x="660.79" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1912: 8 changes took effect</title></rect>
+<rect x="662.35" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1913: 7 changes took effect</title></rect>
+<rect x="663.90" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1914: 5 changes took effect</title></rect>
+<rect x="665.46" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1915: 5 changes took effect</title></rect>
+<rect x="667.01" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1916: 5 changes took effect</title></rect>
+<rect x="668.57" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1917: 8 changes took effect</title></rect>
+<rect x="670.12" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1918: 5 changes took effect</title></rect>
+<rect x="671.68" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1919: 13 changes took effect</title></rect>
+<rect x="673.24" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1920: 9 changes took effect</title></rect>
+<rect x="674.79" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1921: 15 changes took effect</title></rect>
+<rect x="676.35" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1922: 12 changes took effect</title></rect>
+<rect x="677.90" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1923: 12 changes took effect</title></rect>
+<rect x="679.46" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1924: 12 changes took effect</title></rect>
+<rect x="681.01" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1925: 17 changes took effect</title></rect>
+<rect x="682.57" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1926: 26 changes took effect</title></rect>
+<rect x="684.12" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1927: 18 changes took effect</title></rect>
+<rect x="685.68" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1928: 20 changes took effect</title></rect>
+<rect x="687.23" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1929: 16 changes took effect</title></rect>
+<rect x="688.79" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1930: 27 changes took effect</title></rect>
+<rect x="690.34" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1931: 9 changes took effect</title></rect>
+<rect x="691.90" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1932: 23 changes took effect</title></rect>
+<rect x="693.45" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1933: 14 changes took effect</title></rect>
+<rect x="695.01" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1934: 30 changes took effect</title></rect>
+<rect x="696.57" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1935: 49 changes took effect</title></rect>
+<rect x="698.12" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1936: 41 changes took effect</title></rect>
+<rect x="699.68" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1937: 40 changes took effect</title></rect>
+<rect x="701.23" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1938: 55 changes took effect</title></rect>
+<rect x="702.79" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1939: 41 changes took effect</title></rect>
+<rect x="704.34" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1940: 31 changes took effect</title></rect>
+<rect x="705.90" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1941: 50 changes took effect</title></rect>
+<rect x="707.45" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1942: 48 changes took effect</title></rect>
+<rect x="709.01" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1943: 47 changes took effect</title></rect>
+<rect x="710.56" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#2ea043"><title>1944: 37 changes took effect</title></rect>
+<rect x="712.12" y="328.3" width="1.24" height="2.2" rx="0.5" fill="#2ea043"><title>1945: 116 changes took effect</title></rect>
+<rect x="713.67" y="328.8" width="1.24" height="1.7" rx="0.5" fill="#2ea043"><title>1946: 93 changes took effect</title></rect>
+<rect x="715.23" y="328.6" width="1.24" height="1.9" rx="0.5" fill="#2ea043"><title>1947: 99 changes took effect</title></rect>
+<rect x="716.78" y="328.2" width="1.24" height="2.2" rx="0.5" fill="#2ea043"><title>1948: 120 changes took effect</title></rect>
+<rect x="718.34" y="328.2" width="1.24" height="2.3" rx="0.5" fill="#2ea043"><title>1949: 123 changes took effect</title></rect>
+<rect x="719.90" y="328.0" width="1.24" height="2.5" rx="0.5" fill="#2ea043"><title>1950: 134 changes took effect</title></rect>
+<text x="720.5" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1950</text>
+<rect x="721.45" y="328.0" width="1.24" height="2.5" rx="0.5" fill="#2ea043"><title>1951: 133 changes took effect</title></rect>
+<rect x="723.01" y="328.4" width="1.24" height="2.1" rx="0.5" fill="#2ea043"><title>1952: 112 changes took effect</title></rect>
+<rect x="724.56" y="327.9" width="1.24" height="2.6" rx="0.5" fill="#2ea043"><title>1953: 140 changes took effect</title></rect>
+<rect x="726.12" y="327.9" width="1.24" height="2.6" rx="0.5" fill="#2ea043"><title>1954: 137 changes took effect</title></rect>
+<rect x="727.67" y="326.6" width="1.24" height="3.9" rx="0.5" fill="#2ea043"><title>1955: 206 changes took effect</title></rect>
+<rect x="729.23" y="327.6" width="1.24" height="2.9" rx="0.5" fill="#2ea043"><title>1956: 157 changes took effect</title></rect>
+<rect x="730.78" y="328.0" width="1.24" height="2.5" rx="0.5" fill="#2ea043"><title>1957: 132 changes took effect</title></rect>
+<rect x="732.34" y="326.2" width="1.24" height="4.3" rx="0.5" fill="#2ea043"><title>1958: 229 changes took effect</title></rect>
+<rect x="733.89" y="325.0" width="1.24" height="5.5" rx="0.5" fill="#2ea043"><title>1959: 291 changes took effect</title></rect>
+<rect x="735.45" y="326.4" width="1.24" height="4.1" rx="0.5" fill="#2ea043"><title>1960: 221 changes took effect</title></rect>
+<rect x="737.00" y="326.0" width="1.24" height="4.5" rx="0.5" fill="#2ea043"><title>1961: 240 changes took effect</title></rect>
+<rect x="738.56" y="325.9" width="1.24" height="4.6" rx="0.5" fill="#2ea043"><title>1962: 245 changes took effect</title></rect>
+<rect x="740.11" y="326.6" width="1.24" height="3.9" rx="0.5" fill="#2ea043"><title>1963: 206 changes took effect</title></rect>
+<rect x="741.67" y="325.8" width="1.24" height="4.7" rx="0.5" fill="#2ea043"><title>1964: 252 changes took effect</title></rect>
+<rect x="743.23" y="325.7" width="1.24" height="4.8" rx="0.5" fill="#2ea043"><title>1965: 256 changes took effect</title></rect>
+<rect x="744.78" y="325.8" width="1.24" height="4.7" rx="0.5" fill="#2ea043"><title>1966: 252 changes took effect</title></rect>
+<rect x="746.34" y="323.6" width="1.24" height="6.9" rx="0.5" fill="#2ea043"><title>1967: 369 changes took effect</title></rect>
+<rect x="747.89" y="324.0" width="1.24" height="6.5" rx="0.5" fill="#2ea043"><title>1968: 347 changes took effect</title></rect>
+<rect x="749.45" y="324.1" width="1.24" height="6.5" rx="0.5" fill="#2ea043"><title>1969: 344 changes took effect</title></rect>
+<rect x="751.00" y="323.1" width="1.24" height="7.4" rx="0.5" fill="#2ea043"><title>1970: 396 changes took effect</title></rect>
+<rect x="752.56" y="324.1" width="1.24" height="6.4" rx="0.5" fill="#2ea043"><title>1971: 343 changes took effect</title></rect>
+<rect x="754.11" y="320.4" width="1.24" height="10.1" rx="0.5" fill="#2ea043"><title>1972: 537 changes took effect</title></rect>
+<rect x="755.67" y="320.8" width="1.24" height="9.7" rx="0.5" fill="#2ea043"><title>1973: 516 changes took effect</title></rect>
+<rect x="757.22" y="321.8" width="1.24" height="8.7" rx="0.5" fill="#2ea043"><title>1974: 465 changes took effect</title></rect>
+<rect x="758.78" y="318.6" width="1.24" height="11.9" rx="0.5" fill="#2ea043"><title>1975: 633 changes took effect</title></rect>
+<rect x="760.33" y="318.3" width="1.24" height="12.2" rx="0.5" fill="#2ea043"><title>1976: 653 changes took effect</title></rect>
+<rect x="761.89" y="315.4" width="1.24" height="15.1" rx="0.5" fill="#2ea043"><title>1977: 807 changes took effect</title></rect>
+<rect x="763.44" y="316.2" width="1.24" height="14.3" rx="0.5" fill="#2ea043"><title>1978: 764 changes took effect</title></rect>
+<rect x="765.00" y="314.1" width="1.24" height="16.4" rx="0.5" fill="#2ea043"><title>1979: 873 changes took effect</title></rect>
+<rect x="766.56" y="314.5" width="1.24" height="16.0" rx="0.5" fill="#2ea043"><title>1980: 855 changes took effect</title></rect>
+<rect x="768.11" y="313.1" width="1.24" height="17.4" rx="0.5" fill="#2ea043"><title>1981: 929 changes took effect</title></rect>
+<rect x="769.67" y="306.7" width="1.24" height="23.8" rx="0.5" fill="#2ea043"><title>1982: 1,267 changes took effect</title></rect>
+<rect x="771.22" y="305.4" width="1.24" height="25.1" rx="0.5" fill="#2ea043"><title>1983: 1,339 changes took effect</title></rect>
+<rect x="772.78" y="302.2" width="1.24" height="28.3" rx="0.5" fill="#2ea043"><title>1984: 1,508 changes took effect</title></rect>
+<rect x="774.33" y="296.9" width="1.24" height="33.6" rx="0.5" fill="#2ea043"><title>1985: 1,790 changes took effect</title></rect>
+<rect x="775.89" y="290.5" width="1.24" height="40.0" rx="0.5" fill="#2ea043"><title>1986: 2,134 changes took effect</title></rect>
+<rect x="777.44" y="289.3" width="1.24" height="41.2" rx="0.5" fill="#2ea043"><title>1987: 2,199 changes took effect</title></rect>
+<rect x="779.00" y="288.8" width="1.24" height="41.7" rx="0.5" fill="#2ea043"><title>1988: 2,226 changes took effect</title></rect>
+<rect x="780.55" y="293.2" width="1.24" height="37.3" rx="0.5" fill="#2ea043"><title>1989: 1,991 changes took effect</title></rect>
+<rect x="782.11" y="281.3" width="1.24" height="49.2" rx="0.5" fill="#2ea043"><title>1990: 2,626 changes took effect</title></rect>
+<rect x="783.66" y="278.2" width="1.24" height="52.3" rx="0.5" fill="#2ea043"><title>1991: 2,789 changes took effect</title></rect>
+<rect x="785.22" y="267.5" width="1.24" height="63.0" rx="0.5" fill="#2ea043"><title>1992: 3,359 changes took effect</title></rect>
+<rect x="786.77" y="266.6" width="1.24" height="63.9" rx="0.5" fill="#2ea043"><title>1993: 3,406 changes took effect</title></rect>
+<rect x="788.33" y="270.6" width="1.24" height="59.9" rx="0.5" fill="#2ea043"><title>1994: 3,197 changes took effect</title></rect>
+<rect x="789.89" y="266.3" width="1.24" height="64.2" rx="0.5" fill="#2ea043"><title>1995: 3,422 changes took effect</title></rect>
+<rect x="791.44" y="272.7" width="1.24" height="57.8" rx="0.5" fill="#2ea043"><title>1996: 3,084 changes took effect</title></rect>
+<rect x="793.00" y="271.2" width="1.24" height="59.3" rx="0.5" fill="#2ea043"><title>1997: 3,164 changes took effect</title></rect>
+<rect x="794.55" y="274.5" width="1.24" height="56.0" rx="0.5" fill="#2ea043"><title>1998: 2,985 changes took effect</title></rect>
+<rect x="796.11" y="284.5" width="1.24" height="46.0" rx="0.5" fill="#2ea043"><title>1999: 2,451 changes took effect</title></rect>
+<rect x="797.66" y="285.8" width="1.24" height="44.7" rx="0.5" fill="#2ea043"><title>2000: 2,382 changes took effect</title></rect>
+<text x="798.3" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2000</text>
+<rect x="799.22" y="284.5" width="1.24" height="46.0" rx="0.5" fill="#2ea043"><title>2001: 2,452 changes took effect</title></rect>
+<rect x="800.77" y="270.9" width="1.24" height="59.5" rx="0.5" fill="#2ea043"><title>2002: 3,176 changes took effect</title></rect>
+<rect x="802.33" y="273.9" width="1.24" height="56.6" rx="0.5" fill="#2ea043"><title>2003: 3,021 changes took effect</title></rect>
+<rect x="803.88" y="272.1" width="1.24" height="58.4" rx="0.5" fill="#2ea043"><title>2004: 3,117 changes took effect</title></rect>
+<rect x="805.44" y="268.6" width="1.24" height="61.9" rx="0.5" fill="#2ea043"><title>2005: 3,299 changes took effect</title></rect>
+<rect x="806.99" y="265.1" width="1.24" height="65.4" rx="0.5" fill="#2ea043"><title>2006: 3,488 changes took effect</title></rect>
+<rect x="808.55" y="252.7" width="1.24" height="77.8" rx="0.5" fill="#2ea043"><title>2007: 4,150 changes took effect</title></rect>
+<rect x="810.10" y="248.4" width="1.24" height="82.1" rx="0.5" fill="#2ea043"><title>2008: 4,379 changes took effect</title></rect>
+<rect x="811.66" y="228.9" width="1.24" height="101.6" rx="0.5" fill="#2ea043"><title>2009: 5,420 changes took effect</title></rect>
+<rect x="813.21" y="230.2" width="1.24" height="100.3" rx="0.5" fill="#2ea043"><title>2010: 5,352 changes took effect</title></rect>
+<rect x="814.77" y="225.3" width="1.24" height="105.2" rx="0.5" fill="#2ea043"><title>2011: 5,612 changes took effect</title></rect>
+<rect x="816.33" y="230.4" width="1.24" height="100.1" rx="0.5" fill="#2ea043"><title>2012: 5,337 changes took effect</title></rect>
+<rect x="817.88" y="240.3" width="1.24" height="90.2" rx="0.5" fill="#2ea043"><title>2013: 4,812 changes took effect</title></rect>
+<rect x="819.44" y="232.7" width="1.24" height="97.8" rx="0.5" fill="#2ea043"><title>2014: 5,216 changes took effect</title></rect>
+<rect x="820.99" y="226.5" width="1.24" height="104.0" rx="0.5" fill="#2ea043"><title>2015: 5,546 changes took effect</title></rect>
+<rect x="822.55" y="228.3" width="1.24" height="102.2" rx="0.5" fill="#2ea043"><title>2016: 5,450 changes took effect</title></rect>
+<rect x="824.10" y="222.5" width="1.24" height="108.0" rx="0.5" fill="#2ea043"><title>2017: 5,760 changes took effect</title></rect>
+<rect x="825.66" y="243.5" width="1.24" height="87.0" rx="0.5" fill="#2ea043"><title>2018: 4,640 changes took effect</title></rect>
+<rect x="827.21" y="242.9" width="1.24" height="87.6" rx="0.5" fill="#2ea043"><title>2019: 4,672 changes took effect</title></rect>
+<rect x="828.77" y="224.9" width="1.24" height="105.6" rx="0.5" fill="#2ea043"><title>2020: 5,632 changes took effect</title></rect>
+<rect x="830.32" y="216.9" width="1.24" height="113.6" rx="0.5" fill="#2ea043"><title>2021: 6,061 changes took effect</title></rect>
+<rect x="831.88" y="227.5" width="1.24" height="103.0" rx="0.5" fill="#2ea043"><title>2022: 5,494 changes took effect</title></rect>
+<rect x="833.43" y="231.6" width="1.24" height="98.9" rx="0.5" fill="#2ea043"><title>2023: 5,276 changes took effect</title></rect>
+<rect x="834.99" y="234.7" width="1.24" height="95.8" rx="0.5" fill="#2ea043"><title>2024: 5,107 changes took effect</title></rect>
+<rect x="836.54" y="198.7" width="1.24" height="131.8" rx="0.5" fill="#2ea043"><title>2025: 7,029 changes took effect</title></rect>
+<text x="837.2" y="192.7" font-size="11" font-weight="600" text-anchor="middle" fill="#f0f6fc">7,029 in 2025</text>
+<rect x="838.10" y="209.1" width="1.24" height="121.4" rx="0.5" fill="#2ea043"><title>2026: 6,476 changes took effect</title></rect>
+<text x="40.5" y="368.5" font-size="11.5" fill="#9198a1">187,158 changes dated by their in-force day; 3 carry an impossible in-force date (before 1200), not shown. History type: in-force.</text>
+<rect x="24.5" y="396.5" width="831" height="152" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="40.5" y="422.5" font-size="14" font-weight="600" fill="#f0f6fc">Completeness, checked against the official sources on Nov 12, 2026</text>
+<text x="40.5" y="446.5" font-size="13" fill="#f0f6fc">Constitution</text>
+<text x="40.5" y="462.5" font-size="11.5" fill="#9198a1">held in the repository</text>
+<text x="424.0" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#2ea043">held</text>
+<text x="40.5" y="482.5" font-size="13" fill="#f0f6fc">Main codes</text>
+<text x="40.5" y="498.5" font-size="11.5" fill="#9198a1">share of the essential codes held</text>
+<g><title>Main codes: 100%</title><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
+<text x="424.0" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">100%</text>
+<text x="40.5" y="518.5" font-size="13" fill="#f0f6fc">National law</text>
+<text x="40.5" y="534.5" font-size="11.5" fill="#9198a1">acts held, of the official total</text>
+<g><title>National law: 100%</title><rect x="276.5" y="515.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="515.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
+<text x="424.0" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">100%</text>
+<text x="456.0" y="446.5" font-size="13" fill="#f0f6fc">Regional law</text>
+<text x="456.0" y="462.5" font-size="11.5" fill="#9198a1">law-making units held</text>
+<g><title>Regional law: 0%</title><rect x="692.0" y="443.5" width="91.5" height="8" rx="4" fill="#262c36"/></g>
+<text x="839.5" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">0%</text>
+<text x="456.0" y="482.5" font-size="13" fill="#f0f6fc">Case law</text>
+<text x="456.0" y="498.5" font-size="11.5" fill="#9198a1">top courts held</text>
+<g><title>Case law: 67%</title><rect x="692.0" y="479.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="692.0" y="479.5" width="61.3" height="8" rx="4" fill="#d29922"/></g>
+<text x="839.5" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">67%</text>
+<text x="456.0" y="518.5" font-size="13" fill="#f0f6fc">Verdict</text>
+<text x="456.0" y="534.5" font-size="11.5" fill="#9198a1">National law is close to complete. All 76 codes Légifrance…</text>
+<text x="839.5" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#9198a1"></text>
+<rect x="24.5" y="562.5" width="831" height="152" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="40.5" y="588.5" font-size="14" font-weight="600" fill="#f0f6fc">Correctness of what is held</text>
+<text x="40.5" y="612.5" font-size="13" fill="#f0f6fc">Changes with an in-force date</text>
+<text x="40.5" y="628.5" font-size="11.5" fill="#9198a1">share of changes</text>
+<g><title>Changes with an in-force date: 100%</title><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
+<text x="424.0" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">100%</text>
+<text x="40.5" y="648.5" font-size="13" fill="#f0f6fc">Changes citing their official source</text>
+<text x="40.5" y="664.5" font-size="11.5" fill="#9198a1">a Source line or link in the commit</text>
+<g><title>Changes citing their official source: 94%</title><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="645.5" width="86.2" height="8" rx="4" fill="#2ea043"/></g>
+<text x="424.0" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">94%</text>
+<text x="40.5" y="684.5" font-size="13" fill="#f0f6fc">Checked against the official source</text>
+<text x="40.5" y="700.5" font-size="11.5" fill="#9198a1">the date the repository states</text>
+<text x="424.0" y="688.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">Oct 28, 2026</text>
+<text x="456.0" y="612.5" font-size="13" fill="#f0f6fc">global-law's checks</text>
+<text x="456.0" y="628.5" font-size="11.5" fill="#9198a1">0 problems, 2 warnings</text>
+<text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#2ea043">passes</text>
+<text x="456.0" y="648.5" font-size="13" fill="#f0f6fc">Corpora for this country in global-law</text>
+<text x="456.0" y="664.5" font-size="11.5" fill="#9198a1">national acts: 1, case law: 6</text>
+<text x="839.5" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">7</text>
+<text x="456.0" y="684.5" font-size="13" fill="#f0f6fc">Record runs to</text>
+<text x="456.0" y="700.5" font-size="11.5" fill="#9198a1">freshness status: stale</text>
+<text x="839.5" y="688.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">Oct 28, 2026</text>
+<text x="24" y="736" font-size="11.5" fill="#9198a1">lexifina/france-law at 29bccd2, built 2026-11-12. Changes exclude documentation commits. Scope: from 0881-10-09</text>
+</svg>
