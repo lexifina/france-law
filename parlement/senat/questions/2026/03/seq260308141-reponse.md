@@ -1,0 +1,9 @@
+# Réponse à la question SEQ260308141
+
+- Question : [SEQ260308141](seq260308141.md) — Hausse des prélèvements sociaux : champ d'application du plan d'épargne retraite
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle, énergétique et numérique, JO du 2026-11-12, page 5437*
+
+Le Gouvernement souhaite promouvoir le plan d'épargne retraite, qui offre de nombreuses vertus : une diversification de l'épargne des Français dans des conditions sécurisées ; un complément de rémunération au moment de la retraite ; une contribution décisive au financement de long terme des entreprises, notamment européennes. La gestion pilotée par horizon (GPH), mode de gestion proposé par défaut au sein des PER, intègre notamment des seuils minimaux permettant de flécher une part d'épargne pour soutenir les entreprises, en visant en particulier le capital investissement dans des PME/ETI, les fonds d'infrastructures et les actions de PME/ETI cotées. Le Gouvernement se réjouit ainsi de la confiance des Français pour ce produit d'épargne qui compte à fin 2025, plus de 12,9 millions de titulaires pour un encours supérieur à 150 milliards d'euros (en croissance de +46% en deux ans). Comme le souligne justement le sénateur, la loi de financement de la sécurité sociale du 31 décembre 2025 a augmenté de 1,4 point le taux de CSG applicable à l'ensemble des PER. Cette évolution fiscale spécifique, votée dans des conditions budgétaires particulièrement contraintes, ne remet pas en cause la priorité que constitue le développement du PER pour le Gouvernement. Le Gouvernement compte ainsi poursuivre son action pour accélérer le développement du PER, avec l'entrée en vigueur des dernières grilles de gestion pilotée par horizon (GPH) fin 2026 pour les PER d'entreprises et le lancement prochain du label Finance Europe du PER, qui permettra de valoriser encore davantage ce produit.
