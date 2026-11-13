@@ -1,0 +1,313 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="752" viewBox="0 0 880 752" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="879" height="751" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="24" y="38" font-size="16" font-weight="600" fill="#1f2328">Le droit français en historique git</text>
+<rect x="547.2" y="24.5" width="144" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="619.2" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">état au 28 oct. 2026</text>
+<rect x="699.2" y="24.5" width="157" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="777.6" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">fraîcheur : pas à jour</text>
+<rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.0" y="87" font-size="20" font-weight="600" fill="#1f2328">153 011</text>
+<text x="40.0" y="106" font-size="12" fill="#59636e">textes</text>
+<line x1="190.4" y1="61" x2="190.4" y2="118" stroke="#d1d9e0"/>
+<text x="206.4" y="87" font-size="20" font-weight="600" fill="#1f2328">187 161</text>
+<text x="206.4" y="106" font-size="12" fill="#59636e">modifications, en commits</text>
+<line x1="356.8" y1="61" x2="356.8" y2="118" stroke="#d1d9e0"/>
+<text x="372.8" y="87" font-size="20" font-weight="600" fill="#1f2328">811 830</text>
+<text x="372.8" y="106" font-size="12" fill="#59636e">fichiers de dispositions</text>
+<line x1="523.2" y1="61" x2="523.2" y2="118" stroke="#d1d9e0"/>
+<text x="539.2" y="87" font-size="20" font-weight="600" fill="#1f2328">156 199</text>
+<text x="539.2" y="106" font-size="12" fill="#59636e">auteurs : lois et éditeurs</text>
+<line x1="689.6" y1="61" x2="689.6" y2="118" stroke="#d1d9e0"/>
+<text x="705.6" y="87" font-size="20" font-weight="600" fill="#1f2328">1539–2026</text>
+<text x="705.6" y="106" font-size="12" fill="#59636e">années d’historique</text>
+<rect x="24.5" y="134.5" width="831" height="248" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="160.5" font-size="14" font-weight="600" fill="#1f2328">Modifications par année d’entrée en vigueur</text>
+<line x1="80.5" y1="330.5" x2="839.5" y2="330.5" stroke="#d1d9e0" stroke-width="1"/>
+<text x="72.5" y="334.5" font-size="11" text-anchor="end" fill="#59636e">0</text>
+<line x1="80.5" y1="293.0" x2="839.5" y2="293.0" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="297.0" font-size="11" text-anchor="end" fill="#59636e">2 000</text>
+<line x1="80.5" y1="255.5" x2="839.5" y2="255.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="259.5" font-size="11" text-anchor="end" fill="#59636e">4 000</text>
+<line x1="80.5" y1="218.0" x2="839.5" y2="218.0" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="222.0" font-size="11" text-anchor="end" fill="#59636e">6 000</text>
+<line x1="80.5" y1="180.5" x2="839.5" y2="180.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="184.5" font-size="11" text-anchor="end" fill="#59636e">8 000</text>
+<rect x="80.66" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1539 : modifications entrées en vigueur : 1</title></rect>
+<text x="98.4" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1550</text>
+<text x="176.2" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1600</text>
+<rect x="220.64" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1629 : modifications entrées en vigueur : 1</title></rect>
+<text x="253.9" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1650</text>
+<rect x="301.51" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1681 : modifications entrées en vigueur : 1</title></rect>
+<text x="331.7" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1700</text>
+<text x="409.5" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1750</text>
+<rect x="458.60" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1782 : modifications entrées en vigueur : 1</title></rect>
+<rect x="469.49" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1789 : modifications entrées en vigueur : 3</title></rect>
+<rect x="471.04" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1790 : modifications entrées en vigueur : 2</title></rect>
+<rect x="472.60" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1791 : modifications entrées en vigueur : 6</title></rect>
+<rect x="474.15" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1792 : modifications entrées en vigueur : 1</title></rect>
+<rect x="475.71" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1793 : modifications entrées en vigueur : 3</title></rect>
+<rect x="477.26" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1794 : modifications entrées en vigueur : 2</title></rect>
+<rect x="478.82" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1795 : modifications entrées en vigueur : 4</title></rect>
+<rect x="480.37" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1796 : modifications entrées en vigueur : 2</title></rect>
+<rect x="481.93" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1797 : modifications entrées en vigueur : 1</title></rect>
+<rect x="485.04" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1799 : modifications entrées en vigueur : 3</title></rect>
+<rect x="486.60" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1800 : modifications entrées en vigueur : 2</title></rect>
+<text x="487.2" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1800</text>
+<rect x="488.15" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1801 : modifications entrées en vigueur : 3</title></rect>
+<rect x="489.71" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1802 : modifications entrées en vigueur : 1</title></rect>
+<rect x="491.26" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1803 : modifications entrées en vigueur : 5</title></rect>
+<rect x="492.82" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1804 : modifications entrées en vigueur : 7</title></rect>
+<rect x="494.37" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1805 : modifications entrées en vigueur : 1</title></rect>
+<rect x="495.93" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1806 : modifications entrées en vigueur : 5</title></rect>
+<rect x="497.48" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1807 : modifications entrées en vigueur : 9</title></rect>
+<rect x="499.04" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1808 : modifications entrées en vigueur : 2</title></rect>
+<rect x="500.59" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1809 : modifications entrées en vigueur : 1</title></rect>
+<rect x="502.15" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1810 : modifications entrées en vigueur : 11</title></rect>
+<rect x="503.70" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1811 : modifications entrées en vigueur : 1</title></rect>
+<rect x="511.48" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1816 : modifications entrées en vigueur : 7</title></rect>
+<rect x="513.04" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1817 : modifications entrées en vigueur : 4</title></rect>
+<rect x="516.15" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1819 : modifications entrées en vigueur : 4</title></rect>
+<rect x="517.70" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1820 : modifications entrées en vigueur : 1</title></rect>
+<rect x="519.26" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1821 : modifications entrées en vigueur : 1</title></rect>
+<rect x="520.81" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1822 : modifications entrées en vigueur : 1</title></rect>
+<rect x="522.37" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1823 : modifications entrées en vigueur : 5</title></rect>
+<rect x="523.92" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1824 : modifications entrées en vigueur : 1</title></rect>
+<rect x="525.48" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1825 : modifications entrées en vigueur : 3</title></rect>
+<rect x="527.03" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1826 : modifications entrées en vigueur : 1</title></rect>
+<rect x="530.15" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1828 : modifications entrées en vigueur : 1</title></rect>
+<rect x="531.70" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1829 : modifications entrées en vigueur : 1</title></rect>
+<rect x="533.26" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1830 : modifications entrées en vigueur : 1</title></rect>
+<rect x="534.81" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1831 : modifications entrées en vigueur : 5</title></rect>
+<rect x="536.37" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1832 : modifications entrées en vigueur : 3</title></rect>
+<rect x="539.48" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1834 : modifications entrées en vigueur : 1</title></rect>
+<rect x="541.03" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1835 : modifications entrées en vigueur : 2</title></rect>
+<rect x="542.59" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1836 : modifications entrées en vigueur : 1</title></rect>
+<rect x="544.14" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1837 : modifications entrées en vigueur : 3</title></rect>
+<rect x="547.25" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1839 : modifications entrées en vigueur : 3</title></rect>
+<rect x="550.36" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1841 : modifications entrées en vigueur : 1</title></rect>
+<rect x="551.92" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1842 : modifications entrées en vigueur : 1</title></rect>
+<rect x="553.48" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1843 : modifications entrées en vigueur : 1</title></rect>
+<rect x="555.03" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1844 : modifications entrées en vigueur : 2</title></rect>
+<rect x="556.59" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1845 : modifications entrées en vigueur : 1</title></rect>
+<rect x="561.25" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1848 : modifications entrées en vigueur : 3</title></rect>
+<rect x="562.81" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1849 : modifications entrées en vigueur : 4</title></rect>
+<rect x="564.36" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1850 : modifications entrées en vigueur : 5</title></rect>
+<text x="565.0" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1850</text>
+<rect x="565.92" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1851 : modifications entrées en vigueur : 2</title></rect>
+<rect x="567.47" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1852 : modifications entrées en vigueur : 13</title></rect>
+<rect x="569.03" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1853 : modifications entrées en vigueur : 2</title></rect>
+<rect x="570.58" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1854 : modifications entrées en vigueur : 3</title></rect>
+<rect x="573.69" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1856 : modifications entrées en vigueur : 3</title></rect>
+<rect x="575.25" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1857 : modifications entrées en vigueur : 2</title></rect>
+<rect x="576.81" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1858 : modifications entrées en vigueur : 3</title></rect>
+<rect x="578.36" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1859 : modifications entrées en vigueur : 3</title></rect>
+<rect x="579.92" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1860 : modifications entrées en vigueur : 1</title></rect>
+<rect x="583.03" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1862 : modifications entrées en vigueur : 1</title></rect>
+<rect x="584.58" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1863 : modifications entrées en vigueur : 5</title></rect>
+<rect x="586.14" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1864 : modifications entrées en vigueur : 3</title></rect>
+<rect x="587.69" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1865 : modifications entrées en vigueur : 2</title></rect>
+<rect x="589.25" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1866 : modifications entrées en vigueur : 2</title></rect>
+<rect x="590.80" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1867 : modifications entrées en vigueur : 3</title></rect>
+<rect x="592.36" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1868 : modifications entrées en vigueur : 1</title></rect>
+<rect x="593.91" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1869 : modifications entrées en vigueur : 1</title></rect>
+<rect x="595.47" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1870 : modifications entrées en vigueur : 1</title></rect>
+<rect x="597.02" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1871 : modifications entrées en vigueur : 3</title></rect>
+<rect x="598.58" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1872 : modifications entrées en vigueur : 4</title></rect>
+<rect x="600.14" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1873 : modifications entrées en vigueur : 2</title></rect>
+<rect x="601.69" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1874 : modifications entrées en vigueur : 1</title></rect>
+<rect x="603.25" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1875 : modifications entrées en vigueur : 3</title></rect>
+<rect x="604.80" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1876 : modifications entrées en vigueur : 1</title></rect>
+<rect x="606.36" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1877 : modifications entrées en vigueur : 3</title></rect>
+<rect x="607.91" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1878 : modifications entrées en vigueur : 2</title></rect>
+<rect x="609.47" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1879 : modifications entrées en vigueur : 1</title></rect>
+<rect x="611.02" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1880 : modifications entrées en vigueur : 6</title></rect>
+<rect x="612.58" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1881 : modifications entrées en vigueur : 10</title></rect>
+<rect x="614.13" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1882 : modifications entrées en vigueur : 1</title></rect>
+<rect x="615.69" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1883 : modifications entrées en vigueur : 2</title></rect>
+<rect x="617.24" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1884 : modifications entrées en vigueur : 1</title></rect>
+<rect x="618.80" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1885 : modifications entrées en vigueur : 4</title></rect>
+<rect x="620.35" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1886 : modifications entrées en vigueur : 1</title></rect>
+<rect x="621.91" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1887 : modifications entrées en vigueur : 1</title></rect>
+<rect x="623.46" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1888 : modifications entrées en vigueur : 4</title></rect>
+<rect x="625.02" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1889 : modifications entrées en vigueur : 4</title></rect>
+<rect x="626.58" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1890 : modifications entrées en vigueur : 3</title></rect>
+<rect x="628.13" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1891 : modifications entrées en vigueur : 4</title></rect>
+<rect x="629.69" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1892 : modifications entrées en vigueur : 3</title></rect>
+<rect x="631.24" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1893 : modifications entrées en vigueur : 8</title></rect>
+<rect x="634.35" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1895 : modifications entrées en vigueur : 4</title></rect>
+<rect x="635.91" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1896 : modifications entrées en vigueur : 6</title></rect>
+<rect x="637.46" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1897 : modifications entrées en vigueur : 6</title></rect>
+<rect x="639.02" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1898 : modifications entrées en vigueur : 8</title></rect>
+<rect x="640.57" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1899 : modifications entrées en vigueur : 3</title></rect>
+<rect x="642.13" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1900 : modifications entrées en vigueur : 3</title></rect>
+<text x="642.8" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1900</text>
+<rect x="643.68" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1901 : modifications entrées en vigueur : 8</title></rect>
+<rect x="645.24" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1902 : modifications entrées en vigueur : 1</title></rect>
+<rect x="646.79" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1903 : modifications entrées en vigueur : 5</title></rect>
+<rect x="648.35" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1904 : modifications entrées en vigueur : 3</title></rect>
+<rect x="649.91" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1905 : modifications entrées en vigueur : 13</title></rect>
+<rect x="651.46" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1906 : modifications entrées en vigueur : 5</title></rect>
+<rect x="653.02" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1907 : modifications entrées en vigueur : 15</title></rect>
+<rect x="654.57" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1908 : modifications entrées en vigueur : 15</title></rect>
+<rect x="656.13" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1909 : modifications entrées en vigueur : 6</title></rect>
+<rect x="657.68" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1910 : modifications entrées en vigueur : 6</title></rect>
+<rect x="659.24" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1911 : modifications entrées en vigueur : 9</title></rect>
+<rect x="660.79" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1912 : modifications entrées en vigueur : 8</title></rect>
+<rect x="662.35" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1913 : modifications entrées en vigueur : 7</title></rect>
+<rect x="663.90" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1914 : modifications entrées en vigueur : 5</title></rect>
+<rect x="665.46" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1915 : modifications entrées en vigueur : 5</title></rect>
+<rect x="667.01" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1916 : modifications entrées en vigueur : 5</title></rect>
+<rect x="668.57" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1917 : modifications entrées en vigueur : 8</title></rect>
+<rect x="670.12" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1918 : modifications entrées en vigueur : 5</title></rect>
+<rect x="671.68" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1919 : modifications entrées en vigueur : 13</title></rect>
+<rect x="673.24" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1920 : modifications entrées en vigueur : 9</title></rect>
+<rect x="674.79" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1921 : modifications entrées en vigueur : 15</title></rect>
+<rect x="676.35" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1922 : modifications entrées en vigueur : 12</title></rect>
+<rect x="677.90" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1923 : modifications entrées en vigueur : 12</title></rect>
+<rect x="679.46" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1924 : modifications entrées en vigueur : 12</title></rect>
+<rect x="681.01" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1925 : modifications entrées en vigueur : 17</title></rect>
+<rect x="682.57" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1926 : modifications entrées en vigueur : 26</title></rect>
+<rect x="684.12" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1927 : modifications entrées en vigueur : 18</title></rect>
+<rect x="685.68" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1928 : modifications entrées en vigueur : 20</title></rect>
+<rect x="687.23" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1929 : modifications entrées en vigueur : 16</title></rect>
+<rect x="688.79" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1930 : modifications entrées en vigueur : 27</title></rect>
+<rect x="690.34" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1931 : modifications entrées en vigueur : 9</title></rect>
+<rect x="691.90" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1932 : modifications entrées en vigueur : 23</title></rect>
+<rect x="693.45" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1933 : modifications entrées en vigueur : 14</title></rect>
+<rect x="695.01" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1934 : modifications entrées en vigueur : 30</title></rect>
+<rect x="696.57" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1935 : modifications entrées en vigueur : 49</title></rect>
+<rect x="698.12" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1936 : modifications entrées en vigueur : 41</title></rect>
+<rect x="699.68" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1937 : modifications entrées en vigueur : 40</title></rect>
+<rect x="701.23" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1938 : modifications entrées en vigueur : 55</title></rect>
+<rect x="702.79" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1939 : modifications entrées en vigueur : 41</title></rect>
+<rect x="704.34" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1940 : modifications entrées en vigueur : 31</title></rect>
+<rect x="705.90" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1941 : modifications entrées en vigueur : 50</title></rect>
+<rect x="707.45" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1942 : modifications entrées en vigueur : 48</title></rect>
+<rect x="709.01" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1943 : modifications entrées en vigueur : 47</title></rect>
+<rect x="710.56" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1944 : modifications entrées en vigueur : 37</title></rect>
+<rect x="712.12" y="328.3" width="1.24" height="2.2" rx="0.5" fill="#1f883d"><title>1945 : modifications entrées en vigueur : 116</title></rect>
+<rect x="713.67" y="328.8" width="1.24" height="1.7" rx="0.5" fill="#1f883d"><title>1946 : modifications entrées en vigueur : 93</title></rect>
+<rect x="715.23" y="328.6" width="1.24" height="1.9" rx="0.5" fill="#1f883d"><title>1947 : modifications entrées en vigueur : 99</title></rect>
+<rect x="716.78" y="328.2" width="1.24" height="2.2" rx="0.5" fill="#1f883d"><title>1948 : modifications entrées en vigueur : 120</title></rect>
+<rect x="718.34" y="328.2" width="1.24" height="2.3" rx="0.5" fill="#1f883d"><title>1949 : modifications entrées en vigueur : 123</title></rect>
+<rect x="719.90" y="328.0" width="1.24" height="2.5" rx="0.5" fill="#1f883d"><title>1950 : modifications entrées en vigueur : 134</title></rect>
+<text x="720.5" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1950</text>
+<rect x="721.45" y="328.0" width="1.24" height="2.5" rx="0.5" fill="#1f883d"><title>1951 : modifications entrées en vigueur : 133</title></rect>
+<rect x="723.01" y="328.4" width="1.24" height="2.1" rx="0.5" fill="#1f883d"><title>1952 : modifications entrées en vigueur : 112</title></rect>
+<rect x="724.56" y="327.9" width="1.24" height="2.6" rx="0.5" fill="#1f883d"><title>1953 : modifications entrées en vigueur : 140</title></rect>
+<rect x="726.12" y="327.9" width="1.24" height="2.6" rx="0.5" fill="#1f883d"><title>1954 : modifications entrées en vigueur : 137</title></rect>
+<rect x="727.67" y="326.6" width="1.24" height="3.9" rx="0.5" fill="#1f883d"><title>1955 : modifications entrées en vigueur : 206</title></rect>
+<rect x="729.23" y="327.6" width="1.24" height="2.9" rx="0.5" fill="#1f883d"><title>1956 : modifications entrées en vigueur : 157</title></rect>
+<rect x="730.78" y="328.0" width="1.24" height="2.5" rx="0.5" fill="#1f883d"><title>1957 : modifications entrées en vigueur : 132</title></rect>
+<rect x="732.34" y="326.2" width="1.24" height="4.3" rx="0.5" fill="#1f883d"><title>1958 : modifications entrées en vigueur : 229</title></rect>
+<rect x="733.89" y="325.0" width="1.24" height="5.5" rx="0.5" fill="#1f883d"><title>1959 : modifications entrées en vigueur : 291</title></rect>
+<rect x="735.45" y="326.4" width="1.24" height="4.1" rx="0.5" fill="#1f883d"><title>1960 : modifications entrées en vigueur : 221</title></rect>
+<rect x="737.00" y="326.0" width="1.24" height="4.5" rx="0.5" fill="#1f883d"><title>1961 : modifications entrées en vigueur : 240</title></rect>
+<rect x="738.56" y="325.9" width="1.24" height="4.6" rx="0.5" fill="#1f883d"><title>1962 : modifications entrées en vigueur : 245</title></rect>
+<rect x="740.11" y="326.6" width="1.24" height="3.9" rx="0.5" fill="#1f883d"><title>1963 : modifications entrées en vigueur : 206</title></rect>
+<rect x="741.67" y="325.8" width="1.24" height="4.7" rx="0.5" fill="#1f883d"><title>1964 : modifications entrées en vigueur : 252</title></rect>
+<rect x="743.23" y="325.7" width="1.24" height="4.8" rx="0.5" fill="#1f883d"><title>1965 : modifications entrées en vigueur : 256</title></rect>
+<rect x="744.78" y="325.8" width="1.24" height="4.7" rx="0.5" fill="#1f883d"><title>1966 : modifications entrées en vigueur : 252</title></rect>
+<rect x="746.34" y="323.6" width="1.24" height="6.9" rx="0.5" fill="#1f883d"><title>1967 : modifications entrées en vigueur : 369</title></rect>
+<rect x="747.89" y="324.0" width="1.24" height="6.5" rx="0.5" fill="#1f883d"><title>1968 : modifications entrées en vigueur : 347</title></rect>
+<rect x="749.45" y="324.1" width="1.24" height="6.5" rx="0.5" fill="#1f883d"><title>1969 : modifications entrées en vigueur : 344</title></rect>
+<rect x="751.00" y="323.1" width="1.24" height="7.4" rx="0.5" fill="#1f883d"><title>1970 : modifications entrées en vigueur : 396</title></rect>
+<rect x="752.56" y="324.1" width="1.24" height="6.4" rx="0.5" fill="#1f883d"><title>1971 : modifications entrées en vigueur : 343</title></rect>
+<rect x="754.11" y="320.4" width="1.24" height="10.1" rx="0.5" fill="#1f883d"><title>1972 : modifications entrées en vigueur : 537</title></rect>
+<rect x="755.67" y="320.8" width="1.24" height="9.7" rx="0.5" fill="#1f883d"><title>1973 : modifications entrées en vigueur : 516</title></rect>
+<rect x="757.22" y="321.8" width="1.24" height="8.7" rx="0.5" fill="#1f883d"><title>1974 : modifications entrées en vigueur : 465</title></rect>
+<rect x="758.78" y="318.6" width="1.24" height="11.9" rx="0.5" fill="#1f883d"><title>1975 : modifications entrées en vigueur : 633</title></rect>
+<rect x="760.33" y="318.3" width="1.24" height="12.2" rx="0.5" fill="#1f883d"><title>1976 : modifications entrées en vigueur : 653</title></rect>
+<rect x="761.89" y="315.4" width="1.24" height="15.1" rx="0.5" fill="#1f883d"><title>1977 : modifications entrées en vigueur : 807</title></rect>
+<rect x="763.44" y="316.2" width="1.24" height="14.3" rx="0.5" fill="#1f883d"><title>1978 : modifications entrées en vigueur : 764</title></rect>
+<rect x="765.00" y="314.1" width="1.24" height="16.4" rx="0.5" fill="#1f883d"><title>1979 : modifications entrées en vigueur : 873</title></rect>
+<rect x="766.56" y="314.5" width="1.24" height="16.0" rx="0.5" fill="#1f883d"><title>1980 : modifications entrées en vigueur : 855</title></rect>
+<rect x="768.11" y="313.1" width="1.24" height="17.4" rx="0.5" fill="#1f883d"><title>1981 : modifications entrées en vigueur : 929</title></rect>
+<rect x="769.67" y="306.7" width="1.24" height="23.8" rx="0.5" fill="#1f883d"><title>1982 : modifications entrées en vigueur : 1 267</title></rect>
+<rect x="771.22" y="305.4" width="1.24" height="25.1" rx="0.5" fill="#1f883d"><title>1983 : modifications entrées en vigueur : 1 339</title></rect>
+<rect x="772.78" y="302.2" width="1.24" height="28.3" rx="0.5" fill="#1f883d"><title>1984 : modifications entrées en vigueur : 1 508</title></rect>
+<rect x="774.33" y="296.9" width="1.24" height="33.6" rx="0.5" fill="#1f883d"><title>1985 : modifications entrées en vigueur : 1 790</title></rect>
+<rect x="775.89" y="290.5" width="1.24" height="40.0" rx="0.5" fill="#1f883d"><title>1986 : modifications entrées en vigueur : 2 134</title></rect>
+<rect x="777.44" y="289.3" width="1.24" height="41.2" rx="0.5" fill="#1f883d"><title>1987 : modifications entrées en vigueur : 2 199</title></rect>
+<rect x="779.00" y="288.8" width="1.24" height="41.7" rx="0.5" fill="#1f883d"><title>1988 : modifications entrées en vigueur : 2 226</title></rect>
+<rect x="780.55" y="293.2" width="1.24" height="37.3" rx="0.5" fill="#1f883d"><title>1989 : modifications entrées en vigueur : 1 991</title></rect>
+<rect x="782.11" y="281.3" width="1.24" height="49.2" rx="0.5" fill="#1f883d"><title>1990 : modifications entrées en vigueur : 2 626</title></rect>
+<rect x="783.66" y="278.2" width="1.24" height="52.3" rx="0.5" fill="#1f883d"><title>1991 : modifications entrées en vigueur : 2 789</title></rect>
+<rect x="785.22" y="267.5" width="1.24" height="63.0" rx="0.5" fill="#1f883d"><title>1992 : modifications entrées en vigueur : 3 359</title></rect>
+<rect x="786.77" y="266.6" width="1.24" height="63.9" rx="0.5" fill="#1f883d"><title>1993 : modifications entrées en vigueur : 3 406</title></rect>
+<rect x="788.33" y="270.6" width="1.24" height="59.9" rx="0.5" fill="#1f883d"><title>1994 : modifications entrées en vigueur : 3 197</title></rect>
+<rect x="789.89" y="266.3" width="1.24" height="64.2" rx="0.5" fill="#1f883d"><title>1995 : modifications entrées en vigueur : 3 422</title></rect>
+<rect x="791.44" y="272.7" width="1.24" height="57.8" rx="0.5" fill="#1f883d"><title>1996 : modifications entrées en vigueur : 3 084</title></rect>
+<rect x="793.00" y="271.2" width="1.24" height="59.3" rx="0.5" fill="#1f883d"><title>1997 : modifications entrées en vigueur : 3 164</title></rect>
+<rect x="794.55" y="274.5" width="1.24" height="56.0" rx="0.5" fill="#1f883d"><title>1998 : modifications entrées en vigueur : 2 985</title></rect>
+<rect x="796.11" y="284.5" width="1.24" height="46.0" rx="0.5" fill="#1f883d"><title>1999 : modifications entrées en vigueur : 2 451</title></rect>
+<rect x="797.66" y="285.8" width="1.24" height="44.7" rx="0.5" fill="#1f883d"><title>2000 : modifications entrées en vigueur : 2 382</title></rect>
+<text x="798.3" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2000</text>
+<rect x="799.22" y="284.5" width="1.24" height="46.0" rx="0.5" fill="#1f883d"><title>2001 : modifications entrées en vigueur : 2 452</title></rect>
+<rect x="800.77" y="270.9" width="1.24" height="59.5" rx="0.5" fill="#1f883d"><title>2002 : modifications entrées en vigueur : 3 176</title></rect>
+<rect x="802.33" y="273.9" width="1.24" height="56.6" rx="0.5" fill="#1f883d"><title>2003 : modifications entrées en vigueur : 3 021</title></rect>
+<rect x="803.88" y="272.1" width="1.24" height="58.4" rx="0.5" fill="#1f883d"><title>2004 : modifications entrées en vigueur : 3 117</title></rect>
+<rect x="805.44" y="268.6" width="1.24" height="61.9" rx="0.5" fill="#1f883d"><title>2005 : modifications entrées en vigueur : 3 299</title></rect>
+<rect x="806.99" y="265.1" width="1.24" height="65.4" rx="0.5" fill="#1f883d"><title>2006 : modifications entrées en vigueur : 3 488</title></rect>
+<rect x="808.55" y="252.7" width="1.24" height="77.8" rx="0.5" fill="#1f883d"><title>2007 : modifications entrées en vigueur : 4 150</title></rect>
+<rect x="810.10" y="248.4" width="1.24" height="82.1" rx="0.5" fill="#1f883d"><title>2008 : modifications entrées en vigueur : 4 379</title></rect>
+<rect x="811.66" y="228.9" width="1.24" height="101.6" rx="0.5" fill="#1f883d"><title>2009 : modifications entrées en vigueur : 5 420</title></rect>
+<rect x="813.21" y="230.2" width="1.24" height="100.3" rx="0.5" fill="#1f883d"><title>2010 : modifications entrées en vigueur : 5 352</title></rect>
+<rect x="814.77" y="225.3" width="1.24" height="105.2" rx="0.5" fill="#1f883d"><title>2011 : modifications entrées en vigueur : 5 612</title></rect>
+<rect x="816.33" y="230.4" width="1.24" height="100.1" rx="0.5" fill="#1f883d"><title>2012 : modifications entrées en vigueur : 5 337</title></rect>
+<rect x="817.88" y="240.3" width="1.24" height="90.2" rx="0.5" fill="#1f883d"><title>2013 : modifications entrées en vigueur : 4 812</title></rect>
+<rect x="819.44" y="232.7" width="1.24" height="97.8" rx="0.5" fill="#1f883d"><title>2014 : modifications entrées en vigueur : 5 216</title></rect>
+<rect x="820.99" y="226.5" width="1.24" height="104.0" rx="0.5" fill="#1f883d"><title>2015 : modifications entrées en vigueur : 5 546</title></rect>
+<rect x="822.55" y="228.3" width="1.24" height="102.2" rx="0.5" fill="#1f883d"><title>2016 : modifications entrées en vigueur : 5 450</title></rect>
+<rect x="824.10" y="222.5" width="1.24" height="108.0" rx="0.5" fill="#1f883d"><title>2017 : modifications entrées en vigueur : 5 760</title></rect>
+<rect x="825.66" y="243.5" width="1.24" height="87.0" rx="0.5" fill="#1f883d"><title>2018 : modifications entrées en vigueur : 4 640</title></rect>
+<rect x="827.21" y="242.9" width="1.24" height="87.6" rx="0.5" fill="#1f883d"><title>2019 : modifications entrées en vigueur : 4 672</title></rect>
+<rect x="828.77" y="224.9" width="1.24" height="105.6" rx="0.5" fill="#1f883d"><title>2020 : modifications entrées en vigueur : 5 632</title></rect>
+<rect x="830.32" y="216.9" width="1.24" height="113.6" rx="0.5" fill="#1f883d"><title>2021 : modifications entrées en vigueur : 6 061</title></rect>
+<rect x="831.88" y="227.5" width="1.24" height="103.0" rx="0.5" fill="#1f883d"><title>2022 : modifications entrées en vigueur : 5 494</title></rect>
+<rect x="833.43" y="231.6" width="1.24" height="98.9" rx="0.5" fill="#1f883d"><title>2023 : modifications entrées en vigueur : 5 276</title></rect>
+<rect x="834.99" y="234.7" width="1.24" height="95.8" rx="0.5" fill="#1f883d"><title>2024 : modifications entrées en vigueur : 5 107</title></rect>
+<rect x="836.54" y="198.7" width="1.24" height="131.8" rx="0.5" fill="#1f883d"><title>2025 : modifications entrées en vigueur : 7 029</title></rect>
+<text x="837.2" y="192.7" font-size="11" font-weight="600" text-anchor="middle" fill="#1f2328">7 029 en 2025</text>
+<rect x="838.10" y="209.1" width="1.24" height="121.4" rx="0.5" fill="#1f883d"><title>2026 : modifications entrées en vigueur : 6 476</title></rect>
+<text x="40.5" y="368.5" font-size="11.5" fill="#59636e">Modifications datées du jour d’entrée en vigueur : 187 158 ; date d’entrée en vigueur impossible (avant 1200), non affichées : 3. Type d’historique : in-force.</text>
+<rect x="24.5" y="396.5" width="831" height="152" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="422.5" font-size="14" font-weight="600" fill="#1f2328">Exhaustivité selon les sources officielles au 12 nov. 2026</text>
+<text x="40.5" y="446.5" font-size="13" fill="#1f2328">Constitution</text>
+<text x="40.5" y="462.5" font-size="11.5" fill="#59636e">dans le dépôt</text>
+<g><title>Constitution: 100 %</title><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100 %</text>
+<text x="40.5" y="482.5" font-size="13" fill="#1f2328">Codes principaux</text>
+<text x="40.5" y="498.5" font-size="11.5" fill="#59636e">part des codes essentiels présents</text>
+<g><title>Codes principaux: 100 %</title><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100 %</text>
+<text x="40.5" y="518.5" font-size="13" fill="#1f2328">Droit national</text>
+<text x="40.5" y="534.5" font-size="11.5" fill="#59636e">textes présents, sur le total officiel</text>
+<g><title>Droit national: 100 %</title><rect x="276.5" y="515.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="515.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100 %</text>
+<text x="456.0" y="446.5" font-size="13" fill="#1f2328">Droit régional</text>
+<text x="456.0" y="462.5" font-size="11.5" fill="#59636e">entités législatives présentes</text>
+<g><title>Droit régional: 0 %</title><rect x="692.0" y="443.5" width="91.5" height="8" rx="4" fill="#eff2f5"/></g>
+<text x="839.5" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">0 %</text>
+<text x="456.0" y="482.5" font-size="13" fill="#1f2328">Jurisprudence</text>
+<text x="456.0" y="498.5" font-size="11.5" fill="#59636e">juridictions suprêmes présentes</text>
+<g><title>Jurisprudence: 67 %</title><rect x="692.0" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="692.0" y="479.5" width="61.3" height="8" rx="4" fill="#9a6700"/></g>
+<text x="839.5" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">67 %</text>
+<rect x="24.5" y="562.5" width="831" height="152" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="588.5" font-size="14" font-weight="600" fill="#1f2328">Exactitude du contenu</text>
+<text x="40.5" y="612.5" font-size="13" fill="#1f2328">Modifications avec date d’effet</text>
+<text x="40.5" y="628.5" font-size="11.5" fill="#59636e">part des modifications</text>
+<g><title>Modifications avec date d’effet: 100 %</title><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100 %</text>
+<text x="40.5" y="648.5" font-size="13" fill="#1f2328">Modifications citant leur source</text>
+<text x="40.5" y="664.5" font-size="11.5" fill="#59636e">ligne Source ou lien dans le commit</text>
+<g><title>Modifications citant leur source: 94 %</title><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="645.5" width="86.2" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">94 %</text>
+<text x="40.5" y="684.5" font-size="13" fill="#1f2328">Vérifié sur la source officielle</text>
+<text x="40.5" y="700.5" font-size="11.5" fill="#59636e">la date indiquée par le dépôt</text>
+<text x="424.0" y="688.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">28 oct. 2026</text>
+<text x="456.0" y="612.5" font-size="13" fill="#1f2328">Corpus du pays dans global-law</text>
+<text x="456.0" y="628.5" font-size="11.5" fill="#59636e">textes nationaux: 1, jurisprudence: 6</text>
+<text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">7</text>
+<text x="24" y="736" font-size="11.5" fill="#59636e">lexifina/france-law à 29bccd2, généré le 2026-11-13. Hors commits de documentation. Périmètre : from 0881-10-09</text>
+</svg>
