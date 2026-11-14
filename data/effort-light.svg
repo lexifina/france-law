@@ -1,312 +1,312 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="703" viewBox="0 0 880 703" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
-<rect x="0.5" y="0.5" width="879" height="702" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
-<text x="24" y="38" font-size="16" font-weight="600" fill="#1f2328">French law as a git history</text>
-<rect x="602.3" y="24.5" width="140" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
-<text x="672.5" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">record to Oct 28, 2026</text>
-<rect x="750.8" y="24.5" width="105" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
-<text x="803.4" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">freshness: stale</text>
-<rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
-<text x="40.0" y="87" font-size="20" font-weight="600" fill="#1f2328">153,011</text>
-<text x="40.0" y="106" font-size="12" fill="#59636e">acts</text>
-<line x1="190.4" y1="61" x2="190.4" y2="118" stroke="#d1d9e0"/>
-<text x="206.4" y="87" font-size="20" font-weight="600" fill="#1f2328">187,161</text>
-<text x="206.4" y="106" font-size="12" fill="#59636e">changes, as commits</text>
-<line x1="356.8" y1="61" x2="356.8" y2="118" stroke="#d1d9e0"/>
-<text x="372.8" y="87" font-size="20" font-weight="600" fill="#1f2328">811,830</text>
-<text x="372.8" y="106" font-size="12" fill="#59636e">provision files</text>
-<line x1="523.2" y1="61" x2="523.2" y2="118" stroke="#d1d9e0"/>
-<text x="539.2" y="87" font-size="20" font-weight="600" fill="#1f2328">156,199</text>
-<text x="539.2" y="106" font-size="12" fill="#59636e" textLength="142" lengthAdjust="spacingAndGlyphs">laws and publishers credited</text>
-<line x1="689.6" y1="61" x2="689.6" y2="118" stroke="#d1d9e0"/>
-<text x="705.6" y="87" font-size="20" font-weight="600" fill="#1f2328">1539–2026</text>
-<text x="705.6" y="106" font-size="12" fill="#59636e">years of history</text>
-<rect x="24.5" y="134.5" width="831" height="248" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
-<text x="40.5" y="160.5" font-size="14" font-weight="600" fill="#1f2328">Changes by the year they took effect</text>
-<line x1="80.5" y1="330.5" x2="839.5" y2="330.5" stroke="#d1d9e0" stroke-width="1"/>
-<text x="72.5" y="334.5" font-size="11" text-anchor="end" fill="#59636e">0</text>
-<line x1="80.5" y1="293.0" x2="839.5" y2="293.0" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
-<text x="72.5" y="297.0" font-size="11" text-anchor="end" fill="#59636e">2,000</text>
-<line x1="80.5" y1="255.5" x2="839.5" y2="255.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
-<text x="72.5" y="259.5" font-size="11" text-anchor="end" fill="#59636e">4,000</text>
-<line x1="80.5" y1="218.0" x2="839.5" y2="218.0" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
-<text x="72.5" y="222.0" font-size="11" text-anchor="end" fill="#59636e">6,000</text>
-<line x1="80.5" y1="180.5" x2="839.5" y2="180.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
-<text x="72.5" y="184.5" font-size="11" text-anchor="end" fill="#59636e">8,000</text>
-<rect x="80.66" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1539: 1 change took effect</title></rect>
-<text x="98.4" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1550</text>
-<text x="176.2" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1600</text>
-<rect x="220.64" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1629: 1 change took effect</title></rect>
-<text x="253.9" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1650</text>
-<rect x="301.51" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1681: 1 change took effect</title></rect>
-<text x="331.7" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1700</text>
-<text x="409.5" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1750</text>
-<rect x="458.60" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1782: 1 change took effect</title></rect>
-<rect x="469.49" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1789: 3 changes took effect</title></rect>
-<rect x="471.04" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1790: 2 changes took effect</title></rect>
-<rect x="472.60" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1791: 6 changes took effect</title></rect>
-<rect x="474.15" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1792: 1 change took effect</title></rect>
-<rect x="475.71" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1793: 3 changes took effect</title></rect>
-<rect x="477.26" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1794: 2 changes took effect</title></rect>
-<rect x="478.82" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1795: 4 changes took effect</title></rect>
-<rect x="480.37" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1796: 2 changes took effect</title></rect>
-<rect x="481.93" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1797: 1 change took effect</title></rect>
-<rect x="485.04" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1799: 3 changes took effect</title></rect>
-<rect x="486.60" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1800: 2 changes took effect</title></rect>
-<text x="487.2" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1800</text>
-<rect x="488.15" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1801: 3 changes took effect</title></rect>
-<rect x="489.71" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1802: 1 change took effect</title></rect>
-<rect x="491.26" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1803: 5 changes took effect</title></rect>
-<rect x="492.82" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1804: 7 changes took effect</title></rect>
-<rect x="494.37" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1805: 1 change took effect</title></rect>
-<rect x="495.93" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1806: 5 changes took effect</title></rect>
-<rect x="497.48" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1807: 9 changes took effect</title></rect>
-<rect x="499.04" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1808: 2 changes took effect</title></rect>
-<rect x="500.59" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1809: 1 change took effect</title></rect>
-<rect x="502.15" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1810: 11 changes took effect</title></rect>
-<rect x="503.70" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1811: 1 change took effect</title></rect>
-<rect x="511.48" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1816: 7 changes took effect</title></rect>
-<rect x="513.04" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1817: 4 changes took effect</title></rect>
-<rect x="516.15" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1819: 4 changes took effect</title></rect>
-<rect x="517.70" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1820: 1 change took effect</title></rect>
-<rect x="519.26" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1821: 1 change took effect</title></rect>
-<rect x="520.81" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1822: 1 change took effect</title></rect>
-<rect x="522.37" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1823: 5 changes took effect</title></rect>
-<rect x="523.92" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1824: 1 change took effect</title></rect>
-<rect x="525.48" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1825: 3 changes took effect</title></rect>
-<rect x="527.03" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1826: 1 change took effect</title></rect>
-<rect x="530.15" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1828: 1 change took effect</title></rect>
-<rect x="531.70" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1829: 1 change took effect</title></rect>
-<rect x="533.26" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1830: 1 change took effect</title></rect>
-<rect x="534.81" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1831: 5 changes took effect</title></rect>
-<rect x="536.37" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1832: 3 changes took effect</title></rect>
-<rect x="539.48" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1834: 1 change took effect</title></rect>
-<rect x="541.03" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1835: 2 changes took effect</title></rect>
-<rect x="542.59" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1836: 1 change took effect</title></rect>
-<rect x="544.14" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1837: 3 changes took effect</title></rect>
-<rect x="547.25" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1839: 3 changes took effect</title></rect>
-<rect x="550.36" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1841: 1 change took effect</title></rect>
-<rect x="551.92" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1842: 1 change took effect</title></rect>
-<rect x="553.48" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1843: 1 change took effect</title></rect>
-<rect x="555.03" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1844: 2 changes took effect</title></rect>
-<rect x="556.59" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1845: 1 change took effect</title></rect>
-<rect x="561.25" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1848: 3 changes took effect</title></rect>
-<rect x="562.81" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1849: 4 changes took effect</title></rect>
-<rect x="564.36" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1850: 5 changes took effect</title></rect>
-<text x="565.0" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1850</text>
-<rect x="565.92" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1851: 2 changes took effect</title></rect>
-<rect x="567.47" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1852: 13 changes took effect</title></rect>
-<rect x="569.03" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1853: 2 changes took effect</title></rect>
-<rect x="570.58" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1854: 3 changes took effect</title></rect>
-<rect x="573.69" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1856: 3 changes took effect</title></rect>
-<rect x="575.25" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1857: 2 changes took effect</title></rect>
-<rect x="576.81" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1858: 3 changes took effect</title></rect>
-<rect x="578.36" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1859: 3 changes took effect</title></rect>
-<rect x="579.92" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1860: 1 change took effect</title></rect>
-<rect x="583.03" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1862: 1 change took effect</title></rect>
-<rect x="584.58" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1863: 5 changes took effect</title></rect>
-<rect x="586.14" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1864: 3 changes took effect</title></rect>
-<rect x="587.69" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1865: 2 changes took effect</title></rect>
-<rect x="589.25" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1866: 2 changes took effect</title></rect>
-<rect x="590.80" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1867: 3 changes took effect</title></rect>
-<rect x="592.36" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1868: 1 change took effect</title></rect>
-<rect x="593.91" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1869: 1 change took effect</title></rect>
-<rect x="595.47" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1870: 1 change took effect</title></rect>
-<rect x="597.02" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1871: 3 changes took effect</title></rect>
-<rect x="598.58" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1872: 4 changes took effect</title></rect>
-<rect x="600.14" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1873: 2 changes took effect</title></rect>
-<rect x="601.69" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1874: 1 change took effect</title></rect>
-<rect x="603.25" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1875: 3 changes took effect</title></rect>
-<rect x="604.80" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1876: 1 change took effect</title></rect>
-<rect x="606.36" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1877: 3 changes took effect</title></rect>
-<rect x="607.91" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1878: 2 changes took effect</title></rect>
-<rect x="609.47" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1879: 1 change took effect</title></rect>
-<rect x="611.02" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1880: 6 changes took effect</title></rect>
-<rect x="612.58" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1881: 10 changes took effect</title></rect>
-<rect x="614.13" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1882: 1 change took effect</title></rect>
-<rect x="615.69" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1883: 2 changes took effect</title></rect>
-<rect x="617.24" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1884: 1 change took effect</title></rect>
-<rect x="618.80" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1885: 4 changes took effect</title></rect>
-<rect x="620.35" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1886: 1 change took effect</title></rect>
-<rect x="621.91" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1887: 1 change took effect</title></rect>
-<rect x="623.46" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1888: 4 changes took effect</title></rect>
-<rect x="625.02" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1889: 4 changes took effect</title></rect>
-<rect x="626.58" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1890: 3 changes took effect</title></rect>
-<rect x="628.13" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1891: 4 changes took effect</title></rect>
-<rect x="629.69" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1892: 3 changes took effect</title></rect>
-<rect x="631.24" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1893: 8 changes took effect</title></rect>
-<rect x="634.35" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1895: 4 changes took effect</title></rect>
-<rect x="635.91" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1896: 6 changes took effect</title></rect>
-<rect x="637.46" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1897: 6 changes took effect</title></rect>
-<rect x="639.02" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1898: 8 changes took effect</title></rect>
-<rect x="640.57" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1899: 3 changes took effect</title></rect>
-<rect x="642.13" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1900: 3 changes took effect</title></rect>
-<text x="642.8" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1900</text>
-<rect x="643.68" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1901: 8 changes took effect</title></rect>
-<rect x="645.24" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1902: 1 change took effect</title></rect>
-<rect x="646.79" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1903: 5 changes took effect</title></rect>
-<rect x="648.35" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1904: 3 changes took effect</title></rect>
-<rect x="649.91" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1905: 13 changes took effect</title></rect>
-<rect x="651.46" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1906: 5 changes took effect</title></rect>
-<rect x="653.02" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1907: 15 changes took effect</title></rect>
-<rect x="654.57" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1908: 15 changes took effect</title></rect>
-<rect x="656.13" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1909: 6 changes took effect</title></rect>
-<rect x="657.68" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1910: 6 changes took effect</title></rect>
-<rect x="659.24" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1911: 9 changes took effect</title></rect>
-<rect x="660.79" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1912: 8 changes took effect</title></rect>
-<rect x="662.35" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1913: 7 changes took effect</title></rect>
-<rect x="663.90" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1914: 5 changes took effect</title></rect>
-<rect x="665.46" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1915: 5 changes took effect</title></rect>
-<rect x="667.01" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1916: 5 changes took effect</title></rect>
-<rect x="668.57" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1917: 8 changes took effect</title></rect>
-<rect x="670.12" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1918: 5 changes took effect</title></rect>
-<rect x="671.68" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1919: 13 changes took effect</title></rect>
-<rect x="673.24" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1920: 9 changes took effect</title></rect>
-<rect x="674.79" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1921: 15 changes took effect</title></rect>
-<rect x="676.35" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1922: 12 changes took effect</title></rect>
-<rect x="677.90" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1923: 12 changes took effect</title></rect>
-<rect x="679.46" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1924: 12 changes took effect</title></rect>
-<rect x="681.01" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1925: 17 changes took effect</title></rect>
-<rect x="682.57" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1926: 26 changes took effect</title></rect>
-<rect x="684.12" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1927: 18 changes took effect</title></rect>
-<rect x="685.68" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1928: 20 changes took effect</title></rect>
-<rect x="687.23" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1929: 16 changes took effect</title></rect>
-<rect x="688.79" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1930: 27 changes took effect</title></rect>
-<rect x="690.34" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1931: 9 changes took effect</title></rect>
-<rect x="691.90" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1932: 23 changes took effect</title></rect>
-<rect x="693.45" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1933: 14 changes took effect</title></rect>
-<rect x="695.01" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1934: 30 changes took effect</title></rect>
-<rect x="696.57" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1935: 49 changes took effect</title></rect>
-<rect x="698.12" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1936: 41 changes took effect</title></rect>
-<rect x="699.68" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1937: 40 changes took effect</title></rect>
-<rect x="701.23" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1938: 55 changes took effect</title></rect>
-<rect x="702.79" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1939: 41 changes took effect</title></rect>
-<rect x="704.34" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1940: 31 changes took effect</title></rect>
-<rect x="705.90" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1941: 50 changes took effect</title></rect>
-<rect x="707.45" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1942: 48 changes took effect</title></rect>
-<rect x="709.01" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1943: 47 changes took effect</title></rect>
-<rect x="710.56" y="329.0" width="1.24" height="1.5" rx="0.5" fill="#1f883d"><title>1944: 37 changes took effect</title></rect>
-<rect x="712.12" y="328.3" width="1.24" height="2.2" rx="0.5" fill="#1f883d"><title>1945: 116 changes took effect</title></rect>
-<rect x="713.67" y="328.8" width="1.24" height="1.7" rx="0.5" fill="#1f883d"><title>1946: 93 changes took effect</title></rect>
-<rect x="715.23" y="328.6" width="1.24" height="1.9" rx="0.5" fill="#1f883d"><title>1947: 99 changes took effect</title></rect>
-<rect x="716.78" y="328.2" width="1.24" height="2.2" rx="0.5" fill="#1f883d"><title>1948: 120 changes took effect</title></rect>
-<rect x="718.34" y="328.2" width="1.24" height="2.3" rx="0.5" fill="#1f883d"><title>1949: 123 changes took effect</title></rect>
-<rect x="719.90" y="328.0" width="1.24" height="2.5" rx="0.5" fill="#1f883d"><title>1950: 134 changes took effect</title></rect>
-<text x="720.5" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1950</text>
-<rect x="721.45" y="328.0" width="1.24" height="2.5" rx="0.5" fill="#1f883d"><title>1951: 133 changes took effect</title></rect>
-<rect x="723.01" y="328.4" width="1.24" height="2.1" rx="0.5" fill="#1f883d"><title>1952: 112 changes took effect</title></rect>
-<rect x="724.56" y="327.9" width="1.24" height="2.6" rx="0.5" fill="#1f883d"><title>1953: 140 changes took effect</title></rect>
-<rect x="726.12" y="327.9" width="1.24" height="2.6" rx="0.5" fill="#1f883d"><title>1954: 137 changes took effect</title></rect>
-<rect x="727.67" y="326.6" width="1.24" height="3.9" rx="0.5" fill="#1f883d"><title>1955: 206 changes took effect</title></rect>
-<rect x="729.23" y="327.6" width="1.24" height="2.9" rx="0.5" fill="#1f883d"><title>1956: 157 changes took effect</title></rect>
-<rect x="730.78" y="328.0" width="1.24" height="2.5" rx="0.5" fill="#1f883d"><title>1957: 132 changes took effect</title></rect>
-<rect x="732.34" y="326.2" width="1.24" height="4.3" rx="0.5" fill="#1f883d"><title>1958: 229 changes took effect</title></rect>
-<rect x="733.89" y="325.0" width="1.24" height="5.5" rx="0.5" fill="#1f883d"><title>1959: 291 changes took effect</title></rect>
-<rect x="735.45" y="326.4" width="1.24" height="4.1" rx="0.5" fill="#1f883d"><title>1960: 221 changes took effect</title></rect>
-<rect x="737.00" y="326.0" width="1.24" height="4.5" rx="0.5" fill="#1f883d"><title>1961: 240 changes took effect</title></rect>
-<rect x="738.56" y="325.9" width="1.24" height="4.6" rx="0.5" fill="#1f883d"><title>1962: 245 changes took effect</title></rect>
-<rect x="740.11" y="326.6" width="1.24" height="3.9" rx="0.5" fill="#1f883d"><title>1963: 206 changes took effect</title></rect>
-<rect x="741.67" y="325.8" width="1.24" height="4.7" rx="0.5" fill="#1f883d"><title>1964: 252 changes took effect</title></rect>
-<rect x="743.23" y="325.7" width="1.24" height="4.8" rx="0.5" fill="#1f883d"><title>1965: 256 changes took effect</title></rect>
-<rect x="744.78" y="325.8" width="1.24" height="4.7" rx="0.5" fill="#1f883d"><title>1966: 252 changes took effect</title></rect>
-<rect x="746.34" y="323.6" width="1.24" height="6.9" rx="0.5" fill="#1f883d"><title>1967: 369 changes took effect</title></rect>
-<rect x="747.89" y="324.0" width="1.24" height="6.5" rx="0.5" fill="#1f883d"><title>1968: 347 changes took effect</title></rect>
-<rect x="749.45" y="324.1" width="1.24" height="6.5" rx="0.5" fill="#1f883d"><title>1969: 344 changes took effect</title></rect>
-<rect x="751.00" y="323.1" width="1.24" height="7.4" rx="0.5" fill="#1f883d"><title>1970: 396 changes took effect</title></rect>
-<rect x="752.56" y="324.1" width="1.24" height="6.4" rx="0.5" fill="#1f883d"><title>1971: 343 changes took effect</title></rect>
-<rect x="754.11" y="320.4" width="1.24" height="10.1" rx="0.5" fill="#1f883d"><title>1972: 537 changes took effect</title></rect>
-<rect x="755.67" y="320.8" width="1.24" height="9.7" rx="0.5" fill="#1f883d"><title>1973: 516 changes took effect</title></rect>
-<rect x="757.22" y="321.8" width="1.24" height="8.7" rx="0.5" fill="#1f883d"><title>1974: 465 changes took effect</title></rect>
-<rect x="758.78" y="318.6" width="1.24" height="11.9" rx="0.5" fill="#1f883d"><title>1975: 633 changes took effect</title></rect>
-<rect x="760.33" y="318.3" width="1.24" height="12.2" rx="0.5" fill="#1f883d"><title>1976: 653 changes took effect</title></rect>
-<rect x="761.89" y="315.4" width="1.24" height="15.1" rx="0.5" fill="#1f883d"><title>1977: 807 changes took effect</title></rect>
-<rect x="763.44" y="316.2" width="1.24" height="14.3" rx="0.5" fill="#1f883d"><title>1978: 764 changes took effect</title></rect>
-<rect x="765.00" y="314.1" width="1.24" height="16.4" rx="0.5" fill="#1f883d"><title>1979: 873 changes took effect</title></rect>
-<rect x="766.56" y="314.5" width="1.24" height="16.0" rx="0.5" fill="#1f883d"><title>1980: 855 changes took effect</title></rect>
-<rect x="768.11" y="313.1" width="1.24" height="17.4" rx="0.5" fill="#1f883d"><title>1981: 929 changes took effect</title></rect>
-<rect x="769.67" y="306.7" width="1.24" height="23.8" rx="0.5" fill="#1f883d"><title>1982: 1,267 changes took effect</title></rect>
-<rect x="771.22" y="305.4" width="1.24" height="25.1" rx="0.5" fill="#1f883d"><title>1983: 1,339 changes took effect</title></rect>
-<rect x="772.78" y="302.2" width="1.24" height="28.3" rx="0.5" fill="#1f883d"><title>1984: 1,508 changes took effect</title></rect>
-<rect x="774.33" y="296.9" width="1.24" height="33.6" rx="0.5" fill="#1f883d"><title>1985: 1,790 changes took effect</title></rect>
-<rect x="775.89" y="290.5" width="1.24" height="40.0" rx="0.5" fill="#1f883d"><title>1986: 2,134 changes took effect</title></rect>
-<rect x="777.44" y="289.3" width="1.24" height="41.2" rx="0.5" fill="#1f883d"><title>1987: 2,199 changes took effect</title></rect>
-<rect x="779.00" y="288.8" width="1.24" height="41.7" rx="0.5" fill="#1f883d"><title>1988: 2,226 changes took effect</title></rect>
-<rect x="780.55" y="293.2" width="1.24" height="37.3" rx="0.5" fill="#1f883d"><title>1989: 1,991 changes took effect</title></rect>
-<rect x="782.11" y="281.3" width="1.24" height="49.2" rx="0.5" fill="#1f883d"><title>1990: 2,626 changes took effect</title></rect>
-<rect x="783.66" y="278.2" width="1.24" height="52.3" rx="0.5" fill="#1f883d"><title>1991: 2,789 changes took effect</title></rect>
-<rect x="785.22" y="267.5" width="1.24" height="63.0" rx="0.5" fill="#1f883d"><title>1992: 3,359 changes took effect</title></rect>
-<rect x="786.77" y="266.6" width="1.24" height="63.9" rx="0.5" fill="#1f883d"><title>1993: 3,406 changes took effect</title></rect>
-<rect x="788.33" y="270.6" width="1.24" height="59.9" rx="0.5" fill="#1f883d"><title>1994: 3,197 changes took effect</title></rect>
-<rect x="789.89" y="266.3" width="1.24" height="64.2" rx="0.5" fill="#1f883d"><title>1995: 3,422 changes took effect</title></rect>
-<rect x="791.44" y="272.7" width="1.24" height="57.8" rx="0.5" fill="#1f883d"><title>1996: 3,084 changes took effect</title></rect>
-<rect x="793.00" y="271.2" width="1.24" height="59.3" rx="0.5" fill="#1f883d"><title>1997: 3,164 changes took effect</title></rect>
-<rect x="794.55" y="274.5" width="1.24" height="56.0" rx="0.5" fill="#1f883d"><title>1998: 2,985 changes took effect</title></rect>
-<rect x="796.11" y="284.5" width="1.24" height="46.0" rx="0.5" fill="#1f883d"><title>1999: 2,451 changes took effect</title></rect>
-<rect x="797.66" y="285.8" width="1.24" height="44.7" rx="0.5" fill="#1f883d"><title>2000: 2,382 changes took effect</title></rect>
-<text x="798.3" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2000</text>
-<rect x="799.22" y="284.5" width="1.24" height="46.0" rx="0.5" fill="#1f883d"><title>2001: 2,452 changes took effect</title></rect>
-<rect x="800.77" y="270.9" width="1.24" height="59.5" rx="0.5" fill="#1f883d"><title>2002: 3,176 changes took effect</title></rect>
-<rect x="802.33" y="273.9" width="1.24" height="56.6" rx="0.5" fill="#1f883d"><title>2003: 3,021 changes took effect</title></rect>
-<rect x="803.88" y="272.1" width="1.24" height="58.4" rx="0.5" fill="#1f883d"><title>2004: 3,117 changes took effect</title></rect>
-<rect x="805.44" y="268.6" width="1.24" height="61.9" rx="0.5" fill="#1f883d"><title>2005: 3,299 changes took effect</title></rect>
-<rect x="806.99" y="265.1" width="1.24" height="65.4" rx="0.5" fill="#1f883d"><title>2006: 3,488 changes took effect</title></rect>
-<rect x="808.55" y="252.7" width="1.24" height="77.8" rx="0.5" fill="#1f883d"><title>2007: 4,150 changes took effect</title></rect>
-<rect x="810.10" y="248.4" width="1.24" height="82.1" rx="0.5" fill="#1f883d"><title>2008: 4,379 changes took effect</title></rect>
-<rect x="811.66" y="228.9" width="1.24" height="101.6" rx="0.5" fill="#1f883d"><title>2009: 5,420 changes took effect</title></rect>
-<rect x="813.21" y="230.2" width="1.24" height="100.3" rx="0.5" fill="#1f883d"><title>2010: 5,352 changes took effect</title></rect>
-<rect x="814.77" y="225.3" width="1.24" height="105.2" rx="0.5" fill="#1f883d"><title>2011: 5,612 changes took effect</title></rect>
-<rect x="816.33" y="230.4" width="1.24" height="100.1" rx="0.5" fill="#1f883d"><title>2012: 5,337 changes took effect</title></rect>
-<rect x="817.88" y="240.3" width="1.24" height="90.2" rx="0.5" fill="#1f883d"><title>2013: 4,812 changes took effect</title></rect>
-<rect x="819.44" y="232.7" width="1.24" height="97.8" rx="0.5" fill="#1f883d"><title>2014: 5,216 changes took effect</title></rect>
-<rect x="820.99" y="226.5" width="1.24" height="104.0" rx="0.5" fill="#1f883d"><title>2015: 5,546 changes took effect</title></rect>
-<rect x="822.55" y="228.3" width="1.24" height="102.2" rx="0.5" fill="#1f883d"><title>2016: 5,450 changes took effect</title></rect>
-<rect x="824.10" y="222.5" width="1.24" height="108.0" rx="0.5" fill="#1f883d"><title>2017: 5,760 changes took effect</title></rect>
-<rect x="825.66" y="243.5" width="1.24" height="87.0" rx="0.5" fill="#1f883d"><title>2018: 4,640 changes took effect</title></rect>
-<rect x="827.21" y="242.9" width="1.24" height="87.6" rx="0.5" fill="#1f883d"><title>2019: 4,672 changes took effect</title></rect>
-<rect x="828.77" y="224.9" width="1.24" height="105.6" rx="0.5" fill="#1f883d"><title>2020: 5,632 changes took effect</title></rect>
-<rect x="830.32" y="216.9" width="1.24" height="113.6" rx="0.5" fill="#1f883d"><title>2021: 6,061 changes took effect</title></rect>
-<rect x="831.88" y="227.5" width="1.24" height="103.0" rx="0.5" fill="#1f883d"><title>2022: 5,494 changes took effect</title></rect>
-<rect x="833.43" y="231.6" width="1.24" height="98.9" rx="0.5" fill="#1f883d"><title>2023: 5,276 changes took effect</title></rect>
-<rect x="834.99" y="234.7" width="1.24" height="95.8" rx="0.5" fill="#1f883d"><title>2024: 5,107 changes took effect</title></rect>
-<rect x="836.54" y="198.7" width="1.24" height="131.8" rx="0.5" fill="#1f883d"><title>2025: 7,029 changes took effect</title></rect>
-<text x="837.2" y="192.7" font-size="11" font-weight="600" text-anchor="middle" fill="#1f2328">7,029 in 2025</text>
-<rect x="838.10" y="209.1" width="1.24" height="121.4" rx="0.5" fill="#1f883d"><title>2026: 6,476 changes took effect</title></rect>
-<text x="40.5" y="368.5" font-size="11.5" fill="#59636e">187,158 changes dated by their in-force day; 3 carry an impossible in-force date (before 1200), not shown.</text>
-<rect x="24.5" y="396.5" width="831" height="152" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
-<text x="40.5" y="422.5" font-size="14" font-weight="600" fill="#1f2328">Completeness, checked against the official sources on Nov 12, 2026</text>
-<text x="40.5" y="446.5" font-size="13" fill="#1f2328">Constitution</text>
-<text x="40.5" y="462.5" font-size="11.5" fill="#59636e">held in the repository</text>
-<g><title>Constitution: 100%</title><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
-<text x="424.0" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100%</text>
-<text x="40.5" y="482.5" font-size="13" fill="#1f2328">Main codes</text>
-<text x="40.5" y="498.5" font-size="11.5" fill="#59636e">share of the essential codes held</text>
-<g><title>Main codes: 100%</title><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
-<text x="424.0" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100%</text>
-<text x="40.5" y="518.5" font-size="13" fill="#1f2328">National law</text>
-<text x="40.5" y="534.5" font-size="11.5" fill="#59636e">acts held, of the official total</text>
-<g><title>National law: 100%</title><rect x="276.5" y="515.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="515.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
-<text x="424.0" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100%</text>
-<text x="456.0" y="446.5" font-size="13" fill="#1f2328">Regional law</text>
-<text x="456.0" y="462.5" font-size="11.5" fill="#59636e">law-making units held</text>
-<g><title>Regional law: 0%</title><rect x="692.0" y="443.5" width="91.5" height="8" rx="4" fill="#eff2f5"/></g>
-<text x="839.5" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">0%</text>
-<text x="456.0" y="482.5" font-size="13" fill="#1f2328">Case law</text>
-<text x="456.0" y="498.5" font-size="11.5" fill="#59636e">top courts held</text>
-<g><title>Case law: 67%</title><rect x="692.0" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="692.0" y="479.5" width="61.3" height="8" rx="4" fill="#9a6700"/></g>
-<text x="839.5" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">67%</text>
-<rect x="24.5" y="562.5" width="831" height="116" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
-<text x="40.5" y="588.5" font-size="14" font-weight="600" fill="#1f2328">Correctness of what is held</text>
-<text x="40.5" y="612.5" font-size="13" fill="#1f2328">Changes with an in-force date</text>
-<text x="40.5" y="628.5" font-size="11.5" fill="#59636e">share of changes</text>
-<g><title>Changes with an in-force date: 100%</title><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
-<text x="424.0" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100%</text>
-<text x="40.5" y="648.5" font-size="13" fill="#1f2328">Changes citing their official source</text>
-<text x="40.5" y="664.5" font-size="11.5" fill="#59636e">a Source line or link in the commit</text>
-<g><title>Changes citing their official source: 94%</title><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="645.5" width="86.2" height="8" rx="4" fill="#1f883d"/></g>
-<text x="424.0" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">94%</text>
-<text x="456.0" y="612.5" font-size="13" fill="#1f2328">Corpora for this country in global-law</text>
-<text x="456.0" y="628.5" font-size="11.5" fill="#59636e">national acts: 1, case law: 6</text>
-<text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">7</text>
-<text x="456.0" y="648.5" font-size="13" fill="#1f2328">Checked against the official source</text>
-<text x="456.0" y="664.5" font-size="11.5" fill="#59636e">the date the repository states</text>
-<text x="839.5" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">Oct 28, 2026</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="803" viewBox="0 0 880 803" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+<style>@font-face{font-family:'Manrope';font-weight:100 900;src:url(data:font/woff2;base64,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) format('woff2')}@font-face{font-family:'JetBrains Mono';font-weight:100 900;src:url(data:font/woff2;base64,d09GMgABAAAAAA4wABQAAAAAG4QAAA3IAAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbIBwqP0hWQVIqBmA/U1RBVIFiJyYAfC9qEQgKjBCJezCRMgE2AiQDWAsuAAQgBY5WByAMBxvhGLMRFmwcAEFv9yf7PxxwYwja0NcPY1TRxIJ2lHVSoPBh4IiKq1SIE8822+ZGI3pgU1OmC51s+cee57bHYyjtTTlCkll44vH8/szcVEmKlbPqyg9CHrjqh6jiw+6gbpUCAU5Uh2X60Jvnd+OK1i+VNFpNaqq79z/Yd+MA+F+d/17JkkE2RzEH8BPm/V/klXjq6dhhs+KknbouRBMAPkCH7flfc39rWCIP9xP7eobazbwhWvGQvIpFt0iIPBokQmRybUjjKGERfTOSiOTpqycAQcFfc712X/FSTjEp7k27M/eBhLuplFU7220m+fvzgXNQ4PsxH5BVSSgEuSkwS0DjK01NzelzUmCXaGH1vZflsrSejSyDHDKIsfTnxUEAF4irKIJxAwSR+APaTGcmUtfQ1ksYCyCPAYdWJlmIHl9sx8177sxkhIHaH4yHUHURkSiLiaVAS4flVAK6Hq+DGa3z88sGVksVKEQYkENBAK7YUgM8iueNM//+n6aNylJgXZP6dtgjYCgcRpVA5Hzz0H222XZPAf4l8x4kjjCWJCV0kGJvjudibkYBRNgSxnA2D6PKs9tZfxcjRpYWC2RDsYKKJadSLJLHMZGA/Fos0sFyOKgPFimmfh8JGa/I5qMwXHn6YAkkK+GnLcuXDz3Ko2T6/umGfwBIMG7NSubvVkUVgPKI8WQ2Vy22fdmJJDAE8ZjPUorpZAu2Y2f29MblQWw1K//1/C8Sn8m53SXOd47Tn0cYrEt3fUUYTwjbex9bFsip5ioiiEAYNywKPBs3IgZkacQWC6mLIwHmYMSVoBeuRCUER67EqjiPOMa1xZICM9CHip7d1732GVLIcJFBhNZZHQvgvmnAWKvJ/JrM0JN2ds/P1pJUm0Tej8Usw3jl+GxWjMjlnBMyGfTQdLr/hJwYkbWPT6OHZqBJEu6zL89CmE5E9lwnzdMRXWLIxDo4gTl3ochTAbUl8TrVjOaWeBUdnSpszRwH/qx44PiHc/MRvekhsge/SOnjMuBYOjjy1BsxvFJg54hUR3p7c9iEoyddwNo2esoVE3olA7zTUTHQq86WOKLjtO39zkUvVfDxL063n8tze49b5LBrD9XksNyakazBCScS/Ah5heqmzg4utpgwms8ZGLj16K/bx7+aV9yXm1fySvr3tlIqrqgbRyYephPbZu+6ctDLjvtGsgZHYuDs4GxbIWEYAScS2iMGHI5ZD96jH9rh9EmXRO7d0NgUIG20yd+n042NftJODIpapEeBFLbBJaTIaEGRDVbEzkk1cni9Zp0/Ig1Oxt0DwyVYFBUj+HVuVNQzRcRSseMe2CMO+vzXw6/3rfR9PqNJJ51bQjpNoz8cH5lwUspfQRFmOAC2bexqN9iOf8EFwxe8679bW6mu+yyJ3Jdq4UIEUy6oNjI93KKLKSYGfdSmHardoWHNZqNaR/mbJmkCpk1//3QXDPsf5U+dseWV+x+wdrnP6OjXtyeu2VCjUUPGtoUcV3VRKNbMaKip2U8gmW/rPL2v3Qde5N5UC+dHjqbrGmSW3AIZg+3O2S0L/cXhxx90ttxrPNSCeH+0BZx/actJ3o2phY8Lf7x9+ErORJ7ZzZvRPtz2f6MSpudYsPti5ZuPDVtnHOovch8e37eihUMjILVz1AqPj4GlkQe3laW0KeSlv+9ObvnZurqaeCrVYaE+bpqu0gnZ7MadAxedbdw7L7jPOmb8js7DM4P/itPyJeu4YYWY/o6SUN3ZitrKhp+Cgt+VC+vY4qZl3SVWgI7OpGLdmgm56lpjd+Py7jJrFImNvd5qhJhyKRFZI30VrqaLS+uqeBOBB+R9yki9hGFJqaRs6JuRssZ1XziaO7jyks6ChcMK6Jzdc9VF7Kd/p6k8sSofsxCpG4uyUCeUMMJ7od+dALWx4cctAHOqiwDnjp3d7cnrKyzsy/P0QqFJLCDIhDgJgD7QJSbyOgC1ax5/0PBmoIkTOIsbeFeQDbKf3Kuinu6s92vWdJgzzGXmVn4Ka6pVUMWjHKq4VCHUAL2VrNmzXIljKbDIEn+2BIuBrkER3DHPBakKsUgnNagVhQbDYSiYPyAvnxXh0MyaObYpDs6hz1M/V+FwolNYbj+BmQtKNVaIcsBLwRc1CleuNFhhf6FKtmCNK7kWuB3uiDXKjsXhaZGyIPFupJccUzNeLkX+Lll2SudQoSW7C8y1Ao88iAA0aWgVeeQZqWolSX+ZpNVKj4rNKlWFx4kKJEu5ipDxZ8ZzzhpX3ZZtqxMFgIFWnE4zoPk0BAMZmyhBmO+fMIf9gzvf38A7gBxg0qRk6xOwBeDgHDrrCXXP+y+M53Oc7gLtagyK8ErmWGJsOxujsh5Qu0e1a2xSd92TxlaxsdVMYqCftHSz0r1CPkGHcoAKguTt54+UPxXqIEDBRp0Bgo6xhO8001TObb5NtsEBwsf4RkiD7SGwSY5mMzw7tZu2TXN475PoJ1cjlfCs7wkvdg4RzeQ4GkEbSf2yMYyabqAi0gRAplFYi1KVKVClZxWhsVTQUgPHSQVxEjRyhHngLBtyrgDQNfLkcBNGiLCFc4SMrimJFi8J9nW5bitHY5WaHam1FpBlUYuuSlDIIIZRSFf+hw/+nROO7GKtGxzXART5YC+Pscxqntf/X8jfn7aPwRDIhc+Oi2suX377Yxsum4WbkpsAxISYYV887ZLa9jKTUVlXdBVOv3ZInpnf/50ohYfusM6YgscKljVyJIbDpzgM6e9/Ice1Mxz+52MJ0OQUc6w7HedL6St9+zgdv8POZ4yzJRqXjRYxH40mwnAv3LuxhWS7tbY/Kn1+Pg3CsG3bc1WW17gsW5vCrZQQoSXYF6bfeZrjm4FQT6Oy6ZmFqp5avZLF8eNZXy5m5M3lVfmPHu0FhLhNyo4dlEalRiv1C8AuhI+eU7W//IXUb/8tbdOgatSAXRC3HQR8xxEP/sMHBx32q9YOAv1Hy/P+nkfRTufz5hn+y30UuOb7bxDhwas9DHSxpNt/uwxpkRQzOEr3XrNn0ventp0uJEFqaQoLy/KxhTNSrXWfysvpYPC3N4kQqYyqI026xs7Yu2pbsGPRdWO91Gz/G+yHrXav1UqiQmo9F856s3n6Kk4o3f9zJUKIQJ98QCqCSjcti41NwUPovhI6FTQfazLm/jmfj710L05UBn22lWYwCwOP5XJaVSV15yjg/IWylMmy1saPVlwShy5GV7Fl1rdBMSrwxd0QTDCvkiBI961zlwdpFOAFDsZrnYwQ14gSYRwSnudFbcCF6ofWBHVfHUw19d5+m0FaiMzMpFbriCLoTNTPvp1mZ802LNr7r9+9sz+1Aq/TuTRko7bCBBs1s9XTLDjx9Jf8QGgVWEn9+lwvmliFZV7jEuqFfS2Wi+tNrqQsJGjL7gPzjSqokioTqgSW5dP1IncNU0Gl1roGPVt36/om8y0zG8kXGzicV3tzjcJKgj2100w1E/Yn2CUfWeMAT8Bi0MK927ykfUUnF9c7iqrrhEmHgfWNPtYopIRhSlUCFy92PLrIAKMklVprmZI0M45y6LYvvgfgvHNrG/45v7dHE8n3c0g8aXQix3PRmXzSWQKCMDbh31e1pbppGhQkaiUN+LHq1no9miCAvARThO8DE+z+kuDADoK+GwSu0ztjcmfV1hW5AlXC/3bK+ehzAxRQpFLEt0n+pvS3dxBtreIbWRtwuPyAbOePOHcFUfM3AF7zfBEYycEyKKEvOqxkrMrVsrIKVcg8nVE0Vw3qq7RkV27MqVSWEI8tTFcNcJzbjEHrfAdlTXSmu65pKa/MNUdzo1GVear0vKy76qaMlFJTKV0iCI5K6SwDPuGvkU8BCygHUCIJw0vCPOAYAvstdINUIUdIsXM7YJX4bQhSN28oIaqYyoLmUC4Za8mRnwhjOo8Upv64cOBXk0iYXxFAC6xO7/gzNq6V/dY35kuAd16/GsAXM5MnEsunLSYCBFEABH76s3Uw4Pv/pD0gDKyJTmuYrcE5uA9GodDu6kITNEzusuvWk7smXcVFlgCfxSZSSGDtTyX59s08ORqDWBHgQVgTYToPEiXGm8RQxufEYqnMIQGmSgcJsli2JSFScjoJM1Z+JRFaNEgcVmtXsEuiMkcPJzEKzJWrpjDPvJ1EwDX/EyFs2UQZb40lBttKCssGL5IArrWSBAlbZSTEWKuOhDk4Vz+JYHUksRF6mDgofU9cpOeQKNy9JIbx4STO8PufLzH46XWctJlrOwUgEcYO8DGAWqfOKVYJcaEb5c41PiF2HlnuehRTnWUJyzFFhhIjzusVSW7h8WwXpCkxxMFqLyEv0HFoSA5+rMh5UZW2DGAmxZWIRIt9XS04+5nTumK7LU75MbvChXoByf9DSrjbLgQK0CU0pDg+wGBYouiscjKIO4CsBztuwE6SJKq3kqlhoRrNwucY5xSwFUUsDKwQFmXLD/VfJVnUwzDHkwtGRsrZ9cUNiR27WZyKNzBRmwLKQaYkjCnVocTwlxERmRthhxLrHy/APcG1Ze17IcOs3XSByMb8yu9IsnUCRGWEpSyMgqhdX9U8Pe5u+VxTE6x2nXFznDkuCjdEziS4u8ayQ0fgvrsQOlsSL89ZAq1/2LjnuVFqRrfNdZV1ibdaiqvn4J4tXMUBQRtB12Wz5mJdR3asqeukbsR2cC92Gd/Wk653utGnjvwVx7uQX5WtUHl9gzXLU0kHUf5ecdStDQA=) format('woff2')}</style>
+<defs><linearGradient id="yg-light" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a7f4b"/><stop offset="1" stop-color="#1a7f4b" stop-opacity="0.35"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="879" height="802" rx="8" fill="#ffffff" stroke="#dfe5e1"/>
+<rect x="710.6" y="27" width="141.4" height="24" rx="12" fill="#f4f6f5"/>
+<text x="781.3" y="43" text-anchor="middle" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#5f6e66">record to Oct 28, 2026</text>
+<text x="28" y="44" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#14201a">French law as a git history</text>
+<rect x="28" y="70" width="824" height="72" rx="8" fill="#f4f6f5"/>
+<text x="44.0" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a">153,011</text>
+<text x="44.0" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#5f6e66">acts</text>
+<line x1="172.3" y1="86" x2="172.3" y2="126" stroke="#dfe5e1"/>
+<text x="188.3" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a">187,161</text>
+<text x="188.3" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#5f6e66">changes, as commits</text>
+<line x1="329.5" y1="86" x2="329.5" y2="126" stroke="#dfe5e1"/>
+<text x="345.5" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a">811,830</text>
+<text x="345.5" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#5f6e66">provision files</text>
+<line x1="473.8" y1="86" x2="473.8" y2="126" stroke="#dfe5e1"/>
+<text x="489.8" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a">156,199</text>
+<text x="489.8" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#5f6e66">laws and publishers credited</text>
+<line x1="682.1" y1="86" x2="682.1" y2="126" stroke="#dfe5e1"/>
+<text x="698.1" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a">1539–2026</text>
+<text x="698.1" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#5f6e66">years of history</text>
+<rect x="28" y="160" width="824" height="236" rx="8" fill="#f4f6f5"/>
+<text x="46" y="188" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#14201a">Changes by the year they took effect</text>
+<line x1="90" y1="346.0" x2="834" y2="346.0" stroke="#e8ede9"/>
+<text x="82" y="350.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">0</text>
+<line x1="90" y1="311.5" x2="834" y2="311.5" stroke="#e8ede9" stroke-dasharray="3 3"/>
+<text x="82" y="315.5" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">2,000</text>
+<line x1="90" y1="277.0" x2="834" y2="277.0" stroke="#e8ede9" stroke-dasharray="3 3"/>
+<text x="82" y="281.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">4,000</text>
+<line x1="90" y1="242.5" x2="834" y2="242.5" stroke="#e8ede9" stroke-dasharray="3 3"/>
+<text x="82" y="246.5" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">6,000</text>
+<line x1="90" y1="208.0" x2="834" y2="208.0" stroke="#e8ede9" stroke-dasharray="3 3"/>
+<text x="82" y="212.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">8,000</text>
+<rect x="90.15" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1539: 1 change took effect</title></rect>
+<text x="107.5" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1550</text>
+<text x="183.8" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1600</text>
+<rect x="227.37" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1629: 1 change took effect</title></rect>
+<text x="260.0" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1650</text>
+<rect x="306.64" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1681: 1 change took effect</title></rect>
+<text x="336.2" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1700</text>
+<text x="412.5" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1750</text>
+<rect x="460.63" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1782: 1 change took effect</title></rect>
+<rect x="471.30" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1789: 3 changes took effect</title></rect>
+<rect x="472.82" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1790: 2 changes took effect</title></rect>
+<rect x="474.35" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1791: 6 changes took effect</title></rect>
+<rect x="475.87" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1792: 1 change took effect</title></rect>
+<rect x="477.40" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1793: 3 changes took effect</title></rect>
+<rect x="478.92" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1794: 2 changes took effect</title></rect>
+<rect x="480.45" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1795: 4 changes took effect</title></rect>
+<rect x="481.97" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1796: 2 changes took effect</title></rect>
+<rect x="483.50" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1797: 1 change took effect</title></rect>
+<rect x="486.55" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1799: 3 changes took effect</title></rect>
+<rect x="488.07" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1800: 2 changes took effect</title></rect>
+<text x="488.7" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1800</text>
+<rect x="489.60" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1801: 3 changes took effect</title></rect>
+<rect x="491.12" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1802: 1 change took effect</title></rect>
+<rect x="492.64" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1803: 5 changes took effect</title></rect>
+<rect x="494.17" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1804: 7 changes took effect</title></rect>
+<rect x="495.69" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1805: 1 change took effect</title></rect>
+<rect x="497.22" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1806: 5 changes took effect</title></rect>
+<rect x="498.74" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1807: 9 changes took effect</title></rect>
+<rect x="500.27" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1808: 2 changes took effect</title></rect>
+<rect x="501.79" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1809: 1 change took effect</title></rect>
+<rect x="503.32" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1810: 11 changes took effect</title></rect>
+<rect x="504.84" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1811: 1 change took effect</title></rect>
+<rect x="512.46" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1816: 7 changes took effect</title></rect>
+<rect x="513.99" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1817: 4 changes took effect</title></rect>
+<rect x="517.04" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1819: 4 changes took effect</title></rect>
+<rect x="518.56" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1820: 1 change took effect</title></rect>
+<rect x="520.09" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1821: 1 change took effect</title></rect>
+<rect x="521.61" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1822: 1 change took effect</title></rect>
+<rect x="523.14" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1823: 5 changes took effect</title></rect>
+<rect x="524.66" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1824: 1 change took effect</title></rect>
+<rect x="526.19" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1825: 3 changes took effect</title></rect>
+<rect x="527.71" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1826: 1 change took effect</title></rect>
+<rect x="530.76" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1828: 1 change took effect</title></rect>
+<rect x="532.28" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1829: 1 change took effect</title></rect>
+<rect x="533.81" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1830: 1 change took effect</title></rect>
+<rect x="535.33" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1831: 5 changes took effect</title></rect>
+<rect x="536.86" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1832: 3 changes took effect</title></rect>
+<rect x="539.91" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1834: 1 change took effect</title></rect>
+<rect x="541.43" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1835: 2 changes took effect</title></rect>
+<rect x="542.96" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1836: 1 change took effect</title></rect>
+<rect x="544.48" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1837: 3 changes took effect</title></rect>
+<rect x="547.53" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1839: 3 changes took effect</title></rect>
+<rect x="550.58" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1841: 1 change took effect</title></rect>
+<rect x="552.10" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1842: 1 change took effect</title></rect>
+<rect x="553.63" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1843: 1 change took effect</title></rect>
+<rect x="555.15" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1844: 2 changes took effect</title></rect>
+<rect x="556.68" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1845: 1 change took effect</title></rect>
+<rect x="561.25" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1848: 3 changes took effect</title></rect>
+<rect x="562.78" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1849: 4 changes took effect</title></rect>
+<rect x="564.30" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1850: 5 changes took effect</title></rect>
+<text x="564.9" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1850</text>
+<rect x="565.82" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1851: 2 changes took effect</title></rect>
+<rect x="567.35" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1852: 13 changes took effect</title></rect>
+<rect x="568.87" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1853: 2 changes took effect</title></rect>
+<rect x="570.40" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1854: 3 changes took effect</title></rect>
+<rect x="573.45" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1856: 3 changes took effect</title></rect>
+<rect x="574.97" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1857: 2 changes took effect</title></rect>
+<rect x="576.50" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1858: 3 changes took effect</title></rect>
+<rect x="578.02" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1859: 3 changes took effect</title></rect>
+<rect x="579.55" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1860: 1 change took effect</title></rect>
+<rect x="582.60" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1862: 1 change took effect</title></rect>
+<rect x="584.12" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1863: 5 changes took effect</title></rect>
+<rect x="585.64" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1864: 3 changes took effect</title></rect>
+<rect x="587.17" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1865: 2 changes took effect</title></rect>
+<rect x="588.69" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1866: 2 changes took effect</title></rect>
+<rect x="590.22" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1867: 3 changes took effect</title></rect>
+<rect x="591.74" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1868: 1 change took effect</title></rect>
+<rect x="593.27" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1869: 1 change took effect</title></rect>
+<rect x="594.79" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1870: 1 change took effect</title></rect>
+<rect x="596.32" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1871: 3 changes took effect</title></rect>
+<rect x="597.84" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1872: 4 changes took effect</title></rect>
+<rect x="599.37" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1873: 2 changes took effect</title></rect>
+<rect x="600.89" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1874: 1 change took effect</title></rect>
+<rect x="602.41" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1875: 3 changes took effect</title></rect>
+<rect x="603.94" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1876: 1 change took effect</title></rect>
+<rect x="605.46" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1877: 3 changes took effect</title></rect>
+<rect x="606.99" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1878: 2 changes took effect</title></rect>
+<rect x="608.51" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1879: 1 change took effect</title></rect>
+<rect x="610.04" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1880: 6 changes took effect</title></rect>
+<rect x="611.56" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1881: 10 changes took effect</title></rect>
+<rect x="613.09" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1882: 1 change took effect</title></rect>
+<rect x="614.61" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1883: 2 changes took effect</title></rect>
+<rect x="616.14" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1884: 1 change took effect</title></rect>
+<rect x="617.66" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1885: 4 changes took effect</title></rect>
+<rect x="619.19" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1886: 1 change took effect</title></rect>
+<rect x="620.71" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1887: 1 change took effect</title></rect>
+<rect x="622.23" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1888: 4 changes took effect</title></rect>
+<rect x="623.76" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1889: 4 changes took effect</title></rect>
+<rect x="625.28" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1890: 3 changes took effect</title></rect>
+<rect x="626.81" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1891: 4 changes took effect</title></rect>
+<rect x="628.33" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1892: 3 changes took effect</title></rect>
+<rect x="629.86" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1893: 8 changes took effect</title></rect>
+<rect x="632.91" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1895: 4 changes took effect</title></rect>
+<rect x="634.43" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1896: 6 changes took effect</title></rect>
+<rect x="635.96" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1897: 6 changes took effect</title></rect>
+<rect x="637.48" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1898: 8 changes took effect</title></rect>
+<rect x="639.00" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1899: 3 changes took effect</title></rect>
+<rect x="640.53" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1900: 3 changes took effect</title></rect>
+<text x="641.1" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1900</text>
+<rect x="642.05" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1901: 8 changes took effect</title></rect>
+<rect x="643.58" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1902: 1 change took effect</title></rect>
+<rect x="645.10" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1903: 5 changes took effect</title></rect>
+<rect x="646.63" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1904: 3 changes took effect</title></rect>
+<rect x="648.15" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1905: 13 changes took effect</title></rect>
+<rect x="649.68" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1906: 5 changes took effect</title></rect>
+<rect x="651.20" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1907: 15 changes took effect</title></rect>
+<rect x="652.73" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1908: 15 changes took effect</title></rect>
+<rect x="654.25" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1909: 6 changes took effect</title></rect>
+<rect x="655.78" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1910: 6 changes took effect</title></rect>
+<rect x="657.30" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1911: 9 changes took effect</title></rect>
+<rect x="658.82" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1912: 8 changes took effect</title></rect>
+<rect x="660.35" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1913: 7 changes took effect</title></rect>
+<rect x="661.87" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1914: 5 changes took effect</title></rect>
+<rect x="663.40" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1915: 5 changes took effect</title></rect>
+<rect x="664.92" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1916: 5 changes took effect</title></rect>
+<rect x="666.45" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1917: 8 changes took effect</title></rect>
+<rect x="667.97" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1918: 5 changes took effect</title></rect>
+<rect x="669.50" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1919: 13 changes took effect</title></rect>
+<rect x="671.02" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1920: 9 changes took effect</title></rect>
+<rect x="672.55" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1921: 15 changes took effect</title></rect>
+<rect x="674.07" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1922: 12 changes took effect</title></rect>
+<rect x="675.60" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1923: 12 changes took effect</title></rect>
+<rect x="677.12" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1924: 12 changes took effect</title></rect>
+<rect x="678.64" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1925: 17 changes took effect</title></rect>
+<rect x="680.17" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1926: 26 changes took effect</title></rect>
+<rect x="681.69" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1927: 18 changes took effect</title></rect>
+<rect x="683.22" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1928: 20 changes took effect</title></rect>
+<rect x="684.74" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1929: 16 changes took effect</title></rect>
+<rect x="686.27" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1930: 27 changes took effect</title></rect>
+<rect x="687.79" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1931: 9 changes took effect</title></rect>
+<rect x="689.32" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1932: 23 changes took effect</title></rect>
+<rect x="690.84" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1933: 14 changes took effect</title></rect>
+<rect x="692.37" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1934: 30 changes took effect</title></rect>
+<rect x="693.89" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1935: 49 changes took effect</title></rect>
+<rect x="695.41" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1936: 41 changes took effect</title></rect>
+<rect x="696.94" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1937: 40 changes took effect</title></rect>
+<rect x="698.46" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1938: 55 changes took effect</title></rect>
+<rect x="699.99" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1939: 41 changes took effect</title></rect>
+<rect x="701.51" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1940: 31 changes took effect</title></rect>
+<rect x="703.04" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1941: 50 changes took effect</title></rect>
+<rect x="704.56" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1942: 48 changes took effect</title></rect>
+<rect x="706.09" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1943: 47 changes took effect</title></rect>
+<rect x="707.61" y="344.5" width="1.22" height="1.5" rx="0.5" fill="url(#yg-light)"><title>1944: 37 changes took effect</title></rect>
+<rect x="709.14" y="344.0" width="1.22" height="2.0" rx="0.5" fill="url(#yg-light)"><title>1945: 116 changes took effect</title></rect>
+<rect x="710.66" y="344.4" width="1.22" height="1.6" rx="0.5" fill="url(#yg-light)"><title>1946: 93 changes took effect</title></rect>
+<rect x="712.19" y="344.3" width="1.22" height="1.7" rx="0.5" fill="url(#yg-light)"><title>1947: 99 changes took effect</title></rect>
+<rect x="713.71" y="343.9" width="1.22" height="2.1" rx="0.5" fill="url(#yg-light)"><title>1948: 120 changes took effect</title></rect>
+<rect x="715.23" y="343.9" width="1.22" height="2.1" rx="0.5" fill="url(#yg-light)"><title>1949: 123 changes took effect</title></rect>
+<rect x="716.76" y="343.7" width="1.22" height="2.3" rx="0.5" fill="url(#yg-light)"><title>1950: 134 changes took effect</title></rect>
+<text x="717.4" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1950</text>
+<rect x="718.28" y="343.7" width="1.22" height="2.3" rx="0.5" fill="url(#yg-light)"><title>1951: 133 changes took effect</title></rect>
+<rect x="719.81" y="344.1" width="1.22" height="1.9" rx="0.5" fill="url(#yg-light)"><title>1952: 112 changes took effect</title></rect>
+<rect x="721.33" y="343.6" width="1.22" height="2.4" rx="0.5" fill="url(#yg-light)"><title>1953: 140 changes took effect</title></rect>
+<rect x="722.86" y="343.6" width="1.22" height="2.4" rx="0.5" fill="url(#yg-light)"><title>1954: 137 changes took effect</title></rect>
+<rect x="724.38" y="342.4" width="1.22" height="3.6" rx="0.5" fill="url(#yg-light)"><title>1955: 206 changes took effect</title></rect>
+<rect x="725.91" y="343.3" width="1.22" height="2.7" rx="0.5" fill="url(#yg-light)"><title>1956: 157 changes took effect</title></rect>
+<rect x="727.43" y="343.7" width="1.22" height="2.3" rx="0.5" fill="url(#yg-light)"><title>1957: 132 changes took effect</title></rect>
+<rect x="728.96" y="342.0" width="1.22" height="4.0" rx="0.5" fill="url(#yg-light)"><title>1958: 229 changes took effect</title></rect>
+<rect x="730.48" y="341.0" width="1.22" height="5.0" rx="0.5" fill="url(#yg-light)"><title>1959: 291 changes took effect</title></rect>
+<rect x="732.00" y="342.2" width="1.22" height="3.8" rx="0.5" fill="url(#yg-light)"><title>1960: 221 changes took effect</title></rect>
+<rect x="733.53" y="341.9" width="1.22" height="4.1" rx="0.5" fill="url(#yg-light)"><title>1961: 240 changes took effect</title></rect>
+<rect x="735.05" y="341.8" width="1.22" height="4.2" rx="0.5" fill="url(#yg-light)"><title>1962: 245 changes took effect</title></rect>
+<rect x="736.58" y="342.4" width="1.22" height="3.6" rx="0.5" fill="url(#yg-light)"><title>1963: 206 changes took effect</title></rect>
+<rect x="738.10" y="341.7" width="1.22" height="4.3" rx="0.5" fill="url(#yg-light)"><title>1964: 252 changes took effect</title></rect>
+<rect x="739.63" y="341.6" width="1.22" height="4.4" rx="0.5" fill="url(#yg-light)"><title>1965: 256 changes took effect</title></rect>
+<rect x="741.15" y="341.7" width="1.22" height="4.3" rx="0.5" fill="url(#yg-light)"><title>1966: 252 changes took effect</title></rect>
+<rect x="742.68" y="339.6" width="1.22" height="6.4" rx="0.5" fill="url(#yg-light)"><title>1967: 369 changes took effect</title></rect>
+<rect x="744.20" y="340.0" width="1.22" height="6.0" rx="0.5" fill="url(#yg-light)"><title>1968: 347 changes took effect</title></rect>
+<rect x="745.73" y="340.1" width="1.22" height="5.9" rx="0.5" fill="url(#yg-light)"><title>1969: 344 changes took effect</title></rect>
+<rect x="747.25" y="339.2" width="1.22" height="6.8" rx="0.5" fill="url(#yg-light)"><title>1970: 396 changes took effect</title></rect>
+<rect x="748.78" y="340.1" width="1.22" height="5.9" rx="0.5" fill="url(#yg-light)"><title>1971: 343 changes took effect</title></rect>
+<rect x="750.30" y="336.7" width="1.22" height="9.3" rx="0.5" fill="url(#yg-light)"><title>1972: 537 changes took effect</title></rect>
+<rect x="751.82" y="337.1" width="1.22" height="8.9" rx="0.5" fill="url(#yg-light)"><title>1973: 516 changes took effect</title></rect>
+<rect x="753.35" y="338.0" width="1.22" height="8.0" rx="0.5" fill="url(#yg-light)"><title>1974: 465 changes took effect</title></rect>
+<rect x="754.87" y="335.1" width="1.22" height="10.9" rx="0.5" fill="url(#yg-light)"><title>1975: 633 changes took effect</title></rect>
+<rect x="756.40" y="334.7" width="1.22" height="11.3" rx="0.5" fill="url(#yg-light)"><title>1976: 653 changes took effect</title></rect>
+<rect x="757.92" y="332.1" width="1.22" height="13.9" rx="0.5" fill="url(#yg-light)"><title>1977: 807 changes took effect</title></rect>
+<rect x="759.45" y="332.8" width="1.22" height="13.2" rx="0.5" fill="url(#yg-light)"><title>1978: 764 changes took effect</title></rect>
+<rect x="760.97" y="330.9" width="1.22" height="15.1" rx="0.5" fill="url(#yg-light)"><title>1979: 873 changes took effect</title></rect>
+<rect x="762.50" y="331.3" width="1.22" height="14.7" rx="0.5" fill="url(#yg-light)"><title>1980: 855 changes took effect</title></rect>
+<rect x="764.02" y="330.0" width="1.22" height="16.0" rx="0.5" fill="url(#yg-light)"><title>1981: 929 changes took effect</title></rect>
+<rect x="765.55" y="324.1" width="1.22" height="21.9" rx="0.5" fill="url(#yg-light)"><title>1982: 1,267 changes took effect</title></rect>
+<rect x="767.07" y="322.9" width="1.22" height="23.1" rx="0.5" fill="url(#yg-light)"><title>1983: 1,339 changes took effect</title></rect>
+<rect x="768.60" y="320.0" width="1.22" height="26.0" rx="0.5" fill="url(#yg-light)"><title>1984: 1,508 changes took effect</title></rect>
+<rect x="770.12" y="315.1" width="1.22" height="30.9" rx="0.5" fill="url(#yg-light)"><title>1985: 1,790 changes took effect</title></rect>
+<rect x="771.64" y="309.2" width="1.22" height="36.8" rx="0.5" fill="url(#yg-light)"><title>1986: 2,134 changes took effect</title></rect>
+<rect x="773.17" y="308.1" width="1.22" height="37.9" rx="0.5" fill="url(#yg-light)"><title>1987: 2,199 changes took effect</title></rect>
+<rect x="774.69" y="307.6" width="1.22" height="38.4" rx="0.5" fill="url(#yg-light)"><title>1988: 2,226 changes took effect</title></rect>
+<rect x="776.22" y="311.7" width="1.22" height="34.3" rx="0.5" fill="url(#yg-light)"><title>1989: 1,991 changes took effect</title></rect>
+<rect x="777.74" y="300.7" width="1.22" height="45.3" rx="0.5" fill="url(#yg-light)"><title>1990: 2,626 changes took effect</title></rect>
+<rect x="779.27" y="297.9" width="1.22" height="48.1" rx="0.5" fill="url(#yg-light)"><title>1991: 2,789 changes took effect</title></rect>
+<rect x="780.79" y="288.1" width="1.22" height="57.9" rx="0.5" fill="url(#yg-light)"><title>1992: 3,359 changes took effect</title></rect>
+<rect x="782.32" y="287.2" width="1.22" height="58.8" rx="0.5" fill="url(#yg-light)"><title>1993: 3,406 changes took effect</title></rect>
+<rect x="783.84" y="290.9" width="1.22" height="55.1" rx="0.5" fill="url(#yg-light)"><title>1994: 3,197 changes took effect</title></rect>
+<rect x="785.37" y="287.0" width="1.22" height="59.0" rx="0.5" fill="url(#yg-light)"><title>1995: 3,422 changes took effect</title></rect>
+<rect x="786.89" y="292.8" width="1.22" height="53.2" rx="0.5" fill="url(#yg-light)"><title>1996: 3,084 changes took effect</title></rect>
+<rect x="788.41" y="291.4" width="1.22" height="54.6" rx="0.5" fill="url(#yg-light)"><title>1997: 3,164 changes took effect</title></rect>
+<rect x="789.94" y="294.5" width="1.22" height="51.5" rx="0.5" fill="url(#yg-light)"><title>1998: 2,985 changes took effect</title></rect>
+<rect x="791.46" y="303.7" width="1.22" height="42.3" rx="0.5" fill="url(#yg-light)"><title>1999: 2,451 changes took effect</title></rect>
+<rect x="792.99" y="304.9" width="1.22" height="41.1" rx="0.5" fill="url(#yg-light)"><title>2000: 2,382 changes took effect</title></rect>
+<text x="793.6" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">2000</text>
+<rect x="794.51" y="303.7" width="1.22" height="42.3" rx="0.5" fill="url(#yg-light)"><title>2001: 2,452 changes took effect</title></rect>
+<rect x="796.04" y="291.2" width="1.22" height="54.8" rx="0.5" fill="url(#yg-light)"><title>2002: 3,176 changes took effect</title></rect>
+<rect x="797.56" y="293.9" width="1.22" height="52.1" rx="0.5" fill="url(#yg-light)"><title>2003: 3,021 changes took effect</title></rect>
+<rect x="799.09" y="292.2" width="1.22" height="53.8" rx="0.5" fill="url(#yg-light)"><title>2004: 3,117 changes took effect</title></rect>
+<rect x="800.61" y="289.1" width="1.22" height="56.9" rx="0.5" fill="url(#yg-light)"><title>2005: 3,299 changes took effect</title></rect>
+<rect x="802.14" y="285.8" width="1.22" height="60.2" rx="0.5" fill="url(#yg-light)"><title>2006: 3,488 changes took effect</title></rect>
+<rect x="803.66" y="274.4" width="1.22" height="71.6" rx="0.5" fill="url(#yg-light)"><title>2007: 4,150 changes took effect</title></rect>
+<rect x="805.19" y="270.5" width="1.22" height="75.5" rx="0.5" fill="url(#yg-light)"><title>2008: 4,379 changes took effect</title></rect>
+<rect x="806.71" y="252.5" width="1.22" height="93.5" rx="0.5" fill="url(#yg-light)"><title>2009: 5,420 changes took effect</title></rect>
+<rect x="808.23" y="253.7" width="1.22" height="92.3" rx="0.5" fill="url(#yg-light)"><title>2010: 5,352 changes took effect</title></rect>
+<rect x="809.76" y="249.2" width="1.22" height="96.8" rx="0.5" fill="url(#yg-light)"><title>2011: 5,612 changes took effect</title></rect>
+<rect x="811.28" y="253.9" width="1.22" height="92.1" rx="0.5" fill="url(#yg-light)"><title>2012: 5,337 changes took effect</title></rect>
+<rect x="812.81" y="263.0" width="1.22" height="83.0" rx="0.5" fill="url(#yg-light)"><title>2013: 4,812 changes took effect</title></rect>
+<rect x="814.33" y="256.0" width="1.22" height="90.0" rx="0.5" fill="url(#yg-light)"><title>2014: 5,216 changes took effect</title></rect>
+<rect x="815.86" y="250.3" width="1.22" height="95.7" rx="0.5" fill="url(#yg-light)"><title>2015: 5,546 changes took effect</title></rect>
+<rect x="817.38" y="252.0" width="1.22" height="94.0" rx="0.5" fill="url(#yg-light)"><title>2016: 5,450 changes took effect</title></rect>
+<rect x="818.91" y="246.6" width="1.22" height="99.4" rx="0.5" fill="url(#yg-light)"><title>2017: 5,760 changes took effect</title></rect>
+<rect x="820.43" y="266.0" width="1.22" height="80.0" rx="0.5" fill="url(#yg-light)"><title>2018: 4,640 changes took effect</title></rect>
+<rect x="821.96" y="265.4" width="1.22" height="80.6" rx="0.5" fill="url(#yg-light)"><title>2019: 4,672 changes took effect</title></rect>
+<rect x="823.48" y="248.8" width="1.22" height="97.2" rx="0.5" fill="url(#yg-light)"><title>2020: 5,632 changes took effect</title></rect>
+<rect x="825.00" y="241.4" width="1.22" height="104.6" rx="0.5" fill="url(#yg-light)"><title>2021: 6,061 changes took effect</title></rect>
+<rect x="826.53" y="251.2" width="1.22" height="94.8" rx="0.5" fill="url(#yg-light)"><title>2022: 5,494 changes took effect</title></rect>
+<rect x="828.05" y="255.0" width="1.22" height="91.0" rx="0.5" fill="url(#yg-light)"><title>2023: 5,276 changes took effect</title></rect>
+<rect x="829.58" y="257.9" width="1.22" height="88.1" rx="0.5" fill="url(#yg-light)"><title>2024: 5,107 changes took effect</title></rect>
+<rect x="831.10" y="224.7" width="1.22" height="121.3" rx="0.5" fill="url(#yg-light)"><title>2025: 7,029 changes took effect</title></rect>
+<text x="831.7" y="216.7" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#14201a">7,029 in 2025</text>
+<rect x="832.63" y="234.3" width="1.22" height="111.7" rx="0.5" fill="url(#yg-light)"><title>2026: 6,476 changes took effect</title></rect>
+<text x="46" y="382" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">187,158 changes dated by their in-force day; 3 carry an impossible in-force date (before 1200), not shown.</text>
+<rect x="28" y="412" width="824" height="197" rx="8" fill="#f4f6f5"/>
+<text x="46" y="440" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#14201a">Completeness, checked against the official sources on Nov 12, 2026</text>
+<text x="46.0" y="470" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">Constitution</text>
+<text x="46.0" y="491" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">held in the repository</text>
+<g><title>Constitution: 100%</title><rect x="294.0" y="464.0" width="62.0" height="4" rx="2" fill="#e7efe9"/><rect x="294.0" y="464.0" width="62.0" height="4" rx="2" fill="#1a7f4b"/></g>
+<text x="420.0" y="470" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">100%</text>
+<text x="460.0" y="470" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">Regional law</text>
+<text x="460.0" y="491" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">law-making units held</text>
+<g><title>Regional law: 0%</title><rect x="708.0" y="464.0" width="62.0" height="4" rx="2" fill="#e7efe9"/></g>
+<text x="834.0" y="470" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">0%</text>
+<text x="46.0" y="515" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">Main codes</text>
+<text x="46.0" y="536" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">share of the essential codes held</text>
+<g><title>Main codes: 100%</title><rect x="294.0" y="509.0" width="62.0" height="4" rx="2" fill="#e7efe9"/><rect x="294.0" y="509.0" width="62.0" height="4" rx="2" fill="#1a7f4b"/></g>
+<text x="420.0" y="515" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">100%</text>
+<text x="460.0" y="515" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">Case law</text>
+<text x="460.0" y="536" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">top courts held</text>
+<g><title>Case law: 67%</title><rect x="708.0" y="509.0" width="62.0" height="4" rx="2" fill="#e7efe9"/><rect x="708.0" y="509.0" width="41.5" height="4" rx="2" fill="#9a6200"/></g>
+<text x="834.0" y="515" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">67%</text>
+<text x="46.0" y="560" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">National law</text>
+<text x="46.0" y="581" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">acts held, of the official total</text>
+<g><title>National law: 100%</title><rect x="294.0" y="554.0" width="62.0" height="4" rx="2" fill="#e7efe9"/><rect x="294.0" y="554.0" width="62.0" height="4" rx="2" fill="#1a7f4b"/></g>
+<text x="420.0" y="560" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">100%</text>
+<rect x="28" y="625" width="824" height="152" rx="8" fill="#f4f6f5"/>
+<text x="46" y="653" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#14201a">Correctness of what is held</text>
+<text x="46.0" y="683" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">Changes with an in-force date</text>
+<text x="46.0" y="704" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">share of changes</text>
+<g><title>Changes with an in-force date: 100%</title><rect x="294.0" y="677.0" width="62.0" height="4" rx="2" fill="#e7efe9"/><rect x="294.0" y="677.0" width="62.0" height="4" rx="2" fill="#1a7f4b"/></g>
+<text x="420.0" y="683" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">100%</text>
+<text x="460.0" y="683" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">Corpora for this country in global-law</text>
+<text x="460.0" y="704" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">national acts: 1, case law: 6</text>
+<text x="834.0" y="683" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">7</text>
+<text x="46.0" y="728" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">Changes citing their official source</text>
+<text x="46.0" y="749" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">a Source line or link in the commit</text>
+<g><title>Changes citing their official source: 94%</title><rect x="294.0" y="722.0" width="62.0" height="4" rx="2" fill="#e7efe9"/><rect x="294.0" y="722.0" width="58.4" height="4" rx="2" fill="#1a7f4b"/></g>
+<text x="420.0" y="728" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">94%</text>
+<text x="460.0" y="728" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">Checked against the official source</text>
+<text x="460.0" y="749" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">the date the repository states</text>
+<text x="834.0" y="728" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">Oct 28, 2026</text>
 </svg>
