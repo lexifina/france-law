@@ -2963,3 +2963,725 @@ Hydronis R290 Ultra 16KW |
 158-2026-000018 |
 
 14/01/2027 |
+
+A compter du 15 novembre 2026 :
+
+Marque |
+
+Modèle |
+
+Référence EPREL |
+
+Référence commerciale |
+
+Numéro d'agrément |
+
+Valable jusqu'au |
+
+Lg Electronics |
+
+Therma V R290 - Monobloc D - Régulation Déportée - 5kW - Monophasé |
+
+HM051HFD UA41 / PHCS1 EEWXLEU |
+
+HM051HFD.UA41 + PHCS1.EEWXLEU |
+
+57-2026-000012 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Monobloc D - Régulation Déportée - 7kW - Monophasé |
+
+HM071HFD UA41 / PHCS1 EEWXLEU |
+
+HM071HFD.UA41 + PHCS1.EEWXLEU |
+
+57-2026-000013 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Monobloc D - Régulation Déportée - 7kW - Triphasé |
+
+HM073HFD UA41 / PHCS1 EEWXLEU |
+
+HM073HFD.UA41 + PHCS1.EEWXLEU |
+
+57-2026-000014 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Monobloc D - Régulation Déportée - 9kW - Monophasé |
+
+HM091HFD UA41 / PHCS1 EEWXLEU |
+
+HM091HFD.UA41 + PHCS1.EEWXLEU |
+
+57-2026-000015 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Monobloc D - Régulation Déportée - 9kW - Triphasé |
+
+HM093HFD UA41 / PHCS1 EEWXLEU |
+
+HM093HFD.UA41 + PHCS1.EEWXLEU |
+
+57-2026-000016 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Monobloc D - Régulation Déportée - 12kW - Monophasé |
+
+HM121HFD UB41 / PHCS1 EEWXLEU |
+
+HM121HFD.UB41 + PHCS1.EEWXLEU |
+
+57-2026-000017 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Monobloc D - Régulation Déportée - 12kW - Triphasé |
+
+HM123HFD UB41 / PHCS1 EEWXLEU |
+
+HM123HFD.UB41 + PHCS1.EEWXLEU |
+
+57-2026-000018 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Monobloc D - Régulation Déportée - 14kW - Monophasé |
+
+HM141HFD UB41 / PHCS1 EEWXLEU |
+
+HM141HFD.UB41 + PHCS1.EEWXLEU |
+
+57-2026-000019 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Monobloc D - Régulation Déportée - 14kW - Triphasé |
+
+HM143HFD UB41 / PHCS1 EEWXLEU |
+
+HM143HFD.UB41 + PHCS1.EEWXLEU |
+
+57-2026-000020 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Monobloc D - Régulation Déportée - 16kW - Monophasé |
+
+HM161HFD UB41 / PHCS1 EEWXLEU |
+
+HM161HFD.UB41 + PHCS1.EEWXLEU |
+
+57-2026-000021 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Monobloc D - Régulation Déportée - 16kW - Triphasé |
+
+HM163HFD UB41 / PHCS1 EEWXLEU |
+
+HM163HFD.UB41 + PHCS1.EEWXLEU |
+
+57-2026-000022 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - 5kW - Monophasé |
+
+HM051HFD UA41 / HN16XAHC NK1 |
+
+HM051HFD.UA41 + HN16XAHC.NK1 |
+
+57-2026-000023 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - 7kW - Monophasé |
+
+HM071HFD UA41 / HN16XAHC NK1 |
+
+HM071HFD.UA41 + HN16XAHC.NK1 |
+
+57-2026-000024 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - 7kW - Triphasé |
+
+HM073HFD UA41 / HN16XAHC NK1 |
+
+HM073HFD.UA41 + HN16XAHC.NK1 |
+
+57-2026-000025 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - 9kW - Monophasé |
+
+HM091HFD UA41 / HN16XAHC NK1 |
+
+HM091HFD.UA41 + HN16XAHC.NK1 |
+
+57-2026-000026 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - 9kW - Triphasé |
+
+HM093HFD UA41 / HN16XAHC NK1 |
+
+HM093HFD.UA41 + HN16XAHC.NK1 |
+
+57-2026-000027 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - 12kW - Monophasé |
+
+HM121HFD UB41 / HN16XAHC NK1 |
+
+HM121HFD.UB41 + HN16XAHC.NK1 |
+
+57-2026-000028 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - 12kW - Triphasé |
+
+HM123HFD UB41 / HN16XAHC NK1 |
+
+HM123HFD.UB41 + HN16XAHC.NK1 |
+
+57-2026-000029 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - 14kW - Monophasé |
+
+HM141HFD UB41 / HN16XAHC NK1 |
+
+HM141HFD.UB41 + HN16XAHC.NK1 |
+
+57-2026-000030 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - 14kW - Triphasé |
+
+HM143HFD UB41 / HN16XAHC NK1 |
+
+HM143HFD.UB41 + HN16XAHC.NK1 |
+
+57-2026-000031 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - 16kW - Monophasé |
+
+HM161HFD UB41 / HN16XAHC NK1 |
+
+HM161HFD.UB41 + HN16XAHC.NK1 |
+
+57-2026-000032 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - 16kW - Triphasé |
+
+HM163HFD UB41 / HN16XAHC NK1 |
+
+HM163HFD.UB41 + HN16XAHC.NK1 |
+
+57-2026-000033 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - ECS 200L intégrée - 1 zone - 5kW - Monophasé |
+
+HM051HFD UA41 / HN20XAHY NK1 |
+
+HM051HFD.UA41 + HN20XAHY.NK1 |
+
+57-2026-000034 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - ECS 200L intégrée - 1 zone - 7kW - Monophasé |
+
+HM071HFD UA41 / HN20XAHY NK1 |
+
+HM071HFD.UA41 + HN20XAHY.NK1 |
+
+57-2026-000035 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - ECS 200L intégrée - 1 zone - 7kW - Triphasé |
+
+HM073HFD UA41 / HN20XAHY NK1 |
+
+HM073HFD.UA41 + HN20XAHY.NK1 |
+
+57-2026-000036 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - ECS 200L intégrée - 1 zone - 9kW - Monophasé |
+
+HM091HFD UA41 / HN20XAHY NK1 |
+
+HM091HFD.UA41 + HN20XAHY.NK1 |
+
+57-2026-000037 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - ECS 200L intégrée - 1 zone - 9kW - Triphasé |
+
+HM093HFD UA41 / HN20XAHY NK1 |
+
+HM093HFD.UA41 + HN20XAHY.NK1 |
+
+57-2026-000038 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - ECS 200L intégrée - 1 zone - 12kW - Monophasé |
+
+HM121HFD UB41 / HN20XAHY NK1 |
+
+HM121HFD.UB41 + HN20XAHY.NK1 |
+
+57-2026-000039 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - ECS 200L intégrée - 1 zone - 12kW - Triphasé |
+
+HM123HFD UB41 / HN20XAHY NK1 |
+
+HM123HFD.UB41 + HN20XAHY.NK1 |
+
+57-2026-000040 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - ECS 200L intégrée - 1 zone - 14kW - Monophasé |
+
+HM141HFD UB41 / HN20XAHY NK1 |
+
+HM141HFD.UB41 + HN20XAHY.NK1 |
+
+57-2026-000041 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - ECS 200L intégrée - 1 zone - 14kW - Triphasé |
+
+HM143HFD UB41 / HN20XAHY NK1 |
+
+HM143HFD.UB41 + HN20XAHY.NK1 |
+
+57-2026-000042 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - ECS 200L intégrée - 1 zone - 16kW - Monophasé |
+
+HM161HFD UB41 / HN20XAHY NK1 |
+
+HM161HFD.UB41 + HN20XAHY.NK1 |
+
+57-2026-000043 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - ECS 200L intégrée - 1 zone - 16kW - Triphasé |
+
+HM163HFD UB41 / HN20XAHY NK1 |
+
+HM163HFD.UB41 + HN20XAHY.NK1 |
+
+57-2026-000044 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - ECS 200L intégrée - 2 zones - 5kW - Monophasé |
+
+HM051HFD UA41 / HN20XAHB NK1 |
+
+HM051HFD.UA41 + HN20XAHB.NK1 |
+
+57-2026-000045 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - ECS 200L intégrée - 2 zones - 7kW - Monophasé |
+
+HM071HFD UA41 / HN20XAHB NK1 |
+
+HM071HFD.UA41 + HN20XAHB.NK1 |
+
+57-2026-000046 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - ECS 200L intégrée - 2 zones - 7kW - Triphasé |
+
+HM073HFD UA41 / HN20XAHB NK1 |
+
+HM073HFD.UA41 + HN20XAHB.NK1 |
+
+57-2026-000047 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - ECS 200L intégrée - 2 zones - 9kW - Monophasé |
+
+HM091HFD UA41 / HN20XAHB NK1 |
+
+HM091HFD.UA41 + HN20XAHB.NK1 |
+
+57-2026-000048 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - ECS 200L intégrée - 2 zones - 9kW - Triphasé |
+
+HM093HFD UA41 / HN20XAHB NK1 |
+
+HM093HFD.UA41 + HN20XAHB.NK1 |
+
+57-2026-000049 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - ECS 200L intégrée - 2 zones - 12kW - Monophasé |
+
+HM121HFD UB41 / HN20XAHB NK1 |
+
+HM121HFD.UB41 + HN20XAHB.NK1 |
+
+57-2026-000050 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - ECS 200L intégrée - 2 zones - 12kW - Triphasé |
+
+HM123HFD UB41 / HN20XAHB NK1 |
+
+HM123HFD.UB41 + HN20XAHB.NK1 |
+
+57-2026-000051 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - ECS 200L intégrée - 2 zones - 14kW - Monophasé |
+
+HM141HFD UB41 / HN20XAHB NK1 |
+
+HM141HFD.UB41 + HN20XAHB.NK1 |
+
+57-2026-000052 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - ECS 200L intégrée - 2 zones - 14kW - Triphasé |
+
+HM143HFD UB41 / HN20XAHB NK1 |
+
+HM143HFD.UB41 + HN20XAHB.NK1 |
+
+57-2026-000053 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - ECS 200L intégrée - 2 zones - 16kW - Monophasé |
+
+HM161HFD UB41 / HN20XAHB NK1 |
+
+HM161HFD.UB41 + HN20XAHB.NK1 |
+
+57-2026-000054 |
+
+14/07/2027 |
+
+Lg Electronics |
+
+Therma V R290 - Hydrosplit - ECS 200L intégrée - 2 zones - 16kW - Triphasé |
+
+HM163HFD UB41 / HN20XAHB NK1 |
+
+HM163HFD.UB41 + HN20XAHB.NK1 |
+
+57-2026-000055 |
+
+14/07/2027 |
+
+Midea |
+
+Nature Plus 8 |
+
+2603837 |
+
+MHC-V8WD2N7-B2E30 |
+
+44-2026-000011 |
+
+14/03/2027 |
+
+Midea |
+
+Nature Plus 10 |
+
+2603839 |
+
+MHC-V10WD2N7-B2E30 |
+
+44-2026-000012 |
+
+14/03/2027 |
+
+Midea |
+
+Nature Plus 12 |
+
+2603840 |
+
+MHC-V12WD2N7-B2E30 |
+
+44-2026-000013 |
+
+14/03/2027 |
+
+Midea |
+
+Nature Plus 12T |
+
+2603869 |
+
+MHC-V12WD2RN7-B2ER90 |
+
+44-2026-000014 |
+
+14/03/2027 |
+
+Midea |
+
+Nature Plus 14 |
+
+2603841 |
+
+MHC-V14WD2N7-B2E30 |
+
+44-2026-000015 |
+
+14/03/2027 |
+
+Midea |
+
+Nature Plus 14T |
+
+2603870 |
+
+MHC-V14WD2RN7-B2ER90 |
+
+44-2026-000016 |
+
+14/03/2027 |
+
+Midea |
+
+Nature Plus 16 |
+
+2603842 |
+
+MHC-V16WD2N7-B2E30 |
+
+44-2026-000017 |
+
+14/03/2027 |
+
+Midea |
+
+Nature Plus 16T |
+
+2603872 |
+
+MHC-V16WD2RN7-B2ER90 |
+
+44-2026-000018 |
+
+14/03/2027 |
+
+Thomson |
+
+AW-MBT02-H040M-T553GZ1 |
+
+2744241 |
+
+Hydronis R290 Ultra 4KW |
+
+158-2026-000019 |
+
+14/01/2027 |
+
+Thomson |
+
+AW-MBT02-H060M-T553GZ1 |
+
+2744243 |
+
+Hydronis R290 Ultra 6KW |
+
+158-2026-000020 |
+
+14/01/2027 |
+
+Thomson |
+
+AW-A1M01-D190M-A443GZ1 + AW-A1E01-H080M-A440GZ1 |
+
+2826859 |
+
+Hydronis R290 AIO 8KW |
+
+158-2026-000021 |
+
+14/01/2027 |
+
+Thomson |
+
+AW-A1M01-D190M-A443GZ1 + AW-A1E01-H100M-A440GZ1 |
+
+2834669 |
+
+Hydronis R290 AIO 10KW |
+
+158-2026-000022 |
+
+14/01/2027 |
+
+Thomson |
+
+AW-A1M01-D190M-A443GZ1 + AW-A1E01-H120M-A440GZ1 |
+
+2834673 |
+
+Hydronis R290 AIO 12KW |
+
+158-2026-000023 |
+
+14/01/2027 |
+
+Thomson |
+
+AW-A1M01-D190M-A443GZ1 + AW-A1E01-H140M-A440GZ1 |
+
+2834674 |
+
+Hydronis R290 AIO 14KW |
+
+158-2026-000024 |
+
+14/01/2027 |
+
+Thomson |
+
+AW-A1M01-D190M-A443GZ1 + AW-A1E01-H160M-A440GZ1 |
+
+2834676 |
+
+Hydronis R290 AIO 16KW |
+
+158-2026-000025 |
+
+14/01/2027 |
