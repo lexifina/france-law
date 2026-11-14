@@ -1,114 +1,85 @@
-# Le droit français, modification par modification
+# France : l’histoire du droit dans git
 
-**Français** · [English](README.en.md)
+**Français** · **[Or read it in English](README.en.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/fr/effort-dark.svg">
 <img alt="Le droit français dans ce dépôt : ce qu’il contient, les modifications par année d’entrée en vigueur, l’exhaustivité au regard des sources officielles et l’exactitude de son contenu" src="data/fr/effort-light.svg" width="880">
 </picture>
 
+Le droit français sous forme d’historique git : un fichier par article, un commit pour les modifications de chaque texte au jour de leur entrée en vigueur, et pour auteur de chaque commit le texte qui a fait la modification. `git blame` nomme le texte à l’origine de chaque alinéa ; `git log` énumère chaque modification d’un article ; le choix d’une date donne le texte en vigueur ce jour-là.
+
 Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un historique git unique pour le droit de chaque pays : ce dépôt contient le droit national français, que global-law lit dans `france/national/acts/`.
 
-Tous les textes consolidés de LEGI, la base de données sur laquelle repose Légifrance, dans un seul dépôt git : la
-Constitution de 1958, les codes, ainsi que les lois, ordonnances, décrets et arrêtés que LEGI consolide, un fichier par
-article. Chaque commit correspond à l’entrée en vigueur d’un texte : il écrit les versions d’articles issues de ce
-texte, est attribué à ce texte et est daté du jour d’entrée en vigueur de ces versions, à midi, heure de Paris. Le texte
-est celui de LEGI, publié par la DILA sous Licence Ouverte 2.0.
+**Ce qu’il contient aujourd’hui :** tous les textes que consolide LEGI, la base de données sur laquelle repose Légifrance, tels qu’au 2026-10-28. En vigueur ce jour-là : la Constitution de 1958 (avec les articles des Constitutions de 1946 et de 1848 que LEGI garde en vigueur), 77 codes et 118 773 autres textes (69 738 arrêtés, 44 755 décrets, 2 815 lois, 1 320 ordonnances et 145 autres), soit 692 977 articles ; dans l’historique, 1 556 213 versions d’articles de 153 011 textes, en 187 161 commits. Le dossier de chaque texte contient un `index.md` avec son titre, ses numéros, ses dates et son lien Légifrance.
 
-187 161 commits de droit, du 0881-10-09 jusqu’aux données du 2026-10-28 ; 1 556 213 versions d’articles dans
-153 011 textes, créées ou closes par 156 293 textes. Au dernier jour, 692 985 fichiers d’articles sont en vigueur,
-dans 77 codes et 118 773 autres textes.
+La Constitution se trouve dans `constitution/constitution-1958/`, chaque code dans `codes/<code>/` (`codes/code-du-travail/` est le Code du travail) et tout autre texte dans `textes/<nature>/<année>/<nature>-<numéro>/` (`textes/loi/1978/loi-78-17/` est la loi Informatique et Libertés du 6 janvier 1978). Chaque article est un fichier nommé d’après son numéro : l’article L. 3141-1 est `L3141-1.md`. Avec environ 810 000 fichiers, un clone nu (`git clone --bare`) s’obtient plus vite, et les commandes git ci-dessous y fonctionnent.
 
-Le dépôt contient 692 985 fichiers d’articles ; un clone nu (`git clone --bare`) s’obtient donc plus vite, et toutes
-les commandes git ci-dessous y fonctionnent. Dans un clone nu, extrayez d’abord l’outil : `git show main:tools/en_vigueur.py >
-en_vigueur.py`, puis lancez-le depuis l’intérieur du clone avec `python ../en_vigueur.py …`.
+Le texte est en français, tel que LEGI le publie. Une traduction anglaise ne fait pas partie de ce registre.
 
 ## Les questions, en commandes git
 
 | Question | Commande |
 | --- | --- |
-| Que disait l’article 1er de la Constitution le 1er janvier 2000 ? | `python tools/en_vigueur.py 2000-01-01 constitution-1958 1` |
-| L’article 1382 du Code civil au 1er juin 2010 | `python tools/en_vigueur.py 2010-06-01 code-civil 1382` |
-| Quel texte a écrit chaque alinéa de l’article 1er de la Constitution ? | `git blame main -- constitution/constitution-1958/1.md` |
-| Toutes les modifications de l’article 1er, avec le texte et le jour | `git log --follow --format="%(trailers:key=In-force,valueonly,separator=) %an" main -- constitution/constitution-1958/1.md` |
-| Tous les jours où la Constitution a changé | `git tag -l "constitution/*"` |
-| Les dix dernières modifications du Code civil | `git log -10 --format="%(trailers:key=In-force,valueonly,separator=) %an" main -- codes/code-civil` |
-| Tout ce qu’un texte a modifié : la loi constitutionnelle du 23 juillet 2008 | `git log --author="2008-724" --format="%(trailers:key=In-force,valueonly,separator=) %s" main` |
-| Les versions pour lesquelles LEGI n’indique aucun texte modificateur | `git log -5 --author="Légifrance" --format="%(trailers:key=In-force,valueonly,separator=) %b" main` |
-| Les articles dont la vigueur a pris fin sans successeur | `git log -5 --author="Fin de vigueur" --format="%(trailers:key=In-force,valueonly,separator=) %b" main` |
-| Ce qu’est un texte, avec ses numéros et son lien Légifrance | `git show main:codes/code-civil/index.md` |
+| Toutes les modifications de l’article L. 3141-1 du Code du travail (congés payés) | `git log -p --word-diff -- codes/code-du-travail/L3141-1.md` |
+| Quel texte a écrit chaque ligne de l’article L. 3141-1 ? | `git blame codes/code-du-travail/L3141-1.md` |
+| Toutes les modifications du Code du travail, avec le jour de leur entrée en vigueur et le texte qui les a faites | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- codes/code-du-travail` |
+| L’article L. 3141-1 tel qu’en vigueur le 1er janvier 2010 | `python tools/en_vigueur.py 2010-01-01 code-du-travail L3141-1` |
 
-## Les dates, et celle que nous retenons
+**En dehors de git**, nous mettons aussi ce registre à disposition du public, gratuitement :
 
-Un texte français a une date de signature (`Signed:`), une date de publication au Journal officiel et, pour chaque
-version d’article qu’il crée, une date d’entrée en vigueur de cette version. **Les commits sont datés du jour d’entrée
-en vigueur des versions d’articles** (DATE_DEBUT dans LEGI), à midi, heure de Paris (CET, ou CEST à l’heure d’été) :
-c’est ce jour qui détermine le texte applicable. Le trailer `In-force:` porte ce jour dans chaque commit de droit. Git
-ne peut pas enregistrer de dates antérieures à 1970 ; les commits plus anciens sont donc datés du 1970-01-01 UTC, à une
-seconde d’intervalle dans l’ordre, et leur jour réel ne figure que dans `In-force:` et dans les tags ;
-`tools/en_vigueur.py` lit le trailer.
+- **[Interrogez Claude sur le droit français](https://global-law.lexifina.com/v1/try_claude?country=france)** : ouvre Claude avec une première question prête.
+- **[Interrogez ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=france)** : la même question dans ChatGPT.
+- **[Appelez l’API dans votre navigateur](https://global-law.lexifina.com/v1/search_law?query=cong%C3%A9s+pay%C3%A9s&jurisdictions=france)** : une recherche de « congés payés » dans le droit français, renvoyée en JSON. La documentation est [ici](https://lexifina.com/api/global-law).
 
-## Ce que signifie « auteur »
+Les deux assistants lisent le registre par le connecteur gratuit Global law (MCP, `https://global-law.lexifina.com/mcp`) ; la première fois, la conversation vous donne le lien qui l’ajoute. Posez vos questions en français ou en anglais.
 
-L’auteur d’un commit est le texte qui a fait la modification, désigné à partir des champs de LEGI par sa nature, son
-numéro et sa date de signature, par exemple `Loi constitutionnelle n° 2008-724 du 23 juillet 2008`, avec une adresse
-formée de son identifiant au Journal officiel et se terminant par `@legifrance.invalid` (elle ne peut pas exister) ;
-ainsi, `git blame` nomme le texte. Le committer est toujours `Lexifina`.
+**Hébergez-le vous-même, simplement.** Il suffit de git et de Python, et les outils tournent sur votre machine :
 
-LEGI relie chaque version d’article aux textes qui l’ont créée, modifiée, déplacée, codifiée ou rectifiée. La
-construction attribue la version au texte lié dont la signature est la plus récente à la date d’entrée en vigueur de la
-version ou avant cette date. La première version d’un article sans un tel lien, dans un texte qui n’est pas un code, est
-attribuée à son propre texte (les articles d’une loi sont faits par cette loi). Deux auteurs désignés par un libellé ne
-sont pas des textes :
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add france/national/acts
+python3 tools/law.py show 2026-01-01 france/national/acts/codes/code-du-travail/L3141-1.md
+```
 
-- `Légifrance (DILA), version consolidée` : LEGI ne nomme aucun texte ayant produit ces versions. Beaucoup sont les
-  premières versions de codes, ou d’anciennes consolidations.
-- `Fin de vigueur` : les versions d’articles qui prennent fin ce jour-là (abrogées, expirées ou annulées) sans
-  successeur et sans texte que LEGI désigne comme les ayant abrogées, annulées ou y ayant mis fin. Lorsque LEGI en nomme
-  un (lien ABROGE ou ABROGATION), la suppression est attribuée à ce texte.
+Ouvert dans Claude Code, Cursor, VS Code ou Codex, le clone démarre aussi un serveur MCP local doté des mêmes outils ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-Ni l’un ni l’autre n’est jamais attribué à une loi.
+## Dates
 
-## Fichiers
+Chaque commit de droit est daté à midi, heure de Paris (Europe/Paris), du jour d’entrée en vigueur de ses versions d’articles, et porte ce jour dans son trailer `In-force:` ; le jour de signature du texte figure dans `Signed:`.
 
-- `constitution/constitution-1958/` contient la Constitution du 4 octobre 1958 ; les autres textes constitutionnels de
-  LEGI se trouvent à côté.
-- `codes/<code>/`, par exemple `codes/code-civil/`, contient chaque code, en vigueur ou abrogé.
-- `textes/<nature>/<year>/<nature>-<number>/` contient tous les autres textes consolidés, par exemple
-  `textes/loi/1978/loi-78-17/` (la loi Informatique et Libertés du 6 janvier 1978).
+- Le jour est celui que LEGI donne pour début de chaque version d’article (DATE_DEBUT) ; les versions que LEGI marque comme jamais entrées en vigueur sont écartées.
+- Une version d’article qui prend fin sans successeur est supprimée à son dernier jour, dans le commit du texte que LEGI désigne comme y ayant mis fin, ou à défaut dans un commit `Fin de vigueur`.
+- Git ne peut pas enregistrer de dates antérieures à 1970 : les 6 097 commits antérieurs sont donc datés à partir du 1970-01-01 UTC, à une seconde d’intervalle, le jour réel figurant dans `In-force:`. Interrogez une date avec `tools/en_vigueur.py`, et non avec `git log --before`.
+- Lorsque le jour donné par LEGI est erroné (une année mal saisie, un jour antérieur à la signature du texte), des commits ultérieurs nomment la version et le bon jour ; les commits publiés ne sont pas réécrits.
 
-Chaque article est un fichier nommé d’après son numéro : `L. 1234-1` devient `L1234-1.md`. Un article sans numéro est
-nommé d’après son identifiant LEGI. Si deux articles d’un même texte portent le même numéro au même moment (l’article 1er
-d’une annexe à côté de celui du décret), le nom de fichier du plus récent se termine par une partie de son identifiant
-LEGI. Un fichier se compose de `# Article <number>`, puis des alinéas de l’article, puis du `NOTA` de LEGI s’il y en a
-un. Lorsqu’un article cesse d’être en vigueur, il est supprimé. Chaque dossier de texte contient un `index.md` avec son
-titre, sa nature, son numéro, ses dates, ses identifiants et son lien Légifrance. Les intitulés de divisions (livres,
-titres, chapitres) ne sont pas reproduits.
+Chaque modification est attribuée au texte qui l’a faite, tel que le nomment les liens de LEGI (`Loi n° 2016-1088 du 8 août 2016`) : le texte lié signé en dernier à la date d’entrée en vigueur de la version ou avant. Lorsque LEGI n’en nomme aucun, elle est attribuée à `Légifrance (DILA), version consolidée` (5 410 commits) ; [`data/credits.csv`](data/credits.csv) nomme le bon texte pour les versions que LEGI classe sous un autre.
 
 ## Comment il est vérifié
 
-`tools/check_repo.py` prend une série de jours et compare, fichier par fichier et octet par octet, l’arborescence en
-vigueur ce jour-là avec les versions d’articles que LEGI donne en vigueur ce jour-là. `tools/test_repo.py` vérifie que
-les commandes ci-dessus fonctionnent. Les résultats figurent dans [`REPRODUCE.md`](REPRODUCE.md).
+- `tools/check_repo.py` prend une série de jours et compare, fichier par fichier et octet par octet, l’arborescence en vigueur chaque jour avec les versions d’articles que LEGI donne en vigueur ce jour-là.
+- `tools/test_repo.py` vérifie que blame, l’outil de dates et `git log --follow` fonctionnent, que chaque commit de droit porte `In-force:` et que chaque commit de droit est attribué à un texte, jamais à Lexifina.
+- [`REPRODUCE.md`](REPRODUCE.md) décrit chaque étape de la construction, avec le sha256 des archives dans [`data/archives.json`](data/archives.json) ; selon ce fichier, les mêmes archives donnent les mêmes commits avec les mêmes hashes, et pour la construction du 2026-10-28 ni ces vérifications ni une reconstruction n’ont été lancées.
 
 ## Ce qu’il ne montre pas
 
-- Les textes que LEGI ne consolide pas, et les versions antérieures à celles de LEGI : LEGI enregistre chaque texte à
-  partir de la version dans laquelle il a été consolidé pour la première fois. Son historique des codes les plus anciens
-  est le plus complet à partir des années 1990.
-- Les intitulés de divisions et l’ordre des parties d’un code.
-- La partie d’un texte qu’un texte modificateur a changée, à un niveau plus fin que l’article : le texte modificateur
-  est crédité de toute la nouvelle version de l’article.
+- **Les textes que LEGI ne consolide pas, et les versions antérieures à celles de LEGI.** LEGI enregistre chaque texte à partir de la version dans laquelle il l’a consolidé pour la première fois ; son historique des codes les plus anciens est le plus complet à partir des années 1990.
+- **Les intitulés de divisions** (livres, titres, chapitres) et l’ordre des parties d’un code.
+- **Les mots qu’un texte modificateur a changés** au sein d’un article : il est crédité de toute la nouvelle version.
+- **Les modifications postérieures au 2026-10-28** : les mises à jour quotidiennes de LEGI ont été lues jusqu’à ce jour.
+- **La jurisprudence.** Elle se trouve dans six dépôts distincts, que global-law lit à côté de celui-ci ([france/](https://github.com/lexifina/global-law/tree/main/france)).
 
-Le texte consolidé est fourni à titre d’information. Le texte authentique est celui publié au Journal officiel.
+## Sources
 
-## Comment il est construit
+| Source | Nature | Versions antérieures | Remarques |
+| --- | --- | --- | --- |
+| [LEGI](https://echanges.dila.gouv.fr/OPENDATA/LEGI/) (DILA), les données de [Légifrance](https://www.legifrance.gouv.fr) | Droit national consolidé : la Constitution, les codes, lois, ordonnances, décrets et arrêtés | oui, chaque version d’article que LEGI enregistre | L’export complet et ses mises à jour quotidiennes ; le texte authentique est celui publié au Journal officiel |
 
-`tools/scan.py` et `tools/scan_daily.py` chargent dans SQLite les archives LEGI de la DILA (l’export complet et les
-mises à jour quotidiennes, listés avec leur sha256 dans [`data/archives.json`](data/archives.json)) ; `tools/build.py`
-écrit ce dépôt à partir de zéro depuis cette base. Chaque étape, les logiciels, les décisions et ce qu’a fait un modèle
-d’IA sont décrits dans [`REPRODUCE.md`](REPRODUCE.md). [`corpus.json`](corpus.json) décrit le corpus pour les outils qui
-lisent plusieurs de ces dépôts.
+## Licence
+
+Voir [`LICENSE`](LICENSE). Le texte juridique et son historique sont ceux de LEGI, réutilisés sous la Licence Ouverte 2.0 (Etalab), qui demande de mentionner la source (la DILA) et la date de sa dernière mise à jour ; les outils et la documentation sont sous licence MIT.
+
+Aucun modèle d’IA n’a écrit ni modifié de texte juridique ; le programme de construction, les outils et la documentation ont été écrits par un modèle d’IA (voir [`REPRODUCE.md`](REPRODUCE.md)).
 
 Ceci est une traduction de la version anglaise ([README.en.md](README.en.md)) ; en cas de divergence, la version anglaise fait foi.
 

@@ -1,108 +1,85 @@
-# French law, change by change
+# France: law history in git
 
-[Français](README.md) · **English**
+**English** · **[Ou lisez-le en français](README.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
 <img alt="French law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
 </picture>
 
+The law of France as a git history: one file per article, one commit for each text's changes on the day they took effect, and the text that made each change as the commit's author. `git blame` names the text behind every paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is France's national law, which global-law reads at `france/national/acts/`.
 
-Every consolidated text in LEGI, the database behind Légifrance, as one git repository: the Constitution of 1958, the
-codes, and the laws, ordinances, decrees and orders that LEGI consolidates, one file per article. Each commit is a text
-taking effect: it writes the article versions that text made, is credited to that text, and is dated the day the
-versions took effect, at noon in Paris. The text is LEGI's, published by the DILA under the Licence Ouverte 2.0.
+**What is in it now:** every text that LEGI, the database behind Légifrance, consolidates, as it stood on 2026-10-28. In force that day: the Constitution of 1958 (with the articles of the 1946 and 1848 Constitutions LEGI keeps in force), 77 codes and 118,773 other texts (69,738 arrêtés, 44,755 décrets, 2,815 lois, 1,320 ordonnances and 145 others), with 692,977 articles; in the history, 1,556,213 article versions of 153,011 texts, in 187,161 commits. Each text's folder has an `index.md` with its title, numbers, dates and Légifrance link.
 
-187,161 law commits, from 0881-10-09 to the data of 2026-10-28; 1,556,213 article versions in 153,011 texts,
-made or ended by 156,293 texts. On the last day, 692,985 article files are in force, in 77 codes and 118,773 other
-texts.
+The Constitution is in `constitution/constitution-1958/`, each code in `codes/<code>/` (`codes/code-du-travail/` is the Code du travail) and every other text in `textes/<nature>/<year>/<nature>-<number>/` (`textes/loi/1978/loi-78-17/` is the loi Informatique et Libertés of 6 January 1978). Each article is a file named after its number: article L. 3141-1 is `L3141-1.md`. With about 810,000 files, a bare clone (`git clone --bare`) is quicker, and the git commands below work in it.
 
-The repository holds 692,985 article files, so a bare clone (`git clone --bare`) is quicker to get; every git
-command below works in one. In a bare clone, take the tool out first: `git show main:tools/en_vigueur.py >
-en_vigueur.py`, and run it from inside the clone as `python ../en_vigueur.py …`.
+The text is in French, as LEGI publishes it. An English translation is not part of this record.
 
-## The questions, as git commands
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What did article 1 of the Constitution say on 1 January 2000? | `python tools/en_vigueur.py 2000-01-01 constitution-1958 1` |
-| Article 1382 of the Code civil on 1 June 2010 | `python tools/en_vigueur.py 2010-06-01 code-civil 1382` |
-| Which text wrote each paragraph of article 1 of the Constitution? | `git blame main -- constitution/constitution-1958/1.md` |
-| Every change to article 1, with the text and the day | `git log --follow --format="%(trailers:key=In-force,valueonly,separator=) %an" main -- constitution/constitution-1958/1.md` |
-| Every day the Constitution changed | `git tag -l "constitution/*"` |
-| The last ten changes to the Code civil | `git log -10 --format="%(trailers:key=In-force,valueonly,separator=) %an" main -- codes/code-civil` |
-| Everything one text changed: the loi constitutionnelle of 23 July 2008 | `git log --author="2008-724" --format="%(trailers:key=In-force,valueonly,separator=) %s" main` |
-| Versions LEGI gives no amending text for | `git log -5 --author="Légifrance" --format="%(trailers:key=In-force,valueonly,separator=) %b" main` |
-| Articles that ended with no successor | `git log -5 --author="Fin de vigueur" --format="%(trailers:key=In-force,valueonly,separator=) %b" main` |
-| What a text is, with its numbers and its Légifrance link | `git show main:codes/code-civil/index.md` |
+| Every change to article L. 3141-1 of the Code du travail (paid leave) | `git log -p --word-diff -- codes/code-du-travail/L3141-1.md` |
+| Which text wrote each line of article L. 3141-1? | `git blame codes/code-du-travail/L3141-1.md` |
+| Every change to the Code du travail, with the day it took effect and the text that made it | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- codes/code-du-travail` |
+| Article L. 3141-1 as in force on 1 January 2010 | `python tools/en_vigueur.py 2010-01-01 code-du-travail L3141-1` |
 
-## The dates, and which one we use
+**Outside git**, we also host this record publicly, for free:
 
-A French text has the day it was signed (`Signed:`), the day it was published in the Journal officiel, and, for each
-article version it makes, the day that version took effect. **Commits are dated the day the article versions took
-effect** (LEGI's DATE_DEBUT), at noon in Paris (CET, or CEST in summer time): that is the day that decides which text
-applies. The trailer `In-force:` carries that day in every law commit. Git cannot store dates before 1970, so earlier
-commits are dated 1970-01-01 UTC, a second apart in order, and their real day is only in `In-force:` and the tags;
-`tools/en_vigueur.py` reads the trailer.
+- **[Ask Claude about French law](https://global-law.lexifina.com/v1/try_claude?country=france)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=france)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=cong%C3%A9s+pay%C3%A9s&jurisdictions=france)**: a search of French law for "congés payés", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
 
-## What "author" means
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in French or in English.
 
-The author of a commit is the text that made the change, named from LEGI's fields as its nature, number and date of
-signature, for example `Loi constitutionnelle n° 2008-724 du 23 juillet 2008`, with an address made of its Journal
-officiel identifier and ending `@legifrance.invalid` (it cannot exist), so `git blame` names the text. The committer is always `Lexifina`.
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
 
-LEGI links each article version to the texts that created, modified, moved, codified or corrected it. The build credits
-the linked text with the latest signature on or before the day the version took effect. An article's first version
-with no such link, in a text that is not a code, is credited to its own text (a law's articles are made by that law).
-Two labelled authors are not texts:
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add france/national/acts
+python3 tools/law.py show 2026-01-01 france/national/acts/codes/code-du-travail/L3141-1.md
+```
 
-- `Légifrance (DILA), version consolidée`: LEGI names no text that made these versions. Many are codes' first
-  versions, or old consolidations.
-- `Fin de vigueur`: article versions that end on that day (repealed, expired or annulled) with no successor and no
-  text LEGI names as having repealed, annulled or ended them. When LEGI names one (an ABROGE or ABROGATION link), the
-  removal is credited to that text instead.
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-Neither is ever credited to a law.
+## Dates
 
-## Files
+Each law commit is dated at noon, Europe/Paris, on the day its article versions took effect, and carries it in its `In-force:` trailer; the day the text was signed is in `Signed:`.
 
-- `constitution/constitution-1958/` is the Constitution of 4 October 1958; other constitutional texts in LEGI are
-  beside it.
-- `codes/<code>/`, for example `codes/code-civil/`, holds each code in force or repealed.
-- `textes/<nature>/<year>/<nature>-<number>/` holds every other consolidated text, for example
-  `textes/loi/1978/loi-78-17/` (the data-protection law of 6 January 1978).
+- The day is LEGI's own first day for each article version (DATE_DEBUT); versions LEGI marks as never in force are left out.
+- An article version that ends with no successor is removed on its last day, in the commit of the text LEGI names as ending it, or else in a `Fin de vigueur` commit.
+- git cannot store dates before 1970, so the 6,097 earlier commits are dated from 1970-01-01 UTC, one second apart, with the real day in `In-force:`. Ask for a date with `tools/en_vigueur.py`, not `git log --before`.
+- Where LEGI's day is wrong (a mistyped year, a day before the text was signed), later commits name the version and the right day; published commits are not rewritten.
 
-Each article is one file named after its number: `L. 1234-1` is `L1234-1.md`. An article with no number is named after
-its LEGI identifier. If two articles of one text carry the same number at the same time (an annex's article 1 beside
-the decree's), the later one's file name ends with part of its LEGI identifier. A file is `# Article <number>`, then
-the article's paragraphs, then LEGI's `NOTA` when there is one. When an article stops being in force it is removed.
-Each text folder has an `index.md` with its title, nature, number, dates, identifiers and Légifrance link. Section
-headings (livres, titres, chapitres) are not reproduced.
+Each change is credited to the text that made it, as LEGI's links name it (`Loi n° 2016-1088 du 8 août 2016`): the linked text signed last on or before the day the version took effect. Where LEGI names none, it is credited to `Légifrance (DILA), version consolidée` (5,410 commits); [`data/credits.csv`](data/credits.csv) names the right text for versions LEGI files under the wrong one.
 
 ## How it is checked
 
-`tools/check_repo.py` takes a series of days and compares, file for file and byte for byte, the tree in force that day
-with the article versions LEGI has in force that day. `tools/test_repo.py` checks that the commands above work. The
-results are in [`REPRODUCE.md`](REPRODUCE.md).
+- `tools/check_repo.py` takes a series of days and compares, file for file and byte for byte, the tree in force each day with the article versions LEGI has in force that day.
+- `tools/test_repo.py` checks that blame, the dated tool and `git log --follow` work, that every law commit carries `In-force:`, and that every law commit is credited to a text, never to Lexifina.
+- [`REPRODUCE.md`](REPRODUCE.md) gives every build step, with the archives' sha256 in [`data/archives.json`](data/archives.json); it says the same archives give the same commits with the same hashes. For the build of 2026-10-28 it records that neither check, nor a rebuild, was run.
 
 ## What it does not show
 
-- Texts LEGI does not consolidate, and versions older than LEGI's: LEGI records each text from the version it was
-  first consolidated in. Its history of the oldest codes is fullest from the 1990s.
-- Section headings and the order of the parts of a code.
-- Which part of a text an amending text changed, beyond the article: the amending text is credited with the whole new
-  version of the article.
+- **Texts LEGI does not consolidate, and versions older than LEGI's.** LEGI records each text from the version it first consolidated; its history of the oldest codes is fullest from the 1990s.
+- **Section headings** (livres, titres, chapitres) and the order of a code's parts.
+- **Which words an amending text changed** within an article: it is credited with the whole new version.
+- **Changes after 2026-10-28**: LEGI's daily updates have been read up to that day.
+- **Case law.** It is in six repositories of its own, which global-law reads beside this one ([france/](https://github.com/lexifina/global-law/tree/main/france)).
 
-The consolidated text is for information. The authentic text is the one published in the Journal officiel.
+## Sources
 
-## How it is built
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [LEGI](https://echanges.dila.gouv.fr/OPENDATA/LEGI/) (DILA), the data behind [Légifrance](https://www.legifrance.gouv.fr) | Consolidated national law: the Constitution, codes, lois, ordonnances, décrets, arrêtés | yes, every article version LEGI records | The full dump and its daily updates; the authentic text is the one published in the Journal officiel |
 
-`tools/scan.py` and `tools/scan_daily.py` read DILA's LEGI archives (the full dump and the daily updates, listed with
-their sha256 in [`data/archives.json`](data/archives.json)) into SQLite; `tools/build.py` writes this repository from
-scratch from that database. Every step, the software, the decisions and what an AI model did are in
-[`REPRODUCE.md`](REPRODUCE.md). [`corpus.json`](corpus.json) describes the corpus for tools that read many of these
-repositories.
+## Licence
+
+See [`LICENSE`](LICENSE). The legal text and its history are LEGI's, reused under the Licence Ouverte 2.0 (Etalab), which asks that the source (DILA) and the date of its last update be cited; the tools and documentation are under the MIT License.
+
+No AI model wrote or changed legal text; the builder, the tools and the documentation were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
 ## More
 
