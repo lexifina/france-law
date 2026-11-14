@@ -380,11 +380,11 @@ SÉLECTION DES STRUCTURES DE COORDINATION PAR APPEL À CANDIDATURES
 
 Montée en charge
 
-Il est retenu un déploiement en trois temps pour permettre une montée en charge progressive de ce parcours sur l'ensemble du territoire, sur trois ans entre 2026 et 2028. D'ici à 2028, au minimum une structure par département doit être sélectionnée.
+Il est retenu un déploiement en deux temps pour permettre une montée en charge progressive de ce parcours sur l'ensemble du territoire. Les ARS définissent, en lien avec les conseils départementaux, une stratégie de déploiement en deux vagues, en 2026 et 2027, afin de mettre en place une structure responsable de la coordination dans chaque département dès 2027.
 
-Les ARS définissent en lien avec les conseils départementaux une stratégie de déploiement en trois vagues pour atteindre la mise en place d'une structure responsable de la coordination dans chaque département en trois ans.
+Pour le deuxième vague de 2027, le directeur général de l'ARS publie l'appel à candidature au plus tard au dernier trimestre 2026. Il fixe la date à laquelle les projets de parcours doivent être déposés au moyen de la téléprocédure, selon les conditions prévues par le cahier des charges du parcours coordonné renforcé.
 
-Pour 2026, le directeur général de l'ARS publie l'appel à candidature dans les trois premiers mois à compter de la publication du présent arrêté et pour 2027 et 2028 dans les quatre premiers mois de l'année concernée. Il fixe la date à laquelle les projets de parcours doivent être déposés au moyen de la téléprocédure, selon les conditions prévues par le cahier des charges du parcours coordonné renforcé.
+En cas d'appel à candidature resté infructueux, le directeur général de l'ARS publie un nouvel appel à candidatures au plus tard dans les 6 mois suivant le dernier appel à candidature.
 
 Il informe l'organisme local d'assurance maladie de l'organisation de la procédure.
 
