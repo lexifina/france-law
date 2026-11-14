@@ -832,6 +832,8 @@ Usine Chimique de l'Aubette, puis SHELL Chimie Méditerranée, Chemin départeme
 
 Usine Chimique de Berre, puis SHELL Chimie Méditerranée, Chemin départementale 54, 13130 BERRE L'ETANG : de 1977 à 2017 ;
 
+SANOFI, 45, chemin de Mételine, 04200, Sisteron ; de 1973 à 1984.
+
 Rhône-Alpes
 
 Auburtin SA, 14, rue Passet, 69007 Lyon, puis 151, avenue Franklin-Roosevelt, 69275 Décines-Charpieu : de 1950 à 1990 ;
