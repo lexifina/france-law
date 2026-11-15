@@ -29,6 +29,42 @@ PUBLISHERS = ('Légifrance (DILA), version consolidée', 'Fin de vigueur')
 CONSTITUTION = 'constitution/constitution-1958/'
 
 
+DOC_TOP = ('REPRODUCE.md', 'LICENSE', 'PLAN.md', 'SOURCES.md', '.gitattributes', '.gitignore')
+DOC_DIRS = ('data/', 'tools/', 'visualisations/', 'vulnerabilities/', 'registry/', 'monitoring/')
+
+
+def is_doc_file(path):
+    """A file a documentation commit may touch, never law text: README*, REPRODUCE.md, LICENSE, PLAN.md, SOURCES.md,
+    *.csv and *.json at the top; anything under data/, tools/, visualisations/, vulnerabilities/, registry/, monitoring/;
+    an act folder's README.md (no law text file is named README.md)."""
+    if '/' not in path:
+        return path.startswith('README') or path in DOC_TOP or path.endswith(('.csv', '.json'))
+    return path.startswith(DOC_DIRS) or path.endswith('/README.md')
+
+
+def doc_commit_problems(repo, rows):
+    """rows: (sha, In-force value) of each commit authored by Lexifina. Every one is a documentation commit (README,
+    charts, tools): no In-force trailer and no law text file (one git log --no-walk --name-only for all of them)."""
+    if not rows:
+        return []
+    out = subprocess.run(['git', '-c', 'core.quotePath=false', 'log', '--no-walk=unsorted', '--stdin', '--name-only',
+                          '--format=%x00%H'], cwd=repo, input=''.join(h + '\n' for h, _ in rows), capture_output=True,
+                         text=True, encoding='utf-8')
+    if out.returncode:
+        raise AssertionError(f'git log --no-walk: {out.stderr.strip()}')
+    files = {}
+    for block in out.stdout.split('\x00')[1:]:
+        lines = [l for l in block.splitlines() if l]
+        files[lines[0]] = lines[1:]
+    bad = []
+    for h, day in rows:
+        law = [f for f in files.get(h, []) if not is_doc_file(f)]
+        if day.strip() or law:
+            bad.append(h[:10] + (f' In-force {day.strip()}' if day.strip() else '')
+                       + (f' touches {len(law)} law text file(s), e.g. {law[0]}' if law else ''))
+    return bad
+
+
 def default_repo() -> Path:
     if (HERE.parent / '.git').exists():
         return HERE.parent
@@ -72,6 +108,9 @@ class Smoke:
         except AssertionError as exc:
             self.results.append((name, False, str(exc)))
             print(f'FAIL {name}: {exc}')
+        except Exception as exc:  # any other error fails this check only; the run goes on
+            self.results.append((name, False, f'{type(exc).__name__}: {exc}'))
+            print(f'FAIL {name}: {type(exc).__name__}: {exc}')
 
     def metadata_corrections(self) -> set[str]:
         """Recognize only fully labelled, non-law metadata corrections.
@@ -192,29 +231,32 @@ class Smoke:
         for t in tags:
             self.git('rev-parse', '--verify', '-q', f'{t}^{{commit}}')
         corrections = self.metadata_corrections()
-        rows = [r for r in self.git('log', '--format=%H%x09%(trailers:key=In-force,valueonly,separator=)', 'main').splitlines()
-                if r.split('\t')[0] not in corrections]
-        assert not rows[0].split('\t')[1].strip(), 'documentation commit should carry no In-force'
-        missing = [r[:10] for r in rows[1:] if not re.fullmatch(r'\d{4}-\d{2}-\d{2}', r.split('\t')[1].strip())]
+        # documentation commits (by Lexifina) carry no In-force: the authors check holds them to it
+        rows = [r for r in self.git('log', '--format=%H%x09%(trailers:key=In-force,valueonly,separator=)%x09%an', 'main').splitlines()
+                if r.split('\t')[0] not in corrections and r.split('\t')[2] != 'Lexifina']
+        missing = [r[:10] for r in rows if not re.fullmatch(r'\d{4}-\d{2}-\d{2}', r.split('\t')[1].strip())]
         assert not missing, f'{len(missing)} commits without a valid In-force, e.g. {missing[:3]}'
-        days = [r.split('\t')[1].strip() for r in rows[1:]]
+        days = [r.split('\t')[1].strip() for r in rows]
         assert days == sorted(days, reverse=True), 'In-force days are not in order along main'
-        return f'{len(tags)} tags resolve; {len(rows) - 1} law commits carry In-force, in date order; {len(corrections)} verified metadata corrections'
+        return f'{len(tags)} tags resolve; {len(rows)} law commits carry In-force, in date order; {len(corrections)} verified metadata corrections'
 
     # 5
     def authors(self):
         corrections = self.metadata_corrections()
-        rows = [r for r in self.git('log', '--format=%H%x09%an%x09%ae%x09%cn', 'main').splitlines()
+        rows = [r for r in self.git('log', '--format=%H%x09%an%x09%ae%x09%cn%x09%(trailers:key=In-force,valueonly,separator=)', 'main').splitlines()
                 if r.split('\t')[0] not in corrections]
         by_lex = [r for r in rows if r.split('\t')[1] == 'Lexifina']
-        assert len(by_lex) == 1 and by_lex[0] == rows[0], f'{len(by_lex)} commits by Lexifina'
+        assert by_lex, 'no documentation commit by Lexifina'
+        bad = doc_commit_problems(self.repo, [(r.split('\t')[0], r.split('\t')[4]) for r in by_lex])
+        assert not bad, f'{len(bad)} Lexifina commits are not documentation commits, e.g. {bad[:3]}'
+        law = [r for r in rows if r.split('\t')[1] != 'Lexifina']
         assert all(r.split('\t')[3] == 'Lexifina' for r in rows), 'a committer other than Lexifina'
-        names = sorted({r.split('\t')[1] for r in rows[1:]})
+        names = sorted({r.split('\t')[1] for r in law})
         bad = [n for n in names if bad_author(n)]
         assert not bad, f'author names that are not texts: {bad[:5]}'
-        emails = [r.split('\t')[2] for r in rows[1:] if not r.split('\t')[2].endswith('.invalid')]
+        emails = [r.split('\t')[2] for r in law if not r.split('\t')[2].endswith('.invalid')]
         assert not emails, f'author emails not ending .invalid: {emails[:3]}'
-        return f'only the documentation commit {rows[0][:10]} and {len(corrections)} verified metadata corrections are by Lexifina; {len(names)} distinct law authors, none a file name'
+        return f'{len(by_lex)} documentation commits (none with In-force or law text) and {len(corrections)} verified metadata corrections are by Lexifina; {len(names)} distinct law authors, none a file name'
 
     # 6
     def readme(self):
