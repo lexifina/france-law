@@ -1,7 +1,5 @@
 # Article ANNEXE II
 
-ANNEXE II
-
 LISTE DES INSTANCES POUR LESQUELLES DES SCRUTINS SONT ORGANISÉS EN VUE DE L'ÉLECTION DES REPRÉSENTANTS DU PERSONNEL AUX COMITÉS SOCIAUX D'ADMINISTRATION, AUX COMMISSIONS ADMINISTRATIVES PARITAIRES, AUX COMMISSIONS CONSULTATIVES PARITAIRES, AUX COMMISSIONS CONSULTATIVES PARITAIRES DES OUVRIERS DES PARCS ET ATELIERS, AUX COMMISSIONS D'AVANCEMENT DES OUVRIERS DE L'ÉTAT OU AUX CONSEILS D'ADMINISTRATION
 
 Instance placée auprès de la ministre de la transition écologique, de la biodiversité et des négociations internationales sur le climat et la nature :
@@ -280,11 +278,11 @@ Instance placée auprès du directeur général de Voies navigables de France :
 
 - Comité social d'administration central (collèges public et privé) ;
 
-- Comité social d'administration local du siège ;
+- Comité social d'administration local des directions nationales ;
 
 - Commission administrative paritaire centrale compétente à l'égard des personnels d'exploitation de Voies navigables de France ;
 
-- Commission consultative paritaire compétente à l'égard des agents contractuels recrutés en application de l'article 1er du décret du 12 décembre 2016 fixant les dispositions particulières applicables aux agents non titulaires de certains établissements publics de l'environnement.
+- Commission consultative paritaire compétente à l'égard des agents contractuels de droit public.
 
 Instance placée auprès des directeurs territoriaux de Voies navigables de France :
 

@@ -1,9 +1,5 @@
 # Article ANNEXE I
 
-ANNEXES
-
-ANNEXE I
-
 ÉTABLISSEMENTS PUBLICS ET AUTORITÉS ADMINISTRATIVES INDÉPENDANTES RATTACHÉS AUX SCRUTINS ORGANISÉS PAR LE MINISTÈRE DE LA TRANSITION ÉCOLOGIQUE ET DE LA COHÉSION DES TERRITOIRES ET LE MINISTÈRE DE LA TRANSITION ÉNERGÉTIQUE
 
 Etablissements publics
@@ -72,7 +68,7 @@ Parc national de la Réunion ;
 
 Parc national de la Vanoise ;
 
-Institut national de l'information géographique et forestière.
+Voies navigables de France.
 
 Autorités administratives indépendantes
 
