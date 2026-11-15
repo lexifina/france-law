@@ -30,7 +30,8 @@ Le texte est en français, tel que LEGI le publie. Une traduction anglaise ne fa
 
 - **[Interrogez Claude sur le droit français](https://global-law.lexifina.com/v1/try_claude?country=france)** : ouvre Claude avec une première question prête.
 - **[Interrogez ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=france)** : la même question dans ChatGPT.
-- **[Appelez l’API dans votre navigateur](https://global-law.lexifina.com/v1/search_law?query=cong%C3%A9s+pay%C3%A9s&jurisdictions=france)** : une recherche de « congés payés » dans le droit français, renvoyée en JSON. La documentation est [ici](https://lexifina.com/api/global-law).
+- **[Cherchez dans le droit français sur notre site](https://lexifina.com/law?country=france&q=cong%C3%A9s+pay%C3%A9s)** : une recherche de « congés payés », avec le texte de chaque disposition et ses versions, sans compte.
+- **[API REST pour les développeurs](https://global-law.lexifina.com/v1/search_law?query=cong%C3%A9s+pay%C3%A9s&jurisdiction=france)** : la même recherche en JSON, sans clé. La documentation est [ici](https://lexifina.com/api/global-law).
 
 Les deux assistants lisent le registre par le connecteur gratuit Global law (MCP, `https://global-law.lexifina.com/mcp`) ; la première fois, la conversation vous donne le lien qui l’ajoute. Posez vos questions en français ou en anglais.
 
