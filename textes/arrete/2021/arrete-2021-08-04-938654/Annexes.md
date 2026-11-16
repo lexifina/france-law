@@ -17,3 +17,5 @@ Conformément au IV de l'article 4 de l'arrêté du 1er février 2023 (NOR : TRE
 Conformément au V de l'article 4 de l'arrêté du 1er février 2023 (NOR : TREL2218747A), l'annexe X est modifiée.
 
 Conformément aux articles 4, 5, 6 et 7 de l’arrêté du 19 mars 2026 (NOR : VLOL2532389A), les annexes II, III, IV et XI sont modifiées. Conformément à l’article 9 dudit arrêté, ces modifications entrent en vigueur le 1er mai 2026. Vous pouvez consulter l’intégralité de ces modifications, accompagnées de leurs images, dans l’extrait du Journal officiel électronique authentifié n° 0101 du 29 avril 2026, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=7XX36jvDAF4Hu-V8Gan8DHEvSu76wkc5KYAilwqhZo0=
+
+Conformément à l'article 1er de l'arrêté du 4 novembre 2026 (NOR : VLOL2628609A), l'annexe III est modifiée.
