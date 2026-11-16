@@ -85,7 +85,13 @@ No AI model wrote or changed legal text; the builder, the tools and the document
 
 ## Visualisations
 
-- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
+[visualisations/](visualisations/): French law in 20 charts, drawn from this repository.
+
+Including:
+
+- The articles in force, the codes and how old their wording is
+- The day each change takes effect, the Journal officiel and the finance laws
+- Lois and ordonnances, the décrets that implement laws, and the revisions of the Constitution
 
 ## More
 

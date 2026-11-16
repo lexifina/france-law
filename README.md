@@ -87,7 +87,13 @@ Ceci est une traduction de la version anglaise ([README.en.md](README.en.md)) ;
 
 ## Visualisations
 
-- [visualisations/](visualisations/): graphiques tirés de ce dépôt. Pas encore dessinés.
+[visualisations/](visualisations/) : le droit français en 20 graphiques, tirés de ce dépôt.
+
+Notamment :
+
+- Les articles en vigueur, les codes et l’âge de leur rédaction
+- Le jour d’entrée en vigueur de chaque modification, le Journal officiel et les lois de finances
+- Les lois et les ordonnances, les décrets d’application et les révisions de la Constitution
 
 ## En savoir plus
 

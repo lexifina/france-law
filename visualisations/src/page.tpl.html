@@ -1,0 +1,1486 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Le droit français en 20 graphiques</title>
+<meta name="description" content="Vingt graphiques sur le droit français tirés du dépôt france-law / Twenty charts on French law from the france-law repository">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<style>
+:root {
+  color-scheme: light;
+  --bg: #f7f6f3; --surface: #fcfcfb; --surface-2: #f1f0ec; --line: #e4e2dc; --grid: #ebe9e4;
+  --text: #0b0b0b; --text-2: #52514e; --text-3: #7a7974; --accent: #2a78d6;
+  --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a; --s4: #eda100; --s5: #e87ba4; --s6: #008300; --s7: #6250d6; --s8: #e34948;
+  --muted-mark: #b9b7b0;
+  --seq-lo: #eef4fc; --seq-hi: #0d366b;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #131312; --surface: #1a1a19; --surface-2: #222220; --line: #33322f; --grid: #2a2a28;
+    --text: #f0efec; --text-2: #c3c2b7; --text-3: #8f8e86; --accent: #3987e5;
+    --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #0ca30c; --s7: #9085e9; --s8: #e66767;
+    --muted-mark: #55544f;
+    --seq-lo: #1f2a38; --seq-hi: #9ec5f4;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #131312; --surface: #1a1a19; --surface-2: #222220; --line: #33322f; --grid: #2a2a28;
+  --text: #f0efec; --text-2: #c3c2b7; --text-3: #8f8e86; --accent: #3987e5;
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #0ca30c; --s7: #9085e9; --s8: #e66767;
+  --muted-mark: #55544f;
+  --seq-lo: #1f2a38; --seq-hi: #9ec5f4;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.55 Inter, system-ui, -apple-system, "Segoe UI", sans-serif; }
+a { color: var(--accent); }
+.wrap { max-width: 1040px; margin: 0 auto; padding: 0 16px; }
+header.top { padding: 28px 0 8px; }
+.bar { display: flex; justify-content: flex-end; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 18px; }
+.toggles { display: inline-flex; gap: 8px; flex-wrap: wrap; justify-content: flex-end; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; padding: 2px; background: var(--surface); }
+.seg button { border: 0; background: transparent; color: var(--text-2); font: 500 13px/1 Inter, sans-serif; padding: 7px 12px; border-radius: 999px; cursor: pointer; min-height: 30px; }
+.seg button[aria-pressed="true"] { background: var(--text); color: var(--surface); }
+.seg button:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+h1 { font: 600 clamp(30px, 5vw, 46px)/1.1 "Source Serif 4", Georgia, serif; margin: 0 0 14px; letter-spacing: -.01em; }
+.lede { font-size: 17px; color: var(--text-2); max-width: 760px; margin: 0 0 8px; }
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin: 26px 0 10px; }
+.tile { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px 14px 12px; }
+.tile b { display: block; font: 600 24px/1.1 Inter, sans-serif; font-variant-numeric: tabular-nums; }
+.tile span { font-size: 12px; color: var(--text-2); }
+details.profile { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; margin: 10px 0 0; }
+details.profile > summary, details.tbl > summary { cursor: pointer; padding: 12px 14px; font-weight: 500; font-size: 14px; list-style: none; }
+details.profile > summary::-webkit-details-marker, details.tbl > summary::-webkit-details-marker { display: none; }
+details.profile > summary::before, details.tbl > summary::before { content: "▸"; display: inline-block; width: 1.1em; color: var(--text-3); transition: transform .15s; }
+details[open].profile > summary::before, details[open].tbl > summary::before { transform: rotate(90deg); }
+.scroll { overflow-x: auto; padding: 0 14px 14px; }
+table { border-collapse: collapse; width: 100%; font-size: 13px; font-variant-numeric: tabular-nums; }
+th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font-weight: 600; color: var(--text-2); font-size: 12px; }
+td.n, th.n { text-align: right; white-space: nowrap; }
+code { font: 12px/1.4 ui-monospace, SFMono-Regular, Consolas, monospace; background: var(--surface-2); padding: 1px 5px; border-radius: 5px; word-break: break-all; }
+nav.toc { margin: 30px 0 10px; display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 6px 22px; font-size: 13px; }
+nav.toc a { color: var(--text-2); text-decoration: none; display: block; padding: 3px 0; }
+nav.toc a:hover { color: var(--text); text-decoration: underline; }
+nav.toc .p { font-weight: 600; color: var(--text); margin-top: 6px; }
+section.part { padding-top: 34px; }
+section.part > h2 { font: 600 26px/1.2 "Source Serif 4", Georgia, serif; margin: 0 0 6px; }
+section.part > p.pd { color: var(--text-2); margin: 0 0 6px; max-width: 760px; }
+figure.chart { margin: 22px 0 0; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 18px 18px 6px; }
+figure.chart h3 { font: 600 19px/1.3 "Source Serif 4", Georgia, serif; margin: 0 0 6px; }
+figure.chart h3 .no { color: var(--text-3); font-weight: 500; margin-right: .35em; }
+.dek { color: var(--text-2); margin: 0 0 12px; max-width: 820px; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 12px; color: var(--text-2); margin: 0 0 8px; }
+.legend i { display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 6px; vertical-align: -1px; }
+.legend i.dot { border-radius: 50%; }
+.legend i.ring { background: transparent !important; border: 2px solid var(--text-3); border-radius: 50%; }
+.legend i.line { height: 2px; width: 14px; border-radius: 1px; vertical-align: 3px; }
+.legend i.dash { height: 0; width: 14px; border-radius: 0; border-top: 2px dashed; background: transparent !important; vertical-align: 3px; }
+.legend i.hatch { background-image: repeating-linear-gradient(135deg, var(--muted-mark) 0 2px, transparent 2px 5px) !important; background-color: var(--surface-2) !important; }
+.legend i.outline { background: transparent !important; border: 2px solid var(--text); border-radius: 3px; }
+.plot { width: 100%; position: relative; }
+.plot svg { display: block; width: 100%; height: auto; overflow: visible; }
+.axis text, .lbl { fill: var(--text-2); font: 11px Inter, sans-serif; font-variant-numeric: tabular-nums; }
+.lbl.strong { fill: var(--text); font-weight: 500; }
+.lbl.mut { fill: var(--text-3); }
+.axis path { display: none; }
+.axis line, .grid line { stroke: var(--grid); }
+.base { stroke: var(--text-3); stroke-width: 1; }
+.note { font-size: 12px; color: var(--text-3); margin: 10px 0 4px; line-height: 1.5; }
+.note b { color: var(--text-2); font-weight: 500; }
+details.tbl { border-top: 1px solid var(--line); margin: 10px -18px 0; }
+details.tbl > summary { font-size: 12px; color: var(--text-2); padding: 10px 18px; }
+details.tbl .scroll { max-height: 360px; overflow: auto; padding: 0 18px 12px; }
+.tip { position: fixed; pointer-events: none; z-index: 10; background: var(--surface); color: var(--text); border: 1px solid var(--line); border-radius: 10px; padding: 8px 10px; font-size: 12px; line-height: 1.45; box-shadow: 0 6px 24px rgba(0,0,0,.12); max-width: 340px; opacity: 0; transition: opacity .08s; }
+.tip b { font-weight: 600; }
+.tip .r { display: flex; justify-content: space-between; gap: 14px; }
+.tip .r span:last-child { font-variant-numeric: tabular-nums; }
+.tip .sw { display: inline-block; width: 8px; height: 8px; border-radius: 2px; margin-right: 6px; }
+.hit { fill: transparent; cursor: default; }
+.mini { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px; }
+.mini h4 { margin: 0 0 2px; font: 600 13px/1.3 Inter, sans-serif; }
+.mini p { margin: 0 0 6px; font-size: 12px; color: var(--text-2); }
+.multi { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px 18px; }
+.multi h4 { margin: 0; font: 600 13px/1.3 Inter, sans-serif; overflow-wrap: anywhere; hyphens: auto; }
+.multi p { margin: 0 0 2px; font-size: 12px; color: var(--text-2); }
+.ptiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px; margin: 4px 0 14px; }
+.ptile { background: var(--surface-2); border-radius: 10px; padding: 10px 12px; }
+.ptile .pn { font: 500 12px/1.3 Inter, sans-serif; color: var(--text-2); hyphens: auto; overflow-wrap: anywhere; }
+.ptile .pv { font-size: 12px; color: var(--text-2); margin: 2px 0; }
+.ptile .pv b { font: 600 22px/1.1 Inter, sans-serif; color: var(--text); font-variant-numeric: tabular-nums; margin-right: 2px; }
+.ptile .ps { font-size: 12px; color: var(--text-3); }
+.ptile .pbar { display: flex; gap: 2px; height: 6px; margin-top: 8px; border-radius: 3px; overflow: hidden; }
+.ptile .pbar i { display: block; }
+.sub { margin: 18px 0 4px; font: 600 13px/1.3 Inter, sans-serif; }
+footer { color: var(--text-3); font-size: 12px; padding: 40px 0 60px; }
+@media (max-width: 560px) {
+  figure.chart { padding: 14px 12px 4px; border-radius: 12px; }
+  details.tbl { margin: 10px -12px 0; }
+  details.tbl > summary { padding: 10px 12px; }
+  details.tbl .scroll { padding: 0 12px 12px; }
+  .lede { font-size: 16px; }
+  .multi { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px 10px; }
+  .ptiles { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (forced-colors: active) { .seg button[aria-pressed="true"] { outline: 2px solid CanvasText; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="top">
+  <div class="bar">
+    <span class="toggles">
+      <span class="seg" role="group" aria-label="Langue / Language"><button data-lang="fr">FR</button><button data-lang="en">EN</button></span>
+      <span class="seg" role="group" aria-label="Affichage / Theme"><button data-theme-set="auto">Auto</button><button data-theme-set="light">☀</button><button data-theme-set="dark">☾</button></span>
+    </span>
+  </div>
+  <h1 data-i="title"></h1>
+  <p class="lede" data-i="lede"></p>
+  <p class="note" id="gl-link"></p>
+  <div class="tiles" id="tiles"></div>
+  <details class="profile"><summary data-i="profile_h"></summary><div class="scroll" id="profile"></div></details>
+  <nav class="toc" id="toc"></nav>
+</header>
+<main id="main"></main>
+<footer id="foot"></footer>
+</div>
+<div class="tip" id="tip" role="status" aria-live="polite"></div>
+<script>
+const DATA = /*DATA*/null;
+</script>
+<script>
+"use strict";
+const D = DATA.charts, PF = DATA.profile;
+const LANGS = ['fr', 'en'];
+let LANG = 'fr';
+try { const q = new URLSearchParams(location.search).get('lang'); if (LANGS.includes(q)) LANG = q; else { const s = localStorage.getItem('fr-viz-lang'); if (LANGS.includes(s)) LANG = s; } } catch (e) {}
+let THEME = 'auto';
+try { const tt = localStorage.getItem('fr-viz-theme'); if (tt === 'light' || tt === 'dark') THEME = tt; } catch (e) {}
+
+// ------------------------------------------------------------------ strings
+const GL = '<a href="https://github.com/lexifina/global-law/tree/main/visualisations">global-law visualisations/</a>';
+const S = {
+fr: {
+  title: 'Le droit français en 20 graphiques',
+  lede: 'Vingt graphiques tirés uniquement des données de ce dépôt : l’historique de LEGI, la base de Légifrance, version d’article par version d’article. La Constitution, 77 codes et 118 773 autres textes en vigueur le 28 octobre 2026 (lois, ordonnances, décrets, arrêtés), et pour chacune des {versions} versions d’articles, le jour de son entrée en vigueur et le texte qui l’a écrite.',
+  profile_h: 'Profil des données : ce qui a été utilisé et dans quelle mesure c’est complet',
+  tbl: 'Tableau des données', src: 'Source dans le dépôt', n: 'Enregistrements', cover: 'Couverture', caveat: 'Limite',
+  ds: 'Données', foot: 'Construit à partir du dépôt lexifina/france-law ({built}). Source des textes : Direction de l’information légale et administrative (DILA), base LEGI, réutilisée sous la Licence Ouverte 2.0 (Etalab) ; dernière mise à jour des données : 28 octobre 2026. Les chiffres sont calculés par visualisations/src/prep.py à partir de l’historique git, de l’arborescence et des fichiers index.md ; build.py assemble la page. Tous les graphiques sont descriptifs : ils montrent ce que les sources enregistrent, pas pourquoi.',
+  tiles: ['articles en vigueur', 'codes', 'autres textes en vigueur', 'versions d’articles', 'commits de droit', 'textes dans l’historique'],
+  year: 'Année', total: 'Total', share: 'Part', count: 'Nombre', partial: 'incomplet', days: 'jours',
+  gl: 'Des graphiques sur le droit de tous les pays, tirés de l’ensemble de global-law : ' + GL + '. Ici figurent uniquement les graphiques sur la France.',
+},
+en: {
+  title: 'French law in 20 charts',
+  lede: 'Twenty charts drawn only from the data in this repository: the history of LEGI, the database behind Légifrance, one article version at a time. The Constitution, 77 codes and 118,773 other texts in force on 28 October 2026 (laws, ordinances, decrees and ministerial orders), and for each of the {versions} article versions, the day it took effect and the text that wrote it.',
+  profile_h: 'Data profile: what was used and how complete it is',
+  tbl: 'Data table', src: 'Source in the repository', n: 'Records', cover: 'Coverage', caveat: 'Limit',
+  ds: 'Dataset', foot: 'Built from the lexifina/france-law repository ({built}). Source of the texts: Direction de l’information légale et administrative (DILA), LEGI database, reused under the Licence Ouverte 2.0 (Etalab); data last updated 28 October 2026. The numbers are computed by visualisations/src/prep.py from the git history, the tree and the index.md files; build.py assembles the page. All charts are descriptive: they show what the sources record, not why.',
+  tiles: ['articles in force', 'codes', 'other texts in force', 'article versions', 'law commits', 'texts in the history'],
+  year: 'Year', total: 'Total', share: 'Share', count: 'Count', partial: 'partial', days: 'days',
+  gl: 'Charts on every country’s law, from the whole of global-law: ' + GL + '. These are the charts on France alone.',
+}};
+// French: a narrow no-break space before : ; ! ? » and after «, so the sign never starts a line.
+const NNB = ' ', NB = ' ';
+const FRP = s => typeof s === 'string' ? s.replace(/ ([:;!?»])/g, NNB + '$1').replace(/« /g, '«' + NNB) : s;
+const t = k => LANG === 'fr' ? FRP(S.fr[k]) : S[LANG][k];
+const L = (fr, en) => LANG === 'fr' ? FRP(fr) : en;
+const LA = a => Array.isArray(a) ? L(a[0], a[1]) : a;
+// French: a narrow no-break space between thousands, a decimal comma and a narrow no-break space before %; English: en-GB.
+const grp = s => s.replace(/\B(?=(\d{3})+(?!\d))/g, LANG === 'fr' ? NNB : ',');
+const dec = (v, d = 1) => { const s = Math.abs(+v).toFixed(d); const [a, b] = s.split('.'); return (+v < 0 && +s !== 0 ? '−' : '') + grp(a) + (b ? (LANG === 'en' ? '.' : ',') + b : ''); };
+const fmt = n => (n == null ? '–' : Number.isInteger(+n) ? (+n < 0 ? '−' : '') + grp(String(Math.abs(Math.round(+n)))) : dec(+n, 1));
+const pv = (v, d = 0) => dec(v, d) + (LANG === 'en' ? '%' : NNB + '%');
+const pct = (a, b, d = 0) => b ? pv(100 * a / b, d) : '–';
+const MFR = ['janvier', 'février', 'mars', 'avril', 'mai', 'juin', 'juillet', 'août', 'septembre', 'octobre', 'novembre', 'décembre'];
+const MEN = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+const MON = { fr: ['janv.', 'févr.', 'mars', 'avr.', 'mai', 'juin', 'juil.', 'août', 'sept.', 'oct.', 'nov.', 'déc.'], en: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'] };
+const DOW = { fr: ['lundi', 'mardi', 'mercredi', 'jeudi', 'vendredi', 'samedi', 'dimanche'], en: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'] };
+const monthName = m => L(MFR, MEN)[m - 1];
+const dateTxt = s => { const [y, m, d] = s.split('-').map(Number); return LANG === 'fr' ? `${d === 1 ? '1er' : d}${NB}${MFR[m - 1]} ${y}` : `${d} ${MEN[m - 1]} ${y}`; };
+const dateShort = s => { const [y, m, d] = s.split('-').map(Number); return LANG === 'fr' ? `${d === 1 ? '1er' : d}${NB}${MON.fr[m - 1]} ${y}` : `${d} ${MON.en[m - 1]} ${y}`; };
+const dayMonth = (m, d) => LANG === 'fr' ? `${d === 1 ? '1er' : d}${NB}${MFR[m - 1]}` : `${d} ${MEN[m - 1]}`;
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const S8 = () => [1, 2, 3, 4, 5, 6, 7, 8].map(i => css('--s' + i));
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const sum = (a, f) => a.reduce((s, d) => s + (f ? f(d) : d), 0);
+const PD = s => d3.timeParse('%Y-%m-%d')(s);
+const DAYS = (a, b) => Math.round((PD(b) - PD(a)) / 864e5);
+const Cap = s => s.charAt(0).toUpperCase() + s.slice(1);
+// nouns after a number: nn(5, ['loi', 'lois'], ['law', 'laws'])
+const nn = (n, fr, en) => { const w = L(fr, en); return `${fmt(n)} ${(LANG === 'fr' ? n < 2 : n === 1) ? w[0] : w[1]}`; };
+const andList = a => a.length < 2 ? a.join('') : a.slice(0, -1).join(', ') + L(' et ', ' and ') + a[a.length - 1];
+const times = v => LANG === 'fr' ? `${dec(v, v < 10 ? 1 : 0)}${NB}fois` : `${dec(v, v < 10 ? 1 : 0)} times`;
+
+// ------------------------------------------------------------------ tooltip
+const tip = document.getElementById('tip');
+function showTip(ev, html) { tip.innerHTML = html; tip.style.opacity = 1; moveTip(ev); }
+function moveTip(ev) {
+  const r = tip.getBoundingClientRect(), pad = 14;
+  let x = ev.clientX + pad, y = ev.clientY + pad;
+  if (x + r.width > innerWidth - 8) x = ev.clientX - r.width - pad;
+  if (y + r.height > innerHeight - 8) y = ev.clientY - r.height - pad;
+  tip.style.left = Math.max(8, x) + 'px'; tip.style.top = Math.max(8, y) + 'px';
+}
+function hideTip() { tip.style.opacity = 0; }
+function bindTip(sel, fn) {
+  sel.on('mouseenter', (ev, d) => showTip(ev, fn(d))).on('mousemove', moveTip).on('mouseleave', hideTip)
+     .on('touchstart', (ev, d) => { const tt = ev.touches[0]; showTip({ clientX: tt.clientX, clientY: tt.clientY }, fn(d)); }, { passive: true });
+}
+const trow = (sw, k, v) => `<div class="r"><span>${sw ? `<i class="sw" style="background:${sw}"></i>` : ''}${esc(k)}</span><span>${v}</span></div>`;
+
+// ------------------------------------------------------------------ chart scaffolding
+function legend(el, items) {
+  const lg = el.append('div').attr('class', 'legend');
+  items.forEach(it => { const s = lg.append('span'); s.append('i').attr('class', it.shape || '').style('background', it.c).style('border-color', it.c); s.append('span').text(it.l); });
+}
+function svgIn(el, w, h) { return el.append('div').attr('class', 'plot').append('svg').attr('viewBox', `0 0 ${w} ${h}`).attr('width', w).attr('height', h).attr('role', 'img'); }
+function table(el, head, rows) {
+  const d = el.append('details').attr('class', 'tbl');
+  d.append('summary').text(t('tbl'));
+  const tb = d.append('div').attr('class', 'scroll').append('table');
+  tb.append('thead').append('tr').selectAll('th').data(head).join('th').attr('class', (h, i) => i ? 'n' : null).text(h => h);
+  tb.append('tbody').selectAll('tr').data(rows).join('tr').selectAll('td').data(r => r).join('td').attr('class', (v, i) => i ? 'n' : null).text(v => typeof v === 'number' ? fmt(v) : v);
+  return d;
+}
+// a second table under the first, inside the same "data table" fold
+function subTable(el, heading, head, rows, numeric) {
+  const nd = el.select('details.tbl:last-of-type .scroll');
+  nd.append('h4').style('margin', '14px 0 6px').style('font', '600 13px/1.3 Inter, sans-serif').text(heading);
+  const tb = nd.append('table');
+  tb.append('thead').append('tr').selectAll('th').data(head).join('th').attr('class', (h, i) => numeric && numeric[i] ? 'n' : null).text(x => x);
+  tb.append('tbody').selectAll('tr').data(rows).join('tr').selectAll('td').data(r => r).join('td').attr('class', (v, i) => numeric && numeric[i] ? 'n' : null).text(v => typeof v === 'number' ? fmt(v) : v);
+}
+// path placeholders, by language
+const PH = { '<CODE>': ['<code>', '<code>'], '<NATURE>': ['<nature>', '<nature>'], '<YEAR>': ['<année>', '<year>'], '<TEXT>': ['<texte>', '<text>'], '<ARTICLE>': ['<article>', '<article>'] };
+function note(el, src, n, extra) {
+  const p = el.append('p').attr('class', 'note');
+  const tr = s => Object.entries(PH).reduce((a, [x, y]) => a.split(x).join(LA(y)), s);
+  const co = LANG === 'fr' ? NNB + ':' : ':';
+  p.html(`<b>${t('src')}${co}</b> ${src.map(s => `<code>${esc(tr(s))}</code>`).join(' ')} · <b>${t('n')}${co}</b> ${n}${extra ? ' · ' + esc(extra) : ''}`);
+}
+function yAxis(g, y, w, ticks = 5, f = fmt) {
+  const ax = g.append('g').attr('class', 'axis grid');
+  y.ticks(ticks).forEach(v => {
+    ax.append('line').attr('x1', 0).attr('x2', w).attr('y1', y(v)).attr('y2', y(v));
+    ax.append('text').attr('x', -6).attr('y', y(v)).attr('dy', '0.32em').attr('text-anchor', 'end').text(f(v));
+  });
+}
+const W = el => Math.max(300, Math.min(1000, el.node().getBoundingClientRect().width || 900));
+const WR = el => Math.max(120, el.node().getBoundingClientRect().width || 300);
+const narrow = w => w < 560;
+function colPath(x, y0, w, y1, r = 4) {
+  const h = y0 - y1; if (h <= 0) return '';
+  r = Math.min(r, h, w / 2);
+  return `M${x},${y0}V${y1 + r}Q${x},${y1} ${x + r},${y1}H${x + w - r}Q${x + w},${y1} ${x + w},${y1 + r}V${y0}Z`;
+}
+function barPath(x0, y, x1, h, r = 4) {
+  const w = x1 - x0; if (w <= 0) return '';
+  r = Math.min(r, w, h / 2);
+  return `M${x0},${y}H${x1 - r}Q${x1},${y} ${x1},${y + r}V${y + h - r}Q${x1},${y + h} ${x1 - r},${y + h}H${x0}Z`;
+}
+// a diagonal-line pattern for spans the repository does not hold
+let HATCH = 0;
+function hatch(svg) {
+  const id = 'hatch' + (++HATCH);
+  const p = svg.append('defs').append('pattern').attr('id', id).attr('patternUnits', 'userSpaceOnUse').attr('width', 6).attr('height', 6).attr('patternTransform', 'rotate(45)');
+  p.append('rect').attr('width', 6).attr('height', 6).attr('fill', css('--surface-2'));
+  p.append('line').attr('x1', 0).attr('y1', 0).attr('x2', 0).attr('y2', 6).attr('stroke', css('--muted-mark')).attr('stroke-width', 1.4);
+  return `url(#${id})`;
+}
+// rows of 100% bands with rounded ends and the shares inside
+function bands(el, rows, keys, colors, names, opt) {
+  const w = W(el), nw = narrow(w), rowH = opt.rowH || 34, m = { t: 4, r: nw ? (opt.rn || 58) : (opt.r || 86), b: 22, l: nw ? (opt.ln || 52) : (opt.l || 90) };
+  const h = m.t + m.b + rowH * rows.length, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+  const iw = w - m.l - m.r, x = d3.scaleLinear().domain([0, 1]).range([0, iw]);
+  [0, .25, .5, .75, 1].forEach(v => g.append('text').attr('class', 'lbl mut').attr('x', x(v)).attr('y', rowH * rows.length + 14).attr('text-anchor', 'middle').text(pv(100 * v)));
+  const id0 = 'bd' + (++HATCH);
+  rows.forEach((r, i) => {
+    const y0 = i * rowH + 6, bh = rowH - 12, tot = sum(keys, k => r[k] || 0), id = id0 + '_' + i;
+    if (!tot) return;
+    g.append('clipPath').attr('id', id).append('rect').attr('x', 0).attr('y', y0).attr('width', iw).attr('height', bh).attr('rx', bh / 2);
+    const row = g.append('g').attr('clip-path', `url(#${id})`).attr('opacity', opt.partial && opt.partial(r) ? .55 : 1);
+    let acc = 0;
+    keys.forEach((k, j) => {
+      const v = r[k] || 0; if (!v) return;
+      const x0 = x(acc / tot), x1 = x((acc + v) / tot); acc += v;
+      row.append('rect').attr('x', x0).attr('width', Math.max(0, x1 - x0 - (acc < tot ? 1.5 : 0))).attr('y', y0).attr('height', bh).attr('fill', colors[j]);
+      if (x1 - x0 > (opt.minIn || 34)) row.append('text').attr('class', 'lbl').attr('x', (x0 + x1) / 2).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'middle')
+        .style('fill', inkOn(colors[j])).style('pointer-events', 'none').text(pct(v, tot));
+    });
+    g.append('text').attr('class', 'lbl strong').attr('x', -10).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'end').text(opt.label(r, nw));
+    g.append('text').attr('class', 'lbl strong').attr('x', iw + 10).attr('y', y0 + bh / 2 + 4).text(opt.right(r, nw));
+    bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', w).attr('y', i * rowH).attr('height', rowH).datum(r),
+      d => `<b>${esc(opt.label(d, false))}</b>` + keys.map((k, j) => d[k] ? trow(colors[j], names[j], `${fmt(d[k])} · ${pct(d[k], tot)}`) : '').join('') + (opt.tipExtra ? opt.tipExtra(d) : trow(null, t('total'), fmt(tot))));
+  });
+  return { svg, g, iw };
+}
+// horizontal bars split into segments, label on the left, total on the right
+function splitBars(el, rows, keys, colors, names, opt) {
+  const w = W(el), nw = narrow(w), rowH = opt.rowH || 26, m = { t: 2, r: nw ? (opt.rrn || opt.rr || 44) : (opt.rr || 44), b: 4, l: nw ? (opt.ln || 120) : (opt.l || 230) };
+  const svg = svgIn(el, w, m.t + m.b + rowH * rows.length), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+  const tot = r => sum(keys, k => r[k] || 0);
+  const iw = w - m.l - m.r, x = d3.scaleLinear().domain([0, opt.max || d3.max(rows, tot)]).range([0, iw]);
+  rows.forEach((r, i) => {
+    const cy = i * rowH, bh = Math.min(15, rowH - 9);
+    g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + rowH / 2 + 4).attr('text-anchor', 'end').text(opt.label(r, nw));
+    let acc = 0; const segs = keys.map((k, j) => ({ k, j, v: r[k] || 0 })).filter(s => s.v);
+    segs.forEach((s, q) => {
+      const x0 = x(acc), x1 = x(acc + s.v); acc += s.v;
+      const last = q === segs.length - 1;
+      g.append('path').attr('d', last ? barPath(x0, cy + (rowH - bh) / 2, x1, bh, 3) : `M${x0},${cy + (rowH - bh) / 2}h${Math.max(0, x1 - x0 - 1)}v${bh}h${-Math.max(0, x1 - x0 - 1)}Z`).attr('fill', colors[s.j]);
+    });
+    g.append('text').attr('class', 'lbl').attr('x', x(tot(r)) + 6).attr('y', cy + rowH / 2 + 4).text(opt.right ? opt.right(r, nw) : fmt(tot(r)));
+    bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', w).attr('y', cy).attr('height', rowH).datum(r),
+      d => `<b>${esc(opt.label(d, false))}</b>` + (opt.tipHead ? opt.tipHead(d) : '') + keys.map((k, j) => d[k] ? trow(colors[j], names[j], fmt(d[k])) : '').join('') + trow(null, t('total'), fmt(tot(d))) + (opt.tipExtra ? opt.tipExtra(d) : ''));
+  });
+  return { svg, g, x, iw };
+}
+// text on a filled cell: dark on light fills, white on dark ones (the fills differ between the themes)
+const inkOn = c => d3.hsl(c).l > 0.6 ? '#0b0b0b' : '#fff';
+const grad = (svg, id, color, a = .3) => { const lg = svg.append('defs').append('linearGradient').attr('id', id).attr('x1', 0).attr('x2', 0).attr('y1', 0).attr('y2', 1);
+  lg.append('stop').attr('offset', '0%').attr('stop-color', color).attr('stop-opacity', a); lg.append('stop').attr('offset', '100%').attr('stop-color', color).attr('stop-opacity', .02); return `url(#${id})`; };
+const seqRamp = () => d3.interpolateRgb(css('--seq-lo'), css('--seq-hi'));
+const h4 = (el, txt, mt = 14) => el.append('h4').style('margin', `${mt}px 0 4px`).style('font', '600 13px/1.3 Inter, sans-serif').text(txt);
+// the widest of these strings in a chart's label style, in pixels (measured as drawn: the page draws again once the web fonts have loaded)
+const textW = (el, strs, cls = 'lbl strong') => { const sv = el.append('svg').attr('width', 0).attr('height', 0).style('position', 'absolute'), tx = sv.append('text').attr('class', cls);
+  const w = d3.max(strs, q => { tx.text(q); return tx.node().getComputedTextLength(); }) || 0; sv.remove(); return w; };
+// a label with a halo in the surface colour, so it stays legible over marks
+const halo = (g, x, y, txt, anchor = 'start', cls = 'lbl strong', fill = null) => g.append('text').attr('class', cls).attr('x', x).attr('y', y).attr('text-anchor', anchor)
+  .style('fill', fill).style('paint-order', 'stroke').style('stroke', css('--surface')).style('stroke-width', 4).style('stroke-linejoin', 'round').text(txt);
+
+// ------------------------------------------------------------------ names
+// the kinds of text: where an article sits (its folder) or which kind of text wrote a version (the commit's author)
+const KN = { const: ['Constitutions', 'Constitutions'], code: ['codes', 'codes'], loi: ['lois', 'laws'], lo: ['lois organiques', 'organic laws'], lc: ['lois constitutionnelles', 'constitutional laws'],
+  ord: ['ordonnances', 'ordinances'], dec: ['décrets', 'decrees'], arr: ['arrêtés', 'orders'], aut: ['autres textes', 'other texts'], jug: ['décisions de justice', 'court decisions'],
+  dila: ['non attribué', 'unattributed'], oth: ['autres', 'other'] };
+const KN1 = { loi: ['loi', 'law'], ord: ['ordonnance', 'ordinance'], dec: ['décret', 'decree'], arr: ['arrêté', 'order'], code: ['code', 'code'], lo: ['loi organique', 'organic law'] };
+const kn = k => LA(KN[k] || [k, k]);
+const KCOL = { loi: '--s1', lo: '--s1', lc: '--s1', ord: '--s2', dec: '--s3', arr: '--s4', code: '--s7', jug: '--s8', oth: '--s8', aut: '--s5', const: '--s6', dila: '--muted-mark' };
+const kcol = k => css(KCOL[k] || '--muted-mark');
+// the codes: [French name, English name, French short name, English short name]
+const CODES = {
+  'code-civil': ['Code civil', 'Civil Code', 'Civil', 'Civil'],
+  'code-de-commerce': ['Code de commerce', 'Commercial Code', 'Commerce', 'Commercial'],
+  'code-de-deontologie-des-architectes': ['Code de déontologie des architectes', 'Architects’ Code of Ethics', 'Architectes', 'Architects'],
+  'code-de-justice-administrative': ['Code de justice administrative', 'Code of Administrative Justice', 'Justice administrative', 'Admin. justice'],
+  'code-de-justice-militaire-071360': ['Code de justice militaire', 'Code of Military Justice', 'Justice militaire', 'Military justice'],
+  'code-de-justice-militaire': ['Code de justice militaire (ancien)', 'Code of Military Justice (old)', 'Justice militaire (anc.)', 'Military justice (old)'],
+  'code-de-l-action-sociale-et-des-familles': ['Code de l’action sociale et des familles', 'Social Action and Families Code', 'Action sociale', 'Social action'],
+  'code-de-l-artisanat': ['Code de l’artisanat', 'Crafts Code', 'Artisanat', 'Crafts'],
+  'code-de-l-aviation-civile': ['Code de l’aviation civile', 'Civil Aviation Code', 'Aviation civile', 'Civil aviation'],
+  'code-de-l-education': ['Code de l’éducation', 'Education Code', 'Éducation', 'Education'],
+  'code-de-l-energie': ['Code de l’énergie', 'Energy Code', 'Énergie', 'Energy'],
+  'code-de-l-entree-et-du-sejour-des-etrangers-et-du-droit-d-asile': ['Code de l’entrée et du séjour des étrangers et du droit d’asile', 'Code of Entry and Residence of Foreigners and of the Right of Asylum', 'Étrangers et asile', 'Foreigners, asylum'],
+  'code-de-l-environnement': ['Code de l’environnement', 'Environmental Code', 'Environnement', 'Environment'],
+  'code-de-l-expropriation-pour-cause-d-utilite-publique': ['Code de l’expropriation pour cause d’utilité publique', 'Code of Expropriation in the Public Interest', 'Expropriation', 'Expropriation'],
+  'code-de-l-organisation-judiciaire': ['Code de l’organisation judiciaire', 'Code of Judicial Organisation', 'Organisation judiciaire', 'Judicial organisation'],
+  'code-de-l-urbanisme': ['Code de l’urbanisme', 'Town Planning Code', 'Urbanisme', 'Town planning'],
+  'code-de-la-commande-publique': ['Code de la commande publique', 'Public Procurement Code', 'Commande publique', 'Procurement'],
+  'code-de-la-consommation': ['Code de la consommation', 'Consumer Code', 'Consommation', 'Consumer'],
+  'code-de-la-construction-et-de-l-habitation': ['Code de la construction et de l’habitation', 'Construction and Housing Code', 'Construction', 'Construction'],
+  'code-de-la-defense': ['Code de la défense', 'Defence Code', 'Défense', 'Defence'],
+  'code-de-la-famille-et-de-l-aide-sociale': ['Code de la famille et de l’aide sociale', 'Family and Social Assistance Code', 'Famille et aide sociale', 'Family, social aid'],
+  'code-de-la-justice-penale-des-mineurs': ['Code de la justice pénale des mineurs', 'Juvenile Criminal Justice Code', 'Justice pénale des mineurs', 'Juvenile justice'],
+  'code-de-la-legion-d-honneur-et-de-la-medaille-militaire': ['Code de la Légion d’honneur et de la médaille militaire', 'Code of the Legion of Honour and the Military Medal', 'Légion d’honneur', 'Legion of Honour'],
+  'code-de-la-mutualite': ['Code de la mutualité', 'Mutual Insurance Code', 'Mutualité', 'Mutual insurance'],
+  'code-de-la-propriete-intellectuelle': ['Code de la propriété intellectuelle', 'Intellectual Property Code', 'Propriété intellectuelle', 'Intellectual property'],
+  'code-de-la-recherche': ['Code de la recherche', 'Research Code', 'Recherche', 'Research'],
+  'code-de-la-route': ['Code de la route', 'Highway Code', 'Route', 'Highway'],
+  'code-de-la-sante-publique': ['Code de la santé publique', 'Public Health Code', 'Santé publique', 'Public health'],
+  'code-de-la-securite-interieure': ['Code de la sécurité intérieure', 'Internal Security Code', 'Sécurité intérieure', 'Internal security'],
+  'code-de-la-securite-sociale': ['Code de la sécurité sociale', 'Social Security Code', 'Sécurité sociale', 'Social security'],
+  'code-de-la-voirie-routiere': ['Code de la voirie routière', 'Roads Code', 'Voirie routière', 'Roads'],
+  'code-de-procedure-civile': ['Code de procédure civile', 'Code of Civil Procedure', 'Procédure civile', 'Civil procedure'],
+  'code-de-procedure-penale': ['Code de procédure pénale', 'Code of Criminal Procedure', 'Procédure pénale', 'Criminal procedure'],
+  'code-des-assurances': ['Code des assurances', 'Insurance Code', 'Assurances', 'Insurance'],
+  'code-des-communes': ['Code des communes', 'Municipalities Code', 'Communes', 'Municipalities'],
+  'code-des-communes-de-la-nouvelle-caledonie': ['Code des communes de la Nouvelle-Calédonie', 'Municipalities Code of New Caledonia', 'Communes (N.-Calédonie)', 'Municipalities (N. Caledonia)'],
+  'code-des-douanes': ['Code des douanes', 'Customs Code', 'Douanes', 'Customs'],
+  'code-des-impositions-sur-les-biens-et-services': ['Code des impositions sur les biens et services', 'Code of Taxes on Goods and Services', 'Impositions biens et services', 'Taxes on goods, services'],
+  'code-des-instruments-monetaires-et-des-medailles': ['Code des instruments monétaires et des médailles', 'Code of Coins and Medals', 'Monnaies et médailles', 'Coins and medals'],
+  'code-des-juridictions-financieres': ['Code des juridictions financières', 'Financial Courts Code', 'Juridictions financières', 'Financial courts'],
+  'code-des-pensions-civiles-et-militaires-de-retraite': ['Code des pensions civiles et militaires de retraite', 'Civil and Military Retirement Pensions Code', 'Pensions de retraite', 'Retirement pensions'],
+  'code-des-pensions-de-retraite-des-marins-francais-du-commerce-de-peche-ou-de-pla': ['Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance', 'Seafarers’ Retirement Pensions Code', 'Pensions des marins', 'Seafarers’ pensions'],
+  'code-des-pensions-militaires-d-invalidite-et-des-victimes-de-guerre': ['Code des pensions militaires d’invalidité et des victimes de guerre (ancien)', 'Military Invalidity and War Victims Pensions Code (old)', 'Pensions militaires (anc.)', 'Military pensions (old)'],
+  'code-des-pensions-militaires-d-invalidite-et-des-victimes-de-la-guerre': ['Code des pensions militaires d’invalidité et des victimes de la guerre', 'Military Invalidity and War Victims Pensions Code', 'Pensions militaires', 'Military pensions'],
+  'code-des-ports-maritimes': ['Code des ports maritimes', 'Seaports Code', 'Ports maritimes', 'Seaports'],
+  'code-des-postes-et-des-communications-electroniques': ['Code des postes et des communications électroniques', 'Postal and Electronic Communications Code', 'Postes et communications', 'Post, telecoms'],
+  'code-des-procedures-civiles-d-execution': ['Code des procédures civiles d’exécution', 'Code of Civil Enforcement Procedures', 'Procédures d’exécution', 'Enforcement'],
+  'code-des-relations-entre-le-public-et-l-administration': ['Code des relations entre le public et l’administration', 'Code of Relations between the Public and the Administration', 'Relations avec l’administration', 'Public and administration'],
+  'code-des-transports': ['Code des transports', 'Transport Code', 'Transports', 'Transport'],
+  'code-disciplinaire-et-penal-de-la-marine-marchande': ['Code disciplinaire et pénal de la marine marchande', 'Merchant Navy Disciplinary and Penal Code', 'Marine marchande', 'Merchant navy'],
+  'code-du-cinema-et-de-l-image-animee': ['Code du cinéma et de l’image animée', 'Cinema and Moving Image Code', 'Cinéma', 'Cinema'],
+  'code-du-domaine-de-l-etat': ['Code du domaine de l’État', 'State Property Code', 'Domaine de l’État', 'State property'],
+  'code-du-domaine-de-l-etat-et-des-collectivites-publiques-applicable-a-la-collect': ['Code du domaine de l’État et des collectivités publiques applicable à Mayotte', 'State and Public Bodies Property Code for Mayotte', 'Domaine (Mayotte)', 'Property (Mayotte)'],
+  'code-du-domaine-public-fluvial-et-de-la-navigation-interieure': ['Code du domaine public fluvial et de la navigation intérieure', 'Inland Waterways and Navigation Code', 'Domaine fluvial', 'Inland waterways'],
+  'code-du-patrimoine': ['Code du patrimoine', 'Heritage Code', 'Patrimoine', 'Heritage'],
+  'code-du-service-national': ['Code du service national', 'National Service Code', 'Service national', 'National service'],
+  'code-du-sport': ['Code du sport', 'Sports Code', 'Sport', 'Sports'],
+  'code-du-tourisme': ['Code du tourisme', 'Tourism Code', 'Tourisme', 'Tourism'],
+  'code-du-travail': ['Code du travail', 'Labour Code', 'Travail', 'Labour'],
+  'code-du-travail-maritime': ['Code du travail maritime', 'Maritime Labour Code', 'Travail maritime', 'Maritime labour'],
+  'code-du-travail-applicable-a-mayotte': ['Code du travail applicable à Mayotte', 'Labour Code applicable in Mayotte', 'Travail (Mayotte)', 'Labour (Mayotte)'],
+  'code-electoral': ['Code électoral', 'Electoral Code', 'Électoral', 'Electoral'],
+  'code-forestier-nouveau': ['Code forestier', 'Forestry Code', 'Forestier', 'Forestry'],
+  'code-forestier': ['Code forestier (ancien)', 'Forestry Code (old)', 'Forestier (anc.)', 'Forestry (old)'],
+  'code-general-de-la-fonction-publique': ['Code général de la fonction publique', 'General Civil Service Code', 'Fonction publique', 'Civil service'],
+  'code-general-de-la-propriete-des-personnes-publiques': ['Code général de la propriété des personnes publiques', 'General Code of Public Property', 'Propriété publique', 'Public property'],
+  'code-general-des-collectivites-territoriales': ['Code général des collectivités territoriales', 'General Code of Local Authorities', 'Collectivités territoriales', 'Local authorities'],
+  'code-general-des-impots-annexe-i-cgiani': ['Code général des impôts, annexe I', 'General Tax Code, Annex I', 'CGI, annexe I', 'Tax Code, Annex I'],
+  'code-general-des-impots-annexe-ii-cgianii': ['Code général des impôts, annexe II', 'General Tax Code, Annex II', 'CGI, annexe II', 'Tax Code, Annex II'],
+  'code-general-des-impots-annexe-iii-cgianiii': ['Code général des impôts, annexe III', 'General Tax Code, Annex III', 'CGI, annexe III', 'Tax Code, Annex III'],
+  'code-general-des-impots-annexe-iv-cgianiv': ['Code général des impôts, annexe IV', 'General Tax Code, Annex IV', 'CGI, annexe IV', 'Tax Code, Annex IV'],
+  'code-general-des-impots-cgi': ['Code général des impôts', 'General Tax Code', 'Impôts (CGI)', 'Tax Code'],
+  'code-minier': ['Code minier (ancien)', 'Mining Code (old)', 'Minier (anc.)', 'Mining (old)'],
+  'code-minier-nouveau': ['Code minier', 'Mining Code', 'Minier', 'Mining'],
+  'code-monetaire-et-financier': ['Code monétaire et financier', 'Monetary and Financial Code', 'Monétaire et financier', 'Monetary, financial'],
+  'code-penal': ['Code pénal', 'Criminal Code', 'Pénal', 'Criminal'],
+  'code-penitentiaire': ['Code pénitentiaire', 'Prison Code', 'Pénitentiaire', 'Prison'],
+  'code-rural': ['Code rural et de la pêche maritime', 'Rural and Maritime Fishing Code', 'Rural', 'Rural'],
+  'code-rural-ancien': ['Code rural (ancien)', 'Rural Code (old)', 'Rural (anc.)', 'Rural (old)'],
+  'livre-des-procedures-fiscales': ['Livre des procédures fiscales', 'Book of Tax Procedures', 'Procédures fiscales', 'Tax procedures'] };
+const cname = (k, short) => CODES[k] ? (short ? L(CODES[k][2], CODES[k][3]) : L(CODES[k][0], CODES[k][1])) : k;
+// "du Code civil" / "of the Civil Code"
+const cof = k => { const n = cname(k); return LANG === 'fr' ? 'du ' + n.replace(/^Code /, 'Code ') : 'of the ' + n; };
+// an article's number as the codes print it: R251 -> R. 251, L950-1 -> L. 950-1, 1466-A -> 1466 A, Annexe-II-1-art-A212-1 -> annexe II-1 (art. A. 212-1)
+const artNo = s => {
+  let m = s.match(/^Annexe-(.+?)-art-([LRDA])(\d.*)$/i);
+  if (m) return L(`annexe ${m[1]} (art. ${m[2]}. ${m[3]})`, `annex ${m[1]} (art. ${m[2]}. ${m[3]})`);
+  m = s.match(/^(LO|L|R|D|A)\*?(\d.*)$/);
+  const tail = x => x.replace(/-([A-Z])$/, ' $1').replace(/-(bis|ter|quater|quinquies|sexies|septies|octies|nonies|decies)$/i, ' $1');
+  return m ? `${m[1]}. ${tail(m[2])}` : tail(s);
+};
+// a text's name from its author line: "Loi n° 2016-1088 du 8 août 2016" stays French in both languages (it is the text's name)
+// a text's name, from a commit's author line ("Loi n° 2016-1088 du 8 août 2016"), in the page's language
+const MI = Object.fromEntries(MFR.map((m, i) => [m, i]));
+const tname = a => {
+  if (a === 'Légifrance (DILA), version consolidée') return L('non attribué (Légifrance, version consolidée)', 'unattributed (Légifrance, consolidated version)');
+  if (LANG === 'fr') return a;
+  const KIND = [['Loi constitutionnelle', 'Constitutional Law'], ['Loi organique', 'Organic Law'], ['Loi', 'Law'], ['Ordonnance', 'Ordinance'], ['Décret-loi', 'Decree-law'],
+    ['Décret', 'Decree'], ['Arrêté', 'Order'], ['Décision', 'Decision'], ['Délibération', 'Deliberation'], ['Constitution', 'Constitution']];
+  let s = a;
+  for (const [f, e] of KIND) if (s.startsWith(f)) { s = e + s.slice(f.length); break; }
+  return s.replace(/ n° /, ' No. ').replace(/ du (\d{1,2})(?:er)? ([a-zéû]+) (\d{4})/, (m0, d, m, y) => MI[m] != null ? ` of ${+d} ${MEN[MI[m]]} ${y}` : m0);
+};
+// a law's number and date only: "Loi n° 2016-1088 du 8 août 2016"
+const lawShort = (k, sig) => { const [kind, num] = k.split(':'); return LANG === 'fr' ? `${kind === 'ord' ? 'Ordonnance' : 'Loi'} n° ${num}` : `${kind === 'ord' ? 'Ordinance' : 'Law'} No. ${num}`; };
+
+
+// ------------------------------------------------------------------ the charts
+const CH = [];
+const part = (id, fr, en, dfr, den) => CH.push({ part: true, id, fr, en, dfr, den });
+const chart = (id, fn) => CH.push({ id, fn });
+
+part('p1', 'I. Le droit en vigueur', 'I. The law in force',
+  'Ce que LEGI, la base de Légifrance, tenait pour en vigueur le 28 octobre 2026 : combien d’articles, dans quels textes, depuis quand, et comment ce stock a grandi depuis 1990. Un article est un fichier de ce dépôt ; un texte est un dossier.',
+  'What LEGI, the database behind Légifrance, held to be in force on 28 October 2026: how many articles, in which texts, since when, and how that stock has grown since 1990. An article is one file in this repository; a text is one folder.');
+
+const KORD = ['loi', 'ord', 'dec', 'arr', 'code', 'const', 'aut'];
+// the longest texts outside the codes: [French, English] subject
+const BIGT = { 'textes/arrete/1987/arrete-1987-11-23-086401': ['sécurité des navires', 'ship safety'],
+  'textes/arrete/2004/arrete-2004-11-12-441606': ['règlement général de l’Autorité des marchés financiers', 'general regulation of the financial markets authority (AMF)'],
+  'textes/arrete/1965/arrete-1965-03-23-271908': ['sécurité incendie des établissements recevant du public', 'fire safety in buildings open to the public'],
+  'textes/arrete/1980/arrete-1980-06-25-303557': ['sécurité incendie des établissements recevant du public', 'fire safety in buildings open to the public'],
+  'textes/arrete/2024/arrete-2024-12-19-799729': ['assurance chômage', 'unemployment insurance'],
+  'textes/arrete/2006/arrete-2006-06-06-054100': ['règlement général d’emploi de la police nationale', 'employment rules of the national police'],
+  'textes/decret/1991/decret-91-1197': ['profession d’avocat', 'the profession of avocat (lawyer)'],
+  'textes/loi/1999/loi-99-209': ['Nouvelle-Calédonie', 'New Caledonia'] };
+const bigName = (fo, title) => {
+  const m = title.match(/^(\S+)(?: n° ?([\d-]+))?( organique)? du (\d{1,2}(?:er)? \S+ \d{4})/), what = BIGT[fo] ? LA(BIGT[fo]) : title.replace(/^.*?\d{4}\s*/, '').slice(0, 50);
+  if (!m) return title.slice(0, 60);
+  const kind = (m[1] === 'LOI' ? 'Loi' : m[1]) + (m[3] ? ' organique' : '');
+  return `${tname(`${kind}${m[2] ? ' n° ' + m[2] : ''} du ${m[4]}`)} · ${what}`; };
+chart('c01', el => {
+  const c = D.c01, R = Object.fromEntries(c.rows.map(r => [r.k, r])), N = c.n, outside = N - R.code.arts - R.const.arts;
+  const texts = sum(['loi', 'ord', 'dec', 'arr', 'aut'], k => R[k].texts), big = c.biggest[0];
+  return {
+    title: L(`Le droit en vigueur : ${fmt(N)} articles, dont ${pct(R.arr.arts, N)} dans des arrêtés et ${pct(R.code.arts, N)} dans les ${R.code.texts} codes`,
+      `The law in force: ${fmt(N)} articles, ${pct(R.arr.arts, N)} of them in ministerial orders and ${pct(R.code.arts, N)} in the ${R.code.texts} codes`),
+    dek: L(`Tout ce que LEGI tenait pour en vigueur le 28 octobre 2026, compté en articles. Hors des codes et des Constitutions, ${fmt(texts)} textes comptent ${fmt(outside)} articles ; les arrêtés (${fmt(R.arr.texts)} textes) en portent le plus. Un texte hors code est court : ${fmt(R.dec.med)} articles en médiane pour un décret, ${fmt(R.arr.med)} pour un arrêté. Le plus long est un arrêté, celui du 23 novembre 1987 relatif à la sécurité des navires : ${fmt(big[2])} articles, plus que le Code civil (${fmt(c.cc)}).`,
+      `Everything LEGI held to be in force on 28 October 2026, counted in articles. Outside the codes and the Constitutions, ${fmt(texts)} texts hold ${fmt(outside)} articles; ministerial orders (arrêtés, ${fmt(R.arr.texts)} texts) hold the most. A text outside the codes is short: a median of ${fmt(R.dec.med)} articles for a decree, ${fmt(R.arr.med)} for an order. The longest is an order, the one of 23 November 1987 on ship safety: ${fmt(big[2])} articles, more than the Civil Code (${fmt(c.cc)}).`),
+    draw(el) {
+      const cards = el.append('div').attr('class', 'ptiles').style('grid-template-columns', `repeat(${narrow(W(el)) ? 2 : 4}, minmax(0, 1fr))`);
+      KORD.forEach(k => {
+        const r = R[k], col = kcol(k), d = cards.append('div').attr('class', 'ptile');
+        d.append('div').attr('class', 'pn').html(`<i style="display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px;background:${col}"></i>${esc(Cap(kn(k)))}`);
+        d.append('div').attr('class', 'pv').html(`<b>${fmt(r.arts)}</b> ${L('articles', 'articles')} · <span style="white-space:nowrap">${r.arts / N < .001 ? '<' + NB + pv(0.1, 1) : pct(r.arts, N, r.arts / N < .01 ? 1 : 0)}</span>`);
+        d.append('div').attr('class', 'ps').text(L(`${fmt(r.texts)} en vigueur sur ${fmt(r.hist)} dans l’historique`, `${fmt(r.texts)} in force of ${fmt(r.hist)} in the history`));
+        const bar = d.append('div').attr('class', 'pbar');
+        bar.append('i').style('flex', r.texts).style('background', col);
+        if (r.hist > r.texts) bar.append('i').style('flex', r.hist - r.texts).style('background', col).style('opacity', .25);
+      });
+      legend(el, KORD.map(k => ({ c: kcol(k), l: Cap(kn(k)) })));
+      const row = { lbl: L('Articles', 'Articles') }; KORD.forEach(k => row[k] = R[k].arts);
+      bands(el, [row], KORD, KORD.map(kcol), KORD.map(k => Cap(kn(k))), { rowH: 44, l: 70, ln: 58, r: 90, rn: 66, minIn: 30, label: r => r.lbl, right: () => fmt(N) });
+      h4(el, L('Les plus longs textes hors des codes, en articles en vigueur', 'The longest texts outside the codes, in articles in force'), 16);
+      const rows = c.biggest.slice(0, 8).map(([fo, title, n]) => ({ fo, title, n, k: fo.split('/')[1] === 'decret' ? 'dec' : fo.split('/')[1] === 'arrete' ? 'arr' : fo.split('/')[1].startsWith('loi') ? 'loi' : 'ord' }));
+      const w = W(el), nw = narrow(w), lab = (r, n_) => n_ ? `${Cap(LA(KN1[r.k]))} ${r.fo.split('/')[2]} · ${BIGT[r.fo] ? LA(BIGT[r.fo]) : ''}` : bigName(r.fo, r.title);
+      const lw = Math.min(nw ? 190 : 520, textW(el, rows.map(r => lab(r, nw)), 'lbl strong') + 14);
+      const rowH = 24, m = { t: 6, r: 50, b: 18, l: lw }, h = m.t + m.b + rowH * rows.length, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, x = d3.scaleLinear().domain([0, Math.max(c.cc, d3.max(rows, r => r.n))]).range([0, iw]);
+      rows.forEach((r, i) => {
+        const cy = i * rowH;
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + rowH / 2 + 4).attr('text-anchor', 'end').text(lab(r, nw));
+        g.append('path').attr('d', barPath(0, cy + 5, x(r.n), rowH - 10, 3)).attr('fill', kcol(r.k));
+        g.append('text').attr('class', 'lbl').attr('x', x(r.n) + 6).attr('y', cy + rowH / 2 + 4).text(fmt(r.n));
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', w).attr('y', cy).attr('height', rowH).datum(r), d => `<b>${esc(d.title)}</b>` + trow(kcol(d.k), Cap(LA(KN1[d.k] || KN[d.k])), `${fmt(d.n)} ${L('articles', 'articles')}`));
+      });
+      const xc = x(c.cc);
+      g.append('line').attr('x1', xc).attr('x2', xc).attr('y1', -4).attr('y2', rowH * rows.length).attr('stroke', css('--text-2')).attr('stroke-dasharray', '3 3');
+      g.append('text').attr('class', 'lbl').attr('x', xc - 4).attr('y', rowH * rows.length + 13).attr('text-anchor', 'end').text(L(`Code civil : ${fmt(c.cc)}`, `Civil Code: ${fmt(c.cc)}`));
+      note(el, ['constitution/', 'codes/<CODE>/', 'textes/<NATURE>/<YEAR>/<TEXT>/', 'index.md'], fmt(N) + L(' articles en vigueur', ' articles in force'),
+        L(`un article est un fichier .md, un texte un dossier ; « lois » comprend les lois organiques et constitutionnelles, « décrets » les décrets-lois, « autres textes » des délibérations, accords, décisions et avis. « Dans l’historique » : les textes dont au moins une version d’article figure dans l’historique git. Le plus long texte hors code compte les articles que LEGI donne en vigueur.`,
+          `an article is one .md file, a text one folder; "laws" includes organic and constitutional laws, "decrees" the decree-laws, "other texts" are deliberations, agreements, decisions and opinions. "In the history": the texts with at least one article version in the git history. The longest texts count the articles LEGI gives as in force.`));
+      table(el, [L('Type de texte', 'Kind of text'), L('Textes en vigueur', 'Texts in force'), L('Articles', 'Articles'), t('share'), L('Articles par texte (médiane)', 'Articles per text (median)'), L('Textes dans l’historique', 'Texts in the history')],
+        KORD.map(k => [Cap(kn(k)), R[k].texts, R[k].arts, pct(R[k].arts, N, 1), R[k].med, R[k].hist]));
+      subTable(el, L('Les plus longs textes hors des codes', 'The longest texts outside the codes'), [L('Texte', 'Text'), L('Articles en vigueur', 'Articles in force')], c.biggest.map(([fo, title, n]) => [title, n]), [0, 1]);
+    }
+  };
+});
+
+const SK = ['code', 'arr', 'dec', 'ord', 'loi', 'oth'];
+chart('c02', el => {
+  const c = D.c02, ys = c.years, Y = ys.filter(y => y >= 1990), ix = y => ys.indexOf(y);
+  const val = (k, y) => k === 'oth' ? c.stock.const[ix(y)] + c.stock.aut[ix(y)] : c.stock[k][ix(y)];
+  const endv = k => k === 'oth' ? c.end.const + c.end.aut : c.end[k];
+  const tot = y => sum(SK, k => val(k, y)), TOT = sum(SK, endv);
+  const rows = Y.map(y => { const o = { y, lab: String(y) }; SK.forEach(k => o[k] = val(k, y)); return o; });
+  const fin = { y: 2026.8, lab: L('28 oct.', '28 Oct'), end: true }; SK.forEach(k => fin[k] = endv(k)); rows.push(fin);
+  const ad = y => sum(KORD, k => c.added[k][ix(y)]), en = y => sum(KORD, k => c.ended[k][ix(y)]);
+  const yMax = Y.filter(y => y <= 2025).reduce((a, y) => ad(y) > ad(a) ? y : a, 1990);
+  return {
+    title: L(`L’inflation des articles : ${fmt(TOT)} en vigueur en octobre 2026, ${times(TOT / tot(2000))} plus qu’au 1er${NB}janvier 2000`,
+      `More and more articles: ${fmt(TOT)} in force in October 2026, ${times(TOT / tot(2000))} as many as on 1 January 2000`),
+    dek: L(`Chaque colonne compte les articles en vigueur au 1er janvier de l’année, selon le type de texte qui les contient ; la dernière, ceux du 28 octobre 2026. Les arrêtés sont passés de ${fmt(val('arr', 2000))} articles en 2000 à ${fmt(endv('arr'))}, les codes de ${fmt(val('code', 2000))} à ${fmt(endv('code'))}. En bas, chaque année : les articles qui entrent en vigueur pour la première fois (au-dessus de la ligne) et ceux qui en sortent (au-dessous). Il en est entré le plus en ${yMax} (${fmt(ad(yMax))}).`,
+      `Each column counts the articles in force on 1 January of the year, by the kind of text that holds them; the last one, those of 28 October 2026. Orders went from ${fmt(val('arr', 2000))} articles in 2000 to ${fmt(endv('arr'))}, the codes from ${fmt(val('code', 2000))} to ${fmt(endv('code'))}. Below, each year: the articles that came into force for the first time (above the line) and those that ceased to be in force (below). The most came in ${yMax} (${fmt(ad(yMax))}).`),
+    draw(el) {
+      const colors = SK.map(k => k === 'oth' ? css('--muted-mark') : kcol(k)), names = SK.map(k => k === 'oth' ? L('Constitutions et autres textes', 'Constitutions and other texts') : Cap(kn(k)));
+      legend(el, SK.map((k, i) => ({ c: colors[i], l: names[i] })));
+      const w = W(el), nw = narrow(w), h = nw ? 250 : 300, m = { t: 22, r: 8, b: 22, l: nw ? 40 : 52 };
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleBand().domain(rows.map(r => r.y)).range([0, iw]).padding(0.18);
+      const y = d3.scaleLinear().domain([0, d3.max(rows, r => sum(SK, k => r[k]))]).nice().range([ih, 0]);
+      yAxis(g, y, iw, 5, v => v >= 1000 ? fmt(v / 1000) + L(' k', 'k') : fmt(v));
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      rows.forEach(r => {
+        let acc = 0; const bx = x(r.y), bw = x.bandwidth(), segs = SK.map((k, j) => ({ k, j, v: r[k] })).filter(s => s.v);
+        const grp_ = g.append('g').attr('opacity', r.end ? 1 : 1);
+        segs.forEach((s, q) => {
+          const y0 = y(acc) - (q ? 0.8 : 0), y1 = y(acc + s.v); acc += s.v;
+          grp_.append('path').attr('d', q === segs.length - 1 ? colPath(bx, y0, bw, y1, Math.min(3, bw / 3)) : `M${bx},${y0}V${y1 + 0.8}H${bx + bw}V${y0}Z`).attr('fill', colors[s.j]);
+        });
+        const T = sum(SK, k => r[k]);
+        if ([1990, 2000, 2010, 2020].includes(r.y) || r.end) halo(g, r.y === 1990 ? bx : bx + bw / 2, y(T) - 6, nw ? fmt(Math.round(T / 1000)) + L(' k', 'k') : fmt(T), r.y === 1990 ? 'start' : r.end ? 'end' : 'middle', 'lbl strong').attr('dx', r.end ? bw / 2 : 0);
+        if (r.end || r.y % (nw ? 10 : 5) === 0) g.append('text').attr('class', 'lbl').attr('x', bx + bw / 2).attr('y', ih + 15).attr('text-anchor', r.end ? 'end' : 'middle').attr('dx', r.end ? bw / 2 + 2 : 0).text(r.end ? (nw ? '' : r.lab) : r.y);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', bx - x.step() * x.paddingInner() / 2).attr('width', x.step()).attr('y', 0).attr('height', ih).datum(r),
+          d => `<b>${d.end ? L('28 octobre 2026', '28 October 2026') : L(`1er janvier ${d.y}`, `1 January ${d.y}`)}</b>` + SK.map((k, j) => trow(colors[j], names[j], fmt(d[k]))).join('') + trow(null, t('total'), fmt(sum(SK, k => d[k]))));
+      });
+      // what came and went
+      h4(el, L('Articles entrés en vigueur pour la première fois et articles sortis de vigueur, par année', 'Articles that came into force for the first time and articles that ceased to be in force, by year'), 14);
+      const cA = seqRamp()(.62), cE = css('--muted-mark');
+      legend(el, [{ c: cA, l: L('entrés en vigueur', 'came into force') }, { c: cE, l: L('sortis de vigueur', 'ceased to be in force') }]);
+      const h2 = nw ? 170 : 190, svg2 = svgIn(el, w, h2), g2 = svg2.append('g').attr('transform', `translate(${m.l},10)`), ih2 = h2 - 30;
+      const x2 = d3.scaleBand().domain(Y).range([0, iw - x.step()]).padding(0.18), mx = d3.max(Y, yy => Math.max(ad(yy), en(yy)));
+      const y2 = d3.scaleLinear().domain([-mx, mx]).nice().range([ih2, 0]);
+      yAxis(g2, y2, iw - x.step(), 4, v => (v >= 1000 || v <= -1000) ? fmt(Math.abs(v) / 1000) + L(' k', 'k') : fmt(Math.abs(v)));
+      Y.forEach(yy => {
+        const bx = x2(yy), bw = x2.bandwidth(), part_ = yy === 2026;
+        g2.append('path').attr('d', colPath(bx, y2(0), bw, y2(ad(yy)), Math.min(3, bw / 3))).attr('fill', cA).attr('opacity', part_ ? .45 : .9);
+        const ye = y2(-en(yy)), y0 = y2(0), r_ = Math.min(3, bw / 3);
+        if (ye - y0 > 0) g2.append('path').attr('d', `M${bx},${y0}V${ye - r_}Q${bx},${ye} ${bx + r_},${ye}H${bx + bw - r_}Q${bx + bw},${ye} ${bx + bw},${ye - r_}V${y0}Z`).attr('fill', cE).attr('opacity', part_ ? .55 : 1);
+        if (yy % (nw ? 10 : 5) === 0) g2.append('text').attr('class', 'lbl').attr('x', bx + bw / 2).attr('y', ih2 + 14).attr('text-anchor', 'middle').text(yy);
+        bindTip(g2.append('rect').attr('class', 'hit').attr('x', bx - x2.step() * x2.paddingInner() / 2).attr('width', x2.step()).attr('y', 0).attr('height', ih2).datum(yy),
+          d => `<b>${d}${d === 2026 ? ' (' + L('jusqu’au 28 octobre', 'to 28 October') + ')' : ''}</b>` + trow(cA, L('Entrés en vigueur', 'Came into force'), fmt(ad(d))) + trow(cE, L('Sortis de vigueur', 'Ceased to be in force'), fmt(en(d))) + trow(null, L('Solde', 'Net'), (ad(d) - en(d) > 0 ? '+' : '') + fmt(ad(d) - en(d))));
+      });
+      g2.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw - x.step()).attr('y1', y2(0)).attr('y2', y2(0));
+      note(el, ['git log --name-status (A, D) -- constitution/ codes/ textes/', 'In-force:'], fmt(PF.versions) + L(' versions et ', ' versions and ') + fmt(PF.ended) + L(' fins de vigueur', ' endings'),
+        L('un article compte à partir du jour d’entrée en vigueur de sa première version et cesse de compter le jour où son fichier est supprimé. LEGI ne garde que les textes qu’elle a consolidés : un texte abrogé avant d’être consolidé manque, et les premières années comptent donc moins. Une recodification ajoute les nouveaux numéros et retire les anciens le même jour. 2026 s’arrête au 28 octobre (plus clair en bas).',
+          'an article counts from the day its first version took effect and stops counting on the day its file is deleted. LEGI keeps only the texts it has consolidated: a text repealed before it was consolidated is missing, so the early years count fewer. A recodification adds the new numbers and removes the old ones on the same day. 2026 stops on 28 October (lighter below).'));
+      table(el, [t('year'), ...names, t('total'), L('Entrés', 'In'), L('Sortis', 'Out')], rows.map(r => [r.end ? L('28 oct. 2026', '28 Oct 2026') : `1/1/${r.y}`, ...SK.map(k => r[k]), sum(SK, k => r[k]), r.end ? '–' : ad(r.y), r.end ? '–' : en(r.y)]));
+    }
+  };
+});
+
+// the parts of a code, read from the article numbers
+const PK = ['L', 'R', 'D', 'A', 'N', 'X'];
+const PN = () => [L('articles L et LO', 'L and LO articles'), L('articles R', 'R articles'), L('articles D', 'D articles'), L('articles A', 'A articles'), L('numéro sans lettre', 'number without a letter'), L('annexes', 'annexes')];
+const pColors = () => [css('--s1'), css('--s3'), d3.color(css('--s3')).copy({ opacity: .55 }).formatRgb(), css('--s4'), css('--muted-mark'), css('--text-3')];
+chart('c03', el => {
+  const R = D.c03, N = sum(R, r => r.n), sumP = p => sum(R, r => p === 'L' ? r.L + r.LO : r[p]);
+  const reg = sumP('R') + sumP('D') + sumP('A'), top = R[0];
+  const rows = R.slice(0, 28).map(r => ({ ...r, L: r.L + r.LO })), rest = R.slice(28);
+  const civ = R.find(r => r.k === 'code-civil'), cgi = R.find(r => r.k === 'code-general-des-impots-cgi');
+  return {
+    title: L(`Les ${R.length} codes : ${pct(reg, N)} de leurs articles portent un numéro réglementaire (R, D ou A) ; le Code de la santé publique en compte ${fmt(top.n)}`,
+      `The ${R.length} codes: ${pct(reg, N)} of their articles carry a regulatory number (R, D or A); the Public Health Code holds ${fmt(top.n)}`),
+    dek: L(`Les codes récents séparent leurs articles par la lettre de leur numéro : L pour la partie législative, R, D et A pour la partie réglementaire (dans ce dépôt, les versions des articles R et D viennent de décrets, celles des articles A d’arrêtés). Sur ${fmt(N)} articles de codes, ${fmt(sumP('L'))} sont des articles L, ${fmt(reg)} des articles R, D ou A. Les codes anciens numérotent sans lettre : le Code civil (${fmt(civ.n)} articles), le Code général des impôts (${fmt(cgi.n)}), le Code de procédure civile.`,
+      `Recent codes split their articles by the letter of their number: L for the legislative part, R, D and A for the regulatory part (in this repository the versions of R and D articles come from decrees, those of A articles from orders). Of ${fmt(N)} code articles, ${fmt(sumP('L'))} are L articles and ${fmt(reg)} R, D or A articles. Older codes number without a letter: the Civil Code (${fmt(civ.n)} articles), the General Tax Code (${fmt(cgi.n)}), the Code of Civil Procedure.`),
+    draw(el) {
+      const colors = pColors(), names = PN();
+      legend(el, PK.map((p, i) => ({ c: colors[i], l: names[i] })));
+      const nw = narrow(W(el)), lab = (r, n_) => r.k === '_rest' ? L(`${rest.length} autres codes`, `${rest.length} other codes`) : cname(r.k, n_);
+      const l = Math.min(nw ? 150 : 400, textW(el, rows.map(r => lab(r, nw))) + 12);
+      splitBars(el, rows, PK, colors, names, { rowH: 22, l, ln: l, rr: 54, rrn: 48, label: lab, right: r => fmt(r.n) });
+      el.append('p').attr('class', 'note').style('margin', '2px 0 0').style('padding-left', '0').text(L(`Les ${rest.length} autres codes comptent ensemble ${fmt(sum(rest, r => r.n))} articles (tableau des données).`, `The ${rest.length} other codes hold ${fmt(sum(rest, r => r.n))} articles between them (data table).`));
+      note(el, ['codes/<CODE>/<ARTICLE>.md', 'git ls-tree -r origin/main -- codes/'], fmt(N) + L(' articles de codes', ' code articles'),
+        L('la partie est lue dans la première lettre du nom de fichier : L3141-1.md est l’article L. 3141-1 ; LO compte avec L. Les annexes sont les fichiers dont le nom commence par « Annexe ». Les deux codes des pensions militaires (ancien et nouveau), les deux codes miniers et les deux codes ruraux comptent séparément, comme LEGI les range.',
+          'the part is read from the first letter of the file name: L3141-1.md is article L. 3141-1; LO counts with L. Annexes are the files whose name starts with "Annexe". The old and new codes of military pensions, the two mining codes and the two rural codes count separately, as LEGI files them.'));
+      table(el, [L('Code', 'Code'), ...names, t('total')], R.map(r => [cname(r.k), r.L + r.LO, r.R, r.D, r.A, r.N, r.X, r.n]));
+    }
+  };
+});
+
+const AGEK = ['code', 'loi', 'ord', 'dec', 'arr', 'all'];
+chart('c04', el => {
+  const c = D.c04, K = { ...c.kinds }, n = k => sum(K[k], d => d[1]);
+  { const all = new Map(); Object.keys(c.kinds).forEach(k => c.kinds[k].forEach(([y, v]) => all.set(y, (all.get(y) || 0) + v))); K.all = [...all.entries()].sort((a, b) => a[0] - b[0]); }
+  const medOf = k => { const tot = n(k); let acc = 0; for (const [y, v] of K[k]) { acc += v; if (acc * 2 >= tot) return y; } };
+  const since = (k, y0) => sum(K[k].filter(d => d[0] >= y0), d => d[1]);
+  const vc = c.oldest.find(o => o[0].includes('1539')), ddhc = c.oldest.find(o => o[0].includes('declaration-1789'));
+  return {
+    title: L(`L’âge du texte en vigueur : la moitié des ${fmt(c.n)} articles ont une rédaction entrée en vigueur en ${c.median} ou après`,
+      `How old the wording in force is: half of the ${fmt(c.n)} articles took their current wording in ${c.median} or later`),
+    dek: L(`Pour chaque article en vigueur, l’année où sa rédaction actuelle est entrée en vigueur, c’est-à-dire sa dernière version. Dans les codes, la médiane est ${medOf('code')} : ${pct(since('code', 2016), n('code'))} de leurs articles ont été écrits ou réécrits depuis 2016. Les lois hors code sont plus anciennes (médiane ${medOf('loi')}). Parmi les plus anciennes rédactions que LEGI tient pour en vigueur : l’ordonnance du 25 août 1539 dite de Villers-Cotterêts (${fmt(vc ? vc[3] : 0)} articles) et la Déclaration des droits de l’homme et du citoyen du 26 août 1789 (${fmt(ddhc ? ddhc[3] : 0)}).`,
+      `For each article in force, the year its current wording took effect, that is, its latest version. In the codes the median is ${medOf('code')}: ${pct(since('code', 2016), n('code'))} of their articles were written or rewritten since 2016. Laws outside the codes are older (median ${medOf('loi')}). Among the oldest wordings LEGI holds to be in force: the ordinance of 25 August 1539 known as Villers-Cotterêts (${fmt(vc ? vc[3] : 0)} articles) and the Declaration of the Rights of Man and of the Citizen of 26 August 1789 (${fmt(ddhc ? ddhc[3] : 0)}).`),
+    draw(el) {
+      const box = el.append('div').attr('class', 'multi').style('grid-template-columns', narrow(W(el)) ? 'repeat(1, minmax(0, 1fr))' : 'repeat(auto-fit, minmax(290px, 1fr))');
+      const Y0 = 1960, YS = d3.range(Y0, 2027);
+      const panels = AGEK.map(k => {
+        const p = box.append('div');
+        p.append('h4').html(`<i style="display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px;background:${k === 'all' ? css('--text-2') : kcol(k)}"></i>${esc(k === 'all' ? L('Tous les articles en vigueur', 'All articles in force') : Cap(kn(k)))}`);
+        p.append('p').text(L(`${fmt(n(k))} articles · médiane ${medOf(k)}`, `${fmt(n(k))} articles · median ${medOf(k)}`));
+        return [k, p];
+      });
+      panels.forEach(([k, p]) => {
+        const col = k === 'all' ? css('--text-2') : kcol(k), tot = n(k), md = medOf(k), m_ = new Map(K[k]);
+        const before = sum(K[k].filter(d => d[0] < Y0), d => d[1]);
+        const w = WR(p), h = 130, m = { t: 16, r: 6, b: 18, l: 38 }, svg = svgIn(p, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+        const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleBand().domain(['<', ...YS]).range([0, iw]).paddingInner(0.12);
+        const share = v => v / tot, ymax = d3.max([before, ...YS.map(yy => m_.get(yy) || 0)].map(share));
+        const y = d3.scaleLinear().domain([0, ymax]).nice().range([ih, 0]);
+        yAxis(g, y, iw, 3, v => pv(100 * v));
+        const bw = x.bandwidth();
+        g.append('path').attr('d', colPath(x('<'), ih, bw * 3 + x.step() * 0, y(share(before)), 2)).attr('fill', col).attr('opacity', .45);
+        YS.forEach(yy => { const v = m_.get(yy) || 0; if (v) g.append('path').attr('d', colPath(x(yy), ih, bw, y(share(v)), Math.min(2, bw / 2))).attr('fill', col).attr('opacity', yy === 2026 ? .5 : 1); });
+        g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+        const xm = x(md) + bw / 2;
+        g.append('line').attr('x1', xm).attr('x2', xm).attr('y1', -4).attr('y2', ih).attr('stroke', css('--text')).attr('stroke-width', 1).attr('stroke-dasharray', '3 2');
+        halo(g, xm - 4, 6, L(`médiane ${md}`, `median ${md}`), 'end', 'lbl strong');
+        g.append('text').attr('class', 'lbl mut').attr('x', x('<') + bw / 2).attr('y', ih + 13).attr('text-anchor', 'start').text(L('av. 1960', 'pre-1960'));
+        [1980, 2000, 2020].forEach(yy => g.append('text').attr('class', 'lbl').attr('x', x(yy) + bw / 2).attr('y', ih + 13).attr('text-anchor', 'middle').text(yy));
+        bindTip(g.append('g').selectAll('rect').data(['<', ...YS]).join('rect').attr('class', 'hit').attr('x', d => x(d) - 0.5).attr('width', x.step()).attr('y', 0).attr('height', ih),
+          d => { const v = d === '<' ? before : (m_.get(d) || 0); return `<b>${k === 'all' ? L('Tous les articles', 'All articles') : Cap(kn(k))} · ${d === '<' ? L('avant 1960', 'before 1960') : d}${d === 2026 ? ' (' + t('partial') + ')' : ''}</b>` + trow(col, L('Articles', 'Articles'), fmt(v)) + trow(null, t('share'), pct(v, tot, 1)); });
+      });
+      note(el, ['git log --name-status (A, M)', 'In-force:'], fmt(c.n) + L(' articles en vigueur', ' articles in force'),
+        L(`la rédaction actuelle d’un article est sa dernière version dans l’historique ; une version que LEGI enregistre sans changement de texte n’en est pas une ici. Chaque panneau est en part des articles du type ; la barre de gauche réunit tout ce qui précède 1960. LEGI ne garde pas toujours les versions anciennes des codes (son historique est le plus complet à partir des années 1990) : une rédaction ancienne se lit « sans version plus récente dans LEGI ». 2026 s’arrête au 28 octobre (plus clair).`,
+          `the current wording of an article is its latest version in the history; a version LEGI records without a change of text is not one here. Each panel is in shares of the articles of its kind; the left bar gathers everything before 1960. LEGI does not always keep the old versions of the codes (its history is fullest from the 1990s): an old wording reads "no later version in LEGI". 2026 stops on 28 October (lighter).`));
+      const dec_ = [[0, 1899], [1900, 1957], [1958, 1979], [1980, 1999], [2000, 2009], [2010, 2015], [2016, 2020], [2021, 2026]];
+      const KT = AGEK.filter(k => k !== 'all');
+      table(el, [L('Rédaction entrée en vigueur', 'Wording took effect'), ...KT.map(k => Cap(kn(k))), L('Tous (avec Constitutions et autres)', 'All (with Constitutions and others)')],
+        dec_.map(([a, b]) => [a ? `${a}–${b}` : L('avant 1900', 'before 1900'), ...KT.map(k => sum(K[k].filter(d => d[0] >= a && d[0] <= b), d => d[1])), sum(K.all.filter(d => d[0] >= a && d[0] <= b), d => d[1])]));
+      subTable(el, L('Les plus anciennes rédactions en vigueur (avant 1800)', 'The oldest wordings in force (before 1800)'), [L('Texte', 'Text'), L('En vigueur depuis', 'In force since'), L('Articles', 'Articles')], c.oldest.map(o => [o[1], dateTxt(o[2]), o[3]]), [0, 0, 1]);
+    }
+  };
+});
+
+// the Code civil: the period of each article's current wording
+const CCP = [[0, 1804, '1803–1804'], [1805, 1957, '1805–1957'], [1958, 1999, '1958–1999'], [2000, 2015, '2000–2015'], [2016, 2026, '2016–2026']];
+const ccColors = () => { const r = seqRamp(); return [css('--s4'), r(.2), r(.44), r(.7), r(1)]; };
+const CCT = { '2016-131': ['contrats et obligations', 'contracts and obligations'], '2006-728': ['successions et libéralités', 'successions and gifts'], '2021-1192': ['sûretés', 'security interests'],
+  '2007-308': ['protection juridique des majeurs', 'legal protection of adults'], '65-570': ['régimes matrimoniaux', 'matrimonial property'], '2008-561': ['prescription', 'limitation periods'],
+  '93-933': ['nationalité', 'nationality'], '2022-1292': ['adoption', 'adoption'], '2001-1135': ['conjoint survivant, successions', 'surviving spouse, successions'], '2019-222': ['justice', 'justice'], '2006-346': ['sûretés', 'security interests'] };
+chart('c05', el => {
+  const c = D.c05, rows = c.rows, N = rows.length, per = r => CCP.findIndex(([a, b]) => +r[1].slice(0, 4) >= a && +r[1].slice(0, 4) <= b);
+  const cnt = CCP.map((_, i) => rows.filter(r => per(r) === i).length);
+  const A = c.authors.filter(a => !a[0].startsWith('Légifrance')), byName = k => A.find(a => a[0].includes(k)) || ['', 0, ''];
+  const o16 = byName('2016-131'), o21 = byName('2021-1192'), l06 = byName('2006-728');
+  return {
+    title: L(`Le Code civil article par article : ${fmt(cnt[0])} des ${fmt(N)} articles gardent leur rédaction de 1803–1804, ${fmt(cnt[4])} ont été réécrits depuis 2016`,
+      `The Civil Code article by article: ${fmt(cnt[0])} of its ${fmt(N)} articles keep their 1803–1804 wording; ${fmt(cnt[4])} have been rewritten since 2016`),
+    dek: L(`Chaque carré est un article en vigueur, dans l’ordre du code, de l’article 1er à l’article 2534 ; sa couleur dit quand sa rédaction actuelle est entrée en vigueur. Les réécritures forment des blocs : le droit des contrats, du régime général et de la preuve des obligations (ordonnance du 10 février 2016, ${fmt(o16[1])} articles), les sûretés (ordonnance du 15 septembre 2021, ${fmt(o21[1])}), les successions et les libéralités (loi du 23 juin 2006, ${fmt(l06[1])}).`,
+      `Each square is an article in force, in the code’s order, from article 1 to article 2534; its colour says when its current wording took effect. Rewritings come in blocks: the law of contracts, of the general regime and of proof of obligations (ordinance of 10 February 2016, ${fmt(o16[1])} articles), security interests (ordinance of 15 September 2021, ${fmt(o21[1])}), successions and gifts (law of 23 June 2006, ${fmt(l06[1])}).`),
+    draw(el) {
+      const colors = ccColors();
+      legend(el, CCP.map((p, i) => ({ c: colors[i], l: `${p[2]} · ${fmt(cnt[i])}` })));
+      const w = W(el), nw = narrow(w), cols = nw ? 36 : 72, every = nw ? 6 : 4, nr = Math.ceil(N / cols);
+      const rl = d3.range(0, nr, every).map(i => artNo(rows[i * cols][0])), lw = Math.ceil(textW(el, rl, 'lbl mut') * 10 / 11) + 10, gap = 1.2, cs = (w - lw - 4) / cols;
+      const svg = svgIn(el, w, nr * cs + 6), g = svg.append('g').attr('transform', `translate(${lw},2)`);
+      bindTip(g.selectAll('rect').data(rows).join('rect').attr('x', (r, i) => (i % cols) * cs).attr('y', (r, i) => Math.floor(i / cols) * cs)
+        .attr('width', cs - gap).attr('height', cs - gap).attr('rx', Math.min(2.5, cs / 4)).attr('fill', r => colors[per(r)]),
+        r => `<b>${L('Article', 'Article')} ${artNo(r[0])}</b>` + trow(colors[per(r)], L('Rédaction en vigueur depuis', 'Wording in force since'), dateTxt(r[1])) + `<div style="margin-top:3px;color:var(--text-2)">${esc(tname(r[2]))}</div>`);
+      for (let i = 0; i < nr; i += every) g.append('text').attr('class', 'lbl mut').attr('x', -6).attr('y', i * cs + cs / 2 + 3.5).attr('text-anchor', 'end').style('font-size', '10px').text(artNo(rows[i * cols][0]));
+      h4(el, L('Les textes qui ont écrit le plus d’articles en vigueur', 'The texts that wrote the most articles in force'), 16);
+      const top = A.slice(0, 8), num = a => (a[0].match(/n° ([\d-]+)/) || [])[1], yr = a => (a[0].match(/(\d{4})$/) || [])[1];
+      const lab = a => nw && CCT[num(a)] ? `${yr(a)} · ${LA(CCT[num(a)])}` : `${tname(a[0])}${CCT[num(a)] ? ' · ' + LA(CCT[num(a)]) : ''}`;
+      const sub = a => { const t_ = a[2].replace(/^.*?\d{4}\s*/, '').replace(/\s*\(1\)\.?$/, '').replace(/\.$/, ''); return t_; };
+      const lwid = Math.min(nw ? 170 : 440, textW(el, top.map(lab)) + 12);
+      const rowH = 22, svg2 = svgIn(el, w, rowH * top.length + 4), g2 = svg2.append('g').attr('transform', `translate(${lwid},2)`);
+      const x2 = d3.scaleLinear().domain([0, d3.max(top, a => a[1])]).range([0, w - lwid - 46]);
+      top.forEach((a, i) => {
+        const cy = i * rowH, last = rows.filter(r => r[2] === a[0]), pc = colors[d3.max(last, per)];
+        g2.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + rowH / 2 + 4).attr('text-anchor', 'end').text(lab(a));
+        g2.append('path').attr('d', barPath(0, cy + 5, x2(a[1]), rowH - 10, 3)).attr('fill', pc);
+        g2.append('text').attr('class', 'lbl').attr('x', x2(a[1]) + 6).attr('y', cy + rowH / 2 + 4).text(fmt(a[1]));
+        bindTip(g2.append('rect').attr('class', 'hit').attr('x', -lwid).attr('width', w).attr('y', cy).attr('height', rowH).datum(a), d => `<b>${esc(tname(d[0]))}</b><div style="margin:2px 0 4px;color:var(--text-2)">${esc(sub(d))}</div>` + trow(pc, L('Articles en vigueur dans cette rédaction', 'Articles in force in this wording'), fmt(d[1])));
+      });
+      note(el, ['codes/code-civil/<ARTICLE>.md', 'git log -- codes/code-civil/'], fmt(N) + L(' articles', ' articles'),
+        L(`la date est celle de la dernière version de l’article, son auteur le texte que LEGI désigne. Les versions de 1803–1804 sont les plus anciennes que LEGI donne du code ; LEGI n’enregistre pas toutes les modifications du XIXe siècle, donc « 1803–1804 » se lit : aucune version plus récente dans LEGI. ${fmt(c.authors.find(a => a[0].startsWith('Légifrance')) ? c.authors.find(a => a[0].startsWith('Légifrance'))[1] : 0)} rédactions en vigueur ne sont attribuées par LEGI à aucun texte.`,
+          `the date is that of the article’s latest version, its author the text LEGI names. The versions of 1803–1804 are the oldest LEGI gives for the code; LEGI does not record every change of the 19th century, so "1803–1804" reads: no later version in LEGI. ${fmt(c.authors.find(a => a[0].startsWith('Légifrance')) ? c.authors.find(a => a[0].startsWith('Légifrance'))[1] : 0)} wordings in force are credited by LEGI to no text.`));
+      table(el, [L('Période de la rédaction', 'Period of the wording'), L('Articles', 'Articles'), t('share')], CCP.map((p, i) => [p[2], cnt[i], pct(cnt[i], N, 1)]));
+      subTable(el, L('Les textes auteurs des rédactions en vigueur', 'The texts that wrote the wordings in force'), [L('Texte', 'Text'), L('Articles', 'Articles'), L('Intitulé', 'Title')], c.authors.map(a => [tname(a[0]), a[1], a[2]]), [0, 1, 0]);
+    }
+  };
+});
+
+part('p2', 'II. Comment le droit change', 'II. How the law changes',
+  'Chaque version d’un article entre en vigueur un jour donné et est attribuée au texte qui l’a écrite, l’auteur de son commit. Qui écrit ces versions, quel jour elles prennent effet, le temps qui sépare la signature de la publication au Journal officiel puis de l’entrée en vigueur, et les lois qui en ont écrit le plus.',
+  'Every version of an article takes effect on a given day and is credited to the text that wrote it, the author of its commit. Who writes those versions, on which day they take effect, how long it takes from signature to the Journal officiel and then to entry into force, and which laws wrote the most.');
+
+const AK = ['loi', 'ord', 'dec', 'arr', 'oth', 'dila'];
+const akName = k => k === 'oth' ? L('Autres (décisions de justice, délibérations…)', 'Other (court decisions, deliberations…)') : k === 'loi' ? L('Lois (dont organiques)', 'Laws (incl. organic)') : Cap(kn(k));
+const akCol = k => k === 'oth' ? css('--s8') : kcol(k);
+chart('c06', el => {
+  const c = D.c06, Y = c.years, v = (k, i) => k === 'loi' ? c.by.loi[i] + c.by.lo[i] + c.by.lc[i] : k === 'oth' ? c.by.jug[i] + c.by.aut[i] : c.by[k][i];
+  const i00 = Y.indexOf(2000), since = k => sum(Y.slice(i00).map((_, j) => v(k, i00 + j))), TOT = sum(AK, since);
+  const tot = i => sum(AK, k => v(k, i)), peakI = d3.range(Y.length - 1).reduce((a, i) => tot(i) > tot(a) ? i : a, 0);
+  const cr = k => { const r = c.codes.find(x => x.k === k); return { ...r, loi: r.loi + r.lo + r.lc, oth: r.jug + r.aut, n: r.loi + r.lo + r.lc + r.ord + r.dec + r.arr + r.jug + r.aut + r.dila }; };
+  const cmf = cr('code-monetaire-et-financier'), cgi = cr('code-general-des-impots-cgi');
+  return {
+    title: L(`Qui écrit le droit : depuis 2000, ${pct(since('dec'), TOT)} des versions d’articles viennent de décrets, ${pct(since('arr'), TOT)} d’arrêtés et ${pct(since('loi'), TOT)} de lois`,
+      `Who writes the law: since 2000, ${pct(since('dec'), TOT)} of article versions came from decrees, ${pct(since('arr'), TOT)} from orders and ${pct(since('loi'), TOT)} from laws`),
+    dek: L(`En haut : les versions d’articles entrées en vigueur chaque année, selon le type du texte qui les a écrites ; ${Y[peakI]} en compte le plus (${fmt(tot(peakI))}). Les ordonnances en ont écrit ${pct(since('ord'), TOT)} depuis 2000. En bas, pour les 12 codes les plus modifiés depuis 2000 : qui les écrit. Les ordonnances écrivent ${pct(cmf.ord, cmf.n)} des versions du Code monétaire et financier, les lois ${pct(cgi.loi, cgi.n)} de celles du Code général des impôts ; ailleurs, les décrets dominent.`,
+      `Top: the article versions that took effect each year, by the kind of text that wrote them; ${Y[peakI]} has the most (${fmt(tot(peakI))}). Ordinances wrote ${pct(since('ord'), TOT)} of them since 2000. Below, for the 12 codes changed most since 2000: who writes them. Ordinances write ${pct(cmf.ord, cmf.n)} of the versions of the Monetary and Financial Code, laws ${pct(cgi.loi, cgi.n)} of those of the General Tax Code; elsewhere decrees dominate.`),
+    draw(el) {
+      const colors = AK.map(akCol), names = AK.map(akName);
+      legend(el, AK.map((k, i) => ({ c: colors[i], l: names[i] })));
+      const w = W(el), nw = narrow(w), h = nw ? 220 : 260, m = { t: 18, r: 6, b: 22, l: nw ? 38 : 46 };
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleBand().domain(Y).range([0, iw]).padding(0.18), y = d3.scaleLinear().domain([0, d3.max(Y, (_, i) => tot(i))]).nice().range([ih, 0]);
+      yAxis(g, y, iw, 4, vv => vv >= 1000 ? fmt(vv / 1000) + L(' k', 'k') : fmt(vv));
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      Y.forEach((yy, i) => {
+        let acc = 0; const bx = x(yy), bw = x.bandwidth(), segs = AK.map((k, j) => ({ k, j, v: v(k, i) })).filter(s_ => s_.v), part_ = yy === 2026;
+        const gg = g.append('g').attr('opacity', part_ ? .5 : 1);
+        segs.forEach((s_, q) => { const y0 = y(acc) - (q ? .8 : 0), y1 = y(acc + s_.v); acc += s_.v; gg.append('path').attr('d', q === segs.length - 1 ? colPath(bx, y0, bw, y1, Math.min(3, bw / 3)) : `M${bx},${y0}V${y1 + .8}H${bx + bw}V${y0}Z`).attr('fill', colors[s_.j]); });
+        if (yy % (nw ? 10 : 5) === 0) g.append('text').attr('class', 'lbl').attr('x', bx + bw / 2).attr('y', ih + 15).attr('text-anchor', 'middle').text(yy);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', bx - x.step() * x.paddingInner() / 2).attr('width', x.step()).attr('y', 0).attr('height', ih).datum(i),
+          d => `<b>${Y[d]}${Y[d] === 2026 ? ' (' + L('jusqu’au 28 octobre', 'to 28 October') + ')' : ''}</b>` + AK.map((k, j) => trow(colors[j], names[j], `${fmt(v(k, d))} · ${pct(v(k, d), tot(d))}`)).join('') + trow(null, t('total'), fmt(tot(d))));
+      });
+      halo(g, x(Y[peakI]) + x.bandwidth() / 2, y(tot(peakI)) - 6, fmt(tot(peakI)), 'middle');
+      h4(el, L('Qui écrit les 12 codes les plus modifiés, versions depuis 2000', 'Who writes the 12 codes changed most, versions since 2000'), 16);
+      const rows = c.codes.slice(0, 12).map(r => cr(r.k));
+      const lab = (r, n_) => cname(r.k, n_), l = Math.min(nw ? 120 : 330, textW(el, rows.map(r => lab(r, nw))) + 14);
+      bands(el, rows, AK, colors, names, { rowH: 30, l, ln: l, r: 64, rn: 50, minIn: 30, label: lab, right: r => fmt(r.n) });
+      note(el, ['git log --format="%an %(trailers:key=In-force)" --name-status'], fmt(PF.versions) + L(' versions', ' versions'),
+        L('le type du texte est lu dans le nom de l’auteur du commit (« Décret n° … », « Arrêté du … ») ; « non attribué » : les versions que LEGI ne rattache à aucun texte, attribuées à « Légifrance (DILA), version consolidée ». Une version est un fichier d’article écrit ; elle compte l’année de son entrée en vigueur. 2026 s’arrête au 28 octobre (plus clair).',
+          'the kind of text is read from the commit author’s name ("Décret n° …", "Arrêté du …"); "unattributed": the versions LEGI links to no text, credited to "Légifrance (DILA), version consolidée". A version is one article file written; it counts in the year it took effect. 2026 stops on 28 October (lighter).'));
+      table(el, [t('year'), ...names, t('total')], Y.map((yy, i) => [String(yy), ...AK.map(k => v(k, i)), tot(i)]));
+      subTable(el, L('Les codes, versions depuis 2000', 'The codes, versions since 2000'), [L('Code', 'Code'), ...names, t('total')], c.codes.map(r0 => { const r = cr(r0.k); return [cname(r.k), ...AK.map(k => r[k]), r.n]; }), [0, 1, 1, 1, 1, 1, 1, 1]);
+    }
+  };
+});
+
+chart('c07', el => {
+  const c = D.c07, cal = new Map(c.cal.map(([m, d, n]) => [m + '-' + d, n])), at = (m, d) => cal.get(m + '-' + d) || 0, TOT = sum(c.cal, r => r[2]);
+  const nYears = c.years[1] - c.years[0] + 1, days = nYears * 365.25, j1 = at(1, 1), ratio = (j1 / nYears) / (TOT / days);
+  const first = sum(d3.range(1, 13), m => at(m, 1)), top = c.cal.filter(r => !(r[0] === 1 && r[1] === 1)).sort((a, b) => b[2] - a[2]).slice(0, 3);
+  const J = new Map(c.jan1.map(r => [r[0], r])), share = y => J.get(y)[1] / J.get(y)[2];
+  const LF = D.c15.lf.find(r => r[1] === 2025) || [], lf25 = LF[7] || 0, lf25day = LF[6] || '2025-02-16', lf25sig = LF[5] || '2025-02-14';
+  return {
+    title: L(`Le 1er${NB}janvier : ${pct(j1, TOT, 1)} des versions d’articles entrées en vigueur de 2000 à 2025, ${fmt(Math.round(ratio))} fois plus qu’un jour moyen`,
+      `1 January: ${pct(j1, TOT, 1)} of the article versions that took effect from 2000 to 2025, ${fmt(Math.round(ratio))} times an average day`),
+    dek: L(`Chaque case est un jour de l’année : plus sa couleur est soutenue, plus de versions d’articles sont entrées en vigueur ce jour-là, années 2000 à 2025 réunies. Le premier jour d’un mois en porte ${pct(first, TOT)} ; après le 1er${NB}janvier viennent ${andList(top.map(r => 'le ' + dayMonth(r[0], r[1])))}. Le Journal officiel ne paraît presque jamais le lundi, et un texte entre en vigueur, faute de date fixée, le lendemain de sa publication (Code civil, article 1er) : le mardi est le jour le plus creux. En 2025, le 1er${NB}janvier ne porte que ${pct(share(2025), 1)} des versions de l’année (${pct(share(2020), 1)} en 2020) ; la loi de finances pour 2025, signée le ${dateTxt(lf25sig)}, en a fait entrer ${fmt(lf25)} en vigueur le ${dateTxt(lf25day)}.`,
+      `Each square is a day of the year: the stronger its colour, the more article versions took effect that day, years 2000 to 2025 together. The first day of a month carries ${pct(first, TOT)}; after 1 January come ${andList(top.map(r => dayMonth(r[0], r[1])))}. The Journal officiel almost never appears on a Monday, and a text takes effect, unless it sets a date, the day after its publication (Civil Code, article 1): Tuesday is the quietest day. In 2025, 1 January carried only ${pct(share(2025), 1)} of the year’s versions (${pct(share(2020), 1)} in 2020); the finance law for 2025, signed on ${dateTxt(lf25sig)}, brought ${fmt(lf25)} into force on ${dateTxt(lf25day)}.`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), lw = nw ? 42 : 46, cw = (w - lw - 2) / 31, rh = nw ? 18 : 24, mx = d3.max(c.cal, r => r[2]), mn = d3.min(c.cal, r => r[2]);
+      const ramp = seqRamp(), col = n => ramp(0.06 + 0.94 * Math.sqrt(n / mx));
+      legend(el, [1000, 5000, 20000].map(n => ({ c: col(n), l: fmt(n) })).concat([{ c: col(mx), l: L(`${fmt(mx)} versions (le 1er${NB}janvier)`, `${fmt(mx)} versions (1 January)`) }]));
+      const svg = svgIn(el, w, 12 * rh + 22), g = svg.append('g').attr('transform', `translate(${lw},18)`);
+      d3.range(1, 32).forEach(d => { if (!nw || d === 1 || d % 5 === 0) g.append('text').attr('class', 'lbl mut').attr('x', (d - 1) * cw + cw / 2).attr('y', -6).attr('text-anchor', 'middle').text(d); });
+      const dim = [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+      d3.range(1, 13).forEach(m => {
+        g.append('text').attr('class', 'lbl strong').attr('x', -6).attr('y', (m - 1) * rh + rh / 2 + 4).attr('text-anchor', 'end').text(MON[LANG][m - 1]);
+        d3.range(1, dim[m - 1] + 1).forEach(d => {
+          const n = at(m, d);
+          bindTip(g.append('rect').attr('x', (d - 1) * cw + 1).attr('y', (m - 1) * rh + 1).attr('width', cw - 2).attr('height', rh - 2).attr('rx', 3).attr('fill', n ? col(n) : css('--surface-2')).datum({ m, d, n }),
+            q => `<b>${Cap(dayMonth(q.m, q.d))}</b>` + trow(null, L('Versions entrées en vigueur, 2000–2025', 'Versions that took effect, 2000–2025'), fmt(q.n)) + trow(null, t('share'), pct(q.n, TOT, 2)));
+        });
+      });
+      if (!nw) [[1, 1], ...top.map(r => [r[0], r[1]])].forEach(([m, d]) => g.append('text').attr('class', 'lbl').attr('x', (d - 1) * cw + cw / 2).attr('y', (m - 1) * rh + rh / 2 + 4).attr('text-anchor', 'middle')
+        .style('fill', inkOn(col(at(m, d)))).style('font-size', '9px').style('pointer-events', 'none').text(pct(at(m, d), TOT, 1)));
+      // three small panels: the weekday of publication, the weekday of entry into force, the share of 1 January by year
+      const box = el.append('div').attr('class', 'mini').style('margin-top', '14px').style('grid-template-columns', nw ? 'repeat(1, minmax(0, 1fr))' : 'repeat(3, minmax(0, 1fr))');
+      const P = [[L('Jour de parution au Journal officiel', 'Day of publication in the Journal officiel'), L('textes en vigueur publiés depuis 2000', 'texts in force published since 2000'), c.wd_pub],
+        [L('Jour d’entrée en vigueur', 'Day of entry into force'), L('versions d’articles, 2000–2025', 'article versions, 2000–2025'), c.wd_inf]].map(([h, s_, vals]) => { const p = box.append('div'); p.append('h4').text(h); p.append('p').text(s_); return [p, vals]; });
+      const p3 = box.append('div'); p3.append('h4').text(L('Part de l’année entrée en vigueur un 1er janvier', 'Share of the year that took effect on 1 January')); p3.append('p').text(L('versions d’articles, 1990–2026', 'article versions, 1990–2026'));
+      P.forEach(([p, vals]) => {
+        const pw = WR(p), ph = 120, m = { t: 14, r: 4, b: 18, l: 4 }, sv = svgIn(p, pw, ph), gg = sv.append('g').attr('transform', `translate(${m.l},${m.t})`);
+        const iw = pw - m.l - m.r, ih = ph - m.t - m.b, x = d3.scaleBand().domain(d3.range(7)).range([0, iw]).padding(0.22), y = d3.scaleLinear().domain([0, d3.max(vals)]).range([ih, 0]), T = sum(vals);
+        d3.range(7).forEach(i => {
+          const lowest = vals[i] === d3.min(vals), cl = lowest ? css('--s2') : css('--s1');
+          gg.append('path').attr('d', colPath(x(i), ih, x.bandwidth(), y(vals[i]), 3)).attr('fill', cl).attr('opacity', lowest ? 1 : .8);
+          gg.append('text').attr('class', 'lbl').attr('x', x(i) + x.bandwidth() / 2).attr('y', y(vals[i]) - 4).attr('text-anchor', 'middle').style('font-size', '10px').text(pct(vals[i], T));
+          gg.append('text').attr('class', 'lbl mut').attr('x', x(i) + x.bandwidth() / 2).attr('y', ih + 13).attr('text-anchor', 'middle').text(DOW[LANG][i].slice(0, 3));
+          bindTip(gg.append('rect').attr('class', 'hit').attr('x', x(i)).attr('width', x.bandwidth()).attr('y', 0).attr('height', ih).datum(i), d => `<b>${Cap(DOW[LANG][d])}</b>` + trow(cl, t('count'), fmt(vals[d])) + trow(null, t('share'), pct(vals[d], T, 1)));
+        });
+      });
+      {
+        const pw = WR(p3), ph = 120, m = { t: 14, r: 4, b: 18, l: 38 }, sv = svgIn(p3, pw, ph), gg = sv.append('g').attr('transform', `translate(${m.l},${m.t})`);
+        const YS = c.jan1.map(r => r[0]), iw = pw - m.l - m.r, ih = ph - m.t - m.b, x = d3.scaleBand().domain(YS).range([0, iw]).padding(0.15), y = d3.scaleLinear().domain([0, d3.max(YS, share)]).nice().range([ih, 0]);
+        yAxis(gg, y, iw, 3, vv => pv(100 * vv));
+        YS.forEach(yy => {
+          gg.append('path').attr('d', colPath(x(yy), ih, x.bandwidth(), y(share(yy)), 1.5)).attr('fill', css('--s1')).attr('opacity', yy === 2026 ? .45 : yy >= 2025 ? 1 : .8);
+          if (yy % 10 === 0) gg.append('text').attr('class', 'lbl mut').attr('x', x(yy) + x.bandwidth() / 2).attr('y', ih + 13).attr('text-anchor', 'middle').text(yy);
+          bindTip(gg.append('rect').attr('class', 'hit').attr('x', x(yy)).attr('width', x.step()).attr('y', 0).attr('height', ih).datum(yy), d => `<b>${d}${d === 2026 ? ' (' + t('partial') + ')' : ''}</b>` + trow(null, L('Versions du 1er janvier', 'Versions of 1 January'), fmt(J.get(d)[1])) + trow(null, L('Versions de l’année', 'Versions of the year'), fmt(J.get(d)[2])) + trow(null, t('share'), pct(J.get(d)[1], J.get(d)[2], 1)));
+        });
+        halo(gg, x(2020) + x.bandwidth() / 2, y(share(2020)) - 4, pv(100 * share(2020)), 'middle', 'lbl strong').style('font-size', '10px');
+        halo(gg, x(2025) + x.bandwidth() / 2, y(share(2025)) - 4, pv(100 * share(2025)), 'middle', 'lbl strong').style('font-size', '10px');
+      }
+      note(el, ['In-force:', 'index.md (Publication au JORF)', 'codes/code-civil/1.md'], fmt(TOT) + L(' versions (2000–2025)', ' versions (2000–2025)'),
+        L(`une version compte au jour d’entrée en vigueur que LEGI lui donne ; les 29 février sont comptés comme les autres jours. Le jour de parution vient des fiches des textes encore en vigueur publiés depuis 2000 (${fmt(sum(c.wd_pub))} textes, dont ${fmt(c.wd_pub[0])} un lundi). 2026 s’arrête au 28 octobre (plus clair).`,
+          `a version counts on the day of entry into force LEGI gives it; 29 February counts like any other day. The day of publication comes from the records of the texts still in force published since 2000 (${fmt(sum(c.wd_pub))} texts, ${fmt(c.wd_pub[0])} of them on a Monday). 2026 stops on 28 October (lighter).`));
+      table(el, [L('Mois', 'Month'), ...d3.range(1, 32).map(String), t('total')], d3.range(1, 13).map(m => [Cap(monthName(m)), ...d3.range(1, 32).map(d => d > dim[m - 1] ? '' : at(m, d)), sum(d3.range(1, 32), d => at(m, d))]));
+      subTable(el, L('Par jour de la semaine', 'By day of the week'), [L('Jour', 'Day'), L('Parutions au JO', 'Publications in the JO'), L('Entrées en vigueur', 'Entries into force')], d3.range(7).map(i => [Cap(DOW[LANG][i]), c.wd_pub[i], c.wd_inf[i]]), [0, 1, 1]);
+      subTable(el, L('Le 1er janvier, année par année', '1 January, year by year'), [t('year'), L('Versions du 1er janvier', 'Versions of 1 January'), L('Versions de l’année', 'Versions of the year'), t('share')], c.jan1.map(r => [String(r[0]), r[1], r[2], pct(r[1], r[2], 1)]), [0, 1, 1, 1]);
+    }
+  };
+});
+
+const BKK = ['before', 'd1', 'd7', 'd30', 'm6', 'y1', 'later'];
+const BKN = () => [L('avant la signature', 'before signature'), L('le jour même ou le lendemain', 'same or next day'), L('2 à 7 jours', '2–7 days'), L('8 à 30 jours', '8–30 days'),
+  L('1 à 6 mois', '1–6 months'), L('6 mois à 1 an', '6 months to 1 year'), L('plus d’un an', 'over a year')];
+const bkColors = () => { const r = seqRamp(); return [css('--s5'), r(.14), r(.3), r(.48), r(.66), r(.83), r(1)]; };
+const NAT8 = ['loi', 'lo', 'ord', 'dec', 'arr'];
+chart('c08', el => {
+  const c = D.c08, R = NAT8.map(k => ({ k, ...c[k] })), by = k => R.find(r => r.k === k);
+  const late = r => r.y1 + r.later, o = by('ord'), l = by('loi'), d = by('dec'), a = by('arr');
+  return {
+    title: L(`De la signature à l’entrée en vigueur : ${fmt(l.med)} jours en médiane pour les versions écrites par une loi, mais ${pct(late(o), o.n)} de celles écrites par ordonnance attendent plus de six mois`,
+      `From signature to entry into force: a median of ${fmt(l.med)} days for versions written by a law, but ${pct(late(o), o.n)} of those written by ordinance wait more than six months`),
+    dek: L(`Pour chaque version d’article, les jours entre la signature du texte qui l’a écrite et son entrée en vigueur ; chaque version compte une fois. Les décrets prennent effet vite (${pct(d.d1 + d.d7, d.n)} en une semaine), les arrêtés le plus souvent entre 8 et 30 jours (${pct(a.d30, a.n)}). Pour les lois, ${pct(l.d1, l.n)} des versions entrent en vigueur le jour même ou le lendemain de la signature, ${pct(late(l), l.n)} plus de six mois après. Une petite part des versions de décrets et d’arrêtés est rétroactive.`,
+      `For each article version, the days between the signature of the text that wrote it and its entry into force; each version counts once. Decrees take effect quickly (${pct(d.d1 + d.d7, d.n)} within a week), orders mostly after 8 to 30 days (${pct(a.d30, a.n)}). For laws, ${pct(l.d1, l.n)} of the versions take effect on the day of signature or the next, ${pct(late(l), l.n)} more than six months later. A small share of the versions of decrees and orders is retroactive.`),
+    draw(el) {
+      const colors = bkColors(), names = BKN();
+      legend(el, BKK.map((k, i) => ({ c: colors[i], l: names[i] })));
+      const lab = (r, nw) => nw ? Cap(LA(KN[r.k])).replace('Lois organiques', 'Lois org.').replace('Organic laws', 'Org. laws') : Cap(LA(KN[r.k]));
+      bands(el, R, BKK, colors, names, { rowH: 38, l: 128, ln: 86, r: 104, rn: 40, minIn: 30, label: lab,
+        right: (r, nw) => nw ? `${fmt(r.med)} ${L('j', 'd')}` : L(`médiane ${fmt(r.med)} j`, `median ${fmt(r.med)} d`),
+        tipExtra: q => trow(null, L('Versions', 'Versions'), fmt(q.n)) + trow(null, L('Médiane', 'Median'), `${fmt(q.med)} ${t('days')}`) });
+      note(el, ['Signed:', 'In-force:', 'git log --name-status'], fmt(sum(R, r => r.n)) + L(' versions de textes signés de 1990 à 2026', ' versions of texts signed 1990–2026'),
+        L('le type du texte est lu dans le nom de l’auteur du commit ; « lois » sans les lois organiques. Les jours sont ceux de LEGI, avec les corrections des commits ultérieurs. « Plus d’un an » compte quelques versions que LEGI attribue à un texte bien plus ancien.',
+          'the kind of text is read from the commit author’s name; "laws" without organic laws. Days are LEGI’s, with the corrections of later commits. "Over a year" includes a few versions LEGI credits to a much older text.'));
+      table(el, [L('Type de texte', 'Kind of text'), ...names, L('Versions', 'Versions'), L('Médiane (jours)', 'Median (days)')], R.map(r => [Cap(LA(KN[r.k])), ...BKK.map(k => r[k]), r.n, r.med]));
+    }
+  };
+});
+
+const PUBK = [['Loi', 'loi'], ['Ordonnance', 'ord'], ['Decret', 'dec'], ['Arrete', 'arr']];
+chart('c09', el => {
+  const c = D.c09, A = c.Arrete.filter(r => r[1] >= 5), a0 = A[0], a1 = A[A.length - 1], lw = c.Loi.filter(r => r[0] >= 2000 && r[1] >= 5);
+  return {
+    title: L(`Du texte signé au Journal officiel : ${fmt(a0[2])} jours en médiane pour un arrêté de ${a0[0]}, ${fmt(a1[2])} en ${a1[0]} ; un jour pour une loi`,
+      `From signature to the Journal officiel: a median of ${fmt(a0[2])} days for an order of ${a0[0]}, ${fmt(a1[2])} in ${a1[0]}; one day for a law`),
+    dek: L(`Les jours entre la date d’un texte et sa publication au Journal officiel, d’après les fiches des textes encore en vigueur. La ligne est la médiane de l’année de signature, la bande la moitié centrale des textes. Depuis 2000, les lois et les ordonnances paraissent le lendemain de leur date ; les décrets en un ou deux jours ; le délai des arrêtés a baissé de plus de moitié.`,
+      `The days between the date of a text and its publication in the Journal officiel, from the records of the texts still in force. The line is the median for the year of signature, the band the middle half of the texts. Since 2000, laws and ordinances appear the day after their date; decrees within one or two days; the delay for orders has more than halved.`),
+    draw(el) {
+      const box = el.append('div').attr('class', 'multi').style('grid-template-columns', narrow(W(el)) ? 'repeat(2, minmax(0, 1fr))' : 'repeat(4, minmax(0, 1fr))');
+      const ymax = d3.max(PUBK, ([n]) => d3.max(c[n].filter(r => r[1] >= 5), r => r[4]));
+      const panels = PUBK.map(([n, k]) => { const p = box.append('div'), R = c[n].filter(r => r[1] >= 5), last = R[R.length - 1];
+        p.append('h4').html(`<i style="display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px;background:${kcol(k)}"></i>${esc(Cap(kn(k)))}`);
+        p.append('p').text(L(`${last[0]} : ${fmt(last[2])} j en médiane`, `${last[0]}: median ${fmt(last[2])} d`)); return [p, R, k]; });
+      panels.forEach(([p, R, k]) => {
+        const w = WR(p), h = 150, m = { t: 12, r: 8, b: 18, l: 26 }, svg = svgIn(p, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`), col = kcol(k);
+        const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleLinear().domain([1990, 2026]).range([0, iw]), y = d3.scaleLinear().domain([0, ymax]).nice().range([ih, 0]);
+        yAxis(g, y, iw, 4);
+        g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+        [1990, 2010, 2026].forEach(yy => g.append('text').attr('class', 'lbl mut').attr('x', x(yy)).attr('y', ih + 13).attr('text-anchor', yy === 1990 ? 'start' : yy === 2026 ? 'end' : 'middle').text(yy));
+        g.append('path').attr('d', d3.area().x(r => x(r[0])).y0(r => y(r[3])).y1(r => y(r[4]))(R)).attr('fill', col).attr('fill-opacity', .16);
+        g.append('path').attr('d', d3.line().x(r => x(r[0])).y(r => y(r[2]))(R)).attr('fill', 'none').attr('stroke', col).attr('stroke-width', 2).attr('stroke-linejoin', 'round');
+        bindTip(g.append('g').selectAll('circle').data(R).join('circle').attr('cx', r => x(r[0])).attr('cy', r => y(r[2])).attr('r', 2.4).attr('fill', r => r[0] === 2026 ? css('--surface') : col).attr('stroke', col).attr('stroke-width', 1.2),
+          r => `<b>${Cap(kn(k))} · ${r[0]}${r[0] === 2026 ? ' (' + t('partial') + ')' : ''}</b>` + trow(col, L('Médiane', 'Median'), `${fmt(r[2])} ${t('days')}`) + trow(null, L('Moitié centrale', 'Middle half'), `${fmt(r[3])}–${fmt(r[4])} ${t('days')}`) + trow(null, L('Plus de 30 jours', 'Over 30 days'), pv(r[5], 1)) + trow(null, L('Textes', 'Texts'), fmt(r[1])));
+        const f = R[0], l_ = R[R.length - 1];
+        halo(g, x(f[0]) + 3, y(f[2]) - 7, `${fmt(f[2])} j`.replace(' j', L(' j', ' d')), 'start');
+        halo(g, x(l_[0]) - 3, y(l_[2]) - 7, `${fmt(l_[2])}`.concat(L(' j', ' d')), 'end');
+      });
+      note(el, ['textes/<NATURE>/<YEAR>/<TEXT>/index.md (Date du texte, Publication au JORF)'], fmt(sum(PUBK, ([n]) => sum(c[n], r => r[1]))) + L(' textes en vigueur', ' texts in force'),
+        L('seuls les textes qui ont encore un article en vigueur ont une fiche ; les années de moins de 5 textes ne sont pas tracées. Un délai de plus de dix ans est tenu pour une erreur de date et écarté. 2026 s’arrête au 28 octobre (point vide).',
+          'only texts that still have an article in force have a record; years with fewer than 5 texts are not drawn. A delay of more than ten years is taken as a date error and left out. 2026 stops on 28 October (hollow dot).'));
+      table(el, [t('year'), ...PUBK.map(([n, k]) => Cap(kn(k)) + L(' (médiane, j)', ' (median, d)')), ...PUBK.map(([n, k]) => Cap(kn(k)) + L(' (textes)', ' (texts)'))],
+        d3.range(1990, 2027).map(yy => [String(yy), ...PUBK.map(([n]) => { const r = c[n].find(q => q[0] === yy); return r ? r[2] : '–'; }), ...PUBK.map(([n]) => { const r = c[n].find(q => q[0] === yy); return r ? r[1] : 0; })]));
+    }
+  };
+});
+
+// the laws that wrote the most versions in the codes: [French, English] subject, from their titles
+const LAWT = { '2013-672': ['activités bancaires', 'banking activities'], '2001-616': ['Mayotte', 'Mayotte'], '2019-486': ['croissance et transformation des entreprises', 'business growth and transformation'],
+  '2007-223': ['outre-mer', 'overseas France'], '92-1336': ['entrée en vigueur du nouveau code pénal', 'entry into force of the new Criminal Code'],
+  '2023-1322': ['finances pour 2024', 'finance law for 2024'], '2016-1088': ['travail et dialogue social', 'work and social dialogue'], '2025-127': ['finances pour 2025', 'finance law for 2025'],
+  '2010-788': ['engagement national pour l’environnement', 'national commitment to the environment'], '2013-403': ['élection des conseillers départementaux et municipaux', 'election of departmental and municipal councillors'],
+  '2015-990': ['croissance, activité et égalité des chances économiques', 'growth, activity and equal economic opportunity'], '2004-204': ['justice et criminalité', 'justice and crime'],
+  '2019-222': ['programmation et réforme pour la justice', 'justice programming and reform'], '2014-366': ['logement et urbanisme', 'housing and town planning'], '2003-706': ['sécurité financière', 'financial security'] };
+chart('c10', el => {
+  const c = D.c10, R = c.rows.map(r => ({ ...r, n: sum(Object.values(r.codes)), nc: Object.keys(r.codes).length, num: r.k.split(':')[1] }));
+  const tc = new Map(); R.forEach(r => Object.entries(r.codes).forEach(([k, v]) => tc.set(k, (tc.get(k) || 0) + v)));
+  const CK = [...tc.entries()].sort((a, b) => b[1] - a[1]).slice(0, 5).map(d => d[0]), keys = [...CK, '_o'];
+  R.forEach(r => { CK.forEach(k => r[k] = r.codes[k] || 0); r._o = r.n - sum(CK, k => r[k]); });
+  const top = R[0], most = R.reduce((a, b) => b.nc > a.nc ? b : a), lfs = R.filter(r => /de finances pour/.test(r.title));
+  const isLO = r => /^Loi organique/i.test(r.title) || /^LOI organique/.test(r.title);
+  const lname = (r, short) => LANG === 'fr' ? `${isLO(r) ? (short ? 'LO' : 'Loi organique') : 'Loi'} n° ${r.num}` : `${isLO(r) ? (short ? 'Org. Law' : 'Organic Law') : 'Law'} No. ${r.num}`;
+  return {
+    title: L(`Les lois-fleuves : la loi n° ${top.num} a écrit à elle seule ${fmt(top.n)} versions d’articles dans ${top.nc} codes ; la loi n° ${most.num} a touché ${most.nc} codes`,
+      `The biggest laws: Law No. ${top.num} alone wrote ${fmt(top.n)} article versions in ${top.nc} codes; Law No. ${most.num} touched ${most.nc} codes`),
+    dek: L(`Les 15 lois qui ont écrit le plus de versions d’articles dans les codes, et dans lesquels. En tête, la loi du 26 juillet 2013 de séparation et de régulation des activités bancaires ; ${lfs.length === 2 ? 'deux' : fmt(lfs.length)} lois de finances en font partie, celles pour ${lfs.map(r => r.title.match(/de finances pour (\d{4})/i)[1]).join(' et pour ')}. La loi du 16 décembre 1992 relative à l’entrée en vigueur du nouveau code pénal a modifié ${most.nc} codes. Les lois de codification, qui écrivent la partie législative d’un code entier, sont laissées de côté.`,
+      `The 15 laws that wrote the most article versions in the codes, and in which codes. At the top, the law of 26 July 2013 on the separation and regulation of banking activities; ${lfs.length === 2 ? 'two' : fmt(lfs.length)} finance laws are among them, those for ${lfs.map(r => r.title.match(/de finances pour (\d{4})/i)[1]).join(' and ')}. The law of 16 December 1992 on the entry into force of the new Criminal Code changed ${most.nc} codes. Codification laws, which write the legislative part of a whole code, are left out.`),
+    draw(el) {
+      const cols = S8(), colors = [cols[6], cols[0], cols[2], cols[3], cols[1], css('--muted-mark')], names = [...CK.map(k => cname(k)), L('autres codes', 'other codes')];
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: names[i] })));
+      const nw = narrow(W(el)), lab = (r, n_) => n_ ? lname(r, true) : `${lname(r)} · ${LAWT[r.num] ? LA(LAWT[r.num]) : ''}`;
+      const l = Math.min(nw ? 120 : 420, textW(el, R.map(r => lab(r, nw))) + 14);
+      splitBars(el, R, keys, colors, names, { rowH: 26, l, ln: l, rr: 92, rrn: 74, label: lab,
+        right: (r, n_) => n_ ? `${fmt(r.n)} · ${r.nc}` : `${fmt(r.n)} · ${r.nc} ${L('codes', 'codes')}`,
+        tipHead: r => `<div style="margin:2px 0 4px;color:var(--text-2)">${esc(r.title)}</div>`,
+        tipExtra: r => trow(null, L('Codes touchés', 'Codes touched'), fmt(r.nc)) + trow(null, L('Articles propres en vigueur ou passés', 'Own articles (versions)'), fmt(r.own)) + trow(null, L('Articles de codes abrogés', 'Code articles ended'), fmt(r.ended)) });
+      note(el, ['git log --author="Loi n° <NUMBER>" --name-status -- codes/'], fmt(c.laws) + L(' lois qui ont écrit au moins une version d’article de code', ' laws that wrote at least one code article version'),
+        L(`une version est un fichier d’article de code écrit par un commit dont l’auteur est la loi ; les articles propres de la loi (son dossier dans textes/) ne comptent pas. Lois de codification écartées : ${c.skipped.map(k => 'n° ' + k.split(':')[1]).join(', ')} (partie législative d’un code). Les intitulés viennent des fiches index.md.`,
+          `a version is a code article file written by a commit whose author is the law; the law’s own articles (its folder in textes/) do not count. Codification laws left out: ${c.skipped.map(k => 'No. ' + k.split(':')[1]).join(', ')} (the legislative part of a code). Titles come from the index.md records.`));
+      table(el, [L('Loi', 'Law'), L('Intitulé', 'Title'), L('Versions dans les codes', 'Versions in the codes'), L('Codes', 'Codes'), ...CK.map(k => cname(k, true))], R.map(r => [lname(r), r.title, r.n, r.nc, ...CK.map(k => r[k])]));
+    }
+  };
+});
+
+part('p3', 'III. Les codes', 'III. The codes',
+  'Les 77 codes réunissent un quart des articles en vigueur. Comment ils ont grandi, les jours où un code a été écrit d’un coup, leur activité année par année, les articles qui changent le plus et la place des lois de finances.',
+  'The 77 codes hold a quarter of the articles in force. How they grew, the days when a code was written at a stroke, their activity year by year, the articles that change most and the part played by finance laws.');
+
+// a code's curve starts in 1950, or later in the first year the code holds at least 1% of its articles of today
+const c11start = r => r.years.find((y, i) => y >= 1950 && r.n[i] >= 0.01 * r.now);
+// a label beside a dot on a step curve, at the first place where it touches neither the line nor the panel's edges
+function placeLabel(g, txt, cx, cy, segs, box) {
+  const t_ = halo(g, cx, cy, txt, 'start', 'lbl').style('font-size', '10px'), tw = t_.node().getComputedTextLength();
+  const clear = (x0, x1, y0, y1) => {
+    if (x0 < box.x0 || x1 > box.x1 || y0 < box.y0 || y1 > box.y1) return false;
+    let lo = Infinity, hi = -Infinity;
+    segs.forEach(([sx0, sx1, sy0, sy1]) => { if (sx1 >= x0 - 2 && sx0 <= x1 + 2) { lo = Math.min(lo, sy0, sy1); hi = Math.max(hi, sy0, sy1); } });
+    return lo === Infinity || y1 < lo - 2 || y0 > hi + 2;
+  };
+  // above-left, below-right, above-right, below-left, centred below or above, then further up on either side
+  const C = [['end', -6, -6], ['start', 6, 13], ['start', 6, -6], ['end', -6, 13], ['middle', 0, 17], ['middle', 0, -9], ['end', -6, -18], ['start', 6, -18]];
+  for (const [anchor, dx, dy] of C) {
+    const x0 = anchor === 'end' ? cx + dx - tw : anchor === 'middle' ? cx - tw / 2 : cx + dx, y0 = cy + dy - 8;
+    if (clear(x0, x0 + tw, y0, y0 + 11)) { t_.attr('x', cx + dx).attr('y', cy + dy).attr('text-anchor', anchor); return t_; }
+  }
+  t_.remove();
+  return null;
+}
+chart('c11', el => {
+  const R = D.c11, at = (r, y) => r.n[r.years.indexOf(y)], csp = R.find(r => r.k === 'code-de-la-sante-publique'), cgi = R.find(r => r.k === 'code-general-des-impots-cgi');
+  // what a code's folder held before its curve starts (a few files, not drawn)
+  const pre = R.map(r => { const s = c11start(r), ys = r.years.filter(y => y < s && y >= 1950 && at(r, y) > 0); return ys.length ? { r, s, from: Math.max(1950, r.first), max: d3.max(ys, y => at(r, y)) } : null; }).filter(Boolean);
+  const preTxt = q => L(`avant ${q.s}, le dossier du ${cname(q.r.k)} ne compte que ${nn(q.max, ['fichier d’article', 'fichiers d’articles'], ['', ''])} au plus (depuis ${q.from}), non tracés`,
+    `before ${q.s}, the folder of the ${cname(q.r.k)} holds no more than ${q.max} article ${q.max === 1 ? 'file' : 'files'} (from ${q.from}), not drawn`);
+  // the day on which most of a code's articles took effect together, among those on the curve
+  const jumpOf = r => r.jumps.find(j => +j[0].slice(0, 4) >= c11start(r));
+  const offAxis = R.filter(r => r.jumps[0] && +r.jumps[0][0].slice(0, 4) < c11start(r));
+  return {
+    title: L(`La croissance des codes : le Code de la santé publique est passé de ${fmt(at(csp, 1990))} articles en 1990 à ${fmt(csp.now)}, ${times(csp.now / at(csp, 1990))} plus`,
+      `How the codes grew: the Public Health Code went from ${fmt(at(csp, 1990))} articles in 1990 to ${fmt(csp.now)}, ${times(csp.now / at(csp, 1990))} as many`),
+    dek: L(`Le nombre d’articles en vigueur dans huit codes, à la fin de chaque année, depuis 1950 ou depuis l’année où le code prend forme dans LEGI ; sous chaque nom, le nombre d’articles la première année de la courbe et aujourd’hui. Les marches sont des jours où un code a été écrit ou refondu d’un coup (graphique suivant). Le Code général des impôts, l’un des plus modifiés, garde à peu près le même nombre d’articles (${fmt(at(cgi, 1980))} en 1980, ${fmt(cgi.now)} aujourd’hui) : ses articles sont réécrits plutôt qu’ajoutés.`,
+      `The number of articles in force in eight codes at the end of each year, since 1950 or since the year the code takes shape in LEGI; under each name, the number of articles in the first year of the curve and today. The steps are days when a code was written or recast at a stroke (next chart). The General Tax Code, one of the most changed, keeps about the same number of articles (${fmt(at(cgi, 1980))} in 1980, ${fmt(cgi.now)} today): its articles are rewritten rather than added.`),
+    draw(el) {
+      const box = el.append('div').attr('class', 'multi').style('grid-template-columns', narrow(W(el)) ? 'repeat(2, minmax(0, 1fr))' : 'repeat(4, minmax(0, 1fr))');
+      const panels = R.map(r => { const p = box.append('div'), s = c11start(r);
+        p.append('h4').text(cname(r.k)); p.append('p').text(`${fmt(at(r, s))} (${s}) → ${fmt(r.now)}`); return [p, r]; });
+      panels.forEach(([p, r], pi) => {
+        const w = WR(p), h = 128, m = { t: 12, r: 6, b: 18, l: 36 }, svg = svgIn(p, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`), col = css('--s7');
+        const s = c11start(r), pts = r.years.map((y, i) => [y, r.n[i]]).filter(d => d[0] >= s && d[0] <= 2026);
+        const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleLinear().domain([1950, 2027]).range([0, iw]), y = d3.scaleLinear().domain([0, d3.max(pts, d => d[1])]).nice().range([ih, 0]);
+        yAxis(g, y, iw, 3, v => v >= 1000 ? fmt(v / 1000) + L(' k', 'k') : fmt(v));
+        [1950, 1990, 2026].forEach(yy => g.append('text').attr('class', 'lbl mut').attr('x', x(yy)).attr('y', ih + 13).attr('text-anchor', yy === 1950 ? 'start' : yy === 2026 ? 'end' : 'middle').text(yy));
+        // each year's end-of-year count runs from the start of the year to the start of the next one
+        const ext = pts.concat([[2027, pts[pts.length - 1][1]]]);
+        g.append('path').attr('d', d3.area().curve(d3.curveStepAfter).x(d => x(d[0])).y0(ih).y1(d => y(d[1]))(ext)).attr('fill', grad(svg, 'c11g' + pi, col, .35));
+        g.append('path').attr('d', d3.line().curve(d3.curveStepAfter).x(d => x(d[0])).y(d => y(d[1]))(ext)).attr('fill', 'none').attr('stroke', col).attr('stroke-width', 1.8);
+        g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+        // the line's segments, for the label placement: horizontal runs and the vertical steps between them
+        const segs = [];
+        ext.forEach((d, i) => { if (i < ext.length - 1) { segs.push([x(d[0]), x(ext[i + 1][0]), y(d[1]), y(d[1])]); segs.push([x(ext[i + 1][0]), x(ext[i + 1][0]), y(d[1]), y(ext[i + 1][1])]); } });
+        const j = jumpOf(r);
+        if (j) {
+          const jy = +j[0].slice(0, 4), cx = x(jy), cy = y(at(r, jy));
+          g.append('circle').attr('cx', cx).attr('cy', cy).attr('r', 3.2).attr('fill', css('--surface')).attr('stroke', col).attr('stroke-width', 1.6);
+          placeLabel(g, dateShort(j[0]), cx, cy, segs, { x0: 1, x1: iw - 1, y0: -m.t + 1, y1: ih - 2 });
+        }
+        bindTip(g.append('g').selectAll('rect').data(pts).join('rect').attr('class', 'hit').attr('x', d => x(d[0])).attr('width', Math.max(1, x(1951) - x(1950))).attr('y', 0).attr('height', ih),
+          d => `<b>${cname(r.k)} · ${d[0]}</b>` + trow(col, L('Articles en vigueur en fin d’année', 'Articles in force at year end'), fmt(d[1])) + (r.jumps.filter(q => +q[0].slice(0, 4) === d[0]).map(q => trow(null, L(`Écrits le ${dateTxt(q[0])}`, `Written on ${dateTxt(q[0])}`), fmt(q[1]))).join('')));
+      });
+      note(el, ['git log --name-status (A, D) -- codes/<CODE>/', 'In-force:'], fmt(sum(R, r => r.now)) + L(' articles en vigueur dans ces huit codes', ' articles in force in these eight codes'),
+        L(`un article compte de la première version que LEGI en donne à la suppression de son fichier. Une courbe commence en 1950, ou la première année où le code compte au moins 1 % de ses articles d’aujourd’hui${pre.length ? ' ; ' + pre.map(preTxt).join(' ; ') : ''}. Le point marque le jour où le plus d’articles du code sont entrés en vigueur ensemble depuis le début de la courbe${offAxis.length ? ` (${offAxis.map(r => `${cname(r.k)} : ${fmt(r.jumps[0][1])} articles le ${dateTxt(r.jumps[0][0])}, avant l’axe`).join(' ; ')})` : ''}. Avant les années 1990, LEGI ne garde pas toujours les articles abrogés : les débuts de courbe peuvent être trop bas.`,
+          `an article counts from the first version LEGI gives of it until its file is deleted. A curve starts in 1950, or in the first year the code holds at least 1% of its articles of today${pre.length ? '; ' + pre.map(preTxt).join('; ') : ''}. The dot marks the day on which most of the code’s articles took effect together since the start of the curve${offAxis.length ? ` (${offAxis.map(r => `${cname(r.k)}: ${fmt(r.jumps[0][1])} articles on ${dateTxt(r.jumps[0][0])}, before the axis`).join('; ')})` : ''}. Before the 1990s LEGI does not always keep repealed articles: the start of a curve may be too low.`));
+      table(el, [t('year'), ...R.map(r => cname(r.k, true))], d3.range(1950, 2027, 1).filter(y => y % 5 === 0 || y === 2026).map(y => [String(y), ...R.map(r => y < c11start(r) ? '–' : at(r, y))]));
+    }
+  };
+});
+
+const CNK = ['ord', 'loi', 'dec', 'arr', 'oth', 'dila'];
+chart('c12', el => {
+  const R = D.c12.map(r => { const o = { ...r, loi: (r.by.loi || 0) + (r.by.lo || 0) + (r.by.lc || 0), ord: r.by.ord || 0, dec: r.by.dec || 0, arr: r.by.arr || 0, oth: (r.by.aut || 0) + (r.by.jug || 0), dila: r.by.dila || 0 }; return o; });
+  const top = R.reduce((a, b) => b.n > a.n ? b : a), main = r => CNK.reduce((a, k) => r[k] > r[a] ? k : a, 'ord');
+  const byMain = k => R.filter(r => main(r) === k).length, codes = new Set(R.map(r => r.k)).size, both = R.filter(r => r.ord > 100 && r.dec > 100);
+  return {
+    title: L(`Les codes écrits en un jour : le ${dateTxt(top.day)}, ${fmt(top.n)} articles du ${cname(top.k)} sont entrés en vigueur d’un coup`,
+      `Codes written in a day: on ${dateTxt(top.day)}, ${fmt(top.n)} articles of the ${cname(top.k)} took effect at once`),
+    dek: L(`Les ${R.length} jours depuis 1985 où au moins 1 000 articles nouveaux d’un même code sont entrés en vigueur ensemble, dans ${codes} codes : la création d’un code, d’une de ses parties ou leur refonte. L’essentiel des articles vient d’une ordonnance pour ${byMain('ord')} de ces jours (article 38 de la Constitution : le Gouvernement, autorisé par le Parlement, prend des mesures du domaine de la loi), de décrets pour ${byMain('dec')}, d’une loi pour ${byMain('loi')}. Partie législative et partie réglementaire arrivent parfois le même jour, par une ordonnance et un décret : ${andList(both.map(r => `${cname(r.k)} (${r.day.slice(0, 4)})`))}.`,
+      `The ${R.length} days since 1985 on which at least 1,000 new articles of one code took effect together, in ${codes} codes: the creation of a code or of one of its parts, or their recasting. Most of the articles came from an ordinance on ${byMain('ord')} of these days (article 38 of the Constitution: the Government, authorised by Parliament, takes measures within the domain of law), from decrees on ${byMain('dec')} and from a law on ${byMain('loi')}. The legislative and regulatory parts sometimes arrive on the same day, by an ordinance and a decree: ${andList(both.map(r => `${cname(r.k)} (${r.day.slice(0, 4)})`))}.`),
+    draw(el) {
+      const colors = CNK.map(k => k === 'oth' ? css('--s8') : kcol(k)), names = CNK.map(k => k === 'oth' ? L('Autres (délibérations…)', 'Other (deliberations…)') : akName(k));
+      legend(el, CNK.map((k, i) => ({ c: colors[i], l: names[i] })));
+      const nw = narrow(W(el)), lab = (r, n_) => n_ ? `${r.day.slice(0, 4)} · ${cname(r.k, true)}` : `${dateShort(r.day)} · ${cname(r.k)}`;
+      const l = Math.min(nw ? 150 : 440, textW(el, R.map(r => lab(r, nw))) + 14);
+      splitBars(el, R, CNK, colors, names, { rowH: 22, l, ln: l, rr: 54, rrn: 46, label: lab, right: r => fmt(r.n),
+        tipHead: r => `<div style="margin:2px 0 4px;color:var(--text-2)">${r.auth.map(a => esc(tname(a[0])) + ' : ' + fmt(a[1])).join('<br>')}</div>` });
+      note(el, ['git log --name-status (A) -- codes/<CODE>/', 'In-force:'], R.length + L(' jours', ' days'),
+        L('un article nouveau est un fichier créé (statut A) ; ceux qu’une refonte retire le même jour ne sont pas déduits. Le type de texte est celui de l’auteur de chaque commit du jour. « Non attribué » : articles que LEGI ne rattache à aucun texte (le Code de la santé publique du 22 juin 2000, par exemple). Les codes écrits avant 1985 (Code général des impôts en 1950, Code de la santé publique en 1953…) ne figurent pas.',
+          'a new article is a file created (status A); those a recasting removes on the same day are not subtracted. The kind of text is that of the author of each commit of the day. "Unattributed": articles LEGI links to no text (the Public Health Code of 22 June 2000, for example). Codes written before 1985 (General Tax Code in 1950, Public Health Code in 1953…) are not shown.'));
+      table(el, [L('Jour', 'Day'), L('Code', 'Code'), ...names, t('total'), L('Texte principal', 'Main text')], R.map(r => [r.day, cname(r.k), ...CNK.map(k => r[k]), r.n, tname(r.auth[0][0])]));
+    }
+  };
+});
+
+chart('c13', el => {
+  const c = D.c13, Y = c.years, R = c.rows.map(r => ({ ...r, tot: sum(r.v) })), mx = d3.max(R, r => d3.max(r.v));
+  const maxCell = R.flatMap(r => r.v.map((v, i) => ({ r, y: Y[i], v }))).reduce((a, b) => b.v > a.v ? b : a);
+  const busiest = R.reduce((a, b) => b.tot > a.tot ? b : a), gone = R.filter(r => !r.now);
+  return {
+    title: L(`Les codes, année par année : ${fmt(busiest.tot)} versions d’articles pour le ${cname(busiest.k)} depuis 1990 ; ${fmt(maxCell.v)} pour le ${cname(maxCell.r.k)} en ${maxCell.y}`,
+      `The codes year by year: ${fmt(busiest.tot)} article versions for the ${cname(busiest.k)} since 1990; ${fmt(maxCell.v)} for the ${cname(maxCell.r.k)} in ${maxCell.y}`),
+    dek: L(`Chaque ligne est un code, chaque case une année : plus sa couleur est soutenue, plus de versions d’articles du code sont entrées en vigueur cette année-là. Les ${R.length} codes qui ont le plus changé depuis 1990, par ordre décroissant ; à droite, le total. Hachuré : les années antérieures au premier article que LEGI donne du code.${gone.length ? ` Le ${andList(gone.map(r => cname(r.k)))} n’a plus d’article en vigueur.` : ''}`,
+      `Each row is a code, each square a year: the stronger its colour, the more article versions of the code took effect that year. The ${R.length} codes that changed most since 1990, in decreasing order; on the right, the total. Hatched: the years before the first article LEGI gives for the code.${gone.length ? ` The ${andList(gone.map(r => cname(r.k)))} no longer has an article in force.` : ''}`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), lab = r => cname(r.k, nw), lw = Math.min(nw ? 128 : 330, textW(el, R.map(lab)) + 12), rr = nw ? 40 : 110, rowH = nw ? 15 : 19;
+      const iw = w - lw - rr, cw = iw / Y.length, ramp = seqRamp(), col = n => ramp(0.12 + 0.88 * Math.sqrt(n / mx));
+      legend(el, [10, 100, 1000, mx].map(n => ({ c: col(n), l: n === mx ? L(`${fmt(n)} versions en un an`, `${fmt(n)} versions in a year`) : fmt(n) }))
+        .concat([{ c: css('--surface-2'), l: L('aucune', 'none') }, { c: css('--muted-mark'), l: L('avant le premier article', 'before the first article'), shape: 'hatch' }]));
+      const svg = svgIn(el, w, 18 + rowH * R.length + 4), g = svg.append('g').attr('transform', `translate(${lw},16)`), hp = hatch(svg);
+      Y.forEach((y, i) => { if (y % (nw ? 10 : 5) === 0) g.append('text').attr('class', 'lbl').attr('x', i * cw + cw / 2).attr('y', -5).attr('text-anchor', 'middle').text(y); });
+      const xb = d3.scaleLinear().domain([0, d3.max(R, r => r.tot)]).range([0, rr - (nw ? 0 : 52)]);
+      R.forEach((r, ri) => {
+        const cy = ri * rowH;
+        g.append('text').attr('class', 'lbl strong').attr('x', -6).attr('y', cy + rowH / 2 + 4).attr('text-anchor', 'end').text(lab(r));
+        Y.forEach((y, i) => {
+          const v = r.v[i], before = y < r.first;
+          bindTip(g.append('rect').attr('x', i * cw + .8).attr('y', cy + .8).attr('width', cw - 1.6).attr('height', rowH - 1.6).attr('rx', 2.5).attr('fill', before ? hp : v ? col(v) : css('--surface-2')).attr('opacity', y === 2026 ? .55 : 1).datum({ r, y, v }),
+            d => `<b>${cname(d.r.k)} · ${d.y}${d.y === 2026 ? ' (' + t('partial') + ')' : ''}</b>` + trow(null, L('Versions entrées en vigueur', 'Versions that took effect'), fmt(d.v)));
+        });
+        if (!nw) g.append('path').attr('d', barPath(iw + 8, cy + 4, iw + 8 + xb(r.tot), rowH - 8, 2)).attr('fill', css('--s1'));
+        g.append('text').attr('class', 'lbl').attr('x', iw + (nw ? 4 : 14 + xb(r.tot))).attr('y', cy + rowH / 2 + 4).style('font-size', nw ? '9.5px' : null).text(nw ? fmt(Math.round(r.tot / 1000)) + L(' k', 'k') : fmt(r.tot));
+      });
+      note(el, ['git log --name-status (A, M) -- codes/', 'In-force:'], fmt(sum(R, r => r.tot)) + L(' versions', ' versions'),
+        L('une version est un fichier d’article écrit ; elle compte l’année de son entrée en vigueur. La couleur suit la racine carrée du nombre de versions, pour que les années ordinaires restent lisibles à côté des codifications. 2026 s’arrête au 28 octobre (plus clair).',
+          'a version is one article file written; it counts in the year it took effect. Colour follows the square root of the number of versions, so ordinary years stay readable next to codifications. 2026 stops on 28 October (lighter).'));
+      table(el, [L('Code', 'Code'), ...Y.map(String), t('total')], R.map(r => [cname(r.k), ...r.v, r.tot]));
+    }
+  };
+});
+
+const C14K = ['om', 'cgi', 'other'];
+const c14N = () => [L('applicabilité outre-mer : « dans sa rédaction résultant de… »', 'overseas application: "in its wording resulting from…"'), L('Code général des impôts', 'General Tax Code'), L('autres', 'other')];
+const c14C = () => [css('--s5'), css('--s7'), css('--muted-mark')];
+chart('c14', el => {
+  const R = D.c14, top = R[0], nOm = R.filter(r => r.cls === 'om').length, nCgi = R.filter(r => r.cls === 'cgi').length;
+  const a81 = R.find(r => r.p.endsWith('impots-cgi/81.md')), a197 = R.find(r => r.p.endsWith('impots-cgi/197.md'));
+  const an = r => artNo(r.p.split('/').pop().replace(/\.md$/, ''));
+  return {
+    title: L(`Les articles les plus réécrits : ${fmt(top.n)} versions pour l’article ${an(top)} ${cof(top.code)} ; ${nOm} des 20 premiers disent dans quelle rédaction le code s’applique outre-mer`,
+      `The most rewritten articles: ${fmt(top.n)} versions of article ${an(top)} ${cof(top.code)}; ${nOm} of the top 20 say in which wording the code applies overseas`),
+    dek: L(`Les 20 articles de codes en vigueur qui ont eu le plus de versions. Le premier dit que la partie réglementaire du Code de procédure pénale s’applique en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna « dans sa rédaction résultant du décret n° … » : il change à chaque décret qui modifie le code. Parmi les 20, ${nOm} articles sont de ce genre. Les autres sont surtout des articles du Code général des impôts (${nCgi}), dont l’article 81 sur les revenus affranchis de l’impôt${a81 ? ` (${fmt(a81.n)} versions)` : ''}${a197 ? ` et l’article 197 sur le calcul de l’impôt sur le revenu (${fmt(a197.n)})` : ''}.`,
+      `The 20 code articles in force that have had the most versions. The first says that the regulatory part of the Code of Criminal Procedure applies in New Caledonia, French Polynesia and the Wallis and Futuna Islands "in its wording resulting from Decree No. …": it changes with every decree that amends the code. Of the 20, ${nOm} are of this kind. The others are mostly articles of the General Tax Code (${nCgi}), among them article 81 on income exempt from tax${a81 ? ` (${fmt(a81.n)} versions)` : ''}${a197 ? ` and article 197 on the calculation of income tax (${fmt(a197.n)})` : ''}.`),
+    draw(el) {
+      const colors = c14C(), names = c14N();
+      legend(el, C14K.map((k, i) => ({ c: colors[i], l: names[i] })));
+      const w = W(el), nw = narrow(w), lab = r => `${/^ann/.test(an(r)) ? '' : L('art. ', 'art. ')}${an(r)} · ${cname(r.code, true)}`, lw = Math.min(nw ? 170 : 380, textW(el, R.map(lab)) + 14);
+      const rowH = 22, m = { t: 2, r: 40, b: 4, l: lw }, svg = svgIn(el, w, m.t + m.b + rowH * R.length), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const x = d3.scaleLinear().domain([0, top.n]).range([0, w - m.l - m.r]);
+      R.forEach((r, i) => {
+        const cy = i * rowH, cl = colors[C14K.indexOf(r.cls)];
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + rowH / 2 + 4).attr('text-anchor', 'end').text(lab(r));
+        g.append('path').attr('d', barPath(0, cy + 5, x(r.n), rowH - 10, 3)).attr('fill', cl);
+        g.append('text').attr('class', 'lbl').attr('x', x(r.n) + 6).attr('y', cy + rowH / 2 + 4).text(fmt(r.n));
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -lw).attr('width', w).attr('y', cy).attr('height', rowH).datum(r),
+          d => `<b>${L('Article', 'Article')} ${an(d)} ${cof(d.code)}</b>` + trow(cl, L('Versions', 'Versions'), fmt(d.n)) + trow(null, L('Première version', 'First version'), dateTxt(d.first)) + `<div style="margin-top:4px;color:var(--text-2)">« ${esc(d.head.slice(0, 200))}… »</div>`);
+      });
+      note(el, ['git log --name-status -- codes/<CODE>/<ARTICLE>.md', 'codes/<CODE>/<ARTICLE>.md'], fmt(R.length) + L(' articles', ' articles'),
+        L('une version est un fichier d’article écrit ; un article renuméroté repart de zéro sous son nouveau numéro. « Applicabilité outre-mer » : le texte en vigueur de l’article dit le code applicable en Nouvelle-Calédonie, en Polynésie française ou à Wallis-et-Futuna « dans sa rédaction » d’un texte donné (règle dans src/prep.py). L’historique du Code général des impôts commence en 1950.',
+          'a version is one article file written; a renumbered article starts again from zero under its new number. "Overseas application": the article’s text in force declares the code applicable in New Caledonia, French Polynesia or Wallis and Futuna "in its wording" of a given text (rule in src/prep.py). The General Tax Code’s history starts in 1950.'));
+      table(el, [L('Article', 'Article'), L('Code', 'Code'), L('Versions', 'Versions'), L('Première version', 'First version'), L('Début du texte en vigueur', 'Start of the text in force')], R.map(r => [an(r), cname(r.code), r.n, r.first, r.head.slice(0, 120) + '…']));
+    }
+  };
+});
+
+const FK = ['lf', 'lfr', 'lfss', 'loi', 'ord', 'dec', 'other'];
+const fkN = () => [L('loi de finances de l’année', 'finance law for the year'), L('loi de finances rectificative ou de fin de gestion', 'amending or end-of-year finance law'), L('loi de financement de la sécurité sociale', 'social security financing law'),
+  L('autres lois', 'other laws'), L('ordonnances', 'ordinances'), L('décrets', 'decrees'), L('autres et non attribué', 'other and unattributed')];
+const fkC = () => { const b = d3.color(css('--s1')); return [css('--s1'), b.copy({ opacity: .5 }).formatRgb(), css('--s5'), css('--s7'), css('--s2'), css('--s3'), css('--muted-mark')]; };
+chart('c15', el => {
+  const c = D.c15, val = (rows, y, k) => { const r = rows.find(q => q[0] === y); if (!r) return 0; const o = r[1]; return k === 'other' ? (o.other || 0) + (o.arr || 0) : (o[k] || 0); };
+  const T = rows => { const o = {}; FK.forEach(k => o[k] = sum(rows, r => val(rows, r[0], k))); o.n = sum(FK, k => o[k]); return o; };
+  const cgi = T(c.cgi), css_ = T(c.css), lf = c.lf.filter(r => r[1] >= 2000), big = lf.reduce((a, b) => b[2] > a[2] ? b : a);
+  const lfDays = lf.filter(r => r[1] <= 2024 && r[5]).map(r => r[5]), dmin = d3.min(lfDays, d => +d.slice(8)), dmax = d3.max(lfDays, d => +d.slice(8)), late = lf.filter(r => r[5] && r[5].slice(5, 7) !== '12');
+  return {
+    title: L(`Les lois de finances écrivent le Code général des impôts : ${pct(cgi.lf + cgi.lfr, cgi.n)} de ses versions depuis 2000 ; les lois de financement de la sécurité sociale, ${pct(css_.lfss, css_.n)} de celles du Code de la sécurité sociale`,
+      `Finance laws write the General Tax Code: ${pct(cgi.lf + cgi.lfr, cgi.n)} of its versions since 2000; social security financing laws, ${pct(css_.lfss, css_.n)} of those of the Social Security Code`),
+    dek: L(`Les versions d’articles du Code général des impôts entrées en vigueur chaque année, selon le texte qui les a écrites : ${pct(cgi.lf, cgi.n)} viennent de la loi de finances de l’année, ${pct(cgi.lfr, cgi.n)} d’une loi de finances rectificative ou de fin de gestion. La loi de finances pour ${big[1]} en a écrit le plus (${fmt(big[2])}). De 2000 à 2024, chaque loi de finances initiale a été signée entre le ${dmin} et le ${dmax} décembre de l’année précédente ; ${late.length === 2 ? `celles pour ${late[0][1]} et ${late[1][1]} l’ont été le ${dateTxt(late[0][5])} et le ${dateTxt(late[1][5])}` : `${late.length} l’ont été plus tard`}. En bas : le Code de la sécurité sociale est écrit à ${pct(css_.dec, css_.n)} par des décrets.`,
+      `The article versions of the General Tax Code that took effect each year, by the text that wrote them: ${pct(cgi.lf, cgi.n)} come from the year’s finance law, ${pct(cgi.lfr, cgi.n)} from an amending or end-of-year finance law. The finance law for ${big[1]} wrote the most (${fmt(big[2])}). From 2000 to 2024, each initial finance law was signed between ${dmin} and ${dmax} December of the year before; ${late.length === 2 ? `those for ${late[0][1]} and ${late[1][1]} were signed on ${dateTxt(late[0][5])} and ${dateTxt(late[1][5])}` : `${late.length} were signed later`}. Below: ${pct(css_.dec, css_.n)} of the Social Security Code’s versions come from decrees.`),
+    draw(el) {
+      const colors = fkC(), names = fkN(), Y = d3.range(2000, 2027);
+      legend(el, FK.map((k, i) => ({ c: colors[i], l: names[i] })));
+      h4(el, L('Code général des impôts : versions par année d’entrée en vigueur', 'General Tax Code: versions by year of entry into force'), 4);
+      const w = W(el), nw = narrow(w), h = nw ? 200 : 230, m = { t: 14, r: 6, b: 22, l: 38 }, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleBand().domain(Y).range([0, iw]).padding(0.2), tot = y => sum(FK, k => val(c.cgi, y, k));
+      const y = d3.scaleLinear().domain([0, d3.max(Y, tot)]).nice().range([ih, 0]);
+      yAxis(g, y, iw, 4);
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      Y.forEach(yy => {
+        let acc = 0; const bx = x(yy), bw = x.bandwidth(), segs = FK.map((k, j) => ({ k, j, v: val(c.cgi, yy, k) })).filter(s_ => s_.v), gg = g.append('g').attr('opacity', yy === 2026 ? .5 : 1);
+        segs.forEach((s_, q) => { const y0 = y(acc) - (q ? .8 : 0), y1 = y(acc + s_.v); acc += s_.v; gg.append('path').attr('d', q === segs.length - 1 ? colPath(bx, y0, bw, y1, Math.min(3, bw / 3)) : `M${bx},${y0}V${y1 + .8}H${bx + bw}V${y0}Z`).attr('fill', colors[s_.j]); });
+        if (yy % (nw ? 5 : 2) === 0) g.append('text').attr('class', 'lbl').attr('x', bx + bw / 2).attr('y', ih + 15).attr('text-anchor', 'middle').text(yy);
+        const LFy = lf.find(r => r[1] === yy);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', bx - x.step() * x.paddingInner() / 2).attr('width', x.step()).attr('y', 0).attr('height', ih).datum(yy),
+          d => `<b>${d}${d === 2026 ? ' (' + t('partial') + ')' : ''}</b>` + FK.map((k, j) => val(c.cgi, d, k) ? trow(colors[j], names[j], fmt(val(c.cgi, d, k))) : '').join('') + trow(null, t('total'), fmt(tot(d)))
+            + (LFy ? `<div style="margin-top:4px;color:var(--text-2)">${esc(L(`Loi de finances pour ${d} : signée le ${dateTxt(LFy[5])}`, `Finance law for ${d}: signed on ${dateTxt(LFy[5])}`))}</div>` : ''));
+      });
+      h4(el, L('Part de chaque type de texte, versions depuis 2000', 'Share of each kind of text, versions since 2000'), 14);
+      const rows = [{ lbl: L('Code général des impôts', 'General Tax Code'), lbls: L('Impôts (CGI)', 'Tax Code'), ...cgi }, { lbl: L('Code de la sécurité sociale', 'Social Security Code'), lbls: L('Sécurité sociale', 'Social security'), ...css_ }];
+      const l = Math.min(nw ? 100 : 220, textW(el, rows.map(r => nw ? r.lbls : r.lbl)) + 14);
+      bands(el, rows, FK, colors, names, { rowH: 36, l, ln: l, r: 70, rn: 54, minIn: 30, label: (r, n_) => n_ ? r.lbls : r.lbl, right: r => fmt(r.n) });
+      note(el, ['git log --name-status -- codes/code-general-des-impots-cgi/ codes/code-de-la-securite-sociale/', 'index.md'], fmt(cgi.n + css_.n) + L(' versions (2000–2026)', ' versions (2000–2026)'),
+        L('le type de loi est lu dans l’intitulé de la loi auteur (« de finances pour », « de finances rectificative », « de fin de gestion », « de financement de la sécurité sociale ») ; une loi sans fiche (plus aucun article en vigueur) compte avec les autres lois. 2026 s’arrête au 28 octobre (plus clair).',
+          'the kind of law is read from the title of the author law ("de finances pour", "de finances rectificative", "de fin de gestion", "de financement de la sécurité sociale"); a law without a record (no article left in force) counts with the other laws. 2026 stops on 28 October (lighter).'));
+      table(el, [t('year'), ...names, t('total')], Y.map(yy => [String(yy), ...FK.map(k => val(c.cgi, yy, k)), tot(yy)]));
+      subTable(el, L('Les lois de finances de l’année', 'The finance laws for each year'), [L('Pour l’année', 'For the year'), L('Loi', 'Law'), L('Signée le', 'Signed on'), L('Versions dans le CGI', 'Versions in the Tax Code'), L('Versions dans les codes', 'Versions in the codes'), L('Codes', 'Codes')],
+        c.lf.map(r => [String(r[1]), lawShort(r[0]), r[5] || '–', r[2], r[3], r[4]]), [0, 0, 0, 1, 1, 1]);
+    }
+  };
+});
+
+part('p4', 'IV. Le Parlement, le Gouvernement et le juge', 'IV. Parliament, the Government and the courts',
+  'Les lois et les ordonnances par année, les mots qui ouvrent le titre des lois, l’attente des décrets d’application, les révisions de la Constitution de 1958 et les décisions du Conseil constitutionnel et du Conseil d’État qui ont changé le texte.',
+  'Laws and ordinances year by year, the words that open the titles of laws, the wait for implementing decrees, the revisions of the 1958 Constitution, and the decisions of the Conseil constitutionnel and the Conseil d’État that changed the text.');
+
+chart('c16', el => {
+  const c = D.c16, Y = c.years.filter(y => y >= 1980), ix = y => c.years.indexOf(y), lois = y => c.loi[ix(y)] + c.lo[ix(y)], ords = y => c.ord[ix(y)];
+  const peak = Y.reduce((a, y) => ords(y) > ords(a) ? y : a, Y[0]), d0 = c.ord_days[0], more = Y.filter(y => y >= 2000 && ords(y) > lois(y));
+  return {
+    title: L(`Lois et ordonnances : ${fmt(ords(peak))} ordonnances signées en ${peak}, ${times(ords(peak) / lois(peak))} plus que de lois ; ${fmt(d0[1])} le seul ${dateTxt(d0[0])}`,
+      `Laws and ordinances: ${fmt(ords(peak))} ordinances signed in ${peak}, ${times(ords(peak) / lois(peak))} as many as laws; ${fmt(d0[1])} on ${dateTxt(d0[0])} alone`),
+    dek: L(`L’article 38 de la Constitution permet au Gouvernement, autorisé par le Parlement, de « prendre par ordonnances, pendant un délai limité, des mesures qui sont normalement du domaine de la loi ». Chaque paire de colonnes compte, par année de signature, les lois (dont les lois organiques) et les ordonnances qui ont écrit au moins une version d’article. Depuis 2000, les ordonnances ont été plus nombreuses que les lois ${more.length} années sur ${2026 - 2000 + 1}, dont ${andList(more.slice(-3).map(String))}.`,
+      `Article 38 of the Constitution allows the Government, authorised by Parliament, to "take by ordinances, for a limited period, measures which are normally within the domain of law". Each pair of columns counts, by year of signature, the laws (including organic laws) and the ordinances that wrote at least one article version. Since 2000, ordinances outnumbered laws in ${more.length} years out of ${2026 - 2000 + 1}, including ${andList(more.slice(-3).map(String))}.`),
+    draw(el) {
+      const cL = kcol('loi'), cO = kcol('ord');
+      legend(el, [{ c: cL, l: L('Lois (dont organiques)', 'Laws (incl. organic)') }, { c: cO, l: L('Ordonnances', 'Ordinances') }]);
+      const w = W(el), nw = narrow(w), h = nw ? 230 : 280, m = { t: 26, r: 6, b: 22, l: 34 }, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleBand().domain(Y).range([0, iw]).padding(0.16), xi = d3.scaleBand().domain(['l', 'o']).range([0, x.bandwidth()]).padding(0.08);
+      const y = d3.scaleLinear().domain([0, d3.max(Y, yy => Math.max(lois(yy), ords(yy)))]).nice().range([ih, 0]);
+      yAxis(g, y, iw, 5);
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      Y.forEach(yy => {
+        const bx = x(yy), op = yy === 2026 ? .5 : 1;
+        g.append('path').attr('d', colPath(bx + xi('l'), ih, xi.bandwidth(), y(lois(yy)), 2)).attr('fill', cL).attr('opacity', op);
+        g.append('path').attr('d', colPath(bx + xi('o'), ih, xi.bandwidth(), y(ords(yy)), 2)).attr('fill', cO).attr('opacity', op);
+        if (yy % (nw ? 10 : 5) === 0) g.append('text').attr('class', 'lbl').attr('x', bx + x.bandwidth() / 2).attr('y', ih + 15).attr('text-anchor', 'middle').text(yy);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', bx - x.step() * x.paddingInner() / 2).attr('width', x.step()).attr('y', 0).attr('height', ih).datum(yy),
+          d => `<b>${d}${d === 2026 ? ' (' + L('jusqu’au 28 octobre', 'to 28 October') + ')' : ''}</b>` + trow(cL, L('Lois', 'Laws'), fmt(c.loi[ix(d)])) + trow(cL, L('Lois organiques', 'Organic laws'), fmt(c.lo[ix(d)])) + trow(cO, L('Ordonnances', 'Ordinances'), fmt(ords(d))));
+      });
+      const lab = (yy, txt) => halo(g, x(yy) + xi('o') + xi.bandwidth() / 2, y(ords(yy)) - 6, txt, 'middle');
+      lab(peak, `${fmt(ords(peak))}`); const y05 = Y.filter(yy => yy < 2010).reduce((a, yy) => ords(yy) > ords(a) ? yy : a, Y[0]); lab(y05, `${fmt(ords(y05))}`);
+      note(el, ['git log --format="%an %(trailers:key=Signed)"'], fmt(sum(Y, lois)) + L(' lois et ', ' laws and ') + fmt(sum(Y, ords)) + L(' ordonnances (1980–2026)', ' ordinances (1980–2026)'),
+        L('un texte compte s’il est l’auteur d’au moins un commit (une version écrite ou un article abrogé), à l’année de sa signature. Les textes que LEGI n’a pas consolidés (par exemple une ordonnance sans article propre ni modification enregistrée) manquent. 2026 s’arrête au 28 octobre (plus clair).',
+          'a text counts if it is the author of at least one commit (a version written or an article ended), in the year it was signed. Texts LEGI has not consolidated (for example an ordinance with no article of its own and no recorded change) are missing. 2026 stops on 28 October (lighter).'));
+      table(el, [t('year'), L('Lois', 'Laws'), L('Lois organiques', 'Organic laws'), L('Ordonnances', 'Ordinances')], c.years.map(yy => [String(yy), c.loi[ix(yy)], c.lo[ix(yy)], c.ord[ix(yy)]]));
+      subTable(el, L('Les jours où le plus d’ordonnances ont été signées', 'The days on which the most ordinances were signed'), [L('Jour', 'Day'), L('Ordonnances', 'Ordinances')], c.ord_days.map(d => [dateTxt(d[0]), d[1]]), [0, 1]);
+    }
+  };
+});
+
+const OPK = ['relative', 'portant', 'visant', 'pour', 'ratif', 'other'];
+const opN = () => [L('« relative à »', '"relative à" (relating to)'), L('« portant »', '"portant" (bearing on)'), L('« visant à », « tendant à »', '"visant à", "tendant à" (aiming to)'), L('« pour »', '"pour" (for)'), L('« ratifiant »', '"ratifiant" (ratifying)'), L('autres mots', 'other words')];
+const opC = () => { const c8 = S8(); return [c8[0], c8[6], c8[1], c8[2], c8[3], css('--muted-mark')]; };
+chart('c17', el => {
+  const c = D.c17, YR = new Map(c.years), base = y => { const o = YR.get(y) || {}; return sum(OPK, k => o[k] || 0); }, vis = y => (YR.get(y) || {}).visant || 0;
+  const per = (a, b) => { const ys = d3.range(a, b + 1); return { v: sum(ys, vis), n: sum(ys, base) }; };
+  const p20 = per(2020, 2026), p00 = per(2000, 2009), Y = d3.range(1985, 2027).filter(y => base(y) >= 5);
+  const best = Y.filter(y => y <= 2025).reduce((a, y) => vis(y) / base(y) > vis(a) / base(a) ? y : a, Y[0]);
+  return {
+    title: L(`« Loi visant à » : ${pct(p20.v, p20.n)} des titres des lois depuis 2020, contre ${pct(p00.v, p00.n)} dans les années 2000`,
+      `"A law aiming to": ${pct(p20.v, p20.n)} of law titles since 2020, against ${pct(p00.v, p00.n)} in the 2000s`),
+    dek: L(`Après sa date, le titre d’une loi commence par quelques mots qui annoncent son objet : « relative à », « portant », « pour », ou « visant à » et « tendant à ». Ces deux dernières formules, rares jusqu’aux années 2000, ouvrent ${pct(p20.v, p20.n)} des titres des lois signées depuis 2020 (${pct(vis(best), base(best))} en ${best}). En haut, leur part chaque année ; en bas, toutes les formules par période. Le dépôt ne dit pas qui a déposé chaque texte : seul le titre est compté.`,
+      `After its date, the title of a French law opens with a few words that announce its purpose: "relative à" (relating to), "portant" (bearing on), "pour" (for), or "visant à" and "tendant à" (aiming to). These last two, rare until the 2000s, open ${pct(p20.v, p20.n)} of the titles of laws signed since 2020 (${pct(vis(best), base(best))} in ${best}). Top: their share each year; below: all openings by period. The repository does not say who tabled each bill: only the title is counted.`),
+    draw(el) {
+      const col = opC()[2], w = W(el), nw = narrow(w), h = nw ? 190 : 220, m = { t: 18, r: nw ? 40 : 54, b: 22, l: 38 }, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleLinear().domain([1985, 2026]).range([0, iw]), sh = y => vis(y) / base(y);
+      const y = d3.scaleLinear().domain([0, d3.max(Y, sh)]).nice().range([ih, 0]);
+      yAxis(g, y, iw, 4, v => pv(100 * v));
+      d3.range(1985, 2027, nw ? 10 : 5).forEach(yy => g.append('text').attr('class', 'lbl').attr('x', x(yy)).attr('y', ih + 15).attr('text-anchor', 'middle').text(yy));
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      const pts = Y.map(yy => [yy, sh(yy)]);
+      g.append('path').attr('d', d3.area().x(d => x(d[0])).y0(ih).y1(d => y(d[1]))(pts)).attr('fill', grad(svg, 'c17g', col, .28));
+      g.append('path').attr('d', d3.line().x(d => x(d[0])).y(d => y(d[1]))(pts)).attr('fill', 'none').attr('stroke', col).attr('stroke-width', 2).attr('stroke-linejoin', 'round');
+      bindTip(g.append('g').selectAll('circle').data(pts).join('circle').attr('cx', d => x(d[0])).attr('cy', d => y(d[1])).attr('r', 3).attr('fill', d => d[0] === 2026 ? css('--surface') : col).attr('stroke', col).attr('stroke-width', 1.4),
+        d => `<b>${d[0]}${d[0] === 2026 ? ' (' + t('partial') + ')' : ''}</b>` + trow(col, L('« visant à », « tendant à »', '"visant à", "tendant à"'), `${fmt(vis(d[0]))} · ${pct(vis(d[0]), base(d[0]))}`) + trow(null, L('Lois comptées', 'Laws counted'), fmt(base(d[0]))));
+      // the 2000s as a bracket, the peak and the last year labelled
+      const b0 = x(2000), b1 = x(2009), by = y(p00.v / p00.n) - 10;
+      g.append('path').attr('d', `M${b0},${by + 4}V${by}H${b1}V${by + 4}`).attr('fill', 'none').attr('stroke', css('--text-2'));
+      halo(g, (b0 + b1) / 2, by - 4, L(`2000–2009 : ${pct(p00.v, p00.n)}`, `2000–2009: ${pct(p00.v, p00.n)}`), 'middle', 'lbl');
+      halo(g, x(best) - 6, y(sh(best)) - 2, `${best} : ${pct(vis(best), base(best))}`.replace(' :', L(' :', ':')), 'end', 'lbl strong', col);
+      const lastY = Y[Y.length - 1]; halo(g, x(lastY) + 6, y(sh(lastY)) + 4, pct(vis(lastY), base(lastY)), 'start', 'lbl strong', col);
+      h4(el, L('Les mots qui ouvrent le titre, par période', 'The words that open the title, by period'), 14);
+      const colors = opC(), names = opN();
+      legend(el, OPK.map((k, i) => ({ c: colors[i], l: names[i] })));
+      const P = [[1958, 1989], [1990, 1999], [2000, 2009], [2010, 2019], [2020, 2026]].map(([a, b]) => { const o = { span: `${a}–${b}`, a }; OPK.forEach(k => o[k] = sum(d3.range(a, b + 1), yy => (YR.get(yy) || {})[k] || 0)); return o; });
+      bands(el, P, OPK, colors, names, { rowH: 34, l: 92, ln: 78, r: 70, rn: 56, minIn: 30, label: r => r.span, right: r => nn(sum(OPK, k => r[k]), ['loi', 'lois'], ['law', 'laws']) });
+      note(el, ['textes/loi/<YEAR>/<TEXT>/index.md'], fmt(sum(d3.range(1958, 2027), base)) + L(' lois en vigueur', ' laws in force'),
+        L(`les mots sont ceux qui suivent la date dans l’intitulé de la fiche (règles dans src/prep.py). Seules les lois qui ont encore un article en vigueur ont une fiche. Les lois de finances et les lois qui autorisent la ratification ou l’approbation d’un traité sont laissées de côté : LEGI n’a ces dernières que pour certaines années. Années de moins de 5 lois non tracées ; 2026 s’arrête au 28 octobre (point vide).`,
+          `the words are those that follow the date in the record’s title (rules in src/prep.py). Only laws that still have an article in force have a record. Finance laws and laws authorising the ratification or approval of a treaty are left out: LEGI has the latter only for some years. Years with fewer than 5 laws are not drawn; 2026 stops on 28 October (hollow dot).`));
+      table(el, [t('year'), ...names, t('total')], d3.range(1958, 2027).filter(yy => base(yy)).map(yy => [String(yy), ...OPK.map(k => (YR.get(yy) || {})[k] || 0), base(yy)]));
+      const ex = Object.entries(c.ex).flatMap(([yy, v]) => v.map(tt => [yy, tt]));
+      subTable(el, L('Exemples récents', 'Recent examples'), [t('year'), L('Intitulé', 'Title')], ex, [0, 0]);
+    }
+  };
+});
+
+const PER18 = [[2000, 2009], [2010, 2017], [2018, 2024]];
+chart('c18', el => {
+  const c = D.c18, R = c.laws, grp = PER18.map(([a, b]) => R.filter(r => +r[1].slice(0, 4) >= a && +r[1].slice(0, 4) <= b).map(r => r[3]).sort((p, q) => p - q));
+  const within = (v, d) => v.filter(x => x <= d).length / v.length, med = v => d3.median(v);
+  const p6 = grp.map(v => within(v, 183));
+  return {
+    title: L(`Les décrets d’application : ${pct(p6[2], 1)} des lois de 2018 à 2024 ont eu leur premier décret d’application dans les six mois, contre ${pct(p6[0], 1)} de celles de 2000 à 2009`,
+      `Implementing decrees: ${pct(p6[2], 1)} of the laws of 2018–2024 had their first implementing decree within six months, against ${pct(p6[0], 1)} of those of 2000–2009`),
+    dek: L(`Le Code civil (article 1er) reporte l’entrée en vigueur des dispositions d’une loi qui demandent des mesures d’application à celle de ces mesures. Pour ${fmt(R.length)} lois signées de 2000 à 2024, au moins un décret encore en vigueur dit dans son titre être pris pour leur application ; chaque courbe montre la part de ces lois dont le premier tel décret a été signé en moins du nombre de mois indiqué. Délai médian : ${fmt(med(grp[0]))} jours pour les lois de 2000 à 2009, ${fmt(med(grp[1]))} pour 2010 à 2017, ${fmt(med(grp[2]))} pour 2018 à 2024.`,
+      `The Civil Code (article 1) defers the entry into force of the provisions of a law that need implementing measures until those measures take effect. For ${fmt(R.length)} laws signed from 2000 to 2024, at least one decree still in force says in its title that it was made to implement them; each curve shows the share of these laws whose first such decree was signed within the number of months shown. Median wait: ${fmt(med(grp[0]))} days for the laws of 2000–2009, ${fmt(med(grp[1]))} for 2010–2017, ${fmt(med(grp[2]))} for 2018–2024.`),
+    draw(el) {
+      const ramp = seqRamp(), colors = [ramp(.42), ramp(.68), ramp(1)], names = PER18.map(([a, b], i) => L(`lois de ${a} à ${b} (${grp[i].length})`, `laws of ${a}–${b} (${grp[i].length})`));
+      legend(el, names.map((l, i) => ({ c: colors[i], l, shape: 'line' })));
+      const w = W(el), nw = narrow(w), h = nw ? 230 : 270, m = { t: 14, r: nw ? 16 : 24, b: 30, l: 46 }, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleLinear().domain([0, 36]).range([0, iw]), y = d3.scaleLinear().domain([0, 1]).range([ih, 0]);
+      yAxis(g, y, iw, 4, v => pv(100 * v));
+      [0, 6, 12, 18, 24, 30, 36].forEach(mm => g.append('text').attr('class', 'lbl').attr('x', x(mm)).attr('y', ih + 15).attr('text-anchor', 'middle').text(mm));
+      g.append('text').attr('class', 'lbl mut').attr('x', iw).attr('y', ih + 28).attr('text-anchor', 'end').text(L('mois après la loi', 'months after the law'));
+      g.append('line').attr('x1', x(6)).attr('x2', x(6)).attr('y1', 0).attr('y2', ih).attr('stroke', css('--text-2')).attr('stroke-dasharray', '3 3');
+      halo(g, x(6) + 5, 10, L('six mois', 'six months'), 'start', 'lbl');
+      grp.forEach((v, i) => {
+        const pts = d3.range(0, 36.01, 0.25).map(mm => [mm, within(v, mm * 30.44)]);
+        g.append('path').attr('d', d3.line().curve(d3.curveStepAfter).x(d => x(d[0])).y(d => y(d[1]))(pts)).attr('fill', 'none').attr('stroke', colors[i]).attr('stroke-width', i === 2 ? 2.4 : 1.8);
+      });
+      // the share at six months: a dot on each curve and a label left of the line, spaced so they never touch
+      const ly = p6.map(v => y(v)), order = d3.range(3).sort((a, b) => ly[a] - ly[b]), pos = [];
+      order.forEach((i, k) => { pos[i] = k ? Math.max(ly[i], pos[order[k - 1]] + 14) : ly[i]; });
+      grp.forEach((v, i) => {
+        g.append('circle').attr('cx', x(6)).attr('cy', ly[i]).attr('r', 3.6).attr('fill', colors[i]).attr('stroke', css('--surface')).attr('stroke-width', 1.5);
+        halo(g, x(6) - 8, pos[i] + 4, pct(p6[i], 1), 'end', 'lbl strong');
+      });
+      bindTip(g.append('g').selectAll('rect').data(d3.range(0, 36)).join('rect').attr('class', 'hit').attr('x', mm => x(mm)).attr('width', x(1) - x(0)).attr('y', 0).attr('height', ih),
+        mm => `<b>${L(`En moins de ${mm + 1} mois`, `Within ${mm + 1} months`)}</b>` + grp.map((v, i) => trow(colors[i], names[i], pct(within(v, (mm + 1) * 30.44), 1))).join(''));
+      note(el, ['textes/decret/<YEAR>/<TEXT>/index.md', 'codes/code-civil/1.md'], fmt(R.length) + L(' lois, ', ' laws, ') + fmt(c.decrees) + L(' décrets d’application en vigueur', ' implementing decrees in force'),
+        L('un décret compte si son intitulé dit qu’il est pris « pour l’application » de la loi et la nomme par son numéro (règles dans src/prep.py). Seuls les décrets encore en vigueur ont une fiche : un premier décret abrogé depuis manque, et un décret qui ne nomme pas la loi dans son titre n’est pas vu. Les lois sans un tel décret ne figurent pas.',
+          'a decree counts if its title says it was made "for the application" of the law and names it by number (rules in src/prep.py). Only decrees still in force have a record: a first decree since repealed is missing, and a decree that does not name the law in its title is not seen. Laws without such a decree are not shown.'));
+      table(el, [L('Période de la loi', 'Period of the law'), L('Lois', 'Laws'), L('Médiane (jours)', 'Median (days)'), L('En 6 mois', 'Within 6 months'), L('En 1 an', 'Within 1 year'), L('En 2 ans', 'Within 2 years')],
+        PER18.map(([a, b], i) => [`${a}–${b}`, grp[i].length, med(grp[i]), pct(p6[i], 1), pct(within(grp[i], 365), 1), pct(within(grp[i], 730), 1)]));
+      subTable(el, L('Les lois qui ont le plus de décrets d’application en vigueur (toutes années)', 'The laws with the most implementing decrees in force (all years)'), [L('Loi', 'Law'), L('Décrets', 'Decrees'), L('Intitulé', 'Title')], c.most.map(r => [lawShort('loi:' + r[0]), r[1], r[2]]), [0, 1, 0]);
+    }
+  };
+});
+
+// the date in a text's name: "Loi constitutionnelle n° 2008-724 du 23 juillet 2008" -> "23 juillet 2008"
+const lawDate = a => { const m = a.match(/ du (\d{1,2})(?:er)? ([a-zéû]+) (\d{4})/); return m && MI[m[2]] != null ? dateTxt(`${m[3]}-${String(MI[m[2]] + 1).padStart(2, '0')}-${m[1].padStart(2, '0')}`) : a; };
+chart('c19', el => {
+  // one row per revising text: the 2008 revisions took effect in several steps
+  const ev = D.c19.filter(r => !r.by.startsWith('Constitution') && r.by !== 'Lexifina'), first = D.c19.find(r => r.by.startsWith('Constitution'));
+  const by = new Map(); ev.forEach(r => { const k = r.by.startsWith('Légifrance') ? 'dila:' + r.day : r.by; const o = by.get(k) || { by: r.by, days: [], A: new Set(), M: new Set(), D: new Set() };
+    o.days.push(r.day); ['A', 'M', 'D'].forEach(s => r[s].forEach(a => o[s].add(a))); by.set(k, o); });
+  const R = [...by.values()].sort((a, b) => a.days[0] < b.days[0] ? -1 : 1).map(o => ({ ...o, a: o.A.size, m: [...o.M].filter(a => !o.A.has(a)).length, d: [...o.D].filter(a => !o.A.has(a) && !o.M.has(a)).length }));
+  R.forEach(r => r.n = r.a + r.m + r.d);
+  const big = R.reduce((p, q) => q.n > p.n ? q : p), cnt = new Map(); R.forEach(r => new Set([...r.A, ...r.M, ...r.D]).forEach(a => cnt.set(a, (cnt.get(a) || []).concat([r.days[0].slice(0, 4)]))));
+  const topA = [...cnt.entries()].sort((p, q) => q[1].length - p[1].length || (p[0] < q[0] ? -1 : 1)).slice(0, 12), a34 = cnt.get('34') || [];
+  const now = 109, e95 = R.find(r => r.days[0].startsWith('1995'));
+  return {
+    title: L(`La Constitution de 1958 : ${R.length} révisions ; la loi constitutionnelle du ${lawDate(big.by)} a créé, modifié ou supprimé ${big.n} articles, l’article 34 a été révisé ${a34.length} fois`,
+      `The 1958 Constitution: ${R.length} revisions; the constitutional law of ${lawDate(big.by)} created, amended or removed ${big.n} articles, and article 34 was revised ${a34.length} times`),
+    dek: L(`Chaque colonne est une révision, dans l’ordre ; sa hauteur est le nombre d’articles qu’elle a créés, modifiés ou supprimés. Le texte de 1958 comptait ${first.A.length - 1} articles et un préambule. La révision de 1995 a supprimé ${e95 ? e95.d : 0} articles ; celle de 2008 est entrée en vigueur en trois temps (juillet 2008, mars et décembre 2009). Deux révisions, en 1963 et 1976, ne sont rattachées par LEGI à aucun texte. En bas : les articles révisés le plus souvent, d’abord l’article 34, qui fixe le domaine de la loi.`,
+      `Each column is a revision, in order; its height is the number of articles it created, amended or removed. The 1958 text had ${first.A.length - 1} articles and a preamble. The 1995 revision removed ${e95 ? e95.d : 0} articles; that of 2008 took effect in three steps (July 2008, March and December 2009). Two revisions, in 1963 and 1976, are linked by LEGI to no text. Below: the articles revised most often, first article 34, which sets out the domain of law.`),
+    draw(el) {
+      const cA = css('--s3'), cM = css('--s1'), cD = css('--s2');
+      legend(el, [{ c: cA, l: L('articles créés', 'articles created') }, { c: cM, l: L('articles modifiés', 'articles amended') }, { c: cD, l: L('articles supprimés', 'articles removed') }]);
+      const w = W(el), nw = narrow(w), h = nw ? 230 : 260, m = { t: 22, r: 6, b: nw ? 30 : 34, l: 30 }, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleBand().domain(d3.range(R.length)).range([0, iw]).padding(0.22), y = d3.scaleLinear().domain([0, d3.max(R, r => r.n)]).nice().range([ih, 0]);
+      yAxis(g, y, iw, 4);
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      R.forEach((r, i) => {
+        const bx = x(i), bw = x.bandwidth(); let acc = 0;
+        const segs = [[r.a, cA], [r.m, cM], [r.d, cD]].filter(s_ => s_[0]);
+        segs.forEach(([v, cl], q) => { const y0 = y(acc) - (q ? .8 : 0), y1 = y(acc + v); acc += v; g.append('path').attr('d', q === segs.length - 1 ? colPath(bx, y0, bw, y1, Math.min(3, bw / 3)) : `M${bx},${y0}V${y1 + .8}H${bx + bw}V${y0}Z`).attr('fill', cl); });
+        const top3 = R.slice().sort((p, q) => q.n - p.n).slice(0, 3);
+        if (!nw || top3.includes(r)) g.append('text').attr('class', 'lbl').attr('x', bx + bw / 2).attr('y', y(r.n) - 5).attr('text-anchor', 'middle').style('font-size', '10px').text(r.n);
+        const yr = r.days[0].slice(0, 4), show = !nw || i % 3 === 0;
+        if (show) g.append('text').attr('class', 'lbl').attr('x', bx + bw / 2).attr('y', ih + 13).attr('text-anchor', 'middle').style('font-size', nw ? '9px' : '10px').text(nw ? `’${yr.slice(2)}` : yr);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', bx - x.step() * x.paddingInner() / 2).attr('width', x.step()).attr('y', 0).attr('height', ih).datum(r),
+          d => `<b>${esc(tname(d.by))}</b><div style="margin:2px 0 4px;color:var(--text-2)">${L('En vigueur', 'In force')} : ${d.days.map(dateTxt).join(', ')}</div>` + (d.a ? trow(cA, L('Créés', 'Created'), [...d.A].map(artNo).join(', ')) : '') + (d.m ? trow(cM, L('Modifiés', 'Amended'), [...d.M].filter(a => !d.A.has(a)).map(artNo).join(', ')) : '') + (d.d ? trow(cD, L('Supprimés', 'Removed'), [...d.D].map(artNo).join(', ')) : ''));
+      });
+      g.append('text').attr('class', 'lbl mut').attr('x', 0).attr('y', ih + (nw ? 26 : 28)).text(L('révisions, de 1960 à 2024', 'revisions, from 1960 to 2024'));
+      h4(el, L('Les articles révisés le plus souvent', 'The articles revised most often'), 16);
+      const rowH = 21, lw = 64, svg2 = svgIn(el, w, rowH * topA.length + 4), g2 = svg2.append('g').attr('transform', `translate(${lw},2)`), x2 = d3.scaleLinear().domain([0, topA[0][1].length]).range([0, Math.min(w - lw - 220, 420)]);
+      topA.forEach(([a, ys], i) => {
+        const cy = i * rowH;
+        g2.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + rowH / 2 + 4).attr('text-anchor', 'end').text(a === 'PREAMBULE' ? L('Préambule', 'Preamble') : L('art. ', 'art. ') + artNo(a));
+        g2.append('path').attr('d', barPath(0, cy + 5, x2(ys.length), rowH - 10, 3)).attr('fill', cM);
+        g2.append('text').attr('class', 'lbl').attr('x', x2(ys.length) + 6).attr('y', cy + rowH / 2 + 4).text(`${ys.length} · ${ys.join(', ')}`);
+      });
+      note(el, ['constitution/constitution-1958/', 'git log -- constitution/constitution-1958/'], R.length + L(' révisions', ' revisions'),
+        L('une révision est un texte auteur de commits sur la Constitution de 1958, nommé comme LEGI le nomme (« Loi n° 60-525 », « Loi constitutionnelle n° 2008-724 ») ; les jours de 1963 et 1976 attribués à « Légifrance (DILA), version consolidée » comptent chacun pour une révision. Un article créé puis modifié par la même révision compte une fois, comme créé.',
+          'a revision is a text that authored commits on the 1958 Constitution, named as LEGI names it ("Loi n° 60-525", "Loi constitutionnelle n° 2008-724"); the days of 1963 and 1976 credited to "Légifrance (DILA), version consolidée" count as one revision each. An article created and then amended by the same revision counts once, as created.'));
+      table(el, [L('Révision', 'Revision'), L('En vigueur', 'In force'), L('Créés', 'Created'), L('Modifiés', 'Amended'), L('Supprimés', 'Removed'), L('Articles', 'Articles')],
+        R.map(r => [tname(r.by), r.days.join(', '), [...r.A].map(artNo).join(', ') || '–', [...r.M].filter(a => !r.A.has(a)).map(artNo).join(', ') || '–', [...r.D].map(artNo).join(', ') || '–', r.n]));
+    }
+  };
+});
+
+chart('c20', el => {
+  const R = D.c20, cc = R.filter(r => r.court === 'cc' && r.day), ce = R.filter(r => r.court === 'ce' && r.day);
+  const tot = rs => ({ n: rs.length, M: sum(rs, r => r.M), D: sum(rs, r => r.D), A: sum(rs, r => r.A) });
+  const C = tot(cc), E = tot(ce), tg = new Map(); cc.forEach(r => r.targets.forEach(([k, v]) => tg.set(k, (tg.get(k) || 0) + v)));
+  const T = [...tg.entries()].sort((a, b) => b[1] - a[1]), cpp = tg.get('code-de-procedure-penale') || 0, y0 = d3.min(cc, r => +r.day.slice(0, 4));
+  return {
+    title: L(`Le juge dans le texte : depuis ${y0}, ${fmt(C.n)} décisions du Conseil constitutionnel ont réécrit ou abrogé ${fmt(C.M + C.A + C.D)} articles, dont ${fmt(cpp)} du Code de procédure pénale`,
+      `The courts in the text: since ${y0}, ${fmt(C.n)} decisions of the Conseil constitutionnel rewrote or repealed ${fmt(C.M + C.A + C.D)} articles, ${fmt(cpp)} of them in the Code of Criminal Procedure`),
+    dek: L(`L’article 61-1 de la Constitution, ajouté en 2008, permet de saisir le Conseil constitutionnel d’une disposition législative déjà en vigueur, à l’occasion d’un procès (question prioritaire de constitutionnalité). Quand LEGI attribue une version ou une abrogation à une décision de justice, ce dépôt en fait l’auteur du commit. Le Conseil constitutionnel en est l’auteur pour ${fmt(C.M + C.D + C.A)} articles, dont ${fmt(cpp)} du Code de procédure pénale ; le Conseil d’État, pour ${fmt(E.M + E.D + E.A)} articles, surtout d’arrêtés et de décrets (${fmt(E.n)} décisions). Chaque colonne claire compte les décisions de l’année, la colonne pleine les articles touchés.`,
+      `Article 61-1 of the Constitution, added in 2008, allows a statutory provision already in force to be referred to the Conseil constitutionnel in the course of a trial (priority question of constitutionality, QPC). When LEGI credits a version or a repeal to a court decision, this repository makes the decision the commit’s author. The Conseil constitutionnel is the author for ${fmt(C.M + C.D + C.A)} articles, ${fmt(cpp)} of them in the Code of Criminal Procedure; the Conseil d’État for ${fmt(E.M + E.D + E.A)} articles, mostly of orders and decrees (${fmt(E.n)} decisions). Each light column counts the year’s decisions, the solid column the articles changed.`),
+    draw(el) {
+      legend(el, [{ c: css('--text-3'), l: L('décisions (colonne claire)', 'decisions (light column)') }, { c: css('--text-2'), l: L('articles réécrits ou abrogés (colonne pleine)', 'articles rewritten or repealed (solid column)') }]);
+      const box = el.append('div').attr('class', 'mini').style('grid-template-columns', narrow(W(el)) ? 'repeat(1, minmax(0, 1fr))' : 'repeat(2, minmax(0, 1fr))');
+      const P = [[L('Conseil constitutionnel', 'Conseil constitutionnel'), cc, css('--s8')], [L('Conseil d’État', 'Conseil d’État'), ce, css('--s7')]].map(([h, rs, col]) => {
+        const p = box.append('div'); p.append('h4').text(h); const t_ = tot(rs); p.append('p').text(L(`${fmt(t_.n)} décisions · ${fmt(t_.M + t_.A)} articles réécrits · ${fmt(t_.D)} abrogés`, `${fmt(t_.n)} decisions · ${fmt(t_.M + t_.A)} articles rewritten · ${fmt(t_.D)} repealed`)); return [p, rs, col]; });
+      const Y = d3.range(2010, 2027), byY = (rs, y) => rs.filter(r => +r.day.slice(0, 4) === y), ymax = d3.max(P, ([p, rs]) => d3.max(Y, y => Math.max(byY(rs, y).length, sum(byY(rs, y), r => r.M + r.D + r.A))));
+      P.forEach(([p, rs, col]) => {
+        const w = WR(p), h = 170, m = { t: 14, r: 4, b: 18, l: 32 }, svg = svgIn(p, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+        const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleBand().domain(Y).range([0, iw]).padding(0.18), xi = d3.scaleBand().domain([0, 1]).range([0, x.bandwidth()]).padding(0.06), y = d3.scaleLinear().domain([0, ymax]).nice().range([ih, 0]);
+        yAxis(g, y, iw, 4);
+        g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+        Y.forEach(yy => {
+          const r_ = byY(rs, yy), nd = r_.length, na = sum(r_, r => r.M + r.D + r.A), op = yy === 2026 ? .5 : 1;
+          if (nd) g.append('path').attr('d', colPath(x(yy) + xi(0), ih, xi.bandwidth(), y(nd), 2)).attr('fill', col).attr('opacity', .32 * op + .05);
+          if (na) g.append('path').attr('d', colPath(x(yy) + xi(1), ih, xi.bandwidth(), y(na), 2)).attr('fill', col).attr('opacity', op);
+          if (yy % 4 === 2 || yy === 2026) g.append('text').attr('class', 'lbl mut').attr('x', x(yy) + x.bandwidth() / 2).attr('y', ih + 13).attr('text-anchor', 'middle').text(yy);
+          bindTip(g.append('rect').attr('class', 'hit').attr('x', x(yy) - x.step() * x.paddingInner() / 2).attr('width', x.step()).attr('y', 0).attr('height', ih).datum(yy),
+            d => { const q = byY(rs, d); return `<b>${d}${d === 2026 ? ' (' + t('partial') + ')' : ''}</b>` + trow(col, L('Décisions', 'Decisions'), fmt(q.length)) + trow(col, L('Articles réécrits', 'Articles rewritten'), fmt(sum(q, r => r.M + r.A))) + trow(col, L('Articles abrogés', 'Articles repealed'), fmt(sum(q, r => r.D))); });
+        });
+      });
+      h4(el, L('Les textes que les décisions du Conseil constitutionnel ont le plus touchés', 'The texts the decisions of the Conseil constitutionnel touched most'), 14);
+      const w = W(el), nw = narrow(w), TK = T.slice(0, 8), lab = k => k === 'loi' ? L('lois hors code', 'laws outside the codes') : k === 'ord' ? L('ordonnances hors code', 'ordinances outside the codes') : k === 'aut' ? L('autres textes', 'other texts') : cname(k, nw);
+      const lw = Math.min(nw ? 150 : 300, textW(el, TK.map(([k]) => lab(k))) + 12), rowH = 21, svg2 = svgIn(el, w, rowH * TK.length + 4), g2 = svg2.append('g').attr('transform', `translate(${lw},2)`);
+      const x2 = d3.scaleLinear().domain([0, TK[0][1]]).range([0, w - lw - 50]);
+      TK.forEach(([k, v], i) => { const cy = i * rowH;
+        g2.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + rowH / 2 + 4).attr('text-anchor', 'end').text(lab(k));
+        g2.append('path').attr('d', barPath(0, cy + 5, x2(v), rowH - 10, 3)).attr('fill', css('--s8'));
+        g2.append('text').attr('class', 'lbl').attr('x', x2(v) + 6).attr('y', cy + rowH / 2 + 4).text(fmt(v)); });
+      note(el, ['git log --author="Décision n°" --name-status'], fmt(C.n + E.n) + L(' décisions', ' decisions'),
+        L('la juridiction est lue dans le nom de la décision : numéro année-numéro, QPC ou DC pour le Conseil constitutionnel, cinq ou six chiffres pour le Conseil d’État ; les autres décisions (sans numéro, ou d’autres autorités) ne sont pas comptées. LEGI n’attribue à une décision que les changements qu’elle fait elle-même ; ceux qu’une loi fait ensuite pour s’y conformer comptent pour la loi. Les décisions du Conseil d’État ainsi attribuées datent surtout de 2012 à 2018.',
+          'the court is read from the decision’s name: a year-number number, QPC or DC for the Conseil constitutionnel, five or six digits for the Conseil d’État; other decisions (without a number, or of other authorities) are not counted. LEGI credits to a decision only the changes it makes itself; those a law makes later to comply count for the law. The Conseil d’État decisions credited this way date mostly from 2012 to 2018.'));
+      table(el, [L('Décision', 'Decision'), L('Juridiction', 'Court'), L('Réécrits', 'Rewritten'), L('Abrogés', 'Repealed'), L('Textes touchés', 'Texts touched')],
+        cc.concat(ce).map(r => [tname(r.a), r.court === 'cc' ? 'Conseil constitutionnel' : 'Conseil d’État', r.M + r.A, r.D, r.targets.map(([k, v]) => `${lab(k)} (${v})`).join(', ')]));
+    }
+  };
+});
+
+/*CHARTS*/
+
+// reading order (chart numbers follow it)
+const ORDER = ['p1', 'c01', 'c02', 'c03', 'c04', 'c05', 'p2', 'c06', 'c07', 'c08', 'c09', 'c10', 'p3', 'c11', 'c12', 'c13', 'c14', 'c15', 'p4', 'c16', 'c17', 'c18', 'c19', 'c20'];
+CH.sort((a, b) => ORDER.indexOf(a.id) - ORDER.indexOf(b.id));
+
+// ------------------------------------------------------------------ page
+function profileTable() {
+  const P = PF, el = d3.select('#profile').html('');
+  const rows = [
+    [L('Historique git (chaque commit de droit)', 'Git history (every law commit)'), 'git log origin/main', fmt(P.law_commits), L(`un commit par texte et par jour d’entrée en vigueur, du ${dateTxt(P.first_in_force)} au ${dateTxt(P.record_end)}`, `one commit per text and day of entry into force, from ${dateTxt(P.first_in_force)} to ${dateTxt(P.record_end)}`), L('l’historique de LEGI est le plus complet à partir des années 1990 ; les versions sans changement de texte ne font pas de commit', 'LEGI’s history is fullest from the 1990s; versions that change no text make no commit')],
+    [L('Versions d’articles', 'Article versions'), 'git log --name-status', fmt(P.versions), L(`fichiers d’articles écrits (A ou M) ; ${fmt(P.ended)} fichiers supprimés (fins de vigueur)`, `article files written (A or M); ${fmt(P.ended)} files deleted (ends of force)`), L('les messages des commits comptent les versions de LEGI, dont celles qui ne changent pas le texte', 'the commit messages count LEGI’s versions, including those that change no text')],
+    [L('Articles en vigueur', 'Articles in force'), 'constitution/ codes/ textes/', fmt(P.articles), L(`l’arborescence au ${dateTxt(P.record_end)} : ${P.codes} codes, 3 Constitutions, ${fmt(P.texts_in_force)} autres textes`, `the tree on ${dateTxt(P.record_end)}: ${P.codes} codes, 3 Constitutions, ${fmt(P.texts_in_force)} other texts`), L('les textes que LEGI consolide, pas tout le Journal officiel', 'the texts LEGI consolidates, not the whole Journal officiel')],
+    [L('Fiches des textes', 'Text records'), '<TEXT>/index.md', fmt(P.index), L('intitulé, nature, numéro, date du texte, publication au JORF, NOR', 'title, nature, number, date of the text, publication in the JORF, NOR'), L('seulement pour les textes qui ont encore un article en vigueur', 'only for texts that still have an article in force')],
+    [L('Corrections', 'Corrections'), 'Redates:', fmt(P.redated), L('jours d’entrée en vigueur corrigés par des commits de documentation ultérieurs', 'days of entry into force corrected by later documentation commits'), L('appliquées ici ; les commits publiés ne sont pas réécrits', 'applied here; published commits are not rewritten')],
+  ];
+  const tb = el.append('table');
+  tb.append('thead').append('tr').selectAll('th').data([t('ds'), t('src'), t('n'), t('cover'), t('caveat')]).join('th').text(d => d);
+  const tr = s => Object.entries(PH).reduce((a, [x, y]) => a.split(x).join(LA(y)), s);
+  tb.append('tbody').selectAll('tr').data(rows).join('tr').selectAll('td').data(r => r).join('td').html((v, i) => i === 1 ? `<code>${esc(tr(v))}</code>` : esc(v));
+}
+function fitLeftLabels(fig) {
+  fig.selectAll('svg text').each(function () {
+    let room = null;
+    if (this.getAttribute('data-fit')) room = +this.getAttribute('data-fit');
+    // an end-anchored label ends at its anchor: the room is from there to the svg's left edge, in the svg's own units (it may be scaled)
+    else if (this.getAttribute('text-anchor') === 'end' && +this.getAttribute('x') < 0) { const ctm = this.getScreenCTM(); room = (ctm.e + ctm.a * +this.getAttribute('x') - this.ownerSVGElement.getBoundingClientRect().left - 2) / ctm.a; }
+    if (room == null || this.getComputedTextLength() <= room) return;
+    const full = this.textContent;
+    d3.select(this).append('title').text(full);
+    let lo = 0, hi = full.length;
+    while (lo < hi) { const mid = (lo + hi + 1) >> 1; this.firstChild.nodeValue = full.slice(0, mid) + '…'; if (this.getComputedTextLength() <= room) lo = mid; else hi = mid - 1; }
+    this.firstChild.nodeValue = full.slice(0, lo) + '…';
+  });
+}
+function render() {
+  HATCH = 0;
+  document.documentElement.lang = LANG;
+  document.title = t('title');
+  d3.selectAll('[data-i]').each(function () { this.textContent = t(this.dataset.i).replace('{versions}', fmt(PF.versions)); });
+  document.getElementById('gl-link').innerHTML = t('gl');
+  d3.selectAll('[data-lang]').attr('aria-pressed', function () { return String(this.dataset.lang === LANG); });
+  d3.selectAll('[data-theme-set]').attr('aria-pressed', function () { return String(this.dataset.themeSet === THEME); });
+  const tl = t('tiles'), revs = new Set(D.c19.filter(r => !r.by.startsWith('Constitution')).map(r => r.by.startsWith('Légifrance') ? r.day : r.by)).size;
+  const tv = [PF.articles, PF.codes, PF.texts_in_force, PF.versions, PF.law_commits, revs];
+  const tl2 = tl.slice(0, 5).concat([L('révisions de la Constitution de 1958', 'revisions of the 1958 Constitution')]);
+  d3.select('#tiles').html('').selectAll('div').data(tv).join('div').attr('class', 'tile').html((v, i) => `<b>${fmt(v)}</b><span>${tl2[i]}</span>`);
+  profileTable();
+  const main = d3.select('#main').html(''), toc = d3.select('#toc').html('');
+  let sec = null, n = 0;
+  CH.forEach(c => {
+    if (c.part) {
+      sec = main.append('section').attr('class', 'part').attr('id', c.id);
+      sec.append('h2').text(L(c.fr, c.en)); sec.append('p').attr('class', 'pd').text(L(c.dfr, c.den));
+      toc.append('a').attr('class', 'p').attr('href', '#' + c.id).text(L(c.fr, c.en));
+      return;
+    }
+    n++;
+    const fig = sec.append('figure').attr('class', 'chart').attr('id', c.id);
+    let spec;
+    try { spec = c.fn(fig); } catch (e) { fig.append('p').attr('class', 'note').text('Error: ' + e.message); console.error(c.id, e); return; }
+    const h3 = fig.append('h3'); h3.append('span').attr('class', 'no').text(n + '.'); h3.append('span').text(spec.title);
+    fig.append('p').attr('class', 'dek').text(spec.dek);
+    try { spec.draw(fig); } catch (e) { fig.append('p').attr('class', 'note').text('Error: ' + e.message); console.error(c.id, e); }
+    fitLeftLabels(fig);
+    fig.select('svg').attr('aria-label', spec.title);
+    toc.append('a').attr('href', '#' + c.id).text(`${n}. ${spec.title.split(/\s:|:/)[0]}`);
+  });
+  d3.select('#foot').text(t('foot').replace('{built}', dateTxt(PF.built) + (PF.head ? ', ' + PF.head.slice(0, 10) : '')));
+}
+d3.selectAll('[data-lang]').on('click', function () { LANG = this.dataset.lang; try { localStorage.setItem('fr-viz-lang', LANG); } catch (e) {} render(); });
+d3.selectAll('[data-theme-set]').on('click', function () {
+  THEME = this.dataset.themeSet;
+  if (THEME === 'auto') document.documentElement.removeAttribute('data-theme'); else document.documentElement.setAttribute('data-theme', THEME);
+  try { localStorage.setItem('fr-viz-theme', THEME); } catch (e) {}
+  render();
+});
+if (THEME !== 'auto') document.documentElement.setAttribute('data-theme', THEME);
+try { matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => { if (THEME === 'auto') render(); }); } catch (e) {}
+let lastW = innerWidth, rt;
+addEventListener('resize', () => { if (Math.abs(innerWidth - lastW) < 40) return; clearTimeout(rt); rt = setTimeout(() => { lastW = innerWidth; const y = scrollY; render(); scrollTo(0, y); }, 200); });
+render();
+// labels are measured as they are drawn: draw once more when the web fonts have loaded, so the measures are the fonts' own
+if (document.fonts && document.fonts.status !== 'loaded') document.fonts.ready.then(() => { const y = scrollY; render(); scrollTo(0, y); });
+</script>
+</body>
+</html>
