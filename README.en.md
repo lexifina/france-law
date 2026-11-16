@@ -61,6 +61,7 @@ Each change is credited to the text that made it, as LEGI's links name it (`Loi 
 - `tools/check_repo.py` takes a series of days and compares, file for file and byte for byte, the tree in force each day with the article versions LEGI has in force that day.
 - `tools/test_repo.py` checks that blame, the dated tool and `git log --follow` work, that every law commit carries `In-force:`, and that every law commit is credited to a text, never to Lexifina.
 - [`REPRODUCE.md`](REPRODUCE.md) gives every build step, with the archives' sha256 in [`data/archives.json`](data/archives.json); it says the same archives give the same commits with the same hashes. For the build of 2026-10-28 it records that neither check, nor a rebuild, was run.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in French law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 

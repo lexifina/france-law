@@ -1,0 +1,13 @@
+category,category_fr,flags,in_law_texts,model_reviewed,candidate_defects,survive_rebuttal
+Lapsed time limits,Délais échus,6680,6680,40,1,1
+Repeal gaps,Abrogations avant remplacement,11746,11746,40,6,6
+Same-day conflicts,Modifications du même jour,120,120,40,6,6
+Retroactive or pre-publication dates,Vigueur antérieure à la publication,3536,3532,40,10,6
+Empty periods,Périodes non couvertes,1207,1207,372,277,220
+Stale amounts,Montants non actualisés,1190,1190,40,13,13
+References to deleted provisions,Renvois à des dispositions supprimées,8889,8889,40,2,2
+References to repealed placeholders,Renvois à des articles « abrogés »,873,873,0,0,0
+Dead fines,Sanctions sans objet,6,6,0,0,0
+Duplicate numbering,Numérotation en double,1121,1116,0,0,0
+Dead currencies,Monnaies disparues,587,587,0,0,0
+Publisher notes,Notes de l’éditeur,16,16,0,0,0

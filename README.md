@@ -61,6 +61,7 @@ Chaque modification est attribuée au texte qui l’a faite, tel que le nomment 
 - `tools/check_repo.py` prend une série de jours et compare, fichier par fichier et octet par octet, l’arborescence en vigueur chaque jour avec les versions d’articles que LEGI donne en vigueur ce jour-là.
 - `tools/test_repo.py` vérifie que blame, l’outil de dates et `git log --follow` fonctionnent, que chaque commit de droit porte `In-force:` et que chaque commit de droit est attribué à un texte, jamais à Lexifina.
 - [`REPRODUCE.md`](REPRODUCE.md) décrit chaque étape de la construction, avec le sha256 des archives dans [`data/archives.json`](data/archives.json) ; selon ce fichier, les mêmes archives donnent les mêmes commits avec les mêmes hashes, et pour la construction du 2026-10-28 ni ces vérifications ni une reconstruction n’ont été lancées.
+- [vulnerabilities/](vulnerabilities/) : erreurs de rédaction possibles du droit français, relevées par les détecteurs de global-law et vérifiées à la main.
 
 ## Ce qu’il ne montre pas
 
