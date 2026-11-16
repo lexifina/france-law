@@ -482,7 +482,7 @@ Les critères d'évaluation suivants sont utilisés :
 
 - les différents espaces de pratique et d'animation sont organisés, le matériel est vérifié et les règles de sécurité prises en compte ;
 
-- l'accueil des enfants et de leurs accompagnants est assuré, les pratiquants pris en charge du vestiaire au terrain ;
+- l'accueil des jeunes et de leurs accompagnants est assuré, les pratiquants pris en charge du vestiaire au terrain ;
 
 - les objectifs et les activités sont explicités et la séance rapidement mise en œuvre ;
 

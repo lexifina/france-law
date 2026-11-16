@@ -970,7 +970,7 @@ C3.1 Prendre en compte les caractéristiques du public encadré |
 
 C3.1.1 Identifier les caractéristiques du public encadré |
 
-Les stades de développement de l'enfant |
+Les stades de développement de l'enfant et de l'adolescent |
 
 C3.1.2 Adapter la préparation de la séance aux caractéristiques du public cible |
 
@@ -1016,7 +1016,7 @@ Règles de sécurité liées au matériel |
 
 C3.5 Organiser l'accueil du groupe d'entrainement |
 
-C3.5.1 Accueillir les enfants et leurs parents |
+C3.5.1 Accueillir les jeunes et leurs parents |
 
 Communication verbale et non verbale |
 
@@ -1110,7 +1110,7 @@ Critères d'évaluation :
 
 - les différents espaces de pratique et d'animation sont organisés, le matériel est vérifié et les règles de sécurité prises en compte ;
 
-- l'accueil des enfants et de leurs accompagnants est assuré, les pratiquants pris en charge du vestiaire au terrain ;
+- l'accueil des jeunes et de leurs accompagnants est assuré, les pratiquants pris en charge du vestiaire au terrain ;
 
 - les objectifs et les activités sont explicités et la séance rapidement mise en œuvre ;
 
@@ -1146,7 +1146,7 @@ d'activités s'inscrivant dans le projet sportif et éducatif de la structure |
 
 C3.1.1 Identifier les caractéristiques du public encadré |
 
-Les stades de développement de l'enfant |
+Les stades de développement de l'enfant et de l'adolescent |
 
 Citer et définir les stades de développement de l'enfant et de l'adolescent |
 
@@ -1154,7 +1154,7 @@ C3.1.2 Adapter la préparation de la séance aux caractéristiques du public cib
 
 Les procédés d'entraînement du football |
 
-Etudier les exercices spécifiques à la tranche d'âge 8 - 15 ans |
+Etudier les exercices spécifiques à la tranche d'âge U14 à U19 |
 
 C3.2.1 Situer la séance dans une programmation annuelle |
 
@@ -1172,13 +1172,13 @@ C3.3.1 Respecter un plan de séance |
 
 L'alternance activité/récupération |
 
-Définir les temps de pratique/ temps de récupération liés à la tranche d'âge 8-15 ans- mais également la dynamique d'enchainement des séquences ( arrêter d'arrêter ) |
+Définir les temps de pratique/ temps de récupération liés à la tranche d'âge U14 à U19- mais également la dynamique d'enchainement des séquences ( arrêter d'arrêter ) |
 
 C3.3.2 Choisir des activités d'entrainement adaptées à l'objectif de la séance |
 
 Les procédés d'entraînement du football |
 
-Citer les procédés d'entraînement du football des 8 - 15 ans (Exercice - jeu - situation) |
+Citer les procédés d'entraînement du football des U14 à U19 (Exercice - jeu - situation) |
 
 C3.3.3 Définir les critères d'évaluation des différentes parties |
 
@@ -1194,7 +1194,7 @@ C3.4.1 Organiser les différents espaces de pratique et d'animation |
 
 Les dimensions des espaces de travail |
 
-Citer les dimensions adaptées à chacune des tranche d'âge des 8-15 ans |
+Citer les dimensions adaptées à chacune des tranche d'âge des U14 à U19 |
 
 C3.4.2 Veiller aux règles de sécurité et de vérification du matériel |
 
@@ -1202,7 +1202,7 @@ Les règles de sécurité liées au matériel |
 
 Identifier les matériels qui nécessitent une attention particulière dans la vérification et l'utilisation |
 
-C3.5.1 Accueillir les enfants et leurs parents |
+C3.5.1 Accueillir les jeunes et leurs parents |
 
 La communication verbale et non verbale |
 
@@ -1216,7 +1216,7 @@ C3.5.2.Prendre en charge le pratiquant du vestiaire au terrain |
 
 Les règles de sécurité |
 
-Citer les règles de sécurité et de surveillance à respecter en fonction de l'âge sur la tranche 8-15 ans. |
+Citer les règles de sécurité et de surveillance à respecter en fonction de l'âge sur la tranche U14 à U19. |
 
 C3.6.1 Expliquer les objectifs de la séance |
 
@@ -1234,7 +1234,7 @@ Les fréquences de répétition |
 
 Expliquer, corriger, adapter,
 
-Connaitre les fréquences de répétition adaptées aux tranches d'âge des 8-15 ans |
+Connaitre les fréquences de répétition adaptées aux tranches d'âge des U14 à U19 |
 
 C3.7.1 Utiliser les critères d'évaluation définis dans la séance |
 
@@ -1292,7 +1292,7 @@ C3.11.1 Prendre en charge l'échauffement du groupe |
 
 Les principes d'échauffement |
 
-Citer les principes d'échauffement adaptés aux 8-15 ans |
+Citer les principes d'échauffement adaptés aux U14 à U19 |
 
 C3.11.2 Observer et réguler l'équipe durant la rencontre |
 
