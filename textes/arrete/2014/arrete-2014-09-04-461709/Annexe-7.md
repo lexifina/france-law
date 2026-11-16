@@ -20,7 +20,7 @@ L'attestation sur l'honneur comporte dans l'ordre les parties suivantes :
 
 - une ou plusieurs parties complémentaires, si celles-ci sont prévues par la fiche d'opération standardisée ;
 
-- une partie ou plusieurs parties complémentaires, si l'opération est réalisée au bénéfice des ménages en situation de précarité énergétique ou si l'opération est réalisée au bénéfice de ménages modestes dès lors que cette opération fait l'objet d'une bonification au titre des articles 3-5-2, 3-6 ou du VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie ;
+- une partie ou plusieurs parties complémentaires, si l'opération est réalisée au bénéfice des ménages en situation de précarité énergétique ou si l'opération est réalisée au bénéfice de ménages très modestes dès lors que cette opération fait l'objet d'une bonification au titre des articles 3-5-2 ou 3-6 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie ;
 
 - une partie finale.
 
@@ -62,7 +62,7 @@ Le contenu de la partie C est défini à l'annexe 7-1. Par dérogation, les arr�
 
 L'une des deux cases permettant d'identifier le type du professionnel est cochée.
 
-7. Parties complémentaires dans le cas d'opérations réalisées chez des ménages en situation de précarité énergétique ou dans le cas d'opérations réalisées chez des ménages modestes et faisant l'objet d'une bonification au titre des articles 3-5-2, 3-6 ou du VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie
+7. Parties complémentaires dans le cas d'opérations réalisées chez des ménages en situation de précarité énergétique ou dans le cas d'opérations réalisées chez des ménages très modestes et faisant l'objet d'une bonification au titre des articles 3-5-2 ou 3-6 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie
 
 Le contenu de ces parties R1, BS, CD, QPV et R2 est défini à l'annexe 7-1. Une même attestation sur l'honneur peut comporter :
 
@@ -76,7 +76,7 @@ Le contenu de ces parties R1, BS, CD, QPV et R2 est défini à l'annexe 7-1. Une
 
 - une unique partie R3.
 
-La partie R1 est utilisée lorsque l'opération entre dans le cadre des paragraphes 8.1,8.1 bis ou 8.1 ter de l'annexe 5.
+La partie R1 est utilisée lorsque l'opération entre dans le cadre des paragraphes 8.1 ou 8.1 bis de l'annexe 5.
 
 La partie BS correspond à l'attestation prévue au point I du paragraphe 8.2 de l'annexe 5. Elle peut être dupliquée autant de fois que nécessaire.
 
@@ -86,7 +86,7 @@ La partie QPV correspond à l'attestation prévue par le paragraphe 8.4 de l'ann
 
 La partie R2 correspond à l'attestation prévue au point II du paragraphe 8.2 de l'annexe 5 et à l'attestation prévue par le paragraphe 8.5.
 
-La partie R3 est utilisée lorsque le ménage est bénéficiaire d'une opération standardisée du secteur des transports.
+La partie R3 est utilisée lorsque le ménage est bénéficiaire d'une opération standardisée ou spécifique du secteur des transports.
 
 8. Partie finale
 
@@ -94,4 +94,4 @@ Le contenu de cette partie est défini à l'annexe 7-1. Elle comporte notamment 
 
 NOTA :
 
-Conformément au I de l'article 8 de l'arrêté du 17 août 2026 (NOR : ECOR2620460A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 1er septembre 2026 et s'appliquent aux opérations engagées à compter de cette date.
+Conformément à l'article 4 de l'arrêté du 5 novembre 2026 (NOR : ECOR2625692A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 16 novembre 2026 et s'appliquent aux opérations engagées à compter de cette date.

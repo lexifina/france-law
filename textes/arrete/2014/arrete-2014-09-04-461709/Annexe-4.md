@@ -42,7 +42,7 @@ Dans certains cas, notamment lorsque l'opération concernée ne correspond pas �
 
 9° Une attestation sur l'honneur signée par le professionnel mettant en œuvre ou assurant la maîtrise d'œuvre de l'opération précisant son engagement à fournir exclusivement au demandeur les documents permettant de valoriser cette opération au titre du dispositif des certificats d'économies d'énergie et à ne pas signer d'attestation sur l'honneur semblable avec une autre personne morale dans le cadre du dispositif des certificats d'économies d'énergie ;
 
-10° Lorsque l'opération concerne des ménages en situation de précarité énergétique, une attestation sur l'honneur décrivant l'opération d'économies d'énergie et contenant, selon le ou les paragraphes du point 8 de l'annexe 5 dont relève l'opération, les engagements et informations présents dans les parties R1, R2, BS ou, CD ou QPV prévues par l'annexe 7 ;
+10° Lorsque l'opération concerne des ménages en situation de précarité énergétique, une attestation sur l'honneur décrivant l'opération d'économies d'énergie et contenant, selon le ou les paragraphes du point 8 de l'annexe 5 dont relève l'opération, les engagements et informations présents dans les parties R1, R2, BS ou, CD, QPV ou R3 prévues par l'annexe 7 ;
 
 11° L'identification du secteur d'activité principal de l'opération, parmi les secteurs agriculture, résidentiel, tertiaire, industrie, réseaux ou transport.
 
@@ -60,4 +60,4 @@ II.-Dans le cas où l'opération spécifique correspond à la location d'un équ
 
 NOTA :
 
-Conformément à l'article 12 de l’arrêté du 20 septembre 2019 : Seules les actions ayant conduit à engager des opérations à compter du 1er janvier 2019 peuvent donner lieu à la délivrance de certificats d'économies d'énergie en application de l'article D. 221-20 du code de l'énergie.
+Conformément à l'article 4 de l'arrêté du 5 novembre 2026 (NOR : ECOR2625692A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 16 novembre 2026 et s'appliquent aux opérations engagées à compter de cette date.

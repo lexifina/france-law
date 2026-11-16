@@ -2102,6 +2102,12 @@ d'immatriculation
 
 du véhicule |
 
+Décile de revenus
+
+par part du bénéficiaire de l'opération |
+
+|
+
 |
 
 |
@@ -2840,4 +2846,4 @@ https :// www. legifrance. gouv. fr/ download/ pdf ? id = FGBMw6bzzOGU6LHfYz6-OO
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 18 septembre 2026 (NOR : ECOR2624709A), les dispositions de la fiche d'opération standardisée TRA-SE-104 "Station de gonflage des pneumatiques" s'appliquent aux opérations incluses dans une liste transmise dans un délai de 10 jours calendaires à compter de la date de publication du présent arrêté, par le demandeur de certificats au ministre chargé de l'énergie, suivant le modèle intitulé "Tableau de recensement des engagements TRA-SE-104" établi par la direction générale de l'énergie et du climat et mis à disposition sur le site internet du ministère.
+Conformément à l'article 4 de l'arrêté du 5 novembre 2026 (NOR : ECOR2625692A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 16 novembre 2026 et s'appliquent aux opérations engagées à compter de cette date.

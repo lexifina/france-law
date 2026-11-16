@@ -160,7 +160,7 @@ Fait à.
 
 (*) Cachet et signature du professionnel
 
-R1. Revenus du ménage bénéficiaire de l'opération hors opérations standardisées du secteur des transports
+R1. Revenus du ménage bénéficiaire de l'opération hors opérations standardisées et spécifiques du secteur des transports
 
 (*) Nom du signataire : Prénom du signataire :
 
@@ -620,27 +620,23 @@ Par personne supplémentaire |
 
 Liste des ménages bénéficiant de l'opération et dont les revenus sont inférieurs aux plafonds du tableau B ci-dessus (une ligne par ménage) :
 
-(*) NOM(S) ET PRÉNOM(S)
+(*) NOM (S) ET PRÉNOM (S)
 
 du (des) représentant(s) du ménage |
 
 (*) NOMBRE
 
-de personnes composant
-
-le ménage |
+de personnes composant le ménage |
 
 (*) NATURE DE LA PIÈCE
 
-justifiant la situation
+justifiant la situation de ménage en situation de précarité énergétique |
 
-du ménage modeste |
+(*) NOMBRE DE FOYERS
 
-(*) NOMBRE DE FOYERS FISCAUX du ménage
+FISCAUX
 
-(ne remplir que dans le cas où la pièce justificative
-
-est l'avis d'imposition) |
+du ménage (ne remplir que dans le cas où la pièce justificative est l'avis d'imposition) |
 
 |
 
@@ -710,9 +706,9 @@ De plus, il est rappelé aux signataires de la présente attestation sur l'honne
 
 Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait : 1° D'établir une attestation ou un certificat faisant état de faits matériellement inexacts ; 2° De falsifier une attestation ou un certificat originairement sincère ; 3° De faire usage d'une attestation ou d'un certificat inexact ou falsifié.
 
-R3. Revenus du ménage bénéficiaire d'une opération standardisée du secteur des transports
+R3. Revenus du ménage bénéficiaire d'une opération standardisée ou spécifique du secteur des transports
 
-(*) Nom du signataire : Prénom du signataire :
+(*) Nom du signataire :Prénom du signataire :
 
 (*) Adresse :
 
@@ -724,7 +720,7 @@ Complément d'adresse :
 
 Pays :
 
-(*) Téléphone : _ _ _ _ _ _ _ _ _ _
+(*) Téléphone :
 
 (indiquer un numéro de téléphone fixe ou de téléphone portable)
 
@@ -732,17 +728,17 @@ Pays :
 
 (indiquer : “néant” si le bénéficiaire ne dispose pas d'une adresse de courriel)
 
-(*) En tant que bénéficiaire de l'opération d'économies d'énergie, j'atteste que mon ménage appartient au décile (indiquer le numéro du décile) selon les plafonds de revenus du tableau ci-dessous, et mon foyer fiscal comporte :
-
-(*) Nombre de parts :
-
-Si mon ménage comporte plusieurs foyers fiscaux et que les pièces justificatives des revenus sont les avis d'imposition :
+(*) En tant que bénéficiaire de l'opération d'économies d'énergie, j'atteste que mon ménage appartient au décile (indiquer le numéro du décile) selon les plafonds de revenus du tableau ci-dessous, et que mon ménage est composé de :
 
 (*) Nombre de foyers fiscaux :
 
-(*) Nom(s) et prénom(s) du (des) premier (s) déclarant (s) des autres foyers fiscaux :
+(*) Nombre total de parts (somme du nombre de parts de l'ensemble des foyers fiscaux composant le ménage) :
 
-Pour un ménage comportant plusieurs foyers fiscaux, les revenus du ménage par part sont égaux à la somme, pour chaque foyer fiscal, des revenus fiscaux de référence divisés par le nombre de parts.
+Si mon ménage comporte plusieurs foyers fiscaux et que les pièces justificatives des revenus sont les avis d'imposition :
+
+(*) Nom (s) et prénom (s) du (des) premier (s) déclarant (s) des autres foyers fiscaux :
+
+Pour un ménage comportant plusieurs foyers fiscaux, les revenus du ménage par part sont égaux à la somme des revenus fiscaux de référence de chaque foyer fiscal, divisée par la somme du nombre de parts de l'ensemble des foyers fiscaux composant le ménage.
 
 Un ménage est considéré comme appartenant au décile de revenu fiscal de référence par part du tableau ci-dessous si ses revenus sont inférieurs ou égaux au plafond de revenus correspondant :
 
@@ -790,10 +786,10 @@ Le décile 10 correspond aux revenus du ménage par part supérieurs au plafond 
 
 Fait à
 
-(*) Le _ _ / _ _ / _ _ _ _
+(*) Le
 
 (*) Signature du bénéficiaire
 
 NOTA :
 
-Conformément à l'article 8 de l'arrêté du 16 juillet 2026 (NOR : ECOR2616112A) et au I de l'article 8 de l'arrêté du 17 août 2026 (NOR : ECOR2620460A), ces dispositions, dans leur rédaction résultant desdits arrêtés, entrent en vigueur à compter du 1er septembre 2026 et s'appliquent aux opérations engagées à compter de cette date.
+Conformément à l'article 4 de l'arrêté du 5 novembre 2026 (NOR : ECOR2625692A), ces dispositions, dans leur rédaction issue dudit arrêté, entrent en vigueur le 16 novembre 2026 et s'appliquent aux opérations engagées à compter de cette date.
