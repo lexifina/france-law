@@ -1,0 +1,161 @@
+# Article Annexe II
+
+PROGRAMME DES ÉPREUVES D'ADMISSIBILITÉ NO 2 ET D'ADMISSION NO 2 DU CONCOURS INTERNE
+
+1. Techniques de développement
+
+Les différents types de langages :
+
+Algorithmes
+
+Structure de contrôles
+
+Fonctions, procédures
+
+Concepts objets
+
+Patterns de réalisation
+
+Frameworks
+
+Interrogation des bases de données
+
+Gestion de version
+
+2. Techniques de l'analyse
+
+Le système d'information :
+
+- les processus métiers ;
+
+- la structuration des données métiers ;
+
+- la décomposition des processus en tâches et activités ;
+
+- les méthodes de langage de modélisation.
+
+Evolution du système d'information :
+
+- expression de besoin ;
+
+- études d'opportunité et de faisabilité ;
+
+- conception fonctionnelle ;
+
+- conception applicative et technique.
+
+Architectures :
+
+- architecture n-tiers ;
+
+- architecture orientée service ;
+
+- architecture mainframe.
+
+Tests et recette :
+
+- typologie des tests ;
+
+- organisation des tests ;
+
+- plan de tests ;
+
+- jeux d'essais ;
+
+- outils de tests.
+
+Sécurité des données et des traitements :
+
+- politique de sauvegarde ;
+
+- intégrité des données ;
+
+- architectures techniques de confiance ;
+
+- supervision ;
+
+- plan de reprise d'activité.
+
+Maintenance :
+
+- maintenance corrective, évolutive ;
+
+- contrat de maintenance ;
+
+- tierce maintenance applicative.
+
+3. Logiciel
+
+Les différents types de logiciel :
+
+- système d'exploitation ;
+
+- programmes utilitaires ;
+
+- progiciels ;
+
+- applications métier ;
+
+- middlewares ;
+
+- systèmes de gestion de base de données.
+
+Notions générales sur les systèmes :
+
+- système temps réel ;
+
+- temps partagé ;
+
+- transfert de données ;
+
+- parallélisation des traitements ;
+
+- modèle OSI.
+
+4. Matériel
+
+Les composants physiques
+
+Les mémoires : les principes de fonctionnement.
+
+Les unités périphériques :
+
+- les canaux ;
+
+- les unités d'entrée et de sortie ;
+
+- les unités de stockage d'information.
+
+Les différents types de machines
+
+Les matériels réseau
+
+5. L'environnement du SI
+
+Planification et budget :
+
+- plan d'activité annuel ;
+
+- budget informatique et analyse des coûts informatiques.
+
+Suivi des évolutions du SI :
+
+- cartographie ;
+
+- urbanisation.
+
+Organisation des projets informatiques :
+
+- les différents cycles de vie ;
+
+- les méthodes d'évaluation d'un projet ;
+
+- documentation à produire ;
+
+- planification et suivi.
+
+Modernisation, ergonomie, accessibilité
+
+La sécurité du SI (locaux, matériels, plans de secours)
+
+Droit de l'informatique
