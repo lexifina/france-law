@@ -1,0 +1,57 @@
+# Accord national du 23 janvier 1986 relatif aux salariés permanents des entreprises de travail temporaire. En vigueur le 1er juillet 1986.
+
+- État : VIGUEUR_ETEN
+- Publication : 1986-07-01
+- Identifiant KALI : KALICONT000005635905
+
+Activités professionnelles : Travail temporaire : personnels intérimaires et permanents
+
+47 texte(s) avec des articles en vigueur :
+
+- [Accord national du 23 janvier 1986 relatif aux salariés permanents des entreprises de travail temporaire. En vigueur le 1er juillet 1986.](accord-1986-01-23-643146/index.md)
+- [Accord du 18 décembre 1997 relatif au travail à temps partiel](accord-1997-12-18-643158/index.md)
+- [Accord du 20 mai 1998 relatif au travail à temps partiel des permanents des ETT](accord-1998-05-20-643160/index.md)
+- [Accord du 10 décembre 2009 relatif à la contribution au fonds paritaire de sécurisation des parcours professionnels](accord-2009-12-10-321692/index.md)
+- [Accord du 3 février 2012 relatif aux salaires minima au 1er février 2012](accord-2012-02-03-991268/index.md)
+- [Accord du 15 février 2013 relatif à la classification des emplois](accord-2013-02-15-757338/index.md)
+- [Accord du 3 juillet 2015 relatif aux salaires minima au 1er juillet 2015](accord-2015-07-03-490798/index.md)
+- [Accord du 19 novembre 2021 relatif aux salaires minima conventionnels](accord-2021-11-19-204643/index.md)
+- [Accord du 10 juin 2022 relatif aux salaires minima conventionnels des salariés permanents](accord-2022-06-10-288528/index.md)
+- [Accord du 6 janvier 2023 relatif aux salaires minima conventionnels à compter du 1er janvier 2023](accord-2023-01-06-376696/index.md)
+- [Accord du 9 février 2024 relatif aux salaires minima conventionnels des salariés permanents](accord-2024-02-09-438999/index.md)
+- [Accord du 19 juillet 2024 relatif à la révision de la classification des emplois des salariés permanents](accord-2024-07-19-237933/index.md)
+- [Accord du 20 février 2026 relatif aux salaires minima conventionnels des salariés permanents à compter du 1er février 2026](accord-2026-02-20-262470/index.md)
+- [Accord du 24 juillet 2026 relatif aux salaires minima conventionnels des salariés permanents à compter du 1er septembre 2026](accord-2026-07-24-056373/index.md)
+- [ANNEXE I - Classification du personnel permanent des entreprises de travail temporaire](accord-national-1986-01-23-643150/index.md)
+- [ANNEXE II - Méthode de classification](accord-national-1986-01-23-643152/index.md)
+- [Arrêté portant extension d'un accord national professionnel concernant les entreprises de travail temporaire (salariés permanents). JORF 18 juin 1986.](arrete-1986-06-06-643202/index.md)
+- [Arrêté portant extension d'un accord conclu en application de l'accord national professionnel concernant les salariés permanents des entreprises de tr](arrete-1988-02-01-643204/index.md)
+- [Arrêté portant extension d'avenants à l'accord national professionnels concernant les salariés permanents des entreprises de travail temporaire. JORF ](arrete-1988-03-04-643206/index.md)
+- [Arrêté portant extension d'un accord conclu en application de l'accord national professionnel concernant les salariés permanents des entreprises de tr](arrete-1988-09-22-643208/index.md)
+- [Arrêté portant extension d'un accord conclu en application de l'accord national professionnel concernant les salariés permanents des entreprises de tr](arrete-1989-03-09-643210/index.md)
+- [Arrêté portant extension d'un accord conclu en application de l'accord national professionnel concernant les salariés permanents des entreprises de tr](arrete-1990-04-20-643212/index.md)
+- [Arrêté portant extension d'un accord conclu en application de l'accord national professionnel concernant les salariés permanents des entreprises de tr](arrete-1991-01-15-643214/index.md)
+- [Arrêté portant extension d'un accord conclu en application de l'accord national professionnel concernant les salariés permanents des entreprises de tr](arrete-1993-03-12-643216/index.md)
+- [Arrêté portant extension d'un accord conclu en application de l'accord national professionnel concernant les salariés permanents des entreprises de tr](arrete-1993-10-15-643218/index.md)
+- [Arrêté portant extension d'un accord conclu en application de l'accord national professionnel concernant les salariés permanents des entreprises de tr](arrete-1994-05-07-643220/index.md)
+- [Arrêté portant extension d'un accord conclu en application de l'accord national professionnel concernant les salariés permanents des entreprises de tr](arrete-1994-10-10-643222/index.md)
+- [Arrêté portant extension d'un accord conclu en application de l'accord national professionnel concernant les salariés permanents des entreprises de tr](arrete-1995-03-22-643224/index.md)
+- [Arrêté portant extension d'un accord conclu en application de l'accord national professionnel concernant les salariés permanents des entreprises de tr](arrete-1996-03-11-643226/index.md)
+- [Arrêté portant extension d'un accord national professionnel concernant les entreprises de travail temporaire. JORF 22 octobre 1998.](arrete-1998-10-13-643228/index.md)
+- [Arrêté portant extension d'un accord conclu en application de l'accord national professionnel concernant les salariés permanents des entreprises de tr](arrete-1998-12-22-643230/index.md)
+- [Arrêté portant extension d'un accord conclu en application de l'accord national professionnel concernant les salariés permanents des entreprises de tr](arrete-2000-04-25-643232/index.md)
+- [Arrêté portant extension d'un accord conclu en application de l'accord national professionnel concernant les salariés permanents des entreprises de tr](arrete-2001-03-02-643234/index.md)
+- [Arrêté portant extension d'un accord conclu en application de l'accord national professionnel concernant les salariés permanents des entreprises de tr](arrete-2003-05-22-643236/index.md)
+- [Arrêté portant extension d'un avenant à un accord national professionnel concernant les salariés permanents des entreprises de travail temporaire. JOR](arrete-2004-02-06-643238/index.md)
+- [Arrêté portant extension d'un avenant à un accord national professionnel conclu dans le secteur du travail temporaire. JORF 17 août 2005.](arrete-2005-08-04-643240/index.md)
+- [Arrêté portant extension d'un avenant à un accord national professionnel conclu dans le secteur du travail temporaire. JORF 3 novembre 2006.](arrete-2006-10-23-643242/index.md)
+- [Arrêté portant extension d'un avenant à un accord national professionnel conclu dans le secteur des entreprises du travail temporaire. JORF 12 juillet](arrete-2007-07-02-643244/index.md)
+- [Avenant du 16 mars 2007 relatif aux salaires minima au 1er janvier 2007](avenant-2007-03-16-643200/index.md)
+- [Avenant du 22 avril 2008 relatif aux salaires à compter du 1er janvier 2008 (1)](avenant-2008-04-22-348958/index.md)
+- [Avenant du 29 janvier 2010 à l'accord du 23 janvier 1986 relatif aux salariés permanents](avenant-2010-01-29-760323/index.md)
+- [Avenant n° 1 du 3 décembre 2010 à l'accord du 10 décembre 2009 relatif au fonds paritaire de sécurisation des parcours professionnels](avenant-2010-12-03-995917/index.md)
+- [Avenant n° 3 du 7 décembre 2012 à l'accord du 10 décembre 2009 relatif à la répartition du FPSPP](avenant-2012-12-07-348642/index.md)
+- [Avenant n° 4 du 11 octobre 2013 à l'accord du 10 décembre 2009 relatif à la contribution au FPSPP](avenant-2013-10-11-465937/index.md)
+- [Avenant n° 5 du 9 octobre 2014 à l'accord du 10 décembre 2009 relatif à la contribution au FPSPP](avenant-2014-10-09-057041/index.md)
+- [Avis d'interprétation du 19 janvier 1994](avis-d-interpretatio-1994-01-19-643154/index.md)
+- [Avis d'interprétation du 10 avril 1996 sur le licenciement d'un salarié permanent pendant une absence pour maladie](avis-d-interpretatio-1996-04-10-643156/index.md)

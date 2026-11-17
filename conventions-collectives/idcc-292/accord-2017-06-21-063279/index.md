@@ -1,0 +1,11 @@
+# Accord du 21 juin 2017 relatif aux jours de congés pour événements familiaux
+
+- Nature : Accord
+- Date du texte : 2017-06-21
+- NOR : ASET1750909M
+- État : VIGUEUR_ETEN
+- Champ géographique : A NATIONAL
+- Identifiant KALI : KALITEXT000036063279
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000036063279
+
+4 articles en vigueur dans ce dossier au 2026-11-01.

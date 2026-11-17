@@ -1,0 +1,12 @@
+# Avenant n° 28 du 13 avril 2018 relatif aux salaires minima conventionnels
+
+- Nature : Avenant
+- Numéro : 28
+- Date du texte : 2018-04-13
+- NOR : ASET1850860M
+- État : VIGUEUR_ETEN
+- Champ géographique : A NATIONAL
+- Identifiant KALI : KALITEXT000037768099
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000037768099
+
+5 articles en vigueur dans ce dossier au 2026-11-01.

@@ -1,0 +1,58 @@
+# Convention collective nationale des ingénieurs et cadres de la métallurgie du 13 mars 1972. Etendue par arrêté du 27 avril 1973 (JO du 29 mai 1973)
+
+- IDCC : 650
+- État : ABROGE
+- Publication : 1972-03-13
+- Identifiant KALI : KALICONT000005635842
+
+Activités professionnelles : Métallurgie : ingénieurs et cadres
+
+47 texte(s) avec des articles en vigueur :
+
+- [Accord du 11 avril 2023 relatif au barème des appointements minimaux garantis pour l'année 2023](accord-2023-04-11-702763/index.md)
+- [Accord national du 22 novembre 1982 relatif à la retraite](accord-national-1982-11-22-673472/index.md)
+- [Accord national du 18 mars 2022 relatif au barème des appointements minimaux garantis à partir de l'année 2022](accord-national-2022-03-18-976208/index.md)
+- [Arrêté portant extension de la convention collective nationale des ingénieurs et cadres de la métallurgie. JORF 29 mai 1973.](arrete-1973-04-27-673524/index.md)
+- [Arrêté portant extension d'un accord modifiant la convention collective nationale des ingénieurs et cadres de la métallurgie. JORF 13 septembre 1973.](arrete-1973-07-30-673526/index.md)
+- [Arrêté portant extension d'un accord modifiant le champ d'application de la convention collective nationale des ingénieurs et cadres de la métallurgie](arrete-1973-10-08-673528/index.md)
+- [Arrêté portant extension d'un accord modifiant le champ d'application de la convention collective nationale des ingénieurs et cadres de la métallurgie](arrete-1974-07-04-673530/index.md)
+- [Arrêté portant extension d'un accord modifiant la convention collective nationale des ingénieurs et cadres de la métallurgie. JORF 5 novembre 1974.](arrete-1974-10-18-673532/index.md)
+- [Arrêté portant extension d'un accord modifiant la convention collective nationale des ingénieurs et cadres de la métallurgie. JORF 19 mars 1975.](arrete-1975-03-05-673534/index.md)
+- [Arrêté portant extension d'un accord modifiant la convention collective nationale des ingénieurs et cadres de la métallurgie. JONC 29 mai 1979.](arrete-1979-04-25-673536/index.md)
+- [Arrêté portant extension d'un accord modifiant la convention collective nationale des ingénieurs et cadres de la métallurgie. JONC 24 novembre 1979.](arrete-1979-10-26-673538/index.md)
+- [Arrêté portant extension d'un accord modifiant la convention collective nationale des ingénieurs et cadres de la métallurgie. JONC 10 mai 1980.](arrete-1980-04-04-673540/index.md)
+- [Arrêté portant extension d'un accord modifiant la convention collective nationale des ingénieurs et cadres de la métallurgie. JONC 8 novembre 1980.](arrete-1980-10-08-673542/index.md)
+- [Arrêté portant extension d'un accord modifiant la convention collective nationale des ingénieurs et cadres de la métallurgie. JONC 17 octobre 1981.](arrete-1981-10-07-673544/index.md)
+- [Arrêté portant extension d'un accord modifiant la convention collective nationale des ingénieurs et cadres de la métallurgie. JONC 9 avril 1982.](arrete-1982-03-19-673546/index.md)
+- [Arrêté portant extension d'un accord modifiant la convention collective nationale des ingénieurs et cadres de la métallurgie. JONC 8 juin 1982.](arrete-1982-05-18-673548/index.md)
+- [Arrêté portant extension d'un accord intervenu dans le cadre de la convention collective nationale des ingénieurs et cadres de la métallurgie. JONC 27](arrete-1983-08-16-673550/index.md)
+- [Arrêté portant extension d'un accord intervenu dans le cadre de la convention collective nationale des ingénieurs et cadres de la métallurgie. JONC 24](arrete-1983-12-12-673552/index.md)
+- [Arrêté portant extension d'un accord intervenu dans le cadre de la convention collective nationale des ingénieurs et cadres de la métallurgie. JONC 12](arrete-1984-04-16-673554/index.md)
+- [Arrêté portant extension d'un accord intervenu dans le cadre de la convention collective nationale des ingénieurs et cadres de la métallurgie. JORF 7 ](arrete-1985-02-22-673556/index.md)
+- [Arrêté portant extension d'un accord intervenu dans le cadre de la convention collective nationale des ingénieurs et cadres de la métallurgie. JORF 2 ](arrete-1986-04-23-673558/index.md)
+- [Arrêté portant extension d'un accord intervenu dans le cadre de la convention collective nationale des ingénieurs et cadres de la métallurgie. JORF 5 ](arrete-1987-02-24-673560/index.md)
+- [Arrêté portant extension d'un accord intervenu dans le cadre de la convention collective nationale des ingénieurs et cadres de la métallurgie. JORF 23](arrete-1988-02-09-673562/index.md)
+- [Arrêté portant extension d'un accord intervenu dans le cadre de la convention collective nationale des ingénieurs et cadres de la métallurgie. JORF 9 ](arrete-1989-03-01-673564/index.md)
+- [Arrêté portant extension d'un accord conclu dans le cadre de la convention collective nationale des ingénieurs et cadres de la métallurgie. JORF 2 mai](arrete-1990-04-20-673566/index.md)
+- [Arrêté portant extension d'un avenant à la convention collective nationale des ingénieurs et cadres de la métallurgie. JORF 2 mai 1990.](arrete-1990-04-20-673568/index.md)
+- [Arrêté portant extension d'un accord conclu dans le cadre de la convention collective nationale des ingénieurs et cadres de la métallurgie. JORF 21 fé](arrete-1991-02-13-673570/index.md)
+- [Arrêté portant extension d'un accord conclu dans le cadre de la convention collective nationale des ingénieurs et cadres de la métallurgie. JORF 17 ma](arrete-1992-03-03-673572/index.md)
+- [Arrêté portant extension d'un accord conclu dans le cadre de la convention collective nationale des ingénieurs et cadres de la métallurgie. JORF 18 ma](arrete-1993-03-01-673574/index.md)
+- [Arrêté portant extension d'un accord conclu dans le cadre de la convention collective nationale des ingénieurs et cadres de la métallurgie. JORF 25 fé](arrete-1994-02-16-673576/index.md)
+- [Arrêté portant extension d'un accord conclu dans le cadre de la convention collective nationale des ingénieurs et cadres de la métallurgie. JORF 18 fé](arrete-1995-02-08-673578/index.md)
+- [Arrêté portant extension d'un accord conclu dans le cadre de la convention collective nationale des ingénieurs et cadres de la métallurgie. JORF 7 mar](arrete-1996-02-23-673580/index.md)
+- [Arrêté portant extension d'un accord conclu dans le cadre de la convention collective nationale des ingénieurs et cadres de la métallurgie. JORF 25 fé](arrete-1997-02-14-673582/index.md)
+- [Arrêté portant extension d'un avenant à la convention collective nationale des ingénieurs et cadres de la métallurgie. JORF 14 novembre 1998.](arrete-1998-10-28-673584/index.md)
+- [Arrêté portant extension d'un accord conclu dans le cadre de la convention collective nationale des ingénieurs et cadres de la métallurgie. JORF 31 dé](arrete-1998-12-22-673586/index.md)
+- [Arrêté portant extension d'un accord conclu dans le cadre de la convention collective nationale des ingénieurs et cadres de la métallurgie. JORF 16 ma](arrete-2000-03-06-673588/index.md)
+- [Arrêté portant extension d'un accord conclu dans le cadre de la convention collective nationale des ingénieurs et cadres de la métallurgie. JORF 17 ao](arrete-2001-07-31-673590/index.md)
+- [Arrêté modifiant l'arrêté du 31 juillet 2001 portant extension d'un accord conclu dans le cadre de la convention collective nationale des ingénieurs e](arrete-2001-12-04-673592/index.md)
+- [Arrêté portant extension d'accords conclus dans le cadre de la convention collective nationale des ingénieurs et cadres de la métallurgie (n° 650). JO](arrete-2002-12-03-673594/index.md)
+- [Arrêté portant extension d'un accord conclu dans le cadre de la convention collective nationale des ingénieurs et cadres de la métallurgie (n° 650). J](arrete-2003-06-02-673596/index.md)
+- [Arrêté portant extension d'un avenant à la convention collective nationale des ingénieurs et cadres de la métallurgie (n° 650). JORF 12 mai 2004.](arrete-2004-05-06-673598/index.md)
+- [Arrêté portant extension d'un avenant à la convention collective nationale des ingénieurs et cadres de la métallurgie (n° 650). JORF 9 novembre 2004.](arrete-2004-10-26-673600/index.md)
+- [Arrêté portant extension d'un accord conclu dans le cadre de la convention collective nationale des ingénieurs et cadres de la métallurgie (n° 650). J](arrete-2005-07-04-673602/index.md)
+- [Arrêté portant extension d'un accord conclu dans le cadre de la convention collective nationale des ingénieurs et cadres de la métallurgie (n° 650). J](arrete-2006-05-12-673605/index.md)
+- [Arrêté portant extension d'un accord conclu dans le cadre de la convention collective nationale des ingénieurs et cadres de la métallurgie (n° 650). J](arrete-2007-04-11-673607/index.md)
+- [Avenant du 19 décembre 2003 relatif à la retraite](avenant-2003-12-19-673478/index.md)
+- [Avenant du 21 juin 2010 relatif à la période d'essai, à l'indemnité de licenciement et à la mise à la retraite](avenant-2010-06-21-158068/index.md)

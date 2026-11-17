@@ -1,0 +1,63 @@
+# Convention collective nationale de l'inspection d'assurance du 27 juillet 1992. Etendue par arrêté du 12 juillet 1993 JORF 7 août 1993
+
+- IDCC : 1679
+- État : VIGUEUR_ETEN
+- Publication : 1992-09-15
+- Identifiant KALI : KALICONT000005635475
+
+Activités professionnelles : Inspection d'assurance
+
+52 texte(s) avec des articles en vigueur :
+
+- [Accord du 27 avril 1998 relatif aux salaires](accord-1998-04-27-655040/index.md)
+- [Accord du 11 octobre 2002 relatif aux salaires](accord-2002-10-11-655042/index.md)
+- [Accord du 10 mars 2003 relatif à l'indemnisation des salariés participant aux réunions paritaires](accord-2003-03-10-655031/index.md)
+- [Accord du 11 juin 2003 relatif aux salaires](accord-2003-06-11-655044/index.md)
+- [Accord du 14 octobre 2004 relatif à la formation professionnelle](accord-2004-10-14-671426/index.md)
+- [Accord du 29 avril 2008 relatif aux rémunérations minimales pour 2008](accord-2008-04-29-652438/index.md)
+- [Accord du 29 avril 2009 relatif aux rémunérations minimales pour l'année 2009](accord-2009-04-29-180854/index.md)
+- [Accord du 29 avril 2010 relatif aux rémunérations minimales au 1er janvier 2010](accord-2010-04-29-175797/index.md)
+- [Accord du 3 janvier 2011 relatif au dialogue social](accord-2011-01-03-461914/index.md)
+- [Accord du 27 avril 2011 relatif aux rémunérations minimales pour l'année 2011](accord-2011-04-27-769836/index.md)
+- [Accord du 25 avril 2012 relatif aux rémunérations minimales pour l'année 2012](accord-2012-04-25-383056/index.md)
+- [Accord du 11 octobre 2012 relatif au financement des activités sociales et culturelles des comités d'entreprise](accord-2012-10-11-036111/index.md)
+- [Accord du 22 avril 2013 relatif aux rémunérations minimales pour l'année 2013](accord-2013-04-22-465771/index.md)
+- [Accord du 24 juin 2013 relatif au dispositif professionnel de fonds de pension](accord-2013-06-24-269598/index.md)
+- [Accord du 17 mars 2014 relatif aux rémunérations minimales pour l'année 2014](accord-2014-03-17-361310/index.md)
+- [Accord du 18 mai 2015 relatif aux rémunérations minimales pour l'année 2015](accord-2015-05-18-284455/index.md)
+- [Accord du 10 mai 2016 relatif aux rémunérations minimales au 1er janvier 2016](accord-2016-05-10-196798/index.md)
+- [Accord du 2 mai 2017 relatif aux rémunérations minimales au 1er janvier 2017](accord-2017-05-02-677627/index.md)
+- [Accord du 15 mai 2018 relatif aux rémunérations minimales pour 2018](accord-2018-05-15-651968/index.md)
+- [Accord du 14 mai 2019 relatif aux rémunérations minimales pour l'année 2019](accord-2019-05-14-191674/index.md)
+- [Accord du 29 novembre 2022 relatif à la qualité de vie et aux conditions de travail](accord-2022-11-29-347893/index.md)
+- [Accord du 25 juin 2025 relatif à l'emploi des salariés expérimentés](accord-2025-06-25-288787/index.md)
+- [Accord du 18 février 2026 relatif à la qualité de vie et aux conditions de travail](accord-2026-02-18-091823/index.md)
+- [Accord du 18 février 2026 relatif à la mixité-diversité et à l'égalité professionnelle entre les femmes et les hommes](accord-2026-02-18-303576/index.md)
+- [Accord du 18 février 2026 relatif à la valorisation des parcours syndicaux](accord-2026-02-18-303716/index.md)
+- [Adhésion par lettre du 22 mai 2006 de UNSA banques assurances à des conventions collectives](adhesion-par-lettre-2006-05-22-655033/index.md)
+- [Annexe I Classification des fonctions Convention collective nationale du 27 juillet 1992](annexe-1992-07-27-655019/index.md)
+- [Annexe II Barème des rémunérations minimales annuelles pour les fonctions d'inspection à effet du 1er janvier 1992 Convention collective nationale du ](annexe-1992-07-27-655021/index.md)
+- [Annexe III Commission paritaire nationale de la formation professionnelle et de l'emploi Convention collective nationale du 27 juillet 1992](annexe-1992-07-27-655023/index.md)
+- [Annexe IV Indemnisation des salariés participant aux réunions paritaires de la profession Convention collective nationale du 27 juillet 1992](annexe-1992-07-27-655025/index.md)
+- [Arrêté portant extension de la convention collective nationale de l'inspection d'assurance. JORF 7 août 1993.](arrete-1993-07-12-655052/index.md)
+- [Avenant du 10 décembre 2007 à l'accord du 14 octobre 2004 relatif à la formation professionnelle tout au long de la vie](avenant-2007-12-10-348494/index.md)
+- [Avenant du 4 novembre 2013 relatif au dialogue social](avenant-2013-11-04-071575/index.md)
+- [Avenant du 25 novembre 2013 relatif au dispositif professionnel de fonds de pension](avenant-2013-11-25-071656/index.md)
+- [Avenant du 15 juin 2015 à l'accord du 24 juin 2013 relatif au dispositif professionnel de fonds de pension](avenant-2015-06-15-567644/index.md)
+- [Avenant du 28 juin 2016 au protocole d'accord du 24 juin 2013 relatif au régime professionnel de prévoyance](avenant-2016-06-28-539020/index.md)
+- [Avenant du 6 décembre 2016 au protocole d'accord du 4 novembre 2013 relatif au dialogue social](avenant-2016-12-06-898122/index.md)
+- [Avenant du 27 juin 2023 relatif à la révision de la période d'essai](avenant-2023-06-27-052600/index.md)
+- [Convention collective nationale de l'inspection d'assurance du 27 juillet 1992. Etendue par arrêté du 12 juillet 1993 JORF 7 août 1993](convention-collectiv-1992-07-27-655017/index.md)
+- [Protocole de mise en application de la classification Convention collective nationale du 27 juillet 1992](convention-collectiv-1992-07-27-655027/index.md)
+- [Protocole d'accord sur la "transition" Convention collective nationale du 27 juillet 1992](protocole-d-accord-1992-07-27-655029/index.md)
+- [Protocole d'accord du 3 avril 2006 relatif aux salaires](protocole-d-accord-2006-04-03-655050/index.md)
+- [Protocole d'accord du 21 mars 2007 relatif aux rémunérations minimales pour l'année 2007](protocole-d-accord-2007-03-21-890005/index.md)
+- [Protocole d'accord du 19 mai 2020 relatif aux rémunérations minimales pour l'année 2020](protocole-d-accord-2020-05-19-312633/index.md)
+- [Protocole d'accord du 3 juin 2021 relatif aux rémunérations minimales pour l'année 2021](protocole-d-accord-2021-06-03-091288/index.md)
+- [Protocole d'accord du 10 décembre 2021 relatif au dialogue social](protocole-d-accord-2021-12-10-695423/index.md)
+- [Protocole d'accord du 28 juin 2022 relatif aux rémunérations minimales pour l'année 2022](protocole-d-accord-2022-06-28-478078/index.md)
+- [Protocole d'accord du 19 juin 2023 relatif aux rémunérations minimales pour l'année 2023](protocole-d-accord-2023-06-19-044307/index.md)
+- [Protocole d'accord du 19 juin 2024 relatif aux rémunérations minimales pour l'année 2024](protocole-d-accord-2024-06-19-140803/index.md)
+- [Protocole d'accord du 16 juin 2025 relatif aux rémunérations minimales pour l'année 2025](protocole-d-accord-2025-06-16-226917/index.md)
+- [Protocole d'accord du 10 décembre 2025 relatif au dialogue social pour la période 2026-2029](protocole-d-accord-2025-12-10-716079/index.md)
+- [Protocole d'accord du 10 juin 2026 relatif aux rémunérations minimales pour l'année 2026](protocole-d-accord-2026-06-10-887714/index.md)

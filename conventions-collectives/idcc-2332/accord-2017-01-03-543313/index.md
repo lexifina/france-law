@@ -1,0 +1,11 @@
+# Rhône-Alpes Accord du 3 janvier 2017 relatif à la valeur du point au 1er janvier 2017
+
+- Nature : Accord
+- Date du texte : 2017-01-03
+- NOR : ASET1751052M
+- État : VIGUEUR_NON_ETEN
+- Champ géographique : REGIONAL RHONE-ALPES
+- Identifiant KALI : KALITEXT000036543313
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000036543313
+
+5 articles en vigueur dans ce dossier au 2026-11-01.

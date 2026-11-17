@@ -1,0 +1,11 @@
+# Accord du 14 décembre 2017 relatif à la commission paritaire permanente de négociation et d'interprétation (CPPNI)
+
+- Nature : Accord
+- Date du texte : 2017-12-14
+- NOR : ASET1850149M
+- État : VIGUEUR_ETEN
+- Champ géographique : A NATIONAL
+- Identifiant KALI : KALITEXT000036835606
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000036835606
+
+4 articles en vigueur dans ce dossier au 2026-11-01.

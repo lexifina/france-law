@@ -1,0 +1,11 @@
+# Avenant du 28 septembre 2010 relatif à la mise à jour de la convention collective
+
+- Nature : Avenant
+- Date du texte : 2010-09-28
+- NOR : ASET1151031M
+- État : VIGUEUR_ETEN
+- Champ géographique : A NATIONAL
+- Identifiant KALI : KALITEXT000024660211
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000024660211
+
+12 articles en vigueur dans ce dossier au 2026-11-01.

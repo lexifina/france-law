@@ -1,0 +1,56 @@
+# Convention collective nationale des artistes-interprètes engagés pour des émissions de télévision du 30 décembre 1992.  Etendue par arrêté du 24 janvier 1994 JORF 4 février 1994.
+
+- IDCC : 1734
+- État : VIGUEUR_ETEN
+- Publication : 1992-12-30
+- Identifiant KALI : KALICONT000005635286
+
+Activités professionnelles : Artistes-interprètes (engagés pour des émissions de télévision)
+
+45 texte(s) avec des articles en vigueur :
+
+- [Annexe III Accord du 30 décembre 1992](accord-1992-12-30-666916/index.md)
+- [Annexe IV Accord du 30 décembre 1992](accord-1992-12-30-666918/index.md)
+- [Annexe V Accord du 30 décembre 1992](accord-1992-12-30-666920/index.md)
+- [Annexe VI (1) Accord du 30 décembre 1992](accord-1992-12-30-666922/index.md)
+- [Annexe VII Accord du 30 décembre 1992](accord-1992-12-30-666924/index.md)
+- [Accord du 29 octobre 1998 relatif à la rémunération des artistes-interprètes pour l'utilisation de leur prestation dans certaines émissions](accord-1998-10-29-666906/index.md)
+- [Accord du 7 décembre 1999 relatif à la rémunération des artistes-interprètes pour l'utilisation de leur prestation dans certaines émissions](accord-1999-12-07-666908/index.md)
+- [Accord du 20 juillet 2002 relatif aux salaires](accord-2002-07-20-666910/index.md)
+- [Accord portant annexe I de la convention Accord du 4 décembre 2002](accord-2002-12-04-666932/index.md)
+- [Accord du 26 février 2004 relatif aux plafonds de congés pour certaines professions](accord-2004-02-26-666934/index.md)
+- [Accord du 23 janvier 2007 relatif aux salaires](accord-2007-01-23-666952/index.md)
+- [Accord du 11 septembre 2007 relatif à la rémunération des artistes-interprètesen cas d'utilisation de leurs prestations en vidéo à la demande (VOD)](accord-2007-09-11-613693/index.md)
+- [Accord du 22 novembre 2007 relatif aux rémunérations des artistes-interprètes en cas de rediffusion par les chaînes analogiques terrestres](accord-2007-11-22-701257/index.md)
+- [Accord « Salaires » du 13 décembre 2007](accord-2007-12-13-701273/index.md)
+- [Accord du 23 décembre 2008 relatif aux salaires au 1er janvier 2009](accord-2008-12-23-498902/index.md)
+- [Accord du 8 juin 2011 modifiant l'annexe I relative aux rémunérations](accord-2011-06-08-174869/index.md)
+- [Accord du 1er janvier 2012 relatif aux rémunérations brutes minimales au 1er janvier 2012](accord-2012-01-01-915524/index.md)
+- [Accord du 20 décembre 2013 relatif aux salaires au 1er janvier 2014](accord-2013-12-20-256686/index.md)
+- [Accord du 11 janvier 2016 relatif à la rémunération versée aux artistes-interprètes pour les rediffusions des émissions de télévision sur les chaînes ](accord-2016-01-11-462873/index.md)
+- [Accord du 11 janvier 2016 relatif aux salaires au 1er janvier 2016](accord-2016-01-11-462877/index.md)
+- [Annexe I A : Rémunération complémentaire versée aux artistes-interprètes pour les rediffusions des émissions de télévision par les chaînes de la TNT g](accord-2016-06-09-625370/index.md)
+- [Accord du 5 juillet 2016 relatif à la rémunération des artistes interprètes pour l'utilisation de leurs prestations dans les émissions de télévision f](accord-2016-07-05-232138/index.md)
+- [Accord du 6 février 2017 relatif aux salaires au 1er février 2017](accord-2017-02-06-532701/index.md)
+- [Accord du 10 avril 2018 relatif aux barèmes de rémunération au 1er avril 2018](accord-2018-04-10-953843/index.md)
+- [Annexe I B : Rémunération complémentaire des artistes-interprètes (Accord du 26 décembre 2018)](accord-2018-12-26-616731/index.md)
+- [Annexe II Convention collective nationale du 30 décembre 1992 relative aux salaires](annexe-1992-12-30-666940/index.md)
+- [Arrêté portant extension de la convention collective nationale des artistes-interprètes engagés pour des émissions de télévision. JORF 4 février 1994.](arrete-1994-01-24-666954/index.md)
+- [Annexe VIII - Révision des prix de cession de référence pour des émissions de fiction ou de valeur comparable d'une durée de 60 minutes Avenant du 31 ](avenant-2001-12-31-666928/index.md)
+- [Annexe II Avenant du 31 décembre 2001 relatif aux salaires](avenant-2001-12-31-666944/index.md)
+- [Avenant du 25 septembre 2003 relatif au régime de prévoyance](avenant-2003-09-25-666936/index.md)
+- [Avenant du 21 décembre 2004 relatif aux salaires](avenant-2004-12-21-666948/index.md)
+- [Avenant du 29 janvier 2007 relatif au toilettage de la convention](avenant-2007-01-29-193122/index.md)
+- [Avenant du 17 juin 2009 relatif à la diffusion en cas de grève](avenant-2009-06-17-278015/index.md)
+- [Avenant du 13 juillet 2011 à l'accord du 13 décembre 2007 relatif à la rémunération](avenant-2011-07-13-174863/index.md)
+- [Avenant n° 1 du 20 décembre 2013 prorogeant l'accord du 16 décembre 2010](avenant-2013-12-20-324502/index.md)
+- [Avenant n° 2 du 3 juillet 2014 prorogeant l'accord du 16 décembre 2010 relatif à la rémunération des artistes-interprètes en cas d'utilisation de leur](avenant-2014-07-03-785901/index.md)
+- [Avenant n° 3 du 15 octobre 2014 prorogeant l'accord du 16 décembre 2010 relatif à la rémunération des artistes-interprètes en cas d'utilisation de leu](avenant-2014-10-15-785906/index.md)
+- [Avenant du 9 juin 2016 à la convention collective nationale du 30 décembre 1992](avenant-2016-06-09-625316/index.md)
+- [Avenant du 26 décembre 2018 relatif à la mise en place de la CPPNI](avenant-2018-12-26-616752/index.md)
+- [Avenant du 30 avril 2019 relatif aux barèmes de rémunération au 1er mai 2019](avenant-2019-04-30-196100/index.md)
+- [Avenant du 30 septembre 2022 relatif aux salaires minima conventionnels au 1er octobre 2022](avenant-2022-09-30-331783/index.md)
+- [Avenant du 18 janvier 2024 relatif à la revalorisation des salaires minima conventionnels](avenant-2024-01-18-300557/index.md)
+- [Convention collective nationale des artistes-interprètes engagés pour des émissions de télévision du 30 décembre 1992. Etendue par arrêté du 24 janvie](convention-collectiv-1992-12-30-666912/index.md)
+- [Lexique Convention collective nationale du 30 décembre 1992](convention-collectiv-1992-12-30-666930/index.md)
+- [Adhésion par lettre du 8 septembre 2004 de la fédération nationale SAMUP (FNS) à la convention collective et à ses avenants](lettre-d-adhesion-2004-09-08-666938/index.md)

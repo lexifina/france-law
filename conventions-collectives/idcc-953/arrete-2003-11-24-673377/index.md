@@ -1,0 +1,11 @@
+# Arrêté portant extension d'un avenant à la convention collective nationale de la charcuterie de détail (n° 953). JORF 14 octobre 2003. JORF 3 décembre 2003.
+
+- Nature : Arrete
+- Date du texte : 2003-11-24
+- NOR : SOCT0311840A
+- État : VIGUEUR
+- Champ géographique : A NATIONAL
+- Identifiant KALI : KALITEXT000005673377
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000005673377
+
+1 article en vigueur dans ce dossier au 2026-11-01.

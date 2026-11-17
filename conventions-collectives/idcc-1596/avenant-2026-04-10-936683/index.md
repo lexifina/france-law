@@ -1,0 +1,11 @@
+# Centre-Val de Loire Avenant du 10 avril 2026 relatif aux indemnités de petits déplacements au 1er mai 2026
+
+- Nature : Avenant
+- Date du texte : 2026-04-10
+- NOR : ASET2650625M
+- État : VIGUEUR_ETEN
+- Champ géographique : REGIONAL CENTRE-VAL DE LOIRE
+- Identifiant KALI : KALITEXT000054936683
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000054936683
+
+8 articles en vigueur dans ce dossier au 2026-11-01.

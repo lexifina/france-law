@@ -1,0 +1,12 @@
+# Avenant n° 29 du 24 janvier 2025 relatif aux salaires minima des avocats salariés
+
+- Nature : Avenant
+- Numéro : 29
+- Date du texte : 2025-01-24
+- NOR : ASET2550259M
+- État : VIGUEUR_ETEN
+- Champ géographique : A NATIONAL
+- Identifiant KALI : KALITEXT000051537677
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000051537677
+
+5 articles en vigueur dans ce dossier au 2026-11-01.

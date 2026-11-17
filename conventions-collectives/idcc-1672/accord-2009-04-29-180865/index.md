@@ -1,0 +1,11 @@
+# Accord du 29 avril 2009 relatif aux rémunérations minimales pour l'année 2009
+
+- Nature : Accord
+- Date du texte : 2009-04-29
+- NOR : ASET0950827M
+- État : VIGUEUR_NON_ETEN
+- Champ géographique : A NATIONAL
+- Identifiant KALI : KALITEXT000021180865
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000021180865
+
+5 articles en vigueur dans ce dossier au 2026-11-01.

@@ -1,0 +1,11 @@
+# Annexe II Classement des organismes du régime social des indépendants 20 mars 2008
+
+- Nature : Annexe
+- Numéro : II
+- Date du texte : 2008-03-20
+- État : VIGUEUR_NON_ETEN
+- Champ géographique : A NATIONAL
+- Identifiant KALI : KALITEXT000023974696
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000023974696
+
+1 article en vigueur dans ce dossier au 2026-11-01.

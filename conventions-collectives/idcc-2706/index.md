@@ -1,0 +1,60 @@
+# Convention collective nationale du personnel des administrateurs et des mandataires judiciaires du 20 décembre 2007
+
+- IDCC : 2706
+- État : VIGUEUR_ETEN
+- Publication : 2007-12-20
+- Identifiant KALI : KALICONT000019647748
+
+Activités professionnelles : Administrateurs et mandataires judiciaires
+
+49 texte(s) avec des articles en vigueur :
+
+- [(ex-IDCC 2706) Accord du 28 septembre 2007 relatif à la formation professionnelle du personnel des administrateurs et des mandataires judiciaires](accord-2007-09-28-771813/index.md)
+- [(ex-IDCC 2706) Accord du 5 février 2009 relatif à la prévoyance](accord-2009-02-05-720065/index.md)
+- [(ex-IDCC 2706) Accord du 15 décembre 2009 relatif à la commission paritaire nationale de l'emploi](accord-2009-12-15-219154/index.md)
+- [Accord du 8 mars 2012 relatif à la mise en place de la commission paritaire de validation des accords](accord-2012-03-08-287055/index.md)
+- [(ex-IDCC 2706) Accord du 26 février 2015 relatif au régime de frais de soins de santé](accord-2015-02-26-127160/index.md)
+- [Accord du 14 mai 2019 relatif au regroupement de champs conventionnels](accord-2019-05-14-459228/index.md)
+- [Accord du 17 décembre 2020 relatif à l'activité partielle de longue durée](accord-2020-12-17-563007/index.md)
+- [Accord du 22 janvier 2021 à l'avenant du 5 octobre 2019 à l'accord du 5 février 2009 relatif au régime de prévoyance](accord-2021-01-22-582099/index.md)
+- [Adhésion par lettre du 15 octobre 2012 de la CGT à l'accord de prévoyance du 5 février 2009](adhesion-2012-10-15-804446/index.md)
+- [Adhésion par lettre du 24 juin 2014 de la fédération des employés et cadres FO à la convention collective](adhesion-2014-06-24-504929/index.md)
+- [Adhésion par lettre du 3 novembre 2008 de la fédération des services CFDT à la convention collective](adhesion-par-lettre-2008-11-03-041711/index.md)
+- [Avenant n° 1 du 28 mai 2009 relatif à la durée de la période d'essai](avenant-2009-05-28-012715/index.md)
+- [Avenant n° 3 du 15 décembre 2009 relatif aux salaires minimaux au 1er janvier 2010](avenant-2009-12-15-219166/index.md)
+- [Avenant n° 1 du 15 décembre 2009 à l'accord du 5 février 2009 relatif à la prévoyance](avenant-2009-12-15-822544/index.md)
+- [Avenant n° 4 du 1er avril 2010 relatif à la non-discrimination et à la retraite](avenant-2010-04-01-001183/index.md)
+- [Avenant n° 5 du 17 février 2011 relatif aux absences pour maladie ou accident](avenant-2011-02-17-470276/index.md)
+- [Avenant n° 6 du 14 avril 2011 relatif aux salaires minimaux au 1er avril 2011](avenant-2011-04-14-470282/index.md)
+- [Avenant n° 7 du 8 juin 2012 relatif aux salaires minimaux au 1er avril 2012](avenant-2012-06-08-533885/index.md)
+- [Avenant n° 2 du 4 octobre 2012 relatif à la prévoyance](avenant-2012-10-04-012355/index.md)
+- [Avenant n° 8 du 4 octobre 2012 relatif au fonds d'aide au paritarisme](avenant-2012-10-04-012366/index.md)
+- [Avenant n° 10 du 28 mars 2013 relatif aux salaires minimaux au 1er avril 2013](avenant-2013-03-28-745803/index.md)
+- [Avenant n° 9 du 6 juin 2013 relatif à la mise en conformité de l'avenant n° 5 du 17 février 2011 (article 19.5 de la convention collective)](avenant-2013-06-06-465989/index.md)
+- [Avenant n° 3 du 30 janvier 2014 à l'accord du 5 février 2009 relatif à la prévoyance](avenant-2014-01-30-176269/index.md)
+- [Avenant n° 1 du 27 novembre 2014 à l'accord du 28 septembre 2007 relatif à la formation professionnelle](avenant-2014-11-27-127127/index.md)
+- [Avenant n° 11 du 27 novembre 2014 relatif aux salaires minima pour l'année 2015](avenant-2014-11-27-733192/index.md)
+- [Avenant n° 12 du 26 février 2015 relatif à la mise en conformité de l'avenant n° 5 du 17 février 2011](avenant-2015-02-26-127146/index.md)
+- [Avenant n° 11 bis du 17 septembre 2015 à l'avenant n° 11 du 27 novembre 2014 relatif aux salaires minima pour l'année 2015](avenant-2015-09-17-964421/index.md)
+- [Avenant n° 13 du 29 octobre 2015 relatif aux salaires minima pour l'année 2016](avenant-2015-10-29-173396/index.md)
+- [Avenant n° 14 du 30 juin 2016 relatif à la classification et aux salaires de mandataire et administrateur judiciaire salarié](avenant-2016-06-30-183693/index.md)
+- [Avenant n° 15 du 6 avril 2017 relatif à la durée du travail (forfait annuel en jours)](avenant-2017-04-06-073865/index.md)
+- [Avenant du 6 avril 2017 relatif à la protection des membres des délégations syndicales dans les différentes commissions paritaires](avenant-2017-04-06-073890/index.md)
+- [Avenant n° 17 du 1er juin 2017 relatif à la mise en place de la CPPNI](avenant-2017-06-01-073905/index.md)
+- [Avenant n° 18 du 1er juin 2017 relatif à l'ordre public conventionnel](avenant-2017-06-01-073918/index.md)
+- [Avenant n° 19 du 1er juin 2017 à l'accord du 5 février 2009 relatif à la prévoyance](avenant-2017-06-01-073929/index.md)
+- [Avenant n° 20 du 1er juin 2017 à l'accord du 26 février 2015 relatif au régime de frais de santé](avenant-2017-06-01-073941/index.md)
+- [Avenant n° 21 du 23 novembre 2017 relatif à l'indemnité de licenciement et aux congés exceptionnels](avenant-2017-11-23-376965/index.md)
+- [Avenant n° 22 du 19 décembre 2017 relatif à la revalorisation des salaires à compter du 1er janvier 2018](avenant-2017-12-19-376973/index.md)
+- [Avenant n° 23 du 5 avril 2018 à l'accord du 26 février 2015 relatif au régime de frais de soins de santé](avenant-2018-04-05-907315/index.md)
+- [Avenant n° 24 du 25 septembre 2018 relatif à l'ordre public conventionnel](avenant-2018-09-25-907329/index.md)
+- [Avenant n° 25 du 25 septembre 2018 relatif aux garanties liées au degré élevé de solidarité](avenant-2018-09-25-907350/index.md)
+- [Avenant n° 28 du 12 mars 2019 relatif à la revalorisation des salaires à compter du 1er avril 2019](avenant-2019-03-12-049687/index.md)
+- [(ex-IDCC 2706) Avenant n° 27 du 12 mars 2019 relatif à la désignation de l'opérateur de compétences (OPCO des entreprises de proximité)](avenant-2019-03-12-108689/index.md)
+- [Avenant n° 1 du 16 juillet 2019 à l'accord du 14 mai 2019 relatif au regroupement de champs conventionnels](avenant-2019-07-16-459264/index.md)
+- [Avenant n° 30 du 4 octobre 2019 à l'accord du 26 février 2015 relatif au régime de frais de soins de santé](avenant-2019-10-04-084999/index.md)
+- [Avenant n° 31 du 5 octobre 2019 à l'accord du 5 février 2009 relatif à la prévoyance](avenant-2019-10-05-085019/index.md)
+- [Avenant n° 29 bis du 21 novembre 2019 à l'avenant n° 8 du 4 octobre 2012 relatif au fonds d'aide au paritarisme](avenant-2019-11-21-084983/index.md)
+- [Avenant du 20 juin 2022 à l'accord du 17 décembre 2020 relatif à l'activité partielle de longue durée](avenant-2022-06-20-366312/index.md)
+- [Avis d'interprétation du 3 mars 2016 sur les avenants n° 9 du 6 juin 2013 et n° 12 du 26 février 2015 relatifs à l'indemnisation maladie](avis-d-interpretatio-2016-03-03-729963/index.md)
+- [Convention collective nationale du personnel des administrateurs et des mandataires judiciaires du 20 décembre 2007](convention-collectiv-2007-12-20-647753/index.md)

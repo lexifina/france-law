@@ -1,0 +1,56 @@
+# Convention collective nationale des entreprises du secteur privé du spectacle vivant du 3 février 2012
+
+- IDCC : 3090
+- État : VIGUEUR_ETEN
+- Publication : 2013-07-01
+- Identifiant KALI : KALICONT000028157262
+
+Activités professionnelles : Spectacle vivant (entreprises du secteur privé)
+
+45 texte(s) avec des articles en vigueur :
+
+- [Accord du 15 mai 2012 relatif aux salaires](accord-2012-05-15-422521/index.md)
+- [Accord du 1er décembre 2012 relatif aux salaires](accord-2012-12-01-292068/index.md)
+- [Accord du 29 juin 2015 relatif aux plafonds applicables à l'indemnité journalière de congé payé](accord-2015-06-29-285052/index.md)
+- [Accord du 21 octobre 2015 relatif à l'aménagement du travail à temps partiel](accord-2015-10-21-826796/index.md)
+- [Accord du 25 avril 2018 relatif à la mise en place de la CPPNI](accord-2018-04-25-192081/index.md)
+- [Accord du 1er juillet 2021 relatif à la mise en place du dispositif d'activité partielle de longue durée](accord-2021-07-01-285502/index.md)
+- [Accord du 8 novembre 2023 relatif à la modification de la convention collective (annexe I)](accord-2023-11-08-095132/index.md)
+- [Accord du 22 novembre 2023 relatif à la prévention des violences sexuelles et des agissements sexistes](accord-2023-11-22-095162/index.md)
+- [Accord du 19 juillet 2024 relatif au régime obligatoire de frais de santé des salariés hors salariés intermittents du spectacle](accord-2024-07-19-394834/index.md)
+- [Accord du 18 octobre 2024 relatif à l'évolution du secrétariat de la CPPNI](accord-2024-10-18-793135/index.md)
+- [Accord du 12 mai 2025 relatif au degré élevé de solidarité en prévoyance](accord-2025-05-12-721717/index.md)
+- [Adhésion par lettre du 4 juillet 2013 du SYNAVI à la convention collective](adhesion-2013-07-04-886703/index.md)
+- [Adhésion par lettre du 4 août 2017 de la FSICPA à la convention collective](adhesion-2017-08-04-063365/index.md)
+- [Adhésion par lettre du 22 novembre 2021 de l'UNSA spectacle et communication à la convention collective nationale](adhesion-par-lettre-2021-11-22-373156/index.md)
+- [Annexe I : Exploitants de lieux, producteurs ou diffuseurs de spectacles dramatiques, lyriques, chorégraphiques et de musique classique](annexe-2012-02-03-157504/index.md)
+- [Annexe II : Exploitants de lieux, producteurs ou diffuseurs de spectacles de chanson, variétés, jazz, musiques actuelles](annexe-2012-02-03-157597/index.md)
+- [Annexe III : Exploitants de lieux, producteurs ou diffuseurs de spectacles de cabaret](annexe-2012-02-03-157763/index.md)
+- [Annexe IV : Producteurs ou diffuseurs de spectacles en tournée (spectacles dramatiques, lyriques, chorégraphiques, de musique classique, chansons, var](annexe-2012-02-03-157816/index.md)
+- [Annexe V : Producteurs ou diffuseurs de spectacles de cirque](annexe-2012-02-03-157868/index.md)
+- [Annexe VI : Producteurs, diffuseurs, organisateurs occasionnels (y compris les particuliers) de spectacles de bal avec ou sans orchestre](annexe-2012-02-03-157899/index.md)
+- [Avenant du 16 mai 2012 relatif aux dispositions particulières des cadres de direction](avenant-2012-05-16-422526/index.md)
+- [Avenant du 22 octobre 2013 à la convention](avenant-2013-10-22-901425/index.md)
+- [Avenant du 24 mars 2015 relatif aux salaires minima au 1er avril 2015](avenant-2015-03-24-184830/index.md)
+- [Avenant du 30 juin 2015 relatif aux salaires minima au 1er juillet 2015](avenant-2015-06-30-568141/index.md)
+- [Avenant du 10 novembre 2015 relatif à la commission de suivi et de validation des accords](avenant-2015-11-10-826828/index.md)
+- [Avenant du 10 novembre 2016 relatif aux dispositions du titre VI « Metteur en scène de théâtre » de l'annexe I de la convention](avenant-2016-11-10-449382/index.md)
+- [Avenant du 21 juin 2017 relatif à l'adhésion du syndicat des cabarets music-halls et lieux de création (CAMULC) à la convention](avenant-2017-06-21-026446/index.md)
+- [Avenant du 6 septembre 2017 à la convention collective relatif au CDD d'usage (liste des emplois)](avenant-2017-09-06-578668/index.md)
+- [Avenant du 6 septembre 2017 relatif à l'article 8.11 des clauses communes (et pour les deux fonctions techniques, à l'article 12 du III.3 du III de l'](avenant-2017-09-06-578682/index.md)
+- [Avenant du 22 mars 2018 relatif aux salaires minimaux applicables au 1er avril 2018 en application du titre VI « Grilles des emplois. – Classification](avenant-2018-03-22-412126/index.md)
+- [Avenant du 18 décembre 2018 modifiant les dispositions de la convention collective nationale](avenant-2018-12-18-632638/index.md)
+- [Avenant du 18 décembre 2018 à l'avenant du 6 septembre 2017 (art. VIII.11 des clauses communes) relatif au forfait jours](avenant-2018-12-18-632695/index.md)
+- [Avenant du 16 mai 2019 relatif à la révision de la convention collective nationale](avenant-2019-05-16-944551/index.md)
+- [Avenant du 3 octobre 2019 relatif aux salaires minimaux applicables au 1er novembre 2019 en application du titre VI « Grilles des emplois. Classificat](avenant-2019-10-03-944562/index.md)
+- [Avenant du 24 novembre 2020 à l'avenant du 6 septembre 2017 relatif à la révision de la convention collective (article 7.3)](avenant-2020-11-24-688145/index.md)
+- [Avenant du 1er juillet 2021 relatif à la modification de l'article 4.21 « Comité social et économique »](avenant-2021-07-01-285549/index.md)
+- [Avenant du 1er juillet 2021 relatif au contrat à durée déterminée dit d'usage (article X.1.2)](avenant-2021-07-01-285566/index.md)
+- [Avenant du 7 février 2022 relatif aux salaires minimaux au 1er février 2022](avenant-2022-02-07-954076/index.md)
+- [Avenant du 28 juin 2022 relatif à la prolongation de l'avenant du 1er juillet 2021 à l'annexe I de la convention](avenant-2022-06-28-532641/index.md)
+- [Avenant du 24 novembre 2022 relatif aux salaires minimaux au 1er décembre 2022](avenant-2022-11-24-086910/index.md)
+- [Avenant n° 2 du 14 juin 2023 relatif à la prolongation de l'avenant du 1er juillet 2021 à l'annexe I de la convention collective](avenant-2023-06-14-052663/index.md)
+- [Avenant du 25 janvier 2024 relatif aux salaires minimaux applicables au 1er février 2024](avenant-2024-01-25-309111/index.md)
+- [Avenant du 18 octobre 2024 relatif à la révision de la convention collective (art. 4.22 « Comité d'action sociale et culturelle – Spectacle vivant pri](avenant-2024-10-18-793163/index.md)
+- [Avenant du 21 juillet 2025 relatif aux salaires minimaux applicables au 1er septembre 2025](avenant-2025-07-21-721738/index.md)
+- [Convention collective nationale des entreprises du secteur privé du spectacle vivant du 3 février 2012](convention-collectiv-2012-02-03-157267/index.md)

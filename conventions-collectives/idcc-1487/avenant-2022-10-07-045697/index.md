@@ -1,0 +1,12 @@
+# Avenant n° 29 du 7 octobre 2022 relatif aux salaires
+
+- Nature : Avenant
+- Numéro : 29
+- Date du texte : 2022-10-07
+- NOR : ASET2251412M
+- État : VIGUEUR_ETEN
+- Champ géographique : A NATIONAL
+- Identifiant KALI : KALITEXT000047045697
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000047045697
+
+6 articles en vigueur dans ce dossier au 2026-11-01.

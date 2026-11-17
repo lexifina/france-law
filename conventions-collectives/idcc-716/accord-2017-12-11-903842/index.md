@@ -1,0 +1,11 @@
+# Accord du 11 décembre 2017 relatif à l'égalité professionnelle entre les femmes et les hommes
+
+- Nature : Accord
+- Date du texte : 2017-12-11
+- NOR : ASET1850225M
+- État : VIGUEUR_ETEN
+- Champ géographique : A NATIONAL
+- Identifiant KALI : KALITEXT000036903842
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000036903842
+
+14 articles en vigueur dans ce dossier au 2026-11-01.

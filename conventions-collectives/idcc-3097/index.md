@@ -1,0 +1,55 @@
+# Convention collective nationale de la production cinématographique du 19 janvier 2012
+
+- IDCC : 3097
+- État : VIGUEUR_ETEN
+- Publication : 2013-08-01
+- Identifiant KALI : KALICONT000028059838
+
+Activités professionnelles : Production cinématographique (19 janvier 2012)
+
+44 texte(s) avec des articles en vigueur :
+
+- [Accord du 9 juillet 2014 relatif aux artistes-interprètes engagés sur un court métrage (titre III - salariés de l'équipe artistique)](accord-2014-07-09-440759/index.md)
+- [Accord du 24 juillet 2015 relatif aux salaires du personnel technique (titre II)](accord-2015-07-24-521844/index.md)
+- [Accord du 3 novembre 2015 relatif à l'aide au paritarisme](accord-2015-11-03-426289/index.md)
+- [Accord du 28 avril 2016 relatif aux conditions de recours au contrat à durée déterminée d'usage](accord-2016-04-28-136351/index.md)
+- [Accord du 29 juillet 2016 relatif au titre IV « Salariés permanents »](accord-2016-07-29-860077/index.md)
+- [Accord du 18 décembre 2018 relatif au développement de l'emploi durable](accord-2018-12-18-616270/index.md)
+- [Accord du 20 février 2019 relatif à l'annexe III du titre II de la convention collective](accord-2019-02-20-746365/index.md)
+- [Accord du 28 juin 2021 relatif à la mise en place de l'activité partielle de longue durée](accord-2021-06-28-254006/index.md)
+- [Accord de méthode du 24 février 2022 relatif à la négociation sur la classification](accord-de-methode-2022-02-24-044054/index.md)
+- [Adhésion par lettre du 20 octobre 2016 de Sud culture à la convention](adhesion-2016-10-20-860165/index.md)
+- [Adhésion par lettre du 25 novembre 2013 de l'AFPF, de l'APC, du SPI, de l'UPF à la convention](adhesion-par-lettre-2013-11-25-465836/index.md)
+- [Adhésion par lettre du 15 septembre 2015 de l'API à l'accord du 24 juillet 2015 relatif aux salaires du personnel technique](adhesion-par-lettre-2015-09-15-521855/index.md)
+- [Avenant du 9 décembre 2008 à l'accord du 17 décembre 2007 relatif au fonctionnement du CCHSCT](avenant-2008-12-09-669544/index.md)
+- [Avenant du 1er juillet 2013 ajoutant un titre III « Salariés de l'équipe artistique » à la convention](avenant-2013-07-01-053648/index.md)
+- [Avenant du 8 octobre 2013 modifiant la convention](avenant-2013-10-08-319313/index.md)
+- [Avenant n° 2 du 3 novembre 2015 portant révision du protocole d'accord collectif du 17 décembre 2007](avenant-2015-11-03-426281/index.md)
+- [Avenant du 15 janvier 2016 portant révision des dispositions relatives à la branche costume (titre II de la convention)](avenant-2016-01-15-017140/index.md)
+- [Avenant du 18 avril 2016 à l'accord du 24 juillet 2015 relatif aux salaires](avenant-2016-04-18-532821/index.md)
+- [Avenant du 20 juillet 2017 portant révision des salaires de l'équipe technique (titre II de la convention)](avenant-2017-07-20-993640/index.md)
+- [Avenant du 12 septembre 2018 relatif à la mise en place de la CPPNI](avenant-2018-09-12-326423/index.md)
+- [Avenant du 30 octobre 2018 portant révision des salaires des artistes-interprètes](avenant-2018-10-30-184352/index.md)
+- [Avenant du 3 avril 2019 relatif à la révision des salaires de l'équipe technique](avenant-2019-04-03-061545/index.md)
+- [Avenant du 6 mai 2019 relatif à la modification de l'article 2 du titre II de la convention collective et aux salaires](avenant-2019-05-06-116776/index.md)
+- [Avenant du 17 juillet 2019 relatif à la révision des définitions de fonctions des techniciens de la postproduction (titre II de la convention collecti](avenant-2019-07-17-405312/index.md)
+- [Avenant du 25 octobre 2019 relatif à la modification de l'annexe III.1 au sous-titre Ier du titre III de la convention collective](avenant-2019-10-25-698909/index.md)
+- [Avenant du 25 octobre 2019 relatif à la modification des titres Ier et II de la convention collective](avenant-2019-10-25-698920/index.md)
+- [Avenant du 28 juin 2021 relatif au titre II de la convention collective nationale](avenant-2021-06-28-253794/index.md)
+- [Avenant du 20 décembre 2021 au titre III de la convention collective relatif aux salaires minima garantis des artistes-interprètes](avenant-2021-12-20-044102/index.md)
+- [Avenant du 24 février 2022 au titre II de la convention collective relatif à la branche son](avenant-2022-02-24-044067/index.md)
+- [Avenant du 25 février 2022 au titre II de la convention collective relatif à la révision des salaires minima](avenant-2022-02-25-044080/index.md)
+- [Avenant du 19 juillet 2022 relatif à la révision du titre IV de la convention collective](avenant-2022-07-19-956066/index.md)
+- [Avenant du 24 juillet 2023 relatif à la revalorisation des salaires minima (titres II et IV de la convention)](avenant-2023-07-24-095260/index.md)
+- [Avenant du 1er août 2023 relatif à la revalorisation des salaires minima (titre III de la convention)](avenant-2023-08-01-095288/index.md)
+- [Avenant du 1er août 2023 relatif à la création d'une annexe III.2 au sous-titre II du titre III de la convention collective](avenant-2023-08-01-095317/index.md)
+- [Avenant du 23 janvier 2024 relatif à la révision des salaires minima (titre II de la convention collective)](avenant-2024-01-23-329461/index.md)
+- [Avenant du 17 mai 2024 relatif aux conditions d'emploi des mineurs (titre III de la convention collective)](avenant-2024-05-17-028346/index.md)
+- [Avenant du 17 mai 2024 relatif à la prévention et au signalement des violences et harcèlements sexistes et sexuels (VHSS)](avenant-2024-05-17-028370/index.md)
+- [Avenant du 11 septembre 2024 portant révision de diverses dispositions relatives à la collecte des contributions conventionnelles](avenant-2024-09-11-295352/index.md)
+- [Avenant du 11 septembre 2024 relatif à la révision de l'article 16 « Congés payés »](avenant-2024-09-11-295370/index.md)
+- [Avenant du 26 mars 2025 relatif à la révision des salaires minima (titre IV de la convention collective)](avenant-2025-03-26-497544/index.md)
+- [Avenant du 26 mars 2025 relatif à la modification des titres Ier et II de la convention collective](avenant-2025-03-26-909988/index.md)
+- [Avenant du 26 septembre 2025 relatif à la classification (titre II de la convention collective)](avenant-2025-09-26-497558/index.md)
+- [Convention collective nationale de la production cinématographique du 19 janvier 2012](convention-collectiv-2012-01-19-053370/index.md)
+- [Protocole d'accord du 17 décembre 2007 relatif au comité central d'hygiène, de sécurité et des conditions de travail de la production cinématographiqu](protocole-d-accord-2007-12-17-772760/index.md)

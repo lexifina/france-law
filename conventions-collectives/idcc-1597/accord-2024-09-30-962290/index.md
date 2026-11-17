@@ -1,0 +1,11 @@
+# PACA Accord du 30 septembre 2024 relatif à l'indemnité de petits déplacements
+
+- Nature : Accord
+- Date du texte : 2024-09-30
+- NOR : ASET2450897M
+- État : VIGUEUR_ETEN
+- Champ géographique : REGIONAL PROVENCE-ALPES-COTE D'AZUR
+- Identifiant KALI : KALITEXT000050962290
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000050962290
+
+9 articles en vigueur dans ce dossier au 2026-11-01.

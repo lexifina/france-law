@@ -1,0 +1,11 @@
+# Avenant n° 96 du 20 avril 2006 relatif au salaire conventionnel
+
+- Nature : Avenant
+- Numéro : 96
+- Date du texte : 2006-04-20
+- NOR : ASET0650623M
+- État : VIGUEUR_ETEN
+- Identifiant KALI : KALITEXT000005681345
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000005681345
+
+3 articles en vigueur dans ce dossier au 2026-11-01.

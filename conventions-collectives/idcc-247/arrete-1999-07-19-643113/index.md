@@ -1,0 +1,11 @@
+# Arrêté portant extension d'un accord national professionnel concernant les industries de l'habillement, l'industrie de la bretelle et de la ceinture et de l'industrie du bouton. JORF 30 juillet 1999.
+
+- Nature : Arrete
+- Date du texte : 1999-07-19
+- NOR : MEST9911106A
+- État : VIGUEUR
+- Champ géographique : A NATIONAL
+- Identifiant KALI : KALITEXT000005643113
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000005643113
+
+1 article en vigueur dans ce dossier au 2026-11-01.

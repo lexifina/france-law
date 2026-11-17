@@ -1,0 +1,11 @@
+# Isère et Hautes-Alpes Accord du 28 février 2025 relatif à la valeur du point pour le calcul de la prime d'ancienneté à compter du 1er mars 2025
+
+- Nature : Accord
+- Date du texte : 2025-02-28
+- NOR : ASET2550383M
+- État : VIGUEUR_ETEN
+- Champ géographique : DEPARTEMENTAL ISERE ET HAUTES-ALPES
+- Identifiant KALI : KALITEXT000051694554
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000051694554
+
+10 articles en vigueur dans ce dossier au 2026-11-01.

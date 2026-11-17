@@ -1,0 +1,11 @@
+# Picardie Accord du 5 février 2016 relatif aux indemnités de petits déplacements au 1er avril 2016
+
+- Nature : Accord
+- Date du texte : 2016-02-05
+- NOR : ASET1650504M
+- État : VIGUEUR_ETEN
+- Champ géographique : REGIONAL PICARDIE
+- Identifiant KALI : KALITEXT000032748749
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000032748749
+
+5 articles en vigueur dans ce dossier au 2026-11-01.

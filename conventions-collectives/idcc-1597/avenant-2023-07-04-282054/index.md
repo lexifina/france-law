@@ -1,0 +1,11 @@
+# Centre-Val de Loire Avenant du 4 juillet 2023 relatif aux indemnités de petits déplacements au 1er août 2023
+
+- Nature : Avenant
+- Date du texte : 2023-07-04
+- NOR : ASET2350970M
+- État : VIGUEUR_ETEN
+- Champ géographique : REGIONAL CENTRE-VAL DE LOIRE
+- Identifiant KALI : KALITEXT000048282054
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000048282054
+
+6 articles en vigueur dans ce dossier au 2026-11-01.

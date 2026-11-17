@@ -1,0 +1,11 @@
+# Accord du 12 mars 2024 relatif aux minima conventionnels
+
+- Nature : Accord
+- Date du texte : 2024-03-12
+- NOR : ASET2450400M
+- État : VIGUEUR_ETEN
+- Champ géographique : A NATIONAL
+- Identifiant KALI : KALITEXT000049693871
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000049693871
+
+9 articles en vigueur dans ce dossier au 2026-11-01.

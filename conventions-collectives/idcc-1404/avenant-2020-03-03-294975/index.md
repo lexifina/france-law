@@ -1,0 +1,12 @@
+# Avenant n° 8 du 3 mars 2020 relatif aux salaires minima au 1er mars 2020
+
+- Nature : Avenant
+- Numéro : 8
+- Date du texte : 2020-03-03
+- NOR : ASET2050560M
+- État : VIGUEUR_ETEN
+- Champ géographique : A NATIONAL
+- Identifiant KALI : KALITEXT000042294975
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000042294975
+
+5 articles en vigueur dans ce dossier au 2026-11-01.

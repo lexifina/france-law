@@ -1,0 +1,12 @@
+# Avenant n° 45 du 10 décembre 2024 relatif aux salaires minima conventionnels à compter du 1er janvier 2025
+
+- Nature : Avenant
+- Numéro : 45
+- Date du texte : 2024-12-10
+- NOR : ASET2550151M
+- État : VIGUEUR_ETEN
+- Champ géographique : A NATIONAL
+- Identifiant KALI : KALITEXT000051367220
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000051367220
+
+9 articles en vigueur dans ce dossier au 2026-11-01.

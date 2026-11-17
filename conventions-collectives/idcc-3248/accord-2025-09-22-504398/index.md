@@ -1,0 +1,11 @@
+# Dordogne Accord du 22 septembre 2025 relatif à la valeur de point pour le calcul de la prime d'ancienneté à compter du 1er janvier 2026
+
+- Nature : Accord
+- Date du texte : 2025-09-22
+- NOR : ASET2551007M
+- État : VIGUEUR_ETEN
+- Champ géographique : DEPARTEMENTAL DORDOGNE
+- Identifiant KALI : KALITEXT000053504398
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000053504398
+
+9 articles en vigueur dans ce dossier au 2026-11-01.

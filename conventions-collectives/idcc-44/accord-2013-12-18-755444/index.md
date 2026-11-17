@@ -1,0 +1,11 @@
+# Accord du 18 décembre 2013 relatif aux salaires minima pour l'année 2014
+
+- Nature : Accord
+- Date du texte : 2013-12-18
+- NOR : ASET1450102M
+- État : VIGUEUR_ETEN
+- Champ géographique : A NATIONAL
+- Identifiant KALI : KALITEXT000028755444
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000028755444
+
+9 articles en vigueur dans ce dossier au 2026-11-01.

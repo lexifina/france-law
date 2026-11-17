@@ -1,0 +1,11 @@
+# Accord du 6 octobre 2022 relatif au développement du dialogue social et à l'organisation du paritarisme
+
+- Nature : Accord
+- Date du texte : 2022-10-06
+- NOR : ASET2350273M
+- État : VIGUEUR_ETEN
+- Champ géographique : A NATIONAL
+- Identifiant KALI : KALITEXT000047416443
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000047416443
+
+14 articles en vigueur dans ce dossier au 2026-11-01.

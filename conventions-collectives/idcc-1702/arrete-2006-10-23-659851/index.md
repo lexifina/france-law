@@ -1,0 +1,11 @@
+# Arrêté portant extension d'accords régionaux (Bretagne) conclus dans le cadre de la convention collective nationale des ouvriers des travaux publics (n° 1702). JORF 3 novembre 2006.
+
+- Nature : Arrete
+- Date du texte : 2006-10-23
+- NOR : SOCT0612183A
+- État : VIGUEUR
+- Champ géographique : REGIONAL BRETAGNE
+- Identifiant KALI : KALITEXT000005659851
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000005659851
+
+1 article en vigueur dans ce dossier au 2026-11-01.

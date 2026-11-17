@@ -1,0 +1,12 @@
+# Avenant n° 20 du 27 juillet 2010 relatif à la commission paritaire de validation des accords collectifs
+
+- Nature : Avenant
+- Numéro : 20
+- Date du texte : 2010-07-27
+- NOR : ASET1051309M
+- État : VIGUEUR_ETEN
+- Champ géographique : A NATIONAL
+- Identifiant KALI : KALITEXT000023406297
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000023406297
+
+4 articles en vigueur dans ce dossier au 2026-11-01.

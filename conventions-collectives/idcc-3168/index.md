@@ -1,0 +1,60 @@
+# Convention collective nationale des professions de la photographie du 13 février 2013
+
+- IDCC : 3168
+- État : VIGUEUR_ETEN
+- Publication : 2013-02-13
+- Identifiant KALI : KALICONT000027961162
+
+Activités professionnelles : Professions de la photographie
+
+49 texte(s) avec des articles en vigueur :
+
+- [Accord du 27 septembre 2000 relatif à la prévoyance](accord-2000-09-27-685255/index.md)
+- [Accord du 5 décembre 2002 relatif au régime de prévoyance](accord-2002-12-05-685287/index.md)
+- [Accord du 12 juin 2007 relatif au développement du dialogue social](accord-2007-06-12-562985/index.md)
+- [Accord du 3 septembre 2007 relatif à la formation professionnelle](accord-2007-09-03-193025/index.md)
+- [Accord du 15 juillet 2008 relatif aux salaires minima et à la prime d'ancienneté](accord-2008-07-15-747323/index.md)
+- [Accord du 9 décembre 2009 relatif à l'égalité professionnelle entre les femmes et les hommes](accord-2009-12-09-759622/index.md)
+- [Accord du 15 février 2010 relatif aux salaires](accord-2010-02-15-901003/index.md)
+- [Accord du 29 juin 2012 relatif aux salaires minima pour l'année 2012](accord-2012-06-29-563082/index.md)
+- [Accord du 20 décembre 2013 relatif à la protection sociale complémentaire frais de santé](accord-2013-12-20-967638/index.md)
+- [Accord du 2 avril 2014 relatif au développement du dialogue social](accord-2014-04-02-433730/index.md)
+- [Accord du 10 décembre 2015 relatif à la contribution conventionnelle exceptionnelle](accord-2015-12-10-594143/index.md)
+- [Accord du 6 septembre 2017 relatif à l'aménagement et à l'organisation du temps de travail](accord-2017-09-06-512346/index.md)
+- [Accord du 11 avril 2018 relatif à la mise en place de la CPPNI](accord-2018-04-11-940319/index.md)
+- [Accord du 10 février 2021 relatif au dispositif spécifique d'activité partielle de longue durée (APLD) en cas de réduction durable de l'activité](accord-2021-02-10-065937/index.md)
+- [Accord du 11 juin 2021 relatif à la mise en œuvre de la réforme professionnelle sur la reconversion ou promotion par alternance (Pro-A)](accord-2021-06-11-479787/index.md)
+- [Adhésion par lettre du 17 octobre 2012 de la FEC CGT-FO à l'accord du 5 septembre 2012](adhesion-2012-10-17-951406/index.md)
+- [Adhésion par lettre du 1er octobre 2013 de l'UNSA spectacle et communication à la convention](adhesion-2013-10-01-216993/index.md)
+- [Adhésion par lettre du 19 février 2008 de la CGT à l'accord du 12 juin 2007 relatif au développement du dialogue social](adhesion-par-lettre-2008-02-19-827554/index.md)
+- [Adhésion par lettre du 10 décembre 2021 de la confédération autonome du travail (CAT) à la convention collective nationale](adhesion-par-lettre-2021-12-10-373161/index.md)
+- [Adhésion par lettre du 14 février 2022 de l'UNSA FCS à la convention collective nationale du 13 février 2013, à l'ensemble de ses avenants et textes a](adhesion-par-lettre-2022-02-14-847856/index.md)
+- [Avenant du 9 décembre 2004 relatif à la formation professionnelle](avenant-2004-12-09-685324/index.md)
+- [Avenant du 17 novembre 2005 relatif aux salaires](avenant-2005-11-17-685374/index.md)
+- [Avenant du 9 octobre 2007 relatif aux salaires](avenant-2007-10-09-074035/index.md)
+- [Avenant n° 1 du 9 décembre 2009 à l'accord du 5 décembre 2002 relatif au régime de prévoyance](avenant-2009-12-09-759635/index.md)
+- [Avenant n° 2 du 9 décembre 2009 à l'accord du 5 décembre 2002 relatif au régime de prévoyance](avenant-2009-12-09-759649/index.md)
+- [Avenant n° 3 du 9 décembre 2009 à l'accord du 5 décembre 2002 relatif au régime de prévoyance](avenant-2009-12-09-759666/index.md)
+- [Avenant du 10 mai 2010 à l'accord du 3 septembre 2007 relatif à la formation professionnelle](avenant-2010-05-10-176089/index.md)
+- [Avenant du 2 avril 2014 relatif aux salaires](avenant-2014-04-02-324485/index.md)
+- [Avenant n° 1 du 2 juillet 2015 à l'accord du 20 décembre 2013 relatif aux frais de santé](avenant-2015-07-02-283527/index.md)
+- [Avenant du 2 juillet 2015 relatif aux salaires](avenant-2015-07-02-874078/index.md)
+- [Avenant n° 4 du 6 octobre 2016 à l'accord du 5 décembre 2002 relatif au régime de prévoyance](avenant-2016-10-06-202451/index.md)
+- [Avenant du 7 mars 2017 relatif aux salaires minima](avenant-2017-03-07-318403/index.md)
+- [Avenant n° 5 du 6 septembre 2017 à l'accord du 5 décembre 2002 relatif aux cotisations prévoyance](avenant-2017-09-06-512376/index.md)
+- [Avenant du 11 avril 2018 relatif aux salaires minima conventionnels au 1er mars 2018](avenant-2018-04-11-940330/index.md)
+- [Avenant n° 1 du 12 décembre 2018 à l'accord du 11 avril 2018 relatif à la mise en place de la CPPNI](avenant-2018-12-12-632505/index.md)
+- [Avenant du 20 mars 2019 relatif aux salaires minima](avenant-2019-03-20-061800/index.md)
+- [Avenant n° 2 du 11 septembre 2019 relatif au régime de remboursement complémentaire de frais de soins de santé](avenant-2019-09-11-664858/index.md)
+- [Avenant n° 6 du 1er juillet 2020 à l'accord du 5 décembre 2002 relatif au régime de prévoyance](avenant-2020-07-01-251060/index.md)
+- [Avenant n° 7 du 9 septembre 2020 à l'accord du 5 décembre 2002 relatif au régime de prévoyance](avenant-2020-09-09-251114/index.md)
+- [Avenant du 10 février 2021 relatif aux salaires minima](avenant-2021-02-10-065960/index.md)
+- [Avenant du 13 octobre 2021 à l'accord du 11 juin 2021 relatif à la mise en œuvre de la réforme professionnelle sur la reconversion ou promotion par al](avenant-2021-10-13-240981/index.md)
+- [Avenant du 25 octobre 2021 relatif aux salaires minima au 1er décembre 2021](avenant-2021-10-25-241002/index.md)
+- [Avenant du 31 janvier 2022 relatif aux salaires minima](avenant-2022-01-31-241012/index.md)
+- [Avenant du 14 septembre 2022 à l'accord du 11 juin 2021 relatif à la mise en œuvre de la réforme professionnelle sur la reconversion ou promotion par ](avenant-2022-09-14-557331/index.md)
+- [Avenant n° 3 du 27 juin 2023 relatif au régime de remboursement complémentaire frais de santé](avenant-2023-06-27-787185/index.md)
+- [Avenant du 15 février 2024 relatif aux salaires minima](avenant-2024-02-15-605869/index.md)
+- [Avenant du 11 mars 2024 à l'accord du 9 décembre 2009 relatif aux classifications des salariés](avenant-2024-03-11-664881/index.md)
+- [Avenant n° 8 du 12 novembre 2024 à l'accord du 5 décembre 2002 relatif au régime de prévoyance des salariés non-cadres et cadres](avenant-2024-11-12-843537/index.md)
+- [Convention collective nationale des professions de la photographie du 13 février 2013](convention-collectiv-2013-02-13-751199/index.md)

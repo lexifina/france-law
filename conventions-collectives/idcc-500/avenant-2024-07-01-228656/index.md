@@ -1,0 +1,11 @@
+# Avenant du 1er juillet 2024 relatif à la prévoyance
+
+- Nature : Avenant
+- Date du texte : 2024-07-01
+- NOR : ASET2450708M
+- État : VIGUEUR_ETEN
+- Champ géographique : A NATIONAL
+- Identifiant KALI : KALITEXT000050228656
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000050228656
+
+5 articles en vigueur dans ce dossier au 2026-11-01.

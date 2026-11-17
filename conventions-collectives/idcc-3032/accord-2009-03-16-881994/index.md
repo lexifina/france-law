@@ -1,0 +1,11 @@
+# Accord du 16 mars 2009 relatif à la prévoyance
+
+- Nature : Accord
+- Date du texte : 2009-03-16
+- NOR : ASET0951174M
+- État : VIGUEUR_ETEN
+- Champ géographique : A NATIONAL
+- Identifiant KALI : KALITEXT000021881994
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000021881994
+
+23 articles en vigueur dans ce dossier au 2026-11-01.

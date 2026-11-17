@@ -1,0 +1,11 @@
+# Avenant du 19 juin 2024 à l'accord du 24 juillet 2003 relatif à la prévoyance
+
+- Nature : Avenant
+- Date du texte : 2024-06-19
+- NOR : ASET2450706M
+- État : VIGUEUR_ETEN
+- Champ géographique : A NATIONAL
+- Identifiant KALI : KALITEXT000050228869
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000050228869
+
+5 articles en vigueur dans ce dossier au 2026-11-01.

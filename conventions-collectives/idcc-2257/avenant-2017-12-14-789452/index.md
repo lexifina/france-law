@@ -1,0 +1,12 @@
+# Avenant n° 20 du 14 décembre 2017 relatif aux rémunérations minimales mensuelles au 1er janvier 2018
+
+- Nature : Avenant
+- Numéro : 20
+- Date du texte : 2017-12-14
+- NOR : ASET1850096M
+- État : VIGUEUR_ETEN
+- Champ géographique : A NATIONAL
+- Identifiant KALI : KALITEXT000036789452
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000036789452
+
+5 articles en vigueur dans ce dossier au 2026-11-01.

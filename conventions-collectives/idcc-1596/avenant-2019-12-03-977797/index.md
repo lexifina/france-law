@@ -1,0 +1,12 @@
+# Île-de-France hors Seine-et-Marne Avenant n° 3 du 3 décembre 2019 relatif aux indemnités de petits déplacements au 1er janvier 2020
+
+- Nature : Avenant
+- Numéro : 3
+- Date du texte : 2019-12-03
+- NOR : ASET2050243M
+- État : VIGUEUR_ETEN
+- Champ géographique : Ile-de-France (hors Seine-et-Marne)
+- Identifiant KALI : KALITEXT000041977797
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000041977797
+
+5 articles en vigueur dans ce dossier au 2026-11-01.

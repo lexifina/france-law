@@ -1,0 +1,12 @@
+# Avenant n° 48 du 5 juillet 2023 relatif à l'embauche et à la période d'essai
+
+- Nature : Avenant
+- Numéro : 48
+- Date du texte : 2023-07-05
+- NOR : ASET2350845M
+- État : VIGUEUR_ETEN
+- Champ géographique : A NATIONAL
+- Identifiant KALI : KALITEXT000048214001
+- Sur Légifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000048214001
+
+3 articles en vigueur dans ce dossier au 2026-11-01.
