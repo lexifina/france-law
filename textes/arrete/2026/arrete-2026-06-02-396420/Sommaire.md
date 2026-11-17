@@ -1,8 +1,6 @@
-# Article LEGIARTI000054396457
+# Article Sommaire
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
-
-BREVET NATIONAL DES MÉTIERS D'ART « ÉBÉNISTERIE »
+BREVET NATIONAL DES MÉTIERS D'ART "ÉBÉNISTERIE"
 
 Sommaire
 
