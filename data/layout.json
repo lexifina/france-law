@@ -1,0 +1,66 @@
+{
+ "repository": "lexifina/france-law",
+ "updated": "2026-11-17",
+ "note": "Published paths never move: global-law mounts this repo at france/national/acts and its case-law overlays key on these paths. New sources land in new top-level folders.",
+ "folders": [
+  {
+   "path": "constitution/",
+   "holds": "Constitution of 1958 (and the 1946/1848 articles LEGI keeps in force), every article version",
+   "source": "DILA LEGI",
+   "status": "live"
+  },
+  {
+   "path": "codes/<code>/",
+   "holds": "the 77 codes consolidated by LEGI, one file per article, every version",
+   "source": "DILA LEGI",
+   "status": "live"
+  },
+  {
+   "path": "textes/<nature>/<year>/<text>/",
+   "holds": "every other consolidated text (lois, ordonnances, décrets, arrêtés…)",
+   "source": "DILA LEGI",
+   "status": "live"
+  },
+  {
+   "path": "journal-officiel/<year>/<month>/",
+   "holds": "texts as published in the Journal officiel (Lois et Décrets), unconsolidated; nominative measures as metadata only",
+   "source": "DILA JORF",
+   "status": "planned"
+  },
+  {
+   "path": "conventions-collectives/<IDCC>/",
+   "holds": "national collective agreements, every article version",
+   "source": "DILA KALI",
+   "status": "planned"
+  },
+  {
+   "path": "parlement/assemblee-nationale/, parlement/senat/, parlement/dossiers-legislatifs/",
+   "holds": "legislative files, texts adopted, amendments, votes",
+   "source": "data.assemblee-nationale.fr, data.senat.fr, DILA DOLE",
+   "status": "planned"
+  },
+  {
+   "path": "autorites/cnil/",
+   "holds": "CNIL délibérations",
+   "source": "DILA CNIL",
+   "status": "planned"
+  },
+  {
+   "path": "jurisprudence/",
+   "holds": "index of the case-law repositories (decisions are kept in lexifina/france-<court>-caselaw)",
+   "source": "DILA CASS, INCA, CAPP, JADE, CONSTIT",
+   "status": "live (separate repositories)"
+  },
+  {
+   "path": "collectivites/{regions,departements,communes,epci,outre-mer}/<code INSEE or SIREN>/",
+   "holds": "acts of local authorities that publish them as open data",
+   "source": "INSEE COG 2026, data.gouv.fr (SCDL délibérations), official local publishers",
+   "status": "planned"
+  },
+  {
+   "path": "data/, tools/, visualisations/, vulnerabilities/",
+   "holds": "metadata, tools, charts",
+   "status": "live"
+  }
+ ]
+}

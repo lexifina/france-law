@@ -11,7 +11,7 @@ Le droit français sous forme d’historique git : un fichier par article, un c
 
 Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un historique git unique pour le droit de chaque pays : ce dépôt contient le droit national français, que global-law lit dans `france/national/acts/`.
 
-**Ce qu’il contient aujourd’hui :** tous les textes que consolide LEGI, la base de données sur laquelle repose Légifrance, tels qu’au 2026-10-28. En vigueur ce jour-là : la Constitution de 1958 (avec les articles des Constitutions de 1946 et de 1848 que LEGI garde en vigueur), 77 codes et 118 773 autres textes (69 738 arrêtés, 44 755 décrets, 2 815 lois, 1 320 ordonnances et 145 autres), soit 692 977 articles ; dans l’historique, 1 556 213 versions d’articles de 153 011 textes, en 187 161 commits. Le dossier de chaque texte contient un `index.md` avec son titre, ses numéros, ses dates et son lien Légifrance.
+**Ce qu’il contient aujourd’hui :** tous les textes que consolide LEGI, la base de données sur laquelle repose Légifrance, tels qu’au 2026-11-17. En vigueur ce jour-là : la Constitution de 1958, 77 codes et 119 160 autres textes (70 050 arrêtés, 44 823 décrets, 2 819 lois, 1 321 ordonnances et 147 autres), soit 696 440 articles ; dans l’historique, 1 570 956 versions d’articles de 154 906 textes. La jurisprudence est dans six dépôts séparés, listés dans [`jurisprudence/`](jurisprudence/README.md) ; le plan des dossiers est dans [`data/layout.json`](data/layout.json).
 
 La Constitution se trouve dans `constitution/constitution-1958/`, chaque code dans `codes/<code>/` (`codes/code-du-travail/` est le Code du travail) et tout autre texte dans `textes/<nature>/<année>/<nature>-<numéro>/` (`textes/loi/1978/loi-78-17/` est la loi Informatique et Libertés du 6 janvier 1978). Chaque article est un fichier nommé d’après son numéro : l’article L. 3141-1 est `L3141-1.md`. Avec environ 810 000 fichiers, un clone nu (`git clone --bare`) s’obtient plus vite, et les commandes git ci-dessous y fonctionnent.
 
@@ -68,7 +68,7 @@ Chaque modification est attribuée au texte qui l’a faite, tel que le nomment 
 - **Les textes que LEGI ne consolide pas, et les versions antérieures à celles de LEGI.** LEGI enregistre chaque texte à partir de la version dans laquelle il l’a consolidé pour la première fois ; son historique des codes les plus anciens est le plus complet à partir des années 1990.
 - **Les intitulés de divisions** (livres, titres, chapitres) et l’ordre des parties d’un code.
 - **Les mots qu’un texte modificateur a changés** au sein d’un article : il est crédité de toute la nouvelle version.
-- **Les modifications postérieures au 2026-10-28** : les mises à jour quotidiennes de LEGI ont été lues jusqu’à ce jour.
+- **Les modifications postérieures au 2026-11-17** : les mises à jour quotidiennes de LEGI ont été lues jusqu’à ce jour.
 - **La jurisprudence.** Elle se trouve dans six dépôts distincts, que global-law lit à côté de celui-ci ([france/](https://github.com/lexifina/global-law/tree/main/france)).
 
 ## Sources
