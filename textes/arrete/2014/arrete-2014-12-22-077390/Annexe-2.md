@@ -3582,7 +3582,7 @@ NB 5 : Le coût de l'opération s'entend, selon la nature de l'opération, comme
 
 Annexe 2 à la fiche d'opération standardisée BAR-TH-171 définissant le modèle de tableau récapitulatif des opérations d'économies d'énergie
 
-Personnes physiques
+PERSONNES PHYSIQUES
 
 RAISON
 
@@ -3590,39 +3590,25 @@ sociale du demandeur |
 
 SIREN
 
-du
-
-demandeur |
+du demandeur |
 
 RÉFÉRENCE EMMY
 
 de la demande |
 
-RÉFÉRENCE interne
-
-de l'opération |
+RÉFÉRENCE interne de l'opération |
 
 NOM
 
-du
-
-bénéficiaire
-
-de l'opération |
+du bénéficiaire de l'opération |
 
 PRÉNOM
 
 du bénéficiaire de l'opération |
 
-ADRESSE
+ADRESSE de l'opération |
 
-de l'opération |
-
-CODE
-
-postal
-
-sans Cedex |
+CODE postal sans Cedex |
 
 VILLE |
 
@@ -3676,9 +3662,7 @@ de la facture |
 
 NATURE
 
-de la
-
-bonification |
+de la bonification |
 
 |
 
@@ -3696,9 +3680,7 @@ Suite du tableau
 
 SIREN du professionnel |
 
-RAISON sociale
-
-du professionnel |
+RAISON sociale du professionnel |
 
 SIREN
 
@@ -3722,13 +3704,9 @@ NATURE du rôle actif et incitatif |
 
 Suite du tableau
 
-SIREN de l'organisme
+SIREN de l'organisme de contrôle |
 
-de contrôle |
-
-RAISON sociale
-
-de l'organisme de contrôle |
+RAISON sociale de l'organisme de contrôle |
 
 SIRET de l'entreprise ayant réalisé l'opération |
 
@@ -3752,23 +3730,11 @@ Montant du rôle actif et incitatif (€) |
 
 Commentaires |
 
-Raison sociale
+Raison sociale du mandataire assurant le rôle actif et incitatif |
 
-du mandataire assurant
+Numéro SIREN du mandataire assurant le rôle actif et incitatif |
 
-le rôle actif et incitatif |
-
-Numéro SIREN
-
-du mandataire assurant
-
-le rôle actif et incitatif |
-
-Dans le cas d'une
-
-bonification Coup de pouce Chauffage, numéro d'agrément
-
-de la pompe à chaleur |
+Dans le cas d'une bonification Coup de pouce Chauffage, numéro d'agrément de la pompe à chaleur |
 
 Coût de l'opération (€ HT) |
 
@@ -3786,15 +3752,11 @@ Coût de l'opération (€ HT) |
 
 Suite et fin du tableau
 
-Coût
-
-de l'opération
-
-(€ TTC) |
+Coût de l'opération (€ TTC) |
 
 Montant des aides financières hors CEE (€) |
 
-|
+Pour les opérations avec offres intégrées, numéro unique de l'opération |
 
 |
 
@@ -3814,7 +3776,7 @@ Montant des aides financières hors CEE (€) |
 
 |
 
-Personnes morales
+PERSONNES MORALES
 
 RAISON
 
@@ -3840,9 +3802,7 @@ de l'opération |
 
 NOM
 
-du site bénéficiaire
-
-de l'opération |
+du site bénéficiaire de l'opération |
 
 ADRESSE
 
@@ -3876,9 +3836,7 @@ RAISON
 
 sociale
 
-du bénéficiaire
-
-de l'opération |
+du bénéficiaire de l'opération |
 
 SIREN |
 
@@ -3892,17 +3850,13 @@ VILLE |
 
 VOLUME CEE
 
-"hors précarité
-
-énergétique"
+"hors précarité énergétique"
 
 (kWh cumac) |
 
 VOLUME CEE
 
-"précarité
-
-énergétique"
+"précarité énergétique"
 
 (kWh cumac) |
 
@@ -3942,15 +3896,11 @@ de l'opération |
 
 NATURE
 
-de la
-
-bonification |
+de la bonification |
 
 SIREN
 
-du
-
-professionnel |
+du professionnel |
 
 RAISON sociale
 
@@ -3960,9 +3910,7 @@ SIREN
 
 du sous-traitant |
 
-RAISON sociale
-
-du sous-traitant |
+RAISON sociale du sous-traitant |
 
 |
 
@@ -3982,39 +3930,17 @@ du sous-traitant |
 
 Suite du tableau
 
-NATURE du rôle actif
+NATURE du rôle actif et incitatif |
 
-et incitatif |
+SIREN de l'organisme de contrôle |
 
-SIREN
+RAISON sociale de l'organisme de contrôle |
 
-de l'organisme
+SIRET de l'entreprise ayant réalisé l'opération |
 
-de contrôle |
+Numéro de téléphone du bénéficiaire |
 
-RAISON sociale
-
-de l'organisme
-
-de contrôle |
-
-SIRET
-
-de l'entreprise
-
-ayant réalisé
-
-l'opération |
-
-Numéro
-
-de téléphone
-
-du bénéficiaire |
-
-Adresse de courriel
-
-du bénéficiaire |
+Adresse de courriel du bénéficiaire |
 
 |
 
@@ -4030,19 +3956,13 @@ du bénéficiaire |
 
 Suite du tableau
 
-Montant du rôle actif
-
-et incitatif (€) |
+Montant du rôle actif et incitatif (€) |
 
 Commentaires |
 
 Le cas échéant, numéro d'immatriculation du syndicat de copropriétaires bénéficiaire de l'opération |
 
-Raison sociale
-
-du mandataire assurant
-
-le rôle actif et incitatif |
+Raison sociale du mandataire assurant le rôle actif et incitatif |
 
 Numéro SIREN du mandataire assurant le rôle actif et incitatif |
 
@@ -4058,19 +3978,13 @@ Numéro SIREN du mandataire assurant le rôle actif et incitatif |
 
 Suite et fin du tableau
 
-Dans le cas d'une
-
-bonification Coup de pouce Chauffage, numéro d'agrément de la pompe à chaleur |
+Dans le cas d'une bonification Coup de pouce Chauffage, numéro d'agrément de la pompe à chaleur |
 
 Coût de l'opération (€ HT) |
 
 Coût de l'opération (€ TTC) |
 
-Montant des aides
-
-financières
-
-hors CEE (€) |
+Montant des aides financières hors CEE (€) |
 
 |
 
@@ -4955,3 +4869,7 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0179 du 04/08/2022, texte n° 35, accessible à l’adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=5gAfOAZyNgIh7Fm-Ar17lvaib6Ml9xQU-us85fgyoEk=
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 6 novembre 2026 (NOR : ECOR2624880A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 17 novembre 2026 et s'appliquent aux opérations engagées à compter de cette date.

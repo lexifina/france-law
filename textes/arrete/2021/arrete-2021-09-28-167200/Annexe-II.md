@@ -186,7 +186,7 @@ A compter du 01/01/2027 |
 
 Par contact |
 
-BAR-TH-171, BAR-TH-172 |
+BAR-TH-171 (pour les opérations ne relevant pas des offres intégrées mentionnées au IV bis de l'article 3-6 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie), BAR-TH-172 |
 
 7,5 % |
 
@@ -245,6 +245,26 @@ Sur le lieu des opérations |
 Entre le 01/01/2027 et le 31/12/2027 |
 
 100% |
+
+Sur le lieu des opérations |
+
+A compter du 01/01/2028 |
+
+BAR-TH-171 (pour les opérations relevant des offres intégrées mentionnées au IV bis de l'article 3-6 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie) |
+
+50 % |
+
+Sur le lieu des opérations |
+
+A compter de 2026 |
+
+70 % |
+
+Sur le lieu des opérations |
+
+A compter du 01/01/2027 |
+
+100 % |
 
 Sur le lieu des opérations |
 
@@ -1144,4 +1164,4 @@ A compter de 2026 |
 
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 1er septembre 2026 (NOR : ECOR2620296A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, s'appliquent aux opérations engagées à compter du lendemain de la publication dudit arrêté
+Conformément à l'article 4 de l'arrêté du 6 novembre 2026 (NOR : ECOR2624880A ), ces dispositions, dans leur rédaction résultant de l'article 3 de l'arrêté précité, modifié par l'article 1 de l'arrêté du 13 novembre 2026 (NOR : ECOR2630220A), entrent en vigueur le 17 novembre 2026 et s'appliquent aux opérations engagées à compter de cette date.

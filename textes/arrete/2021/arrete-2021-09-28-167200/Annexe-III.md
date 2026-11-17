@@ -140,29 +140,31 @@ B. 2. Doivent être vérifiés lors des contrôles par contact :
 
 Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
 
-C.-Fiches d'opérations standardisées BAR-TH-171 Pompe à chaleur de type air/ eau et BAR-TH-172 Pompe à chaleur de type eau/ eau ou eau glycolée/ eau
+C. Fiches d'opérations standardisées BAR-TH-171 "Pompe à chaleur de type air/eau" et BAR-TH-172 "Pompe à chaleur de type eau/eau ou eau glycolée/eau"
 
-Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en non satisfaisant .
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en "non satisfaisant".
 
-C. I. A.-Critères directement liés à la fiche d'opération standardisée :
+Les critères des parties C.I.A et C.I.B ci-dessous, vérifiés sur le lieu de l'opération, doivent conduire à un classement "non satisfaisant" de l'opération.
 
-1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération, le cadre contribution défini à l'annexe 8 de l'arrêté du 4 septembre 2014 fixant la liste des éléments d'une demande de certificats d'économies d'énergie, les documents à archiver par le demandeur ;
+C.I.A Critères directement liés à la fiche d'opération standardisée :
 
-2. La PAC est associée à un autre système de chauffage ;
+1) Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération, le cadre contribution défini à l'annexe 8 de l'arrêté du 4 septembre 2014 fixant la liste des éléments d'une demande de certificats d'économies d'énergie, les documents à archiver par le demandeur et, dans le cas où l'opération concerne une offre intégrée au titre de l'appel à candidatures "Offres intégrées pompes à chaleur" de l'ADEME, le récapitulatif de l'offre intégrée signé par le bénéficiaire et par le mandataire de l'offre intégrée ;
 
-3. La PAC n'assure pas le chauffage des surfaces chauffées.
+2) La PAC est associée à un autre système de chauffage ;
 
-Nota.-Les surfaces chauffées sont les surfaces habitables, au sens de l'article R. 156-1 du code de la construction et de l'habitation, chauffées par la PAC installée et correspondent aux surfaces des pièces disposant d'un émetteur de chaleur alimenté par la PAC installée ;
+3) La PAC n'assure pas le chauffage des surfaces chauffées ;
 
-4. La preuve de réalisation de l'opération ne comporte pas les mentions exigées par la fiche ou n'est pas accompagnée du document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation ;
+Nota. - les surfaces chauffées sont les surfaces habitables, au sens de l'article R. 156-1 du code de la construction et de l'habitation, chauffées par la PAC installée et correspondent aux surfaces des pièces disposant d'un émetteur de chaleur alimenté par la PAC installée.
 
-5. La PAC ne correspond pas aux mentions indiquées sur la preuve de la réalisation de l'opération ou, à défaut, aux mentions indiquées sur le document issu du fabricant ou de l'organisme pertinent (marque, référence, usage de la PAC, type d'application de la PAC, efficacité énergétique saisonnière (Etas) de la PAC selon le règlement (UE) 813/2013 de la Commission du 2 août 2013 (pour des conditions climatiques moyennes définies par le règlement susmentionné), installation d'un régulateur ainsi que la classe de celui-ci (définie au paragraphe 6.1 de la communication de la Commission 2014/C 207/02).
+4) La preuve de réalisation de l'opération ne comporte pas les mentions exigées par la fiche ou n'est pas accompagnée du document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation ;
 
-Nota. - Il est précisé que le rapport est accompagné d'une photo de la plaque signalétique de la PAC et, le cas échéant, de la plaque signalétique du système déporté à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci ;
+5) La PAC ne correspond pas aux mentions indiquées sur la preuve de la réalisation de l'opération ou, à défaut, aux mentions indiquées sur le document issu du fabricant ou de l'organisme pertinent (marque, référence, usage de la PAC, type d'application de la PAC, efficacité énergétique saisonnière (Etas) de la PAC selon le règlement (UE) 813/2013 de la Commission du 2 août 2013 (pour des conditions climatiques moyennes définies par le règlement susmentionné), installation d'un régulateur ainsi que la classe de celui-ci [définie au paragraphe 6.1 de la communication de la Commission 2014/ C 207/02]) ;
 
-6. L'efficacité énergétique saisonnière (Etas) de la PAC selon le règlement (UE) 813/2013 de la Commission du 2 août 2013 (pour des conditions climatiques moyennes définies par le règlement susmentionné) est inférieure à l'efficacité énergétique saisonnière minimale exigée par la fiche d'opération standardisée ;
+NB : Il est précisé que le rapport est accompagné d'une photo de la plaque signalétique de la PAC et, le cas échéant, de la plaque signalétique du système déporté à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci ;
 
-7. Dans le cas d'un système déporté à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci :
+6) L'efficacité énergétique saisonnière (Etas) de la PAC selon le règlement (UE) 813/2013 de la Commission du 2 août 2013 (pour des conditions climatiques moyennes définies par le règlement susmentionné) est inférieure à l'efficacité énergétique saisonnière minimale exigée par la fiche d'opération standardisée ;
+
+7) Dans le cas d'un système déporté à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci :
 
 a) La mise en place du système déporté n'a pas été mentionnée sur la preuve de réalisation de l'opération ;
 
@@ -172,67 +174,75 @@ c) Le système déporté consomme de l'énergie pour la production de l'eau chau
 
 d) La régulation ne priorise pas la pompe à chaleur pour la production de l'eau chaude sanitaire ;
 
-8. Pour les PAC assurant uniquement le chauffage :
+8) Pour les PAC assurant uniquement le chauffage :
 
 a) Pour les émetteurs de type : plancher chauffant, plafond chauffant et mur chauffant et les émetteurs localisés du type ventilo-convecteurs à eau, la pompe à chaleur installée, l'efficacité énergétique saisonnière (Etas) à 35 °C, selon le règlement (UE) 813/2013 de la Commission du 2 août 2013 (pour des conditions climatiques moyennes définies par le règlement susmentionné), de la PAC installée n'a pas été considérée ;
 
-b) Pour tous les autres types d'émetteurs, y compris les solutions mixtes (ex. : radiateurs et plancher chauffant) ainsi que les radiateurs dits basse température à régime d'eau 45 °C, l'efficacité énergétique saisonnière (Etas) à 55 °C, selon le règlement (UE) 813/2013 de la Commission du 2 août 2013 (pour des conditions climatiques moyennes définies par le règlement susmentionné), de la PAC installée, n'a pas été considérée ;
+b) Pour tous les autres types d'émetteurs, y compris les solutions mixtes (ex. : radiateurs et plancher chauffant) ainsi que les radiateurs dits "basse température" à régime d'eau 45 °C, l'efficacité énergétique saisonnière (Etas) à 55 °C, selon le règlement (UE) 813/2013 de la Commission du 2 août 2013 (pour des conditions climatiques moyennes définies par le règlement susmentionné), de la PAC installée, n'a pas été considérée ;
 
-9. Pour les PAC assurant le chauffage et la production d'eau chaude sanitaire et pour les associations de système déporté à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, l'efficacité énergétique saisonnière (Etas) à 55 °C, selon le règlement (UE) 813/2013 de la Commission du 2 août 2013 (pour des conditions climatiques moyennes définies par le règlement susmentionné), de la PAC installée, n'a pas été considérée ;
+9) Pour les PAC assurant le chauffage et la production d'eau chaude sanitaire et pour les associations de système déporté à la PAC installée, permettant la production de l'eau chaude sanitaire par celle-ci, l'efficacité énergétique saisonnière (Etas) à 55 °C, selon le règlement (UE) 813/2013 de la Commission du 2 août 2013 (pour des conditions climatiques moyennes définies par le règlement susmentionné), de la PAC installée, n'a pas été considérée ;
 
-10. S'agissant des opérations relevant de la fiche BAR-TH-172 Pompe à chaleur de type eau/eau ou eau glycolée/eau :
+10) S'agissant des opérations relevant de la fiche BAR-TH-172 "Pompe à chaleur de type eau/eau ou eau glycolée/eau" :
 
-a) Pour un captage d'énergie sur eau souterraine (PAC eau/eau), l'Etas correspondant à une température de source de + 10 °C/+ 7 °C n'a pas été considéré ;
+a) Pour un captage d'énergie sur eau souterraine (PAC eau/eau), l'Etas correspondant à une température de source de +10 °C/+ 7 °C n'a pas été considéré ;
 
-b) Pour les autres types de captage d'énergie (PAC eau glycolée/eau), l'Etas correspondant à une température de source de 0 °C/- 3 °C n'a pas été considéré ;
+b) Pour les autres types de captage d'énergie (PAC eau glycolée/eau), l'Etas correspondant à une température de source de 0 °C/-3 °C n'a pas été considéré ;
 
-11. La PAC n'est pas équipée d'un régulateur relevant de l'une des classes IV, V, VI, VII ou VIII telles que définies au paragraphe 6.1 de la communication de la Commission 2014/C 207/02 ;
+11) La PAC n'est pas équipée d'un régulateur relevant de l'une des classes IV, V, VI, VII ou VIII telles que définies au paragraphe 6.1 de la communication de la Commission 2014/ C 207/02 ;
 
-12. Dans le cadre du Coup de pouce Chauffage , la dépose de l'équipement existant n'est pas mentionnée sur la preuve de réalisation de l'opération en indiquant l'énergie de chauffage (charbon, fioul ou gaz) et le type d'équipement déposé.
+12) Dans le cadre du Coup de pouce "Chauffage", la dépose de l'équipement existant n'est pas mentionnée sur la preuve de réalisation de l'opération en indiquant l'énergie de chauffage (charbon, fioul ou gaz) et le type d'équipement déposé ;
 
-12.bis) Dans le cadre du Coup de pouce Chauffage, le modèle de pompe à chaleur installée ne détient pas, à la date d'engagement de l'opération, l'agrément prévu par le décret du n° 2026-413 du 29 mai 2026 fixant les conditions d'agrément des modèles de pompes à chaleur en matière de qualité et de résilience industrielle.
+12 bis) Dans le cadre du Coup de pouce Chauffage, le modèle de pompe à chaleur installée ne détient pas, à la date d'engagement de l'opération, l'agrément prévu par le décret du n° 2026-413 du 29 mai 2026 fixant les conditions d'agrément des modèles de pompes à chaleur en matière de qualité et de résilience industrielle ;
 
-L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : type de logement (pour les opérations relevant de la fiche d'opération standardisée BAR-TH-171), efficacité énergétique saisonnière, zone climatique, surface chauffée ; lorsque la surface chauffée mesurée par le bureau de contrôle est inférieure à 90 m2 pour une maison ou à 60 m2 pour un appartement, un écart de surface chauffée conduit à un classement non satisfaisant si l'écart entre la surface déclarée et la surface mesurée est supérieur à 10 % (écart = (surface déclarée - surface mesurée)/surface mesurée*100).
+12 ter) Dans le cas où l'opération concerne une offre intégrée au titre de l'appel à candidatures "Offres intégrées pompes à chaleur" de l'ADEME, l'offre intégrée ne fait pas partie des offres mentionnées sur le site internet du ministère ou ne respecte pas les exigences de contenu des offres mentionnées au IV bis de l'article 3-6 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie.
+
+L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : type de logement (pour les opérations relevant de la fiche d'opération standardisée BAR-TH-171), efficacité énergétique saisonnière, zone climatique, surface chauffée ; lorsque la surface chauffée mesurée par le bureau de contrôle est inférieure à 90m2 pour une maison ou à 60m2 pour un appartement, un écart de surface chauffée conduit à un classement "non satisfaisant" si l'écart entre la surface déclarée et la surface mesurée est supérieur à 10 % (écart = (surface déclarée - surface mesurée)/surface mesurée*100) ;
 
 Nota. - La surface chauffée est la surface habitable, au sens de l'article R. 156-1 du code de la construction et de l'habitation, chauffée par la PAC installée et correspond aux surfaces des pièces disposant d'un émetteur de chaleur alimenté par la PAC installée.
 
-C.I.B. - Autres critères :
+C.I.B Autres critères :
 
 S'agissant d'aspects généraux :
 
-13. Il est constaté l'absence d'une note de dimensionnement du générateur par rapport aux déperditions calculées à T = Tbase remise au bénéficiaire, et le bénéficiaire atteste par écrit ne pas avoir reçu cette note ; les déperditions concernent les pièces du logement desservies par le réseau de chauffage, sans considération des éventuels autres générateurs présents ;
+13) Il est constaté l'absence d'une note de dimensionnement du générateur par rapport aux déperditions calculées à T = Tbase remise au bénéficiaire, et le bénéficiaire atteste par écrit ne pas avoir reçu cette note ; les déperditions concernent les pièces du logement desservies par le réseau de chauffage, sans considération des éventuels autres générateurs présents ;
 
-14. La PAC est manifestement sous-dimensionnée au vu du critère suivant : la puissance de la PAC sans l'appoint couvre moins de 60 % des déperditions à T = Tbase (si T arrêt PAC < Tbase), ou T = T arrêt PAC ;
+13 bis) Dans le cas où l'opération concerne une offre intégrée au titre de l'appel à candidatures "Offres intégrées pompes à chaleur" de l'ADEME, il est constaté que le procès-verbal de mise au point de la PAC n'indique pas un réglage de la loi d'eau cohérent avec la note de dimensionnement et inférieur à 55 °C à T = Tbase pour l'alimentation de radiateurs et inférieur à 35 °C à T = Tbase pour l'alimentation de planchers chauffants ;
 
-15. La PAC air/eau est manifestement surdimensionnée au vu du critère suivant : la puissance de la PAC sans l'appoint couvre plus de 130 % des déperditions à T = Tbase (si T arrêt PAC < T base), ou T = T arrêt PAC, et au régime de température du réseau de distribution prévu ;
+14) La PAC est manifestement sous-dimensionnée au vu du critère suivant : la puissance de la PAC sans l'appoint couvre moins de 60 % des déperditions à T = Tbase (si T arrêt PAC < Tbase), ou T = T arrêt PAC ;
 
-16. La PAC eau/eau ou eau glycolée/eau est manifestement surdimensionnée au vu du critère suivant : la puissance de la PAC sans l'appoint couvre plus de 130 % des déperditions à T = Tbase ;
+15) La PAC air/eau est manifestement surdimensionnée au vu du critère suivant : la puissance de la PAC sans l'appoint couvre plus de 130 % des déperditions à T = Tbase (si T arrêt PAC < T base), ou T = T arrêt PAC, et au régime de température du réseau de distribution prévu ;
 
-17. Hors PAC eau/eau ou eau glycolée/eau, il est constaté un problème manifeste quant aux fixations et à l'accrochage de l'une des unités extérieure et intérieure composant la PAC ;
+16) La PAC eau/eau ou eau glycolée/eau est manifestement surdimensionnée au vu du critère suivant : la puissance de la PAC sans l'appoint couvre plus de 130 % des déperditions à T = Tbase ;
 
-18. Les émetteurs ne sont manifestement pas compatibles avec la PAC installée ;
+17) Hors PAC eau/eau ou eau glycolée/eau, il est constaté un problème manifeste quant aux fixations et à l'accrochage de l'une des unités extérieure et intérieure composant la PAC ;
 
-19. L'unité extérieure, ou l'échangeur eau/eau ou eau glycolée/eau dans le cas d'une PAC eau/eau ou eau glycolée/eau, n'est manifestement pas convenablement installée (obstacles, échange non libre).
+18) Les émetteurs ne sont manifestement pas compatibles avec la PAC installée ;
+
+18 bis) Dans le cas où l'opération concerne une offre intégrée au titre de l'appel à candidatures "Offres intégrées pompes à chaleur" de l'ADEME, pour les opérations engagées à compter du 1er janvier 2027, il est constaté l'absence d'une note de dimensionnement réalisée pour chaque émetteur de chaleur alimenté par la PAC, précisant la puissance de l'émetteur en fonction du régime d'eau ainsi que les déperditions calculées à T = Tbase de la pièce dans laquelle il est situé ;
+
+18 ter) Dans le cas où l'opération concerne une offre intégrée au titre de l'appel à candidatures "Offres intégrées pompes à chaleur" de l'ADEME, pour les opérations engagées à compter du 1er mars 2027, il est constaté qu'il n'y a pas de dispositif de pilotage installé ou que celui-ci ne propose ni le mode ON/OFF, ni la modification de la température de consigne ;
+
+19) L'unité extérieure, ou l'échangeur eau/eau ou eau glycolée/eau dans le cas d'une PAC eau/eau ou eau glycolée/eau, n'est manifestement pas convenablement installée (obstacles, échange non libre) ;
 
 S'agissant du réseau hydraulique :
 
-20. Les réseaux de distribution ne sont pas calorifugés en volumes non chauffés ;
+20) Les réseaux de distribution ne sont pas calorifugés en volumes non chauffés ;
 
-21. Il est constaté l'absence d'un dispositif de réglage permettant l'équilibrage du réseau hydraulique ;
+21) Il est constaté l'absence d'un dispositif de réglage permettant l'équilibrage du réseau hydraulique ;
 
-22. Dans le cas d'un ventilo-convecteur, si refroidissement, le raccordement de l'évacuation des condensats n'est pas réalisé.
+22) Dans le cas d'un ventilo-convecteur, si refroidissement, le raccordement de l'évacuation des condensats n'est pas réalisé.
 
 S'agissant du réseau frigorifique :
 
-23. Lorsque cela est nécessaire, le réseau frigorifique n'est pas entièrement calorifugé.
+23) Lorsque cela est nécessaire, le réseau frigorifique n'est pas entièrement calorifugé ;
 
 S'agissant des collecteurs (dans le cas d'une PAC eau/eau ou eau glycolée/eau) :
 
-24. Les collecteurs ne sont pas équipés de robinets de réglage sur chaque boucle ;
+24) Les collecteurs ne sont pas équipés de robinets de réglage sur chaque boucle ;
 
-25. Les collecteurs ne comportent pas autant de départs et de retours que le nombre de boucles composant le capteur.
+25) Les collecteurs ne comportent pas autant de départs et de retours que le nombre de boucles composant le capteur.
 
-C.II. - Doivent être vérifiés lors des contrôles par contact :
+C.II. Doivent être vérifiés lors des contrôles par contact :
 
 - l'existence d'une PAC installée ;
 
