@@ -1,8 +1,6 @@
 # Article 1649 quater-0 B ter
 
-1. Lorsque l'administration fiscale est informée, dans le cadre de la lutte contre les activités lucratives non déclarées portant atteinte à l'ordre public et à la sécurité publique et dans les conditions prévues aux articles L. 82 C,
-
-L. 101 ou L. 135 L du livre des procédures fiscales, qu'un contribuable dispose d'éléments mentionnés ci-après, elle peut, en cas de disproportion marquée entre son train de vie et ses revenus, porter la base d'imposition à l'impôt sur le revenu à une somme forfaitaire déterminée en appliquant à ce ou ces éléments de train de vie le barème ci-après, compte tenu, le cas échéant, de la majoration prévue au 2.
+1. Lorsque l'administration fiscale est informée, dans le cadre de la lutte contre les activités lucratives non déclarées portant atteinte à l'ordre public et à la sécurité publique et dans les conditions prévues aux articles L. 82 C, L. 101 ou L. 135 L du livre des procédures fiscales, qu'un contribuable dispose d'éléments mentionnés ci-après, elle peut, en cas de disproportion marquée entre son train de vie et ses revenus, porter la base d'imposition à l'impôt sur le revenu à une somme forfaitaire déterminée en appliquant à ce ou ces éléments de train de vie le barème ci-après, compte tenu, le cas échéant, de la majoration prévue au 2.
 
 ÉLÉMENTS DU TRAIN DE VIE
 
