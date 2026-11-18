@@ -1,6 +1,6 @@
 {
  "repository": "lexifina/france-law",
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "note": "Published paths never move: global-law mounts this repo at france/national/acts and its case-law overlays key on these paths. New sources land in new top-level folders.",
  "folders": [
   {
@@ -25,25 +25,43 @@
    "path": "journal-officiel/<year>/<month>/",
    "holds": "texts as published in the Journal officiel (Lois et Décrets), unconsolidated; nominative measures as metadata only",
    "source": "DILA JORF",
-   "status": "planned"
+   "status": "live"
   },
   {
    "path": "conventions-collectives/<IDCC>/",
    "holds": "national collective agreements, every article version",
    "source": "DILA KALI",
-   "status": "planned"
+   "status": "live"
   },
   {
    "path": "parlement/assemblee-nationale/, parlement/senat/, parlement/dossiers-legislatifs/",
-   "holds": "legislative files, texts adopted, amendments, votes",
-   "source": "data.assemblee-nationale.fr, data.senat.fr, DILA DOLE",
-   "status": "planned"
+   "holds": "Assemblée nationale (dossiers, documents, amendments, scrutins, questions and answers, comptes rendus, 14th-17th legislatures; archives of 1958-2002), Sénat (texts, dossiers since 1977, questions since 1978, amendments, scrutins, rapports, debates), Légifrance dossiers législatifs, JO Débats 2011-2017",
+   "source": "data.assemblee-nationale.fr, archives.assemblee-nationale.fr, data.senat.fr, DILA DOLE and Debats",
+   "status": "live"
   },
   {
    "path": "autorites/cnil/",
    "holds": "CNIL délibérations",
    "source": "DILA CNIL",
-   "status": "planned"
+   "status": "live"
+  },
+  {
+   "path": "circulaires/<year>/<month>/",
+   "holds": "ministerial circulars and instructions as put online, with their PDF text; abrogations and updates as further files",
+   "source": "DILA CIRCULAIRES",
+   "status": "live"
+  },
+  {
+   "path": "accords-entreprise/<SIREN[:3]>/<SIREN>/<year>/",
+   "holds": "company collective agreements as published; home addresses, birth data and social-security numbers not reproduced",
+   "source": "DILA ACCO",
+   "status": "loading"
+  },
+  {
+   "path": "historique/",
+   "holds": "earlier constitutions (1791-1946)",
+   "source": "Conseil constitutionnel",
+   "status": "live"
   },
   {
    "path": "jurisprudence/",
@@ -52,10 +70,10 @@
    "status": "live (separate repositories)"
   },
   {
-   "path": "collectivites/{regions,departements,communes,epci,outre-mer}/<code INSEE or SIREN>/",
-   "holds": "acts of local authorities that publish them as open data",
-   "source": "INSEE COG 2026, data.gouv.fr (SCDL délibérations), official local publishers",
-   "status": "planned"
+   "path": "collectivites/{regions,departements,communes,groupements}/<code INSEE or SIREN>/",
+   "holds": "acts of local authorities published as open data (délibérations, arrêtés, procès-verbaux); private persons metadata only",
+   "source": "INSEE COG 2026, BANATIC, data.gouv.fr (SCDL délibérations and other local-acts datasets of public bodies)",
+   "status": "live"
   },
   {
    "path": "data/, tools/, visualisations/, vulnerabilities/",

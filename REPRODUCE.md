@@ -85,6 +85,17 @@ Everything below is done by `tools/build.py`, deterministically.
 - First versions without a link are credited to their own text, except in codes, whose first versions come from many
   texts.
 - Section headings are not reproduced; files are flat in each text's folder.
+- Accords d'entreprise (DILA ACCO): taken on Lexifina's decision of 2026-11-18 ("take them; only remove names if we
+  have to"). Signatories' names are kept, since they sign as representatives of the company or of a union. Lines giving
+  a home address, a date or place of birth or a social-security number are replaced by a note, and an agreement about
+  one named employee (transaction, rupture conventionnelle) is kept as metadata only.
+- Assemblée nationale archives 1958-2002 (archives.assemblee-nationale.fr): taken on Lexifina's decision of
+  2026-11-18, under the terms of the Assemblée's legal notice (reproduction free of charge, without alteration, with the
+  source and a link to the original). The text is the PDF's own text layer, made by the Assemblée nationale's optical
+  character recognition, reproduced as is; every record links to its PDF.
+- Local authorities' acts (data.gouv.fr): only datasets of public bodies; an act whose object or text names a private
+  person, or that is an individual measure, is kept as metadata only; scanned PDFs without a text layer are metadata and
+  a link (no character recognition of local acts).
 
 ## What an AI model did
 
