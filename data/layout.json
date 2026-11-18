@@ -55,7 +55,7 @@
    "path": "accords-entreprise/<SIREN[:3]>/<SIREN>/<year>/",
    "holds": "company collective agreements as published; home addresses, birth data and social-security numbers not reproduced",
    "source": "DILA ACCO",
-   "status": "loading"
+   "status": "live"
   },
   {
    "path": "historique/",
