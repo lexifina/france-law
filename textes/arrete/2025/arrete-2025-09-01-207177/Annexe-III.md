@@ -396,7 +396,7 @@ Connaître :
 
 OUI |
 
-Notions de secourisme « tactique » |
+Notions de secourisme " tactique" |
 
 Savoir agir face à des blessés suite à des plaies par balles ou blessures suite à des explosions.
 
@@ -668,17 +668,19 @@ Connaître :
 
 OUI |
 
-Effectuer une inspection visuelle des bagages et une palpation de sécurité |
+Effectuer une inspection visuelle des bagages, des véhicules et de leurs coffres ainsi qu'une palpation de sécurité |
 
 Connaître :
 
-- le cadre législatif des palpations de sécurité et de l'inspection des bagages lors de manifestations ou en cas de circonstances particulières ;
+- le cadre législatif des palpations de sécurité et de l'inspection visuelle des bagages, des véhicules et de leurs coffres lors de manifestations ou en cas de circonstances particulières ;
 
 - les modalités d'agréments des personnels du secteur privé ;
 
-- les sanctions en cas de non- respect du cadre légal ;
+- les sanctions en cas de non-respect du cadre légal ;
 
 - le domaine d'application des palpations de sécurité ;
+
+- le domaine d'application de l'inspection visuelle des véhicules et de leurs coffres ;
 
 - les éléments générateurs de situations conflictuelles lors de l'exécution des missions.
 
@@ -688,13 +690,13 @@ Savoir :
 
 - adopter un comportement adéquat lors de la découverte d'objet prohibé ;
 
-- maîtriser les techniques d'inspection visuelle et de palpation ;
+- maitriser les techniques d'inspection visuelle et de palpation ;
 
 - prendre en compte les mineurs et les personnes en situation de handicap ;
 
 - effectuer une palpation de sécurité au sein d'un point d'inspection filtrage ;
 
-- effectuer l'inspection visuelle des bagages lors de l'accès à un local, un bâtiment ou une enceinte. |
+- effectuer l'inspection visuelle des bagages, des véhicules et de leurs coffres lors de l'accès à un local, un bâtiment ou une enceinte. |
 
 7 heures dont 4 heures de mise en situation pratique |
 
@@ -715,3 +717,13 @@ Maîtriser :
 7 heures, dont 4 heures de mise en situation pratique |
 
 NON |
+
+Pour l'obtention d'une certification professionnelle mentionnée au 1° de l'article R. 612-24 du code de la sécurité intérieure ou d'un certificat de qualification professionnelle mentionné au 2° de cet article permettant de justifier de l'aptitude professionnelle se rapportant à l'activité de surveillance humaine et gardiennage prévue au 1° de l'article L. 611-1 du code susvisé, les personnes titulaires de la certification professionnelle ou du certificat de qualification professionnelle mentionné à l'article R. 613-7 du même code sont dispensées du suivi de l'ensemble des modules de formation prévus par l'annexe II, ainsi que des parties et objectifs pédagogiques suivants, prévus par la présente annexe III :
+
+- “prévention des risques terroristes” (13 heures) et “secourir” (2 heures et 30 minutes) ;
+
+- “gestion des risques et des situations conflictuelles” (9 heures) et “gestion des risques et des situations conflictuelles dégradées” (7 heures) ;
+
+- “préparer la mise en œuvre des missions de l'agent de prévention et de sécurité” (6 heures), “savoir contrôler les accès” (9 heures), “application de l'article 73 du code de procédure pénale dans le cadre des missions de l'agent de prévention et de sécurité” (7 heures) ;
+
+- “évènementiel” (14 heures).
