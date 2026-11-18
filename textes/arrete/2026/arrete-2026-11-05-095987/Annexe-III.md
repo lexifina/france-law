@@ -1,0 +1,37 @@
+# Article Annexe III
+
+ANNEXE III
+
+NOTICE BIOGRAPHIQUE
+
+IMPORTANT : La police de caractères utilisée pour rédiger le contenu de la notice biographique doit avoir une taille minimale de 12 points. L'organisation générale des rubriques doit être strictement respectée. L'ensemble de la notice biographique ne doit pas excéder 3 pages. La taille du fichier PDF correspondant est limitée à 1 mégaoctet.
+
+Nom : |
+
+Prénom : |
+
+Corps : |
+
+Grade : |
+
+Champ disciplinaire : |
+
+Discipline : |
+
+Etablissement d'affectation : |
+
+Unité de recherche : |
+
+Titres et diplômes français et étrangers : |
+
+Profession (autre qu'enseignement et recherche) : |
+
+Activités professionnelles dans l'enseignement supérieur en France et à l'étranger : |
+
+Activités et expériences professionnelles hors enseignement et recherche : |
+
+Informations complémentaires éventuelles (facultatif) : |
+
+Fait à le
+
+Signature
