@@ -1,6 +1,6 @@
 {
  "repository": "lexifina/france-law",
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "note": "Published paths never move: global-law mounts this repo at france/national/acts and its case-law overlays key on these paths. New sources land in new top-level folders.",
  "folders": [
   {
@@ -40,9 +40,9 @@
    "status": "live"
   },
   {
-   "path": "autorites/cnil/",
-   "holds": "CNIL délibérations",
-   "source": "DILA CNIL",
+   "path": "autorites/<authority>/",
+   "holds": "decisions, opinions and publications of independent authorities: CNIL, Autorité de la concurrence, CADA, CRE, HAS, ACPR, Défenseur des droits, ARCEP (in progress), Cour des comptes (reports, jurisprudence, CRTC publications; site crawl in progress)",
+   "source": "DILA CNIL; data.gouv.fr open data; the authorities' own sites",
    "status": "live"
   },
   {
@@ -55,6 +55,24 @@
    "path": "accords-entreprise/<SIREN[:3]>/<SIREN>/<year>/",
    "holds": "company collective agreements as published; home addresses, birth data and social-security numbers not reproduced",
    "source": "DILA ACCO",
+   "status": "live"
+  },
+  {
+   "path": "doctrine/bofip/",
+   "holds": "BOFiP-Impôts, the tax administration's doctrine",
+   "source": "data.gouv.fr (DGFiP)",
+   "status": "live"
+  },
+  {
+   "path": "bulletins-officiels/<bulletin>/",
+   "holds": "ministry bulletins officiels as published: conventions-collectives/ (BOCC, 2005-), ecologie/ (in progress); individual measures naming people metadata only",
+   "source": "DILA BOCC; bulletin-officiel.developpement-durable.gouv.fr",
+   "status": "live"
+  },
+  {
+   "path": "conseil-etat/<kind>/<year>/",
+   "holds": "Conseil d'État advisory opinions made public, studies and annual reports",
+   "source": "www.conseil-etat.fr",
    "status": "live"
   },
   {
