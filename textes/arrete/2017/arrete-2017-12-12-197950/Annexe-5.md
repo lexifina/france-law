@@ -50,11 +50,7 @@ b) Sur chaque côté du véhicule :
 
 " SAMU " ;
 
-" SMUR " et la mention du centre hospitalier de rattachement et/ou la ville d'implantation ;
-
-c) A l'arrière du véhicule :
-
-" SAMU " ;
+" SMUR " et la mention du centre hospitalier de rattachement et/ou la ville d'implantation.
 
 Le cas échéant, les mentions SMUR et/ou le centre hospitalier de rattachement et/ou la ville d'implantation.
 

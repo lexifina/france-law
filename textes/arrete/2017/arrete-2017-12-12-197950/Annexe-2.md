@@ -12,7 +12,11 @@ II. - Dispositions particulières :
 
 1. Type A (A1 et A2) :
 
-a) Ces véhicules sont réservés au transport d'au moins un patient en position allongée ou demi-assise.
+a) Ces véhicules sont réservés au transport :
+
+- pour les ambulances de type A1, d'un patient unique, en position allongée ou demi-assise ;
+
+- pour les ambulances de type A2, d'un ou plusieurs patients dont un patient allongé maximum.
 
 b) Ces véhicules peuvent participer à l'aide médicale urgente sur demande du service d'aide médicale urgente. Dans ce cas, les dispositifs prévus pour les véhicules de types B sont exigés.
 
@@ -64,7 +68,9 @@ Colliers cervicaux (taille réglable U.U) |
 
 1 Adulte
 
-1 pédiatrique |
+1 pédiatrique
+
+|
 
 Equipements de ventilation / respiration |
 
@@ -80,19 +86,25 @@ Insufflateurs manuels avec masques et canules à usage unique |
 
 1 adulte
 
-1 pédiatrique |
+1 pédiatrique
+
+|
 
 Lunettes à oxygène |
 
 1 adulte
 
-1 pédiatrique |
+1 pédiatrique
+
+|
 
 Masques haute concentration |
 
 1 adulte
 
-1 pédiatrique |
+1 pédiatrique
+
+|
 
 Dispositif portable d'aspiration des mucosités (sondes aspiration, sondes buccales et sondes pour aspiration endotrachéale) |
 
@@ -322,7 +334,9 @@ Colliers cervicaux U.U |
 
 2 Adultes
 
-1 pédiatrique |
+1 pédiatrique
+
+|
 
 2 adultes et 1 pédiatrique |
 
@@ -350,7 +364,9 @@ Station fixe d'oxygène, conditions normales de température et de pression, dé
 
 Optionnel, 2000L
 
-minimum |
+minimum
+
+|
 
 1x3000L minimum |
 
@@ -370,11 +386,15 @@ Insufflateurs manuels avec masques et canules à usage unique |
 
 2 Adultes
 
-1 pédiatrique |
+1 pédiatrique
+
+|
 
 2 Adultes
 
-1 pédiatrique |
+1 pédiatrique
+
+|
 
 Lunettes à oxygène (adulte et pédiatrique) |
 
@@ -848,25 +868,25 @@ Optionnel |
 
 Optionnel |
 
-3. Transport bariatrique
+3. Transport sanitaire bariatrique
 
-Lorsque ces véhicules effectuent un transport bariatrique, les dispositifs ci-dessous sont exigés, sans préjudice des conditions communes et particulières exigées des type B figurant au I et II de l'annexe 2 du présent arrêté :
+Lorsque ces véhicules effectuent un transport sanitaire bariatrique, les dispositifs ci-dessous sont exigés, sans préjudice des conditions communes et particulières exigées figurant au I et II de l'annexe 2 du présent arrêté :
 
 a) Drap de transfert XXL ;
 
-b) Un brancard élargi adapté au transport bariatrique, équipé de ceintures ou harnais pouvant être adaptés à la morphologie des patients ;
+b) Un brancard élargi adapté au transport sanitaire bariatrique, équipé de ceintures ou harnais pouvant être adaptés à la morphologie des patients ;
 
-c) Une chaise bariatrique adaptée au transport bariatrique, avec aide à la descente et équipée d'un harnais de sécurité pouvant être adapté à la morphologie des patients ;
+c) Une chaise bariatrique adaptée au transport sanitaire bariatrique, avec aide à la descente et équipée d'un harnais de sécurité pouvant être adapté à la morphologie des patients ;
 
 Les équipements motorisés type brancards ou chaises bariatriques doivent pouvoir supporter une charge maximale d'au moins 240 kg, afin de garantir la sécurité du patient.
 
-d) Un matelas adapté au transport bariatrique équipé d'un système de soulèvement (patient au sol pour amener à hauteur du brancard ou pour réaliser des transferts délicats de lit à brancard lorsque le poids du patient ne permet pas un transfert simple) ;
+d) Un matelas adapté au transport sanitaire bariatrique équipé d'un système de soulèvement (patient au sol pour amener à hauteur du brancard ou pour réaliser des transferts délicats de lit à brancard lorsque le poids du patient ne permet pas un transfert simple) ;
 
 e) Un moniteur multiparamétrique (monitorage de la fréquence cardiorespiratoire, de la pression artérielle avec brassard adaptable à la morphologie des patients, de la saturation en oxygène, ECG) ;
 
 f) Un matelas immobilisateur à dépression élargi et renforcé ;
 
-g) Un portoir souple adapté au transport bariatrique ;
+g) Un portoir souple adapté au transport sanitaire bariatrique ;
 
 h) Le cas échéant, une barquette de transport rigide et solide (patient alité) pour franchir des obstacles ;
 
