@@ -1,14 +1,14 @@
 # Article Annexe 2
 
-ANNEXE 2
-
 UNITÉS, ORGANISMES ET EMPLOIS OUVRANT DROIT À LA PRIME DE COMPÉTENCES SPÉCIFIQUES DES FORCES SOUS-MARINES
 
 I. - Au titre du I de l'annexe 2 à l'arrêté du 24 mai 2023 susvisé :
 
 1° Sous-marins cités dans l'arrêté fixant la liste des formations administratives relevant du chef d'état-major de la marine pris en application de l'article R. 3231-10 du code de la défense ;
 
-2° Sous-marins militaires étrangers désignés par le commandement à bord desquels le personnel est embarqué pour raison de service en vue d'y exercer ses fonctions.
+2° Sous-marins militaires étrangers désignés par le commandement à bord desquels le personnel est embarqué pour raison de service en vue d'y exercer ses fonctions ;
+
+3° Emplois au sein du groupe sous-marins de Cherbourg.
 
 II. - Au titre du 1° du II et du 1° et 2° du III de la même annexe, les postes désignés sur proposition de la direction ou du service gestionnaire concerné au sein des organismes suivants :
 

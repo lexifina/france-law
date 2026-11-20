@@ -1,7 +1,5 @@
 # Article Annexe 13
 
-ANNEXE 13
-
 UNITÉS, ORGANISMES ET EMPLOIS OUVRANT DROIT À LA PRIME DE COMPÉTENCES SPÉCIFIQUES D'ÉLECTRONICIEN DE SÉCURITE AÉRIENNE
 
 Postes exigeant la mise en œuvre de la compétence spécifique d'électronicien de sécurité aérienne désignés sur proposition du directeur ou du chef du service gestionnaire concerné dans les unités suivantes :
@@ -58,6 +56,18 @@ Postes exigeant la mise en œuvre de la compétence spécifique d'électronicien
 
 - état-major de l'armée de l'air et de l'espace ;
 
+- direction des ressources humaines de l'armée de l'air et de l'espace ;
+
+- commandement des forces aériennes stratégiques ;
+
+- état-major du commandement de la défense aérienne et des opérations aériennes (EMO AIR A6) ;
+
+- centre air de planification et de conduite des opérations de la défense aérienne ;
+
+- escadron de soutien des matériels d'environnement (BA 105) ;
+
+- 33e escadre de surveillance, de reconnaissance et d'attaque (ESRA) ;
+
 - escadrons de défense sol-air ;
 
 - escadre sol-air de défense aérienne (ESADA) ;
@@ -80,21 +90,23 @@ Postes exigeant la mise en œuvre de la compétence spécifique d'électronicien
 
 - groupement aérien des installations aéronautiques de Bordeaux ;
 
-- bureau maîtrise des risques du commandement territorial de l'armée de l'air et de l'espace de Bordeaux.
+- bureau maîtrise des risques du commandement territorial de l'armée de l'air et de l'espace de Bordeaux ;
 
 3° Unités du service d'infrastructure de la défense :
 
 Service d'infrastructure de la défense Sud-Ouest (SID SO) :
 
+- USID Bordeaux - antenne exploitation maintenance Mérignac/ Antenne soutien sites DIRISI Mérignac ;
+
 - Unité du service d'infrastructure de la défense (USID) Cazaux/ Antenne exploitation maintenance Cazaux ;
 
 - USID Mont-de-Marsan ;
 
-- USID Rochefort/ Antenne exploitation maintenance Cognac ;
+- USID Rochefort/ Antenne exploitation maintenance Cognac.
 
 SID Atlantique (ATL) :
 
-- USID Landivisiau/ Antenne exploitation maintenance Loperhet ;
+- USID Landivisiau/ Antenne exploitation maintenance Loperhet.
 
 SID Ile-de-France (IDF) :
 
@@ -104,7 +116,7 @@ SID Ile-de-France (IDF) :
 
 - USID Creil/ Antenne exploitation maintenance Taverny ;
 
-- USID Villacoublay/ Antenne exploitation maintenance Villacoublay ;
+- USID Villacoublay/ Antenne exploitation maintenance Villacoublay.
 
 SID Sud-Est (SE) :
 
@@ -118,9 +130,19 @@ SID Sud-Est (SE) :
 
 - USID Istres/ Antenne exploitation maintenance Salon de Provence ;
 
+- USID Istres/ Antenne exploitation maintenance Mont Ventoux/ régie énergie centrale Mont Ventoux ;
+
 - USID Lyon/ Antenne exploitation maintenance Mont Verdun ;
 
+- USID Lyon/ Antenne exploitation maintenance Lyon/ cellule exploitation maintenance Lyon/ régie énergie sites DIRISI Lyon ;
+
 - USID Solenzara ;
+
+- USID Clermont-Ferrand/ Antenne exploitation maintenance Pierre-sur-Hautes/ régie énergie centrale Pierre-sur-Hautes ;
+
+- USID Montpellier/ Antenne exploitation maintenance Garons/ régie énergie sites DIRISI Garons ;
+
+- USID Toulouse/ Antenne exploitation maintenance Lacaune/ régie énergie centrale Lacaune.
 
 SID Nord-Est (NE) :
 
@@ -130,7 +152,7 @@ SID Nord-Est (NE) :
 
 - USID Nancy/ Antenne exploitation maintenance Ochey ;
 
-- USID Saint Dizier ;
+- USID Saint Dizier.
 
 SID Nord-Ouest (NO) :
 
@@ -144,9 +166,9 @@ SID Nord-Ouest (NO) :
 
 - USID Bricy/ Antenne exploitation maintenance Bricy ;
 
-- USID Evreux/ Antenne exploitation maintenance Evreux et Sémaphores ;
+- USID Evreux/ Antenne exploitation maintenance Evreux et Sémaphores.
 
-Direction d'Infrastructure de la Défense de Djibouti.
+Direction d'infrastructure de la Défense de Djibouti :
 
 4° Unités du commissariat au numérique de défense (CND) :
 
@@ -162,7 +184,7 @@ Relevant de la direction d'appui au numérique zonale Sud-Ouest :
 
 - centre de mise en œuvre des réseaux de desserte (CMO RD) Bordeaux.
 
-Relevant de la direction d'appui au numérique zonale Ile-de-France 8 e régiment de transmissions :
+Relevant de la direction d'appui au numérique zonale Ile-de-France 8e régiment de transmissions :
 
 - centre d'appui numérique Villacoublay ;
 
@@ -266,7 +288,21 @@ Relevant du pôle opérationnel sécurité et administration :
 
 - centre national de mise en œuvre des intranets de Maisons-Laffitte (CNMO I MLF) ;
 
-- centre national de mise en œuvre des intranets de Rennes (CNMO I RNS).
+- centre national de mise en œuvre des intranets de Rennes (CNMO I RNS) ;
+
+5° Autres unités :
+
+- DGA base d'essais de Cazaux ;
+
+- DGA base d'essais d'Istres ;
+
+- DGA essais de missiles Biscarosse ;
+
+- direction de la sécurité aéronautique d'Etat (DSAE) ;
+
+- direction de la maintenance aéronautique (DMAé) ;
+
+- commissariat au numérique de défense : CNSO - centre d'adaptation à l'emploi de la DIRISI Orléans.
 
 NOTA :
 

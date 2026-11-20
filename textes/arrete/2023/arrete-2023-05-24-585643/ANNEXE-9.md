@@ -1,7 +1,5 @@
 # Article ANNEXE 9
 
-ANNEXE 9
-
 COMPÉTENCE SPÉCIFIQUE DE NAVIGATION AÉRIENNE
 
 L'attribution de la prime de compétences spécifiques de navigation aérienne est conditionnée par la détention de l'un des titres suivants :
@@ -10,9 +8,9 @@ Catégories |
 
 Titres de qualification |
 
-Force armée ou formation rattachée
+Force armée
 
-d'appartenance |
+ou formation rattachée d'appartenance |
 
 Catégorie 1 |
 
@@ -62,6 +60,8 @@ Brevet de mécanicien d'équipage |
 
 Brevet de convoyeuse ou convoyeur de l'air |
 
+Brevet militaire de pilote d'avion estafette |
+
 Brevet d'infirmier convoyeur de l'armée de l'air et de l'espace |
 
 Personnel du service de santé des armées |
@@ -84,7 +84,7 @@ Brevet de contrôleur aérien |
 
 Personnel de l'armée de l'air et de l'espace |
 
-Brevet de spécialiste « renseignement » |
+Brevet de spécialiste “renseignement” |
 
 Certificat de maintenance aéronautique |
 
@@ -136,7 +136,7 @@ Personnel de l'armée de l'air et de l'espace |
 
 Qualification de convoyeur oxygène |
 
-Brevet de spécialiste « renseignement » |
+Brevet de spécialiste “renseignement” |
 
 Brevet de contrôleur aérien |
 
@@ -164,4 +164,4 @@ Certificat de stagiaire du personnel navigant |
 
 Tous |
 
-Les titres de qualification de catégorie 1 ou 4 susmentionnés confèrent aux militaires de l'armée de terre qui en sont détenteurs le certificat de combattant aéroterrestre et entraîne le cas échéant la caducité du certificat de combattant terrestre pour la période durant laquelle ce personnel est éligible à la prime de compétences spécifiques de navigation aérienne.
+Les titres de qualification de catégorie 1 ou 4 susmentionnés confèrent aux militaires de l'armée de terre qui en sont détenteurs le certificat de combattant aéroterrestre et entraînent le cas échéant la caducité du certificat de combattant terrestre pour la période durant laquelle ce personnel est éligible à la prime de compétences spécifiques de navigation aérienne.
