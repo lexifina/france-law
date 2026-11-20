@@ -2,27 +2,127 @@
 
 Informations précontractuelles européennes normalisées en matière de crédit aux consommateurs
 
-" Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de remboursement avant de vous engager. "
+Attention ! Un crédit coûte de l'argent et doit être remboursé
 
-1. Identité et coordonnées du prêteur/ de l'intermédiaire de crédit
+Informations essentielles
+
+Partie I [Toujours sur la première page]
 
 Prêteur
 
-Adresse
+Le cas échéant
 
-Numéro de téléphone (*)
-
-Adresse électronique (*)
-
-Numéro de télécopieur (*)
-
-Adresse internet (*)
-
-|
+Intermédiaire de crédit |
 
 [Identité]
 
-[Adresse géographique à utiliser par l'emprunteur]
+[Identité] |
+
+Montant total du crédit
+
+Il s'agit du plafond ou du total des sommes mises à disposition au titre du contrat de crédit. Pour les opérations de location avec option d'achat, il s'agit du prix au comptant du bien loué. |
+
+|
+
+Durée du contrat de crédit |
+
+|
+
+Le taux débiteur ou, le cas échéant, les différents taux débiteurs qui s'appliquent au contrat de crédit |
+
+[%
+
+- fixe, ou
+
+- variable,
+
+- périodes]
+
+Préciser la nature du taux : fixe ou variable (avec l'indice ou le taux de référence applicable au taux débiteur initial) ou révisable
+
+Préciser les périodes, conditions et procédures d'adaptation du taux débiteur ou de chaque taux s'il y a plusieurs taux débiteurs.
+
+Lorsque le taux est révisable, indiquer la période de validité du taux (ou : taux en vigueur au …) et la fréquence de modification du taux (ou l'information selon laquelle le taux sera/ peut être modifié en cours de contrat par décision du prêteur). |
+
+Taux annuel effectif global (TAEG)
+
+Il s'agit du coût total exprimé en pourcentage annuel du montant total du crédit
+
+Le TAEG vous permet de comparer différentes offres |
+
+|
+
+Montant total que vous devrez payer
+
+Il s'agit du montant du capital emprunté majoré des intérêts et des coûts éventuels liés à votre crédit. |
+
+[La somme du montant total du crédit et du coût total du crédit pour l'emprunteur] |
+
+Le cas échéant
+
+Le crédit est consenti sous la forme d'un paiement différé pour des biens ou des services précis ou est un crédit affecté servant à financer l'acquisition de biens ou la prestation de services déterminés
+
+Nom du bien/service
+
+Prix au comptant
+
+En cas de location avec option d'achat :
+
+- La description du bien loué
+
+- Le prix à acquitter en cas d'achat en fin de location |
+
+|
+
+Frais et indemnités en cas de retard de paiement |
+
+Vous devrez payer [… (taux d'intérêt applicable et modalités d'adaptation et de calcul, et, le cas échéant, frais d'inexécution)] en cas de retard de paiement. |
+
+Partie II [Si les éléments suivants ne peuvent pas être présentés sur la première page, ils sont présentés dans la première partie du formulaire, sur la deuxième page]
+
+Les échéances et, le cas échéant, l'ordre selon lequel elles sont réparties |
+
+Vous devrez payer ce qui suit : [Le montant, le nombre et la périodicité des paiements que l'emprunteur doit effectuer]
+
+Les intérêts et/ou les frais seront dus de la façon suivante : |
+
+Avertissement relatif aux conséquences des défauts ou retards de paiement
+
+Les défauts ou retards de paiement risquent d'avoir de graves conséquences pour vous (par exemple vente forcée) et de vous rendre plus difficile l'obtention d'un crédit à l'avenir. |
+
+|
+
+Droit de rétractation
+
+Vous disposez d'un délai de 14 jours calendaires pour revenir sur votre engagement vis-à-vis du contrat de crédit. |
+
+Oui/Non |
+
+Remboursement anticipé
+
+Vous avez le droit de procéder à tout moment au remboursement anticipé, total ou partiel, du crédit.
+
+Le cas échéant, vous avez le droit d'acheter par anticipation le bien loué pour les opérations de location avec option d'achat.
+
+Le cas échéant
+
+Le prêteur a droit à une indemnité en cas de remboursement anticipé.
+
+Le cas échéant
+
+Le prêteur a droit à une indemnité en cas d'achat par anticipation pour les opérations de location-vente et de location avec option d'achat. |
+
+Oui |
+
+Prêteur
+
+Adresse géographique
+
+Numéro de téléphone
+
+Adresse électronique
+
+Adresse internet (*) |
 
 |
 
@@ -30,418 +130,248 @@ Le cas échéant
 
 Intermédiaire de crédit
 
-|
+Adresse géographique
 
-[Identité]
+Numéro de téléphone
 
-|
+Adresse électronique
 
-Adresse
-
-|
-
-Adresse électronique (*)
+Adresse internet (*) |
 
 |
 
-Numéro de téléphone (*)
+1. Description des principales caractéristiques du produit de crédit
 
-Numéro de télécopieur (*)
-
-Adresse internet (*)
+Le type de crédit |
 
 |
 
-[Identité]
-
-[Adresse géographique à utiliser par l'emprunteur]
-
-|
-
-2. Description des principales caractéristiques du crédit
-
-LE TYPE DE CRÉDIT
-
-|
-
-|
-
-Le montant total du crédit
-
-Il s'agit du plafond ou du total des sommes rendues disponibles en vertu du contrat de crédit
-
-[indiquer s'il s'agit du plafond ou du total]
-
-|
-
-|
-
-Les conditions de mise à disposition des fonds
+Les conditions régissant la mise à disposition des fonds
 
 Il s'agit de la façon dont vous obtiendrez l'argent et du moment auquel vous l'obtiendrez.
 
-|
-
-|
-
-La durée du contrat de crédit
-
-|
-
-|
-
-Les échéances et, le cas échéant, l'ordre dans lequel les échéances seront affectées
-
-|
-
-Vous devrez payer ce qui suit :
-
-[Le montant, le nombre et la fréquence des échéances que l'emprunteur doit verser]
-
-Les intérêts et/ ou les frais seront dus de la façon suivante :
-
-|
-
-Le montant total que vous devrez payer
-
-Il s'agit du montant du capital emprunté majoré des intérêts et des frais éventuels liés à votre crédit.
-
-|
-
-[La somme du montant total du crédit
-
-et du coût total du crédit]
-
-|
-
 Le cas échéant
 
-Le crédit est consenti sous la forme d'un délai de paiement pour un bien ou un service ou il est lié
+D'autres modalités de mise à disposition des fonds pour le type de contrat de crédit concerné peuvent donner lieu à l'application de taux annuel effectifs globaux plus élevés. |
 
-à la fourniture de bien (s) ou de service (s) déterminé (s) :
-
-Nom du bien/ service
-
-Prix au comptant
-
-|
-
-|
-
-En cas de location avec option d'achat
-
-Le contrat a pour objet la location de :
-
-Description du bien concerné
-
-Le prix de vente final au terme de la location est de :
-
-|
-
-|
+[Lorsque le contrat de crédit offre à l'emprunteur différentes possibilités quant à la mise à disposition du crédit, assorties de frais ou de taux débiteurs différents, et que le prêteur applique l'hypothèse énoncée au 2° de la partie II de l'annexe à l'article R. 314-3, insérer la mention du fait que d'autres modalités de mise à disposition des fonds pour le type de crédit concerné peuvent donner lieu à l'application de taux annuels effectifs globaux plus élevés] |
 
 Le cas échéant
 
 Sûretés exigées
 
-Il s'agit d'une description de la sûreté que vous devez fournir en relation avec le contrat de crédit.
+Il s'agit d'une description de la sûreté que vous devez fournir en relation avec le contrat de crédit. |
 
-|
+[Type de sûretés] |
 
-[Type de sûretés]
+Le cas échéant
+
+Les remboursements n'entraînent pas un amortissement immédiat du capital. |
 
 |
 
 Le cas échéant
 
-Les remboursements n'entraînent pas un amortissement immédiat du capital.
+Le prix a été personnalisé, en tout ou partie, sur la base d'une prise de décision automatisée. |
 
 |
 
-|
+2. Coûts du crédit
 
-3. Coût du crédit
+Le cas échéant
 
-Le taux débiteur ou, le cas échéant, les différents taux débiteurs qui s'appliquent au contrat de crédit
+Les différents taux débiteurs qui s'appliquent au contrat de crédit |
 
-|
+[%
 
-[Indiquer le taux exprimé en % :
+- fixe, ou
+
+- variable (avec l'indice ou le taux de référence applicable au taux débiteur initial),
+
+- périodes,
+
+- les conditions régissant l'application de chaque taux débiteur,
+
+- les périodes, les conditions et les procédures d'adaptation de chaque taux débiteur]
+
+Indiquer le taux exprimé en % :
 
 Préciser la nature du taux : fixe ou variable (avec l'indice ou le taux de référence applicable au taux débiteur initial) ou révisable
 
 Préciser les périodes, conditions et procédures d'adaptation du taux débiteur ou de chaque taux s'il y a plusieurs taux débiteurs.
 
-Lorsque le taux est révisable, indiquer la période de validité du taux (ou : taux en vigueur au..) et la fréquence de modification du taux (ou l'information selon laquelle le taux sera/ peut être modifié en cours de contrat par décision du prêteur.]
+Lorsque le taux est révisable, indiquer la période de validité du taux (ou : taux en vigueur au …) et la fréquence de modification du taux (ou l'information selon laquelle le taux sera/ peut être modifié en cours de contrat par décision du prêteur.] |
 
-|
+Exemple représentatif illustrant le taux annuel effectif global (TAEG) et le montant total dû par l'emprunteur |
 
-Taux annuel effectif global (TAEG)
+[% Donner ici un exemple représentatif qui mentionne toutes les hypothèses utilisées pour calculer le taux annuel effectif global] |
 
-Il s'agit du coût total exprimé en pourcentage annuel du montant total du crédit.
+Est-il obligatoire de souscrire, pour l'obtention du crédit ou pour son obtention aux conditions particulières prévues par les clauses et conditions commerciales :
 
-Le TAEG vous permet de comparer différentes offres.
+- une police d'assurance garantissant le crédit, ou
 
-|
+- un autre contrat de service accessoire ?
 
-[Exprimé en %. Donner ici un exemple représentatif qui mentionne toutes les hypothèses utilisées pour calculer le taux]
+Si les coûts de ces services ne sont pas connus du prêteur, ils ne sont pas inclus dans le TAEG.
 
-|
+Lorsqu'une assurance est proposée ou exigée par le prêteur, coût de cette assurance exprimé à l'aide d'un exemple chiffré en taux annuel effectif de l'assurance, en montant total dû en euro et par mois sur la base de la cotisation mensuelle la plus élevée. |
 
-Est-il obligatoire pour l'obtention même du crédit ou conformément aux clauses et conditions commerciales de contracter :
+Oui/non [si oui, préciser le type d'assurance]
 
-|
+Oui/non [si oui, préciser le type de service accessoire] |
 
-|
+Coûts liés |
 
--une assurance liée au crédit ?
+Le cas échéant
 
-|
-
-Oui/ non ; [si oui, préciser le type d'assurance, et ajouter la mention suivante :
-
-Vous pouvez souscrire une assurance équivalente auprès de l'assureur de votre choix.]
-
-|
-
--un autre service accessoire ?
-
-Si les coûts de ces services ne sont pas connus du prêteur, ils ne sont pas inclus dans le TAEG
-
-Lorsque l'assurance est proposée ou exigée par le prêteur, coût de cette assurance exprimé à l'aide d'un exemple chiffré en taux annuel effectif de l'assurance, en montant total dû en euro et par mois sur la base de la cotisation mensuelle la plus élevée.
-
-|
-
-Oui/ non ; [si oui, préciser le type de service accessoire]
-
-|
-
-Montant des frais liés à l'exécution du contrat de crédit
-
-|
+Frais pour la tenue d'un ou de plusieurs comptes obligatoires pour enregistrer tant les opérations de paiement que les prélèvements |
 
 |
 
 Le cas échéant
 
-Montant des frais de tenue d'un (ou de plusieurs compte (s) si ce (s) compte (s) est (sont) nécessaire (s) pour les opérations de mise à disposition des fonds ou les opérations de paiement des échéances du crédit
-
-|
-
-|
-
-Le cas échéant
-
-Montant des frais liés à l'utilisation d'un moyen de paiement déterminé (par exemple une carte de crédit)
-
-|
+Montant des coûts d'utilisation d'un moyen particulier de paiement (par exemple une carte de crédit) |
 
 |
 
 Le cas échéant
 
-Montant de tout autre frais lié au contrat de crédit
-
-|
-
-|
-
-Le cas échéant
-
-Conditions dans lesquelles les frais liés au contrat de crédit susmentionnés peuvent être modifiés
-
-|
+Tout autre coût lié au contrat de crédit |
 
 |
 
 Le cas échéant
 
-Obligation de payer des frais de notaire
+Conditions dans lesquelles les coûts susmentionnés liés au contrat de crédit peuvent être modifiés |
 
 |
 
-|
+Le cas échéant
 
-Frais en cas de défaillance de l'emprunteur
-
-Les impayés risquent d'avoir de graves conséquences pour vous et de vous empêcher d'obtenir un nouveau crédit.
+Obligation de payer des frais de notaire |
 
 |
 
-Vous devrez payer [.. (taux d'intérêt applicable et, le cas échéant, frais d'inexécution)] en cas de défaillance.
-
-|
-
-4. Autres aspects juridiques importants
-
-Droit de rétractation
-
-Vous disposez d'un délai de quatorze jours calendaires pour revenir sur votre engagement vis-à-vis du contrat de crédit.
-
-|
-
-Oui (Le cas échéant)
-
-Lorsque le contrat de crédit est un crédit affecté, la rétractation sur le contrat de crédit entre le premier et le quatorzième jour met fin au contrat de vente ou de prestation de services.
-
-Lorsque, dans le cadre d'un crédit affecté, vous demandez la livraison immédiate du bien ou de la prestation de services, votre droit de rétractation sur le contrat de crédit prend fin le jour de la livraison du bien ou de l'exécution de la prestation de services (sans pouvoir être inférieur à trois jours, ni excéder quatorze jours). Son exercice ne met fin à votre contrat de vente principal que dans les trois premiers jours. Au-delà, vous êtes tenu d'acquérir le bien ou la prestation de services.
-
-|
-
-Remboursement anticipé
-
-Vous avez le droit de procéder à tout moment au remboursement anticipé, total ou partiel, du crédit.
-
-|
-
-|
+3. Autres aspects juridiques importants
 
 Le cas échéant
 
 Le prêteur a droit à une indemnité en cas de remboursement anticipé.
 
-|
+Le cas échéant
 
-[Rappel des cas où l'indemnité de remboursement peut être exigée et du mode de calcul de l'indemnité conformément aux articles L. 312-34
+Le prêteur a droit à une indemnité en cas d'achat par anticipation pour les opérations de location-vente et de location avec option d'achat. |
 
-et L. 312-73 du code de la consommation]
+[Fixation de l'indemnité (méthode de calcul) conformément aux dispositions du code de la consommation] |
 
-|
+Consultation d'une base de données
 
-Le prêteur doit, dans le cadre de la procédure d'octroi du crédit, consulter le fichier national des incidents de remboursement des crédits aux particuliers.
-
-|
+Le prêteur doit vous informer immédiatement et sans frais du résultat de la consultation d'une base de données si une demande de crédit est rejetée sur la base d'une telle consultation. |
 
 |
 
 Droit à un projet de contrat de crédit
 
-Vous avez le droit d'obtenir gratuitement, sur demande, un exemplaire du projet de contrat de crédit. Cette disposition ne s'applique pas si, au moment de la demande, le prêteur n'est pas disposé à conclure le contrat de crédit avec vous.
-
-|
-
-|
-
-Le délai pendant lequel le prêteur est lié par les informations précontractuelles
-
-|
-
-Ces informations sont valables du.. au..
-
-|
-
-[Toutes les informations complémentaires que le prêteur souhaite donner au consommateur sont fournies dans un document distinct qui peut être annexé à la présente fiche]
-
-|
-
-5. Le cas échéant, informations complémentaires en cas de vente à distance de services financiers au sens de l'article L. 222-1 du code de la consommation
-
-A) Informations relatives au prêteur
-
-|
+Vous avez le droit d'obtenir gratuitement, sur demande, un exemplaire du projet de contrat de crédit. Cette disposition s'applique si, au moment de votre demande, le prêteur est disposé, à conclure le contrat de crédit avec vous. |
 
 |
 
 Le cas échéant
 
-|
+Le délai pendant lequel le prêteur est lié par les informations précontractuelles. |
+
+Les informations contenues dans le présent formulaire sont valables du […] au […]. |
+
+Concernant le recours
+
+Vous avez le droit de recourir à des procédures extrajudiciaires de réclamation et de recours. |
+
+[Procédures extrajudiciaires de réclamation et de recours accessibles à l'emprunteur et modalités d'accès] |
+
+Avertissement concernant les conséquences juridiques et financières du non-respect
+
+Le non-respect des engagements liés au contrat de crédit autres que les retards ou défauts de paiement pourrait avoir de graves conséquences pour vous. |
 
 |
 
-Représentant du prêteur dans l'Etat membre dans lequel vous résidez
+Calendrier de remboursement |
+
+[Calendrier de remboursement contenant tous les paiements et remboursements à effectuer par l'emprunteur pendant la durée du contrat de crédit, y compris les paiements pour d'éventuels services accessoires]
+
+Dans le cas d'une autorisation de découvert ou d'un crédit renouvelable, le calendrier de remboursement repose sur un exemple représentatif d'une utilisation en totalité et en une seule fois du montant de cette autorisation ou du montant de crédit disponible, sur toute la durée d'utilisation de l'autorisation de découvert ou du crédit renouvelable au taux débiteur convenu. |
+
+Le cas échéant
+
+4. Informations complémentaires en cas de vente à distance de services financiers
+
+a) Relatives au prêteur |
 
 |
 
-[Identité]
+Le cas échéant
 
-|
+Représentant du prêteur dans l'État membre dans lequel vous résidez
 
 Adresse
 
-Numéro de téléphone (*)
+Numéro de téléphone
 
-Adresse électronique (*)
+Adresse électronique
 
-Numéro de télécopieur (*)
+Adresse internet (*) |
 
-Adresse internet (*)
+[Identité]
 
-|
+[Adresse géographique à utiliser par l'emprunteur] |
 
-[Adresse géographique à utiliser par l'emprunteur]
+Le cas échéant
 
-|
+Enregistrement |
 
-Enregistrement
+[Le registre du commerce dans lequel le prêteur est inscrit et son numéro d'enregistrement ou un moyen équivalent d'identification dans ce registre] |
 
-|
+Le cas échéant
 
-[Le registre du commerce dans lequel le prêteur est inscrit et son numéro d'enregistrement ou un moyen équivalent d'identification dans ce registre]
-
-|
-
-L'autorité de surveillance
+L'autorité de surveillance |
 
 |
 
-[Les coordonnées des autorités chargées du contrôle de l'activité soumise à autorisation]
+b) Relatives au contrat de crédit |
+
+Le cas échéant
+
+Exercice du droit de rétractation |
+
+[Instructions pratiques pour l'exercice du droit de rétractation indiquant, entre autres, la période pendant laquelle ce droit peut être exercé, l'adresse à laquelle la notification de ce droit doit être envoyée et les conséquences du non-exercice du droit de rétractation] |
+
+Le cas échéant
+
+La législation sur laquelle le prêteur se fonde pour établir des relations avec vous avant la conclusion du contrat de crédit |
 
 |
 
-b) Informations relatives au contrat de crédit
+Le cas échéant
 
-|
+Clause concernant la législation applicable au contrat de crédit et/ou la juridiction compétente |
 
-|
+[Mentionner la clause pertinente ici] |
 
-Exercice du droit de rétractation
+Le cas échéant
 
-|
+Régime linguistique |
 
-[Instructions pratiques pour l'exercice du droit de rétractation indiquant, entre autres, la période pendant laquelle ce droit peut être exercé, l'adresse à laquelle la notification doit être envoyée par l'emprunteur et les conséquences du non-exercice de ce droit]
+Les informations et les conditions contractuelles seront fournies en [langue]. Avec votre accord, nous comptons communiquer en [langue/langues] pendant la durée du contrat de crédit. |
 
-|
+(*) : Les informations suivies de ce signe sont facultatives pour le prêteur.
 
-La législation sur laquelle le prêteur se fonde pour établir des relations avec vous avant la conclusion du contrat de crédit
+"Le cas échéant" : lorsque cette mention est indiquée, le prêteur doit remplir la case de la colonne de droite si l'information est pertinente pour le type de crédit concerné ou supprimer l'information ou toute la ligne si l'information n'est pas pertinente pour le type de crédit concerné.
 
-|
+Les explications qui figurent en italique devraient aider l'emprunteur à mieux comprendre les chiffres.
 
-|
+Les indications qui figurent entre crochets sont des explications destinées au prêteur ou à l'intermédiaire de crédit et doivent être remplacées par les informations correspondantes.
 
-Clause concernant la législation applicable au contrat de crédit et/ ou la juridiction compétente
+NOTA :
 
-|
+Conformément au I de l'article 30 du décret n° 2026-105 du 19 février 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 20 novembre 2026.
 
-[Mentionner la clause pertinente ici]
-
-|
-
-Régime linguistique
-
-|
-
-Les informations et les conditions contractuelles seront fournies en [langue]. Avec votre accord, nous comptons communiquer en [langue/ langues] pendant la durée du contrat de crédit.
-
-|
-
-c) Informations relatives au droit de recours
-
-|
-
-|
-
-Existence de procédures extrajudiciaires de réclamation et de recours et modalités d'accès à ces procédures
-
-|
-
-[Existence ou non de procédures extrajudiciaires de réclamation et de recours accessibles au consommateur qui est partie au contrat à distance et, si de telles procédures existent, les modalités d'accès à ces dernières]
-
-|
-
-(*) Les informations suivies de ce signe sont facultatives pour le prêteur.
-
-" Le cas échéant " : lorsque cette mention est indiquée, le prêteur doit remplir la case si l'information est pertinente pour le crédit ou supprimer l'information correspondante ou toute la ligne si l'information ne concerne pas le type de crédit envisagé.
-
-[Indications entre crochets] : ces explications sont destinées au prêteur et doivent être remplacées par les informations correspondantes.
-
-|
+Conformément à la première phrase du II de l'article 30 du décret précité, les contrats en cours au 20 novembre 2026 restent régis par les dispositions du code de la consommation et du code monétaire et financier dans leur rédaction antérieure à l'entrée en vigueur dudit décret.

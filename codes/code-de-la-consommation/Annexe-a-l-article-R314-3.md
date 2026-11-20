@@ -40,6 +40,16 @@ b) La date initiale est celle du premier prêt ;
 
 c) L'écart entre les dates utilisées pour le calcul du TAEG, ainsi que pour celui du taux débiteur, est exprimé en années ou en fractions d'années. Une année compte 365 jours, ou, pour les années bissextiles, 366 jours, 52 semaines ou 12 mois normalisés. Un mois normalisé compte 30,416 66 jours (c'est-à-dire 365/12), que l'année soit bissextile ou non ;
 
+Lorsque l'écart entre les dates utilisées pour le calcul ne peut être exprimé en nombre entier de semaines, de mois ou d'années, il est exprimé en nombre entier de l'une de ces périodes en combinaison avec un nombre de jours.
+
+En cas d'utilisation de jours :
+
+i) chaque jour est compté, y compris les weekends et les jours fériés ;
+
+ii) l'intervalle de temps est calculé par périodes normalisées et ensuite par jours en remontant jusqu'à la date du prélèvement initial ;
+
+iii) la durée en jours est obtenue en excluant le premier jour et en incluant le dernier et elle est exprimée en années en divisant le nombre obtenu par le nombre de jours (365 ou 366) de l'année complète en remontant du dernier jour au même jour de l'année précédente.
+
 d) Le résultat du calcul est exprimé avec une exactitude d'au moins une décimale. Lorsque le chiffre est arrondi à une décimale particulière, la règle suivante est d'application : si le chiffre de la décimale suivant cette décimale particulière est supérieur ou égal à 5, le chiffre de cette décimale particulière sera augmenté de 1.
 
 Hypothèses
@@ -172,4 +182,6 @@ ii) le pourcentage d'accroissement de la valeur du bien immobilier qui garantit 
 
 NOTA :
 
-Conformément à l’article 3 du décret n° 2021-1700 du 17 décembre 2021, ces dispositions s’appliquent aux prêts avance mutation et aux prêts viager hypothécaire pour lesquels l'offre de prêt est émise à compter de la date d'entrée en vigueur dudit décret.
+Conformément au I de l'article 30 du décret n° 2026-105 du 19 février 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 20 novembre 2026.
+
+Conformément à la première phrase du II de l'article 30 du décret précité, les contrats en cours au 20 novembre 2026 restent régis par les dispositions du code de la consommation et du code monétaire et financier dans leur rédaction antérieure à l'entrée en vigueur dudit décret.
