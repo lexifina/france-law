@@ -1,36 +1,36 @@
 # Article Annexe
 
-PROGRAMME MINIMAL DE FORMATION PRÉVU À L'ARTICLE D. 313-10-2 DU CODE DE LA CONSOMMATION
+PROGRAMME MINIMAL DE FORMATION PRÉVU À L'ARTICLE D. 314-23 DU CODE DE LA CONSOMMATION POUR LES CRÉDITS RELEVANT DU CHAPITRE III DU TITRE IER DU LIVRE III DU CODE DE LA CONSOMMATION
 
 1. Environnement de la banque et de l'assurance :
 
-- Organisation du système bancaire international, européen et français ;
+- organisation du système bancaire international, européen et français ;
 
-- La protection de la clientèle comme élément de la stabilité financière ;
+- la protection de la clientèle comme élément de la stabilité financière ;
 
-- Le respect des règles de conformité des opérations à la réglementation et des règles de protection de la clientèle ;
+- le respect des règles de conformité des opérations à la réglementation et des règles de protection de la clientèle ;
 
-- Le rappel de la législation en matière de lutte contre le blanchiment et le financement du terrorisme.
+- le rappel de la législation en matière de lutte contre le blanchiment et le financement du terrorisme.
 
 2. Environnement du marché immobilier français :
 
-- La structure du marché immobilier ;
+- la structure du marché immobilier ;
 
-- Les différents acteurs et leurs rôles (les notaires, les agents immobiliers, les promoteurs, les lotisseurs, les constructeurs, les conseillers en investissements financiers, les conseillers en gestion de patrimoine, les IOBSP) ;
+- les différents acteurs et leurs rôles (les notaires, les agents immobiliers, les promoteurs, les lotisseurs, les constructeurs, les conseillers en investissements financiers, les conseillers en gestion de patrimoine, les IOBSP) ;
 
-- Les bases du droit immobilier (les notions de propriété immobilière et de droit des sols, les différentes opérations immobilières finançables (neuf, y compris les opérations de vente en état futur d'achèvement, ancien, travaux), les procédures d'achat d'un bien immobilier, l'organisation et fonctionnement de la publicité foncière et le cadastre.
+- les bases du droit immobilier (les notions de propriété immobilière et de droit des sols, les différentes opérations immobilières finançables (neuf, y compris les opérations de vente en état futur d'achèvement, ancien, travaux), les procédures d'achat d'un bien immobilier, l'organisation et fonctionnement de la publicité foncière et le cadastre.
 
 3. Encadrement de la distribution du crédit aux consommateurs relatif aux biens immobilier à usage résidentiels ("crédit immobilier") :
 
-- Cadre normatif de la distribution du crédit immobilier et, notamment :
+- cadre normatif de la distribution du crédit immobilier et, notamment :
 
 - champ d'application du régime du crédit immobilier ;
 
 - information précontractuelle (FISE), explications adéquates à fournir à l'emprunteur, mise en garde de l'emprunteur ;
 
-- évaluation de la solvabilité de l'emprunteur.
+- évaluation de la solvabilité de l'emprunteur ;
 
-- Cadre normatif de la conclusion du contrat de crédit immobilier, notamment :
+- cadre normatif de la conclusion du contrat de crédit immobilier, notamment :
 
 - émission de l'offre de crédit ;
 
@@ -42,15 +42,15 @@ PROGRAMME MINIMAL DE FORMATION PRÉVU À L'ARTICLE D. 313-10-2 DU CODE DE LA CON
 
 - renégociation de crédit ;
 
-- contrat de prêt en devises étrangères à l'euro.
+- contrat de prêt en devises étrangères à l'euro ;
 
-- Démarchage bancaire et financier et spécificités de la vente à distance : caractéristiques, encadrement normatif ;
+- démarchage bancaire et financier et spécificités de la vente à distance : caractéristiques, encadrement normatif ;
 
-- Connaissance des droits et obligations de l'emprunteur et du conjoint non coemprunteur, dès la formation du contrat et en cours d'exécution.
+- connaissance des droits et obligations de l'emprunteur et du conjoint non coemprunteur, dès la formation du contrat et en cours d'exécution.
 
 4. Les crédits immobiliers :
 
-- Analyse des caractéristiques financières d'un crédit immobilier notamment :
+- analyse des caractéristiques financières d'un crédit immobilier notamment :
 
 - le taux annuel effectif global et le coût total du crédit ;
 
@@ -64,9 +64,9 @@ PROGRAMME MINIMAL DE FORMATION PRÉVU À L'ARTICLE D. 313-10-2 DU CODE DE LA CON
 
 - le tableau d'amortissement.
 
-- Les techniques de financement ;
+- les techniques de financement ;
 
-- La nature et les caractéristiques des différentes formes de crédit immobiliers que la personne en formation est susceptible de commercialiser, en distinguant les besoins de financement auxquels elles sont susceptibles de répondre et les emprunteurs éligibles, notamment :
+- la nature et les caractéristiques des différentes formes de crédit immobiliers que la personne en formation est susceptible de commercialiser, en distinguant les besoins de financement auxquels elles sont susceptibles de répondre et les emprunteurs éligibles, notamment :
 
 - les prêts classiques et les particularités bancaires ;
 
@@ -80,52 +80,52 @@ PROGRAMME MINIMAL DE FORMATION PRÉVU À L'ARTICLE D. 313-10-2 DU CODE DE LA CON
 
 - le PEL-CEL ;
 
-- les prêts au titre de la participation des employeurs à l'effort de construction (PEEC).
+- les prêts au titre de la participation des employeurs à l'effort de construction (PEEC) ;
 
-- Les dispositifs d'investissements locatifs ;
+- les dispositifs d'investissements locatifs ;
 
-- Les actes susceptibles d'intervenir au cours de la vie du crédit, notamment en cas de demande de remboursement anticipé.
+- les actes susceptibles d'intervenir au cours de la vie du crédit, notamment en cas de demande de remboursement anticipé.
 
 5. Les garanties :
 
-- Les modalités de garantie des crédits et conditions de fonctionnement de la garantie ;
+- les modalités de garantie des crédits et conditions de fonctionnement de la garantie ;
 
-- Les différents types de garantie : garanties réelle et personnelle, hypothèque, privilèges immobiliers, cautionnement dont "caution bancaire" (forme et finalité), fonds de garantie.
+- les différents types de garantie : garanties réelle et personnelle, hypothèque, privilèges immobiliers, cautionnement dont "caution bancaire" (forme et finalité), fonds de garantie.
 
 6. Les assurances :
 
-- Notions générales sur les assurances des emprunteurs ;
+- notions générales sur les assurances des emprunteurs ;
 
-- Les risques couverts ;
+- les risques couverts ;
 
-- Le principe de déliaison de l'assurance et du prêt, et la notion de "niveau de garantie équivalente" ;
+- le principe de déliaison de l'assurance et du prêt, et la notion de "niveau de garantie équivalente" ;
 
-- La fiche standardisée d'information ;
+- la fiche standardisée d'information ;
 
-- Le dispositif AERAS.
+- le dispositif AERAS.
 
 7. Les règles de bonne conduite et de rémunération :
 
-- Les obligations professionnelles de protection de l'emprunteur :
+- les obligations professionnelles de protection de l'emprunteur :
 
 - exigence de connaissance de la situation financière et des besoins de l'emprunteur afin de proposer des crédits adaptés ;
 
 - exigence de loyauté : obligation d'agir de manière honnête, équitable, transparente et professionnelle au mieux des droits et des intérêts des consommateurs ;
 
-- Les règles de rémunération : prévention des conflits d'intérêts, gestion des risques.
+- les règles de rémunération : prévention des conflits d'intérêts, gestion des risques.
 
 8. La prévention du surendettement et l'endettement responsable :
 
-- Présentation et caractéristiques de situations de surendettement ;
+- présentation et caractéristiques de situations de surendettement ;
 
-- Connaissances et démarches nécessaires à la prévention du surendettement ;
+- connaissances et démarches nécessaires à la prévention du surendettement ;
 
-- Présentation des principes et des procédures de traitement du surendettement ;
+- présentation des principes et des procédures de traitement du surendettement ;
 
-- Le traitement du surendettement : commission de surendettement, organisation, fonctionnement, saisine, rôle de la Banque de France.
+- le traitement du surendettement : commission de surendettement, organisation, fonctionnement, saisine, rôle de la Banque de France.
 
 9. Contrôles et sanctions :
 
-- Connaissance des infractions et manquements relatifs au non-respect des règles figurant au titre Ier du livre III du code de la consommation et de leurs sanctions civiles et pénales ;
+- connaissance des infractions et manquements relatifs au non-respect des règles figurant au titre Ier du livre III du code de la consommation et de leurs sanctions civiles et pénales ;
 
 - ACPR et DGCCRF : compétences, contrôle, sanctions.
