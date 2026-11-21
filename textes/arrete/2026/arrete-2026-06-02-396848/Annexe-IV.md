@@ -88,7 +88,7 @@ Pour la classe de première année, le programme sur lequel repose l'unité est 
 
 Pour les classes de deuxième et de troisième année, le programme sur lequel repose l'unité est défini par l'arrêté du 03 février 2020 fixant le programme d'enseignement de mathématiques des classes de première et terminale préparant au baccalauréat professionnel et des classes de deuxième et troisième années préparant au brevet national des métiers d'art.
 
-La spécialité « Bijouterie » de brevet national des métiers d'art est rattachée au groupement A.
+La spécialité "Bijouterie" de brevet national des métiers d'art est rattachée au groupement B.
 
 UNITÉ U12
 
@@ -98,13 +98,13 @@ Pour la classe de première année, le programme sur lequel repose l'unité est 
 
 Pour les classes de deuxième et de troisième année, le programme sur lequel repose l'unité est défini par l'arrêté du 3 février 2020 fixant le programme d'enseignement de physique-chimie des classes de première et terminale préparant au baccalauréat professionnel et des classes de deuxième et troisième années préparant au brevet national des métiers d'art.
 
-La spécialité « Bijouterie » de brevet national des métiers d'art est rattachée au groupement 4.
+La spécialité "Bijouterie" de brevet national des métiers d'art est rattachée au groupement 6.
 
 Unités constitutives professionnelles
 
 La définition du contenu des unités constitutives professionnelles (U2 - U31- U32) a pour but de préciser pour chacune d'elles, les blocs de compétences visés dans un contexte professionnel donné, il s'agit à la fois :
 
-- de permettre la mise en correspondance des activités professionnelles et des unités dans le cadre du dispositif de « validation des acquis de l'expérience » (V.A.E.) ;
+- de permettre la mise en correspondance des activités professionnelles et des unités dans le cadre du dispositif de "validation des acquis de l'expérience" (V.A.E.) ;
 
 - d'établir la liaison entre les unités, correspondant aux épreuves, et le référentiel d'activités professionnelles afin de préciser le cadre de l'évaluation.
 
@@ -112,31 +112,31 @@ UNITÉ U2
 
 Etude d'une demande de réalisation d'un ouvrage en bijouterie
 
-Le contenu sur lequel repose l'unité U2 correspond aux compétences du bloc n° 1 « Etudier une demande de réalisation d'un ouvrage en bijouterie » défini dans l'annexe III « référentiel de compétences ».
+Le contenu sur lequel repose l'unité U2 correspond aux compétences du bloc n° 1 "Etudier une demande de réalisation d'un ouvrage en bijouterie" défini dans l'annexe III "référentiel de compétences".
 
 UNITÉ U31
 
 Proposition de réponses préalables à la réalisation d'un ouvrage en bijouterie
 
-Le contenu sur lequel repose l'unité U31 correspond aux compétences du bloc n° 2 « Proposer des réponses préalables à la réalisation d'un ouvrage en bijouterie » défini dans l'annexe III « référentiel de compétences ».
+Le contenu sur lequel repose l'unité U31 correspond aux compétences du bloc n° 2 "Proposer des réponses préalables à la réalisation d'un ouvrage en bijouterie" défini dans l'annexe III "référentiel de compétences".
 
 UNITÉ U32-A
 
 Réalisation d'un ouvrage en bijouterie joaillerie
 
-Le contenu sur lequel repose l'unité U32-A correspond aux compétences communes et spécifiques du bloc n° 3-A « Réaliser un ouvrage en bijouterie joaillerie » défini dans l'annexe III « référentiel de compétences ».
+Le contenu sur lequel repose l'unité U32-A correspond aux compétences communes et spécifiques du bloc n° 3-A "Réaliser un ouvrage en bijouterie joaillerie" défini dans l'annexe III "référentiel de compétences".
 
 UNITÉ U32-B
 
 Réalisation d'un sertissage en bijouterie
 
-Le contenu sur lequel repose l'unité U32-B correspond aux compétences communes et spécifiques du bloc n° 3-B « Réaliser un sertissage en bijouterie » défini dans l'annexe III « référentiel de compétences ».
+Le contenu sur lequel repose l'unité U32-B correspond aux compétences communes et spécifiques du bloc n° 3-B "Réaliser un sertissage en bijouterie" défini dans l'annexe III "référentiel de compétences".
 
 UNITÉ U32-C
 
 Réalisation du polissage et d'une finition en bijouterie
 
-Le contenu sur lequel repose l'unité U32-C correspond aux compétences communes et spécifiques du bloc n° 3-C « Réaliser le polissage et une finition en bijouterie » défini dans l'annexe III « référentiel de compétences ».
+Le contenu sur lequel repose l'unité U32-C correspond aux compétences communes et spécifiques du bloc n° 3-C "Réaliser le polissage et une finition en bijouterie" défini dans l'annexe III "référentiel de compétences".
 
 UNITÉ U33
 
@@ -206,7 +206,7 @@ IV.2. Règlement d'examen
 
 BREVET NATIONAL DES MÉTIERS D'ART
 
-« Bijouterie » |
+"Bijouterie" |
 
 Origine des candidats |
 
@@ -624,7 +624,7 @@ Coefficient 3
 
 Notée sur 60 points |
 
-L'épreuve a pour objectif d'évaluer, chez les candidats, le niveau de maîtrise des compétences nécessaires aux activités du pôle 1 - « Etude d'une demande de réalisation d'un ouvrage en bijouterie » :
+L'épreuve a pour objectif d'évaluer, chez les candidats, le niveau de maîtrise des compétences nécessaires aux activités du pôle 1 - "Etude d'une demande de réalisation d'un ouvrage en bijouterie" :
 
 C1 - Identifier et déterminer les besoins et les contraintes de la demande
 
@@ -648,7 +648,7 @@ CONTENU DE L'ÉPREUVE
 
 Cette épreuve s'appuie sur une situation professionnelle contextualisée. Le candidat est amené à étudier un ensemble de ressources (audiovisuelles, visuelles ou écrites) constitué d'informations techniques, esthétiques, stylistiques ou historiques.
 
-A partir du dossier ressources et de ses connaissances, au travers d'une analyse écrite et graphique, il s'agit de vérifier les aptitudes du candidat à mobiliser les compétences du bloc 1 : « Etudier une demande de réalisation d'un ouvrage en bijouterie ».
+A partir du dossier ressources et de ses connaissances, au travers d'une analyse écrite et graphique, il s'agit de vérifier les aptitudes du candidat à mobiliser les compétences du bloc 1 : "Etudier une demande de réalisation d'un ouvrage en bijouterie".
 
 Pour ce faire, le candidat procède à :
 
@@ -720,7 +720,7 @@ Coefficient 4
 
 Notée sur 80 points |
 
-L'épreuve a pour objectif d'évaluer, chez les candidats, le niveau de maîtrise des compétences nécessaires aux activités du pôle 2 : « Proposition de réponses préalable à la réalisation d'un ouvrage en bijouterie »
+L'épreuve a pour objectif d'évaluer, chez les candidats, le niveau de maîtrise des compétences nécessaires aux activités du pôle 2 : "Proposition de réponses préalable à la réalisation d'un ouvrage en bijouterie"
 
 C4 - Répondre avec méthode à une demande de réalisation
 
@@ -802,7 +802,7 @@ Coefficient 10
 
 Notée sur 200 points |
 
-L'épreuve a pour objectif d'évaluer, chez les candidats, le niveau de maîtrise des compétences communes et spécifiques aux 3 options, selon le choix effectué par le candidat, et nécessaires aux activités du pôle 3 : « Réalisation d'un ouvrage en bijouterie »
+L'épreuve a pour objectif d'évaluer, chez les candidats, le niveau de maîtrise des compétences communes et spécifiques aux 3 options, selon le choix effectué par le candidat, et nécessaires aux activités du pôle 3 : "Réalisation d'un ouvrage en bijouterie"
 
 C09 - Organiser et mettre en sécurité les postes de travail
 
@@ -828,15 +828,15 @@ A partir d'une demande contextualisée, le candidat réalise tout ou partie d'un
 
 Pour l'option bijouterie joaillerie :
 
-L'évaluation porte sur les compétences communes et spécifiques à l'option bijouterie joaillerie, présentes dans le bloc 3-A : « Réaliser un ouvrage en bijouterie joaillerie ».
+L'évaluation porte sur les compétences communes et spécifiques à l'option bijouterie joaillerie, présentes dans le bloc 3-A : "Réaliser un ouvrage en bijouterie joaillerie".
 
 Pour l'option bijouterie sertissage :
 
-L'évaluation porte sur les compétences communes et spécifiques à l'option bijouterie sertissage, présentes dans le bloc 3-B : « Réaliser un sertissage en bijouterie ».
+L'évaluation porte sur les compétences communes et spécifiques à l'option bijouterie sertissage, présentes dans le bloc 3-B : "Réaliser un sertissage en bijouterie".
 
 Pour l'option bijouterie polissage finition :
 
-L'évaluation porte sur les compétences communes et spécifiques à l'option bijouterie polissage finition, présentes dans le bloc 3-C : « Réaliser le polissage et une finition en bijouterie ».
+L'évaluation porte sur les compétences communes et spécifiques à l'option bijouterie polissage finition, présentes dans le bloc 3-C : "Réaliser le polissage et une finition en bijouterie".
 
 Cette sous-épreuve est constituée de 2 parties consécutives et indépendantes.
 

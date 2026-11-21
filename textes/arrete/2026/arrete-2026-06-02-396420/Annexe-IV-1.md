@@ -82,7 +82,7 @@ Pour la classe de première année, le programme sur lequel repose l'unité est 
 
 Pour les classes de deuxième et de troisième année, le programme sur lequel repose l'unité est défini par l'arrêté du 3 février 2020 modifié fixant le programme d'enseignement de mathématiques des classes de première et terminale préparant au baccalauréat professionnel et des classes de deuxième et troisième années préparant au brevet national des métiers d'art.
 
-La spécialité « Ebénisterie » de brevet national des métiers d'art est rattachée au groupement A.
+La spécialité "Ebénisterie" de brevet national des métiers d'art est rattachée au groupement B.
 
 UNITÉ U12
 
@@ -92,13 +92,13 @@ Pour la classe de première année, le programme sur lequel repose l'unité est 
 
 Pour les classes de deuxième et de troisième année, le programme sur lequel repose l'unité est défini par l'arrêté du 3 février 2020 modifié fixant le programme d'enseignement de physique-chimie des classes de première et terminale préparant au baccalauréat professionnel et des classes de deuxième et troisième années préparant au brevet national des métiers d'art.
 
-La spécialité « Ebénisterie » de brevet national des métiers d'art est rattachée au groupement 3.
+La spécialité "Ebénisterie" de brevet national des métiers d'art est rattachée au groupement 6.
 
 Unités constitutives professionnelles
 
 La définition du contenu des unités constitutives professionnelles (U2 - U31- U32) a pour but de préciser pour chacune d'elles, les blocs de compétences visés dans un contexte professionnel donné, il s'agit à la fois :
 
-- de permettre la mise en correspondance des activités professionnelles et des unités dans le cadre du dispositif de « validation des acquis de l'expérience » (VAE) ;
+- de permettre la mise en correspondance des activités professionnelles et des unités dans le cadre du dispositif de "validation des acquis de l'expérience" (VAE) ;
 
 - d'établir la liaison entre les unités, correspondant aux épreuves, et le référentiel d'activités professionnelles afin de préciser le cadre de l'évaluation.
 
@@ -106,19 +106,19 @@ UNITÉ U2
 
 Etude d'une demande de réalisation d'un ouvrage en ébénisterie
 
-Le contenu sur lequel repose l'unité U2 correspond aux compétences du bloc n° 1 « Etudier une demande de réalisation d'un ouvrage en ébénisterie » défini dans l'annexe III « référentiel de compétences ».
+Le contenu sur lequel repose l'unité U2 correspond aux compétences du bloc n° 1 "Etudier une demande de réalisation d'un ouvrage en ébénisterie" défini dans l'annexe III "référentiel de compétences".
 
 UNITÉ U31
 
 Proposition de réponses préalables à la réalisation d'un ouvrage en ébénisterie
 
-Le contenu sur lequel repose l'unité U31 correspond aux compétences du bloc n° 2 « Proposer des réponses préalables à la réalisation d'un ouvrage en ébénisterie » défini dans l'annexe III « référentiel de compétences ».
+Le contenu sur lequel repose l'unité U31 correspond aux compétences du bloc n° 2 "Proposer des réponses préalables à la réalisation d'un ouvrage en ébénisterie" défini dans l'annexe III "référentiel de compétences".
 
 UNITÉ U32
 
 Réalisation d'un ouvrage en ébénisterie
 
-Le contenu sur lequel repose l'unité U32 correspond aux compétences du bloc n° 3 « Réaliser un ouvrage en ébénisterie » défini dans l'annexe III « référentiel de compétences ».
+Le contenu sur lequel repose l'unité U32 correspond aux compétences du bloc n° 3 "Réaliser un ouvrage en ébénisterie" défini dans l'annexe III "référentiel de compétences".
 
 UNITÉ U33
 

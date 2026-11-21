@@ -58,11 +58,15 @@ Education physique et sportive |
 
 UF1- UF2
 
-Unité(s) à choisir parmi les 2 unités ci-contre |
+Unité(s) à choisir parmi les 2 unités ci-contre
+
+|
 
 Langue vivante étrangère régionale ou langue de signes
 
-Mobilité |
+Mobilité
+
+|
 
 UNITÉ U11
 
@@ -72,7 +76,7 @@ Pour la classe de première année, le programme sur lequel repose l'unité est 
 
 Pour les classes de deuxièmes et troisièmes années, le programme sur lequel repose l'unité est défini par l'arrêté du 3 février 2020 modifié fixant le programme d'enseignement de mathématiques des classes de première et terminale préparant au baccalauréat professionnel et des classes de deuxièmes et troisièmes années préparant au brevet national des métiers d'art.
 
-Le brevet national des métiers d'art "Maroquinerie de haute facture" est rattaché au groupement A pour les mathématiques.
+Le brevet national des métiers d'art "Maroquinerie de haute facture" est rattaché au groupement B pour les mathématiques.
 
 UNITÉ U12
 
@@ -182,7 +186,9 @@ IV.2. Règlement d'examen
 
 BREVET NATIONAL DES MÉTIERS D'ART
 
-"Maroquinerie de haute facture" |
+"Maroquinerie de haute facture"
+
+|
 
 Origine des candidats |
 
@@ -194,7 +200,9 @@ Origine des candidats |
 
 - apprentis dans un CFA habilité au CCF ;
 
-- stagiaires de la formation professionnelle continue dans un établissement public. |
+- stagiaires de la formation professionnelle continue dans un établissement public.
+
+|
 
 - élèves dans un établissement privé hors contrat ;
 
@@ -204,7 +212,9 @@ Origine des candidats |
 
 - candidats de l'enseignement à distance ;
 
-- candidats justifiant de 3 années d'activités professionnelles. |
+- candidats justifiant de 3 années d'activités professionnelles.
+
+|
 
 Stagiaires de la formation professionnelle continue dans un établissement public habilité au CCF intégral. |
 
@@ -246,7 +256,9 @@ E1 : Epreuve de mathématiques et physique-chimie |
 
 Sous-épreuve E11
 
-Mathématiques |
+Mathématiques
+
+|
 
 U11 |
 
@@ -266,7 +278,9 @@ CCF |
 
 Sous-épreuve E12
 
-Physique-chimie |
+Physique-chimie
+
+|
 
 U12 |
 
@@ -322,7 +336,9 @@ E3 : Proposition de réponses et réalisation d'un ouvrage en Maroquinerie de ha
 
 Sous-épreuve E31
 
-Proposition de réponses préalables à la réalisation d'un ouvrage en maroquinerie de haute facture |
+Proposition de réponses préalables à la réalisation d'un ouvrage en maroquinerie de haute facture
+
+|
 
 U31 |
 
@@ -342,7 +358,9 @@ CCF |
 
 Sous-épreuve E32-A
 
-Réalisation d'un ouvrage en maroquinerie de haute facture option maroquinerie |
+Réalisation d'un ouvrage en maroquinerie de haute facture option maroquinerie
+
+|
 
 U32 A |
 
@@ -362,7 +380,9 @@ CCF |
 
 Sous-épreuve E32 -B
 
-Réalisation d'un ouvrage en maroquinerie de haute facture option malleterie |
+Réalisation d'un ouvrage en maroquinerie de haute facture option malleterie
+
+|
 
 U32 B |
 
@@ -382,7 +402,9 @@ CCF |
 
 Sous-épreuve E33
 
-Économie-gestion |
+Économie-gestion
+
+|
 
 U34 |
 
@@ -394,7 +416,9 @@ Ponctuel écrit |
 
 Ponctuel
 
-écrit |
+écrit
+
+|
 
 2 h |
 
@@ -404,7 +428,9 @@ CCF |
 
 Sous-épreuve E34
 
-Prévention-santé-environnement |
+Prévention-santé-environnement
+
+|
 
 U35 |
 
@@ -436,7 +462,9 @@ Ponctuel écrit et oral |
 
 1 h +
 
-10 mn |
+10 mn
+
+|
 
 CCF |
 
@@ -462,7 +490,9 @@ U5 |
 
 Sous-épreuve E51
 
-Français |
+Français
+
+|
 
 U51 |
 
@@ -474,7 +504,9 @@ Ponctuel écrit |
 
 Ponctuel
 
-écrit |
+écrit
+
+|
 
 3 h |
 
@@ -484,7 +516,9 @@ CCF |
 
 Sous-épreuve E52
 
-Histoire-géographie et enseignement moral et civique |
+Histoire-géographie et enseignement moral et civique
+
+|
 
 U52 |
 
@@ -496,7 +530,9 @@ Ponctuel écrit |
 
 Ponctuel
 
-écrit |
+écrit
+
+|
 
 2 h 30 |
 
@@ -526,7 +562,9 @@ Epreuves facultatives (1)
 
 EF1
 
-EF2 |
+EF2
+
+|
 
 UF1 UF2 |
 
@@ -546,7 +584,9 @@ UF1 UF2 |
 
 (1) Le candidat peut choisir une ou deux unités facultatives parmi les unités possibles, les conditions sont fixées par la réglementation en vigueur. La langue vivante choisie au titre de l'épreuve facultative est obligatoirement différente de celle choisie au titre de l'épreuve obligatoire.
 
-Seuls les points excédant 10 sont pris en compte pour le calcul de la moyenne générale en vue de l'obtention du diplôme et de l'attribution d'une mention. |
+Seuls les points excédant 10 sont pris en compte pour le calcul de la moyenne générale en vue de l'obtention du diplôme et de l'attribution d'une mention.
+
+|
 
 IV.3 Définition des épreuves.
 
@@ -556,11 +596,15 @@ Définition des épreuves
 
 ÉPREUVE E1
 
-ÉPREUVE DE MATHÉMATIQUES ET PHYSIQUE-CHIMIE |
+ÉPREUVE DE MATHÉMATIQUES ET PHYSIQUE-CHIMIE
+
+|
 
 UNITÉ U1
 
-Coefficient 4 |
+Coefficient 4
+
+|
 
 Cette épreuve comporte deux sous-épreuves :
 
@@ -584,19 +628,27 @@ La définition de la sous-épreuve actuellement en vigueur est celle fixée dans
 
 ÉTUDE D'UNE DEMANDE DE RÉALISATION
 
-D'UN OUVRAGE EN MAROQUINERIE DE HAUTE FACTURE |
+D'UN OUVRAGE EN MAROQUINERIE DE HAUTE FACTURE
+
+|
 
 UNITÉ U2
 
-Coefficient 3 |
+Coefficient 3
+
+|
 
 ÉPREUVE E2
 
-ÉTUDE D'UNE DEMANDE DE RÉALISATION D'UN OUVRAGE EN MAROQUINERIE DE HAUTE FACTURE |
+ÉTUDE D'UNE DEMANDE DE RÉALISATION D'UN OUVRAGE EN MAROQUINERIE DE HAUTE FACTURE
+
+|
 
 Coefficient 3
 
-Notée sur 60 points |
+Notée sur 60 points
+
+|
 
 L'épreuve a pour objectif d'évaluer, chez les candidats, le niveau de maîtrise des compétences nécessaires aux activités du pôle 1 : "Etude d'une demande de réalisation d'un ouvrage en maroquinerie de haute facture" :
 
@@ -604,7 +656,9 @@ C1 - Identifier et déterminer les besoins et les contraintes de la demande
 
 C2 - Interpréter les caractéristiques de la demande
 
-C3 - Organiser et enrichir une documentation |
+C3 - Organiser et enrichir une documentation
+
+|
 
 ÉPREUVE
 
@@ -612,11 +666,15 @@ C3 - Organiser et enrichir une documentation |
 
 ET
 
-GRAPHIQUE |
+GRAPHIQUE
+
+|
 
 DURÉE
 
-3h |
+3h
+
+|
 
 Contenu de l'épreuve
 
@@ -670,11 +728,15 @@ L'épreuve se déroule en salle, obligatoirement dans un centre d'examen, où ch
 
 ÉPREUVE E3
 
-PROPOSITION DE RÉPONSES ET RÉALISATION D'UN OUVRAGE EN MAROQUINERIE DE HAUTE FACTURE |
+PROPOSITION DE RÉPONSES ET RÉALISATION D'UN OUVRAGE EN MAROQUINERIE DE HAUTE FACTURE
+
+|
 
 UNITÉ U3
 
-Coefficient 16 |
+Coefficient 16
+
+|
 
 Cette épreuve comporte quatre sous-épreuves :
 
@@ -698,15 +760,21 @@ C5 - Documenter la réponse
 
 C6 - Proposer des solutions, les étapes et les conditions de réalisation
 
-C7 - Informer, argumenter, interagir et conseiller sur l'ouvrage à réaliser |
+C7 - Informer, argumenter, interagir et conseiller sur l'ouvrage à réaliser
+
+|
 
 ÉPREUVE
 
-ORALE |
+ORALE
+
+|
 
 DURÉE
 
-20mn |
+20mn
+
+|
 
 Contenu de la sous-épreuve
 
@@ -762,11 +830,15 @@ RÉALISATION D'UN OUVRAGE EN MAROQUINERIE DE HAUTE FACTURE (épreuve à options)
 
 SOUS-ÉPREUVE E32-A : RÉALISATION D'UN OUVRAGE EN MAROQUINERIE DE HAUTE FACTURE option MAROQUINERIE
 
-SOUS-ÉPREUVE E32-B : RÉALISATION D'UN OUVRAGE EN MAROQUINERIE DE HAUTE FACTURE option MALLETERIE |
+SOUS-ÉPREUVE E32-B : RÉALISATION D'UN OUVRAGE EN MAROQUINERIE DE HAUTE FACTURE option MALLETERIE
+
+|
 
 Coefficient 10
 
-Notée sur 200 points |
+Notée sur 200 points
+
+|
 
 L'épreuve a pour objectif d'évaluer, chez les candidats, le niveau de maîtrise des compétences communes et spécifiques aux 2 options, selon le choix effectué par le candidat, et nécessaires aux activités du pôle 3 : "Réalisation d'un ouvrage en maroquinerie de haute facture"
 
@@ -786,13 +858,17 @@ C14 - Assurer la traçabilité documentaire et clore le dossier
 
 C15 - Assurer la maintenance de premier niveau des matériels et des postes de travail
 
-C16 - Réparer un ouvrage de maroquinerie de haute facture |
+C16 - Réparer un ouvrage de maroquinerie de haute facture
+
+|
 
 PRATIQUE |
 
 DURÉE
 
-24 h |
+24 h
+
+|
 
 Contenu de la sous-épreuve
 
@@ -862,7 +938,9 @@ La définition de la sous-épreuve actuellement en vigueur est celle fixée dans
 
 ÉPREUVE E4
 
-LANGUE VIVANTE |
+LANGUE VIVANTE
+
+|
 
 UNITÉ U4 - Coefficient 2 |
 
@@ -872,7 +950,9 @@ La définition de l'épreuve actuellement en vigueur est celle fixée dans l'ann
 
 FRANÇAIS, HITOIRE-GÉOGRAPHIE
 
-ET ENSEIGNEMENT MORAL ET CIVIQUE |
+ET ENSEIGNEMENT MORAL ET CIVIQUE
+
+|
 
 UNITÉ U5 - Coefficient 5 |
 
@@ -890,7 +970,9 @@ La définition de la sous-épreuve actuellement en vigueur est celle fixée dans
 
 Sous-épreuve E51 HISTOIRE-GÉOGRAPHIE
 
-ET ENSEIGNEMENT MORAL ET CIVIQUE |
+ET ENSEIGNEMENT MORAL ET CIVIQUE
+
+|
 
 Unité U52 - Coefficient 2,5 |
 
@@ -898,7 +980,9 @@ La définition de la sous-épreuve actuellement en vigueur est celle fixée dans
 
 ÉPREUVE E6
 
-ÉDUCATION PHYSIQUE ET SPORTIVE |
+ÉDUCATION PHYSIQUE ET SPORTIVE
+
+|
 
 UNITÉ U6 - Coefficient 1 |
 
