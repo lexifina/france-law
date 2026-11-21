@@ -1,6 +1,6 @@
 # Article 2 duodecies
 
-Pour l'application du premier alinéa du j du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et de ressources du locataire sont les suivants :
+Pour l'application du premier alinéa du j du 1° du I de l'article 31 du code général des impôts, dans sa version en vigueur au 30 décembre 2023, les plafonds de loyer et de ressources du locataire sont les suivants :
 
 a) Pour les baux conclus en 2022, les plafonds de loyer mensuel, charges non comprises, sont fixés à 19,36 € par mètre carré en zone A, 12,65 € en zone B et 9,18 € en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa de l'article L. 353-9-2 du code de la construction et de l'habitation, et arrondis au centime d'euro le plus proche. Toutefois, pour les conventions conclues à compter du 1er janvier 2015 pour l'application du premier alinéa du m du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer sont égaux à ceux fixés au 1 du I de l'article 2 terdecies D, ou, le cas échéant, en application du III de ce même article, ou, pour les logements situés en outre-mer, au 1 du I de l'article 2 terdecies F, ou, le cas échéant, en application du III de ce même article. Pour ces mêmes conventions, les plafonds de loyer applicables pour les logements situés dans la zone C sont égaux à ceux fixés au présent alinéa pour les logements situés dans la zone B2 du 1 du I de l'article 2 terdecies D précité. Les plafonds fixés par arrêté du représentant de l'Etat dans la région en application des III des articles 2 terdecies D et 2 terdecies F ne s'appliquent qu'aux conventions conclues à compter de l'entrée en vigueur de l'arrêté.
 
@@ -83,7 +83,3 @@ Ces plafonds sont révisés au 1er janvier de chaque année en fonction de l'év
 Toutefois, pour les conventions conclues à compter du 1er janvier 2015 pour l'application du premier alinéa du m du 1° du I de l'article 31 du code général des impôts, les plafonds annuels de ressources sont égaux à ceux fixés au 2 du I de l'article 2 terdecies D, ou, pour les logements situés en outre-mer, au 2 du I de l'article 2 terdecies F. Pour ces mêmes conventions, les plafonds annuels de ressources applicables pour les logements situés dans la zone C sont égaux à ceux fixés au présent alinéa pour les logements situés dans la zone B2 du tableau annexé au a du 2 du I de l'article 2 terdecies D précité.
 
 Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à 196 B du code général des impôts.
-
-NOTA :
-
-Modifications effectuées en conséquence de l'article 1er-I du décret n° 2010-1601 du 20 décembre 2010 et de l'article 2-2° et 3° du décret n° 2014-1102 du 30 septembre 2014.
