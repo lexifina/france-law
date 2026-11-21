@@ -668,11 +668,15 @@ SERVICE DE LA PUBLICITE FONCIERE DU VAL D'OISE |
 
 Toutes les communes du département |
 
-971 - GUADELOUPE |
+971 - GUADELOUPE
+
+|
 
 SERVICE DE LA PUBLICITE FONCIERE ET DE L'ENREGISTREMENT POINTE-A-PITRE |
 
-Toutes les communes du département |
+Toutes les communes du département ainsi que les collectivités d'outre-mer de Saint-Martin et de Saint-Barthélemy
+
+|
 
 972 - MARTINIQUE |
 
@@ -691,7 +695,3 @@ Toutes les communes du département |
 SERVICE DE LA PUBLICITE FONCIERE ET DE L'ENREGISTREMENT DE LA REUNION |
 
 Toutes les communes du département |
-
-NOTA :
-
-Conformément à l'article 2 de l'arrêté du 24 septembre 2026 (NOR : CPPE2624715A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur au 1er octobre 2026.
