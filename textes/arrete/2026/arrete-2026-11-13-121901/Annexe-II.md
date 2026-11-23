@@ -1,0 +1,47 @@
+# Article Annexe II
+
+ANNEXE 2
+
+RÉPARTITION DES PLACES DANS LES CLASSES (SECTION VÉTÉRINAIRE)
+
+LEGTA Rodez La Roque à Rodez |
+
+5 |
+
+LEGTPA de Bordeaux-Blanquefort à Blanquefort |
+
+6 |
+
+LEGTPA Dijon Quetigny à Quetigny |
+
+5 |
+
+LEGTA Frédéric Bazille-Agropolis à Montpellier |
+
+5 |
+
+LEGTPA de Besançon à Dannemarie Sur Crete |
+
+5 |
+
+LEGTA Théodore Monod à Le Rheu |
+
+5 |
+
+LEGTA Bourg Les Valence à Bourg Les Valence |
+
+5 |
+
+LEGTPA Louis Pasteur
+
+Site de Marmilhat à Lempdes |
+
+5 |
+
+LEGTA Toulouse Auzeville à Castanet Tolosan |
+
+6 |
+
+LEGTA Amiens Le Paraclet à Cottenchy |
+
+5 |
