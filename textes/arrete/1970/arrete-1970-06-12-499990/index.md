@@ -3,6 +3,7 @@
 - Nature : Arrete
 - Date du texte : 1970-06-12
 - Publication au JORF : 1970-06-19
+- NOR : LGFX0829538A
 - Identifiant LEGI : LEGITEXT000026499990
 - Identifiant JORF : JORFTEXT000000829538
 - Sur Légifrance : https://www.legifrance.gouv.fr/loda/id/LEGITEXT000026499990
