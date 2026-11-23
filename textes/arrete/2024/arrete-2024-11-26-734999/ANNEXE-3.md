@@ -1,6 +1,4 @@
-# Article LEGIARTI000050735054
-
-ANNEXE 3
+# Article ANNEXE 3
 
 DEMANDE DE LICENCE FILET GRANDE MAILLE AU LARGE DE LA MANCHE OUEST (1ER JANVIER AU 31 DÉCEMBRE)
 
@@ -82,7 +80,9 @@ Nom du navire précédent et engin utilisé lors de la campagne précédente :
 
 □ Renouvellement avec changement d'armateur
 
-□ Autre demande |
+□ Autre demande
+
+|
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
 
@@ -102,7 +102,7 @@ a) Les champs obligatoires (identifiés par *) sont renseignés (le n° de Redev
 
 - copie du permis d'armement du navire pour toute demande (sauf pour les poursuites de réservation) ;
 
-- copie du dossier de demande de PME pour les demandes de réservation de licence en application de l'article 6 de la délibération cadre « Filet grande maille au large de la Manche Ouest » ;
+- copie du dossier de demande de PME pour les demandes de réservation de licence en application de l'article 6 de la délibération cadre "Filet grande maille au large de la Manche Ouest" ;
 
 - copie de la prolongation de la décision de réservation ou le permis de mise en exploitation ainsi que tout élément de preuve du commencement de réalisation de l'opération projetée, pour les demandes en poursuite de réservation.
 
@@ -110,10 +110,12 @@ LES DOSSIERS INCOMPLETS OU RECUS APRÈS LA DATE LIMITE DE DÉPOT NE SERONT PAS I
 
 MENTION SUR LA PROTECTION DES DONNEES PERSONNELLES |
 
-Les données personnelles recueillies par ce formulaire font l'objet d'un traitement informatique par le CNPMEM en vue de l'attribution des licences « Filet grande maille au large de la Manche Ouest », pour le suivi de la pêche à l'aide de ces engins sur la zone à des fins statistiques et la réalisation des opérations de contrôle de celle-ci, en application des articles L. 912-1 et suivants et R. 912-1 et suivants du Code rural et de la pêche maritime ainsi qu'à la délibération relative au régime relatif à l'exercice de la pêche au filet grande maille au large de la Manche Ouest (zones VII e et h).
+Les données personnelles recueillies par ce formulaire font l'objet d'un traitement informatique par le CNPMEM en vue de l'attribution des licences "Filet grande maille au large de la Manche Ouest", pour le suivi de la pêche à l'aide de ces engins sur la zone à des fins statistiques et la réalisation des opérations de contrôle de celle-ci, en application des articles L. 912-1 et suivants et R. 912-1 et suivants du Code rural et de la pêche maritime ainsi qu'à la délibération relative au régime relatif à l'exercice de la pêche au filet grande maille au large de la Manche Ouest (zones VII e et h).
 
 Pour la réalisation de la finalité précitée, les données sont partagées entre le CRPMEM de rattachement et le CNPMEM. Elles sont susceptibles d'être transférées à des tiers, notamment les administrations légalement habilitées (DGAMPA, DIRM(s), services en charge du contrôle des pêches, etc.). Une extraction partielle de ces données peut être transmise aux Comités des pêches maritimes, aux organisations de producteurs et aux administrations centrales et locales. Le partage de ces données et leur communication sont indispensables pour mener à bien la finalité précitée. Ces données sont conservées pendant dix années.
 
 Conformément au règlement (UE) 2016/679 du 27 avril 2016 et la loi n° 78-17 du 6 janvier 1978 modifiée, vous pouvez accéder à vos données ou demander leur effacement. Vous disposez également d'un droit d'opposition, d'un droit de rectification et d'un droit à la limitation du traitement de vos données hormis dans les cas où la règlementation ne permet pas l'exercice de ces droits. Pour exercer ces droits ou pour toute question sur le traitement de vos données, vous pouvez contacter le CNPMEM.
 
-Toute réclamation peut être introduite auprès de la Commission nationale de l'informatique et des libertés. |
+Toute réclamation peut être introduite auprès de la Commission nationale de l'informatique et des libertés.
+
+|
