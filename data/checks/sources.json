@@ -1,0 +1,61 @@
+{
+ "sources": [
+  {
+   "id": "legi",
+   "kind": "legislation",
+   "name": {
+    "en": "LEGI, DILA's open data of consolidated law (the data behind Légifrance)",
+    "fr": "LEGI, données ouvertes de la DILA sur le droit consolidé (les données de Légifrance)"
+   },
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/LEGI/",
+   "reads": {
+    "en": "the list of LEGI archives and each new daily increment (every article, structure and version file DILA added or changed that day, and the files it withdrew), applied to a full copy of LEGI kept from DILA's full dump; every article file held here compared with it each day",
+    "fr": "la liste des archives LEGI et chaque nouvel incrément quotidien (tous les fichiers d’article, de structure et de version que la DILA a ajoutés ou modifiés ce jour-là, et ceux qu’elle a retirés), appliqués à une copie complète de LEGI tenue depuis l’export intégral de la DILA ; chaque fichier d’article de ce dépôt comparé chaque jour"
+   },
+   "folders": [
+    "constitution/",
+    "codes/",
+    "textes/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "france/national/acts"
+   ],
+   "interval": 1.0
+  },
+  {
+   "id": "other-sources",
+   "kind": "legislation",
+   "name": {
+    "en": "This repository's other sources (Journal officiel, KALI, ACCO, CNIL, circulaires, Parliament, local authorities)",
+    "fr": "Les autres sources de ce dépôt (Journal officiel, KALI, ACCO, CNIL, circulaires, Parlement, collectivités)"
+   },
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/",
+   "reads": {
+    "en": "—",
+    "fr": "—"
+   },
+   "folders": [
+    "journal-officiel/",
+    "conventions-collectives/",
+    "accords-entreprise/",
+    "parlement/",
+    "circulaires/",
+    "autorites/",
+    "collectivites/",
+    "doctrine/",
+    "historique/"
+   ],
+   "schedule": "none",
+   "state": "not-yet-watched",
+   "note": {
+    "en": "outside corpus.json's scope (LEGI); their updates are not read by the check trail yet",
+    "fr": "hors du périmètre de corpus.json (LEGI) ; leurs mises à jour ne sont pas encore lues par le journal des vérifications"
+   },
+   "corpora": [
+    "france/national/acts"
+   ]
+  }
+ ]
+}
