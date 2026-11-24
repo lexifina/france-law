@@ -8,8 +8,8 @@ Comment global-law mesure l’actualité de chaque pays : [global-law FRESHNESS.
 
 ### LEGI, données ouvertes de la DILA sur le droit consolidé (les données de Légifrance) · `france/national/acts`
 
-- Dernière lecture de la source officielle, chaque acte de ce dépôt comparé à elle : **2026-11-23 15:12 UTC**.
-- Actes dans ce dépôt : 119 330 ; à jour par rapport à la source : 119 330 ; modifiés à la source depuis la version d’ici : 0 ; plus à la source : 0.
-- Non publiés : 131 (en vigueur plus tard: 131) ; sans motif : 0.
+- Dernière lecture de la source officielle, chaque acte de ce dépôt comparé à elle : **2026-11-24 05:07 UTC**.
+- Actes dans ce dépôt : 119 371 ; à jour par rapport à la source : 119 371 ; modifiés à la source depuis la version d’ici : 0 ; plus à la source : 0.
+- Non publiés : 133 (en vigueur plus tard: 133) ; sans motif : 0.
 
 En détail : [monitoring/](monitoring/README.md). Pour les programmes : [data/checks/latest.json](data/checks/latest.json).

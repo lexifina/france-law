@@ -8,8 +8,8 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### LEGI, DILA's open data of consolidated law (the data behind Légifrance) · `france/national/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-23 15:12 UTC**.
-- Acts held here: 119 330; current at the source: 119 330; changed at the source since the version held here: 0; no longer at the source: 0.
-- Not published: 131 (in force later: 131); with no reason: 0.
+- The official source last read and every act held here checked against it: **2026-11-24 05:07 UTC**.
+- Acts held here: 119 371; current at the source: 119 371; changed at the source since the version held here: 0; no longer at the source: 0.
+- Not published: 133 (in force later: 133); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.en.md). For programs: [data/checks/latest.json](data/checks/latest.json).
