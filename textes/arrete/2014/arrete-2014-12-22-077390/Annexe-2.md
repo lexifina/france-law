@@ -1702,6 +1702,8 @@ Conformément à l’article 2 de l’arrêté du 20 juillet 2022 (NOR : ENER221
 
 Conformément à l'article 1 de l'arrêté du 20 décembre 2022 (NOR : ENER2234942A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er avril 2023.
 
+Conformément à l'article 1er de l'arrêté du 20 novembre 2026 (NOR : ECOR2631028A), la fiche d'opération standardisée mentionnée portant la référence BAR-TH-159 figurant dans la présente annexe est supprimée. Les dispositions de la fiche d'opération standardisée, dans ses différentes versions, s'appliquent aux opérations achevées au plus tard six mois après l'entrée en vigueur de l'arrêté précité et incluses dans une liste transmise dans un délai de trente jours calendaires à compter de la date de publication dudit arrêté, par le demandeur de certificats au ministre chargé de l'énergie, suivant le modèle : "Tableau de recensement des engagements BAR-TH-159", établi par la direction générale de l'énergie et du climat et mis à disposition sur le site internet du ministère.
+
 Opération n° BAR-TH-161
 
 Isolation de points singuliers d'un réseau |
