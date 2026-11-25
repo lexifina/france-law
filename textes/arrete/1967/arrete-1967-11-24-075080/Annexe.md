@@ -128,8 +128,42 @@ https://www.legifrance.gouv.fr/download/pdf?id=rb8gm4rObqLryfLTFw-FBTj6UFbgHwXsc
 
 https://www.legifrance.gouv.fr/download/pdf?id=rb8gm4rObqLryfLTFw-FBTj6UFbgHwXsc1xpBHveUmo=
 
-9° Dans la description du panneau KR43, les mots : &laquo; adjacente indiquée &raquo; sont remplacés par : &laquo; ou les voies laissées libres à la circulation du côté désigné par la flèche. &raquo;
+9° Dans la description du panneau KR43, les mots : "adjacente indiquée" sont remplacés par : "ou les voies laissées libres à la circulation du côté désigné par la flèche."
 
-10° La figure représentant le signal &laquo; KR44 &raquo; est remplacée par la figure accessible à l'adresse suivante :
+10° La figure représentant le signal "KR44" est remplacée par la figure accessible à l'adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=rb8gm4rObqLryfLTFw-FBTj6UFbgHwXsc1xpBHveUmo=
+
+Les modèles des signaux mentionnés à l’arrêté du 6 novembre 2026 figurent à l’adresse suivante :
+
+1° Les illustrations du panneau C24a sont complétées par l'image suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=AMHNkeZBop8LMm6PbnPwsIiX_erjixoTD_Jy3AVXRFk=
+
+2° Après le panneau C117-b21e, sont insérés les panneaux C118 et C119 suivants :
+
+https://www.legifrance.gouv.fr/download/pdf?id=AMHNkeZBop8LMm6PbnPwsIiX_erjixoTD_Jy3AVXRFk=
+
+3° La description de la rampe lumineuse KR41 est complétée par les mots : "ou se déporter" ;
+
+4° Dans la description du signal lumineux KR44, la phrase : "Signal mobile de position d'un rétrécissement temporaire de chaussée." est remplacée par les phrases suivantes : "Sur la chaussée, ce signal mobile de position indique un rétrécissement temporaire de chaussée. Sur accotement des routes à chaussées séparées, ce signal fixe de position indique le côté vers lequel il faut se déporter." ;
+
+5° Après le panonceau M4z, est ajouté le panonceau M4aa suivant :
+
+https://www.legifrance.gouv.fr/download/pdf?id=AMHNkeZBop8LMm6PbnPwsIiX_erjixoTD_Jy3AVXRFk=
+
+6° Après les signaux SR53a, SR53b et SR53c, sont ajoutés les signaux SR54, SR55a, SR55b, et SR55c ainsi définis :
+
+https://www.legifrance.gouv.fr/download/pdf?id=AMHNkeZBop8LMm6PbnPwsIiX_erjixoTD_Jy3AVXRFk=
+
+7° Après le signal XC50, sont insérés les signaux XC118 et XC119 ainsi définis :
+
+https://www.legifrance.gouv.fr/download/pdf?id=AMHNkeZBop8LMm6PbnPwsIiX_erjixoTD_Jy3AVXRFk=
+
+8° L'illustration du signal XC24a est complétée par l'image suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=AMHNkeZBop8LMm6PbnPwsIiX_erjixoTD_Jy3AVXRFk=
+
+9° Après le signal XM4x, est ajouté le signal XM4aa ainsi défini :
+
+https://www.legifrance.gouv.fr/download/pdf?id=AMHNkeZBop8LMm6PbnPwsIiX_erjixoTD_Jy3AVXRFk=
