@@ -8,7 +8,7 @@ How global-law watches every country's sources: [global-law WATCHING.md](https:/
 
 | Source | What is read | Folders | How often | Last read | State |
 | --- | --- | --- | --- | --- | --- |
-| [LEGI, DILA's open data of consolidated law (the data behind Légifrance)](https://echanges.dila.gouv.fr/OPENDATA/LEGI/) | the list of LEGI archives and each new daily increment (every article, structure and version file DILA added or changed that day, and the files it withdrew), applied to a full copy of LEGI kept from DILA's full dump; every article file held here compared with it each day | `constitution/`, `codes/`, `textes/` | daily | 2026-11-25 05:00 UTC | watched |
+| [LEGI, DILA's open data of consolidated law (the data behind Légifrance)](https://echanges.dila.gouv.fr/OPENDATA/LEGI/) | the list of LEGI archives and each new daily increment (every article, structure and version file DILA added or changed that day, and the files it withdrew), applied to a full copy of LEGI kept from DILA's full dump; every article file held here compared with it each day | `constitution/`, `codes/`, `textes/` | daily | 2026-11-26 15:06 UTC | watched |
 | [This repository's other sources (Journal officiel, KALI, ACCO, CNIL, circulaires, Parliament, local authorities)](https://echanges.dila.gouv.fr/OPENDATA/) | — | `journal-officiel/`, `conventions-collectives/`, `accords-entreprise/`, `parlement/`, `circulaires/`, `autorites/`, `collectivites/`, `doctrine/`, `historique/` | — | — | not watched yet: outside corpus.json's scope (LEGI); their updates are not read by the check trail yet |
 
 Sources are read within their robots.txt and terms, with pauses between requests.
