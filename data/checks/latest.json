@@ -1,28 +1,28 @@
 {
- "generated": "2026-11-26T15:26:51Z",
+ "generated": "2026-11-27T15:32:12Z",
  "latest": {
   "legi|france/national/acts": {
-   "attempt": 8,
+   "attempt": 9,
    "audit": null,
    "census": {
     "checked": 119384,
-    "current": 119354,
-    "gone": 2,
+    "current": 119334,
+    "gone": 4,
     "held": 119384,
     "newest_at_source": "LEGITEXT000054665397",
     "newest_in_repo": "LEGITEXT000054665397",
-    "pending": 28,
-    "repo": 119382,
-    "source_in_scope": 119406
+    "pending": 46,
+    "repo": 119380,
+    "source_in_scope": 119427
    },
-   "check_id": "fr-legi-20261126T150646Z",
+   "check_id": "fr-legi-20261127T150037Z",
    "commits": null,
    "corpus": "france/national/acts",
    "error": "RuntimeError: gate: 1 folder(s) differ from the builder's render, e.g. [\"textes/arrete/2025/arrete-2025-09-03-206618: ['ANNEXE-1.md', 'ANNEXE-2.md']\"]",
-   "finished": "2026-11-26T15:26:51Z",
+   "finished": "2026-11-27T15:32:12Z",
    "flags": [],
-   "gap": 188,
-   "note": "LEGI mirror: Freemium_legi_global_20261108-140000.tar.gz and 20 daily increments to LEGI_20261125-221117.tar.gz; this check read 0 increment(s) (none new); the repository's LEGI record reaches 2026-11-25. LEGI holds 155,061 texts, 119,406 with an article in force today (697,279 article files); the 35,521 others (repealed or spent) are in the history only, not listed",
+   "gap": 231,
+   "note": "LEGI mirror: Freemium_legi_global_20261108-140000.tar.gz and 21 daily increments to LEGI_20261126-215653.tar.gz; this check read 0 increment(s) (none new); the repository's LEGI record reaches 2026-11-25. LEGI holds 155,085 texts, 119,427 with an article in force today (697,368 article files); the 35,524 others (repealed or spent) are in the history only, not listed",
    "outcome": "failed",
    "published": {
     "added": [],
@@ -37,21 +37,21 @@
     "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-25",
+   "snapshot": "2026-11-26",
    "source": "legi",
-   "started": "2026-11-26T15:06:46Z",
+   "started": "2026-11-27T15:00:37Z",
    "unexplained": 0,
    "update": {
-    "correction_files": 21,
-    "corrections": 7,
+    "correction_files": 120,
+    "corrections": 20,
     "cut": false,
-    "extra_folders": 2,
-    "held_folders": 30,
-    "last_day": "2026-11-26",
-    "law_commits": 25,
-    "texts": 53,
-    "touched_folders": 54,
-    "until": "2026-11-26"
+    "extra_folders": 4,
+    "held_folders": 51,
+    "last_day": "2026-11-27",
+    "law_commits": 52,
+    "texts": 95,
+    "touched_folders": 98,
+    "until": "2026-11-27"
    },
    "verify": null
   }

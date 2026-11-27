@@ -6,7 +6,7 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for France only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-26 15:26 UTC, LEGI, DILA's open data of consolidated law (the data behind Légifrance): 1 addresses read; 0 added, 0 changed, 0 removed; the check failed; 188 not published, 0 of them with no reason.
+**Last check:** 2026-11-27 15:32 UTC, LEGI, DILA's open data of consolidated law (the data behind Légifrance): 1 addresses read; 0 added, 0 changed, 0 removed; the check failed; 231 not published, 0 of them with no reason.
 
 ## Sources
 
@@ -19,6 +19,15 @@ How global-law monitors every country: [global-law monitoring/](https://github.c
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-27 15:00](checks/2026-11.md#fr-legi-20261127t150037z) | legi | 1 | 0 | 0 | 0 | 231 (0) | the check failed | — |
+| [2026-11-27 14:00](checks/2026-11.md#fr-legi-20261127t140033z) | legi | 1 | 0 | 0 | 0 | 231 (0) | the check failed | — |
+| [2026-11-27 13:00](checks/2026-11.md#fr-legi-20261127t130036z) | legi | 1 | 0 | 0 | 0 | 231 (0) | the check failed | — |
+| [2026-11-27 12:00](checks/2026-11.md#fr-legi-20261127t120034z) | legi | 1 | 0 | 0 | 0 | 231 (0) | the check failed | — |
+| [2026-11-27 11:00](checks/2026-11.md#fr-legi-20261127t110033z) | legi | 1 | 0 | 0 | 0 | 231 (0) | the check failed | — |
+| [2026-11-27 10:00](checks/2026-11.md#fr-legi-20261127t100033z) | legi | 1 | 0 | 0 | 0 | 231 (0) | the check failed | — |
+| [2026-11-27 09:00](checks/2026-11.md#fr-legi-20261127t090033z) | legi | 1 | 0 | 0 | 0 | 231 (0) | the check failed | — |
+| [2026-11-27 08:00](checks/2026-11.md#fr-legi-20261127t080034z) | legi | 1 | 0 | 0 | 0 | 231 (0) | the check failed | — |
+| [2026-11-27 05:00](checks/2026-11.md#fr-legi-20261127t050035z) | legi | 2 | 29 | 291 | 5 | 231 (0) | the check failed | — |
 | [2026-11-26 15:06](checks/2026-11.md#fr-legi-20261126t150646z) | legi | 1 | 0 | 0 | 0 | 188 (0) | the check failed | — |
 | [2026-11-26 14:00](checks/2026-11.md#fr-legi-20261126t140034z) | legi | 1 | 0 | 0 | 0 | 188 (0) | the check failed | — |
 | [2026-11-26 13:00](checks/2026-11.md#fr-legi-20261126t130036z) | legi | 1 | 0 | 0 | 0 | 188 (0) | the check failed | — |
