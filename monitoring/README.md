@@ -6,7 +6,7 @@
 
 Comment global-law surveille chaque pays : [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Cette page fait de même pour France seulement : chaque lecture d’une source officielle, sa date et ce qui en est ressorti (actes ajoutés, modifiés et retirés). La forme lisible par machine est dans [data/checks/](../data/checks/) (JSON Lines, schéma `lexifina-check/1`), dans `git log` sous forme de commits `Kind: check`, et mois par mois dans [checks/](checks/).
 
-**Dernière vérification :** 2026-11-27 15:32 UTC, LEGI, données ouvertes de la DILA sur le droit consolidé (les données de Légifrance) : 1 adresses lues ; 0 ajoutés, 0 modifiés, 0 retirés ; la vérification a échoué ; 231 non publiés, dont 0 sans motif.
+**Dernière vérification :** 2026-11-28 15:16 UTC, LEGI, données ouvertes de la DILA sur le droit consolidé (les données de Légifrance) : 1 adresses lues ; 0 ajoutés, 0 modifiés, 0 retirés ; la vérification a échoué ; 305 non publiés, dont 0 sans motif.
 
 ## Sources
 
@@ -19,6 +19,13 @@ Comment global-law surveille chaque pays : [global-law monitoring/](https://gith
 
 | Début (UTC) | Source | Lues | Ajoutés | Modifiés | Retirés | Non publiés (sans motif) | Résultat | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 15:00](checks/2026-11.md#fr-legi-20261128t150049z) | legi | 1 | 0 | 0 | 0 | 305 (0) | la vérification a échoué | — |
+| [2026-11-28 14:00](checks/2026-11.md#fr-legi-20261128t140058z) | legi | 1 | 0 | 0 | 0 | 305 (0) | la vérification a échoué | — |
+| [2026-11-28 10:00](checks/2026-11.md#fr-legi-20261128t100033z) | legi | 1 | 0 | 0 | 0 | 305 (0) | la vérification a échoué | — |
+| [2026-11-28 09:00](checks/2026-11.md#fr-legi-20261128t090033z) | legi | 4 | 0 | 0 | 0 | 0 (0) | la source n’a pas répondu | — |
+| [2026-11-28 08:00](checks/2026-11.md#fr-legi-20261128t080033z) | legi | 0 | 0 | 0 | 0 | 0 (0) | la vérification a échoué | — |
+| [2026-11-28 07:00](checks/2026-11.md#fr-legi-20261128t070033z) | legi | 0 | 0 | 0 | 0 | 0 (0) | la vérification a échoué | — |
+| [2026-11-28 05:00](checks/2026-11.md#fr-legi-20261128t050035z) | legi | 2 | 45 | 406 | 8 | 305 (0) | la vérification a échoué | — |
 | [2026-11-27 15:00](checks/2026-11.md#fr-legi-20261127t150037z) | legi | 1 | 0 | 0 | 0 | 231 (0) | la vérification a échoué | — |
 | [2026-11-27 14:00](checks/2026-11.md#fr-legi-20261127t140033z) | legi | 1 | 0 | 0 | 0 | 231 (0) | la vérification a échoué | — |
 | [2026-11-27 13:00](checks/2026-11.md#fr-legi-20261127t130036z) | legi | 1 | 0 | 0 | 0 | 231 (0) | la vérification a échoué | — |
