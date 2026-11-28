@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-28T15:16:57Z",
+ "generated": "2026-11-28T16:09:23Z",
  "latest": {
   "legi|france/national/acts": {
-   "attempt": 7,
+   "attempt": 8,
    "audit": null,
    "census": {
     "checked": 119384,
@@ -15,11 +15,11 @@
     "repo": 119374,
     "source_in_scope": 119458
    },
-   "check_id": "fr-legi-20261128T150049Z",
+   "check_id": "fr-legi-20261128T160051Z",
    "commits": null,
    "corpus": "france/national/acts",
    "error": "RuntimeError: gate: 1 folder(s) differ from the builder's render, e.g. [\"textes/arrete/2025/arrete-2025-09-03-206618: ['ANNEXE-1.md', 'ANNEXE-2.md']\"]",
-   "finished": "2026-11-28T15:16:56Z",
+   "finished": "2026-11-28T16:09:22Z",
    "flags": [],
    "gap": 305,
    "note": "LEGI mirror: Freemium_legi_global_20261108-140000.tar.gz and 22 daily increments to LEGI_20261127-214834.tar.gz; this check read 0 increment(s) (none new); the repository's LEGI record reaches 2026-11-25. LEGI holds 155,123 texts, 119,458 with an article in force today (697,490 article files); the 35,527 others (repealed or spent) are in the history only, not listed",
@@ -39,7 +39,7 @@
    },
    "snapshot": "2026-11-27",
    "source": "legi",
-   "started": "2026-11-28T15:00:49Z",
+   "started": "2026-11-28T16:00:51Z",
    "unexplained": 0,
    "update": {
     "correction_files": 169,
